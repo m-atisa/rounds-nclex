@@ -3,7 +3,7 @@
  "moduleNumber": 15,
  "moduleTitle": "Oxygenation",
  "tagline": "Every cell is waiting on the next breath — your assessment decides how long it waits.",
- "overview": "Oxygenation is the process of delivering oxygen to every cell in the body through ventilation (moving air in and out), gas exchange at the alveolar–capillary membrane, and transport by hemoglobin. When airways narrow, alveoli fill, or the pleural space loses its negative pressure, hypoxemia and then tissue hypoxia follow. The nurse's job is to recognize early warning signs, open and clear the airway, deliver oxygen and medications safely, and teach clients to protect their lungs across the lifespan.",
+ "overview": "Oxygenation is the process of providing oxygen to every cell in the body. It depends on ventilation (moving air in and out), gas exchange between inflated alveoli and well-perfused capillaries, and blood that carries the oxygen to the tissues. When secretions or inflammation narrow the airways, alveoli collapse or fill, or the pleural space loses its negative pressure, hypoxemia and then tissue hypoxia follow. The nurse recognizes early warning signs, keeps the airway clear, delivers oxygen and medications safely, and teaches clients to protect their lungs across the lifespan.",
  "topics": [
   {
    "id": "oxygenation-physiology",
@@ -14,43 +14,43 @@
     {
      "heading": "Key terms",
      "bullets": [
-      "<strong>Oxygenation</strong> — the process of providing oxygen to all cells of the body.",
-      "<strong>Ventilation</strong> — mechanical movement of air into (inspiration) and out of (expiration) the lungs. Inspiration is active (diaphragm contracts and flattens, external intercostals lift the ribs); normal expiration is passive elastic recoil. The I:E ratio is about 1:2 — inspiration takes roughly half as long as expiration.",
-      "<strong>Respiration</strong> — exchange of O₂ and CO₂: <em>external</em> respiration at the alveolar–capillary membrane and <em>internal</em> respiration at the tissue level. The word is often used loosely as a synonym for ventilation.",
-      "<strong>Diffusion</strong> — gases move from higher to lower partial pressure: O₂ from alveoli into pulmonary capillary blood, CO₂ from blood into the alveoli.",
-      "<strong>Perfusion</strong> — blood flow through the pulmonary capillaries that picks up O₂ and delivers it to tissues."
+      "<strong>Oxygenation</strong> — the process of providing oxygen to all cells of the body; a function of the respiratory system.",
+      "<strong>Ventilation</strong> — movement of air into (inhalation) and out of (expiration) the lungs. Breathing is normally an automatic process; inspiration takes about half as long as expiration.",
+      "<strong>Respiration</strong> — exchange of O₂ and CO₂ at the cellular level. The term is often used as a synonym for ventilation.",
+      "<strong>Gas exchange</strong> — in the alveoli, O₂ diffuses across the membranes into the blood and CO₂ diffuses from the blood into the alveoli."
      ]
     },
     {
      "heading": "Upper airway",
-     "body": "The nose is the primary entry point for air. The nares and turbinates <strong>warm, humidify, and filter</strong> air. Protective mechanisms include nasal hairs, mucus, cilia (the mucociliary escalator), sneezing, and coughing. Mouth breathing bypasses this filtering and humidification — one reason supplemental oxygen above ~4 L/min by nasal cannula is often humidified."
+     "body": "The upper respiratory system is the inlet for air. The nose is the primary entry: the nares <strong>warm, humidify, and filter</strong> air. Protective mechanisms include <strong>sneezing and cilia</strong>. Breathing also occurs through the mouth, which bypasses this warming and filtering."
     },
     {
      "heading": "Lower airway and lungs",
      "bullets": [
-      "The <strong>trachea</strong> bifurcates at the carina into right and left mainstem bronchi. The <strong>right bronchus is shorter, wider, and more vertical</strong> — aspirated material and an endotracheal tube advanced too far usually go right.",
-      "Trachea and bronchi are held open by <strong>cartilage rings</strong>; bronchioles have no cartilage and are surrounded by <strong>smooth muscle</strong> — which is why bronchospasm (asthma) narrows the small airways.",
-      "Bronchioles → alveolar ducts → alveolar sacs → <strong>alveoli</strong>, the site of gas exchange. Type II alveolar cells make <strong>surfactant</strong>, which lowers surface tension and keeps alveoli from collapsing (atelectasis).",
-      "<strong>Right lung = 3 lobes; left lung = 2 lobes</strong> (room for the heart). The inferior (lower) lobes are the largest.",
-      "<strong>Pleura</strong>: visceral pleura covers the lung; parietal pleura lines the chest wall. The pleural space between them holds a few mL of lubricating fluid under <strong>negative pressure</strong>, which keeps the lung expanded against the chest wall."
+      "The lower respiratory tract is enclosed in the neck and thoracic cavity. The <strong>trachea</strong> is the entrance for air into the lungs; neck muscles stay relaxed, and the chest rises and falls effortlessly and symmetrically with each breath.",
+      "The trachea bifurcates into two bronchi. The <strong>right bronchus is shorter (and wider and more vertical) than the left</strong> — aspirated material usually goes right.",
+      "Trachea and bronchi are supported by <strong>cartilage rings</strong>; bronchioles are supported by <strong>smooth muscle</strong> — which is why bronchospasm (asthma) narrows the small airways.",
+      "Bronchioles → alveolar ducts → alveolar sacs made up of individual <strong>alveoli</strong>, the sites of gas exchange.",
+      "<strong>Right lung = 3 lobes; left lung = 2 lobes.</strong> The inferior (lower) lobes are the largest.",
+      "<strong>Pleura</strong> (two layers): the visceral pleura covers each lung and the parietal pleura lines the chest wall; the <strong>pleural space</strong> lies between them. Its negative pressure keeps the lung expanded against the chest wall."
      ]
     },
     {
      "heading": "Control of breathing",
-     "body": "Breathing is normally automatic (medulla and pons). In the healthy person, the main stimulus to breathe is the <strong>H⁺ concentration of the blood and CSF, which rises and falls directly with PaCO₂</strong>. Rising CO₂ → more H⁺ → lower pH → faster, deeper breathing to blow off CO₂. Falling CO₂ → fewer H⁺ → higher pH → slower breathing. Peripheral chemoreceptors (carotid and aortic bodies) respond to low PaO₂ (below about 60 mm Hg); in some clients with chronic CO₂ retention, the hypoxic stimulus plays a larger role."
+     "body": "Respiratory drive is primarily stimulated by the <strong>concentration of H⁺ in arterial blood</strong>, which varies directly with the arterial CO₂ level. Rising CO₂ → more H⁺ → lower pH → faster, deeper breathing to blow off CO₂. Falling CO₂ → fewer H⁺ → higher pH → slower breathing. A healthy respiratory system compensates by increasing or decreasing the rate and/or depth of respirations."
     },
     {
      "heading": "Ventilation–perfusion (V/Q) matching",
-     "body": "Oxygen delivery requires <strong>inflated, well-oxygenated alveoli</strong> next to <strong>well-perfused capillaries</strong>.",
+     "body": "The ability of the respiratory system to deliver O₂ depends on <strong>inflated, well-oxygenated alveoli</strong> and <strong>well-perfused capillaries</strong>. Alterations in V/Q ratios can leave body cells inadequately oxygenated.",
      "bullets": [
-      "<strong>Shunt (low V/Q)</strong> — perfusion without ventilation: alveoli blocked by sputum, fluid (pulmonary edema, pneumonia), inflammation, or atelectasis.",
-      "<strong>Dead space (high V/Q)</strong> — ventilation without perfusion: pulmonary embolism, plaque, destroyed capillaries in emphysema.",
+      "<strong>Airflow into the alveolus blocked</strong>: sputum, inflammation, atelectasis, fluid volume excess.",
+      "<strong>Blood flow through the capillary blocked</strong>: blood clots, plaque buildup, emphysematous alveoli.",
       "Either mismatch produces hypoxemia even when the client is breathing fast."
      ]
     },
     {
      "heading": "Hypoxemia vs hypoxia",
-     "body": "<strong>Hypoxemia</strong> is low O₂ in arterial blood (PaO₂ < 80 mm Hg, SpO₂ < ~95%). Left untreated it leads to <strong>hypoxia</strong> — inadequate O₂ delivery to tissues. Mild impairment causes fatigue, irritability, and discomfort; severe hypoxia causes organ failure and death."
+     "body": "<strong>Hypoxemia</strong> is a decreased level of O₂ in the blood. Left untreated, it can result in <strong>hypoxia</strong> — decreased delivery of O₂ to the tissues. Mild impairments in oxygenation cause fatigue, irritability, and discomfort; more severe alterations can be fatal if untreated."
     }
    ],
    "table": {
@@ -64,7 +64,7 @@
      [
       "Newborn / infant",
       "30–60",
-      "Obligate nose breathers; irregular pattern and brief pauses < 15–20 sec can be normal in newborns"
+      "Irregular pattern with brief pauses can be normal in newborns"
      ],
      [
       "Toddler",
@@ -94,14 +94,14 @@
      [
       "Older adult",
       "15–20",
-      "Reduced elastic recoil and cough strength"
+      "Weaker cough reflex; ↑ risk of infection and aspiration"
      ]
     ]
    },
    "pearls": [
-    "Aspiration pneumonia in an upright client usually shows up in the right lower lobe — the right mainstem bronchus is the straightest path.",
+    "Aspiration in an upright client usually shows up in the right lower lobe — the right mainstem bronchus is the straightest path.",
     "No cartilage in the bronchioles = smooth muscle controls their diameter. That is the target of bronchodilators.",
-    "Loss of negative pleural pressure (air or fluid in the pleural space) = lung collapse. Chest tubes exist to restore that negative pressure."
+    "Loss of negative pleural pressure (air in the pleural space) = lung collapse. Chest tubes restore that negative pressure."
    ],
    "redFlags": [
     "Any sudden change in breathing pattern must be addressed immediately — breathing is autonomic, so a change means something is wrong.",
@@ -117,30 +117,29 @@
     {
      "heading": "Health history (subjective)",
      "bullets": [
-      "Current symptoms: dyspnea (when, how far can they walk, how many pillows to sleep — <strong>orthopnea</strong>), cough (productive or dry), sputum color/amount/odor, hemoptysis, chest pain (pleuritic = sharp, worse on inspiration or coughing).",
-      "History: asthma, COPD, pneumonia, TB exposure, allergies, recent infections, surgery, immobility.",
-      "Lifestyle: smoking (pack-years = packs/day × years smoked), vaping, occupational and environmental exposures, secondhand smoke.",
-      "Medications: inhalers (technique and frequency of rescue inhaler use), opioids and sedatives (respiratory depressants), beta blockers (can trigger bronchospasm), ACE inhibitors (dry cough)."
+      "Current respiratory problems and history of respiratory disease (asthma, COPD, pneumonia, recent infections).",
+      "Presence of cough and description of sputum (color, amount, consistency); presence of chest pain (pleuritic = sharp, worse with breathing or coughing); dyspnea and <strong>orthopnea</strong> (how many pillows to sleep).",
+      "Lifestyle and risk factors: smoking (pack-years = packs/day × years smoked), secondhand smoke, airborne irritants at home or work.",
+      "Medication history: inhalers (technique and how often the rescue inhaler is used), and medications that depress respiratory rate and depth (opioids, sedatives)."
      ]
     },
     {
      "heading": "Inspection (objective)",
      "bullets": [
-      "<strong>Posture</strong>: tripod position (leaning forward, hands on knees) or orthopneic position signals significant respiratory distress.",
-      "<strong>Effort</strong>: accessory muscle use, nasal flaring, intercostal/substernal retractions, pursed-lip breathing, ability to speak full sentences vs 1–3 word phrases.",
-      "<strong>Chest shape</strong>: barrel chest (AP:lateral diameter ≈ 1:1, COPD) — normal adult ratio is about 1:2; kyphosis, scoliosis, pectus excavatum/carinatum.",
+      "<strong>Posture</strong>: tripod position (leaning forward, hands on knees) signals significant respiratory distress — as M.L. showed in the clinic.",
+      "<strong>Effort</strong>: accessory muscle use, retractions, pursed-lip breathing, difficulty breathing or speaking (1–3 word phrases vs full sentences).",
+      "<strong>Chest shape</strong>: barrel chest (COPD), kyphosis, scoliosis, pectus excavatum/carinatum; the chest should rise and fall symmetrically.",
       "<strong>Color</strong>: pallor, cyanosis (central — lips, tongue, mucous membranes — is more serious than peripheral). Cyanosis is a <em>late</em> sign and may be hard to see in darker skin; inspect oral mucosa and conjunctivae.",
-      "<strong>Clubbing</strong> of the nail beds (angle ≥ 180°) indicates chronic hypoxemia (COPD, cystic fibrosis, congenital heart disease).",
+      "<strong>Clubbing</strong> of the nail beds indicates chronic hypoxemia (e.g., COPD).",
       "<strong>Voice</strong>: hoarse, raspy, or inability to speak."
      ]
     },
     {
      "heading": "Palpation and percussion",
      "bullets": [
-      "Symmetric chest expansion — asymmetry suggests pneumothorax, atelectasis, or splinting.",
-      "Tactile fremitus: ↑ with consolidation (pneumonia); ↓ or absent with pneumothorax, pleural effusion, or air trapping.",
-      "Crepitus (subcutaneous emphysema) — crackling under the skin from air leaking into tissues; seen around chest tubes, after trauma, or with pneumothorax.",
-      "Percussion: resonance (normal), hyperresonance (air trapping, pneumothorax, emphysema), dullness (consolidation, effusion, atelectasis)."
+      "Symmetric chest expansion — asymmetry suggests pneumothorax or atelectasis.",
+      "Tactile fremitus: ↑ over consolidation (pneumonia); ↓ or absent with pneumothorax or air trapping.",
+      "Crepitus — crackling under the skin from air in the tissues; seen around chest tubes, after trauma, or near a newborn's fractured clavicle."
      ]
     },
     {
@@ -174,12 +173,12 @@
      [
       "Fine crackles (rales)",
       "Brief, high-pitched popping, usually late inspiration; do not clear with cough",
-      "Fluid in alveoli: heart failure, pneumonia, atelectasis, pulmonary fibrosis"
+      "Fluid in alveoli: pneumonia, atelectasis, fluid volume excess"
      ],
      [
       "Coarse crackles",
       "Louder, lower-pitched bubbling",
-      "Secretions in larger airways; pulmonary edema, bronchitis"
+      "Secretions in larger airways; bronchitis, fluid volume excess"
      ],
      [
       "Rhonchi (sonorous wheeze)",
@@ -194,17 +193,17 @@
      [
       "Stridor",
       "Loud, high-pitched crowing on <strong>inspiration</strong>, heard without a stethoscope",
-      "Upper airway obstruction: laryngeal edema (post-extubation, anaphylaxis), croup, epiglottitis, foreign body — EMERGENCY"
+      "Upper airway obstruction: laryngeal edema (e.g., after extubation or bronchoscopy, anaphylaxis) or a foreign body — EMERGENCY"
      ],
      [
       "Pleural friction rub",
       "Grating, leathery; inspiration and expiration; localized; does not clear with cough",
-      "Inflamed pleura (pleurisy, pneumonia, PE); client often has pleuritic pain"
+      "Inflamed pleura (e.g., pneumonia); client often has pleuritic pain"
      ],
      [
       "Diminished / absent",
       "Little or no air movement heard",
-      "Atelectasis, pneumothorax, effusion, severe obstruction (silent chest)"
+      "Atelectasis, pneumothorax, severe obstruction (silent chest)"
      ]
     ]
    },
@@ -225,7 +224,7 @@
    "id": "breathing-patterns",
    "title": "Breathing Patterns & Alterations",
    "exemplar": null,
-   "summary": "Rate, depth, and rhythm are clues to the underlying problem — from DKA to a failing brainstem.",
+   "summary": "Rate, depth, and rhythm are clues to the underlying problem — from metabolic acidosis to a failing brain.",
    "sections": [
     {
      "heading": "How alterations are described",
@@ -242,10 +241,9 @@
     {
      "heading": "Other terms",
      "bullets": [
-      "<strong>Dyspnea</strong> — subjective difficult, labored, or uncomfortable breathing.",
-      "<strong>Orthopnea</strong> — dyspnea when lying flat; relieved by sitting up (heart failure, COPD, asthma). Document the number of pillows.",
-      "<strong>Paroxysmal nocturnal dyspnea</strong> — waking suddenly at night short of breath (classic in heart failure).",
-      "<strong>Apnea</strong> — absence of breathing; respiratory arrest."
+      "<strong>Dyspnea</strong> — labored breathing or shortness of breath that is painful.",
+      "<strong>Orthopnea</strong> — difficulty breathing when supine; relieved by sitting up. Document the number of pillows (M.L. used 3).",
+      "<strong>Apnea</strong> — absence of breathing; respiratory arrest is characterized by apnea."
      ]
     }
    ],
@@ -265,12 +263,12 @@
      [
       "Tachypnea",
       "Rate > 20/min, often shallow",
-      "Fever, anxiety, pain, hypoxemia, pneumonia, PE"
+      "Fever, anxiety, pain, hypoxemia, pneumonia"
      ],
      [
       "Bradypnea",
-      "Rate < 10/min (< 12 in many references)",
-      "Opioids/sedatives, ↑ICP, hypothermia"
+      "Rate < 10/min",
+      "Opioids/sedatives, CNS depression"
      ],
      [
       "Hyperventilation",
@@ -279,23 +277,23 @@
      ],
      [
       "Hypoventilation",
-      "Decreased rate/depth → CO₂ retention",
-      "Opioid overdose, neuromuscular disease, COPD, obesity hypoventilation → respiratory acidosis"
+      "Abnormally slow rate → inadequate O₂ delivery to the lungs and CO₂ retention",
+      "Opioid/sedative effect, COPD, fatigue → respiratory acidosis"
      ],
      [
       "Kussmaul",
       "Deep, rapid, regular breathing (labored)",
-      "<strong>Metabolic acidosis</strong> (DKA, renal failure) — compensatory, blows off CO₂ to raise pH"
+      "<strong>Metabolic acidosis</strong> (e.g., DKA, kidney failure) — compensatory, blows off CO₂ to raise pH"
      ],
      [
       "Cheyne-Stokes",
       "Cycles of gradually deeper and faster breaths, then gradually shallower, followed by apnea (crescendo–decrescendo)",
-      "Heart failure, ↑ICP/brain injury, drug overdose, near death"
+      "Heart failure, ↑ICP, drug overdose"
      ],
      [
       "Biot (ataxic)",
-      "Irregular shallow (or deep) breaths with unpredictable periods of apnea",
-      "CNS damage: brainstem injury, meningitis, ↑ICP"
+      "Shallow breathing with irregular periods of apnea",
+      "CNS disorders (brain injury, meningitis, ↑ICP)"
      ],
      [
       "Apnea",
@@ -310,8 +308,8 @@
     "Hyperventilation → respiratory alkalosis (tingling, lightheadedness); hypoventilation → respiratory acidosis (headache, drowsiness)."
    ],
    "redFlags": [
-    "New Biot or Cheyne-Stokes breathing in a client with a head injury — suggests rising ICP/brainstem compromise; notify the provider immediately.",
-    "Respiratory rate < 10/min with sedation after an opioid — stimulate, support airway, prepare naloxone per protocol."
+    "New Biot or Cheyne-Stokes breathing in a client with a brain injury — suggests worsening CNS status; notify the provider immediately.",
+    "Respiratory rate < 10/min with sedation after an opioid — stimulate, support the airway, and notify the provider."
    ]
   },
   {
@@ -328,38 +326,37 @@
       "<strong>3. HCO₃⁻ (metabolic, a base)</strong>: < 22 = acid; > 26 = base.",
       "<strong>4. Match with ROME</strong>: <strong>R</strong>espiratory <strong>O</strong>pposite (pH ↓ and PaCO₂ ↑, or pH ↑ and PaCO₂ ↓); <strong>M</strong>etabolic <strong>E</strong>qual (pH and HCO₃⁻ move in the same direction).",
       "<strong>5. Compensation</strong>: <em>Uncompensated</em> — pH abnormal, the other system still normal. <em>Partially compensated</em> — pH abnormal and both PaCO₂ and HCO₃⁻ abnormal (moving in opposite acid/base directions). <em>Fully compensated</em> — pH normal (7.35–7.45) but PaCO₂ and HCO₃⁻ both abnormal; look at which side of 7.40 the pH sits to name the original problem.",
-      "<strong>6. Oxygenation</strong>: PaO₂ < 80 = hypoxemia; < 60 mm Hg is severe and usually correlates with SaO₂ < 90%."
+      "<strong>6. Oxygenation</strong>: <strong>PaO₂</strong> = amount of O₂ dissolved in the blood; <strong>SaO₂</strong> = percentage of O₂ bound to hemoglobin. Low values = hypoxemia."
      ]
     },
     {
      "heading": "Obtaining an ABG",
      "bullets": [
-      "Usually radial artery; perform/confirm a <strong>modified Allen test</strong> for ulnar collateral flow first.",
-      "Note FiO₂/O₂ flow and client temperature on the requisition; wait about 20–30 minutes after changing O₂ settings or suctioning before drawing.",
-      "Place sample on ice if not analyzed promptly; remove air bubbles.",
-      "Apply firm pressure to the site for <strong>at least 5 minutes</strong> (10+ minutes if on anticoagulants); check distal circulation."
+      "Usually drawn from the radial artery; note the client's oxygen flow on the requisition.",
+      "Apply firm pressure to the site for <strong>at least 5 minutes</strong> (longer if the client takes an anticoagulant); check distal circulation."
      ]
     },
     {
      "heading": "Pulse oximetry (SpO₂)",
-     "body": "Noninvasive estimate of the percentage of hemoglobin saturated with O₂. Normal is about 95–100%; target for most clients ≥ 92–94%; for clients with chronic CO₂ retention (COPD), usually <strong>88–92%</strong>. SpO₂ lags behind a sudden change and only tells you about saturation — not ventilation (CO₂) or oxygen content.",
+     "body": "Noninvasive estimate of the percentage of hemoglobin saturated with O₂. Normal is about 95–100%; for clients with chronic CO₂ retention (COPD), the prescribed target is often <strong>88–92%</strong>. SpO₂ tells you only about saturation — not ventilation (CO₂) or how much hemoglobin is available.",
      "bullets": [
-      "<strong>Falsely high</strong>: carbon monoxide poisoning (the probe reads carboxyhemoglobin as oxyhemoglobin — obtain co-oximetry); darker skin pigmentation (FDA-recognized overestimation → occult hypoxemia).",
-      "<strong>Unreliable/low or no signal</strong>: poor peripheral perfusion (cold extremities, hypotension, vasoconstrictors, PAD), motion/shivering, dark nail polish or artificial nails, bright ambient light, edema at the site.",
-      "<strong>Misleading</strong>: severe anemia — SpO₂ can be normal while total O₂-carrying capacity is low.",
-      "Fixes: warm the site, try an ear or forehead probe, remove polish, correlate with the client's appearance and an ABG."
+      "<strong>Unreliable or no signal</strong>: poor peripheral perfusion (cold extremities, hypotension), motion/shivering, dark nail polish.",
+      "<strong>Overestimation</strong>: darker skin pigmentation can make the reading falsely high — correlate with the client's appearance.",
+      "<strong>Misleading</strong>: severe anemia — SpO₂ can be normal while the total O₂ carried is low.",
+      "Treat the client, not the number: correlate with assessment and obtain an ABG when in doubt."
      ]
     },
     {
      "heading": "Other tests",
      "bullets": [
       "<strong>Sputum specimen</strong>: collect early morning, before antibiotics; rinse mouth with water (no mouthwash), deep breaths, cough from deep in the chest into a sterile cup.",
-      "<strong>Pulmonary function tests (PFTs)</strong>: spirometry (FEV₁, FVC, FEV₁/FVC < 0.70 after bronchodilator = obstruction, as in COPD). Hold bronchodilators as instructed; no smoking before test.",
-      "<strong>Peak expiratory flow rate (PEFR)</strong>: asthma self-monitoring — green ≥ 80% of personal best, yellow 50–79% (use rescue med, follow action plan), red < 50% (rescue med and seek emergency care). Stand, take a deep breath, blow out hard and fast, best of three.",
-      "<strong>Chest x-ray</strong>: infiltrates, effusion, pneumothorax, tube placement.",
-      "<strong>V/Q scan and CT pulmonary angiogram</strong>: pulmonary embolism. Check contrast allergy and renal function (creatinine) for CT angiography.",
-      "<strong>Bronchoscopy</strong>: NPO before; after — keep NPO until gag reflex returns; watch for bleeding, stridor, bronchospasm.",
-      "<strong>Thoracentesis</strong>: removal of pleural fluid. Position upright, leaning forward over the overbed table; stay still, no coughing during insertion. Usually ≤ 1–1.5 L removed at once (re-expansion pulmonary edema). Afterward: monitor for pneumothorax (dyspnea, ↓breath sounds, ↓SpO₂), bleeding; chest x-ray as ordered."
+      "<strong>Pulmonary function tests (PFTs)</strong>: measure lung volumes and airflow to identify obstructive disease (asthma, COPD); follow instructions about holding inhalers and no smoking before the test.",
+      "<strong>Incentive spirometry</strong>: measures the volume the client can inhale and encourages deep breathing (see Airway Clearance).",
+      "<strong>Peak expiratory flow rate (PEFR)</strong>: asthma self-monitoring — green ≥ 80% of personal best, yellow 50–79% (use rescue med, follow action plan), red < 50% (rescue med and seek emergency care).",
+      "<strong>Chest x-ray</strong>: infiltrates (pneumonia — as in M.L.), pneumothorax, tube placement.",
+      "<strong>Pulmonary angiogram and V/Q scan</strong>: look for blocked pulmonary blood flow (e.g., a clot). Angiography uses IV contrast — check kidney function and prior contrast reactions.",
+      "<strong>Bronchoscopy</strong>: NPO before; afterward keep NPO until the gag reflex returns; watch for bleeding, stridor, and signs of pneumothorax.",
+      "<strong>Thoracentesis</strong>: removal of pleural fluid. Position upright, leaning forward over the overbed table; stay still, no coughing during insertion. Afterward monitor for pneumothorax (dyspnea, ↓breath sounds, ↓SpO₂) and bleeding; chest x-ray as ordered."
      ]
     }
    ],
@@ -379,7 +376,7 @@
      [
       "PaCO₂",
       "35–45 mm Hg",
-      "> 45 hypercapnia (respiratory acid); < 35 hypocapnia"
+      "> 45 hypercarbia (hypercapnia); < 35 hypocarbia (hypocapnia)"
      ],
      [
       "HCO₃⁻",
@@ -389,7 +386,7 @@
      [
       "PaO₂",
       "80–100 mm Hg",
-      "Dissolved O₂; < 80 hypoxemia, < 60 severe"
+      "O₂ dissolved in blood; low = hypoxemia"
      ],
      [
       "SaO₂",
@@ -401,12 +398,12 @@
    "pearls": [
     "ROME: Respiratory Opposite, Metabolic Equal.",
     "COPD 'normal' can be a fully compensated respiratory acidosis: pH 7.36, PaCO₂ 55, HCO₃⁻ 31. Know the client's baseline.",
-    "A carbon monoxide victim can have an SpO₂ of 99% and be dying — use co-oximetry and 100% O₂ by nonrebreather.",
-    "In asthma, a normal or rising PaCO₂ during an attack is ominous: the client is tiring and no longer blowing off CO₂."
+    "In an asthma attack, a normal or rising PaCO₂ is ominous: the client is tiring and no longer blowing off CO₂.",
+    "SaO₂ is a percentage; PaO₂ is an amount. Both low = hypoxemia."
    ],
    "redFlags": [
     "SpO₂ that does not match the client's appearance (e.g., 97% but confused and cyanotic).",
-    "Sudden dyspnea, ↓breath sounds, or ↓SpO₂ after thoracentesis or central line insertion — suspect pneumothorax.",
+    "Sudden dyspnea, ↓breath sounds, or ↓SpO₂ after thoracentesis or bronchoscopy — suspect pneumothorax.",
     "PEFR in the red zone (< 50% of personal best)."
    ]
   },
@@ -419,15 +416,15 @@
     {
      "heading": "Principles",
      "bullets": [
-      "Indicated by ↓SpO₂/PaO₂ or signs of hypoxia; in an emergency, apply O₂ first and obtain the order per protocol.",
-      "Noninvasive devices require a <strong>patent airway</strong> and spontaneous breathing to be effective.",
-      "<strong>Low-flow devices</strong> (nasal cannula, simple mask, nonrebreather) — FiO₂ varies with the client's breathing pattern. <strong>High-flow devices</strong> (Venturi mask, high-flow nasal cannula) deliver a precise, consistent FiO₂.",
-      "Humidify when flow is > 4 L/min by cannula or per facility policy to prevent mucosal drying."
+      "Need is indicated by a decreased O₂ saturation or signs of hypoxia; oxygen is a medication that requires an order and a target.",
+      "Noninvasive devices require a <strong>patent airway</strong> to be effective.",
+      "Nasal cannula, simple mask, and nonrebreather deliver an FiO₂ that varies with the client's breathing; a <strong>Venturi mask</strong> delivers a precise FiO₂.",
+      "Humidify higher cannula flows (about > 4 L/min) or per facility policy to prevent mucosal drying."
      ]
     },
     {
      "heading": "Clients with chronic CO₂ retention (COPD)",
-     "body": "Titrate to a target SpO₂ of <strong>88–92%</strong>. Excess oxygen can worsen hypercapnia (mainly through worsened V/Q mismatch and the Haldane effect, and in some clients a blunted hypoxic drive). But <strong>never withhold oxygen from a hypoxemic client in distress</strong> — give O₂, titrate, and monitor mental status, RR, and ABGs. A Venturi mask is ideal when a precise low FiO₂ is needed."
+     "body": "Titrate to the prescribed target, often <strong>88–92%</strong>. Excess oxygen can worsen CO₂ retention and cause drowsiness and confusion. But <strong>never withhold oxygen from a hypoxemic client in distress</strong> — give O₂, titrate, and monitor mental status, RR, and ABGs. A Venturi mask is ideal when a precise low FiO₂ is needed."
     },
     {
      "heading": "Oxygen safety",
@@ -435,14 +432,12 @@
       "Oxygen supports combustion: no smoking or open flames (post 'No Smoking — Oxygen in Use'); keep away from heat sources, candles, gas stoves, and fireplaces.",
       "Use <strong>water-based</strong> lubricant on lips/nares — never petroleum jelly or oil-based products.",
       "Secure cylinders upright in a stand or cart; check tank levels before transport.",
-      "Avoid static-producing materials (wool, synthetic blankets); check electrical equipment.",
-      "Assess skin behind ears, over the bridge of the nose, and nares for pressure injury; pad tubing as needed.",
-      "Oxygen toxicity risk with high FiO₂ (> 50–60%) for more than 24–48 hours; wean to the lowest effective FiO₂."
+      "Assess skin behind ears, over the bridge of the nose, and nares for pressure injury; pad tubing as needed."
      ]
     },
     {
      "heading": "When noninvasive O₂ is not enough",
-     "body": "Escalation may include <strong>noninvasive positive-pressure ventilation</strong> (CPAP/BiPAP) for alert clients who can protect their airway, and <strong>intubation with mechanical ventilation</strong> for failing clients (rising PaCO₂, falling LOC, exhaustion, SpO₂ not improving despite high-flow O₂)."
+     "body": "If SpO₂ keeps falling despite escalating oxygen, with rising PaCO₂, falling LOC, or exhaustion, the client may need <strong>intubation and mechanical ventilation</strong> — as M.L. did before her pneumonia was treated."
     }
    ],
    "table": {
@@ -458,7 +453,7 @@
       "Nasal cannula",
       "1–6 L/min",
       "24–44% (≈ +4% per L)",
-      "Comfortable; client can eat and talk. Humidify > 4 L. Mouth breathing reduces effectiveness somewhat."
+      "Comfortable; client can eat and talk. Humidify higher flows. Mouth breathers still receive oxygen."
      ],
      [
       "Simple face mask",
@@ -467,34 +462,16 @@
       "Flow must be ≥ 5 L/min to flush exhaled CO₂ from the mask. Remove to eat."
      ],
      [
-      "Partial rebreather",
-      "6–15 L/min",
-      "40–70%",
-      "Reservoir bag should stay about 1/3–1/2 full."
-     ],
-     [
       "Nonrebreather (NRB)",
       "10–15 L/min",
       "60–90%+",
-      "Highest FiO₂ without an advanced device. One-way valves; <strong>reservoir bag must stay at least 2/3 inflated</strong> and never collapse on inspiration. Used for acute hypoxemia, CO poisoning."
+      "Highest FiO₂ of the standard masks. One-way valves; <strong>reservoir bag must stay at least 2/3 inflated</strong> and never collapse on inspiration. Used for acute hypoxemia."
      ],
      [
       "Venturi mask",
       "Per adapter (e.g., 2–15 L/min)",
       "24–50% (some to 60%)",
       "<strong>Most precise FiO₂</strong> — color-coded adapters; ideal for COPD. Keep entrainment ports uncovered."
-     ],
-     [
-      "High-flow nasal cannula (HFNC)",
-      "Up to 60 L/min",
-      "21–100%",
-      "Heated and humidified; provides some PEEP and washes out dead space; used in acute hypoxemic respiratory failure."
-     ],
-     [
-      "Face tent / trach collar",
-      "8–10+ L/min",
-      "Variable (≈ 28–50%)",
-      "Humidified; for facial trauma/burns or tracheostomy."
      ]
     ]
    },
@@ -505,7 +482,7 @@
     "Don't rely on the device alone — reassess SpO₂, RR, work of breathing, and mental status after every change."
    ],
    "redFlags": [
-    "SpO₂ falling despite escalating O₂ (e.g., 10–15 L/min by mask) — notify the provider/rapid response; anticipate NIV or intubation.",
+    "SpO₂ falling despite escalating O₂ (e.g., 10 L/min by mask, as with M.L. in the ED) — notify the provider/rapid response; anticipate intubation.",
     "COPD client on O₂ becoming increasingly drowsy or confused with a rising PaCO₂ — CO₂ narcosis.",
     "Any open flame, smoking, or petroleum product near oxygen."
    ]
@@ -514,15 +491,15 @@
    "id": "airway-clearance",
    "title": "Airway Clearance, Positioning & Suctioning",
    "exemplar": null,
-   "summary": "Independent nursing interventions — positioning, deep breathing, incentive spirometry, CPT, and suctioning — keep airways open and alveoli inflated.",
+   "summary": "Independent nursing interventions — positioning, deep breathing, incentive spirometry, secretion clearance, and suctioning — keep airways open and alveoli inflated; PVD is prescribed for persistent congestion.",
    "sections": [
     {
      "heading": "Positioning",
      "bullets": [
-      "<strong>High Fowler's or semi-Fowler's</strong> — lowers the diaphragm and maximizes lung expansion.",
-      "<strong>Tripod / orthopneic</strong> — sitting and leaning forward on an overbed table (arms supported) lets accessory muscles work; the position clients with COPD/asthma assume on their own.",
-      "Unilateral lung disease: position with the <strong>'good lung down'</strong> — gravity sends more blood to the dependent, healthier lung, improving V/Q matching (exceptions: lung abscess/hemorrhage, infants).",
-      "Reposition immobile clients at least every 2 hours; ambulate early after surgery."
+      "<strong>High Fowler's or semi-Fowler's</strong> — lowers the diaphragm and maximizes lung expansion; never lay a dyspneic client flat.",
+      "<strong>Tripod / orthopneic</strong> — sitting and leaning forward on an overbed table (arms supported) lets accessory muscles work; the position clients with COPD or asthma assume on their own.",
+      "Pregnancy: avoid prolonged supine positioning; a lateral tilt protects blood flow to the fetus.",
+      "Reposition immobile clients at least every 2 hours; ambulate early after surgery. Side-lying protects the airway of a drowsy client who may vomit."
      ]
     },
     {
@@ -548,34 +525,33 @@
      ]
     },
     {
-     "heading": "Chest physiotherapy (CPT): percussion, vibration, postural drainage",
+     "heading": "Percussion, vibration, and postural drainage (PVD)",
      "bullets": [
-      "<strong>Postural drainage</strong> uses gravity — position so the affected lobe is higher than the trachea; lower lobes often need head-down positions (not tolerated with ↑ICP, recent surgery, severe HF, GERD).",
-      "<strong>Percussion</strong>: cupped hands, rhythmically over the affected lung segment, over a thin layer of cloth; <strong>avoid the spine, sternum, kidneys, breasts, and below the ribs</strong>.",
+      "Prescribed for persistent congestion — as in M.L.'s discharge plan, with her mother performing it at home after teaching by the respiratory therapist.",
+      "<strong>Postural drainage</strong> uses gravity — position so the congested lobe drains toward the large airways.",
+      "<strong>Percussion</strong>: cupped hands, rhythmically over the ribs covering the congested area; <strong>avoid the spine, sternum, and below the ribs</strong>.",
       "<strong>Vibration</strong>: flat hands with tensed arms vibrate the chest wall during <em>exhalation</em>.",
-      "Timing: <strong>before meals or 1–2 hours after</strong> to prevent vomiting/aspiration; give bronchodilators/mucolytics first; have the client cough or suction afterward; provide oral care.",
-      "Contraindications/caution: rib fractures, osteoporosis, bleeding risk, recent chest surgery, unstable hemodynamics, pulmonary embolism."
+      "Timing: <strong>before meals</strong> to prevent vomiting and aspiration; give the nebulized bronchodilator (albuterol) and mucolytic (acetylcysteine) first; have the client cough and expectorate afterward."
      ]
     },
     {
      "heading": "Suctioning",
      "bullets": [
-      "Suction <strong>when indicated</strong> (visible/audible secretions, coarse crackles or rhonchi, ↓SpO₂, ↑work of breathing, ineffective cough) — not on a fixed schedule.",
-      "Oropharyngeal (Yankauer) is clean technique; nasotracheal and tracheal/ET suctioning are <strong>sterile</strong>.",
-      "Semi-Fowler's (or lateral if unconscious); <strong>preoxygenate</strong> (100% O₂ for artificial airways per policy).",
-      "Wall pressure for adults typically <strong>100–150 mm Hg</strong> (AARC: stay below 200); lower for children and infants.",
-      "Insert catheter <strong>without suction</strong>; apply intermittent suction while withdrawing and rotating; each pass <strong>≤ 10–15 seconds</strong>.",
-      "Reoxygenate and allow 20–30 seconds (or recovery of SpO₂/HR) between passes; limit to about 2–3 passes.",
-      "Stop immediately for bradycardia, dysrhythmia, or significant desaturation (vagal stimulation/hypoxemia) and oxygenate.",
-      "Suction the trachea before the mouth when using the same catheter (never go from mouth to trachea)."
+      "Suction <strong>when indicated</strong> (visible/audible secretions, rhonchi, ↓SpO₂, ↑work of breathing, ineffective cough) — not on a fixed schedule. Older adults with a decreased gag/cough reflex often need frequent suctioning.",
+      "Oropharyngeal (Yankauer) suctioning is clean technique for secretions in the mouth; tracheal suctioning is <strong>sterile</strong>.",
+      "Semi-Fowler's (or lateral if unconscious); <strong>preoxygenate</strong>.",
+      "Wall pressure for adults is typically <strong>100–150 mm Hg</strong>.",
+      "Insert the catheter <strong>without suction</strong>; apply intermittent suction while withdrawing and rotating; each pass <strong>≤ 10–15 seconds</strong>.",
+      "Reoxygenate between passes and reassess SpO₂, heart rate, and breath sounds.",
+      "Stop immediately for bradycardia or significant desaturation (vagal stimulation/hypoxemia) and oxygenate."
      ]
     }
    ],
    "pearls": [
     "Incentive spirometer: 'Suck it slow, hold it, let it go.'",
-    "CPT order: bronchodilator → mucolytic → percussion/vibration/postural drainage → cough → oral care — all before meals.",
-    "RN assesses and teaches; UAP can reinforce IS use, reposition, obtain SpO₂ on a stable client, and (per state/facility) perform oral Yankauer suction on stable clients.",
-    "Older adults have a weaker cough and gag reflex — they often need more frequent suctioning and coughing coaching."
+    "PVD order: bronchodilator → mucolytic → percussion/vibration/postural drainage → cough — all before meals.",
+    "RN assesses and teaches; UAP can reinforce IS use, reposition, assist with ADLs, and obtain SpO₂ on a stable client.",
+    "Older adults have a weaker cough and gag reflex — they often need more frequent suctioning and coaching on effective coughing."
    ],
    "redFlags": [
     "Heart rate drops or SpO₂ falls during suctioning — stop and oxygenate.",
@@ -591,9 +567,9 @@
    "sections": [
     {
      "heading": "Rescue vs controller",
-     "body": "<strong>Rescue (quick-relief)</strong>: SABA (albuterol) — onset within minutes. <strong>Controller (long-term)</strong>: ICS, LABA (always combined with an ICS in asthma), LAMA, leukotriene modifiers, theophylline, biologics. Current GINA (2024) guidance: adults and adolescents with asthma should not be treated with a SABA alone; all should receive an ICS-containing medication, and as-needed low-dose ICS-formoterol is the preferred reliever. Many U.S. clients still carry albuterol as their rescue inhaler.",
+     "body": "<strong>Rescue (quick-relief)</strong>: short-acting beta-agonists (SABA, e.g., albuterol) — bronchodilation within minutes. <strong>Controllers (long-term)</strong>: inhaled corticosteroids (reduce inflammation), LABA + inhaled corticosteroid combinations for chronic respiratory problems (e.g., fluticasone/salmeterol — Advair), and xanthines (theophylline). <strong>Anticholinergics</strong> (ipratropium is the most commonly prescribed) are an alternative for clients who cannot tolerate beta-agonists. Systemic corticosteroids (prednisone) treat exacerbations.",
      "bullets": [
-      "Using a rescue inhaler more than twice a week (outside of exercise pretreatment), or needing it QID as in the M.L. case, signals <strong>poorly controlled asthma</strong> — report it."
+      "Needing a rescue inhaler more often — or QID, as M.L. did — signals <strong>poorly controlled asthma</strong>; report it."
      ]
     },
     {
@@ -615,7 +591,7 @@
     },
     {
      "heading": "Adherence",
-     "body": "Medication adherence is critical in chronic respiratory disease. Barriers include cost (multiple medications, high copays), complex regimens, and poor technique. Manufacturers' assistance programs, generics, and simplifying regimens help. Allergen immunotherapy (allergy shots) may be used for allergic asthma — observe at least 30 minutes after injection for anaphylaxis."
+     "body": "Medication adherence is critical in chronic or recurrent respiratory impairment. The expense of medications can be an obstacle — multiple medications and higher copays — and pharmaceutical companies may have programs to help with costs. <strong>Immunotherapy (allergy shots)</strong> may be used for allergic asthma; the client is observed after each injection for anaphylaxis (treated first with IM epinephrine)."
     }
    ],
    "table": {
@@ -628,19 +604,19 @@
     ],
     "rows": [
      [
-      "SABA — albuterol, levalbuterol",
+      "SABA — albuterol",
       "β₂ agonist; rapid bronchodilation; rescue",
       "Tachycardia, palpitations, tremor, nervousness, hypokalemia",
       "Carry at all times; report increasing use. Give before other inhalers."
      ],
      [
-      "LABA — salmeterol, formoterol (in Advair, Symbicort)",
+      "LABA — salmeterol (in Advair)",
       "Long-acting bronchodilation; maintenance",
-      "Tachycardia, tremor; LABA alone ↑ risk of severe asthma events",
-      "<strong>Not for acute attacks</strong> (salmeterol). In asthma, only with an ICS. Use every day as scheduled."
+      "Tachycardia, tremor",
+      "<strong>Not for acute attacks.</strong> Used with an inhaled corticosteroid for chronic problems; take every day as scheduled."
      ],
      [
-      "ICS — fluticasone (Flovent), budesonide, beclomethasone",
+      "Inhaled corticosteroids — fluticasone (Flovent), budesonide",
       "Reduce airway inflammation; long-term control",
       "Oral candidiasis, hoarseness/dysphonia; high dose: bone loss, growth slowing in children",
       "Daily even when well; rinse and spit; spacer. Takes days–weeks for full effect."
@@ -652,28 +628,28 @@
       "Take with food in the morning; monitor glucose; do not stop abruptly after long-term use."
      ],
      [
-      "Anticholinergics — ipratropium (SAMA), tiotropium (LAMA)",
-      "Block bronchoconstriction; COPD maintenance; alternative when β-agonists not tolerated",
+      "Anticholinergic — ipratropium",
+      "Blocks bronchoconstriction; alternative for clients who cannot tolerate beta-agonists",
       "Dry mouth, urinary retention, blurred vision",
-      "Caution in narrow-angle glaucoma and BPH; avoid spraying into eyes; tiotropium once daily, not for rescue."
+      "Caution in narrow-angle glaucoma and BPH; avoid spraying into the eyes."
      ],
      [
-      "Methylxanthine — theophylline",
-      "Bronchodilator (asthma, chronic bronchitis, emphysema); also ↑HR and renal blood flow",
+      "Xanthine — theophylline",
+      "Bronchodilator (asthma, chronic bronchitis, emphysema); also ↑ heart rate and renal blood flow",
       "Narrow therapeutic index: N/V, restlessness, insomnia, tachycardia, dysrhythmias, seizures",
-      "Therapeutic level traditionally 10–20 mcg/mL (many now target 5–15). Limit caffeine; smoking ↓ level; cimetidine, ciprofloxacin ↑ level."
-     ],
-     [
-      "Leukotriene modifier — montelukast",
-      "Anti-inflammatory controller; allergic asthma",
-      "Headache; neuropsychiatric effects (FDA boxed warning)",
-      "Take in evening; report mood changes, nightmares, suicidal thoughts."
+      "Narrow therapeutic range (traditionally 10–20 mcg/mL); monitor levels; limit caffeine; hold and report signs of toxicity."
      ],
      [
       "Mucolytic — acetylcysteine (nebulized)",
       "Breaks disulfide bonds in mucus to thin secretions",
       "<strong>Bronchospasm</strong> (esp. asthma), nausea, rhinorrhea, stomatitis, 'rotten egg' sulfur odor",
       "Give a bronchodilator first (10–15 min before); have suction available — secretions increase; cough, postural drainage afterward."
+     ],
+     [
+      "Immunotherapy — allergy shots",
+      "Gradual desensitization to allergens; allergic asthma",
+      "Local reaction; <strong>anaphylaxis</strong>",
+      "Observe after each injection; epinephrine available."
      ]
     ]
    },
@@ -697,21 +673,20 @@
    "sections": [
     {
      "heading": "Pneumothorax",
-     "body": "Air enters the pleural space through an opening in the chest wall or the lung, destroying the negative pressure that keeps the lung expanded → lung collapse.",
+     "body": "Air enters the pleural space through an opening in the chest wall or an opening in the lung, causing loss of the negative pressure necessary for lung expansion → lung collapse.",
      "bullets": [
-      "<strong>Signs</strong>: sudden sharp pleuritic chest pain worse with breathing/coughing, dyspnea, tachypnea, tachycardia, <strong>decreased or absent breath sounds on the affected side</strong>, asymmetric chest movement, hyperresonance, ↓SpO₂, cyanosis, subcutaneous emphysema.",
-      "<strong>Spontaneous (primary)</strong>: no identifiable cause — classically a tall, thin young male, often a smoker (ruptured blebs). Secondary spontaneous pneumothorax occurs with COPD, CF, etc.",
-      "<strong>Traumatic</strong>: penetrating or blunt chest trauma, rib fractures; <strong>iatrogenic</strong>: central line insertion, thoracentesis, mechanical ventilation.",
-      "<strong>Open ('sucking') chest wound</strong>: cover with a vented/occlusive dressing taped on three sides."
+      "<strong>Signs</strong>: sudden sharp pleuritic pain worsened by breathing and coughing, shortness of breath, <strong>decreased or absent breath sounds over the affected side</strong>, asymmetrical chest wall movement, cyanosis; also tachypnea, tachycardia, and ↓SpO₂.",
+      "<strong>Spontaneous</strong>: occurs without an identifiable cause (classically a tall, thin young adult who smokes; also a ruptured bulla in emphysema).",
+      "<strong>Tension</strong>: results from traumatic injury — a life-threatening emergency (below)."
      ]
     },
     {
      "heading": "Tension pneumothorax — LIFE-THREATENING EMERGENCY",
-     "body": "Air enters the pleural space with each breath but cannot escape (one-way valve). Pressure builds, collapses the lung, and shifts the mediastinum toward the unaffected side, kinking the great vessels and blocking venous return → obstructive shock. Most often from trauma or positive-pressure (mechanical) ventilation; can also follow a clamped or occluded chest tube.",
+     "body": "Air enters the pleural space but cannot escape. Pressure builds, collapses the lung, and shifts the mediastinum toward the unaffected side, compressing the heart and great vessels. It results from traumatic injury and can also follow a clamped or blocked chest tube.",
      "bullets": [
       "Severe respiratory distress, absent breath sounds on the affected side, <strong>tachycardia, hypotension, JVD</strong>, falling SpO₂, cyanosis.",
-      "<strong>Tracheal deviation toward the unaffected side</strong> (a late sign).",
-      "Treatment: call rapid response, 100% O₂, prepare for immediate <strong>needle decompression</strong> (ATLS 10th ed.: 4th/5th intercostal space just anterior to the midaxillary line in adults; the 2nd ICS midclavicular line is the traditional site) followed by chest tube insertion."
+      "<strong>Tracheal deviation toward the unaffected side</strong>.",
+      "Nursing action: call the rapid response team, stay with the client, give oxygen, and prepare for emergency decompression by the provider followed by a chest tube. Do not wait for an x-ray."
      ]
     },
     {
@@ -719,7 +694,7 @@
      "bullets": [
       "<strong>Collection chamber</strong>: drainage — mark level/time each shift (or per order). Never empty it; replace the unit when full.",
       "<strong>Water seal chamber</strong>: one-way valve (≈ 2 cm water). <strong>Tidaling</strong> (water rising with inspiration and falling with expiration in a spontaneously breathing client — reversed on a ventilator) is expected. <strong>Intermittent bubbling</strong> on exhalation/cough is expected with a pneumothorax as air leaves. <strong>Continuous bubbling</strong> = air leak.",
-      "<strong>Suction control</strong>: wet suction — gentle continuous bubbling is expected (vigorous bubbling only evaporates water); dry suction — a set dial with an indicator (bellows/float).",
+      "<strong>Suction control</strong>: wet suction — gentle continuous bubbling is expected; dry suction — a set dial with an indicator.",
       "Tidaling stops when the lung has re-expanded — or when the tubing is kinked, clotted, or looped. Assess the client and tubing before assuming re-expansion."
      ]
     },
@@ -733,7 +708,7 @@
       "<strong>Do not clamp routinely</strong> (risk of tension pneumothorax) — clamp only briefly per order/policy: locating an air leak, changing the drainage unit, or a provider-ordered trial before removal.",
       "Do not routinely strip or milk tubing; gently squeeze only per policy to move clots.",
       "Keep a sterile occlusive dressing (petroleum gauze) and a bottle of sterile water at the bedside.",
-      "Report drainage > 100 mL/hr (or per order; > 200 mL/hr is a common surgical threshold), bright red drainage, or a sudden stop of drainage with increasing distress.",
+      "Report drainage > 100 mL/hr, bright red drainage, or a sudden stop of drainage with increasing distress.",
       "Removal: client performs Valsalva (or exhales and holds) as the tube is pulled; apply an occlusive dressing; chest x-ray afterward."
      ]
     }
@@ -808,21 +783,21 @@
    "sections": [
     {
      "heading": "Asthma",
-     "body": "Chronic airway inflammation with reversible bronchoconstriction, mucosal edema, and mucus plugging. Triggers: allergens, respiratory infections (e.g., bronchitis, pneumonia), smoke, cold air, exercise, stress, aspirin/NSAIDs, beta blockers.",
+     "body": "Chronic airway inflammation with reversible bronchoconstriction and mucus. Triggers include airborne irritants (smoke, pollen, chemicals, pollution) and respiratory infections — as with M.L.'s bronchitis and pneumonia.",
      "bullets": [
-      "Findings: wheezing, cough (often at night), chest tightness, dyspnea, prolonged expiration, tachypnea, use of accessory muscles, tripod positioning.",
-      "Worsening: speaking in words rather than sentences, SpO₂ < 92–94%, PEFR < 50%, agitation, diaphoresis.",
+      "Findings: wheezing, cough, chest tightness, dyspnea, prolonged expiration, tachypnea, accessory muscle use, tripod positioning, hoarse voice.",
+      "Worsening: speaking in words rather than sentences, falling SpO₂, PEFR < 50% of personal best, needing the rescue inhaler more often, orthopnea, agitation, diaphoresis.",
       "<strong>Silent chest</strong> — wheezing disappears because almost no air is moving; this is NOT improvement but impending respiratory arrest.",
-      "<strong>Status asthmaticus</strong> — severe attack unresponsive to repeated SABA; treat with O₂, continuous/repeated nebulized SABA + ipratropium, systemic corticosteroids, IV magnesium sulfate; prepare for intubation.",
+      "Treatment: upright position, oxygen, SABA, systemic corticosteroids; controllers (inhaled corticosteroid or LABA + ICS) daily; intubation and mechanical ventilation if the client tires.",
       "ABG progression: early respiratory alkalosis (hyperventilation) → normal PaCO₂ (tiring) → respiratory acidosis (failure)."
      ]
     },
     {
      "heading": "COPD (emphysema and chronic bronchitis)",
-     "body": "Progressive, largely irreversible airflow limitation, most often from smoking. Alveolar damage limits exchange of O₂ and CO₂ → CO₂ retention and hypoxemia.",
+     "body": "Airflow limitation, most often from smoking. Alveolar damage limits exchange of O₂ and CO₂ → CO₂ retention and decreased blood O₂ levels.",
      "bullets": [
       "Findings: chronic productive cough, dyspnea on exertion, barrel chest, pursed-lip breathing, tripod position, accessory muscle use, retractions, clubbing, cyanosis, diminished breath sounds, wheezes/rhonchi.",
-      "Interventions: bronchodilators (LAMA/LABA), pursed-lip breathing, energy conservation, O₂ titrated to 88–92%, high-calorie high-protein small frequent meals, influenza/pneumococcal/RSV/COVID vaccines, pulmonary rehab, smoking cessation (the only intervention proven to slow decline besides O₂ in severe hypoxemia)."
+      "Interventions: bronchodilators, pursed-lip and deep breathing, pacing activities, O₂ titrated to the prescribed target (often 88–92%), nutrition management, vaccination (influenza, pneumococcal), and smoking cessation."
      ]
     },
     {
@@ -831,7 +806,7 @@
      "bullets": [
       "Findings: fever, chills, productive cough (purulent/rust-colored sputum), pleuritic chest pain, tachypnea, crackles, bronchial breath sounds or ↑fremitus over consolidation, dullness to percussion, ↓SpO₂, leukocytosis.",
       "<strong>Older adults</strong> often present atypically: new confusion, weakness, falls, loss of appetite, tachycardia, tachypnea — often <em>without</em> fever or cough.",
-      "Care: obtain sputum culture and blood cultures <strong>before</strong> the first antibiotic dose (do not delay antibiotics), O₂, fluids, IS, coughing/deep breathing, HOB elevation, aspiration precautions, vaccines (pneumococcal, influenza)."
+      "Care: obtain sputum and blood cultures <strong>before</strong> the first antibiotic dose (do not delay antibiotics), O₂, fluids, IS, coughing/deep breathing, HOB elevation, aspiration precautions, vaccination."
      ]
     },
     {
@@ -872,15 +847,15 @@
      ],
      [
       "O₂ target",
-      "≥ 93–95%",
-      "88–92%",
-      "≥ 92–94% (88–92% if CO₂ retainer)"
+      "Per prescribed target",
+      "Often 88–92%",
+      "Per prescribed target (88–92% if CO₂ retainer)"
      ],
      [
       "Key teaching",
       "Controller daily, rescue PRN, action plan/PEFR, avoid triggers",
       "Pursed-lip breathing, smoking cessation, energy conservation",
-      "Complete antibiotics, IS, vaccination, fluids"
+      "Complete antibiotics, IS, coughing, vaccination, fluids"
      ]
     ]
    },
@@ -906,44 +881,43 @@
      "heading": "Infants and children",
      "bullets": [
       "Shorter, narrower airways — a small amount of edema or mucus causes a large increase in resistance. The trachea divides higher and at a different angle.",
-      "Lung tissue is not fully developed at birth; infants are obligate nose breathers (clear nasal passages with bulb suction).",
+      "Lung tissue is not fully developed at birth; clear an infant's nasal passages so breathing and feeding are not blocked.",
       "Children under about 6 years breathe mainly with the <strong>diaphragm</strong> (abdominal breathing is normal).",
       "Higher risk of foreign body aspiration and airway obstruction; upper respiratory infections are common but usually not serious.",
       "Signs of respiratory distress: <strong>retractions</strong> (substernal, intercostal, suprasternal), nasal flaring, grunting, head bobbing, tachypnea, restlessness.",
       "Exam: check for pectus excavatum/carinatum; in newborns palpate near the clavicles for crepitus (clavicle fracture); assess fremitus in infants while crying and in older children by having them repeat words or numbers. A barrel chest after age 6 is abnormal; there should be no retractions.",
-      "Health promotion: avoid secondhand smoke, influenza vaccination (from 6 months), RSV prevention, immunizations on schedule, safe foods/toys to prevent choking."
+      "Health promotion: avoid secondhand smoke, encourage influenza immunization, and prevent choking on foods and small objects."
      ]
     },
     {
      "heading": "Pregnancy",
      "bullets": [
-      "Rising uterus <strong>elevates the diaphragm</strong> (~4 cm), decreasing functional residual capacity; chest circumference increases.",
-      "Progesterone drives ↑ tidal volume, ↑ minute and alveolar ventilation (RR increases slightly) — the result is a mild, compensated <strong>respiratory alkalosis</strong> (PaCO₂ ≈ 28–32) that helps CO₂ move from fetus to mother.",
-      "Estrogen causes nasal mucosal edema → stuffiness, rhinitis of pregnancy, and nosebleeds.",
+      "Rising uterus <strong>raises the diaphragm</strong>, decreasing the ability to expand the lungs; residual capacity decreases and chest circumference increases.",
+      "Respiratory rate increases to keep up with increased O₂ needs; minute ventilation, alveolar ventilation, and tidal volume increase, so blood pH may become slightly more <strong>alkaline</strong>.",
+      "Changes to the upper respiratory mucosa increase nasal stuffiness and nosebleeds — assess for rhinitis of pregnancy.",
       "Dyspnea of pregnancy is common, but hypoxemia is not normal — the fetus depends on maternal oxygenation.",
-      "Avoid prolonged supine positioning (aortocaval compression); monitor oxygenation during labor; treat conditions promptly with both pulmonology and obstetrics involved; check every medication for pregnancy safety before giving it."
+      "Avoid prolonged supine positioning; monitor oxygenation during labor; resolve underlying conditions promptly with both the pulmonologist and the obstetrician involved; check all medications before administering."
      ]
     },
     {
      "heading": "Older adults",
      "bullets": [
-      "Aging lung: ↓ elastic recoil, ↑ chest wall stiffness, kyphosis, weaker respiratory muscles, ↓ cilia and cough reflex, ↑ residual volume, ↓ PaO₂.",
-      "Higher risk of respiratory infections, pneumonia, sleep apnea, choking (weaker cough/gag), and aspiration (↑ GERD).",
+      "Physiologic changes of aging increase the risk of respiratory infections, sleep apnea, choking (changes to the cough reflex), and aspiration (↑ GERD) — all of which increase the risk of pneumonia.",
       "Assessment: decreased breath sounds and some inspiratory crackles at the bases can be common; assess for kyphosis/scoliosis. Vesicular sounds with a prolonged phase may reflect an obstructive process (COPD, asthma).",
       "<strong>Pneumonia may present without fever</strong> — with confusion, weakness, falls, loss of appetite, tachycardia, and tachypnea. Also watch for changes in medication response, fluids/nutrition, and cognition.",
-      "Care: more frequent suctioning if gag/cough reflex decreased; teach effective coughing; incentive spirometry; physical activity; smoking cessation; pneumococcal, influenza, RSV, COVID-19 vaccines; assess adherence and barriers (cost, dexterity for inhalers — spacers help)."
+      "Care: more frequent suctioning because of a decreased gag/cough reflex; teach effective coughing; incentive spirometry; physical activity; smoking cessation; influenza and pneumococcal vaccination; assess adherence and barriers (cost, dexterity for inhalers — spacers help)."
      ]
     },
     {
      "heading": "Prevalence and genetic factors",
-     "body": "Children under 1 year and older adults are at greatest risk for impaired oxygenation. Hemoglobin concentration has a significant inherited component (hematocrit less so), and women generally have lower hemoglobin and hematocrit than men. Inherited disorders such as cystic fibrosis, alpha-1 antitrypsin deficiency, and sickle cell disease affect oxygenation."
+     "body": "Children under 1 year and older adults are at increased risk for impaired oxygenation — very young children are more susceptible to respiratory disorders, and older adults have more health impairments that affect oxygenation. Hemoglobin concentration has a significant inherited pattern of variation (hematocrit has a lower genetic effect), and women have lower hemoglobin and hematocrit concentrations than men."
     }
    ],
    "pearls": [
     "A 6-month-old breathing 44/min is normal; the same rate in an adult is alarming. Always interpret RR by age.",
     "Abdominal breathing in a toddler is normal; retractions are not.",
     "Pregnancy ABG: pH 7.42–7.44 with PaCO₂ ~30 is expected, not a problem to fix.",
-    "Older adult with new confusion = check SpO₂ and think pneumonia/UTI before assuming dementia."
+    "Older adult with new confusion = check SpO₂ and think pneumonia before assuming dementia."
    ],
    "redFlags": [
     "Retractions, grunting, nasal flaring, or stridor in a child.",
@@ -961,57 +935,55 @@
     {
      "heading": "Factors that affect respiratory health",
      "bullets": [
-      "Airborne irritants — cigarette smoke, pollen, chemicals, pollution — trigger airway inflammation. Manage indoor air quality (HEPA filters, avoid smoke and strong fumes; check air quality alerts).",
-      "Respiratory infections: hand hygiene, respiratory etiquette, and vaccination (influenza annually, pneumococcal, COVID-19, RSV for older adults and in pregnancy/infants, pertussis/Tdap).",
-      "Hemoglobin disorders (anemia, sickle cell) reduce O₂-carrying capacity.",
-      "Medications that depress rate and depth (opioids, benzodiazepines).",
-      "Modifiable cardiovascular risk factors that impair circulation and therefore O₂ delivery: hypertension, atherosclerosis, obesity, type 2 diabetes, smoking, stress/anxiety.",
-      "Regular physical activity and maintaining a healthy weight improve respiratory reserve."
+      "Airborne irritants — cigarette smoke, pollen, chemicals, pollution — may produce an inflammatory response in the airways. Managing environmental air quality decreases the concentration of irritants.",
+      "Infectious illnesses of the respiratory tract: hand hygiene and <strong>vaccination</strong> (influenza yearly, pneumococcal) decrease transmission of preventable diseases.",
+      "Hemoglobin disorders interfere with effective respiratory function (less O₂ carried).",
+      "Some medications affect respiratory rate and depth (e.g., opioids, sedatives).",
+      "Inflammation, infection, sputum production, and compromised airflow alter respiratory health.",
+      "<strong>Modifiable risk factors</strong> that affect the heart's ability to circulate blood: hypertension, atherosclerosis, obesity, type 2 diabetes, smoking, and stress and anxiety."
      ]
     },
     {
      "heading": "Effects of tobacco smoke",
-     "body": "Smoke increases mucus production, paralyzes and destroys cilia, and causes chronic inflammation. Decline in pulmonary function often becomes noticeable only <strong>after irreversible damage has occurred</strong>. Carbon monoxide in smoke binds hemoglobin and lowers O₂ delivery (and can falsely raise SpO₂). Quitting at any age slows lung-function decline and lowers the risk of heart disease and cancer."
+     "body": "Tobacco smoke exposure <strong>increases mucus production</strong> and <strong>reduces cilia action</strong> in the airway passages. Prolonged exposure leads to a decline in pulmonary function that often becomes noticeable only <strong>after irreversible damage has occurred</strong>. As cilia recover after quitting, a temporary increase in cough is common."
     },
     {
-     "heading": "Helping the client quit (5 A's)",
+     "heading": "Helping the client quit",
      "bullets": [
-      "<strong>Ask</strong> every client about tobacco use at every visit.",
-      "<strong>Advise</strong> clearly and personally to quit.",
-      "<strong>Assess</strong> readiness to quit. If the client chooses to continue, <strong>respect the client's right to choose</strong>, and revisit later.",
-      "<strong>Assist</strong>: help develop a plan (quit date, identify triggers, remove tobacco from home/car), offer pharmacotherapy, and refer to counseling or a quitline (1-800-QUIT-NOW).",
-      "<strong>Arrange</strong> follow-up."
+      "Ask every client about tobacco use and advise clearly and personally to quit.",
+      "If the client opts to continue smoking or using tobacco, <strong>respect the client's right to choose</strong>, and offer help again later.",
+      "If the client expresses interest in quitting: <strong>help develop a plan</strong> (quit date, triggers, remove tobacco from home and car) and <strong>provide a referral</strong> (counseling or a quitline).",
+      "Protect children from secondhand smoke — smoke residue in cars and on clothing still triggers asthma."
      ]
     },
     {
-     "heading": "Pharmacotherapy",
-     "body": "Nicotine replacement therapy (NRT) <strong>combined with behavioral counseling</strong> increases the likelihood of long-term abstinence. Varenicline and bupropion are non-nicotine options.",
+     "heading": "Nicotine replacement therapy (NRT)",
+     "body": "NRT <strong>combined with behavioral counseling</strong> increases the likelihood of abstinence. Forms include patches, lozenges, gum, oral inhalers, and nasal spray.",
      "bullets": [
       "<strong>Patch</strong>: apply once daily to clean, hairless skin; rotate sites; remove at bedtime if vivid dreams/insomnia; taper dose over weeks.",
       "<strong>Gum</strong>: 'chew and park' — chew slowly until a peppery taste/tingle, then park between cheek and gum; repeat for about 30 minutes. Avoid acidic drinks (coffee, soda, juice) for 15 minutes before and during use.",
       "<strong>Lozenge</strong>: let dissolve; do not chew or swallow whole.",
       "<strong>Oral inhaler and nasal spray</strong>: fast relief of cravings; nasal spray can cause nasal irritation.",
       "Combining a patch (steady level) with a short-acting form (for cravings) is more effective than a single form.",
-      "Varenicline: take after eating with a full glass of water; nausea is common. Bupropion: contraindicated with seizure disorders or eating disorders.",
       "Report nicotine excess: nausea, dizziness, palpitations, headache."
      ]
     }
    ],
    "pearls": [
-    "Respect autonomy: if a client is not ready to quit, document, advise, and offer help at the next visit — do not lecture.",
+    "Respect autonomy: if a client is not ready to quit, advise, respect the choice, and offer help at the next visit — do not lecture.",
     "Chew-and-park: nicotine gum is absorbed through the buccal mucosa, not swallowed.",
     "Relapse is common; most people need several attempts — praise each attempt."
    ],
    "redFlags": [
     "Smoking while on home oxygen — fire and burn risk; address immediately.",
-    "Neuropsychiatric changes (depression, agitation, suicidal thoughts) during cessation pharmacotherapy — report."
+    "Signs of nicotine excess during NRT (nausea, dizziness, palpitations, headache) — often from smoking while using NRT; report."
    ]
   }
  ],
  "flashcards": [
   {
    "front": "Oxygenation vs ventilation vs respiration",
-   "back": "<strong>Oxygenation</strong>: delivering O₂ to all cells. <strong>Ventilation</strong>: moving air in and out. <strong>Respiration</strong>: exchange of O₂ and CO₂ (alveolar and cellular).",
+   "back": "<strong>Oxygenation</strong>: providing O₂ to all cells. <strong>Ventilation</strong>: moving air in and out. <strong>Respiration</strong>: exchange of O₂ and CO₂ at the cellular level.",
    "topic": "oxygenation-physiology"
   },
   {
@@ -1026,7 +998,7 @@
   },
   {
    "front": "Primary stimulus to breathe in a healthy adult",
-   "back": "Rising <strong>H⁺ / PaCO₂</strong> in arterial blood (central chemoreceptors).",
+   "back": "<strong>H⁺ concentration</strong> in arterial blood, which rises and falls with PaCO₂.",
    "topic": "oxygenation-physiology"
   },
   {
@@ -1066,7 +1038,7 @@
   },
   {
    "front": "What does clubbing indicate?",
-   "back": "<strong>Chronic hypoxemia</strong> (COPD, CF, congenital heart disease).",
+   "back": "<strong>Chronic hypoxemia</strong> (e.g., COPD).",
    "topic": "respiratory-assessment"
   },
   {
@@ -1076,12 +1048,12 @@
   },
   {
    "front": "Cheyne-Stokes respirations",
-   "back": "Crescendo–decrescendo breathing alternating with <strong>apnea</strong>; heart failure, ↑ICP, overdose, dying.",
+   "back": "Deep, rapid breathing alternating with slow, shallow breathing and periods of <strong>apnea</strong>; heart failure, ↑ICP, drug overdose.",
    "topic": "breathing-patterns"
   },
   {
    "front": "Biot respirations",
-   "back": "<strong>Irregular</strong> breaths with unpredictable apnea; CNS/brainstem damage.",
+   "back": "<strong>Shallow</strong> breathing with irregular periods of apnea; CNS disorders.",
    "topic": "breathing-patterns"
   },
   {
@@ -1105,8 +1077,8 @@
    "topic": "diagnostics-abg"
   },
   {
-   "front": "Conditions that make SpO₂ falsely high",
-   "back": "<strong>Carbon monoxide poisoning</strong>; darker skin pigmentation (overestimation → occult hypoxemia).",
+   "front": "SaO₂ vs PaO₂",
+   "back": "<strong>SaO₂</strong>: percentage of O₂ bound to hemoglobin. <strong>PaO₂</strong>: amount of O₂ dissolved in the blood.",
    "topic": "diagnostics-abg"
   },
   {
@@ -1126,7 +1098,7 @@
   },
   {
    "front": "Nonrebreather mask",
-   "back": "<strong>10–15 L/min</strong>, FiO₂ ~60–90%+; reservoir bag must stay at least 2/3 full.",
+   "back": "<strong>10–15 L/min</strong>; highest FiO₂ of the standard masks; reservoir bag must stay at least 2/3 full.",
    "topic": "oxygen-therapy"
   },
   {
@@ -1141,7 +1113,7 @@
   },
   {
    "front": "Suctioning limits (adult)",
-   "back": "Preoxygenate; <strong>100–150 mm Hg</strong>; suction only on withdrawal; <strong>≤ 10–15 sec</strong> per pass; 2–3 passes max.",
+   "back": "Preoxygenate; <strong>100–150 mm Hg</strong>; suction only on withdrawal; <strong>≤ 10–15 sec</strong> per pass; reoxygenate between passes.",
    "topic": "airway-clearance"
   },
   {
@@ -1150,8 +1122,8 @@
    "topic": "airway-clearance"
   },
   {
-   "front": "Best time for chest physiotherapy",
-   "back": "<strong>Before meals or 1–2 hours after</strong>; after bronchodilator; follow with coughing and oral care.",
+   "front": "Percussion, vibration, and postural drainage (PVD) — key points",
+   "back": "<strong>Before meals</strong>; after the bronchodilator and mucolytic; cupped hand over the ribs (not the spine); vibrate on exhalation; then cough.",
    "topic": "airway-clearance"
   },
   {
@@ -1171,7 +1143,7 @@
   },
   {
    "front": "Anticholinergic inhalers: cautions",
-   "back": "Ipratropium/tiotropium — dry mouth, urinary retention; caution in <strong>narrow-angle glaucoma and BPH</strong>.",
+   "back": "<strong>Ipratropium</strong> (most commonly prescribed) — dry mouth, urinary retention; caution in <strong>narrow-angle glaucoma and BPH</strong>. Alternative when beta-agonists are not tolerated.",
    "topic": "respiratory-medications"
   },
   {
@@ -1186,7 +1158,7 @@
   },
   {
    "front": "Classic signs of tension pneumothorax",
-   "back": "Severe distress, absent breath sounds on one side, <strong>hypotension, JVD, tachycardia, tracheal deviation away from affected side</strong> → needle decompression.",
+   "back": "Severe distress, absent breath sounds on one side, <strong>hypotension, JVD, tachycardia, tracheal deviation away from affected side</strong> → call for help; emergency decompression by the provider.",
    "topic": "pneumothorax-chest-tubes"
   },
   {
@@ -1201,13 +1173,53 @@
   },
   {
    "front": "Normal respiratory change in pregnancy",
-   "back": "↑ tidal and minute ventilation, elevated diaphragm, ↓ FRC → mild compensated <strong>respiratory alkalosis</strong>.",
+   "back": "Diaphragm rises, ↓ residual capacity; ↑ RR, tidal volume, and minute ventilation → blood pH may become more <strong>alkaline</strong>.",
    "topic": "lifespan-considerations"
   },
   {
    "front": "How to use nicotine gum",
    "back": "<strong>Chew and park</strong> — chew until tingling, park in cheek, repeat ~30 min; avoid acidic drinks.",
    "topic": "health-promotion-smoking"
+  },
+  {
+   "front": "Hypercarbia vs hypocarbia",
+   "back": "<strong>Hypercarbia (hypercapnia)</strong>: CO₂ > 45 mm Hg. <strong>Hypocarbia (hypocapnia)</strong>: CO₂ < 35 mm Hg.",
+   "topic": "diagnostics-abg"
+  },
+  {
+   "front": "Signs and symptoms of pneumothorax",
+   "back": "Sudden sharp pleuritic pain, <strong>decreased/absent breath sounds on the affected side</strong>, asymmetric chest movement, SOB, cyanosis.",
+   "topic": "pneumothorax-chest-tubes"
+  },
+  {
+   "front": "Modifiable risk factors affecting circulation of oxygenated blood",
+   "back": "Hypertension, atherosclerosis, obesity, type 2 diabetes, <strong>smoking</strong>, stress and anxiety.",
+   "topic": "health-promotion-smoking"
+  },
+  {
+   "front": "Effects of tobacco smoke on the airways",
+   "back": "<strong>↑ Mucus production</strong> and <strong>↓ cilia action</strong>; lung function decline often noticed only after irreversible damage.",
+   "topic": "health-promotion-smoking"
+  },
+  {
+   "front": "Forms of nicotine replacement therapy",
+   "back": "Patch, gum, lozenge, oral inhaler, nasal spray — most effective <strong>with behavioral counseling</strong>.",
+   "topic": "health-promotion-smoking"
+  },
+  {
+   "front": "Older adults: why more frequent suctioning?",
+   "back": "<strong>Decreased gag and cough reflex</strong> → pooled secretions, choking, and aspiration risk.",
+   "topic": "lifespan-considerations"
+  },
+  {
+   "front": "Who is at increased risk for impaired oxygenation?",
+   "back": "Children <strong>under 1 year</strong> and <strong>older adults</strong>.",
+   "topic": "lifespan-considerations"
+  },
+  {
+   "front": "M.L. discharge plan (Case Part 3)",
+   "back": "Nebulized <strong>albuterol then acetylcysteine</strong> 3–4×/day PRN, PVD by her mother, follow-up in 3 days, return to the ER for any breathing difficulty.",
+   "topic": "asthma-copd-pneumonia"
   }
  ],
  "questions": [
@@ -1308,34 +1320,6 @@
    "hintStrategy": "Judge each row separately — check both the type of sound and where it was heard."
   },
   {
-   "id": "m15-004",
-   "type": "mcq",
-   "topic": "respiratory-assessment",
-   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client was extubated 30 minutes ago after a 2-day course of mechanical ventilation. The nurse hears a high-pitched crowing sound on inspiration from the doorway. SpO₂ is 91% on 4 L/min nasal cannula, and the client is anxious. Which action should the nurse take first?",
-   "options": [
-    "Document the finding and recheck in 15 minutes",
-    "Obtain a sputum specimen for culture",
-    "Encourage the client to cough and use the incentive spirometer",
-    "Call the rapid response team and remain with the client"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Stridor can progress rapidly to complete obstruction; waiting is unsafe.",
-    "A sputum specimen does not address the airway emergency.",
-    "Coughing and IS do not relieve upper airway edema and delay needed treatment.",
-    "Correct. Stridor after extubation indicates laryngeal edema and a threatened upper airway; this requires immediate help (racemic epinephrine, steroids, possible reintubation) and the nurse should not leave."
-   ],
-   "rationale": "Stridor is a loud, high-pitched inspiratory sound caused by upper airway narrowing. After extubation it usually reflects laryngeal edema. Airway comes first: summon emergency help, keep the client upright, maintain oxygen, and stay at the bedside.",
-   "takeaway": "Stridor = airway emergency; get help now.",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "hintContent": "Think about what a high-pitched inspiratory sound audible without a stethoscope means about the size of the upper airway after a tube is removed.",
-   "hintStrategy": "The stem asks what to do FIRST — apply the ABCs and eliminate options that delay care for an airway threat."
-  },
-  {
    "id": "m15-005",
    "type": "sata",
    "topic": "respiratory-assessment",
@@ -1372,34 +1356,6 @@
    "hintStrategy": "Sort each option into 'compensating' versus 'decompensating' — only the compensating findings are early."
   },
   {
-   "id": "m15-006",
-   "type": "mcq",
-   "topic": "respiratory-assessment",
-   "ref": "Module 15 · Oxygenation · Signs of Hypoxia",
-   "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "stem": "The nurse receives report on four clients on a medical unit. Which client should the nurse assess first?",
-   "options": [
-    "A client with a tracheostomy who is resting comfortably and is due for routine inner cannula care",
-    "A client 1 day after hip surgery who is newly confused, with RR 26/min and SpO₂ 89% on room air",
-    "A client with asthma who requests albuterol before walking in the hall for exercise as prescribed",
-    "A client with a pleural effusion scheduled for thoracentesis who has questions about the procedure"
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Routine tracheostomy care for a comfortable, stable client can be scheduled after the unstable client is assessed.",
-    "Correct. New confusion, tachypnea, and SpO₂ 89% are signs of acute hypoxia (possibly PE, atelectasis, or pneumonia) in a postoperative client — an unstable, unexpected change.",
-    "Pre-exercise albuterol is appropriate and can be handled after the unstable client is assessed.",
-    "Preprocedure questions are important and can be answered after the client with an acute change has been assessed."
-   ],
-   "rationale": "Prioritize acute, unexpected changes that threaten airway and breathing. New confusion with tachypnea and desaturation in a postoperative orthopedic client suggests hypoxia, possibly from a fat or pulmonary embolism, and needs immediate assessment. The other clients are stable or have routine needs that can wait.",
-   "takeaway": "New confusion + tachypnea = hypoxia until proven otherwise.",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "hintContent": "Separate findings that are expected for a client's diagnosis from findings that represent a new, acute change.",
-   "hintStrategy": "Ask which client is unstable with an unexpected change affecting breathing; stable clients with expected findings can wait."
-  },
-  {
    "id": "m15-007",
    "type": "dropdown",
    "topic": "breathing-patterns",
@@ -1407,7 +1363,7 @@
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with type 1 diabetes is admitted with a blood glucose of 520 mg/dL and a fruity breath odor. Respirations are deep, rapid, and regular at 32/min. Complete the statement.",
-   "template": "The nurse documents this breathing pattern as {0} respirations. The pattern is the body's attempt to {1}, so the nurse's priority is to {2}.",
+   "template": "The nurse documents this breathing pattern as {0} respirations. The pattern is the body's attempt to {1}, which compensates for {2}.",
    "blanks": [
     {
      "options": [
@@ -1429,20 +1385,20 @@
     },
     {
      "options": [
-      "coach the client to slow the breathing rate",
-      "give a prescribed sedative to slow breathing",
-      "have the client rebreathe into a paper bag",
-      "give the prescribed IV fluids and insulin"
+      "respiratory acidosis",
+      "metabolic acidosis",
+      "metabolic alkalosis",
+      "respiratory alkalosis"
      ],
-     "answer": 3
+     "answer": 1
     }
    ],
-   "rationale": "Kussmaul respirations are deep, rapid, regular breaths that compensate for metabolic acidosis such as DKA by blowing off CO₂ (an acid) to raise pH. Slowing the breathing would worsen acidosis; the fix is correcting the cause with fluids and insulin.",
-   "takeaway": "Kussmaul is compensation — treat the acidosis, not the breathing.",
+   "rationale": "Kussmaul respirations are deep, rapid exhalations that increase elimination of CO₂, which affects acid–base balance. They occur in metabolic acidosis, such as diabetic ketoacidosis: blowing off CO₂ (an acid) raises the pH. The pattern is compensation, so the nurse should not try to slow the breathing; the underlying acidosis must be corrected.",
+   "takeaway": "Kussmaul breathing = the lungs blowing off CO₂ to compensate for metabolic acidosis.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Consider the acid–base disturbance present in DKA and which organ can compensate within minutes.",
-   "hintStrategy": "Work blank by blank: name the pattern, then explain its purpose, then choose the intervention that fixes the underlying cause rather than the symptom."
+   "hintContent": "Consider the acid–base disturbance present when ketones build up in the blood, and how the lungs can respond within minutes.",
+   "hintStrategy": "Work blank by blank: name the pattern, then explain what the deep, rapid breaths do to CO₂, then name the imbalance being compensated."
   },
   {
    "id": "m15-008",
@@ -1594,29 +1550,29 @@
    "id": "m15-012",
    "type": "mcq",
    "topic": "diagnostics-abg",
-   "ref": "Module 15 · Oxygenation · Pulse Oximetry",
-   "difficulty": 3,
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests (Pulmonary Angiogram, V/Q Scan)",
+   "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client is brought to the emergency department after being found in a closed garage with a running generator. The client reports headache and nausea and is drowsy. SpO₂ is 99% on room air. Which action should the nurse take?",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client with sudden dyspnea and an SpO₂ of 89% is scheduled for a pulmonary angiogram with IV contrast dye to look for a blood clot blocking pulmonary blood flow. Which finding in the client's record should the nurse report to the provider before the test?",
    "options": [
-    "Move the pulse oximeter probe to the earlobe to confirm the reading",
-    "Apply 100% oxygen by nonrebreather and anticipate a carboxyhemoglobin level",
-    "Document that oxygenation is adequate based on the pulse oximeter reading",
-    "Apply a nasal cannula at 2 L/min and reassess the client in 1 hour"
+    "Nothing by mouth since midnight, as instructed",
+    "Serum creatinine of 2.4 mg/dL (normal 0.6–1.2)",
+    "Receiving oxygen at 3 L/min by nasal cannula",
+    "Anxious and asking how long the test will take"
    ],
    "answer": 1,
+   "rationale": "A pulmonary angiogram injects contrast dye into the pulmonary arteries to show a clot that blocks capillary blood flow (a V/Q problem on the perfusion side). Contrast is cleared by the kidneys and can injure them, so the nurse checks kidney function and asks about previous contrast reactions before the test. An elevated creatinine must be reported so the provider can weigh the risk or choose another study, such as a V/Q scan, which uses a small amount of radioactive tracer instead of contrast dye.",
    "optionRationales": [
-    "Changing the probe site will still read carboxyhemoglobin as saturated hemoglobin.",
-    "Correct. Carbon monoxide binds hemoglobin and is read as oxyhemoglobin, so SpO₂ is falsely normal; 100% O₂ by nonrebreather speeds CO elimination, and co-oximetry measures the carboxyhemoglobin level.",
-    "The SpO₂ reading is unreliable in CO poisoning and gives false reassurance.",
-    "Low-flow oxygen is inadequate for CO poisoning, and waiting an hour delays treatment."
+    "Being NPO is routine preparation for a procedure and does not need to be reported.",
+    "Correct. A creatinine of 2.4 mg/dL shows impaired kidney function; IV contrast can worsen it, so the provider must know before the test.",
+    "Supplemental oxygen is appropriate for a client with an SpO₂ of 89% and continues during the test.",
+    "Anxiety is expected before a procedure; the nurse explains the test and offers support, but this does not make the test unsafe."
    ],
-   "rationale": "Standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin, so SpO₂ is falsely high in carbon monoxide poisoning. The priority is high-concentration oxygen (100% by nonrebreather, possibly hyperbaric) and a co-oximetry ABG.",
-   "takeaway": "CO poisoning: the pulse ox lies — give 100% O₂.",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall how a standard pulse oximeter distinguishes (or fails to distinguish) different forms of hemoglobin.",
-   "hintStrategy": "The SpO₂ in the stem is a distractor — ask whether it matches the history and symptoms before trusting it."
+   "takeaway": "Before a contrast study such as a pulmonary angiogram, check kidney function and contrast reactions.",
+   "hintContent": "Think about what happens to the contrast dye after it is injected and which organ must clear it from the body.",
+   "hintStrategy": "Ask which finding makes the test unsafe as planned; the other options describe routine preparation or expected feelings."
   },
   {
    "id": "m15-013",
@@ -1682,34 +1638,6 @@
    "focus": "Nursing Interventions",
    "hintContent": "Think about how to open the spaces between the ribs and where pleural fluid collects when a client is upright.",
    "hintStrategy": "Eliminate options that belong to a different procedure — make sure the care matches thoracentesis specifically."
-  },
-  {
-   "id": "m15-015",
-   "type": "mcq",
-   "topic": "diagnostics-abg",
-   "ref": "Module 15 · Oxygenation · Peak Expiratory Flow",
-   "difficulty": 3,
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client with asthma has a personal best peak expiratory flow of 500 L/min. This morning the reading is 320 L/min, and the client has a mild cough. According to a standard asthma action plan, what should the nurse teach the client to do?",
-   "options": [
-    "Take the quick-relief inhaler and follow the yellow-zone plan",
-    "Call 911 right away because the reading is in the red zone",
-    "Stop the inhaled corticosteroid until the reading improves",
-    "Continue usual medications because the reading is in the green zone"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. 320 ÷ 500 = 64%, which is in the yellow zone (50–79%): use the rescue medication and follow the plan, contacting the provider if not improving.",
-    "Red is < 50% (under 250 L/min).",
-    "Controller medications should never be stopped during worsening symptoms.",
-    "Green is ≥ 80% (400 L/min or more)."
-   ],
-   "rationale": "Peak flow zones are based on the client's personal best. Yellow (50–79%) means caution — airways are narrowing. The client takes the quick-relief medicine and follows the action plan. Red (< 50%) is a medical alert.",
-   "takeaway": "Green ≥ 80%, yellow 50–79%, red < 50% of personal best.",
-   "cjmm": "Take Action",
-   "focus": "Client Teaching",
-   "hintContent": "Zones are based on percentages of the client's own personal best, not on a fixed number.",
-   "hintStrategy": "Do the math first (today's reading ÷ personal best), then match the percentage to a zone and its action."
   },
   {
    "id": "m15-016",
@@ -1818,34 +1746,6 @@
    "hintStrategy": "The key word is 'precise' — select the device that meets that requirement."
   },
   {
-   "id": "m15-020",
-   "type": "mcq",
-   "topic": "oxygen-therapy",
-   "ref": "Module 15 · Oxygenation · COPD Oxygen Considerations",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client with severe COPD arrives in the emergency department using accessory muscles, RR 30/min, SpO₂ 80% on room air, and speaking 2–3 words at a time. A student nurse asks whether oxygen should be withheld because it may 'knock out' the client's drive to breathe. What is the nurse's best response?",
-   "options": [
-    "Give oxygen at 15 L/min by nonrebreather to reach an SpO₂ of 100% right away.",
-    "Give oxygen now and titrate to an SpO₂ of 88–92% while watching for rising CO₂.",
-    "Oxygen is not indicated because clients with COPD normally have an SpO₂ near 80%.",
-    "Hold oxygen until the ABG results confirm how much carbon dioxide is retained."
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Aiming for 100% in a CO₂ retainer can worsen hypercapnia; controlled titration is preferred.",
-    "Correct. Hypoxemia kills; oxygen is never withheld. It is titrated to a target of 88–92% with close monitoring of LOC, RR, and PaCO₂.",
-    "SpO₂ 80% with severe distress is not an acceptable baseline for COPD.",
-    "Delaying oxygen for an ABG leaves the client dangerously hypoxemic."
-   ],
-   "rationale": "Clients with chronic CO₂ retention can develop worsening hypercapnia with excessive oxygen, mainly through V/Q changes. The answer is not to withhold oxygen but to deliver it in a controlled way to a target of 88–92% and watch for CO₂ narcosis (drowsiness, headache, confusion).",
-   "takeaway": "Never withhold O₂ from a hypoxemic client — titrate it.",
-   "cjmm": "Generate Solutions",
-   "focus": "Prioritization",
-   "hintContent": "Balance the risk of hypercapnia against the immediate danger of severe hypoxemia; recall the COPD target saturation.",
-   "hintStrategy": "Look for the option that treats the life-threatening problem while also addressing the concern raised by the student."
-  },
-  {
    "id": "m15-021",
    "type": "sata",
    "topic": "oxygen-therapy",
@@ -1927,100 +1827,44 @@
    "hintStrategy": "Start with the client's position and end with what keeps the alveoli open after the breath."
   },
   {
-   "id": "m15-024",
-   "type": "mcq",
-   "topic": "airway-clearance",
-   "ref": "Module 15 · Oxygenation · Incentive Spirometry",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse evaluates a postoperative client's understanding of incentive spirometry. Which statement by the client indicates a need for further teaching?",
-   "options": [
-    "\"I will hold my breath for a few seconds after I breathe in.\"",
-    "\"I should cough after my breathing exercises to clear mucus.\"",
-    "\"I will blow into the mouthpiece as hard and fast as I can.\"",
-    "\"I should use it about 10 times every hour while I am awake.\""
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Accurate — a 3–5 second breath hold keeps the alveoli inflated.",
-    "Accurate — coughing after deep breathing helps clear loosened secretions.",
-    "Correct — needs teaching. Incentive spirometry is a slow, deep inhalation exercise; blowing into it is incorrect.",
-    "Accurate — about 10 repetitions per hour while awake."
-   ],
-   "rationale": "The purpose of incentive spirometry is sustained maximal inspiration to open alveoli and prevent atelectasis. A client who plans to blow out forcefully has confused it with a peak flow meter and needs reteaching.",
-   "takeaway": "Incentive spirometry is inhale, not exhale.",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
-   "hintContent": "Recall whether the incentive spirometer is used by breathing in or breathing out, and how fast.",
-   "hintStrategy": "This is a negatively worded item: you are looking for the INCORRECT statement."
-  },
-  {
    "id": "m15-025",
    "type": "sata",
-   "topic": "airway-clearance",
-   "ref": "Module 15 · Oxygenation · Tracheostomy Care",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is providing tracheostomy care for a client whose tracheostomy was placed 3 days ago. Which actions are appropriate? Select all that apply.",
+   "topic": "health-promotion-smoking",
+   "ref": "Module 15 · Oxygenation · Modifiable Risk Factors",
+   "difficulty": 1,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse is completing a health history for a 52-year-old client with mild COPD. Which findings are modifiable risk factors that can impair the heart's ability to circulate oxygenated blood to the tissues? Select all that apply.",
    "options": [
-    "Keep the obturator and a spare tube of the same size at the bedside",
-    "Clean the reusable inner cannula and rinse it with sterile saline",
-    "Cut a square of gauze to make a slit dressing around the stoma",
-    "Secure the ties so that one finger fits between the ties and the neck",
-    "Suction the tracheostomy on a fixed schedule every 2 hours"
+    "Blood pressure of 158/94 mm Hg at three clinic visits",
+    "Body mass index (BMI) of 36",
+    "Father had a heart attack at age 50",
+    "Smokes 1 pack of cigarettes per day",
+    "Type 2 diabetes with a hemoglobin A1C of 8.2%",
+    "Age of 52 years",
+    "Reports constant stress and anxiety at work"
    ],
    "answer": [
     0,
     1,
-    3
-   ],
-   "optionRationales": [
-    "Correct. A new tract can close quickly if the tube comes out; the obturator guides reinsertion, and a spare tube (same size and one size smaller) must be immediately available.",
-    "Correct. Crusted secretions narrow the airway; a reusable inner cannula is cleaned using sterile technique and rinsed with sterile saline before it is reinserted.",
-    "Cutting gauze creates loose fibers that can be aspirated or irritate the stoma. Use a precut, manufactured tracheostomy dressing.",
-    "Correct. Ties snug enough to admit only one finger prevent accidental decannulation without impairing circulation or damaging the skin.",
-    "Suctioning is done when assessment shows a need (coarse sounds, visible secretions, falling SpO₂), not on a schedule, because each pass can cause hypoxemia and mucosal trauma."
-   ],
-   "rationale": "A new tracheostomy (less than about 7 days old) has an immature tract that can close quickly if the tube is dislodged, so emergency equipment stays at the bedside. Tracheostomy care keeps the airway patent (clean inner cannula), protects the stoma (precut dressing), and prevents dislodgement (secure ties). Suctioning is based on assessment, not a schedule.",
-   "takeaway": "Trach care: emergency supplies at the bedside, clean inner cannula, one-finger ties, precut dressing, suction only when needed.",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Think about what could block the tube, what could let it slip out, and what could be inhaled through the stoma.",
-   "hintStrategy": "Evaluate each action separately: does it keep the airway open and the tube secure, or does it add a risk?"
-  },
-  {
-   "id": "m15-026",
-   "type": "sata",
-   "topic": "airway-clearance",
-   "ref": "Module 15 · Oxygenation · Positioning",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "The nurse is caring for clients with dyspnea. Which positions promote effective breathing? Select all that apply.",
-   "options": [
-    "Flat supine position for a client with an asthma exacerbation",
-    "Side-lying on the unaffected side (good lung down) for an adult with right lower lobe pneumonia",
-    "Trendelenburg position for a client with pulmonary edema",
-    "Sitting and leaning forward on the overbed table for a client with COPD",
-    "High Fowler's position for a client with heart failure and orthopnea"
-   ],
-   "answer": [
-    1,
     3,
-    4
+    4,
+    6
    ],
+   "rationale": "Oxygenation depends on the heart circulating blood as well as on the lungs. The modifiable risk factors that affect the heart's ability to circulate blood are hypertension, atherosclerosis, obesity, type 2 diabetes, smoking, and stress and anxiety. The client can change or control each of these through lifestyle changes and treatment. Family history and age cannot be changed.",
    "optionRationales": [
-    "Lying flat pushes the abdominal contents against the diaphragm and worsens dyspnea.",
-    "Correct. Gravity increases perfusion to the dependent, healthy lung, improving V/Q matching.",
-    "Head-down positioning increases pressure on the diaphragm and worsens pulmonary congestion.",
-    "Correct. The tripod/orthopneic position improves diaphragm function and accessory muscle use.",
-    "Correct. Upright positioning lowers the diaphragm and reduces venous return, easing orthopnea."
+    "Correct. Hypertension is a modifiable risk factor; it can be controlled with lifestyle changes and medication.",
+    "Correct. Obesity is a modifiable risk factor that also restricts lung expansion.",
+    "Family history is a nonmodifiable risk factor; the client cannot change it.",
+    "Correct. Smoking damages both the airways and the blood vessels and is modifiable.",
+    "Correct. Type 2 diabetes is a modifiable risk factor when blood glucose is controlled with diet, activity, and medication.",
+    "Age is a nonmodifiable risk factor.",
+    "Correct. Stress and anxiety are modifiable risk factors that can be reduced with coping strategies."
    ],
-   "rationale": "Upright and forward-leaning positions maximize lung expansion and accessory muscle use. With unilateral lung disease in adults, placing the good lung down improves oxygenation. Supine and head-down positions restrict the diaphragm.",
-   "takeaway": "Sit them up, lean them forward, and put the good lung down.",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "hintContent": "Think about how each position affects diaphragm movement and how gravity distributes blood flow in the lungs.",
-   "hintStrategy": "Picture the client in each position and ask whether it makes breathing easier or harder."
+   "takeaway": "Modifiable: hypertension, atherosclerosis, obesity, type 2 diabetes, smoking, stress. Not modifiable: age and family history.",
+   "hintContent": "A modifiable risk factor is one the client can change or control through behavior or treatment.",
+   "hintStrategy": "For each finding, ask whether the client could change it. Eliminate the ones no one can change."
   },
   {
    "id": "m15-027",
@@ -2200,7 +2044,7 @@
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with COPD is newly prescribed tiotropium once daily. Which item in the client's history should the nurse report to the provider before the first dose?",
+   "stem": "A client with COPD is newly prescribed an ipratropium inhaler. Which item in the client's history should the nurse report to the provider before the first dose?",
    "options": [
     "Osteoarthritis of the knees",
     "Seasonal allergic rhinitis",
@@ -2210,44 +2054,16 @@
    "answer": 3,
    "optionRationales": [
     "Osteoarthritis is not related to anticholinergic effects.",
-    "Allergic rhinitis does not affect use of tiotropium.",
+    "Allergic rhinitis does not affect the use of ipratropium.",
     "Hypothyroidism is not a caution for anticholinergic inhalers.",
-    "Correct. Anticholinergics can increase intraocular pressure and precipitate acute angle-closure glaucoma; they also require caution with BPH/urinary retention."
+    "Correct. Anticholinergics can increase intraocular pressure and precipitate acute angle-closure glaucoma; they also require caution with BPH and urinary retention."
    ],
-   "rationale": "Tiotropium and ipratropium block muscarinic receptors to prevent bronchoconstriction. Systemic or accidental eye exposure can cause pupil dilation and raise intraocular pressure. They are used cautiously in narrow-angle glaucoma and BPH. Adverse effects include dry mouth and urinary retention.",
+   "rationale": "Ipratropium is the most commonly prescribed anticholinergic inhaler. It blocks muscarinic receptors to prevent bronchoconstriction and is an alternative for clients who cannot tolerate beta-agonists. Systemic absorption or spray reaching the eyes can dilate the pupil and raise intraocular pressure, so anticholinergics are used cautiously in narrow-angle glaucoma and in urinary retention (BPH). Common adverse effects are dry mouth and urinary retention.",
    "takeaway": "Anticholinergic inhalers: caution with glaucoma and BPH.",
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
-   "hintContent": "Tiotropium blocks muscarinic (cholinergic) receptors — recall what anticholinergic effects do to the eye and the bladder.",
+   "hintContent": "Ipratropium blocks muscarinic (cholinergic) receptors — recall what anticholinergic effects do to the eye and the bladder.",
    "hintStrategy": "Ask which condition could be worsened by the drug's mechanism of action."
-  },
-  {
-   "id": "m15-034",
-   "type": "mcq",
-   "topic": "respiratory-medications",
-   "ref": "Module 15 · Oxygenation · Respiratory Medications",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with asthma is prescribed nebulized acetylcysteine to thin secretions. What should the nurse do before administering it?",
-   "options": [
-    "Have the client drink 500 mL of water just before the treatment",
-    "Administer the prescribed bronchodilator 10–15 minutes before",
-    "Place the client supine so the mist reaches the lung bases",
-    "Dilute the acetylcysteine with sterile water to a 40% solution"
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Fluids help thin secretions generally but do not prevent bronchospasm from acetylcysteine.",
-    "Correct. Acetylcysteine can cause bronchospasm, especially in clients with asthma; a bronchodilator given first helps prevent it.",
-    "Nebulized treatments are given with the client sitting upright.",
-    "Inhalation solutions are 10% or 20%; there is no 40% dilution."
-   ],
-   "rationale": "Acetylcysteine is a mucolytic that breaks up mucus but can irritate the airways and trigger bronchospasm. Give a bronchodilator beforehand, keep suction available because secretions increase, and warn the client about a rotten-egg (sulfur) odor.",
-   "takeaway": "Acetylcysteine: bronchodilator first, suction ready.",
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "hintContent": "Acetylcysteine can irritate the airways of clients with reactive airway disease.",
-   "hintStrategy": "Think about what could go wrong with this drug in a client with asthma, and choose the action that prevents it."
   },
   {
    "id": "m15-035",
@@ -2259,18 +2075,18 @@
    "stem": "A client with multiple rib fractures on the right after a motorcycle crash suddenly becomes severely dyspneic. The nurse finds absent breath sounds on the right, trachea shifted to the left, jugular venous distention, HR 138/min, and BP 78/46 mm Hg. Which action is the priority?",
    "options": [
     "Administer a 1-liter bolus of normal saline and recheck the BP",
-    "Call the rapid response team and prepare for needle decompression",
+    "Call the rapid response team and prepare for emergency chest decompression",
     "Place the client flat and supine with both legs elevated on pillows",
     "Obtain a STAT portable chest x-ray to confirm the diagnosis first"
    ],
    "answer": 1,
    "optionRationales": [
-    "Fluids do not correct the mechanical obstruction to venous return.",
-    "Correct. These are signs of tension pneumothorax, an obstructive shock that requires immediate decompression; treatment should not wait for imaging.",
+    "Fluids do not correct the trapped air that is blocking venous return.",
+    "Correct. These are signs of tension pneumothorax, which requires immediate decompression by the provider; treatment should not wait for imaging.",
     "Lying flat worsens dyspnea and does not relieve the pressure on the heart and great vessels.",
-    "Tension pneumothorax is a clinical diagnosis; waiting for an x-ray can be fatal."
+    "Tension pneumothorax is recognized from the clinical findings; waiting for an x-ray can be fatal."
    ],
-   "rationale": "Air trapped under pressure collapses the lung, shifts the mediastinum away from the affected side, and compresses the heart and vena cava. Hypotension, JVD, and tracheal deviation are hallmarks. The treatment is emergency needle decompression followed by chest tube insertion.",
+   "rationale": "A tension pneumothorax usually follows traumatic injury and is a life-threatening emergency. Air trapped under pressure collapses the lung, shifts the mediastinum away from the affected side, and compresses the heart and great vessels. Hypotension, JVD, and tracheal deviation are hallmarks. The nurse summons emergency help, stays with the client, and gives oxygen while the provider decompresses the chest and inserts a chest tube.",
    "takeaway": "Tension pneumo: shift, JVD, hypotension → decompress now.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
@@ -2374,42 +2190,6 @@
    "hintStrategy": "Note that the tube is still in the chest — choose the action that restores the seal without creating a new risk."
   },
   {
-   "id": "m15-039",
-   "type": "sata",
-   "topic": "pneumothorax-chest-tubes",
-   "ref": "Module 15 · Oxygenation · Chest Tubes",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is assisting the provider with bedside chest tube insertion for a client with a large right pneumothorax. Which actions should the nurse take? Select all that apply.",
-   "options": [
-    "Confirm that informed consent is signed and take part in a time-out",
-    "Position the client with the right arm raised above the head",
-    "Fill the water seal chamber to the 2 cm line before connecting",
-    "Place the drainage unit on the bed beside the client for easy viewing",
-    "Clamp the new tube until the chest x-ray confirms its placement",
-    "Have the client breathe deeply and cough as the tube is inserted"
-   ],
-   "answer": [
-    0,
-    1,
-    2
-   ],
-   "optionRationales": [
-    "Correct. Chest tube insertion is an invasive procedure; the nurse verifies consent and participates in the universal protocol time-out.",
-    "Correct. Raising the arm on the affected side over the head widens the intercostal spaces at the usual insertion site (4th–5th intercostal space, midaxillary line).",
-    "Correct. The water seal (usually 2 cm of sterile water) is a one-way valve that lets air leave the pleural space but not return; it must be filled before the tube is connected.",
-    "The drainage unit must stay upright and below the level of the chest so air and fluid cannot flow back into the pleural space.",
-    "Clamping a tube that is evacuating a pneumothorax traps air and can cause a tension pneumothorax; the tube is connected to the drainage system right away.",
-    "The client should hold still and avoid coughing during insertion to prevent injury; deep breathing and coughing are encouraged after the tube is secured."
-   ],
-   "rationale": "Before insertion, the nurse confirms consent, participates in the time-out, prepares the drainage system (filling the water seal), gives prescribed analgesia, and positions the client to widen the intercostal spaces. The tube is connected to the drainage unit right away, the unit is kept below chest level, and the nurse then reassesses breathing and anticipates a chest x-ray to confirm placement.",
-   "takeaway": "Chest tube insertion: consent and time-out, arm over the head, water seal filled, connect right away, unit below the chest.",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "hintContent": "Consider what must be ready before the tube is connected, and how the water seal and gravity keep air from re-entering the chest.",
-   "hintStrategy": "Judge each action on its own: does it prepare the client and equipment safely, or could it trap air, allow backflow, or cause injury?"
-  },
-  {
    "id": "m15-040",
    "type": "sata",
    "topic": "pneumothorax-chest-tubes",
@@ -2439,7 +2219,7 @@
     "Correct. Pleuritic pain is typical as the pleura is irritated.",
     "Correct. The affected side does not expand normally."
    ],
-   "rationale": "Primary spontaneous pneumothorax classically occurs in tall, thin young males who smoke, from rupture of small blebs. Findings include sudden pleuritic pain, dyspnea, decreased breath sounds and hyperresonance on the affected side, and asymmetric chest expansion.",
+   "rationale": "A spontaneous pneumothorax occurs without an identifiable cause; it classically affects tall, thin young adults who smoke. Air in the pleural space causes loss of the negative pressure that keeps the lung expanded. Findings include sudden sharp pleuritic pain worsened by breathing and coughing, shortness of breath, decreased or absent breath sounds on the affected side, asymmetric chest wall movement, and possibly cyanosis.",
    "takeaway": "Pneumothorax: sudden pain, quiet side, hyperresonant.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
@@ -2611,34 +2391,6 @@
    "focus": "Client Teaching",
    "hintContent": "Think about drug sequencing for a mucolytic in a client with asthma, and about timing and location for chest physiotherapy.",
    "hintStrategy": "Evaluate each instruction independently as safe and correct or unsafe."
-  },
-  {
-   "id": "m15-046",
-   "type": "mcq",
-   "topic": "lifespan-considerations",
-   "ref": "Module 15 · Oxygenation · Lifespan: Older Adults",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "An 84-year-old resident of a long-term care facility is newly confused, has eaten little for 2 days, and seems weaker. Temperature 36.9°C (98.4°F), HR 108/min, RR 26/min, SpO₂ 90% on room air. Which condition should the nurse suspect first?",
-   "options": [
-    "Progression of dementia",
-    "Normal aging changes",
-    "Dehydration from poor intake alone",
-    "Pneumonia"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Sudden confusion is delirium, not a gradual dementia change, and needs a cause identified.",
-    "Acute confusion, tachypnea, and hypoxemia are never normal aging.",
-    "Dehydration may contribute, but tachypnea and low SpO₂ point to a respiratory cause.",
-    "Correct. Older adults with pneumonia often present atypically — confusion, weakness, anorexia, tachycardia, tachypnea — without fever."
-   ],
-   "rationale": "Aging blunts the fever response and cough. In older adults, pneumonia frequently shows up as acute confusion, falls, weakness, or loss of appetite, with tachypnea and tachycardia. The nurse should report findings promptly and anticipate chest x-ray and cultures.",
-   "takeaway": "Older adult + new confusion + tachypnea = think pneumonia, even without fever.",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Lifespan & Diversity",
-   "hintContent": "Older adults often do not mount a fever and may present with nonrespiratory symptoms when infected.",
-   "hintStrategy": "Look at the vital signs together — which diagnosis explains confusion plus tachypnea and low SpO₂?"
   },
   {
    "id": "m15-047",

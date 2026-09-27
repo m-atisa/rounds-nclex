@@ -7,11 +7,11 @@
  "questions": [
   {
    "id": "m21c-001",
-   "caseId": "m21c-case-cellulitis",
+   "caseId": "m21c-case-fragile-skin",
    "caseOrder": 1,
    "type": "highlight",
-   "topic": "skin-assessment-lesions",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Lower-Leg Cellulitis",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Older Adult with Fragile Skin",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Recognize Cues",
@@ -19,6 +19,10 @@
    "exhibit": {
     "tabs": [
      {
+      "title": "Nurses' Notes",
+      "html": "<p><strong>Day 1, 0900 (Long-term care):</strong> 84-year-old resident with type 2 diabetes and osteoarthritis, admitted to the facility 2 weeks ago after a fall at home. Uses a wheelchair for distances. The UAP reports that the resident “bumped her arm on the wheelchair armrest” during a transfer. Resident says, “My skin tears and bruises if you just look at it.” Has showered daily with hot water and deodorant soap “my whole life.” Eats about 30–40% of meals. Usually wears short-sleeved shirts.</p>"
+     },
+     {
       "title": "Vital Signs",
       "table": {
        "headers": [
@@ -31,12 +35,12 @@
        ],
        "rows": [
         [
-         "1400",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "132/80",
-         "97% RA"
+         "Day 1 0900",
+         "36.4 °C (97.5 °F)",
+         "82",
+         "18",
+         "128/74",
+         "96% RA"
         ]
        ]
       }
@@ -52,73 +56,73 @@
        "rows": [
         [
          "WBC",
-         "15,800/mm³",
+         "7,800/mm³",
          "5,000–10,000/mm³"
         ],
         [
-         "Glucose (random)",
-         "286 mg/dL",
-         "74–106 mg/dL"
+         "Hemoglobin",
+         "10.1 g/dL",
+         "12–16 g/dL"
         ],
         [
-         "Hemoglobin A1C",
-         "9.2%",
-         "< 5.7%"
+         "Platelets",
+         "210,000/mm³",
+         "150,000–400,000/mm³"
         ],
         [
-         "Lactate",
-         "1.4 mmol/L",
-         "0.5–2.0 mmol/L"
+         "Albumin",
+         "3.0 g/dL",
+         "3.5–5.0 g/dL"
         ],
         [
-         "Creatinine",
-         "1.0 mg/dL",
-         "0.6–1.2 mg/dL"
+         "Glucose (fasting)",
+         "168 mg/dL",
+         "70–99 mg/dL"
         ]
        ]
       }
      }
     ]
    },
-   "stem": "The nurse is caring for a 58-year-old client in the emergency department. Refer to the Vital Signs and Laboratory Results, then read the triage note. Click to highlight the findings that require follow-up.",
-   "passage": "1400: Client with type 2 diabetes mellitus and obesity reports {{3 days of increasing pain and swelling in the left lower leg}}. States, “I've had athlete's foot for months.” Client {{takes metformin 1,000 mg twice daily}}. On inspection, the {{skin between the 4th and 5th toes of the left foot is white, macerated, and fissured}}. From ankle to mid-calf, an {{area of skin is warm, tense, tender, and a deeper violet-brown than the surrounding dark brown skin}}. Borders are poorly defined. {{Pedal pulses 2+ bilaterally}}; {{capillary refill less than 3 seconds}}. Client also reports {{a tender “lump” in the left groin}}. Client is {{alert and oriented ×4}}.",
+   "stem": "The nurse is caring for an 84-year-old resident in a long-term care facility. Refer to the Nurses' Notes, Vital Signs, and Laboratory Results, then read the skin assessment note. Click to highlight the findings that require follow-up.",
+   "passage": "0915: {{4-cm open skin tear on the left forearm, oozing bright red blood}}. {{Skin on both forearms thin and translucent}}, with {{flat purple patches on both forearms}}. {{Lower legs dry and flaky with scratch marks}}. {{Heels and sacrum intact without discoloration}}. Resident {{eats about 30–40% of meals}} and {{showers daily with hot water and deodorant soap}}. Resident is {{alert and oriented ×4}}.",
    "answer": [
     0,
-    2,
     3,
+    5,
     6
    ],
    "optionRationales": [
-    "Requires follow-up. Progressive, one-sided leg pain and swelling signals an active process (infection or DVT) that must be evaluated.",
-    "Does not require follow-up. Metformin is a routine home medication for type 2 diabetes and does not explain the leg findings.",
-    "Requires follow-up. Macerated, fissured interdigital skin from tinea pedis breaks the skin barrier. It is a classic portal of entry for the streptococci and staphylococci that cause lower-leg cellulitis.",
-    "Requires follow-up. In darker skin, erythema may look violaceous, deep brown, or gray instead of red. Warmth, tension, tenderness, and poorly defined borders are cardinal signs of cellulitis.",
-    "Does not require follow-up. Palpable, equal pedal pulses show adequate arterial perfusion to the foot.",
-    "Does not require follow-up. Brisk capillary refill is an expected finding.",
-    "Requires follow-up. A tender inguinal node on the same side suggests lymphatic spread of the infection (regional lymphadenitis).",
-    "Does not require follow-up. Full orientation is the client's baseline mental status. The nurse will trend it because new confusion can signal sepsis."
+    "Requires follow-up. An open, bleeding wound needs bleeding control, cleaning, and a dressing, and it is a portal for infection.",
+    "Does not require follow-up. Thin, translucent skin is an expected age-related change (fewer melanocytes, thinner layers), although it guides prevention.",
+    "Does not require follow-up. Flat purple patches from fragile vessels (senile purpura) are an expected finding in older adults.",
+    "Requires follow-up. Dry skin is common with aging, but scratch marks mean the skin barrier is broken and the itching needs treatment.",
+    "Does not require follow-up. Intact heels and sacrum are a normal finding.",
+    "Requires follow-up. Poor intake limits the calories, protein, and vitamins needed for healing. The albumin of 3.0 g/dL supports this concern.",
+    "Requires follow-up. Daily hot showers with harsh soap strip oils from aging skin. Older adults should bathe every other day with lukewarm water and a mild cleanser.",
+    "Does not require follow-up. Full orientation is the resident's baseline."
    ],
-   "rationale": "The findings that need follow-up are the local and regional signs of infection and its source: progressive unilateral pain and swelling, a warm, tense, discolored area with poorly defined borders, interdigital fissures from tinea pedis, and a tender ipsilateral groin node. Together with fever, leukocytosis, and hyperglycemia in the exhibit, these cues point to lower-leg cellulitis. Normal pulses, capillary refill, and orientation are reassuring baseline data.",
-   "takeaway": "In dark skin, “redness” may look violet, brown, or gray, so feel for warmth, tension, and tenderness and look for the portal of entry.",
-   "hintContent": "Cellulitis is a bacterial infection of the dermis and subcutaneous tissue. It usually starts at a break in the skin. Think about how inflammation looks in deeply pigmented skin.",
-   "hintStrategy": "Go through each segment and ask: is this abnormal or unsafe for this client, or is it expected or baseline? Highlight only the abnormal findings."
+   "rationale": "Many findings in older adult skin are expected: thin, translucent skin, senile purpura, and some dryness. The nurse separates these from findings that need action: an open, bleeding skin tear, broken skin from scratching, poor nutritional intake, and a bathing routine that damages fragile skin.",
+   "takeaway": "Thin skin and senile purpura are expected with aging. Open wounds, scratching, poor intake, and harsh bathing need action.",
+   "hintContent": "Recall the normal skin changes of aging, then look for findings that break the skin or slow healing.",
+   "hintStrategy": "Go through each segment and ask whether it is expected for an 84-year-old or whether it is harming the skin now. Highlight only findings that need action."
   },
   {
    "id": "m21c-002",
-   "caseId": "m21c-case-cellulitis",
+   "caseId": "m21c-case-fragile-skin",
    "caseOrder": 2,
    "type": "matrix",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Lower-Leg Cellulitis",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "topic": "diagnostics-labs-nutrition",
+   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Older Adult with Fragile Skin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1400:</strong> 58-year-old client with type 2 diabetes mellitus and obesity. 3 days of increasing left lower-leg pain and swelling. Long-standing tinea pedis; skin between left 4th and 5th toes macerated and fissured. Left ankle to mid-calf warm, tense, tender, deeper violet-brown than surrounding dark brown skin, borders poorly defined. Tender left inguinal node. Pedal pulses 2+, alert and oriented ×4.</p>"
+      "html": "<p><strong>Day 1, 0900 (Long-term care):</strong> 84-year-old resident with type 2 diabetes and osteoarthritis, admitted to the facility 2 weeks ago after a fall at home. Uses a wheelchair for distances. The UAP reports that the resident “bumped her arm on the wheelchair armrest” during a transfer. Resident says, “My skin tears and bruises if you just look at it.” Has showered daily with hot water and deodorant soap “my whole life.” Eats about 30–40% of meals. Usually wears short-sleeved shirts.</p><p><strong>Day 1, 0915 skin assessment:</strong> 4-cm open skin tear on the left forearm, oozing bright red blood. Both forearms thin and translucent with flat purple patches. Lower legs dry and flaky with scratch marks. Heels and sacrum intact without discoloration. Alert and oriented ×4.</p>"
      },
      {
       "title": "Vital Signs",
@@ -133,12 +137,12 @@
        ],
        "rows": [
         [
-         "1400",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "132/80",
-         "97% RA"
+         "Day 1 0900",
+         "36.4 °C (97.5 °F)",
+         "82",
+         "18",
+         "128/74",
+         "96% RA"
         ]
        ]
       }
@@ -154,77 +158,84 @@
        "rows": [
         [
          "WBC",
-         "15,800/mm³",
+         "7,800/mm³",
          "5,000–10,000/mm³"
         ],
         [
-         "Glucose (random)",
-         "286 mg/dL",
-         "74–106 mg/dL"
+         "Hemoglobin",
+         "10.1 g/dL",
+         "12–16 g/dL"
         ],
         [
-         "Hemoglobin A1C",
-         "9.2%",
-         "< 5.7%"
+         "Platelets",
+         "210,000/mm³",
+         "150,000–400,000/mm³"
         ],
         [
-         "Lactate",
-         "1.4 mmol/L",
-         "0.5–2.0 mmol/L"
+         "Albumin",
+         "3.0 g/dL",
+         "3.5–5.0 g/dL"
+        ],
+        [
+         "Glucose (fasting)",
+         "168 mg/dL",
+         "70–99 mg/dL"
         ]
        ]
       }
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The provider diagnoses cellulitis of the left lower leg. For each finding, indicate whether it is a contributing risk factor, a local inflammatory sign, or a systemic sign of infection.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. For each finding, indicate whether it is likely to delay healing of the resident's skin tear or is not likely to delay healing.",
    "rows": [
-    "Hemoglobin A1C 9.2%",
-    "Macerated, fissured skin between the 4th and 5th toes",
-    "Warm, tense, violet-brown skin from ankle to mid-calf",
-    "Temperature 38.6 °C (101.5 °F) and heart rate 108/min",
-    "WBC 15,800/mm³"
+    "Albumin 3.0 g/dL",
+    "Hemoglobin 10.1 g/dL",
+    "Fasting glucose 168 mg/dL",
+    "Eats about 30–40% of meals",
+    "WBC 7,800/mm³",
+    "Platelets 210,000/mm³"
    ],
    "columns": [
-    "Contributing risk factor",
-    "Local inflammatory sign",
-    "Systemic sign of infection"
+    "Likely to delay healing",
+    "Not likely to delay healing"
    ],
    "answer": [
     0,
     0,
-    2,
-    2,
-    2
+    0,
+    0,
+    1,
+    1
    ],
    "optionRationales": [
-    "Risk factor. Chronic hyperglycemia weakens neutrophil function and microcirculation, which increases the risk of infection and slows healing.",
-    "Risk factor. The broken interdigital skin from tinea pedis is the portal of entry that let bacteria into the dermis.",
-    "Local sign. Warmth, swelling, tension, and discoloration (erythema that looks violaceous in dark skin) are cardinal signs of inflammation at the site.",
-    "Systemic sign. Fever with tachycardia means the inflammatory response is no longer only local. These are SIRS criteria, and the nurse must watch closely for sepsis.",
-    "Systemic sign. Leukocytosis shows that the bone marrow is responding to a spreading bacterial infection."
+    "Likely to delay healing. Albumin below 3.5 g/dL signals poor nutrition, a higher infection risk, and delayed healing.",
+    "Likely to delay healing. Low hemoglobin means less oxygen is delivered to the healing tissue.",
+    "Likely to delay healing. Diabetes is a chronic illness that increases skin risk, and high glucose slows healing.",
+    "Likely to delay healing. Healing needs extra calories, protein, and vitamins A and C, which poor intake does not supply.",
+    "Not likely to delay healing. A normal WBC means infection defense is adequate.",
+    "Not likely to delay healing. A normal platelet count means clotting is adequate."
    ],
-   "rationale": "Grouping the cues guides the plan. Risk factors (poorly controlled diabetes, a skin break from tinea pedis) explain why the infection happened and need long-term management. Local signs show the extent of tissue involvement. Systemic signs (fever, tachycardia, leukocytosis) show the infection is affecting the whole body. That raises the priority and supports blood cultures and IV antibiotics.",
-   "takeaway": "Sort cellulitis cues into cause (risk factors), local signs (the leg), and systemic signs (the body). Systemic signs raise the priority.",
-   "hintContent": "A risk factor exists before or apart from the infection. A local sign is found at the site. A systemic sign reflects the body's overall response.",
-   "hintStrategy": "For each row, ask where the finding comes from: the client's history, the leg itself, or the whole body."
+   "rationale": "Labs that affect wound healing include WBC (infection defense), hemoglobin (oxygen delivery), coagulation, and albumin (nutrition). This resident has low albumin, low hemoglobin, high glucose, and poor intake, all of which slow healing. The normal WBC and platelets are reassuring.",
+   "takeaway": "Low albumin, low hemoglobin, high glucose, and poor intake all slow healing.",
+   "hintContent": "Recall what each lab tells you about oxygen delivery, infection defense, clotting, and nutrition.",
+   "hintStrategy": "Compare each value with its reference range first. Then ask how the abnormal ones affect new tissue growth."
   },
   {
    "id": "m21c-003",
-   "caseId": "m21c-case-cellulitis",
+   "caseId": "m21c-case-fragile-skin",
    "caseOrder": 3,
    "type": "dropdown",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Lower-Leg Cellulitis",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Older Adult with Fragile Skin",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1400:</strong> 58-year-old client with type 2 diabetes mellitus. Left lower-leg cellulitis with tinea pedis as the portal of entry. Tender left inguinal node. Pedal pulses 2+. Alert and oriented ×4. Pain 6/10.</p>"
+      "html": "<p><strong>Day 1, 0900 (Long-term care):</strong> 84-year-old resident with type 2 diabetes and osteoarthritis, admitted to the facility 2 weeks ago after a fall at home. Uses a wheelchair for distances. The UAP reports that the resident “bumped her arm on the wheelchair armrest” during a transfer. Resident says, “My skin tears and bruises if you just look at it.” Has showered daily with hot water and deodorant soap “my whole life.” Eats about 30–40% of meals. Usually wears short-sleeved shirts.</p><p><strong>Day 1, 0915 skin assessment:</strong> 4-cm open skin tear on the left forearm, oozing bright red blood. Both forearms thin and translucent with flat purple patches. Lower legs dry and flaky with scratch marks. Heels and sacrum intact without discoloration. Alert and oriented ×4.</p>"
      },
      {
       "title": "Vital Signs",
@@ -239,12 +250,12 @@
        ],
        "rows": [
         [
-         "1400",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "132/80",
-         "97% RA"
+         "Day 1 0900",
+         "36.4 °C (97.5 °F)",
+         "82",
+         "18",
+         "128/74",
+         "96% RA"
         ]
        ]
       }
@@ -260,23 +271,28 @@
        "rows": [
         [
          "WBC",
-         "15,800/mm³",
+         "7,800/mm³",
          "5,000–10,000/mm³"
         ],
         [
-         "Glucose (random)",
-         "286 mg/dL",
-         "74–106 mg/dL"
+         "Hemoglobin",
+         "10.1 g/dL",
+         "12–16 g/dL"
         ],
         [
-         "Lactate",
-         "1.4 mmol/L",
-         "0.5–2.0 mmol/L"
+         "Platelets",
+         "210,000/mm³",
+         "150,000–400,000/mm³"
         ],
         [
-         "Creatinine",
-         "1.0 mg/dL",
-         "0.6–1.2 mg/dL"
+         "Albumin",
+         "3.0 g/dL",
+         "3.5–5.0 g/dL"
+        ],
+        [
+         "Glucose (fasting)",
+         "168 mg/dL",
+         "70–99 mg/dL"
         ]
        ]
       }
@@ -284,108 +300,57 @@
     ]
    },
    "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client is at highest risk for developing {0} as evidenced by the client's {1} and {2}.",
+   "template": "The resident is at highest risk for {0} because of {1}. Healing of any new injury is most likely to be slowed by {2}.",
    "blanks": [
     {
      "options": [
-      "sepsis",
-      "deep vein thrombosis",
-      "diabetic ketoacidosis",
-      "a pressure injury"
+      "new skin tears and bruising",
+      "allergic contact dermatitis",
+      "melanoma",
+      "a fungal infection between the toes"
      ],
      "answer": 0
     },
     {
      "options": [
-      "pedal pulses of 2+",
-      "temperature and heart rate",
-      "oxygen saturation",
-      "pain rating of 6/10"
+      "thin skin with fragile vessels and less subcutaneous cushioning",
+      "an SpO₂ of 96% on room air",
+      "a normal white blood cell count",
+      "full orientation to person, place, and time"
      ],
-     "answer": 1
+     "answer": 0
     },
     {
      "options": [
-      "lactate level",
-      "creatinine level",
-      "WBC count",
-      "blood pressure"
+      "poor intake with an albumin of 3.0 g/dL",
+      "a platelet count of 210,000/mm³",
+      "a temperature of 36.4 °C (97.5 °F)",
+      "her use of a wheelchair for long distances"
      ],
-     "answer": 2
+     "answer": 0
     }
    ],
-   "rationale": "A bacterial skin infection in a client with poorly controlled diabetes, fever of 38.6 °C (101.5 °F), HR 108/min, and WBC 15,800/mm³ meets SIRS criteria. The immediate threat is progression to sepsis. Lactate, creatinine, and BP are still normal, so organ dysfunction is not present yet, but these are the values to trend. DVT is on the differential for a swollen leg, but it does not explain fever and leukocytosis. DKA would need ketones and acidosis, and a pressure injury is not the acute threat.",
-   "takeaway": "Skin infection + fever + tachycardia + leukocytosis = think sepsis before it declares itself with hypotension or a rising lactate.",
-   "hintContent": "SIRS criteria include temperature > 38 °C (100.4 °F), HR > 90/min, RR > 20/min, and WBC > 12,000/mm³ or < 4,000/mm³.",
-   "hintStrategy": "Pick the most life-threatening complication first, then choose the data that actually support it. A normal value cannot be evidence of a problem."
+   "rationale": "Aging skin is thinner and less elastic, with fragile vessels (senile purpura) and less subcutaneous fat for cushioning. Older adults therefore have a higher injury risk and slower healing. Poor intake with albumin below 3.5 g/dL adds to delayed healing and infection risk.",
+   "takeaway": "Thin skin + fragile vessels + less fat = injury risk. Low albumin = slow healing.",
+   "hintContent": "Recall the functional skin changes of aging (↑ injury risk, ↑ healing time) and which lab signals poor nutrition.",
+   "hintStrategy": "Choose the problem the most cues support. Each reason you pick must directly explain the problem you chose."
   },
   {
    "id": "m21c-004",
-   "caseId": "m21c-case-cellulitis",
+   "caseId": "m21c-case-fragile-skin",
    "caseOrder": 4,
    "type": "sata",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Lower-Leg Cellulitis",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Older Adult with Fragile Skin",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1630:</strong> Client admitted to the medical unit with left lower-leg cellulitis. T 38.4 °C (101.1 °F), HR 104, BP 130/78. No drainage from the leg. Allergies: none known.</p>"
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Cefazolin 2 g IV every 8 hours</li><li>Blood cultures ×2 before the first antibiotic dose</li><li>Elevate left lower extremity</li><li>Mark the border of the affected area</li><li>Capillary blood glucose before meals and at bedtime; insulin lispro per sliding scale</li><li>Venous duplex ultrasound, left lower extremity</li><li>Acetaminophen 650 mg PO every 6 hours PRN pain or temperature > 38.3 °C (101 °F)</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Orders. The nurse is planning care for the client. Which actions should the nurse include in the plan of care? Select all that apply.",
-   "options": [
-    "Draw both sets of blood cultures before hanging the first dose of cefazolin",
-    "Place the client on contact precautions in a private room",
-    "Outline the edge of the discolored area with a skin marker and note the date and time",
-    "Keep the left leg dependent to improve arterial blood flow to the infection",
-    "Raise the left leg on pillows so that it is above the level of the heart",
-    "Check capillary blood glucose before meals and at bedtime"
-   ],
-   "answer": [
-    0,
-    2,
-    4,
-    5
-   ],
-   "optionRationales": [
-    "Correct. Cultures drawn after antibiotics can be falsely negative, so blood cultures must be collected before the first dose.",
-    "Incorrect. CDC recommends standard precautions for cellulitis. Contact precautions are added for draining wounds or infections such as MRSA abscesses with drainage that cannot be contained.",
-    "Correct. Marking the border with date and time gives an objective baseline for judging whether the infection is spreading or receding.",
-    "Incorrect. A dependent position increases venous congestion and edema. The client's arterial flow is already adequate (2+ pulses).",
-    "Correct. Elevation above heart level promotes venous and lymphatic drainage and reduces swelling and pain.",
-    "Correct. Infection raises blood glucose, and hyperglycemia impairs healing and immunity. Glucose monitoring with sliding-scale insulin is part of the plan."
-   ],
-   "rationale": "Care for cellulitis combines collaborative orders (cultures before antibiotics, IV antibiotics, glucose control) with independent nursing actions (elevation, marking and trending the border, comfort measures). Standard precautions are enough when there is no drainage. Dependent positioning makes edema worse.",
-   "takeaway": "Cellulitis plan: cultures before antibiotics, elevate, mark the border, control glucose, standard precautions unless it drains.",
-   "hintContent": "Recall CDC's precaution level for nondraining cellulitis and why elevating a swollen extremity helps.",
-   "hintStrategy": "Treat each option as true or false for this client. Check each one against the Orders tab and the finding that the leg is not draining."
-  },
-  {
-   "id": "m21c-005",
-   "caseId": "m21c-case-cellulitis",
-   "caseOrder": 5,
-   "type": "mcq",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Lower-Leg Cellulitis",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 2, 0600:</strong> Client received cefazolin at 1700, 0100. Now reports shaking chills. Oriented to person and place only (was oriented ×4). Discoloration and warmth now extend 3 cm above the line marked at 1700. No crepitus or bullae. Urine output 90 mL over the last 4 hours.</p>"
+      "html": "<p><strong>Day 1, 0900 (Long-term care):</strong> 84-year-old resident with type 2 diabetes and osteoarthritis, admitted to the facility 2 weeks ago after a fall at home. Uses a wheelchair for distances. The UAP reports that the resident “bumped her arm on the wheelchair armrest” during a transfer. Resident says, “My skin tears and bruises if you just look at it.” Has showered daily with hot water and deodorant soap “my whole life.” Eats about 30–40% of meals. Usually wears short-sleeved shirts.</p><p><strong>Day 1, 0915 skin assessment:</strong> 4-cm open skin tear on the left forearm, oozing bright red blood. Both forearms thin and translucent with flat purple patches. Lower legs dry and flaky with scratch marks. Heels and sacrum intact without discoloration. Alert and oriented ×4.</p>"
      },
      {
       "title": "Vital Signs",
@@ -400,61 +365,99 @@
        ],
        "rows": [
         [
-         "Day 1 2000",
-         "38.2 °C (100.8 °F)",
-         "100",
+         "Day 1 0900",
+         "36.4 °C (97.5 °F)",
+         "82",
          "18",
-         "128/76",
-         "97% RA"
+         "128/74",
+         "96% RA"
+        ]
+       ]
+      }
+     },
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Result",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "WBC",
+         "7,800/mm³",
+         "5,000–10,000/mm³"
         ],
         [
-         "Day 2 0600",
-         "39.3 °C (102.7 °F)",
-         "124",
-         "26",
-         "88/50",
-         "94% RA"
+         "Hemoglobin",
+         "10.1 g/dL",
+         "12–16 g/dL"
+        ],
+        [
+         "Platelets",
+         "210,000/mm³",
+         "150,000–400,000/mm³"
+        ],
+        [
+         "Albumin",
+         "3.0 g/dL",
+         "3.5–5.0 g/dL"
+        ],
+        [
+         "Glucose (fasting)",
+         "168 mg/dL",
+         "70–99 mg/dL"
         ]
        ]
       }
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes and Vital Signs. Which action should the nurse take first?",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse is planning care to protect the resident's skin and promote healing. Which interventions should the nurse include? Select all that apply.",
    "options": [
-    "Re-outline the new border and reassess the leg in 1 hour",
-    "Call the rapid response team to report suspected sepsis",
-    "Give the PRN acetaminophen and recheck temperature in 30 minutes",
-    "Raise the leg higher and apply a cool compress to the area"
+    "Pad the wheelchair armrests and use a draw sheet with two staff to reposition the resident",
+    "Encourage the resident to wear long-sleeved clothing",
+    "Secure the forearm dressing with standard adhesive tape so it stays in place",
+    "Request a dietitian consult for more calories, protein, and vitamins A and C",
+    "Perform hand hygiene before and after dressing changes and discard soiled dressings safely",
+    "Pull the resident up in bed by the arms to avoid pressure on the sacrum"
    ],
-   "answer": 1,
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
    "optionRationales": [
-    "Documenting the spread is appropriate, but waiting an hour delays care for a client who is now hypotensive and confused.",
-    "Correct. New confusion, hypotension (BP 88/50, MAP about 63 mm Hg), tachycardia, tachypnea, fever, low urine output, and a spreading infection suggest sepsis with hypoperfusion. The nurse escalates now so that fluids, lactate, and broader antibiotics can start quickly.",
-    "Treating the fever is a comfort measure. It does not address hypotension and altered mental status, which are signs of organ hypoperfusion.",
-    "Elevation and comfort measures are ongoing care. They do not treat the systemic deterioration."
+    "Correct. Padding and lifting with a draw sheet prevent friction and bumps that tear fragile skin.",
+    "Correct. Long sleeves protect thin forearm skin from bumps and scrapes.",
+    "Incorrect. Removing adhesive tape can tear fragile older adult skin. Use a nonadherent dressing held with a wrap or tape-free product.",
+    "Correct. Healing needs extra calories, protein, and vitamins A and C, and a dietitian can plan supplements or small frequent meals.",
+    "Correct. Hand hygiene before and after wound care and safe disposal of soiled dressings prevent infection.",
+    "Incorrect. Pulling on the arms causes friction and skin tears. The resident should be lifted with a draw sheet, never dragged."
    ],
-   "rationale": "The client's condition has changed from local infection with SIRS to probable sepsis: altered mentation, SBP < 100 mm Hg, RR ≥ 22/min, and oliguria (about 22 mL/hr). Unstable before stable: this change needs immediate escalation (rapid response team or provider via SBAR) so that sepsis bundle care can begin. Local wound measures and antipyretics do not reverse hypoperfusion.",
-   "takeaway": "Spreading cellulitis + new confusion + hypotension = sepsis. Escalate immediately.",
-   "hintContent": "Compare Day 2 with Day 1. New confusion, SBP < 100 mm Hg, and RR ≥ 22/min are qSOFA warning signs.",
-   "hintStrategy": "The stem asks what to do FIRST. Decide whether the client is stable or unstable. If unstable, choose the action that gets the client definitive treatment fastest."
+   "rationale": "Older adults have an increased injury risk and slower healing. The plan protects fragile skin (padding, draw sheets, long sleeves, no adhesive tape), supports healing with nutrition, and prevents infection with hand hygiene and safe dressing disposal.",
+   "takeaway": "Pad, lift, cover, no tape, feed, and clean hands.",
+   "hintContent": "Recall how friction, adhesives, and poor nutrition affect thin, aging skin.",
+   "hintStrategy": "Judge each option on its own. Eliminate anything that adds friction or pulls on fragile skin."
   },
   {
-   "id": "m21c-006",
-   "caseId": "m21c-case-cellulitis",
-   "caseOrder": 6,
-   "type": "matrix",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Lower-Leg Cellulitis",
+   "id": "m21c-005",
+   "caseId": "m21c-case-fragile-skin",
+   "caseOrder": 5,
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Older Adult with Fragile Skin",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>Day 5, 0800:</strong> Client received fluid resuscitation and was changed to broad-spectrum IV antibiotics on day 2. Alert and oriented ×4. Warmth and violet-brown discoloration now 2 cm inside the most recent marked line; leg less tense. Pain 2/10. Skin between left 4th and 5th toes remains white, moist, and fissured. Blood cultures: group A <em>Streptococcus</em>, susceptible to the current antibiotic.</p>"
+      "html": "<p><strong>Day 1, 0900 (Long-term care):</strong> 84-year-old resident with type 2 diabetes and osteoarthritis, admitted to the facility 2 weeks ago after a fall at home. Uses a wheelchair for distances. The UAP reports that the resident “bumped her arm on the wheelchair armrest” during a transfer. Resident says, “My skin tears and bruises if you just look at it.” Has showered daily with hot water and deodorant soap “my whole life.” Eats about 30–40% of meals. Usually wears short-sleeved shirts.</p><p><strong>Day 1, 0915 skin assessment:</strong> 4-cm open skin tear on the left forearm, oozing bright red blood. Both forearms thin and translucent with flat purple patches. Lower legs dry and flaky with scratch marks. Heels and sacrum intact without discoloration. Alert and oriented ×4.</p>"
      },
      {
       "title": "Vital Signs",
@@ -469,12 +472,118 @@
        ],
        "rows": [
         [
-         "Day 5 0800",
-         "37.2 °C (99.0 °F)",
+         "Day 1 0900",
+         "36.4 °C (97.5 °F)",
          "82",
+         "18",
+         "128/74",
+         "96% RA"
+        ]
+       ]
+      }
+     },
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Result",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "WBC",
+         "7,800/mm³",
+         "5,000–10,000/mm³"
+        ],
+        [
+         "Hemoglobin",
+         "10.1 g/dL",
+         "12–16 g/dL"
+        ],
+        [
+         "Platelets",
+         "210,000/mm³",
+         "150,000–400,000/mm³"
+        ],
+        [
+         "Albumin",
+         "3.0 g/dL",
+         "3.5–5.0 g/dL"
+        ],
+        [
+         "Glucose (fasting)",
+         "168 mg/dL",
+         "70–99 mg/dL"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "Refer to the Nurses' Notes. The nurse goes to the resident's room to care for the skin tear. After performing hand hygiene and putting on gloves, which action should the nurse take first?",
+   "options": [
+    "Clean the skin tear with normal saline",
+    "Cover the skin tear with a nonadherent dressing and a wrap",
+    "Apply gentle pressure with gauze and elevate the arm",
+    "Complete an incident report about the transfer"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Cleaning with saline prevents infection, but it comes after the bleeding is controlled.",
+    "A dressing is applied after bleeding is controlled and the wound is cleaned.",
+    "Correct. In acute wound care, bleeding is controlled first with pressure and elevation. Pressure is gentle because the skin is fragile.",
+    "The event should be documented and reported, but only after the resident's wound has been cared for."
+   ],
+   "rationale": "Care of an untreated acute wound follows a sequence: control bleeding with pressure and elevation, then prevent infection by cleaning with normal saline and covering with a dressing, then manage pain and swelling and assess for shock. Documentation follows direct care.",
+   "takeaway": "Acute wound: pressure and elevate → clean with saline → cover.",
+   "hintContent": "Recall the order of acute wound care for an untreated wound.",
+   "hintStrategy": "All of these actions will be done. Choose the one that must happen before the others can be done safely."
+  },
+  {
+   "id": "m21c-006",
+   "caseId": "m21c-case-fragile-skin",
+   "caseOrder": 6,
+   "type": "matrix",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Older Adult with Fragile Skin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Nurses' Notes",
+      "html": "<p><strong>Day 1, 0900 (Long-term care):</strong> 84-year-old resident with type 2 diabetes and osteoarthritis, admitted to the facility 2 weeks ago after a fall at home. Uses a wheelchair for distances. The UAP reports that the resident “bumped her arm on the wheelchair armrest” during a transfer. Resident says, “My skin tears and bruises if you just look at it.” Has showered daily with hot water and deodorant soap “my whole life.” Eats about 30–40% of meals. Usually wears short-sleeved shirts.</p><p><strong>Day 1, 0915 skin assessment:</strong> 4-cm open skin tear on the left forearm, oozing bright red blood. Both forearms thin and translucent with flat purple patches. Lower legs dry and flaky with scratch marks. Heels and sacrum intact without discoloration. Alert and oriented ×4.</p><p><strong>Day 14, 1000:</strong> Skin tear on the left forearm closed, with no drainage or redness. Wheelchair armrests are padded, and the resident wears long sleeves. Lower legs soft and moisturized, with no new scratch marks. Now showers every other day with lukewarm water and a mild cleanser. Eats about 40% of meals and often refuses the supplement. A new bruise on the right upper arm; the resident says, “The new aide pulled me up in bed by my arms last night.”</p>"
+     },
+     {
+      "title": "Vital Signs",
+      "table": {
+       "headers": [
+        "Time",
+        "T",
+        "HR",
+        "RR",
+        "BP",
+        "SpO₂"
+       ],
+       "rows": [
+        [
+         "Day 1 0900",
+         "36.4 °C (97.5 °F)",
+         "82",
+         "18",
+         "128/74",
+         "96% RA"
+        ],
+        [
+         "Day 14 1000",
+         "36.6 °C (97.9 °F)",
+         "78",
          "16",
-         "126/74",
-         "98% RA"
+         "126/72",
+         "97% RA"
         ]
        ]
       }
@@ -485,20 +594,26 @@
        "headers": [
         "Test",
         "Day 1",
-        "Day 5",
+        "Day 14",
         "Reference range"
        ],
        "rows": [
         [
-         "WBC",
-         "15,800/mm³",
-         "9,200/mm³",
-         "5,000–10,000/mm³"
+         "Hemoglobin",
+         "10.1 g/dL",
+         "10.4 g/dL",
+         "12–16 g/dL"
         ],
         [
-         "Fasting glucose",
-         "—",
-         "251 mg/dL",
+         "Albumin",
+         "3.0 g/dL",
+         "3.1 g/dL",
+         "3.5–5.0 g/dL"
+        ],
+        [
+         "Glucose (fasting)",
+         "168 mg/dL",
+         "132 mg/dL",
          "70–99 mg/dL"
         ]
        ]
@@ -506,42 +621,42 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. For each finding, indicate whether it shows that the client's condition is improving (the interventions are effective) or not improving (it needs further intervention).",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results for day 14. For each finding, indicate whether the plan of care has been effective or not effective.",
    "rows": [
-    "Temperature, heart rate, and mental status",
-    "Size of the discolored, warm area",
-    "WBC count",
-    "Fasting blood glucose",
-    "Skin between the 4th and 5th toes"
+    "Skin tear closed with no drainage or redness",
+    "Lower legs soft, with no new scratch marks",
+    "Eats about 40% of meals; albumin 3.1 g/dL",
+    "New bruise after being pulled up in bed by the arms",
+    "No new injuries on the padded forearms"
    ],
    "columns": [
-    "Improving",
-    "Not improving"
+    "Effective",
+    "Not effective"
    ],
    "answer": [
     0,
     0,
-    0,
     1,
-    1
+    1,
+    0
    ],
    "optionRationales": [
-    "Improving. The client is afebrile with a normal HR and back to baseline orientation, so the systemic response has resolved.",
-    "Improving. The inflamed area is receding inside the marked line, which shows the antibiotic is working.",
-    "Improving. The WBC count has returned to the normal range.",
-    "Not improving. A fasting glucose of 251 mg/dL is still well above target. Hyperglycemia impairs immunity and healing, so the provider and diabetes educator need to adjust the plan.",
-    "Not improving. The tinea pedis portal of entry is untreated. Unless it is treated with a topical antifungal and the feet are kept dry, the cellulitis is likely to recur."
+    "Effective. The wound healed without signs of infection.",
+    "Effective. Gentler bathing and moisturizing have restored the skin barrier.",
+    "Not effective. Intake is still poor and albumin is still below 3.5 g/dL. The nutrition plan needs to be revised with the dietitian.",
+    "Not effective. Staff are still using a technique that injures fragile skin. The nurse needs to reinforce draw-sheet use with all UAPs.",
+    "Effective. Padding and long sleeves are preventing new skin tears."
    ],
-   "rationale": "The antibiotic and supportive therapy are working: vital signs, mental status, the size of the area, and the WBC count have all improved. Evaluation also includes the contributing factors. Persistent hyperglycemia and the untreated interdigital tinea are unresolved risks for recurrent cellulitis and should be addressed before discharge.",
-   "takeaway": "Evaluate the infection AND its causes. Untreated tinea pedis and high glucose set up the next cellulitis.",
-   "hintContent": "Recall the expected responses to effective treatment of cellulitis, and which factors let the infection start in the first place.",
-   "hintStrategy": "Compare each finding with its earlier value in the case, or with the normal range. Improving means it has moved toward normal."
+   "rationale": "Evaluation looks at each goal separately. Skin protection, bathing changes, and wound care worked. Nutrition has not improved, and a new injury shows that safe lifting is not being used by all staff, so those parts of the plan need to be revised.",
+   "takeaway": "Evaluate each goal on its own. One success does not mean the whole plan worked.",
+   "hintContent": "Compare each day-14 finding with the day-1 baseline and with the goals of protecting skin and promoting healing.",
+   "hintStrategy": "For each row, ask whether the finding moved toward the goal. Don't let the overall improvement hide findings that did not change."
   },
   {
    "id": "m21c-007",
    "type": "bowtie",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
+   "topic": "inflammatory-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders (Contact Dermatitis)",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Prioritize Hypotheses",
@@ -550,7 +665,7 @@
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>Clinic, 1015:</strong> 71-year-old client reports 3 days of burning, stabbing pain on the right side of the chest and back. Rash appeared yesterday. Assessment: clusters of fluid-filled vesicles on red bases in a band from the right mid-back to the right side of the sternum; lesions do not cross the midline. No lesions on the face or near the eyes. Client had chickenpox as a child and has not received a zoster vaccine. No immunosuppressive conditions or medications. Lives with spouse; a granddaughter who is 20 weeks pregnant visits daily and does not know whether she has had chickenpox.</p>"
+      "html": "<p><strong>Clinic, 1015:</strong> 38-year-old client reports an intensely itchy rash that started 2 days after dyeing her hair at home with a new permanent hair dye. She used a different dye of the same color 3 months ago and had mild itching afterward. Assessment: red, swollen skin with small vesicles along the hairline, forehead, tops of the ears, and back of the neck, ending sharply where the dye touched the skin. No crusting or drainage. No lesions elsewhere. Denies shortness of breath or throat tightness. No one at home has a rash.</p>"
      },
      {
       "title": "Vital Signs",
@@ -561,43 +676,39 @@
         "HR",
         "RR",
         "BP",
-        "Pain"
+        "SpO₂"
        ],
        "rows": [
         [
          "1015",
-         "37.4 °C (99.3 °F)",
-         "88",
-         "18",
-         "142/84",
-         "8/10"
+         "36.8 °C (98.2 °F)",
+         "78",
+         "16",
+         "122/76",
+         "99% RA"
         ]
        ]
       }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Valacyclovir 1 g PO three times daily × 7 days</li><li>Gabapentin 300 mg PO at bedtime</li><li>Follow up in 1 week</li></ul>"
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Orders. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
+   "stem": "Refer to the Nurses' Notes and Vital Signs. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
    "condition": {
     "options": [
      "Allergic contact dermatitis",
-     "Herpes zoster (shingles)",
-     "Herpes simplex virus infection",
-     "Cellulitis of the chest wall"
+     "Irritant contact dermatitis",
+     "Impetigo",
+     "Head lice"
     ],
-    "answer": 1
+    "answer": 0
    },
    "actions": {
     "options": [
-     "Teach the client to keep the rash covered and avoid contact with the pregnant granddaughter until all lesions crust",
-     "Arrange direct admission to a negative-pressure airborne isolation room",
-     "Instruct the client to begin valacyclovir today and complete the full 7-day course",
-     "Apply a topical corticosteroid cream to the vesicles three times daily",
-     "Teach the client to open the vesicles so the fluid can drain and dry faster"
+     "Teach the client to avoid the hair dye and document the allergy",
+     "Place the client on contact precautions",
+     "Apply cool compresses and the prescribed topical corticosteroid",
+     "Apply an antifungal cream to the rash twice daily",
+     "Cover the rash with an occlusive dressing overnight"
     ],
     "answer": [
      0,
@@ -606,43 +717,43 @@
    },
    "parameters": {
     "options": [
-     "Pain intensity along the affected dermatome",
-     "Serum potassium level",
-     "Appearance of lesions, including crusting and any spread beyond the dermatome",
-     "Peak expiratory flow rate",
-     "Capillary refill in the fingers"
+     "Intensity of itching",
+     "Serum albumin level",
+     "Wound culture results",
+     "Extent of redness and vesicles",
+     "Nasal culture results"
     ],
     "answer": [
      0,
-     2
+     3
     ]
    },
    "optionRationales": {
     "condition": [
-     "Contact dermatitis is itchy, not neuralgic. It follows the pattern of the exposure, not a unilateral dermatome.",
-     "Correct. Prodromal burning pain followed by grouped vesicles on a red base in a unilateral dermatomal band that does not cross the midline is classic herpes zoster: reactivation of latent varicella-zoster virus.",
-     "HSV usually causes grouped vesicles on the lips or genitals, not a painful thoracic dermatomal band in an older adult.",
-     "Cellulitis is a spreading, warm, poorly demarcated area of redness without clustered vesicles in a dermatomal pattern."
+     "Correct. An itchy rash with vesicles that appears at the site of contact, takes the shape of the exposure, and follows an earlier sensitizing exposure is allergic contact dermatitis. Dyes are a common allergen.",
+     "Irritant dermatitis is direct chemical damage that causes red, dry, cracked, burning skin. It does not need a prior exposure, and vesicles in a sharp pattern after re-exposure point to an allergy.",
+     "Impetigo causes honey-colored crusts and is contagious. This rash has no crusts, and no one at home is affected.",
+     "Head lice cause scalp itching with nits on the hair shafts, not a vesicular rash that ends where dye touched the skin."
     ],
     "actions": [
-     "Correct. Localized zoster in an immunocompetent client needs standard precautions with lesions covered. Anyone not immune to varicella, especially pregnant people, should avoid contact until all lesions are crusted, because exposure can cause primary varicella.",
-     "Incorrect. Airborne plus contact precautions are needed for disseminated zoster or zoster in an immunocompromised host, not localized zoster in a healthy client.",
-     "Correct. Antivirals work best when started within 72 hours of rash onset. They shorten the illness and may reduce the risk of postherpetic neuralgia.",
-     "Incorrect. Topical corticosteroids are not used on zoster vesicles and may impair local immune defense.",
-     "Incorrect. Opening vesicles increases the risk of bacterial superinfection and of spreading the virus."
+     "Correct. Avoiding the allergen is the main treatment, and documenting it prevents future exposure.",
+     "Contact dermatitis is not contagious, so isolation is not needed.",
+     "Correct. Cool compresses soothe itching, and a prescribed topical corticosteroid reduces the inflammation.",
+     "This rash is not fungal, so an antifungal will not help.",
+     "Occlusion traps heat and moisture and increases absorption of topical drugs. It is used only when prescribed."
     ],
     "parameters": [
-     "Correct. Pain control is a major goal. Pain that persists after the rash heals suggests postherpetic neuralgia.",
-     "Incorrect. Nothing in this client's condition or medications affects potassium.",
-     "Correct. Lesions should crust within about 7–10 days. New lesions outside the dermatome suggest dissemination and need prompt reporting.",
-     "Incorrect. The client has no respiratory disease.",
-     "Incorrect. Peripheral perfusion is not affected by zoster."
+     "Correct. Less itching shows the inflammation is settling.",
+     "Albumin reflects nutritional status, not the course of dermatitis.",
+     "This is not an infected wound, so no culture has been ordered.",
+     "Correct. Shrinking redness and drying vesicles show the rash is resolving.",
+     "Nasal cultures are carrier studies for repeated bacterial infections, which do not apply here."
     ]
    },
-   "rationale": "The dermatomal vesicular rash after a painful prodrome is herpes zoster. Priority care is early antiviral therapy (within 72 hours) plus preventing spread to susceptible people, such as the pregnant granddaughter, by covering the lesions until they crust. Standard precautions are enough for localized disease in an immunocompetent host. Progress is measured by pain relief and by lesions crusting without spreading. After recovery, the client should receive recombinant zoster vaccine (2 doses) as recommended for adults 50 and older.",
-   "takeaway": "Shingles: dermatomal, unilateral, painful. Start the antiviral within 72 hours, cover the lesions, and keep the client away from nonimmune pregnant people and infants.",
-   "hintContent": "Recall the distribution of zoster lesions, why antiviral timing matters, and how zoster spreads to people who have never had chickenpox.",
-   "hintStrategy": "Start in the middle of the bowtie: name the condition from the rash pattern. Then choose only the actions and parameters that match that condition in an immunocompetent client."
+   "rationale": "Allergic contact dermatitis is an immune reaction that needs prior exposure. The rash appears at the allergen site, is shaped like the exposure, and may form vesicles or wheals. Dyes, perfumes, metals, latex, and poison plants are common allergens. Care is avoiding the allergen, soothing the skin, and using prescribed topical corticosteroids. Progress is shown by less itching and a shrinking rash.",
+   "takeaway": "Rash shaped like the exposure after prior contact = allergic contact dermatitis. Avoid, soothe, treat, and monitor the itch and rash.",
+   "hintContent": "Look at where the rash is, its shape, and whether the client had used a similar product before.",
+   "hintStrategy": "Pick the condition first. Then choose only the actions and parameters that fit that condition."
   },
   {
    "id": "m21c-008",
@@ -686,45 +797,14 @@
   {
    "id": "m21c-009",
    "type": "highlight",
-   "topic": "inflammatory-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "topic": "wound-types-classification",
+   "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Recognize Cues",
-   "focus": "Pharmacology",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Medication Administration Record",
-      "html": "<ul><li>Lamotrigine 25 mg PO daily (started 12 days ago)</li><li>Sertraline 50 mg PO daily (8 months)</li><li>Adapalene 0.1% gel to face at bedtime (1 year)</li></ul>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "0930",
-         "38.9 °C (102.0 °F)",
-         "112",
-         "20",
-         "118/72",
-         "97% RA"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "A 26-year-old client with bipolar disorder calls the clinic and is seen the same day. Refer to the Medication Administration Record and Vital Signs, then read the nurse's assessment note. Click to highlight the findings that require immediate follow-up.",
-   "passage": "Client reports 2 days of fever, sore throat, and body aches, followed by a rash that started this morning. Client says the skin {{burns and hurts to touch}}. {{Flat, dusky red spots with darker purple centers}} on the chest and back. {{Painful sores and crusts on the lips and inside the mouth}}. When the nurse presses gently beside a lesion, {{the top layer of skin wrinkles and slides off}}. {{A few small closed comedones on the forehead}}. {{Dry, cracked skin on both heels}}. Client {{has been sleeping about 7 hours a night}}.",
+   "focus": "Assessment Findings",
+   "stem": "A 45-year-old client is brought to the emergency department 30 minutes after falling through a glass door. A pressure dressing has been applied to a deep laceration on the right forearm. Read the nurse's assessment note. Click to highlight the findings that suggest the client may be developing shock.",
+   "passage": "Client is {{restless and keeps asking for water}}. {{Pulse 128/min and weak}}. {{Skin cool and clammy}}. {{BP 86/54 mm Hg}}. {{Small abrasions on both knees with a small amount of serous oozing}}. {{Pain 5/10 at the forearm laceration}}. {{SpO₂ 97% on room air}}. {{Closed, swollen bruise on the right hip}}.",
    "answer": [
     0,
     1,
@@ -732,18 +812,19 @@
     3
    ],
    "optionRationales": [
-    "Requires immediate follow-up. Skin pain that is out of proportion to the rash is an early warning sign of Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN).",
-    "Requires immediate follow-up. Dusky, atypical target-like macules on the trunk after a flu-like prodrome suggest SJS.",
-    "Requires immediate follow-up. Mucosal erosions of the lips and mouth are a hallmark of SJS. Mucosal involvement separates it from a simple drug rash.",
-    "Requires immediate follow-up. Epidermis that separates with gentle lateral pressure (positive Nikolsky sign) shows epidermal detachment.",
-    "Does not require immediate follow-up. Mild comedonal acne is expected and is being treated with adapalene.",
-    "Does not require immediate follow-up. Xerosis of the heels is a minor, chronic problem.",
-    "Does not require immediate follow-up. Stable sleep suggests the bipolar disorder is controlled. It is not related to the acute rash."
+    "Suggests shock. Restlessness and thirst are early signs of reduced blood volume and brain perfusion.",
+    "Suggests shock. A rapid, weak pulse is the body's attempt to maintain cardiac output after blood loss.",
+    "Suggests shock. Cool, clammy skin reflects vasoconstriction as blood is shunted to vital organs.",
+    "Suggests shock. Low blood pressure is a key sign of shock after bleeding.",
+    "Does not suggest shock. Minor serous oozing from superficial abrasions is expected.",
+    "Does not suggest shock. Moderate pain at the wound is expected and should be treated, but it is not a shock sign.",
+    "Does not suggest shock. Oxygen saturation is normal.",
+    "Does not suggest shock by itself. A closed wound (contusion) should be monitored, but it does not indicate shock."
    ],
-   "rationale": "Lamotrigine carries a boxed warning for serious rashes, including SJS/TEN, most often within the first 2–8 weeks or with rapid dose increases. A febrile prodrome, painful skin, dusky target-like lesions, mucosal erosions, and a positive Nikolsky sign form a severe cutaneous drug reaction. The drug must be stopped and the client transferred emergently for care like that for a burn. Minor acne, dry heels, and normal sleep are not urgent.",
-   "takeaway": "New drug + fever + painful skin + mucosal sores = SJS/TEN until proven otherwise. Stop the drug and escalate.",
-   "hintContent": "Some drug reactions start like the flu and then affect the skin and mucous membranes. Recall which anticonvulsant carries a boxed warning for serious rash.",
-   "hintStrategy": "Link the timing of the new medication to the symptoms. Highlight only the findings that point to a dangerous reaction, not chronic, stable problems."
+   "rationale": "For untreated wounds, the nurse controls bleeding, prevents infection, manages pain and swelling, and assesses for shock: rapid pulse, cool clammy skin, and low BP, often with restlessness and thirst. These findings need immediate reporting and intervention.",
+   "takeaway": "Shock after a wound: rapid pulse, cool clammy skin, low BP, restlessness.",
+   "hintContent": "Recall the signs of shock listed for untreated acute wounds.",
+   "hintStrategy": "For each segment, ask whether it reflects the circulation failing or is an expected finding of a minor wound."
   },
   {
    "id": "m21c-010",
@@ -816,7 +897,7 @@
     "An 88-year-old client with little subcutaneous fat shivers in a room that feels comfortable to staff",
     "A client with a spinal cord injury does not notice a hot beverage spilled on the lap",
     "A client with widespread blistering skin loss becomes hypothermic after a dressing change",
-    "A client with leprosy (Hansen disease) has painless cuts on the hands"
+    "A client with diabetic neuropathy does not notice a blister from new shoes"
    ],
    "columns": [
     "Protection (barrier)",
@@ -831,52 +912,16 @@
     2
    ],
    "optionRationales": [
-    "Protection. Intact epidermis is the barrier against microorganisms, and the abrasions breached it.",
-    "Temperature regulation. Loss of subcutaneous fat (insulation) with aging impairs heat conservation.",
+    "Protection. Intact skin is the barrier against microorganisms, and the abrasions breached it.",
+    "Temperature regulation. Loss of subcutaneous fat with aging impairs heat conservation.",
     "Sensation. Loss of sensory input from the skin below the injury removes the warning signal for pain and heat.",
-    "Temperature regulation. Without intact skin, heat is lost through evaporation and exposed surfaces, especially during wound exposure.",
-    "Sensation. Hansen disease damages peripheral nerves, so injuries go unnoticed."
+    "Temperature regulation. Without intact skin, heat is lost from exposed surfaces, especially during wound care.",
+    "Sensation. Neuropathy removes the feeling of pressure and pain, so injuries go unnoticed."
    ],
    "rationale": "The skin protects against pathogens and trauma, regulates temperature through blood vessels, sweat glands, and subcutaneous insulation, and gives sensation through dermal receptors. Naming which function has failed guides the nursing action: infection prevention, warming, or protection from injury the client cannot feel.",
    "takeaway": "Match the failure to the function: infection = barrier, cold or heat = regulation, unnoticed injury = sensation.",
    "hintContent": "Review the main skin functions and the layer that performs each.",
    "hintStrategy": "For each row, ask what went wrong for the client (infection, temperature, or feeling) rather than what caused it."
-  },
-  {
-   "id": "m21c-013",
-   "type": "mcq",
-   "topic": "skin-structure-function",
-   "ref": "Module 21 · Tissue Integrity · Functions of the Skin",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Home Visit Note",
-      "html": "<p><strong>1500:</strong> Heat advisory day 3. Apartment thermostat reads 34 °C (93 °F); air conditioner broken. 86-year-old client found sitting in a chair, confused, and unable to state the date. Skin hot, flushed, and dry. T 40.3 °C (104.5 °F), HR 124, RR 24, BP 98/58. Client takes furosemide daily.</p>"
-     }
-    ]
-   },
-   "stem": "The home health nurse is visiting an older adult client. Refer to the Home Visit Note. Which action should the nurse take first?",
-   "options": [
-    "Call 911 and begin cooling the client with wet cloths and a fan",
-    "Encourage the client to drink 1 L of cool water over the next hour",
-    "Hold the furosemide and call the provider to report the client's findings",
-    "Give acetaminophen to reduce the temperature and recheck it in 1 hour"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. A core temperature > 40 °C (104 °F) with altered mental status and hot, dry skin suggests heat stroke, which is life-threatening. Rapid cooling and emergency transport are the priorities.",
-    "A confused client has an aspiration risk, and oral fluids alone will not cool the body fast enough.",
-    "Addressing the diuretic is appropriate later but does not treat the immediate emergency.",
-    "Heat stroke is not a hypothalamic fever. Antipyretics do not work and delay effective cooling."
-   ],
-   "rationale": "Older adults have fewer sweat glands, reduced dermal blood flow, and diminished thirst, so they lose skin-mediated heat regulation. Diuretics add dehydration. Hot, dry skin with confusion and a temperature above 40 °C is heat stroke. Immediate external cooling and EMS activation come before any other action.",
-   "takeaway": "Older adult + heat + confusion + hot, dry skin = heat stroke. Cool now and call 911.",
-   "hintContent": "Recall how aging changes sweat gland function and why heat stroke is different from a fever.",
-   "hintStrategy": "Look for signs of neurologic compromise. Choose the action that reverses the life threat fastest."
   },
   {
    "id": "m21c-014",
@@ -991,7 +1036,7 @@
    "stem": "A client comes to the clinic with a rash on the torso that began 4 days ago. Which data should the nurse collect during the focused skin assessment? Select all that apply.",
    "options": [
     "Size of representative lesions measured in millimeters or centimeters",
-    "Distribution and arrangement of the lesions (for example, linear, clustered, dermatomal)",
+    "Distribution and arrangement of the lesions (for example, linear, clustered, or scattered)",
     "Any new medications, soaps, foods, or exposures before the rash appeared",
     "The content of a pustule obtained by squeezing it onto gauze",
     "Associated symptoms such as itching, pain, or fever",
@@ -1005,7 +1050,7 @@
    ],
    "optionRationales": [
     "Correct. Measured, objective dimensions let the team trend changes over time.",
-    "Correct. The pattern and distribution (for example, dermatomal in zoster or linear in poison ivy) are major clues to the cause.",
+    "Correct. The pattern and distribution (for example, clustered vesicles or linear streaks from poison ivy) are major clues to the cause.",
     "Correct. A history of new drugs, products, and exposures helps identify allergic, irritant, and drug reactions.",
     "Incorrect. Squeezing a lesion injures tissue and can spread infection. A culture, if needed, is collected by swab per protocol.",
     "Correct. Subjective symptoms (pruritus, pain, systemic signs) guide the differential and the priority.",
@@ -1045,80 +1090,6 @@
    "hintStrategy": "Picture the test being performed. Eliminate options that describe a different kind of procedure, then choose the instruction that protects the accuracy of the result."
   },
   {
-   "id": "m21c-019",
-   "type": "dropdown",
-   "topic": "skin-assessment-lesions",
-   "ref": "Module 21 · Tissue Integrity · Skin as a Reflection of Systemic Disease",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "Platelets",
-         "18,000/mm³",
-         "150,000–400,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "10.9 g/dL",
-         "12–16 g/dL"
-        ],
-        [
-         "WBC",
-         "3,100/mm³",
-         "5,000–10,000/mm³"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "A client receiving chemotherapy has many pinpoint, flat, reddish-purple spots on both lower legs and oozing from the gums. Refer to the Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The lesions are most consistent with {0}. The nurse confirms this by noting that the lesions {1}. The priority nursing action is to {2}.",
-   "blanks": [
-    {
-     "options": [
-      "petechiae",
-      "cherry angiomas",
-      "spider angiomas",
-      "milia"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "do not blanch with pressure",
-      "blanch with pressure",
-      "are raised and fluid-filled"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "implement bleeding precautions",
-      "apply warm compresses to the legs",
-      "teach daily sunscreen use"
-     ],
-     "answer": 0
-    }
-   ],
-   "rationale": "Petechiae are pinpoint, flat, nonblanching hemorrhages into the skin. With a platelet count of 18,000/mm³ and gum bleeding, they show that thrombocytopenia is putting the client at risk for serious bleeding. Nonblanching (bleeding into tissue) separates them from vascular lesions such as angiomas, which blanch. Bleeding precautions include a soft toothbrush, an electric razor, no IM injections, fall prevention, and reporting new bleeding.",
-   "takeaway": "Pinpoint + flat + nonblanching = petechiae, which means low platelets. Start bleeding precautions.",
-   "hintContent": "Skin lesions can reflect systemic disease. Recall which lesions come from blood leaking out of vessels and how blanching tells them apart.",
-   "hintStrategy": "Use the platelet count in the exhibit to anchor your first choice, then choose the test and action that follow from it."
-  },
-  {
    "id": "m21c-020",
    "type": "mcq",
    "topic": "infectious-skin-disorders",
@@ -1127,7 +1098,7 @@
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
-   "stem": "A 6-year-old admitted for asthma is found to have honey-crusted lesions on the chin that are diagnosed as impetigo. Topical mupirocin is started today. Which infection control measure should the nurse implement?",
+   "stem": "A 6-year-old admitted for asthma is found to have honey-crusted lesions on the chin that are diagnosed as impetigo. A topical antibiotic is started today. Which infection control measure should the nurse implement?",
    "options": [
     "Contact precautions until 24 hours after effective therapy begins",
     "Droplet precautions until all of the crusted lesions have fully healed",
@@ -1136,14 +1107,14 @@
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. CDC recommends contact precautions for impetigo until 24 hours after effective therapy is started.",
+    "Correct. Impetigo requires contact precautions until 24 hours after effective therapy is started.",
     "Impetigo spreads by direct contact, not droplets.",
     "Impetigo is not airborne.",
     "Standard precautions alone do not prevent spread of this highly contagious bacterial skin infection in a hospital."
    ],
-   "rationale": "Impetigo (Staphylococcus aureus or group A Streptococcus) spreads by direct contact with lesions or contaminated items. Contact precautions (gown and gloves) continue until 24 hours after effective treatment begins. The same rule applies to children returning to school or daycare.",
+   "rationale": "Impetigo is a bacterial infection that spreads by direct contact with lesions or contaminated items. Contact precautions (gown and gloves) continue until 24 hours after effective treatment begins. The same rule applies to children returning to school or daycare.",
    "takeaway": "Impetigo = contact precautions until 24 hours of effective therapy.",
-   "hintContent": "Recall how impetigo is spread and CDC's rule for when the child is no longer contagious.",
+   "hintContent": "Recall how impetigo is spread and the rule for when the child is no longer contagious.",
    "hintStrategy": "Match the route of transmission to the type of precaution. Then check that the duration also fits."
   },
   {
@@ -1171,16 +1142,16 @@
     4
    ],
    "optionRationales": [
-    "Correct. Scabies spreads by prolonged skin-to-skin contact and contaminated linens. CDC recommends contact precautions until 24 hours after effective treatment.",
-    "Correct. Treating all close contacts at the same time prevents reinfestation between people.",
-    "Correct. Hot washing and high-heat drying of items used within the previous 3 days kills mites and eggs.",
-    "Incorrect. Itching can last 2–4 weeks after successful treatment because of hypersensitivity to dead mites. Stopping precautions depends on time after treatment, not on symptoms.",
-    "Correct. Mites cannot survive more than 2–3 days away from human skin, so bagging nonwashable items for at least 72 hours kills them.",
-    "Incorrect. Permethrin 5% is applied to all skin from the neck down (including the scalp and face in older adults, per protocol) because mites are present beyond the visible burrows."
+    "Correct. Scabies spreads by close skin-to-skin contact and contaminated linens, so gown and gloves are used for direct care.",
+    "Correct. Treating all close contacts at the same time prevents passing the mites back and forth.",
+    "Correct. Hot washing and high-heat drying of recently used items kills mites and eggs.",
+    "Incorrect. Itching can continue for weeks after successful treatment, so it is not a guide for stopping precautions.",
+    "Correct. Mites cannot survive more than a few days away from human skin, so bagging items that can't be washed kills them.",
+    "Incorrect. Scabicide is applied to all skin from the neck down, because mites are present beyond the visible burrows."
    ],
-   "rationale": "Controlling a scabies outbreak needs contact precautions, treatment of the index case and all contacts at the same time, laundering or bagging of personal items, and whole-body application of the scabicide. Staff often become symptomatic, and older adults may have atypical or crusted scabies, which is highly contagious.",
-   "takeaway": "Scabies: treat everyone at once, head to toe. Hot-wash or bag for 72 hours. Itching can last weeks.",
-   "hintContent": "Recall how long the scabies mite survives off the body and why itching continues after the mites are dead.",
+   "rationale": "Scabies is a parasitic infection spread by close contact and shared items. Controlling an outbreak needs contact precautions, treatment of the resident and all contacts at the same time, laundering or bagging of personal items, and whole-body application of the prescribed treatment.",
+   "takeaway": "Scabies: treat everyone at once, neck to toes. Hot-wash or bag items. Itching can last weeks.",
+   "hintContent": "Recall how scabies spreads between people and through shared items.",
    "hintStrategy": "Each option is a separate true/false statement. Check each for timing (how long) and extent (how much skin)."
   },
   {
@@ -1192,24 +1163,24 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
-   "stem": "The nurse on a medical unit is reviewing four clients with skin infections. Which client's findings require the nurse's immediate attention?",
+   "stem": "The nurse on a medical-surgical unit is reviewing four clients with skin and wound findings. Which client's findings require the nurse's immediate attention?",
    "options": [
-    "A client with localized shingles whose lesions are now dry and crusted",
-    "A client with tinea pedis who reports itching and scaling between the toes",
-    "A client with thigh cellulitis whose pain is severe and who has crepitus",
-    "A client with impetigo who has honey-colored crusts around the nostrils"
+    "A client with athlete's foot who reports itching and scaling between the toes",
+    "A client with psoriasis who has silvery, scaly plaques on both elbows and both knees",
+    "A client whose incision has new purulent drainage and a fever of 38.9 °C (102 °F)",
+    "A client with a knee abrasion that has a small amount of clear, serous oozing"
    ],
    "answer": 2,
    "optionRationales": [
-    "Crusted zoster lesions show the disease is resolving.",
-    "Tinea pedis is a superficial fungal infection that is not urgent.",
-    "Correct. Pain out of proportion to the appearance of the skin and crepitus (gas in the tissue) are red flags for necrotizing soft-tissue infection, a surgical emergency with a high death rate.",
-    "Impetigo is superficial and is expected to respond to topical or oral antibiotics."
+    "Athlete's foot is a common fungal infection. It needs treatment and teaching, but it is not urgent.",
+    "Silvery plaques are the expected lesions of chronic psoriasis.",
+    "Correct. Purulent drainage, spreading redness, and fever are signs of wound infection that is spreading. This client needs prompt assessment, a wound culture, and notification of the provider.",
+    "A small amount of serous oozing from a partial-thickness abrasion is expected."
    ],
-   "rationale": "Most skin infections are superficial and stable. Necrotizing fasciitis may look like cellulitis at first, but pain out of proportion to the findings, crepitus, rapid spread, dusky or bullous skin, and systemic toxicity point to a fast-moving deep infection. It needs immediate notification of the provider for surgical debridement.",
-   "takeaway": "Cellulitis with pain out of proportion or crepitus: think necrotizing fasciitis and call immediately.",
-   "hintContent": "Recall which findings separate a routine soft-tissue infection from a deep, rapidly spreading one.",
-   "hintStrategy": "Three of these are stable or improving. Look for the one cue that signals rapid tissue destruction."
+   "rationale": "Most skin findings are stable or chronic. Signs of wound infection (redness, swelling, purulent drainage, necrosis) with fever mean the infection is progressing and require immediate follow-up. Wound cultures confirm the infection and guide antibiotic choice.",
+   "takeaway": "Purulent drainage + spreading redness + fever = act now.",
+   "hintContent": "Recall the signs of wound infection and which findings are expected with chronic or minor skin conditions.",
+   "hintStrategy": "Identify which findings are expected for each condition. The client whose findings are unexpected and getting worse comes first."
   },
   {
    "id": "m21c-023",
@@ -1252,12 +1223,12 @@
    "id": "m21c-024",
    "type": "order",
    "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
+   "ref": "Module 21 · Tissue Integrity · Infection Prevention, Exercise, & Nutrition",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "stem": "A client has a draining MRSA abscess on the thigh after incision and drainage and is on contact precautions. The nurse is changing the dressing. Place the steps in the order the nurse should perform them.",
+   "stem": "A client has a draining infected wound on the thigh and is on contact precautions. The nurse is changing the dressing. Place the steps in the order the nurse should perform them.",
    "options": [
     "Perform hand hygiene, then put on a gown and clean gloves before entering",
     "Remove the soiled dressing and discard it with the gloves in a leak-proof bag",
@@ -1265,8 +1236,8 @@
     "Cleanse the wound with normal saline, moving from the center outward",
     "Apply the new dressing and label it with the date, time, and initials"
    ],
-   "rationale": "PPE goes on before contact (hand hygiene, then gown, then gloves). The contaminated dressing is removed and discarded with the dirty gloves. Hand hygiene is repeated with fresh gloves before touching the wound. The wound is cleansed from the least contaminated area (center) outward, and then a clean dressing is applied and labeled. CDC recommends contact precautions for major draining abscesses because drainage cannot be reliably contained.",
-   "takeaway": "Clean gloves after the dirty dressing. Clean from the center outward. Contact precautions while it drains.",
+   "rationale": "PPE goes on before contact (hand hygiene, then gown, then gloves). The soiled dressing is removed and discarded safely with the dirty gloves. Hand hygiene is repeated with fresh gloves before touching the wound. The wound is cleansed with saline from the least contaminated area (center) outward, and then a clean dressing is applied and labeled.",
+   "takeaway": "Hand hygiene before and after wound care. Clean gloves after the dirty dressing. Clean from the center outward.",
    "hintContent": "Separate the dirty part of the procedure (removing the old dressing) from the clean part (wound care), and think about what must happen between them.",
    "hintStrategy": "Order the steps to protect yourself first, then to never move from dirty to clean without a glove change and hand hygiene."
   },
@@ -1276,27 +1247,27 @@
    "topic": "infectious-skin-disorders",
    "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "cjmm": "Generate Solutions",
-   "focus": "Pharmacology",
-   "stem": "A 7-year-old with scaly patches of hair loss on the scalp is diagnosed with tinea capitis and prescribed oral griseofulvin for 8 weeks. Which instruction should the nurse include when teaching the parent?",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse is reviewing four clients who each have tinea (a fungal skin infection). Which client is at greatest risk for a serious complication from the fungal infection?",
    "options": [
-    "“Give the medicine on an empty stomach, 1 hour before breakfast.”",
-    "“Stop the medicine once the patches look clear, usually in 2 weeks.”",
-    "“Apply an antifungal shampoo instead if your child refuses the pills.”",
-    "“Give each dose with a high-fat food such as whole milk.”"
+    "A 20-year-old college athlete with athlete's foot",
+    "A 35-year-old with ringworm on the forearm after adopting a kitten",
+    "A 58-year-old receiving chemotherapy for leukemia",
+    "A 10-year-old with a scaly patch on the scalp"
    ],
-   "answer": 3,
+   "answer": 2,
    "optionRationales": [
-    "Griseofulvin absorption is poor on an empty stomach.",
-    "Tinea capitis needs 6–8 weeks or longer of treatment. Stopping early leads to relapse.",
-    "Antifungal shampoo is only an add-on to reduce spread. It cannot reach the fungus inside the hair shaft and does not replace oral therapy.",
-    "Correct. Griseofulvin is fat-soluble, and a high-fat meal greatly increases absorption."
+    "Athlete's foot in a healthy young adult is common and usually responds to topical treatment.",
+    "Ringworm in a healthy adult is usually a minor, local infection.",
+    "Correct. Fungal infections are more dangerous in immunocompromised clients. Chemotherapy weakens the immune system, so the infection can spread or become severe.",
+    "Tinea is common in children and needs treatment, but a healthy child is not at the highest risk for serious complications."
    ],
-   "rationale": "Tinea capitis involves the hair follicles, so topical agents cannot cure it and oral antifungal therapy is needed. Griseofulvin should be taken with fatty food for 6–8 weeks or longer. Teaching also covers photosensitivity (sun protection), not sharing combs or hats, and follow-up visits.",
-   "takeaway": "Griseofulvin: fatty food, long course, sun protection, no sharing hats or combs.",
-   "hintContent": "Recall why scalp ringworm needs oral therapy and what improves this drug's absorption.",
-   "hintStrategy": "Eliminate the options that shorten or replace therapy. Then compare the two options about food."
+   "rationale": "Fungal infections are common and usually minor, but they are more dangerous in immunocompromised clients, such as clients receiving chemotherapy. These clients need close monitoring and early treatment.",
+   "takeaway": "Fungal skin infections are most dangerous in immunocompromised clients.",
+   "hintContent": "Recall which clients the slides identify as most endangered by fungal infections.",
+   "hintStrategy": "Look for the client whose immune defenses are weakest."
   },
   {
    "id": "m21c-026",
@@ -1356,12 +1327,12 @@
    ],
    "answer": 0,
    "optionRationales": [
-    "Needs further teaching. Blister fluid does not contain urushiol and does not spread the rash. New areas appear from delayed reactions or from oil still on the skin, clothing, tools, or pets. Scratching should still be avoided because it can cause infection.",
-    "Correct statement. Urushiol stays on clothing, gloves, and tools and can cause new exposures until they are washed.",
+    "Needs further teaching. Blister fluid does not spread the rash. New areas appear from delayed reactions or from oil still on the skin, clothing, tools, or pets. Scratching should still be avoided because it can cause infection.",
+    "Correct statement. The plant oil stays on clothing, gloves, and tools and can cause new exposures until they are washed.",
     "Correct statement. Cool compresses, calamine, and oatmeal baths relieve itching.",
     "Correct statement. Washing within minutes to a few hours can remove the oil before it binds to the skin."
    ],
-   "rationale": "Poison ivy causes allergic contact dermatitis, a delayed type IV reaction to urushiol. The rash often forms linear streaks where the plant brushed the skin. It is not contagious, and vesicle fluid does not spread it. Teaching focuses on removing the oil from skin and objects, relieving symptoms, and avoiding the plant.",
+   "rationale": "Poison ivy causes allergic contact dermatitis, a delayed immune reaction to the plant's oil. The rash often forms linear streaks where the plant brushed the skin. It is not contagious, and vesicle fluid does not spread it. Teaching focuses on removing the oil from skin and objects, relieving symptoms, and avoiding the plant.",
    "takeaway": "Poison ivy spreads through the oil, not the blister fluid. Wash skin, clothes, and tools.",
    "hintContent": "Recall what substance in the plant causes the reaction and where it can remain after exposure.",
    "hintStrategy": "Negatively worded item: look for the one statement that is factually incorrect."
@@ -1370,37 +1341,38 @@
    "id": "m21c-028",
    "type": "sata",
    "topic": "inflammatory-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
+   "ref": "Module 21 · Tissue Integrity · Genetic Considerations & Risk Factors",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "stem": "A 42-year-old client with plaque psoriasis asks how to reduce flares. Which factors should the nurse teach the client to avoid or minimize? Select all that apply.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse at a community health fair is screening clients for risk of skin disorders. Which clients have an increased risk? Select all that apply.",
    "options": [
-    "Scratching, picking, or injuring the skin",
-    "Lukewarm oatmeal soaks for itchy plaques",
-    "Brief, regular sun exposure while avoiding sunburn",
-    "Unmanaged emotional stress",
-    "Daily application of a thick, fragrance-free moisturizer",
-    "Untreated infections such as strep throat"
+    "A 79-year-old whose skin has become thin and heals slowly",
+    "A 30-year-old whose parent and sibling have a genetic skin condition",
+    "A 55-year-old who has taken oral steroids for 2 years",
+    "A 40-year-old with poor nutrition and recent weight loss",
+    "A 25-year-old who eats a balanced diet and moisturizes daily",
+    "A 35-year-old who uses a mild cleanser and wears sunscreen daily"
    ],
    "answer": [
     0,
-    3,
-    5
+    1,
+    2,
+    3
    ],
    "optionRationales": [
-    "Correct. Skin trauma can trigger new plaques at the injury site (Koebner phenomenon).",
-    "Incorrect. Lukewarm oatmeal soaks soothe itching and help soften scale. They are a helpful comfort measure, not something to avoid.",
-    "Incorrect. Controlled UV exposure often improves psoriasis. Only sunburn, which is skin trauma, should be avoided.",
-    "Correct. Stress is a well-known trigger, so stress management is part of care.",
-    "Incorrect. Moisturizing reduces scaling and itching and is recommended, not avoided.",
-    "Correct. Streptococcal infections can trigger psoriasis flares (especially guttate psoriasis), so infections should be treated promptly."
+    "Correct. Older adults have thinner skin and slower healing.",
+    "Correct. Genetics and family history increase the risk of skin disorders.",
+    "Correct. Medications such as steroids can thin the skin.",
+    "Correct. Poor nutrition causes skin changes and delayed healing.",
+    "Incorrect. Good nutrition and moisturizing protect the skin.",
+    "Incorrect. Mild cleansers and sunscreen are protective habits."
    ],
-   "rationale": "Psoriasis is a chronic immune-mediated disorder with rapid keratinocyte turnover. It cannot be cured, but remission is the goal. Known triggers include skin trauma (Koebner phenomenon), stress, infections, smoking, alcohol, cold dry weather, and certain medications. Moisturizers, soothing soaks, and controlled sun exposure are helpful.",
-   "takeaway": "Psoriasis triggers: trauma, stress, and strep (plus smoking and alcohol). Moisturizers, soothing soaks, and a little sun help.",
-   "hintContent": "Recall the Koebner phenomenon and the main environmental and lifestyle triggers of psoriasis.",
-   "hintStrategy": "The stem asks what to AVOID. Do not select options that are actually helpful."
+   "rationale": "Risk factors for skin disorders include genetics and family history, older age (thinner skin, slower healing), medications (steroids, antibiotics, chemotherapy, antifungals), chronic illness, and poor nutrition. Protective habits include good nutrition, moisturizing, mild cleansers, and sun protection.",
+   "takeaway": "Genetics, age, medications, chronic illness, and poor nutrition raise skin risk.",
+   "hintContent": "Recall the genetic, age, medication, and nutrition risk factors for skin disorders.",
+   "hintStrategy": "Judge each client separately. Eliminate clients whose habits protect the skin."
   },
   {
    "id": "m21c-029",
@@ -1413,11 +1385,11 @@
    "focus": "Pharmacology",
    "stem": "A client has applied an over-the-counter hydrocortisone cream and then a friend's high-potency clobetasol cream to the face twice daily for 4 months to treat “redness.” Which findings should the nurse recognize as possible adverse effects of prolonged topical corticosteroid use? Select all that apply.",
    "options": [
-    "Thin, shiny skin with visible fine blood vessels",
-    "Small red papules and pustules around the mouth",
+    "Thin, shiny skin on the treated areas",
+    "Small, visible blood vessels under the skin",
     "Thickened, leathery plaques with exaggerated skin lines",
     "Yellow, greasy scales on the eyebrows",
-    "Lighter patches of skin in the treated areas",
+    "Easy bruising in the treated areas",
     "Hard, raised scar tissue extending past the original lesions"
    ],
    "answer": [
@@ -1426,16 +1398,16 @@
     4
    ],
    "optionRationales": [
-    "Correct. Atrophy and telangiectasia result from suppressed collagen synthesis in the dermis.",
-    "Correct. Perioral dermatitis and steroid-induced acne/rosacea are common with facial steroid use.",
-    "Incorrect. Lichenification comes from chronic scratching and rubbing, not from steroid use. Steroids thin the skin rather than thicken it.",
-    "Incorrect. Yellow, greasy scaling of the eyebrows and scalp is seborrheic dermatitis, a separate inflammatory condition. It is not caused by corticosteroid use.",
-    "Correct. Hypopigmentation can occur and is more noticeable in darker skin.",
-    "Incorrect. Keloids are overgrown scars after skin injury, not a steroid effect. Steroid injection is actually used to treat keloids."
+    "Correct. Long-term topical steroid use thins the skin.",
+    "Correct. As the skin thins, small blood vessels become visible.",
+    "Incorrect. Thickened, leathery skin comes from chronic scratching and rubbing. Steroids thin the skin rather than thicken it.",
+    "Incorrect. Greasy yellow scaling is a separate skin condition, not a steroid effect.",
+    "Correct. Thin skin with fragile vessels bruises easily.",
+    "Incorrect. Keloids are overgrown scars after skin injury, not a steroid effect."
    ],
-   "rationale": "High-potency topical corticosteroids should not be used on the face or skin folds except for short courses under supervision. Long-term use causes atrophy, telangiectasia, striae, purpura, hypopigmentation, perioral dermatitis, and steroid acne. Stopping suddenly after long use can cause a rebound flare, so the nurse refers the client to the provider for a supervised taper.",
-   "takeaway": "Steroids on the face for months: expect thin skin, visible vessels, perioral papules, bruising, and light patches.",
-   "hintContent": "Corticosteroids suppress inflammation and fibroblast activity. Think about what that does to the dermis over time.",
+   "rationale": "Prescription topical corticosteroids treat eczema, psoriasis, and dermatitis, but stronger products should not be used on the face, and long-term use can thin the skin. Thin skin shows visible vessels and bruises easily. The nurse teaches the client to stop using a friend's prescription and refers the client to the provider for a supervised plan.",
+   "takeaway": "Long-term topical steroids thin the skin: shiny skin, visible vessels, easy bruising.",
+   "hintContent": "Steroids reduce inflammation but also weaken the dermis over time. Think about what thin skin looks like.",
    "hintStrategy": "Judge each option separately. Exclude findings caused by a different process (chronic rubbing, abnormal scarring)."
   },
   {
@@ -1467,54 +1439,32 @@
    "hintStrategy": "Look for the statement that is true AND safe. Eliminate options with more is better thinking."
   },
   {
-   "id": "m21c-031",
-   "type": "order",
-   "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "stem": "A camp nurse finds an attached tick on the back of an 11-year-old camper's knee. Place the steps in the order the nurse should perform them.",
-   "options": [
-    "Perform hand hygiene and put on clean gloves",
-    "Grasp the tick with fine-tipped tweezers as close to the skin surface as possible",
-    "Pull upward with steady, even pressure without twisting or jerking",
-    "Clean the bite site and hands with rubbing alcohol or soap and water",
-    "Seal the tick in a bag and teach the parent to report a rash or fever in the next several weeks"
-   ],
-   "rationale": "CDC tick removal: protect the hands, grasp the tick close to the skin with fine-tipped tweezers, and pull upward with steady, even pressure so the mouthparts do not break off. Then clean the bite area and hands, dispose of the tick (sealed bag or container, or alcohol), and teach the family to watch for an expanding rash (erythema migrans), fever, or flu-like symptoms over the following weeks. Folk remedies such as petroleum jelly, nail polish, or heat are not used because they delay removal.",
-   "takeaway": "Tick: gloves → grasp close to skin → pull straight up → clean → dispose and teach rash/fever watch.",
-   "hintContent": "Recall why a tick should be removed promptly and in one piece, and which signs after a bite suggest a tick-borne infection.",
-   "hintStrategy": "Protect yourself first, then think about what must happen to remove the tick intact before cleaning, disposal, and teaching."
-  },
-  {
    "id": "m21c-032",
    "type": "mcq",
    "topic": "lifespan-skin",
    "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Infants and Children",
-   "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "cjmm": "Take Action",
+   "difficulty": 1,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
-   "stem": "A school nurse assesses an afebrile 7-year-old with bright red cheeks and a lacy, pink rash on the arms. The provider diagnoses erythema infectiosum (fifth disease). The child's teacher is 14 weeks pregnant. Which action should the nurse take?",
+   "stem": "A 7-year-old is brought to the school nurse with bright red cheeks that look like they were slapped and a lacy, pink rash on the arms. The child had a mild cold last week and is now afebrile and playful. Which condition should the nurse suspect?",
    "options": [
-    "Exclude the child from school until the facial and arm rash has faded",
-    "Advise the teacher to call her obstetric provider about the exposure",
-    "Tell the teacher that the child's current rash is highly contagious",
-    "Place the child in a separate room for the rest of the school day"
+    "Chickenpox",
+    "Fifth disease",
+    "Roseola",
+    "Pityriasis rosea"
    ],
    "answer": 1,
    "optionRationales": [
-    "Children with fifth disease are no longer contagious once the rash appears, so exclusion is not needed.",
-    "Correct. Parvovirus B19 infection during pregnancy can cause fetal anemia and hydrops fetalis. The teacher should contact her provider for possible antibody testing and monitoring.",
-    "Transmission occurs mainly during the nonspecific prodrome, before the rash. Once the rash appears, contagiousness is low.",
-    "Isolation after the rash appears does not reduce transmission, because the viral shedding period is over."
+    "Chickenpox causes itchy vesicles in crops, with lesions in different stages, not a slapped-cheek rash.",
+    "Correct. Fifth disease typically begins with mild cold symptoms, followed by a bright red “slapped cheek” rash and then a lacy rash on the arms and legs.",
+    "Roseola causes several days of high fever followed by a rash that appears as the fever breaks, usually in infants and toddlers.",
+    "Pityriasis rosea starts with a single larger oval “herald patch” and then smaller oval patches on the trunk."
    ],
-   "rationale": "Fifth disease (parvovirus B19) spreads by respiratory droplets mostly before the slapped-cheek rash appears. By the time it is diagnosed, the child is usually not contagious and can stay in school. The priority is the high-risk contact. Pregnant people, clients with sickle cell disease or other hemolytic anemias, and immunocompromised clients can have serious complications and need to be referred for evaluation.",
-   "takeaway": "Fifth disease: contagious before the rash, not after. Protect pregnant contacts and those with sickle cell disease.",
-   "hintContent": "Recall when parvovirus B19 is contagious in relation to the rash, and which groups face serious complications.",
-   "hintStrategy": "Consider who in the scenario is at the highest risk of harm, not only the child with the rash."
+   "rationale": "Fifth disease, roseola, and pityriasis rosea are childhood skin conditions listed with lifespan considerations. Fifth disease is recognized by its bright red “slapped cheek” rash followed by a lacy rash on the limbs. The nurse notifies the parent and refers the child to the provider for confirmation.",
+   "takeaway": "Slapped cheeks + lacy rash on the limbs = fifth disease.",
+   "hintContent": "Recall the distinctive appearance of each childhood rash condition.",
+   "hintStrategy": "Match the most distinctive cue in the stem (the cheeks) to the condition known for it."
   },
   {
    "id": "m21c-033",
@@ -1525,41 +1475,41 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "stem": "A 7-month-old recently finished a 10-day course of amoxicillin for otitis media. The nurse notes a beefy red rash in the inguinal folds, with separate small red papules and pustules scattered outside the main border. Complete the following sentence by choosing from the lists of options.",
-   "template": "The infant's rash is most consistent with {0}, as evidenced by {1}. The nurse anticipates a prescription for {2}.",
+   "stem": "A 7-month-old has had frequent loose stools for 2 days. The nurse notes red, shiny, irritated skin on the buttocks and genitals where the diaper touches the skin, with the deep skin folds spared. Complete the following sentence by choosing from the lists of options.",
+   "template": "The infant's rash is most consistent with {0}, as evidenced by {1}. The nurse should teach the parent to {2}.",
    "blanks": [
     {
      "options": [
-      "candidal diaper dermatitis",
       "irritant diaper dermatitis",
+      "allergic contact dermatitis",
       "impetigo",
-      "atopic dermatitis"
+      "chickenpox"
      ],
      "answer": 0
     },
     {
      "options": [
-      "satellite lesions and skin fold involvement",
-      "sparing of the skin folds",
+      "redness limited to skin exposed to stool and urine",
       "honey-colored crusts",
-      "dry patches on the cheeks"
+      "vesicles in different stages",
+      "a rash shaped like a metal snap"
      ],
      "answer": 0
     },
     {
      "options": [
-      "topical nystatin",
-      "topical mupirocin",
-      "oral cephalexin",
-      "topical hydrocortisone alone"
+      "change diapers often and keep the skin clean and dry",
+      "scrub the area with antibacterial soap at each change",
+      "cover the area with plastic pants to hold in moisture",
+      "leave soiled diapers on longer so the skin can rest"
      ],
      "answer": 0
     }
    ],
-   "rationale": "Candida overgrowth is common after antibiotics. It causes a beefy red rash that involves the skin folds, with satellite papules and pustules. Irritant diaper dermatitis usually spares the folds because they are protected from urine and stool. Treatment is a topical antifungal such as nystatin, plus frequent diaper changes and keeping the area dry.",
-   "takeaway": "Diaper rash in the folds + satellite lesions after antibiotics = Candida. Treat with an antifungal.",
-   "hintContent": "Recall how antibiotics change normal flora and which diaper rash involves, rather than spares, the creases.",
-   "hintStrategy": "Use the recent medication history as a clue. Then choose the evidence and treatment that match your first answer."
+   "rationale": "Infants have the strongest irritant response. Irritant contact dermatitis is non-immune damage from chemicals, and in the diaper area, stool and urine are the irritants. The rash is limited to exposed skin. Prevention and care are proper diaper care with frequent changes and keeping the skin clean and dry, without harsh cleansing.",
+   "takeaway": "Diaper rash from stool and urine = irritant dermatitis. Change often, keep clean and dry.",
+   "hintContent": "Recall which age group has the strongest irritant response and what irritates diapered skin.",
+   "hintStrategy": "Pick the condition first, then choose evidence and teaching that match it."
   },
   {
    "id": "m21c-034",
@@ -1570,23 +1520,23 @@
    "clientNeed": "Psychosocial Integrity",
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
-   "stem": "A 16-year-old with dark brown skin has healing acne and dark spots where the pimples were. The teen says, “I hate how I look. I bought a skin-lightening cream online from overseas, and I use it twice a day.” The label lists mercury as an ingredient. Which response by the nurse is best?",
+   "stem": "A 16-year-old with dark brown skin has healing acne with dark spots where the pimples were. The teen says, “I hate how I look. I bought a strong skin-bleaching cream online, and I use it twice a day.” Which response by the nurse is best?",
    "options": [
-    "“Those dark spots are permanent, so the cream is the only thing that may help.”",
-    "“Apply the cream only at night so it is less likely to irritate your skin.”",
-    "“That cream may contain mercury. Let's stop it and ask your provider about safer options.”",
+    "“Those dark spots are permanent, so the bleaching cream is the only thing that may help.”",
+    "“Apply the cream only at night and in a thinner layer so it is less likely to irritate your skin.”",
+    "“That sounds hard. Bleaching creams can irritate skin. Let's ask your provider about safer options.”",
     "“Try covering the spots with makeup instead, since acne is a normal part of being a teenager.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Post-inflammatory hyperpigmentation usually fades over months with sun protection and acne control. This response is inaccurate and discourages the teen.",
-    "Changing the timing does not remove the risk of mercury toxicity.",
-    "Correct. Unregulated lightening creams may contain mercury or high-dose steroids that can cause toxicity, irritation, and worse pigmentation. The nurse protects the teen's safety, acknowledges the distress, and refers for evidence-based treatment.",
+    "Discoloration after lesions heal often fades over time with acne control and sun protection. This response is inaccurate and discourages the teen.",
+    "Changing the timing does not remove the risk of irritation or interactions from an unregulated product.",
+    "Correct. The nurse acknowledges the teen's feelings, explains the risks of bleaching creams, and refers for safe, effective treatment.",
     "This dismisses the teen's concern about body image and does not address the unsafe product."
    ],
-   "rationale": "Darker skin is prone to post-inflammatory hyperpigmentation after acne. Skin changes deeply affect adolescent self-image, and some bleaching products can irritate the skin or contain toxic ingredients such as mercury. The nurse addresses safety first, acknowledges the teen's feelings, and supports safe options: controlling the acne, daily sunscreen, and provider-prescribed agents.",
+   "rationale": "Darker skin may show discoloration after lesions heal, and darker skin is more prone to inflammation. Adolescents often have acne, and skin changes deeply affect self-image. Some treatments, such as makeup and bleaching creams, can irritate the skin or interact with medications. The nurse addresses safety, acknowledges the teen's feelings, and supports safe options.",
    "takeaway": "Dark marks after acne are common in darker skin. Stop unsafe bleaching creams and offer safe, respectful options.",
-   "hintContent": "Recall skin concerns specific to darker skin tones and the risks of unregulated skin-lightening products.",
+   "hintContent": "Recall the skin concerns specific to darker skin tones and the risks of bleaching creams.",
    "hintStrategy": "The best response addresses the safety issue AND the teen's feelings without false information or dismissal."
   },
   {

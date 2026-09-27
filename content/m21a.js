@@ -1,1837 +1,1952 @@
 window.NURSE_DATA = window.NURSE_DATA || [];
 window.NURSE_DATA.push({
-  "moduleId": "m21",
-  "moduleNumber": 21,
-  "moduleTitle": "Tissue Integrity",
-  "tagline": "The skin is the body's first line of defense, and the nurse is often the first to see it fail.",
-  "overview": "Tissue integrity means intact skin, mucous membranes, cornea, and subcutaneous tissue that can protect, sense, regulate temperature, and repair itself. This concept covers normal skin structure and function, how to assess skin across all skin tones, common infectious, inflammatory, and neoplastic disorders, how wounds are classified, and the nursing, nutritional, and pharmacologic care that keeps skin healthy across the lifespan.",
-  "topics": [
+ "moduleId": "m21",
+ "moduleNumber": 21,
+ "moduleTitle": "Tissue Integrity",
+ "tagline": "The skin is the body's first line of defense, and the nurse is often the first to see it fail.",
+ "overview": "Tissue integrity means intact skin, mucous membranes, cornea, and subcutaneous tissue that can protect, sense, regulate temperature, and repair itself. This concept covers normal skin structure and function, how to assess skin across all skin tones, infectious, inflammatory, and neoplastic skin disorders, how wounds are classified and cared for in acute settings, the labs and nutrition that affect healing, nursing, collaborative, and pharmacologic therapies, and skin changes across the lifespan.",
+ "topics": [
+  {
+   "id": "skin-structure-function",
+   "title": "Skin Structure & Function",
+   "exemplar": null,
+   "summary": "The skin is the largest organ in the body. Its three layers work together to protect, sense, regulate temperature, remove wastes, and make vitamin D.",
+   "sections": [
     {
-      "id": "skin-structure-function",
-      "title": "Skin Structure & Function",
-      "exemplar": null,
-      "summary": "The skin is the largest organ in the body. Its three layers work together to protect, sense, regulate temperature, and make vitamin D.",
-      "sections": [
-        {
-          "heading": "The integumentary system",
-          "body": "The integumentary system includes the skin, hair, nails, and glands (sweat and sebaceous). <strong>Tissue integrity</strong> is broader than skin alone. It means intact skin, mucous membranes, cornea, and subcutaneous tissue. <strong>Impaired tissue integrity</strong> is damage to the epidermis and/or dermis, and it may extend deeper. Internal factors (genetics, age, overall health) and external factors (activity, environment, injury) both affect it."
-        },
-        {
-          "heading": "Layers of the skin",
-          "bullets": [
-            "<strong>Epidermis</strong> (outer, avascular). It is the barrier layer. <strong>Keratinocytes</strong> make keratin, which makes skin tough and water-resistant. <strong>Melanocytes</strong> make melanin, which absorbs UV radiation. The epidermis renews itself about every 4 weeks, and the stratum corneum is shed continuously.",
-            "<strong>Dermis</strong> (middle, the “working layer”). It contains collagen and elastin for strength and stretch, plus blood vessels, lymphatics, nerve endings, hair follicles, and sweat and sebaceous glands. The dermis feeds the avascular epidermis.",
-            "<strong>Subcutaneous tissue / hypodermis</strong> (innermost). Technically it is not skin. It is adipose and connective tissue that stores about half of the body's fat, insulates, cushions bony prominences, stores energy, and anchors the skin to muscle and bone."
-          ]
-        },
-        {
-          "heading": "Functions of the skin",
-          "bullets": [
-            "<strong>Protection</strong>. It is a physical and chemical barrier against microorganisms, chemicals, trauma, and UV light. The skin's acid mantle (pH about 4.5 to 5.5) discourages bacterial growth.",
-            "<strong>Sensation</strong>. Receptors detect touch, pain, pressure, and temperature.",
-            "<strong>Thermoregulation</strong>. Blood vessels dilate to release heat and constrict to conserve it. Sweat glands cool the body by evaporation.",
-            "<strong>Excretion</strong>. Sweat removes water, salts, and small amounts of urea and other wastes.",
-            "<strong>Vitamin D synthesis</strong>. UVB light converts 7-dehydrocholesterol in the skin into a vitamin D precursor, which supports calcium absorption.",
-            "<strong>Fluid balance and immunity</strong>. The skin prevents excessive water loss, and Langerhans cells present antigens."
-          ]
-        },
-        {
-          "heading": "Lifespan snapshot",
-          "body": "Infants have thin skin, a large body surface area relative to weight, and immature sweat glands. This means greater heat and fluid loss and greater absorption of topical agents. Adult skin is thicker and well hydrated. Older adults have thinner, less elastic, drier skin with less subcutaneous fat and slower healing."
-        }
-      ],
-      "table": {
-        "caption": "Skin layers at a glance",
-        "headers": [
-          "Layer",
-          "Key structures",
-          "Clinical relevance"
-        ],
-        "rows": [
-          [
-            "Epidermis",
-            "Keratinocytes, melanocytes, Langerhans cells; no blood vessels",
-            "Loss of epidermis alone (abrasion, blister) heals by regeneration without a scar"
-          ],
-          [
-            "Dermis",
-            "Collagen, elastin, vessels, nerves, glands, follicles",
-            "Damage here causes pain and bleeding; deeper dermal loss heals with scar tissue"
-          ],
-          [
-            "Subcutaneous",
-            "Adipose, connective tissue",
-            "Insulation and cushioning; loss in older adults ↑ hypothermia and pressure risk"
-          ]
-        ]
-      },
-      "pearls": [
-        "Any break in the skin means two immediate problems: infection risk and fluid/heat loss. Large skin loss, such as burns, makes both life-threatening.",
-        "The epidermis has no blood vessels. A wound that bleeds has reached at least the dermis.",
-        "Older adults and clients on long-term corticosteroids have thin dermis. Tape removal alone can cause skin tears."
-      ],
-      "redFlags": [
-        "Loss of skin over a large body surface area. Watch for hypovolemia, hypothermia, and sepsis."
-      ]
+     "heading": "The integumentary system",
+     "body": "The integumentary system includes the skin, hair, nails, and glands. The skin is the <strong>largest organ</strong>, and it protects and maintains health. <strong>Tissue integrity</strong> is broader than skin alone: it means intact skin, mucous membranes, cornea, and subcutaneous tissue. <strong>Impaired tissue integrity</strong> is damage to the epidermis and/or dermis. It is influenced by <strong>internal</strong> factors (genetics, age, overall health) and <strong>external</strong> factors (activity, environment, injury). At-risk groups include <strong>older adults</strong>, clients with <strong>limited mobility</strong>, <strong>chronic illness</strong>, <strong>trauma</strong>, and <strong>invasive procedures</strong>."
     },
     {
-      "id": "skin-assessment-lesions",
-      "title": "Skin Assessment & Lesions",
-      "exemplar": null,
-      "summary": "Accurate skin assessment across all skin tones depends on knowing where to look, how to palpate, and the right name for what you see.",
-      "sections": [
-        {
-          "heading": "General skin assessment",
-          "body": "Inspect in good natural (or non-glare) light and compare both sides. Assess <strong>color, temperature, moisture, texture, turgor, edema, and lesions</strong>. Check hair and nails too (clubbing, capillary refill, fungal changes). In older adults, test turgor over the sternum or clavicle, not the back of the hand, because loss of elasticity makes hand tenting unreliable. Ask about itching, recent changes, sun exposure, new products, medications, and home remedies."
-        },
-        {
-          "heading": "Assessing darker skin tones",
-          "body": "Melanin can hide color changes, so rely more on sites with little pigment and on <strong>palpation</strong>.",
-          "bullets": [
-            "<strong>Pallor</strong> looks yellow-brown in brown skin and ashen gray in black skin. Check conjunctivae, oral mucosa, and nail beds.",
-            "<strong>Cyanosis</strong>: inspect nail beds, lips, oral (buccal) mucosa, and conjunctivae. Lips and mucosa may look ashen or gray.",
-            "<strong>Jaundice</strong>: look at the sclera (away from the normal pigmented edges), the hard palate, and the palms and soles, not just the skin.",
-            "<strong>Erythema / inflammation / early pressure injury</strong> may look darker (purple, maroon, or deeper brown), taut, shiny, or indurated. Palpate for <strong>warmth, edema, induration, or bogginess</strong> and compare with the surrounding skin. Lightly moistening the skin can make changes easier to see.",
-            "<strong>Petechiae</strong> are easier to see in the oral mucosa and conjunctivae.",
-            "Post-inflammatory hyperpigmentation is common after lesions heal. Melasma, keloids, pseudofolliculitis barbae, and dermatosis papulosa nigra are more common in darker skin."
-          ]
-        },
-        {
-          "heading": "Classifying skin disorders",
-          "body": "Skin disorders are hard to classify because symptoms such as itching, redness, and inflammation overlap. Two common systems are <strong>acute vs chronic</strong> and <strong>by type</strong>. Acute disorders are short-term with situational causes, such as bacterial infection or dermatitis, and are treated by reducing inflammation and avoiding triggers. Chronic disorders are long-term or lifelong, such as psoriasis or genetic conditions, and treatment aims for <em>remission, not cure</em>. The types are <strong>infectious, inflammatory, and neoplastic</strong>. The skin can also reflect systemic disease. For example, dry coarse skin with hair loss suggests hypothyroidism, jaundice suggests liver disease, and a butterfly rash suggests lupus."
-        },
-        {
-          "heading": "Screening",
-          "body": "Teach monthly <strong>skin self-examination</strong> with mirrors in good light. Cover sun-exposed areas (face, ears, neck, scalp, arms, legs) and also the trunk, back, palms, soles, between the toes, and under the nails. Professional full-body exams may include biopsy, cultures, or patch testing."
-        }
-      ],
-      "table": {
-        "caption": "Primary lesions (arise from previously normal skin) and secondary lesions (evolve from primary lesions or trauma)",
-        "headers": [
-          "Lesion",
-          "Description",
-          "Example"
-        ],
-        "rows": [
-          [
-            "Macule / Patch (primary)",
-            "Flat, non-palpable color change; macule <1 cm, patch >1 cm",
-            "Freckle, petechiae / vitiligo"
-          ],
-          [
-            "Papule / Plaque (primary)",
-            "Elevated, solid; papule <1 cm, plaque >1 cm (often a flat-topped cluster)",
-            "Wart, mole / psoriasis"
-          ],
-          [
-            "Nodule / Tumor (primary)",
-            "Elevated, firm, deeper; nodule 1–2 cm, tumor >2 cm",
-            "Lipoma / neoplasm"
-          ],
-          [
-            "Vesicle / Bulla (primary)",
-            "Clear-fluid-filled; vesicle <1 cm, bulla >1 cm",
-            "Varicella, herpes / 2nd-degree burn blister"
-          ],
-          [
-            "Pustule (primary)",
-            "Pus-filled vesicle or bulla",
-            "Acne, impetigo"
-          ],
-          [
-            "Wheal (primary)",
-            "Transient, irregular, edematous raised area",
-            "Hive (urticaria), insect bite, positive PPD"
-          ],
-          [
-            "Crust (secondary)",
-            "Dried serum, blood, or pus",
-            "Impetigo (honey-colored)"
-          ],
-          [
-            "Scale (secondary)",
-            "Flakes of dead keratinized epidermis",
-            "Psoriasis, dandruff"
-          ],
-          [
-            "Fissure / Erosion / Ulcer (secondary)",
-            "Linear crack into dermis / loss of epidermis only (moist, no scar) / loss into dermis or deeper (may scar)",
-            "Athlete's foot / ruptured vesicle / stasis ulcer"
-          ],
-          [
-            "Scar / Keloid (secondary)",
-            "Fibrous tissue replacing dermis / hypertrophied scar extending beyond wound borders",
-            "Healed incision / ear piercing in darker skin"
-          ]
-        ]
-      },
-      "pearls": [
-        "Memorize the 1 cm cut-off for flat, raised, and fluid lesions: macule→patch, papule→plaque, vesicle→bulla. Nodule vs tumor is 2 cm.",
-        "In darker skin, you often can't “see” redness. Palpate for warmth, induration, and pain, and compare with adjacent skin.",
-        "Check the conjunctivae, oral mucosa, nail beds, palms, and soles when looking for pallor, cyanosis, or jaundice in clients with dark skin.",
-        "Document lesions by type, size (cm), color, shape, distribution, and drainage. “Rash on arm” is not an assessment."
-      ],
-      "redFlags": [
-        "Ashen gray lips and oral mucosa with tachycardia or hypotension point to hypoxemia or shock. Act, don't just document.",
-        "A new, changing, bleeding, or non-healing lesion needs provider referral."
-      ]
+     "heading": "Layers of the skin",
+     "bullets": [
+      "<strong>Epidermis</strong> (outer layer). It is the barrier layer and has no blood vessels. <strong>Keratin</strong> makes it durable and water-resistant, and <strong>melanin</strong> protects against UV damage.",
+      "<strong>Dermis</strong> (middle layer, the “working layer”). It holds the blood vessels and nerve endings that support sensation, plus the sweat and oil (sebaceous) glands and hair follicles.",
+      "<strong>Subcutaneous tissue / hypodermis</strong> (innermost). Technically it is not skin, but it is vital for protection. It stores about <strong>half of the body's fat cells</strong>, insulates and cushions, and anchors the skin to underlying structures."
+     ]
     },
     {
-      "id": "infectious-skin-disorders",
-      "title": "Infectious Skin Disorders",
-      "exemplar": null,
-      "summary": "Bacteria, viruses, fungi, and parasites cause most skin infections. The nurse's job is to recognize them, contain their spread, and teach.",
-      "sections": [
-        {
-          "heading": "Bacterial",
-          "bullets": [
-            "<strong>Impetigo</strong> (Staphylococcus aureus or group A Streptococcus). Vesicles/pustules rupture into <strong>honey-colored crusts</strong>, usually around the nose and mouth in children. It is very contagious. Use contact precautions. Gently soak and wash crusts off with soap and water, then apply topical mupirocin or give oral antibiotics for widespread disease. Cut the child's nails, use separate towels, and keep the child out of school or daycare until 24 hours after antibiotics start. Strep impetigo can lead to post-streptococcal glomerulonephritis, so watch for dark (cola-colored) urine and edema.",
-            "<strong>Cellulitis</strong> is a deeper dermal and subcutaneous infection: a spreading, warm, red, tender, edematous area, often on the lower leg, sometimes with fever. <strong>Outline the border</strong> with a skin marker and note date and time to track spread. Elevate and immobilize the limb, give antibiotics, and monitor temperature and WBC. Report rapid spread, crepitus, pain out of proportion to findings, or bullae, which may mean necrotizing fasciitis.",
-            "<strong>Folliculitis / furuncles / carbuncles</strong> are infected hair follicles. MRSA is a common cause. Don't squeeze them. Warm compresses help, and larger lesions may need incision and drainage."
-          ]
-        },
-        {
-          "heading": "Viral",
-          "bullets": [
-            "<strong>Varicella (chickenpox)</strong>. A crop of macules → papules → vesicles → crusts, with lesions in all stages at once. The virus spreads through the air and by contact, so use <strong>airborne + contact precautions until all lesions are crusted</strong>. Treat itching (oatmeal baths, trimmed nails) and <strong>avoid aspirin</strong> because of the risk of Reye syndrome. The vaccine is live.",
-            "<strong>Herpes zoster (shingles)</strong> is varicella reactivation. It causes a painful unilateral dermatomal vesicular rash. <em>Localized zoster in an immunocompetent client</em>: standard precautions and cover the lesions. <em>Disseminated zoster, or any zoster in an immunocompromised client</em>: airborne + contact precautions (negative-pressure room) until crusted, or until dissemination is ruled out. Antivirals work best within 72 hours. Recombinant zoster vaccine (Shingrix, 2 doses) is recommended for adults ≥50 years. Postherpetic neuralgia is the major complication.",
-            "<strong>Herpes simplex</strong> (cold sores, genital herpes): grouped vesicles on a red base. Diagnose with PCR or Tzanck smear.",
-            "<strong>Warts (HPV)</strong> are common in children and adolescents. Some HPV types raise cancer risk (cervical, anal, oropharyngeal), so encourage HPV vaccination."
-          ]
-        },
-        {
-          "heading": "Fungal",
-          "body": "Dermatophytes (tinea) cause ring-shaped scaly patches with central clearing. <strong>Tinea pedis</strong> (athlete's foot), <strong>corporis</strong> (ringworm), <strong>cruris</strong> (jock itch), and <strong>capitis</strong> (scalp) are the common forms. Tinea capitis needs <em>oral</em> antifungals (griseofulvin or terbinafine for weeks), because topical agents don't reach the hair follicle. Candida thrives in warm, moist skin folds, especially in obesity, diabetes, and antibiotic use. Diagnose with a <strong>KOH prep</strong>. Teach the client to dry skin folds and between the toes thoroughly, wear cotton socks and shower shoes, and not share combs or hats. Fungal infections are more dangerous in immunocompromised clients."
-        },
-        {
-          "heading": "Parasitic",
-          "bullets": [
-            "<strong>Pediculosis (lice)</strong>: nits cemented to hair shafts near the scalp, with itching. Use permethrin 1% or another pediculicide per label. Don't use conditioner or combination shampoo-conditioner before treatment. Comb out nits with a fine-tooth nit comb. Wash bedding, clothing, and hats in hot water (≥130°F / 54°C) and dry on high heat, or seal non-washables in a plastic bag for 2 weeks. Soak combs and brushes in hot water. Don't share hats or combs. Fumigant sprays are not recommended. The AAP advises that children can return to school after treatment, so “no-nit” policies are discouraged.",
-            "<strong>Scabies</strong> (Sarcoptes scabiei mite): intense itching that is <strong>worse at night</strong>, and linear burrows in the finger webs, wrists, waistline, and genitals. Apply permethrin 5% to clean, cool, dry skin from the <strong>neck to the soles</strong>, including between the fingers and toes and under the nails. Leave it on 8–14 hours, wash it off, and repeat in about 1 week. <strong>Treat all household and close contacts at the same time.</strong> Wash bedding and clothing from the previous 3 days in hot water, or bag them for at least 72 hours. Itching may continue for 2–4 weeks after successful treatment. Crusted (Norwegian) scabies in debilitated clients is highly contagious and needs contact precautions."
-          ]
-        }
-      ],
-      "pearls": [
-        "Varicella and disseminated zoster: airborne + contact until ALL lesions are crusted. Healthcare workers who are not immune and pregnant staff should not be assigned to these clients.",
-        "Mark the cellulitis border with a pen at first assessment. Spread beyond the line is objective evidence that therapy is failing.",
-        "Scabies = treat everyone in the household at once. Lice = treat only those who are infested, and check everyone.",
-        "Children with chickenpox should never get aspirin (Reye syndrome). Use acetaminophen for fever."
-      ],
-      "redFlags": [
-        "Cellulitis with rapid spread, severe pain, crepitus, bullae, or signs of sepsis (possible necrotizing fasciitis)",
-        "Zoster involving the tip of the nose or the eye (ophthalmic branch). It threatens vision, so refer urgently.",
-        "Dark urine, periorbital edema, or hypertension 1–3 weeks after strep impetigo (glomerulonephritis)"
-      ]
+     "heading": "Functions of the skin",
+     "bullets": [
+      "<strong>Protection</strong> against microorganisms and trauma. Intact skin also keeps body fluids in.",
+      "<strong>Sensation</strong>: touch, pain, pressure, and temperature.",
+      "<strong>Temperature regulation</strong>: blood vessels dilate to release heat and constrict to conserve it, and sweat glands cool the body by evaporation.",
+      "<strong>Removal of toxins</strong> through sweat.",
+      "<strong>Vitamin D synthesis</strong> from UV light. Less sun exposure, more melanin, and older age all reduce it."
+     ]
     },
     {
-      "id": "inflammatory-skin-disorders",
-      "title": "Inflammatory Disorders & Allergy",
-      "exemplar": null,
-      "summary": "Dermatitis, eczema, psoriasis, and acne are chronic, itchy, visible conditions. They affect comfort, sleep, and self-image.",
-      "sections": [
-        {
-          "heading": "Contact dermatitis",
-          "bullets": [
-            "<strong>Irritant contact dermatitis</strong> is the most common type. It is direct, <em>non-immune</em> chemical damage from soaps, detergents, solvents, frequent hand washing, or urine and stool (diaper dermatitis). Redness, dryness, cracking, and burning are limited to the exposed area. It can happen on first exposure, and <strong>infants</strong> have the strongest irritant response.",
-            "<strong>Allergic contact dermatitis</strong> is a <em>type IV (delayed, T-cell) hypersensitivity</em> that needs prior sensitization. The rash appears 24–72 hours after re-exposure, <strong>exactly in the shape of the contact</strong> (a watchband, a jeans snap from nickel, linear streaks from poison ivy), with itching, vesicles, and wheals. Adults have most allergic cases, and older adults react more slowly and less intensely. Diagnose with <strong>patch testing</strong>.",
-            "Treatment: identify and avoid the trigger, use cool compresses, emollients, topical corticosteroids, and oral antihistamines for itching, and give systemic steroids for severe or widespread poison ivy."
-          ]
-        },
-        {
-          "heading": "Latex allergy",
-          "body": "Healthcare workers, clients with spina bifida, and anyone who has had many surgeries or catheterizations are at risk. Reactions range from irritant dermatitis to type IV contact dermatitis to <strong>type I IgE-mediated anaphylaxis</strong>. <strong>Latex-fruit syndrome</strong> is cross-reactivity with <strong>banana, avocado, kiwi, and chestnut</strong>, so ask about these foods. Management: latex-free environment and supplies (gloves, catheters, BP cuffs, tourniquets), allergy band and signage, schedule surgery as the first case of the day when possible, and a medical-alert ID and epinephrine auto-injector if the client has had a systemic reaction."
-        },
-        {
-          "heading": "Atopic dermatitis (eczema)",
-          "body": "A chronic, relapsing, intensely itchy inflammation caused by a defective skin barrier. It is part of the <em>atopic triad</em> (eczema, allergic rhinitis, asthma). Infants get it on the cheeks, scalp, and extensor surfaces. Older children and adults get it in the flexural creases (antecubital, popliteal). In darker skin it may look violaceous or gray-brown rather than red, and follicular papules are common. Care: short lukewarm baths, mild fragrance-free cleanser, <strong>pat dry and apply a thick emollient within 3 minutes</strong> (“soak and seal”), cotton clothing, short nails, avoid triggers (wool, fragrance, heat, stress), and topical steroids or calcineurin inhibitors for flares. Scratching invites secondary infection with staph or herpes (eczema herpeticum)."
-        },
-        {
-          "heading": "Psoriasis",
-          "body": "A chronic, immune-mediated disorder in which the epidermis turns over far too fast (days instead of about a month). It forms well-demarcated <strong>erythematous plaques with silvery-white scale</strong> on the elbows, knees, scalp, and lower back, sometimes with nail pitting. In darker skin, plaques may look violet or dark brown with gray scale. It is associated with psoriatic arthritis, cardiovascular disease, and depression. Trauma to skin can trigger new plaques (Koebner phenomenon). Triggers include stress, infection (strep), injury, cold dry weather, alcohol, smoking, and some drugs (beta blockers, lithium). Treatment includes topical corticosteroids, vitamin D analogs (calcipotriene), coal tar, phototherapy (UVB), methotrexate, and biologics. <strong>Screen for TB and infection before starting biologics</strong>, and give no live vaccines while on them."
-        },
-        {
-          "heading": "Acne vulgaris",
-          "body": "Puberty hormones (androgens) increase sebum. Clogged follicles plus Cutibacterium acnes lead to comedones, papules, pustules, and cysts. It affects about 85% of people aged 12–24. Teach: wash gently twice daily, don't pick or squeeze, use non-comedogenic products, and expect topical treatments to take 6–8 weeks. Darker skin is prone to post-inflammatory hyperpigmentation and keloid scarring, so treat early."
-        }
-      ],
-      "table": {
-        "caption": "Irritant vs allergic contact dermatitis",
-        "headers": [
-          "Feature",
-          "Irritant",
-          "Allergic"
-        ],
-        "rows": [
-          [
-            "Mechanism",
-            "Direct chemical damage, not immune",
-            "Type IV delayed hypersensitivity (T-cell)"
-          ],
-          [
-            "Exposure needed",
-            "Can occur on first exposure",
-            "Requires prior sensitization"
-          ],
-          [
-            "Onset",
-            "Minutes to hours",
-            "24–72 hours after re-exposure"
-          ],
-          [
-            "Pattern",
-            "Diffuse at exposed area; dry, cracked, burning",
-            "Sharply outlines the allergen shape; itchy vesicles/wheals"
-          ],
-          [
-            "Examples",
-            "Soaps, detergents, diaper dermatitis",
-            "Nickel, poison ivy, latex, fragrance, dyes"
-          ],
-          [
-            "Test",
-            "Clinical history",
-            "Patch test"
-          ]
-        ]
-      },
-      "pearls": [
-        "A rash that exactly matches the shape of a watch, ring, or jeans button suggests allergic contact dermatitis (nickel).",
-        "Latex allergy: always ask about banana, avocado, kiwi, and chestnut reactions.",
-        "Eczema: “soak and seal.” Take lukewarm baths and apply emollient within 3 minutes of patting dry.",
-        "Before any biologic for psoriasis or eczema: TB screen, check vaccine status, no live vaccines."
-      ],
-      "redFlags": [
-        "Wheezing, stridor, hypotension, or generalized urticaria after latex exposure means anaphylaxis. Give epinephrine IM.",
-        "Punched-out vesicles or erosions with fever in a child with eczema (eczema herpeticum). This is an emergency."
-      ]
-    },
-    {
-      "id": "skin-cancer-sun-protection",
-      "title": "Skin Cancer & Sun Protection",
-      "exemplar": null,
-      "summary": "Skin cancer is the most common cancer in the U.S. Most of it is preventable, and it is highly curable when caught early.",
-      "sections": [
-        {
-          "heading": "Types of skin cancer",
-          "bullets": [
-            "<strong>Basal cell carcinoma (BCC)</strong> is the most common type. It is a pearly or waxy papule with rolled borders and telangiectasia, sometimes with a central ulcer, on sun-exposed skin. It grows slowly and <em>rarely metastasizes</em> but is locally destructive.",
-            "<strong>Squamous cell carcinoma (SCC)</strong> is a rough, scaly, crusted or ulcerated nodule. <strong>Actinic keratosis</strong> is the precancerous lesion. SCC <em>can metastasize</em>, especially on the lips, ears, or in chronic wounds and scars.",
-            "<strong>Malignant melanoma</strong> is the most serious and deadly type. It arises from melanocytes, metastasizes early, and can appear anywhere. Risk factors: fair skin, blistering sunburns (especially in childhood), tanning beds, many or atypical moles, family history, and immunosuppression. In people with darker skin, <strong>acral lentiginous melanoma</strong> appears on the <strong>palms, soles, and nail beds</strong> (a dark streak under the nail), and it is often diagnosed late."
-          ]
-        },
-        {
-          "heading": "ABCDE warning signs of melanoma",
-          "bullets": [
-            "<strong>A</strong>symmetry: one half doesn't match the other",
-            "<strong>B</strong>order: irregular, notched, or blurred",
-            "<strong>C</strong>olor: varied shades of brown, black, red, white, or blue",
-            "<strong>D</strong>iameter: >6 mm (about a pencil eraser), though melanomas can be smaller",
-            "<strong>E</strong>volving: any change in size, shape, color, or elevation, or new bleeding, itching, or crusting",
-            "Also: the “ugly duckling” sign, a mole that looks different from the client's other moles"
-          ]
-        },
-        {
-          "heading": "Sun protection teaching",
-          "bullets": [
-            "Use a <strong>broad-spectrum (UVA + UVB), water-resistant sunscreen with SPF ≥30</strong> every day, including on cloudy days. SPF 30 blocks about 97% of UVB.",
-            "Apply about 1 oz (a shot glass) for the whole body 15 minutes before going out. <strong>Reapply every 2 hours</strong>, and right after swimming or sweating (“water resistant” lasts 40 or 80 minutes).",
-            "Seek shade from <strong>10 a.m. to 4 p.m.</strong>. Wear a wide-brimmed hat, UV-blocking sunglasses, and protective clothing (UPF).",
-            "Avoid tanning beds. There is no such thing as a “safe base tan.”",
-            "Infants <6 months: keep out of direct sun and use shade and clothing. Sunscreen can be applied to small exposed areas if shade isn't available.",
-            "Photosensitizing drugs increase burn risk: tetracyclines (doxycycline), sulfonamides, fluoroquinolones, thiazides, isotretinoin, amiodarone, some chemotherapy.",
-            "Clients of <em>all</em> skin tones need sun protection. Darker skin burns less easily but still gets skin cancer and melasma."
-          ]
-        }
-      ],
-      "pearls": [
-        "Melanoma is the most serious, and BCC is the most common. SCC is in between (can metastasize; actinic keratosis is the precursor).",
-        "In darker skin, teach inspection of the palms, soles, and nail beds. A new dark streak in a nail needs evaluation.",
-        "Benign lesions to recognize: seborrheic keratosis (“stuck-on,” waxy, older adults), cherry angiomas, and skin tags. These don't need urgent referral unless they change."
-      ],
-      "redFlags": [
-        "Any mole that is changing (evolving) or bleeding, or that meets ABCDE criteria. Refer for biopsy.",
-        "A non-healing sore or ulcer in a scar or chronic wound (possible SCC)."
-      ]
-    },
-    {
-      "id": "wound-types-classification",
-      "title": "Wound Types & Classification",
-      "exemplar": null,
-      "summary": "Classifying a wound by cause, skin integrity, contamination, and depth predicts infection risk and shapes the plan.",
-      "sections": [
-        {
-          "heading": "By cause and skin integrity",
-          "bullets": [
-            "<strong>Intentional</strong> wounds are made for therapy: surgical incisions, venipuncture, IV or drain sites. They are created under aseptic conditions with clean edges.",
-            "<strong>Unintentional</strong> wounds are accidental: lacerations, abrasions, punctures, gunshot wounds, bites, open fractures. They are contaminated from the start.",
-            "<strong>Closed</strong> wounds: the skin is intact but underlying tissue is injured (contusion/bruise, hematoma, sprain, closed fracture).",
-            "<strong>Open</strong> wounds: the skin or mucous membrane is broken (abrasion, laceration, puncture, incision). This is a portal of entry for microorganisms."
-          ]
-        },
-        {
-          "heading": "CDC surgical wound classification (by contamination)",
-          "bullets": [
-            "<strong>Class I – Clean</strong>: an uninfected operative wound with no inflammation, where the respiratory, alimentary (GI), genital, or urinary tract is <em>not entered</em>. Example: thyroidectomy, hernia repair, joint replacement.",
-            "<strong>Class II – Clean-contaminated</strong>: the respiratory, GI, genital, or urinary tract is <em>entered under controlled conditions</em> without unusual contamination. Example: elective cholecystectomy, non-inflamed appendectomy, hysterectomy, elective colon resection with prepped bowel.",
-            "<strong>Class III – Contaminated</strong>: <em>open, fresh, accidental</em> wounds, a major break in sterile technique, gross spillage from the GI tract, or acute non-purulent inflammation. Example: fresh laceration, spillage during bowel surgery.",
-            "<strong>Class IV – Dirty/Infected</strong>: <em>old traumatic wounds with devitalized tissue</em>, existing clinical infection (pus), or perforated viscera. Example: ruptured appendix with abscess, draining wound abscess. The organisms were in the field before surgery."
-          ]
-        },
-        {
-          "heading": "By depth",
-          "bullets": [
-            "<strong>Partial-thickness</strong>: loss of the epidermis and possibly part of the dermis. Dermal appendages (hair follicles, glands) remain, so it heals by <strong>regeneration</strong>, fairly quickly, with little or no scarring. It is often painful because nerve endings are exposed.",
-            "<strong>Full-thickness</strong>: loss of the epidermis and all of the dermis, possibly extending into subcutaneous tissue, muscle, or bone. It heals by <strong>connective tissue (scar) repair</strong>, slowly, and may need grafting or flaps."
-          ]
-        },
-        {
-          "heading": "Acute wound care (untreated wounds)",
-          "bullets": [
-            "<strong>Control bleeding</strong>: use standard precautions, then apply firm direct pressure with a sterile or clean dressing and elevate above the heart. Don't remove an impaled object. Stabilize it instead.",
-            "<strong>Prevent infection</strong>: once bleeding is controlled, irrigate and clean with normal saline or potable water, then cover with a sterile dressing. Check <strong>tetanus</strong> status: a booster is needed if >5 years for dirty or major wounds, or >10 years for clean minor wounds.",
-            "<strong>Reduce pain and swelling</strong>: apply ice (wrapped, 15–20 minutes) to closed wounds and contusions.",
-            "<strong>Assess for shock</strong>: rapid weak pulse, cool clammy skin, hypotension, restlessness.",
-            "<strong>Treated wounds</strong>: at each dressing change, assess for healing, drainage, pain, and signs of infection."
-          ]
-        }
-      ],
-      "table": {
-        "caption": "CDC wound class and infection risk",
-        "headers": [
-          "Class",
-          "Key feature",
-          "Relative SSI risk"
-        ],
-        "rows": [
-          [
-            "I Clean",
-            "No tract entered, no inflammation",
-            "Lowest (about 1–5%)"
-          ],
-          [
-            "II Clean-contaminated",
-            "Tract entered under control",
-            "Low–moderate"
-          ],
-          [
-            "III Contaminated",
-            "Fresh accidental wound, sterile break, GI spillage",
-            "Moderate–high"
-          ],
-          [
-            "IV Dirty/Infected",
-            "Existing infection, pus, perforation, old devitalized tissue",
-            "Highest"
-          ]
-        ]
-      },
-      "pearls": [
-        "Tract entered on purpose and under control = clean-contaminated. Spillage or a fresh accident = contaminated. Pus or perforation already there = dirty.",
-        "Pressure first, elevation second. Irrigation and dressing come only after bleeding is controlled.",
-        "Partial-thickness wounds regenerate. Full-thickness wounds scar."
-      ],
-      "redFlags": [
-        "Bleeding that soaks through dressings despite direct pressure, or signs of hypovolemic shock",
-        "Any wound with pus, perforation, or devitalized tissue (Class IV). Anticipate antibiotics and debridement."
-      ]
-    },
-    {
-      "id": "diagnostics-labs-nutrition",
-      "title": "Diagnostics, Labs & Nutrition",
-      "exemplar": null,
-      "summary": "The right test identifies the cause, and the right labs and nutrition show whether tissue can heal.",
-      "sections": [
-        {
-          "heading": "Diagnostic tests",
-          "bullets": [
-            "<strong>Skin biopsy</strong> (punch, shave, excisional) is the definitive test for benign vs malignant lesions. Afterward: keep the site clean, watch for bleeding, and teach suture care.",
-            "<strong>Cultures and sensitivity</strong> of tissue, drainage, or exudate identify the organism and guide antibiotics. Collect them <em>before</em> starting antibiotics. For wounds, clean with saline first, then culture viable tissue (Levine technique), not pus or old exudate.",
-            "<strong>KOH (potassium hydroxide) prep</strong>: scrapings are dissolved to show fungal hyphae and spores (tinea, candida).",
-            "<strong>Wood lamp</strong>: UV (black light) exam in a darkened room. Some tinea capitis fluoresces blue-green, erythrasma coral-red, and vitiligo shows as sharply bright white depigmentation.",
-            "<strong>Tzanck smear</strong>: scrapings from the base of a vesicle show multinucleated giant cells (herpes simplex, varicella-zoster). PCR is now more specific.",
-            "<strong>Immunofluorescence studies</strong> detect antibodies in autoimmune blistering disease (pemphigus) and lupus.",
-            "<strong>Allergy testing</strong>: scratch/prick and intradermal tests detect type I (IgE) allergy, and <strong>patch testing</strong> detects type IV contact allergy. Patches stay on and dry for 48 hours, with readings at 48 and about 72–96 hours. Hold antihistamines before prick/intradermal testing, and have emergency equipment ready.",
-            "<strong>Carrier studies</strong>: nasal cultures for S. aureus/MRSA in clients with recurrent infections."
-          ]
-        },
-        {
-          "heading": "Labs that affect healing",
-          "bullets": [
-            "<strong>WBC</strong>: ↓ = poor defense against infection and delayed healing. ↑ may signal infection.",
-            "<strong>Hemoglobin/hematocrit</strong>: ↓ = less oxygen delivered to tissue.",
-            "<strong>Coagulation</strong> (PT/INR, aPTT, platelets): prolonged times → bleeding and hematoma. Hypercoagulability → clotting and poor perfusion.",
-            "<strong>Albumin</strong> (normal 3.5–5.0 g/dL): <strong><3.5 g/dL</strong> = poor protein status, ↑ infection risk, and delayed healing. Its half-life is about 20 days, so it changes slowly, and inflammation and fluid status also affect it.",
-            "<strong>Prealbumin</strong> (about 15–36 mg/dL): its half-life is 2–3 days, so it <em>reflects recent nutritional changes</em> and response to supplements. <15 mg/dL suggests protein malnutrition.",
-            "<strong>Blood glucose / HbA1c</strong>: hyperglycemia impairs neutrophils and collagen synthesis and slows healing.",
-            "<strong>Wound cultures</strong> confirm infection and guide antibiotic choice."
-          ]
-        },
-        {
-          "heading": "Nutrition for tissue integrity",
-          "body": "Healing tissue needs <strong>extra calories and protein</strong> (often about 30–35 kcal/kg and 1.25–1.5 g protein/kg/day for clients with wounds, unless renal disease limits this), plus <strong>vitamin C</strong> (collagen synthesis), <strong>vitamin A</strong> (epithelialization, and it counters the effects of steroids), <strong>zinc</strong> (cell proliferation), and adequate <strong>fluids</strong>. Encourage lean proteins, dairy, eggs, whole grains, vegetables, and citrus. Offer small frequent meals or oral supplements when intake is poor, and consult the dietitian."
-        },
-        {
-          "heading": "Independent nursing interventions",
-          "bullets": [
-            "Goals: control the disease, prevent infection, promote healing, and relieve itching and pain.",
-            "Ask about <strong>home remedies</strong> and over-the-counter products, which may irritate the skin or delay healing.",
-            "Hygiene: daily bathing for most adults. Every other day, or as needed, is often enough for young children and older adults. Use lukewarm water and mild or liquid non-soap cleansers, pat dry, and moisturize right after bathing.",
-            "Infection prevention: hand hygiene before and after wound care, clean technique for dressings, safe disposal of soiled dressings, and teaching signs of infection (↑ redness, warmth, swelling, purulent drainage, odor, fever, necrosis).",
-            "Exercise and repositioning promote blood flow. Collaborate with wound care nurses, dietitians, dermatologists, surgeons, and case managers."
-          ]
-        }
-      ],
-      "pearls": [
-        "Albumin <3.5 g/dL = delayed healing risk. Prealbumin is the better marker of <em>recent</em> changes because of its 2–3 day half-life.",
-        "Get the culture before the first antibiotic dose.",
-        "KOH = fungus. Tzanck = herpes viruses. Patch test = contact (type IV) allergy. Biopsy = cancer."
-      ],
-      "redFlags": [
-        "A wound client with albumin <3.5 g/dL, poor intake, and weight loss needs a dietitian referral and a nutrition plan now.",
-        "Fever, spreading redness, purulent drainage, or new odor from a wound"
-      ]
-    },
-    {
-      "id": "skin-therapies-pharm",
-      "title": "Pharmacologic & Collaborative Therapy",
-      "exemplar": null,
-      "summary": "Most skin drugs are topical. That doesn't make them harmless, and one (isotretinoin) is among the most teratogenic drugs in use.",
-      "sections": [
-        {
-          "heading": "Acne medications",
-          "bullets": [
-            "<strong>Benzoyl peroxide</strong> (OTC, first-line) is antibacterial against C. acnes and mildly comedolytic. Start with a low strength (2.5–5%) once daily. It causes dryness and peeling and <strong>bleaches hair, towels, and clothing</strong>. Use sunscreen.",
-            "<strong>Salicylic acid</strong> (OTC) exfoliates (keratolytic) and reduces inflammation. It is also used for warts. Avoid large areas and use in young children (salicylate toxicity).",
-            "<strong>Topical retinoids</strong> (tretinoin, adapalene) unplug follicles. They cause photosensitivity, so apply at night.",
-            "<strong>Isotretinoin</strong> (oral) is for severe nodular or cystic acne. It is <strong>highly teratogenic</strong> and dispensed only through the <strong>iPLEDGE REMS</strong> program. Clients who can become pregnant must commit to <strong>two forms of contraception</strong> (or abstinence) starting 1 month before therapy, during therapy, and for <strong>1 month after the last dose</strong>, with pregnancy testing before and throughout. Other teaching: no blood donation during therapy or for 1 month after, no sharing pills, no vitamin A supplements, avoid alcohol. Monitor lipids and liver enzymes. Report mood changes or suicidal thoughts, severe headache or visual changes (intracranial hypertension), and abdominal pain. Expect dry skin, lips, and eyes, and photosensitivity."
-          ]
-        },
-        {
-          "heading": "Topical corticosteroids",
-          "body": "Used for eczema, psoriasis, and dermatitis. Potency ranges from low (hydrocortisone 1%) to super-high (clobetasol). Apply a <strong>thin layer</strong> to clean, slightly damp skin, rubbing in gently in the direction of hair growth. Use gloves or wash hands afterward. Avoid high-potency products on the <strong>face, groin, axillae, and skin folds</strong>. Don't cover with occlusive dressings or tight diapers unless prescribed, because this increases absorption. Taper long courses. Adverse effects include skin atrophy, striae, telangiectasia, and delayed healing. Infants and young children have a high surface-area-to-weight ratio, so systemic absorption can cause adrenal suppression."
-        },
-        {
-          "heading": "Other agents",
-          "bullets": [
-            "<strong>Pediculicides / scabicides</strong>: permethrin 1% (lice) and 5% (scabies). Oral ivermectin for resistant cases.",
-            "<strong>Antifungals</strong>: topical azoles or terbinafine. Oral terbinafine or griseofulvin for tinea capitis and nails (monitor LFTs).",
-            "<strong>Antivirals</strong>: acyclovir or valacyclovir for HSV and zoster. Start early and keep the client hydrated.",
-            "<strong>Antibiotics</strong>: topical mupirocin (impetigo). Oral agents for cellulitis. Some cause photosensitivity (doxycycline, sulfonamides).",
-            "<strong>Antihistamines</strong> for itching. Sedating first-generation drugs (diphenhydramine) are a fall risk in older adults.",
-            "<strong>Systemic immunomodulators</strong> (methotrexate, biologics) for severe psoriasis or eczema: infection risk, TB screening, no live vaccines. Methotrexate is teratogenic and hepatotoxic."
-          ]
-        },
-        {
-          "heading": "Nonpharmacologic, complementary, and team care",
-          "body": "Nonpharmacologic care includes proper wound care and dressing changes, nutrition, and specialized treatments such as daily debridement and sterile dressings for burns and negative-pressure wound therapy (a wound vac) for severe wounds. Complementary products such as aloe vera, chamomile, and evening primrose oil may soothe irritation, but evidence is limited. Ask about them and watch for allergy (chamomile cross-reacts with ragweed) and drug interactions. Darker skin is more prone to post-inflammatory pigment change, so combination therapy (chemical peels, microdermabrasion) may be used cautiously. The interprofessional team includes nurses, UAPs, wound care nurses, dietitians, case managers, dermatologists, oncologists, and surgeons. Good communication means fewer complications."
-        }
-      ],
-      "pearls": [
-        "Isotretinoin: two forms of contraception, 1 month before, during, and 1 month after. No blood donation. Report depression.",
-        "Topical steroid: a thin layer only. No occlusion unless ordered, and no high-potency products on the face or groin.",
-        "Benzoyl peroxide bleaches fabric. Tell the client to use white towels and pillowcases."
-      ],
-      "redFlags": [
-        "A client on isotretinoin who reports a missed period, a positive pregnancy test, depression, or suicidal thoughts. Stop the drug and notify the provider now.",
-        "Fever or new infection in a client on biologics or methotrexate"
-      ]
-    },
-    {
-      "id": "lifespan-skin",
-      "title": "Tissue Integrity Across the Lifespan",
-      "exemplar": null,
-      "summary": "Newborn, adolescent, pregnant, and aging skin each have expected findings. The nurse must know which ones are normal and which are warning signs.",
-      "sections": [
-        {
-          "heading": "Newborns and infants",
-          "bullets": [
-            "<strong>Vernix caseosa</strong> is a white, cheesy coating that protects the skin and helps regulate temperature. It doesn't need to be scrubbed off.",
-            "Thin skin, a large surface area, and little subcutaneous fat mean greater heat loss and greater <strong>absorption of topical agents</strong>. Use products sparingly and avoid adult products.",
-            "Expected findings: <strong>milia</strong> (white papules on the nose and chin from blocked sebaceous glands), <strong>erythema toxicum</strong> (blotchy red macules with white or yellow central papules that appear at 24–72 hours, come and go, and resolve on their own), <strong>neonatal acne</strong>, <strong>acrocyanosis</strong> in the first 24–48 hours, lanugo, desquamation in post-term infants, and <strong>stork bites</strong> (nevus simplex).",
-            "<strong>Congenital dermal melanocytosis (Mongolian spots)</strong>: blue-gray patches over the sacrum and buttocks, common in darker-skinned infants. Document them at birth so they aren't mistaken for bruising or abuse.",
-            "Birthmarks to report: <strong>port-wine stain</strong> (nevus flammeus) on the face in the trigeminal area (possible Sturge-Weber syndrome), and large or rapidly growing <strong>hemangiomas</strong> near the eyes or airway.",
-            "Unexpected: <strong>jaundice in the first 24 hours</strong> (pathologic), widespread petechiae, and central cyanosis."
-          ]
-        },
-        {
-          "heading": "Children and adolescents",
-          "body": "Children have a larger body surface area (↑ fluid and heat loss) and frequent infections: tinea, warts, varicella, impetigo, lice, and scabies. Other childhood rashes include fifth disease (“slapped cheek”), roseola (a rash that appears after 3 days of high fever), and pityriasis rosea (a herald patch, then a “Christmas tree” pattern). Diaper dermatitis prevention: frequent changes, air-drying, and zinc oxide barrier cream. In adolescents, puberty hormones ↑ sebum and sweating, which leads to acne, dermatitis, psoriasis flares, fungal infections, and warts. Acne strongly affects body image, so address it with psychosocial support as well as treatment."
-        },
-        {
-          "heading": "Pregnancy",
-          "body": "Hormonal changes cause <strong>hyperpigmentation</strong>: <strong>linea nigra</strong>, <strong>melasma/chloasma</strong> (the “mask of pregnancy”), and darkened areolae. Others include <strong>striae gravidarum</strong> (stretch marks), spider angiomas, palmar erythema, and pruritus. <strong>Atopic eruption of pregnancy</strong> is the most common pregnancy dermatosis: an eczematous, itchy rash that usually starts early and resolves postpartum. <strong>Red flag:</strong> intense itching of the <em>palms and soles</em>, usually worse at night, in the third trimester <em>without a primary rash</em> suggests <strong>intrahepatic cholestasis of pregnancy</strong>. Report it, because it needs serum bile acids and LFTs and carries a risk of stillbirth."
-        },
-        {
-          "heading": "Older adults",
-          "bullets": [
-            "<strong>Intrinsic aging</strong> starts at about age 20: slower cell turnover, ↓ moisture and fat. Collagen falls in the 40s, causing wrinkles. After menopause, less estrogen means thinner, drier skin. <strong>Extrinsic aging</strong> comes from UV, smoking, pollution, and chemicals, causing thickening, precancerous changes, and deep wrinkles.",
-            "Expected changes: thin, less elastic, translucent, paler skin (fewer melanocytes); dry, itchy skin (xerosis) from ↓ sebaceous activity; ↓ subcutaneous fat (less cushioning, poor thermoregulation); ↓ sensation; slower healing; <strong>senile purpura</strong> from fragile vessels; age spots (lentigines); seborrheic keratoses; cherry angiomas.",
-            "Nursing implications: high risk of <strong>skin tears</strong>, pressure injury, burns (↓ sensation), and hypothermia. Bathe every other day with lukewarm water and a mild cleanser, pat dry, and moisturize while the skin is still damp. Lift with a draw sheet rather than dragging. Pad bed rails and wheelchair arms. Use silicone or paper tape (or none) and long sleeves for protection. Ensure fluids and nutrition."
-          ]
-        }
-      ],
-      "pearls": [
-        "Erythema toxicum is benign and self-limiting. Reassure the parents and don't treat it.",
-        "Document Mongolian spots at birth. They are not bruises.",
-        "Itching of the palms and soles in the 3rd trimester with no rash suggests cholestasis. Report it.",
-        "Older adults: no hot water, no vigorous rubbing, no adhesive tape on fragile skin, and never drag the client up in bed."
-      ],
-      "redFlags": [
-        "Jaundice appearing within 24 hours of birth",
-        "Petechiae or bruising in patterns that don't match the history, in any age group (possible abuse or bleeding disorder)"
-      ]
+     "heading": "Lifespan snapshot",
+     "body": "<strong>Infants</strong> have thinner skin that gives less protection. <strong>Adults</strong> have thicker, more hydrated skin. <strong>Older adults</strong> have thinner, less elastic skin."
     }
-  ],
-  "flashcards": [
+   ],
+   "table": {
+    "caption": "Skin layers at a glance",
+    "headers": [
+     "Layer",
+     "Key features",
+     "Clinical relevance"
+    ],
+    "rows": [
+     [
+      "Epidermis",
+      "Keratin (durable, water-resistant), melanin (UV protection); no blood vessels",
+      "An injury limited to the epidermis does not bleed"
+     ],
+     [
+      "Dermis",
+      "“Working layer”: vessels, nerve endings, sweat and oil glands, hair follicles",
+      "Damage here causes pain and bleeding; loss of sensation ↑ injury risk"
+     ],
+     [
+      "Subcutaneous",
+      "Stores about half of the body's fat; insulates, cushions, anchors skin",
+      "Loss in older adults → less cushioning and poor temperature regulation"
+     ]
+    ]
+   },
+   "pearls": [
+    "Any break in the skin creates two immediate problems: a portal for infection and loss of fluid and heat.",
+    "The epidermis has no blood vessels. A wound that bleeds has reached at least the dermis.",
+    "When sensation is lost (for example, neuropathy), the client must replace feeling with looking: daily skin inspection and testing water temperature with a thermometer or an unaffected body part."
+   ],
+   "redFlags": [
+    "Loss of skin over a large area. Watch for fluid loss, heat loss, and infection."
+   ]
+  },
+  {
+   "id": "skin-assessment-lesions",
+   "title": "Skin Assessment & Lesions",
+   "exemplar": null,
+   "summary": "Accurate skin assessment across all skin tones depends on knowing where to look, how to palpate, and the right name for what you see.",
+   "sections": [
     {
-      "front": "Which skin layer contains blood vessels, nerve endings, and sweat and sebaceous glands?",
-      "back": "The <strong>dermis</strong>, the “working layer.” The epidermis is avascular.",
-      "topic": "skin-structure-function"
+     "heading": "General skin assessment",
+     "body": "Inspect in good (natural, if possible) light and compare both sides. Assess <strong>color, temperature, moisture, texture, edema, and lesions</strong>, and ask about itching, recent changes, sun exposure, new products, medications, and home remedies. Describe lesions by type, size, color, shape, distribution, and drainage."
     },
     {
-      "front": "Name five functions of the skin.",
-      "back": "Protection, sensation, thermoregulation, excretion (sweat), <strong>vitamin D synthesis</strong>. It also maintains fluid balance and supports immunity.",
-      "topic": "skin-structure-function"
+     "heading": "Cultural considerations: assessing darker skin tones",
+     "body": "Skin color varies with melanin, which protects from UV damage, so assessment differs for light and dark skin tones. Rely on sites with little pigment and on <strong>palpation</strong>.",
+     "bullets": [
+      "<strong>Pallor</strong> looks <strong>yellow-brown or ashen gray</strong>.",
+      "<strong>Cyanosis</strong>: check the <strong>nail beds, lips, and buccal mucosa</strong>.",
+      "<strong>Jaundice</strong>: check the <strong>palms and soles</strong>, not just the sclera.",
+      "<strong>Pressure injuries and inflammation</strong> are harder to detect. Look for <strong>darker, taut, shiny, or indurated</strong> areas. Check <strong>temperature, edema, and induration</strong>, and compare with nearby skin. <strong>Moistening the skin</strong> may help reveal changes.",
+      "After lesions heal, darker skin may show <strong>discoloration</strong>. It is also at risk for <strong>melasma</strong> (dark facial patches from sun). Some products (makeup, bleaching creams) can irritate the skin or interact with medications."
+     ]
     },
     {
-      "front": "What does the subcutaneous tissue do?",
-      "back": "It stores about half of the body's fat, insulates, cushions, and anchors skin to underlying structures. Loss in older adults ↑ hypothermia and pressure risk.",
-      "topic": "skin-structure-function"
+     "heading": "Classifying skin disorders",
+     "body": "Skin disorders are hard to classify because symptoms (itching, redness, inflammation) are often vague. Two common methods are <strong>acute vs chronic</strong> and <strong>by type</strong>: <strong>infectious, inflammatory, and neoplastic</strong>.",
+     "bullets": [
+      "<strong>Acute</strong> disorders are short-term with situational causes (bacterial infections, dermatitis). Treatment reduces inflammation and avoids triggers.",
+      "<strong>Chronic</strong> disorders are long-term or lifelong, with genetic or unknown causes (pigment changes, genetic skin conditions, psoriasis). Treatment aims for <strong>remission, not cure</strong>.",
+      "The skin can also <strong>reflect systemic disease</strong>. For example, dry skin with hair loss suggests <strong>hypothyroidism</strong>, and pinpoint bleeding spots (petechiae) can reflect a clotting problem."
+     ]
     },
     {
-      "front": "Where do you assess cyanosis in a client with dark skin?",
-      "back": "<strong>Oral (buccal) mucosa, lips, nail beds, conjunctivae.</strong> They may look ashen gray.",
-      "topic": "skin-assessment-lesions"
-    },
-    {
-      "front": "How do you detect inflammation or early pressure damage in darker skin?",
-      "back": "Palpate for <strong>warmth, induration, edema, or bogginess</strong>. Look for darker, taut, or shiny areas. Compare with adjacent skin and use natural light.",
-      "topic": "skin-assessment-lesions"
-    },
-    {
-      "front": "Macule vs patch? Papule vs plaque? Vesicle vs bulla?",
-      "back": "Same lesion type, different size. Each pair splits at <strong>1 cm</strong>: <1 cm = macule, papule, vesicle; >1 cm = patch, plaque, bulla.",
-      "topic": "skin-assessment-lesions"
-    },
-    {
-      "front": "Primary vs secondary lesion?",
-      "back": "<strong>Primary</strong> arises from normal skin (macule, papule, nodule, vesicle, pustule, bulla, wheal). <strong>Secondary</strong> evolves from a primary lesion or trauma (crust, scale, scar, keloid, fissure, erosion, ulcer).",
-      "topic": "skin-assessment-lesions"
-    },
-    {
-      "front": "Honey-colored crusts around a child's nose and mouth?",
-      "back": "<strong>Impetigo</strong> (staph or strep). Contact precautions, wash crusts off gently, mupirocin, stay out of school until 24 hours on antibiotics.",
-      "topic": "infectious-skin-disorders"
-    },
-    {
-      "front": "Isolation for varicella or disseminated zoster?",
-      "back": "<strong>Airborne + contact</strong> (negative-pressure room) until <strong>all lesions are crusted</strong>. Localized zoster in an immunocompetent client: standard precautions with lesions covered.",
-      "topic": "infectious-skin-disorders"
-    },
-    {
-      "front": "Key teaching for scabies treatment?",
-      "back": "Permethrin 5% from the <strong>neck to the soles</strong>, left on 8–14 hours, repeated in about 1 week. <strong>Treat all close contacts at the same time.</strong> Hot-wash linens or bag them for 72 hours. Itching may last 2–4 weeks.",
-      "topic": "infectious-skin-disorders"
-    },
-    {
-      "front": "First nursing action when cellulitis is diagnosed on the lower leg?",
-      "back": "<strong>Outline the border of redness</strong> with a skin marker (date and time) to track spread. Also elevate the leg, give antibiotics, and monitor temperature and WBC.",
-      "topic": "infectious-skin-disorders"
-    },
-    {
-      "front": "Irritant vs allergic contact dermatitis?",
-      "back": "<strong>Irritant</strong>: non-immune chemical damage that can occur on first exposure. <strong>Allergic</strong>: type IV delayed hypersensitivity, 24–72 hours after re-exposure, shaped like the allergen. Diagnosed by patch test.",
-      "topic": "inflammatory-skin-disorders"
-    },
-    {
-      "front": "Foods that cross-react with latex?",
-      "back": "<strong>Banana, avocado, kiwi, chestnut</strong> (latex-fruit syndrome).",
-      "topic": "inflammatory-skin-disorders"
-    },
-    {
-      "front": "Classic psoriasis lesion?",
-      "back": "Well-demarcated red plaques with <strong>silvery-white scale</strong> on the elbows, knees, and scalp. Nail pitting. Koebner phenomenon.",
-      "topic": "inflammatory-skin-disorders"
-    },
-    {
-      "front": "“Soak and seal” for eczema?",
-      "back": "Short lukewarm bath, pat dry, and apply a thick emollient <strong>within 3 minutes</strong> to lock in moisture.",
-      "topic": "inflammatory-skin-disorders"
-    },
-    {
-      "front": "ABCDE of melanoma?",
-      "back": "<strong>A</strong>symmetry, <strong>B</strong>order irregular, <strong>C</strong>olor variation, <strong>D</strong>iameter >6 mm, <strong>E</strong>volving.",
-      "topic": "skin-cancer-sun-protection"
-    },
-    {
-      "front": "Most common skin cancer? Most deadly?",
-      "back": "Most common: <strong>basal cell carcinoma</strong> (rarely metastasizes). Most deadly: <strong>malignant melanoma</strong>.",
-      "topic": "skin-cancer-sun-protection"
-    },
-    {
-      "front": "Sunscreen teaching essentials?",
-      "back": "Broad-spectrum, water-resistant <strong>SPF ≥30</strong>. Apply 15 minutes before going out, <strong>reapply every 2 hours</strong> and after swimming or sweating. Avoid sun from 10 a.m. to 4 p.m. and avoid tanning beds.",
-      "topic": "skin-cancer-sun-protection"
-    },
-    {
-      "front": "Where does melanoma often appear in people with darker skin?",
-      "back": "<strong>Palms, soles, and nail beds</strong> (acral lentiginous melanoma), often as a new dark streak under a nail.",
-      "topic": "skin-cancer-sun-protection"
-    },
-    {
-      "front": "The 4 CDC surgical wound classes?",
-      "back": "I <strong>Clean</strong> (no tract entered), II <strong>Clean-contaminated</strong> (tract entered under control), III <strong>Contaminated</strong> (fresh accidental wound, sterile break, spillage), IV <strong>Dirty/Infected</strong> (pus, perforation, old devitalized tissue).",
-      "topic": "wound-types-classification"
-    },
-    {
-      "front": "Closed vs open wound?",
-      "back": "<strong>Closed</strong>: skin intact, underlying tissue injured (contusion). <strong>Open</strong>: skin or mucous membrane broken (laceration, incision).",
-      "topic": "wound-types-classification"
-    },
-    {
-      "front": "Partial vs full-thickness healing?",
-      "back": "<strong>Partial</strong> (epidermis ± part of dermis) heals by <strong>regeneration</strong>. <strong>Full</strong> (all skin layers ± deeper) heals by <strong>connective tissue / scar repair</strong>.",
-      "topic": "wound-types-classification"
-    },
-    {
-      "front": "First-aid priorities for a bleeding laceration?",
-      "back": "Gloves → <strong>direct pressure</strong> → elevate → irrigate with saline once bleeding is controlled → sterile dressing. Assess for shock and check tetanus status.",
-      "topic": "wound-types-classification"
-    },
-    {
-      "front": "Albumin value that signals risk for delayed healing?",
-      "back": "<strong><3.5 g/dL</strong>. Prealbumin (half-life 2–3 days) better reflects <em>recent</em> nutritional change.",
-      "topic": "diagnostics-labs-nutrition"
-    },
-    {
-      "front": "KOH prep, Wood lamp, Tzanck smear: what does each detect?",
-      "back": "<strong>KOH</strong>: fungal hyphae. <strong>Wood lamp</strong>: UV fluorescence (some tinea, vitiligo, erythrasma). <strong>Tzanck</strong>: multinucleated giant cells (HSV/VZV).",
-      "topic": "diagnostics-labs-nutrition"
-    },
-    {
-      "front": "Nutrients that support tissue repair?",
-      "back": "↑ Calories and <strong>protein</strong>, <strong>vitamin C</strong> (collagen), <strong>vitamin A</strong> (epithelialization), <strong>zinc</strong>, and adequate fluids.",
-      "topic": "diagnostics-labs-nutrition"
-    },
-    {
-      "front": "Isotretinoin: key safety requirement?",
-      "back": "<strong>iPLEDGE REMS</strong>: 2 forms of contraception from 1 month before until 1 month after therapy, pregnancy testing, no blood donation. Report mood changes.",
-      "topic": "skin-therapies-pharm"
-    },
-    {
-      "front": "How to apply a topical corticosteroid?",
-      "back": "<strong>Thin layer</strong>, no occlusion unless ordered, avoid high potency on the face and groin, taper long courses. Watch for atrophy and striae, and for systemic absorption in children.",
-      "topic": "skin-therapies-pharm"
-    },
-    {
-      "front": "Erythema toxicum?",
-      "back": "A benign newborn rash of red blotches with white or yellow papules, appearing at 24–72 hours and resolving on its own. <strong>No treatment.</strong>",
-      "topic": "lifespan-skin"
-    },
-    {
-      "front": "Why bathe older adults every other day with lukewarm water?",
-      "back": "↓ Sebaceous glands → dry, fragile skin. Frequent hot bathing strips oils → xerosis, itching, and skin tears.",
-      "topic": "lifespan-skin"
+     "heading": "Skin lesions",
+     "body": "<strong>Primary</strong> lesions arise from previously normal skin: macules, papules, nodules, vesicles, pustules, bullae, and wheals. <strong>Secondary</strong> lesions develop from primary lesions or trauma: crusts, scales, scars, keloids, fissures, ulcers, and erosions."
     }
-  ],
-  "questions": [
+   ],
+   "table": {
+    "caption": "Primary and secondary skin lesions",
+    "headers": [
+     "Lesion",
+     "Description",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Macule (primary)",
+      "Flat, nonpalpable color change, less than 1 cm",
+      "Freckle, petechiae"
+     ],
+     [
+      "Papule (primary)",
+      "Raised, solid, less than 1 cm",
+      "Wart, raised mole"
+     ],
+     [
+      "Nodule (primary)",
+      "Raised, firm, deeper, larger than a papule",
+      "Lipoma"
+     ],
+     [
+      "Vesicle / Bulla (primary)",
+      "Clear-fluid-filled; vesicle less than 1 cm, bulla more than 1 cm",
+      "Chickenpox / large blister"
+     ],
+     [
+      "Pustule (primary)",
+      "Pus-filled raised lesion",
+      "Acne, impetigo"
+     ],
+     [
+      "Wheal (primary)",
+      "Transient, irregular, raised, itchy, edematous area",
+      "Hive, insect bite"
+     ],
+     [
+      "Crust (secondary)",
+      "Dried serum, blood, or pus",
+      "Honey-colored crust of impetigo"
+     ],
+     [
+      "Scale (secondary)",
+      "Flakes of dead epidermis",
+      "Psoriasis, dandruff"
+     ],
+     [
+      "Fissure (secondary)",
+      "Linear crack in the skin",
+      "Athlete's foot between the toes"
+     ],
+     [
+      "Erosion / Ulcer (secondary)",
+      "Loss of epidermis only / deeper loss into dermis or below",
+      "Ruptured blister / chronic ulcer"
+     ],
+     [
+      "Scar / Keloid (secondary)",
+      "Fibrous tissue replacing damaged skin / overgrown scar extending beyond the wound",
+      "Healed incision / keloid on an earlobe"
+     ]
+    ]
+   },
+   "pearls": [
+    "In darker skin, you often can't “see” redness. Palpate for warmth, induration, and edema, and compare with adjacent skin.",
+    "Pallor → conjunctivae and mucosa; cyanosis → nail beds, lips, buccal mucosa; jaundice → palms and soles, not just the sclera.",
+    "Document lesions by type, size (mm or cm), color, shape, distribution, and drainage. “Rash on arm” is not an assessment."
+   ],
+   "redFlags": [
+    "Ashen gray lips and mucosa with a rapid pulse or low BP point to poor perfusion or oxygenation. Act, don't just document.",
+    "Raised wheals with hoarseness, wheezing, or throat tightness mean the reaction is affecting the airway."
+   ]
+  },
+  {
+   "id": "infectious-skin-disorders",
+   "title": "Infectious Skin Disorders",
+   "exemplar": null,
+   "summary": "Bacteria, viruses, fungi, and parasites cause skin infections. The nurse recognizes them, prevents their spread, and teaches.",
+   "sections": [
     {
-      "id": "m21a-001",
-      "cjmm": "Recognize Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "Recall which skin layer is avascular and which layer holds the blood vessels and nerve endings.",
-      "hintStrategy": "Two cues in the stem, bleeding and pain, each point to a structure. Find the only layer that contains both.",
-      "type": "mcq",
-      "topic": "skin-structure-function",
-      "ref": "Module 21 · Tissue Integrity · Layers of the Skin",
-      "difficulty": 1,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "A client has a superficial abrasion that is oozing small amounts of blood and is painful to touch. The nurse recognizes that the injury has reached which skin layer?",
-      "options": [
-        "The stratum corneum of the epidermis only",
-        "The dermis, which contains blood vessels and nerve endings",
-        "The subcutaneous layer, which stores adipose tissue",
-        "The basal layer of the epidermis, which contains capillaries"
-      ],
-      "answer": 1,
-      "optionRationales": [
-        "The stratum corneum is dead keratinized cells with no vessels or nerves, so injury limited to it would not bleed or hurt.",
-        "Correct. The epidermis is avascular. Bleeding and pain mean the injury has reached the dermis, where the blood vessels and sensory nerve endings are.",
-        "The subcutaneous layer is fat and connective tissue. A superficial abrasion does not usually reach it.",
-        "The basal layer has no capillaries. The epidermis is nourished by diffusion from the dermis."
-      ],
-      "rationale": "The epidermis contains no blood vessels. Any wound that bleeds has reached at least the dermis, the “working layer” that holds vessels, nerves, glands, and hair follicles.",
-      "takeaway": "If it bleeds, it has reached the dermis."
+     "heading": "Causes and key points",
+     "bullets": [
+      "<strong>Bacteria and viruses</strong> are the most common causes.",
+      "<strong>Fungal</strong> infections are <strong>more dangerous in immunocompromised</strong> clients (for example, clients receiving chemotherapy or with HIV/AIDS).",
+      "<strong>HPV</strong> (the virus that causes warts) <strong>increases cancer risk</strong>.",
+      "Prevention for everyone: hand hygiene, proper hygiene and skin care, and <strong>not sharing personal items</strong> (combs, hats, towels)."
+     ]
     },
     {
-      "id": "m21a-002",
-      "cjmm": "Prioritize Hypotheses",
-      "focus": "Prioritization",
-      "hintContent": "Think about what intact skin prevents minute to minute: microbial entry and evaporative water and heat loss.",
-      "hintStrategy": "This is a priority item. Rank options by Maslow and ABCs. Physiological threats to circulation outrank psychosocial or long-term concerns.",
-      "type": "mcq",
-      "topic": "skin-structure-function",
-      "ref": "Module 21 · Tissue Integrity · Functions of the Skin",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "A client is admitted after losing a large area of epidermis and dermis over the back and legs. Based on the normal functions of the skin, which nursing problem is the priority?",
-      "options": [
-        "Impaired vitamin D synthesis from reduced UV absorption in the damaged skin",
-        "Disturbed body image related to visible skin loss on the back and legs",
-        "Decreased tactile sensation and pain perception over the affected areas",
-        "Fluid volume deficit and infection from loss of the protective barrier"
-      ],
-      "answer": 3,
-      "optionRationales": [
-        "Vitamin D synthesis is a real skin function, but losing it is not an immediate threat to life.",
-        "Body image matters, but psychosocial needs come after physiological threats.",
-        "Loss of sensation is a safety concern, but it is less urgent than fluid loss and infection.",
-        "Correct. The skin is the barrier against microorganisms and evaporative water loss. Large skin loss quickly leads to hypovolemia, hypothermia, and sepsis, which threaten circulation and life."
-      ],
-      "rationale": "Protection (from infection and fluid loss) and thermoregulation are the skin functions whose loss threatens life. Maslow and ABC priorities place physiological threats, especially circulation and fluid volume, above psychosocial and long-term concerns.",
-      "takeaway": "Large skin loss = fluid loss + infection + heat loss. These are the immediate threats."
+     "heading": "Bacterial: impetigo",
+     "body": "A contagious superficial bacterial infection, common in children. Vesicles and pustules break open and form <strong>honey-colored crusts</strong>, often around the nose and mouth. It spreads by direct contact, so use <strong>contact precautions</strong> and hand hygiene, gently wash crusts off with soap and water before applying the prescribed antibiotic, keep nails short, and don't share towels. Children usually stay out of school or child care until 24 hours after treatment starts."
     },
     {
-      "id": "m21a-003",
-      "cjmm": "Analyze Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "Recall where melanocytes, nerve endings, sebaceous glands, and fat stores are located, and what each one does.",
-      "hintStrategy": "For each row, name the function that is failing first (insulation? sensation? oil? pigment? cushioning?), then match that function to its layer.",
-      "type": "matrix",
-      "topic": "skin-structure-function",
-      "ref": "Module 21 · Tissue Integrity · Layers of the Skin",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "An 84-year-old client in a long-term care facility has the following findings. For each finding, identify the skin layer whose age-related change best explains it.",
-      "rows": [
-        "Reports feeling cold in a 72°F (22°C) room and needs extra blankets",
-        "Did not notice a burn from a heating pad left on the lower back",
-        "Has very dry, flaky, itchy skin on the shins",
-        "Skin appears paler and more translucent than in earlier photos",
-        "Has little cushioning over the sacrum and heels"
-      ],
-      "columns": [
-        "Epidermis",
-        "Dermis",
-        "Subcutaneous tissue"
-      ],
-      "answer": [
-        2,
-        1,
-        1,
-        0,
-        2
-      ],
-      "optionRationales": [
-        "Subcutaneous tissue. Loss of subcutaneous fat reduces insulation, so older adults lose heat easily and are at risk for hypothermia.",
-        "Dermis. Sensory nerve endings sit in the dermis. Reduced sensation with aging raises the risk of burns and injury.",
-        "Dermis. Sebaceous and sweat glands live in the dermis. Reduced sebum causes xerosis (dry, itchy skin).",
-        "Epidermis. Melanocytes sit in the basal epidermis. Fewer melanocytes with aging cause paler, translucent skin and less UV protection.",
-        "Subcutaneous tissue. The hypodermis cushions bony prominences. Its loss increases pressure injury risk."
-      ],
-      "rationale": "Relating findings to structure lets the nurse predict risk. The epidermis holds the melanocytes. The dermis holds the nerves and glands, so its changes cause reduced sensation and dry skin. Loss of subcutaneous fat reduces insulation and cushioning.",
-      "takeaway": "Aging skin: fewer melanocytes (epidermis), less sensation and oil (dermis), less fat (subcutaneous)."
+     "heading": "Viral: chickenpox (varicella) and warts",
+     "bullets": [
+      "<strong>Chickenpox</strong>: itchy vesicles in crops, with lesions in different stages at the same time. It is highly contagious, so use <strong>airborne + contact precautions until all lesions are crusted</strong>; only staff with documented immunity should care for the client. Relieve itching (cool baths, short nails) and use acetaminophen, <strong>not aspirin</strong>, for fever in children (Reye syndrome).",
+      "<strong>Herpes simplex and herpes zoster</strong> are among the most common skin conditions in the U.S. Their vesicles can be tested with a <strong>Tzanck test</strong>.",
+      "<strong>Warts (HPV)</strong> are common in children and adolescents and spread by touch, including picking or biting them."
+     ]
     },
     {
-      "id": "m21a-004",
-      "cjmm": "Recognize Cues",
-      "focus": "Lifespan & Diversity",
-      "hintContent": "Color changes are easiest to see where melanin is sparse.",
-      "hintStrategy": "Central cyanosis reflects oxygenation of arterial blood. Choose a site that is both central and minimally pigmented.",
-      "type": "mcq",
-      "topic": "skin-assessment-lesions",
-      "ref": "Module 21 · Tissue Integrity · Cultural Considerations in Skin Assessment",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "A client with deeply pigmented skin and a COPD exacerbation has an SpO2 of 86% on 2 L/min nasal cannula and is increasingly short of breath. The nurse wants to assess for central cyanosis. Which area should the nurse inspect?",
-      "options": [
-        "The skin of the forehead and cheeks",
-        "The oral mucosa and conjunctivae",
-        "The skin over the sternum",
-        "The dorsal surface of the hands"
-      ],
-      "answer": 1,
-      "optionRationales": [
-        "Heavily pigmented facial skin hides the bluish or gray tint of cyanosis.",
-        "Correct. The oral (buccal) mucosa, lips, conjunctivae, and nail beds have the least melanin, so cyanosis (often ashen gray in dark skin) is easiest to see there.",
-        "Sternal skin is useful for testing turgor in older adults but not for detecting cyanosis in dark skin.",
-        "The back of the hand is pigmented and shows peripheral, not central, changes."
-      ],
-      "rationale": "In darker skin, color changes are best seen where melanin is minimal: mucous membranes, conjunctivae, nail beds, palms, and soles. Central cyanosis is best judged in the mouth.",
-      "takeaway": "Dark skin: look where melanin is least, in the mucosa, conjunctivae, nail beds, palms, and soles."
+     "heading": "Fungal: tinea (athlete's foot, ringworm)",
+     "body": "Fungi thrive in <strong>warm, moist</strong> areas. <strong>Athlete's foot</strong> causes itching, scaling, and cracked (fissured) skin between the toes. Ringworm is a ring-shaped scaly patch with central clearing. Diagnose with a <strong>KOH prep</strong>. Teach the client to dry between the toes, wear clean cotton socks and shower shoes in public showers, use the full course of antifungal, and not share towels, combs, or hats."
     },
     {
-      "id": "m21a-005",
-      "cjmm": "Recognize Cues",
-      "focus": "Assessment Findings",
-      "hintContent": "Consider which assessment findings do not depend on seeing redness.",
-      "hintStrategy": "Evaluate each option on its own as true or false. Watch for options that rely on a visual cue that melanin can hide.",
-      "type": "sata",
-      "topic": "skin-assessment-lesions",
-      "ref": "Module 21 · Tissue Integrity · Cultural Considerations in Skin Assessment",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "The nurse is assessing the sacrum of a client with dark brown skin who has been on bed rest for 3 days. Which techniques will help the nurse detect early tissue damage? Select all that apply.",
-      "options": [
-        "Palpate the area for warmth compared with surrounding skin",
-        "Check for induration, edema, or a boggy feel",
-        "Inspect for areas that look darker, taut, or shiny",
-        "Rely on the presence of blanchable redness",
-        "Assess the area under overhead fluorescent light only",
-        "Lightly moisten the skin to make color changes easier to see"
-      ],
-      "answer": [
-        0,
-        1,
-        2,
-        5
-      ],
-      "optionRationales": [
-        "Correct. Warmth (or coolness) compared with adjacent skin is an early sign of inflammation or tissue damage that doesn't depend on color.",
-        "Correct. Induration, edema, and bogginess are palpable changes that reveal damage melanin may hide.",
-        "Correct. In darker skin, inflammation often looks darker (purple or maroon), taut, shiny, or indurated rather than red.",
-        "Incorrect. Redness and blanching may be impossible to see in dark skin. Relying on them leads to missed injury.",
-        "Incorrect. Natural or halogen light is preferred. Fluorescent light can give skin a bluish cast and hide changes.",
-        "Correct. Slightly moistening the skin can make subtle color and sheen changes easier to see."
-      ],
-      "rationale": "Detecting erythema by eye is unreliable in darkly pigmented skin. The nurse compensates by palpating for temperature, induration, and edema, looking for darker, shiny, or taut areas, using good natural light, and comparing with adjacent skin.",
-      "takeaway": "In dark skin, feel for warmth and induration. Don't wait to see redness."
-    },
-    {
-      "id": "m21a-006",
-      "cjmm": "Prioritize Hypotheses",
-      "focus": "Prioritization",
-      "hintContent": "Review how pallor and cyanosis look in darkly pigmented skin and which sites show them best.",
-      "hintStrategy": "Look at the vital signs first. Then pick the skin finding that explains them, not the chronic or cosmetic findings.",
-      "type": "mcq",
-      "topic": "skin-assessment-lesions",
-      "ref": "Module 21 · Tissue Integrity · Cultural Considerations in Skin Assessment",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "Four hours after abdominal surgery, a client with dark skin is restless. Vital signs: HR 122/min, BP 92/58 mm Hg, RR 24/min, SpO2 93%. Which assessment finding requires the most immediate follow-up?",
-      "options": [
-        "Hyperpigmented macules on the forearms from a previous rash",
-        "Dry, flaking skin on both lower legs",
-        "Ashen-gray lips and pale conjunctivae",
-        "A 2-cm keloid on the right earlobe"
-      ],
-      "answer": 2,
-      "optionRationales": [
-        "Post-inflammatory hyperpigmentation is common after healed lesions in darker skin and is not urgent.",
-        "Dry skin (xerosis) is a comfort and skin-care issue, not an acute threat.",
-        "Correct. Ashen-gray color and pale conjunctivae are how pallor and cyanosis look in dark skin. With tachycardia, hypotension, and restlessness after surgery, they suggest hemorrhage or hypovolemic shock and need immediate action.",
-        "Keloids are more common in darker skin and are a chronic cosmetic finding."
-      ],
-      "rationale": "In dark skin, pallor looks ashen gray (or yellow-brown), and changes are best seen in the lips, mucosa, and conjunctivae. With abnormal vital signs, this points to impaired perfusion, an ABC priority.",
-      "takeaway": "Ashen gray + tachycardia + hypotension in dark skin = shock until proven otherwise."
-    },
-    {
-      "id": "m21a-007",
-      "cjmm": "Recognize Cues",
-      "focus": "Assessment Findings",
-      "hintContent": "Primary lesions are named by what they contain (solid, clear fluid, pus) and by size, with a cut-off at 1 cm.",
-      "hintStrategy": "Use two cues from the stem, the fluid type and the measurement, to eliminate options.",
-      "type": "mcq",
-      "topic": "skin-assessment-lesions",
-      "ref": "Module 21 · Tissue Integrity · Skin Lesions",
-      "difficulty": 1,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "The nurse notes several raised lesions on a child's trunk that are filled with clear fluid and measure about 0.5 cm each. How should the nurse document these lesions?",
-      "options": [
-        "Vesicles",
-        "Pustules",
-        "Bullae",
-        "Wheals"
-      ],
-      "answer": 0,
-      "optionRationales": [
-        "Correct. A vesicle is a circumscribed, elevated, clear-fluid-filled primary lesion less than 1 cm, as seen in varicella or herpes.",
-        "Pustules contain purulent (cloudy, yellow) fluid, not clear fluid.",
-        "Bullae are clear-fluid-filled lesions larger than 1 cm.",
-        "Wheals are transient, edematous, irregular raised areas without a fluid-filled cavity, such as hives."
-      ],
-      "rationale": "Primary lesions are named by content and size. Clear fluid <1 cm is a vesicle, and >1 cm is a bulla. Pus-filled lesions are pustules.",
-      "takeaway": "Vesicle <1 cm, bulla >1 cm, and pustule = pus."
-    },
-    {
-      "id": "m21a-008",
-      "cjmm": "Analyze Cues",
-      "focus": "Assessment Findings",
-      "hintContent": "Primary lesions arise from normal skin. Secondary lesions develop from a primary lesion or from trauma.",
-      "hintStrategy": "For each row ask: could this appear on previously healthy skin, or does something have to happen first (drying, cracking, rupture)?",
-      "type": "matrix",
-      "topic": "skin-assessment-lesions",
-      "ref": "Module 21 · Tissue Integrity · Skin Lesions",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "A 9-year-old is seen in the clinic for several skin complaints, and the nurse documents the findings below. Classify each finding as a primary or secondary lesion.",
-      "rows": [
-        "Flat, brown, nonpalpable freckle 4 mm in diameter",
-        "Dried honey-colored exudate over a lesion",
-        "Transient raised, itchy hive after a bee sting",
-        "Linear crack in the skin between the toes",
-        "Pus-filled raised lesion on the chin"
-      ],
-      "columns": [
-        "Primary lesion",
-        "Secondary lesion"
-      ],
-      "answer": [
-        0,
-        1,
-        0,
-        1,
-        0
-      ],
-      "optionRationales": [
-        "Primary. A flat color change <1 cm is a macule, arising from normal skin.",
-        "Secondary. A crust is dried serum, blood, or pus left after a primary lesion (such as an impetigo vesicle or pustule) ruptures.",
-        "Primary. A wheal arises directly from normal skin.",
-        "Secondary. A fissure is a crack that develops in skin changed by dryness or disease (for example, tinea pedis).",
-        "Primary. A pustule arises from previously normal skin."
-      ],
-      "rationale": "Primary lesions (macule, papule, nodule, vesicle, bulla, pustule, wheal) arise from previously normal skin. Secondary lesions (crust, scale, fissure, erosion, ulcer, scar, keloid) come from changes in primary lesions or from trauma.",
-      "takeaway": "Primary = the first lesion. Secondary = what it becomes (crust, scale, fissure, ulcer, scar)."
-    },
-    {
-      "id": "m21a-009",
-      "cjmm": "Analyze Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "Skin, hair, and nails can reflect endocrine disease. Consider which hormone controls metabolic rate and heat production.",
-      "hintStrategy": "Group all the cues, not just the skin ones. Cold intolerance, weight gain, constipation, and bradycardia point to one system. Then pick the test for that system.",
-      "type": "dropdown",
-      "topic": "skin-assessment-lesions",
-      "ref": "Module 21 · Tissue Integrity · Skin as a Reflection of Systemic Disease",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "A 52-year-old client reports dry, rough skin that lotions don't help, thinning hair, brittle nails, weight gain, constipation, and always feeling cold. HR 56/min. Complete the statement.",
-      "template": "The skin and hair findings most likely reflect {0}. The nurse should anticipate that the provider will order {1}.",
-      "blanks": [
-        {
-          "options": [
-            "hypothyroidism",
-            "contact dermatitis",
-            "psoriasis",
-            "iron-deficiency anemia"
-          ],
-          "answer": 0
-        },
-        {
-          "options": [
-            "a KOH preparation of skin scrapings",
-            "a thyroid-stimulating hormone (TSH) level",
-            "a patch test",
-            "a Wood lamp examination"
-          ],
-          "answer": 1
-        }
-      ],
-      "rationale": "Skin can mirror systemic disease. Dry, coarse skin, hair loss, and brittle nails with cold intolerance, weight gain, constipation, and bradycardia are classic signs of hypothyroidism. A TSH level is the first screening test. Dermatologic tests (KOH, patch, Wood lamp) look for local skin disease and would miss the cause.",
-      "takeaway": "Dry skin + hair loss + cold intolerance → think thyroid, not lotion."
-    },
-    {
-      "id": "m21a-010",
-      "cjmm": "Evaluate Outcomes",
-      "focus": "Client Teaching",
-      "hintContent": "Recall how impetigo spreads and the usual return-to-school rule after antibiotics start.",
-      "hintStrategy": "You are looking for the statement that shows CORRECT understanding. Eliminate any statement that would spread the infection or harm the skin.",
-      "type": "mcq",
-      "topic": "infectious-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-      "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "stem": "A 5-year-old has honey-colored crusted lesions around the nose and mouth and is prescribed mupirocin ointment. Which statement by the parent indicates the teaching was effective?",
-      "options": [
-        "“I'll gently wash the crusts off with soap and water before applying the ointment.”",
-        "“My child can go back to kindergarten tomorrow since the rash isn't itchy.”",
-        "“The whole family can keep sharing bath towels as long as we wash them weekly.”",
-        "“I'll cover the sores tightly with plastic wrap overnight so they heal faster.”"
-      ],
-      "answer": 0,
-      "optionRationales": [
-        "Correct. Gently removing the crusts with soap and water lets the topical antibiotic reach the bacteria and reduces the bacterial load.",
-        "Impetigo is highly contagious. The child should stay home until at least 24 hours after starting antibiotics, whether or not the rash itches.",
-        "Towels, washcloths, and linens should not be shared. They spread staph and strep.",
-        "Occlusive plastic wrap traps moisture and is not part of impetigo care. It can worsen maceration and spread."
-      ],
-      "rationale": "Impetigo (S. aureus or group A strep) spreads by direct contact. Care: gently remove crusts, apply the prescribed antibiotic, keep nails short, don't share personal items, wash hands, and exclude from school or daycare until 24 hours of therapy.",
-      "takeaway": "Impetigo: remove crusts, apply mupirocin, share nothing, stay home until 24 hours on antibiotics."
-    },
-    {
-      "id": "m21a-011",
-      "type": "sata",
-      "topic": "infectious-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-      "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "cjmm": "Generate Solutions",
-      "focus": "Client Teaching",
-      "stem": "A 22-year-old client with recurrent herpes simplex labialis (cold sores) is prescribed valacyclovir to take at the start of each outbreak. Which instructions should the nurse include in the teaching? Select all that apply.",
-      "options": [
-        "Take the first dose at the earliest tingling or burning, before blisters form",
-        "Avoid kissing and sharing cups, utensils, or lip balm while lesions are present",
-        "Once the sores crust over, the virus has been cleared from the body",
-        "Use a lip balm with sunscreen, because sun exposure can trigger outbreaks",
-        "Open the blisters with a clean needle so the sores dry and heal faster",
-        "The virus can be spread to others only while blisters are visible"
-      ],
-      "answer": [
-        0,
-        1,
-        3
-      ],
-      "optionRationales": [
-        "Correct. Antivirals work best when started during the prodrome (tingling, burning, itching), before vesicles erupt. Starting early shortens the outbreak.",
-        "Correct. HSV-1 spreads through direct contact with lesions and saliva. Avoiding kissing and shared items while lesions are present prevents transmission.",
-        "Incorrect. HSV stays latent in the sensory nerve ganglia for life. Crusting means the outbreak is resolving, not that the virus is gone, and it can reactivate.",
-        "Correct. UV light, stress, fever, illness, and lip trauma are common triggers for reactivation. SPF lip balm reduces sun-triggered outbreaks.",
-        "Incorrect. Opening vesicles increases the risk of bacterial superinfection and of spreading the virus to the fingers (herpetic whitlow) or eyes.",
-        "Incorrect. Asymptomatic viral shedding occurs, so the virus can spread even when no lesions are visible. Hand hygiene and avoiding contact with others' mucosa remain important."
-      ],
-      "rationale": "Herpes simplex virus establishes lifelong latency in sensory ganglia and reactivates with triggers such as sun, stress, fever, and illness. Episodic antiviral therapy works best when started at the first prodromal symptoms. Teaching focuses on early treatment, trigger reduction, not touching or opening lesions, hand hygiene, and avoiding direct contact and shared items while lesions are present, remembering that shedding can occur without visible lesions.",
-      "takeaway": "Cold sores: treat at the first tingle, protect lips from sun, don't pop, don't share, and remember the virus stays for life.",
-      "hintContent": "Recall where herpes simplex virus hides between outbreaks, what triggers reactivation, and when antivirals are most effective.",
-      "hintStrategy": "Judge each statement on its own as true or false. Be cautious with statements that describe the virus as gone or as contagious only at certain times."
-    },
-    {
-      "id": "m21a-012",
-      "cjmm": "Take Action",
-      "focus": "Delegation & Safety",
-      "hintContent": "Isolation for shingles depends on the client's immune status and on whether the lesions are localized or disseminated.",
-      "hintStrategy": "The key cue is the client's immune status. Decide whether this is the low-risk or high-risk shingles scenario before choosing precautions.",
-      "type": "mcq",
-      "topic": "infectious-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-      "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "stem": "A client receiving chemotherapy for leukemia develops a painful vesicular rash along one thoracic dermatome, and the provider diagnoses herpes zoster. Which action should the nurse take?",
-      "options": [
-        "Maintain standard precautions and keep the lesions covered with a dry dressing",
-        "Place the client on droplet precautions until the vesicles begin to crust",
-        "Place the client on airborne and contact precautions in a negative-pressure room",
-        "Use contact precautions only, because zoster is spread only by direct contact"
-      ],
-      "answer": 2,
-      "optionRationales": [
-        "Standard precautions with covered lesions is appropriate only for localized zoster in an immunocompetent client.",
-        "Varicella-zoster virus spreads through the air and by direct contact, not by droplets. Precautions last until all lesions are crusted, not just until crusting begins.",
-        "Correct. CDC guidance: any zoster in an immunocompromised client, or disseminated zoster in any client, needs airborne + contact precautions (negative-pressure room) until lesions are crusted or dissemination is ruled out, because the risk of dissemination and airborne spread is high.",
-        "VZV can also spread through the air, especially from immunocompromised or disseminated cases, so contact precautions alone are not enough here."
-      ],
-      "rationale": "Isolation for zoster depends on immune status and extent. Localized zoster in an immunocompetent client needs standard precautions with lesions covered. Immunocompromised or disseminated zoster needs airborne + contact precautions until all lesions are crusted.",
-      "takeaway": "Zoster + immunocompromised = airborne + contact, just like chickenpox."
-    },
-    {
-      "id": "m21a-013",
-      "cjmm": "Take Action",
-      "focus": "Delegation & Safety",
-      "hintContent": "Consider who is at risk of serious harm from varicella exposure and what counts as documented immunity.",
-      "hintStrategy": "This is an assignment question. Eliminate every staff member who would be endangered or would endanger others.",
-      "type": "mcq",
-      "topic": "infectious-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-      "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "stem": "The charge nurse is making assignments on a pediatric unit. A child with active varicella is admitted to an airborne isolation room. Which staff member is most appropriate to assign to this child?",
-      "options": [
-        "An RN who is 14 weeks pregnant and unsure of her varicella history",
-        "An RN who recently finished chemotherapy for breast cancer",
-        "A float LPN who has never had chickenpox or the varicella vaccine",
-        "An RN who had chickenpox as a child and has documented immunity"
-      ],
-      "answer": 3,
-      "optionRationales": [
-        "Pregnant staff without proven immunity should not care for varicella clients. Congenital varicella syndrome and severe maternal pneumonia are risks.",
-        "An immunocompromised nurse is at risk of severe or disseminated infection.",
-        "A non-immune staff member would be susceptible and could become infected and spread the virus.",
-        "Correct. Only staff with documented immunity (prior disease confirmed by titer or history, or 2 vaccine doses) should care for clients with varicella."
-      ],
-      "rationale": "Varicella is highly contagious by the airborne route. Assign staff with documented immunity. Pregnant, immunocompromised, or non-immune staff should not be exposed.",
-      "takeaway": "Varicella clients get immune caregivers only."
-    },
-    {
-      "id": "m21a-014",
-      "cjmm": "Take Action",
-      "focus": "Client Teaching",
-      "hintContent": "Permethrin works best on clean, cool skin, and eggs that hatch after the first treatment must also be killed.",
-      "hintStrategy": "Think chronologically: prepare the skin, apply, wait, remove and decontaminate, then retreat.",
-      "type": "order",
-      "topic": "infectious-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "stem": "The nurse is teaching a client how to apply permethrin 5% cream for scabies. Place the steps in the order the nurse should perform them.",
-      "options": [
-        "Bathe or shower, then let the skin cool and dry completely",
-        "Apply a thin layer from the neck to the soles, including between fingers and toes and under the nails",
-        "Leave the cream on for 8 to 14 hours (usually overnight)",
-        "Wash the cream off and put on clean clothes; launder bedding and clothing in hot water",
-        "Repeat the application in about 1 week as prescribed"
-      ],
-      "rationale": "Permethrin is applied to clean, cool, dry skin (warm skin increases absorption) from the neck down, including skin folds, finger webs, and under the nails. It stays on 8–14 hours, then is washed off. Clean clothing and hot-washed linens prevent reinfestation. A second application about 7 days later kills newly hatched mites. All close contacts are treated at the same time.",
-      "takeaway": "Scabies: cool dry skin → neck to soles → 8–14 hours → wash and launder → repeat in 1 week."
-    },
-    {
-      "id": "m21a-015",
-      "cjmm": "Generate Solutions",
-      "focus": "Client Teaching",
-      "hintContent": "Recall how lice spread and which household measures CDC and AAP actually recommend.",
-      "hintStrategy": "Watch for options that sound thorough but are not recommended, or that reduce the medication's effect.",
-      "type": "sata",
-      "topic": "infectious-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-      "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance",
-      "stem": "The school nurse is teaching the parents of a 7-year-old treated with permethrin 1% for head lice. Which instructions should the nurse include? Select all that apply.",
-      "options": [
-        "Use a fine-tooth nit comb on wet hair to remove nits",
-        "Wash bedding and hats in hot water and dry on high heat",
-        "Use a cream rinse or conditioner right before applying the lice treatment",
-        "Keep your child home from school until every nit is gone",
-        "Tell your child not to share combs, brushes, hats, or helmets",
-        "Spray the furniture and carpets with an insecticide fogger"
-      ],
-      "answer": [
-        0,
-        1,
-        4
-      ],
-      "optionRationales": [
-        "Correct. Combing wet hair with a nit comb removes nits and lice that survive treatment.",
-        "Correct. Hot water (≥130°F) and high-heat drying kill lice and nits on fabric. Non-washables can be sealed in a bag for 2 weeks.",
-        "Incorrect. Conditioner coats the hair and reduces how well the pediculicide sticks and works.",
-        "Incorrect. The AAP and CDC discourage “no-nit” policies. Children can return to school after the first treatment.",
-        "Correct. Lice spread by head-to-head contact and shared personal items.",
-        "Incorrect. Fumigant sprays and foggers are not recommended. They can be toxic, and lice don't survive long off the scalp. Vacuuming is enough."
-      ],
-      "rationale": "Lice care combines a pediculicide, mechanical nit removal, hot laundering or bagging of personal items, and not sharing items. Household insecticides and school exclusion until nit-free are not recommended.",
-      "takeaway": "Lice: treat, comb, hot-wash, don't share. No foggers and no conditioner first."
-    },
-    {
-      "id": "m21a-016",
-      "cjmm": "Analyze Cues",
-      "focus": "Assessment Findings",
-      "hintContent": "Match the lesion pattern (annular, scaly, central clearing, spreading by close contact) to a type of organism, then to the test that detects that organism.",
-      "hintStrategy": "First name the likely cause from the cues, then choose the test designed for that category.",
-      "type": "mcq",
-      "topic": "diagnostics-labs-nutrition",
-      "ref": "Module 21 · Tissue Integrity · Diagnostic Tests",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "A 16-year-old wrestler has a 3-cm scaly, ring-shaped patch with a raised border and central clearing on the forearm. Two teammates have similar lesions. Which diagnostic test should the nurse anticipate to confirm the most likely cause?",
-      "options": [
-        "Tzanck smear of the lesion base",
-        "Patch testing on the upper back",
-        "Potassium hydroxide (KOH) preparation",
-        "Punch biopsy of the lesion border"
-      ],
-      "answer": 2,
-      "optionRationales": [
-        "A Tzanck smear looks for multinucleated giant cells in herpes-virus vesicles.",
-        "Patch testing identifies type IV contact allergens.",
-        "Correct. KOH dissolves keratin in the skin scraping so fungal hyphae and spores can be seen under a microscope. It confirms tinea.",
-        "Biopsy is used to tell benign from malignant lesions. It is not the first test for a suspected fungal infection."
-      ],
-      "rationale": "An annular, scaly patch with central clearing that spreads among athletes in close contact suggests tinea corporis (tinea gladiatorum). Each skin test has a target. KOH detects fungus, Tzanck detects herpes viruses, patch testing detects contact allergy, Wood lamp shows fluorescence (some tinea, vitiligo), and biopsy detects neoplasm.",
-      "takeaway": "Ringworm → KOH."
-    },
-    {
-      "id": "m21a-017",
-      "cjmm": "Analyze Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "Compare immune-mediated vs non-immune contact dermatitis in timing, pattern, and prior exposure.",
-      "hintStrategy": "Use the rash's pattern and the history of long-term exposure to decide whether an immune or a non-immune process is involved.",
-      "type": "mcq",
-      "topic": "inflammatory-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "A client reports an itchy, red rash with small vesicles on the left wrist that is exactly the shape of the metal watch band she has worn for years. How should the nurse interpret this finding?",
-      "options": [
-        "Irritant contact dermatitis caused by sweat and soap trapped under the band",
-        "Allergic contact dermatitis, a delayed hypersensitivity reaction to nickel",
-        "Tinea corporis spread to the wrist from fungus living on the watch band",
-        "Atopic dermatitis triggered by the client's personal history of asthma"
-      ],
-      "answer": 1,
-      "optionRationales": [
-        "Irritant dermatitis is non-immune and usually causes diffuse dryness, burning, and cracking. It does not sharply outline an object.",
-        "Correct. A rash that exactly matches the shape of the allergen, with itching and vesicles after sensitization, is typical of allergic (type IV, T-cell-mediated) contact dermatitis. Nickel is a common cause.",
-        "Tinea forms an annular scaly patch with central clearing. It does not match an object's outline.",
-        "Atopic dermatitis typically affects flexural areas and is not shaped like a specific contact item."
-      ],
-      "rationale": "Allergic contact dermatitis needs prior sensitization, appears 24–72 hours after re-exposure, and takes the shape of the contact item. It is confirmed by patch testing and managed by avoidance and topical corticosteroids.",
-      "takeaway": "Rash in the shape of the object = allergic contact dermatitis."
-    },
-    {
-      "id": "m21a-018",
-      "cjmm": "Take Action",
-      "focus": "Delegation & Safety",
-      "hintContent": "Hives and wheezing indicate an IgE-mediated reaction. Think about cross-reactive foods and how latex exposure is controlled.",
-      "hintStrategy": "Evaluate each option. Be wary of choices that still involve latex, even if they sound like a reasonable compromise.",
-      "type": "sata",
-      "topic": "inflammatory-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Latex Allergy",
-      "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "stem": "A client with spina bifida is scheduled for surgery and reports hives and wheezing after a previous urinary catheterization. Which actions should the nurse take? Select all that apply.",
-      "options": [
-        "Ask whether the client has had reactions to bananas, avocados, or kiwi",
-        "Place a latex-allergy alert band on the client and signage on the door",
-        "Request that the client be scheduled as the first surgical case of the day",
-        "Use latex gloves but premedicate the client with diphenhydramine",
-        "Obtain nonlatex catheters, gloves, tourniquets, and blood pressure cuffs",
-        "Plan to use powder-free latex gloves because they are low risk"
-      ],
-      "answer": [
-        0,
-        1,
-        2,
-        4
-      ],
-      "optionRationales": [
-        "Correct. Latex-fruit syndrome (banana, avocado, kiwi, chestnut) is a common cross-reactivity and confirms sensitization.",
-        "Correct. Alerting all team members prevents accidental exposure.",
-        "Correct. The first case of the day lowers exposure to airborne latex particles left from earlier cases.",
-        "Incorrect. Premedication does not reliably prevent anaphylaxis. The only safe approach is avoiding latex completely.",
-        "Correct. A fully latex-free environment and supplies are needed for a client with a type I (IgE) reaction history.",
-        "Incorrect. Powder-free latex still contains latex proteins and can trigger anaphylaxis."
-      ],
-      "rationale": "Hives and wheezing indicate type I IgE-mediated latex allergy with anaphylaxis risk. Clients with spina bifida are high risk from repeated exposure. Management is complete latex avoidance, alerting the team, first-case scheduling, and asking about food cross-reactivity.",
-      "takeaway": "Latex allergy: avoid latex completely. Premedication and powder-free latex are not safe substitutes."
-    },
-    {
-      "id": "m21a-019",
-      "cjmm": "Generate Solutions",
-      "focus": "Client Teaching",
-      "hintContent": "Eczema comes from a defective skin barrier that loses water. Think about which actions hold moisture in and which strip it away.",
-      "hintStrategy": "Eliminate options that add heat, friction, or irritants. The remaining choice should protect the barrier.",
-      "type": "mcq",
-      "topic": "inflammatory-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-      "stem": "The nurse is teaching the parent of a 4-year-old with atopic dermatitis (eczema) on the antecubital and popliteal areas. Which instruction is most appropriate?",
-      "options": [
-        "Give a long, hot bath daily with a scented bubble bath to relax the child",
-        "Rub the skin briskly with a towel after bathing to remove loose scales",
-        "Apply a thick fragrance-free emollient within 3 minutes after patting dry",
-        "Dress the child in wool clothing during winter to keep the skin warm and dry"
-      ],
-      "answer": 2,
-      "optionRationales": [
-        "Hot water and fragrance strip lipids and irritate an already defective barrier.",
-        "Brisk rubbing causes friction and itching. Skin should be patted dry.",
-        "Correct. “Soak and seal”: applying emollient within 3 minutes of bathing traps water in the skin and restores the barrier. This is the foundation of eczema care.",
-        "Wool is a common irritant and itch trigger. Soft cotton is preferred."
-      ],
-      "rationale": "Atopic dermatitis comes from a defective skin barrier. Short lukewarm baths, mild cleansers, patting dry, and immediate emollients reduce flares. Avoid irritants like wool, fragrance, and heat.",
-      "takeaway": "Eczema: lukewarm soak, pat, seal within 3 minutes."
-    },
-    {
-      "id": "m21a-020",
-      "cjmm": "Take Action",
-      "focus": "Pharmacology",
-      "hintContent": "Biologic agents suppress parts of the immune system. Consider which dormant infection they can reactivate.",
-      "hintStrategy": "The stem asks what to verify BEFORE the first dose. Choose the safety screen, not a routine care item.",
-      "type": "mcq",
-      "topic": "inflammatory-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "stem": "A client with plaque psoriasis covering 20% of the body surface is to start a biologic agent (a TNF inhibitor). Which action should the nurse verify before the first dose?",
-      "options": [
-        "The client has received the live intranasal influenza vaccine this week",
-        "A tuberculosis screening test result is negative",
-        "The client has stopped all topical emollients",
-        "A skin biopsy of a plaque has been completed"
-      ],
-      "answer": 1,
-      "optionRationales": [
-        "Live vaccines are contraindicated during biologic therapy and should be given well before starting, not just before the first dose.",
-        "Correct. TNF inhibitors and other biologics suppress immunity and can reactivate latent TB. A negative TB test (IGRA or PPD) is required before starting.",
-        "Emollients remain an important add-on in psoriasis and don't need to be stopped.",
-        "A biopsy is not required when the clinical diagnosis of plaque psoriasis is clear."
-      ],
-      "rationale": "Biologic immunomodulators raise the risk of serious infection, especially latent TB reactivation. Screening for TB and hepatitis, and avoiding live vaccines, are key safety steps.",
-      "takeaway": "Before any biologic: TB test first."
-    },
-    {
-      "id": "m21a-021",
-      "cjmm": "Analyze Cues",
-      "focus": "Delegation & Safety",
-      "hintContent": "Differentiate contact dermatitis that needs prior sensitization from direct chemical injury to the skin.",
-      "hintStrategy": "Use the timing (first week) and the cause (repeated washing) to name the type, then choose the recommendation that keeps hand hygiene intact.",
-      "type": "dropdown",
-      "topic": "inflammatory-skin-disorders",
-      "ref": "Module 21 · Tissue Integrity · Contact Dermatitis",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-      "stem": "A newly hired nurse aide washes her hands with soap and water 40 to 50 times per shift. She now has dry, red, cracked, burning skin across the backs of both hands, which started within her first week. Complete the statement.",
-      "template": "These findings are most consistent with {0} contact dermatitis, which {1}. The nurse should recommend {2}.",
-      "blanks": [
-        {
-          "options": [
-            "allergic",
-            "irritant",
-            "atopic",
-            "seborrheic"
-          ],
-          "answer": 1
-        },
-        {
-          "options": [
-            "is a non-immune reaction from direct damage to the skin",
-            "requires prior sensitization to an antigen",
-            "is an IgE-mediated immediate reaction",
-            "is caused by a dermatophyte fungus"
-          ],
-          "answer": 0
-        },
-        {
-          "options": [
-            "switching to hot water to remove residue",
-            "using alcohol-based hand rub when hands are not visibly soiled and applying facility-approved moisturizer",
-            "wearing latex gloves for all tasks",
-            "skipping hand hygiene between clients until healed"
-          ],
-          "answer": 1
-        }
-      ],
-      "rationale": "Frequent soap and water damages the skin barrier directly without an immune process. This is irritant contact dermatitis, which can occur without prior sensitization. Alcohol-based rubs with emollients are less damaging than repeated washing. Regular moisturizing restores the barrier, and hand hygiene must never be skipped.",
-      "takeaway": "Frequent washing + chapped hands = irritant dermatitis. Use alcohol rub plus moisturizer."
-    },
-    {
-      "id": "m21a-022",
-      "cjmm": "Generate Solutions",
-      "focus": "Lifespan & Diversity",
-      "hintContent": "Melanoma subtypes differ in where they tend to appear. Recall the subtype that is most common in people with darker skin.",
-      "hintStrategy": "Eliminate responses containing a false absolute or a false reassurance, then choose the one that is specific and accurate.",
-      "type": "mcq",
-      "topic": "skin-cancer-sun-protection",
-      "ref": "Module 21 · Tissue Integrity · Neoplastic Disorders",
-      "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance",
-      "stem": "A 34-year-old client with dark skin asks where to focus a monthly skin self-examination for melanoma. Which response is most accurate?",
-      "options": [
-        "“Check your palms, the soles of your feet, and under your nails for new dark spots.”",
-        "“Focus mainly on your face, ears, and neck, because those areas get the most sun.”",
-        "“Darker skin can't develop melanoma, so you only need to check for new moles once a year.”",
-        "“Check only the areas that itch, since melanoma nearly always causes itching first.”"
-      ],
-      "answer": 0,
-      "optionRationales": [
-        "Correct. Acral lentiginous melanoma, the most common melanoma subtype in people with darker skin, appears on the palms, soles, and nail beds (a new dark streak in the nail).",
-        "Sun-exposed areas matter, but in darker skin melanoma often appears on areas that get little sun, so limiting the exam to the face, ears, and neck would miss it.",
-        "People with dark skin do get melanoma, and it is often diagnosed later and at a more advanced stage.",
-        "Melanoma is often painless and not itchy. Relying on itching would delay detection."
-      ],
-      "rationale": "All skin tones need skin self-examination and sun protection. In darker skin, melanoma is disproportionately acral, so teaching must include the palms, soles, nail beds, and mucous membranes.",
-      "takeaway": "Dark skin: check palms, soles, and nails for melanoma."
-    },
-    {
-      "id": "m21a-023",
-      "cjmm": "Generate Solutions",
-      "focus": "Client Teaching",
-      "hintContent": "Recall AAD recommendations on SPF, reapplication, peak UV hours, and self-examination.",
-      "hintStrategy": "Evaluate each statement as true or false. Watch for common myths about tanning and cloudy days.",
-      "type": "sata",
-      "topic": "skin-cancer-sun-protection",
-      "ref": "Module 21 · Tissue Integrity · Health Promotion & Prevention",
-      "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance",
-      "stem": "The nurse is teaching a group of lifeguards about preventing skin cancer. Which statements should the nurse include? Select all that apply.",
-      "options": [
-        "“Use a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher.”",
-        "“Water-resistant sunscreen lasts all day, so reapply it only if you towel off.”",
-        "“A base tan from a tanning bed before summer will protect you from burns.”",
-        "“Sunscreen is only necessary on sunny days when you can feel the heat.”",
-        "“Wear a wide-brimmed hat and UV-blocking sunglasses, and seek shade between 10 a.m. and 4 p.m.”",
-        "“Examine your skin monthly and report any mole that is changing in size, shape, or color.”"
-      ],
-      "answer": [
-        0,
-        4,
-        5
-      ],
-      "optionRationales": [
-        "Correct. The AAD recommends broad-spectrum (UVA/UVB), water-resistant SPF ≥30.",
-        "Incorrect. Water resistance lasts only 40 or 80 minutes. Sunscreen should be reapplied at least every 2 hours and right after swimming, sweating, or towel drying.",
-        "Incorrect. Tanning beds increase melanoma risk, and there is no safe “base tan.”",
-        "Incorrect. UV rays penetrate clouds and cause damage regardless of heat.",
-        "Correct. Physical barriers and avoiding peak UV hours reduce exposure.",
-        "Correct. Monthly self-exam finds evolving lesions (the E in ABCDE) early."
-      ],
-      "rationale": "Sun protection combines broad-spectrum sunscreen (SPF ≥30, reapplied at least every 2 hours and after water), shade, clothing, hats, sunglasses, avoiding tanning beds, and regular skin self-exams. Common myths (base tans, cloudy-day safety, all-day water resistance) need correcting.",
-      "takeaway": "SPF 30+, reapply every 2 hours, shade from 10 to 4, no tanning beds, check monthly."
-    },
-    {
-      "id": "m21a-024",
-      "type": "mcq",
-      "topic": "skin-cancer-sun-protection",
-      "ref": "Module 21 · Tissue Integrity · Neoplastic Disorders",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "cjmm": "Generate Solutions",
-      "focus": "Client Teaching",
-      "stem": "A 68-year-old client had a basal cell carcinoma removed from the forearm by shave excision this morning. The site is covered with a pressure dressing. Which discharge instruction should the nurse include?",
-      "options": [
-        "“Clean the site twice a day with hydrogen peroxide to prevent infection.”",
-        "“Leave the site uncovered so that a dry scab can form over the wound.”",
-        "“You can skip sunscreen on this arm now that the cancer has been removed.”",
-        "“After the first day, wash gently, then apply petrolatum and a clean bandage.”"
-      ],
-      "answer": 3,
-      "optionRationales": [
-        "Hydrogen peroxide is cytotoxic to fibroblasts and new epithelial cells and delays healing. Gentle soap and water is enough.",
-        "A dry scab slows the migration of epithelial cells. A moist, covered wound heals faster with less scarring.",
-        "A person who has had one basal cell carcinoma is at high risk for another skin cancer. Sun protection and regular skin checks must continue for life.",
-        "Correct. After the initial dressing is removed (usually 24–48 hours), gentle daily washing, a thin layer of petrolatum, and a clean bandage keep the wound moist and protected, which promotes healing and reduces scarring."
-      ],
-      "rationale": "Wounds left after skin cancer excision heal best in a clean, moist, covered environment. Teaching includes gentle daily cleansing, petrolatum and a bandage, avoiding harsh antiseptics, reporting signs of infection (spreading redness, warmth, purulent drainage, fever) or bleeding, and lifelong sun protection and skin surveillance because the risk of a new skin cancer is high.",
-      "takeaway": "After skin cancer excision: gentle wash, petrolatum, cover, and keep up sun protection for life.",
-      "hintContent": "Recall the principle of moist wound healing and what one skin cancer means for the client's future risk.",
-      "hintStrategy": "Evaluate each instruction for whether it supports healing and long-term safety. Eliminate options that damage new tissue or stop protective habits."
-    },
-    {
-      "id": "m21a-025",
-      "cjmm": "Prioritize Hypotheses",
-      "focus": "Prioritization",
-      "hintContent": "Most skin changes in pregnancy are expected hormonal effects. Recall which third-trimester finding reflects a problem in another organ system that can threaten the fetus.",
-      "hintStrategy": "Three options are expected findings. Look for the one whose timing and location point to a systemic problem.",
-      "type": "mcq",
-      "topic": "lifespan-skin",
-      "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Pregnancy",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "Four clients at a prenatal clinic report skin changes. Which client should the nurse report to the provider first?",
-      "options": [
-        "A client at 20 weeks with a dark vertical line from the umbilicus to the pubis",
-        "A client at 24 weeks with blotchy brown patches on the forehead and upper lip",
-        "A client at 34 weeks with intense itching of the palms and soles and no rash",
-        "A client at 30 weeks with pink-purple streaks on the abdomen, hips, and breasts"
-      ],
-      "answer": 2,
-      "optionRationales": [
-        "Linea nigra is an expected hormonal hyperpigmentation of pregnancy.",
-        "Melasma (chloasma) is expected. Teach sun protection, since it darkens with UV exposure.",
-        "Correct. Generalized itching that is worst on the palms and soles in the third trimester, without a primary rash, suggests intrahepatic cholestasis of pregnancy. It needs serum bile acids and LFTs and carries a risk of stillbirth.",
-        "Striae gravidarum are expected stretch marks from skin stretching and hormonal effects on collagen."
-      ],
-      "rationale": "Most pregnancy skin changes (linea nigra, melasma, striae, spider angiomas, mild pruritus, atopic eruption of pregnancy) are benign. Intense palm and sole itching late in pregnancy without a rash is the exception. It points to cholestasis, which threatens the fetus.",
-      "takeaway": "Late-pregnancy itching of the palms and soles with no rash = think cholestasis and report it."
-    },
-    {
-      "id": "m21a-026",
-      "cjmm": "Analyze Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "CDC classes rise with the degree of contamination: no tract entered → controlled entry → spillage or fresh trauma → existing infection.",
-      "hintStrategy": "Identify the cues showing that infection was already present before the incision was made.",
-      "type": "mcq",
-      "topic": "wound-types-classification",
-      "ref": "Module 21 · Tissue Integrity · Wound Classification by Contamination",
-      "difficulty": 2,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "stem": "A client has emergency surgery for a ruptured appendix with purulent peritonitis. Using the CDC surgical wound classification, how is this wound classified?",
-      "options": [
-        "Class I – Clean",
-        "Class II – Clean-contaminated",
-        "Class III – Contaminated",
-        "Class IV – Dirty/Infected"
-      ],
-      "answer": 3,
-      "optionRationales": [
-        "Clean wounds have no inflammation and no entry into the GI, respiratory, genital, or urinary tract.",
-        "Clean-contaminated means controlled entry into a tract without infection, such as removing a non-inflamed appendix.",
-        "Contaminated covers fresh accidental wounds, major breaks in sterile technique, or GI spillage with non-purulent inflammation.",
-        "Correct. Existing clinical infection (pus) or perforated viscera makes the wound dirty/infected. The organisms were present before surgery, and the infection risk is highest."
-      ],
-      "rationale": "CDC wound class reflects contamination and predicts surgical site infection risk. Perforation and pus = Class IV Dirty/Infected. Expect antibiotics and possibly delayed primary closure.",
-      "takeaway": "Pus or perforation = Class IV dirty."
-    },
-    {
-      "id": "m21a-027",
-      "cjmm": "Analyze Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "Recall how the CDC classes treat controlled entry into a body tract compared with fresh accidental wounds.",
-      "hintStrategy": "Classify each client separately, then compare the classes to decide infection risk.",
-      "type": "dropdown",
-      "topic": "wound-types-classification",
-      "ref": "Module 21 · Tissue Integrity · Wound Classification by Contamination",
-      "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-      "stem": "The nurse is reviewing two surgical clients. Client A had an elective colon resection with controlled entry into the prepped bowel and no spillage. Client B had repair of a laceration from a dog bite sustained 2 hours earlier. Complete the statement.",
-      "template": "Client A's wound is classified as {0}, and Client B's wound is classified as {1}. The client at higher risk for surgical site infection is {2}.",
-      "blanks": [
-        {
-          "options": [
-            "clean",
-            "clean-contaminated",
-            "contaminated",
-            "dirty/infected"
-          ],
-          "answer": 1
-        },
-        {
-          "options": [
-            "clean",
-            "clean-contaminated",
-            "contaminated",
-            "dirty/infected"
-          ],
-          "answer": 2
-        },
-        {
-          "options": [
-            "Client A",
-            "Client B",
-            "neither; both carry equal risk"
-          ],
-          "answer": 1
-        }
-      ],
-      "rationale": "Controlled entry into the GI tract without unusual contamination is Class II clean-contaminated. An open, fresh, accidental wound such as a recent bite is Class III contaminated. The higher the class, the higher the SSI risk, so Client B needs closer infection monitoring (and tetanus and rabies assessment).",
-      "takeaway": "Controlled tract entry = II. Fresh accidental wound = III. Higher class = higher infection risk."
-    },
-    {
-      "id": "m21a-028",
-      "cjmm": "Take Action",
-      "focus": "Nursing Interventions",
-      "hintContent": "Hemorrhage control comes before infection control in acute wound care.",
-      "hintStrategy": "Ask: what protects the nurse, what stops the bleeding, and what can only happen once bleeding is controlled?",
-      "type": "order",
-      "topic": "wound-types-classification",
-      "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "A client arrives at urgent care with a 5-cm laceration on the forearm that is bleeding steadily. Place the steps in the order the nurse should perform them.",
-      "options": [
-        "Perform hand hygiene and put on clean gloves",
-        "Apply firm, direct pressure over the wound with sterile gauze",
-        "Elevate the arm above the level of the heart while maintaining pressure",
-        "Once bleeding is controlled, irrigate the wound with normal saline",
-        "Cover the wound with a sterile dressing and verify tetanus immunization status"
-      ],
-      "rationale": "Protect yourself first (standard precautions), then control hemorrhage with direct pressure, the most effective first step, and add elevation. Only after bleeding is controlled should the wound be irrigated to lower the bacterial load, then covered. Tetanus status is checked for any open, unintentional wound. Keep assessing for shock (tachycardia, clammy skin, hypotension) throughout.",
-      "takeaway": "Gloves → pressure → elevate → irrigate → dress and check tetanus."
-    },
-    {
-      "id": "m21a-029",
-      "cjmm": "Analyze Cues",
-      "focus": "Pathophysiology",
-      "hintContent": "Consider which structures remain in the wound bed after partial vs full-thickness loss, and how each heals.",
-      "hintStrategy": "The client is asking about scarring. Choose the option that links wound depth to the healing mechanism.",
-      "type": "mcq",
-      "topic": "wound-types-classification",
-      "ref": "Module 21 · Tissue Integrity · Wound Classification by Depth",
-      "difficulty": 1,
-      "clientNeed": "Physiological Integrity: Physiological Adaptation",
-      "stem": "A client asks why the scraped knee from a bike fall healed without a scar but the deep cut from a glass injury left one. What is the best explanation by the nurse?",
-      "options": [
-        "“The scrape was partial thickness, so the same tissue was able to grow back.”",
-        "“The scrape healed faster because it was an intentional, controlled wound.”",
-        "“The cut was a closed wound, so the tissue under it could not regenerate.”",
-        "“Scars form only when a wound becomes infected during the healing process.”"
-      ],
-      "answer": 0,
-      "optionRationales": [
-        "Correct. Partial-thickness wounds keep dermal appendages that regenerate epithelium with minimal scarring. Full-thickness wounds heal by connective tissue (scar) repair.",
-        "A bike fall is an unintentional wound, and intent does not decide scarring.",
-        "A cut through the skin is an open wound. Depth, not open vs closed, decides scarring.",
-        "Full-thickness wounds scar even without infection. Infection can make scarring worse."
-      ],
-      "rationale": "Depth decides healing: partial-thickness loss (epidermis ± part of dermis) regenerates, while full-thickness loss (all skin layers ± deeper) needs connective tissue repair and leaves a scar.",
-      "takeaway": "Partial-thickness regenerates. Full-thickness scars."
-    },
-    {
-      "id": "m21a-030",
-      "cjmm": "Analyze Cues",
-      "focus": "Assessment Findings",
-      "hintContent": "Wound healing depends on oxygen delivery, immune defense, clotting, and nutrition. Recall the normal range for each lab listed.",
-      "hintStrategy": "Compare every value with its normal range. The cues about poor intake point toward one abnormal value.",
-      "type": "mcq",
-      "topic": "diagnostics-labs-nutrition",
-      "ref": "Module 21 · Tissue Integrity · Laboratory Data – Wound Healing",
-      "difficulty": 3,
-      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "A 78-year-old client is 10 days post hip surgery. The incision edges are pale with minimal granulation, and the client eats about 25% of meals. Vital signs are stable and afebrile. Which lab result should the nurse identify as most likely contributing to the delayed healing?",
-      "options": [
-        "Albumin 2.6 g/dL",
-        "Hemoglobin 13.8 g/dL",
-        "WBC 8,200/mm³",
-        "Platelets 245,000/mm³"
-      ],
-      "answer": 0,
-      "optionRationales": [
-        "Correct. Albumin <3.5 g/dL indicates poor protein and nutritional status. It increases infection risk and delays collagen formation and wound healing.",
-        "This hemoglobin is normal and supports adequate oxygen delivery to tissues.",
-        "This WBC is within normal limits and shows adequate infection defense.",
-        "This platelet count is normal and supports hemostasis."
-      ],
-      "rationale": "Wound healing depends on adequate protein, oxygen (Hgb), immune defense (WBC), and clotting. Only the albumin is abnormal. The nurse should notify the provider and request a dietitian consult for a high-protein, high-calorie plan.",
-      "takeaway": "Albumin <3.5 g/dL = healing at risk."
-    },
-    {
-      "id": "m21a-031",
-      "cjmm": "Generate Solutions",
-      "focus": "Nursing Interventions",
-      "hintContent": "Healing tissue needs extra energy, protein, specific vitamins and minerals, and hydration.",
-      "hintStrategy": "Evaluate each option separately. Eliminate any restriction that would deprive healing tissue.",
-      "type": "sata",
-      "topic": "diagnostics-labs-nutrition",
-      "ref": "Module 21 · Tissue Integrity · Infection Prevention, Exercise, & Nutrition",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-      "stem": "A client with a healing leg wound has a prealbumin of 11 mg/dL and a poor appetite. Which dietary recommendations should the nurse make? Select all that apply.",
-      "options": [
-        "Include lean protein such as eggs, poultry, fish, or dairy at each meal",
-        "Add citrus fruits and vegetables rich in vitamin C",
-        "Limit fluids to reduce wound drainage",
-        "Offer small, frequent meals and oral nutritional supplements",
-        "Follow a low-calorie diet to promote circulation",
-        "Take a high-dose zinc supplement daily even if zinc levels are normal"
-      ],
-      "answer": [
-        0,
-        1,
-        3
-      ],
-      "optionRationales": [
-        "Correct. Protein supplies amino acids for collagen and tissue repair. Needs rise with wounds.",
-        "Correct. Vitamin C is required for collagen synthesis.",
-        "Incorrect. Adequate hydration is needed for perfusion and tissue repair. Restricting fluids impairs healing.",
-        "Correct. Small, frequent meals and supplements increase total intake when appetite is poor.",
-        "Incorrect. Healing tissue needs more calories. Calorie restriction leads to breakdown of body protein.",
-        "Incorrect. Zinc supplementation helps healing only when a deficiency exists. Routine high doses are not recommended and can interfere with copper absorption. Food sources of zinc and vitamin A are encouraged instead."
-      ],
-      "rationale": "A prealbumin below about 15 mg/dL suggests recent protein malnutrition. Healing needs more calories, protein, vitamins A and C, and fluids. Small frequent meals, supplements, and a dietitian referral help when appetite is poor. Micronutrient supplements such as zinc are given for a documented deficiency, not routinely.",
-      "takeaway": "Wounds need calories, protein, vitamins A and C, zinc, and fluids."
-    },
-    {
-      "id": "m21a-032",
-      "cjmm": "Evaluate Outcomes",
-      "focus": "Pharmacology",
-      "hintContent": "Isotretinoin is highly teratogenic and is managed through a REMS program with specific timelines for contraception.",
-      "hintStrategy": "This is a negatively worded item. You are looking for the INCORRECT statement that shows a need for more teaching.",
-      "type": "mcq",
-      "topic": "skin-therapies-pharm",
-      "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
-      "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "stem": "A 19-year-old client is starting isotretinoin for severe nodular acne. Which statement by the client indicates a need for further teaching?",
-      "options": [
-        "“I'll use two forms of birth control starting a month before treatment.”",
-        "“I won't donate blood while I'm taking this medication.”",
-        "“I can stop using birth control as soon as I take my last capsule.”",
-        "“I'll tell my provider if I start feeling depressed or hopeless.”"
-      ],
-      "answer": 2,
-      "optionRationales": [
-        "This is correct. The iPLEDGE program requires two forms of contraception (or committed abstinence) starting 1 month before therapy.",
-        "This is correct. Donated blood could reach a pregnant recipient. No donation during therapy or for 1 month after.",
-        "Correct choice because the statement is wrong. Contraception must continue for 1 month after the last dose because isotretinoin is highly teratogenic.",
-        "This is correct. Depression and suicidal thoughts have been reported and must be reported right away."
-      ],
-      "rationale": "Isotretinoin causes severe birth defects and is available only through the iPLEDGE REMS program. Clients who can become pregnant need two forms of contraception from 1 month before through 1 month after therapy, plus pregnancy testing, no blood donation, and monitoring of mood, lipids, and liver function.",
-      "takeaway": "Isotretinoin: contraception from 1 month before until 1 month after."
-    },
-    {
-      "id": "m21a-033",
-      "cjmm": "Take Action",
-      "focus": "Pharmacology",
-      "hintContent": "Think about the rights of medication administration, protecting the nurse, and how occlusion affects topical absorption.",
-      "hintStrategy": "Sequence from safety checks → preparation → application → finishing steps.",
-      "type": "order",
-      "topic": "skin-therapies-pharm",
-      "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
-      "difficulty": 1,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "stem": "The nurse is applying a prescribed topical corticosteroid cream to a client's eczematous plaques. Place the steps in the order the nurse should perform them.",
-      "options": [
-        "Verify the order, identify the client with two identifiers, and perform hand hygiene",
-        "Put on clean gloves",
-        "Gently cleanse the area to remove the previous medication and pat dry",
-        "Apply a thin layer of cream, rubbing gently in the direction of hair growth",
-        "Leave the area uncovered unless an occlusive dressing is prescribed, then remove gloves and perform hand hygiene"
-      ],
-      "rationale": "Safe topical application follows the rights of medication administration and hand hygiene. Gloves protect the nurse from absorbing the drug. Removing old medication prevents buildup. A thin layer rubbed in the direction of hair growth reduces folliculitis. Occlusion increases absorption and adverse effects (atrophy, systemic effects), so use it only when ordered.",
-      "takeaway": "Topical steroid: clean, thin layer, no occlusion unless ordered."
-    },
-    {
-      "id": "m21a-034",
-      "cjmm": "Recognize Cues",
-      "focus": "Lifespan & Diversity",
-      "hintContent": "Review benign newborn skin findings and the timing rule for physiologic vs pathologic jaundice.",
-      "hintStrategy": "For each row, look for a timing or location cue that makes a usually common finding abnormal.",
-      "type": "matrix",
-      "topic": "lifespan-skin",
-      "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Infants and Children",
-      "difficulty": 2,
-      "clientNeed": "Health Promotion and Maintenance",
-      "stem": "The nurse is assessing several newborns in the nursery. For each finding, indicate whether it is expected or unexpected (requires follow-up).",
-      "rows": [
-        "Tiny white papules on the nose and chin of a 1-day-old",
-        "Blotchy red macules with pale yellow centers on the trunk of a 2-day-old",
-        "Blue-gray patches over the sacrum of an infant with dark skin",
-        "Yellow skin and sclera noted 12 hours after birth",
-        "A flat, dark-red port-wine stain over the forehead and eyelid"
-      ],
-      "columns": [
-        "Expected",
-        "Unexpected"
-      ],
-      "answer": [
-        0,
-        0,
-        0,
-        1,
-        1
-      ],
-      "optionRationales": [
-        "Expected. Milia are blocked sebaceous glands that resolve on their own.",
-        "Expected. Erythema toxicum is benign, appears at 24–72 hours, and needs no treatment.",
-        "Expected. Congenital dermal melanocytosis (Mongolian spots) is common in darker-skinned infants. Document it so it isn't mistaken for bruising.",
-        "Unexpected. Jaundice in the first 24 hours is pathologic (for example, hemolytic disease) and needs a bilirubin level and prompt evaluation.",
-        "Unexpected. A port-wine stain in the trigeminal (forehead/eyelid) area can be linked to Sturge-Weber syndrome (seizures, glaucoma) and needs evaluation."
-      ],
-      "rationale": "Normal newborn skin findings include vernix, milia, erythema toxicum, acrocyanosis, Mongolian spots, and stork bites. Jaundice before 24 hours and facial port-wine stains in the trigeminal distribution need follow-up.",
-      "takeaway": "Milia, erythema toxicum, and Mongolian spots are normal. Jaundice before 24 hours is not."
-    },
-    {
-      "id": "m21a-035",
-      "cjmm": "Generate Solutions",
-      "focus": "Delegation & Safety",
-      "hintContent": "Aging skin has a thinner dermis, fragile vessels, and fewer oil glands, so it tears with friction and adhesives.",
-      "hintStrategy": "Judge each instruction for the UAP. Would it reduce friction, shear, dryness, or trauma, or add to them?",
-      "type": "sata",
-      "topic": "lifespan-skin",
-      "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Older Adults",
-      "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "stem": "The RN is instructing a UAP caring for an 86-year-old client with thin, fragile skin and senile purpura on both forearms. Which instructions are appropriate? Select all that apply.",
-      "options": [
-        "Use a draw sheet with a second person to reposition the client in bed",
-        "Bathe with lukewarm water and a mild cleanser, then pat the skin dry",
-        "Dress the client in short sleeves so any new bruising is easy to see",
-        "Secure dressings with standard adhesive tape so they stay in place",
-        "Scrub the skin vigorously to stimulate circulation",
-        "Pad the bed rails and wheelchair arms"
-      ],
-      "answer": [
-        0,
-        1,
-        5
-      ],
-      "optionRationales": [
-        "Correct. Lifting with a draw sheet prevents friction and shear, which cause skin tears.",
-        "Correct. Hot water and harsh soap strip the oils older skin can't replace. Pat, don't rub.",
-        "Incorrect. Long sleeves, pants, or limb protectors add a protective layer against bumps and skin tears. New bruising is checked during routine skin care, not by leaving fragile skin exposed.",
-        "Incorrect. Standard adhesive tape can tear fragile skin when removed. Use silicone tape, paper tape, or tubular/gauze retention instead.",
-        "Incorrect. Vigorous friction damages thin, fragile skin.",
-        "Correct. Padding prevents bumps that cause skin tears and purpura."
-      ],
-      "rationale": "Aging skin is thin and dry, with fragile vessels and less fat, which puts older adults at high risk for skin tears. Gentle bathing, lifting devices, padding, protective clothing, and avoiding adhesives protect tissue integrity. These routine care tasks can be delegated to a UAP with clear instructions.",
-      "takeaway": "Fragile older skin: lift, don't drag. Pat, don't rub. Pad, don't tape."
+     "heading": "Parasitic: lice and scabies",
+     "bullets": [
+      "<strong>Lice</strong>: itching, with nits attached to hair shafts near the scalp. Treat with an <strong>OTC pediculicide</strong> used exactly as labeled (no conditioner right before), comb out nits with a fine-tooth comb, wash bedding and hats in hot water and dry on high heat (or bag items that can't be washed), recheck the hair, and <strong>don't share combs, brushes, or hats</strong>. Insecticide sprays are not needed.",
+      "<strong>Scabies</strong> (a mite): intense itching, often worse at night, with small burrows in the finger webs and wrists. It spreads by close contact, so use <strong>contact precautions</strong>, treat the client and close contacts at the same time, and wash recently used bedding and clothing in hot water (or bag it)."
+     ]
     }
-  ]
+   ],
+   "pearls": [
+    "Chickenpox: airborne + contact until ALL lesions are crusted. Assign only staff with documented immunity.",
+    "No aspirin for children with chickenpox or other viral illnesses (Reye syndrome).",
+    "Fungal infections are more dangerous in immunocompromised clients.",
+    "Lice and scabies spread through shared items and close contact. Teach clients not to share combs, hats, or towels."
+   ],
+   "redFlags": [
+    "Any skin infection with fever and rapidly spreading redness, swelling, or drainage",
+    "A fungal skin infection in an immunocompromised client"
+   ]
+  },
+  {
+   "id": "inflammatory-skin-disorders",
+   "title": "Inflammatory Disorders & Allergy",
+   "exemplar": null,
+   "summary": "Acne, eczema, burns, psoriasis, and dermatitis are inflammatory skin disorders. Many are itchy and visible, and they affect comfort, sleep, and self-image.",
+   "sections": [
+    {
+     "heading": "Contact dermatitis",
+     "bullets": [
+      "<strong>Allergic contact dermatitis</strong>: an immune (delayed) reaction to an allergen the client has met before. The rash appears <strong>at the allergen site</strong>, may form <strong>vesicles or wheals</strong>, and is <strong>shaped like the item</strong> (a watchband, a jeans snap from nickel, streaks from poison ivy). Common allergens include metals, poison plants, latex, dyes, and perfumes. Confirm with <strong>patch testing</strong>.",
+      "<strong>Irritant contact dermatitis</strong>: direct damage from <strong>chemicals, soaps, or detergents</strong>. It is <strong>not immune-related</strong>, so it can occur on first exposure. The skin is red, dry, cracked, and burning where it was exposed.",
+      "<strong>Age considerations</strong>: <strong>infants</strong> have the strongest irritant response (for example, diaper dermatitis), <strong>adults</strong> have most allergic contact dermatitis, and <strong>older adults</strong> have slower, less intense reactions.",
+      "<strong>Care</strong>: identify and avoid the trigger, wash the skin after exposure, use cool compresses and moisturizers, and give prescribed topical corticosteroids and antihistamines for itching."
+     ]
+    },
+    {
+     "heading": "Atopic dermatitis (eczema)",
+     "body": "A chronic, relapsing, very itchy inflammation caused by a weak skin barrier that loses moisture. In darker skin it may look darker brown, purple, or gray rather than red. Care: short lukewarm baths, a mild fragrance-free cleanser, <strong>pat dry and apply a thick moisturizer right away</strong>, cotton clothing, short nails, and avoiding triggers such as wool, fragrance, and heat. Prescription topical medicines treat flares. Scratching can lead to infection."
+    },
+    {
+     "heading": "Psoriasis",
+     "body": "A <strong>chronic</strong> immune-related disorder in which skin cells build up too quickly, forming well-defined <strong>red plaques with silvery-white scale</strong>, often on the elbows, knees, and scalp. In darker skin, plaques may look violet or dark brown with gray scale. There is no cure, so treatment (prescription topical and oral medicines) aims for <strong>remission</strong>. Teach the client to moisturize, avoid injuring or scratching the skin, and manage stress."
+    },
+    {
+     "heading": "Acne",
+     "body": "Puberty hormones increase <strong>sebum</strong> and sweating, so clogged follicles and bacteria produce comedones, papules, and pustules. Acne affects about 50 million Americans each year, including about <strong>85% of people aged 12–24</strong>. Teach the client to wash gently twice a day, not pick or squeeze, and use non-comedogenic products. Darker skin is prone to dark spots after acne heals, so early treatment matters."
+    }
+   ],
+   "table": {
+    "caption": "Allergic vs irritant contact dermatitis",
+    "headers": [
+     "Feature",
+     "Allergic",
+     "Irritant"
+    ],
+    "rows": [
+     [
+      "Cause",
+      "Immune reaction to an allergen",
+      "Direct damage from chemicals, soap, detergent; not immune-related"
+     ],
+     [
+      "Prior exposure needed?",
+      "Yes (sensitization)",
+      "No; can occur on first exposure"
+     ],
+     [
+      "Pattern",
+      "At the allergen site, shaped like the item; itchy vesicles or wheals",
+      "Red, dry, cracked, burning skin where exposed"
+     ],
+     [
+      "Examples",
+      "Nickel jewelry, poison ivy, latex, dyes, perfumes",
+      "Frequent hand washing, detergents, urine and stool on diapered skin"
+     ],
+     [
+      "Most affected age group",
+      "Adults",
+      "Infants (strongest irritant response)"
+     ],
+     [
+      "Test",
+      "Patch test",
+      "History of exposure"
+     ]
+    ]
+   },
+   "pearls": [
+    "A rash in the exact shape of a watch, ring, or jeans button suggests allergic contact dermatitis.",
+    "Eczema: lukewarm bath, pat dry, moisturize right away.",
+    "Chronic disorders such as psoriasis are controlled (remission), not cured.",
+    "Poison ivy rash is not spread by blister fluid. Wash the plant oil off the skin, clothing, and tools."
+   ],
+   "redFlags": [
+    "Hives with wheezing, hoarseness, or throat tightness after an allergen exposure (airway involvement)",
+    "Scratched eczema or dermatitis that becomes red, warm, swollen, or starts draining pus (secondary infection)"
+   ]
+  },
+  {
+   "id": "skin-cancer-sun-protection",
+   "title": "Skin Cancer, Screening & Prevention",
+   "exemplar": null,
+   "summary": "Skin cancer is the most common cancer in the U.S. Many skin disorders, including most skin cancer, can be prevented or caught early with simple measures.",
+   "sections": [
+    {
+     "heading": "Neoplastic (cancerous) disorders",
+     "bullets": [
+      "<strong>Basal cell carcinoma</strong>: the most common type. Often a pearly or waxy bump on sun-exposed skin that may bleed or not heal. It grows slowly and rarely spreads.",
+      "<strong>Squamous cell carcinoma</strong>: a rough, scaly, crusted bump or sore on sun-exposed skin (face, lips, ears, hands). It can spread. Rough, scaly sun-damage patches (actinic keratoses) can become squamous cell carcinoma.",
+      "<strong>Malignant melanoma</strong>: the <strong>most serious</strong> type. It arises from pigment cells and can spread early. Teach the ABCDE warning signs: <strong>A</strong>symmetry, irregular <strong>B</strong>order, varied <strong>C</strong>olor, <strong>D</strong>iameter larger than about 6 mm, and <strong>E</strong>volving (changing). Any changing mole should be checked, whatever its size."
+     ]
+    },
+    {
+     "heading": "Risk factors",
+     "bullets": [
+      "<strong>Genetics and family history</strong> increase risk (for example, a parent with melanoma).",
+      "<strong>Lighter skin</strong> has a higher risk of UV damage, and blistering sunburns add risk. Clients with darker skin can still get skin cancer, so <strong>all clients are at risk regardless of skin tone</strong>.",
+      "<strong>Extrinsic aging</strong> from UV, smoking, pollution, and chemicals causes precancerous changes.",
+      "Some <strong>medications</strong> (steroids, antibiotics such as doxycycline, chemotherapy, antifungals) may thin the skin or <strong>increase sun sensitivity</strong>."
+     ]
+    },
+    {
+     "heading": "Health promotion and modifiable risk factors",
+     "bullets": [
+      "<strong>Sun protection</strong>: sunscreen (broad-spectrum, SPF 30 or higher, reapplied about every 2 hours and after swimming or sweating), hats, protective clothing, and shade. Avoid tanning beds.",
+      "Keep skin <strong>clean, dry, and moisturized</strong>. Avoid <strong>excessive cleansing</strong>, which dries the skin, and use moisturizers regularly.",
+      "<strong>Cover and care for wounds</strong> to reduce infection risk.",
+      "<strong>Avoid irritants and allergens</strong>: chemicals, dyes, perfumes, poison plants, latex, and metals.",
+      "<strong>Don't share personal items</strong> such as combs and hats.",
+      "Special groups: <strong>children</strong> need proper diaper care with frequent changes; <strong>chronic illness</strong> (diabetes, HIV/AIDS, obesity, poor circulation) increases risk; <strong>poor nutrition</strong> causes skin changes and delayed healing."
+     ]
+    },
+    {
+     "heading": "Skin screenings",
+     "bullets": [
+      "<strong>Self-examinations</strong> help clients learn what their normal skin looks like and recognize changes early. Focus on <strong>sun-exposed areas</strong> (face, neck, ears, scalp, arms, legs) and also check the <strong>trunk, chest, and feet</strong>. Use mirrors or a partner for hard-to-see areas.",
+      "<strong>Professional exams</strong>: a full skin inspection by a dermatologist or provider, which may include biopsy, cultures, or patch testing."
+     ]
+    }
+   ],
+   "pearls": [
+    "Basal cell carcinoma is the most common skin cancer. Melanoma is the most serious.",
+    "“E” (evolving) matters most: report any mole that is changing, even if it is small.",
+    "Sun protection is for every skin tone.",
+    "Clients on photosensitizing medicines (for example, doxycycline) need extra sun protection."
+   ],
+   "redFlags": [
+    "A mole that is changing, bleeding, or meets the ABCDE criteria. Refer for evaluation and biopsy.",
+    "A sore or scaly, crusted spot that bleeds or doesn't heal"
+   ]
+  },
+  {
+   "id": "wound-types-classification",
+   "title": "Wound Types & Classification",
+   "exemplar": null,
+   "summary": "Classifying a wound by cause, skin integrity, contamination, and depth predicts infection risk and shapes acute wound care.",
+   "sections": [
+    {
+     "heading": "Types of wounds",
+     "bullets": [
+      "<strong>Intentional</strong> wounds are created for therapy: surgery, venipuncture.",
+      "<strong>Unintentional</strong> wounds are accidental: fractures, lacerations.",
+      "<strong>Closed</strong> wounds: the skin is intact but the tissue underneath is injured (contusion). They can still hide bleeding and swelling.",
+      "<strong>Open</strong> wounds: the skin or mucous membrane is broken, which gives microorganisms a way in."
+     ]
+    },
+    {
+     "heading": "Classification by contamination",
+     "bullets": [
+      "<strong>Clean</strong>: closed, no infection, sterile environment maintained (for example, a hernia repair).",
+      "<strong>Clean-contaminated</strong>: a <strong>controlled</strong> surgical entry into the GI, GU, or respiratory tract (for example, an elective bowel or gallbladder surgery).",
+      "<strong>Contaminated</strong>: an <strong>open, fresh</strong> accidental wound, a <strong>major break</strong> in sterile technique, spillage from the GI tract, or inflammation present.",
+      "<strong>Dirty/Infected</strong>: <strong>purulent drainage, dead tissue</strong>, or a clinical infection already present (for example, an old traumatic wound with pus, or a ruptured appendix)."
+     ]
+    },
+    {
+     "heading": "Classification by depth",
+     "bullets": [
+      "<strong>Partial-thickness</strong>: loss of the epidermis and part of the dermis. Heals by <strong>regeneration</strong>, usually with little or no scar.",
+      "<strong>Full-thickness</strong>: loss of all skin layers, possibly extending to muscle or bone. Requires <strong>connective tissue repair</strong> and leaves a scar."
+     ]
+    },
+    {
+     "heading": "Wound care in acute settings",
+     "body": "<strong>Untreated wounds</strong>:",
+     "bullets": [
+      "<strong>Control bleeding</strong>: after hand hygiene and gloves, apply firm <strong>direct pressure</strong> and <strong>elevate</strong>.",
+      "<strong>Prevent infection</strong>: once bleeding is controlled, <strong>clean with normal saline</strong> and <strong>cover with a dressing</strong>.",
+      "<strong>Manage pain and swelling</strong>: apply <strong>ice</strong> (wrapped in a cloth, not directly on the skin).",
+      "<strong>Assess for shock</strong>: <strong>rapid pulse, cool clammy skin, low BP</strong>, restlessness. Report these right away.",
+      "<strong>Treated wounds</strong>: at each dressing change, monitor healing and check for drainage, pain, and signs of infection (increasing redness, warmth, swelling, purulent drainage, odor, fever)."
+     ]
+    }
+   ],
+   "table": {
+    "caption": "Wound classification by contamination",
+    "headers": [
+     "Class",
+     "Key feature",
+     "Infection risk"
+    ],
+    "rows": [
+     [
+      "Clean",
+      "No GI, GU, or respiratory tract entered; no infection; sterile technique maintained",
+      "Lowest"
+     ],
+     [
+      "Clean-contaminated",
+      "GI, GU, or respiratory tract entered under controlled conditions",
+      "Low–moderate"
+     ],
+     [
+      "Contaminated",
+      "Open, fresh accidental wound; major sterile break; spillage; inflammation",
+      "Moderate–high"
+     ],
+     [
+      "Dirty/Infected",
+      "Purulent drainage, dead tissue, clinical infection present",
+      "Highest"
+     ]
+    ]
+   },
+   "pearls": [
+    "Tract entered on purpose and under control = clean-contaminated. A fresh accident or spillage = contaminated. Pus or dead tissue already there = dirty/infected.",
+    "Pressure and elevation first. Clean and cover only after bleeding is controlled.",
+    "Partial-thickness wounds regenerate. Full-thickness wounds scar."
+   ],
+   "redFlags": [
+    "Bleeding that soaks through dressings despite direct pressure, or signs of shock (rapid pulse, clammy skin, low BP)",
+    "A closed wound (contusion) with tense, enlarging swelling, especially in a client taking an anticoagulant"
+   ]
+  },
+  {
+   "id": "diagnostics-labs-nutrition",
+   "title": "Diagnostics, Labs & Nursing Care",
+   "exemplar": null,
+   "summary": "The right test identifies the cause of a skin problem. Labs, nutrition, hygiene, and infection prevention decide whether tissue can heal.",
+   "sections": [
+    {
+     "heading": "Diagnostic tests",
+     "bullets": [
+      "<strong>Skin biopsy</strong>: identifies whether a lesion is <strong>benign or cancerous</strong>. Afterward, keep the site clean and covered and watch for bleeding and signs of infection.",
+      "<strong>Cultures</strong> of tissue, drainage, exudate, or serum identify infection and guide antibiotic choice. Collect them <strong>before</strong> the first antibiotic dose when possible.",
+      "<strong>KOH prep</strong>: detects <strong>fungal</strong> infection (for example, tinea).",
+      "<strong>Tzanck test</strong>: tests <strong>viral</strong> lesions (vesicles from herpes viruses).",
+      "<strong>Wood lamp exam</strong>: an ultraviolet (black light) exam in a darkened room. Some fungal infections and pigment loss show up under the light. The skin should be free of lotions and makeup.",
+      "<strong>Immunofluorescence studies</strong>: detect antibodies in skin samples (used for some autoimmune skin diseases).",
+      "<strong>Allergy tests</strong>: <strong>scratch</strong>, <strong>intradermal</strong>, and <strong>patch</strong> tests. Patch tests (for contact allergy) stay on and dry for about 48 hours, and the skin is read again a few days later because the reaction is delayed.",
+      "<strong>Carrier studies</strong>: <strong>nasal cultures</strong> for clients with <strong>repeated infections</strong>, to see whether they carry the bacteria (for example, Staphylococcus aureus)."
+     ]
+    },
+    {
+     "heading": "Laboratory data and wound healing",
+     "bullets": [
+      "<strong>WBC ↓</strong>: poor infection defense and delayed healing. A low WBC can also hide the usual signs of infection.",
+      "<strong>Hemoglobin ↓</strong>: less oxygen delivered to the tissues.",
+      "<strong>Coagulation studies</strong>: prolonged times → excessive bleeding. Hypercoagulability → clotting and poor wound perfusion.",
+      "<strong>Albumin less than 3.5 g/dL</strong>: poor nutrition, ↑ risk of infection and delayed healing.",
+      "<strong>Wound cultures</strong>: confirm infection and guide antibiotic choice.",
+      "Chronic illness such as <strong>diabetes</strong> also slows healing, so high blood glucose in a client with a wound needs follow-up."
+     ]
+    },
+    {
+     "heading": "Independent nursing interventions",
+     "bullets": [
+      "Goals: <strong>control disease, prevent infection, and promote healing</strong>.",
+      "Assess <strong>home remedies</strong>, because some may hinder healing.",
+      "Hygiene: <strong>adults bathe daily</strong>; <strong>children and older adults every other day</strong>. Avoid harsh soap and use mild or liquid cleansers. <strong>Moisturize after bathing.</strong>",
+      "Teach comfort and skin-protection strategies."
+     ]
+    },
+    {
+     "heading": "Infection prevention, exercise, and nutrition",
+     "bullets": [
+      "Infection prevention: proper wound cleaning and dressing, <strong>hand hygiene before and after wound care</strong>, <strong>safe disposal of soiled dressings</strong>, and teaching the signs of infection (<strong>redness, swelling, drainage, necrosis</strong>).",
+      "<strong>Exercise</strong> promotes blood flow and helps prevent pressure injuries.",
+      "<strong>Nutrition</strong> supports healing: ↑ <strong>calories, protein, and vitamins A and C</strong>. Encourage whole grains, vegetables, citrus, dairy, and lean proteins. Offer <strong>small frequent meals or supplements</strong> if intake is poor, and consult the dietitian."
+     ]
+    }
+   ],
+   "table": {
+    "caption": "Matching the test to the question",
+    "headers": [
+     "Test",
+     "What it looks for",
+     "Example"
+    ],
+    "rows": [
+     [
+      "Skin biopsy",
+      "Benign vs cancerous tissue",
+      "Changing mole, pearly bump that bleeds"
+     ],
+     [
+      "Culture",
+      "Organism causing infection; guides antibiotics",
+      "Wound with purulent drainage"
+     ],
+     [
+      "KOH prep",
+      "Fungus",
+      "Ring-shaped scaly patch, athlete's foot"
+     ],
+     [
+      "Tzanck test",
+      "Viral (herpes-type) vesicles",
+      "Cluster of painful vesicles"
+     ],
+     [
+      "Wood lamp",
+      "Fluorescence under UV light",
+      "Some fungal infections, pigment loss"
+     ],
+     [
+      "Patch test",
+      "Contact allergy",
+      "Recurrent hand dermatitis at work"
+     ],
+     [
+      "Nasal culture (carrier study)",
+      "Carrier state",
+      "Repeated boils or skin infections"
+     ]
+    ]
+   },
+   "pearls": [
+    "Albumin less than 3.5 g/dL = risk for infection and delayed healing.",
+    "Get the culture before the first antibiotic dose.",
+    "KOH = fungus. Tzanck = virus. Patch test = contact allergy. Biopsy = cancer.",
+    "Hand hygiene before AND after wound care, and dispose of soiled dressings safely."
+   ],
+   "redFlags": [
+    "A client with a wound, albumin less than 3.5 g/dL, and poor intake needs a dietitian referral and a nutrition plan now.",
+    "Fever, spreading redness, purulent drainage, or new odor from a wound",
+    "Bleeding from a wound in a client with prolonged clotting times"
+   ]
+  },
+  {
+   "id": "skin-therapies-pharm",
+   "title": "Pharmacologic & Collaborative Therapy",
+   "exemplar": null,
+   "summary": "Skin care is a team effort. Most skin medicines are topical, and safe use depends on applying them correctly and watching for irritation and interactions.",
+   "sections": [
+    {
+     "heading": "Collaborative therapies",
+     "body": "An interprofessional team improves outcomes through better communication and fewer complications. Key members include nurses, UAPs, wound care nurses, case managers, health care providers, dermatologists, oncologists, and surgeons."
+    },
+    {
+     "heading": "Pharmacologic therapy",
+     "bullets": [
+      "<strong>OTC medicines</strong> treat minor acne, lice, and sunburn.",
+      "<strong>Benzoyl peroxide</strong>: the <strong>first-line acne treatment</strong>. It <strong>kills bacteria and unplugs ducts</strong>. Expect some dryness and peeling; start with a thin layer, use gently, and know that it can <strong>bleach towels, clothing, and hair</strong>.",
+      "<strong>Salicylic acid</strong>: <strong>exfoliates</strong> (removes dead skin cells) and <strong>reduces inflammation</strong>.",
+      "<strong>Prescription medicines</strong> (oral and topical) treat <strong>eczema, psoriasis, and dermatitis</strong>. Topical corticosteroids are common: apply a <strong>thin layer</strong> with gloves, don't cover with an occlusive dressing unless prescribed, and avoid stronger products on the face and skin folds. Long-term use can thin the skin.",
+      "<strong>Skin tone differences</strong>: darker skin is more prone to inflammation and may need combination therapy (for example, chemical peels, microdermabrasion)."
+     ]
+    },
+    {
+     "heading": "Nonpharmacologic therapy",
+     "bullets": [
+      "Proper wound care, dressing changes, and nutrition.",
+      "<strong>Burns</strong>: daily debridement and sterile dressings.",
+      "<strong>Pressure injuries</strong>: care varies by stage and facility protocol.",
+      "<strong>Severe wounds</strong>: <strong>negative pressure wound therapy</strong> (vacuum devices)."
+     ]
+    },
+    {
+     "heading": "Complementary approaches",
+     "body": "<strong>Aloe vera, chamomile, and evening primrose oil</strong> may soothe irritation and promote healing, but the <strong>evidence is limited</strong>. Ask every client about them, and <strong>monitor for drug interactions and allergies</strong>. For example, evening primrose oil may add to the bleeding risk of anticoagulants, and a product that burns or stings should be stopped."
+    }
+   ],
+   "table": {
+    "caption": "Common skin therapies",
+    "headers": [
+     "Therapy",
+     "Used for",
+     "Key teaching"
+    ],
+    "rows": [
+     [
+      "Benzoyl peroxide (OTC)",
+      "First-line acne treatment",
+      "Kills bacteria, unplugs ducts; dryness expected; bleaches fabric"
+     ],
+     [
+      "Salicylic acid (OTC)",
+      "Acne",
+      "Exfoliates and reduces inflammation"
+     ],
+     [
+      "OTC pediculicide",
+      "Lice",
+      "Use exactly as labeled; comb out nits; recheck hair"
+     ],
+     [
+      "Prescription topical/oral medicines (e.g., topical corticosteroids)",
+      "Eczema, psoriasis, dermatitis",
+      "Thin layer; no occlusion unless ordered; report skin thinning"
+     ],
+     [
+      "Negative pressure wound therapy",
+      "Severe wounds",
+      "Vacuum device applied per protocol"
+     ],
+     [
+      "Aloe vera, chamomile, evening primrose oil",
+      "Soothing irritated skin",
+      "Limited evidence; check for allergies and drug interactions"
+     ]
+    ]
+   },
+   "pearls": [
+    "Benzoyl peroxide kills bacteria and unplugs ducts. Salicylic acid exfoliates and reduces inflammation.",
+    "Topical corticosteroid: a thin layer only, and no occlusion unless ordered.",
+    "Always ask about complementary products. “Natural” does not mean free of interactions."
+   ],
+   "redFlags": [
+    "Thin, shiny, easily bruised skin where a topical steroid has been used for a long time",
+    "A complementary product used together with an anticoagulant, or one that causes burning, rash, or swelling"
+   ]
+  },
+  {
+   "id": "lifespan-skin",
+   "title": "Tissue Integrity Across the Lifespan",
+   "exemplar": null,
+   "summary": "Newborns, children, adolescents, pregnant clients, and older adults each have expected skin findings. The nurse knows which ones are normal and which need follow-up.",
+   "sections": [
+    {
+     "heading": "Newborns",
+     "bullets": [
+      "<strong>Vernix caseosa</strong> is a white, cheesy coating that protects the skin. It doesn't need to be scrubbed off.",
+      "<strong>Thinner skin</strong> means more <strong>heat loss</strong> and a higher risk of <strong>absorbing</strong> products put on the skin, so use products sparingly.",
+      "Common, harmless findings: <strong>milia</strong> (tiny white bumps on the nose and chin), <strong>neonatal acne</strong>, <strong>erythema toxicum</strong> (blotchy red spots with small pale-yellow or white centers that come and go and fade on their own), and <strong>birthmarks</strong> (for example, blue-gray patches over the lower back and buttocks in darker-skinned infants, which should be documented so they aren't mistaken for bruises)."
+     ]
+    },
+    {
+     "heading": "Children",
+     "body": "Children have a <strong>larger body surface area</strong>, so they lose more fluid and heat. Common infections are <strong>fungal (tinea)</strong>, <strong>viral (warts, varicella)</strong>, and <strong>parasitic (lice, scabies)</strong>. Other conditions: <strong>fifth disease</strong> (bright red “slapped cheek” rash, then a lacy rash on the arms and legs), <strong>roseola</strong> (several days of high fever, then a rash as the fever breaks), and <strong>pityriasis rosea</strong> (one larger oval “herald patch,” then smaller oval patches on the trunk). Diaper care: change diapers often and keep the skin clean and dry."
+    },
+    {
+     "heading": "Adolescents",
+     "body": "Puberty hormones increase <strong>sebum and sweating</strong>. Common disorders are <strong>acne, dermatitis, psoriasis, fungal infections, and warts</strong>. Skin problems strongly affect body image, so address feelings as well as treatment."
+    },
+    {
+     "heading": "Pregnancy",
+     "body": "Common changes are <strong>hyperpigmentation</strong> (for example, a dark line down the abdomen and darker patches on the face), <strong>stretch marks</strong>, and <strong>pruritus</strong> (itching). <strong>Atopic eruption of pregnancy (AEP)</strong> is an itchy, eczema-like rash that <strong>resolves after delivery</strong>."
+    },
+    {
+     "heading": "Older adults and the aging process",
+     "bullets": [
+      "<strong>Intrinsic aging</strong> starts at about age 20: slower exfoliation, ↓ moisture, ↓ fat cells. In the 30s skin becomes dull and thin; in the 40s ↓ collagen causes wrinkles; after <strong>menopause</strong>, ↓ estrogen makes skin thinner and drier.",
+      "<strong>Extrinsic aging</strong> comes from <strong>UV, pollution, smoking, and chemicals</strong> and causes skin thickening, <strong>precancerous changes</strong>, and wrinkling.",
+      "Normal changes: thinner, less elastic skin; wrinkles and sagging; slower healing; <strong>↓ sebaceous glands → dry skin</strong>; <strong>↓ subcutaneous fat → less cushioning and poor temperature regulation</strong>; paler, translucent skin (fewer melanocytes); age spots; fragile vessels (<strong>senile purpura</strong>); fat loss in the face and hands with gain in the thighs and abdomen.",
+      "Functional changes: <strong>↓ sensation, ↑ healing time, ↑ injury risk, ↓ temperature regulation</strong>.",
+      "Nursing care: bathe every other day with lukewarm water and a mild cleanser, pat dry, and moisturize; lift with a draw sheet rather than dragging; pad bed rails and wheelchair arms; avoid adhesive tape on fragile skin; long sleeves protect the arms."
+     ]
+    }
+   ],
+   "pearls": [
+    "Vernix, milia, neonatal acne, and erythema toxicum are expected newborn findings. Reassure the parents.",
+    "Newborn skin absorbs products easily and loses heat quickly.",
+    "Pregnancy: hyperpigmentation, stretch marks, and itching are common; AEP resolves after delivery.",
+    "Older adults: no hot water, no vigorous rubbing, no adhesive tape on fragile skin, and never drag the client up in bed."
+   ],
+   "redFlags": [
+    "Bruises in different stages of healing in protected areas (inner arms, trunk) that don't match the history, at any age",
+    "A newborn or child whose rash comes with fever, poor feeding, or lethargy"
+   ]
+  }
+ ],
+ "flashcards": [
+  {
+   "topic": "skin-structure-function",
+   "front": "Which skin layer contains blood vessels, nerve endings, and sweat and oil glands?",
+   "back": "The <strong>dermis</strong>, the “working layer.” The epidermis has no blood vessels."
+  },
+  {
+   "topic": "skin-structure-function",
+   "front": "Name five functions of the skin.",
+   "back": "Protection (microorganisms and trauma), sensation, temperature regulation, removing toxins through sweat, and <strong>vitamin D synthesis</strong> from UV light."
+  },
+  {
+   "topic": "skin-structure-function",
+   "front": "What does the subcutaneous tissue do?",
+   "back": "Stores about <strong>half of the body's fat</strong>, insulates and cushions, and anchors skin to underlying structures. It is not technically skin."
+  },
+  {
+   "topic": "skin-assessment-lesions",
+   "front": "Where do you assess pallor, cyanosis, and jaundice in a client with dark skin?",
+   "back": "Pallor: looks <strong>yellow-brown or ashen gray</strong>. Cyanosis: <strong>nail beds, lips, buccal mucosa</strong>. Jaundice: <strong>palms and soles</strong>, not just the sclera."
+  },
+  {
+   "topic": "skin-assessment-lesions",
+   "front": "How do you detect inflammation or early pressure damage in darker skin?",
+   "back": "Look for <strong>darker, taut, shiny, or indurated</strong> areas. Check <strong>temperature, edema, and induration</strong>. Moistening the skin may help reveal changes."
+  },
+  {
+   "topic": "skin-assessment-lesions",
+   "front": "Primary vs secondary lesion?",
+   "back": "<strong>Primary</strong> arises from normal skin (macule, papule, nodule, vesicle, pustule, bulla, wheal). <strong>Secondary</strong> develops from a primary lesion or trauma (crust, scale, scar, keloid, fissure, ulcer, erosion)."
+  },
+  {
+   "topic": "skin-assessment-lesions",
+   "front": "Acute vs chronic skin disorders?",
+   "back": "<strong>Acute</strong>: short-term, situational (bacterial infection, dermatitis); reduce inflammation, avoid triggers. <strong>Chronic</strong>: long-term or lifelong; treatment = <strong>remission, not cure</strong>."
+  },
+  {
+   "topic": "infectious-skin-disorders",
+   "front": "Give an example of each type of infectious skin disorder.",
+   "back": "Bacterial → <strong>impetigo</strong>. Fungal → <strong>athlete's foot</strong>. Viral → <strong>chickenpox</strong>. Parasitic → <strong>lice</strong>."
+  },
+  {
+   "topic": "infectious-skin-disorders",
+   "front": "Honey-colored crusts around a child's nose and mouth?",
+   "back": "<strong>Impetigo</strong> (bacterial). Contact precautions, gently wash crusts off, give the prescribed antibiotic, don't share towels, and keep nails short."
+  },
+  {
+   "topic": "infectious-skin-disorders",
+   "front": "Isolation for chickenpox?",
+   "back": "<strong>Airborne + contact</strong> until <strong>all lesions are crusted</strong>. Assign only staff with documented immunity. No aspirin for children (Reye syndrome)."
+  },
+  {
+   "topic": "infectious-skin-disorders",
+   "front": "Which clients are most endangered by fungal skin infections?",
+   "back": "<strong>Immunocompromised</strong> clients (for example, those receiving chemotherapy or with HIV/AIDS)."
+  },
+  {
+   "topic": "inflammatory-skin-disorders",
+   "front": "Allergic vs irritant contact dermatitis?",
+   "back": "<strong>Allergic</strong>: immune reaction at the allergen site, shaped like the item, with vesicles or wheals; mostly adults; patch test. <strong>Irritant</strong>: chemicals, soap, detergent; not immune-related; strongest in infants."
+  },
+  {
+   "topic": "inflammatory-skin-disorders",
+   "front": "Classic psoriasis lesion and treatment goal?",
+   "back": "Well-defined red plaques with <strong>silvery-white scale</strong> on the elbows, knees, and scalp. It is chronic, so the goal is <strong>remission, not cure</strong>."
+  },
+  {
+   "topic": "inflammatory-skin-disorders",
+   "front": "Bathing and skin care for eczema?",
+   "back": "Short <strong>lukewarm</strong> bath, mild fragrance-free cleanser, <strong>pat dry and moisturize right away</strong>. Avoid wool, fragrance, and heat."
+  },
+  {
+   "topic": "skin-cancer-sun-protection",
+   "front": "Name the three neoplastic skin disorders. Which is most serious?",
+   "back": "Basal cell carcinoma (most common), squamous cell carcinoma, and <strong>malignant melanoma (most serious)</strong>."
+  },
+  {
+   "topic": "skin-cancer-sun-protection",
+   "front": "ABCDE of melanoma?",
+   "back": "<strong>A</strong>symmetry, <strong>B</strong>order irregular, <strong>C</strong>olor variation, <strong>D</strong>iameter larger than about 6 mm, <strong>E</strong>volving (any change)."
+  },
+  {
+   "topic": "skin-cancer-sun-protection",
+   "front": "Where should a skin self-exam focus?",
+   "back": "<strong>Sun-exposed areas</strong> (face, neck, ears, scalp, arms, legs), plus the <strong>trunk, chest, and feet</strong>."
+  },
+  {
+   "topic": "skin-cancer-sun-protection",
+   "front": "Key preventive measures for skin disorders?",
+   "back": "Sun protection (sunscreen, hats, protective clothing), proper hygiene and skin care, keep skin clean, dry, and moisturized, avoid irritants and allergens, and don't share personal items."
+  },
+  {
+   "topic": "wound-types-classification",
+   "front": "The 4 wound classes by contamination?",
+   "back": "<strong>Clean</strong> (no tract entered, sterile), <strong>Clean-contaminated</strong> (controlled entry into GI, GU, or respiratory tract), <strong>Contaminated</strong> (open, fresh, major sterile break, spillage), <strong>Dirty/Infected</strong> (pus, dead tissue, clinical infection)."
+  },
+  {
+   "topic": "wound-types-classification",
+   "front": "Intentional vs unintentional? Closed vs open?",
+   "back": "<strong>Intentional</strong>: created for therapy (surgery, venipuncture). <strong>Unintentional</strong>: accidental. <strong>Closed</strong>: skin intact, tissue injured (contusion). <strong>Open</strong>: skin or mucous membrane broken."
+  },
+  {
+   "topic": "wound-types-classification",
+   "front": "Partial vs full-thickness healing?",
+   "back": "<strong>Partial</strong> (epidermis and part of dermis) heals by <strong>regeneration</strong>. <strong>Full</strong> (all skin layers, may reach muscle or bone) needs <strong>connective tissue repair</strong>."
+  },
+  {
+   "topic": "wound-types-classification",
+   "front": "Acute care for an untreated wound?",
+   "back": "<strong>Pressure and elevate</strong> to control bleeding → clean with <strong>saline</strong> and cover → <strong>ice</strong> for pain and swelling → assess for <strong>shock</strong> (rapid pulse, clammy skin, low BP)."
+  },
+  {
+   "topic": "diagnostics-labs-nutrition",
+   "front": "Albumin value that signals risk for delayed healing?",
+   "back": "<strong>Less than 3.5 g/dL</strong>: poor nutrition, ↑ infection risk, delayed healing."
+  },
+  {
+   "topic": "diagnostics-labs-nutrition",
+   "front": "KOH prep, Tzanck test, patch test, biopsy: what does each detect?",
+   "back": "<strong>KOH</strong>: fungus. <strong>Tzanck</strong>: viral lesions. <strong>Patch test</strong>: contact allergy. <strong>Biopsy</strong>: benign vs cancerous."
+  },
+  {
+   "topic": "diagnostics-labs-nutrition",
+   "front": "How do WBC, hemoglobin, and coagulation results affect healing?",
+   "back": "↓ <strong>WBC</strong>: poor infection defense. ↓ <strong>Hemoglobin</strong>: less oxygen to tissue. <strong>Prolonged clotting</strong>: bleeding; <strong>hypercoagulability</strong>: clotting and poor perfusion."
+  },
+  {
+   "topic": "diagnostics-labs-nutrition",
+   "front": "Nutrients that support tissue repair?",
+   "back": "↑ <strong>Calories and protein</strong>, <strong>vitamins A and C</strong>. Whole grains, vegetables, citrus, dairy, lean proteins; small frequent meals or supplements if needed."
+  },
+  {
+   "topic": "skin-therapies-pharm",
+   "front": "Benzoyl peroxide vs salicylic acid?",
+   "back": "<strong>Benzoyl peroxide</strong>: first-line acne treatment; kills bacteria and unplugs ducts. <strong>Salicylic acid</strong>: exfoliates and reduces inflammation."
+  },
+  {
+   "topic": "skin-therapies-pharm",
+   "front": "How to apply a topical corticosteroid?",
+   "back": "<strong>Thin layer</strong> with gloves, no occlusion unless ordered, avoid stronger products on the face and skin folds. Long-term use can thin the skin."
+  },
+  {
+   "topic": "skin-therapies-pharm",
+   "front": "Complementary skin therapies and the nurse's role?",
+   "back": "<strong>Aloe vera, chamomile, evening primrose oil</strong> may soothe irritation, but evidence is limited. Ask about use and <strong>monitor for drug interactions and allergies</strong>."
+  },
+  {
+   "topic": "lifespan-skin",
+   "front": "Expected newborn skin findings?",
+   "back": "<strong>Vernix caseosa</strong>, <strong>milia</strong>, <strong>neonatal acne</strong>, <strong>erythema toxicum</strong>, and birthmarks. Thin skin → heat loss and ↑ absorption."
+  },
+  {
+   "topic": "lifespan-skin",
+   "front": "Intrinsic vs extrinsic aging?",
+   "back": "<strong>Intrinsic</strong>: natural, starts about age 20 (↓ moisture, ↓ fat, ↓ collagen in the 40s, thinner after menopause). <strong>Extrinsic</strong>: UV, pollution, smoking, chemicals → thickening, precancerous changes, wrinkles."
+  },
+  {
+   "topic": "lifespan-skin",
+   "front": "Why bathe older adults every other day with lukewarm water?",
+   "back": "↓ Sebaceous glands → dry, fragile skin. Frequent hot bathing strips oils and causes dryness, itching, and skin tears."
+  }
+ ],
+ "questions": [
+  {
+   "id": "m21a-001",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall which skin layer is avascular and which layer holds the blood vessels and nerve endings.",
+   "hintStrategy": "Two cues in the stem, bleeding and pain, each point to a structure. Find the only layer that contains both.",
+   "type": "mcq",
+   "topic": "skin-structure-function",
+   "ref": "Module 21 · Tissue Integrity · Layers of the Skin",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client has a superficial abrasion that is oozing small amounts of blood and is painful to touch. The nurse recognizes that the injury has reached which skin layer?",
+   "options": [
+    "The stratum corneum of the epidermis only",
+    "The dermis, which contains blood vessels and nerve endings",
+    "The subcutaneous layer, which stores adipose tissue",
+    "The basal layer of the epidermis, which contains capillaries"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "The stratum corneum is dead keratinized cells with no vessels or nerves, so injury limited to it would not bleed or hurt.",
+    "Correct. The epidermis is avascular. Bleeding and pain mean the injury has reached the dermis, where the blood vessels and sensory nerve endings are.",
+    "The subcutaneous layer is fat and connective tissue. A superficial abrasion does not usually reach it.",
+    "The basal layer has no capillaries. The epidermis is nourished by diffusion from the dermis."
+   ],
+   "rationale": "The epidermis contains no blood vessels. Any wound that bleeds has reached at least the dermis, the “working layer” that holds vessels, nerves, glands, and hair follicles.",
+   "takeaway": "If it bleeds, it has reached the dermis."
+  },
+  {
+   "id": "m21a-002",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Think about what intact skin prevents minute to minute: microbial entry and evaporative water and heat loss.",
+   "hintStrategy": "This is a priority item. Rank options by Maslow and ABCs. Physiological threats to circulation outrank psychosocial or long-term concerns.",
+   "type": "mcq",
+   "topic": "skin-structure-function",
+   "ref": "Module 21 · Tissue Integrity · Functions of the Skin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client is admitted after losing a large area of epidermis and dermis over the back and legs. Based on the normal functions of the skin, which nursing problem is the priority?",
+   "options": [
+    "Impaired vitamin D synthesis from reduced UV absorption in the damaged skin",
+    "Disturbed body image related to visible skin loss on the back and legs",
+    "Decreased tactile sensation and pain perception over the affected areas",
+    "Fluid volume deficit and infection from loss of the protective barrier"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Vitamin D synthesis is a real skin function, but losing it is not an immediate threat to life.",
+    "Body image matters, but psychosocial needs come after physiological threats.",
+    "Loss of sensation is a safety concern, but it is less urgent than fluid loss and infection.",
+    "Correct. The skin is the barrier against microorganisms and evaporative water loss. Large skin loss quickly leads to fluid loss, heat loss, and infection, which threaten circulation and life."
+   ],
+   "rationale": "Protection (from infection and fluid loss) and thermoregulation are the skin functions whose loss threatens life. Maslow and ABC priorities place physiological threats, especially circulation and fluid volume, above psychosocial and long-term concerns.",
+   "takeaway": "Large skin loss = fluid loss + infection + heat loss. These are the immediate threats."
+  },
+  {
+   "id": "m21a-003",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall where melanocytes, nerve endings, sebaceous glands, and fat stores are located, and what each one does.",
+   "hintStrategy": "For each row, name the function that is failing first (insulation? sensation? oil? pigment? cushioning?), then match that function to its layer.",
+   "type": "matrix",
+   "topic": "skin-structure-function",
+   "ref": "Module 21 · Tissue Integrity · Layers of the Skin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "An 84-year-old client in a long-term care facility has the following findings. For each finding, identify the skin layer whose age-related change best explains it.",
+   "rows": [
+    "Reports feeling cold in a 72°F (22°C) room and needs extra blankets",
+    "Did not notice a burn from a heating pad left on the lower back",
+    "Has very dry, flaky, itchy skin on the shins",
+    "Skin appears paler and more translucent than in earlier photos",
+    "Has little cushioning over the sacrum and heels"
+   ],
+   "columns": [
+    "Epidermis",
+    "Dermis",
+    "Subcutaneous tissue"
+   ],
+   "answer": [
+    2,
+    1,
+    1,
+    0,
+    2
+   ],
+   "optionRationales": [
+    "Subcutaneous tissue. Loss of subcutaneous fat reduces insulation, so older adults lose heat easily and are at risk for hypothermia.",
+    "Dermis. Sensory nerve endings sit in the dermis. Reduced sensation with aging raises the risk of burns and injury.",
+    "Dermis. Sebaceous and sweat glands live in the dermis. Reduced sebum causes xerosis (dry, itchy skin).",
+    "Epidermis. Melanocytes sit in the basal epidermis. Fewer melanocytes with aging cause paler, translucent skin and less UV protection.",
+    "Subcutaneous tissue. The hypodermis cushions bony prominences. Its loss increases pressure injury risk."
+   ],
+   "rationale": "Relating findings to structure lets the nurse predict risk. The epidermis holds the melanocytes. The dermis holds the nerves and glands, so its changes cause reduced sensation and dry skin. Loss of subcutaneous fat reduces insulation and cushioning.",
+   "takeaway": "Aging skin: fewer melanocytes (epidermis), less sensation and oil (dermis), less fat (subcutaneous)."
+  },
+  {
+   "id": "m21a-004",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Color changes are easiest to see where melanin is sparse.",
+   "hintStrategy": "Central cyanosis reflects oxygenation of arterial blood. Choose a site that is both central and minimally pigmented.",
+   "type": "mcq",
+   "topic": "skin-assessment-lesions",
+   "ref": "Module 21 · Tissue Integrity · Cultural Considerations in Skin Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client with deeply pigmented skin and a COPD exacerbation has an SpO2 of 86% on 2 L/min nasal cannula and is increasingly short of breath. The nurse wants to assess for central cyanosis. Which area should the nurse inspect?",
+   "options": [
+    "The skin of the forehead and cheeks",
+    "The lips and buccal (oral) mucosa",
+    "The skin over the sternum",
+    "The dorsal surface of the hands"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Heavily pigmented facial skin hides the bluish or gray tint of cyanosis.",
+    "Correct. In dark skin, cyanosis is assessed in the nail beds, lips, and buccal mucosa, where there is little melanin. The mouth also reflects central oxygenation.",
+    "The skin over the sternum is pigmented, so a color change would be hard to see there.",
+    "The back of the hand is pigmented and shows peripheral, not central, changes."
+   ],
+   "rationale": "In darker skin, color changes are best seen where melanin is minimal. The slides list the nail beds, lips, and buccal mucosa for cyanosis. The lips and oral mucosa also reflect central oxygenation.",
+   "takeaway": "Dark skin: assess cyanosis in the nail beds, lips, and buccal mucosa."
+  },
+  {
+   "id": "m21a-005",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Consider which assessment findings do not depend on seeing redness.",
+   "hintStrategy": "Evaluate each option on its own as true or false. Watch for options that rely on a visual cue that melanin can hide.",
+   "type": "sata",
+   "topic": "skin-assessment-lesions",
+   "ref": "Module 21 · Tissue Integrity · Cultural Considerations in Skin Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "The nurse is assessing the sacrum of a client with dark brown skin who has been on bed rest for 3 days. Which techniques will help the nurse detect early tissue damage? Select all that apply.",
+   "options": [
+    "Palpate the area for warmth compared with surrounding skin",
+    "Check for induration, edema, or a boggy feel",
+    "Inspect for areas that look darker, taut, or shiny",
+    "Rely on the presence of blanchable redness",
+    "Assess the area under overhead fluorescent light only",
+    "Lightly moisten the skin to make color changes easier to see"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Warmth (or coolness) compared with adjacent skin is an early sign of inflammation or tissue damage that doesn't depend on color.",
+    "Correct. Induration, edema, and bogginess are palpable changes that reveal damage melanin may hide.",
+    "Correct. In darker skin, inflammation often looks darker (purple or maroon), taut, shiny, or indurated rather than red.",
+    "Incorrect. Redness and blanching may be impossible to see in dark skin. Relying on them leads to missed injury.",
+    "Incorrect. Natural or halogen light is preferred. Fluorescent light can give skin a bluish cast and hide changes.",
+    "Correct. Slightly moistening the skin can make subtle color and sheen changes easier to see."
+   ],
+   "rationale": "Detecting erythema by eye is unreliable in darkly pigmented skin. The nurse compensates by palpating for temperature, induration, and edema, looking for darker, shiny, or taut areas, using good natural light, and comparing with adjacent skin.",
+   "takeaway": "In dark skin, feel for warmth and induration. Don't wait to see redness."
+  },
+  {
+   "id": "m21a-006",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Review how pallor and cyanosis look in darkly pigmented skin and which sites show them best.",
+   "hintStrategy": "Look at the vital signs first. Then pick the skin finding that explains them, not the chronic or cosmetic findings.",
+   "type": "mcq",
+   "topic": "skin-assessment-lesions",
+   "ref": "Module 21 · Tissue Integrity · Cultural Considerations in Skin Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "Four hours after abdominal surgery, a client with dark skin is restless. Vital signs: HR 122/min, BP 92/58 mm Hg, RR 24/min, SpO2 93%. Which assessment finding requires the most immediate follow-up?",
+   "options": [
+    "Hyperpigmented macules on the forearms from a previous rash",
+    "Dry, flaking skin on both lower legs",
+    "Ashen-gray lips and pale conjunctivae",
+    "A 2-cm keloid on the right earlobe"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Post-inflammatory hyperpigmentation is common after healed lesions in darker skin and is not urgent.",
+    "Dry skin (xerosis) is a comfort and skin-care issue, not an acute threat.",
+    "Correct. Ashen-gray color and pale conjunctivae are how pallor and cyanosis look in dark skin. With tachycardia, hypotension, and restlessness after surgery, they suggest hemorrhage or hypovolemic shock and need immediate action.",
+    "Keloids are more common in darker skin and are a chronic cosmetic finding."
+   ],
+   "rationale": "In dark skin, pallor looks ashen gray (or yellow-brown), and changes are best seen in the lips, mucosa, and conjunctivae. With abnormal vital signs, this points to impaired perfusion, an ABC priority.",
+   "takeaway": "Ashen gray + tachycardia + hypotension in dark skin = shock until proven otherwise."
+  },
+  {
+   "id": "m21a-007",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Primary lesions are named by what they contain (solid, clear fluid, pus) and by size, with a cut-off at 1 cm.",
+   "hintStrategy": "Use two cues from the stem, the fluid type and the measurement, to eliminate options.",
+   "type": "mcq",
+   "topic": "skin-assessment-lesions",
+   "ref": "Module 21 · Tissue Integrity · Skin Lesions",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "The nurse notes several raised lesions on a child's trunk that are filled with clear fluid and measure about 0.5 cm each. How should the nurse document these lesions?",
+   "options": [
+    "Vesicles",
+    "Pustules",
+    "Bullae",
+    "Wheals"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. A vesicle is a circumscribed, elevated, clear-fluid-filled primary lesion less than 1 cm, as seen in varicella or herpes.",
+    "Pustules contain purulent (cloudy, yellow) fluid, not clear fluid.",
+    "Bullae are clear-fluid-filled lesions larger than 1 cm.",
+    "Wheals are transient, edematous, irregular raised areas without a fluid-filled cavity, such as hives."
+   ],
+   "rationale": "Primary lesions are named by content and size. Clear fluid <1 cm is a vesicle, and >1 cm is a bulla. Pus-filled lesions are pustules.",
+   "takeaway": "Vesicle <1 cm, bulla >1 cm, and pustule = pus."
+  },
+  {
+   "id": "m21a-008",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Primary lesions arise from normal skin. Secondary lesions develop from a primary lesion or from trauma.",
+   "hintStrategy": "For each row ask: could this appear on previously healthy skin, or does something have to happen first (drying, cracking, rupture)?",
+   "type": "matrix",
+   "topic": "skin-assessment-lesions",
+   "ref": "Module 21 · Tissue Integrity · Skin Lesions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 9-year-old is seen in the clinic for several skin complaints, and the nurse documents the findings below. Classify each finding as a primary or secondary lesion.",
+   "rows": [
+    "Flat, brown, nonpalpable freckle 4 mm in diameter",
+    "Dried honey-colored exudate over a lesion",
+    "Transient raised, itchy hive after a bee sting",
+    "Linear crack in the skin between the toes",
+    "Pus-filled raised lesion on the chin"
+   ],
+   "columns": [
+    "Primary lesion",
+    "Secondary lesion"
+   ],
+   "answer": [
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "optionRationales": [
+    "Primary. A flat color change <1 cm is a macule, arising from normal skin.",
+    "Secondary. A crust is dried serum, blood, or pus left after a primary lesion (such as an impetigo vesicle or pustule) ruptures.",
+    "Primary. A wheal arises directly from normal skin.",
+    "Secondary. A fissure is a crack that develops in skin changed by dryness or disease (for example, tinea pedis).",
+    "Primary. A pustule arises from previously normal skin."
+   ],
+   "rationale": "Primary lesions (macule, papule, nodule, vesicle, bulla, pustule, wheal) arise from previously normal skin. Secondary lesions (crust, scale, fissure, erosion, ulcer, scar, keloid) come from changes in primary lesions or from trauma.",
+   "takeaway": "Primary = the first lesion. Secondary = what it becomes (crust, scale, fissure, ulcer, scar)."
+  },
+  {
+   "id": "m21a-009",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Skin, hair, and nails can reflect endocrine disease. Consider which hormone controls metabolic rate and heat production.",
+   "hintStrategy": "Group all the cues, not just the skin ones. Cold intolerance, weight gain, constipation, and bradycardia point to one system. Then pick the test for that system.",
+   "type": "dropdown",
+   "topic": "skin-assessment-lesions",
+   "ref": "Module 21 · Tissue Integrity · Skin as a Reflection of Systemic Disease",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 52-year-old client reports dry, rough skin that lotions don't help, thinning hair, brittle nails, weight gain, constipation, and always feeling cold. HR 56/min. Complete the statement.",
+   "template": "The skin and hair findings most likely reflect {0}. The nurse should anticipate that the provider will order {1}.",
+   "blanks": [
+    {
+     "options": [
+      "hypothyroidism",
+      "contact dermatitis",
+      "psoriasis",
+      "iron-deficiency anemia"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "a KOH preparation of skin scrapings",
+      "a thyroid-stimulating hormone (TSH) level",
+      "a patch test",
+      "a Wood lamp examination"
+     ],
+     "answer": 1
+    }
+   ],
+   "rationale": "Skin can mirror systemic disease. Dry, coarse skin, hair loss, and brittle nails with cold intolerance, weight gain, constipation, and bradycardia are classic signs of hypothyroidism. A TSH level is the first screening test. Dermatologic tests (KOH, patch, Wood lamp) look for local skin disease and would miss the cause.",
+   "takeaway": "Dry skin + hair loss + cold intolerance → think thyroid, not lotion."
+  },
+  {
+   "id": "m21a-010",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "hintContent": "Recall how impetigo spreads and the usual return-to-school rule after antibiotics start.",
+   "hintStrategy": "You are looking for the statement that shows CORRECT understanding. Eliminate any statement that would spread the infection or harm the skin.",
+   "type": "mcq",
+   "topic": "infectious-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A 5-year-old has honey-colored crusted lesions around the nose and mouth and is prescribed an antibiotic ointment. Which statement by the parent indicates the teaching was effective?",
+   "options": [
+    "“I'll gently wash the crusts off with soap and water before applying the ointment.”",
+    "“My child can go back to kindergarten tomorrow since the rash isn't itchy.”",
+    "“The whole family can keep sharing bath towels as long as we wash them weekly.”",
+    "“I'll cover the sores tightly with plastic wrap overnight so they heal faster.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Gently removing the crusts with soap and water lets the topical antibiotic reach the bacteria and reduces the bacterial load.",
+    "Impetigo is highly contagious. The child should stay home until at least 24 hours after starting antibiotics, whether or not the rash itches.",
+    "Towels, washcloths, and linens should not be shared. They spread staph and strep.",
+    "Occlusive plastic wrap traps moisture and is not part of impetigo care. It can worsen maceration and spread."
+   ],
+   "rationale": "Impetigo is a contagious bacterial skin infection that spreads by direct contact. Care: gently remove crusts, apply the prescribed antibiotic, keep nails short, don't share personal items, wash hands, and keep the child out of school or child care until 24 hours after treatment starts.",
+   "takeaway": "Impetigo: remove crusts gently, apply the prescribed antibiotic, share nothing, stay home until 24 hours of treatment."
+  },
+  {
+   "id": "m21a-011",
+   "type": "sata",
+   "topic": "skin-cancer-sun-protection",
+   "ref": "Module 21 · Tissue Integrity · Modifiable Risk Factors",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 52-year-old client with type 2 diabetes and obesity asks how to keep the skin healthy. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Keep the skin clean and dry, especially in skin folds and between the toes",
+    "Apply a moisturizer regularly, such as after bathing",
+    "Scrub the skin with antibacterial soap several times a day to prevent infection",
+    "Cover any cut or scrape and watch it for signs of infection",
+    "Choose fragrance-free and dye-free soaps and laundry products",
+    "Share towels only with family members who live in the same home"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Clean, dry skin resists infection. Moist skin folds favor fungal growth.",
+    "Correct. Regular moisturizing keeps the skin barrier intact and prevents dry, cracked skin.",
+    "Incorrect. Excessive cleansing dries the skin and damages the barrier. Use a mild cleanser.",
+    "Correct. Covering and caring for wounds reduces infection risk, which is higher in clients with diabetes and obesity.",
+    "Correct. Dyes and perfumes are common irritants and allergens.",
+    "Incorrect. Personal items such as towels, combs, and hats should not be shared, even at home."
+   ],
+   "rationale": "Chronic illnesses such as diabetes and obesity increase the risk of skin problems. Modifiable risk factors include keeping the skin clean, dry, and moisturized, covering and caring for wounds, avoiding irritants and allergens (chemicals, dyes, perfumes), avoiding excessive cleansing, and not sharing personal items.",
+   "takeaway": "Clean, dry, moisturized skin; covered wounds; no irritants; no excessive washing; no sharing.",
+   "hintContent": "Think about what protects the skin barrier and what damages it, and how infections spread between people.",
+   "hintStrategy": "Judge each statement as true or false. Be wary of any measure that sounds protective but is done in excess."
+  },
+  {
+   "id": "m21a-012",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Match the suspected cause (a virus) with the test designed for viral lesions.",
+   "hintStrategy": "Name the type of organism the stem is asking about, then eliminate every test designed for a different cause.",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client has a cluster of painful, fluid-filled vesicles on a red base on the upper lip. The provider wants to confirm whether the lesions are caused by a virus. Which test should the nurse anticipate?",
+   "options": [
+    "Potassium hydroxide (KOH) preparation of skin scrapings",
+    "Patch testing on the upper back",
+    "Wood lamp examination",
+    "Tzanck test of fluid and cells from a vesicle"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "A KOH prep detects fungal infection, not a virus.",
+    "Patch testing identifies contact allergens, not infection.",
+    "A Wood lamp shows fluorescence of some fungal infections and pigment changes. It does not identify a viral cause of vesicles.",
+    "Correct. The Tzanck test is used for viral lesions. Scrapings from the base of a vesicle show cell changes caused by herpes viruses."
+   ],
+   "rationale": "Each skin test has a target. The Tzanck test is used for viral lesions (vesicles from herpes viruses), KOH for fungi, patch testing for contact allergy, the Wood lamp for fluorescence (some fungal infections, pigment loss), and biopsy for benign vs cancerous tissue.",
+   "takeaway": "Tzanck = viral vesicles. KOH = fungus. Patch test = contact allergy."
+  },
+  {
+   "id": "m21a-013",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "hintContent": "Consider who is at risk of serious harm from varicella exposure and what counts as documented immunity.",
+   "hintStrategy": "This is an assignment question. Eliminate every staff member who would be endangered or would endanger others.",
+   "type": "mcq",
+   "topic": "infectious-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "The charge nurse is making assignments on a pediatric unit. A child with active varicella is admitted to an airborne isolation room. Which staff member is most appropriate to assign to this child?",
+   "options": [
+    "An RN who is 14 weeks pregnant and unsure of her varicella history",
+    "An RN who recently finished chemotherapy for breast cancer",
+    "A float LPN who has never had chickenpox or the varicella vaccine",
+    "An RN who had chickenpox as a child and has documented immunity"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Pregnant staff without proven immunity should not care for varicella clients. Congenital varicella syndrome and severe maternal pneumonia are risks.",
+    "An immunocompromised nurse is at risk of severe or disseminated infection.",
+    "A non-immune staff member would be susceptible and could become infected and spread the virus.",
+    "Correct. Only staff with documented immunity (prior disease confirmed by titer or history, or 2 vaccine doses) should care for clients with varicella."
+   ],
+   "rationale": "Varicella is highly contagious by the airborne route. Assign staff with documented immunity. Pregnant, immunocompromised, or non-immune staff should not be exposed.",
+   "takeaway": "Varicella clients get immune caregivers only."
+  },
+  {
+   "id": "m21a-014",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Think about what dries or tears fragile skin and when a moisturizer holds in the most water.",
+   "hintStrategy": "Start with safety and preparation, then follow the bath from washing to drying to protecting the skin.",
+   "type": "order",
+   "topic": "diagnostics-labs-nutrition",
+   "ref": "Module 21 · Tissue Integrity · Independent Nursing Interventions",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "The nurse is helping an 82-year-old client with dry, thin skin bathe. Place the steps in the order the nurse should perform them.",
+   "options": [
+    "Perform hand hygiene and check that the water is lukewarm",
+    "Wash the skin gently with a mild liquid cleanser",
+    "Rinse the cleanser off completely",
+    "Pat the skin dry with a soft towel",
+    "Apply a moisturizer while the skin is still slightly damp"
+   ],
+   "rationale": "Older adults have fewer sebaceous glands and thin, dry skin. Hot water and harsh soap strip oils, so the nurse uses lukewarm water and a mild or liquid cleanser, rinses well so no residue dries the skin, pats (does not rub) dry, and moisturizes right after bathing to hold water in the skin. Older adults usually bathe every other day rather than daily.",
+   "takeaway": "Lukewarm → mild cleanser → rinse → pat dry → moisturize."
+  },
+  {
+   "id": "m21a-015",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall how lice spread and which household measures actually help.",
+   "hintStrategy": "Watch for options that sound thorough but are not recommended, or that reduce the medication's effect.",
+   "type": "sata",
+   "topic": "infectious-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The school nurse is teaching the parents of a 7-year-old treated with an over-the-counter lice treatment. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Use a fine-tooth nit comb on wet hair to remove nits",
+    "Wash bedding and hats in hot water and dry on high heat",
+    "Use a cream rinse or conditioner right before applying the lice treatment",
+    "Keep your child home from school until every nit is gone",
+    "Tell your child not to share combs, brushes, hats, or helmets",
+    "Spray the furniture and carpets with an insecticide fogger"
+   ],
+   "answer": [
+    0,
+    1,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Combing wet hair with a nit comb removes nits and lice that survive treatment.",
+    "Correct. Hot water and high-heat drying kill lice and nits on fabric. Items that can't be washed can be sealed in a plastic bag.",
+    "Incorrect. Conditioner coats the hair and reduces how well the pediculicide sticks and works.",
+    "Incorrect. Children can return to school after treatment starts. Keeping them home until every nit is gone is not needed.",
+    "Correct. Lice spread by head-to-head contact and shared personal items.",
+    "Incorrect. Fumigant sprays and foggers are not recommended. They can be toxic, and lice don't survive long off the scalp. Vacuuming is enough."
+   ],
+   "rationale": "Lice care combines a pediculicide, mechanical nit removal, hot laundering or bagging of personal items, and not sharing items. Household insecticides and school exclusion until nit-free are not recommended.",
+   "takeaway": "Lice: treat, comb, hot-wash, don't share. No foggers and no conditioner first."
+  },
+  {
+   "id": "m21a-016",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Match the lesion pattern (annular, scaly, central clearing, spreading by close contact) to a type of organism, then to the test that detects that organism.",
+   "hintStrategy": "First name the likely cause from the cues, then choose the test designed for that category.",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 16-year-old wrestler has a 3-cm scaly, ring-shaped patch with a raised border and central clearing on the forearm. Two teammates have similar lesions. Which diagnostic test should the nurse anticipate to confirm the most likely cause?",
+   "options": [
+    "Tzanck smear of the lesion base",
+    "Patch testing on the upper back",
+    "Potassium hydroxide (KOH) preparation",
+    "Punch biopsy of the lesion border"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "A Tzanck smear looks for multinucleated giant cells in herpes-virus vesicles.",
+    "Patch testing identifies type IV contact allergens.",
+    "Correct. KOH dissolves keratin in the skin scraping so fungal hyphae and spores can be seen under a microscope. It confirms tinea.",
+    "Biopsy is used to tell benign from malignant lesions. It is not the first test for a suspected fungal infection."
+   ],
+   "rationale": "An annular, scaly patch with central clearing that spreads among athletes in close contact suggests tinea corporis (tinea gladiatorum). Each skin test has a target. KOH detects fungus, Tzanck detects herpes viruses, patch testing detects contact allergy, Wood lamp shows fluorescence (some tinea, vitiligo), and biopsy detects neoplasm.",
+   "takeaway": "Ringworm → KOH."
+  },
+  {
+   "id": "m21a-017",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Compare immune-mediated vs non-immune contact dermatitis in timing, pattern, and prior exposure.",
+   "hintStrategy": "Use the rash's pattern and the history of long-term exposure to decide whether an immune or a non-immune process is involved.",
+   "type": "mcq",
+   "topic": "inflammatory-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client reports an itchy, red rash with small vesicles on the left wrist that is exactly the shape of the metal watch band she has worn for years. How should the nurse interpret this finding?",
+   "options": [
+    "Irritant contact dermatitis caused by sweat and soap trapped under the band",
+    "Allergic contact dermatitis, a delayed hypersensitivity reaction to nickel",
+    "Tinea corporis spread to the wrist from fungus living on the watch band",
+    "Atopic dermatitis triggered by the client's personal history of asthma"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Irritant dermatitis is non-immune and usually causes diffuse dryness, burning, and cracking. It does not sharply outline an object.",
+    "Correct. A rash that exactly matches the shape of the allergen, with itching and vesicles after sensitization, is typical of allergic contact dermatitis. Nickel is a common cause.",
+    "Tinea forms an annular scaly patch with central clearing. It does not match an object's outline.",
+    "Atopic dermatitis typically affects flexural areas and is not shaped like a specific contact item."
+   ],
+   "rationale": "Allergic contact dermatitis needs prior sensitization, appears a day or more after re-exposure, and takes the shape of the contact item. It is confirmed by patch testing and managed by avoidance and topical corticosteroids.",
+   "takeaway": "Rash in the shape of the object = allergic contact dermatitis."
+  },
+  {
+   "id": "m21a-018",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Look at the shape and timing of the rash, then think about how an allergic reaction is managed and confirmed.",
+   "hintStrategy": "For each option, ask whether it removes the trigger, confirms the cause, or treats the rash. Eliminate options that add irritation or continue exposure.",
+   "type": "sata",
+   "topic": "inflammatory-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A dental assistant has itchy, red skin with small vesicles on both hands and wrists that ends in a sharp line where her gloves stop. The rash began about 2 days after she started using a new brand of latex gloves. Which actions should the nurse take? Select all that apply.",
+   "options": [
+    "Document the suspected latex allergy in the client's record",
+    "Use nonlatex gloves and supplies when caring for the client",
+    "Teach the client to switch to a stronger antibacterial soap at work",
+    "Anticipate a referral for patch testing to confirm the allergen",
+    "Apply the prescribed topical corticosteroid in a thin layer",
+    "Tell the client that the reaction will lessen as her skin gets used to latex"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. A suspected allergy must be documented so every team member avoids the trigger.",
+    "Correct. Avoiding the allergen is the main treatment for allergic contact dermatitis.",
+    "Incorrect. Harsh or excessive cleansing irritates the skin and makes dermatitis worse.",
+    "Correct. Patch testing is the test for contact allergy and can confirm the trigger.",
+    "Correct. Prescription topical corticosteroids reduce the inflammation of dermatitis.",
+    "Incorrect. Allergic reactions do not fade with continued exposure. Repeated exposure can make them worse."
+   ],
+   "rationale": "A rash that appears at the site of contact, is shaped like the item, forms vesicles, and appears a day or more after exposure is allergic contact dermatitis. Latex is one of the allergens clients should avoid. Care is to document the allergy, avoid the allergen, confirm it with patch testing, and use prescribed topical treatment.",
+   "takeaway": "Allergic contact dermatitis: identify, document, and avoid the allergen; patch test confirms."
+  },
+  {
+   "id": "m21a-019",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Eczema comes from a defective skin barrier that loses water. Think about which actions hold moisture in and which strip it away.",
+   "hintStrategy": "Eliminate options that add heat, friction, or irritants. The remaining choice should protect the barrier.",
+   "type": "mcq",
+   "topic": "inflammatory-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "The nurse is teaching the parent of a 4-year-old with atopic dermatitis (eczema) on the antecubital and popliteal areas. Which instruction is most appropriate?",
+   "options": [
+    "Give a long, hot bath daily with a scented bubble bath to relax the child",
+    "Rub the skin briskly with a towel after bathing to remove loose scales",
+    "Pat the skin dry and apply a thick, fragrance-free moisturizer right away",
+    "Dress the child in wool clothing during winter to keep the skin warm and dry"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Hot water and fragrance strip oils and irritate an already weak barrier.",
+    "Brisk rubbing causes friction and itching. Skin should be patted dry.",
+    "Correct. Moisturizing right after patting dry traps water in the skin and helps restore the barrier. This is the foundation of eczema care.",
+    "Wool is a common irritant and itch trigger. Soft cotton is preferred."
+   ],
+   "rationale": "Atopic dermatitis comes from a defective skin barrier. Short lukewarm baths, mild cleansers, patting dry, and immediate emollients reduce flares. Avoid irritants like wool, fragrance, and heat.",
+   "takeaway": "Eczema: lukewarm bath, pat dry, moisturize right away."
+  },
+  {
+   "id": "m21a-020",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall the difference between acute and chronic skin disorders and what treatment can achieve for each.",
+   "hintStrategy": "Eliminate answers that promise a permanent cure or suggest treatment isn't needed.",
+   "type": "mcq",
+   "topic": "inflammatory-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Common Skin Disorders (Acute vs Chronic)",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity",
+   "stem": "A 34-year-old client newly diagnosed with plaque psoriasis asks, “How long will it take for this to be cured?” Which response by the nurse is most accurate?",
+   "options": [
+    "“It should clear for good once you finish a 2-week course of antibiotics.”",
+    "“Psoriasis is long-term. Treatment aims for remission and control of flares.”",
+    "“Once the scales are scrubbed off, the plaques should not return.”",
+    "“It will go away on its own after a few months, so treatment is optional.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Psoriasis is not an infection, and antibiotics do not cure it.",
+    "Correct. Psoriasis is a chronic disorder. As with other chronic skin disorders, treatment brings remission, not cure.",
+    "Scrubbing injures the skin and can worsen plaques. It does not stop the disease.",
+    "Psoriasis is lifelong. Without treatment, plaques usually persist or flare."
+   ],
+   "rationale": "Skin disorders can be classified as acute or chronic. Acute disorders are short-term with situational causes. Chronic disorders such as psoriasis are long-term or lifelong, and treatment aims for remission, not cure. Honest teaching helps the client set realistic expectations and stay with therapy.",
+   "takeaway": "Chronic skin disorders (psoriasis) = remission, not cure."
+  },
+  {
+   "id": "m21a-021",
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "hintContent": "Differentiate contact dermatitis that needs prior sensitization from direct chemical injury to the skin.",
+   "hintStrategy": "Use the timing (first week) and the cause (repeated washing) to name the type, then choose the recommendation that keeps hand hygiene intact.",
+   "type": "dropdown",
+   "topic": "inflammatory-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Contact Dermatitis",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "A newly hired nurse aide washes her hands with soap and water 40 to 50 times per shift. She now has dry, red, cracked, burning skin across the backs of both hands, which started within her first week. Complete the statement.",
+   "template": "These findings are most consistent with {0} contact dermatitis, which {1}. The nurse should recommend {2}.",
+   "blanks": [
+    {
+     "options": [
+      "allergic",
+      "irritant",
+      "atopic",
+      "seborrheic"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "is a non-immune reaction from direct damage to the skin",
+      "requires prior sensitization to an antigen",
+      "is an IgE-mediated immediate reaction",
+      "is caused by a dermatophyte fungus"
+     ],
+     "answer": 0
+    },
+    {
+     "options": [
+      "switching to hot water to remove residue",
+      "using alcohol-based hand rub when hands are not visibly soiled and applying facility-approved moisturizer",
+      "wearing latex gloves for all tasks",
+      "skipping hand hygiene between clients until healed"
+     ],
+     "answer": 1
+    }
+   ],
+   "rationale": "Frequent soap and water damages the skin barrier directly without an immune process. This is irritant contact dermatitis, which can occur without prior sensitization. Alcohol-based rubs with emollients are less damaging than repeated washing. Regular moisturizing restores the barrier, and hand hygiene must never be skipped.",
+   "takeaway": "Frequent washing + chapped hands = irritant dermatitis. Use alcohol rub plus moisturizer."
+  },
+  {
+   "id": "m21a-022",
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Recall which body areas a skin self-exam should include and whether skin tone removes the need for screening.",
+   "hintStrategy": "Eliminate answers with absolute words such as “only” or “can't.”",
+   "type": "mcq",
+   "topic": "skin-cancer-sun-protection",
+   "ref": "Module 21 · Tissue Integrity · Neoplastic Disorders",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A 34-year-old client with dark skin asks how to do a monthly skin self-examination. Which response by the nurse is most accurate?",
+   "options": [
+    "“Check sun-exposed areas like your face, ears, scalp, arms, and legs, plus your trunk, chest, and feet.”",
+    "“Focus only on your face and hands, because those are the only places where skin cancer forms.”",
+    "“Because you have dark skin, you can't get skin cancer, so a yearly check by your provider is enough.”",
+    "“Check only the spots that itch or hurt, since skin cancer nearly always causes itching or pain first.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Self-exams focus on sun-exposed areas and also include the trunk, chest, and feet, so changes anywhere are found early.",
+    "Skin cancer can occur on any skin, including areas covered by clothing.",
+    "All clients are at risk regardless of skin tone. Darker skin burns less easily but can still develop skin cancer.",
+    "Many skin cancers cause no symptoms. The exam looks for new or changing spots, not just itchy ones."
+   ],
+   "rationale": "Skin self-examination helps clients learn their normal skin and recognize changes early. It focuses on sun-exposed areas (face, neck, ears, scalp, arms, legs) and also includes the trunk, chest, and feet. Every client needs screening and sun protection regardless of skin tone.",
+   "takeaway": "Self-exam: sun-exposed areas plus trunk, chest, and feet, for every skin tone."
+  },
+  {
+   "id": "m21a-023",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall the recommended SPF, how often sunscreen is reapplied, and the physical sun-protection measures.",
+   "hintStrategy": "Evaluate each statement as true or false. Watch for common myths about tanning and cloudy days.",
+   "type": "sata",
+   "topic": "skin-cancer-sun-protection",
+   "ref": "Module 21 · Tissue Integrity · Health Promotion & Prevention",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The nurse is teaching a group of lifeguards about preventing skin cancer. Which statements should the nurse include? Select all that apply.",
+   "options": [
+    "“Use a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher.”",
+    "“Water-resistant sunscreen lasts all day, so reapply it only if you towel off.”",
+    "“A base tan from a tanning bed before summer will protect you from burns.”",
+    "“Sunscreen is only necessary on sunny days when you can feel the heat.”",
+    "“Wear a wide-brimmed hat and UV-blocking sunglasses, and seek shade between 10 a.m. and 4 p.m.”",
+    "“Examine your skin monthly and report any mole that is changing in size, shape, or color.”"
+   ],
+   "answer": [
+    0,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Correct. A broad-spectrum (UVA/UVB), water-resistant sunscreen with SPF 30 or higher is recommended.",
+    "Incorrect. Water resistance does not last all day. Sunscreen should be reapplied about every 2 hours and right after swimming, sweating, or towel drying.",
+    "Incorrect. Tanning beds increase skin cancer risk, and there is no safe “base tan.”",
+    "Incorrect. UV rays pass through clouds and cause damage regardless of heat.",
+    "Correct. Hats, sunglasses, protective clothing, and shade during peak hours reduce UV exposure.",
+    "Correct. Monthly self-exam finds changing (evolving) lesions early."
+   ],
+   "rationale": "Sun protection combines broad-spectrum sunscreen (SPF ≥30, reapplied at least every 2 hours and after water), shade, clothing, hats, sunglasses, avoiding tanning beds, and regular skin self-exams. Common myths (base tans, cloudy-day safety, all-day water resistance) need correcting.",
+   "takeaway": "SPF 30+, reapply every 2 hours, shade from 10 to 4, no tanning beds, check monthly."
+  },
+  {
+   "id": "m21a-024",
+   "type": "mcq",
+   "topic": "skin-cancer-sun-protection",
+   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests (Skin Biopsy)",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 68-year-old client had a skin biopsy of a pearly, bleeding lesion on the forearm this morning. The site is covered with a small bandage. Which discharge instruction should the nurse include?",
+   "options": [
+    "“Scrub the site with hydrogen peroxide twice a day to prevent infection.”",
+    "“Leave the site uncovered so that a hard, dry scab can form over the wound.”",
+    "“You won't need sunscreen on this arm once the biopsy results come back.”",
+    "“Keep the site clean and covered, and report redness, swelling, or drainage.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Harsh antiseptics and scrubbing damage healing tissue. Gentle cleansing is enough.",
+    "Covered, clean wounds heal better and are protected from contamination.",
+    "Sun protection is lifelong. A client who needed a biopsy for a suspicious lesion is at higher risk for skin cancer.",
+    "Correct. Keeping the wound clean and covered and teaching the signs of infection are core parts of wound care after a biopsy."
+   ],
+   "rationale": "A skin biopsy tells benign from cancerous lesions. The biopsy site is a small open wound, so teaching covers gentle cleansing, keeping it covered, watching for bleeding, and reporting signs of infection (redness, swelling, drainage). Sun protection and skin self-exams continue for life.",
+   "takeaway": "After a biopsy: clean, covered, watch for infection, and keep up sun protection.",
+   "hintContent": "Recall how to care for a small open wound and what signs of infection the client should report.",
+   "hintStrategy": "Eliminate options that damage tissue or stop a protective habit too early."
+  },
+  {
+   "id": "m21a-025",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall the common skin changes of pregnancy and what happens to atopic eruption of pregnancy after the birth.",
+   "hintStrategy": "Choose the answer that is accurate about the course of the rash. Eliminate options that confuse it with other conditions.",
+   "type": "mcq",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Pregnancy",
+   "difficulty": 1,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A client at 28 weeks' gestation has an itchy, dry, eczema-like rash on the arms and abdomen. The provider diagnoses atopic eruption of pregnancy. The client asks whether the rash will be permanent. Which response by the nurse is best?",
+   "options": [
+    "“This rash usually goes away after the baby is born.”",
+    "“This rash is a sign of an infection that could spread to the baby.”",
+    "“The rash is permanent, but the itching will stop after delivery.”",
+    "“This rash is the same as stretch marks and will fade to silver lines.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Atopic eruption of pregnancy is an eczematous, itchy rash that resolves postpartum.",
+    "Atopic eruption of pregnancy is an eczema-like inflammatory rash, not an infection.",
+    "The rash itself resolves after delivery. It is not permanent.",
+    "Stretch marks are a separate, common skin change of pregnancy. They are not an itchy eczematous rash."
+   ],
+   "rationale": "Common skin changes in pregnancy include hyperpigmentation, stretch marks, and itching (pruritus). Atopic eruption of pregnancy (AEP) is an eczematous rash that resolves postpartum. The nurse gives accurate reassurance and supports comfort measures such as moisturizers and prescribed treatments.",
+   "takeaway": "Atopic eruption of pregnancy: itchy eczema-like rash that resolves after delivery."
+  },
+  {
+   "id": "m21a-026",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Wound classes rise with the degree of contamination: no tract entered → controlled entry → spillage or fresh trauma → existing infection.",
+   "hintStrategy": "Identify the cues showing that infection was already present before the incision was made.",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "ref": "Module 21 · Tissue Integrity · Wound Classification by Contamination",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A client has emergency surgery for a ruptured appendix with pus in the abdomen. How should the nurse classify this wound by contamination?",
+   "options": [
+    "Clean",
+    "Clean-contaminated",
+    "Contaminated",
+    "Dirty/Infected"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Clean wounds have no infection and no entry into the GI, GU, or respiratory tract.",
+    "Clean-contaminated means controlled surgical entry into a tract without infection.",
+    "Contaminated covers open, fresh accidental wounds, major breaks in sterile technique, or spillage with inflammation.",
+    "Correct. Purulent drainage and a clinical infection already present make the wound dirty/infected. The infection risk is highest."
+   ],
+   "rationale": "Wound classification by contamination predicts infection risk. Pus, dead tissue, or an infection already present = dirty/infected. The nurse expects antibiotics and monitors closely for signs of infection.",
+   "takeaway": "Pus or clinical infection already present = dirty/infected."
+  },
+  {
+   "id": "m21a-027",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall how the contamination classes treat controlled entry into a body tract compared with fresh accidental wounds.",
+   "hintStrategy": "Classify each client separately, then compare the classes to decide infection risk.",
+   "type": "dropdown",
+   "topic": "wound-types-classification",
+   "ref": "Module 21 · Tissue Integrity · Wound Classification by Contamination",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "The nurse is reviewing two surgical clients. Client A had an elective colon resection with controlled entry into the prepared bowel and no spillage. Client B had repair of a laceration from a dog bite sustained 2 hours earlier. Complete the statement.",
+   "template": "Client A's wound is classified as {0}, and Client B's wound is classified as {1}. The client at higher risk for wound infection is {2}.",
+   "blanks": [
+    {
+     "options": [
+      "clean",
+      "clean-contaminated",
+      "contaminated",
+      "dirty/infected"
+     ],
+     "answer": 1
+    },
+    {
+     "options": [
+      "clean",
+      "clean-contaminated",
+      "contaminated",
+      "dirty/infected"
+     ],
+     "answer": 2
+    },
+    {
+     "options": [
+      "Client A",
+      "Client B",
+      "neither; both carry equal risk"
+     ],
+     "answer": 1
+    }
+   ],
+   "rationale": "Controlled entry into the GI tract without unusual contamination is clean-contaminated. An open, fresh, accidental wound such as a recent bite is contaminated. The higher the class, the higher the infection risk, so Client B needs closer monitoring for signs of infection.",
+   "takeaway": "Controlled tract entry = II. Fresh accidental wound = III. Higher class = higher infection risk."
+  },
+  {
+   "id": "m21a-028",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Hemorrhage control comes before infection control in acute wound care.",
+   "hintStrategy": "Ask: what protects the nurse, what stops the bleeding, and what can only happen once bleeding is controlled?",
+   "type": "order",
+   "topic": "wound-types-classification",
+   "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client arrives at urgent care with a 5-cm laceration on the forearm that is bleeding steadily. Place the steps in the order the nurse should perform them.",
+   "options": [
+    "Perform hand hygiene and put on clean gloves",
+    "Apply firm, direct pressure over the wound with sterile gauze",
+    "Elevate the arm above the level of the heart while maintaining pressure",
+    "Once bleeding is controlled, clean the wound with normal saline",
+    "Cover the wound with a sterile dressing and continue to assess for signs of shock"
+   ],
+   "rationale": "Protect yourself first (standard precautions), then control bleeding with direct pressure and elevation. Only after bleeding is controlled is the wound cleaned with saline and covered to prevent infection. Keep assessing for shock (rapid pulse, clammy skin, low BP) throughout.",
+   "takeaway": "Gloves → pressure → elevate → clean with saline → cover and watch for shock."
+  },
+  {
+   "id": "m21a-029",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Consider which structures remain in the wound bed after partial vs full-thickness loss, and how each heals.",
+   "hintStrategy": "The client is asking about scarring. Choose the option that links wound depth to the healing mechanism.",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "ref": "Module 21 · Tissue Integrity · Wound Classification by Depth",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client asks why the scraped knee from a bike fall healed without a scar but the deep cut from a glass injury left one. What is the best explanation by the nurse?",
+   "options": [
+    "“The scrape was partial thickness, so the same tissue was able to grow back.”",
+    "“The scrape healed faster because it was an intentional, controlled wound.”",
+    "“The cut was a closed wound, so the tissue under it could not regenerate.”",
+    "“Scars form only when a wound becomes infected during the healing process.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Partial-thickness wounds keep dermal appendages that regenerate epithelium with minimal scarring. Full-thickness wounds heal by connective tissue (scar) repair.",
+    "A bike fall is an unintentional wound, and intent does not decide scarring.",
+    "A cut through the skin is an open wound. Depth, not open vs closed, decides scarring.",
+    "Full-thickness wounds scar even without infection. Infection can make scarring worse."
+   ],
+   "rationale": "Depth decides healing: partial-thickness loss (epidermis ± part of dermis) regenerates, while full-thickness loss (all skin layers ± deeper) needs connective tissue repair and leaves a scar.",
+   "takeaway": "Partial-thickness regenerates. Full-thickness scars."
+  },
+  {
+   "id": "m21a-030",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Wound healing depends on oxygen delivery, immune defense, clotting, and nutrition. Recall the normal range for each lab listed.",
+   "hintStrategy": "Compare every value with its normal range. The cues about poor intake point toward one abnormal value.",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "ref": "Module 21 · Tissue Integrity · Laboratory Data – Wound Healing",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 78-year-old client is 10 days post hip surgery. The incision edges are pale with minimal granulation, and the client eats about 25% of meals. Vital signs are stable and afebrile. Which lab result should the nurse identify as most likely contributing to the delayed healing?",
+   "options": [
+    "Albumin 2.6 g/dL",
+    "Hemoglobin 13.8 g/dL",
+    "WBC 8,200/mm³",
+    "Platelets 245,000/mm³"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Albumin <3.5 g/dL indicates poor protein and nutritional status. It increases infection risk and delays collagen formation and wound healing.",
+    "This hemoglobin is normal and supports adequate oxygen delivery to tissues.",
+    "This WBC is within normal limits and shows adequate infection defense.",
+    "This platelet count is normal and supports hemostasis."
+   ],
+   "rationale": "Wound healing depends on adequate protein, oxygen (Hgb), immune defense (WBC), and clotting. Only the albumin is abnormal. The nurse should notify the provider and request a dietitian consult for a high-protein, high-calorie plan.",
+   "takeaway": "Albumin <3.5 g/dL = healing at risk."
+  },
+  {
+   "id": "m21a-031",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Healing tissue needs extra energy, protein, and certain vitamins. Recall what albumin below 3.5 g/dL means.",
+   "hintStrategy": "Evaluate each food choice on its own. Eliminate anything that reduces calories, protein, or fluids.",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "ref": "Module 21 · Tissue Integrity · Infection Prevention, Exercise, & Nutrition",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "A client with a healing leg wound has an albumin level of 3.0 g/dL and a poor appetite. Which dietary recommendations should the nurse make? Select all that apply.",
+   "options": [
+    "Include lean protein such as eggs, poultry, fish, or dairy at each meal",
+    "Add citrus fruits and vegetables rich in vitamin C",
+    "Limit fluids to reduce wound drainage",
+    "Offer small, frequent meals and oral nutritional supplements",
+    "Follow a low-calorie diet to promote circulation",
+    "Avoid dairy products because they slow tissue repair"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Protein is needed to build new tissue.",
+    "Correct. Vitamin C supports collagen formation and healing.",
+    "Incorrect. Adequate fluids are needed for healing and tissue perfusion.",
+    "Correct. Small, frequent meals and supplements help when appetite is poor.",
+    "Incorrect. Healing tissue needs more calories, not fewer.",
+    "Incorrect. Dairy is a good source of protein and is encouraged for healing."
+   ],
+   "rationale": "An albumin below 3.5 g/dL signals poor nutrition, a higher infection risk, and delayed healing. Healing needs more calories, protein, and vitamins A and C. Encourage whole grains, vegetables, citrus, dairy, and lean proteins, offer small frequent meals or supplements when intake is poor, and consult the dietitian.",
+   "takeaway": "Albumin under 3.5: more calories and protein, vitamins A and C, small frequent meals."
+  },
+  {
+   "id": "m21a-032",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pharmacology",
+   "hintContent": "Recall how each OTC acne product works and why excessive cleansing harms the skin.",
+   "hintStrategy": "This is a “needs further teaching” item. Look for the statement that is false or unsafe.",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "The nurse teaches a 15-year-old about two over-the-counter acne products, benzoyl peroxide and salicylic acid. Which statement by the client indicates a need for further teaching?",
+   "options": [
+    "“Benzoyl peroxide kills the bacteria that cause acne and helps to unplug my pores.”",
+    "“Salicylic acid helps remove dead skin cells and calms inflammation.”",
+    "“Benzoyl peroxide can bleach my towels and pillowcases.”",
+    "“I should scrub my face hard several times a day so the medicine works faster.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Accurate. Benzoyl peroxide is the first-line acne treatment. It kills bacteria and unplugs ducts.",
+    "Accurate. Salicylic acid exfoliates and reduces inflammation.",
+    "Accurate. Benzoyl peroxide bleaches fabric and hair, so white towels and pillowcases are a good idea.",
+    "Needs further teaching. Scrubbing and overwashing irritate the skin and worsen acne. The face should be washed gently about twice a day."
+   ],
+   "rationale": "OTC products treat minor acne. Benzoyl peroxide (first-line) kills bacteria and unplugs ducts, and salicylic acid exfoliates and reduces inflammation. Both can dry the skin, so gentle washing and avoiding excessive cleansing are part of the teaching.",
+   "takeaway": "Benzoyl peroxide: kills bacteria, unplugs ducts, bleaches fabric. Salicylic acid: exfoliates, calms inflammation. Wash gently."
+  },
+  {
+   "id": "m21a-033",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "hintContent": "Think about the rights of medication administration, protecting the nurse, and how occlusion affects topical absorption.",
+   "hintStrategy": "Sequence from safety checks → preparation → application → finishing steps.",
+   "type": "order",
+   "topic": "skin-therapies-pharm",
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "The nurse is applying a prescribed topical corticosteroid cream to a client's eczematous plaques. Place the steps in the order the nurse should perform them.",
+   "options": [
+    "Verify the order, identify the client with two identifiers, and perform hand hygiene",
+    "Put on clean gloves",
+    "Gently cleanse the area to remove the previous medication and pat dry",
+    "Apply a thin layer of cream, rubbing gently in the direction of hair growth",
+    "Leave the area uncovered unless an occlusive dressing is prescribed, then remove gloves and perform hand hygiene"
+   ],
+   "rationale": "Safe topical application follows the rights of medication administration and hand hygiene. Gloves protect the nurse from absorbing the drug. Removing old medication prevents buildup. A thin layer rubbed in the direction of hair growth reduces folliculitis. Occlusion increases absorption and adverse effects (atrophy, systemic effects), so use it only when ordered.",
+   "takeaway": "Topical steroid: clean, thin layer, no occlusion unless ordered."
+  },
+  {
+   "id": "m21a-034",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Review the normal newborn skin findings, then compare them with signs of bacterial and viral skin infection.",
+   "hintStrategy": "For each row, look for a timing or location cue that makes a usually common finding abnormal.",
+   "type": "matrix",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Infants and Children",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The nurse is assessing several infants. For each finding, indicate whether it is expected or unexpected (requires follow-up).",
+   "rows": [
+    "Tiny white papules on the nose and chin of a 1-day-old",
+    "Blotchy red macules with pale yellow centers on the trunk of a 2-day-old",
+    "White, cheesy coating in the skin creases at birth",
+    "Pustules that have burst and formed honey-colored crusts around the umbilicus",
+    "Crops of itchy vesicles in different stages on the face and trunk of a 10-day-old"
+   ],
+   "columns": [
+    "Expected",
+    "Unexpected"
+   ],
+   "answer": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ],
+   "optionRationales": [
+    "Expected. Milia are blocked sebaceous glands and resolve on their own.",
+    "Expected. Erythema toxicum is a common, harmless newborn rash that fades without treatment.",
+    "Expected. Vernix caseosa protects the newborn's skin and does not need to be scrubbed off.",
+    "Unexpected. Honey-colored crusts suggest impetigo, a contagious bacterial infection that needs treatment.",
+    "Unexpected. Vesicles in different stages suggest chickenpox, a contagious viral infection that needs isolation and follow-up."
+   ],
+   "rationale": "Expected newborn skin findings include vernix caseosa, milia, neonatal acne, erythema toxicum, and birthmarks. Signs of infection, such as honey-colored crusts (bacterial) or vesicles in different stages (viral), are not expected and need follow-up.",
+   "takeaway": "Vernix, milia, and erythema toxicum are normal. Crusts or crops of vesicles are not."
+  },
+  {
+   "id": "m21a-035",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "hintContent": "Aging skin has a thinner dermis, fragile vessels, and fewer oil glands, so it tears with friction and adhesives.",
+   "hintStrategy": "Judge each instruction for the UAP. Would it reduce friction, shear, dryness, or trauma, or add to them?",
+   "type": "sata",
+   "topic": "lifespan-skin",
+   "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Older Adults",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "The RN is instructing a UAP caring for an 86-year-old client with thin, fragile skin and senile purpura on both forearms. Which instructions are appropriate? Select all that apply.",
+   "options": [
+    "Use a draw sheet with a second person to reposition the client in bed",
+    "Bathe with lukewarm water and a mild cleanser, then pat the skin dry",
+    "Dress the client in short sleeves so any new bruising is easy to see",
+    "Secure dressings with standard adhesive tape so they stay in place",
+    "Scrub the skin vigorously to stimulate circulation",
+    "Pad the bed rails and wheelchair arms"
+   ],
+   "answer": [
+    0,
+    1,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Lifting with a draw sheet prevents friction and shear, which cause skin tears.",
+    "Correct. Hot water and harsh soap strip the oils older skin can't replace. Pat, don't rub.",
+    "Incorrect. Long sleeves, pants, or limb protectors add a protective layer against bumps and skin tears. New bruising is checked during routine skin care, not by leaving fragile skin exposed.",
+    "Incorrect. Standard adhesive tape can tear fragile skin when removed. Use silicone tape, paper tape, or tubular/gauze retention instead.",
+    "Incorrect. Vigorous friction damages thin, fragile skin.",
+    "Correct. Padding prevents bumps that cause skin tears and purpura."
+   ],
+   "rationale": "Aging skin is thin and dry, with fragile vessels and less fat, which puts older adults at high risk for skin tears. Gentle bathing, lifting devices, padding, protective clothing, and avoiding adhesives protect tissue integrity. These routine care tasks can be delegated to a UAP with clear instructions.",
+   "takeaway": "Fragile older skin: lift, don't drag. Pat, don't rub. Pad, don't tape."
+  }
+ ]
 });

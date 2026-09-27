@@ -11,7 +11,7 @@
    "caseId": "m16d-case-hf",
    "caseOrder": 1,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · NGN Case Study: Acute Decompensated Heart Failure",
+   "ref": "Module 16 · Perfusion · NGN Case Study: Heart Failure with Fluid Overload",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
@@ -54,11 +54,6 @@
         "Reference range"
        ],
        "rows": [
-        [
-         "BNP",
-         "1,480 pg/mL",
-         "<100 pg/mL"
-        ],
         [
          "Sodium",
          "132 mEq/L",
@@ -107,11 +102,11 @@
     "Does not require follow-up. Active bowel sounds are a normal finding.",
     "Does not require follow-up. Equal 2+ radial pulses indicate adequate peripheral arterial perfusion at this time.",
     "Requires follow-up. Bilateral 3+ pitting edema to the knees reflects systemic venous congestion and fluid volume excess.",
-    "Does not require follow-up now. Chronic, mild, stable arthritis pain is not related to the acute problem (and NSAIDs, which worsen HF, should be avoided later)."
+    "Does not require follow-up now. Chronic, mild, stable arthritis pain is not related to the acute problem."
    ],
    "rationale": "Recognizing cues means separating abnormal, relevant data from expected or unrelated data. The missed diuretic, orthopnea, hypoxemia, crackles, and bilateral pitting edema all point to fluid overload with pulmonary and systemic congestion. Orientation, bowel sounds, equal radial pulses, and chronic mild arthritis pain are normal or unrelated to the acute problem.",
    "takeaway": "In HF, cluster the cues: missed diuretic + sodium load + orthopnea + crackles + edema + low SpO₂ = decompensation.",
-   "hintContent": "Recall the findings of left-sided (pulmonary) congestion and right-sided (systemic) congestion, and what typically triggers a heart failure exacerbation.",
+   "hintContent": "Recall the findings of pulmonary congestion (fluid backing into the lungs) and systemic congestion (fluid backing into the body), and what commonly triggers worsening heart failure.",
    "hintStrategy": "Highlight only the findings that are abnormal AND relevant to the client's current problem; normal or chronic, unrelated findings should be left unhighlighted."
   },
   {
@@ -120,7 +115,7 @@
    "caseId": "m16d-case-hf",
    "caseOrder": 2,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · NGN Case Study: Acute Decompensated Heart Failure",
+   "ref": "Module 16 · Perfusion · NGN Case Study: Heart Failure with Fluid Overload",
    "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
@@ -164,11 +159,6 @@
        ],
        "rows": [
         [
-         "BNP",
-         "1,480 pg/mL",
-         "<100 pg/mL"
-        ],
-        [
          "Sodium",
          "132 mEq/L",
          "135–145 mEq/L"
@@ -194,7 +184,7 @@
     ]
    },
    "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's findings are most consistent with {0}. The elevated BNP primarily reflects {1}, and the S3 heart sound indicates {2}.",
+   "template": "The client's findings are most consistent with {0}. The orthopnea and crackles primarily reflect {1}, and the S3 heart sound in this client indicates {2}.",
    "blanks": [
     {
      "options": [
@@ -207,10 +197,10 @@
     },
     {
      "options": [
-      "myocardial cell death from coronary occlusion",
-      "ventricular wall stretch from volume and pressure overload",
-      "reduced renal clearance from dehydration",
-      "a systemic inflammatory response to infection"
+      "narrowing of the airways from bronchospasm",
+      "fluid backing into the lungs from the failing left ventricle",
+      "infection filling the alveoli with pus",
+      "a clot blocking blood flow in a pulmonary artery"
      ],
      "answer": 1
     },
@@ -224,9 +214,9 @@
      "answer": 2
     }
    ],
-   "rationale": "Orthopnea, crackles, JVD, bilateral edema, an S3, hypoxemia, and a markedly elevated BNP after a missed diuretic and a sodium load describe acute decompensated heart failure. BNP is released by ventricular myocytes in response to wall stretch from volume/pressure overload. An S3 (ventricular gallop) in an adult with HF reflects rapid early-diastolic filling into a volume-overloaded, poorly compliant ventricle. The normal troponin, absence of fever, and lack of wheezing argue against ACS, pneumonia, and COPD; an S4 comes from atrial contraction into a stiff ventricle, and friction rubs come from pericarditis.",
-   "takeaway": "BNP = ventricular stretch; S3 in an adult with HF = volume overload.",
-   "hintContent": "Recall which cells release BNP and what stimulus triggers its release, and when in the cardiac cycle an S3 occurs.",
+   "rationale": "Orthopnea, crackles, JVD, bilateral edema, an S3, and hypoxemia after a missed diuretic and a sodium load describe worsening (decompensated) heart failure with fluid overload. When the left ventricle cannot pump forward effectively, blood backs up into the pulmonary circulation and fluid moves into the alveoli, producing crackles and dyspnea that worsen lying flat. An S3 (ventricular gallop) can be normal in children, young adults, and women in the third trimester of pregnancy, but in a 72-year-old with heart failure it reflects rapid filling into an overloaded, poorly contracting ventricle (increased preload overstretching the muscle). The normal troponin, absence of fever, and lack of wheezing argue against acute coronary syndrome, pneumonia, and COPD; an S4 comes from atrial contraction into a stiff ventricle, and a friction rub comes from inflamed pericardial layers.",
+   "takeaway": "Crackles + orthopnea = fluid backing into the lungs; S3 in an older adult with HF = volume overload.",
+   "hintContent": "Recall which side of the heart backs up into the lungs when it fails, and in which groups an S3 is considered normal.",
    "hintStrategy": "Use the normal troponin, the absence of fever, and the fluid-related cues to rule out the competing conditions before choosing the mechanism blanks."
   },
   {
@@ -235,7 +225,7 @@
    "caseId": "m16d-case-hf",
    "caseOrder": 3,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · NGN Case Study: Acute Decompensated Heart Failure",
+   "ref": "Module 16 · Perfusion · NGN Case Study: Heart Failure with Fluid Overload",
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
@@ -292,11 +282,6 @@
          "Potassium",
          "3.6 mEq/L",
          "3.5–5.0 mEq/L"
-        ],
-        [
-         "BNP",
-         "1,480 pg/mL",
-         "<100 pg/mL"
         ]
        ]
       }
@@ -315,7 +300,7 @@
     "Edematous skin is at risk for breakdown, but this is a potential problem and does not threaten life as quickly as hypoxemia.",
     "Teaching is essential before discharge, but a client who is hypoxemic and dyspneic cannot learn effectively; this is addressed once the client is stable.",
     "Correct. Pulmonary congestion is impairing oxygenation (SpO₂ falling from 89% to 88%, RR 28). Breathing/oxygenation is the actual, acute, life-threatening problem.",
-    "A sodium of 132 mEq/L is mildly low from fluid retention and needs monitoring, but it is not causing symptoms and is less urgent than hypoxemia."
+    "A sodium of 132 mEq/L is mildly low from fluid retention (dilution) and needs monitoring, but it is not causing symptoms and is less urgent than hypoxemia."
    ],
    "rationale": "Using ABCs and 'actual over potential,' the priority is the problem that threatens oxygenation. The falling SpO₂, tachypnea, and crackles show fluid in the alveoli impairing gas exchange. Skin risk and knowledge deficit are real but less urgent, and mild dilutional hyponatremia is asymptomatic.",
    "takeaway": "Hypoxemia from pulmonary congestion outranks skin, teaching, and mild lab changes.",
@@ -328,7 +313,7 @@
    "caseId": "m16d-case-hf",
    "caseOrder": 4,
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · NGN Case Study: Acute Decompensated Heart Failure",
+   "ref": "Module 16 · Perfusion · NGN Case Study: Heart Failure with Fluid Overload",
    "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
@@ -382,80 +367,74 @@
    "caseId": "m16d-case-hf",
    "caseOrder": 5,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · NGN Case Study: Acute Decompensated Heart Failure",
-   "difficulty": 3,
+   "ref": "Module 16 · Perfusion · NGN Case Study: Heart Failure with Fluid Overload",
+   "difficulty": 2,
    "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>Day 1, 2000:</strong> Received furosemide 40 mg IV at 1450. Urine output since 1450: 1,650 mL. Breathing easier; crackles now in bases only. SpO₂ 94% on 2 L/min nasal cannula. Client reports leg cramps. Telemetry shows sinus rhythm at 96/min with new occasional premature ventricular contractions (PVCs).</p>"
+      "html": "<p><strong>Day 1, 2000:</strong> Received furosemide 40 mg IV at 1450. Urine output since 1450: 1,650 mL. Breathing easier; crackles now in the bases only. SpO₂ 94% on 2 L/min nasal cannula. At 1950 the client got up alone to use the bathroom, reported feeling dizzy, and was assisted back to bed without falling. The radial pulse, regular on admission, now feels irregular.</p>"
      },
      {
-      "title": "Laboratory Results",
+      "title": "Vital Signs",
       "table": {
        "headers": [
-        "Test",
-        "1400",
-        "1930",
-        "Reference range"
+        "Time",
+        "HR",
+        "RR",
+        "BP",
+        "SpO₂"
        ],
        "rows": [
         [
-         "Potassium",
-         "3.6 mEq/L",
-         "3.1 mEq/L",
-         "3.5–5.0 mEq/L"
+         "1430",
+         "110, regular",
+         "28",
+         "160/92",
+         "88% RA"
         ],
         [
-         "Magnesium",
-         "—",
-         "1.7 mg/dL",
-         "1.6–2.6 mg/dL"
-        ],
-        [
-         "Creatinine",
-         "1.4 mg/dL",
-         "1.4 mg/dL",
-         "0.6–1.2 mg/dL"
+         "2000",
+         "96, irregular (radial)",
+         "20",
+         "118/70",
+         "94% on 2 L/min"
         ]
        ]
       }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Potassium replacement protocol: K⁺ 3.0–3.4 mEq/L → potassium chloride 40 mEq PO once; recheck K⁺ 4 hours after dose</li><li>Furosemide 40 mg IV every 12 hours (next dose 0250)</li><li>Continuous telemetry</li></ul>"
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Laboratory Results, and Orders. Which actions should the nurse take? Select all that apply.",
+   "stem": "Refer to the Nurses' Notes and Vital Signs. Which actions should the nurse take? Select all that apply.",
    "options": [
-    "Administer potassium chloride 40 mEq by mouth per the replacement protocol",
-    "Notify the provider of the potassium level and the new PVCs",
-    "Administer potassium chloride 20 mEq by IV push to correct the level quickly",
-    "Cancel the 0250 furosemide dose because the client has diuresed well",
-    "Continue telemetry monitoring and observe for increasing ventricular ectopy",
-    "Encourage the client to drink extra water to replace the urine output"
+    "Count the apical pulse for a full minute and compare it with the radial rate",
+    "Place the call light within reach and ask the client to call before getting up",
+    "Encourage the client to drink extra water to replace the urine output",
+    "Notify the provider of the new irregular pulse",
+    "Continue to measure and record all intake and output",
+    "Lower the head of the bed flat so the dizziness resolves"
    ],
    "answer": [
     0,
     1,
+    3,
     4
    ],
    "optionRationales": [
-    "Correct. The level falls within the protocol range; giving the prescribed oral replacement corrects the diuretic-induced hypokalemia.",
-    "Correct. New ventricular ectopy with hypokalemia is a change in condition that the provider should know about, even while the protocol is initiated.",
-    "Incorrect. Potassium is never given by IV push — it can cause fatal dysrhythmias or cardiac arrest. IV potassium must be diluted and infused by pump.",
-    "Incorrect. The nurse cannot discontinue a prescribed medication independently; the client still has crackles and edema. Concerns are discussed with the provider.",
-    "Correct. Hypokalemia increases ventricular irritability; continuous monitoring allows early recognition of worsening dysrhythmias.",
-    "Incorrect. The client remains fluid overloaded with a 1,500 mL restriction; diuresis is the therapeutic goal, not something to replace."
+    "Correct. An irregular peripheral pulse is an indication for an apical pulse counted for a full minute; comparing it with the radial rate identifies a pulse deficit (beats too weak to reach the periphery).",
+    "Correct. Rapid diuresis plus dizziness on rising puts the client at high risk for falls; the call light and assistance with getting up keep the client safe.",
+    "Incorrect. The client is still fluid overloaded; removing excess fluid is the goal of therapy, so the output is not replaced.",
+    "Correct. A new irregular rhythm is a change in condition that the provider needs to know about.",
+    "Correct. Accurate intake and output (with daily weights) is how the nurse evaluates fluid removal.",
+    "Incorrect. Lying flat increases venous return to the lungs and would worsen orthopnea; the client should remain upright and rise slowly with help."
    ],
-   "rationale": "Loop diuretics cause potassium loss, and hypokalemia increases ventricular irritability (PVCs, leg cramps). The nurse implements the replacement protocol, notifies the provider of the new ectopy, and continues telemetry. IV push potassium is lethal, the nurse cannot independently cancel the diuretic, and replacing diuresed volume defeats the treatment goal.",
-   "takeaway": "Loop diuretic → K⁺ loss → PVCs/cramps: replace per protocol, monitor rhythm, never give K⁺ IV push.",
-   "hintContent": "Recall which electrolyte loop diuretics waste, what low levels do to cardiac muscle, and the safety rules for potassium administration.",
-   "hintStrategy": "Evaluate each option as true/false on its own. Eliminate any option that is unsafe or outside the nurse's independent scope."
+   "rationale": "After a large diuresis the client is breathing better but has two new problems: dizziness on rising (fall risk from fluid shifts) and a new irregular pulse. The nurse keeps the client safe with the call light and assistance, assesses the apical pulse for a full minute and compares it with the radial rate, reports the new rhythm, and continues strict I&O. Replacing the urine output would undo therapy, and lying flat would worsen pulmonary congestion.",
+   "takeaway": "After diuresis: fall precautions, strict I&O, and an apical pulse for any new irregular radial pulse.",
+   "hintContent": "Recall when an apical pulse is required instead of a radial pulse and why a client who has just lost a lot of fluid is at risk when standing.",
+   "hintStrategy": "Evaluate each option on its own: does it keep the client safe, gather accurate data, or communicate a change — or does it work against the goal of removing fluid?"
   },
   {
    "id": "m16d-006",
@@ -463,7 +442,7 @@
    "caseId": "m16d-case-hf",
    "caseOrder": 6,
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · NGN Case Study: Acute Decompensated Heart Failure",
+   "ref": "Module 16 · Perfusion · NGN Case Study: Heart Failure with Fluid Overload",
    "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
@@ -501,12 +480,6 @@
          "1.4 mg/dL",
          "1.9 mg/dL",
          "0.6–1.2 mg/dL"
-        ],
-        [
-         "BNP",
-         "1,480 pg/mL",
-         "520 pg/mL",
-         "<100 pg/mL"
         ]
        ]
       }
@@ -537,9 +510,9 @@
     "Improving. Less pulmonary congestion and resolution of orthopnea show better left ventricular unloading.",
     "Requires follow-up. A 24 mm Hg systolic drop with symptoms meets orthostatic hypotension criteria and suggests over-diuresis — a fall risk.",
     "Requires follow-up. A rising creatinine (with BUN 44) suggests reduced renal perfusion from aggressive diuresis; the provider may adjust the diuretic dose.",
-    "Improving. Potassium is now within normal limits after replacement."
+    "Improving. Potassium is within normal limits despite diuresis."
    ],
-   "rationale": "Evaluating outcomes compares current data with goals. Weight loss, clearing lungs, resolved orthopnea, falling BNP, and normal potassium show the treatment is working. However, symptomatic orthostatic hypotension and a rising BUN/creatinine suggest intravascular depletion and reduced kidney perfusion from diuresis — both need to be reported so therapy can be adjusted and falls prevented.",
+   "rationale": "Evaluating outcomes compares current data with goals. Weight loss, clearing lungs, and resolved orthopnea show the treatment is working, and potassium remains normal. However, symptomatic orthostatic hypotension and a rising BUN/creatinine suggest the client has lost too much circulating volume and the kidneys are receiving less blood flow — both need to be reported so therapy can be adjusted and falls prevented.",
    "takeaway": "Successful diuresis can overshoot: watch for orthostatic hypotension and rising creatinine.",
    "hintContent": "Recall the criteria for orthostatic hypotension and what a rising BUN and creatinine indicate about kidney perfusion.",
    "hintStrategy": "For each row, compare the day 3 value with the day 1 value and the goal of therapy; a finding can be a new problem even when the original problem is improving."
@@ -547,37 +520,45 @@
   {
    "id": "m16d-007",
    "type": "bowtie",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Acute Arterial Occlusion",
-   "difficulty": 3,
+   "topic": "lifespan",
+   "ref": "Module 16 · Perfusion · Lifespan Considerations · Older Adults · Orthostatic Hypotension",
+   "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1015:</strong> 78-year-old client with atrial fibrillation admitted yesterday for pneumonia. Reports stopping apixaban 1 week ago \"because it cost too much.\" At 0930 client suddenly developed severe pain in the right lower leg, rated 9/10. Right foot and leg pale and cool to mid-calf; no palpable popliteal, dorsalis pedis, or posterior tibial pulses on the right; no Doppler signal over the right dorsalis pedis. Capillary refill of right toes >5 seconds. Reports numbness of the right toes and can barely wiggle them. Left leg warm and pink with 2+ pulses.</p>"
+      "html": "<p><strong>0700:</strong> 82-year-old client admitted yesterday with dehydration after 3 days of diarrhea and poor oral intake. Takes two antihypertensive medications at home. At 0650 the client was found sitting on the floor beside the bed after getting up alone to use the bathroom; states, \"I got dizzy and my legs gave out.\" No head strike; moves all extremities without new pain. Alert and oriented ×3 (baseline). Oral mucous membranes dry; urine dark amber. Apical pulse regular.</p>"
      },
      {
       "title": "Vital Signs",
       "table": {
        "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
+        "Position (0710)",
         "BP",
-        "SpO₂"
+        "HR",
+        "Symptoms"
        ],
        "rows": [
         [
-         "1015",
-         "37.4 °C (99.3 °F)",
-         "112, irregularly irregular",
-         "22",
-         "148/86",
-         "95% on 2 L/min"
+         "Supine (5 min)",
+         "134/78",
+         "78",
+         "None"
+        ],
+        [
+         "Sitting (1 min)",
+         "116/70",
+         "92",
+         "Slightly lightheaded"
+        ],
+        [
+         "Standing (1 min)",
+         "102/64",
+         "104",
+         "Lightheaded, unsteady"
         ]
        ]
       }
@@ -587,214 +568,71 @@
    "stem": "Refer to the Nurses' Notes and Vital Signs. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
    "condition": {
     "options": [
-     "Deep vein thrombosis",
-     "Acute arterial occlusion",
-     "Acute compartment syndrome",
-     "Chronic venous insufficiency"
+     "Isolated systolic hypertension",
+     "Orthostatic hypotension",
+     "Acute ischemic stroke",
+     "Supine hypotensive syndrome"
     ],
     "answer": 1
    },
    "actions": {
     "options": [
-     "Elevate the right leg on 2 pillows above heart level",
-     "Apply a heating pad to the right foot",
-     "Notify the provider immediately using SBAR",
-     "Administer the prescribed IV heparin bolus and infusion",
-     "Massage the calf gently to stimulate circulation"
-    ],
-    "answer": [
-     2,
-     3
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Calf circumference compared with the left leg",
-     "Hemoglobin A1C",
-     "Doppler pulse signals, color, and temperature of the right foot",
-     "Sensation and movement of the right toes",
-     "Orthostatic blood pressure"
-    ],
-    "answer": [
-     2,
-     3
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect. DVT causes a warm, swollen, often reddened leg with intact arterial pulses — not a pale, cool, pulseless limb.",
-     "Correct. Sudden pain, pallor, pulselessness, poikilothermia (coolness), paresthesia, and early paralysis in a client with atrial fibrillation off anticoagulation indicate an embolic arterial occlusion.",
-     "Incorrect. Compartment syndrome follows trauma, fracture, or reperfusion and usually has a tense compartment with pulses present until late.",
-     "Incorrect. Chronic venous insufficiency develops slowly with edema, brown discoloration, and warm skin — not a sudden pulseless limb."
-    ],
-    "actions": [
-     "Incorrect. Elevating an ischemic limb further reduces arterial inflow; the leg should be kept flat or slightly dependent.",
-     "Incorrect. An ischemic, numb limb cannot sense heat and cannot dissipate it — direct heat risks burns and raises tissue oxygen demand.",
-     "Correct. Acute limb ischemia is a vascular emergency; limb viability depends on revascularization within hours.",
-     "Correct. Immediate anticoagulation with IV unfractionated heparin prevents clot propagation while revascularization is planned.",
-     "Incorrect. Massage does not restore arterial flow and could dislodge thrombus; it has no role here."
-    ],
-    "parameters": [
-     "Incorrect. Calf circumference monitors swelling from DVT, not arterial perfusion.",
-     "Incorrect. A1C reflects glucose control over about 3 months and does not track acute limb perfusion.",
-     "Correct. Return of Doppler signals, warmth, and color shows restored arterial inflow.",
-     "Correct. Sensory and motor function reflect nerve and muscle viability; worsening paralysis signals an immediately threatened limb.",
-     "Incorrect. Orthostatic BP assesses volume status, not perfusion of the affected limb."
-    ]
-   },
-   "rationale": "The '6 Ps' (pain, pallor, pulselessness, poikilothermia, paresthesia, paralysis) in a client with atrial fibrillation who stopped anticoagulation indicate acute embolic arterial occlusion. The nurse notifies the provider immediately and starts prescribed heparin, keeps the limb level or slightly dependent, and avoids heat and elevation. Serial neurovascular checks (pulses by Doppler, color, temperature, sensation, and movement) show whether perfusion is restored.",
-   "takeaway": "Pale, cold, pulseless, numb limb = arterial emergency: call now, heparin, no elevation, no heat.",
-   "hintContent": "Recall the '6 Ps' of acute limb ischemia and why atrial fibrillation without anticoagulation matters.",
-   "hintStrategy": "Pick the condition first, then choose only actions and parameters that fit THAT condition. Watch for options that belong to a venous problem."
-  },
-  {
-   "id": "m16d-008",
-   "type": "bowtie",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Shock (Septic)",
-   "difficulty": 3,
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>0630:</strong> 81-year-old client admitted 2 days ago from a long-term care facility with a urinary tract infection; oral antibiotic started yesterday. Now newly confused and pulling at bedding. Skin warm and flushed. Indwelling urinary catheter draining 45 mL of cloudy, foul-smelling urine over the past 3 hours. Lungs clear. No JVD. Weight 60 kg (132 lb).</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP (MAP)",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "2200",
-         "37.8 °C (100 °F)",
-         "96",
-         "20",
-         "118/70 (86)",
-         "96% RA"
-        ],
-        [
-         "0630",
-         "38.9 °C (102 °F)",
-         "122",
-         "26",
-         "84/46 (59)",
-         "93% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "18,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Lactate",
-         "4.6 mmol/L",
-         "0.5–2.0 mmol/L"
-        ],
-        [
-         "Creatinine",
-         "1.8 mg/dL",
-         "0.6–1.2 mg/dL"
-        ],
-        [
-         "BNP",
-         "90 pg/mL",
-         "<100 pg/mL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Cardiogenic shock",
-     "Anaphylactic shock",
-     "Hypovolemic shock",
-     "Septic shock"
-    ],
-    "answer": 3
-   },
-   "actions": {
-    "options": [
-     "Administer furosemide to increase urine output",
-     "Obtain blood cultures, then start the prescribed IV broad-spectrum antibiotic",
-     "Administer the prescribed IV crystalloid bolus of 30 mL/kg",
-     "Restrict fluids to 1,000 mL/day to prevent pulmonary edema",
-     "Remove the indwelling catheter and obtain a clean-catch specimen"
-    ],
-    "answer": [
-     1,
-     2
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Mean arterial pressure",
-     "Serum cholesterol",
-     "Serum lactate trend",
-     "B-type natriuretic peptide",
-     "Peak expiratory flow"
+     "Have the client sit on the edge of the bed for a few minutes before standing",
+     "Encourage the client to stand up quickly so the dizziness passes sooner",
+     "Keep the client on strict bed rest for the rest of the admission",
+     "Place the call light within reach and instruct the client to call before getting up",
+     "Give the scheduled antihypertensive without rechecking the BP"
     ],
     "answer": [
      0,
-     2
+     3
+    ]
+   },
+   "parameters": {
+    "options": [
+     "Serum cholesterol",
+     "Lying, sitting, and standing blood pressure and pulse",
+     "Apical-radial pulse deficit",
+     "Intake and output, including urine color",
+     "Pedal pulse symmetry"
+    ],
+    "answer": [
+     1,
+     3
     ]
    },
    "optionRationales": {
     "condition": [
-     "Incorrect. Cardiogenic shock presents with cool, clammy skin, crackles, JVD, and an elevated BNP — this client has clear lungs, no JVD, and a normal BNP.",
-     "Incorrect. Anaphylaxis follows an allergen exposure with urticaria, angioedema, or wheezing; none are present.",
-     "Incorrect. Hypovolemic shock usually causes cool, pale skin and has no fever or leukocytosis; this client's warm skin, fever, and infection source point elsewhere.",
-     "Correct. A known infection with fever, leukocytosis, hypotension (MAP 59), lactate >4 mmol/L, new confusion, and oliguria indicate septic shock."
+     "Incorrect. Isolated systolic hypertension is an elevated systolic pressure with normal diastolic pressure; this client's pressure falls when upright.",
+     "Correct. A systolic drop of 32 mm Hg with a rising pulse and dizziness on standing is orthostatic hypotension, made more likely by dehydration, antihypertensive medications, and age.",
+     "Incorrect. Neurologic status is at baseline and the symptoms are positional; nothing suggests a focal deficit.",
+     "Incorrect. Supine hypotensive syndrome occurs in late pregnancy when the uterus compresses the vena cava in the supine position."
     ],
     "actions": [
-     "Incorrect. Oliguria here reflects hypoperfusion; a diuretic would worsen hypotension.",
-     "Correct. Cultures before antibiotics identify the organism, and IV broad-spectrum antibiotics should begin as soon as possible (ideally within 1 hour of recognition).",
-     "Correct. Surviving Sepsis guidance supports at least 30 mL/kg of IV crystalloid within the first 3 hours for hypotension or lactate ≥4 mmol/L (1,800 mL for this 60-kg client), with reassessment for fluid overload.",
-     "Incorrect. The client is intravascularly depleted from vasodilation and capillary leak; restricting fluid worsens perfusion.",
-     "Incorrect. The catheter may need to be replaced, but this is not a priority action for shock and a clean-catch specimen is not possible in a confused client."
+     "Correct. Dangling before standing gives the older adult's slower cardiovascular reflexes time to adjust.",
+     "Incorrect. Rising quickly worsens the drop in BP and increases fall risk.",
+     "Incorrect. Prolonged bed rest causes deconditioning and actually worsens orthostatic intolerance; the goal is safe, assisted mobility.",
+     "Correct. After a fall, the client needs assistance with every transfer; the call light keeps help within reach.",
+     "Incorrect. Antihypertensives increase orthostatic hypotension; the nurse checks BP first and discusses holding the dose with the provider."
     ],
     "parameters": [
-     "Correct. The target MAP is ≥65 mm Hg; MAP shows whether fluids (and vasopressors, if needed) are restoring perfusion pressure.",
-     "Incorrect. Cholesterol has no role in acute sepsis monitoring.",
-     "Correct. A falling lactate shows improving tissue perfusion; guidelines recommend remeasuring an elevated initial lactate.",
-     "Incorrect. BNP is used to evaluate heart failure, not the response to sepsis resuscitation.",
-     "Incorrect. Peak flow monitors airway obstruction in asthma."
+     "Incorrect. Cholesterol is a long-term risk factor and does not reflect this problem.",
+     "Correct. Repeating orthostatic vital signs (supine first, then sitting and standing) shows whether the postural drop is resolving as the client is rehydrated.",
+     "Incorrect. The apical pulse is regular; a pulse deficit is not expected and does not track this problem.",
+     "Correct. Intake and output and urine color show whether fluid volume is being restored, which corrects the cause of the drop.",
+     "Incorrect. Pedal pulses assess peripheral arterial flow, not postural BP changes."
     ]
    },
-   "rationale": "Infection plus hypotension (MAP 59 mm Hg), a lactate of 4.6 mmol/L, altered mentation, and oliguria indicate septic shock — widespread vasodilation and capillary leak cause distributive shock. Initial actions are cultures, prompt broad-spectrum antibiotics, and a crystalloid bolus of 30 mL/kg as prescribed; vasopressors are added if MAP stays below 65 mm Hg despite fluids. Progress is tracked with MAP (goal ≥65 mm Hg), lactate clearance, urine output, and mental status.",
-   "takeaway": "Sepsis bundle: lactate, cultures, antibiotics, 30 mL/kg crystalloid, vasopressors for MAP <65.",
-   "hintContent": "Recall how warm skin, fever, and a normal BNP help distinguish distributive shock from cardiogenic and hypovolemic shock.",
-   "hintStrategy": "Choose the condition from the whole picture, then select actions that treat its cause and parameters that measure perfusion — not tests for other body systems."
+   "rationale": "Dehydration, antihypertensive medications, and age-related changes (slower reflex responses, stiffer vessels) all put this older adult at risk for orthostatic hypotension, and falls are often the first sign of a cardiovascular problem in older adults. The nurse promotes safety (dangling before standing, call light, assistance with transfers) and monitors orthostatic vital signs and fluid balance to see whether the cause is being corrected.",
+   "takeaway": "Older adult + dehydration + antihypertensives + fall = check lying-to-standing vital signs; dangle, assist, rehydrate.",
+   "hintContent": "Recall how orthostatic vital signs are measured and which factors in older adults increase the risk of hypotension on standing.",
+   "hintStrategy": "Pick the condition from the positional pattern first, then choose actions that prevent another fall and parameters that show whether the cause is improving."
   },
   {
    "id": "m16d-009",
    "type": "highlight",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Home Monitoring",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Common Errors",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
@@ -814,20 +652,20 @@
     "Correct practice. An arm supported at heart level avoids falsely high (arm too low) or falsely low (arm too high) readings.",
     "Needs further teaching. The cuff must be placed on bare skin; clothing under the cuff can distort the reading.",
     "Needs further teaching. Talking raises readings; the client should sit quietly during measurement.",
-    "Correct practice. The AHA recommends at least two readings 1 minute apart, morning and evening.",
-    "Correct practice. A validated upper-arm device with the correct cuff size is recommended.",
+    "Correct practice. Taking two readings a minute apart confirms the value and reduces random error.",
+    "Correct practice. An upper-arm cuff of the correct size gives an accurate reading; a cuff that is too small reads falsely high.",
     "Needs further teaching. All readings should be recorded (or the device memory shared); reporting only the lower reading hides true BP control."
    ],
-   "rationale": "Home BP readings guide diagnosis and medication titration, so technique errors can lead to over- or under-treatment. The client should avoid caffeine, smoking, and exercise for 30 minutes, rest quietly 5 minutes, place the cuff on bare skin, stay silent, and record all readings. Sitting with back supported, feet flat, arm at heart level, two readings 1 minute apart, and a validated, properly sized upper-arm cuff are correct.",
+   "rationale": "Accurate readings guide treatment, so technique errors can lead to over- or under-treatment. The client should avoid caffeine, smoking, and exercise for 30 minutes, rest quietly first, place the cuff on bare skin, stay silent during the reading, and record every reading. Sitting with the back supported, feet flat, arm at heart level, repeating the reading after a short wait, and using a correctly sized upper-arm cuff are correct.",
    "takeaway": "Home BP: no caffeine/smoke 30 min, rest 5 min, bare arm at heart level, silent, 2 readings, record all.",
-   "hintContent": "Recall the AHA preparation and positioning steps for accurate home BP measurement.",
+   "hintContent": "Recall the preparation and positioning steps that prevent falsely high or low blood pressure readings.",
    "hintStrategy": "You are looking for errors. Read each highlighted phrase and ask, 'Would this make the reading inaccurate or misleading?'"
   },
   {
    "id": "m16d-010",
    "type": "highlight",
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Shock (Hypovolemic)",
+   "ref": "Module 16 · Perfusion · Hypotension · Bleeding and Pulse Pressure",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
@@ -888,47 +726,49 @@
     "Does not require immediate follow-up by itself. A dry dressing does not rule out internal (intra-abdominal) bleeding.",
     "Does not require immediate follow-up. Hypoactive bowel sounds are expected after bowel surgery."
    ],
-   "rationale": "Early (compensated) hypovolemic shock produces restlessness, tachycardia, cool clammy skin, narrowing pulse pressure, and oliguria before the systolic BP drops dramatically. A dry dressing does not exclude internal hemorrhage after abdominal surgery. Low-grade temperature, controlled pain, normal SpO₂, and hypoactive bowel sounds are expected postoperative findings.",
-   "takeaway": "Narrowing pulse pressure + rising HR + restlessness + oliguria = compensated shock, even with a 'normal' systolic BP.",
-   "hintContent": "Recall the compensatory mechanisms (sympathetic activation, vasoconstriction, renal conservation) of early shock and how they change pulse pressure.",
+   "rationale": "Bleeding lowers blood volume, one of the main determinants of blood pressure. Before the systolic pressure falls dramatically, the body compensates: the heart rate rises, vessels constrict (cool, pale, moist skin), the pulse pressure narrows, urine output falls, and reduced cerebral perfusion causes restlessness. A dry dressing does not exclude internal bleeding after abdominal surgery. Low-grade temperature, controlled pain, normal SpO₂, and hypoactive bowel sounds are expected postoperative findings.",
+   "takeaway": "Narrowing pulse pressure + rising HR + restlessness + low urine output = reduced perfusion from volume loss, even with a \"normal\" systolic BP.",
+   "hintContent": "Recall the determinants of blood pressure and how the body compensates when blood volume falls.",
    "hintStrategy": "Compare each finding with the 1400 baseline and with expected postoperative findings; highlight changes that signal reduced perfusion."
   },
   {
    "id": "m16d-011",
    "type": "highlight",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Peripheral Artery Disease",
+   "ref": "Module 16 · Perfusion · Nursing Assessment · Inspection and Palpation",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is assessing a 70-year-old client with long-standing peripheral artery disease (PAD), type 2 diabetes, and a 45-pack-year smoking history at a routine clinic visit. Click to highlight the findings that indicate progression of the disease and require prompt follow-up.",
-   "passage": "Client reports {{calf cramping after walking 2 blocks that resolves with 5 minutes of rest}}, unchanged for a year. New this month: {{burning pain in the right foot at night that is relieved by hanging the leg over the side of the bed}}. On inspection, {{shiny, hairless skin on both lower legs}}, {{thick, slow-growing toenails}}, {{a black, dry area on the tip of the right second toe}}, and {{a pale, punched-out wound on the right lateral ankle that has not healed in 6 weeks}}. {{Dorsalis pedis pulses 1+ bilaterally, unchanged from the last visit}}. {{BP 136/82}}.",
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The nurse performs a cardiovascular inspection and palpation on a 58-year-old client with hypertension and a family history of early coronary artery disease. Click to highlight the findings that are NOT expected in a normal cardiovascular examination.",
+   "passage": "Skin color is {{even and homogeneous}}. Both earlobes have {{a diagonal crease}}. Lips are {{smooth and pink}}. With the head of the bed at 45°, {{the jugular veins are visible and distended}}. Carotid pulses are {{symmetric in appearance and on palpation}}. {{Pulsations are visible over the left precordium}}. Fingernails are {{slightly curved without cyanosis}}. The lower legs are {{cool with sparse hair on the left and warm with even hair on the right}}. {{A slight vibration is palpable at the apex}}.",
    "answer": [
     1,
-    4,
-    5
+    3,
+    5,
+    7
    ],
    "optionRationales": [
-    "Stable. Reproducible claudication that resolves with rest and is unchanged over a year is the expected chronic pattern.",
-    "Requires prompt follow-up. Ischemic rest pain relieved by dependency means blood flow is inadequate even at rest — a sign of chronic limb-threatening ischemia.",
-    "Expected. Thin, shiny, hairless skin is a chronic trophic change of arterial insufficiency.",
-    "Expected. Thickened nails are a chronic trophic change of reduced arterial flow.",
-    "Requires prompt follow-up. A black, dry area indicates dry gangrene (tissue necrosis).",
-    "Requires prompt follow-up. A nonhealing arterial ulcer (pale base, punched-out edges, lateral ankle) signals critical ischemia and high amputation risk.",
-    "Stable. Diminished pulses are expected with PAD; they are unchanged from baseline.",
-    "Stable. The BP is stage 1 range and needs ongoing management, but it does not signal limb-threatening progression."
+    "Expected. Even, homogeneous skin color is normal.",
+    "Not expected. Normal earlobes have flat skin without creases; a diagonal earlobe crease has been associated with coronary artery disease and warrants further assessment.",
+    "Expected. Smooth lips without cyanosis are normal.",
+    "Not expected. Jugular veins are normally flat and not visible; distention suggests increased venous pressure, as in fluid overload or right-sided heart failure.",
+    "Expected. Carotid pulses should be symmetric bilaterally.",
+    "Not expected. No pulsations should be visible over the precordium (only aortic pulsations in the suprasternal notch of thin clients).",
+    "Expected. Slightly curved or flat nails without cyanosis are normal.",
+    "Not expected. Lower extremities should have even temperature and color with symmetric hair distribution; a cool, hairless leg suggests reduced arterial flow on that side.",
+    "Expected. A slight vibration palpable at the apical area is a normal finding."
    ],
-   "rationale": "Chronic PAD commonly causes stable claudication, diminished pulses, and trophic changes (shiny hairless skin, thick nails). Progression to chronic limb-threatening ischemia is signaled by ischemic rest pain (often relieved by dangling the leg), nonhealing wounds, and gangrene — these warrant urgent vascular referral for revascularization evaluation.",
-   "takeaway": "Claudication is chronic; rest pain, nonhealing wounds, or gangrene = limb-threatening ischemia.",
-   "hintContent": "Recall the difference between intermittent claudication and ischemic rest pain, and the signs of tissue loss in PAD.",
-   "hintStrategy": "The stem says 'progression' — distinguish findings that are new or signal tissue death from findings that are expected and stable in chronic PAD."
+   "rationale": "A normal cardiovascular inspection shows even skin color, pink lips, earlobes without creases, flat jugular veins, symmetric carotid pulses, no visible precordial pulsations, nails without cyanosis, and lower extremities that are symmetric in temperature, color, and hair distribution. A slight apical vibration is normal. The abnormal findings here — earlobe creases, JVD, precordial pulsations, and an asymmetric cool, hairless leg — need further assessment and reporting.",
+   "takeaway": "Normal CV inspection: flat neck veins, no precordial pulsations, crease-free earlobes, symmetric legs.",
+   "hintContent": "Recall the expected findings of a normal cardiovascular inspection from head to lower extremities.",
+   "hintStrategy": "Compare each finding with what a normal exam looks like; symmetric, flat, and even findings are usually expected."
   },
   {
    "id": "m16d-012",
    "type": "mcq",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Alternate Sites",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Sites and Contraindicated Limbs",
    "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
@@ -947,7 +787,7 @@
     "Correct. With both arms unavailable, the thigh is the alternative site: a large thigh cuff is placed on the midthigh and the popliteal artery is auscultated with the client prone (or supine with the knee slightly flexed).",
     "Incorrect. In adults the thigh systolic pressure is normally about 10–40 mm Hg HIGHER than the brachial pressure; the diastolic is about the same."
    ],
-   "rationale": "BP is not measured on a limb with a cast, IV/PICC, AV fistula, injury, or on the side of an axillary node dissection. The thigh is the alternate site, using an appropriately sized thigh cuff over the popliteal artery. Thigh systolic readings normally run 10–40 mm Hg higher than brachial readings, so the site must be documented.",
+   "rationale": "BP is not measured on a limb with a cast or bulky bandage, an IV infusion, an arteriovenous fistula, an injury or disease, or on the side where axillary lymph nodes were removed. The thigh is the alternate site, using an appropriately sized thigh cuff over the popliteal artery. Thigh systolic readings normally run higher than brachial readings, so the site must be documented.",
    "takeaway": "Thigh BP: large thigh cuff, popliteal artery, systolic runs higher — document the site.",
    "hintContent": "Recall which limbs should not be used for BP and how cuff size and the thigh site affect the reading.",
    "hintStrategy": "Eliminate options that use a restricted limb or the wrong cuff, then check the remaining options for an incorrect expected value."
@@ -956,124 +796,68 @@
    "id": "m16d-013",
    "type": "mcq",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Out-of-Office Measurement",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Common Errors",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A 48-year-old client has had clinic BP readings of 152/94 and 150/92 at two visits. The client brings a 2-week log from a validated upper-arm home monitor (checked against the clinic device) showing an average of 122/76. The client takes no medications and has no target-organ damage. How should the nurse interpret these data?",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A nurse who is behind schedule measures a client's blood pressure manually, deflating the cuff at about 10 mm Hg per second, and records 118/84. Which statement best describes the likely effect of this technique?",
    "options": [
-    "The client has stage 2 hypertension and needs medication started today",
-    "The pattern suggests white-coat hypertension; confirm it with out-of-office monitoring",
-    "The pattern suggests masked hypertension, which carries a higher risk than office readings indicate",
-    "The home readings are unreliable, so the diagnosis should be based on clinic readings only"
+    "The systolic may read falsely low and the diastolic falsely high",
+    "Both readings will be accurate if the cuff is the correct size",
+    "The systolic will read falsely high because the cuff was overinflated",
+    "Fast deflation changes the reading only in clients with irregular rhythms"
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. Current AHA/ACC guidance recommends confirming an office diagnosis with out-of-office readings; these home readings are normal.",
-    "Correct. Elevated office BP (≥130/80) with normal out-of-office BP (<130/80) defines white-coat hypertension; ambulatory or continued home monitoring confirms it, and the client needs periodic follow-up because risk of sustained hypertension is higher.",
-    "Incorrect. Masked hypertension is the reverse pattern — normal office readings with elevated out-of-office readings.",
-    "Incorrect. A validated upper-arm device checked against the clinic device provides reliable data that guidelines encourage using."
+    "Correct. When the cuff deflates too fast, the needle passes the true first Korotkoff sound before the nurse registers it (underestimating systolic) and passes the true last sound too quickly (overestimating diastolic).",
+    "Incorrect. Correct cuff size does not compensate for deflating too quickly; both technique and equipment must be correct.",
+    "Incorrect. Overinflation causes discomfort but does not raise the reading; the error here is the deflation rate.",
+    "Incorrect. Rapid deflation produces errors in every client, not only those with irregular rhythms."
    ],
-   "rationale": "The AHA/ACC guidelines recommend out-of-office BP (home or ambulatory monitoring) to confirm hypertension and detect white-coat and masked patterns. Office readings ≥130/80 with home averages <130/80 indicate white-coat hypertension. Treating based on office readings alone could lead to unnecessary medication and hypotension at home.",
-   "takeaway": "High in clinic, normal at home = white-coat; normal in clinic, high at home = masked.",
-   "hintContent": "Recall how office and out-of-office BP patterns are used to classify white-coat and masked hypertension.",
-   "hintStrategy": "Compare where the BP is high versus where it is normal, and consider how reliable the home data are before deciding."
-  },
-  {
-   "id": "m16d-014",
-   "type": "mcq",
-   "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Severe Hypertension",
-   "difficulty": 3,
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 58-year-old client with hypertension ran out of amlodipine 1 week ago. At a clinic visit, the BP is 188/122; after 5 minutes of quiet rest, it is 186/120. The client denies headache, chest pain, dyspnea, vision changes, or weakness, and a focused neurologic exam is normal. Which action by the nurse is most appropriate?",
-   "options": [
-    "Arrange immediate transfer to the emergency department for an IV antihypertensive infusion",
-    "Administer a sublingual immediate-release nifedipine capsule to lower the BP quickly",
-    "Have the client lie down in a dark room and recheck the BP in 1 hour before notifying anyone",
-    "Notify the provider and anticipate restarting oral therapy with close follow-up"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Incorrect. Without acute target-organ damage, severe hypertension does not require emergency IV therapy; rapid lowering can cause cerebral, renal, or coronary ischemia.",
-    "Incorrect. Sublingual immediate-release nifedipine causes unpredictable, precipitous BP drops and is not recommended.",
-    "Incorrect. The provider should be informed now; delaying communication of a severely elevated BP is unsafe even when the client is asymptomatic.",
-    "Correct. BP >180/120 without signs of acute target-organ damage (severe hypertension) is managed by reinstituting or intensifying oral medication with close follow-up."
-   ],
-   "rationale": "The 2025 AHA/ACC guideline defines severe hypertension as BP >180/120. The key question is whether acute target-organ damage is present: if yes, it is a hypertensive emergency needing ICU-level IV therapy; if no, as here, oral therapy is restarted or intensified and BP is lowered gradually over days to weeks. Rapid lowering in an asymptomatic client can cause harm.",
-   "takeaway": "Severe BP without organ damage → oral meds and follow-up; with organ damage → emergency IV therapy.",
-   "hintContent": "Recall what distinguishes a hypertensive emergency from severe hypertension without target-organ damage.",
-   "hintStrategy": "Look at the symptom data in the stem before reacting to the number; the treatment setting depends on whether organs are being damaged."
-  },
-  {
-   "id": "m16d-015",
-   "type": "mcq",
-   "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Antihypertensive Therapy · Lifespan",
-   "difficulty": 2,
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A 29-year-old client with chronic hypertension that is well controlled on lisinopril 20 mg daily tells the clinic nurse, \"My partner and I plan to start trying for a baby next month.\" Which response by the nurse is most appropriate?",
-   "options": [
-    "\"Stop the lisinopril now so it is out of your system before you conceive.\"",
-    "\"Keep taking it until your pregnancy test is positive, and then stop it.\"",
-    "\"Let's arrange a visit with your provider to change medications first.\"",
-    "\"Lisinopril is safe in pregnancy, so continue your usual daily dose.\""
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Incorrect. Stopping an antihypertensive without a replacement can cause uncontrolled hypertension; changes are made with the provider.",
-    "Incorrect. Waiting until pregnancy is confirmed risks fetal exposure; the regimen should be changed before conception.",
-    "Correct. ACE inhibitors (and ARBs) are fetotoxic, causing fetal kidney damage and oligohydramnios. The provider should switch to a pregnancy-compatible agent such as labetalol or nifedipine before conception.",
-    "Incorrect. ACE inhibitors are contraindicated in pregnancy."
-   ],
-   "rationale": "ACE inhibitors and ARBs are contraindicated in pregnancy because they impair fetal kidney development and can cause oligohydramnios, growth restriction, and fetal death, particularly in the second and third trimesters. Clients of childbearing potential who plan pregnancy should be switched to a pregnancy-compatible antihypertensive (labetalol, nifedipine, or methyldopa) before conception, under provider direction, with continued BP monitoring.",
-   "takeaway": "Planning pregnancy on an ACE inhibitor or ARB → switch drugs with the provider before conception; never just stop.",
-   "hintContent": "Recall the pregnancy risk of drugs that block the renin–angiotensin system and which antihypertensives are preferred in pregnancy.",
-   "hintStrategy": "Look for the response that protects both the fetus and the client's BP control while staying within the nurse's scope."
+   "rationale": "Haste is one of the most common errors in BP measurement. The cuff should be deflated at 2–3 mm Hg per second so the nurse can accurately identify the first sound (phase I, systolic) and the disappearance of sounds (phase V, diastolic, in adults). Deflating too quickly underestimates systolic and overestimates diastolic pressure. The nurse should repeat the measurement with correct technique.",
+   "takeaway": "Deflate at 2–3 mm Hg per second — haste lowers the systolic and raises the diastolic reading.",
+   "hintContent": "Recall the recommended cuff deflation rate and which Korotkoff phases mark systolic and diastolic pressure.",
+   "hintStrategy": "Picture the gauge moving quickly past the moment the first and last sounds occur, and decide which way each number would be off."
   },
   {
    "id": "m16d-016",
    "type": "mcq",
-   "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Lifespan: Pregnancy",
-   "difficulty": 3,
-   "cjmm": "Take Action",
+   "topic": "lifespan",
+   "ref": "Module 16 · Perfusion · Lifespan Considerations · Pregnancy",
+   "difficulty": 1,
+   "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client at 32 weeks' gestation with preeclampsia has a BP of 164/112 that is 166/110 when repeated 15 minutes later. She reports a headache. The provider prescribes labetalol 20 mg IV. Which action by the nurse is most appropriate?",
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A healthy client at 22 weeks' gestation has a BP of 102/62 and a pulse of 84 while sitting. Her prepregnancy BP was 118/76 with a pulse of 72. She has no symptoms. How should the nurse interpret these findings?",
    "options": [
-    "Recheck the BP in 4 hours to confirm the reading before giving any antihypertensive",
-    "Give the labetalol within 30–60 minutes of the confirmed severe-range reading",
-    "Give the labetalol and titrate further doses to reach a BP below 120/80",
-    "Place the client supine and flat to improve blood flow to the placenta"
+    "Expected; BP normally reaches its lowest point in the second trimester",
+    "Abnormal; the drop in BP suggests hidden bleeding that needs evaluation",
+    "Abnormal; the pulse should stay at the prepregnancy rate throughout pregnancy",
+    "Expected only because she was supine when the reading was taken"
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. The 4-hour interval is used to diagnose gestational hypertension at 140/90; persistent severe-range BP (≥160/110) is an emergency that must be treated promptly.",
-    "Correct. Acute-onset severe hypertension in pregnancy that persists for 15 minutes should be treated with a first-line agent (IV labetalol, IV hydralazine, or oral immediate-release nifedipine) as soon as possible, ideally within 30–60 minutes, to reduce the risk of maternal stroke.",
-    "Incorrect. Overly aggressive lowering can reduce uteroplacental perfusion; the usual target is about 140–150/90–100.",
-    "Incorrect. Supine positioning compresses the vena cava (supine hypotensive syndrome); a lateral position improves placental blood flow."
+    "Correct. BP falls to its lowest point during the second trimester and gradually rebounds toward prepregnancy levels near term; a modestly higher pulse is also expected as cardiac output rises.",
+    "Incorrect. An asymptomatic client with a modest, expected drop and stable pulse does not show signs of bleeding.",
+    "Incorrect. Cardiac output increases early in pregnancy, and by term the pulse may be 10–15/min higher than before pregnancy.",
+    "Incorrect. The reading was taken sitting; the lower BP reflects the normal second-trimester pattern, not supine positioning."
    ],
-   "rationale": "Per ACOG guidance, persistent severe-range BP (systolic ≥160 or diastolic ≥110) in pregnancy is a hypertensive emergency. Timely treatment with IV labetalol, IV hydralazine, or oral immediate-release nifedipine reduces the risk of maternal stroke. BP is lowered to a moderate range, not normal, to protect placental perfusion, and the client is positioned on her side.",
-   "takeaway": "Pregnancy BP ≥160/110 for 15 min → treat within 30–60 min; don't drop it to normal.",
-   "hintContent": "Recall the severe-range BP threshold in pregnancy and why maternal BP should not be lowered too far.",
-   "hintStrategy": "Ask how urgent this BP is for this population, then eliminate options that delay treatment or harm the fetus."
+   "rationale": "Pregnancy changes perfusion: cardiac output increases early, the pulse rises by up to 10–15/min by term, and BP falls to its lowest point in the second trimester before gradually rebounding. Knowing these normal patterns (and the client's baseline) prevents misinterpreting expected findings as problems.",
+   "takeaway": "Pregnancy: CO up, pulse up 10–15, BP lowest in the 2nd trimester.",
+   "hintContent": "Recall how cardiac output, pulse, and BP change across the trimesters of pregnancy.",
+   "hintStrategy": "Compare the size of each change with what is expected at this point in pregnancy before deciding it is abnormal."
   },
   {
    "id": "m16d-017",
    "type": "mcq",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Carotid Arteries",
+   "ref": "Module 16 · Perfusion · Nursing Assessment · Carotid Pulses",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A 70-year-old client with hypertension and hyperlipidemia reports that yesterday \"a shade came down over my right eye\" for about 5 minutes and then cleared. On auscultation, the nurse hears a low-pitched blowing sound over the right carotid artery. How should the nurse interpret this finding?",
+   "stem": "During a routine assessment of a 70-year-old client with hypertension and high cholesterol, the nurse auscultates the carotid arteries with the bell and hears a low-pitched blowing sound over the right carotid artery. How should the nurse interpret this finding?",
    "options": [
     "It is a sound transmitted from the aortic valve and does not require follow-up",
     "It is a venous hum that will disappear if the client turns the head to the left",
@@ -1082,105 +866,21 @@
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A bruit with transient monocular vision loss must not be dismissed; transmitted murmurs are a diagnosis the provider makes after imaging.",
-    "Incorrect. A venous hum is continuous and heard over the jugular veins; this blowing sound over the artery with neurologic symptoms suggests arterial disease.",
+    "Incorrect. A bruit over the carotid artery should not be dismissed; whether a sound is transmitted from the heart is determined by the provider after further testing.",
+    "Incorrect. A venous hum is heard over the jugular veins; a blowing sound over the carotid artery suggests arterial narrowing.",
     "Incorrect. Carotids are never palpated simultaneously — this can reduce cerebral blood flow or trigger a vagal response.",
-    "Correct. A carotid bruit reflects turbulent flow, commonly from atherosclerotic stenosis. Transient monocular blindness (amaurosis fugax) on the same side is a TIA symptom, placing the client at high short-term stroke risk; the finding must be reported promptly."
+    "Correct. A carotid bruit reflects turbulent flow, commonly from atherosclerotic narrowing, which increases the client's risk of stroke; the finding is reported for further evaluation."
    ],
-   "rationale": "The bell of the stethoscope is used to auscultate carotid arteries for bruits. A bruit with ipsilateral transient monocular vision loss suggests carotid stenosis with a retinal TIA. The client needs urgent evaluation (carotid duplex ultrasound) because the risk of stroke is highest in the days after a TIA. Carotids are palpated one side at a time.",
-   "takeaway": "Carotid bruit + transient vision loss = TIA warning; report promptly and palpate one carotid at a time.",
-   "hintContent": "Recall what a bruit represents and the significance of transient monocular vision loss.",
-   "hintStrategy": "Connect the history (the symptom) with the physical finding; an option that dismisses a finding linked to symptoms is rarely correct."
-  },
-  {
-   "id": "m16d-018",
-   "type": "mcq",
-   "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Postoperative Vascular Checks",
-   "difficulty": 3,
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client is 6 hours postoperative after a right femoral-popliteal bypass graft. Hourly Doppler checks of the right dorsalis pedis have shown a strong signal at the marked site. At 2200, the nurse cannot obtain a Doppler signal at the marked site or over the posterior tibial artery, the right foot is cool and pale, and the client reports new numbness of the toes. Which action should the nurse take first?",
-   "options": [
-    "Elevate the right leg on pillows and recheck the pulse in 1 hour",
-    "Wrap the right foot in a warm blanket and reassess in 30 minutes",
-    "Notify the surgeon immediately of the loss of the pulse signal",
-    "Document the findings and continue hourly neurovascular checks"
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Incorrect. Elevation reduces arterial inflow to an ischemic limb, and waiting an hour delays treatment of possible graft occlusion.",
-    "Incorrect. A light blanket for comfort is acceptable, but warmth does not restore flow, and delaying notification risks limb loss.",
-    "Correct. Loss of a previously present pulse with coolness, pallor, and new numbness suggests acute graft thrombosis — a surgical emergency requiring immediate notification.",
-    "Incorrect. Documentation alone fails to rescue the client; the change requires immediate action."
-   ],
-   "rationale": "After arterial bypass, the most important finding is a change from baseline. A pulse that was present and is now absent, with the 'Ps' of acute ischemia, signals graft occlusion. The nurse confirms quickly at the marked site (done here) and notifies the surgeon immediately, because revascularization delays lead to limb loss.",
-   "takeaway": "After bypass, a lost pulse is an emergency — call the surgeon now.",
-   "hintContent": "Recall why the pulse site is marked after vascular surgery and what a change from baseline means.",
-   "hintStrategy": "The stem asks what to do FIRST. The data already confirm the change, so choose the action that gets definitive help fastest."
-  },
-  {
-   "id": "m16d-019",
-   "type": "mcq",
-   "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Ankle-Brachial Index",
-   "difficulty": 3,
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A 68-year-old client with a 20-year history of type 2 diabetes and chronic kidney disease reports calf pain when walking. The ankle-brachial index (ABI) is 1.52 on the right and 1.48 on the left. How should the nurse interpret these results?",
-   "options": [
-    "The arteries are likely noncompressible; a toe-brachial index is needed",
-    "The results are normal, and PAD is excluded as the cause of the leg pain",
-    "The results indicate severe PAD with a high risk of limb loss",
-    "The results indicate the cuff was too large and the test should be repeated with a smaller cuff"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. An ABI >1.40 indicates noncompressible (calcified) arteries, common in long-standing diabetes and CKD. The result is falsely elevated and cannot exclude PAD; a toe-brachial index is used instead.",
-    "Incorrect. A normal ABI is 1.00–1.40; values above 1.40 are not 'extra normal' and can hide significant disease.",
-    "Incorrect. Severe PAD produces a LOW ABI (below 0.40), not a high one.",
-    "Incorrect. Cuff size problems do not explain bilaterally high values in a client with classic risk factors for medial calcification."
-   ],
-   "rationale": "ABI = ankle systolic pressure ÷ brachial systolic pressure. Normal is 1.00–1.40, 0.91–0.99 is borderline, ≤0.90 is abnormal, and >1.40 indicates noncompressible arteries. Diabetes and CKD cause medial arterial calcification, so the cuff cannot compress the vessel and the reading is falsely high. A toe-brachial index is recommended when ABI is >1.40.",
-   "takeaway": "ABI >1.40 = noncompressible arteries, not 'great circulation' — get a toe-brachial index.",
-   "hintContent": "Recall the ABI ranges and what calcification of the arterial wall does to cuff-based pressure measurement.",
-   "hintStrategy": "Notice that the value is ABOVE the normal range and link it to the risk factors in the stem."
-  },
-  {
-   "id": "m16d-020",
-   "type": "mcq",
-   "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Neurovascular Checks",
-   "difficulty": 3,
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client is 10 hours postoperative after open reduction and internal fixation of a tibial fracture and has a posterior splint with an elastic wrap. The client rates pain 9/10 despite IV morphine 30 minutes ago. Pain increases sharply when the nurse passively extends the toes, and the calf feels tense. The pedal pulse is 2+ and capillary refill is 2 seconds. Which condition is the nurse's greatest concern?",
-   "options": [
-    "Deep vein thrombosis of the calf",
-    "Acute compartment syndrome",
-    "Expected postoperative incisional pain",
-    "Acute arterial occlusion"
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Incorrect. DVT causes aching, swelling, and warmth, but not severe pain with passive stretch of the toes this soon after surgery.",
-    "Correct. Pain out of proportion to the injury, unrelieved by opioids and worsened by passive stretch, with a tense compartment, are early signs of compartment syndrome. Pulses often remain present until late.",
-    "Incorrect. Pain that escalates despite IV opioids and increases with passive stretch is not expected.",
-    "Incorrect. A 2+ pulse and brisk capillary refill show arterial inflow is intact."
-   ],
-   "rationale": "In compartment syndrome, pressure within a closed fascial compartment rises until it compromises capillary perfusion to muscle and nerve. Early signs are pain out of proportion and pain with passive stretch; pulselessness is a LATE sign, so a palpable pulse does not rule it out. The nurse loosens the wrap, keeps the limb at heart level (not elevated), and notifies the provider immediately.",
-   "takeaway": "Pain out of proportion + pain on passive stretch = compartment syndrome, even with a pulse.",
-   "hintContent": "Recall the earliest versus the latest signs when pressure builds in a closed muscle compartment.",
-   "hintStrategy": "Do not let the normal pulse mislead you — ask which condition fits pain unrelieved by opioids and worsened by stretch."
+   "rationale": "Carotid arteries are palpated one at a time and auscultated bilaterally. A bruit is a blowing sound caused by turbulent blood flow, most often from atherosclerotic narrowing. In a client with hypertension and high cholesterol, it suggests reduced blood flow to the brain and an increased risk of stroke, so it is documented and reported.",
+   "takeaway": "Carotid bruit = turbulent flow from narrowing; palpate one side at a time and report it.",
+   "hintContent": "Recall what causes a blowing sound over an artery and the correct technique for assessing carotid pulses.",
+   "hintStrategy": "Eliminate the option that describes unsafe technique, then decide whether the sound is arterial and meaningful."
   },
   {
    "id": "m16d-021",
    "type": "mcq",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Capillary Refill",
+   "ref": "Module 16 · Perfusion · Nursing Assessment · Peripheral Perfusion",
    "difficulty": 1,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
@@ -1188,16 +888,16 @@
    "stem": "A client walks into the clinic from outside, where the temperature is 2 °C (35.6 °F). The client has no complaints. Vital signs are T 36.8 °C (98.2 °F), HR 76, BP 124/78. The nurse finds that capillary refill in the fingernails is 4 seconds and the fingers feel cold. Which action should the nurse take next?",
    "options": [
     "Document delayed capillary refill as evidence of hypovolemia",
+    "Reassess capillary refill after the client's hands have warmed",
     "Notify the provider of impaired arterial perfusion to the hands",
-    "Obtain orthostatic vital signs to assess for fluid loss",
-    "Reassess capillary refill after the client's hands have warmed"
+    "Obtain orthostatic vital signs to assess for fluid loss"
    ],
-   "answer": 3,
+   "answer": 1,
    "optionRationales": [
     "Incorrect. Normal vital signs and no symptoms do not support hypovolemia; the finding is likely environmental.",
+    "Correct. Cold causes peripheral vasoconstriction, which prolongs capillary refill. Rewarming and reassessing provides an accurate result.",
     "Incorrect. Reporting is premature before ruling out a common, benign cause of the finding.",
-    "Incorrect. There are no cues suggesting fluid loss that would justify orthostatic testing.",
-    "Correct. Cold causes peripheral vasoconstriction, which prolongs capillary refill. Rewarming and reassessing provides an accurate result."
+    "Incorrect. There are no cues suggesting fluid loss that would justify orthostatic testing."
    ],
    "rationale": "Capillary refill is normally less than 2–3 seconds, but it is prolonged by cold, vasoconstriction, and poor lighting as well as by hypovolemia or arterial disease. The nurse interprets a finding in context: with stable vital signs and recent cold exposure, the best action is to warm the hands and reassess before drawing conclusions.",
    "takeaway": "Cold hands lengthen capillary refill — warm and recheck before you label it abnormal.",
@@ -1205,223 +905,83 @@
    "hintStrategy": "Look at the whole context (environment, vital signs, symptoms) before assuming a single finding indicates pathology."
   },
   {
-   "id": "m16d-022",
-   "type": "mcq",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Shock (Hypovolemic)",
-   "difficulty": 2,
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with an upper gastrointestinal bleed has vomited 600 mL of bright red blood. HR is 128, BP 82/50, and the client is pale and diaphoretic. The only IV access is a 22-gauge catheter in the hand. The provider prescribes 1 L of lactated Ringer's solution and 2 units of packed red blood cells. Which action should the nurse take?",
-   "options": [
-    "Insert two large-bore (16- or 18-gauge) peripheral IV catheters",
-    "Infuse the lactated Ringer's through the 22-gauge catheter using a rapid infuser",
-    "Place the client in a steep head-down Trendelenburg position",
-    "Wait for the type and crossmatch before starting any fluid"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Flow rate depends on catheter radius; large-bore access allows rapid volume and blood replacement in hemorrhagic shock.",
-    "Incorrect. A 22-gauge catheter limits flow and is not recommended for rapid transfusion of blood products.",
-    "Incorrect. Steep Trendelenburg is no longer recommended; it impairs ventilation and gives little sustained BP benefit. Keeping the client flat or raising the legs is preferred.",
-    "Incorrect. Crystalloid resuscitation should begin immediately while blood products are prepared."
-   ],
-   "rationale": "In hypovolemic (hemorrhagic) shock, the priority is restoring circulating volume. Large-bore IV access (two 16- to 18-gauge catheters) permits rapid infusion of warmed isotonic crystalloid and blood. Positioning with legs elevated, oxygen, and monitoring of HR, BP, urine output, and mental status follow.",
-   "takeaway": "Hemorrhagic shock: two large-bore IVs, fluids and blood, flat with legs up — not steep Trendelenburg.",
-   "hintContent": "Recall how catheter size affects flow rate and what access is needed to transfuse blood rapidly.",
-   "hintStrategy": "Ask which option removes the biggest barrier to carrying out the provider's resuscitation orders."
-  },
-  {
-   "id": "m16d-023",
-   "type": "mcq",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Abdominal Aortic Aneurysm",
-   "difficulty": 2,
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 74-year-old client with a 5.8-cm abdominal aortic aneurysm is awaiting elective repair. The client suddenly reports severe, constant back and flank pain. HR is 124, BP 86/52, and the skin is pale and cool. Which action should the nurse take first?",
-   "options": [
-    "Palpate the abdomen to compare the size of the pulsatile mass with the earlier assessment",
-    "Administer the prescribed PRN oral oxycodone and reassess the pain in 30 minutes",
-    "Activate the rapid response team and notify the surgeon of suspected rupture",
-    "Obtain a 12-lead ECG to evaluate for an acute myocardial infarction"
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Incorrect. Deep palpation of a known aneurysm is avoided and delays emergency care.",
-    "Incorrect. Treating pain without addressing hypotension and tachycardia misses a life-threatening hemorrhage.",
-    "Correct. Sudden severe back or flank pain with shock in a client with a large AAA indicates rupture, which requires immediate surgical intervention.",
-    "Incorrect. An ECG may be obtained, but the findings point to aortic rupture, and definitive help is needed first."
-   ],
-   "rationale": "A ruptured AAA causes sudden severe abdominal, back, or flank pain with signs of hemorrhagic shock. Mortality is extremely high, and survival depends on immediate surgical repair. The nurse summons help at once, then establishes large-bore IV access and prepares the client for surgery.",
-   "takeaway": "Known AAA + sudden back pain + hypotension = rupture — get the team and surgeon now.",
-   "hintContent": "Recall the classic presentation of a ruptured abdominal aortic aneurysm.",
-   "hintStrategy": "Identify the life-threatening condition first; then pick the action that addresses it rather than a symptom or an alternate diagnosis."
-  },
-  {
-   "id": "m16d-024",
-   "type": "mcq",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Shock · Vasopressors",
-   "difficulty": 3,
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client in septic shock is receiving a norepinephrine infusion through an 18-gauge peripheral IV in the right forearm while central line placement is being arranged. The nurse notes blanching, coolness, and swelling of the skin around the insertion site. Which action should the nurse take first?",
-   "options": [
-    "Apply a cold compress and elevate the arm",
-    "Slow the infusion rate by half and reassess the site in 15 minutes",
-    "Remove the catheter immediately and apply firm pressure to the site",
-    "Stop the norepinephrine infusion at that site"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Incorrect. Cold causes further vasoconstriction and worsens tissue ischemia from a vasopressor extravasation.",
-    "Incorrect. Any continued infusion into the tissue increases the risk of necrosis.",
-    "Incorrect. Guidelines typically advise leaving the catheter briefly to attempt aspiration of the drug before removal; immediate removal is not the first step.",
-    "Correct. Stopping the infusion at the extravasated site limits tissue injury. The nurse then notifies the provider, prepares phentolamine for local infiltration as prescribed, and restarts the vasopressor through another line promptly."
-   ],
-   "rationale": "Norepinephrine is a vesicant; extravasation causes intense local vasoconstriction and can lead to tissue necrosis. The first action is to stop the infusion into the affected site. Phentolamine, an alpha-adrenergic blocker, is infiltrated around the site per protocol. Because the client depends on the vasopressor, new access must be obtained quickly to prevent hypotension.",
-   "takeaway": "Vasopressor extravasation: stop the infusion at that site, phentolamine, new access fast — no cold packs.",
-   "hintContent": "Recall how an alpha-adrenergic vasopressor affects local tissue and which drug is its antidote.",
-   "hintStrategy": "The stem asks what to do FIRST. Choose the action that stops ongoing harm before the actions that treat it."
-  },
-  {
    "id": "m16d-025",
    "type": "mcq",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Prioritization",
+   "topic": "heart-sounds",
+   "ref": "Module 16 · Perfusion · Prioritization · Heart Sounds and Fluid Overload",
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "After receiving hand-off report on a medical unit, which client should the nurse assess first?",
    "options": [
-    "A client with PAD who reports calf cramping after walking to the bathroom that resolved after resting 3 minutes",
-    "A client with heart failure who gained 1.5 kg (3.3 lb) overnight and has new bibasilar crackles",
-    "A client 2 days after an ischemic stroke, not treated with a thrombolytic, whose BP is 176/98",
-    "A client with a venous stasis ulcer whose dressing is saturated with serous drainage"
+    "A 30-year-old client at 34 weeks' gestation who has an S3 heart sound and clear lungs",
+    "A client with heart failure who gained 1.5 kg overnight and has new crackles",
+    "A 78-year-old client with an S4 heart sound, no symptoms, and stable vital signs",
+    "A client with hypertension whose BP is 148/88, unchanged from yesterday's baseline"
    ],
    "answer": 1,
    "optionRationales": [
-    "Not first. Claudication that resolves with rest is expected, chronic, and stable.",
+    "Not first. An S3 can be a normal finding in the third trimester of pregnancy, and her lungs are clear.",
     "First. A 1.5-kg overnight gain with new crackles indicates acute fluid retention and worsening pulmonary congestion that threatens breathing.",
-    "Not first. Permissive hypertension (treated only if ≥220/120) is expected after an ischemic stroke when no thrombolytic was given.",
-    "Not first. Venous ulcers drain heavily; the dressing needs changing but it is not an airway, breathing, or circulation threat."
+    "Not first. An S4 can be heard in healthy older adults; with no symptoms and stable vital signs, this is not urgent.",
+    "Not first. The BP needs ongoing management, but it is at the client's baseline and is stable."
    ],
-   "rationale": "Prioritize using ABCs and unstable over stable. The client with heart failure has rapid fluid gain with new pulmonary congestion — an acute threat to breathing. Stable claudication, expected permissive hypertension after stroke, and ulcer drainage are chronic or expected findings.",
-   "takeaway": "Rapid weight gain + new crackles in HF = see first.",
-   "hintContent": "Recall what is expected in stable PAD, after an ischemic stroke without thrombolysis, and with venous ulcers.",
-   "hintStrategy": "Classify each client as expected/stable or new/unstable, then apply ABCs to the unstable one(s)."
+   "rationale": "The nurse assesses first the client whose condition is changing and threatens airway, breathing, or circulation. Sudden weight gain with new crackles signals fluid overload in heart failure. An S3 in late pregnancy, an S4 in a healthy older adult, and a stable BP at baseline are expected or stable findings.",
+   "takeaway": "Extra heart sounds can be normal in pregnancy and older adults; new crackles plus weight gain in HF cannot wait.",
+   "hintContent": "Recall in which groups S3 and S4 may be normal and what rapid weight gain means in heart failure.",
+   "hintStrategy": "Ask which finding is new or changing versus expected or stable, then apply ABCs."
   },
   {
    "id": "m16d-026",
    "type": "mcq",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Stroke Rehabilitation",
-   "difficulty": 2,
-   "cjmm": "Generate Solutions",
-   "focus": "Delegation & Safety",
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "stem": "B.E., 64, is recovering from an ischemic stroke of the right parietal-temporal region. He has left-sided weakness, leaves the food on the left side of his tray untouched, and has bumped his left arm on the doorframe twice. Which intervention is most appropriate to include in his plan of care?",
-   "options": [
-    "Teach B.E. to turn his head and scan to the left side of his environment",
-    "Place the call light and water pitcher on his left side so he is forced to use that side",
-    "Use picture boards because he cannot understand spoken language",
-    "Keep him on bed rest until the inattention to his left side resolves"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Unilateral neglect after a right-hemisphere stroke is managed by teaching visual scanning toward the neglected side, which improves safety and function.",
-    "Incorrect. Essential items should be on the side he attends to (the right) until he learns to compensate; placing them on the neglected side creates a safety risk.",
-    "Incorrect. Receptive aphasia is typical of left-hemisphere (dominant) stroke; B.E.'s right-hemisphere stroke causes neglect and impulsivity instead.",
-    "Incorrect. Prolonged bed rest increases the risk of complications and does not treat neglect; early mobilization with supervision is preferred."
-   ],
-   "rationale": "Right-hemisphere strokes commonly cause left-sided weakness, unilateral neglect, impaired judgment, and impulsivity. Teaching the client to scan toward the neglected side, protecting the affected arm, and keeping essential items within the attended field promote safety and rehabilitation.",
-   "takeaway": "Right-brain stroke → left neglect: teach scanning left, keep essentials within reach on the attended side.",
-   "hintContent": "Recall the typical deficits of a right-hemisphere versus a left-hemisphere stroke.",
-   "hintStrategy": "Identify the deficit from the behavior described, then select the intervention that treats that specific deficit safely."
-  },
-  {
-   "id": "m16d-027",
-   "type": "mcq",
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Peripheral Artery Disease · Teaching",
+   "ref": "Module 16 · Perfusion · Independent Interventions · Psychosocial Support",
    "difficulty": 2,
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse taught a client with peripheral artery disease and intermittent claudication about self-care. Which statement by the client indicates the teaching was effective?",
-   "options": [
-    "\"I'll raise my legs on pillows above my heart when they ache at night.\"",
-    "\"I'll walk until the cramping starts, rest until it stops, then walk again.\"",
-    "\"A heating pad on my feet at bedtime will help open up my narrowed blood vessels.\"",
-    "\"Cutting down to five cigarettes a day will protect my circulation.\""
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Needs further teaching. Elevation reduces arterial flow; legs should be level or slightly dependent in arterial disease.",
-    "Effective. Structured walking to near-maximal claudication, resting, and resuming (30–45 minutes, at least 3 times per week) builds collateral circulation and increases walking distance.",
-    "Needs further teaching. Reduced sensation and poor blood flow increase the risk of burns from heating pads.",
-    "Needs further teaching. Any amount of smoking causes vasoconstriction and progression of atherosclerosis; complete cessation is the goal."
-   ],
-   "rationale": "Exercise therapy (ideally supervised) is a first-line treatment for claudication, improving walking distance through collateral development and muscle adaptation. Complete smoking cessation, foot protection, and avoiding leg elevation and direct heat are key teaching points for arterial disease.",
-   "takeaway": "PAD: walk–rest–walk, stop smoking completely, legs down, no heating pads.",
-   "hintContent": "Recall how exercise, positioning, heat, and smoking affect arterial blood flow.",
-   "hintStrategy": "This item asks for the CORRECT statement. Test each statement against the principle 'improve arterial inflow and protect tissue.'"
-  },
-  {
-   "id": "m16d-028",
-   "type": "mcq",
-   "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Heart Failure · Pharmacology",
-   "difficulty": 3,
    "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with heart failure with reduced ejection fraction took lisinopril 10 mg at 0800 today. The provider discontinues lisinopril and prescribes sacubitril/valsartan 24/26 mg PO twice daily, with the first dose due at 2000 tonight. Which action should the nurse take?",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A 58-year-old client recently diagnosed with heart failure tells the nurse, \"I used to work construction. Now I get tired just walking to the mailbox. I feel useless.\" Which response by the nurse is most appropriate?",
    "options": [
-    "Administer the first dose at 2000 as prescribed",
-    "Administer the first dose with an antihistamine to prevent a reaction",
-    "Contact the prescriber about the timing of the first dose",
-    "Give both lisinopril and sacubitril/valsartan tomorrow for added benefit"
+    "\"Don't worry — most people with heart failure feel completely normal after a few weeks.\"",
+    "\"You should try to focus on the positive things in your life instead.\"",
+    "\"That sounds really hard. How have you been coping with these changes?\"",
+    "\"I can ask your provider to prescribe something to help you relax.\""
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Giving the dose only 12 hours after an ACE inhibitor increases the risk of angioedema.",
-    "Incorrect. Antihistamine premedication does not prevent bradykinin-mediated angioedema and is not the standard of care.",
-    "Correct. Sacubitril/valsartan is contraindicated within 36 hours of the last ACE inhibitor dose because combined inhibition of bradykinin breakdown increases the risk of angioedema.",
-    "Incorrect. Concurrent use of an ACE inhibitor and sacubitril/valsartan is contraindicated."
+    "Incorrect. False reassurance dismisses the client's feelings and is inaccurate; heart failure is a chronic condition.",
+    "Incorrect. Telling the client how to feel minimizes the concern and blocks further communication.",
+    "Correct. Acknowledging the feeling and asking an open-ended question about coping provides psychosocial support and lets the nurse assess stress and coping, which are part of the cardiovascular assessment.",
+    "Incorrect. Moving straight to medication avoids exploring the client's feelings; psychosocial support and nonpharmacologic stress reduction come first."
    ],
-   "rationale": "Sacubitril inhibits neprilysin, and ACE inhibitors block bradykinin breakdown; combining them (or overlapping within 36 hours) greatly increases the risk of angioedema. The nurse verifies the timing with the prescriber before giving the first dose.",
-   "takeaway": "ACE inhibitor → ARNI switch needs a 36-hour washout.",
-   "hintContent": "Recall the mechanism shared by ACE inhibitors and neprilysin inhibitors that raises the risk of angioedema.",
-   "hintStrategy": "Check the TIMES in the stem; the medication itself is appropriate, so ask whether it is safe to give it now."
+   "rationale": "Providing psychosocial support is an independent nursing intervention for clients with altered perfusion. Chronic cardiac illness often changes a client's roles and energy level, and stress and coping are part of the nursing assessment. A therapeutic response acknowledges the feeling and invites the client to talk; later the nurse can discuss resources such as cardiac rehabilitation and stress-reduction techniques.",
+   "takeaway": "Acknowledge the feeling, then explore coping — no false reassurance.",
+   "hintContent": "Recall the characteristics of therapeutic communication and the role of psychosocial support in cardiac care.",
+   "hintStrategy": "Eliminate responses that reassure falsely, give advice, or change the subject; choose the one that keeps the client talking."
   },
   {
    "id": "m16d-029",
    "type": "mcq",
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Delegation",
+   "ref": "Module 16 · Perfusion · Independent Interventions · Delegation",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "The nurse is working with an unlicensed assistive personnel (UAP) on a cardiac unit. Which task is appropriate for the nurse to delegate to the UAP?",
    "options": [
+    "Measuring the daily weight of a stable client with heart failure",
     "Checking the color and warmth of the toes of a client who reports new numbness in one foot",
     "Evaluating whether a client's leg pain improved after a PRN analgesic",
-    "Teaching a client with hypertension how to use a home blood pressure monitor",
-    "Measuring the daily weight of a stable client with heart failure"
+    "Teaching a client with hypertension how to use a home blood pressure monitor"
    ],
-   "answer": 3,
+   "answer": 0,
    "optionRationales": [
+    "Correct. Measuring weight and recording I&O on a stable client are routine, standardized tasks with predictable outcomes; the nurse interprets the data.",
     "Incorrect. A new symptom requires RN assessment and clinical judgment.",
     "Incorrect. Evaluating the effect of a medication is an RN responsibility.",
-    "Incorrect. Initial teaching is within RN scope and cannot be delegated to a UAP.",
-    "Correct. Measuring weight and recording I&O on a stable client are routine, standardized tasks with predictable outcomes; the nurse interprets the data."
+    "Incorrect. Initial teaching is within RN scope and cannot be delegated to a UAP."
    ],
    "rationale": "UAPs can perform routine, standardized tasks for stable clients, such as weights, vital signs, and I&O. Assessment of new symptoms, evaluation of interventions, and teaching require RN clinical judgment and cannot be delegated. The RN remains accountable for interpreting data the UAP collects.",
    "takeaway": "Delegate collecting data on stable clients; keep assessing, teaching, and evaluating.",
@@ -1432,75 +992,75 @@
    "id": "m16d-030",
    "type": "mcq",
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Collaborative Therapies · Statins",
+   "ref": "Module 16 · Perfusion · Health Promotion · Stress Reduction",
    "difficulty": 1,
-   "cjmm": "Recognize Cues",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client started on atorvastatin 40 mg daily 3 weeks ago tells the nurse, \"My thighs ache and feel weak. I figured it was from gardening.\" Which response by the nurse is most appropriate?",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The nurse has taught a client with hypertension about stress reduction to promote cardiovascular health. Which statement by the client indicates understanding?",
    "options": [
-    "\"Muscle aches can be a side effect. I'll let your provider know.\"",
-    "\"This is expected when you start a statin and will go away in a few months.\"",
-    "\"Take your atorvastatin with a glass of grapefruit juice to reduce the aches.\"",
-    "\"Stop all of your heart medicines until the aching goes away.\""
+    "\"I'll have a couple of extra drinks in the evening to help me unwind.\"",
+    "\"Reducing stress only matters after someone has had a heart attack.\"",
+    "\"I'll skip my evening walks and rest on the couch to lower my stress.\"",
+    "\"I'm going to try yoga or a few minutes of meditation each day.\""
    ],
-   "answer": 0,
+   "answer": 3,
    "optionRationales": [
-    "Correct. Unexplained muscle pain or weakness can signal statin-associated myopathy (rarely rhabdomyolysis); the provider may check a CK level and adjust therapy.",
-    "Incorrect. Muscle symptoms should not be dismissed as expected; they need evaluation.",
-    "Incorrect. Grapefruit juice raises atorvastatin levels and INCREASES the risk of myopathy.",
-    "Incorrect. The client should not stop all cardiac medications; this could be dangerous. Changes are directed by the provider."
+    "Needs further teaching. Alcohol raises BP; clients are taught to abstain or drink only small amounts.",
+    "Needs further teaching. Stress reduction is part of primary prevention and is recommended before heart disease develops.",
+    "Needs further teaching. Regular exercise is itself a stress-reduction technique and a key lifestyle modification.",
+    "Understanding. Yoga, meditation, relaxation techniques, biofeedback, therapeutic touch, and exercise are recommended ways to reduce stress."
    ],
-   "rationale": "Statins lower LDL cholesterol but can cause myopathy. Clients are taught to report unexplained muscle pain, weakness, or dark urine. Grapefruit juice inhibits CYP3A4 metabolism of some statins (including atorvastatin), increasing drug levels and myopathy risk.",
-   "takeaway": "Statin + unexplained muscle pain = report (check CK); avoid large amounts of grapefruit juice.",
-   "hintContent": "Recall the most important musculoskeletal adverse effect of statins and what increases its risk.",
-   "hintStrategy": "Avoid responses that dismiss a symptom or advise the client to change medications without the provider."
+   "rationale": "Stress is a secondary (modifiable) risk factor for cardiovascular disease. Recommended stress-reduction strategies include exercise, relaxation techniques, biofeedback, therapeutic touch, yoga, and meditation. Using alcohol to unwind and giving up exercise increase cardiovascular risk.",
+   "takeaway": "Stress reduction for the heart: exercise, relaxation, biofeedback, yoga, meditation — not alcohol.",
+   "hintContent": "Recall the stress-reduction techniques recommended as lifestyle modifications for cardiovascular health.",
+   "hintStrategy": "Look for the statement that both lowers stress and fits a heart-healthy lifestyle."
   },
   {
    "id": "m16d-031",
    "type": "mcq",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Chest Pain · Nitroglycerin Safety",
-   "difficulty": 2,
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client arrives at the emergency department with substernal chest pressure rated 7/10. BP is 138/84, HR 92. The provider prescribes nitroglycerin 0.4 mg sublingually every 5 minutes for up to 3 doses. During the medication history, the client states he took sildenafil 12 hours ago. Which action should the nurse take?",
+   "topic": "peripheral-assessment",
+   "ref": "Module 16 · Perfusion · Nursing Assessment · PQRST of Chest Pain",
+   "difficulty": 1,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client reports chest pain. Using the PQRST approach, the nurse has asked what brings the pain on and what relieves it. Which question should the nurse ask next to assess the quality of the pain?",
    "options": [
-    "Give the nitroglycerin and check BP 5 minutes after each dose",
-    "Give one nitroglycerin tablet instead of three and monitor closely",
-    "Withhold the nitroglycerin and notify the provider of the sildenafil use",
-    "Give the nitroglycerin because more than 6 hours have passed since the sildenafil"
+    "\"Does the pain travel anywhere, such as your arm or jaw?\"",
+    "\"Can you describe what the pain feels like?\"",
+    "\"On a scale of 0 to 10, how bad is the pain right now?\"",
+    "\"When did the pain start, and how long does it last?\""
    ],
-   "answer": 2,
+   "answer": 1,
    "optionRationales": [
-    "Incorrect. Monitoring does not prevent the severe, refractory hypotension that can result from this combination.",
-    "Incorrect. Even a single dose is contraindicated within the interaction window.",
-    "Correct. Nitrates are contraindicated within 24 hours of sildenafil (48 hours for tadalafil) because both increase nitric oxide–mediated vasodilation, causing profound hypotension.",
-    "Incorrect. The contraindication window for sildenafil is 24 hours, not 6 hours."
+    "Incorrect. This assesses R — region and radiation.",
+    "Correct. Q (quality) asks the client to describe the pain in their own words, such as pressure, squeezing, burning, or sharp.",
+    "Incorrect. This assesses S — severity.",
+    "Incorrect. This assesses T — timing (onset and duration)."
    ],
-   "rationale": "Phosphodiesterase-5 inhibitors potentiate the vasodilating effect of nitrates, which can cause life-threatening hypotension and reduced coronary perfusion. Nitrates are avoided within 24 hours of sildenafil or vardenafil and 48 hours of tadalafil. Nurses must ask about these drugs before giving nitrates.",
-   "takeaway": "Ask about PDE-5 inhibitors before nitrates: 24 h for sildenafil, 48 h for tadalafil.",
-   "hintContent": "Recall the interaction between nitrates and phosphodiesterase-5 inhibitors and the time windows involved.",
-   "hintStrategy": "Focus on the new piece of information in the medication history — it changes whether the prescription is safe."
+   "rationale": "PQRST organizes the chest pain history: P — provocative/palliative factors (what brings it on and relieves it), Q — quality, R — region and radiation, S — severity, and T — timing. The quality question is open-ended so the client describes the pain without being led.",
+   "takeaway": "PQRST: Provokes/Palliates, Quality, Region/Radiation, Severity, Timing.",
+   "hintContent": "Recall what each letter of PQRST stands for.",
+   "hintStrategy": "Match each question to the letter it assesses, then pick the one that matches Q."
   },
   {
    "id": "m16d-032",
    "type": "sata",
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Hypertension · Lifestyle Modification",
+   "ref": "Module 16 · Perfusion · Health Promotion · Modifiable Risk Factors",
    "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse is planning teaching for a 52-year-old client newly diagnosed with stage 2 hypertension who has a BMI of 31 and normal kidney function. Which instructions should the nurse include? Select all that apply.",
+   "stem": "The nurse is planning teaching for a 52-year-old client newly diagnosed with hypertension who smokes and has a BMI of 31. Which instructions should the nurse include? Select all that apply.",
    "options": [
-    "Follow a DASH-style eating plan rich in fruits, vegetables, whole grains, and low-fat dairy",
-    "Aim for less than 2,300 mg of sodium per day, working toward about 1,500 mg",
-    "Get at least 150 minutes of moderate aerobic activity each week",
-    "Limit alcohol to no more than 3 drinks per day",
-    "Stop the BP medication once home readings are consistently below 130/80",
-    "Losing weight lowers BP; each kilogram lost lowers systolic BP about 1 mm Hg"
+    "Quit smoking completely, including occasional cigarettes",
+    "Work toward a BMI below 25 through diet and activity",
+    "Build up to physical activity on most days of the week",
+    "Drink alcohol daily, because it relaxes the blood vessels",
+    "Stop the BP medication once home readings are consistently normal",
+    "Practice a stress-reduction technique such as relaxation breathing or meditation"
    ],
    "answer": [
     0,
@@ -1509,211 +1069,17 @@
     5
    ],
    "optionRationales": [
-    "Correct. The DASH diet can lower systolic BP by roughly 8–11 mm Hg in people with hypertension.",
-    "Correct. Sodium reduction is recommended; an optimal goal is about 1,500 mg/day, and any reduction helps.",
-    "Correct. Regular aerobic activity (about 150 min/week) lowers BP by roughly 5–8 mm Hg.",
-    "Incorrect. Recommended limits are no more than 2 drinks/day for men and 1 for women (or less); 3 drinks/day raises BP.",
+    "Correct. Smoking is a major modifiable risk factor; any amount damages vessels and raises BP.",
+    "Correct. Keeping BMI below 25 through a healthy diet and exercise lowers BP and cardiovascular risk.",
+    "Correct. A daily regimen of physical activity is a key lifestyle modification.",
+    "Incorrect. Clients are taught to abstain or consume only small amounts of alcohol; regular drinking raises BP.",
     "Incorrect. Controlled readings show the medication is working; stopping it causes BP to rise again. Changes are made only with the provider.",
-    "Correct. Weight loss is one of the most effective lifestyle measures — about 1 mm Hg per kg lost."
+    "Correct. Stress is a secondary risk factor, and relaxation techniques and meditation are recommended stress-reduction strategies."
    ],
-   "rationale": "Evidence-based lifestyle measures for hypertension include weight loss, a DASH-style diet, sodium reduction, increased potassium intake (if kidney function is normal), regular physical activity, and moderation of alcohol. These are added to, not substituted for, prescribed medication in stage 2 hypertension.",
-   "takeaway": "Lifestyle for HTN: lose weight, DASH, less sodium, move 150 min/wk, limit alcohol — and keep taking the pills.",
-   "hintContent": "Recall the AHA/ACC nonpharmacologic interventions for hypertension and the recommended alcohol limits.",
-   "hintStrategy": "Judge each option independently as true or false. Watch for options with an incorrect number or a dangerous misconception."
-  },
-  {
-   "id": "m16d-033",
-   "type": "sata",
-   "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Hypertensive Emergency",
-   "difficulty": 3,
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>1100 (ICU admission):</strong> 56-year-old client with untreated hypertension. Severe headache, new confusion, and blurred vision. Retinal hemorrhages noted by provider. BP 224/132 (right arm) confirmed on repeat; HR 98; RR 20; SpO₂ 96% RA. Creatinine 2.1 mg/dL (baseline 1.0). No chest pain; no signs of aortic dissection.</p>"
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Nicardipine IV infusion; titrate per protocol</li><li>Radial arterial line</li><li>Neurologic checks per ICU protocol</li><li>Strict intake and output</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Orders. Which actions should the nurse take while caring for this client? Select all that apply.",
-   "options": [
-    "Monitor BP continuously via the arterial line during titration",
-    "Titrate to reduce the systolic BP by no more than 25% within the first hour",
-    "Titrate the infusion to reach a BP of 120/80 within the first 30 minutes",
-    "Perform frequent neurologic assessments for changes in mental status",
-    "Measure hourly urine output",
-    "Infuse the nicardipine by gravity so the rate can be adjusted quickly"
-   ],
-   "answer": [
-    0,
-    1,
-    3,
-    4
-   ],
-   "optionRationales": [
-    "Correct. Continuous intra-arterial monitoring allows precise, safe titration of a potent vasodilator.",
-    "Correct. Without a compelling condition, SBP is lowered by no more than 25% in the first hour, then to 160/100 over the next 2–6 hours, then cautiously toward normal over 24–48 hours.",
-    "Incorrect. Rapid normalization can cause cerebral, coronary, or renal ischemia because autoregulation has shifted to higher pressures.",
-    "Correct. Hypertensive encephalopathy is present; worsening or improving neurologic status guides therapy and detects hypoperfusion from overcorrection.",
-    "Correct. Acute kidney injury is present; urine output tracks renal perfusion during treatment.",
-    "Incorrect. Titrated vasoactive infusions must run on an infusion pump for precise dosing."
-   ],
-   "rationale": "A hypertensive emergency (BP >180/120 with acute target-organ damage — here encephalopathy, retinal hemorrhage, and acute kidney injury) requires ICU care with a titratable IV agent. BP is lowered in a controlled manner (≤25% in the first hour) while target organs are monitored, because chronically hypertensive vascular beds become ischemic if pressure falls too fast.",
-   "takeaway": "Hypertensive emergency: IV titratable drug on a pump, arterial line, ≤25% drop in hour 1, watch brain and kidneys.",
-   "hintContent": "Recall why cerebral autoregulation makes rapid BP reduction dangerous and which organs are being damaged in this client.",
-   "hintStrategy": "Evaluate each option on its own. Eliminate options that lower BP too fast or that compromise medication safety."
-  },
-  {
-   "id": "m16d-034",
-   "type": "sata",
-   "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Venous Thromboembolism",
-   "difficulty": 1,
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is assessing a client 3 days after a left total knee arthroplasty. Which findings should the nurse recognize as possible signs of deep vein thrombosis (DVT)? Select all that apply.",
-   "options": [
-    "Left calf circumference 3 cm larger than the right",
-    "Warmth and redness over the left calf",
-    "Aching tenderness in the left calf when standing",
-    "Bilateral ankle edema that resolves overnight",
-    "Pale, cool left foot with a diminished pedal pulse",
-    "Calf pain on dorsiflexion, which confirms the diagnosis"
-   ],
-   "answer": [
-    0,
-    1,
-    2
-   ],
-   "optionRationales": [
-    "Correct. Unilateral swelling of the affected leg (commonly >2–3 cm difference) is a key sign of venous obstruction.",
-    "Correct. Warmth and erythema over the vein reflect inflammation and venous congestion.",
-    "Correct. Aching, tenderness, or heaviness of the calf, often worse with standing or walking, is common.",
-    "Incorrect. Bilateral dependent edema that resolves with elevation suggests a systemic or chronic venous process, not an acute DVT.",
-    "Incorrect. A pale, cool limb with a weak pulse indicates arterial insufficiency; DVT typically causes a warm, swollen limb.",
-    "Incorrect. Homans' sign is unreliable and nonspecific; it does not confirm or rule out DVT. Diagnosis requires duplex ultrasound."
-   ],
-   "rationale": "Many DVTs are asymptomatic, but classic signs include unilateral leg swelling, warmth, erythema, and calf tenderness. Findings should be reported, and duplex venous ultrasound confirms the diagnosis. Arterial findings (pallor, coolness, diminished pulses) point to a different problem, and Homans' sign is not a reliable test.",
-   "takeaway": "DVT: one leg, warm, swollen, tender — confirm with ultrasound, not Homans' sign.",
-   "hintContent": "Recall how venous obstruction changes the appearance of a limb compared with arterial obstruction.",
-   "hintStrategy": "Ask for each option: is it unilateral, and does it fit a venous (warm, swollen) rather than arterial (pale, cool) picture?"
-  },
-  {
-   "id": "m16d-035",
-   "type": "sata",
-   "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Lifespan: Older Adult with PAD and Diabetes",
-   "difficulty": 2,
-   "cjmm": "Generate Solutions",
-   "focus": "Lifespan & Diversity",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse is teaching foot care to a 78-year-old client with type 2 diabetes and peripheral artery disease who has impaired vision and lives with an adult daughter. Which instructions should the nurse include? Select all that apply.",
-   "options": [
-    "Have your daughter inspect your feet daily for cuts, blisters, or color changes",
-    "Wear well-fitting shoes and socks and never walk barefoot",
-    "Soak your feet in hot water each evening to improve circulation",
-    "Warm cold feet with a heating pad at bedtime",
-    "Have a podiatrist trim your toenails",
-    "Apply moisturizing lotion between your toes after bathing"
-   ],
-   "answer": [
-    0,
-    1,
-    4
-   ],
-   "optionRationales": [
-    "Correct. Daily inspection catches injuries early; with impaired vision, a family member or a mirror is needed.",
-    "Correct. Protective footwear prevents unnoticed injuries in a client with reduced sensation and poor healing.",
-    "Incorrect. Hot soaks risk burns (reduced sensation) and macerate the skin; lukewarm water tested with the elbow or a thermometer is safe.",
-    "Incorrect. Direct heat on ischemic, insensate tissue can cause burns.",
-    "Correct. With poor vision and PAD, professional nail care reduces the risk of cuts and infection.",
-    "Incorrect. Lotion is applied to dry skin on the tops and soles, but not between the toes, where moisture promotes fungal infection and maceration."
-   ],
-   "rationale": "Older adults with diabetes and PAD have reduced sensation, poor perfusion, and slow healing, so minor foot injuries can lead to ulcers and amputation. Teaching is adapted to the client's age-related vision loss by involving the family and a podiatrist, and emphasizes daily inspection, protective footwear, and avoidance of heat and moisture between the toes.",
-   "takeaway": "Diabetic/PAD feet: look daily (with help), shoes always, no heat, dry between toes, podiatrist for nails.",
-   "hintContent": "Recall how reduced sensation and reduced blood flow change the risks of heat, moisture, and minor injury to the feet.",
-   "hintStrategy": "Consider the client's age and vision in the stem — the correct options should be safe for someone who cannot see or feel foot injuries well."
-  },
-  {
-   "id": "m16d-036",
-   "type": "sata",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Acute Ischemic Stroke · Thrombolytic Therapy",
-   "difficulty": 3,
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with an acute ischemic stroke received IV tenecteplase 45 minutes ago and has been admitted to the stroke unit. Which actions should the nurse take? Select all that apply.",
-   "options": [
-    "Perform neurologic checks and vital signs every 15 minutes as prescribed",
-    "Maintain BP below 180/105 mm Hg",
-    "Avoid inserting a nasogastric tube or indwelling urinary catheter unless essential",
-    "Administer aspirin 325 mg now to prevent re-occlusion",
-    "Report a sudden severe headache or worsening neurologic status immediately",
-    "Encourage oral fluids now that the clot has been dissolved"
-   ],
-   "answer": [
-    0,
-    1,
-    2,
-    4
-   ],
-   "optionRationales": [
-    "Correct. Standard post-thrombolysis monitoring is every 15 minutes for 2 hours, every 30 minutes for 6 hours, then hourly until 24 hours.",
-    "Correct. BP is kept below 180/105 for 24 hours after thrombolysis to reduce the risk of intracranial hemorrhage.",
-    "Correct. Invasive procedures are delayed when possible because of the bleeding risk after a thrombolytic.",
-    "Incorrect. Antiplatelet and anticoagulant drugs are generally withheld for 24 hours after thrombolysis, until a follow-up scan excludes hemorrhage.",
-    "Correct. Headache, nausea/vomiting, acute hypertension, or neurologic decline may signal intracranial hemorrhage and require an emergency CT.",
-    "Incorrect. The client remains NPO until a bedside swallow screen is passed, regardless of reperfusion."
-   ],
-   "rationale": "After IV thrombolysis (tenecteplase or alteplase), nursing care focuses on detecting hemorrhage and neurologic change: frequent neurologic checks and vital signs, BP <180/105, avoiding invasive procedures, withholding antithrombotics for 24 hours, and keeping the client NPO until the swallow screen is passed.",
-   "takeaway": "Post-thrombolysis: q15 min neuro/VS, BP <180/105, no antithrombotics or invasive lines for 24 h, NPO until swallow screen.",
-   "hintContent": "Recall the main complication of thrombolytic therapy and the BP target after treatment.",
-   "hintStrategy": "For each option, ask whether it would increase or help detect bleeding, and whether it respects the swallow-screen rule."
-  },
-  {
-   "id": "m16d-037",
-   "type": "sata",
-   "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Heart Failure · Medication Monitoring",
-   "difficulty": 2,
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with heart failure takes lisinopril 20 mg daily and spironolactone 25 mg daily. Which findings should the nurse report to the provider? Select all that apply.",
-   "options": [
-    "Serum potassium of 5.8 mEq/L",
-    "Swelling of the lips and tongue",
-    "BP of 84/50 with dizziness on standing",
-    "BP of 118/72 with no symptoms",
-    "Serum sodium of 138 mEq/L",
-    "Urine output of 1,800 mL in 24 hours"
-   ],
-   "answer": [
-    0,
-    1,
-    2
-   ],
-   "optionRationales": [
-    "Report. Both drugs cause potassium retention; hyperkalemia can cause life-threatening dysrhythmias.",
-    "Report immediately. Angioedema is a potentially fatal adverse effect of ACE inhibitors that can obstruct the airway.",
-    "Report. Symptomatic hypotension is an adverse effect of ACE inhibitors, especially with volume depletion.",
-    "Do not report as a problem. This is a desirable BP for a client with heart failure.",
-    "Do not report as a problem. This sodium level is within normal limits.",
-    "Do not report as a problem. This is an adequate urine output."
-   ],
-   "rationale": "ACE inhibitors and aldosterone antagonists improve survival in HFrEF but share the risk of hyperkalemia; ACE inhibitors also cause hypotension, cough, and angioedema. Nurses monitor potassium, renal function, and BP and report abnormal values or signs of angioedema promptly.",
-   "takeaway": "ACE inhibitor + spironolactone: watch K⁺, BP, and angioedema.",
-   "hintContent": "Recall the effect of ACE inhibitors and aldosterone antagonists on potassium and their other major adverse effects.",
-   "hintStrategy": "Treat each option as a separate true/false decision: is this value abnormal or dangerous for this drug combination?"
+   "rationale": "Lifestyle modifications for cardiovascular health include quitting smoking, eating a healthy diet to reach a normal BMI (below 25), daily physical activity, limiting alcohol, and reducing stress. These are added to, not substituted for, prescribed medication.",
+   "takeaway": "Modifiable risk: quit smoking, BMI <25, move daily, limit alcohol, reduce stress — and keep taking the pills.",
+   "hintContent": "Recall the modifiable and secondary risk factors for cardiovascular disease.",
+   "hintStrategy": "Judge each option independently as true or false. Watch for options with a dangerous misconception."
   },
   {
    "id": "m16d-038",
@@ -1746,7 +1112,7 @@
     "Incorrect. Massage is avoided because it could dislodge an undetected thrombus.",
     "Incorrect. Dehydration increases blood viscosity and clot risk; adequate hydration is encouraged unless restricted."
    ],
-   "rationale": "Virchow's triad (stasis, vessel injury, hypercoagulability) explains postoperative VTE risk. Independent nursing measures that reduce stasis include leg exercises, early ambulation, avoiding knee pillows and leg crossing, and adequate hydration. Massaging the legs is avoided.",
+   "rationale": "Blood stasis, vessel injury, and increased clotting explain postoperative venous thrombosis risk. Independent nursing measures that promote circulation and reduce stasis include leg exercises, early ambulation, avoiding knee pillows and leg crossing, and adequate hydration. Massaging the legs is avoided.",
    "takeaway": "Move the calves, walk early, hydrate — no knee pillows, crossed legs, or leg massage.",
    "hintContent": "Recall how the calf-muscle pump works and what compresses or slows venous flow in the legs.",
    "hintStrategy": "Ask of each option: does it speed venous blood back to the heart, or does it compress veins or thicken the blood?"
@@ -1791,7 +1157,7 @@
    "id": "m16d-040",
    "type": "order",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Palpatory–Auscultatory Technique",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Palpatory Method and Auscultatory Gap",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
@@ -1810,37 +1176,15 @@
    "hintStrategy": "Think about what must be in place before any measurement, then which measurement informs the next one."
   },
   {
-   "id": "m16d-041",
-   "type": "order",
-   "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Ankle-Brachial Index",
-   "difficulty": 2,
-   "cjmm": "Take Action",
-   "focus": "Assessment Findings",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is obtaining an ankle-brachial index (ABI) with a handheld Doppler for a client with suspected peripheral artery disease. Place the steps in the order the nurse should perform them.",
-   "options": [
-    "Position the client supine and allow at least 5–10 minutes of rest",
-    "Measure the systolic pressure in both arms using the brachial artery Doppler signal",
-    "Measure the systolic pressure at the dorsalis pedis and posterior tibial arteries of each ankle",
-    "Divide the higher ankle pressure for each leg by the higher of the two brachial pressures",
-    "Compare each result with reference ranges and report a value of 0.90 or less"
-   ],
-   "rationale": "The client rests supine so that arm and ankle pressures are measured at the same hydrostatic level. Brachial pressures are obtained in both arms (the higher is the denominator). Ankle pressures are measured at both pedal arteries on each side, and the higher value for each leg is the numerator. An ABI of 0.90 or less indicates PAD; values above 1.40 indicate noncompressible arteries.",
-   "takeaway": "ABI = higher ankle pressure (each leg) ÷ higher brachial pressure; ≤0.90 = PAD.",
-   "hintContent": "Recall the ABI formula and why the client must rest supine first.",
-   "hintStrategy": "Preparation comes first, data collection next, then calculation, and interpretation last."
-  },
-  {
    "id": "m16d-042",
    "type": "order",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Doppler Pulse",
+   "ref": "Module 16 · Perfusion · Nursing Assessment · Doppler for Difficult Pulses",
    "difficulty": 1,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse cannot palpate the dorsalis pedis pulse of a client with peripheral artery disease and will use a handheld Doppler. Place the steps in the order the nurse should perform them.",
+   "stem": "The nurse cannot palpate the dorsalis pedis (pedal) pulse of an 80-year-old client and will use a Doppler ultrasound stethoscope. Place the steps in the order the nurse should perform them.",
    "options": [
     "Explain the procedure and expose the top of the foot",
     "Apply ultrasound gel over the expected location of the pulse",
@@ -1857,7 +1201,7 @@
    "id": "m16d-043",
    "type": "matrix",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Orthostatic Hypotension",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Orthostatic Hypotension",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
@@ -1886,7 +1230,7 @@
     "Does not meet criteria. Systolic drop of 6 and diastolic drop of 4 are within normal postural change.",
     "Meets criteria. Although the systolic drop is only 8, the diastolic drop is 12 mm Hg (≥10).",
     "Does not meet criteria. The BP is low-normal, but the drop (4/2) is small; a low baseline alone is not orthostatic hypotension.",
-    "Meets criteria. Systolic drop of 22 mm Hg; the minimal HR rise may suggest a neurogenic cause or beta-blocker effect."
+    "Meets criteria. Systolic drop of 22 mm Hg (≥20)."
    ],
    "rationale": "Orthostatic hypotension is a sustained drop in systolic BP of at least 20 mm Hg or diastolic BP of at least 10 mm Hg within 3 minutes of standing. Either criterion alone is sufficient. The nurse evaluates the change, not the absolute value, and uses the result to plan fall prevention and report to the provider.",
    "takeaway": "Orthostatic: SBP ↓ ≥20 OR DBP ↓ ≥10 within 3 minutes of standing.",
@@ -1894,61 +1238,21 @@
    "hintStrategy": "Calculate both the systolic and diastolic change for every row — one criterion is enough."
   },
   {
-   "id": "m16d-044",
-   "type": "matrix",
-   "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Venous Insufficiency · Nursing Care",
-   "difficulty": 2,
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A client with chronic venous insufficiency has a shallow, moist ulcer above the medial malleolus, brownish skin discoloration, and 2+ ankle edema. The ankle-brachial index is 1.05. For each intervention, indicate whether it is indicated or contraindicated.",
-   "rows": [
-    "Elevate the legs above heart level several times a day",
-    "Apply compression therapy as prescribed",
-    "Keep the legs dependent to increase blood flow to the ulcer",
-    "Sit for long periods with the legs crossed",
-    "Walk daily to activate the calf-muscle pump"
-   ],
-   "columns": [
-    "Indicated",
-    "Contraindicated"
-   ],
-   "answer": [
-    0,
-    0,
-    1,
-    1,
-    0
-   ],
-   "optionRationales": [
-    "Indicated. Elevation uses gravity to reduce venous pressure and edema, promoting healing.",
-    "Indicated. Compression is the cornerstone of venous ulcer treatment; a normal ABI confirms adequate arterial flow so compression is safe.",
-    "Contraindicated. Dependency increases venous pressure and edema; it is used for arterial, not venous, disease.",
-    "Contraindicated. Prolonged sitting and leg crossing increase venous stasis.",
-    "Indicated. Walking contracts the calf muscles, pushing venous blood toward the heart."
-   ],
-   "rationale": "Venous ulcers result from venous hypertension. Care focuses on reducing venous pressure: elevation, compression (after arterial disease is excluded, e.g., ABI ≥0.8–0.9), walking, and avoiding prolonged standing, sitting, and leg crossing. Dependency helps arterial perfusion but worsens venous disease.",
-   "takeaway": "Venous: elevate, compress, walk. Arterial: dependent, no compression.",
-   "hintContent": "Recall how venous hypertension causes ulcers and why the ABI matters before compression.",
-   "hintStrategy": "Identify the type of vascular problem first, then decide whether each intervention lowers or raises venous pressure."
-  },
-  {
    "id": "m16d-045",
    "type": "matrix",
    "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Hypertension · Medication Teaching",
+   "ref": "Module 16 · Perfusion · Collaborative Therapies · Hypertension Teaching",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "The nurse has taught a client who takes hydrochlorothiazide, lisinopril, and clonidine for resistant hypertension. For each client statement, indicate whether it shows understanding or a need for further teaching.",
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The nurse has taught a client who takes three medications for hypertension. For each client statement, indicate whether it shows understanding or a need for further teaching.",
    "rows": [
     "\"I'll sit on the side of the bed for a minute before I stand up.\"",
     "\"If my blood pressure is normal for a week, I can skip my pills.\"",
-    "\"I'll keep a log of my home blood pressure readings and bring it to each visit.\"",
-    "\"If the clonidine makes me sleepy, I'll stop it on my own.\"",
-    "\"I'll call my provider right away if my lips or tongue start to swell.\""
+    "\"I'll keep a log of my blood pressure readings and bring it to each visit.\"",
+    "\"If one of the pills makes me sleepy, I'll just stop taking it on my own.\"",
+    "\"I'll limit alcohol and keep working on quitting smoking.\""
    ],
    "columns": [
     "Shows understanding",
@@ -1962,69 +1266,28 @@
     0
    ],
    "optionRationales": [
-    "Shows understanding. Changing position slowly reduces the risk of orthostatic hypotension and falls.",
-    "Needs further teaching. Normal readings reflect medication effect; skipping doses causes BP to rise again.",
-    "Shows understanding. Home monitoring logs guide medication adjustment.",
-    "Needs further teaching. Abruptly stopping clonidine can cause severe rebound hypertension; it must be tapered by the provider.",
-    "Shows understanding. Angioedema from an ACE inhibitor is an emergency that can obstruct the airway."
+    "Shows understanding. Changing position slowly reduces the risk of orthostatic hypotension and falls, a common effect of antihypertensives.",
+    "Needs further teaching. Normal readings reflect the medication's effect; skipping doses causes BP to rise again.",
+    "Shows understanding. A home BP log helps the provider evaluate and adjust therapy.",
+    "Needs further teaching. Side effects are reported to the provider; stopping some antihypertensives abruptly can cause a dangerous rebound rise in BP.",
+    "Shows understanding. Limiting alcohol and quitting smoking are lifestyle modifications that work with medication to lower BP."
    ],
-   "rationale": "Adherence is the biggest barrier to BP control. Clients learn to rise slowly, monitor BP at home, never stop medications abruptly (especially clonidine, which causes rebound hypertension), and recognize serious adverse effects such as ACE-inhibitor angioedema.",
-   "takeaway": "Never stop clonidine abruptly; never skip pills because BP is 'normal.'",
-   "hintContent": "Recall the dangers of abruptly stopping clonidine and the serious adverse effect of ACE inhibitors.",
-   "hintStrategy": "Evaluate each statement independently; statements that involve the client changing medications on their own are red flags."
-  },
-  {
-   "id": "m16d-046",
-   "type": "matrix",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Shock · Types of Shock",
-   "difficulty": 3,
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is reviewing findings for clients in shock. For each finding, indicate the type of shock it most likely represents.",
-   "rows": [
-    "Warm, flushed skin and T 39.2 °C (102.6 °F) in a client with pneumonia",
-    "Jugular venous distention, crackles, and cool, clammy skin after an anterior MI",
-    "Flat neck veins, thirst, and cool, pale skin after 1,500 mL of blood loss",
-    "Lactate 4.8 mmol/L and WBC 22,000/mm³ with a known urinary tract infection",
-    "New S3 and BNP 1,900 pg/mL with falling BP and urine output"
-   ],
-   "columns": [
-    "Hypovolemic",
-    "Cardiogenic",
-    "Septic"
-   ],
-   "answer": [
-    2,
-    1,
-    0,
-    2,
-    1
-   ],
-   "optionRationales": [
-    "Septic. Early septic (distributive) shock causes vasodilation with warm, flushed skin and fever from infection.",
-    "Cardiogenic. Pump failure backs blood into the lungs (crackles) and veins (JVD) while low output causes vasoconstriction.",
-    "Hypovolemic. Loss of volume leaves the neck veins flat and triggers thirst and vasoconstriction.",
-    "Septic. Infection with leukocytosis and elevated lactate (tissue hypoperfusion) points to sepsis.",
-    "Cardiogenic. An S3 and a very high BNP indicate ventricular volume overload and pump failure."
-   ],
-   "rationale": "All shock states cause inadequate tissue perfusion, but the cause guides treatment. Hypovolemic shock shows signs of empty vessels (flat neck veins); cardiogenic shock shows congestion (JVD, crackles, S3, high BNP); septic shock shows infection and vasodilation (fever, warm skin early, elevated lactate). Giving fluid helps hypovolemic and septic shock but can worsen cardiogenic shock.",
-   "takeaway": "Flat veins = hypovolemic; full veins + crackles = cardiogenic; infection + warm skin = septic.",
-   "hintContent": "Recall what happens to the neck veins and lungs when the problem is volume loss versus pump failure versus vasodilation.",
-   "hintStrategy": "Look for the 'signature' cue in each row (neck veins, lung sounds, infection source) and match it to the underlying mechanism."
+   "rationale": "Pharmacologic therapy for hypertension works best with nonpharmacologic measures. Clients learn to rise slowly, monitor and record BP, keep taking medications even when readings are normal, report side effects rather than stopping drugs on their own, and continue lifestyle changes such as limiting alcohol and quitting smoking.",
+   "takeaway": "Never skip or stop BP pills without the provider; rise slowly; keep the lifestyle changes going.",
+   "hintContent": "Recall the key safety points for clients taking antihypertensive medications and the lifestyle changes that support them.",
+   "hintStrategy": "Evaluate each statement independently; statements in which the client changes medications on their own are red flags."
   },
   {
    "id": "m16d-047",
    "type": "dropdown",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure · Pulse Pressure and MAP",
+   "ref": "Module 16 · Perfusion · Blood Pressure · Pulse Pressure",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client arrives in the emergency department after a motor vehicle crash. BP is 96/80, HR 124, and the skin is cool and pale. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's pulse pressure is {0}, which is considered {1}. The mean arterial pressure (MAP) is approximately {2}. The pulse pressure most likely reflects {3}.",
+   "template": "The client's pulse pressure is {0}, which is considered {1}. The pulse pressure most likely reflects {2}.",
    "blanks": [
     {
      "options": [
@@ -2045,15 +1308,6 @@
     },
     {
      "options": [
-      "64 mm Hg",
-      "72 mm Hg",
-      "85 mm Hg",
-      "88 mm Hg"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
       "increased intracranial pressure",
       "reduced stroke volume with compensatory vasoconstriction",
       "stiff, noncompliant arteries",
@@ -2062,250 +1316,71 @@
      "answer": 1
     }
    ],
-   "rationale": "Pulse pressure = SBP − DBP = 96 − 80 = 16 mm Hg (normal about 30–50), so it is narrowed. MAP = (SBP + 2 × DBP) ÷ 3 = (96 + 160) ÷ 3 ≈ 85 mm Hg. After trauma, blood loss reduces stroke volume (lowering systolic pressure) while sympathetic vasoconstriction maintains diastolic pressure — a narrowing pulse pressure is an early sign of hypovolemic shock, even when MAP is still adequate. Widened pulse pressure occurs with increased ICP, stiff arteries, and aortic regurgitation.",
-   "takeaway": "Narrow pulse pressure + tachycardia after trauma = early hypovolemic shock, even with an 'okay' MAP.",
-   "hintContent": "Recall the formulas for pulse pressure and MAP and what raises or lowers each side of the pulse pressure.",
-   "hintStrategy": "Do the math first (subtract, then weight the diastolic twice), then match the mechanism to the clinical context."
+   "rationale": "Pulse pressure is the difference between the systolic and diastolic pressures: 96 − 80 = 16 mm Hg (normally about 30–50 mm Hg, e.g., 40 with a BP of 120/80), so it is narrowed. After trauma, blood loss reduces blood volume and stroke volume, lowering the systolic pressure, while vasoconstriction (increased peripheral vascular resistance) keeps the diastolic pressure up. A narrowing pulse pressure with tachycardia and cool, pale skin is an early sign of inadequate perfusion. A widened pulse pressure occurs with stiff arteries, increased intracranial pressure, and aortic regurgitation.",
+   "takeaway": "Narrow pulse pressure + tachycardia after trauma = falling stroke volume with compensatory vasoconstriction.",
+   "hintContent": "Recall how pulse pressure is calculated and how blood volume and peripheral vascular resistance affect each side of it.",
+   "hintStrategy": "Do the subtraction first, then match the mechanism to the clinical context."
   },
   {
-   "id": "m16d-048",
+   "id": "m16d-049",
    "type": "dropdown",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Peripheral Assessment · Ankle-Brachial Index",
-   "difficulty": 3,
+   "ref": "Module 16 · Perfusion · Nursing Assessment · Apical and Apical-Radial Pulse",
+   "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "exhibit": {
     "tabs": [
      {
-      "title": "Diagnostic Results",
-      "table": {
-       "headers": [
-        "Site",
-        "Right (mm Hg)",
-        "Left (mm Hg)"
-       ],
-       "rows": [
-        [
-         "Brachial systolic",
-         "138",
-         "142"
-        ],
-        [
-         "Dorsalis pedis systolic",
-         "88",
-         "124"
-        ],
-        [
-         "Posterior tibial systolic",
-         "92",
-         "130"
-        ]
-       ]
-      }
+      "title": "Nurses' Notes",
+      "html": "<p><strong>0800:</strong> 81-year-old client with hypertension and heart failure. Has a resting tremor of both hands. A medication that slows the heart rate is scheduled for 0900. The radial pulse is difficult to count because of the tremor and feels irregular. A second nurse is asked to help with an apical-radial pulse: apical rate 96/min, irregular; radial rate (counted at the same time) 78/min. BP 124/72.</p>"
      }
     ]
    },
-   "stem": "Refer to the Diagnostic Results for a client who reports right calf cramping when walking. Complete the following sentence by choosing from the lists of options.",
-   "template": "The right ankle-brachial index is {0}, which indicates {1}. The left ankle-brachial index of 0.92 is {2}.",
+   "stem": "Refer to the Nurses' Notes. Complete the following sentence by choosing from the lists of options.",
+   "template": "Before giving the scheduled medication, the nurse should assess the {0} pulse for {1}. The simultaneous count shows a pulse deficit of {2}, which indicates that {3}.",
    "blanks": [
     {
      "options": [
-      "0.62",
-      "0.65",
-      "0.67",
-      "1.54"
+      "femoral",
+      "apical",
+      "pedal",
+      "temporal"
      ],
      "answer": 1
     },
     {
      "options": [
-      "noncompressible arteries",
-      "normal arterial flow",
-      "moderate peripheral artery disease",
-      "critical limb ischemia"
+      "15 seconds multiplied by 4",
+      "30 seconds multiplied by 2",
+      "a full 60 seconds"
      ],
      "answer": 2
     },
     {
      "options": [
-      "normal",
-      "borderline",
-      "consistent with severe disease"
-     ],
-     "answer": 1
-    }
-   ],
-   "rationale": "The ABI uses the higher ankle pressure on each side divided by the higher brachial pressure of both arms. Right: 92 ÷ 142 = 0.65. Using the right brachial (92 ÷ 138 = 0.67) or the lower ankle pressure (88 ÷ 142 = 0.62) are common errors. Interpretation: 1.00–1.40 normal, 0.91–0.99 borderline, ≤0.90 PAD (0.70–0.90 mild, 0.40–0.69 moderate, <0.40 severe), >1.40 noncompressible. The left ABI (130 ÷ 142 = 0.92) is borderline.",
-   "takeaway": "ABI = higher ankle ÷ higher arm (of both arms); 0.40–0.69 = moderate PAD.",
-   "hintContent": "Recall which ankle and which brachial pressure are used in the ABI calculation and the interpretation ranges.",
-   "hintStrategy": "Pick the correct numerator and denominator before dividing; distractor values come from choosing the wrong pressures."
-  },
-  {
-   "id": "m16d-049",
-   "type": "dropdown",
-   "topic": "promotion-interventions",
-   "ref": "Module 16 · Perfusion · Heart Failure · Digoxin",
-   "difficulty": 3,
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pharmacology",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>0800:</strong> 80-year-old client with heart failure and atrial fibrillation takes digoxin 0.125 mg daily and furosemide 40 mg twice daily. Reports nausea, poor appetite for 3 days, and \"yellow-green halos around lights.\" Apical pulse 54, irregular. BP 112/68. Lungs clear; trace ankle edema.</p>"
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "Potassium",
-         "3.0 mEq/L",
-         "3.5–5.0 mEq/L"
-        ],
-        [
-         "Digoxin",
-         "2.4 ng/mL",
-         "0.5–2.0 ng/mL"
-        ],
-        [
-         "Creatinine",
-         "1.5 mg/dL",
-         "0.6–1.2 mg/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's findings are most consistent with {0}. The client's {1} increases the risk for this condition. The nurse should first {2}.",
-   "blanks": [
-    {
-     "options": [
-      "an exacerbation of heart failure",
-      "digoxin toxicity",
-      "viral gastroenteritis",
-      "hypercalcemia"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "hypokalemia",
-      "blood pressure",
-      "trace ankle edema",
-      "furosemide dosing time"
+      "18/min",
+      "78/min",
+      "96/min",
+      "174/min"
      ],
      "answer": 0
     },
     {
      "options": [
-      "give the digoxin with food to reduce nausea",
-      "request an increase in the digoxin dose",
-      "withhold the digoxin and notify the provider",
-      "give the morning furosemide dose early"
+      "some contractions are too weak to produce a palpable radial pulse",
+      "the radial artery is completely blocked",
+      "the count is wrong because the radial rate should exceed the apical rate",
+      "this is an expected change of aging that needs no follow-up"
      ],
-     "answer": 2
+     "answer": 0
     }
    ],
-   "rationale": "Anorexia, nausea, visual disturbances (yellow-green halos), bradycardia, and a digoxin level above range indicate digoxin toxicity. Hypokalemia from the loop diuretic increases digoxin binding to the myocardium and increases toxicity; reduced renal function in an older adult also decreases digoxin clearance. The nurse withholds the digoxin and notifies the provider, who may order potassium replacement, ECG monitoring, and (for severe toxicity) digoxin immune fab.",
-   "takeaway": "Loop diuretic + digoxin: low K⁺ → toxicity (GI, visual, bradycardia) — hold and call.",
-   "hintContent": "Recall the classic signs of digoxin toxicity and which electrolyte imbalance potentiates it.",
-   "hintStrategy": "Identify the condition from the cluster of symptoms and the drug level, then choose the risk factor and the safest first action that fit that condition."
-  },
-  {
-   "id": "m16d-050",
-   "type": "dropdown",
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Aortic Dissection",
-   "difficulty": 3,
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>1320:</strong> 61-year-old client with poorly controlled hypertension reports sudden, severe \"tearing\" pain between the shoulder blades that began 30 minutes ago. Diaphoretic and anxious. Radial pulse weaker on the left than the right.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "HR",
-        "RR",
-        "BP right arm",
-        "BP left arm",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "1320",
-         "112",
-         "24",
-         "196/108",
-         "158/90",
-         "96% RA"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Vital Signs. Complete the following sentence by choosing from the lists of options.",
-   "template": "The nurse recognizes that the client's findings are most consistent with {0}. The difference in arm pressures suggests {1}. The nurse anticipates an IV {2} to reduce heart rate and BP, with a target systolic BP below {3} within the first hour.",
-   "blanks": [
-    {
-     "options": [
-      "pulmonary embolism",
-      "acute myocardial infarction",
-      "acute aortic dissection",
-      "musculoskeletal strain"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "a cuff that is too small on the right arm",
-      "a dissection limiting blood flow into one subclavian artery",
-      "a normal variation between arms",
-      "an auscultatory gap in the left arm"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "thrombolytic",
-      "beta-blocker such as esmolol",
-      "vasopressor such as norepinephrine",
-      "rapid crystalloid bolus"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "100 mm Hg",
-      "120 mm Hg",
-      "160 mm Hg",
-      "180 mm Hg"
-     ],
-     "answer": 1
-    }
-   ],
-   "rationale": "Sudden, severe, tearing or ripping chest or back pain in a hypertensive client, with unequal arm pulses or pressures (a difference >20 mm Hg), strongly suggests acute aortic dissection. Blood entering the aortic wall can compromise branch vessels such as the subclavian artery. Treatment begins with an IV beta-blocker (e.g., esmolol or labetalol) to lower heart rate and shear stress, then vasodilators if needed, targeting SBP <120 mm Hg within the first hour (2025 AHA/ACC). Thrombolytics are contraindicated and could be fatal.",
-   "takeaway": "Tearing back pain + unequal arm BPs = dissection: beta-blocker first, SBP <120 in the first hour, no thrombolytics.",
-   "hintContent": "Recall the classic presentation of aortic dissection and why heart rate control precedes vasodilation.",
-   "hintStrategy": "Identify the condition from the pain quality and the unequal arm findings, then choose options consistent with reducing stress on the aortic wall."
+   "rationale": "The apical pulse is used when the peripheral pulse is irregular or hard to count (such as with hand tremors in older adults), in clients with cardiovascular disease, and before giving medications that affect heart rate. An irregular pulse is counted for a full minute. In an apical-radial pulse, two nurses count at the same time; the apical and radial rates are normally identical, and any difference is a pulse deficit (96 − 78 = 18/min). A deficit means some ventricular contractions are too weak to send a pulse wave to the periphery. The radial rate is never greater than the apical rate, and a new deficit is reported.",
+   "takeaway": "Irregular or hard-to-count pulse → apical for a full minute; apical − radial = pulse deficit.",
+   "hintContent": "Recall the indications for an apical pulse and how a pulse deficit is calculated.",
+   "hintStrategy": "Work through the blanks in order: choose the site, the counting time for an irregular rhythm, then do the subtraction."
   }
  ]
 }
