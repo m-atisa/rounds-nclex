@@ -19,7 +19,16 @@ export function emptyResponse(q: Question): Response {
       return { type: 'matrix', value: q.rows.map(() => null) };
     case 'dropdown':
       return { type: 'dropdown', value: q.blanks.map(() => null) };
+    case 'highlight':
+      return { type: 'highlight', value: [] };
+    case 'bowtie':
+      return { type: 'bowtie', value: { condition: null, actions: [], parameters: [] } };
   }
+}
+
+/** Segments of a highlight passage: even indices are plain text, odd indices are selectable. */
+export function highlightSegments(passage: string) {
+  return passage.split(/\{\{([\s\S]*?)\}\}/);
 }
 
 export function isAnswered(r: Response): boolean {
@@ -33,6 +42,10 @@ export function isAnswered(r: Response): boolean {
     case 'matrix':
     case 'dropdown':
       return r.value.every((v) => v !== null);
+    case 'highlight':
+      return r.value.length > 0;
+    case 'bowtie':
+      return r.value.condition !== null && r.value.actions.length === 2 && r.value.parameters.length === 2;
   }
 }
 
@@ -82,6 +95,23 @@ export function scoreResponse(q: Question, r: Response): Score {
       const earned = q.blanks.filter((b, i) => v[i] === b.answer).length;
       return { score: earned / q.blanks.length, correct: earned === q.blanks.length, earned, possible: q.blanks.length };
     }
+    case 'highlight': {
+      const picked = new Set((r as Extract<Response, { type: 'highlight' }>).value);
+      const key = new Set(q.answer);
+      let pts = 0;
+      picked.forEach((i) => (pts += key.has(i) ? 1 : -1));
+      const earned = Math.max(0, pts);
+      const exact = picked.size === key.size && [...key].every((i) => picked.has(i));
+      return { score: earned / key.size, correct: exact, earned, possible: key.size };
+    }
+    case 'bowtie': {
+      const v = (r as Extract<Response, { type: 'bowtie' }>).value;
+      const earned =
+        (v.condition === q.condition.answer ? 1 : 0) +
+        v.actions.filter((a) => q.actions.answer.includes(a)).length +
+        v.parameters.filter((a) => q.parameters.answer.includes(a)).length;
+      return { score: earned / 5, correct: earned === 5, earned, possible: 5 };
+    }
   }
 }
 
@@ -92,6 +122,8 @@ export const PACE_SECONDS: Record<Question['type'], number> = {
   order: 100,
   matrix: 120,
   dropdown: 90,
+  highlight: 100,
+  bowtie: 150,
 };
 
 export function isSlow(q: Question, ms: number) {

@@ -13,6 +13,8 @@ import { AnimatePresence, motion } from 'motion/react';
 import { Fragment, useId } from 'react';
 import { MODULE_BY_ID } from '../../data';
 import type {
+  BowtieQuestion,
+  HighlightQuestion,
   ChoiceQuestion,
   DropdownQuestion,
   MatrixQuestion,
@@ -22,6 +24,7 @@ import type {
   SataQuestion,
 } from '../../data/types';
 import { TYPE_LABEL } from '../../data/types';
+import { highlightSegments } from '../../lib/scoring';
 import { cx, letter } from '../../lib/util';
 import { Icon } from '../Icon';
 import { Difficulty, Html } from '../ui';
@@ -68,6 +71,8 @@ export function QuestionBody(props: Props) {
       {q.type === 'order' && <OrderList {...props} q={q} />}
       {q.type === 'matrix' && <Matrix {...props} q={q} />}
       {q.type === 'dropdown' && <Cloze {...props} q={q} />}
+      {q.type === 'highlight' && <Highlight {...props} q={q} />}
+      {q.type === 'bowtie' && <Bowtie {...props} q={q} />}
     </>
   );
 }
@@ -346,5 +351,155 @@ function Cloze({ q, response, revealed, locked, onChange }: Props & { q: Dropdow
         );
       })}
     </motion.div>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/* Highlight (NGN)                                                      */
+/* ------------------------------------------------------------------ */
+
+function Highlight({ q, response, revealed, locked, onChange }: Props & { q: HighlightQuestion }) {
+  const picked = new Set(response.type === 'highlight' ? response.value : []);
+  const key = new Set(q.answer);
+  const parts = highlightSegments(q.passage);
+  const toggle = (i: number) => {
+    if (locked) return;
+    const next = picked.has(i) ? [...picked].filter((x) => x !== i) : [...picked, i];
+    onChange({ type: 'highlight', value: next });
+  };
+  let seg = -1;
+  const notes = revealed
+    ? parts
+        .map((text, i) => (i % 2 ? { i: (i - 1) / 2, text } : null))
+        .filter((x): x is { i: number; text: string } => !!x && (key.has(x.i) || picked.has(x.i)) && !!q.optionRationales?.[x.i])
+    : [];
+  return (
+    <>
+      {!locked && <p className="order-help faint">Select each phrase that applies. Select again to remove the highlight.</p>}
+      <motion.div className="hl-passage" initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.06 }}>
+        {parts.map((text, i) => {
+          if (i % 2 === 0) return <Html key={i} html={text} />;
+          seg++;
+          const s = seg;
+          const on = picked.has(s);
+          const state = revealed ? (key.has(s) ? (on ? 'correct' : 'missed') : on ? 'wrong' : '') : '';
+          return (
+            <span
+              key={i}
+              role="button"
+              tabIndex={locked ? -1 : 0}
+              className={cx('hl-seg', on && 'on', state, locked && 'locked')}
+              aria-pressed={on}
+              aria-disabled={locked}
+              onClick={() => toggle(s)}
+              onKeyDown={(e) => {
+                if (e.key === ' ' || e.key === 'Enter') {
+                  e.preventDefault();
+                  toggle(s);
+                }
+              }}
+            >
+              {text}
+            </span>
+          );
+        })}
+      </motion.div>
+      {notes.length > 0 && (
+        <ul className="hl-notes">
+          {notes.map((n) => (
+            <li key={n.i} className={key.has(n.i) ? 'good' : 'bad'}>
+              <b>{n.text}</b> — <Html html={q.optionRationales![n.i]} />
+            </li>
+          ))}
+        </ul>
+      )}
+    </>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/* Bowtie (NGN)                                                         */
+/* ------------------------------------------------------------------ */
+
+type BowKey = 'actions' | 'condition' | 'parameters';
+const BOW_META: Record<BowKey, { title: string; max: number }> = {
+  actions: { title: 'Actions to take', max: 2 },
+  condition: { title: 'Potential condition', max: 1 },
+  parameters: { title: 'Parameters to monitor', max: 2 },
+};
+
+function Bowtie({ q, response, revealed, locked, onChange }: Props & { q: BowtieQuestion }) {
+  const v = response.type === 'bowtie' ? response.value : { condition: null, actions: [], parameters: [] };
+  const picked = (k: BowKey): number[] => (k === 'condition' ? (v.condition === null ? [] : [v.condition]) : v[k]);
+  const keyOf = (k: BowKey): number[] => (k === 'condition' ? [q.condition.answer] : q[k].answer);
+  const pick = (k: BowKey, i: number) => {
+    if (locked) return;
+    if (k === 'condition') return onChange({ type: 'bowtie', value: { ...v, condition: v.condition === i ? null : i } });
+    const cur = v[k];
+    const next = cur.includes(i) ? cur.filter((x) => x !== i) : [...cur, i].slice(-BOW_META[k].max);
+    onChange({ type: 'bowtie', value: { ...v, [k]: next } });
+  };
+  const slot = (k: BowKey, n: number) => {
+    const idx = picked(k)[n];
+    const filled = idx !== undefined;
+    const ok = revealed && filled && keyOf(k).includes(idx);
+    return (
+      <motion.div
+        key={`${k}-${n}-${idx ?? 'x'}`}
+        className={cx('bow-slot', filled && 'filled', revealed && filled && (ok ? 'correct' : 'wrong'))}
+        initial={filled ? { scale: 0.92, opacity: 0.4 } : false}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ type: 'spring', stiffness: 420, damping: 26 }}
+      >
+        {filled ? <Html html={q[k].options[idx]} /> : <span className="faint">Select below</span>}
+      </motion.div>
+    );
+  };
+  return (
+    <div className="bowtie">
+      <div className="bow-diagram" aria-hidden="true">
+        <div className="bow-col">
+          <span className="bow-label">{BOW_META.actions.title}</span>
+          {slot('actions', 0)}
+          {slot('actions', 1)}
+        </div>
+        <svg className="bow-lines" viewBox="0 0 40 100" preserveAspectRatio="none">
+          <path d="M0 25 L40 50 M0 75 L40 50" />
+        </svg>
+        <div className="bow-col center">
+          <span className="bow-label">{BOW_META.condition.title}</span>
+          {slot('condition', 0)}
+        </div>
+        <svg className="bow-lines" viewBox="0 0 40 100" preserveAspectRatio="none">
+          <path d="M0 50 L40 25 M0 50 L40 75" />
+        </svg>
+        <div className="bow-col">
+          <span className="bow-label">{BOW_META.parameters.title}</span>
+          {slot('parameters', 0)}
+          {slot('parameters', 1)}
+        </div>
+      </div>
+      <div className="bow-banks">
+        {(['actions', 'condition', 'parameters'] as BowKey[]).map((k) => (
+          <div key={k} className="bow-bank">
+            <span className="bow-label">
+              {BOW_META[k].title} <span className="faint">· choose {BOW_META[k].max}</span>
+            </span>
+            {q[k].options.map((o, i) => {
+              const on = picked(k).includes(i);
+              const isKey = keyOf(k).includes(i);
+              const state = revealed ? (isKey ? (on ? 'correct' : 'missed') : on ? 'wrong' : '') : '';
+              const why = revealed && (isKey || on) ? q.optionRationales?.[k]?.[i] : undefined;
+              return (
+                <button key={i} type="button" className={cx('bow-opt', on && 'on', state)} aria-pressed={on} disabled={locked} onClick={() => pick(k, i)}>
+                  <Html html={o} />
+                  {why && <Html className="opt-why" html={why} />}
+                </button>
+              );
+            })}
+          </div>
+        ))}
+      </div>
+    </div>
   );
 }

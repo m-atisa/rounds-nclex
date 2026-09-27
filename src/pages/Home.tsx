@@ -13,12 +13,11 @@ const QUOTES = [
   { q: 'I attribute my success to this: I never gave or took any excuse.', a: 'Florence Nightingale' },
   { q: 'Nurses are the heart of healthcare.', a: 'Donna Wilk Cardillo' },
   { q: 'Were there none who were discontented with what they have, the world would never reach anything better.', a: 'Florence Nightingale' },
-  { q: 'Rough seas make better sailors. Hard questions make better nurses.', a: 'Every clinical instructor, ever' },
 ];
 
 function greeting() {
   const h = new Date().getHours();
-  if (h < 5) return 'Burning the midnight oil';
+  if (h < 5) return 'Late-night study';
   if (h < 12) return 'Good morning';
   if (h < 17) return 'Good afternoon';
   return 'Good evening';
@@ -32,12 +31,15 @@ export function ModuleGlyph({ icon }: { icon: IconName }) {
   );
 }
 
+const caseCount = new Set(QUESTIONS.filter((q) => q.caseId).map((q) => q.caseId)).size;
+
 export function Home() {
   const { attempts, days, active, startSession } = useProgress();
   const navigate = useNavigate();
   const records = useMemo(() => recordsFromAttempts(attempts), [attempts]);
   const answered = records.length;
   const accuracy = answered ? records.reduce((s, r) => s + r.score, 0) / answered : 0;
+  const mastered = records.filter((r) => r.mastery === 'mastered').length;
   const days_ = streak(days);
   const rec = useMemo(() => recommendations(records, undefined, 1)[0], [records]);
   const quote = QUOTES[new Date().getDate() % QUOTES.length];
@@ -51,76 +53,84 @@ export function Home() {
   };
 
   const actions: { icon: IconName; title: string; sub: string; color: string; onClick?: () => void; to?: string }[] = [
-    { icon: 'bolt', title: 'Quick 10', sub: 'Smart mix, instant rationales', color: 'var(--brand)', onClick: () => quick('smart') },
+    { icon: 'bolt', title: 'Quick 10', sub: 'Adaptive mix with hints and instant rationales', color: 'var(--brand)', onClick: () => quick('smart') },
     {
       icon: 'target',
       title: 'Weak spots',
-      sub: answered ? 'Missed + shaky questions' : 'Unlocks after you practice',
-      color: 'var(--accent)',
+      sub: answered ? 'Missed and right-but-shaky questions' : 'Unlocks once you’ve practiced',
+      color: 'var(--m16)',
       onClick: () => (answered ? quick('weak') : navigate('/practice')),
     },
-    { icon: 'exam', title: 'Timed exam', sub: 'NCLEX-style, no hints', color: 'var(--m21)', to: '/exam' },
-    { icon: 'cards', title: 'Flashcards', sub: `${MODULES.reduce((s, m) => s + m.flashcards.length, 0)} cards to flip`, color: 'var(--m15)', to: '/flashcards' },
+    { icon: 'clipboard', title: 'NGN case studies', sub: `${caseCount} unfolding cases with client charts`, color: 'var(--accent)', to: '/practice?cases=only' },
+    { icon: 'exam', title: 'Timed exam', sub: 'Test conditions and a full performance report', color: 'var(--m15)', to: '/exam' },
   ];
 
   return (
     <div className="container">
-      <motion.section className="hero" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}>
-        <svg className="ecg" viewBox="0 0 1200 120" preserveAspectRatio="none" aria-hidden="true">
-          <path d="M0 70 H260 l20 -8 l14 8 H380 l12 -52 l16 96 l14 -64 l10 20 H560 l18 -10 l16 10 H760 l12 -52 l16 96 l14 -64 l10 20 H960 l18 -10 l16 10 H1200" />
+      <motion.section className="hero" initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, ease: [0.2, 0.8, 0.2, 1] }}>
+        <div className="hero-grid" />
+        <div className="hero-glow" />
+        <div className="hero-glow b" />
+        <svg className="ecg" viewBox="0 0 1200 100" preserveAspectRatio="none" aria-hidden="true">
+          <path d="M0 60 H240 l18 -6 l12 6 H360 l10 -44 l14 84 l12 -56 l9 16 H560 l16 -8 l14 8 H760 l10 -44 l14 84 l12 -56 l9 16 H960 l16 -8 l14 8 H1200" />
         </svg>
         <span className="eyebrow">
-          {greeting()} · {QUESTIONS.length} NCLEX-style questions
+          <span className="live-dot" /> {greeting()} · NCLEX-RN · NGN format
         </span>
-        <h1>
+        <motion.h1 initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1, duration: 0.6 }}>
           Think like a nurse. <em>Pass like one.</em>
-        </h1>
-        <p className="lead">
-          Learn the concept, then prove it with clinical-judgment questions written the way NCLEX item writers build them — with hints when
-          you need a nudge and rationales that teach.
-        </p>
-        <div className="row" style={{ marginTop: 22 }}>
+        </motion.h1>
+        <motion.p className="lead" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.18, duration: 0.6 }}>
+          {QUESTIONS.length} clinical-judgment questions — including NGN case studies, bowtie and highlight items — mapped to your concept-based
+          modules, with coaching hints and rationales that teach.
+        </motion.p>
+        <motion.div className="row" style={{ marginTop: '1.5rem' }} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.26, duration: 0.6 }}>
           <Link className="btn btn-primary btn-lg" to="/practice">
-            <Icon name="play" /> Start practicing
+            Start practicing <Icon name="arrowRight" />
           </Link>
           <Link className="btn btn-ghost btn-lg" to="/learn">
-            <Icon name="book" /> Study the modules
+            <Icon name="book" /> Study guides
           </Link>
-        </div>
+        </motion.div>
         <div className="hero-stats">
           <div className="hero-stat">
             <b>
               <CountUp to={answered} />
             </b>
-            <span>questions answered</span>
+            <span>Questions answered</span>
           </div>
           <div className="hero-stat">
             <b>{answered ? <CountUp to={Math.round(accuracy * 100)} suffix="%" /> : '—'}</b>
-            <span>accuracy</span>
+            <span>Average score</span>
+          </div>
+          <div className="hero-stat">
+            <b>
+              <CountUp to={mastered} />
+            </b>
+            <span>Mastered</span>
           </div>
           <div className="hero-stat">
             <b>
               <CountUp to={days_} />
-              <span className="flame">{days_ > 0 ? ' 🔥' : ''}</span>
             </b>
-            <span>day streak</span>
+            <span>Day streak</span>
           </div>
         </div>
       </motion.section>
 
       {active && (
         <motion.div className="resume card" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}>
-          <div className="action-icon" style={{ ['--c' as string]: 'var(--accent)' }}>
+          <div className="resume-icon">
             <Icon name={active.mode === 'exam' ? 'exam' : 'pulse'} />
           </div>
           <div>
-            <b>Pick up where you left off</b>
-            <p className="muted" style={{ margin: 0 }}>
+            <b>Resume your session</b>
+            <p className="muted small" style={{ margin: 0 }}>
               {active.title} · question {active.idx + 1} of {active.qids.length}
             </p>
           </div>
           <div className="spacer" />
-          <Link to="/session" className="btn btn-accent">
+          <Link to="/session" className="btn btn-primary">
             Resume <Icon name="arrowRight" />
           </Link>
         </motion.div>
@@ -133,6 +143,9 @@ export function Home() {
               <div className="action-icon" style={{ ['--c' as string]: a.color }}>
                 <Icon name={a.icon} />
               </div>
+              <span className="arrow-go">
+                <Icon name="arrowRight" />
+              </span>
               <div>
                 <h3>{a.title}</h3>
                 <p>{a.sub}</p>
@@ -142,11 +155,11 @@ export function Home() {
           return (
             <motion.div key={a.title} variants={stagger.item}>
               {a.to ? (
-                <Link to={a.to} className="card card-link action">
+                <Link to={a.to} className="card card-link action spot" style={{ ['--mc' as string]: a.color }}>
                   {inner}
                 </Link>
               ) : (
-                <button type="button" onClick={a.onClick} className="card card-link action as-button">
+                <button type="button" onClick={a.onClick} className="card card-link action as-button spot" style={{ ['--mc' as string]: a.color }}>
                   {inner}
                 </button>
               )}
@@ -156,16 +169,16 @@ export function Home() {
       </motion.section>
 
       {rec && (
-        <motion.section className="section" initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }}>
+        <motion.section className="section" initial={{ opacity: 0, y: 12 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
           <div className="next-step card">
             <div>
-              <span className="eyebrow">Your next best step</span>
+              <span className="eyebrow">Recommended next</span>
               <h3>
                 Strengthen <em>{rec.label}</em>
               </h3>
-              <p className="muted">
-                {Math.round(rec.acc * 100)}% accuracy across {rec.n} question{rec.n === 1 ? '' : 's'}
-                {rec.fragile ? ` · ${rec.fragile} right-but-shaky` : ''}. A focused set here will move your score the most.
+              <p className="muted small">
+                {Math.round(rec.acc * 100)}% across {rec.n} question{rec.n === 1 ? '' : 's'}
+                {rec.fragile ? ` · ${rec.fragile} correct but shaky` : ''}. A focused set here will move your score the most.
               </p>
             </div>
             <Link className="btn btn-primary" to={`/practice?${rec.practiceQuery}`}>
@@ -178,39 +191,40 @@ export function Home() {
       <section className="section">
         <div className="section-head">
           <div>
-            <span className="eyebrow">Your modules</span>
+            <span className="eyebrow">Curriculum</span>
             <h2>Concepts &amp; exemplars</h2>
           </div>
           <Link to="/learn" className="btn btn-ghost btn-sm">
             All study guides <Icon name="arrowRight" />
           </Link>
         </div>
-        <motion.div
-          className="grid grid-2"
-          variants={stagger.container}
-          initial="hidden"
-          whileInView="show"
-          viewport={{ once: true, margin: '-60px' }}
-        >
+        <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" whileInView="show" viewport={{ once: true, margin: '-60px' }}>
           {MODULES.map((m) => {
-            const mastered = m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
+            const mm = m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
             const seen = m.questions.filter((q) => statusOf(attempts, q.id) !== 'new').length;
+            const pct = mm / Math.max(1, m.questions.length);
             return (
               <motion.div key={m.id} variants={stagger.item}>
-                <Link to={`/learn/${m.id}`} className="card card-link module-card" style={{ ['--mc' as string]: m.color }}>
-                  <div className="row" style={{ justifyContent: 'space-between', alignItems: 'flex-start' }}>
+                <Link to={`/learn/${m.id}`} className="card card-link module-card spot" style={{ ['--mc' as string]: m.color }}>
+                  <div className="module-card-top">
                     <ModuleGlyph icon={m.icon} />
-                    <Ring value={mastered / Math.max(1, m.questions.length)} color={m.color}>
-                      {Math.round((mastered / Math.max(1, m.questions.length)) * 100)}%
+                    <Ring value={pct} color={m.color} size={48} stroke={8}>
+                      {Math.round(pct * 100)}
                     </Ring>
                   </div>
                   <div className="module-num">MODULE {m.number}</div>
                   <h3>{m.title}</h3>
                   <p>{m.tagline}</p>
                   <div className="module-meta">
-                    <span>{m.topics.length} topics</span>
-                    <span>{m.questions.length} questions</span>
-                    <span>{seen} attempted</span>
+                    <span>
+                      <b>{m.topics.length}</b> topics
+                    </span>
+                    <span>
+                      <b>{m.questions.length}</b> questions
+                    </span>
+                    <span>
+                      <b>{seen}</b> attempted
+                    </span>
                   </div>
                 </Link>
               </motion.div>
@@ -219,13 +233,11 @@ export function Home() {
         </motion.div>
       </section>
 
-      <motion.section className="section" initial={{ opacity: 0, y: 16 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-        <div className="quote">
-          <span className="quote-mark">“</span>
-          <div>
-            <blockquote>{quote.q}</blockquote>
-            <cite>— {quote.a}</cite>
-          </div>
+      <motion.section className="section card quote" initial={{ opacity: 0, y: 14 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
+        <span className="quote-mark">“</span>
+        <div>
+          <blockquote>{quote.q}</blockquote>
+          <cite>— {quote.a}</cite>
         </div>
       </motion.section>
 
@@ -237,8 +249,8 @@ export function Home() {
 export function Footer() {
   return (
     <p className="foot">
-      Rounds is an independent study aid for concept-based nursing students. Content is original and research-informed but is not a
-      substitute for your textbook, instructors, or facility policy. Not affiliated with NCSBN or any publisher.
+      Rounds is an independent study aid for concept-based nursing students. Content is original and research-informed but does not replace
+      your textbook, instructors, or facility policy. Not affiliated with NCSBN or Pearson.
     </p>
   );
 }

@@ -55,3 +55,23 @@ describe('classify', () => {
     expect(classify({ q, answered: false, correct: false, ms: 0, hints: 0 })).toBe('skipped');
   });
 });
+
+describe('NGN item types', () => {
+  it('scores highlight with +/- rule', () => {
+    const q: Question = { ...base, type: 'highlight', passage: 'a {{x}} b {{y}} c {{z}}', answer: [0, 2] };
+    expect(scoreResponse(q, { type: 'highlight', value: [0, 2] }).correct).toBe(true);
+    expect(scoreResponse(q, { type: 'highlight', value: [0, 1] })).toMatchObject({ earned: 0, correct: false });
+  });
+  it('scores bowtie out of 5', () => {
+    const q: Question = {
+      ...base,
+      type: 'bowtie',
+      condition: { options: ['a', 'b', 'c', 'd'], answer: 1 },
+      actions: { options: ['a', 'b', 'c', 'd', 'e'], answer: [0, 3] },
+      parameters: { options: ['a', 'b', 'c', 'd', 'e'], answer: [2, 4] },
+    };
+    const r = { type: 'bowtie' as const, value: { condition: 1, actions: [0, 1], parameters: [2, 4] } };
+    expect(scoreResponse(q, r)).toMatchObject({ earned: 4, correct: false });
+    expect(isAnswered({ type: 'bowtie', value: { condition: 1, actions: [0], parameters: [2, 4] } })).toBe(false);
+  });
+});

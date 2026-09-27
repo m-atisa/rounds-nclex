@@ -5,6 +5,7 @@ import { MODULE_BY_ID, QUESTION_BY_ID } from '../data';
 import type { Question } from '../data/types';
 import { TYPE_SHORT } from '../data/types';
 import { Icon } from '../components/Icon';
+import { CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
 import { Feedback } from '../components/question/Support';
 import { Bar, CountUp, Modal, Ring, celebrate, stagger } from '../components/ui';
@@ -287,6 +288,7 @@ export function Results() {
 
       <Modal open={!!open} onClose={() => setOpen(null)} wide title={open && <span className="eyebrow">Question {open.i + 1}</span>}>
         {open && (
+          <CaseLayout q={open.q}>
           <div className="q-card review" style={{ ['--mc' as string]: MODULE_BY_ID[open.q.moduleId]?.color }}>
             <QuestionMeta q={open.q} />
             <QuestionBody q={open.q} response={open.item.response} perm={open.item.perm} revealed locked onChange={() => {}} />
@@ -304,6 +306,7 @@ export function Results() {
               }
             />
           </div>
+          </CaseLayout>
         )}
       </Modal>
     </div>

@@ -20,7 +20,7 @@ export const FOCUS_AREAS = [
 ] as const;
 export type Focus = (typeof FOCUS_AREAS)[number];
 
-export const QUESTION_TYPES = ['mcq', 'sata', 'order', 'matrix', 'dropdown'] as const;
+export const QUESTION_TYPES = ['mcq', 'sata', 'order', 'matrix', 'dropdown', 'highlight', 'bowtie'] as const;
 export type QuestionType = (typeof QUESTION_TYPES)[number];
 
 export const TYPE_LABEL: Record<QuestionType, string> = {
@@ -29,6 +29,8 @@ export const TYPE_LABEL: Record<QuestionType, string> = {
   order: 'Ordered response',
   matrix: 'Matrix / grid',
   dropdown: 'Drop-down cloze',
+  highlight: 'Highlight',
+  bowtie: 'Bowtie',
 };
 
 export const TYPE_SHORT: Record<QuestionType, string> = {
@@ -37,7 +39,15 @@ export const TYPE_SHORT: Record<QuestionType, string> = {
   order: 'Ordering',
   matrix: 'Matrix',
   dropdown: 'Cloze',
+  highlight: 'Highlight',
+  bowtie: 'Bowtie',
 };
+
+export interface ExhibitTab {
+  title: string;
+  html?: string;
+  table?: { headers: string[]; rows: string[][] };
+}
 
 interface QuestionBase {
   id: string;
@@ -53,6 +63,11 @@ interface QuestionBase {
   takeaway?: string;
   hintContent?: string;
   hintStrategy?: string;
+  /** NGN-style chart shown beside the question. */
+  exhibit?: { tabs: ExhibitTab[] };
+  /** Items of one unfolding case study share a caseId. */
+  caseId?: string;
+  caseOrder?: number;
   /** Added at load time. */
   moduleId: string;
 }
@@ -87,7 +102,32 @@ export interface DropdownQuestion extends QuestionBase {
   blanks: { options: string[]; answer: number }[];
 }
 
-export type Question = ChoiceQuestion | SataQuestion | OrderQuestion | MatrixQuestion | DropdownQuestion;
+export interface HighlightQuestion extends QuestionBase {
+  type: 'highlight';
+  /** Text where each {{segment}} is selectable. */
+  passage: string;
+  answer: number[];
+  optionRationales?: string[];
+}
+export interface BowtiePart {
+  options: string[];
+}
+export interface BowtieQuestion extends QuestionBase {
+  type: 'bowtie';
+  condition: BowtiePart & { answer: number };
+  actions: BowtiePart & { answer: number[] };
+  parameters: BowtiePart & { answer: number[] };
+  optionRationales?: { condition?: string[]; actions?: string[]; parameters?: string[] };
+}
+
+export type Question =
+  | ChoiceQuestion
+  | SataQuestion
+  | OrderQuestion
+  | MatrixQuestion
+  | DropdownQuestion
+  | HighlightQuestion
+  | BowtieQuestion;
 
 export interface TopicSection {
   heading?: string;
@@ -142,4 +182,6 @@ export type Response =
   | { type: 'sata'; value: number[] }
   | { type: 'order'; value: number[]; touched: boolean }
   | { type: 'matrix'; value: (number | null)[] }
-  | { type: 'dropdown'; value: (number | null)[] };
+  | { type: 'dropdown'; value: (number | null)[] }
+  | { type: 'highlight'; value: number[] }
+  | { type: 'bowtie'; value: { condition: number | null; actions: number[]; parameters: number[] } };

@@ -137,7 +137,9 @@ export function Flashcards() {
             />
           ) : (
             <motion.div key="done" className="card fc-done" initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}>
-              <div className="big-emoji">🎉</div>
+              <div className="fc-done-icon">
+                <Icon name="check" />
+              </div>
               <h2>{total ? 'Deck complete!' : 'No cards here yet'}</h2>
               <p className="muted">{total ? `You worked through ${total} cards${again ? ` and revisited ${again}` : ''}.` : 'Try another module.'}</p>
               {total > 0 && (

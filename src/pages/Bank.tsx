@@ -1,9 +1,11 @@
 import { AnimatePresence, motion } from 'motion/react';
-import { useDeferredValue, useMemo, useRef, useState } from 'react';
-import { MODULES, MODULE_BY_ID, QUESTIONS, topicTitle } from '../data';
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
+import { MODULES, MODULE_BY_ID, QUESTIONS, QUESTION_BY_ID, topicTitle } from '../data';
 import type { Question, Response } from '../data/types';
 import { CJMM_STEPS, FOCUS_AREAS, QUESTION_TYPES, TYPE_LABEL, TYPE_SHORT } from '../data/types';
 import { Icon } from '../components/Icon';
+import { CaseBadge, CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
 import { Feedback, Hints } from '../components/question/Support';
 import { Difficulty, Modal } from '../components/ui';
@@ -24,13 +26,27 @@ const STATUS_LABEL: Record<QStatus, string> = {
 
 export function Bank() {
   const attempts = useProgress((s) => s.attempts);
+  const [params, setParams] = useSearchParams();
+  const [kind, setKind] = useState(params.get('kind') ?? '');
   const [query, setQuery] = useState('');
   const [mod, setMod] = useState('');
   const [type, setType] = useState('');
   const [skill, setSkill] = useState('');
   const [status, setStatus] = useState('');
   const [limit, setLimit] = useState(40);
-  const [open, setOpen] = useState<Question | null>(null);
+  const [open, setOpenState] = useState<Question | null>(() => QUESTION_BY_ID[params.get('open') ?? ''] ?? null);
+  const setOpen = (q: Question | null) => {
+    setOpenState(q);
+    const p = new URLSearchParams(params);
+    if (q) p.set('open', q.id);
+    else p.delete('open');
+    setParams(p, { replace: true });
+  };
+  useEffect(() => {
+    const id = params.get('open');
+    if (id && QUESTION_BY_ID[id] && open?.id !== id) setOpenState(QUESTION_BY_ID[id]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [params]);
   const q = useDeferredValue(query.trim().toLowerCase());
 
   const list = useMemo(
@@ -38,6 +54,7 @@ export function Bank() {
       QUESTIONS.filter((x) => {
         if (mod && x.moduleId !== mod) return false;
         if (type && x.type !== type) return false;
+        if (kind === 'case' && !x.caseId) return false;
         if (skill && x.focus !== skill && x.cjmm !== skill) return false;
         if (status) {
           const st = statusOf(attempts, x.id);
@@ -46,7 +63,7 @@ export function Bank() {
         if (q && !`${x.stem} ${x.ref} ${x.id} ${topicTitle(x)}`.toLowerCase().includes(q)) return false;
         return true;
       }),
-    [q, mod, type, skill, status, attempts],
+    [q, mod, type, skill, status, attempts, kind],
   );
 
   return (
@@ -98,6 +115,10 @@ export function Bank() {
           <option value="fragile">Right but shaky</option>
           <option value="missed">Missed</option>
         </select>
+        <select className="select" value={kind} onChange={(e) => setKind(e.target.value)} aria-label="Item kind">
+          <option value="">All items</option>
+          <option value="case">NGN case studies</option>
+        </select>
       </div>
 
       <p className="faint small" style={{ margin: '0 0 12px' }}>
@@ -125,6 +146,7 @@ export function Bank() {
                     <Icon name="book" /> {x.ref}
                   </span>
                   <span className="badge">{TYPE_SHORT[x.type]}</span>
+                  <CaseBadge q={x} />
                   <span className="badge hide-sm">{x.cjmm}</span>
                   <Difficulty level={x.difficulty} />
                 </div>
@@ -179,8 +201,9 @@ export function SingleQuestion({ q }: { q: Question }) {
   };
 
   return (
+    <CaseLayout q={q}>
     <div className="q-card" style={{ ['--mc' as string]: MODULE_BY_ID[q.moduleId]?.color }}>
-      <QuestionMeta q={q} />
+      <QuestionMeta q={q} extra={<CaseBadge q={q} />} />
       <QuestionBody
         q={q}
         response={item.response}
@@ -210,5 +233,6 @@ export function SingleQuestion({ q }: { q: Question }) {
         )}
       </div>
     </div>
+    </CaseLayout>
   );
 }

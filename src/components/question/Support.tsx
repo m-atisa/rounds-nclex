@@ -75,20 +75,20 @@ export function Hints({ q, used, onUse, disabled }: { q: Question; used: HintKin
 /* Confidence (exam)                                                    */
 /* ------------------------------------------------------------------ */
 
-const CONF: { v: Confidence; label: string; emoji: string }[] = [
-  { v: 'sure', label: 'Confident', emoji: '💪' },
-  { v: 'unsure', label: 'Unsure', emoji: '🤔' },
-  { v: 'guess', label: 'Guessing', emoji: '🎲' },
+const CONF: { v: Confidence; label: string; icon: 'check' | 'minus' | 'x' }[] = [
+  { v: 'sure', label: 'Confident', icon: 'check' },
+  { v: 'unsure', label: 'Unsure', icon: 'minus' },
+  { v: 'guess', label: 'Guessing', icon: 'x' },
 ];
 
 export function ConfidencePicker({ value, onChange }: { value: Confidence | null; onChange: (c: Confidence) => void }) {
   return (
     <motion.div className="confidence" initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}>
-      <span className="faint">How sure are you?</span>
+      <span className="faint">Confidence</span>
       <div className="seg">
         {CONF.map((c) => (
           <button key={c.v} type="button" aria-pressed={value === c.v} onClick={() => onChange(c.v)}>
-            <span aria-hidden="true">{c.emoji}</span> {c.label}
+            <Icon name={c.icon} /> {c.label}
           </button>
         ))}
       </div>

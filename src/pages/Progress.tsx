@@ -54,12 +54,11 @@ export function ProgressPage() {
           { v: answered, label: `of ${QUESTIONS.length} questions attempted` },
           { v: Math.round(acc * 100), suffix: '%', label: 'average score' },
           { v: mastered, label: 'questions mastered' },
-          { v: streak(days), label: 'day streak', extra: streak(days) ? ' 🔥' : '' },
+          { v: streak(days), label: 'day streak' },
         ].map((k) => (
           <motion.div key={k.label} className="card kpi" variants={stagger.item}>
             <b>
               <CountUp to={k.v} suffix={k.suffix} />
-              {k.extra}
             </b>
             <span>{k.label}</span>
           </motion.div>
@@ -75,7 +74,7 @@ export function ProgressPage() {
           <span className="faint small">{fmtDuration(totalMs)} of focused practice</span>
         </div>
         <div className="heat-wrap">
-          <div className="heat" style={{ gridTemplateRows: 'repeat(7, 14px)', gridAutoFlow: 'column' }}>
+          <div className="heat">
             {cells.map((c, i) => (
               <motion.i
                 key={c.key}
