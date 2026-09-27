@@ -752,7 +752,7 @@
     ]
    },
    "stem": "The nurse performs a full skin assessment on a client at an annual wellness visit. Refer to the History. Click to highlight the findings that the nurse should report to the provider for possible biopsy.",
-   "passage": "Skin assessment: {{a pearly, translucent papule with rolled borders and tiny surface blood vessels on the side of the nose}}; {{many flat, tan freckles on both forearms that darken each summer}}; {{a 9-mm mole on the upper back with blue-black and reddish areas}}; {{a firm, scaly, crusted nodule on the lower lip that bleeds easily}}; {{soft, flesh-colored skin tags in both axillae}}; {{a waxy, “stuck-on” brown plaque on the chest, unchanged for years}}; and {{a sore on the rim of the left ear that has not healed in 2 months}}.",
+   "passage": "Skin assessment: {{a pearly, translucent papule with rolled borders and tiny surface blood vessels on the side of the nose}}; {{many flat, tan freckles on both forearms that darken each summer}}; {{an asymmetric 8-mm mole on the upper back with blue-black and reddish areas}}; {{a firm, scaly, crusted nodule on the lower lip that bleeds easily}}; {{soft, flesh-colored skin tags in both axillae}}; {{a waxy, “stuck-on” brown plaque on the chest, unchanged for years}}; and {{a scaly, crusted patch on the back of the right hand that has not healed in 2 months}}.",
    "answer": [
     0,
     2,
@@ -762,11 +762,11 @@
    "optionRationales": [
     "Highlight. A pearly papule with rolled borders and telangiectasia is the classic appearance of basal cell carcinoma.",
     "Do not highlight. Freckles (ephelides) that darken with sun and fade in winter are benign, although they show sun exposure.",
-    "Highlight. Diameter > 6 mm with color variation (blue-black and red) meets ABCDE criteria for melanoma.",
+    "Highlight. Asymmetry, diameter > 6 mm, and color variation (blue-black and red) meet several ABCDE criteria for melanoma.",
     "Highlight. A firm, scaly, crusted nodule that bleeds on a sun-exposed lip suggests squamous cell carcinoma.",
     "Do not highlight. Skin tags (acrochordons) are benign.",
     "Do not highlight. A stable, waxy, stuck-on plaque is a seborrheic keratosis, a benign lesion.",
-    "Highlight. Any sore that does not heal in several weeks, especially on a sun-exposed ear, needs evaluation for skin cancer."
+    "Highlight. A scaly, crusted lesion that has not healed in several weeks on chronically sun-exposed skin needs evaluation for squamous cell carcinoma."
    ],
    "rationale": "Basal cell carcinoma (pearly, rolled borders, telangiectasia), squamous cell carcinoma (scaly, crusted, bleeding nodule or nonhealing sore on sun-exposed skin), and melanoma (ABCDE) all need provider evaluation and biopsy. Freckles, skin tags, and stable seborrheic keratoses are benign.",
    "takeaway": "Pearly = BCC, scaly/crusted/bleeding = SCC, ABCDE = melanoma, and any nonhealing sore needs a biopsy.",
@@ -810,7 +810,7 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
-   "stem": "A client is prescribed doxycycline 100 mg orally twice daily for 21 days to treat early Lyme disease. The client says, “I'm going on a 3-day fishing trip this weekend.” Which instruction is most important for the nurse to give?",
+   "stem": "A client is prescribed doxycycline 100 mg orally twice daily for 10 days to treat early Lyme disease. The client says, “I'm going on a 3-day fishing trip this weekend.” Which instruction is most important for the nurse to give?",
    "options": [
     "“Take each dose with a full glass of milk to prevent stomach upset.”",
     "“You only need sunscreen on the days you plan to swim or get wet.”",
@@ -1287,7 +1287,7 @@
    ],
    "rationale": "Labs that affect wound healing include a low WBC (poor defense), low hemoglobin (poor oxygen delivery), coagulation problems, low albumin or prealbumin (poor nutrition), and hyperglycemia. This client has several of these at once, and they call for interprofessional follow-up.",
    "takeaway": "↓WBC, ↓Hgb, ↓albumin, ↑glucose all slow healing.",
-   "hintContent": "Recall the lab values from the wound-healing slide and why each one matters for oxygen delivery, immunity, or tissue building.",
+   "hintContent": "Recall which laboratory values reflect oxygen delivery, infection defense, clotting, nutrition, and glucose control, and why each matters for healing.",
    "hintStrategy": "Compare each value with its normal range. Highlight only abnormal values that have a clear link to healing."
   },
   {
@@ -1600,20 +1600,19 @@
     "Also use it on the scaly rash near your eyebrows",
     "Wrap the plaques in plastic wrap overnight to boost the effect",
     "Report thinning skin, stretch marks, or easy bruising where you apply it",
-    "One fingertip unit covers an area about the size of two adult palms",
+    "One fingertip unit is enough to cover both arms and both legs",
     "Keep applying it every day, even after the plaques have cleared"
    ],
    "answer": [
     0,
-    3,
-    4
+    3
    ],
    "optionRationales": [
     "Correct. A thin layer applied only to affected skin limits absorption and adverse effects.",
     "Incorrect. Facial skin is thin and absorbs more steroid. Super-high-potency steroids on the face cause atrophy, telangiectasia, and steroid rosacea.",
     "Incorrect. Occlusion greatly increases potency and absorption and should be used only when prescribed.",
     "Correct. Skin atrophy, striae, and purpura are the most common local adverse effects and mean the regimen needs review.",
-    "Correct. One fingertip unit (from the tip of the index finger to the first crease) covers about two adult palms, which helps prevent overuse.",
+    "Incorrect. One fingertip unit (from the tip of the index finger to the first crease) covers only about two adult palms. Believing it covers all four limbs leads to under-treatment, and misjudging the amount can lead to overuse elsewhere.",
     "Incorrect. Super-high-potency agents are limited to short courses (usually no more than 2 to 3 weeks) to prevent atrophy and HPA-axis suppression."
    ],
    "rationale": "Teaching for topical corticosteroids focuses on using the lowest effective potency for the shortest time, applying a thin layer (measured in fingertip units), avoiding thin skin (face, groin, axillae) and occlusion unless prescribed, and reporting local adverse effects.",
@@ -1625,29 +1624,29 @@
    "id": "m21d-032",
    "type": "mcq",
    "topic": "skin-therapies-pharm",
-   "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
+   "ref": "Module 21 · Tissue Integrity · Nonpharmacologic & Complementary Therapy",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "stem": "A 15-year-old client with mild inflammatory acne is starting over-the-counter benzoyl peroxide 5% gel. Which statement by the client indicates understanding of the nurse's teaching?",
+   "stem": "A client with atopic dermatitis who takes warfarin asks about using aloe vera gel and evening primrose oil capsules. After the nurse's teaching, which statement by the client indicates understanding?",
    "options": [
-    "“I'll scrub my face three times a day with a rough washcloth to open my pores.”",
-    "“I'll switch to white towels and pillowcases since this can bleach fabric.”",
-    "“If my skin gets a little dry or red, I should stop using the gel for good.”",
-    "“I'll put on a thick layer so it reaches the deeper pimples.”"
+    "“Aloe vera is natural, so I can keep using it even if my skin burns or stings.”",
+    "“I'll tell my provider about the evening primrose oil so it can be checked with my warfarin.”",
+    "“I'll stop my prescribed cream while I find out whether the herbal products work alone.”",
+    "“If I test the aloe on a small patch of skin first, I won't need to mention it to anyone.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Scrubbing irritates the skin and can worsen inflammatory acne. The client should wash gently twice daily with a mild cleanser.",
-    "Correct. Benzoyl peroxide is an oxidizing agent that bleaches hair, towels, and clothing.",
-    "Mild dryness and redness are common at first. The client can reduce how often they apply it and use a noncomedogenic moisturizer rather than stopping.",
-    "A thin layer is enough. Thick layers increase irritation without improving results."
+    "Natural products can cause irritant or allergic contact dermatitis. Burning or stinging means the product should be stopped.",
+    "Correct. Evening primrose oil may increase bleeding risk with anticoagulants. The provider and pharmacist need a full list of supplements to check for interactions.",
+    "Complementary therapies may soothe the skin, but evidence for them is limited. They are used alongside, not instead of, prescribed treatment.",
+    "A patch test may detect a skin reaction, but it does not detect drug interactions. All supplements should be reported to the provider."
    ],
-   "rationale": "Benzoyl peroxide is a first-line OTC acne treatment that kills Cutibacterium acnes and helps unplug follicles. Teaching includes applying a thin layer, washing gently, expecting mild dryness, using moisturizer and sunscreen, and knowing it bleaches fabric.",
-   "takeaway": "Benzoyl peroxide: thin layer, gentle washing, and it bleaches fabric.",
-   "hintContent": "Recall how benzoyl peroxide works and its common, harmless effects.",
-   "hintStrategy": "Look for the statement that is fully correct. Eliminate options that would increase irritation or end treatment too early."
+   "rationale": "Complementary therapies such as aloe vera, chamomile, and evening primrose oil may soothe irritated skin, but the evidence for them is limited. The nurse respects the client's choices while teaching the client to report all supplements, watch for allergic or irritant reactions, continue prescribed therapy, and let the provider check for interactions, such as increased bleeding risk with anticoagulants.",
+   "takeaway": "Complementary skin products: use alongside prescribed care, watch for reactions, and always report them to the provider.",
+   "hintContent": "Recall the benefits and the limits of complementary skin therapies and the risks they can carry for clients who take other medicines.",
+   "hintStrategy": "Look for the statement that is safe and complete. Eliminate statements that replace prescribed care, ignore a reaction, or hide information from the provider."
   },
   {
    "id": "m21d-033",
@@ -1699,19 +1698,19 @@
     "WBC 2,600/mm³",
     "Serum creatinine 0.9 mg/dL",
     "Platelet count 232,000/mm³",
-    "Thinner, less scaly plaques on the elbows"
+    "ALT 32 units/L"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Methotrexate causes bone marrow suppression. Leukopenia raises the risk of serious infection, and the dose may need to be held.",
     "A normal creatinine means methotrexate can be cleared safely.",
     "The platelet count is within normal limits.",
-    "Thinner plaques show the therapy is working."
+    "An ALT of 32 units/L is within the normal range, so there is no sign of methotrexate liver toxicity."
    ],
    "rationale": "Methotrexate for psoriasis requires monitoring of CBC, liver, and kidney function. The nurse identifies myelosuppression before giving the dose and reports it. Clients also take folic acid, avoid alcohol, and know the drug is taken once weekly, not daily.",
    "takeaway": "Methotrexate: check CBC, liver, and kidney function. A low WBC means hold and report.",
    "hintContent": "Recall the major toxicities of methotrexate and which lab values reflect them.",
-   "hintStrategy": "Find the one abnormal value. Normal values and signs of improvement do not need to be reported."
+   "hintStrategy": "Compare each value with its normal range. Normal values do not need to be reported before the dose."
   },
   {
    "id": "m21d-035",

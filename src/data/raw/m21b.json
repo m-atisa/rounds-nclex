@@ -886,17 +886,17 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "A client's Braden scale total is 19. Subscale scores include: sensory perception 4, moisture 1 (constantly moist from urinary incontinence), activity 3, mobility 4, nutrition 4, friction & shear 3. Which nursing action is the priority?",
    "options": [
-    "Implement a structured incontinence and barrier-cream plan to keep the skin dry",
-    "Take no additional action because the total score indicates no risk",
-    "Obtain an order for a low-air-loss specialty bed",
-    "Request a dietitian consult to increase protein intake"
+    "Take no additional action because a total score of 19 indicates the client is not at risk",
+    "Obtain an order for a low-air-loss specialty bed to redistribute pressure over the sacrum",
+    "Request a dietitian consult to increase protein and calorie intake for skin integrity",
+    "Implement a structured incontinence and barrier-cream plan to keep the skin dry"
    ],
-   "answer": 0,
+   "answer": 3,
    "optionRationales": [
-    "Correct. Although the total is in the low-risk range, the moisture subscale is at its worst (1). Targeting that specific deficit protects the skin.",
     "Incorrect. A reassuring total can hide a single severe risk factor; subscales should guide individualized care.",
     "Incorrect. A specialty bed is not warranted for an otherwise mobile, low-risk client; the problem is moisture.",
-    "Incorrect. The nutrition subscale is scored 4 (excellent); a protein increase does not address the identified risk."
+    "Incorrect. The nutrition subscale is scored 4 (excellent); a protein increase does not address the identified risk.",
+    "Correct. Although the total is in the low-risk range, the moisture subscale is at its worst (1). Targeting that specific deficit protects the skin."
    ],
    "rationale": "Braden subscale scores identify which specific risk to target. Here, constant moisture from incontinence is the only deficit, so prompt cleansing, timed toileting, absorbent products that wick moisture, and barrier creams are the priority.",
    "takeaway": "Look beyond the total — treat the lowest subscale.",
@@ -937,38 +937,37 @@
    "id": "m21b-007",
    "type": "sata",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Medical Device–Related Pressure Injury Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "The nurse is developing a plan of care for an immobile client with a Braden score of 12. Which interventions should the nurse include? Select all that apply.",
+   "stem": "A 58-year-old client in the ICU after multiple trauma has a rigid cervical collar, a nasogastric (NG) tube, an indwelling urinary catheter, and sequential compression device (SCD) sleeves on both legs. Which actions should the nurse include to prevent medical device–related pressure injuries? Select all that apply.",
    "options": [
-    "Reposition the client at least every 2 hours using a 30° lateral tilt",
-    "Massage reddened areas over the sacrum to stimulate circulation",
-    "Use a lift sheet with a second staff member to move the client up in bed",
-    "Place a pillow lengthwise under the calves so the heels are floated off the bed",
-    "Place a donut-shaped cushion under the sacrum when the client is supine",
-    "Keep the head of the bed at or below 30° unless contraindicated"
+    "Inspect the skin under and around each device at least twice a day",
+    "Apply a thin prophylactic foam dressing beneath the edges of the cervical collar per protocol",
+    "Tape the NG tube so it is pulled snugly upward against the tip of the nostril",
+    "Secure the catheter tubing to the thigh so the client is not lying on the tubing",
+    "Leave the SCD sleeves in place continuously and avoid removing them for skin checks",
+    "Choose the smallest collar size available so the device fits as tightly as possible"
    ],
    "answer": [
     0,
-    2,
-    3,
-    5
+    1,
+    3
    ],
    "optionRationales": [
-    "Correct. Turning at least q2h and using a 30° tilt keeps pressure off the sacrum and greater trochanter.",
-    "Incorrect. Massaging reddened bony prominences damages fragile capillaries and deep tissue.",
-    "Correct. Lifting with a sheet rather than dragging prevents friction and shear.",
-    "Correct. Floating the heels removes pressure from the heels, a very common pressure injury site.",
-    "Incorrect. Ring/donut devices concentrate pressure around the ring and reduce blood flow to the center.",
-    "Correct. HOB ≤30° reduces shear and sliding."
+    "Correct. Skin under and around devices is assessed at least twice daily (more often with edema or fluid shifts); injuries develop quickly beneath rigid or tight devices.",
+    "Correct. Thin prophylactic dressings under devices such as collars help redistribute pressure and reduce friction and moisture.",
+    "Incorrect. An NG tube pulled tight against the nostril causes pressure injury of the nares; secure it so it does not press on the nostril.",
+    "Correct. Securing the tubing prevents traction and keeps the client from lying on it, a common cause of device-related injury.",
+    "Incorrect. SCD sleeves are removed periodically per protocol so the skin underneath can be inspected.",
+    "Incorrect. Devices must be correctly sized; an undersized, overly tight collar concentrates pressure on the chin, occiput, and clavicles."
    ],
-   "rationale": "A Braden score of 12 indicates high risk. Evidence-based prevention includes turning schedules with 30° tilts, heel offloading, limiting HOB elevation, and safe lifting technique. Massage and donut cushions are harmful and should be avoided.",
-   "takeaway": "Turn, tilt, float, lift — never massage or donut.",
+   "rationale": "Medical devices concentrate pressure on small areas of skin and mucosa, and the resulting injuries often take the shape of the device. Prevention includes correct sizing, securing tubing so it does not pull or lie under the client, cushioning with prophylactic dressings, and inspecting the skin under every device at least twice daily.",
+   "takeaway": "Every device is a pressure point: size it right, secure it without tension, pad it, and look under it.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the evidence on massage of reddened areas and on ring-shaped cushions, and the recommended HOB angle for reducing shear.",
-   "hintStrategy": "Some options sound comforting but are outdated practices. Choose only interventions that reduce pressure, friction, or shear without damaging tissue."
+   "hintContent": "Recall how devices such as collars, tubes, and sleeves create pressure, and what the nurse must be able to do to detect early injury beneath them.",
+   "hintStrategy": "Judge each action on its own. Ask whether it relieves device pressure and keeps the skin visible, or whether it adds tension or hides the skin."
   },
   {
    "id": "m21b-008",
@@ -1080,10 +1079,10 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client receiving continuous enteral tube feedings is at high risk for pressure injury. The nurse is planning positioning. Which approach best balances the client's risks?",
    "options": [
-    "Pause the tube feeding for the entire shift so the HOB can remain flat",
-    "Keep the HOB at 60° and reposition every 4 hours to limit feeding interruptions",
-    "Keep the HOB at 30°, raise the knee gatch slightly, and reposition every 2 hours with a 30° lateral tilt",
-    "Keep the HOB flat to prevent all shear and reposition every 2 hours"
+    "Pause the tube feeding for the entire shift so the head of the bed can remain flat and shear is avoided",
+    "Keep the HOB at 60° to prevent aspiration and reposition every 4 hours to limit feeding interruptions",
+    "Keep the HOB at 30° with the knee gatch slightly raised, and reposition at least every 2 hours",
+    "Keep the HOB flat to eliminate shear and reposition every 2 hours using a 30° lateral tilt"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1204,10 +1203,10 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with darkly pigmented skin has an area over the left greater trochanter that is slightly darker than the surrounding skin. Which additional finding best supports identifying this area as a Stage 1 pressure injury?",
    "options": [
-    "The client reports the discoloration has been present since childhood",
-    "The area has a shiny, clear fluid–filled blister",
-    "The area feels warmer and firmer than the adjacent skin, and the client reports tenderness",
-    "The area blanches when pressed with a transparent disk"
+    "The client reports that the discoloration has been present since early childhood",
+    "The area has a shiny, intact blister filled with clear fluid over the bony prominence",
+    "The area feels warmer and firmer than nearby skin, and the client reports tenderness",
+    "The area blanches and lightens when pressed firmly with a transparent plastic disk"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1260,17 +1259,17 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client's Stage 4 sacral pressure injury has filled with red granulation tissue and is now 1 cm deep. Previously it was 4 cm deep with exposed bone. How should the nurse document the wound?",
    "options": [
-    "Healing Stage 4 pressure injury",
-    "Stage 3 pressure injury",
-    "Stage 2 pressure injury",
-    "Resolved pressure injury"
+    "Healing Stage 3 pressure injury",
+    "Stage 2 pressure injury, improving",
+    "Closed, resolved pressure injury",
+    "Healing Stage 4 pressure injury"
    ],
-   "answer": 0,
+   "answer": 3,
    "optionRationales": [
-    "Correct. Pressure injuries are never reverse staged. The wound remains a Stage 4 and is described as healing.",
-    "Incorrect. Reverse staging is not used; granulation tissue does not replace the original muscle and fat.",
-    "Incorrect. The wound was full thickness; it cannot become partial thickness.",
-    "Incorrect. The wound is still open and 1 cm deep."
+    "Incorrect. Reverse staging is not used; even though the wound is shallower, granulation tissue does not replace the original muscle and fat, so it is not reclassified as Stage 3.",
+    "Incorrect. The wound was full thickness; it can never become a partial-thickness (Stage 2) injury.",
+    "Incorrect. The wound is still open and 1 cm deep; it has not closed.",
+    "Correct. Pressure injuries are never reverse staged. The wound remains a Stage 4 and is described as healing."
    ],
    "rationale": "Granulation tissue that fills a wound is not the same as the original muscle, fat, and dermis. NPIAP guidance is to document the original stage as healing (e.g., ‘healing Stage 4’) and to track progress by measurement.",
    "takeaway": "Never reverse stage.",
@@ -1288,10 +1287,10 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client with peripheral arterial disease has a dry, black, firmly adherent eschar on the right heel. There is no erythema, drainage, or fluctuance. Which action by the nurse is most appropriate?",
    "options": [
-    "Apply a wet-to-dry dressing to mechanically debride the eschar",
+    "Apply a wet-to-dry dressing to mechanically debride the eschar from the heel",
     "Keep the eschar dry and intact, float the heel, and monitor for changes",
-    "Apply a hydrogel dressing to soften the eschar for removal",
-    "Crosshatch the eschar and apply an enzymatic debriding agent"
+    "Apply a hydrogel dressing to soften the eschar so that it can be removed",
+    "Crosshatch the eschar and apply an enzymatic debriding agent as ordered"
    ],
    "answer": 1,
    "optionRationales": [
@@ -1305,7 +1304,7 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall the NPIAP guidance on dry, adherent eschar located on the heel or an ischemic limb.",
-   "hintStrategy": "Three options share a common theme (removing the eschar). Note the cues about perfusion and the absence of infection before deciding whether removal is needed."
+   "hintStrategy": "Before deciding whether necrotic tissue should be removed, weigh the cues about the wound's location, the client's perfusion, and the presence or absence of infection."
   },
   {
    "id": "m21b-019",
@@ -1438,10 +1437,10 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "The RN is caring for a client at high risk for pressure injury with an LPN and an unlicensed assistive personnel (UAP). Which task is appropriate to delegate to the UAP?",
    "options": [
-    "Completing the Braden scale assessment at the start of the shift",
-    "Staging a new area of skin breakdown found on the coccyx",
+    "Completing the Braden scale assessment at the start of the shift and recording the total",
+    "Staging a new area of skin breakdown found on the coccyx during the morning bath",
     "Turning and repositioning the client every 2 hours and reporting any reddened areas",
-    "Evaluating whether the wound care plan is effective"
+    "Evaluating whether the current wound care plan is effective and needs to be revised"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1466,9 +1465,9 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "The nurse is documenting the assessment of a client's pressure injury. Which entries reflect complete, objective documentation? Select all that apply.",
    "options": [
-    "Large, gross-looking wound on backside",
+    "Large, gross-looking wound on backside; drainage everywhere on the sheets",
     "Periwound skin intact without maceration or erythema; client rates pain 3/10 during dressing change",
-    "Wound looks a little better than yesterday",
+    "Wound looks a little better than yesterday, and the client seems more comfortable",
     "Wound bed 80% red granulation, 20% yellow slough; moderate serosanguineous exudate, no odor after cleansing",
     "Sacral Stage 3 pressure injury, 4.2 cm (L) × 3.0 cm (W) × 1.1 cm (D)",
     "Undermining of 1.5 cm from 1 o'clock to 4 o'clock"
@@ -1482,7 +1481,7 @@
    "optionRationales": [
     "Incorrect. This is vague, unprofessional, and lacks anatomic location and measurements.",
     "Correct. Periwound condition and pain are part of a complete wound assessment.",
-    "Incorrect. ‘A little better’ is subjective and cannot be compared by other clinicians.",
+    "Incorrect. ‘A little better’ and ‘seems more comfortable’ are subjective and cannot be compared by other clinicians.",
     "Correct. Wound bed composition by percentage, exudate amount and type, and odor after cleansing are objective data.",
     "Correct. Location, stage, and measurements in centimeters are essential.",
     "Correct. Undermining is documented with depth and clock positions."
@@ -1633,9 +1632,9 @@
    "stem": "A provider orders wet-to-dry dressings every 6 hours for a client's Stage 3 pressure injury. On assessment, the wound bed is 100% red granulation tissue with scant serous drainage. Which statement best explains why the nurse should clarify this order with the provider?",
    "options": [
     "Wet-to-dry dressings are nonselective and will remove healthy granulation tissue",
-    "Wet-to-dry dressings are used only for Stage 1 pressure injuries",
-    "Wet-to-dry dressings add too much moisture to a red wound",
-    "Wet-to-dry dressings must remain in place for 7 days, which is too long"
+    "Wet-to-dry dressings are appropriate only for Stage 1 pressure injuries with intact skin",
+    "Wet-to-dry dressings add too much moisture to a wound that already has serous drainage",
+    "Wet-to-dry dressings must remain in place for 7 days, which is too long for this wound"
    ],
    "answer": 0,
    "optionRationales": [
@@ -1754,17 +1753,17 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client receiving enoxaparin has negative-pressure wound therapy (NPWT) on a Stage 4 sacral wound. The nurse notes bright red blood filling the tubing and 150 mL of blood in the canister in the last 30 minutes. Which action should the nurse take first?",
    "options": [
-    "Stop the NPWT unit and apply direct pressure to the wound",
     "Hold the next dose of enoxaparin and document the finding",
     "Change the canister and continue to monitor drainage",
-    "Increase the suction setting to remove the blood more quickly"
+    "Increase the suction setting to remove the blood more quickly",
+    "Stop the NPWT unit and apply direct pressure to the wound"
    ],
-   "answer": 0,
+   "answer": 3,
    "optionRationales": [
-    "Correct. Active bleeding is a life-threatening complication of NPWT, especially with anticoagulants. Stop suction, apply pressure, then notify the provider and assess vital signs.",
     "Incorrect. Holding the anticoagulant may be appropriate later, but it does not stop the active hemorrhage now.",
     "Incorrect. Continuing therapy while bleeding actively delays life-saving intervention.",
-    "Incorrect. Increasing negative pressure would worsen the bleeding."
+    "Incorrect. Increasing negative pressure would worsen the bleeding.",
+    "Correct. Active bleeding is a life-threatening complication of NPWT, especially with anticoagulants. Stop suction, apply pressure, then notify the provider and assess vital signs."
    ],
    "rationale": "NPWT can cause serious bleeding, particularly in clients on anticoagulants or with exposed vessels. The priority is to stop the therapy and control bleeding with direct pressure, then notify the provider and monitor for hypovolemia.",
    "takeaway": "Blood in the NPWT tubing: stop, press, call.",
@@ -1900,10 +1899,10 @@
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A client at a 6-week postpartum visit after a cesarean birth says, “My incision looks healed. Does that mean my skin is back to full strength so I can start heavy lifting at the gym?” Which response by the nurse is accurate?",
    "options": [
-    "“Scar strength depends only on the type of sutures used.”",
+    "“Scar strength depends mostly on the type of sutures the surgeon used to close the incision.”",
     "“Once fully mature, the scar will be strong but never quite as strong as your original skin.”",
-    "“The scar will be stronger than your original skin because collagen is added.”",
-    "“The scar reaches full strength within 3 weeks of surgery.”"
+    "“The scar will be stronger than your original skin because extra collagen is added as it heals.”",
+    "“The scar reaches its full strength within about 3 weeks of surgery, so you can lift now.”"
    ],
    "answer": 1,
    "optionRationales": [
@@ -1923,38 +1922,37 @@
    "id": "m21b-039",
    "type": "sata",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors",
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Medications and Healing",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is reviewing the history of a client scheduled for abdominal surgery. Which factors increase the client's risk for delayed wound healing? Select all that apply.",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A 68-year-old client with an open leg wound that is healing by secondary intention brings a list of current medications to the wound clinic. Which medications should the nurse recognize as potentially delaying wound healing? Select all that apply.",
    "options": [
-    "Takes prednisone 20 mg daily for rheumatoid arthritis",
-    "Takes a daily multivitamin",
-    "Smokes one pack of cigarettes per day",
-    "Walks 30 minutes daily",
-    "Hemoglobin A1c of 9.8%",
-    "BMI of 42"
+    "Prednisone 10 mg daily for chronic obstructive pulmonary disease",
+    "Acetaminophen 650 mg every 6 hours as needed for pain",
+    "Oral cyclophosphamide chemotherapy for non-Hodgkin lymphoma",
+    "Ascorbic acid (vitamin C) 500 mg by mouth once daily",
+    "Aspirin 325 mg twice daily for osteoarthritis pain",
+    "Zinc sulfate 220 mg daily prescribed for a low zinc level"
    ],
    "answer": [
     0,
     2,
-    4,
-    5
+    4
    ],
    "optionRationales": [
-    "Correct. Corticosteroids suppress inflammation and collagen synthesis and increase infection risk.",
-    "Incorrect. A multivitamin does not impair healing.",
-    "Correct. Nicotine causes vasoconstriction and carbon monoxide reduces oxygen delivery to tissues.",
-    "Incorrect. Regular exercise improves circulation and supports healing.",
-    "Correct. Poorly controlled diabetes impairs leukocyte function, collagen synthesis, and perfusion.",
-    "Correct. Obesity — poorly vascularized adipose tissue and tension on suture lines — increases infection and dehiscence risk."
+    "Correct. Corticosteroids suppress the inflammatory phase, fibroblast activity, and collagen synthesis, and increase infection risk.",
+    "Incorrect. Acetaminophen at therapeutic doses does not interfere with inflammation or collagen formation.",
+    "Correct. Chemotherapy agents suppress cell division and bone marrow function, slowing granulation and increasing infection risk.",
+    "Incorrect. Vitamin C is a cofactor for collagen synthesis and supports healing.",
+    "Correct. Aspirin impairs platelet function and suppresses the inflammatory response, both of which are needed early in healing.",
+    "Incorrect. Zinc supports cell proliferation and epithelialization; correcting a deficiency promotes healing."
    ],
-   "rationale": "Smoking, corticosteroids, hyperglycemia, and obesity all impair healing through reduced oxygenation, suppressed inflammation, impaired collagen formation, or increased tension and infection. Exercise and adequate nutrition promote healing.",
-   "takeaway": "Smoking, steroids, sugar, and size slow healing.",
+   "rationale": "Medications that suppress inflammation, platelet function, or cell division slow healing: corticosteroids, aspirin, and chemotherapy agents. Long-term antibiotic use can also promote resistant infections. Vitamin C and zinc support collagen formation and epithelialization, and acetaminophen does not impair healing. The nurse reports these medications to the provider so risks can be weighed; the client should not stop a prescribed drug without guidance.",
+   "takeaway": "Steroids, aspirin, and chemotherapy slow healing; vitamin C and zinc support it.",
    "cjmm": "Recognize Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall how oxygen delivery, inflammation, glucose control, and adipose tissue affect collagen formation and infection risk.",
-   "hintStrategy": "Select only findings that IMPAIR healing; some options describe health-promoting behaviors."
+   "focus": "Pharmacology",
+   "hintContent": "Recall which drug effects (suppressed inflammation, impaired platelets, blocked cell division) interfere with the phases of healing, and which nutrients support collagen formation.",
+   "hintStrategy": "Evaluate each medication on its own. Ask what the drug does to inflammation, clotting, or cell division rather than judging it by how commonly it is used."
   },
   {
    "id": "m21b-040",
@@ -2008,7 +2006,7 @@
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Exudate",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client is 36 hours post abdominal hysterectomy. The drainage on the dressing had progressed from sanguineous to light serosanguineous. On this assessment, the nurse finds the dressing saturated with bright red drainage, and the client's heart rate has risen from 84 to 112/min. Which action should the nurse take first?",
+   "stem": "A client is 36 hours after an open ventral hernia repair. The drainage on the dressing had progressed from sanguineous to light serosanguineous. On this assessment, the nurse finds the dressing saturated with bright red drainage, and the client's heart rate has risen from 84 to 112/min. Which action should the nurse take first?",
    "options": [
     "Reinforce the dressing, apply pressure, and notify the surgeon",
     "Document the drainage as expected for the second postoperative day",
@@ -2060,10 +2058,10 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with obesity is on postoperative day 7 after a midline abdominal incision. The client reports feeling ‘something pop’ after sneezing, and the nurse notes a large amount of salmon-colored drainage on the dressing. The incision edges are partly separated, but no organs are visible. Which action is most appropriate?",
    "options": [
-    "Apply an abdominal binder tightly and reassess in 1 hour",
-    "Gently approximate the edges with adhesive strips and document the finding",
-    "Place the client in low Fowler's with knees bent, cover with a sterile saline-moistened dressing, and notify the surgeon",
-    "Encourage the client to cough and deep breathe to prevent pneumonia"
+    "Apply an abdominal binder snugly over the dressing and reassess the incision in 1 hour",
+    "Gently approximate the edges with adhesive closure strips and document the finding",
+    "Place in low Fowler's with knees bent, apply sterile moist saline gauze, and notify the surgeon",
+    "Encourage the client to cough and deep breathe hourly to prevent postoperative pneumonia"
    ],
    "answer": 2,
    "optionRationales": [
@@ -2083,38 +2081,37 @@
    "id": "m21b-044",
    "type": "sata",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Complications",
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Surgical Site Infection Prevention",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is assessing a client on postoperative day 4 after colon resection. Which findings suggest a surgical site infection? Select all that apply.",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A 61-year-old client with type 2 diabetes is scheduled for an elective open colon resection tomorrow morning. Which perioperative nursing actions reduce the client’s risk of surgical site infection? Select all that apply.",
    "options": [
-    "Warm, spreading erythema around the incision",
-    "Temperature of 38.6°C (101.5°F) and WBC 15,800/mm³",
-    "Small amount of clear serous drainage",
-    "Thick, yellow drainage with a foul odor",
-    "A firm healing ridge beneath the incision",
-    "Increasing incisional pain that was previously improving"
+    "Instruct the client to shower with soap or an antiseptic agent the night before surgery",
+    "Keep the client on bed rest until postoperative day 3 to protect the new incision",
+    "Monitor capillary glucose and treat per protocol to keep it below 200 mg/dL",
+    "Apply forced-air warming as prescribed to keep the client normothermic around surgery",
+    "Apply a thick layer of antibiotic ointment over the incision before covering it",
+    "Remove the sterile dressing on arrival to the unit so the incision can air-dry"
    ],
    "answer": [
     0,
-    1,
-    3,
-    5
+    2,
+    3
    ],
    "optionRationales": [
-    "Correct. Spreading warmth and redness beyond the expected inflammatory margin suggest infection.",
-    "Correct. Fever and leukocytosis indicate a systemic response to infection.",
-    "Incorrect. Small amounts of serous drainage are expected.",
-    "Correct. Purulent, foul-smelling drainage is a classic sign of infection.",
-    "Incorrect. A healing ridge is an expected sign of collagen formation.",
-    "Correct. Pain that increases after initially improving is an early sign of infection."
+    "Correct. The CDC recommends a full-body shower or bath with soap or an antiseptic agent at least the night before surgery to reduce skin bacteria.",
+    "Incorrect. Early ambulation improves circulation and oxygen delivery to the wound and prevents other complications; prolonged bed rest does not protect the incision.",
+    "Correct. Hyperglycemia impairs neutrophil function; perioperative glucose should be kept below 200 mg/dL.",
+    "Correct. Hypothermia causes vasoconstriction and reduces oxygen delivery to the wound; maintaining normothermia lowers SSI risk.",
+    "Incorrect. The CDC advises against applying topical antimicrobial agents to the surgical incision; they do not reduce SSI and can promote resistance.",
+    "Incorrect. The sterile postoperative dressing is generally left in place for 24–48 hours (or as the surgeon prescribes) to protect the incision while the edges seal."
    ],
-   "rationale": "Surgical site infection usually appears 2–7 days postoperatively, and GI surgery carries higher risk because of bowel flora. Signs include increasing pain, redness, warmth, swelling, purulent drainage, odor, fever, and elevated WBC.",
-   "takeaway": "Worsening pain, pus, fever, ↑ WBC = infection.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the local and systemic signs of infection and how they differ from expected inflammatory and proliferative-phase findings.",
-   "hintStrategy": "Separate expected healing findings from abnormal ones. Consider the postoperative day and the type of surgery."
+   "rationale": "SSI prevention targets skin flora, host defenses, and wound perfusion: preoperative bathing, correctly timed prophylactic antibiotics, clipping rather than shaving, glucose control below 200 mg/dL, normothermia, and a sterile dressing for the first 24–48 hours. Early ambulation supports circulation. Topical antibiotic ointment on the incision and premature dressing removal are not recommended.",
+   "takeaway": "Bathe, keep glucose below 200 mg/dL, keep the client warm, and protect the incision with a sterile dressing.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall how skin bacteria, blood glucose, body temperature, and perfusion each influence the risk of infection at an incision.",
+   "hintStrategy": "Judge each action separately: does it lower bacterial load, support host defenses, or improve oxygen delivery to the wound — or does it add risk?"
   },
   {
    "id": "m21b-045",
@@ -2127,7 +2124,7 @@
    "options": [
     "“Hold a pillow firmly against your incision when you cough or take deep breaths.”",
     "“Avoid coughing and deep breathing until your sutures are removed.”",
-    "“Lie completely flat whenever you need to cough.”",
+    "“Lie completely flat in bed whenever you need to cough or breathe deeply.”",
     "“Press on the edges of the incision with your fingertips when you move.”"
    ],
    "answer": 0,

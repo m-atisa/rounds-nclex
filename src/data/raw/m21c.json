@@ -1025,24 +1025,24 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
-   "stem": "A client with recurrent hand dermatitis has allergy patches applied to the upper back for patch testing. The client asks what to do until the next appointment in 48 hours. Which instruction should the nurse give?",
+   "stem": "A client with several sharply demarcated, milky-white patches on the hands and around the mouth is scheduled for a Wood lamp examination to evaluate for vitiligo. Which instruction should the nurse give the client before the examination?",
    "options": [
-    "“Shower as usual, but pat the patches dry afterward.”",
-    "“Remove any patch that itches and note which one it was.”",
-    "“Keep your back dry and avoid heavy sweating or exercise.”",
-    "“Apply hydrocortisone cream around the patches if they itch.”"
+    "“Do not eat or drink anything for 8 hours before the examination.”",
+    "“A small skin sample will be removed after a local anesthetic injection.”",
+    "“Do not apply lotion, makeup, or creams to your hands and face that day.”",
+    "“The lamp will be pressed against your skin in a brightly lit exam room.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Wetting the patches can loosen them and dilute the allergens, which invalidates the test.",
-    "Some itching is expected with a positive reaction. Removing a patch early loses the result.",
-    "Correct. Patches must stay dry and in place for about 48 hours so that the allergens stay in contact with the skin. Water or sweat can dislodge them.",
-    "Topical steroids near the test sites suppress the reaction and can cause false-negative results."
+    "A Wood lamp examination is an external, noninvasive light test. No fasting is required.",
+    "The Wood lamp does not remove tissue. A biopsy is a separate test used to tell benign from malignant lesions.",
+    "Correct. Many lotions, cosmetics, deodorants, and medicated creams fluoresce under ultraviolet light and can cause false results, so the skin should be clean and free of products.",
+    "The exam is done in a darkened room with the lamp held about 10–13 cm (4–5 inches) from the skin, not touching it."
    ],
-   "rationale": "Patch testing identifies the allergen in allergic contact dermatitis (a delayed type IV reaction). Allergens stay on the back for about 48 hours and are read at removal and again a few days later. The client keeps the area dry, limits activity that causes sweating, and avoids topical steroids on the test area.",
-   "takeaway": "Patch test: keep the patches dry, in place, and steroid-free until the reading.",
-   "hintContent": "Patch testing looks for a delayed hypersensitivity reaction. Think about what would stop the allergen from contacting the skin or would suppress the reaction.",
-   "hintStrategy": "Ask which option protects the accuracy of the test. Anything that removes, wets, or suppresses the reaction ruins it."
+   "rationale": "A Wood lamp emits long-wave ultraviolet light in a darkened room. Depigmented skin in vitiligo appears bright blue-white, and some fungal and bacterial infections fluoresce in characteristic colors. The test is painless and noninvasive. Topical products can fluoresce and distort the results, so the client comes with clean skin, and the client avoids looking directly into the light.",
+   "takeaway": "Wood lamp: darkened room, UV light held away from the skin, no creams or makeup beforehand.",
+   "hintContent": "Recall what a Wood lamp is, how it is used, and what could make the skin glow falsely under ultraviolet light.",
+   "hintStrategy": "Picture the test being performed. Eliminate options that describe a different kind of procedure, then choose the instruction that protects the accuracy of the result."
   },
   {
    "id": "m21c-019",
@@ -1302,42 +1302,41 @@
    "id": "m21c-026",
    "type": "matrix",
    "topic": "infectious-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-   "difficulty": 3,
+   "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Infants and Children",
+   "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "cjmm": "Generate Solutions",
-   "focus": "Delegation & Safety",
-   "stem": "The charge nurse is assigning rooms to clients admitted to the pediatric unit. For each client, indicate the transmission-based precautions the nurse should implement in addition to standard precautions.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "The pediatric clinic nurse has taught several parents about their children's skin infections. For each parent statement, indicate whether it shows understanding of the teaching or a need for further teaching.",
    "rows": [
-    "A 4-year-old with active varicella (chickenpox) with new vesicles",
-    "A 10-year-old with head lice who has not yet been treated",
-    "A 16-year-old with localized shingles who has a healthy immune system",
-    "A 12-year-old with lower-leg cellulitis and no drainage",
-    "A 3-year-old with impetigo who has not started antibiotics"
+    "“My child with chickenpox can go back to child care once every blister has crusted over.”",
+    "“My son shouldn't pick at or bite the warts on his fingers, because that can spread them.”",
+    "“I'll give my daughter aspirin to bring down the fever from her chickenpox.”",
+    "“I'll keep my child's fingernails short so scratching doesn't spread the impetigo.”",
+    "“After the first lice treatment, I won't need to check my child's hair again.”"
    ],
    "columns": [
-    "Standard only",
-    "Contact",
-    "Airborne + Contact"
+    "Indicates understanding",
+    "Needs further teaching"
    ],
    "answer": [
-    2,
-    1,
     0,
+    0,
+    1,
     0,
     1
    ],
    "optionRationales": [
-    "Airborne + contact. Varicella spreads by the airborne route and by contact with lesions until all lesions are dry and crusted.",
-    "Contact. Pediculosis spreads by direct head-to-head contact and shared items until 24 hours after effective treatment.",
-    "Standard only. Localized zoster in an immunocompetent client needs standard precautions with the lesions completely covered until crusted.",
-    "Standard only. Nondraining cellulitis does not need transmission-based precautions.",
-    "Contact. Impetigo needs contact precautions until 24 hours after effective therapy."
+    "Indicates understanding. Varicella is contagious until all lesions are dry and crusted, which is when the child can return to child care or school.",
+    "Indicates understanding. Common warts are caused by human papillomavirus and spread by autoinoculation from picking, biting, or shaving over them.",
+    "Needs further teaching. Aspirin and other salicylates given to children with varicella or influenza are linked to Reye syndrome (acute encephalopathy and liver failure). Acetaminophen is used for fever instead.",
+    "Indicates understanding. Scratching carries bacteria from impetigo lesions to other skin. Short nails and covering lesions reduce autoinoculation.",
+    "Needs further teaching. Pediculicides do not kill all eggs. Hair is checked with a nit comb every 2–3 days, and a second treatment is usually given about 9 days later if live lice are found."
    ],
-   "rationale": "The choice of precautions follows the route of transmission (CDC Appendix A). Varicella (and disseminated or immunocompromised zoster) = airborne + contact. Impetigo, lice, and scabies = contact until 24 hours of effective therapy. Localized zoster in a healthy host and nondraining cellulitis = standard precautions.",
-   "takeaway": "Chickenpox flies (airborne + contact). Impetigo, lice, and scabies touch (contact). Localized zoster and dry cellulitis = standard.",
-   "hintContent": "Recall how each organism spreads: through the air, by touch, or only through contact with blood or body fluids.",
-   "hintStrategy": "Work row by row. Check the details in each row (immune status, drainage, treatment status) because they change the answer."
+   "rationale": "Evaluating teaching about childhood skin infections focuses on how each infection spreads, when the child is no longer contagious, and safe symptom management. Varicella is contagious until all lesions crust, warts and impetigo spread by autoinoculation, lice need follow-up combing and often retreatment, and salicylates are avoided in children with viral illness because of Reye syndrome.",
+   "takeaway": "Chickenpox: crusted = back to school, and no aspirin. Warts and impetigo spread by scratching. Lice need a recheck and often a second treatment.",
+   "hintContent": "Recall how varicella, warts, impetigo, and lice spread, when each stops being contagious, and which fever reducer is avoided in children with viral illnesses.",
+   "hintStrategy": "Judge each row on its own. Ask whether the parent's plan would keep the child and others safe if it were followed exactly."
   },
   {
    "id": "m21c-027",
@@ -1379,7 +1378,7 @@
    "stem": "A 42-year-old client with plaque psoriasis asks how to reduce flares. Which factors should the nurse teach the client to avoid or minimize? Select all that apply.",
    "options": [
     "Scratching, picking, or injuring the skin",
-    "Smoking and heavy alcohol use",
+    "Lukewarm oatmeal soaks for itchy plaques",
     "Brief, regular sun exposure while avoiding sunburn",
     "Unmanaged emotional stress",
     "Daily application of a thick, fragrance-free moisturizer",
@@ -1387,20 +1386,19 @@
    ],
    "answer": [
     0,
-    1,
     3,
     5
    ],
    "optionRationales": [
     "Correct. Skin trauma can trigger new plaques at the injury site (Koebner phenomenon).",
-    "Correct. Smoking and alcohol are linked to more frequent and more severe flares.",
+    "Incorrect. Lukewarm oatmeal soaks soothe itching and help soften scale. They are a helpful comfort measure, not something to avoid.",
     "Incorrect. Controlled UV exposure often improves psoriasis. Only sunburn, which is skin trauma, should be avoided.",
     "Correct. Stress is a well-known trigger, so stress management is part of care.",
     "Incorrect. Moisturizing reduces scaling and itching and is recommended, not avoided.",
     "Correct. Streptococcal infections can trigger psoriasis flares (especially guttate psoriasis), so infections should be treated promptly."
    ],
-   "rationale": "Psoriasis is a chronic immune-mediated disorder with rapid keratinocyte turnover. It cannot be cured, but remission is the goal. Known triggers include skin trauma (Koebner phenomenon), stress, infections, smoking, alcohol, cold dry weather, and certain medications. Moisturizers and controlled sun exposure are helpful.",
-   "takeaway": "Psoriasis triggers: trauma, stress, strep, smoking, and alcohol. Moisturizers and a little sun help.",
+   "rationale": "Psoriasis is a chronic immune-mediated disorder with rapid keratinocyte turnover. It cannot be cured, but remission is the goal. Known triggers include skin trauma (Koebner phenomenon), stress, infections, smoking, alcohol, cold dry weather, and certain medications. Moisturizers, soothing soaks, and controlled sun exposure are helpful.",
+   "takeaway": "Psoriasis triggers: trauma, stress, and strep (plus smoking and alcohol). Moisturizers, soothing soaks, and a little sun help.",
    "hintContent": "Recall the Koebner phenomenon and the main environmental and lifestyle triggers of psoriasis.",
    "hintStrategy": "The stem asks what to AVOID. Do not select options that are actually helpful."
   },
@@ -1418,21 +1416,20 @@
     "Thin, shiny skin with visible fine blood vessels",
     "Small red papules and pustules around the mouth",
     "Thickened, leathery plaques with exaggerated skin lines",
-    "Easy bruising of the treated skin",
+    "Yellow, greasy scales on the eyebrows",
     "Lighter patches of skin in the treated areas",
     "Hard, raised scar tissue extending past the original lesions"
    ],
    "answer": [
     0,
     1,
-    3,
     4
    ],
    "optionRationales": [
     "Correct. Atrophy and telangiectasia result from suppressed collagen synthesis in the dermis.",
     "Correct. Perioral dermatitis and steroid-induced acne/rosacea are common with facial steroid use.",
     "Incorrect. Lichenification comes from chronic scratching and rubbing, not from steroid use. Steroids thin the skin rather than thicken it.",
-    "Correct. Thinner skin and fragile vessels lead to purpura.",
+    "Incorrect. Yellow, greasy scaling of the eyebrows and scalp is seborrheic dermatitis, a separate inflammatory condition. It is not caused by corticosteroid use.",
     "Correct. Hypopigmentation can occur and is more noticeable in darker skin.",
     "Incorrect. Keloids are overgrown scars after skin injury, not a steroid effect. Steroid injection is actually used to treat keloids."
    ],
@@ -1472,24 +1469,24 @@
   {
    "id": "m21c-031",
    "type": "order",
-   "topic": "inflammatory-skin-disorders",
-   "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
+   "topic": "infectious-skin-disorders",
+   "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "stem": "An adult client with a flare of atopic dermatitis has a prescription for triamcinolone 0.1% ointment twice daily and a bland emollient. The nurse is helping the client with the evening “soak and seal” routine. Place the steps in the order the nurse should perform them.",
+   "stem": "A camp nurse finds an attached tick on the back of an 11-year-old camper's knee. Place the steps in the order the nurse should perform them.",
    "options": [
-    "Have the client soak in a lukewarm bath for 10–15 minutes using a fragrance-free cleanser",
-    "Gently pat the skin until it is damp, not completely dry",
-    "Apply a thin layer of the prescribed ointment to the inflamed patches only",
-    "Apply the emollient to all remaining skin within 3 minutes of leaving the bath",
-    "Help the client dress in loose, soft cotton clothing"
+    "Perform hand hygiene and put on clean gloves",
+    "Grasp the tick with fine-tipped tweezers as close to the skin surface as possible",
+    "Pull upward with steady, even pressure without twisting or jerking",
+    "Clean the bite site and hands with rubbing alcohol or soap and water",
+    "Seal the tick in a bag and teach the parent to report a rash or fever in the next several weeks"
    ],
-   "rationale": "Soak and seal hydrates the stratum corneum and then traps the moisture. A lukewarm (not hot) bath with a gentle cleanser comes first, and the skin is patted, not rubbed, until damp. The medicated ointment goes on the affected areas first, and the emollient seals the rest of the skin within about 3 minutes, before water evaporates. Loose cotton clothing reduces irritation and itching.",
-   "takeaway": "Soak, pat, medicate, then seal within 3 minutes and dress in cotton.",
-   "hintContent": "The goal is to trap water in the skin. Think about what happens if the skin dries fully before it is sealed.",
-   "hintStrategy": "Build the sequence around the time limit: which steps must happen before the moisture evaporates?"
+   "rationale": "CDC tick removal: protect the hands, grasp the tick close to the skin with fine-tipped tweezers, and pull upward with steady, even pressure so the mouthparts do not break off. Then clean the bite area and hands, dispose of the tick (sealed bag or container, or alcohol), and teach the family to watch for an expanding rash (erythema migrans), fever, or flu-like symptoms over the following weeks. Folk remedies such as petroleum jelly, nail polish, or heat are not used because they delay removal.",
+   "takeaway": "Tick: gloves → grasp close to skin → pull straight up → clean → dispose and teach rash/fever watch.",
+   "hintContent": "Recall why a tick should be removed promptly and in one piece, and which signs after a bite suggest a tick-borne infection.",
+   "hintStrategy": "Protect yourself first, then think about what must happen to remove the tick intact before cleaning, disposal, and teaching."
   },
   {
    "id": "m21c-032",
@@ -1603,7 +1600,7 @@
    "focus": "Nursing Interventions",
    "stem": "An 81-year-old client in assisted living has dry, flaky, itchy skin on the legs and back with scratch marks. No rash or lesions are present. Which interventions should the nurse include in the plan of care? Select all that apply.",
    "options": [
-    "Schedule full baths every other day with partial sponge baths in between",
+    "Apply an alcohol-based lotion to cool the itchy areas",
     "Use a mild, fragrance-free liquid cleanser instead of deodorant soap",
     "Apply an emollient to damp skin immediately after bathing",
     "Add a scented bath oil to hot bath water to relieve the itching",
@@ -1611,21 +1608,20 @@
     "Keep the room humidity low to prevent mold growth"
    ],
    "answer": [
-    0,
     1,
     2,
     4
    ],
    "optionRationales": [
-    "Correct. Older adults have fewer and less active sebaceous glands, so daily full bathing strips oils. Bathing every other day is recommended.",
+    "Incorrect. Alcohol-based products evaporate quickly and dry the skin further, which worsens xerosis and itching. Thick, fragrance-free emollients are used instead.",
     "Correct. Harsh or deodorant soaps are alkaline and drying. Mild liquid cleansers protect the skin barrier.",
     "Correct. Moisturizing damp skin right after bathing traps water in the stratum corneum.",
     "Incorrect. Hot water and fragrances dry and irritate the skin, and bath oil makes the tub slippery, which increases fall risk.",
     "Correct. Short, smooth nails reduce skin damage and infection risk from scratching.",
     "Incorrect. Low humidity makes xerosis worse. A humidifier is recommended, especially in winter."
    ],
-   "rationale": "Xerosis and pruritus are common in older adults because of reduced sebaceous and sweat gland activity and a thinner epidermis. Care focuses on less frequent bathing with lukewarm water and mild cleansers, emollients on damp skin, adequate humidity and fluids, and protecting fragile skin from scratching, while keeping safety in mind (falls).",
-   "takeaway": "Older adult dry skin: bathe less often, use lukewarm water and mild cleansers, moisturize damp skin, avoid scents, keep nails short.",
+   "rationale": "Xerosis and pruritus are common in older adults because of reduced sebaceous and sweat gland activity and a thinner epidermis. Care focuses on bathing every other day with lukewarm water and mild cleansers, emollients on damp skin, avoiding drying or scented products, adequate humidity and fluids, and protecting fragile skin from scratching, while keeping safety in mind (falls).",
+   "takeaway": "Older adult dry skin: mild cleanser, lukewarm water, moisturize damp skin, no alcohol or scents, keep nails short.",
    "hintContent": "Recall the age-related changes in sebaceous glands and the epidermis that cause xerosis.",
    "hintStrategy": "Evaluate each option for whether it adds moisture and protects the skin without creating a safety hazard."
   }

@@ -1249,10 +1249,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
       "stem": "A client who hyperventilated during a panic attack is now calm. An ABG drawn 10 minutes ago showed pH 7.50 and PaCO₂ 29 mm Hg. The nurse now notes a respiratory rate of 10/min with brief pauses, SpO₂ 97% on room air, and the client is alert. The spouse asks why the client is breathing so slowly. Which explanation by the nurse is accurate?",
       "options": [
-        "\"The body is retaining carbon dioxide to protect the lungs from injury.\"",
+        "\"The body is retaining carbon dioxide on purpose to protect the lungs from injury.\"",
         "\"The oxygen level is too low, so the brain has slowed breathing to conserve energy.\"",
-        "\"A high bicarbonate level from the kidneys is suppressing breathing.\"",
-        "\"The low carbon dioxide level has temporarily reduced the signal to breathe; breathing will normalize as carbon dioxide builds back up.\""
+        "\"A high bicarbonate level from the kidneys is now suppressing the drive to breathe.\"",
+        "\"Low carbon dioxide has reduced the signal to breathe until the level builds back up.\""
       ],
       "answer": 3,
       "optionRationales": [
@@ -1381,19 +1381,19 @@ window.NURSE_DATA.push({
       "clientNeed": "Safe and Effective Care Environment: Management of Care",
       "stem": "The nurse receives report on four clients on a medical unit. Which client should the nurse assess first?",
       "options": [
-        "A client with COPD with SpO₂ 90% on 2 L/min nasal cannula who is reading and asking for breakfast",
-        "A client 1 day after hip surgery who is newly confused, pulling at the IV, with RR 26/min and SpO₂ 89% on room air",
-        "A client with asthma who requests albuterol before walking in the hall for exercise",
-        "A client with pneumonia who has a temperature of 38.3°C (101°F) and a productive cough of yellow sputum"
+        "A client with a tracheostomy who is resting comfortably and is due for routine inner cannula care",
+        "A client 1 day after hip surgery who is newly confused, with RR 26/min and SpO₂ 89% on room air",
+        "A client with asthma who requests albuterol before walking in the hall for exercise as prescribed",
+        "A client with a pleural effusion scheduled for thoracentesis who has questions about the procedure"
       ],
       "answer": 1,
       "optionRationales": [
-        "SpO₂ 90% is within the 88–92% target range for COPD, and the client is stable.",
-        "Correct. New confusion, agitation, tachypnea, and SpO₂ 89% are signs of acute hypoxia (possibly PE, atelectasis, or pneumonia) in a post-op client — an unstable, acute change.",
+        "Routine tracheostomy care for a comfortable, stable client can be scheduled after the unstable client is assessed.",
+        "Correct. New confusion, tachypnea, and SpO₂ 89% are signs of acute hypoxia (possibly PE, atelectasis, or pneumonia) in a postoperative client — an unstable, unexpected change.",
         "Pre-exercise albuterol is appropriate and can be handled after the unstable client is assessed.",
-        "Fever and productive cough are expected with pneumonia; this client needs care soon but is not the most unstable."
+        "Preprocedure questions are important and can be answered after the client with an acute change has been assessed."
       ],
-      "rationale": "Prioritize acute, unexpected changes that threaten airway and breathing. New confusion with tachypnea and desaturation in a post-op orthopedic client suggests hypoxia, possibly from a fat or pulmonary embolism, and needs immediate assessment. The other findings are expected for the condition or stable.",
+      "rationale": "Prioritize acute, unexpected changes that threaten airway and breathing. New confusion with tachypnea and desaturation in a postoperative orthopedic client suggests hypoxia, possibly from a fat or pulmonary embolism, and needs immediate assessment. The other clients are stable or have routine needs that can wait.",
       "takeaway": "New confusion + tachypnea = hypoxia until proven otherwise.",
       "cjmm": "Prioritize Hypotheses",
       "focus": "Prioritization",
@@ -1431,9 +1431,9 @@ window.NURSE_DATA.push({
         {
           "options": [
             "coach the client to slow the breathing rate",
-            "administer a prescribed sedative",
-            "have the client breathe into a paper bag",
-            "support treatment of the underlying ketoacidosis with prescribed fluids and insulin"
+            "give a prescribed sedative to slow breathing",
+            "have the client rebreathe into a paper bag",
+            "give the prescribed IV fluids and insulin"
           ],
           "answer": 3
         }
@@ -1576,10 +1576,10 @@ window.NURSE_DATA.push({
         },
         {
           "options": [
-            "prepare the client for intubation",
-            "stay with the client and coach slow, controlled breathing while addressing pain",
-            "administer sodium bicarbonate as prescribed",
-            "increase the oxygen to 15 L/min by nonrebreather"
+            "prepare the client for emergency intubation",
+            "coach slow breathing and address the pain",
+            "give sodium bicarbonate per the protocol",
+            "increase oxygen to 15 L/min by nonrebreather"
           ],
           "answer": 1
         }
@@ -1600,17 +1600,17 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
       "stem": "A client is brought to the emergency department after being found in a closed garage with a running generator. The client reports headache and nausea and is drowsy. SpO₂ is 99% on room air. Which action should the nurse take?",
       "options": [
-        "Move the pulse oximeter probe to the earlobe to verify the reading",
-        "Apply oxygen by nonrebreather mask at 15 L/min and anticipate an ABG with carboxyhemoglobin level",
+        "Move the pulse oximeter probe to the earlobe to confirm the reading",
+        "Apply 100% oxygen by nonrebreather and anticipate a carboxyhemoglobin level",
         "Document that oxygenation is adequate based on the pulse oximeter reading",
-        "Apply a nasal cannula at 2 L/min for comfort"
+        "Apply a nasal cannula at 2 L/min and reassess the client in 1 hour"
       ],
       "answer": 1,
       "optionRationales": [
         "Changing the probe site will still read carboxyhemoglobin as saturated hemoglobin.",
-        "Correct. Carbon monoxide binds hemoglobin and is read as oxyhemoglobin, so SpO₂ is falsely normal; 100% O₂ by NRB speeds CO elimination, and co-oximetry measures carboxyhemoglobin.",
+        "Correct. Carbon monoxide binds hemoglobin and is read as oxyhemoglobin, so SpO₂ is falsely normal; 100% O₂ by nonrebreather speeds CO elimination, and co-oximetry measures the carboxyhemoglobin level.",
         "The SpO₂ reading is unreliable in CO poisoning and gives false reassurance.",
-        "Low-flow oxygen is inadequate for CO poisoning."
+        "Low-flow oxygen is inadequate for CO poisoning, and waiting an hour delays treatment."
       ],
       "rationale": "Standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin, so SpO₂ is falsely high in carbon monoxide poisoning. The priority is high-concentration oxygen (100% by nonrebreather, possibly hyperbaric) and a co-oximetry ABG.",
       "takeaway": "CO poisoning: the pulse ox lies — give 100% O₂.",
@@ -1626,7 +1626,7 @@ window.NURSE_DATA.push({
       "ref": "Module 15 · Oxygenation · Pulse Oximetry",
       "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "The nurse is reviewing factors that can cause a pulse oximetry reading to be inaccurate or misleading. Which client situations should the nurse recognize? Select all that apply.",
+      "stem": "The nurse is caring for several clients who have continuous pulse oximetry. In which client situations might the SpO₂ reading be inaccurate or misleading? Select all that apply.",
       "options": [
         "Dark blue gel nail polish on the probe finger",
         "Cold, mottled fingers with a capillary refill of 5 seconds",
@@ -1666,8 +1666,8 @@ window.NURSE_DATA.push({
       "stem": "A client is scheduled for a thoracentesis at the bedside to remove a large pleural effusion. Which action should the nurse include in the care plan?",
       "options": [
         "Position the client sitting upright and leaning forward over the overbed table",
-        "Encourage the client to cough deeply as the needle is inserted",
-        "Place the client supine with the head of the bed flat",
+        "Encourage the client to cough deeply while the needle is being inserted",
+        "Place the client supine with the head of the bed flat during the procedure",
         "Plan to keep the client NPO until the gag reflex returns afterward"
       ],
       "answer": 0,
@@ -1693,8 +1693,8 @@ window.NURSE_DATA.push({
       "clientNeed": "Health Promotion and Maintenance",
       "stem": "A client with asthma has a personal best peak expiratory flow of 500 L/min. This morning the reading is 320 L/min, and the client has a mild cough. According to a standard asthma action plan, what should the nurse teach the client to do?",
       "options": [
-        "Use the quick-relief inhaler and follow the yellow-zone instructions of the action plan",
-        "Call 911 immediately because the reading is in the red zone",
+        "Take the quick-relief inhaler and follow the yellow-zone plan",
+        "Call 911 right away because the reading is in the red zone",
         "Stop the inhaled corticosteroid until the reading improves",
         "Continue usual medications because the reading is in the green zone"
       ],
@@ -1743,17 +1743,17 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
       "stem": "A provider prescribes oxygen at 3 L/min by simple face mask for a client with pneumonia. Which action should the nurse take?",
       "options": [
-        "Apply the mask at 3 L/min and add humidification",
-        "Apply a nonrebreather mask at 3 L/min instead",
-        "Apply the simple mask at 3 L/min as prescribed",
-        "Contact the provider to clarify the prescription because a simple mask requires at least 5 L/min"
+        "Apply the simple mask at 3 L/min and attach a humidifier bottle",
+        "Apply a nonrebreather mask at 3 L/min instead of the simple mask",
+        "Apply the simple face mask at 3 L/min exactly as it was prescribed",
+        "Contact the provider to clarify the flow rate for this device"
       ],
       "answer": 3,
       "optionRationales": [
         "Humidification does not solve the inadequate flow problem.",
         "A nonrebreather needs 10–15 L/min to keep the reservoir bag inflated; 3 L/min would be dangerous.",
         "Following the prescription would put the client at risk of CO₂ rebreathing.",
-        "Correct. Below 5 L/min, exhaled CO₂ is not flushed from a simple mask and the client rebreathes it."
+        "Correct. A simple face mask needs at least 5 L/min; below that, exhaled CO₂ is not flushed from the mask and the client rebreathes it, so the nurse clarifies the prescription."
       ],
       "rationale": "Every mask device has a minimum flow. A simple face mask needs at least 5 L/min to wash out exhaled CO₂. When a prescription is unsafe for the device, the nurse clarifies it — for example, nasal cannula at 3 L/min or simple mask at 5–10 L/min.",
       "takeaway": "Simple mask: minimum 5 L/min.",
@@ -1771,10 +1771,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
       "stem": "A client in acute respiratory distress is receiving oxygen by nonrebreather mask at 10 L/min. The nurse notes that the reservoir bag collapses completely each time the client inhales. What is the nurse's priority action?",
       "options": [
-        "Increase the oxygen flow rate until the bag remains at least partially inflated during inspiration",
-        "Document this as an expected finding",
-        "Change to a nasal cannula at 6 L/min",
-        "Remove one of the one-way valves from the side of the mask"
+        "Increase the flow until the bag stays partly inflated during inhalation",
+        "Document the collapsing bag as an expected finding with this mask",
+        "Switch the client to a nasal cannula at 6 L/min for better comfort",
+        "Remove one of the one-way flap valves from the side of the mask"
       ],
       "answer": 0,
       "optionRationales": [
@@ -1827,10 +1827,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
       "stem": "A client with severe COPD arrives in the emergency department using accessory muscles, RR 30/min, SpO₂ 80% on room air, and speaking 2–3 words at a time. A student nurse asks whether oxygen should be withheld because it may 'knock out' the client's drive to breathe. What is the nurse's best response?",
       "options": [
-        "Oxygen should be given at 15 L/min by nonrebreather to reach an SpO₂ of 100%.",
-        "Oxygen should be given now and titrated to an SpO₂ of 88–92% while we watch for drowsiness and rising CO₂.",
-        "Oxygen is not indicated because COPD clients normally have an SpO₂ near 80%.",
-        "Oxygen should be held until the ABG results are back."
+        "Give oxygen at 15 L/min by nonrebreather to reach an SpO₂ of 100% right away.",
+        "Give oxygen now and titrate to an SpO₂ of 88–92% while watching for rising CO₂.",
+        "Oxygen is not indicated because clients with COPD normally have an SpO₂ near 80%.",
+        "Hold oxygen until the ABG results confirm how much carbon dioxide is retained."
       ],
       "answer": 1,
       "optionRationales": [
@@ -1959,38 +1959,35 @@ window.NURSE_DATA.push({
       "id": "m15-025",
       "type": "sata",
       "topic": "airway-clearance",
-      "ref": "Module 15 · Oxygenation · Chest Physiotherapy",
+      "ref": "Module 15 · Oxygenation · Tracheostomy Care",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-      "stem": "The nurse is planning chest physiotherapy with percussion, vibration, and postural drainage for a client with thick secretions in the lower lobes. Which actions are appropriate? Select all that apply.",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "stem": "The nurse is providing tracheostomy care for a client whose tracheostomy was placed 3 days ago. Which actions are appropriate? Select all that apply.",
       "options": [
-        "Percuss with cupped hands over a thin layer of clothing on the rib cage",
-        "Apply vibration with flat hands while the client exhales",
-        "Percuss directly over the spine and kidneys to loosen deep secretions",
-        "Give the prescribed bronchodilator before starting the treatment",
-        "Schedule the treatment before meals or at least 1–2 hours after eating",
-        "Perform the treatment immediately after the client finishes breakfast"
+        "Keep the obturator and a spare tube of the same size at the bedside",
+        "Clean the reusable inner cannula and rinse it with sterile saline",
+        "Cut a square of gauze to make a slit dressing around the stoma",
+        "Secure the ties so that one finger fits between the ties and the neck",
+        "Suction the tracheostomy on a fixed schedule every 2 hours"
       ],
       "answer": [
         0,
         1,
-        3,
-        4
+        3
       ],
       "optionRationales": [
-        "Correct. Cupped hands trap air to create a hollow sound and vibration; a thin cloth protects the skin.",
-        "Correct. Vibration is done during exhalation to move secretions toward larger airways.",
-        "Percussion over the spine, sternum, kidneys, or breasts can cause injury.",
-        "Correct. Opening the airways first helps secretions move out.",
-        "Correct. Timing away from meals prevents vomiting and aspiration in head-down positions.",
-        "Treatment right after a meal increases the risk of vomiting and aspiration."
+        "Correct. A new tract can close quickly if the tube comes out; the obturator guides reinsertion, and a spare tube (same size and one size smaller) must be immediately available.",
+        "Correct. Crusted secretions narrow the airway; a reusable inner cannula is cleaned using sterile technique and rinsed with sterile saline before it is reinserted.",
+        "Cutting gauze creates loose fibers that can be aspirated or irritate the stoma. Use a precut, manufactured tracheostomy dressing.",
+        "Correct. Ties snug enough to admit only one finger prevent accidental decannulation without impairing circulation or damaging the skin.",
+        "Suctioning is done when assessment shows a need (coarse sounds, visible secretions, falling SpO₂), not on a schedule, because each pass can cause hypoxemia and mucosal trauma."
       ],
-      "rationale": "CPT uses gravity (postural drainage), percussion, and vibration to mobilize secretions. It is performed on an empty stomach, after bronchodilators, and over the ribs only. Follow with coughing or suctioning and oral care.",
-      "takeaway": "CPT: empty stomach, bronchodilator first, percuss ribs only.",
-      "cjmm": "Generate Solutions",
+      "rationale": "A new tracheostomy (less than about 7 days old) has an immature tract that can close quickly if the tube is dislodged, so emergency equipment stays at the bedside. Tracheostomy care keeps the airway patent (clean inner cannula), protects the stoma (precut dressing), and prevents dislodgement (secure ties). Suctioning is based on assessment, not a schedule.",
+      "takeaway": "Trach care: emergency supplies at the bedside, clean inner cannula, one-finger ties, precut dressing, suction only when needed.",
+      "cjmm": "Take Action",
       "focus": "Nursing Interventions",
-      "hintContent": "Consider timing relative to meals, drug sequencing, hand position, and which body areas are unsafe to percuss.",
-      "hintStrategy": "Evaluate each option independently as safe or unsafe for CPT."
+      "hintContent": "Think about what could block the tube, what could let it slip out, and what could be inhaled through the stoma.",
+      "hintStrategy": "Evaluate each action separately: does it keep the airway open and the tube secure, or does it add a risk?"
     },
     {
       "id": "m15-026",
@@ -2064,19 +2061,19 @@ window.NURSE_DATA.push({
       "stem": "The RN is caring for a group of clients with respiratory problems. Which task is appropriate to delegate to unlicensed assistive personnel (UAP)?",
       "options": [
         "Adjusting the oxygen flow rate for a client whose SpO₂ dropped to 88%",
-        "Auscultating breath sounds after a client's albuterol treatment",
+        "Auscultating breath sounds after a client's albuterol nebulizer treatment",
         "Teaching a newly postoperative client how to use an incentive spirometer",
-        "Obtaining and reporting the pulse oximetry reading of a stable client with pneumonia"
+        "Assisting a stable client with COPD to sit upright in a chair for meals"
       ],
       "answer": 3,
       "optionRationales": [
         "Titrating oxygen is administering a medication and requires assessment and clinical judgment.",
         "Assessment and evaluation of treatment response are RN responsibilities.",
         "Initial teaching requires RN knowledge; UAP may only reinforce and remind.",
-        "Correct. Measuring and reporting SpO₂ on a stable client is a routine, standardized task within UAP scope."
+        "Correct. Helping a stable client reposition for meals is a routine task with a predictable outcome and is within UAP scope; upright positioning also eases breathing."
       ],
-      "rationale": "The RN cannot delegate assessment, teaching, evaluation, or nursing judgment. UAP can perform routine tasks with predictable outcomes on stable clients, such as measuring vital signs and SpO₂, repositioning, and reminding clients to use their incentive spirometer, and report the results to the RN.",
-      "takeaway": "UAP collect and report; the RN assesses, teaches, and titrates.",
+      "rationale": "The RN cannot delegate assessment, teaching, evaluation, or nursing judgment. UAP can perform routine tasks with predictable outcomes for stable clients, such as measuring vital signs, repositioning and assisting with ADLs, and reminding clients to use their incentive spirometer, and they report findings to the RN.",
+      "takeaway": "UAP reposition, assist, collect, and report; the RN assesses, teaches, and titrates.",
       "cjmm": "Generate Solutions",
       "focus": "Delegation & Safety",
       "hintContent": "Tasks requiring assessment, teaching, evaluation, or judgment stay with the RN.",
@@ -2113,10 +2110,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
       "stem": "A client with asthma is prescribed a fluticasone inhaler twice daily. Which instruction is most important to prevent a common adverse effect of this medication?",
       "options": [
-        "Take it with a full meal",
+        "Take it with a full meal to prevent stomach upset",
         "Rinse your mouth with water and spit after each use",
-        "Use it at the first sign of an asthma attack",
-        "Take your pulse before each dose"
+        "Use it right away at the first sign of an asthma attack",
+        "Check your pulse for 1 full minute before each dose"
       ],
       "answer": 1,
       "optionRationales": [
@@ -2234,10 +2231,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
       "stem": "A client with asthma is prescribed nebulized acetylcysteine to thin secretions. What should the nurse do before administering it?",
       "options": [
-        "Have the client drink 500 mL of water",
+        "Have the client drink 500 mL of water just before the treatment",
         "Administer the prescribed bronchodilator 10–15 minutes before",
-        "Place the client in the supine position",
-        "Dilute the acetylcysteine with sterile water to 40%"
+        "Place the client supine so the mist reaches the lung bases",
+        "Dilute the acetylcysteine with sterile water to a 40% solution"
       ],
       "answer": 1,
       "optionRationales": [
@@ -2263,9 +2260,9 @@ window.NURSE_DATA.push({
       "stem": "A client with multiple rib fractures on the right after a motorcycle crash suddenly becomes severely dyspneic. The nurse finds absent breath sounds on the right, trachea shifted to the left, jugular venous distention, HR 138/min, and BP 78/46 mm Hg. Which action is the priority?",
       "options": [
         "Administer a 1-liter bolus of normal saline and recheck the BP",
-        "Call the rapid response team and prepare for immediate needle decompression",
-        "Place the client supine with legs elevated",
-        "Obtain a STAT chest x-ray to confirm the diagnosis"
+        "Call the rapid response team and prepare for needle decompression",
+        "Place the client flat and supine with both legs elevated on pillows",
+        "Obtain a STAT portable chest x-ray to confirm the diagnosis first"
       ],
       "answer": 1,
       "optionRationales": [
@@ -2330,10 +2327,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
       "stem": "While being repositioned, a client's chest tube is accidentally pulled completely out of the chest. What is the nurse's immediate action?",
       "options": [
-        "Cover the insertion site with a sterile occlusive dressing taped on three sides",
-        "Apply a dry gauze dressing and wait for the provider",
-        "Reinsert the chest tube into the insertion site",
-        "Place the end of the chest tube in a bottle of sterile water"
+        "Cover the site with a sterile occlusive dressing taped on three sides",
+        "Apply a dry gauze dressing and wait for the provider to arrive",
+        "Reinsert the chest tube into the insertion site using sterile gloves",
+        "Place the end of the dislodged tube in a bottle of sterile water"
       ],
       "answer": 0,
       "optionRationales": [
@@ -2345,7 +2342,7 @@ window.NURSE_DATA.push({
       "rationale": "When the tube comes out of the chest, the opening must be sealed immediately with a sterile occlusive (petroleum) dressing taped on three sides, then the nurse notifies the provider and monitors for respiratory distress and tension pneumothorax.",
       "takeaway": "Out of the chest → cover it.",
       "cjmm": "Take Action",
-      "focus": "Delegation & Safety",
+      "focus": "Nursing Interventions",
       "hintContent": "When the tube leaves the chest, the priority is preventing air from entering the pleural space while still allowing it to escape.",
       "hintStrategy": "Distinguish between the tube coming out of the chest and the tube separating from the drainage unit."
     },
@@ -2374,7 +2371,7 @@ window.NURSE_DATA.push({
       "takeaway": "Out of the unit → submerge it.",
       "cjmm": "Take Action",
       "focus": "Nursing Interventions",
-      "hintContent": "The water seal is a one-way valve; think about how to recreate it quickly with supplies at the bedside.",
+      "hintContent": "The water seal is a one-way valve. Think about what must be restored when the system is suddenly open to room air while the tube is still in the chest.",
       "hintStrategy": "Note that the tube is still in the chest — choose the action that restores the seal without creating a new risk."
     },
     {
@@ -2382,37 +2379,36 @@ window.NURSE_DATA.push({
       "type": "sata",
       "topic": "pneumothorax-chest-tubes",
       "ref": "Module 15 · Oxygenation · Chest Tubes",
-      "difficulty": 3,
+      "difficulty": 2,
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "stem": "The nurse is caring for a client with a chest tube after a thoracotomy. Which actions are appropriate? Select all that apply.",
+      "stem": "The nurse is assisting the provider with bedside chest tube insertion for a client with a large right pneumothorax. Which actions should the nurse take? Select all that apply.",
       "options": [
-        "Encourage coughing, deep breathing, and incentive spirometer use",
-        "Keep a sterile occlusive dressing and sterile water at the bedside",
-        "Empty the collection chamber when it is half full",
-        "Coil the tubing on the bed and avoid dependent loops",
-        "Keep the drainage system below the level of the chest",
-        "Clamp the chest tube while transporting the client to radiology"
+        "Confirm that informed consent is signed and take part in a time-out",
+        "Position the client with the right arm raised above the head",
+        "Fill the water seal chamber to the 2 cm line before connecting",
+        "Place the drainage unit on the bed beside the client for easy viewing",
+        "Clamp the new tube until the chest x-ray confirms its placement",
+        "Have the client breathe deeply and cough as the tube is inserted"
       ],
       "answer": [
         0,
         1,
-        3,
-        4
+        2
       ],
       "optionRationales": [
-        "Correct. Lung expansion helps evacuate air and fluid and prevents atelectasis.",
-        "Correct. Emergency supplies are needed for dislodgement or disconnection.",
-        "The collection chamber is never emptied; the unit is replaced when full to maintain a closed sterile system.",
-        "Correct. Dependent loops allow fluid to collect and impede drainage.",
-        "Correct. Gravity drainage prevents backflow into the pleural space.",
-        "Clamping during transport can cause a tension pneumothorax; keep the unit below the chest instead."
+        "Correct. Chest tube insertion is an invasive procedure; the nurse verifies consent and participates in the universal protocol time-out.",
+        "Correct. Raising the arm on the affected side over the head widens the intercostal spaces at the usual insertion site (4th–5th intercostal space, midaxillary line).",
+        "Correct. The water seal (usually 2 cm of sterile water) is a one-way valve that lets air leave the pleural space but not return; it must be filled before the tube is connected.",
+        "The drainage unit must stay upright and below the level of the chest so air and fluid cannot flow back into the pleural space.",
+        "Clamping a tube that is evacuating a pneumothorax traps air and can cause a tension pneumothorax; the tube is connected to the drainage system right away.",
+        "The client should hold still and avoid coughing during insertion to prevent injury; deep breathing and coughing are encouraged after the tube is secured."
       ],
-      "rationale": "Chest tube care focuses on keeping the closed system intact and draining by gravity, promoting lung re-expansion, and being prepared for emergencies. Clamping and opening the collection chamber are not routine actions.",
-      "takeaway": "Below the chest, no loops, no routine clamping.",
+      "rationale": "Before insertion, the nurse confirms consent, participates in the time-out, prepares the drainage system (filling the water seal), gives prescribed analgesia, and positions the client to widen the intercostal spaces. The tube is connected to the drainage unit right away, the unit is kept below chest level, and the nurse then reassesses breathing and anticipates a chest x-ray to confirm placement.",
+      "takeaway": "Chest tube insertion: consent and time-out, arm over the head, water seal filled, connect right away, unit below the chest.",
       "cjmm": "Generate Solutions",
-      "focus": "Delegation & Safety",
-      "hintContent": "A chest drainage system must stay closed, sterile, and draining by gravity.",
-      "hintStrategy": "Watch for options that sound helpful but interrupt the closed system or create a risk of trapped air."
+      "focus": "Nursing Interventions",
+      "hintContent": "Consider what must be ready before the tube is connected, and how the water seal and gravity keep air from re-entering the chest.",
+      "hintStrategy": "Judge each action on its own: does it prepare the client and equipment safely, or could it trap air, allow backflow, or cause injury?"
     },
     {
       "id": "m15-040",
@@ -2488,10 +2484,10 @@ window.NURSE_DATA.push({
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
       "stem": "After M.L.'s clinic visit for an asthma exacerbation, her fluticasone inhaler is replaced with fluticasone/salmeterol (Advair). Which statement by M.L. indicates correct understanding of the new medication?",
       "options": [
-        "\"I will use Advair whenever I start to feel tight in my chest.\"",
-        "\"I should shake the Diskus and breathe in slowly for 5 seconds.\"",
-        "\"I will take Advair every day as scheduled and keep using albuterol for sudden symptoms.\"",
-        "\"I can stop Advair once I feel better for a few days.\""
+        "\"I will use Advair whenever I start to feel tightness in my chest.\"",
+        "\"I should shake the Diskus well and breathe in slowly for 5 seconds.\"",
+        "\"I'll take Advair every day and keep albuterol for sudden symptoms.\"",
+        "\"I can stop taking Advair once I have felt better for a few days.\""
       ],
       "answer": 2,
       "optionRationales": [
@@ -2557,28 +2553,28 @@ window.NURSE_DATA.push({
       "type": "mcq",
       "topic": "asthma-copd-pneumonia",
       "ref": "Module 15 · Oxygenation · Case Study: M.L. (Part 2)",
-      "difficulty": 3,
-      "clientNeed": "Safe and Effective Care Environment: Management of Care",
-      "stem": "M.L., 30, is in the ED with a severe asthma exacerbation. Her SpO₂ has fallen from 93% to 90% even though oxygen was increased to 10 L/min by face mask. She is now cyanotic, and breath sounds are significantly decreased. Which action should the nurse take first?",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "stem": "The night before M.L. was found unconscious, she became short of breath lying down, took 2 puffs of her rescue inhaler, propped herself on 3 pillows, and went back to sleep. Hours later she woke coughing, sweating, and dizzy, then collapsed. Before discharge, the nurse reviews when to seek emergency care. Which statement by M.L. indicates understanding?",
       "options": [
-        "Reposition M.L. supine to reduce fatigue",
-        "Obtain a sputum specimen for culture and sensitivity",
-        "Notify the provider immediately and prepare for airway management while continuing oxygen",
-        "Encourage M.L. to use pursed-lip breathing and recheck SpO₂ in 30 minutes"
+        "\"I only need to call 911 if my lips or nail beds turn blue again like last time.\"",
+        "\"I can wait until the office opens if two puffs of my inhaler help a little bit.\"",
+        "\"I'll get emergency help if my rescue inhaler isn't working or I can't talk easily.\"",
+        "\"If I feel worse at night, I'll take extra doses of Advair until I breathe easier.\""
       ],
       "answer": 2,
       "optionRationales": [
-        "Supine positioning worsens ventilation; M.L. should remain upright.",
-        "Sputum culture is useful later but does not address the immediate threat to breathing.",
-        "Correct. Falling SpO₂ despite escalating oxygen, cyanosis, and diminishing breath sounds indicate impending respiratory failure; the provider must be notified at once and airway equipment prepared.",
-        "Pursed-lip breathing will not reverse respiratory failure, and waiting 30 minutes is unsafe."
+        "Cyanosis is a late sign of hypoxia. Waiting for blue lips or nail beds delays care until the client is close to respiratory failure.",
+        "Partial relief that lets symptoms return within hours signals a severe exacerbation. M.L. waited after partial relief and later lost consciousness.",
+        "Correct. A rescue inhaler that is not relieving symptoms, or breathlessness that makes talking (or lying down) difficult, is a red-zone warning on an asthma action plan and requires emergency care.",
+        "Advair contains salmeterol, a long-acting beta₂-agonist with a slow onset. Extra doses do not give quick relief and increase adverse effects such as tachycardia and tremor."
       ],
-      "rationale": "The trend matters more than a single number. Deteriorating oxygenation despite increasing oxygen, cyanosis (a late sign), and decreasing air movement mean noninvasive therapy is failing. Early escalation allows controlled intubation rather than a respiratory arrest.",
-      "takeaway": "Worsening despite more oxygen = escalate now.",
-      "cjmm": "Take Action",
-      "focus": "Prioritization",
-      "hintContent": "Trends matter: consider what worsening saturation despite increasing oxygen indicates about noninvasive therapy.",
-      "hintStrategy": "The stem asks what to do FIRST — choose the option that addresses the immediate threat to breathing."
+      "rationale": "M.L.'s history shows how quickly a severe exacerbation can progress: orthopnea and only partial relief from her rescue inhaler were followed by syncope and respiratory failure. Asthma action plan teaching includes red-zone warning signs that require emergency care — a rescue inhaler that is not helping, trouble walking or talking, and blue lips or nails. Clients should seek help early rather than wait for cyanosis, a late sign.",
+      "takeaway": "Rescue inhaler not working or can't talk easily = emergency care now; don't wait for blue lips.",
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "hintContent": "Recall the red-zone warning signs on an asthma action plan and which signs of hypoxia appear late.",
+      "hintStrategy": "Look for the statement that seeks help early, at a point when treatment can still prevent a collapse."
     },
     {
       "id": "m15-045",
@@ -2655,8 +2651,8 @@ window.NURSE_DATA.push({
       "stem": "The nurse is assessing pediatric clients during well-child visits. For each finding, indicate whether it is expected or unexpected.",
       "rows": [
         "Respiratory rate of 44/min in a quiet 6-month-old",
-        "Abdominal (diaphragmatic) breathing in a 3-year-old",
-        "Substernal retractions in a 2-year-old at rest",
+        "Crepitus palpated over the right clavicle of a newborn after a difficult delivery",
+        "Anteroposterior chest diameter about equal to the lateral diameter in a 1-month-old",
         "Barrel-shaped chest in an 8-year-old",
         "Respiratory rate of 18/min in a 10-year-old"
       ],
@@ -2666,23 +2662,23 @@ window.NURSE_DATA.push({
       ],
       "answer": [
         0,
-        0,
         1,
+        0,
         1,
         0
       ],
       "optionRationales": [
-        "Expected — normal infant rate is 30–60/min.",
-        "Expected — children under about 6 years breathe primarily with the diaphragm.",
-        "Unexpected — retractions indicate respiratory distress and increased work of breathing.",
-        "Unexpected — the chest should not be barrel-shaped after age 6; suggests chronic air trapping (e.g., CF, severe asthma).",
-        "Expected — school-age rate is about 16–22/min."
+        "Expected — the normal infant rate is 30–60/min.",
+        "Unexpected — crepitus near the clavicle after a difficult birth suggests a clavicle fracture (or subcutaneous air) and needs follow-up.",
+        "Expected — an infant's chest is round, with the AP diameter about equal to the lateral diameter; it flattens during early childhood.",
+        "Unexpected — the chest should not be barrel-shaped after age 6; this suggests chronic air trapping (e.g., cystic fibrosis, severe asthma).",
+        "Expected — the school-age rate is about 16–22/min."
       ],
-      "rationale": "Children's respiratory findings must be interpreted by age. Higher rates in infants and abdominal breathing in young children are normal, whereas retractions or a barrel chest in an older child signal respiratory problems.",
-      "takeaway": "Interpret respiratory findings by age; retractions are never normal.",
+      "rationale": "Children's chest and respiratory findings must be interpreted by age. Faster respiratory rates and a round chest are normal in infants, whereas crepitus over a newborn's clavicle or a barrel chest in a school-age child signals a problem that needs follow-up.",
+      "takeaway": "A round chest and fast breathing are normal in infants; a barrel chest after age 6 and crepitus in a newborn are not.",
       "cjmm": "Recognize Cues",
       "focus": "Lifespan & Diversity",
-      "hintContent": "Compare each finding with the normal respiratory rate and breathing pattern for that child's age.",
+      "hintContent": "Compare each finding with the expected respiratory rate and chest shape for that age, and recall what the nurse palpates for near the clavicle in newborns.",
       "hintStrategy": "Judge each row for its specific age — the same finding can be normal at one age and abnormal at another."
     },
     {
@@ -2768,17 +2764,17 @@ window.NURSE_DATA.push({
       "clientNeed": "Psychosocial Integrity",
       "stem": "During a clinic visit, a client with early COPD says, \"I know smoking is bad, but I'm not ready to quit right now.\" Which response by the nurse is most appropriate?",
       "options": [
-        "\"The provider will not continue treating you unless you stop smoking.\"",
+        "\"The provider will not keep treating you unless you agree to stop smoking.\"",
         "\"If you don't quit now, your lungs will be permanently destroyed within a year.\"",
-        "\"Why would you keep doing something you know is harming you?\"",
-        "\"That's your decision. Quitting is the best thing you can do for your lungs, and I'm here to help whenever you're ready.\""
+        "\"Why would you keep doing something that you know is harming your lungs?\"",
+        "\"Quitting is the best thing for your lungs; I'll help when you're ready.\""
       ],
       "answer": 3,
       "optionRationales": [
         "Threats are coercive and unethical.",
         "Scare tactics with exaggerated claims damage trust and are inaccurate.",
         "'Why' questions sound judgmental and put the client on the defensive.",
-        "Correct. The nurse respects the client's right to choose, gives clear advice, and leaves the door open for future help."
+        "Correct. The nurse gives clear advice, respects the client's right to choose, and leaves the door open for future help."
       ],
       "rationale": "The nurse advises quitting clearly and personally, assesses readiness, and respects the client's autonomy if not ready. Offering ongoing support encourages a future quit attempt. Lung damage from smoking often becomes evident only after it is irreversible, so the nurse should revisit the topic at each visit.",
       "takeaway": "Advise, respect the choice, and keep the door open.",

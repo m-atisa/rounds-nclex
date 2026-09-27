@@ -775,9 +775,9 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client is admitted after losing a large area of epidermis and dermis over the back and legs. Based on the normal functions of the skin, which nursing problem is the priority?",
    "options": [
-    "Impaired vitamin D synthesis from reduced UV absorption",
-    "Disturbed body image related to visible skin loss",
-    "Decreased tactile sensation over the affected areas",
+    "Impaired vitamin D synthesis from reduced UV absorption in the damaged skin",
+    "Disturbed body image related to visible skin loss on the back and legs",
+    "Decreased tactile sensation and pain perception over the affected areas",
     "Fluid volume deficit and infection from loss of the protective barrier"
    ],
    "answer": 3,
@@ -1058,46 +1058,45 @@
   },
   {
    "id": "m21a-011",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "hintContent": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue. Think about monitoring spread, reducing edema, and treating infection.",
-   "hintStrategy": "Judge each option separately. Ask whether it would help or harm inflamed, infected tissue.",
    "type": "sata",
    "topic": "infectious-skin-disorders",
    "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client is admitted with cellulitis of the left lower leg. Temperature 38.4°C (101.1°F), WBC 14,200/mm³. Which interventions should the nurse include in the plan of care? Select all that apply.",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 22-year-old client with recurrent herpes simplex labialis (cold sores) is prescribed valacyclovir to take at the start of each outbreak. Which instructions should the nurse include in the teaching? Select all that apply.",
    "options": [
-    "Outline the margins of erythema with a skin marker and note the date and time",
-    "Elevate the affected leg on pillows",
-    "Monitor temperature and WBC trends",
-    "Massage the area to improve circulation",
-    "Apply a tight compression wrap to reduce swelling",
-    "Administer the prescribed IV antibiotic on schedule"
+    "Take the first dose at the earliest tingling or burning, before blisters form",
+    "Avoid kissing and sharing cups, utensils, or lip balm while lesions are present",
+    "Once the sores crust over, the virus has been cleared from the body",
+    "Use a lip balm with sunscreen, because sun exposure can trigger outbreaks",
+    "Open the blisters with a clean needle so the sores dry and heal faster",
+    "The virus can be spread to others only while blisters are visible"
    ],
    "answer": [
     0,
     1,
-    2,
-    5
+    3
    ],
    "optionRationales": [
-    "Correct. A marked border gives an objective baseline. Spread beyond it signals treatment failure or a worsening infection.",
-    "Correct. Elevation reduces edema and pain.",
-    "Correct. Falling temperature and WBC show response to antibiotics. Rising values suggest progression or sepsis.",
-    "Incorrect. Massaging infected, inflamed tissue causes pain and may spread infection.",
-    "Incorrect. Tight compression on acutely inflamed tissue can impair perfusion and increase pain. It is not ordered during acute cellulitis without provider direction.",
-    "Correct. Timed antibiotic doses keep therapeutic levels up against the streptococcal or staphylococcal infection."
+    "Correct. Antivirals work best when started during the prodrome (tingling, burning, itching), before vesicles erupt. Starting early shortens the outbreak.",
+    "Correct. HSV-1 spreads through direct contact with lesions and saliva. Avoiding kissing and shared items while lesions are present prevents transmission.",
+    "Incorrect. HSV stays latent in the sensory nerve ganglia for life. Crusting means the outbreak is resolving, not that the virus is gone, and it can reactivate.",
+    "Correct. UV light, stress, fever, illness, and lip trauma are common triggers for reactivation. SPF lip balm reduces sun-triggered outbreaks.",
+    "Incorrect. Opening vesicles increases the risk of bacterial superinfection and of spreading the virus to the fingers (herpetic whitlow) or eyes.",
+    "Incorrect. Asymptomatic viral shedding occurs, so the virus can spread even when no lesions are visible. Hand hygiene and avoiding contact with others' mucosa remain important."
    ],
-   "rationale": "Cellulitis is a bacterial infection of the dermis and subcutaneous tissue. Nursing care centers on tracking spread (marking borders), reducing edema (elevation), antibiotic therapy, and monitoring for systemic infection.",
-   "takeaway": "Cellulitis: mark it, elevate it, treat it, trend it."
+   "rationale": "Herpes simplex virus establishes lifelong latency in sensory ganglia and reactivates with triggers such as sun, stress, fever, and illness. Episodic antiviral therapy works best when started at the first prodromal symptoms. Teaching focuses on early treatment, trigger reduction, not touching or opening lesions, hand hygiene, and avoiding direct contact and shared items while lesions are present, remembering that shedding can occur without visible lesions.",
+   "takeaway": "Cold sores: treat at the first tingle, protect lips from sun, don't pop, don't share, and remember the virus stays for life.",
+   "hintContent": "Recall where herpes simplex virus hides between outbreaks, what triggers reactivation, and when antivirals are most effective.",
+   "hintStrategy": "Judge each statement on its own as true or false. Be cautious with statements that describe the virus as gone or as contagious only at certain times."
   },
   {
    "id": "m21a-012",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
-   "hintContent": "Varicella-zoster virus can spread through the air. Immune status changes how isolation is applied to shingles.",
+   "hintContent": "Isolation for shingles depends on the client's immune status and on whether the lesions are localized or disseminated.",
    "hintStrategy": "The key cue is the client's immune status. Decide whether this is the low-risk or high-risk shingles scenario before choosing precautions.",
    "type": "mcq",
    "topic": "infectious-skin-disorders",
@@ -1220,10 +1219,10 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A 16-year-old wrestler has a 3-cm scaly, ring-shaped patch with a raised border and central clearing on the forearm. Two teammates have similar lesions. Which diagnostic test should the nurse anticipate to confirm the most likely cause?",
    "options": [
-    "Tzanck smear",
-    "Patch test",
+    "Tzanck smear of the lesion base",
+    "Patch testing on the upper back",
     "Potassium hydroxide (KOH) preparation",
-    "Punch biopsy"
+    "Punch biopsy of the lesion border"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1240,7 +1239,7 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Compare immune-mediated vs non-immune contact dermatitis in timing, pattern, and prior exposure.",
-   "hintStrategy": "The shape of the rash is the key cue. Ask which process copies the exact outline of an object.",
+   "hintStrategy": "Use the rash's pattern and the history of long-term exposure to decide whether an immune or a non-immune process is involved.",
    "type": "mcq",
    "topic": "inflammatory-skin-disorders",
    "ref": "Module 21 · Tissue Integrity · Inflammatory Skin Disorders",
@@ -1248,10 +1247,10 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client reports an itchy, red rash with small vesicles on the left wrist that is exactly the shape of the metal watch band she has worn for years. How should the nurse interpret this finding?",
    "options": [
-    "Irritant contact dermatitis caused by trapped sweat and soap",
+    "Irritant contact dermatitis caused by sweat and soap trapped under the band",
     "Allergic contact dermatitis, a delayed hypersensitivity reaction to nickel",
-    "Tinea corporis spread from contact with the watch band",
-    "Atopic dermatitis triggered by a personal history of asthma"
+    "Tinea corporis spread to the wrist from fungus living on the watch band",
+    "Atopic dermatitis triggered by the client's personal history of asthma"
    ],
    "answer": 1,
    "optionRationales": [
@@ -1313,10 +1312,10 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "The nurse is teaching the parent of a 4-year-old with atopic dermatitis (eczema) on the antecubital and popliteal areas. Which instruction is most appropriate?",
    "options": [
-    "Give a long hot bath daily with a scented bubble bath to relax the child",
-    "Rub the skin briskly with a towel to remove loose scales after bathing",
-    "Apply a thick fragrance-free emollient within 3 minutes after patting the skin dry",
-    "Dress the child in wool clothing during winter to keep the skin warm"
+    "Give a long, hot bath daily with a scented bubble bath to relax the child",
+    "Rub the skin briskly with a towel after bathing to remove loose scales",
+    "Apply a thick fragrance-free emollient within 3 minutes after patting dry",
+    "Dress the child in wool clothing during winter to keep the skin warm and dry"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1405,7 +1404,7 @@
    "id": "m21a-022",
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Melanoma subtypes differ by skin tone. Consider which body sites get little sun and little pigment.",
+   "hintContent": "Melanoma subtypes differ in where they tend to appear. Recall the subtype that is most common in people with darker skin.",
    "hintStrategy": "Eliminate responses containing a false absolute or a false reassurance, then choose the one that is specific and accurate.",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
@@ -1414,15 +1413,15 @@
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 34-year-old client with dark skin asks where to focus a monthly skin self-examination for melanoma. Which response is most accurate?",
    "options": [
-    "“Be sure to check your palms, the soles of your feet, and under your nails for new dark spots or streaks.”",
-    "“Focus only on your face and ears because they get the most sun.”",
+    "“Check your palms, the soles of your feet, and under your nails for new dark spots.”",
+    "“Focus mainly on your face, ears, and neck, because those areas get the most sun.”",
     "“Darker skin can't develop melanoma, so you only need to check for new moles once a year.”",
-    "“Check any areas that are itchy, since melanoma always causes itching.”"
+    "“Check only the areas that itch, since melanoma nearly always causes itching first.”"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Acral lentiginous melanoma, the most common melanoma subtype in people with darker skin, appears on the palms, soles, and nail beds (a new dark streak in the nail).",
-    "Sun-exposed areas matter, but in darker skin melanoma often appears on areas that get little sun.",
+    "Sun-exposed areas matter, but in darker skin melanoma often appears on areas that get little sun, so limiting the exam to the face, ears, and neck would miss it.",
     "People with dark skin do get melanoma, and it is often diagnosed later and at a more advanced stage.",
     "Melanoma is often painless and not itchy. Relying on itching would delay detection."
    ],
@@ -1443,7 +1442,7 @@
    "stem": "The nurse is teaching a group of lifeguards about preventing skin cancer. Which statements should the nurse include? Select all that apply.",
    "options": [
     "“Use a broad-spectrum, water-resistant sunscreen with an SPF of 30 or higher.”",
-    "“Reapply sunscreen at least every 2 hours and right after swimming or heavy sweating.”",
+    "“Water-resistant sunscreen lasts all day, so reapply it only if you towel off.”",
     "“A base tan from a tanning bed before summer will protect you from burns.”",
     "“Sunscreen is only necessary on sunny days when you can feel the heat.”",
     "“Wear a wide-brimmed hat and UV-blocking sunglasses, and seek shade between 10 a.m. and 4 p.m.”",
@@ -1451,54 +1450,53 @@
    ],
    "answer": [
     0,
-    1,
     4,
     5
    ],
    "optionRationales": [
     "Correct. The AAD recommends broad-spectrum (UVA/UVB), water-resistant SPF ≥30.",
-    "Correct. Sunscreen wears off. Water resistance lasts only 40 or 80 minutes.",
+    "Incorrect. Water resistance lasts only 40 or 80 minutes. Sunscreen should be reapplied at least every 2 hours and right after swimming, sweating, or towel drying.",
     "Incorrect. Tanning beds increase melanoma risk, and there is no safe “base tan.”",
     "Incorrect. UV rays penetrate clouds and cause damage regardless of heat.",
     "Correct. Physical barriers and avoiding peak UV hours reduce exposure.",
     "Correct. Monthly self-exam finds evolving lesions (the E in ABCDE) early."
    ],
-   "rationale": "Sun protection combines sunscreen (SPF ≥30, broad spectrum, reapplied every 2 hours and after water), shade, clothing, hats, sunglasses, avoiding tanning beds, and regular skin self-exams.",
+   "rationale": "Sun protection combines broad-spectrum sunscreen (SPF ≥30, reapplied at least every 2 hours and after water), shade, clothing, hats, sunglasses, avoiding tanning beds, and regular skin self-exams. Common myths (base tans, cloudy-day safety, all-day water resistance) need correcting.",
    "takeaway": "SPF 30+, reapply every 2 hours, shade from 10 to 4, no tanning beds, check monthly."
   },
   {
    "id": "m21a-024",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Review the ABCDE criteria and the benign lesions that are common in older adults.",
-   "hintStrategy": "Several findings are expected with aging. Find the one that shows change and multiple warning criteria.",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
    "ref": "Module 21 · Tissue Integrity · Neoplastic Disorders",
-   "difficulty": 3,
+   "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "During a routine assessment of a 68-year-old client, the nurse notes four skin findings. Which finding should the nurse report to the provider for further evaluation?",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 68-year-old client had a basal cell carcinoma removed from the forearm by shave excision this morning. The site is covered with a pressure dressing. Which discharge instruction should the nurse include?",
    "options": [
-    "Several waxy, brown, “stuck-on” raised lesions on the back",
-    "Multiple small, bright red, dome-shaped papules on the trunk",
-    "Purple patches on the forearms where the client bumped the bed rail",
-    "A 7-mm mole on the calf with notched borders and areas of black and blue that the client says has recently grown"
+    "“Clean the site twice a day with hydrogen peroxide to prevent infection.”",
+    "“Leave the site uncovered so that a dry scab can form over the wound.”",
+    "“You can skip sunscreen on this arm now that the cancer has been removed.”",
+    "“After the first day, wash gently, then apply petrolatum and a clean bandage.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Seborrheic keratoses are common, benign lesions in older adults.",
-    "Cherry angiomas are benign vascular papules common with aging.",
-    "Senile purpura comes from fragile vessels in aging skin. The client should be protected from trauma, but it is not a cancer concern.",
-    "Correct. This lesion meets several ABCDE criteria (irregular border, color variation, diameter >6 mm, evolving) and needs urgent evaluation for melanoma."
+    "Hydrogen peroxide is cytotoxic to fibroblasts and new epithelial cells and delays healing. Gentle soap and water is enough.",
+    "A dry scab slows the migration of epithelial cells. A moist, covered wound heals faster with less scarring.",
+    "A person who has had one basal cell carcinoma is at high risk for another skin cancer. Sun protection and regular skin checks must continue for life.",
+    "Correct. After the initial dressing is removed (usually 24–48 hours), gentle daily washing, a thin layer of petrolatum, and a clean bandage keep the wound moist and protected, which promotes healing and reduces scarring."
    ],
-   "rationale": "The nurse must tell expected age-related lesions (seborrheic keratosis, cherry angioma, senile purpura) from warning signs. A lesion with asymmetry, irregular border, color variation, diameter >6 mm, or evolution needs biopsy referral.",
-   "takeaway": "Changing + irregular + multicolored + >6 mm = refer for biopsy."
+   "rationale": "Wounds left after skin cancer excision heal best in a clean, moist, covered environment. Teaching includes gentle daily cleansing, petrolatum and a bandage, avoiding harsh antiseptics, reporting signs of infection (spreading redness, warmth, purulent drainage, fever) or bleeding, and lifelong sun protection and skin surveillance because the risk of a new skin cancer is high.",
+   "takeaway": "After skin cancer excision: gentle wash, petrolatum, cover, and keep up sun protection for life.",
+   "hintContent": "Recall the principle of moist wound healing and what one skin cancer means for the client's future risk.",
+   "hintStrategy": "Evaluate each instruction for whether it supports healing and long-term safety. Eliminate options that damage new tissue or stop protective habits."
   },
   {
    "id": "m21a-025",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
-   "hintContent": "Most pregnancy skin changes are hormonal and benign. One pattern of itching signals a liver problem that threatens the fetus.",
+   "hintContent": "Most skin changes in pregnancy are expected hormonal effects. Recall which third-trimester finding reflects a problem in another organ system that can threaten the fetus.",
    "hintStrategy": "Three options are expected findings. Look for the one whose timing and location point to a systemic problem.",
    "type": "mcq",
    "topic": "lifespan-skin",
@@ -1508,9 +1506,9 @@
    "stem": "Four clients at a prenatal clinic report skin changes. Which client should the nurse report to the provider first?",
    "options": [
     "A client at 20 weeks with a dark vertical line from the umbilicus to the pubis",
-    "A client at 24 weeks with blotchy brown patches on the forehead and cheeks",
-    "A client at 34 weeks with intense itching of the palms and soles, worse at night, and no visible rash",
-    "A client at 30 weeks with pink-purple streaks on the abdomen and breasts"
+    "A client at 24 weeks with blotchy brown patches on the forehead and upper lip",
+    "A client at 34 weeks with intense itching of the palms and soles and no rash",
+    "A client at 30 weeks with pink-purple streaks on the abdomen, hips, and breasts"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1629,10 +1627,10 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client asks why the scraped knee from a bike fall healed without a scar but the deep cut from a glass injury left one. What is the best explanation by the nurse?",
    "options": [
-    "“The scrape was a partial-thickness wound, which heals by regenerating the same tissue.”",
-    "“The scrape healed faster because it was an intentional wound.”",
-    "“The cut was a closed wound, so it could not regenerate.”",
-    "“Scars form only when a wound becomes infected.”"
+    "“The scrape was partial thickness, so the same tissue was able to grow back.”",
+    "“The scrape healed faster because it was an intentional, controlled wound.”",
+    "“The cut was a closed wound, so the tissue under it could not regenerate.”",
+    "“Scars form only when a wound becomes infected during the healing process.”"
    ],
    "answer": 0,
    "optionRationales": [
@@ -1648,7 +1646,7 @@
    "id": "m21a-030",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Protein is needed for collagen and immune function. Recall the normal ranges for each lab listed.",
+   "hintContent": "Wound healing depends on oxygen delivery, immune defense, clotting, and nutrition. Recall the normal range for each lab listed.",
    "hintStrategy": "Compare every value with its normal range. The cues about poor intake point toward one abnormal value.",
    "type": "mcq",
    "topic": "diagnostics-labs-nutrition",
@@ -1690,13 +1688,12 @@
     "Limit fluids to reduce wound drainage",
     "Offer small, frequent meals and oral nutritional supplements",
     "Follow a low-calorie diet to promote circulation",
-    "Include foods high in zinc and vitamin A, such as whole grains and leafy greens"
+    "Take a high-dose zinc supplement daily even if zinc levels are normal"
    ],
    "answer": [
     0,
     1,
-    3,
-    5
+    3
    ],
    "optionRationales": [
     "Correct. Protein supplies amino acids for collagen and tissue repair. Needs rise with wounds.",
@@ -1704,9 +1701,9 @@
     "Incorrect. Adequate hydration is needed for perfusion and tissue repair. Restricting fluids impairs healing.",
     "Correct. Small, frequent meals and supplements increase total intake when appetite is poor.",
     "Incorrect. Healing tissue needs more calories. Calorie restriction leads to breakdown of body protein.",
-    "Correct. Zinc supports cell proliferation, and vitamin A supports epithelialization."
+    "Incorrect. Zinc supplementation helps healing only when a deficiency exists. Routine high doses are not recommended and can interfere with copper absorption. Food sources of zinc and vitamin A are encouraged instead."
    ],
-   "rationale": "A prealbumin below about 15 mg/dL suggests recent protein malnutrition. Healing needs more calories, protein, vitamins A and C, zinc, and fluids. Small frequent meals, supplements, and a dietitian referral help when appetite is poor.",
+   "rationale": "A prealbumin below about 15 mg/dL suggests recent protein malnutrition. Healing needs more calories, protein, vitamins A and C, and fluids. Small frequent meals, supplements, and a dietitian referral help when appetite is poor. Micronutrient supplements such as zinc are given for a documented deficiency, not routinely.",
    "takeaway": "Wounds need calories, protein, vitamins A and C, zinc, and fluids."
   },
   {
@@ -1814,7 +1811,7 @@
    "options": [
     "Use a draw sheet with a second person to reposition the client in bed",
     "Bathe with lukewarm water and a mild cleanser, then pat the skin dry",
-    "Apply moisturizer while the skin is still slightly damp",
+    "Dress the client in short sleeves so any new bruising is easy to see",
     "Secure dressings with standard adhesive tape so they stay in place",
     "Scrub the skin vigorously to stimulate circulation",
     "Pad the bed rails and wheelchair arms"
@@ -1822,18 +1819,17 @@
    "answer": [
     0,
     1,
-    2,
     5
    ],
    "optionRationales": [
     "Correct. Lifting with a draw sheet prevents friction and shear, which cause skin tears.",
     "Correct. Hot water and harsh soap strip the oils older skin can't replace. Pat, don't rub.",
-    "Correct. Moisturizing right after bathing counters xerosis from decreased sebaceous activity.",
+    "Incorrect. Long sleeves, pants, or limb protectors add a protective layer against bumps and skin tears. New bruising is checked during routine skin care, not by leaving fragile skin exposed.",
     "Incorrect. Standard adhesive tape can tear fragile skin when removed. Use silicone tape, paper tape, or tubular/gauze retention instead.",
     "Incorrect. Vigorous friction damages thin, fragile skin.",
     "Correct. Padding prevents bumps that cause skin tears and purpura."
    ],
-   "rationale": "Aging skin is thin and dry, with fragile vessels and less fat, which puts older adults at high risk for skin tears. Gentle bathing, immediate moisturizing, lifting devices, padding, and avoiding adhesives protect tissue integrity. These routine care tasks can be delegated to a UAP with clear instructions.",
+   "rationale": "Aging skin is thin and dry, with fragile vessels and less fat, which puts older adults at high risk for skin tears. Gentle bathing, lifting devices, padding, protective clothing, and avoiding adhesives protect tissue integrity. These routine care tasks can be delegated to a UAP with clear instructions.",
    "takeaway": "Fragile older skin: lift, don't drag. Pat, don't rub. Pad, don't tape."
   }
  ]

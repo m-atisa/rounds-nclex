@@ -1171,24 +1171,24 @@ window.NURSE_DATA = window.NURSE_DATA || [];
     ref: "Module 21 · Exemplar 21.C Wound Healing · Delegation",
     difficulty: 2, clientNeed: "Safe and Effective Care Environment: Management of Care",
     cjmm: "Generate Solutions", focus: "Delegation & Safety",
-    stem: "The RN is caring for four surgical clients with a licensed practical nurse (LPN). Which task is most appropriate to assign to the LPN?",
+    stem: "The RN is caring for a client on postoperative day 2 after an open appendectomy with the help of an unlicensed assistive personnel (UAP). The client's vital signs are stable, and the incision is dry with approximated edges. Which task is appropriate for the RN to delegate to the UAP?",
     options: [
-      "Change the dry sterile dressing on a stable client's healing knee incision",
-      "Assess a client who reports a “popping” sensation in the abdominal incision",
-      "Teach a client going home with negative-pressure wound therapy how to troubleshoot alarms",
-      "Perform the first postoperative assessment of a client just arrived from the PACU"
+      "Help the client walk in the hall and remind the client to splint the incision when coughing",
+      "Inspect the incision each shift for redness, warmth, drainage, and separation of the edges",
+      "Remove every other staple from the incision as prescribed before the client's discharge",
+      "Explain the signs of wound infection that the client should report after going home"
     ],
     answer: 0,
     optionRationales: [
-      "Correct. A sterile dressing change on a stable client with a predictable outcome is within LPN scope; the LPN reports findings to the RN.",
-      "Incorrect. A possible dehiscence is an unstable situation requiring RN assessment and judgment.",
-      "Incorrect. Initial discharge teaching and evaluation of learning are RN responsibilities.",
-      "Incorrect. The initial postoperative assessment of a newly arrived client requires the RN."
+      "Correct. Ambulating a stable postoperative client is routine and within UAP scope, and reminding the client to use a technique the RN already taught (splinting) reinforces that teaching.",
+      "Incorrect. Inspecting an incision for signs of infection or dehiscence is assessment and requires nursing judgment.",
+      "Incorrect. Staple removal is a sterile procedure that requires evaluating wound integrity as it is performed; it is not within UAP scope.",
+      "Incorrect. Discharge teaching about complications is an RN responsibility."
     ],
-    rationale: "The RN retains assessment, initial teaching, evaluation, and care of unstable clients. LPNs can perform procedures such as sterile dressing changes for stable clients with expected outcomes and report abnormal findings.",
-    takeaway: "Assign LPNs stable, predictable procedures; keep new assessments, teaching, and unstable clients.",
-    hintContent: "Recall which nursing functions (assess, teach, evaluate) cannot be assigned to an LPN.",
-    hintStrategy: "Eliminate options that involve an unstable client or an initial assessment or teaching."
+    rationale: "The RN retains assessment, teaching, evaluation, and procedures that require judgment. UAP can perform routine, predictable care for stable clients, such as ambulation, hygiene, and reminding clients of techniques the nurse has already taught, and must report changes such as new drainage or pain to the RN.",
+    takeaway: "UAP: routine care and reinforcement for stable clients. RN: assessment, teaching, and procedures that need judgment.",
+    hintContent: "Recall which activities are routine and unchanging and which require assessment, sterile technique, or teaching.",
+    hintStrategy: "For each task, ask whether the outcome is predictable for a stable client or whether performing it requires the nurse to interpret findings or teach new content."
   },
   {
     id: "m21f-045", type: "order", topic: "wound-healing-complications",

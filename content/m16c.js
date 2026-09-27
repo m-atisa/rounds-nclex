@@ -829,7 +829,7 @@ window.NURSE_DATA.push({
                 ],
                 [
                   "0200",
-                  "34",
+                  "38",
                   "20",
                   "78/44",
                   "93% 2 L NC"
@@ -839,7 +839,7 @@ window.NURSE_DATA.push({
           },
           {
             "title": "Rhythm Strip",
-            "html": "<p><strong>0200:</strong> Atrial rate 84/min, regular. Ventricular rate 34/min, regular, QRS 0.14 sec. P waves march through the QRS complexes with no consistent PR interval; P waves and QRS complexes are unrelated.</p>"
+            "html": "<p><strong>0200:</strong> Atrial rate 84/min, regular. Ventricular rate 38/min, regular, QRS 0.10 sec (narrow). P waves march through the QRS complexes with no consistent PR interval; P waves and QRS complexes are unrelated.</p>"
           }
         ]
       },
@@ -890,7 +890,7 @@ window.NURSE_DATA.push({
           "A beta-blocker would further slow the rate and worsen hypotension.",
           "Vagal maneuvers slow AV conduction and are used for SVT, not bradycardia.",
           "Correct. Symptomatic high-grade AV block with hypotension requires preparation for transcutaneous pacing.",
-          "Correct. Atropine is the first-line drug for symptomatic bradycardia and may help when the block is at the AV node, as is common with inferior MI.",
+          "Correct. Atropine is the first-line drug for symptomatic bradycardia and often helps when the block is at the AV node with a narrow junctional escape rhythm, as is common with inferior MI.",
           "Adenosine blocks AV node conduction and is used to convert SVT."
         ],
         "parameters": [
@@ -901,7 +901,7 @@ window.NURSE_DATA.push({
           "HbA1c reflects 3-month glucose control, not acute perfusion."
         ]
       },
-      "rationale": "The right coronary artery supplies the AV node in most people, so inferior MI commonly causes AV blocks. This client has complete heart block with signs of low cardiac output (hypotension, dizziness, new confusion). Treatment is atropine per protocol and transcutaneous pacing as a bridge, with close monitoring of rhythm, BP, and mental status.",
+      "rationale": "The right coronary artery supplies the AV node in most people, so inferior MI commonly causes AV blocks, usually at the AV node with a narrow-QRS junctional escape rhythm. This client has complete heart block with signs of low cardiac output (hypotension, dizziness, new confusion). Treatment is atropine per protocol and transcutaneous pacing as a bridge (atropine is unlikely to work if the escape rhythm is wide and ventricular), with close monitoring of rhythm, BP, and mental status.",
       "takeaway": "Symptomatic bradycardia: atropine and pacing pads; judge success by rate, BP, and mentation.",
       "hintContent": "Recall the relationship between P waves and QRS complexes in each type of AV block and which coronary artery supplies the AV node.",
       "hintStrategy": "Identify the rhythm from the strip data first. Then eliminate actions that would slow the heart further, and choose parameters that reflect perfusion."
@@ -1678,11 +1678,11 @@ window.NURSE_DATA.push({
       "stem": "A 74-year-old client reports intermittent palpitations and fatigue. The provider suspects atrial fibrillation. Which findings would support this suspicion? Select all that apply.",
       "options": [
         "Irregularly irregular R-R intervals on the rhythm strip",
-        "A P wave before every QRS complex",
+        "A P wave before every QRS complex on the strip",
         "No identifiable P waves, with a wavy baseline",
-        "PR interval of 0.16 second in every beat",
+        "A constant PR interval of 0.16 second in every beat",
         "Apical pulse 118/min with a radial pulse of 96/min",
-        "Regular rhythm at 72/min"
+        "A regular rhythm at 72/min with upright P waves"
       ],
       "answer": [
         0,
@@ -1975,7 +1975,7 @@ window.NURSE_DATA.push({
       "rationale": "During a TEE, a probe is passed into the esophagus after the throat is anesthetized. Until the gag and swallow reflexes return (often 1–2 hours), the client is kept NPO to prevent aspiration. Sedation effects are also monitored.",
       "takeaway": "After TEE: no gag, no food or fluids.",
       "hintContent": "Recall how a TEE is performed and what the topical anesthetic does to protective airway reflexes.",
-      "hintStrategy": "Three options give the client fluid in different forms. Which option is an assessment that makes any fluid safe?"
+      "hintStrategy": "Consider what the throat anesthetic and sedation did to the client's protective reflexes, and whether each option gives fluid before that is known."
     },
     {
       "id": "m16c-042",

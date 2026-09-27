@@ -917,7 +917,7 @@
    },
    "optionRationales": {
     "condition": [
-     "Incorrect. Sepsis would not develop 4 hours after surgery and would typically include fever; the client is hypothermic-trending with sanguineous drainage.",
+     "Incorrect. Sepsis would not develop 4 hours after surgery and would typically include fever; this client is afebrile with active sanguineous drainage.",
      "Correct. Bright red saturated dressing, distention, tachycardia, hypotension, oliguria, cool clammy skin, and a 3.5 g/dL Hgb drop within the first 48 hours indicate hemorrhage with hypovolemic shock.",
      "Incorrect. Dehiscence usually occurs POD 5–8 with a gush of serosanguineous fluid, not active bleeding on the day of surgery.",
      "Incorrect. PE causes sudden dyspnea, chest pain, and hypoxemia; SpO₂ is maintained and bleeding explains the findings."
@@ -1179,7 +1179,7 @@
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Types of Healing",
-   "difficulty": 2,
+   "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
@@ -1188,7 +1188,7 @@
     "“Leaving it open lets it fill in from the bottom so infection is not trapped under the skin.”",
     "“The surgeon ran out of time and will close the wound at your next appointment.”",
     "“Open wounds heal faster than stitched wounds because air dries the tissue.”",
-    "“Stitches would leave a larger scar, so the wound is left open for cosmetic reasons.”"
+    "“Stitches would leave a larger scar, so the wound is being left open mainly for cosmetic reasons.”"
    ],
    "answer": 0,
    "optionRationales": [
@@ -1325,7 +1325,7 @@
    "options": [
     "“Your scar is a normal hypertrophic scar and will flatten on its own within a few months.”",
     "“Scar tissue only forms like that on earlobes, so your abdominal incisions will not be affected.”",
-    "“Tell your surgeon about this scar, because you may be prone to keloids and prevention can be planned.”",
+    "“Tell your surgeon about this scar; you may be prone to keloids, and prevention can be planned.”",
     "“That scar formed because the piercing was infected, so it will not happen with a sterile incision.”"
    ],
    "answer": 2,
@@ -1414,7 +1414,7 @@
    "stem": "The nurse is removing skin staples from a client's abdominal incision on postoperative day 10 as prescribed. After removing every other staple, the nurse notes that the lower 2 cm of the incision edges are beginning to gap. Which action should the nurse take?",
    "options": [
     "Remove the remaining staples and apply a pressure dressing",
-    "Squeeze the separated edges together and apply a transparent film",
+    "Squeeze the separated edges together and cover them with a transparent film",
     "Continue removing staples and document the finding afterward",
     "Stop removing staples, leave the rest in place, and notify the provider"
    ],
@@ -1534,7 +1534,7 @@
    "focus": "Client Teaching",
    "stem": "The nurse has taught a client who smokes about the effects of smoking on healing of a foot wound. Which statement by the client indicates a need for further teaching?",
    "options": [
-    "“Smoking narrows my blood vessels, so less oxygen reaches the wound.”",
+    "“Smoking narrows my blood vessels, so less oxygen and nutrients reach my wound.”",
     "“The carbon monoxide in smoke takes the place of oxygen on my red blood cells.”",
     "“I can ask my provider about nicotine replacement and a quit-smoking program.”",
     "“Switching to vaping will protect my wound because there is no smoke involved.”"
@@ -1676,10 +1676,10 @@
    "focus": "Lifespan & Diversity",
    "stem": "A Muslim client with a slowly healing diabetic foot wound tells the nurse, “Ramadan starts next week, and I want to fast from dawn to sunset like my family.” Which response by the nurse is most appropriate?",
    "options": [
-    "“You cannot fast while you have a wound, so I will tell your provider you refused the diet.”",
+    "“You cannot fast while you have an open wound, so I will tell your provider that you refused the diet.”",
     "“Fasting will not affect your wound, so there is no need to change your meal plan.”",
-    "“Let's talk about how you plan to fast and involve your provider and dietitian in adjusting meals and medicines.”",
-    "“You should ask your religious leader for permission and let me know what they decide.”"
+    "“Tell me how you plan to fast so we can work with your provider and dietitian to adjust meals and medicines.”",
+    "“You should first ask your religious leader for permission to skip fasting and then let me know what was decided.”"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1743,7 +1743,7 @@
    "type": "order",
    "topic": "wound-healing-factors-exudate",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Drains",
-   "difficulty": 2,
+   "difficulty": 1,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
@@ -1771,7 +1771,7 @@
    "focus": "Assessment Findings",
    "stem": "A client who had a modified radical mastectomy has had 40–60 mL of serosanguineous JP drain output every 8 hours. On the second postoperative day, the nurse notes there has been no output for 6 hours, the bulb is fully expanded, and the chest wall under the incision feels boggy and swollen. Which interpretation is most accurate?",
    "options": [
-    "The drainage has stopped because the wound has finished healing.",
+    "The drainage has stopped because the wound has finished healing internally.",
     "The drain has lost suction, and fluid is accumulating in the wound.",
     "The client is dehydrated and producing less wound fluid.",
     "The swelling is normal inflammation and no action is required."
@@ -1870,11 +1870,75 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Pathophysiology",
-   "stem": "A client is 18 hours after a right total hip arthroplasty. The dressing is dry, and the Hemovac has drained 60 mL since surgery. The client reports severe, increasing thigh pain. The right thigh is tense and swollen, HR is 112/min (was 84/min), and hemoglobin has dropped from 11.8 to 8.9 g/dL. Which complication is the most likely cause?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Nurses' Notes",
+      "html": "<p><strong>0600:</strong> 71-year-old client, 18 hours after right total hip arthroplasty. Reports severe, increasing right thigh pain (8/10, was 4/10 at 2200) not relieved by PCA. Right thigh tense, swollen, and shiny; thigh circumference 4 cm larger than at 2200. Dressing dry and intact. Hemovac has drained 60 mL total since surgery. Right foot warm, pedal pulse 2+, capillary refill less than 3 seconds.</p>"
+     },
+     {
+      "title": "Vital Signs",
+      "table": {
+       "headers": [
+        "Time",
+        "T",
+        "HR",
+        "RR",
+        "BP",
+        "SpO₂"
+       ],
+       "rows": [
+        [
+         "2200",
+         "36.9 °C (98.4 °F)",
+         "84",
+         "16",
+         "136/80",
+         "97% RA"
+        ],
+        [
+         "0600",
+         "37.0 °C (98.6 °F)",
+         "112",
+         "20",
+         "108/64",
+         "96% RA"
+        ]
+       ]
+      }
+     },
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Postop (1400)",
+        "0530",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "Hemoglobin",
+         "11.8 g/dL",
+         "8.9 g/dL",
+         "12–16 g/dL"
+        ],
+        [
+         "Platelets",
+         "228,000/mm³",
+         "219,000/mm³",
+         "150,000–400,000/mm³"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results for a client after hip arthroplasty. Which complication is the most likely cause of the client's findings?",
    "options": [
     "Surgical site infection of the incision",
     "Deep vein thrombosis in the right calf",
-    "Hematoma from internal bleeding at the surgical site",
+    "Hematoma at the surgical site",
     "Dehiscence of the hip incision"
    ],
    "answer": 2,
@@ -2081,7 +2145,7 @@
    "type": "mcq",
    "topic": "wound-healing-complications",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · SSI Prevention",
-   "difficulty": 2,
+   "difficulty": 1,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "cjmm": "Take Action",
    "focus": "Pharmacology",
@@ -2115,9 +2179,9 @@
    "focus": "Delegation & Safety",
    "stem": "The nurse observes an unlicensed assistive personnel (UAP) preparing to shave a client's abdomen with a disposable razor the evening before a scheduled laparotomy. Which action should the nurse take?",
    "options": [
-    "Allow the UAP to continue because shaving the night before is standard",
+    "Allow the UAP to continue because shaving the night before surgery is standard",
     "Instruct the UAP to use a razor with shaving cream to prevent nicks",
-    "Tell the UAP to shave the area in the morning instead of tonight",
+    "Tell the UAP to wait and shave the area in the morning just before transport",
     "Stop the UAP and explain that hair is not removed with razors before surgery"
    ],
    "answer": 3,
@@ -2172,7 +2236,7 @@
    "stem": "A client with a superficial incisional SSI after a cesarean birth has received IV vancomycin for 72 hours. On admission, the margin of erythema was outlined with a skin marker. Which finding best indicates that treatment is effective?",
    "options": [
     "Erythema has receded inside the marked outline, and drainage is now serous",
-    "The client reports the incision itches more than it did on admission",
+    "The client reports that the incision now itches more than it did on admission",
     "Vancomycin trough level is within the prescribed therapeutic range",
     "Erythema now extends 1 cm beyond the marked outline without drainage"
    ],
@@ -2234,24 +2298,24 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
-   "stem": "The RN is caring for four surgical clients with a licensed practical nurse (LPN). Which task is most appropriate to assign to the LPN?",
+   "stem": "The RN is caring for a client on postoperative day 2 after an open appendectomy with the help of an unlicensed assistive personnel (UAP). The client's vital signs are stable, and the incision is dry with approximated edges. Which task is appropriate for the RN to delegate to the UAP?",
    "options": [
-    "Assess a client who reports a “popping” sensation in the abdominal incision",
-    "Teach a client going home with negative-pressure wound therapy how to troubleshoot alarms",
-    "Change the dry sterile dressing on a stable client's healing knee incision",
-    "Perform the first postoperative assessment of a client just arrived from the PACU"
+    "Help the client walk in the hall and remind the client to splint the incision when coughing",
+    "Inspect the incision each shift for redness, warmth, drainage, and separation of the edges",
+    "Remove every other staple from the incision as prescribed before the client's discharge",
+    "Explain the signs of wound infection that the client should report after going home"
    ],
-   "answer": 2,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. A possible dehiscence is an unstable situation requiring RN assessment and judgment.",
-    "Incorrect. Initial discharge teaching and evaluation of learning are RN responsibilities.",
-    "Correct. A sterile dressing change on a stable client with a predictable outcome is within LPN scope; the LPN reports findings to the RN.",
-    "Incorrect. The initial postoperative assessment of a newly arrived client requires the RN."
+    "Correct. Ambulating a stable postoperative client is routine and within UAP scope, and reminding the client to use a technique the RN already taught (splinting) reinforces that teaching.",
+    "Incorrect. Inspecting an incision for signs of infection or dehiscence is assessment and requires nursing judgment.",
+    "Incorrect. Staple removal is a sterile procedure that requires evaluating wound integrity as it is performed; it is not within UAP scope.",
+    "Incorrect. Discharge teaching about complications is an RN responsibility."
    ],
-   "rationale": "The RN retains assessment, initial teaching, evaluation, and care of unstable clients. LPNs can perform procedures such as sterile dressing changes for stable clients with expected outcomes and report abnormal findings.",
-   "takeaway": "Assign LPNs stable, predictable procedures; keep new assessments, teaching, and unstable clients.",
-   "hintContent": "Recall which nursing functions (assess, teach, evaluate) cannot be assigned to an LPN.",
-   "hintStrategy": "Eliminate options that involve an unstable client or an initial assessment or teaching."
+   "rationale": "The RN retains assessment, teaching, evaluation, and procedures that require judgment. UAP can perform routine, predictable care for stable clients, such as ambulation, hygiene, and reminding clients of techniques the nurse has already taught, and must report changes such as new drainage or pain to the RN.",
+   "takeaway": "UAP: routine care and reinforcement for stable clients. RN: assessment, teaching, and procedures that need judgment.",
+   "hintContent": "Recall which activities are routine and unchanging and which require assessment, sterile technique, or teaching.",
+   "hintStrategy": "For each task, ask whether the outcome is predictable for a stable client or whether performing it requires the nurse to interpret findings or teach new content."
   },
   {
    "id": "m21f-045",

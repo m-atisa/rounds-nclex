@@ -795,15 +795,15 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client who sprained the right ankle 6 hours ago has an elastic compression wrap in place. Which finding should the nurse report to the provider immediately?",
    "options": [
-    "Warmth and swelling over the lateral malleolus",
-    "Toes on the right foot that are pale and cool with capillary refill of 5 seconds",
-    "Pain rated 5/10 that worsens when the client bears weight",
-    "Limited ability to rotate the ankle because of discomfort"
+    "Pale, cool toes on the right foot with capillary refill of 5 seconds",
+    "Warmth and swelling over the lateral malleolus with tenderness",
+    "Pain rated 5/10 that increases when the client bears weight on the foot",
+    "Limited ability to rotate the ankle because of pain and stiffness"
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Warmth and swelling at the injury site are expected cardinal signs of acute inflammation.",
     "Correct. Pale, cool toes with delayed capillary refill mean impaired distal perfusion, from a wrap that is too tight or from compartment syndrome. This needs immediate action.",
+    "Warmth, swelling, and tenderness at the injury site are expected cardinal signs of acute inflammation.",
     "Moderate pain that worsens with weight bearing is expected after a sprain.",
     "Loss of function is a classic sign of inflammation and is expected."
    ],
@@ -812,7 +812,7 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the five cardinal signs and where on the limb they appear. Decide whether each finding is at the injury site or beyond it.",
-   "hintStrategy": "Three options describe the same kind of finding. Look for the one that describes a different body area and a different problem."
+   "hintStrategy": "Decide which findings are expected at the site of an acute injury and which suggest a problem developing elsewhere in the limb."
   },
   {
    "id": "m10-003",
@@ -879,10 +879,10 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "Twelve hours after a hip replacement, a client's surgical drain contains 40 mL of thin, watery, pale pink fluid. Vital signs: T 37.4 °C (99.3 °F), HR 84, BP 126/74. What is the nurse's most appropriate action?",
    "options": [
-    "Notify the surgeon of possible hemorrhage",
-    "Continue to monitor and record the amount and character of the drainage",
-    "Obtain a wound culture of the drainage",
-    "Remove the drain because the drainage is minimal"
+    "Notify the surgeon of possible postoperative hemorrhage from the hip",
+    "Continue to monitor the amount and character of the drainage",
+    "Obtain a culture of the drainage and send it to the laboratory",
+    "Remove the drain because the drainage volume is now minimal"
    ],
    "answer": 1,
    "optionRationales": [
@@ -896,7 +896,7 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "Remember which type of drainage is normal in the first postoperative days and how it should change over time.",
-   "hintStrategy": "Use the vital signs as a clue. Stable numbers point toward an expected finding, not a complication."
+   "hintStrategy": "Decide first whether the drainage described is expected at this point after surgery; then use the vital signs to confirm or refute that impression."
   },
   {
    "id": "m10-006",
@@ -908,9 +908,9 @@
    "stem": "A client with acute tendinitis asks how ibuprofen will help. Which explanation by the nurse is most accurate?",
    "options": [
     "It blocks histamine receptors so the blood vessels stop leaking fluid.",
-    "It kills the bacteria that are causing the inflammation.",
+    "It kills the bacteria that are causing the tendon to become inflamed.",
     "It suppresses the immune system so white blood cells stop reaching the tendon.",
-    "It reduces the production of prostaglandins that cause pain, swelling, and fever."
+    "It lowers production of prostaglandins that cause pain, swelling, and fever."
    ],
    "answer": 3,
    "optionRationales": [
@@ -935,15 +935,15 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "The nurse is assessing a client's healing leg wound 10 days after debridement. Which wound bed finding indicates the reparative phase is progressing as expected?",
    "options": [
-    "Pale pink, dry tissue with a gray film",
     "Beefy red, moist, granular tissue that bleeds slightly when touched",
-    "Yellow, stringy tissue adhering to the wound base",
-    "Black, leathery tissue covering the wound"
+    "Pale pink, dry tissue with a thin gray film across the surface",
+    "Yellow, stringy tissue that adheres firmly to the wound base",
+    "Black, leathery tissue covering most of the wound surface"
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Pale, dry tissue with a gray film suggests poor perfusion or infection.",
     "Correct. Healthy granulation tissue is beefy red, moist, and bumpy. It bleeds easily because it contains many new capillaries.",
+    "Pale, dry tissue with a gray film suggests poor perfusion or infection.",
     "Yellow, stringy tissue is slough (devitalized tissue) that delays healing.",
     "Black, leathery tissue is eschar (necrotic tissue)."
    ],
@@ -980,7 +980,7 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Think about how the allergen is still getting into the client and what stops more of it from entering.",
-   "hintStrategy": "The stem asks what to do FIRST. Before any drug is given, what single action removes the cause?"
+   "hintStrategy": "The stem asks what to do FIRST. Consider whether the client is still being exposed to the trigger before choosing among the treatments."
   },
   {
    "id": "m10-009",
@@ -991,16 +991,16 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "The nurse has stopped an IV antibiotic infusion in an adult client who developed stridor, hives, and BP 80/48 mm Hg. The rapid response team has been called. Which prescribed medication should the nurse give first?",
    "options": [
-    "Methylprednisolone 125 mg IV push",
-    "Albuterol 2.5 mg via nebulizer",
-    "Epinephrine 0.5 mg (1 mg/mL) IM in the mid-anterolateral thigh",
-    "Famotidine 20 mg IV"
+    "Methylprednisolone 125 mg IV push over 1 to 2 minutes",
+    "Albuterol 2.5 mg in 3 mL saline via nebulizer",
+    "Epinephrine 0.5 mg IM in the mid-anterolateral thigh",
+    "Famotidine 20 mg IV push diluted in 10 mL saline"
    ],
    "answer": 2,
    "optionRationales": [
     "Corticosteroids act slowly (hours) and do not treat acute airway or circulatory compromise.",
     "Albuterol treats bronchospasm but not laryngeal edema or hypotension. It is an adjunct.",
-    "Correct. IM epinephrine is first-line. Its alpha effects reverse vasodilation and edema, and its beta-2 effects relieve bronchospasm. The thigh gives the fastest absorption.",
+    "Correct. IM epinephrine (1 mg/mL concentration) is first-line. Its alpha effects reverse vasodilation and edema, and its beta-2 effects relieve bronchospasm. The thigh gives the fastest absorption.",
     "H2 blockers are adjuncts for skin and GI symptoms only."
    ],
    "rationale": "Epinephrine is the only drug that treats every life-threatening feature of anaphylaxis: airway edema, bronchoconstriction, and shock. Give 0.01 mg/kg (adult max 0.5 mg) of 1 mg/mL IM into the vastus lateralis, repeating every 5–15 minutes as needed.",
@@ -1042,29 +1042,29 @@
    "id": "m10-011",
    "type": "mcq",
    "topic": "anaphylaxis",
-   "difficulty": 3,
+   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse is teaching a client with a severe peanut allergy who was treated for anaphylaxis and is being discharged with epinephrine auto-injectors. Which statement indicates the need for further teaching?",
+   "stem": "A client who was treated for anaphylaxis after a yellow jacket sting is being discharged with epinephrine auto-injectors and a referral to an allergist. Which statement by the client indicates understanding of the discharge teaching?",
    "options": [
-    "“I'll keep two auto-injectors with me at all times.”",
-    "“I can inject it through my jeans into the outer thigh.”",
-    "“If the shot works and I feel better, I won't need to go to the emergency department.”",
-    "“I'll wear a medical alert bracelet that lists my peanut allergy.”"
+    "“I'll wear closed shoes outside and keep my drinks covered at picnics.”",
+    "“My next sting will probably be milder because my body has reacted once.”",
+    "“I can take an antihistamine before yard work instead of carrying epinephrine.”",
+    "“I only need to carry my auto-injector during the warm summer months.”"
    ],
-   "answer": 2,
+   "answer": 0,
    "optionRationales": [
-    "Correct practice. A second dose may be needed if symptoms persist or return.",
-    "Correct practice. Auto-injectors are designed to work through clothing into the anterolateral thigh.",
-    "Needs further teaching. Epinephrine wears off in about 10–20 minutes, and a biphasic reaction can recur hours later without re-exposure. The client must call 911 and be evaluated.",
-    "Correct practice. Medical identification speeds recognition and treatment."
+    "Correct. Avoiding exposure is the first line of prevention. Stinging insects nest in the ground and are drawn to open sweet drinks, so closed shoes and covered drinks lower the chance of another sting.",
+    "Needs further teaching. A client who has had a systemic reaction to a sting is at risk for an equally or more severe reaction with the next sting; the sensitivity does not fade after one reaction.",
+    "Needs further teaching. Antihistamines do not prevent or treat airway edema or shock. Epinephrine must be carried at all times.",
+    "Needs further teaching. Stings can happen in any season (indoors, during warm spells, or while traveling), so the auto-injector is carried at all times."
    ],
-   "rationale": "After using an auto-injector, the client must always call 911 or seek emergency care. Epinephrine is short-acting, and symptoms can return hours later (biphasic anaphylaxis) without another exposure to the allergen.",
-   "takeaway": "Epinephrine buys time; it is not the end of care. Always call 911.",
+   "rationale": "Prevention after insect-sting anaphylaxis combines avoiding triggers (closed shoes, covered drinks, avoiding perfumes and bright floral clothing outdoors, professional nest removal), carrying two epinephrine auto-injectors at all times, and allergist evaluation for venom immunotherapy, which greatly lowers the risk of future systemic reactions.",
+   "takeaway": "After sting anaphylaxis: avoid triggers, carry epinephrine always, and see an allergist.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "hintContent": "Recall how long epinephrine lasts and whether anaphylaxis symptoms can come back without another exposure.",
-   "hintStrategy": "This is a negatively worded item. Find the statement that is WRONG."
+   "hintContent": "Recall how avoiding triggers fits into health promotion for allergies and whether the risk of anaphylaxis fades after one reaction.",
+   "hintStrategy": "This item asks for a statement that shows understanding. Test each statement against what would keep the client safe at the next exposure."
   },
   {
    "id": "m10-012",
@@ -1129,26 +1129,67 @@
    "difficulty": 2,
    "ref": "Module 10 · Inflammation · Diagnostic Tests",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client with rheumatoid arthritis started a new disease-modifying drug 8 weeks ago. The C-reactive protein (CRP) was 4.2 mg/dL before treatment and is now 0.8 mg/dL. How should the nurse interpret this change?",
+   "stem": "A client with rheumatoid arthritis started a new disease-modifying drug 8 weeks ago. Refer to the Laboratory Results. How should the nurse interpret the change in the C-reactive protein (CRP)?",
    "options": [
-    "The client has developed an infection.",
     "The inflammation is decreasing, suggesting the treatment is effective.",
-    "The liver is being damaged by the new medication.",
-    "The client's risk of anaphylaxis has increased."
+    "The client has developed an infection that the drug is masking.",
+    "The liver is being damaged by the new medication and makes less CRP.",
+    "The client's risk of an allergic or anaphylactic reaction has increased."
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Infection would raise CRP, not lower it.",
-    "Correct. CRP is an acute-phase protein that falls quickly as inflammation subsides, which makes it useful for monitoring response to therapy.",
-    "CRP is made by the liver, but a falling CRP does not indicate liver injury. Liver enzymes would be checked for that.",
-    "CRP does not predict anaphylaxis."
+    "Correct. CRP is an acute-phase protein that falls quickly as inflammation subsides, which makes it useful for monitoring response to therapy. The ESR is falling more slowly, as expected.",
+    "Infection would raise CRP, not lower it, and the WBC is normal.",
+    "CRP is made by the liver, but a falling CRP does not indicate liver injury, and the ALT is unchanged and normal.",
+    "CRP does not predict allergic reactions or anaphylaxis."
    ],
    "rationale": "CRP is made by the liver in response to inflammatory cytokines (IL-6). It rises within hours and falls quickly when inflammation resolves, so serial values help evaluate treatment. A value below about 1.0 mg/dL is generally within normal limits.",
    "takeaway": "Falling CRP = cooling inflammation = treatment working.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "hintContent": "Remember how quickly CRP responds to changes in inflammation.",
-   "hintStrategy": "Look at the direction of change (before vs. after treatment) and decide what it says about the therapy."
+   "hintStrategy": "Look at the direction of change (before vs. after treatment) and decide what it says about the therapy.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Before treatment",
+        "Week 8",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "CRP",
+         "4.2 mg/dL",
+         "0.8 mg/dL",
+         "< 1.0 mg/dL"
+        ],
+        [
+         "ESR",
+         "46 mm/hr",
+         "24 mm/hr",
+         "0–20 mm/hr"
+        ],
+        [
+         "ALT",
+         "24 units/L",
+         "27 units/L",
+         "7–56 units/L"
+        ],
+        [
+         "WBC",
+         "8,100/mm³",
+         "7,400/mm³",
+         "5,000–10,000/mm³"
+        ]
+       ]
+      }
+     }
+    ]
+   }
   },
   {
    "id": "m10-015",
@@ -1187,10 +1228,10 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "The parent of an 8-year-old with influenza asks whether the child can take aspirin for fever and body aches. Which response by the nurse is best?",
    "options": [
-    "“Yes, use a children's dose of aspirin every 4 hours as needed.”",
+    "“Yes, give a children's dose of aspirin every 4 hours as needed for aches.”",
     "“Aspirin is fine as long as you give it with food to protect the stomach.”",
-    "“Alternate aspirin with ibuprofen to keep the fever down.”",
-    "“Aspirin should be avoided because it is linked to Reye syndrome in children with viral illnesses.”"
+    "“Alternate the aspirin with ibuprofen every 3 hours to keep the fever down.”",
+    "“Avoid aspirin; it is linked to Reye syndrome in children with viral illnesses.”"
    ],
    "answer": 3,
    "optionRationales": [
@@ -1243,10 +1284,10 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client has taken prednisone 40 mg daily for 4 weeks for an asthma flare. The client says, “I feel great now, so I'm going to stop the prednisone tomorrow.” Which response by the nurse is best?",
    "options": [
-    "“That's fine, since your symptoms have resolved.”",
-    "“Skip every other day for a week, then stop.”",
-    "“Stopping suddenly can cause a dangerous drop in your body's own steroid levels, so the dose must be tapered as prescribed.”",
-    "“You should take it until you finish the bottle, then stop.”"
+    "“That's fine, since your breathing symptoms have fully resolved now.”",
+    "“Skip every other day for a week, and then stop taking it completely.”",
+    "“Stopping suddenly is unsafe; the dose must be tapered as prescribed.”",
+    "“Keep taking it until you finish the bottle, and then you can stop.”"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1271,10 +1312,10 @@
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client with type 2 diabetes controlled with metformin is started on methylprednisolone for an acute gout flare. Which finding should the nurse anticipate and monitor for?",
    "options": [
-    "Hypoglycemia",
-    "Hyperkalemia",
-    "Bradycardia",
-    "Elevated blood glucose levels"
+    "Blood glucose below 70 mg/dL",
+    "Serum potassium above 5.0 mEq/L",
+    "Heart rate below 60 beats/min",
+    "Blood glucose above 180 mg/dL"
    ],
    "answer": 3,
    "optionRationales": [
@@ -1328,9 +1369,9 @@
    "stem": "An 84-year-old resident of a long-term care facility has a temperature of 37.1 °C (98.8 °F) and a urinalysis positive for leukocytes and nitrites. Which finding is the most likely indicator of infection in this client?",
    "options": [
     "New-onset confusion and agitation since yesterday",
-    "A chronic, dry, nonproductive cough",
-    "Mild ankle edema at the end of the day",
-    "A heart rate of 72 beats/min"
+    "A chronic, dry, nonproductive cough present for several years",
+    "Mild ankle edema that appears at the end of each day",
+    "A regular heart rate of 72 beats/min at rest"
    ],
    "answer": 0,
    "optionRationales": [
@@ -1344,7 +1385,7 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall how aging changes the fever response and the classic presentation of infection.",
-   "hintStrategy": "The temperature is normal on purpose. Look for the finding that is NEW rather than chronic or normal."
+   "hintStrategy": "Consider how aging changes the way infection presents, and compare each finding with what would be baseline for this client."
   },
   {
    "id": "m10-022",
@@ -1353,12 +1394,12 @@
    "difficulty": 2,
    "ref": "Module 10 · Inflammation · Health Promotion",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client with Crohn's disease asks which meal best fits an anti-inflammatory eating pattern. Which choice should the nurse recommend?",
+   "stem": "A client with rheumatoid arthritis asks which meal best fits an anti-inflammatory eating pattern. Which choice should the nurse recommend?",
    "options": [
-    "Fried chicken sandwich with fries and a soda",
+    "Fried chicken sandwich with french fries and a regular soda",
     "Grilled salmon with leafy greens, quinoa, and olive oil",
-    "Bacon cheeseburger with a milkshake",
-    "White pasta with cream sauce and sausage"
+    "Bacon cheeseburger on a white bun with a chocolate milkshake",
+    "White pasta with cream sauce and sliced Italian sausage"
    ],
    "answer": 1,
    "optionRationales": [
@@ -1367,7 +1408,7 @@
     "High in saturated fat and sugar, which are pro-inflammatory.",
     "Refined carbohydrates, saturated fat, and processed meat promote inflammation."
    ],
-   "rationale": "An anti-inflammatory diet emphasizes fruits, vegetables, whole grains, fish rich in omega-3 fatty acids, nuts, and olive oil, and limits fast food, sugar, saturated fat, and processed meats. Clients with IBD should also avoid their own identified trigger foods.",
+   "rationale": "An anti-inflammatory diet emphasizes fruits, vegetables, whole grains, fish rich in omega-3 fatty acids, nuts, and olive oil, and limits fast food, sugar, saturated fat, and processed meats. Clients with chronic inflammatory disease can also track and avoid their own trigger foods, with help from a dietitian.",
    "takeaway": "Fish, greens, whole grains, and olive oil calm inflammation.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
@@ -1456,7 +1497,7 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
    "hintContent": "Think about how a child's airway anatomy changes the impact of even small amounts of swelling.",
-   "hintStrategy": "Apply ABCs. Find the option that matches the most dangerous cue in the stem (hoarse cry and stridor)."
+   "hintStrategy": "Apply the ABCs to the cues in the stem and decide which body system is most immediately threatened."
   },
   {
    "id": "m10-026",
@@ -1692,13 +1733,12 @@
     "Family history of rheumatoid arthritis",
     "A diet high in fast food and sugar",
     "Advancing age",
-    "Sedentary lifestyle"
+    "A personal history of psoriasis"
    ],
    "answer": [
     0,
     1,
-    3,
-    5
+    3
    ],
    "optionRationales": [
     "Correct. Smoking promotes systemic inflammation and can be stopped.",
@@ -1706,9 +1746,9 @@
     "Family history and genetics are nonmodifiable.",
     "Correct. The Western diet is pro-inflammatory and can be changed.",
     "Age is nonmodifiable.",
-    "Correct. Regular exercise, including resistance training, lowers inflammatory markers."
+    "A diagnosis of a chronic inflammatory disease is nonmodifiable, although it can be managed."
    ],
-   "rationale": "Modifiable factors include smoking, weight, diet, activity, and control of hypertension and diabetes. Genetics, age, and family history cannot be changed but help identify clients who need screening.",
+   "rationale": "Modifiable factors include smoking, weight, diet, physical activity, and control of hypertension and diabetes. Genetics, age, family history, and existing chronic inflammatory diseases cannot be changed but help identify clients who need screening.",
    "takeaway": "You can change your habits, not your genes or your age.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
@@ -1728,29 +1768,28 @@
     "Establish large-bore IV access and give an isotonic fluid bolus as prescribed",
     "Place the client on continuous cardiac and SpO₂ monitoring",
     "Help the client walk to the bathroom to empty the bladder",
-    "Prepare a repeat dose of epinephrine if there is no improvement in 5–15 minutes",
+    "Wait at least 1 hour before giving any repeat dose of epinephrine",
     "Replace further epinephrine with oral diphenhydramine once the BP rises"
    ],
    "answer": [
     0,
     1,
-    2,
-    4
+    2
    ],
    "optionRationales": [
     "Correct. Hypoxemia requires supplemental oxygen.",
     "Correct. Capillary leak and vasodilation cause relative hypovolemia, which is treated with crystalloid.",
     "Correct. Epinephrine and shock both raise the risk of dysrhythmias.",
     "Standing or walking during anaphylactic shock can cause sudden cardiovascular collapse.",
-    "Correct. IM epinephrine may be repeated every 5–15 minutes for persistent symptoms.",
+    "IM epinephrine may be repeated every 5–15 minutes if symptoms persist; waiting an hour delays life-saving treatment.",
     "Antihistamines are adjuncts only and do not replace epinephrine for ongoing airway or circulatory symptoms."
    ],
-   "rationale": "After epinephrine, supportive care includes oxygen, IV fluids, positioning, continuous monitoring, and repeat epinephrine as needed. The client should stay recumbent, and antihistamines and steroids are secondary.",
+   "rationale": "After epinephrine, supportive care includes oxygen, IV fluids, recumbent positioning, and continuous monitoring. Epinephrine is repeated every 5–15 minutes if there is no improvement, the client stays recumbent, and antihistamines and steroids are only secondary.",
    "takeaway": "After epinephrine: O₂, fluids, monitor, stay flat, repeat epinephrine as needed.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Think about what else the client needs while epinephrine takes effect: oxygenation, volume, monitoring, and repeat doses.",
-   "hintStrategy": "Look for the options that would be unsafe during shock, including one that changes the client's position."
+   "hintStrategy": "Treat each option as true or false for a client who is still in shock. Ask whether it supports oxygenation, perfusion, and ongoing treatment."
   },
   {
    "id": "m10-034",
@@ -1793,23 +1832,23 @@
    "id": "m10-035",
    "type": "order",
    "topic": "anaphylaxis",
-   "difficulty": 3,
+   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client receiving IV cefazolin develops wheezing, facial swelling, and BP 80/50 mm Hg. Place the steps in the order the nurse should perform them.",
+   "stem": "A client who took amoxicillin 2 years ago without problems develops anaphylaxis 10 minutes after the first dose of a new amoxicillin prescription. The client asks why a reaction happened this time. To prepare the explanation, place the events in the order in which they occurred.",
    "options": [
-    "Stop the cefazolin infusion and keep the IV line open with normal saline",
-    "Call the rapid response team",
-    "Administer epinephrine IM into the anterolateral thigh as prescribed",
-    "Place the client supine with legs elevated and apply high-flow oxygen",
-    "Administer IV diphenhydramine as a prescribed adjunct"
+    "The first exposure led the immune system to make amoxicillin-specific IgE antibodies",
+    "The IgE antibodies attached to mast cells in the tissues",
+    "On re-exposure, amoxicillin bound to the IgE on the sensitized mast cells",
+    "Mast cells released histamine, leukotrienes, and other mediators",
+    "Widespread vasodilation, capillary leak, and bronchoconstriction developed"
    ],
-   "rationale": "The nurse first removes the trigger, then summons help and gives IM epinephrine without delay. Positioning and oxygen support perfusion and oxygenation. Antihistamines are adjuncts given only after epinephrine.",
-   "takeaway": "Stop it, call for help, epinephrine, position and O₂, then adjuncts.",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "hintContent": "Recall the sequence: remove the trigger, get help, first-line drug, supportive care, adjuncts.",
-   "hintStrategy": "Ask which step makes the others more effective, and put anything that is only an adjunct last."
+   "rationale": "Anaphylaxis is an IgE-mediated (type I) hypersensitivity reaction that requires prior sensitization. The first exposure causes no symptoms but primes mast cells with allergen-specific IgE. On re-exposure, the allergen cross-links IgE on the mast cells, which degranulate and release histamine, leukotrienes, prostaglandins, and other mediators. These cause vasodilation, capillary leak, and bronchoconstriction within minutes, which is why an earlier uneventful course does not rule out an allergy.",
+   "takeaway": "Sensitize → IgE on mast cells → re-exposure → degranulation → vasodilation, leak, bronchospasm.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall why an allergic reaction usually does not occur on the first exposure and which cells release the mediators of anaphylaxis.",
+   "hintStrategy": "Anchor the first event (the earlier exposure) and the last event (the symptoms the client developed), then fill in the immune steps that connect them."
   },
   {
    "id": "m10-036",
@@ -1921,16 +1960,16 @@
    "id": "m10-040",
    "type": "matrix",
    "topic": "classic-signs",
-   "difficulty": 3,
+   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Alterations & Manifestations",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client with a sprained left ankle is 24 hours into treatment with an elastic wrap and elevation. For each finding, indicate whether it is expected or unexpected.",
+   "stem": "The nurse gives a client a tetanus, diphtheria, and acellular pertussis (Tdap) vaccine IM in the left deltoid and reviews what the client may experience. For each finding, indicate whether it is an expected response or an unexpected response that requires follow-up.",
    "rows": [
-    "Warmth over the lateral ankle",
-    "Localized swelling around the joint",
-    "Numbness and tingling in the left toes",
-    "Pain with weight bearing",
-    "Capillary refill of 5 seconds in the left toes"
+    "Redness and 2 cm of firm swelling at the injection site the next day",
+    "Soreness in the deltoid when the client lifts the arm",
+    "Hives, wheezing, and throat tightness 10 minutes after the injection",
+    "Temperature 37.8 °C (100.0 °F) and mild fatigue the evening of the injection",
+    "Increasing pain and redness on day 4 with a fluctuant area draining pus"
    ],
    "columns": [
     "Expected",
@@ -1944,18 +1983,18 @@
     1
    ],
    "optionRationales": [
-    "Expected: heat comes from local vasodilation.",
-    "Expected: swelling comes from increased capillary permeability.",
-    "Unexpected: paresthesia suggests nerve compression from edema or a tight wrap.",
-    "Expected: pain and loss of function are cardinal signs.",
-    "Unexpected: delayed capillary refill indicates impaired distal perfusion."
+    "Expected: a local inflammatory response (redness and swelling from vasodilation and capillary leak) is common at the injection site for 1–3 days.",
+    "Expected: pain and temporary loss of function at the site are cardinal signs of local inflammation.",
+    "Unexpected: hives, wheezing, and throat tightness within minutes of the injection indicate anaphylaxis and require epinephrine.",
+    "Expected: mild, short-lived systemic effects such as low-grade fever and fatigue reflect cytokine release and resolve within a day or two.",
+    "Unexpected: local signs that worsen after several days with a fluctuant, draining area suggest an injection-site abscess (infection), not an expected response."
    ],
-   "rationale": "The cardinal signs at the injury site are expected. Neurovascular changes distal to the injury (paresthesia, pallor, delayed capillary refill) indicate compromise and need prompt action: loosen the wrap, elevate, and notify the provider.",
-   "takeaway": "Signs at the site are expected; neurovascular changes distal to it are unexpected.",
+   "rationale": "Vaccines deliberately trigger a small inflammatory response. Local redness, swelling, soreness, and a brief low-grade fever are expected and are managed with cool compresses and an antipyretic if needed. A reaction within minutes that involves the skin and airway is anaphylaxis, and local signs that worsen after several days with purulent drainage suggest infection; both require follow-up.",
+   "takeaway": "Mild local signs and low-grade fever after a vaccine are expected; rapid multisystem signs or a worsening, draining site are not.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Remember the difference between the cardinal signs at an injury site and neurovascular signs distal to it.",
-   "hintStrategy": "For each row, ask whether it is caused by the injury itself or by compromised circulation or nerves."
+   "hintContent": "Recall the local and mild systemic signs of an expected inflammatory response, and how timing and course help separate expected from dangerous findings.",
+   "hintStrategy": "For each row, look at when the finding appears and whether it is getting better or worse over time."
   },
   {
    "id": "m10-041",
@@ -2092,46 +2131,46 @@
    "id": "m10-044",
    "type": "dropdown",
    "topic": "pharmacology",
-   "difficulty": 3,
+   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A 78-year-old client taking daily ibuprofen for knee pain reports dizziness. Hemoglobin has dropped from 12.9 to 9.8 g/dL, and stool is black. Complete the sentence.",
-   "template": "The nurse should recognize that the client's {0} most likely indicate {1}, so the nurse should {2}.",
+   "stem": "A 34-year-old client with persistent asthma is prescribed inhaled fluticasone 110 mcg, 2 puffs twice daily. Complete the sentence.",
+   "template": "The nurse teaches the client that this medication works by {0}. After each dose, the client should {1} to prevent {2}.",
    "blanks": [
     {
      "options": [
-      "knee pain and stiffness",
-      "black stool and falling hemoglobin",
-      "age and gender",
-      "dizziness alone"
+      "relaxing bronchial smooth muscle within minutes",
+      "reducing airway inflammation over days to weeks",
+      "blocking histamine receptors in the nose",
+      "killing bacteria in the airways"
      ],
      "answer": 1
     },
     {
      "options": [
-      "upper GI bleeding",
-      "acetaminophen toxicity",
-      "iron supplementation",
-      "Reye syndrome"
+      "drink a full glass of milk",
+      "hold the breath for 60 seconds",
+      "rinse the mouth with water and spit",
+      "use the rescue inhaler right away"
      ],
-     "answer": 0
+     "answer": 2
     },
     {
      "options": [
-      "give the ibuprofen with milk",
-      "switch to aspirin",
-      "hold the ibuprofen and notify the provider",
-      "encourage ambulation to prevent stiffness"
+      "adrenal crisis",
+      "oral candidiasis (thrush)",
+      "tooth discoloration",
+      "rebound bronchospasm"
      ],
-     "answer": 2
+     "answer": 1
     }
    ],
-   "rationale": "NSAIDs reduce protective prostaglandins in the gastric mucosa, and older adults are at highest risk of GI bleeding. Melena with a falling hemoglobin and dizziness suggests blood loss that needs the drug held and urgent evaluation. Aspirin would also increase bleeding.",
-   "takeaway": "Older adult on an NSAID with melena and a falling hemoglobin = GI bleed. Hold the drug and report.",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pharmacology",
-   "hintContent": "Remember the GI effects of NSAIDs in older adults and what melena means.",
-   "hintStrategy": "Pick the cues that best support one diagnosis, then choose the action that stops further harm."
+   "rationale": "Inhaled corticosteroids are the preferred long-term controller for persistent asthma. They suppress inflammatory mediator production and the recruitment of inflammatory cells in the airway, so benefit builds over days to weeks; they do not relieve acute bronchospasm (a short-acting beta-agonist does). Some of each dose deposits in the mouth and throat, so rinsing and spitting after each use lowers the risk of oral candidiasis and hoarseness. Systemic effects such as adrenal suppression are much less likely than with oral steroids.",
+   "takeaway": "Inhaled steroids calm airway inflammation over time; rinse and spit to prevent thrush.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall how corticosteroids act on inflammation and where inhaled medication is deposited besides the lungs.",
+   "hintStrategy": "Decide first whether this is a controller or a rescue drug; the teaching point and the complication it prevents should fit that choice."
   },
   {
    "id": "m10-045",

@@ -330,8 +330,8 @@ window.NURSE_DATA.push({
       ],
       "answer": [
         0,
-        1,
         2,
+        1,
         1
       ],
       "optionRationales": [
@@ -1409,9 +1409,9 @@ window.NURSE_DATA.push({
       "focus": "Prioritization",
       "stem": "The nurse on a medical-surgical unit is reviewing four assigned clients. Which client is at greatest risk for developing a pressure injury?",
       "options": [
-        "A 45-year-old with a casted wrist fracture who walks independently and eats all meals",
+        "A 45-year-old with a casted wrist fracture who walks independently and eats 100% of every meal",
         "A 29-year-old with a new T4 spinal cord injury, fever of 38.9 °C (102 °F), and bowel incontinence",
-        "A 70-year-old with heart failure who walks in the hall three times daily and is continent",
+        "A 70-year-old with heart failure who walks in the hall three times daily and is continent of urine",
         "A 62-year-old with diabetes who sits in a chair most of the day and shifts position independently"
       ],
       "answer": 1,
@@ -1424,7 +1424,7 @@ window.NURSE_DATA.push({
       "rationale": "Risk is greatest when multiple factors combine: diminished sensation (cannot feel warning signs), immobility, excess body heat, and moisture. The client with an acute spinal cord injury has all of these; the others have one factor or none and can protect themselves.",
       "takeaway": "Count risk factors: no sensation + no movement + heat + moisture = highest risk.",
       "hintContent": "Recall the slide list of risk factors: immobility, nutrition, incontinence, mental status, sensation, body heat, age, and chronic disease.",
-      "hintStrategy": "Tally the risk factors for each client; the one who cannot feel or relieve pressure himself is a strong clue."
+      "hintStrategy": "Tally the risk factors for each client and weigh them: one factor offset by intact sensation and independent movement carries less risk than several factors acting together."
     },
     {
       "id": "m21e-014",
@@ -1543,10 +1543,10 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "stem": "A client on bed rest has a Stage 2 pressure injury on the sacrum and an area of nonblanchable erythema over the right greater trochanter. The nurse is about to turn the client off the back. Which position is most appropriate?",
       "options": [
-        "Left side-lying at 90° with the top leg extended over the bottom leg",
+        "Left side-lying at 90° with the top leg resting directly on the bottom leg",
         "Supine with the head of the bed at 45° and the knees gatched for comfort",
         "Left 30° lateral tilt with pillows behind the back and between the knees",
-        "Right 30° lateral tilt so the client can face the door and call light"
+        "Right 30° lateral tilt so the client can face the door and reach the call light"
       ],
       "answer": 2,
       "optionRationales": [
@@ -1623,7 +1623,7 @@ window.NURSE_DATA.push({
       "rationale": "Prophylactic foam dressings reduce shear and friction over the sacrum and heels, but injuries can develop beneath them. The skin must be inspected regularly by lifting the dressing, and repositioning and other prevention measures continue.",
       "takeaway": "Prophylactic foam: peel back and look — the dressing is not a substitute for assessment or turning.",
       "hintContent": "Recall how often skin under prophylactic dressings must be assessed and what the dressing does and does not do.",
-      "hintStrategy": "This item asks which action is WRONG. Three options are safe practice; find the one that skips an assessment."
+      "hintStrategy": "This item asks which action is unsafe. For each option, ask whether the nurse can still see the skin beneath the dressing and whether other prevention measures remain in place."
     },
     {
       "id": "m21e-020",
@@ -2077,7 +2077,7 @@ window.NURSE_DATA.push({
       "rationale": "RNs retain initial assessment, staging of new findings, care planning, teaching plans, and evaluation. LPNs can perform established procedures (such as ordered dressing changes) for stable clients, collect data, and reinforce teaching.",
       "takeaway": "LPN: established procedures on stable clients. RN: assess, stage new findings, plan, teach, evaluate.",
       "hintContent": "Recall the scope of practice differences between RN and LPN for assessment, planning, and procedures.",
-      "hintStrategy": "Look for verbs in the options: ‘assess,’ ‘develop,’ and ‘determine’ usually belong to the RN."
+      "hintStrategy": "For each option, ask whether the client situation is new or already established and stable, and whether the task requires interpreting data or creating a plan."
     },
     {
       "id": "m21e-034",
@@ -2334,7 +2334,7 @@ window.NURSE_DATA.push({
       "rationale": "Enzymatic (chemical) debridement uses collagenase to break down necrotic tissue. Its activity is inhibited by heavy metal ions such as silver and by iodine-containing products, so these should not be used in the same wound. The nurse clarifies the dressing plan with the provider or wound care nurse.",
       "takeaway": "Collagenase + silver or iodine = inactivated enzyme.",
       "hintContent": "Recall how enzymatic debridement works and which dressing ingredients interfere with enzymes.",
-      "hintStrategy": "Three options describe correct technique. Look for the one that creates a drug–product interaction."
+      "hintStrategy": "Consider how every product that will touch the wound bed could interact with the prescribed ointment, not only how the ointment itself is applied."
     },
     {
       "id": "m21e-041",

@@ -1161,7 +1161,7 @@ window.NURSE_DATA.push({
       "rationale": "Heat (calor) results from increased blood flow to an inflamed site. The nurse assesses it with the back of the hand, which is most sensitive to temperature, and compares it with the same area on the opposite side, because 'warm' is only meaningful relative to the client's normal.",
       "takeaway": "Check warmth with the back of the hand and compare with the other side.",
       "hintContent": "Recall which part of the hand is most sensitive to temperature and why bilateral comparison matters.",
-      "hintStrategy": "Look for the option that gives an objective, comparative assessment."
+      "hintStrategy": "Judge each technique for accuracy and objectivity. A useful assessment produces a finding you can interpret against a reference point."
     },
     {
       "id": "m10c-015",
@@ -1232,17 +1232,17 @@ window.NURSE_DATA.push({
       "options": [
         "Yes, heart muscle fully regenerates within 6 to 8 weeks with rest.",
         "New muscle cells from your bone marrow will replace the damaged area.",
-        "The damaged area heals as scar that does not contract.",
+        "The damaged area heals as scar tissue that does not pump.",
         "It will regenerate if you take an anti-inflammatory medicine daily."
       ],
       "answer": 2,
       "optionRationales": [
         "Incorrect: cardiac muscle has very limited ability to regenerate.",
         "Incorrect: bone marrow cells do not replace infarcted myocardium in clinical practice.",
-        "Correct: tissues with limited regeneration, such as cardiac muscle, heal by scar (cicatrix), which is firm but nonfunctional.",
+        "Correct: tissues with limited regeneration, such as cardiac muscle, heal by scar (cicatrix), which is firm but cannot contract like muscle.",
         "Incorrect: anti-inflammatory drugs do not cause regeneration, and NSAIDs are generally avoided after MI."
       ],
-      "rationale": "In the reparative phase, tissue is either regenerated or replaced by scar. Skin, GI and respiratory mucosa, bone, and marrow regenerate readily. Cardiac muscle, CNS neurons, and elastic tissue have limited or no regeneration and heal by scar, which does not contract. This explains why cardiac rehabilitation focuses on strengthening the remaining muscle.",
+      "rationale": "In the reparative phase, tissue is either regenerated or replaced by scar. Skin, GI and respiratory mucosa, bone, and marrow regenerate readily. Cardiac muscle, CNS neurons, and elastic tissue have limited or no regeneration and heal by scar, which cannot contract like cardiac muscle. This explains why cardiac rehabilitation focuses on strengthening the remaining muscle.",
       "takeaway": "Heart muscle heals by scar, not regeneration.",
       "hintContent": "Recall which tissues regenerate quickly and which heal by scar formation.",
       "hintStrategy": "Choose the answer that is both accurate and honest; avoid options that offer false reassurance."
@@ -1307,29 +1307,29 @@ window.NURSE_DATA.push({
       "id": "m10c-020",
       "type": "mcq",
       "topic": "mediators",
-      "ref": "Module 10 · Inflammation · Chemical Mediators",
       "difficulty": 3,
+      "ref": "Module 10 · Inflammation · Chemical Mediators",
       "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
       "cjmm": "Prioritize Hypotheses",
       "focus": "Pharmacology",
-      "stem": "A 70-year-old client with heart failure takes lisinopril and furosemide. Ten days ago the client began taking ibuprofen 800 mg three times daily for knee pain. Today the client's weight is up 2.3 kg (5 lb), there is 2+ ankle edema, and serum creatinine has risen from 1.0 to 1.8 mg/dL. Which explanation best accounts for these changes?",
+      "stem": "A 42-year-old client with asthma and chronic nasal polyps takes aspirin 650 mg PO for a headache. Within 1 hour, the client has nasal congestion, wheezing, and chest tightness. There are no hives. Which explanation best accounts for this reaction?",
       "options": [
-        "The knee inflammation has become systemic and is damaging the kidneys",
-        "Lisinopril has caused an allergic reaction that is affecting the kidneys",
-        "Furosemide has lost effectiveness, so a higher dose is needed",
-        "Ibuprofen blocked prostaglandins, lowering renal blood flow"
+        "Aspirin triggered IgE antibodies that released histamine from mast cells",
+        "Aspirin blocked the breakdown of bradykinin, which narrowed the airways",
+        "Aspirin irritated the throat directly as the tablet dissolved on the way down",
+        "Aspirin blocked COX, shifting the pathway toward leukotriene production"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect: localized knee arthritis does not cause acute kidney injury and fluid retention.",
-        "Incorrect: lisinopril was already being taken; the new change is the NSAID.",
-        "Incorrect: the diuretic's effect is being blunted by the NSAID; simply increasing the dose ignores the cause.",
-        "Correct: prostaglandins dilate the renal afferent arterioles; blocking them reduces glomerular filtration and promotes sodium and water retention, especially with an ACE inhibitor and diuretic."
+        "Incorrect: this reaction is not IgE mediated; it results from how aspirin changes arachidonic acid metabolism, and it also occurs with other NSAIDs that inhibit COX-1.",
+        "Incorrect: accumulation of bradykinin is the mechanism of ACE inhibitor cough and angioedema, not aspirin reactions.",
+        "Incorrect: local irritation does not cause nasal congestion and wheezing throughout the airway within an hour.",
+        "Correct: when COX is blocked, arachidonic acid is shunted to the lipoxygenase pathway, raising leukotrienes that cause bronchoconstriction and nasal congestion in susceptible clients (aspirin-exacerbated respiratory disease)."
       ],
-      "rationale": "Prostaglandins cause pain and fever at an inflamed site, but they also maintain renal blood flow and protect the gastric mucosa. NSAIDs block their synthesis everywhere. In older adults and clients with heart failure taking ACE inhibitors and diuretics (the 'triple whammy'), NSAIDs can cause acute kidney injury and fluid retention that worsens heart failure. The nurse should hold the NSAID and notify the provider.",
-      "takeaway": "NSAIDs block the prostaglandins that protect the kidneys and stomach.",
-      "hintContent": "Recall the protective roles of prostaglandins outside the inflamed site.",
-      "hintStrategy": "Look for what changed 10 days ago and link it to the new findings."
+      "rationale": "Arachidonic acid from cell membranes is converted by COX into prostaglandins and by lipoxygenase into leukotrienes. In aspirin-exacerbated respiratory disease (asthma, nasal polyps, and aspirin sensitivity), blocking COX-1 shifts metabolism toward leukotrienes, which cause bronchospasm, mucus production, and nasal congestion. The nurse assesses airway status and notifies the provider; the client should avoid aspirin and nonselective NSAIDs, and leukotriene modifiers are often part of treatment.",
+      "takeaway": "Asthma + nasal polyps + aspirin → leukotriene surge → bronchospasm.",
+      "hintContent": "Recall the two enzyme pathways that convert arachidonic acid into mediators and what happens to one pathway when the other is blocked.",
+      "hintStrategy": "Connect the drug to the mediator it changes, then match that mediator to the airway findings in the stem."
     },
     {
       "id": "m10c-021",
@@ -1419,57 +1419,57 @@ window.NURSE_DATA.push({
       "id": "m10c-024",
       "type": "mcq",
       "topic": "lifespan",
-      "ref": "Module 10 · Inflammation · Lifespan Considerations",
       "difficulty": 2,
-      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-      "cjmm": "Take Action",
-      "focus": "Pharmacology",
-      "stem": "A client at 26 weeks' gestation sprained an ankle and asks whether ibuprofen can be taken for the pain and swelling. Which response by the nurse is best?",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations – Pregnant Women",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "stem": "A client at 32 weeks' gestation has a BP of 152/98 mm Hg and 2+ proteinuria and is being monitored for preeclampsia, an inflammation-mediated disorder of the blood vessel lining. Which finding should the nurse report to the provider immediately?",
       "options": [
-        "Ibuprofen is safe after the first trimester if you follow the label.",
-        "Use acetaminophen instead; ibuprofen can reduce amniotic fluid now.",
-        "Take ibuprofen only at bedtime to limit how much reaches the baby.",
-        "Aspirin is a safer anti-inflammatory choice than ibuprofen now."
+        "Mild swelling of both ankles that improves after a night's rest",
+        "Severe headache with spots in the vision despite acetaminophen",
+        "Needing to urinate more often than before the pregnancy began",
+        "A dull lower back ache after standing at work for several hours"
       ],
       "answer": 1,
       "optionRationales": [
-        "Incorrect: NSAIDs should be avoided at 20 weeks or later.",
-        "Correct: NSAIDs at 20 weeks or later can impair fetal kidney function and cause low amniotic fluid; in the third trimester, they can cause premature closure of the ductus arteriosus. Acetaminophen is the preferred analgesic.",
-        "Incorrect: timing the dose does not remove the fetal risk.",
-        "Incorrect: aspirin is also an NSAID, and analgesic doses carry the same risks; low-dose aspirin is used only when prescribed for specific indications."
+        "Incorrect: dependent ankle edema that resolves with rest is common in the third trimester and is not a severe feature.",
+        "Correct: a severe, persistent headache and visual disturbances are severe features of preeclampsia that signal cerebral vasospasm and edema and a risk of eclamptic seizures.",
+        "Incorrect: urinary frequency is common in late pregnancy as the uterus presses on the bladder.",
+        "Incorrect: low back ache is a common discomfort of pregnancy from postural changes."
       ],
-      "rationale": "Prostaglandins help regulate fetal renal blood flow and keep the ductus arteriosus open. The FDA advises avoiding NSAIDs at 20 weeks of pregnancy or later because of the risk of fetal kidney problems and oligohydramnios. Acetaminophen, plus rest, ice, and elevation, is the preferred approach for a pregnant client with a sprain.",
-      "takeaway": "Pregnant at 20 weeks or more: avoid NSAIDs; use acetaminophen.",
-      "hintContent": "Recall what prostaglandins do for the fetus and what happens when NSAIDs block them.",
-      "hintStrategy": "Consider the gestational age given in the stem before judging each option."
+      "rationale": "Pregnancy alters the immune and inflammatory response. In preeclampsia, placental factors trigger widespread inflammation and endothelial dysfunction, causing vasospasm, hypertension, and capillary leak. Severe features include a new, persistent headache, visual disturbances, right upper quadrant or epigastric pain, SBP ≥ 160 or DBP ≥ 110 mm Hg, low platelets, pulmonary edema, and rising creatinine. They require immediate provider notification because of the risk of eclampsia, stroke, and placental abruption.",
+      "takeaway": "Preeclampsia plus headache or visual changes = severe feature; report now.",
+      "hintContent": "Recall how endothelial inflammation in preeclampsia affects the brain and other organs, and which discomforts are common in late pregnancy.",
+      "hintStrategy": "Separate the common discomforts of the third trimester from findings that suggest a target organ is being affected."
     },
     {
       "id": "m10c-025",
       "type": "mcq",
       "topic": "lifespan",
-      "ref": "Module 10 · Inflammation · Lifespan Considerations",
-      "difficulty": 1,
-      "clientNeed": "Health Promotion and Maintenance",
-      "cjmm": "Generate Solutions",
+      "difficulty": 2,
+      "ref": "Module 10 · Inflammation · Lifespan Considerations – Children & Adolescents",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "cjmm": "Take Action",
       "focus": "Lifespan & Diversity",
-      "stem": "A 76-year-old client with obesity and a high-sensitivity CRP of 4.1 mg/L asks what can be done to 'bring the inflammation down.' The client has no joint or heart disease that limits activity. Which recommendation by the nurse reflects current evidence?",
+      "stem": "The parent of a 5-week-old infant calls the pediatric clinic. The infant's rectal temperature is 38.2 °C (100.8 °F). The infant is feeding well and has had 6 wet diapers today. Which instruction by the nurse is best?",
       "options": [
-        "Limit activity to protect the joints from wear and tear",
-        "Take ibuprofen daily to keep the CRP level low",
-        "Do resistance training and eat a Mediterranean-style diet",
-        "Follow a high-protein diet built around processed meats"
+        "Give acetaminophen by weight and recheck the temperature in 4 hours",
+        "Give ibuprofen by weight and call back if the fever lasts 2 days",
+        "Bring the infant to be evaluated by a provider right away today",
+        "Sponge the infant with lukewarm water and keep monitoring at home"
       ],
       "answer": 2,
       "optionRationales": [
-        "Incorrect: inactivity increases inflammatory markers and frailty.",
-        "Incorrect: daily NSAIDs in older adults raise the risk of GI bleeding and kidney injury and are not a strategy for lowering CRP.",
-        "Correct: resistance exercise and an anti-inflammatory (Mediterranean-style) diet are associated with lower inflammatory markers in older adults.",
-        "Incorrect: processed meats are part of a pro-inflammatory Western diet."
+        "Incorrect: an antipyretic can mask the fever without addressing its cause; any fever in an infant this young needs prompt in-person evaluation first.",
+        "Incorrect: ibuprofen is not recommended for infants younger than 6 months, and waiting 2 days could let a serious infection progress.",
+        "Correct: a rectal temperature of 38.0 °C (100.4 °F) or higher in an infant younger than about 2 to 3 months needs same-day evaluation, because the immature immune system may not localize infection and serious bacterial infection can present with fever alone.",
+        "Incorrect: home cooling measures delay the evaluation this infant needs."
       ],
-      "rationale": "Older adults often have chronic low-grade inflammation ('inflammaging') with elevated CRP, IL-6, and TNF-α, which is linked to frailty, comorbidity, and hospitalization. Modifiable factors include weight, activity, smoking, and diet. Resistance training plus a diet rich in vegetables, fruit, fish, whole grains, and olive oil can lower inflammatory markers.",
-      "takeaway": "Move, lift, and eat Mediterranean to fight inflammaging.",
-      "hintContent": "Recall the modifiable risk factors for chronic inflammation and what reduces inflammaging.",
-      "hintStrategy": "Choose the option that is safe for an older adult and targets a modifiable cause."
+      "rationale": "Young infants have immature immune and inflammatory responses. They may not show localized signs of infection, and serious bacterial infections (urinary tract infection, bacteremia, meningitis) can present with fever as the only sign. A temperature of 38.0 °C (100.4 °F) or higher in an infant younger than about 2 to 3 months requires prompt provider evaluation, often with blood, urine, and possibly spinal fluid testing, even if the infant is feeding well.",
+      "takeaway": "Fever in an infant under 2–3 months = evaluate now, even if feeding well.",
+      "hintContent": "Recall how an infant's immune system responds to infection and why fever carries a different meaning at this age.",
+      "hintStrategy": "Note the infant's age before judging the options. Ask what could be missed if care is delayed."
     },
     {
       "id": "m10c-026",
@@ -1483,9 +1483,9 @@ window.NURSE_DATA.push({
       "stem": "A 4-year-old who has not received recommended vaccinations is brought to the emergency department with a sudden high fever, drooling, a muffled voice, and inspiratory stridor. The child is sitting upright and leaning forward on the hands. Which action should the nurse take first?",
       "options": [
         "Keep the child calm and upright on the caregiver's lap",
-        "Examine the throat with a tongue blade and a penlight",
-        "Obtain a throat culture before antibiotics are given",
-        "Place the child supine to start a peripheral IV"
+        "Examine the throat with a tongue blade and a penlight to assess swelling",
+        "Obtain a throat culture swab before the first antibiotic dose is given",
+        "Place the child supine on the stretcher to start a peripheral IV"
       ],
       "answer": 0,
       "optionRationales": [
@@ -1503,29 +1503,29 @@ window.NURSE_DATA.push({
       "id": "m10c-027",
       "type": "mcq",
       "topic": "inflammation-overview",
-      "ref": "Module 10 · Inflammation · What Inflammation Is (and Isn't)",
       "difficulty": 3,
+      "ref": "Module 10 · Inflammation · What Inflammation Is (and Isn't)",
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
       "cjmm": "Prioritize Hypotheses",
-      "focus": "Pathophysiology",
-      "stem": "A client with appendicitis awaiting surgery has had right lower quadrant pain rated 8/10. The client suddenly says the pain 'just went away.' One hour later, the client has diffuse abdominal pain, a rigid abdomen, T 39.3 °C (102.7 °F), and HR 122/min. Which condition should the nurse suspect?",
+      "focus": "Prioritization",
+      "stem": "A client who had Campylobacter gastroenteritis 2 weeks ago is admitted with tingling in both feet and weakness that has spread from the ankles to the thighs over 3 days. Deep tendon reflexes are absent in both legs. The provider suspects Guillain-Barré syndrome, an autoimmune inflammation of the peripheral nerves. Which complication is the nurse's highest priority to monitor for?",
       "options": [
-        "Resolution of the inflammation as the appendix heals",
-        "An adverse reaction to the opioid given for pain",
-        "Anxiety about surgery causing abdominal muscle tension",
-        "Perforation with spreading peritonitis"
+        "Recurrent diarrhea from reinfection with the same organism",
+        "Pressure injury over the sacrum from reduced mobility",
+        "Joint deformity from ongoing inflammation of the synovium",
+        "Respiratory muscle weakness with a falling vital capacity"
       ],
       "answer": 3,
       "optionRationales": [
-        "Incorrect: an inflamed appendix does not heal on its own this way; new diffuse pain and fever argue against resolution.",
-        "Incorrect: opioids do not cause a rigid abdomen, high fever, and tachycardia.",
-        "Incorrect: anxiety does not cause fever or a board-like abdomen.",
-        "Correct: sudden relief occurs as pressure is released when the appendix ruptures; spreading peritonitis then causes diffuse pain, rigidity, and systemic inflammation."
+        "Incorrect: the gastroenteritis has resolved; the current problem is an immune attack on nerves, not ongoing infection.",
+        "Incorrect: preventing pressure injury matters with immobility, but it is not the life-threatening risk.",
+        "Incorrect: synovial inflammation with deformity describes rheumatoid arthritis, not Guillain-Barré syndrome.",
+        "Correct: ascending paralysis can reach the diaphragm and intercostal muscles; a falling vital capacity signals impending respiratory failure that may require intubation."
       ],
-      "rationale": "An '-itis' confined to one organ can become generalized when the organ ruptures. Sudden relief of appendicitis pain followed by diffuse pain, rigidity, fever, and tachycardia indicates perforation with peritonitis, which can progress to sepsis. The nurse notifies the provider immediately and prepares for emergency surgery and IV antibiotics.",
-      "takeaway": "Sudden relief of appendix pain followed by a rigid abdomen means rupture.",
-      "hintContent": "Recall what happens to pressure in an inflamed, obstructed organ if its wall gives way.",
-      "hintStrategy": "Look at the sequence of cues, not a single cue. What explains both the sudden relief and the later findings?"
+      "rationale": "Inflammation becomes harmful when the immune response is misdirected at the body's own tissue. In Guillain-Barré syndrome, often triggered by a recent infection such as Campylobacter, antibodies and inflammatory cells attack peripheral nerve myelin, causing ascending weakness and absent reflexes. Breathing is the priority: the nurse monitors vital capacity, respiratory effort, SpO₂, and the ability to cough and swallow, because a substantial number of clients need mechanical ventilation.",
+      "takeaway": "Guillain-Barré is harmful autoimmune inflammation; ascending weakness means watch breathing first.",
+      "hintContent": "Recall how an immune response can turn against the body's own tissue and which muscles become involved as ascending weakness progresses.",
+      "hintStrategy": "Apply the ABCs to the direction the weakness is traveling. Which complication would threaten life first?"
     },
     {
       "id": "m10c-028",
@@ -2070,13 +2070,13 @@ window.NURSE_DATA.push({
       "id": "m10c-044",
       "type": "dropdown",
       "topic": "acute-chronic",
-      "ref": "Module 10 · Inflammation · Acute vs. Chronic Inflammation",
       "difficulty": 2,
+      "ref": "Module 10 · Inflammation · Acute vs. Chronic Inflammation",
       "clientNeed": "Physiological Integrity: Physiological Adaptation",
       "cjmm": "Analyze Cues",
       "focus": "Pathophysiology",
-      "stem": "A 60-year-old client has had rheumatoid arthritis for 15 years. Imaging shows erosion of the cartilage and bone in several finger joints, and the client can no longer open jars. Complete the sentence by choosing from the lists of options.",
-      "template": "The client's joint changes reflect {0} inflammation, which is dominated by {1} and leads to {2}.",
+      "stem": "A 64-year-old client with a 40 pack-year smoking history has chronic obstructive pulmonary disease (COPD), with a daily productive cough and dyspnea that has slowly worsened over 6 years. Complete the sentence by choosing from the lists of options.",
+      "template": "The client's airway changes reflect {0} inflammation that is sustained by {1}, and the nurse's most effective intervention to slow its progression is {2}.",
       "blanks": [
         {
           "options": [
@@ -2088,62 +2088,72 @@ window.NURSE_DATA.push({
         },
         {
           "options": [
-            "neutrophils",
-            "platelets",
-            "lymphocytes and macrophages",
-            "red blood cells"
+            "a single episode of bacterial bronchitis",
+            "an IgE reaction to seasonal pollen",
+            "ongoing exposure to cigarette smoke",
+            "normal age-related lung changes"
           ],
           "answer": 2
         },
         {
           "options": [
-            "complete resolution once the trigger is removed",
-            "tissue destruction and fibrosis with loss of function",
-            "purulent exudate within hours",
-            "regeneration of normal cartilage"
+            "supporting smoking cessation",
+            "a 7-day course of antibiotics",
+            "scheduling daily NSAIDs",
+            "restricting daily fluid intake"
           ],
-          "answer": 1
+          "answer": 0
         }
       ],
-      "rationale": "Chronic inflammation lasts months to years and is dominated by lymphocytes, macrophages, and plasma cells. It causes simultaneous tissue destruction and attempted repair with fibrosis, so function is progressively lost. Acute inflammation is neutrophil driven, rapid, and usually resolves once the cause is removed.",
-      "takeaway": "Chronic inflammation: lymphocytes and macrophages, destruction plus fibrosis.",
-      "hintContent": "Recall the dominant cell types and tissue outcomes of acute versus chronic inflammation.",
-      "hintStrategy": "Use the duration in the stem to decide the first blank; the other blanks must be consistent with it."
+      "rationale": "Chronic inflammation lasts months to years and can develop from persistent exposure to an irritant without a preceding acute episode. In COPD, cigarette smoke continually activates macrophages and neutrophils in the airways, causing mucus hypersecretion, airway remodeling with fibrosis, and destruction of alveolar walls. Removing the trigger is the key to prevention: smoking cessation is the intervention shown to slow the decline in lung function. Antibiotics treat acute exacerbations, not the chronic process.",
+      "takeaway": "COPD is chronic inflammation from a persistent irritant; remove the trigger (smoking) to slow it.",
+      "hintContent": "Recall what distinguishes chronic from acute inflammation and why identifying the trigger of chronic inflammation matters for prevention.",
+      "hintStrategy": "Use the time course in the stem for the first blank; the cause and the intervention you choose should be consistent with it."
     },
     {
       "id": "m10c-045",
       "type": "dropdown",
-      "topic": "mediators",
-      "ref": "Module 10 · Inflammation · Chemical Mediators",
-      "difficulty": 3,
+      "topic": "assessment-diagnostics",
+      "difficulty": 2,
+      "ref": "Module 10 · Inflammation · Screening & Diagnostic Tests",
       "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-      "cjmm": "Evaluate Outcomes",
-      "focus": "Assessment Findings",
-      "stem": "A client with bacterial pneumonia started IV antibiotics 48 hours ago. On admission, CRP was 18.4 mg/dL and ESR was 64 mm/hr. Today, CRP is 7.2 mg/dL, ESR is 70 mm/hr, and T is 37.3 °C (99.1 °F). Complete the sentence by choosing from the lists of options.",
-      "template": "These results suggest the inflammation is {0}; the ESR has not fallen because it {1}.",
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "stem": "A client with seasonal allergic rhinitis who takes cetirizine 10 mg daily is scheduled for allergy skin-prick testing next week. Complete the sentence by choosing from the lists of options.",
+      "template": "The nurse instructs the client to {0} because antihistamines {1}. During the testing, the nurse keeps {2} immediately available.",
       "blanks": [
         {
           "options": [
-            "worsening despite antibiotics",
-            "improving with treatment",
-            "unchanged since admission"
+            "take an extra cetirizine dose the night before",
+            "stop the cetirizine several days before the test as directed",
+            "take the cetirizine the morning of the test",
+            "double the cetirizine dose for 3 days before the test"
           ],
           "answer": 1
         },
         {
           "options": [
-            "responds more slowly to changes in inflammation than CRP",
-            "rises only when a bacterial infection is spreading",
-            "measures the number of white blood cells in the blood",
-            "is falsely raised by the antibiotic"
+            "can block the wheal-and-flare response and cause false-negative results",
+            "make the skin more sensitive and cause false-positive results",
+            "react chemically with the allergen extracts",
+            "are needed to prevent a reaction to the test"
           ],
           "answer": 0
+        },
+        {
+          "options": [
+            "naloxone",
+            "epinephrine",
+            "atropine",
+            "flumazenil"
+          ],
+          "answer": 1
         }
       ],
-      "rationale": "CRP is an acute-phase protein made by the liver in response to IL-6. It rises within about 6–8 hours, peaks around 48 hours, and has a short half-life (about 19 hours), so it falls quickly when inflammation resolves. The ESR changes slowly over days to weeks. A falling CRP with resolving fever indicates improvement, even though the ESR lags behind.",
-      "takeaway": "Trend CRP for a quick read on treatment response; ESR lags.",
-      "hintContent": "Recall how quickly CRP and ESR rise and fall after inflammation begins or resolves.",
-      "hintStrategy": "Look at which marker changed and in which direction, then ask which marker you would trust for a 48-hour trend."
+      "rationale": "Skin testing identifies allergens so the client can avoid triggers, a key health-promotion strategy for allergies. Antihistamines block the histamine-mediated wheal and flare, so they are usually stopped for several days (commonly about 5–7 days for second-generation drugs such as cetirizine) before testing, as directed by the allergist. Because the client is deliberately exposed to allergens, a systemic reaction is possible, so epinephrine and emergency equipment must be immediately available.",
+      "takeaway": "Hold antihistamines before skin testing; keep epinephrine ready.",
+      "hintContent": "Recall which mediator produces the wheal and flare of a positive skin test and what an antihistamine does to it.",
+      "hintStrategy": "Complete the first two blanks together (the instruction and its reason must match), then consider the worst possible reaction to a deliberate allergen exposure."
     }
   ]
 });

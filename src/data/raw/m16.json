@@ -1111,57 +1111,57 @@
    "id": "m16-001",
    "type": "mcq",
    "topic": "cardiac-anatomy",
-   "ref": "Module 16 · Perfusion · Cardiac Anatomy & Circulation",
+   "ref": "Module 16 · Perfusion · Cardiac Anatomy & Circulation · Fetal Remnants",
    "difficulty": 3,
-   "cjmm": "Prioritize Hypotheses",
+   "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall which coronary artery feeds the main pumping wall of the left ventricle and which artery feeds the SA and AV nodes in most people.",
-   "hintStrategy": "Link the vessel to the territory it perfuses, then to the complication that territory produces. Eliminate options tied to a different artery.",
+   "hintContent": "Recall the normal path of venous blood from the legs, and which fetal opening between heart chambers may fail to close after birth.",
+   "hintStrategy": "Trace the route blood normally takes from the leg to the lungs, then ask which option describes a shortcut that would let a clot skip the lungs.",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 58-year-old client is admitted to the cardiac unit after an MI caused by a 95% occlusion of the left anterior descending (LAD) artery. Current vital signs are BP 104/66, P 98, RR 20, SpO₂ 95% on room air. Based on the vessel involved, which complication should the nurse monitor for most closely?",
+   "stem": "A 38-year-old client who was treated for a left femoral deep vein thrombosis 2 days ago develops sudden right-sided arm weakness and slurred speech. A bubble-contrast echocardiogram shows a patent foramen ovale. The client's spouse asks how a clot in the leg could reach the brain. Which explanation by the nurse is accurate?",
    "options": [
-    "New crackles, S3, and falling BP indicating left ventricular pump failure",
-    "Sudden bradycardia and heart block from sinoatrial and AV node ischemia",
-    "Jugular venous distention with clear lungs from right ventricular infarction",
-    "Unilateral leg swelling from venous stasis during bed rest"
+    "The clot passed through the lungs, which filter only large clots out of venous blood.",
+    "The clot traveled from the leg veins directly into the carotid arteries of the neck.",
+    "The clot crossed an opening between the upper heart chambers, bypassing the lungs.",
+    "The clot formed a new clot on the mitral valve, which then broke off toward the brain."
    ],
-   "answer": 0,
+   "answer": 2,
    "optionRationales": [
-    "Correct. The LAD supplies the anterior LV wall, the anterior two-thirds of the septum, and the apex — the main pumping muscle — so an LAD occlusion places the client at high risk for left ventricular failure and cardiogenic shock.",
-    "The SA and AV nodes are supplied mainly by the right coronary artery; bradycardia and heart block are classically linked to inferior (RCA) MIs.",
-    "Right ventricular infarction (JVD with clear lungs, hypotension) is associated with RCA occlusion.",
-    "DVT is a general risk of immobility, but it is not the complication most directly linked to the vessel involved."
+    "Incorrect. Venous clots that reach the pulmonary arteries lodge there as a pulmonary embolism; the pulmonary capillary bed normally keeps them from reaching the left heart.",
+    "Incorrect. Leg veins drain to the inferior vena cava and right atrium; there is no direct venous connection to the carotid arteries.",
+    "Correct. A patent foramen ovale is a persistent fetal opening between the right and left atria. When right atrial pressure briefly exceeds left (e.g., coughing or straining), a venous clot can cross to the left heart and travel to the brain — a paradoxical embolism.",
+    "Incorrect. Mitral valve thrombi are associated with atrial fibrillation, endocarditis, or prosthetic valves; this client's source is the leg DVT."
    ],
-   "rationale": "The left main coronary artery divides into the LAD and circumflex. The LAD perfuses the anterior LV and septum, the main pumping muscle. Blockage can cause a large anterior MI with a high risk of heart failure and cardiogenic shock, so the nurse watches closely for crackles, an S3, hypotension, and falling urine output. Inferior (RCA) MIs are the ones associated with bradycardia, heart blocks, and RV infarction.",
-   "takeaway": "LAD = anterior LV + septum ('widow-maker'); RCA = inferior wall and the SA/AV nodes."
+   "rationale": "Venous blood normally flows from the leg through the IVC, right atrium, right ventricle, and pulmonary artery, so venous clots lodge in the lungs. The foramen ovale lets blood bypass the lungs in the fetus and normally closes after birth, but it stays patent in about 1 in 4 adults. A clot can then pass from the right atrium to the left atrium and into the systemic arteries (paradoxical embolism), causing stroke in a young client with a DVT.",
+   "takeaway": "Venous clot + stroke in a young client → think paradoxical embolism through a patent foramen ovale."
   },
   {
    "id": "m16-002",
    "type": "mcq",
    "topic": "heart-sounds",
-   "ref": "Module 16 · Perfusion · Heart Sounds & Cardiac Auscultation",
-   "difficulty": 1,
-   "cjmm": "Recognize Cues",
+   "ref": "Module 16 · Perfusion · Heart Sounds & Cardiac Assessment · Point of Maximal Impulse",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Think about where the apex of the heart (the point of maximal impulse) sits on the chest wall.",
-   "hintStrategy": "Use the mnemonic APE To Man and move from the base of the heart toward the apex.",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client with heart failure has gained 2 kg (4.4 lb) in 3 days. The nurse wants to auscultate the mitral area with the bell to listen for an S3. Where should the nurse place the stethoscope?",
+   "hintContent": "Recall the normal location and size of the apical impulse and which chamber forms the apex of the heart.",
+   "hintStrategy": "Compare the location and width described in the stem with the normal landmark, then ask which chamber change would move the impulse in that direction.",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 66-year-old client with long-standing heart failure with reduced ejection fraction is having a cardiac assessment. The nurse palpates the point of maximal impulse (PMI) at the 6th intercostal space, left anterior axillary line; it is diffuse and about 4 cm wide. How should the nurse interpret this finding?",
    "options": [
-    "2nd intercostal space, right sternal border",
-    "5th intercostal space, left midclavicular line",
-    "3rd intercostal space, left sternal border",
-    "2nd intercostal space, left sternal border"
+    "It is the expected location of the apical impulse in an adult over 60",
+    "It suggests an enlarged, dilated left ventricle that has shifted the apex",
+    "It suggests right ventricular hypertrophy from chronic lung disease",
+    "It indicates the stethoscope should be moved to the right sternal border"
    ],
    "answer": 1,
    "optionRationales": [
-    "This is the aortic area, where S2 is loudest.",
-    "Correct. The mitral area is at the apex (PMI), 5th ICS left midclavicular line, where S1 is loudest and S3/S4 are best heard.",
-    "This is Erb's point, where both S1 and S2 can be heard.",
-    "This is the pulmonic area, where physiologic splitting of S2 is best heard."
+    "Incorrect. The normal PMI is at the 5th ICS, left midclavicular line, and is about 1–2 cm wide at any adult age.",
+    "Correct. Left ventricular dilation (cardiomegaly), common in HFrEF, displaces the apex downward and laterally and makes the impulse diffuse.",
+    "Incorrect. Right ventricular enlargement causes a lift or heave along the left sternal border, not a lateral shift of the apex.",
+    "Incorrect. The PMI is palpated, not auscultated; the finding itself has clinical meaning that should be documented and reported."
    ],
-   "rationale": "Use 'APE To Man': Aortic (2nd ICS RSB), Pulmonic (2nd ICS LSB), Erb's (3rd ICS LSB), Tricuspid (4th–5th ICS LLSB), Mitral (5th ICS left MCL). The mitral area corresponds to the apex of the heart.",
-   "takeaway": "Mitral = apex = 5th ICS, left midclavicular line."
+   "rationale": "The PMI reflects the left ventricular apex tapping the chest wall and is normally a small (1–2 cm) impulse at the 5th ICS, left midclavicular line. A PMI displaced laterally and downward, or wider than about 2.5–3 cm, suggests left ventricular enlargement, as seen in dilated cardiomyopathy and HFrEF. Right ventricular enlargement produces a parasternal heave instead.",
+   "takeaway": "PMI shifted down and to the left and diffuse = enlarged left ventricle."
   },
   {
    "id": "m16-003",
@@ -1335,57 +1335,57 @@
    "id": "m16-009",
    "type": "mcq",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure Assessment",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Irregular Rhythms",
    "difficulty": 3,
-   "cjmm": "Generate Solutions",
-   "focus": "Delegation & Safety",
-   "hintContent": "Review the conditions that make a limb unsafe for BP measurement and how long the risk after lymph node removal lasts.",
-   "hintStrategy": "Evaluate each arm against the contraindications first; if both are ruled out, consider what alternate site remains.",
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "stem": "A client had a left mastectomy with axillary lymph node dissection 2 years ago and now has an IV infusing into the right forearm. Which site is most appropriate for the nurse to measure the client's blood pressure?",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall how an oscillometric BP device calculates pressure and what an irregular rhythm does to beat-to-beat stroke volume.",
+   "hintStrategy": "Before acting on the numbers, ask whether the equipment can measure accurately in this rhythm; compare the readings with the client's clinical appearance.",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client with new atrial fibrillation has an irregularly irregular apical rate of 118/min. Over 10 minutes, the automated (oscillometric) monitor has displayed BPs of 142/88, 96/50, and 128/74, and one reading failed. The client is alert and reports no dizziness. Which action should the nurse take?",
    "options": [
-    "Popliteal artery using a thigh cuff",
-    "Left brachial artery, because the surgery was 2 years ago",
-    "Right brachial artery with the IV temporarily paused",
-    "Left radial artery using a wrist cuff"
+    "Measure the BP manually by auscultation and average several readings",
+    "Record the lowest reading, because it reflects the client's true perfusion",
+    "Switch the automated cuff to the other arm and repeat it every 2 minutes",
+    "Notify the provider that the client's BP has become dangerously labile"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Both arms have contraindications, so the thigh (popliteal artery) with an appropriately sized thigh cuff is the alternative site.",
-    "The risk of lymphedema after axillary node removal is lifelong; avoid BP cuffs on that arm regardless of time since surgery.",
-    "Inflating a cuff over an infusing IV can damage the vein, interrupt the infusion, and cause infiltration; pausing the IV does not remove these risks.",
-    "Any compression on the arm on the side of node dissection should be avoided, including a wrist cuff."
+    "Correct. Oscillometric devices estimate BP from pulse waveforms and are inaccurate with irregular rhythms; auscultation, repeated and averaged, gives a more reliable value.",
+    "Incorrect. With an irregular rhythm, single automated values are unreliable in either direction; choosing the lowest value is arbitrary.",
+    "Incorrect. Changing arms does not solve the problem, because the irregular rhythm itself distorts the oscillometric algorithm; frequent cycling also causes venous congestion.",
+    "Incorrect. The variation is most likely a measurement error; the nurse verifies the BP accurately before reporting an unconfirmed pattern."
    ],
-   "rationale": "BP should not be measured on a limb with an IV infusion, AV fistula, cast or injury, or on the side of breast/axillary surgery with lymph node removal. The thigh is the alternative; expect thigh SBP to be somewhat higher than the arm.",
-   "takeaway": "Both arms off-limits → use the thigh with a thigh-sized cuff."
+   "rationale": "In atrial fibrillation, beat-to-beat stroke volume varies, so automated oscillometric devices may give widely varying or failed readings. The nurse verifies BP manually by auscultation, repeats the measurement several times, and averages the results before acting. The alert, asymptomatic client supports that the variation reflects the device rather than true instability.",
+   "takeaway": "Irregular rhythm + erratic automated BPs → measure manually and average several readings."
   },
   {
    "id": "m16-010",
    "type": "mcq",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure Assessment",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Auscultatory Gap",
    "difficulty": 2,
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall what an auscultatory gap is and which clients are prone to it.",
-   "hintStrategy": "Ask which option guarantees the cuff starts ABOVE the true systolic pressure.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall which Korotkoff phases define systolic and diastolic pressure in adults and what an auscultatory gap is.",
+   "hintStrategy": "Map each number in the stem to a Korotkoff event (first sound, temporary silence, return, final silence) before looking at the options.",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client with long-standing hypertension is having BP measured by auscultation. Which action by the nurse best prevents recording an inaccurate reading caused by an auscultatory gap?",
+   "stem": "A 78-year-old client with long-standing hypertension has a palpated systolic estimate of 186 mm Hg. After inflating the cuff to 216 mm Hg, the nurse hears the first tapping sounds at 184 mm Hg. The sounds disappear at 166 mm Hg, reappear at 148 mm Hg, and disappear completely at 86 mm Hg. How should the nurse record this BP?",
    "options": [
-    "Deflate the cuff at 5–6 mm Hg per second to shorten the measurement",
-    "Palpate the brachial pulse while inflating and then inflate 30 mm Hg above where it disappears",
-    "Record the point at which sounds become muffled as the systolic pressure",
-    "Inflate the cuff to 140 mm Hg for every client, then deflate slowly"
+    "148/86, because the sounds that returned were the clearest",
+    "184/86, noting an auscultatory gap from 166 to 148 mm Hg",
+    "184/166, because the first silence marks the diastolic value",
+    "166/86, averaging the first sound and the start of the gap"
    ],
    "answer": 1,
    "optionRationales": [
-    "Deflating too quickly causes underestimation of SBP and overestimation of DBP.",
-    "Correct. Estimating SBP by palpation ensures the cuff is inflated above the true systolic pressure so the first Korotkoff sound is not missed in the gap.",
-    "Muffling is phase IV and relates to diastolic pressure in some clients, not systolic.",
-    "A fixed inflation point may be below the true SBP of a hypertensive client, and the gap may be mistaken for the systolic value."
+    "Incorrect. Recording the return of sounds as systolic underestimates the SBP by 36 mm Hg — the exact error the palpated estimate is meant to prevent.",
+    "Correct. Systolic is the first sound (phase I) and diastolic is the final disappearance (phase V); the silent interval is an auscultatory gap and is documented.",
+    "Incorrect. The temporary silence is an auscultatory gap, not phase V; recording it as diastolic grossly overestimates the diastolic pressure.",
+    "Incorrect. BP values are not averaged from different Korotkoff phases; 166 is the start of the gap, not the systolic pressure."
    ],
-   "rationale": "An auscultatory gap is a temporary disappearance of Korotkoff sounds after phase I, common in hypertension and arterial stiffness. If the cuff is inflated only into the gap, the nurse records a falsely low SBP. The palpatory estimate prevents this.",
-   "takeaway": "Palpate first, then inflate 30 mm Hg above the point the pulse disappears."
+   "rationale": "An auscultatory gap is a temporary loss of Korotkoff sounds between phase I and phase V, common in older adults with hypertension and arterial stiffness. Because the palpated estimate guided inflation above the true systolic pressure, the nurse heard the true phase I at 184 mm Hg. The reading is recorded as SBP (first sound) over DBP (final disappearance), and the gap is noted so others inflate the cuff high enough.",
+   "takeaway": "Auscultatory gap: SBP = first sound, DBP = final silence; document the gap."
   },
   {
    "id": "m16-011",
@@ -1419,29 +1419,29 @@
    "id": "m16-012",
    "type": "mcq",
    "topic": "blood-pressure",
-   "ref": "Module 16 · Perfusion · Blood Pressure Assessment",
+   "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Orthostatic Vital Signs",
    "difficulty": 2,
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the numeric criteria for orthostatic hypotension and the time frame for measurement.",
-   "hintStrategy": "Do the math: calculate the change in SBP, DBP, and pulse, then compare to the criteria.",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client receiving furosemide reports dizziness when getting out of bed. The nurse obtains these vital signs: supine BP 128/78, P 76; standing at 3 minutes BP 104/70, P 98. Which interpretation is correct?",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall what happens to venous return and cerebral perfusion when a volume-depleted client stands up.",
+   "hintStrategy": "The stem asks what to do FIRST. Decide whether the client is safe right now before choosing any data-gathering or notification step.",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A client receiving furosemide reports dizziness when getting out of bed, and the nurse is measuring orthostatic vital signs. Supine readings were BP 128/78, P 76. After 1 minute of standing, the client grips the bedrail, turns pale, and says, \"Everything is going gray.\" Which action should the nurse take first?",
    "options": [
-    "The findings are within normal limits for a position change.",
-    "Only the pulse change is significant; the BP drop is expected.",
-    "The findings cannot be interpreted without a sitting reading.",
-    "The findings meet criteria for orthostatic hypotension."
+    "Hold the client steady and finish the 3-minute standing reading",
+    "Give the client a glass of water to drink before continuing",
+    "Call for the provider to evaluate for orthostatic hypotension",
+    "Help the client sit or lie back down on the bed right away"
    ],
    "answer": 3,
    "optionRationales": [
-    "A 24 mm Hg SBP drop with symptoms is not a normal response to standing.",
-    "The SBP drop of 24 mm Hg itself meets criteria; the pulse increase of 22 bpm supports volume depletion.",
-    "Supine and standing readings are sufficient; a sitting reading is optional and used when the client cannot stand safely.",
-    "Correct. A drop of ≥20 mm Hg systolic or ≥10 mm Hg diastolic within 3 minutes of standing is orthostatic hypotension; the diuretic and compensatory tachycardia suggest volume depletion."
+    "Incorrect. Completing the measurement is less important than preventing a fall and syncope; the test is stopped when the client becomes symptomatic.",
+    "Incorrect. Oral fluid does not act quickly enough and is unsafe to give a client who may lose consciousness.",
+    "Incorrect. The provider should be informed, but the client is about to faint and must be made safe first.",
+    "Correct. Pallor and graying vision signal impending syncope from reduced cerebral perfusion. Lowering the client restores venous return and prevents a fall; the nurse then measures the BP and documents the symptoms."
    ],
-   "rationale": "Orthostatic hypotension is SBP ↓ ≥20 or DBP ↓ ≥10 mm Hg within 3 minutes of standing. Diuretics, antihypertensives, dehydration, bleeding, and prolonged bed rest are common causes. The nurse should implement fall precautions and notify the provider.",
-   "takeaway": "Orthostatic = SBP ↓ ≥20 or DBP ↓ ≥10 within 3 minutes of standing."
+   "rationale": "Orthostatic testing can itself provoke syncope. When a client becomes symptomatic (lightheadedness, visual dimming, pallor), the nurse stops the test and returns the client to a sitting or supine position to restore venous return and cerebral perfusion. Symptoms are documented as a positive finding, fall precautions are implemented, and the provider is notified, especially because the diuretic may be causing volume depletion.",
+   "takeaway": "Symptoms during orthostatic testing → stop and lower the client; safety beats finishing the numbers."
   },
   {
    "id": "m16-013",
@@ -1456,10 +1456,10 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "Two nurses assess a client with an irregular rhythm simultaneously for 1 minute. The apical rate is 110/min and the radial rate is 92/min. What is the best interpretation of this finding?",
    "options": [
-    "There is a pulse deficit of 18, meaning some contractions are not perfusing the periphery.",
-    "One of the nurses miscounted, because the rates should always be identical.",
-    "The client has a 2+ radial pulse and a normal apical rate.",
-    "The radial rate is the more accurate value and should be documented alone."
+    "There is a pulse deficit of 18, so some contractions are not perfusing the periphery.",
+    "One nurse likely miscounted, because the two rates should always be identical.",
+    "The client has a normal apical rate with a 2+ radial pulse of adequate volume.",
+    "The radial rate is the more accurate value and should be documented by itself."
    ],
    "answer": 0,
    "optionRationales": [
@@ -1512,10 +1512,10 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "With the head of the bed at 45°, the nurse observes the client's internal jugular vein pulsation 7 cm above the sternal angle. The client has 2+ pitting edema of both ankles. Which condition is most consistent with these findings?",
    "options": [
-    "Hypovolemia from inadequate oral intake",
-    "Peripheral arterial disease",
+    "Hypovolemia from several days of poor oral intake",
+    "Peripheral arterial disease of both lower legs",
     "Right-sided heart failure with fluid overload",
-    "Orthostatic hypotension"
+    "Orthostatic hypotension from antihypertensive therapy"
    ],
    "answer": 2,
    "optionRationales": [
@@ -1537,13 +1537,13 @@
    "focus": "Pharmacology",
    "hintContent": "Recall the final step of hemostasis — how the body normally removes a clot once healing occurs.",
    "hintStrategy": "Distinguish drugs that PREVENT clots from drugs that DISSOLVE clots; the daughter is asking how this drug restores flow.",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client with an acute ischemic stroke is receiving IV alteplase. The client's daughter asks the nurse, 'How is this medicine supposed to help my mom?' Which response by the nurse is most accurate?",
    "options": [
-    "It keeps platelets from sticking together so a new clot cannot form.",
-    "It blocks vitamin K so the liver makes fewer clotting factors.",
-    "It thins the blood so it can flow around the clot more easily.",
-    "It activates the body's own clot-dissolving enzyme, which breaks down the clot."
+    "It keeps platelets from sticking together so that a new clot cannot form.",
+    "It blocks vitamin K so the liver makes fewer of the factors that form clots.",
+    "It thins the blood so that blood can flow around the clot more easily.",
+    "It activates the body's own clot-dissolving enzyme to break down the clot."
    ],
    "answer": 3,
    "optionRationales": [
@@ -1568,10 +1568,10 @@
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "stem": "The nurse is reviewing clients who have prescriptions for sequential compression devices (SCDs). For which client should the nurse withhold the SCD and contact the provider?",
    "options": [
-    "A client on day 2 after hip replacement whose left calf is newly swollen, warm, and tender",
-    "A client on bed rest after a stroke who has intact skin and 2+ pedal pulses",
-    "A client receiving subcutaneous enoxaparin after abdominal surgery",
-    "A client who reports the sleeves feel warm and makes the legs sweat"
+    "A client 2 days after hip replacement whose left calf is newly swollen, warm, and tender",
+    "A client on bed rest after a stroke who has intact skin and 2+ pedal pulses bilaterally",
+    "A client receiving subcutaneous enoxaparin daily after an open abdominal surgery",
+    "A client who reports that the sleeves feel warm and make both legs sweat at night"
    ],
    "answer": 0,
    "optionRationales": [
@@ -1704,20 +1704,20 @@
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Recall the major complication associated with facial droop and slurred speech after stroke and what must happen before oral intake.",
-   "hintStrategy": "Consider whether any form of oral intake is safe yet; watch for options that only modify how the liquid is given.",
+   "hintStrategy": "Several options change HOW the fluid is given. First decide what must be known about his ability to protect his airway before the method matters.",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "stem": "B.E., 64, is being evaluated for an acute stroke; he has slurred speech and left facial droop. He tells the nurse he is very thirsty and asks for a cup of water. Which response by the nurse is most appropriate?",
    "options": [
     "Provide water through a straw so he can control the amount",
-    "Offer ice chips instead of water",
-    "Explain that he cannot have anything by mouth until his swallowing has been screened",
-    "Provide thickened water and have him sit upright"
+    "Offer a cup of ice chips instead of water to relieve thirst",
+    "Explain that he must stay NPO until a swallow screen is passed",
+    "Provide thickened water and have him sit fully upright"
    ],
-   "answer": 2,
+   "answer": 0,
    "optionRationales": [
-    "Straws increase the risk of aspiration in a client with possible dysphagia.",
-    "Ice chips are still oral intake and pose an aspiration risk before a swallow screen.",
     "Correct. Clients with suspected stroke remain NPO (including medications) until a bedside dysphagia screen is passed — a Class 1 recommendation — because aspiration pneumonia is a major complication.",
+    "Ice chips are still oral intake and pose an aspiration risk before a swallow screen.",
+    "Straws increase the risk of aspiration in a client with possible dysphagia.",
     "Thickened liquids are ordered after a swallow evaluation; they are not given before screening."
    ],
    "rationale": "Facial droop and slurred speech signal possible dysphagia. Aspiration pneumonia is a leading cause of complications after stroke, so the nurse keeps the client NPO and provides mouth care until swallowing is screened.",
@@ -1757,27 +1757,27 @@
    "topic": "perfusion-emergencies",
    "ref": "Module 16 · Perfusion · Case Study B.E. Part 3 · Hypertensive Emergency",
    "difficulty": 3,
-   "cjmm": "Generate Solutions",
+   "cjmm": "Evaluate Outcomes",
    "focus": "Pharmacology",
-   "hintContent": "Recall the recommended rate of BP reduction in a hypertensive emergency and why a recent stroke makes rapid lowering dangerous.",
-   "hintStrategy": "Beware of options that sound aggressive or complete. The goal in the first hour is controlled, partial reduction.",
+   "hintContent": "Calculate the percentage drop in systolic pressure, and recall why a recent stroke makes the brain vulnerable to rapid BP lowering.",
+   "hintStrategy": "This is an evaluate-outcomes item: compare both the BP change and the neurologic findings against the goals of therapy before choosing an action.",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "B.E., 64, is on day 4 after an ischemic stroke and is mechanically ventilated. His BP is 258/128 (confirmed on repeat), P 112, and pink frothy secretions are being suctioned. The provider prescribes a nicardipine infusion. Which BP goal should the nurse anticipate for the first hour of therapy?",
+   "stem": "B.E., 64, is on day 4 after a right-hemisphere ischemic stroke and is mechanically ventilated with pulmonary edema. A nicardipine infusion was started for a BP of 258/128. Forty-five minutes later, after two rate increases, his BP is 164/88 and HR 104. His sedation has not changed, but he no longer withdraws his right arm to stimulation as he did before, and his pupils are equal. Which action should the nurse take?",
    "options": [
-    "Normalize the BP to less than 120/80 within 30 minutes",
-    "Lower the SBP below 140 within 15 minutes to protect the brain",
-    "Reduce the BP by no more than about 25% within the first hour",
-    "Avoid lowering the BP until the pulmonary edema resolves"
+    "Increase the nicardipine rate again to reach a BP below 140/90",
+    "Give the PRN fentanyl, since pain explains his reduced response",
+    "Document the response as therapeutic and recheck the BP in 1 hour",
+    "Reduce the nicardipine rate per protocol and notify the provider"
    ],
-   "answer": 2,
+   "answer": 3,
    "optionRationales": [
-    "Rapid normalization can cause cerebral, coronary, and renal ischemia — especially dangerous in a client with a recent stroke.",
-    "An abrupt drop of this size risks extending the stroke by reducing cerebral perfusion.",
-    "Correct. In hypertensive emergency, BP is lowered in a controlled way — generally no more than 25% in the first hour, then to about 160/100–110 over the next 2–6 hours.",
-    "Severe hypertension is increasing afterload and driving the pulmonary edema; it must be treated promptly."
+    "Incorrect. BP is already well below the first-hour goal; further lowering would worsen cerebral ischemia.",
+    "Incorrect. An opioid would further depress his neurologic status and BP; pain does not explain a new loss of motor response.",
+    "Incorrect. A new neurologic change during rapid BP lowering is not a therapeutic outcome and requires immediate action.",
+    "Correct. SBP fell about 36% in 45 minutes — more than the ≤25% first-hour goal — and a new neurologic decline suggests cerebral hypoperfusion. The nurse reduces the infusion per the titration protocol and notifies the provider immediately."
    ],
-   "rationale": "B.E. has severe hypertension with acute target-organ damage (pulmonary edema) — a hypertensive emergency. Titratable IV agents in the ICU allow gradual, controlled lowering. The nurse also assesses and treats contributing factors such as pain and agitation (he grimaced during the sedation vacation).",
-   "takeaway": "Hypertensive emergency: lower BP ≤25% in the first hour — controlled, not crashed."
+   "rationale": "In a hypertensive emergency, BP is lowered in a controlled way — no more than about 25% in the first hour — because chronically hypertensive cerebral vessels have shifted their autoregulation to higher pressures. B.E.'s SBP has fallen from 258 to 164 (about 36%), and he has a new motor deficit on his previously stronger side, suggesting the brain is being underperfused. The nurse slows the titration per protocol, notifies the provider, and continues frequent neurologic checks.",
+   "takeaway": "Hypertensive emergency: >25% drop in hour 1 plus neuro decline = over-correction; back off and call."
   },
   {
    "id": "m16-025",
@@ -1812,28 +1812,28 @@
    "type": "mcq",
    "topic": "lifespan",
    "ref": "Module 16 · Perfusion · Lifespan Considerations · Infants and Children",
-   "difficulty": 1,
-   "cjmm": "Take Action",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Recall which pulse site is most accurate in infants and how long to count.",
-   "hintStrategy": "Two variables are being tested in each option: the technique AND the timing relative to the injections.",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse is obtaining vital signs on a 4-month-old infant before immunizations. Which technique for assessing the pulse is most appropriate?",
+   "hintContent": "Recall how pulses and BP normally compare between the arms and legs of an infant, and what an obstruction of the aorta would do downstream.",
+   "hintStrategy": "The stem asks what to do NEXT. Choose the assessment that gathers data to confirm the abnormal cue rather than one that dismisses it.",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "During a well-baby visit, the nurse palpates strong, bounding brachial pulses in a 4-month-old infant, but the femoral pulses are weak and delayed. The infant is feeding well and has no cyanosis. Which action should the nurse take next?",
    "options": [
-    "Auscultate the apical pulse for 1 full minute before giving the injections",
-    "Palpate the radial pulse for 30 seconds and multiply by 2",
-    "Palpate the carotid pulse for 15 seconds and multiply by 4",
-    "Auscultate the apical pulse for 30 seconds after giving the injections"
+    "Document the findings as normal for an infant's circulation",
+    "Reposition the infant prone and palpate the femoral pulses again",
+    "Measure the BP in an upper extremity and in a lower extremity",
+    "Tell the parents that femoral pulses are difficult to feel in infants"
    ],
-   "answer": 0,
+   "answer": 2,
    "optionRationales": [
-    "Correct. The apical pulse is used for infants and young children, counted for a full minute because infant rates are irregular, and taken before painful procedures that would raise the rate.",
-    "The radial pulse is difficult to palpate accurately in infants.",
-    "The carotid is not used for routine infant pulse assessment, and 15-second counts are inaccurate for infants.",
-    "Assessing after injections gives an artificially high rate from crying and pain."
+    "Incorrect. Upper and lower extremity pulses should be equal in strength; this discrepancy is abnormal.",
+    "Incorrect. Femoral pulses are assessed with the infant supine; repositioning prone does not clarify the finding.",
+    "Correct. Bounding arm pulses with weak, delayed femoral pulses suggest coarctation of the aorta. Comparing upper and lower extremity BPs (arm pressure higher than leg) supports the finding before the nurse reports it.",
+    "Incorrect. Femoral pulses are normally easy to palpate in infants; dismissing the finding offers false reassurance and delays diagnosis."
    ],
-   "rationale": "For infants and children up to about 2–3 years, the apical pulse is the most accurate. Counting for a full minute accounts for sinus arrhythmia, and assessing before uncomfortable procedures prevents falsely elevated values.",
-   "takeaway": "Infants: apical pulse, full minute, before anything that makes them cry."
+   "rationale": "In coarctation of the aorta, a narrowing distal to the arteries supplying the arms causes high pressure and bounding pulses in the upper extremities and decreased pressure with weak or delayed pulses in the lower extremities. Comparing upper and lower extremity BPs is part of the assessment; a higher arm pressure supports the finding, which the nurse reports for echocardiography.",
+   "takeaway": "Bounding arm pulses + weak femoral pulses in an infant → compare arm and leg BPs; think coarctation."
   },
   {
    "id": "m16-027",
@@ -1843,25 +1843,25 @@
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Recall how cardiac problems often present in older adults and whether the absence of chest pain rules out MI.",
-   "hintStrategy": "Before treating a behavior, look for the physiologic cause. Choose the option that assesses rather than labels.",
+   "hintContent": "Recall how aging and beta-adrenergic blockade change the heart rate response to low blood volume.",
+   "hintStrategy": "Compare each vital sign with the client's baseline and ask which medication in the history could change the expected compensatory pattern.",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "An 82-year-old client with a history of hypertension and coronary artery disease had 2 falls this week and is newly confused and agitated. The client denies chest pain. Temperature is 36.8 °C (98.2 °F). Which action should the nurse take first?",
+   "stem": "An 84-year-old client who takes metoprolol for hypertension is admitted after 2 episodes of black, tarry stool. Current vital signs: BP 102/64 (baseline 152/84), HR 78, RR 20, SpO₂ 96% on room air. The client reports feeling lightheaded when sitting up. Which interpretation should guide the nurse's plan?",
    "options": [
-    "Apply a bed alarm and document the falls in an incident report",
-    "Assess the apical pulse, BP (including orthostatic readings), and oxygen saturation",
-    "Reorient the client frequently and request a psychiatric consultation",
-    "Explain to the family that confusion is an expected part of aging"
+    "The beta-blocker may be blunting a compensatory rise in heart rate",
+    "The heart rate of 78 shows that the client has adequate circulating volume",
+    "The lightheadedness is an expected result of normal cardiovascular aging",
+    "The BP is within normal adult limits, so blood loss is probably minimal"
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Safety measures are important but do not identify the cause of the new change.",
-    "Correct. In older adults, falls, confusion, and agitation may be the first signs of a cardiac problem (MI, dysrhythmia, HF, or orthostatic hypotension). Assessing perfusion comes first.",
-    "Reorientation is supportive, but a physiologic cause must be ruled out before attributing the change to a psychiatric condition.",
-    "New confusion is never a normal part of aging and must be investigated."
+    "Correct. Beta-blockers and age-related decreased beta-receptor responsiveness blunt compensatory tachycardia, so hypovolemia may be significant despite a normal HR. The 50-mm Hg drop from baseline and symptoms indicate reduced perfusion.",
+    "Incorrect. A normal heart rate is not reassuring in a client whose ability to become tachycardic is blocked by medication.",
+    "Incorrect. New lightheadedness with a large BP drop is a symptom of reduced cerebral perfusion, not normal aging.",
+    "Incorrect. Compared with this client's baseline of 152/84, a BP of 102/64 represents relative hypotension."
    ],
-   "rationale": "Older adults often present atypically; the absence of chest pain does not exclude MI. The nurse assesses cardiovascular status to identify decreased perfusion or dysrhythmia before addressing the behavior itself.",
-   "takeaway": "New falls or confusion in an older adult → assess perfusion first; it may be the heart."
+   "rationale": "Older adults have reduced beta-adrenergic responsiveness, and beta-blockers further prevent the usual tachycardic response to blood loss. The nurse must therefore rely on other cues: the drop from baseline BP, orthostatic symptoms, mental status, skin, and urine output. Recognizing masked compensation allows early escalation for GI bleeding.",
+   "takeaway": "Older adult on a beta-blocker: a 'normal' heart rate can hide shock — compare BP with baseline."
   },
   {
    "id": "m16-028",
@@ -1898,7 +1898,7 @@
    "ref": "Module 16 · Perfusion · Stroke Recognition (BE-FAST)",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
-   "focus": "Client Teaching",
+   "focus": "Assessment Findings",
    "hintContent": "Recall the letters of BE-FAST and the importance of SUDDEN onset.",
    "hintStrategy": "Evaluate each option for two cues: is it neurologic, and is it sudden? Chronic or systemic complaints point elsewhere.",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
@@ -2005,38 +2005,37 @@
    "id": "m16-032",
    "type": "sata",
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Acute Pulmonary Edema",
+   "ref": "Module 16 · Perfusion · Pulmonary Embolism",
    "difficulty": 3,
-   "cjmm": "Generate Solutions",
+   "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall how preload contributes to pulmonary edema and which interventions reduce it.",
-   "hintStrategy": "For each option, ask: does this add volume/venous return to the lungs, or remove it?",
+   "hintContent": "Recall Virchow's triad after orthopedic surgery and the classic presentation of a clot that has traveled to the pulmonary arteries.",
+   "hintStrategy": "Identify the likely problem from the sudden onset and clear lungs, then judge each option by whether it improves oxygenation or risks more embolization.",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client with heart failure suddenly develops severe dyspnea, crackles throughout both lung fields, pink frothy sputum, and SpO₂ of 84%. Which interventions should the nurse anticipate? Select all that apply.",
+   "stem": "A client on postoperative day 3 after a total hip arthroplasty suddenly reports sharp chest pain that worsens with inspiration and says, \"I can't catch my breath.\" RR is 32, HR 124, BP 112/70, SpO₂ 86% on room air, and the client is anxious. Lungs are clear. Which actions should the nurse take? Select all that apply.",
    "options": [
-    "Position in high Fowler's with legs dependent",
-    "Administer high-flow oxygen and prepare for noninvasive ventilation",
-    "Administer IV furosemide as prescribed",
-    "Maintain strict intake and output",
-    "Place in Trendelenburg position to support BP",
-    "Administer a 500 mL normal saline bolus"
+    "Raise the head of the bed and apply supplemental oxygen",
+    "Stay with the client and activate the rapid response team",
+    "Place the client flat with the legs elevated on pillows",
+    "Massage the operative leg to check for a tender, firm calf",
+    "Prepare for a CT pulmonary angiogram and anticoagulation",
+    "Walk the client in the hall to improve lung expansion"
    ],
    "answer": [
     0,
     1,
-    2,
-    3
+    4
    ],
    "optionRationales": [
-    "Correct. Sitting upright with legs down reduces venous return (preload) and eases breathing.",
-    "Correct. Oxygenation is the immediate priority; NIPPV reduces preload and improves gas exchange.",
-    "Correct. A loop diuretic removes excess fluid and provides venodilation.",
-    "Correct. Accurate I&O evaluates diuretic response and fluid balance.",
-    "Head-down positioning increases venous return and worsens pulmonary congestion.",
-    "A fluid bolus adds volume and would worsen pulmonary edema."
+    "Correct. Upright positioning eases work of breathing, and oxygen treats hypoxemia.",
+    "Correct. Sudden hypoxemia and tachycardia after orthopedic surgery suggest pulmonary embolism; the nurse remains with the client and summons help.",
+    "Incorrect. Lying flat increases dyspnea; leg elevation does not treat PE.",
+    "Incorrect. Massaging the leg could dislodge additional thrombus.",
+    "Correct. CT pulmonary angiography confirms PE, and anticoagulation (or thrombolysis if unstable) is anticipated.",
+    "Incorrect. Ambulation increases oxygen demand in a hypoxemic client and could dislodge more clot."
    ],
-   "rationale": "Acute pulmonary edema is a medical emergency caused by elevated LV pressures that force fluid into the alveoli. Treatment reduces preload and afterload and supports oxygenation: upright positioning, oxygen/ventilatory support, diuretics, vasodilators, and close monitoring.",
-   "takeaway": "Pulmonary edema: sit up, legs down, O₂, diurese — never add fluid."
+   "rationale": "Sudden dyspnea, pleuritic chest pain, tachypnea, tachycardia, anxiety, and hypoxemia with clear lungs after hip surgery strongly suggest pulmonary embolism. The nurse supports oxygenation (HOB up, oxygen), stays with the client, calls the rapid response team, and prepares for diagnostic imaging and anticoagulation. Actions that increase oxygen demand or could dislodge more clot are avoided.",
+   "takeaway": "Post-op sudden dyspnea + pleuritic pain + hypoxemia + clear lungs → think PE: sit up, O₂, call for help, prepare for CTPA."
   },
   {
    "id": "m16-033",
@@ -2197,8 +2196,8 @@
     "Isolated systolic blood pressure of 148 mm Hg with a diastolic of 76 mm Hg",
     "Slight decrease in arterial PaO₂",
     "Increased anteroposterior chest diameter",
-    "PaCO₂ of 52 mm Hg",
-    "New fatigue that limits daily activities"
+    "PaCO₂ of 52 mm Hg on an arterial blood gas",
+    "New fatigue that now limits daily activities such as bathing"
    ],
    "answer": [
     0,
@@ -2343,41 +2342,41 @@
    "id": "m16-043",
    "type": "matrix",
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Heart Failure",
+   "ref": "Module 16 · Perfusion · Stroke · Hemispheric Deficits",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall where fluid accumulates when each ventricle fails.",
-   "hintStrategy": "For each finding, ask whether it involves the lungs or the systemic venous circulation.",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall that motor pathways cross and which hemisphere houses language in most people.",
+   "hintStrategy": "For each row, decide whether the finding is about the side of the body, language, or behavior, then match it to the hemisphere responsible.",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is reviewing assessment findings for clients with heart failure. For each finding, indicate whether it is more characteristic of left-sided or right-sided heart failure.",
+   "stem": "The nurse on a stroke unit is caring for two clients with ischemic strokes: one in the right cerebral hemisphere and one in the left cerebral hemisphere. For each finding, indicate the stroke location it is most consistent with.",
    "rows": [
-    "Orthopnea",
-    "Jugular venous distention",
-    "Crackles in the lung bases",
-    "Hepatomegaly and ascites",
-    "Dependent pitting edema"
+    "Weakness of the left arm and leg",
+    "Difficulty finding words and forming speech (expressive aphasia)",
+    "Ignores food on the left side of the meal tray",
+    "Impulsive; tries to get up alone and overestimates abilities",
+    "Slow, cautious behavior and frustration about deficits"
    ],
    "columns": [
-    "Left-sided HF",
-    "Right-sided HF"
+    "Right-hemisphere stroke",
+    "Left-hemisphere stroke"
    ],
    "answer": [
     0,
     1,
     0,
-    1,
+    0,
     1
    ],
    "optionRationales": [
-    "Left-sided: pulmonary congestion worsens when lying flat.",
-    "Right-sided: elevated right atrial pressure distends the neck veins.",
-    "Left-sided: blood backs up into the pulmonary circulation.",
-    "Right-sided: systemic venous congestion engorges the liver and causes ascites.",
-    "Right-sided: systemic venous congestion causes fluid to collect in dependent areas."
+    "Right hemisphere. Motor pathways cross, so a right-hemisphere stroke causes left-sided weakness.",
+    "Left hemisphere. Language centers (Broca's and Wernicke's areas) are in the left hemisphere in most people.",
+    "Right hemisphere. Unilateral neglect of the left side is a hallmark of right parietal involvement.",
+    "Right hemisphere. Impaired judgment, impulsivity, and poor insight increase fall risk after right-brain stroke.",
+    "Left hemisphere. Clients with left-brain strokes tend to be slow and cautious and are often aware of, and frustrated by, their deficits."
    ],
-   "rationale": "Left-sided HF impairs forward flow into the aorta and backs blood into the lungs. Right-sided HF backs blood into the systemic veins. Clients often have both, since left-sided failure is the most common cause of right-sided failure.",
-   "takeaway": "Left = lungs; Right = rest of the body."
+   "rationale": "Because motor tracts cross, a stroke causes weakness on the side opposite the lesion. Left-hemisphere strokes commonly cause right-sided weakness, aphasia, and slow, cautious behavior. Right-hemisphere strokes cause left-sided weakness, left neglect, spatial–perceptual deficits, and impulsivity with poor judgment — a major safety concern.",
+   "takeaway": "Right brain → left weakness, neglect, impulsive; left brain → right weakness, aphasia, cautious."
   },
   {
    "id": "m16-044",
@@ -2646,17 +2645,17 @@
    "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Recall the pediatric SBP estimation formulas and how children respond to severe hypoxemia compared with adults.",
-   "hintStrategy": "Plug the child's age into the formulas; then consider whether a falling heart rate in a hypoxic child is reassuring or ominous.",
-   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the pediatric SBP estimation formulas and when hypotension appears in a child with shock.",
+   "hintStrategy": "Plug the child's age into both formulas, then compare the new SBP with the lower limit you calculated.",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is caring for a 6-year-old child in the pediatric clinic. Complete the statement.",
-   "template": "Using the common estimate, the child's expected median systolic BP is about {0} mm Hg, and hypotension would be a systolic BP below about {1} mm Hg. If this child became hypoxemic and the heart rate began to fall, the nurse should recognize this as {2}.",
+   "template": "Using the common estimate, the child's expected median systolic BP is about {0} mm Hg, and hypotension would be a systolic BP below about {1} mm Hg. If this child's systolic BP were 78 mm Hg with a heart rate of 150/min after 2 days of vomiting, the nurse should recognize this as {2}.",
    "blanks": [
     {
      "options": [
-      "12",
+      "84",
       "102",
-      "80",
+      "114",
       "130"
      ],
      "answer": 1
@@ -2671,15 +2670,15 @@
     },
     {
      "options": [
-      "an expected compensatory response",
-      "an ominous sign of impending arrest",
-      "a sign of improving oxygenation"
+      "compensated shock with a normal BP for age",
+      "hypotensive (decompensated) shock",
+      "an expected finding in a crying child"
      ],
      "answer": 1
     }
    ],
-   "rationale": "For children aged 1–10, median SBP ≈ 90 + (2 × age) = 102 mm Hg, and the lower limit ≈ 70 + (2 × age) = 82 mm Hg. Children respond to severe hypoxemia with bradycardia, whereas adults become tachycardic; bradycardia in a hypoxemic child signals impending cardiopulmonary arrest.",
-   "takeaway": "Kids: SBP ≈ 90 + 2×age; hypoxemia + bradycardia = pre-arrest."
+   "rationale": "For children aged 1–10, median SBP ≈ 90 + (2 × age) = 102 mm Hg, and the lower limit ≈ 70 + (2 × age) = 82 mm Hg. An SBP of 78 is below that limit; with tachycardia after fluid losses, it indicates hypotensive (decompensated) shock. Children maintain BP through tachycardia and vasoconstriction until late, so hypotension is an ominous sign that requires immediate intervention.",
+   "takeaway": "Kids: SBP ≈ 90 + 2×age; below 70 + 2×age = hypotension — a late, ominous sign of shock."
   }
  ]
 }

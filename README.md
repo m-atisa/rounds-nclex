@@ -5,8 +5,9 @@ Study guides, flashcards, and NCLEX/NGN-style questions for **Module 10 Inflamma
 - **Learn** — textbook-depth topic guides with NCLEX pearls and red flags.
 - **Practice** — filter by module, topic, nursing skill, clinical-judgment step (NCSBN CJMM), format and difficulty. Content & strategy hints, instant rationales.
 - **Exam** — timed, no hints, flag & review, optional confidence rating. Report breaks performance down by question type, skill, topic and pace, and flags "right but shaky" answers (slow, unsure, or hinted).
-- **Questions** — searchable bank; every item shows its reference, e.g. `Module 21 · Tissue Integrity · Wound Classification`.
-- Progress is stored locally in the browser.
+- **675 questions** across all NCLEX/NGN formats — MCQ, SATA, ordered response, matrix, drop-down cloze, **highlight**, **bowtie** — plus **10 unfolding NGN case studies** with tabbed client charts (Nurses' Notes, Vitals, Labs, Orders). Every item was independently audited for NCLEX fidelity, accuracy, and cueing.
+- **Questions** — searchable bank (⌘K search anywhere); every item shows its reference, e.g. `Module 21 · Tissue Integrity · Wound Classification`.
+- Zoom control and light/dark theme. Progress is stored locally in the browser.
 
 ## Stack
 Vite + React 19 + TypeScript, Motion (animations), dnd-kit (ordered-response drag & drop), Zustand (persisted state), React Router (hash routing for static hosting), Vitest. Deployed to GitHub Pages by `.github/workflows/deploy.yml`.
