@@ -7,7 +7,7 @@
  "questions": [
   {
    "id": "m16d-001",
-   "type": "highlight",
+   "type": "sata",
    "caseId": "m16d-case-hf",
    "caseOrder": 1,
    "topic": "perfusion-emergencies",
@@ -16,6 +16,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall the signs of pulmonary and systemic congestion in a client who has stopped a diuretic.",
+   "hintStrategy": "Separate abnormal findings related to fluid status from normal or unrelated findings.",
    "exhibit": {
     "tabs": [
      {
@@ -84,34 +86,36 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse completes the admission assessment below. Click to highlight the findings that require follow-up by the nurse.",
-   "passage": "The client states, \"I {{ran out of my water pill 5 days ago}} and didn't want to bother anyone.\" Reports {{sleeping upright in a recliner for the past 3 nights}}. {{Alert and oriented ×4}}. Respirations labored at rest with {{SpO₂ 89% on room air}}. {{Crackles to the mid-lung fields bilaterally}}. {{Bowel sounds active in all 4 quadrants}}. {{Radial pulses 2+ and equal bilaterally}}. {{3+ pitting edema of both legs to the knees}}. Reports {{chronic arthritis pain in the hands, 2/10}}.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. During the admission assessment the client states, \"I ran out of my water pill 5 days ago and didn't want to bother anyone.\" Which findings require follow-up by the nurse? Select all that apply.",
+   "options": [
+    "Alert and oriented ×4",
+    "Sleeping upright in a recliner for the past 3 nights",
+    "SpO₂ of 89% on room air with labored respirations",
+    "Radial pulses 2+ and equal bilaterally",
+    "Crackles to the mid-lung fields bilaterally",
+    "3+ pitting edema of both legs to the knees"
+   ],
    "answer": [
-    0,
     1,
-    3,
+    2,
     4,
-    7
+    5
    ],
    "optionRationales": [
-    "Requires follow-up. Stopping the loop diuretic (plus a high-sodium meal) is the likely trigger for fluid retention and must be addressed in the plan and discharge teaching.",
-    "Requires follow-up. Needing to sleep upright is orthopnea — pulmonary congestion from left ventricular failure worsens when lying flat.",
-    "Does not require follow-up. Intact orientation is reassuring; confusion would suggest poor cerebral perfusion or hypoxemia.",
-    "Requires follow-up. An SpO₂ of 89% on room air is hypoxemia and is the most urgent finding.",
-    "Requires follow-up. Crackles extending to the mid-lung fields indicate alveolar fluid from pulmonary congestion.",
-    "Does not require follow-up. Active bowel sounds are a normal finding.",
-    "Does not require follow-up. Equal 2+ radial pulses indicate adequate peripheral arterial perfusion at this time.",
-    "Requires follow-up. Bilateral 3+ pitting edema to the knees reflects systemic venous congestion and fluid volume excess.",
-    "Does not require follow-up now. Chronic, mild, stable arthritis pain is not related to the acute problem."
+    "Incorrect. Full orientation is a normal finding.",
+    "Correct. Needing to sleep upright (orthopnea) indicates pulmonary congestion.",
+    "Correct. Hypoxemia with labored breathing at rest indicates impaired gas exchange from fluid in the lungs.",
+    "Incorrect. Equal 2+ radial pulses are a normal finding.",
+    "Correct. Crackles to the mid-lung fields indicate fluid in the alveoli.",
+    "Correct. Bilateral 3+ pitting edema indicates systemic fluid overload."
    ],
    "rationale": "Recognizing cues means separating abnormal, relevant data from expected or unrelated data. The missed diuretic, orthopnea, hypoxemia, crackles, and bilateral pitting edema all point to fluid overload with pulmonary and systemic congestion. Orientation, bowel sounds, equal radial pulses, and chronic mild arthritis pain are normal or unrelated to the acute problem.",
-   "takeaway": "In HF, cluster the cues: missed diuretic + sodium load + orthopnea + crackles + edema + low SpO₂ = decompensation.",
-   "hintContent": "Recall the findings of pulmonary congestion (fluid backing into the lungs) and systemic congestion (fluid backing into the body), and what commonly triggers worsening heart failure.",
-   "hintStrategy": "Highlight only the findings that are abnormal AND relevant to the client's current problem; normal or chronic, unrelated findings should be left unhighlighted."
+   "takeaway": "Missed diuretic + orthopnea + crackles + hypoxemia + edema = fluid overload."
   },
   {
    "id": "m16d-002",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "caseId": "m16d-case-hf",
    "caseOrder": 2,
    "topic": "perfusion-emergencies",
@@ -120,6 +124,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall what an S3 means in an older adult and what causes crackles that worsen lying flat.",
+   "hintStrategy": "Use the normal troponin, absence of fever, and lack of wheezing to rule out the other conditions.",
    "exhibit": {
     "tabs": [
      {
@@ -183,45 +189,27 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's findings are most consistent with {0}. The orthopnea and crackles primarily reflect {1}, and the S3 heart sound in this client indicates {2}.",
-   "blanks": [
-    {
-     "options": [
-      "acute decompensated heart failure",
-      "community-acquired pneumonia",
-      "acute coronary syndrome",
-      "exacerbation of COPD"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "narrowing of the airways from bronchospasm",
-      "fluid backing into the lungs from the failing left ventricle",
-      "infection filling the alveoli with pus",
-      "a clot blocking blood flow in a pulmonary artery"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "a stiff, hypertrophied atrium contracting forcefully",
-      "turbulent flow across a narrowed aortic valve",
-      "rapid filling into an overloaded, poorly contracting ventricle",
-      "friction between inflamed pericardial layers"
-     ],
-     "answer": 2
-    }
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The client has orthopnea, crackles, and an S3 heart sound. Which condition are the client's findings most consistent with?",
+   "options": [
+    "Community-acquired pneumonia with consolidation",
+    "Acute decompensated heart failure",
+    "Acute coronary syndrome",
+    "Exacerbation of COPD"
    ],
-   "rationale": "Orthopnea, crackles, JVD, bilateral edema, an S3, and hypoxemia after a missed diuretic and a sodium load describe worsening (decompensated) heart failure with fluid overload. When the left ventricle cannot pump forward effectively, blood backs up into the pulmonary circulation and fluid moves into the alveoli, producing crackles and dyspnea that worsen lying flat. An S3 (ventricular gallop) can be normal in children, young adults, and women in the third trimester of pregnancy, but in a 72-year-old with heart failure it reflects rapid filling into an overloaded, poorly contracting ventricle (increased preload overstretching the muscle). The normal troponin, absence of fever, and lack of wheezing argue against acute coronary syndrome, pneumonia, and COPD; an S4 comes from atrial contraction into a stiff ventricle, and a friction rub comes from inflamed pericardial layers.",
-   "takeaway": "Crackles + orthopnea = fluid backing into the lungs; S3 in an older adult with HF = volume overload.",
-   "hintContent": "Recall which side of the heart backs up into the lungs when it fails, and in which groups an S3 is considered normal.",
-   "hintStrategy": "Use the normal troponin, the absence of fever, and the fluid-related cues to rule out the competing conditions before choosing the mechanism blanks."
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. There is no fever, and bilateral edema with JVD and an S3 point to fluid overload rather than infection.",
+    "Correct. Orthopnea, crackles, JVD, bilateral edema, an S3, and hypoxemia after a missed diuretic describe worsening heart failure with fluid overload.",
+    "Incorrect. The troponin is normal, which argues against acute coronary syndrome.",
+    "Incorrect. There is no wheezing, and the congestion pattern is explained by a failing left ventricle."
+   ],
+   "rationale": "Orthopnea, crackles, JVD, bilateral edema, an S3, and hypoxemia after a missed diuretic and a sodium load describe worsening (decompensated) heart failure with fluid overload. When the left ventricle cannot pump forward effectively, blood backs up into the pulmonary circulation and fluid moves into the alveoli, producing crackles and dyspnea that worsen lying flat. An S3 can be normal in children, young adults, and women in the third trimester of pregnancy, but in a 72-year-old with heart failure it reflects rapid filling into an overloaded, poorly contracting ventricle. The normal troponin, absence of fever, and lack of wheezing argue against acute coronary syndrome, pneumonia, and COPD.",
+   "takeaway": "S3 + orthopnea + crackles + edema in an older adult with HF = decompensated heart failure."
   },
   {
    "id": "m16d-003",
    "type": "mcq",
+   "priority": true,
    "caseId": "m16d-case-hf",
    "caseOrder": 3,
    "topic": "perfusion-emergencies",
@@ -230,6 +218,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Recall how fluid in the alveoli affects diffusion of oxygen and which trends in the vital signs show the problem is worsening.",
+   "hintStrategy": "Apply ABCs and 'actual before potential.' Ask which problem, if unaddressed in the next hour, is most likely to harm the client.",
    "exhibit": {
     "tabs": [
      {
@@ -303,13 +293,11 @@
     "A sodium of 132 mEq/L is mildly low from fluid retention (dilution) and needs monitoring, but it is not causing symptoms and is less urgent than hypoxemia."
    ],
    "rationale": "Using ABCs and 'actual over potential,' the priority is the problem that threatens oxygenation. The falling SpO₂, tachypnea, and crackles show fluid in the alveoli impairing gas exchange. Skin risk and knowledge deficit are real but less urgent, and mild dilutional hyponatremia is asymptomatic.",
-   "takeaway": "Hypoxemia from pulmonary congestion outranks skin, teaching, and mild lab changes.",
-   "hintContent": "Recall how fluid in the alveoli affects diffusion of oxygen and which trends in the vital signs show the problem is worsening.",
-   "hintStrategy": "Apply ABCs and 'actual before potential.' Ask which problem, if unaddressed in the next hour, is most likely to harm the client."
+   "takeaway": "Hypoxemia from pulmonary congestion outranks skin, teaching, and mild lab changes."
   },
   {
    "id": "m16d-004",
-   "type": "matrix",
+   "type": "sata",
    "caseId": "m16d-case-hf",
    "caseOrder": 4,
    "topic": "promotion-interventions",
@@ -318,6 +306,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall the main goal of care for a client with fluid overload from heart failure.",
+   "hintStrategy": "Keep interventions that reduce congestion, support oxygenation, or monitor fluid status; reject those that add volume.",
    "exhibit": {
     "tabs": [
      {
@@ -330,36 +320,28 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes and Orders. For each potential nursing intervention, indicate whether it is indicated or contraindicated for the client at this time.",
-   "rows": [
-    "Position the client in high Fowler's position with legs dependent",
+   "stem": "Refer to the Nurses' Notes and Orders. Which nursing interventions are indicated for the client at this time? Select all that apply.",
+   "options": [
     "Administer a 500-mL 0.9% sodium chloride bolus for the heart rate of 110",
+    "Position the client in high Fowler's position with legs dependent",
     "Weigh the client each morning before breakfast using the same scale",
     "Encourage 3 L of oral fluid daily to protect the kidneys during diuresis",
     "Titrate oxygen to keep SpO₂ within the prescribed range"
    ],
-   "columns": [
-    "Indicated",
-    "Contraindicated"
-   ],
    "answer": [
-    0,
     1,
-    0,
-    1,
-    0
+    2,
+    4
    ],
    "optionRationales": [
-    "Indicated. Upright positioning with legs down reduces venous return (preload) and lets the diaphragm descend, easing dyspnea.",
-    "Contraindicated. The tachycardia is compensatory for low cardiac output and hypoxemia, not hypovolemia; a saline bolus would worsen pulmonary congestion.",
-    "Indicated. A consistent daily weight (same time, scale, and clothing, after voiding) is the best indicator of fluid balance and diuretic response.",
-    "Contraindicated. The client is fluid overloaded with a 1,500 mL/day restriction; forcing fluids would worsen congestion.",
-    "Indicated. Supplemental oxygen treats hypoxemia; titrating to the prescribed target avoids both under- and over-oxygenation."
+    "Incorrect. The tachycardia reflects heart failure, not hypovolemia; a fluid bolus adds volume to an overloaded circulation.",
+    "Correct. Upright positioning with legs dependent reduces venous return (preload) and eases breathing.",
+    "Correct. Daily weights under consistent conditions are the best measure of fluid gain or loss.",
+    "Incorrect. Liberal fluid intake works against diuresis; clients with acute HF are usually fluid restricted.",
+    "Correct. Titrated oxygen supports gas exchange while congestion resolves."
    ],
    "rationale": "Solutions for acute decompensated HF reduce preload and congestion (upright positioning, diuresis, sodium and fluid restriction), support oxygenation, and monitor response (daily weights, I&O). Fluid boluses and liberal fluid intake add volume to an already overloaded circulation.",
-   "takeaway": "In fluid-overloaded HF: sit up, legs down, O₂, diuretic, restrict sodium/fluid, weigh daily — no fluid boluses.",
-   "hintContent": "Recall how preload affects a failing ventricle and why tachycardia can be compensatory in low cardiac output.",
-   "hintStrategy": "Judge each row independently: ask whether the intervention removes volume/improves oxygenation (indicated) or adds volume to an overloaded circulation (contraindicated)."
+   "takeaway": "Acute HF: sit upright, give oxygen, weigh daily; avoid extra fluids."
   },
   {
    "id": "m16d-005",
@@ -372,6 +354,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Recall when an apical pulse is required instead of a radial pulse and why a client who has just lost a lot of fluid is at risk when standing.",
+   "hintStrategy": "Evaluate each option on its own: does it keep the client safe, gather accurate data, or communicate a change — or does it work against the goal of removing fluid?",
    "exhibit": {
     "tabs": [
      {
@@ -432,13 +416,11 @@
     "Incorrect. Lying flat increases venous return to the lungs and would worsen orthopnea; the client should remain upright and rise slowly with help."
    ],
    "rationale": "After a large diuresis the client is breathing better but has two new problems: dizziness on rising (fall risk from fluid shifts) and a new irregular pulse. The nurse keeps the client safe with the call light and assistance, assesses the apical pulse for a full minute and compares it with the radial rate, reports the new rhythm, and continues strict I&O. Replacing the urine output would undo therapy, and lying flat would worsen pulmonary congestion.",
-   "takeaway": "After diuresis: fall precautions, strict I&O, and an apical pulse for any new irregular radial pulse.",
-   "hintContent": "Recall when an apical pulse is required instead of a radial pulse and why a client who has just lost a lot of fluid is at risk when standing.",
-   "hintStrategy": "Evaluate each option on its own: does it keep the client safe, gather accurate data, or communicate a change — or does it work against the goal of removing fluid?"
+   "takeaway": "After diuresis: fall precautions, strict I&O, and an apical pulse for any new irregular radial pulse."
   },
   {
    "id": "m16d-006",
-   "type": "matrix",
+   "type": "sata",
    "caseId": "m16d-case-hf",
    "caseOrder": 6,
    "topic": "promotion-interventions",
@@ -447,6 +429,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall what happens to blood pressure and kidney perfusion if diuresis removes too much fluid.",
+   "hintStrategy": "Compare each day-3 value with admission and with normal; select the ones that got worse or are abnormal.",
    "exhibit": {
     "tabs": [
      {
@@ -486,46 +470,43 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes and Laboratory Results. For each finding on day 3, indicate whether it shows the client's condition is improving or requires follow-up.",
-   "rows": [
+   "stem": "Refer to the Nurses' Notes and Laboratory Results. Which findings on day 3 require follow-up? Select all that apply.",
+   "options": [
     "Weight decreased 2.6 kg (5.7 lb) since admission",
-    "Crackles limited to the bases; sleeping on 1 pillow",
     "Standing BP 104/66 with HR 102 and lightheadedness",
+    "Crackles limited to the bases; sleeping on 1 pillow",
     "Serum creatinine increased from 1.4 to 1.9 mg/dL",
-    "Potassium 4.1 mEq/L"
-   ],
-   "columns": [
-    "Improving",
-    "Requires follow-up"
+    "Potassium 4.1 mEq/L",
+    "BUN increased from 32 to 44 mg/dL"
    ],
    "answer": [
-    0,
-    0,
     1,
-    1,
-    0
+    3,
+    5
    ],
    "optionRationales": [
-    "Improving. About 1 kg equals 1 L of fluid; losing 2.6 kg shows effective diuresis toward the client's dry weight.",
-    "Improving. Less pulmonary congestion and resolution of orthopnea show better left ventricular unloading.",
-    "Requires follow-up. A 24 mm Hg systolic drop with symptoms meets orthostatic hypotension criteria and suggests over-diuresis — a fall risk.",
-    "Requires follow-up. A rising creatinine (with BUN 44) suggests reduced renal perfusion from aggressive diuresis; the provider may adjust the diuretic dose.",
-    "Improving. Potassium is within normal limits despite diuresis."
+    "Incorrect. Weight loss shows that excess fluid is being removed as intended.",
+    "Correct. A symptomatic drop in BP with a rising pulse on standing indicates orthostatic hypotension from volume depletion and a fall risk.",
+    "Incorrect. Clearing lungs and resolved orthopnea show improvement.",
+    "Correct. A rising creatinine suggests reduced kidney perfusion from too much fluid loss.",
+    "Incorrect. Potassium remains within normal limits.",
+    "Correct. A rising BUN, together with the creatinine, suggests the kidneys are receiving less blood flow."
    ],
    "rationale": "Evaluating outcomes compares current data with goals. Weight loss, clearing lungs, and resolved orthopnea show the treatment is working, and potassium remains normal. However, symptomatic orthostatic hypotension and a rising BUN/creatinine suggest the client has lost too much circulating volume and the kidneys are receiving less blood flow — both need to be reported so therapy can be adjusted and falls prevented.",
-   "takeaway": "Successful diuresis can overshoot: watch for orthostatic hypotension and rising creatinine.",
-   "hintContent": "Recall the criteria for orthostatic hypotension and what a rising BUN and creatinine indicate about kidney perfusion.",
-   "hintStrategy": "For each row, compare the day 3 value with the day 1 value and the goal of therapy; a finding can be a new problem even when the original problem is improving."
+   "takeaway": "After diuresis, watch for over-correction: orthostatic hypotension and rising BUN/creatinine."
   },
   {
    "id": "m16d-007",
-   "type": "bowtie",
+   "type": "mcq",
+   "priority": true,
    "topic": "lifespan",
    "ref": "Module 16 · Perfusion · Lifespan Considerations · Older Adults · Orthostatic Hypotension",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Recall what the lying, sitting, and standing vital signs show and why this client fell.",
+   "hintStrategy": "Choose the action that directly prevents another fall without causing new harm.",
    "exhibit": {
     "tabs": [
      {
@@ -565,111 +546,72 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes and Vital Signs. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Isolated systolic hypertension",
-     "Orthostatic hypotension",
-     "Acute ischemic stroke",
-     "Supine hypotensive syndrome"
-    ],
-    "answer": 1
-   },
-   "actions": {
-    "options": [
-     "Have the client sit on the edge of the bed for a few minutes before standing",
-     "Encourage the client to stand up quickly so the dizziness passes sooner",
-     "Keep the client on strict bed rest for the rest of the admission",
-     "Place the call light within reach and instruct the client to call before getting up",
-     "Give the scheduled antihypertensive without rechecking the BP"
-    ],
-    "answer": [
-     0,
-     3
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Serum cholesterol",
-     "Lying, sitting, and standing blood pressure and pulse",
-     "Apical-radial pulse deficit",
-     "Intake and output, including urine color",
-     "Pedal pulse symmetry"
-    ],
-    "answer": [
-     1,
-     3
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect. Isolated systolic hypertension is an elevated systolic pressure with normal diastolic pressure; this client's pressure falls when upright.",
-     "Correct. A systolic drop of 32 mm Hg with a rising pulse and dizziness on standing is orthostatic hypotension, made more likely by dehydration, antihypertensive medications, and age.",
-     "Incorrect. Neurologic status is at baseline and the symptoms are positional; nothing suggests a focal deficit.",
-     "Incorrect. Supine hypotensive syndrome occurs in late pregnancy when the uterus compresses the vena cava in the supine position."
-    ],
-    "actions": [
-     "Correct. Dangling before standing gives the older adult's slower cardiovascular reflexes time to adjust.",
-     "Incorrect. Rising quickly worsens the drop in BP and increases fall risk.",
-     "Incorrect. Prolonged bed rest causes deconditioning and actually worsens orthostatic intolerance; the goal is safe, assisted mobility.",
-     "Correct. After a fall, the client needs assistance with every transfer; the call light keeps help within reach.",
-     "Incorrect. Antihypertensives increase orthostatic hypotension; the nurse checks BP first and discusses holding the dose with the provider."
-    ],
-    "parameters": [
-     "Incorrect. Cholesterol is a long-term risk factor and does not reflect this problem.",
-     "Correct. Repeating orthostatic vital signs (supine first, then sitting and standing) shows whether the postural drop is resolving as the client is rehydrated.",
-     "Incorrect. The apical pulse is regular; a pulse deficit is not expected and does not track this problem.",
-     "Correct. Intake and output and urine color show whether fluid volume is being restored, which corrects the cause of the drop.",
-     "Incorrect. Pedal pulses assess peripheral arterial flow, not postural BP changes."
-    ]
-   },
-   "rationale": "Dehydration, antihypertensive medications, and age-related changes (slower reflex responses, stiffer vessels) all put this older adult at risk for orthostatic hypotension, and falls are often the first sign of a cardiovascular problem in older adults. The nurse promotes safety (dangling before standing, call light, assistance with transfers) and monitors orthostatic vital signs and fluid balance to see whether the cause is being corrected.",
-   "takeaway": "Older adult + dehydration + antihypertensives + fall = check lying-to-standing vital signs; dangle, assist, rehydrate.",
-   "hintContent": "Recall how orthostatic vital signs are measured and which factors in older adults increase the risk of hypotension on standing.",
-   "hintStrategy": "Pick the condition from the positional pattern first, then choose actions that prevent another fall and parameters that show whether the cause is improving."
+   "stem": "Refer to the Nurses' Notes and Vital Signs. Later that morning, the client says, \"I need to use the bathroom.\" Which action should the nurse take first?",
+   "options": [
+    "Encourage the client to stand up quickly so the dizziness passes sooner",
+    "Give the scheduled antihypertensive before helping the client out of bed",
+    "Keep the client on strict bed rest and use a bedpan for the rest of the stay",
+    "Have the client sit on the edge of the bed for a few minutes before standing"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Standing quickly worsens the drop in BP and increases the risk of another fall.",
+    "Incorrect. The antihypertensive could lower the BP further; BP should be rechecked and the provider consulted before it is given.",
+    "Incorrect. Prolonged bed rest causes deconditioning and is not needed; the client needs safe, assisted mobility.",
+    "Correct. Dangling before standing gives the circulation time to adjust and reduces the risk of a fall from orthostatic hypotension."
+   ],
+   "rationale": "The client's BP falls and pulse rises with each position change, with lightheadedness — orthostatic hypotension. Dehydration, antihypertensive medications, and age-related changes (slower reflex responses, stiffer vessels) all increase the risk, and falls are often the first sign of a cardiovascular problem in older adults. The nurse promotes safety (dangling before standing, call light, assistance with transfers) and monitors orthostatic vital signs and intake and output to see whether the cause is being corrected.",
+   "takeaway": "Orthostatic hypotension: dangle, then stand with help; call light in reach; monitor orthostatic VS and I&O."
   },
   {
    "id": "m16d-009",
-   "type": "highlight",
+   "type": "sata",
    "topic": "blood-pressure",
    "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Common Errors",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client with stage 2 hypertension was taught home blood pressure monitoring 2 weeks ago. At the follow-up visit, the client describes the routine below. Click to highlight the practices that indicate the need for further teaching.",
-   "passage": "\"I check my blood pressure {{right after my morning coffee and cigarette}}. I sit at the kitchen table {{with my back supported against the chair}} and {{my feet flat on the floor}}. I rest {{my arm on the table so the cuff is at heart level}}. I wrap {{the cuff over my thin pajama sleeve}}, and I usually {{talk on the phone with my daughter while it inflates}}. I {{take two readings 1 minute apart}} using {{the upper-arm cuff the pharmacist checked for size}}, and I {{write down only the lower reading to show my provider}}.\"",
+   "hintContent": "Recall the conditions that falsely raise a BP reading and how readings should be recorded.",
+   "hintStrategy": "Evaluate each practice on its own: would it change the reading or hide data from the provider?",
+   "stem": "A client with stage 2 hypertension was taught home blood pressure monitoring 2 weeks ago. At the follow-up visit, the client describes the home routine. Which practices indicate a need for further teaching? Select all that apply.",
+   "options": [
+    "Checks the BP right after the morning coffee and cigarette",
+    "Sits with the back supported and feet flat on the floor",
+    "Wraps the cuff over a thin pajama sleeve",
+    "Talks on the phone while the cuff inflates",
+    "Takes two readings 1 minute apart",
+    "Writes down only the lower reading to show the provider"
+   ],
    "answer": [
     0,
-    4,
-    5,
-    8
+    2,
+    3,
+    5
    ],
    "optionRationales": [
-    "Needs further teaching. Caffeine and nicotine raise BP; avoid them (and exercise) for at least 30 minutes before measuring.",
-    "Correct practice. A supported back prevents isometric muscle contraction that raises BP.",
-    "Correct practice. Feet flat and legs uncrossed avoid falsely elevated readings.",
-    "Correct practice. An arm supported at heart level avoids falsely high (arm too low) or falsely low (arm too high) readings.",
-    "Needs further teaching. The cuff must be placed on bare skin; clothing under the cuff can distort the reading.",
-    "Needs further teaching. Talking raises readings; the client should sit quietly during measurement.",
-    "Correct practice. Taking two readings a minute apart confirms the value and reduces random error.",
-    "Correct practice. An upper-arm cuff of the correct size gives an accurate reading; a cuff that is too small reads falsely high.",
-    "Needs further teaching. All readings should be recorded (or the device memory shared); reporting only the lower reading hides true BP control."
+    "Correct. Caffeine and nicotine raise BP; the client should avoid them for 30 minutes before measuring.",
+    "Incorrect. A supported back and flat feet are correct positioning.",
+    "Correct. The cuff belongs on bare skin; clothing under the cuff causes inaccurate readings.",
+    "Correct. Talking raises BP; the client should stay silent during the reading.",
+    "Incorrect. Repeating the reading after a short wait is correct technique.",
+    "Correct. All readings should be recorded so the provider sees an accurate picture."
    ],
    "rationale": "Accurate readings guide treatment, so technique errors can lead to over- or under-treatment. The client should avoid caffeine, smoking, and exercise for 30 minutes, rest quietly first, place the cuff on bare skin, stay silent during the reading, and record every reading. Sitting with the back supported, feet flat, arm at heart level, repeating the reading after a short wait, and using a correctly sized upper-arm cuff are correct.",
-   "takeaway": "Home BP: no caffeine/smoke 30 min, rest 5 min, bare arm at heart level, silent, 2 readings, record all.",
-   "hintContent": "Recall the preparation and positioning steps that prevent falsely high or low blood pressure readings.",
-   "hintStrategy": "You are looking for errors. Read each highlighted phrase and ask, 'Would this make the reading inaccurate or misleading?'"
+   "takeaway": "Home BP: no caffeine/nicotine for 30 min, bare arm, no talking, record every reading."
   },
   {
    "id": "m16d-010",
-   "type": "highlight",
+   "type": "mcq",
+   "priority": true,
    "topic": "perfusion-emergencies",
    "ref": "Module 16 · Perfusion · Hypotension · Bleeding and Pulse Pressure",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall how the body compensates for blood loss before systolic BP falls.",
+   "hintStrategy": "Eliminate expected postoperative findings, then choose the pattern that signals compensation for volume loss.",
    "exhibit": {
     "tabs": [
      {
@@ -705,74 +647,71 @@
      }
     ]
    },
-   "stem": "Refer to the Vital Signs. The nurse is caring for a client 8 hours after an open abdominal colon resection and documents the assessment below. Click to highlight the findings that require immediate follow-up.",
-   "passage": "Client is {{restless and repeatedly asking what time it is}}. Skin {{cool, pale, and moist}}. Heart rate {{118/min, up from 84 at 1400}}. BP {{104/88}}. Temperature {{37.3 °C (99.1 °F)}}. {{SpO₂ 96% on room air}}. Urine output {{60 mL over the past 3 hours}}. Incisional pain {{rated 4/10 after oral oxycodone}}. Abdominal dressing {{dry and intact}}. Bowel sounds {{hypoactive}}.",
-   "answer": [
-    0,
-    1,
-    2,
-    3,
-    6
+   "stem": "Refer to the Vital Signs. The nurse is caring for a client 8 hours after an open abdominal colon resection. Which finding requires the nurse's most immediate follow-up?",
+   "options": [
+    "HR 118/min (84 at 1400), BP 104/88, and cool, pale, moist skin",
+    "Temperature of 37.3 °C (99.1 °F) with hypoactive bowel sounds on auscultation",
+    "Incisional pain rated 4/10 after a dose of oral oxycodone",
+    "Abdominal dressing dry and intact; SpO₂ 96% on room air"
    ],
+   "answer": 0,
    "optionRationales": [
-    "Requires follow-up. Restlessness and anxiety are early signs of reduced cerebral perfusion in shock.",
-    "Requires follow-up. Cool, pale, moist skin reflects sympathetic vasoconstriction shunting blood to vital organs.",
-    "Requires follow-up. A rising heart rate is an early compensatory response to falling stroke volume.",
-    "Requires follow-up. The systolic BP has fallen and the pulse pressure has narrowed to 16 mm Hg (from 52), indicating reduced stroke volume with vasoconstriction.",
-    "Does not require immediate follow-up. A low-grade temperature is common after surgery and does not explain these changes.",
-    "Does not require immediate follow-up. Oxygen saturation is within normal limits.",
-    "Requires follow-up. Output of 20 mL/hr is below the minimum of 0.5 mL/kg/hr (about 30 mL/hr) and reflects reduced renal perfusion.",
-    "Does not require immediate follow-up. Pain controlled to 4/10 is acceptable; uncontrolled pain would be a concern.",
-    "Does not require immediate follow-up by itself. A dry dressing does not rule out internal (intra-abdominal) bleeding.",
-    "Does not require immediate follow-up. Hypoactive bowel sounds are expected after bowel surgery."
+    "Correct. Rising heart rate, narrowing pulse pressure, and cool, pale, moist skin are early compensatory signs of bleeding and hypovolemia.",
+    "Incorrect. A low-grade temperature and hypoactive bowel sounds are expected early after abdominal surgery.",
+    "Incorrect. Pain is controlled to a moderate level after analgesia, which is expected.",
+    "Incorrect. A dry dressing does not rule out internal bleeding, but this finding itself is reassuring, and the SpO₂ is normal."
    ],
-   "rationale": "Bleeding lowers blood volume, one of the main determinants of blood pressure. Before the systolic pressure falls dramatically, the body compensates: the heart rate rises, vessels constrict (cool, pale, moist skin), the pulse pressure narrows, urine output falls, and reduced cerebral perfusion causes restlessness. A dry dressing does not exclude internal bleeding after abdominal surgery. Low-grade temperature, controlled pain, normal SpO₂, and hypoactive bowel sounds are expected postoperative findings.",
-   "takeaway": "Narrowing pulse pressure + rising HR + restlessness + low urine output = reduced perfusion from volume loss, even with a \"normal\" systolic BP.",
-   "hintContent": "Recall the determinants of blood pressure and how the body compensates when blood volume falls.",
-   "hintStrategy": "Compare each finding with the 1400 baseline and with expected postoperative findings; highlight changes that signal reduced perfusion."
+   "rationale": "Bleeding lowers blood volume, one of the main determinants of blood pressure. Before the systolic pressure falls dramatically, the body compensates: the heart rate rises, vessels constrict (cool, pale, moist skin), the pulse pressure narrows (104/88 = 16 mm Hg), urine output falls, and reduced cerebral perfusion causes restlessness. A dry dressing does not exclude internal bleeding after abdominal surgery. Low-grade temperature, controlled pain, normal SpO₂, and hypoactive bowel sounds are expected postoperative findings.",
+   "takeaway": "Early bleeding: rising HR, narrowing pulse pressure, cool pale skin — before the BP crashes."
   },
   {
    "id": "m16d-011",
-   "type": "highlight",
+   "type": "sata",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Nursing Assessment · Inspection and Palpation",
+   "ref": "Module 16 · Perfusion · Nursing Assessment · Assessing the Pulse · Apical Pulse Assessment",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse performs a cardiovascular inspection and palpation on a 58-year-old client with hypertension and a family history of early coronary artery disease. Click to highlight the findings that are NOT expected in a normal cardiovascular examination.",
-   "passage": "Skin color is {{even and homogeneous}}. Both earlobes have {{a diagonal crease}}. Lips are {{smooth and pink}}. With the head of the bed at 45°, {{the jugular veins are visible and distended}}. Carotid pulses are {{symmetric in appearance and on palpation}}. {{Pulsations are visible over the left precordium}}. Fingernails are {{slightly curved without cyanosis}}. The lower legs are {{cool with sparse hair on the left and warm with even hair on the right}}. {{A slight vibration is palpable at the apex}}.",
+   "hintContent": "Recall the situations in which a peripheral pulse is unreliable or the apical pulse is specifically required.",
+   "hintStrategy": "For each client, ask whether the peripheral pulse is irregular or hard to count, whether the client has a relevant disease or age, or whether a heart-rate–affecting drug is due.",
+   "stem": "The nurse is planning pulse assessments for several clients on a medical unit. For which clients should the nurse assess the apical pulse rather than rely on a peripheral pulse? Select all that apply.",
+   "options": [
+    "A 2-year-old child admitted with dehydration",
+    "A 30-year-old client admitted for cellulitis of the foot with a regular radial pulse of 72/min",
+    "A 68-year-old client whose radial pulse feels irregular",
+    "A 45-year-old client with a regular radial pulse who is due for a medication that slows the heart rate",
+    "A 25-year-old client recovering from an appendectomy with a strong, regular radial pulse",
+    "A 40-year-old client with a sprained ankle and a regular radial pulse of 80/min"
+   ],
    "answer": [
-    1,
-    3,
-    5,
-    7
+    0,
+    2,
+    3
    ],
    "optionRationales": [
-    "Expected. Even, homogeneous skin color is normal.",
-    "Not expected. Normal earlobes have flat skin without creases; a diagonal earlobe crease has been associated with coronary artery disease and warrants further assessment.",
-    "Expected. Smooth lips without cyanosis are normal.",
-    "Not expected. Jugular veins are normally flat and not visible; distention suggests increased venous pressure, as in fluid overload or right-sided heart failure.",
-    "Expected. Carotid pulses should be symmetric bilaterally.",
-    "Not expected. No pulsations should be visible over the precordium (only aortic pulsations in the suprasternal notch of thin clients).",
-    "Expected. Slightly curved or flat nails without cyanosis are normal.",
-    "Not expected. Lower extremities should have even temperature and color with symmetric hair distribution; a cool, hairless leg suggests reduced arterial flow on that side.",
-    "Expected. A slight vibration palpable at the apical area is a normal finding."
+    "Correct. The apical pulse is used for newborns, infants, and children up to about 2–3 years because peripheral pulses are difficult to count accurately.",
+    "Incorrect. A healthy adult with a regular, easily counted radial pulse and no cardiovascular, pulmonary, or renal disease can be assessed peripherally.",
+    "Correct. An irregular peripheral pulse is an indication for an apical pulse counted for a full minute.",
+    "Correct. The apical pulse is assessed before giving medications that could affect heart rate.",
+    "Incorrect. A strong, regular radial pulse in a young adult without cardiac disease is an appropriate site.",
+    "Incorrect. A regular radial pulse in an otherwise healthy adult with a musculoskeletal injury does not require apical assessment."
    ],
-   "rationale": "A normal cardiovascular inspection shows even skin color, pink lips, earlobes without creases, flat jugular veins, symmetric carotid pulses, no visible precordial pulsations, nails without cyanosis, and lower extremities that are symmetric in temperature, color, and hair distribution. A slight apical vibration is normal. The abnormal findings here — earlobe creases, JVD, precordial pulsations, and an asymmetric cool, hairless leg — need further assessment and reporting.",
-   "takeaway": "Normal CV inspection: flat neck veins, no precordial pulsations, crease-free earlobes, symmetric legs.",
-   "hintContent": "Recall the expected findings of a normal cardiovascular inspection from head to lower extremities.",
-   "hintStrategy": "Compare each finding with what a normal exam looks like; symmetric, flat, and even findings are usually expected."
+   "rationale": "Pulse assessment collects the rate, rhythm, volume, arterial wall elasticity, and bilateral equality. The apical pulse is assessed for clients whose peripheral pulse is irregular or unavailable, clients with known cardiovascular, pulmonary, or renal disease, newborns, infants, and children up to about 2–3 years, and before giving medications that could affect heart rate. A healthy adult with a regular radial pulse can be assessed peripherally.",
+   "takeaway": "Apical pulse: irregular or unavailable peripheral pulse, CV/pulmonary/renal disease, age under 2–3 years, and before heart-rate drugs."
   },
   {
    "id": "m16d-012",
    "type": "mcq",
+   "priority": false,
    "topic": "blood-pressure",
    "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Sites and Contraindicated Limbs",
    "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall which limbs should not be used for BP and how cuff size and the thigh site affect the reading.",
+   "hintStrategy": "Eliminate options that use a restricted limb or the wrong cuff, then check the remaining options for an incorrect expected value.",
    "stem": "The nurse is caring for a client who has short arm casts on both forearms after a fall and a PICC line in the right upper arm. The client's blood pressure must be measured. Which technique should the nurse use?",
    "options": [
     "Place a standard adult arm cuff around the lower thigh and auscultate over the popliteal artery",
@@ -788,19 +727,20 @@
     "Incorrect. In adults the thigh systolic pressure is normally about 10–40 mm Hg HIGHER than the brachial pressure; the diastolic is about the same."
    ],
    "rationale": "BP is not measured on a limb with a cast or bulky bandage, an IV infusion, an arteriovenous fistula, an injury or disease, or on the side where axillary lymph nodes were removed. The thigh is the alternate site, using an appropriately sized thigh cuff over the popliteal artery. Thigh systolic readings normally run higher than brachial readings, so the site must be documented.",
-   "takeaway": "Thigh BP: large thigh cuff, popliteal artery, systolic runs higher — document the site.",
-   "hintContent": "Recall which limbs should not be used for BP and how cuff size and the thigh site affect the reading.",
-   "hintStrategy": "Eliminate options that use a restricted limb or the wrong cuff, then check the remaining options for an incorrect expected value."
+   "takeaway": "Thigh BP: large thigh cuff, popliteal artery, systolic runs higher — document the site."
   },
   {
    "id": "m16d-013",
    "type": "mcq",
+   "priority": false,
    "topic": "blood-pressure",
    "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Common Errors",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall the recommended cuff deflation rate and which Korotkoff phases mark systolic and diastolic pressure.",
+   "hintStrategy": "Picture the gauge moving quickly past the moment the first and last sounds occur, and decide which way each number would be off.",
    "stem": "A nurse who is behind schedule measures a client's blood pressure manually, deflating the cuff at about 10 mm Hg per second, and records 118/84. Which statement best describes the likely effect of this technique?",
    "options": [
     "The systolic may read falsely low and the diastolic falsely high",
@@ -816,19 +756,20 @@
     "Incorrect. Rapid deflation produces errors in every client, not only those with irregular rhythms."
    ],
    "rationale": "Haste is one of the most common errors in BP measurement. The cuff should be deflated at 2–3 mm Hg per second so the nurse can accurately identify the first sound (phase I, systolic) and the disappearance of sounds (phase V, diastolic, in adults). Deflating too quickly underestimates systolic and overestimates diastolic pressure. The nurse should repeat the measurement with correct technique.",
-   "takeaway": "Deflate at 2–3 mm Hg per second — haste lowers the systolic and raises the diastolic reading.",
-   "hintContent": "Recall the recommended cuff deflation rate and which Korotkoff phases mark systolic and diastolic pressure.",
-   "hintStrategy": "Picture the gauge moving quickly past the moment the first and last sounds occur, and decide which way each number would be off."
+   "takeaway": "Deflate at 2–3 mm Hg per second — haste lowers the systolic and raises the diastolic reading."
   },
   {
    "id": "m16d-016",
    "type": "mcq",
+   "priority": false,
    "topic": "lifespan",
    "ref": "Module 16 · Perfusion · Lifespan Considerations · Pregnancy",
    "difficulty": 1,
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall how cardiac output, pulse, and BP change across the trimesters of pregnancy.",
+   "hintStrategy": "Compare the size of each change with what is expected at this point in pregnancy before deciding it is abnormal.",
    "stem": "A healthy client at 22 weeks' gestation has a BP of 102/62 and a pulse of 84 while sitting. Her prepregnancy BP was 118/76 with a pulse of 72. She has no symptoms. How should the nurse interpret these findings?",
    "options": [
     "Expected; BP normally reaches its lowest point in the second trimester",
@@ -844,19 +785,20 @@
     "Incorrect. The reading was taken sitting; the lower BP reflects the normal second-trimester pattern, not supine positioning."
    ],
    "rationale": "Pregnancy changes perfusion: cardiac output increases early, the pulse rises by up to 10–15/min by term, and BP falls to its lowest point in the second trimester before gradually rebounding. Knowing these normal patterns (and the client's baseline) prevents misinterpreting expected findings as problems.",
-   "takeaway": "Pregnancy: CO up, pulse up 10–15, BP lowest in the 2nd trimester.",
-   "hintContent": "Recall how cardiac output, pulse, and BP change across the trimesters of pregnancy.",
-   "hintStrategy": "Compare the size of each change with what is expected at this point in pregnancy before deciding it is abnormal."
+   "takeaway": "Pregnancy: CO up, pulse up 10–15, BP lowest in the 2nd trimester."
   },
   {
    "id": "m16d-017",
    "type": "mcq",
+   "priority": false,
    "topic": "peripheral-assessment",
    "ref": "Module 16 · Perfusion · Nursing Assessment · Carotid Pulses",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall what causes a blowing sound over an artery and the correct technique for assessing carotid pulses.",
+   "hintStrategy": "Eliminate the option that describes unsafe technique, then decide whether the sound is arterial and meaningful.",
    "stem": "During a routine assessment of a 70-year-old client with hypertension and high cholesterol, the nurse auscultates the carotid arteries with the bell and hears a low-pitched blowing sound over the right carotid artery. How should the nurse interpret this finding?",
    "options": [
     "It is a sound transmitted from the aortic valve and does not require follow-up",
@@ -872,20 +814,21 @@
     "Correct. A carotid bruit reflects turbulent flow, commonly from atherosclerotic narrowing, which increases the client's risk of stroke; the finding is reported for further evaluation."
    ],
    "rationale": "Carotid arteries are palpated one at a time and auscultated bilaterally. A bruit is a blowing sound caused by turbulent blood flow, most often from atherosclerotic narrowing. In a client with hypertension and high cholesterol, it suggests reduced blood flow to the brain and an increased risk of stroke, so it is documented and reported.",
-   "takeaway": "Carotid bruit = turbulent flow from narrowing; palpate one side at a time and report it.",
-   "hintContent": "Recall what causes a blowing sound over an artery and the correct technique for assessing carotid pulses.",
-   "hintStrategy": "Eliminate the option that describes unsafe technique, then decide whether the sound is arterial and meaningful."
+   "takeaway": "Carotid bruit = turbulent flow from narrowing; palpate one side at a time and report it."
   },
   {
    "id": "m16d-021",
    "type": "mcq",
+   "priority": true,
    "topic": "peripheral-assessment",
    "ref": "Module 16 · Perfusion · Nursing Assessment · Peripheral Perfusion",
    "difficulty": 1,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client walks into the clinic from outside, where the temperature is 2 °C (35.6 °F). The client has no complaints. Vital signs are T 36.8 °C (98.2 °F), HR 76, BP 124/78. The nurse finds that capillary refill in the fingernails is 4 seconds and the fingers feel cold. Which action should the nurse take next?",
+   "hintContent": "Recall the factors other than circulatory disease that can prolong capillary refill.",
+   "hintStrategy": "Look at the whole context (environment, vital signs, symptoms) before assuming a single finding indicates pathology.",
+   "stem": "A client walks into the clinic from outside, where the temperature is 2 °C (35.6 °F). The client has no complaints. Vital signs are T 36.8 °C (98.2 °F), HR 76, BP 124/78. The nurse finds that capillary refill in the fingernails is 4 seconds and the fingers feel cold. Which action should the nurse take first?",
    "options": [
     "Document delayed capillary refill as evidence of hypovolemia",
     "Reassess capillary refill after the client's hands have warmed",
@@ -900,19 +843,20 @@
     "Incorrect. There are no cues suggesting fluid loss that would justify orthostatic testing."
    ],
    "rationale": "Capillary refill is normally less than 2–3 seconds, but it is prolonged by cold, vasoconstriction, and poor lighting as well as by hypovolemia or arterial disease. The nurse interprets a finding in context: with stable vital signs and recent cold exposure, the best action is to warm the hands and reassess before drawing conclusions.",
-   "takeaway": "Cold hands lengthen capillary refill — warm and recheck before you label it abnormal.",
-   "hintContent": "Recall the factors other than circulatory disease that can prolong capillary refill.",
-   "hintStrategy": "Look at the whole context (environment, vital signs, symptoms) before assuming a single finding indicates pathology."
+   "takeaway": "Cold hands lengthen capillary refill — warm and recheck before you label it abnormal."
   },
   {
    "id": "m16d-025",
    "type": "mcq",
+   "priority": true,
    "topic": "heart-sounds",
    "ref": "Module 16 · Perfusion · Prioritization · Heart Sounds and Fluid Overload",
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Recall in which groups S3 and S4 may be normal and what rapid weight gain means in heart failure.",
+   "hintStrategy": "Ask which finding is new or changing versus expected or stable, then apply ABCs.",
    "stem": "After receiving hand-off report on a medical unit, which client should the nurse assess first?",
    "options": [
     "A 30-year-old client at 34 weeks' gestation who has an S3 heart sound and clear lungs",
@@ -928,19 +872,20 @@
     "Not first. The BP needs ongoing management, but it is at the client's baseline and is stable."
    ],
    "rationale": "The nurse assesses first the client whose condition is changing and threatens airway, breathing, or circulation. Sudden weight gain with new crackles signals fluid overload in heart failure. An S3 in late pregnancy, an S4 in a healthy older adult, and a stable BP at baseline are expected or stable findings.",
-   "takeaway": "Extra heart sounds can be normal in pregnancy and older adults; new crackles plus weight gain in HF cannot wait.",
-   "hintContent": "Recall in which groups S3 and S4 may be normal and what rapid weight gain means in heart failure.",
-   "hintStrategy": "Ask which finding is new or changing versus expected or stable, then apply ABCs."
+   "takeaway": "Extra heart sounds can be normal in pregnancy and older adults; new crackles plus weight gain in HF cannot wait."
   },
   {
    "id": "m16d-026",
    "type": "mcq",
+   "priority": false,
    "topic": "promotion-interventions",
    "ref": "Module 16 · Perfusion · Independent Interventions · Psychosocial Support",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the characteristics of therapeutic communication and the role of psychosocial support in cardiac care.",
+   "hintStrategy": "Eliminate responses that reassure falsely, give advice, or change the subject; choose the one that keeps the client talking.",
    "stem": "A 58-year-old client recently diagnosed with heart failure tells the nurse, \"I used to work construction. Now I get tired just walking to the mailbox. I feel useless.\" Which response by the nurse is most appropriate?",
    "options": [
     "\"Don't worry — most people with heart failure feel completely normal after a few weeks.\"",
@@ -956,19 +901,20 @@
     "Incorrect. Moving straight to medication avoids exploring the client's feelings; psychosocial support and nonpharmacologic stress reduction come first."
    ],
    "rationale": "Providing psychosocial support is an independent nursing intervention for clients with altered perfusion. Chronic cardiac illness often changes a client's roles and energy level, and stress and coping are part of the nursing assessment. A therapeutic response acknowledges the feeling and invites the client to talk; later the nurse can discuss resources such as cardiac rehabilitation and stress-reduction techniques.",
-   "takeaway": "Acknowledge the feeling, then explore coping — no false reassurance.",
-   "hintContent": "Recall the characteristics of therapeutic communication and the role of psychosocial support in cardiac care.",
-   "hintStrategy": "Eliminate responses that reassure falsely, give advice, or change the subject; choose the one that keeps the client talking."
+   "takeaway": "Acknowledge the feeling, then explore coping — no false reassurance."
   },
   {
    "id": "m16d-029",
    "type": "mcq",
+   "priority": false,
    "topic": "promotion-interventions",
    "ref": "Module 16 · Perfusion · Independent Interventions · Delegation",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Recall the five rights of delegation and which activities require RN judgment.",
+   "hintStrategy": "Look for the words 'new,' 'evaluate,' and 'teach' — they signal tasks that stay with the RN.",
    "stem": "The nurse is working with an unlicensed assistive personnel (UAP) on a cardiac unit. Which task is appropriate for the nurse to delegate to the UAP?",
    "options": [
     "Measuring the daily weight of a stable client with heart failure",
@@ -984,19 +930,20 @@
     "Incorrect. Initial teaching is within RN scope and cannot be delegated to a UAP."
    ],
    "rationale": "UAPs can perform routine, standardized tasks for stable clients, such as weights, vital signs, and I&O. Assessment of new symptoms, evaluation of interventions, and teaching require RN clinical judgment and cannot be delegated. The RN remains accountable for interpreting data the UAP collects.",
-   "takeaway": "Delegate collecting data on stable clients; keep assessing, teaching, and evaluating.",
-   "hintContent": "Recall the five rights of delegation and which activities require RN judgment.",
-   "hintStrategy": "Look for the words 'new,' 'evaluate,' and 'teach' — they signal tasks that stay with the RN."
+   "takeaway": "Delegate collecting data on stable clients; keep assessing, teaching, and evaluating."
   },
   {
    "id": "m16d-030",
    "type": "mcq",
+   "priority": false,
    "topic": "promotion-interventions",
    "ref": "Module 16 · Perfusion · Health Promotion · Stress Reduction",
    "difficulty": 1,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the stress-reduction techniques recommended as lifestyle modifications for cardiovascular health.",
+   "hintStrategy": "Look for the statement that both lowers stress and fits a heart-healthy lifestyle.",
    "stem": "The nurse has taught a client with hypertension about stress reduction to promote cardiovascular health. Which statement by the client indicates understanding?",
    "options": [
     "\"I'll have a couple of extra drinks in the evening to help me unwind.\"",
@@ -1012,19 +959,20 @@
     "Understanding. Yoga, meditation, relaxation techniques, biofeedback, therapeutic touch, and exercise are recommended ways to reduce stress."
    ],
    "rationale": "Stress is a secondary (modifiable) risk factor for cardiovascular disease. Recommended stress-reduction strategies include exercise, relaxation techniques, biofeedback, therapeutic touch, yoga, and meditation. Using alcohol to unwind and giving up exercise increase cardiovascular risk.",
-   "takeaway": "Stress reduction for the heart: exercise, relaxation, biofeedback, yoga, meditation — not alcohol.",
-   "hintContent": "Recall the stress-reduction techniques recommended as lifestyle modifications for cardiovascular health.",
-   "hintStrategy": "Look for the statement that both lowers stress and fits a heart-healthy lifestyle."
+   "takeaway": "Stress reduction for the heart: exercise, relaxation, biofeedback, yoga, meditation — not alcohol."
   },
   {
    "id": "m16d-031",
    "type": "mcq",
+   "priority": false,
    "topic": "peripheral-assessment",
    "ref": "Module 16 · Perfusion · Nursing Assessment · PQRST of Chest Pain",
    "difficulty": 1,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall what each letter of PQRST stands for.",
+   "hintStrategy": "Match each question to the letter it assesses, then pick the one that matches Q.",
    "stem": "A client reports chest pain. Using the PQRST approach, the nurse has asked what brings the pain on and what relieves it. Which question should the nurse ask next to assess the quality of the pain?",
    "options": [
     "\"Does the pain travel anywhere, such as your arm or jaw?\"",
@@ -1040,9 +988,7 @@
     "Incorrect. This assesses T — timing (onset and duration)."
    ],
    "rationale": "PQRST organizes the chest pain history: P — provocative/palliative factors (what brings it on and relieves it), Q — quality, R — region and radiation, S — severity, and T — timing. The quality question is open-ended so the client describes the pain without being led.",
-   "takeaway": "PQRST: Provokes/Palliates, Quality, Region/Radiation, Severity, Timing.",
-   "hintContent": "Recall what each letter of PQRST stands for.",
-   "hintStrategy": "Match each question to the letter it assesses, then pick the one that matches Q."
+   "takeaway": "PQRST: Provokes/Palliates, Quality, Region/Radiation, Severity, Timing."
   },
   {
    "id": "m16d-032",
@@ -1053,6 +999,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the modifiable and secondary risk factors for cardiovascular disease.",
+   "hintStrategy": "Judge each option independently as true or false. Watch for options with a dangerous misconception.",
    "stem": "The nurse is planning teaching for a 52-year-old client newly diagnosed with hypertension who smokes and has a BMI of 31. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "Quit smoking completely, including occasional cigarettes",
@@ -1077,9 +1025,7 @@
     "Correct. Stress is a secondary risk factor, and relaxation techniques and meditation are recommended stress-reduction strategies."
    ],
    "rationale": "Lifestyle modifications for cardiovascular health include quitting smoking, eating a healthy diet to reach a normal BMI (below 25), daily physical activity, limiting alcohol, and reducing stress. These are added to, not substituted for, prescribed medication.",
-   "takeaway": "Modifiable risk: quit smoking, BMI <25, move daily, limit alcohol, reduce stress — and keep taking the pills.",
-   "hintContent": "Recall the modifiable and secondary risk factors for cardiovascular disease.",
-   "hintStrategy": "Judge each option independently as true or false. Watch for options with a dangerous misconception."
+   "takeaway": "Modifiable risk: quit smoking, BMI <25, move daily, limit alcohol, reduce stress — and keep taking the pills."
   },
   {
    "id": "m16d-038",
@@ -1090,6 +1036,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "Recall how the calf-muscle pump works and what compresses or slows venous flow in the legs.",
+   "hintStrategy": "Ask of each option: does it speed venous blood back to the heart, or does it compress veins or thicken the blood?",
    "stem": "A client is on postoperative day 1 after abdominal surgery and spends most of the day in bed. Which independent nursing interventions promote venous return and help prevent venous stasis? Select all that apply.",
    "options": [
     "Encourage ankle pumps and leg exercises every hour while awake",
@@ -1113,9 +1061,7 @@
     "Incorrect. Dehydration increases blood viscosity and clot risk; adequate hydration is encouraged unless restricted."
    ],
    "rationale": "Blood stasis, vessel injury, and increased clotting explain postoperative venous thrombosis risk. Independent nursing measures that promote circulation and reduce stasis include leg exercises, early ambulation, avoiding knee pillows and leg crossing, and adequate hydration. Massaging the legs is avoided.",
-   "takeaway": "Move the calves, walk early, hydrate — no knee pillows, crossed legs, or leg massage.",
-   "hintContent": "Recall how the calf-muscle pump works and what compresses or slows venous flow in the legs.",
-   "hintStrategy": "Ask of each option: does it speed venous blood back to the heart, or does it compress veins or thicken the blood?"
+   "takeaway": "Move the calves, walk early, hydrate — no knee pillows, crossed legs, or leg massage."
   },
   {
    "id": "m16d-039",
@@ -1126,6 +1072,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the early signs of fluid retention and pulmonary congestion in heart failure.",
+   "hintStrategy": "Separate expected effects of treatment or of the chronic condition from NEW changes that suggest worsening.",
    "stem": "The nurse is preparing discharge teaching for a client with heart failure. Which changes should the nurse instruct the client to report to the provider? Select all that apply.",
    "options": [
     "Weight gain of 1 kg (2–3 lb) in a day or 2 kg (5 lb) in a week",
@@ -1149,187 +1097,174 @@
     "Incorrect. Thirst is common with fluid restriction; ice chips or sugar-free hard candy can help."
    ],
    "rationale": "Clients with heart failure are taught to weigh daily and to recognize early signs of decompensation — rapid weight gain, increased orthopnea or dyspnea, and worsening edema — so treatment can be adjusted before hospitalization is needed. Expected medication effects and mild, stable fatigue do not require a call.",
-   "takeaway": "HF red flags at home: fast weight gain, more pillows, more swelling.",
-   "hintContent": "Recall the early signs of fluid retention and pulmonary congestion in heart failure.",
-   "hintStrategy": "Separate expected effects of treatment or of the chronic condition from NEW changes that suggest worsening."
+   "takeaway": "HF red flags at home: fast weight gain, more pillows, more swelling."
   },
   {
    "id": "m16d-040",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "blood-pressure",
    "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Palpatory Method and Auscultatory Gap",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is measuring blood pressure manually for a 76-year-old client with long-standing hypertension, using a palpated estimate to avoid missing an auscultatory gap. Place the steps in the order the nurse should perform them.",
+   "hintContent": "Recall what an auscultatory gap is and how the nurse avoids being misled by it.",
+   "hintStrategy": "Ask which step gives the information needed to decide how high to inflate the cuff.",
+   "stem": "The nurse is measuring blood pressure manually for a 76-year-old client with long-standing hypertension. The client has rested for 5 minutes with back supported, feet flat, and arm at heart level, and a correctly sized cuff is on the bare upper arm. Which action should the nurse take first?",
    "options": [
-    "Have the client sit quietly for 5 minutes with back supported, feet flat, and arm supported at heart level",
-    "Wrap a correctly sized cuff on the bare upper arm with the bladder centered over the brachial artery",
-    "Palpate the radial pulse and inflate the cuff until the pulse disappears, noting that pressure",
-    "Deflate the cuff completely and wait at least 30 seconds",
-    "Inflate to 30 mm Hg above the palpated pressure and deflate at 2–3 mm Hg per second, noting phases I and V"
+    "Place the stethoscope over the brachial artery and inflate the cuff to 180 mm Hg",
+    "Inflate to 30 mm Hg above the last documented systolic BP and begin auscultating",
+    "Palpate the radial pulse and inflate the cuff until the pulse disappears",
+    "Deflate the cuff at 2–3 mm Hg per second while listening for phase I sounds"
    ],
-   "rationale": "Rest and correct positioning come first so the reading reflects baseline BP. The cuff is applied to bare skin. The palpated systolic estimate tells the nurse how high to inflate, preventing a falsely low systolic reading if an auscultatory gap is present (common in older adults with arterial stiffness). The cuff is fully deflated and allowed to rest before inflating to 30 mm Hg above the estimate and deflating slowly; the first sound (phase I) is systolic and the disappearance of sounds (phase V) is diastolic in adults.",
-   "takeaway": "Rest → cuff on bare arm → palpate estimate → deflate/wait → inflate 30 above, deflate 2–3 mm Hg/s.",
-   "hintContent": "Recall why a palpated systolic estimate is obtained and how an auscultatory gap causes errors.",
-   "hintStrategy": "Think about what must be in place before any measurement, then which measurement informs the next one."
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Inflating to an arbitrary pressure may not exceed the systolic BP and risks missing an auscultatory gap.",
+    "Incorrect. A previous reading may not reflect the current systolic pressure; a palpated estimate is needed first.",
+    "Correct. The palpated systolic estimate tells the nurse how high to inflate and prevents a falsely low reading if an auscultatory gap is present.",
+    "Incorrect. Deflation and auscultation come after the palpated estimate, a full deflation and rest, and reinflation above the estimate."
+   ],
+   "rationale": "Rest and correct positioning come first so the reading reflects baseline BP, and the cuff is applied to bare skin. The palpated systolic estimate tells the nurse how high to inflate, preventing a falsely low systolic reading if an auscultatory gap is present (common in older adults with arterial stiffness). The cuff is fully deflated and allowed to rest for at least 30 seconds before inflating to 30 mm Hg above the estimate and deflating at 2–3 mm Hg per second; the first sound (phase I) is systolic and the disappearance of sounds (phase V) is diastolic in adults.",
+   "takeaway": "Palpate first, then auscultate: inflate 30 mm Hg above the palpated systolic to avoid missing an auscultatory gap."
   },
   {
    "id": "m16d-042",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "peripheral-assessment",
    "ref": "Module 16 · Perfusion · Nursing Assessment · Doppler for Difficult Pulses",
    "difficulty": 1,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse cannot palpate the dorsalis pedis (pedal) pulse of an 80-year-old client and will use a Doppler ultrasound stethoscope. Place the steps in the order the nurse should perform them.",
+   "hintContent": "Recall what the Doppler probe needs in order to transmit ultrasound through the skin.",
+   "hintStrategy": "Picture the procedure step by step and identify what must be in place before the probe touches the skin.",
+   "stem": "The nurse cannot palpate the dorsalis pedis (pedal) pulse of an 80-year-old client and will use a Doppler ultrasound stethoscope. After explaining the procedure and exposing the top of the foot, which action should the nurse take first?",
    "options": [
-    "Explain the procedure and expose the top of the foot",
+    "Place the probe at a 45° angle and move it slowly until a signal is heard",
     "Apply ultrasound gel over the expected location of the pulse",
-    "Place the probe at a 45° angle and move it slowly until a pulsatile signal is heard",
-    "Mark the location of the pulse on the skin with an indelible pen",
-    "Wipe the gel from the skin and probe, and document the findings"
+    "Mark the expected location of the pulse on the skin with an indelible pen",
+    "Document that the pedal pulse is absent (0) on palpation"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The probe is positioned after gel is applied; without gel the ultrasound waves do not conduct well.",
+    "Correct. Gel is applied first to conduct the ultrasound waves between the probe and the skin.",
+    "Incorrect. The site is marked after the pulse is actually located with the Doppler, not before.",
+    "Incorrect. Documentation comes last and should include the Doppler result, not only the palpation finding."
    ],
    "rationale": "After explaining the procedure, gel is applied to conduct the ultrasound waves. The probe is held at about a 45° angle and moved slowly until the arterial signal is heard. Marking the site lets every nurse reassess in the same place, which is essential for detecting changes. The gel is then removed, and findings (e.g., 'Doppler signal present') are documented.",
-   "takeaway": "Doppler: explain → gel → probe at 45° → mark the spot → clean and document.",
-   "hintContent": "Recall why a marked pulse site improves the reliability of serial assessments.",
-   "hintStrategy": "Follow the natural flow: prepare the client, conduct the signal, find it, preserve the location, then finish."
+   "takeaway": "Doppler: gel → probe at 45° → find the signal → mark the site → clean and document."
   },
   {
    "id": "m16d-043",
-   "type": "matrix",
+   "type": "sata",
    "topic": "blood-pressure",
    "ref": "Module 16 · Perfusion · Blood Pressure Assessment · Orthostatic Hypotension",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse reviews orthostatic vital signs (supine after 5 minutes of rest → standing at 3 minutes) for several clients. For each client, indicate whether the findings meet the criteria for orthostatic hypotension.",
-   "rows": [
+   "hintContent": "Recall the systolic and diastolic criteria for orthostatic hypotension.",
+   "hintStrategy": "Calculate both the systolic and diastolic change for each client and apply either criterion.",
+   "stem": "The nurse reviews orthostatic vital signs (supine after 5 minutes of rest → standing at 3 minutes) for several clients. Which clients meet the criteria for orthostatic hypotension? Select all that apply.",
+   "options": [
     "Client A: 132/80, HR 72 → 108/74, HR 88",
     "Client B: 118/76, HR 80 → 112/72, HR 86",
     "Client C: 146/88, HR 70 → 138/76, HR 78",
     "Client D: 104/66, HR 64 → 100/64, HR 70",
     "Client E: 150/90, HR 68 → 128/84, HR 72"
    ],
-   "columns": [
-    "Meets criteria",
-    "Does not meet criteria"
-   ],
    "answer": [
     0,
-    1,
-    0,
-    1,
-    0
+    2,
+    4
    ],
    "optionRationales": [
-    "Meets criteria. Systolic drop of 24 mm Hg (≥20).",
-    "Does not meet criteria. Systolic drop of 6 and diastolic drop of 4 are within normal postural change.",
-    "Meets criteria. Although the systolic drop is only 8, the diastolic drop is 12 mm Hg (≥10).",
-    "Does not meet criteria. The BP is low-normal, but the drop (4/2) is small; a low baseline alone is not orthostatic hypotension.",
-    "Meets criteria. Systolic drop of 22 mm Hg (≥20)."
+    "Correct. Systolic BP fell 24 mm Hg, which meets the ≥20 mm Hg criterion.",
+    "Incorrect. Systolic fell 6 and diastolic 4 mm Hg; neither meets the criteria.",
+    "Correct. Diastolic BP fell 12 mm Hg, which meets the ≥10 mm Hg criterion even though systolic fell only 8.",
+    "Incorrect. Systolic fell 4 and diastolic 2 mm Hg; the low baseline alone does not meet the criteria.",
+    "Correct. Systolic BP fell 22 mm Hg, which meets the ≥20 mm Hg criterion."
    ],
    "rationale": "Orthostatic hypotension is a sustained drop in systolic BP of at least 20 mm Hg or diastolic BP of at least 10 mm Hg within 3 minutes of standing. Either criterion alone is sufficient. The nurse evaluates the change, not the absolute value, and uses the result to plan fall prevention and report to the provider.",
-   "takeaway": "Orthostatic: SBP ↓ ≥20 OR DBP ↓ ≥10 within 3 minutes of standing.",
-   "hintContent": "Recall the systolic and diastolic thresholds used to define orthostatic hypotension.",
-   "hintStrategy": "Calculate both the systolic and diastolic change for every row — one criterion is enough."
+   "takeaway": "Orthostatic hypotension: SBP drop ≥20 or DBP drop ≥10 within 3 minutes of standing — either one counts."
   },
   {
    "id": "m16d-045",
-   "type": "matrix",
+   "type": "sata",
    "topic": "promotion-interventions",
    "ref": "Module 16 · Perfusion · Collaborative Therapies · Hypertension Teaching",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse has taught a client who takes three medications for hypertension. For each client statement, indicate whether it shows understanding or a need for further teaching.",
-   "rows": [
+   "hintContent": "Recall the key safety points of teaching for a client on antihypertensive medications.",
+   "hintStrategy": "Evaluate each statement on its own and select those that would lead to unsafe or ineffective treatment.",
+   "stem": "The nurse has taught a client who takes three medications for hypertension. Which client statements indicate a need for further teaching? Select all that apply.",
+   "options": [
     "\"I'll sit on the side of the bed for a minute before I stand up.\"",
     "\"If my blood pressure is normal for a week, I can skip my pills.\"",
     "\"I'll keep a log of my blood pressure readings and bring it to each visit.\"",
     "\"If one of the pills makes me sleepy, I'll just stop taking it on my own.\"",
     "\"I'll limit alcohol and keep working on quitting smoking.\""
    ],
-   "columns": [
-    "Shows understanding",
-    "Needs further teaching"
-   ],
    "answer": [
-    0,
     1,
-    0,
-    1,
-    0
+    3
    ],
    "optionRationales": [
-    "Shows understanding. Changing position slowly reduces the risk of orthostatic hypotension and falls, a common effect of antihypertensives.",
-    "Needs further teaching. Normal readings reflect the medication's effect; skipping doses causes BP to rise again.",
-    "Shows understanding. A home BP log helps the provider evaluate and adjust therapy.",
-    "Needs further teaching. Side effects are reported to the provider; stopping some antihypertensives abruptly can cause a dangerous rebound rise in BP.",
-    "Shows understanding. Limiting alcohol and quitting smoking are lifestyle modifications that work with medication to lower BP."
+    "Incorrect. Rising slowly reduces the risk of orthostatic hypotension and shows understanding.",
+    "Correct. A normal BP shows the medications are working; stopping them allows BP to rise again.",
+    "Incorrect. Keeping a BP log shows understanding and helps the provider adjust therapy.",
+    "Correct. Side effects should be reported to the provider rather than stopping the drug independently.",
+    "Incorrect. Limiting alcohol and quitting smoking are appropriate lifestyle changes."
    ],
    "rationale": "Pharmacologic therapy for hypertension works best with nonpharmacologic measures. Clients learn to rise slowly, monitor and record BP, keep taking medications even when readings are normal, report side effects rather than stopping drugs on their own, and continue lifestyle changes such as limiting alcohol and quitting smoking.",
-   "takeaway": "Never skip or stop BP pills without the provider; rise slowly; keep the lifestyle changes going.",
-   "hintContent": "Recall the key safety points for clients taking antihypertensive medications and the lifestyle changes that support them.",
-   "hintStrategy": "Evaluate each statement independently; statements in which the client changes medications on their own are red flags."
+   "takeaway": "Antihypertensives: keep taking them when BP is normal and report side effects instead of stopping."
   },
   {
    "id": "m16d-047",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "blood-pressure",
    "ref": "Module 16 · Perfusion · Blood Pressure · Pulse Pressure",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client arrives in the emergency department after a motor vehicle crash. BP is 96/80, HR 124, and the skin is cool and pale. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's pulse pressure is {0}, which is considered {1}. The pulse pressure most likely reflects {2}.",
-   "blanks": [
-    {
-     "options": [
-      "16 mm Hg",
-      "48 mm Hg",
-      "80 mm Hg",
-      "176 mm Hg"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "widened",
-      "normal",
-      "narrowed"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "increased intracranial pressure",
-      "reduced stroke volume with compensatory vasoconstriction",
-      "stiff, noncompliant arteries",
-      "aortic valve regurgitation"
-     ],
-     "answer": 1
-    }
+   "hintContent": "Recall how pulse pressure is calculated and its normal range.",
+   "hintStrategy": "Calculate first, then match the direction of change (narrow vs. wide) to its cause.",
+   "stem": "A client arrives in the emergency department after a motor vehicle crash. BP is 96/80, HR 124, and the skin is cool and pale. How should the nurse interpret the client's pulse pressure?",
+   "options": [
+    "Narrowed at 16 mm Hg, reflecting reduced stroke volume with vasoconstriction",
+    "Widened at 16 mm Hg, reflecting stiff, noncompliant arteries from hypertension",
+    "Normal at 48 mm Hg, reflecting adequate compensation after the crash",
+    "Narrowed at 16 mm Hg, reflecting increased intracranial pressure from head injury"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. 96 − 80 = 16 mm Hg is narrowed; blood loss lowers stroke volume and systolic pressure while vasoconstriction keeps diastolic pressure up.",
+    "Incorrect. A pulse pressure of 16 mm Hg is narrowed, not widened; stiff arteries widen pulse pressure.",
+    "Incorrect. The pulse pressure is 96 − 80 = 16 mm Hg, not 48 mm Hg, and it is not normal.",
+    "Incorrect. Increased intracranial pressure causes a widened, not narrowed, pulse pressure."
    ],
    "rationale": "Pulse pressure is the difference between the systolic and diastolic pressures: 96 − 80 = 16 mm Hg (normally about 30–50 mm Hg, e.g., 40 with a BP of 120/80), so it is narrowed. After trauma, blood loss reduces blood volume and stroke volume, lowering the systolic pressure, while vasoconstriction (increased peripheral vascular resistance) keeps the diastolic pressure up. A narrowing pulse pressure with tachycardia and cool, pale skin is an early sign of inadequate perfusion. A widened pulse pressure occurs with stiff arteries, increased intracranial pressure, and aortic regurgitation.",
-   "takeaway": "Narrow pulse pressure + tachycardia after trauma = falling stroke volume with compensatory vasoconstriction.",
-   "hintContent": "Recall how pulse pressure is calculated and how blood volume and peripheral vascular resistance affect each side of it.",
-   "hintStrategy": "Do the subtraction first, then match the mechanism to the clinical context."
+   "takeaway": "Narrow pulse pressure + tachycardia + cool skin after trauma = early hypovolemia."
   },
   {
    "id": "m16d-049",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "peripheral-assessment",
    "ref": "Module 16 · Perfusion · Nursing Assessment · Apical and Apical-Radial Pulse",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall how a pulse deficit is calculated and what it tells the nurse about perfusion.",
+   "hintStrategy": "Calculate the deficit first, then pick the interpretation that explains why fewer beats reach the wrist.",
    "exhibit": {
     "tabs": [
      {
@@ -1338,49 +1273,22 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes. Complete the following sentence by choosing from the lists of options.",
-   "template": "Before giving the scheduled medication, the nurse should assess the {0} pulse for {1}. The simultaneous count shows a pulse deficit of {2}, which indicates that {3}.",
-   "blanks": [
-    {
-     "options": [
-      "femoral",
-      "apical",
-      "pedal",
-      "temporal"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "15 seconds multiplied by 4",
-      "30 seconds multiplied by 2",
-      "a full 60 seconds"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "18/min",
-      "78/min",
-      "96/min",
-      "174/min"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "some contractions are too weak to produce a palpable radial pulse",
-      "the radial artery is completely blocked",
-      "the count is wrong because the radial rate should exceed the apical rate",
-      "this is an expected change of aging that needs no follow-up"
-     ],
-     "answer": 0
-    }
+   "stem": "Refer to the Nurses' Notes. How should the nurse interpret the apical-radial pulse findings?",
+   "options": [
+    "The count is likely wrong because the radial rate should always exceed the apical rate",
+    "A pulse deficit of 18/min shows some beats are too weak to reach the radial artery",
+    "A pulse deficit of 18/min is an expected change of aging and needs no follow-up",
+    "A pulse deficit of 174/min shows the radial artery is completely blocked"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The radial rate is never greater than the apical rate.",
+    "Correct. 96 − 78 = 18/min; the deficit means some ventricular contractions are too weak to send a pulse wave to the periphery.",
+    "Incorrect. A pulse deficit is not an expected change of aging, and a new deficit is reported.",
+    "Incorrect. The deficit is the difference between the rates (18/min), not their sum, and a palpable radial pulse shows the artery is not blocked."
    ],
    "rationale": "The apical pulse is used when the peripheral pulse is irregular or hard to count (such as with hand tremors in older adults), in clients with cardiovascular disease, and before giving medications that affect heart rate. An irregular pulse is counted for a full minute. In an apical-radial pulse, two nurses count at the same time; the apical and radial rates are normally identical, and any difference is a pulse deficit (96 − 78 = 18/min). A deficit means some ventricular contractions are too weak to send a pulse wave to the periphery. The radial rate is never greater than the apical rate, and a new deficit is reported.",
-   "takeaway": "Irregular or hard-to-count pulse → apical for a full minute; apical − radial = pulse deficit.",
-   "hintContent": "Recall the indications for an apical pulse and how a pulse deficit is calculated.",
-   "hintStrategy": "Work through the blanks in order: choose the site, the counting time for an irregular rhythm, then do the subtraction."
+   "takeaway": "Pulse deficit = apical − radial; it means some beats are not perfusing the periphery."
   }
  ]
 }

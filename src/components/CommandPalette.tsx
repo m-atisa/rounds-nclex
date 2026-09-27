@@ -3,7 +3,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { create } from 'zustand';
 import { MODULES, QUESTIONS } from '../data';
-import { TYPE_SHORT } from '../data/types';
+import { FORMAT_SHORT, formatOf } from '../data/types';
 import { cx } from '../lib/util';
 import { Icon, type IconName } from './Icon';
 
@@ -61,7 +61,7 @@ const ENTRIES: Entry[] = [
   ...QUESTIONS.map((q) => ({
     group: 'Questions' as const,
     title: strip(q.stem),
-    sub: `${q.ref} · ${TYPE_SHORT[q.type]}`,
+    sub: `${q.ref} · ${FORMAT_SHORT[formatOf(q)]}`,
     to: `/questions?open=${q.id}`,
     icon: 'list' as IconName,
     color: MODULES.find((m) => m.id === q.moduleId)?.color,

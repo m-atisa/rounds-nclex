@@ -1,0 +1,922 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m21",
+ "moduleNumber": 21,
+ "moduleTitle": "Tissue Integrity",
+ "kind": "guide",
+ "topics": [
+  {
+   "id": "skin-cancer-sun-protection",
+   "title": "Skin Cancer, Risk Factors, Screening & Prevention",
+   "exemplar": null,
+   "summary": "Skin cancer is the most common cancer in the U.S., and most skin problems can be prevented or caught early with simple habits the nurse teaches every client.",
+   "objectives": [
+    "Describe the three neoplastic (cancerous) skin disorders on the slides and tell which is most common and which is most serious.",
+    "Use the ABCDE rule to recognize a mole that needs to be checked by a provider.",
+    "Identify genetic, age, sex, skin-tone, illness, medication, and nutrition risk factors for skin disorders.",
+    "Teach sun protection, hygiene, and other modifiable risk-factor changes to clients of every age and skin tone."
+   ],
+   "bigPicture": "<p>About <strong>1 in 4 people in the U.S. has a skin disorder</strong> at any time, and <strong>skin cancer is the most common cancer in the country</strong>. Almost every client you meet is someone you can teach about skin health.</p><p>Many skin disorders, including most skin cancers, are <strong>preventable</strong> or can be <strong>caught early</strong>. Sunscreen, a hat, clean and moisturized skin, and a monthly look in the mirror are cheap and easy. Skin problems also cause pain, itching, and <strong>self-image</strong> concerns, so prevention protects the whole person.</p>",
+   "keyTerms": [
+    {
+     "term": "Neoplastic",
+     "def": "Related to a neoplasm, which is an abnormal growth of cells. Neoplastic skin disorders are skin cancers."
+    },
+    {
+     "term": "Basal cell carcinoma (BCC)",
+     "def": "The most common skin cancer. It starts in the deepest layer of the epidermis, grows slowly, and rarely spreads."
+    },
+    {
+     "term": "Squamous cell carcinoma (SCC)",
+     "def": "A skin cancer that starts in the flat cells of the epidermis. It looks rough, scaly, or crusted and can spread."
+    },
+    {
+     "term": "Malignant melanoma",
+     "def": "The most serious skin cancer. It starts in melanocytes (pigment cells) and can spread early to other organs."
+    },
+    {
+     "term": "Actinic keratosis",
+     "def": "A rough, scaly, pink or tan patch caused by years of sun damage. It is precancerous and can turn into squamous cell carcinoma."
+    },
+    {
+     "term": "Biopsy",
+     "def": "Removal of a small piece of tissue so it can be examined under a microscope to see if it is benign (not cancer) or cancerous."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "How common are skin disorders?",
+     "body": "<p>The most common skin problems are <strong>dermatitis</strong> (skin inflammation), <strong>drug reactions</strong>, and <strong>infections</strong>. You don't need to memorize every number below, but notice that acne affects most young people and that <strong>skin cancer is the most common cancer in the U.S.</strong> Skin teaching is for every client, not just dermatology clients.</p>",
+     "table": {
+      "caption": "Skin disorders in the U.S. (from the slides)",
+      "headers": [
+       "Condition",
+       "About how many people"
+      ],
+      "rows": [
+       [
+        "Acne",
+        "50 million each year (85% of people ages 12–24)"
+       ],
+       [
+        "Herpes simplex / zoster",
+        "165 million"
+       ],
+       [
+        "Sun damage",
+        "123.1 million"
+       ],
+       [
+        "Hair loss",
+        "80 million"
+       ],
+       [
+        "Atopic dermatitis (eczema)",
+        "16.5 million"
+       ],
+       [
+        "Rosacea",
+        "16 million"
+       ],
+       [
+        "Fungal infections",
+        "8.9 million"
+       ],
+       [
+        "Psoriasis",
+        "7.5 million"
+       ],
+       [
+        "Skin cancer",
+        "Most common cancer in the U.S."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "The three skin cancers: basal cell, squamous cell, and melanoma",
+     "body": "<p>Cancer happens when cells grow out of control because their DNA is damaged. In skin, the main cause is <strong>UV (ultraviolet) radiation</strong> from the sun or tanning beds. Over years, the damage adds up, so skin cancer shows up most on <strong>sun-exposed skin</strong>: face, ears, scalp, neck, arms, and hands. The three cancers on the slides are named for the cell they start in:</p>",
+     "table": {
+      "caption": "Comparing the three skin cancers",
+      "headers": [
+       "Cancer",
+       "Starts in",
+       "What it often looks like",
+       "Key fact"
+      ],
+      "rows": [
+       [
+        "Basal cell carcinoma",
+        "Basal cells at the bottom of the epidermis",
+        "Pearly or waxy bump, sometimes with tiny visible blood vessels; may bleed, crust, or not heal",
+        "<strong>Most common</strong>. Grows slowly, rarely spreads"
+       ],
+       [
+        "Squamous cell carcinoma",
+        "Flat (squamous) cells of the epidermis",
+        "Rough, scaly, crusted bump or sore that may bleed; often on face, lips, ears, hands",
+        "Can spread. Often grows from actinic keratoses"
+       ],
+       [
+        "Malignant melanoma",
+        "Melanocytes (pigment cells)",
+        "A mole or dark spot that is uneven, multicolored, large, or changing",
+        "<strong>Most serious</strong>. Can spread early to lymph nodes and organs"
+       ]
+      ]
+     },
+     "analogy": "Think of UV rays like a slow drip of water on a stone. One drip does nothing you can see, but years of drips wear a groove. Each sunburn or tan is a drip of damage to skin-cell DNA, and skin cancer is the groove that finally shows up, often decades later.",
+     "example": "<strong>At the bedside:</strong> Mr. R, 60, was just diagnosed with melanoma. He says, “My dad had basal cell cancer removed and was fine. Isn't this the same thing?” The best answer is honest and simple: “Both are skin cancers, but they are different. Basal cell is the most common type and rarely spreads. Melanoma starts in the pigment cells and is more serious because it can spread to other parts of the body, so your treatment and follow-up will be different.”"
+    },
+    {
+     "heading": "Spotting melanoma early: the ABCDE rule",
+     "body": "<p>Melanoma is the most dangerous skin cancer, but it is very treatable when found early. A normal mole is usually small, round, one even color, and stays the same for years. The <strong>ABCDE rule</strong> helps clients spot a mole that breaks these rules.</p><p><strong>E (evolving)</strong> matters most: a mole that is changing, or starts to itch, crust, or bleed, needs to be seen <strong>even if it is small</strong>. In darker skin, melanoma is more often found on the <strong>palms, soles, and under the nails</strong>, so self-exams must include the feet.</p>",
+     "bullets": [
+      "<strong>A – Asymmetry:</strong> one half does not match the other half.",
+      "<strong>B – Border:</strong> edges are irregular, ragged, notched, or blurred.",
+      "<strong>C – Color:</strong> more than one color, or uneven shades of brown, black, tan, red, white, or blue.",
+      "<strong>D – Diameter:</strong> larger than about 6 mm (the size of a pencil eraser).",
+      "<strong>E – Evolving:</strong> any change in size, shape, color, or height, or new symptoms such as itching, crusting, or bleeding."
+     ],
+     "check": {
+      "q": "A client with many moles says, “I only need to worry about moles bigger than a pencil eraser.” Is this correct?",
+      "a": "No. Any mole that is changing (E, evolving) needs evaluation, whatever its size. The client needs more teaching."
+     }
+    },
+    {
+     "heading": "Who is at risk? Genetics, age, sex, and skin tone",
+     "body": "<p>Some risk factors can't be changed, but knowing them tells you who needs extra teaching.</p><p><strong>Genetics and family history</strong> raise risk; a parent with melanoma raises a client's own risk. Some skin conditions are inherited: <strong>epidermolysis bullosa</strong> (skin that blisters with light friction), <strong>ichthyosis</strong> (very dry, thick, scaly skin), and <strong>albinism</strong> (little or no melanin, so almost no natural UV protection).</p><p><strong>Men</strong> have more infectious skin disorders; <strong>women</strong> have more pigment and autoimmune disorders; <strong>older adults</strong> have thinner skin, slower healing, and more years of sun damage.</p><p><strong>Lighter skin</strong> has less melanin (the pigment that absorbs UV), so it has a <strong>higher risk of UV damage</strong>. <strong>Darker skin</strong> is more prone to <strong>keloids</strong> (thick scars that grow past the wound edge), <strong>pseudofolliculitis</strong> (“razor bumps”), <strong>dermatosis papulosa nigra</strong> (small harmless dark facial bumps), and <strong>melasma</strong> (dark facial patches worsened by sun). Eczema and psoriasis may look purple, gray, or dark brown rather than red.</p><p>Darker skin is <strong>not immune</strong> to skin cancer, and it is often found later. <strong>All clients are at risk regardless of skin tone.</strong></p>",
+     "example": "<strong>At the bedside:</strong> At a community screening, a 38-year-old client reports several blistering sunburns as a child, more than 50 moles, and a mother who had melanoma. Which findings raise melanoma risk? All three: <strong>blistering sunburns, many moles, and a family history</strong>. The nurse encourages monthly self-exams, a yearly professional skin exam, and strict sun protection."
+    },
+    {
+     "heading": "Risk factors you can change: sun, illness, medicines, and nutrition",
+     "body": "<p><strong>Extrinsic aging</strong> comes from the outside world (<strong>UV, pollution, smoking, chemicals</strong>) and causes thickening, wrinkles, and <strong>precancerous changes</strong> such as the <strong>actinic keratosis</strong>, a rough, scaly pink patch on the scalp, ears, or hands. It is not “just aging” and should be checked.</p><p><strong>Chronic illness</strong> (<strong>diabetes, HIV/AIDS, obesity, poor circulation</strong>) weakens the skin's defenses: high glucose feeds bacteria, poor circulation starves skin of oxygen, and skin folds trap moisture.</p><p><strong>Medications</strong> such as <strong>steroids, antibiotics, chemotherapy, and antifungals</strong> may <strong>thin the skin</strong> or cause <strong>photosensitivity</strong> (burning much faster in the sun). <strong>Poor nutrition</strong> causes dry, fragile skin and <strong>delayed healing</strong>.</p>",
+     "example": "<strong>At the bedside:</strong> A client is prescribed doxycycline twice daily for 10 days and says, “I'm going fishing for 3 days this weekend.” The most important teaching is about <strong>photosensitivity</strong>: wear long sleeves and a wide-brimmed hat, stay in the shade when possible, and use broad-spectrum sunscreen SPF 30 or higher, reapplied often. The nurse does not tell the client to stop the antibiotic.",
+     "check": {
+      "q": "A 70-year-old retired farmer has rough, scaly pink patches on the scalp and ears for a year and asks if it is just normal aging. What should the nurse say?",
+      "a": "These may be sun-damage patches (actinic keratoses) caused by years of UV exposure. They can become cancer, so they should be checked by the provider."
+     }
+    },
+    {
+     "heading": "Teaching sun protection",
+     "body": "<p>Sun protection is the most important way to prevent skin cancer, for every skin tone. The slides list <strong>sunscreen, hats, and protective clothing</strong>.</p>",
+     "bullets": [
+      "<strong>Sunscreen:</strong> <strong>broad-spectrum</strong> (blocks UVA and UVB), <strong>SPF 30 or higher</strong>, water-resistant for swimming or sweating. Apply generously before going out.",
+      "<strong>Reapply about every 2 hours</strong> and after swimming, sweating, or towel drying. Water-resistant does <em>not</em> mean all day.",
+      "<strong>Use it on cloudy days</strong>; UV passes through clouds.",
+      "<strong>Wide-brimmed hat, long sleeves, and UV-blocking sunglasses.</strong>",
+      "<strong>Seek shade</strong> roughly <strong>10 a.m. to 4 p.m.</strong>",
+      "<strong>No tanning beds.</strong> A “base tan” is not protection; a tan means DNA damage already happened."
+     ],
+     "example": "<strong>At the bedside:</strong> A parent asks how to protect a healthy 4-month-old at an afternoon outdoor party in July. Infant skin is <strong>thinner</strong> and <strong>absorbs more</strong> of whatever is put on it, so teach <strong>shade and clothing first</strong> (hat, light long sleeves, avoid midday sun). If that isn't enough, a <strong>small amount</strong> of sunscreen may be used on small exposed areas like the face and backs of the hands."
+    },
+    {
+     "heading": "Everyday skin care and hygiene that prevent problems",
+     "body": "<p>Intact skin is the body's first barrier against germs, and these habits keep it intact:</p>",
+     "bullets": [
+      "<strong>Keep skin clean, dry, and moisturized.</strong> Moisture trapped in folds or between toes lets fungus and bacteria grow; dry, cracked skin lets germs in.",
+      "<strong>Avoid excessive cleansing</strong>, which strips natural oils. <strong>Moisturize regularly</strong>, especially after bathing.",
+      "<strong>Cover and care for wounds</strong> to reduce infection risk.",
+      "<strong>Avoid irritants and allergens:</strong> chemicals, dyes, perfumes, poison plants, latex, and metals (like nickel). Choose fragrance-free, dye-free products.",
+      "<strong>Don't share personal items</strong> such as combs, hats, or towels, which spread lice, fungus, and bacteria.",
+      "<strong>Children:</strong> proper diaper care with <strong>frequent changes</strong>."
+     ],
+     "example": "<strong>At the bedside:</strong> A 52-year-old client with type 2 diabetes and obesity asks how to keep the skin healthy. Good teaching: keep skin clean and dry, <strong>especially in skin folds and between the toes</strong>; moisturize after bathing; cover any cut and watch it for infection; use fragrance-free, dye-free products. The nurse would <em>not</em> tell the client to scrub with antibacterial soap several times a day (too drying) or to share towels with family (spreads infection)."
+    },
+    {
+     "heading": "Skin screenings: self-exams and professional exams",
+     "body": "<p><strong>Self-examinations</strong> help clients learn what their normal skin looks like so they notice changes early. Teach a monthly check with good light and mirrors (or a partner). Focus on <strong>sun-exposed areas</strong> (face, neck, ears, scalp, arms, legs), and <strong>also check the trunk, chest, and feet</strong>, including soles, between the toes, and nails. Look for new spots, sores that don't heal, and moles that fit ABCDE. This applies to every skin tone.</p><p><strong>Professional exams</strong> are a full skin inspection by a dermatologist or provider and may include a <strong>biopsy</strong>, <strong>cultures</strong>, or <strong>patch testing</strong>.</p>",
+     "example": "<strong>At the bedside:</strong> After a biopsy of a pearly, bleeding lesion on the forearm, discharge teaching is: <strong>keep the site clean and covered</strong>, report redness, swelling, drainage, or bleeding that won't stop, and keep using sunscreen on that arm whatever the result.",
+     "check": {
+      "q": "Which lesion found on a skin exam should be reported for possible biopsy: a pearly bump that bleeds, a scaly crusted sore that won't heal, or a small, round, evenly brown mole unchanged for 10 years?",
+      "a": "The pearly bleeding bump (possible basal cell) and the scaly, crusted non-healing sore (possible squamous cell). A small, even, unchanged mole is typical of a normal mole."
+     }
+    }
+   ],
+   "mnemonics": [
+    {
+     "name": "ABCDE of melanoma",
+     "text": "Asymmetry, Border irregular, Color varied, Diameter > 6 mm, Evolving (changing). E is the most important."
+    }
+   ],
+   "pearls": [
+    "Basal cell carcinoma = most common. Malignant melanoma = most serious.",
+    "A changing mole needs evaluation no matter how small it is. “E” (evolving) is the letter exams love.",
+    "Sun protection is for every skin tone. Any answer saying darker skin “can't get” skin cancer is wrong.",
+    "Water-resistant sunscreen still needs reapplying about every 2 hours and after swimming or sweating. Tanning beds and “base tans” are never protective.",
+    "Steroids, antibiotics, chemotherapy, and antifungals may thin the skin or increase sun sensitivity. Pair a photosensitizing drug with outdoor plans → teach clothing, shade, and sunscreen."
+   ],
+   "redFlags": [
+    "A mole that is changing, bleeding, or meets the ABCDE criteria → refer for provider evaluation and possible biopsy.",
+    "A sore, bump, or scaly crusted spot that bleeds or does not heal → report for evaluation."
+   ],
+   "recap": [
+    "About 1 in 4 Americans has a skin disorder, and skin cancer is the most common U.S. cancer.",
+    "Basal cell is most common and rarely spreads; squamous cell can spread; melanoma is the most serious.",
+    "ABCDE flags suspicious moles, and any evolving mole should be checked.",
+    "Genetics, older age, lighter skin, sun damage, chronic illness, some medications, and poor nutrition raise risk.",
+    "Teach broad-spectrum SPF 30+, reapply every 2 hours, hats, clothing, shade, and no tanning beds, for all skin tones.",
+    "Self-exams cover sun-exposed areas plus trunk, chest, and feet; professional exams may add biopsy, cultures, or patch tests."
+   ],
+   "checks": [
+    {
+     "q": "A lifeguard says, “My sunscreen is water-resistant, so I only put it on once in the morning.” How should the nurse respond?",
+     "a": "Water-resistant sunscreen still wears off. Reapply about every 2 hours and after swimming, sweating, or towel drying."
+    },
+    {
+     "q": "Which client needs the most urgent follow-up: a client whose mole has grown and changed color over 2 months, or a client with a stable 3-mm evenly brown mole?",
+     "a": "The changing mole. Evolving is the most important ABCDE warning sign and needs prompt evaluation for possible biopsy."
+    },
+    {
+     "q": "A client with obesity asks how to prevent rashes. Which body areas should the nurse emphasize keeping clean and dry?",
+     "a": "Skin folds (and between the toes), where trapped moisture lets fungus and bacteria grow."
+    },
+    {
+     "q": "Why should a client with dark skin check the soles, palms, and nails?",
+     "a": "In darker skin, melanoma is more often found in these low-sun areas."
+    }
+   ]
+  },
+  {
+   "id": "wound-types-classification",
+   "title": "Wound Types, Classification & Acute Wound Care",
+   "exemplar": null,
+   "summary": "Naming a wound correctly (by cause, skin integrity, contamination, and depth) tells you how likely it is to get infected, how it will heal, and what to do first.",
+   "objectives": [
+    "Tell the difference between intentional and unintentional wounds, and open and closed wounds.",
+    "Classify a wound as clean, clean-contaminated, contaminated, or dirty/infected, and link each class to infection risk.",
+    "Explain why partial-thickness wounds heal by regeneration and full-thickness wounds need connective tissue repair.",
+    "Put first-aid steps for an untreated wound in the correct order and recognize the signs of shock.",
+    "Monitor a treated wound for healing and signs of infection at each dressing change."
+   ],
+   "bigPicture": "<p>A <strong>wound</strong> is any break or injury to the skin or the tissue under it. Broken skin is an open door for germs, which is why wounds matter so much in nursing.</p><p>A neat surgical cut made in a sterile room is very different from a dog bite (an accidental cut, or <strong>laceration</strong>) or a days-old wound full of pus. Nurses use shared words to describe wounds so the team knows how likely infection is and how the wound will heal. You'll also learn the first steps for a fresh, bleeding wound, where the order can save a life.</p>",
+   "keyTerms": [
+    {
+     "term": "Intentional wound",
+     "def": "A wound made on purpose for therapy, such as a surgical incision or a venipuncture (needle stick into a vein)."
+    },
+    {
+     "term": "Unintentional wound",
+     "def": "An accidental wound, such as a laceration or a fracture."
+    },
+    {
+     "term": "Contusion",
+     "def": "A bruise. The skin is intact, but blood vessels underneath are damaged and blood leaks into the tissue."
+    },
+    {
+     "term": "Purulent drainage",
+     "def": "Pus: thick, cloudy drainage made of white blood cells, bacteria, and dead tissue. A sign of infection."
+    },
+    {
+     "term": "Partial-thickness wound",
+     "def": "A wound through the epidermis and into part of the dermis."
+    },
+    {
+     "term": "Full-thickness wound",
+     "def": "A wound through all skin layers, possibly into fat, muscle, or bone."
+    },
+    {
+     "term": "Regeneration",
+     "def": "Healing by replacing lost tissue with the same kind of tissue, so there is little or no scar."
+    },
+    {
+     "term": "Shock",
+     "def": "A life-threatening state in which too little blood and oxygen reach the organs, for example after major blood loss."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Four ways to describe a wound",
+     "body": "<p>Before you learn each system, see the big picture. A nurse can describe any wound by asking four questions:</p>",
+     "steps": [
+      "<strong>Why is it there?</strong> Was it made on purpose (intentional) or by accident (unintentional)?",
+      "<strong>Is the skin broken?</strong> Is the wound open or closed?",
+      "<strong>How dirty is it?</strong> Is it clean, clean-contaminated, contaminated, or dirty/infected?",
+      "<strong>How deep is it?</strong> Is it partial-thickness or full-thickness?"
+     ],
+     "check": {
+      "q": "A client has a surgical incision. Which of the four questions tells you it is an intentional wound?",
+      "a": "“Why is it there?” It was made on purpose for therapy."
+     }
+    },
+    {
+     "heading": "Intentional vs. unintentional wounds",
+     "body": "<p><strong>Intentional wounds</strong> are made on purpose <strong>for therapy</strong>. A surgical incision and a venipuncture are both intentional. Because they are planned, they are usually made with sterile technique on skin that has been cleaned first. That makes them less likely to be infected.</p><p><strong>Unintentional wounds</strong> are <strong>accidents</strong>: a laceration from broken glass, a fracture from a fall, a dog bite. Nobody cleaned the skin first, and the object that caused the wound may have carried dirt and bacteria into it. So unintentional wounds are usually more contaminated.</p>",
+     "check": {
+      "q": "A client has an IV catheter inserted and a surgical incision on the abdomen. Are these intentional or unintentional wounds?",
+      "a": "Both are intentional: they were created on purpose for therapy."
+     }
+    },
+    {
+     "heading": "Open vs. closed wounds",
+     "body": "<p>An <strong>open wound</strong> means the <strong>skin or mucous membrane is broken</strong>, as in lacerations, abrasions (scrapes), and incisions. The break lets germs in.</p><p>A <strong>closed wound</strong> means the <strong>skin is intact, but the tissue underneath is injured</strong>, as in a <strong>contusion</strong> (bruise): a blow crushes small vessels, blood leaks into the tissue, and you see swelling, tenderness, and color change. Closed wounds can hide bleeding. A contusion that becomes <strong>tense, hard, and keeps growing</strong> may mean ongoing bleeding, especially in a client who takes a “blood thinner.”</p>",
+     "example": "<strong>At the bedside:</strong> A client bumped the thigh on a table an hour ago; it is swollen, tender, and bruised with intact skin. This is a <strong>closed wound (contusion)</strong>. The nurse applies <strong>ice wrapped in a cloth</strong> and elevates the leg. Cold narrows vessels, slowing bleeding and swelling and numbing pain."
+    },
+    {
+     "heading": "Classification by contamination",
+     "body": "<p>This system is used mainly for surgical wounds. It sorts wounds into four classes based on <strong>how many germs are likely to be in the wound</strong>. The more contaminated the wound, the higher the risk of infection. Classes are sometimes numbered I to IV.</p><p>The easiest way to learn them is to ask: <em>Did we enter a body tract that normally has germs? Was it controlled? Was there an accident or spill? Is infection already there?</em></p>",
+     "table": {
+      "caption": "Wound classes by contamination (lowest → highest infection risk)",
+      "headers": [
+       "Class",
+       "What it means",
+       "Example",
+       "Infection risk"
+      ],
+      "rows": [
+       [
+        "I. Clean",
+        "Closed wound, no infection, sterile environment maintained. No GI, GU, or respiratory tract entered.",
+        "Elective hernia repair",
+        "Lowest"
+       ],
+       [
+        "II. Clean-contaminated",
+        "<strong>Controlled</strong> surgical entry into the GI, GU, or respiratory tract, with no unusual spill.",
+        "Elective colon or gallbladder surgery on a prepared bowel",
+        "Low"
+       ],
+       [
+        "III. Contaminated",
+        "<strong>Open, fresh</strong> accidental wound; a <strong>major break</strong> in sterile technique; <strong>spillage</strong> from the GI tract; or inflammation present (but no pus).",
+        "Repair of a dog-bite laceration from 2 hours ago",
+        "Higher"
+       ],
+       [
+        "IV. Dirty/Infected",
+        "<strong>Purulent drainage, dead tissue</strong>, or a clinical infection already present.",
+        "Surgery for a ruptured appendix with pus; an old traumatic wound with dead tissue",
+        "Highest"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> Client A had an elective colon resection with controlled entry into a prepared bowel and no spillage. Client B had repair of a dog-bite laceration from 2 hours ago. Client A's wound is <strong>clean-contaminated</strong> (controlled tract entry). Client B's wound is <strong>contaminated</strong> (fresh accidental wound). Client B has the higher infection risk. Now add Client C: surgery for a ruptured appendix with pus in the abdomen. That is <strong>dirty/infected</strong>, the highest risk of all.",
+     "check": {
+      "q": "A farmer has a 3-day-old leg wound with soil in it, yellow pus, and black dead tissue. What is the wound class?",
+      "a": "Dirty/infected, because pus and dead tissue show infection is already present. It has the highest infection risk."
+     }
+    },
+    {
+     "heading": "Classification by depth",
+     "body": "<p>Recall the layers: <strong>epidermis</strong>, <strong>dermis</strong>, then fat, muscle, and bone.</p><p>A <strong>partial-thickness</strong> wound goes through the epidermis and into part of the dermis. Hair follicles and glands left in the dermis hold living skin cells that multiply and cover the wound, so it heals by <strong>regeneration</strong> (same tissue grows back) with <strong>little or no scar</strong>. A scraped knee is an example.</p><p>A <strong>full-thickness</strong> wound goes through <strong>all skin layers</strong> and may reach muscle or bone. No skin-making cells are left in its base, so the body fills it with <strong>connective tissue</strong> (collagen), which becomes a <strong>scar</strong>. These heal more slowly and are at higher infection risk.</p>",
+     "analogy": "A partial-thickness wound is like a lawn with the top mowed too short: the roots are still there, so fresh grass grows back and looks the same. A full-thickness wound is like digging the grass out, roots and all. You have to fill the hole with something else (connective tissue), and it never looks quite like the original lawn.",
+     "example": "<strong>At the bedside:</strong> A client asks why a scraped knee from a bike fall healed without a scar, but a deep cut from glass left one. The nurse explains: “The scrape only took off the top layers, so your skin could grow back the same way. The deep cut went through all the layers, so your body filled it in with scar tissue.”"
+    },
+    {
+     "heading": "Caring for an untreated (fresh) wound",
+     "body": "<p>When a client arrives with a fresh, bleeding wound, the order of your actions matters. Always start with <strong>hand hygiene and gloves</strong> to protect yourself and the client from blood and germs. Then remember that <strong>bleeding is the first threat</strong>. A client can lose a dangerous amount of blood quickly, but infection takes hours to days. So you <strong>stop the bleeding first</strong>, then clean and cover.</p>",
+     "steps": [
+      "Perform hand hygiene and put on gloves.",
+      "<strong>Control bleeding:</strong> apply firm, direct <strong>pressure</strong> with a clean dressing and hold it. If blood soaks through, add more dressing on top rather than removing the first layer.",
+      "<strong>Elevate</strong> the injured area above the level of the heart, if possible. Gravity slows blood flow to the wound.",
+      "<strong>Prevent infection:</strong> once bleeding is controlled, <strong>clean with normal saline</strong>. Gently rinse out loose dirt or small debris like gravel.",
+      "<strong>Cover with a dressing</strong> to keep germs out.",
+      "<strong>Manage pain and swelling:</strong> apply <strong>ice</strong> wrapped in a cloth.",
+      "<strong>Assess for shock</strong> throughout, and report findings. Teach the client how to care for the wound and what signs of infection to report."
+     ],
+     "example": "<strong>At the bedside:</strong> A 10-year-old falls onto gravel and has an oozing knee abrasion with gravel in it. The school nurse puts on gloves, applies gentle pressure until the oozing stops, rinses with saline to flush out the gravel, covers it with a clean dressing, and teaches the family to watch for redness, swelling, or pus.",
+     "check": {
+      "q": "A client arrives with a 5-cm forearm laceration that is bleeding steadily. After hand hygiene and gloves, what is the nurse's first action?",
+      "a": "Apply firm direct pressure (and elevate). Cleaning with saline and covering come after the bleeding is controlled."
+     }
+    },
+    {
+     "heading": "Recognizing shock after a wound",
+     "body": "<p>Heavy bleeding, visible or hidden, can cause <strong>shock</strong>. With less blood in the vessels, the heart <strong>beats faster</strong> to keep blood moving, and skin vessels <strong>clamp down</strong> to save blood for the brain and heart, so skin becomes <strong>cool, pale, and clammy</strong>. When the body can't keep up, <strong>blood pressure drops</strong>, and less oxygen to the brain causes <strong>restlessness or confusion</strong>.</p>",
+     "bullets": [
+      "<strong>Rapid pulse</strong> (often weak or thready)",
+      "<strong>Cool, clammy, pale skin</strong>",
+      "<strong>Low blood pressure</strong>",
+      "<strong>Restlessness, anxiety, or confusion</strong>",
+      "Rapid breathing and less urine output"
+     ],
+     "example": "<strong>At the bedside:</strong> A 45-year-old fell through a glass door 30 minutes ago and has a pressure dressing on a deep forearm laceration. The nurse now finds: pulse 124, BP 88/54, skin cool and clammy, and the client is restless. These findings point to <strong>shock from blood loss</strong>. The nurse keeps firm pressure on the wound and keeps it elevated, lays the client flat, calls for help and notifies the provider right away, and anticipates IV fluids. The nurse then keeps trending the <strong>pulse and blood pressure</strong> (and skin, mental status, and urine output) to see whether the client is improving."
+    },
+    {
+     "heading": "Caring for a treated wound",
+     "body": "<p>Once a wound has been treated (for example, cleaned and sutured, or a surgical incision in the days after surgery), the nurse's job is to <strong>monitor healing at every dressing change</strong>. Each time you look, compare to the last time. Is it getting better, the same, or worse?</p>",
+     "bullets": [
+      "<strong>Drainage:</strong> note amount, color, and odor. Thin, clear or pink drainage can be normal early; thick, cloudy, yellow-green drainage (pus) or foul odor suggests infection.",
+      "<strong>Pain:</strong> should slowly decrease. Pain that increases after the first few days is a warning sign.",
+      "<strong>Signs of infection:</strong> spreading redness, warmth, swelling, pus, odor, dead (necrotic) tissue, and fever.",
+      "Document and report changes to the provider."
+     ],
+     "example": "<strong>At the bedside:</strong> A client with a leg wound has new yellow drainage, redness spreading beyond the wound edge, a temperature of 38.9 °C (102 °F), pulse 112, and a high WBC. This is a <strong>spreading infection</strong>, the priority; report it now. If a wound culture and an IV antibiotic are both ordered, get the <strong>culture first</strong>, then give the antibiotic without delay. The provider may leave a dirty wound like this open so drainage can escape, and dead tissue may need removal.",
+     "check": {
+      "q": "At a dressing change on post-op day 4, the nurse notes thick yellow drainage with a foul odor and increasing redness around the incision. What should the nurse do?",
+      "a": "Recognize signs of wound infection, document them, and report to the provider (anticipate a wound culture)."
+     }
+    }
+   ],
+   "mnemonics": [],
+   "pearls": [
+    "Controlled entry into the GI, GU, or respiratory tract = clean-contaminated. A fresh accident, a spill, or a major break in sterile technique = contaminated. Pus or dead tissue already present = dirty/infected.",
+    "The higher the contamination class, the higher the infection risk. Exams often ask “which client is at greatest risk for wound infection?” Pick the dirty/infected wound.",
+    "Bleeding wound: gloves → pressure → elevate → clean with saline → cover → watch for shock. Never clean first while it is still bleeding heavily.",
+    "Partial-thickness wounds regenerate with little scarring. Full-thickness wounds need connective tissue repair and scar.",
+    "When a culture and an antibiotic are both ordered, collect the culture first."
+   ],
+   "redFlags": [
+    "Bleeding that soaks through dressings despite firm pressure → add dressings, keep pressure and elevation, and call for help.",
+    "Rapid pulse, cool clammy skin, low BP, or restlessness after a wound → treat as possible shock and notify the provider immediately.",
+    "Spreading redness, pus, foul odor, and fever → report as a spreading wound infection."
+   ],
+   "recap": [
+    "Intentional wounds are made for therapy; unintentional wounds are accidents.",
+    "Open wounds break the skin or mucous membrane; closed wounds (contusions) leave skin intact but injure tissue underneath.",
+    "Contamination classes: clean → clean-contaminated → contaminated → dirty/infected, with infection risk rising at each step.",
+    "Partial-thickness wounds regenerate; full-thickness wounds heal with connective tissue (scar).",
+    "For a fresh wound: stop bleeding with pressure and elevation, then clean with saline, cover, and ice for pain and swelling.",
+    "Shock signs: rapid pulse, cool clammy skin, low BP, restlessness."
+   ],
+   "checks": [
+    {
+     "q": "Which client is at greatest risk for a wound infection: an elective hernia repair, an elective gallbladder removal, a fresh dog-bite repair, or a 3-day-old crush wound with soil, pus, and dead tissue?",
+     "a": "The 3-day-old crush wound. Pus and dead tissue make it dirty/infected, the highest-risk class."
+    },
+    {
+     "q": "A client's scrape healed with no scar, but a deep cut healed with a scar. Which term explains the first wound's healing?",
+     "a": "Regeneration. A partial-thickness wound still has skin-making cells, so it regrows the same tissue."
+    },
+    {
+     "q": "After a large laceration, a client's pulse rises from 88 to 122 and the skin becomes cool and clammy. BP is 96/60. What does this suggest, and what should the nurse do?",
+     "a": "Early shock from blood loss. Keep pressure and elevation on the wound, call for help, notify the provider, and keep monitoring pulse and BP."
+    },
+    {
+     "q": "Why control bleeding before cleaning a fresh laceration?",
+     "a": "Blood loss threatens life now; infection develops over hours to days."
+    }
+   ]
+  },
+  {
+   "id": "diagnostics-labs-nutrition",
+   "title": "Diagnostic Tests, Healing Labs & Everyday Nursing Care",
+   "exemplar": null,
+   "summary": "The right test finds the cause of a skin problem, the right labs predict whether a wound can heal, and good hygiene, infection prevention, and nutrition give the skin what it needs to repair itself.",
+   "objectives": [
+    "Match each skin test on the slides (biopsy, cultures, immunofluorescence, Wood lamp, KOH prep, Tzanck test, allergy tests, carrier studies) to the question it answers.",
+    "Explain how low WBC, low hemoglobin, abnormal clotting, and low albumin affect wound healing.",
+    "Carry out independent nursing interventions for hygiene, including bathing frequency and gentle skin care.",
+    "Teach infection prevention during wound care and the signs of infection to report."
+   ],
+   "bigPicture": "<p>A red, itchy patch could be a fungus, an allergy, or a virus, and each needs different treatment. <strong>Diagnostic tests</strong> answer “What is causing this?”</p><p>Healing also depends on the inside of the body: <strong>white blood cells</strong> to fight germs, <strong>hemoglobin</strong> to carry oxygen, normal <strong>clotting</strong>, and enough <strong>protein and calories</strong>. Labs tell you if these are present. And much of healing comes from <strong>independent nursing care</strong>: gentle bathing, hand hygiene, teaching, nutrition, and activity.</p>",
+   "keyTerms": [
+    {
+     "term": "KOH prep",
+     "def": "Potassium hydroxide preparation. Skin scrapings are mixed with KOH, which dissolves skin cells so fungus can be seen under a microscope."
+    },
+    {
+     "term": "Tzanck test",
+     "def": "Cells scraped from the base of a blister are examined for changes caused by herpes-type viruses."
+    },
+    {
+     "term": "Wood lamp",
+     "def": "A handheld ultraviolet (black) light used in a dark room. Some fungal infections and pigment changes glow or stand out under it."
+    },
+    {
+     "term": "Immunofluorescence",
+     "def": "A lab test that uses glowing dyes to find antibodies or immune deposits in a skin sample; used for some autoimmune skin diseases."
+    },
+    {
+     "term": "Patch test",
+     "def": "An allergy test in which possible allergens are taped to the skin to find the cause of a contact (delayed) allergy."
+    },
+    {
+     "term": "Carrier",
+     "def": "A person who has germs (for example, Staphylococcus aureus in the nose) without being sick, but can spread them or reinfect themselves."
+    },
+    {
+     "term": "Albumin",
+     "def": "The main protein in the blood. Normal is about 3.5–5.0 g/dL. Below 3.5 g/dL suggests poor nutrition and delayed healing."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Skin biopsy and cultures: the two workhorse tests",
+     "body": "<p>A <strong>skin biopsy</strong> removes a small piece of a lesion so it can be examined under a microscope. It answers: <strong>benign or cancerous?</strong> Afterward, teach the client to <strong>keep the site clean and covered</strong> and report bleeding or signs of infection.</p><p><strong>Cultures</strong> of <strong>tissue, drainage, exudate</strong> (fluid leaking from tissue), <strong>or serum</strong> grow and identify the germ and show which antibiotics work. <strong>Collect the culture before the first antibiotic dose</strong>, since an antibiotic given first can make the result falsely negative, then give the antibiotic promptly.</p>",
+     "check": {
+      "q": "An IV antibiotic and a wound culture are both ordered for a client with an infected wound. Which comes first?",
+      "a": "The wound culture, so the antibiotic doesn't affect the sample. Then give the antibiotic right away."
+     }
+    },
+    {
+     "heading": "Special tests: KOH, Tzanck, Wood lamp, and immunofluorescence",
+     "body": "<p>Link each test to its cause:</p><p><strong>KOH prep → fungus.</strong> Scales scraped from a lesion's edge are mixed with potassium hydroxide, which dissolves skin cells but not fungus, so fungal threads show under the microscope. Think of ring-shaped scaly patches (tinea) and athlete's foot.</p><p><strong>Tzanck test → virus.</strong> Cells scraped from the base of a fresh blister are checked for changes caused by herpes-type viruses (herpes simplex, chickenpox/shingles). Think of <strong>clusters of painful vesicles</strong>.</p><p><strong>Wood lamp → UV glow.</strong> A black light in a dark room makes some fungal infections glow and pigment loss stand out. Painless; skin should be free of lotions and makeup.</p><p><strong>Immunofluorescence → immune system.</strong> Glowing dyes attach to antibodies in a skin sample, helping diagnose some autoimmune skin diseases.</p>",
+     "table": {
+      "caption": "Matching the test to the question",
+      "headers": [
+       "Test",
+       "What it looks for",
+       "Think of it when you see…"
+      ],
+      "rows": [
+       [
+        "Skin biopsy",
+        "Benign vs. cancerous cells",
+        "A changing mole; a pearly bump that bleeds; a sore that won't heal"
+       ],
+       [
+        "Culture",
+        "The organism causing an infection; which antibiotic works",
+        "Pus, drainage, or exudate from a wound"
+       ],
+       [
+        "KOH prep",
+        "Fungus",
+        "Ring-shaped scaly patch with a raised border and clear center; athlete's foot"
+       ],
+       [
+        "Tzanck test",
+        "Herpes-type viral changes",
+        "A cluster of painful vesicles on a red base"
+       ],
+       [
+        "Patch test",
+        "Contact (delayed) allergy",
+        "Recurring hand rash from work products"
+       ],
+       [
+        "Nasal culture (carrier study)",
+        "Staph living in the nose",
+        "Repeated boils or skin infections"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A 16-year-old wrestler has a scaly, ring-shaped patch with a raised border and clear center, and two teammates have the same. Likely fungus (tinea) → anticipate a <strong>KOH prep</strong>. A cluster of painful vesicles on the lip → <strong>Tzanck test</strong>."
+    },
+    {
+     "heading": "Allergy tests",
+     "body": "<p>Allergy tests find out <em>what</em> a client is allergic to. There are three types on the slides:</p>",
+     "bullets": [
+      "<strong>Scratch (prick) test:</strong> a tiny drop of each possible allergen is placed on the skin, and the skin is lightly scratched or pricked. A raised, itchy wheal within about 15–20 minutes shows an allergy.",
+      "<strong>Intradermal test:</strong> a small amount of allergen is injected just under the skin. It is more sensitive, so the nurse watches for a serious reaction and keeps emergency equipment available.",
+      "<strong>Patch test:</strong> used for <strong>contact dermatitis</strong>, a delayed allergy to things that touch the skin (metals, dyes, fragrances, chemicals). Allergens are taped onto the upper back. The patches stay on and must be <strong>kept dry for about 48 hours</strong> (no showering the back, no heavy sweating). They are read when removed and <strong>read again a few days later</strong>, because this type of reaction takes days to appear."
+     ],
+     "example": "<strong>At the bedside:</strong> A hairstylist with a recurring hand rash has patch tests placed on the upper back. The statement that shows understanding: “I'll keep my back dry for 2 days and come back for a second reading later this week.” A statement like “I can shower normally tonight” or “The results will be ready in 20 minutes” needs more teaching."
+    },
+    {
+     "heading": "Carrier studies",
+     "body": "<p>Some people carry <em>Staphylococcus aureus</em> (staph) in the nose without being sick, and keep reinfecting their own skin. A <strong>carrier study</strong> is a <strong>nasal culture</strong> for clients with <strong>repeated infections</strong>. If positive, the provider prescribes treatment, and the nurse teaches: use it as prescribed, <strong>wash hands often</strong>, <strong>cover lesions</strong>, and <strong>don't share</strong> towels, razors, or gear.</p>",
+     "example": "<strong>At the bedside:</strong> A high school wrestler has his third episode of boils in 4 months, and his nasal culture grows staph. The nurse teaches him to finish the prescribed treatment, cover draining boils, wash hands before and after touching them, and stop sharing towels and razors."
+    },
+    {
+     "heading": "Lab data that predict wound healing",
+     "body": "<p>A healing wound needs germ-fighting white cells, oxygen, a working clotting system, and building materials (protein). Each lab on the slides tells you whether one of those needs is met.</p>",
+     "table": {
+      "caption": "Labs and wound healing (normal ranges are approximate; check your facility's values)",
+      "headers": [
+       "Lab",
+       "Approx. normal",
+       "Problem result",
+       "Why it matters for healing"
+      ],
+      "rows": [
+       [
+        "WBC count",
+        "5,000–10,000/mm³",
+        "↓ Low",
+        "Poor infection defense, delayed healing. May also hide signs of infection."
+       ],
+       [
+        "Hemoglobin",
+        "About 12–16 g/dL (women), 14–18 g/dL (men)",
+        "↓ Low",
+        "Less oxygen delivered to tissue."
+       ],
+       [
+        "Coagulation studies (PT/INR, aPTT)",
+        "Varies by test",
+        "Prolonged times",
+        "Excessive bleeding."
+       ],
+       [
+        "Coagulation studies",
+        "—",
+        "Hypercoagulability",
+        "Clotting → poor wound perfusion."
+       ],
+       [
+        "Albumin",
+        "3.5–5.0 g/dL",
+        "<strong>&lt; 3.5 g/dL</strong>",
+        "Poor nutrition → ↑ infection risk, delayed healing."
+       ],
+       [
+        "Wound culture",
+        "No growth",
+        "Organism grows",
+        "Confirms infection; guides antibiotic choice."
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A 78-year-old is 10 days after hip surgery. The incision is pale with little new tissue, the client eats about 25% of meals, and there is no fever. WBC and Hgb are normal; albumin is 2.8 g/dL. The <strong>low albumin</strong> is most likely slowing healing. The nurse reports it and anticipates a dietitian referral. (In a client with diabetes, <strong>high blood glucose</strong> also slows healing.)"
+    },
+    {
+     "heading": "When clotting is abnormal",
+     "body": "<p><strong>Prolonged clotting times</strong> mean blood clots slowly (from illness or blood-thinning medicines), so a wound may <strong>ooze or bleed heavily</strong>. First action: <strong>firm direct pressure</strong>, then notify the provider with the result. <strong>Hypercoagulability</strong> is the opposite: tiny clots block the small vessels feeding the wound, causing poor perfusion and slow healing.</p>",
+     "example": "<strong>At the bedside:</strong> A client on a blood thinner had a scalp laceration sutured 3 hours ago. The dressing is soaked with bright red blood and the INR is 4.6 (high). First, <strong>apply firm, direct pressure</strong>; then notify the provider and monitor pulse and BP for shock."
+    },
+    {
+     "heading": "Independent nursing interventions: hygiene and comfort",
+     "body": "<p>Nursing goals: <strong>control disease, prevent infection, promote healing</strong>. Start by <strong>asking about home remedies</strong> (peroxide, alcohol, butter, herbal pastes). Some damage tissue and <strong>hinder healing</strong>; ask without judgment.</p><p>Hygiene removes germs, but too much washing strips natural oils. So <strong>adults bathe daily</strong>, and <strong>children and older adults every other day</strong>, since their skin is thinner and drier. <strong>Avoid harsh soap</strong>; use mild or liquid cleansers, and <strong>moisturize after bathing</strong>. Teach comfort and protection strategies such as loose cotton clothing and short nails to limit scratching.</p>",
+     "steps": [
+      "Hand hygiene; check the water is <strong>lukewarm</strong> (hot water dries and can burn).",
+      "Wash <strong>gently</strong> with a <strong>mild liquid cleanser</strong>.",
+      "<strong>Rinse</strong> off all cleanser.",
+      "<strong>Pat</strong> dry with a soft towel; don't rub thin skin.",
+      "<strong>Moisturize</strong> while the skin is still slightly damp."
+     ]
+    },
+    {
+     "heading": "Infection prevention and exercise",
+     "body": "<p>Every wound is an open door for germs, so infection prevention is built into every wound care step.</p>",
+     "bullets": [
+      "<strong>Proper wound cleaning and dressing</strong> as ordered.",
+      "<strong>Hand hygiene before AND after</strong> wound care. Before protects the client; after protects you and the next client.",
+      "<strong>Safe disposal of soiled dressings</strong> in the correct waste container, never left at the bedside.",
+      "<strong>Teach the signs of infection</strong> to report: <strong>redness, swelling, drainage (especially pus), and necrosis</strong> (dead tissue), plus warmth, increasing pain, odor, and fever."
+     ],
+     "analogy": "Exercise is like opening the roads to a construction site. The more the blood flows, the more trucks carrying oxygen and nutrients can reach the wound, and the fewer places where pressure blocks the road.",
+     "example": "<strong>Exercise</strong> <strong>promotes blood flow</strong> to healing tissue and <strong>helps prevent pressure injuries</strong>. <strong>At the bedside:</strong> an older adult with a leg wound sits most of the day, so the nurse plans assisted walks three times daily and seated ankle pumps.",
+     "check": {
+      "q": "Why does the nurse perform hand hygiene both before and after a dressing change?",
+      "a": "Before protects the client's wound from the nurse's germs; after protects the nurse and prevents carrying the wound's germs to other clients."
+     }
+    },
+    {
+     "heading": "Nutrition: feeding the wound",
+     "body": "<p>Skin is rebuilt from what the client eats. A healing wound actually <strong>increases</strong> the body's needs. The slides list the key nutrients:</p>",
+     "bullets": [
+      "<strong>↑ Calories:</strong> healing takes energy; without enough, the body burns protein for fuel instead of building tissue.",
+      "<strong>↑ Protein:</strong> the building material for new tissue. Low protein shows up as low albumin.",
+      "<strong>Vitamin A</strong> helps new skin cells grow; <strong>vitamin C</strong> is needed to make collagen, the “glue” of new tissue.",
+      "<strong>Foods:</strong> whole grains, vegetables, citrus, dairy, lean proteins.",
+      "<strong>Poor intake:</strong> <strong>small, frequent meals</strong> or <strong>supplements</strong>, and a dietitian consult."
+     ],
+     "example": "<strong>At the bedside:</strong> A 76-year-old with a slowly healing leg wound has lost 4 kg (8.8 lb) in 2 months, eats about half of each meal, and has an albumin of 2.9 g/dL. The low albumin means <strong>poor nutrition</strong>, which raises the risk of <strong>infection</strong> and <strong>delayed healing</strong>. The nurse recommends more calories and protein, foods rich in vitamins A and C, small frequent meals, and a supplement if ordered, and requests a dietitian consult.",
+     "check": {
+      "q": "A client with an albumin of 3.0 g/dL and a poor appetite asks what to eat. Name two recommendations.",
+      "a": "Any two: increase protein (lean meats, eggs, dairy), increase calories, eat citrus/vegetables for vitamins A and C, and try small frequent meals or supplements."
+     }
+    }
+   ],
+   "mnemonics": [],
+   "pearls": [
+    "Albumin < 3.5 g/dL = poor nutrition, higher infection risk, and delayed healing. Exams often pair it with “eats 25–50% of meals.”",
+    "Get the culture before the first antibiotic dose, then give the antibiotic promptly.",
+    "Low WBC, low hemoglobin, low albumin, and high glucose all slow healing. Normal values in the same question are distractors.",
+    "Patch tests: keep the area dry for about 48 hours and return for a second reading. Scratch tests are read in minutes.",
+    "Bathing: adults daily; children and older adults every other day; lukewarm water, mild cleanser, pat dry, moisturize while damp."
+   ],
+   "redFlags": [
+    "A client with a wound, albumin < 3.5 g/dL, weight loss, and poor intake → report and request a dietitian referral and nutrition plan.",
+    "Spreading redness, pus, new odor, fever, and rapid pulse in a client with a wound → report as a spreading infection.",
+    "Steady bleeding from a wound in a client with prolonged clotting times (for example, a high INR) → apply firm pressure first, then notify the provider."
+   ],
+   "recap": [
+    "Biopsy = benign vs. cancer; cultures identify the germ and guide antibiotics (collect before the first dose).",
+    "KOH = fungus, Tzanck = viral vesicles, Wood lamp = UV glow, immunofluorescence = immune deposits.",
+    "Allergy tests: scratch, intradermal, and patch (patch stays dry 48 hours, read again days later). Nasal carrier cultures are for repeated infections.",
+    "↓ WBC, ↓ Hgb, abnormal clotting, and albumin < 3.5 g/dL all delay healing.",
+    "Ask about home remedies; bathe adults daily and children/older adults every other day with mild cleansers, then moisturize.",
+    "Hand hygiene before and after wound care, safe dressing disposal, and teaching signs of infection prevent spread."
+   ],
+   "checks": [
+    {
+     "q": "A resident with a skin tear has these results: albumin 2.9 g/dL, Hgb 10.1 g/dL, blood glucose 248 mg/dL, WBC 8,200/mm³. Which are likely to delay healing?",
+     "a": "The low albumin, low hemoglobin, and high glucose. The WBC is normal."
+    },
+    {
+     "q": "Which test should the nurse anticipate for a client with a cluster of painful vesicles on a red base on the lip?",
+     "a": "A Tzanck test, which looks for changes caused by herpes-type viruses."
+    },
+    {
+     "q": "A client uses a homemade paste of herbs and flour on a leg wound. What is the nurse's best first step?",
+     "a": "Assess the home remedy without judgment: ask what it is and how it is used, because some home remedies hinder healing. Then teach and report."
+    },
+    {
+     "q": "How often should a healthy 80-year-old bathe, per the slides?",
+     "a": "Every other day, because older skin is thinner and drier."
+    }
+   ]
+  },
+  {
+   "id": "skin-therapies-pharm",
+   "title": "Collaborative, Pharmacologic & Complementary Skin Therapies",
+   "exemplar": null,
+   "summary": "Skin care is a team effort: over-the-counter and prescription medicines, wound therapies, and even herbal products all help, but only when used correctly and with the nurse watching for problems.",
+   "objectives": [
+    "Distinguish conditions usually treated with OTC products (minor acne, lice, sunburn) from those needing prescription medicines (eczema, psoriasis, dermatitis).",
+    "Explain how benzoyl peroxide and salicylic acid work and teach their safe use.",
+    "Apply a topical prescription medicine safely and teach related precautions.",
+    "Describe nonpharmacologic therapies for burns, pressure injuries, and severe wounds.",
+    "Counsel clients about aloe vera, chamomile, and evening primrose oil, including limited evidence and interaction or allergy risks."
+   ],
+   "bigPicture": "<p>A client with a severe wound may see a nurse, a wound care nurse, a surgeon, and a case manager in one week. When the team communicates well, the client has <strong>fewer complications</strong>.</p><p>Many skin medicines are <strong>topical</strong> (put on the skin), and how much, where, and how often really matter: too much can irritate or thin the skin. Clients also use drugstore and herbal products you didn't order, so ask about everything. This lesson covers <strong>pharmacologic</strong>, <strong>nonpharmacologic</strong>, and <strong>complementary</strong> therapy.</p>",
+   "keyTerms": [
+    {
+     "term": "Wound care nurse",
+     "def": "A nurse with special training in complex wounds, often called in as a consultant."
+    },
+    {
+     "term": "OTC",
+     "def": "Over-the-counter. Medicines that can be bought without a prescription."
+    },
+    {
+     "term": "Topical",
+     "def": "Applied directly to the skin or mucous membranes."
+    },
+    {
+     "term": "Benzoyl peroxide",
+     "def": "An OTC acne medicine that kills acne-causing bacteria and unplugs oil ducts. First-line acne treatment."
+    },
+    {
+     "term": "Salicylic acid",
+     "def": "An OTC medicine that exfoliates (loosens and removes dead skin cells) and reduces inflammation."
+    },
+    {
+     "term": "Corticosteroid (topical)",
+     "def": "An anti-inflammatory medicine applied to the skin to calm redness, itching, and swelling, as in eczema or psoriasis."
+    },
+    {
+     "term": "Debridement",
+     "def": "Removal of dead or damaged tissue from a wound so healthy tissue can grow."
+    },
+    {
+     "term": "Negative pressure wound therapy",
+     "def": "A vacuum device that applies gentle suction to a wound through a sealed dressing."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "The interprofessional team",
+     "body": "<p>An <strong>interprofessional team</strong> improves outcomes because each member sees a different piece of the client's problem. The benefits named on the slides are <strong>better communication and fewer complications</strong>. Here is what each team member typically contributes:</p>",
+     "table": {
+      "caption": "Who does what for skin and wound care",
+      "headers": [
+       "Team member",
+       "Typical role"
+      ],
+      "rows": [
+       [
+        "Nurse",
+        "Assesses skin and wounds, gives medicines, performs wound care, teaches, and coordinates the team"
+       ],
+       [
+        "UAP (nursing assistant)",
+        "Bathing, turning and repositioning, keeping skin clean and dry, and <strong>reporting</strong> skin changes to the nurse"
+       ],
+       [
+        "Wound care nurse",
+        "Consultant for complex or non-healing wounds; recommends treatment plans"
+       ],
+       [
+        "Case manager",
+        "Plans discharge, arranges home care, equipment, and supplies, and coordinates insurance"
+       ],
+       [
+        "Health care provider (HCP)",
+        "Diagnoses, orders tests and medicines"
+       ],
+       [
+        "Dermatologist",
+        "Specialist in skin diseases such as eczema, psoriasis, acne, and suspicious lesions"
+       ],
+       [
+        "Oncologist",
+        "Treats skin cancers that need more than simple removal, such as advanced melanoma"
+       ],
+       [
+        "Surgeon",
+        "Removes lesions, repairs wounds, and removes dead tissue"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client is going home with a large wound that needs daily care. The nurse asks the wound care nurse to recommend a plan, the case manager arranges home health visits and supplies, and the nurse teaches the client and family. Because everyone shared the same plan, the client leaves with the right supplies and knows whom to call."
+    },
+    {
+     "heading": "OTC vs. prescription: what is treated with what?",
+     "body": "<p><strong>OTC medicines</strong> are used for <strong>minor</strong> problems that clients can often manage at home: <strong>minor acne, lice, and sunburn</strong>. <strong>Prescription medicines</strong>, both <strong>oral and topical</strong>, are used for <strong>eczema, psoriasis, and dermatitis</strong>. These are more long-lasting inflammatory conditions that need a provider to diagnose and manage them.</p><p>Even OTC products need teaching. Clients often think “no prescription” means “no risk,” and they may overuse a product.</p>",
+     "bullets": [
+      "<strong>Minor acne:</strong> benzoyl peroxide and salicylic acid (details below).",
+      "<strong>Lice:</strong> OTC lice-treatment shampoos or lotions. Teach the client to follow the label exactly, comb out nits (eggs) with a fine-tooth comb, check the hair again afterward, wash bedding and hats in hot water, and not share combs or hats.",
+      "<strong>Sunburn:</strong> OTC soothing products and pain relievers can ease discomfort. Cool compresses help. Teach prevention for next time."
+     ],
+     "check": {
+      "q": "Which is usually treated first with an OTC product: head lice or psoriasis?",
+      "a": "Head lice. Psoriasis, eczema, and dermatitis are treated with prescription medicines."
+     }
+    },
+    {
+     "heading": "Acne medicines: benzoyl peroxide and salicylic acid",
+     "body": "<p>To understand acne medicines, first understand acne. During puberty, hormones make oil glands produce more <strong>sebum</strong> (oil). Oil and dead skin cells plug the hair follicle or duct. Bacteria that live on the skin grow in the plugged duct, and the area becomes inflamed. The result is a pimple.</p><p><strong>Benzoyl peroxide</strong> is the <strong>first-line acne treatment</strong>. It <strong>kills bacteria</strong> and <strong>unplugs ducts</strong>, attacking acne at two points. Teach the client:</p>",
+     "bullets": [
+      "Start with a thin layer, often once a day, and increase slowly as the skin gets used to it.",
+      "<strong>Some dryness, redness, and peeling are expected</strong> at first. A gentle, oil-free moisturizer helps.",
+      "It can <strong>bleach towels, pillowcases, clothing, and hair</strong>. Use white towels and let it dry before touching fabric.",
+      "Wash the face <strong>gently</strong> with lukewarm water; don't scrub, which worsens irritation. Don't pick or squeeze pimples.",
+      "Be patient: improvement takes several weeks."
+     ],
+     "analogy": "Acne is like a clogged sink with mold growing in it. Salicylic acid is the drain cleaner that loosens the clog of dead skin. Benzoyl peroxide does two jobs: it clears the drain and kills the mold (bacteria).",
+     "example": "<strong>At the bedside:</strong> The nurse teaches a 15-year-old about benzoyl peroxide and salicylic acid. Which statement needs more teaching? “I'll scrub my face hard several times a day so the medicine works faster.” Scrubbing irritates the skin. Correct statements: “Benzoyl peroxide kills bacteria and can bleach my towels,” and “Salicylic acid helps peel away dead skin and calms the redness.”"
+    },
+    {
+     "heading": "Salicylic acid and skin-tone considerations",
+     "body": "<p><strong>Salicylic acid</strong> works by <strong>exfoliation</strong>: it loosens the “glue” between dead skin cells so they shed and don't plug pores. It also <strong>reduces inflammation</strong>, so pimples look less red and swollen. Like benzoyl peroxide, it can cause some dryness, so start slowly.</p><p><strong>Skin tone differences:</strong> darker skin is <strong>more prone to inflammation</strong>. After a pimple or irritation heals, darker skin often keeps a dark spot (discoloration) for months. So clients with darker skin may need <strong>combination therapy</strong>, such as medicines plus <strong>chemical peels</strong> (a solution that removes the outer skin layers) or <strong>microdermabrasion</strong> (gentle mechanical “sanding” of the top layer), done by a skin specialist. Because these treatments can themselves irritate darker skin, they are chosen and done carefully.</p>",
+     "check": {
+      "q": "Why might a client with darker skin need a different acne plan?",
+      "a": "Darker skin is more prone to inflammation and to dark spots after healing, so combination therapy (for example, peels or microdermabrasion) may be needed and chosen carefully."
+     }
+    },
+    {
+     "heading": "Prescription topical medicines: applying them safely",
+     "body": "<p>For eczema, psoriasis, and dermatitis, providers often prescribe <strong>topical corticosteroids</strong> (anti-inflammatory creams and ointments), and sometimes oral medicines. Corticosteroids calm the immune reaction that causes redness, itching, and scaling. They work well, but <strong>long-term or heavy use can thin the skin</strong>, cause stretch marks, and make the skin bruise or tear easily. More medicine also soaks into the body when large areas are covered or the area is sealed.</p><p>When you apply any topical medicine, follow these steps:</p>",
+     "steps": [
+      "Check the order, identify the client, and perform hand hygiene.",
+      "Put on <strong>gloves</strong> (protects you from absorbing the medicine and the client from germs).",
+      "<strong>Gently clean and dry</strong> the skin, removing old medicine.",
+      "Apply a <strong>thin layer</strong> and rub it in gently in the direction of hair growth.",
+      "<strong>Do not cover</strong> the area with an occlusive (airtight) dressing <strong>unless prescribed</strong>, because covering increases absorption.",
+      "Remove gloves, perform hand hygiene, and document. Watch for irritation or skin thinning."
+     ],
+     "example": "<strong>At the bedside:</strong> A client with thick psoriasis plaques on both elbows and knees is prescribed a <strong>high-potency</strong> corticosteroid ointment twice daily for 2 weeks. The nurse teaches: apply a thin layer only to the plaques, use it for the prescribed short course, <strong>don't use it on the face or in skin folds</strong> (thin skin absorbs more), don't cover it with plastic wrap unless the provider says to, and report thin, shiny, or easily bruised skin.",
+     "check": {
+      "q": "A client says, “If a thin layer helps, a thick layer under plastic wrap will work even better.” How should the nurse respond?",
+      "a": "Use only a thin layer and don't cover it unless prescribed. More medicine and covering increase absorption and the risk of thinning the skin, without better results."
+     }
+    },
+    {
+     "heading": "Nonpharmacologic therapy",
+     "body": "<p>Not every skin treatment comes in a tube. The slides list several nonpharmacologic therapies:</p>",
+     "bullets": [
+      "<strong>Proper wound care, dressing changes, and nutrition:</strong> the foundation of all healing, covered in the wound and nutrition lessons.",
+      "<strong>Burns → daily debridement and sterile dressings.</strong> Burned skin leaves dead tissue that bacteria love. <strong>Debridement</strong> removes that dead tissue so healthy tissue can grow. Because burned skin has lost its barrier, dressings are <strong>sterile</strong>. Debridement is painful, so the nurse plans pain relief before the procedure.",
+      "<strong>Pressure injuries → care varies by stage and facility protocol.</strong> There is no one-size-fits-all treatment; follow the stage and your facility's protocol (you will learn staging in the pressure injury lesson).",
+      "<strong>Severe wounds → negative pressure wound therapy (NPWT).</strong> A foam dressing is placed in the wound and sealed with a clear film, and a tube connects to a vacuum device. Gentle suction pulls out extra fluid, draws the wound edges together, and boosts blood flow to help healing."
+     ],
+     "example": "<strong>At the bedside:</strong> Before a client's daily burn debridement, the nurse gives the ordered pain medicine timed to work during the procedure, uses sterile technique for the new dressing, and watches for signs of infection."
+    },
+    {
+     "heading": "Complementary approaches: aloe vera, chamomile, evening primrose oil",
+     "body": "<p>Many clients use natural products for their skin. The slides name three: <strong>aloe vera</strong> (a plant gel often used on minor burns and sunburn), <strong>chamomile</strong> (a flower used in creams and teas), and <strong>evening primrose oil</strong> (an oil from a plant seed, taken as capsules or applied to the skin). They <strong>may soothe irritation and promote healing</strong>, but the <strong>evidence is limited</strong>.</p><p>“Natural” does not mean “safe for everyone.” Two big risks:</p>",
+     "bullets": [
+      "<strong>Allergies:</strong> any plant product can cause an allergic skin reaction. Chamomile is related to ragweed, so people with ragweed allergy may react. Stop any product that causes <strong>burning, stinging, rash, or swelling</strong>.",
+      "<strong>Drug interactions:</strong> products taken by mouth can interact with medicines. For example, evening primrose oil may increase bleeding risk in a client who takes a blood thinner.",
+      "Use complementary products <strong>alongside</strong> prescribed care, never instead of it, and <strong>tell the provider</strong> about every product used."
+     ],
+     "example": "<strong>At the bedside:</strong> A client with atopic dermatitis who takes warfarin asks about aloe vera gel and evening primrose oil capsules. The statement showing understanding: “I'll keep using my prescribed cream, tell my provider before I start anything new, and stop anything that makes my skin burn or break out.” A statement like “Since they're natural, I can stop my prescription” needs more teaching.",
+     "check": {
+      "q": "Why should the nurse ask every client about herbal and complementary products?",
+      "a": "They can cause allergic reactions and interact with prescribed medicines, and the evidence for them is limited. The provider needs to know everything the client uses."
+     }
+    },
+    {
+     "heading": "Medications that affect the skin",
+     "body": "<p>Some medicines taken for other problems change the skin itself. The slides name <strong>steroids, antibiotics, chemotherapy, and antifungals</strong>. They may <strong>thin the skin</strong> (especially long-term steroids) or <strong>increase sun sensitivity</strong> (for example, the antibiotic doxycycline). When you review a client's medication list during a skin assessment, look for these drug classes and teach gentle skin care and sun protection.</p>",
+     "example": "<strong>At the bedside:</strong> A client's list includes prednisone (steroid), doxycycline (antibiotic), a chemotherapy drug, and an oral antifungal. The nurse teaches protection from bumps and clothing, shade, and SPF 30+ sunscreen outdoors."
+    }
+   ],
+   "mnemonics": [],
+   "pearls": [
+    "OTC products treat minor acne, lice, and sunburn. Prescription medicines (oral and topical) treat eczema, psoriasis, and dermatitis.",
+    "Benzoyl peroxide = first-line acne treatment: kills bacteria and unplugs ducts; dryness is expected; it bleaches fabric and hair.",
+    "Salicylic acid exfoliates and reduces inflammation. Scrubbing the face is always the wrong answer.",
+    "Topical corticosteroid: thin layer, short course as prescribed, not on the face or folds for strong products, no occlusion unless ordered.",
+    "Complementary products have limited evidence. Ask about all of them, watch for allergies and interactions, and use them alongside, not instead of, prescribed care."
+   ],
+   "redFlags": [
+    "Thin, shiny, easily bruised skin or stretch marks where a topical steroid has been used for a long time → report to the provider.",
+    "A complementary product that causes burning, rash, or swelling → stop it and report.",
+    "A client on a blood thinner who is taking evening primrose oil → report to the provider and watch for unusual bleeding or bruising."
+   ],
+   "recap": [
+    "An interprofessional team (nurses, UAPs, wound care nurses, case managers, HCPs, dermatologists, oncologists, surgeons) means better communication and fewer complications.",
+    "OTC: minor acne, lice, sunburn. Prescription (oral and topical): eczema, psoriasis, dermatitis.",
+    "Benzoyl peroxide kills bacteria and unplugs ducts; salicylic acid exfoliates and reduces inflammation.",
+    "Apply topical medicines with gloves, in a thin layer, on clean dry skin, without occlusion unless ordered.",
+    "Burns: daily debridement and sterile dressings. Pressure injuries: by stage and protocol. Severe wounds: negative pressure wound therapy.",
+    "Aloe vera, chamomile, and evening primrose oil may soothe, but evidence is limited. Monitor for allergies and drug interactions."
+   ],
+   "checks": [
+    {
+     "q": "A teen using benzoyl peroxide is upset about mild dryness and a bleached pillowcase. Is this a reason to stop the medicine?",
+     "a": "No. Mild dryness and fabric bleaching are expected. Use a gentle moisturizer, apply a thin layer, and use white linens. Report severe irritation."
+    },
+    {
+     "q": "Which conditions are usually treated with prescription medicines: sunburn, eczema, lice, psoriasis, minor acne, contact dermatitis?",
+     "a": "Eczema, psoriasis, and contact dermatitis. Sunburn, lice, and minor acne are usually treated first with OTC products."
+    },
+    {
+     "q": "Put in order: apply a thin layer; gently clean and dry the skin; hand hygiene and gloves; document and watch for irritation.",
+     "a": "Hand hygiene and gloves → gently clean and dry the skin → apply a thin layer (no occlusion unless ordered) → document and watch for irritation."
+    },
+    {
+     "q": "A client says, “Aloe vera is natural, so I'll use it instead of the cream my dermatologist prescribed.” What should the nurse say?",
+     "a": "Aloe may soothe the skin, but the evidence is limited. It should be used alongside, not instead of, prescribed treatment, and the provider should know about it."
+    }
+   ]
+  }
+ ],
+ "flashcards": [],
+ "questions": []
+});

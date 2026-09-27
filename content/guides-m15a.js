@@ -1,0 +1,1652 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m15",
+ "moduleNumber": 15,
+ "moduleTitle": "Oxygenation",
+ "kind": "guide",
+ "topics": [
+  {
+   "id": "oxygenation-physiology",
+   "title": "Physiology of Oxygenation: From Air to Cell",
+   "exemplar": null,
+   "summary": "Oxygen reaches your client's cells only when three things work together: air moves in (ventilation), gas crosses the alveoli (diffusion), and blood carries it away (perfusion).",
+   "objectives": [
+    "After this lesson you can explain the difference between oxygenation, ventilation, and respiration in your own words.",
+    "Trace the path of air from the nose to the alveoli and name what each structure does.",
+    "Explain why rising CO₂ (and H⁺) makes a person breathe faster and deeper, and why low CO₂ slows breathing.",
+    "Describe how a ventilation–perfusion (V/Q) mismatch causes hypoxemia and give examples of each type.",
+    "Tell hypoxemia apart from hypoxia and state normal respiratory rates by age."
+   ],
+   "bigPicture": "<p>Every cell in your client's body needs a steady supply of oxygen to make energy. <strong>Oxygenation</strong> is simply the process of getting oxygen to all of those cells. It is the main job of the respiratory system, working hand in hand with the heart and blood.</p><p>At the bedside, almost every oxygenation problem you will see comes down to one of a few breakdowns: air can't get in (a blocked or narrowed airway), air gets in but can't cross into the blood (damaged or collapsed alveoli), or blood can't reach the air (a blocked vessel).</p>",
+   "keyTerms": [
+    {
+     "term": "Oxygenation",
+     "def": "The process of providing oxygen to all cells of the body."
+    },
+    {
+     "term": "Ventilation",
+     "def": "Moving air into the lungs (inhalation/inspiration) and out of the lungs (exhalation/expiration)."
+    },
+    {
+     "term": "Eupnea",
+     "def": "Normal, effortless breathing within the expected rate for the person's age."
+    },
+    {
+     "term": "Alveoli",
+     "def": "Tiny, thin-walled air sacs at the end of the airways where gas exchange happens."
+    },
+    {
+     "term": "V/Q ratio",
+     "def": "The match between ventilation (V, air reaching the alveoli) and perfusion (Q, blood reaching the alveoli)."
+    },
+    {
+     "term": "Pleura",
+     "def": "The two-layer lining around each lung: the visceral pleura covers the lung, the parietal pleura lines the chest wall, and the pleural space lies between them."
+    },
+    {
+     "term": "Hypoxemia",
+     "def": "A decreased level of oxygen in the blood."
+    },
+    {
+     "term": "Hypoxia",
+     "def": "Decreased delivery of oxygen to the tissues. Untreated hypoxemia leads to hypoxia."
+    },
+    {
+     "term": "Hemoglobin",
+     "def": "The protein in red blood cells that carries most of the oxygen in the blood."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Three words students mix up: oxygenation, ventilation, respiration",
+     "body": "<p><strong>Oxygenation</strong> is the big goal: oxygen delivered to every cell. <strong>Ventilation</strong> is the mechanical part — moving air in (inspiration) and out (expiration). <strong>Respiration</strong> is the chemical part — oxygen and carbon dioxide trading places. Your slides define respiration as the exchange of O₂ and CO₂ <em>at the cellular level</em>, and note that people commonly use \"respiration\" to mean ventilation.</p><p>Breathing is normally <strong>autonomic</strong> — it happens automatically, without the person thinking about it. That is why your slides stress that <strong>any alteration in breathing pattern should be addressed immediately</strong>. If something as automatic as breathing has changed, something in the body has changed, and you need to find out what.</p>",
+     "check": {
+      "q": "A client's respiratory rate is normal, but their cells are still not getting enough oxygen. Is that possible?",
+      "a": "Yes. Ventilation (moving air) can be normal while gas exchange or blood flow fails — for example, a clot blocking pulmonary blood flow or too little hemoglobin to carry oxygen."
+     }
+    },
+    {
+     "heading": "The upper airway: the body's air conditioner",
+     "body": "<p>The <strong>upper respiratory system</strong> is the inlet for air. The nose is normally the primary entry point. As air passes through the <strong>nares</strong> (nostrils) and nasal passages, it is <strong>warmed, humidified (moistened), and filtered</strong>.</p><p>The upper airway also has <strong>protective mechanisms</strong>. <strong>Sneezing</strong> forcefully blows irritants out of the nose. <strong>Cilia</strong> — tiny hair-like projections lining the airways — beat in waves to sweep mucus and trapped particles up and out, where they can be coughed out or swallowed.</p><p>People can also breathe through the mouth. Mouth breathing still gets air in, but it skips much of the warming, humidifying, and filtering.</p>"
+    },
+    {
+     "heading": "The lower airway: from trachea to alveoli",
+     "body": "<p>The <strong>lower respiratory tract</strong> sits inside the neck and the thoracic (chest) cavity. The <strong>trachea</strong> (windpipe) is the entrance for air into the lungs. In a healthy person at rest, the <strong>muscles of the neck stay relaxed</strong> during breathing, and the <strong>chest rises and falls effortlessly and symmetrically</strong> (both sides equally) with each breath. <strong>Inspiration takes about half as long as expiration</strong> — breathing in is quick, breathing out is slower and more relaxed. When you see tight neck muscles working, or one side of the chest moving less, that is not normal.</p><p>At its lower end, the trachea <strong>bifurcates</strong> (splits in two) into the right and left <strong>bronchi</strong> — one for each lung. The <strong>right bronchus is shorter than the left</strong> (it is also wider and more vertical). This matters: when a person aspirates (breathes in) food, vomit, or a small object, it usually drops into the right side. In an upright client, gravity carries it down into the <strong>right lower lobe</strong>.</p><p>The bronchi divide again and again into smaller <strong>bronchioles</strong>.</p>",
+     "bullets": [
+      "<strong>Trachea and bronchi are held open by rings of cartilage</strong> — stiff, so they don't collapse.",
+      "<strong>Bronchioles are supported by smooth muscle</strong> — which can tighten (bronchospasm) and narrow the airway. That is what happens in an asthma attack, and it is why bronchodilator medicines target the bronchioles.",
+      "Bronchioles lead to <strong>alveolar ducts</strong>, which branch into <strong>alveolar sacs</strong> made of individual <strong>alveoli</strong> — the sites of gas exchange."
+     ],
+     "example": "<strong>At the bedside:</strong> An adult client vomits while sitting upright in a chair and begins coughing. The provider suspects aspiration. Where do you expect to hear crackles or diminished breath sounds? Think anatomy plus gravity: the right bronchus is shorter, wider, and straighter, and gravity pulls material down in an upright person. So the nurse listens closely over the <strong>right lower lobe</strong>."
+    },
+    {
+     "heading": "The lungs, lobes, and pleura",
+     "body": "<p>The <strong>right lung has 3 lobes</strong> (upper, middle, lower). The <strong>left lung has 2 lobes</strong> (upper and lower). The <strong>inferior (lower) lobes are the largest</strong>.</p><p>Each lung is wrapped in <strong>pleura</strong>, a lining with <strong>two layers</strong>. The <strong>visceral pleura</strong> covers the surface of each lung. The <strong>parietal pleura</strong> lines the inside of the chest wall. Between them is the <strong>pleural space</strong>. The pleura aids breathing and separates the lungs from each other.</p><p>Here's the important part: the pressure in the pleural space is normally <strong>negative</strong> (lower than the air pressure outside). This slight suction holds the lung stretched out against the chest wall, so when the chest expands, the lung expands with it. If air gets into the pleural space (a <strong>pneumothorax</strong>), that negative pressure is lost and the lung collapses.</p>",
+     "analogy": "The two pleural layers are like two panes of wet glass stuck together — they slide easily over each other but are hard to pull apart. Let air between them, and they separate: the lung falls away from the chest wall and collapses.",
+     "check": {
+      "q": "How many lobes does each lung have, and which lobes are largest?",
+      "a": "Right = 3, left = 2; the inferior (lower) lobes are the largest."
+     }
+    },
+    {
+     "heading": "Gas exchange: what happens in the alveoli",
+     "body": "<p>Each alveolus is a tiny balloon-like sac with a wall only one cell thick, wrapped in a net of tiny blood vessels called <strong>capillaries</strong>. Air in the alveolus has a lot of oxygen; the blood arriving from the body has little. So <strong>oxygen diffuses across the membranes into the blood</strong>. The blood arriving from the body is loaded with carbon dioxide, while alveolar air has little, so <strong>carbon dioxide diffuses into the alveoli</strong> and is breathed out.</p><p>Once in the blood, most oxygen is picked up by <strong>hemoglobin</strong> inside red blood cells. Hemoglobin is the carrier. If there isn't enough hemoglobin (for example, in a client with severe anemia or ongoing bleeding), the blood can't carry enough oxygen — even though every hemoglobin molecule that <em>is</em> there may be fully loaded.</p><p>Your slides say the ability of the respiratory system to deliver O₂ depends on two things:</p>",
+     "bullets": [
+      "<strong>Inflated, well-oxygenated alveoli</strong> (the air side is working), and",
+      "<strong>Well-perfused capillaries</strong> (the blood side is working)."
+     ],
+     "example": "<strong>At the bedside:</strong> A client with chronic GI bleeding has a hemoglobin of 6.4 g/dL. They are tired, short of breath walking to the bathroom, HR 118, RR 24 — but SpO₂ is 98%. How can that be? The pulse oximeter only measures the <em>percentage</em> of hemoglobin carrying oxygen. The few hemoglobin molecules present are full, so the percentage is high, but there are too few \"trucks\" to deliver enough oxygen. The tissues are hypoxic despite a normal SpO₂."
+    },
+    {
+     "heading": "Ventilation–perfusion (V/Q) matching",
+     "body": "<p>For gas exchange to work, <strong>air</strong> (ventilation, V) and <strong>blood</strong> (perfusion, Q) must meet at the same alveolus. The <strong>V/Q ratio</strong> describes how well they match. When they don't match, blood leaves the lungs without picking up enough oxygen, and body cells are inadequately oxygenated. Your slides list two kinds of problems:</p>",
+     "table": {
+      "caption": "Two ways a V/Q mismatch happens",
+      "headers": [
+       "What is blocked",
+       "Examples from the slides",
+       "What's going on"
+      ],
+      "rows": [
+       [
+        "<strong>Airflow into the alveolus</strong> (ventilation problem)",
+        "Sputum, inflammation, atelectasis, fluid volume excess",
+        "Blood flows past the alveolus, but no fresh air is there to give it oxygen."
+       ],
+       [
+        "<strong>Blood flow through the capillary</strong> (perfusion problem)",
+        "Blood clots, plaque buildup, emphysematous (damaged, overstretched) alveoli",
+        "Fresh air sits in the alveolus, but little blood comes by to pick up the oxygen."
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client 3 days after knee replacement suddenly says, \"Something is wrong.\" RR 30, HR 124, SpO₂ 88% on room air. Breath sounds are clear and chest expansion is symmetrical. Clear lungs tell you air is moving fine — so think <strong>perfusion</strong>: a blood clot may be blocking blood flow to part of the lung. The nurse stays with the client, raises the head of the bed, applies oxygen per protocol, and notifies the provider immediately.",
+     "check": {
+      "q": "Is pneumonia with fluid-filled alveoli mainly an airflow problem or a blood-flow problem?",
+      "a": "Airflow (ventilation). Fluid and inflammation keep fresh air out of the alveoli, even though blood still flows past."
+     }
+    },
+    {
+     "heading": "What controls breathing: the CO₂ / H⁺ drive",
+     "body": "<p>What tells your body when to breathe faster or slower? Your slides explain that the <strong>respiratory drive is primarily stimulated by the concentration of hydrogen ions (H⁺) in arterial blood</strong>. H⁺ is what makes blood acidic. The amount of H⁺ changes in direct response to the amount of <strong>CO₂</strong> in arterial blood, because CO₂ combines with water to form an acid.</p><p>So in plain words: <strong>CO₂ is the main signal to breathe.</strong></p>",
+     "steps": [
+      "CO₂ rises (for example, during exercise or when breathing slows) → H⁺ rises → blood becomes more acidic (pH ↓).",
+      "The brain senses this and increases the <strong>rate and/or depth</strong> of breathing.",
+      "Faster, deeper breaths blow off CO₂ → H⁺ falls → pH returns toward normal.",
+      "The reverse is also true: CO₂ falls (for example, after hyperventilating) → H⁺ falls → pH rises (more alkaline) → the drive to breathe drops and breathing slows until CO₂ builds back up."
+     ],
+     "example": "<strong>At the bedside:</strong> A client hyperventilated during a panic attack; the ABG showed pH 7.50 and PaCO₂ 29. Now calm, the client breathes 10/min with brief pauses, SpO₂ 97%, alert. The spouse asks why breathing is so slow. The nurse explains: \"Breathing fast lowered the carbon dioxide. Carbon dioxide is the body's main signal to breathe, so the signal is weak right now. As the level builds back up, breathing will return to normal.\" The nurse keeps monitoring rate, alertness, and SpO₂."
+    },
+    {
+     "heading": "Normal breathing rates across the lifespan (eupnea)",
+     "body": "<p><strong>Eupnea</strong> means breathing within the expected rate for the person's age. Always interpret a respiratory rate by age: 44 breaths/min is normal for a 6-month-old but alarming for an adult. In infants and young children, count for a <strong>full 60 seconds</strong> because their breathing is often irregular.</p>",
+     "table": {
+      "caption": "Expected respiratory rates (from your slides)",
+      "headers": [
+       "Age group",
+       "Breaths per minute"
+      ],
+      "rows": [
+       [
+        "Newborns",
+        "30–60"
+       ],
+       [
+        "Infants",
+        "30–60"
+       ],
+       [
+        "Toddlers",
+        "20–40"
+       ],
+       [
+        "Preschoolers",
+        "20–35"
+       ],
+       [
+        "School-age children",
+        "16–22"
+       ],
+       [
+        "Adolescents",
+        "12–20"
+       ],
+       [
+        "Adults",
+        "12–20"
+       ],
+       [
+        "Older adults",
+        "15–20"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "When oxygenation goes wrong: hypoxemia → hypoxia",
+     "body": "<p><strong>Hypoxemia</strong> is a decreased level of oxygen in the <em>blood</em> — the \"-emia\" ending means blood. If hypoxemia is left untreated, it leads to <strong>hypoxia</strong> — decreased delivery of oxygen to the <em>tissues</em>.</p><p><strong>Mild</strong> impairments in oxygenation cause vague symptoms that are easy to brush off: <strong>fatigue, irritability, and discomfort</strong>. <strong>More severe</strong> alterations can be <strong>fatal</strong> if untreated. So take small changes seriously.</p><p>Your slides link oxygenation to related concepts: <strong>acid–base balance, cellular regulation, cognition, comfort, perfusion, and stress and coping</strong>. For example, low oxygen clouds thinking (cognition), and breathlessness feeds anxiety (stress and coping).</p>",
+     "example": "<strong>At the bedside:</strong> A client with pneumonia is irritable and very tired. ABG: pH 7.44, PaCO₂ 36, PaO₂ 58, SaO₂ 89%. The low PaO₂ and SaO₂ show <strong>hypoxemia</strong> (low oxygen in the blood). The irritability and fatigue are early signs that the tissues — especially the brain — aren't getting enough, so hypoxia is developing."
+    }
+   ],
+   "pearls": [
+    "Aspiration goes right — and down when the client is upright. Expect changes in the right lower lobe.",
+    "Bronchioles have smooth muscle, not cartilage, so they can spasm and narrow. That's the target of bronchodilators.",
+    "Sudden hypoxemia with CLEAR lungs points to a perfusion problem (such as a clot), not an airway problem.",
+    "Low CO₂ (after hyperventilation) slows breathing; high CO₂ speeds it up. CO₂ via H⁺ is the main drive to breathe."
+   ],
+   "redFlags": [
+    "A drowsy post-anesthesia client with snoring respirations, retractions, and falling SpO₂ → the airway is obstructed; open it first (reposition the head and jaw), then reassess.",
+    "Sudden shortness of breath, tachycardia, and hypoxemia with clear lungs after surgery or immobility → stay with the client, give oxygen per protocol, and notify the provider immediately."
+   ],
+   "recap": [
+    "Oxygenation = O₂ to every cell; ventilation = air in and out; respiration = gas exchange.",
+    "Right bronchus is shorter, wider, straighter; right lung has 3 lobes, left has 2; lower lobes are largest.",
+    "Cartilage holds the trachea and bronchi open; smooth muscle controls the bronchioles.",
+    "Negative pressure in the pleural space keeps the lung expanded.",
+    "Gas exchange needs inflated alveoli AND well-perfused capillaries — V/Q mismatch causes hypoxemia.",
+    "CO₂ (through H⁺) is the main trigger to breathe.",
+    "Untreated hypoxemia → hypoxia; early signs are fatigue, irritability, and discomfort."
+   ],
+   "checks": [
+    {
+     "q": "Why do bronchodilators act on the bronchioles rather than the trachea?",
+     "a": "Bronchioles are wrapped in smooth muscle that can tighten or relax; the trachea is held open by rigid cartilage."
+    },
+    {
+     "q": "Air leaks into the pleural space. What happens to the lung, and why?",
+     "a": "It collapses, because the negative pressure that held it against the chest wall is lost."
+    },
+    {
+     "q": "A post-op client splints the abdomen and takes shallow breaths. Breath sounds are diminished at both bases and SpO₂ has drifted to 91%. What is the likely problem, and is it a ventilation or perfusion issue?",
+     "a": "Atelectasis — a ventilation (airflow) problem. Pain → shallow breaths → alveoli collapse. Treat pain, then encourage deep breathing, incentive spirometry, and walking."
+    },
+    {
+     "q": "Your client's anemia is severe but SpO₂ is 99%. The client asks, \"Why can't I breathe if my oxygen is fine?\" How do you explain it?",
+     "a": "\"The monitor shows your red cells are full of oxygen, but you have fewer red cells than normal, so less oxygen reaches your body. Your heart and lungs are working harder to make up for it.\""
+    }
+   ]
+  },
+  {
+   "id": "respiratory-assessment",
+   "title": "Respiratory Assessment & Signs of Hypoxia",
+   "exemplar": null,
+   "summary": "Before any monitor beeps, your eyes, ears, and questions can tell you whether a client is getting enough oxygen — this lesson shows you how to look, listen, and ask.",
+   "objectives": [
+    "After this lesson you can recognize the early signs of hypoxia and explain why they appear first.",
+    "Collect a focused respiratory health history, including cough, sputum, chest pain, risk factors, and medications.",
+    "Inspect a client's posture, effort, color, and voice and explain what each finding means.",
+    "Describe the three normal breath sounds and where each is heard.",
+    "Identify stridor, crackles, rhonchi, wheezes, and a pleural friction rub and link each to its likely cause.",
+    "Decide which respiratory findings need immediate RN action."
+   ],
+   "bigPicture": "<p>A pulse oximeter gives you one number. A good nursing assessment gives you the whole story. Oxygenation problems often show up first as changes in <em>behavior</em> — restlessness, irritability, confusion — long before a client turns blue. Nurses who catch these early clues prevent emergencies.</p><p>Respiratory assessment combines <strong>subjective data</strong> (what the client tells you) with <strong>objective data</strong> (what you observe, hear, and measure). You'll use observation, auscultation (listening with a stethoscope), and a careful look at how the client is sitting, breathing, and talking.</p><p>Remember the M.L. case study: before any test came back, the nurse knew M.L. was in trouble because she could speak only a few words at a time, sat leaning forward with her hands on her knees, had a hoarse voice, a respiratory rate of 32, and decreased breath sounds. That is the power of assessment.</p>",
+   "keyTerms": [
+    {
+     "term": "Subjective data",
+     "def": "Information the client reports, such as shortness of breath or chest pain."
+    },
+    {
+     "term": "Objective data",
+     "def": "Information the nurse observes or measures, such as respiratory rate, SpO₂, or breath sounds."
+    },
+    {
+     "term": "Auscultation",
+     "def": "Listening to body sounds with a stethoscope."
+    },
+    {
+     "term": "Adventitious breath sounds",
+     "def": "Extra or abnormal lung sounds, such as crackles, wheezes, rhonchi, stridor, or a friction rub."
+    },
+    {
+     "term": "Tripod position",
+     "def": "Sitting and leaning forward with hands on the knees or a table — a sign of significant respiratory distress."
+    },
+    {
+     "term": "Cyanosis",
+     "def": "A bluish color of the skin, lips, or nail beds from low oxygen. It is a late sign."
+    },
+    {
+     "term": "Clubbing",
+     "def": "Rounded, enlarged fingertips and nail beds from long-term low oxygen (for example, in COPD)."
+    },
+    {
+     "term": "Retractions",
+     "def": "Skin pulling in between or around the ribs or above the sternum during inspiration, showing extra effort to breathe."
+    },
+    {
+     "term": "Tactile fremitus",
+     "def": "Vibration felt with the hands on the chest as the client speaks; stronger over solid (consolidated) lung, weaker over air."
+    },
+    {
+     "term": "Consolidation",
+     "def": "Lung tissue that has become solid because the alveoli are filled with fluid or pus, as in pneumonia."
+    },
+    {
+     "term": "Stridor",
+     "def": "A loud, high-pitched crowing sound on inspiration caused by upper airway obstruction — an emergency."
+    },
+    {
+     "term": "Orthopnea",
+     "def": "Difficulty breathing when lying flat, relieved by sitting up."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Signs of hypoxia: why behavior changes first",
+     "body": "<p>The brain uses a lot of oxygen and has almost no reserve. When oxygen drops, the brain is one of the first organs to \"complain.\" That's why your slides list these as <strong>signs of hypoxia</strong>:</p>",
+     "bullets": [
+      "<strong>Increasing restlessness</strong> and <strong>irritability</strong>",
+      "<strong>Unexplained, sudden confusion</strong>",
+      "<strong>Rapid heart rate plus rapid respiratory rate</strong> — the heart pumps faster and the lungs breathe faster to deliver more oxygen"
+     ],
+     "table": {
+      "caption": "Early vs. late signs of hypoxia (standard teaching)",
+      "headers": [
+       "Early (body compensating)",
+       "Late (compensation failing)"
+      ],
+      "rows": [
+       [
+        "Restlessness, anxiety, irritability",
+        "Confusion worsening to stupor or unresponsiveness"
+       ],
+       [
+        "Tachycardia",
+        "Bradycardia"
+       ],
+       [
+        "Tachypnea",
+        "Slowing or irregular breathing"
+       ],
+       [
+        "Often ↑ blood pressure",
+        "Hypotension"
+       ],
+       [
+        "Pale skin",
+        "Cyanosis (central)"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client 2 days after abdominal surgery is restless, pulling at the gown, and says, \"I just feel really anxious.\" HR 112, RR 26. They ask for the PRN lorazepam (an anti-anxiety sedative). What should you do first? New \"anxiety\" with a fast heart rate and fast breathing is <strong>hypoxia until proven otherwise</strong>. Check SpO₂, listen to the lungs, and assess the whole client <em>before</em> giving a sedative. A sedative could slow breathing and hide the warning signs.",
+     "check": {
+      "q": "Why is bradycardia in a hypoxic client more worrying than tachycardia?",
+      "a": "Tachycardia means the body is still compensating; bradycardia means the heart itself is running out of oxygen and compensation is failing."
+     }
+    },
+    {
+     "heading": "The health history: asking the right questions",
+     "body": "<p>Your slides list what to include in the respiratory health history. For each item, here's why you're asking:</p>",
+     "bullets": [
+      "<strong>Current respiratory problems and history of respiratory disease</strong> — asthma, COPD, recent bronchitis or pneumonia. A history tells you the client's baseline and risks. (M.L. had asthma since childhood and recent bronchitis.)",
+      "<strong>Lifestyle</strong> — activity level, work and home environment, exposure to smoke, dust, or chemicals.",
+      "<strong>Presence of cough and description of sputum</strong> — when the cough happens, whether it's dry or productive, and the sputum's color, amount, and thickness. Thick secretions can block airways; a change in color can signal infection.",
+      "<strong>Presence of chest pain</strong> — where it is and whether it gets worse with breathing or coughing (pleuritic pain).",
+      "<strong>Risk factors</strong> — smoking and secondhand smoke, airborne irritants, recent illness, immobility, surgery.",
+      "<strong>Medication history</strong> — inhalers (how often the rescue inhaler is used — M.L. was using hers four times a day, a sign of poor control), and medicines that can slow breathing, such as opioids and sedatives."
+     ],
+     "check": {
+      "q": "M.L. says she woke at night unable to get enough air and needed to prop up on pillows. What term describes difficulty breathing when lying flat?",
+      "a": "Orthopnea. Ask how many pillows the client needs to sleep and document it."
+     }
+    },
+    {
+     "heading": "Observation: posture, effort, color, and voice",
+     "body": "<p>Much of the respiratory exam is simply <strong>looking</strong> carefully before you touch or listen. Your slides highlight the client's <strong>presentation</strong>: posture, difficulty breathing or speaking, and a raspy voice.</p>",
+     "table": {
+      "caption": "What to look for and what it means",
+      "headers": [
+       "Finding",
+       "What it means"
+      ],
+      "rows": [
+       [
+        "<strong>Posture</strong>: sitting up, leaning forward, hands on knees (tripod)",
+        "The client is using the position to help the chest expand — significant respiratory distress."
+       ],
+       [
+        "<strong>Difficulty speaking</strong>: only 1–3 words per breath",
+        "Severe distress. A client who can speak full sentences is moving more air."
+       ],
+       [
+        "<strong>Voice</strong>: hoarse or raspy",
+        "Airway irritation or swelling; M.L. said her voice gets hoarse only when she is very sick."
+       ],
+       [
+        "<strong>Effort</strong>: accessory neck muscles working, retractions",
+        "The normal relaxed breathing muscles aren't enough — extra effort is required."
+       ],
+       [
+        "<strong>Chest movement</strong>: unequal rise and fall",
+        "One lung isn't expanding (for example, collapse or air in the pleural space)."
+       ],
+       [
+        "<strong>Color</strong>: pallor or cyanosis",
+        "Cyanosis is a late sign. In darker skin, check the lips, tongue, oral mucosa, and conjunctivae."
+       ],
+       [
+        "<strong>Clubbed nail beds</strong>",
+        "Long-standing low oxygen, such as COPD."
+       ],
+       [
+        "<strong>Chest shape</strong>: barrel chest, kyphosis, scoliosis",
+        "Chronic air trapping (barrel chest) or spinal curves that limit lung expansion."
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> M.L., 30, with asthma, sits on the exam table leaning forward, hands on her knees. She speaks only a few words at a time, her voice is hoarse, her face is pale with dark circles, RR 32, SpO₂ 91% on room air, and breath sounds are decreased. Every one of these findings points to <strong>severe respiratory distress</strong>. The nurse reports immediately; the provider starts oxygen at 4 L/min by nasal cannula."
+    },
+    {
+     "heading": "Palpation: feeling for symmetry and vibration",
+     "body": "<p>After looking, you use your hands. Place your hands on the back of the chest with thumbs near the spine and ask the client to take a deep breath: your thumbs should move apart <strong>equally</strong>. Unequal movement suggests a problem on the side that moves less.</p><p><strong>Tactile fremitus</strong> is the vibration you feel through the chest wall when the client says something like \"ninety-nine.\" Sound travels better through solid or fluid than through air. So fremitus is <strong>increased</strong> over <strong>consolidation</strong> (the solid, fluid-filled lung of pneumonia) and <strong>decreased</strong> over extra air (such as a collapsed lung with air around it). Percussion (tapping) over consolidated lung sounds <strong>dull</strong> instead of the normal hollow resonance.</p><p><strong>Crepitus</strong> is a crackling, \"crispy rice\" feeling under the skin from air trapped in the tissues. It is not expected — find its source.</p>",
+     "analogy": "Think of fremitus like hearing music through a wall. Through a solid wall (consolidated lung), you feel the bass strongly. Through a big empty room full of air, the vibration fades."
+    },
+    {
+     "heading": "Normal breath sounds: right sound, right place",
+     "body": "<p>Normal lungs make three kinds of breath sounds, and each belongs in a particular place. The key to exam questions: <strong>a normal sound heard in the wrong place is abnormal.</strong></p>",
+     "table": {
+      "caption": "Normal breath sounds (from your slides)",
+      "headers": [
+       "Sound",
+       "What it sounds like",
+       "Where it's normal",
+       "Timing"
+      ],
+      "rows": [
+       [
+        "<strong>Bronchial</strong>",
+        "Loud, high-pitched",
+        "Over the trachea",
+        "Longer on <strong>exhalation</strong> than inhalation"
+       ],
+       [
+        "<strong>Bronchovesicular</strong>",
+        "Medium loudness and pitch",
+        "On each side of the sternum and between the scapulae",
+        "<strong>Equal</strong> on inhalation and exhalation"
+       ],
+       [
+        "<strong>Vesicular</strong>",
+        "Soft, low-pitched",
+        "Peripheral lung fields; most prominent at the bases",
+        "Longer on <strong>inhalation</strong> than exhalation"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client with right lower lobe pneumonia has a chest x-ray showing consolidation. Over the right lower lobe you hear loud, high-pitched <strong>bronchial</strong> sounds, feel <strong>increased fremitus</strong>, and percuss <strong>dullness</strong>. Bronchial sounds are normal over the trachea — but over the lung base they are abnormal, because the solid lung is carrying tracheal sounds to the surface.",
+     "check": {
+      "q": "You hear soft, low-pitched sounds over the lung bases, longer on inhalation. Normal or abnormal?",
+      "a": "Normal — those are vesicular sounds in their expected location."
+     }
+    },
+    {
+     "heading": "Adventitious (abnormal) breath sounds",
+     "body": "<p>Your slides list five adventitious sounds: <strong>stridor, crackles, rhonchi, wheezing, and pleural friction rub</strong>. Each one points to a different kind of problem. Listen with the diaphragm of the stethoscope on bare skin, compare side to side, and listen through a full breath in and out at each spot. If you hear something, ask the client to cough and listen again — some sounds clear with coughing and some don't.</p>",
+     "table": {
+      "caption": "Adventitious breath sounds",
+      "headers": [
+       "Sound",
+       "What it sounds like",
+       "What's causing it",
+       "Clears with cough?"
+      ],
+      "rows": [
+       [
+        "<strong>Stridor</strong>",
+        "Loud, high-pitched crowing on <strong>inspiration</strong>; often heard without a stethoscope",
+        "Upper airway (throat/larynx/trachea) narrowing — swelling or a foreign object",
+        "No — EMERGENCY"
+       ],
+       [
+        "<strong>Crackles</strong>",
+        "Short popping or crackling, like hair rubbed near your ear; often on inspiration",
+        "Fluid or collapsed alveoli popping open: pneumonia, atelectasis, fluid volume excess",
+        "Usually no"
+       ],
+       [
+        "<strong>Rhonchi</strong>",
+        "Low-pitched snoring or gurgling, often on expiration",
+        "Secretions in the large airways (bronchitis, pneumonia, COPD)",
+        "Often yes"
+       ],
+       [
+        "<strong>Wheezing</strong>",
+        "High-pitched musical whistle, often on expiration",
+        "Narrowed small airways: asthma, COPD, bronchospasm",
+        "No"
+       ],
+       [
+        "<strong>Pleural friction rub</strong>",
+        "Grating, like leather rubbing; on inspiration and expiration; in one spot",
+        "Inflamed pleural layers rubbing together; client often has sharp pain with breathing",
+        "No"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client with chronic bronchitis has a loud, low-pitched, snoring sound over the trachea and bronchi on expiration. After a strong cough the sound changes. This is <strong>rhonchi</strong> — secretions in the large airways that move when the client coughs. The nurse encourages coughing and deep breathing to help clear them.",
+     "check": {
+      "q": "Which adventitious sound should make you call for help right away, and why?",
+      "a": "Stridor — it means the upper airway is narrowing and could close completely."
+     }
+    },
+    {
+     "heading": "Putting it together: deciding what needs action now",
+     "body": "<p>Assessment is only useful if you act on it. Assistive personnel (AP) may collect vital signs, but the <strong>RN interprets</strong> the findings. When an AP reports a number, ask yourself: Is this new? Is it getting worse? Does it fit with other clues?</p>",
+     "steps": [
+      "Check the airway first: can the client speak? Any stridor, snoring, or gurgling?",
+      "Look at breathing: rate, depth, effort, posture, chest symmetry, and ability to speak in full sentences.",
+      "Check SpO₂ and compare with baseline — but correlate it with how the client looks.",
+      "Assess mental status: new restlessness, irritability, or confusion?",
+      "Auscultate all lung fields side to side; note adventitious or absent sounds.",
+      "Act on what you find: position upright, apply oxygen as ordered, and notify the provider for new or worsening findings."
+     ],
+     "example": "<strong>At the bedside:</strong> An AP reports four clients: (1) an alert client with SpO₂ 95%; (2) a client who is newly restless and trying to climb out of bed; (3) a client who speaks in 2–3 word phrases; (4) a client whose SpO₂ was 89% and didn't improve after the AP helped them sit up. The RN goes <strong>now</strong> to clients 2, 3, and 4 — new restlessness, short phrases, and unresolved low oxygen are all signs of possible hypoxia."
+    }
+   ],
+   "pearls": [
+    "Restlessness in a post-op client is hypoxia until proven otherwise — assess oxygenation BEFORE giving a sedative.",
+    "Early hypoxia = restless and fast (↑HR, ↑RR). Late hypoxia = blue, slow, and low (cyanosis, bradycardia, hypotension).",
+    "A client who can speak only a few words at a time is in severe distress, whatever the pulse oximeter says.",
+    "Right sound, wrong place = abnormal. Bronchial sounds over the lung base suggest consolidation.",
+    "Rhonchi may clear with coughing; crackles and wheezes usually do not. Have the client cough and re-listen.",
+    "Cyanosis is a late sign and harder to see in darker skin — check the oral mucosa and conjunctivae."
+   ],
+   "redFlags": [
+    "Stridor → upper airway obstruction; stay with the client, call for help, and prepare to support the airway.",
+    "New confusion, agitation, or decreased level of consciousness with tachypnea → check SpO₂ and airway, apply oxygen as ordered, notify the provider.",
+    "Speaking only 1–3 words, tripod positioning, accessory muscle use → severe distress; sit upright, apply oxygen as ordered, get help.",
+    "Breath sounds that become diminished or absent in a client who was wheezing → airflow is failing, not improving; escalate immediately.",
+    "Central cyanosis, bradycardia, or hypotension in a hypoxic client → late signs; call a rapid response."
+   ],
+   "recap": [
+    "The brain signals low oxygen first: restlessness, irritability, sudden confusion, plus ↑HR and ↑RR.",
+    "History: respiratory problems, lifestyle, cough/sputum, chest pain, risk factors, medications.",
+    "Observe posture (tripod), ability to speak, voice, effort, symmetry, color, and clubbing.",
+    "Bronchial = trachea (longer out); bronchovesicular = beside sternum/between scapulae (equal); vesicular = periphery/bases (longer in).",
+    "Stridor = upper airway emergency; crackles = fluid/collapsed alveoli; rhonchi = secretions in large airways; wheezes = narrowed airways; friction rub = inflamed pleura.",
+    "Increased fremitus and dullness = consolidation.",
+    "Treat the client, not the number — correlate every reading with your assessment."
+   ],
+   "checks": [
+    {
+     "q": "A client with asthma was wheezing loudly an hour ago. Now you hear almost nothing, and the client is drowsy. Is the client improving?",
+     "a": "No. Very little air is moving, and drowsiness suggests rising CO₂ and exhaustion. This is an emergency — escalate immediately."
+    },
+    {
+     "q": "After abdominal surgery, a client's HR rises from 84 to 110, RR from 16 to 24, and they're newly irritable. BP is slightly higher. Early or late hypoxia?",
+     "a": "Early — the body is still compensating with faster heart and breathing rates. Act now, before late signs appear."
+    },
+    {
+     "q": "Where would you expect to hear bronchovesicular sounds, and what is their timing?",
+     "a": "On each side of the sternum and between the scapulae; inhalation and exhalation are equal in length."
+    },
+    {
+     "q": "A client has a grating, leathery sound in one spot on inspiration and expiration and says it hurts to breathe deeply. What is this?",
+     "a": "A pleural friction rub — inflamed pleural layers rubbing together, causing pleuritic pain."
+    },
+    {
+     "q": "Why should you ask how often a client uses a rescue inhaler?",
+     "a": "Frequent use (like M.L.'s four times a day) shows the condition is poorly controlled and the client may be heading toward a serious exacerbation."
+    }
+   ]
+  },
+  {
+   "id": "breathing-patterns",
+   "title": "Breathing Patterns & Alterations in Oxygenation",
+   "exemplar": null,
+   "summary": "Rate, depth, and rhythm are clues: learn to read a breathing pattern and it will point you toward the problem — from a blocked airway to acidosis to a worsening brain injury.",
+   "objectives": [
+    "After this lesson you can describe alterations in oxygenation in terms of gas exchange, airway patency, and respiratory patterns.",
+    "Explain how COPD, V/Q mismatch, secretions, and inflammation interfere with oxygenation.",
+    "Define tachypnea, bradypnea, hyperventilation, hypoventilation, apnea, dyspnea, and orthopnea.",
+    "Recognize Kussmaul, Cheyne-Stokes, and Biot respirations and name the conditions that cause each.",
+    "Choose independent nursing actions that improve a client's breathing pattern."
+   ],
+   "bigPicture": "<p>Breathing is automatic. The body quietly adjusts the rate and depth of each breath to keep oxygen up and carbon dioxide in balance. So when the <em>pattern</em> of breathing changes — too fast, too slow, too deep, pauses, chaos — the body is telling you something is wrong. Your slides say alterations in breathing patterns should be <strong>addressed immediately</strong>.</p><p>Some patterns are the body <em>helping itself</em> (deep, fast Kussmaul breathing to blow off acid). Others are signs of <em>failure</em> (slow, shallow breathing from too much opioid, or chaotic breathing from a damaged brain). Your job is to describe the pattern accurately, figure out what's driving it, and act.</p><p>This lesson groups alterations the way your slides do: <strong>gas exchange</strong>, <strong>airway patency</strong>, and <strong>respiratory patterns</strong>.</p>",
+   "keyTerms": [
+    {
+     "term": "Airway patency",
+     "def": "How open and clear the airway is."
+    },
+    {
+     "term": "Tachypnea",
+     "def": "A respiratory rate that is too fast — over 20 breaths/min in an adult (per the slides)."
+    },
+    {
+     "term": "Bradypnea",
+     "def": "A respiratory rate that is too slow — under 10 breaths/min (per the slides)."
+    },
+    {
+     "term": "Hyperventilation",
+     "def": "Rapid, deep breathing that blows off too much CO₂."
+    },
+    {
+     "term": "Hypoventilation",
+     "def": "Breathing that is too slow or shallow, so too little O₂ reaches the lungs and CO₂ builds up."
+    },
+    {
+     "term": "Apnea",
+     "def": "No breathing. Respiratory arrest is characterized by apnea."
+    },
+    {
+     "term": "Dyspnea",
+     "def": "Labored breathing or shortness of breath; the slides describe it as painful."
+    },
+    {
+     "term": "Orthopnea",
+     "def": "Difficulty breathing when lying flat (supine)."
+    },
+    {
+     "term": "Kussmaul breathing",
+     "def": "Deep, rapid breathing that blows off CO₂; occurs in metabolic acidosis."
+    },
+    {
+     "term": "Cheyne-Stokes respirations",
+     "def": "Cycles of breaths getting deeper and faster, then slower and shallower, followed by apnea."
+    },
+    {
+     "term": "Biot respirations",
+     "def": "Shallow breathing with irregular periods of apnea; seen in central nervous system (CNS) disorders."
+    },
+    {
+     "term": "Atelectasis",
+     "def": "Collapse of alveoli, most often caused by a blocked airway."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Three ways to describe an oxygenation problem",
+     "body": "<p>Your slides describe alterations in oxygenation in the context of three areas. Asking these three questions helps you sort almost any breathing problem:</p>",
+     "bullets": [
+      "<strong>Gas exchange</strong> — Is oxygen getting across the alveoli into the blood, and is CO₂ getting out?",
+      "<strong>Airway patency</strong> — Is the airway open, or is something blocking or narrowing it?",
+      "<strong>Respiratory pattern</strong> — Is the rate, depth, and rhythm of breathing normal?"
+     ],
+     "analogy": "Picture a highway (the airway) leading to a loading dock (the alveoli) where trucks (blood) pick up cargo (oxygen). Traffic problems can come from a blocked road (airway patency), a broken loading dock (gas exchange), or drivers who come too often, too rarely, or at random (respiratory pattern).",
+     "check": {
+      "q": "Thick mucus plugging the bronchi is mainly which type of alteration?",
+      "a": "Airway patency — the airway is blocked."
+     }
+    },
+    {
+     "heading": "Gas exchange problems: COPD and V/Q mismatch",
+     "body": "<p>Your slides explain that damage to the <strong>supporting structures of the thorax</strong> (like the ribs, chest wall, or pleura) and <strong>irritation or inflammation of the respiratory mucosa</strong> (the airway lining) can both interfere with effective breathing.</p><p>A classic gas-exchange problem is <strong>chronic obstructive pulmonary disease (COPD)</strong>. In COPD, <strong>alveolar damage limits the exchange of O₂ and CO₂</strong>. The result: <strong>CO₂ retention</strong> (CO₂ builds up) and <strong>decreased blood O₂</strong>. Your slides list what you may see:</p>",
+     "bullets": [
+      "<strong>Retractions</strong> — the skin pulls in around the ribs because breathing takes so much effort.",
+      "<strong>Cyanosis</strong> — bluish lips or nail beds from low oxygen.",
+      "<strong>Clubbed nail beds</strong> — a sign that oxygen has been low for a long time."
+     ],
+     "table": {
+      "caption": "V/Q mismatch — where the blockage is (from the slides)",
+      "headers": [
+       "Airflow into the alveolus blocked",
+       "Blood flow in the capillary blocked"
+      ],
+      "rows": [
+       [
+        "Sputum",
+        "Blood clots"
+       ],
+       [
+        "Inflammation",
+        "Plaque buildup"
+       ],
+       [
+        "Atelectasis",
+        "Emphysematous (damaged) alveoli"
+       ],
+       [
+        "Fluid volume excess",
+        ""
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client with long-standing COPD has clubbed fingers, uses neck muscles to breathe, and has an ABG showing a high CO₂. This fits the slide picture: damaged alveoli can't trade gases well, so CO₂ stays in and O₂ stays low. The client's body has adapted to this over years, which is why their oxygen target is often lower than other clients' (you'll learn more in the oxygen therapy lesson)."
+    },
+    {
+     "heading": "Airway patency: secretions, inflammation, and atelectasis",
+     "body": "<p>An airway must be open for air to reach the alveoli. Your slides name three threats:</p>",
+     "bullets": [
+      "<strong>Thick sputum</strong> can block both large and small airways.",
+      "<strong>Inflammation from infection</strong> swells the airway lining and narrows the passage.",
+      "<strong>Airway obstruction is the primary cause of atelectasis</strong> — when an airway is blocked, the air trapped beyond it gets absorbed, and the alveoli collapse."
+     ],
+     "steps": [
+      "Something reduces deep breathing or blocks an airway (pain after surgery, anesthesia, immobility, mucus).",
+      "Air behind the blockage is absorbed; alveoli collapse (atelectasis).",
+      "Blood flows past collapsed alveoli without picking up oxygen → SpO₂ falls.",
+      "You hear diminished breath sounds or crackles at the bases; the client may breathe faster and run a low-grade fever.",
+      "Nurse treats the cause: controls pain so the client can breathe deeply, encourages deep breathing, coughing, incentive spirometry, repositioning, and walking."
+     ],
+     "example": "<strong>At the bedside:</strong> A client with three fractured ribs on the left is taking shallow breaths at 26/min, splinting the chest, pain 8/10, SpO₂ 92%, breath sounds diminished in the left base. Pain is causing the shallow breathing, and shallow breathing is causing atelectasis. The best plan is to <strong>treat the pain</strong> (as ordered) so the client can take deep breaths and use the incentive spirometer. Do <em>not</em> bind or wrap the chest — that would restrict breathing even more."
+    },
+    {
+     "heading": "Rate words: tachypnea, bradypnea, hyperventilation, hypoventilation, apnea",
+     "body": "<p>Your slides define these respiratory pattern terms. Note that your slides use <strong>under 10</strong> as the cutoff for bradypnea; some textbooks use under 12, so your instructor may frame this slightly differently. Use your course's number on exams.</p>",
+     "table": {
+      "caption": "Rate and depth alterations",
+      "headers": [
+       "Term",
+       "Definition (slides)",
+       "What it does to CO₂",
+       "Common causes"
+      ],
+      "rows": [
+       [
+        "<strong>Tachypnea</strong>",
+        "Rate > 20/min",
+        "Varies",
+        "Fever, pain, anxiety, low oxygen, infection"
+       ],
+       [
+        "<strong>Bradypnea</strong>",
+        "Rate < 10/min",
+        "Tends to rise",
+        "Opioids, sedatives, brain injury"
+       ],
+       [
+        "<strong>Hyperventilation</strong>",
+        "Rapid, deep inhalation and exhalation",
+        "↓ CO₂ (blown off) → respiratory alkalosis",
+        "Anxiety/panic, pain"
+       ],
+       [
+        "<strong>Hypoventilation</strong>",
+        "Abnormally slow rate → too little O₂ delivered to the lungs",
+        "↑ CO₂ (retained) → respiratory acidosis",
+        "Opioid or sedative effects, fatigue, COPD"
+       ],
+       [
+        "<strong>Apnea</strong>",
+        "No breathing",
+        "—",
+        "Respiratory arrest"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A 70-year-old with obstructive sleep apnea is 1 day after hip surgery and is taking oral oxycodone. Opioids slow breathing, and sleep apnea already causes pauses. The nurse checks the respiratory rate and sedation level <strong>before each dose</strong>, keeps the head of the bed up, uses continuous monitoring (such as pulse oximetry) as ordered, and avoids adding other sedating drugs. If the rate falls below 10 with heavy sedation, the nurse stimulates the client, supports the airway, and notifies the provider.",
+     "check": {
+      "q": "A client in a panic attack breathes fast and deep and has tingling around the mouth. What is happening to their CO₂?",
+      "a": "It's being blown off (↓ CO₂), causing respiratory alkalosis — the tingling is a classic symptom."
+     }
+    },
+    {
+     "heading": "Symptom words: dyspnea and orthopnea",
+     "body": "<p><strong>Dyspnea</strong> is labored breathing or shortness of breath. Your slides describe it as shortness of breath <em>that is painful</em>; many sources describe it more broadly as uncomfortable or distressing breathing — either way, it's what the client <em>feels</em>, so it is subjective data. Ask the client to rate it and describe what makes it better or worse.</p><p><strong>Orthopnea</strong> is difficulty breathing when <strong>supine</strong> (lying flat on the back). Lying flat lets abdominal organs push up on the diaphragm and lets fluid spread across the lungs. Sitting up relieves it. Document how many pillows the client needs to sleep — it's an easy way to track whether things are getting better or worse.</p>",
+     "example": "<strong>At the bedside:</strong> In the case study, M.L. has trouble breathing when she lies down to sleep. She takes two puffs of her rescue inhaler and props herself up on <strong>3 pillows</strong> to get comfortable. That's orthopnea, and it's a warning sign that her condition is getting worse — a few hours later she wakes up coughing, sweating, dizzy, and passes out."
+    },
+    {
+     "heading": "Special patterns: Kussmaul, Cheyne-Stokes, and Biot",
+     "body": "<p>These three named patterns show up often on exams. Each has a distinct look and a typical cause.</p>",
+     "table": {
+      "caption": "Named breathing patterns (from your slides)",
+      "headers": [
+       "Pattern",
+       "What you see",
+       "Why / when it happens"
+      ],
+      "rows": [
+       [
+        "<strong>Kussmaul</strong>",
+        "Deep, rapid, regular breathing",
+        "<strong>Metabolic acidosis</strong> (for example, diabetic ketoacidosis). The deep, fast exhalations increase elimination of CO₂ to raise the pH — the lungs are compensating for an acid problem."
+       ],
+       [
+        "<strong>Cheyne-Stokes</strong>",
+        "Breaths gradually get deeper and faster, then slower and shallower, then a period of <strong>apnea</strong> — and the cycle repeats",
+        "<strong>Heart failure (CHF), increased intracranial pressure (ICP), drug overdoses</strong>"
+       ],
+       [
+        "<strong>Biot</strong>",
+        "Shallow breathing with <strong>irregular</strong> periods of apnea — no predictable pattern",
+        "<strong>CNS disorders</strong> (brain injury and other brain problems)"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> (1) A client with type 1 diabetes has a blood glucose of 520 mg/dL, fruity breath, and deep, rapid, regular breathing at 32/min. That's <strong>Kussmaul</strong> breathing — the body blowing off CO₂ to fight metabolic acidosis. Don't try to slow it down; the provider will treat the cause. (2) A client with end-stage heart failure breathes deeper and deeper, then shallower and shallower, then stops for 20 seconds. Document <strong>Cheyne-Stokes</strong> respirations. (3) A client with a traumatic brain injury who was breathing regularly now has clusters of shallow breaths with unpredictable 15–20 second pauses, and the Glasgow Coma Scale score is falling. That's <strong>Biot</strong> breathing — the brain is getting worse. Notify the provider immediately.",
+     "analogy": "Cheyne-Stokes is like a wave rolling in and out, then a calm pause, then another wave — a predictable crescendo and decrescendo. Biot is like static on a radio — random bursts and random silences.",
+     "check": {
+      "q": "Which named pattern is the body's attempt to fix a problem rather than a sign of brain failure?",
+      "a": "Kussmaul — deep, rapid breathing to blow off CO₂ and compensate for metabolic acidosis."
+     }
+    },
+    {
+     "heading": "What the nurse can do: improving breathing patterns",
+     "body": "<p>Many helpful interventions are <strong>independent</strong> — the nurse can do them without an order. Your slides say independent interventions focus on <strong>improving gas exchange</strong> and <strong>enhancing breathing patterns</strong>, with examples such as deep breathing exercises, positioning, monitoring activity tolerance, promoting secretion clearance, and assisting with activities of daily living (ADLs). Medications and changes to the oxygen prescription, by contrast, require an order.</p>",
+     "bullets": [
+      "<strong>Positioning</strong>: sit the client upright (high Fowler's) or leaning forward over a table. This lowers the diaphragm and lets the lungs expand.",
+      "<strong>Deep breathing exercises</strong>: slow, deep breaths open collapsed alveoli.",
+      "<strong>Pursed-lip breathing</strong> (commonly taught for COPD/emphysema): breathe in through the nose for about 2 counts (\"smell the roses\"), then breathe out slowly through pursed lips for about 4 counts (\"blow out the candle\" gently). The slow, gentle exhale keeps small airways open longer so trapped air can get out. It should never be forced.",
+      "<strong>Pace activities and assist with ADLs</strong>: plan rest periods between tasks; monitor activity tolerance.",
+      "<strong>Promote secretion clearance</strong>: coughing, fluids as allowed, and suctioning when needed.",
+      "<strong>Stay calm and coach</strong>: anxiety worsens breathlessness; a calm voice and a steady breathing rhythm help."
+     ],
+     "example": "<strong>At the bedside:</strong> A client with COPD becomes short of breath during morning care. SpO₂ is 90% on 2 L/min nasal cannula (target 88–92%). The oxygen is already within target, so the nurse doesn't turn it up. Instead, the nurse raises the head of the bed, pauses the bath to let the client rest, coaches pursed-lip breathing, and finishes care in shorter steps."
+    }
+   ],
+   "pearls": [
+    "Kussmaul = deep, rapid, regular = metabolic acidosis. It's compensation — treat the cause, not the breathing.",
+    "Cheyne-Stokes = crescendo, decrescendo, pause (heart failure, ↑ICP, overdose). Biot = shallow and chaotic with apnea (CNS disorders).",
+    "Hyperventilation → ↓CO₂ → respiratory alkalosis (tingling, lightheadedness). Hypoventilation → ↑CO₂ → respiratory acidosis (drowsiness, headache).",
+    "Rib fractures: treat the pain so the client can breathe deeply. Never bind the chest.",
+    "Sleep apnea + opioids: check rate and sedation before every dose; keep the head up; avoid extra sedatives.",
+    "Pursed-lip breathing: in through the nose, out slowly through pursed lips, about twice as long out as in — never forced."
+   ],
+   "redFlags": [
+    "New Biot or Cheyne-Stokes breathing with a falling level of consciousness in a brain-injured client → notify the provider immediately.",
+    "Respiratory rate < 10/min in a sedated client after an opioid → stimulate, support the airway, and notify the provider.",
+    "Apnea → respiratory arrest; call for help and begin rescue breathing/CPR per protocol.",
+    "New orthopnea or needing more pillows to sleep → worsening condition; assess and report."
+   ],
+   "recap": [
+    "Alterations are described by gas exchange, airway patency, and respiratory pattern.",
+    "COPD damages alveoli → CO₂ retention, low O₂, retractions, cyanosis, clubbing.",
+    "Airway obstruction is the primary cause of atelectasis.",
+    "Tachypnea > 20; bradypnea < 10 (per slides); apnea = no breathing.",
+    "Hyperventilation lowers CO₂; hypoventilation raises it.",
+    "Kussmaul → metabolic acidosis; Cheyne-Stokes → CHF, ↑ICP, overdose; Biot → CNS disorders.",
+    "Independent actions: positioning, deep breathing, pursed-lip breathing, pacing activity, secretion clearance."
+   ],
+   "checks": [
+    {
+     "q": "A client breathes deeply and rapidly with a regular rhythm; labs show metabolic acidosis. Should the nurse coach slower breathing?",
+     "a": "No. Kussmaul breathing is compensation — it blows off CO₂ to raise the pH. The provider treats the underlying acidosis."
+    },
+    {
+     "q": "An hour after IV morphine, a client's RR is 8/min and they're hard to wake. What pattern term applies and what happens to CO₂?",
+     "a": "Bradypnea/hypoventilation. CO₂ is retained, causing respiratory acidosis. Stimulate the client, support the airway, and notify the provider."
+    },
+    {
+     "q": "Why is atelectasis common after abdominal surgery?",
+     "a": "Pain and anesthesia lead to shallow breathing and less coughing, so airways plug and alveoli collapse."
+    },
+    {
+     "q": "A client with emphysema says, \"I push the air out as hard and fast as I can.\" Was pursed-lip teaching effective?",
+     "a": "No. Exhalation should be slow and gentle through pursed lips, about twice as long as inhalation. Forcing it collapses small airways."
+    },
+    {
+     "q": "Which pattern cycles from deep to shallow breaths, followed by apnea, in a client with heart failure?",
+     "a": "Cheyne-Stokes respirations."
+    }
+   ]
+  },
+  {
+   "id": "diagnostics-abg",
+   "title": "Diagnostic Tests: ABGs, Pulse Oximetry & More",
+   "exemplar": null,
+   "summary": "ABGs tell you how well the client is oxygenating and how balanced their acid–base status is; pulse oximetry gives a quick trend; and a handful of other tests show what's going on inside the lungs.",
+   "objectives": [
+    "After this lesson you can state the normal values for pH, PaCO₂, HCO₃⁻, PaO₂, and SaO₂.",
+    "Explain the difference between SaO₂ and PaO₂, and between hypercarbia and hypocarbia.",
+    "Interpret an ABG step by step, naming the imbalance and whether it is compensated.",
+    "Describe what pulse oximetry measures and when it can be inaccurate or misleading.",
+    "Explain the nurse's role before and after a sputum specimen, PFTs, PEFR, chest x-ray, pulmonary angiogram, V/Q scan, bronchoscopy, and thoracentesis."
+   ],
+   "bigPicture": "<p>Your assessment tells you a client <em>looks</em> short of oxygen. Diagnostic tests tell you <em>how much</em>, <em>why</em>, and <em>where</em>. The most important one for nurses to understand is the <strong>arterial blood gas (ABG)</strong>, because it shows both oxygen levels and acid–base balance in one sample.</p><p>In the case study, M.L. arrived in the emergency department with a pulse ox of 85%, improved to 90–93% on a face mask — but her ABG showed <strong>severe respiratory acidosis</strong>. Her lungs were no longer blowing off enough CO₂. That result, together with falling SpO₂ and decreased breath sounds, told the team she was tiring out and needed more help.</p><p>ABG interpretation can look scary, but it's just a short routine you repeat every time. We'll build it step by step, then cover the other tests on your slides and the nurse's job for each.</p>",
+   "keyTerms": [
+    {
+     "term": "Arterial blood gas (ABG)",
+     "def": "A blood sample from an artery that measures pH, CO₂, bicarbonate, and oxygen."
+    },
+    {
+     "term": "pH",
+     "def": "A measure of how acidic or basic the blood is. Normal 7.35–7.45."
+    },
+    {
+     "term": "PaCO₂",
+     "def": "The partial pressure (amount) of carbon dioxide in arterial blood. Normal 35–45 mm Hg. It is controlled by the lungs and acts as an acid."
+    },
+    {
+     "term": "HCO₃⁻ (bicarbonate)",
+     "def": "A base controlled mainly by the kidneys. Normal about 22–26 mEq/L."
+    },
+    {
+     "term": "PaO₂",
+     "def": "The amount of oxygen dissolved in the blood (the plasma/serum). Normal about 80–100 mm Hg."
+    },
+    {
+     "term": "SaO₂",
+     "def": "The percentage of hemoglobin that has oxygen bound to it, measured in an arterial sample. Normal about 95–100%."
+    },
+    {
+     "term": "SpO₂",
+     "def": "Oxygen saturation estimated by a pulse oximeter (the 'p' stands for pulse)."
+    },
+    {
+     "term": "Hypercarbia (hypercapnia)",
+     "def": "CO₂ above 45 mm Hg — too much CO₂."
+    },
+    {
+     "term": "Hypocarbia (hypocapnia)",
+     "def": "CO₂ below 35 mm Hg — too little CO₂."
+    },
+    {
+     "term": "Compensation",
+     "def": "The other system (lungs or kidneys) adjusting to push the pH back toward normal."
+    },
+    {
+     "term": "Thoracentesis",
+     "def": "Insertion of a needle through the chest wall to remove fluid from the pleural space."
+    },
+    {
+     "term": "Bronchoscopy",
+     "def": "A procedure that passes a flexible scope into the airways to look inside, remove secretions, or take a biopsy."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "What an ABG measures",
+     "body": "<p>An ABG is drawn from an artery — usually the <strong>radial artery</strong> at the wrist — because arterial blood shows what the lungs have just done. It gives you two kinds of information:</p><p><strong>1. Oxygenation.</strong> Your slides define two oxygen values. <strong>SaO₂</strong> is the <strong>percentage of oxygen bound to hemoglobin</strong>. <strong>PaO₂</strong> is the <strong>amount of oxygen dissolved in the blood serum</strong>. SaO₂ is a percent; PaO₂ is an amount. If both are low, the client has hypoxemia.</p><p><strong>2. Acid–base balance.</strong> <strong>pH</strong> tells you whether the blood is acidic or basic (normal <strong>7.35–7.45</strong>). <strong>CO₂</strong> (normal <strong>35–45 mm Hg</strong>) is the lungs' part: CO₂ acts like an acid, so more CO₂ means more acid. <strong>HCO₃⁻</strong> (bicarbonate) is the kidneys' part: it's a base. <strong>Hypercarbia (hypercapnia)</strong> means CO₂ is <strong>over 45</strong>; <strong>hypocarbia (hypocapnia)</strong> means CO₂ is <strong>under 35</strong>.</p>",
+     "table": {
+      "caption": "Normal ABG values (adult)",
+      "headers": [
+       "Value",
+       "Normal",
+       "Low means",
+       "High means"
+      ],
+      "rows": [
+       [
+        "pH",
+        "7.35–7.45",
+        "< 7.35 = acidosis",
+        "> 7.45 = alkalosis"
+       ],
+       [
+        "PaCO₂ (lungs, acid)",
+        "35–45 mm Hg",
+        "< 35 = hypocarbia (acid blown off → alkalosis)",
+        "> 45 = hypercarbia (acid retained → acidosis)"
+       ],
+       [
+        "HCO₃⁻ (kidneys, base)",
+        "22–26 mEq/L",
+        "< 22 = too little base (acidosis)",
+        "> 26 = too much base (alkalosis)"
+       ],
+       [
+        "PaO₂",
+        "80–100 mm Hg",
+        "Hypoxemia",
+        "—"
+       ],
+       [
+        "SaO₂",
+        "95–100%",
+        "Hypoxemia",
+        "—"
+       ]
+      ]
+     },
+     "analogy": "Think of pH as a seesaw. CO₂ sits on the acid side, and bicarbonate sits on the base side. The lungs can add or remove CO₂ in minutes by changing breathing; the kidneys add or remove bicarbonate slowly, over hours to days. When one side gets too heavy, the other side tries to rebalance it."
+    },
+    {
+     "heading": "Reading an ABG step by step",
+     "body": "<p>Use the same steps every time. Don't try to do it all at once.</p>",
+     "steps": [
+      "<strong>Look at the pH.</strong> Below 7.35 = acidosis. Above 7.45 = alkalosis. Within 7.35–7.45 = normal or fully compensated.",
+      "<strong>Look at PaCO₂.</strong> Is it acid (> 45), base (< 35), or normal?",
+      "<strong>Look at HCO₃⁻.</strong> Is it acid (< 22), base (> 26), or normal?",
+      "<strong>Match.</strong> Whichever value (CO₂ or HCO₃⁻) matches the pH's direction is the cause. CO₂ matches → <strong>respiratory</strong>. HCO₃⁻ matches → <strong>metabolic</strong>.",
+      "<strong>Check compensation.</strong> If the other value is normal → <strong>uncompensated</strong>. If the other value is abnormal in the opposite direction but pH is still abnormal → <strong>partially compensated</strong>. If pH is back within 7.35–7.45 but both values are abnormal → <strong>fully compensated</strong> (use which side of 7.40 the pH sits on to name the original problem).",
+      "<strong>Check oxygenation.</strong> Low PaO₂ and SaO₂ = hypoxemia."
+     ],
+     "example": "<strong>At the bedside:</strong> A client got IV morphine an hour ago and is now hard to wake, RR 8. ABG: pH 7.29, PaCO₂ 58, HCO₃⁻ 24, PaO₂ 68. Step 1: pH low → acidosis. Step 2: CO₂ high → acid, matches. Step 3: HCO₃⁻ normal. Result: <strong>uncompensated respiratory acidosis</strong> with hypoxemia. Why? Slow breathing (hypoventilation) let CO₂ build up. The nurse stimulates the client, supports the airway, and notifies the provider.",
+     "check": {
+      "q": "pH 7.51, PaCO₂ 28, HCO₃⁻ 24 in a crying client breathing 34/min with tingling around the mouth. Interpretation?",
+      "a": "Uncompensated respiratory alkalosis — fast breathing blew off CO₂; bicarbonate is still normal."
+     }
+    },
+    {
+     "heading": "Compensation and the ROME shortcut",
+     "body": "<p>The lungs and kidneys help each other. If the problem is respiratory (CO₂), the kidneys slowly adjust bicarbonate. If the problem is metabolic (bicarbonate), the lungs quickly adjust CO₂ by changing the rate and depth of breathing — that's Kussmaul breathing in metabolic acidosis.</p><p>The ROME mnemonic helps you spot the cause quickly. In a <strong>respiratory</strong> problem, pH and PaCO₂ move in <strong>opposite</strong> directions (pH ↓, CO₂ ↑; or pH ↑, CO₂ ↓). In a <strong>metabolic</strong> problem, pH and HCO₃⁻ move in the <strong>same (equal)</strong> direction (pH ↓, HCO₃⁻ ↓; or pH ↑, HCO₃⁻ ↑).</p>",
+     "table": {
+      "caption": "The four primary imbalances",
+      "headers": [
+       "Imbalance",
+       "pH",
+       "PaCO₂",
+       "HCO₃⁻",
+       "Typical cause"
+      ],
+      "rows": [
+       [
+        "Respiratory acidosis",
+        "↓",
+        "↑",
+        "normal (or ↑ if compensating)",
+        "Hypoventilation: opioids, exhausted asthma client, COPD"
+       ],
+       [
+        "Respiratory alkalosis",
+        "↑",
+        "↓",
+        "normal (or ↓ if compensating)",
+        "Hyperventilation: anxiety, pain"
+       ],
+       [
+        "Metabolic acidosis",
+        "↓",
+        "normal (or ↓ if compensating)",
+        "↓",
+        "e.g., diabetic ketoacidosis (with Kussmaul breathing)"
+       ],
+       [
+        "Metabolic alkalosis",
+        "↑",
+        "normal (or ↑ if compensating)",
+        "↑",
+        "e.g., loss of stomach acid"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client with a 40-pack-year history of COPD comes for a routine visit and reports usual shortness of breath on exertion. ABG: pH 7.36, PaCO₂ 56, HCO₃⁻ 31, PaO₂ 62. The pH is normal, but both CO₂ (acid) and HCO₃⁻ (base) are high. The pH sits on the acid side of 7.40, and the CO₂ is the acid — so this is <strong>fully compensated respiratory acidosis</strong>. Over years, the kidneys have held on to bicarbonate to balance the CO₂ this client retains. This is the client's baseline."
+    },
+    {
+     "heading": "Getting the ABG sample: the nurse's role",
+     "body": "<p>ABGs are drawn from an artery, where blood is under high pressure, so bleeding is the main risk afterward.</p>",
+     "bullets": [
+      "Note on the requisition whether the client is on room air or oxygen, and at what flow — the oxygen level only makes sense in context.",
+      "After the puncture, apply <strong>firm, direct pressure for at least 5 minutes</strong> — and <strong>10 minutes or more</strong> if the client takes an anticoagulant (blood thinner).",
+      "Then check the site for bleeding or swelling and check the hand's circulation (color, warmth, capillary refill, pulse)."
+     ],
+     "check": {
+      "q": "A client on an anticoagulant just had a radial ABG. How long do you hold pressure?",
+      "a": "Firm pressure for 10 minutes or longer, then check the site and circulation to the hand."
+     }
+    },
+    {
+     "heading": "Pulse oximetry: fast, easy, and sometimes wrong",
+     "body": "<p>A <strong>pulse oximeter</strong> clips onto a finger, toe, or earlobe and shines light through the tissue to estimate the percentage of hemoglobin carrying oxygen (<strong>SpO₂</strong>). It's painless and continuous, which makes it great for spotting trends. A common normal range is about 95–100%. Clients with chronic CO₂ retention (such as some clients with COPD) may have a lower prescribed target, often 88–92%.</p><p>But SpO₂ has real blind spots. It tells you nothing about CO₂ — a client can have a normal SpO₂ while CO₂ is dangerously high. And it can read wrong:</p>",
+     "bullets": [
+      "<strong>Poor circulation</strong> to the finger (cold hands, low blood pressure) → weak or inaccurate signal.",
+      "<strong>Movement</strong> or shivering → unreliable reading.",
+      "<strong>Dark nail polish</strong> or artificial nails → can block the light.",
+      "<strong>Darker skin pigmentation</strong> → devices may read falsely high; look closely at the client, not just the number.",
+      "<strong>Severe anemia</strong> → SpO₂ can look normal even though the total oxygen carried is low."
+     ],
+     "example": "<strong>At the bedside:</strong> A client's monitor reads 97%, but the client is confused, breathing 30/min, and has bluish lips. Which do you believe? <strong>The client.</strong> Check the probe placement and the waveform, try another site, and notify the provider — an ABG may be needed. Treat the client, not the number."
+    },
+    {
+     "heading": "Tests you do with the client: sputum, PFTs, incentive spirometry, PEFR",
+     "body": "<p>Several tests on your slides need the client's effort and your teaching.</p>",
+     "bullets": [
+      "<strong>Sputum specimen</strong>: identifies the organism causing an infection (culture and sensitivity). Collect <strong>first thing in the morning</strong> (secretions pool overnight) and <strong>before antibiotics start</strong>. Have the client rinse the mouth with <strong>water only</strong> (no mouthwash — it can kill the organisms), take a few deep breaths, then cough from <strong>deep in the chest</strong> (not spit saliva) into a sterile cup.",
+      "<strong>Pulmonary function tests (PFTs)</strong>: the client breathes into a machine that measures lung volumes and how fast air moves out. They help identify obstructive disease like asthma and COPD. Follow instructions about holding inhalers and avoiding smoking beforehand.",
+      "<strong>Incentive spirometry</strong>: a hand-held device that shows how deeply the client can breathe in, encouraging slow, deep breaths to expand the lungs and clear mucus. Common after surgery.",
+      "<strong>Peak expiratory flow rate (PEFR)</strong>: a small meter measures how fast the client can blow air out. People with asthma use it at home to catch worsening early, comparing each reading with their personal best."
+     ],
+     "table": {
+      "caption": "Peak flow zones (common asthma action-plan teaching)",
+      "headers": [
+       "Zone",
+       "% of personal best",
+       "What to do"
+      ],
+      "rows": [
+       [
+        "Green",
+        "≥ 80%",
+        "Good control — continue usual plan"
+       ],
+       [
+        "Yellow",
+        "50–79%",
+        "Caution — use rescue medicine and follow the action plan"
+       ],
+       [
+        "Red",
+        "< 50%",
+        "Medical alert — use rescue medicine and seek emergency care"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Imaging and procedures: x-ray, angiogram, V/Q scan, bronchoscopy, thoracentesis",
+     "body": "<p>These tests look inside the chest. Know what each shows and the nurse's key safety points.</p>",
+     "table": {
+      "caption": "Imaging and invasive tests",
+      "headers": [
+       "Test",
+       "What it shows",
+       "Nursing focus"
+      ],
+      "rows": [
+       [
+        "<strong>Chest x-ray</strong>",
+        "Pneumonia (infiltrates), collapse, fluid, air in the pleural space",
+        "Remove metal from the chest area; ask about pregnancy. M.L.'s x-ray revealed pneumonia."
+       ],
+       [
+        "<strong>Pulmonary angiogram</strong>",
+        "Blood flow in the lung arteries using IV contrast dye (e.g., a clot)",
+        "Before: check kidney function and ask about prior contrast or dye reactions — report problems to the provider. After: check the catheter site."
+       ],
+       [
+        "<strong>Pulmonary V/Q scan</strong>",
+        "Compares ventilation (air) and perfusion (blood) in each area of the lungs — looks for mismatch such as a clot",
+        "Explain the two parts: breathing in a tracer and receiving an IV tracer."
+       ],
+       [
+        "<strong>Bronchoscopy</strong>",
+        "Direct look inside the airways; can remove secretions or take a biopsy",
+        "NPO before. Afterward keep NPO until the <strong>gag reflex returns</strong>. A sore throat and small blood streaks are expected; stridor, new chest pain, fast breathing, or falling SpO₂ are red flags."
+       ],
+       [
+        "<strong>Thoracentesis</strong>",
+        "Removes fluid from the pleural space for testing or relief",
+        "Position the client <strong>sitting upright, leaning forward</strong> over an overbed table; tell them to stay still and not cough during needle insertion. Afterward watch for <strong>pneumothorax</strong> and bleeding."
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> One hour after a thoracentesis that removed 900 mL of fluid, the client reports sudden sharp chest pain and shortness of breath. Breath sounds are absent on the right, and SpO₂ has dropped from 95% to 88%. These findings suggest the needle let air into the pleural space — a <strong>pneumothorax</strong>. The nurse stays with the client, raises the head of the bed, applies oxygen per protocol, and notifies the provider immediately.",
+     "check": {
+      "q": "Why must a client stay NPO after bronchoscopy until the gag reflex returns?",
+      "a": "The throat is numbed for the procedure; without a gag reflex the client could aspirate food or fluid into the lungs."
+     }
+    }
+   ],
+   "mnemonics": [
+    {
+     "name": "ROME",
+     "text": "Respiratory Opposite (pH and PaCO₂ move in opposite directions), Metabolic Equal (pH and HCO₃⁻ move in the same direction)."
+    }
+   ],
+   "pearls": [
+    "SaO₂ is a percentage (O₂ bound to hemoglobin); PaO₂ is an amount (O₂ dissolved in blood). Both low = hypoxemia.",
+    "Normal pH with two abnormal values = fully compensated; the side of 7.40 names the original problem.",
+    "In an asthma attack, a normal or rising CO₂ is ominous — the client is tiring and can no longer blow it off.",
+    "SpO₂ tells you nothing about CO₂. A client can be well saturated and still retaining CO₂.",
+    "Sputum culture: early morning, before antibiotics, rinse with water only, cough from deep in the lungs.",
+    "Before a contrast study like a pulmonary angiogram, check kidney function and history of contrast reactions."
+   ],
+   "redFlags": [
+    "SpO₂ that doesn't match how the client looks (e.g., 97% but confused and cyanotic) → trust the client, reassess, and notify the provider.",
+    "Sudden dyspnea, sharp chest pain, diminished breath sounds, or falling SpO₂ after thoracentesis or bronchoscopy → suspect pneumothorax; notify the provider immediately.",
+    "Stridor after bronchoscopy → airway swelling; call for help.",
+    "Peak flow in the red zone (< 50% of personal best) → rescue medicine and emergency care.",
+    "ABG showing worsening respiratory acidosis despite oxygen (as with M.L.) → the client is tiring; anticipate the need for ventilatory support."
+   ],
+   "recap": [
+    "pH 7.35–7.45; PaCO₂ 35–45; HCO₃⁻ 22–26; PaO₂ 80–100; SaO₂ 95–100%.",
+    "CO₂ > 45 = hypercarbia; CO₂ < 35 = hypocarbia.",
+    "Read ABGs in order: pH → CO₂ → HCO₃⁻ → match → compensation → oxygen.",
+    "ROME: Respiratory Opposite, Metabolic Equal.",
+    "Hold ABG site pressure ≥ 5 min (≥ 10 min on anticoagulants), then check the hand.",
+    "Pulse oximetry is a trend tool with blind spots — correlate with assessment.",
+    "Bronchoscopy: NPO until gag reflex returns. Thoracentesis: sit up, lean forward, stay still, then watch for pneumothorax."
+   ],
+   "checks": [
+    {
+     "q": "pH 7.30, PaCO₂ 40, HCO₃⁻ 17. What is the imbalance?",
+     "a": "Uncompensated metabolic acidosis — pH low, bicarbonate low (same direction), CO₂ normal."
+    },
+    {
+     "q": "pH 7.33, PaCO₂ 52, HCO₃⁻ 30. What is the imbalance?",
+     "a": "Partially compensated respiratory acidosis — CO₂ matches the acidosis; bicarbonate is rising to compensate, but pH is still abnormal."
+    },
+    {
+     "q": "A client wearing dark nail polish has cold hands and an SpO₂ of 84% but is talking comfortably with pink lips. What should you do?",
+     "a": "Suspect an inaccurate reading: warm the hand or move the probe to an earlobe, remove polish, and correlate with assessment before acting on the number."
+    },
+    {
+     "q": "Where should the client sit for a thoracentesis, and why?",
+     "a": "Upright, leaning forward over an overbed table. This spreads the ribs and lets fluid collect at the base where the needle goes in."
+    },
+    {
+     "q": "A client's sputum specimen is ordered, and the first antibiotic dose is due now. Which comes first?",
+     "a": "Collect the sputum specimen first, so the antibiotic doesn't affect the culture results — then give the antibiotic promptly."
+    }
+   ]
+  },
+  {
+   "id": "oxygen-therapy",
+   "title": "Oxygen Therapy & Delivery Devices",
+   "exemplar": null,
+   "summary": "Oxygen is a medication: it needs an order, the right device at the right flow, a target saturation, careful safety precautions, and a nurse who checks whether it's working.",
+   "objectives": [
+    "After this lesson you can explain when oxygen is needed and why noninvasive devices require an open airway.",
+    "Compare the nasal cannula, simple face mask, nonrebreather mask, and Venturi mask by flow rate, oxygen concentration, and nursing care.",
+    "Apply oxygen safely in the correct order and evaluate the client's response.",
+    "Titrate oxygen for a client with chronic CO₂ retention and recognize signs of too much oxygen.",
+    "Teach clients and families the fire and equipment safety rules for home oxygen.",
+    "Recognize when oxygen therapy is not working and escalate."
+   ],
+   "bigPicture": "<p>When a client's oxygen saturation drops, oxygen therapy is often one of the first treatments. It's so common that it's easy to forget it is a <strong>drug</strong>. Like any drug, it has a dose (flow rate and concentration), a route (the device), an indication (low saturation or signs of hypoxia), and side effects. Your slides list oxygen administration under <strong>collaborative therapies</strong> — it requires a medical order.</p><p>Follow the case study: M.L. started at 91% on room air and was placed on <strong>4 L/min by nasal cannula</strong>. Later, in the ER, she was at 85%, placed on <strong>8 L/min by face mask</strong>, and increased to <strong>10 L/min</strong> — yet her saturation kept falling. Eventually she needed <strong>intubation and mechanical ventilation</strong>. Each step up shows how nurses match the device to the client's needs and recognize when a device isn't enough.</p><p>In this lesson you'll learn the common devices, how to choose and apply them, how to keep clients safe, and how to tell whether the oxygen is working.</p>",
+   "keyTerms": [
+    {
+     "term": "FiO₂",
+     "def": "Fraction of inspired oxygen — the percentage of oxygen in the air the client breathes in. Room air is about 21%."
+    },
+    {
+     "term": "Flow rate",
+     "def": "How many liters of oxygen per minute (L/min) come from the flowmeter."
+    },
+    {
+     "term": "Patent airway",
+     "def": "An open, unblocked airway."
+    },
+    {
+     "term": "Nasal cannula",
+     "def": "Soft tubing with two short prongs that sit in the nostrils; the most common low-flow device."
+    },
+    {
+     "term": "Simple face mask",
+     "def": "A mask over the nose and mouth that delivers a moderate oxygen concentration; needs at least 5 L/min."
+    },
+    {
+     "term": "Nonrebreather mask",
+     "def": "A mask with a reservoir bag and one-way valves that delivers the highest oxygen concentration of the standard masks."
+    },
+    {
+     "term": "Venturi mask",
+     "def": "A mask with color-coded adapters that delivers a precise, set oxygen concentration."
+    },
+    {
+     "term": "Titrate",
+     "def": "Adjust a dose up or down to reach a target — here, adjusting oxygen to keep SpO₂ in a prescribed range."
+    },
+    {
+     "term": "CO₂ retention",
+     "def": "Buildup of carbon dioxide in the blood, common in some clients with COPD."
+    },
+    {
+     "term": "CO₂ narcosis",
+     "def": "Drowsiness and confusion caused by a high CO₂ level."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "When does a client need oxygen?",
+     "body": "<p>Your slides say the <strong>need for oxygen is indicated by decreased O₂ saturation</strong>. In practice, you'll see this as a low SpO₂ or PaO₂ together with signs of hypoxia — restlessness, confusion, tachycardia, tachypnea, increased work of breathing, or cyanosis.</p><p>Oxygen is ordered by a provider with a <strong>device</strong>, a <strong>flow rate or concentration</strong>, and often a <strong>target SpO₂ range</strong>. In an emergency, facilities have protocols that allow nurses to start oxygen right away, then obtain the order.</p><p>Your slides add one crucial point: <strong>noninvasive devices require a patent airway to be effective.</strong> A nasal cannula or mask can only deliver oxygen to the top of the airway. If the airway is blocked — by the tongue in an unconscious client, by secretions, or by swelling — the oxygen never reaches the alveoli. Always open and clear the airway first.</p>",
+     "analogy": "Putting oxygen on a client with a blocked airway is like turning up the water pressure on a hose that's kinked. More flow at the tap does nothing until you straighten the hose.",
+     "example": "<strong>At the bedside:</strong> A drowsy client in the recovery room has loud snoring breaths, retractions above the sternum, and very little chest rise. SpO₂ has fallen from 96% to 89% on 2 L/min by nasal cannula. Turning up the oxygen won't help — the tongue is blocking the airway. The nurse <strong>opens the airway first</strong> (repositions the head and jaw), then reassesses breathing and SpO₂."
+    },
+    {
+     "heading": "Meet the devices",
+     "body": "<p>The devices below are the ones you'll use most as a new nurse. They differ in how much oxygen they can deliver and how precise that amount is. As a rough rule, a nasal cannula adds about 4% oxygen for each liter per minute above room air (21%).</p>",
+     "table": {
+      "caption": "Common oxygen delivery devices",
+      "headers": [
+       "Device",
+       "Flow rate",
+       "Approx. FiO₂",
+       "Key nursing points"
+      ],
+      "rows": [
+       [
+        "<strong>Nasal cannula</strong>",
+        "1–6 L/min",
+        "24–44%",
+        "Comfortable; the client can eat and talk. Works even if the client breathes through the mouth. Humidify higher flows per facility policy to prevent drying. Check the skin behind the ears and at the nares."
+       ],
+       [
+        "<strong>Simple face mask</strong>",
+        "5–10 L/min (<strong>minimum 5</strong>)",
+        "≈ 40–60%",
+        "Needs at least 5 L/min to flush exhaled CO₂ out of the mask; below that, the client rebreathes CO₂. Must be removed to eat."
+       ],
+       [
+        "<strong>Nonrebreather mask</strong>",
+        "10–15 L/min",
+        "Up to ≈ 60–90%",
+        "Highest FiO₂ of the standard masks. One-way valves keep exhaled air out of the reservoir. The <strong>bag must stay inflated</strong> and must never collapse when the client inhales. Used for acute, severe hypoxemia."
+       ],
+       [
+        "<strong>Venturi mask</strong>",
+        "Set by the adapter",
+        "24–50% (precise)",
+        "<strong>Most precise FiO₂</strong> — color-coded adapters mix a fixed amount of room air with oxygen. Ideal when a client needs a controlled, low concentration (e.g., COPD with CO₂ retention). Keep the side ports uncovered."
+       ]
+      ]
+     },
+     "check": {
+      "q": "The provider wants a COPD client to receive exactly 28% oxygen. Which device?",
+      "a": "A Venturi mask — it delivers a precise, set FiO₂."
+     }
+    },
+    {
+     "heading": "Applying oxygen: doing it in the right order",
+     "body": "<p>Because oxygen is a medication, you follow the same safety checks you use for any drug. Here's the sequence for starting oxygen by nasal cannula:</p>",
+     "steps": [
+      "Verify the prescription (device, flow, target), perform hand hygiene, and identify the client using two identifiers.",
+      "Explain the procedure. Connect the cannula tubing (and humidifier if used) to the flowmeter and set the prescribed flow.",
+      "Check that oxygen is flowing from the prongs (you can feel it or hear it).",
+      "Insert the curved prongs into the nares with the curve following the nose downward, loop the tubing over the ears, and adjust the slider under the chin for comfort.",
+      "Reassess SpO₂, respiratory rate and effort, mental status, and the skin behind the ears and at the nares."
+     ],
+     "example": "<strong>At the bedside:</strong> The provider orders oxygen at 3 L/min by <strong>simple face mask</strong> for a client with pneumonia. What should you do? A simple mask needs at least 5 L/min, or the client will rebreathe exhaled CO₂. The nurse <strong>contacts the provider to clarify</strong> — either a nasal cannula at 3 L/min or a simple mask at 5–10 L/min would be appropriate. The nurse doesn't substitute a different device without an order.",
+     "check": {
+      "q": "Why set and confirm the flow before placing the prongs in the client's nose?",
+      "a": "So the client receives oxygen immediately when the device is applied — you don't want a client breathing through empty tubing."
+     }
+    },
+    {
+     "heading": "Caring for the client on oxygen: rounds and troubleshooting",
+     "body": "<p>Once oxygen is on, your job is to keep it working and keep the client safe. On every round, check the whole system from the wall to the client:</p>",
+     "bullets": [
+      "<strong>Flowmeter</strong>: set at the prescribed rate (read the middle of the ball).",
+      "<strong>Tubing</strong>: connected, not kinked, not pinched under side rails or the client's body.",
+      "<strong>Device fit</strong>: prongs in the nares; mask snug but not tight.",
+      "<strong>Skin</strong>: behind the ears, over the nose, and at the nares — tubing can cause pressure injuries. Pad as needed.",
+      "<strong>Humidifier</strong>: filled if used.",
+      "<strong>Client response</strong>: SpO₂, respiratory rate and effort, heart rate, mental status, color.",
+      "<strong>Nonrebreather</strong>: if the reservoir bag collapses when the client inhales, <strong>increase the flow</strong> (up to 15 L/min) — the client needs more than is flowing."
+     ],
+     "example": "<strong>At the bedside:</strong> On hourly rounds for a client on 4 L/min by nasal cannula, you find: flowmeter at 4 L/min; tubing pinched under the side rail; SpO₂ 91%, down from 95%; red, tender skin behind both ears; humidifier filled; prongs correctly placed; a visitor putting petroleum-based balm on the client's lips; the client breathing through the mouth while watching TV. Act on: the pinched tubing, the falling SpO₂, the skin behind the ears, and the petroleum balm. Mouth breathing with a cannula is fine — oxygen still pools in the nasal passages and throat."
+    },
+    {
+     "heading": "Clients who retain CO₂: more is not always better",
+     "body": "<p>Some clients — especially those with COPD — live with chronically high CO₂ levels. For these clients, giving high-concentration oxygen without a target can cause the CO₂ to rise even further. The result is <strong>CO₂ narcosis</strong>: the client becomes drowsy, confused, and may stop breathing effectively.</p><p>That's why providers often order oxygen <strong>titrated to a target SpO₂ of 88–92%</strong> for these clients, and why a <strong>Venturi mask</strong> is useful when a precise, low concentration is needed.</p><p>But here's the critical balance: <strong>never withhold oxygen from a hypoxemic client in distress.</strong> Low oxygen kills faster than high CO₂. Give oxygen, titrate it to the target, and watch closely: mental status, respiratory rate, SpO₂, and ABGs.</p>",
+     "example": "<strong>At the bedside:</strong> A client with COPD has an order to \"titrate oxygen to maintain SpO₂ 88–92%.\" A family member turned the flow up to 6 L/min because the client \"looked uncomfortable.\" An hour ago the client was alert; now they're hard to wake, SpO₂ 98%, RR 12. The nurse <strong>reduces the oxygen to reach the prescribed target</strong> (without turning it off completely) and <strong>notifies the provider</strong>, anticipating an ABG to check the CO₂. Then the nurse teaches the family that more oxygen isn't always better for this client.",
+     "check": {
+      "q": "A COPD client's SpO₂ is 84% and they're struggling to breathe. Should you hold oxygen because they retain CO₂?",
+      "a": "No. Never withhold oxygen from a hypoxemic client. Apply it, titrate to the prescribed target, and monitor mental status and CO₂."
+     }
+    },
+    {
+     "heading": "Oxygen safety at home and in the hospital",
+     "body": "<p>Oxygen isn't flammable by itself, but it makes fires start more easily and burn hotter and faster. That's the reason for strict safety rules. Teach clients and families:</p>",
+     "bullets": [
+      "<strong>No smoking</strong> by anyone in the home or room; post \"No Smoking — Oxygen in Use\" signs.",
+      "Keep oxygen away from <strong>open flames and heat</strong>: candles, gas stoves, fireplaces, space heaters.",
+      "Use <strong>water-based lubricant</strong> for dry lips and nostrils. <strong>Never use petroleum jelly</strong> or oil-based products — they can burn.",
+      "Store cylinders <strong>upright and secured</strong> in a stand or cart so they can't fall and break.",
+      "Use the <strong>prescribed flow</strong> only; don't turn it up on your own when short of breath — call the provider if breathing worsens.",
+      "Check tank levels before leaving home or during transport."
+     ],
+     "analogy": "Think of oxygen as a campfire bellows. It doesn't light the fire, but it turns a tiny spark into a big blaze very fast. Keep every spark — cigarettes, candles, stove flames — far away."
+    },
+    {
+     "heading": "Is it working? Evaluating and escalating",
+     "body": "<p>Starting oxygen isn't the end of the job. After every change, reassess. Signs oxygen is working: SpO₂ reaching the target, a slower respiratory rate with less effort, a slower heart rate, improved alertness, and better color. Signs it isn't: SpO₂ stays low, breathing stays fast and labored with accessory muscle use, the client becomes newly restless or confused.</p><p>A nasal cannula tops out at about 6 L/min. If a client is still hypoxemic at that level, the provider needs to know so a higher-concentration device can be ordered. If a client keeps getting worse despite high-flow masks — rising CO₂, falling alertness, exhaustion — they may need <strong>intubation and mechanical ventilation</strong>, as M.L. did.</p>",
+     "example": "<strong>At the bedside:</strong> One hour after a client with pneumonia was increased to 6 L/min by nasal cannula, you find: SpO₂ 87%, RR 32 with accessory muscle use, new restlessness and confusion. These show the oxygen therapy is <strong>not effective</strong>. The nurse raises the head of the bed, stays with the client, and notifies the provider (or rapid response team) to escalate care. Compare: a client who now speaks in full sentences, has a heart rate that fell from 118 to 96, and has pink oral mucosa is responding well."
+    }
+   ],
+   "pearls": [
+    "Oxygen is a medication — it needs an order, a device, a flow rate, and usually a target SpO₂.",
+    "Simple face mask: minimum 5 L/min. An order below that must be clarified.",
+    "Nonrebreather reservoir bag must never collapse on inspiration — increase the flow.",
+    "Precise FiO₂ (e.g., 28%) = Venturi mask.",
+    "COPD with CO₂ retention: aim for 88–92%. New drowsiness after an oxygen increase = check the CO₂.",
+    "No petroleum products near oxygen — use water-based lubricant."
+   ],
+   "redFlags": [
+    "SpO₂ falling despite escalating oxygen (like M.L. on 10 L/min by mask) → notify the provider/rapid response; anticipate intubation.",
+    "COPD client on oxygen who becomes increasingly drowsy or confused → reduce oxygen to the prescribed target, notify the provider, anticipate an ABG.",
+    "Snoring respirations, retractions, and falling SpO₂ in a sedated client → open the airway first.",
+    "Smoking, open flames, or petroleum products near oxygen → stop and correct immediately."
+   ],
+   "recap": [
+    "Need for oxygen is shown by decreased saturation; noninvasive devices only work with a patent airway.",
+    "Nasal cannula 1–6 L/min; simple mask 5–10 L/min; nonrebreather 10–15 L/min; Venturi = precise FiO₂.",
+    "Apply in order: verify → set flow → confirm flow → apply → reassess.",
+    "Round on the whole system: flow, tubing, fit, skin, humidifier, client response.",
+    "Titrate to target for CO₂ retainers, but never withhold oxygen from a hypoxemic client.",
+    "Fire safety: no smoking, flames, or petroleum products; secure cylinders upright.",
+    "If the client doesn't improve, escalate — a bigger device or ventilatory support may be needed."
+   ],
+   "checks": [
+    {
+     "q": "A client on a nonrebreather at 10 L/min has a reservoir bag that collapses completely with each breath. Priority action?",
+     "a": "Increase the flow until the bag stays inflated during inhalation, then reassess."
+    },
+    {
+     "q": "A client going home on oxygen says, \"I'll put Vaseline in my nose so it doesn't crack.\" Your response?",
+     "a": "Correct them: petroleum products are flammable near oxygen. Use a water-based lubricant instead."
+    },
+    {
+     "q": "Why does a nasal cannula still work when a client breathes through the mouth?",
+     "a": "Oxygen fills the nasal passages and back of the throat, and it's drawn in with each breath even through the mouth."
+    },
+    {
+     "q": "A client on 2 L/min cannula is restless with SpO₂ 86%. The airway is clear. What do you do?",
+     "a": "Raise the head of the bed, increase oxygen per order or protocol, stay with the client, and notify the provider; reassess SpO₂, effort, and mental status."
+    },
+    {
+     "q": "Which findings show oxygen therapy is working?",
+     "a": "SpO₂ at target, slower and easier breathing, a falling heart rate, improved alertness, and pink oral mucosa."
+    }
+   ]
+  },
+  {
+   "id": "lifespan-considerations",
+   "title": "Oxygenation Across the Lifespan",
+   "exemplar": null,
+   "summary": "A baby's tiny airway, a pregnant client's rising diaphragm, and an older adult's weaker cough all change how oxygenation problems look — and how fast they become dangerous.",
+   "objectives": [
+    "After this lesson you can explain why infants, young children, and older adults are at higher risk for oxygenation problems.",
+    "Tell expected pediatric respiratory findings apart from signs of respiratory distress.",
+    "Describe how to respond to a choking infant and recognize foreign-body aspiration in a toddler.",
+    "List the normal respiratory changes of pregnancy and the findings that need follow-up.",
+    "Recognize atypical signs of pneumonia in older adults and teach ways to prevent aspiration.",
+    "Describe genetic and sex-related differences in hemoglobin and hematocrit."
+   ],
+   "bigPicture": "<p>A respiratory rate of 44 is perfectly normal for a 6-month-old — and a sign of serious trouble in a 40-year-old. A belly that rises and falls with each breath is normal in a toddler. A little shortness of breath climbing stairs is normal late in pregnancy. Bibasilar crackles can be common in an 85-year-old. To assess oxygenation well, you have to know what's <em>normal for this person's age and situation</em>.</p><p>Your slides note that <strong>children under 1 year and older adults</strong> are at increased risk for oxygenation problems. Very young children are more susceptible to respiratory disorders, and older adults have more health problems that affect oxygenation.</p><p>This lesson walks through each group: what's different in their bodies, what's expected, what's a warning sign, and what the nurse does.</p>",
+   "keyTerms": [
+    {
+     "term": "Retractions",
+     "def": "Skin pulling inward between the ribs, below the ribs, or above the sternum during inspiration — a sign of respiratory distress."
+    },
+    {
+     "term": "Pectus excavatum",
+     "def": "A sunken (caved-in) sternum."
+    },
+    {
+     "term": "Pectus carinatum",
+     "def": "A sternum that sticks out (\"pigeon chest\")."
+    },
+    {
+     "term": "Barrel chest",
+     "def": "A rounded chest where the front-to-back diameter equals the side-to-side diameter. Normal in infants; abnormal after about age 6."
+    },
+    {
+     "term": "Crepitus",
+     "def": "A crackling feeling under the skin; in a newborn near the clavicle it can mean a fractured collarbone."
+    },
+    {
+     "term": "Rhinitis of pregnancy",
+     "def": "Nasal stuffiness caused by pregnancy-related changes in the nasal lining."
+    },
+    {
+     "term": "Kyphosis",
+     "def": "Forward curving of the upper spine (a hunched back), which can limit lung expansion."
+    },
+    {
+     "term": "Aspiration",
+     "def": "Breathing food, fluid, stomach contents, or an object into the airway and lungs."
+    },
+    {
+     "term": "GERD",
+     "def": "Gastroesophageal reflux disease — stomach contents flow back up into the esophagus, increasing the risk of aspiration."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Infants and children: small airways, big consequences",
+     "body": "<p>Children are not just small adults. Your slides list several <strong>anatomic differences</strong>:</p>",
+     "bullets": [
+      "<strong>Shorter, narrower airway.</strong> A little swelling or mucus narrows a small airway a lot, so <strong>conditions that cause airway edema or secretions sharply increase airway resistance</strong> (how hard it is to move air).",
+      "<strong>The trachea divides higher and at a different angle</strong> than in adults.",
+      "<strong>Lung tissue is not fully developed at birth.</strong> So <strong>diseases that affect the alveoli can have a larger impact</strong> on how sick a child becomes.",
+      "<strong>Children under 6 breathe primarily with the diaphragm.</strong> Their belly rises and falls more than their chest — that's normal.",
+      "<strong>Higher risk of airway obstruction</strong> by foreign objects and infection. Young children put things in their mouths, and their airways are small.",
+      "<strong>Upper respiratory infections are common</strong> in children <strong>but usually not serious</strong>."
+     ],
+     "analogy": "Imagine a drinking straw versus a garden hose. Coat the inside of each with the same thin layer of mud, and the hose still carries plenty of water — but the straw is nearly blocked. A child's airway is the straw."
+    },
+    {
+     "heading": "Recognizing respiratory distress in children",
+     "body": "<p>Because children have less reserve, they can go from okay to very sick quickly. Your slides point out that <strong>respiratory distress may cause retractions</strong>. Learn the full picture:</p>",
+     "table": {
+      "caption": "Normal for age vs. warning signs",
+      "headers": [
+       "Expected (normal)",
+       "Respiratory distress — act now"
+      ],
+      "rows": [
+       [
+        "Rate within the age range (infant 30–60, toddler 20–40, preschool 20–35)",
+        "Rate well above the range for age"
+       ],
+       [
+        "Abdominal (diaphragmatic) breathing under age 6",
+        "<strong>Retractions</strong>: suprasternal, intercostal, substernal"
+       ],
+       [
+        "Newborn: irregular breathing with brief pauses (under about 20 seconds)",
+        "Pauses of 20 seconds or more (apnea)"
+       ],
+       [
+        "Newborn: bluish hands and feet with a pink trunk (acrocyanosis)",
+        "Central cyanosis (blue lips, tongue, trunk)"
+       ],
+       [
+        "Quiet breathing",
+        "Grunting, nasal flaring, head bobbing, stridor at rest"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A 2-year-old with a respiratory infection has these findings: RR 32 while awake and playing; head bobbing with each breath; mostly abdominal breathing at rest; suprasternal and intercostal retractions; inspiratory stridor while calm; expiratory grunting. Which need immediate intervention? <strong>Head bobbing, retractions, stridor at rest, and grunting.</strong> The rate of 32 is within the toddler range, and belly breathing is normal at this age."
+    },
+    {
+     "heading": "The pediatric chest exam",
+     "body": "<p>Your slides list specific things to check at different ages:</p>",
+     "bullets": [
+      "<strong>Infants</strong>: check the chest shape for <strong>pectus carinatum</strong> or <strong>pectus excavatum</strong>. During palpation, <strong>watch the infant's facial expression and crying</strong> — a grimace or cry can signal tenderness. In <strong>newborns</strong>, palpate near the <strong>clavicles for crepitus</strong>, which can mean a clavicle fracture from a difficult delivery. Assess <strong>tactile fremitus</strong> (you can feel it while the infant cries). An infant's chest is naturally round — the front-to-back and side-to-side diameters are about equal.",
+      "<strong>Toddlers through elementary age</strong>: inspect again for pectus carinatum or excavatum. The chest <strong>should not be barrel-shaped after age 6</strong>, and there <strong>should be no retractions</strong>. To assess fremitus, <strong>have the child repeat words or numbers</strong>."
+     ],
+     "check": {
+      "q": "An 8-year-old has a barrel-shaped chest. Expected or unexpected?",
+      "a": "Unexpected — a barrel chest is normal in infants but should not be present after about age 6."
+     }
+    },
+    {
+     "heading": "Foreign objects in the airway",
+     "body": "<p>Your slides flag <strong>foreign objects in the airway</strong> as a special pediatric risk. There are two situations to know.</p><p><strong>1. A complete blockage (the child can't cry, cough, or breathe).</strong> This is an emergency. For a <strong>conscious infant</strong> (under 1 year), you don't use abdominal thrusts — the infant's liver is easily injured. Instead:</p>",
+     "steps": [
+      "Confirm the infant truly can't cry or cough, and call for help.",
+      "Hold the infant face down along your forearm, head lower than the chest, supporting the head and jaw.",
+      "Give up to 5 firm back blows between the shoulder blades with the heel of your hand.",
+      "Turn the infant face up, supporting the head, keeping the head lower than the body.",
+      "Give up to 5 chest thrusts on the lower half of the breastbone, just below the nipple line.",
+      "Repeat back blows and chest thrusts until the object comes out or the infant becomes unresponsive (then begin CPR per protocol)."
+     ],
+     "example": "<strong>At the bedside:</strong> <strong>2. A partial blockage that seems to settle.</strong> A 2-year-old had a sudden coughing and gagging episode while eating trail mix 3 hours ago. No fever, no recent illness. Now the child has an on-and-off cough, <strong>wheezing only on the right side</strong>, and diminished breath sounds in the right lower lobe. SpO₂ 95%. Suspect <strong>foreign-body aspiration into the right bronchus</strong> — remember, the right bronchus is shorter and straighter. The child needs imaging and removal of the object, even though they look fairly stable now."
+    },
+    {
+     "heading": "Pregnancy: two people, one set of lungs",
+     "body": "<p>Pregnancy changes breathing in predictable ways. Your slides list these physiologic differences:</p>",
+     "bullets": [
+      "The growing uterus <strong>raises the diaphragm</strong>, which <strong>decreases the ability to expand the lungs</strong> downward. To make up for it, the <strong>chest circumference increases</strong> (the ribs flare out).",
+      "<strong>Respiratory rate increases</strong> to keep up with the higher oxygen needs of mother and baby.",
+      "<strong>Minute ventilation, alveolar ventilation, and tidal volume increase</strong> — the pregnant client moves more air with each breath and each minute.",
+      "<strong>Residual capacity decreases</strong> — less air is left in the lungs after breathing out, so there's a smaller oxygen \"reserve.\" Pregnant clients can desaturate faster.",
+      "Because they breathe off more CO₂, <strong>blood pH may become more alkaline</strong>. A slightly low PaCO₂ is expected.",
+      "<strong>Changes to the upper respiratory mucosa</strong> make <strong>nasal stuffiness and nosebleeds</strong> more likely. Assess for <strong>rhinitis of pregnancy</strong>."
+     ],
+     "table": {
+      "caption": "Expected in pregnancy vs. needs follow-up",
+      "headers": [
+       "Expected",
+       "Needs follow-up"
+      ],
+      "rows": [
+       [
+        "Nasal stuffiness, occasional nosebleeds",
+        "SpO₂ below 95%"
+       ],
+       [
+        "Mild shortness of breath climbing stairs",
+        "Fever, tachypnea (e.g., RR 28)"
+       ],
+       [
+        "Slightly alkaline pH with low PaCO₂ (e.g., pH 7.44, PaCO₂ 30)",
+        "Fetal tachycardia"
+       ],
+       [
+        "Larger chest circumference",
+        "Dyspnea at rest, chest pain"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A client at 30 weeks with positive influenza reports nasal stuffiness since early pregnancy, mild shortness of breath on stairs for a month, a small nosebleed yesterday, and occasional painless abdominal tightening. Temp 38.9 °C, RR 28, SpO₂ 93% on room air, fetal heart rate 172. The stuffiness, nosebleed, and mild dyspnea on stairs are normal pregnancy changes. The <strong>fever, fast breathing, SpO₂ below 95%, and fetal tachycardia</strong> need follow-up now — the baby depends on the mother's oxygen."
+    },
+    {
+     "heading": "Caring for the pregnant client with an oxygenation problem",
+     "body": "<p>Your slides give several nursing priorities:</p>",
+     "bullets": [
+      "<strong>Monitor oxygenation status during labor</strong> to prevent harm to the baby's oxygenation.",
+      "<strong>Avoid positioning that may harm the fetus — especially prolonged lying flat on the back (supine).</strong> The heavy uterus can press on major blood vessels and reduce blood flow to the heart and placenta. A side-lying position helps.",
+      "<strong>Resolve the underlying condition promptly</strong> so both mother and fetus have enough oxygen.",
+      "Treatment should involve <strong>both the pulmonologist and the obstetrician</strong>.",
+      "<strong>Check all medications before giving them</strong> — some drugs are not safe in pregnancy."
+     ],
+     "check": {
+      "q": "A pregnant client's ABG shows pH 7.44 and PaCO₂ 30. Should you be alarmed?",
+      "a": "No — increased ventilation in pregnancy lowers CO₂ and makes the pH slightly more alkaline. Pregnancy lowers CO₂, not O₂."
+     }
+    },
+    {
+     "heading": "Older adults: weaker defenses, quieter warning signs",
+     "body": "<p>Your slides list these <strong>physiologic changes of aging</strong> and their consequences:</p>",
+     "bullets": [
+      "<strong>Increased risk of respiratory infections.</strong>",
+      "<strong>Increased risk of sleep apnea.</strong>",
+      "<strong>Changes to the cough reflex → increased risk of choking.</strong>",
+      "<strong>More GERD → increased risk of aspiration.</strong>",
+      "All of these <strong>increase the risk of pneumonia (PNA)</strong>."
+     ],
+     "table": {
+      "caption": "Assessing the older adult (from your slides)",
+      "headers": [
+       "Can be expected with aging",
+       "Suggests a new problem"
+      ],
+      "rows": [
+       [
+        "Decreased breath sounds",
+        "New confusion (below the client's baseline)"
+       ],
+       [
+        "Inspiratory crackles at the bases (common)",
+        "Crackles that don't clear with coughing in one area, with diminished sounds"
+       ],
+       [
+        "Kyphosis or scoliosis (assess for them)",
+        "Weakness, loss of appetite"
+       ],
+       [
+        "",
+        "Increased heart rate and increased respiratory rate"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> An 82-year-old arrives oriented to person only (normally oriented ×3), with new weakness and poor appetite for 2 days. Temp 37.2 °C, HR 112, RR 28, SpO₂ 89%. You note mild kyphosis, fine crackles at both bases that clear after coughing, and crackles that <em>don't</em> clear with diminished sounds over the right lower lobe. Your slides warn that <strong>pneumonia in older adults may not cause a fever</strong> but instead shows up as <strong>confusion, weakness, loss of appetite, increased heart rate, and increased respiration</strong>. The kyphosis and clearing basilar crackles can be age-related; the new confusion, fast HR and RR, low SpO₂, and localized right lower lobe findings point to pneumonia — possibly from aspiration."
+    },
+    {
+     "heading": "Assessment details and treatment for older adults",
+     "body": "<p>Your slides also note that when assessing an older adult, you should watch for <strong>changes in medications, changes in fluid and nutrition status, and changes in cognition</strong> — any of these can be an early clue to an oxygenation problem or can make one worse.</p><p>The slides add that <strong>vesicular breath sounds with a longer inspiratory phase may reflect a respiratory alteration with an obstructive component</strong> (such as COPD or asthma). Note that many textbooks describe obstructive disease as <em>prolonging the expiratory phase</em>; your instructor may frame this point differently, so follow your course materials. The main idea is that a change in the normal breath-sound pattern deserves a closer look.</p><p><strong>Treatment and teaching</strong> focus on clearing secretions and preventing aspiration:</p>",
+     "bullets": [
+      "<strong>More frequent suctioning</strong> may be needed because of a <strong>decreased gag and cough reflex</strong>.",
+      "<strong>Teach ways to enhance coughing</strong> to clear secretions (slow deep breaths before a strong cough).",
+      "<strong>Incentive spirometry</strong> to keep the lungs expanded.",
+      "<strong>Health promotion</strong>: encourage smoking cessation and physical activity.",
+      "<strong>Assess adherence</strong> to the treatment plan and <strong>barriers to adherence</strong> (cost, memory, difficulty using inhalers).",
+      "<strong>Aspiration precautions</strong> (standard teaching for GERD and a weak cough): sit upright to eat and stay upright after meals, raise the head of the bed at night, take small bites, and avoid talking while chewing."
+     ],
+     "check": {
+      "q": "An 80-year-old with GERD says, \"I'll lie down for a nap right after lunch to help digestion.\" Does this need more teaching?",
+      "a": "Yes. Lying down right after eating increases reflux and aspiration risk; stay upright after meals."
+     }
+    },
+    {
+     "heading": "Prevalence, genetics, and health promotion across ages",
+     "body": "<p>Your slides describe some genetic and sex-related factors. <strong>Hemoglobin concentration has a significant inherited pattern of variation</strong> — family genes strongly influence how much hemoglobin a person has. <strong>Hematocrit</strong> has a <strong>lower genetic effect</strong>. <strong>Women have lower hemoglobin and hematocrit</strong> concentrations than men, so normal lab ranges are different for each.</p><p>Health promotion looks different at each age. For children, your slides emphasize <strong>avoiding secondhand smoke</strong> and <strong>encouraging influenza immunization</strong>. For older adults, <strong>smoking cessation</strong> and <strong>physical activity</strong>. For pregnant clients, prompt treatment of any respiratory illness protects both lives.</p>"
+    }
+   ],
+   "pearls": [
+    "Belly breathing in a child under 6 is normal; retractions, grunting, head bobbing, and stridor at rest are not.",
+    "Choking infant: 5 back blows, then 5 chest thrusts, head down — no abdominal thrusts.",
+    "Sudden choking episode + one-sided wheeze in a toddler = foreign body (usually right side) until proven otherwise.",
+    "Pregnancy lowers CO₂, not O₂: a slightly alkaline pH is expected, but SpO₂ below 95% needs follow-up.",
+    "Older adult with new confusion and fast HR/RR but no fever → think pneumonia before blaming dementia."
+   ],
+   "redFlags": [
+    "Retractions, grunting, nasal flaring, head bobbing, or stridor at rest in a child → immediate assessment and intervention.",
+    "Infant who can't cry or cough after eating → call for help and begin back blows and chest thrusts.",
+    "Pregnant client with SpO₂ < 95%, fever, tachypnea, or fetal tachycardia → notify the provider promptly.",
+    "Afebrile older adult with new confusion, tachycardia, and tachypnea → assess for pneumonia and notify the provider."
+   ],
+   "recap": [
+    "Children under 1 and older adults are at the highest risk for oxygenation problems.",
+    "Children: shorter, narrower airways; immature lungs; diaphragmatic breathing under 6; high risk of foreign-body obstruction.",
+    "Pediatric exam: check for pectus deformities; newborn clavicle crepitus is abnormal; no barrel chest after 6; no retractions.",
+    "Pregnancy: diaphragm rises, chest widens, RR and ventilation increase, residual capacity decreases, pH more alkaline, nasal stuffiness common.",
+    "Older adults: ↑ infections, sleep apnea, choking, aspiration, pneumonia; pneumonia may present without fever.",
+    "Older adult care: suctioning as needed, cough teaching, incentive spirometry, adherence checks, stay upright after meals."
+   ],
+   "checks": [
+    {
+     "q": "A newborn 2 hours old breathes 52/min irregularly with 5–10 second pauses and has blue hands and feet with a pink trunk. Normal?",
+     "a": "Yes. Irregular breathing within 30–60/min with short pauses and acrocyanosis are normal. Grunting or flaring would not be."
+    },
+    {
+     "q": "A 9-month-old is choking on a snack, can't cry, and has blue lips but is awake. What do you do?",
+     "a": "Call for help; give up to 5 back blows (face down, head low), then up to 5 chest thrusts (face up); repeat until the object comes out or the infant becomes unresponsive."
+    },
+    {
+     "q": "Why do pregnant clients desaturate faster when they get sick?",
+     "a": "Residual capacity decreases (less oxygen reserve) while oxygen needs increase."
+    },
+    {
+     "q": "Which findings in an 82-year-old are likely age-related, and which suggest pneumonia: kyphosis, new confusion, basilar crackles that clear with cough, HR 112?",
+     "a": "Age-related: kyphosis and basilar crackles that clear. Suggest pneumonia: new confusion and HR 112."
+    }
+   ]
+  }
+ ],
+ "flashcards": [],
+ "questions": []
+});

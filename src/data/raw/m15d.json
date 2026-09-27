@@ -7,7 +7,7 @@
  "questions": [
   {
    "id": "m15d-001",
-   "type": "highlight",
+   "type": "sata",
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · NGN Case Study: M.L. — Asthma with Pneumonia",
    "difficulty": 2,
@@ -110,36 +110,40 @@
      }
     ]
    },
-   "stem": "The nurse is caring for M.L., a 30-year-old client with asthma and right lower lobe pneumonia who was transferred from the ICU yesterday. Refer to the History & Physical, Vital Signs, and Laboratory Results. Click to highlight the findings in the 0300 nurses' note that require immediate follow-up.",
-   "passage": "Client awake and {{restless, repeatedly pulling at the nasal cannula}}. States, 'I can't catch my breath.' {{Speaking 3–4 words at a time}}. {{Sternocleidomastoid muscles contracting with each breath}}. {{SpO₂ 88% on 2 L/min}}. {{Alert and oriented ×4}}. {{Trachea midline}} with {{symmetric chest expansion}}. {{Coughing thick yellow sputum}}. Reports {{right-sided chest soreness with coughing, 2/10}}. {{Voided 300 mL of clear yellow urine}}.",
+   "stem": "The nurse is caring for M.L., a 30-year-old client with asthma and right lower lobe pneumonia who was transferred from the ICU yesterday. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which findings in the 0300 assessment require immediate follow-up? Select all that apply.",
+   "options": [
+    "Restless, repeatedly pulling at the nasal cannula",
+    "Speaking 3–4 words at a time",
+    "Trachea midline with symmetric chest expansion",
+    "Sternocleidomastoid muscles contracting with each breath",
+    "Coughing thick yellow sputum",
+    "SpO₂ 88% on 2 L/min"
+   ],
    "answer": [
     0,
     1,
-    2,
-    3
+    3,
+    5
    ],
    "optionRationales": [
-    "Requires follow-up — new restlessness and pulling at the oxygen device are early signs of hypoxia, not simple anxiety.",
-    "Requires follow-up — speaking only a few words at a time indicates severe dyspnea and high work of breathing.",
-    "Requires follow-up — accessory (sternocleidomastoid) muscle use shows the client is struggling to move air; it precedes fatigue.",
-    "Requires follow-up — SpO₂ 88% is below the prescribed goal of ≥ 92% and down from 95% five hours ago.",
-    "Does not require immediate follow-up — orientation is intact; this is reassuring (though it must be trended).",
-    "Does not require immediate follow-up — a midline trachea makes tension pneumothorax (a risk after mechanical ventilation) unlikely.",
-    "Does not require immediate follow-up — symmetric expansion argues against pneumothorax or major lobar collapse.",
-    "Does not require immediate follow-up — purulent sputum is expected with known bacterial pneumonia already being treated.",
-    "Does not require immediate follow-up — mild chest-wall soreness from repeated coughing is expected and rated low.",
-    "Does not require immediate follow-up — adequate urine output indicates acceptable perfusion."
+    "Correct. New restlessness is an early sign of hypoxia.",
+    "Correct. Speaking only a few words at a time shows severe dyspnea and increased work of breathing.",
+    "A midline trachea and symmetric expansion are reassuring and make tension pneumothorax unlikely.",
+    "Correct. Accessory muscle use signals increased work of breathing.",
+    "Purulent sputum is expected with pneumonia that is being treated.",
+    "Correct. An SpO₂ of 88% is below the prescribed target of 92% or higher and shows worsening gas exchange."
    ],
-   "rationale": "The nurse must separate cues of acute deterioration from findings expected with a known diagnosis. Restlessness, speaking in 3–4 word phrases, accessory muscle use, and a falling SpO₂ below the prescribed target are cues of worsening gas exchange and increasing work of breathing. Purulent sputum and mild cough-related soreness are expected with treated pneumonia, and the midline trachea, symmetric expansion, orientation, and urine output are reassuring.",
-   "takeaway": "Restlessness + few-word speech + accessory muscles + falling SpO₂ = a client whose breathing is failing.",
+   "rationale": "The nurse must separate cues of acute deterioration from findings expected with a known diagnosis. Restlessness, speaking in 3–4 word phrases, accessory muscle use, and an SpO₂ below the prescribed target are cues of worsening gas exchange and increasing work of breathing. Purulent sputum and mild cough-related soreness are expected with treated pneumonia, and the midline trachea, symmetric expansion, orientation, and urine output are reassuring.",
+   "takeaway": "Restless, short phrases, accessory muscles, and falling SpO₂ = deterioration, not \"just pneumonia.\"",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the early signs of hypoxia and the physical signs of increased work of breathing listed in Module 15 (restlessness, speech, posture, muscle use).",
-   "hintStrategy": "Ask of each phrase: is this NEW or WORSE than expected for a client already known to have pneumonia? Expected findings of a known diagnosis rarely need immediate follow-up."
+   "hintContent": "Some findings are expected with treated pneumonia; others show that the work of breathing and gas exchange are getting worse.",
+   "hintStrategy": "For each finding, ask whether it is new and signals a change in oxygenation or breathing effort."
   },
   {
    "id": "m15d-002",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · NGN Case Study: M.L. — Asthma with Pneumonia",
    "difficulty": 3,
@@ -242,43 +246,31 @@
      }
     ]
    },
-   "stem": "The nurse is analyzing M.L.'s 0300 assessment. Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. For each finding, indicate whether it is most consistent with the asthma exacerbation, the pneumonia, or both conditions.",
-   "rows": [
+   "stem": "The nurse is analyzing M.L.’s 0300 assessment. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which finding is explained by both the asthma exacerbation and the pneumonia?",
+   "options": [
     "Expiratory wheezes in all lung fields",
+    "PaO₂ 58 mm Hg with SpO₂ 88% on 2 L/min",
     "Crackles and bronchial breath sounds over the right lower lobe",
-    "Temperature 38.6 °C (101.5 °F)",
-    "Prolonged expiratory phase",
-    "PaO₂ 58 mm Hg with SpO₂ 88% on 2 L/min"
+    "Temperature 38.6 °C (101.5 °F)"
    ],
-   "columns": [
-    "Asthma exacerbation",
-    "Pneumonia",
-    "Both"
-   ],
-   "answer": [
-    0,
-    1,
-    1,
-    0,
-    2
-   ],
+   "answer": 1,
    "optionRationales": [
-    "Asthma — diffuse expiratory wheezing reflects widespread bronchospasm and airway narrowing, not a localized lobar process.",
-    "Pneumonia — localized crackles and bronchial breath sounds over one lobe indicate consolidation (alveoli filled with exudate).",
-    "Pneumonia — fever reflects the infectious process; an uncomplicated asthma exacerbation does not cause fever.",
-    "Asthma — air trapping from narrowed bronchioles lengthens exhalation.",
-    "Both — bronchospasm and mucus plugging cause V/Q mismatch, and consolidated alveoli cannot exchange gas; both conditions lower PaO₂."
+    "Diffuse expiratory wheezes are an airway (bronchospasm) finding of asthma.",
+    "Correct. Narrowed airways and consolidated alveoli both create ventilation–perfusion mismatch, so both conditions cause hypoxemia.",
+    "Localized crackles with bronchial breath sounds reflect consolidation from pneumonia.",
+    "Fever reflects the infection (pneumonia), not bronchospasm."
    ],
-   "rationale": "M.L. has two interacting problems. Diffuse wheezes and a prolonged expiratory phase are airway (bronchospasm) findings of asthma. Fever and localized crackles with bronchial breath sounds over the RLL are signs of consolidation from pneumonia. Hypoxemia results from both: narrowed airways and consolidated alveoli each create ventilation–perfusion mismatch. Note that the rising WBC is harder to attribute because corticosteroids can also elevate WBC.",
-   "takeaway": "Diffuse findings point to the airways (asthma); localized findings point to the lobe (pneumonia).",
+   "rationale": "M.L. has two interacting problems. Diffuse wheezes and a prolonged expiratory phase are airway (bronchospasm) findings of asthma. Fever and localized crackles with bronchial breath sounds over the RLL are signs of consolidation from pneumonia. Hypoxemia results from both: narrowed airways and consolidated alveoli each create ventilation–perfusion mismatch.",
+   "takeaway": "Wheezes = asthma airways; localized crackles and fever = pneumonia; hypoxemia = both.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Asthma is a diffuse airway disease (bronchospasm, air trapping); pneumonia is an alveolar process that is often localized to a lobe.",
-   "hintStrategy": "Sort each finding by 'where' and 'why': is it generalized airway narrowing, localized consolidation/infection, or a gas-exchange result both could produce?"
+   "hintContent": "Think about the mechanism of each condition: one narrows the airways, the other fills alveoli. What outcome do they share?",
+   "hintStrategy": "Assign each finding to the condition that causes it; the correct answer is the one you cannot assign to only one."
   },
   {
    "id": "m15d-003",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": true,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · NGN Case Study: M.L. — Asthma with Pneumonia",
    "difficulty": 3,
@@ -381,34 +373,26 @@
      }
     ]
    },
-   "stem": "The nurse compares M.L.'s 0315 arterial blood gas with the previous results. Refer to the Laboratory Results and Vital Signs. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client is at highest risk for developing {0} as evidenced by {1}.",
-   "blanks": [
-    {
-     "options": [
-      "tension pneumothorax",
-      "acute respiratory failure",
-      "pulmonary embolism",
-      "sepsis-induced hypovolemia"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "a heart rate of 124/min with a fever",
-      "a PaCO₂ that rose from 32 to 47 mm Hg while RR increased",
-      "a WBC that rose to 15,800/mm³",
-      "right-sided chest soreness with coughing"
-     ],
-     "answer": 1
-    }
+   "stem": "The nurse compares M.L.’s 0315 arterial blood gas with the previous results. Refer to the Laboratory Results and Vital Signs. Which finding indicates the most immediate threat to M.L.?",
+   "options": [
+    "Heart rate of 124/min with a temperature of 38.6 °C",
+    "WBC that rose to 15,800/mm³ while receiving IV corticosteroids",
+    "PaCO₂ that rose from 32 to 47 mm Hg while RR rose to 32/min",
+    "Right-sided chest soreness rated 2/10 with coughing"
    ],
-   "rationale": "Early in an asthma attack, the client hyperventilates and PaCO₂ is low (7.46/32). A 'normal' or rising PaCO₂ in a client who is still breathing 32 times a minute means the respiratory muscles are tiring and ventilation is no longer adequate — a warning sign of impending respiratory failure. Tension pneumothorax is unlikely with a midline trachea and symmetric expansion; tachycardia, fever, WBC, and chest soreness fit the known pneumonia but do not signal the most immediate threat.",
-   "takeaway": "In acute asthma, a PaCO₂ that climbs back to 'normal' or higher is ominous — the client is tiring.",
+   "answer": 2,
+   "optionRationales": [
+    "Tachycardia with fever fits the known pneumonia but is not the most immediate threat.",
+    "The WBC rise fits pneumonia and can also result from corticosteroids; it does not signal immediate danger.",
+    "Correct. A rising PaCO₂ despite rapid breathing means the respiratory muscles are tiring — a warning sign of impending respiratory failure.",
+    "Mild cough-related chest soreness is expected with pneumonia."
+   ],
+   "rationale": "Early in an asthma attack, the client hyperventilates and PaCO₂ is low (7.46/32). A \"normal\" or rising PaCO₂ in a client who is still breathing 32 times a minute means the respiratory muscles are tiring and ventilation is no longer adequate — a warning sign of impending acute respiratory failure. Tachycardia, fever, WBC, and chest soreness fit the known pneumonia but do not signal the most immediate threat.",
+   "takeaway": "In an asthma attack, a rising PaCO₂ in a fast-breathing client means fatigue and impending respiratory failure.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
-   "hintContent": "Recall what PaCO₂ is expected to do early in an asthma attack when the client is breathing rapidly, and what it means when PaCO₂ rises despite a high respiratory rate.",
-   "hintStrategy": "Choose the condition first (the most immediate life threat by ABCs), then pick the ONE piece of evidence that best proves that specific condition rather than a finding that fits several problems."
+   "hintContent": "During an asthma attack, a client who is breathing fast should be blowing off CO₂. What does a rising CO₂ tell you?",
+   "hintStrategy": "Apply the ABCs: pick the finding that shows breathing is failing, over findings that fit the known infection."
   },
   {
    "id": "m15d-004",
@@ -522,8 +506,7 @@
     "Raise the head of the bed to high-Fowler's position",
     "Administer lorazepam 0.5 mg IV for restlessness",
     "Notify the provider of the assessment and ABG findings using SBAR",
-    "Hold the methylprednisolone dose because the client is febrile",
-    "Place the client flat to decrease oxygen consumption"
+    "Hold the methylprednisolone dose because the client is febrile"
    ],
    "answer": [
     0,
@@ -537,8 +520,7 @@
     "Correct — upright positioning lowers the diaphragm and improves lung expansion.",
     "Incorrect — her restlessness is a sign of hypoxia; a benzodiazepine can depress the respiratory drive of a tiring client.",
     "Correct — worsening hypoxemia and a rising PaCO₂ must be communicated promptly with a clear SBAR report.",
-    "Incorrect — systemic corticosteroids are essential to reduce airway inflammation; fever from treated pneumonia is not a reason to hold them without an order.",
-    "Incorrect — lying flat pushes abdominal contents against the diaphragm and worsens dyspnea."
+    "Incorrect — systemic corticosteroids are essential to reduce airway inflammation; fever from treated pneumonia is not a reason to hold them without an order."
    ],
    "rationale": "The plan targets bronchospasm (SABA), hypoxemia (titrate oxygen, upright position), and escalation (SBAR to the provider). Sedating a hypoxic, tiring client and holding anti-inflammatory therapy are unsafe, and supine positioning worsens ventilation.",
    "takeaway": "For a tiring asthmatic: bronchodilate, oxygenate, sit up, and escalate — never sedate.",
@@ -550,6 +532,7 @@
   {
    "id": "m15d-005",
    "type": "mcq",
+   "priority": true,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · NGN Case Study: M.L. — Asthma with Pneumonia",
    "difficulty": 3,
@@ -675,7 +658,8 @@
   },
   {
    "id": "m15d-006",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": true,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · NGN Case Study: M.L. — Asthma with Pneumonia",
    "difficulty": 2,
@@ -744,42 +728,31 @@
      }
     ]
    },
-   "stem": "M.L. is now on hospital day 9. Refer to the Progress Note, Nurses' Notes, Vital Signs, and Laboratory Results. For each finding, indicate whether it shows that treatment has been effective or ineffective (requires follow-up).",
-   "rows": [
-    "Speaking in full sentences and ambulating 150 ft on room air",
+   "stem": "M.L. is now on hospital day 9, with discharge planned for tomorrow. Refer to the Progress Note, Nurses’ Notes, Vital Signs, and Laboratory Results. Which finding requires immediate follow-up?",
+   "options": [
+    "Speaking in full sentences and walking 150 ft on room air without distress",
     "Temperature 37.1 °C (98.8 °F) and WBC 9,200/mm³",
     "SpO₂ 93%–95% on room air",
-    "Needed 3 pillows to sleep last night because she could not breathe lying down",
     "Used the PRN albuterol nebulizer 4 times overnight for wheezing"
    ],
-   "columns": [
-    "Effective",
-    "Ineffective (requires follow-up)"
-   ],
-   "answer": [
-    0,
-    0,
-    0,
-    1,
-    1
-   ],
+   "answer": 3,
    "optionRationales": [
-    "Effective — full sentences and activity tolerance on room air show improved ventilation and gas exchange.",
-    "Effective — resolution of fever and leukocytosis shows the antibiotic is controlling the pneumonia.",
-    "Effective — M.L. maintains her saturation without supplemental oxygen, a discharge criterion in the case.",
-    "Ineffective — orthopnea (difficulty breathing when supine) is a sign of worsening airway obstruction; M.L. had the same symptom the night she collapsed.",
-    "Ineffective — needing the rescue medication repeatedly shows poor control of bronchospasm and must be reported."
+    "Full sentences and activity tolerance on room air show improvement.",
+    "A normal temperature and WBC show the infection is responding to antibiotics.",
+    "Maintaining SpO₂ on room air meets the oxygenation outcome.",
+    "Correct. Frequent rescue treatments show the airways are not controlled — the same warning sign that preceded her earlier collapse."
    ],
-   "rationale": "Several outcome criteria are met: M.L. speaks in full sentences, tolerates activity, maintains her SpO₂ on room air, and is afebrile with a normal WBC as she completes IV antibiotics. However, orthopnea and repeated rescue treatments overnight were the same warning signs that came before her collapse in Part 2. They show her airways are not yet controlled and must be reported before discharge.",
-   "takeaway": "Evaluate every finding against the goal — orthopnea and frequent rescue use are warning signs even when other findings improve.",
+   "rationale": "Several outcome criteria are met: M.L. speaks in full sentences, tolerates activity, maintains her SpO₂ on room air, and is afebrile with a normal WBC as she completes IV antibiotics. However, repeated rescue treatments overnight (along with the new orthopnea) were the same warning signs that came before her collapse. They show her airways are not yet controlled and must be reported before discharge.",
+   "takeaway": "Increasing rescue-inhaler use = poor asthma control — report it before discharge.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the expected outcomes for asthma control (speech, activity, rescue inhaler use, breathing when lying down) and for pneumonia (temperature, WBC, SpO₂).",
-   "hintStrategy": "Judge each row independently against the goal of treatment; don't let the overall improving trend make you mark a warning sign as effective."
+   "hintContent": "Look for a finding that repeats the warning signs M.L. had before her earlier deterioration.",
+   "hintStrategy": "Eliminate findings that meet expected outcomes; the remaining one shows treatment is not yet effective."
   },
   {
    "id": "m15d-007",
-   "type": "bowtie",
+   "type": "mcq",
+   "priority": true,
    "topic": "pneumothorax-chest-tubes",
    "ref": "Module 15 · Oxygenation · Pneumothorax & Chest Tubes",
    "difficulty": 3,
@@ -820,74 +793,30 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes and Vital Signs. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Cardiac tamponade",
-     "Pulmonary embolism",
-     "Tension pneumothorax",
-     "Massive hemothorax"
-    ],
-    "answer": 2
-   },
-   "actions": {
-    "options": [
-     "Remove the clamp from the chest tube",
-     "Milk and strip the chest tube toward the drainage unit",
-     "Raise the drainage unit to the level of the bed for easier observation",
-     "Call the rapid response team and prepare for emergency decompression",
-     "Place the client in Trendelenburg position to raise the blood pressure"
-    ],
-    "answer": [
-     0,
-     3
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Tracheal position and right-sided breath sounds",
-     "Serum amylase level",
-     "Blood pressure and heart rate",
-     "Hourly urine specific gravity",
-     "Capillary blood glucose"
-    ],
-    "answer": [
-     0,
-     2
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect — tamponade causes JVD and hypotension but not tracheal deviation or absent unilateral breath sounds.",
-     "Incorrect — PE causes sudden dyspnea and tachycardia but breath sounds are usually present and the trachea is midline.",
-     "Correct — a clamped chest tube traps air in the pleural space; tracheal deviation away from the affected side, absent breath sounds, JVD, and hypotension are classic tension pneumothorax.",
-     "Incorrect — massive hemothorax causes absent breath sounds and shock, but neck veins are typically flat from blood loss, and the scenario cause is a clamped tube."
-    ],
-    "actions": [
-     "Correct — the clamp is the cause; removing it restores the path for trapped air to escape.",
-     "Incorrect — stripping creates dangerous negative pressure and does not address the clamp; it is not routinely recommended.",
-     "Incorrect — the drainage unit must stay below chest level to prevent backflow into the pleural space.",
-     "Correct — hemodynamic compromise needs an immediate provider response; emergency decompression or a new chest tube may be needed if unclamping does not relieve it.",
-     "Incorrect — head-down positioning worsens dyspnea; the client should be upright if BP allows."
-    ],
-    "parameters": [
-     "Correct — return of the trachea to midline and return of breath sounds show the pleural air has been evacuated.",
-     "Incorrect — amylase is unrelated to the pleural space.",
-     "Correct — rising BP and falling HR show venous return and cardiac output are recovering.",
-     "Incorrect — urine specific gravity is not a direct indicator of this emergency's resolution.",
-     "Incorrect — glucose is not affected by the pneumothorax."
-    ]
-   },
-   "rationale": "Clamping a chest tube that is draining air from a pneumothorax allows air to accumulate under pressure, collapsing the lung and shifting the mediastinum. This compresses the heart and great vessels, reducing venous return (JVD, hypotension). The nurse removes the clamp immediately and summons emergency help; progress is shown by midline trachea, returning breath sounds, and improving hemodynamics.",
-   "takeaway": "Never clamp a chest tube for transport — a clamped tube can turn a pneumothorax into a tension pneumothorax.",
+   "stem": "The nurse is caring for a client with a right chest tube for a pneumothorax. Refer to the Nurses’ Notes and Vital Signs. Which action should the nurse take first?",
+   "options": [
+    "Milk and strip the chest tube toward the drainage unit",
+    "Remove the clamp from the chest tube",
+    "Raise the drainage unit to the level of the bed",
+    "Place the client in Trendelenburg position"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Stripping creates dangerous negative pressure and is not indicated; the problem is the clamp.",
+    "Correct. The clamp trapped air in the pleural space, causing tension pneumothorax; removing it restores drainage. The nurse then calls the rapid response team.",
+    "The drainage unit must stay below chest level to prevent backflow.",
+    "Trendelenburg position worsens breathing by pushing the abdominal contents against the diaphragm."
+   ],
+   "rationale": "Clamping a chest tube that is draining air from a pneumothorax allows air to accumulate under pressure, collapsing the lung and shifting the mediastinum (tracheal deviation). This compresses the heart and great vessels, reducing venous return (JVD, hypotension). The nurse removes the clamp immediately and summons emergency help, preparing for emergency decompression if needed; progress is shown by a midline trachea, returning breath sounds, and improving blood pressure and heart rate.",
+   "takeaway": "Never clamp a chest tube for transport — tension pneumothorax follows. Unclamp first.",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
-   "hintContent": "Recall what happens when air continues to leak into the pleural space but has no exit, and which way the mediastinum shifts.",
-   "hintStrategy": "Start in the middle: link the most specific cues (tracheal shift, JVD, absent breath sounds, a clamp) to one condition. Then pick actions that treat THAT cause and parameters that directly reflect its resolution."
+   "hintContent": "Look at what changed between 1300 and 1425 and what the transport staff did to the tube.",
+   "hintStrategy": "Identify the condition, then choose the action that removes its cause immediately."
   },
   {
    "id": "m15d-008",
-   "type": "bowtie",
+   "type": "sata",
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
    "difficulty": 3,
@@ -955,74 +884,38 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Metabolic alkalosis from diuretic therapy",
-     "COPD exacerbation with acute hypercapnic respiratory failure",
-     "Acute pulmonary edema from left-sided heart failure",
-     "Spontaneous pneumothorax"
-    ],
-    "answer": 1
-   },
-   "actions": {
-    "options": [
-     "Apply a nonrebreather mask at 15 L/min to raise SpO₂ to 100%",
-     "Administer PRN morphine to relieve air hunger",
-     "Titrate oxygen to a target SpO₂ of 88%–92%",
-     "Administer the prescribed albuterol and ipratropium nebulizer treatment",
-     "Encourage the client to lie supine to rest the respiratory muscles"
-    ],
-    "answer": [
-     2,
-     3
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Level of consciousness",
-     "Serum sodium",
-     "Daily weight",
-     "Repeat ABG pH and PaCO₂",
-     "Peak expiratory flow rate"
-    ],
-    "answer": [
-     0,
-     3
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect — the pH is acidotic, not alkalotic; the elevated HCO₃⁻ is chronic renal compensation.",
-     "Correct — increased dyspnea, purulent sputum, drowsiness, and pH 7.28 with PaCO₂ 72 and a compensatory HCO₃⁻ indicate acute respiratory acidosis on top of chronic CO₂ retention during a COPD exacerbation.",
-     "Incorrect — pulmonary edema would present with crackles and frothy sputum rather than green sputum and wheezes.",
-     "Incorrect — pneumothorax causes unilateral absent breath sounds and sudden pleuritic pain, not diffuse wheezes."
-    ],
-    "actions": [
-     "Incorrect — high-concentration oxygen in a client who retains CO₂ can worsen hypercarbia and deepen drowsiness; oxygen is increased only enough to reach the target.",
-     "Incorrect — opioids depress respiratory drive in a client already retaining CO₂.",
-     "Correct — the evidence-based SpO₂ target for COPD exacerbation is 88%–92%, using controlled oxygen.",
-     "Correct — a short-acting beta-agonist with the anticholinergic ipratropium relieves bronchoconstriction so the client can move air and eliminate CO₂.",
-     "Incorrect — supine positioning impairs diaphragmatic movement; COPD clients breathe best upright or leaning forward."
-    ],
-    "parameters": [
-     "Correct — improving alertness shows falling CO₂ levels; worsening drowsiness signals rising CO₂ and the need to escalate care.",
-     "Incorrect — sodium does not reflect ventilation.",
-     "Incorrect — weight trends fluid status, not acute CO₂ retention.",
-     "Correct — a rising pH and falling PaCO₂ on repeat ABG are the objective measures of improved ventilation.",
-     "Incorrect — PEF is effort dependent and not reliable in a drowsy client with an exacerbation; it is primarily an asthma self-monitoring tool."
-    ]
-   },
-   "rationale": "The client has a COPD exacerbation (increased dyspnea, sputum volume and purulence) with acute CO₂ retention on top of chronic CO₂ retention: pH 7.28, PaCO₂ 72, and a compensatory HCO₃⁻. Care focuses on controlled oxygen titrated to the prescribed target of 88%–92% and bronchodilators to open the airways, with corticosteroids and antibiotics as prescribed. Level of consciousness and repeat ABGs show whether ventilation is improving.",
-   "takeaway": "COPD + drowsy + high PaCO₂: titrate O₂ to 88%–92%, give bronchodilators, and watch LOC and repeat ABGs.",
+   "stem": "Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which actions should the nurse take for this client? Select all that apply.",
+   "options": [
+    "Apply a nonrebreather mask at 15 L/min to raise SpO₂ to 100%",
+    "Titrate oxygen to a target SpO₂ of 88%–92%",
+    "Administer PRN morphine to relieve air hunger",
+    "Administer the prescribed albuterol and ipratropium nebulizer treatment",
+    "Monitor level of consciousness and repeat the ABG",
+    "Encourage the client to lie supine to rest the respiratory muscles"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "High-concentration oxygen can worsen CO₂ retention in a client who chronically retains CO₂.",
+    "Correct. Controlled oxygen to 88%–92% corrects hypoxemia without worsening hypercapnia.",
+    "Morphine depresses respiration and would worsen CO₂ retention.",
+    "Correct. Bronchodilators open the airways and improve ventilation.",
+    "Correct. Level of consciousness and repeat ABG pH and PaCO₂ show whether ventilation is improving.",
+    "Lying supine reduces diaphragm movement; an upright or tripod position eases breathing."
+   ],
+   "rationale": "The client has a COPD exacerbation (increased dyspnea, sputum volume and purulence) with acute CO₂ retention on top of chronic CO₂ retention: pH 7.28, PaCO₂ 72 mm Hg, and a compensatory HCO₃⁻. Increasing drowsiness reflects CO₂ narcosis. Care focuses on controlled oxygen titrated to 88%–92% and bronchodilators to open the airways, with corticosteroids and antibiotics as prescribed. Level of consciousness and repeat ABGs show whether ventilation is improving.",
+   "takeaway": "COPD with hypercapnia: controlled O₂ (88–92%), bronchodilators, and watch LOC and PaCO₂.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the SpO₂ target for clients with COPD who retain CO₂ and the ABG pattern of acute CO₂ retention on top of a chronic compensated respiratory acidosis.",
-   "hintStrategy": "Interpret the ABG first to name the condition. Then eliminate any action that would further suppress ventilation or raise CO₂, and choose parameters that directly measure ventilation."
+   "hintContent": "The ABG shows acute CO₂ retention on top of chronic retention, and the client is getting sleepier.",
+   "hintStrategy": "Reject any action that would further depress breathing or push SpO₂ higher than the target for a CO₂ retainer."
   },
   {
    "id": "m15d-009",
-   "type": "highlight",
+   "type": "sata",
    "topic": "airway-clearance",
    "ref": "Module 15 · Oxygenation · Airway Clearance",
    "difficulty": 2,
@@ -1066,35 +959,39 @@
      }
     ]
    },
-   "stem": "The nurse is caring for a 67-year-old client on postoperative day 2 after an open colon resection. Refer to the Vital Signs and Medication Administration Record. Click to highlight the findings in the nurse's assessment that indicate ineffective airway clearance.",
-   "passage": "Client is {{resting in a semi-reclined position with the head of bed at 15°}}. States, 'It hurts too much to cough, so I just clear my throat.' {{Incentive spirometer volume 500 mL; preoperative goal 1,500 mL}}. {{Diminished breath sounds with fine crackles in both bases}} that {{do not clear with coughing}}. {{Abdominal incision edges approximated without drainage}}. {{Bowel sounds hypoactive in all 4 quadrants}}. {{Pedal pulses 2+ bilaterally}}. {{Oral mucosa dry; drank 240 mL since 0000}}. {{Oriented to person, place, and time}}.",
+   "stem": "The nurse is caring for a 67-year-old client on postoperative day 2 after an open colon resection. The client states, \"It hurts too much to cough, so I just clear my throat.\" Refer to the Vital Signs and Medication Administration Record. Which findings indicate ineffective airway clearance? Select all that apply.",
+   "options": [
+    "Pedal pulses 2+ bilaterally",
+    "Incentive spirometer volume 500 mL; preoperative goal 1,500 mL",
+    "Diminished breath sounds with fine crackles in both bases that do not clear with coughing",
+    "Abdominal incision edges approximated without drainage",
+    "Bowel sounds hypoactive in all 4 quadrants",
+    "Oral mucosa dry; drank 240 mL since 0000"
+   ],
    "answer": [
     1,
     2,
-    3,
-    7
+    5
    ],
    "optionRationales": [
-    "Not an airway-clearance cue itself — the low head of bed is a contributing risk factor (poor lung expansion) to correct, but it is a position, not evidence of retained secretions.",
-    "Indicates ineffective airway clearance — a volume far below the goal shows shallow breathing and inadequate lung expansion, which allows secretions to pool.",
-    "Indicates ineffective airway clearance — diminished bases with crackles on POD 2 suggest atelectasis and retained secretions.",
-    "Indicates ineffective airway clearance — crackles that persist after coughing show the cough is not mobilizing secretions.",
-    "Not related — a well-approximated incision is an expected finding.",
-    "Not related — hypoactive bowel sounds are expected after bowel surgery and reflect GI, not respiratory, function.",
-    "Not related — pedal pulses reflect peripheral perfusion.",
-    "Indicates ineffective airway clearance — dehydration thickens secretions, making them harder to expectorate.",
-    "Not related — orientation is intact; confusion would be a later sign of hypoxia."
+    "Normal pedal pulses reflect peripheral circulation, not airway clearance.",
+    "Correct. Low incentive spirometer volumes show shallow, pain-limited breathing.",
+    "Correct. Basilar crackles that persist after coughing indicate retained secretions and early atelectasis.",
+    "An approximated incision is an expected healing finding.",
+    "Hypoactive bowel sounds are common after bowel surgery and do not reflect airway clearance.",
+    "Correct. Poor fluid intake thickens secretions and makes them harder to clear."
    ],
    "rationale": "Pain-limited coughing, low incentive spirometer volumes, and bibasilar crackles that do not clear with coughing are the defining cues of ineffective airway clearance and early atelectasis — reinforced by a new low-grade fever, tachypnea, and SpO₂ drop in the exhibit. Poor fluid intake thickens secretions. The nurse should medicate for pain, teach splinted coughing, raise the head of the bed, encourage fluids, and ambulate the client.",
-   "takeaway": "Postoperative atelectasis: low IS volumes + basal crackles + pain-limited cough + POD 1–2 fever.",
+   "takeaway": "Pain-limited cough + low IS volumes + crackles that don’t clear = ineffective airway clearance.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the defining characteristics of ineffective airway clearance: ineffective cough, adventitious sounds, and factors that thicken or retain secretions.",
-   "hintStrategy": "Highlight only the findings that are EVIDENCE of retained secretions or inadequate lung expansion — not every abnormal finding and not risk factors that describe positioning or other systems."
+   "hintContent": "Airway clearance depends on deep breaths, an effective cough, and thin secretions.",
+   "hintStrategy": "Select findings that affect breathing depth, cough effectiveness, or secretion thickness; ignore findings about other body systems."
   },
   {
    "id": "m15d-011",
-   "type": "highlight",
+   "type": "mcq",
+   "priority": true,
    "topic": "respiratory-medications",
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
    "difficulty": 3,
@@ -1134,30 +1031,26 @@
      }
     ]
    },
-   "stem": "The nurse is caring for a 52-year-old client admitted 12 hours ago with an asthma exacerbation. Refer to the Medication Administration Record and Laboratory Results. Click to highlight the findings in the assessment that require follow-up with the provider.",
-   "passage": "Client reports {{mild hand tremor when holding a cup}} and {{feeling 'a little jittery'}}. {{Heart rate 104/min}}. Reports {{new palpitations; apical pulse irregular with frequent skipped beats}}. {{Leg muscles feel weak and crampy}}. {{Wheezes decreased from yesterday}}. {{Voice slightly hoarse}}. {{Speaking in full sentences}}. {{Fingerstick glucose before lunch 274 mg/dL}}.",
-   "answer": [
-    3,
-    4,
-    8
+   "stem": "The nurse is caring for a 52-year-old client admitted 12 hours ago with an asthma exacerbation. Refer to the Medication Administration Record and Laboratory Results. Which finding requires immediate follow-up with the provider?",
+   "options": [
+    "New palpitations with an irregular apical pulse",
+    "Mild hand tremor and feeling jittery when holding a cup",
+    "Heart rate 104/min",
+    "Voice slightly hoarse"
    ],
+   "answer": 0,
    "optionRationales": [
-    "Expected — fine tremor is a common beta₂-agonist adverse effect and not dangerous by itself.",
-    "Expected — nervousness is a common, self-limiting effect of albuterol.",
-    "Expected — mild tachycardia is common with frequent albuterol and during an exacerbation.",
-    "Requires follow-up — palpitations with an irregular rhythm in a client with K⁺ 3.0 suggest hypokalemia-related dysrhythmia (albuterol and corticosteroids both lower potassium).",
-    "Requires follow-up — muscle weakness and cramps are manifestations of hypokalemia.",
-    "Expected — decreasing wheezes indicate improvement.",
-    "Expected — mild hoarseness is a local effect of inhaled corticosteroids and of the illness; teach mouth rinsing.",
-    "Expected — full sentences indicate improving respiratory status.",
-    "Requires follow-up — steroid-induced hyperglycemia at this level typically requires provider-ordered insulin coverage."
+    "Correct. Irregular palpitations with a potassium of 3.0 mEq/L suggest dysrhythmias from hypokalemia and need prompt follow-up.",
+    "Tremor is an expected adverse effect of albuterol.",
+    "Mild tachycardia is an expected effect of frequent albuterol.",
+    "Hoarseness is a known effect of inhaled corticosteroids; it is not urgent."
    ],
    "rationale": "High-dose beta₂-agonists drive potassium into cells, and systemic corticosteroids increase renal potassium loss, so hypokalemia is a real risk; new irregular palpitations and muscle weakness with K⁺ 3.0 need prompt follow-up (cardiac monitoring, replacement). Systemic corticosteroids also cause hyperglycemia. Tremor, jitteriness, and mild tachycardia are expected albuterol effects.",
-   "takeaway": "Albuterol + steroids: expect tremor and tachycardia; act on low K⁺ with dysrhythmia and high glucose.",
+   "takeaway": "Frequent albuterol + IV steroids → watch potassium; new irregular pulse is urgent.",
    "cjmm": "Recognize Cues",
    "focus": "Pharmacology",
-   "hintContent": "Recall the electrolyte effect of repeated beta₂-agonist doses and the metabolic effects of systemic corticosteroids.",
-   "hintStrategy": "Separate 'expected, annoying' adverse effects from those that signal harm. Connect each assessment finding with the lab values in the exhibit before deciding."
+   "hintContent": "Look at the potassium level and think about how albuterol and corticosteroids each affect it.",
+   "hintStrategy": "Separate expected adverse effects from a finding that could become life-threatening."
   },
   {
    "id": "m15d-014",
@@ -1198,12 +1091,11 @@
   {
    "id": "m15d-015",
    "type": "mcq",
+   "priority": false,
    "topic": "airway-clearance",
    "ref": "Module 15 · Oxygenation · Case Study: M.L. (Part 3) · Percussion, Vibration, and Postural Drainage",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
    "stem": "M.L.'s mother is learning to perform percussion, vibration, and postural drainage (PVD) at home for M.L.'s persistent congestion. Which statement by the mother indicates correct understanding?",
    "options": [
     "\"I'll clap with a flat palm directly over her spine, where it's easiest to reach.\"",
@@ -1212,26 +1104,27 @@
     "\"I'll do the treatments about 30 minutes after she finishes each meal.\""
    ],
    "answer": 1,
-   "rationale": "PVD loosens secretions and uses gravity to drain them toward the large airways so they can be coughed out. Percussion is done with a cupped hand over the ribs covering the congested area (never over the spine, sternum, or below the ribs), and vibration is applied during exhalation. Treatments are done before meals to prevent vomiting and aspiration, after the nebulized bronchodilator and mucolytic, and are followed by coughing.",
    "optionRationales": [
     "A flat palm is less effective and uncomfortable, and percussion over the spine can cause injury; percuss over the ribs only.",
     "Correct. A cupped hand over the ribs creates the air cushion that loosens mucus, and vibration during exhalation moves it toward the larger airways.",
     "Nebulized treatments (albuterol, then acetylcysteine) are given before PVD so secretions are thinned and airways open when drainage begins.",
     "Treatments soon after meals increase the risk of vomiting and aspiration; schedule PVD before meals."
    ],
+   "rationale": "PVD loosens secretions and uses gravity to drain them toward the large airways so they can be coughed out. Percussion is done with a cupped hand over the ribs covering the congested area (never over the spine, sternum, or below the ribs), and vibration is applied during exhalation. Treatments are done before meals to prevent vomiting and aspiration, after the nebulized bronchodilator and mucolytic, and are followed by coughing.",
    "takeaway": "PVD: cupped hand over the ribs, vibrate on exhalation, before meals, after the nebulizer — then cough.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
    "hintContent": "Think about hand position, where on the chest percussion is safe, and when PVD should be timed around meals and medications.",
    "hintStrategy": "This item asks for the CORRECT statement. Check each option for safe location, correct timing, and correct sequence."
   },
   {
    "id": "m15d-019",
    "type": "mcq",
+   "priority": false,
    "topic": "respiratory-medications",
    "ref": "Module 15 · Oxygenation · Collaborative Therapies · Medication Adherence",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
    "stem": "At a follow-up visit, a client with persistent asthma says, \"I only use my fluticasone/salmeterol inhaler every few days because the copay is $85 a month, and I also have to buy albuterol.\" Which response by the nurse is best?",
    "options": [
     "\"Using it every few days is fine as long as your albuterol inhaler keeps working for you.\"",
@@ -1240,20 +1133,23 @@
     "\"Your controller is the most important one, so you can stop buying the albuterol inhaler.\""
    ],
    "answer": 1,
-   "rationale": "Medication adherence is critical in chronic respiratory disease, and cost is a common barrier — clients often take several medications with high copays. Pharmaceutical companies may have programs to help with costs, and the provider or pharmacist may suggest less expensive options. The nurse identifies the barrier and connects the client with resources rather than accepting unsafe use of the controller or the rescue inhaler.",
    "optionRationales": [
     "LABA + ICS combinations control chronic inflammation and bronchoconstriction only when taken every day as prescribed; skipping doses leads to exacerbations.",
     "Correct. The nurse addresses the cost barrier directly and refers the client to resources, such as manufacturer assistance programs, that make daily adherence possible.",
     "A short-acting rescue inhaler does not treat airway inflammation; relying on it signals poor control and raises the risk of a severe exacerbation.",
     "The client still needs a rescue inhaler for sudden symptoms; stopping it is unsafe."
    ],
+   "rationale": "Medication adherence is critical in chronic respiratory disease, and cost is a common barrier — clients often take several medications with high copays. Pharmaceutical companies may have programs to help with costs, and the provider or pharmacist may suggest less expensive options. The nurse identifies the barrier and connects the client with resources rather than accepting unsafe use of the controller or the rescue inhaler.",
    "takeaway": "Cost is a major barrier to adherence — ask about it and connect clients with assistance programs.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
    "hintContent": "The module lists expense, multiple medications, and higher copays as obstacles to adherence, along with one resource that may help.",
    "hintStrategy": "Choose the response that removes the barrier while keeping both the controller and the rescue medication safe."
   },
   {
    "id": "m15d-022",
    "type": "mcq",
+   "priority": false,
    "topic": "respiratory-medications",
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
    "difficulty": 2,
@@ -1282,6 +1178,7 @@
   {
    "id": "m15d-024",
    "type": "mcq",
+   "priority": true,
    "topic": "respiratory-medications",
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
    "difficulty": 3,
@@ -1309,47 +1206,41 @@
   },
   {
    "id": "m15d-025",
-   "type": "matrix",
+   "type": "sata",
    "topic": "respiratory-medications",
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "The nurse is reviewing the home medications of a 25-year-old client with asthma who says, 'I get confused about which one to use when I'm wheezing.' For each medication, indicate whether it is a quick-relief (rescue) medication or a long-term control medication for this client.",
-   "rows": [
+   "stem": "The nurse is reviewing the home medications of a 25-year-old client with asthma who says, \"I get confused about which one to use when I’m wheezing.\" Which medications should the nurse teach the client to use for quick relief of wheezing? Select all that apply.",
+   "options": [
     "Albuterol MDI",
     "Fluticasone MDI",
     "Theophylline extended-release tablet",
     "Salmeterol/fluticasone DPI",
     "Albuterol nebulizer solution"
    ],
-   "columns": [
-    "Quick-relief (rescue)",
-    "Long-term control"
-   ],
    "answer": [
     0,
-    1,
-    1,
-    1,
-    0
+    4
    ],
    "optionRationales": [
-    "Quick-relief — a short-acting beta-agonist works within minutes to relieve bronchospasm.",
-    "Long-term control — inhaled corticosteroids reduce airway inflammation over days to weeks.",
-    "Long-term control — theophylline is taken on a schedule and has too slow an onset to relieve an acute attack.",
-    "Long-term control — salmeterol is a long-acting beta-agonist with a slow onset, so salmeterol/fluticasone must never be used for rescue.",
-    "Quick-relief — nebulized albuterol is the same short-acting beta-agonist in a different delivery form."
+    "Correct. Albuterol is a short-acting beta-agonist that relieves bronchospasm within minutes.",
+    "Inhaled corticosteroids reduce inflammation over days to weeks and are long-term control medications.",
+    "Extended-release theophylline is taken on a schedule to maintain bronchodilation, not for rescue.",
+    "A LABA + ICS combination is used for long-term control, not acute relief.",
+    "Correct. Nebulized albuterol is also a short-acting rescue bronchodilator."
    ],
    "rationale": "Short-acting beta-agonists (SABAs) such as albuterol, by inhaler or nebulizer, relieve bronchospasm within minutes and are the rescue medications. Inhaled corticosteroids reduce airway inflammation over days to weeks, LABA + ICS combinations are used for chronic control, and xanthines such as theophylline are taken on a schedule to maintain bronchodilation. Controllers are taken every day, even when the client feels well.",
-   "takeaway": "Rescue = SABA (albuterol by inhaler or nebulizer); controllers (ICS, LABA + ICS, theophylline) are taken every day, even when well.",
+   "takeaway": "Rescue = short-acting albuterol (any device); everything else is a daily controller.",
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
-   "hintContent": "Recall the onset of action of short-acting versus long-acting beta₂-agonists, corticosteroids, and leukotriene modifiers.",
-   "hintStrategy": "Classify each drug by drug class first, then by how fast it works."
+   "hintContent": "A quick-relief medication must work within minutes; controllers reduce inflammation or maintain bronchodilation over time.",
+   "hintStrategy": "Identify the drug class of each medication, regardless of the delivery device."
   },
   {
    "id": "m15d-027",
    "type": "mcq",
+   "priority": false,
    "topic": "respiratory-medications",
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
    "difficulty": 1,
@@ -1378,6 +1269,7 @@
   {
    "id": "m15d-029",
    "type": "mcq",
+   "priority": true,
    "topic": "pneumothorax-chest-tubes",
    "ref": "Module 15 · Oxygenation · Pneumothorax & Chest Tubes",
    "difficulty": 3,
@@ -1442,48 +1334,32 @@
   },
   {
    "id": "m15d-034",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "pneumothorax-chest-tubes",
    "ref": "Module 15 · Oxygenation · Pneumothorax & Chest Tubes",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 66-year-old client with emphysema calls the nurse after a coughing spell, reporting sudden sharp left-sided chest pain that worsens with breathing. The nurse finds diminished breath sounds and decreased chest wall movement on the left, RR 30/min, and SpO₂ 86% on 2 L/min. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's findings are most consistent with {0}, which likely occurred because {1}, causing loss of {2} pressure in the pleural space.",
-   "blanks": [
-    {
-     "options": [
-      "secondary spontaneous pneumothorax",
-      "acute pulmonary edema",
-      "right-sided heart failure",
-      "pleural effusion"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "a bulla on the lung surface ruptured",
-      "fluid shifted from the capillaries",
-      "a blood clot lodged in the pulmonary artery",
-      "the diaphragm became paralyzed"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "negative",
-      "positive",
-      "osmotic",
-      "hydrostatic"
-     ],
-     "answer": 0
-    }
+   "stem": "A 66-year-old client with emphysema calls the nurse after a coughing spell, reporting sudden sharp left-sided chest pain that worsens with breathing. The nurse finds diminished breath sounds and decreased chest wall movement on the left, RR 30/min, and SpO₂ 86% on 2 L/min. Which explanation of these findings is most accurate?",
+   "options": [
+    "Fluid shifted from the capillaries into the alveoli, causing acute pulmonary edema",
+    "A blood clot lodged in a pulmonary artery branch, blocking blood flow to the lung",
+    "A bulla ruptured, letting air into the pleural space and collapsing the lung",
+    "Fluid accumulated in the pleural space from inflammation, causing an effusion"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Pulmonary edema causes bilateral crackles, not sudden one-sided pleuritic pain with decreased chest movement.",
+    "A pulmonary embolism does not cause unilateral absent breath sounds and decreased chest wall movement.",
+    "Correct. Emphysema creates bullae that can rupture with coughing, causing a secondary spontaneous pneumothorax and loss of negative intrapleural pressure.",
+    "A pleural effusion develops gradually rather than suddenly after a coughing spell."
    ],
    "rationale": "Clients with emphysema have enlarged, weakened air spaces (bullae/blebs) that can rupture, especially with coughing, allowing air into the pleural space. This is a secondary spontaneous pneumothorax. The normally negative intrapleural pressure that holds the lung against the chest wall is lost, and the lung collapses, causing sudden pleuritic pain, decreased breath sounds, and asymmetric chest movement on the affected side.",
-   "takeaway": "COPD + sudden one-sided pleuritic pain and diminished breath sounds = think ruptured bulla → pneumothorax.",
+   "takeaway": "Emphysema + coughing + sudden one-sided pleuritic pain = think ruptured bulla (pneumothorax).",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall the lung-tissue changes of emphysema and what normally keeps the lung inflated against the chest wall.",
-   "hintStrategy": "Notice the unilateral findings and sudden pleuritic pain; that pattern narrows the condition, and the mechanism blanks must fit it."
+   "hintContent": "Consider what emphysema does to the structure of the air spaces and what a forceful cough could do to them.",
+   "hintStrategy": "Match the onset (sudden) and the one-sided findings to the mechanism that fits both."
   },
   {
    "id": "m15d-037",
@@ -1525,6 +1401,7 @@
   {
    "id": "m15d-038",
    "type": "mcq",
+   "priority": true,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
    "difficulty": 2,
@@ -1581,100 +1458,80 @@
   },
   {
    "id": "m15d-039",
-   "type": "dropdown",
+   "type": "sata",
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A client with COPD who already uses pursed-lip breathing reports becoming very short of breath while climbing stairs at home. The nurse teaches diaphragmatic (abdominal) breathing. Complete the following sentence by choosing from the lists of options.",
-   "template": "The nurse instructs the client to place one hand on the {0} and inhale slowly through the nose so that {1}, then exhale slowly while {2}.",
-   "blanks": [
-    {
-     "options": [
-      "upper chest",
-      "abdomen",
-      "lower back",
-      "side of the neck"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "the shoulders lift toward the ears",
-      "the abdomen rises while the chest stays still",
-      "the neck muscles tighten with each breath",
-      "the chest and abdomen both stay still"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "gently tightening the abdominal muscles",
-      "holding the breath for 30 seconds first",
-      "forcing the air out as hard as possible",
-      "raising the shoulders to open the chest"
-     ],
-     "answer": 0
-    }
-   ],
-   "rationale": "Diaphragmatic breathing shifts the work of breathing to the diaphragm and away from the neck and shoulder accessory muscles, which lowers the work of breathing. The client places one hand on the abdomen and one on the chest, inhales slowly through the nose so the abdomen rises while the chest stays relatively still, and exhales slowly (often through pursed lips) while gently tightening the abdominal muscles to move the diaphragm up. Forceful exhalation and prolonged breath-holding worsen air trapping and dyspnea.",
-   "takeaway": "Diaphragmatic breathing: hand on the belly, belly rises on the way in, gentle abdominal tightening on the way out.",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Recall which muscle should do most of the work of quiet breathing and which muscles are overused during dyspnea in COPD.",
-   "hintStrategy": "Choose the hand position first; the next blanks must describe what that hand should feel during inhalation and exhalation."
-  },
-  {
-   "id": "m15d-040",
-   "type": "matrix",
-   "topic": "asthma-copd-pneumonia",
-   "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
-   "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A 19-year-old client with asthma has a personal best peak expiratory flow (PEF) of 400 L/min. The nurse reviews the client's home log using the asthma action plan. For each entry, indicate the zone it represents.",
-   "rows": [
-    "Monday: PEF 360 L/min, no symptoms",
-    "Tuesday: PEF 280 L/min, coughing and mild chest tightness",
-    "Wednesday: PEF 180 L/min, trouble walking and talking",
-    "Thursday: PEF 330 L/min, slept through the night",
-    "Friday: PEF 300 L/min, woke at night coughing"
-   ],
-   "columns": [
-    "Green",
-    "Yellow",
-    "Red"
+   "stem": "A client with COPD who already uses pursed-lip breathing reports becoming very short of breath while climbing stairs at home. The nurse teaches diaphragmatic (abdominal) breathing. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Place one hand on your abdomen and one on your chest.",
+    "Inhale slowly through your nose so your abdomen rises while your chest stays still.",
+    "Raise your shoulders as you inhale to open your chest.",
+    "Hold your breath for 30 seconds before you exhale.",
+    "Exhale slowly while gently tightening your abdominal muscles.",
+    "Force the air out as hard as you can with each breath."
    ],
    "answer": [
     0,
     1,
-    2,
-    0,
-    1
+    4
    ],
    "optionRationales": [
-    "Green — 360 is 90% of personal best with no symptoms.",
-    "Yellow — 280 is 70% of personal best with symptoms; use quick-relief medication and follow the plan.",
-    "Red — 180 is 45% of personal best with difficulty walking and talking; take rescue medication and seek emergency care.",
-    "Green — 330 is about 83% of personal best (≥ 80%) without night symptoms.",
-    "Yellow — 300 is 75% of personal best, and night waking indicates worsening control."
+    "Correct. Hand placement lets the client feel whether the abdomen or chest is moving.",
+    "Correct. The abdomen should rise as the diaphragm descends, with little chest movement.",
+    "Raising the shoulders uses accessory muscles and increases the work of breathing.",
+    "Prolonged breath-holding worsens air trapping and dyspnea.",
+    "Correct. Gently contracting the abdominal muscles moves the diaphragm up during exhalation.",
+    "Forceful exhalation collapses small airways and worsens air trapping."
+   ],
+   "rationale": "Diaphragmatic breathing shifts the work of breathing to the diaphragm and away from the neck and shoulder accessory muscles, which lowers the work of breathing. The client places one hand on the abdomen and one on the chest, inhales slowly through the nose so the abdomen rises while the chest stays relatively still, and exhales slowly (often through pursed lips) while gently tightening the abdominal muscles to move the diaphragm up. Forceful exhalation and prolonged breath-holding worsen air trapping and dyspnea.",
+   "takeaway": "Diaphragmatic breathing: belly rises on a slow nose inhale, gentle abdominal squeeze on a slow exhale.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "The goal is to let the diaphragm do the work and rest the neck and shoulder muscles.",
+   "hintStrategy": "Reject any instruction that uses accessory muscles or traps air in the lungs."
+  },
+  {
+   "id": "m15d-040",
+   "type": "mcq",
+   "priority": true,
+   "topic": "asthma-copd-pneumonia",
+   "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A 19-year-old client with asthma has a personal best peak expiratory flow (PEF) of 400 L/min. The nurse reviews the client’s home log using the asthma action plan. Which entry required immediate action?",
+   "options": [
+    "Monday: PEF 360 L/min, no symptoms",
+    "Tuesday: PEF 280 L/min, coughing and mild chest tightness",
+    "Friday: PEF 300 L/min, woke at night coughing",
+    "Wednesday: PEF 180 L/min, trouble walking and talking"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "360 L/min is 90% of personal best with no symptoms — green zone.",
+    "280 L/min is 70% of personal best with mild symptoms — yellow zone: add quick-relief medication and monitor.",
+    "300 L/min is 75% of personal best with nighttime cough — yellow zone.",
+    "Correct. 180 L/min is 45% of personal best with trouble walking and talking — red zone: take rescue medication and get emergency care."
    ],
    "rationale": "Asthma action plan zones are based on percentage of personal best PEF and symptoms: green ≥ 80% (continue controller), yellow 50%–79% (caution: add quick-relief medication, contact provider if not improving), red < 50% (medical alert: rescue medication and emergency care).",
-   "takeaway": "PEF zones: green ≥ 80%, yellow 50%–79%, red < 50% of personal best.",
+   "takeaway": "Red zone (< 50% of personal best or trouble walking/talking) = rescue medication and emergency care now.",
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
-   "hintContent": "Recall the percentage cutoffs for the green, yellow, and red zones of an asthma action plan.",
-   "hintStrategy": "Convert each PEF to a percentage of 400, then check whether the symptoms agree with that zone."
+   "hintContent": "Calculate each PEF as a percentage of the personal best of 400 L/min.",
+   "hintStrategy": "Green ≥ 80%, yellow 50%–79%, red < 50%; the red-zone entry demands immediate action."
   },
   {
    "id": "m15d-041",
    "type": "mcq",
+   "priority": false,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · Lifespan: Pregnant Women",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client at 32 weeks' gestation is admitted with an asthma exacerbation. She is wheezing, RR 26/min, SpO₂ 93% on 2 L/min by nasal cannula, and the fetal heart rate is within the expected range. Which action by the nurse is most appropriate?",
    "options": [
-    "Position the client supine with the head of the bed flat so she can rest",
+    "Position the client supine with the head of the bed flat so that she can rest",
     "Check each prescribed medication for safety in pregnancy before giving it",
     "Notify the obstetric provider only after the asthma is controlled",
     "Hold the oxygen because the SpO₂ is above 90%"
@@ -1714,7 +1571,6 @@
     "Increased use of albuterol",
     "Thick green sputum in greater amounts",
     "Barrel-shaped chest",
-    "Clubbed fingers",
     "Pursed-lip breathing",
     "Needing to stop while walking to the bathroom"
    ],
@@ -1722,14 +1578,13 @@
     0,
     1,
     2,
-    6
+    5
    ],
    "optionRationales": [
     "Indicates exacerbation — SpO₂ is lower than the client's baseline of 91% on the same oxygen flow.",
     "Indicates exacerbation — increased rescue medication use shows worsening symptoms.",
     "Indicates exacerbation — increased sputum volume and purulence are cardinal signs of an exacerbation.",
     "Chronic finding — barrel chest reflects long-standing hyperinflation.",
-    "Chronic finding — clubbing develops from chronic hypoxemia over months to years.",
     "Chronic finding — pursed-lip breathing is a learned compensatory technique.",
     "Indicates exacerbation — decreased activity tolerance compared with baseline shows increased dyspnea."
    ],
@@ -1742,29 +1597,37 @@
   },
   {
    "id": "m15d-043",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "asthma-copd-pneumonia",
    "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 22-year-old client arrives in the emergency department with an acute asthma exacerbation: speaking in phrases, RR 30/min, diffuse wheezes, SpO₂ 89% on room air. The provider prescribes oxygen, albuterol by nebulizer, and prednisone 50 mg PO. Place the actions in the order the nurse should perform them.",
+   "stem": "A 22-year-old client arrives in the emergency department with an acute asthma exacerbation: speaking in phrases, RR 30/min, diffuse wheezes, SpO₂ 89% on room air. The provider prescribes oxygen, albuterol by nebulizer, and prednisone 50 mg PO. Which action should the nurse take first?",
    "options": [
-    "Position the client upright",
-    "Apply oxygen and titrate to the prescribed SpO₂ target",
-    "Administer the albuterol nebulizer treatment",
     "Administer prednisone 50 mg PO",
-    "Reassess breath sounds, work of breathing, SpO₂, and peak flow"
+    "Position the client upright",
+    "Administer the albuterol nebulizer treatment",
+    "Reassess breath sounds and peak flow"
    ],
-   "rationale": "Upright positioning is immediate and improves ventilation. Oxygen corrects hypoxemia. A short-acting beta-agonist relieves bronchospasm within minutes. Systemic corticosteroids reduce inflammation but act over hours, so they follow the bronchodilator. The nurse then reassesses the response to treatment.",
-   "takeaway": "Acute asthma: sit up → oxygen → SABA → steroid → reassess.",
+   "answer": 1,
+   "optionRationales": [
+    "Systemic corticosteroids reduce inflammation but take hours to work, so they follow oxygen and the bronchodilator.",
+    "Correct. Upright positioning is immediate, needs no equipment, and improves lung expansion and ventilation.",
+    "The bronchodilator is essential but follows positioning and oxygen application.",
+    "Reassessment evaluates the response after interventions are given."
+   ],
+   "rationale": "Upright positioning is immediate and improves ventilation. Oxygen then corrects hypoxemia. A short-acting beta-agonist relieves bronchospasm within minutes. Systemic corticosteroids reduce inflammation but act over hours, so they follow the bronchodilator. The nurse then reassesses the response to treatment.",
+   "takeaway": "Acute asthma: sit up → oxygen → albuterol → steroid → reassess.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Recall how quickly each intervention works and which directly addresses hypoxemia versus bronchospasm versus inflammation.",
-   "hintStrategy": "Order by speed and immediacy of benefit to airway and breathing; evaluation comes last."
+   "hintContent": "Think about which intervention can be done instantly and improves breathing mechanics without waiting for equipment or drug effect.",
+   "hintStrategy": "Among correct actions, choose the fastest one that improves ventilation; slower-acting drugs come later."
   },
   {
    "id": "m15d-044",
    "type": "mcq",
+   "priority": false,
    "topic": "health-promotion-smoking",
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
    "difficulty": 2,
@@ -1797,8 +1660,6 @@
    "ref": "Module 15 · Oxygenation · Health Promotion · Vaccination",
    "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
    "stem": "A 55-year-old client with COPD asks how to prevent respiratory infections. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "Receive an influenza vaccine every year",
@@ -1812,7 +1673,6 @@
     1,
     2
    ],
-   "rationale": "Infectious illnesses of the respiratory tract threaten oxygenation, and clients with chronic lung disease are at high risk for complications. Vaccination is encouraged to decrease transmission of preventable diseases. The influenza vaccine is given every year, the pneumococcal vaccine protects against a common cause of pneumonia, and vaccinating household members reduces the client's exposure.",
    "optionRationales": [
     "Correct — influenza vaccination is repeated every year because the circulating viruses change.",
     "Correct — pneumococcal vaccination is recommended for adults with chronic lung disease.",
@@ -1820,13 +1680,17 @@
     "Incorrect — chronic lung disease is a reason to be vaccinated, not a reason to avoid vaccines.",
     "Incorrect — influenza vaccine protection lasts about one season, so it is needed yearly."
    ],
+   "rationale": "Infectious illnesses of the respiratory tract threaten oxygenation, and clients with chronic lung disease are at high risk for complications. Vaccination is encouraged to decrease transmission of preventable diseases. The influenza vaccine is given every year, the pneumococcal vaccine protects against a common cause of pneumonia, and vaccinating household members reduces the client's exposure.",
    "takeaway": "COPD health promotion: yearly flu shot, pneumococcal vaccine, and vaccinated household contacts.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
    "hintContent": "Recall why the module encourages vaccination and how often the influenza vaccine is given.",
    "hintStrategy": "Evaluate each statement for accuracy and whether it reduces the client's exposure to preventable respiratory infections."
   },
   {
    "id": "m15d-047",
    "type": "mcq",
+   "priority": false,
    "topic": "health-promotion-smoking",
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
    "difficulty": 3,
@@ -1854,101 +1718,70 @@
   },
   {
    "id": "m15d-048",
-   "type": "matrix",
+   "type": "sata",
    "topic": "health-promotion-smoking",
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
    "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse teaches a client with COPD how to reduce exposure to airborne irritants at home and in the community. For each client statement, indicate whether it shows understanding or indicates a need for further teaching.",
-   "rows": [
-    "'I'll check the daily air quality index and stay indoors when it is poor.'",
-    "'Using my wood-burning fireplace every evening will keep the air warm and dry for my lungs.'",
-    "'I'll use a HEPA air filter in my bedroom.'",
-    "'I'll spray aerosol air fresheners to cover odors that bother my breathing.'",
-    "'I'll ask my family not to smoke inside the house or car.'"
-   ],
-   "columns": [
-    "Shows understanding",
-    "Needs further teaching"
+   "stem": "The nurse teaches a client with COPD how to reduce exposure to airborne irritants at home and in the community. Which client statements indicate a need for further teaching? Select all that apply.",
+   "options": [
+    "\"I’ll check the daily air quality index and stay indoors when it is poor.\"",
+    "\"Using my wood-burning fireplace every evening will keep the air warm and dry for my lungs.\"",
+    "\"I’ll use a HEPA air filter in my bedroom.\"",
+    "\"I’ll spray aerosol air fresheners to cover odors that bother my breathing.\"",
+    "\"I’ll ask my family not to smoke inside the house or car.\""
    ],
    "answer": [
-    0,
     1,
-    0,
-    1,
-    0
+    3
    ],
    "optionRationales": [
-    "Shows understanding — limiting outdoor activity on poor air-quality days reduces exposure to pollutants.",
-    "Needs further teaching — wood smoke contains particulate matter that irritates airways and triggers exacerbations.",
-    "Shows understanding — HEPA filtration reduces indoor particulates and allergens.",
-    "Needs further teaching — aerosol sprays and strong scents are airway irritants.",
-    "Shows understanding — eliminating secondhand smoke in the home and car reduces irritant exposure."
+    "Monitoring the air quality index and staying indoors on poor days reduces exposure.",
+    "Correct. Wood smoke is an airborne irritant that triggers airway inflammation.",
+    "A HEPA filter reduces indoor airborne particles.",
+    "Correct. Aerosol sprays are chemical irritants that can trigger bronchospasm.",
+    "Avoiding secondhand smoke reduces exposure to a major irritant."
    ],
    "rationale": "Airborne irritants such as cigarette smoke, wood smoke, pollution, and chemical sprays trigger airway inflammation. Managing environmental air quality — monitoring the air quality index, filtering indoor air, and avoiding smoke and aerosols — reduces exposure and exacerbations.",
-   "takeaway": "Protect the airway at home: no smoke, no aerosols, filter the air, watch the air quality index.",
+   "takeaway": "Avoid smoke (tobacco or wood) and aerosols; filter the air and watch the air quality index.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "hintContent": "Recall the airborne irritants listed in Module 15's health promotion content and how they affect the airways.",
-   "hintStrategy": "For each statement, ask whether the client's plan adds or removes an airway irritant."
+   "hintContent": "The question asks for statements that show a misunderstanding — ones that would increase exposure to irritants.",
+   "hintStrategy": "For each statement, ask whether it adds smoke or chemicals to the air the client breathes."
   },
   {
    "id": "m15d-049",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "health-promotion-smoking",
    "ref": "Module 15 · Oxygenation · Smoking and Tobacco Cessation",
    "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "stem": "A 45-year-old client has smoked 1½ packs of cigarettes per day for 20 years and says, \"My lungs must be fine, because I don't get short of breath.\" Complete the following sentence by choosing from the lists of options.",
-   "template": "The client's smoking history is {0}. Tobacco smoke increases {1} and reduces {2}, and a decline in pulmonary function often becomes noticeable only {3}.",
-   "blanks": [
-    {
-     "options": [
-      "20 pack-years",
-      "13 pack-years",
-      "30 pack-years",
-      "40 pack-years"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "surfactant production",
-      "mucus production",
-      "alveolar size",
-      "hemoglobin levels"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "the respiratory rate",
-      "airway resistance",
-      "carbon dioxide levels",
-      "cilia action in the airways"
-     ],
-     "answer": 3
-    },
-    {
-     "options": [
-      "after irreversible damage has occurred",
-      "within the first year of smoking",
-      "in clients who also have asthma",
-      "if the client develops anemia"
-     ],
-     "answer": 0
-    }
+   "stem": "A 45-year-old client has smoked 1½ packs of cigarettes per day for 20 years and says, \"My lungs must be fine, because I don’t get short of breath.\" Which response by the nurse is accurate?",
+   "options": [
+    "\"You have a 30 pack-year history; damage often shows only once it is irreversible.\"",
+    "\"You have a 20 pack-year history, which is below the level linked with lung damage.\"",
+    "\"Smoke mainly lowers surfactant production, so shortness of breath would appear early.\"",
+    "\"Smoke speeds up cilia in the airways, so your lungs are clearing the damage as it happens.\""
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. 1.5 packs × 20 years = 30 pack-years; decline in lung function often becomes noticeable only after irreversible damage.",
+    "Pack-years = packs per day × years, so the history is 30 pack-years, and there is no safe threshold.",
+    "Tobacco smoke increases mucus production; symptoms often appear late, not early.",
+    "Tobacco smoke reduces cilia action, so secretions are not cleared well."
    ],
    "rationale": "Pack-years = packs per day × years smoked (1.5 × 20 = 30). Tobacco smoke increases mucus production and reduces cilia action in the airway passages, so secretions are not cleared well. With prolonged exposure, pulmonary function declines, but the decline often becomes noticeable only after irreversible damage has occurred — so feeling well does not mean the lungs are undamaged.",
-   "takeaway": "Smoking: more mucus, less cilia action, and lung damage that shows up only after it is permanent.",
-   "hintContent": "Recall the pack-year formula and the effects of tobacco smoke listed on the Smoking and Tobacco Cessation slide.",
-   "hintStrategy": "Calculate first, then choose the effects that explain why a smoker may not notice lung damage until late."
+   "takeaway": "Pack-years = packs/day × years; no symptoms does not mean no damage.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Calculate pack-years first, then recall what smoke does to mucus and cilia.",
+   "hintStrategy": "Check both the math and the pathophysiology in each option; eliminate any option wrong on either."
   },
   {
    "id": "m15d-050",
    "type": "mcq",
+   "priority": false,
    "topic": "health-promotion-smoking",
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
    "difficulty": 1,

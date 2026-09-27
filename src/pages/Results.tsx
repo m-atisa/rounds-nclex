@@ -3,7 +3,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import { MODULE_BY_ID, QUESTION_BY_ID } from '../data';
 import type { Question } from '../data/types';
-import { TYPE_SHORT } from '../data/types';
+import { FORMAT_SHORT, formatOf } from '../data/types';
 import { Icon } from '../components/Icon';
 import { CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
@@ -30,7 +30,7 @@ const MASTERY_META: Record<Mastery, { label: string; color: string; desc: string
 };
 
 const DIMS: { d: Dimension; label: string }[] = [
-  { d: 'type', label: 'Question type' },
+  { d: 'type', label: 'Question format' },
   { d: 'cjmm', label: 'Clinical judgment' },
   { d: 'focus', label: 'Nursing skill' },
   { d: 'topic', label: 'Topic' },
@@ -369,7 +369,7 @@ function PaceChart({ rows, onPick }: { rows: Row[]; onPick: (r: Row) => void }) 
           const h = (r.ms / 1000 / max) * 100;
           const pace = (PACE_SECONDS[r.q.type] / max) * 100;
           return (
-            <button key={r.q.id} className="pace-col" onClick={() => onPick(r)} title={`Q${i + 1} · ${TYPE_SHORT[r.q.type]} · ${fmtDuration(r.ms)} · ${MASTERY_META[r.mastery].label}`}>
+            <button key={r.q.id} className="pace-col" onClick={() => onPick(r)} title={`Q${i + 1} · ${FORMAT_SHORT[formatOf(r.q)]} · ${fmtDuration(r.ms)} · ${MASTERY_META[r.mastery].label}`}>
               <span className="pace-line" style={{ bottom: `${pace}%` }} />
               <motion.span
                 className="pace-bar"
@@ -400,7 +400,7 @@ function ReviewItem({ r, onOpen, reasons }: { r: Row; onOpen: () => void; reason
         </p>
         <div className="row" style={{ gap: 6 }}>
           <RefChip q={r.q} />
-          <span className="badge">{TYPE_SHORT[r.q.type]}</span>
+          <span className="badge">{FORMAT_SHORT[formatOf(r.q)]}</span>
           <span className="badge">
             <Icon name="clock" width={12} /> {fmtDuration(r.ms)}
           </span>

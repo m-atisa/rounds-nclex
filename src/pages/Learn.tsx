@@ -1,6 +1,6 @@
 import { motion, useScroll, useSpring } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
-import { MODULES, MODULE_BY_ID, topicKey } from '../data';
+import { MODULES, MODULE_BY_ID, readingMinutes, topicKey } from '../data';
 import type { Module, Topic } from '../data/types';
 import { Icon } from '../components/Icon';
 import { TopicArticle } from '../components/TopicArticle';
@@ -116,7 +116,10 @@ export function ModulePage() {
                     <div>
                       <h3>{t.title}</h3>
                       <p>
-                        {t.summary ? t.summary.replace(/<[^>]+>/g, '') : ''} {n ? <span className="faint">· {n} questions</span> : null}
+                        {t.summary ? t.summary.replace(/<[^>]+>/g, '') : ''}{' '}
+                        <span className="faint">
+                          · {readingMinutes(t)} min read{n ? ` · ${n} questions` : ''}
+                        </span>
                       </p>
                     </div>
                     <span className="arrow">

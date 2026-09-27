@@ -8,7 +8,7 @@ window.NURSE_DATA.push({
  "questions": [
   {
    "id": "m10d-001",
-   "type": "highlight",
+   "type": "sata",
    "topic": "assessment-diagnostics",
    "caseId": "m10d-case-appendicitis",
    "caseOrder": 1,
@@ -104,37 +104,40 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse summarizes the client's admission data. Click to highlight the findings that require follow-up by the nurse.",
-   "passage": "Client reports {{pain that began around the umbilicus and moved to the RLQ}}. Abdominal exam shows {{rebound tenderness at McBurney point}}. Vital signs: {{T 38.7 °C (101.7 °F)}}, {{HR 104}}, {{BP 122/76}}, {{SpO₂ 98% on room air}}. Labs: {{WBC 14,600/mm³ with 8% bands}}, {{urine hCG negative}}, {{urinalysis negative for nitrites}}. {{Last bowel movement yesterday morning}}.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse summarizes the client's admission data. Which findings require follow-up by the nurse? Select all that apply.",
    "answer": [
     0,
-    1,
     2,
-    3,
-    6
+    4,
+    5
    ],
    "optionRationales": [
-    "Requires follow-up. Periumbilical pain that migrates to the RLQ is the classic pattern of appendiceal inflammation (visceral pain becoming localized parietal pain).",
-    "Requires follow-up. Rebound tenderness signals inflammation of the parietal peritoneum and raises concern for advancing disease.",
-    "Requires follow-up. Fever is a systemic sign of inflammation; note it was recorded only 3 hours after ibuprofen, so the true temperature may be higher.",
-    "Requires follow-up. Tachycardia above 90/min is a systemic inflammatory response criterion and can also reflect pain or early volume loss from vomiting.",
-    "Does not require follow-up now. BP is within normal limits.",
-    "Does not require follow-up. Oxygenation is normal.",
-    "Requires follow-up. Leukocytosis with a left shift (bands above 5%) indicates an acute bacterial inflammatory process.",
-    "Does not require follow-up. A negative hCG reassures the nurse that ectopic pregnancy is unlikely; it rules out a competing diagnosis.",
-    "Does not require follow-up. A negative urinalysis makes a urinary tract infection an unlikely source of the pain.",
-    "Does not require follow-up now. A bowel movement yesterday is not concerning in a client who is anorexic and vomiting; laxatives would be contraindicated anyway."
+    "Correct. Pain that moves from the umbilicus to the RLQ is a classic pattern of appendiceal inflammation.",
+    "BP is within normal limits and is reassuring.",
+    "Correct. Rebound tenderness shows peritoneal irritation from the inflamed appendix.",
+    "A negative hCG helps rule out a pregnancy-related cause of pain; it does not require follow-up.",
+    "Correct. A temperature above 38.5 °C (101.3 °F) is a systemic sign of inflammation.",
+    "Correct. Leukocytosis with increased bands (a left shift) indicates an acute bacterial inflammatory process."
    ],
    "rationale": "Recognizing cues means separating abnormal, clinically significant data from normal or reassuring data. Migrating RLQ pain, rebound tenderness, fever, tachycardia, and leukocytosis with bands together point to an acute local inflammatory process that is producing systemic effects. Normal BP, SpO₂, and the negative hCG and urinalysis help rule out competing problems but do not require action.",
    "takeaway": "Highlight the abnormal cues that fit a pattern; normal results that rule out alternatives are useful but not 'follow-up' findings.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the classic local and systemic signs of acute inflammation and the normal ranges for temperature, heart rate, and WBC.",
-   "hintStrategy": "Go segment by segment and ask: is this value outside the normal range or a classic warning sign? Negative tests that rule out other conditions are reassuring, not concerning."
+   "hintStrategy": "Go finding by finding and ask whether it is abnormal or a classic warning sign. Negative tests that rule out other conditions are reassuring, not concerning.",
+   "options": [
+    "Pain that began around the umbilicus and moved to the RLQ",
+    "BP 122/76 mm Hg",
+    "Rebound tenderness at McBurney point",
+    "Urine hCG negative",
+    "T 38.7 °C (101.7 °F)",
+    "WBC 14,600/mm³ with 8% bands"
+   ]
   },
   {
    "id": "m10d-002",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "assessment-diagnostics",
    "caseId": "m10d-case-appendicitis",
    "caseOrder": 2,
@@ -230,42 +233,31 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. For each client finding, indicate whether it reflects a local inflammatory response or a systemic inflammatory response.",
-   "rows": [
-    "Guarding at McBurney point",
-    "Temperature 38.7 °C (101.7 °F)",
-    "WBC 14,600/mm³ with 8% bands",
-    "Pain worse with coughing and walking",
-    "CRP 6.8 mg/dL"
-   ],
-   "columns": [
-    "Local inflammatory response",
-    "Systemic inflammatory response"
-   ],
-   "answer": [
-    0,
-    1,
-    1,
-    0,
-    1
-   ],
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which finding best indicates that the client's local inflammation is producing a systemic response?",
+   "answer": 0,
    "optionRationales": [
-    "Local. Guarding is involuntary muscle tightening over the inflamed appendix and adjacent peritoneum.",
-    "Systemic. Prostaglandins act on the hypothalamus to raise the temperature set point, producing fever throughout the body.",
-    "Systemic. The bone marrow releases neutrophils, including immature bands, into the circulation in response to inflammatory mediators.",
-    "Local. Movement jars the inflamed parietal peritoneum at the site, producing localized pain (a sign of peritoneal irritation).",
-    "Systemic. CRP is an acute-phase protein made by the liver in response to cytokines such as IL-6; it circulates throughout the body."
+    "Correct. Leukocytosis with a left shift comes from the bone marrow responding to circulating mediators, a systemic response. Fever, tachycardia, and a high CRP are also systemic findings.",
+    "Guarding is a local finding at the inflamed site.",
+    "Pain with movement reflects local inflammation and irritation near the appendix.",
+    "Holding the hip flexed reduces tension on the inflamed area; it is a local finding."
    ],
    "rationale": "Local inflammation produces findings at the site: redness, heat, swelling, pain, and impaired function (guarding and pain with movement). Systemic inflammation produces body-wide effects: fever, leukocytosis with a left shift, tachycardia, and elevated acute-phase reactants such as CRP. The presence of systemic findings tells the nurse the local process is significant.",
    "takeaway": "Local = at the site (pain, guarding, swelling); systemic = fever, WBC/bands, CRP, tachycardia.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Think about where each finding is generated: at the injured tissue, or by the hypothalamus, bone marrow, or liver responding to circulating mediators.",
-   "hintStrategy": "For each row, ask 'Could I find this by looking only at the abdomen, or does it require the whole body to respond?'"
+   "hintStrategy": "Ask whether each finding could be detected by examining only the abdomen, or whether it requires the whole body to respond.",
+   "options": [
+    "WBC 14,600/mm³ with 8% bands",
+    "Guarding at McBurney point",
+    "Pain worse with coughing and walking",
+    "Right hip held flexed while lying still"
+   ]
   },
   {
    "id": "m10d-003",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": true,
    "topic": "assessment-diagnostics",
    "caseId": "m10d-case-appendicitis",
    "caseOrder": 3,
@@ -361,43 +353,26 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client is at highest risk for developing {0} as evidenced by {1}. The nurse also recognizes that the ibuprofen taken at 0600 may have {2}.",
-   "blanks": [
-    {
-     "options": [
-      "perforation with peritonitis",
-      "ruptured ectopic pregnancy",
-      "acute pyelonephritis",
-      "small bowel obstruction"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "the negative urine hCG",
-      "rebound tenderness with systemic signs",
-      "the last bowel movement yesterday",
-      "an SpO₂ of 98% on room air"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "caused the elevated WBC count",
-      "resolved the appendiceal inflammation",
-      "blunted the recorded temperature",
-      "raised the CRP level"
-     ],
-     "answer": 2
-    }
-   ],
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which complication is the nurse's priority concern for this client?",
    "rationale": "An inflamed, obstructed appendix can become gangrenous and perforate, typically 24–72 hours after symptom onset, spilling contents into the peritoneum. Rebound tenderness shows peritoneal irritation, and fever, tachycardia, and leukocytosis show the process is advancing. Ibuprofen blocks prostaglandin synthesis, so it lowers fever and can make the client look less ill than they are; it does not raise WBC or CRP and does not treat the underlying obstruction.",
    "takeaway": "Rebound tenderness plus systemic signs in appendicitis = rising perforation risk; antipyretics can hide fever.",
    "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
+   "focus": "Prioritization",
    "hintContent": "Recall the most serious complication of an untreated inflamed appendix and how NSAIDs act on prostaglandins.",
-   "hintStrategy": "Choose the condition first, then pick the evidence that actually supports THAT condition. Cross out cues that rule out other conditions."
+   "hintStrategy": "Cross out conditions that the negative test results rule out, then choose the most dangerous complication that the remaining cues support.",
+   "options": [
+    "Ruptured ectopic pregnancy with bleeding",
+    "Perforation with peritonitis",
+    "Acute pyelonephritis",
+    "Small bowel obstruction"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "The negative urine hCG rules out pregnancy, so an ectopic pregnancy is not a concern.",
+    "Correct. An inflamed, obstructed appendix can perforate, typically 24–72 hours after symptom onset. Rebound tenderness with fever, tachycardia, and leukocytosis shows the process is advancing, and the ibuprofen taken at 0600 may have blunted the recorded temperature.",
+    "The urinalysis is negative for leukocyte esterase and nitrites, and the client denies urinary symptoms.",
+    "The findings point to appendiceal inflammation, and there is no report of abdominal distention or inability to pass stool or gas."
+   ]
   },
   {
    "id": "m10d-004",
@@ -529,6 +504,7 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-005",
    "type": "mcq",
+   "priority": true,
    "topic": "nursing-interventions",
    "caseId": "m10d-case-appendicitis",
    "caseOrder": 5,
@@ -613,7 +589,8 @@ window.NURSE_DATA.push({
   },
   {
    "id": "m10d-006",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": true,
    "topic": "nursing-interventions",
    "caseId": "m10d-case-appendicitis",
    "caseOrder": 6,
@@ -690,42 +667,31 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the postoperative Nurses' Notes, Vital Signs, and Laboratory Results. For each finding on postoperative day 2, indicate whether the client's condition is improving or not improving.",
-   "rows": [
-    "Temperature and heart rate",
-    "WBC and band count",
-    "Bowel sounds and passing flatus",
-    "Umbilical port site",
-    "Pain level with ambulation"
-   ],
-   "columns": [
-    "Improving",
-    "Not improving"
-   ],
-   "answer": [
-    0,
-    0,
-    0,
-    1,
-    0
-   ],
+   "stem": "Refer to the postoperative Nurses' Notes, Vital Signs, and Laboratory Results. Which finding on postoperative day 2 requires the nurse's immediate follow-up?",
+   "answer": 3,
    "optionRationales": [
-    "Improving. T has fallen from 38.4 °C to 37.4 °C and HR from 108 to 86, showing the systemic inflammatory response is resolving.",
-    "Improving. WBC has dropped from 17,900 to 10,200/mm³ and bands from 14% to 4%, showing the left shift has resolved.",
-    "Improving. Return of peristalsis shows the peritoneal inflammation and postoperative ileus are resolving.",
-    "Not improving. Spreading erythema, warmth, induration, and cloudy drainage indicate a surgical site infection that must be reported.",
-    "Improving. Pain of 3/10 that allows ambulation shows effective pain control and progress in recovery."
+    "Temperature and heart rate have fallen from POD 1 toward normal, showing the systemic response is improving.",
+    "WBC and bands have fallen from 17,900/mm³ and 14% to near normal, showing response to surgery and antibiotics.",
+    "Mild pain with movement is expected on POD 2 and has improved.",
+    "Correct. Spreading erythema, warmth, induration, and cloudy drainage are local signs of surgical site infection, a common complication after a perforated appendix."
    ],
    "rationale": "Evaluating outcomes means comparing current data with earlier data and expected goals. The systemic markers (temperature, HR, WBC, bands, CRP) are trending toward normal and bowel function has returned, all showing response to surgery and antibiotics. The umbilical port site, however, shows local signs of infection, a common complication after a perforated appendix, and needs follow-up.",
    "takeaway": "Systemic markers can improve while a local wound infection develops; evaluate each finding separately.",
    "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
+   "focus": "Prioritization",
    "hintContent": "Compare each POD 2 value with POD 1 and with normal ranges; recall the local signs of a surgical site infection.",
-   "hintStrategy": "Look for trends, not single numbers. One finding may move in a different direction from the others."
+   "hintStrategy": "Look for trends, not single numbers. One finding may move in a different direction from the others.",
+   "options": [
+    "Temperature 37.4 °C (99.3 °F) and heart rate 86/min",
+    "WBC 10,200/mm³ with bands down to 4%",
+    "Pain rated 3/10 when walking in the hallway",
+    "Umbilical port site erythema with cloudy drainage"
+   ]
   },
   {
    "id": "m10d-007",
-   "type": "bowtie",
+   "type": "mcq",
+   "priority": true,
    "topic": "anaphylaxis",
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "difficulty": 3,
@@ -770,176 +736,145 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Orders. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Vasovagal reaction",
-     "Acute asthma exacerbation",
-     "Anaphylaxis",
-     "Foodborne gastroenteritis"
-    ],
-    "answer": 2
-   },
-   "actions": {
-    "options": [
-     "Give diphenhydramine 50 mg IV and reassess in 15 minutes",
-     "Administer epinephrine 0.5 mg IM in the mid-anterolateral thigh",
-     "Assist the client to walk to the bathroom to vomit",
-     "Apply oxygen by nonrebreather mask",
-     "Obtain a stool specimen for culture"
-    ],
-    "answer": [
-     1,
-     3
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Blood glucose",
-     "Blood pressure",
-     "Temperature",
-     "Oxygen saturation and work of breathing",
-     "Serum albumin"
-    ],
-    "answer": [
-     1,
-     3
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect. A vasovagal reaction causes bradycardia and pallor, not tachycardia, hives, and wheezing.",
-     "Incorrect. Wheezing alone could be asthma, but asthma does not explain hives, lip swelling, vomiting, and hypotension after a known allergen.",
-     "Correct. Acute onset after exposure to a known allergen with skin/mucosal, respiratory, GI, and cardiovascular involvement meets the criteria for anaphylaxis.",
-     "Incorrect. Gastroenteritis does not cause hives, hoarseness, wheezing, and shock within 25 minutes of eating."
-    ],
-    "actions": [
-     "Incorrect. Antihistamines are adjuncts that relieve itching and hives; they do not treat airway edema or shock and must never delay epinephrine.",
-     "Correct. IM epinephrine is first-line; alpha-1 effects reverse vasodilation and edema, and beta-2 effects relieve bronchospasm.",
-     "Incorrect. A hypotensive client should not stand or walk; sudden upright posture can cause cardiovascular collapse.",
-     "Correct. SpO₂ is 90% with wheezing and throat tightness; high-flow oxygen supports oxygenation while epinephrine takes effect.",
-     "Incorrect. The GI symptoms are part of anaphylaxis; a stool culture does not address the emergency."
-    ],
-    "parameters": [
-     "Incorrect. Blood glucose may rise slightly with epinephrine but does not measure response to anaphylaxis treatment.",
-     "Correct. BP shows whether epinephrine and fluids are reversing distributive shock.",
-     "Incorrect. Temperature is not affected by anaphylaxis and does not guide its treatment.",
-     "Correct. SpO₂, wheezing, hoarseness, and respiratory effort show whether airway edema and bronchospasm are resolving.",
-     "Incorrect. Serum albumin reflects nutrition and chronic illness, not the response to acute treatment."
-    ]
-   },
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Orders. Which action should the nurse take first?",
+   "optionRationales": [
+    "Diphenhydramine is an adjunct given after epinephrine. It relieves hives and itching but does not reverse airway edema or hypotension.",
+    "Correct. Hoarseness, throat tightness, wheals, vomiting, wheezing, and hypotension after eating a known allergen are anaphylaxis. IM epinephrine is first-line because it reverses airway edema, bronchospasm, and hypotension, and delay increases mortality.",
+    "Oxygen is needed, but it does not stop the mediator-driven airway swelling. Epinephrine comes first.",
+    "A fluid bolus supports BP but does not treat the airway. It follows epinephrine."
+   ],
    "rationale": "Anaphylaxis is a rapid, systemic, IgE-mediated reaction in which mast-cell mediators cause vasodilation, capillary leak, bronchoconstriction, and airway edema. The client has involvement of the skin, airway, GI tract, and circulation after eating a known allergen. Immediate IM epinephrine and oxygen address the airway and circulation; response is judged by BP and respiratory status.",
    "takeaway": "Known allergen + 2 or more body systems = anaphylaxis; epinephrine IM first, then watch airway and BP.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Recall the clinical criteria for anaphylaxis and which medication reverses both airway edema and hypotension.",
-   "hintStrategy": "Identify the condition first; every action and parameter you choose must directly address THAT condition. Rank actions by ABCs."
+   "hintStrategy": "Identify the condition first, then choose the one drug that reverses both airway swelling and hypotension.",
+   "options": [
+    "Give diphenhydramine 50 mg IV and reassess in 15 minutes",
+    "Give epinephrine 0.5 mg IM into the lateral thigh",
+    "Apply oxygen by nonrebreather mask to raise the SpO₂",
+    "Start the 0.9% sodium chloride 1,000 mL IV bolus"
+   ],
+   "answer": 1
   },
   {
    "id": "m10d-009",
-   "type": "highlight",
+   "type": "sata",
    "topic": "anaphylaxis",
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The school nurse is called to the cafeteria for a 14-year-old student with a known peanut allergy who ate a cookie containing peanuts 15 minutes ago. Click to highlight the findings that indicate the student is experiencing anaphylaxis and needs epinephrine now.",
-   "passage": "The student has a {{history of seasonal allergies}} and {{hives spreading across the chest and neck}}. The student has had {{repeated vomiting}} and now speaks in a {{hoarse voice}}. The student is {{alert and oriented}}, with {{HR 96}}, {{BP 110/68}}, and {{SpO₂ 97% on room air}}. The student {{last used an inhaler 3 days ago}}.",
+   "stem": "The school nurse is called to the cafeteria for a 14-year-old student with a known peanut allergy who ate a cookie containing peanuts 15 minutes ago. Which findings indicate the student is experiencing anaphylaxis and needs epinephrine now? Select all that apply.",
    "answer": [
     1,
     2,
     3
    ],
    "optionRationales": [
-    "Not a sign of anaphylaxis. Seasonal allergies are part of the history but do not show a current reaction.",
-    "Highlight. Generalized hives show skin/mucosal involvement after exposure to a known allergen.",
-    "Highlight. Persistent GI symptoms such as repeated vomiting after a food allergen are a criterion for anaphylaxis.",
-    "Highlight. Hoarseness signals laryngeal edema, a threat to the airway.",
-    "Not a sign. Normal mental status is reassuring.",
-    "Not a sign. HR is within normal limits for a 14-year-old.",
-    "Not a sign. BP is normal; anaphylaxis does not require hypotension to be present.",
-    "Not a sign. SpO₂ is normal at this time.",
-    "Not a sign. Inhaler use 3 days ago is history, although asthma does increase the risk of severe reactions."
+    "A history of allergies is background information, not a current sign of body-system involvement.",
+    "Correct. Spreading hives show skin and mucosal involvement.",
+    "Correct. Repeated vomiting after allergen exposure shows GI involvement.",
+    "Correct. A hoarse voice suggests airway (laryngeal) swelling.",
+    "These vital signs are within normal limits. Epinephrine should not be delayed while waiting for hypotension.",
+    "Past inhaler use is history, not a current finding of anaphylaxis."
    ],
    "rationale": "Anaphylaxis is likely when, after exposure to a known allergen, two or more body systems are involved: skin/mucosa, respiratory, cardiovascular, or persistent GI. This student has skin (hives), GI (repeated vomiting), and airway (hoarseness) involvement, so epinephrine should be given immediately even though vital signs are still normal. Waiting for hypotension or low SpO₂ delays treatment and increases the risk of death.",
    "takeaway": "Two or more systems after a known allergen = anaphylaxis; do not wait for low BP to give epinephrine.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the body systems included in the clinical criteria for anaphylaxis after exposure to a known allergen.",
-   "hintStrategy": "Highlight only current findings that show a body system is involved. History items and normal values do not meet the criteria."
+   "hintStrategy": "Choose only current findings that show a body system is involved. History items and normal values do not meet the criteria.",
+   "options": [
+    "History of seasonal allergies",
+    "Hives spreading across the chest and neck",
+    "Repeated vomiting",
+    "Hoarse voice",
+    "HR 96/min and BP 110/68 mm Hg",
+    "Last used an inhaler 3 days ago"
+   ]
   },
   {
    "id": "m10d-010",
-   "type": "highlight",
+   "type": "sata",
    "topic": "pharmacology",
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy · Corticosteroids",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with rheumatoid arthritis has taken prednisone 10 mg daily for 9 months. The nurse documents the client's statements at a follow-up visit. Click to highlight the statements that indicate a need for further teaching.",
-   "passage": "'I take my prednisone {{with breakfast every morning}}. {{I skip it for a few days when my joints feel good}}. {{I check my blood sugar when I feel extra thirsty}}. {{I stopped my calcium and vitamin D because my bones feel fine}}. {{I stay away from people who have colds or the flu}}. {{I carry a card that says I take a steroid}}. {{I don't need to tell my dentist about the prednisone}}. {{I weigh myself a few times a week}}.'",
+   "stem": "A client with rheumatoid arthritis has taken prednisone 10 mg daily for 9 months. Which statements by the client at a follow-up visit indicate a need for further teaching? Select all that apply.",
    "answer": [
     1,
     3,
-    6
+    4
    ],
    "optionRationales": [
-    "Correct understanding. Morning dosing mimics the normal cortisol peak, and food reduces GI irritation.",
-    "Needs teaching. Long-term corticosteroids suppress the adrenal glands; skipping doses can trigger adrenal insufficiency. Doses must be taken daily and tapered only as prescribed.",
-    "Correct understanding. Corticosteroids raise blood glucose; thirst can signal hyperglycemia.",
-    "Needs teaching. Long-term corticosteroids cause bone loss without symptoms; calcium and vitamin D help prevent osteoporosis.",
-    "Correct understanding. Corticosteroids suppress immunity and raise the risk of infection.",
-    "Correct understanding. A steroid card alerts emergency providers that stress dosing may be needed.",
-    "Needs teaching. All providers, including dentists, must know about long-term steroid use because of infection risk, delayed healing, and possible need for stress dosing.",
-    "Correct understanding. Regular weights detect fluid retention."
+    "Morning dosing with food matches the natural cortisol rhythm and reduces GI upset.",
+    "Correct. Skipping doses after long-term use can cause adrenal insufficiency. Doses must be taken daily and tapered only as prescribed.",
+    "Glucocorticoids raise blood glucose, so checking it when symptoms occur is appropriate.",
+    "Correct. Long-term steroids cause bone loss without symptoms, so calcium and vitamin D should be continued.",
+    "Correct. All providers, including dentists, need to know about steroid therapy because of adrenal suppression and infection risk.",
+    "A card that identifies steroid use informs emergency providers and is appropriate."
    ],
    "rationale": "Long-term corticosteroid therapy requires consistent daily dosing, gradual tapering, and protection against predictable adverse effects: adrenal suppression, osteoporosis, hyperglycemia, infection, and fluid retention. Skipping doses, stopping bone-protective supplements, and not informing all providers all put the client at risk.",
    "takeaway": "Long-term steroids: never skip or stop suddenly, protect bones, and tell every provider.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "hintContent": "Recall how long-term glucocorticoids affect the adrenal glands, bone density, glucose, and immunity.",
-   "hintStrategy": "This item asks for statements showing a NEED for more teaching, so you are looking for unsafe or incorrect statements."
+   "hintStrategy": "This item asks for statements showing a NEED for more teaching, so you are looking for unsafe or incorrect statements.",
+   "options": [
+    "“I take my prednisone with breakfast every morning.”",
+    "“I skip it for a few days when my joints feel good.”",
+    "“I check my blood sugar when I feel extra thirsty.”",
+    "“I stopped my calcium and vitamin D because my bones feel fine.”",
+    "“I don't need to tell my dentist about the prednisone.”",
+    "“I carry a card that says I take a steroid.”"
+   ]
   },
   {
    "id": "m10d-011",
-   "type": "highlight",
+   "type": "sata",
    "topic": "assessment-diagnostics",
    "ref": "Module 10 · Inflammation · Nursing Assessment (Systemic Signs)",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse reviews the admission note for an 81-year-old client from an assisted-living facility who has a productive cough. Click to highlight the findings that are systemic signs of inflammation.",
-   "passage": "Client has {{new confusion since yesterday}} and a {{history of osteoarthritis}}. Temperature {{35.8 °C (96.4 °F)}}, {{HR 102}}, {{RR 24}}, {{BP 132/78}}, {{SpO₂ 94% on room air}}. Labs: {{WBC 13,800/mm³}}, {{hemoglobin 12.8 g/dL}}. The client {{wears bilateral hearing aids}}.",
+   "stem": "The nurse reviews the admission note for an 81-year-old client from an assisted-living facility who has a productive cough. Which findings are systemic signs of inflammation? Select all that apply.",
    "answer": [
+    1,
     2,
     3,
-    4,
-    7
+    5
    ],
    "optionRationales": [
-    "Not one of the four systemic signs. New confusion is an important cue for infection in older adults and should be reported, but it is not on the list.",
-    "Not a systemic sign. Chronic osteoarthritis is not part of the acute systemic response.",
-    "Systemic sign. A temperature below 36 °C (96.8 °F) counts; older adults may have a low temperature instead of a fever.",
-    "Systemic sign. HR above 90/min.",
-    "Systemic sign. RR above 20/min.",
-    "Not a systemic sign. BP is not one of the systemic signs and is within normal range.",
-    "Not a systemic sign. Oxygen saturation is not one of the four criteria.",
-    "Systemic sign. A WBC above 12,000/mm³.",
-    "Not a systemic sign. Hemoglobin is not one of the systemic signs.",
-    "Not a systemic sign. Hearing aids are relevant to communication, not to inflammation."
+    "New confusion is important to report in an older adult, but it is not one of the four systemic signs listed in the course.",
+    "Correct. A temperature below 36 °C (96.8 °F) is a systemic sign; older adults often show a low temperature instead of a fever.",
+    "Correct. HR above 90 is a systemic sign.",
+    "Correct. RR above 20 is a systemic sign.",
+    "BP is within normal limits and is not one of the systemic signs.",
+    "Correct. WBC above 12,000/mm³ is a systemic sign."
    ],
    "rationale": "The course lists these systemic signs of inflammation: temperature above 38.5 °C (101.3 °F) or below 36 °C (96.8 °F), HR above 90, RR above 20, and WBC above 12,000/mm³ or increased bands. This client has all four, including a low temperature, which older adults commonly show instead of a fever. New confusion is also important to report, but it is not one of the four signs.",
    "takeaway": "A LOW temperature counts too; older adults often present that way.",
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall the four systemic signs of inflammation, including both the high and low temperature cutoffs.",
-   "hintStrategy": "Check each value against the cutoffs one at a time. Important findings are not always on the list, so match strictly to what the stem asks."
+   "hintStrategy": "Check each value against the cutoffs one at a time. Important findings are not always on the list, so match strictly to what the stem asks.",
+   "options": [
+    "New confusion since yesterday",
+    "Temperature 35.8 °C (96.4 °F)",
+    "HR 102/min",
+    "RR 24/min",
+    "BP 132/78 mm Hg",
+    "WBC 13,800/mm³"
+   ]
   },
   {
    "id": "m10d-012",
    "type": "mcq",
+   "priority": true,
    "topic": "anaphylaxis",
    "ref": "Module 10 · Inflammation · Anaphylaxis (Latex)",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "stem": "The nurse is completing a preoperative interview with a client scheduled for a laparoscopic cholecystectomy. The client states, 'The last time a dentist wore rubber gloves, I broke out in hives and my lips swelled.' Which action should the nurse take?",
+   "stem": "The nurse is completing a preoperative interview with a client scheduled for a laparoscopic cholecystectomy. The client states, 'The last time a dentist wore rubber gloves, I broke out in hives and my lips swelled.' Which action is the nurse's priority?",
    "options": [
     "Document the reaction as a minor skin sensitivity",
     "Ask the provider to prescribe an antihistamine before surgery",
@@ -963,6 +898,7 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-015",
    "type": "mcq",
+   "priority": false,
    "topic": "anaphylaxis",
    "ref": "Module 10 · Inflammation · Anaphylaxis · Client Teaching",
    "difficulty": 3,
@@ -990,29 +926,37 @@ window.NURSE_DATA.push({
   },
   {
    "id": "m10d-017",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "anaphylaxis",
    "ref": "Module 10 · Inflammation · Anaphylaxis · Community Response",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "stem": "An off-duty nurse at a community picnic sees an adult who was just stung by a bee. The adult has facial swelling, wheezing, and dizziness and is carrying an epinephrine auto-injector. Place the steps in the order the nurse should perform them.",
+   "stem": "An off-duty nurse at a community picnic sees an adult who was just stung by a bee. The adult has facial swelling, wheezing, and dizziness and is carrying an epinephrine auto-injector. The nurse has directed a bystander to call 911 and has checked the adult's breathing. Which action should the nurse take next?",
    "options": [
-    "Direct a bystander to call 911 while checking the adult's breathing",
-    "Administer the adult's epinephrine auto-injector into the outer thigh",
-    "Help the adult lie down with the legs elevated",
-    "Note the time of the injection and watch for improvement over 5 to 15 minutes",
-    "Report the time and dose of epinephrine to the arriving EMS team"
+    "Help the adult walk to a shaded area to sit down",
+    "Give the adult an oral antihistamine from the first-aid kit",
+    "Administer the auto-injector into the adult's outer thigh",
+    "Note the time and watch for improvement for 5 to 15 minutes"
    ],
    "rationale": "The nurse activates help and assesses the airway first so that EMS is on the way while care begins. Epinephrine is given as soon as anaphylaxis is recognized because delay increases mortality. The client is then positioned to support venous return and prevent collapse (a position of comfort if breathing is difficult). Timing the dose allows a second dose if symptoms persist, and the hand-off to EMS ensures continuity of care.",
    "takeaway": "Call for help, epinephrine, position, time and monitor, hand off.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Recall why the timing of epinephrine is linked to survival and why clients should not stand or walk during anaphylaxis.",
-   "hintStrategy": "Think about which steps can happen at the same time through delegation to a bystander, and which step treats the life threat."
+   "hintStrategy": "Help is on the way and breathing has been checked. Choose the step that treats the life threat.",
+   "answer": 2,
+   "optionRationales": [
+    "A client with anaphylaxis should not stand or walk, because a sudden position change can cause collapse. The adult should lie down with the legs elevated after epinephrine.",
+    "Antihistamines act slowly and do not reverse airway swelling or hypotension. They never replace epinephrine.",
+    "Correct. Epinephrine is given as soon as anaphylaxis is recognized because delay increases mortality.",
+    "The time is noted after the injection so a second dose can be timed. Watching without treating delays care."
+   ]
   },
   {
    "id": "m10d-019",
    "type": "mcq",
+   "priority": true,
    "topic": "anaphylaxis",
    "ref": "Module 10 · Inflammation · Anaphylaxis · Prioritization",
    "difficulty": 3,
@@ -1052,8 +996,7 @@ window.NURSE_DATA.push({
     "Wear a medical alert bracelet or necklace that identifies the allergy",
     "Take an antihistamine at the first symptom and use epinephrine only if it does not work",
     "Follow the written anaphylaxis emergency action plan",
-    "Schedule a follow-up appointment with an allergist",
-    "Stop carrying epinephrine if you go a year without a reaction"
+    "Schedule a follow-up appointment with an allergist"
    ],
    "answer": [
     0,
@@ -1067,10 +1010,9 @@ window.NURSE_DATA.push({
     "Correct. Medical identification speeds recognition and treatment if the client cannot speak.",
     "Incorrect. Antihistamines do not treat airway edema or shock; waiting delays epinephrine.",
     "Correct. A written plan tells the client and others when and how to use epinephrine.",
-    "Correct. An allergist confirms triggers, provides avoidance education, and evaluates long-term management.",
-    "Incorrect. A food allergy that caused anaphylaxis remains a lifelong risk; epinephrine must be carried at all times."
+    "Correct. An allergist confirms triggers, provides avoidance education, and evaluates long-term management."
    ],
-   "rationale": "Discharge after anaphylaxis focuses on avoidance, rapid recognition, and immediate self-treatment. Clients should carry two auto-injectors stored at room temperature, wear medical identification, follow a written action plan, and see an allergist. Relying on antihistamines or stopping epinephrine because of a symptom-free period are dangerous misconceptions.",
+   "rationale": "Discharge after anaphylaxis focuses on avoidance, rapid recognition, and immediate self-treatment. Clients should carry two auto-injectors stored at room temperature, wear medical identification, follow a written action plan, and see an allergist. Relying on antihistamines instead of epinephrine is a dangerous misconception.",
    "takeaway": "Two auto-injectors, ID, action plan, allergist; epinephrine is never replaced by an antihistamine.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
@@ -1079,119 +1021,99 @@ window.NURSE_DATA.push({
   },
   {
    "id": "m10d-022",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "assessment-diagnostics",
    "ref": "Module 10 · Inflammation · Diagnostic Tests (ESR and CRP)",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client is on day 5 of IV antibiotics for an infected leg wound. The CRP has decreased from 12.4 mg/dL on admission to 3.1 mg/dL. The ESR has changed from 72 mm/hr to 68 mm/hr. Complete the sentence.",
-   "template": "The nurse interprets the CRP trend as {0}. The ESR result is best explained by the fact that ESR {1}.",
-   "blanks": [
-    {
-     "options": [
-      "evidence of treatment failure",
-      "evidence of response to treatment",
-      "a laboratory error",
-      "a sign of a new infection"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "rises and falls more slowly than CRP",
-      "is unaffected by infection",
-      "falls faster than CRP",
-      "measures only viral inflammation"
-     ],
-     "answer": 0
-    }
-   ],
+   "stem": "A client is on day 5 of IV antibiotics for an infected leg wound. The CRP has decreased from 12.4 mg/dL on admission to 3.1 mg/dL. The ESR has changed from 72 mm/hr to 68 mm/hr. Which interpretation by the nurse is accurate?",
    "rationale": "CRP is a protein made by the liver that rises with inflammation and falls quickly once it is controlled, which makes it useful for monitoring response to treatment. ESR is nonspecific and changes slowly, so it may stay elevated for weeks. A falling CRP with a slowly changing ESR is consistent with effective therapy.",
    "takeaway": "CRP changes fast and tracks treatment; ESR lags behind.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Compare how quickly CRP and ESR respond to the start and end of inflammation.",
-   "hintStrategy": "Two markers are moving at different speeds. Decide what each trend means before choosing the explanation."
+   "hintStrategy": "Two markers are moving at different speeds. Decide what each trend means before choosing the explanation.",
+   "options": [
+    "The small ESR change shows the antibiotics are not working",
+    "The CRP shows a response; the ESR is slow to change",
+    "The results conflict, so a laboratory error is likely",
+    "The falling CRP with a high ESR signals a new infection"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "ESR is nonspecific and changes slowly, so a small change after 5 days does not mean treatment has failed.",
+    "Correct. CRP rises and falls quickly with inflammation, so a falling CRP shows response to treatment, while the ESR may stay elevated for weeks.",
+    "The two markers normally change at different speeds, so the pattern does not suggest an error.",
+    "A new infection would make the CRP rise, not fall."
+   ]
   },
   {
    "id": "m10d-024",
-   "type": "matrix",
+   "type": "sata",
    "topic": "assessment-diagnostics",
    "ref": "Module 10 · Inflammation · Nursing Assessment · Local Inflammation vs Infection",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is assessing a client's abdominal incision on postoperative day 2 after an open colectomy for ulcerative colitis. For each finding, indicate whether it is expected or requires follow-up.",
-   "rows": [
-    "Pink edges extending 2 mm from the approximated incision",
-    "Scant serosanguineous drainage on the dressing",
-    "Red streak extending 5 cm from the incision toward the flank",
-    "Thick, cloudy drainage with a foul odor",
-    "Mild tenderness around the incision"
-   ],
-   "columns": [
-    "Expected",
-    "Requires follow-up"
-   ],
+   "stem": "The nurse is assessing a client's abdominal incision on postoperative day 2 after an open colectomy for ulcerative colitis. Which findings require follow-up? Select all that apply.",
    "answer": [
-    0,
-    0,
-    1,
-    1,
-    0
+    2,
+    3
    ],
    "optionRationales": [
-    "Expected. A narrow band of pinkness reflects the normal vascular phase of inflammation during early healing.",
-    "Expected. Small amounts of serosanguineous drainage are normal in the first days after surgery.",
-    "Requires follow-up. Red streaking suggests spreading infection (lymphangitis) beyond the wound.",
-    "Requires follow-up. Purulent, odorous drainage indicates infection rather than normal exudate.",
-    "Expected. Mild local tenderness is part of the normal inflammatory response to surgical tissue injury."
+    "Narrow pink edges along an approximated incision are a normal inflammatory response.",
+    "Scant serosanguineous drainage is expected early in healing.",
+    "Correct. A red streak extending from the incision suggests spreading infection.",
+    "Correct. Thick, cloudy, foul-smelling drainage is purulent and suggests infection.",
+    "Mild tenderness around the incision is expected on postoperative day 2."
    ],
    "rationale": "Every surgical wound shows a normal inflammatory response: mild redness at the edges, some swelling, tenderness, and serous or serosanguineous drainage. Findings that spread beyond the wound, increase over time, or involve purulent drainage suggest infection. Recognizing the difference prevents both over-reporting expected findings and missing early infection.",
    "takeaway": "Narrow pink edges and scant serosanguineous drainage are normal; streaking and pus are not.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the normal appearance of a healing wound and the local signs that suggest infection.",
-   "hintStrategy": "Ask whether each finding is limited to the wound edge and mild, or spreading and changing in character."
+   "hintStrategy": "Ask whether each finding is limited to the wound edge and mild, or spreading and changing in character.",
+   "options": [
+    "Pink edges extending 2 mm from the approximated incision",
+    "Scant serosanguineous drainage on the dressing",
+    "Red streak extending 5 cm from the incision toward the flank",
+    "Thick, cloudy drainage with a foul odor",
+    "Mild tenderness around the incision"
+   ]
   },
   {
    "id": "m10d-025",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "assessment-diagnostics",
    "ref": "Module 10 · Inflammation · Diagnostic Tests · Chronic Inflammation",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A 29-year-old woman with joint pain, fatigue, and a rash over the cheeks is being evaluated for systemic lupus erythematosus. Her ESR is 58 mm/hr. Complete the sentence.",
-   "template": "The nurse recognizes that the ESR is {0}, and the nurse expects the serum protein electrophoresis to show {1}.",
-   "blanks": [
-    {
-     "options": [
-      "within normal limits for a woman",
-      "elevated for a woman",
-      "lower than expected",
-      "elevated only for a man"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "increased gamma globulin with decreased albumin",
-      "decreased gamma globulin with increased albumin",
-      "normal protein fractions",
-      "decreased gamma globulin and albumin"
-     ],
-     "answer": 0
-    }
-   ],
+   "stem": "A 29-year-old woman with joint pain, fatigue, and a rash over the cheeks is being evaluated for systemic lupus erythematosus. Her ESR is 58 mm/hr. Which serum protein electrophoresis result should the nurse expect?",
    "rationale": "The normal ESR for a woman is about 0–20 mm/hr, so 58 mm/hr indicates active inflammation. In SLE, B cells produce large amounts of autoantibodies (immunoglobulins), increasing the gamma globulin fraction, while albumin often falls with chronic inflammation or renal loss. These nonspecific tests support the diagnosis alongside specific tests such as ANA.",
    "takeaway": "SLE: high ESR, high gamma globulin, low albumin.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the normal ESR range for women and which protein fraction contains antibodies.",
-   "hintStrategy": "Check the value against the sex-specific range first, then think about what an autoimmune disease produces in excess."
+   "hintStrategy": "Confirm that the ESR is elevated for a woman, then think about what an autoimmune disease produces in excess.",
+   "options": [
+    "Decreased gamma globulin with increased albumin",
+    "Normal protein fractions",
+    "Decreased gamma globulin and albumin",
+    "Increased gamma globulin, decreased albumin"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Autoantibody production raises, not lowers, gamma globulin, and albumin tends to fall with chronic inflammation.",
+    "Active autoimmune inflammation, reflected by an ESR of 58 mm/hr (normal for a woman is about 0–20 mm/hr), changes the protein fractions.",
+    "Albumin may fall, but gamma globulin rises because B cells produce large amounts of autoantibodies.",
+    "Correct. In SLE, B cells produce large amounts of autoantibodies (immunoglobulins), which increases the gamma globulin fraction, while albumin often falls with chronic inflammation or renal loss."
+   ]
   },
   {
    "id": "m10d-026",
    "type": "mcq",
+   "priority": true,
    "topic": "assessment-diagnostics",
    "ref": "Module 10 · Inflammation · Diagnostic Tests (Prioritizing Results)",
    "difficulty": 3,
@@ -1257,6 +1179,7 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-032",
    "type": "mcq",
+   "priority": false,
    "topic": "pharmacology",
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy · Non-opioid Analgesics",
    "difficulty": 1,
@@ -1285,11 +1208,12 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-034",
    "type": "mcq",
+   "priority": true,
    "topic": "pharmacology",
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy · NSAID Safety",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client is prescribed ibuprofen 600 mg every 6 hours for acute tendinitis. Which item in the client's medication history should the nurse clarify with the prescriber before giving the first dose?",
+   "stem": "A client is prescribed ibuprofen 600 mg every 6 hours for acute tendinitis. Which item in the client's medication history is most important for the nurse to clarify with the prescriber before giving the first dose?",
    "options": [
     "Levothyroxine 75 mcg daily",
     "Loratadine 10 mg daily in spring",
@@ -1312,47 +1236,42 @@ window.NURSE_DATA.push({
   },
   {
    "id": "m10d-035",
-   "type": "matrix",
+   "type": "sata",
    "topic": "pharmacology",
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy · NSAID Contraindications",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "The nurse is reviewing prescriptions for an oral NSAID written for several clients. For each client, indicate whether an NSAID is appropriate or should be questioned.",
-   "rows": [
-    "A 25-year-old with an ankle sprain and no medical history",
-    "A client who takes warfarin for atrial fibrillation",
-    "A client with chronic kidney disease and an eGFR of 22 mL/min/1.73 m²",
-    "A 32-year-old with primary dysmenorrhea",
-    "A client with a bleeding duodenal ulcer diagnosed last week"
-   ],
-   "columns": [
-    "Appropriate",
-    "Question the prescription"
-   ],
+   "stem": "The nurse is reviewing prescriptions for an oral NSAID written for several clients. For which clients should the nurse question the prescription? Select all that apply.",
    "answer": [
-    0,
     1,
-    1,
-    0,
-    1
+    2,
+    4
    ],
    "optionRationales": [
-    "Appropriate. Short-term NSAID use for acute soft-tissue inflammation in a healthy adult is standard therapy.",
-    "Question. NSAIDs increase the risk of bleeding with warfarin and other anticoagulants.",
-    "Question. NSAIDs reduce renal blood flow and can worsen kidney function in advanced CKD.",
-    "Appropriate. NSAIDs reduce the prostaglandins that cause uterine cramping and are first-line for primary dysmenorrhea.",
-    "Question. NSAIDs inhibit protective gastric prostaglandins and platelets and are contraindicated with active GI bleeding."
+    "An NSAID is appropriate for acute inflammation from a sprain in a healthy adult.",
+    "Correct. NSAIDs impair platelet function and irritate the stomach lining, which increases bleeding risk with warfarin.",
+    "Correct. NSAIDs reduce kidney blood flow and can worsen advanced chronic kidney disease.",
+    "NSAIDs are effective for prostaglandin-mediated menstrual pain.",
+    "Correct. NSAIDs block the prostaglandins that protect the stomach lining and can worsen an active ulcer."
    ],
    "rationale": "NSAIDs are effective for acute inflammation and prostaglandin-mediated pain, but their effects on the stomach lining, kidneys, and bleeding create important cautions. Clients with active GI bleeding, advanced kidney disease, or anticoagulant therapy need the prescription questioned.",
    "takeaway": "Question NSAIDs with active GI bleeding, advanced kidney disease, or anticoagulants.",
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
    "hintContent": "Recall the organ systems affected when NSAIDs block prostaglandins and the drug interactions that increase bleeding.",
-   "hintStrategy": "For each client, ask whether the condition involves an organ that NSAIDs can harm."
+   "hintStrategy": "For each client, ask whether the condition involves an organ that NSAIDs can harm.",
+   "options": [
+    "A 25-year-old with an ankle sprain and no medical history",
+    "A client who takes warfarin for atrial fibrillation",
+    "A client with chronic kidney disease and an eGFR of 22 mL/min/1.73 m²",
+    "A 32-year-old with primary dysmenorrhea",
+    "A client with a bleeding duodenal ulcer diagnosed last week"
+   ]
   },
   {
    "id": "m10d-036",
    "type": "mcq",
+   "priority": false,
    "topic": "pharmacology",
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy · Corticosteroids",
    "difficulty": 3,
@@ -1381,6 +1300,7 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-037",
    "type": "mcq",
+   "priority": false,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · Independent Interventions · Heat and Cold",
    "difficulty": 1,
@@ -1409,6 +1329,7 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-040",
    "type": "mcq",
+   "priority": false,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · Surgery (Cholecystectomy)",
    "difficulty": 2,
@@ -1436,52 +1357,37 @@ window.NURSE_DATA.push({
   },
   {
    "id": "m10d-041",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": true,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · Lifespan Considerations · Children",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 14-month-old who weighs 10 kg (22 lb) has had acute gastroenteritis with diarrhea for 2 days. The parent reports only two wet diapers today. The child is alert, with moist mucous membranes. Complete the sentence.",
-   "template": "The nurse recognizes that the child is at greater risk than an adult because {0}. The priority intervention is to {1}, and the nurse will evaluate effectiveness by monitoring {2}.",
-   "blanks": [
-    {
-     "options": [
-      "children have a larger total fluid volume",
-      "fluid losses are a larger proportion of a child's total body water",
-      "children's kidneys concentrate urine better",
-      "children rarely develop fever"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "give small, frequent amounts of oral rehydration solution",
-      "withhold all fluids for 24 hours",
-      "offer undiluted apple juice",
-      "give an over-the-counter antidiarrheal"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "the number of wet diapers",
-      "serum CRP",
-      "the child's height",
-      "stool color"
-     ],
-     "answer": 0
-    }
-   ],
+   "stem": "A 14-month-old who weighs 10 kg (22 lb) has had acute gastroenteritis with diarrhea for 2 days. The parent reports only two wet diapers today. The child is alert, with moist mucous membranes. Which intervention is the nurse's priority?",
    "rationale": "Infants and young children have a higher proportion of body water, a higher metabolic rate, and immature kidneys that cannot concentrate urine well, so fluid losses from inflammation of the GI tract quickly lead to dehydration. Mild to moderate dehydration is treated with small, frequent amounts of oral rehydration solution. Urine output (wet diapers) is an easy and reliable indicator of hydration.",
    "takeaway": "Children dehydrate fast; small, frequent ORS and count the wet diapers.",
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall how body water, metabolic rate, and kidney maturity differ between young children and adults.",
-   "hintStrategy": "Complete each blank in order; the intervention and the evaluation measure should match the problem you identify first."
+   "hintStrategy": "Consider why fluid loss is more dangerous in a young child, then choose the intervention that safely replaces fluid and electrolytes.",
+   "options": [
+    "Offer undiluted apple juice to replace the lost fluids",
+    "Give an over-the-counter antidiarrheal medication",
+    "Give small, frequent sips of oral rehydration solution",
+    "Withhold all fluids for 24 hours to rest the bowel"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Undiluted juice is high in sugar, can worsen diarrhea, and does not replace electrolytes.",
+    "Antidiarrheal drugs are not recommended for young children and do not correct fluid loss.",
+    "Correct. Fluid losses are a larger proportion of a young child's total body water, so dehydration develops quickly. Mild to moderate dehydration is treated with small, frequent amounts of oral rehydration solution, and effectiveness is judged by counting wet diapers.",
+    "Withholding fluids would rapidly worsen dehydration in a young child."
+   ]
   },
   {
    "id": "m10d-042",
    "type": "mcq",
+   "priority": false,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · Independent Interventions · Psychosocial Support",
    "difficulty": 2,
@@ -1546,6 +1452,7 @@ window.NURSE_DATA.push({
   {
    "id": "m10d-045",
    "type": "mcq",
+   "priority": false,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · Independent Interventions · Evaluating Cellulitis",
    "difficulty": 1,

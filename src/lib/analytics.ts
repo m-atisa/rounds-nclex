@@ -1,6 +1,6 @@
 import { MODULE_BY_ID, QUESTIONS, getTopic, topicKey } from '../data';
-import type { Question, QuestionType } from '../data/types';
-import { TYPE_LABEL } from '../data/types';
+import type { Question } from '../data/types';
+import { FORMAT_LABEL, formatOf, type Format } from '../data/types';
 import type { Attempt } from '../store/progress';
 import type { Mastery } from './scoring';
 import { dayKey, shuffle } from './util';
@@ -51,7 +51,7 @@ export interface GroupStat {
 }
 
 const keyFns: Record<Dimension, (q: Question) => string> = {
-  type: (q) => q.type,
+  type: (q) => formatOf(q),
   cjmm: (q) => q.cjmm ?? 'Unspecified',
   focus: (q) => q.focus ?? 'Unspecified',
   topic: (q) => topicKey(q.moduleId, q.topic),
@@ -59,7 +59,7 @@ const keyFns: Record<Dimension, (q: Question) => string> = {
 };
 
 function labelFor(dim: Dimension, key: string): { label: string; sub?: string } {
-  if (dim === 'type') return { label: TYPE_LABEL[key as QuestionType] ?? key };
+  if (dim === 'type') return { label: FORMAT_LABEL[key as Format] ?? key };
   if (dim === 'module') {
     const m = MODULE_BY_ID[key];
     return { label: m ? m.title : key, sub: m ? `Module ${m.number}` : undefined };
@@ -224,7 +224,7 @@ export function matchQuestions(f: Filters, attempts: Record<string, Attempt[]>):
       // Topic filters only narrow the modules they belong to.
       if (topicsForModule.length && !topicsForModule.includes(topicKey(q.moduleId, q.topic))) return false;
     }
-    if (!has(f.types, q.type) || !has(f.focus, q.focus) || !has(f.cjmm, q.cjmm) || !has(f.difficulty, String(q.difficulty)))
+    if (!has(f.types, formatOf(q)) || !has(f.focus, q.focus) || !has(f.cjmm, q.cjmm) || !has(f.difficulty, String(q.difficulty)))
       return false;
     const st = statusOf(attempts, q.id);
     if (f.cases === 'only' && !q.caseId) return false;

@@ -1,0 +1,1442 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m21",
+ "moduleNumber": 21,
+ "moduleTitle": "Tissue Integrity",
+ "kind": "guide",
+ "topics": [
+  {
+   "id": "skin-structure-function",
+   "title": "Skin Structure & Function",
+   "exemplar": null,
+   "summary": "Your skin is the body's largest organ. Learn its three layers and five jobs, and you can predict what goes wrong when it is damaged.",
+   "objectives": [
+    "Define tissue integrity and impaired tissue integrity, and name the groups most at risk.",
+    "Describe the epidermis, dermis, and subcutaneous tissue and what each layer contains.",
+    "Explain the five main functions of the skin and what happens to the client when each one fails.",
+    "Use the layers to reason at the bedside (for example, \"If it bleeds, it has reached the dermis\").",
+    "Compare skin in infants, adults, and older adults and explain why the differences matter for nursing care."
+   ],
+   "bigPicture": "<p>Almost every client you care for will have skin that needs protecting. The client on bed rest, the toddler with a diaper rash, the older adult who bruises when you touch their arm, the client with diabetes who cannot feel their feet: all of them have a tissue integrity problem or are at risk for one.</p><p>The good news is that you do not need to memorize a long list of facts. If you understand the <strong>three layers</strong> of the skin and the <strong>five jobs</strong> the skin does, you can figure out most bedside questions yourself. When a layer is damaged, the job that layer does will fail, and that failure tells you what to assess and what to do.</p><p>This lesson builds that foundation. Every other lesson in this module, from infections to rashes to aging skin, sits on top of it.</p>",
+   "keyTerms": [
+    {
+     "term": "Integumentary system",
+     "def": "The skin plus its accessory structures: hair, nails, and glands (sweat and oil glands)."
+    },
+    {
+     "term": "Tissue integrity",
+     "def": "The state of having intact (unbroken, healthy) skin, mucous membranes, cornea, and subcutaneous tissue."
+    },
+    {
+     "term": "Impaired tissue integrity",
+     "def": "Damage to the epidermis and/or dermis, such as a wound, rash, burn, or pressure injury."
+    },
+    {
+     "term": "Epidermis",
+     "def": "The thin outer layer of skin. It is the barrier layer and has no blood vessels (it is avascular)."
+    },
+    {
+     "term": "Avascular",
+     "def": "Having no blood vessels. The epidermis gets its nutrients by diffusion from the dermis below it."
+    },
+    {
+     "term": "Keratin",
+     "def": "A tough protein in the epidermis that makes skin durable and water-resistant."
+    },
+    {
+     "term": "Melanin",
+     "def": "The pigment made by cells called melanocytes. It gives skin its color and protects against ultraviolet (UV) damage."
+    },
+    {
+     "term": "Dermis",
+     "def": "The middle \"working layer\" of skin. It holds blood vessels, nerve endings, sweat and oil glands, hair follicles, and collagen."
+    },
+    {
+     "term": "Collagen",
+     "def": "A strong protein fiber in the dermis that gives skin its strength and firmness."
+    },
+    {
+     "term": "Sebaceous gland",
+     "def": "An oil gland in the dermis. It makes sebum, an oily substance that keeps skin and hair soft."
+    },
+    {
+     "term": "Subcutaneous tissue (hypodermis)",
+     "def": "The innermost layer under the dermis. It is mostly fat. It cushions, insulates, and anchors the skin."
+    },
+    {
+     "term": "Thermoregulation",
+     "def": "The body's control of its temperature. The skin helps by widening or narrowing blood vessels and by sweating."
+    },
+    {
+     "term": "Neuropathy",
+     "def": "Nerve damage that causes numbness or loss of feeling, common in the feet of clients with diabetes."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "What \"tissue integrity\" means",
+     "body": "<p>The <strong>integumentary system</strong> is the skin plus the hair, nails, and glands. The skin is the <strong>largest organ</strong> in the body. Its big job is to protect you and keep your body working normally.</p><p><strong>Tissue integrity</strong> is a little broader than \"skin.\" It means the client has <strong>intact skin, mucous membranes, cornea, and subcutaneous tissue</strong>. Mucous membranes are the moist linings of the mouth, nose, and other body openings. The cornea is the clear front surface of the eye. All of these are barriers between the body and the outside world.</p><p><strong>Impaired tissue integrity</strong> means there is damage to the <strong>epidermis and/or dermis</strong>. A scrape, a surgical incision, a pressure injury, a burn, and a rash with open blisters are all examples.</p><p>Tissue integrity is influenced by two kinds of factors. <strong>Internal factors</strong> come from inside the client: genetics, age, and overall health. <strong>External factors</strong> come from outside: activity level, environment, and injury.</p>",
+     "bullets": [
+      "<strong>Older adults</strong>: thinner, more fragile skin that heals slowly.",
+      "<strong>Clients with limited mobility</strong>: constant pressure on the same spots cuts off blood flow.",
+      "<strong>Clients with chronic illness</strong> (for example, diabetes): poor circulation and poor healing.",
+      "<strong>Trauma</strong>: injuries break the skin directly.",
+      "<strong>Invasive procedures</strong>: surgery, IV lines, and catheters all create openings in the barrier."
+     ],
+     "check": {
+      "q": "Which of these is an internal factor that affects tissue integrity: a client's age, or the client's job working with harsh chemicals?",
+      "a": "Age. Internal factors come from inside the client (genetics, age, health). Chemical exposure at work is an external factor."
+     }
+    },
+    {
+     "heading": "Layer 1: the epidermis, the barrier",
+     "body": "<p>The <strong>epidermis</strong> is the thin outer layer you can see and touch. Its main job is to be a <strong>barrier</strong>. It keeps germs, water, and chemicals out, and keeps body fluids in.</p><p>Two substances make this layer special. <strong>Keratin</strong> is a tough protein that makes the epidermis <strong>durable and water-resistant</strong>. That is why you can wash your hands without your skin soaking up water like a sponge. <strong>Melanin</strong> is the pigment that gives skin its color. It works like a built-in sunscreen by absorbing ultraviolet (UV) light and <strong>protecting against UV damage</strong>. People with more melanin have darker skin and more natural UV protection, but no skin tone is fully protected.</p><p>Here is the key bedside fact: <strong>the epidermis has no blood vessels</strong>. It is avascular. It gets its nutrients by diffusion from the dermis below. So an injury that stays in the epidermis does <strong>not bleed</strong>. It also usually does not hurt much, because the pain nerve endings live in the dermis.</p>",
+     "analogy": "Think of the epidermis as the shingles on a roof. The shingles themselves have no pipes or wires in them. Their only job is to keep the weather out. If rain gets past the shingles, the damage is now happening in the part of the house that has plumbing and wiring.",
+     "example": "<strong>At the bedside:</strong> A client scraped a knee on the sidewalk. The scrape is oozing small drops of blood and hurts when touched. Which layer has been reached? The epidermis has no blood vessels or pain nerve endings, so bleeding plus pain tells you the injury has reached the <strong>dermis</strong>. The nurse cleans it and covers it, because the barrier is now open to germs."
+    },
+    {
+     "heading": "Layer 2: the dermis, the \"working layer\"",
+     "body": "<p>The <strong>dermis</strong> sits under the epidermis. Your slides call it the <strong>\"working layer\"</strong> of the skin, because this is where most of the skin's jobs actually happen. It contains:</p>",
+     "bullets": [
+      "<strong>Blood vessels</strong>: feed the skin and help control body temperature.",
+      "<strong>Nerve endings</strong>: sense touch, pain, pressure, and temperature.",
+      "<strong>Sweat glands</strong>: cool the body and remove some wastes.",
+      "<strong>Oil (sebaceous) glands</strong>: make sebum that keeps skin soft and helps it hold water.",
+      "<strong>Hair follicles</strong>: where hairs grow.",
+      "<strong>Collagen and elastic fibers</strong>: give skin its strength and its ability to stretch and snap back."
+     ],
+     "table": {
+      "caption": "What happens when the dermis is damaged or thinned",
+      "headers": [
+       "Part of the dermis",
+       "What it normally does",
+       "If it is damaged or reduced"
+      ],
+      "rows": [
+       [
+        "Blood vessels",
+        "Bring oxygen and nutrients; control heat loss",
+        "Bleeding, easy bruising, poor healing"
+       ],
+       [
+        "Nerve endings",
+        "Warn you about pain, pressure, heat",
+        "Client does not notice injuries (burns, blisters, pressure)"
+       ],
+       [
+        "Sweat glands",
+        "Cool the body",
+        "Overheating"
+       ],
+       [
+        "Sebaceous glands",
+        "Keep skin soft and moist",
+        "Dry, itchy, cracked skin"
+       ],
+       [
+        "Collagen",
+        "Strength and firmness",
+        "Thin, fragile skin that tears; wrinkles"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> Mr. R, 67, has COPD and has taken prednisone (a steroid) every day for 2 years. His forearms have thin, shiny skin with purple bruises and a healing skin tear. Long-term steroid use thins the dermis and weakens collagen, so the small blood vessels have less support and break easily. What does the nurse do? Handle his skin gently (like tissue paper), lift instead of dragging, pad hard surfaces, and avoid tape on his skin."
+    },
+    {
+     "heading": "Layer 3: the subcutaneous tissue, the cushion",
+     "body": "<p>Under the dermis is the <strong>subcutaneous tissue</strong>, also called the <strong>hypodermis</strong>. Technically it is <strong>not part of the skin</strong>, but it is vital for protection.</p><p>This layer <strong>stores about half of the body's fat cells</strong>. That fat does three things. It <strong>cushions</strong> bones and organs against bumps and pressure. It <strong>insulates</strong> the body, holding in heat. And it <strong>anchors the skin</strong> to the muscles and bones underneath.</p><p>When this layer shrinks, as it does in older adults and in clients who are very thin, the client loses padding over bony areas (like the hips, tailbone, and heels) and has trouble staying warm. That is why older adults often feel cold and why they are at higher risk for pressure injuries.</p>",
+     "analogy": "The three layers work like a well-built mattress. The epidermis is the waterproof cover. The dermis is the busy middle with all the springs and wiring. The subcutaneous fat is the foam padding at the bottom that absorbs pressure and keeps the heat in. Take away the foam, and every bump goes straight through."
+    },
+    {
+     "heading": "The five jobs of the skin",
+     "body": "<p>Your slides list five main functions. For each one, think about what the client will experience if that function fails.</p>",
+     "table": {
+      "caption": "Skin functions and what failure looks like",
+      "headers": [
+       "Function",
+       "How the skin does it",
+       "When it fails, you see…"
+      ],
+      "rows": [
+       [
+        "1. Protection",
+        "Intact barrier keeps out microorganisms and absorbs minor trauma; keeps fluids in",
+        "Infection, fluid loss (for example, after a large burn or wound)"
+       ],
+       [
+        "2. Sensation",
+        "Nerve endings detect touch, pain, pressure, temperature",
+        "Injuries the client does not notice (neuropathy, older adults)"
+       ],
+       [
+        "3. Temperature regulation",
+        "Blood vessels widen (release heat) or narrow (save heat); sweat evaporates to cool",
+        "Overheating or getting cold easily"
+       ],
+       [
+        "4. Removing toxins",
+        "Small amounts of wastes leave the body in sweat",
+        "Less important day to day, but part of normal function"
+       ],
+       [
+        "5. Vitamin D synthesis",
+        "UV light striking the skin starts making vitamin D",
+        "Low vitamin D, which weakens bones"
+       ]
+      ]
+     },
+     "bullets": [
+      "<strong>Temperature regulation, in more detail</strong>: when you are hot, blood vessels in the dermis <strong>dilate</strong> (widen), bringing warm blood near the surface to release heat, and sweat glands release sweat that cools you as it evaporates. When you are cold, the vessels <strong>constrict</strong> (narrow) to keep warm blood deep in the body.",
+      "<strong>Vitamin D, in more detail</strong>: UV light from the sun starts vitamin D production in the skin. Clients who get <strong>little sun</strong> (homebound, in long-term care, covered clothing), who have <strong>darker skin</strong> (more melanin blocks more UV), or who are <strong>older</strong> (aging skin makes less) are at higher risk for low vitamin D."
+     ],
+     "check": {
+      "q": "Which client has the greatest risk for vitamin D deficiency: a 25-year-old lifeguard with light skin, or an 82-year-old homebound client with dark skin?",
+      "a": "The 82-year-old. Older age, darker skin, and little sun exposure each reduce vitamin D production in the skin, so that client has three risks at once."
+     }
+    },
+    {
+     "heading": "Reasoning from function: three bedside scenarios",
+     "body": "<p>NCLEX-style questions often describe a problem and ask you what matters most. Match the problem to the function that failed.</p>",
+     "steps": [
+      "Ask: <strong>Which layer is damaged or changed?</strong> (Epidermis, dermis, or subcutaneous tissue.)",
+      "Ask: <strong>Which job does that layer do?</strong> (Barrier, sensation, temperature, vitamin D, cushioning.)",
+      "Ask: <strong>What is the danger if that job fails?</strong> (Infection, fluid loss, unnoticed injury, heat loss.)",
+      "Choose the nursing action that <strong>protects the failed function</strong> or replaces it."
+     ],
+     "example": "<strong>Scenario 1:</strong> A client has lost a large area of epidermis and dermis on the back and legs. The barrier is gone, so the priority problems are <strong>fluid loss and infection</strong> (and heat loss). These are more urgent than body image or boredom.<br><br><strong>Scenario 2:</strong> Ms. T has diabetic neuropathy. Monofilament testing shows no feeling on the soles of both feet. Her sensation function has failed, so she must replace feeling with <strong>looking</strong>. She should inspect her feet every day (using a mirror if needed), wear shoes, and test bath water with a thermometer or her elbow, not her feet. If she says, \"I test the bath water with my toes,\" she needs more teaching.<br><br><strong>Scenario 3:</strong> An older adult with little subcutaneous fat is shivering in a cool room. The insulation function is reduced. The nurse adds blankets and warm clothing."
+    },
+    {
+     "heading": "Skin across the lifespan: a first look",
+     "body": "<p>Your slides give a quick snapshot of how skin changes with age. You will study this in more depth in the lifespan lesson, but it helps to see the pattern now.</p>",
+     "table": {
+      "caption": "Skin at three ages",
+      "headers": [
+       "Age group",
+       "What the skin is like",
+       "Why it matters"
+      ],
+      "rows": [
+       [
+        "Infants",
+        "Thinner skin, less protection",
+        "Lose heat quickly; absorb products put on the skin more easily; injure easily"
+       ],
+       [
+        "Adults",
+        "Thicker, more hydrated skin",
+        "Strongest barrier of the lifespan"
+       ],
+       [
+        "Older adults",
+        "Thinner, less elastic skin; less fat and fewer oil glands",
+        "Tears and bruises easily, dry and itchy, heals slowly, feels cold"
+       ]
+      ]
+     }
+    }
+   ],
+   "pearls": [
+    "The epidermis has no blood vessels. If a wound bleeds, it has reached at least the dermis.",
+    "A large loss of skin threatens three things at once: fluid, infection, and heat. On a priority question, these beat comfort or self-image.",
+    "When sensation is lost (neuropathy), teach the client to use their eyes and a thermometer in place of their feet. Any plan that relies on the client \"feeling\" an injury is wrong.",
+    "Older age + dark skin + little sun = highest risk for low vitamin D.",
+    "Long-term steroids thin the dermis. Expect easy bruising and skin tears, and handle the skin gently."
+   ],
+   "redFlags": [
+    "Loss of skin over a large area → watch closely for fluid loss (↑ heart rate, ↓ blood pressure, ↓ urine), heat loss, and signs of infection; report changes right away.",
+    "A client with no feeling in the feet who has a new blister, redness, or open area → report it; small injuries can become serious because the client cannot feel them getting worse."
+   ],
+   "recap": [
+    "Tissue integrity = intact skin, mucous membranes, cornea, and subcutaneous tissue.",
+    "Impaired tissue integrity = damage to the epidermis and/or dermis.",
+    "Epidermis = barrier; keratin makes it tough and water-resistant; melanin protects against UV; no blood vessels.",
+    "Dermis = \"working layer\" with vessels, nerves, sweat and oil glands, hair follicles, and collagen.",
+    "Subcutaneous tissue = about half the body's fat; cushions, insulates, anchors the skin.",
+    "Five jobs: protection, sensation, temperature regulation, toxin removal, vitamin D synthesis.",
+    "At-risk groups: older adults, limited mobility, chronic illness, trauma, invasive procedures.",
+    "Infants have thin skin, adults thick skin, older adults thin and less elastic skin."
+   ],
+   "checks": [
+    {
+     "q": "A client's skin has a shallow scrape that is red but is not bleeding and is barely painful. Which layer is most likely involved?",
+     "a": "The epidermis only. It has no blood vessels and few pain nerve endings, so an epidermal injury does not bleed and hurts little."
+    },
+    {
+     "q": "A client has lost skin over 30% of the body. Which nursing concern is the priority: body image, fluid volume, or knowledge about skin care?",
+     "a": "Fluid volume (along with infection risk). The skin's barrier keeps fluids in and germs out; losing it is an immediate physical threat."
+    },
+    {
+     "q": "A client with diabetic neuropathy says, \"I'll know if I get a blister because it will hurt.\" What should the nurse do?",
+     "a": "Reteach. Neuropathy removes the pain warning, so the client must inspect the feet daily and protect them with shoes and safe water temperatures."
+    },
+    {
+     "q": "An 84-year-old client is always cold and has little padding over the hips. Which skin layer change explains both?",
+     "a": "Loss of subcutaneous fat, which normally insulates the body and cushions bony areas."
+    }
+   ]
+  },
+  {
+   "id": "skin-assessment-lesions",
+   "title": "Skin Assessment, Skin Tone & Lesions",
+   "exemplar": null,
+   "summary": "Learn how to look at and feel the skin of any client, in any skin tone, and describe exactly what you find using the right lesion names.",
+   "objectives": [
+    "Perform a focused skin assessment using inspection and palpation, and collect a useful skin history.",
+    "Adapt assessment for darker skin tones: where to look for pallor, cyanosis, jaundice, and early pressure damage.",
+    "Classify skin disorders as acute or chronic and as infectious, inflammatory, or neoplastic.",
+    "Identify primary and secondary skin lesions and document them accurately.",
+    "Recognize when skin findings point to a body-wide (systemic) problem or an emergency."
+   ],
+   "bigPicture": "<p>The skin is the only organ you can see the whole time you are with a client. That makes it one of your best early-warning tools. A gray tint to the lips, a warm, firm patch over the tailbone, or a rash that looks exactly like a watch band all tell you something important, if you know how to read them.</p><p>Reading skin well takes two skills. First, you must <strong>look and feel correctly</strong>, and adjust for skin tone, because redness and paleness look different on darker skin. Second, you must <strong>name what you see</strong> with the right words, so the next nurse and the provider know exactly what you found. \"Rash on arm\" is not an assessment. \"Cluster of 0.5-cm clear-fluid vesicles on the left forearm, no drainage\" is.</p><p>Your slides say hands-on skin assessment is \"coming soon to an assessment lab near you.\" This lesson gives you the knowledge you will practice there.</p>",
+   "keyTerms": [
+    {
+     "term": "Inspection",
+     "def": "Looking carefully at the skin, in good light, and comparing both sides of the body."
+    },
+    {
+     "term": "Palpation",
+     "def": "Feeling the skin with your hands to check temperature, moisture, texture, swelling, and firmness."
+    },
+    {
+     "term": "Pallor",
+     "def": "Paleness caused by less blood flow or less hemoglobin (for example, anemia or shock)."
+    },
+    {
+     "term": "Cyanosis",
+     "def": "A bluish or gray color caused by low oxygen in the blood."
+    },
+    {
+     "term": "Jaundice",
+     "def": "Yellowing of the skin and eyes caused by a buildup of bilirubin, often from liver disease."
+    },
+    {
+     "term": "Buccal mucosa",
+     "def": "The inside lining of the cheeks."
+    },
+    {
+     "term": "Sclera",
+     "def": "The white part of the eye."
+    },
+    {
+     "term": "Induration",
+     "def": "An area of tissue that feels hard or firm when you press it, often from swelling or inflammation."
+    },
+    {
+     "term": "Melasma",
+     "def": "Dark brown patches on the face caused by sun exposure (and hormones); more common in darker skin."
+    },
+    {
+     "term": "Lesion",
+     "def": "Any abnormal spot or area on the skin."
+    },
+    {
+     "term": "Primary lesion",
+     "def": "A lesion that appears first, on previously normal skin (for example, a vesicle)."
+    },
+    {
+     "term": "Secondary lesion",
+     "def": "A lesion that develops from a primary lesion or from trauma such as scratching (for example, a crust)."
+    },
+    {
+     "term": "Neoplastic",
+     "def": "Related to abnormal new growth of cells, such as cancer."
+    },
+    {
+     "term": "Remission",
+     "def": "A period when a chronic disease is controlled and symptoms are quiet, even though it is not cured."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "How to do a focused skin assessment",
+     "body": "<p>Skin assessment uses two techniques: <strong>inspection</strong> (looking) and <strong>palpation</strong> (feeling). Use good light, natural light if possible, because yellow room lights can hide color changes. Always <strong>compare both sides</strong> of the body. A change that is only on one side is easier to spot when you have the other side to compare with.</p><p>Assess these features every time:</p>",
+     "bullets": [
+      "<strong>Color</strong>: pallor, redness, cyanosis, jaundice, bruising, dark or light patches.",
+      "<strong>Temperature</strong>: use the back of your hand; compare with nearby skin.",
+      "<strong>Moisture</strong>: dry, oily, sweaty, clammy.",
+      "<strong>Texture</strong>: smooth, rough, thin, shiny, scaly.",
+      "<strong>Edema and induration</strong>: swelling or hard areas.",
+      "<strong>Lesions</strong>: anything abnormal, described carefully (see below)."
+     ],
+     "steps": [
+      "<strong>Ask first</strong>: When did it start? Does it itch, burn, or hurt? Has it changed or spread? Any new soaps, lotions, detergents, foods, medications, or jewelry? Sun exposure? Anyone at home with the same problem? What home remedies have you tried?",
+      "<strong>Look</strong>: note the type of lesion, its <strong>size</strong> (measure in mm or cm), <strong>color</strong>, <strong>shape</strong>, <strong>distribution</strong> (where on the body and in what pattern), and any <strong>drainage</strong>.",
+      "<strong>Feel</strong>: temperature, tenderness, firmness, raised or flat.",
+      "<strong>Document</strong> what you found in clear, measurable words. Do not squeeze or pop lesions, and do not diagnose; describe."
+     ],
+     "example": "<strong>At the bedside:</strong> A client comes to the clinic with a rash on the torso that started 4 days ago. The nurse asks about itching, new products, medications, and whether it has spread. The nurse measures the lesions, notes they are oval, pink, and scaly, and maps where they are on the trunk. The nurse does <strong>not</strong> squeeze a lesion to see what comes out and does <strong>not</strong> tell the client, \"This is just an allergy.\" The nurse describes and reports; the provider diagnoses."
+    },
+    {
+     "heading": "Assessing darker skin tones",
+     "body": "<p>Skin color comes mostly from <strong>melanin</strong>, the pigment that protects from UV damage. The more melanin, the darker the skin. This matters because many of the signs you learned as \"color changes\" (pink, red, blue, pale) are <strong>harder to see on darker skin</strong>. The fix is simple: look at places with <strong>less pigment</strong>, and use your <strong>hands</strong> more.</p>",
+     "table": {
+      "caption": "Where to look in darker skin",
+      "headers": [
+       "Finding",
+       "What it may look like in darker skin",
+       "Where to check"
+      ],
+      "rows": [
+       [
+        "Pallor",
+        "Yellow-brown (brown skin) or ashen gray (very dark skin); loss of the normal red undertone",
+        "Conjunctivae (inner lower eyelids), lips, mucous membranes, nail beds"
+       ],
+       [
+        "Cyanosis",
+        "Gray or dull, ashen color rather than blue",
+        "<strong>Nail beds, lips, and buccal mucosa</strong> (inside the cheeks)"
+       ],
+       [
+        "Jaundice",
+        "Yellow tint",
+        "<strong>Sclera, hard palate (roof of the mouth), palms, and soles</strong> (not the sclera alone)"
+       ],
+       [
+        "Redness / pressure injury",
+        "Darker than surrounding skin, purplish, or no visible change",
+        "<strong>Palpate</strong>: warmth, edema, induration; look for taut or shiny skin"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> Mr. B has deeply pigmented skin and a COPD flare. His SpO₂ is 86% on 2 L/min and he is more short of breath. To check for central cyanosis, the nurse inspects his <strong>lips and buccal mucosa</strong>, not the skin of his face or arms. The nurse finds grayish lips and oral mucosa and reports it right away along with the low SpO₂."
+    },
+    {
+     "heading": "Finding early pressure damage in darker skin",
+     "body": "<p>In light skin, the first sign of pressure damage is often a red area that does not fade when pressed. In darker skin, that redness may be invisible. Your slides say pressure injuries are <strong>harder to detect</strong>, so you must look and feel for other clues.</p>",
+     "bullets": [
+      "Look for areas that are <strong>darker</strong> than the surrounding skin (purplish, bluish, or deeper brown).",
+      "Look for skin that is <strong>taut</strong> (tight) or <strong>shiny</strong>.",
+      "<strong>Palpate</strong> for <strong>warmth</strong> (or coolness), <strong>edema</strong> (swelling), and <strong>induration</strong> (firmness) and compare with nearby skin.",
+      "<strong>Moistening the skin</strong> slightly may help reveal color changes.",
+      "Use good natural or bright light."
+     ],
+     "analogy": "Think of it like checking whether a pan on the stove is hot. You cannot always see heat, so you carefully hold your hand near it. In darker skin you cannot always see inflammation, so you feel for warmth, swelling, and firmness.",
+     "check": {
+      "q": "A client with dark brown skin has been on bed rest for 3 days. The sacrum looks the same color as the rest of the back. Is the nurse's assessment done?",
+      "a": "No. The nurse should palpate the sacrum for warmth, edema, and induration and compare with nearby skin, because redness may not be visible in dark skin."
+     }
+    },
+    {
+     "heading": "More skin-tone considerations",
+     "body": "<p>Your slides point out several things that are more common or look different in darker skin:</p>",
+     "bullets": [
+      "<strong>Discoloration after healing</strong>: after acne, a scrape, or a rash heals, darker skin often keeps a dark (or sometimes light) mark for months.",
+      "<strong>Melasma</strong>: dark patches on the face triggered by sun (and hormones such as pregnancy).",
+      "<strong>Keloids</strong>: thick, raised scars that grow beyond the original wound.",
+      "<strong>Pseudofolliculitis</strong>: \"razor bumps\" when curly hairs curl back into the skin after shaving.",
+      "<strong>Dermatosis papulosa nigra</strong>: small, harmless dark bumps on the face.",
+      "<strong>Eczema and psoriasis</strong> may look purple, gray, or dark brown instead of red.",
+      "<strong>Products</strong> such as makeup and <strong>skin-bleaching creams</strong> can irritate the skin or interact with medications. Ask about them respectfully.",
+      "<strong>Lighter skin</strong> has a higher risk of UV damage, but <strong>every</strong> skin tone needs sun protection (sunscreen, hats, protective clothing)."
+     ]
+    },
+    {
+     "heading": "Classifying skin disorders",
+     "body": "<p>Skin disorders are <strong>hard to classify</strong> because many share the same vague symptoms: itching, redness, and inflammation. Two common ways to sort them are:</p>",
+     "table": {
+      "caption": "Two ways to classify skin disorders",
+      "headers": [
+       "Method",
+       "Categories",
+       "Examples and treatment goal"
+      ],
+      "rows": [
+       [
+        "By time course",
+        "<strong>Acute</strong>: short-term, situational cause",
+        "Bacterial infections, contact dermatitis. Goal: reduce inflammation, avoid triggers; usually resolves."
+       ],
+       [
+        "",
+        "<strong>Chronic</strong>: long-term or lifelong, genetic or unknown cause",
+        "Pigment changes, genetic skin conditions, psoriasis. Goal: <strong>remission, not cure</strong>."
+       ],
+       [
+        "By type",
+        "<strong>Infectious</strong>",
+        "Bacteria, viruses, fungi, parasites (impetigo, chickenpox, athlete's foot, lice)"
+       ],
+       [
+        "",
+        "<strong>Inflammatory</strong>",
+        "Acne, eczema, burns, psoriasis, dermatitis"
+       ],
+       [
+        "",
+        "<strong>Neoplastic</strong> (cancerous)",
+        "Basal cell carcinoma, squamous cell carcinoma, malignant melanoma (most serious)"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A client with a lifelong skin disorder asks when it will be cured. Which word best describes the realistic goal?",
+      "a": "Remission. Chronic skin disorders are controlled, not cured."
+     }
+    },
+    {
+     "heading": "Primary lesions: what appears first",
+     "body": "<p>A <strong>primary lesion</strong> appears on skin that was normal before. Learn them by three questions: <strong>Is it flat or raised? Is it solid or filled with fluid? How big is it?</strong> The 1-cm size cutoff is the key to many names.</p>",
+     "table": {
+      "caption": "Primary lesions",
+      "headers": [
+       "Lesion",
+       "Description",
+       "Example"
+      ],
+      "rows": [
+       [
+        "Macule",
+        "Flat color change you cannot feel; less than 1 cm",
+        "Freckle, flat mole, petechiae"
+       ],
+       [
+        "Papule",
+        "Raised, solid, less than 1 cm",
+        "Wart, raised mole"
+       ],
+       [
+        "Nodule",
+        "Raised, solid, firm, deeper and larger than a papule",
+        "Lipoma (fatty lump)"
+       ],
+       [
+        "Vesicle",
+        "Raised, filled with <strong>clear fluid</strong>, less than 1 cm",
+        "Chickenpox, poison ivy blisters"
+       ],
+       [
+        "Bulla (plural: bullae)",
+        "Clear-fluid blister <strong>more than 1 cm</strong>",
+        "Large blister from a burn or friction"
+       ],
+       [
+        "Pustule",
+        "Raised, filled with <strong>pus</strong>",
+        "Acne, impetigo"
+       ],
+       [
+        "Wheal",
+        "Raised, itchy, swollen area of irregular shape that comes and goes",
+        "Hives, insect bite"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> The nurse notes several raised lesions on a child's trunk, each filled with clear fluid and about 0.5 cm across. Raised + clear fluid + less than 1 cm = <strong>vesicles</strong>. If they were larger than 1 cm, they would be bullae. If they held cloudy yellow fluid, they would be pustules."
+    },
+    {
+     "heading": "Secondary lesions: what it becomes",
+     "body": "<p>A <strong>secondary lesion</strong> develops <strong>from</strong> a primary lesion or from trauma, such as scratching, rubbing, or healing. A vesicle that breaks and dries becomes a crust. Skin that is scratched over and over may crack or ulcerate.</p>",
+     "table": {
+      "caption": "Secondary lesions",
+      "headers": [
+       "Lesion",
+       "Description",
+       "Example"
+      ],
+      "rows": [
+       [
+        "Crust",
+        "Dried serum, blood, or pus on the surface",
+        "Honey-colored crust of impetigo; scab"
+       ],
+       [
+        "Scale",
+        "Flakes of dead epidermis",
+        "Psoriasis, dandruff, dry skin"
+       ],
+       [
+        "Fissure",
+        "Linear crack in the skin",
+        "Athlete's foot between the toes; chapped lips"
+       ],
+       [
+        "Erosion",
+        "Loss of the epidermis only; moist, does not bleed; heals without a scar",
+        "Ruptured blister"
+       ],
+       [
+        "Ulcer",
+        "Deeper loss into the dermis or below; may bleed; may scar",
+        "Pressure injury, venous ulcer"
+       ],
+       [
+        "Scar",
+        "Fibrous tissue that replaces damaged dermis",
+        "Healed incision"
+       ],
+       [
+        "Keloid",
+        "Overgrown scar that spreads beyond the original wound",
+        "Keloid on an earlobe after piercing"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A child scratched open a blister, and it now has a yellow-brown dried layer on top. Primary or secondary lesion?",
+      "a": "Secondary: a crust. It developed from a primary lesion (the blister) after trauma."
+     }
+    },
+    {
+     "heading": "When the skin points to a bigger problem",
+     "body": "<p>The skin can <strong>reflect systemic disease</strong>, meaning a problem somewhere else in the body. Your slide example is <strong>dry skin plus hair loss → hypothyroidism</strong> (an underactive thyroid). When the thyroid is slow, the body's metabolism slows, sweat and oil production drop, and hair thins.</p><p>Other examples you already know: <strong>jaundice</strong> points to the liver, <strong>cyanosis</strong> points to oxygenation, and <strong>pallor with a fast pulse</strong> points to blood loss or shock. Some skin findings are emergencies.</p>",
+     "example": "<strong>At the bedside:</strong> Mrs. K, 52, has dry, rough skin that lotion does not help, thinning hair, brittle nails, weight gain, constipation, and she always feels cold. Her heart rate is 56/min. This is not a lotion problem. These findings together suggest <strong>hypothyroidism</strong>, and the nurse reports them so the provider can order thyroid tests.<br><br><strong>Priority example:</strong> Four hours after surgery, a client with dark skin is restless with HR 122, BP 92/58. The nurse finds <strong>ashen gray</strong> lips and mucosa and cool, clammy skin. In dark skin, ashen gray is pallor. With a fast pulse and low BP, this suggests <strong>shock</strong>, so the nurse acts immediately and notifies the provider.",
+     "bullets": [
+      "<strong>Diagnostic tests you may help with</strong> (covered more in the diagnostics lesson): skin <strong>biopsy</strong> (benign vs. cancer), <strong>cultures</strong> (infection), <strong>KOH prep</strong> (fungus), <strong>Tzanck test</strong> (viral blisters such as herpes), <strong>patch test</strong> (allergy), and <strong>Wood lamp</strong> exam.",
+      "<strong>Wood lamp teaching</strong>: it uses ultraviolet (black) light in a <strong>darkened room</strong> to make some fungal infections and pigment changes (such as vitiligo, milky-white patches) show up. It is painless. The client should not apply creams, lotions, or makeup to the area beforehand, because they can glow and confuse the result.",
+      "<strong>Self-exams</strong>: teach clients to know their normal skin and check it regularly, especially sun-exposed areas (face, neck, ears, scalp, arms, legs) plus the trunk, chest, and feet. New or changing spots should be checked by a provider."
+     ]
+    }
+   ],
+   "pearls": [
+    "In darker skin, don't wait to see redness. Palpate for warmth, edema, and induration and compare with nearby skin.",
+    "Cyanosis in dark skin → nail beds, lips, buccal mucosa. Jaundice → sclera, hard palate, palms, soles.",
+    "Vesicle = clear fluid, less than 1 cm. Bulla = clear fluid, more than 1 cm. Pustule = pus. Macule = flat. Papule = raised and solid.",
+    "Primary = the first lesion. Secondary = what it becomes (crust, scale, fissure, erosion, ulcer, scar, keloid).",
+    "Wheals (hives) plus hoarseness, wheezing, or throat tightness is an airway emergency, not a skin problem. That client is seen first."
+   ],
+   "redFlags": [
+    "Ashen gray lips/mucosa in a dark-skinned client with ↑ HR and ↓ BP → treat as shock; stay with the client and notify the provider now.",
+    "Hives or wheals with a voice change, wheezing, or throat tightness → airway emergency; call for help and follow the emergency protocol.",
+    "SpO₂ falling with gray lips or buccal mucosa → central cyanosis; act on the oxygenation problem immediately."
+   ],
+   "recap": [
+    "Assess color, temperature, moisture, texture, edema, and lesions, in good light, comparing both sides.",
+    "Describe lesions by type, size, color, shape, distribution, and drainage; describe, don't diagnose.",
+    "In darker skin, check pallor and cyanosis in the mucosa, lips, and nail beds; jaundice in the sclera, palate, palms, and soles.",
+    "Early pressure damage in dark skin: darker, taut, shiny, warm, swollen, or firm areas.",
+    "Skin disorders are classified as acute vs. chronic, and as infectious, inflammatory, or neoplastic.",
+    "Primary lesions: macule, papule, nodule, vesicle, pustule, bulla, wheal. Secondary: crust, scale, scar, keloid, fissure, ulcer, erosion.",
+    "Skin can reflect systemic disease, such as dry skin + hair loss → hypothyroidism."
+   ],
+   "checks": [
+    {
+     "q": "A client with dark skin and suspected hepatitis has a slight yellow tint at the edges of the sclera. What should the nurse check next?",
+     "a": "The hard palate, palms, and soles. The edges of the sclera can look yellowish normally in dark skin, so confirm jaundice in other low-pigment areas."
+    },
+    {
+     "q": "Hand-off report: (1) eczema flare, itchy; (2) new wheals and a hoarse voice after an antibiotic; (3) healing incision with scant clear drainage; (4) psoriasis plaques on the elbows. Who is seen first?",
+     "a": "Client 2. Wheals with a voice change suggest an allergic reaction affecting the airway."
+    },
+    {
+     "q": "Classify: a honey-colored crust, a clear 0.4-cm blister, a crack between the toes, a raised pus-filled bump.",
+     "a": "Crust = secondary; vesicle = primary; fissure = secondary; pustule = primary."
+    },
+    {
+     "q": "A client is scheduled for a Wood lamp exam to check for vitiligo. What should the nurse teach?",
+     "a": "The room will be darkened and a UV light held near the skin; it is painless; do not apply creams, lotions, or makeup to the area before the exam."
+    }
+   ]
+  },
+  {
+   "id": "infectious-skin-disorders",
+   "title": "Infectious Skin Disorders",
+   "exemplar": null,
+   "summary": "Bacteria, viruses, fungi, and parasites can all infect the skin. Learn to recognize each one, stop it from spreading, and teach families what to do at home.",
+   "objectives": [
+    "Name the four types of organisms that cause skin infections and give the slide example of each.",
+    "Recognize impetigo, chickenpox, herpes, warts, tinea, lice, and scabies by their typical appearance.",
+    "Choose the correct isolation precautions and staff assignments for contagious skin infections.",
+    "Teach clients and families how to treat these infections and prevent spread at home and school.",
+    "Identify which clients with a skin infection need immediate attention."
+   ],
+   "bigPicture": "<p>Intact skin is the body's first line of defense against germs. When organisms get through or grow on the surface, you get an <strong>infectious skin disorder</strong>. These are some of the most common problems you will see in children, schools, clinics, and long-term care facilities.</p><p>Your job as the nurse has three parts. First, <strong>recognize</strong> the infection from its pattern. Second, <strong>stop the spread</strong> with hand hygiene, the right precautions, and teaching (many of these spread by touch or by sharing combs, hats, and towels). Third, <strong>protect the clients most at risk</strong>, especially clients with weak immune systems, for whom an \"ordinary\" skin infection can become dangerous.</p><p>Your slides organize these infections by the kind of organism. We will follow the same order: bacteria, viruses, fungi, and parasites.</p>",
+   "keyTerms": [
+    {
+     "term": "Impetigo",
+     "def": "A contagious bacterial skin infection, common in children, with honey-colored crusts."
+    },
+    {
+     "term": "Varicella (chickenpox)",
+     "def": "A very contagious viral infection causing itchy blisters in crops all over the body."
+    },
+    {
+     "term": "Herpes zoster (shingles)",
+     "def": "A painful blistering rash caused when the chickenpox virus, dormant in a nerve, reactivates later in life."
+    },
+    {
+     "term": "HPV (human papillomavirus)",
+     "def": "The virus that causes warts. Some types increase the risk of certain cancers."
+    },
+    {
+     "term": "Tinea",
+     "def": "A fungal skin infection. Tinea pedis = athlete's foot; tinea corporis = ringworm on the body; tinea capitis = scalp."
+    },
+    {
+     "term": "Pediculosis",
+     "def": "Infestation with lice. Nits are lice eggs glued to hair shafts."
+    },
+    {
+     "term": "Scabies",
+     "def": "An infestation with tiny mites that burrow into the skin and cause intense itching."
+    },
+    {
+     "term": "Immunocompromised",
+     "def": "Having a weakened immune system (for example, from chemotherapy, HIV/AIDS, or long-term steroids)."
+    },
+    {
+     "term": "Contact precautions",
+     "def": "Gown and gloves for contact with the client or their environment, used for infections spread by touch."
+    },
+    {
+     "term": "Airborne precautions",
+     "def": "A negative-pressure private room and an N95 respirator, used for germs that float in the air (such as varicella)."
+    },
+    {
+     "term": "Pediculicide",
+     "def": "A medicine that kills lice."
+    },
+    {
+     "term": "Reye syndrome",
+     "def": "A rare but serious illness that can damage the brain and liver in children given aspirin during a viral illness."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "The big picture: four kinds of germs",
+     "body": "<p>Skin infections are caused by <strong>bacteria, viruses, fungi, or parasites</strong>. Your slides give one example of each, and you should know them cold:</p>",
+     "table": {
+      "caption": "Infectious skin disorders by cause",
+      "headers": [
+       "Cause",
+       "Slide example",
+       "Other examples in this module",
+       "Clue"
+      ],
+      "rows": [
+       [
+        "Bacterial",
+        "Impetigo",
+        "Infected wounds",
+        "Pus, honey-colored crusts"
+       ],
+       [
+        "Viral",
+        "Chickenpox (varicella)",
+        "Herpes simplex, herpes zoster, warts (HPV)",
+        "Vesicles, warts"
+       ],
+       [
+        "Fungal",
+        "Athlete's foot (tinea pedis)",
+        "Ringworm, tinea of the scalp",
+        "Scaly, itchy, warm moist areas"
+       ],
+       [
+        "Parasitic",
+        "Lice",
+        "Scabies",
+        "Intense itching; nits or burrows"
+       ]
+      ]
+     },
+     "bullets": [
+      "<strong>Bacteria and viruses are the most common</strong> causes.",
+      "<strong>Fungi are more dangerous in immunocompromised clients</strong>, whose immune systems cannot keep the fungus on the surface.",
+      "<strong>HPV increases cancer risk</strong>, so it is more than a cosmetic problem.",
+      "<strong>Herpes simplex and herpes zoster</strong> together affect about 165 million people in the U.S. (slide data), and fungal infections about 8.9 million."
+     ],
+     "analogy": "Think of intact skin like a castle wall. Most invaders (bacteria, viruses) attack all the time, which is why they are common. Fungi are like slow invaders that usually can't get past healthy guards, but if the guards are weak (an immunocompromised client), they can march right in."
+    },
+    {
+     "heading": "Bacterial: impetigo",
+     "body": "<p><strong>Impetigo</strong> is a contagious, superficial (surface) bacterial skin infection, common in children. It usually starts as small vesicles or pustules that break open and form <strong>honey-colored crusts</strong>, often <strong>around the nose and mouth</strong>. It spreads easily by <strong>direct contact</strong> and by scratching, which carries bacteria from one spot to another and to other people.</p>",
+     "bullets": [
+      "<strong>In the hospital</strong>: use <strong>contact precautions</strong> (gown and gloves) until the child has had <strong>24 hours of effective antibiotic treatment</strong>.",
+      "<strong>Treatment</strong>: gently wash the crusts off with soap and water, pat dry, then apply the prescribed antibiotic ointment (or give oral antibiotics if ordered). Finish the full course.",
+      "<strong>Prevent spread</strong>: keep nails short, discourage scratching, wash hands often, and do not share towels, washcloths, or bedding.",
+      "<strong>School or child care</strong>: the child usually stays home until <strong>24 hours after treatment starts</strong>."
+     ],
+     "example": "<strong>At the bedside:</strong> A 5-year-old has honey-colored crusted lesions around the nose and mouth and is prescribed an antibiotic ointment. Which parent statement shows the teaching worked? \"I'll gently wash off the crusts, dry the area, and then put on the ointment. She will use her own towel, and she'll stay home until she's had the medicine for a full day.\" A parent who says, \"I'll let her go to school tomorrow morning since the cream started tonight, and she can share her brother's towel,\" needs more teaching."
+    },
+    {
+     "heading": "Viral: chickenpox (varicella)",
+     "body": "<p><strong>Chickenpox</strong> is caused by the varicella-zoster virus. It starts with a mild fever and tiredness, then an <strong>itchy rash that appears in crops</strong>. The lesions move through stages: red spots (macules) → raised bumps (papules) → clear blisters (vesicles) → crusts. Because new crops keep coming, you will see <strong>lesions in different stages at the same time</strong>. That is a classic clue.</p><p>Chickenpox is <strong>highly contagious</strong>. It spreads through the air and by touching blister fluid. The client is contagious until <strong>all lesions are crusted over</strong>.</p>",
+     "bullets": [
+      "<strong>Isolation</strong>: <strong>airborne + contact precautions</strong> until all lesions are crusted. Use an airborne infection isolation (negative-pressure) room.",
+      "<strong>Staff assignment</strong>: assign only staff with <strong>documented immunity</strong> (had chickenpox or were vaccinated). Do not assign a pregnant nurse or a nurse who is not immune.",
+      "<strong>Itching</strong>: cool baths, loose cotton clothing, <strong>short fingernails</strong> to prevent scratching (scratching causes scarring and bacterial infection).",
+      "<strong>Fever</strong>: give <strong>acetaminophen, never aspirin</strong>, to children with chickenpox or any viral illness, because aspirin is linked to <strong>Reye syndrome</strong>.",
+      "<strong>Return to school</strong>: when all lesions are crusted."
+     ],
+     "check": {
+      "q": "The charge nurse must assign a child with active chickenpox. Options: a nurse who is 20 weeks pregnant, a nurse who has never had chickenpox, a nurse who had chickenpox as a child, and a nurse who is unsure of her history. Who is best?",
+      "a": "The nurse who had chickenpox as a child (documented immunity). The others are at risk, and varicella can harm a pregnancy."
+     }
+    },
+    {
+     "heading": "Viral: herpes and warts (HPV)",
+     "body": "<p><strong>Herpes simplex</strong> causes painful clusters of vesicles, often on the lips (cold sores). The virus stays in the body and can flare again with stress, illness, or sun. <strong>Herpes zoster (shingles)</strong> happens when the chickenpox virus, which has been sleeping in a nerve for years, <strong>wakes up</strong>. It causes a painful band of blisters on one side of the body, following the nerve. Fluid from shingles blisters can give chickenpox to someone who is not immune, so keep lesions covered.</p><p>A <strong>Tzanck test</strong> (a scraping from the base of a blister) can help confirm a herpes-family virus.</p><p><strong>Warts</strong> are small, rough, raised bumps (papules) caused by <strong>HPV</strong>. They are common in children and teens and spread by touch, including <strong>picking, biting, or scratching</strong> them. Your slide reminds you that <strong>HPV increases cancer risk</strong>, because certain types of HPV are linked to cancers (for example, cervical cancer).</p>",
+     "analogy": "The chickenpox virus is like a houseguest who never really leaves. After the illness it moves into a nerve \"guest room\" and sleeps. Years later, when the body's defenses are down, it can come out as shingles."
+    },
+    {
+     "heading": "Fungal: tinea (athlete's foot and ringworm)",
+     "body": "<p>Fungi love places that are <strong>warm, moist, and dark</strong>: between the toes, in skin folds, and in sweaty shoes. The general name for these skin infections is <strong>tinea</strong>.</p>",
+     "bullets": [
+      "<strong>Athlete's foot (tinea pedis)</strong>: itching, burning, scaling, and cracked skin (fissures) between the toes and on the soles. Common in athletes and runners.",
+      "<strong>Ringworm (tinea corporis)</strong>: a round, red, scaly patch that spreads outward with a clearer center. There is no worm; the ring shape gives it the name.",
+      "<strong>Scalp (tinea capitis)</strong>: scaly patches and hair loss, mostly in children.",
+      "<strong>Diagnosis</strong>: a <strong>KOH prep</strong> (a skin scraping mixed with potassium hydroxide and viewed under a microscope) shows the fungus. Some fungi glow under a Wood lamp."
+     ],
+     "steps": [
+      "Wash feet daily and <strong>dry thoroughly</strong>, especially between the toes.",
+      "Wear clean, absorbent (cotton) socks; change them when damp.",
+      "Wear <strong>shower shoes</strong> in locker rooms and public showers.",
+      "Let shoes air out; alternate pairs.",
+      "Apply the antifungal exactly as prescribed and <strong>finish the full course</strong>, even after the itching stops.",
+      "Do <strong>not share</strong> towels, socks, shoes, combs, or hats."
+     ],
+     "example": "<strong>At the bedside:</strong> The nurse reviews four clients with tinea: a healthy teen athlete, a 30-year-old runner, a 45-year-old office worker, and a 58-year-old receiving <strong>chemotherapy</strong>. Who is at greatest risk for a serious complication? The client on chemotherapy, because fungi are <strong>more dangerous in immunocompromised clients</strong>; the infection can spread deeper or into the blood."
+    },
+    {
+     "heading": "Parasitic: lice",
+     "body": "<p><strong>Head lice</strong> are tiny insects that live on the scalp and feed on blood. They cause <strong>itching</strong>. Their eggs, called <strong>nits</strong>, are glued to hair shafts close to the scalp and do not brush off like dandruff. Lice spread by <strong>head-to-head contact</strong> and by <strong>sharing combs, brushes, hats, and headphones</strong>. Lice are not a sign of being dirty.</p><p>Minor lice cases are treated with an <strong>over-the-counter (OTC) pediculicide</strong>, a lice-killing shampoo or lotion.</p>",
+     "steps": [
+      "Use the pediculicide <strong>exactly as the label says</strong>. Do <strong>not</strong> use conditioner or a shampoo-conditioner right before, because it coats the hair and keeps the medicine from working.",
+      "Comb out nits with a <strong>fine-tooth nit comb</strong>.",
+      "Wash bedding, clothing, and hats used recently in <strong>hot water</strong> and dry on <strong>high heat</strong>. Seal items that can't be washed (stuffed toys) in a plastic bag for about 2 weeks. Soak combs and brushes in hot water.",
+      "Vacuum floors and furniture. <strong>Insecticide sprays or foggers are not needed</strong> and can be harmful.",
+      "<strong>Recheck</strong> the hair in about a week; a second treatment is often needed to kill newly hatched lice.",
+      "Check other household members, and teach: <strong>don't share combs, brushes, or hats</strong>."
+     ]
+    },
+    {
+     "heading": "Parasitic: scabies",
+     "body": "<p><strong>Scabies</strong> is caused by tiny mites that <strong>burrow</strong> into the top layer of the skin to lay eggs. The main symptom is <strong>intense itching that is often worse at night</strong>. Look for tiny lines (burrows) and bumps in the <strong>webs of the fingers, the wrists</strong>, elbows, waist, and other skin folds. It spreads by <strong>prolonged skin-to-skin contact</strong> and sometimes through bedding and clothing. Outbreaks happen in long-term care facilities, where staff can catch it too.</p>",
+     "bullets": [
+      "Use <strong>contact precautions</strong> (gown and gloves).",
+      "<strong>Treat the client and all close contacts at the same time</strong> (including staff with symptoms), or the mites pass back and forth.",
+      "The prescribed scabicide cream is usually applied to the whole body <strong>from the neck to the toes</strong> and left on for the time ordered.",
+      "Wash recently used bedding, clothing, and towels in hot water and dry on high heat, or seal them in a bag for several days.",
+      "Teach that <strong>itching can continue for 2–4 weeks</strong> after successful treatment; it does not always mean the treatment failed."
+     ],
+     "example": "<strong>At the bedside:</strong> A long-term care resident is diagnosed with scabies, and two staff members who cared for him now itch. The charge nurse places the resident on contact precautions, has the resident and the itchy staff members treated <strong>at the same time</strong>, arranges hot-water laundering or bagging of linens and clothing, and teaches that itching may last a few weeks."
+    },
+    {
+     "heading": "Preventing spread and caring for infected wounds",
+     "body": "<p>Every skin infection shares the same prevention basics: <strong>hand hygiene</strong>, keeping skin <strong>clean and dry</strong>, covering wounds, and <strong>not sharing personal items</strong> (combs, hats, towels). When a wound is infected, teach the signs of infection: <strong>redness, swelling, warmth, drainage (especially pus), and dead (necrotic) tissue</strong>. Fever with spreading redness means the infection may be moving beyond the skin.</p>",
+     "steps": [
+      "Perform <strong>hand hygiene</strong> and put on clean gloves (plus gown for contact precautions).",
+      "Remove the soiled dressing and discard it safely in the proper waste container.",
+      "Remove gloves and perform <strong>hand hygiene</strong> again; put on new gloves.",
+      "Clean the wound with saline (or as ordered) <strong>from the center outward</strong>, from least to most contaminated.",
+      "Apply the new dressing as ordered.",
+      "Remove gloves, perform <strong>hand hygiene</strong>, and document the wound appearance and drainage."
+     ],
+     "check": {
+      "q": "Four clients: eczema flare; healing incision with scant clear drainage; wart on a finger; wound with purulent drainage, spreading redness, and T 38.9 °C (102 °F). Who needs attention first?",
+      "a": "The wound with pus, spreading redness, and fever. That pattern suggests a spreading infection that may become systemic."
+     }
+    }
+   ],
+   "pearls": [
+    "Chickenpox: airborne + contact precautions until ALL lesions are crusted. Assign only staff with documented immunity; never a pregnant or non-immune nurse.",
+    "No aspirin for children with chickenpox or any viral illness (Reye syndrome). Use acetaminophen.",
+    "Impetigo = honey-colored crusts. Contact precautions and school exclusion until 24 hours of effective treatment.",
+    "Fungal infections are most dangerous in immunocompromised clients (chemotherapy, HIV/AIDS, long-term steroids).",
+    "Lice: follow the label, no conditioner first, comb nits, hot-wash and dry, bag what can't be washed, no foggers, recheck."
+   ],
+   "redFlags": [
+    "Skin infection with fever and rapidly spreading redness, swelling, or pus → notify the provider promptly; infection may be spreading.",
+    "Any fungal skin infection in an immunocompromised client → report; risk of deep or bloodstream spread.",
+    "A non-immune or pregnant staff member exposed to chickenpox or shingles fluid → report to employee health.",
+    "Child with chickenpox who becomes very sleepy, confused, or starts vomiting (especially after aspirin) → urgent evaluation for Reye syndrome."
+   ],
+   "recap": [
+    "Four causes: bacteria (impetigo), viruses (chickenpox), fungi (athlete's foot), parasites (lice).",
+    "Bacteria and viruses are the most common; fungi are most dangerous in immunocompromised clients; HPV raises cancer risk.",
+    "Impetigo: honey-colored crusts; contact precautions; out of school until 24 hours of treatment.",
+    "Chickenpox: lesions in different stages; airborne + contact until crusted; immune staff only; no aspirin.",
+    "Tinea thrives in warm, moist areas; keep skin dry, don't share, finish the antifungal.",
+    "Lice and scabies spread by close contact and shared items; treat carefully and treat contacts.",
+    "Hand hygiene before and after wound care; clean from center outward; teach signs of infection."
+   ],
+   "checks": [
+    {
+     "q": "A 6-year-old admitted for asthma is found to have impetigo on the chin, and topical antibiotic was started today. Which precaution should the nurse use?",
+     "a": "Contact precautions (gown and gloves) until 24 hours of effective therapy, because impetigo spreads by direct contact."
+    },
+    {
+     "q": "A parent says, \"My son's chickenpox spots are all crusted, so he can go back to school, and I'll give him baby aspirin for his fever.\" How should the nurse respond?",
+     "a": "Confirm the first part is correct, but correct the aspirin: use acetaminophen, because aspirin during a viral illness can cause Reye syndrome."
+    },
+    {
+     "q": "A runner with athlete's foot says, \"I'll stop the cream as soon as the itching goes away.\" Is teaching effective?",
+     "a": "No. The full course must be finished, or the fungus can come back."
+    },
+    {
+     "q": "Which lice instruction is wrong: comb out nits, wash hats in hot water, use a conditioner before the lice shampoo, recheck in a week?",
+     "a": "Using conditioner first. It coats the hair and blocks the pediculicide."
+    }
+   ]
+  },
+  {
+   "id": "inflammatory-skin-disorders",
+   "title": "Inflammatory Skin Disorders: Dermatitis, Eczema, Psoriasis & Acne",
+   "exemplar": null,
+   "summary": "Inflammation is the skin's alarm system. Learn why dermatitis, eczema, psoriasis, and acne happen, how to tell them apart, and how to help clients calm the skin and avoid triggers.",
+   "objectives": [
+    "Explain what inflammation is and list the inflammatory skin disorders named on the slides.",
+    "Tell allergic contact dermatitis from irritant contact dermatitis by cause, pattern, and age group.",
+    "Teach skin care for atopic dermatitis (eczema), including the \"soak and seal\" routine.",
+    "Explain why psoriasis is treated for remission rather than cure.",
+    "Describe how acne forms and teach safe use of benzoyl peroxide and salicylic acid.",
+    "Identify risk factors for skin disorders and recognize adverse effects of long-term topical steroid use."
+   ],
+   "bigPicture": "<p><strong>Inflammation</strong> is the body's response to injury or irritation. Blood vessels widen and leak fluid, and immune cells rush in. On the skin that shows up as <strong>redness (or darker color in dark skin), warmth, swelling, and itching or pain</strong>. Inflammation is meant to protect, but when it goes on too long or is aimed at the wrong target, it becomes the problem.</p><p>Your slides list the main inflammatory skin disorders: <strong>acne, eczema, burns, psoriasis, and dermatitis</strong>. These are very common. Acne affects about <strong>50 million Americans</strong> every year, including <strong>85% of people aged 12–24</strong>. Atopic dermatitis affects about 16.5 million, psoriasis 7.5 million, and rosacea (a facial redness condition) 16 million.</p><p>These conditions are visible and itchy, so they affect <strong>sleep, comfort, and self-image</strong>, not just the skin. The nurse's main tools are simple: find and avoid the trigger, protect the skin barrier, use medicines correctly, and support the client emotionally.</p>",
+   "keyTerms": [
+    {
+     "term": "Inflammation",
+     "def": "The body's protective response to injury or irritation: redness or darker color, warmth, swelling, and pain or itching."
+    },
+    {
+     "term": "Dermatitis",
+     "def": "Inflammation of the skin. \"Derm\" = skin, \"-itis\" = inflammation."
+    },
+    {
+     "term": "Allergic contact dermatitis",
+     "def": "An immune (allergic) skin reaction to something the client has been exposed to before, appearing where the allergen touched."
+    },
+    {
+     "term": "Irritant contact dermatitis",
+     "def": "Direct damage to the skin from chemicals, soaps, or detergents; not an immune reaction."
+    },
+    {
+     "term": "Allergen",
+     "def": "A substance that triggers an allergic reaction (for example, nickel, latex, poison ivy oil)."
+    },
+    {
+     "term": "Sensitization",
+     "def": "The first exposure that \"teaches\" the immune system to react; later exposures then cause the rash."
+    },
+    {
+     "term": "Atopic dermatitis (eczema)",
+     "def": "A chronic, relapsing, very itchy skin inflammation caused by a weak skin barrier."
+    },
+    {
+     "term": "Psoriasis",
+     "def": "A chronic immune-related disorder in which skin cells build up too fast, forming thick plaques with silvery scale."
+    },
+    {
+     "term": "Plaque",
+     "def": "A raised, flat-topped patch of skin larger than about 1 cm."
+    },
+    {
+     "term": "Sebum",
+     "def": "The oil made by sebaceous glands."
+    },
+    {
+     "term": "Comedone",
+     "def": "A plugged hair follicle; a whitehead (closed) or blackhead (open)."
+    },
+    {
+     "term": "Patch test",
+     "def": "An allergy test in which small amounts of possible allergens are taped to the skin and checked over the next few days."
+    },
+    {
+     "term": "Topical corticosteroid",
+     "def": "A steroid cream or ointment that reduces skin inflammation and itching."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Contact dermatitis: two very different causes",
+     "body": "<p><strong>Contact dermatitis</strong> is skin inflammation caused by something that touched the skin. Your slides divide it into two types, and exam questions love to test the difference.</p><p><strong>Allergic contact dermatitis</strong> is an <strong>immune</strong> reaction. The first time the skin meets the allergen, the immune system is \"sensitized\" and nothing shows. On later exposures, the immune system attacks, usually <strong>1–3 days later</strong> (it is a delayed reaction). The rash appears <strong>right at the allergen site</strong>, may form <strong>vesicles or wheals</strong>, and is <strong>shaped like the irritant</strong>: a watch band, a ring, a jeans snap, glove edges, or streaks where a plant brushed the skin.</p><p><strong>Irritant contact dermatitis</strong> is <strong>not immune-related</strong>. A <strong>chemical, soap, or detergent</strong> directly damages the skin's barrier, the same way it would on anyone with enough exposure. It can happen on the first exposure. The skin becomes <strong>red, dry, cracked, and burning</strong> where it was exposed.</p>",
+     "table": {
+      "caption": "Allergic vs. irritant contact dermatitis",
+      "headers": [
+       "Feature",
+       "Allergic",
+       "Irritant"
+      ],
+      "rows": [
+       [
+        "Cause",
+        "Immune reaction to an allergen",
+        "Direct damage from chemicals, soap, detergent"
+       ],
+       [
+        "Prior exposure needed?",
+        "Yes (sensitization)",
+        "No"
+       ],
+       [
+        "Look",
+        "Itchy rash shaped like the item; vesicles or wheals",
+        "Red, dry, cracked, burning skin"
+       ],
+       [
+        "Common causes",
+        "Metals (nickel), poison plants, latex, dyes, perfumes",
+        "Frequent hand washing, detergents, cleaning chemicals, urine and stool on diapered skin"
+       ],
+       [
+        "Age most affected",
+        "<strong>Adults</strong> (most cases)",
+        "<strong>Infants</strong> (strongest irritant response)"
+       ],
+       [
+        "Confirming test",
+        "<strong>Patch test</strong>",
+        "History of exposure"
+       ]
+      ]
+     },
+     "bullets": [
+      "<strong>Age considerations (slide)</strong>: <strong>infants</strong> have the strongest irritant response, <strong>adults</strong> have most allergic contact dermatitis, and <strong>older adults</strong> have slower, less intense reactions (so a reaction may be missed or appear late)."
+     ],
+     "analogy": "Allergic dermatitis is like a security guard who, after meeting one particular visitor, decides that person is a threat and tackles them every time they show up afterward. Irritant dermatitis is like sandpaper: it scrapes anyone's skin, no guard involved."
+    },
+    {
+     "heading": "Caring for contact dermatitis",
+     "steps": [
+      "<strong>Identify the trigger</strong>: ask about new jewelry, gloves, soaps, detergents, cosmetics, plants, and work exposures.",
+      "<strong>Remove and avoid it</strong>: wash the skin with mild soap and cool water after exposure.",
+      "<strong>Soothe</strong>: cool compresses; moisturizers to repair the barrier.",
+      "<strong>Medicate as prescribed</strong>: topical corticosteroids reduce inflammation; antihistamines can help itching.",
+      "<strong>Document allergies</strong> (for example, latex) in the record so all staff avoid them.",
+      "<strong>Evaluate</strong>: less itching and redness, no new lesions, no signs of infection from scratching."
+     ],
+     "example": "<strong>At the bedside:</strong> A dental assistant has itchy, red skin with small vesicles on both hands that <strong>stops in a sharp line where her gloves end</strong>. It began 2 days after she switched to a new brand of <strong>latex gloves</strong>. The pattern (shaped like the gloves) and the delay point to <strong>allergic contact dermatitis</strong>. The nurse documents a possible latex allergy, advises latex-free (for example, nitrile) gloves, refers her to employee health, and explains that a <strong>patch test</strong> can confirm the allergen.<br><br><strong>Compare:</strong> A new nurse aide washes her hands with soap and water 40–50 times per shift. Within a week, the backs of both hands are dry, red, cracked, and burning. There's no shape and no delay. This is <strong>irritant dermatitis</strong>. Using <strong>alcohol-based hand rub</strong> when hands are not visibly soiled (it is gentler than repeated soap and water) and applying moisturizer often will help."
+    },
+    {
+     "heading": "Poison ivy: a classic allergic dermatitis",
+     "body": "<p>Poison ivy, oak, and sumac contain an <strong>oil</strong> that triggers allergic contact dermatitis. The rash often shows up as <strong>linear streaks of itchy vesicles</strong> where the plant brushed the skin, 1–3 days after contact.</p>",
+     "bullets": [
+      "Wash the skin with soap and cool water <strong>as soon as possible</strong> after contact to remove the oil.",
+      "Wash <strong>clothing, gloves, shoes, and tools</strong>. The oil can stay on them and cause new rashes. Pets can carry it on their fur.",
+      "The <strong>fluid inside the blisters does not spread the rash</strong>. New spots that appear later are from oil that was still on the skin or items, or from areas that reacted more slowly.",
+      "Cool compresses, soothing lotions, and prescribed steroids ease symptoms. Keep nails short to avoid scratching and infection."
+     ],
+     "check": {
+      "q": "A client with poison ivy says, \"I need to keep my kids away from my blisters or they'll catch the rash.\" What should the nurse teach?",
+      "a": "Blister fluid does not spread poison ivy. The oil on skin, clothing, tools, or pets does, so those should be washed."
+     }
+    },
+    {
+     "heading": "Atopic dermatitis (eczema)",
+     "body": "<p><strong>Atopic dermatitis</strong>, usually called <strong>eczema</strong>, is a <strong>chronic, relapsing</strong> skin condition. The skin barrier is weak, so it <strong>loses moisture</strong> and lets irritants in. The result is dry, very <strong>itchy</strong> patches that flare and calm down over time. It often begins in childhood and commonly runs in families with asthma and allergies.</p><p>In infants it often appears on the cheeks and outer arms and legs. In older children it appears in the <strong>skin creases</strong>, such as the inside of the elbows (antecubital) and behind the knees (popliteal). In light skin it looks red; in darker skin it may look <strong>darker brown, purple, or gray</strong>, and it can leave light or dark marks after healing.</p><p>The itch leads to scratching, scratching damages the barrier further, and that causes more itch. This is the <strong>itch–scratch cycle</strong>. Broken skin can also become infected.</p>",
+     "steps": [
+      "Give a <strong>short, lukewarm</strong> bath (not hot; hot water dries skin).",
+      "Use a <strong>mild, fragrance-free</strong> cleanser; avoid harsh soaps and bubble baths.",
+      "<strong>Pat</strong> the skin dry gently; do not rub.",
+      "Apply a thick, fragrance-free moisturizer <strong>right away</strong>, within a few minutes, while the skin is still slightly damp, to lock in water.",
+      "Dress the child in soft <strong>cotton</strong>; avoid wool and scratchy fabrics.",
+      "Keep <strong>nails short</strong>; consider cotton gloves at night.",
+      "Avoid known triggers such as fragrance, heat, and sweating. Use prescribed topical medicines during flares."
+     ],
+     "analogy": "Healthy skin is like a brick wall with mortar between the bricks. In eczema, the mortar is weak, so water leaks out and irritants leak in. Moisturizer is like fresh mortar filling the gaps."
+    },
+    {
+     "heading": "Psoriasis",
+     "body": "<p><strong>Psoriasis</strong> is a <strong>chronic, immune-related</strong> disorder. Normally, new skin cells take about a month to move up to the surface and flake off. In psoriasis the immune system speeds this up to just a few days, so cells <strong>pile up</strong> into thick, well-defined <strong>plaques covered with silvery-white scale</strong>. Common sites are the <strong>elbows, knees, scalp, and lower back</strong>. In darker skin, plaques may look <strong>violet or dark brown with gray scale</strong>.</p><p>Because it is chronic, <strong>there is no cure</strong>. Treatment (prescription topical and oral medicines) aims for <strong>remission</strong>: long periods with few or no plaques. Flares can be triggered by stress, skin injury, infections, and some medications.</p><p>Teach the client to moisturize, avoid scratching or injuring the skin, manage stress, and keep follow-up appointments. Plaques are visible and can hurt self-esteem, so ask how the client feels about their skin.</p>",
+     "example": "<strong>At the bedside:</strong> A 34-year-old newly diagnosed with plaque psoriasis asks, \"How long until this is cured?\" The best response is honest and hopeful: \"Psoriasis is a long-term condition that doesn't have a cure, but treatment can control it and keep it in remission for long periods.\" Promising a cure, or saying \"nothing can be done,\" are both wrong."
+    },
+    {
+     "heading": "Acne",
+     "body": "<p>At puberty, hormones make the oil glands produce more <strong>sebum</strong>. Sebum and dead skin cells can <strong>plug the hair follicle</strong>, forming a comedone (whitehead or blackhead). Bacteria that normally live on the skin grow in the plugged follicle, and inflammation creates red <strong>papules</strong> and <strong>pustules</strong>. Deeper lesions can leave scars.</p><p>Minor acne is treated with <strong>OTC products</strong>:</p>",
+     "bullets": [
+      "<strong>Benzoyl peroxide</strong> is the <strong>first-line</strong> acne treatment. It <strong>kills bacteria and unplugs</strong> the oil ducts.",
+      "<strong>Salicylic acid</strong> <strong>exfoliates</strong> (removes dead skin cells) and <strong>reduces inflammation</strong>."
+     ],
+     "steps": [
+      "Wash gently twice a day with a mild cleanser; do <strong>not scrub</strong>.",
+      "Apply a <strong>thin layer</strong> of benzoyl peroxide to the <strong>whole affected area</strong>, not just single spots, usually starting once a day.",
+      "Expect some <strong>dryness, redness, or peeling</strong> at first; a non-comedogenic (won't clog pores) moisturizer helps.",
+      "Benzoyl peroxide can <strong>bleach towels, pillowcases, clothing, and hair</strong>; use white linens.",
+      "Improvement takes <strong>several weeks</strong>; keep using it.",
+      "Do not pick or squeeze lesions (this worsens inflammation and scarring)."
+     ],
+     "check": {
+      "q": "A 17-year-old starting benzoyl peroxide says, \"I'll scrub my face hard three times a day and put a thick layer on each pimple.\" Is this correct?",
+      "a": "No. Wash gently twice daily and apply a thin layer to the whole area. Scrubbing and thick layers increase irritation."
+     }
+    },
+    {
+     "heading": "Burns, risk factors, and topical steroid safety",
+     "body": "<p>Your slides also list <strong>burns</strong> as an inflammatory disorder. A burn (including sunburn) damages skin cells and triggers intense inflammation: redness, swelling, pain, and sometimes blisters. Minor sunburn can be treated with OTC products; prevention is sun protection.</p><p><strong>Who is at higher risk</strong> for skin disorders? Your slides point to both unchangeable and changeable factors:</p>",
+     "bullets": [
+      "<strong>Genetics and family history</strong> (for example, epidermolysis bullosa, ichthyosis, albinism; eczema and psoriasis also run in families).",
+      "<strong>Age and sex</strong>: men have more infectious disorders; women more pigment and autoimmune disorders; older adults have thinner skin and slower healing.",
+      "<strong>Chronic illness</strong>: diabetes, HIV/AIDS, obesity, poor circulation.",
+      "<strong>Medications</strong>: steroids, antibiotics, chemotherapy, and antifungals may thin the skin or increase sun sensitivity.",
+      "<strong>Poor nutrition</strong>: skin changes and delayed healing.",
+      "<strong>Exposure</strong> to irritants and allergens (chemicals, dyes, perfumes, poison plants, latex, metals), and <strong>excessive cleansing</strong>, which dries the skin."
+     ],
+     "example": "<strong>At the bedside:</strong> A client used OTC hydrocortisone and then a friend's <strong>high-potency steroid cream</strong> on the face twice a day for 4 months. Long-term topical steroids <strong>thin the skin</strong>. The nurse looks for thin, shiny, fragile skin, <strong>visible small blood vessels</strong>, <strong>easy bruising</strong>, stretch marks, lighter patches, and acne-like bumps, and teaches the client to use only prescribed steroids, for the time ordered, and never someone else's medicine."
+    }
+   ],
+   "pearls": [
+    "A rash shaped exactly like a watch, ring, glove edge, or jeans snap = allergic contact dermatitis. Patch test confirms it.",
+    "Frequent hand washing + dry, cracked, burning hands = irritant dermatitis. Alcohol-based hand rub plus moisturizer helps.",
+    "Infants: strongest irritant response. Adults: most allergic contact dermatitis. Older adults: slower, weaker reactions.",
+    "Eczema: short lukewarm bath, pat dry, moisturize right away. Hot water and rubbing are wrong answers.",
+    "Benzoyl peroxide: first-line for acne, thin layer, expect dryness, bleaches fabric. Salicylic acid exfoliates."
+   ],
+   "redFlags": [
+    "Hives or wheals with wheezing, hoarseness, or throat tightness after an allergen exposure → airway emergency; get help immediately.",
+    "Scratched eczema or dermatitis that becomes warm, swollen, more painful, or drains pus → possible secondary infection; report."
+   ],
+   "recap": [
+    "Inflammatory skin disorders: acne, eczema, burns, psoriasis, and dermatitis.",
+    "Allergic contact dermatitis is immune-related, delayed, and shaped like the allergen; irritant dermatitis is direct chemical damage.",
+    "Infants → strongest irritant response; adults → most allergic cases; older adults → slower, less intense reactions.",
+    "Poison ivy spreads by the plant oil, not blister fluid; wash skin, clothes, and tools.",
+    "Eczema: weak barrier, itch–scratch cycle; lukewarm bath, pat dry, moisturize immediately.",
+    "Psoriasis: rapid skin-cell buildup → silvery plaques; chronic; goal is remission.",
+    "Acne: sebum + dead cells + bacteria; benzoyl peroxide is first-line; salicylic acid exfoliates.",
+    "Long-term topical steroids thin the skin: shiny skin, visible vessels, easy bruising."
+   ],
+   "checks": [
+    {
+     "q": "A client has an itchy vesicular rash on the left wrist exactly the shape of the metal watch band she has worn for years. What is the most likely cause?",
+     "a": "Allergic contact dermatitis (likely nickel). Years of wear allowed sensitization, and the shape matches the object."
+    },
+    {
+     "q": "A parent of a 4-year-old with eczema asks about bath time. What should the nurse teach?",
+     "a": "A short lukewarm bath with a mild fragrance-free cleanser, pat dry, and apply a thick moisturizer right away."
+    },
+    {
+     "q": "Which clients at a health fair are at increased risk for skin disorders: a client with diabetes, a client on long-term prednisone, a client with a family history of psoriasis, a client with poor nutrition?",
+     "a": "All of them. Chronic illness, medications, genetics, and poor nutrition all raise skin risk."
+    },
+    {
+     "q": "Why can irritant contact dermatitis happen on the very first exposure but allergic contact dermatitis cannot?",
+     "a": "Irritant dermatitis is direct damage to the skin; allergic dermatitis needs the immune system to be sensitized first."
+    }
+   ]
+  },
+  {
+   "id": "lifespan-skin",
+   "title": "Tissue Integrity Across the Lifespan",
+   "exemplar": null,
+   "summary": "Skin changes from the first day of life to old age. Know what is normal at each stage, so you can reassure families about harmless findings and act on the ones that are not.",
+   "objectives": [
+    "Explain how intrinsic and extrinsic aging change the skin, decade by decade.",
+    "Identify expected newborn skin findings (vernix, milia, neonatal acne, erythema toxicum, birthmarks) and findings that need follow-up.",
+    "Recognize common childhood skin conditions, including fifth disease, roseola, pityriasis rosea, and diaper dermatitis.",
+    "Describe skin changes in adolescence and pregnancy, including atopic eruption of pregnancy.",
+    "Plan safe skin care for older adults with thin, fragile skin, and tell normal aging from findings that need action."
+   ],
+   "bigPicture": "<p>A lot of what you see on the skin is <strong>normal for the client's age</strong>. A newborn with white bumps on the nose, a teenager with acne, a pregnant client with a dark line down the belly, and an 86-year-old with purple patches on the forearms are all usually expected. Part of your job is to <strong>reassure</strong> clients and families about these findings.</p><p>The other part of your job is to spot what is <strong>not</strong> normal hiding among the normal findings: a newborn rash with fever, bruises that don't match the story, a mole that is changing, or a sore on an older adult that won't heal. You can only recognize \"not normal\" if you know \"normal\" well.</p><p>This lesson walks through the lifespan in order: aging in general, then newborns, children, adolescents, pregnancy, and older adults.</p>",
+   "keyTerms": [
+    {
+     "term": "Intrinsic aging",
+     "def": "Natural aging from inside the body (genes and time); begins around age 20."
+    },
+    {
+     "term": "Extrinsic aging",
+     "def": "Aging caused by outside factors: UV light, pollution, smoking, and chemicals."
+    },
+    {
+     "term": "Exfoliation",
+     "def": "The natural shedding of dead skin cells from the surface."
+    },
+    {
+     "term": "Vernix caseosa",
+     "def": "A white, cheesy coating on a newborn's skin that protects and moisturizes it."
+    },
+    {
+     "term": "Milia",
+     "def": "Tiny white bumps on a newborn's nose and chin from blocked oil glands; they go away on their own."
+    },
+    {
+     "term": "Erythema toxicum",
+     "def": "A harmless newborn rash of red blotches with small white or yellow centers that comes and goes and fades in days."
+    },
+    {
+     "term": "Body surface area (BSA)",
+     "def": "The total area of skin. Children have more skin compared with their body weight, so they lose more heat and fluid."
+    },
+    {
+     "term": "Fifth disease",
+     "def": "A mild viral illness of childhood with a bright red \"slapped cheek\" rash followed by a lacy rash on the arms and legs."
+    },
+    {
+     "term": "Roseola",
+     "def": "A viral illness of young children: several days of high fever, then a pink rash appears as the fever breaks."
+    },
+    {
+     "term": "Pityriasis rosea",
+     "def": "A harmless rash that starts with one larger oval \"herald patch,\" followed by smaller oval patches on the trunk."
+    },
+    {
+     "term": "Hyperpigmentation",
+     "def": "Darkening of areas of skin, common in pregnancy."
+    },
+    {
+     "term": "Pruritus",
+     "def": "Itching."
+    },
+    {
+     "term": "Senile purpura",
+     "def": "Flat purple patches on older adults' arms and hands from fragile blood vessels that break with minor bumps."
+    },
+    {
+     "term": "Melanocytes",
+     "def": "The skin cells that make melanin (pigment)."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "How skin ages: intrinsic vs. extrinsic",
+     "body": "<p>Skin ages in two ways at the same time.</p><p><strong>Intrinsic aging</strong> comes from inside the body. It is programmed by genes and time, and it <strong>starts around age 20</strong>. Exfoliation (shedding of old cells) slows, the skin holds <strong>less moisture</strong>, and there are <strong>fewer fat cells</strong>.</p>",
+     "table": {
+      "caption": "Intrinsic aging timeline (from the slides)",
+      "headers": [
+       "Stage",
+       "What changes",
+       "What you see"
+      ],
+      "rows": [
+       [
+        "About age 20",
+        "Exfoliation slows; ↓ moisture; ↓ fat cells",
+        "Changes are just beginning"
+       ],
+       [
+        "30s",
+        "Old cells linger at the surface",
+        "Dull, thinner skin"
+       ],
+       [
+        "40s",
+        "↓ <strong>collagen</strong>",
+        "Wrinkles"
+       ],
+       [
+        "Menopause",
+        "↓ <strong>estrogen</strong>",
+        "Thinner, drier skin"
+       ]
+      ]
+     },
+     "bullets": [
+      "<strong>Extrinsic aging</strong> comes from the outside: <strong>UV light, pollution, smoking, and chemicals</strong>.",
+      "It causes <strong>skin thickening</strong> (leathery skin), <strong>precancerous changes</strong>, and <strong>wrinkling</strong>.",
+      "Unlike intrinsic aging, much of extrinsic aging is <strong>preventable</strong>: sunscreen, hats, protective clothing, and not smoking."
+     ],
+     "analogy": "Intrinsic aging is like a car getting older just by sitting in the garage: parts wear out with time no matter what. Extrinsic aging is the damage from parking it in the hot sun and driving on salty winter roads. You can't stop the first, but you can prevent a lot of the second.",
+     "check": {
+      "q": "A 45-year-old smoker who worked outdoors for years has leathery, deeply wrinkled skin on the face and neck. Which kind of aging is mainly responsible?",
+      "a": "Extrinsic aging, from UV exposure and smoking. It also raises the risk of precancerous changes."
+     }
+    },
+    {
+     "heading": "Newborns: normal findings to recognize",
+     "body": "<p>Newborn skin is <strong>thin</strong>. That has two important effects. First, newborns <strong>lose heat quickly</strong> through their skin, so keep them dry and covered. Second, their skin <strong>absorbs substances more easily</strong>, so products applied to the skin (lotions, soaps, medicated creams) can get into the body. Use products sparingly and only as directed.</p><p>Many newborn skin findings look alarming to parents but are completely <strong>normal</strong>:</p>",
+     "table": {
+      "caption": "Expected newborn skin findings",
+      "headers": [
+       "Finding",
+       "What it looks like",
+       "Nursing action"
+      ],
+      "rows": [
+       [
+        "<strong>Vernix caseosa</strong>",
+        "White, cheesy coating, especially in skin folds",
+        "Protects the skin; do not scrub it off; it absorbs on its own"
+       ],
+       [
+        "<strong>Milia</strong>",
+        "Tiny white bumps on the nose, chin, and cheeks",
+        "Do not squeeze; they disappear in a few weeks"
+       ],
+       [
+        "<strong>Neonatal acne</strong>",
+        "Small red or white bumps on the face, from the parent's hormones",
+        "Gentle washing; resolves on its own"
+       ],
+       [
+        "<strong>Erythema toxicum</strong>",
+        "Red blotches with small white-yellow centers that come and go, on the face, trunk, and limbs, in the first days of life",
+        "Harmless; fades within about a week; reassure"
+       ],
+       [
+        "<strong>Birthmarks</strong>",
+        "For example, blue-gray patches over the lower back and buttocks (more common in darker-skinned infants), pink patches on the eyelids or nape of the neck",
+        "Document size and location at birth, so blue-gray patches are not later mistaken for bruises"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> The nurse assesses four infants. (1) White cheesy coating in the groin folds: <strong>expected</strong> (vernix). (2) Tiny white bumps on the nose: <strong>expected</strong> (milia). (3) Blotchy red spots with pale centers on a 2-day-old who is feeding well: <strong>expected</strong> (erythema toxicum). (4) Crops of clear blisters and crusting lesions on a 10-day-old who is feeding poorly: <strong>unexpected</strong>. Blisters and crusts are not normal newborn findings and could mean infection. The nurse reports this right away."
+    },
+    {
+     "heading": "Children: bigger surface, common infections",
+     "body": "<p>Compared with their body weight, children have a <strong>larger body surface area</strong>. More skin per pound means they <strong>lose fluid and heat faster</strong> than adults, especially with fever, burns, or large rashes.</p><p>Common skin <strong>infections</strong> in children (see the infectious disorders lesson):</p>",
+     "bullets": [
+      "<strong>Fungal</strong>: tinea (ringworm, scalp, athlete's foot).",
+      "<strong>Viral</strong>: warts, varicella (chickenpox).",
+      "<strong>Parasitic</strong>: lice, scabies.",
+      "<strong>Diaper dermatitis</strong>: an <strong>irritant</strong> dermatitis. Urine and stool sitting on the skin (especially with diarrhea) damage it, causing <strong>red, shiny, irritated skin where the diaper touches</strong>, while the deep skin folds are usually spared. Prevent and treat by <strong>changing diapers often</strong>, gently cleaning, letting the skin air-dry, and keeping it <strong>clean and dry</strong>, with a barrier cream if ordered."
+     ],
+     "table": {
+      "caption": "Other childhood rashes on your slides",
+      "headers": [
+       "Condition",
+       "Key pattern",
+       "What to know"
+      ],
+      "rows": [
+       [
+        "<strong>Fifth disease</strong>",
+        "Mild cold → bright red <strong>\"slapped cheek\"</strong> rash → <strong>lacy</strong> pink rash on the arms and legs",
+        "Viral; child usually feels fine once the rash appears"
+       ],
+       [
+        "<strong>Roseola</strong>",
+        "3–5 days of <strong>high fever</strong> → pink rash on the trunk <strong>as the fever breaks</strong>",
+        "Viral; most common in infants and toddlers; watch fluids and fever"
+       ],
+       [
+        "<strong>Pityriasis rosea</strong>",
+        "One larger oval <strong>\"herald patch\"</strong> → many smaller oval patches on the trunk",
+        "Harmless; fades on its own over several weeks"
+       ]
+      ]
+     },
+     "example": "<strong>At the bedside:</strong> A 7-year-old comes to the school nurse with bright red cheeks that look slapped and a lacy pink rash on the arms. He had a mild cold last week and is now afebrile and playful. This pattern fits <strong>fifth disease</strong>."
+    },
+    {
+     "heading": "Adolescents: hormones take over",
+     "body": "<p>At puberty, hormones increase <strong>sebum</strong> (oil) production and <strong>sweating</strong>. That is why the common adolescent skin disorders are <strong>acne, dermatitis, psoriasis, fungal infections, and warts</strong>. Acne affects about 85% of people aged 12–24.</p><p>For teens, appearance is closely tied to self-esteem. A skin problem can cause embarrassment, avoiding friends, or trying risky \"fixes.\" Ask how the teen feels, listen without judging, and offer safe treatment options.</p><p>In <strong>darker skin</strong>, acne often leaves <strong>dark spots</strong> after it heals. Some teens try strong skin-bleaching creams bought online. Your slides warn that <strong>bleaching creams can irritate the skin or interact with medications</strong>.</p>",
+     "example": "<strong>At the bedside:</strong> A 16-year-old with dark brown skin has healing acne with dark marks and says, \"I hate how I look. I bought a strong bleaching cream online and use it twice a day.\" The best response acknowledges the feeling and redirects safely: \"It sounds like these marks really bother you. Dark spots after acne are common in darker skin and often fade with time. Some online bleaching creams can damage skin, so let's stop that one and talk with your provider about safe treatments for the acne and the spots.\""
+    },
+    {
+     "heading": "Pregnancy: expected changes",
+     "body": "<p>Pregnancy hormones cause several <strong>common, expected skin changes</strong>:</p>",
+     "bullets": [
+      "<strong>Hyperpigmentation</strong>: a dark line down the middle of the abdomen, darker nipples, and darker patches on the face (melasma). Sun protection helps keep facial patches from getting darker.",
+      "<strong>Stretch marks</strong>: pink, purple, or darker lines on the abdomen, breasts, and thighs as the skin stretches. They fade to lighter lines after delivery but may not disappear.",
+      "<strong>Pruritus</strong> (itching), often from stretching and dry skin; moisturizers help.",
+      "<strong>Atopic eruption of pregnancy (AEP)</strong>: an itchy, dry, <strong>eczema-like rash</strong> (often on the arms, legs, and trunk). It is treated for comfort and <strong>resolves after delivery (postpartum)</strong>."
+     ],
+     "check": {
+      "q": "A client at 28 weeks with atopic eruption of pregnancy asks if the rash is permanent. What is the best answer?",
+      "a": "No. AEP is an itchy eczema-like rash that resolves after delivery; moisturizers and prescribed treatments can ease the itching until then."
+     }
+    },
+    {
+     "heading": "Older adults: normal aging changes",
+     "body": "<p>By late adulthood, the effects of intrinsic and extrinsic aging add up. Connect each change to the skin layer it comes from, and the care makes sense.</p>",
+     "table": {
+      "caption": "Aging skin: change → reason → risk",
+      "headers": [
+       "Change",
+       "Why it happens",
+       "What it means for the client"
+      ],
+      "rows": [
+       [
+        "Thinner, less elastic skin; wrinkles and sagging",
+        "↓ collagen and elastic fibers in the dermis",
+        "Skin tears, bruises easily"
+       ],
+       [
+        "Dry skin",
+        "↓ <strong>sebaceous (oil) glands</strong>",
+        "Itching, cracking, scratching"
+       ],
+       [
+        "Less cushioning; feels cold",
+        "↓ <strong>subcutaneous fat</strong>",
+        "Pressure injury risk; poor temperature regulation"
+       ],
+       [
+        "Paler, translucent skin",
+        "<strong>Fewer melanocytes</strong>",
+        "Less UV protection"
+       ],
+       [
+        "Age spots",
+        "Sun-related pigment clusters",
+        "Usually harmless, but watch for changes"
+       ],
+       [
+        "<strong>Senile purpura</strong>",
+        "Fragile blood vessels break with minor bumps",
+        "Flat purple patches on forearms and hands; expected"
+       ],
+       [
+        "Fat loss in face and hands; gain in thighs and abdomen",
+        "Redistribution of fat with age",
+        "Hands and face look thinner"
+       ]
+      ]
+     },
+     "bullets": [
+      "<strong>Functional changes</strong>: <strong>↓ sensation</strong> (may not feel pressure, heat, or injury), <strong>↑ healing time</strong>, <strong>↑ injury risk</strong>, and <strong>↓ temperature regulation</strong>."
+     ]
+    },
+    {
+     "heading": "Caring for fragile older skin",
+     "body": "<p>Care for older skin follows directly from the changes above. Your slides recommend bathing <strong>older adults and children every other day</strong> (adults daily), with <strong>mild cleansers</strong> and <strong>moisturizer after bathing</strong>.</p>",
+     "steps": [
+      "<strong>Bathe</strong> every other day with <strong>lukewarm</strong> (not hot) water and a mild, fragrance-free cleanser. Avoid alcohol-based or scented products.",
+      "<strong>Pat</strong> dry; do not rub.",
+      "<strong>Moisturize</strong> right after bathing while the skin is still slightly damp.",
+      "<strong>Lift, don't drag</strong>: use a lift or draw sheet to reposition, to prevent friction and skin tears.",
+      "<strong>Pad</strong> bed rails, wheelchair arms, and leg rests; long sleeves protect the forearms.",
+      "<strong>No adhesive tape</strong> on fragile skin; use gauze wraps or tape-free options.",
+      "Keep nails short to prevent scratching; encourage fluids and good <strong>nutrition</strong> (protein, calories, vitamins A and C) for healing.",
+      "Inspect the skin daily, since the client may not feel an injury."
+     ],
+     "example": "<strong>At the bedside:</strong> Mrs. W, 84, lives in long-term care. Her note reads: thin, translucent skin; purple patches on both forearms (senile purpura); a 2-cm skin tear on the left forearm with scant drainage; scratch marks on the legs; eating about 25% of meals; albumin 2.9 g/dL; staff bathe her daily in hot water with deodorant soap. Which findings are expected with aging? Thin skin and senile purpura. Which need follow-up? The <strong>open skin tear</strong>, the <strong>scratching</strong>, <strong>poor intake</strong>, <strong>low albumin</strong> (below 3.5 g/dL means poor nutrition and slower healing), and <strong>hot water with harsh soap</strong>. The plan: pad and protect, lift don't drag, no tape, change bathing to every other day with lukewarm water and mild cleanser plus moisturizer, and improve nutrition. On day 14, evaluate each goal separately; the skin tear may be healing while the intake goal is still not met."
+    },
+    {
+     "heading": "Telling normal from not normal at any age",
+     "body": "<p>Knowing what is normal lets you pick out what is <strong>not</strong>. Report these, whatever the client's age:</p>",
+     "bullets": [
+      "<strong>Bruises in different stages of healing</strong>, in protected areas (inner arms, trunk, buttocks), in patterns (fingers, belt, cord), or that <strong>don't match the story</strong>. These can be signs of abuse in children and older adults.",
+      "A <strong>mole or spot that is new, changing, bleeding, or itching</strong>.",
+      "A <strong>sore that does not heal</strong>.",
+      "A rash in a newborn or child that comes with <strong>fever, poor feeding, or lethargy</strong>.",
+      "Signs of <strong>infection</strong> in a skin tear or wound: spreading redness, warmth, swelling, pus."
+     ]
+    }
+   ],
+   "pearls": [
+    "Vernix, milia, neonatal acne, erythema toxicum, and birthmarks are expected newborn findings. Reassure the parents. Crops of blisters or crusts in a newborn are not normal.",
+    "Slapped cheeks + lacy rash = fifth disease. High fever, then rash as fever breaks = roseola. Herald patch = pityriasis rosea.",
+    "Diaper rash from urine and stool is irritant dermatitis: change often, keep clean and dry.",
+    "Pregnancy: hyperpigmentation, stretch marks, and itching are common; atopic eruption of pregnancy resolves after delivery.",
+    "Fragile older skin: lift don't drag, pat don't rub, pad don't tape, lukewarm not hot."
+   ],
+   "redFlags": [
+    "Bruises in different stages in protected areas, or that don't match the history, at any age → document objectively and report per facility policy (possible abuse).",
+    "Newborn or child with a rash plus fever, poor feeding, or lethargy → report promptly.",
+    "A mole that is changing or a sore that won't heal → refer for evaluation."
+   ],
+   "recap": [
+    "Intrinsic aging starts ~20: 30s dull and thin, 40s ↓ collagen → wrinkles, menopause ↓ estrogen → thinner, drier skin.",
+    "Extrinsic aging (UV, pollution, smoking, chemicals) → thickening, precancerous changes, wrinkles; largely preventable.",
+    "Newborns: vernix protects; thin skin → heat loss and ↑ absorption; milia, neonatal acne, erythema toxicum, birthmarks are normal.",
+    "Children: larger BSA → ↑ fluid and heat loss; tinea, warts, varicella, lice, scabies; fifth disease, roseola, pityriasis rosea.",
+    "Adolescents: ↑ sebum and sweat → acne, dermatitis, psoriasis, fungal infections, warts.",
+    "Pregnancy: hyperpigmentation, stretch marks, pruritus; AEP resolves postpartum.",
+    "Older adults: thin, dry, less cushioned skin; ↓ sensation and temperature control; ↑ healing time and injury risk; senile purpura is expected."
+   ],
+   "checks": [
+    {
+     "q": "A new parent is worried about red blotches with tiny white centers on her 2-day-old, who is feeding well. What should the nurse say?",
+     "a": "This is likely erythema toxicum, a common harmless newborn rash that comes and goes and fades on its own within about a week."
+    },
+    {
+     "q": "A 7-month-old with diarrhea has red, shiny skin where the diaper touches, but the skin folds are spared. What type of dermatitis is this, and what is the main intervention?",
+     "a": "Irritant (diaper) dermatitis from urine and stool. Change diapers often and keep the skin clean and dry."
+    },
+    {
+     "q": "The RN delegates care of an 86-year-old with senile purpura to a UAP. Which instruction is wrong: use a lift sheet, use lukewarm water, secure the IV dressing with extra tape, pad the wheelchair arms?",
+     "a": "Extra tape. Adhesive can tear fragile skin; use tape-free options."
+    },
+    {
+     "q": "Why do older adults feel cold more easily?",
+     "a": "Loss of subcutaneous fat reduces insulation, and aging skin regulates temperature less well."
+    }
+   ]
+  }
+ ],
+ "flashcards": [],
+ "questions": []
+});

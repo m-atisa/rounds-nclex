@@ -11,7 +11,7 @@
    "ref": "Module 10 · Inflammation · NGN Case Study: Acute Cholecystitis (Surgery)",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "caseId": "m10c-case-cholecystitis",
-   "type": "highlight",
+   "type": "sata",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
@@ -105,30 +105,32 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse summarizes the client's emergency department data. Click to highlight the findings that require follow-up.",
-   "passage": "The client reports {{RUQ pain rated 8/10}}. Vital signs: {{T 38.8 °C (101.8 °F)}}, {{HR 108/min}}, {{BP 136/84 mm Hg}}, and {{SpO₂ 97% on room air}}. The client is {{alert and oriented ×4}}. Labs: {{WBC 15,400/mm³ with 11% bands}}, {{creatinine 0.8 mg/dL}}, and {{random glucose 246 mg/dL}}.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse summarizes the client's emergency department data. Which findings require follow-up? Select all that apply.",
    "answer": [
-    0,
     1,
-    2,
-    6,
-    8
+    3,
+    5
    ],
    "optionRationales": [
-    "Requires follow-up: severe pain from the inflamed gallbladder needs treatment and reassessment.",
-    "Requires follow-up: a temperature above 38.5 °C (101.3 °F) is a systemic sign of inflammation.",
-    "Requires follow-up: HR above 90/min is a systemic sign of inflammation.",
-    "Does not require follow-up: this BP is acceptable for a client with treated hypertension.",
-    "Does not require follow-up: oxygenation is normal.",
-    "Does not require follow-up: mental status is normal.",
-    "Requires follow-up: WBC above 12,000/mm³ with increased bands (a left shift) is a systemic sign and suggests bacterial infection.",
-    "Does not require follow-up: kidney function is normal.",
-    "Requires follow-up: the client has diabetes, and the stress of inflammation has raised the glucose well above the normal range."
+    "BP is within normal limits and is a reassuring baseline finding.",
+    "Correct. A temperature above 38.5 °C (101.3 °F) is a systemic sign of inflammation.",
+    "SpO₂ is normal on room air, so oxygenation is not a current concern.",
+    "Correct. Leukocytosis with increased bands (a left shift) shows an acute bacterial inflammatory process with a systemic response.",
+    "Creatinine is within normal limits, showing adequate kidney function.",
+    "Correct. Inflammation is a physical stress that raises blood glucose, and in a client with type 2 diabetes this level needs follow-up."
    ],
-   "rationale": "Recognizing cues means separating abnormal, clinically significant data from normal data. Severe RUQ pain, fever, tachycardia, and a high WBC with bands show an acute inflammatory process that is producing systemic effects, and the high glucose needs attention in a client with diabetes. Normal BP, SpO₂, mental status, and creatinine are reassuring baseline findings.",
+   "rationale": "Recognizing cues means separating abnormal, clinically significant data from normal data. Severe RUQ pain, fever, tachycardia (HR 108), and a high WBC with bands show an acute inflammatory process that is producing systemic effects, and the high glucose needs attention in a client with diabetes. Normal BP, SpO₂, mental status, and creatinine are reassuring baseline findings.",
    "takeaway": "Fever, tachycardia, and a high WBC with bands mean the inflammation is no longer only local.",
    "hintContent": "Recall the systemic signs of inflammation from the nursing assessment and the normal ranges for the labs listed.",
-   "hintStrategy": "Compare each finding with its normal range and with the client's history. Only abnormal, significant findings require follow-up."
+   "hintStrategy": "Compare each finding with its normal range and with the client's history. Only abnormal, significant findings require follow-up.",
+   "options": [
+    "BP 136/84 mm Hg",
+    "T 38.8 °C (101.8 °F)",
+    "SpO₂ 97% on room air",
+    "WBC 15,400/mm³ with 11% bands",
+    "Creatinine 0.8 mg/dL",
+    "Random glucose 246 mg/dL"
+   ]
   },
   {
    "id": "m10c-002",
@@ -136,7 +138,7 @@
    "ref": "Module 10 · Inflammation · NGN Case Study: Acute Cholecystitis (Surgery)",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "caseId": "m10c-case-cholecystitis",
-   "type": "matrix",
+   "type": "sata",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
@@ -230,47 +232,44 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. For each finding, indicate whether it reflects a local inflammatory response at the gallbladder or a systemic (generalized) inflammatory response.",
-   "rows": [
-    "RUQ tenderness with guarding",
-    "The client stops inhaling when the RUQ is palpated",
-    "T 38.8 °C (101.8 °F) with chills overnight",
-    "WBC 15,400/mm³ with 11% bands",
-    "Fatigue ('I feel exhausted') and loss of appetite"
-   ],
-   "columns": [
-    "Local response",
-    "Systemic response"
-   ],
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which findings indicate that the gallbladder inflammation is producing a systemic (generalized) inflammatory response? Select all that apply.",
    "answer": [
-    0,
-    0,
     1,
-    1,
-    1
+    3,
+    4
    ],
    "optionRationales": [
-    "Local: tenderness and guarding are pain and impaired function at the inflamed organ.",
-    "Local: pain when the inflamed gallbladder is pressed against the examiner's hand is a finding at the site.",
-    "Systemic: fever above 38.5 °C shows mediators are acting on the whole body.",
-    "Systemic: leukocytosis with a left shift reflects the bone marrow response to circulating mediators.",
-    "Systemic: fatigue and appetite loss are whole-body effects of inflammation."
+    "Tenderness and guarding are found at the affected organ and reflect local inflammation.",
+    "Correct. Fever with chills is a body-wide response to circulating inflammatory mediators.",
+    "Stopping inspiration when the RUQ is palpated reflects pain at the inflamed gallbladder, a local finding.",
+    "Correct. A high WBC with bands reflects a systemic response by the bone marrow.",
+    "Correct. Fatigue and loss of appetite are generalized effects of inflammation.",
+    "Pain spreading to the right shoulder is referred pain from the inflamed gallbladder. It reflects the local process, not a body-wide response."
    ],
    "rationale": "Local inflammation produces findings at the affected organ: pain, tenderness, guarding, and impaired function. Generalized inflammation produces systemic effects: fever, tachycardia, tachypnea, a rising WBC or bands, fatigue, and loss of appetite. This client has both, so the gallbladder inflammation is producing a generalized response.",
    "takeaway": "Findings at the organ are local; fever, high WBC, fatigue, and anorexia are systemic.",
    "hintContent": "Recall the difference between localized and generalized inflammation described in the course.",
-   "hintStrategy": "For each row, ask: would I find this only by examining the RUQ, or does it describe the whole body?"
+   "hintStrategy": "For each option, ask: would I find this only by examining the RUQ, or does it describe the whole body?",
+   "options": [
+    "RUQ tenderness with guarding",
+    "T 38.8 °C (101.8 °F) with chills overnight",
+    "The client stops inhaling when the RUQ is palpated",
+    "WBC 15,400/mm³ with 11% bands",
+    "Fatigue ('I feel exhausted') and loss of appetite",
+    "Pain that spreads to the right shoulder"
+   ]
   },
   {
    "id": "m10c-003",
+   "type": "mcq",
+   "priority": false,
    "topic": "inflammation-overview",
    "ref": "Module 10 · Inflammation · NGN Case Study: Acute Cholecystitis (Surgery)",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "caseId": "m10c-case-cholecystitis",
-   "type": "dropdown",
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
+   "focus": "Pathophysiology",
    "caseOrder": 3,
    "exhibit": {
     "tabs": [
@@ -361,41 +360,24 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the sentence by choosing from the lists of options.",
-   "template": "The client is most likely experiencing {0}, and the findings that best show the process has become systemic are {1}. Because of the client's history, the laboratory result that also needs follow-up is {2}.",
-   "blanks": [
-    {
-     "options": [
-      "chronic inflammation of the gallbladder",
-      "acute inflammation of the gallbladder",
-      "an allergic reaction to fried food",
-      "a local reaction limited to the skin"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "RUQ tenderness and guarding",
-      "the BP of 136/84 mm Hg",
-      "fever with an elevated WBC and bands",
-      "the SpO₂ of 97% on room air"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "the glucose of 246 mg/dL",
-      "the creatinine of 0.8 mg/dL",
-      "the potassium of 4.1 mEq/L",
-      "the sodium of 139 mEq/L"
-     ],
-     "answer": 0
-    }
-   ],
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which statement best describes the client's condition?",
    "rationale": "Cholecystitis ('-itis') is inflammation of the gallbladder. Onset over hours after a trigger, with the classic signs at the organ, is acute inflammation, not chronic. Fever, tachycardia, and a high WBC with bands show the response is systemic, while tenderness and guarding are local. Inflammation is a physical stress that raises blood glucose, and this client has diabetes, so the glucose of 246 mg/dL needs follow-up; the other results are normal.",
    "takeaway": "Acute cholecystitis with systemic signs; in a client with diabetes, watch the glucose.",
    "hintContent": "Recall how the suffix -itis, the time course, and systemic signs help name the problem, and how diabetes affects the response to inflammation.",
-   "hintStrategy": "Fill the blanks in order. Use the time course for the first blank, local vs. systemic for the second, and the history for the third."
+   "hintStrategy": "Use the time course to decide acute vs. chronic, then decide whether the findings are only local or also systemic.",
+   "options": [
+    "Chronic inflammation of the gallbladder that is limited to the RUQ",
+    "Acute inflammation of the gallbladder that is limited to the RUQ",
+    "Acute inflammation of the gallbladder with a systemic response",
+    "An allergic reaction to fried food with a systemic response"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Onset over hours after a trigger is acute, not chronic, and fever and leukocytosis show the process is not limited to the RUQ.",
+    "The onset is acute, but fever, tachycardia, and a high WBC with bands show the response has become systemic.",
+    "Correct. Cholecystitis is inflammation of the gallbladder. Onset over hours with the classic signs at the organ is acute, and fever, tachycardia, and leukocytosis with bands show a systemic response.",
+    "The ultrasound shows an inflamed gallbladder with gallstones, and there are no hives, wheezing, or other signs of an allergic reaction."
+   ]
   },
   {
    "id": "m10c-004",
@@ -503,7 +485,6 @@
     "Offer a small, low-fat snack once the nausea improves",
     "Check capillary glucose as prescribed and give correction insulin",
     "Give the prescribed IV morphine for severe pain and reassess",
-    "Withhold all pain medication until after surgery to avoid masking symptoms",
     "Monitor temperature, heart rate, and respiratory rate for worsening",
     "Give the client's usual morning metformin with a sip of water"
    ],
@@ -511,14 +492,13 @@
     0,
     2,
     3,
-    5
+    4
    ],
    "optionRationales": [
     "Correct: NPO rests the inflamed gallbladder (eating makes it contract) and prepares the client for surgery; explaining why improves cooperation.",
     "Incorrect: the client is NPO; any food stimulates the gallbladder and interferes with surgical preparation.",
     "Correct: inflammation raises glucose in a client with diabetes, and correction insulin is prescribed.",
     "Correct: opioids are used for severe pain; reassessing evaluates the effect.",
-    "Incorrect: withholding analgesia causes needless suffering; pain can be treated and reassessed.",
     "Correct: rising temperature, HR, or RR would show the systemic response is worsening and must be reported.",
     "Incorrect: metformin is on hold per the orders, and the client is NPO."
    ],
@@ -529,11 +509,12 @@
   },
   {
    "id": "m10c-005",
+   "type": "mcq",
+   "priority": true,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · NGN Case Study: Acute Cholecystitis (Surgery)",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "caseId": "m10c-case-cholecystitis",
-   "type": "mcq",
    "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Prioritization",
@@ -605,14 +586,15 @@
   },
   {
    "id": "m10c-006",
+   "type": "mcq",
+   "priority": true,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · NGN Case Study: Acute Cholecystitis (Surgery)",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "caseId": "m10c-case-cholecystitis",
-   "type": "matrix",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
+   "focus": "Prioritization",
    "caseOrder": 6,
    "exhibit": {
     "tabs": [
@@ -690,45 +672,33 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results for postoperative day 1. For each finding, indicate whether it shows the expected progress or needs follow-up.",
-   "rows": [
-    "Temperature and heart rate",
-    "WBC and band count",
-    "CRP trend",
-    "Port-site incisions",
-    "The client's plan for daily fast-food lunches"
-   ],
-   "columns": [
-    "Expected progress",
-    "Needs follow-up"
-   ],
-   "answer": [
-    0,
-    0,
-    0,
-    0,
-    1
-   ],
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results for postoperative day 1. Which finding is the priority for the nurse to address before discharge?",
+   "answer": 3,
    "optionRationales": [
-    "Expected progress: temperature and HR have returned to normal, so the systemic response has resolved.",
-    "Expected progress: the WBC and bands are back in the normal range.",
-    "Expected progress: CRP has fallen from 8.2 to 3.0 mg/dL. A falling CRP shows the inflammation is resolving and treatment is working.",
-    "Expected progress: clean, dry, approximated incisions without redness or drainage show normal healing.",
-    "Needs follow-up: a Western (fast-food) diet promotes inflammation and does not help control diabetes. The nurse reinforces an anti-inflammatory, high-fiber, low-fat diet and may request a dietitian referral."
+    "Temperature and heart rate have returned to normal, showing the systemic response is resolving.",
+    "WBC and bands are now within normal limits, showing expected progress after surgery and antibiotics.",
+    "Clean, dry incisions with approximated edges show expected healing.",
+    "Correct. The client plans to return to a Western-style diet, a modifiable risk factor for inflammation. This teaching need must be addressed before discharge."
    ],
    "rationale": "Evaluating outcomes means comparing current data with earlier data and the expected course. The systemic markers and the incisions show the inflammation is resolving after surgery. The client's diet plan shows a teaching need: patient teaching about nutrition is part of the nurse's postoperative role, and avoiding the Western diet is a modifiable risk factor for inflammation.",
    "takeaway": "Falling CRP, normal vital signs, and a clean incision = progress; a fast-food plan = more teaching.",
    "hintContent": "Recall what a falling CRP means and which dietary patterns promote or reduce inflammation.",
-   "hintStrategy": "Compare each Day 3 finding with Day 1 and with normal values. For the last row, ask whether the plan supports health promotion."
+   "hintStrategy": "Compare each finding with Day 1 and with normal values. The priority is the one finding that does not show expected progress.",
+   "options": [
+    "Temperature 37.1 °C (98.8 °F) and heart rate 80/min",
+    "WBC 9,100/mm³ with bands down to 4%",
+    "Port-site incisions clean and dry with edges together",
+    "The client's plan for daily fast-food lunches"
+   ]
   },
   {
    "id": "m10c-007",
-   "type": "bowtie",
+   "type": "sata",
    "topic": "pharmacology",
    "ref": "Module 10 · Inflammation · Pharmacologic Therapy (NSAIDs)",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "cjmm": "Prioritize Hypotheses",
+   "cjmm": "Take Action",
    "focus": "Pharmacology",
    "exhibit": {
     "tabs": [
@@ -806,78 +776,43 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Flare of rheumatoid arthritis",
-     "Upper GI bleeding from NSAID use",
-     "Salicylate toxicity",
-     "Adrenal insufficiency from steroid withdrawal"
-    ],
-    "answer": 1
-   },
-   "actions": {
-    "options": [
-     "Hold the NSAIDs and notify the provider",
-     "Teach the client to take the naproxen with milk",
-     "Use fall precautions and help the client get up slowly",
-     "Replace the naproxen with aspirin for the joint pain",
-     "Encourage iron-rich foods and more dietary fiber"
-    ],
-    "answer": [
-     0,
-     2
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Erythrocyte sedimentation rate",
-     "Hemoglobin",
-     "Temperature",
-     "Blood pressure and heart rate",
-     "Stool color"
-    ],
-    "answer": [
-     1,
-     3
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect: the ESR is unchanged and there are no new joint findings; the problem is blood loss.",
-     "Correct: two NSAIDs taken together for months, black sticky stools (melena), upper abdominal burning, a falling hemoglobin, and dizziness with a BP drop on standing point to a bleeding ulcer caused by loss of protective prostaglandins.",
-     "Incorrect: the client takes naproxen and ibuprofen, not a salicylate, and has no tinnitus or rapid breathing.",
-     "Incorrect: the client is not taking a corticosteroid, and melena with a falling hemoglobin points to bleeding."
-    ],
-    "actions": [
-     "Correct: NSAIDs reduce the prostaglandins that protect the stomach lining; stopping them and reporting the bleeding is essential.",
-     "Incorrect: food or milk is prevention teaching and does not treat an active bleed.",
-     "Correct: dizziness and a BP drop on standing put the client at high risk of falling.",
-     "Incorrect: aspirin also irritates the stomach and increases bleeding.",
-     "Incorrect: diet changes do not address an active bleed."
-    ],
-    "parameters": [
-     "Incorrect: ESR tracks inflammation, not blood loss.",
-     "Correct: hemoglobin shows whether bleeding continues or is controlled.",
-     "Incorrect: temperature does not reflect blood loss.",
-     "Correct: BP and HR (including the change on standing) show how well circulating volume is maintained.",
-     "Incorrect: stool color can stay dark for days after bleeding stops, so it is less useful than hemoglobin, BP, and HR for tracking progress."
-    ]
-   },
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which actions should the nurse take at this time? Select all that apply.",
+   "optionRationales": [
+    "Correct. Black, sticky stools, upper abdominal pain, and a falling hemoglobin suggest an NSAID-induced upper GI bleed, so the drugs are held and the provider notified.",
+    "Taking an NSAID with food or milk may reduce stomach upset, but it does not stop an active bleed, and continuing the drug is unsafe.",
+    "Correct. The BP drop and dizziness on standing show significant blood loss and a high risk for falls.",
+    "Aspirin also blocks prostaglandins that protect the stomach lining and impairs clotting, so it would worsen bleeding.",
+    "Correct. Hemoglobin, BP, and HR show whether bleeding continues and whether the client is responding to treatment.",
+    "Diet changes address long-term iron stores and bowel habits; they do not treat acute bleeding."
+   ],
    "rationale": "Prostaglandins cause pain, fever, and swelling but also protect the stomach lining. NSAIDs block them, so long-term use, especially of two NSAIDs together, can cause ulcers and GI bleeding. Melena, upper abdominal pain, a falling hemoglobin, and a BP drop with tachycardia on standing show significant blood loss. The nurse holds the NSAIDs, notifies the provider, protects the client from falls, and monitors hemoglobin, BP, and HR.",
    "takeaway": "NSAIDs + black stools + dizziness = GI bleed: hold, notify, prevent falls, trend Hgb and vital signs.",
    "hintContent": "Recall why NSAIDs damage the stomach lining and what black, sticky stools and a BP drop on standing mean.",
-   "hintStrategy": "Choose the condition first, then only the actions and parameters that fit it. Eliminate options that are teaching for prevention rather than treatment."
+   "hintStrategy": "Decide what condition the findings point to, then choose only actions that treat or monitor that condition now. Eliminate prevention teaching and anything that continues the cause.",
+   "options": [
+    "Hold the NSAIDs and notify the provider",
+    "Teach the client to take the naproxen with milk",
+    "Use fall precautions and help the client get up slowly",
+    "Replace the naproxen with aspirin for the joint pain",
+    "Monitor hemoglobin, blood pressure, and heart rate",
+    "Encourage iron-rich foods and more dietary fiber"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ]
   },
   {
    "id": "m10c-008",
-   "type": "bowtie",
+   "type": "mcq",
+   "priority": true,
    "topic": "lifespan",
    "ref": "Module 10 · Inflammation · Lifespan Considerations",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Generate Solutions",
-   "focus": "Lifespan & Diversity",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "exhibit": {
     "tabs": [
      {
@@ -959,80 +894,35 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Progression of Alzheimer disease",
-     "Pneumonia with a systemic inflammatory response",
-     "Urinary tract infection",
-     "Adverse effect of donepezil"
-    ],
-    "answer": 1
-   },
-   "actions": {
-    "options": [
-     "Apply oxygen as prescribed to keep SpO₂ at or above 92%",
-     "Apply bilateral soft wrist restraints to prevent a fall",
-     "Obtain blood and sputum cultures before the first antibiotic dose",
-     "Give diphenhydramine at bedtime to promote sleep",
-     "Restrict oral fluids to lower the risk of aspiration"
-    ],
-    "answer": [
-     0,
-     2
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Level of orientation compared with baseline",
-     "Weekly body weight",
-     "Respiratory rate and SpO₂",
-     "Bowel sounds every shift",
-     "Pedal pulses"
-    ],
-    "answer": [
-     0,
-     2
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "Incorrect: dementia progresses gradually; an abrupt change over 1 day with abnormal vital signs is delirium from an acute cause.",
-     "Correct: crackles, cough, low SpO₂, a fast RR, and a high WBC with bands point to pneumonia. The temperature is well above this client's own baseline, and new confusion is a common atypical presentation in older adults.",
-     "Incorrect: the urinalysis is negative for leukocyte esterase and nitrite, and there are respiratory findings.",
-     "Incorrect: donepezil is a long-standing medication and does not explain fever, crackles, hypoxemia, or leukocytosis."
-    ],
-    "actions": [
-     "Correct: SpO₂ 89% with RR 26 requires oxygen to correct hypoxemia, which also worsens delirium.",
-     "Incorrect: restraints increase agitation, injury, and delirium; use frequent rounding, a low bed, and a family presence instead.",
-     "Correct: cultures before antibiotics identify the organism without delaying treatment.",
-     "Incorrect: diphenhydramine worsens confusion in older adults and does not treat the cause.",
-     "Incorrect: the elevated BUN and creatinine suggest dehydration; the client needs fluids, with aspiration precautions, not restriction."
-    ],
-    "parameters": [
-     "Correct: return toward baseline orientation shows the delirium, driven by infection and hypoxemia, is resolving.",
-     "Incorrect: weekly weight is too infrequent to guide acute care.",
-     "Correct: respiratory rate and SpO₂ directly reflect gas exchange and response to treatment.",
-     "Incorrect: bowel sounds are not related to this condition.",
-     "Incorrect: pedal pulses do not reflect pneumonia or its treatment."
-    ]
-   },
-   "rationale": "Older adults often present with infection atypically: a small rise from their own baseline temperature, new confusion, falls, and loss of appetite rather than a high fever. The nurse corrects the low oxygen level, obtains cultures before the first antibiotic dose, avoids restraints and sedating drugs, and uses mental status and respiratory status to judge progress.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which action should the nurse take first?",
+   "optionRationales": [
+    "Cultures should be obtained before antibiotics are started, but correcting the low oxygen saturation comes first.",
+    "Correct. An SpO₂ of 89% with RR 26 is a breathing problem. By the ABCs, oxygenation is the priority, and it may also improve the new confusion.",
+    "Comparing mental status with baseline is important for evaluating progress, but it does not treat the low oxygen level.",
+    "The urinalysis is negative for leukocyte esterase and nitrite, and the findings point to pneumonia, not a urinary infection."
+   ],
+   "rationale": "Older adults often present with infection atypically: a small rise from their own baseline temperature, new confusion, falls, and loss of appetite rather than a high fever. This client's cough, crackles, tachypnea, low SpO₂, and high WBC with bands point to pneumonia with a systemic inflammatory response. Using the ABCs, the nurse corrects the low oxygen level first, then obtains cultures before the first antibiotic dose, avoids restraints and sedating drugs, and uses mental status and respiratory status to judge progress.",
    "takeaway": "In an older adult, new confusion plus a small temperature rise from baseline can be serious infection.",
    "hintContent": "Recall how older adults present with infection and why the client's own baseline matters.",
-   "hintStrategy": "Compare the admission data with the client's own baseline, not with textbook normal values, before choosing the condition."
+   "hintStrategy": "Identify the condition by comparing the data with the client's own baseline, then apply the ABCs to choose the first action.",
+   "options": [
+    "Obtain blood and sputum cultures before the first antibiotic dose",
+    "Apply oxygen as prescribed to keep SpO₂ at or above 92%",
+    "Compare the client's orientation with the facility baseline",
+    "Collect a urine specimen for culture to check for infection"
+   ],
+   "answer": 1
   },
   {
    "id": "m10c-009",
-   "type": "highlight",
+   "type": "sata",
    "topic": "stages",
    "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "stem": "A 64-year-old client's lower-leg wound was left open to heal by secondary intention after an abscess was drained 12 days ago. The nurse documents the wound assessment. Click to highlight the findings that indicate the wound is NOT progressing through the reparative phase as expected.",
-   "passage": "Most of the wound bed is {{beefy red, moist, and granular}}. At the lower edge there is an area of {{pale, gray, friable tissue}}. The dressing has {{moderate thick, tan-green drainage}} with {{a foul odor that persists after cleansing}}. Wound length has {{decreased from 5.2 cm to 4.1 cm over 1 week}}. The client reports {{pain rising from 2/10 to 7/10 over the past 24 hours}}. The client {{eats 75% of meals plus two protein shakes daily}}. {{T 37.2 °C (99.0 °F)}}.",
+   "stem": "A 64-year-old client's lower-leg wound was left open to heal by secondary intention after an abscess was drained 12 days ago. Which wound assessment findings indicate the wound is NOT progressing through the reparative phase as expected? Select all that apply.",
    "answer": [
     1,
     2,
@@ -1040,53 +930,59 @@
     5
    ],
    "optionRationales": [
-    "Expected: beefy red, moist granulation tissue full of new capillaries is healthy repair.",
-    "Not expected: pale, gray, friable tissue suggests poor perfusion, infection, or stalled healing.",
-    "Not expected: thick, colored (purulent) exudate indicates bacterial infection in the wound.",
-    "Not expected: persistent foul odor after cleansing is a sign of infection.",
-    "Expected: decreasing wound size shows contraction and filling in, as expected during repair.",
-    "Not expected: pain should decrease as inflammation resolves; a sharp rise suggests infection.",
-    "Expected: adequate calories and protein support collagen synthesis during repair.",
-    "Expected: a temperature of 37.2 °C (99.0 °F) is within normal limits."
+    "Beefy red, moist, granular tissue is healthy granulation tissue, an expected finding.",
+    "Correct. Pale, gray, friable tissue indicates poor blood supply or infection rather than healthy granulation.",
+    "Correct. Thick, tan-green (purulent) drainage suggests infection. Drainage should decrease and become serous as the wound heals.",
+    "Correct. A foul odor that persists after cleansing suggests infection.",
+    "A shrinking wound shows contraction, an expected part of repair.",
+    "Correct. Pain should lessen as the wound heals. Rising pain suggests infection or impaired healing."
    ],
    "rationale": "In the reparative phase, healthy granulation tissue is beefy red and moist, drainage decreases and becomes serous, pain lessens, and the wound contracts. Pale or gray tissue, purulent drainage, foul odor, and increasing pain indicate infection or impaired healing and should be reported. An infected wound can still have a normal temperature, so local findings matter.",
    "takeaway": "Beefy red is good; gray tissue, pus, odor, and rising pain are not.",
    "hintContent": "Picture healthy granulation tissue and the expected trend of drainage and pain as repair progresses.",
-   "hintStrategy": "For each segment, ask whether it moves toward healing or away from it. Do not skip a finding just because other findings look good."
+   "hintStrategy": "For each finding, ask whether it moves toward healing or away from it. Do not skip a finding just because other findings look good.",
+   "options": [
+    "Most of the wound bed is beefy red, moist, and granular",
+    "An area of pale, gray, friable tissue at the lower edge",
+    "Moderate thick, tan-green drainage on the dressing",
+    "A foul odor that persists after cleansing",
+    "Wound length decreased from 5.2 cm to 4.1 cm over 1 week",
+    "Pain rising from 2/10 to 7/10 over the past 24 hours"
+   ]
   },
   {
    "id": "m10c-010",
-   "type": "highlight",
+   "type": "mcq",
+   "priority": true,
    "topic": "lifespan",
    "ref": "Module 10 · Inflammation · Lifespan Considerations – Children & Adolescents",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
-   "stem": "The nurse is caring for an 18-month-old child admitted with pneumonia who has had vomiting and poor oral intake for 2 days. Click to highlight the findings that indicate the child's fluid volume and perfusion are compromised.",
-   "passage": "The child is {{lethargic and difficult to arouse}}. Vital signs: {{RR 36/min}}, {{BP 92/58 mm Hg}}, {{T 38.9 °C (102.0 °F)}}, and {{SpO₂ 95% on 1 L/min nasal cannula}}. {{Capillary refill is 4 seconds}}. The parent reports {{no wet diaper in the past 8 hours}}.",
-   "answer": [
-    0,
-    5,
-    6
-   ],
+   "stem": "The nurse is caring for an 18-month-old child admitted with pneumonia who has had vomiting and poor oral intake for 2 days. Which finding requires the nurse's immediate follow-up?",
+   "answer": 3,
    "optionRationales": [
-    "Compromised: lethargy reflects decreased perfusion of the brain.",
-    "Not a perfusion finding: an RR of 36/min is within the normal range for a toddler.",
-    "Not a perfusion finding on its own: this BP is within the normal range for age, but the other findings show perfusion is already compromised.",
-    "Not a perfusion finding: fever raises fluid needs and needs treatment, but by itself it does not show compromised perfusion.",
-    "Not a perfusion finding: the SpO₂ is acceptable on low-flow oxygen.",
-    "Compromised: capillary refill longer than 2 seconds indicates poor peripheral perfusion.",
-    "Compromised: no urine output for 8 hours indicates poor kidney perfusion and dehydration."
+    "Fever needs treatment and increases fluid loss, but it does not show that perfusion is already compromised.",
+    "A respiratory rate of 36/min is within the expected range for a toddler.",
+    "This BP is within the expected range for a toddler. Children often keep a normal BP until late in shock.",
+    "Correct. Lethargy and difficulty arousing show poor perfusion of the brain from fluid loss and require immediate intervention."
    ],
    "rationale": "Young children have a smaller total fluid volume and immature kidneys that control fluid balance poorly, so fever, vomiting, and poor intake quickly cause significant fluid loss. Lethargy, delayed capillary refill, and absent urine output show poor perfusion of the brain, skin, and kidneys and need immediate intervention. Do not wait for vital-sign changes to act.",
    "takeaway": "In a child, check mental status, capillary refill, and wet diapers.",
    "hintContent": "Recall why fluid losses are more significant in young children and which findings reflect perfusion of the brain, skin, and kidneys.",
-   "hintStrategy": "The stem limits you to fluid volume and perfusion. A finding can be abnormal without belonging in that category."
+   "hintStrategy": "Children can keep a normal BP until late. Look for the finding that shows an organ is already underperfused.",
+   "options": [
+    "Temperature of 38.9 °C (102.0 °F)",
+    "Respiratory rate of 36/min",
+    "Blood pressure of 92/58 mm Hg",
+    "Lethargy and difficulty arousing"
+   ]
   },
   {
    "id": "m10c-012",
    "type": "mcq",
+   "priority": false,
    "topic": "inflammation-overview",
    "difficulty": 2,
    "ref": "Module 10 · Inflammation · Normal Presentation of Inflammation (Causes)",
@@ -1115,6 +1011,7 @@
   {
    "id": "m10c-013",
    "type": "mcq",
+   "priority": false,
    "topic": "classic-signs",
    "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
    "difficulty": 1,
@@ -1143,6 +1040,7 @@
   {
    "id": "m10c-014",
    "type": "mcq",
+   "priority": false,
    "topic": "classic-signs",
    "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
    "difficulty": 1,
@@ -1171,6 +1069,7 @@
   {
    "id": "m10c-017",
    "type": "mcq",
+   "priority": false,
    "topic": "stages",
    "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "difficulty": 2,
@@ -1199,6 +1098,7 @@
   {
    "id": "m10c-018",
    "type": "mcq",
+   "priority": false,
    "topic": "stages",
    "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "difficulty": 1,
@@ -1227,13 +1127,14 @@
   {
    "id": "m10c-021",
    "type": "mcq",
+   "priority": true,
    "topic": "nursing-interventions",
    "ref": "Module 10 · Inflammation · Nursing Assessment & Independent Interventions",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "stem": "A client with pneumonia has T 38.9 °C (102.0 °F) and HR 104/min, is sweating heavily, and has taken only 300 mL of oral fluid today. Acetaminophen was given 30 minutes ago. Which nursing action is most appropriate?",
+   "stem": "A client with pneumonia has T 38.9 °C (102.0 °F) and HR 104/min, is sweating heavily, and has taken only 300 mL of oral fluid today. Acetaminophen was given 30 minutes ago. Which nursing action is the priority?",
    "options": [
     "Restrict oral fluids to 1 L per day to avoid fluid overload",
     "Add heavy blankets so the client can sweat out the fever",
@@ -1255,6 +1156,7 @@
   {
    "id": "m10c-024",
    "type": "mcq",
+   "priority": true,
    "topic": "lifespan",
    "difficulty": 2,
    "ref": "Module 10 · Inflammation · Lifespan Considerations – Pregnant Women",
@@ -1283,13 +1185,14 @@
   {
    "id": "m10c-028",
    "type": "mcq",
+   "priority": true,
    "topic": "lifespan",
    "ref": "Module 10 · Inflammation · Lifespan Considerations",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
-   "stem": "The RN is caring for an 88-year-old client admitted with pneumonia. The client's baseline temperature is 36.1 °C (97.0 °F). Which instruction should the RN give the unlicensed assistive personnel (UAP)?",
+   "stem": "The RN is caring for an 88-year-old client admitted with pneumonia. The client's baseline temperature is 36.1 °C (97.0 °F). Which instruction is most important for the RN to give the unlicensed assistive personnel (UAP)?",
    "options": [
     "Report any new confusion or change in behavior right away",
     "Report the temperature only if it rises above 39 °C (102.2 °F)",
@@ -1562,315 +1465,268 @@
   },
   {
    "id": "m10c-037",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "classic-signs",
    "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "stem": "The nurse is applying a cold pack to a client's ankle, which was sprained 2 hours ago. Place the steps in the order the nurse should perform them.",
+   "focus": "Prioritization",
+   "stem": "The nurse is preparing to apply a cold pack to a client's ankle, which was sprained 2 hours ago. Which action should the nurse take first?",
    "options": [
-    "Assess skin integrity, sensation, and circulation of the ankle",
     "Wrap the cold pack in a thin cloth barrier",
-    "Apply the pack for 15–20 minutes with the ankle elevated",
-    "Remove the pack and inspect the skin",
-    "Document the client's response and skin findings"
+    "Elevate the ankle on two pillows above the level of the heart",
+    "Assess skin integrity, sensation, and circulation",
+    "Apply the pack for 15–20 minutes at a time"
    ],
    "rationale": "Baseline assessment comes first so the nurse can detect injury and identify contraindications such as impaired sensation or circulation. A barrier prevents cold injury, and limiting application to 15–20 minutes prevents rebound vasodilation and tissue damage. The skin is inspected after removal, and the response is documented.",
    "takeaway": "Assess, protect, apply for 15–20 minutes, reassess, document.",
    "hintContent": "Recall the time limit for cold application and why a barrier is used.",
-   "hintStrategy": "Nursing procedures usually follow assess, prepare, implement, evaluate, and document."
+   "hintStrategy": "Nursing procedures follow assess, prepare, implement, evaluate, and document. Choose the step that must come before the others.",
+   "answer": 2,
+   "optionRationales": [
+    "A barrier prevents cold injury, but it is used after the nurse has assessed the skin and circulation.",
+    "Elevation reduces swelling and is part of the plan, but a baseline assessment comes first.",
+    "Correct. A baseline assessment of skin, sensation, and circulation identifies contraindications such as impaired sensation and lets the nurse detect injury later.",
+    "Limiting application to 15–20 minutes prevents tissue damage, but the nurse assesses before applying cold."
+   ]
   },
   {
    "id": "m10c-038",
-   "type": "order",
+   "type": "mcq",
+   "priority": false,
    "topic": "mediators",
    "ref": "Module 10 · Inflammation · Mediators of Inflammation",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "A client with bacterial pneumonia develops a fever and chest discomfort. Place the events in the order in which they occur.",
+   "stem": "A client with bacterial pneumonia develops a fever and chest discomfort and asks how ibuprofen will help. Which explanation by the nurse is accurate?",
    "options": [
-    "Bacteria injure the lung tissue",
-    "Mast cells and macrophages at the site release inflammatory mediators",
-    "Prostaglandins are produced at the site",
-    "Prostaglandins cause vasodilation, pain, and fever",
-    "The client takes ibuprofen, which blocks prostaglandins, and the fever falls"
+    "It blocks prostaglandins, which cause vasodilation, pain, and fever",
+    "It kills the bacteria that injured the lung tissue and started the process",
+    "It stops mast cells from releasing histamine and heparin",
+    "It blocks leukotrienes, which cause the fever and pain"
    ],
    "rationale": "Injury from microorganisms triggers mast cells and macrophages to release mediators. Prostaglandins cause vasodilation, pain, and fever. Anti-inflammatory drugs such as NSAIDs work by blocking prostaglandins, which is why they lower fever and relieve pain.",
    "takeaway": "Injury → mediators released → prostaglandins → vasodilation, pain, fever; NSAIDs block prostaglandins.",
    "hintContent": "Recall which cells release inflammatory mediators and which mediator causes fever and pain.",
-   "hintStrategy": "Anchor the first event (the injury) and the last (the drug effect), then place the mediator steps between them."
+   "hintStrategy": "Identify which mediator causes fever and pain, then choose the option that describes a drug action on that mediator.",
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Bacterial injury triggers mast cells and macrophages to release mediators, and prostaglandins produced at the site cause vasodilation, pain, and fever. Ibuprofen blocks prostaglandins.",
+    "Ibuprofen has no antibacterial action. Antibiotics treat the infection.",
+    "Histamine and heparin increase blood flow and prevent clotting. Ibuprofen does not block their release.",
+    "Leukotrienes attract neutrophils and macrophages. Prostaglandins cause fever and pain."
+   ]
   },
   {
    "id": "m10c-039",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "inflammation-overview",
    "ref": "Module 10 · Inflammation · What Inflammation Is (and Isn't)",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
-   "stem": "The nurse receives handoff on four clients with inflammatory conditions. Place the clients in the order the nurse should assess them.",
+   "stem": "The nurse receives handoff on four clients with inflammatory conditions. Which client should the nurse assess first?",
    "options": [
-    "A client who just received IV penicillin and reports throat tightness and a hoarse voice",
     "A client with leg cellulitis who has a new red streak up the thigh and HR 112/min",
-    "A client with rheumatoid arthritis reporting 90 minutes of morning stiffness who asks for a scheduled medication",
+    "A client who just received IV penicillin and reports throat tightness and a hoarse voice",
+    "A client with rheumatoid arthritis with 90 minutes of morning stiffness who asks for a scheduled medication",
     "A client with a sprained ankle who asks for a fresh ice pack"
    ],
    "rationale": "Airway comes first: throat tightness and hoarseness right after IV penicillin suggest anaphylaxis with airway swelling. Next is the client with signs of spreading infection and a systemic response (new red streak, HR above 90). The RA client's stiffness is an expected chronic finding with a routine medication request, and the sprain client's request is a comfort measure.",
    "takeaway": "Airway, then systemic spread, then chronic/expected, then comfort.",
    "hintContent": "Recall which findings mean the airway is threatened and which signal that local inflammation is spreading.",
-   "hintStrategy": "Use ABCs first, then acute and unstable before chronic and stable."
+   "hintStrategy": "Use ABCs first, then acute and unstable before chronic and stable.",
+   "answer": 1,
+   "optionRationales": [
+    "Spreading infection with a systemic response is urgent and should be seen next, but it does not threaten the airway.",
+    "Correct. Throat tightness and hoarseness right after IV penicillin suggest anaphylaxis with airway swelling. Airway comes first.",
+    "Prolonged morning stiffness is an expected chronic finding, and the medication request is routine.",
+    "A fresh ice pack is a comfort measure that can wait or be delegated."
+   ]
   },
   {
    "id": "m10c-040",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "stages",
    "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "The nurse is following a client's deep leg laceration from the day of injury through healing. For each finding, indicate the stage of inflammation it best represents.",
-   "rows": [
-    "Redness and warmth around the wound within the first hour",
-    "Neutrophils adhering to capillary walls near the wound",
-    "Thin, straw-colored fluid collecting on the dressing",
-    "Beefy red, moist tissue filling the wound bed",
-    "A firm, pale, raised line forming where the wound has closed"
-   ],
-   "columns": [
-    "Vascular and cellular response",
-    "Exudate production",
-    "Reparative phase"
-   ],
-   "answer": [
-    0,
-    0,
-    1,
-    2,
-    2
-   ],
+   "stem": "The nurse is following a client's deep leg laceration from the day of injury through healing. Which finding indicates the wound has entered the reparative phase?",
+   "answer": 3,
    "optionRationales": [
-    "Vascular and cellular response: brief vasoconstriction is followed by vasodilation, causing redness and heat.",
-    "Vascular and cellular response: margination and adhesion of WBCs precede their migration into tissue.",
-    "Exudate production: serous exudate is fluid leaking from permeable capillaries.",
-    "Reparative phase: granulation tissue with new capillaries fills the wound.",
-    "Reparative phase: collagen forms a scar (cicatrix) where regeneration is not possible."
+    "Redness and warmth from vasodilation are part of stage 1, the vascular response.",
+    "Neutrophil adhesion is part of stage 1, the cellular response.",
+    "Serous fluid on the dressing is exudate, which is stage 2.",
+    "Correct. Beefy red, moist granulation tissue shows stage 3, repair. It later matures into a firm, pale scar."
    ],
    "rationale": "Stage 1 includes the vascular changes (vasodilation, increased permeability) and cellular events (margination, adhesion, emigration, chemotaxis, phagocytosis). Stage 2 is the production of exudate. Stage 3 is repair, by regeneration or by granulation tissue that matures into scar.",
    "takeaway": "Stage 1 vessels and cells, stage 2 exudate, stage 3 granulation and scar.",
    "hintContent": "Recall what happens in each of the three stages of inflammation.",
-   "hintStrategy": "Consider when each finding would appear in the timeline of healing."
+   "hintStrategy": "Place each finding on the timeline of healing and choose the one that belongs to the latest stage.",
+   "options": [
+    "Redness and warmth around the wound within the first hour",
+    "Neutrophils adhering to capillary walls near the wound",
+    "Thin, straw-colored fluid collecting on the dressing",
+    "Beefy red, moist tissue filling the wound bed"
+   ]
   },
   {
    "id": "m10c-041",
-   "type": "matrix",
+   "type": "sata",
    "topic": "mediators",
    "ref": "Module 10 · Inflammation · Mediators of Inflammation",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",
-   "stem": "The nurse is reviewing findings for several clients. For each finding, indicate the mediator most responsible.",
-   "rows": [
+   "stem": "The nurse is reviewing findings for several clients. Which findings are mainly caused by histamine and heparin? Select all that apply.",
+   "answer": [
+    0,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Histamine released from mast cells increases blood flow and capillary permeability, producing a wheal within minutes.",
+    "Leukotrienes attract neutrophils and macrophages to the site.",
+    "Prostaglandins cause fever and pain.",
+    "Correct. Heparin, released with histamine, prevents clotting, so blood keeps flowing at the site.",
+    "Relief with ibuprofen points to prostaglandins, which NSAIDs block."
+   ],
+   "rationale": "Mediators released by mast cells and macrophages each have a characteristic effect. Histamine and heparin increase blood flow and prevent clotting, leukotrienes attract neutrophils and macrophages, and prostaglandins cause vasodilation, pain, and fever, which is why drugs that block them relieve those symptoms.",
+   "takeaway": "Histamine/heparin = flow and no clotting; leukotrienes = recruit WBCs; prostaglandins = pain and fever.",
+   "hintContent": "Recall the key mediators of inflammation and the main effect of each.",
+   "hintStrategy": "Match each finding to the mediator whose main effect it shows, then keep only those linked to histamine and heparin.",
+   "options": [
     "A raised, itchy wheal within minutes of a mosquito bite",
     "Neutrophils and macrophages gather in an infected cut",
     "Fever and body aches during influenza",
     "Blood keeps flowing at an injured site instead of clotting",
     "Pain and fever that are relieved by ibuprofen"
-   ],
-   "columns": [
-    "Histamine and heparin",
-    "Prostaglandins",
-    "Leukotrienes"
-   ],
-   "answer": [
-    0,
-    2,
-    1,
-    0,
-    1
-   ],
-   "optionRationales": [
-    "Histamine: rapid increase in blood flow and permeability with itching produces a wheal within minutes.",
-    "Leukotrienes: they attract neutrophils and macrophages to the site.",
-    "Prostaglandins: they cause fever and pain.",
-    "Histamine and heparin: they increase blood flow and prevent clotting at the site.",
-    "Prostaglandins: ibuprofen (an NSAID) works by blocking prostaglandins, which cause pain and fever."
-   ],
-   "rationale": "Mediators released by mast cells and macrophages each have a characteristic effect. Histamine and heparin increase blood flow and prevent clotting, leukotrienes attract neutrophils and macrophages, and prostaglandins cause vasodilation, pain, and fever, which is why drugs that block them relieve those symptoms.",
-   "takeaway": "Histamine/heparin = flow and no clotting; leukotrienes = recruit WBCs; prostaglandins = pain and fever.",
-   "hintContent": "Recall the key mediators of inflammation and the main effect of each.",
-   "hintStrategy": "Match each finding to the mediator whose main effect it shows. A drug that relieves the finding is a clue to the mediator it blocks."
+   ]
   },
   {
    "id": "m10c-042",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "lifespan",
    "ref": "Module 10 · Inflammation · Lifespan Considerations",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
-   "stem": "The nurse is planning care for a 15-year-old with Crohn's disease who is below the expected height for age. For each action, indicate whether it is indicated or not indicated.",
-   "rows": [
-    "Plot height and weight on a growth chart at each visit",
-    "Refer to a registered dietitian for a high-calorie, nutrient-dense meal plan",
-    "Encourage skipping meals on school days to reduce diarrhea",
-    "Ask privately how the illness affects body image, school, and friendships",
-    "Recommend aspirin for joint pain during flares"
-   ],
-   "columns": [
-    "Indicated",
-    "Not indicated"
-   ],
-   "answer": [
-    0,
-    0,
-    1,
-    0,
-    1
-   ],
+   "stem": "The nurse is planning care for a 15-year-old with Crohn's disease who is below the expected height for age. Which action should the nurse include in the plan of care?",
+   "answer": 1,
    "optionRationales": [
-    "Indicated: chronic intestinal inflammation impairs absorption and growth, so growth must be tracked.",
-    "Indicated: a dietitian helps meet increased needs and correct deficits.",
-    "Not indicated: skipping meals worsens undernutrition and growth delay.",
-    "Indicated: adolescents value privacy, and body image and peer concerns affect adherence and mental health.",
-    "Not indicated: aspirin and other NSAIDs can irritate the GI tract and may worsen IBD, and aspirin carries a Reye syndrome risk in adolescents with viral illness."
+    "Skipping meals worsens the nutritional deficit that is already slowing growth.",
+    "Correct. Chronic inflammation reduces absorption and increases metabolic needs, so a high-calorie, nutrient-dense plan supports growth.",
+    "Aspirin adds GI irritation and bleeding risk in a client with an inflamed bowel.",
+    "Adolescents need a chance to talk privately about body image, school, and friendships. Asking only with the parent present limits honest answers."
    ],
    "rationale": "In children and adolescents, chronic inflammation reduces absorption and increases metabolic needs, affecting growth, weight, and strength. Care includes growth monitoring, nutrition support, and developmentally appropriate psychosocial assessment. Practices that restrict intake or add GI risk are not indicated.",
    "takeaway": "In a child with chronic inflammation, watch growth and feed it.",
    "hintContent": "Recall how chronic inflammation affects growth and nutrition in children and what adolescents need developmentally.",
-   "hintStrategy": "Consider each row on its own: does it help or harm growth, nutrition, or development?"
+   "hintStrategy": "Ask whether each action helps or harms growth, nutrition, or development.",
+   "options": [
+    "Encourage skipping meals on school days to reduce diarrhea",
+    "Refer to a dietitian for a high-calorie meal plan",
+    "Recommend aspirin for joint pain during flares",
+    "Discuss body image and school only with the parent present"
+   ]
   },
   {
    "id": "m10c-043",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "classic-signs",
    "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "A client has an acutely swollen, warm left knee after a fall 3 hours ago. There is no wound. Complete the sentence by choosing from the lists of options.",
-   "template": "The knee swelling is mainly caused by {0}, and elevating the leg above heart level helps by {1}.",
-   "blanks": [
-    {
-     "options": [
-      "decreased production of white blood cells",
-      "increased capillary permeability that lets plasma leak into tissue",
-      "arteriolar constriction that traps blood in the joint",
-      "scar tissue forming inside the joint"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "raising arterial pressure in the leg",
-      "increasing blood flow to the knee",
-      "lowering hydrostatic pressure so fluid can return",
-      "stimulating the release of histamine"
-     ],
-     "answer": 2
-    }
-   ],
+   "stem": "A client has an acutely swollen, warm left knee after a fall 3 hours ago. There is no wound. The client asks how elevating the leg above heart level will reduce the swelling. Which explanation by the nurse is accurate?",
    "rationale": "Mediators such as histamine and bradykinin increase capillary permeability, letting plasma and proteins leak into the tissue (swelling). Elevation lowers capillary hydrostatic pressure and uses gravity to promote venous and lymphatic return, reducing edema. The initial arteriolar constriction lasts only seconds before vasodilation, and scarring occurs much later in repair.",
    "takeaway": "Swelling is a permeability leak; elevation lowers the pressure pushing fluid out.",
    "hintContent": "Recall what mediators do to capillary walls and how gravity affects hydrostatic pressure.",
-   "hintStrategy": "Complete the first blank with the mechanism, then choose the second option that logically reverses that mechanism."
+   "hintStrategy": "Identify the cause of the swelling first, then choose the option that reverses that mechanism.",
+   "options": [
+    "It raises arterial pressure to push fluid out of the joint",
+    "It increases blood flow to the knee to speed healing",
+    "It lowers hydrostatic pressure so leaked fluid can return",
+    "It stimulates histamine release to tighten the capillaries"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Elevation lowers, not raises, pressure in the vessels of the leg. Higher pressure would push more fluid into the tissue.",
+    "Increased blood flow from vasodilation contributes to swelling. Elevation reduces it.",
+    "Correct. Swelling is plasma leaking through permeable capillaries. Elevation lowers capillary hydrostatic pressure and uses gravity to promote venous and lymphatic return.",
+    "Histamine increases capillary permeability and worsens swelling. It does not tighten capillaries."
+   ]
   },
   {
    "id": "m10c-044",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": true,
    "topic": "acute-chronic",
    "difficulty": 2,
    "ref": "Module 10 · Inflammation · Acute vs. Chronic Inflammation",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "stem": "A 64-year-old client with a 40 pack-year smoking history has chronic obstructive pulmonary disease (COPD), with a daily productive cough and dyspnea that has slowly worsened over 6 years. Complete the sentence by choosing from the lists of options.",
-   "template": "The client's airway changes reflect {0} inflammation that is sustained by {1}, and the nurse's most effective intervention to slow its progression is {2}.",
-   "blanks": [
-    {
-     "options": [
-      "acute",
-      "chronic",
-      "localized, self-limiting"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "a single episode of bacterial bronchitis",
-      "an IgE reaction to seasonal pollen",
-      "ongoing exposure to cigarette smoke",
-      "normal age-related lung changes"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "supporting smoking cessation",
-      "a 7-day course of antibiotics",
-      "scheduling daily NSAIDs",
-      "restricting daily fluid intake"
-     ],
-     "answer": 0
-    }
-   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Prioritization",
+   "stem": "A 64-year-old client with a 40 pack-year smoking history has chronic obstructive pulmonary disease (COPD), with a daily productive cough and dyspnea that has slowly worsened over 6 years. Which intervention is the nurse's priority to slow the progression of the client's chronic airway inflammation?",
    "rationale": "Chronic inflammation lasts months to years and can develop from persistent exposure to an irritant without a preceding acute episode. In COPD, cigarette smoke continually activates macrophages and neutrophils in the airways, causing mucus hypersecretion, airway remodeling with fibrosis, and destruction of alveolar walls. Removing the trigger is the key to prevention: smoking cessation is the intervention shown to slow the decline in lung function. Antibiotics treat acute exacerbations, not the chronic process.",
    "takeaway": "COPD is chronic inflammation from a persistent irritant; remove the trigger (smoking) to slow it.",
    "hintContent": "Recall what distinguishes chronic from acute inflammation and why identifying the trigger of chronic inflammation matters for prevention.",
-   "hintStrategy": "Use the time course in the stem for the first blank; the cause and the intervention you choose should be consistent with it."
+   "hintStrategy": "Identify what keeps the chronic inflammation going, then choose the intervention that removes it.",
+   "options": [
+    "Teach the client to complete a 7-day course of antibiotics",
+    "Recommend a daily NSAID to reduce airway inflammation",
+    "Restrict daily fluid intake to reduce mucus production",
+    "Support the client in quitting smoking"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Antibiotics treat acute bacterial exacerbations. They do not stop the chronic process.",
+    "Daily NSAIDs add GI and kidney risks and do not remove the trigger of the inflammation.",
+    "Restricting fluids thickens secretions and does not slow inflammation.",
+    "Correct. The chronic inflammation in COPD is sustained by ongoing exposure to cigarette smoke. Removing the trigger is the intervention shown to slow the decline in lung function."
+   ]
   },
   {
    "id": "m10c-045",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "assessment-diagnostics",
    "difficulty": 2,
    "ref": "Module 10 · Inflammation · Health Promotion · Screening (Allergy Skin Testing)",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
-   "stem": "A client with seasonal allergic rhinitis who takes cetirizine 10 mg daily is scheduled for allergy skin-prick testing next week. Complete the sentence by choosing from the lists of options.",
-   "template": "The nurse instructs the client to {0} because antihistamines {1}. During the testing, the nurse keeps {2} immediately available.",
-   "blanks": [
-    {
-     "options": [
-      "take an extra cetirizine dose the night before",
-      "stop the cetirizine several days before the test as directed",
-      "take the cetirizine the morning of the test",
-      "double the cetirizine dose for 3 days before the test"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "can block the wheal-and-flare response and cause false-negative results",
-      "make the skin more sensitive and cause false-positive results",
-      "react chemically with the allergen extracts",
-      "are needed to prevent a reaction to the test"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "naloxone",
-      "epinephrine",
-      "atropine",
-      "flumazenil"
-     ],
-     "answer": 1
-    }
-   ],
+   "stem": "A client with seasonal allergic rhinitis who takes cetirizine 10 mg daily is scheduled for allergy skin-prick testing next week. Which instruction should the nurse give?",
    "rationale": "Skin testing identifies allergens so the client can avoid triggers, a key health-promotion strategy for allergies. Antihistamines block the histamine-mediated wheal and flare, so they are usually stopped for several days (commonly about 5–7 days for second-generation drugs such as cetirizine) before testing, as directed by the allergist. Because the client is deliberately exposed to allergens, a systemic reaction is possible, so epinephrine and emergency equipment must be immediately available.",
    "takeaway": "Hold antihistamines before skin testing; keep epinephrine ready.",
    "hintContent": "Recall which mediator produces the wheal and flare of a positive skin test and what an antihistamine does to it.",
-   "hintStrategy": "Complete the first two blanks together (the instruction and its reason must match), then consider the worst possible reaction to a deliberate allergen exposure."
+   "hintStrategy": "Recall what a positive skin test looks like and which mediator produces it, then choose the instruction that keeps the test accurate.",
+   "options": [
+    "Stop the cetirizine several days before the test",
+    "Take an extra dose of cetirizine the night before the test",
+    "Take the usual cetirizine dose the morning of the test",
+    "Double the cetirizine dose for 3 days before the test"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Antihistamines block the histamine-mediated wheal and flare, so they are usually stopped several days before testing, as directed by the allergist, to prevent false-negative results.",
+    "An extra dose would further suppress the skin response and cause false-negative results.",
+    "Taking the dose that morning would block the wheal-and-flare response and could cause false-negative results.",
+    "Higher doses would suppress the skin response. Antihistamines are not needed to prevent a reaction to the test."
+   ]
   }
  ]
 }

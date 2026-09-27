@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { CJMM_STEPS, FOCUS_AREAS, QUESTION_TYPES } from './types';
+import { CJMM_STEPS, FOCUS_AREAS } from './types';
 import { MODULES, QUESTIONS } from './index';
 
 describe('content integrity', () => {
@@ -13,6 +13,15 @@ describe('content integrity', () => {
     for (const [, orders] of cases) expect([...orders].sort((a, b) => a - b)).toEqual(orders.map((_, i) => i + 1));
   });
 
+  it('has full lessons for every topic', () => {
+    for (const m of MODULES)
+      for (const t of m.topics) {
+        const words = JSON.stringify(t).replace(/<[^>]+>/g, ' ').split(/\s+/).length;
+        expect(words, `${m.id}/${t.id}`).toBeGreaterThan(1200);
+        expect(t.checks?.length ?? 0, `${m.id}/${t.id} checks`).toBeGreaterThanOrEqual(3);
+      }
+  });
+
   it('has unique question ids', () => {
     expect(new Set(QUESTIONS.map((q) => q.id)).size).toBe(QUESTIONS.length);
   });
@@ -20,7 +29,8 @@ describe('content integrity', () => {
   for (const q of QUESTIONS) {
     it(`${q.id} is well-formed`, () => {
       const m = MODULES.find((x) => x.id === q.moduleId)!;
-      expect(QUESTION_TYPES).toContain(q.type);
+      expect(['mcq', 'sata']).toContain(q.type);
+      if (q.type === 'mcq') expect(typeof q.priority).toBe('boolean');
       expect(m.topics.map((t) => t.id)).toContain(q.topic);
       expect(CJMM_STEPS).toContain(q.cjmm);
       expect(FOCUS_AREAS).toContain(q.focus);

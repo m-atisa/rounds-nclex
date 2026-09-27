@@ -81,8 +81,7 @@ export function Home() {
           Think like a nurse. <em>Pass like one.</em>
         </motion.h1>
         <motion.p className="lead" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.18, duration: 0.6 }}>
-          {QUESTIONS.length} clinical-judgment questions — including NGN case studies, bowtie and highlight items — mapped to your concept-based
-          modules, with coaching hints and rationales that teach.
+          {QUESTIONS.length} NCLEX-style questions — priority, single best answer, and select-all-that-apply, plus unfolding case studies with client charts — built from your course modules, with coaching hints and rationales that teach.
         </motion.p>
         <motion.div className="row" style={{ marginTop: '1.5rem' }} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.26, duration: 0.6 }}>
           <Link className="btn btn-primary btn-lg" to="/practice">

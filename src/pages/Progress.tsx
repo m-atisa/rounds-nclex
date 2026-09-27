@@ -10,7 +10,7 @@ import { useProgress } from '../store/progress';
 import { InsightTable, buildRows } from './Results';
 
 const DIMS: { d: Dimension; label: string }[] = [
-  { d: 'type', label: 'Question type' },
+  { d: 'type', label: 'Question format' },
   { d: 'cjmm', label: 'Clinical judgment' },
   { d: 'focus', label: 'Nursing skill' },
   { d: 'topic', label: 'Topic' },

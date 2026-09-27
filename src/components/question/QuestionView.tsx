@@ -23,7 +23,7 @@ import type {
   Response,
   SataQuestion,
 } from '../../data/types';
-import { TYPE_LABEL } from '../../data/types';
+import { FORMAT_LABEL, formatOf } from '../../data/types';
 import { highlightSegments } from '../../lib/scoring';
 import { cx, letter } from '../../lib/util';
 import { Icon } from '../Icon';
@@ -54,7 +54,7 @@ export function QuestionMeta({ q, extra }: { q: Question; extra?: React.ReactNod
   return (
     <div className="q-meta">
       <RefBadge q={q} />
-      <span className="q-type">{TYPE_LABEL[q.type]}</span>
+      <span className={cx('q-type', formatOf(q) === 'priority' && 'is-priority')}>{FORMAT_LABEL[formatOf(q)]}</span>
       <Difficulty level={q.difficulty} />
       {extra}
     </div>

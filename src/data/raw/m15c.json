@@ -8,16 +8,15 @@
   {
    "id": "m15c-001",
    "type": "mcq",
+   "priority": false,
    "topic": "oxygenation-physiology",
    "ref": "Module 15 · Oxygenation · Oxygen Transport and Hemoglobin",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
    "stem": "The nurse is caring for a client with chronic gastrointestinal bleeding whose hemoglobin is 6.4 g/dL. The client reports fatigue and becomes short of breath walking to the bathroom. HR 118/min, RR 24/min, SpO₂ 98% on room air. The client asks, “Why can’t I breathe when my oxygen number is perfect?” Which explanation by the nurse is accurate?",
    "options": [
-    "“The oximeter is reading falsely high because your fingers are so pale and cool.”",
-    "“Your lungs are not moving enough air in and out to meet your needs.”",
+    "“The oximeter is reading falsely high because your fingers are so pale and cool right now.”",
+    "“Your lungs are not moving enough air in and out to meet your body’s oxygen needs.”",
     "“There is too little hemoglobin to carry enough oxygen, even though it is saturated.”",
     "“Your breathing is fast because carbon dioxide is building up in your bloodstream.”"
    ],
@@ -30,18 +29,19 @@
    ],
    "rationale": "Oxygen delivery depends on hemoglobin concentration, saturation, and cardiac output. Pulse oximetry measures only the percentage of hemoglobin that is saturated (SaO₂/SpO₂), not how much oxygen the blood actually carries. In severe anemia, SpO₂ can be normal while tissues are hypoxic. That is why the client has tachycardia, tachypnea, fatigue, and exertional dyspnea.",
    "takeaway": "A normal SpO₂ does not rule out tissue hypoxia when there is too little hemoglobin.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
    "hintContent": "Recall what SpO₂ actually measures: a percentage of hemoglobin, not the total amount of oxygen in the blood.",
    "hintStrategy": "Look for the option that explains the mismatch between a normal number and abnormal symptoms. Rule out options that add a problem the data do not support."
   },
   {
    "id": "m15c-002",
    "type": "mcq",
+   "priority": false,
    "topic": "oxygenation-physiology",
    "ref": "Module 15 · Oxygenation · Ventilation–Perfusion Relationships",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
    "stem": "A client who is 3 days postoperative after a total knee arthroplasty suddenly reports shortness of breath and says, “Something is wrong.” RR 30/min, HR 124/min, SpO₂ 88% on room air. Breath sounds are clear bilaterally, chest expansion is symmetrical, and there is no cough. Which explanation for the client’s hypoxemia is most likely?",
    "options": [
     "Alveoli are ventilated, but blood flow through the pulmonary capillaries is blocked",
@@ -58,72 +58,48 @@
    ],
    "rationale": "Adequate oxygenation requires both inflated, well-oxygenated alveoli and well-perfused capillaries. When a blood clot blocks capillary blood flow, gas exchange fails even though the alveoli fill with air, so the client can be severely hypoxemic with clear breath sounds. Immobility after orthopedic surgery increases the risk of clots. A pulmonary angiogram or V/Q scan is used to look for the blocked blood flow.",
    "takeaway": "Sudden hypoxemia with clear lungs means you should think perfusion, not ventilation.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
    "hintContent": "Recall the two requirements for gas exchange from the module: inflated, well-oxygenated alveoli and well-perfused capillaries.",
    "hintStrategy": "Use the normal findings as clues. Each wrong option predicts a lung-sound or chest-movement change that this client does not have."
   },
   {
    "id": "m15c-003",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "oxygenation-physiology",
    "ref": "Module 15 · Oxygenation · Alterations: Hypoxemia and Hypoxia · Diagnostic Tests (ABGs)",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with pneumonia is becoming irritable and reports feeling very tired. ABG results: pH 7.44, PaCO₂ 36 mm Hg, PaO₂ 58 mm Hg, SaO₂ 89%. Which interpretation by the nurse is accurate?",
+   "options": [
+    "Hypoxemia, which can progress to hypoxia if it is not corrected",
+    "Hypercarbia, because too little carbon dioxide is being exhaled",
+    "Respiratory acidosis from retained carbon dioxide in the blood",
+    "Hypocarbia caused by hyperventilation from the pneumonia"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The low PaO₂ (oxygen dissolved in blood) and low SaO₂ (hemoglobin saturation) show hypoxemia, which can lead to decreased oxygen delivery to the tissues.",
+    "The PaCO₂ of 36 mm Hg is within 35–45 mm Hg, so there is no hypercarbia.",
+    "The pH of 7.44 and PaCO₂ of 36 mm Hg are normal, so there is no acid–base imbalance.",
+    "A PaCO₂ of 36 mm Hg is normal; hypocarbia would be below 35 mm Hg."
+   ],
+   "rationale": "SaO₂ is the percentage of hemoglobin bound to oxygen, and PaO₂ is the amount of oxygen dissolved in the blood. The pH (7.35–7.45) and PaCO₂ (35–45 mm Hg) are normal, so there is no acid–base imbalance, hypercarbia, or hypocarbia. The low PaO₂ and SaO₂ show hypoxemia, a decreased level of oxygen in the blood. Left untreated, hypoxemia can lead to hypoxia, decreased delivery of oxygen to the tissues. Mild impairment causes fatigue, irritability, and discomfort, as this client shows.",
+   "takeaway": "Hypoxemia = low oxygen in the blood; hypoxia = low oxygen in the tissues.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "A client with pneumonia is becoming irritable and reports feeling very tired. ABG results: pH 7.44, PaCO₂ 36 mm Hg, PaO₂ 58 mm Hg, SaO₂ 89%. Complete the statement by choosing from the lists of options.",
-   "template": "The SaO₂ reports {0}, and the PaO₂ reports {1}. These results show {2}. If it is not corrected, it can progress to {3}.",
-   "blanks": [
-    {
-     "options": [
-      "the amount of oxygen dissolved in the blood",
-      "the percentage of hemoglobin bound to oxygen",
-      "the level of carbon dioxide in the blood",
-      "the acidity of the arterial blood"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "the percentage of hemoglobin bound to oxygen",
-      "the concentration of hemoglobin",
-      "the amount of oxygen dissolved in the blood",
-      "the rate and depth of breathing"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "hypercarbia",
-      "respiratory acidosis",
-      "hypocarbia",
-      "hypoxemia"
-     ],
-     "answer": 3
-    },
-    {
-     "options": [
-      "hypoxia, decreased delivery of oxygen to the tissues",
-      "hypercarbia, retention of carbon dioxide",
-      "metabolic alkalosis",
-      "hyperventilation"
-     ],
-     "answer": 0
-    }
-   ],
-   "rationale": "SaO₂ is the percentage of oxygen bound to hemoglobin, and PaO₂ is the amount of oxygen dissolved in the blood. The pH (7.35–7.45) and CO₂ (35–45 mm Hg) are normal, so there is no acid–base imbalance, hypercarbia, or hypocarbia. The low PaO₂ and SaO₂ show hypoxemia, a decreased level of oxygen in the blood. Left untreated, hypoxemia can lead to hypoxia, decreased delivery of oxygen to the tissues. Mild impairment causes fatigue, irritability, and discomfort, as this client shows.",
-   "takeaway": "SaO₂ = % of hemoglobin carrying O₂; PaO₂ = O₂ dissolved in blood. Hypoxemia (blood) leads to hypoxia (tissues).",
-   "hintContent": "Recall the module definitions of SaO₂ and PaO₂, and the difference between low oxygen in the blood and low oxygen in the tissues.",
-   "hintStrategy": "Check pH and CO₂ against their normal ranges first to rule out the acid–base options, then work through the oxygen values."
+   "hintContent": "Check each value against its normal range: pH 7.35–7.45, PaCO₂ 35–45 mm Hg, PaO₂ 80–100 mm Hg, SaO₂ 95–100%.",
+   "hintStrategy": "Eliminate any option that depends on an abnormal CO₂ or pH value, since those are within normal limits here."
   },
   {
    "id": "m15c-004",
    "type": "mcq",
+   "priority": true,
    "topic": "oxygenation-physiology",
    "ref": "Module 15 · Oxygenation · Airway Patency",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
    "stem": "A client in the postanesthesia care unit after general anesthesia is drowsy and difficult to arouse. The nurse hears loud snoring respirations and sees suprasternal retractions with little chest rise. SpO₂ has fallen from 96% to 89% on 2 L/min by nasal cannula. Which action should the nurse take first?",
    "options": [
     "Increase the oxygen flow rate and recheck the SpO₂ in 10 minutes",
@@ -140,58 +116,48 @@
    ],
    "rationale": "Airway patency comes first. After anesthesia or sedation, relaxed muscles let the tongue and soft tissues fall against the posterior pharynx, producing snoring respirations, retractions, and poor chest rise. The nurse opens the airway with a head-tilt/chin-lift (or jaw thrust if a cervical injury is possible), inserts an oral or nasal airway if needed, and then reassesses breathing and SpO₂ before considering other measures.",
    "takeaway": "Snoring plus retractions in a sedated client means the airway is obstructed. Open it first.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "hintContent": "Recall what happens to the tongue and pharyngeal muscles in a sedated client, and which breath sound signals partial upper-airway obstruction.",
    "hintStrategy": "The stem asks what to do first. Apply the ABCs: choose the action that fixes the airway before actions that treat breathing or oxygenation."
   },
   {
    "id": "m15c-005",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "oxygenation-physiology",
    "ref": "Module 15 · Oxygenation · V/Q Mismatch",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "The nurse is reviewing the conditions of several clients with hypoxemia. Which condition primarily impairs perfusion of the pulmonary capillaries (blood flow) rather than ventilation of the alveoli (airflow)?",
+   "options": [
+    "A thick mucus plug obstructing the right lower lobe bronchus",
+    "Pulmonary edema from fluid volume excess",
+    "Postoperative atelectasis in the lung bases",
+    "A blood clot lodged in a branch of the pulmonary artery"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "A mucus plug blocks airflow into the alveoli — a ventilation problem.",
+    "Fluid in the alveoli prevents air from reaching the alveolar surface — a ventilation problem.",
+    "Collapsed alveoli receive no air — a ventilation problem.",
+    "Correct. A clot blocks blood flow through the pulmonary capillaries, so ventilated alveoli are not perfused."
+   ],
+   "rationale": "The module divides V/Q alterations into two groups. In the first, airflow into the alveolus is blocked (sputum, inflammation, atelectasis, fluid volume excess). In the second, blood flow through the capillary is blocked (blood clots, plaque buildup, emphysematous alveoli with destroyed capillaries). Either way, blood leaves the lungs without enough oxygen. Airflow problems respond to measures that open airways and alveoli, such as coughing, incentive spirometry, and positioning.",
+   "takeaway": "Air can’t get in = ventilation problem; blood can’t get through = perfusion problem.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "The nurse is reviewing the conditions of several clients with hypoxemia. For each condition, indicate whether it primarily impairs ventilation of the alveoli (airflow) or perfusion of the pulmonary capillaries (blood flow).",
-   "rows": [
-    "A mucus plug obstructing the right lower lobe bronchus",
-    "A blood clot lodged in a branch of the pulmonary artery",
-    "Pulmonary edema from fluid volume excess",
-    "Destroyed alveolar walls and capillaries in emphysema",
-    "Postoperative atelectasis in the lung bases"
-   ],
-   "columns": [
-    "Ventilation (airflow) problem",
-    "Perfusion (blood flow) problem"
-   ],
-   "answer": [
-    0,
-    1,
-    0,
-    1,
-    0
-   ],
-   "optionRationales": [
-    "Airflow problem. Sputum blocks air from reaching alveoli that are still perfused, so blood passes by without picking up oxygen.",
-    "Blood flow problem. The clot blocks capillary blood flow to alveoli that are still ventilated.",
-    "Airflow problem. Fluid in the alveoli prevents air from reaching the alveolar–capillary membrane.",
-    "Blood flow problem. The module lists emphysematous alveoli with the conditions that block capillary blood flow; the capillary bed around the damaged alveoli is lost.",
-    "Airflow problem. Collapsed alveoli receive no air even though blood continues to flow past them."
-   ],
-   "rationale": "The module divides V/Q alterations into two groups. In the first, airflow into the alveolus is blocked (sputum, inflammation, atelectasis, fluid volume excess). In the second, blood flow through the capillary is blocked (blood clots, plaque buildup, emphysematous alveoli). Either way, blood leaves the lungs without enough oxygen. Airflow problems respond to measures that open airways and alveoli, such as coughing, incentive spirometry, and positioning.",
-   "takeaway": "Airflow blocked (sputum, inflammation, collapse, fluid) vs blood flow blocked (clots, plaque, emphysema): both leave the blood unoxygenated.",
-   "hintContent": "For each condition, ask where the obstruction physically sits: in the airway or alveolus, or in the blood vessel.",
-   "hintStrategy": "Treat each row independently. Visualize one alveolus and its capillary, and decide which side each condition blocks."
+   "hintContent": "Picture the alveolus and the capillary wrapped around it. Decide whether each condition blocks the air side or the blood side.",
+   "hintStrategy": "Eliminate every option that blocks the airway or fills the alveolus; the remaining option blocks blood flow."
   },
   {
    "id": "m15c-007",
-   "type": "bowtie",
+   "type": "mcq",
+   "priority": true,
    "topic": "oxygenation-physiology",
    "ref": "Module 15 · Oxygenation · Postoperative Atelectasis",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Nursing Interventions",
    "exhibit": {
     "tabs": [
      {
@@ -253,68 +219,26 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the diagram by selecting the condition the client is most likely experiencing, 2 actions the nurse should take to address that condition, and 2 parameters the nurse should monitor to assess the client's progress.",
-   "condition": {
-    "options": [
-     "Pulmonary embolism",
-     "Atelectasis",
-     "Pneumothorax",
-     "Bacterial pneumonia"
-    ],
-    "answer": 1
-   },
-   "actions": {
-    "options": [
-     "Give the prescribed analgesic, then coach incentive spirometry 10 times/hr while awake",
-     "Place the client flat supine to reduce tension on the incision",
-     "Assist the client to ambulate in the hall at least 3–4 times daily",
-     "Restrict oral fluids to reduce pulmonary congestion",
-     "Obtain a chest tube insertion tray for the bedside"
-    ],
-    "answer": [
-     0,
-     2
-    ]
-   },
-   "parameters": {
-    "options": [
-     "Capillary blood glucose",
-     "Bowel sounds",
-     "SpO₂",
-     "Breath sounds in the lung bases",
-     "Urine specific gravity"
-    ],
-    "answer": [
-     2,
-     3
-    ]
-   },
-   "optionRationales": {
-    "condition": [
-     "PE causes sudden hypoxemia, often with clear lung sounds. This client's gradual decline with shallow breathing and diminished bases fits collapsed alveoli better.",
-     "Correct. After upper abdominal surgery, pain causes shallow, splinted breathing and poor incentive spirometer use. The result is hypoventilation, alveolar collapse, diminished basilar breath sounds, and falling SpO₂. A normal WBC and absence of sputum argue against pneumonia.",
-     "A pneumothorax causes unilateral absent breath sounds and asymmetrical chest movement, often with sudden pleuritic pain. Findings here are bilateral and symmetrical.",
-     "Pneumonia usually causes productive cough, higher fever, and leukocytosis. The WBC is normal and the client has no cough or sputum."
-    ],
-    "actions": [
-     "Correct. Controlling pain first allows deep breaths. Sustained maximal inspiration with the incentive spirometer (about 10 times per hour while awake) re-expands collapsed alveoli.",
-     "The flat supine position lowers lung volumes and worsens basilar collapse. Semi- to high-Fowler's position is better.",
-     "Correct. Early, frequent ambulation increases tidal volume and mobilizes secretions, which prevents and reverses atelectasis.",
-     "Fluid restriction thickens secretions and does not treat atelectasis, which is not caused by fluid overload.",
-     "Chest tubes treat air or fluid in the pleural space, not alveolar collapse."
-    ],
-    "parameters": [
-     "Blood glucose does not reflect re-expansion of the alveoli.",
-     "Bowel sounds matter after abdominal surgery but do not show whether atelectasis is resolving.",
-     "Correct. Rising SpO₂ shows improved gas exchange as alveoli re-expand.",
-     "Correct. Return of breath sounds in the bases shows that previously collapsed alveoli are aerating.",
-     "Urine specific gravity reflects hydration status, not lung re-expansion."
-    ]
-   },
-   "rationale": "Postoperative atelectasis results from shallow breathing caused by incisional pain, immobility, and opioid effects, especially after upper abdominal and thoracic surgery. The cues are diminished basilar breath sounds, tachypnea, low-grade temperature elevation, and falling SpO₂ with poor incentive spirometer volumes. The nurse treats the cause by managing pain so the client can breathe deeply, coaching incentive spirometry, and ambulating the client. Progress is evaluated with SpO₂ and basilar breath sounds.",
-   "takeaway": "Postoperative atelectasis: treat pain, then inflate the lungs (incentive spirometry and walking), and watch SpO₂ and the bases.",
-   "hintContent": "Think about what upper abdominal incisional pain does to depth of breathing, and what happens to alveoli that are never fully inflated.",
-   "hintStrategy": "Pick the condition first, using the normal WBC and the bilateral, symmetrical findings to rule out options. Then choose actions and parameters that fit only that condition."
+   "stem": "The nurse is caring for a client who had an open cholecystectomy 2 days ago. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which action should the nurse take first to address the client’s condition?",
+   "options": [
+    "Obtain a chest tube insertion tray for the bedside",
+    "Give the prescribed analgesic, then coach incentive spirometry",
+    "Place the client flat supine to reduce tension on the incision",
+    "Assist the client to ambulate in the hall right away"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Symmetrical chest expansion and bilateral diminished basilar sounds do not suggest a pneumothorax.",
+    "Correct. The client has postoperative atelectasis from pain-limited shallow breathing; controlling pain first allows effective deep breathing and incentive spirometry.",
+    "Lying flat reduces diaphragm movement and worsens atelectasis; an upright position is needed.",
+    "Ambulation helps, but the client is in 7/10 pain and declined to walk; pain must be controlled first so the client can participate."
+   ],
+   "rationale": "Postoperative atelectasis results from shallow breathing caused by incisional pain, immobility, and opioid effects, especially after upper abdominal and thoracic surgery. The cues are diminished basilar breath sounds, tachypnea, a low-grade temperature elevation, falling SpO₂, and poor incentive spirometer volumes. The nurse treats the cause first by managing pain so the client can breathe deeply, then coaches incentive spirometry and ambulates the client. Progress is evaluated with SpO₂ and basilar breath sounds.",
+   "takeaway": "Postop atelectasis: treat the pain first so the client can breathe deeply and move.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Look at the timing of the last analgesic dose, the pain rating, and why the client is not using the incentive spirometer.",
+   "hintStrategy": "Identify the condition, then find the barrier that is preventing every other intervention from working."
   },
   {
    "id": "m15c-008",
@@ -323,8 +247,6 @@
    "ref": "Module 15 · Oxygenation · Physical Examination of the Chest",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "stem": "A client is admitted with right lower lobe pneumonia, and the chest x-ray shows lobar consolidation. Which findings should the nurse expect when assessing over the right lower lobe? Select all that apply.",
    "options": [
     "Dullness on percussion",
@@ -349,44 +271,39 @@
    ],
    "rationale": "Consolidation replaces air in the alveoli with exudate, so the lung becomes dense. Dense tissue produces dull percussion, transmits voice vibrations better (increased fremitus), and carries bronchial breath sounds to areas where only vesicular sounds are normally heard. Findings of air, such as hyperresonance, or of a pleural barrier, such as decreased fremitus, point to other conditions.",
    "takeaway": "Consolidation is solid: dull percussion, increased fremitus, and bronchial sounds in the wrong place.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
    "hintContent": "Recall where each normal breath sound (bronchial, bronchovesicular, vesicular) is heard, and how sound travels through solid tissue versus air.",
    "hintStrategy": "Evaluate each option as a separate true/false statement. Some options describe pairs of opposites, so only one of each pair can fit consolidation."
   },
   {
    "id": "m15c-010",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "respiratory-assessment",
    "ref": "Module 15 · Oxygenation · Adventitious Breath Sounds",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "stem": "The nurse auscultates the lungs of a client with chronic bronchitis and hears a loud, low-pitched, snoring sound over the trachea and bronchi on expiration that changes after the client coughs. Complete the statement by choosing from the lists of options.",
-   "template": "The nurse should document this finding as {0}, which most likely indicates {1}.",
-   "blanks": [
-    {
-     "options": [
-      "stridor",
-      "rhonchi",
-      "fine crackles",
-      "pleural friction rub"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "fluid in the small airways and alveoli",
-      "upper airway narrowing at the larynx",
-      "secretions in the larger airways",
-      "inflamed pleural surfaces rubbing together"
-     ],
-     "answer": 2
-    }
+   "stem": "The nurse auscultates the lungs of a client with chronic bronchitis and hears a loud, low-pitched, snoring sound over the trachea and bronchi on expiration that changes after the client coughs. How should the nurse interpret this finding?",
+   "options": [
+    "Stridor from upper airway narrowing at the larynx",
+    "Rhonchi from secretions in the larger airways",
+    "Fine crackles from fluid in the small airways",
+    "Pleural friction rub from inflamed pleural surfaces"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Stridor is a high-pitched inspiratory sound from upper airway narrowing.",
+    "Correct. Rhonchi are low-pitched snoring sounds from secretions in the trachea and bronchi that often change with coughing.",
+    "Fine crackles are brief popping sounds from fluid or reopening alveoli, usually heard on inspiration.",
+    "A friction rub is a grating sound that does not clear with coughing."
    ],
    "rationale": "Rhonchi (sometimes called sonorous wheezes) are low-pitched, snoring sounds produced by secretions in the trachea and bronchi. They often change or clear with coughing, which distinguishes them from other adventitious sounds. Stridor is a high-pitched inspiratory sound from upper airway narrowing. Fine crackles come from fluid or the opening of collapsed alveoli. A friction rub is a grating sound from inflamed pleura that does not clear with coughing.",
-   "takeaway": "Rhonchi are low-pitched snoring sounds from secretions in large airways, and they change with coughing.",
-   "hintContent": "Recall the adventitious sounds listed in the module (stridor, crackles, rhonchi, wheezing, pleural friction rub) and which one changes when secretions move.",
-   "hintStrategy": "Use the clues “low-pitched,” “large airways,” and “changes with coughing.” The second blank must describe the cause of the sound you chose in the first."
+   "takeaway": "Low-pitched snoring that changes with a cough = rhonchi (secretions in large airways).",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Focus on three clues: low pitch, location over large airways, and a change after coughing.",
+   "hintStrategy": "Coughing moves secretions; only a sound caused by secretions would change after a cough."
   },
   {
    "id": "m15c-014",
@@ -395,8 +312,6 @@
    "ref": "Module 15 · Oxygenation · Signs of Hypoxia · Delegation",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Recognize Cues",
-   "focus": "Delegation & Safety",
    "stem": "The RN delegated vital signs to an assistive personnel (AP) on a medical unit. Which findings reported by the AP require the RN to assess the client immediately? Select all that apply.",
    "options": [
     "An 82-year-old client whose respiratory rate is 18/min at rest",
@@ -421,18 +336,19 @@
    ],
    "rationale": "The AP collects data, but the RN must interpret it and act on unexpected findings. Early signs of hypoxia include restlessness, irritability, unexplained confusion, tachycardia, and tachypnea. Inability to speak in full sentences and desaturation that persists after rest also indicate an unstable client. Findings that are at baseline or expected for age can be addressed routinely.",
    "takeaway": "The AP reports, the RN interprets. New restlessness, short phrases, and unresolved desaturation mean go now.",
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
    "hintContent": "Recall the early signs of hypoxia listed in the module and normal respiratory rates across the lifespan.",
    "hintStrategy": "For each report, ask whether it is new or unexpected, or baseline and expected. Only the new or unexpected findings need immediate RN assessment."
   },
   {
    "id": "m15c-015",
    "type": "mcq",
+   "priority": true,
    "topic": "respiratory-assessment",
    "ref": "Module 15 · Oxygenation · Signs of Hypoxia",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
    "stem": "A client who is 2 days postoperative after abdominal surgery is restless, irritable, and pulling at the gown, and says, “I just feel really anxious.” HR 112/min, RR 26/min. The client asks for the prescribed PRN lorazepam. Which action should the nurse take first?",
    "options": [
     "Administer the lorazepam and reassess the client in 30 minutes",
@@ -449,18 +365,19 @@
    ],
    "rationale": "The module lists increasing restlessness, irritability, unexplained confusion, and rapid heart and respiratory rates as signs of hypoxia. Behavioral changes in a postoperative client must be treated as physiologic until proven otherwise. Assessment (SpO₂ and breath sounds) comes before intervention, and giving an anxiolytic first could be dangerous.",
    "takeaway": "New “anxiety” with tachycardia and tachypnea is hypoxia until proven otherwise. Assess before you sedate.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "hintContent": "Recall the early, subtle signs of hypoxia and why they are easy to mistake for psychological distress.",
    "hintStrategy": "The stem asks what to do first. Apply assessment before intervention, and physiologic needs before psychosocial ones."
   },
   {
    "id": "m15c-016",
    "type": "mcq",
+   "priority": false,
    "topic": "breathing-patterns",
    "ref": "Module 15 · Oxygenation · Abnormal Breathing Patterns",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
    "stem": "A client admitted 6 hours ago with a traumatic brain injury had regular respirations of 16/min. The nurse now observes clusters of shallow breaths of varying depth with unpredictable apneic pauses of 15–20 seconds. The Glasgow Coma Scale score has dropped from 13 to 9. Which conclusion is most accurate?",
    "options": [
     "The pattern suggests worsening brain injury that requires immediate provider notification",
@@ -477,48 +394,44 @@
    ],
    "rationale": "The module describes Biot respirations as shallow breathing with periods of apnea that occur in CNS disorders. A change from regular breathing to an irregular apneic pattern, together with a falling level of consciousness, indicates a worsening brain injury. This requires immediate provider notification and airway support.",
    "takeaway": "A new irregular pattern with apnea plus a falling GCS means the brain is getting worse. Escalate now.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
    "hintContent": "Recall the three abnormal patterns in the module (Kussmaul, Cheyne-Stokes, Biot) and the condition each is associated with.",
    "hintStrategy": "Link the two changing cues, breathing pattern and GCS, and choose the hypothesis that explains both."
   },
   {
    "id": "m15c-017",
-   "type": "matrix",
+   "type": "sata",
    "topic": "breathing-patterns",
    "ref": "Module 15 · Oxygenation · Sleep Apnea in Older Adults",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "stem": "A 70-year-old client with obstructive sleep apnea is 1 day postoperative after a hip arthroplasty and is receiving oral oxycodone for pain. For each intervention, indicate whether it is indicated or contraindicated for this client.",
-   "rows": [
+   "stem": "A 70-year-old client with obstructive sleep apnea is 1 day postoperative after a hip arthroplasty and is receiving oral oxycodone for pain. Which interventions should the nurse include in the plan of care? Select all that apply.",
+   "options": [
     "Assess respiratory rate, depth, and level of sedation before each opioid dose",
     "Position the client flat supine for sleep",
     "Use continuous pulse oximetry while the client is sleeping",
     "Give the PRN zolpidem at bedtime in addition to the opioid",
     "Keep the head of the bed elevated at least 30°"
    ],
-   "columns": [
-    "Indicated",
-    "Contraindicated"
-   ],
    "answer": [
     0,
-    1,
-    0,
-    1,
-    0
+    2,
+    4
    ],
    "optionRationales": [
-    "Indicated. Opioids can cause hypoventilation; checking rate, depth, and sedation before each dose detects respiratory depression early.",
-    "Contraindicated. In the supine position the tongue and soft tissues fall back and worsen obstruction.",
-    "Indicated. Clients with OSA who receive opioids are at high risk for unrecognized respiratory depression, so continuous monitoring is recommended.",
-    "Contraindicated. Combining a sedative-hypnotic with an opioid adds to respiratory depression and upper-airway relaxation.",
-    "Indicated. Elevating the head of the bed or using lateral positioning reduces airway collapse and improves ventilation."
+    "Correct. Opioids depress respirations; breathing and sedation are checked before each dose.",
+    "The supine position allows the tongue and relaxed airway tissues to obstruct the airway, worsening sleep apnea.",
+    "Correct. Continuous monitoring detects apnea and desaturation during sleep.",
+    "Adding another sedating medication increases the risk of hypoventilation and apnea.",
+    "Correct. Head-up positioning keeps the upper airway more open."
    ],
    "rationale": "Older adults have an increased risk of sleep apnea. Opioids depress the rate and depth of respirations and relax the upper-airway muscles, so this client is at high risk for hypoventilation, apnea, and hypoxemia during sleep. Safe care includes assessing breathing and sedation before each dose, continuous monitoring during sleep, head-up positioning, and avoiding additional sedating medications.",
-   "takeaway": "Sleep apnea + opioids: check breathing and sedation before each dose, keep the head up, monitor continuously, and add no extra sedatives.",
-   "hintContent": "Recall how opioids and sedatives affect respiratory drive and the muscles that keep the upper airway open.",
-   "hintStrategy": "Judge each row on its own. Ask whether the intervention keeps the airway open and the client monitored, or adds to obstruction and sedation."
+   "takeaway": "Sleep apnea + opioids: monitor closely, keep the head up, avoid extra sedatives.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Opioids reduce respiratory drive and relax airway muscles — on top of an airway that already collapses during sleep.",
+   "hintStrategy": "Choose interventions that detect or prevent hypoventilation; reject anything that adds sedation or airway obstruction."
   },
   {
    "id": "m15c-018",
@@ -527,8 +440,6 @@
    "ref": "Module 15 · Oxygenation · Breathing Techniques",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
    "stem": "The nurse taught pursed-lip breathing to a client with emphysema. Which statements by the client indicate that the teaching was effective? Select all that apply.",
    "options": [
     "“I breathe in slowly through my nose for about 2 counts.”",
@@ -554,57 +465,49 @@
    ],
    "rationale": "In emphysema, loss of elastic recoil lets small airways collapse during exhalation, which traps air. Pursed-lip breathing creates positive back-pressure that splints airways open, prolongs exhalation, slows the respiratory rate, and improves CO₂ elimination. Teaching is effective when the client describes slow nasal inhalation, gentle and prolonged pursed-lip exhalation, and use of the technique during exertion.",
    "takeaway": "Smell the roses (in for 2), blow out the candle gently (out for 4). Never force it.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
    "hintContent": "Recall why airways collapse during exhalation in emphysema and how gentle resistance at the lips counteracts that.",
    "hintStrategy": "This is a positively worded SATA. Mark each statement true or false on its own, and be suspicious of statements that describe forceful or extreme breathing."
   },
   {
    "id": "m15c-019",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "breathing-patterns",
    "ref": "Module 15 · Oxygenation · Abnormal Breathing Patterns",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "stem": "The nurse is documenting the breathing patterns of several clients. For each client, indicate which breathing pattern the nurse should document.",
-   "rows": [
+   "stem": "The nurse is documenting the breathing patterns of several clients. Which client’s breathing pattern should the nurse document as Biot respiration?",
+   "options": [
     "A client with chronic kidney disease (pH 7.24, HCO₃⁻ 14 mEq/L) with deep, rapid, regular breaths at 30/min",
-    "A client with a large stroke and increased intracranial pressure whose breaths gradually deepen, then become shallower, followed by 20 seconds of apnea",
     "A client with bacterial meningitis who has clusters of shallow breaths interrupted by irregular periods of apnea",
+    "A client with increased intracranial pressure whose breaths gradually deepen, then become shallower, followed by 20 seconds of apnea",
     "A client with an opioid overdose whose breathing waxes and wanes in depth in a repeating cycle with periods of apnea"
    ],
-   "columns": [
-    "Kussmaul",
-    "Cheyne-Stokes",
-    "Biot"
-   ],
-   "answer": [
-    0,
-    1,
-    2,
-    1
-   ],
+   "answer": 1,
    "optionRationales": [
-    "Kussmaul. Deep, rapid, regular respirations blow off CO₂ to compensate for metabolic acidosis, such as the acidosis of kidney failure.",
-    "Cheyne-Stokes. A crescendo–decrescendo pattern followed by apnea occurs with increased ICP, heart failure, and drug overdose.",
-    "Biot. Shallow breaths with irregular apneic periods occur in CNS disorders such as meningitis.",
-    "Cheyne-Stokes. The module lists drug overdose as a cause of the cyclic waxing and waning pattern with apnea."
+    "Deep, rapid, regular breathing without apnea in metabolic acidosis is Kussmaul breathing.",
+    "Correct. Biot respiration is shallow breathing with irregular apneic periods and occurs with CNS disorders such as meningitis.",
+    "A regular crescendo–decrescendo cycle followed by apnea is Cheyne-Stokes respiration.",
+    "A repeating waxing-and-waning cycle with apnea is Cheyne-Stokes respiration, which can occur with drug overdose."
    ],
    "rationale": "Kussmaul breathing is deep, rapid, and regular without apnea, a compensation for metabolic acidosis. Cheyne-Stokes respiration cycles from deep, rapid breaths to slow, shallow breaths and then to apnea, and occurs with heart failure, increased ICP, and drug overdose. Biot respiration is shallow breathing with irregular apneic periods, and occurs with CNS disorders. Accurate documentation helps the team track neurologic and metabolic trends.",
-   "takeaway": "Kussmaul is deep and regular (acidosis). Cheyne-Stokes cycles with apnea. Biot is shallow and chaotic with apnea.",
-   "hintContent": "Recall how each pattern differs in depth, regularity, and the presence of apnea.",
-   "hintStrategy": "For each row, look first for apnea (which rules out one pattern), then for a regular cycle versus chaotic clusters."
+   "takeaway": "Biot = irregular clusters with irregular apnea; Cheyne-Stokes = regular crescendo–decrescendo cycle.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Two patterns include apnea. The difference is whether the breathing follows a predictable, repeating cycle.",
+   "hintStrategy": "Eliminate the pattern with no apnea first, then compare the regular cycle with the irregular one."
   },
   {
    "id": "m15c-021",
    "type": "mcq",
+   "priority": true,
    "topic": "breathing-patterns",
    "ref": "Module 15 · Oxygenation · Hypoventilation After Chest Trauma",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "stem": "A client with three fractured ribs on the left is taking shallow breaths at 26/min and splinting the chest. The client rates pain 8/10. SpO₂ is 92% on room air, and breath sounds are diminished in the left base. Which plan will best improve the client’s breathing pattern?",
+   "stem": "A client with three fractured ribs on the left is taking shallow breaths at 26/min and splinting the chest. The client rates pain 8/10. SpO₂ is 92% on room air, and breath sounds are diminished in the left base. Which action should the nurse take first to improve the client’s breathing pattern?",
    "options": [
     "Apply a tight elastic binder around the chest to stabilize the fractures",
     "Keep the client on bed rest in the supine position until the pain improves",
@@ -620,19 +523,20 @@
    ],
    "rationale": "Rib fractures cause pleuritic pain, so the client breathes shallowly (hypoventilation), which leads to atelectasis, retained secretions, and pneumonia. The priority is to treat the cause: effective pain control, followed by coached deep breathing, coughing with a splinting pillow, incentive spirometry, and early mobility. Chest binding and immobility worsen outcomes.",
    "takeaway": "Rib fractures: treat the pain so the client can breathe. Never bind the chest.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
    "hintContent": "Recall why a client in pain hypoventilates and what shallow breathing does to the alveoli in the bases.",
    "hintStrategy": "Identify the cause of the abnormal breathing pattern in the stem, then choose the plan that treats that cause and expands the lungs."
   },
   {
    "id": "m15c-024",
    "type": "mcq",
+   "priority": true,
    "topic": "diagnostics-abg",
    "ref": "Module 15 · Oxygenation · Arterial Blood Gas Sampling",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "stem": "A client who is receiving anticoagulant therapy just had a radial arterial blood gas drawn. The respiratory therapist is called away to an emergency and asks the nurse to finish caring for the puncture site. Which action should the nurse take?",
+   "stem": "A client who is receiving anticoagulant therapy just had a radial arterial blood gas drawn. The respiratory therapist is called away to an emergency and asks the nurse to finish caring for the puncture site. Which action is the priority?",
    "options": [
     "Apply firm direct pressure to the puncture site for at least 10 minutes",
     "Apply a warm compress to the site to promote circulation to the hand",
@@ -648,6 +552,8 @@
    ],
    "rationale": "Arterial blood is under high pressure, so an ABG puncture site can bleed or form a hematoma. The risk is higher when the client takes an anticoagulant. Firm direct pressure is held for at least 5 minutes, and longer when the client is anticoagulated. The nurse then checks the site and assesses circulation, color, and sensation in the hand.",
    "takeaway": "After an ABG, hold firm pressure for 5 minutes, and 10 minutes or more if the client is anticoagulated. Then check the hand.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
    "hintContent": "Recall how arterial pressure differs from venous pressure and how anticoagulation affects clot formation.",
    "hintStrategy": "Notice the key detail in the stem (anticoagulant therapy). Choose the option that best prevents bleeding at an arterial site."
   },
@@ -658,8 +564,6 @@
    "ref": "Module 15 · Oxygenation · Sputum Specimen",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Client Teaching",
    "stem": "The nurse is teaching a client with suspected pneumonia who needs a sputum specimen for culture and sensitivity. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "“Collect the specimen first thing in the morning when you wake up.”",
@@ -685,6 +589,8 @@
    ],
    "rationale": "A sputum culture is useful only if the specimen comes from the lower respiratory tract and is not affected by antimicrobials. Best practice is an early-morning specimen, a water rinse (no mouthwash), and deep breathing and coughing into a sterile container, collected before antibiotics start and sent to the lab promptly. Saliva is not an acceptable substitute. The nurse may request an order for other methods, such as nebulized saline induction or suctioning, if the client cannot produce sputum.",
    "takeaway": "Sputum culture: first thing in the morning, rinse with water only, cough from deep in the lungs, and collect before antibiotics.",
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
    "hintContent": "Think about what could contaminate the specimen or kill the organism the lab is trying to grow.",
    "hintStrategy": "Evaluate each instruction separately. Ask whether it helps collect a true lower-airway sample or would contaminate or alter the specimen."
   },
@@ -695,8 +601,6 @@
    "ref": "Module 15 · Oxygenation · Thoracentesis",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "stem": "A client had a thoracentesis 1 hour ago, and 900 mL of straw-colored fluid was removed from the right pleural space. Which findings require immediate follow-up by the nurse? Select all that apply.",
    "options": [
     "Sudden sharp right-sided chest pain with increasing dyspnea",
@@ -721,92 +625,81 @@
    ],
    "rationale": "Thoracentesis removes pleural fluid to relieve compression of the lung. The most important complication is pneumothorax, which causes sudden pleuritic pain, dyspnea, diminished or absent breath sounds, asymmetrical chest movement, and desaturation. The nurse also watches the site for bleeding, and a chest x-ray is typically obtained afterward. Improved breath sounds and easier breathing indicate effective treatment.",
    "takeaway": "After thoracentesis, watch for pneumothorax: sudden pain, dyspnea, lost breath sounds, and falling SpO₂.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
    "hintContent": "Recall what structure the needle passes near during thoracentesis and what happens if air enters the pleural space.",
    "hintStrategy": "Sort each finding into expected improvement or new complication. Only the complications require immediate follow-up."
   },
   {
    "id": "m15c-027",
-   "type": "matrix",
+   "type": "sata",
    "topic": "diagnostics-abg",
    "ref": "Module 15 · Oxygenation · ABG Interpretation",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "stem": "The nurse is reviewing ABG results for several clients. For each client, indicate the primary acid–base imbalance.",
-   "rows": [
+   "stem": "The nurse is reviewing ABG results for several clients. Which clients have a primary respiratory acidosis? Select all that apply.",
+   "options": [
     "A client who is oversedated after a procedure: pH 7.30, PaCO₂ 55 mm Hg, HCO₃⁻ 25 mEq/L",
     "A client having a panic attack who is breathing 36/min: pH 7.50, PaCO₂ 29 mm Hg, HCO₃⁻ 24 mEq/L",
     "A client with diabetic ketoacidosis and Kussmaul respirations: pH 7.22, PaCO₂ 25 mm Hg, HCO₃⁻ 10 mEq/L",
     "A client with COPD who became drowsy after a family member turned up the oxygen: pH 7.29, PaCO₂ 64 mm Hg, HCO₃⁻ 30 mEq/L",
     "A client with kidney failure who has deep, rapid respirations: pH 7.29, PaCO₂ 33 mm Hg, HCO₃⁻ 16 mEq/L"
    ],
-   "columns": [
-    "Respiratory acidosis",
-    "Respiratory alkalosis",
-    "Metabolic acidosis"
-   ],
    "answer": [
     0,
-    1,
-    2,
-    0,
-    2
+    3
    ],
    "optionRationales": [
-    "Respiratory acidosis. Sedation depresses ventilation, CO₂ accumulates (PaCO₂ 55), and pH falls. HCO₃⁻ is normal, so there is no compensation yet.",
-    "Respiratory alkalosis. Hyperventilation blows off CO₂ (PaCO₂ 29), and pH rises.",
-    "Metabolic acidosis. Ketoacids consume bicarbonate (HCO₃⁻ 10). The low PaCO₂ reflects Kussmaul compensation.",
-    "Respiratory acidosis. Excess oxygen in a client who retains CO₂ has worsened hypercarbia (PaCO₂ 64); the elevated HCO₃⁻ is the kidneys' chronic compensation.",
-    "Metabolic acidosis. Failing kidneys retain acid and lose bicarbonate (HCO₃⁻ 16); the low PaCO₂ shows the lungs compensating."
+    "Correct. Low pH with a high PaCO₂ from sedation-induced hypoventilation is respiratory acidosis.",
+    "High pH with a low PaCO₂ from hyperventilation is respiratory alkalosis.",
+    "Low pH with a low HCO₃⁻ is metabolic acidosis; the low PaCO₂ is respiratory compensation.",
+    "Correct. Low pH with a high PaCO₂ from CO₂ retention is respiratory acidosis; the elevated HCO₃⁻ reflects chronic compensation.",
+    "Low pH with a low HCO₃⁻ is metabolic acidosis; the deep, rapid breathing lowers PaCO₂ to compensate."
    ],
    "rationale": "To identify the primary disorder, first classify the pH as acidotic or alkalotic. Then find which value explains it: a high PaCO₂ (above 45) matches acidosis and a low PaCO₂ (below 35) matches alkalosis (respiratory), while a low HCO₃⁻ matches acidosis (metabolic). Hypoventilation from sedation or CO₂ retention causes respiratory acidosis, hyperventilation causes respiratory alkalosis, and acids from ketoacidosis or kidney failure cause metabolic acidosis, with the lungs compensating by lowering PaCO₂ (Kussmaul breathing).",
-   "takeaway": "Match the pH: PaCO₂ opposite the pH points to a respiratory cause, and HCO₃⁻ in the same direction as the pH points to a metabolic cause.",
-   "hintContent": "Recall the normal ranges (pH 7.35–7.45, PaCO₂ 35–45, HCO₃⁻ 22–26) and that CO₂ acts as an acid while HCO₃⁻ acts as a base.",
-   "hintStrategy": "Use the clinical context in each row as a second check. Ask whether the condition affects breathing (respiratory) or adds or removes acid (metabolic)."
+   "takeaway": "Low pH + high PaCO₂ = respiratory acidosis; low pH + low HCO₃⁻ = metabolic acidosis.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Classify the pH first, then find the value (PaCO₂ or HCO₃⁻) whose direction explains that pH.",
+   "hintStrategy": "Respiratory acidosis requires both an acidic pH and a PaCO₂ above 45 mm Hg; test each client against both criteria."
   },
   {
    "id": "m15c-029",
-   "type": "highlight",
+   "type": "mcq",
+   "priority": true,
    "topic": "diagnostics-abg",
    "ref": "Module 15 · Oxygenation · Bronchoscopy",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "stem": "The nurse reviews the post-procedure note for a client who had a flexible bronchoscopy with biopsy. Click to highlight the findings that require immediate follow-up.",
-   "passage": "A 61-year-old client returned from a flexible bronchoscopy with transbronchial biopsy under moderate sedation 1 hour ago. The client is {{drowsy but easily aroused}}, and the {{gag reflex has not yet returned}}. The client is expectorating {{a few streaks of blood in the sputum}} and reports {{a mild sore throat}}. From the doorway, the nurse hears {{a high-pitched crowing sound on inspiration}}. The client reports {{new sharp left-sided chest pain}}. Temperature {{37.6 °C (99.7 °F)}}, respiratory rate {{26/min}}, SpO₂ {{89% on 2 L/min nasal cannula}} (95% on room air before the procedure).",
-   "answer": [
-    4,
-    5,
-    7,
-    8
+   "stem": "A 61-year-old client returned from a flexible bronchoscopy with transbronchial biopsy under moderate sedation 1 hour ago. The gag reflex has not yet returned, and the client reports a mild sore throat. Temperature 37.6 °C (99.7 °F), respiratory rate 26/min, SpO₂ 89% on 2 L/min nasal cannula (95% on room air before the procedure). Which finding should the nurse address first?",
+   "options": [
+    "Drowsy but easily aroused",
+    "New sharp left-sided chest pain when breathing in",
+    "A high-pitched crowing sound on inspiration",
+    "A few streaks of blood in the sputum"
    ],
+   "answer": 2,
    "optionRationales": [
-    "Expected. Residual sedation is normal 1 hour after moderate sedation when the client arouses easily.",
-    "Expected at this point. The topical anesthetic suppresses the gag reflex for 1–2 hours. The nurse keeps the client NPO until it returns, but this is not an abnormal finding.",
-    "Expected after biopsy. Small amounts of blood-streaked sputum are common. Frank bleeding would need follow-up.",
-    "Expected. Mild throat irritation from the scope is common and is treated with lozenges or gargles once the gag reflex returns.",
-    "Requires follow-up. Stridor indicates laryngeal edema or laryngospasm, an airway emergency.",
-    "Requires follow-up. New pleuritic chest pain after transbronchial biopsy suggests pneumothorax.",
-    "Expected. A low-grade temperature within 24 hours after bronchoscopy is common.",
-    "Requires follow-up. Tachypnea is new compared with baseline and supports respiratory compromise.",
-    "Requires follow-up. SpO₂ has fallen well below baseline despite supplemental oxygen."
+    "Residual drowsiness is expected 1 hour after moderate sedation when the client is easily aroused.",
+    "New pleuritic pain with desaturation after transbronchial biopsy suggests pneumothorax and needs prompt follow-up, but the airway comes first.",
+    "Correct. Stridor signals laryngeal edema or laryngospasm — an airway threat that takes priority.",
+    "Blood-streaked sputum is expected after biopsy; heavy bleeding would require follow-up."
    ],
-   "rationale": "After bronchoscopy, the nurse monitors for airway compromise (laryngeal edema or laryngospasm, shown by stridor), pneumothorax (especially after transbronchial biopsy, shown by pleuritic pain, dyspnea, and desaturation), and significant bleeding. Mild sore throat, blood-streaked sputum, transient low-grade fever, residual sedation, and an absent gag reflex during the first 1–2 hours are expected. The client stays NPO until the gag reflex returns.",
-   "takeaway": "After bronchoscopy, stridor, new chest pain, tachypnea, and desaturation are red flags. A sore throat and blood streaks are expected.",
-   "hintContent": "Recall the expected effects of topical anesthesia, sedation, and biopsy after bronchoscopy, and the two most dangerous complications.",
-   "hintStrategy": "Ask whether each finding is an expected consequence of the procedure or a sign of airway or lung compromise."
+   "rationale": "After bronchoscopy, the nurse monitors for airway compromise (laryngeal edema or laryngospasm, shown by stridor), pneumothorax (especially after transbronchial biopsy, shown by pleuritic pain, dyspnea, and desaturation), and significant bleeding. Using the ABCs, the airway threat is addressed first. Mild sore throat, blood-streaked sputum, transient low-grade fever, residual sedation, and an absent gag reflex during the first 1–2 hours are expected; the client stays NPO until the gag reflex returns.",
+   "takeaway": "After bronchoscopy, stridor is an airway emergency — airway before breathing.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Two of the options are unexpected after bronchoscopy. Decide which one threatens the airway and which one threatens breathing.",
+   "hintStrategy": "Eliminate expected post-procedure findings, then apply the ABCs to the findings that remain."
   },
   {
    "id": "m15c-031",
    "type": "mcq",
+   "priority": true,
    "topic": "oxygen-therapy",
    "ref": "Module 15 · Oxygenation · Oxygen Therapy in Chronic CO₂ Retention",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
    "stem": "A client with COPD and chronic CO₂ retention is admitted with an exacerbation. The prescription reads “Titrate oxygen to maintain SpO₂ 88–92%.” A family member increased the flow to 6 L/min because the client “looked uncomfortable.” The client, who was alert an hour ago, is now difficult to arouse. SpO₂ 98%, RR 12/min. Which action should the nurse take first?",
    "options": [
     "Encourage the client to cough and take several slow, deep breaths",
@@ -823,40 +716,39 @@
    ],
    "rationale": "Clients who chronically retain CO₂ can develop hypercapnic respiratory acidosis when given uncontrolled high-concentration oxygen. This is why a target range of 88–92% is prescribed. New drowsiness after an oxygen increase indicates CO₂ narcosis. The nurse reduces oxygen to the target without discontinuing it, since abrupt removal can cause rebound hypoxemia, then notifies the provider and anticipates an ABG. Oxygen should never be withheld from a hypoxemic client with COPD. It should be titrated.",
    "takeaway": "COPD with CO₂ retention: aim for 88–92%. More oxygen is not better, and new drowsiness means check the CO₂.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "hintContent": "Recall the usual SpO₂ target for clients with chronic CO₂ retention and what happens when they receive uncontrolled high-flow oxygen.",
    "hintStrategy": "Compare the current SpO₂ with the prescribed range and connect it to the change in level of consciousness. Then choose the action that corrects the cause."
   },
   {
    "id": "m15c-032",
-   "type": "highlight",
+   "type": "mcq",
+   "priority": true,
    "topic": "oxygen-therapy",
    "ref": "Module 15 · Oxygenation · Oxygen Safety and Device Checks",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "cjmm": "Recognize Cues",
-   "focus": "Delegation & Safety",
-   "stem": "The nurse makes hourly rounds on a client receiving continuous oxygen by nasal cannula at 4 L/min as prescribed. Click to highlight the findings that require the nurse to take action.",
-   "passage": "The {{flowmeter ball is centered on the 4 L/min line}}. The {{oxygen tubing is pinched under the bed's side rail}}. The client's {{SpO₂ is 91%, down from 95% an hour ago}}. The {{skin behind both ears is reddened and tender}} where the tubing rests. The {{humidifier bottle is filled to the line}}, and {{the curved prongs point downward into the nares}}. A visitor is {{applying a petroleum-based balm to the client's lips}}. The client is {{breathing through the mouth while watching television}}.",
-   "answer": [
-    1,
-    2,
-    3,
-    6
+   "stem": "The nurse makes hourly rounds on a client receiving continuous oxygen by nasal cannula at 4 L/min as prescribed. The flowmeter is set correctly, and the client’s SpO₂ is 91%, down from 95% an hour ago. Which finding should the nurse address first?",
+   "options": [
+    "The skin behind both ears is reddened and tender",
+    "The oxygen tubing is pinched under the bed’s side rail",
+    "A visitor is applying a petroleum-based balm to the client’s lips",
+    "The client is breathing through the mouth while watching television"
    ],
+   "answer": 1,
    "optionRationales": [
-    "No action needed. The flow matches the prescription, and the reading is taken from the center of the ball.",
-    "Action needed. Kinked or pinched tubing blocks oxygen delivery and should be freed right away.",
-    "Action needed. A falling SpO₂ needs assessment and correction of the cause, which here is likely the occluded tubing.",
-    "Action needed. Device-related pressure injury is developing. Pad the tubing over the ears and assess the skin regularly.",
-    "No action needed. The humidifier is correctly filled; humidification is appropriate at flows of about 4 L/min or more.",
-    "No action needed. Curved prongs should point downward, following the natural curve of the nasal passages.",
-    "Action needed. Petroleum-based products are flammable in an oxygen-enriched environment and can irritate the airways. Use a water-based lubricant.",
-    "No action needed. Oxygen pools in the nasopharynx, so a client who breathes through the mouth still receives oxygen from a nasal cannula."
+    "Early device-related pressure injury needs padding and repositioning, but it is not interrupting oxygen delivery.",
+    "Correct. Pinched tubing is interrupting oxygen delivery and explains the falling SpO₂ — an actual oxygenation problem.",
+    "Petroleum products near oxygen are a fire hazard that must be corrected, but this is a potential risk rather than an actual gas-exchange problem.",
+    "Clients can still receive oxygen through a nasal cannula while mouth breathing; no action is needed."
    ],
-   "rationale": "Oxygen safety checks include flow rate, patent tubing, device fit, skin integrity at pressure points, humidification, fire safety, and the client's response. Kinked tubing, falling SpO₂, early device-related pressure injury behind the ears, and petroleum products near oxygen all need prompt action. Correct flow, correct prong orientation, a filled humidifier, and mouth breathing with a cannula are acceptable.",
-   "takeaway": "Oxygen rounds: check the flow, check the tubing, check the skin behind the ears, and keep petroleum away.",
-   "hintContent": "Recall the elements of an oxygen safety check: flow, patency, fit, skin, humidity, fire safety, and the client's response.",
-   "hintStrategy": "Evaluate each highlighted phrase on its own. Ask whether it is correct as-is or a problem you must fix."
+   "rationale": "Oxygen safety checks include flow rate, patent tubing, device fit, skin integrity at pressure points, humidification, fire safety, and the client’s response. Kinked tubing, falling SpO₂, early device-related pressure injury behind the ears, and petroleum products near oxygen all need action. The pinched tubing comes first because it is actively preventing oxygen delivery and has caused a drop in SpO₂.",
+   "takeaway": "Falling SpO₂ on oxygen? Check the tubing first — restore delivery before anything else.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Delegation & Safety",
+   "hintContent": "The SpO₂ has dropped in the past hour even though the flowmeter is set correctly. Something between the wall and the client may explain it.",
+   "hintStrategy": "Separate actual problems affecting oxygenation now from potential risks; the actual oxygenation problem comes first."
   },
   {
    "id": "m15c-036",
@@ -865,8 +757,6 @@
    "ref": "Module 15 · Oxygenation · Evaluating Oxygen Therapy",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
    "stem": "One hour ago, the oxygen for a client with pneumonia was increased to 6 L/min by nasal cannula. Which findings indicate that the current oxygen therapy is not effective and should be reported to the provider? Select all that apply.",
    "options": [
     "SpO₂ 87%",
@@ -891,46 +781,54 @@
    ],
    "rationale": "Evaluating oxygen therapy means looking for changes in SpO₂, respiratory rate and effort, heart rate, mental status, and skin and mucosa color. A nasal cannula tops out at about 6 L/min (about 44% FiO₂). If the client remains hypoxemic, tachypneic, and newly confused at that flow, the therapy is ineffective and needs escalation, such as a higher-FiO₂ device, high-flow nasal cannula, or ventilatory support.",
    "takeaway": "If SpO₂, work of breathing, and mental status do not improve on 6 L/min by nasal cannula, escalate.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
    "hintContent": "Recall the maximum useful flow of a nasal cannula and the assessment findings that show whether hypoxia is improving.",
    "hintStrategy": "Sort each finding as improved or not improved. Select only the ones showing that the client is still hypoxic."
   },
   {
    "id": "m15c-037",
-   "type": "order",
+   "type": "mcq",
+   "priority": true,
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Foreign Object in the Airway",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A 9-month-old infant eating a snack suddenly cannot cry or cough and has bluish lips but is still conscious. The nurse confirms the infant cannot cry or cough and calls for help. Which action should the nurse take next?",
+   "options": [
+    "Stand behind the infant and give 5 abdominal thrusts",
+    "Look in the mouth and do a blind finger sweep",
+    "Hold the infant face down and give up to 5 back blows",
+    "Lay the infant supine and begin CPR with chest compressions"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Abdominal thrusts are not used in infants because of the risk of liver injury.",
+    "Blind finger sweeps can push the object deeper; the mouth is checked only when the infant is unresponsive, before rescue breaths.",
+    "Correct. For a conscious infant with severe obstruction, give up to 5 back blows with the head lower than the chest, then 5 chest thrusts.",
+    "CPR begins only if the infant becomes unresponsive; this infant is still conscious."
+   ],
+   "rationale": "Infants are at high risk for foreign-body airway obstruction because their airways are short and narrow. For a conscious infant with a severe obstruction (unable to cry or cough), the rescuer holds the infant face down along the forearm with the head lower than the chest, delivers up to 5 back blows, then turns the infant face up and delivers up to 5 chest thrusts, repeating until the object comes out or the infant becomes unresponsive. Abdominal thrusts are not used in infants. If the infant becomes unresponsive, the rescuer begins CPR and looks in the mouth for the object before giving breaths.",
+   "takeaway": "Conscious choking infant: 5 back blows, then 5 chest thrusts — no abdominal thrusts, no blind sweeps.",
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
-   "stem": "A 9-month-old infant eating a snack suddenly cannot cry or cough and has bluish lips but is still conscious. Place the steps in the order the nurse should perform them.",
-   "options": [
-    "Confirm that the infant cannot cry or cough and call for help",
-    "Hold the infant face down along the forearm with the head lower than the chest, supporting the head and jaw",
-    "Deliver up to 5 forceful back blows between the shoulder blades with the heel of the hand",
-    "Turn the infant face up, supporting the head, keeping the head lower than the trunk",
-    "Deliver up to 5 chest thrusts on the lower half of the sternum, just below the nipple line"
-   ],
-   "rationale": "Infants are at high risk for foreign-body airway obstruction because their airways are short and narrow. For a conscious infant with a severe obstruction (unable to cry or cough), the rescuer delivers 5 back blows followed by 5 chest thrusts and repeats the cycle until the object comes out or the infant becomes unresponsive. Abdominal thrusts are not used in infants because of the risk of liver injury. If the infant becomes unresponsive, the rescuer begins CPR and looks in the mouth for the object before giving breaths.",
-   "takeaway": "Choking infant: 5 back blows, then 5 chest thrusts, head down. No abdominal thrusts.",
-   "hintContent": "Recall how infant foreign-body obstruction relief differs from the technique used for older children and adults.",
-   "hintStrategy": "Start by confirming a severe obstruction, then think about positioning before each set of maneuvers."
+   "hintContent": "The infant is still conscious, and infant airway-clearance techniques differ from those used for adults.",
+   "hintStrategy": "Eliminate adult techniques and actions reserved for an unresponsive infant."
   },
   {
    "id": "m15c-038",
    "type": "mcq",
+   "priority": false,
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Foreign Object in the Airway",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Lifespan & Diversity",
    "stem": "A 2-year-old is brought to urgent care after a sudden episode of coughing and gagging while eating trail mix with peanuts 3 hours ago. The child has no fever and no recent respiratory illness. The nurse hears an intermittent cough and wheezing only over the right side, with diminished breath sounds in the right lower lobe. SpO₂ is 95%. Which condition should the nurse suspect?",
    "options": [
     "Foreign-body aspiration into the right bronchus",
     "A viral upper respiratory infection",
     "New-onset asthma triggered by a food allergen",
-    "Bacterial pneumonia of the right lower lobe"
+    "Bacterial pneumonia developing in the right lower lobe"
    ],
    "answer": 0,
    "optionRationales": [
@@ -941,50 +839,56 @@
    ],
    "rationale": "Toddlers are at high risk for aspirating foreign objects, and nuts, popcorn, and grapes are common culprits. Children may appear stable after the initial choking episode, then develop localized findings: unilateral wheeze, diminished breath sounds, and cough. Because of airway anatomy, the object usually enters the right mainstem bronchus. Suspected aspiration requires imaging and removal by bronchoscopy.",
    "takeaway": "A sudden choking episode plus one-sided wheezing is a foreign body, usually on the right, until proven otherwise.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Lifespan & Diversity",
    "hintContent": "Recall why children are at higher risk for airway obstruction and which bronchus foreign objects most often enter.",
    "hintStrategy": "Focus on the timing (sudden onset while eating) and the location (one side only). Rule out diagnoses that are bilateral or develop over days."
   },
   {
    "id": "m15c-040",
-   "type": "highlight",
+   "type": "sata",
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Pregnancy",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Lifespan & Diversity",
-   "stem": "The nurse is reviewing the triage note for a pregnant client. Click to highlight the findings that require follow-up.",
-   "passage": "A client at 30 weeks' gestation reports 2 days of fever, cough, and body aches; a rapid influenza test is positive. She reports {{nasal stuffiness that began early in pregnancy}} and {{mild shortness of breath when climbing stairs over the past month}}. She had {{a small nosebleed yesterday}} and notices {{occasional painless tightening of the abdomen}}. Temperature {{38.9 °C (102 °F)}}, respiratory rate {{28/min}}, SpO₂ {{93% on room air}}, fetal heart rate {{172/min}}.",
+   "stem": "A client at 30 weeks’ gestation reports 2 days of fever, cough, and body aches; a rapid influenza test is positive. The nurse reviews the triage note. Which findings require follow-up? Select all that apply.",
+   "options": [
+    "Nasal stuffiness that began early in pregnancy",
+    "Temperature 38.9 °C (102 °F)",
+    "Mild shortness of breath when climbing stairs over the past month",
+    "Respiratory rate 28/min",
+    "SpO₂ 93% on room air",
+    "Fetal heart rate 172/min"
+   ],
    "answer": [
+    1,
+    3,
     4,
-    5,
-    6,
-    7
+    5
    ],
    "optionRationales": [
-    "Expected. Rhinitis of pregnancy is caused by estrogen-related mucosal edema.",
-    "Expected. The rising uterus elevates the diaphragm, and increased respiratory drive commonly causes mild exertional dyspnea.",
-    "Expected. Increased vascularity of the nasal mucosa makes nosebleeds common in pregnancy.",
-    "Expected. Painless, irregular Braxton Hicks contractions are normal in the third trimester.",
-    "Requires follow-up. High maternal fever increases fetal oxygen demand and heart rate and should be treated promptly (for example, with acetaminophen).",
-    "Requires follow-up. Respiratory rate rises only slightly in pregnancy. A rate of 28/min indicates respiratory distress.",
-    "Requires follow-up. Pregnant clients should maintain SpO₂ of at least 95% to protect fetal oxygenation. Pregnancy lowers oxygen reserve, so desaturation can progress quickly.",
-    "Requires follow-up. A fetal heart rate above 160/min is fetal tachycardia, which may reflect maternal fever or hypoxemia."
+    "Nasal congestion is an expected change of pregnancy.",
+    "Correct. High fever with influenza in pregnancy increases the risk of severe illness and fetal tachycardia.",
+    "Mild exertional dyspnea is common in pregnancy as the diaphragm rises.",
+    "Correct. Tachypnea suggests worsening respiratory illness.",
+    "Correct. An SpO₂ below 95% in pregnancy requires follow-up because the fetus depends on maternal oxygenation.",
+    "Correct. A fetal heart rate above 160/min is fetal tachycardia, often from maternal fever or hypoxemia."
    ],
    "rationale": "Pregnancy raises the diaphragm, reduces functional residual capacity, and increases oxygen consumption, so pregnant clients desaturate more quickly and are at high risk for severe influenza. The nurse must distinguish normal adaptations (nasal congestion, epistaxis, mild dyspnea of pregnancy, Braxton Hicks contractions) from warning signs: fever, tachypnea, SpO₂ below 95%, and fetal tachycardia. Prompt treatment involving both obstetric and pulmonary providers protects mother and fetus.",
-   "takeaway": "In pregnancy, keep SpO₂ at 95% or higher. Fever, tachypnea, and fetal tachycardia need action. A stuffy nose and mild dyspnea on stairs are normal.",
-   "hintContent": "Recall the normal respiratory changes of pregnancy from the lifespan content and the minimum maternal SpO₂ needed to protect the fetus.",
-   "hintStrategy": "For each phrase, decide whether it is a normal pregnancy adaptation or a sign that the mother or fetus is compromised."
+   "takeaway": "In pregnancy, stuffy nose and mild dyspnea are normal; fever, tachypnea, SpO₂ < 95%, and fetal tachycardia are not.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Some findings are normal adaptations of pregnancy; others are signs of severe influenza affecting mother and fetus.",
+   "hintStrategy": "For each finding, ask whether it would be expected in any healthy pregnancy or whether it reflects the acute infection."
   },
   {
    "id": "m15c-041",
    "type": "mcq",
+   "priority": false,
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
    "stem": "An 80-year-old client with gastroesophageal reflux disease and a weakened cough reflex is being discharged after treatment for aspiration pneumonia. Which statement by the client indicates a need for further teaching?",
    "options": [
     "“I’ll use my incentive spirometer and cough deeply several times a day.”",
@@ -1001,6 +905,8 @@
    ],
    "rationale": "Aging reduces the cough and gag reflexes, and GERD becomes more common, both of which increase the risk of aspiration and pneumonia in older adults. Teaching focuses on upright positioning during and after meals, elevating the head of the bed, careful eating habits, effective coughing, and incentive spirometry. Lying down soon after a meal undermines these precautions.",
    "takeaway": "Older adults with GERD and a weak cough should stay upright after meals. Lying down right after eating invites aspiration.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
    "hintContent": "Recall the age-related changes in cough reflex and the GERD-related risks listed for older adults.",
    "hintStrategy": "This is a negatively worded item. Find the statement that is incorrect or unsafe."
   },
@@ -1011,8 +917,6 @@
    "ref": "Module 15 · Oxygenation · Lifespan: Pediatric Respiratory Distress",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Lifespan & Diversity",
    "stem": "The nurse is assessing a 2-year-old with a respiratory infection. Which findings indicate respiratory distress requiring immediate intervention? Select all that apply.",
    "options": [
     "Respiratory rate of 32/min while awake and playing",
@@ -1038,19 +942,20 @@
    ],
    "rationale": "Children have narrower airways and less respiratory reserve, so they can deteriorate quickly. Warning signs of respiratory distress include retractions, nasal flaring, head bobbing, grunting, stridor at rest, and cyanosis. Normal findings for age, such as diaphragmatic breathing before age 6 and a toddler's rate of 20–40/min, must be recognized so they are not mistaken for distress.",
    "takeaway": "In young children, head bobbing, retractions, grunting, and stridor at rest mean distress. Belly breathing is normal.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
    "hintContent": "Recall the normal respiratory rate for toddlers and the age at which children stop breathing mainly with the diaphragm.",
    "hintStrategy": "Decide for each finding whether it is expected for a 2-year-old or a sign of increased work of breathing."
   },
   {
    "id": "m15c-043",
    "type": "mcq",
+   "priority": true,
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Newborns",
    "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "stem": "The nurse is assessing a term newborn 2 hours after birth. Which finding requires follow-up?",
+   "stem": "The nurse is assessing a term newborn 2 hours after birth. Which finding requires immediate follow-up?",
    "options": [
     "Respiratory rate of 52/min, irregular, with pauses of 5–10 seconds",
     "Bluish discoloration of the hands and feet with a pink trunk",
@@ -1066,6 +971,8 @@
    ],
    "rationale": "Newborns normally breathe 30–60 times per minute with an irregular, periodic pattern and brief pauses of less than 20 seconds. Their breathing is diaphragmatic, and acrocyanosis is common. Grunting, nasal flaring, retractions, central cyanosis, and apnea of 20 seconds or longer are abnormal and require prompt evaluation.",
    "takeaway": "Newborns: irregular breathing at 30–60/min and blue hands are normal. Grunting and flaring are not.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
    "hintContent": "Recall the normal newborn respiratory rate and pattern, and which color changes are expected shortly after birth.",
    "hintStrategy": "Three options describe normal newborn adaptations. Find the one that signals increased work of breathing."
   },
@@ -1076,8 +983,6 @@
    "ref": "Module 15 · Oxygenation · Independent Interventions",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
    "stem": "A client with COPD becomes dyspneic during morning care. SpO₂ is 90% on 2 L/min nasal cannula, and the prescribed target range is 88–92%. Which independent nursing interventions should the nurse include to improve the client’s breathing pattern? Select all that apply.",
    "options": [
     "Raise the head of the bed to high-Fowler's position",
@@ -1103,45 +1008,20 @@
    ],
    "rationale": "Independent nursing interventions to improve gas exchange and breathing patterns include positioning, breathing techniques, pacing activities, assisting with ADLs, promoting secretion clearance, and comfort measures such as a handheld fan. Medications and changes to oxygen therapy are collaborative and need a prescription or protocol. SpO₂ is already within the prescribed range.",
    "takeaway": "Independent dyspnea measures: sit the client up, pace activities, use pursed-lip breathing, and use a fan. Medications and oxygen changes need orders.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
    "hintContent": "Recall the difference between independent and collaborative interventions, and the examples of independent interventions listed in the module.",
    "hintStrategy": "Evaluate each option for two things: does it help the breathing pattern, and can the nurse do it without a prescription?"
   },
   {
    "id": "m15c-045",
-   "type": "highlight",
+   "type": "sata",
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults · NGN Case Study: Older Adult with Pneumonia",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "caseId": "m15c-case-older-adult-pneumonia",
    "caseOrder": 1,
-   "stem": "The nurse in the emergency department is caring for an 82-year-old client. Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Click to highlight the assessment findings that require follow-up.",
-   "passage": "The client is {{oriented to person only (baseline: oriented ×3)}}. The nurse notes {{mild kyphosis}}, {{fine inspiratory crackles at both bases that clear after coughing}}, and {{crackles that do not clear with coughing and diminished breath sounds over the right lower lobe}}. Temperature {{37.2 °C (99.0 °F)}}, heart rate {{112/min}}, respiratory rate {{28/min}}, SpO₂ {{89% on room air}}. The oral mucosa is {{dry}}.",
-   "answer": [
-    0,
-    3,
-    5,
-    6,
-    7,
-    8
-   ],
-   "rationale": "Older adults often present with pneumonia atypically — with new confusion, weakness, loss of appetite, tachycardia, and tachypnea, and often without a fever. The nurse must also know which findings are expected with aging: kyphosis, slightly decreased breath sounds, and inspiratory crackles at the bases are common. Findings that are new or localized (confusion below baseline, crackles and diminished sounds over one lobe, tachycardia, tachypnea, low SpO₂, and signs of poor fluid intake) require follow-up.",
-   "optionRationales": [
-    "Requires follow-up. New confusion compared with baseline is a common atypical sign of pneumonia and of hypoxia in older adults.",
-    "Expected. Kyphosis is a common age-related change that the nurse assesses for; it is not new.",
-    "Expected. Inspiratory crackles at the bases are common in older adults, and these clear with coughing.",
-    "Requires follow-up. Localized crackles that do not clear and diminished breath sounds over one lobe suggest consolidation from pneumonia.",
-    "Does not require follow-up. The temperature is normal; older adults with pneumonia often have no fever.",
-    "Requires follow-up. Tachycardia is an early sign of hypoxia and a common atypical sign of pneumonia.",
-    "Requires follow-up. A rate of 28/min is above the expected 15–20/min for older adults.",
-    "Requires follow-up. SpO₂ 89% indicates hypoxemia.",
-    "Requires follow-up. Dry mucosa with poor intake signals a change in fluid and nutrition status, which the module lists as an assessment focus in older adults."
-   ],
-   "takeaway": "In older adults, pneumonia may show up as confusion, weakness, poor appetite, tachycardia, and tachypnea — without a fever.",
-   "hintContent": "Recall the atypical signs of pneumonia in older adults and the respiratory findings the module lists as expected with aging.",
-   "hintStrategy": "For each phrase, ask whether it is an expected age-related finding or a new change from this client's baseline.",
    "exhibit": {
     "tabs": [
      {
@@ -1180,52 +1060,47 @@
       "html": "Admit to medical unit<br>Oxygen by nasal cannula; titrate to keep SpO₂ ≥ 92%<br>Sputum culture and blood cultures ×2<br>Ceftriaxone 1 g IV every 24 hours — first dose after cultures<br>0.9% sodium chloride IV at 75 mL/hr<br>Bedside swallow screen before any oral intake<br>Head of bed ≥ 30°<br>Oropharyngeal suction PRN<br>Incentive spirometer 10 times/hr while awake"
      }
     ]
-   }
+   },
+   "stem": "The nurse in the emergency department is caring for an 82-year-old client. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which assessment findings require follow-up? Select all that apply.",
+   "options": [
+    "Oriented to person only (baseline: oriented ×3)",
+    "Fine inspiratory crackles at both bases that clear after coughing",
+    "Heart rate 112/min and respiratory rate 28/min",
+    "Temperature 37.2 °C (99.0 °F)",
+    "Crackles that do not clear with coughing and diminished breath sounds over the right lower lobe",
+    "SpO₂ 89% on room air"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Correct. New confusion below baseline is a common atypical sign of pneumonia and hypoxemia in older adults.",
+    "Basilar inspiratory crackles that clear with coughing are common with aging.",
+    "Correct. Tachycardia and tachypnea are compensatory responses to infection and hypoxemia.",
+    "A normal temperature does not rule out pneumonia in an older adult; this value itself is within normal limits.",
+    "Correct. Localized crackles that persist after coughing with diminished sounds over one lobe suggest consolidation.",
+    "Correct. An SpO₂ of 89% indicates hypoxemia."
+   ],
+   "rationale": "Older adults often present with pneumonia atypically — with new confusion, weakness, loss of appetite, tachycardia, and tachypnea, and often without a fever. The nurse must also know which findings are expected with aging: kyphosis, slightly decreased breath sounds, and inspiratory crackles at the bases that clear with coughing are common. Findings that are new or localized (confusion below baseline, crackles and diminished sounds over one lobe, tachycardia, tachypnea, low SpO₂, and signs of poor fluid intake) require follow-up.",
+   "takeaway": "In older adults, new confusion may be the first sign of pneumonia — fever may be absent.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Some findings are expected with aging; others are new, localized, or compare poorly with the client’s baseline.",
+   "hintStrategy": "Compare each finding with the client’s baseline and with expected aging changes; select only what is new or abnormal."
   },
   {
    "id": "m15c-046",
-   "type": "matrix",
+   "type": "mcq",
+   "priority": false,
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults · NGN Case Study: Older Adult with Pneumonia",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Analyze Cues",
-   "focus": "Lifespan & Diversity",
    "caseId": "m15c-case-older-adult-pneumonia",
    "caseOrder": 2,
-   "stem": "The nurse continues to care for the 82-year-old client. Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. For each finding, indicate whether it is consistent with pneumonia or is an expected age-related change.",
-   "rows": [
-    "Oriented to person only; baseline oriented ×3",
-    "Mild kyphosis",
-    "Fine inspiratory crackles at both bases that clear after coughing",
-    "Heart rate 112/min and respiratory rate 28/min",
-    "Loss of appetite and new weakness over 2 days",
-    "Slightly decreased breath sounds in the upper lung fields"
-   ],
-   "columns": [
-    "Consistent with pneumonia",
-    "Expected age-related change"
-   ],
-   "answer": [
-    0,
-    1,
-    1,
-    0,
-    0,
-    1
-   ],
-   "rationale": "Aging brings expected respiratory changes — kyphosis, decreased breath sounds, and inspiratory crackles at the bases are common. Pneumonia in an older adult may not cause fever; instead it often appears as new confusion, weakness, loss of appetite, tachycardia, and tachypnea. Separating the two keeps the nurse from dismissing a serious infection as \"just aging.\"",
-   "optionRationales": [
-    "Pneumonia. A new decline in orientation is an atypical presentation of pneumonia and a sign of hypoxia.",
-    "Expected age-related change. The module directs the nurse to assess older adults for kyphosis and scoliosis.",
-    "Expected age-related change. Inspiratory crackles at the bases are common in older adults, especially when they clear with coughing.",
-    "Pneumonia. Increased heart rate and respiratory rate are listed atypical signs of pneumonia in older adults.",
-    "Pneumonia. Loss of appetite and weakness are atypical signs of pneumonia in older adults.",
-    "Expected age-related change. Decreased breath sounds are expected in older adults; the localized change over the right lower lobe is the abnormal finding."
-   ],
-   "takeaway": "Kyphosis, softer breath sounds, and basilar crackles can be normal aging; new confusion, weakness, poor appetite, and fast HR and RR suggest pneumonia.",
-   "hintContent": "Recall the Lifespan Considerations slides for older adults: what the nurse should expect on assessment and how pneumonia may present.",
-   "hintStrategy": "Treat each row separately. Ask whether the finding is new for this client or a common, stable change of aging.",
    "exhibit": {
     "tabs": [
      {
@@ -1264,54 +1139,38 @@
       "html": "Admit to medical unit<br>Oxygen by nasal cannula; titrate to keep SpO₂ ≥ 92%<br>Sputum culture and blood cultures ×2<br>Ceftriaxone 1 g IV every 24 hours — first dose after cultures<br>0.9% sodium chloride IV at 75 mL/hr<br>Bedside swallow screen before any oral intake<br>Head of bed ≥ 30°<br>Oropharyngeal suction PRN<br>Incentive spirometer 10 times/hr while awake"
      }
     ]
-   }
+   },
+   "stem": "The nurse continues to care for the 82-year-old client. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which finding is most consistent with an expected age-related change rather than pneumonia?",
+   "options": [
+    "New confusion; oriented to person only (baseline ×3)",
+    "Crackles at both bases that clear with coughing",
+    "Heart rate 112/min and respiratory rate 28/min",
+    "Loss of appetite and new weakness over 2 days"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Confusion below the client’s baseline is a common atypical presentation of pneumonia in older adults.",
+    "Correct. Inspiratory crackles at the bases that clear with coughing are a common finding with aging.",
+    "Tachycardia and tachypnea are compensatory responses to infection and hypoxemia.",
+    "Loss of appetite and new weakness are common atypical signs of pneumonia in older adults."
+   ],
+   "rationale": "Aging brings expected respiratory changes — kyphosis, decreased breath sounds, and inspiratory crackles at the bases that clear with coughing are common. Pneumonia in an older adult may not cause fever; instead it often appears as new confusion, weakness, loss of appetite, tachycardia, and tachypnea. Separating the two keeps the nurse from dismissing a serious infection as \"just aging.\"",
+   "takeaway": "Don’t call it \"just aging\" when the change is new — new confusion, weakness, and tachycardia point to pneumonia.",
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Age-related changes are long-standing and stable; pneumonia causes new changes over days.",
+   "hintStrategy": "Eliminate every option described as new or as a change from baseline."
   },
   {
    "id": "m15c-047",
-   "type": "dropdown",
+   "type": "mcq",
+   "priority": false,
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults · NGN Case Study: Older Adult with Pneumonia",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
    "caseId": "m15c-case-older-adult-pneumonia",
    "caseOrder": 3,
-   "stem": "The nurse reviews all of the client's data. Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Complete the following sentence by choosing from the lists of options.",
-   "template": "The client is most likely experiencing {0}, probably caused by {1}. The client's risk was increased by {2}.",
-   "blanks": [
-    {
-     "options": [
-      "progression of dementia",
-      "pneumonia",
-      "normal aging",
-      "an asthma exacerbation"
-     ],
-     "answer": 1
-    },
-    {
-     "options": [
-      "a blood clot blocking pulmonary blood flow",
-      "air entering the pleural space",
-      "aspiration of oral or gastric contents",
-      "bronchospasm from an allergen"
-     ],
-     "answer": 2
-    },
-    {
-     "options": [
-      "hypertension",
-      "kyphosis",
-      "a normal temperature",
-      "GERD and a weaker cough reflex"
-     ],
-     "answer": 3
-    }
-   ],
-   "rationale": "New confusion, weakness, poor appetite, tachycardia, tachypnea, hypoxemia, localized right lower lobe crackles, an elevated WBC, and a right lower lobe infiltrate point to pneumonia, even without fever. The choking episode and the right lower lobe location suggest aspiration, since the right bronchus is shorter and material in an upright person drops to the lower lobe. Older adults have a weaker cough reflex (increased choking risk) and more GERD (increased aspiration risk), both of which raise the risk of pneumonia.",
-   "takeaway": "Weaker cough reflex + GERD = aspiration risk = pneumonia risk in older adults.",
-   "hintContent": "Recall the physiologic changes of aging that increase the risk of choking, aspiration, and pneumonia.",
-   "hintStrategy": "Name the condition first from the whole cluster of cues, then choose the cause and risk factor that fit that condition and this client's history.",
    "exhibit": {
     "tabs": [
      {
@@ -1350,7 +1209,27 @@
       "html": "Admit to medical unit<br>Oxygen by nasal cannula; titrate to keep SpO₂ ≥ 92%<br>Sputum culture and blood cultures ×2<br>Ceftriaxone 1 g IV every 24 hours — first dose after cultures<br>0.9% sodium chloride IV at 75 mL/hr<br>Bedside swallow screen before any oral intake<br>Head of bed ≥ 30°<br>Oropharyngeal suction PRN<br>Incentive spirometer 10 times/hr while awake"
      }
     ]
-   }
+   },
+   "stem": "The nurse reviews all of the client’s data. Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. Which conclusion about the client’s condition is most accurate?",
+   "options": [
+    "Worsening dementia complicated by dehydration and weakness",
+    "Aspiration pneumonia related to GERD and a weak cough",
+    "An asthma exacerbation triggered by an allergen exposure",
+    "Pulmonary embolism caused by reduced mobility at home"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "The confusion is new and occurs with hypoxemia, an elevated WBC, and a lung infiltrate — a pattern of infection, not dementia.",
+    "Correct. Localized RLL crackles, elevated WBC, an RLL infiltrate, and a choking episode point to aspiration pneumonia, with GERD and a weak cough raising the risk.",
+    "There is no wheezing or history of asthma, and the findings are localized to one lobe.",
+    "A pulmonary embolism would not explain localized crackles, an infiltrate, and an elevated WBC."
+   ],
+   "rationale": "New confusion, weakness, poor appetite, tachycardia, tachypnea, hypoxemia, localized right lower lobe crackles, an elevated WBC, and a right lower lobe infiltrate point to pneumonia, even without fever. The choking episode and the right lower lobe location suggest aspiration, since the right bronchus is shorter and material in an upright person drops to the lower lobe. Older adults have a weaker cough reflex (increased choking risk) and more GERD (increased aspiration risk), both of which raise the risk of pneumonia.",
+   "takeaway": "Choking + right lower lobe infiltrate in an older adult = think aspiration pneumonia.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
+   "hintContent": "Consider where the infiltrate is located and what happened before the client became ill.",
+   "hintStrategy": "Choose the conclusion that explains all of the data — the lab results, imaging, history, and the location of the findings."
   },
   {
    "id": "m15c-048",
@@ -1359,39 +1238,8 @@
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults · NGN Case Study: Older Adult with Pneumonia",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
    "caseId": "m15c-case-older-adult-pneumonia",
    "caseOrder": 4,
-   "stem": "The client is being admitted to the medical unit. Refer to the Nurses' Notes, Vital Signs, and Orders. Which interventions should the nurse include in the client's plan of care? Select all that apply.",
-   "options": [
-    "Obtain the sputum and blood cultures, then give the first antibiotic dose without delay",
-    "Titrate oxygen to keep the SpO₂ at 92% or higher",
-    "Keep the head of the bed at 30° or higher",
-    "Suction the oropharynx as needed when secretions pool",
-    "Offer thin liquids through a straw to correct dehydration before the swallow screen",
-    "Apply wrist restraints to manage the confusion",
-    "Hold the IV fluids until the client is drinking well"
-   ],
-   "answer": [
-    0,
-    1,
-    2,
-    3
-   ],
-   "rationale": "Care combines collaborative and independent interventions. Cultures are obtained before the first antibiotic dose so the organism can be identified, and the antibiotic follows promptly. Oxygen is titrated to the prescribed target. Because older adults have decreased gag and cough reflexes, the nurse elevates the head of the bed and suctions as needed to protect the airway. Nothing is given by mouth until the swallow screen is done, IV fluids correct the fluid deficit, and confusion from hypoxia is treated by correcting the cause, not by restraints.",
-   "optionRationales": [
-    "Correct. Cultures come first so antibiotics do not interfere with identifying the organism; the antibiotic is then given promptly.",
-    "Correct. Oxygen administration is indicated by the low SpO₂ and is titrated to the prescribed target.",
-    "Correct. Upright positioning improves lung expansion and reduces the risk of aspirating reflux.",
-    "Correct. The module lists frequent suctioning for older adults because of a decreased gag and cough reflex.",
-    "Oral fluids before a swallow screen risk further aspiration, and straws increase the risk in a client who recently choked.",
-    "Confusion here is likely caused by hypoxia and infection; restraints increase agitation and do not treat the cause.",
-    "IV fluids are prescribed because intake is poor and the BUN is elevated; holding them worsens the fluid deficit and thickens secretions."
-   ],
-   "takeaway": "Older adult with pneumonia: cultures then antibiotics, titrated O₂, HOB up, suction as needed, nothing by mouth until the swallow screen.",
-   "hintContent": "Consider the older adult's decreased gag and cough reflex and the collaborative orders that treat the infection and the hypoxemia.",
-   "hintStrategy": "Evaluate each option on its own: does it treat the infection, improve oxygenation, or protect the airway — or does it add a new risk?",
    "exhibit": {
     "tabs": [
      {
@@ -1430,37 +1278,47 @@
       "html": "Admit to medical unit<br>Oxygen by nasal cannula; titrate to keep SpO₂ ≥ 92%<br>Sputum culture and blood cultures ×2<br>Ceftriaxone 1 g IV every 24 hours — first dose after cultures<br>0.9% sodium chloride IV at 75 mL/hr<br>Bedside swallow screen before any oral intake<br>Head of bed ≥ 30°<br>Oropharyngeal suction PRN<br>Incentive spirometer 10 times/hr while awake"
      }
     ]
-   }
+   },
+   "stem": "The client is being admitted to the medical unit. Refer to the Nurses' Notes, Vital Signs, and Orders. Which interventions should the nurse include in the client's plan of care? Select all that apply.",
+   "options": [
+    "Obtain the sputum and blood cultures, then give the first antibiotic dose without delay",
+    "Titrate oxygen to keep the SpO₂ at 92% or higher",
+    "Keep the head of the bed at 30° or higher",
+    "Suction the oropharynx as needed when secretions pool",
+    "Offer thin liquids through a straw to correct dehydration before the swallow screen",
+    "Apply wrist restraints to manage the confusion"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Cultures come first so antibiotics do not interfere with identifying the organism; the antibiotic is then given promptly.",
+    "Correct. Oxygen administration is indicated by the low SpO₂ and is titrated to the prescribed target.",
+    "Correct. Upright positioning improves lung expansion and reduces the risk of aspirating reflux.",
+    "Correct. The module lists frequent suctioning for older adults because of a decreased gag and cough reflex.",
+    "Oral fluids before a swallow screen risk further aspiration, and straws increase the risk in a client who recently choked.",
+    "Confusion here is likely caused by hypoxia and infection; restraints increase agitation and do not treat the cause."
+   ],
+   "rationale": "Care combines collaborative and independent interventions. Cultures are obtained before the first antibiotic dose so the organism can be identified, and the antibiotic follows promptly. Oxygen is titrated to the prescribed target. Because older adults have decreased gag and cough reflexes, the nurse elevates the head of the bed and suctions as needed to protect the airway. Nothing is given by mouth until the swallow screen is done, IV fluids correct the fluid deficit, and confusion from hypoxia is treated by correcting the cause, not by restraints.",
+   "takeaway": "Older adult with pneumonia: cultures then antibiotics, titrated O₂, HOB up, suction as needed, nothing by mouth until the swallow screen.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Consider the older adult's decreased gag and cough reflex and the collaborative orders that treat the infection and the hypoxemia.",
+   "hintStrategy": "Evaluate each option on its own: does it treat the infection, improve oxygenation, or protect the airway — or does it add a new risk?"
   },
   {
    "id": "m15c-049",
    "type": "mcq",
+   "priority": true,
    "topic": "airway-clearance",
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults · NGN Case Study: Older Adult with Pneumonia",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
    "caseId": "m15c-case-older-adult-pneumonia",
    "caseOrder": 5,
-   "stem": "The nurse reassesses the client after admission. Refer to the 1100 entry in the Nurses' Notes. Which action should the nurse take first?",
-   "options": [
-    "Increase the oxygen to 4 L/min and recheck the SpO₂ in 15 minutes",
-    "Suction the mouth and pharynx with a Yankauer catheter, then reassess",
-    "Offer small sips of water to help the client clear the throat",
-    "Notify the provider to request a repeat chest x-ray"
-   ],
-   "answer": 1,
-   "rationale": "Airway comes first. Older adults have a decreased gag and cough reflex, so secretions pool and are easily aspirated; the module lists frequent suctioning for this reason. With secretions visible in the mouth and gurgling respirations, the nurse clears the airway with oropharyngeal (Yankauer) suctioning, keeps the head of the bed elevated or turns the client to the side, and then reassesses breath sounds and SpO₂.",
-   "optionRationales": [
-    "More oxygen does not remove the secretions blocking the airway, and waiting 15 minutes increases the risk of aspiration.",
-    "Correct. Oropharyngeal suctioning is the least invasive way to clear secretions that are visible in the mouth and pharynx. The nurse then reassesses.",
-    "Oral fluids for a client with a weak cough and pooled secretions greatly increase the risk of aspiration; the swallow screen has not been done.",
-    "A chest x-ray may be needed later, but the first action is to clear the airway."
-   ],
-   "takeaway": "Gurgling and pooled secretions in an older adult with a weak cough: suction first, then reassess.",
-   "hintContent": "Recall why older adults with a decreased gag and cough reflex need frequent suctioning.",
-   "hintStrategy": "Identify where the problem is (the upper airway) and choose the action that clears it before actions that add oxygen or gather data.",
    "exhibit": {
     "tabs": [
      {
@@ -1507,49 +1365,37 @@
       "html": "Admit to medical unit<br>Oxygen by nasal cannula; titrate to keep SpO₂ ≥ 92%<br>Sputum culture and blood cultures ×2<br>Ceftriaxone 1 g IV every 24 hours — first dose after cultures<br>0.9% sodium chloride IV at 75 mL/hr<br>Bedside swallow screen before any oral intake<br>Head of bed ≥ 30°<br>Oropharyngeal suction PRN<br>Incentive spirometer 10 times/hr while awake"
      }
     ]
-   }
+   },
+   "stem": "The nurse reassesses the client after admission. Refer to the 1100 entry in the Nurses' Notes. Which action should the nurse take first?",
+   "options": [
+    "Increase the oxygen to 4 L/min and recheck the SpO₂ again in 15 minutes",
+    "Suction the mouth and pharynx with a Yankauer catheter, then reassess",
+    "Offer small sips of water to help the client clear the throat",
+    "Notify the provider to request a repeat portable chest x-ray today"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "More oxygen does not remove the secretions blocking the airway, and waiting 15 minutes increases the risk of aspiration.",
+    "Correct. Oropharyngeal suctioning is the least invasive way to clear secretions that are visible in the mouth and pharynx. The nurse then reassesses.",
+    "Oral fluids for a client with a weak cough and pooled secretions greatly increase the risk of aspiration; the swallow screen has not been done.",
+    "A chest x-ray may be needed later, but the first action is to clear the airway."
+   ],
+   "rationale": "Airway comes first. Older adults have a decreased gag and cough reflex, so secretions pool and are easily aspirated; the module lists frequent suctioning for this reason. With secretions visible in the mouth and gurgling respirations, the nurse clears the airway with oropharyngeal (Yankauer) suctioning, keeps the head of the bed elevated or turns the client to the side, and then reassesses breath sounds and SpO₂.",
+   "takeaway": "Gurgling and pooled secretions in an older adult with a weak cough: suction first, then reassess.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall why older adults with a decreased gag and cough reflex need frequent suctioning.",
+   "hintStrategy": "Identify where the problem is (the upper airway) and choose the action that clears it before actions that add oxygen or gather data."
   },
   {
    "id": "m15c-050",
-   "type": "matrix",
+   "type": "sata",
    "topic": "lifespan-considerations",
    "ref": "Module 15 · Oxygenation · Lifespan: Older Adults · NGN Case Study: Older Adult with Pneumonia",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
    "caseId": "m15c-case-older-adult-pneumonia",
    "caseOrder": 6,
-   "stem": "The nurse evaluates the client on hospital day 3. Refer to the Nurses' Notes and Vital Signs. For each finding, indicate whether it shows that the plan of care has been effective or not effective.",
-   "rows": [
-    "Oriented ×3, at baseline per the daughter",
-    "SpO₂ 94% on room air",
-    "Heart rate 88/min and respiratory rate 20/min",
-    "Crackles over the right lower lobe that do not clear, with a temperature of 38.3 °C (100.9 °F)",
-    "Coughed and choked while drinking thin liquids at breakfast"
-   ],
-   "columns": [
-    "Effective",
-    "Not effective"
-   ],
-   "answer": [
-    0,
-    0,
-    0,
-    1,
-    1
-   ],
-   "rationale": "Evaluation compares current findings with the admission baseline and the expected outcomes. Return to baseline cognition, normal SpO₂ on room air, and normal heart and respiratory rates show improved oxygenation. A new fever with persistent localized crackles, and choking on thin liquids, show that the infection and the aspiration risk are not yet controlled; the nurse reports these findings, keeps aspiration precautions in place, and continues coughing teaching and incentive spirometry.",
-   "optionRationales": [
-    "Effective. Return to baseline cognition shows the hypoxia has resolved.",
-    "Effective. SpO₂ 94% without supplemental oxygen shows improved gas exchange.",
-    "Effective. Heart rate and respiratory rate are back within expected ranges for an older adult.",
-    "Not effective. A new fever with crackles that persist over the same lobe suggests the pneumonia is not resolving and must be reported.",
-    "Not effective. Choking on thin liquids shows continued aspiration risk from a weak cough reflex; report it and keep aspiration precautions."
-   ],
-   "takeaway": "Evaluate every goal — improved oxygenation does not cancel out a new fever or continued choking.",
-   "hintContent": "Compare each day 3 finding with the admission findings and the expected outcomes for oxygenation, infection, and aspiration risk.",
-   "hintStrategy": "Judge each row independently. Ask whether that specific goal has been met.",
    "exhibit": {
     "tabs": [
      {
@@ -1596,7 +1442,32 @@
       }
      }
     ]
-   }
+   },
+   "stem": "The nurse evaluates the client on hospital day 3. Refer to the Nurses’ Notes and Vital Signs. Which findings indicate that the plan of care has not been effective? Select all that apply.",
+   "options": [
+    "Oriented ×3, at baseline per the daughter",
+    "SpO₂ 94% on room air",
+    "Heart rate 88/min and respiratory rate 20/min",
+    "Crackles over the right lower lobe that do not clear, with a temperature of 38.3 °C (100.9 °F)",
+    "Coughed and choked while drinking thin liquids at breakfast"
+   ],
+   "answer": [
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Return to baseline cognition shows improved oxygenation and resolving infection.",
+    "An SpO₂ of 94% on room air shows improved gas exchange compared with admission.",
+    "Normal heart and respiratory rates show that compensation is no longer needed.",
+    "Correct. A new fever with persistent localized crackles shows the infection is not controlled.",
+    "Correct. Choking on thin liquids shows the aspiration risk is not controlled."
+   ],
+   "rationale": "Evaluation compares current findings with the admission baseline and the expected outcomes. Return to baseline cognition, normal SpO₂ on room air, and normal heart and respiratory rates show improved oxygenation. A new fever with persistent localized crackles, and choking on thin liquids, show that the infection and the aspiration risk are not yet controlled; the nurse reports these findings, keeps aspiration precautions in place, and continues coughing teaching and incentive spirometry.",
+   "takeaway": "Evaluate against baseline: improvement in some cues doesn’t cancel new fever or ongoing aspiration.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "hintContent": "Compare each finding with the client’s admission data and the expected outcomes of treatment.",
+   "hintStrategy": "Select findings that are worse than, or no better than, the admission baseline, or that show an ongoing risk."
   }
  ]
 }

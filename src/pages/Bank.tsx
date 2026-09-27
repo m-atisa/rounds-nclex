@@ -3,7 +3,7 @@ import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { MODULES, MODULE_BY_ID, QUESTIONS, QUESTION_BY_ID, topicTitle } from '../data';
 import type { Question, Response } from '../data/types';
-import { CJMM_STEPS, FOCUS_AREAS, QUESTION_TYPES, TYPE_LABEL, TYPE_SHORT } from '../data/types';
+import { CJMM_STEPS, FOCUS_AREAS, FORMATS, FORMAT_LABEL, FORMAT_SHORT, formatOf } from '../data/types';
 import { Icon } from '../components/Icon';
 import { CaseBadge, CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
@@ -53,7 +53,7 @@ export function Bank() {
     () =>
       QUESTIONS.filter((x) => {
         if (mod && x.moduleId !== mod) return false;
-        if (type && x.type !== type) return false;
+        if (type && formatOf(x) !== type) return false;
         if (kind === 'case' && !x.caseId) return false;
         if (skill && x.focus !== skill && x.cjmm !== skill) return false;
         if (status) {
@@ -89,9 +89,9 @@ export function Bank() {
         </select>
         <select className="select" value={type} onChange={(e) => setType(e.target.value)} aria-label="Question type">
           <option value="">All formats</option>
-          {QUESTION_TYPES.map((t) => (
+          {FORMATS.map((t) => (
             <option key={t} value={t}>
-              {TYPE_LABEL[t]}
+              {FORMAT_LABEL[t]}
             </option>
           ))}
         </select>
@@ -145,7 +145,7 @@ export function Bank() {
                   <span className="badge badge-ref">
                     <Icon name="book" /> {x.ref}
                   </span>
-                  <span className="badge">{TYPE_SHORT[x.type]}</span>
+                  <span className="badge">{FORMAT_SHORT[formatOf(x)]}</span>
                   <CaseBadge q={x} />
                   <span className="badge hide-sm">{x.cjmm}</span>
                   <Difficulty level={x.difficulty} />

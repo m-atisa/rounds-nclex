@@ -43,6 +43,25 @@ export const TYPE_SHORT: Record<QuestionType, string> = {
   bowtie: 'Bowtie',
 };
 
+/** The three formats students see: priority (single answer), single best answer, select all that apply. */
+export const FORMATS = ['priority', 'single', 'sata'] as const;
+export type Format = (typeof FORMATS)[number];
+export const FORMAT_LABEL: Record<Format, string> = {
+  priority: 'Priority',
+  single: 'Single best answer',
+  sata: 'Select all that apply',
+};
+export const FORMAT_SHORT: Record<Format, string> = { priority: 'Priority', single: 'Single answer', sata: 'SATA' };
+export const FORMAT_HELP: Record<Format, string> = {
+  priority: 'What should the nurse do or address first?',
+  single: 'One correct answer',
+  sata: 'Choose every correct option',
+};
+export function formatOf(q: { type: string; priority?: boolean }): Format {
+  if (q.type === 'sata') return 'sata';
+  return q.priority ? 'priority' : 'single';
+}
+
 export interface ExhibitTab {
   title: string;
   html?: string;
@@ -74,6 +93,8 @@ interface QuestionBase {
 
 export interface ChoiceQuestion extends QuestionBase {
   type: 'mcq';
+  /** Stem emphasizes priority ("first", "most important"). */
+  priority?: boolean;
   options: string[];
   answer: number;
   optionRationales?: string[];
@@ -129,10 +150,26 @@ export type Question =
   | HighlightQuestion
   | BowtieQuestion;
 
+export interface TableData {
+  caption?: string;
+  headers: string[];
+  rows: string[][];
+}
+
+export interface SelfCheck {
+  q: string;
+  a: string;
+}
+
 export interface TopicSection {
   heading?: string;
   body?: string;
   bullets?: string[];
+  steps?: string[];
+  table?: TableData;
+  analogy?: string;
+  example?: string;
+  check?: SelfCheck;
 }
 
 export interface Topic {
@@ -141,9 +178,15 @@ export interface Topic {
   exemplar?: string | null;
   summary?: string;
   sections?: TopicSection[];
-  table?: { caption?: string; headers: string[]; rows: string[][] };
+  table?: TableData;
   pearls?: string[];
   redFlags?: string[];
+  objectives?: string[];
+  bigPicture?: string;
+  keyTerms?: { term: string; def: string }[];
+  mnemonics?: { name: string; text: string }[];
+  recap?: string[];
+  checks?: SelfCheck[];
 }
 
 export interface Flashcard {
@@ -156,6 +199,8 @@ export interface ContentPack {
   moduleId: string;
   moduleNumber: number;
   moduleTitle: string;
+  /** "guide" packs replace study-guide topics (by id) defined in the question packs. */
+  kind?: 'guide';
   tagline?: string;
   overview?: string;
   topics?: Topic[];

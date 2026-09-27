@@ -2,7 +2,7 @@ import { AnimatePresence, motion } from 'motion/react';
 import { useMemo, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { MODULES, MODULE_BY_ID, topicKey } from '../data';
-import { CJMM_STEPS, FOCUS_AREAS, QUESTION_TYPES, TYPE_LABEL } from '../data/types';
+import { CJMM_STEPS, FOCUS_AREAS, FORMATS, FORMAT_HELP, FORMAT_LABEL } from '../data/types';
 import { Icon } from '../components/Icon';
 import { Chip, toggleIn } from '../components/ui';
 import { filtersFromParams, filtersToParams, matchQuestions, pickCases, smartPick, type Filters, type Pool } from '../lib/analytics';
@@ -168,11 +168,13 @@ export function PracticeBuilder() {
           <div className="grid grid-2">
             <section className="card">
               <h3>Question format</h3>
-              <div className="chips">
-                {QUESTION_TYPES.map((x) => (
-                  <Chip key={x} on={f.types.includes(x)} onClick={() => update({ types: toggleIn(f.types, x) })} count={countWith({ types: [x] })}>
-                    {TYPE_LABEL[x]}
-                  </Chip>
+              <div className="format-grid">
+                {FORMATS.map((x) => (
+                  <button key={x} type="button" className="mode" aria-pressed={f.types.includes(x)} onClick={() => update({ types: toggleIn(f.types, x) })}>
+                    <b>{FORMAT_LABEL[x]}</b>
+                    <span>{FORMAT_HELP[x]}</span>
+                    <span className="chip-count">{countWith({ types: [x] })}</span>
+                  </button>
                 ))}
               </div>
             </section>

@@ -821,7 +821,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall how the Braden total range (6–23) relates to risk — does a lower number mean better or worse?",
-   "hintStrategy": "Unlike many scales, this one runs in an unexpected direction. Match the number to the cues in the stem: how many risk factors does this client show?"
+   "hintStrategy": "Unlike many scales, this one runs in an unexpected direction. Match the number to the cues in the stem: how many risk factors does this client show?",
+   "priority": false
   },
   {
    "id": "m21b-002",
@@ -865,7 +866,7 @@
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Risk Factors (Friction & Shear)",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A client with heart failure prefers to sit with the head of the bed at 60° and repeatedly slides toward the foot of the bed. The nurse is most concerned that this position increases the risk for which type of tissue damage?",
+   "stem": "A client with heart failure prefers to sit with the head of the bed at 60° and repeatedly slides toward the foot of the bed. Which type of tissue damage is the nurse's priority concern for this client in this position?",
    "options": [
     "Moisture-related breakdown of the perineal skin",
     "Friction abrasion of the heels from the sheets",
@@ -884,49 +885,43 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Recall the difference between a force that rubs the surface of the skin and a force that makes deeper tissue slide while the skin stays put.",
-   "hintStrategy": "Picture what happens anatomically when the client slides down with the HOB high. Which option describes the most damaging force created by that exact movement?"
+   "hintStrategy": "Picture what happens anatomically when the client slides down with the HOB high. Which option describes the most damaging force created by that exact movement?",
+   "priority": true
   },
   {
    "id": "m21b-004",
-   "type": "matrix",
+   "type": "sata",
    "topic": "pressure-injuries-nursing-process",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Assessment",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse inspects and palpates the pressure points of several clients on bed rest. For each finding, indicate what the finding most likely suggests.",
-   "rows": [
-    "A red area over the sacrum that turns white when pressed and quickly returns to red when released",
+   "stem": "The nurse inspects and palpates the pressure points of several clients on bed rest. Which findings require follow-up because they suggest inflammation, poor blood flow, or tissue damage? Select all that apply.",
+   "options": [
     "A red area over the heel that stays red when pressed with a finger",
+    "A red area over the sacrum that turns white when pressed and quickly returns to red when released",
     "An area over the coccyx that feels warmer than the surrounding skin",
-    "An area over the heel that feels cooler than the surrounding skin",
-    "Spongy, boggy tissue over the greater trochanter"
-   ],
-   "columns": [
-    "Normal blanch response",
-    "Inflammation",
-    "Poor blood flow",
-    "Tissue damage (pressure injury)"
+    "Spongy, boggy tissue over the greater trochanter",
+    "An area over the heel that feels cooler than the surrounding skin"
    ],
    "answer": [
     0,
-    3,
-    1,
     2,
-    3
+    3,
+    4
    ],
    "optionRationales": [
-    "Normal blanch response. Redness that blanches and refills shows the capillaries are intact; relieve pressure and recheck.",
-    "Tissue damage. Nonblanchable redness of intact skin is a Stage 1 pressure injury.",
-    "Inflammation. Increased temperature over a pressure point reflects inflammation beneath the skin.",
-    "Poor blood flow. A cool area suggests reduced perfusion to the tissue.",
-    "Tissue damage. Spongy or boggy tissue (edema) over a bony prominence signals damage beneath intact skin."
+    "Correct. Nonblanchable redness of intact skin indicates tissue damage — a Stage 1 pressure injury.",
+    "Incorrect. Redness that blanches and refills is a normal blanch response showing intact capillaries; relieve pressure and recheck.",
+    "Correct. Increased temperature over a pressure point reflects inflammation beneath the skin.",
+    "Correct. Spongy or boggy tissue (edema) over a bony prominence signals damage beneath intact skin.",
+    "Correct. A cool area over a pressure point suggests reduced perfusion to the tissue."
    ],
    "rationale": "The slides direct the nurse to inspect pressure areas under good lighting for discoloration and blanch response, and to palpate for temperature and edema. Blanching redness is a normal response to pressure. Nonblanchable redness and spongy or boggy edema indicate tissue damage; warmth suggests inflammation; coolness suggests poor blood flow.",
    "takeaway": "Look (blanch?) and feel: warm = inflammation, cool = poor flow, boggy = damage.",
-   "cjmm": "Analyze Cues",
+   "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall what the blanch test shows, and what increased versus decreased skin temperature over a pressure point means.",
-   "hintStrategy": "Work row by row. First decide whether the finding is normal; if not, match it to its cause: inflammation, poor flow, or tissue damage."
+   "hintContent": "Recall what a normal blanch response looks like, and what warmth, coolness, and bogginess over a bony prominence each suggest.",
+   "hintStrategy": "Judge each finding on its own: is it a normal response to pressure, or a cue of inflammation, poor perfusion, or damage under the skin?"
   },
   {
    "id": "m21b-005",
@@ -954,7 +949,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Each Braden subscale is scored separately; a score of 1 on any subscale represents the worst possible rating for that category.",
-   "hintStrategy": "Do not stop at the total. Scan the subscales for the lowest number and choose the option that addresses that specific problem."
+   "hintStrategy": "Do not stop at the total. Scan the subscales for the lowest number and choose the option that addresses that specific problem.",
+   "priority": true
   },
   {
    "id": "m21b-006",
@@ -968,7 +964,7 @@
     "Every 4 hours",
     "Every 15 minutes",
     "Every 1 hour",
-    "Every 2 hours"
+    "Every 2 hours while seated"
    ],
    "answer": 1,
    "optionRationales": [
@@ -982,7 +978,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Recall the three different time intervals used for pressure relief: bedbound, seated repositioning, and self-initiated weight shifts.",
-   "hintStrategy": "Notice the stem asks about a client who can shift weight independently while seated — not about staff turning a client in bed."
+   "hintStrategy": "Notice the stem asks about a client who can shift weight independently while seated — not about staff turning a client in bed.",
+   "priority": false
   },
   {
    "id": "m21b-007",
@@ -1030,7 +1027,7 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "A client at high risk for pressure injury has been placed on a low-air-loss mattress. Which statement by a newly hired nurse indicates a need for further teaching?",
    "options": [
-    "“I still need to inspect the client's heels and sacrum every shift.”",
+    "“I still need to inspect the client's heels and sacrum for redness at least every shift.”",
     "“This bed also helps keep the skin cooler and drier.”",
     "“I should keep just one breathable pad under the client instead of stacking several.”",
     "“Now that the client is on this bed, I can turn them every 4 hours instead of every 2.”"
@@ -1047,52 +1044,44 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Nursing Interventions",
    "hintContent": "Recall whether a pressure-redistribution surface is considered a replacement for, or an addition to, a repositioning schedule.",
-   "hintStrategy": "This item is negatively worded: you are looking for the INCORRECT statement by the new nurse."
+   "hintStrategy": "This item is negatively worded: you are looking for the INCORRECT statement by the new nurse.",
+   "priority": false
   },
   {
    "id": "m21b-009",
-   "type": "dropdown",
+   "type": "sata",
    "topic": "pressure-injuries-prevention",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Nutrition",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A 68-year-old client with a Stage 3 sacral pressure injury has lost 5 kg over 6 weeks and eats about half of each meal. Serum albumin is 2.9 g/dL. Complete the nurse's plan of care.",
-   "template": "To support collagen synthesis, the nurse encourages foods rich in {0}. To monitor nutritional status, the nurse trends the client's weight, lymphocyte count, hemoglobin, and {1}. Because the client eats only half of each meal, the most appropriate referral is to the {2}.",
-   "blanks": [
-    {
-     "options": [
-      "vitamin C",
-      "vitamin D",
-      "vitamin K",
-      "sodium"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "serum albumin",
-      "serum potassium",
-      "hemoglobin A1c",
-      "serum sodium"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "registered dietitian",
-      "physical therapist",
-      "social worker",
-      "respiratory therapist"
-     ],
-     "answer": 0
-    }
+   "stem": "A 68-year-old client with a Stage 3 sacral pressure injury has lost 5 kg over 6 weeks and eats about half of each meal. Serum albumin is 2.9 g/dL. Which actions should the nurse include in the plan of care? Select all that apply.",
+   "options": [
+    "Encourage foods rich in vitamin C to support collagen synthesis",
+    "Limit protein intake to reduce the workload on the kidneys",
+    "Trend the client's weight, lymphocyte count, hemoglobin, and serum albumin",
+    "Encourage foods rich in vitamin K to promote wound closure",
+    "Request a referral to a registered dietitian",
+    "Offer a low-calorie diet to prevent weight gain while on bed rest"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Vitamin C supports collagen formation; vitamins A and C, zinc, iron, protein, and calories are key nutrients for healing.",
+    "Incorrect. Protein is essential for tissue repair; there is no kidney disease described, and restriction would delay healing.",
+    "Correct. The slides list weight, lymphocyte count, albumin, and hemoglobin as values to monitor nutritional status.",
+    "Incorrect. Vitamin K is not among the key nutrients listed for pressure injury prevention and healing.",
+    "Correct. Weight loss and poor intake indicate nutritional compromise, so supplements and a dietitian consult are indicated.",
+    "Incorrect. The client has lost weight and needs adequate calories and protein, not restriction."
    ],
    "rationale": "Key nutrients for preventing and healing pressure injuries are protein, calories, vitamins A and C, zinc, and iron; vitamin C supports collagen formation. The slides list weight, lymphocyte count, albumin, and hemoglobin as the values to monitor. A client with weight loss and poor intake is nutritionally compromised, so supplements and a dietitian consult are indicated.",
    "takeaway": "Protein, calories, vitamins A and C, zinc, iron; monitor weight, lymphocytes, albumin, and hemoglobin.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall which vitamin supports collagen formation and the four values the slides list for monitoring nutrition.",
-   "hintStrategy": "Treat each blank separately. For the laboratory blank, choose the protein-related value that belongs with weight, lymphocyte count, and hemoglobin."
+   "hintContent": "Recall the nutrients the slides list for skin integrity and the four values used to monitor nutritional status.",
+   "hintStrategy": "This client is losing weight and eating poorly. Keep options that add or monitor nutrition, and eliminate options that restrict what the wound needs."
   },
   {
    "id": "m21b-010",
@@ -1120,7 +1109,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall what urine, stool enzymes, heat, and friction do to the protective oils and outer layer of the skin.",
-   "hintStrategy": "Eliminate options that add heat, friction, or trapped moisture. The best answer protects the skin from future exposure as well as cleaning it."
+   "hintStrategy": "Eliminate options that add heat, friction, or trapped moisture. The best answer protects the skin from future exposure as well as cleaning it.",
+   "priority": false
   },
   {
    "id": "m21b-011",
@@ -1129,7 +1119,7 @@
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Repositioning & Avoiding Trauma",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client receiving continuous enteral tube feedings is at high risk for pressure injury. The nurse is planning positioning. Which approach best balances the client's risks?",
+   "stem": "A client receiving continuous enteral tube feedings is at high risk for pressure injury. The nurse is planning positioning. Which positioning plan should the nurse prioritize to address both the aspiration risk and the pressure-injury risk?",
    "options": [
     "Pause the tube feeding for the entire shift so the head of the bed can remain flat and shear is avoided",
     "Keep the HOB at 60° to prevent aspiration and reposition every 4 hours to limit feeding interruptions",
@@ -1148,47 +1138,37 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Recall the minimum HOB elevation for clients receiving enteral feeding and the maximum recommended HOB elevation for pressure injury prevention.",
-   "hintStrategy": "Two risks compete here: aspiration and shear. Look for the option that safely addresses both instead of sacrificing one."
+   "hintStrategy": "Two risks compete here: aspiration and shear. Look for the option that safely addresses both instead of sacrificing one.",
+   "priority": true
   },
   {
    "id": "m21b-012",
-   "type": "matrix",
+   "type": "mcq",
    "topic": "pressure-injuries-prevention",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Repositioning & Supportive Devices",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A nurse is reviewing care provided to a bedbound client at high risk for pressure injury. For each action, indicate whether it is appropriate or inappropriate.",
-   "rows": [
-    "Placed a doughnut-shaped cushion under the sacrum",
-    "Kept the head of the bed at 30° except during meals",
-    "Placed heel protectors on both feet",
-    "Rubbed lotion vigorously over a reddened area on the heel",
-    "Used a draw sheet with a second staff member to move the client up in bed"
+   "stem": "A nurse is reviewing care provided to a bedbound client at high risk for pressure injury. Which action by the UAP requires the nurse's immediate intervention?",
+   "options": [
+    "Keeping the head of the bed at 30° except during meals",
+    "Placing heel protectors on both of the client's feet",
+    "Using a draw sheet with a second staff member to move the client up in bed",
+    "Rubbing lotion vigorously over a reddened area on the client's heel"
    ],
-   "columns": [
-    "Appropriate",
-    "Inappropriate"
-   ],
-   "answer": [
-    1,
-    0,
-    0,
-    1,
-    0
-   ],
+   "answer": 3,
    "optionRationales": [
-    "Inappropriate — doughnut devices reduce blood flow to the surrounding tissue and cause injury.",
-    "Appropriate — keeping the HOB at 30° or lower when possible reduces shear.",
-    "Appropriate — heel protectors offload the heels.",
-    "Inappropriate — massage over bony prominences or reddened areas causes further tissue damage.",
-    "Appropriate — lifting with a draw sheet instead of dragging prevents friction and shear."
+    "Incorrect. Keeping the HOB at 30° or lower when possible reduces shear; this is appropriate.",
+    "Incorrect. Heel protectors offload the heels; this is appropriate.",
+    "Incorrect. Lifting with a draw sheet instead of dragging prevents friction and shear; this is appropriate.",
+    "Correct. Massage over bony prominences or reddened areas causes further tissue damage and must be stopped."
    ],
-   "rationale": "Prevention includes keeping the HOB at 30° or less when possible, offloading pressure points with pillows, wedges, and heel protectors, and lifting with draw sheets rather than dragging. Doughnut devices and massage over bony prominences increase tissue damage.",
-   "takeaway": "Low HOB, heel protectors, draw sheets — no doughnuts and no rubbing red areas.",
-   "cjmm": "Evaluate Outcomes",
+   "rationale": "Prevention includes keeping the HOB at 30° or less when possible, offloading pressure points with pillows, wedges, and heel protectors, and lifting with draw sheets rather than dragging. Massage over bony prominences or reddened areas increases tissue damage, so the nurse intervenes immediately.",
+   "takeaway": "Low HOB, heel protectors, draw sheets — never rub red areas.",
+   "cjmm": "Take Action",
    "focus": "Delegation & Safety",
-   "hintContent": "Recall the HOB limit for reducing shear, how heels are offloaded, and the two practices the slides say to avoid.",
-   "hintStrategy": "Judge each action on its own. Ask: does it reduce pressure/shear, or does it add pressure or trauma to tissue?"
+   "hintContent": "Recall which prevention measures reduce pressure, friction, and shear, and which common practice damages tissue over a bony prominence.",
+   "hintStrategy": "Three options are standard prevention measures. Look for the one action that actively harms the client's skin.",
+   "priority": true
   },
   {
    "id": "m21b-013",
@@ -1216,7 +1196,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall which skin layers are involved in partial-thickness versus full-thickness skin loss.",
-   "hintStrategy": "Decide first whether the skin is intact, partially lost, or lost through its full thickness, then match that to a stage."
+   "hintStrategy": "Decide first whether the skin is intact, partially lost, or lost through its full thickness, then match that to a stage.",
+   "priority": false
   },
   {
    "id": "m21b-014",
@@ -1244,7 +1225,8 @@
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "hintContent": "Recall the deepest tissue layer that defines each full-thickness stage — fat versus supporting structures such as muscle, tendon, or bone.",
-   "hintStrategy": "Stage by the deepest tissue you can see OR feel. Identify the deepest structure in the description before looking at the options."
+   "hintStrategy": "Stage by the deepest tissue you can see OR feel. Identify the deepest structure in the description before looking at the options.",
+   "priority": false
   },
   {
    "id": "m21b-015",
@@ -1272,7 +1254,8 @@
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "hintContent": "Recall why blanching and redness are hard to evaluate in darkly pigmented skin and what other senses the nurse can use.",
-   "hintStrategy": "The question asks for the finding that best SUPPORTS the conclusion. Eliminate options that point to a different stage or to a non-pressure cause."
+   "hintStrategy": "The question asks for the finding that best SUPPORTS the conclusion. Eliminate options that point to a different stage or to a non-pressure cause.",
+   "priority": false
   },
   {
    "id": "m21b-018",
@@ -1300,46 +1283,44 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "hintContent": "Recall the five forms of debridement on the slides and who performs sharp debridement.",
-   "hintStrategy": "Ask of each option: is this a dressing or medication the nurse applies, or is it a surgical procedure?"
+   "hintStrategy": "Ask of each option: is this a dressing or medication the nurse applies, or is it a surgical procedure?",
+   "priority": false
   },
   {
    "id": "m21b-019",
-   "type": "matrix",
+   "type": "sata",
    "topic": "pressure-injuries-staging",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is assessing four residents in a long-term care facility. For each finding, indicate the correct stage of pressure injury.",
-   "rows": [
-    "Full-thickness wound over the left hip with visible yellow fat; no muscle or bone visible or palpable",
+   "stem": "The nurse is assessing residents in a long-term care facility. Which findings indicate a full-thickness pressure injury (Stage 3 or Stage 4)? Select all that apply.",
+   "options": [
     "Intact skin over the sacrum with a red area that does not blanch when pressed",
+    "Full-thickness wound over the left hip with visible yellow fat; no muscle or bone visible or palpable",
     "Shallow, open, moist pink wound bed on the elbow without slough or visible fat",
-    "Deep wound over the ischium with exposed muscle at the base"
-   ],
-   "columns": [
-    "Stage 1",
-    "Stage 2",
-    "Stage 3",
-    "Stage 4"
+    "Deep wound over the ischium with exposed muscle at the base",
+    "Intact blister filled with clear fluid over the heel",
+    "Deep sacral wound with bone palpable at the base"
    ],
    "answer": [
-    2,
-    0,
     1,
-    3
+    3,
+    5
    ],
    "optionRationales": [
-    "Stage 3 — full-thickness loss with damage to subcutaneous tissue (fat) but no muscle or bone.",
-    "Stage 1 — intact skin with nonblanchable redness.",
-    "Stage 2 — partial-thickness loss of the epidermis and possibly the dermis, with a shallow pink bed.",
-    "Stage 4 — full-thickness loss with damage to muscle, bone, or supporting structures."
+    "Incorrect. Intact skin with nonblanchable redness is Stage 1 — the skin is not open.",
+    "Correct. Full-thickness loss into subcutaneous tissue (fat) without muscle or bone is Stage 3.",
+    "Incorrect. A shallow, open, pink wound is partial-thickness loss — Stage 2.",
+    "Correct. Full-thickness loss with exposed muscle is Stage 4.",
+    "Incorrect. A clear-fluid blister is partial-thickness loss — Stage 2.",
+    "Correct. Full-thickness loss with bone involvement is Stage 4."
    ],
-   "rationale": "Staging depends on the deepest tissue involved: Stage 1 is intact skin with nonblanchable redness; Stage 2 is partial-thickness loss; Stage 3 is full-thickness loss into subcutaneous tissue; Stage 4 is full-thickness loss involving muscle, bone, or supporting structures.",
-   "takeaway": "Intact red = 1; shallow = 2; fat = 3; muscle or bone = 4.",
+   "rationale": "Staging depends on the deepest tissue involved: Stage 1 is intact skin with nonblanchable redness; Stage 2 is partial-thickness loss (shallow pink wound or blister); Stage 3 is full-thickness loss into subcutaneous tissue; Stage 4 is full-thickness loss involving muscle, bone, or supporting structures.",
+   "takeaway": "Intact red = 1; shallow or blister = 2; fat = 3; muscle or bone = 4.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the tissue layer that defines each of the four stages.",
-   "hintStrategy": "Work row by row. Find the one descriptor that pins the depth (intact skin, shallow pink bed, fat, muscle)."
+   "hintContent": "Recall the deepest tissue layer involved at each stage, and which stages are partial versus full thickness.",
+   "hintStrategy": "For each finding, name the deepest tissue you can see or feel. Select only those that extend below the dermis."
   },
   {
    "id": "m21b-020",
@@ -1379,25 +1360,32 @@
   },
   {
    "id": "m21b-022",
-   "type": "order",
+   "type": "mcq",
    "topic": "pressure-injuries-nursing-process",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Assessment (Wound Measurement)",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is assessing and measuring a Stage 3 pressure injury during a dressing change. Place the steps in the order the nurse should perform them.",
+   "stem": "The nurse is assessing and measuring a Stage 3 pressure injury during a dressing change. After removing the old dressing and changing gloves, which action should the nurse take first?",
    "options": [
-    "Perform hand hygiene, apply clean gloves, and remove and discard the old dressing",
-    "Change gloves and cleanse the wound with normal saline",
-    "Measure length (head to toe) and width (side to side) in centimeters",
+    "Measure the wound's length (head to toe) and width (side to side) in centimeters",
+    "Cleanse the wound with normal saline",
     "Insert a sterile moistened cotton-tipped applicator into the deepest area to measure depth",
     "Check beneath the wound edges for undermining and record its depth and location"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Length and width are measured after cleansing so drainage and debris do not distort the measurement.",
+    "Correct. Cleansing comes before assessment so the wound bed and edges can be seen and measured accurately.",
+    "Incorrect. Depth is measured after the wound is cleansed and after length and width are recorded.",
+    "Incorrect. Undermining is checked last, after the wound is cleansed and measured."
    ],
    "rationale": "The old dressing is removed with clean gloves, and gloves are changed before cleansing to avoid contaminating the wound. Cleansing comes before assessment so measurements and appearance are accurate. Length and width are measured first, then depth, and then the edges are checked for undermining.",
    "takeaway": "Remove → cleanse → L × W → depth → undermining.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall why a wound must be cleansed before it is assessed and which measurements define overall wound size.",
-   "hintStrategy": "Think infection control first (clean vs dirty), then go from the simplest surface measurement to the most detailed probing."
+   "hintContent": "Recall the sequence of a wound assessment during a dressing change and why the wound bed must be clear before it is measured.",
+   "hintStrategy": "All four actions are part of the procedure. Ask which one must happen before any of the others can be done accurately.",
+   "priority": true
   },
   {
    "id": "m21b-023",
@@ -1425,7 +1413,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "hintContent": "Recall which parts of the nursing process (assess, plan, evaluate) cannot be delegated to unlicensed staff.",
-   "hintStrategy": "For delegation to UAP, look for a routine, predictable task that does not require clinical judgment."
+   "hintStrategy": "For delegation to UAP, look for a routine, predictable task that does not require clinical judgment.",
+   "priority": false
   },
   {
    "id": "m21b-024",
@@ -1490,52 +1479,44 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Delegation & Safety",
    "hintContent": "Recall the difference between reactive hyperemia and a Stage 1 pressure injury, and how the nurse tells them apart.",
-   "hintStrategy": "The stem asks what to do FIRST. Apply the nursing process — which step must come before intervening or documenting?"
+   "hintStrategy": "The stem asks what to do FIRST. Apply the nursing process — which step must come before intervening or documenting?",
+   "priority": true
   },
   {
    "id": "m21b-026",
-   "type": "dropdown",
+   "type": "sata",
    "topic": "pressure-injuries-nursing-process",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Assessment (Wound Measurement)",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client has a Stage 4 ischial pressure injury. During the weekly assessment, the nurse finds that tissue has been destroyed 2 cm beneath the intact skin along the lower wound edge. Complete the nurse's documentation.",
-   "template": "The tissue loss beneath the intact wound edge is documented as {0}. Wound size is recorded as {1} in centimeters. To measure depth, the nurse inserts a {2} into the deepest part of the wound.",
-   "blanks": [
-    {
-     "options": [
-      "undermining",
-      "maceration",
-      "slough",
-      "granulation"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "length × width × depth",
-      "width only",
-      "circumference",
-      "length × width"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "sterile, moistened cotton-tipped applicator",
-      "gloved finger",
-      "paper tape measure",
-      "clean tongue blade"
-     ],
-     "answer": 0
-    }
+   "stem": "A client has a Stage 4 ischial pressure injury. During the weekly assessment, the nurse finds that tissue has been destroyed 2 cm beneath the intact skin along the lower wound edge. Which documentation and measurement practices are correct? Select all that apply.",
+   "options": [
+    "Document the tissue loss beneath the intact edge as maceration",
+    "Record wound size as length × width × depth in centimeters",
+    "Document the tissue loss beneath the intact edge as undermining",
+    "Measure depth by inserting a gloved finger into the deepest part of the wound",
+    "Measure depth with a sterile, moistened cotton-tipped applicator placed in the deepest area",
+    "Record wound size as the circumference of the wound in centimeters"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Maceration is white, wrinkled skin softened by excess moisture, not tissue destruction beneath the edge.",
+    "Correct. Wound size is recorded as length × width × depth in centimeters.",
+    "Correct. Undermining is tissue destruction beneath intact wound edges.",
+    "Incorrect. A finger is not a sterile or accurate measuring device for wound depth.",
+    "Correct. The applicator is inserted into the deepest area, marked at skin level, and measured against a ruler.",
+    "Incorrect. Circumference is not the standard wound measurement; L × W × D is recorded."
    ],
    "rationale": "Undermining is tissue destruction beneath intact wound edges. Wound size is recorded as length × width × depth in centimeters. Depth is measured by gently inserting a sterile, moistened applicator into the deepest area, marking it at skin level, and measuring it against a ruler.",
    "takeaway": "Undermining = loss under the edge; size = L × W × D in cm.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the size measurements and wound features listed on the assessment slide.",
-   "hintStrategy": "Treat each blank separately; for the last blank, think sterile technique and accuracy."
+   "hintContent": "Recall the term for tissue destruction beneath intact wound edges and the standard way wound size and depth are measured.",
+   "hintStrategy": "Evaluate each statement as true or false. Eliminate terms that describe a different wound finding and methods that are not sterile or standard."
   },
   {
    "id": "m21b-027",
@@ -1563,7 +1544,8 @@
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "hintContent": "Recall how ring-shaped cushions affect circulation to the tissue in the center and around the ring.",
-   "hintStrategy": "Negatively worded item: find the statement that shows the caregiver MISUNDERSTOOD the teaching."
+   "hintStrategy": "Negatively worded item: find the statement that shows the caregiver MISUNDERSTOOD the teaching.",
+   "priority": false
   },
   {
    "id": "m21b-028",
@@ -1591,7 +1573,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Recall the action word paired with each color in the RYB system and what red tissue represents.",
-   "hintStrategy": "Translate the wound description into a color first, then match the color to its goal."
+   "hintStrategy": "Translate the wound description into a color first, then match the color to its goal.",
+   "priority": false
   },
   {
    "id": "m21b-029",
@@ -1619,45 +1602,42 @@
    "cjmm": "Analyze Cues",
    "focus": "Nursing Interventions",
    "hintContent": "Recall how wet-to-dry gauze removes tissue and whether it can tell healthy tissue from necrotic tissue.",
-   "hintStrategy": "Match the dressing's mechanism to the wound bed described. Which option explains the harm to THIS wound?"
+   "hintStrategy": "Match the dressing's mechanism to the wound bed described. Which option explains the harm to THIS wound?",
+   "priority": false
   },
   {
    "id": "m21b-030",
-   "type": "matrix",
+   "type": "sata",
    "topic": "pressure-injuries-wound-care-debridement",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Color Guide for Wound Care",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is planning care for four clients' pressure injuries using the red-yellow-black (RYB) color guide. For each wound, indicate the treatment goal.",
-   "rows": [
-    "Wound bed covered with thick, dry, black, leathery tissue",
-    "Beefy red, moist wound bed that bleeds slightly when touched",
-    "Wound bed covered with soft, stringy, yellow nonviable tissue",
-    "Clean wound with pink granulation and a new pink rim of tissue at the edges"
-   ],
-   "columns": [
-    "Protect",
-    "Cleanse",
-    "Debride"
+   "stem": "The nurse is planning care for several clients' pressure injuries using the red-yellow-black (RYB) color guide. Which wound–treatment goal pairings are correct? Select all that apply.",
+   "options": [
+    "Beefy red, moist wound bed that bleeds slightly when touched: protect",
+    "Wound bed covered with thick, dry, black, leathery tissue: protect",
+    "Wound bed covered with soft, stringy, yellow nonviable tissue: cleanse",
+    "Clean wound with pink granulation and a new pink rim at the edges: debride",
+    "Wound bed covered with thick, dry, black, leathery tissue: debride"
    ],
    "answer": [
-    2,
     0,
-    1,
-    0
+    2,
+    4
    ],
    "optionRationales": [
-    "Debride — black necrotic tissue (eschar) must be removed for healing to occur.",
-    "Protect — red granulation tissue is healthy but fragile and bleeds easily.",
-    "Cleanse — yellow nonviable tissue (slough) is cleansed away.",
-    "Protect — a clean, granulating, epithelializing wound is protected and kept moist."
+    "Correct. Red granulation tissue is healthy but fragile and bleeds easily, so it is protected.",
+    "Incorrect. Black necrotic tissue (eschar) must be removed for healing to occur; the goal is to debride.",
+    "Correct. Yellow nonviable tissue (slough) is cleansed away.",
+    "Incorrect. A clean, granulating, epithelializing wound is protected and kept moist, not debrided.",
+    "Correct. Black eschar is debrided."
    ],
    "rationale": "The RYB guide matches treatment to the color of the wound bed: red = protect, yellow = cleanse to remove nonviable tissue, black = debride. Nurses can debride within limits; sharp debridement is done by a surgeon.",
    "takeaway": "Red protect, yellow cleanse, black debride.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the action paired with each color in the RYB guide.",
-   "hintStrategy": "Translate each description into a color first, then match the color to its goal."
+   "hintContent": "Recall the treatment goal the RYB system assigns to each wound color.",
+   "hintStrategy": "Identify the color described in each option, then check whether the paired goal matches the RYB rule for that color."
   },
   {
    "id": "m21b-031",
@@ -1695,25 +1675,32 @@
   },
   {
    "id": "m21b-032",
-   "type": "order",
+   "type": "mcq",
    "topic": "pressure-injuries-pathophysiology-risk",
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pressure Injuries – Overview",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "stem": "A nursing student asks how a pressure injury develops over the sacrum of a client who cannot turn. Place the events in the order in which they occur.",
+   "stem": "A nursing student asks how a pressure injury develops over the sacrum of a client who cannot turn. Prolonged pressure has compressed the tissue between the sacrum and the mattress, and blood flow through the compressed capillaries has decreased. What does the nurse explain happens next?",
    "options": [
-    "Prolonged pressure compresses tissue between the sacrum and the mattress",
-    "Blood flow through the compressed capillaries decreases",
-    "The tissue becomes ischemic from lack of oxygen and nutrients",
-    "Cells in the ischemic tissue die (necrosis)",
-    "The dead tissue breaks down, forming an open ulcer"
+    "The dead tissue breaks down, forming an open ulcer",
+    "Cells in the tissue die (necrosis)",
+    "The skin develops a normal blanch response that fades once the pressure is relieved",
+    "The tissue becomes ischemic from lack of oxygen and nutrients"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Ulceration is the final event, after ischemia and necrosis.",
+    "Incorrect. Necrosis follows a period of ischemia; it is not the next step after blood flow decreases.",
+    "Incorrect. Blanching redness is a normal response to brief pressure, not the next step in injury development.",
+    "Correct. Decreased blood flow deprives the tissue of oxygen and nutrients, causing ischemia."
    ],
    "rationale": "Prolonged pressure over a bony prominence decreases blood flow, causing ischemia, then tissue necrosis, and finally an ulcer. Friction and shear can add to the damage. Relieving pressure early — before necrosis — prevents the injury.",
    "takeaway": "Pressure → ↓ blood flow → ischemia → necrosis → ulcer.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall the slide pathway that links prolonged pressure to an open ulcer.",
-   "hintStrategy": "Start with the cause and follow the consequences: what happens to blood flow, then to oxygen supply, then to the cells?"
+   "hintContent": "Recall the chain of events from unrelieved pressure to an open ulcer.",
+   "hintStrategy": "Put the four events in sequence in your head, then pick the one that immediately follows reduced blood flow.",
+   "priority": false
   },
   {
    "id": "m21b-034",
@@ -1741,7 +1728,8 @@
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Recall the rule for treating a wound that contains more than one color in the RYB system, and where leaving eschar is appropriate.",
-   "hintStrategy": "Rank the three colors from least healthy to healthiest and address the worst first."
+   "hintStrategy": "Rank the three colors from least healthy to healthiest and address the worst first.",
+   "priority": true
   },
   {
    "id": "m21b-035",
@@ -1769,69 +1757,70 @@
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "hintContent": "Recall which type of healing involves a planned delay before closing a contaminated wound.",
-   "hintStrategy": "Track the sequence in the stem — was the wound closed immediately, never closed, or closed after a delay?"
+   "hintStrategy": "Track the sequence in the stem — was the wound closed immediately, never closed, or closed after a delay?",
+   "priority": false
   },
   {
    "id": "m21b-036",
-   "type": "matrix",
+   "type": "mcq",
    "topic": "wound-healing-intention-phases",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client had an open appendectomy with a sutured incision. For each finding, indicate whether it is expected or unexpected for the stated postoperative day.",
-   "rows": [
-    "Day 2: mild redness and swelling along the incision edges",
+   "stem": "A client had an open appendectomy with a sutured incision. Which finding requires the nurse's immediate follow-up?",
+   "options": [
+    "Day 6: incision edges separated with bright red granulation visible",
     "Day 2: scant serosanguineous drainage on the dressing",
-    "Day 5: thick, green drainage with a foul odor",
-    "Day 7: a firm, palpable ridge under the incision line",
-    "Day 6: incision edges separated with bright red granulation visible"
+    "Day 7: a firm, palpable ridge that can be felt under the length of the incision line",
+    "Day 2: mild redness and swelling along the incision edges"
    ],
-   "columns": [
-    "Expected",
-    "Unexpected"
-   ],
-   "answer": [
-    0,
-    0,
-    1,
-    0,
-    1
-   ],
+   "answer": 0,
    "optionRationales": [
-    "Expected — localized redness and edema are part of the normal inflammatory phase.",
-    "Expected — small amounts of serosanguineous drainage are common in the first 24–72 hours.",
-    "Unexpected — purulent, foul-smelling drainage indicates infection.",
-    "Expected — a healing ridge forms from collagen deposition around days 5–9.",
-    "Unexpected — separated edges on a primary-intention incision indicate dehiscence."
+    "Correct. Separated edges on a primary-intention incision indicate dehiscence, a complication that must be reported.",
+    "Incorrect. Small amounts of serosanguineous drainage are common in new surgical incisions.",
+    "Incorrect. A healing ridge forms from collagen deposition and is a positive sign of healing.",
+    "Incorrect. Localized redness and edema are part of the normal inflammatory phase."
    ],
-   "rationale": "The inflammatory phase produces mild redness, warmth, edema, and serous or serosanguineous drainage. A healing ridge is a positive sign of collagen formation. Purulent drainage and separation of the edges are complications.",
-   "takeaway": "Early mild redness and a healing ridge are good; pus and gaping are not.",
+   "rationale": "The inflammatory phase produces mild redness, warmth, edema, and serous or serosanguineous drainage. A healing ridge is a positive sign of collagen formation. Separation of the edges of a sutured incision is dehiscence, a complication requiring prompt follow-up.",
+   "takeaway": "Early mild redness and a healing ridge are good; gaping edges are not.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the normal findings of the inflammatory and proliferative phases and when a healing ridge appears.",
-   "hintStrategy": "Pay attention to the postoperative day in each row; the same finding can be expected on one day and concerning on another."
+   "hintContent": "Recall what is expected in the inflammatory and proliferative phases of a sutured incision, and what separation of the edges means.",
+   "hintStrategy": "Three findings match the expected timeline of primary-intention healing. Find the one that signals a complication.",
+   "priority": true
   },
   {
    "id": "m21b-037",
-   "type": "order",
+   "type": "sata",
    "topic": "wound-healing-intention-phases",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client with a sutured forearm laceration asks the nurse what will happen inside the wound as it heals. The nurse explains the healing process. Place the events in the order in which they will occur in the client's wound.",
+   "stem": "A client with a sutured forearm laceration asks the nurse what will happen inside the wound as it heals. Which events should the nurse describe as part of the proliferative phase? Select all that apply.",
    "options": [
-    "Vasoconstriction and fibrin clot formation (hemostasis)",
+    "Vasoconstriction and fibrin clot formation",
+    "Fibroblasts produce collagen, and granulation tissue fills the wound",
     "Neutrophils and macrophages remove debris and bacteria",
-    "Fibroblasts produce collagen and granulation tissue fills the wound",
     "Epithelial cells migrate across the wound surface",
-    "Collagen remodels and the scar gains tensile strength"
+    "Collagen remodels, and the scar gains tensile strength"
+   ],
+   "answer": [
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Incorrect. Vasoconstriction and clot formation occur during hemostasis, the first step of healing.",
+    "Correct. Collagen synthesis and granulation tissue formation are hallmarks of the proliferative phase.",
+    "Incorrect. Phagocytosis by neutrophils and macrophages occurs in the inflammatory phase.",
+    "Correct. Epithelialization, along with contraction, occurs during the proliferative phase.",
+    "Incorrect. Remodeling and increasing tensile strength occur in the maturation phase, which may last 1–2 years."
    ],
    "rationale": "Healing proceeds from hemostasis and inflammation (clot, then phagocytosis) to proliferation (collagen synthesis, granulation, contraction, epithelialization) to maturation/remodeling, which may last 1–2 years.",
    "takeaway": "Clot → clean → build → cover → remodel.",
-   "cjmm": "Evaluate Outcomes",
+   "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
-   "hintContent": "Recall the three phases of healing and what happens first in any wound to stop bleeding.",
-   "hintStrategy": "Think of it as a construction project: stop the leak, clear the debris, build the frame, add the surface, then strengthen it."
+   "hintContent": "Recall the phases of wound healing and the main cellular events in each.",
+   "hintStrategy": "Sort each event into hemostasis, inflammation, proliferation, or maturation, then keep only the 'building and covering' events."
   },
   {
    "id": "m21b-038",
@@ -1859,7 +1848,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Recall how long the maturation phase lasts and how the tensile strength of a scar compares with uninjured tissue.",
-   "hintStrategy": "The client's belief is based on appearance. Choose the response that corrects the misconception with accurate physiology."
+   "hintStrategy": "The client's belief is based on appearance. Choose the response that corrects the misconception with accurate physiology.",
+   "priority": false
   },
   {
    "id": "m21b-039",
@@ -1899,48 +1889,39 @@
   },
   {
    "id": "m21b-040",
-   "type": "dropdown",
+   "type": "sata",
    "topic": "wound-healing-factors-exudate",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Exudate Types",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client had abdominal surgery. On postoperative day 1, the dressing has a small amount of pale pink, watery drainage. On day 5, the nurse notes thick, opaque, yellow-green drainage with a foul odor, and the client's temperature is 38.4°C (101.1°F). Complete the nurse's documentation.",
-   "template": "The drainage on day 1 is documented as {0}. The drainage on day 5 is documented as {1}, and the nurse recognizes that it suggests {2}.",
-   "blanks": [
-    {
-     "options": [
-      "serosanguineous",
-      "sanguineous",
-      "serous",
-      "purulent"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "purulent",
-      "serous",
-      "serosanguineous",
-      "sanguineous"
-     ],
-     "answer": 0
-    },
-    {
-     "options": [
-      "infection",
-      "normal inflammation",
-      "active arterial bleeding",
-      "dehydration"
-     ],
-     "answer": 0
-    }
+   "stem": "A client had abdominal surgery. On postoperative day 1, the dressing has a small amount of pale pink, watery drainage. On day 5, the nurse notes thick, opaque, yellow-green drainage with a foul odor, and the client's temperature is 38.4°C (101.1°F). Which conclusions by the nurse are accurate? Select all that apply.",
+   "options": [
+    "The day 1 drainage is serosanguineous",
+    "The day 1 drainage is sanguineous and indicates active bleeding",
+    "The day 5 drainage is purulent",
+    "The day 5 drainage is serous and reflects mild inflammation",
+    "The day 5 findings suggest a wound infection",
+    "The day 1 drainage suggests a wound infection"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Pale pink, watery drainage (serum plus blood) is serosanguineous, common in new incisions.",
+    "Incorrect. Sanguineous drainage is bright or dark red blood, not pale pink and watery.",
+    "Correct. Thick, opaque, colored drainage is purulent — WBCs, bacteria, and debris.",
+    "Incorrect. Serous drainage is clear, watery, and straw-colored.",
+    "Correct. Purulent, foul-smelling drainage with fever indicates infection and should be reported.",
+    "Incorrect. Serosanguineous drainage on day 1 is an expected finding."
    ],
    "rationale": "Serosanguineous drainage (serum plus blood) is common in new incisions. Purulent drainage — thick and opaque, containing WBCs, bacteria, and debris — indicates infection and should be reported.",
    "takeaway": "Pink and watery = serosanguineous; thick and colored = purulent = infection.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the appearance of each exudate type — serous, sanguineous, serosanguineous, purulent — and what each indicates.",
-   "hintStrategy": "Use the color and consistency descriptors in the stem for each day, then link the day-5 findings to the vital sign cue."
+   "hintContent": "Recall the appearance of serous, sanguineous, serosanguineous, and purulent exudate.",
+   "hintStrategy": "Match each drainage description to its exudate type, then decide whether the finding is expected or a sign of infection."
   },
   {
    "id": "m21b-041",
@@ -1968,29 +1949,37 @@
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "hintContent": "Recall the normal progression of postoperative drainage and when the risk for hemorrhage is highest.",
-   "hintStrategy": "Cluster the cues (drainage change + vital sign trend + timing). Which option addresses a potential circulation threat first?"
+   "hintStrategy": "Cluster the cues (drainage change + vital sign trend + timing). Which option addresses a potential circulation threat first?",
+   "priority": true
   },
   {
    "id": "m21b-042",
-   "type": "order",
+   "type": "mcq",
    "topic": "wound-healing-complications",
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Evisceration",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client who had abdominal surgery 6 days ago calls out after a coughing episode. The nurse finds loops of bowel protruding through the incision. Place the steps in the order the nurse should perform them.",
+   "stem": "A client who had abdominal surgery 6 days ago calls out after a coughing episode. The nurse finds loops of bowel protruding through the incision. The nurse stays with the client and calls for help to have the surgeon notified. Which action should the nurse take first?",
    "options": [
-    "Stay with the client and call for help to have the surgeon notified",
+    "Obtain a full set of vital signs and assess the client for early signs of hypovolemic shock",
     "Cover the protruding bowel with sterile dressings moistened with sterile normal saline",
-    "Position the client in low Fowler's with the knees flexed",
-    "Obtain vital signs and monitor for signs of shock",
-    "Keep the client NPO and prepare for emergency surgery"
+    "Gently replace the bowel into the abdomen with sterile gloved hands",
+    "Cover the protruding bowel with dry sterile gauze and tape it in place"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Vital signs are monitored, but protecting the exposed organs from drying and necrosis comes first.",
+    "Correct. Sterile saline-moistened dressings keep the exposed bowel moist and protected until surgery.",
+    "Incorrect. The nurse never pushes organs back into the abdomen; this risks injury and contamination.",
+    "Incorrect. Dry gauze adheres to and dries the exposed bowel, causing tissue damage."
    ],
    "rationale": "Evisceration is a surgical emergency. The nurse stays with the client and summons help, then protects the exposed organs from drying and necrosis with sterile saline-moistened dressings. Low Fowler's with knees flexed reduces abdominal tension. Vital signs are monitored for shock, and the client is kept NPO and prepared for surgery. Organs are never pushed back in.",
    "takeaway": "Stay, cover moist, knees up, watch for shock, prep for OR.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Recall the priority actions for protecting exposed abdominal organs and reducing abdominal wall tension.",
-   "hintStrategy": "Apply ‘stay with the client’ for emergencies, then protect tissue, reduce tension, assess for shock, and prepare for definitive treatment."
+   "hintContent": "Recall the emergency response to evisceration described on the slides.",
+   "hintStrategy": "Help is on the way. Ask what will cause the most harm to the exposed organs in the next few minutes, and choose the action that prevents it.",
+   "priority": true
   },
   {
    "id": "m21b-043",
@@ -1999,12 +1988,12 @@
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Dehiscence",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client with obesity is on postoperative day 7 after a midline abdominal incision. The client reports feeling ‘something pop’ after sneezing, and the nurse notes a large amount of salmon-colored drainage on the dressing. The incision edges are partly separated, but no organs are visible. Which action is most appropriate?",
+   "stem": "A client with obesity is on postoperative day 7 after a midline abdominal incision. The client reports feeling ‘something pop’ after sneezing, and the nurse notes a large amount of salmon-colored drainage on the dressing. The incision edges are partly separated, but no organs are visible. Which action should the nurse take first?",
    "options": [
     "Apply an abdominal binder snugly over the dressing and reassess the incision in 1 hour",
     "Gently approximate the edges with adhesive closure strips and document the finding",
     "Place in low Fowler's with knees bent, apply sterile moist saline gauze, and notify the surgeon",
-    "Encourage the client to cough and deep breathe hourly to prevent postoperative pneumonia"
+    "Encourage the client to cough and deep breathe every hour to help prevent postoperative pneumonia"
    ],
    "answer": 2,
    "optionRationales": [
@@ -2018,7 +2007,8 @@
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall the warning signs of wound separation and the positioning that reduces tension on an abdominal incision.",
-   "hintStrategy": "Identify the complication from the cues first, then eliminate options that delay notification or increase intra-abdominal pressure."
+   "hintStrategy": "Identify the complication from the cues first, then eliminate options that delay notification or increase intra-abdominal pressure.",
+   "priority": true
   },
   {
    "id": "m21b-044",
@@ -2064,11 +2054,11 @@
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Dehiscence (Prevention)",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client on postoperative day 1 after an open cholecystectomy is reluctant to cough and deep breathe because ‘it feels like my stitches will rip’. SpO₂ is 92% on room air, and crackles are heard in the bases. Which instruction by the nurse is most appropriate?",
+   "stem": "A client on postoperative day 1 after an open cholecystectomy is reluctant to cough and deep breathe because ‘it feels like my stitches will rip’. SpO₂ is 92% on room air, and crackles are heard in the bases. Which instruction by the nurse is the priority?",
    "options": [
     "“Hold a pillow firmly against your incision when you cough or take deep breaths.”",
     "“Avoid coughing and deep breathing until your sutures are removed.”",
-    "“Lie completely flat in bed whenever you need to cough or breathe deeply.”",
+    "“Lie completely flat in bed with your arms at your sides whenever you need to cough or breathe deeply.”",
     "“Press on the edges of the incision with your fingertips when you move.”"
    ],
    "answer": 0,
@@ -2083,7 +2073,8 @@
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Recall a technique that supports the incision and reduces tension during activities that raise intra-abdominal pressure.",
-   "hintStrategy": "The client needs pulmonary hygiene AND incision protection. Eliminate options that sacrifice one goal for the other."
+   "hintStrategy": "The client needs pulmonary hygiene AND incision protection. Eliminate options that sacrifice one goal for the other.",
+   "priority": true
   }
  ]
 }

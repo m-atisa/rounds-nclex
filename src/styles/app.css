@@ -899,3 +899,67 @@ main { outline: none; padding: 1.75rem 0 7rem; min-height: 70vh; }
 .mini-stat { display: grid; grid-template-columns: 5.5rem 1fr 3rem; gap: .6rem; align-items: center; font-size: .78rem; color: var(--ink-2); margin: .35rem 0; }
 .mini-stat b { font: 500 .75rem var(--font-mono); text-align: right; color: var(--ink); }
 .review-item .ring { flex: none; }
+
+/* ==========================================================================
+   Lessons (study guides)
+   ========================================================================== */
+.article-meta { display: flex; gap: .6rem; align-items: center; flex-wrap: wrap; margin-bottom: .75rem; }
+.article-meta .exemplar-tag { margin: 0; }
+.read-time { display: inline-flex; align-items: center; gap: .35rem; font: 500 .72rem var(--font-mono); color: var(--ink-3); }
+.read-time svg { width: .85rem; height: .85rem; }
+.article .prose p { margin: 0 0 .9rem; }
+.article .prose p:last-child { margin-bottom: 0; }
+.lesson-section { margin: 0 0 2.25rem; scroll-margin-top: calc(var(--top-h) + 1rem); }
+.lesson-section > ul, .lesson-section > .steps { margin-top: .75rem; }
+.lesson-outline { margin: 0 0 1.75rem; padding: 1rem 1.15rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); }
+.lesson-outline ol { margin: .6rem 0 0; padding: 0; list-style: none; counter-reset: o; display: grid; gap: .2rem; }
+@media (min-width: 45rem) { .lesson-outline ol { grid-template-columns: 1fr 1fr; column-gap: 1.25rem; } }
+.lesson-outline li { counter-increment: o; }
+.lesson-outline a { display: flex; gap: .55rem; padding: .3rem .4rem; border-radius: .4rem; color: var(--ink-2); font-size: .88rem; }
+.lesson-outline a::before { content: counter(o, decimal-leading-zero); font: 500 .7rem var(--font-mono); color: var(--mc); padding-top: .15rem; }
+.lesson-outline a:hover { background: var(--surface-2); color: var(--ink); }
+.lesson-box { border-radius: var(--r-lg); padding: 1.1rem 1.25rem; margin: 0 0 1.75rem; border: 1px solid var(--line); background: var(--surface); }
+.lesson-box h3 { display: flex; align-items: center; gap: .5rem; font-size: .95rem; margin-bottom: .6rem; }
+.lesson-box h3 svg { width: 1.05rem; height: 1.05rem; color: var(--mc); }
+.lesson-box.objectives { background: color-mix(in srgb, var(--mc) 5%, var(--surface)); border-color: color-mix(in srgb, var(--mc) 22%, var(--line)); }
+.lesson-box.recap { background: color-mix(in srgb, var(--good) 5%, var(--surface)); border-color: color-mix(in srgb, var(--good) 25%, var(--line)); }
+.lesson-box.recap h3 svg { color: var(--good); }
+.big-picture { margin: 0 0 2rem; padding-left: 1.1rem; border-left: 3px solid var(--mc); }
+.big-picture .eyebrow { display: block; margin-bottom: .5rem; color: var(--mc); }
+.big-picture p { font-size: 1.06rem; line-height: 1.75; margin: 0 0 .8rem; }
+.key-terms { margin: 0 0 2.25rem; }
+.key-terms dl { margin: 0; display: grid; gap: 1px; border: 1px solid var(--line); border-radius: var(--r-lg); overflow: hidden; background: var(--line); }
+@media (min-width: 45rem) { .key-terms dl { grid-template-columns: 1fr 1fr; } }
+.key-terms dl > div { background: var(--surface); padding: .8rem 1rem; }
+.key-terms dt { font-weight: 650; font-size: .92rem; margin-bottom: .15rem; color: var(--ink); }
+.key-terms .dd { display: block; font-size: .88rem; color: var(--ink-2); line-height: 1.55; }
+.steps { list-style: none; padding: 0; margin: 0 0 1rem; display: grid; gap: .5rem; }
+.steps li { display: flex; gap: .75rem; align-items: flex-start; padding: .7rem .85rem; border-radius: var(--r); background: var(--surface); border: 1px solid var(--line); font-size: .97rem; line-height: 1.6; }
+.steps .step-n { flex: none; width: 1.55rem; height: 1.55rem; border-radius: 50%; display: grid; place-items: center; background: color-mix(in srgb, var(--mc) 14%, transparent); color: var(--mc); font: 600 .74rem var(--font-mono); margin-top: .05rem; }
+.callout.analogy { background: color-mix(in srgb, var(--warn) 6%, var(--surface)); border-color: color-mix(in srgb, var(--warn) 25%, transparent); margin-top: 1rem; }
+.callout.analogy h3 { color: var(--warn); }
+.callout.analogy p { margin: 0; font-size: .98rem; line-height: 1.7; }
+.callout.example { background: color-mix(in srgb, var(--info) 5%, var(--surface)); border-color: color-mix(in srgb, var(--info) 22%, transparent); margin-top: 1rem; }
+.callout.example h3 { color: var(--info); }
+.callout.example div { font-size: .97rem; line-height: 1.7; }
+.callout.example p { margin: 0 0 .6rem; }
+.callout.mnemonic { background: color-mix(in srgb, var(--accent) 5%, var(--surface)); border-color: color-mix(in srgb, var(--accent) 22%, transparent); }
+.callout.mnemonic h3 { color: var(--accent); }
+.mnemonic-row { padding: .5rem 0; border-top: 1px dashed var(--line); }
+.mnemonic-row:first-of-type { border-top: 0; padding-top: 0; }
+.mnemonic-row b { font: 600 .9rem var(--font-mono); color: var(--accent); letter-spacing: .04em; }
+.mnemonic-row p { margin: .2rem 0 0; font-size: .94rem; }
+.check-card { border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); padding: .95rem 1.1rem; margin-top: 1rem; overflow: hidden; }
+.check-card.open { border-color: color-mix(in srgb, var(--good) 30%, var(--line)); }
+.check-label { display: inline-flex; align-items: center; gap: .35rem; font: 500 .66rem var(--font-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--mc); }
+.check-label svg { width: .85rem; height: .85rem; }
+.check-q p { margin: .35rem 0 .75rem; font-weight: 550; font-size: .98rem; line-height: 1.55; }
+.check-a { display: flex; gap: .6rem; align-items: flex-start; padding: .75rem .85rem; border-radius: var(--r); background: var(--good-soft); }
+.check-a svg { width: 1rem; height: 1rem; color: var(--good); margin-top: .2rem; }
+.check-a p { margin: 0; font-size: .94rem; line-height: 1.6; }
+.check-reveal svg { width: .9rem; height: .9rem; }
+.self-checks { margin-top: 2.25rem; }
+.self-checks .check-card { margin-top: 0; }
+.format-grid { display: grid; gap: .5rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 11rem), 1fr)); }
+.format-grid .mode .chip-count { position: absolute; top: .6rem; right: .6rem; }
+.q-type.is-priority { color: var(--bad); background: var(--bad-soft); padding: .15rem .45rem; border-radius: .35rem; }

@@ -10,6 +10,7 @@ const META: Record<string, Pick<Module, 'color' | 'icon'> & { fallbackTagline: s
 };
 
 const byId: Record<string, Module> = {};
+const guideTopics: Record<string, Topic[]> = {};
 
 for (const path of Object.keys(packs).sort()) {
   const p = packs[path];
@@ -28,12 +29,33 @@ for (const path of Object.keys(packs).sort()) {
   });
   if (p.tagline) m.tagline = p.tagline;
   if (p.overview) m.overview = p.overview;
+  if (p.kind === 'guide') {
+    (guideTopics[p.moduleId] ??= []).push(...(p.topics ?? []));
+    continue;
+  }
   m.topics.push(...(p.topics ?? []));
   (p.flashcards ?? []).forEach((c, i) =>
     m.flashcards.push({ ...c, moduleId: m.id, key: `${path.split('/').pop()}:${i}` }),
   );
   for (const q of p.questions ?? []) m.questions.push({ ...q, moduleId: m.id } as Question);
   if (!m.tagline) m.tagline = meta.fallbackTagline;
+}
+
+// Full lessons replace the shorter topic outlines while keeping the original topic order.
+for (const [mid, topics] of Object.entries(guideTopics)) {
+  const m = byId[mid];
+  if (!m) continue;
+  for (const t of topics) {
+    const i = m.topics.findIndex((x) => x.id === t.id);
+    if (i >= 0) m.topics[i] = { ...m.topics[i], ...t };
+    else m.topics.push(t);
+  }
+}
+
+/** Approximate reading time for a topic, in minutes. */
+export function readingMinutes(t: Topic) {
+  const words = JSON.stringify(t).replace(/<[^>]+>/g, ' ').split(/\s+/).length;
+  return Math.max(1, Math.round(words / 200));
 }
 
 export const MODULES: Module[] = Object.values(byId).sort((a, b) => a.number - b.number);
