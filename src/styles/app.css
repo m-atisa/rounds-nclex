@@ -963,3 +963,5 @@ main { outline: none; padding: 1.75rem 0 7rem; min-height: 70vh; }
 .format-grid { display: grid; gap: .5rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 11rem), 1fr)); }
 .format-grid .mode .chip-count { position: absolute; top: .6rem; right: .6rem; }
 .q-type.is-priority { color: var(--bad); background: var(--bad-soft); padding: .15rem .45rem; border-radius: .35rem; }
+.also-tests { display: inline-flex; align-items: center; gap: .35rem; flex-basis: 100%; font-size: .74rem; color: var(--ink-3); }
+.also-tests svg { width: .85rem; height: .85rem; color: var(--mc, var(--brand)); }

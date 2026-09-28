@@ -9,492 +9,246 @@ window.NURSE_DATA.push({
   {
    "id": "m16c-001",
    "type": "sata",
-   "caseId": "m16c-case-acs",
-   "caseOrder": 1,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Part 1 · Recognizing Stroke",
-   "difficulty": 2,
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
+   "alsoTests": [
+    "hemostasis",
+    "diagnostics"
+   ],
+   "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
+   "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the BE-FAST signs of stroke and which vital signs and lab values are abnormal.",
-   "hintStrategy": "Judge each finding separately: is it a new neurologic deficit or a significant abnormal value, or is it normal?",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂",
-        "Fingerstick glucose"
-       ],
-       "rows": [
-        [
-         "ED 0915",
-         "37.2 °C (99.0 °F)",
-         "91 (irregular)",
-         "24",
-         "182/98",
-         "95% room air",
-         "148 mg/dL"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "History",
-      "html": "<p>Coronary artery disease, hypertension, heart failure, atrial fibrillation, type 2 diabetes. Home medications taken as prescribed per wife.</p>"
-     }
-    ]
-   },
-   "stem": "Refer to the Vital Signs and History. B.E., a 64-year-old man, arrives in the emergency department after collapsing at home. His wife reports that before he collapsed he was confused and had numbness and tingling in the left arm and double vision. He is now awake and aware of his surroundings. Which findings require immediate follow-up? Select all that apply.",
+   "hintContent": "Connect the BE-FAST signs to the type of stroke that is suspected, what must be ruled out before clot-directed treatment, and what each drug class does to a clot that already exists.",
+   "hintStrategy": "Picture the first hour of stroke care in order: timing, imaging, airway and swallow safety, monitoring. Then test each option against \"does this protect the brain now without adding risk?\"",
+   "stem": "A 64-year-old client with atrial fibrillation, hypertension, and diabetes is brought to the emergency department with sudden left facial droop, slurred speech, and numbness of the left arm. Vital signs: HR 91/min and irregular, BP 182/98 mm Hg, RR 24/min; fingerstick glucose 148 mg/dL. Which actions should the nurse take? Select all that apply.",
    "options": [
-    "Drooping of the left side of the face",
-    "Temperature of 37.2 °C (99.0 °F)",
-    "Slurred speech with difficulty forming words",
-    "Fingerstick glucose of 148 mg/dL",
-    "Downward drift of the left arm when both arms are raised",
-    "BP of 182/98 mm Hg"
-   ],
-   "answer": [
-    0,
-    2,
-    4,
-    5
-   ],
-   "optionRationales": [
-    "Correct. Sudden one-sided facial droop is a BE-FAST sign of stroke.",
-    "Incorrect. The temperature is normal and does not require immediate action.",
-    "Correct. Sudden slurred speech (dysarthria) is a BE-FAST sign of stroke.",
-    "Incorrect. The glucose is not hypoglycemic, so it does not explain the deficits or require immediate treatment.",
-    "Correct. Arm drift reveals one-sided weakness, a BE-FAST sign of stroke.",
-    "Correct. The elevated BP, with his history of hypertension, is a major perfusion risk factor that must be addressed in suspected stroke."
-   ],
-   "rationale": "B.E. has the sudden, one-sided neurologic findings of stroke (BE-FAST: Balance, Eyes, Face, Arm, Speech, Time): confusion, left-arm numbness, double vision, left facial droop, slurred speech, and left arm drift. His elevated BP and his history of hypertension and atrial fibrillation are major perfusion risk factors. Normal temperature and a nonhypoglycemic glucose do not require immediate action, and regaining consciousness does not mean the event is over.",
-   "takeaway": "Sudden one-sided face, arm, speech, or vision changes = stroke until proven otherwise (BE-FAST)."
-  },
-  {
-   "id": "m16c-002",
-   "type": "mcq",
-   "priority": false,
-   "caseId": "m16c-case-acs",
-   "caseOrder": 2,
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Part 2 · Ischemic Stroke",
-   "difficulty": 2,
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall which of B.E.'s conditions allows clots to form in the heart.",
-   "hintStrategy": "Match the CT result (ischemia, not bleeding) with the history item that best explains a traveling clot.",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>ED, 0915:</strong> B.E., a 64-year-old man, arrives by ambulance after collapsing at home. His wife states that just before he lost consciousness he seemed confused, reported numbness and tingling in his left arm and double vision, his speech was slurred, and the left side of his face drooped. History: coronary artery disease, hypertension, heart failure, atrial fibrillation, type 2 diabetes. He has regained consciousness and is aware of his surroundings. Left facial droop; left arm drifts downward when both arms are raised; slurred speech with difficulty forming words.</p><p><strong>ICU, Day 1, 1400:</strong> Transferred to ICU on continuous cardiac monitoring; CVA care path initiated. Noncontrast CT: ischemic stroke of the right parietal/temporal region. Monitor shows atrial fibrillation, ventricular rate in the 90s. Left-sided weakness. Does not respond to people or objects on his left side and leaves the left side of his gown untied. Has tried twice to climb out of bed, stating, \"I'm fine, I can walk.\" Having trouble managing oral secretions; remains NPO. Work of breathing increasing; nonrebreather mask applied.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "ED 0915",
-         "37.2 °C (99.0 °F)",
-         "91 (irregular)",
-         "24",
-         "182/98",
-         "95% room air"
-        ],
-        [
-         "Day 1, 1400",
-         "37.7 °C (99.9 °F)",
-         "94 (irregular)",
-         "26",
-         "120/76",
-         "88% nonrebreather"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Vital Signs. The CT scan confirms an ischemic stroke in the right parietal/temporal region. Given B.E.'s history, which is the most likely cause of this stroke?",
-   "options": [
-    "A ruptured blood vessel bleeding into the brain tissue",
-    "Low blood glucose depriving the brain cells of fuel",
-    "A clot from the fibrillating atria lodging in a cerebral artery",
-    "Fluid backing up into the brain from the failing left ventricle"
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Incorrect. Bleeding into the brain is a hemorrhagic stroke; the CT shows ischemia.",
-    "Incorrect. His glucose was not low, and hypoglycemia does not cause an ischemic lesion on CT.",
-    "Correct. In atrial fibrillation blood pools in the quivering atria, clots form, and an embolus can travel to a cerebral artery.",
-    "Incorrect. Left ventricular failure backs fluid into the lungs, not the brain, and does not cause a focal ischemic stroke."
-   ],
-   "rationale": "In atrial fibrillation, the atria quiver instead of contracting, so blood pools and clots can form; a clot that breaks loose travels through the left ventricle and aorta to a cerebral artery, causing an ischemic (embolic) stroke. The CT shows ischemia, not bleeding, and glucose was not low. Motor and sensory pathways cross, so a right-hemisphere (parietal/temporal) stroke produces left-sided weakness and, commonly, neglect of the left side.",
-   "takeaway": "Atrial fibrillation → atrial clot → embolus → ischemic stroke."
-  },
-  {
-   "id": "m16c-003",
-   "type": "sata",
-   "caseId": "m16c-case-acs",
-   "caseOrder": 3,
-   "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Part 2 · Safety After Right-Hemisphere Stroke",
-   "difficulty": 2,
-   "cjmm": "Generate Solutions",
-   "focus": "Delegation & Safety",
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "hintContent": "Recall the typical behaviors and deficits after a right-hemisphere stroke and how they increase injury risk.",
-   "hintStrategy": "For each option ask: does it protect him from injury given his left-sided weakness, left neglect, and impulsivity, using the least restrictive approach?",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>ED, 0915:</strong> B.E., a 64-year-old man, arrives by ambulance after collapsing at home. His wife states that just before he lost consciousness he seemed confused, reported numbness and tingling in his left arm and double vision, his speech was slurred, and the left side of his face drooped. History: coronary artery disease, hypertension, heart failure, atrial fibrillation, type 2 diabetes. He has regained consciousness and is aware of his surroundings. Left facial droop; left arm drifts downward when both arms are raised; slurred speech with difficulty forming words.</p><p><strong>ICU, Day 1, 1400:</strong> Transferred to ICU on continuous cardiac monitoring; CVA care path initiated. Noncontrast CT: ischemic stroke of the right parietal/temporal region. Monitor shows atrial fibrillation, ventricular rate in the 90s. Left-sided weakness. Does not respond to people or objects on his left side and leaves the left side of his gown untied. Has tried twice to climb out of bed, stating, \"I'm fine, I can walk.\" Having trouble managing oral secretions; remains NPO. Work of breathing increasing; nonrebreather mask applied.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "ED 0915",
-         "37.2 °C (99.0 °F)",
-         "91 (irregular)",
-         "24",
-         "182/98",
-         "95% room air"
-        ],
-        [
-         "Day 1, 1400",
-         "37.7 °C (99.9 °F)",
-         "94 (irregular)",
-         "26",
-         "120/76",
-         "88% nonrebreather"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes. The nurse is planning care to keep B.E. safe on Day 1. Which interventions should the nurse include? Select all that apply.",
-   "options": [
-    "Keep the bed in the lowest position with the bed alarm activated",
-    "Place the call light and personal items on his right side",
-    "Support the left arm on a pillow and inspect it for injury",
-    "Cue him to turn his head and scan toward his left side",
-    "Allow him to walk to the bathroom alone because he says he feels fine",
-    "Apply bilateral wrist restraints so he cannot climb out of bed"
+    "Determine the time the client was last known well",
+    "Keep the client NPO until a bedside swallow screen is passed",
+    "Prepare the client for an emergency CT scan of the head",
+    "Offer small sips of water so the client can take his home pills",
+    "Place the client on continuous cardiac monitoring",
+    "Give an anticoagulant now to dissolve the clot from the atria"
    ],
    "answer": [
     0,
     1,
     2,
-    3
+    4
    ],
    "optionRationales": [
-    "Correct. He is impulsive and has tried to climb out of bed; a low bed and alarm reduce fall injury.",
-    "Correct. He ignores his left side, so the call light and needed items belong where he can see and reach them.",
-    "Correct. He may not feel or notice the weak left arm, so it must be supported and checked for injury.",
-    "Correct. Cueing him to scan to the left helps him compensate for left-sided neglect.",
-    "Incorrect. Impulsivity and poor awareness of deficits are common after right-hemisphere stroke; his self-report does not make ambulation safe.",
-    "Incorrect. Restraints are a last resort, can increase agitation and injury, and require a provider order; less restrictive measures come first."
+    "Correct. Clot-dissolving therapy (tPA) depends on how much time has passed, so the time last known well is the most important early question.",
+    "Correct. Stroke can impair the swallowing muscles; even sips can be aspirated, so the client stays NPO until a swallow screen is passed.",
+    "Correct. A CT scan distinguishes an ischemic (clot) stroke from a hemorrhagic (bleeding) stroke before any clot-directed treatment is given.",
+    "Incorrect. Nothing is given by mouth before the swallow screen, because of the risk of aspiration pneumonia.",
+    "Correct. The client has an irregular rhythm and a history of atrial fibrillation; continuous cardiac monitoring is part of the stroke plan of care.",
+    "Incorrect. Anticoagulants prevent new clots and stop clots from growing but do not dissolve an existing clot, and bleeding must first be ruled out by CT."
    ],
-   "rationale": "A right parietal/temporal stroke commonly causes left-sided weakness, neglect of the left side, and impulsive behavior with poor insight into deficits. Nursing care prevents falls and injury with a low bed and alarm, items placed within his field of attention, protection of the weak left arm, and cues to scan to the left. The weak arm is supported, not left hanging. Independent ambulation and restraints are both unsafe.",
-   "takeaway": "Right-hemisphere stroke: expect left neglect and impulsivity — protect the left side and prevent falls."
+   "rationale": "Sudden one-sided face droop, arm numbness, and slurred speech are BE-FAST signs; in a client with atrial fibrillation, an embolic ischemic stroke is likely. Early care is time-driven: establish the time last known well, activate the stroke alert, apply the cardiac monitor, check glucose (148 mg/dL rules out hypoglycemia as a mimic), prepare for an emergency CT to tell clot from bleeding, and keep the client NPO until a swallow screen is passed. Hemostasis explains why anticoagulants are the wrong \"clot treatment\" here: they slow the coagulation cascade to prevent new clots but do not dissolve an existing one — only a thrombolytic (tPA) activates plasmin to break down fibrin, and only after CT excludes bleeding.",
+   "takeaway": "Suspected stroke: time last known well, CT first, monitor, NPO until swallow screen — anticoagulants never \"dissolve\" a clot."
+  },
+  {
+   "id": "m16c-002",
+   "type": "sata",
+   "topic": "perfusion-emergencies",
+   "alsoTests": [
+    "cardiac-anatomy",
+    "hemostasis"
+   ],
+   "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Link three ideas: where clots form in atrial fibrillation, the path blood takes from the left heart to the brain, and which side of the body each hemisphere controls.",
+   "hintStrategy": "Trace a clot from its source to the brain using the circulation map, then check each statement for the correct side of deficit and the correct drug effect.",
+   "stem": "A CT scan confirms an ischemic stroke in the right parietal/temporal region of a client who has chronic atrial fibrillation. Which statements about this client's condition are accurate? Select all that apply.",
+   "options": [
+    "Blood pooling in the quivering atria can form a clot that breaks loose",
+    "The clot can travel from the left ventricle through the aorta and carotid artery",
+    "Weakness and neglect are expected on the left side of the body",
+    "Aphasia with right-sided weakness is the expected deficit pattern",
+    "A clot from a leg vein most likely crossed the right ventricle to the brain",
+    "An anticoagulant infusion will dissolve the clot now in the brain"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. In atrial fibrillation the atria quiver instead of squeezing, so blood pools and clots can form and break loose as emboli.",
+    "Correct. A clot from the left heart leaves through the aortic valve into the aorta and travels up the carotid artery to lodge in a cerebral artery.",
+    "Correct. Motor pathways cross, so a right-hemisphere stroke causes left-sided weakness and left neglect.",
+    "Incorrect. Aphasia with right-sided weakness is typical of a left-hemisphere stroke.",
+    "Incorrect. A clot from a leg vein travels to the right heart and then to the pulmonary circulation (lungs), not to the brain.",
+    "Incorrect. Anticoagulants prevent new clots and stop clot growth; they do not dissolve an existing clot."
+   ],
+   "rationale": "Atrial fibrillation lets blood pool in the atria and form clots. A piece that breaks off from the left heart is pumped through the aortic valve into the aorta and up the carotid artery into the brain — the systemic circulation. Venous clots from the legs instead go through the right heart into the pulmonary artery, so they lodge in the lungs. Because nerve pathways cross, a right-hemisphere stroke produces left-sided weakness and neglect (and impulsivity), whereas aphasia with right-sided weakness points to the left hemisphere. Anticoagulants act on the coagulation cascade to prevent new or growing clots; dissolving a clot requires fibrinolysis (plasmin activated by tPA).",
+   "takeaway": "A-fib clot → left heart → aorta → carotid → brain; right-brain stroke = left-sided deficits."
+  },
+  {
+   "id": "m16c-003",
+   "type": "sata",
+   "topic": "perfusion-emergencies",
+   "alsoTests": [
+    "hemostasis",
+    "promotion-interventions"
+   ],
+   "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Connect the behavior pattern of a right-hemisphere stroke (neglect, impulsivity) with fall risk, and connect bed rest with venous stasis and the safe use of compression devices.",
+   "hintStrategy": "Sort options into two groups — protecting a client who ignores his left side, and preventing clots in an immobile client — then remove anything that could injure the client or dislodge a clot.",
+   "stem": "A client is on day 1 after a right-hemisphere ischemic stroke. He ignores objects on his left, has twice tried to climb out of bed saying, \"I'm fine, I can walk,\" and is on bed rest with sequential compression devices (SCDs) prescribed. Which interventions should the nurse include in the plan of care? Select all that apply.",
+   "options": [
+    "Keep the bed in the lowest position with the bed alarm on",
+    "Place the call light and personal items on the client's right side",
+    "Remove the SCD sleeves periodically to inspect the skin of both legs",
+    "Massage the left calf to improve circulation in the weak leg",
+    "Place a pillow under the client's knees to keep the legs flexed",
+    "Cue the client to turn his head and scan toward the left"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Impulsivity and poor awareness of deficits after a right-hemisphere stroke make falls likely; a low bed and bed alarm reduce injury.",
+    "Correct. The client neglects his left side, so needed items go on the right (noticed) side.",
+    "Correct. Compression devices are removed periodically per policy to inspect skin, pulses, color, and temperature — especially important on a limb the client may not feel.",
+    "Incorrect. Calf massage could dislodge a clot that may have formed in an immobile leg.",
+    "Incorrect. Pillows under the knees compress the veins and promote venous stasis.",
+    "Correct. Cueing the client to scan to the left helps him attend to the neglected side."
+   ],
+   "rationale": "A right-hemisphere stroke causes left-sided weakness, left neglect, and impulsive behavior with overestimation of ability, so fall prevention (low bed, alarm, frequent checks, items on the right) and scanning cues are priorities. At the same time, bed rest and a weak leg cause venous stasis, raising the risk of venous thrombosis. Nurses promote venous return and assess compression devices: correct fit, periodic removal for skin checks, and avoidance of knee pillows and leg massage.",
+   "takeaway": "Right-brain stroke: prevent falls and cue left scanning; on bed rest, protect venous flow — no knee pillows, no calf massage."
   },
   {
    "id": "m16c-004",
-   "type": "mcq",
-   "priority": true,
-   "caseId": "m16c-case-acs",
-   "caseOrder": 4,
+   "type": "sata",
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Part 2 · Aspiration & Respiratory Failure",
+   "alsoTests": [
+    "cardiac-output",
+    "cardiac-anatomy"
+   ],
+   "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
    "difficulty": 3,
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall how aspiration of secretions affects gas exchange and which findings show that oxygen therapy is failing.",
-   "hintStrategy": "Apply the ABCs: choose the finding that shows a threat to breathing and oxygenation.",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>ED, 0915:</strong> B.E., a 64-year-old man, arrives by ambulance after collapsing at home. His wife states that just before he lost consciousness he seemed confused, reported numbness and tingling in his left arm and double vision, his speech was slurred, and the left side of his face drooped. History: coronary artery disease, hypertension, heart failure, atrial fibrillation, type 2 diabetes. He has regained consciousness and is aware of his surroundings. Left facial droop; left arm drifts downward when both arms are raised; slurred speech with difficulty forming words.</p><p><strong>ICU, Day 1, 1400:</strong> Transferred to ICU on continuous cardiac monitoring; CVA care path initiated. Noncontrast CT: ischemic stroke of the right parietal/temporal region. Monitor shows atrial fibrillation, ventricular rate in the 90s. Left-sided weakness. Does not respond to people or objects on his left side and leaves the left side of his gown untied. Has tried twice to climb out of bed, stating, \"I'm fine, I can walk.\" Having trouble managing oral secretions; remains NPO. Work of breathing increasing; nonrebreather mask applied.</p><p><strong>ICU, Hour 36:</strong> Bilateral crackles, louder on the right. Oral secretions pooling; weak cough. 2+ pitting edema of both lower legs. Urine output 15 mL/h for the past 4 hours (was 50 mL/h). Difficult to arouse; oriented to person only. Provider and respiratory therapy called to evaluate the need for mechanical ventilation.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "ED 0915",
-         "37.2 °C (99.0 °F)",
-         "91 (irregular)",
-         "24",
-         "182/98",
-         "95% room air"
-        ],
-        [
-         "Day 1, 1400",
-         "37.7 °C (99.9 °F)",
-         "94 (irregular)",
-         "26",
-         "120/76",
-         "88% nonrebreather"
-        ],
-        [
-         "Hour 36",
-         "37.9 °C (100.2 °F)",
-         "104 (irregular)",
-         "30",
-         "134/80",
-         "86% nonrebreather"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Vital Signs from Hour 36. Which finding requires the nurse's most immediate follow-up?",
+   "hintContent": "Connect the failing side of the heart with where fluid backs up, the effect of excess preload on contraction, and what urine output says about cardiac output.",
+   "hintStrategy": "For each statement, ask whether it explains the cluster (crackles + edema + low urine + confusion) through pump failure, or whether it misreads a sign as dehydration.",
+   "stem": "A client with a history of heart failure is 36 hours into a hospital stay for an ischemic stroke and has difficulty managing oral secretions. The nurse finds bilateral crackles that are louder on the right, 2+ pitting edema of the lower legs, urine output of 15 mL/h (previously 50 mL/h), and SpO₂ 87% on a nonrebreather mask. The client is now oriented to person only. Which interpretations are accurate? Select all that apply.",
    "options": [
-    "2+ pitting edema of both lower legs with reduced urine output",
-    "SpO₂ 86% on a nonrebreather mask with an RR of 30",
-    "BP of 134/80 mm Hg, up from 120/76 on Day 1",
-    "Temperature of 37.9 °C (100.2 °F), up from 37.7 °C"
+    "The low urine output reflects poor kidney perfusion from low cardiac output",
+    "The crackles reflect blood backing up from the left ventricle into the lungs",
+    "More IV fluid would stretch the ventricle further and improve its squeeze",
+    "The low urine output indicates dehydration that needs a fluid bolus",
+    "Aspirated secretions may explain why the right lung sounds worse",
+    "The new confusion is an expected stroke finding that needs no action"
    ],
-   "answer": 1,
+   "answer": [
+    0,
+    1,
+    4
+   ],
    "optionRationales": [
-    "Incorrect. Edema and low urine output reflect fluid overload and need attention, but they are not the most immediate threat.",
-    "Correct. Falling oxygenation despite a nonrebreather mask and a rising respiratory rate signal acute respiratory failure — a breathing emergency.",
-    "Incorrect. This BP is within an acceptable range and is not an immediate threat.",
-    "Incorrect. A low-grade temperature may reflect aspiration and should be monitored, but it is less urgent than hypoxemia."
+    "Correct. When the pump fails, less blood reaches the kidneys, so urine output falls — a sign of low cardiac output, not low body fluid.",
+    "Correct. The left ventricle receives blood from the pulmonary veins; when it fails, blood backs up into the pulmonary circulation and fluid causes crackles.",
+    "Incorrect. Continuous overstretching of cardiac fibers (excess preload) makes contraction less effective, so added fluid worsens congestion.",
+    "Incorrect. Edema and crackles show fluid overload; a bolus would flood the lungs further.",
+    "Correct. The right main bronchus is shorter, wider, and straighter, so aspirated secretions tend to enter the right lung.",
+    "Incorrect. Worsening mental status with falling SpO₂ signals decreasing brain perfusion and oxygenation and must be reported."
    ],
-   "rationale": "B.E. cannot manage his secretions and has a weak cough, so secretions are entering his airway. The right main bronchus is wider, shorter, and more vertical than the left, so aspirated material most often reaches the right lung — explaining crackles louder on the right. Falling SpO₂ despite a nonrebreather mask, a rising respiratory rate, and decreasing level of consciousness signal acute respiratory failure, which is why the team is evaluating him for mechanical ventilation. Edema, a normal BP, and a low-grade temperature are relevant but are not the strongest evidence of the most urgent threat.",
-   "takeaway": "Hypoxemia despite high-flow oxygen + rising RR = impending respiratory failure; act first."
+   "rationale": "This cluster is fluid overload in a failing heart. Left-sided failure backs blood into the pulmonary circulation (crackles, low SpO₂), dependent edema shows systemic venous congestion, and reduced urine output and confusion are end-organ signs of low cardiac output. Preload that continuously overstretches the fibers weakens contraction, so fluid boluses are harmful. Right-sided predominance of crackles is explained by aspiration of secretions into the straighter right main bronchus. The worsening alertness and oxygenation signal impending respiratory failure.",
+   "takeaway": "Crackles + edema + low urine output in heart failure = pump failure with overload, not dehydration — no fluid bolus."
   },
   {
    "id": "m16c-005",
    "type": "mcq",
    "priority": true,
-   "caseId": "m16c-case-acs",
-   "caseOrder": 5,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Part 3 · Hypertensive Crisis & Pulmonary Edema",
+   "alsoTests": [
+    "blood-pressure",
+    "cardiac-output"
+   ],
+   "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
    "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "hintContent": "Recall how a very high afterload affects a failing left ventricle and what pink, frothy sputum indicates.",
-   "hintStrategy": "Identify which findings are life-threatening, then eliminate options that delay care or worsen fluid in the lungs.",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>ED, 0915:</strong> B.E., a 64-year-old man, arrives by ambulance after collapsing at home. His wife states that just before he lost consciousness he seemed confused, reported numbness and tingling in his left arm and double vision, his speech was slurred, and the left side of his face drooped. History: coronary artery disease, hypertension, heart failure, atrial fibrillation, type 2 diabetes. He has regained consciousness and is aware of his surroundings. Left facial droop; left arm drifts downward when both arms are raised; slurred speech with difficulty forming words.</p><p><strong>ICU, Day 1, 1400:</strong> Transferred to ICU on continuous cardiac monitoring; CVA care path initiated. Noncontrast CT: ischemic stroke of the right parietal/temporal region. Monitor shows atrial fibrillation, ventricular rate in the 90s. Left-sided weakness. Does not respond to people or objects on his left side and leaves the left side of his gown untied. Has tried twice to climb out of bed, stating, \"I'm fine, I can walk.\" Having trouble managing oral secretions; remains NPO. Work of breathing increasing; nonrebreather mask applied.</p><p><strong>ICU, Hour 36:</strong> Bilateral crackles, louder on the right. Oral secretions pooling; weak cough. 2+ pitting edema of both lower legs. Urine output 15 mL/h for the past 4 hours (was 50 mL/h). Difficult to arouse; oriented to person only. Provider and respiratory therapy called to evaluate the need for mechanical ventilation.</p><p><strong>Day 4, 0700:</strong> Mechanically ventilated since Day 2. During the scheduled sedation vacation he is minimally responsive and grimaces as if in pain. Crackles heard throughout all lung fields. Suctioning pink, frothy sputum through the closed suction system.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "ED 0915",
-         "37.2 °C (99.0 °F)",
-         "91 (irregular)",
-         "24",
-         "182/98",
-         "95% room air"
-        ],
-        [
-         "Day 1, 1400",
-         "37.7 °C (99.9 °F)",
-         "94 (irregular)",
-         "26",
-         "120/76",
-         "88% nonrebreather"
-        ],
-        [
-         "Hour 36",
-         "37.9 °C (100.2 °F)",
-         "104 (irregular)",
-         "30",
-         "134/80",
-         "86% nonrebreather"
-        ],
-        [
-         "Day 4, 0700",
-         "37.8 °C (100.0 °F)",
-         "112 (irregular)",
-         "20 (ventilator)",
-         "258/128",
-         "89% ventilator"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Day 4, 0700 Nurses' Notes and Vital Signs. Which action should the nurse take first?",
+   "hintContent": "Connect the severity of the BP, what very high afterload does to the left ventricle, and which finding shows target-organ damage.",
+   "hintStrategy": "Decide first whether this is severe hypertension alone or a hypertensive emergency; then pick the action that fits an emergency without adding fluid or harming the airway.",
+   "stem": "A client who had an ischemic stroke has been mechanically ventilated for 2 days. At 0700, BP is 258/128 mm Hg and HR is 112/min. During the sedation vacation the client grimaces, crackles are heard throughout both lungs, and the nurse is suctioning pink, frothy sputum. Which action should the nurse take first?",
    "options": [
-    "Resume the sedation infusion and recheck the blood pressure in 1 hour",
-    "Notify the provider immediately of the BP and frothy secretions",
-    "Increase the IV maintenance fluid rate to thin the secretions",
-    "Lower the head of the bed to make suctioning easier"
+    "Document the reading and plan to recheck the BP again in 1 hour",
+    "Notify the provider now of the BP and the pink, frothy sputum",
+    "Increase the IV maintenance rate to help thin the secretions",
+    "Lower the head of the bed flat to make suctioning easier"
    ],
    "answer": 1,
    "optionRationales": [
-    "Waiting an hour delays treatment of a BP of 258/128 with signs of pulmonary edema; sedation does not treat the cause.",
-    "Correct. A severely elevated BP with pink, frothy sputum and crackles throughout indicates a hypertensive crisis with acute pulmonary edema — an emergency that requires prescribed IV therapy the nurse cannot start independently.",
-    "Additional IV fluid increases preload and worsens pulmonary edema in a client with heart failure.",
-    "Lowering the head of the bed increases venous return to the congested lungs and raises aspiration risk; the head of the bed should stay elevated."
+    "Incorrect. BP far above 180/120 with acute pulmonary edema is an emergency; waiting an hour delays treatment while organ damage progresses.",
+    "Correct. BP far above 180/120 with acute pulmonary edema is a hypertensive emergency that needs immediate provider notification and controlled BP lowering.",
+    "Incorrect. Extra IV fluid adds preload to lungs that are already flooded.",
+    "Incorrect. Lying flat increases venous return and worsens pulmonary edema and breathing."
    ],
-   "rationale": "B.E.'s extreme BP greatly increases afterload, and his failing left ventricle cannot eject against it, so pressure backs up into the lungs: crackles throughout and pink, frothy sputum signal acute pulmonary edema. The grimacing suggests pain, which can raise BP further and must also be addressed, but the first action is to notify the provider so that emergency antihypertensive and diuretic therapy can begin, while the nurse keeps the head of the bed elevated and continues suctioning as needed.",
-   "takeaway": "Extreme BP + pink frothy sputum = emergency: notify now, keep the head up, no extra fluid."
+   "rationale": "Severe hypertension becomes a hypertensive emergency when there is acute target-organ damage — here, the lungs. A BP of 258/128 creates an extreme afterload the left ventricle cannot push against, pressure backs up into the pulmonary capillaries, and fluid floods the alveoli (crackles, pink frothy sputum). The nurse notifies the provider immediately, keeps the head of the bed elevated, continues airway support, gives no extra fluid, and treats pain (grimacing drives the sympathetic response that raises BP) with prescribed medications.",
+   "takeaway": "Very high BP + pink frothy sputum = hypertensive emergency: notify now, head up, no extra fluid."
   },
   {
    "id": "m16c-006",
    "type": "mcq",
    "priority": true,
-   "caseId": "m16c-case-acs",
-   "caseOrder": 6,
    "topic": "perfusion-emergencies",
-   "ref": "Module 16 · Perfusion · Case Study B.E. · Part 3 · Evaluating Outcomes",
-   "difficulty": 2,
+   "alsoTests": [
+    "cardiac-output",
+    "blood-pressure"
+   ],
+   "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall how to evaluate outcomes by comparing current data with the client's earlier findings.",
-   "hintStrategy": "Eliminate findings that show improvement, then choose the one that represents a new decline.",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>ED, 0915:</strong> B.E., a 64-year-old man, arrives by ambulance after collapsing at home. His wife states that just before he lost consciousness he seemed confused, reported numbness and tingling in his left arm and double vision, his speech was slurred, and the left side of his face drooped. History: coronary artery disease, hypertension, heart failure, atrial fibrillation, type 2 diabetes. He has regained consciousness and is aware of his surroundings. Left facial droop; left arm drifts downward when both arms are raised; slurred speech with difficulty forming words.</p><p><strong>ICU, Day 1, 1400:</strong> Transferred to ICU on continuous cardiac monitoring; CVA care path initiated. Noncontrast CT: ischemic stroke of the right parietal/temporal region. Monitor shows atrial fibrillation, ventricular rate in the 90s. Left-sided weakness. Does not respond to people or objects on his left side and leaves the left side of his gown untied. Has tried twice to climb out of bed, stating, \"I'm fine, I can walk.\" Having trouble managing oral secretions; remains NPO. Work of breathing increasing; nonrebreather mask applied.</p><p><strong>ICU, Hour 36:</strong> Bilateral crackles, louder on the right. Oral secretions pooling; weak cough. 2+ pitting edema of both lower legs. Urine output 15 mL/h for the past 4 hours (was 50 mL/h). Difficult to arouse; oriented to person only. Provider and respiratory therapy called to evaluate the need for mechanical ventilation.</p><p><strong>Day 4, 0700:</strong> Mechanically ventilated since Day 2. During the scheduled sedation vacation he is minimally responsive and grimaces as if in pain. Crackles heard throughout all lung fields. Suctioning pink, frothy sputum through the closed suction system.</p><p><strong>Day 4, 1100:</strong> Provider notified at 0705. IV antihypertensive infusion, IV diuretic, and IV analgesic started as prescribed; head of bed maintained at 30°. Reassessment during sedation vacation documented below.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "ED 0915",
-         "37.2 °C (99.0 °F)",
-         "91 (irregular)",
-         "24",
-         "182/98",
-         "95% room air"
-        ],
-        [
-         "Day 1, 1400",
-         "37.7 °C (99.9 °F)",
-         "94 (irregular)",
-         "26",
-         "120/76",
-         "88% nonrebreather"
-        ],
-        [
-         "Hour 36",
-         "37.9 °C (100.2 °F)",
-         "104 (irregular)",
-         "30",
-         "134/80",
-         "86% nonrebreather"
-        ],
-        [
-         "Day 4, 0700",
-         "37.8 °C (100.0 °F)",
-         "112 (irregular)",
-         "20 (ventilator)",
-         "258/128",
-         "89% ventilator"
-        ],
-        [
-         "Day 4, 1100",
-         "37.6 °C (99.7 °F)",
-         "92 (irregular)",
-         "18 (ventilator)",
-         "172/94",
-         "95% ventilator"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Day 4 Nurses' Notes and Vital Signs. At 1100 the nurse reassesses B.E. Which finding requires the nurse's most immediate follow-up?",
+   "hintContent": "Connect the goal of gradual BP lowering in a hypertensive emergency with the end-organ signs that show whether perfusion has recovered.",
+   "hintStrategy": "Compare each finding with the client's own earlier values: which ones show improvement, and which one shows an organ still not getting enough blood?",
+   "stem": "Four hours after treatment began for a hypertensive emergency with acute pulmonary edema (BP was 258/128 mm Hg, HR 112/min), the nurse reassesses a mechanically ventilated client. Which finding requires the nurse's most immediate follow-up?",
    "options": [
-    "BP of 172/94 mm Hg, down from 258/128 at 0700",
-    "No eye opening to voice during the sedation vacation",
+    "BP of 172/94 mm Hg, trending steadily down since treatment began",
     "Suctioned secretions thin and white, with no pink froth",
-    "Crackles now heard only in the bases of the lungs"
+    "Heart rate of 92/min, down from 112/min at the start",
+    "Urine output of 10 mL/h for each of the past 2 hours"
    ],
-   "answer": 1,
+   "answer": 3,
    "optionRationales": [
-    "Incorrect. The BP is being lowered in a controlled way and shows a response to the antihypertensive infusion.",
-    "Correct. He opened his eyes to voice yesterday, so this is a new decline in level of consciousness — a neurologic change that needs immediate follow-up in a client after stroke.",
-    "Incorrect. Loss of pink, frothy secretions shows the pulmonary edema is improving.",
-    "Incorrect. Crackles limited to the bases show improvement from crackles throughout all lung fields."
+    "Incorrect. In a hypertensive emergency BP is lowered gradually; a steady downward trend is the intended response, not a problem.",
+    "Incorrect. Loss of pink, frothy secretions shows the pulmonary edema is resolving.",
+    "Incorrect. A slowing heart rate shows reduced sympathetic stress and better cardiac function.",
+    "Correct. Urine output well under 30 mL/h signals poor kidney perfusion — continuing target-organ damage or low cardiac output — and must be reported."
    ],
-   "rationale": "Evaluate each finding against B.E.'s earlier status. BP, urine output, secretions, and lung sounds all show a response to treatment of the hypertensive crisis and pulmonary edema. A decreased level of consciousness compared with the previous day is a new neurologic change that requires immediate follow-up. Behavioral pain cues in a ventilated client also require further pain management.",
-   "takeaway": "Evaluate by comparing with the previous status: improving numbers are good; a new drop in LOC after stroke needs action."
+   "rationale": "Outcomes are judged against the client's own trend. A BP coming down gradually, clearing secretions, and a slower heart rate all show improvement; dropping BP too fast would be dangerous, so 172/94 trending down is expected. The kidneys are a target organ in hypertensive emergency and also a key bedside indicator of cardiac output: urine output persistently below about 30 mL/h means the kidneys are still underperfused and needs immediate follow-up.",
+   "takeaway": "After a hypertensive emergency, a slowly falling BP is good news; low urine output means an organ is still in trouble."
   },
   {
    "id": "m16c-009",
    "type": "sata",
    "topic": "lifespan",
-   "ref": "Module 16 · Perfusion · Lifespan Considerations · Older Adults",
+   "alsoTests": [
+    "cardiac-output",
+    "blood-pressure"
+   ],
+   "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
    "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall how cardiac problems often present in older adults when chest pain is absent.",
-   "hintStrategy": "Compare each finding with the client's baseline and ask whether it is new or chronic.",
+   "hintContent": "Connect atypical cardiac presentation in older adults with end-organ signs of low cardiac output and the idea of comparing BP to the client's baseline.",
+   "hintStrategy": "For each finding ask: is it new or chronic, and does it reflect reduced blood flow to the brain, skin, or circulation compared with this client's usual values?",
    "stem": "An 84-year-old client with hypertension and coronary artery disease is brought from an assisted-living facility. Staff report the client has been more tired than usual for 2 days. The client denies chest pain; HR is 88/min and temperature 36.7 °C (98.1 °F). Which findings could indicate an acute cardiac problem and require follow-up? Select all that apply.",
    "options": [
     "Fell twice this week",
@@ -511,28 +265,32 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Falls are a common atypical presentation of a cardiac problem in older adults.",
+    "Correct. Falls are a common atypical presentation of a cardiac problem in older adults and can reflect reduced cerebral perfusion.",
     "Incorrect. A chronic, unchanged finding does not require acute follow-up.",
-    "Correct. New confusion can reflect decreased cerebral perfusion and is a common atypical cardiac sign in older adults.",
+    "Correct. New confusion can reflect decreased cerebral perfusion from low cardiac output and is a common atypical cardiac sign in older adults.",
     "Incorrect. This oxygen saturation is within normal limits.",
-    "Correct. Cool, clammy skin suggests vasoconstriction from decreased cardiac output.",
-    "Correct. A BP in the adult 'normal' range is still hypotension for a client whose baseline is 148/86."
+    "Correct. Cool, clammy skin suggests compensatory vasoconstriction from decreased cardiac output.",
+    "Correct. A BP in the adult \"normal\" range is still hypotension for a client whose baseline is 148/86."
    ],
-   "rationale": "Older adults often present with atypical signs of cardiac problems: fatigue, decreased activity, falls, agitation, or confusion instead of chest pain. A BP within the adult 'normal' range can still represent hypotension for a client whose baseline is 148/86. Chronic, unchanged findings and normal values do not require acute follow-up.",
-   "takeaway": "Older adults: falls, fatigue, and new confusion may be the only signs of a cardiac problem; compare BP with baseline."
+   "rationale": "Older adults have a decreased ability to adapt to cardiovascular stress and often present with atypical signs — fatigue, falls, agitation, or new confusion — instead of chest pain. These findings, together with cool, clammy skin, are the \"brain and skin\" end-organ signs of reduced cardiac output. A BP of 106/64 looks normal but is a large drop from this client's baseline of 148/86. Chronic, unchanged findings and normal values do not need acute follow-up.",
+   "takeaway": "Older adults: falls, fatigue, and new confusion may be the heart talking; judge BP against the client's own baseline."
   },
   {
    "id": "m16c-011",
    "type": "sata",
    "topic": "peripheral-assessment",
-   "ref": "Module 16 · Perfusion · Nursing Assessment · Inspection & Palpation",
+   "alsoTests": [
+    "cardiac-anatomy",
+    "heart-sounds"
+   ],
+   "ref": "Module 16 · Perfusion · Pulse, Peripheral & Cardiovascular Assessment",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall the expected findings of a normal cardiovascular inspection and palpation.",
-   "hintStrategy": "Compare each finding with the normal standard; select the ones that deviate.",
-   "stem": "The nurse performs a cardiovascular inspection and palpation on a 58-year-old client at a wellness visit. Which findings deviate from expected and require follow-up? Select all that apply.",
+   "hintContent": "Connect the expected inspection findings with what the jugular veins show about the right heart and what the apical impulse normally feels like.",
+   "hintStrategy": "Compare each finding with the normal standard for a cardiovascular exam; for the neck veins and chest wall, think about which side of the heart or which structure the finding reflects.",
+   "stem": "The nurse performs a cardiovascular inspection and palpation on a 58-year-old client with hypertension at a wellness visit. Which findings deviate from expected and require follow-up? Select all that apply.",
    "options": [
     "Even, homogeneous skin color",
     "A diagonal crease in each earlobe",
@@ -548,118 +306,133 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Incorrect. Even skin color is an expected finding.",
+    "Incorrect. Even, homogeneous skin color is an expected finding.",
     "Correct. Diagonal earlobe creases deviate from expected and have been associated with coronary artery disease.",
-    "Correct. Jugular veins should be flat at 45°; distention suggests elevated venous pressure.",
-    "Incorrect. A slight vibration at the apex is expected.",
+    "Correct. Jugular veins drain into the right heart and should be flat at 45°; distention suggests the right side is not keeping up (increased venous pressure).",
+    "Incorrect. A slight vibration at the apex — the PMI at the 5th ICS, midclavicular line — is expected.",
     "Correct. Visible precordial pulsations are not expected and may indicate cardiac enlargement.",
     "Correct. Bluish (cyanotic) nail beds indicate poor oxygenation or perfusion; nail beds should be pink."
    ],
-   "rationale": "The cardiovascular examination follows inspection, palpation, percussion, and auscultation, comparing findings with expected norms: even skin color, pink lips, flat earlobes without creases, flat jugular veins, symmetric carotid pulses, no visible precordial pulsations, a slight apical vibration, pink nail beds, and warm, evenly colored legs with symmetric hair. Earlobe creases, jugular vein distention, visible precordial pulsations, and cyanosis deviate from expected and need follow-up.",
-   "takeaway": "Abnormal CV inspection: earlobe crease, JVD at 45°, visible precordial pulsations, cyanosis."
+   "rationale": "Expected findings include even skin color, pink lips and nail beds, flat earlobes, flat jugular veins at 30–45°, no visible precordial pulsations, and a slight apical vibration (the PMI, where the left ventricular apex taps the chest wall). Because the jugular veins empty into the right atrium, visible distention means blood is backing up from the right heart. Earlobe creases (linked with coronary artery disease), JVD, precordial pulsations, and cyanosis need follow-up.",
+   "takeaway": "Abnormal CV inspection: earlobe crease, JVD at 45° (right heart backup), visible precordial pulsations, cyanosis."
   },
   {
    "id": "m16c-012",
    "type": "mcq",
    "priority": false,
    "topic": "cardiac-anatomy",
-   "ref": "Module 16 · Perfusion · Cardiac Anatomy · Coronary Circulation",
+   "alsoTests": [
+    "diagnostics",
+    "cardiac-output"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Anatomy & Circulation",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the major coronary arteries and which branches arise from the left versus the right system.",
-   "hintStrategy": "Eliminate any option that includes a branch of the right coronary system.",
-   "stem": "A client's cardiac catheterization with coronary angiography shows a severe narrowing of the left main coronary artery. The client asks why this one blockage is considered so serious. The nurse's response is based on the knowledge that the left main coronary artery gives rise to which vessels?",
+   "hintContent": "Connect what coronary angiography shows, which branches arise from the left main coronary artery, and which chamber's contractility depends on them.",
+   "hintStrategy": "Name the two branches of the left main first, then decide which chamber they feed and what losing that chamber's squeeze would do to cardiac output.",
+   "stem": "Coronary angiography during a cardiac catheterization shows severe narrowing of a client's left main coronary artery. The client asks why this one blockage is considered so serious. Which response by the nurse is accurate?",
    "options": [
-    "The right coronary and posterior descending arteries",
-    "The posterior descending and circumflex arteries",
-    "The right coronary and left anterior descending arteries",
-    "The left anterior descending and circumflex arteries"
+    "\"It feeds the right coronary artery, which supplies the right ventricle.\"",
+    "\"Its two branches supply much of your left ventricle, your main pump.\"",
+    "\"It carries blood into the right ventricle, which pumps to the whole body.\"",
+    "\"Its posterior descending branch fills only while the heart is squeezing.\""
    ],
-   "answer": 3,
+   "answer": 1,
    "optionRationales": [
-    "The right coronary artery arises separately from the aorta, and the posterior descending artery branches from the right coronary artery.",
-    "The circumflex arises from the left main artery, but the posterior descending artery branches from the right coronary artery.",
-    "The right coronary artery is a separate vessel; it does not arise from the left main artery.",
-    "Correct. The left main coronary artery divides into the left anterior descending and circumflex arteries, which together supply much of the left ventricle."
+    "Incorrect. The right coronary artery is a separate vessel; it does not arise from the left main.",
+    "Correct. The left main branches into the left anterior descending and circumflex arteries, which feed much of the left ventricle; ischemia there can weaken contractility and cardiac output.",
+    "Incorrect. Coronary arteries feed heart muscle, not the chambers, and the left ventricle — not the right — pumps to the body.",
+    "Incorrect. The posterior descending artery comes from the right coronary artery, and coronary arteries fill mainly during diastole."
    ],
-   "rationale": "Coronary circulation supplies the heart muscle itself. The left main coronary artery branches into the left anterior descending and circumflex arteries, so a blockage before this split threatens blood flow to a large portion of the left ventricle, the chamber that pumps blood into the systemic circulation. The right coronary artery arises separately and gives off the posterior descending artery.",
-   "takeaway": "Left main → LAD + circumflex; right coronary → posterior descending."
+   "rationale": "Coronary angiography uses contrast dye to outline the coronary arteries and show blockages. The left main coronary artery divides into the left anterior descending and circumflex arteries, which together supply much of the left ventricle — the chamber that pumps blood to the whole body. A severe left main blockage threatens the contractility of the main pump and therefore cardiac output. The right coronary artery gives rise to the posterior descending artery, and coronary filling occurs mainly in diastole.",
+   "takeaway": "Left main → LAD + circumflex → much of the left ventricle; blockage threatens the main pump."
   },
   {
    "id": "m16c-014",
    "type": "mcq",
    "priority": false,
    "topic": "cardiac-anatomy",
-   "ref": "Module 16 · Perfusion · Cardiac Anatomy · Pulmonary Circulation",
-   "difficulty": 1,
+   "alsoTests": [
+    "heart-sounds"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Anatomy & Circulation",
+   "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall which valves belong to the right side of the heart and which are AV versus semilunar valves.",
-   "hintStrategy": "Eliminate any sequence that uses left-sided structures or runs backward.",
-   "stem": "A nursing student asks the nurse how deoxygenated blood returning from the body reaches the lungs. After blood enters the right atrium, which sequence describes its path to the pulmonary artery?",
+   "hintContent": "Connect the order of chambers and valves on the right side of the heart with which valve closures make S1 and which make S2.",
+   "hintStrategy": "Trace the path first (\"Try Pulling My Aorta\"), then classify the first valve on the path as an AV or a semilunar valve.",
+   "stem": "A nursing student asks how oxygen-poor blood that enters the right atrium reaches the pulmonary artery, and which heart sound the first valve on that path helps produce when it closes. Which response by the nurse is accurate?",
    "options": [
-    "Mitral valve → right ventricle → aortic valve",
-    "Pulmonic valve → right ventricle → tricuspid valve",
-    "Tricuspid valve → left ventricle → pulmonic valve",
-    "Tricuspid valve → right ventricle → pulmonic valve"
+    "Mitral valve → left ventricle → aortic valve; the mitral valve helps produce S1",
+    "Pulmonic valve → right ventricle → tricuspid valve; the pulmonic valve helps produce S1",
+    "Tricuspid valve → right ventricle → pulmonic valve; the tricuspid valve helps produce S2",
+    "Tricuspid valve → right ventricle → pulmonic valve; the tricuspid valve helps produce S1"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. The mitral and aortic valves are on the left side of the heart, which handles oxygenated blood.",
-    "Incorrect. This reverses the direction of flow; blood passes the tricuspid valve before the pulmonic valve.",
-    "Incorrect. The tricuspid valve opens into the right ventricle, not the left ventricle.",
-    "Correct. Blood flows from the right atrium through the tricuspid valve into the right ventricle and out the pulmonic valve into the pulmonary artery."
+    "Incorrect. The mitral valve, left ventricle, and aortic valve are on the left (systemic) side of the heart.",
+    "Incorrect. The order is reversed; blood passes the tricuspid valve before the pulmonic valve, and pulmonic closure contributes to S2.",
+    "Incorrect. The path is right, but the tricuspid is an AV valve, whose closure produces S1, not S2.",
+    "Correct. Blood flows RA → tricuspid → RV → pulmonic valve → pulmonary artery; closure of the AV (tricuspid and mitral) valves produces S1."
    ],
-   "rationale": "Deoxygenated blood from the systemic veins returns through the superior and inferior venae cavae to the right atrium, passes through the tricuspid (right AV) valve into the right ventricle, and is ejected through the pulmonic (semilunar) valve into the pulmonary artery and on to the pulmonary capillaries for gas exchange. Oxygenated blood then returns through the pulmonary veins to the left side of the heart for the systemic circulation.",
-   "takeaway": "Right heart: venae cavae → RA → tricuspid → RV → pulmonic valve → pulmonary artery → lungs."
+   "rationale": "Oxygen-poor blood returns through the venae cavae to the right atrium, passes the tricuspid valve into the right ventricle, and is pumped through the pulmonic valve into the pulmonary artery. The tricuspid is an atrioventricular valve; closure of the AV valves (tricuspid and mitral) at the start of systole produces S1, and closure of the semilunar valves (pulmonic and aortic) at the start of diastole produces S2.",
+   "takeaway": "RA → tricuspid → RV → pulmonic → pulmonary artery; AV valves close = S1, semilunar close = S2."
   },
   {
    "id": "m16c-015",
    "type": "mcq",
-   "priority": false,
+   "priority": true,
    "topic": "cardiac-anatomy",
-   "ref": "Module 16 · Perfusion · Cardiac Anatomy · Pericardium & Heart Wall Layers",
-   "difficulty": 1,
-   "cjmm": "Analyze Cues",
-   "focus": "Client Teaching",
+   "alsoTests": [
+    "diagnostics",
+    "cardiac-output"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Anatomy & Circulation",
+   "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall the two layers of the pericardium, the space between them, and the three layers of the heart wall.",
-   "hintStrategy": "Separate the pericardial sac from the heart wall layers and chambers; only one option names a space outside the heart muscle.",
-   "stem": "A client is scheduled for a pericardiocentesis to remove fluid from around the heart for analysis. The client asks exactly where the fluid is located. Which response by the nurse is accurate?",
+   "hintContent": "Connect where pericardial fluid collects, why the snug pericardium matters when fluid accumulates, and how filling affects stroke volume and BP.",
+   "hintStrategy": "Ask what would happen to ventricular filling if fluid built up again in the sac, then look for the finding that shows that effect on the circulation.",
+   "stem": "A client had fluid removed from the pericardial cavity by pericardiocentesis 2 hours ago. Which finding requires the nurse's immediate follow-up?",
    "options": [
-    "In the pericardial cavity, between the parietal and visceral layers",
-    "Inside the myocardium, the thick muscular middle layer of the heart wall",
-    "Beneath the endocardium, the smooth lining of the heart chambers",
-    "Inside the left ventricle, where blood collects before being pumped"
+    "BP 94/66 mm Hg (was 118/72) with HR 118/min (was 88/min)",
+    "Mild soreness at the needle insertion site, rated 2/10 on the pain scale",
+    "Clear, equal S1 and S2 heard at Erb's point without any murmur present",
+    "Respiratory rate 18/min with an SpO₂ of 97% while breathing room air"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Pericardiocentesis removes fluid from the pericardial cavity, the space between the parietal and visceral layers of the pericardium.",
-    "The myocardium is the contractile muscle layer; fluid does not collect within it.",
-    "The endocardium lines the chambers; fluid does not collect beneath it.",
-    "A needle in the ventricle would withdraw blood, a serious complication, not pericardial fluid."
+    "Correct. A falling BP with a rising heart rate suggests fluid is building up again in the snug pericardial sac, squeezing the heart so it cannot fill.",
+    "Incorrect. Mild site soreness is expected after a needle procedure.",
+    "Incorrect. Equal S1 and S2 at Erb's point without murmurs is a normal finding.",
+    "Incorrect. These respiratory values are within normal limits."
    ],
-   "rationale": "The pericardium is a double-layered fibroserous sac. Between its parietal (outer) and visceral (inner) layers is the pericardial cavity, which normally contains a small amount of serous fluid that cushions the heart as it contracts. Because the sac fits snugly and prevents overfilling, excess fluid in this space can limit filling of the heart. The heart wall itself has three layers: epicardium (outer), myocardium (muscle), and endocardium (inner lining).",
-   "takeaway": "Pericardial fluid lives between the parietal and visceral layers — the pericardial cavity."
+   "rationale": "Pericardial fluid collects in the pericardial cavity, between the parietal and visceral layers. Because the pericardium fits snugly, fluid that builds up again compresses the heart and keeps the ventricles from filling. Less filling means less preload and stroke volume, so cardiac output and BP fall, and the heart rate rises to compensate. After pericardiocentesis the nurse monitors the ECG, BP, and heart sounds and immediately reports a falling BP with a rising heart rate as a sign that fluid may be reaccumulating.",
+   "takeaway": "After pericardiocentesis: falling BP + rising HR = fluid reaccumulating and blocking filling — report now."
   },
   {
    "id": "m16c-016",
    "type": "mcq",
    "priority": false,
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Alterations to Perfusion · Acid–Base Imbalance",
+   "alsoTests": [
+    "cardiac-anatomy",
+    "peripheral-assessment"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
    "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall how acidosis affects the pulmonary blood vessels and which ventricle pumps against them.",
-   "hintStrategy": "Match the congestion pattern (systemic veins vs. lungs) to the failing side of the heart.",
+   "hintContent": "Connect how acidosis affects the lung vessels, which ventricle pumps against them, and which assessment findings show blood backing up into the systemic veins.",
+   "hintStrategy": "Decide which circulation (lungs or body) the findings show congestion in, then match that pattern to the ventricle that feeds that circulation.",
    "stem": "A 67-year-old client with chronic respiratory acidosis from long-standing lung disease has new jugular vein distention and 2+ pitting edema of both ankles. Lungs have scattered wheezes and no crackles. Which explanation best accounts for these findings?",
    "options": [
-    "Left ventricular failure from fluid backing into the lungs",
+    "Left ventricular failure with fluid backing up into the lungs",
     "Right ventricular failure from pulmonary vasoconstriction",
     "Hypovolemia from acidosis-induced systemic vasodilation",
     "Pericardial effusion from acidosis-induced coronary spasm"
@@ -667,82 +440,93 @@ window.NURSE_DATA.push({
    "answer": 1,
    "optionRationales": [
     "Incorrect. Left ventricular failure produces pulmonary congestion with crackles, which this client does not have.",
-    "Correct. Acidosis causes pulmonary vasoconstriction, raising right ventricular afterload until the right ventricle fails and blood backs up into systemic veins.",
-    "Incorrect. Jugular vein distention and edema show venous congestion, the opposite of hypovolemia.",
-    "Incorrect. Acidosis does not cause pericardial effusion; the findings are explained by right ventricular failure."
+    "Correct. Acidosis constricts the pulmonary vessels, raising right ventricular afterload until the right ventricle fails and blood backs up into the jugular and leg veins.",
+    "Incorrect. Distended neck veins and edema show venous congestion, the opposite of hypovolemia (which flattens the neck veins).",
+    "Incorrect. Acidosis is not described as causing pericardial effusion; right ventricular failure explains the findings."
    ],
-   "rationale": "Perfusion alterations often coexist with acid–base alterations. Acidosis (respiratory or metabolic) causes pulmonary vasoconstriction, which raises pulmonary vascular pressures — the afterload of the right ventricle. Over time the right ventricle fails, and blood backs up into the systemic veins, producing jugular vein distention and peripheral edema. Clear lungs without crackles argue against left ventricular failure, and the findings of venous congestion argue against hypovolemia.",
+   "rationale": "Acidosis (respiratory or metabolic) causes pulmonary vasoconstriction, which raises pulmonary vascular pressure — the afterload of the right ventricle. Over time the right ventricle fails, and blood backs up into the systemic veins that drain into the right heart: the jugular veins distend at 30–45° and dependent edema develops. Clear lungs without crackles argue against left ventricular failure, and distended neck veins argue against hypovolemia.",
    "takeaway": "Acidosis → pulmonary vasoconstriction → ↑ RV afterload → right-sided failure (JVD, edema)."
   },
   {
    "id": "m16c-017",
    "type": "mcq",
-   "priority": false,
+   "priority": true,
    "topic": "cardiac-anatomy",
-   "ref": "Module 16 · Perfusion · Coronary Circulation · Systole and Diastole",
-   "difficulty": 2,
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall during which phase of the cardiac cycle the coronary arteries receive most of their blood flow.",
-   "hintStrategy": "Look for the option that explains both why the pain started with the fast rate AND why it stopped when the rate slowed.",
-   "stem": "During an exercise stress test, a 58-year-old client with coronary artery disease reaches a heart rate of 150/min and reports chest tightness, which resolves within minutes of resting as the rate slows to 84/min. The client asks why a fast heartbeat caused chest pain. Which explanation by the nurse is accurate?",
+   "alsoTests": [
+    "diagnostics",
+    "cardiac-output"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Anatomy & Circulation",
+   "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Connect when the coronary arteries fill, what a fast heart rate does to that filling time, and the stop criteria for a stress test.",
+   "hintStrategy": "Decide whether the chest tightness is an expected response to effort or a sign the heart muscle is not getting enough oxygen, then choose the action that removes the demand.",
+   "stem": "During an exercise stress test, a 58-year-old client with coronary artery disease reaches a heart rate of 150/min and reports new chest tightness. Which action should the nurse take first?",
    "options": [
-    "The rapid rate kept the aortic valve closed while the heart contracted.",
-    "The upper chambers contracted so hard that they squeezed the heart's arteries.",
-    "The heart's own arteries fill between beats, so a fast rate left less time to fill.",
-    "The fast rate increased the amount of blood pumped with each beat and overstretched the heart muscle."
+    "Encourage the client to keep walking until the target rate is reached",
+    "Stop the test and report the chest tightness",
+    "Reassure the client that tightness is expected at this heart rate",
+    "Increase the treadmill incline slightly to confirm the finding"
    ],
-   "answer": 2,
+   "answer": 1,
    "optionRationales": [
-    "The aortic valve opens with each ventricular contraction regardless of rate.",
-    "Atrial contraction does not compress the coronary arteries.",
-    "Correct. Coronary arteries fill mainly during diastole; tachycardia shortens diastole while raising oxygen demand, causing ischemia.",
-    "Very rapid rates decrease, not increase, stroke volume because ventricular filling time is shortened."
+    "Incorrect. Continuing increases myocardial oxygen demand while coronary filling time stays short, worsening ischemia.",
+    "Correct. Chest pain during a stress test is a stop criterion; ending the workload slows the rate, lengthens diastole, and restores coronary filling.",
+    "Incorrect. Chest pain signals that coronary flow is not meeting demand; it is not an expected finding to dismiss.",
+    "Incorrect. Adding workload further raises oxygen demand and is unsafe."
    ],
-   "rationale": "The coronary arteries arise from the aortic root and are perfused mainly during diastole, when the myocardium is relaxed. A fast heart rate shortens diastole (reducing supply) while increasing myocardial work and oxygen demand. In a client with narrowed coronary arteries, this mismatch produces chest pain, which resolves when the rate slows — the reason exercise stress testing can reveal coronary artery disease.",
-   "takeaway": "Coronaries fill in diastole — fast rates starve the heart muscle."
+   "rationale": "Coronary arteries fill mainly during diastole. A fast heart rate shortens diastole, so narrowed coronaries deliver less oxygen at exactly the time the working heart needs more — the basis of a stress test, which uncovers problems that appear only under demand. Chest pain, severe shortness of breath, dizziness, a dysrhythmia, or a drop in BP are reasons to stop the test and report. Once the rate slows, filling time returns and the pain usually eases.",
+   "takeaway": "Chest pain during a stress test: stop and report — a fast heart shortens diastole and starves narrowed coronaries."
   },
   {
    "id": "m16c-019",
    "type": "mcq",
    "priority": false,
    "topic": "heart-sounds",
-   "ref": "Module 16 · Perfusion · Nursing Assessment · Auscultation Sites (Erb's Point)",
-   "difficulty": 1,
+   "alsoTests": [
+    "peripheral-assessment"
+   ],
+   "ref": "Module 16 · Perfusion · Heart Sounds & Cardiac Auscultation",
+   "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall the five auscultation areas (aortic, pulmonic, Erb's point, tricuspid, mitral) and their landmarks.",
-   "hintStrategy": "Picture the sequence moving down and to the left from the upper right sternal border; count the intercostal spaces carefully.",
-   "stem": "The nurse is performing a cardiovascular assessment and wants to listen to S1 and S2 at Erb's point. Where should the nurse place the stethoscope?",
+   "hintContent": "Connect the five auscultation areas with the landmarks used to count the apical pulse.",
+   "hintStrategy": "Locate each site by counting intercostal spaces and naming the reference line (sternal border or midclavicular line); check both halves of each option.",
+   "stem": "Before giving a medication that slows the heart rate, the nurse wants to compare S1 and S2 at Erb's point and then count the apical pulse. Where should the nurse place the stethoscope for each assessment?",
    "options": [
-    "Second intercostal space, right sternal border",
-    "Second intercostal space, left sternal border",
-    "Fifth intercostal space, left midclavicular line",
-    "Third intercostal space, left sternal border"
+    "2nd ICS, right sternal border; then 5th ICS, left midclavicular line",
+    "3rd ICS, left sternal border; then 4th ICS, left lower sternal border",
+    "2nd ICS, left sternal border; then 6th ICS, left anterior axillary line",
+    "3rd ICS, left sternal border; then 5th ICS, left midclavicular line"
    ],
    "answer": 3,
    "optionRationales": [
-    "This is the aortic area, the first site in the auscultation sequence.",
-    "This is the pulmonic area.",
-    "This is the mitral (apical) area, where the apical pulse is counted.",
-    "Correct. Erb's point is the third intercostal space at the left sternal border, where S1 and S2 are both heard clearly."
+    "Incorrect. The 2nd ICS at the right sternal border is the aortic area, not Erb's point.",
+    "Incorrect. Erb's point is correct, but the 4th ICS at the left lower sternal border is the tricuspid area, not the apex.",
+    "Incorrect. The 2nd ICS left sternal border is the pulmonic area, and the 6th ICS anterior axillary line is a displaced (abnormal) apex location.",
+    "Correct. Erb's point is the 3rd ICS at the left sternal border, where S1 and S2 are about equal; the apical pulse is counted at the 5th ICS, left midclavicular line."
    ],
-   "rationale": "The nurse auscultates in a systematic pattern: aortic (2nd ICS, right sternal border), pulmonic (2nd ICS, left sternal border), Erb's point (3rd ICS, left sternal border), tricuspid (4th–5th ICS, left lower sternal border), and mitral (5th ICS, left midclavicular line). At Erb's point, S1 and S2 are normally equal and audible.",
-   "takeaway": "Erb's point = 3rd ICS, left sternal border."
+   "rationale": "The auscultation areas are aortic (2nd ICS RSB), pulmonic (2nd ICS LSB), Erb's point (3rd ICS LSB), tricuspid (4th–5th ICS LSB), and mitral/apex (5th ICS, left midclavicular line). S1 and S2 are heard about equally at Erb's point. The apical pulse, required before medications that affect heart rate, is counted at the apex for a full minute.",
+   "takeaway": "Erb's point = 3rd ICS LSB; apical pulse = 5th ICS, left MCL."
   },
   {
    "id": "m16c-020",
    "type": "sata",
    "topic": "heart-sounds",
-   "ref": "Module 16 · Perfusion · Heart Sounds · Across the Lifespan",
-   "difficulty": 2,
+   "alsoTests": [
+    "lifespan",
+    "perfusion-emergencies"
+   ],
+   "ref": "Module 16 · Perfusion · Heart Sounds & Cardiac Auscultation",
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall which clients may normally have an S3 or S4 and when a murmur is innocent.",
-   "hintStrategy": "For each client, ask whether the sound fits their age and condition and whether symptoms accompany it.",
+   "hintContent": "Connect which extra sounds can be normal at each life stage with the signs of fluid overload in heart failure and of disrupted flow out of the heart.",
+   "hintStrategy": "For each client, ask whether the sound fits their age or condition and whether new symptoms accompany it; select only the sound-plus-symptom combinations.",
    "stem": "The nurse is reviewing auscultation findings for several clients. Which findings require follow-up? Select all that apply.",
    "options": [
     "A 22-year-old: S2 splits into two sounds during inspiration and becomes single on expiration",
@@ -772,13 +556,14 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": false,
    "topic": "heart-sounds",
-   "ref": "Module 16 · Perfusion · Heart Sounds · S1 and S2",
+   "alsoTests": [],
+   "ref": "Module 16 · Perfusion · Heart Sounds & Cardiac Auscultation",
    "difficulty": 1,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall which valves close to produce S1 and S2 and which phase of the cycle each begins.",
-   "hintStrategy": "Check both the sound and the valves named in each option; both must be correct.",
+   "hintContent": "Recall which valves close to make each heart sound and which phase of the cardiac cycle each sound begins.",
+   "hintStrategy": "The carotid pulse happens as the ventricles eject; decide which valves must already be closed when ejection begins.",
    "stem": "The nurse is auscultating a client whose heart rate is 104/min and finds it difficult to tell S1 from S2. The nurse palpates the carotid pulse while listening. Which statement about the heart sound that occurs with the carotid pulse is accurate?",
    "options": [
     "It is S2, from closure of the aortic and pulmonic valves at the start of diastole",
@@ -801,42 +586,49 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": false,
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Cardiac Output · Compensation",
-   "difficulty": 2,
+   "alsoTests": [
+    "blood-pressure"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the formula for cardiac output and how the sympathetic nervous system responds to low blood volume.",
-   "hintStrategy": "Eliminate options that get the direction of change wrong (stretch, BP). Choose the explanation that connects blood loss to the heart rate through cardiac output.",
-   "stem": "A client admitted with black, tarry stools has HR 124/min, BP 96/64 mm Hg, and cool extremities. The client asks, \"Why is my heart racing?\" Which response by the nurse best explains the physiology?",
+   "hintContent": "Connect blood loss to preload and stroke volume, the heart-rate reflex that defends cardiac output, and what compensatory vasoconstriction does to the pulse pressure.",
+   "hintStrategy": "Calculate the pulse pressure first, then follow the chain from lost volume to each vital sign; reject options that reverse the direction of preload or afterload.",
+   "stem": "A client admitted with black, tarry stools has HR 124/min, BP 98/80 mm Hg, and cool, pale extremities. Which explanation best accounts for these findings?",
    "options": [
-    "\"Each heartbeat is pumping less blood, so your heart beats faster to keep blood flowing to your organs.\"",
-    "\"The blood loss has made your heart muscle stretch more, which makes it beat faster.\"",
-    "\"The bleeding has irritated your heart's natural pacemaker, so it is firing too often.\"",
-    "\"Your heart is speeding up on purpose to lower your blood pressure and slow down the bleeding from your bowel.\""
+    "Blood loss lowered preload and stroke volume, triggering tachycardia and vasoconstriction",
+    "Blood loss raised preload, overstretching the ventricle and speeding up the SA node",
+    "Bleeding dilated the blood vessels, lowering afterload and widening the pulse pressure",
+    "Bleeding irritated the SA node, and the faster rate is increasing each stroke volume pumped"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Blood loss reduces venous return (preload) and stroke volume; baroreceptors trigger sympathetic stimulation that raises heart rate to maintain cardiac output (CO = HR × SV).",
-    "Blood loss decreases, not increases, ventricular stretch (preload).",
-    "The SA node is responding appropriately to sympathetic stimulation, not being irritated by bleeding.",
-    "Compensatory tachycardia aims to maintain, not lower, blood pressure and perfusion."
+    "Correct. Less returning volume means less preload and stroke volume; baroreceptors trigger tachycardia and vasoconstriction (cool skin), which holds the diastolic up while systolic falls — a pulse pressure of only 18 mm Hg.",
+    "Incorrect. Bleeding decreases, not increases, preload.",
+    "Incorrect. Cool, pale skin shows vasoconstriction, and the pulse pressure (18 mm Hg) is narrowed, not widened.",
+    "Incorrect. The tachycardia is a compensatory reflex, and a very fast rate shortens filling time rather than raising stroke volume."
    ],
-   "rationale": "Cardiac output equals heart rate times stroke volume. With hemorrhage, falling preload lowers stroke volume; the sympathetic nervous system increases heart rate and constricts peripheral vessels (cool extremities) to maintain CO and BP. Tachycardia is often the earliest sign of hypovolemia.",
-   "takeaway": "↓ Stroke volume → ↑ heart rate: tachycardia is the body defending cardiac output."
+   "rationale": "Black, tarry stools suggest GI bleeding. Blood loss reduces venous return (preload), so each beat ejects less blood. Baroreceptors sense the falling pressure and trigger the sympathetic response: the heart speeds up to protect cardiac output and the skin vessels constrict (cool, pale extremities). Vasoconstriction keeps the diastolic up while the systolic falls, so the pulse pressure narrows (98 − 80 = 18 mm Hg) — an early sign of volume loss even before severe hypotension.",
+   "takeaway": "Bleeding → ↓ preload → ↓ SV → tachycardia + vasoconstriction → narrow pulse pressure."
   },
   {
    "id": "m16c-024",
    "type": "sata",
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Cardiac Output · Afterload & Peripheral Vascular Resistance",
+   "alsoTests": [
+    "blood-pressure",
+    "lifespan"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
    "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the definition of afterload and the factors that increase peripheral vascular resistance.",
+   "hintContent": "Connect the determinants of peripheral vascular resistance (a BP determinant) with afterload, including the vascular changes of aging.",
    "hintStrategy": "Sort each option: does it change the RESISTANCE the ventricle pumps against (afterload) or the VOLUME returning to it (preload)?",
-   "stem": "The nurse is caring for a client with heart failure. Knowing that a higher afterload increases myocardial oxygen consumption, the nurse recognizes that which factors increase afterload? Select all that apply.",
+   "stem": "The nurse is caring for a 74-year-old client with heart failure. Knowing that a higher afterload increases myocardial oxygen consumption, the nurse recognizes that which factors increase this client's afterload? Select all that apply.",
    "options": [
     "Long-standing hypertension with constricted arterioles",
     "Loss of arterial elasticity with aging",
@@ -858,21 +650,25 @@ window.NURSE_DATA.push({
     "Incorrect. Dehydration reduces blood volume and venous return, lowering preload.",
     "Incorrect. Increasing venous return affects preload, not the resistance to ejection."
    ],
-   "rationale": "Afterload is the force the ventricles must overcome to eject blood and is affected by vascular tone. Peripheral vascular resistance increases with narrowed arterioles, loss of arterial compliance, and increased blood viscosity. As afterload rises, the heart works harder and consumes more oxygen — a vicious cycle for a failing heart. Volume changes and venous return affect preload, and vasodilation lowers afterload.",
-   "takeaway": "Afterload rises with constricted, stiff vessels and thick blood."
+   "rationale": "Afterload is the force the ventricles must overcome to eject blood and depends on vascular tone — the same peripheral vascular resistance that helps determine BP. Resistance rises with narrowed arterioles, loss of arterial compliance (the \"hardening\" of aging, with thickened intimal and medial layers), and increased blood viscosity. As afterload rises, the heart works harder and consumes more oxygen — a vicious cycle for a failing heart. Volume changes and venous return affect preload, and vasodilation lowers afterload.",
+   "takeaway": "Afterload rises with constricted, stiff (aging) vessels and thick blood — the same factors that raise PVR and BP."
   },
   {
    "id": "m16c-025",
    "type": "mcq",
    "priority": true,
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Cardiac Output · Heart Rate & Apical Pulse Before Medications",
-   "difficulty": 2,
+   "alsoTests": [
+    "peripheral-assessment",
+    "blood-pressure"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall how heart rate contributes to cardiac output and why the apical pulse is checked before certain drugs.",
-   "hintStrategy": "Eliminate options that give the drug or change the prescription on your own.",
+   "hintContent": "Connect CO = HR × SV with why the apical pulse is taken before rate-slowing drugs and with comparing BP to the client's baseline.",
+   "hintStrategy": "Decide whether the heart rate and BP are safe for this drug, then eliminate options that give the drug or change the prescription on your own.",
    "stem": "Before giving a scheduled medication that slows the heart rate, the nurse takes the client's apical pulse. The client reports feeling dizzy when sitting up. Apical HR is 46/min (regular) and BP 84/52 mm Hg; the client's usual BP is 130/78. Which action should the nurse take first?",
    "options": [
     "Give the dose and recheck the vital signs in 1 hour",
@@ -894,47 +690,54 @@ window.NURSE_DATA.push({
    "id": "m16c-026",
    "type": "sata",
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Cardiac Output · Preload, Afterload & Contractility",
-   "difficulty": 2,
+   "alsoTests": [
+    "lifespan"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the definitions of preload, afterload, and contractility.",
-   "hintStrategy": "For each factor, ask whether it changes the volume returning to the heart; only those affect preload.",
-   "stem": "The nurse is reviewing factors that change cardiac output. Which factors primarily affect preload? Select all that apply.",
+   "hintContent": "Connect the definition of preload (venous return) with situations across the lifespan that change how much blood returns to the heart.",
+   "hintStrategy": "Ask whether each situation changes the VOLUME coming back to the heart, the RESISTANCE ahead of it, or the STRENGTH of the squeeze.",
+   "stem": "The nurse is reviewing situations that change cardiac output. Which situations primarily affect preload? Select all that apply.",
    "options": [
     "2 L of IV normal saline infused rapidly",
     "Severe peripheral vasoconstriction",
     "Heart muscle fibers weakened by prior myocardial damage",
     "Blood loss of 1,000 mL",
-    "Sympathetic stimulation that strengthens each contraction"
+    "Sympathetic stimulation that strengthens each contraction",
+    "A client at 36 weeks' gestation lying flat on her back"
    ],
    "answer": [
     0,
-    3
+    3,
+    5
    ],
    "optionRationales": [
-    "Correct. A rapid fluid infusion increases venous return and ventricular filling, raising preload.",
-    "Incorrect. Vasoconstriction increases resistance to ejection, which is afterload.",
-    "Incorrect. Weakened fibers reduce contractility.",
-    "Correct. Blood loss reduces venous return and ventricular filling, lowering preload.",
-    "Incorrect. Stronger contractions reflect increased contractility."
+    "Correct. Rapid IV fluid increases venous return and end-diastolic stretch (preload).",
+    "Incorrect. Vasoconstriction raises afterload — the resistance to ejection.",
+    "Incorrect. Weakened muscle fibers reduce contractility.",
+    "Correct. Blood loss decreases venous return and preload.",
+    "Incorrect. Sympathetic stimulation increases contractility (and heart rate).",
+    "Correct. When supine late in pregnancy, the uterus compresses the vena cava, so less blood returns to the right atrium — decreased preload."
    ],
-   "rationale": "Stroke volume, and therefore cardiac output, depends on preload (fiber tension at the end of diastole, driven by venous return), afterload (resistance to ejection, driven by vascular tone), and contractility (the ability of the fibers to shorten). Volume changes such as IV fluid or blood loss alter preload; vascular tone alters afterload; myocardial damage and sympathetic stimulation alter contractility. Excessive preload overstretches fibers, high afterload raises oxygen demand, and poor contractility reduces output.",
-   "takeaway": "Preload = volume/filling; afterload = resistance; contractility = squeeze strength."
+   "rationale": "Preload is the stretch on cardiac fibers at the end of diastole, influenced by venous return and ventricular compliance. Rapid fluids increase it; bleeding decreases it; and in late pregnancy a supine position lets the heavy uterus compress the vena cava, reducing return to the right atrium (the mechanism of supine hypotensive syndrome). Vasoconstriction affects afterload, and damaged fibers or sympathetic stimulation affect contractility.",
+   "takeaway": "Preload = volume returning to the heart: ↑ with fluids, ↓ with bleeding and vena cava compression in late pregnancy."
   },
   {
    "id": "m16c-027",
    "type": "mcq",
    "priority": false,
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Cardiac Output · Ejection Fraction",
+   "alsoTests": [],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall how ejection fraction is calculated and the normal range.",
-   "hintStrategy": "You are looking for the ONE accurate statement. Eliminate options that confuse EF with other measurements.",
+   "hintContent": "Recall the definition and normal range of ejection fraction.",
+   "hintStrategy": "Eliminate statements that confuse EF with heart rate, blood pressure, or amount of damaged muscle.",
    "stem": "The nurse explains echocardiogram results to a client whose left ventricular ejection fraction is 30%. Which statement by the client indicates understanding of the result?",
    "options": [
     "\"My heart is beating at only 30% of its normal speed.\"",
@@ -944,10 +747,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Ejection fraction does not measure heart rate.",
-    "EF is a percentage of ventricular volume ejected, not a percentage of necrotic muscle.",
+    "Incorrect. Ejection fraction does not measure heart rate.",
+    "Incorrect. EF is a percentage of ventricular volume ejected, not a percentage of necrotic muscle.",
     "Correct. EF is the percentage of end-diastolic volume ejected with each contraction; a normal value is about 50–70%, so 30% indicates reduced systolic function.",
-    "EF does not directly reflect blood pressure; a client with a low EF can be normotensive or hypertensive."
+    "Incorrect. EF does not directly reflect blood pressure; a client with a low EF can be normotensive or hypertensive."
    ],
    "rationale": "Ejection fraction = stroke volume ÷ end-diastolic volume. A normal left ventricular EF is roughly 50–70%; an EF ≤ 40% indicates heart failure with reduced ejection fraction, meaning contractility is impaired and less blood is ejected per beat.",
    "takeaway": "EF = % of the ventricle's blood ejected per beat; normal ≈ 50–70%."
@@ -956,12 +759,16 @@ window.NURSE_DATA.push({
    "id": "m16c-028",
    "type": "sata",
    "topic": "cardiac-output",
-   "ref": "Module 16 · Perfusion · Cardiac Output · Clinical Indicators",
+   "alsoTests": [
+    "peripheral-assessment",
+    "blood-pressure"
+   ],
+   "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the clinical indicators of adequate cardiac output that can be assessed without invasive monitoring.",
+   "hintContent": "Connect the bedside indicators of cardiac output (brain, kidneys, skin) with capillary refill and blood pressure trends.",
    "hintStrategy": "This is an evaluate-outcomes item: select only findings that show the ORIGINAL problems (skin, mentation, urine) have improved.",
    "stem": "A client with low cardiac output was cool and clammy, oriented to person only, with a urine output of 15 mL/h. Prescribed treatment was started 2 hours ago. Which findings indicate that the client's cardiac output has improved? Select all that apply.",
    "options": [
@@ -978,14 +785,14 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Correct. Urine output ≥ 0.5 mL/kg/h (≥ 30 mL/h in most adults) reflects improved renal perfusion.",
-    "Incorrect. New tachycardia increases myocardial oxygen demand and may reflect ongoing compensation or a medication effect; it is not evidence of improved output.",
-    "Correct. Improved mentation reflects better cerebral perfusion.",
+    "Correct. Urine output of at least 30 mL/h in an adult reflects improved renal perfusion.",
+    "Incorrect. A rising heart rate means the body is still compensating; it is not evidence of improved output.",
+    "Correct. Improved orientation reflects better cerebral perfusion.",
     "Incorrect. New crackles indicate worsening pulmonary congestion.",
-    "Correct. Warm skin and brisk capillary refill show improved peripheral perfusion as compensatory vasoconstriction eases.",
+    "Correct. Warm skin and capillary refill under 3 seconds show improved peripheral perfusion as compensatory vasoconstriction eases.",
     "Incorrect. A falling BP suggests worsening perfusion."
    ],
-   "rationale": "At the bedside, cardiac output is evaluated through end-organ perfusion: kidneys (urine output), brain (mental status), and skin (temperature, color, capillary refill). Tachycardia, hypotension, or new crackles suggest deterioration rather than improvement.",
+   "rationale": "At the bedside, cardiac output is judged through end-organ perfusion: kidneys (urine output about 30 mL/h or more), brain (mental status), and skin (temperature, color, capillary refill under 2–3 seconds), along with BP near baseline. A climbing heart rate, a falling BP, or new crackles suggest deterioration rather than improvement.",
    "takeaway": "Judge cardiac output by the organs: pee, brain, skin."
   },
   {
@@ -993,28 +800,32 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": true,
    "topic": "conduction-system",
-   "ref": "Module 16 · Perfusion · Conduction System · Prioritizing Telemetry Clients",
-   "difficulty": 2,
+   "alsoTests": [
+    "cardiac-output",
+    "lifespan"
+   ],
+   "ref": "Module 16 · Perfusion · Conduction System & Action Potential",
+   "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "hintContent": "Recall which rhythm changes typically cause symptoms of decreased cardiac output.",
+   "hintContent": "Connect how heart rate affects cardiac output, which conduction changes are common with aging, and which signs show a rhythm is reducing perfusion.",
    "hintStrategy": "Look for words that signal instability: NEW, symptoms, and abnormal vital signs. Chronic and expected findings can wait.",
    "stem": "The nurse receives hand-off report on four clients on a telemetry unit. Which client should the nurse assess first?",
    "options": [
     "A client 1 day after surgery with sinus tachycardia at 108/min and pain rated 6/10",
-    "A client with chronic atrial fibrillation, ventricular rate 84/min, on long-term anticoagulation",
-    "A client with first-degree AV block (PR 0.22 sec) and BP 128/76 mm Hg",
+    "A client with chronic atrial fibrillation, ventricular rate 84/min, on anticoagulation",
+    "A 79-year-old with a PR interval of 0.22 second, BP 128/76, and no symptoms",
     "A client with new sinus bradycardia at 42/min who reports dizziness, BP 84/50"
    ],
    "answer": 3,
    "optionRationales": [
-    "Sinus tachycardia with pain is likely a compensatory response; the nurse should treat pain soon, but the client is stable.",
-    "Chronic, rate-controlled AF on anticoagulation is a stable, expected finding.",
-    "First-degree AV block with a normal BP is usually asymptomatic and requires only monitoring.",
-    "Correct. New bradycardia with dizziness and hypotension indicates inadequate cardiac output — an unstable, symptomatic client."
+    "Incorrect. Sinus tachycardia with pain is likely a compensatory response; pain should be treated soon, but the client is stable.",
+    "Incorrect. Chronic, rate-controlled atrial fibrillation on anticoagulation is a stable, expected finding.",
+    "Incorrect. A mildly prolonged PR interval is consistent with age-related AV node fibrosis; with a normal BP and no symptoms it needs monitoring only.",
+    "Correct. New bradycardia with dizziness and hypotension shows the slow rate is lowering cardiac output — an unstable, symptomatic client."
    ],
-   "rationale": "Prioritize the client who is unstable and symptomatic. A new, slow rhythm with signs of poor perfusion (dizziness, hypotension) reflects decreased cardiac output (CO = HR × SV) and needs immediate assessment and provider notification. Chronic, controlled, or compensatory rhythms in stable clients can be assessed after.",
+   "rationale": "Prioritize the client who is unstable and symptomatic. Because CO = HR × SV, a new rate of 42/min can drop cardiac output enough to cause dizziness and hypotension, so this client needs immediate assessment and provider notification. A slightly long PR interval in an older adult reflects slowed AV node conduction (fibrosis with aging) and is not urgent when the client is asymptomatic. Chronic, controlled, or compensatory rhythms in stable clients can be seen after.",
    "takeaway": "Treat the client, not the monitor: new rhythm + symptoms = see first."
   },
   {
@@ -1022,13 +833,14 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": true,
    "topic": "conduction-system",
-   "ref": "Module 16 · Perfusion · Conduction System · Monitor Artifact",
+   "alsoTests": [],
+   "ref": "Module 16 · Perfusion · Conduction System & Action Potential",
    "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "hintContent": "Recall what cardiac output a client in true ventricular fibrillation has and how that client would look.",
-   "hintStrategy": "Compare the monitor data with the clinical picture. When they conflict, which source should guide the first action?",
+   "hintContent": "Recall what a client in true ventricular fibrillation would look like and what causes artifact on a monitor.",
+   "hintStrategy": "Treat the client, not the monitor: compare the waveform with what you see at the bedside.",
    "stem": "The central telemetry alarm displays a chaotic, irregular waveform with no identifiable QRS complexes labeled as ventricular fibrillation. When the nurse enters the room, the client is sitting on the edge of the bed brushing their teeth and talking with a visitor. Which action should the nurse take first?",
    "options": [
     "Assess the client and check the electrode and lead connections.",
@@ -1039,9 +851,9 @@ window.NURSE_DATA.push({
    "answer": 0,
    "optionRationales": [
     "Correct. A client in true VF is pulseless and unresponsive. A conscious, talking client means the tracing is artifact (e.g., from brushing movements or loose electrodes).",
-    "A code is not indicated for a conscious client with a pulse.",
-    "Chest compressions on a conscious client with a pulse would cause harm.",
-    "Antiarrhythmics are not given for artifact; this could cause harm."
+    "Incorrect. A code is not indicated for a conscious client with a pulse.",
+    "Incorrect. Chest compressions on a conscious client with a pulse would cause harm.",
+    "Incorrect. Antiarrhythmics are not given for artifact; this could cause harm."
    ],
    "rationale": "Always assess the client before acting on a monitor pattern. Ventricular fibrillation produces no cardiac output, so the client would be unresponsive and pulseless within seconds. Movement (brushing teeth, shivering, tremors) and loose electrodes create artifact that can mimic VF. The nurse confirms responsiveness and pulse, then checks leads and electrode contact.",
    "takeaway": "VF on the monitor but talking in the room = artifact. Assess the client first."
@@ -1051,42 +863,44 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": false,
    "topic": "hemostasis",
-   "ref": "Module 16 · Perfusion · Hemostasis · Stages of Hemostasis",
+   "alsoTests": [],
+   "ref": "Module 16 · Perfusion · Hemostasis, Fibrinolysis & VTE Prevention",
    "difficulty": 1,
    "cjmm": "Analyze Cues",
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the stages of hemostasis and which one depends on platelets.",
-   "hintStrategy": "Identify what aspirin acts on, then match it to the stage that uses that component.",
-   "stem": "A client who takes daily low-dose aspirin cuts a finger and asks why the cut takes longer to stop bleeding. The nurse explains that aspirin slows which stage of hemostasis?",
+   "hintContent": "Recall the steps of hemostasis and which drug class affects each step.",
+   "hintStrategy": "Match the drug class (antiplatelet) to the step whose name matches its target.",
+   "stem": "A client who takes daily low-dose aspirin cuts a finger and asks why the cut takes longer to stop bleeding. The nurse explains that aspirin slows which step of hemostasis?",
    "options": [
-    "Adherence and aggregation of platelets to form a plug",
     "Constriction of the injured vessel to reduce blood flow",
     "Formation of fibrin by the coagulation cascade",
-    "Digestion of fibrin strands by plasmin"
+    "Digestion of fibrin strands by plasmin",
+    "Clumping of platelets into a temporary plug"
    ],
-   "answer": 0,
+   "answer": 3,
    "optionRationales": [
-    "Correct. Aspirin irreversibly inhibits platelet aggregation, slowing formation of the platelet plug.",
-    "Incorrect. Vasoconstriction is the first step of hemostasis and is not the target of aspirin.",
-    "Incorrect. The coagulation cascade is the target of anticoagulants, not aspirin.",
-    "Incorrect. Plasmin-mediated fibrinolysis dissolves clots after healing; aspirin does not act on this step."
+    "Incorrect. Vasoconstriction is triggered by injury chemicals and pain impulses; aspirin does not block it.",
+    "Incorrect. The coagulation cascade is the target of anticoagulants, not antiplatelets.",
+    "Incorrect. Plasmin digesting fibrin is fibrinolysis, which thrombolytics enhance.",
+    "Correct. Aspirin is an antiplatelet drug; it makes platelets less sticky, so the platelet plug forms more slowly."
    ],
-   "rationale": "Hemostasis begins with vasoconstriction, followed by platelet plug formation and then the coagulation cascade, which converts fibrinogen to fibrin to stabilize the plug. Once healing begins, tPA converts plasminogen to plasmin, which digests fibrin (fibrinolysis). Aspirin irreversibly inhibits platelet aggregation, slowing the platelet-plug step.",
-   "takeaway": "Hemostasis: vasoconstriction → platelet plug → fibrin clot → fibrinolysis; aspirin blocks the platelet plug."
+   "rationale": "Hemostasis proceeds as vasoconstriction, platelet plug formation, and the coagulation cascade, followed later by fibrinolysis. Aspirin interferes with the platelet plug step, so a small cut bleeds longer; firm pressure helps. Anticoagulants act on the coagulation cascade, and thrombolytics (tPA) speed fibrinolysis.",
+   "takeaway": "Aspirin → weaker platelet plug; anticoagulants → cascade; thrombolytics → fibrinolysis."
   },
   {
    "id": "m16c-041",
    "type": "mcq",
    "priority": true,
    "topic": "diagnostics",
-   "ref": "Module 16 · Perfusion · Diagnostic Tests · Transesophageal Echocardiogram",
+   "alsoTests": [],
+   "ref": "Module 16 · Perfusion · Diagnostic Tests for Perfusion",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall how a TEE is performed and what the topical anesthetic does to protective airway reflexes.",
-   "hintStrategy": "Consider what the throat anesthetic and sedation did to the client's protective reflexes, and whether each option gives fluid before that is known.",
+   "hintContent": "Recall why a TEE requires a topical throat anesthetic and what that does to airway protection.",
+   "hintStrategy": "Before any intake, ask what must be confirmed to prevent aspiration.",
    "stem": "A client returned to the unit 45 minutes ago after a transesophageal echocardiogram (TEE) performed with moderate sedation and a topical throat anesthetic. The client is awake and asks for a drink of water. Which action should the nurse take first?",
    "options": [
     "Offer small sips of water through a straw.",
@@ -1096,10 +910,10 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "Even small sips can be aspirated if the gag reflex has not returned.",
-    "Ice chips melt into water and carry the same aspiration risk.",
+    "Incorrect. Even small sips can be aspirated if the gag reflex has not returned.",
+    "Incorrect. Ice chips melt into water and carry the same aspiration risk.",
     "Correct. Oral intake is withheld until the topical anesthetic wears off and the gag and swallow reflexes return, to prevent aspiration.",
-    "Positioning does not protect the airway if the reflexes are still absent."
+    "Incorrect. Positioning does not protect the airway if the reflexes are still absent."
    ],
    "rationale": "During a TEE, a probe is passed into the esophagus after the throat is anesthetized. Until the gag and swallow reflexes return (often 1–2 hours), the client is kept NPO to prevent aspiration. Sedation effects are also monitored.",
    "takeaway": "After TEE: no gag, no food or fluids."
@@ -1109,13 +923,16 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": false,
    "topic": "diagnostics",
-   "ref": "Module 16 · Perfusion · Diagnostic Tests · Chemical Stress Test",
+   "alsoTests": [
+    "promotion-interventions"
+   ],
+   "ref": "Module 16 · Perfusion · Diagnostic Tests for Perfusion",
    "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall why a chemical stress test is chosen and what common substance interferes with the stress medication.",
-   "hintStrategy": "This is a 'needs further teaching' item: look for the one INCORRECT statement.",
+   "hintContent": "Connect why a chemical stress test is chosen as a screening for a client who cannot exercise with the preparation that keeps the stress medication effective.",
+   "hintStrategy": "Look for the statement that would make the test fail; think about substances that counteract the stress medication.",
    "stem": "A client with severe knee osteoarthritis who cannot walk on a treadmill is scheduled for a chemical (pharmacologic) stress test with radionuclide imaging. Which statement by the client indicates a need for further teaching?",
    "options": [
     "\"I shouldn't eat for a few hours before the test.\"",
@@ -1125,24 +942,28 @@ window.NURSE_DATA.push({
    ],
    "answer": 1,
    "optionRationales": [
-    "Accurate. Clients are usually NPO for a few hours before a radionuclide stress test.",
-    "Needs teaching. Caffeine blocks the receptors that the vasodilating stress drugs act on and can make the test inaccurate; caffeine is avoided for 12–24 hours before the test.",
-    "Accurate. Flushing, brief shortness of breath, headache, and chest discomfort are common, short-lived effects of the stress drug.",
-    "Accurate. Chocolate and cola contain caffeine and should be avoided."
+    "Incorrect. This statement is accurate. Clients are usually NPO for a few hours before a radionuclide stress test.",
+    "Correct. This statement needs correction. Caffeine blocks the receptors that the vasodilating stress drugs act on and can make the test inaccurate; caffeine is avoided for 12–24 hours before the test.",
+    "Incorrect. This statement is accurate. Flushing, brief shortness of breath, headache, and chest discomfort are common, short-lived effects of the stress drug.",
+    "Incorrect. This statement is accurate. Chocolate and cola contain caffeine and should be avoided."
    ],
-   "rationale": "A chemical stress test is used when a client cannot exercise: a medication makes the heart respond as if it were exercising while imaging (radionuclide or echocardiography) shows blood flow to the heart muscle. The vasodilating drugs commonly used act on adenosine receptors, which caffeine blocks, so all sources of caffeine (coffee, tea, cola, chocolate, some medications) are stopped 12–24 hours before the test.",
+   "rationale": "Stress tests are both diagnostic and screening tools. A chemical (pharmacologic) stress test is used when a client cannot exercise, such as with severe arthritis; a medication makes the heart respond as if exercising, and radionuclide imaging shows blood flow to the muscle. Caffeine (coffee, tea, cola, chocolate) must be avoided for about 12–24 hours because it can block the medication. The client is usually NPO for a few hours and may feel brief flushing or shortness of breath.",
    "takeaway": "Chemical stress test: no caffeine (coffee, tea, cola, chocolate) for 12–24 hours."
   },
   {
    "id": "m16c-043",
    "type": "sata",
    "topic": "lifespan",
-   "ref": "Module 16 · Perfusion · Lifespan Considerations · Older Adults: Pulse & BP Assessment",
+   "alsoTests": [
+    "peripheral-assessment",
+    "blood-pressure"
+   ],
+   "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
    "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall the lifespan considerations for assessing pulse and BP in older adults.",
+   "hintContent": "Connect the lifespan changes of older adults with the rules for choosing a pulse site and a safe BP method.",
    "hintStrategy": "For each option ask whether it adapts the technique safely to the client's tremors and contractures or ignores an age-related change.",
    "stem": "The nurse is assessing pulse and blood pressure for an 83-year-old client who has hand tremors and flexion contractures of both arms. Which actions are appropriate? Select all that apply.",
    "options": [
@@ -1175,70 +996,79 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": false,
    "topic": "diagnostics",
-   "ref": "Module 16 · Perfusion · Health Promotion · Screenings (Electron Beam CT)",
-   "difficulty": 1,
+   "alsoTests": [
+    "promotion-interventions"
+   ],
+   "ref": "Module 16 · Perfusion · Diagnostic Tests for Perfusion",
+   "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall the screening tests listed for perfusion and what each one measures.",
-   "hintStrategy": "Match each option to the test it actually describes; only one describes a CT scan of the coronary arteries.",
-   "stem": "A 52-year-old client whose father had a heart attack at age 46 is scheduled for an electron beam computed tomography (CT) scan as a screening test. The client asks what the test will show. Which response by the nurse is accurate?",
+   "hintContent": "Connect what electron beam CT detects with how family history is classified among cardiovascular risk factors.",
+   "hintStrategy": "Check both parts of each option: the test finding and the risk-factor category. Both must be correct.",
+   "stem": "A 52-year-old client whose father had a heart attack at age 46 is scheduled for an electron beam computed tomography (CT) scan as a screening test. The client asks what the test will show and whether the family history is something the client can change. Which response by the nurse is accurate?",
    "options": [
-    "It identifies calcium buildup that signals coronary artery blockage.",
-    "It records the heart's electrical activity to detect rhythm problems.",
-    "It measures proteins released into the blood when heart muscle is injured.",
-    "It shows how the heart responds when it is made to work harder."
+    "\"It shows calcium buildup in the heart's arteries; family history is a fixed risk factor.\"",
+    "\"It shows calcium buildup in the heart's arteries; family history is a modifiable risk factor.\"",
+    "\"It records your heart's electrical activity; family history is a fixed risk factor.\"",
+    "\"It measures proteins released by injured heart muscle; family history is a modifiable risk factor.\""
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Electron beam CT detects calcium deposits in the coronary arteries, a marker of atherosclerotic blockage.",
-    "This describes an electrocardiogram (ECG).",
-    "This describes cardiac biomarkers such as troponin and CK-MB.",
-    "This describes an exercise or chemical stress test."
+    "Correct. Electron beam CT detects calcium buildup that signals coronary blockage, and family history of early CAD is a nonmodifiable risk factor.",
+    "Incorrect. The test description is right, but family history cannot be changed.",
+    "Incorrect. Recording electrical activity describes an ECG.",
+    "Incorrect. Measuring proteins from injured muscle describes troponin, and family history is nonmodifiable."
    ],
-   "rationale": "A family history of early-onset coronary artery disease is a nonmodifiable risk factor that warrants screening. Screening options for perfusion include BP measurement, serum lipids, ECG, stress testing (exercise or chemical, with radionuclide imaging or echocardiography), and electron beam CT, which identifies calcium in the coronary arteries that signals blockage.",
-   "takeaway": "Electron beam CT = coronary calcium; ECG = electrical activity; troponin = injury; stress test = response to workload."
+   "rationale": "Electron beam CT is a noninvasive screening test that identifies calcium buildup (calcified plaque) in the coronary arteries. A father with a heart attack at 46 is a family history of early-onset CAD — a nonmodifiable risk factor, along with age, gender, race, and personal history. Screening plus teaching about modifiable factors (smoking, diet and BMI, activity) and secondary factors (BP, cholesterol) lets the client act on what can be changed.",
+   "takeaway": "Electron beam CT = coronary calcium; family history is nonmodifiable, so focus teaching on what can change."
   },
   {
    "id": "m16c-046",
    "type": "mcq",
    "priority": false,
    "topic": "diagnostics",
-   "ref": "Module 16 · Perfusion · Diagnostic Tests · Lipid Profile",
-   "difficulty": 1,
-   "cjmm": "Recognize Cues",
+   "alsoTests": [
+    "promotion-interventions"
+   ],
+   "ref": "Module 16 · Perfusion · Diagnostic Tests for Perfusion",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall the desirable ranges for total cholesterol, LDL, HDL, and triglycerides.",
-   "hintStrategy": "Evaluate each value separately rather than relying on the total cholesterol.",
+   "hintContent": "Connect the desirable values for each part of the lipid profile with the lifestyle teaching used to lower cardiovascular risk.",
+   "hintStrategy": "Evaluate each lipid value separately against its target before judging the profile, then check whether the plan in each option matches the abnormal values.",
    "stem": "A 52-year-old man has a fasting lipid profile drawn at a health screening: total cholesterol 186 mg/dL, LDL 168 mg/dL, HDL 34 mg/dL, and triglycerides 142 mg/dL. How should the nurse interpret these results?",
    "options": [
-    "The total cholesterol is desirable, so no follow-up is needed",
-    "The triglyceride level is the main result in this profile that requires follow-up",
-    "The high LDL and low HDL raise atherosclerosis risk and need follow-up",
-    "The HDL level is protective and offsets the elevated LDL level"
+    "The total cholesterol is desirable, so no follow-up or teaching is needed",
+    "The triglycerides are the main concern, so teaching should focus on sugar",
+    "The high LDL and low HDL need provider review and heart-healthy teaching",
+    "The HDL is protective enough to offset the LDL, so rescreen in 5 years"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A desirable total cholesterol can hide an atherogenic profile of high LDL and low HDL.",
-    "Incorrect. The triglyceride level is within the desirable range.",
-    "Correct. LDL is elevated and HDL is low, both of which increase the risk of atherosclerosis and coronary artery disease.",
-    "Incorrect. An HDL of 34 mg/dL is low, not protective."
+    "Incorrect. A normal total cholesterol can hide a high LDL and low HDL.",
+    "Incorrect. Triglycerides of 142 mg/dL are below 150 and desirable.",
+    "Correct. LDL 168 (goal < 100) and HDL 34 (goal ≥ 40 in men) both raise atherosclerosis risk; they need provider review plus teaching on diet, activity, BMI below 25, and not smoking.",
+    "Incorrect. HDL 34 is low, not protective (60 or more is protective)."
    ],
-   "rationale": "A 'normal' total cholesterol can hide an atherogenic profile. This client's high LDL and low HDL increase the risk of atherosclerosis and coronary artery disease, warranting lifestyle counseling (heart-healthy diet, exercise, weight management, smoking cessation) and provider follow-up. Total cholesterol and triglycerides are within the desirable range.",
-   "takeaway": "Look past total cholesterol: high LDL and low HDL both raise CAD risk."
+   "rationale": "Each part of the lipid profile must be interpreted separately. Desirable values are total cholesterol < 200, LDL < 100, HDL ≥ 40 (men) or ≥ 50 (women), and triglycerides < 150 mg/dL. This client's total and triglycerides are desirable, but LDL is high and HDL is low — both raise coronary artery disease risk. Follow-up includes provider review and teaching on modifiable factors: a heart-healthy diet, daily activity, a BMI below 25, and smoking cessation.",
+   "takeaway": "LDL Low, HDL High — a normal total can hide risk; follow up with lifestyle teaching."
   },
   {
    "id": "m16c-047",
    "type": "mcq",
    "priority": true,
    "topic": "lifespan",
-   "ref": "Module 16 · Perfusion · Lifespan Considerations · Infants and Children",
+   "alsoTests": [
+    "cardiac-output"
+   ],
+   "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall how children's heart rate responds to severe hypoxemia compared with adults.",
+   "hintContent": "Connect how children respond to severe hypoxemia with how a falling heart rate affects cardiac output.",
    "hintStrategy": "Consider whether the drop in heart rate is good or bad news in this context; then apply ABCs.",
    "stem": "A 2-year-old child with a severe lower respiratory infection has been increasingly lethargic. Over 10 minutes, SpO₂ falls from 90% to 81% and the heart rate drops from 162/min to 74/min. Which action should the nurse take first?",
    "options": [
@@ -1249,12 +1079,12 @@ window.NURSE_DATA.push({
    ],
    "answer": 2,
    "optionRationales": [
-    "In a hypoxemic child, a falling heart rate is an ominous sign, not an improvement.",
-    "Delaying intervention to recount the pulse wastes critical time.",
-    "Correct. Children respond to severe hypoxemia with bradycardia, which signals impending cardiopulmonary arrest; the priority is to support oxygenation and ventilation.",
-    "Fluids do not correct hypoxemia-induced bradycardia."
+    "Incorrect. In a hypoxemic child, a falling heart rate is an ominous sign, not an improvement.",
+    "Incorrect. Delaying intervention to recount the pulse wastes critical time.",
+    "Correct. Children respond to severe hypoxemia with bradycardia, which lowers cardiac output and signals impending arrest; the priority is to ventilate with oxygen and call for help.",
+    "Incorrect. Fluids do not correct hypoxemia-induced bradycardia."
    ],
-   "rationale": "Unlike adults, who become tachycardic with hypoxemia, children respond to severe hypoxemia with bradycardia. In pediatrics, cardiac arrest is usually the end result of respiratory failure, so bradycardia with falling SpO₂ and lethargy requires immediate assisted ventilation with oxygen and activation of the emergency response (with CPR if HR < 60/min with poor perfusion despite ventilation).",
+   "rationale": "Unlike adults, who become tachycardic with hypoxemia, children respond to severe hypoxemia with bradycardia. Because CO = HR × SV, a falling rate in a child sharply reduces cardiac output, and in children cardiac arrest is usually the end result of respiratory failure. Bradycardia with falling SpO₂ and lethargy requires immediate bag-mask ventilation with 100% oxygen and a call for help; correcting the oxygen problem should restore the rate.",
    "takeaway": "Hypoxic child + bradycardia = impending arrest; ventilate now."
   },
   {
@@ -1262,12 +1092,15 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": true,
    "topic": "lifespan",
-   "ref": "Module 16 · Perfusion · Lifespan Considerations · Congenital Heart Disease",
+   "alsoTests": [
+    "hemostasis"
+   ],
+   "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
    "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall why a child with chronic hypoxemia has a high hematocrit and how dehydration changes the blood.",
+   "hintContent": "Connect why a child with chronic hypoxemia has a high hematocrit, how dehydration changes blood viscosity, and why thick, slow-moving blood clots.",
    "hintStrategy": "Link the high hematocrit and fluid loss to the property of the blood they change, then to the complication.",
    "stem": "A 3-year-old child with an unrepaired cyanotic congenital heart defect has had vomiting and diarrhea for 2 days. Baseline SpO₂ is 82%. The hematocrit is 62% (reference 31–41%). The nurse recognizes that this child is at greatest immediate risk for which complication?",
    "options": [
@@ -1290,12 +1123,16 @@ window.NURSE_DATA.push({
    "id": "m16c-049",
    "type": "sata",
    "topic": "lifespan",
-   "ref": "Module 16 · Perfusion · Lifespan Considerations · Older Adults",
+   "alsoTests": [
+    "blood-pressure",
+    "promotion-interventions"
+   ],
+   "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
    "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "hintContent": "Recall the age-related changes and medications that contribute to orthostatic hypotension.",
+   "hintContent": "Connect the orthostatic hypotension criteria with the age-related and medication factors that raise the risk and the safe-movement teaching for BP medications.",
    "hintStrategy": "For each option, ask whether it increases venous return and gives the body time to compensate, or whether it causes vasodilation or unsafe medication changes.",
    "stem": "A 79-year-old client taking an antihypertensive and a diuretic had a BP drop from 138/80 supine to 112/66 standing, with lightheadedness. Which teaching points should the nurse include to reduce the client's risk of falls? Select all that apply.",
    "options": [
@@ -1327,13 +1164,14 @@ window.NURSE_DATA.push({
    "type": "mcq",
    "priority": true,
    "topic": "lifespan",
-   "ref": "Module 16 · Perfusion · Lifespan Considerations · Pediatric Assessment",
+   "alsoTests": [],
+   "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
    "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall which pediatric measurements are most affected by crying and activity.",
-   "hintStrategy": "Order from least to most distressing, starting with the measurement a calm child makes most accurate.",
+   "hintContent": "Recall the order of pediatric assessment from least to most upsetting.",
+   "hintStrategy": "Ask which measurement is most affected by crying and must be obtained while the child is calm.",
    "stem": "The nurse is performing a well-child visit for an 18-month-old who is sitting quietly on a parent's lap and is due for immunizations. Which action should the nurse perform first?",
    "options": [
     "Measure the temporal artery temperature while the child is calm",

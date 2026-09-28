@@ -9,226 +9,21 @@
    "id": "m21f-001",
    "type": "sata",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · NGN Case Study: Postoperative Wound Infection",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "caseId": "m21f-case-ssi",
-   "caseOrder": 1,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Client:</strong> 66-year-old, postoperative day (POD) 4 after open sigmoid colectomy (bowel resection) for perforated diverticulitis. History: type 2 diabetes, BMI 37, smokes 1 pack/day. Midline incision closed with staples.</p><p><strong>POD 4, 0800:</strong> Client reports incision pain has increased from 3/10 yesterday to 7/10 today despite scheduled analgesia. Lower 5 cm of the midline incision is red, warm, and indurated, with redness extending 3 cm beyond the incision edges. Thick, cream-colored drainage with a foul odor is seeping from between two staples. Upper incision edges are approximated with a palpable healing ridge. Staples intact. Bowel sounds present; passing flatus. Lungs clear. Eating about 25% of meals.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "POD 2 0800",
-         "37.2 °C (99.0 °F)",
-         "86",
-         "16",
-         "132/78",
-         "97% RA"
-        ],
-        [
-         "POD 3 2000",
-         "37.9 °C (100.2 °F)",
-         "96",
-         "18",
-         "128/76",
-         "96% RA"
-        ],
-        [
-         "POD 4 0800",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "124/72",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "POD 2",
-        "POD 4",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "11,200/mm³",
-         "15,800/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Glucose (capillary)",
-         "188 mg/dL",
-         "246 mg/dL",
-         "70–110 mg/dL"
-        ],
-        [
-         "Albumin",
-         "—",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Hemoglobin",
-         "12.1 g/dL",
-         "11.8 g/dL",
-         "12–16 g/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse reviews the POD 4 assessment. Which findings are consistent with a wound infection? Select all that apply.",
-   "options": [
-    "Upper incision edges are approximated with a palpable healing ridge",
-    "Incision pain has increased from 3/10 yesterday to 7/10 today",
-    "Lower 5 cm of the incision is red, warm, and indurated",
-    "Bowel sounds are present, and the client is passing flatus",
-    "Redness extends 3 cm beyond the incision edges",
-    "Thick, cream-colored drainage with a foul odor is seeping between two staples"
+   "alsoTests": [
+    "wound-healing-intention-phases",
+    "wound-healing-factors-exudate"
    ],
-   "answer": [
-    1,
-    2,
-    4,
-    5
-   ],
-   "optionRationales": [
-    "Incorrect. Approximated edges with a palpable healing ridge indicate normal primary-intention healing in that segment.",
-    "Correct. Incision pain should decrease after the first few days; increasing pain on POD 4 is a classic cue of infection.",
-    "Correct. Localized heat, redness, and firmness persisting beyond the early inflammatory phase suggest infection of the incision.",
-    "Incorrect. Bowel sounds and flatus are the expected return of bowel function after bowel surgery.",
-    "Correct. Normal inflammatory redness stays close to the incision edges; redness spreading 3 cm beyond them suggests infection.",
-    "Correct. Thick, opaque, foul-smelling drainage is purulent exudate (WBCs + debris) and indicates infection."
-   ],
-   "rationale": "Wound infection presents with increased pain, redness, drainage, odor, fever, and an elevated WBC. The risk is higher after GI surgery and in contaminated wounds. Findings such as a healing ridge and returning bowel function are expected and help the nurse localize the problem to the lower incision.",
-   "takeaway": "Pain that gets worse after day 3 plus spreading redness and purulent drainage = think wound infection.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the local signs of wound infection listed on the slides and how they differ from normal early inflammation.",
-   "hintStrategy": "Decide whether each finding is an expected postoperative finding or a sign that something is wrong at the incision."
-  },
-  {
-   "id": "m21f-002",
-   "type": "sata",
-   "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · NGN Case Study: Postoperative Wound Infection",
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21f-case-ssi",
-   "caseOrder": 2,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Client:</strong> 66-year-old, postoperative day (POD) 4 after open sigmoid colectomy (bowel resection) for perforated diverticulitis. History: type 2 diabetes, BMI 37, smokes 1 pack/day. Midline incision closed with staples.</p><p><strong>POD 4, 0800:</strong> Client reports incision pain has increased from 3/10 yesterday to 7/10 today despite scheduled analgesia. Lower 5 cm of the midline incision is red, warm, and indurated, with redness extending 3 cm beyond the incision edges. Thick, cream-colored drainage with a foul odor is seeping from between two staples. Upper incision edges are approximated with a palpable healing ridge. Staples intact. Bowel sounds present; passing flatus. Lungs clear. Eating about 25% of meals.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "POD 2 0800",
-         "37.2 °C (99.0 °F)",
-         "86",
-         "16",
-         "132/78",
-         "97% RA"
-        ],
-        [
-         "POD 3 2000",
-         "37.9 °C (100.2 °F)",
-         "96",
-         "18",
-         "128/76",
-         "96% RA"
-        ],
-        [
-         "POD 4 0800",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "124/72",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "POD 2",
-        "POD 4",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "11,200/mm³",
-         "15,800/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Glucose (capillary)",
-         "188 mg/dL",
-         "246 mg/dL",
-         "70–110 mg/dL"
-        ],
-        [
-         "Albumin",
-         "—",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Hemoglobin",
-         "12.1 g/dL",
-         "11.8 g/dL",
-         "12–16 g/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which client findings are factors contributing to impaired wound healing? Select all that apply.",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 66-year-old client with type 2 diabetes who smokes had an open sigmoid colectomy for perforated diverticulitis. The midline incision is closed with staples. The nurse reviews the incision documentation from postoperative day (POD) 1 through POD 4. Which findings indicate a surgical wound infection rather than expected healing? Select all that apply.",
    "options": [
-    "Albumin 2.8 g/dL and eating 25% of meals",
-    "Palpable healing ridge along the upper incision",
-    "Smoking 1 pack of cigarettes per day",
-    "Bowel sounds present and passing flatus",
-    "Capillary glucose 246 mg/dL in a client with type 2 diabetes",
-    "Lungs clear on auscultation"
+    "Incision pain rose from 3/10 on POD 3 to 7/10 on POD 4",
+    "Mild redness along the staple line on POD 1 that faded by POD 3",
+    "Thick, cream-colored, foul-smelling drainage between two staples on POD 4",
+    "Firm ridge palpable under the upper part of the incision on POD 4",
+    "Temperature 38.7 °C (101.7 °F) and WBC 15,800/mm³ on POD 4",
+    "Scant pale pink, watery drainage on the POD 1 dressing"
    ],
    "answer": [
     0,
@@ -236,238 +31,112 @@
     4
    ],
    "optionRationales": [
-    "Correct. Low albumin and poor intake indicate a protein-calorie deficit; protein is needed to build new tissue.",
-    "Incorrect. A healing ridge (collagen deposited under a primary-intention incision) is a sign of normal healing.",
-    "Correct. Smoking decreases oxygen delivery to the wound and slows healing.",
-    "Incorrect. Return of bowel function is an expected postoperative finding.",
-    "Correct. High glucose impairs WBC function, and diabetes causes vascular disease that reduces oxygen and nutrient delivery.",
-    "Incorrect. Clear lungs are a normal finding."
+    "Correct. Pain that gets worse instead of better several days after surgery is a classic sign of infection (the slide lists ↑ pain).",
+    "Incorrect. Mild redness and swelling in the first days is the normal inflammatory phase (about days 3–6); redness that fades is healing, not infection.",
+    "Correct. Thick, opaque, foul-smelling drainage is purulent exudate (pus = WBCs + debris), which signals infection.",
+    "Incorrect. A healing ridge is new collagen from the proliferative phase — an expected, positive finding.",
+    "Correct. Fever and a rising WBC on POD 4 are systemic signs of infection; GI surgery and diabetes both raise this client's risk.",
+    "Incorrect. Pale pink, watery drainage on POD 1 is serosanguineous — expected in a new surgical incision."
    ],
-   "rationale": "Analyzing cues means sorting them into what the problem is (fever and rising WBC with local signs = infection), what made the client vulnerable (malnutrition, smoking, diabetes and hyperglycemia, obesity, GI surgery), and what is normal. Separating these directs the plan: treat the infection AND correct modifiable risk factors.",
-   "takeaway": "Sort cues into 'the problem', 'why it happened', and 'normal' to build a focused plan.",
+   "rationale": "Separating infection from normal healing requires three pieces together: the timeline of the phases (redness, swelling, and exudate are normal early in the inflammatory phase and should lessen), the exudate type (serosanguineous early is expected; purulent is not), and the slide's infection signs (↑ pain, redness, drainage, odor, fever, ↑ WBC). Infection typically shows up around POD 3–5 as worsening pain, purulent drainage, fever, and leukocytosis — especially after GI surgery in a client with diabetes. Fading early redness, a healing ridge, and POD 1 serosanguineous drainage are all expected.",
+   "takeaway": "Early, fading redness and pink drainage = healing; worsening pain, pus, fever, and ↑ WBC around POD 3–5 = infection.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall what the inflammatory and proliferative phases normally look like, how each exudate type appears, and the slide's list of infection signs.",
+   "hintStrategy": "For each finding, ask two questions: is it happening at the expected time for normal healing, and is it getting better or worse? Only findings that break the normal pattern point to infection."
+  },
+  {
+   "id": "m21f-002",
+   "type": "sata",
+   "topic": "wound-healing-factors-exudate",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client is on postoperative day 4 after a bowel resection and has developed an infected midline incision. The nurse reviews the client's history and data to identify why the wound is healing poorly. Which findings are contributing to impaired wound healing? Select all that apply.",
+   "options": [
+    "Serum albumin 2.8 g/dL and eats about 25% of meals",
+    "Walks in the hallway four times a day",
+    "Smokes 1 pack of cigarettes per day",
+    "Capillary glucose readings of 230–260 mg/dL",
+    "Takes acetaminophen 650 mg every 6 hours for pain",
+    "Body mass index (BMI) of 37"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Low albumin (below about 3.5 g/dL) plus poor intake signals malnutrition — too little protein and calories to build collagen and new tissue.",
+    "Incorrect. Exercise improves circulation, bringing oxygen and nutrients to the wound; it promotes healing.",
+    "Correct. Nicotine constricts vessels and carbon monoxide displaces oxygen on hemoglobin, so less oxygen reaches the wound.",
+    "Correct. High glucose impairs WBC function and damages vessels, slowing healing and feeding infection.",
+    "Incorrect. Acetaminophen is not one of the drugs that impair healing (steroids, aspirin, chemotherapy).",
+    "Correct. Obesity delays healing — adipose tissue has a poor blood supply and adds tension on the suture line."
+   ],
+   "rationale": "Healing needs oxygen delivery, building materials, and working WBCs. This client stacks several barriers: a low albumin with poor intake (malnutrition — a lab-plus-intake cue), smoking (vasoconstriction and CO on hemoglobin), hyperglycemia (impaired WBCs and blood flow), and obesity (poor adipose blood supply and suture-line tension). Walking helps healing, and acetaminophen is not listed as impairing it. Stacked risk factors explain why the wound became infected and is slow to heal.",
+   "takeaway": "Low albumin + poor intake, smoking, high glucose, and obesity each slow healing — and they multiply when stacked.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall the nutrition, lifestyle, and chronic-disease factors the slides list as delaying wound healing.",
-   "hintStrategy": "Ask of each finding: would this slow the body's ability to build new tissue, or is it an expected postoperative finding?"
+   "hintContent": "Recall what albumin tells you about protein status, how smoking and high glucose affect oxygen and WBCs, and why both malnutrition and obesity delay healing.",
+   "hintStrategy": "Sort each finding into 'helps healing,' 'neutral,' or 'hurts healing.' Select only the ones that reduce oxygen, nutrients, or immune function at the wound."
   },
   {
    "id": "m21f-003",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · NGN Case Study: Postoperative Wound Infection",
+   "alsoTests": [
+    "wound-healing-intention-phases",
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21f-case-ssi",
-   "caseOrder": 3,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Client:</strong> 66-year-old, postoperative day (POD) 4 after open sigmoid colectomy (bowel resection) for perforated diverticulitis. History: type 2 diabetes, BMI 37, smokes 1 pack/day. Midline incision closed with staples.</p><p><strong>POD 4, 0800:</strong> Client reports incision pain has increased from 3/10 yesterday to 7/10 today despite scheduled analgesia. Lower 5 cm of the midline incision is red, warm, and indurated, with redness extending 3 cm beyond the incision edges. Thick, cream-colored drainage with a foul odor is seeping from between two staples. Upper incision edges are approximated with a palpable healing ridge. Staples intact. Bowel sounds present; passing flatus. Lungs clear. Eating about 25% of meals.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "POD 2 0800",
-         "37.2 °C (99.0 °F)",
-         "86",
-         "16",
-         "132/78",
-         "97% RA"
-        ],
-        [
-         "POD 3 2000",
-         "37.9 °C (100.2 °F)",
-         "96",
-         "18",
-         "128/76",
-         "96% RA"
-        ],
-        [
-         "POD 4 0800",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "124/72",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "POD 2",
-        "POD 4",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "11,200/mm³",
-         "15,800/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Glucose (capillary)",
-         "188 mg/dL",
-         "246 mg/dL",
-         "70–110 mg/dL"
-        ],
-        [
-         "Albumin",
-         "—",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Hemoglobin",
-         "12.1 g/dL",
-         "11.8 g/dL",
-         "12–16 g/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which complication is the client most likely experiencing?",
+   "stem": "A client with type 2 diabetes is on postoperative day 4 after an open bowel resection. The lower incision is red, warm, and indurated, with redness spreading 3 cm past the edges and thick, foul-smelling drainage between two staples. The upper incision edges are approximated. Temperature is 38.7 °C (101.7 °F), HR 108/min, WBC 15,800/mm³ (was 11,200/mm³ on POD 2), hemoglobin stable at 11.8 g/dL, and capillary glucose 246 mg/dL. Which problem is the nurse's priority concern?",
    "options": [
-    "Wound dehiscence",
-    "Postoperative hemorrhage",
-    "Wound infection",
-    "Normal inflammatory response"
+    "Wound dehiscence caused by weak collagen in the proliferative phase",
+    "Normal inflammatory response to surgical tissue injury",
+    "Surgical wound infection worsened by uncontrolled blood glucose",
+    "Concealed hemorrhage from a clot dislodged at the suture line"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Dehiscence presents with separation of the edges and a gush of serosanguineous fluid; the staples are intact.",
-    "Incorrect. Hemorrhage presents with bright red drainage, usually in the first 48 hours; hemoglobin is nearly unchanged.",
-    "Correct. Spreading redness, induration, purulent foul drainage, and increasing pain, with fever 38.6 °C, HR 108, and WBC 15,800 on POD 4, point to a wound infection.",
-    "Incorrect. Normal inflammation causes mild redness near the edges in the first few days, not purulent drainage and rising fever and WBC."
+    "Incorrect. Dehiscence is wound reopening (often a 'pop' with a gush of pink drainage); these edges are still approximated.",
+    "Incorrect. Normal inflammation peaks early and lessens; spreading redness, purulent drainage, fever, and a rising WBC on POD 4 are not expected.",
+    "Correct. Worsening local signs, purulent drainage, fever, tachycardia, and leukocytosis on POD 4 fit infection; high glucose impairs WBC function and fuels it.",
+    "Incorrect. Hemorrhage risk is greatest in the first 48 hours; the stable hemoglobin and absence of swelling or bright red drainage argue against it."
    ],
-   "rationale": "Local signs (spreading redness, induration, purulent foul drainage, increasing pain) and systemic signs (fever 38.6 °C, HR 108, WBC 15,800) on POD 4 point to a wound infection. Surgery for a perforated bowel is contaminated GI surgery, and high blood glucose impairs WBC function, making these the strongest risk factors.",
-   "takeaway": "Contaminated GI surgery + high glucose = high infection risk.",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the typical timing and signs of infection, dehiscence, and hemorrhage after surgery.",
-   "hintStrategy": "Cluster the local and systemic cues, then match the cluster and the postoperative day to one complication.",
-   "priority": false
+   "rationale": "Choosing the right hypothesis means combining the complication timeline (bleeding first 48 hours; infection around POD 3–5; dehiscence near the end of week 1), the expected course of the inflammatory phase, and the exudate type. Spreading redness, purulent drainage, fever, and a climbing WBC on POD 4 point to infection, and a glucose of 246 mg/dL in a client with diabetes impairs the WBCs needed to fight it. Approximated edges rule out dehiscence, and a stable hemoglobin argues against hemorrhage.",
+   "takeaway": "Match the finding to the timeline: POD 3–5 + purulent drainage + fever + ↑ WBC = infection, and high glucose makes it worse.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall when each postoperative wound complication is most likely to occur and what purulent drainage and a rising WBC indicate.",
+   "hintStrategy": "Rule out each option using a specific cue in the stem (edge status, hemoglobin, day after surgery). The option that explains every abnormal cue is the priority.",
+   "priority": true
   },
   {
    "id": "m21f-004",
    "type": "sata",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · NGN Case Study: Postoperative Wound Infection",
-   "caseId": "m21f-case-ssi",
-   "caseOrder": 4,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Client:</strong> 66-year-old, postoperative day (POD) 4 after open sigmoid colectomy (bowel resection) for perforated diverticulitis. History: type 2 diabetes, BMI 37, smokes 1 pack/day. Midline incision closed with staples.</p><p><strong>POD 4, 0800:</strong> Client reports incision pain has increased from 3/10 yesterday to 7/10 today despite scheduled analgesia. Lower 5 cm of the midline incision is red, warm, and indurated, with redness extending 3 cm beyond the incision edges. Thick, cream-colored drainage with a foul odor is seeping from between two staples. Upper incision edges are approximated with a palpable healing ridge. Staples intact. Bowel sounds present; passing flatus. Lungs clear. Eating about 25% of meals.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "POD 2 0800",
-         "37.2 °C (99.0 °F)",
-         "86",
-         "16",
-         "132/78",
-         "97% RA"
-        ],
-        [
-         "POD 3 2000",
-         "37.9 °C (100.2 °F)",
-         "96",
-         "18",
-         "128/76",
-         "96% RA"
-        ],
-        [
-         "POD 4 0800",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "124/72",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "POD 2",
-        "POD 4",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "11,200/mm³",
-         "15,800/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Glucose (capillary)",
-         "188 mg/dL",
-         "246 mg/dL",
-         "70–110 mg/dL"
-        ],
-        [
-         "Albumin",
-         "—",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Hemoglobin",
-         "12.1 g/dL",
-         "11.8 g/dL",
-         "12–16 g/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "difficulty": 2,
+   "alsoTests": [
+    "wound-types-classification",
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
+   "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse is planning care for the client. Which actions should the nurse include in the plan? Select all that apply.",
+   "stem": "A client with type 2 diabetes has a suspected surgical wound infection on postoperative day 4 after a bowel resection. Capillary glucose is 246 mg/dL, albumin is 2.8 g/dL, and the client eats about 25% of meals. The nurse has notified the surgeon, who prescribes a wound culture, IV cefazolin, and sliding-scale insulin. Which actions should the nurse include in the plan of care? Select all that apply.",
    "options": [
-    "Notify the surgeon of the incision findings",
-    "Remove the staples along the reddened segment to allow drainage",
-    "Obtain a culture of the wound drainage as prescribed",
-    "Apply antibiotic ointment and an occlusive dressing to seal the incision",
+    "Obtain the wound culture before giving the first antibiotic dose",
+    "Remove the staples along the reddened segment so the pus can drain",
     "Monitor capillary glucose and give insulin per protocol",
-    "Request a dietitian consult for protein and calorie supplementation"
+    "Seal the incision with antibiotic ointment under an occlusive dressing",
+    "Outline the edge of the redness with a skin marker",
+    "Request a dietitian consult to increase protein and calorie intake"
    ],
    "answer": [
     0,
@@ -476,239 +145,95 @@
     5
    ],
    "optionRationales": [
-    "Correct. New local and systemic signs of infection must be reported; the surgeon decides whether to open the incision and which antibiotic to start.",
-    "Incorrect. Opening an incision is a provider decision; the nurse does not independently remove staples from an infected incision.",
-    "Correct. A culture identifies the organism so therapy can be targeted; obtain it before antibiotics are started when possible.",
-    "Incorrect. Sealing an infected, draining wound traps drainage and bacteria.",
-    "Correct. High blood glucose impairs WBC function and healing; diabetes is a chronic condition that delays healing.",
-    "Correct. Low albumin and 25% meal intake indicate a protein-calorie deficit that will slow healing."
+    "Correct. A culture collected before antibiotics identifies the organism accurately; the antibiotic is then given without delay.",
+    "Incorrect. Opening the incision is a surgeon's decision; staple removal for drainage is not an independent nursing action.",
+    "Correct. Controlling glucose restores WBC function and supports healing — glucose control is wound care.",
+    "Incorrect. An occlusive seal traps purulent drainage in an infected wound; it is not prescribed and could worsen the infection.",
+    "Correct. Marking the border of redness gives a baseline to evaluate whether the infection is receding or spreading.",
+    "Correct. Low albumin and poor intake signal malnutrition; protein and calories are needed for collagen and immune function."
    ],
-   "rationale": "The plan should address the infection itself (collaborate with the surgeon, obtain cultures) and the modifiable factors that impair healing (hyperglycemia, malnutrition). Independent opening of the wound and occlusive sealing are unsafe.",
-   "takeaway": "Treat the infection AND fix the host: glucose control and protein intake are wound care too.",
-   "hintContent": "Recall which nursing actions are independent versus collaborative, and which host factors (glucose, protein) the nurse can influence.",
-   "hintStrategy": "Judge each option as true or false on its own. Eliminate options outside nursing scope or that would trap infection."
+   "rationale": "Care for a wound infection combines treating the infection, removing barriers to healing, and setting up evaluation. The culture comes before the first antibiotic dose (a principle from wound classification and infection care). Hyperglycemia and malnutrition are factors that impair healing, so glucose control and nutrition support are part of the plan. Outlining the redness lets the nurse measure response. Removing staples and sealing the wound are outside the plan and unsafe.",
+   "takeaway": "Infected wound: culture before antibiotics, control glucose, feed the wound, and mark the redness to evaluate.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall the correct sequence for culture and antibiotics, how glucose and protein status affect healing, and how a nurse measures whether an infection is improving.",
+   "hintStrategy": "Check each option for scope (is it a nursing action within the orders?) and safety (would it trap infection or harm the wound?). Keep the ones that treat infection, fix healing barriers, or support evaluation."
   },
   {
    "id": "m21f-005",
    "type": "mcq",
    "topic": "pressure-injuries-wound-care-debridement",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · NGN Case Study: Postoperative Wound Infection",
-   "caseId": "m21f-case-ssi",
-   "caseOrder": 5,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Client:</strong> 66-year-old, postoperative day (POD) 4 after open sigmoid colectomy (bowel resection) for perforated diverticulitis. History: type 2 diabetes, BMI 37, smokes 1 pack/day. Midline incision closed with staples.</p><p><strong>POD 4, 0800:</strong> Client reports incision pain has increased from 3/10 yesterday to 7/10 today despite scheduled analgesia. Lower 5 cm of the midline incision is red, warm, and indurated, with redness extending 3 cm beyond the incision edges. Thick, cream-colored drainage with a foul odor is seeping from between two staples. Upper incision edges are approximated with a palpable healing ridge. Staples intact. Bowel sounds present; passing flatus. Lungs clear. Eating about 25% of meals.</p><p><strong>POD 5, 1000:</strong> Surgeon removed the lower 5 staples at the bedside and drained a pocket of pus; specimen sent for culture. Wound left open to heal by secondary intention. Wound measures 5 × 2 × 3 cm with 1.5 cm of undermining beneath the lower right edge. Base is 70% red tissue and 30% soft yellow slough.</p>"
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>IV antibiotic as prescribed</li><li>Cleanse wound with normal saline and apply a moist gauze dressing twice daily</li><li>Insulin per protocol</li><li>High-protein oral supplement three times daily; dietitian consult</li></ul>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "POD 2 0800",
-         "37.2 °C (99.0 °F)",
-         "86",
-         "16",
-         "132/78",
-         "97% RA"
-        ],
-        [
-         "POD 3 2000",
-         "37.9 °C (100.2 °F)",
-         "96",
-         "18",
-         "128/76",
-         "96% RA"
-        ],
-        [
-         "POD 4 0800",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "20",
-         "124/72",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "POD 2",
-        "POD 4",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "11,200/mm³",
-         "15,800/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Glucose (capillary)",
-         "188 mg/dL",
-         "246 mg/dL",
-         "70–110 mg/dL"
-        ],
-        [
-         "Albumin",
-         "—",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Hemoglobin",
-         "12.1 g/dL",
-         "11.8 g/dL",
-         "12–16 g/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "difficulty": 2,
+   "alsoTests": [
+    "wound-healing-intention-phases",
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Wound Care: RYB Color Guide & Debridement",
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "stem": "Refer to the updated Nurses' Notes and Orders. Which action should the nurse take when performing the prescribed wound care?",
+   "stem": "After an incisional infection, the surgeon opened a client's lower abdominal incision, and the wound is now healing by secondary intention. The wound bed is 60% beefy red, moist, bumpy tissue and 40% soft, stringy yellow tissue. Drainage is a small amount of serous fluid. Moist saline dressings are prescribed. Which action is most important when the nurse performs the dressing change?",
    "options": [
-    "Scrub the red tissue firmly with gauze to remove as many bacteria as possible",
-    "Gently cleanse away the yellow slough with saline, then apply the moist dressing",
-    "Leave the wound open to air so the slough can dry into a protective scab",
-    "Apply a tight, dry dressing that presses the separated wound edges firmly back together"
+    "Scrub the red tissue firmly with dry gauze to remove as many bacteria as possible from the base",
+    "Gently cleanse away the yellow slough with saline and keep the red tissue moist",
+    "Leave the wound uncovered between changes so the yellow tissue can dry into a protective scab",
+    "Pack dry gauze tightly against the base so it lifts the yellow tissue off when removed later"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Red granulation tissue is fragile and bleeds easily; on the RYB guide, red tissue is protected, not scrubbed.",
-    "Correct. Yellow nonviable tissue is cleansed away, and the red tissue is protected with a moist dressing so the wound can fill in from the base.",
-    "Incorrect. A dried-out wound bed damages new tissue and slows healing; the order is a moist dressing.",
-    "Incorrect. The wound is healing by secondary intention — the edges are left apart so it fills with granulation tissue from the bottom up."
+    "Incorrect. Beefy red tissue is healthy granulation; it is fragile and bleeds easily, so scrubbing damages it (red = protect).",
+    "Correct. RYB: yellow slough is cleansed away, and red granulation is protected and kept moist so the wound can fill in from the bottom.",
+    "Incorrect. Drying the wound damages granulation and does not remove slough; open secondary-intention wounds heal best moist and covered.",
+    "Incorrect. Dry gauze pulled off the wound is nonselective and would tear away the healthy granulation along with the slough."
    ],
-   "rationale": "The wound was opened and left to heal by secondary intention, so it will fill in with granulation tissue from the base. Using the RYB guide, the nurse cleanses the yellow slough and protects the red granulation tissue with a moist dressing. Scrubbing, drying, or forcing the edges together would damage the healing tissue.",
-   "takeaway": "Open wound with red and yellow tissue: cleanse the yellow, protect the red, keep it moist.",
-   "hintContent": "Recall what the RYB guide says to do for red tissue and for yellow tissue, and how a secondary-intention wound heals.",
-   "hintStrategy": "Look for the option that treats both colors in the wound bed correctly and matches the prescribed dressing.",
-   "priority": false
+   "rationale": "This item connects the RYB color guide with how secondary-intention wounds heal. An open wound fills in with granulation tissue (proliferative phase) that is beefy red, moist, and fragile — RYB says protect it. The yellow slough is nonviable tissue that feeds bacteria and blocks healing — RYB says cleanse it. Because this wound was recently infected, removing slough while protecting new tissue supports both infection control and healing.",
+   "takeaway": "Mixed red–yellow wound: cleanse the yellow, protect and keep moist the red.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall the RYB goals for red and yellow tissue and what healthy granulation tissue in a secondary-intention wound needs.",
+   "hintStrategy": "Identify the two tissue colors in the stem, then pick the only option that treats each color according to its RYB goal without harming the other.",
+   "priority": true
   },
   {
    "id": "m21f-006",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · NGN Case Study: Postoperative Wound Infection",
+   "alsoTests": [
+    "pressure-injuries-nursing-process",
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21f-case-ssi",
-   "caseOrder": 6,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>POD 9, 0900:</strong> Open lower abdominal wound now measures 4.5 × 1.8 × 2.2 cm. Base 90% beefy red, moist, granular tissue; 10% yellow slough. Periwound erythema has receded to 0.5 cm. Drainage is a small amount of serous fluid without odor. Undermining now measures 2.5 cm beneath the lower right edge. Client eating 50% of meals and drinking 2 supplements daily. Pain 3/10 between dressing changes.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "POD 7 0800",
-         "37.8 °C (100.0 °F)",
-         "96",
-         "18",
-         "126/74",
-         "97% RA"
-        ],
-        [
-         "POD 9 0800",
-         "37.1 °C (98.8 °F)",
-         "82",
-         "16",
-         "130/78",
-         "97% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Glucose Log (POD 8–9)",
-      "table": {
-       "headers": [
-        "Time",
-        "Capillary glucose"
-       ],
-       "rows": [
-        [
-         "POD 8 1130",
-         "262 mg/dL"
-        ],
-        [
-         "POD 8 1630",
-         "248 mg/dL"
-        ],
-        [
-         "POD 8 2100",
-         "255 mg/dL"
-        ],
-        [
-         "POD 9 0730",
-         "238 mg/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the POD 9 Nurses' Notes and Vital Signs. The open wound previously had 1.5 cm of undermining. Which finding requires the nurse's immediate follow-up?",
+   "stem": "A client is on postoperative day 9 after a colectomy. A wound infection was treated, and the lower incision was opened and is healing by secondary intention. Temperature is 37.1 °C (98.8 °F). On today's assessment after cleansing, which finding requires the nurse's immediate follow-up?",
    "options": [
-    "Wound base is now 90% beefy red, moist, granular tissue with 10% slough",
-    "Periwound redness has receded to 0.5 cm",
-    "Temperature is 37.1 °C (98.8 °F) and HR is 82/min",
-    "Undermining beneath the lower right edge now measures 2.5 cm"
+    "Wound base is 90% beefy red, moist, granular tissue that bleeds slightly when touched",
+    "Periwound redness has receded from 3 cm to 0.5 cm since antibiotics were started",
+    "A small amount of serous drainage without odor is present on the removed dressing",
+    "Undermining beneath the lower edge now measures 2.5 cm; it was 1.5 cm last week"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Healthy granulation tissue replacing slough shows the proliferative phase is progressing.",
-    "Incorrect. Receding redness indicates the local infection is responding to drainage and antibiotics.",
-    "Incorrect. Resolution of fever and tachycardia indicates the infection is subsiding.",
-    "Correct. Undermining increased from 1.5 cm to 2.5 cm; a larger pocket indicates tissue breakdown and must be reported so the plan can be revised."
+    "Incorrect. Beefy red granulation that bleeds slightly is expected in the proliferative phase — the wound is filling in.",
+    "Incorrect. Redness receding inside its earlier border shows the infection is responding to treatment.",
+    "Incorrect. A small amount of serous, odorless drainage reflects mild inflammation and is expected.",
+    "Correct. Increasing undermining means tissue under the edges is still being destroyed — the wound is deteriorating, so the plan must be reassessed and the provider notified."
    ],
-   "rationale": "Evaluating outcomes compares current data with baseline. Granulation, receding erythema, and normal vital signs show the infection is resolving. Increasing undermining shows ongoing tissue breakdown, so the plan must be revised rather than simply continued. Persistent hyperglycemia in the glucose log also needs to be reported.",
-   "takeaway": "Evaluate each measurable finding against baseline; a wound can improve in one area and worsen in another.",
+   "rationale": "Evaluating a secondary-intention wound draws on the expected proliferative-phase picture (granulation fills the bed, edges contract), the nursing-process skill of measuring and comparing wound features (L × W × D, undermining), and knowledge of infection resolution. Most findings show improvement, but undermining that has grown from 1.5 to 2.5 cm shows hidden tissue loss beneath the edges — a sign of deterioration that calls for reassessment and revision of the plan.",
+   "takeaway": "A wound that looks good on top can still be failing underneath — increasing undermining means deterioration.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
-   "hintContent": "Recall what undermining is and which wound findings show healing versus breakdown.",
-   "hintStrategy": "Compare each finding with its earlier value. Three findings are improving; find the one that is getting worse.",
+   "hintContent": "Recall what a secondary-intention wound should look like in the proliferative phase and which measured wound features signal deterioration.",
+   "hintStrategy": "Compare each finding with its previous value or with the expected picture. Three findings move toward healing; look for the one moving the wrong way.",
    "priority": true
   },
   {
    "id": "m21f-007",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Hemorrhage",
+   "alsoTests": [
+    "wound-healing-factors-exudate",
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "exhibit": {
@@ -789,33 +314,36 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which action should the nurse take first?",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The nurse interprets the drainage, the trend in vital signs, and the laboratory values together. Which action should the nurse take first?",
    "options": [
     "Notify the surgeon immediately of suspected hemorrhage",
-    "Remove the saturated dressing to inspect the incision for the bleeding source",
-    "Place the client in high Fowler's position to ease breathing and restlessness",
-    "Administer the prescribed PRN morphine to relieve the client's restlessness"
+    "Remove the saturated dressing to find the bleeding source",
+    "Place the client in high Fowler's position to ease restlessness",
+    "Give the prescribed PRN morphine to relieve the restlessness"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Bright red saturated dressings, distention, tachycardia, hypotension, oliguria, and a falling hemoglobin indicate hemorrhage with hypovolemic shock; the client often needs to return to surgery, so the surgeon is notified immediately.",
-    "Incorrect. Removing the dressing can dislodge clots and increase bleeding; the nurse reinforces and applies pressure over external bleeding instead.",
-    "Incorrect. High Fowler's worsens venous return and hypotension.",
-    "Incorrect. Restlessness is a sign of cerebral hypoperfusion; opioids can worsen hypotension and mask deterioration."
+    "Correct. Recurrent sanguineous drainage, a distending abdomen, tachycardia, falling BP, low urine output, and a 3.5-g/dL hemoglobin drop within hours of surgery mean hemorrhage; the client likely needs a return to surgery.",
+    "Incorrect. Removing the dressing loses the pressure it provides and delays definitive treatment; reinforce and keep pressure instead.",
+    "Incorrect. High Fowler's can worsen hypotension; restlessness here is a sign of poor perfusion, not positioning discomfort.",
+    "Incorrect. Restlessness is an early sign of blood loss; an opioid could mask it and further lower the blood pressure."
    ],
-   "rationale": "The greatest risk for postoperative hemorrhage is the first 48 hours. This client has external (saturated dressings) and likely internal (distention) bleeding with signs of hypovolemic shock. The nurse notifies the surgeon immediately and supports volume with IV fluids and blood products per protocol while monitoring heart rate, blood pressure, and serial Hgb/Hct.",
-   "takeaway": "Day-of-surgery bright red drainage + rising HR + falling BP = hemorrhage; call the surgeon and restore volume.",
+   "rationale": "Recognizing hemorrhage requires linking three kinds of cues: exudate type (bright red, sanguineous drainage that recurs after reinforcement), timing (within the first 48 hours, the highest-risk period), and laboratory and hemodynamic data (hemoglobin and hematocrit falling, HR rising, BP falling, urine output dropping). Together these indicate active bleeding with early shock, which needs the surgeon now.",
+   "takeaway": "Bright red drainage + falling hemoglobin + tachycardia and hypotension in the first 48 hours = hemorrhage; call the surgeon now.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Recall when the risk of postoperative hemorrhage is greatest and the signs of hypovolemic shock.",
-   "hintStrategy": "Identify the complication from the trends in vital signs and hemoglobin. Then eliminate actions that could worsen bleeding, hypotension, or mask deterioration.",
+   "hintContent": "Recall when postoperative hemorrhage is most likely, what sanguineous drainage means, and how blood loss changes hemoglobin, HR, BP, and urine output.",
+   "hintStrategy": "Decide what the combined data mean before choosing. Then ask which option gets definitive treatment fastest without masking or worsening the problem.",
    "priority": true
   },
   {
    "id": "m21f-008",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Dehiscence",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "exhibit": {
@@ -884,43 +412,46 @@
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which action should the nurse take first?",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The client's daily prednisone and low albumin have weakened the incision. The nurse stays with the client and calls for help. Which action should the nurse take first?",
    "options": [
-    "Apply adhesive closure strips to pull the separated edges back together",
-    "Ask the client to cough so the full extent of the separation can be assessed",
+    "Apply adhesive closure strips to pull the separated edges together",
+    "Ask the client to cough so the full extent of the separation shows",
     "Position the client in low Fowler's with the knees flexed",
-    "Apply a warm compress to the abdomen to relax the abdominal muscles"
+    "Apply a warm compress to the abdomen to relax the muscles"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The nurse does not attempt to reapproximate a dehisced fascial wound; the surgeon determines closure.",
-    "Incorrect. Coughing raises intra-abdominal pressure and can convert dehiscence to evisceration.",
-    "Correct. The client has wound dehiscence. Low Fowler's with the knees flexed relaxes the abdominal muscles and reduces tension on the incision.",
-    "Incorrect. Heat is not indicated, and a non-sterile compress contaminates an open wound."
+    "Incorrect. The nurse does not try to close a dehisced wound; strips will not hold and delay surgical evaluation.",
+    "Incorrect. Coughing raises intra-abdominal pressure and could turn dehiscence into evisceration.",
+    "Correct. Low Fowler's with knees bent relaxes the abdominal muscles and reduces tension on the separated incision; next, cover with sterile saline-moistened dressings and notify the surgeon.",
+    "Incorrect. The wound needs a sterile, saline-moistened covering, not heat; a warm compress is not sterile and does not reduce tension."
    ],
-   "rationale": "Dehiscence is partial or total separation of wound layers, most common on POD 5–8 in abdominal wounds, and is promoted by obesity, malnutrition (low albumin), corticosteroids, infection, and increased intra-abdominal pressure (straining, coughing). The nurse stays with the client, positions in low Fowler's with knees flexed, covers the wound with sterile saline-moistened dressings, notifies the surgeon, and monitors for evisceration and shock.",
-   "takeaway": "Dehiscence: knees up, sterile moist cover, stay, call the surgeon; watch for evisceration.",
+   "rationale": "The 'giving-way' sensation with straining, a gush of pink (serosanguineous) drainage, and separated edges without visible organs identify dehiscence. Steroids and low albumin are factors that impair collagen formation, which explains why the incision failed near the end of the first week. The first action reduces tension on the wound — low Fowler's with knees flexed — followed by sterile saline-moistened dressings and notifying the surgeon while watching for evisceration.",
+   "takeaway": "Dehiscence: stay, low Fowler's with knees bent, sterile saline-moist dressing, notify the surgeon.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Recall the signs of dehiscence and the position that reduces tension on an abdominal incision.",
-   "hintStrategy": "Identify the complication, then eliminate any action that increases intra-abdominal pressure, contaminates the wound, or is outside the nurse's role.",
+   "hintContent": "Recall the signs of dehiscence, which medications and lab values weaken an incision, and how position changes abdominal wall tension.",
+   "hintStrategy": "Identify the complication first, then choose the action that immediately lowers the risk of it getting worse. Eliminate anything that increases abdominal pressure or tries to fix the wound yourself.",
    "priority": true
   },
   {
    "id": "m21f-009",
    "type": "sata",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion in Wound Healing",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse is completing a preoperative history for a 74-year-old client scheduled for an elective total hip arthroplasty. Which findings increase the client's risk for delayed wound healing? Select all that apply.",
+   "stem": "The nurse is completing a preoperative history for a 74-year-old client scheduled for an elective total hip arthroplasty. Which findings increase the client's risk for delayed healing and postoperative wound infection? Select all that apply.",
    "options": [
     "Walks 2 miles most mornings",
     "Takes prednisone 7.5 mg daily for polymyalgia rheumatica",
     "Smokes 10 cigarettes a day",
-    "HbA1c is 5.4%",
-    "Receives methotrexate once weekly",
-    "Has eaten mostly toast and tea since the death of a spouse 3 months ago"
+    "Hemoglobin A1C is 5.4%",
+    "Is receiving chemotherapy for lymphoma",
+    "Has eaten mostly toast and tea since a spouse died 3 months ago"
    ],
    "answer": [
     1,
@@ -929,31 +460,35 @@
     5
    ],
    "optionRationales": [
-    "Incorrect. Regular exercise improves circulation and oxygen delivery, which supports healing.",
-    "Correct. Corticosteroids suppress the inflammatory phase, fibroblast activity, and collagen synthesis, and increase infection risk.",
-    "Correct. Nicotine vasoconstricts and carbon monoxide binds hemoglobin, reducing tissue oxygenation.",
-    "Incorrect. An HbA1c of 5.4% is normal and does not suggest hyperglycemia.",
-    "Correct. Methotrexate is an antimetabolite/immunosuppressant that impairs cell proliferation and immune response.",
-    "Correct. A diet of toast and tea is deficient in protein, vitamin C, zinc, and calories needed for collagen formation."
+    "Incorrect. Regular exercise improves circulation and supports healing.",
+    "Correct. Steroids suppress the inflammation that starts healing and make the client immunocompromised, raising infection risk.",
+    "Correct. Smoking reduces oxygen delivery (vasoconstriction and carbon monoxide), slowing healing and weakening defenses.",
+    "Incorrect. An A1C of 5.4% is in the normal range, so diabetes is not a factor here.",
+    "Correct. Chemotherapy kills rapidly dividing cells, including the new cells a wound needs, and lowers WBC defenses.",
+    "Correct. A diet of mostly toast and tea lacks protein, vitamins, and minerals — malnutrition delays healing."
    ],
-   "rationale": "Delayed healing is promoted by medications that suppress inflammation or cell division (steroids, chemotherapy/immunosuppressants), smoking, and malnutrition. Grief-related poor intake in an older adult is an easily missed risk. Normal glycemic control and exercise are protective.",
-   "takeaway": "Steroids, immunosuppressants, smoking, and poor nutrition each slow healing; screen for all before surgery.",
+   "rationale": "Factors that delay healing overlap with factors that raise infection risk: immunosuppressing drugs (steroids, chemotherapy) blunt inflammation and WBC defense, smoking starves tissue of oxygen, and malnutrition removes the building blocks for collagen and immune cells. In a 74-year-old, these stack on top of slower age-related healing. Walking and a normal A1C are protective or neutral.",
+   "takeaway": "Immunosuppressants, smoking, and poor nutrition both delay healing and make an immunocompromised host prone to infection.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the medications, lifestyle factors, and nutritional problems the slides list as impairing healing.",
-   "hintStrategy": "Judge each finding independently: does it reduce oxygen, nutrients, or the immune and inflammatory response the wound needs?"
+   "hintContent": "Recall the medications, lifestyle factors, and nutritional problems that impair healing, and which clients count as immunocompromised.",
+   "hintStrategy": "Evaluate each finding on its own: does it reduce oxygen, nutrients, or immune function? Check lab values against normal ranges before deciding."
   },
   {
    "id": "m21f-011",
    "type": "sata",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Types of Wound Healing (Secondary Intention); Exudate Types",
+   "alsoTests": [
+    "wound-healing-factors-exudate",
+    "pressure-injuries-wound-care-debridement"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client has an open abdominal wound that has been healing by secondary intention for 3 weeks after dehiscence. The nurse reviews today's weekly wound assessment. Which findings require follow-up with the provider? Select all that apply.",
+   "stem": "A client has an open abdominal wound that has been healing by secondary intention for 3 weeks after dehiscence. The nurse compares today's weekly wound assessment with last week's. Which findings require follow-up with the provider? Select all that apply.",
    "options": [
     "80% red, moist, granular tissue in the wound base",
-    "Wound measures 4.2 × 3.1 × 1.8 cm, up from 3.5 × 2.6 × 1.2 cm last week",
+    "Wound measures 4.2 × 3.1 × 1.8 cm, up from 3.5 × 2.6 × 1.2 cm",
     "Wound edges are attached and flush with the base",
     "New yellow slough covering 20% of the base",
     "Temperature 37.0 °C (98.6 °F)",
@@ -965,65 +500,69 @@
     5
    ],
    "optionRationales": [
-    "Incorrect. Red, moist, granular tissue is healthy granulation, expected in the proliferative phase.",
-    "Correct. A wound healing by secondary intention should shrink each week; an increase in all dimensions indicates deterioration.",
-    "Incorrect. Attached edges support healing.",
-    "Correct. New yellow slough (nonviable tissue) indicates a setback and must be cleansed away (RYB: yellow = cleanse).",
-    "Incorrect. A normal temperature is not an abnormal finding, although it does not rule out local infection.",
-    "Correct. Thick, green, foul-smelling drainage is purulent and suggests infection."
+    "Incorrect. Beefy red granulation filling the base is the expected proliferative-phase finding.",
+    "Correct. A secondary-intention wound should get smaller and shallower; increasing size and depth means the wound is deteriorating.",
+    "Incorrect. Attached edges flush with the base allow epithelial cells to migrate across — a healing sign.",
+    "Correct. New slough (yellow, nonviable tissue) in a previously clean wound signals deterioration; RYB says it must be cleansed away, and the plan needs review.",
+    "Incorrect. A normal temperature is reassuring and does not by itself need follow-up.",
+    "Correct. Thick, green, foul-smelling drainage is purulent exudate — a sign of infection."
    ],
-   "rationale": "Secondary-intention wounds are evaluated by trends: size should decrease, granulation should increase, and drainage should decrease and stay non-purulent. Enlarging size, new slough, and purulent drainage signal a wound that is not healing and may be infected, even when the client is afebrile.",
-   "takeaway": "Measure weekly; a wound that is getting bigger or develops new slough or purulent drainage is not healing.",
+   "rationale": "Evaluating an open wound means knowing the expected proliferative-phase course (granulation fills in, size and depth shrink, edges attach and epithelialize), reading the exudate (purulent = infection), and applying the RYB guide (new yellow slough is nonviable tissue). A larger, deeper wound with new slough and purulent drainage is going backward and needs provider follow-up even though the temperature is normal.",
+   "takeaway": "Open wound going backward — bigger, deeper, new slough, or pus — needs follow-up even with a normal temperature.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall how a wound healing by secondary intention should change from week to week.",
-   "hintStrategy": "Treat each finding as expected or unexpected for a healing open wound. Select those showing deterioration or infection."
+   "hintContent": "Recall what a secondary-intention wound should look like 3 weeks in, what each exudate type means, and what yellow tissue in the bed represents.",
+   "hintStrategy": "Compare each finding with the expected direction of healing. Select findings that show the wound getting worse, not the ones that look normal."
   },
   {
    "id": "m21f-012",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Types of Wound Healing",
-   "difficulty": 1,
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
+   "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A 24-year-old client had an infected pilonidal cyst excised. The surgeon left the wound open with packing and plans for it to heal without closure. The client asks, “Why didn't they just stitch it closed? Now it will take forever.” Which response by the nurse is best?",
+   "options": [
+    "“Open wounds heal faster and leave less scarring than stitched ones because air dries them.”",
+    "“It will fill in from the bottom with new tissue, so infection is not trapped under the skin.”",
+    "“Stitches are avoided because an infected wound is unable to form any new granulation tissue.”",
+    "“The surgeon will stitch it in 3 to 5 days once the swelling goes down, as is done for all cysts.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Secondary intention takes longer and leaves more scarring than primary intention; air-drying also harms new tissue.",
+    "Correct. Secondary intention lets the wound granulate from the base upward while drainage escapes, lowering the chance of trapping infection.",
+    "Incorrect. Infected wounds can still granulate once the infection is controlled; that is not why stitches are avoided.",
+    "Incorrect. That describes tertiary (delayed primary) intention, which is not the surgeon's plan here."
+   ],
+   "rationale": "The item links types of healing with infection risk. An infected wound closed over the top can trap bacteria, so the surgeon lets it heal by secondary intention: it fills in with granulation from the bottom up. The trade-offs the nurse should be honest about are slower healing and more scarring — not faster healing. Tertiary intention (open 3–5 days, then closed) is a different plan.",
+   "takeaway": "Infected wounds are often left open to heal by secondary intention — slower and more scarring, but infection is not sealed in.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
-   "stem": "A 24-year-old client had a pilonidal cyst excised, and the surgeon left the wound open with packing. The client asks, “Why didn't they just stitch it closed? Now it will take forever to heal.” Which response by the nurse is best?",
-   "options": [
-    "“Leaving it open lets it fill in from the bottom so infection is not trapped under the skin.”",
-    "“The surgeon ran out of time and will close the wound at your next appointment.”",
-    "“Open wounds heal faster than stitched wounds because air dries the tissue.”",
-    "“Stitches would leave a larger scar, so the wound is being left open mainly for cosmetic reasons.”"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Wounds with tissue loss or contamination heal by secondary intention: granulation tissue fills from the base up, preventing abscess formation beneath a closed surface.",
-    "Incorrect. This is inaccurate and misleading; the open wound is intentional. (Delayed closure, tertiary intention, is a different, planned approach.)",
-    "Incorrect. Secondary intention takes longer, and moist—not dry—wound beds heal best.",
-    "Incorrect. Secondary intention produces MORE scarring than primary closure."
-   ],
-   "rationale": "Primary intention closes clean wounds with approximated edges and minimal scarring. Contaminated wounds or those with tissue loss are left open to heal by secondary intention—slower, with more granulation and scarring, but with less risk of trapping infection beneath the skin.",
-   "takeaway": "Secondary intention = open, fills from the bottom, slower, more scarring, less trapped infection.",
-   "hintContent": "Recall why contaminated or cavity wounds are not closed primarily and how secondary-intention wounds fill in.",
-   "hintStrategy": "Choose the answer that is both accurate and addresses the client's concern; eliminate statements that are factually wrong about healing speed or scarring.",
+   "hintContent": "Recall how primary, secondary, and tertiary intention differ in closure, healing time, scarring, and infection risk.",
+   "hintStrategy": "Identify which type of healing the surgeon's plan describes, then choose the statement that is both accurate and addresses the client's concern.",
    "priority": false
   },
   {
    "id": "m21f-013",
    "type": "sata",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing (Proliferative)",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
-   "stem": "A client has a full-thickness leg wound that is healing by secondary intention. On day 14, which findings indicate the wound is progressing through the proliferative phase as expected? Select all that apply.",
+   "stem": "A 52-year-old client has a full-thickness lower-leg wound from a motorcycle crash that is healing by secondary intention. On day 14, the nurse evaluates the wound. Which findings indicate the wound is progressing through the proliferative phase as expected? Select all that apply.",
    "options": [
     "Beefy red, moist, bumpy tissue in the wound bed",
     "Pale pink, smooth, dry tissue in the wound bed",
     "Scant bleeding when the tissue is gently touched",
     "Thin pink rim of new tissue at the wound margins",
-    "Increasing amount of thick, yellow exudate",
+    "Increasing amount of thick, yellow, opaque exudate",
     "Wound depth decreased from 2 cm to 1.2 cm"
    ],
    "answer": [
@@ -1033,202 +572,227 @@
     5
    ],
    "optionRationales": [
-    "Correct. Healthy granulation tissue is beefy red, moist, and granular because of new capillary loops.",
-    "Incorrect. Pale, smooth, or dry tissue suggests poor perfusion or a stalled wound.",
-    "Correct. Granulation tissue is fragile and bleeds easily; minimal bleeding with gentle contact is expected.",
-    "Correct. Epithelial cells migrate inward from the margins, appearing as a thin pink rim.",
-    "Incorrect. Increasing thick, yellow exudate suggests infection, not normal proliferation.",
-    "Correct. Contraction and granulation fill the defect, so depth decreases over time."
+    "Correct. Healthy granulation tissue is beefy red, moist, and granular.",
+    "Incorrect. Pale, dry tissue suggests poor blood supply and poor healing.",
+    "Correct. Granulation is packed with new capillaries, so it is fragile and bleeds slightly when touched.",
+    "Correct. Epithelial cells migrating from the edges form a thin pink rim — part of the proliferative phase.",
+    "Incorrect. Increasing thick, yellow, opaque drainage is purulent exudate, suggesting infection rather than normal healing.",
+    "Correct. Granulation filling the wound from the bottom makes it shallower over time."
    ],
-   "rationale": "During the proliferative phase (about days 3–21), fibroblasts lay down collagen, capillaries form granulation tissue that is red and bleeds easily, the wound contracts, and epithelial cells migrate from the edges. Pale tissue and increasing purulent exudate indicate impaired healing.",
-   "takeaway": "Healthy granulation is red, moist, bumpy, and a little bloody; pale or purulent is a problem.",
-   "hintContent": "Recall what fibroblasts, new capillaries, and epithelial cells produce during proliferation and how each looks at the bedside.",
-   "hintStrategy": "Treat each option as true/false: is this what normal granulation and epithelialization look like?"
+   "rationale": "Between about day 3 and day 21, fibroblasts lay down collagen, new capillaries form granulation tissue, and epithelial cells migrate in from the edges. Expected findings are beefy red, moist, slightly bleeding granulation, a pink epithelial rim, and a shrinking wound. The exudate should lessen and stay serous; increasing purulent drainage points to infection, and pale, dry tissue points to poor perfusion.",
+   "takeaway": "Day 14 open wound: beefy red, bleeds a little, pink edges, getting shallower — and drainage should be decreasing, not purulent.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall the events of the proliferative phase and what healthy granulation tissue and normal exudate look like.",
+   "hintStrategy": "Treat each option as true or false for 'expected healing on day 14.' Watch for findings that sound like healing but describe infection or poor perfusion."
   },
   {
    "id": "m21f-014",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing (Proliferative)",
+   "alsoTests": [
+    "wound-healing-factors-exudate",
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client with a BMI of 41 is on postoperative day 9 after an open ventral hernia repair. The incision is closed with staples, the edges are approximated, and there is no drainage. When the nurse palpates along the incision, no firm ridge can be felt beneath it. What is the most accurate interpretation?",
+   "options": [
+    "The incision is healing normally because the edges are still approximated with staples",
+    "The missing ridge signals a deep incisional infection that needs a wound culture today",
+    "The incision has entered the maturation phase, so remodeling of the scar is complete",
+    "Collagen deposition is lagging, so the client is at increased risk for dehiscence"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Approximated edges can hide a weak incision; strength comes from collagen, not staples.",
+    "Incorrect. Infection shows as pain, redness, purulent drainage, and fever — none are present.",
+    "Incorrect. Maturation begins around day 21 and lasts 1–2 years; it is not complete on day 9.",
+    "Correct. A healing ridge from new collagen is expected by about the end of week 1; its absence means a weak incision, and obesity adds tension and poor blood supply."
+   ],
+   "rationale": "This item combines the proliferative phase (fibroblasts make collagen that forms a palpable healing ridge by about day 7–9), factors affecting healing (obesity means poor adipose blood supply and suture-line tension), and complications (dehiscence tends to occur near the end of the first week when collagen is weak). No ridge on POD 9 in a client with obesity is a warning sign; the nurse reports it and reinforces splinting and avoiding heavy lifting.",
+   "takeaway": "No healing ridge by about POD 9 = weak collagen = dehiscence risk, especially with obesity.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "A client with a BMI of 41 is on postoperative day 9 after an open ventral hernia repair. The incision is closed with staples, the edges are approximated, and there is no drainage. The nurse palpates along the incision and cannot feel a firm ridge beneath it. What is the most accurate interpretation?",
-   "options": [
-    "The incision is healing normally because the edges remain approximated.",
-    "Collagen deposition is inadequate, placing the client at risk for dehiscence.",
-    "The absence of a ridge indicates that the client has a deep incisional infection.",
-    "The incision has entered the maturation phase and remodeling is complete."
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Incorrect. Approximated skin edges do not guarantee strength in the deeper layers; the healing ridge reflects underlying collagen.",
-    "Correct. A palpable healing ridge (induration from new collagen) is expected by about POD 5–9. Its absence suggests poor collagen synthesis and increased risk of wound separation.",
-    "Incorrect. Infection presents with erythema, warmth, pain, and drainage, none of which are described.",
-    "Incorrect. Maturation begins about day 21 and continues for 1–2 years; remodeling is far from complete on POD 9."
-   ],
-   "rationale": "In primary-intention healing, collagen laid down during the proliferative phase forms a palpable healing ridge between about days 5 and 9. A missing ridge in a client with obesity (poorly vascularized adipose tissue, increased tension) signals weak healing and possible dehiscence; the nurse reports it and reinforces splinting and avoiding strain.",
-   "takeaway": "No healing ridge by POD 9 = weak collagen = dehiscence risk.",
-   "hintContent": "Recall what the healing ridge represents and when during the proliferative phase it should appear.",
-   "hintStrategy": "Look past the reassuring skin appearance. Ask what the missing finding tells you about the deeper layers.",
+   "hintContent": "Recall what produces the healing ridge, when it is normally felt, and why obesity affects incision strength.",
+   "hintStrategy": "Ask what the missing finding tells you about the phase of healing, then link it to the complication most likely at this point after surgery.",
    "priority": false
   },
   {
    "id": "m21f-015",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing; RYB Color Guide",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement",
+    "wound-types-classification"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client has an open hand wound from a dog bite that was irrigated and left open. On day 8, the wound bed is filling with red, moist tissue produced mainly by fibroblasts and new capillaries, and the edges are beginning to contract. Which action should the nurse take to protect this tissue?",
+   "stem": "A client has an open hand wound from a dog bite that was irrigated and left open because it was contaminated. On day 8, the wound bed is filling with red, moist tissue produced by fibroblasts and new capillaries, and the edges are beginning to contract. There is no slough or eschar. Which action should the nurse take to protect this tissue?",
    "options": [
-    "Leave the wound uncovered so the wound bed can air-dry",
+    "Apply a moist, nonadherent dressing to the wound bed",
+    "Apply a wet-to-dry gauze dressing so each change removes debris from the bed",
     "Scrub the wound bed with povidone-iodine at each dressing change",
-    "Apply a wet-to-dry gauze dressing to keep the wound bed clean",
-    "Apply a moist, nonadherent dressing"
+    "Leave the wound uncovered so the wound bed can air-dry"
    ],
-   "answer": 3,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. Drying damages fragile granulation tissue and slows epithelialization.",
-    "Incorrect. Scrubbing and cytotoxic antiseptics damage healthy granulation tissue.",
-    "Incorrect. Wet-to-dry dressings debride nonselectively and pull away healthy granulation.",
-    "Correct. The wound is in the proliferative phase; fragile granulation tissue is protected with a moist, nonadherent dressing."
+    "Correct. Red granulation tissue should be protected and kept moist; a nonadherent dressing will not tear it on removal.",
+    "Incorrect. Wet-to-dry is nonselective mechanical debridement; it would strip the healthy granulation tissue.",
+    "Incorrect. Scrubbing damages fragile granulation tissue, which bleeds easily.",
+    "Incorrect. Drying out the bed damages new tissue and slows epithelial migration."
    ],
-   "rationale": "Days 3–21 are the proliferative phase: fibroblasts synthesize collagen and, with new capillaries (angiogenesis), form granulation tissue while the wound contracts. Granulation tissue is fragile, so it is protected with a moist, nonadherent dressing. Drying, cytotoxic antiseptics, and wet-to-dry dressings (nonselective debridement) damage healthy granulation.",
-   "takeaway": "Red granulation = proliferative phase = protect it with moist, nonadherent coverage.",
+   "rationale": "A contaminated bite wound is often left open to heal by secondary intention. By day 8 it is in the proliferative phase: fibroblasts and new capillaries form beefy red granulation, and the edges contract. The RYB guide says red tissue is protected and kept moist. Debriding methods such as wet-to-dry are for wounds with dead tissue, not a clean granulating bed.",
+   "takeaway": "Clean red granulating wound = protect and keep moist; never wet-to-dry.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the RYB treatment goal for red granulation tissue.",
-   "hintStrategy": "Red tissue is healthy but fragile. Eliminate options that dry, scrub, or pull tissue from the wound bed.",
+   "hintContent": "Recall what the tissue described in the stem is called, which healing phase it belongs to, and the RYB goal for red tissue.",
+   "hintStrategy": "Name the tissue first. Then eliminate any option that would dry, scrub, or pull off healthy tissue.",
    "priority": false
   },
   {
    "id": "m21f-016",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing (Maturation – Keloids)",
+   "alsoTests": [
+    "skin-assessment-lesions"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Generate Solutions",
-   "focus": "Lifespan & Diversity",
    "stem": "A 19-year-old client of African descent had a thick, raised, shiny scar form on the earlobe after a piercing; the scar now extends well beyond the original piercing site. The client is scheduled for a laparoscopic cholecystectomy and asks about scarring. Which response by the nurse is most appropriate?",
    "options": [
-    "“Your scar is a normal hypertrophic scar and will flatten on its own within a few months.”",
-    "“Scar tissue only forms like that on earlobes, so your abdominal incisions will not be affected.”",
-    "“Tell your surgeon about this scar; you may be prone to keloids, and prevention can be planned.”",
-    "“That scar formed because the piercing was infected, so it will not happen with a sterile incision.”"
+    "“That is a hypertrophic scar, which stays inside the wound edges and will flatten on its own.”",
+    "“That type of scar forms only on earlobes, so your abdominal incisions will not be affected.”",
+    "“Tell your surgeon about this scar, because you may be prone to forming keloids.”",
+    "“That scar formed because the piercing was infected, so a sterile incision will not do this.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A scar that grows beyond the original wound margins is a keloid, not a hypertrophic scar; keloids do not flatten on their own.",
-    "Incorrect. Keloids can form on any site, including the earlobes, chest, shoulders, and upper back.",
-    "Correct. A keloid reflects excess collagen during the maturation phase, occurs more often in people with darker skin, and tends to recur; the surgeon needs to know so preventive measures can be planned.",
-    "Incorrect. Keloids are related to genetic predisposition and abnormal collagen deposition, not only to infection."
+    "Incorrect. A hypertrophic scar stays within the original wound borders; this scar extends beyond them.",
+    "Incorrect. Keloids can form after any skin injury, including surgical incisions.",
+    "Correct. A scar that grows beyond the wound edge is a keloid — excess collagen in the maturation phase — and a history of keloids should be reported before surgery.",
+    "Incorrect. Keloids result from overproduction of collagen, not infection; they can form after clean incisions."
    ],
-   "rationale": "During maturation (day 21 to 1–2 years), collagen remodels. Overproduction produces hypertrophic scars (confined to the wound) or keloids (extending beyond the original margins). Keloids are more common in clients of African, Asian, and Hispanic descent and in younger adults, so a history of keloids is important preoperative information.",
-   "takeaway": "A scar that grows beyond the wound = keloid; report the history before any surgery.",
-   "hintContent": "Recall how hypertrophic scars and keloids differ and which populations are at higher risk for keloids.",
-   "hintStrategy": "The best answer both identifies the finding correctly and leads to an action that helps the client, rather than offering false reassurance.",
+   "rationale": "Recognizing the lesion (a keloid — a raised scar extending beyond the original wound, more common in darker skin) and linking it to the maturation phase (collagen reorganizes; sometimes too much is produced) guides the teaching. Because keloid-prone clients can form them after any incision, the nurse encourages the client to tell the surgeon so prevention can be planned.",
+   "takeaway": "Scar beyond the wound edges = keloid; tell the surgeon before any new incision.",
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Recall how a keloid differs from a hypertrophic scar, which phase of healing produces scar overgrowth, and which clients are more prone to it.",
+   "hintStrategy": "Identify the scar type from the description, then choose the response that is accurate and helps the client plan for the upcoming surgery.",
    "priority": false
   },
   {
    "id": "m21f-017",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Lifespan Considerations in Wound Healing",
+   "alsoTests": [
+    "lifespan-skin",
+    "pressure-injuries-prevention"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "An 86-year-old client is on postoperative day 5 after an open reduction and internal fixation of the ankle. Which finding requires the nurse's immediate follow-up?",
+   "stem": "An 86-year-old client is on postoperative day 5 after open reduction and internal fixation of the ankle. The client is afebrile, alert, and eating well. Which finding requires the nurse's immediate follow-up?",
    "options": [
-    "Epithelialization of the incision is slower than in younger clients",
-    "Incision edges are slightly less indurated than expected for POD 5",
-    "New-onset confusion and a temperature of 37.6 °C (99.7 °F)",
-    "Thin, fragile skin around the incision that bruises easily"
+    "Incision edges are closing more slowly than in younger clients with the same surgery",
+    "A new 3-cm skin tear on the forearm after staff pulled the client up in bed",
+    "Incision edges are slightly less red and swollen than expected for POD 5",
+    "Thin, fragile skin with purple patches of senile purpura on both forearms"
    ],
-   "answer": 2,
+   "answer": 1,
    "optionRationales": [
-    "Incorrect. Older adults have slower epidermal turnover and delayed epithelial migration; this is expected.",
-    "Incorrect. A diminished inflammatory response is common with aging, so redness and induration may be less pronounced.",
-    "Correct. Older adults often have blunted fever responses; new confusion with even a low-grade temperature can be the first sign of infection.",
-    "Incorrect. Dermal thinning and capillary fragility are normal aging changes, though they require gentle handling."
+    "Incorrect. Slower epithelialization is an expected age-related change in wound healing.",
+    "Correct. A skin tear is a new wound, not an expected finding; it also shows staff dragged the client, so moving technique must change (lift with a draw sheet).",
+    "Incorrect. A slower, quieter inflammatory response is expected in older adults.",
+    "Incorrect. Thin skin and senile purpura are expected aging changes that call for gentle handling, not immediate follow-up."
    ],
-   "rationale": "Aging slows every phase of healing: inflammation is blunted, collagen synthesis and epithelialization are slower, and the skin is thinner. Because the classic signs of infection may be muted, subtle changes such as new confusion or a low-grade fever require prompt follow-up.",
-   "takeaway": "In older adults, expect slower, quieter healing, and treat new confusion as a possible infection cue.",
+   "rationale": "Older adults heal more slowly and with a blunted inflammatory response, and their skin is thin and fragile — these are expected. The finding that needs action is a new skin tear caused by pulling the client: it is a new wound and a sign of friction and poor handling. Prevention principles apply: lift with a draw sheet and a second person rather than dragging.",
+   "takeaway": "In older adults, slow, quiet healing is expected — a new skin tear from dragging is not.",
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Recall how aging affects each phase of wound healing and how infection may present in older adults.",
-   "hintStrategy": "Three findings are expected age-related changes. Find the one that could signal a new, acute problem.",
+   "hintContent": "Recall how aging changes skin and wound healing, and how clients should be moved to avoid friction injuries.",
+   "hintStrategy": "Sort the options into 'expected with aging' and 'new problem.' The item asks for the one that is not an expected age-related change.",
    "priority": true
   },
   {
    "id": "m21f-020",
    "type": "mcq",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion in Wound Healing",
+   "alsoTests": [
+    "diagnostics-labs-nutrition",
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "stem": "The nurse is reviewing four clients who each had abdominal surgery 2 days ago. Which client should the nurse prioritize for interventions to prevent delayed wound healing?",
+   "stem": "The nurse is reviewing four clients who each had open abdominal surgery 2 days ago. Which client should the nurse prioritize for interventions to prevent delayed healing and wound infection?",
    "options": [
     "A 45-year-old with hypertension controlled with lisinopril who walks the halls 4 times daily",
-    "A 58-year-old with type 2 diabetes, glucose 284 mg/dL, who smokes and eats 30% of meals",
     "A 70-year-old with osteoarthritis who takes acetaminophen and eats 75% of meals",
-    "A 34-year-old with a BMI of 29 who reports social alcohol use on weekends"
+    "A 34-year-old with a BMI of 29 who reports drinking alcohol socially on weekends",
+    "A 58-year-old with type 2 diabetes, glucose 284 mg/dL, albumin 2.9 g/dL, who smokes"
    ],
-   "answer": 1,
+   "answer": 3,
    "optionRationales": [
-    "Incorrect. Controlled hypertension and early ambulation pose little risk; activity improves circulation.",
-    "Correct. Hyperglycemia impairs neutrophil function and microcirculation, smoking reduces tissue oxygenation, and poor intake limits protein for collagen—three compounding risk factors.",
-    "Incorrect. Age is a risk factor, but acetaminophen does not impair healing and intake is adequate.",
-    "Incorrect. Mild overweight and occasional alcohol use carry lower risk than multiple uncontrolled factors."
+    "Incorrect. Controlled hypertension and frequent walking pose little risk; walking improves circulation.",
+    "Incorrect. Acetaminophen does not impair healing, and 75% meal intake is reasonable nutrition.",
+    "Incorrect. A BMI of 29 and social alcohol use are minor compared with the stacked risks of another client.",
+    "Correct. Hyperglycemia impairs WBCs and blood flow, low albumin signals poor protein status, and smoking reduces oxygen delivery — three stacked risks after GI surgery."
    ],
-   "rationale": "Risk for delayed healing is cumulative. Uncontrolled hyperglycemia, smoking, and malnutrition each reduce oxygen delivery, immune function, or collagen synthesis, so a client with all three is at greatest risk.",
-   "takeaway": "Stacked risk factors (glucose + smoking + poor intake) outweigh a single mild one.",
-   "hintContent": "Recall how glucose, nicotine, and protein intake each affect the inflammatory and proliferative phases.",
-   "hintStrategy": "Count and weigh the risk factors in each option; the key is the client whose factors are both multiple and uncontrolled.",
+   "rationale": "Prioritizing risk means reading the lab values (glucose 284 mg/dL, albumin 2.9 g/dL) as healing barriers and recognizing that abdominal (GI) surgery raises infection risk. The client with uncontrolled diabetes, low albumin, and smoking has multiple stacked factors that reduce WBC function, protein for collagen, and oxygen delivery, so this client needs the most aggressive prevention.",
+   "takeaway": "Greatest risk = the most stacked factors: high glucose + low albumin + smoking after GI surgery.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Recall the lab values that signal poor healing capacity and the lifestyle and chronic conditions that impair oxygen delivery and immune function.",
+   "hintStrategy": "Count the significant risk factors for each client, and check lab values against normal ranges. The client with several major factors stacked together is the priority.",
    "priority": true
   },
   {
    "id": "m21f-021",
    "type": "mcq",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion – Medications",
+   "alsoTests": [
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "cjmm": "Analyze Cues",
-   "focus": "Pharmacology",
    "stem": "A client who has taken prednisone daily for 6 months for severe asthma has a leg laceration that shows almost no redness, swelling, or new tissue after 2 weeks. The client asks why it is healing so slowly. Which explanation by the nurse is accurate?",
    "options": [
-    "“Prednisone thins your blood, so the wound keeps bleeding and cannot close.”",
     "“Prednisone suppresses the inflammation your wound needs to start healing.”",
-    "“Prednisone kills the good bacteria your wound needs to begin healing.”",
-    "“Prednisone makes new tissue grow so fast that the edges cannot join.”"
+    "“Prednisone thins your blood, so the wound keeps oozing and cannot close.”",
+    "“Prednisone speeds up scar formation, so the edges seal before it fills in.”",
+    "“Prednisone kills the bacteria that normally signal the wound to heal.”"
    ],
-   "answer": 1,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. Prednisone does not act as an anticoagulant; aspirin affects clotting.",
-    "Correct. Steroids suppress the inflammatory phase that starts healing, and they slow new tissue formation and raise infection risk.",
-    "Incorrect. Wounds do not need bacteria to heal; prednisone is not an antibiotic.",
-    "Incorrect. Steroids slow, rather than speed, new tissue growth."
+    "Correct. Steroids blunt the inflammatory phase, which cleans the wound and signals fibroblasts to start rebuilding; without it, healing stalls.",
+    "Incorrect. Interfering with platelets describes aspirin, not prednisone.",
+    "Incorrect. Steroids slow collagen formation rather than speeding scar formation.",
+    "Incorrect. Prednisone is not an antibiotic, and bacteria do not signal healing; steroids actually raise infection risk."
    ],
-   "rationale": "The slides list steroids, aspirin, and chemotherapy as medications that impair healing. Steroids suppress the inflammatory phase (hemostasis and phagocytosis must occur before new tissue forms) and slow collagen formation. The nurse reports poor healing to the provider; the client should not stop the steroid without guidance.",
-   "takeaway": "Steroids blunt inflammation — and without inflammation, healing stalls.",
-   "hintContent": "Recall what the inflammatory phase does and how steroids affect inflammation.",
-   "hintStrategy": "Eliminate options describing effects that belong to other drug classes or that do not occur.",
+   "rationale": "This item links a medication that impairs healing to the phase it disrupts. Inflammation (days 3–6) is necessary: neutrophils and macrophages clear debris and release signals that start the proliferative phase. Long-term prednisone suppresses that response, which is why the wound shows little redness, swelling, or granulation after 2 weeks.",
+   "takeaway": "No inflammation, no healing — steroids stall wounds at the very first phase.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "hintContent": "Recall what happens in the inflammatory phase and which slide-listed medications impair healing and how.",
+   "hintStrategy": "Match the missing findings in the stem (little redness or swelling) to the healing phase they belong to, then pick the explanation that describes prednisone's effect on that phase.",
    "priority": false
   },
   {
    "id": "m21f-022",
    "type": "sata",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion – Nutrition",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "stem": "A client with an open surgical wound healing by secondary intention has lost weight and eats about half of each meal. The client has no kidney disease. Which recommendations should the nurse include in nutrition teaching? Select all that apply.",
+   "stem": "A client with an open surgical wound healing by secondary intention has lost 4 kg (8.8 lb) in 6 weeks, eats about half of each meal, and has a serum albumin of 3.0 g/dL. The client has no kidney disease. Which recommendations should the nurse include in nutrition teaching? Select all that apply.",
    "options": [
     "Include a protein food such as eggs, fish, or beans at every meal",
     "Include citrus fruits, strawberries, and peppers for vitamin C",
@@ -1244,81 +808,88 @@
     5
    ],
    "optionRationales": [
-    "Correct. Increased protein is needed to build new tissue and fight infection.",
-    "Correct. Vitamin C is needed for collagen formation.",
-    "Incorrect. Adequate hydration is needed for circulation and a moist wound bed.",
-    "Correct. Zinc and iron are nutrients the slides list for wound healing.",
-    "Incorrect. Carbohydrates and fats provide the energy healing requires; too few calories forces the body to use protein for energy instead of repair.",
-    "Correct. Supplements between meals increase protein and calorie intake without replacing meals."
+    "Correct. Protein is the raw material for collagen, new cells, and immune cells; the low albumin shows protein status is poor.",
+    "Correct. Vitamin C is needed to form strong collagen and supports immune function.",
+    "Incorrect. Without a medical restriction, fluids keep tissue perfused and hydrated; limiting them does not help a wound.",
+    "Correct. Zinc helps build collagen and new cells; iron builds hemoglobin to carry oxygen to the wound.",
+    "Incorrect. Too few calories makes the body burn protein for energy instead of building tissue.",
+    "Correct. Supplements between meals help meet increased protein and calorie needs when intake is low."
    ],
-   "rationale": "Healing requires increased protein, carbohydrates, and fats, plus vitamins A and C, iron, zinc, and copper, and adequate fluids. Malnutrition delays healing. Restricting fluids or calories works against healing.",
-   "takeaway": "Wounds need protein, calories, fluid, vitamins A and C, zinc, iron, and copper.",
-   "hintContent": "Recall the nutrients listed on the health-promotion slide for wound healing.",
-   "hintStrategy": "Evaluate each option independently; eliminate recommendations that would reduce the building blocks or fluid the wound needs."
+   "rationale": "Weight loss, eating half of meals, and an albumin below 3.5 g/dL together signal malnutrition that will slow a large open wound. Teaching targets the slide's nutrients — protein, carbohydrates and fats for energy, vitamins A and C, iron, zinc, and copper — plus adequate fluids. Restricting fluids or calories works against healing.",
+   "takeaway": "Low albumin + weight loss = feed the wound: protein, calories, vitamin C, zinc, iron, and fluids.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall what a low albumin suggests and which nutrients the slides list for wound healing and why each matters.",
+   "hintStrategy": "For each recommendation, ask whether it adds building materials or energy for new tissue. Eliminate anything that restricts what the wound needs."
   },
   {
    "id": "m21f-023",
    "type": "mcq",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion – Lifestyle (Smoking)",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
-   "stem": "The nurse has taught a client who smokes about the effects of smoking on healing of a foot wound. Which statement by the client indicates a need for further teaching?",
+   "stem": "The nurse has taught a client who smokes about how smoking affects healing of a foot wound. Which statement by the client indicates a need for further teaching?",
    "options": [
     "“Smoking narrows my blood vessels, so less oxygen and nutrients reach my wound.”",
     "“The carbon monoxide in smoke takes the place of oxygen on my red blood cells.”",
-    "“I can ask my provider about nicotine replacement and a quit-smoking program.”",
-    "“Switching to vaping will protect my wound because there is no smoke involved.”"
+    "“Switching to vaping will protect my wound because no smoke is involved.”",
+    "“I can ask my provider about nicotine replacement and a quit-smoking program.”"
    ],
-   "answer": 3,
+   "answer": 2,
    "optionRationales": [
-    "Incorrect (accurate statement). Nicotine causes vasoconstriction and reduces perfusion.",
-    "Incorrect (accurate statement). Carbon monoxide binds hemoglobin and lowers oxygen delivery to tissues.",
-    "Incorrect (accurate statement). Referral to cessation resources is appropriate; the provider can weigh the risks of nicotine replacement.",
-    "Correct (needs teaching). E-cigarettes still deliver nicotine, which causes vasoconstriction and impairs healing."
+    "Incorrect. This is accurate: nicotine causes vasoconstriction, reducing blood flow to the wound.",
+    "Incorrect. This is accurate: carbon monoxide binds hemoglobin, so each red blood cell carries less oxygen.",
+    "Correct. This needs more teaching — e-cigarettes still deliver nicotine, which still constricts the vessels feeding the wound.",
+    "Incorrect. This is an appropriate plan and shows understanding."
    ],
-   "rationale": "Smoking impairs healing through nicotine-induced vasoconstriction, carbon monoxide binding to hemoglobin, and impaired immune function. Nicotine from any source, including vaping, causes vasoconstriction, so a vaping switch does not remove the risk.",
-   "takeaway": "It is the nicotine, not just the smoke: vaping still constricts vessels.",
-   "hintContent": "Recall the two main mechanisms by which smoking reduces oxygen delivery to a wound.",
-   "hintStrategy": "This is a 'needs further teaching' item: look for the INCORRECT client belief.",
+   "rationale": "Smoking starves a wound of oxygen in two ways: nicotine constricts blood vessels, and carbon monoxide displaces oxygen on hemoglobin. Vaping removes the smoke but not the nicotine, so the vasoconstriction continues. The nurse praises steps toward quitting and encourages nicotine replacement options and a cessation program discussed with the provider.",
+   "takeaway": "Vaping still delivers nicotine — it is not a wound-safe swap.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "hintContent": "Recall the two ways smoking reduces oxygen delivery to a wound and which of those comes from nicotine itself.",
+   "hintStrategy": "This is a 'needs further teaching' item: look for the one statement that is inaccurate.",
    "priority": false
   },
   {
    "id": "m21f-024",
    "type": "mcq",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Exudate Types (Purosanguineous)",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse changes the dressing of a client whose below-knee amputation incision was opened for drainage 2 days ago. The gauze contains thick, cream-colored drainage streaked with blood, and the client has a temperature of 38.3 °C (100.9 °F). Which action should the nurse take first?",
+   "stem": "The nurse changes the dressing of a client whose below-knee amputation incision was opened for drainage 2 days ago. The gauze contains thick, cream-colored drainage streaked with blood, and the client's temperature is 38.7 °C (101.7 °F). Which action should the nurse take first?",
    "options": [
-    "Report the purosanguineous drainage and fever to the provider",
     "Switch to a dry occlusive dressing to contain the drainage",
-    "Apply ice to the residual limb to reduce the drainage",
-    "Reduce the frequency of dressing changes to limit contamination"
+    "Report the purosanguineous drainage and fever to the provider",
+    "Apply ice to the residual limb to slow the amount of drainage",
+    "Reduce how often the dressing is changed to limit contamination"
    ],
-   "answer": 0,
+   "answer": 1,
    "optionRationales": [
-    "Correct. Purosanguineous exudate (pus plus blood) with fever indicates an infected wound; the provider is notified so cultures and treatment can be ordered.",
-    "Incorrect. Changing to a dry occlusive dressing does not treat infection and delays reporting.",
-    "Incorrect. Ice does not address a probable wound infection.",
-    "Incorrect. Fewer dressing changes allow purulent drainage to accumulate and delay treatment."
+    "Incorrect. An occlusive dressing traps infected drainage and does not address the infection.",
+    "Correct. Pus mixed with blood (purosanguineous) plus fever indicates wound infection, which needs provider evaluation and treatment.",
+    "Incorrect. Ice does not treat infection and is not indicated for purulent drainage.",
+    "Incorrect. Infected, draining wounds need assessment and dressing changes as prescribed, not fewer changes."
    ],
-   "rationale": "Purosanguineous exudate is a mixture of pus (thick, opaque WBCs and debris) and blood and is characteristic of infected wounds. Combined with fever, it warrants reporting so the provider can order cultures and treatment. Serosanguineous drainage is thin and pink, sanguineous is red, and serous is clear straw-colored.",
-   "takeaway": "Pus + blood = purosanguineous = infection until proven otherwise.",
+   "rationale": "Reading the exudate is the first step: thick, cream-colored drainage streaked with blood is purosanguineous (pus + blood), which the slides link to infected wounds. Combined with a fever above 38.5 °C, it meets the slide's signs of infection (drainage, fever), so the nurse reports promptly rather than changing the dressing plan independently.",
+   "takeaway": "Purosanguineous drainage + fever = infected wound; report it.",
    "cjmm": "Take Action",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the exudate types on the slides and which mixed type is associated with infected wounds.",
-   "hintStrategy": "Name the drainage type first. Then choose the action that gets an infected wound treated rather than hidden or delayed.",
+   "hintContent": "Recall the five exudate types, which ones indicate infection, and the slide's signs of wound infection.",
+   "hintStrategy": "Name the drainage type first, decide what it means together with the temperature, then choose the action that gets that problem treated.",
    "priority": true
   },
   {
    "id": "m21f-025",
    "type": "sata",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Exudate Types",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is assessing drainage in several clients. Which findings should the nurse document as serous exudate? Select all that apply.",
@@ -1327,64 +898,66 @@
     "Clear, straw-colored fluid from an intact friction blister on the heel",
     "Thick, green, opaque fluid from an abscess incision",
     "Watery, pale yellow fluid weeping from a scraped knee",
-    "Dark red fluid oozing from a deep laceration"
+    "Pale pink, watery fluid on a new abdominal incision dressing"
    ],
    "answer": [
     1,
     3
    ],
    "optionRationales": [
-    "Incorrect. Bright red fluid is sanguineous — fresh bleeding from capillary damage.",
-    "Correct. Blister fluid is clear, watery, and straw-colored, typical of mild inflammation.",
-    "Incorrect. Thick, opaque, colored drainage is purulent — WBCs plus debris.",
-    "Correct. Clear to pale yellow watery fluid is serous exudate.",
-    "Incorrect. Bright or dark red drainage is sanguineous."
+    "Incorrect. Bright red fluid is sanguineous, reflecting capillary damage and bleeding.",
+    "Correct. Clear, straw-colored blister fluid is the classic example of serous exudate (mild inflammation).",
+    "Incorrect. Thick, opaque, green fluid is purulent — pus indicating infection.",
+    "Correct. Watery, pale yellow fluid from a scrape is serous exudate.",
+    "Incorrect. Pale pink, watery fluid is serosanguineous — clear fluid tinged with blood, common in new incisions."
    ],
-   "rationale": "Serous exudate is clear and watery; sanguineous is bright or dark red blood; purulent is thick and opaque (yellow, green, tan, or blue). Accurate terminology allows trends (for example, sanguineous → serosanguineous → serous after surgery) to be recognized.",
-   "takeaway": "Clear = serous, red = sanguineous, thick and opaque = purulent.",
+   "rationale": "Serous exudate is clear, watery, and straw-colored and reflects mild inflammation (for example, blister fluid). Bright red is sanguineous, pale pink and watery is serosanguineous, and thick, opaque, colored fluid is purulent. Accurate labels let the team track whether drainage is moving in the right direction.",
+   "takeaway": "Serous = clear, watery, straw-colored; add blood → serosanguineous; add pus → purulent.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the appearance of serous, sanguineous, and purulent exudate.",
-   "hintStrategy": "Match each description to an exudate type, then keep only the clear, watery ones."
+   "hintContent": "Recall the color and consistency of each exudate type named on the slides.",
+   "hintStrategy": "Break each name into parts (sero = clear serum, sanguin = blood, puru = pus) and match each description to only one type."
   },
   {
    "id": "m21f-028",
    "type": "mcq",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors – Chronic Conditions (Diabetes)",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with type 2 diabetes is on postoperative day 2 after a bowel resection. Capillary glucose readings have ranged from 240 to 290 mg/dL. Which action is most important for the nurse to take to reduce the client's risk of wound infection?",
    "options": [
-    "Withhold all insulin until the glucose falls on its own",
+    "Withhold all insulin until the client resumes a full diet",
     "Limit the client's protein intake to lower the glucose level",
     "Stop checking glucose once the client is eating regular meals",
     "Monitor glucose closely and report persistently high readings"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Withholding insulin would worsen hyperglycemia and further impair healing.",
-    "Incorrect. Protein is essential for tissue repair; restricting it delays healing.",
-    "Incorrect. Glucose must continue to be monitored; eating does not correct hyperglycemia.",
-    "Correct. High glucose impairs neutrophil and macrophage function and diabetes reduces oxygen delivery to the incision, so the nurse monitors and reports persistent hyperglycemia so treatment can be adjusted."
+    "Incorrect. Withholding insulin would worsen hyperglycemia and further impair WBC function.",
+    "Incorrect. Protein is needed for collagen and immune cells; restricting it would slow healing.",
+    "Incorrect. Glucose must continue to be monitored; eating does not make hyperglycemia resolve.",
+    "Correct. Persistently high glucose impairs WBCs and blood flow; reporting it lets the provider adjust treatment — glucose control is wound care."
    ],
-   "rationale": "Diabetes is a chronic condition that causes poor circulation and delayed healing. High glucose impairs the WBCs (neutrophils and macrophages) that clean the wound during the inflammatory phase, and vascular disease reduces oxygen and nutrient delivery. The nurse monitors glucose and reports persistently high values so treatment can be adjusted.",
-   "takeaway": "High glucose disables WBCs and starves the wound of oxygen — monitor and report.",
+   "rationale": "Diabetes is a major factor affecting healing: high glucose impairs WBC function and damages vessels, so less oxygen reaches the wound. The client also had GI surgery, one of the slide's high-risk groups for wound infection. Monitoring and reporting persistent hyperglycemia so treatment can be adjusted directly lowers infection risk; restricting protein or insulin would do the opposite.",
+   "takeaway": "After GI surgery, high glucose is an infection risk — monitor and report so it gets treated.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall how high blood glucose affects the white blood cells that clean a new wound.",
-   "hintStrategy": "Eliminate options that would raise glucose further, starve the wound, or stop surveillance.",
+   "hintContent": "Recall how hyperglycemia affects WBCs and blood flow, and which surgical clients the slides list as higher risk for infection.",
+   "hintStrategy": "Eliminate options that would raise glucose or deprive the wound of building materials. Choose the action that addresses the actual risk factor.",
    "priority": true
   },
   {
    "id": "m21f-033",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Hemorrhage (Hematoma)",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Pathophysiology",
    "exhibit": {
     "tabs": [
      {
@@ -1451,68 +1024,73 @@
    },
    "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results for a client after hip arthroplasty. Which complication is the most likely cause of the client's findings?",
    "options": [
-    "wound infection of the incision",
-    "Deep vein thrombosis in the right calf",
-    "Hematoma at the surgical site",
+    "Hematoma from bleeding at the surgical site",
+    "Deep vein thrombosis forming in the right calf veins",
+    "Infection of the hip incision",
     "Dehiscence of the hip incision"
    ],
-   "answer": 2,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. Infection does not cause an acute hemoglobin drop within 18 hours and would include fever and drainage.",
-    "Incorrect. DVT can cause swelling and pain, but it does not cause a 2.9 g/dL hemoglobin drop and tachycardia.",
-    "Correct. A dry dressing does not rule out bleeding. Tense swelling, increasing pain, tachycardia, and falling hemoglobin indicate internal bleeding collecting as a hematoma.",
-    "Incorrect. Dehiscence is separation of the incision, which is not described, and typically occurs days later."
+    "Correct. A tense, enlarging thigh with a dry dressing, falling hemoglobin, tachycardia, and dropping BP within 48 hours of surgery indicate concealed bleeding forming a hematoma.",
+    "Incorrect. DVT causes calf swelling and pain but not a 2.9-g/dL hemoglobin drop with tachycardia and hypotension.",
+    "Incorrect. Infection usually appears around POD 3–5 with fever and purulent drainage; the temperature is normal at 18 hours.",
+    "Incorrect. Dehiscence is separation of the incision edges; the dressing is dry and intact."
    ],
-   "rationale": "The greatest risk of hemorrhage is within the first 48 hours after surgery. Bleeding may be concealed, accumulating in tissues as a hematoma, producing swelling, distention, pain, tachycardia, and falling hemoglobin. The nurse reports these findings promptly because pressure from a hematoma can also compromise circulation to the tissue.",
-   "takeaway": "A dry dressing does not mean no bleeding: swelling + tachycardia + ↓ Hgb = internal bleed.",
-   "hintContent": "Recall how internal hemorrhage presents when drainage cannot escape through the dressing or drain.",
-   "hintStrategy": "Look for the one hypothesis that explains the local finding AND the lab and vital-sign changes.",
+   "rationale": "A dry dressing does not rule out hemorrhage. Internal bleeding shows as swelling, distention, and hematoma, with signs of volume loss (tachycardia, falling BP) and a falling hemoglobin. The timing — within the first 48 hours — is when hemorrhage risk is greatest, which separates it from infection and dehiscence.",
+   "takeaway": "Dry dressing + swelling site + falling Hgb and BP + rising HR in the first 48 hours = concealed bleeding/hematoma.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall how internal bleeding presents at a surgical site and when postoperative hemorrhage is most likely.",
+   "hintStrategy": "Use the timing and the trend in the lab and vital-sign data to rule options in or out; a dry dressing does not settle the question.",
    "priority": false
   },
   {
    "id": "m21f-034",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Hemorrhage",
+   "alsoTests": [
+    "wound-healing-factors-exudate",
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
    "stem": "The nurse receives hand-off report on four postoperative clients. Which client should the nurse assess first?",
    "options": [
-    "POD 1 after mastectomy; dressing has a small amount of serosanguineous drainage",
-    "POD 5 after colectomy; thick yellow incisional drainage, temperature 38.2 °C (100.8 °F)",
-    "POD 9 after appendectomy; reports itching along the healing incision",
-    "4 hours after thyroidectomy; dressing damp with bright red blood, HR 118/min"
+    "POD 1 after mastectomy; the dressing has a small amount of serosanguineous drainage",
+    "POD 5 after colectomy; thick yellow incisional drainage, temperature 38.6 °C (101.5 °F)",
+    "4 hours after thyroidectomy; the dressing is damp with bright red blood, HR 118/min",
+    "POD 9 after appendectomy; reports itching along the closed, healing incision"
    ],
-   "answer": 3,
+   "answer": 2,
    "optionRationales": [
-    "Incorrect. A small amount of serosanguineous drainage on POD 1 is expected.",
-    "Incorrect. Probable wound infection needs follow-up soon, but the client is not acutely unstable.",
-    "Incorrect. Itching is common as an incision heals.",
-    "Correct. Active bleeding with tachycardia in the first 48 hours signals hemorrhage; after neck surgery, swelling from bleeding can also threaten the airway."
+    "Incorrect. A small amount of serosanguineous drainage on POD 1 is expected for a new incision.",
+    "Incorrect. Purulent drainage with fever indicates infection — important and needs reporting, but less immediately life-threatening than active bleeding.",
+    "Correct. Bright red (sanguineous) drainage with tachycardia in the first hours after surgery suggests hemorrhage — an unstable client, and neck bleeding can also threaten the airway.",
+    "Incorrect. Itching of a closing incision is common as the wound moves through the later phases of healing; it is expected."
    ],
-   "rationale": "Priority goes to the client with an acute, potentially life-threatening problem: postoperative hemorrhage with tachycardia (circulation) and, in neck surgery, possible airway compromise. Infection is serious but less immediate; the other findings are expected.",
-   "takeaway": "Unstable over stable: fresh bleeding + tachycardia beats infection or expected findings.",
-   "hintContent": "Recall the peak timeframe for postoperative hemorrhage and why a neck incision adds airway risk.",
-   "hintStrategy": "Apply ABCs and 'unstable before stable.' Rule out clients whose findings are expected for their postoperative day.",
+   "rationale": "Prioritizing among wounds uses the exudate type (sanguineous vs. serosanguineous vs. purulent), the timeline of complications (hemorrhage greatest in the first 48 hours; infection around POD 3–5), and knowledge of expected healing findings. Unstable before stable: active bleeding with a rising heart rate comes before infection, and expected findings come last.",
+   "takeaway": "Order of concern: active bleeding with changing vitals → infection → expected findings.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Recall what each drainage type indicates and the typical timing of hemorrhage and infection after surgery.",
+   "hintStrategy": "Decide for each client whether the finding is expected, a stable problem, or an unstable problem. See the unstable client first.",
    "priority": true
   },
   {
    "id": "m21f-035",
    "type": "sata",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Dehiscence (Prevention)",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "stem": "A client with obesity and chronic cough is being discharged on POD 5 after an open abdominal hysterectomy. Which instructions should the nurse include to reduce the risk of wound dehiscence? Select all that apply.",
+   "stem": "A client with obesity and a chronic cough is being discharged on POD 5 after an open abdominal hysterectomy. Which instructions should the nurse include to reduce the risk of wound dehiscence? Select all that apply.",
    "options": [
     "Hold a pillow firmly against the incision when coughing or sneezing",
     "Avoid lifting anything heavier than 10 lb (4.5 kg) until cleared",
-    "Take the prescribed stool softener and increase fluids to avoid straining",
-    "Remove the adhesive strips at home if the edges look closed",
+    "Take the prescribed stool softener and drink fluids to avoid straining",
+    "Remove the adhesive strips at home once the edges look closed",
     "Wear the abdominal binder as prescribed when out of bed",
     "Do sit-up exercises to strengthen the abdominal muscles"
    ],
@@ -1523,30 +1101,33 @@
     4
    ],
    "optionRationales": [
-    "Correct. Splinting supports the incision against the sudden pressure of coughing.",
-    "Correct. Heavy lifting increases intra-abdominal pressure and tension on the fascia.",
-    "Correct. Straining at stool is a common trigger for dehiscence.",
-    "Incorrect. Adhesive strips are left until they fall off or the provider removes them; they support the incision.",
-    "Correct. A properly fitted binder, when prescribed, supports large abdominal incisions.",
-    "Incorrect. Sit-ups strain the abdominal wall and are avoided until the surgeon clears the client."
+    "Correct. Splinting reduces tension on the suture line during coughing and sneezing.",
+    "Correct. Heavy lifting raises intra-abdominal pressure while collagen is still weak.",
+    "Correct. Preventing constipation avoids straining that stresses the incision.",
+    "Incorrect. Closure strips are left in place until they loosen or are removed as instructed; edges that look closed are not yet strong.",
+    "Correct. A prescribed binder adds external support to the incision.",
+    "Incorrect. Sit-ups strain the incision and raise the risk of separation."
    ],
-   "rationale": "Dehiscence is most common POD 5–8 and is promoted by obesity, coughing, vomiting, straining, and lifting. Teaching focuses on reducing sudden increases in intra-abdominal pressure and supporting the incision while collagen strength builds.",
-   "takeaway": "Splint, don't strain, don't lift, and support the incision until it is strong.",
-   "hintContent": "Recall what increases intra-abdominal pressure and when dehiscence is most likely to occur.",
-   "hintStrategy": "For each option, ask: does this reduce or increase tension on the incision?"
+   "rationale": "Dehiscence risk is highest when collagen is still weak near the end of the first week, and obesity and chronic cough add tension. Prevention focuses on lowering stress on the incision: splinting, avoiding heavy lifting and straining, and using a prescribed binder. Removing closure strips early or doing abdominal exercises increases the risk.",
+   "takeaway": "Protect a healing abdominal incision: splint, no heavy lifting, no straining, binder if prescribed.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall the activities that raise intra-abdominal pressure and the measures that support a healing abdominal incision.",
+   "hintStrategy": "For each instruction, ask whether it lowers or raises tension on the incision."
   },
   {
    "id": "m21f-036",
    "type": "sata",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Hemorrhage (Internal)",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "stem": "A client is 6 hours after an open nephrectomy. The flank dressing is dry. Which findings should the nurse recognize as possible signs of concealed hemorrhage? Select all that apply.",
    "options": [
-    "Restlessness and anxiety",
+    "Hemoglobin decreased from 13.4 g/dL to 10.2 g/dL",
     "Heart rate increasing from 80 to 116/min",
     "Warm, flushed skin",
     "Urine output of 15 mL/hr for 2 hours",
@@ -1560,120 +1141,137 @@
     4
    ],
    "optionRationales": [
-    "Correct. Restlessness is an early sign of decreased cerebral perfusion.",
-    "Correct. Tachycardia is a compensatory response to volume loss.",
-    "Incorrect. Hypovolemia causes vasoconstriction, producing cool, pale, clammy skin.",
-    "Correct. Output below 30 mL/hr (0.5 mL/kg/hr) reflects decreased renal perfusion.",
-    "Correct. Blood accumulating in tissues causes local swelling and firmness.",
-    "Incorrect. Hemorrhage produces falling, not rising, blood pressure (BP may stay normal early due to compensation)."
+    "Correct. A falling hemoglobin reflects blood loss even when the dressing stays dry.",
+    "Correct. Tachycardia is a compensatory response to loss of circulating volume.",
+    "Incorrect. Blood loss shunts blood away from the skin, making it cool, pale, and clammy — not warm and flushed.",
+    "Correct. Low urine output reflects reduced kidney perfusion from volume loss.",
+    "Correct. Swelling and firmness at the site suggest blood collecting internally (hematoma).",
+    "Incorrect. Blood pressure falls with significant blood loss; a rising BP does not suggest hemorrhage."
    ],
-   "rationale": "Internal bleeding may not show on the dressing. The nurse recognizes compensatory signs of hypovolemia—restlessness, tachycardia, oliguria, cool clammy skin—and local swelling, and reports them promptly. Hypotension is a later sign.",
-   "takeaway": "Look beyond the dressing: restlessness, tachycardia, oliguria, and swelling signal hidden bleeding.",
-   "hintContent": "Recall the body's compensatory responses to volume loss and where blood can collect internally.",
-   "hintStrategy": "Evaluate each option: is it consistent with hypovolemia and local blood collection, or the opposite?"
+   "rationale": "Within the first 48 hours, the highest-risk period for hemorrhage, a dry dressing can hide internal bleeding. The nurse links local signs (swelling, firmness) with compensation for volume loss (tachycardia, low urine output) and with the laboratory evidence of blood loss (falling hemoglobin). Warm, flushed skin and a rising BP do not fit hemorrhage.",
+   "takeaway": "Dry dressing does not rule out bleeding — watch the site, HR, urine output, and hemoglobin.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall how the body compensates for blood loss and which lab value reflects it.",
+   "hintStrategy": "Ask of each finding: would losing blood cause this? Eliminate findings that point the opposite direction."
   },
   {
    "id": "m21f-037",
    "type": "sata",
    "topic": "wound-healing-factors-exudate",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion in Wound Healing",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "clientNeed": "Health Promotion and Maintenance",
    "stem": "The nurse is completing a health-promotion assessment for a client who will have elective abdominal surgery in 4 weeks. Which findings are likely to delay wound healing? Select all that apply.",
    "options": [
     "Smokes 1 pack of cigarettes a day",
     "Walks 30 minutes most days",
     "BMI of 42",
     "Eats lean meat, beans, and citrus fruit daily",
-    "Unintentional weight loss of 6 kg (13 lb) in 2 months"
+    "Unintentional weight loss of 6 kg (13 lb) in 2 months",
+    "Serum albumin of 3.1 g/dL"
    ],
    "answer": [
     0,
     2,
-    4
+    4,
+    5
    ],
    "optionRationales": [
-    "Correct. Smoking decreases oxygen delivery to the wound.",
-    "Incorrect. Exercise improves circulation and speeds healing.",
-    "Correct. Obesity delays healing; fatty tissue has a poor blood supply and adds tension on the incision.",
-    "Incorrect. Protein, iron, zinc, and vitamin C support tissue repair.",
-    "Correct. Unintentional weight loss suggests malnutrition, which delays healing."
+    "Correct. Smoking reduces oxygen delivery through vasoconstriction and carbon monoxide.",
+    "Incorrect. Regular exercise improves circulation and promotes healing.",
+    "Correct. Obesity delays healing through poor adipose blood supply and suture-line tension.",
+    "Incorrect. Protein, iron, and vitamin C sources support collagen formation and healing.",
+    "Correct. Unplanned weight loss suggests malnutrition — too few building blocks for new tissue.",
+    "Correct. An albumin below about 3.5 g/dL signals poor protein status and slower healing."
    ],
-   "rationale": "Health promotion for wound healing includes adequate protein, carbohydrates, fats, vitamins A and C, iron, zinc, and copper; regular exercise; and not smoking. Both malnutrition and obesity delay healing, and smoking reduces oxygen delivery.",
-   "takeaway": "Malnutrition AND obesity both delay healing; exercise helps, smoking hurts.",
+   "rationale": "The slides stress that malnutrition and obesity both delay healing, so a client can show both at once. Smoking lowers oxygen delivery, and a low albumin with weight loss confirms poor protein status. Walking and a diet with protein and vitamin C promote healing. Identifying these 4 weeks before surgery gives time for health promotion.",
+   "takeaway": "Both ends of the weight spectrum, smoking, and low albumin all delay healing.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the nutrition and lifestyle factors on the health-promotion slide for wound healing.",
-   "hintStrategy": "Ask whether each finding improves or reduces blood flow, oxygen, and nutrients to healing tissue."
+   "hintContent": "Recall how nutrition status, weight, and smoking affect healing, and the normal range for albumin.",
+   "hintStrategy": "Judge each finding separately as 'helps,' 'neutral,' or 'delays' healing, checking any lab value against its normal range."
   },
   {
    "id": "m21f-038",
    "type": "mcq",
    "topic": "wound-healing-intention-phases",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Phases of Wound Healing; Exudate Types",
+   "alsoTests": [
+    "wound-healing-factors-exudate",
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client had an open appendectomy yesterday. The incision edges are approximated and slightly red and swollen along the suture line, and there is a small amount of clear, watery drainage on the dressing. Temperature is 37.4 °C (99.3 °F). How should the nurse interpret these findings?",
    "options": [
-    "Signs of infection in the proliferative phase that must be reported now",
-    "Expected findings of the inflammatory phase with serous drainage",
-    "Early dehiscence that requires a sterile saline-moistened dressing",
-    "Sanguineous drainage that indicates capillary bleeding at the suture line"
+    "Early wound infection that must be reported to the surgeon now",
+    "Expected inflammatory-phase findings with serous drainage",
+    "Early dehiscence that calls for a sterile saline-moistened dressing",
+    "Capillary bleeding at the suture line with sanguineous drainage"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. On day 1 the incision is in the inflammatory phase, and mild redness with clear drainage is not a sign of infection.",
-    "Correct. Mild redness, edema, and clear, watery (serous) drainage are normal early signs of the inflammatory phase; the nurse continues to monitor.",
-    "Incorrect. The edges are approximated; there is no separation.",
-    "Incorrect. Clear, watery drainage is serous, not sanguineous (red)."
+    "Incorrect. Infection typically appears around POD 3–5 with worsening pain, spreading redness, purulent drainage, and fever.",
+    "Correct. Mild redness, swelling, and a small amount of serous exudate on POD 1 are normal signs of the inflammatory phase.",
+    "Incorrect. The edges are approximated; dehiscence involves separation of the wound layers.",
+    "Incorrect. Clear, watery drainage is serous; sanguineous drainage is red."
    ],
-   "rationale": "The inflammatory phase lasts about 3 to 6 days; hemostasis and phagocytosis occur, and redness, edema, and exudate are normal early signs. Clear, watery drainage is serous exudate from mild inflammation. Infection would bring increasing pain, spreading redness, purulent drainage, odor, fever, and a rising WBC — usually after the first few days.",
-   "takeaway": "Day 1–3: mild redness, swelling, and serous drainage are normal inflammation.",
+   "rationale": "Interpreting a fresh incision combines the inflammatory phase (redness, edema, and exudate are normal early signs), exudate identification (clear, watery = serous), and the timeline of complications (infection later, dehiscence near the end of week 1). On POD 1 these findings are expected; the nurse documents and continues to monitor.",
+   "takeaway": "POD 1 mild redness, swelling, and serous drainage = normal inflammation, not infection.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the timing of the inflammatory phase and what serous drainage looks like.",
-   "hintStrategy": "Identify the phase from the postoperative day, name the drainage, then decide whether the picture is expected.",
+   "hintContent": "Recall the normal signs of the inflammatory phase, how serous drainage looks, and when infection and dehiscence usually occur.",
+   "hintStrategy": "Use the day after surgery as your anchor: ask whether each option's complication fits this timing and these specific findings.",
    "priority": false
   },
   {
    "id": "m21f-042",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications – Infection (Evaluation)",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A client with an infected cesarean incision has received IV antibiotics for 72 hours. On admission, the edge of the redness was outlined with a skin marker, and the drainage was purulent. Which finding best indicates that treatment is effective?",
+   "options": [
+    "The client has received every antibiotic dose on schedule",
+    "The client reports that the incision itches more than on admission",
+    "Redness now extends 1 cm beyond the marked outline, and drainage has stopped",
+    "Redness has receded inside the marked outline, and drainage is serous"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. On-time doses show the treatment was given, not that it worked.",
+    "Incorrect. Itching is not a measure of infection resolution.",
+    "Incorrect. Redness spreading beyond the outline means the infection is worsening.",
+    "Correct. Shrinking redness and a change from purulent to serous drainage are measurable signs the infection is resolving."
+   ],
+   "rationale": "Evaluating infection treatment compares current findings with baseline. The marked outline measures spread of redness, and the exudate type tracks the infection: purulent drainage (pus) turning serous means inflammation is settling. Giving every dose is a process measure, not an outcome.",
+   "takeaway": "Infection improving = redness inside the line and drainage moving from purulent to serous.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
-   "stem": "A client with a wound infection of a cesarean incision has received IV antibiotics for 72 hours. On admission, the edge of the redness was outlined with a skin marker. Which finding best indicates that treatment is effective?",
-   "options": [
-    "Redness has receded inside the marked outline, and drainage is now serous",
-    "The client reports that the incision now itches more than it did on admission",
-    "The client has received every antibiotic dose on schedule",
-    "Redness now extends 1 cm beyond the marked outline without drainage"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Shrinking redness and a change from purulent to serous drainage show the infection is resolving.",
-    "Incorrect. Itching is nonspecific and does not measure infection control.",
-    "Incorrect. On-time doses show the treatment was given, not that the client responded.",
-    "Incorrect. Spreading redness indicates the infection is worsening."
-   ],
-   "rationale": "Treatment effectiveness is evaluated by clinical outcomes: receding redness (compared with a marked baseline), decreasing pain, drainage changing from purulent to serous, and normalizing temperature and WBC. Giving the medication on time is not evidence that the client improved.",
-   "takeaway": "Mark the margin; shrinking redness + serous drainage = the antibiotic is working.",
-   "hintContent": "Recall the local signs of infection and how each would change as infection resolves.",
-   "hintStrategy": "An 'evaluate outcomes' question asks for evidence the client's condition changed, not that the medication was given correctly.",
+   "hintContent": "Recall how the nurse measures spread of redness and what a change in exudate type means.",
+   "hintStrategy": "Look for a client outcome that is measured against the baseline, not a nursing process or a vague symptom.",
    "priority": false
   },
   {
    "id": "m21f-043",
    "type": "sata",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Lifespan Considerations – Older Adults",
+   "alsoTests": [
+    "wound-healing-intention-phases",
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Lifespan & Diversity",
-   "stem": "An 88-year-old client is on POD 5 after hemiarthroplasty for a hip fracture. The nurse knows that older adults may have atypical presentations of wound infection. Which findings should the nurse recognize as possible early cues of a wound infection in this client? Select all that apply.",
+   "stem": "An 88-year-old client is on POD 5 after hemiarthroplasty for a hip fracture. Which findings should the nurse recognize as possible early cues of a wound infection in this client? Select all that apply.",
    "options": [
     "New-onset confusion and agitation at night",
     "Temperature of 37.6 °C (99.7 °F) when baseline is 36.4 °C (97.5 °F)",
@@ -1689,45 +1287,48 @@
     4
    ],
    "optionRationales": [
-    "Correct. Delirium is often the first sign of infection in older adults.",
-    "Correct. A rise of about 1.1 °C (2 °F) above baseline is significant in older adults, whose fever response is blunted.",
-    "Correct. Functional decline and anorexia are common atypical presentations of infection.",
-    "Incorrect. Scant serosanguineous drainage on POD 1 is expected.",
-    "Correct. Local warmth and induration may be subtle but still indicate infection.",
-    "Incorrect. These are normal age-related skin changes."
+    "Correct. In older adults, infection often first appears as new confusion or agitation.",
+    "Correct. A blunted immune response means a small rise above personal baseline may be the only fever sign.",
+    "Correct. Loss of appetite and functional decline can be atypical signs of infection in older adults.",
+    "Incorrect. Serosanguineous drainage on POD 1 is expected in a new incision.",
+    "Correct. New local warmth and firmness around the incision suggest inflammation from infection.",
+    "Incorrect. Thin skin and senile purpura are expected aging changes."
    ],
-   "rationale": "Aging blunts the inflammatory and febrile responses, so infection in older adults often presents as delirium, functional decline, reduced appetite, or a small rise from a low baseline temperature, along with subtle local changes.",
-   "takeaway": "In older adults, confusion, functional decline, and 'low' fevers can be the first signs of infection.",
-   "hintContent": "Recall how aging changes the febrile and inflammatory responses.",
-   "hintStrategy": "Evaluate each option separately; compare with the client's own baseline rather than standard adult norms."
+   "rationale": "Older adults have a slower, weaker inflammatory response, so wound infection often presents atypically: new confusion, a small temperature rise above baseline, appetite loss, and functional decline, plus subtle local changes. The nurse must separate these cues from expected aging changes (thin skin, purpura) and from normal early exudate (serosanguineous on POD 1).",
+   "takeaway": "In older adults, new confusion, a small rise over baseline temperature, and appetite loss can be the first signs of wound infection.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Recall how aging blunts the inflammatory and fever response and which skin changes are normal with aging.",
+   "hintStrategy": "Separate 'expected in an older adult or early after surgery' from 'new change on POD 5.' New changes are the cues."
   },
   {
    "id": "m21f-044",
    "type": "mcq",
    "topic": "wound-healing-complications",
-   "ref": "Module 21 · Exemplar 21.C Wound Healing · Risk Factors & Complications (Delegation)",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Complications: Hemorrhage, Infection, Dehiscence & Evisceration",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Generate Solutions",
-   "focus": "Delegation & Safety",
    "stem": "The RN is caring for a client on postoperative day 2 after an open appendectomy with the help of an unlicensed assistive personnel (UAP). The client's vital signs are stable, and the incision is dry with approximated edges. Which task is appropriate for the RN to delegate to the UAP?",
    "options": [
-    "Help the client walk in the hall and remind the client to splint the incision when coughing",
-    "Inspect the incision each shift for redness, warmth, drainage, and any separation of the wound edges",
-    "Remove every other staple from the incision as prescribed before the client's discharge",
-    "Explain the signs of wound infection that the client should report after going home"
+    "Help the client walk in the hall and remind the client to splint when coughing",
+    "Inspect the incision each shift for redness, warmth, drainage, and separation of the edges",
+    "Remove every other staple from the incision as prescribed before discharge",
+    "Explain the signs of wound infection that the client should report at home"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Ambulating a stable postoperative client is routine and within UAP scope, and reminding the client to use a technique the RN already taught (splinting) reinforces that teaching.",
-    "Incorrect. Inspecting an incision for signs of infection or dehiscence is assessment and requires nursing judgment.",
-    "Incorrect. Staple removal is a sterile procedure that requires evaluating wound integrity as it is performed; it is not within UAP scope.",
-    "Incorrect. Discharge teaching about complications is an RN responsibility."
+    "Correct. Ambulation and reinforcing splinting for a stable client are routine tasks within UAP scope.",
+    "Incorrect. Assessing the incision requires RN clinical judgment.",
+    "Incorrect. Staple removal is a procedure not delegated to UAP.",
+    "Incorrect. Teaching about complications is an RN responsibility."
    ],
-   "rationale": "The RN retains assessment, teaching, evaluation, and procedures that require judgment. UAP can perform routine, predictable care for stable clients, such as ambulation, hygiene, and reminding clients of techniques the nurse has already taught, and must report changes such as new drainage or pain to the RN.",
-   "takeaway": "UAP: routine care and reinforcement for stable clients. RN: assessment, teaching, and procedures that need judgment.",
-   "hintContent": "Recall which activities are routine and unchanging and which require assessment, sterile technique, or teaching.",
-   "hintStrategy": "For each task, ask whether the outcome is predictable for a stable client or whether performing it requires the nurse to interpret findings or teach new content.",
+   "rationale": "For a stable client, UAP can help with routine care such as ambulation and reminders to splint, which also supports circulation and protects the incision. Assessment, teaching, and procedures such as staple removal require licensed judgment and stay with the RN.",
+   "takeaway": "UAP can walk and remind; the RN assesses, teaches, and performs procedures.",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall which tasks require assessment, teaching, or clinical judgment and which are routine care.",
+   "hintStrategy": "Eliminate any option that involves assessing, teaching, or a procedure; the remaining option is within UAP scope.",
    "priority": false
   }
  ]

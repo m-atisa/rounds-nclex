@@ -813,409 +813,434 @@ window.NURSE_DATA.push({
  "questions": [
   {
    "id": "m10-001",
+   "topic": "classic-signs",
+   "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": false,
-   "topic": "classic-signs",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Classic Signs",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client has a red, warm area on the forearm 1 day after a minor burn. The client asks why the area looks red and feels hot. Which physiologic process should the nurse include in the explanation?",
-   "options": [
-    "Increased capillary permeability allowing plasma to leak into the tissue",
-    "Stimulation of nerve endings by bradykinin and prostaglandins",
-    "Arteriolar vasodilation that increases blood flow to the injured area",
-    "Migration of neutrophils out of the vessels toward the injury"
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Increased permeability causes swelling (edema), not redness or heat.",
-    "Nerve stimulation by bradykinin and prostaglandins explains pain, not redness or warmth.",
-    "Correct. Vasodilation causes hyperemia, and the extra blood flow produces redness (rubor) and heat (calor).",
-    "Neutrophil migration is part of the cellular response and phagocytosis. It does not directly cause redness or heat."
-   ],
-   "rationale": "Mediators such as histamine and prostaglandins dilate arterioles. The resulting hyperemia makes the area red and warm. Swelling comes from increased permeability, and pain from mediator stimulation of nerves plus tissue pressure.",
-   "takeaway": "Redness and heat = vasodilation; swelling = permeability; pain = bradykinin, prostaglandins, and pressure.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Think about what happens to blood flow in an injured area and which vascular change brings more warm blood to the surface.",
-   "hintStrategy": "Match each option to the single cardinal sign it explains. Only one mechanism accounts for BOTH findings in the stem."
+   "alsoTests": [
+    "mediators",
+    "stages"
+   ],
+   "stem": "A client has a red, warm area on the forearm 1 day after a minor burn and asks why the area looks red and feels hot. Which explanation links the correct mediator action to these two findings?",
+   "options": [
+    "Increased capillary permeability lets plasma and protein leak into the tissue",
+    "Leukotrienes draw neutrophils out of the vessels and toward the burned skin",
+    "Bradykinin and prostaglandins directly stimulate the pain nerve endings",
+    "Histamine dilates the arterioles so more warm blood flows into the area"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Leaky capillaries explain swelling (tumor), not redness and heat. Fluid moving into tissue does not make the area warmer or redder.",
+    "Leukotriene-driven chemotaxis is part of the cellular response. Neutrophils moving into tissue do not produce the visible redness or warmth.",
+    "Bradykinin and prostaglandins acting on nerve endings explain pain (dolor), not redness and heat.",
+    "Correct. In the Stage 1 vascular response, histamine (with bradykinin and prostaglandins) dilates arterioles. More blood from the warm body core reaches the site, which shows as redness and feels hot."
+   ],
+   "rationale": "Each cardinal sign has its own mechanism. Redness (rubor) and heat (calor) share one cause: mediator-driven arteriolar vasodilation (hyperemia) in the Stage 1 vascular response. Histamine from mast cells is the first mediator to cause it. Swelling comes from increased permeability, pain from bradykinin and prostaglandins acting on nerves, and WBC recruitment from chemotaxis.",
+   "takeaway": "Red + hot = vasodilation (histamine, early in Stage 1); swollen = permeability; painful = bradykinin/prostaglandins on nerves.",
+   "hintContent": "Connect the mediators released in Stage 1 with the specific cardinal sign each vascular or cellular event produces.",
+   "hintStrategy": "Match each option's process to the sign it causes, then keep only the process that explains both redness and heat."
   },
   {
    "id": "m10-002",
+   "topic": "classic-signs",
+   "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": true,
-   "topic": "classic-signs",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Classic Signs",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client who sprained the right ankle 6 hours ago has an elastic compression wrap in place. Which finding should the nurse report to the provider immediately?",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "alsoTests": [
+    "nursing-interventions"
+   ],
+   "stem": "A client sprained the right ankle 6 hours ago. Twenty minutes ago the nurse applied an elastic wrap and a cloth-wrapped ice pack and elevated the ankle. The ankle is warm and swollen, and pain is 5/10. The right toes are now pale, cool, and tingling, with capillary refill of 5 seconds. Which action should the nurse take first?",
    "options": [
-    "Pale, cool toes on the right foot with capillary refill of 5 seconds",
-    "Warmth and swelling over the lateral malleolus with tenderness",
-    "Pain rated 5/10 that increases when the client bears weight on the foot",
-    "Limited ability to rotate the ankle because of pain and stiffness"
+    "Document the findings as expected cardinal signs of the sprain",
+    "Loosen the elastic wrap, remove the ice pack, and recheck the toes",
+    "Give the prescribed ibuprofen to reduce the swelling under the wrap",
+    "Apply a warm compress to the toes to restore their color and warmth"
    ],
-   "answer": 0,
+   "answer": 1,
    "optionRationales": [
-    "Correct. Pale, cool toes with delayed capillary refill mean impaired circulation distal to the injury, often from a wrap that is too tight as swelling increases. This needs immediate action.",
-    "Warmth, swelling, and tenderness at the injury site are expected cardinal signs of acute inflammation.",
-    "Moderate pain that worsens with weight bearing is expected after a sprain.",
-    "Loss of function is a classic sign of inflammation and is expected."
+    "Warmth, swelling, and pain AT the ankle are expected cardinal signs, but pale, cool, tingling toes with slow refill BELOW the injury are not. Documenting them as expected misses a circulation emergency.",
+    "Correct. Swelling under a wrap plus cold-induced vasoconstriction can compress vessels and nerves. Removing the causes and reassessing circulation, motion, and sensation comes first; notify the provider if circulation does not return.",
+    "Ibuprofen will lower prostaglandin-driven swelling over hours, far too slowly to relieve compression that is threatening circulation now.",
+    "Heat is not used on an acute injury because it increases blood flow and swelling. It also does not remove the wrap or ice that is causing the problem."
    ],
-   "rationale": "The five cardinal signs are expected at the injury site. Signs of impaired circulation distal to the injury or wrap (pallor, coolness, delayed capillary refill, numbness) are not expected. They point to vascular compromise that could cause tissue ischemia.",
-   "takeaway": "Cardinal signs at the site are expected; circulation problems distal to it are an emergency.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the five cardinal signs and where on the limb they appear. Decide whether each finding is at the injury site or beyond it.",
-   "hintStrategy": "Decide which findings are expected at the site of an acute injury and which suggest a problem developing elsewhere in the limb."
+   "rationale": "The nurse must separate expected local signs of inflammation (warmth, swelling, pain, limited motion at the ankle) from unexpected findings below the injury. Pale, cool, tingling toes with capillary refill over 3 seconds mean circulation is impaired, most likely from swelling under the wrap combined with cold. The first action is to loosen the wrap, remove the cold, and reassess; persistent findings are reported immediately.",
+   "takeaway": "Cardinal signs AT the injury are expected; pale, cool, numb toes BELOW it mean remove the wrap/ice and reassess now.",
+   "hintContent": "Link what swelling does inside a tight space to the safety rules for cold packs and compression wraps.",
+   "hintStrategy": "Decide which findings are expected and which are not, then pick the action that removes the cause of the unexpected finding right away."
   },
   {
    "id": "m10-003",
+   "topic": "stages",
+   "ref": "Module 10 · Inflammation · Stages of Inflammation",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": false,
-   "topic": "stages",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Stage 1 – Vascular & Cellular Response",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "Moments after cutting a finger on a kitchen knife, a client noticed the skin around the cut looked pale. Within a few minutes it turned red and warm. The client asks the nurse why it was pale at first. Which explanation is accurate?",
-   "options": [
-    "Plasma leaked out of the capillaries and diluted the blood in the area",
-    "Neutrophils collected in the tissue and displaced the blood",
-    "Scar tissue began forming immediately around the wound",
-    "The small arteries briefly constricted before dilating"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Increased capillary permeability causes swelling. It does not cause pallor, and it follows vasodilation.",
-    "Neutrophils arrive over hours and do not cause immediate pallor.",
-    "Scar formation occurs in the reparative phase, days to weeks later.",
-    "Correct. A transient arteriolar vasoconstriction lasting seconds happens first (pallor). It is followed by vasodilation (hyperemia), which makes the area red and warm."
-   ],
-   "rationale": "Stage 1 of inflammation begins with a momentary vasoconstriction. Vasodilation (hyperemia) and increased capillary permeability follow quickly, producing redness, heat, and swelling. The cellular response and later repair come after.",
-   "takeaway": "Constrict (seconds) → dilate → leak → cells → repair.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall the very first thing arterioles do in the seconds after injury, before they dilate.",
-   "hintStrategy": "The client's observation has two parts, pale first and red later. Pick the option that explains the pale phase."
+   "alsoTests": [
+    "classic-signs",
+    "mediators"
+   ],
+   "stem": "Moments after cutting a finger on a kitchen knife, a client noticed the skin around the cut looked pale. Within minutes it turned red and warm, and within the hour it was swollen. Which sequence of vascular events explains these changes?",
+   "options": [
+    "Brief arteriolar constriction, then mediator-driven dilation, then increased capillary leak",
+    "Mediator-driven dilation, then brief arteriolar constriction, then increased capillary leak",
+    "Increased capillary leak, then mediator-driven dilation, then brief arteriolar constriction",
+    "Brief arteriolar constriction, then early scar formation, then mediator-driven dilation"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Seconds of arteriolar vasoconstriction cause the brief pallor. Histamine, bradykinin, and prostaglandins then dilate vessels (redness, heat) and make capillaries leaky (swelling).",
+    "Vasodilation does not come first; the initial response is a brief constriction lasting only seconds, which explains the pallor.",
+    "Leakage follows dilation rather than preceding it, and constriction happens at the very start, not at the end.",
+    "Scar formation belongs to Stage 3, days to weeks later. It does not occur between the first vascular events."
+   ],
+   "rationale": "Stage 1 vascular response happens in order: transient arteriolar vasoconstriction (pallor for seconds), then mediator-driven vasodilation (hyperemia causing redness and heat), with increased capillary permeability closely following (swelling). The observed signs map directly onto this sequence; repair and scar come much later.",
+   "takeaway": "Pale (seconds) → red and warm (dilation) → swollen (leak): the Stage 1 vascular sequence.",
+   "hintContent": "Tie each color or size change the client noticed to a vascular event and the mediators that cause it.",
+   "hintStrategy": "Put the client's observations in time order, then choose the sequence whose events produce them in that same order."
   },
   {
    "id": "m10-004",
+   "topic": "stages",
+   "ref": "Module 10 · Inflammation · Stages of Inflammation",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": false,
-   "topic": "stages",
-   "difficulty": 1,
-   "ref": "Module 10 · Inflammation · Stage 2 – Exudate Production",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "While changing a dressing on a client's abdominal incision, the nurse finds thick, opaque, yellow-green drainage with a foul odor. How should the nurse document the drainage?",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "alsoTests": [
+    "assessment-diagnostics"
+   ],
+   "stem": "On postoperative day 4, the nurse finds thick, opaque, yellow-green drainage with a foul odor on a client's abdominal dressing. The client's temperature is 37.2 °C (99.0 °F). How should the nurse interpret this finding?",
    "options": [
-    "Serous",
-    "Serosanguineous",
-    "Purulent",
-    "Fibrinous"
+    "Serosanguineous drainage that is expected and needs only continued monitoring",
+    "Serous drainage showing plasma leak from normal early inflammation",
+    "Purulent drainage suggesting infection even with a normal temperature",
+    "Fibrinous drainage showing clotting protein that seals the incision"
    ],
    "answer": 2,
    "optionRationales": [
-    "Serous exudate is clear to straw-colored and thin.",
-    "Serosanguineous exudate is thin, watery, and pale pink.",
-    "Correct. Thick, opaque, yellow-green, malodorous drainage is purulent. It contains WBCs, dead tissue, and bacteria and indicates infection.",
-    "Fibrinous exudate is thick and sticky from fibrin and is typical of serous membranes (pericarditis), not an infected incision."
+    "Serosanguineous drainage is thin and pale pink. Thick, colored, foul drainage is not expected on day 4.",
+    "Serous drainage is thin, clear to straw-colored, and odorless. It does not match thick yellow-green drainage.",
+    "Correct. Thick, opaque, colored, foul-smelling exudate is purulent (dead neutrophils, debris, often bacteria). A normal temperature does not rule out a wound infection, so the finding is reported.",
+    "Fibrinous exudate is sticky and stringy and forms adhesions. It is not described as yellow-green and foul-smelling."
    ],
-   "rationale": "Purulent exudate (pus) is thick and opaque, may be yellow, green, or tan, and often smells. It signals bacterial infection, so the nurse should document it, obtain a culture if prescribed, and notify the provider.",
-   "takeaway": "Thick, colored, and smelly = purulent = infection.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Review what each exudate type looks like: clarity, thickness, color, and odor.",
-   "hintStrategy": "Link each descriptor in the stem (thick, opaque, colored, odor) to the exudate type that has all of them."
+   "rationale": "Stage 2 exudate is classified by appearance. Purulent drainage is thick, cloudy, and colored, often with odor, because it is full of dead neutrophils and debris. Assessment teaching adds that local findings matter on their own: an infected wound can still have a normal temperature, so the nurse reports it rather than waiting for fever.",
+   "takeaway": "Thick, colored, foul drainage = purulent = report, even if the temperature is normal.",
+   "hintContent": "Combine the exudate types from Stage 2 with what the assessment lesson says about temperature and local wound signs.",
+   "hintStrategy": "Name the drainage type from its color and consistency first, then decide whether the normal temperature changes what it means."
   },
   {
    "id": "m10-005",
+   "topic": "stages",
+   "ref": "Module 10 · Inflammation · Stages of Inflammation",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": true,
-   "topic": "stages",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Stage 2 – Exudate Production",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "Twelve hours after a hip replacement, the dressing over a client's incision has a 3 cm area of thin, watery, pale pink drainage. Vital signs: T 37.4 °C (99.3 °F), HR 84, BP 126/74. What is the nurse's priority action?",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "alsoTests": [
+    "assessment-diagnostics"
+   ],
+   "stem": "Twelve hours after a hip replacement, a client's dressing has a 3 cm area of thin, watery, pale pink drainage. T 37.4 °C (99.3 °F), HR 84, RR 16, BP 126/74. Which action is the nurse's priority?",
    "options": [
-    "Notify the surgeon of possible postoperative hemorrhage from the hip",
-    "Continue to monitor the amount and character of the drainage",
+    "Notify the surgeon of possible hemorrhage from the hip incision",
     "Obtain a culture of the drainage and send it to the laboratory",
-    "Remove the dressing and leave the incision open to air"
+    "Remove the dressing and leave the incision open to the air",
+    "Mark the drainage edge with the time and continue to monitor"
    ],
-   "answer": 1,
+   "answer": 3,
    "optionRationales": [
-    "Hemorrhage would produce large amounts of bright red (sanguineous) drainage, often with tachycardia and hypotension.",
-    "Correct. Small amounts of serosanguineous drainage are expected early after surgery. The nurse should continue to monitor for changes in amount or character.",
-    "A culture is indicated for purulent drainage or signs of infection, which are not present.",
-    "The drainage is expected, and the dressing protects the fresh incision. Removing it is not indicated by this finding."
+    "Thin, pale pink drainage is serosanguineous, not the bright red, saturating drainage of hemorrhage, and the vital signs are stable.",
+    "Nothing suggests infection: the drainage is not purulent and the vital signs show no systemic signs. A culture is not indicated.",
+    "Removing the dressing 12 hours after surgery exposes the incision without a reason and does not address any problem.",
+    "Correct. Serosanguineous drainage is expected early after surgery, and the vital signs do not meet any systemic cutoff. Outlining the drainage with the time lets the nurse track the trend."
    ],
-   "rationale": "Serosanguineous exudate (thin, pale pink) is the expected drainage in the early postoperative period and should decrease and lighten over time. Stable vital signs support an expected finding.",
-   "takeaway": "Pale pink and thin early after surgery = expected; keep monitoring the trend.",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
-   "hintContent": "Remember which type of drainage is normal in the first postoperative days and how it should change over time.",
-   "hintStrategy": "Decide first whether the drainage described is expected at this point after surgery; then use the vital signs to confirm or refute that impression."
+   "rationale": "The nurse combines two cues. The drainage type (thin, pale pink = serosanguineous) is expected in Stage 2 shortly after surgery. The vital signs (T below 38.5 °C, HR below 90, RR below 20, normal BP) show no systemic response or bleeding. So the priority is to keep monitoring the amount and character, tracking the trend.",
+   "takeaway": "Early serosanguineous drainage + normal vital signs = expected; mark it and monitor the trend.",
+   "hintContent": "Connect the exudate type expected after surgery with the systemic cutoffs for temperature, heart rate, and respiratory rate.",
+   "hintStrategy": "Ask whether anything here is abnormal. If both the drainage and the vital signs are expected, choose the monitoring action."
   },
   {
    "id": "m10-006",
-   "type": "mcq",
-   "priority": false,
    "topic": "mediators",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Mediators of Inflammation",
+   "ref": "Module 10 · Inflammation · Chemical Mediators",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with acute tendinitis asks how ibuprofen will help. Which explanation by the nurse is most accurate?",
-   "options": [
-    "It blocks histamine receptors so the blood vessels stop leaking fluid.",
-    "It kills the bacteria that are causing the tendon to become inflamed.",
-    "It suppresses the immune system so white blood cells stop reaching the tendon.",
-    "It lowers production of prostaglandins that cause pain, swelling, and fever."
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Blocking histamine receptors is how antihistamines work, not NSAIDs.",
-    "NSAIDs have no antibacterial action, and tendinitis is usually not infectious.",
-    "Broad immune suppression describes corticosteroids, not NSAIDs.",
-    "Correct. NSAIDs inhibit cyclooxygenase (COX), which lowers prostaglandin synthesis and so reduces pain, swelling, and fever."
-   ],
-   "rationale": "Prostaglandins cause vasodilation, increased permeability, pain, and fever. NSAIDs inhibit COX enzymes, which lowers prostaglandin levels. This is also why NSAIDs reduce protection of the stomach lining and blood flow to the kidneys.",
-   "takeaway": "NSAIDs → block COX → ↓ prostaglandins → ↓ pain, fever, and swelling (and ↓ GI and renal protection).",
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "hintContent": "Remember the enzyme NSAIDs inhibit and the mediator that enzyme produces.",
-   "hintStrategy": "Rule out options that describe other drug classes (antihistamines, antibiotics, corticosteroids)."
-  },
-  {
-   "id": "m10-007",
    "type": "mcq",
    "priority": false,
-   "topic": "stages",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Stage 3 – Reparative Phase",
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "The nurse is assessing a client's healing leg wound 10 days after debridement. Which wound bed finding indicates the reparative phase is progressing as expected?",
-   "options": [
-    "Beefy red, moist, granular tissue that bleeds slightly when touched",
-    "Pale pink, dry tissue with a thin gray film spread across the entire surface",
-    "Yellow, stringy tissue that adheres firmly to the wound base",
-    "Black, leathery tissue covering most of the wound surface"
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "alsoTests": [
+    "pharmacology",
+    "classic-signs"
    ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Healthy granulation tissue is beefy red, moist, and bumpy. It bleeds easily because it contains many new capillaries.",
-    "Pale, dry tissue with a gray film suggests poor perfusion or infection.",
-    "Yellow, stringy tissue is slough (devitalized tissue) that delays healing.",
-    "Black, leathery tissue is eschar (necrotic tissue)."
-   ],
-   "rationale": "Granulation tissue is fragile, highly vascular connective tissue that fills the wound during repair. It is the expected finding in a healing wound and should be protected with a moist, non-adherent dressing.",
-   "takeaway": "Beefy red, moist, and bleeds easily = healthy granulation.",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
-   "hintContent": "Picture healthy granulation tissue: color, moisture, texture, and why it bleeds easily.",
-   "hintStrategy": "You are evaluating progress. Choose the tissue type that reflects repair, not dead or devitalized tissue."
-  },
-  {
-   "id": "m10-008",
-   "type": "mcq",
-   "priority": true,
-   "topic": "anaphylaxis",
-   "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Anaphylaxis",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "Ten minutes after an IV infusion of piperacillin-tazobactam starts, a client reports 'my throat feels tight.' The nurse notes generalized hives and wheezing; BP is 84/50 mm Hg and SpO₂ is 90%. What should the nurse do first?",
+   "stem": "A client with acute tendinitis of the elbow has pain and swelling. The client asks why ibuprofen helps both problems. Which explanation by the nurse is most accurate?",
    "options": [
-    "Administer diphenhydramine IV as prescribed",
-    "Stop the antibiotic infusion",
-    "Raise the head of the bed to high Fowler's position",
-    "Obtain a set of blood cultures before the next dose"
+    "It blocks histamine, which is the main cause of pain and swelling in the tendon",
+    "It lowers prostaglandins, which add to vessel leak and sensitize nerves",
+    "It blocks leukotrienes so fewer neutrophils can enter the tendon",
+    "It kills the bacteria in the tendon that set off the inflammation"
    ],
    "answer": 1,
    "optionRationales": [
-    "Diphenhydramine is a second-line adjunct. It does not reverse airway edema or shock and never comes before stopping the trigger and giving epinephrine.",
-    "Correct. Stopping the infusion removes the allergen so no more of it enters the circulation. The nurse then calls for help and gives IM epinephrine immediately.",
-    "Hypotension calls for supine positioning with legs elevated. Positioning also does not remove the cause.",
-    "Blood cultures do not address a life-threatening allergic reaction."
+    "Ibuprofen does not block histamine; antihistamines do. Histamine mainly causes itching, hives, and early leak rather than tendon pain.",
+    "Correct. Ibuprofen is an NSAID that reduces prostaglandin production. Prostaglandins add to vasodilation and permeability (swelling) and make pain nerves more sensitive, so blocking them eases both.",
+    "Ibuprofen's target is prostaglandin production, not leukotrienes, and reducing WBC entry is not how it relieves pain.",
+    "NSAIDs have no antibacterial action, and tendinitis is usually caused by overuse (a physical agent), not bacteria."
    ],
-   "rationale": "With an IV-drug-triggered anaphylactic reaction, the first action is to stop the offending infusion (keeping the line open with normal saline). Epinephrine IM follows immediately, along with a call for the rapid response team. Removing the trigger takes seconds and prevents further exposure.",
-   "takeaway": "IV drug reaction: stop the infusion → call for help → epinephrine IM.",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "hintContent": "Think about how the allergen is still getting into the client and what stops more of it from entering.",
-   "hintStrategy": "The stem asks what to do FIRST. Consider whether the client is still being exposed to the trigger before choosing among the treatments."
+   "rationale": "Pain (dolor) and swelling (tumor) are partly produced by prostaglandins: they add to vessel dilation and leak and sensitize nerve endings to bradykinin and pressure. NSAIDs block the enzyme that makes prostaglandins, so the same drug reduces pain, swelling, and fever. It does not block histamine, recruit fewer WBCs, or kill germs.",
+   "takeaway": "NSAIDs help pain, swelling, and fever because all three are partly prostaglandin-driven.",
+   "hintContent": "Link the mediator responsible for pain, fever, and part of the swelling to the drug class that blocks it.",
+   "hintStrategy": "Identify which mediator ibuprofen actually targets, then check that the option explains BOTH symptoms."
   },
   {
-   "id": "m10-009",
+   "id": "m10-007",
+   "topic": "stages",
+   "ref": "Module 10 · Inflammation · Stages of Inflammation",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "alsoTests": [],
+   "stem": "The nurse assesses a client's open leg wound 10 days after debridement. Which combination of findings best indicates that the reparative phase is progressing as expected?",
+   "options": [
+    "Beefy red, moist, granular bed that bleeds slightly, with scant serous drainage",
+    "Pale pink, dry bed with a thin gray film, and drainage that has turned cloudy",
+    "Yellow, stringy tissue stuck to the base, with an odor that persists after cleansing",
+    "Black, leathery tissue over most of the bed, with pain rising from 2/10 to 6/10"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Beefy red, moist, granular tissue that bleeds slightly is healthy granulation tissue full of new capillaries, and scant, decreasing serous drainage fits normal progression.",
+    "A pale, gray, dry bed suggests poor blood supply or stalled healing, and cloudy drainage suggests infection.",
+    "Yellow, stringy tissue adhering to the base is dead tissue that blocks repair, and persistent odor after cleansing suggests infection.",
+    "Black, leathery tissue is dead tissue (eschar) that must be removed before repair can proceed, and rising pain is a warning sign."
+   ],
+   "rationale": "In Stage 3 the wound fills with granulation tissue: fragile, beefy red, moist, and granular with many new capillaries, so it bleeds slightly when touched. Drainage should be decreasing and serous. Pale, gray, yellow, or black tissue, cloudy drainage, persistent odor, and rising pain all indicate impaired healing or infection.",
+   "takeaway": "Beefy red, moist granulation + scant serous drainage = healing on track.",
+   "hintContent": "Recall what granulation tissue looks like and how drainage should change as repair progresses.",
+   "hintStrategy": "Check BOTH findings in each option; the correct choice has no warning sign in either half."
+  },
+  {
+   "id": "m10-008",
+   "topic": "anaphylaxis",
+   "ref": "Module 10 · Inflammation · Anaphylaxis",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": true,
-   "topic": "anaphylaxis",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Anaphylaxis",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "The nurse has stopped an IV antibiotic infusion in an adult client who developed stridor, hives, and BP 80/48 mm Hg. The rapid response team has been called. Which prescribed medication should the nurse give first?",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "Ten minutes after an IV infusion of piperacillin-tazobactam starts, a client reports 'my throat feels tight.' The nurse notes generalized hives and wheezing; BP is 84/50 mm Hg and SpO₂ is 90%. What should the nurse do first?",
    "options": [
-    "Methylprednisolone 125 mg IV push over 1 to 2 minutes",
-    "Albuterol 2.5 mg in 3 mL saline via nebulizer",
-    "Epinephrine 0.5 mg IM in the mid-anterolateral thigh",
-    "Famotidine 20 mg IV push diluted in 10 mL saline"
+    "Administer the prescribed diphenhydramine IV to block histamine",
+    "Raise the head of the bed to high Fowler's position for breathing",
+    "Stop the antibiotic infusion that is triggering mediator release",
+    "Obtain a set of blood cultures before any further antibiotic dose"
    ],
    "answer": 2,
    "optionRationales": [
-    "Corticosteroids act slowly (hours) and do not treat acute airway or circulatory compromise.",
-    "Albuterol treats bronchospasm but not laryngeal edema or hypotension. It is an adjunct.",
-    "Correct. IM epinephrine (1 mg/mL concentration) is first-line. Its alpha effects reverse vasodilation and edema, and its beta-2 effects relieve bronchospasm. The thigh gives the fastest absorption.",
-    "H2 blockers are adjuncts for skin and GI symptoms only."
+    "An antihistamine blocks only one mediator and acts slowly. It does not reverse airway swelling or shock and never comes before stopping the trigger and giving epinephrine.",
+    "With a BP of 84/50, sitting the client upright can worsen hypotension. Positioning comes after the trigger is removed and epinephrine is given.",
+    "Correct. Skin, airway, and circulation are all involved minutes after a new drug: anaphylaxis. Stopping the infusion ends further exposure to the allergen that is driving body-wide mast cell release; the nurse then calls for help and gives epinephrine.",
+    "Blood cultures have no role in treating an acute allergic reaction and would delay life-saving care."
    ],
-   "rationale": "Epinephrine is the only drug that treats every life-threatening feature of anaphylaxis: airway edema, bronchoconstriction, and shock. Give 0.01 mg/kg (adult max 0.5 mg) of 1 mg/mL IM into the vastus lateralis, repeating every 5–15 minutes as needed.",
-   "takeaway": "Epinephrine IM in the thigh first; everything else is an adjunct.",
+   "rationale": "Throat tightness, hives, wheezing, hypotension, and low SpO₂ right after a new IV antibiotic mean sudden, body-wide mediator release: vasodilation drops the BP, capillary leak swells the airway, and bronchoconstriction causes wheezing. The first step is to remove the trigger by stopping the infusion (keeping the line open), then call for help and give IM epinephrine.",
+   "takeaway": "Anaphylaxis during an infusion: stop the drug first, then call for help and give epinephrine.",
+   "hintContent": "Connect the findings to body-wide mediator release and recall the order of emergency actions for anaphylaxis.",
+   "hintStrategy": "Ask what is still feeding the reaction right now and which action ends it immediately."
+  },
+  {
+   "id": "m10-009",
+   "topic": "anaphylaxis",
+   "ref": "Module 10 · Inflammation · Anaphylaxis",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "type": "mcq",
+   "priority": true,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Pharmacology",
-   "hintContent": "Recall which drug reverses vasodilation, capillary leak, and bronchospasm all at once.",
-   "hintStrategy": "Several options are real anaphylaxis drugs. Separate first-line from adjunct by asking which one treats the airway AND the blood pressure."
+   "alsoTests": [
+    "pharmacology",
+    "mediators"
+   ],
+   "stem": "The nurse has stopped an IV antibiotic infusion in an adult client who developed stridor, hives, and BP 80/48 mm Hg. The rapid response team has been called. Which prescribed medication should the nurse give first?",
+   "options": [
+    "Epinephrine 0.5 mg IM in the mid-anterolateral thigh",
+    "Methylprednisolone 125 mg IV push over 1 to 2 minutes",
+    "Albuterol 2.5 mg in 3 mL saline via small-volume nebulizer",
+    "Famotidine 20 mg IV push diluted in 10 mL normal saline"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Epinephrine constricts vessels (raising BP and reducing leak and airway swelling) and opens the airways, directly reversing the effects of massive mediator release. The IM thigh route absorbs quickly.",
+    "A corticosteroid suppresses inflammation over hours. It is a second-line adjunct and does not open a closing airway or raise BP now.",
+    "Albuterol relaxes the lower airways but does nothing for upper-airway swelling (stridor) or shock; it is given after epinephrine.",
+    "Famotidine is an adjunct that blocks one type of histamine receptor. It does not reverse airway swelling or hypotension."
+   ],
+   "rationale": "Stridor and hypotension show that mediators (histamine, leukotrienes, prostaglandins) are causing upper-airway swelling and widespread vasodilation. Only epinephrine reverses these effects quickly. Steroids, bronchodilators, and histamine blockers are second-line drugs given after epinephrine.",
+   "takeaway": "Epinephrine IM first; steroids, albuterol, and antihistamines are adjuncts.",
+   "hintContent": "Link what each drug does to the life-threatening effects of mediator release: airway swelling and low blood pressure.",
+   "hintStrategy": "Choose the only drug that fixes both the airway and the circulation problem within minutes."
   },
   {
    "id": "m10-010",
-   "type": "mcq",
-   "priority": true,
    "topic": "anaphylaxis",
-   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client received epinephrine IM for anaphylaxis after a bee sting. The client is breathing without difficulty but reports feeling lightheaded; BP is 88/54 mm Hg. Which action should the nurse take first?",
-   "options": [
-    "Place the client supine with the legs elevated",
-    "Place the client in high Fowler's position",
-    "Help the client stand to walk to the stretcher",
-    "Place the client prone with the head turned to the side"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Lying flat with the legs raised increases venous return and preload, which supports BP in distributive shock.",
-    "Sitting upright is for clients whose main problem is breathing difficulty. Here it would worsen hypotension.",
-    "Standing or walking during anaphylaxis can cause sudden cardiovascular collapse (the 'empty ventricle').",
-    "Prone positioning does not support circulation and hinders assessment."
-   ],
-   "rationale": "Anaphylaxis causes massive vasodilation and fluid leak. A hypotensive client without respiratory distress should be kept supine with the legs elevated. A dyspneic client may sit up with the legs extended, and a pregnant client should lie on her left side.",
-   "takeaway": "Hypotensive anaphylaxis: flat with legs up; never stand or walk.",
+   "type": "mcq",
+   "priority": true,
+   "difficulty": 2,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Think about how gravity and venous return affect blood pressure in distributive shock.",
-   "hintStrategy": "Note that the client is breathing comfortably. The problem to solve is the blood pressure, not breathing."
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "A client received IM epinephrine for anaphylaxis after a bee sting. Breathing is now easy, but the client feels lightheaded; BP is 88/54 mm Hg. Which action should the nurse take first?",
+   "options": [
+    "Place the client in high Fowler's position to ease breathing",
+    "Help the client stand and walk slowly to the stretcher",
+    "Sit the client in a chair and give an oral antihistamine",
+    "Place the client supine with the legs elevated"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "High Fowler's position is for a client whose main problem is breathing with a stable BP. Here breathing has improved but the BP is low, and sitting up worsens hypotension.",
+    "Standing or walking while hypotensive after anaphylaxis can cause sudden collapse because blood pools in dilated vessels.",
+    "An oral antihistamine does not treat hypotension, and a chair keeps the client upright while the BP is low.",
+    "Correct. Widespread vasodilation and capillary leak are still lowering circulating volume. Lying flat with the legs raised supports blood return to the heart while oxygen, IV fluids, and a repeat epinephrine dose are prepared."
+   ],
+   "rationale": "After epinephrine the airway improved, but lightheadedness and BP 88/54 show circulation is still poor from mediator-driven vasodilation and fluid leak. The first action is positioning: supine with legs elevated. The client must not stand or walk. Oxygen, an isotonic fluid bolus, monitoring, and a repeat dose if needed follow.",
+   "takeaway": "Hypotension after anaphylaxis: flat with legs up; never stand or walk.",
+   "hintContent": "Relate the persistent low BP to what vasodilation and capillary leak do to blood volume, then recall positioning rules.",
+   "hintStrategy": "Identify which problem is still active (airway or circulation) and choose the position that treats that problem."
   },
   {
    "id": "m10-011",
-   "type": "mcq",
-   "priority": false,
    "topic": "anaphylaxis",
-   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client who was treated for anaphylaxis after a yellow jacket sting is being discharged with epinephrine auto-injectors and a referral to an allergist. Which statement by the client indicates understanding of the discharge teaching?",
-   "options": [
-    "“I'll wear closed shoes outside and keep my drinks covered at picnics.”",
-    "“My next sting will probably be milder because my body has reacted once.”",
-    "“I can take an antihistamine before yard work instead of carrying epinephrine.”",
-    "“I only need to carry my auto-injector during the warm summer months.”"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Avoiding exposure is the first line of prevention. Stinging insects nest in the ground and are drawn to open sweet drinks, so closed shoes and covered drinks lower the chance of another sting.",
-    "Needs further teaching. A client who has had a systemic reaction to a sting is at risk for an equally or more severe reaction with the next sting; the sensitivity does not fade after one reaction.",
-    "Needs further teaching. Antihistamines do not prevent or treat airway edema or shock. Epinephrine must be carried at all times.",
-    "Needs further teaching. Stings can happen in any season (indoors, during warm spells, or while traveling), so the auto-injector is carried at all times."
-   ],
-   "rationale": "Prevention after insect-sting anaphylaxis combines avoiding triggers (closed shoes, covered drinks, avoiding perfumes and bright floral clothing outdoors, professional nest removal), carrying two epinephrine auto-injectors at all times, and allergist evaluation for venom immunotherapy, which greatly lowers the risk of future systemic reactions.",
-   "takeaway": "After sting anaphylaxis: avoid triggers, carry epinephrine always, and see an allergist.",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "hintContent": "Recall how avoiding triggers fits into health promotion for allergies and whether the risk of anaphylaxis fades after one reaction.",
-   "hintStrategy": "This item asks for a statement that shows understanding. Test each statement against what would keep the client safe at the next exposure."
+   "alsoTests": [
+    "nursing-interventions"
+   ],
+   "stem": "A client treated for anaphylaxis after a yellow jacket sting is being discharged with two epinephrine auto-injectors and an allergist referral. Which statement by the client indicates understanding of the teaching?",
+   "options": [
+    "“My next sting will probably be milder because my body has already reacted once.”",
+    "“I can take an antihistamine before yard work instead of carrying epinephrine.”",
+    "“I'll wear closed shoes outside and keep my drinks covered at picnics.”",
+    "“I only need to carry my auto-injectors during the warm summer months.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "The client is already sensitized, with IgE on mast cells. A future sting can trigger a reaction as severe or worse, not milder.",
+    "An antihistamine never replaces epinephrine; it does not prevent or reverse airway swelling or shock.",
+    "Correct. Prevention of inflammation means avoiding triggers. Closed shoes and covered drinks reduce the chance of another sting.",
+    "Auto-injectors should be carried at all times, all year; reactions can happen whenever the trigger is met."
+   ],
+   "rationale": "Health promotion teaching for inflammation centers on trigger avoidance, and anaphylaxis pathophysiology explains why: once sensitized, the next exposure can cause another severe reaction. Avoiding stings (closed shoes, covered drinks), carrying two auto-injectors year-round, and never substituting an antihistamine are the key points.",
+   "takeaway": "After anaphylaxis: avoid the trigger, carry two auto-injectors always, and never rely on an antihistamine.",
+   "hintContent": "Combine what sensitization means for the next exposure with the prevention principle of avoiding triggers.",
+   "hintStrategy": "Rule out any statement that expects a milder reaction or replaces epinephrine, then pick the one that reduces exposure."
   },
   {
    "id": "m10-012",
+   "topic": "mediators",
+   "ref": "Module 10 · Inflammation · Chemical Mediators",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": false,
-   "topic": "mediators",
-   "difficulty": 1,
-   "ref": "Module 10 · Inflammation · Mediators of Inflammation",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client with an infected finger asks how the body 'marks' bacteria so the white blood cells can destroy them. The nurse explains that a group of more than 20 plasma proteins helps dilate vessels and helps white blood cells engulf the bacteria. Which mediator is the nurse describing?",
-   "options": [
-    "Bradykinin",
-    "Leukotrienes",
-    "Histamine",
-    "Complement"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Bradykinin causes vessel dilation, pain, and increased permeability. It is a single peptide, not a group of proteins, and does not aid phagocytosis.",
-    "Leukotrienes attract neutrophils and macrophages to the site, but they are not a group of plasma proteins that aid phagocytosis.",
-    "Histamine (with heparin) increases blood flow and prevents clotting at the site. It does not help WBCs engulf microbes.",
-    "Correct. Complement is a system of more than 20 plasma proteins that aids vessel dilation and phagocytosis."
-   ],
-   "rationale": "Mediators are released by mast cells and macrophages, and each has a characteristic job. Complement, a group of more than 20 proteins, aids vessel dilation and phagocytosis. Histamine and heparin increase blood flow and prevent clotting, bradykinin causes dilation, pain, and permeability, leukotrienes attract neutrophils and macrophages, and prostaglandins cause vasodilation, pain, and fever.",
-   "takeaway": "Complement = >20 proteins that aid dilation and phagocytosis.",
+   "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall the key mediators of inflammation and the main effect of each one.",
-   "hintStrategy": "Two cues in the stem narrow the choice: a 'group of proteins' and 'helps WBCs engulf.' Eliminate mediators known for a different main effect."
+   "alsoTests": [
+    "stages"
+   ],
+   "stem": "A client with an infected finger asks how white blood cells manage to engulf the bacteria once they reach the site. The nurse explains that a group of more than 20 plasma proteins coats the bacteria and helps with this final step of the cellular response. Which mediator is the nurse describing?",
+   "options": [
+    "Leukotrienes, which mainly support the chemotaxis step",
+    "Complement, which supports the phagocytosis step",
+    "Bradykinin, which supports the emigration step",
+    "Histamine, which supports the margination step"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Leukotrienes attract neutrophils and macrophages (chemotaxis), but they are not a group of more than 20 proteins that coat bacteria.",
+    "Correct. Complement is more than 20 plasma proteins that aid dilation and tag (coat) bacteria so WBCs can recognize and engulf them in phagocytosis, the last step of the cellular response.",
+    "Bradykinin causes pain, dilation, and permeability. It does not coat bacteria or control WBC emigration.",
+    "Histamine dilates vessels and increases leak; it does not tag bacteria for WBCs to eat."
+   ],
+   "rationale": "The cellular response follows margination, adhesion, emigration, chemotaxis, and phagocytosis. Complement, a cascade of more than 20 blood proteins, aids vasodilation and coats microbes so WBCs grab and digest them more efficiently, supporting phagocytosis. Leukotrienes lay the chemical trail for chemotaxis.",
+   "takeaway": "Complement (>20 proteins) tags bacteria for phagocytosis; leukotrienes call WBCs in.",
+   "hintContent": "Match the mediator described (more than 20 plasma proteins) with the step of the cellular response it supports.",
+   "hintStrategy": "Check both halves of each option: the mediator must fit the description and the step must be the final 'eat' step."
   },
   {
    "id": "m10-013",
+   "topic": "assessment-diagnostics",
+   "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": false,
-   "topic": "assessment-diagnostics",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Diagnostic Tests",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client admitted with suspected appendicitis has these results: WBC 16,800/mm³, neutrophils 82%, bands 14%. How should the nurse interpret these findings?",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "alsoTests": [
+    "stages",
+    "acute-chronic"
+   ],
+   "stem": "A client admitted with rapidly spreading cellulitis of the lower leg has these results: WBC 16,800/mm³, neutrophils 82%, bands 14%. How should the nurse interpret these findings?",
    "options": [
-    "Expected results after a viral illness",
-    "An allergic reaction to the admission medications",
-    "Bone marrow suppression requiring neutropenic precautions",
-    "A left shift suggesting an acute bacterial infection"
+    "A chronic process in which lymphocytes and macrophages dominate",
+    "An allergic process in which mast cells release histamine",
+    "A marrow suppression problem that needs strict neutropenic precautions",
+    "An acute bacterial process with the marrow releasing young neutrophils"
    ],
    "answer": 3,
    "optionRationales": [
-    "Viral infections usually raise lymphocytes, not bands.",
-    "Allergic responses typically raise eosinophils.",
-    "A WBC of 16,800 is elevated, not suppressed. Neutropenic precautions are for low counts.",
-    "Correct. Leukocytosis with increased immature neutrophils (bands above 10%) is a left shift. It shows the marrow is releasing neutrophils early to fight acute bacterial infection."
+    "Chronic inflammation is driven by lymphocytes and macrophages; these results show a neutrophil-driven response.",
+    "Mast cell histamine release explains allergy and anaphylaxis, not a high WBC with increased bands.",
+    "Marrow suppression lowers the WBC. A count of 16,800/mm³ is high, not low.",
+    "Correct. High WBC, high neutrophils, and bands above 5% are a left shift: in the Stage 1 cellular response the marrow releases immature neutrophils to fight an acute bacterial infection, which fits cellulitis."
    ],
-   "rationale": "A left shift, meaning more bands on the differential, reflects an acute demand for neutrophils, most often from bacterial infection or severe inflammation. In appendicitis, a rising band count can also hint at perforation.",
-   "takeaway": "↑ bands = left shift = acute bacterial infection.",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall what bands are and what an increase in immature neutrophils means.",
-   "hintStrategy": "Look at the differential, not just the total WBC. Each distractor matches a different WBC pattern."
+   "rationale": "Reading the differential connects three ideas. A left shift (increased bands) means the bone marrow is sending out young neutrophils during the cellular response. Neutrophils dominate acute, not chronic, inflammation. Together with a WBC above 12,000/mm³, the results point to an acute bacterial process with a systemic response.",
+   "takeaway": "↑ WBC + ↑ neutrophils + ↑ bands = left shift = acute bacterial inflammation.",
+   "hintContent": "Connect bands and neutrophils to the cellular response and to the cells that lead acute versus chronic inflammation.",
+   "hintStrategy": "Decide whether the WBC is high or low and which cell type is rising, then match that pattern to a process."
   },
   {
    "id": "m10-014",
+   "topic": "assessment-diagnostics",
+   "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": false,
-   "topic": "assessment-diagnostics",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Diagnostic Tests",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client with rheumatoid arthritis started a new disease-modifying drug 8 weeks ago. Refer to the Laboratory Results. How should the nurse interpret the change in the C-reactive protein (CRP)?",
-   "options": [
-    "The inflammation is decreasing, suggesting the treatment is effective.",
-    "The client has developed an infection that the drug is masking.",
-    "The liver is being damaged by the new medication and makes less CRP.",
-    "The client's risk of an allergic or anaphylactic reaction has increased."
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. CRP is an acute-phase protein that falls quickly as inflammation subsides, which makes it useful for monitoring response to therapy. The ESR is falling more slowly, as expected.",
-    "Infection would raise CRP, not lower it, and the WBC is normal.",
-    "CRP is made by the liver, but a falling CRP does not indicate liver injury, and the ALT is unchanged and normal.",
-    "CRP does not predict allergic reactions or anaphylaxis."
-   ],
-   "rationale": "CRP is made by the liver in response to inflammatory cytokines (IL-6). It rises within hours and falls quickly when inflammation resolves, so serial values help evaluate treatment. A value below about 1.0 mg/dL is generally within normal limits.",
-   "takeaway": "Falling CRP = cooling inflammation = treatment working.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
-   "hintContent": "Remember how quickly CRP responds to changes in inflammation.",
-   "hintStrategy": "Look at the direction of change (before vs. after treatment) and decide what it says about the therapy.",
+   "alsoTests": [],
    "exhibit": {
     "tabs": [
      {
@@ -1241,12 +1266,6 @@ window.NURSE_DATA.push({
          "0–20 mm/hr"
         ],
         [
-         "ALT",
-         "24 units/L",
-         "27 units/L",
-         "7–56 units/L"
-        ],
-        [
          "WBC",
          "8,100/mm³",
          "7,400/mm³",
@@ -1256,342 +1275,390 @@ window.NURSE_DATA.push({
       }
      }
     ]
-   }
+   },
+   "stem": "A 50-year-old woman with long-standing rheumatoid arthritis started a new anti-inflammatory medication 8 weeks ago. Refer to the Laboratory Results. She asks whether the treatment is working because her ESR is 'still high.' Which response by the nurse is most accurate?",
+   "options": [
+    "“Your CRP has normalized, so the inflammation is settling; ESR changes more slowly.”",
+    "“Your ESR shows the drug is failing, so the chronic inflammation is still active.”",
+    "“Your normal WBC means the arthritis has been cured, so the tests no longer matter.”",
+    "“Your falling CRP means a new infection is being masked by the medication.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. CRP rises and falls quickly and is used to monitor treatment; it is now in range. ESR also fell (46 to 24 mm/hr) but lags behind CRP, so a slightly high ESR does not mean failure.",
+    "The ESR has fallen by about half. It changes slowly, so a value just above 20 mm/hr for a woman does not show the drug is failing.",
+    "RA is a chronic autoimmune disease that is controlled, not cured. The WBC was normal before treatment too, so it does not measure RA activity.",
+    "A falling CRP reflects less inflammation. Nothing in the data suggests a new infection."
+   ],
+   "rationale": "RA is a chronic inflammatory disease, so the goal is long-term control that can be tracked with inflammation markers. CRP (liver protein) falls quickly when treatment works, while ESR (female normal 0–20 mm/hr) lags. A normalized CRP with a falling ESR shows the inflammation is decreasing.",
+   "takeaway": "Use CRP to track treatment; a lagging ESR does not mean the treatment failed.",
+   "hintContent": "Recall how fast CRP and ESR respond to changes in inflammation and the ESR range for women.",
+   "hintStrategy": "Look at the direction of each trend, not just whether the value is in range."
   },
   {
    "id": "m10-015",
+   "topic": "assessment-diagnostics",
+   "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "type": "mcq",
    "priority": true,
-   "topic": "assessment-diagnostics",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Nursing Assessment",
-   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "alsoTests": [
+    "inflammation-overview",
+    "acute-chronic"
+   ],
    "stem": "The nurse receives report on four clients. Which client should the nurse assess first?",
    "options": [
-    "A client 2 days after knee arthroscopy with warmth and mild swelling at the incision; T 37.3 °C (99.1 °F)",
-    "A client with psoriasis with red, scaly plaques on the elbows who is asking for a topical steroid",
+    "A client 2 days after knee arthroscopy with mild warmth at the incision; T 37.3 °C (99.1 °F)",
+    "A client with long-standing psoriasis with red, scaly elbow plaques who asks for a topical steroid",
     "A client 1 day after bowel surgery with T 38.9 °C (102 °F), HR 118, RR 26, and WBC 15,500/mm³",
-    "A client with a sprained wrist rating pain 6/10 who is due for oral ibuprofen"
+    "A client with a sprained wrist rating pain 6/10 who is due for the next dose of oral ibuprofen"
    ],
    "answer": 2,
    "optionRationales": [
-    "Mild warmth and swelling with a near-normal temperature is an expected local inflammatory response after surgery.",
-    "Chronic psoriasis plaques are a stable, chronic finding.",
-    "Correct. This client has systemic signs of inflammation (temperature above 38.5 °C, HR above 90, RR above 20, WBC above 12,000) after bowel surgery, which suggests a serious complication such as infection spreading in the abdomen. These findings are unstable and systemic.",
-    "Moderate pain from a sprain is expected. The medication can be given after the unstable client is seen."
+    "Mild warmth at a new incision with a normal temperature is expected local inflammation during healing.",
+    "Psoriasis is a chronic autoimmune inflammatory condition; stable plaques and a medication request are not urgent.",
+    "Correct. This client meets every systemic cutoff (T above 38.5 °C, HR above 90, RR above 20, WBC above 12,000/mm³). The inflammation is no longer contained, so the client is assessed first and the provider notified.",
+    "A local sprain with moderate pain is a stable comfort need that can be met after the unstable client is seen."
    ],
-   "rationale": "Systemic signs of inflammation after abdominal surgery signal a possibly life-threatening complication. Systemic, unstable findings take priority over expected local signs and chronic, stable conditions.",
-   "takeaway": "Systemic beats local; unstable beats stable.",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "hintContent": "Review the systemic signs of inflammation from the nursing assessment: temperature, heart rate, respiratory rate, and WBC count.",
-   "hintStrategy": "Sort the clients into expected/stable and unexpected/systemic. The priority is the client whose findings affect several body systems."
+   "rationale": "Prioritizing inflamed clients uses two rules: systemic before local, and unstable before stable. Expected local inflammation after surgery, a stable chronic condition, and a local injury all rank below a client whose temperature, heart rate, respiratory rate, and WBC all meet the systemic cutoffs.",
+   "takeaway": "Systemic beats local; unstable beats stable and chronic.",
+   "hintContent": "Apply the systemic cutoffs (T, HR, RR, WBC) and sort each client as local, chronic-stable, or systemic.",
+   "hintStrategy": "Compare every client's numbers with the cutoffs, then pick the one whose inflammation is spreading."
   },
   {
    "id": "m10-016",
+   "topic": "pharmacology",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "topic": "pharmacology",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "alsoTests": [
+    "lifespan"
+   ],
    "stem": "The parent of an 8-year-old with influenza asks whether the child can take aspirin for fever and body aches. Which response is most important for the nurse to make?",
    "options": [
-    "“Yes, give a children's dose of aspirin every 4 hours as needed for aches.”",
-    "“Aspirin is fine as long as you give it with food to protect the stomach.”",
-    "“Alternate the aspirin with ibuprofen every 3 hours to keep the fever down.”",
-    "“Avoid aspirin; it is linked to Reye syndrome with viral illnesses.”"
+    "“Do not use aspirin; it is linked to Reye syndrome during viral illness.”",
+    "“Aspirin is fine if you give it with food to protect the stomach lining.”",
+    "“Alternate aspirin with ibuprofen every 3 hours to keep the fever down.”",
+    "“Give an adult aspirin tablet, since an 8-year-old can take adult doses.”"
    ],
-   "answer": 3,
+   "answer": 0,
    "optionRationales": [
-    "Aspirin is contraindicated in children and teens with viral illnesses.",
-    "Food reduces GI upset but does not prevent Reye syndrome.",
-    "Any aspirin exposure during a viral illness carries the risk of Reye syndrome.",
-    "Correct. Aspirin during influenza or varicella in anyone under 19 is linked to Reye syndrome (encephalopathy and liver failure). Acetaminophen or ibuprofen at weight-based doses is preferred."
+    "Correct. Aspirin given to a child or teen with a viral illness such as influenza is linked to Reye syndrome, which can injure the brain and liver. The child's age plus the viral illness makes this the essential teaching.",
+    "Food protects the stomach but does not remove the Reye syndrome risk, which is the main danger here.",
+    "Any aspirin use during influenza carries the Reye syndrome risk, and combining two prostaglandin blockers adds GI risk without benefit.",
+    "Children need weight-based dosing, and aspirin should not be given at all during a viral illness."
    ],
-   "rationale": "Reye syndrome is a rare but often fatal condition causing acute encephalopathy and fatty liver after aspirin use during a viral infection in children and teens. Teach families to check OTC labels for salicylates (e.g., bismuth subsalicylate).",
-   "takeaway": "Kids plus viral illness plus aspirin = Reye syndrome risk. Avoid it.",
-   "cjmm": "Take Action",
-   "focus": "Lifespan & Diversity",
-   "hintContent": "Recall the syndrome linked to salicylates in children and teens with influenza or chickenpox.",
-   "hintStrategy": "The client's age and the viral illness are the key cues. Pick the answer that addresses that specific risk, not general GI protection."
+   "rationale": "The lifespan lesson reminds nurses to avoid aspirin for fever or pain in children with viral illness, and the pharmacology lesson explains why: Reye syndrome. Recognizing both the age group and the viral trigger makes avoiding aspirin the most important response.",
+   "takeaway": "Child or teen + viral illness + aspirin = Reye syndrome risk; do not give it.",
+   "hintContent": "Combine the child's age and viral illness with the specific danger of salicylates.",
+   "hintStrategy": "Look for the response that prevents the most serious harm, not the one that only reduces a side effect."
   },
   {
    "id": "m10-017",
+   "topic": "pharmacology",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "topic": "pharmacology",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "alsoTests": [],
    "stem": "A 74-year-old client with osteoarthritis has taken naproxen 500 mg twice daily for 3 months. The client reports feeling tired and having 'black, sticky stools.' Which action should the nurse take first?",
    "options": [
-    "Teach the client to take naproxen with milk to reduce stomach irritation",
+    "Teach the client to take the naproxen with milk from now on",
     "Hold the next naproxen dose and notify the provider",
-    "Suggest the client increase dietary fiber and fluids",
-    "Reassure the client that dark stools are a common side effect of NSAIDs"
+    "Suggest more dietary fiber and fluids to change the stools",
+    "Reassure the client that dark stools are expected with NSAIDs"
    ],
    "answer": 1,
    "optionRationales": [
-    "Taking the drug with milk is prevention teaching. It does not address a possible active GI bleed.",
-    "Correct. Melena and fatigue suggest upper GI bleeding with blood loss. The NSAID should be held and the provider notified for prompt evaluation.",
-    "Fiber and fluids address constipation, not melena.",
-    "Black, tarry stools are not a benign side effect of NSAIDs (unlike those from iron or bismuth). Reassurance delays care."
+    "Milk may reduce mild irritation but does nothing for an active GI bleed and continues the drug causing it.",
+    "Correct. Black, tarry stools with fatigue suggest an upper GI bleed. Naproxen blocks the prostaglandins that protect the stomach lining, so the drug is held and the provider notified; fall precautions and trending hemoglobin and vital signs follow.",
+    "Fiber and fluids do not address bleeding and delay needed care.",
+    "Black, sticky stools are not an expected effect; they are a sign of GI bleeding that must be reported."
    ],
-   "rationale": "NSAIDs reduce the prostaglandins that protect the stomach lining, which increases the risk of ulcers and bleeding, and older age increases that risk. Melena and fatigue require holding the drug and prompt evaluation.",
-   "takeaway": "NSAID plus black tarry stools → hold the drug and notify the provider.",
-   "cjmm": "Take Action",
-   "focus": "Pharmacology",
-   "hintContent": "Think about what NSAIDs do to the gastric lining and what black, sticky stool means.",
-   "hintStrategy": "Decide whether this is a teaching problem or a possible active complication. Act on the complication first."
+   "rationale": "NSAIDs relieve inflammation by blocking prostaglandins, but prostaglandins also protect the stomach lining. Months of naproxen in an older adult raise the risk of ulcers and bleeding. Melena plus fatigue suggests blood loss, so the nurse holds the NSAID and notifies the provider first.",
+   "takeaway": "Black stools + fatigue on an NSAID → hold the drug and notify the provider.",
+   "hintContent": "Link the protective role of prostaglandins in the stomach to the adverse effect this client describes.",
+   "hintStrategy": "Decide whether the finding is expected or dangerous, then choose the action that stops the harm."
   },
   {
    "id": "m10-018",
+   "topic": "pharmacology",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "topic": "pharmacology",
-   "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "alsoTests": [],
    "stem": "A client has taken prednisone 40 mg daily for 4 weeks for an asthma flare. The client says, “I feel great now, so I'm going to stop the prednisone tomorrow.” Which response by the nurse is the priority?",
    "options": [
     "“That's fine, since your breathing symptoms have fully resolved now.”",
     "“Skip every other day for a week, and then stop taking it completely.”",
-    "“Stopping suddenly is unsafe; the dose must be tapered as prescribed.”",
-    "“Keep taking it until you finish the bottle, and then you can stop.”"
+    "“Keep taking it until you finish the bottle, and then you can stop it.”",
+    "“Stopping suddenly is unsafe; the dose must be tapered as prescribed.”"
    ],
-   "answer": 2,
+   "answer": 3,
    "optionRationales": [
-    "Stopping abruptly after 4 weeks of use risks adrenal insufficiency.",
-    "A self-designed schedule is unsafe. Tapering must follow the provider's prescription.",
-    "Correct. Long-term steroid use suppresses the HPA axis. Abrupt withdrawal can cause adrenal crisis (hypotension, hypoglycemia, shock), so the dose is tapered gradually.",
-    "Finishing the bottle and then stopping is still abrupt withdrawal unless the prescription is a taper."
+    "Stopping abruptly after 4 weeks of steroids can cause adrenal insufficiency even if symptoms have resolved.",
+    "A self-made skipping schedule is not a prescribed taper and can still cause adrenal insufficiency.",
+    "Finishing the bottle and stopping is still an abrupt stop without a taper.",
+    "Correct. Long-term steroids suppress the body's own cortisol production. The provider must set a taper so the adrenal glands can recover; stopping suddenly can cause weakness, dizziness, and low BP."
    ],
-   "rationale": "Exogenous corticosteroids given for more than about 2 weeks suppress the body's own cortisol production. A gradual taper lets the adrenal glands recover. Teach the client the signs of adrenal insufficiency: weakness, dizziness, nausea, and hypotension.",
-   "takeaway": "Long-term steroids: taper, never stop abruptly.",
-   "cjmm": "Take Action",
-   "focus": "Client Teaching",
-   "hintContent": "Recall what long-term steroid therapy does to the body's own cortisol production.",
-   "hintStrategy": "Consider how long the client has taken the drug. Choose the response that prevents harm and explains why."
+   "rationale": "Corticosteroid pills make the adrenal glands stop producing cortisol. If they are stopped suddenly after weeks of use, the client may develop adrenal insufficiency. The priority response is to explain that the dose must be tapered exactly as the provider prescribes.",
+   "takeaway": "Never stop long-term steroids suddenly; taper as prescribed.",
+   "hintContent": "Recall what long-term steroid use does to the adrenal glands.",
+   "hintStrategy": "Rule out every option that ends the drug abruptly, however it is phrased."
   },
   {
    "id": "m10-019",
+   "topic": "pharmacology",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "topic": "pharmacology",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with type 2 diabetes controlled with metformin is started on methylprednisolone for a severe flare of rheumatoid arthritis. Which finding is most important for the nurse to monitor for?",
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "alsoTests": [],
+   "stem": "A client with type 2 diabetes controlled with metformin is started on IV methylprednisolone for a severe rheumatoid arthritis flare. Which finding is most important for the nurse to monitor for?",
    "options": [
     "Blood glucose below 70 mg/dL",
     "Serum potassium above 5.0 mEq/L",
-    "Heart rate below 60 beats/min",
-    "Blood glucose above 180 mg/dL"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Corticosteroids raise, not lower, blood glucose.",
-    "Corticosteroids cause potassium loss (hypokalemia), not hyperkalemia.",
-    "Bradycardia is not a typical corticosteroid effect.",
-    "Correct. Glucocorticoids increase gluconeogenesis and insulin resistance, causing hyperglycemia. The client may need more frequent glucose checks and temporary insulin."
-   ],
-   "rationale": "Steroid-induced hyperglycemia is common, especially in clients with diabetes. The nurse monitors blood glucose and teaches the client about symptoms of high blood sugar.",
-   "takeaway": "Steroids raise glucose, lower potassium, and mask infection.",
-   "cjmm": "Analyze Cues",
-   "focus": "Pharmacology",
-   "hintContent": "Remember how glucocorticoids affect gluconeogenesis and insulin sensitivity.",
-   "hintStrategy": "The client's diabetes is the key cue. Ask which lab change would matter most for this client."
-  },
-  {
-   "id": "m10-020",
-   "type": "mcq",
-   "priority": false,
-   "topic": "nursing-interventions",
-   "difficulty": 1,
-   "ref": "Module 10 · Inflammation · Independent Interventions",
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A client sprained an ankle playing basketball 2 hours ago. Which instruction about cold therapy is correct?",
-   "options": [
-    "Apply a heating pad for 30 minutes to increase circulation",
-    "Apply ice wrapped in a cloth for 15–20 minutes at a time",
-    "Place the ice directly on the skin until the area is numb",
-    "Alternate heat and ice every 10 minutes for the first day"
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Heat causes vasodilation and increases swelling in an acute injury. It is used after 48 hours.",
-    "Correct. Cold causes vasoconstriction, which limits swelling, bleeding, and pain. Use a barrier and limit each application to 15–20 minutes to prevent tissue injury.",
-    "Direct ice or prolonged application can cause frostbite or nerve injury.",
-    "Heat is avoided during the first 24–48 hours."
-   ],
-   "rationale": "RICE (rest, ice, compression, elevation) limits the vascular phase of acute inflammation. Ice is applied with a barrier for 15–20 minutes, every few hours, for the first 24–48 hours.",
-   "takeaway": "Acute injury: ice with a barrier, 15–20 min; heat only after 48 h.",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Remember whether cold or heat limits swelling in the first 24–48 hours, and why.",
-   "hintStrategy": "Check each option for the type of therapy, the duration, and skin protection. Only one gets all three right."
-  },
-  {
-   "id": "m10-021",
-   "type": "mcq",
-   "priority": false,
-   "topic": "lifespan",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Lifespan Considerations – Older Adults",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "An 84-year-old resident of a long-term care facility has a temperature of 37.1 °C (98.8 °F) and a urinalysis positive for leukocytes and nitrites. Which finding is the most likely indicator of infection in this client?",
-   "options": [
-    "New-onset confusion and agitation since yesterday",
-    "A chronic, dry, nonproductive cough present for several years",
-    "Mild ankle edema that appears at the end of each day",
-    "A regular heart rate of 72 beats/min at rest"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Older adults often have a blunted fever response. Acute confusion (delirium) is a common and sometimes the only sign of infection such as a UTI.",
-    "A chronic cough is a baseline finding and does not suggest an acute infection.",
-    "Dependent edema at the end of the day is a common, chronic finding in older adults.",
-    "A heart rate of 72 is within normal limits."
-   ],
-   "rationale": "Aging blunts the classic inflammatory response (lower baseline temperature, less fever, fewer local signs). New or sudden changes in mental status, falls, or loss of appetite may be the first clue to infection.",
-   "takeaway": "Older adult plus new confusion = look for infection.",
-   "cjmm": "Recognize Cues",
-   "focus": "Lifespan & Diversity",
-   "hintContent": "Recall how aging changes the fever response and the classic presentation of infection.",
-   "hintStrategy": "Consider how aging changes the way infection presents, and compare each finding with what would be baseline for this client."
-  },
-  {
-   "id": "m10-022",
-   "type": "mcq",
-   "priority": false,
-   "topic": "nursing-interventions",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Health Promotion",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A client with rheumatoid arthritis asks which meal best fits an anti-inflammatory eating pattern. Which choice should the nurse recommend?",
-   "options": [
-    "Fried chicken sandwich with french fries and a regular soda",
-    "Grilled salmon with leafy greens, quinoa, and olive oil",
-    "Bacon cheeseburger on a white bun with a chocolate milkshake",
-    "White pasta with cream sauce and sliced Italian sausage"
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Fried foods, refined carbohydrates, and sugary drinks are typical of the pro-inflammatory Western diet.",
-    "Correct. Fatty fish (omega-3s), vegetables, whole grains, and olive oil are core anti-inflammatory foods.",
-    "High in saturated fat and sugar, which are pro-inflammatory.",
-    "Refined carbohydrates, saturated fat, and processed meat promote inflammation."
-   ],
-   "rationale": "An anti-inflammatory diet emphasizes fruits, vegetables, whole grains, fish rich in omega-3 fatty acids, nuts, and olive oil, and limits fast food, sugar, saturated fat, and processed meats. Clients with chronic inflammatory disease can also track and avoid their own trigger foods, with help from a dietitian.",
-   "takeaway": "Fish, greens, whole grains, and olive oil calm inflammation.",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Recall the foods emphasized in an anti-inflammatory eating pattern (omega-3s, whole grains, vegetables, olive oil).",
-   "hintStrategy": "Rule out the meals that match the Western diet: fried, processed, high in sugar and saturated fat."
-  },
-  {
-   "id": "m10-023",
-   "type": "mcq",
-   "priority": false,
-   "topic": "nursing-interventions",
-   "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Independent Interventions",
-   "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "stem": "The RN is caring for a client admitted with cellulitis of the left lower leg. Which task is appropriate to delegate to the unlicensed assistive personnel (UAP)?",
-   "options": [
-    "Outlining the margins of the redness with a skin marker to track spread",
-    "Evaluating whether the pain has improved after the IV analgesic",
-    "Teaching the client the signs of worsening infection to report",
-    "Elevating the client's left leg on pillows"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Marking and interpreting the margins of erythema is assessment, which is an RN responsibility.",
-    "Evaluating the response to medication is an RN responsibility.",
-    "Teaching is an RN responsibility.",
-    "Correct. Positioning and elevating an extremity as prescribed is a routine, noninvasive task within the UAP's scope."
-   ],
-   "rationale": "The RN cannot delegate assessment, teaching, evaluation, or nursing judgment. Routine comfort measures such as elevation, repositioning, and vital sign measurement on stable clients can be delegated, and the UAP reports abnormal findings back.",
-   "takeaway": "UAP: positioning, ice packs, vital signs. RN: assess, teach, evaluate.",
-   "cjmm": "Take Action",
-   "focus": "Delegation & Safety",
-   "hintContent": "Recall which nursing activities cannot be delegated: assess, teach, evaluate, and judge.",
-   "hintStrategy": "For each option, ask whether it needs nursing judgment or is a routine task with a predictable outcome."
-  },
-  {
-   "id": "m10-024",
-   "type": "mcq",
-   "priority": false,
-   "topic": "acute-chronic",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Acute vs. Chronic Inflammation",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 52-year-old client has had bilateral hand joint swelling and morning stiffness lasting more than an hour for 3 years. The hands now show ulnar deviation, and the ESR is 48 mm/hr. Which process best explains these findings?",
-   "options": [
-    "Acute inflammation that will resolve once the trigger is removed",
-    "Localized bacterial infection that needs incision and drainage",
-    "Chronic inflammation with ongoing tissue destruction",
-    "An immediate allergic (IgE-mediated) hypersensitivity reaction"
+    "Blood glucose above 180 mg/dL",
+    "Heart rate below 60 beats/min"
    ],
    "answer": 2,
    "optionRationales": [
-    "Acute inflammation begins within minutes to hours and resolves. It does not cause deformity over years.",
-    "Nothing in the stem suggests an abscess or purulent collection.",
-    "Correct. Years of symmetric joint inflammation with deformity is rheumatoid arthritis, a chronic inflammation driven by lymphocytes and macrophages that destroys tissue and causes fibrosis.",
-    "IgE-mediated reactions occur within minutes of an allergen exposure and do not cause progressive joint deformity."
+    "Corticosteroids raise blood glucose; hypoglycemia is not the expected effect.",
+    "Corticosteroids tend to lower potassium, so hyperkalemia is not the expected concern.",
+    "Correct. Corticosteroids cause hyperglycemia, and a client with diabetes may need closer glucose checks and more insulin or medication.",
+    "Bradycardia is not a typical effect of corticosteroids."
    ],
-   "rationale": "Chronic inflammation lasts months to years, often arises from autoimmunity rather than following acute inflammation, and causes progressive tissue destruction and fibrosis. RA is the classic example. An elevated ESR reflects the ongoing inflammatory activity.",
-   "takeaway": "Chronic = months to years, lymphocytes and macrophages, tissue destruction.",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall how long each type of inflammation lasts and which one causes permanent structural change.",
-   "hintStrategy": "Use the duration and the deformity in the stem to pick the process, then rule out the options that describe short-lived responses."
+   "rationale": "Corticosteroids have 'too much cortisol' effects: blood sugar up, potassium down, bones thin, infection hidden. In a client with diabetes, hyperglycemia is the most important effect to watch, so glucose monitoring increases.",
+   "takeaway": "Steroids raise glucose; watch closely in clients with diabetes.",
+   "hintContent": "Recall the metabolic effects of corticosteroids.",
+   "hintStrategy": "Consider the client's history and choose the steroid effect most likely to harm this client."
   },
   {
-   "id": "m10-025",
+   "id": "m10-020",
+   "topic": "nursing-interventions",
+   "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "type": "mcq",
-   "priority": true,
-   "topic": "lifespan",
-   "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Lifespan Considerations – Children",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 3-year-old is brought to the ED after eating a cookie containing peanuts. The child has hives on the face and chest, a hoarse cry, and inspiratory stridor. SpO₂ is 93% and BP is 96/60 mm Hg. Which is the nurse's priority concern?",
+   "priority": false,
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "alsoTests": [
+    "classic-signs"
+   ],
+   "stem": "A client sprained an ankle playing basketball 2 hours ago. The ankle is swollen and painful. Which cold-therapy instruction is correct, and why does it help?",
    "options": [
-    "Fluid volume deficit related to vomiting",
-    "Airway obstruction from laryngeal edema",
-    "Impaired skin integrity from urticaria",
-    "Anxiety of the parents"
+    "Apply a heating pad for 30 minutes to bring more healing blood to the ankle",
+    "Apply cloth-wrapped ice for 15–20 minutes to constrict vessels and limit swelling",
+    "Place ice directly on the skin until it feels numb to block the pain signals",
+    "Alternate heat and ice every 10 minutes so the blood flow to the ankle stays balanced"
    ],
    "answer": 1,
    "optionRationales": [
-    "No vomiting is described. Circulation matters, but the airway comes first.",
-    "Correct. Hoarseness and stridor mean upper airway edema. A child's small, narrow airway and large tongue mean slight swelling can cause complete obstruction. Epinephrine IM is needed immediately.",
-    "Hives are uncomfortable but not life-threatening.",
-    "Parental anxiety is psychosocial and a lower priority than airway."
+    "Heat dilates vessels and increases leak, so it worsens swelling in a fresh injury; it is reserved for later or for chronic stiffness.",
+    "Correct. Cold causes vasoconstriction, which slows blood flow and fluid leak into the tissue (less swelling) and numbs pain. A cloth barrier and 15–20 minute limit prevent cold injury.",
+    "Ice directly on the skin can cause cold injury; numbness is a reason to remove the cold, not a goal.",
+    "Heat in the first 24–48 hours increases swelling; alternating does not make it safe."
    ],
-   "rationale": "The ABCs guide priority. Children's anatomy (narrow trachea, large tongue, prominent lymphoid tissue) increases the risk of obstruction from inflammatory edema. Stridor is a sign of significant upper airway narrowing.",
-   "takeaway": "Child plus stridor plus allergen = airway emergency. Give epinephrine now.",
-   "cjmm": "Prioritize Hypotheses",
+   "rationale": "Swelling in a fresh sprain comes from vasodilation plus increased capillary permeability. Cold counters this by constricting vessels, so less fluid leaks and pain nerves are numbed. Safe use means a cloth barrier and 15–20 minutes at a time during the first 24–48 hours; heat comes later.",
+   "takeaway": "Fresh injury: cloth-wrapped ice 15–20 minutes, because vasoconstriction limits the leak that causes swelling.",
+   "hintContent": "Connect how swelling forms in acute inflammation with how cold and heat change blood vessels.",
+   "hintStrategy": "Check both the instruction and the reason; the correct option is safe AND explains the mechanism correctly."
+  },
+  {
+   "id": "m10-021",
+   "topic": "lifespan",
+   "ref": "Module 10 · Inflammation · Lifespan Considerations",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Think about how a child's airway anatomy changes the impact of even small amounts of swelling.",
-   "hintStrategy": "Apply the ABCs to the cues in the stem and decide which body system is most immediately threatened."
+   "alsoTests": [
+    "assessment-diagnostics"
+   ],
+   "stem": "An 84-year-old resident of a long-term care facility has a temperature of 37.1 °C (98.8 °F), which is 0.9 °C above her usual baseline, and a urinalysis positive for leukocytes and nitrites. Which finding is the most likely indicator of infection in this client?",
+   "options": [
+    "A chronic, dry cough that has been present for several years",
+    "Mild ankle edema that appears at the end of each day",
+    "New-onset confusion and agitation that began yesterday",
+    "A regular resting heart rate of 72 beats per minute"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "A long-standing cough is a chronic baseline finding, not a new sign of infection.",
+    "Evening ankle edema is a common chronic finding and is not linked to a urinary infection.",
+    "Correct. Older adults often have a blunted fever response, so new confusion or behavior change is frequently the first sign of infection, especially when paired with a rise above the client's own baseline temperature.",
+    "A heart rate of 72 is below the systemic cutoff of 90 and does not suggest a systemic response."
+   ],
+   "rationale": "Older adults may not reach the fever cutoff because their fever response is blunted and their baseline temperature may be low. Assessment must compare findings with the client's own baseline. New confusion, not a textbook fever, is often the clue that infection is present.",
+   "takeaway": "In older adults, new confusion or a rise above baseline can signal infection before any fever.",
+   "hintContent": "Combine the atypical presentation of infection in older adults with the idea of comparing findings to the client's baseline.",
+   "hintStrategy": "Separate new findings from chronic baseline findings, then choose the new change that best fits infection."
+  },
+  {
+   "id": "m10-022",
+   "topic": "nursing-interventions",
+   "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+   "clientNeed": "Health Promotion and Maintenance",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 1,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "alsoTests": [],
+   "stem": "A client with rheumatoid arthritis asks which meal best fits an anti-inflammatory eating pattern. Which choice should the nurse recommend?",
+   "options": [
+    "Fried chicken sandwich with french fries and a regular soda",
+    "Bacon cheeseburger on a white bun with a chocolate milkshake",
+    "White pasta with cream sauce and sliced Italian sausage",
+    "Grilled salmon with leafy greens, quinoa, and olive oil"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Fried food, refined starch, and sugary soda are part of the Western diet that promotes inflammation.",
+    "Saturated fat, refined flour, and sugar promote inflammation.",
+    "Refined pasta, cream, and processed meat are high in saturated fat and low in fiber.",
+    "Correct. Fish (omega-3s), vegetables, whole grains, and olive oil are the core of the anti-inflammatory diet."
+   ],
+   "rationale": "The anti-inflammatory diet emphasizes fruits, vegetables, fish, whole grains, olive oil, and omega-3 fats, and limits the Western diet of fast food, sugar, saturated fat, and low fiber.",
+   "takeaway": "Anti-inflammatory plate: fish, vegetables, whole grains, olive oil.",
+   "hintContent": "Recall the foods on the anti-inflammatory diet and those in the Western diet.",
+   "hintStrategy": "Eliminate meals with fried, processed, sugary, or high-saturated-fat items."
+  },
+  {
+   "id": "m10-023",
+   "topic": "nursing-interventions",
+   "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 3,
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "alsoTests": [],
+   "stem": "The RN is caring for a client admitted with cellulitis of the left lower leg. Which task is appropriate to delegate to the unlicensed assistive personnel (UAP)?",
+   "options": [
+    "Outlining the margins of the redness with a skin marker to track spread",
+    "Elevating the client's left leg on pillows above the level of the heart",
+    "Evaluating whether the pain has improved after the IV analgesic dose",
+    "Teaching the client which signs of worsening infection to report"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Outlining redness is part of the RN's local assessment; the RN must judge the border and compare it over time to detect spread.",
+    "Correct. Elevating and repositioning a limb is a routine, predictable comfort measure that a UAP may perform; it helps reduce edema by lowering hydrostatic pressure.",
+    "Evaluating a client's response to medication requires RN judgment.",
+    "Teaching is an RN responsibility."
+   ],
+   "rationale": "The UAP may elevate and reposition a limb, apply a prescribed ice pack, and take vital signs. Assessing the local signs of inflammation (including marking and interpreting the border of redness), teaching, and evaluating stay with the RN.",
+   "takeaway": "UAP can elevate; the RN assesses, marks the redness border, teaches, and evaluates.",
+   "hintContent": "Relate the assessment techniques used for local inflammation to the tasks that require RN judgment.",
+   "hintStrategy": "Delegate only the task that is routine and needs no assessment, teaching, or evaluation."
+  },
+  {
+   "id": "m10-024",
+   "topic": "acute-chronic",
+   "ref": "Module 10 · Inflammation · Acute vs. Chronic Inflammation",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "alsoTests": [
+    "assessment-diagnostics",
+    "inflammation-overview"
+   ],
+   "stem": "A 52-year-old woman has had swelling of the joints in both hands and more than an hour of morning stiffness for 3 years. Her fingers now show ulnar deviation, and her ESR is 48 mm/hr. Which interpretation best explains these findings?",
+   "options": [
+    "Chronic autoimmune inflammation with ongoing joint damage and an elevated ESR",
+    "Acute inflammation from overuse that should resolve once the hands are rested",
+    "A local bacterial joint infection, with the ESR confirming the need for drainage",
+    "An IgE-mediated allergic reaction, with the ESR reflecting histamine release"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Three years of bilateral symptoms with deformity fit chronic inflammation from an autoimmune process (rheumatoid arthritis) that damages tissue instead of resolving. An ESR of 48 mm/hr is well above the female range of 0–20, showing active inflammation.",
+    "Acute inflammation starts over minutes to hours and resolves once the cause is removed; it does not cause years of symptoms and permanent deformity.",
+    "The ESR is nonspecific. It shows inflammation is present but cannot identify a bacterial cause or the need for drainage, and bilateral symmetric deformity over years does not fit a local infection.",
+    "An IgE allergic reaction develops within minutes of an allergen, and the ESR does not measure histamine."
+   ],
+   "rationale": "Three lesson points connect here. Chronic inflammation lasts months to years and causes ongoing tissue damage (RA → deformity). RA is one of the slide examples of inflammation turned harmful by being misdirected at the body's own tissue (autoimmune). An ESR above the female range of 0–20 mm/hr confirms active inflammation but not its cause.",
+   "takeaway": "Years of symmetric joint inflammation with deformity and a high ESR = chronic autoimmune inflammation (RA).",
+   "hintContent": "Link the time course and deformity to the type of inflammation, the autoimmune examples, and what an ESR can and cannot tell you.",
+   "hintStrategy": "Check each option's time frame, cause, and lab interpretation; all three must fit the data."
+  },
+  {
+   "id": "m10-025",
+   "topic": "lifespan",
+   "ref": "Module 10 · Inflammation · Lifespan Considerations",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "mcq",
+   "priority": true,
+   "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "alsoTests": [
+    "anaphylaxis"
+   ],
+   "stem": "A 3-year-old is brought to the emergency department after eating a cookie containing peanuts. The child has hives on the face and chest, a hoarse cry, and inspiratory stridor. SpO₂ is 93% and BP is 96/60 mm Hg. Which concern is the nurse's priority?",
+   "options": [
+    "Fluid volume deficit related to vomiting and capillary leak",
+    "Impaired skin integrity related to the spreading hives",
+    "Anxiety of the parents related to the sudden emergency",
+    "Airway obstruction related to swelling of the larynx"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Capillary leak can lower volume, but the BP is still normal and there is no vomiting reported. The airway threat is more immediate.",
+    "Hives are uncomfortable but are not life-threatening.",
+    "Parental anxiety matters but is addressed after the child's airway is secured.",
+    "Correct. A hoarse cry and stridor after a known allergen mean the upper airway is swelling (anaphylaxis). A child's large tongue, narrow trachea, and prominent lymph tissue let swelling close the airway quickly, so epinephrine is given now without waiting for the BP to drop."
+   ],
+   "rationale": "This is anaphylaxis (skin plus airway after a known allergen). The child's airway anatomy—a relatively large tongue, narrow trachea, and prominent lymph tissue—means the same swelling that would make an adult hoarse can obstruct a toddler's airway. Airway comes before circulation, skin, or psychosocial needs.",
+   "takeaway": "Child + allergen + hoarse cry or stridor = airway emergency; give epinephrine now.",
+   "hintContent": "Combine the airway signs of anaphylaxis with how a young child's airway anatomy changes the risk.",
+   "hintStrategy": "Use the ABCs: identify which problem will kill the child first."
   },
   {
    "id": "m10-026",
-   "type": "sata",
    "topic": "classic-signs",
-   "difficulty": 1,
-   "ref": "Module 10 · Inflammation · Classic Signs",
+   "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "The nurse is assessing a client's inflamed knee. Which findings are cardinal signs of acute inflammation? Select all that apply.",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "The nurse is assessing a client's acutely inflamed knee. Which findings are cardinal signs of inflammation that are correctly matched with their cause? Select all that apply.",
    "options": [
-    "Redness over the joint",
-    "Warmth to the touch",
-    "Swelling of the joint",
-    "Cyanosis of the toes",
-    "Decreased range of motion",
-    "Bradycardia"
+    "Redness over the joint from arteriolar vasodilation",
+    "Swelling of the joint from increased capillary permeability",
+    "Pain from bradykinin and prostaglandins acting on nerve endings",
+    "Cyanosis of the toes from histamine-driven vasodilation",
+    "Decreased range of motion from pain and swelling",
+    "Warmth over the joint from neutrophils producing heat"
    ],
    "answer": [
     0,
@@ -1600,35 +1667,38 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Correct. Redness (rubor) comes from vasodilation.",
-    "Correct. Heat (calor) comes from increased blood flow.",
-    "Correct. Swelling (tumor) comes from increased capillary permeability.",
-    "Cyanosis reflects poor oxygenation or perfusion and is not a sign of inflammation.",
-    "Correct. Loss of function (functio laesa) comes from pain and swelling.",
-    "Inflammation and fever tend to cause tachycardia, not bradycardia."
+    "Correct. Mediator-driven vasodilation brings more blood to the site, producing redness (rubor).",
+    "Correct. Leaky capillaries and higher hydrostatic pressure push fluid and protein into the tissue, producing swelling (tumor).",
+    "Correct. Bradykinin stimulates pain nerves and prostaglandins sensitize them; pressure from swelling adds to pain (dolor).",
+    "Cyanosis is not a cardinal sign. Blue toes below an inflamed joint suggest impaired circulation, an emergency, and vasodilation would not cause it.",
+    "Correct. Loss of function (functio laesa) results from pain and swelling limiting movement.",
+    "Warmth (calor) is a cardinal sign, but it comes from increased warm blood flow (vasodilation), not heat produced by neutrophils."
    ],
-   "rationale": "The five cardinal signs are redness, heat, swelling, pain, and loss of function. Cyanosis and bradycardia are not part of the inflammatory response and would suggest another problem.",
-   "takeaway": "Red, hot, swollen, painful, and not working right.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the five cardinal signs by their Latin names and what each one looks like at the bedside.",
-   "hintStrategy": "Evaluate each option on its own: is it caused by the local inflammatory response, or does it point to another problem?"
+   "rationale": "The five cardinal signs each have a mechanism: redness and heat from vasodilation, swelling from increased permeability, pain from bradykinin and prostaglandins plus pressure, and loss of function from pain and swelling. Cyanosis is not a sign of inflammation, and warmth is caused by blood flow rather than WBC activity.",
+   "takeaway": "Redness/heat = vasodilation; swelling = permeability; pain = bradykinin/prostaglandins; loss of function = pain + swelling.",
+   "hintContent": "Pair each cardinal sign with the mediator-driven vascular event that produces it.",
+   "hintStrategy": "Judge each option twice: is it a cardinal sign, and is the stated cause correct? Select only when both are true."
   },
   {
    "id": "m10-027",
-   "type": "sata",
    "topic": "anaphylaxis",
-   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client received the first dose of IV penicillin G 5 minutes ago. Which findings should make the nurse suspect anaphylaxis? Select all that apply.",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "A client received the first dose of IV penicillin G 5 minutes ago. Which findings reflect sudden, body-wide mediator release and should make the nurse suspect anaphylaxis? Select all that apply.",
    "options": [
     "Hoarse voice and a feeling of throat tightness",
-    "Generalized urticaria and flushing",
-    "BP 82/46 mm Hg with HR 124",
-    "BP 168/94 mm Hg with HR 58",
+    "Generalized hives and flushing of the skin",
+    "BP 82/46 mm Hg with HR 124/min",
+    "BP 168/94 mm Hg with HR 58/min",
     "Wheezing with SpO₂ of 89%",
-    "Increased urine output"
+    "Increased urine output since the dose"
    ],
    "answer": [
     0,
@@ -1637,104 +1707,114 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Correct. Laryngeal edema threatens the airway.",
-    "Correct. Skin involvement from histamine release is common.",
-    "Correct. Distributive shock (hypotension with compensatory tachycardia) comes from vasodilation and capillary leak.",
-    "Hypertension with bradycardia is not the typical pattern of anaphylaxis.",
-    "Correct. Bronchoconstriction and airway edema cause wheezing and hypoxemia.",
-    "Shock decreases renal perfusion and urine output."
+    "Correct. Capillary leak swells the larynx, causing hoarseness and throat tightness, an airway emergency.",
+    "Correct. Histamine released from mast cells causes hives, itching, and flushing.",
+    "Correct. Widespread vasodilation and fluid leak drop the BP, and the heart speeds up to compensate.",
+    "High BP with a slow heart rate is the opposite of what widespread vasodilation produces.",
+    "Correct. Mediators such as histamine and leukotrienes tighten airway smooth muscle, causing wheezing and hypoxemia.",
+    "Fluid leaking out of vessels and low BP reduce kidney perfusion; urine output would fall, not rise."
    ],
-   "rationale": "Anaphylaxis involves multiple systems: skin (hives, flushing), respiratory (stridor, wheeze, hypoxia), cardiovascular (hypotension, tachycardia), and GI. Onset within minutes of an IV trigger is typical.",
-   "takeaway": "Skin plus airway or breathing plus low BP after exposure = anaphylaxis.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Think about the body systems anaphylaxis affects and what widespread vasodilation does to vital signs and perfusion.",
-   "hintStrategy": "Take each vital sign pattern on its own and ask whether it matches distributive shock."
+   "rationale": "Anaphylaxis is the same set of inflammatory mediators released everywhere at once. Vasodilation and capillary leak cause hypotension, tachycardia, and airway swelling; bronchoconstriction causes wheezing; histamine causes hives and flushing. Two or more systems involved right after a new drug is enough to act.",
+   "takeaway": "Anaphylaxis signs = mediator effects everywhere: airway swelling, wheeze, low BP with fast HR, hives.",
+   "hintContent": "Predict what vasodilation, capillary leak, and bronchoconstriction would do throughout the body.",
+   "hintStrategy": "For each finding ask whether mediator release would push it in that direction; reject findings that go the opposite way."
   },
   {
    "id": "m10-028",
-   "type": "sata",
    "topic": "assessment-diagnostics",
+   "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "sata",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Nursing Assessment (Systemic Signs)",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client with pneumonia is being assessed for signs that the inflammation has become systemic. Which assessment findings are systemic signs of inflammation? Select all that apply.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "alsoTests": [
+    "inflammation-overview"
+   ],
+   "stem": "A client with right lower lobe pneumonia is being assessed for signs that the inflammation has become systemic rather than only local. Which findings are systemic signs of inflammation? Select all that apply.",
    "options": [
     "Temperature 39.1 °C (102.4 °F)",
     "Heart rate 104 beats/min",
-    "Respiratory rate 18 breaths/min",
+    "Crackles over the right lower lobe",
     "WBC 14,600/mm³",
-    "BP 118/76 mm Hg",
-    "Serum sodium 138 mEq/L"
+    "Respiratory rate 18 breaths/min",
+    "Fatigue and loss of appetite"
    ],
    "answer": [
     0,
     1,
-    3
-   ],
-   "optionRationales": [
-    "Correct. A temperature above 38.5 °C (101.3 °F) is a systemic sign.",
-    "Correct. Heart rate above 90/min meets the criterion.",
-    "The criterion is RR above 20/min, so 18 does not meet it.",
-    "Correct. A WBC above 12,000/mm³ (or increased bands) is a systemic sign.",
-    "Blood pressure is not one of the systemic signs listed; this value is normal.",
-    "Sodium is not one of the systemic signs, and this value is normal."
-   ],
-   "rationale": "The course lists these systemic signs: temperature above 38.5 °C (101.3 °F) or below 36 °C (96.8 °F), HR above 90, RR above 20, and WBC above 12,000/mm³ or increased bands. Blood pressure and sodium are not on the list.",
-   "takeaway": "Systemic inflammation: temperature, HR, RR, and WBC or bands.",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Review the four systemic findings in the nursing assessment and their cutoffs.",
-   "hintStrategy": "Compare each value with its exact cutoff. Ignore values that are not part of the list."
-  },
-  {
-   "id": "m10-029",
-   "type": "sata",
-   "topic": "pharmacology",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
-   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "The nurse is teaching a client who will take ibuprofen 600 mg three times daily for 2 weeks for bursitis. Which instructions should the nurse include? Select all that apply.",
-   "options": [
-    "Take each dose with food or milk.",
-    "Report black, tarry stools or vomit that looks like coffee grounds.",
-    "Limit or avoid alcohol while taking this medication.",
-    "Take it on an empty stomach for faster pain relief.",
-    "It is safe to add an over-the-counter naproxen product for extra relief.",
-    "Report a decrease in urination or new swelling of the ankles."
-   ],
-   "answer": [
-    0,
-    1,
-    2,
+    3,
     5
    ],
    "optionRationales": [
-    "Correct. Food reduces GI irritation.",
-    "Correct. These are signs of GI bleeding.",
-    "Correct. Alcohol adds to the risk of GI bleeding.",
-    "An empty stomach increases GI irritation and ulcer risk.",
-    "Combining two NSAIDs increases GI and renal toxicity without added benefit.",
-    "Correct. NSAIDs reduce renal blood flow and cause fluid retention, so these may signal kidney injury."
+    "Correct. A temperature above 38.5 °C is a systemic sign.",
+    "Correct. A heart rate above 90 is a systemic sign.",
+    "Crackles over the affected lobe are a local finding at the site of lung inflammation.",
+    "Correct. A WBC above 12,000/mm³ is a systemic sign.",
+    "A respiratory rate of 18 is below the systemic cutoff of 20.",
+    "Correct. Fatigue and loss of appetite are generalized effects of mediators circulating through the body."
    ],
-   "rationale": "NSAID teaching focuses on GI protection and bleeding signs, renal effects, cardiovascular risk (BP, edema), avoiding duplicate NSAIDs, and using the lowest effective dose for the shortest time.",
-   "takeaway": "NSAIDs: with food, no alcohol, no doubling up, and watch the gut and kidneys.",
+   "rationale": "Local findings occur at the inflamed organ (crackles over the affected lobe). Systemic findings show the mediators have reached the whole body: T above 38.5 °C or below 36 °C, HR above 90, RR above 20, WBC above 12,000/mm³ or increased bands, plus fatigue and loss of appetite.",
+   "takeaway": "Systemic cutoffs: T >38.5 °C or <36 °C, HR >90, RR >20, WBC >12,000 or ↑ bands, plus fatigue and anorexia.",
+   "hintContent": "Sort findings into local (at the lung) and systemic, using the course cutoffs for vital signs and WBC.",
+   "hintStrategy": "Compare each number to its cutoff and ask whether each non-numeric finding is at the site or whole-body."
+  },
+  {
+   "id": "m10-029",
+   "topic": "pharmacology",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "type": "sata",
+   "difficulty": 2,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
-   "hintContent": "Recall NSAID adverse effects on the GI tract, kidneys, and cardiovascular system.",
-   "hintStrategy": "Treat each option as true or false. Watch for options that sound helpful but add to GI or renal risk."
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "A client will take ibuprofen 600 mg three times daily for 2 weeks for bursitis. The nurse explains that ibuprofen blocks prostaglandins everywhere, including those that protect the stomach and maintain kidney blood flow. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Take each dose with food or milk.",
+    "Report black, tarry stools or vomit that looks like coffee grounds.",
+    "Take each dose on an empty stomach for faster pain relief.",
+    "Add an over-the-counter naproxen product if the pain persists.",
+    "Report a decrease in urination or new swelling of the ankles.",
+    "Limit or avoid alcohol while taking this medication."
+   ],
+   "answer": [
+    0,
+    1,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Food or milk reduces direct irritation of a stomach lining that has lost some prostaglandin protection.",
+    "Correct. These are signs of GI bleeding, a serious result of blocking protective stomach prostaglandins.",
+    "An empty stomach increases GI irritation and bleeding risk.",
+    "Naproxen is another NSAID. Taking two doubles the prostaglandin blockade and the risk without added benefit.",
+    "Correct. Reduced kidney blood flow and fluid retention can show up as less urine and new edema.",
+    "Correct. Alcohol adds to stomach irritation and bleeding risk."
+   ],
+   "rationale": "Ibuprofen relieves inflammation by lowering prostaglandins, but prostaglandins also protect the stomach lining and maintain kidney blood flow. That single idea explains the teaching: take with food, avoid alcohol, never double up on NSAIDs, and report GI bleeding or signs of kidney problems.",
+   "takeaway": "NSAID teaching follows from blocked protective prostaglandins: food, no alcohol, no second NSAID, report dark stools or less urine.",
+   "hintContent": "Connect the protective jobs of prostaglandins with the adverse effects of blocking them.",
+   "hintStrategy": "For each instruction ask whether it protects the stomach or kidneys or instead adds to the risk."
   },
   {
    "id": "m10-030",
-   "type": "sata",
    "topic": "pharmacology",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "alsoTests": [
+    "assessment-diagnostics"
+   ],
    "stem": "A client with systemic lupus erythematosus has taken prednisone 20 mg daily for 6 months. Which findings should the nurse monitor for as adverse effects of long-term therapy? Select all that apply.",
    "options": [
     "Elevated blood glucose",
-    "Infection with a less obvious fever and redness",
+    "Infection with only a low-grade fever and little redness",
     "Decreased bone density",
     "Serum potassium of 3.1 mEq/L",
     "Weight loss with a thin, drawn face",
@@ -1747,35 +1827,38 @@ window.NURSE_DATA.push({
     3
    ],
    "optionRationales": [
-    "Correct. Glucocorticoids cause hyperglycemia.",
-    "Correct. Immunosuppression increases infection risk and masks the classic signs of inflammation.",
-    "Correct. Long-term use causes osteoporosis.",
-    "Correct. The mineralocorticoid effect causes potassium loss (hypokalemia).",
-    "Steroids cause weight gain and a round 'moon face', not weight loss.",
-    "Steroids raise, not lower, blood glucose (hypoglycemia is a risk of abrupt withdrawal, not of ongoing therapy)."
+    "Correct. Corticosteroids raise blood glucose.",
+    "Correct. Steroids suppress the inflammatory response, so the usual assessment cues of infection (fever, redness, swelling) may be blunted; subtle changes must be reported.",
+    "Correct. Long-term steroids cause bone loss (osteoporosis).",
+    "Correct. Steroids lower potassium; 3.1 mEq/L is below the normal 3.5–5.0 mEq/L.",
+    "Steroids cause fluid retention, weight gain, and a round ('moon') face, not weight loss.",
+    "Steroids cause hyperglycemia, not hypoglycemia."
    ],
-   "rationale": "Long-term corticosteroid therapy causes predictable Cushingoid effects: hyperglycemia, infection risk with masked signs, osteoporosis, hypokalemia, fluid retention and hypertension, weight gain, GI ulcers, and mood changes.",
-   "takeaway": "Steroids: sugar up, potassium down, bones thin, infection hidden.",
-   "cjmm": "Recognize Cues",
-   "focus": "Pharmacology",
-   "hintContent": "Recall the Cushingoid effects of long-term glucocorticoid therapy on glucose, electrolytes, bone, and immunity.",
-   "hintStrategy": "Check the direction of each change (up or down). Several distractors state the opposite of the true effect."
+   "rationale": "Long-term corticosteroids produce 'too much cortisol' effects: sugar up, potassium down, bones thin, and infection hidden. Because they blunt the classic and systemic signs the nurse normally assesses, a client on steroids may have a serious infection with only subtle findings.",
+   "takeaway": "Steroids: glucose up, potassium down, bones thin, infection signs hidden.",
+   "hintContent": "Recall the metabolic, bone, and immune effects of corticosteroids and how they change infection assessment.",
+   "hintStrategy": "Ask whether each finding matches 'too much cortisol'; eliminate the opposites."
   },
   {
    "id": "m10-031",
-   "type": "sata",
    "topic": "nursing-interventions",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Independent Interventions",
+   "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A client has an inflamed, healing surgical wound. Which interventions promote tissue repair? Select all that apply.",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "alsoTests": [
+    "stages"
+   ],
+   "stem": "A client's surgical wound has entered the reparative phase and is filling with granulation tissue as fibroblasts lay down collagen. Which interventions promote this stage of healing? Select all that apply.",
    "options": [
     "Encourage lean protein at each meal",
-    "Encourage foods rich in vitamin C such as citrus and peppers",
+    "Encourage vitamin C–rich foods such as citrus and peppers",
     "Maintain adequate oral fluid intake",
     "Restrict protein to reduce the workload on the kidneys",
-    "Keep the client on bedrest with no position changes to protect the incision",
-    "Apply heat to the fresh incision in the first 24 hours to reduce swelling"
+    "Keep the client on bedrest without position changes",
+    "Scrub the granulation tissue firmly during dressing changes"
    ],
    "answer": [
     0,
@@ -1783,71 +1866,78 @@ window.NURSE_DATA.push({
     2
    ],
    "optionRationales": [
-    "Correct. Protein supplies amino acids for new tissue and collagen.",
-    "Correct. Vitamin C is required for collagen synthesis.",
-    "Correct. Hydration supports perfusion and the delivery of nutrients and WBCs to the wound.",
-    "Protein restriction impairs healing unless there is a specific renal indication.",
-    "Immobility impairs circulation and increases complications. Reposition and mobilize as allowed.",
-    "Heat causes vasodilation and more swelling in the acute phase. Cold is used early."
+    "Correct. Protein supplies the building blocks for new cells and collagen.",
+    "Correct. Vitamin C is needed to make strong collagen, which gives new tissue and scar their strength.",
+    "Correct. Fluids support blood flow that carries oxygen and nutrients to the healing tissue.",
+    "Restricting protein removes the raw material needed for repair and slows healing.",
+    "Regular position changes support circulation to healing tissue; immobility impairs it.",
+    "Granulation tissue is fragile and full of new capillaries; it bleeds easily and must be handled gently."
    ],
-   "rationale": "The reparative phase needs protein, calories, vitamin C, vitamin A, zinc, and fluids. Adequate circulation, supported by mobility and positioning, delivers these building blocks to the wound.",
-   "takeaway": "Protein plus vitamin C plus fluids build new tissue.",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall the nutrients and conditions needed to build collagen and new tissue.",
-   "hintStrategy": "Look for the options that support circulation and nutrition, and rule out any that restrict or delay healing."
+   "rationale": "In Stage 3, granulation tissue grows in and fibroblasts deposit collagen. The nurse supports this with protein (building blocks), vitamin C (collagen formation), carbohydrates and fluids, position changes for circulation, and gentle handling of fragile granulation tissue.",
+   "takeaway": "Repair needs protein, vitamin C, fluids, and gentle protection of fragile granulation tissue.",
+   "hintContent": "Connect what happens in the reparative phase (granulation, collagen) with the nutrients and care that support it.",
+   "hintStrategy": "Ask whether each action supplies building blocks or protects new tissue; reject any that deprive or damage it."
   },
   {
    "id": "m10-032",
-   "type": "sata",
    "topic": "nursing-interventions",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Health Promotion & Modifiable Risk Factors",
+   "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse is counseling a client about reducing chronic inflammation. Which are modifiable risk factors? Select all that apply.",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Client Teaching",
+   "alsoTests": [
+    "acute-chronic"
+   ],
+   "stem": "The nurse is counseling a client about reducing the risk of chronic inflammatory disease. Which risk factors can the client modify? Select all that apply.",
    "options": [
     "Cigarette smoking",
     "Obesity",
-    "Family history of rheumatoid arthritis",
+    "A parent with rheumatoid arthritis",
     "A diet high in fast food and sugar",
     "Advancing age",
-    "A personal history of psoriasis"
+    "Poorly controlled hypertension"
    ],
    "answer": [
     0,
     1,
-    3
+    3,
+    5
    ],
    "optionRationales": [
-    "Correct. Smoking promotes systemic inflammation and can be stopped.",
-    "Correct. Adipose tissue releases inflammatory cytokines, and weight can be modified.",
-    "Family history and genetics are nonmodifiable.",
-    "Correct. The Western diet is pro-inflammatory and can be changed.",
-    "Age is nonmodifiable.",
-    "A diagnosis of a chronic inflammatory disease is nonmodifiable, although it can be managed."
+    "Correct. Not smoking is a modifiable factor; smoke is a persistent irritant that sustains chronic inflammation such as COPD.",
+    "Correct. Obesity is linked to chronic inflammation, and weight can be changed.",
+    "Family history is a nonmodifiable risk factor, along with genetics and age.",
+    "Correct. The Western diet (fast food, sugar, low fiber) promotes inflammation and can be changed.",
+    "Age is nonmodifiable; chronic inflammation is linked to aging.",
+    "Correct. Controlling hypertension and diabetes is listed as a modifiable risk."
    ],
-   "rationale": "Modifiable factors include smoking, weight, diet, physical activity, and control of hypertension and diabetes. Genetics, age, family history, and existing chronic inflammatory diseases cannot be changed but help identify clients who need screening.",
-   "takeaway": "You can change your habits, not your genes or your age.",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Remember the difference between modifiable and nonmodifiable risk factors.",
-   "hintStrategy": "For each option, ask: could the client change this through behavior?"
+   "rationale": "Chronic inflammatory disease has nonmodifiable risks (genetics, age, family history) and modifiable ones (smoking, weight, exercise, diet, and control of hypertension and diabetes). Knowing which is which lets the nurse focus teaching on what the client can change.",
+   "takeaway": "Modifiable = habits and controllable conditions; nonmodifiable = genes, age, family history.",
+   "hintContent": "Recall the nonmodifiable risk factors for chronic inflammation and the health-promotion list of modifiable ones.",
+   "hintStrategy": "For each option ask, 'Could this client change it with effort or treatment?'"
   },
   {
    "id": "m10-033",
-   "type": "sata",
    "topic": "anaphylaxis",
-   "difficulty": 3,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A hospitalized client has just received the first dose of IM epinephrine for anaphylaxis. BP is 86/50 mm Hg and SpO₂ is 91%. Which additional actions should the nurse anticipate? Select all that apply.",
+   "type": "sata",
+   "difficulty": 3,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "A hospitalized client has just received the first dose of IM epinephrine for anaphylaxis. BP is 86/50 mm Hg and SpO₂ is 91%. Because widespread vasodilation and capillary leak are still present, which additional actions should the nurse anticipate? Select all that apply.",
    "options": [
     "Apply high-flow oxygen",
     "Establish large-bore IV access and give an isotonic fluid bolus as prescribed",
     "Place the client on continuous cardiac and SpO₂ monitoring",
     "Help the client walk to the bathroom to empty the bladder",
     "Wait at least 1 hour before giving any repeat dose of epinephrine",
-    "Replace further epinephrine with oral diphenhydramine once the BP rises"
+    "Switch to oral diphenhydramine once the BP begins to rise"
    ],
    "answer": [
     0,
@@ -1855,35 +1945,36 @@ window.NURSE_DATA.push({
     2
    ],
    "optionRationales": [
-    "Correct. Hypoxemia requires supplemental oxygen.",
-    "Correct. Capillary leak and vasodilation cause relative hypovolemia, which is treated with crystalloid.",
-    "Correct. Epinephrine and shock both raise the risk of dysrhythmias.",
-    "Standing or walking during anaphylactic shock can cause sudden cardiovascular collapse.",
-    "IM epinephrine may be repeated every 5–15 minutes if symptoms persist; waiting an hour delays life-saving treatment.",
-    "Antihistamines are adjuncts only and do not replace epinephrine for ongoing airway or circulatory symptoms."
+    "Correct. SpO₂ of 91% shows impaired oxygenation from airway narrowing and poor perfusion.",
+    "Correct. Fluid has leaked out of the vessels and they are dilated; isotonic fluid restores circulating volume.",
+    "Correct. Continuous monitoring tracks the response and detects recurrence.",
+    "Standing or walking while hypotensive can cause sudden collapse; the client stays flat with legs raised.",
+    "Epinephrine may be repeated every 5–15 minutes if symptoms persist; waiting an hour is unsafe.",
+    "An antihistamine is an adjunct only and never replaces epinephrine while the reaction is active."
    ],
-   "rationale": "After epinephrine, supportive care includes oxygen, IV fluids, recumbent positioning, and continuous monitoring. Epinephrine is repeated every 5–15 minutes if there is no improvement, the client stays recumbent, and antihistamines and steroids are only secondary.",
-   "takeaway": "After epinephrine: O₂, fluids, monitor, stay flat, repeat epinephrine as needed.",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "hintContent": "Think about what else the client needs while epinephrine takes effect: oxygenation, volume, monitoring, and repeat doses.",
-   "hintStrategy": "Treat each option as true or false for a client who is still in shock. Ask whether it supports oxygenation, perfusion, and ongoing treatment."
+   "rationale": "After the first epinephrine dose, persistent hypotension and low SpO₂ show that mediator-driven vasodilation, capillary leak, and airway narrowing continue. The nurse anticipates oxygen, large-bore IV access with isotonic fluid, continuous monitoring, and a repeat epinephrine dose in 5–15 minutes if needed, keeping the client flat.",
+   "takeaway": "After epinephrine: oxygen, IV fluid bolus, continuous monitoring, repeat epinephrine in 5–15 min if needed.",
+   "hintContent": "Link the ongoing effects of mediator release (low volume, poor oxygenation) to the supportive actions that treat them.",
+   "hintStrategy": "Select actions that support airway, breathing, and circulation; reject anything that delays treatment or stresses a hypotensive client."
   },
   {
    "id": "m10-034",
-   "type": "sata",
    "topic": "lifespan",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Lifespan Considerations – Children",
+   "ref": "Module 10 · Inflammation · Lifespan Considerations",
    "clientNeed": "Health Promotion and Maintenance",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "alsoTests": [],
    "stem": "The nurse is explaining why infants and young children are more vulnerable to complications of inflammation. Which factors should the nurse include? Select all that apply.",
    "options": [
     "A relatively large tongue and narrow trachea",
-    "Immature kidneys that are less able to regulate fluid balance",
-    "Fluid losses that are more significant because total body fluid volume is smaller",
-    "More numerous and larger alveoli with greater elastic recoil",
+    "Immature kidneys that regulate fluid balance poorly",
+    "A smaller total fluid volume, so each loss is more significant",
+    "More numerous, larger alveoli with greater elastic recoil",
     "Stronger anti-inflammatory control than adults",
-    "More pro-inflammatory mediators with less ability to dampen inflammation"
+    "More pro-inflammatory mediators with less ability to dampen them"
    ],
    "answer": [
     0,
@@ -1892,107 +1983,111 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Airway edema obstructs a small airway quickly.",
-    "Correct. Immature renal function makes fluid and electrolyte balance fragile.",
-    "Correct. Small losses from fever, vomiting, or exudate are proportionally large.",
-    "Children have fewer and smaller alveoli and less elastic recoil, which increases the risk of collapse.",
-    "This is the reverse of the true difference: children have weaker, not stronger, anti-inflammatory control.",
-    "Correct. Children have more pro-inflammatory mediators and less anti-inflammatory ability, so the response can escalate."
+    "Correct. A large tongue, narrow trachea, and prominent lymph tissue raise the risk of airway obstruction from swelling.",
+    "Correct. The immature renal system controls fluid balance poorly.",
+    "Correct. Because total fluid volume is smaller, fluid losses from fever, vomiting, or diarrhea are more significant.",
+    "Children have fewer, smaller alveoli with less elastic recoil, which increases the risk of collapse.",
+    "Children have less ability to dampen inflammation, not more.",
+    "Correct. More pro-inflammatory mediators and weaker anti-inflammatory control let inflammation build quickly."
    ],
-   "rationale": "Differences in the airway, lungs, kidneys, fluid volume, and immune regulation make children more vulnerable to the effects of inflammation.",
-   "takeaway": "Small airway, small fluid reserves, immature kidneys, and a less-controlled inflammatory response.",
-   "cjmm": "Analyze Cues",
-   "focus": "Lifespan & Diversity",
-   "hintContent": "Compare pediatric and adult airway, lung, kidney, fluid, and immune differences.",
-   "hintStrategy": "Some options state the reverse of the true pediatric difference. Read carefully for 'more' vs. 'fewer' and 'stronger' vs. 'weaker'."
+   "rationale": "Children's airways obstruct easily, their lungs collapse more easily, their kidneys and small fluid volume make losses more dangerous, and their immune systems produce more pro-inflammatory mediators with less ability to turn inflammation down.",
+   "takeaway": "Children: small airway, small fluid tank, immature kidneys, strong pro-inflammatory response.",
+   "hintContent": "Recall the airway, respiratory, renal, fluid, and immune differences in children listed on the slides.",
+   "hintStrategy": "Check each option for direction; distractors reverse the true difference."
   },
   {
    "id": "m10-035",
-   "type": "mcq",
-   "priority": false,
    "topic": "anaphylaxis",
-   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client who took amoxicillin 2 years ago without problems develops anaphylaxis 10 minutes after the first dose of a new amoxicillin prescription. The client asks why a reaction happened this time. Which explanation by the nurse is accurate?",
-   "options": [
-    "The earlier course left drug stored in the tissues that has now reached a toxic level",
-    "The first course sensitized mast cells with IgE, so re-exposure triggered them",
-    "The new prescription likely contains a different drug from the one taken before",
-    "Anaphylaxis occurs on first exposure, so this is a new, unrelated allergy"
-   ],
-   "rationale": "Anaphylaxis is an IgE-mediated (type I) hypersensitivity reaction that requires prior sensitization. The first exposure causes no symptoms but primes mast cells with allergen-specific IgE. On re-exposure, the allergen cross-links IgE on the mast cells, which degranulate and release histamine, leukotrienes, prostaglandins, and other mediators. These cause vasodilation, capillary leak, and bronchoconstriction within minutes, which is why an earlier uneventful course does not rule out an allergy.",
-   "takeaway": "Sensitize → IgE on mast cells → re-exposure → degranulation → vasodilation, leak, bronchospasm.",
+   "type": "mcq",
+   "priority": false,
+   "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall why an allergic reaction usually does not occur on the first exposure and which cells release the mediators of anaphylaxis.",
-   "hintStrategy": "Eliminate explanations that are not immune-mediated, then choose the one that also explains why the earlier course caused no symptoms.",
-   "answer": 1,
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "A client who took amoxicillin 2 years ago without problems develops hives, wheezing, and hypotension 10 minutes after the first dose of a new amoxicillin prescription. The client asks why a reaction happened this time. Which explanation by the nurse is accurate?",
+   "options": [
+    "The first course made IgE that coated mast cells, so re-exposure made them release mediators",
+    "The earlier course left drug stored in the tissues, and it has now built up to a toxic level",
+    "The new prescription must contain a different drug from the one you were given before",
+    "Anaphylaxis always happens on the first exposure, so this must be a new, unrelated allergy"
+   ],
+   "answer": 0,
    "optionRationales": [
-    "Anaphylaxis is an immune (IgE-mediated) reaction, not drug accumulation. Amoxicillin taken 2 years ago is not stored in the tissues.",
-    "Correct. The first exposure caused no symptoms but produced amoxicillin-specific IgE that attached to mast cells. On re-exposure, the drug bound that IgE, and the mast cells released histamine, leukotrienes, and other mediators.",
-    "The same drug can cause anaphylaxis after an uneventful earlier course, so a different drug is not needed to explain the reaction.",
-    "Anaphylaxis requires prior sensitization. The first exposure primes the immune system rather than causing the reaction."
-   ]
+    "Correct. The first exposure sensitized the client: IgE was made and attached to mast cells. On re-exposure the drug binds that IgE, and mast cells release histamine, leukotrienes, and other mediators all at once.",
+    "Anaphylaxis is an immune reaction, not drug toxicity; amoxicillin does not accumulate for years.",
+    "There is no reason to think the drug differs; sensitization explains the reaction to the same drug.",
+    "Anaphylaxis usually requires a prior sensitizing exposure; first exposures typically cause no reaction."
+   ],
+   "rationale": "Anaphylaxis usually needs two exposures. The first quietly sensitizes mast cells with allergen-specific IgE. On re-exposure, the allergen binds that IgE and triggers mast cells to release their mediators throughout the body, producing hives, bronchoconstriction, and vasodilation.",
+   "takeaway": "First exposure sensitizes (IgE on mast cells); re-exposure triggers massive mediator release.",
+   "hintContent": "Connect sensitization and IgE to the mast cells that store and release inflammatory mediators.",
+   "hintStrategy": "Pick the explanation that accounts for both 'no problem before' and 'severe reaction now.'"
   },
   {
    "id": "m10-036",
-   "type": "sata",
    "topic": "stages",
-   "difficulty": 1,
    "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client with a deep forearm laceration asks the nurse what the body does in the first minutes to hours after the injury. Which events of the inflammatory response should the nurse include in the explanation? Select all that apply.",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "alsoTests": [
+    "mediators",
+    "classic-signs"
+   ],
+   "stem": "A client with a deep forearm laceration asks what the body does in the first minutes to hours after the injury. Which events should the nurse include in the explanation? Select all that apply.",
    "options": [
     "Mast cells at the site release mediators such as histamine",
-    "A brief arteriolar vasoconstriction occurs",
-    "Vasodilation and increased capillary permeability develop",
+    "A brief arteriolar vasoconstriction occurs for a few seconds",
+    "Vasodilation and increased permeability cause redness, heat, and swelling",
     "A firm, pale scar replaces the injured tissue",
     "Fibroblasts deposit collagen to close the wound",
     "Capillaries stay constricted for several hours to limit swelling"
    ],
-   "rationale": "Injury triggers mediator release. The vascular response is a brief arteriolar constriction followed by vasodilation and increased capillary permeability, which leads to exudate formation. Repair by regeneration or scar, including collagen deposition by fibroblasts, comes later in the reparative phase.",
-   "takeaway": "Injury → constrict → dilate and leak → exudate → repair.",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall the three stages of inflammation and what happens to the arterioles in the first seconds after injury.",
-   "hintStrategy": "Sort each option into a stage: vascular and cellular response, exudate, or repair. Keep only the early events.",
    "answer": [
     0,
     1,
     2
    ],
    "optionRationales": [
-    "Correct. Injury triggers mast cells and other cells to release the mediators that start the response.",
-    "Correct. A transient arteriolar vasoconstriction lasting only seconds is the first vascular change.",
-    "Correct. Mediators then dilate arterioles and make capillaries leaky, producing redness, heat, and swelling and leading to exudate.",
-    "Scar formation happens in the reparative phase, days to months later, not in the first hours.",
-    "Collagen deposition by fibroblasts is part of the reparative phase, which follows the vascular and cellular response.",
-    "The initial vasoconstriction lasts only seconds and is quickly followed by vasodilation, not hours of constriction."
-   ]
+    "Correct. Injury triggers mast cells to release histamine and other mediators within seconds.",
+    "Correct. The vascular response begins with seconds of arteriolar constriction.",
+    "Correct. Mediator-driven vasodilation produces redness and heat, and increased permeability produces swelling, the early cardinal signs.",
+    "A mature scar (cicatrix) forms over months in Stage 3.",
+    "Collagen deposition by fibroblasts is part of Stage 3 repair, days later.",
+    "Vasoconstriction lasts only seconds; it is followed quickly by vasodilation."
+   ],
+   "rationale": "In the first minutes to hours (Stage 1), mast cells release mediators, arterioles constrict briefly, and then vasodilation and increased permeability produce the classic redness, heat, and swelling. Collagen deposition and scar formation belong to Stage 3.",
+   "takeaway": "First minutes–hours: mediator release → brief constriction → dilation and leak (red, hot, swollen).",
+   "hintContent": "Place each event in its stage and connect the early vascular events to the mediators and cardinal signs they cause.",
+   "hintStrategy": "Select only events that belong to Stage 1 and that happen on the stated time scale."
   },
   {
    "id": "m10-037",
-   "type": "sata",
    "topic": "stages",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Stage 1 – Vascular & Cellular Response",
+   "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client has an infected cut on the hand. Which steps of the cellular response allow neutrophils to leave the bloodstream and reach the bacteria at the site? Select all that apply.",
-   "options": [
-    "Margination to the edge of the blood vessel",
-    "Adhesion to the endothelium",
-    "Emigration (diapedesis) through the vessel wall",
-    "Chemotaxis toward chemical signals at the injury",
-    "Deposition of collagen in the wound",
-    "Formation of granulation tissue"
-   ],
-   "rationale": "As blood flow slows, WBCs marginate and adhere to the vessel wall, squeeze out between endothelial cells (emigration or diapedesis), and follow chemotactic signals to the site. There they phagocytize microbes and debris. Collagen deposition and granulation tissue belong to the later reparative phase.",
-   "takeaway": "Line up, stick, squeeze out, follow the signal, eat.",
+   "type": "sata",
+   "difficulty": 2,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Picture a neutrophil moving from the center of the bloodstream to the bacteria in the tissue.",
-   "hintStrategy": "Follow the physical path of the cell: in the vessel, through the wall, and through the tissue. Eliminate events that belong to the reparative phase.",
+   "alsoTests": [
+    "mediators"
+   ],
+   "stem": "A client has an infected cut on the hand. Which steps of the cellular response, and the mediator that guides them, allow neutrophils to leave the bloodstream and reach the bacteria? Select all that apply.",
+   "options": [
+    "Margination to the edge of the slowed blood flow",
+    "Adhesion to the lining of the vessel wall",
+    "Emigration (diapedesis) through gaps in the vessel wall",
+    "Chemotaxis along a trail of leukotrienes toward the injury",
+    "Deposition of collagen by fibroblasts in the wound",
+    "Movement toward the site guided by heparin"
+   ],
    "answer": [
     0,
     1,
@@ -2000,36 +2095,37 @@ window.NURSE_DATA.push({
     3
    ],
    "optionRationales": [
-    "Correct. As blood flow slows, neutrophils move from the center of the stream to the edge of the vessel.",
-    "Correct. Neutrophils stick to the endothelial lining near the injury.",
-    "Correct. Neutrophils squeeze between endothelial cells and pass through the vessel wall.",
-    "Correct. Neutrophils follow chemical signals released at the site toward the bacteria, where they phagocytize them.",
-    "Collagen is deposited by fibroblasts during the reparative phase; it does not move neutrophils to the site.",
-    "Granulation tissue forms during repair and is not a step in neutrophil movement."
-   ]
+    "Correct. As permeability thickens the blood and slows flow, WBCs move to the vessel margins.",
+    "Correct. WBCs stick to the endothelium.",
+    "Correct. WBCs squeeze out through gaps in the vessel wall into the tissue.",
+    "Correct. Leukotrienes (with complement) attract neutrophils and macrophages toward the injury.",
+    "Collagen deposition is part of Stage 3 repair, not WBC movement.",
+    "Heparin prevents clotting to keep blood flowing; it does not guide WBCs to the site."
+   ],
+   "rationale": "Neutrophils reach an injury by margination, adhesion, emigration, and chemotaxis before they phagocytize bacteria. Leukotrienes lay the chemical trail that WBCs follow during chemotaxis; heparin's role is to prevent clotting.",
+   "takeaway": "Line up, stick, squeeze out, follow the leukotriene trail, eat.",
+   "hintContent": "Recall the order of the cellular response and which mediator attracts neutrophils and macrophages.",
+   "hintStrategy": "Keep only steps that move WBCs from blood to tissue and check that the named mediator actually attracts WBCs."
   },
   {
    "id": "m10-038",
-   "type": "sata",
    "topic": "stages",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Stage 3 – Reparative Phase",
+   "ref": "Module 10 · Inflammation · Stages of Inflammation",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "alsoTests": [],
    "stem": "A client has a deep wound that cannot regenerate and will heal by scar formation. Which events should the nurse expect during the repair process? Select all that apply.",
    "options": [
-    "A fibrin clot fills the wound as a scaffold",
-    "Granulation tissue with new capillaries grows in",
-    "New, fully functional original cells replace the lost tissue",
-    "Fibroblasts deposit collagen",
+    "A fibrin clot fills the wound as a temporary framework",
+    "Granulation tissue with many new capillaries grows in",
+    "Fully functional original cells replace the lost tissue",
+    "Fibroblasts deposit collagen to strengthen the new tissue",
     "The scar becomes redder and more vascular as it matures",
     "The wound contracts and its edges draw together"
    ],
-   "rationale": "Scar formation begins with a fibrin clot that serves as a scaffold. Granulation tissue grows in, fibroblasts lay down collagen, the wound contracts, and the scar remodels over months into firm, pale, avascular fibrous tissue. Regeneration, the replacement of lost cells with the same functional cells, is not possible in this wound.",
-   "takeaway": "Clot → granulation → collagen → contraction → mature scar.",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall what granulation tissue needs as a scaffold and what fibroblasts produce.",
-   "hintStrategy": "Check each option: does it describe healing by scar, or does it describe regeneration or an incorrect feature of a mature scar?",
    "answer": [
     0,
     1,
@@ -2037,87 +2133,112 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Scar formation begins with a fibrin clot that serves as a framework for repair.",
-    "Correct. Granulation tissue, rich in new capillaries, grows into the clot.",
-    "Replacement with the original functional cells is regeneration. A wound that cannot regenerate heals by scar instead.",
-    "Correct. Fibroblasts lay down collagen that gives the scar its strength.",
-    "A maturing scar (cicatrix) becomes firm, pale, and less vascular, not redder and more vascular.",
+    "Correct. A fibrin clot is the first scaffold.",
+    "Correct. Fragile, beefy red granulation tissue fills the wound.",
+    "Replacement with identical functional cells is regeneration, which is not possible here.",
+    "Correct. Fibroblasts lay down collagen for strength.",
+    "A maturing scar becomes paler, flatter, and less vascular.",
     "Correct. Wound contraction draws the edges together."
-   ]
+   ],
+   "rationale": "Scar formation proceeds from fibrin clot to granulation tissue, collagen deposition by fibroblasts, wound contraction, and finally a mature cicatrix that is firm, pale, and less functional than the original tissue.",
+   "takeaway": "Clot → granulation → collagen → contraction → pale, firm scar.",
+   "hintContent": "Recall the sequence of scar formation and how a mature scar differs from regenerated tissue.",
+   "hintStrategy": "Eliminate anything that describes regeneration or reverses how a scar matures."
   },
   {
    "id": "m10-039",
-   "type": "sata",
    "topic": "acute-chronic",
-   "difficulty": 2,
    "ref": "Module 10 · Inflammation · Acute vs. Chronic Inflammation",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "alsoTests": [
+    "assessment-diagnostics",
+    "inflammation-overview"
+   ],
    "stem": "The nurse is caring for Client A, admitted with cellulitis of the leg, and Client B, who has long-standing rheumatoid arthritis. Which findings are most consistent with Client A's acute inflammation? Select all that apply.",
+   "options": [
+    "Red, hot, painful swelling that developed over 6 hours",
+    "The condition is caused by an autoimmune process",
+    "CBC shows neutrophilia with increased bands",
+    "Symptoms for 3 years with progressive joint deformity",
+    "Findings expected to resolve with antibiotic therapy",
+    "Lymphocytes and macrophages driving ongoing tissue damage"
+   ],
    "answer": [
     0,
     2,
     4
    ],
    "optionRationales": [
-    "Correct. Rapid onset with the classic signs is typical of acute inflammation.",
-    "Autoimmune disease is a common cause of chronic inflammation, as in Client B's rheumatoid arthritis.",
-    "Correct. Acute inflammation is neutrophil-driven, and bands rise with acute bacterial infection.",
-    "Symptoms lasting months to years with deformity describe chronic inflammation.",
-    "Correct. Acute inflammation resolves once the cause, here the bacteria, is neutralized.",
-    "Ongoing tissue damage and fibrosis are features of chronic inflammation."
+    "Correct. Rapid onset (hours) with the classic signs fits acute inflammation.",
+    "Autoimmune inflammation (such as RA) is misdirected at the body's own tissue and is chronic; it fits Client B.",
+    "Correct. Acute bacterial inflammation is neutrophil-driven, and increased bands show a left shift.",
+    "Years of symptoms with deformity describe chronic inflammation (Client B).",
+    "Correct. Acute inflammation resolves once the cause, here bacteria, is neutralized.",
+    "Lymphocytes and macrophages dominate chronic inflammation and cause ongoing damage (Client B)."
    ],
-   "rationale": "Acute inflammation has a rapid onset, shows the classic signs, is neutrophil-driven, and resolves once the cause is neutralized. Chronic inflammation lasts months to years, often develops independently (for example, autoimmune disease), and can cause deformity.",
-   "takeaway": "Acute = fast, classic signs, resolves. Chronic = months to years, often autoimmune, damages tissue.",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall the onset, duration, causes, and outcome of acute vs. chronic inflammation.",
-   "hintStrategy": "Link each option to the client it describes by looking at timing, cause, and whether the process resolves. Keep only Client A's findings.",
-   "options": [
-    "Red, painful swelling that developed over 6 hours",
-    "The condition is an autoimmune disease",
-    "CBC shows neutrophilia with increased bands",
-    "Symptoms for 3 years with progressive joint deformity",
-    "Findings expected to resolve with antibiotic therapy",
-    "Ongoing tissue damage and fibrosis from a persistent process"
-   ]
+   "rationale": "Acute inflammation has a rapid onset, obvious classic signs, a neutrophil response with a left shift on the differential, and resolution once the cause is removed. Chronic inflammation (RA) lasts years, is often autoimmune, is driven by lymphocytes and macrophages, and damages tissue.",
+   "takeaway": "Acute: hours, classic signs, neutrophils/bands, resolves. Chronic: years, autoimmune, lymphocytes/macrophages, damage.",
+   "hintContent": "Compare onset, main cells, lab pattern, cause, and outcome for acute versus chronic inflammation.",
+   "hintStrategy": "Assign each finding to Client A or B, then select only Client A's."
   },
   {
    "id": "m10-040",
+   "topic": "classic-signs",
+   "ref": "Module 10 · Inflammation · The 5 Classic (Cardinal) Signs",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": true,
-   "topic": "classic-signs",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Alterations & Manifestations",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse gave a client a tetanus, diphtheria, and acellular pertussis (Tdap) vaccine IM in the left deltoid. Which finding requires immediate follow-up by the nurse?",
-   "answer": 2,
-   "optionRationales": [
-    "Local redness and firm swelling are an expected inflammatory response to the vaccine and are managed with cool compresses.",
-    "Soreness at the injection site is an expected local response to the IM injection and the vaccine.",
-    "Correct. Skin and airway involvement within minutes of the injection signals anaphylaxis, which threatens the airway and requires immediate action.",
-    "A brief low-grade fever and fatigue are expected mild systemic effects of a vaccine; an antipyretic can be used if needed."
-   ],
-   "rationale": "Vaccines deliberately trigger a small inflammatory response. Local redness, swelling, soreness, and a brief low-grade fever are expected and are managed with cool compresses and an antipyretic if needed. A reaction within minutes that involves the skin and airway is anaphylaxis and requires immediate action. Local signs that worsen after several days with purulent drainage would suggest infection and also require follow-up.",
-   "takeaway": "Mild local signs and low-grade fever after a vaccine are expected; rapid multisystem signs or a worsening, draining site are not.",
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
-   "hintContent": "Recall the local and mild systemic signs of an expected inflammatory response, and how timing and course help separate expected from dangerous findings.",
-   "hintStrategy": "Decide which findings are expected after a vaccine, then choose the one that threatens the airway.",
+   "alsoTests": [
+    "anaphylaxis"
+   ],
+   "stem": "The nurse gave a client a tetanus, diphtheria, and acellular pertussis (Tdap) vaccine IM in the left deltoid. Which finding requires immediate follow-up by the nurse?",
    "options": [
     "Redness and 2 cm of firm swelling at the injection site the next day",
-    "Soreness in the deltoid when the client lifts the arm",
     "Hives, wheezing, and throat tightness 10 minutes after the dose",
+    "Soreness in the deltoid when the client lifts the arm to dress",
     "Temperature 37.8 °C (100.0 °F) and mild fatigue that evening"
-   ]
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Mild redness and firm swelling at the site the next day are expected local cardinal signs.",
+    "Correct. Skin and airway signs within minutes of the dose suggest anaphylaxis, an overactive whole-body response that needs immediate action (epinephrine, call for help).",
+    "Soreness with movement reflects expected pain and loss of function at the site.",
+    "A low-grade temperature and mild fatigue for a day are an expected mild response to vaccination."
+   ],
+   "rationale": "Vaccines intentionally cause a small inflammatory response. Mild, local, and improving findings are expected cardinal signs. A rapid, multi-system reaction (hives, wheezing, throat tightness) within minutes is anaphylaxis and requires immediate follow-up.",
+   "takeaway": "Mild, local, improving = expected; rapid, whole-body = anaphylaxis, act now.",
+   "hintContent": "Separate expected cardinal signs after an injection from the signs of body-wide mediator release.",
+   "hintStrategy": "Look at timing and body systems involved; minutes plus airway involvement outranks local soreness."
   },
   {
    "id": "m10-041",
-   "type": "sata",
    "topic": "pharmacology",
-   "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Pharmacologic Therapy",
+   "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with ulcerative colitis will be discharged on a 6-week course of prednisone 40 mg daily followed by a taper. Which instructions should the nurse include in the teaching plan? Select all that apply.",
+   "type": "sata",
+   "difficulty": 3,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "alsoTests": [
+    "assessment-diagnostics",
+    "acute-chronic"
+   ],
+   "stem": "A client with ulcerative colitis, a chronic inflammatory bowel disease, will be discharged on 6 weeks of prednisone 40 mg daily followed by a taper. Which instructions should the nurse include in the teaching plan? Select all that apply.",
+   "options": [
+    "Take the dose in the morning with food",
+    "Check blood glucose if symptoms of high blood sugar develop",
+    "Stop the medication once the diarrhea resolves",
+    "Report a sore throat or cough even if you have no fever",
+    "Take a double dose the next day if a dose is missed",
+    "Follow the taper schedule exactly as prescribed"
+   ],
    "answer": [
     0,
     1,
@@ -2125,106 +2246,102 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Morning dosing matches the body's natural cortisol rhythm, and food reduces GI irritation.",
-    "Correct. Glucocorticoids raise blood glucose, so the client should check it if thirst, frequent urination, or other symptoms occur.",
-    "Weight gain is a common adverse effect, but stopping abruptly after weeks of therapy can cause adrenal insufficiency. The dose must be tapered.",
-    "Correct. Steroids suppress inflammation and can mask fever, so early signs of infection must be reported.",
-    "Doubling the dose is unsafe. The client should keep a steady schedule and follow the prescriber's directions for a missed dose.",
-    "Correct. Tapering gives the adrenal glands time to resume normal cortisol production."
+    "Correct. Morning dosing matches the natural cortisol rhythm and reduces sleep problems; food reduces stomach irritation.",
+    "Correct. Steroids raise blood glucose.",
+    "Symptom improvement in a chronic disease does not mean the drug can stop; stopping suddenly risks adrenal insufficiency.",
+    "Correct. Steroids blunt fever and other systemic signs of infection, so early subtle symptoms must be reported.",
+    "Doubling doses is not safe teaching; the client should follow the provider's directions for missed doses.",
+    "Correct. Tapering allows the suppressed adrenal glands to resume making cortisol."
    ],
-   "rationale": "Steroid teaching covers morning dosing with food, glucose monitoring, reporting infection early (signs are masked), keeping a steady schedule, and never stopping abruptly. The dose must be tapered.",
-   "takeaway": "Steroids: morning, with food, watch glucose, report infection early, never stop abruptly.",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Recall steroid timing, glucose effects, infection masking, and withdrawal risk.",
-   "hintStrategy": "Evaluate each instruction on its own: would following it keep the client safe during and after long-term steroid therapy?",
-   "options": [
-    "Take the dose in the morning with food",
-    "Check blood glucose if symptoms of high blood sugar develop",
-    "Stop the medication right away if you gain weight",
-    "Report a sore throat or cough even if you have no fever",
-    "Take a double dose the next day if a dose is missed",
-    "Follow the taper schedule exactly as prescribed"
-   ]
+   "rationale": "Ulcerative colitis is chronic, so improvement reflects control, not cure. Steroid teaching covers timing with food, glucose checks, reporting subtle infection signs (because steroids mask fever and redness), and following the taper exactly.",
+   "takeaway": "Steroid teaching: morning with food, watch glucose, report subtle infection, never stop suddenly.",
+   "hintContent": "Connect corticosteroid adverse effects with how they change infection assessment and with the chronic nature of the disease.",
+   "hintStrategy": "Select instructions that prevent a known steroid complication; reject any that stop or change the dose on the client's own."
   },
   {
    "id": "m10-042",
-   "type": "sata",
    "topic": "assessment-diagnostics",
-   "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Diagnostic Tests",
+   "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "The nurse reviews laboratory results for a 45-year-old man admitted with an infected foot wound. Which results suggest inflammation or infection? Select all that apply.",
-   "answer": [
-    0,
-    1,
-    3
-   ],
-   "optionRationales": [
-    "Correct. An ESR well above the normal range indicates active inflammation, although it is nonspecific.",
-    "Correct. A CRP above about 1.0 mg/dL indicates active inflammation, and CRP is useful for monitoring response to treatment.",
-    "A total WBC of 7,800/mm³ is within normal limits (5,000–10,000/mm³). Infection can still be present with a normal total count.",
-    "Correct. Bands above about 5% (a left shift) suggest acute bacterial infection even when the total WBC is normal.",
-    "This hemoglobin is within normal limits for an adult man and is not a marker of inflammation."
-   ],
-   "rationale": "ESR and CRP are nonspecific markers that rise with active inflammation, and CRP is useful for monitoring response to treatment. The total WBC count can be normal while the differential still shows a left shift.",
-   "takeaway": "A normal WBC does not rule out infection. Check the differential, ESR, and CRP.",
-   "cjmm": "Analyze Cues",
+   "type": "sata",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Review normal ranges for ESR (by sex), CRP, total WBC, and bands.",
-   "hintStrategy": "Compare each value with its normal range. A normal total count does not make the whole panel normal.",
+   "alsoTests": [
+    "stages"
+   ],
+   "stem": "The nurse reviews laboratory results for a 45-year-old man admitted with an infected foot wound. Which results indicate active inflammation or an acute bacterial response? Select all that apply.",
    "options": [
     "ESR 58 mm/hr",
     "CRP 6.8 mg/dL",
     "WBC 7,800/mm³",
     "Bands 12%",
     "Hemoglobin 14.6 g/dL"
-   ]
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The ESR is well above the male range of 0–15 mm/hr, showing active inflammation.",
+    "Correct. CRP above about 1.0 mg/dL shows inflammation.",
+    "A total WBC of 7,800/mm³ is within normal limits, but it does not rule out infection.",
+    "Correct. Bands above 5% are a left shift: the marrow is releasing immature neutrophils during the cellular response.",
+    "Hemoglobin 14.6 g/dL is normal for an adult man."
+   ],
+   "rationale": "ESR (male 0–15 mm/hr) and CRP show inflammation but not its cause. The differential adds more: increased bands mean the bone marrow is rushing young neutrophils out in the cellular response, a sign of acute bacterial infection even when the total WBC is normal.",
+   "takeaway": "A normal total WBC does not rule out infection; always check the bands.",
+   "hintContent": "Apply the ESR range for men, the CRP cutoff, and what bands show about the cellular response.",
+   "hintStrategy": "Compare each value with its range, and remember the differential can be abnormal when the total is not."
   },
   {
    "id": "m10-043",
+   "topic": "anaphylaxis",
+   "ref": "Module 10 · Inflammation · Anaphylaxis",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "topic": "anaphylaxis",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Anaphylaxis",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client stung by a wasp 10 minutes ago has lip swelling, wheezing, generalized hives, and BP 78/44 mm Hg. Which action should the nurse take first?",
-   "rationale": "Rapid onset of airway, respiratory, skin, and cardiovascular symptoms after an allergen exposure is anaphylaxis. Epinephrine IM into the vastus lateralis gives the fastest, most reliable absorption and treats airway edema, bronchospasm, and hypotension.",
-   "takeaway": "Multisystem reaction after exposure → epinephrine IM in the thigh.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Recall the definition of anaphylaxis (multiple systems after an exposure) and the preferred route and site for the first-line drug.",
-   "hintStrategy": "Identify the condition first, then choose the only drug that treats the airway and the blood pressure at the same time.",
-   "options": [
-    "Give diphenhydramine as prescribed to relieve the hives",
-    "Give methylprednisolone as prescribed to reduce the swelling",
-    "Give an albuterol treatment as prescribed for the wheezing",
-    "Give epinephrine IM into the mid-anterolateral thigh"
+   "alsoTests": [
+    "mediators",
+    "pharmacology"
    ],
-   "answer": 3,
+   "stem": "A client stung by a wasp 10 minutes ago has lip swelling, wheezing, generalized hives, and BP 78/44 mm Hg. Which prescribed medication should the nurse give first?",
+   "options": [
+    "Diphenhydramine to relieve the itching of the hives",
+    "Methylprednisolone to reduce the swelling over hours",
+    "Epinephrine IM into the mid-anterolateral thigh",
+    "Albuterol by nebulizer to relieve the wheezing"
+   ],
+   "answer": 2,
    "optionRationales": [
-    "Diphenhydramine relieves itching and hives but does not reverse airway edema, bronchospasm, or hypotension. It is an adjunct given after epinephrine.",
-    "Corticosteroids act too slowly to treat the acute reaction and are given after epinephrine.",
-    "Albuterol can relieve bronchospasm but does not treat airway edema or hypotension.",
-    "Correct. Airway, skin, and cardiovascular involvement after an exposure is anaphylaxis. IM epinephrine into the vastus lateralis gives the fastest, most reliable absorption and treats airway edema, bronchospasm, and hypotension."
-   ]
+    "An antihistamine blocks only histamine and acts slowly; it does not reverse airway swelling or shock.",
+    "A corticosteroid is a slow-acting adjunct that suppresses inflammation over hours.",
+    "Correct. Epinephrine constricts vessels (raising BP and reducing swelling) and opens the airways, reversing the effects of body-wide mediator release within minutes.",
+    "Albuterol opens the lower airways only and does not treat lip swelling or hypotension."
+   ],
+   "rationale": "Lip swelling, wheezing, hives, and hypotension after a sting show massive mediator release. Epinephrine is the only first-line drug because it reverses vasodilation, capillary leak, and bronchoconstriction together. Antihistamines, steroids, and bronchodilators are second-line.",
+   "takeaway": "Anaphylaxis: epinephrine IM first; everything else is an adjunct.",
+   "hintContent": "Link each drug's action to the airway and circulation effects of mediator release.",
+   "hintStrategy": "Choose the drug that treats the most life-threatening problems fastest."
   },
   {
    "id": "m10-044",
+   "topic": "nursing-interventions",
+   "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+   "clientNeed": "Health Promotion and Maintenance",
    "type": "mcq",
    "priority": false,
-   "topic": "nursing-interventions",
    "difficulty": 2,
-   "ref": "Module 10 · Inflammation · Health Promotion & Modifiable Risk Factors",
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A 38-year-old client with seasonal allergies and a family history of thyroid disease attends a health-promotion visit. Which statement by the client indicates understanding of the teaching?",
-   "rationale": "Prevention of inflammation means avoiding triggers: allergens such as dust, pollen, and animal dander for allergies. Hand hygiene is the key to preventing infection. Screening named in the course includes allergy skin testing to identify allergens and a TSH test to detect Hashimoto thyroiditis. Antibiotics do not prevent allergies, and a high-fat, low-fiber diet and inactivity increase inflammation.",
-   "takeaway": "Prevention = avoid triggers + hand hygiene; screen with skin testing (allergens) and TSH (Hashimoto).",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "hintContent": "Recall the health-promotion strategies for inflammation: prevention, modifiable risk factors, and screening tests.",
-   "hintStrategy": "Check each statement against the three parts of health promotion: preventing allergy, preventing infection, and screening. Only one is accurate.",
+   "alsoTests": [
+    "assessment-diagnostics"
+   ],
+   "stem": "A 38-year-old client with seasonal allergies and a family history of thyroid disease attends a health-promotion visit. Which statement by the client indicates understanding of the teaching?",
    "options": [
     "“I will avoid my triggers, such as dust, pollen, and animal dander.”",
     "“I will take an antibiotic during allergy season to prevent flare-ups.”",
@@ -2233,40 +2350,48 @@ window.NURSE_DATA.push({
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Avoiding triggers such as dust, pollen, and animal dander is the main way to prevent allergic inflammation.",
-    "Antibiotics treat bacterial infections. They do not prevent allergic inflammation.",
-    "Hand hygiene is the most important measure to prevent infection-related inflammation; vitamin C does not replace it.",
-    "Screening for Hashimoto thyroiditis uses a TSH test. The ESR is a nonspecific marker of inflammation."
-   ]
+    "Correct. Prevention of inflammation centers on avoiding triggers such as dust, pollen, and dander.",
+    "Allergies are not bacterial; antibiotics do not prevent allergic inflammation.",
+    "Hand hygiene is the key measure for preventing infection; vitamin C supports healing but does not replace it.",
+    "ESR is nonspecific. The screening test for Hashimoto thyroiditis is a TSH test."
+   ],
+   "rationale": "Health promotion for inflammation includes trigger avoidance, hand hygiene, and screening. The screening tests on the slides are allergy skin testing and a TSH test for Hashimoto thyroiditis, not an ESR, which shows only that inflammation is present somewhere.",
+   "takeaway": "Prevention = avoid triggers + hand hygiene; screen with skin testing and TSH.",
+   "hintContent": "Combine the prevention principles with the specific screening tests named on the slides.",
+   "hintStrategy": "Check each statement against what each intervention or test actually does."
   },
   {
    "id": "m10-045",
+   "topic": "assessment-diagnostics",
+   "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": true,
-   "topic": "assessment-diagnostics",
    "difficulty": 3,
-   "ref": "Module 10 · Inflammation · Nursing Assessment (Systemic Signs)",
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client with pneumonia has T 38.7 °C (101.7 °F), HR 112, RR 24, and WBC 17,200/mm³ with 15% bands. Which action should the nurse take first?",
-   "rationale": "Temperature above 38.5 °C, HR above 90, RR above 20, and WBC above 12,000 with increased bands are all four systemic signs of inflammation listed in the course. An increase in immature neutrophils (bands) is a left shift and suggests acute bacterial infection. Systemic findings mean the process is no longer local, so the nurse reports them promptly rather than waiting.",
-   "takeaway": "Fever, tachycardia, tachypnea, and leukocytosis with bands = systemic inflammation; report promptly.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Review the systemic signs of inflammation (temperature, HR, RR, WBC) and what an increase in bands is called.",
-   "hintStrategy": "Count the systemic signs against the cutoffs, then choose the action that matches how serious that makes the situation.",
-   "options": [
-    "Document the findings and reassess in 8 hours",
-    "Notify the provider promptly of the systemic findings",
-    "Apply ice packs to the groin and axillae to reduce the fever",
-    "Restrict oral fluids to reduce the work of breathing"
+   "alsoTests": [
+    "nursing-interventions",
+    "inflammation-overview"
    ],
-   "answer": 1,
+   "stem": "A client with pneumonia has T 38.7 °C (101.7 °F), HR 112, RR 24, and WBC 17,200/mm³ with 15% bands. Which action should the nurse take first?",
+   "options": [
+    "Document the findings and reassess the client in 8 hours",
+    "Apply ice packs to the groin and axillae to lower the fever",
+    "Restrict oral fluids to reduce the client's work of breathing",
+    "Notify the provider promptly of the systemic findings"
+   ],
+   "answer": 3,
    "optionRationales": [
-    "All four systemic signs are present. Waiting 8 hours delays treatment of a spreading process.",
-    "Correct. Temperature above 38.5 °C, HR above 90, RR above 20, and WBC above 12,000 with increased bands (a left shift) are all four systemic signs. The process is no longer local and must be reported promptly.",
-    "Ice packs can cause shivering, which raises metabolic demand and temperature, and they do not address the systemic process.",
-    "Fever and tachypnea increase fluid loss, so fluids should be encouraged, not restricted."
-   ]
+    "Waiting 8 hours delays care for a client whose inflammation has become systemic.",
+    "Ice packs cause shivering, which generates more heat; this is not appropriate fever care or the first action.",
+    "Fever and fast breathing increase fluid losses; fluids should be encouraged, not restricted.",
+    "Correct. The client meets every systemic cutoff (T above 38.5 °C, HR above 90, RR above 20, WBC above 12,000/mm³ with increased bands). The response is no longer local, so the provider is notified promptly."
+   ],
+   "rationale": "When local inflammation (pneumonia) produces findings that meet every systemic cutoff, the priority is prompt reporting so treatment can be adjusted. Supportive fever care means encouraging fluids and comfort measures, not ice packs or fluid restriction.",
+   "takeaway": "All systemic cutoffs met → notify the provider promptly; support with fluids, not ice or restriction.",
+   "hintContent": "Apply the systemic cutoffs and recall appropriate fever comfort care.",
+   "hintStrategy": "Decide whether the findings are systemic, then choose the action that gets the client treatment fastest; eliminate harmful comfort measures."
   }
  ]
 });

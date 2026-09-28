@@ -8,22 +8,24 @@ window.NURSE_DATA.push({
  "questions": [
   {
    "id": "m21d-001",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Compare each finding with normal values and look for signs of spreading infection.",
-   "hintStrategy": "Evaluate each option on its own: abnormal and clinically significant, or within normal limits?",
    "type": "sata",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Infected Traumatic Leg Wound",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "caseId": "m21d-case-legwound",
-   "caseOrder": 1,
+   "alsoTests": [
+    "wound-types-classification",
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall the signs of a spreading wound infection and which lab values delay healing.",
+   "hintStrategy": "Compare each value with its normal range, and ask whether each clinical finding shows infection spreading.",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes reports catching the left shin on rusted barbed wire while repairing a fence 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with gaping edges, thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night.</p><p>Takes metformin 1,000 mg twice daily; “haven't checked my sugar in months.” Eats about one meal a day since his wife died 3 months ago; has lost 7 kg (15.4 lb). Pain 7/10.</p>"
+      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes caught the left shin on rusted barbed wire 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night. Takes metformin; “haven't checked my sugar in months.” Eats about one meal a day and has lost 7 kg (15.4 lb) in 3 months.</p>"
      },
      {
       "title": "Vital Signs",
@@ -63,11 +65,6 @@ window.NURSE_DATA.push({
          "5,000–10,000/mm³"
         ],
         [
-         "Hemoglobin",
-         "10.9 g/dL",
-         "13.5–17.5 g/dL"
-        ],
-        [
          "Platelets",
          "245,000/mm³",
          "150,000–400,000/mm³"
@@ -76,11 +73,6 @@ window.NURSE_DATA.push({
          "Glucose (random)",
          "286 mg/dL",
          "70–140 mg/dL"
-        ],
-        [
-         "HbA1c",
-         "9.4%",
-         "< 5.7%"
         ],
         [
          "Albumin",
@@ -92,7 +84,7 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which client findings require follow-up by the nurse? Select all that apply.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which findings require follow-up by the nurse? Select all that apply.",
    "options": [
     "Erythema extending 8 cm up the calf with chills",
     "Heart rate 108/min with BP 104/62 mm Hg",
@@ -108,138 +100,68 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Spreading redness with chills shows the infection is extending beyond the wound and becoming systemic.",
-    "Correct. Tachycardia with a soft BP, along with fever, may signal early sepsis.",
-    "Correct. Hyperglycemia impairs immune function and wound healing and must be treated.",
-    "Incorrect. The SpO₂ is within normal limits.",
-    "Incorrect. The platelet count is normal, so clotting is not a concern.",
-    "Correct. An elevated WBC confirms an active infection."
+    "Correct. Spreading redness with chills suggests the infection is moving beyond the wound.",
+    "Correct. A fast heart rate with a soft BP in a febrile client may signal that infection is becoming systemic.",
+    "Correct. High glucose slows healing and feeds bacteria.",
+    "Incorrect. The oxygen saturation is within normal limits.",
+    "Incorrect. The platelet count is normal.",
+    "Correct. An elevated WBC supports an active bacterial infection."
    ],
-   "rationale": "This client has an infected traumatic wound with spreading erythema, chills, fever, tachycardia, a soft BP, and leukocytosis, which suggest a spreading infection with possible early sepsis. Uncontrolled glucose further impairs healing and infection defense. The normal SpO₂ and platelet count do not need follow-up at this time.",
-   "takeaway": "Spreading redness + fever + tachycardia + high WBC = spreading infection. High glucose makes it worse."
+   "rationale": "The wound has pus and dead tissue (a dirty/infected wound), and the surrounding findings show the infection is spreading: redness extending up the calf, chills, fever, tachycardia, a soft BP, and a high WBC. High glucose and low albumin will also slow healing. Normal SpO₂ and platelets need no action.",
+   "takeaway": "Spreading redness, fever, ↑ HR, ↑ WBC, and ↑ glucose around a dirty wound all need follow-up."
   },
   {
    "id": "m21d-002",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Look for the wound findings that define each contamination class.",
-   "hintStrategy": "Check that both the class and the reason in each option are accurate.",
    "type": "mcq",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Infected Traumatic Leg Wound",
-   "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "caseId": "m21d-case-legwound",
-   "caseOrder": 2,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes reports catching the left shin on rusted barbed wire while repairing a fence 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with gaping edges, thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night.</p><p>Takes metformin 1,000 mg twice daily; “haven't checked my sugar in months.” Eats about one meal a day since his wife died 3 months ago; has lost 7 kg (15.4 lb). Pain 7/10.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "1400",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "22",
-         "104/62",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "17,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "10.9 g/dL",
-         "13.5–17.5 g/dL"
-        ],
-        [
-         "Platelets",
-         "245,000/mm³",
-         "150,000–400,000/mm³"
-        ],
-        [
-         "Glucose (random)",
-         "286 mg/dL",
-         "70–140 mg/dL"
-        ],
-        [
-         "HbA1c",
-         "9.4%",
-         "< 5.7%"
-        ],
-        [
-         "Albumin",
-         "2.9 g/dL",
-         "3.5–5.0 g/dL"
-        ]
-       ]
-      }
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Laboratory Results. Using the classification by contamination, how should the nurse classify this client's wound?",
-   "options": [
-    "Contaminated, because the wound was caused by rusted barbed wire",
-    "Clean-contaminated, because the wound is on the lower leg",
-    "Dirty/infected, because of purulent drainage and dead tissue",
-    "Contaminated, because the laceration has jagged, gaping edges"
+   "alsoTests": [
+    "infectious-skin-disorders"
    ],
-   "answer": 2,
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall the signs of wound infection and the class they define.",
+   "hintStrategy": "Find the findings that show infection is already present, then match them to a class.",
+   "stem": "A client comes to urgent care 3 days after a dog bite to the hand that was never treated. The wound now has thick yellow drainage, a foul odor, and black, dead tissue at the edges. The surrounding skin is red and warm, and the temperature is 38.4 °C (101.1 °F). How should the nurse classify this wound by contamination?",
+   "options": [
+    "Dirty/infected, because pus and dead tissue are present",
+    "Contaminated, because it was caused by an animal bite",
+    "Clean-contaminated, because it has not been surgically opened",
+    "Contaminated, because the bite happened more than a day ago"
+   ],
+   "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Incorrect. A fresh wound from a dirty object would be contaminated, but this wound is now clinically infected, which moves it to dirty/infected.",
-    "Incorrect. Clean-contaminated describes controlled surgical entry into the GI, GU, or respiratory tract. Location on the leg does not determine the class.",
-    "Correct. Purulent drainage, dead (nonviable) tissue, and clinical signs of infection define a dirty/infected wound.",
-    "Incorrect. The shape of the wound edges does not determine contamination class."
+    "Correct. Purulent drainage, necrotic tissue, and signs of clinical infection make the wound dirty/infected, the highest-risk class.",
+    "Incorrect. A fresh bite is contaminated, but this wound already shows infection, which places it in the highest class.",
+    "Incorrect. Clean-contaminated describes controlled surgical entry into the GI, GU, or respiratory tract.",
+    "Incorrect. Time alone does not set the class. Pus and dead tissue do."
    ],
-   "rationale": "Wound classification by contamination depends on the presence of infection, not the wound's shape or location. Thick yellow-green drainage, foul odor, and gray-black nonviable tissue make this a dirty/infected wound. The client's high glucose and poor nutrition will further impair healing.",
-   "takeaway": "Pus + dead tissue + clinical infection = dirty/infected."
+   "rationale": "A fresh accidental bite is classified as contaminated. Once infection develops, shown here by pus, foul odor, necrotic tissue, spreading redness, warmth, and fever, the wound becomes dirty/infected, the highest infection-risk class. Recognizing the signs of infection is what moves the wound to this class.",
+   "takeaway": "A fresh bite is contaminated; a bite with pus and dead tissue is dirty/infected."
   },
   {
    "id": "m21d-003",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "hintContent": "Recall the signs of wound infection and which labs show the body is fighting an infection.",
-   "hintStrategy": "Several problems are present. Choose the one that the most cues support AND that is the most immediate threat.",
    "type": "mcq",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Infected Traumatic Leg Wound",
+   "alsoTests": [
+    "diagnostics-labs-nutrition",
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21d-case-legwound",
-   "caseOrder": 3,
+   "hintContent": "Recall the signs of spreading infection and how the labs support or rule out each problem.",
+   "hintStrategy": "Rank the problems by which could harm the client fastest. Use the labs to rule out options.",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes reports catching the left shin on rusted barbed wire while repairing a fence 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with gaping edges, thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night.</p><p>Takes metformin 1,000 mg twice daily; “haven't checked my sugar in months.” Eats about one meal a day since his wife died 3 months ago; has lost 7 kg (15.4 lb). Pain 7/10.</p>"
+      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes caught the left shin on rusted barbed wire 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night. Takes metformin; “haven't checked my sugar in months.” Eats about one meal a day and has lost 7 kg (15.4 lb) in 3 months.</p>"
      },
      {
       "title": "Vital Signs",
@@ -280,23 +202,13 @@ window.NURSE_DATA.push({
         ],
         [
          "Hemoglobin",
-         "10.9 g/dL",
+         "13.9 g/dL",
          "13.5–17.5 g/dL"
-        ],
-        [
-         "Platelets",
-         "245,000/mm³",
-         "150,000–400,000/mm³"
         ],
         [
          "Glucose (random)",
          "286 mg/dL",
          "70–140 mg/dL"
-        ],
-        [
-         "HbA1c",
-         "9.4%",
-         "< 5.7%"
         ],
         [
          "Albumin",
@@ -310,119 +222,56 @@ window.NURSE_DATA.push({
    },
    "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which problem is the nurse's priority concern for this client at this time?",
    "options": [
-    "Spread of infection from the wound into surrounding tissue",
     "Allergic contact dermatitis from the herbal salve on the wound",
     "Hypovolemic shock from ongoing bleeding at the wound site",
-    "Delayed wound healing from poor nutrition and weight loss"
+    "Delayed wound healing from poor nutrition and weight loss",
+    "Spread of infection from the wound into surrounding tissue"
    ],
-   "answer": 0,
+   "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Correct. Purulent drainage, odor, dead tissue, redness extending 8 cm up the calf, chills, fever, a rapid pulse, and a WBC of 17,400/mm³ show an infection that is spreading. It is the most immediate threat.",
-    "The salve may have hindered healing, but there are no vesicles or a rash shaped like the application area. The findings are those of infection.",
-    "The wound is not actively bleeding. The rapid pulse and soft BP are better explained by fever and infection, although the nurse keeps assessing for shock.",
-    "Poor nutrition (weight loss, albumin 2.9 g/dL) is a real problem that must be addressed, but it is not as immediately dangerous as a spreading infection."
+    "Incorrect. The findings (pus, dead tissue, spreading redness) fit infection, not an allergic rash.",
+    "Incorrect. There is no active bleeding, and the hemoglobin is normal. The fast pulse fits fever and infection.",
+    "Incorrect. Poor nutrition and low albumin will slow healing, but that is a longer-term problem.",
+    "Correct. Spreading redness, chills, fever, tachycardia, and a high WBC show the infection is spreading and could become systemic."
    ],
-   "rationale": "When ranking problems, the nurse picks the one that the most cues support and that is the most immediate threat. A dirty/infected wound with spreading redness, fever, a rapid pulse, and a high WBC in a client with poorly controlled diabetes means the infection is spreading. Nutrition and glucose control matter for healing but come after the immediate threat.",
-   "takeaway": "Pus + spreading redness + fever + high WBC = spreading infection is the priority."
+   "rationale": "This dirty/infected wound shows signs of infection spreading beyond the wound: redness extending up the calf, fever, chills, tachycardia, and a WBC of 17,400/mm³. That is the most immediate threat. Low albumin and high glucose explain why healing will be slow, but spreading infection must be addressed first.",
+   "takeaway": "Spreading infection outranks delayed healing."
   },
   {
    "id": "m21d-004",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall how an infected wound is cared for and why home remedies are assessed.",
-   "hintStrategy": "Treat each option as a true/false statement. Ask whether it helps or harms THIS client's infected wound.",
    "type": "sata",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Infected Traumatic Leg Wound",
+   "alsoTests": [
+    "diagnostics-labs-nutrition",
+    "skin-therapies-pharm"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 3,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "caseId": "m21d-case-legwound",
-   "caseOrder": 4,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall how an infected wound is treated, why dead tissue is removed, and what delays healing.",
+   "hintStrategy": "Judge each option true or false. Reject actions that would trap infection or add unknown substances.",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes reports catching the left shin on rusted barbed wire while repairing a fence 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with gaping edges, thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night.</p><p>Takes metformin 1,000 mg twice daily; “haven't checked my sugar in months.” Eats about one meal a day since his wife died 3 months ago; has lost 7 kg (15.4 lb). Pain 7/10.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "1400",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "22",
-         "104/62",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "17,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "10.9 g/dL",
-         "13.5–17.5 g/dL"
-        ],
-        [
-         "Platelets",
-         "245,000/mm³",
-         "150,000–400,000/mm³"
-        ],
-        [
-         "Glucose (random)",
-         "286 mg/dL",
-         "70–140 mg/dL"
-        ],
-        [
-         "HbA1c",
-         "9.4%",
-         "< 5.7%"
-        ],
-        [
-         "Albumin",
-         "2.9 g/dL",
-         "3.5–5.0 g/dL"
-        ]
-       ]
-      }
+      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes caught the left shin on rusted barbed wire 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night. Takes metformin; “haven't checked my sugar in months.” Eats about one meal a day and has lost 7 kg (15.4 lb) in 3 months.</p>"
      },
      {
       "title": "Orders",
-      "html": "<ul><li>Wound culture before the first antibiotic dose</li><li>Cefazolin 2 g IV every 8 hr</li><li>Capillary glucose before meals and at bedtime; correctional insulin lispro per scale</li><li>Surgical consult for debridement</li><li>Dietitian consult</li><li>Elevate left leg; acetaminophen 650 mg PO every 6 hr PRN pain/fever</li></ul>"
+      "html": "<ul><li>Wound culture before the first antibiotic dose</li><li>Cefazolin 2 g IV every 8 hr</li><li>Capillary glucose before meals and at bedtime; correctional insulin per scale</li><li>Surgical consult for debridement</li><li>Dietitian consult</li><li>Elevate left leg</li></ul>"
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes and Orders. The nurse is planning care for the client. Which interventions are appropriate for this client's wound? Select all that apply.",
+   "stem": "Refer to the Nurses' Notes and Orders. The nurse is planning care for the client. Which interventions are appropriate? Select all that apply.",
    "options": [
     "Obtain a wound culture after cleansing the wound with sterile normal saline",
-    "Ask what home remedies were used on the wound and document them",
+    "Ask what home remedies were used on the wound, without judgment, and document them",
     "Apply the client's herbal salve at each dressing change for comfort",
     "Prepare the client for surgical removal (debridement) of the dead tissue",
-    "Close the wound edges with sutures to limit further contamination",
+    "Seal the wound under airtight plastic wrap to keep the drainage contained",
     "Monitor capillary glucose and give correctional insulin as prescribed"
    ],
    "answer": [
@@ -432,142 +281,68 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. A wound culture confirms the infection and guides antibiotic choice. Cleansing first removes surface contaminants.",
-    "Correct. Home remedies may hinder healing, so the nurse assesses and documents them.",
-    "Incorrect. The salve's contents are unknown and it may have contributed to the problem. It should not be used without the provider's review.",
-    "Correct. Dead tissue feeds bacteria and blocks healing, so it must be removed before the wound can heal.",
-    "Incorrect. Infected wounds are not closed. Closing them traps bacteria and drainage.",
-    "Correct. Keeping glucose in range improves infection defense and healing."
+    "Correct. A culture identifies the organism and guides antibiotic choice. It is collected before the first antibiotic dose.",
+    "Correct. Home remedies may hinder healing, so the nurse assesses them without judgment and documents them.",
+    "Incorrect. The salve is an unknown home remedy that may hinder healing and is not part of the ordered care.",
+    "Correct. Dead tissue must be removed so healthy tissue can grow, and surgical debridement is ordered.",
+    "Incorrect. Sealing an infected, draining wound traps pus and moisture against the tissue and promotes bacterial growth.",
+    "Correct. High glucose slows healing and feeds bacteria, so glucose is monitored and treated."
    ],
-   "rationale": "Care of a dirty/infected wound includes a culture before antibiotics, removal of dead tissue, leaving the wound open, assessing home remedies that may hinder healing, and controlling conditions that impair healing, such as high glucose.",
-   "takeaway": "Dirty wound: culture, remove dead tissue, leave open, ask about home remedies, control glucose."
+   "rationale": "Care for a dirty/infected wound links several parts of the module: a culture before antibiotics to guide therapy, debridement to remove dead tissue, never trapping drainage under an airtight cover, assessing home remedies without judgment, and correcting factors that delay healing such as high glucose.",
+   "takeaway": "Dirty wound: culture first, debride, don't trap drainage, control glucose, and ask about home remedies."
   },
   {
    "id": "m21d-005",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "hintContent": "Recall how giving an antibiotic before collecting a culture affects the result.",
-   "hintStrategy": "All of these orders will be done. Decide which one must come before another to keep it accurate.",
    "type": "mcq",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Infected Traumatic Leg Wound",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "caseId": "m21d-case-legwound",
-   "caseOrder": 5,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes reports catching the left shin on rusted barbed wire while repairing a fence 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with gaping edges, thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night.</p><p>Takes metformin 1,000 mg twice daily; “haven't checked my sugar in months.” Eats about one meal a day since his wife died 3 months ago; has lost 7 kg (15.4 lb). Pain 7/10.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "1400",
-         "38.6 °C (101.5 °F)",
-         "108",
-         "22",
-         "104/62",
-         "96% RA"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "17,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "10.9 g/dL",
-         "13.5–17.5 g/dL"
-        ],
-        [
-         "Platelets",
-         "245,000/mm³",
-         "150,000–400,000/mm³"
-        ],
-        [
-         "Glucose (random)",
-         "286 mg/dL",
-         "70–140 mg/dL"
-        ],
-        [
-         "HbA1c",
-         "9.4%",
-         "< 5.7%"
-        ],
-        [
-         "Albumin",
-         "2.9 g/dL",
-         "3.5–5.0 g/dL"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Wound culture before the first antibiotic dose</li><li>Cefazolin 2 g IV every 8 hr</li><li>Capillary glucose before meals and at bedtime; correctional insulin lispro per scale</li><li>Surgical consult for debridement</li><li>Dietitian consult</li><li>Elevate left leg; acetaminophen 650 mg PO every 6 hr PRN pain/fever</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Orders. The nurse has established IV access. Which order should the nurse implement first?",
+   "hintContent": "Recall why the timing of a wound culture matters.",
+   "hintStrategy": "Ask which order, if done out of sequence, would ruin another order.",
+   "stem": "A client with a draining, foul-smelling leg wound, a temperature of 38.6 °C (101.5 °F), and a blood glucose of 286 mg/dL has new IV access. The orders include a wound culture, cefazolin 2 g IV, capillary glucose with correctional insulin, and a dietitian consult. Which order should the nurse implement first?",
    "options": [
     "Start the cefazolin 2 g IV infusion",
-    "Obtain a wound culture after cleansing with normal saline",
-    "Check capillary glucose and give correctional insulin as ordered",
+    "Check capillary glucose and give correctional insulin",
+    "Obtain a wound culture from the cleansed wound",
     "Contact the dietitian for a nutrition consultation"
    ],
-   "answer": 1,
+   "answer": 2,
    "priority": true,
    "optionRationales": [
-    "The antibiotic must start quickly, but giving it before the culture can keep the organism from growing and make the result misleading.",
-    "Correct. The culture is collected before the first antibiotic dose so it can confirm the infection and guide antibiotic choice. It takes only minutes, so the antibiotic is not delayed.",
-    "Glucose control matters for healing, but it does not need to happen before the culture and antibiotic.",
-    "Nutrition is essential for healing but does not address the immediate infection."
+    "Incorrect. The antibiotic is given promptly, but only after the culture is collected so the result is not falsely negative.",
+    "Incorrect. Glucose control is important but can follow the culture and antibiotic.",
+    "Correct. The culture must be collected before the first antibiotic dose. The antibiotic should then follow without delay.",
+    "Incorrect. Nutrition is a longer-term priority."
    ],
-   "rationale": "Wound cultures confirm infection and guide antibiotic choice. They are collected before the first antibiotic dose, and then the antibiotic is given without delay. Glucose control and nutrition support follow.",
-   "takeaway": "Culture first, then the antibiotic right away."
+   "rationale": "A wound culture identifies the organism and guides antibiotic choice, but an antibiotic given first can make the culture falsely negative. So the nurse collects the culture first and then gives the antibiotic promptly. Glucose and nutrition follow.",
+   "takeaway": "Culture first, then the antibiotic without delay."
   },
   {
    "id": "m21d-006",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
-   "hintContent": "Compare each day 3 finding with the day 1 findings and normal ranges.",
-   "hintStrategy": "Evaluate each option on its own: better and near normal, or still abnormal?",
    "type": "sata",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · NGN Case Study: Infected Traumatic Leg Wound",
+   "alsoTests": [
+    "wound-types-classification",
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
    "difficulty": 3,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21d-case-legwound",
-   "caseOrder": 6,
+   "hintContent": "Recall what a healthy healing wound bed looks like and the normal ranges for WBC and albumin.",
+   "hintStrategy": "Compare day 3 with day 1 for each finding. Select only those moving toward normal.",
    "exhibit": {
     "tabs": [
      {
       "title": "Nurses' Notes",
-      "html": "<p><strong>1400 (Emergency Department):</strong> 64-year-old farmer with type 2 diabetes reports catching the left shin on rusted barbed wire while repairing a fence 4 days ago. Rinsed it with well water, applied “an herbal salve my grandmother used,” and wrapped it with a cloth. Now has a 6-cm jagged laceration with gaping edges, thick yellow-green drainage, foul odor, and gray-black nonviable tissue along the margins. Erythema extends 8 cm up the calf; the area is warm, swollen, and tender. Reports chills since last night.</p><p>Takes metformin 1,000 mg twice daily; “haven't checked my sugar in months.” Eats about one meal a day since his wife died 3 months ago; has lost 7 kg (15.4 lb). Pain 7/10.</p><p><strong>Hospital day 3, 0800:</strong> Surgical debridement completed on day 1. Wound bed now beefy red and granular with scant serous drainage and no odor. Erythema has receded to 1 cm around the wound margin. Client eats about 25% of meal trays and says, “Nothing tastes right.” Capillary glucose readings over the past 24 hr: 248, 301, 276, 262 mg/dL.</p>"
+      "html": "<p><strong>Hospital day 3, 0800:</strong> Client admitted with an infected leg wound. Surgical debridement completed on day 1; receiving IV cefazolin. Wound bed now beefy red and granular with scant serous drainage and no odor. Erythema has receded to 1 cm around the wound margin. Eats about 25% of meal trays. Capillary glucose over the past 24 hr: 248, 301, 276, 262 mg/dL.</p>"
      },
      {
       "title": "Vital Signs",
@@ -617,12 +392,6 @@ window.NURSE_DATA.push({
          "5,000–10,000/mm³"
         ],
         [
-         "Glucose (fasting)",
-         "286 mg/dL (random)",
-         "262 mg/dL",
-         "70–99 mg/dL"
-        ],
-        [
          "Albumin",
          "2.9 g/dL",
          "2.8 g/dL",
@@ -630,20 +399,16 @@ window.NURSE_DATA.push({
         ]
        ]
       }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Wound culture before the first antibiotic dose</li><li>Cefazolin 2 g IV every 8 hr</li><li>Capillary glucose before meals and at bedtime; correctional insulin lispro per scale</li><li>Surgical consult for debridement</li><li>Dietitian consult</li><li>Elevate left leg; acetaminophen 650 mg PO every 6 hr PRN pain/fever</li></ul>"
      }
     ]
    },
-   "stem": "Refer to the updated Nurses' Notes, Vital Signs, and Laboratory Results for hospital day 3. Which findings indicate that the client's condition is improving? Select all that apply.",
+   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. Which findings indicate that the client's condition is improving? Select all that apply.",
    "options": [
     "Temperature 37.2 °C (99.0 °F) and heart rate 84/min",
     "Capillary glucose readings of 248–301 mg/dL",
     "Redness receded to 1 cm around the wound margin",
     "Eats about 25% of meals; albumin 2.8 g/dL",
-    "Beefy red wound bed with scant serous drainage and no odor",
+    "Beefy red, granular wound bed with scant serous drainage and no odor",
     "WBC decreased from 17,400/mm³ to 10,900/mm³"
    ],
    "answer": [
@@ -653,27 +418,30 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Fever and tachycardia have resolved, showing the infection is responding to treatment.",
-    "Incorrect. Glucose remains well above target, which continues to impair healing and needs follow-up.",
-    "Correct. Receding erythema shows the local infection is resolving.",
-    "Incorrect. Poor intake and a falling albumin show nutrition is not improving and will delay healing.",
-    "Correct. Beefy red granulation tissue with scant serous drainage and no odor indicates a healing wound after debridement.",
-    "Correct. A falling WBC shows the infection is resolving."
+    "Correct. The fever and tachycardia have resolved.",
+    "Incorrect. Glucose remains high and will continue to slow healing.",
+    "Correct. Receding redness shows the infection is responding.",
+    "Incorrect. Poor intake and a falling albumin show nutrition is not improving.",
+    "Correct. Beefy red granulation tissue with scant serous drainage is a healthy, healing wound bed.",
+    "Correct. A falling WBC shows the infection is responding to treatment."
    ],
-   "rationale": "After debridement and IV antibiotics, the resolved fever and tachycardia, receding redness, falling WBC, and healthy granulating wound bed show the infection is improving. Persistent hyperglycemia and poor intake with a low albumin show that glucose control and nutrition are not improving and need further intervention.",
-   "takeaway": "Infection signs improving; glucose and nutrition still need work."
+   "rationale": "Evaluation compares current findings with the starting point. Fever, heart rate, redness, WBC, and the wound bed all show the infection is responding: beefy red granulation tissue with scant serous drainage is expected healing, unlike the earlier pus and dead tissue. Glucose and nutrition goals are not met and still need intervention.",
+   "takeaway": "Evaluate each goal separately: infection improving, glucose and nutrition not yet."
   },
   {
    "id": "m21d-007",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the features of basal cell carcinoma, squamous cell carcinoma, and melanoma.",
-   "hintStrategy": "Evaluate each lesion on its own: stable and benign, or showing a warning sign?",
    "type": "sata",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Neoplastic Disorders",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall how each skin cancer looks and which test tells benign from cancerous tissue.",
+   "hintStrategy": "Evaluate each lesion on its own: benign-appearing or suspicious for cancer?",
    "exhibit": {
     "tabs": [
      {
@@ -698,237 +466,257 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. A pearly papule with rolled borders and surface vessels is typical of basal cell carcinoma.",
-    "Incorrect. Freckles that darken with sun exposure are benign.",
-    "Correct. Asymmetry, diameter over 6 mm, and color variation are warning signs of melanoma, the most serious skin cancer.",
-    "Correct. A firm, scaly, bleeding nodule on a sun-exposed lip suggests squamous cell carcinoma.",
-    "Incorrect. A waxy, stuck-on lesion unchanged for years is a benign seborrheic keratosis.",
-    "Correct. A scaly, crusted, nonhealing patch on sun-exposed skin suggests squamous cell carcinoma."
+    "Correct. A pearly papule with visible vessels suggests basal cell carcinoma.",
+    "Incorrect. Freckles that darken with sun are benign macules.",
+    "Correct. Asymmetry, varied color, and a diameter over 6 mm meet ABCDE criteria for melanoma.",
+    "Correct. A scaly, crusted, bleeding lesion on the lip suggests squamous cell carcinoma.",
+    "Incorrect. A stable, stuck-on lesion is typically benign.",
+    "Correct. A non-healing scaly, crusted sore on sun-exposed skin suggests squamous cell carcinoma."
    ],
-   "rationale": "This fair-skinned roofer has heavy lifetime UV exposure without sun protection. A skin biopsy distinguishes benign from cancerous lesions. The pearly papule (basal cell carcinoma), the irregular multicolored mole (melanoma), and the scaly, bleeding, or nonhealing lesions (squamous cell carcinoma) need biopsy. Freckles and a stable seborrheic keratosis are benign.",
-   "takeaway": "Pearly, changing, bleeding, or nonhealing lesions → biopsy."
+   "rationale": "Years of unprotected UV exposure in a fair-skinned client raise the risk of all three skin cancers. A biopsy distinguishes benign from cancerous tissue and is indicated for a pearly bleeding papule (basal cell), a lesion meeting ABCDE criteria (melanoma), and scaly, crusted, bleeding, or non-healing lesions (squamous cell). Stable freckles and stuck-on lesions are benign.",
+   "takeaway": "Pearly, ABCDE, scaly-crusted, or non-healing → biopsy."
   },
   {
    "id": "m21d-008",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall the three neoplastic skin disorders and which one the slides call most serious.",
-   "hintStrategy": "Eliminate answers that misclassify skin cancer or give false reassurance.",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Neoplastic Disorders",
+   "alsoTests": [
+    "skin-structure-function"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Pathophysiology",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall which epidermal cell each skin cancer comes from and which cancer is most serious.",
+   "hintStrategy": "Look for the response that is accurate and distinguishes the two cancers.",
    "stem": "A 60-year-old client was just diagnosed with malignant melanoma. The client says, “My father had basal cell carcinoma removed years ago and he was fine. Isn't this the same thing?” Which response by the nurse is most accurate?",
    "options": [
-    "“Yes, both are slow-growing cancers that almost never spread.”",
-    "“Melanoma is the most serious type of skin cancer because it can spread early.”",
+    "“Melanoma starts in pigment cells and is more serious because it can spread early.”",
+    "“Yes, both start in the same skin cells, grow slowly, and almost never spread to other organs.”",
     "“Melanoma is less serious because it only appears on skin exposed to the sun.”",
     "“Both are infections of the skin that clear up after a course of antibiotics.”"
    ],
-   "answer": 1,
+   "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Basal cell carcinoma grows slowly and rarely spreads, but melanoma behaves very differently.",
-    "Correct. Malignant melanoma is the most serious skin cancer. It arises from pigment cells and can spread early, so prompt treatment and follow-up are essential.",
-    "Melanoma is the most serious type, and it can appear anywhere on the skin.",
-    "Skin cancers are neoplastic disorders, not infections. Antibiotics do not treat them."
+    "Correct. Melanoma arises from melanocytes, the pigment-producing cells, and is the most serious skin cancer because it can spread early.",
+    "Incorrect. Basal cell carcinoma starts in basal cells and rarely spreads. Melanoma starts in melanocytes and can spread early.",
+    "Incorrect. Melanoma is more serious and can occur on skin with little sun exposure.",
+    "Incorrect. Skin cancers are neoplastic, not infectious."
    ],
-   "rationale": "Neoplastic skin disorders include basal cell carcinoma (most common, slow-growing, rarely spreads), squamous cell carcinoma (can spread), and malignant melanoma (most serious). The nurse corrects the misunderstanding clearly so the client understands the need for treatment and follow-up.",
-   "takeaway": "Basal cell = most common. Melanoma = most serious."
+   "rationale": "Skin cancers are named for the cell they start in. Basal cell carcinoma arises from basal cells at the bottom of the epidermis and rarely spreads. Melanoma arises from melanocytes, the cells that make melanin, and is the most serious skin cancer because it can spread early to lymph nodes and organs.",
+   "takeaway": "Melanoma = melanocytes = most serious; basal cell = most common, rarely spreads."
   },
   {
    "id": "m21d-009",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Recall which medication groups can increase sun sensitivity.",
-   "hintStrategy": "Link the drug to the client's specific plans. Which teaching point prevents the harm most likely on this trip?",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Modifiable Risk Factors",
+   "alsoTests": [
+    "skin-therapies-pharm"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall which medication classes increase sun sensitivity and the sun-protection teaching points.",
+   "hintStrategy": "Connect the drug to the client's plans to find the biggest risk.",
    "stem": "A client is prescribed doxycycline 100 mg orally twice daily for 10 days for a skin infection. The client says, “I'm going on a 3-day fishing trip this weekend.” Which instruction is most important for the nurse to give?",
    "options": [
     "“Take each dose with a full glass of milk to prevent stomach upset.”",
+    "“This drug makes you burn easily, so cover up and use sunscreen.”",
     "“You only need sunscreen on the days you plan to swim or get wet.”",
-    "“A light sunburn on the first day will help your skin adjust to the sun.”",
-    "“This drug makes you burn easily, so cover up and use sunscreen.”"
+    "“A light sunburn on the first day will help your skin adjust to the sun.”"
    ],
-   "answer": 3,
+   "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Dairy and calcium bind doxycycline and reduce its absorption, so this advice is wrong.",
-    "UV exposure, not water, triggers the reaction. Sun protection is needed any time the client is outdoors.",
-    "Any sunburn is skin damage. With a drug that increases sun sensitivity, reactions can be severe.",
-    "Correct. Some antibiotics, including doxycycline, increase sun sensitivity. Protective clothing, a hat, shade, and sunscreen prevent severe sunburn."
+    "Incorrect. Milk and dairy reduce doxycycline absorption.",
+    "Correct. Doxycycline causes photosensitivity. Protective clothing, shade, and broad-spectrum SPF 30+ sunscreen prevent severe sunburn.",
+    "Incorrect. Sun protection is needed every day outdoors, wet or dry.",
+    "Incorrect. Any sunburn is skin damage, and a photosensitizing drug makes it worse."
    ],
-   "rationale": "Some medications (steroids, antibiotics, chemotherapy, antifungals) may thin the skin or increase sun sensitivity. Before outdoor exposure, the nurse teaches sun protection with protective clothing, hats, shade, and sunscreen, and reminds the client to finish the full course.",
-   "takeaway": "Photosensitizing drug + outdoor plans = clothing, shade, and broad-spectrum SPF 30+."
+   "rationale": "Antibiotics such as doxycycline are among the medications that increase sun sensitivity. With prolonged outdoor exposure, the most important teaching is full sun protection: long sleeves, a wide-brimmed hat, shade, and broad-spectrum SPF 30+ sunscreen reapplied often. The client should not stop the antibiotic.",
+   "takeaway": "Photosensitizing drug + outdoor plans = teach clothing, shade, and sunscreen."
   },
   {
    "id": "m21d-010",
-   "cjmm": "Generate Solutions",
-   "focus": "Lifespan & Diversity",
-   "hintContent": "Recall how infant skin differs from adult skin.",
-   "hintStrategy": "Eliminate options that increase absorption of products or UV exposure.",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Lifespan Considerations – Infants and Children",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The parent of a healthy 4-month-old infant plans to attend an all-afternoon outdoor family reunion in July and asks the nurse how to protect the infant's skin. Which instruction should the nurse give?",
+   "hintContent": "Recall how newborn and infant skin differs from adult skin and the sun-protection options.",
+   "hintStrategy": "Choose the option that protects without adding risk from the infant's thin skin.",
+   "stem": "The parent of a healthy 4-month-old plans to attend an all-afternoon outdoor family reunion in July and asks the nurse how to protect the infant's skin. Which instruction should the nurse give?",
    "options": [
     "Apply a thick layer of SPF 50 sunscreen to the infant's whole body",
     "Apply baby oil to the infant's skin to keep it from drying out",
-    "Give the infant short periods of direct sun to build up tolerance",
-    "Keep the infant in shade, in light long sleeves and a brimmed hat"
-   ],
-   "answer": 3,
-   "priority": false,
-   "optionRationales": [
-    "Incorrect. Infant skin is thinner and absorbs products more easily. Sunscreen is limited to small exposed areas if shade and clothing are not available.",
-    "Incorrect. Baby oil offers no UV protection and may increase burning.",
-    "Incorrect. There is no safe way to \"build tolerance.\" Sun exposure damages infant skin.",
-    "Correct. Shade, lightweight protective clothing, and a brimmed hat are the main sun protection for young infants."
-   ],
-   "rationale": "Newborn and infant skin is thinner, loses heat easily, and absorbs applied products more readily. For young infants, shade, lightweight long-sleeved clothing, and a brimmed hat are the primary sun protection. A small amount of sunscreen may be used on small exposed areas, such as the face and backs of the hands, if shade and clothing are not enough.",
-   "takeaway": "Young infants: shade and clothing first, sunscreen only on small exposed areas."
-  },
-  {
-   "id": "m21d-011",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
-   "hintContent": "Recall the ABCDE criteria and which letter is thought to be the most sensitive sign of melanoma.",
-   "hintStrategy": "This is a negatively worded item. You are looking for the statement that is INCORRECT.",
-   "type": "mcq",
-   "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Skin Screenings",
-   "difficulty": 2,
-   "clientNeed": "Health Promotion and Maintenance",
-   "stem": "The nurse taught a 42-year-old client who has many moles how to perform a monthly skin self-examination. Which statement by the client indicates a need for further teaching?",
-   "options": [
-    "“I'll use a full-length mirror and a hand mirror to see my back and the backs of my legs.”",
-    "“I'll ask my partner to check my scalp by parting my hair in sections.”",
-    "“A mole smaller than a pencil eraser isn't a concern, even if it's changing.”",
-    "“I'll take dated photos of my moles so I can compare them from month to month.”"
+    "Keep the infant in shade, in light long sleeves and a brimmed hat",
+    "Give the infant short periods of direct sun to build up tolerance"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "This is correct technique. Mirrors let the client see hard-to-view areas.",
-    "This is correct. A partner can check the scalp and other areas the client cannot see.",
-    "Correct choice because the statement is wrong. Evolving (the E in ABCDE) is one of the most important warning signs, and early melanomas can be smaller than 6 mm.",
-    "This is correct. Photos make it easier to spot changes in size, shape, or color."
+    "Incorrect. Infant skin is thin and absorbs more of what is applied, so sunscreen is limited to small exposed areas if shade and clothing are not enough.",
+    "Incorrect. Oil does not protect from UV and may increase burning.",
+    "Correct. Shade and protective clothing are the first-line protection for young infants.",
+    "Incorrect. A tan or 'tolerance' reflects UV damage."
    ],
-   "rationale": "Skin self-examination should cover the whole body, including the scalp, soles, between the toes, and nail beds, using mirrors or a partner. The diameter criterion (> 6 mm) is a guideline, not a rule. Any changing lesion, whatever its size, should be reported.",
+   "rationale": "Infant skin is thinner and absorbs more of whatever is put on it. For a young infant, sun protection starts with shade and clothing (hat, light long sleeves, avoiding midday sun). A small amount of sunscreen may be used on small exposed areas only if needed.",
+   "takeaway": "Young infants: shade and clothing first; sunscreen sparingly on small areas."
+  },
+  {
+   "id": "m21d-011",
+   "type": "mcq",
+   "topic": "skin-cancer-sun-protection",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the ABCDE rule and which letter is most important.",
+   "hintStrategy": "This is a negatively worded item: find the INCORRECT statement.",
+   "stem": "The nurse taught a 42-year-old client who has many moles how to perform a monthly skin self-examination. Which statement by the client indicates a need for further teaching?",
+   "options": [
+    "“I'll use a full-length mirror and a hand mirror to see my back and legs.”",
+    "“I'll ask my partner to check my scalp by parting my hair in sections.”",
+    "“I'll take dated photos of my moles so I can compare them month to month.”",
+    "“A mole under pencil-eraser size is fine, even if it's changing.”"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. This is correct. Mirrors help the client see hard-to-view areas.",
+    "Incorrect. This is correct. A partner can check the scalp and back.",
+    "Incorrect. This is correct. Photos make changes easier to detect.",
+    "Correct. This needs more teaching. Any evolving mole needs evaluation, whatever its size."
+   ],
+   "rationale": "Of the ABCDE warning signs, E (evolving) matters most: a mole that changes in size, shape, color, or height, or begins to itch, crust, or bleed, needs evaluation even if it is smaller than 6 mm.",
    "takeaway": "Any changing mole needs evaluation, whatever its size."
   },
   {
    "id": "m21d-012",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the genetic, UV-related, and skin-phenotype risk factors for melanoma.",
-   "hintStrategy": "Evaluate each option on its own as a true or false risk factor. Don't pick options just because they sound unhealthy.",
    "type": "sata",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Genetic Considerations & Risk Factors",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the genetic and UV-related risk factors for melanoma.",
+   "hintStrategy": "Judge each finding: does it add UV damage or genetic risk?",
    "stem": "The nurse is taking the health history of a 38-year-old client at a community skin cancer screening. Which findings increase the client's risk for melanoma? Select all that apply.",
    "options": [
     "Had several blistering sunburns as a teenager",
     "Has more than 50 moles on the trunk and limbs",
     "Works rotating night shifts as a security guard",
     "Father was diagnosed with melanoma at age 52",
-    "Has dark brown skin that rarely burns",
+    "Used tanning beds weekly in college to keep a base tan",
     "Has type 2 diabetes managed with metformin"
    ],
    "answer": [
     0,
     1,
-    3
+    3,
+    4
    ],
    "optionRationales": [
-    "Correct. Blistering sunburns add to UV damage and skin cancer risk.",
-    "Correct. Having many moles increases melanoma risk and calls for regular skin checks.",
-    "Incorrect. Night-shift work is not a skin cancer risk factor.",
-    "Correct. Genetics and family history increase risk.",
-    "Incorrect. Lighter skin has a higher risk of UV damage. Darker skin still needs sun protection and screening, but it is not a risk factor.",
-    "Incorrect. Diabetes affects wound healing and infection risk but is not a melanoma risk factor."
+    "Correct. Blistering sunburns damage skin-cell DNA and raise melanoma risk.",
+    "Correct. Many moles increase melanoma risk.",
+    "Incorrect. Night shift work reduces sun exposure and is not a melanoma risk factor.",
+    "Correct. A family history of melanoma raises risk.",
+    "Correct. Tanning beds deliver UV radiation. A base tan is not protective.",
+    "Incorrect. Diabetes affects skin healing and infection risk but is not a melanoma risk factor."
    ],
-   "rationale": "Melanoma risk factors include genetics and family history, lighter skin with a higher risk of UV damage, blistering sunburns, and many moles. Clients with these risk factors need close teaching and screening, and all clients need sun protection regardless of skin tone.",
-   "takeaway": "Burns + many moles + family history = high melanoma risk."
+   "rationale": "Melanoma risk rises with UV damage (blistering sunburns, tanning beds), many moles, and family history. These clients need monthly self-exams, yearly professional skin exams, and strict sun protection.",
+   "takeaway": "Sunburns, tanning beds, many moles, and family history raise melanoma risk."
   },
   {
    "id": "m21d-013",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "hintContent": "Recall the expected effects of common skin treatments and which finding after a procedure is not expected.",
-   "hintStrategy": "Sort the clients into expected/stable and unexpected/unstable. The client who needs to be called first has an unexpected problem that is getting worse.",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests (Skin Biopsy)",
+   "alsoTests": [
+    "skin-therapies-pharm",
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Recall what is expected after a biopsy and with benzoyl peroxide, and what is not.",
+   "hintStrategy": "Look for the actual, active problem. Expected effects are distractors.",
    "stem": "The nurse in a dermatology clinic is returning four telephone messages. Which client should the nurse call first?",
    "options": [
-    "A client 4 hours after a skin biopsy whose bandage is still soaked despite firm pressure",
-    "A 16-year-old using benzoyl peroxide gel who reports mild dryness and peeling of the face",
+    "A client 4 hours after a skin biopsy whose bandage stays soaked despite pressure",
     "A client with psoriasis who is asking for a refill of a topical cream",
+    "A 16-year-old using benzoyl peroxide gel who reports mild dryness and peeling of the face",
     "A client with athlete's foot who reports mild itching between the toes"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Bleeding that continues despite firm pressure after a biopsy is an active complication and needs immediate direction.",
-    "Dryness and peeling are expected effects of benzoyl peroxide.",
-    "A refill request is important but routine.",
-    "Mild itching is expected with athlete's foot and is not urgent."
+    "Correct. Bleeding that continues despite firm pressure after a biopsy is an active complication and needs prompt follow-up.",
+    "Incorrect. A refill request is not urgent.",
+    "Incorrect. Mild dryness and peeling are expected with benzoyl peroxide.",
+    "Incorrect. Mild tinea symptoms are not urgent."
    ],
-   "rationale": "The nurse deals first with an active, unexpected problem (uncontrolled bleeding after a biopsy) before expected medication effects or routine requests. Uncontrolled bleeding is a physiological threat. The other situations are expected or stable.",
-   "takeaway": "Active bleeding beats expected drug reactions and scheduling questions."
+   "rationale": "Biopsy teaching includes reporting bleeding that will not stop and signs of infection. Persistent bleeding despite pressure is an actual complication. Expected medication effects (benzoyl peroxide dryness), refills, and mild chronic symptoms can wait.",
+   "takeaway": "Uncontrolled bleeding after a procedure comes before expected drug effects or refills."
   },
   {
    "id": "m21d-014",
-   "cjmm": "Analyze Cues",
-   "focus": "Pathophysiology",
-   "hintContent": "Recall the difference between intrinsic and extrinsic aging and which one causes precancerous changes.",
-   "hintStrategy": "Consider the location (sun-exposed), the history (outdoor work, bald scalp), and the timeline. Eliminate responses that give false reassurance.",
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
-   "ref": "Module 21 · Tissue Integrity · Lifespan – Aging Process (Extrinsic Aging)",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Recall the difference between intrinsic and extrinsic aging and what actinic keratoses can become.",
+   "hintStrategy": "Connect the client's history (outdoor work, bald scalp) to the finding.",
    "stem": "A 70-year-old retired farmer who is bald has several rough, scaly pink patches on the scalp and the tops of both ears that have been present for about a year. The client asks, “Isn't this just normal aging skin?” Which response by the nurse is most accurate?",
    "options": [
-    "“Yes, these are normal changes that happen to everyone after about age 20.”",
-    "“Years of sun exposure can cause precancerous changes, so your provider should check these.”",
+    "“Yes, these are the normal changes that happen to everyone after about age 20.”",
     "“This is most likely a fungal infection that spreads easily between older adults.”",
-    "“Rough patches that come and go are harmless, so a thicker moisturizer is all you need.”"
+    "“Rough patches that come and go are harmless, so a thicker moisturizer is enough.”",
+    "“Sun damage can cause precancerous changes, so your provider should check these.”"
    ],
-   "answer": 1,
+   "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Intrinsic aging (starting around age 20) causes thinner, drier skin and wrinkles, not rough, scaly patches limited to sun-exposed areas.",
-    "Correct. Extrinsic aging from UV exposure causes skin thickening, wrinkling, and precancerous changes. Scaly patches on chronically sun-exposed skin need provider evaluation.",
-    "Fungal infections cause itchy, ring-shaped patches. The pattern on sun-exposed areas points to UV damage.",
-    "Dry skin is common with aging, but persistent scaly patches on sun-exposed skin need evaluation. This gives false reassurance."
+    "Incorrect. Intrinsic aging causes thin, dry skin and wrinkles, not rough, scaly patches.",
+    "Incorrect. Nothing suggests a fungal infection.",
+    "Incorrect. These patches have persisted for a year and need evaluation.",
+    "Correct. Extrinsic aging from UV causes precancerous changes such as actinic keratoses, which can become squamous cell carcinoma."
    ],
-   "rationale": "Intrinsic aging is the natural process that starts at about age 20. Extrinsic aging comes from UV, pollution, smoking, and chemicals and causes skin thickening, precancerous changes, and wrinkling. Scaly patches on the scalp and ears of a client with years of outdoor work need provider evaluation and strict sun protection.",
-   "takeaway": "Extrinsic (UV) aging → thickening, wrinkles, and precancerous changes. Refer scaly sun-exposed patches."
+   "rationale": "Intrinsic aging (time and genetics) thins and dries the skin. Extrinsic aging from UV, smoking, and chemicals causes thickening, wrinkling, and precancerous changes. Rough, scaly, pink patches on sun-exposed skin in an outdoor worker suggest actinic keratoses, which can become squamous cell carcinoma, so they should be evaluated.",
+   "takeaway": "Rough, scaly sun-damage patches are not just aging; refer for evaluation."
   },
   {
    "id": "m21d-015",
-   "cjmm": "Take Action",
-   "focus": "Prioritization",
-   "hintContent": "Identify the type of shock and its cause.",
-   "hintStrategy": "Several options may help. Choose the one that stops the cause of the problem.",
    "type": "mcq",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall the first-aid priorities for a bleeding wound and the signs of shock.",
+   "hintStrategy": "Treat the cause first. Which action stops the problem from getting worse?",
    "exhibit": {
     "tabs": [
      {
@@ -963,36 +751,37 @@ window.NURSE_DATA.push({
    "stem": "Refer to the Nurses' Notes and Vital Signs. Which action should the nurse take first?",
    "options": [
     "Establish IV access and begin infusing the prescribed IV fluids",
+    "Apply firm, direct pressure to the wound and elevate the leg",
     "Place the client in high Fowler's position",
-    "Administer epinephrine 0.3 mg IM",
-    "Apply firm, direct pressure to the wound and elevate the leg"
+    "Administer epinephrine 0.3 mg IM"
    ],
-   "answer": 3,
+   "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. IV fluids are needed to treat hypovolemic shock, but the source of blood loss must be controlled first.",
-    "Incorrect. High Fowler's position can worsen hypotension in shock.",
-    "Incorrect. Epinephrine treats anaphylaxis. There are no signs of an allergic reaction.",
-    "Correct. The client is in hypovolemic shock from active bleeding. Direct pressure and elevation stop further blood loss, which is the first priority."
+    "Incorrect. IV fluids will be needed, but stopping ongoing blood loss comes first.",
+    "Correct. Controlling the bleeding stops the cause of shock.",
+    "Incorrect. High Fowler's lowers blood flow to the brain in shock. The client is laid flat.",
+    "Incorrect. There is no sign of anaphylaxis."
    ],
-   "rationale": "Steady bright red bleeding with tachycardia, hypotension, pale cool clammy skin, delayed capillary refill, restlessness, and thirst indicate hypovolemic shock. The nurse first controls bleeding with firm direct pressure and elevation, then establishes IV access and infuses fluids, and monitors heart rate, blood pressure, and urine output.",
-   "takeaway": "Hemorrhagic shock: stop the bleeding first, then replace volume."
+   "rationale": "The client shows signs of shock from blood loss (tachycardia, low BP, cool clammy skin, restlessness) with a wound that is still bleeding. The first action is to stop the bleeding with firm, direct pressure and elevation, then call for help and anticipate IV fluids.",
+   "takeaway": "Shock from a bleeding wound: stop the bleeding first."
   },
   {
    "id": "m21d-016",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Ask whether each wound was created on purpose for care.",
-   "hintStrategy": "Evaluate each wound on its own: therapy or accident?",
    "type": "sata",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · Types of Wounds",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 1,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall the difference between intentional and unintentional wounds.",
+   "hintStrategy": "Ask for each wound: was it made on purpose?",
    "stem": "The nurse on a medical-surgical unit is documenting wounds for five clients. Which wounds should the nurse document as unintentional? Select all that apply.",
    "options": [
     "Arterial puncture site after blood gas sampling",
-    "Swollen, bruised thigh after striking a table edge; skin intact",
+    "Swollen, bruised thigh after striking a table edge, with skin intact",
     "Jagged palm laceration from a broken drinking glass",
     "Laparoscopic port incisions after cholecystectomy",
     "Forearm skin tear from bumping a wheelchair armrest"
@@ -1003,114 +792,120 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Incorrect. An arterial puncture is created on purpose for therapy or diagnosis, so it is an intentional, open wound.",
-    "Correct. A contusion from striking a table is accidental. It is also closed because the skin is intact.",
-    "Correct. A laceration from broken glass is accidental and open.",
-    "Incorrect. Surgical incisions are intentional, open wounds.",
-    "Correct. A skin tear from bumping an armrest is accidental and open."
+    "Incorrect. A puncture for therapy or testing is intentional.",
+    "Correct. An accidental contusion is an unintentional (closed) wound.",
+    "Correct. An accidental laceration is unintentional.",
+    "Incorrect. Surgical incisions are intentional.",
+    "Correct. An accidental skin tear is unintentional."
    ],
-   "rationale": "Intentional wounds are created for therapy, such as surgery or venipuncture. Unintentional wounds are accidental, such as lacerations, fractures, and contusions. Wounds are also classified as open (skin or mucous membrane broken) or closed (skin intact, underlying tissue injured).",
-   "takeaway": "Intentional = created for therapy. Unintentional = accidental."
+   "rationale": "Intentional wounds are made on purpose for therapy (surgery, venipuncture, arterial puncture). Unintentional wounds are accidents, whether open (laceration, skin tear) or closed (contusion).",
+   "takeaway": "Made for therapy = intentional; accident = unintentional."
   },
   {
    "id": "m21d-017",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall the four wound classes by contamination and what places a wound in the highest class.",
-   "hintStrategy": "Assign a class to each option, then pick the highest. Don't be distracted by details, like mesh, that don't change the class.",
    "type": "mcq",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · Wound Classification by Contamination",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 2,
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall the four contamination classes.",
+   "hintStrategy": "Classify each wound and choose the highest class.",
    "stem": "The nurse is receiving report on four postoperative clients. Based on wound classification by contamination, which client should the nurse monitor most closely for a wound infection?",
    "options": [
     "Elective total knee arthroplasty with no breaks in sterile technique",
-    "Laparoscopic cholecystectomy with controlled entry into the biliary tract",
     "Repair of an 18-hour-old open fracture containing soil and dead tissue",
+    "Laparoscopic cholecystectomy with controlled entry into the biliary tract",
     "Elective inguinal hernia repair with placement of synthetic mesh"
    ],
-   "answer": 2,
+   "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Clean. Sterile technique was maintained and no tract was entered, so the risk is lowest.",
-    "Clean-contaminated. Controlled entry into the biliary tract carries a moderate risk.",
-    "Correct. An old traumatic wound with soil and dead tissue is dirty/infected, which has the highest infection risk.",
-    "Clean. Mesh adds a foreign body, but the wound class is still clean."
+    "Incorrect. This is a clean wound, the lowest risk.",
+    "Correct. Dead tissue and soil in an old traumatic wound make it dirty/infected, the highest risk.",
+    "Incorrect. Controlled tract entry is clean-contaminated.",
+    "Incorrect. This is a clean wound."
    ],
-   "rationale": "Wound classes rank infection risk: clean < clean-contaminated < contaminated < dirty/infected. Old traumatic wounds with dead tissue, purulent drainage, or an existing infection are dirty/infected. These clients need the closest monitoring for signs of infection.",
-   "takeaway": "Old trauma + dead tissue + soil = dirty/infected = highest infection risk."
+   "rationale": "Infection risk rises with the contamination class. An old traumatic wound with soil and dead tissue is dirty/infected, the highest class.",
+   "takeaway": "Dirty/infected wound = monitor most closely."
   },
   {
    "id": "m21d-018",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall the type of wound (open or closed) and the acute-care measure for pain and swelling.",
-   "hintStrategy": "Identify the wound type first, then eliminate actions that increase swelling or treat the wrong type of wound.",
    "type": "mcq",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 1,
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "Recall what happens under the skin in a contusion and how cold affects vessels.",
+   "hintStrategy": "Eliminate options that would increase bleeding under the skin.",
    "stem": "A client bumped the thigh on a table edge 1 hour ago. The area is swollen, tender, and bruised, and the skin is intact. Which action should the nurse take first to manage the pain and swelling?",
    "options": [
-    "Apply a cloth-wrapped ice pack to the area",
     "Apply a heating pad to the area on the high setting",
     "Massage the area firmly to break up the bruise",
-    "Cover the area with a sterile occlusive dressing"
+    "Cover the area with a sterile occlusive dressing",
+    "Apply a cloth-wrapped ice pack to the area"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Heat dilates vessels and increases bleeding and swelling early on.",
+    "Incorrect. Massage can increase bleeding into the tissue.",
+    "Incorrect. The skin is intact, so a dressing is not needed.",
+    "Correct. Cold narrows vessels, slowing bleeding and swelling and numbing pain."
+   ],
+   "rationale": "A contusion is a closed wound: the skin is intact, but vessels underneath bleed into the tissue. Ice wrapped in a cloth, plus elevation, slows bleeding and swelling and reduces pain.",
+   "takeaway": "Fresh contusion: wrapped ice and elevation."
+  },
+  {
+   "id": "m21d-019",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall the order of care for a fresh wound.",
+   "hintStrategy": "All options may be done. Choose the first step.",
+   "stem": "A 10-year-old is brought to the school nurse after falling off a bicycle onto a gravel path. The child has a 4-cm knee abrasion that is oozing blood and has small pieces of gravel embedded in it. After performing hand hygiene and putting on clean gloves, which action should the nurse take first?",
+   "options": [
+    "Apply gentle pressure with clean gauze until the oozing stops",
+    "Irrigate the abrasion with normal saline to flush out the gravel",
+    "Apply a thin layer of petrolatum or antibiotic ointment",
+    "Cover the abrasion with a nonadherent dressing"
    ],
    "answer": 0,
    "priority": true,
    "optionRationales": [
-    "Correct. Ice manages pain and swelling after an acute injury. Wrapping it protects the skin.",
-    "Heat on a fresh injury increases blood flow and swelling, and a high setting risks a burn.",
-    "Firm massage can increase bleeding and tissue damage in a fresh contusion.",
-    "The skin is intact, so this closed wound does not need a sterile dressing."
+    "Correct. Bleeding is controlled first.",
+    "Incorrect. Irrigation to remove debris comes after bleeding is controlled.",
+    "Incorrect. Ointment comes after cleaning.",
+    "Incorrect. Covering comes last."
    ],
-   "rationale": "A contusion is a closed, unintentional wound: the skin is intact but the tissue underneath is injured. Acute wound care includes applying ice to manage pain and swelling and assessing for bleeding and shock.",
-   "takeaway": "Closed wound (contusion): wrapped ice for pain and swelling."
-  },
-  {
-   "id": "m21d-019",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall the sequence for acute care of an untreated wound.",
-   "hintStrategy": "All options are correct steps. Choose the one that comes first in the sequence.",
-   "type": "mcq",
-   "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A 10-year-old child is brought to the school nurse after falling off a bicycle onto a gravel path. The child has a 4-cm abrasion on the knee that is oozing blood and has small pieces of gravel embedded in it. After performing hand hygiene and putting on clean gloves, which action should the nurse take first?",
-   "options": [
-    "Irrigate the abrasion with normal saline or running tap water to flush out the gravel",
-    "Apply a thin layer of petrolatum or antibiotic ointment",
-    "Apply gentle pressure with clean gauze until the oozing stops",
-    "Cover the abrasion with a nonadherent dressing"
-   ],
-   "answer": 2,
-   "priority": true,
-   "optionRationales": [
-    "Incorrect. Irrigation to remove debris is important to prevent infection, but bleeding is controlled first.",
-    "Incorrect. Ointment is applied after the wound is clean.",
-    "Correct. Controlling bleeding comes first in untreated wound care. Gentle pressure stops the oozing so the wound can then be cleaned.",
-    "Incorrect. A dressing is applied last, after the wound is cleaned and treated."
-   ],
-   "rationale": "For an untreated wound, the nurse controls bleeding with pressure (and elevation), cleans the wound to remove debris and prevent infection, applies a thin layer of petrolatum or antibiotic ointment, covers it with a nonadherent dressing, and teaches the signs of infection.",
-   "takeaway": "Stop bleeding → clean → ointment → cover → teach."
+   "rationale": "The sequence for an untreated wound is: control bleeding, clean with saline (removing debris such as gravel), then cover. Teaching the family the signs of infection follows.",
+   "takeaway": "Stop the bleeding, then clean, then cover."
   },
   {
    "id": "m21d-020",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the signs of shock listed for acute wounds and how anticoagulants affect bleeding.",
-   "hintStrategy": "Consider which findings are expected for the type of injury and which signal a threat to circulation or perfusion.",
    "type": "sata",
    "topic": "wound-types-classification",
-   "ref": "Module 21 · Tissue Integrity · Wound Care (Acute Settings)",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
    "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A client is 2 hours post admission after a motorcycle crash, with road-rash abrasions on the left forearm and a closed contusion of the left thigh. The client takes an anticoagulant for atrial fibrillation. Which findings require immediate follow-up? Select all that apply.",
+   "hintContent": "Recall how a closed wound can hide bleeding and what a prolonged INR means for bleeding.",
+   "hintStrategy": "Separate expected injury findings from signs of ongoing blood loss.",
+   "stem": "A client is 2 hours post admission after a motorcycle crash, with road-rash abrasions on the left forearm and a closed contusion of the left thigh. The client takes an anticoagulant for atrial fibrillation, and the INR is 3.9. Which findings require immediate follow-up? Select all that apply.",
    "options": [
     "Heart rate 124/min with cool, clammy skin",
     "Tense, enlarging thigh swelling",
@@ -1125,27 +920,30 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Correct. A rapid pulse with cool, clammy skin is a sign of shock. A closed wound can hide major bleeding, especially in a client on an anticoagulant.",
-    "Correct. Tense, enlarging swelling under intact skin suggests ongoing bleeding into the tissue.",
-    "Incorrect. Serous oozing is expected from partial-thickness abrasions.",
-    "Incorrect. Bruising is expected after blunt trauma. It should be monitored, but it is not an emergency by itself.",
-    "Correct. Low blood pressure with restlessness is another sign of shock.",
-    "Incorrect. Mild pain at abrasion sites is expected and can be managed with routine interventions."
+    "Correct. Tachycardia with cool, clammy skin is an early sign of shock.",
+    "Correct. A tense, enlarging contusion suggests ongoing hidden bleeding, a real risk with a prolonged INR.",
+    "Incorrect. Serous oozing from abrasions is expected.",
+    "Incorrect. Bruising is expected after a crash.",
+    "Correct. Low BP with restlessness indicates shock.",
+    "Incorrect. Moderate pain is expected and managed routinely."
    ],
-   "rationale": "Closed wounds keep the skin intact but can hide serious bleeding, especially when clotting is prolonged by an anticoagulant. The nurse recognizes signs of shock (rapid pulse, clammy skin, low BP, restlessness) and expanding swelling, and separates them from the expected findings of superficial wounds.",
-   "takeaway": "Closed wound + anticoagulant: watch for shock and tense, expanding swelling."
+   "rationale": "Closed wounds can hide bleeding. A prolonged clotting time (high INR from an anticoagulant) increases the risk of excessive bleeding, so a tense, enlarging contusion plus signs of shock (tachycardia, cool clammy skin, low BP, restlessness) need immediate action.",
+   "takeaway": "Anticoagulant + enlarging contusion + shock signs = hidden bleeding."
   },
   {
    "id": "m21d-021",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Compare each value with normal ranges and recall its role in healing.",
-   "hintStrategy": "Evaluate each result on its own. Normal values are not contributing.",
    "type": "sata",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · Laboratory Data – Wound Healing",
-   "difficulty": 2,
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall how each lab affects healing and how chemotherapy affects the immune system.",
+   "hintStrategy": "Mark each value normal or abnormal first.",
    "exhibit": {
     "tabs": [
      {
@@ -1170,85 +968,95 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Correct. Low hemoglobin reduces oxygen delivery to healing tissue.",
-    "Correct. A low WBC from chemotherapy weakens defense against infection and delays healing.",
-    "Incorrect. The sodium level is normal.",
-    "Correct. Albumin below 3.5 g/dL indicates poor nutrition and increases the risk of infection and delayed healing.",
-    "Incorrect. The INR is normal, so clotting is not affecting the wound.",
-    "Correct. Hyperglycemia impairs circulation and immune function, slowing healing."
+    "Correct. Low hemoglobin reduces oxygen delivery to the wound.",
+    "Correct. A low WBC, likely from chemotherapy, weakens infection defense and slows healing.",
+    "Incorrect. The sodium is normal.",
+    "Correct. Albumin below 3.5 g/dL reflects poor nutrition.",
+    "Incorrect. The INR is normal.",
+    "Correct. High glucose slows healing."
    ],
-   "rationale": "Wound healing depends on oxygen delivery, infection defense, and nutrition. This client's low hemoglobin, low WBC from chemotherapy, low albumin, and high glucose all impair healing. The sodium and INR are normal.",
-   "takeaway": "Low Hgb, low WBC, low albumin, and high glucose delay healing."
+   "rationale": "Chemotherapy suppresses the immune system and impairs healing, and the labs show why: low WBC (poor infection defense), low hemoglobin (less oxygen), low albumin (poor nutrition, also seen in the 40% intake), and high glucose. Normal sodium and INR are distractors.",
+   "takeaway": "↓ WBC, ↓ Hgb, ↓ albumin, and ↑ glucose all delay healing."
   },
   {
    "id": "m21d-022",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Recall what a prolonged INR means for clotting and why warfarin clients are at risk for wound bleeding.",
-   "hintStrategy": "The stem asks what to do FIRST. Choose the safe, independent nursing action that addresses the immediate problem.",
    "type": "mcq",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · Laboratory Data – Wound Healing",
+   "alsoTests": [
+    "wound-types-classification"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall what a high INR means and the first step for a bleeding wound.",
+   "hintStrategy": "Choose the independent action that stops the bleeding.",
    "stem": "A client who takes warfarin for atrial fibrillation had a 3-cm scalp laceration sutured 3 hours ago. The dressing is saturated with bright red blood, and blood is oozing steadily from the suture line. Today's INR is 4.6. Which action should the nurse take first?",
    "options": [
-    "Apply firm direct pressure to the site and notify the provider of the INR",
     "Give the scheduled evening warfarin dose and recheck the INR in the morning",
     "Remove one suture so the wound can be packed with dry gauze",
+    "Apply firm direct pressure to the site and notify the provider of the INR",
     "Administer vitamin K 10 mg IV from the unit's stock supply"
    ],
-   "answer": 0,
+   "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Correct. Direct pressure controls the bleeding right away. A supratherapeutic INR (the usual goal for atrial fibrillation is 2.0–3.0) with active bleeding must be reported so reversal can be considered.",
-    "Giving more anticoagulant with an elevated INR and active bleeding would worsen the bleeding.",
-    "Removing sutures would reopen the wound and increase bleeding. Packing is not indicated.",
-    "Vitamin K requires a prescription. The dose and route must be decided by the provider based on the INR and bleeding severity."
+    "Incorrect. Giving more anticoagulant would worsen the bleeding.",
+    "Incorrect. The nurse does not remove sutures to treat bleeding.",
+    "Correct. Pressure controls the bleeding, and the provider must know about the high INR.",
+    "Incorrect. Vitamin K requires a prescription."
    ],
-   "rationale": "Prolonged coagulation times increase bleeding from wounds. The first action is to control the bleeding with direct pressure, then use SBAR to report the INR and bleeding so the provider can adjust anticoagulation.",
-   "takeaway": "Bleeding + high INR: apply pressure first, then call."
+   "rationale": "A prolonged clotting time (high INR) causes excessive bleeding from wounds. Wound first aid applies: firm direct pressure first, then notify the provider with the INR and monitor for shock.",
+   "takeaway": "Bleeding + high INR: pressure first, then notify the provider."
   },
   {
    "id": "m21d-023",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
-   "hintContent": "Recall the type of hypersensitivity reaction involved in allergic contact dermatitis and how long it takes to appear.",
-   "hintStrategy": "You are looking for the correct statement. Eliminate statements that would compromise the test or stop it too early.",
    "type": "mcq",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
    "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A hairstylist with recurrent hand dermatitis has allergy patch tests placed on the upper back. After the nurse's teaching, which statement by the client indicates understanding of the procedure?",
+   "hintContent": "Recall the timing of allergic contact dermatitis and how the patch test matches it.",
+   "hintStrategy": "Look for the statement that respects the delayed timing.",
+   "stem": "A hairstylist with a recurring itchy hand rash, suspected to be an allergic reaction to hair products, has allergy patch tests placed on the upper back. After the nurse's teaching, which statement by the client indicates understanding of the procedure?",
    "options": [
     "“I can shower normally tomorrow because the patches are waterproof.”",
     "“I'll peel the patches off tonight if they itch so the reaction doesn't spread.”",
-    "“If there's no redness when the patches are removed, the test is finished.”",
-    "“I'll keep my back dry and return at 48 hours and again 1–2 days later.”"
+    "“I'll keep my back dry and come back at 48 hours and again a few days later.”",
+    "“If there's no redness when the patches come off, the test is finished.”"
    ],
-   "answer": 3,
+   "answer": 2,
    "priority": false,
    "optionRationales": [
-    "The back must stay dry, because moisture can loosen the patches and make the results unreliable.",
-    "The patches must stay in place for the full 48 hours. Removing them early invalidates the test.",
-    "Allergic contact dermatitis is a delayed (type IV) reaction, and some reactions appear only at the second reading.",
-    "Correct. Patches stay dry and in place for 48 hours. They are read at removal and again at about 72 to 96 hours."
+    "Incorrect. The patches must stay dry for about 48 hours.",
+    "Incorrect. Removing patches early invalidates the test.",
+    "Correct. Allergic contact dermatitis is a delayed reaction, so the patches stay on and dry about 48 hours and are read again days later.",
+    "Incorrect. A second reading is needed because delayed reactions take days to appear."
    ],
-   "rationale": "Patch testing identifies the allergen in allergic contact dermatitis. Allergens stay in place under occlusion for 48 hours with the back kept dry. They are read at removal and again 2 to 4 days later, because delayed hypersensitivity reactions can take several days to develop.",
-   "takeaway": "Patch test: keep dry 48 hours, and a second reading is needed."
+   "rationale": "Allergic contact dermatitis is a delayed immune reaction that appears 1–3 days after exposure. That is why the patch test keeps allergens on the skin for about 48 hours (kept dry) and is read at removal and again a few days later.",
+   "takeaway": "Patch test: keep dry about 48 hours and return for a delayed reading."
   },
   {
    "id": "m21d-024",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Identify the likely cause of each finding first.",
-   "hintStrategy": "Choose only the findings that suggest a possible skin cancer.",
    "type": "sata",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests",
+   "alsoTests": [
+    "skin-cancer-sun-protection",
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
    "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall which test matches which cause and how suspicious skin cancers look.",
+   "hintStrategy": "Name the likely cause of each lesion before choosing.",
    "stem": "The nurse in a dermatology clinic is preparing for several clients. For which findings should the nurse anticipate that the provider will order a skin biopsy? Select all that apply.",
    "options": [
     "Itchy, scaly, ring-shaped patch with central clearing in the groin",
@@ -1262,26 +1070,29 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Incorrect. A ring-shaped scaly patch suggests tinea. A KOH preparation confirms fungal infection.",
-    "Incorrect. Painful clustered vesicles suggest herpes simplex. A Tzanck test identifies viral lesions.",
-    "Correct. A changing mole with irregular borders suggests melanoma. A biopsy determines whether it is benign or cancerous.",
-    "Incorrect. Macerated skin between the toes suggests tinea pedis, confirmed with a KOH preparation.",
-    "Correct. A pearly nodule with rolled edges suggests basal cell carcinoma, which is confirmed by biopsy."
+    "Incorrect. A scaly ring suggests tinea, which is confirmed with a KOH prep.",
+    "Incorrect. Painful clustered vesicles suggest herpes, which is evaluated with a Tzanck test.",
+    "Correct. A mole meeting ABCDE criteria is biopsied to rule out melanoma.",
+    "Incorrect. Peeling skin between the toes suggests tinea pedis (KOH prep).",
+    "Correct. A pearly nodule with rolled edges suggests basal cell carcinoma."
    ],
-   "rationale": "A skin biopsy identifies whether a lesion is benign or cancerous, so it is anticipated for suspected melanoma and basal cell carcinoma. A KOH preparation confirms fungal infections, and a Tzanck test identifies viral lesions.",
-   "takeaway": "Biopsy = possible cancer. KOH = fungus. Tzanck = virus."
+   "rationale": "Each test answers a different question. A biopsy tells benign from cancerous tissue, so it is anticipated for lesions suspicious for cancer (ABCDE mole, pearly nodule). Fungal lesions call for a KOH prep and viral vesicles for a Tzanck test.",
+   "takeaway": "Suspected cancer → biopsy; fungus → KOH; herpes → Tzanck."
   },
   {
    "id": "m21d-025",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Recall why a nasal culture is ordered for repeated skin infections and how bacteria spread between people.",
-   "hintStrategy": "Judge each instruction on its own. Ask whether it reduces the bacteria the client carries or spreads, or whether it increases risk.",
    "type": "sata",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · Diagnostic Tests",
+   "alsoTests": [
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
    "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Recall what a positive carrier study means and how skin infections spread.",
+   "hintStrategy": "Evaluate each instruction: does it prevent spread or complete treatment?",
    "stem": "A high school wrestler has had a third episode of boils in 4 months. A nasal carrier culture is positive for Staphylococcus aureus, and the provider prescribes treatment. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "Wash your hands often, especially after touching a boil",
@@ -1298,56 +1109,61 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Correct. Hand hygiene prevents spreading the bacteria to other skin sites and other people.",
-    "Correct. Good hygiene and using only personal towels reduce the bacteria on the skin and prevent spread.",
-    "Incorrect. Squeezing boils can push bacteria deeper and spread infection. Drainage should be done by a provider.",
-    "Correct. Staph spreads through shared personal items and equipment, which is especially important in contact sports.",
-    "Correct. Covering draining lesions prevents spread to others.",
-    "Incorrect. The full course must be completed, or the infection and carrier state can return."
+    "Correct. Hand hygiene prevents spread and self-reinfection.",
+    "Correct. Showering and personal towels reduce spread.",
+    "Incorrect. Squeezing spreads bacteria deeper and to others.",
+    "Correct. Shared items spread staph.",
+    "Correct. Covering draining lesions prevents spread.",
+    "Incorrect. The full course is needed to clear the carrier state."
    ],
-   "rationale": "Carrier studies (nasal cultures) are used for clients with repeated infections to see whether they carry the bacteria. Along with prescribed treatment, hygiene measures (hand hygiene, not sharing personal items, covering lesions) reduce recurrence and spread.",
-   "takeaway": "Repeated boils → nasal carrier culture → treat, cover, wash hands, and stop sharing."
+   "rationale": "A nasal carrier study detects staph living in the nose that keeps reinfecting the skin. Teaching combines the treatment with infection-prevention basics: complete the prescribed treatment, hand hygiene, cover lesions, and do not share personal items.",
+   "takeaway": "Staph carrier: finish treatment, cover lesions, wash hands, don't share."
   },
   {
    "id": "m21d-027",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
-   "hintContent": "Interpret the albumin level and weight loss, then think about what healing tissue needs.",
-   "hintStrategy": "Eliminate options that would reduce nutrition further.",
    "type": "mcq",
    "topic": "diagnostics-labs-nutrition",
-   "ref": "Module 21 · Tissue Integrity · Laboratory Data – Wound Healing",
-   "difficulty": 3,
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "Recall what low albumin means for healing.",
+   "hintStrategy": "Eliminate options that reduce nutrients.",
    "stem": "A 76-year-old client with a slowly healing leg wound has lost 4 kg (8.8 lb) in 2 months and eats about half of each meal. The albumin level is 2.9 g/dL. Which action is the nurse's priority?",
    "options": [
-    "Request a dietitian consult and offer protein supplements",
     "Restrict protein intake to reduce the workload on the kidneys",
+    "Request a dietitian consult and offer protein supplements",
     "Encourage a low-calorie diet to prevent further weight change",
     "Hold meals until the wound shows signs of healing"
    ],
-   "answer": 0,
+   "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Correct. An albumin below 3.5 g/dL with weight loss indicates poor nutrition, which increases infection risk and delays healing. A dietitian consult and small, frequent high-protein meals or supplements address the cause.",
-    "Incorrect. Healing tissue needs more protein, not less. There is no indication of kidney disease.",
-    "Incorrect. Healing requires increased calories, protein, and vitamins A and C.",
-    "Incorrect. Withholding food worsens malnutrition and delays healing further."
+    "Incorrect. Protein is needed to build new tissue.",
+    "Correct. Low albumin, weight loss, and poor intake indicate poor nutrition that is delaying healing.",
+    "Incorrect. Healing increases calorie needs.",
+    "Incorrect. Withholding food worsens nutrition."
    ],
-   "rationale": "Albumin below 3.5 g/dL reflects poor nutrition and increases the risk of infection and delayed healing. The nurse promotes healing with increased calories, protein, and vitamins A and C, small frequent meals or supplements, and a dietitian consult.",
-   "takeaway": "Low albumin + weight loss → dietitian, protein, and small frequent meals."
+   "rationale": "Albumin below 3.5 g/dL with weight loss and poor intake means poor nutrition, which increases infection risk and delays healing. The nurse requests a dietitian consult and increases protein and calories.",
+   "takeaway": "Low albumin + weight loss = dietitian and more protein."
   },
   {
    "id": "m21d-030",
-   "cjmm": "Generate Solutions",
-   "focus": "Pharmacology",
-   "hintContent": "Consider which conditions are minor and self-limited versus chronic or widespread.",
-   "hintStrategy": "Evaluate each condition on its own.",
    "type": "sata",
    "topic": "skin-therapies-pharm",
-   "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
+   "alsoTests": [
+    "inflammatory-skin-disorders",
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
    "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall which disorders the slides list for OTC versus prescription treatment.",
+   "hintStrategy": "Ask whether each condition is minor and short-term or chronic.",
    "stem": "The clinic nurse is helping several clients choose treatments. Which conditions are usually treated first with an over-the-counter (OTC) product? Select all that apply.",
    "options": [
     "Mild acne with a few whiteheads on the forehead",
@@ -1362,26 +1178,29 @@ window.NURSE_DATA.push({
     2
    ],
    "optionRationales": [
-    "Correct. Minor acne is usually treated first with OTC benzoyl peroxide or salicylic acid.",
-    "Correct. Head lice are usually treated first with an OTC pediculicide.",
-    "Correct. Mild sunburn is managed with OTC products.",
-    "Incorrect. Psoriasis is a chronic disorder usually treated with prescription oral or topical medications.",
-    "Incorrect. A widespread eczema flare usually requires prescription medication."
+    "Correct. Minor acne is treated with OTC benzoyl peroxide or salicylic acid.",
+    "Correct. Minor lice cases are treated with an OTC pediculicide.",
+    "Correct. Mild sunburn is managed with OTC soothing products and pain relievers.",
+    "Incorrect. Psoriasis, a chronic inflammatory disorder, needs prescription medicines.",
+    "Incorrect. Eczema flares need prescription topical or oral medicines."
    ],
-   "rationale": "OTC medications are used for minor acne, lice, and sunburn. Prescription oral and topical medications are used for eczema, psoriasis, and dermatitis.",
+   "rationale": "OTC products treat minor acne (inflammatory), lice (parasitic infection), and sunburn (a burn). Chronic inflammatory disorders such as eczema, psoriasis, and dermatitis need prescription medicines.",
    "takeaway": "OTC: minor acne, lice, sunburn. Prescription: eczema, psoriasis, dermatitis."
   },
   {
    "id": "m21d-031",
-   "cjmm": "Generate Solutions",
-   "focus": "Client Teaching",
-   "hintContent": "Recall the factors that increase the absorption and adverse effects of topical steroids: potency, thin skin, occlusion, large areas, and long duration.",
-   "hintStrategy": "Treat each statement as true or false. Ask whether it limits or increases the amount of steroid absorbed.",
    "type": "sata",
    "topic": "skin-therapies-pharm",
-   "ref": "Module 21 · Tissue Integrity · Pharmacologic Therapy",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
    "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall how topical corticosteroids are applied safely and their adverse effects.",
+   "hintStrategy": "Eliminate 'more is better' options.",
    "stem": "A client with thick psoriatic plaques on both elbows and knees is prescribed a high-potency topical corticosteroid ointment twice daily for 2 weeks. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "Apply a thin film only to the plaques and rub it in gently",
@@ -1389,64 +1208,69 @@ window.NURSE_DATA.push({
     "Wrap the plaques in plastic wrap overnight to boost the effect",
     "Report thinning skin, stretch marks, or easy bruising where you apply it",
     "Apply a thick layer so the medicine lasts longer",
-    "Keep applying it every day, even after the plaques have cleared"
+    "Use it only for the 2 weeks prescribed, then follow up with your provider"
    ],
    "answer": [
     0,
-    3
+    3,
+    5
    ],
    "optionRationales": [
-    "Correct. A thin layer applied only to affected skin limits absorption and adverse effects.",
-    "Incorrect. Facial skin is thin and absorbs more steroid. Stronger products should not be used on the face.",
-    "Incorrect. Occlusion greatly increases absorption and should be used only when prescribed.",
-    "Correct. Thinning skin, stretch marks, and easy bruising are local adverse effects and mean the regimen needs review.",
-    "Incorrect. A thick layer increases absorption and side effects without improving the effect.",
-    "Incorrect. Stronger topical steroids are used for short courses as prescribed to prevent skin thinning."
+    "Correct. A thin film on the plaques limits absorption.",
+    "Incorrect. High-potency steroids should not be used on the face, where thin skin absorbs more.",
+    "Incorrect. Occlusion increases absorption and is used only if prescribed.",
+    "Correct. These are signs of skin thinning from steroid overuse.",
+    "Incorrect. A thick layer increases absorption without better results.",
+    "Correct. Psoriasis is chronic, and the provider manages it long term; the high-potency steroid is used only for the prescribed short course."
    ],
-   "rationale": "Prescription topical corticosteroids treat psoriasis, eczema, and dermatitis. Teaching focuses on applying a thin layer to affected skin only, avoiding the face and skin folds and occlusion unless prescribed, following the prescribed duration, and reporting skin thinning.",
-   "takeaway": "Topical steroid: thin layer, short course, not on the face, no occlusion unless prescribed."
+   "rationale": "Psoriasis is a chronic immune-related disorder treated with prescription medicines, often topical corticosteroids. Safe use: thin layer on the plaques only, no face or skin folds, no occlusion unless ordered, for the prescribed course only, and report signs of skin thinning.",
+   "takeaway": "Topical steroid: thin layer, plaques only, no wrap, short course, report thinning."
   },
   {
    "id": "m21d-032",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
-   "hintContent": "Recall the benefits and the limits of complementary skin therapies and the risks they can carry for clients who take other medicines.",
-   "hintStrategy": "Look for the statement that is safe and complete. Eliminate statements that replace prescribed care, ignore a reaction, or hide information from the provider.",
    "type": "mcq",
    "topic": "skin-therapies-pharm",
-   "ref": "Module 21 · Tissue Integrity · Nonpharmacologic & Complementary Therapy",
-   "difficulty": 1,
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall the risks of complementary skin products.",
+   "hintStrategy": "Look for the statement that is safe and complete.",
    "stem": "A client with atopic dermatitis who takes warfarin asks about using aloe vera gel and evening primrose oil capsules. After the nurse's teaching, which statement by the client indicates understanding?",
    "options": [
     "“Aloe vera is natural, so I can keep using it even if my skin burns or stings.”",
-    "“I'll tell my provider about the evening primrose oil so it can be checked with my warfarin.”",
-    "“I'll stop my prescribed cream while I find out whether the herbal products work alone.”",
-    "“If I test the aloe on a small patch of skin first, I won't need to mention it to anyone.”"
+    "“I'll stop my prescribed cream while I see whether the herbal products work alone.”",
+    "“If I test the aloe on a small patch of skin first, I won't need to mention it to anyone.”",
+    "“I'll tell my provider about the primrose oil so it can be checked with my warfarin.”"
    ],
-   "answer": 1,
+   "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Natural products can cause irritant or allergic contact dermatitis. Burning or stinging means the product should be stopped.",
-    "Correct. Evening primrose oil may increase bleeding risk with anticoagulants. The provider and pharmacist need a full list of supplements to check for interactions.",
-    "Complementary therapies may soothe the skin, but evidence for them is limited. They are used alongside, not instead of, prescribed treatment.",
-    "A patch test may detect a skin reaction, but it does not detect drug interactions. All supplements should be reported to the provider."
+    "Incorrect. Burning or stinging means the product should be stopped.",
+    "Incorrect. Complementary products are used alongside, not instead of, prescribed care.",
+    "Incorrect. The provider should know about every product used.",
+    "Correct. Evening primrose oil may increase bleeding risk with warfarin."
    ],
-   "rationale": "Complementary therapies such as aloe vera, chamomile, and evening primrose oil may soothe irritated skin, but the evidence for them is limited. The nurse respects the client's choices while teaching the client to report all supplements, watch for allergic or irritant reactions, continue prescribed therapy, and let the provider check for interactions, such as increased bleeding risk with anticoagulants.",
-   "takeaway": "Complementary skin products: use alongside prescribed care, watch for reactions, and always report them to the provider."
+   "rationale": "Complementary products may soothe the skin, but evidence is limited, and they can cause allergies and drug interactions. Evening primrose oil may increase bleeding risk with a blood thinner.",
+   "takeaway": "Natural is not automatically safe; tell the provider about everything."
   },
   {
    "id": "m21d-033",
-   "cjmm": "Recognize Cues",
-   "focus": "Pharmacology",
-   "hintContent": "Recall the medication groups listed as risk factors for skin changes.",
-   "hintStrategy": "Judge each medication separately. Ask whether it belongs to one of the listed risk groups.",
    "type": "sata",
    "topic": "skin-therapies-pharm",
-   "ref": "Module 21 · Tissue Integrity · Modifiable Risk Factors",
+   "alsoTests": [
+    "skin-cancer-sun-protection"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
    "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "The nurse is reviewing a client's medication list during a skin assessment. Which medications may thin the skin or increase sun sensitivity? Select all that apply.",
+   "hintContent": "Recall the four drug classes the slides link to skin thinning or sun sensitivity.",
+   "hintStrategy": "Classify each medication by drug class.",
+   "stem": "The nurse is reviewing a client's medication list during a skin assessment before the client leaves for a summer beach vacation. Which medications may thin the skin or increase sun sensitivity? Select all that apply.",
    "options": [
     "Prednisone 10 mg daily for 2 years",
     "Doxycycline 100 mg twice daily",
@@ -1462,15 +1286,15 @@ window.NURSE_DATA.push({
     4
    ],
    "optionRationales": [
-    "Correct. Long-term steroids thin the skin and slow healing.",
-    "Correct. Some antibiotics, such as doxycycline, increase sun sensitivity.",
-    "Correct. Chemotherapy can affect the skin and increase sun sensitivity.",
-    "Incorrect. Acetaminophen does not thin the skin or increase sun sensitivity.",
-    "Correct. Some antifungals increase sun sensitivity.",
-    "Incorrect. Vitamin C supports collagen formation and healing."
+    "Correct. Long-term steroids thin the skin.",
+    "Correct. Doxycycline increases sun sensitivity.",
+    "Correct. Chemotherapy may thin the skin or increase sun sensitivity.",
+    "Incorrect. Acetaminophen does not have these effects.",
+    "Correct. Antifungals are among the medications that may increase sun sensitivity.",
+    "Incorrect. Vitamin C supports collagen formation."
    ],
-   "rationale": "Medications are a modifiable risk factor for skin problems. Steroids, antibiotics, chemotherapy, and antifungals may thin the skin or increase sun sensitivity, so clients taking them need skin protection and sun-protection teaching.",
-   "takeaway": "Steroids, antibiotics, chemotherapy, antifungals: thinner skin or more sun sensitivity."
+   "rationale": "The slides name steroids, antibiotics, chemotherapy, and antifungals as medications that may thin the skin or increase sun sensitivity. For a client heading to the beach, the nurse links the medication list to sun-protection teaching: clothing, shade, and broad-spectrum SPF 30+.",
+   "takeaway": "Steroids, antibiotics, chemo, and antifungals → gentle skin care and sun protection."
   }
  ]
 });

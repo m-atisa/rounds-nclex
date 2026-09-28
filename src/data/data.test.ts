@@ -7,12 +7,6 @@ describe('content integrity', () => {
     expect(MODULES.map((m) => m.number)).toEqual([10, 15, 16, 21]);
   });
 
-  it('keeps NGN case studies complete and ordered', () => {
-    const cases = new Map<string, number[]>();
-    QUESTIONS.filter((q) => q.caseId).forEach((q) => cases.set(q.caseId!, [...(cases.get(q.caseId!) ?? []), q.caseOrder ?? 0]));
-    for (const [, orders] of cases) expect([...orders].sort((a, b) => a - b)).toEqual(orders.map((_, i) => i + 1));
-  });
-
   it('has full lessons for every topic', () => {
     for (const m of MODULES)
       for (const t of m.topics) {
@@ -31,6 +25,16 @@ describe('content integrity', () => {
       const m = MODULES.find((x) => x.id === q.moduleId)!;
       expect(['mcq', 'sata']).toContain(q.type);
       if (q.type === 'mcq') expect(typeof q.priority).toBe('boolean');
+      expect(q.caseId).toBeUndefined();
+      expect(Array.isArray(q.alsoTests)).toBe(true);
+      for (const t of q.alsoTests ?? []) {
+        expect(m.topics.map((x) => x.id)).toContain(t);
+        expect(t).not.toBe(q.topic);
+      }
+      if (q.type === 'sata') {
+        expect(q.options.length).toBeGreaterThanOrEqual(5);
+        expect(q.options.length).toBeLessThanOrEqual(6);
+      }
       expect(m.topics.map((t) => t.id)).toContain(q.topic);
       expect(CJMM_STEPS).toContain(q.cjmm);
       expect(FOCUS_AREAS).toContain(q.focus);

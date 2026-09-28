@@ -84,7 +84,9 @@ interface QuestionBase {
   hintStrategy?: string;
   /** NGN-style chart shown beside the question. */
   exhibit?: { tabs: ExhibitTab[] };
-  /** Items of one unfolding case study share a caseId. */
+  /** Other topic ids (same module) this integrated item also requires. */
+  alsoTests?: string[];
+  /** Legacy (case studies removed). */
   caseId?: string;
   caseOrder?: number;
   /** Added at load time. */

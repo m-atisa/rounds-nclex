@@ -1,24 +1,9 @@
 import { AnimatePresence, motion } from 'motion/react';
 import { useState, type ReactNode } from 'react';
-import { QUESTIONS } from '../../data';
 import type { Question } from '../../data/types';
 import { cx } from '../../lib/util';
 import { Icon } from '../Icon';
 import { Html } from '../ui';
-
-const caseSizes = QUESTIONS.reduce<Record<string, number>>((acc, q) => {
-  if (q.caseId) acc[q.caseId] = (acc[q.caseId] ?? 0) + 1;
-  return acc;
-}, {});
-
-export function CaseBadge({ q }: { q: Question }) {
-  if (!q.caseId) return null;
-  return (
-    <span className="badge badge-case">
-      <Icon name="clipboard" /> Case study · item {q.caseOrder ?? '?'} of {caseSizes[q.caseId] ?? '?'}
-    </span>
-  );
-}
 
 export function Exhibit({ q }: { q: Question }) {
   const tabs = q.exhibit?.tabs ?? [];

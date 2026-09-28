@@ -177,7 +177,6 @@ export interface Filters {
   cjmm: string[];
   difficulty: string[];
   pool: Pool;
-  cases: 'any' | 'only' | 'exclude';
 }
 
 export const emptyFilters = (): Filters => ({
@@ -188,7 +187,6 @@ export const emptyFilters = (): Filters => ({
   cjmm: [],
   difficulty: [],
   pool: 'smart',
-  cases: 'any',
 });
 
 export function filtersFromParams(p: URLSearchParams): Filters {
@@ -201,7 +199,6 @@ export function filtersFromParams(p: URLSearchParams): Filters {
     cjmm: list('cjmm'),
     difficulty: list('difficulty'),
     pool: (p.get('pool') as Pool) || 'smart',
-    cases: (p.get('cases') as Filters['cases']) || 'any',
   };
 }
 
@@ -211,7 +208,6 @@ export function filtersToParams(f: Filters) {
     if (f[k].length) p.set(k, f[k].join(','));
   });
   if (f.pool !== 'smart') p.set('pool', f.pool);
-  if (f.cases !== 'any') p.set('cases', f.cases);
   return p.toString();
 }
 
@@ -221,45 +217,18 @@ export function matchQuestions(f: Filters, attempts: Record<string, Attempt[]>):
     if (!has(f.modules, q.moduleId)) return false;
     if (f.topics.length) {
       const topicsForModule = f.topics.filter((t) => t.startsWith(`${q.moduleId}:`));
-      // Topic filters only narrow the modules they belong to.
-      if (topicsForModule.length && !topicsForModule.includes(topicKey(q.moduleId, q.topic))) return false;
+      // Topic filters only narrow the modules they belong to; integrated items count for every topic they test.
+      const qTopics = [q.topic, ...(q.alsoTests ?? [])].map((t) => topicKey(q.moduleId, t));
+      if (topicsForModule.length && !qTopics.some((t) => topicsForModule.includes(t))) return false;
     }
     if (!has(f.types, formatOf(q)) || !has(f.focus, q.focus) || !has(f.cjmm, q.cjmm) || !has(f.difficulty, String(q.difficulty)))
       return false;
     const st = statusOf(attempts, q.id);
-    if (f.cases === 'only' && !q.caseId) return false;
-    if (f.cases === 'exclude' && q.caseId) return false;
     if (f.pool === 'new') return st === 'new';
     if (f.pool === 'missed') return st === 'missed' || st === 'skipped';
     if (f.pool === 'weak') return st === 'missed' || st === 'skipped' || st === 'fragile';
     return true;
   });
-}
-
-/** Keep items of the same NGN case study together and in case order (at the first item's position). */
-export function groupCases(qs: Question[]): Question[] {
-  const out: Question[] = [];
-  const placed = new Set<string>();
-  for (const q of qs) {
-    if (!q.caseId) {
-      out.push(q);
-      continue;
-    }
-    if (placed.has(q.caseId)) continue;
-    placed.add(q.caseId);
-    out.push(...qs.filter((x) => x.caseId === q.caseId).sort((a, b) => (a.caseOrder ?? 0) - (b.caseOrder ?? 0)));
-  }
-  return out;
-}
-
-/** Pick `cases` whole NGN case studies (all items, in order). */
-export function pickCases(qs: Question[], cases: number): Question[] {
-  const ids = shuffle([...new Set(qs.filter((q) => q.caseId).map((q) => q.caseId!))]).slice(0, cases);
-  const out: Question[] = [];
-  for (const id of ids) {
-    out.push(...QUESTIONS.filter((q) => q.caseId === id).sort((a, b) => (a.caseOrder ?? 0) - (b.caseOrder ?? 0)));
-  }
-  return out;
 }
 
 /** Smart order: missed → fragile → unseen → mastered, randomized within each tier; case items stay together. */
@@ -268,41 +237,17 @@ export function smartPick(qs: Question[], attempts: Record<string, Attempt[]>, n
   const picked = shuffle(qs)
     .sort((a, b) => tier[statusOf(attempts, a.id)] - tier[statusOf(attempts, b.id)])
     .slice(0, n);
-  return groupCases(picked);
+  return picked;
 }
 
-/**
- * Balanced random pick across modules (for exams). Whole NGN case studies are included as a unit when they fit,
- * mirroring how case studies appear on the NCLEX.
- */
+/** Balanced random pick across modules (for exams). */
 export function balancedPick(qs: Question[], n: number): Question[] {
-  type Unit = Question[];
-  const units = new Map<string, Unit[]>();
-  const seenCase = new Set<string>();
-  for (const q of shuffle(qs)) {
-    let unit: Unit;
-    if (q.caseId) {
-      if (seenCase.has(q.caseId)) continue;
-      seenCase.add(q.caseId);
-      unit = qs.filter((x) => x.caseId === q.caseId).sort((a, b) => (a.caseOrder ?? 0) - (b.caseOrder ?? 0));
-    } else unit = [q];
-    units.set(q.moduleId, [...(units.get(q.moduleId) ?? []), unit]);
+  const byMod = new Map<string, Question[]>();
+  shuffle(qs).forEach((q) => byMod.set(q.moduleId, [...(byMod.get(q.moduleId) ?? []), q]));
+  const lists = [...byMod.values()];
+  const out: Question[] = [];
+  while (out.length < n && lists.some((l) => l.length)) {
+    for (const l of lists) if (l.length && out.length < n) out.push(l.shift()!);
   }
-  const lists = [...units.values()];
-  const chosen: Unit[] = [];
-  let count = 0;
-  let progress = true;
-  while (count < n && progress) {
-    progress = false;
-    for (const l of lists) {
-      const idx = l.findIndex((u) => count + u.length <= n);
-      if (idx >= 0) {
-        const [u] = l.splice(idx, 1);
-        chosen.push(u);
-        count += u.length;
-        progress = true;
-      }
-    }
-  }
-  return shuffle(chosen).flat();
+  return shuffle(out);
 }

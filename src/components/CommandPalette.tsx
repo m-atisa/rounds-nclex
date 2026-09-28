@@ -32,7 +32,6 @@ const ENTRIES: Entry[] = [
       ['Flashcards', '/flashcards', 'cards'],
       ['Practice', '/practice', 'pulse'],
       ['Practice missed questions', '/practice?pool=missed', 'target'],
-      ['NGN case studies', '/questions?kind=case', 'clipboard'],
       ['Exam', '/exam', 'exam'],
       ['Question bank', '/questions', 'list'],
       ['Progress', '/progress', 'chart'],

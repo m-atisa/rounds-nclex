@@ -5,7 +5,7 @@ import { MODULE_BY_ID, QUESTION_BY_ID } from '../data';
 import type { Question, Response } from '../data/types';
 import { Icon } from '../components/Icon';
 import { ViewControls } from '../components/Layout';
-import { CaseBadge, CaseLayout } from '../components/question/Exhibit';
+import { CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
 import { ConfidencePicker, Feedback, Hints } from '../components/question/Support';
 import { Modal, celebrate, toast } from '../components/ui';
@@ -296,7 +296,6 @@ function Runner({ session }: { session: Session }) {
                   q={q}
                   extra={
                     <>
-                      <CaseBadge q={q} />
                       {isExam && (
                         <button type="button" className="btn btn-sm flag-btn" aria-pressed={item.flagged} onClick={() => patchItem(qid, { flagged: !item.flagged })}>
                           <Icon name="flag" /> {item.flagged ? 'Flagged' : 'Flag'}

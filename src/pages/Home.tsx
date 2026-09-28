@@ -31,7 +31,6 @@ export function ModuleGlyph({ icon }: { icon: IconName }) {
   );
 }
 
-const caseCount = new Set(QUESTIONS.filter((q) => q.caseId).map((q) => q.caseId)).size;
 
 export function Home() {
   const { attempts, days, active, startSession } = useProgress();
@@ -61,7 +60,7 @@ export function Home() {
       color: 'var(--m16)',
       onClick: () => (answered ? quick('weak') : navigate('/practice')),
     },
-    { icon: 'clipboard', title: 'NGN case studies', sub: `${caseCount} unfolding cases with client charts`, color: 'var(--accent)', to: '/practice?cases=only' },
+    { icon: 'target', title: 'Priority drills', sub: 'Practice deciding what the nurse does first', color: 'var(--accent)', to: '/practice?types=priority' },
     { icon: 'exam', title: 'Timed exam', sub: 'Test conditions and a full performance report', color: 'var(--m15)', to: '/exam' },
   ];
 
@@ -81,7 +80,7 @@ export function Home() {
           Think like a nurse. <em>Pass like one.</em>
         </motion.h1>
         <motion.p className="lead" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.18, duration: 0.6 }}>
-          {QUESTIONS.length} NCLEX-style questions — priority, single best answer, and select-all-that-apply, plus unfolding case studies with client charts — built from your course modules, with coaching hints and rationales that teach.
+          {QUESTIONS.length} NCLEX-style questions — priority, single best answer, and select-all-that-apply — that connect the ideas within each module the way the exam does, with coaching hints and rationales that teach.
         </motion.p>
         <motion.div className="row" style={{ marginTop: '1.5rem' }} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.26, duration: 0.6 }}>
           <Link className="btn btn-primary btn-lg" to="/practice">

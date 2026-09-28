@@ -9,610 +9,21 @@
    "id": "m21e-001",
    "type": "sata",
    "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · NGN Case Study: Pressure Injury Risk in an Older Adult",
+   "alsoTests": [
+    "diagnostics-labs-nutrition",
+    "skin-assessment-lesions"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "caseId": "m21e-case-braden",
-   "caseOrder": 1,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 3, 0800:</strong> 83-year-old client admitted 2 days ago from home with aspiration pneumonia. History of Parkinson disease and moderate dementia; wears bilateral hearing aids. Oriented to self only. Moans and grimaces with turning but cannot state where discomfort is. Bedfast; makes occasional slight changes in position without help. Slides down in bed when the head of the bed is raised for meals; requires 2-person assist to reposition. Incontinent of urine and stool; linen changed 3 times overnight. Eats about 25% of pureed meals and refuses the oral supplement. Spouse visits daily and states the client ‘barely moved from the recliner’ for the week before admission.</p><p><strong>Skin:</strong> Sacrum — 4 × 3 cm area of nonblanchable redness, skin intact, warmer than surrounding skin. Right heel — 2 × 2 cm area of nonblanchable redness, skin intact, spongy (boggy) on palpation. Left heel — 1 × 1 cm intact blister filled with clear serous fluid. Left ischial tuberosity — 1.5 × 1 cm shallow open area with a pink, moist wound bed; no slough. Radial and pedal pulses 2+ bilaterally.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "Day 2, 2000",
-         "37.9 °C (100.2 °F)",
-         "94",
-         "22",
-         "122/70",
-         "92% on 2 L/min NC"
-        ],
-        [
-         "Day 3, 0800",
-         "38.1 °C (100.6 °F)",
-         "96",
-         "22",
-         "118/68",
-         "93% on 2 L/min NC"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Braden Scale",
-      "table": {
-       "headers": [
-        "Subscale",
-        "Score",
-        "Descriptor"
-       ],
-       "rows": [
-        [
-         "Sensory perception",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Moisture",
-         "2",
-         "Very moist"
-        ],
-        [
-         "Activity",
-         "1",
-         "Bedfast"
-        ],
-        [
-         "Mobility",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Nutrition",
-         "1",
-         "Very poor"
-        ],
-        [
-         "Friction & shear",
-         "1",
-         "Problem"
-        ],
-        [
-         "Total",
-         "9",
-         "—"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "13,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "11.2 g/dL",
-         "13.5–17.5 g/dL (male)"
-        ],
-        [
-         "Albumin",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Total lymphocyte count",
-         "1,100/mm³",
-         "1,500–4,000/mm³"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Ampicillin-sulbactam 3 g IV every 6 hours</li><li>Dysphagia (pureed) diet; HOB ≥ 30° during meals and for 1 hour after</li><li>Oxygen 2 L/min via nasal cannula; titrate to SpO₂ ≥ 92%</li><li>Pressure-injury prevention protocol; reposition per protocol</li><li>Wound care nurse and dietitian consults</li><li>Weigh daily</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Braden Scale. The nurse reviews the 0800 note. Which findings place the client at increased risk for developing additional pressure injuries? Select all that apply.",
+   "stem": "An 83-year-old client with Parkinson disease and moderate dementia is admitted with aspiration pneumonia. The Braden scale total is 9. The nurse reviews the admission data. Which findings contribute to the client's risk for pressure injury? Select all that apply.",
    "options": [
-    "Wears bilateral hearing aids",
-    "Oriented to self only",
-    "Slides down in bed when the head of the bed is raised",
-    "Radial and pedal pulses are 2+ bilaterally",
-    "Incontinent of urine and stool",
-    "Eats about 25% of pureed meals"
-   ],
-   "answer": [
-    1,
-    2,
-    4,
-    5
-   ],
-   "optionRationales": [
-    "Incorrect. Hearing loss corrected with aids does not reduce the client’s ability to sense or respond to pressure.",
-    "Correct. Decreased mental status reduces the ability to perceive and respond to pressure-related discomfort (Braden sensory perception 2).",
-    "Correct. Sliding down in bed creates shear and friction, which distort and tear deep blood vessels (friction & shear 1).",
-    "Incorrect. Palpable 2+ pulses indicate adequate peripheral arterial flow.",
-    "Correct. Urine and stool add moisture, enzymes, and urea that macerate the skin and lower its tolerance to pressure (moisture 2).",
-    "Correct. Eating 25% of meals means inadequate protein and calories for tissue maintenance (nutrition 1); serum albumin is also low."
-   ],
-   "rationale": "Pressure-injury risk factors include decreased mental status or sensation, immobility, shear and friction, moisture from incontinence, poor nutrition, and excess body heat. This client’s Braden total of 9 reflects very high risk, and each selected finding maps to a low subscale. Corrected hearing loss and normal pulses are not risk factors.",
-   "takeaway": "Map each cue to a Braden subscale (or to fever/heat) to find the client’s risk factors.",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the six Braden subscales and the other risk factors for pressure injury listed on the slides.",
-   "hintStrategy": "Match each finding to a Braden subscale. If it does not lower a subscale or reduce tissue tolerance, it is not a risk factor."
-  },
-  {
-   "id": "m21e-002",
-   "type": "mcq",
-   "topic": "pressure-injuries-staging",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · NGN Case Study: Pressure Injury Risk in an Older Adult",
-   "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21e-case-braden",
-   "caseOrder": 2,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 3, 0800:</strong> 83-year-old client admitted 2 days ago from home with aspiration pneumonia. History of Parkinson disease and moderate dementia; wears bilateral hearing aids. Oriented to self only. Moans and grimaces with turning but cannot state where discomfort is. Bedfast; makes occasional slight changes in position without help. Slides down in bed when the head of the bed is raised for meals; requires 2-person assist to reposition. Incontinent of urine and stool; linen changed 3 times overnight. Eats about 25% of pureed meals and refuses the oral supplement. Spouse visits daily and states the client ‘barely moved from the recliner’ for the week before admission.</p><p><strong>Skin:</strong> Sacrum — 4 × 3 cm area of nonblanchable redness, skin intact, warmer than surrounding skin. Right heel — 2 × 2 cm area of nonblanchable redness, skin intact, spongy (boggy) on palpation. Left heel — 1 × 1 cm intact blister filled with clear serous fluid. Left ischial tuberosity — 1.5 × 1 cm shallow open area with a pink, moist wound bed; no slough. Radial and pedal pulses 2+ bilaterally.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "Day 2, 2000",
-         "37.9 °C (100.2 °F)",
-         "94",
-         "22",
-         "122/70",
-         "92% on 2 L/min NC"
-        ],
-        [
-         "Day 3, 0800",
-         "38.1 °C (100.6 °F)",
-         "96",
-         "22",
-         "118/68",
-         "93% on 2 L/min NC"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Braden Scale",
-      "table": {
-       "headers": [
-        "Subscale",
-        "Score",
-        "Descriptor"
-       ],
-       "rows": [
-        [
-         "Sensory perception",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Moisture",
-         "2",
-         "Very moist"
-        ],
-        [
-         "Activity",
-         "1",
-         "Bedfast"
-        ],
-        [
-         "Mobility",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Nutrition",
-         "1",
-         "Very poor"
-        ],
-        [
-         "Friction & shear",
-         "1",
-         "Problem"
-        ],
-        [
-         "Total",
-         "9",
-         "—"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "13,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "11.2 g/dL",
-         "13.5–17.5 g/dL (male)"
-        ],
-        [
-         "Albumin",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Total lymphocyte count",
-         "1,100/mm³",
-         "1,500–4,000/mm³"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Ampicillin-sulbactam 3 g IV every 6 hours</li><li>Dysphagia (pureed) diet; HOB ≥ 30° during meals and for 1 hour after</li><li>Oxygen 2 L/min via nasal cannula; titrate to SpO₂ ≥ 92%</li><li>Pressure-injury prevention protocol; reposition per protocol</li><li>Wound care nurse and dietitian consults</li><li>Weigh daily</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes. How should the nurse document the finding on the client's right heel?",
-   "options": [
-    "Stage 2 pressure injury, because boggy tissue indicates a partial-thickness wound",
-    "Normal blanchable redness from recent pressure on the heel",
-    "Stage 1 pressure injury",
-    "Stage 3 pressure injury, because spongy tissue indicates damage to the fat layer"
-   ],
-   "answer": 2,
-   "optionRationales": [
-    "Incorrect. Stage 2 requires a blister or shallow open area; the heel skin is intact.",
-    "Incorrect. The redness does not blanch, so it is not a normal pressure response.",
-    "Correct. Intact skin with nonblanchable redness is Stage 1; spongy, boggy tissue (edema) is another cue of damage beneath the skin.",
-    "Incorrect. Stage 3 requires full-thickness loss with visible subcutaneous tissue; the skin is intact."
-   ],
-   "rationale": "Stage 1 is nonblanchable redness of intact skin; warmth, coolness, or boggy tissue may accompany it. Stage 2 is partial-thickness skin loss appearing as a clear blister or a shallow, open, pink wound. Stage 3 requires full-thickness loss into subcutaneous tissue.",
-   "takeaway": "Intact nonblanchable = Stage 1; clear blister or shallow pink open area = Stage 2.",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall the defining feature of each stage — especially whether the skin is intact or open.",
-   "hintStrategy": "First ask whether the heel skin is intact. Then decide whether the redness blanches.",
-   "priority": false
-  },
-  {
-   "id": "m21e-003",
-   "type": "mcq",
-   "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · NGN Case Study: Pressure Injury Risk in an Older Adult",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "caseId": "m21e-case-braden",
-   "caseOrder": 3,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 3, 0800:</strong> 83-year-old client admitted 2 days ago from home with aspiration pneumonia. History of Parkinson disease and moderate dementia; wears bilateral hearing aids. Oriented to self only. Moans and grimaces with turning but cannot state where discomfort is. Bedfast; makes occasional slight changes in position without help. Slides down in bed when the head of the bed is raised for meals; requires 2-person assist to reposition. Incontinent of urine and stool; linen changed 3 times overnight. Eats about 25% of pureed meals and refuses the oral supplement. Spouse visits daily and states the client ‘barely moved from the recliner’ for the week before admission.</p><p><strong>Skin:</strong> Sacrum — 4 × 3 cm area of nonblanchable redness, skin intact, warmer than surrounding skin. Right heel — 2 × 2 cm area of nonblanchable redness, skin intact, spongy (boggy) on palpation. Left heel — 1 × 1 cm intact blister filled with clear serous fluid. Left ischial tuberosity — 1.5 × 1 cm shallow open area with a pink, moist wound bed; no slough. Radial and pedal pulses 2+ bilaterally.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "Day 2, 2000",
-         "37.9 °C (100.2 °F)",
-         "94",
-         "22",
-         "122/70",
-         "92% on 2 L/min NC"
-        ],
-        [
-         "Day 3, 0800",
-         "38.1 °C (100.6 °F)",
-         "96",
-         "22",
-         "118/68",
-         "93% on 2 L/min NC"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Braden Scale",
-      "table": {
-       "headers": [
-        "Subscale",
-        "Score",
-        "Descriptor"
-       ],
-       "rows": [
-        [
-         "Sensory perception",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Moisture",
-         "2",
-         "Very moist"
-        ],
-        [
-         "Activity",
-         "1",
-         "Bedfast"
-        ],
-        [
-         "Mobility",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Nutrition",
-         "1",
-         "Very poor"
-        ],
-        [
-         "Friction & shear",
-         "1",
-         "Problem"
-        ],
-        [
-         "Total",
-         "9",
-         "—"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "13,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "11.2 g/dL",
-         "13.5–17.5 g/dL (male)"
-        ],
-        [
-         "Albumin",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Total lymphocyte count",
-         "1,100/mm³",
-         "1,500–4,000/mm³"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Ampicillin-sulbactam 3 g IV every 6 hours</li><li>Dysphagia (pureed) diet; HOB ≥ 30° during meals and for 1 hour after</li><li>Oxygen 2 L/min via nasal cannula; titrate to SpO₂ ≥ 92%</li><li>Pressure-injury prevention protocol; reposition per protocol</li><li>Wound care nurse and dietitian consults</li><li>Weigh daily</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes and Braden Scale. Which statement by the nurse accurately interprets the client's data?",
-   "options": [
-    "“The Braden total of 9 indicates very high risk, and the open Stage 2 area on the ischium adds Risk for infection.”",
-    "“The Braden total of 9 indicates mild risk, and the open Stage 2 area on the ischium adds Risk for infection.”",
-    "“The Braden total of 9 indicates very high risk, and the ischial Stage 1 area supports Potential for impaired skin integrity.”",
-    "“The Braden total of 13 indicates moderate risk, and the ischial Stage 3 area supports Situational low self-esteem.”"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. The subscores total 9, which indicates very high risk. The ischial wound is a shallow, open, pink area — Stage 2 — and open skin places the client at risk for infection.",
-    "Incorrect. On the Braden scale a lower score means higher risk; 9 is very high risk, not mild.",
-    "Incorrect. The ischial area is open (Stage 2), so the skin is already impaired; a 'potential for' diagnosis no longer fits.",
-    "Incorrect. The subscores total 9, not 13; the wound is Stage 2, and nothing in the notes suggests low self-esteem."
-   ],
-   "rationale": "The subscores total 9 (2 + 2 + 1 + 2 + 1 + 1); a Braden score of 9 or less indicates very high risk. The ischial wound is a shallow, open, pink area — partial-thickness loss, or Stage 2. Once the skin is open, the client is at risk for infection. \"Potential for impaired skin integrity\" no longer fits because the skin is already impaired.",
-   "takeaway": "Low Braden = high risk; an open wound adds Risk for infection.",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
-   "hintContent": "Recall the Braden risk categories, the definition of a Stage 2 injury, and what an open wound adds to the nursing diagnoses.",
-   "hintStrategy": "Check each part of the statement separately: the total, the risk level, the stage, and the diagnosis. Only one option is correct in every part.",
-   "priority": false
-  },
-  {
-   "id": "m21e-004",
-   "type": "sata",
-   "caseId": "m21e-case-braden",
-   "caseOrder": 4,
-   "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · NGN Case Study: Pressure Injury Risk in an Older Adult",
-   "difficulty": 3,
-   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 3, 0800:</strong> 83-year-old client admitted 2 days ago from home with aspiration pneumonia. History of Parkinson disease and moderate dementia; wears bilateral hearing aids. Oriented to self only. Moans and grimaces with turning but cannot state where discomfort is. Bedfast; makes occasional slight changes in position without help. Slides down in bed when the head of the bed is raised for meals; requires 2-person assist to reposition. Incontinent of urine and stool; linen changed 3 times overnight. Eats about 25% of pureed meals and refuses the oral supplement. Spouse visits daily and states the client ‘barely moved from the recliner’ for the week before admission.</p><p><strong>Skin:</strong> Sacrum — 4 × 3 cm area of nonblanchable redness, skin intact, warmer than surrounding skin. Right heel — 2 × 2 cm area of nonblanchable redness, skin intact, spongy (boggy) on palpation. Left heel — 1 × 1 cm intact blister filled with clear serous fluid. Left ischial tuberosity — 1.5 × 1 cm shallow open area with a pink, moist wound bed; no slough. Radial and pedal pulses 2+ bilaterally.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "Day 2, 2000",
-         "37.9 °C (100.2 °F)",
-         "94",
-         "22",
-         "122/70",
-         "92% on 2 L/min NC"
-        ],
-        [
-         "Day 3, 0800",
-         "38.1 °C (100.6 °F)",
-         "96",
-         "22",
-         "118/68",
-         "93% on 2 L/min NC"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Braden Scale",
-      "table": {
-       "headers": [
-        "Subscale",
-        "Score",
-        "Descriptor"
-       ],
-       "rows": [
-        [
-         "Sensory perception",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Moisture",
-         "2",
-         "Very moist"
-        ],
-        [
-         "Activity",
-         "1",
-         "Bedfast"
-        ],
-        [
-         "Mobility",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Nutrition",
-         "1",
-         "Very poor"
-        ],
-        [
-         "Friction & shear",
-         "1",
-         "Problem"
-        ],
-        [
-         "Total",
-         "9",
-         "—"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "13,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "11.2 g/dL",
-         "13.5–17.5 g/dL (male)"
-        ],
-        [
-         "Albumin",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Total lymphocyte count",
-         "1,100/mm³",
-         "1,500–4,000/mm³"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Ampicillin-sulbactam 3 g IV every 6 hours</li><li>Dysphagia (pureed) diet; HOB ≥ 30° during meals and for 1 hour after</li><li>Oxygen 2 L/min via nasal cannula; titrate to SpO₂ ≥ 92%</li><li>Pressure-injury prevention protocol; reposition per protocol</li><li>Wound care nurse and dietitian consults</li><li>Weigh daily</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Nurses' Notes, Braden Scale, and Orders. Which interventions should the nurse include in the client's plan of care? Select all that apply.",
-   "options": [
-    "Float both heels with pillows placed lengthwise under the calves",
-    "Request a specialty support surface such as a low-air-loss mattress",
-    "Massage the reddened sacral area during each turn to restore circulation",
-    "Cleanse with a mild cleanser and apply a barrier cream after each incontinent episode",
-    "Turn the client to a 90° side-lying position to keep pressure off the sacrum",
-    "Collaborate with the dietitian to increase protein and calorie intake"
+    "Temperature 38.7 °C (101.7 °F)",
+    "Serum albumin 2.8 g/dL and total lymphocyte count 1,100/mm³",
+    "Radial and pedal pulses 2+ bilaterally",
+    "Slides toward the foot of the bed when the head of the bed is raised",
+    "Wears bilateral hearing aids that correct a hearing loss",
+    "Oriented to self only; grimaces with turning but cannot say where it hurts"
    ],
    "answer": [
     0,
@@ -621,321 +32,201 @@
     5
    ],
    "optionRationales": [
-    "Correct. Floating the heels removes pressure from the right heel Stage 1 injury and the left heel blister.",
-    "Correct. A client at very high risk with existing injuries needs a pressure-redistribution surface such as a low-air-loss bed.",
-    "Incorrect. Massage over reddened bony prominences damages fragile capillaries and deeper tissue.",
-    "Correct. Prompt, gentle cleansing and a barrier product protect the skin from urine and stool.",
-    "Incorrect. A 90° side-lying position places full pressure on the greater trochanter; a 30° tilt with pillows is preferred.",
-    "Correct. Nutrition subscale 1, low albumin, and open skin call for increased protein and calories."
+    "Correct. Fever raises the metabolic rate and oxygen demand, so tissue compressed over a bony prominence becomes ischemic faster.",
+    "Correct. Albumin below 3.5 g/dL and a low lymphocyte count are the nutrition markers the slides say to monitor; poor protein status means less padding and poor tissue repair.",
+    "Incorrect. Palpable 2+ pulses show adequate arterial flow to the extremities; this is not a risk factor.",
+    "Correct. Sliding down with the head of the bed raised creates shear: the skin sticks to the sheet while the skeleton slides, tearing deep vessels over the sacrum.",
+    "Incorrect. A corrected hearing loss does not change the client's ability to feel or respond to pressure.",
+    "Correct. Decreased mental status means the client cannot recognize or report pressure-related discomfort or reposition in response to it."
    ],
-   "rationale": "Plan care around each low Braden subscale: pressure redistribution (support surface, 30° tilt, heel floating), moisture management (gentle cleansing and barrier products), and nutrition (dietitian collaboration, supplements). Massage and 90° side-lying positioning increase tissue damage.",
-   "takeaway": "Target every low Braden subscale — offload, keep dry, feed, and avoid massage and donuts.",
-   "hintContent": "Recall which practices increase pressure or damage capillaries and which redistribute pressure or protect the skin.",
-   "hintStrategy": "Evaluate each option on its own as true or false for this client. Link each correct option to a specific low subscale or skin finding in the exhibit."
+   "rationale": "A Braden total of 9 is very high risk, and the individual cues explain why. Fever (excess body heat) raises oxygen demand, low albumin and lymphocytes reflect inadequate nutrition, sliding in bed produces shear, and confusion limits the client's ability to sense and respond to pressure. Normal pulses and corrected hearing do not raise risk. Connecting lab values and vital signs to the risk factors lets the nurse target each one in the plan of care.",
+   "takeaway": "Translate every cue — vital sign, lab, behavior — into a pressure-injury risk factor before planning care.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall the slide risk factors (immobility, nutrition, moisture, mental status, sensation, heat, age, chronic illness, shear) and which labs the slides use to monitor nutrition.",
+   "hintStrategy": "Test each option on its own: does this finding reduce tissue tolerance, add shear, or impair the client's ability to feel or move? If not, leave it unselected."
+  },
+  {
+   "id": "m21e-002",
+   "type": "mcq",
+   "topic": "pressure-injuries-staging",
+   "alsoTests": [
+    "pressure-injuries-prevention",
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "An 83-year-old client on bed rest for pneumonia has a 2 × 2 cm area of intact, nonblanchable redness over the right heel that feels spongy on palpation. The left heel has an intact 1 × 1 cm blister filled with clear fluid. Both heels are resting directly on the mattress. Which action should the nurse take first?",
+   "options": [
+    "Document both heel findings as reactive redness and recheck them at the next turn",
+    "Open the left heel blister with a sterile needle so the fluid can drain",
+    "Float both heels off the mattress with pillows placed lengthwise under the calves",
+    "Massage the right heel gently to restore circulation to the boggy tissue"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Reactive redness blanches and fades; nonblanchable redness is a Stage 1 injury and a clear-fluid blister is Stage 2. Neither is normal.",
+    "Incorrect. A clear-fluid blister is a Stage 2 injury; opening it creates an open wound and infection risk and does not remove the cause.",
+    "Correct. The right heel is Stage 1 and the left is Stage 2. Both were caused by unrelieved pressure, so offloading the heels is the immediate priority to prevent progression.",
+    "Incorrect. Massage over reddened bony prominences damages fragile capillaries and worsens deep tissue injury."
+   ],
+   "rationale": "Staging comes first: intact nonblanchable redness with bogginess is Stage 1, and an intact clear-fluid blister is Stage 2. Both injuries share a cause, which is the heels resting on the mattress. The first action is to remove that pressure by floating the heels. Documentation, wound care, and care-plan changes follow. Massage and opening the blister cause more harm.",
+   "takeaway": "Stage it, then remove the cause: heels with Stage 1 or 2 injuries get floated off the bed right away.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "hintContent": "Recall what nonblanchable redness and a clear-fluid blister mean for staging, and what caused both injuries in this client.",
+   "hintStrategy": "First decide the stage of each heel, then ask which option stops the process that is still happening. Rule out any option that adds trauma.",
+   "priority": true
+  },
+  {
+   "id": "m21e-003",
+   "type": "mcq",
+   "topic": "pressure-injuries-pathophysiology-risk",
+   "alsoTests": [
+    "pressure-injuries-staging",
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client's Braden subscale scores are sensory perception 2, moisture 2, activity 1, mobility 2, nutrition 1, and friction & shear 1. Over the left ischial tuberosity there is a 1.5 × 1 cm shallow, open area with a pink, moist bed and no slough or visible fat. Which statement by the nurse identifies the priority problems for the plan of care?",
+   "options": [
+    "“The total of 13 is moderate risk, and the ischial area is a Stage 1 injury, so the focus is potential for impaired skin integrity.”",
+    "“The total of 9 is very high risk; the ischial area is a Stage 2 open wound, so impaired skin integrity and infection risk apply.”",
+    "“The total of 9 is mild risk, and the ischial area is a Stage 2 open wound, so the focus is situational low self-esteem.”",
+    "“The total of 9 is very high risk, but the ischial area is Stage 3, so the focus is potential for impaired skin integrity.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The subscales total 9, not 13, and an open wound is not Stage 1. Potential for impaired skin integrity applies only when the skin is still intact.",
+    "Correct. The subscales total 9 (very high risk). A shallow, pink, moist open area is partial-thickness loss (Stage 2). An actual wound means impaired skin integrity, and a broken barrier adds risk for infection.",
+    "Incorrect. On the Braden scale, a low score means high risk, so 9 is not mild risk. Low self-esteem is not the physiologic priority here.",
+    "Incorrect. No fat is visible, so the wound is not Stage 3. And because the skin is already open, the problem is actual impaired skin integrity, not potential."
+   ],
+   "rationale": "This item combines three skills. First, the six subscales total 9, and because the Braden scale is inverse, 9 is very high risk. Second, a shallow, pink, moist open area without fat is a Stage 2 (partial-thickness) injury. Third, once injury exists, the diagnosis changes from potential to actual impaired skin integrity, and an open barrier adds risk for infection. These actual physiologic problems take priority over psychosocial diagnoses.",
+   "takeaway": "Low Braden = high risk; open skin = actual impaired skin integrity + risk for infection.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall the Braden range and its direction, the depth of tissue loss in each stage, and when the slide diagnoses change from potential to actual.",
+   "hintStrategy": "Add the subscales yourself, stage the wound from its description, then pick the option in which all three parts are correct. Any single wrong part eliminates an option.",
+   "priority": true
+  },
+  {
+   "id": "m21e-004",
+   "type": "sata",
+   "topic": "pressure-injuries-prevention",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk",
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "An 81-year-old client with dysphagia after a stroke receives a pureed diet with an order for the head of the bed at 30° or higher during meals and for 1 hour afterward. The client is incontinent, has a Stage 1 sacral pressure injury, eats about 30% of meals, and has a serum albumin of 2.9 g/dL. Which interventions should the nurse include in the plan of care? Select all that apply.",
+   "options": [
+    "Keep the head of the bed at 30° with the knee gatch slightly raised during and after meals",
+    "Massage the reddened sacral area at each turn to bring blood back to the tissue",
+    "Cleanse with a mild cleanser, pat dry, and apply a barrier cream after each incontinent episode",
+    "Turn the client to a 90° side-lying position to keep all weight off the sacrum",
+    "Offer a high-protein supplement between meals and trend weight and albumin",
+    "Float the heels with pillows placed lengthwise under the calves"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Thirty degrees meets the aspiration-prevention order while limiting sacral shear; raising the knee gatch keeps the client from sliding down.",
+    "Incorrect. Massage over reddened bony prominences breaks fragile capillaries and worsens deep damage.",
+    "Correct. Urine and stool bring moisture and enzymes that macerate skin; gentle cleansing and a barrier product protect it.",
+    "Incorrect. A 90° side-lying position loads the greater trochanter; a 30° lateral tilt with pillows takes weight off the sacrum and the hip.",
+    "Correct. Poor intake and low albumin show nutritional compromise; supplements and trending nutrition markers support skin integrity.",
+    "Correct. The heels are high-risk prominences in a bed-bound client; floating them offloads pressure."
+   ],
+   "rationale": "This plan must balance competing needs. The dysphagia order requires the head of the bed at 30° or higher, and the slides call for 30° or lower to reduce shear, so 30° with the knee gatch meets both. Each remaining intervention targets one of the client's risk factors: moisture (barrier cream), poor nutrition (supplements, trending albumin), and pressure on the heels (floating). Massage and 90° side-lying cause harm.",
+   "takeaway": "Aspiration risk and shear meet at 30° with the knee gatch; then target each risk factor the client has.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall the HOB rule for shear, the positioning angle that spares the hip, and how moisture and low albumin raise risk.",
+   "hintStrategy": "Match each option to one of the client's cues (dysphagia, incontinence, Stage 1 sacrum, low intake). Keep options that fix a cue safely; drop those that add pressure or trauma."
   },
   {
    "id": "m21e-005",
    "type": "mcq",
-   "caseId": "m21e-case-braden",
-   "caseOrder": 5,
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · NGN Case Study: Pressure Injury Risk in an Older Adult",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "A client with pneumonia and a Stage 1 sacral pressure injury finished breakfast at 0800 and has an order to keep the head of the bed at 30° or higher for 1 hour after meals. At 1030 the nurse finds the head of the bed at 60° and the client slid down toward the foot of the bed. Which action should the nurse take first?",
+   "options": [
+    "Keep the head of the bed at 60° until lunch to prevent any aspiration",
+    "Ask the UAP to pull the client up in bed by the arms after lunch",
+    "Apply cornstarch to the sacrum to reduce friction against the sheets",
+    "Lift the client with a draw sheet and two staff; set the HOB at 30°"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The 1-hour post-meal window has passed; keeping the HOB at 60° continues the shear that is damaging the sacrum.",
+    "Incorrect. Pulling by the arms drags the skin across the sheet (friction and shear), and delaying leaves the client sliding.",
+    "Incorrect. Cornstarch clumps when wet and irritates the skin; it is on the slides' avoid list and does not fix shear.",
+    "Correct. Sliding with the HOB high causes sacral shear over an existing Stage 1 injury. Lifting with a draw sheet avoids friction, and 30° meets the post-meal order while reducing shear."
+   ],
+   "rationale": "A client sliding down a bed raised to 60° has shear: the sacral skin stays fixed to the sheet while the skeleton slides, tearing deep vessels under an area that is already injured. The aspiration-prevention window ended at 0900, so the nurse lifts the client with a draw sheet and a second staff member and lowers the HOB to 30°. Dragging and powders add damage.",
+   "takeaway": "Sliding + high HOB = shear: lift (never drag) and bring the HOB to ≤ 30° once aspiration precautions allow.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 3, 0800:</strong> 83-year-old client admitted 2 days ago from home with aspiration pneumonia. History of Parkinson disease and moderate dementia; wears bilateral hearing aids. Oriented to self only. Moans and grimaces with turning but cannot state where discomfort is. Bedfast; makes occasional slight changes in position without help. Slides down in bed when the head of the bed is raised for meals; requires 2-person assist to reposition. Incontinent of urine and stool; linen changed 3 times overnight. Eats about 25% of pureed meals and refuses the oral supplement. Spouse visits daily and states the client ‘barely moved from the recliner’ for the week before admission.</p><p><strong>Skin:</strong> Sacrum — 4 × 3 cm area of nonblanchable redness, skin intact, warmer than surrounding skin. Right heel — 2 × 2 cm area of nonblanchable redness, skin intact, spongy (boggy) on palpation. Left heel — 1 × 1 cm intact blister filled with clear serous fluid. Left ischial tuberosity — 1.5 × 1 cm shallow open area with a pink, moist wound bed; no slough. Radial and pedal pulses 2+ bilaterally.</p><p><strong>Day 3, 1000:</strong> UAP reports the client ‘slid all the way down to the footboard.’ Head of bed found at 45°; breakfast finished at 0800. Client’s heels are resting on the mattress. Sheets wrinkled and damp beneath the client. Client grimacing.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "Day 2, 2000",
-         "37.9 °C (100.2 °F)",
-         "94",
-         "22",
-         "122/70",
-         "92% on 2 L/min NC"
-        ],
-        [
-         "Day 3, 0800",
-         "38.1 °C (100.6 °F)",
-         "96",
-         "22",
-         "118/68",
-         "93% on 2 L/min NC"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Braden Scale",
-      "table": {
-       "headers": [
-        "Subscale",
-        "Score",
-        "Descriptor"
-       ],
-       "rows": [
-        [
-         "Sensory perception",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Moisture",
-         "2",
-         "Very moist"
-        ],
-        [
-         "Activity",
-         "1",
-         "Bedfast"
-        ],
-        [
-         "Mobility",
-         "2",
-         "Very limited"
-        ],
-        [
-         "Nutrition",
-         "1",
-         "Very poor"
-        ],
-        [
-         "Friction & shear",
-         "1",
-         "Problem"
-        ],
-        [
-         "Total",
-         "9",
-         "—"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "13,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "11.2 g/dL",
-         "13.5–17.5 g/dL (male)"
-        ],
-        [
-         "Albumin",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Total lymphocyte count",
-         "1,100/mm³",
-         "1,500–4,000/mm³"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Ampicillin-sulbactam 3 g IV every 6 hours</li><li>Dysphagia (pureed) diet; HOB ≥ 30° during meals and for 1 hour after</li><li>Oxygen 2 L/min via nasal cannula; titrate to SpO₂ ≥ 92%</li><li>Pressure-injury prevention protocol; reposition per protocol</li><li>Wound care nurse and dietitian consults</li><li>Weigh daily</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the 1000 entry in the Nurses' Notes and the Orders. Which action should the nurse take first?",
-   "options": [
-    "Apply a transparent film dressing over the sacral Stage 1 area to reduce friction",
-    "Lower the HOB to 30° or less and lift the client up in bed with two staff",
-    "Raise the head of the bed to high-Fowler position to prevent aspiration of oral secretions",
-    "Ask the UAP to pull the client up by the arms after the next meal is finished"
-   ],
-   "answer": 1,
-   "optionRationales": [
-    "Incorrect. A film dressing may reduce friction, but it does not stop the ongoing shear and pressure causing the problem right now.",
-    "Correct. Breakfast ended 2 hours ago, so the HOB no longer needs to be elevated. Lowering the HOB to ≤ 30° and lifting (not dragging) the client removes the shear force immediately.",
-    "Incorrect. High-Fowler position increases shear and sacral pressure; the order requires HOB ≥ 30° only during meals and for 1 hour after.",
-    "Incorrect. Pulling by the arms risks shoulder injury and drags the skin (friction and shear), and delaying repositioning prolongs tissue injury."
-   ],
-   "rationale": "The client has slid down with the HOB at 45° two hours after eating — sustained shear and pressure on the sacrum. The first action is to lower the HOB to 30° or less (the aspiration-precaution window has ended) and reposition the client using a lift sheet and two caregivers. The nurse then floats the heels, changes the damp linen, and addresses pain.",
-   "takeaway": "Stop shear first: lower the HOB to ≤ 30° when safe and lift — never drag — the client.",
-   "hintContent": "Shear occurs when the skeleton slides down while the skin stays fixed to the sheet; it is worst with HOB elevation above 30°.",
-   "hintStrategy": "‘First’ means the action that removes the active cause of injury. Check the order’s time limit for HOB elevation against the time of the last meal.",
+   "hintContent": "Recall what happens to deep sacral tissue when the HOB is high and the client slides, and how long the post-meal HOB order applies.",
+   "hintStrategy": "Check the times in the stem first to see whether the aspiration order still applies. Then choose the action that removes the damaging force without adding friction.",
    "priority": true
   },
   {
    "id": "m21e-006",
    "type": "mcq",
    "topic": "pressure-injuries-nursing-process",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · NGN Case Study: Pressure Injury Risk in an Older Adult",
+   "alsoTests": [
+    "pressure-injuries-staging",
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "caseId": "m21e-case-braden",
-   "caseOrder": 6,
-   "exhibit": {
-    "tabs": [
-     {
-      "title": "Nurses' Notes",
-      "html": "<p><strong>Day 7, 0800 (summary of care):</strong> Client on a low-air-loss mattress since Day 3. Repositioned every 2 hours using 30° lateral tilt; heels floated. Incontinence care with mild cleanser and barrier cream after each episode. Dietitian started high-protein supplement; speech therapy adjusted diet. Afebrile for 48 hours.</p><p><strong>Skin reassessment:</strong> See findings in the question.</p>"
-     },
-     {
-      "title": "Vital Signs",
-      "table": {
-       "headers": [
-        "Time",
-        "T",
-        "HR",
-        "RR",
-        "BP",
-        "SpO₂"
-       ],
-       "rows": [
-        [
-         "Day 7, 0800",
-         "36.9 °C (98.4 °F)",
-         "82",
-         "18",
-         "126/72",
-         "96% on room air"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Braden Scale",
-      "table": {
-       "headers": [
-        "Subscale",
-        "Day 3",
-        "Day 7"
-       ],
-       "rows": [
-        [
-         "Sensory perception",
-         "2",
-         "2"
-        ],
-        [
-         "Moisture",
-         "2",
-         "3"
-        ],
-        [
-         "Activity",
-         "1",
-         "1"
-        ],
-        [
-         "Mobility",
-         "2",
-         "2"
-        ],
-        [
-         "Nutrition",
-         "1",
-         "3"
-        ],
-        [
-         "Friction & shear",
-         "1",
-         "2"
-        ],
-        [
-         "Total",
-         "9",
-         "13"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Laboratory Results",
-      "table": {
-       "headers": [
-        "Test",
-        "Result",
-        "Reference range"
-       ],
-       "rows": [
-        [
-         "WBC",
-         "13,400/mm³",
-         "5,000–10,000/mm³"
-        ],
-        [
-         "Hemoglobin",
-         "11.2 g/dL",
-         "13.5–17.5 g/dL (male)"
-        ],
-        [
-         "Albumin",
-         "2.8 g/dL",
-         "3.5–5.0 g/dL"
-        ],
-        [
-         "Total lymphocyte count",
-         "1,100/mm³",
-         "1,500–4,000/mm³"
-        ]
-       ]
-      }
-     },
-     {
-      "title": "Orders",
-      "html": "<ul><li>Ampicillin-sulbactam 3 g IV every 6 hours</li><li>Dysphagia (pureed) diet; HOB ≥ 30° during meals and for 1 hour after</li><li>Oxygen 2 L/min via nasal cannula; titrate to SpO₂ ≥ 92%</li><li>Pressure-injury prevention protocol; reposition per protocol</li><li>Wound care nurse and dietitian consults</li><li>Weigh daily</li></ul>"
-     }
-    ]
-   },
-   "stem": "Refer to the Day 7 Nurses' Notes, Vital Signs, and Braden Scale. The nurse reassesses the client on Day 7. Which finding requires the nurse's immediate follow-up to revise the plan of care?",
+   "stem": "On day 7 of a pressure-injury plan of care, the nurse evaluates an older adult who on admission had nonblanchable sacral redness, a clear-fluid blister on the left heel, a shallow pink open area on the left ischium, and a serum albumin of 2.8 g/dL. Which finding requires the nurse to revise the plan of care?",
    "options": [
     "Sacral redness now blanches and fades within 30 minutes of turning",
-    "Left heel blister has been reabsorbed; skin intact and pink, heel floated off the mattress",
-    "Eats 75% of meals and drinks two protein supplements daily",
-    "Left ischial wound now 0.4 cm deep with visible yellow fat"
+    "Left heel blister has reabsorbed; the skin is intact and the heel is floated",
+    "Left ischial wound is now 0.4 cm deep with yellow fat visible in the base",
+    "Eats 75% of meals plus two supplements; albumin has risen to 3.6 g/dL"
    ],
-   "answer": 3,
+   "answer": 2,
    "optionRationales": [
-    "Incorrect. Redness that blanches and fades after pressure is removed indicates restored capillary flow — the Stage 1 injury has resolved.",
-    "Incorrect. The Stage 2 blister is healing while the heel is offloaded.",
-    "Incorrect. Improved intake (Braden nutrition 1 → 3) supports tissue repair.",
-    "Correct. Visible fat means full-thickness loss; the wound has progressed from Stage 2 to Stage 3, so the plan is not working and must be revised."
+    "Incorrect. Redness that now blanches and fades shows the Stage 1 sacral injury is resolving; the plan is working here.",
+    "Incorrect. A reabsorbed blister with intact skin shows the Stage 2 heel injury is healing.",
+    "Correct. The ischial wound has progressed from Stage 2 (partial thickness) to Stage 3 (fat visible). The injury is worsening, so positioning, seating, and the support surface must be reassessed and the plan revised.",
+    "Incorrect. Better intake and an albumin now in the normal range (at least 3.5 g/dL) show the nutrition goals are being met."
    ],
-   "rationale": "Evaluation compares current findings with expected outcomes. Resolved sacral redness, a healing heel blister, and improved nutrition show progress. Deterioration of the ischial wound to full thickness shows the plan is not meeting goals, so the nurse reassesses positioning, the support surface, and turning technique and modifies the plan.",
-   "takeaway": "A deeper or new injury = revise the plan; resolving redness and better intake = keep going.",
+   "rationale": "Evaluation compares current findings with the baseline. Three findings show progress: blanching sacral redness, a healed heel, and better intake with a rising albumin. The ischial wound now shows fat, so it has moved from Stage 2 to Stage 3. A wound that is deepening means the plan is not working for that site, so the nurse reassesses pressure relief there and revises the plan.",
+   "takeaway": "A wound that moves up a stage during treatment means the plan has failed at that site — reassess and revise.",
    "cjmm": "Evaluate Outcomes",
-   "focus": "Assessment Findings",
-   "hintContent": "Recall how a Stage 2 injury differs from a Stage 3 injury, and what signs show a pressure injury is resolving.",
-   "hintStrategy": "Compare each Day 7 finding with the Day 3 baseline. Three show improvement; find the one that shows deterioration.",
+   "focus": "Prioritization",
+   "hintContent": "Recall the tissue depth that defines each stage and the labs used to evaluate nutrition.",
+   "hintStrategy": "For each option, compare it with the admission finding and ask: better, same, or worse? Revise the plan for the finding that is worse.",
    "priority": true
   },
   {
    "id": "m21e-007",
    "type": "mcq",
    "topic": "pressure-injuries-wound-care-debridement",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Infection)",
+   "alsoTests": [
+    "pressure-injuries-nursing-process",
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Wound Care & Debridement",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "exhibit": {
@@ -1014,19 +305,23 @@
     "Incorrect. The old cushion should be addressed before discharge, but the client is on bed rest with no sitting; treating the infection comes first.",
     "Incorrect. Massaging inflamed tissue causes further damage."
    ],
-   "rationale": "The cue cluster (increased pain, purulent foul drainage, spreading warm redness, fever, WBC 15,800/mm³) indicates an infected pressure injury. The nurse collects the culture before the first antibiotic dose, then gives the antibiotic as ordered, and trends temperature and the marked border of redness to evaluate response. Sitting on the wound, ring cushions, and massage would worsen the condition.",
-   "takeaway": "Infected pressure injury: culture first, then antibiotics; trend fever and the redness border.",
+   "rationale": "The cue cluster points to an infected Stage 3 pressure injury: increased pain, purulent foul-smelling drainage, spreading warm redness, fever, and a WBC of 15,800/mm³. High glucose and low albumin also slow healing. The culture must be collected before the first antibiotic dose so the results identify the organism accurately; then the antibiotic is given without delay. The nurse evaluates response by trending temperature, WBC, and the marked border of redness, while pressure relief continues.",
+   "takeaway": "Infected pressure injury: culture first, then the antibiotic — and keep pressure off the wound.",
    "cjmm": "Take Action",
    "focus": "Prioritization",
-   "hintContent": "Recall the signs of an infected wound and why specimen collection timing matters when antibiotics are ordered.",
-   "hintStrategy": "Identify the condition from the cues, then look at the Orders tab: which prescribed action must happen before the other can be done correctly?",
+   "hintContent": "Recall the signs of an infected wound, why culture timing matters when antibiotics are ordered, and how glucose and albumin affect healing.",
+   "hintStrategy": "Name the problem from the cue cluster first. Then look at the Orders tab and ask which prescribed action has to happen before another can be done correctly.",
    "priority": true
   },
   {
    "id": "m21e-008",
    "type": "sata",
    "topic": "pressure-injuries-staging",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries; Nursing Process – Implementation",
+   "alsoTests": [
+    "pressure-injuries-prevention",
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "exhibit": {
@@ -1082,18 +377,22 @@
     "Incorrect. HOB above 30° increases shear on the sacrum.",
     "Correct. Return of blanching and fading redness show the injury is resolving; open skin would show progression."
    ],
-   "rationale": "Nonblanchable redness of intact skin over the sacrum after hours of unrelieved pressure is a Stage 1 pressure injury. Care targets the causes: reposition at least every 2 hours with proper lifting, keep the skin clean and dry with a barrier product, and avoid massage, doughnut devices, and HOB elevation above 30°. The nurse monitors the area's color and blanch response.",
-   "takeaway": "Stage 1: get off it, keep it dry, and recheck the blanch response.",
+   "rationale": "Nonblanchable redness on intact sacral skin that has not faded 30 minutes after turning is a Stage 1 pressure injury. The notes explain why it formed: hours on the back, damp linens, poor intake, and confusion. Correct care addresses those causes. The nurse repositions off the sacrum at least every 2 hours with a draw sheet, manages moisture with gentle cleansing and a barrier cream, and rechecks the blanch response at each turn. Massage, doughnut devices, and a HOB above 30° all worsen tissue damage.",
+   "takeaway": "Stage 1: get off it, keep it dry, recheck the blanch response.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the prevention measures for pressure, moisture, and shear, and the practices the slides say to avoid.",
-   "hintStrategy": "Ask of each option: does it remove pressure, moisture, or shear, or monitor the injury? Eliminate anything that adds pressure or damages tissue."
+   "hintContent": "Recall what defines Stage 1 and which prevention measures address pressure, moisture, and shear.",
+   "hintStrategy": "Link each option to a risk factor in the notes. Keep options that remove pressure, moisture, or shear or that monitor the injury; eliminate anything the slides say to avoid."
   },
   {
    "id": "m21e-009",
    "type": "sata",
    "topic": "pressure-injuries-staging",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Assessment (Dark Skin)",
+   "alsoTests": [
+    "skin-assessment-lesions",
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is caring for a 58-year-old client with darkly pigmented skin who has been on bed rest for 4 days after a stroke. The skin was assessed in natural light. Which findings suggest a pressure injury is developing? Select all that apply.",
@@ -1119,55 +418,64 @@
     "Correct. Induration or firmness (or bogginess) signals tissue damage under intact skin.",
     "Correct. Localized pain or tenderness over a pressure point often precedes visible change."
    ],
-   "rationale": "Blanching and redness are hard to see in darkly pigmented skin, so the nurse relies on color change compared with surrounding skin (darker, purple, bluish), temperature change (warmth or coolness), tissue consistency (induration, bogginess, edema), and pain. Good natural or halogen light improves visual assessment.",
-   "takeaway": "Dark skin: compare color, temperature, texture, and pain — don’t wait for redness.",
+   "rationale": "In darkly pigmented skin, Stage 1 may show as darkening or a purplish or bluish tone instead of redness, and blanching can be hard to see. The nurse therefore uses the assessment techniques from the skin-assessment and nursing-process lessons: inspect in good light and palpate. Compared with nearby skin, the area may be warmer or cooler, firm or boggy, and tender. Dry shins and a normal finger capillary refill are not signs of pressure injury.",
+   "takeaway": "Dark skin: look for darkening, then confirm Stage 1 by touch — temperature, firmness, and pain.",
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
-   "hintContent": "Recall how the signs of a Stage 1 pressure injury appear in darkly pigmented skin.",
-   "hintStrategy": "Focus on findings localized over a bony prominence. Eliminate findings that are normal or unrelated to pressure."
+   "hintContent": "Recall how Stage 1 appears in people of color and what palpation adds to inspection over a bony prominence.",
+   "hintStrategy": "Focus on findings located over the bony prominence and compared with the surrounding skin. General skin findings elsewhere do not help stage this area."
   },
   {
    "id": "m21e-010",
    "type": "sata",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Teaching)",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk",
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
-   "stem": "A home health nurse visits a 76-year-old client with right hemiplegia after a stroke who is cared for by an adult daughter. Which practices described by the daughter indicate a need for further teaching? Select all that apply.",
+   "stem": "A home health nurse visits a 76-year-old client with right hemiplegia and decreased sensation on the right side after a stroke. The client's adult daughter provides care. Which statements by the daughter indicate a need for further teaching? Select all that apply.",
    "options": [
-    "“I turn her at least every 2 hours during the day.”",
     "“I rub lotion firmly into the red areas over her tailbone.”",
     "“I put a pillow lengthwise under her calves so her heels float.”",
     "“She sits on a rubber ring cushion when she is in the recliner.”",
-    "“I sprinkle cornstarch in her groin after she is incontinent.”",
-    "“I offer her a protein shake between meals.”"
+    "“She stays on her right side most of the day since she can't feel that side.”",
+    "“I offer her a protein shake between her meals.”",
+    "“I sprinkle cornstarch in her groin after she is incontinent.”"
    ],
    "answer": [
-    1,
+    0,
+    2,
     3,
-    4
+    5
    ],
    "optionRationales": [
-    "Incorrect. Repositioning at least every 2 hours is the standard for bedbound clients.",
-    "Correct. Massaging reddened bony prominences damages capillaries and deep tissue.",
-    "Incorrect. Floating the heels removes pressure from the heels.",
-    "Correct. Ring (donut) cushions compress the surrounding tissue and reduce blood flow.",
-    "Correct. Powders and cornstarch cake with moisture and irritate the skin; a barrier cream or film is used instead.",
-    "Incorrect. Extra protein and calories between meals support skin integrity."
+    "Correct — needs teaching. Massage over reddened bony prominences damages fragile capillaries and worsens deep injury.",
+    "Incorrect — correct practice. Floating the heels offloads a high-risk prominence.",
+    "Correct — needs teaching. Ring (doughnut) cushions press on the surrounding tissue and reduce blood flow.",
+    "Correct — needs teaching. Lost sensation is a risk factor, not protection: she cannot feel the warning discomfort, so she needs scheduled repositioning at least every 2 hours.",
+    "Incorrect — correct practice. Extra protein and calories support skin integrity.",
+    "Correct — needs teaching. Cornstarch clumps when wet and irritates skin; the slides list it as a product to avoid."
    ],
-   "rationale": "Prevention teaching includes repositioning, heel floating, gentle cleansing, nutrition, and avoiding harmful practices: massage over bony prominences, prolonged HOB elevation above 30°, donut devices, and powders or cornstarch. The selected practices need correction.",
-   "takeaway": "No rubbing, no donuts, no powder, and HOB ≤ 30° when possible.",
+   "rationale": "This teaching evaluation relies on the risk-factor lesson. Diminished sensation after a stroke means the client cannot feel the discomfort that would normally prompt a position change. Leaving her on the numb side is therefore dangerous, not safe. Massage, ring cushions, and cornstarch are on the slides' avoid list. Floating the heels and giving protein supplements are correct prevention.",
+   "takeaway": "Numb side = can't feel the warning; reposition on a schedule and avoid massage, rings, and powders.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "hintContent": "Recall the practices the slides list as harmful for clients at risk of pressure injury.",
-   "hintStrategy": "Treat each statement as correct or incorrect practice. Select those that add pressure, friction, or skin irritation."
+   "hintContent": "Recall why diminished sensation raises risk and the prevention practices the slides say to avoid.",
+   "hintStrategy": "This item is negatively worded: you are selecting the statements that are WRONG. Judge each statement on its own as safe or unsafe."
   },
   {
    "id": "m21e-011",
    "type": "sata",
    "topic": "pressure-injuries-wound-care-debridement",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Evaluation",
-   "difficulty": 2,
+   "alsoTests": [
+    "wound-healing-intention-phases",
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Wound Care & Debridement",
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is comparing this week's assessment of a client's Stage 3 sacral pressure injury with last week's documentation. Which findings indicate the wound is progressing toward healing? Select all that apply.",
    "options": [
@@ -1191,51 +499,53 @@
     "Incorrect. White, wrinkled periwound skin is maceration from excess moisture.",
     "Correct. Epithelial cells migrating from the margin are the final step in wound closure."
    ],
-   "rationale": "Signs of healing include decreasing size, healthy red granulation, and new epithelium at the edges. Purulent drainage, increasing undermining, and maceration indicate infection or deterioration and require the care plan to be modified.",
-   "takeaway": "Healing = smaller, redder (granulation), and pink edges; not pus, maceration, or deeper undermining.",
+   "rationale": "Evaluating a wound combines three lessons. Beefy red granulation is healthy proliferative-phase tissue (the RYB goal is to protect it). Shrinking length and a pink epithelial rim at the margins show the wound is closing by secondary intention. Growing undermining means more tissue destruction. Thick, green, foul-smelling (purulent) drainage suggests infection. White, wrinkled periwound skin is maceration from excess moisture.",
+   "takeaway": "Healing = smaller, redder, pink edges; worsening = deeper undermining, purulent drainage, macerated edges.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
-   "hintContent": "Recall what healthy granulation and epithelialization look like, and the signs of infection or deterioration.",
-   "hintStrategy": "Compare each finding with last week. Select those that show the wound getting smaller or filling with healthy tissue."
+   "hintContent": "Recall what healthy granulation and epithelialization look like in the proliferative phase and what purulent exudate and maceration mean.",
+   "hintStrategy": "Compare each finding with last week or with normal healing. Select only the findings that show change in the right direction."
   },
   {
    "id": "m21e-012",
    "type": "mcq",
    "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Risk Factors (Excessive Body Heat)",
+   "alsoTests": [
+    "pressure-injuries-prevention"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client on bed rest with pneumonia has a temperature of 39.2 °C (102.6 °F). A nursing student asks how the fever affects the client's pressure-injury risk and care. Which response by the nurse is accurate?",
+   "options": [
+    "“Fever lowers capillary pressure to zero, so turning can wait until the fever breaks.”",
+    "“Fever thickens the skin and makes it less elastic, so massage the bony prominences.”",
+    "“Fever causes the kidneys to lose protein, so protein should be limited until it resolves.”",
+    "“Fever raises oxygen demand, so compressed tissue turns ischemic sooner; keep turning.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Fever does not drop capillary pressure to zero, and delaying turns lengthens ischemia.",
+    "Incorrect. Fever does not thicken skin, and massage over bony prominences damages tissue.",
+    "Incorrect. Fever does not cause protein loss through the kidneys, and restricting protein would weaken tissue and slow healing.",
+    "Correct. Heat raises the metabolic rate and oxygen demand, so tissue under pressure runs out of oxygen sooner. Repositioning at least every 2 hours is even more important."
+   ],
+   "rationale": "Excessive body heat is a slide risk factor because it raises the metabolic rate and oxygen demand. Tissue already squeezed over a bony prominence becomes ischemic faster. The prevention response is to keep up scheduled repositioning, not delay it. Massage and protein restriction contradict the prevention lesson.",
+   "takeaway": "Fever speeds ischemia under pressure, so never let the turning schedule slip in a febrile client.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "stem": "A client on bed rest with pneumonia has a temperature of 39.2 °C (102.6 °F). A nursing student asks why the fever increases the client's risk for pressure injury. Which explanation by the nurse is accurate?",
-   "options": [
-    "“Fever raises the metabolic rate and oxygen demand, so tissue under pressure becomes ischemic faster.”",
-    "“Fever lowers capillary pressure to zero, so any contact with the bed stops blood flow.”",
-    "“Fever makes the skin thicker and less elastic, so it tears when the client is turned.”",
-    "“Fever causes the kidneys to lose protein, so the skin gradually loses the padding over the bony prominences.”"
-   ],
-   "answer": 0,
-   "optionRationales": [
-    "Correct. Excessive body heat increases the metabolic rate and oxygen demand, which worsens ischemia in tissue that is already under pressure.",
-    "Incorrect. Fever does not stop capillary flow; the problem is that tissues need more oxygen than a compressed capillary bed can deliver.",
-    "Incorrect. Fever does not thicken the skin; loss of elasticity is an age-related change.",
-    "Incorrect. Fever does not cause renal protein loss; loss of padding comes from inadequate nutrition."
-   ],
-   "rationale": "The slides list excessive body heat as a risk factor: fever increases metabolic rate and oxygen demand, so tissue compressed over a bony prominence becomes ischemic more quickly. Clients with fever need close skin assessment and consistent repositioning.",
-   "takeaway": "Fever = ↑ metabolic rate + ↑ O₂ demand = faster ischemia under pressure.",
-   "hintContent": "Recall what excessive body heat does to the tissue's need for oxygen.",
-   "hintStrategy": "Link the cue in the stem (fever) to a mechanism of ischemia; eliminate options that describe effects fever does not have.",
+   "hintContent": "Recall how temperature affects cellular metabolism and oxygen demand, and the repositioning schedule for bed-bound clients.",
+   "hintStrategy": "Each option has two parts, a mechanism and an action. Both parts must be correct.",
    "priority": false
   },
   {
    "id": "m21e-013",
    "type": "mcq",
    "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Risk Factors for Pressure Injuries",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
    "stem": "The nurse on a medical-surgical unit is reviewing four assigned clients. Which client should the nurse prioritize for pressure-injury prevention measures?",
    "options": [
     "A 45-year-old with a casted wrist fracture who walks independently and eats 100% of every meal",
@@ -1250,50 +560,56 @@
     "Incorrect. Age and heart failure raise risk slightly, but this client is mobile and continent.",
     "Incorrect. Sitting increases ischial pressure, but the client can sense discomfort and shift weight independently."
    ],
-   "rationale": "Risk is greatest when multiple factors combine: diminished sensation (cannot feel warning signs), immobility, excess body heat, and moisture. The client with an acute spinal cord injury has all of these; the others have one factor or none and can protect themselves.",
-   "takeaway": "Count risk factors: no sensation + no movement + heat + moisture = highest risk.",
-   "hintContent": "Recall the slide list of risk factors: immobility, nutrition, incontinence, mental status, sensation, body heat, age, and chronic disease.",
-   "hintStrategy": "Tally the risk factors for each client and weigh them: one factor offset by intact sensation and independent movement carries less risk than several factors acting together.",
+   "rationale": "When choosing which client is at greatest risk, look for stacked risk factors. The client with a new T4 spinal cord injury has lost both sensation and movement below the injury, so he cannot feel or relieve pressure. Fever raises oxygen demand, and bowel incontinence adds moisture and enzymes. The other clients can walk or shift their own weight.",
+   "takeaway": "Greatest risk = the most risk factors stacked together, especially lost sensation plus immobility.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Recall the slide risk factors and which ones affect both the ability to feel pressure and the ability to move away from it.",
+   "hintStrategy": "Count the risk factors for each client. Then ask which client cannot feel the pressure or move away from it.",
    "priority": true
   },
   {
    "id": "m21e-014",
    "type": "mcq",
    "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pressure Injuries – Overview; Supportive Devices",
+   "alsoTests": [
+    "pressure-injuries-staging"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "stem": "A 72-year-old client with obesity was found on the floor at home after lying on the right side for about 10 hours. The skin over the right hip is red and does not blanch. Which explanation by the nurse to the family about how the injury developed is accurate?",
+   "stem": "A 72-year-old client was found on the floor at home after lying on the right side for about 10 hours. The skin over the right hip is intact and red, and it does not blanch when pressed. Which explanation by the nurse to the family is accurate?",
    "options": [
-    "“Pressure above about 120 mm Hg caused fluid to build up in the hip, and the swelling made the skin stronger and thicker.”",
-    "“The redness shows the tissue is recovering, and it will return to normal once the color improves.”",
-    "“Pressure above about 32 mm Hg reduced blood flow, the tissue became ischemic, and it can die and form an ulcer.”",
-    "“Lying still allowed collagen to build up in the hip, which caused the area to turn red.”"
+    "“Pressure above capillary pressure cut off blood flow; this Stage 1 injury can still heal.”",
+    "“Pressure made fluid build up and thickened the skin; this is normal redness that will fade soon.”",
+    "“The redness means the tissue is already recovering; this is a Stage 2 injury because the skin is red.”",
+    "“Lying still let collagen collect in the hip; this is a Stage 3 injury because the redness is deep.”"
    ],
-   "answer": 2,
+   "answer": 0,
    "optionRationales": [
-    "Incorrect. The critical threshold is capillary pressure of about 32 mm Hg, and edema does not strengthen tissue.",
-    "Incorrect. Nonblanchable redness is a Stage 1 injury; it will not resolve unless pressure is relieved.",
-    "Correct. When external pressure exceeds capillary pressure (about 32 mm Hg), blood flow decreases, the tissue becomes ischemic, and unrelieved ischemia leads to necrosis and an ulcer.",
-    "Incorrect. Collagen deposition is part of healing, not the cause of a pressure injury."
+    "Correct. External pressure above about 32 mm Hg closed the capillaries, and the tissue became ischemic. Intact, nonblanchable redness is Stage 1, which can resolve if pressure is relieved.",
+    "Incorrect. Pressure does not strengthen skin, and redness that does not blanch is not normal reactive redness.",
+    "Incorrect. Nonblanchable redness signals damage, not recovery. Stage 2 requires partial-thickness skin loss or a blister.",
+    "Incorrect. Collagen does not collect from immobility, and Stage 3 requires full-thickness loss into fat."
    ],
-   "rationale": "Supportive devices aim to keep external pressure below capillary pressure (about 32 mm Hg). Prolonged pressure above this level decreases blood flow, causing ischemia; unrelieved ischemia leads to tissue necrosis and an ulcer. Nonblanchable redness of intact skin is a Stage 1 injury that must be offloaded and reassessed.",
-   "takeaway": "Pressure > 32 mm Hg → ↓ flow → ischemia → necrosis → ulcer.",
+   "rationale": "The explanation combines pathophysiology and staging. Prolonged pressure greater than capillary pressure (about 32 mm Hg) reduces blood flow, causing ischemia; unrelieved, this leads to necrosis and ulceration. On intact skin, redness that does not blanch is a Stage 1 injury. It is the last point at which the injury can be reversed by keeping pressure off the area.",
+   "takeaway": "Pressure > 32 mm Hg → ischemia; nonblanchable redness on intact skin = Stage 1, still reversible.",
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
-   "hintContent": "Recall the approximate capillary pressure and the sequence from pressure to ulcer.",
-   "hintStrategy": "Look for the option that states the correct pressure threshold and the correct sequence of tissue events.",
+   "hintContent": "Recall the capillary pressure value, the pressure → ischemia → necrosis → ulcer pathway, and what defines Stage 1.",
+   "hintStrategy": "Check both halves of each option: the mechanism and the stage. Eliminate an option if either half is wrong.",
    "priority": false
   },
   {
    "id": "m21e-015",
    "type": "sata",
    "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Risk Factors for Pressure Injuries",
+   "alsoTests": [
+    "diagnostics-labs-nutrition"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "stem": "The nurse is reviewing data for an 88-year-old resident of a long-term care facility who has advanced dementia. Which findings increase this resident's risk for pressure injury? Select all that apply.",
    "options": [
     "Weight decreased from 54 kg (119 lb) to 49 kg (108 lb) over the past month",
@@ -1316,49 +632,56 @@
     "Incorrect. This hemoglobin is within normal limits and supports oxygen delivery.",
     "Incorrect. Adequate fluid intake supports skin turgor and perfusion."
    ],
-   "rationale": "Risk factors include inadequate nutrition (weight loss), immobility, friction and shear, and moisture from incontinence, in addition to decreased mental status and advanced age. Ambulation, normal hemoglobin, and adequate hydration are protective.",
-   "takeaway": "Weight loss, immobility, shear, and moisture — watch for the combination in older adults.",
-   "hintContent": "Recall how nutrition, mobility, and moisture each affect tissue tolerance to pressure.",
-   "hintStrategy": "Treat each option as true/false: does this finding increase risk, or is it normal/protective?"
+   "rationale": "The slides tie risk to the Braden areas and to nutrition markers. Losing 5 kg (about 9%) in a month signals inadequate nutrition, meaning less padding and weaker tissue. Needing help to move and sliding in the wheelchair reflect limited mobility plus shear. Frequent incontinence adds moisture that macerates skin. Walking three times daily, a normal hemoglobin, and adequate fluid intake are protective.",
+   "takeaway": "Weight loss, limited mobility with sliding, and incontinence are classic stacked risks in long-term care.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall the Braden subscales and the nutrition values (weight, hemoglobin, albumin, lymphocytes) the slides say to monitor.",
+   "hintStrategy": "Decide whether each value is normal or abnormal, then whether it maps to a risk factor. Normal values and activity are not risks."
   },
   {
    "id": "m21e-016",
    "type": "mcq",
    "topic": "pressure-injuries-pathophysiology-risk",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Risk Factors (Advanced Age)",
+   "alsoTests": [
+    "lifespan-skin",
+    "skin-structure-function"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pathophysiology & Risk Factors",
    "difficulty": 2,
-   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "The daughter of an 86-year-old client asks why her mother developed a pressure injury after only 2 days in bed with a hip fracture. Which explanation by the nurse is most accurate?",
+   "options": [
+    "“Aging skin is thinner and less elastic, with less oil, padding, and blood flow.”",
+    "“Older adults sweat much more than younger adults, so the skin under her stays soaked with moisture.”",
+    "“Aging thickens the outer layer of skin, and that thicker layer traps heat against the tissue underneath.”",
+    "“Older adults have higher capillary pressure, so the mattress presses harder on the skin over the bones.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Older skin is thinner, drier, less elastic, and less cushioned, with poorer circulation, so it breaks down faster under pressure and heals more slowly.",
+    "Incorrect. Sweating decreases with age; older skin is typically drier.",
+    "Incorrect. The epidermis thins with age, and heat is not trapped by a thickened layer.",
+    "Incorrect. Higher capillary pressure would protect the tissue, not endanger it; age does not raise capillary pressure."
+   ],
+   "rationale": "Advanced age is a slide risk factor because of changes in skin structure. The epidermis and dermis thin, oil and moisture decrease, subcutaneous padding shrinks, and circulation declines. Tissue therefore becomes ischemic and breaks down under pressure faster, and it heals more slowly. Immobility from the hip fracture adds to these changes.",
+   "takeaway": "Older skin = thin, dry, less padded, less perfused, so it breaks down sooner.",
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
-   "stem": "The daughter of an 86-year-old client asks why her mother developed a pressure injury after only 2 days in bed. Which age-related change should the nurse include in the explanation?",
-   "options": [
-    "“Older adults sweat much more, which keeps the skin constantly soaked.”",
-    "“Older skin has a thicker outer layer that traps heat against the tissue.”",
-    "“Older adults have higher capillary pressure, so the bed presses harder on the skin.”",
-    "“Older skin is thinner and less elastic, with less oil and poorer circulation.”"
-   ],
-   "answer": 3,
-   "optionRationales": [
-    "Incorrect. Sweat production decreases with age; older skin tends to be dry.",
-    "Incorrect. The skin of older adults becomes thinner, not thicker.",
-    "Incorrect. Aging does not raise capillary pressure; a higher capillary pressure would actually protect tissue.",
-    "Correct. Thinner, less elastic skin with decreased oil, decreased circulation, and increased dryness tolerates pressure poorly."
-   ],
-   "rationale": "Advanced age is a pressure injury risk factor because the skin becomes thinner and less elastic, with decreased oil, decreased circulation, and increased dryness. Older adults may also have chronic conditions (diabetes, cardiovascular disease) that further impair circulation and healing.",
-   "takeaway": "Aging skin: thin, less elastic, dry, and poorly perfused.",
-   "hintContent": "Recall the age-related skin changes listed on the risk-factor slide.",
-   "hintStrategy": "Eliminate options that describe changes opposite to what happens with aging skin.",
+   "hintContent": "Recall how the epidermis, dermis, oil glands, and subcutaneous fat change with aging.",
+   "hintStrategy": "Eliminate options that describe the opposite of known age-related skin changes.",
    "priority": false
   },
   {
    "id": "m21e-017",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Repositioning (Positions)",
+   "alsoTests": [
+    "pressure-injuries-staging"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
    "stem": "A client on bed rest has a Stage 2 pressure injury on the sacrum and an area of nonblanchable erythema over the right greater trochanter. The nurse is about to turn the client off the back. Which position is most appropriate?",
    "options": [
     "Left side-lying at 90° with the top leg resting directly on the bottom leg",
@@ -1373,21 +696,24 @@
     "Correct. A 30° tilt to the left relieves the sacrum and the injured right trochanter without loading the left trochanter directly; pillows keep bony prominences apart.",
     "Incorrect. Tilting to the right loads the right trochanter, which already has a Stage 1 injury."
    ],
-   "rationale": "Avoid positioning a client on an existing pressure injury. The 30° lateral tilt distributes weight across the buttock rather than the trochanter or sacrum. Pillows between the knees and ankles prevent bone-on-bone contact.",
-   "takeaway": "Use a 30° tilt, and never position on an existing injury.",
-   "hintContent": "Recall which bony prominence bears weight in 90° side-lying compared with a 30° tilt.",
-   "hintStrategy": "First eliminate any option that places weight on either existing injury, then compare the remaining angles.",
+   "rationale": "Positioning depends on staging. The client has a Stage 2 injury on the sacrum and a Stage 1 injury (nonblanchable redness) over the right trochanter, and the slides say not to position a client on an existing injury. A left 30° lateral tilt with pillows behind the back puts weight on the fleshy left buttock and spares both injured sites. Pillows between the knees keep bone off bone. A 90° side-lying position loads the trochanter, and a HOB at 45° increases sacral shear.",
+   "takeaway": "Never position on an injury; a 30° tilt toward the uninjured side spares the sacrum and hip.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall which bony prominence bears weight in each position and the stage of each of this client's injuries.",
+   "hintStrategy": "Identify both injured sites first, then eliminate any position that loads either one.",
    "priority": false
   },
   {
    "id": "m21e-018",
    "type": "sata",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Chair Positioning)",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
    "stem": "An 80-year-old client with heart failure and limited mobility at a rehabilitation facility prefers to sit up in a chair for much of the day. The client can follow simple directions. Which interventions should the nurse include to protect the client's skin while sitting? Select all that apply.",
    "options": [
     "Reposition the client at least every hour while in the chair",
@@ -1411,20 +737,23 @@
     "Incorrect. Sliding forward creates shear across the sacrum and coccyx.",
     "Correct. Clients who are able should shift weight every 15–30 minutes (commonly taught as every 15 minutes)."
    ],
-   "rationale": "When sitting, pressure concentrates on the ischial tuberosities. Protective measures include limiting sitting time, hourly repositioning, frequent self-weight shifts, a pressure-redistributing cushion, and good posture with feet supported. Donut devices and sliding positions increase injury.",
-   "takeaway": "Chair: reposition hourly, shift weight often, proper cushion, feet supported — never a donut.",
-   "hintContent": "Recall how often seated clients should be repositioned compared with bedbound clients, and which devices the text says to avoid.",
-   "hintStrategy": "Judge each option independently. Watch for options that sound comfortable but create shear or reduce blood flow."
+   "rationale": "Sitting concentrates body weight on the small ischial tuberosities, and a reclined or slumped posture adds shear. The slides therefore call for repositioning every hour in a chair and weight shifts about every 15 minutes, using a pressure-redistributing cushion (never a ring) and keeping the feet supported so the thighs are level. Ring cushions reduce blood flow to the surrounding tissue, and sliding forward creates shear.",
+   "takeaway": "Chair: reposition hourly, shift weight every 15 minutes, use a real cushion, keep feet supported, no rings.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Recall the chair repositioning times and how sliding in a chair produces shear.",
+   "hintStrategy": "For each option, ask whether it reduces pressure on the sitting bones without adding shear or narrowing blood flow."
   },
   {
    "id": "m21e-019",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Skin Integrity)",
+   "alsoTests": [
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Delegation & Safety",
    "stem": "The RN is observing an LPN provide care to a client at high risk for pressure injury. Which action by the LPN requires the RN's immediate intervention?",
    "options": [
     "Raising the head of the bed to 30° after the client finishes lunch",
@@ -1439,50 +768,57 @@
     "Requires intervention. Massage over bony prominences or reddened areas damages capillaries and deeper tissue and is avoided.",
     "Appropriate. Barrier creams such as dimethicone protect skin from moisture."
    ],
-   "rationale": "The implementation slide directs the nurse to avoid massage over bony prominences, manage moisture, and use proper turning and transferring techniques. Massaging a reddened sacrum can worsen deep tissue damage, so the RN intervenes.",
-   "takeaway": "Never massage a reddened bony prominence.",
-   "hintContent": "Recall which skin-care practice the implementation slide specifically says to avoid.",
-   "hintStrategy": "This item asks for the unsafe action. Check each option against the slide list of skin integrity interventions.",
+   "rationale": "The RN supervises care delegated to the LPN. Massage over a reddened bony prominence can break fragile capillaries and worsen deep damage, so the RN must stop it immediately. The other actions follow prevention guidelines: HOB at 30° after meals, lifting with a draw sheet, and applying a barrier cream.",
+   "takeaway": "Stop anyone massaging a reddened bony prominence.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall which skin-care practices the slides list under 'avoid' and the RN's supervisory role.",
+   "hintStrategy": "Three options are safe prevention measures. Find the one that could cause harm.",
    "priority": true
   },
   {
    "id": "m21e-021",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Nutrition",
+   "alsoTests": [
+    "diagnostics-labs-nutrition",
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
-   "stem": "A 74-year-old client has a Stage 3 sacral pressure injury and eats about 50% of meals. Kidney function is normal. Which intervention is indicated to support wound healing?",
+   "stem": "A 74-year-old client has a Stage 3 sacral pressure injury, eats about 50% of meals, and has lost 4 kg (8.8 lb) in a month. Serum albumin is 2.9 g/dL, and kidney function is normal. Which intervention is the priority to support wound healing?",
    "options": [
-    "Restrict fluids to 1,000 mL/day to reduce wound drainage",
-    "Offer high-calorie, high-protein oral supplements between meals",
+    "Restrict fluids to 1,000 mL/day to reduce drainage from the wound",
+    "Offer high-calorie, high-protein supplements between meals",
     "Limit protein to prevent weight gain while the client is on bed rest",
-    "Provide a low-calorie diet so the client stays active enough to reposition"
+    "Provide a low-calorie diet so the client can reposition more easily"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Adequate hydration supports circulation and tissue repair; fluid restriction is not a wound treatment.",
-    "Correct. Supplements are used when a client is nutritionally compromised; protein and calories are essential for tissue repair.",
-    "Incorrect. Protein is essential for tissue repair; restricting it delays healing.",
-    "Incorrect. The client is already eating poorly and needs more calories, not fewer."
+    "Incorrect. Limiting fluids does not usefully dry a wound; adequate hydration keeps tissue perfused and supple.",
+    "Correct. Weight loss, poor intake, and albumin below 3.5 g/dL show malnutrition. Healing needs more protein and calories, and supplements fill the gap between meals.",
+    "Incorrect. Protein is the building block for collagen and new tissue; restricting it slows healing.",
+    "Incorrect. Too few calories makes the body burn protein for energy instead of using it to build tissue."
    ],
-   "rationale": "Adequate intake means fewer pressure injuries and better healing. Key nutrients are protein, calories, vitamins A and C, zinc, and iron. The nurse monitors weight, lymphocyte count, albumin, and hemoglobin, uses supplements when the client is nutritionally compromised, and consults the dietitian.",
-   "takeaway": "Feed the wound: protein, calories, vitamins A and C, zinc, iron — and trend weight and labs.",
-   "cjmm": "Generate Solutions",
+   "rationale": "The low albumin, weight loss, and poor intake together show malnutrition, which delays healing. The prevention and health-promotion slides call for more protein, calories, vitamins A and C, zinc, and iron, with supplements when intake is poor, plus a dietitian consult. Fluid, protein, and calorie restrictions work against healing in a client with normal kidney function.",
+   "takeaway": "Low albumin + weight loss in a client with a wound → more protein and calories, never less.",
+   "cjmm": "Take Action",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the nutrients the slides list for skin integrity and what the nurse does when a client is nutritionally compromised.",
-   "hintStrategy": "The client eats half of meals and has a deep wound. Eliminate options that restrict what the wound needs to heal.",
-   "priority": false
+   "hintContent": "Recall the albumin threshold for delayed healing and the nutrients a healing wound needs.",
+   "hintStrategy": "Interpret the lab and weight data first. Then pick the option that gives the tissue more of what it lacks.",
+   "priority": true
   },
   {
    "id": "m21e-022",
    "type": "sata",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Skin Hygiene",
+   "alsoTests": [
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 1,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Recognize Cues",
-   "focus": "Delegation & Safety",
    "stem": "The RN is supervising a UAP who is providing morning care to a client with a Braden score of 12 on a low-air-loss mattress. Which actions by the UAP require the RN to intervene? Select all that apply.",
    "options": [
     "Bathing the client with hot water to stimulate circulation",
@@ -1505,16 +841,21 @@
     "Intervene. Powders and cornstarch clump with moisture and irritate the skin.",
     "Appropriate. Persistent redness should be reported so the RN can assess it."
    ],
-   "rationale": "UAPs can perform hygiene and repositioning, but the RN must correct unsafe practices: hot water, layering linens on specialty surfaces, and powders. Gentle cleansing, barrier creams, lift sheets, and prompt reporting are correct.",
-   "takeaway": "One layer on a specialty bed; warm (not hot) water; barrier cream, not powder.",
-   "hintContent": "Recall the slide list of what to use and avoid for skin hygiene, and how specialty mattresses work.",
-   "hintStrategy": "This is a ‘requires intervention’ item — you are selecting the UNSAFE actions."
+   "rationale": "The RN keeps accountability for care delegated to the UAP and must correct unsafe practice. Hot water dries and damages fragile skin. Stacked pads create ridges and block the air flow of a low-air-loss surface. Cornstarch clumps and irritates skin in folds. Lifting with a sheet, applying dimethicone, and reporting redness that does not fade are correct actions.",
+   "takeaway": "No hot water, no stacked pads, no powder — and praise UAPs who report redness that doesn't fade.",
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall the skin-hygiene avoid list and how a low-air-loss surface should be used.",
+   "hintStrategy": "You are selecting UNSAFE actions. Judge each action separately as safe or unsafe."
   },
   {
    "id": "m21e-023",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Teaching)",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 34-year-old client with a T8 spinal cord injury who uses a manual wheelchair is being discharged home. Which client statement indicates a need for further teaching about pressure-injury prevention?",
@@ -1531,23 +872,24 @@
     "Correct. The client lacks sensation below T8 and cannot rely on discomfort; weight shifts must be done on a schedule.",
     "Incorrect. Persistent redness means injury; the area must be offloaded and evaluated."
    ],
-   "rationale": "Clients with spinal cord injury have lost the protective warning of pain. Teaching emphasizes scheduled weight shifts, daily skin inspection, prompt action on persistent redness, and adequate protein.",
-   "takeaway": "No sensation = scheduled pressure relief, not ‘when it hurts.’",
+   "rationale": "Diminished sensation is a risk factor because the client cannot feel the discomfort that normally prompts movement. A client with a T8 injury therefore has to shift weight on a schedule (about every 15 minutes in the chair), not when discomfort occurs. Daily mirror checks and staying off a red area that does not fade show correct understanding.",
+   "takeaway": "No sensation = no warning; weight shifts go by the clock, not by feel.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
-   "hintContent": "Recall how loss of sensation changes the way a client must relieve pressure.",
-   "hintStrategy": "Look for the statement that relies on a warning signal this client no longer has.",
+   "hintContent": "Recall why diminished sensation raises risk and the weight-shift interval for wheelchair users.",
+   "hintStrategy": "Look for a statement that depends on a sense the client no longer has.",
    "priority": false
   },
   {
    "id": "m21e-024",
    "type": "sata",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Repositioning (Positions)",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "stem": "A client on bed rest has been lying supine for most of the shift. Which bony prominences should the nurse inspect most closely for pressure injury? Select all that apply.",
    "options": [
     "Occiput",
@@ -1571,16 +913,19 @@
     "Incorrect. The forehead and chin bear weight in the prone position.",
     "Correct. The shoulder blades bear weight in the supine position."
    ],
-   "rationale": "Pressure injuries form over the bony prominences that bear weight in each position. In the supine position, these are the occiput, scapulae, elbows, sacrum and coccyx, and heels. The anterior knees, iliac crests, and face are pressure points in the prone position.",
-   "takeaway": "Supine: occiput, scapulae, elbows, sacrum/coccyx, heels.",
-   "hintContent": "Picture the client lying on the back and identify which bony areas touch the mattress.",
-   "hintStrategy": "Eliminate every site that bears weight only when the client is lying face-down."
+   "rationale": "The prominences at risk depend on position. When supine, weight rests on the occiput, scapulae, elbows, sacrum and coccyx, and heels, so these areas are inspected closely under good light. The anterior knees, forehead, and chin bear weight in the prone position, not supine.",
+   "takeaway": "Supine: back of head, shoulder blades, elbows, sacrum and coccyx, heels.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall which bony prominences bear weight in each position.",
+   "hintStrategy": "Picture the client lying on the back and select only the prominences touching the mattress."
   },
   {
    "id": "m21e-025",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Moisture Management)",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A client at high risk for pressure injury is incontinent of liquid stool. The nurse has performed hand hygiene, applied clean gloves, and removed the soiled pad. Which action should the nurse take next?",
@@ -1609,40 +954,45 @@
    "id": "m21e-026",
    "type": "mcq",
    "topic": "pressure-injuries-staging",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement"
+   ],
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Analyze Cues",
-   "focus": "Assessment Findings",
-   "stem": "During a dressing change, the nurse assesses a client's coccyx wound that measures 3 × 2 × 0.5 cm. The wound bed has red granulation tissue and visible yellow fat, with yellow slough covering about 20% of the base. No muscle, tendon, or bone is visible or palpable. How should the nurse document this wound?",
+   "stem": "After cleansing, the nurse assesses a client's coccyx wound, which measures 3 × 2 × 0.5 cm. The bed has red granulation tissue and visible yellow fat, and soft, stringy yellow tissue covers about 20% of the base. No muscle, tendon, or bone is visible or palpable. Which documentation and plan are correct?",
    "options": [
-    "Stage 2 pressure injury",
-    "Stage 3 pressure injury",
-    "Stage 4 pressure injury",
-    "Stage 1 pressure injury"
+    "Stage 4; debride the base because yellow tissue is present in the wound",
+    "Stage 3; cleanse to remove the soft, stringy yellow nonviable tissue",
+    "Stage 2; protect the red granulation and leave the yellow tissue in place",
+    "Stage 3; protect both the yellow fat and the yellow tissue from trauma"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Stage 2 is partial thickness; fat is not visible.",
-    "Correct. Full-thickness loss into subcutaneous tissue (visible fat) without muscle, tendon, or bone is Stage 3.",
-    "Incorrect. Stage 4 requires damage to muscle, bone, or supporting structures.",
-    "Incorrect. Stage 1 is intact skin with nonblanchable redness; this wound is open and full thickness."
+    "Incorrect. Stage 4 requires visible or palpable muscle, tendon, or bone. Slough affects treatment, not stage.",
+    "Correct. Visible fat without deeper structures is Stage 3. Soft, stringy yellow tissue is slough, and the RYB goal for yellow is to cleanse it away.",
+    "Incorrect. Visible fat means full-thickness loss, which is beyond Stage 2, and slough should be removed.",
+    "Incorrect. The stage is correct, but slough is dead tissue that must be cleansed away; only living tissue (red granulation and fat) is protected."
    ],
-   "rationale": "Visible fat means full-thickness loss into subcutaneous tissue; the absence of muscle, tendon, or bone keeps it at Stage 3.",
-   "takeaway": "See fat = at least Stage 3; see bone, tendon, or muscle = Stage 4.",
-   "hintContent": "Recall the deepest tissue layer involved in each of the four stages.",
-   "hintStrategy": "Find the deepest structure described, then check whether slough hides enough of the base to prevent staging.",
+   "rationale": "The deepest visible tissue sets the stage: fat without muscle, tendon, or bone is Stage 3. The color of the tissue sets the treatment goal. Soft, stringy yellow tissue is slough (dead tissue), so the RYB goal is to cleanse it; red granulation is protected. Students must tell yellow fat (living tissue, a staging clue) from yellow slough (dead tissue, a treatment clue).",
+   "takeaway": "Deepest tissue = stage; tissue color = treatment. Yellow fat is living; yellow slough is dead.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall the tissue that defines Stage 3 versus Stage 4 and the RYB goal for each color.",
+   "hintStrategy": "Answer two questions separately, what stage and what goal, then find the option that gets both right.",
    "priority": false
   },
   {
    "id": "m21e-027",
    "type": "mcq",
    "topic": "pressure-injuries-staging",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Diagnosis",
+   "alsoTests": [
+    "pressure-injuries-nursing-process",
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Assessment Findings",
    "stem": "A 75-year-old client on bed rest has a Braden score of 12. The skin is intact, and all reddened areas blanch and fade after turning. Which nursing diagnosis best describes the client's skin?",
    "options": [
     "Potential for impaired skin integrity",
@@ -1657,17 +1007,22 @@
     "Incorrect. The skin is intact; there is no actual impairment yet.",
     "Incorrect. Nothing in the data suggests a problem with self-esteem."
    ],
-   "rationale": "Possible nursing diagnoses for pressure injuries include potential for impaired skin integrity, impaired skin integrity, risk for infection, underweight, compromised dignity, and situational low self-esteem. A client with high risk but intact skin has a potential problem; \"impaired skin integrity\" is used once the skin is broken or a Stage 1 injury is present.",
-   "takeaway": "Intact skin + high risk = potential for impaired skin integrity.",
-   "hintContent": "Recall the difference between an actual nursing diagnosis and a potential (risk) diagnosis.",
-   "hintStrategy": "Ask whether the problem already exists or could develop; choose the diagnosis that matches the data.",
+   "rationale": "Three steps lead to the answer. A Braden score of 12 means high risk. Redness that blanches and fades is normal reactive redness, not a Stage 1 injury, so no pressure injury is present. With high risk and intact skin, the correct nursing diagnosis is potential for impaired skin integrity. Impaired skin integrity and risk for infection require an actual break or injury.",
+   "takeaway": "High risk + intact, blanchable skin = potential for impaired skin integrity.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall what blanchable redness means for staging and how the slide diagnoses differ for intact versus injured skin.",
+   "hintStrategy": "First decide whether an injury exists. Then choose the diagnosis that matches actual versus potential.",
    "priority": false
   },
   {
    "id": "m21e-029",
    "type": "sata",
    "topic": "pressure-injuries-staging",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries (Stage II)",
+   "alsoTests": [
+    "skin-structure-function"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is reviewing skin findings recorded for several clients. Which findings should be classified as a Stage 2 pressure injury? Select all that apply.",
@@ -1690,18 +1045,19 @@
     "Correct. A clear-fluid blister is partial-thickness loss of the epidermis.",
     "Correct. A ruptured blister with a pink, moist base is partial-thickness loss."
    ],
-   "rationale": "Stage 2 is partial-thickness skin loss involving the epidermis and possibly the dermis: a shallow, open, pink wound or an intact or ruptured clear blister. Intact skin with nonblanchable redness is Stage 1, and visible fat means full-thickness loss (Stage 3).",
-   "takeaway": "Stage 2 = shallow and partial thickness: pink open area or blister.",
+   "rationale": "Stage 2 is partial-thickness loss of the epidermis and possibly the dermis. It appears as a clear-fluid blister (intact or ruptured) or as a shallow, pink, moist open area. Knowing the skin layers explains the distinction. Intact skin with nonblanchable redness is still Stage 1, and visible subcutaneous fat means full-thickness loss (Stage 3).",
+   "takeaway": "Blister (intact or broken) or shallow pink moist wound = Stage 2.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the depth of tissue loss in a Stage 2 pressure injury and the forms it can take.",
-   "hintStrategy": "For each finding, ask whether the skin is open or blistered and whether any subcutaneous tissue is visible."
+   "hintContent": "Recall the layers of the skin and which layers are lost in each stage.",
+   "hintStrategy": "For each finding, ask which layer is the deepest one involved, then match it to the stage."
   },
   {
    "id": "m21e-030",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Supportive Devices",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is reviewing pressure-redistribution devices with a newly hired UAP who will care for a client at high risk for pressure injury. Which instruction should the nurse give the UAP?",
@@ -1730,11 +1086,12 @@
    "id": "m21e-031",
    "type": "sata",
    "topic": "pressure-injuries-staging",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries (Stage IV)",
+   "alsoTests": [
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Four Stages of Pressure Injuries",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "cjmm": "Recognize Cues",
-   "focus": "Assessment Findings",
    "stem": "The nurse is measuring and assessing a client's sacral pressure injury after cleansing. Which findings, if present, would indicate that the wound is a Stage 4 pressure injury? Select all that apply.",
    "options": [
     "Bone palpable at the base with a sterile applicator",
@@ -1757,20 +1114,23 @@
     "Incorrect. Undermining can occur in deep wounds of either Stage 3 or Stage 4; it does not define the stage.",
     "Incorrect. Granulation tissue shows healing activity, not the depth of the original injury."
    ],
-   "rationale": "Stage 4 is full-thickness skin loss with tissue necrosis or damage to muscle, bone, or supporting structures such as tendon. Undermining and granulation tissue are wound features, not staging criteria.",
-   "takeaway": "Stage 4 = you can see or feel the ‘supporting structures’ (muscle, tendon, bone).",
-   "hintContent": "Recall which tissue structures define Stage 4 compared with Stage 3.",
-   "hintStrategy": "Each option is independent — ask whether that single finding alone would place the wound in Stage 4."
+   "rationale": "Stage 4 means full-thickness loss with muscle, tendon (a supporting structure), or bone seen or felt, often with a sterile applicator during the depth measurement. Undermining and granulation are wound features that the nurse documents during assessment, but they do not set the stage. Visible fat alone is Stage 3.",
+   "takeaway": "Stage 4 = muscle, tendon, or bone; undermining and granulation don't change the stage.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Recall the deepest tissue for each stage and which documented features describe a wound without staging it.",
+   "hintStrategy": "Select only the findings that name a structure deeper than fat."
   },
   {
    "id": "m21e-032",
    "type": "mcq",
    "topic": "pressure-injuries-nursing-process",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Evaluation (Prioritization)",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Prioritize Hypotheses",
-   "focus": "Prioritization",
    "stem": "The nurse receives hand-off report for four clients on a medical unit. Which client should the nurse assess first?",
    "options": [
     "A client with a Stage 2 sacral pressure injury whose dressing edge is rolled",
@@ -1785,21 +1145,24 @@
     "Not first. A routine scheduled dressing change is stable care.",
     "First. New confusion, tachycardia, and hypotension in a client with a deep wound suggest a spreading, systemic infection — a life-threatening complication."
    ],
-   "rationale": "Deep pressure injuries can become infected, and systemic signs (altered mental status, tachycardia, hypotension) take priority over local wound issues and routine prevention. The overdue repositioning can be delegated to a UAP while the nurse assesses the unstable client.",
-   "takeaway": "Systemic instability beats local wound problems.",
-   "hintContent": "Recall the signs that a wound infection is affecting the whole body.",
-   "hintStrategy": "Use unstable vs. stable: which client has abnormal vital signs or a change in mental status?",
+   "rationale": "Unstable before stable. New confusion, tachycardia, and hypotension in a client with a deep pressure injury suggest the wound infection is spreading through the body, and this is a threat to perfusion. The complications lesson teaches that infection shows up as systemic signs, so this client is assessed first and the provider notified. The overdue turn can be delegated to the UAP, and the rolled dressing edge and routine dressing change can wait.",
+   "takeaway": "Deep wound + new confusion + low BP + tachycardia = possible spreading infection → assess first.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Recall the systemic signs of a spreading wound infection and the unstable-before-stable principle.",
+   "hintStrategy": "Look for abnormal vital signs and a change in mental status. That is the client who cannot wait.",
    "priority": true
   },
   {
    "id": "m21e-033",
    "type": "mcq",
    "topic": "pressure-injuries-nursing-process",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Implementation (Delegation)",
+   "alsoTests": [
+    "pressure-injuries-staging"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Generate Solutions",
-   "focus": "Delegation & Safety",
    "stem": "The RN is making assignments with an LPN on a medical-surgical unit. Which task related to pressure-injury care is most appropriate to assign to the LPN?",
    "options": [
     "Performing the prescribed dressing change on a Stage 3 wound staged by the RN today",
@@ -1814,21 +1177,22 @@
     "Incorrect. Developing a teaching plan requires RN-level planning; the LPN may reinforce teaching.",
     "Incorrect. Interpreting and staging a new finding is an RN assessment."
    ],
-   "rationale": "RNs retain initial assessment, staging of new findings, care planning, teaching plans, and evaluation. LPNs can perform established procedures (such as ordered dressing changes) for stable clients, collect data, and reinforce teaching.",
-   "takeaway": "LPN: established procedures on stable clients. RN: assess, stage new findings, plan, teach, evaluate.",
-   "hintContent": "Recall the scope of practice differences between RN and LPN for assessment, planning, and procedures.",
-   "hintStrategy": "For each option, ask whether the client situation is new or already established and stable, and whether the task requires interpreting data or creating a plan.",
+   "rationale": "Staging requires RN assessment and judgment. An LPN can perform an established, prescribed dressing change on a stable client whose wound the RN has already assessed and staged. Admission assessment, staging a new wound, and creating a teaching plan remain with the RN.",
+   "takeaway": "RN stages and plans; LPN performs established dressing changes on already-staged, stable wounds.",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall which parts of pressure-injury care require RN judgment (assess, stage, plan, evaluate).",
+   "hintStrategy": "Eliminate any task that involves first-time assessment, staging, or planning.",
    "priority": false
   },
   {
    "id": "m21e-034",
    "type": "sata",
    "topic": "pressure-injuries-nursing-process",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Planning",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
-   "cjmm": "Generate Solutions",
-   "focus": "Nursing Interventions",
    "stem": "The nurse is writing expected outcomes for a client with a Stage 3 sacral pressure injury. Which outcome statements are correctly written? Select all that apply.",
    "options": [
     "The client will state three ways to protect the skin before discharge.",
@@ -1853,6 +1217,8 @@
    ],
    "rationale": "Expected outcomes are client-centered, specific, measurable, realistic, and time-limited. Interventions describe what the nurse does, and verbs like ‘understand’ or vague words like ‘quickly’ cannot be evaluated.",
    "takeaway": "Outcomes: the client will [measurable verb] [criterion] by [time].",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
    "hintContent": "Recall the parts of a well-written outcome: subject, measurable verb, criterion, and time frame.",
    "hintStrategy": "For each statement, ask ‘Who is the subject?’ and ‘How would I measure this?’"
   },
@@ -1860,11 +1226,10 @@
    "id": "m21e-036",
    "type": "mcq",
    "topic": "pressure-injuries-nursing-process",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Diagnosis (Compromised Dignity)",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process",
    "difficulty": 2,
    "clientNeed": "Psychosocial Integrity",
-   "cjmm": "Take Action",
-   "focus": "Nursing Interventions",
    "stem": "A 67-year-old client with a Stage 4 sacral pressure injury tells the nurse, “I can smell my own wound. I don't want my grandchildren to visit anymore.” Which response by the nurse is most appropriate?",
    "options": [
     "“The odor comes from bacteria, so it's safer if the children don't visit for now.”",
@@ -1881,6 +1246,8 @@
    ],
    "rationale": "Pressure injuries can cause compromised dignity and situational low self-esteem. Therapeutic communication acknowledges the feeling and involves the client in solutions such as timely wound cleansing and dressing changes.",
    "takeaway": "Acknowledge the feeling, then solve the problem together.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
    "hintContent": "Recall the psychosocial nursing diagnoses associated with pressure injuries and the features of therapeutic responses.",
    "hintStrategy": "Eliminate responses that give false reassurance, change the subject, or promote isolation.",
    "priority": false
@@ -1889,7 +1256,11 @@
    "id": "m21e-037",
    "type": "mcq",
    "topic": "pressure-injuries-nursing-process",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process – Evaluation",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement",
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Nursing Process",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "exhibit": {
@@ -1945,23 +1316,24 @@
     "Incorrect. Doughnut cushions reduce blood flow to surrounding tissue and are harmful.",
     "Incorrect. Pressure injuries heal by secondary intention, and this wound is getting worse, not healing."
    ],
-   "rationale": "The wound is getting larger and deeper, with increasing slough and drainage — it is deteriorating. When goals are not met, the nurse reassesses and modifies the care plan; a pressure injury that shows no progress over about 2 weeks calls for this. Pressure injuries heal by secondary intention, and doughnut cushions are harmful.",
-   "takeaway": "No progress in 2 weeks → reassess and revise; don’t keep doing what isn’t working.",
+   "rationale": "Over 2 weeks the wound has grown larger and deeper, the yellow slough has increased from 20% to 40% (less healthy red tissue by RYB standards), and drainage has increased. A pressure injury heals by secondary intention and should be getting smaller and redder. When goals are not met, the nurse reassesses the client and wound, including positioning, the support surface, and nutrition, and works with the team to revise the plan.",
+   "takeaway": "Bigger, deeper, more slough over 2 weeks = the plan is failing; reassess and revise.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
-   "hintContent": "Recall how the nurse evaluates a wound's trend and what to do when outcomes are not met.",
-   "hintStrategy": "Compare the week 1 and week 3 measurements. Decide whether the wound is improving, then choose the action that fits that trend.",
+   "hintContent": "Recall what a healing secondary-intention wound should look like over time and what increasing slough means in the RYB system.",
+   "hintStrategy": "Compare week 1 with week 3 for size, color, and drainage. Decide the trend, then pick the action that fits it.",
    "priority": true
   },
   {
    "id": "m21e-039",
    "type": "mcq",
    "topic": "pressure-injuries-prevention",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention – Supportive Devices",
+   "alsoTests": [
+    "pressure-injuries-pathophysiology-risk"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Prevention",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Analyze Cues",
-   "focus": "Delegation & Safety",
    "stem": "The nurse reviews new prescriptions for a client with a Stage 2 sacral pressure injury. Which prescription is the priority for the nurse to clarify with the provider before implementing it?",
    "options": [
     "Reposition at least every 2 hours using pillows and wedges for support",
@@ -1976,21 +1348,24 @@
     "Appropriate. Heel protectors offload the heels.",
     "Clarify. Doughnut devices reduce blood flow to the surrounding tissue and cause injury; a pressure-redistributing seat cushion is used instead."
    ],
-   "rationale": "Supportive devices are chosen to keep external pressure below capillary pressure (about 32 mm Hg). Pillows, wedges, heel protectors, overlays, and specialty beds are appropriate. Doughnut devices concentrate pressure on the ring and reduce blood flow, so the nurse questions that prescription.",
-   "takeaway": "Question any order for a doughnut cushion.",
-   "hintContent": "Recall which supportive device the slides specifically say to avoid.",
-   "hintStrategy": "Check each prescription against the prevention slides; find the one that could harm the client.",
+   "rationale": "The doughnut cushion is the prescription to clarify. Ring devices press on the tissue surrounding the hole, cutting off blood flow to the area they are meant to protect, and in a client who already has a Stage 2 injury they cause ischemic damage. Repositioning with pillows and wedges, a dietitian consult, and heel protectors are appropriate prevention.",
+   "takeaway": "Doughnut devices always get questioned: they reduce blood flow and cause injury.",
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall how external pressure affects capillary blood flow and which devices the slides say to avoid.",
+   "hintStrategy": "Three prescriptions are standard prevention. Find the one that could cause harm.",
    "priority": true
   },
   {
    "id": "m21e-042",
    "type": "mcq",
    "topic": "pressure-injuries-wound-care-debridement",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Color Guide – Biosurgery (Maggots)",
+   "alsoTests": [
+    "pressure-injuries-prevention"
+   ],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Wound Care & Debridement",
    "difficulty": 2,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "cjmm": "Evaluate Outcomes",
-   "focus": "Client Teaching",
    "stem": "A client has a nonhealing Stage 4 pressure injury on the right heel with necrotic tissue and adequate arterial blood flow. The provider recommends biosurgery with sterile maggots. After teaching, which statement by the client indicates understanding?",
    "options": [
     "“The maggots will eat into healthy tissue too, so I'll need a skin graft after.”",
@@ -2005,17 +1380,20 @@
     "Incorrect. Larvae are applied in contained dressings for short cycles (commonly 2–4 days) and then removed; they are not permanent.",
     "Incorrect. Offloading remains essential; debridement does not remove the cause of the injury."
    ],
-   "rationale": "Biosurgery (maggot debridement therapy) places sterile larvae on nonhealing necrotic wounds; they digest dead tissue with minimal damage to healthy tissue and may be preferable to surgical debridement for some clients. Pressure relief and other wound care continue.",
-   "takeaway": "Maggots are selective debriders — they eat dead tissue, not healthy tissue.",
-   "hintContent": "Recall how biosurgery differs from sharp debridement in its effect on healthy tissue.",
-   "hintStrategy": "Teaching-evaluation items: pick the statement that is accurate, and watch for statements that drop other essential care.",
+   "rationale": "Biosurgery uses sterile maggots to digest dead tissue with minimal harm to healthy tissue. It treats the necrotic wound, but it does not remove the cause. Pressure relief (floating the heel) and nutrition support must continue, and the larvae are removed after treatment rather than left in place until the wound closes.",
+   "takeaway": "Maggots eat dead tissue, not healthy tissue — and heel offloading continues.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "hintContent": "Recall how biosurgery works and that debridement does not replace prevention measures.",
+   "hintStrategy": "Check each statement for accuracy about the larvae AND about ongoing pressure relief.",
    "priority": false
   },
   {
    "id": "m21e-043",
    "type": "sata",
    "topic": "pressure-injuries-wound-care-debridement",
-   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Color Guide – Debridement Methods",
+   "alsoTests": [],
+   "ref": "Module 21 · Exemplar 21.B Pressure Injuries · RYB Wound Care & Debridement",
    "difficulty": 1,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A nursing student is reviewing the debridement methods for a client whose pressure injury contains black necrotic tissue. Which pairings of method and debridement type are correct? Select all that apply.",

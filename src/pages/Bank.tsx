@@ -5,7 +5,7 @@ import { MODULES, MODULE_BY_ID, QUESTIONS, QUESTION_BY_ID, topicTitle } from '..
 import type { Question, Response } from '../data/types';
 import { CJMM_STEPS, FOCUS_AREAS, FORMATS, FORMAT_LABEL, FORMAT_SHORT, formatOf } from '../data/types';
 import { Icon } from '../components/Icon';
-import { CaseBadge, CaseLayout } from '../components/question/Exhibit';
+import { CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
 import { Feedback, Hints } from '../components/question/Support';
 import { Difficulty, Modal } from '../components/ui';
@@ -27,7 +27,6 @@ const STATUS_LABEL: Record<QStatus, string> = {
 export function Bank() {
   const attempts = useProgress((s) => s.attempts);
   const [params, setParams] = useSearchParams();
-  const [kind, setKind] = useState(params.get('kind') ?? '');
   const [query, setQuery] = useState('');
   const [mod, setMod] = useState('');
   const [type, setType] = useState('');
@@ -54,7 +53,6 @@ export function Bank() {
       QUESTIONS.filter((x) => {
         if (mod && x.moduleId !== mod) return false;
         if (type && formatOf(x) !== type) return false;
-        if (kind === 'case' && !x.caseId) return false;
         if (skill && x.focus !== skill && x.cjmm !== skill) return false;
         if (status) {
           const st = statusOf(attempts, x.id);
@@ -63,7 +61,7 @@ export function Bank() {
         if (q && !`${x.stem} ${x.ref} ${x.id} ${topicTitle(x)}`.toLowerCase().includes(q)) return false;
         return true;
       }),
-    [q, mod, type, skill, status, attempts, kind],
+    [q, mod, type, skill, status, attempts],
   );
 
   return (
@@ -115,10 +113,6 @@ export function Bank() {
           <option value="fragile">Right but shaky</option>
           <option value="missed">Missed</option>
         </select>
-        <select className="select" value={kind} onChange={(e) => setKind(e.target.value)} aria-label="Item kind">
-          <option value="">All items</option>
-          <option value="case">NGN case studies</option>
-        </select>
       </div>
 
       <p className="faint small" style={{ margin: '0 0 12px' }}>
@@ -146,7 +140,6 @@ export function Bank() {
                     <Icon name="book" /> {x.ref}
                   </span>
                   <span className="badge">{FORMAT_SHORT[formatOf(x)]}</span>
-                  <CaseBadge q={x} />
                   <span className="badge hide-sm">{x.cjmm}</span>
                   <Difficulty level={x.difficulty} />
                 </div>
@@ -203,7 +196,7 @@ export function SingleQuestion({ q }: { q: Question }) {
   return (
     <CaseLayout q={q}>
     <div className="q-card" style={{ ['--mc' as string]: MODULE_BY_ID[q.moduleId]?.color }}>
-      <QuestionMeta q={q} extra={<CaseBadge q={q} />} />
+      <QuestionMeta q={q} />
       <QuestionBody
         q={q}
         response={item.response}

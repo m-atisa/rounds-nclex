@@ -11,7 +11,7 @@ import { SortableContext, arrayMove, sortableKeyboardCoordinates, useSortable, v
 import { CSS } from '@dnd-kit/utilities';
 import { AnimatePresence, motion } from 'motion/react';
 import { Fragment, useId } from 'react';
-import { MODULE_BY_ID } from '../../data';
+import { MODULE_BY_ID, getTopic } from '../../data';
 import type {
   BowtieQuestion,
   HighlightQuestion,
@@ -57,6 +57,12 @@ export function QuestionMeta({ q, extra }: { q: Question; extra?: React.ReactNod
       <span className={cx('q-type', formatOf(q) === 'priority' && 'is-priority')}>{FORMAT_LABEL[formatOf(q)]}</span>
       <Difficulty level={q.difficulty} />
       {extra}
+      {!!q.alsoTests?.length && (
+        <span className="also-tests" title="This question integrates several topics">
+          <Icon name="layers" />
+          Also tests: {q.alsoTests.map((t) => getTopic(q.moduleId, t)?.title ?? t).join(' · ')}
+        </span>
+      )}
     </div>
   );
 }

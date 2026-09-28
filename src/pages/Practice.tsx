@@ -5,7 +5,7 @@ import { MODULES, MODULE_BY_ID, topicKey } from '../data';
 import { CJMM_STEPS, FOCUS_AREAS, FORMATS, FORMAT_HELP, FORMAT_LABEL } from '../data/types';
 import { Icon } from '../components/Icon';
 import { Chip, toggleIn } from '../components/ui';
-import { filtersFromParams, filtersToParams, matchQuestions, pickCases, smartPick, type Filters, type Pool } from '../lib/analytics';
+import { filtersFromParams, filtersToParams, matchQuestions, smartPick, type Filters, type Pool } from '../lib/analytics';
 import { createSession } from '../lib/session';
 import { useProgress } from '../store/progress';
 
@@ -51,12 +51,9 @@ export function PracticeBuilder() {
   /** Count of matches if a single dimension value were chosen (with other filters applied). */
   const countWith = (patch: Partial<Filters>) => matchQuestions({ ...f, ...patch }, attempts).length;
 
-  const caseMode = f.cases === 'only';
-  const caseTotal = useMemo(() => new Set(matches.filter((q) => q.caseId).map((q) => q.caseId)).size, [matches]);
-  const [caseCount, setCaseCount] = useState(1);
-  const n = caseMode ? Math.min(caseCount, caseTotal) : Math.min(count, matches.length);
+  const n = Math.min(count, matches.length);
   const start = () => {
-    const qs = caseMode ? pickCases(matches, n) : smartPick(matches, attempts, n);
+    const qs = smartPick(matches, attempts, n);
     const mods = [...new Set(qs.map((q) => q.moduleId))];
     const title =
       mods.length === 1 ? `Practice · ${MODULE_BY_ID[mods[0]].title}` : f.focus.length === 1 ? `Practice · ${f.focus[0]}` : 'Custom practice';
@@ -66,7 +63,7 @@ export function PracticeBuilder() {
 
   const selectedModules = f.modules.length ? MODULES.filter((m) => f.modules.includes(m.id)) : [];
   const activeFilterCount =
-    f.modules.length + f.topics.length + f.types.length + f.focus.length + f.cjmm.length + f.difficulty.length + (f.cases !== 'any' ? 1 : 0);
+    f.modules.length + f.topics.length + f.types.length + f.focus.length + f.cjmm.length + f.difficulty.length;
 
   return (
     <div className="container">
@@ -195,28 +192,6 @@ export function PracticeBuilder() {
             </section>
           </div>
 
-          <section className="card">
-            <h3>NGN case studies</h3>
-            <div className="seg" role="group" aria-label="Case studies">
-              {(
-                [
-                  ['any', 'Include'],
-                  ['only', 'Case studies only'],
-                  ['exclude', 'Stand-alone items only'],
-                ] as const
-              ).map(([v, label]) => (
-                <button key={v} type="button" aria-pressed={f.cases === v} onClick={() => update({ cases: v })}>
-                  {f.cases === v && <motion.span layoutId="cases-pill" className="seg-pill" />}
-                  <span>
-                    {label} <span className="chip-count">{countWith({ cases: v })}</span>
-                  </span>
-                </button>
-              ))}
-            </div>
-            <p className="faint small" style={{ margin: '.6rem 0 0' }}>
-              Unfolding cases present a client chart and walk through all six clinical-judgment steps, just like the NGN.
-            </p>
-          </section>
 
           <section className="card">
             <h3>Which questions</h3>
@@ -243,24 +218,23 @@ export function PracticeBuilder() {
           {activeFilterCount > 0 && (
             <button
               className="btn btn-ghost btn-sm"
-              onClick={() => update({ modules: [], topics: [], types: [], focus: [], cjmm: [], difficulty: [], pool: 'smart', cases: 'any' })}
+              onClick={() => update({ modules: [], topics: [], types: [], focus: [], cjmm: [], difficulty: [], pool: 'smart' })}
             >
               Clear {activeFilterCount} filter{activeFilterCount === 1 ? '' : 's'}
             </button>
           )}
           <label className="slider-label">
             <span>
-              {caseMode ? 'Case studies' : 'Questions'}: <b>{n}</b>
-              {caseMode && <span className="faint"> · {n * 6} items</span>}
+              Questions: <b>{n}</b>
             </span>
             <input
               className="slider"
               type="range"
               min={1}
-              max={Math.max(1, caseMode ? caseTotal : Math.min(50, matches.length))}
+              max={Math.max(1, Math.min(50, matches.length))}
               value={n}
               disabled={!matches.length}
-              onChange={(e) => (caseMode ? setCaseCount(Number(e.target.value)) : setCount(Number(e.target.value)))}
+              onChange={(e) => setCount(Number(e.target.value))}
             />
           </label>
           <ul className="perks">
@@ -275,7 +249,7 @@ export function PracticeBuilder() {
             </li>
           </ul>
           <motion.button className="btn btn-primary btn-lg btn-block" onClick={start} disabled={!matches.length} whileTap={{ scale: 0.97 }}>
-            <Icon name="play" /> Start {n} {caseMode ? `case stud${n === 1 ? 'y' : 'ies'}` : `question${n === 1 ? '' : 's'}`}
+            <Icon name="play" /> Start {n} question{n === 1 ? '' : 's'}
           </motion.button>
           {!matches.length && <p className="faint small">No questions match — loosen a filter.</p>}
         </aside>

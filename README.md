@@ -5,7 +5,7 @@ Study guides, flashcards, and NCLEX/NGN-style questions for **Module 10 Inflamma
 - **Learn** — 49 full lessons (~2,500 words each) written for students starting from zero: objectives, plain-language big picture, key terms, analogies, bedside examples, NCLEX tips, recap, and self-checks.
 - **Practice** — filter by module, topic, nursing skill, clinical-judgment step (NCSBN CJMM), format and difficulty. Content & strategy hints, instant rationales.
 - **Exam** — timed, no hints, flag & review, optional confidence rating. Report breaks performance down by question type, skill, topic and pace, and flags "right but shaky" answers (slow, unsure, or hinted).
-- **535 questions** scoped to the course PowerPoints, in three formats: **priority**, **single best answer**, and **select all that apply** — plus **10 unfolding case studies** with tabbed client charts (Nurses' Notes, Vitals, Labs, Orders).
+- **535 questions** scoped to the course PowerPoints, in three formats (**priority**, **single best answer**, **select all that apply**). Most items integrate 2–3 concepts from the same module, tagged "Also tests".
 - **Questions** — searchable bank (⌘K search anywhere); every item shows its reference, e.g. `Module 21 · Tissue Integrity · Wound Classification`.
 - Zoom control and light/dark theme. Progress is stored locally in the browser.
 
