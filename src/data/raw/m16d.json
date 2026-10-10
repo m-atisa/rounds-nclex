@@ -61,7 +61,7 @@
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Connect fluid in the alveoli to the client's breathing, and connect body position to venous return (preload) and lung expansion. Think about which choices add volume to an overloaded heart.",
-   "hintStrategy": "Identify the most immediate threat (airway/breathing), then choose the action that relieves it now; delay teaching and baseline data until breathing is supported, and reject anything that adds fluid.",
+   "hintStrategy": "Identify the most immediate threat, then judge each option by whether it relieves that threat now or helps later.",
    "stem": "A 72-year-old client with heart failure is admitted after missing diuretic doses. The client has crackles to the mid-lung fields, RR 28, SpO₂ 88% on room air, HR 108, BP 164/94, and 3+ pitting edema of both legs. Oxygen and IV furosemide have been prescribed and are being obtained. Which action should the nurse take first?",
    "options": [
     "Weigh the client on a bed scale to set a baseline for the diuresis",
@@ -120,20 +120,20 @@
     "cardiac-output"
    ],
    "ref": "Module 16 · Perfusion · Health Promotion, Independent & Collaborative Interventions",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Link each option to preload: does it add to or remove volume from an overloaded heart? Also recall how the nurse monitors fluid balance and kidney perfusion.",
+   "hintContent": "Link each option to preload: does it add to or remove volume from an overloaded heart? Also recall why the heart rate is fast and how the nurse monitors fluid balance and kidney perfusion.",
    "hintStrategy": "Sort each option into 'removes or tracks excess fluid' versus 'adds fluid or increases venous return'; only the first group fits this client.",
    "stem": "A client with heart failure is receiving IV furosemide, a 2-g sodium diet, and a 1,500-mL/24-hr fluid restriction. Crackles are present in both lung bases, HR is 104, and there is 3+ edema in both legs. Which nursing interventions are indicated? Select all that apply.",
    "options": [
     "Weigh the client each morning before breakfast on the same scale",
     "Keep strict intake and output and report urine output below 30 mL/hr",
-    "Encourage 3 L of oral fluid daily to protect the kidneys during diuresis",
-    "Place pillows under the knees and calves to raise the legs above the heart",
+    "Hold the IV furosemide while the heart rate stays above 100/min",
+    "Elevate both legs on pillows above heart level to reduce the edema",
     "Spread the fluid allowance across the day and offer mouth care for thirst",
-    "Give a 500-mL normal saline bolus if the heart rate stays above 100"
+    "Offer salty broth to replace the sodium lost through diuresis"
    ],
    "answer": [
     0,
@@ -143,13 +143,13 @@
    "optionRationales": [
     "Correct. Daily weight (same scale, same time, before breakfast) is the best measure of fluid gain or loss.",
     "Correct. Strict I&O tracks the diuretic response, and urine output below about 30 mL/hr can signal poor kidney perfusion from low cardiac output.",
-    "Incorrect. 3 L exceeds the prescribed 1,500-mL restriction and would add to the fluid overload.",
-    "Incorrect. Raising the legs increases venous return and preload on an overloaded heart, and pillows under the knees press on veins and promote venous stasis.",
+    "Incorrect. The fast heart rate is compensation for a weak, overloaded pump; removing the extra fluid is what helps it slow, so holding the diuretic would worsen the overload.",
+    "Incorrect. Although leg elevation is often used for swollen legs, raising the legs above the heart sends more venous blood back to an overloaded heart, raising preload and worsening lung congestion.",
     "Correct. Planning the restricted fluid over the day and offering mouth care helps the client follow the restriction comfortably.",
-    "Incorrect. The tachycardia is compensation for a weak pump; a bolus raises preload and worsens lung congestion."
+    "Incorrect. The client is on a 2-g sodium diet; extra sodium makes the body hold water and adds to the fluid overload."
    ],
-   "rationale": "This client has too much preload. Interventions should remove or monitor fluid (daily weights, strict I&O, fluid restriction supported by mouth care) and avoid anything that adds volume or venous return (extra fluids, boluses, elevating the legs). Low urine output is reported because it reflects reduced kidney perfusion.",
-   "takeaway": "HF fluid overload: weigh daily, strict I&O, follow restrictions — no boluses, no extra fluids, no leg elevation."
+   "rationale": "This client has too much preload. Interventions should remove or monitor fluid (the prescribed diuretic, daily weights, strict I&O, a fluid restriction supported by mouth care) and avoid anything that adds volume, sodium, or venous return (salty foods, elevating the legs above the heart). The tachycardia is compensation for the weak, overloaded pump and improves as fluid is removed. Low urine output is reported because it reflects reduced kidney perfusion.",
+   "takeaway": "HF fluid overload: weigh daily, strict I&O, follow the sodium and fluid limits — no extra sodium, no leg elevation, and tachycardia is not a reason to stop diuresis."
   },
   {
    "id": "m16d-005",
@@ -166,7 +166,7 @@
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Recall when an apical pulse is required, what a pulse deficit reveals about perfusion, and why a large diuresis can drop BP.",
-   "hintStrategy": "The client is already safe; decide what data you need to fully describe the new pulse finding before reporting it, and eliminate options that add fluid or have the nurse change therapy alone.",
+   "hintStrategy": "Identify what is new since admission, then ask what information about it the provider will need; eliminate options outside the nurse's scope or that work against therapy.",
    "stem": "A client with heart failure received IV furosemide and has had 1,650 mL of urine output over 5 hours. BP has gone from 160/92 to 118/70. The client got up alone, felt dizzy, and is now back in bed with the call light in reach. The radial pulse, regular on admission, is now 96/min and irregular. Which action should the nurse take first?",
    "options": [
     "Count the apical pulse for 1 minute with a radial count",
@@ -233,7 +233,7 @@
     "promotion-interventions"
    ],
    "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
@@ -241,17 +241,17 @@
    "hintStrategy": "Decide whether the readings show orthostatic hypotension, then pick the action that lets the client meet the need safely without adding risk or unnecessary restriction.",
    "stem": "An 82-year-old client admitted with dehydration takes two antihypertensive medications at home and was found sitting on the floor this morning after getting dizzy. Orthostatic vital signs: supine 134/78, HR 78; standing at 1 minute 102/64, HR 104, lightheaded. Later the client says, \"I need to use the bathroom.\" Which action should the nurse take first?",
    "options": [
-    "Help the client stand up quickly so the dizzy feeling passes sooner",
-    "Give the scheduled antihypertensive before helping the client out of bed",
-    "Have the client sit on the bed's edge and pump the ankles, then stand",
-    "Keep the client on strict bed rest and use a bedpan for the entire stay"
+    "Recheck the orthostatic vital signs before the client gets up",
+    "Offer a bedpan and keep the client in bed until the IV fluids finish",
+    "Have the client sit on the bed's edge, pump the ankles, then stand with help",
+    "Give the scheduled antihypertensive first so BP is controlled before walking"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Rising quickly gives the slowed reflexes of aging no time to adjust and worsens the BP drop and fall risk.",
-    "Incorrect. An antihypertensive would lower BP further; the nurse should check parameters and consult the provider rather than give it before ambulating.",
+    "Incorrect. Orthostatic hypotension has already been confirmed; repeating the readings delays toileting and adds nothing that changes how the client should get up.",
+    "Incorrect. Keeping the client in bed is an unnecessary restriction that causes deconditioning and venous stasis; safe, staged, assisted mobility is the goal.",
     "Correct. Sitting on the edge of the bed, dangling the legs, and pumping the ankles before standing with assistance lets BP adjust and prevents another fall.",
-    "Incorrect. Prolonged bed rest is not necessary and causes deconditioning and venous stasis; safe, assisted mobility is the goal."
+    "Incorrect. An antihypertensive would lower BP further and worsen the orthostatic drop; the nurse checks the hold parameters and consults the provider rather than giving it before the client walks."
    ],
    "rationale": "The 32 mm Hg systolic drop with a rising pulse and symptoms meets the criteria for orthostatic hypotension. Older adults adapt more slowly to position changes, and dehydration plus antihypertensives increase the risk. Safe movement — sit, dangle, pump ankles, then stand with help — is the first action.",
    "takeaway": "Older adult with orthostatic hypotension: sit, dangle, pump ankles, then stand with help."
@@ -483,14 +483,14 @@
    "options": [
     "A sound transmitted from the aortic valve that needs no follow-up",
     "A finding to confirm by palpating both carotid arteries at once",
-    "A venous hum that will disappear when the head turns to the left",
+    "An expected finding from age-related arterial stiffening",
     "Turbulent flow through a narrowed carotid that raises stroke risk"
    ],
    "answer": 3,
    "optionRationales": [
     "Incorrect. A blowing sound over the carotid is not a normal transmitted heart sound; a bruit requires follow-up.",
     "Incorrect. Carotids are palpated one at a time; pressing both can reduce blood flow to the brain and slow the heart.",
-    "Incorrect. A low-pitched blowing sound over the artery in a client with vascular risk factors is a bruit, not a venous hum.",
+    "Incorrect. Arteries do stiffen with age, but a bruit is never simply normal aging — it signals turbulent flow through a narrowed artery and needs follow-up.",
     "Correct. A bruit is turbulent flow through a plaque-narrowed carotid, so less blood may reach the brain and ischemic stroke risk is higher; document and report."
    ],
    "rationale": "Hypertension and high cholesterol damage arteries and promote plaque. Plaque narrowing the carotid creates turbulent flow — a bruit. Because the carotid supplies the brain, a bruit signals higher risk of ischemic stroke and is documented and reported.",
@@ -508,7 +508,7 @@
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Recall the normal capillary refill time and the environmental factors that can slow it in a healthy person.",
-   "hintStrategy": "Before labeling a finding abnormal, ask whether something outside the body could explain it and how to get an accurate measurement.",
+   "hintStrategy": "Weigh the delayed refill against the rest of the client's data and the setting before labeling it.",
    "stem": "A client walks into the clinic from outside, where the temperature is 2 °C (35.6 °F). The client has no complaints. Vital signs are T 36.8 °C (98.2 °F), HR 76, BP 124/78. Capillary refill in the fingernails is 4 seconds and the fingers feel cold. Which action should the nurse take first?",
    "options": [
     "Document delayed capillary refill as evidence of hypovolemia",
@@ -541,7 +541,7 @@
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "hintContent": "Recall who can normally have an S3 or S4, and which combination of heart sound and other findings signals fluid backing up into the lungs.",
-   "hintStrategy": "Interpret each sound in context: a sound that is normal for the client's age or stage with no symptoms is lower priority than a new finding with new symptoms.",
+   "hintStrategy": "Interpret each finding in the context of the client's age, stage, and history before ranking urgency.",
    "stem": "After receiving hand-off report on a medical unit, which client should the nurse assess first?",
    "options": [
     "A 30-year-old client at 34 weeks' gestation who has an S3 and clear lungs",
@@ -571,7 +571,7 @@
    "focus": "Nursing Interventions",
    "clientNeed": "Psychosocial Integrity",
    "hintContent": "Recall what therapeutic communication looks like when a client expresses loss and low self-worth, and which responses block communication.",
-   "hintStrategy": "Eliminate responses that give false reassurance, change the subject, or jump to medication; choose the one that acknowledges feelings and invites more.",
+   "hintStrategy": "Judge each response by whether it stays with the client's feelings or moves away from them.",
    "stem": "A 58-year-old client recently diagnosed with heart failure tells the nurse, \"I used to work construction. Now I get tired just walking to the mailbox. I feel useless.\" Which response by the nurse is most appropriate?",
    "options": [
     "\"Don't worry — most people with heart failure feel normal after a few weeks.\"",
@@ -628,27 +628,27 @@
    "topic": "promotion-interventions",
    "alsoTests": [],
    "ref": "Module 16 · Perfusion · Health Promotion, Independent & Collaborative Interventions",
-   "difficulty": 1,
+   "difficulty": 2,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Recall the stress-reduction strategies listed for heart health and the teaching about alcohol and activity.",
-   "hintStrategy": "Eliminate statements that use an unhealthy coping method or reduce activity; pick the one that matches a recommended strategy.",
-   "stem": "The nurse has taught a client with hypertension about stress reduction to promote cardiovascular health. Which statement by the client indicates understanding?",
+   "hintStrategy": "This item asks for the inaccurate statement; check each one against the recommended stress-reduction list and the alcohol teaching.",
+   "stem": "The nurse has taught a client with hypertension about stress reduction to promote cardiovascular health. Which statement by the client indicates a need for further teaching?",
    "options": [
-    "\"I'll have a couple of extra drinks in the evening to help me unwind.\"",
-    "\"Reducing stress only matters after someone has had a heart attack.\"",
-    "\"I'll skip my evening walks and rest on the couch to lower my stress.\"",
-    "\"I'm going to try yoga or a few minutes of meditation each day.\""
+    "\"Biofeedback could help me learn to calm my body's stress response.\"",
+    "\"My evening walks count as stress reduction, so I'll keep them up.\"",
+    "\"I'm going to try yoga or a few minutes of meditation each day.\"",
+    "\"Having a few beers after work is a healthy way for me to unwind.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Alcohol raises BP and is not a healthy stress reducer; clients should abstain or drink only small amounts.",
-    "Incorrect. Stress reduction is part of primary prevention, not only care after a heart attack.",
-    "Incorrect. Exercise is itself a stress reducer and lowers BP; giving it up is counterproductive.",
-    "Correct. Yoga and meditation are recommended stress-reduction techniques, along with exercise, relaxation techniques, biofeedback, and therapeutic touch."
+    "Incorrect. This statement shows understanding: biofeedback is one of the recommended stress-reduction techniques.",
+    "Incorrect. This statement shows understanding: exercise is itself a stress reducer and lowers BP.",
+    "Incorrect. This statement shows understanding: yoga and meditation are recommended stress-reduction techniques.",
+    "Correct — needs further teaching. Alcohol raises BP and is not a healthy stress reducer; clients should abstain or drink only small amounts."
    ],
-   "rationale": "Stress hormones raise heart rate and BP. Recommended ways to reduce stress include exercise, relaxation techniques, biofeedback, therapeutic touch, yoga, and meditation. Alcohol and inactivity are not healthy strategies.",
+   "rationale": "Stress hormones raise heart rate and BP. Recommended ways to reduce stress include exercise, relaxation techniques, biofeedback, therapeutic touch, yoga, and meditation. Alcohol is not a healthy coping strategy — the teaching is to abstain or drink only small amounts.",
    "takeaway": "Stress reduction = exercise, relaxation, biofeedback, yoga, meditation — not alcohol."
   },
   {
@@ -768,19 +768,19 @@
     "perfusion-emergencies"
    ],
    "ref": "Module 16 · Perfusion · Health Promotion, Independent & Collaborative Interventions",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall how fluid overload shows up at home in heart failure (weight, breathing when lying flat, swelling) and what the expected effects of a diuretic and mild activity are.",
-   "hintStrategy": "Separate signs that fluid is building up again (report) from expected medication effects or stable, resolving symptoms (don't need a call).",
+   "hintContent": "Recall the weight-gain thresholds to report in heart failure, how lung congestion and venous backup show up in daily life, and the expected effects of a diuretic and a fluid limit.",
+   "hintStrategy": "Compare each weight change with the daily and weekly thresholds, then separate signs that fluid is building up again from expected effects.",
    "stem": "The nurse is preparing discharge teaching for a client with heart failure. Which changes should the nurse instruct the client to report to the provider? Select all that apply.",
    "options": [
-    "Weight gain of 1 kg (2–3 lb) in a day or 2 kg (5 lb) in a week",
-    "Needing more pillows than usual to sleep",
-    "New or increasing swelling in the ankles or feet",
+    "Weight 1.5 kg (3.3 lb) higher than yesterday morning",
+    "Sleeping in a recliner because lying flat makes breathing hard",
+    "Weight 0.5 kg (1.1 lb) higher than it was a week ago",
     "Urinating more often in the hours after taking furosemide",
-    "Mild tiredness after grocery shopping that goes away with rest",
+    "Shoes feel tight, and sock marks on the ankles last into the evening",
     "Feeling thirsty while following the fluid limit"
    ],
    "answer": [
@@ -789,15 +789,15 @@
     2
    ],
    "optionRationales": [
-    "Correct. Rapid weight gain is fluid, not fat, and is an early sign of worsening heart failure.",
-    "Correct. Needing more pillows (orthopnea) shows fluid backing up into the lungs from left-sided failure.",
-    "Correct. New or increasing dependent edema shows fluid backing up into the systemic veins.",
+    "Correct. A gain of about 1 kg (2–3 lb) in a day is fluid, not fat, and is an early sign of worsening heart failure; 1.5 kg overnight exceeds that threshold.",
+    "Correct. Needing to sleep upright (orthopnea) means fluid is backing up into the lungs from left-sided failure.",
+    "Incorrect. A 0.5-kg change over a week is well below the report threshold of about 2 kg (5 lb) in a week and does not suggest fluid buildup.",
     "Incorrect. Increased urination after a diuretic is its expected effect.",
-    "Incorrect. Mild fatigue that resolves with rest is stable and does not require a call.",
+    "Correct. Tight shoes and lasting sock marks are signs of new or increasing dependent edema — fluid backing up into the systemic veins.",
     "Incorrect. Thirst is common with a fluid limit and can be managed with mouth care; it is not a sign of worsening failure."
    ],
-   "rationale": "Home monitoring focuses on fluid buildup: daily weights (report about 1 kg/2–3 lb in a day or 2 kg/5 lb in a week), orthopnea from lung congestion, and increasing edema from venous backup. Diuretic effects and mild, resolving fatigue are expected.",
-   "takeaway": "HF: report rapid weight gain, more pillows, more swelling."
+   "rationale": "Home monitoring focuses on fluid buildup: daily weights (report about 1 kg/2–3 lb in a day or 2 kg/5 lb in a week), orthopnea from lung congestion, and increasing dependent edema from venous backup — which clients often notice first as tight shoes or sock marks. A small weekly weight change, diuretic effects, and thirst on a fluid limit are expected.",
+   "takeaway": "HF: report ~1 kg/day or 2 kg/week gain, needing to sleep upright, and new swelling (tight shoes, sock marks)."
   },
   {
    "id": "m16d-040",
@@ -843,7 +843,7 @@
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Recall the order of the Doppler procedure and what helps the sound waves travel.",
-   "hintStrategy": "Visualize the procedure from start to finish; choose the step that must happen before the probe can detect anything.",
+   "hintStrategy": "Visualize the Doppler procedure from start to finish and put the four options in order.",
    "stem": "The nurse cannot palpate the dorsalis pedis (pedal) pulse of an 80-year-old client and will use a Doppler ultrasound stethoscope. After explaining the procedure and exposing the top of the foot, which action should the nurse take first?",
    "options": [
     "Place the probe at a 45° angle and move it slowly until a signal is heard",
@@ -878,7 +878,7 @@
     "Client A: 132/80, HR 72 → 108/74, HR 88",
     "Client B: 118/76, HR 80 → 112/72, HR 86",
     "Client C: 146/88, HR 70 → 138/76, HR 78",
-    "Client D: 104/66, HR 64 → 100/64, HR 70",
+    "Client D: 128/78, HR 74 → 110/70, HR 82",
     "Client E: 150/90, HR 68 → 128/84, HR 72"
    ],
    "answer": [
@@ -890,7 +890,7 @@
     "Correct. The systolic dropped 24 mm Hg (≥20).",
     "Incorrect. Drops of 6 systolic and 4 diastolic do not meet the criteria.",
     "Correct. The systolic dropped only 8, but the diastolic dropped 12 (≥10); only one criterion is needed.",
-    "Incorrect. Drops of 4 systolic and 2 diastolic do not meet the criteria.",
+    "Incorrect. The systolic dropped 18 and the diastolic 8 — close, but neither reaches the criteria (≥20 systolic or ≥10 diastolic).",
     "Correct. The systolic dropped 22 mm Hg (≥20)."
    ],
    "rationale": "Orthostatic hypotension is a drop of 20 mm Hg or more systolic OR 10 mm Hg or more diastolic within 3 minutes of standing. Only one criterion must be met.",

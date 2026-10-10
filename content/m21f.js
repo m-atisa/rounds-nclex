@@ -54,7 +54,7 @@ window.NURSE_DATA.push({
     "diagnostics-labs-nutrition"
    ],
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client is on postoperative day 4 after a bowel resection and has developed an infected midline incision. The nurse reviews the client's history and data to identify why the wound is healing poorly. Which findings are contributing to impaired wound healing? Select all that apply.",
    "options": [
@@ -413,7 +413,7 @@ window.NURSE_DATA.push({
      }
     ]
    },
-   "stem": "Refer to the Nurses' Notes, Vital Signs, and Laboratory Results. The client's daily prednisone and low albumin have weakened the incision. The nurse stays with the client and calls for help. Which action should the nurse take first?",
+   "stem": "Refer to the Nurses’ Notes, Vital Signs, and Laboratory Results. The nurse stays with the client and calls for help. Which action should the nurse take first?",
    "options": [
     "Apply adhesive closure strips to pull the separated edges together",
     "Ask the client to cough so the full extent of the separation shows",
@@ -443,7 +443,7 @@ window.NURSE_DATA.push({
     "wound-healing-complications"
    ],
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "The nurse is completing a preoperative history for a 74-year-old client scheduled for an elective total hip arthroplasty. Which findings increase the client's risk for delayed healing and postoperative wound infection? Select all that apply.",
    "options": [
@@ -694,7 +694,7 @@ window.NURSE_DATA.push({
     "pressure-injuries-prevention"
    ],
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Wound Healing: Types of Intention, Phases & Lifespan",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "An 86-year-old client is on postoperative day 5 after open reduction and internal fixation of the ankle. The client is afebrile, alert, and eating well. Which finding requires the nurse's immediate follow-up?",
    "options": [
@@ -731,20 +731,20 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "The nurse is reviewing four clients who each had open abdominal surgery 2 days ago. Which client should the nurse prioritize for interventions to prevent delayed healing and wound infection?",
    "options": [
-    "A 45-year-old with hypertension controlled with lisinopril who walks the halls 4 times daily",
-    "A 70-year-old with osteoarthritis who takes acetaminophen and eats 75% of meals",
-    "A 34-year-old with a BMI of 29 who reports drinking alcohol socially on weekends",
+    "A 72-year-old with controlled hypertension who walks the halls 4 times daily, eats 75% of meals, and has an albumin of 3.6 g/dL",
+    "A 48-year-old with a BMI of 36 who walks the halls, eats 80% of meals, and has a glucose of 132 mg/dL",
+    "A 64-year-old who takes low-dose aspirin daily, eats most of each meal, and has an albumin of 3.8 g/dL",
     "A 58-year-old with type 2 diabetes, glucose 284 mg/dL, albumin 2.9 g/dL, who smokes"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Controlled hypertension and frequent walking pose little risk; walking improves circulation.",
-    "Incorrect. Acetaminophen does not impair healing, and 75% meal intake is reasonable nutrition.",
-    "Incorrect. A BMI of 29 and social alcohol use are minor compared with the stacked risks of another client.",
+    "Incorrect. Age adds some risk, but controlled blood pressure, frequent walking, good intake, and a normal albumin are protective.",
+    "Incorrect. Obesity delays healing (poor adipose blood supply, suture-line tension), but it is a single factor in an active, well-nourished client.",
+    "Incorrect. Aspirin is a slide-listed drug that impairs healing, but it is a single factor in an otherwise well-nourished client.",
     "Correct. Hyperglycemia impairs WBCs and blood flow, low albumin signals poor protein status, and smoking reduces oxygen delivery — three stacked risks after GI surgery."
    ],
-   "rationale": "Prioritizing risk means reading the lab values (glucose 284 mg/dL, albumin 2.9 g/dL) as healing barriers and recognizing that abdominal (GI) surgery raises infection risk. The client with uncontrolled diabetes, low albumin, and smoking has multiple stacked factors that reduce WBC function, protein for collagen, and oxygen delivery, so this client needs the most aggressive prevention.",
-   "takeaway": "Greatest risk = the most stacked factors: high glucose + low albumin + smoking after GI surgery.",
+   "rationale": "Prioritizing risk means reading the lab values (glucose 284 mg/dL, albumin 2.9 g/dL) as healing barriers and counting stacked factors. Each of the other clients has one factor at most — age, obesity, or aspirin — offset by activity, good intake, or normal labs. The client with uncontrolled diabetes, low albumin, and smoking has several major factors reducing WBC function, protein for collagen, and oxygen delivery after GI surgery, so this client needs the most aggressive prevention.",
+   "takeaway": "Greatest risk = the most stacked factors: high glucose + low albumin + smoking after GI surgery beats any single factor.",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "hintContent": "Recall the lab values that signal poor healing capacity and the lifestyle and chronic conditions that impair oxygen delivery and immune function.",
@@ -861,28 +861,28 @@ window.NURSE_DATA.push({
     "wound-healing-complications"
    ],
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse changes the dressing of a client whose below-knee amputation incision was opened for drainage 2 days ago. The gauze contains thick, cream-colored drainage streaked with blood, and the client's temperature is 38.7 °C (101.7 °F). Which action should the nurse take first?",
    "options": [
-    "Switch to a dry occlusive dressing to contain the drainage",
+    "Document serosanguineous drainage and recheck at the next dressing change",
     "Report the purosanguineous drainage and fever to the provider",
-    "Apply ice to the residual limb to slow the amount of drainage",
-    "Reduce how often the dressing is changed to limit contamination"
+    "Apply a dry occlusive dressing to contain the drainage",
+    "Push oral fluids and recheck the temperature in 4 hours before calling"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. An occlusive dressing traps infected drainage and does not address the infection.",
+    "Incorrect. Serosanguineous drainage is thin, watery, and pale pink; thick, cream-colored drainage streaked with blood is purosanguineous, and with fever it needs reporting now.",
     "Correct. Pus mixed with blood (purosanguineous) plus fever indicates wound infection, which needs provider evaluation and treatment.",
-    "Incorrect. Ice does not treat infection and is not indicated for purulent drainage.",
-    "Incorrect. Infected, draining wounds need assessment and dressing changes as prescribed, not fewer changes."
+    "Incorrect. An occlusive dressing traps infected drainage and does not address the infection.",
+    "Incorrect. Fluids are reasonable for fever, but delaying the report of a likely wound infection for 4 hours postpones treatment."
    ],
    "rationale": "Reading the exudate is the first step: thick, cream-colored drainage streaked with blood is purosanguineous (pus + blood), which the slides link to infected wounds. Combined with a fever above 38.5 °C, it meets the slide's signs of infection (drainage, fever), so the nurse reports promptly rather than changing the dressing plan independently.",
-   "takeaway": "Purosanguineous drainage + fever = infected wound; report it.",
+   "takeaway": "Thick cream drainage streaked with blood = purosanguineous; with fever, report now.",
    "cjmm": "Take Action",
    "focus": "Assessment Findings",
    "hintContent": "Recall the five exudate types, which ones indicate infection, and the slide's signs of wound infection.",
-   "hintStrategy": "Name the drainage type first, decide what it means together with the temperature, then choose the action that gets that problem treated.",
+   "hintStrategy": "Name the drainage type exactly — color and thickness both matter — then decide what it means together with the temperature and choose the action that gets that problem treated.",
    "priority": true
   },
   {
@@ -927,28 +927,28 @@ window.NURSE_DATA.push({
     "wound-healing-complications"
    ],
    "ref": "Module 21 · Exemplar 21.C Wound Healing · Health Promotion, Factors Affecting Healing & Exudate Types",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with type 2 diabetes is on postoperative day 2 after a bowel resection. Capillary glucose readings have ranged from 240 to 290 mg/dL. Which action is most important for the nurse to take to reduce the client's risk of wound infection?",
    "options": [
-    "Withhold all insulin until the client resumes a full diet",
-    "Limit the client's protein intake to lower the glucose level",
-    "Stop checking glucose once the client is eating regular meals",
-    "Monitor glucose closely and report persistently high readings"
+    "Ask the provider to extend the prophylactic antibiotic for the rest of the stay",
+    "Limit protein and carbohydrate at meals until glucose is below 180 mg/dL",
+    "Keep the client on bed rest so the muscles use less glucose",
+    "Monitor glucose, give insulin per protocol, and report persistent highs"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. Withholding insulin would worsen hyperglycemia and further impair WBC function.",
-    "Incorrect. Protein is needed for collagen and immune cells; restricting it would slow healing.",
-    "Incorrect. Glucose must continue to be monitored; eating does not make hyperglycemia resolve.",
-    "Correct. Persistently high glucose impairs WBCs and blood flow; reporting it lets the provider adjust treatment — glucose control is wound care."
+    "Incorrect. Long-term antibiotics lead to resistant infections, and they do not correct the impaired WBC function caused by high glucose.",
+    "Incorrect. Protein is needed for collagen and immune cells; restricting intake slows healing. High glucose is managed with monitoring and insulin.",
+    "Incorrect. Bed rest reduces circulation to the wound; exercise improves circulation and healing, and active muscles lower, not raise, glucose.",
+    "Correct. Persistently high glucose impairs WBCs and blood flow; controlling it and reporting persistent readings lets the provider adjust treatment — glucose control is wound care."
    ],
-   "rationale": "Diabetes is a major factor affecting healing: high glucose impairs WBC function and damages vessels, so less oxygen reaches the wound. The client also had GI surgery, one of the slide's high-risk groups for wound infection. Monitoring and reporting persistent hyperglycemia so treatment can be adjusted directly lowers infection risk; restricting protein or insulin would do the opposite.",
-   "takeaway": "After GI surgery, high glucose is an infection risk — monitor and report so it gets treated.",
+   "rationale": "Diabetes is a major factor affecting healing: high glucose impairs WBC function and damages vessels, so less oxygen reaches the wound. The client also had GI surgery, one of the slide’s high-risk groups for wound infection. Monitoring glucose, treating it per protocol, and reporting persistent hyperglycemia directly lowers infection risk. Extending antibiotics breeds resistance, restricting protein starves the wound, and bed rest reduces circulation.",
+   "takeaway": "High glucose after GI surgery → monitor, treat per protocol, report; don’t restrict protein, extend antibiotics, or keep in bed.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall how hyperglycemia affects WBCs and blood flow, and which surgical clients the slides list as higher risk for infection.",
-   "hintStrategy": "Eliminate options that would raise glucose or deprive the wound of building materials. Choose the action that addresses the actual risk factor.",
+   "hintStrategy": "Each option targets infection or glucose in some way. Eliminate options that create a new problem (resistance, missing nutrients, less circulation), then choose the action aimed at the actual risk factor.",
    "priority": true
   },
   {
@@ -1091,7 +1091,7 @@ window.NURSE_DATA.push({
     "Hold a pillow firmly against the incision when coughing or sneezing",
     "Avoid lifting anything heavier than 10 lb (4.5 kg) until cleared",
     "Take the prescribed stool softener and drink fluids to avoid straining",
-    "Remove the adhesive strips at home once the edges look closed",
+    "Avoid coughing until the staples are removed so the incision is not stressed",
     "Wear the abdominal binder as prescribed when out of bed",
     "Do sit-up exercises to strengthen the abdominal muscles"
    ],
@@ -1105,11 +1105,11 @@ window.NURSE_DATA.push({
     "Correct. Splinting reduces tension on the suture line during coughing and sneezing.",
     "Correct. Heavy lifting raises intra-abdominal pressure while collagen is still weak.",
     "Correct. Preventing constipation avoids straining that stresses the incision.",
-    "Incorrect. Closure strips are left in place until they loosen or are removed as instructed; edges that look closed are not yet strong.",
+    "Incorrect. Coughing and deep breathing prevent lung complications; the client splints the incision instead of skipping them.",
     "Correct. A prescribed binder adds external support to the incision.",
     "Incorrect. Sit-ups strain the incision and raise the risk of separation."
    ],
-   "rationale": "Dehiscence risk is highest when collagen is still weak near the end of the first week, and obesity and chronic cough add tension. Prevention focuses on lowering stress on the incision: splinting, avoiding heavy lifting and straining, and using a prescribed binder. Removing closure strips early or doing abdominal exercises increases the risk.",
+   "rationale": "Dehiscence risk is highest when collagen is still weak near the end of the first week, and obesity and chronic cough add tension. Prevention focuses on lowering stress on the incision: splinting, avoiding heavy lifting and straining, and using a prescribed binder. Skipping coughing is not the answer — splinting protects the incision while the lungs stay clear — and sit-ups add strain.",
    "takeaway": "Protect a healing abdominal incision: splint, no heavy lifting, no straining, binder if prescribed.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",

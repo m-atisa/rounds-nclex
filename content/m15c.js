@@ -16,7 +16,7 @@ window.NURSE_DATA.push({
     "respiratory-assessment"
    ],
    "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with chronic gastrointestinal bleeding has a hemoglobin of 6.4 g/dL. The client reports fatigue and becomes short of breath walking to the bathroom. HR 118/min, RR 24/min, SpO₂ 98% on room air. The client asks, “Why can’t I breathe when my oxygen number is perfect?” Which explanation by the nurse is accurate?",
    "options": [
@@ -82,7 +82,7 @@ window.NURSE_DATA.push({
     "asthma-copd-pneumonia"
    ],
    "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "A client with right lower lobe pneumonia is becoming irritable and reports feeling very tired. ABG results: pH 7.44, PaCO₂ 36 mm Hg, HCO₃⁻ 24 mEq/L, PaO₂ 58 mm Hg, SaO₂ 89%. Which interpretation by the nurse is accurate?",
    "options": [
@@ -282,13 +282,12 @@ window.NURSE_DATA.push({
     "Increased tactile fremitus",
     "Hyperresonance on percussion",
     "Decreased tactile fremitus",
-    "Crackles that do not clear with coughing"
+    "Vesicular breath sounds, longer on inspiration than expiration"
    ],
    "answer": [
     0,
     1,
-    2,
-    5
+    2
    ],
    "optionRationales": [
     "Correct. Consolidated (fluid- or pus-filled) lung is solid, so it percusses dull instead of resonant.",
@@ -296,9 +295,9 @@ window.NURSE_DATA.push({
     "Correct. Vibration travels better through solid tissue, so fremitus increases over consolidation.",
     "Hyperresonance suggests extra air, as in a pneumothorax, not consolidation.",
     "Fremitus decreases over air (such as a pneumothorax), not over solid, consolidated lung.",
-    "Correct. Fluid in the alveoli produces crackles that usually do not clear with coughing."
+    "Vesicular sounds are the normal sound over air-filled peripheral lung. Over consolidation, the solid tissue carries bronchial sounds instead."
    ],
-   "rationale": "Pneumonia fills alveoli with exudate (consolidation), turning air-filled lung into solid tissue. Solid transmits sound and vibration well, so the nurse finds dullness, increased fremitus, bronchial sounds in the wrong place, and persistent crackles. The opposite pattern — hyperresonance and decreased fremitus — belongs to extra air in the pleural space, as in a pneumothorax.",
+   "rationale": "Pneumonia fills alveoli with exudate (consolidation), turning air-filled lung into solid tissue. Solid transmits sound and vibration well, so the nurse finds dullness, increased fremitus, and bronchial sounds in the wrong place instead of the normal vesicular sounds. The opposite pattern — hyperresonance and decreased fremitus — belongs to extra air in the pleural space, as in a pneumothorax.",
    "takeaway": "Consolidation = solid: dull, increased fremitus, bronchial sounds in the periphery. Air = hyperresonant, decreased fremitus.",
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
@@ -347,7 +346,7 @@ window.NURSE_DATA.push({
     "oxygen-therapy"
    ],
    "ref": "Module 15 · Oxygenation · Respiratory Assessment",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "The RN delegated vital signs to an assistive personnel (AP) on a medical unit. Which findings reported by the AP require the RN to assess the client immediately? Select all that apply.",
    "options": [
@@ -497,21 +496,20 @@ window.NURSE_DATA.push({
     "“I breathe in slowly through my nose for about 2 counts.”",
     "“I breathe out through puckered lips, taking about twice as long as I did breathing in.”",
     "“I blow the air out as hard and fast as I can to empty my lungs.”",
-    "“I use this when I’m climbing stairs or start to feel short of breath.”",
+    "“I save this for when I’m resting in bed, not while I’m walking or climbing stairs.”",
     "“I hold my breath for 30 seconds at the end of every breath.”",
     "“This keeps my airways open longer so trapped air can get out.”"
    ],
    "answer": [
     0,
     1,
-    3,
     5
    ],
    "optionRationales": [
     "Correct. Inhale through the nose for about 2 counts.",
     "Correct. Exhale slowly through pursed lips, about twice as long as inhalation.",
     "Forceful exhalation collapses the damaged small airways and traps more air.",
-    "Correct. The technique is used during exertion or when dyspnea starts.",
+    "Pursed-lip breathing is most useful during exertion, such as walking or climbing stairs, or whenever dyspnea starts; saving it for rest misses the time air trapping is worst.",
     "Prolonged breath-holding is not part of pursed-lip breathing and worsens air hunger.",
     "Correct. The gentle back-pressure keeps small airways open so trapped air can escape."
    ],
@@ -592,20 +590,20 @@ window.NURSE_DATA.push({
    "topic": "diagnostics-abg",
    "alsoTests": [],
    "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client who is receiving anticoagulant therapy just had a radial arterial blood gas drawn. The respiratory therapist is called away to an emergency and asks the nurse to finish caring for the puncture site. Which action is the priority?",
    "options": [
-    "Apply a warm compress to the site to promote circulation to the hand",
+    "Hold firm direct pressure for 5 minutes, then apply an adhesive bandage",
     "Elevate the arm above the heart and apply light pressure for 1 minute",
-    "Have the client open and close the fist repeatedly to restore blood flow",
+    "Apply a warm compress to the site to promote circulation to the hand",
     "Hold firm direct pressure for at least 10 minutes, then check the hand"
    ],
    "answer": 3,
    "optionRationales": [
-    "Warmth dilates vessels and increases bleeding from an arterial puncture.",
+    "Five minutes of firm pressure is the minimum for a client who is not anticoagulated. On an anticoagulant, the nurse holds pressure for 10 minutes or longer and then checks circulation to the hand.",
     "Arterial blood is under high pressure; light pressure for 1 minute is not enough, especially with an anticoagulant.",
-    "Pumping the fist increases arterial flow and bleeding at the site.",
+    "Warmth dilates vessels and increases bleeding from an arterial puncture.",
     "Correct. Arterial punctures bleed under high pressure. With an anticoagulant, the nurse holds firm direct pressure for 10 minutes or longer, then checks the site and the hand’s circulation (color, warmth, capillary refill, pulse)."
    ],
    "rationale": "ABGs are drawn from an artery, so bleeding is the main risk afterward. Firm pressure for at least 5 minutes is standard, extended to 10 minutes or more when the client takes an anticoagulant, followed by assessment of the site and circulation to the hand.",
@@ -613,7 +611,7 @@ window.NURSE_DATA.push({
    "cjmm": "Take Action",
    "focus": "Delegation & Safety",
    "hintContent": "Consider the pressure inside an artery and how an anticoagulant changes clotting at a puncture site.",
-   "hintStrategy": "Choose the option that controls bleeding; reject any that increases blood flow to the site."
+   "hintStrategy": "Choose the option that controls arterial bleeding for this client's clotting status, then confirms the hand is still perfused."
   },
   {
    "id": "m15c-025",
@@ -665,7 +663,7 @@ window.NURSE_DATA.push({
     "respiratory-assessment"
    ],
    "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client had a thoracentesis 1 hour ago, and 900 mL of straw-colored fluid was removed from the right pleural space. Which findings require immediate follow-up by the nurse? Select all that apply.",
    "options": [

@@ -3,6 +3,8 @@ import type { ContentPack, Module, Question, Topic } from './types';
 const packs = import.meta.glob<ContentPack>('./raw/*.json', { eager: true, import: 'default' });
 
 const META: Record<string, Pick<Module, 'color' | 'icon'> & { fallbackTagline: string }> = {
+  m5: { color: 'var(--m5)', icon: 'drop', fallbackTagline: 'What goes in must come out — safely.' },
+  m6: { color: 'var(--m6)', icon: 'beaker', fallbackTagline: 'Balance is everything.' },
   m10: { color: 'var(--m10)', icon: 'flame', fallbackTagline: 'The body’s first responder.' },
   m15: { color: 'var(--m15)', icon: 'lungs', fallbackTagline: 'Every cell, every breath.' },
   m16: { color: 'var(--m16)', icon: 'heart', fallbackTagline: 'Flow is life.' },

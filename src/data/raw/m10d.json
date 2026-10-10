@@ -11,7 +11,7 @@
    "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "sata",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "alsoTests": [
@@ -439,7 +439,7 @@
    "rationale": "Latex is one of the four anaphylaxis trigger groups on the slides, and lip swelling indicates a significant reaction. The nurse’s preoperative role includes identifying risks and communicating them so the surgical team can prepare a latex-safe environment. Prevention means avoiding the trigger.",
    "takeaway": "A latex reaction with lip swelling before surgery = notify the team and set up latex-safe care.",
    "hintContent": "Connect the slide list of anaphylaxis triggers with the nurse’s role in preoperative care.",
-   "hintStrategy": "Decide how serious the reported reaction was, then choose the action that prevents re-exposure."
+   "hintStrategy": "Decide how serious the reported reaction was, then think about what the surgical environment will expose the client to."
   },
   {
    "id": "m10d-015",
@@ -472,7 +472,7 @@
    "rationale": "Two body systems (skin and GI) involved after a known allergen meet the definition of anaphylaxis, so epinephrine is given right away. Antihistamines block only histamine and act slowly. The parent correctly understands the injection site, calling 911, and weight-based pediatric dosing.",
    "takeaway": "Hives + vomiting after a known allergen = epinephrine now, then 911. Pediatric doses are weight-based.",
    "hintContent": "Connect the two-system rule for anaphylaxis with why an antihistamine is not first-line, and recall how children’s doses are chosen.",
-   "hintStrategy": "Look for the statement that would delay the first-line drug."
+   "hintStrategy": "Check each statement against the two-system rule, the injection technique, dosing, and what to do after use."
   },
   {
    "id": "m10d-017",
@@ -481,25 +481,25 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "alsoTests": [],
    "stem": "An off-duty nurse at a community picnic sees an adult who was just stung by a bee. The adult has facial swelling, wheezing, and dizziness and is carrying an epinephrine auto-injector. The nurse has directed a bystander to call 911 and has checked the adult’s breathing. Which action should the nurse take next?",
    "options": [
-    "Help the adult walk to a shaded area to sit down",
+    "Help the adult lie down with the legs raised",
     "Give the adult an oral antihistamine from the first-aid kit",
     "Administer the auto-injector into the adult’s outer thigh",
     "Note the time and watch for improvement for 5 to 15 minutes"
    ],
    "answer": 2,
    "optionRationales": [
-    "A dizzy person with possible hypotension should not stand or walk; sudden standing can cause collapse.",
+    "Lying down with the legs raised is correct for a dizzy person, but it follows epinephrine; positioning does not reverse the airway swelling and vasodilation.",
     "An oral antihistamine is slow and does not open the airway or raise BP.",
-    "Correct. Once EMS is called, epinephrine IM into the outer thigh is the priority.",
+    "Correct. Once EMS is called, epinephrine IM into the outer thigh is the priority because it reverses airway swelling and vasodilation.",
     "Timing and monitoring come after epinephrine is given, not instead of it."
    ],
-   "rationale": "Outside the hospital the slide treatment is immediate epinephrine plus EMS activation. EMS has been called, so the next action is the auto-injector into the outer thigh. Then the person lies down with legs raised, the time is noted, and a second dose is given if symptoms continue.",
+   "rationale": "Outside the hospital the slide treatment is immediate epinephrine plus EMS activation. EMS has been called, so the next action is the auto-injector into the outer thigh. Several options are correct community steps, but they follow epinephrine: the person then lies down with the legs raised, the time is noted, and a second dose is given if symptoms continue.",
    "takeaway": "Community anaphylaxis: call 911, epinephrine auto-injector into the outer thigh, then position and monitor.",
    "hintContent": "Recall the slide treatment for anaphylaxis outside the hospital.",
    "hintStrategy": "Note which steps are already done, then choose the next step in the sequence."
@@ -544,7 +544,7 @@
    "ref": "Module 10 · Inflammation · Anaphylaxis",
    "clientNeed": "Health Promotion and Maintenance",
    "type": "sata",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "alsoTests": [
@@ -558,13 +558,12 @@
     "Wear a medical alert bracelet that identifies the allergy",
     "Take an antihistamine first and use epinephrine only if it fails",
     "Read food labels and ask about shellfish in restaurant dishes",
-    "Schedule a follow-up appointment with an allergist"
+    "After using the auto-injector, call 911 only if symptoms do not improve"
    ],
    "answer": [
     0,
     2,
-    4,
-    5
+    4
    ],
    "optionRationales": [
     "Correct. A second dose may be needed if symptoms continue or return.",
@@ -572,12 +571,12 @@
     "Correct. A medical alert ID informs responders if the client cannot speak.",
     "Antihistamines never replace epinephrine; delaying epinephrine is a leading cause of death in anaphylaxis.",
     "Correct. Prevention means avoiding the trigger.",
-    "Correct. Allergist follow-up supports testing and long-term planning."
+    "Symptoms can return after epinephrine wears off, so 911 is called after every use, even if the client feels better."
    ],
-   "rationale": "Prevention on the slides means avoiding triggers, so the client learns to read labels and ask about ingredients. Because epinephrine is the only first-line drug, the client carries two auto-injectors at room temperature and never substitutes an antihistamine. A medical ID and allergist follow-up complete the plan.",
-   "takeaway": "Avoid the trigger, carry two auto-injectors on your body, wear medical ID, and see an allergist; antihistamines never come first.",
+   "rationale": "Prevention on the slides means avoiding triggers, so the client learns to read labels and ask about ingredients. Because epinephrine is the only first-line drug, the client carries two auto-injectors at room temperature, never substitutes an antihistamine, and calls 911 after every use because symptoms can return. A medical ID helps responders if the client cannot speak.",
+   "takeaway": "Avoid the trigger, carry two auto-injectors on your body, wear medical ID, use epinephrine first, and call 911 after every use.",
    "hintContent": "Combine prevention (trigger avoidance) with what you know about epinephrine versus antihistamines.",
-   "hintStrategy": "Accept options that prevent exposure or speed epinephrine; reject any that delay or damage it."
+   "hintStrategy": "Accept options that prevent exposure or get epinephrine and emergency care quickly; check each one for a single unsafe detail."
   },
   {
    "id": "m10d-022",
@@ -900,7 +899,7 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "alsoTests": [
@@ -910,18 +909,18 @@
    "stem": "A client with long-standing rheumatoid arthritis reports stiffness in the hands lasting about an hour each morning. There is no redness or warmth over the joints today. Which intervention should the nurse suggest?",
    "options": [
     "Take a warm shower or soak the hands in warm water after waking",
-    "Apply ice packs to both hands for 60 minutes right after waking",
+    "Apply a cloth-wrapped ice pack to each hand for 15–20 minutes",
     "Keep both hands immobilized in resting splints all day long",
     "Delay all hand activity until the afternoon when stiffness eases"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Heat causes vasodilation and relaxes stiff joints; it is appropriate for chronic stiffness without acute signs.",
-    "Cold is for acute swelling in the first 24–48 hours, and 60 minutes exceeds the safe 15–20 minute limit.",
+    "The technique is safe, but cold is for fresh, acutely swollen injuries; with no redness or warmth, the problem is chronic stiffness, which heat relieves.",
     "Constant immobilization worsens stiffness and loss of function in chronic arthritis.",
     "Avoiding activity reduces mobility; gentle activity after warmth is preferred."
    ],
-   "rationale": "RA is chronic inflammation. With no acute cardinal signs (redness, warmth) present, the problem is stiffness, not fresh swelling. Heat increases blood flow and relaxes stiff joints, so it is the right choice here, whereas cold is reserved for new, acutely swollen injuries.",
+   "rationale": "RA is chronic inflammation. With no acute cardinal signs (redness, warmth) present, the problem is stiffness, not fresh swelling. Heat increases blood flow and relaxes stiff joints, so it is the right choice here; cold, even when applied safely, is reserved for new, acutely swollen injuries.",
    "takeaway": "Ice for fresh acute swelling; heat for chronic stiffness without acute redness or warmth.",
    "hintContent": "Connect the difference between acute and chronic inflammation with the vessel effects of heat and cold.",
    "hintStrategy": "Check whether acute cardinal signs are present, then match the therapy to the problem."
@@ -1019,7 +1018,7 @@
    "rationale": "A round face and acne are expected steroid effects, and adolescents are especially sensitive to body image. Teens are more likely to keep taking a medication when they feel heard, so the nurse first explores the concern and then teaches that prednisone must never be stopped suddenly and that the provider can discuss options.",
    "takeaway": "Teen upset about steroid effects: explore the concern first, then teach never to stop suddenly.",
    "hintContent": "Combine adolescent developmental needs with the risks of stopping corticosteroids abruptly.",
-   "hintStrategy": "Choose the therapeutic response that opens the conversation and does not give unsafe advice."
+   "hintStrategy": "Consider the teen's developmental needs and what each response would do to the teen's willingness to keep talking and keep taking the medication."
   },
   {
    "id": "m10d-043",
@@ -1092,7 +1091,7 @@
    "rationale": "Acute inflammation resolves once its cause is neutralized, so cellulitis should improve with antibiotics. Marking the border of redness gives an objective way to evaluate: redness inside the line means improvement, while spreading redness, a rising temperature, or a fluctuant area means the treatment is not working.",
    "takeaway": "Evaluate cellulitis objectively: redness shrinking inside the marked border = treatment working.",
    "hintContent": "Connect how acute inflammation behaves once the cause is treated with how the nurse measures redness over time.",
-   "hintStrategy": "Choose the finding that shows the local process getting smaller, not larger."
+   "hintStrategy": "Compare each finding with the marked border and with the expected course of acute inflammation once its cause is treated."
   }
  ]
 }

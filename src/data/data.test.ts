@@ -3,8 +3,8 @@ import { CJMM_STEPS, FOCUS_AREAS } from './types';
 import { MODULES, QUESTIONS } from './index';
 
 describe('content integrity', () => {
-  it('loads all four modules', () => {
-    expect(MODULES.map((m) => m.number)).toEqual([10, 15, 16, 21]);
+  it('loads all modules', () => {
+    expect(MODULES.map((m) => m.number)).toEqual([5, 6, 10, 15, 16, 21]);
   });
 
   it('has full lessons for every topic', () => {

@@ -298,7 +298,7 @@
     "diagnostics-labs-nutrition"
    ],
    "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
@@ -455,7 +455,7 @@
     "Many flat, tan freckles on both forearms that darken each summer",
     "An asymmetric 8-mm mole on the upper back with blue-black and reddish areas",
     "A firm, scaly, crusted nodule on the lower lip that bleeds easily",
-    "A waxy, “stuck-on” brown plaque on the chest, unchanged for years",
+    "Several flat, light-brown age spots on the backs of both hands, unchanged for years",
     "A scaly, crusted patch on the back of the right hand that has not healed in 2 months"
    ],
    "answer": [
@@ -469,10 +469,10 @@
     "Incorrect. Freckles that darken with sun are benign macules.",
     "Correct. Asymmetry, varied color, and a diameter over 6 mm meet ABCDE criteria for melanoma.",
     "Correct. A scaly, crusted, bleeding lesion on the lip suggests squamous cell carcinoma.",
-    "Incorrect. A stable, stuck-on lesion is typically benign.",
+    "Incorrect. Unchanged age spots are common sun-related pigment clusters and are usually harmless.",
     "Correct. A non-healing scaly, crusted sore on sun-exposed skin suggests squamous cell carcinoma."
    ],
-   "rationale": "Years of unprotected UV exposure in a fair-skinned client raise the risk of all three skin cancers. A biopsy distinguishes benign from cancerous tissue and is indicated for a pearly bleeding papule (basal cell), a lesion meeting ABCDE criteria (melanoma), and scaly, crusted, bleeding, or non-healing lesions (squamous cell). Stable freckles and stuck-on lesions are benign.",
+   "rationale": "Years of unprotected UV exposure in a fair-skinned client raise the risk of all three skin cancers. A biopsy distinguishes benign from cancerous tissue and is indicated for a pearly bleeding papule (basal cell), a lesion meeting ABCDE criteria (melanoma), and scaly, crusted, bleeding, or non-healing lesions (squamous cell). Stable freckles and unchanged age spots are usually benign.",
    "takeaway": "Pearly, ABCDE, scaly-crusted, or non-healing → biopsy."
   },
   {
@@ -515,26 +515,26 @@
     "skin-therapies-pharm"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Pharmacology",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "hintContent": "Recall which medication classes increase sun sensitivity and the sun-protection teaching points.",
-   "hintStrategy": "Connect the drug to the client's plans to find the biggest risk.",
+   "hintStrategy": "Connect the drug to the client's plans to find the biggest risk, then check each option for a sun-protection myth or a medication error.",
    "stem": "A client is prescribed doxycycline 100 mg orally twice daily for 10 days for a skin infection. The client says, “I'm going on a 3-day fishing trip this weekend.” Which instruction is most important for the nurse to give?",
    "options": [
-    "“Take each dose with a full glass of milk to prevent stomach upset.”",
-    "“This drug makes you burn easily, so cover up and use sunscreen.”",
-    "“You only need sunscreen on the days you plan to swim or get wet.”",
-    "“A light sunburn on the first day will help your skin adjust to the sun.”"
+    "“Skip your doses during the trip and finish the pills when you get home.”",
+    "“Cover up and use sunscreen; this drug makes you sunburn easily.”",
+    "“Apply water-resistant sunscreen each morning; one coat lasts all day.”",
+    "“Get a little sun the first day so your skin builds up a protective tan.”"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Milk and dairy reduce doxycycline absorption.",
-    "Correct. Doxycycline causes photosensitivity. Protective clothing, shade, and broad-spectrum SPF 30+ sunscreen prevent severe sunburn.",
-    "Incorrect. Sun protection is needed every day outdoors, wet or dry.",
-    "Incorrect. Any sunburn is skin damage, and a photosensitizing drug makes it worse."
+    "Incorrect. Stopping and restarting the antibiotic interrupts treatment of the infection. The client takes it as prescribed and protects the skin instead.",
+    "Correct. Doxycycline causes photosensitivity. Protective clothing, a hat, shade, and broad-spectrum SPF 30+ sunscreen reapplied often prevent a severe burn.",
+    "Incorrect. Even water-resistant sunscreen must be reapplied about every 2 hours and after swimming, sweating, or towel drying.",
+    "Incorrect. A tan means UV damage has already happened, and a photosensitizing drug makes burns more severe."
    ],
    "rationale": "Antibiotics such as doxycycline are among the medications that increase sun sensitivity. With prolonged outdoor exposure, the most important teaching is full sun protection: long sleeves, a wide-brimmed hat, shade, and broad-spectrum SPF 30+ sunscreen reapplied often. The client should not stop the antibiotic.",
    "takeaway": "Photosensitizing drug + outdoor plans = teach clothing, shade, and sunscreen."
@@ -547,25 +547,25 @@
     "lifespan-skin"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Recall how newborn and infant skin differs from adult skin and the sun-protection options.",
-   "hintStrategy": "Choose the option that protects without adding risk from the infant's thin skin.",
+   "hintStrategy": "One option is good advice for an adult. Ask what makes an infant's skin different and which protection avoids that risk.",
    "stem": "The parent of a healthy 4-month-old plans to attend an all-afternoon outdoor family reunion in July and asks the nurse how to protect the infant's skin. Which instruction should the nurse give?",
    "options": [
-    "Apply a thick layer of SPF 50 sunscreen to the infant's whole body",
-    "Apply baby oil to the infant's skin to keep it from drying out",
-    "Keep the infant in shade, in light long sleeves and a brimmed hat",
+    "Apply SPF 30 sunscreen to all exposed skin and reapply it every 2 hours",
+    "Dress the infant in only a diaper so the skin stays cool in the heat",
+    "Keep the infant in the shade, in light long sleeves and a brimmed hat",
     "Give the infant short periods of direct sun to build up tolerance"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Infant skin is thin and absorbs more of what is applied, so sunscreen is limited to small exposed areas if shade and clothing are not enough.",
-    "Incorrect. Oil does not protect from UV and may increase burning.",
-    "Correct. Shade and protective clothing are the first-line protection for young infants.",
+    "Incorrect. This is sound teaching for older children and adults, but infant skin is thin and absorbs more of what is applied. For a young infant, sunscreen is used sparingly on small exposed areas only when shade and clothing are not enough.",
+    "Incorrect. Leaving the skin uncovered increases UV exposure. Light, loose clothing protects the skin while keeping the infant cool.",
+    "Correct. Shade and protective clothing are the first-line sun protection for young infants, whose thin skin absorbs more of any product applied to it.",
     "Incorrect. A tan or 'tolerance' reflects UV damage."
    ],
    "rationale": "Infant skin is thinner and absorbs more of whatever is put on it. For a young infant, sun protection starts with shade and clothing (hat, light long sleeves, avoiding midday sun). A small amount of sunscreen may be used on small exposed areas only if needed.",
@@ -680,26 +680,26 @@
     "lifespan-skin"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Recall the difference between intrinsic and extrinsic aging and what actinic keratoses can become.",
-   "hintStrategy": "Connect the client's history (outdoor work, bald scalp) to the finding.",
+   "hintStrategy": "Two options name a real aging process. Decide whether these patches come from intrinsic or extrinsic aging, and what extrinsic aging can lead to.",
    "stem": "A 70-year-old retired farmer who is bald has several rough, scaly pink patches on the scalp and the tops of both ears that have been present for about a year. The client asks, “Isn't this just normal aging skin?” Which response by the nurse is most accurate?",
    "options": [
-    "“Yes, these are the normal changes that happen to everyone after about age 20.”",
-    "“This is most likely a fungal infection that spreads easily between older adults.”",
-    "“Rough patches that come and go are harmless, so a thicker moisturizer is enough.”",
+    "“These are likely age spots caused by having fewer melanocytes, so they're harmless.”",
+    "“This is extrinsic aging from the sun, which causes wrinkles and thickening but not cancer.”",
+    "“These look like psoriasis plaques, so a steroid cream should clear them.”",
     "“Sun damage can cause precancerous changes, so your provider should check these.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Intrinsic aging causes thin, dry skin and wrinkles, not rough, scaly patches.",
-    "Incorrect. Nothing suggests a fungal infection.",
-    "Incorrect. These patches have persisted for a year and need evaluation.",
-    "Correct. Extrinsic aging from UV causes precancerous changes such as actinic keratoses, which can become squamous cell carcinoma."
+    "Incorrect. Age spots are flat pigment clusters. Rough, scaly, pink patches that persist on sun-exposed skin are not age spots and need evaluation.",
+    "Incorrect. These patches do come from extrinsic (UV) aging, but extrinsic aging also causes precancerous changes, not only wrinkles and thickening.",
+    "Incorrect. Psoriasis forms well-defined plaques with silvery scale, often on the elbows and knees. The nurse also does not diagnose or recommend a steroid.",
+    "Correct. Extrinsic aging from UV causes precancerous changes such as actinic keratoses, which can become squamous cell carcinoma, so they should be evaluated."
    ],
    "rationale": "Intrinsic aging (time and genetics) thins and dries the skin. Extrinsic aging from UV, smoking, and chemicals causes thickening, wrinkling, and precancerous changes. Rough, scaly, pink patches on sun-exposed skin in an outdoor worker suggest actinic keratoses, which can become squamous cell carcinoma, so they should be evaluated.",
    "takeaway": "Rough, scaly sun-damage patches are not just aging; refer for evaluation."
@@ -806,18 +806,18 @@
    "topic": "wound-types-classification",
    "alsoTests": [],
    "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall the four contamination classes.",
-   "hintStrategy": "Classify each wound and choose the highest class.",
+   "hintContent": "Recall the four contamination classes and what separates a contaminated wound from a dirty/infected one.",
+   "hintStrategy": "Classify each wound first. Two are traumatic; decide which features move a traumatic wound to the highest class.",
    "stem": "The nurse is receiving report on four postoperative clients. Based on wound classification by contamination, which client should the nurse monitor most closely for a wound infection?",
    "options": [
     "Elective total knee arthroplasty with no breaks in sterile technique",
     "Repair of an 18-hour-old open fracture containing soil and dead tissue",
     "Laparoscopic cholecystectomy with controlled entry into the biliary tract",
-    "Elective inguinal hernia repair with placement of synthetic mesh"
+    "Repair of a dog-bite laceration on the hand sustained 1 hour ago"
    ],
    "answer": 1,
    "priority": true,
@@ -825,10 +825,10 @@
     "Incorrect. This is a clean wound, the lowest risk.",
     "Correct. Dead tissue and soil in an old traumatic wound make it dirty/infected, the highest risk.",
     "Incorrect. Controlled tract entry is clean-contaminated.",
-    "Incorrect. This is a clean wound."
+    "Incorrect. A fresh accidental bite is contaminated. That is a higher risk than clean or clean-contaminated wounds, but lower than a wound with dead tissue already present."
    ],
-   "rationale": "Infection risk rises with the contamination class. An old traumatic wound with soil and dead tissue is dirty/infected, the highest class.",
-   "takeaway": "Dirty/infected wound = monitor most closely."
+   "rationale": "Infection risk rises with the contamination class: clean (knee arthroplasty) < clean-contaminated (controlled biliary entry) < contaminated (fresh bite) < dirty/infected. An old traumatic wound with soil and dead tissue is dirty/infected, the highest class, so it needs the closest monitoring.",
+   "takeaway": "Fresh accident = contaminated; dead tissue or infection already present = dirty/infected = monitor most closely."
   },
   {
    "id": "m21d-018",
@@ -985,28 +985,28 @@
     "wound-types-classification"
    ],
    "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "hintContent": "Recall what a high INR means and the first step for a bleeding wound.",
-   "hintStrategy": "Choose the independent action that stops the bleeding.",
+   "hintStrategy": "All options might happen at some point. Choose the action that stops the bleeding right now and gets its cause addressed.",
    "stem": "A client who takes warfarin for atrial fibrillation had a 3-cm scalp laceration sutured 3 hours ago. The dressing is saturated with bright red blood, and blood is oozing steadily from the suture line. Today's INR is 4.6. Which action should the nurse take first?",
    "options": [
-    "Give the scheduled evening warfarin dose and recheck the INR in the morning",
-    "Remove one suture so the wound can be packed with dry gauze",
+    "Hold tonight's warfarin dose and recheck the INR in the morning",
+    "Reinforce the saturated dressing with more gauze and recheck it in 30 minutes",
     "Apply firm direct pressure to the site and notify the provider of the INR",
-    "Administer vitamin K 10 mg IV from the unit's stock supply"
+    "Obtain a full set of vital signs to look for early signs of shock"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Giving more anticoagulant would worsen the bleeding.",
-    "Incorrect. The nurse does not remove sutures to treat bleeding.",
-    "Correct. Pressure controls the bleeding, and the provider must know about the high INR.",
-    "Incorrect. Vitamin K requires a prescription."
+    "Incorrect. The provider decides how to manage the warfarin and the high INR. Holding a later dose does nothing for the bleeding happening now.",
+    "Incorrect. Adding gauze without firm pressure does not stop steady bleeding, and waiting 30 minutes delays action.",
+    "Correct. Firm direct pressure controls the bleeding now, and the provider must know about the high INR so its cause can be treated.",
+    "Incorrect. Vital signs are monitored for shock, but stopping the active bleeding comes first."
    ],
-   "rationale": "A prolonged clotting time (high INR) causes excessive bleeding from wounds. Wound first aid applies: firm direct pressure first, then notify the provider with the INR and monitor for shock.",
+   "rationale": "A prolonged clotting time (INR 4.6) causes excessive bleeding from wounds. Wound first aid still applies: firm direct pressure first to stop the bleeding, then notify the provider with the INR so the cause can be treated, and monitor pulse and BP for shock.",
    "takeaway": "Bleeding + high INR: pressure first, then notify the provider."
   },
   {
@@ -1050,7 +1050,7 @@
     "infectious-skin-disorders"
    ],
    "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
@@ -1095,7 +1095,7 @@
    "stem": "A high school wrestler has had a third episode of boils in 4 months. A nasal carrier culture is positive for Staphylococcus aureus, and the provider prescribes treatment. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "Wash your hands often, especially after touching a boil",
-    "Shower after practice and use only your own towel",
+    "Use the prescribed treatment only on days when a new boil appears",
     "Squeeze new boils at home to drain them early",
     "Do not share towels, razors, or athletic equipment",
     "Keep draining lesions covered with a clean, dry bandage",
@@ -1103,19 +1103,18 @@
    ],
    "answer": [
     0,
-    1,
     3,
     4
    ],
    "optionRationales": [
     "Correct. Hand hygiene prevents spread and self-reinfection.",
-    "Correct. Showering and personal towels reduce spread.",
+    "Incorrect. The carrier treatment is used exactly as prescribed for the full course, not only when a boil appears.",
     "Incorrect. Squeezing spreads bacteria deeper and to others.",
     "Correct. Shared items spread staph.",
     "Correct. Covering draining lesions prevents spread.",
     "Incorrect. The full course is needed to clear the carrier state."
    ],
-   "rationale": "A nasal carrier study detects staph living in the nose that keeps reinfecting the skin. Teaching combines the treatment with infection-prevention basics: complete the prescribed treatment, hand hygiene, cover lesions, and do not share personal items.",
+   "rationale": "A nasal carrier study detects staph living in the nose that keeps reinfecting the skin. Teaching combines the treatment with infection-prevention basics: use the prescribed treatment exactly as directed for the full course, perform hand hygiene, cover draining lesions, and do not share towels, razors, or equipment.",
    "takeaway": "Staph carrier: finish treatment, cover lesions, wash hands, don't share."
   },
   {
@@ -1124,28 +1123,28 @@
    "topic": "diagnostics-labs-nutrition",
    "alsoTests": [],
    "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "hintContent": "Recall what low albumin means for healing.",
-   "hintStrategy": "Eliminate options that reduce nutrients.",
+   "hintStrategy": "Several options sound active. Choose the one that addresses the cause of poor healing without delay.",
    "stem": "A 76-year-old client with a slowly healing leg wound has lost 4 kg (8.8 lb) in 2 months and eats about half of each meal. The albumin level is 2.9 g/dL. Which action is the nurse's priority?",
    "options": [
-    "Restrict protein intake to reduce the workload on the kidneys",
-    "Request a dietitian consult and offer protein supplements",
-    "Encourage a low-calorie diet to prevent further weight change",
-    "Hold meals until the wound shows signs of healing"
+    "Encourage three large meals a day and discourage snacking between meals",
+    "Notify the provider and request a dietitian consult",
+    "Increase dressing changes to twice daily to stimulate wound healing",
+    "Weigh the client weekly and recheck the albumin level in 1 month"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Protein is needed to build new tissue.",
-    "Correct. Low albumin, weight loss, and poor intake indicate poor nutrition that is delaying healing.",
-    "Incorrect. Healing increases calorie needs.",
-    "Incorrect. Withholding food worsens nutrition."
+    "Incorrect. A client who eats half of each meal is more likely to meet needs with small, frequent meals and supplements, not larger meals.",
+    "Correct. Low albumin (below 3.5 g/dL), weight loss, and poor intake show poor nutrition that is delaying healing and raising infection risk. The provider and a dietitian are needed to plan more calories and protein now.",
+    "Incorrect. Dressing changes follow the order. More frequent changes do not fix the nutritional cause of poor healing.",
+    "Incorrect. Monitoring is useful, but waiting a month delays treatment of a nutrition problem that is already slowing healing."
    ],
-   "rationale": "Albumin below 3.5 g/dL with weight loss and poor intake means poor nutrition, which increases infection risk and delays healing. The nurse requests a dietitian consult and increases protein and calories.",
+   "rationale": "Albumin below 3.5 g/dL with weight loss and poor intake means poor nutrition, which increases infection risk and delays healing. The nurse reports the findings and requests a dietitian consult so the plan can increase calories and protein (with vitamins A and C), using small, frequent meals or supplements.",
    "takeaway": "Low albumin + weight loss = dietitian and more protein."
   },
   {

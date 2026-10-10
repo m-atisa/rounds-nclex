@@ -877,7 +877,7 @@
     "pressure-injuries-prevention"
    ],
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pressure Injuries: Overview, Causes & Risk Factors",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A client with heart failure becomes short of breath when lying flat and prefers the head of the bed (HOB) at 60°. Each hour the client slides toward the foot of the bed. Which type of tissue damage should concern the nurse most, and which action addresses it?",
    "options": [
@@ -962,7 +962,7 @@
    "answer": 3,
    "optionRationales": [
     "Incorrect. A reassuring total can hide a subscale scored 1 — the worst possible score — which needs a targeted intervention now.",
-    "Incorrect. Mobility and activity are near normal; the problem is moisture, not immobility, so a specialty bed does not address the lowest subscale.",
+    "Incorrect. Air flow from a low-air-loss bed helps keep skin drier, but it does not remove the urine, enzymes, and urea already on the skin, and mobility and activity are near normal. Prompt cleansing and a barrier directly target the subscale scored 1.",
     "Incorrect. Nutrition scores 4 and the albumin is normal (at least 3.5 g/dL), so nutrition is not this client's problem.",
     "Correct. Moisture scored 1 is the weakest area. Prompt gentle cleansing and a barrier cream protect the skin from the moisture, enzymes, and urea that cause maceration."
    ],
@@ -1054,7 +1054,7 @@
     "pressure-injuries-pathophysiology-risk"
    ],
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pressure Injury Prevention: Nutrition, Skin Hygiene, Repositioning & Devices",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "A client with a Braden score of 10 is placed on a low-air-loss mattress. The nurse is orienting a newly hired nurse to the client's care. Which statement by the new nurse indicates a need for further teaching?",
    "options": [
@@ -1087,36 +1087,37 @@
     "wound-healing-factors-exudate"
    ],
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · Pressure Injury Prevention: Nutrition, Skin Hygiene, Repositioning & Devices",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "A 68-year-old client with a Stage 3 sacral pressure injury has lost 5 kg (11 lb) over 6 weeks and eats about half of each meal. Serum albumin is 2.9 g/dL. Kidney function is normal. Which actions should the nurse include in the plan of care? Select all that apply.",
    "options": [
     "Encourage vitamin C–rich foods to support collagen formation",
-    "Limit protein intake while the albumin level remains low",
+    "Restrict protein because a low albumin means the kidneys are losing it",
     "Trend weight, albumin, hemoglobin, and lymphocyte count",
     "Offer high-protein, high-calorie supplements between meals",
-    "Restrict fluids to reduce drainage from the sacral wound",
-    "Provide a low-calorie diet to prevent weight gain on bed rest"
+    "Hold supplements until a repeat albumin confirms the deficit in 2 weeks",
+    "Request a consult with the registered dietitian"
    ],
    "answer": [
     0,
     2,
-    3
+    3,
+    5
    ],
    "optionRationales": [
     "Correct. Vitamin C is needed to build collagen, the scaffold of new tissue in a healing wound.",
-    "Incorrect. Low albumin signals too little protein; the tissue needs more protein, not less.",
+    "Incorrect. Kidney function is normal, so the low albumin reflects poor protein intake, not kidney loss. The tissue needs more protein, not less.",
     "Correct. The slides list weight, lymphocyte count, albumin, and hemoglobin as the markers to monitor nutritional status.",
     "Correct. When intake is poor, supplements supply protein and calories; without enough calories the body burns protein for energy instead of building tissue.",
-    "Incorrect. Unless a provider orders a restriction, fluids keep tissue hydrated and blood flowing; limiting them does not help healing.",
-    "Incorrect. Cutting calories forces the body to use protein for fuel and slows healing."
+    "Incorrect. Right action, wrong time. Weight loss, poor intake, and an albumin of 2.9 g/dL already show the deficit, and waiting 2 weeks leaves an open wound without building materials.",
+    "Correct. A nutritionally compromised client with a wound is referred to the dietitian to plan protein and calorie needs."
    ],
-   "rationale": "This client has three cues of malnutrition — weight loss, poor intake, and an albumin below 3.5 g/dL — and an open wound that needs building materials to heal. The plan pairs prevention nutrition (protein, calories, vitamins A and C, zinc, iron; supplements when compromised) with lab trending (weight, albumin, hemoglobin, lymphocytes). Restricting protein, calories, or fluids works against both prevention and healing.",
-   "takeaway": "Low albumin + weight loss = feed the wound: protein, calories, vitamin C, supplements, and trend the labs.",
+   "rationale": "This client has three cues of malnutrition — weight loss, poor intake, and an albumin below 3.5 g/dL — and an open wound that needs building materials to heal. Because kidney function is normal, the low albumin points to poor intake, so protein is increased, not restricted. The plan pairs nutrition support (protein, calories, vitamins A and C, zinc, iron; supplements and a dietitian when compromised) with trending weight, albumin, hemoglobin, and lymphocytes. Delaying supplements while the deficit is already documented works against healing.",
+   "takeaway": "Low albumin + weight loss with normal kidneys = feed the wound now: protein, calories, vitamin C, supplements, dietitian, and trend the labs.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
-   "hintContent": "Recall the normal albumin level, the key nutrients for skin and healing, and the labs the slides say to monitor.",
-   "hintStrategy": "Interpret the lab first, then keep only the options that give the tissue more of what it lacks or track the problem."
+   "hintContent": "Recall the normal albumin level, what normal kidney function tells you about the cause of a low albumin, the key nutrients for healing, and the markers the slides say to monitor.",
+   "hintStrategy": "Interpret the lab in light of the kidney data first. Then keep options that give the tissue more of what it lacks now or track the problem; drop options that restrict or delay."
   },
   {
    "id": "m21b-010",
@@ -1131,24 +1132,24 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "stem": "An 86-year-old client with thin, dry skin is frequently incontinent of liquid stool. The perineal skin is intact but moist and pink. Which skin-care plan is the priority for the nurse to implement after each episode?",
    "options": [
-    "Use a mild cleanser and warm water, pat dry, and apply a barrier cream",
-    "Leave several stacked underpads under the client to absorb each episode",
-    "Apply cornstarch to the perineum after each episode to absorb moisture",
-    "Wash with soap and hot water to remove all stool enzymes from the skin"
+    "Mild cleanser and warm water, pat dry, then a dimethicone barrier cream",
+    "Cleanse with warm water, then dust the skin folds with baby powder to keep them dry",
+    "Cleanse with a mild cleanser, then apply a petroleum-based ointment as a barrier",
+    "Wash with soap and hot water, rub the skin dry, and apply a dimethicone barrier"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Prompt, gentle cleansing removes the moisture and stool enzymes that macerate skin; patting avoids friction, and a barrier cream (such as dimethicone) protects fragile older skin.",
-    "Incorrect. Stacked pads trap moisture and create ridges; one breathable pad is used, and soiled pads are removed promptly.",
-    "Incorrect. Cornstarch and powders clump when wet and irritate the skin; they are on the slide's avoid list.",
-    "Incorrect. Hot water and harsh soap strip the oils from already thin, dry older skin and damage it further."
+    "Correct. Prompt, gentle cleansing with a mild agent and warm water removes moisture and stool enzymes; patting avoids friction; and dimethicone is a barrier the slides recommend for fragile older skin.",
+    "Incorrect. Baby powder is on the slides’ avoid list — it clumps when wet and forms an irritating paste in skin folds.",
+    "Incorrect. The cleansing step is right, but petroleum ointments are on the slides’ avoid list; the recommended barriers are dimethicone creams or alcohol-free films.",
+    "Incorrect. The barrier is right, but hot water and soap strip oils from thin older skin, and rubbing adds friction; the skin is patted dry."
    ],
-   "rationale": "Incontinence adds moisture, enzymes, and urea to the skin, which is a direct cause of maceration and breakdown. Older adults' skin is thinner, drier, and has less oil, so it tolerates harsh cleansing poorly. The plan that answers both problems is the slide's hygiene routine: mild cleanser, warm (not hot) water, pat dry, and a barrier cream or film.",
-   "takeaway": "Incontinence + aging skin → mild cleanser, warm water, pat dry, barrier cream; no hot water, powder, or stacked pads.",
+   "rationale": "Incontinence adds moisture, enzymes, and urea to the skin, a direct cause of maceration and breakdown. Older skin is thinner, drier, and has less oil, so it tolerates harsh cleansing poorly. Each wrong plan contains one step from the slides’ avoid list — baby powder, petroleum ointment, hot water, or rubbing. The plan that protects against moisture and friction is mild cleanser, warm (not hot) water, pat dry, and a dimethicone barrier cream or alcohol-free film.",
+   "takeaway": "Incontinence + aging skin → mild cleanser, warm water, pat dry, dimethicone; no hot water, rubbing, powder, or petroleum.",
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "hintContent": "Recall why stool damages skin, how older skin differs, and the products and practices the slides say to use and to avoid.",
-   "hintStrategy": "Eliminate any option that uses a product or practice on the avoid list; the remaining option should protect against both moisture and friction.",
+   "hintStrategy": "Every option sounds partly right. Check each step of each plan against the slides’ use and avoid lists; one wrong step eliminates the whole plan.",
    "priority": true
   },
   {
@@ -1349,36 +1350,37 @@
    "topic": "pressure-injuries-staging",
    "alsoTests": [],
    "ref": "Module 21 · Exemplar 21.B Pressure Injuries · The Four Stages of Pressure Injuries",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "stem": "The nurse is assessing residents in a long-term care facility. Which findings indicate full-thickness skin loss (a Stage 3 or Stage 4 pressure injury)? Select all that apply.",
    "options": [
     "Intact skin over the sacrum with a red area that does not blanch",
     "Wound over the left hip with visible yellow fat; no muscle or bone seen or felt",
-    "Shallow, moist, pink open area on the elbow with no fat visible",
+    "Shallow heel wound with a small amount of yellow fat visible at the base",
     "Deep wound over the ischium with exposed muscle at the base",
     "Ruptured blister over the heel with a moist, pink base",
     "Deep sacral wound with bone palpable at the base"
    ],
    "answer": [
     1,
+    2,
     3,
     5
    ],
    "optionRationales": [
     "Incorrect. Intact skin with nonblanchable redness is Stage 1 — no skin has been lost.",
     "Correct. Visible subcutaneous fat means the full thickness of the skin is gone — Stage 3.",
-    "Incorrect. A shallow pink wound without fat is partial-thickness loss — Stage 2.",
+    "Correct. The heel has little fat, so a full-thickness wound there can look shallow; visible fat still means full-thickness loss (Stage 3).",
     "Correct. Exposed muscle means full-thickness loss extending below the fat — Stage 4.",
     "Incorrect. A blister, intact or ruptured, with a pink base is partial-thickness loss — Stage 2.",
     "Correct. Palpable bone means full-thickness loss reaching bone — Stage 4."
    ],
-   "rationale": "Staging follows the skin layers from the outside in. Stages 1 and 2 stay within the skin (intact skin, or epidermis and possibly dermis). Full-thickness loss means the entire epidermis and dermis are gone: Stage 3 reaches subcutaneous fat, and Stage 4 reaches muscle, bone, or supporting structures.",
-   "takeaway": "Fat visible = Stage 3; muscle, tendon, or bone = Stage 4; both are full thickness.",
+   "rationale": "Staging follows the skin layers from the outside in, not how deep a wound looks. Stages 1 and 2 stay within the skin (intact skin, or epidermis and possibly dermis). Full-thickness loss means the entire epidermis and dermis are gone: Stage 3 reaches subcutaneous fat, and Stage 4 reaches muscle, bone, or supporting structures. Over a bony area with little fat, such as the heel, a full-thickness wound can look shallow — the visible fat, not the depth, is the clue.",
+   "takeaway": "Stage by the tissue you see, not the depth: fat = Stage 3 (even if shallow on a heel); muscle, tendon, or bone = Stage 4.",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "hintContent": "Recall the deepest tissue that defines each of the four stages and what 'full thickness' means.",
-   "hintStrategy": "Ask of each finding: is the entire skin thickness gone, exposing fat or deeper tissue?"
+   "hintContent": "Recall the deepest tissue that defines each of the four stages, what ‘full thickness’ means, and why wound depth varies by body location.",
+   "hintStrategy": "Ask of each finding: which tissue is exposed? Judge by the tissue named, not by words like ‘shallow’ or ‘deep.’"
   },
   {
    "id": "m21b-020",
@@ -1465,16 +1467,16 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "stem": "The RN is caring for a client at high risk for pressure injury with the help of an unlicensed assistive personnel (UAP). Which task is appropriate for the RN to delegate to the UAP?",
    "options": [
-    "Complete the Braden scale and decide how often the client needs turning",
-    "Stage the new open area found on the client's coccyx during the bath",
+    "Check whether a reddened area blanches and decide if it is a Stage 1 injury",
+    "Reinforce the client’s teaching about eating protein at every meal",
     "Reposition every 2 hours with a draw sheet and report redness",
     "Decide whether the pressure-redistribution mattress can be discontinued"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. Risk assessment and planning the turning schedule require RN judgment.",
-    "Incorrect. Staging a wound is an assessment and belongs to the RN.",
-    "Correct. Repositioning with a draw sheet and reporting findings are routine prevention tasks within the UAP's role; the RN assesses what is reported.",
+    "Incorrect. Interpreting a blanch test and deciding on a stage are RN assessment; the UAP reports redness and the RN assesses it.",
+    "Incorrect. Teaching, including reinforcing it, is not a UAP task; the RN teaches and an LPN may reinforce.",
+    "Correct. Repositioning with a draw sheet and reporting findings are routine prevention tasks within the UAP’s role; the RN assesses what is reported.",
     "Incorrect. Evaluating and revising the plan of care is an RN responsibility."
    ],
    "rationale": "Delegation follows the nursing process: the RN keeps assessment (Braden, staging), planning, and evaluation, while the UAP carries out routine prevention — turning at least every 2 hours with a draw sheet to prevent friction and shear, bathing, incontinence care — and reports changes such as redness that does not fade.",
@@ -1482,7 +1484,7 @@
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "hintContent": "Recall which pressure-injury tasks need RN judgment and which are routine prevention care.",
-   "hintStrategy": "Look for the verb in each option: assess, stage, decide, or evaluate signals RN work; a routine, repeatable task with reporting signals UAP work.",
+   "hintStrategy": "Look for the verb in each option: assess, decide, teach, or evaluate signals licensed work; a routine, repeatable task with reporting signals UAP work.",
    "priority": false
   },
   {

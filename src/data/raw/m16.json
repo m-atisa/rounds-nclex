@@ -1143,7 +1143,7 @@
    "priority": false,
    "topic": "heart-sounds",
    "ref": "Module 16 · Perfusion · Heart Sounds & Cardiac Auscultation",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
@@ -1341,7 +1341,7 @@
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Consider how cuff size affects the reading, the client's baseline, and what defines a hypertensive emergency.",
-   "hintStrategy": "Before escalating or treating, ask whether the number itself can be trusted.",
+   "hintStrategy": "Compare the reading with the client's baseline, symptoms, and the equipment used before deciding what the number means.",
    "stem": "A client with an arm circumference of 42 cm has a BP of 168/96 mm Hg measured with a standard adult cuff. Previous readings were 124/78 to 130/80 mm Hg. The client denies headache, chest pain, vision changes, and shortness of breath. Which action should the nurse take first?",
    "options": [
     "Notify the provider of a possible hypertensive emergency",
@@ -1437,7 +1437,7 @@
    "focus": "Delegation & Safety",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "hintContent": "Link diuretic effects on blood volume and preload to what happens to BP and brain perfusion on standing.",
-   "hintStrategy": "When a client shows signs of fainting, choose the action that protects the client immediately over data collection or calls.",
+   "hintStrategy": "Decide what the client's symptoms mean at this moment, then rank client safety, data collection, and reporting.",
    "stem": "A client receiving furosemide reports dizziness when getting out of bed, and the nurse is measuring orthostatic vital signs. Supine readings were BP 128/78 mm Hg, P 76/min. After 1 minute of standing, the client grips the bedrail, turns pale, and says, \"Everything is going gray.\" Which action should the nurse take first?",
    "options": [
     "Steady the client and complete the 3-minute standing reading",
@@ -1464,28 +1464,28 @@
    "priority": false,
    "topic": "peripheral-assessment",
    "ref": "Module 16 · Perfusion · Pulse, Peripheral & Cardiovascular Assessment",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Connect the pulse deficit calculation with what the pulse represents and how an irregular rhythm affects ventricular filling.",
-   "hintStrategy": "Calculate the difference first, then explain why a beat heard at the apex might not be felt at the wrist.",
-   "stem": "Two nurses assess a client with a new irregular rhythm simultaneously for 1 full minute. The apical rate is 110/min and the radial rate is 92/min. What is the best interpretation of this finding?",
+   "hintContent": "Connect how a pulse deficit is calculated with what it says about stroke volume, and compare it with the earlier value and the BP trend.",
+   "hintStrategy": "Calculate the deficit at both times, then decide what the change, together with the BP and symptoms, says about perfusion.",
+   "stem": "A client with new-onset atrial fibrillation had an apical rate of 104/min and a radial rate of 98/min at 0800, counted simultaneously by two nurses for 1 full minute. At 1200 the same method gives an apical rate of 110/min and a radial rate of 92/min. The client reports new fatigue, and BP is 104/66 mm Hg (was 122/74). What is the best interpretation of the 1200 findings?",
    "options": [
-    "A counting error; the apical and radial rates should always be identical",
-    "A normal finding; the radial artery is too far away to transmit every beat",
-    "A pulse deficit of 18; early beats have too little volume to reach the wrist",
-    "A pulse deficit of 18; the radial rate is more accurate and is documented alone"
+    "The apical rate rose by only 6/min, so the rhythm is essentially unchanged",
+    "The radial rate fell, so the radial count is now the more reliable heart rate",
+    "The deficit tripled from 6 to 18; more beats are not perfusing the body",
+    "A deficit this large means the counts were not simultaneous and must be redone"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. The rates are normally identical, but a difference in an irregular rhythm is a real pulse deficit, not necessarily an error.",
-    "Incorrect. In a healthy person every heartbeat produces a palpable pulse; a deficit is abnormal and should be reported.",
-    "Correct. Apical − radial = 18. With an irregular rhythm, some beats occur before the ventricles have filled, so their stroke volume is too small to create a palpable radial pulse; those beats are not perfusing the body.",
-    "Incorrect. The apical rate is the more accurate count of heartbeats; both rates and the deficit are documented and reported."
+    "Incorrect. The apical rate alone hides the change. The pulse deficit (apical − radial) tripled and the BP dropped — a worsening trend, not an unchanged one.",
+    "Incorrect. The apical rate is always the more accurate count of heartbeats. A falling radial rate with a rising apical rate means more beats are too weak to reach the wrist.",
+    "Correct. 0800: 104 − 98 = 6; 1200: 110 − 92 = 18. Three times as many beats now have too little stroke volume to produce a radial pulse, and the falling BP and new fatigue show cardiac output is dropping. Report the trend.",
+    "Incorrect. The counts were obtained correctly — two nurses, simultaneously, for a full minute. A large deficit in an irregular rhythm is a real finding; only a radial rate higher than the apical rate proves a counting error."
    ],
-   "rationale": "The pulse is the wave of blood created by left ventricular contraction and represents stroke volume. In an irregular rhythm, some impulses arrive before the ventricles have filled, so those contractions eject too little blood to be felt at the wrist, although they are heard at the apex. The difference between the simultaneous apical and radial rates (110 − 92 = 18) is the pulse deficit, meaning 18 beats a minute are not perfusing the periphery.",
-   "takeaway": "Pulse deficit = apical − radial; early beats with low stroke volume do not reach the wrist.",
+   "rationale": "The pulse is the wave of blood from each left ventricular contraction and reflects stroke volume. In atrial fibrillation, beats that come early arrive before the ventricles have filled, so they are heard at the apex but are too weak to be felt at the wrist. The pulse deficit (apical − radial) counts those nonperfusing beats. Here it rose from 6 to 18 in 4 hours while BP fell from 122/74 to 104/66 and fatigue appeared — together these cues show cardiac output is falling, so the change is reported.",
+   "takeaway": "Trend the pulse deficit, not just the apical rate: a widening deficit plus a falling BP = falling cardiac output.",
    "alsoTests": [
     "conduction-system",
     "cardiac-output"
@@ -1599,7 +1599,7 @@
    "focus": "Delegation & Safety",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "hintContent": "Connect risk factors for venous thrombosis, side-to-side leg assessment, and the safety rules for compression devices.",
-   "hintStrategy": "Look for the one client whose assessment already suggests a clot rather than just a risk for one.",
+   "hintStrategy": "For each client, separate a risk factor for a clot from an assessment finding that changes whether compression is safe.",
    "stem": "The nurse is reviewing clients who have prescriptions for sequential compression devices (SCDs). For which client is it most important for the nurse to withhold the SCD and immediately contact the provider?",
    "options": [
     "A client on bed rest after a stroke who has intact skin and 2+ pedal pulses bilaterally",
@@ -1627,28 +1627,28 @@
    "priority": false,
    "topic": "diagnostics",
    "ref": "Module 16 · Perfusion · Diagnostic Tests for Perfusion",
-   "difficulty": 2,
-   "cjmm": "Analyze Cues",
+   "difficulty": 3,
+   "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall what troponin measures and how quickly it rises after heart muscle injury.",
-   "hintStrategy": "Consider the timing of the blood draw relative to the start of symptoms.",
-   "stem": "A client arrives in the emergency department 1 hour after the onset of substernal chest pressure. The initial troponin level is within normal limits. The client asks, \"Does this mean I didn't have a heart attack?\" Which response by the nurse is best?",
+   "hintContent": "Connect what troponin measures, how quickly it rises after heart muscle injury, and which tests show coronary narrowing instead.",
+   "hintStrategy": "Check each statement against the timing of the blood draw and against what this test can and cannot show.",
+   "stem": "A client arrived in the emergency department 1 hour after substernal chest pressure began. The first troponin level is within normal limits, and the provider has ordered repeat troponin levels. After the nurse explains the plan, which statement by the client indicates understanding?",
    "options": [
-    "\"Yes — a normal troponin shows no damage, so you should be able to go home.\"",
-    "\"Not exactly — troponin reflects leg muscle damage, so we will order another test.\"",
-    "\"Not really — the ECG is what matters, so the blood test result is not important.\"",
-    "\"Not yet — troponin takes a few hours to rise, so the test will be repeated.\""
+    "\"Since the first blood test was normal, the pressure probably came from my stomach.\"",
+    "\"A normal troponin means my heart arteries don't have any narrowing in them.\"",
+    "\"The level should be highest right now, in the first hour, and then drop back down.\"",
+    "\"Injured heart muscle can take a few hours to raise the level in my blood.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A single early normal troponin cannot rule out a heart attack.",
-    "Incorrect. Troponin is the most specific marker of heart muscle injury.",
-    "Incorrect. The ECG and cardiac markers answer different questions; serial troponins remain important.",
-    "Correct. Troponin is released as heart muscle is injured and takes hours to rise, so one early normal value does not rule out injury; serial draws are needed."
+    "Incorrect. One early normal troponin cannot rule out a heart attack, because the level takes hours to rise; the client is drawing a false conclusion.",
+    "Incorrect. Troponin shows heart muscle injury, not how narrow the coronary arteries are; narrowing is identified by tests such as stress testing or coronary angiography.",
+    "Incorrect. Troponin does not peak in the first hour — it takes a few hours to rise after the injury begins, which is why an early value can be falsely reassuring.",
+    "Correct. Injured heart muscle cells leak troponin, but the level takes a few hours to rise, so serial draws are needed before injury can be ruled out."
    ],
-   "rationale": "Injured myocardial cells leak proteins such as troponin into the blood, but the level takes a few hours to rise after injury begins. A value drawn 1 hour after symptom onset may still be normal even if a heart attack is occurring, so the provider orders serial troponins to look for a rise.",
-   "takeaway": "One early normal troponin never rules out MI — trend serial values.",
+   "rationale": "Troponin is the most specific marker of heart muscle injury. Damaged cells leak it into the blood, but the level takes a few hours to rise after the injury begins, so a value drawn 1 hour after symptoms start may still be normal during a heart attack. Serial troponins look for a rise. Troponin reflects injury, not the degree of coronary narrowing — that is the job of stress tests and coronary angiography.",
+   "takeaway": "One early normal troponin never rules out MI — serial values look for a rise, and troponin shows injury, not narrowing.",
    "alsoTests": []
   },
   {
@@ -1662,7 +1662,7 @@
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Connect the risks after femoral catheterization with the early signs of volume loss in pulse pressure and heart rate.",
-   "hintStrategy": "Decide whether the client is actively losing blood; if so, choose the action that stops the loss before assessing further.",
+   "hintStrategy": "Decide what the groin sensation and the vital-sign trend mean together, then apply airway-breathing-circulation to the options.",
    "stem": "Two hours after a cardiac catheterization via the right femoral artery, the client says, \"My groin suddenly feels warm and wet.\" HR has risen from 84 to 106/min, and BP has changed from 126/78 to 108/88 mm Hg. Which action should the nurse take first?",
    "options": [
     "Apply firm, direct pressure just above the puncture site",
@@ -1753,28 +1753,28 @@
    "priority": true,
    "topic": "perfusion-emergencies",
    "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
-   "focus": "Delegation & Safety",
-   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
-   "hintContent": "Consider how stroke affects swallowing and airway protection.",
-   "hintStrategy": "Look for the option that prevents aspiration rather than the one that relieves thirst.",
-   "stem": "B.E., 64, is being evaluated for an acute stroke; he has slurred speech and left facial droop. He tells the nurse he is very thirsty and asks for a cup of water. Which action is the nurse's priority?",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Connect how a stroke affects swallowing and coughing with the signs of aspiration and airway-breathing priorities.",
+   "hintStrategy": "Decide whether the airway is threatened at this moment; then rank teaching, reporting, testing, and airway actions.",
+   "stem": "B.E., 64, is in the emergency department with an acute stroke; he has slurred speech and left facial droop and is waiting for his CT scan. His wife gives him a sip of water from her bottle. He coughs repeatedly, his voice now sounds wet and gurgly, and his SpO₂ drops from 96% to 91%. Which action should the nurse take first?",
    "options": [
-    "Give water through a straw so he can control the amount",
-    "Offer a cup of ice chips instead of water to relieve thirst",
-    "Provide thickened water with him sitting fully upright",
-    "Explain he must stay NPO until a swallow screen is passed"
+    "Explain to his wife that he must stay NPO until a swallow screen is passed",
+    "Notify the provider that he may need a chest x-ray for aspiration",
+    "Perform the bedside swallow screen now to see how well he swallows",
+    "Sit him upright, stop all oral intake, and suction his mouth"
    ],
    "answer": 3,
    "optionRationales": [
-    "Incorrect. A straw does not protect the airway, and his swallow has not been screened.",
-    "Incorrect. Ice chips melt into water and carry the same aspiration risk.",
-    "Incorrect. Any oral intake, even thickened, waits until the swallow screen is passed.",
-    "Correct. Stroke can weaken the muscles used to swallow, so even a sip could be aspirated. He stays NPO until a bedside swallow screen is passed; mouth care can ease thirst."
+    "Incorrect. His wife does need this teaching, but it does not help the airway problem happening right now; teach once his airway is cleared.",
+    "Incorrect. The provider should be told about a possible aspiration, but the nurse first acts on the airway and breathing.",
+    "Incorrect. Coughing, a wet voice, and a falling SpO₂ after one sip already show an unsafe swallow; giving more water to test him now could cause more aspiration.",
+    "Correct. Coughing, a wet, gurgly voice, and a drop in SpO₂ after a sip suggest aspiration. Sitting him upright and suctioning the mouth protect the airway and help oxygenation; nothing more is given by mouth."
    ],
-   "rationale": "Slurred speech and facial droop suggest the stroke may affect the muscles of swallowing. Until a bedside swallow screen is passed, the client stays NPO to prevent aspiration and pneumonia. The nurse acknowledges his thirst and may offer mouth care.",
-   "takeaway": "Suspected stroke → NPO until a swallow screen is passed, even if thirsty.",
+   "rationale": "Stroke can weaken the muscles of swallowing and the cough, so even a sip can enter the airway. Repeated coughing, a wet or gurgly voice, and a falling SpO₂ after drinking are signs of aspiration. Airway comes first: stop oral intake, position him upright, and suction secretions. Then the nurse reassesses SpO₂, notifies the provider, and teaches the family that he stays NPO until a bedside swallow screen is passed.",
+   "takeaway": "After a stroke, cough + wet voice + falling SpO₂ after a sip = aspiration: upright, stop intake, suction first.",
    "alsoTests": []
   },
   {
@@ -1815,27 +1815,27 @@
    "priority": true,
    "topic": "lifespan",
    "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Connect the position of the pregnant uterus, venous return (preload), and cardiac output.",
-   "hintStrategy": "Identify what is blocking blood from returning to the heart, then choose the action that removes that cause.",
-   "stem": "A client at 34 weeks' gestation lying flat for an ultrasound reports feeling dizzy and nauseated. She is pale and clammy, and her BP is 88/50 mm Hg (baseline 114/70). Which action should the nurse take first?",
+   "hintStrategy": "Identify what is blocking blood from returning to the heart, then decide whether verifying, reporting, or removing the cause comes first.",
+   "stem": "A client at 34 weeks' gestation has been lying on her back for a 20-minute ultrasound. She reports feeling dizzy and nauseated and is pale and clammy. BP is 88/50 mm Hg (baseline 114/70), and HR is 104/min. Which action should the nurse take first?",
    "options": [
-    "Place the client in Trendelenburg position",
+    "Recheck the BP on the other arm to confirm the low reading",
     "Turn the client onto her left side",
-    "Increase the rate of the IV fluid infusion",
-    "Elevate both legs on pillows while supine"
+    "Notify the provider of hypotension and a fast heart rate",
+    "Raise both legs on pillows while she stays on her back"
    ],
    "answer": 1,
    "optionRationales": [
-    "Incorrect. Tilting her head down while still supine leaves the uterus compressing the vena cava.",
-    "Correct. Lifting the uterus off the vena cava restores venous return and preload, so cardiac output and BP recover. Then recheck the BP.",
-    "Incorrect. The problem is obstructed venous return, not low volume; repositioning corrects it faster.",
+    "Incorrect. Verifying an unexpected reading is often wise, but this reading fits her symptoms and position; rechecking delays the fix while she stays hypotensive.",
+    "Correct. Lifting the uterus off the vena cava restores venous return and preload, so cardiac output and BP recover. Then recheck the BP and reassess her.",
+    "Incorrect. Reporting may be needed if she does not recover, but the nurse first removes the cause, which is within the nurse's scope and works within minutes.",
     "Incorrect. Leg elevation cannot overcome compression of the vena cava by the uterus while she remains flat."
    ],
-   "rationale": "Late in pregnancy, the heavy uterus compresses the vena cava when the client lies supine. Less blood returns to the right atrium, so preload, stroke volume, cardiac output, and BP fall, producing dizziness, pallor, and clamminess — supine hypotensive syndrome. Turning her to the side (or placing a wedge under the right hip) relieves the compression and is done before anything else.",
+   "rationale": "Late in pregnancy, the heavy uterus compresses the vena cava when the client lies supine. Less blood returns to the right atrium, so preload, stroke volume, cardiac output, and BP fall, producing dizziness, pallor, and clamminess — supine hypotensive syndrome. The faster heart rate is compensation for the lower stroke volume. Turning her to the side (or placing a wedge under the right hip) relieves the compression and is done before rechecking or reporting.",
    "takeaway": "Supine hypotensive syndrome: vena cava compression → ↓ preload → ↓ BP; turn her to the side first.",
    "alsoTests": [
     "cardiac-output"
@@ -1942,17 +1942,17 @@
    "type": "sata",
    "topic": "perfusion-emergencies",
    "ref": "Module 16 · Perfusion · Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Connect BE-FAST (sudden one-sided weakness and speech change), why swallowing may be unsafe after a stroke, and what each type of clot medication can and cannot do.",
+   "hintContent": "Connect BE-FAST, why swallowing may be unsafe after a stroke, why bleeding must be ruled out before clot-directed treatment, and what each clot medication can and cannot do.",
    "hintStrategy": "For each instruction, ask: does it get him to stroke care fast and keep him safe until he is evaluated, or does it delay care or add risk?",
    "stem": "A telehealth nurse receives a call from a woman whose 70-year-old husband has atrial fibrillation. He suddenly cannot lift his right arm and his speech is garbled. Which instructions should the nurse give? Select all that apply.",
    "options": [
     "Call 911 now instead of driving him to the hospital",
     "Note the time he was last known to be normal",
-    "Give him sips of water so he can take his evening pills",
+    "Give him a chewable aspirin while waiting for the ambulance",
     "Let him lie down and rest to see whether the weakness passes",
     "Give him an extra dose of his anticoagulant to dissolve the clot",
     "Do not give him anything to eat or drink until he is evaluated"
@@ -1965,13 +1965,13 @@
    "optionRationales": [
     "Correct. Sudden one-sided arm weakness and speech changes are BE-FAST stroke signs; EMS starts care on the way and alerts the stroke team.",
     "Correct. Time last known well guides treatment choices, including clot-dissolving medication, which depends on how much time has passed.",
-    "Incorrect. A stroke can impair swallowing, so even a sip can be aspirated; he stays NPO until a swallow screen is passed.",
+    "Incorrect. Aspirin weakens the platelet plug; until a CT scan rules out a bleeding stroke, nothing that impairs clotting should be given, and a stroke may have impaired his swallow.",
     "Incorrect. Waiting to see if symptoms pass wastes time — “time is brain.”",
     "Incorrect. Anticoagulants prevent new clots and stop growth but do not dissolve an existing clot, and an extra dose adds bleeding risk before a CT has ruled out bleeding.",
     "Correct. Keeping him NPO prevents aspiration until his swallow has been screened."
    ],
-   "rationale": "Sudden right arm weakness and garbled speech are BE-FAST findings, and atrial fibrillation lets blood pool in the quivering atria and form clots that can travel to the brain. The caller should activate EMS and note the time last known well, because clot-dissolving therapy (a thrombolytic that activates plasmin) depends on time. Anticoagulants act on the coagulation cascade to prevent new clots; they do not dissolve an existing clot. Because a stroke can affect swallowing, nothing is given by mouth until a swallow screen is passed.",
-   "takeaway": "Stroke signs: call 911, note the last-known-well time, nothing by mouth — anticoagulants don't dissolve clots.",
+   "rationale": "Sudden right arm weakness and garbled speech are BE-FAST findings, and atrial fibrillation lets blood pool in the quivering atria and form clots that can travel to the brain. The caller should activate EMS and note the time last known well, because clot-dissolving therapy (a thrombolytic that activates plasmin) depends on time. A stroke can also be caused by bleeding, which only a CT scan can rule out, so nothing that weakens clotting — an antiplatelet such as aspirin or an extra anticoagulant dose — is given at home; anticoagulants also cannot dissolve an existing clot. Because a stroke can affect swallowing, nothing is given by mouth until a swallow screen is passed.",
+   "takeaway": "Stroke signs: call 911, note the last-known-well time, nothing by mouth — no aspirin or extra anticoagulant before a CT rules out bleeding.",
    "alsoTests": [
     "hemostasis"
    ]
@@ -2257,7 +2257,7 @@
    "type": "sata",
    "topic": "lifespan",
    "ref": "Module 16 · Perfusion · Lifespan Considerations in Perfusion",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
@@ -2667,7 +2667,7 @@
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Recall what distinguishes a hypertensive emergency from severe hypertension alone.",
-   "hintStrategy": "Use ABCs: find the finding that shows acute organ damage threatening breathing.",
+   "hintStrategy": "Recall what defines a hypertensive emergency, then decide which finding is both specific to organ damage and most dangerous.",
    "stem": "B.E., 64, is on day 4 after an ischemic stroke and is mechanically ventilated. BP is 258/128 mm Hg and P 112. During a sedation vacation he is minimally responsive and grimaces as if in pain. The nurse suspects a hypertensive emergency. Which finding requires the nurse's most immediate follow-up?",
    "options": [
     "Heart rate of 112/min with an irregular rhythm on the monitor",

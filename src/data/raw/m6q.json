@@ -1,0 +1,1563 @@
+{
+ "moduleId": "m6",
+ "moduleNumber": 6,
+ "moduleTitle": "Fluids & Electrolytes",
+ "topics": [],
+ "flashcards": [],
+ "questions": [
+  {
+   "id": "m6q-001",
+   "type": "sata",
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-electrolytes",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "During a summer heat wave, an 84-year-old client who lives alone has had very little to drink for 3 days. The nurse recognizes that a significant loss of body water threatens which body functions? Select all that apply.",
+   "options": [
+    "Regulation of body temperature",
+    "Maintenance of cell shape and structure",
+    "Transport of oxygen and nutrients to cells and removal of wastes",
+    "Long-term storage of potassium reserves for later use",
+    "Production of bicarbonate from dietary sources",
+    "Cushioning of organs and joints as a shock absorber"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Body fluids carry heat and make sweating possible. With too little water the body cannot cool itself — especially dangerous in hot weather.",
+    "Correct. Water inside and around cells helps them keep their normal shape and structure; when water is lost, cells cannot maintain it.",
+    "Correct. Fluid is the transport medium for oxygen, nutrients, and wastes. Low volume slows delivery and waste removal.",
+    "The body does not store potassium — it must be taken in every day. This is not a function of body water.",
+    "Bicarbonate is produced by the body and regulated by the kidneys; it is not obtained from the diet, and producing it is not a function of body water.",
+    "Correct. Body fluids such as cerebrospinal fluid and joint fluid act as a shock absorber and insulator."
+   ],
+   "rationale": "Body fluids maintain body temperature, help cells keep their shape and structure, transport nutrients, oxygen, and wastes, and act as a shock absorber and insulator. This client is doubly at risk: older adults have a decreased thirst sensation and less total body water, and a high environmental temperature increases fluid loss through sweating. The two distractors are facts about electrolytes (potassium is not stored; bicarbonate is made by the body), not jobs that water performs.",
+   "takeaway": "Water does real work — temperature control, cell shape, transport, and cushioning. Lose it and all four suffer.",
+   "hintContent": "Recall the functions of body fluids listed in the module, and what you know about how potassium and bicarbonate are obtained.",
+   "hintStrategy": "Treat each option as its own true/false item: does water itself perform this job?"
+  },
+  {
+   "id": "m6q-002",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client lost about 1 L of blood from a gastrointestinal bleed before arriving at the emergency department. Which statement best describes the compartment that was depleted and where the body first draws fluid from to refill it?",
+   "options": [
+    "Intravascular fluid was lost; fluid shifts in from the interstitial space, the largest part of the ECF",
+    "Intracellular fluid was lost; transcellular fluid such as cerebrospinal fluid moves in to replace it",
+    "Interstitial fluid was lost; fluid moves out of the cells by active transport to replace it",
+    "Intravascular fluid was lost; transcellular fluid in the joints and pleural space refills the vessels first"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Blood is intravascular fluid (part of the ECF; about 5 L in an adult). Interstitial fluid surrounds the cells and capillaries and is the largest ECF portion. When pressure inside the vessels falls, less fluid is pushed out and more moves back in from the interstitial space.",
+    "Bleeding removes fluid from inside the blood vessels, not from inside cells. Transcellular fluids are small, specialized pools and are not a refill reserve.",
+    "Blood loss is an intravascular loss. Water moves between compartments by pressure (filtration) and osmosis; active transport moves particles, not bulk water.",
+    "The compartment is right, but transcellular fluids (CSF, pleural, joint, and eye fluid) are small, specialized pools that do not refill blood volume."
+   ],
+   "rationale": "ECF has three parts: interstitial fluid (around cells; the largest portion), intravascular fluid (blood; about 5 L), and transcellular fluid (specialized fluids). Hemorrhage removes intravascular fluid directly. Because interstitial fluid sits right next to the capillaries, it is the first reserve the body draws on: with lower pressure inside the vessels, more fluid returns at the venous end of the capillary than is pushed out at the arterial end.",
+   "takeaway": "Bleeding empties the vessels first; the interstitial space is the nearest reserve to refill them.",
+   "hintContent": "Connect the three parts of the ECF with their size and location relative to the capillaries, and recall how filtration moves fluid between blood and tissues.",
+   "hintStrategy": "First decide which compartment blood belongs to, then eliminate options that name the wrong compartment or a reserve too small to matter."
+  },
+  {
+   "id": "m6q-003",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Lifespan & Diversity",
+   "stem": "The nurse teaches a 79-year-old client and her daughter why older adults become dehydrated more easily. Which statement by the client indicates understanding?",
+   "options": [
+    "“My kidneys hold on to water better as I get older, so I can safely drink a little less.”",
+    "“Older adults carry more body water than younger people, so I have extra in reserve.”",
+    "“I may not feel thirsty even when my body needs water, so I should drink on a schedule.”",
+    "“As long as I drink whenever I feel thirsty, my body will stay in balance.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Aging reduces renal reserve (fewer functioning nephrons). The kidneys become less able, not more able, to conserve water.",
+    "Older adults are about 45–50% water compared with about 60% in younger adults, largely because of lower muscle mass — less reserve, not more.",
+    "Correct. Thirst sensation decreases with age, so dehydration can develop without the person feeling thirsty. Planned, regular intake compensates for the blunted signal.",
+    "Relying on thirst is unsafe in older adults because the thirst signal is blunted; by the time thirst appears, a deficit may already exist."
+   ],
+   "rationale": "Three age-related changes raise the dehydration risk in older adults: decreased thirst sensation, lower muscle mass (less total body water, about 45–50%), and reduced renal reserve. Effective teaching replaces “drink when thirsty” with planned, regular intake throughout the day.",
+   "takeaway": "In older adults thirst arrives late — plan fluids instead of waiting for the signal.",
+   "hintContent": "Recall the three reasons older adults are at higher risk for dehydration that the module lists.",
+   "hintStrategy": "Check each statement against what happens to thirst, muscle mass, and kidney reserve with aging."
+  },
+  {
+   "id": "m6q-004",
+   "type": "sata",
+   "topic": "fe-body-fluids",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 3,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "A 4-month-old infant has had vomiting and diarrhea since early morning. The parent asks why the nurse is so concerned when an adult with the same illness might be fine. Which factors explain the infant’s higher risk for rapid fluid loss? Select all that apply.",
+   "options": [
+    "The infant’s body and lung surface area is large relative to body size",
+    "The infant’s kidneys are immature and have limited reserve capacity",
+    "The infant can signal thirst only by crying and depends on caregivers for fluids",
+    "The infant’s body has a lower percentage of water than an adult’s body",
+    "The infant’s greater muscle mass uses up water faster than an adult’s",
+    "The infant’s thirst sensation is decreased, as it is in older adults"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. A large body and lung surface area relative to size allows rapid fluid exchange and greater insensible loss through the skin and breathing.",
+    "Correct. Immature kidneys cannot conserve water well, so losses are not offset.",
+    "Correct. Infants cannot communicate thirst except by crying and rely completely on caregivers to provide fluids.",
+    "The opposite is true: a newborn is about 75% water (a premature infant about 90%) versus about 60% in adults. The higher percentage does not protect the infant because that water turns over quickly.",
+    "Muscle mass is not the reason; infants have relatively little muscle. Their risk comes from surface area, immature kidneys, and dependence on caregivers.",
+    "A decreased thirst sensation is an older-adult change. Infants feel thirst but can express it only by crying."
+   ],
+   "rationale": "Neonates and infants are at higher risk for fluid loss because they cannot communicate thirst except by crying, depend on caregivers for intake, have a large body and lung surface area that allows rapid fluid exchange, and have immature kidneys with limited reserve. Fluid balance can change within hours, so the nurse monitors intake, output, and weight closely.",
+   "takeaway": "Infants: big surface area, small kidney reserve, no words for thirst — balance can change in hours.",
+   "hintContent": "Compare the infant risk factors listed in the module with the older-adult risk factors and the body-water percentages across the lifespan.",
+   "hintStrategy": "Eliminate options that actually describe older adults or that reverse the infant’s body-water percentage."
+  },
+  {
+   "id": "m6q-005",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-intake-output",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse receives reports on four clients at the start of the shift. Which client should the nurse assess first?",
+   "options": [
+    "A 34-year-old who vomited once after breakfast and is now sipping clear liquids without nausea",
+    "A 58-year-old whose recorded 24-hour intake was 2,500 mL and output was 2,350 mL",
+    "A 72-year-old with mild ankle swelling at the end of the day who walks in the hallway",
+    "A 7-month-old with eight loose stools since midnight and two wet diapers in 12 hours"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "A single episode of vomiting in an adult who is now tolerating fluids is a small, self-limited loss.",
+    "Intake roughly equals output — the definition of balance. The small difference is expected because insensible losses are not recorded.",
+    "Mild end-of-day swelling in an active older adult deserves follow-up but is not an acute threat compared with the infant.",
+    "Correct. Infants lose fluid quickly (large surface area, immature kidneys, cannot ask for fluids). Ongoing diarrhea together with a sharp drop in wet diapers shows output is outpacing intake — the greatest risk of rapid deterioration."
+   ],
+   "rationale": "Fluid balance can change quickly in infants. When an ongoing abnormal loss (diarrhea) combines with falling urine output, the infant is losing more than he or she is taking in and has little reserve. The adult with intake ≈ output is balanced, and one episode of vomiting is minor. Prioritize the client with the least reserve whose cues show losses still occurring.",
+   "takeaway": "The smaller the client and the more ongoing the loss, the faster the imbalance — see the infant first.",
+   "hintContent": "Connect infant lifespan risk factors with abnormal output routes and what fewer wet diapers means for output.",
+   "hintStrategy": "Ask which client has both the least fluid reserve and evidence that losses are still happening."
+  },
+  {
+   "id": "m6q-006",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-body-fluids",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "Two clients each weigh 70 kg: a 25-year-old man and an 82-year-old woman. Which estimate of the older client’s total body water, with its reason, is most accurate?",
+   "options": [
+    "About 28 L, because most of her body water has shifted into the transcellular space",
+    "About 33 L, because lower muscle mass leaves her with less total body water",
+    "About 42 L, because body water stays at 60% throughout adulthood",
+    "About 52 L, because declining kidney function causes her to retain extra water"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "28 L would be only 40% of her weight. Older adults are about 45–50% water, and transcellular fluid is a small, specialized compartment, not where most water goes.",
+    "Correct. Older adults are about 45–50% water: 70 kg × 0.45–0.50 ≈ 31.5–35 L. Muscle holds more water than fat, so lower muscle mass means less total body water.",
+    "About 42 L (60%) fits the 25-year-old. Body-water percentage falls with age.",
+    "52 L would be about 75% — the newborn value. Reduced renal reserve makes water harder to regulate, but it does not raise an older adult’s body water."
+   ],
+   "rationale": "Body water changes with age: premature infant ~90%, newborn ~75%, adult ~60%, older adult ~45–50%. Using 1 kg of water ≈ 1 L, the young adult carries about 42 L and the older adult about 33 L. With a smaller reservoir, the same fluid loss is a larger share of the older client’s total water — one reason older adults dehydrate more easily.",
+   "takeaway": "Same weight, less water: an older adult’s smaller reservoir makes every loss count more.",
+   "hintContent": "Recall the body-water percentages across the lifespan and why muscle mass matters.",
+   "hintStrategy": "Multiply the weight by the percentage for each age group, then check whether the stated reason is accurate."
+  },
+  {
+   "id": "m6q-007",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-body-fluids",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "stem": "The nurse assists with a lumbar puncture to collect cerebrospinal fluid (CSF). The nurse recognizes that CSF belongs to which fluid compartment?",
+   "options": [
+    "Transcellular fluid, a specialized part of the extracellular fluid",
+    "Intravascular fluid, the part of the extracellular fluid inside blood vessels",
+    "Interstitial fluid, the largest part of the extracellular fluid",
+    "Intracellular fluid, the fluid found inside the body’s cells"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Transcellular fluids are specialized fluids such as CSF, pleural fluid, joint fluid, and the fluid in the eyes.",
+    "Intravascular fluid is the fluid inside blood vessels (blood volume ≈ 5 L). CSF surrounds the brain and spinal cord.",
+    "Interstitial fluid surrounds the body’s cells in the tissues; CSF is a specialized fluid in its own space.",
+    "Intracellular fluid is inside the cells. CSF lies outside the cells, so it is part of the ECF."
+   ],
+   "rationale": "Body fluid is divided into intracellular fluid (inside cells; most body fluid) and extracellular fluid (outside cells). The ECF includes interstitial fluid (around cells; the largest ECF portion), intravascular fluid (blood), and transcellular fluid — specialized fluids such as CSF, pleural fluid, joint fluid, and the fluid in the eyes.",
+   "takeaway": "Transcellular = the specialized fluids: CSF, pleural, joint, and eye fluid.",
+   "hintContent": "Recall the three subdivisions of the extracellular fluid and an example of each.",
+   "hintStrategy": "First decide whether CSF is inside or outside cells, then match it to the ECF subdivision that holds specialized fluids."
+  },
+  {
+   "id": "m6q-008",
+   "type": "sata",
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-intake-output",
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse reviews data for a 70-kg adult client to evaluate fluid and electrolyte balance. Which findings indicate the client is maintaining balance? Select all that apply.",
+   "options": [
+    "24-hour intake 2,450 mL; 24-hour output 2,300 mL",
+    "Morning weight unchanged from yesterday on the same scale",
+    "Serum osmolality 292 mOsm/kg",
+    "Urine specific gravity 1.038",
+    "Urine output 28 mL/hr for the past 3 hours",
+    "Serum sodium 149 mEq/L"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Balance occurs when intake ≈ output. Intake slightly above recorded output is expected because insensible losses from the skin and lungs are not counted in the output total.",
+    "Correct. A stable daily weight under the same conditions means no net gain or loss of fluid (1 kg ≈ 1 L).",
+    "Correct. Normal serum osmolality is 280–300 mOsm/kg, showing a normal concentration of body fluid.",
+    "Above the normal 1.005–1.030 range. Very concentrated urine suggests the kidneys are conserving water.",
+    "Minimum output is 0.5 mL/kg/hr × 70 kg = 35 mL/hr. 28 mL/hr is below the expected amount.",
+    "Above 145 mEq/L is hypernatremia. Sodium level depends largely on how much water is in the body, so this suggests a concentration problem."
+   ],
+   "rationale": "Fluid and electrolyte balance means the right amount of fluid (volume), the right concentration (osmolality), and the right electrolyte levels. Volume is reflected by intake ≈ output and a stable daily weight; concentration by serum osmolality (280–300 mOsm/kg) and urine specific gravity (1.005–1.030); electrolytes by serum values such as sodium (135–145 mEq/L). Urine output should be at least 0.5 mL/kg/hr.",
+   "takeaway": "Balance looks like intake ≈ output, a stable weight, adequate urine output, and labs inside their normal ranges.",
+   "hintContent": "Connect the three parts of balance (volume, concentration, electrolytes) with the measurements and normal ranges you are expected to know.",
+   "hintStrategy": "Check every number against its normal range; calculate this client’s minimum hourly urine output before judging that option."
+  },
+  {
+   "id": "m6q-009",
+   "type": "sata",
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pathophysiology",
+   "stem": "A nursing student is explaining body fluids and compartments to a peer. Which statements by the student are accurate? Select all that apply.",
+   "options": [
+    "“Most of the body’s water is found inside the cells.”",
+    "“Interstitial fluid is the largest part of the extracellular fluid.”",
+    "“Body fluid is pure water; dissolved substances are counted separately.”",
+    "“A serum potassium level tells us the potassium level inside the cells.”",
+    "“Every compartment holds the same concentration of each electrolyte.”",
+    "“Electrolytes are charged particles that dissolve in water.”"
+   ],
+   "answer": [
+    0,
+    1,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Intracellular fluid makes up most body fluid (about 40% of body weight versus about 20% for ECF).",
+    "Correct. The fluid surrounding cells is the largest portion of the ECF.",
+    "Body fluid is water plus the substances dissolved in it.",
+    "Blood samples reflect the extracellular fluid. Intracellular levels cannot be measured directly.",
+    "All body fluids contain electrolytes, but the amounts vary by location — for example, potassium is mainly intracellular and sodium mainly extracellular.",
+    "Correct. Electrolytes are ions such as Na⁺, K⁺, Ca²⁺, Mg²⁺, HCO₃⁻, and PO₄³⁻."
+   ],
+   "rationale": "Most body fluid is intracellular; the ECF is divided into interstitial (largest), intravascular, and transcellular fluid. Fluid is water plus dissolved substances, and electrolytes are charged particles whose amounts differ by compartment. Because blood tests sample the ECF, serum electrolyte values show what is happening outside the cells, not inside them.",
+   "takeaway": "Most water is inside cells, but every lab value you draw describes the fluid outside them.",
+   "hintContent": "Recall the fluid compartments, the definitions of fluid and electrolytes, and what a blood sample actually measures.",
+   "hintStrategy": "Judge each statement independently; watch for statements that sound logical but contradict how labs are drawn."
+  },
+  {
+   "id": "m6q-010",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-body-fluids",
+   "alsoTests": [
+    "fe-intake-output",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Body Fluids: Functions, Compartments & Lifespan",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "stem": "A premature infant is cared for under a radiant warmer in the neonatal unit. Which nursing action is most important for maintaining the infant’s fluid balance?",
+   "options": [
+    "Reduce the IV fluid rate, because a premature infant’s body is already about 90% water",
+    "Weigh daily on the same scale and record all intake and output, including diaper weights",
+    "Wait to adjust fluids until the infant’s fontanel appears sunken, since that confirms a loss",
+    "Offer extra feedings each time the infant cries, because crying is how infants signal thirst"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "A high body-water percentage does not protect the infant; that water turns over quickly. Reducing fluids without an order or supporting data risks a deficit.",
+    "Correct. A premature infant (~90% water) with a large surface area loses fluid quickly, and the warmer increases insensible evaporation from the skin that I&O cannot capture. Consistent daily weights plus complete I&O detect a change early.",
+    "Waiting for a late physical finding delays recognition. The goal is to detect changes early with weights and I&O.",
+    "Crying can signal many needs, and a premature infant’s intake is prescribed and measured. Feeding on every cry ignores the plan and is not a monitoring strategy."
+   ],
+   "rationale": "Insensible losses through the skin rise with environmental temperature, and a radiant warmer creates exactly that situation in a client with the highest body-water percentage and the least reserve. Because insensible losses are not included in I&O totals, the daily weight on the same scale (1 kg ≈ 1 L, or 1 g ≈ 1 mL in an infant) is the most sensitive way to see them, alongside complete intake and output records.",
+   "takeaway": "Under a warmer, insensible losses climb unseen — daily weights catch what I&O misses.",
+   "hintContent": "Connect premature-infant body water and surface area with the factors that increase insensible loss and how those losses can be detected.",
+   "hintStrategy": "Choose the action that detects a problem earliest and most accurately rather than one that reacts late or changes therapy without data."
+  },
+  {
+   "id": "m6q-011",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client who has had nothing to drink for 2 days has a serum osmolality of 312 mOsm/kg. Which describes the movement of water between the client’s cells and the extracellular fluid (ECF)?",
+   "options": [
+    "Water moves from the ECF into the cells, which take up water and begin to swell",
+    "Sodium moves into the cells by osmosis until both compartments have equal concentration",
+    "Water moves out of the cells into the more concentrated ECF, and the cells shrink",
+    "Water stays where it is, because cell membranes do not allow water to pass through them"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "This happens when the ECF is more dilute than the cells. Here the ECF is more concentrated.",
+    "Osmosis is the movement of water, not solutes; solutes move by diffusion. Water follows sodium, not the reverse.",
+    "Correct. 312 mOsm/kg is above the normal 280–300, so the ECF is more concentrated than the cells. Water moves toward the higher solute concentration — out of the cells — and the cells shrink.",
+    "Cell membranes are semipermeable and allow water to cross — that is what makes osmosis possible."
+   ],
+   "rationale": "Osmosis moves water across a semipermeable membrane from the lower solute concentration to the higher one until balance is reached. A high serum osmolality means the ECF has more solute (relatively less water) than the ICF, so water leaves the cells and they shrink. This is also why a rising osmolality is a major trigger for thirst.",
+   "takeaway": "Water chases solute: concentrated ECF pulls water out of the cells.",
+   "hintContent": "Recall the normal serum osmolality range and the direction water moves in osmosis.",
+   "hintStrategy": "Decide which side has more solute, then send the water toward it."
+  },
+  {
+   "id": "m6q-012",
+   "type": "sata",
+   "topic": "fe-fluid-movement",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pathophysiology",
+   "stem": "After a class on fluid movement, the nurse educator asks students to describe the processes. Which student statements are accurate? Select all that apply.",
+   "options": [
+    "“In diffusion, particles move from an area of higher concentration to lower concentration.”",
+    "“In osmosis, water moves toward the side with the higher solute concentration.”",
+    "“Filtration uses pressure to push fluid out of the capillaries at the arterial end.”",
+    "“Active transport moves particles down their concentration gradient without using energy.”",
+    "“In diffusion, water moves from the side with more solute to the side with less.”",
+    "“A fluid with a high solute concentration has relatively less water.”"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Diffusion is the movement of solutes from high to low concentration until balance is reached.",
+    "Correct. Water moves from low solute concentration to high solute concentration across a semipermeable membrane.",
+    "Correct. Pressure pushes fluid out at the arterial end of the capillary, and fluid moves back in at the venous end.",
+    "Active transport moves particles against the concentration gradient and requires energy (ATP).",
+    "Diffusion describes solute movement. Water moves toward the side with more solute, not away from it.",
+    "Correct. High solute = less water; low solute = more water. That is why water moves toward higher solute."
+   ],
+   "rationale": "Filtration: pressure pushes fluid from capillaries into tissues at the arterial end, and fluid returns at the venous end. Osmosis: water crosses a semipermeable membrane toward the higher solute concentration. Diffusion: solutes move from high to low concentration. Active transport: particles move against the gradient using ATP, as in the Na⁺/K⁺ pump.",
+   "takeaway": "Solutes diffuse downhill; water moves toward solute; pressure filters; ATP pumps uphill.",
+   "hintContent": "Match each process — filtration, osmosis, diffusion, active transport — with what moves, which direction, and whether energy is needed.",
+   "hintStrategy": "For each statement ask: is it describing water or solute, and is the direction and energy use correct?"
+  },
+  {
+   "id": "m6q-013",
+   "type": "sata",
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "stem": "Which statements about the sodium-potassium (Na⁺/K⁺) pump are accurate? Select all that apply.",
+   "options": [
+    "It moves sodium out of the cell and potassium into the cell.",
+    "It requires energy in the form of ATP.",
+    "It moves particles against their concentration gradient.",
+    "It is a form of diffusion that needs no energy.",
+    "Magnesium helps activate the pump.",
+    "It moves potassium out of the cell into the extracellular fluid."
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. This keeps sodium mainly in the ECF and potassium mainly in the ICF.",
+    "Correct. The pump is an example of active transport, which requires ATP.",
+    "Correct. Moving particles against the gradient is what makes energy necessary.",
+    "Diffusion is passive movement from high to low concentration. The pump is active transport.",
+    "Correct. Magnesium activates the sodium/potassium pump, one reason it is called the stabilizer electrolyte.",
+    "The pump moves potassium into the cell, which is why potassium is the main intracellular electrolyte."
+   ],
+   "rationale": "Sometimes the body must move particles against their concentration gradient, which requires energy (ATP). The Na⁺/K⁺ pump moves sodium out of the cell and potassium into the cell, maintaining normal cell function and the different electrolyte make-up of the ICF and ECF. Magnesium is needed to activate the pump.",
+   "takeaway": "Na⁺ out, K⁺ in, ATP required — and magnesium switches the pump on.",
+   "hintContent": "Recall the example of active transport in the module and the roles of sodium, potassium, and magnesium.",
+   "hintStrategy": "Picture where sodium and potassium mainly live, then decide which way the pump must move each one."
+  },
+  {
+   "id": "m6q-014",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client with heart failure has increased pressure within the veins and capillaries and develops swelling in both ankles. Which process best explains how the fluid reached the tissues?",
+   "options": [
+    "Osmosis draws water into the cells of the ankles because the cells contain more sodium",
+    "Active transport uses ATP to pump fluid out of the vessels and into the surrounding tissue",
+    "Diffusion moves water from the tissues into the blood because the blood has more particles",
+    "Increased capillary pressure pushes more fluid out into the tissues than can move back in"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Sodium is the main extracellular electrolyte, not intracellular, and edema is fluid in the interstitial space, not inside the cells.",
+    "Active transport moves particles such as sodium and potassium against a gradient; it does not pump bulk fluid into tissues.",
+    "Diffusion moves solutes, not water, and movement into the blood would reduce edema rather than cause it.",
+    "Correct. This is filtration: pressure pushes fluid out of the capillaries. When capillary pressure is high, more fluid is pushed out and less returns at the venous end, so it collects in the interstitial space as edema."
+   ],
+   "rationale": "Filtration moves fluid between blood vessels and tissues: pressure pushes fluid out at the arterial end of the capillary, and fluid moves back in at the venous end. Heart failure is a chronic condition listed as a risk factor because raised pressure in the capillaries shifts that balance — more fluid leaves than returns, and it accumulates in the tissues.",
+   "takeaway": "Think “pressure pushes fluid”: when capillary pressure rises, fluid piles up in the tissues.",
+   "hintContent": "Connect the filtration process at the arterial and venous ends of a capillary with what happens when pressure in the vessels rises.",
+   "hintStrategy": "Identify which process is driven by pressure, then eliminate options that misname what moves or where it goes."
+  },
+  {
+   "id": "m6q-015",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "stem": "A client with liver disease has a serum albumin of 2.1 g/dL, swollen legs, and ascites. The client asks why fluid is collecting “everywhere except where it should be.” Which explanation by the nurse is accurate?",
+   "options": [
+    "“Albumin works like a magnet that holds water in your blood vessels, and you don’t have enough.”",
+    "“Your albumin is high, and the extra protein is pulling water out of your blood vessels into tissues.”",
+    "“Your blood pressure is pushing too little fluid out of your vessels, so it collects in the tissues.”",
+    "“Your cells are pumping sodium into your tissues, and the water is following it there.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Albumin (normal 3.5–5.0 g/dL) creates oncotic pressure that keeps fluid in the vessels. With too little, fluid leaks into the tissues (edema) and body cavities (ascites).",
+    "2.1 g/dL is low, not high. Albumin pulls water into the vessels, not out of them.",
+    "This contradicts itself: less fluid pushed out of the vessels would mean less, not more, fluid in the tissues.",
+    "The cause here is low albumin and the loss of oncotic pressure, not a sodium pump moving sodium into tissues."
+   ],
+   "rationale": "Albumin is a large plasma protein that acts like a magnet for water, creating oncotic (osmotic) pressure that keeps fluid inside the blood vessels. When albumin is low, fluid leaves the bloodstream and moves into the tissues, causing edema, third spacing, ascites, hypotension, and delayed wound healing.",
+   "takeaway": "Low albumin = a weak magnet: fluid drifts out of the vessels into tissues and body cavities.",
+   "hintContent": "Recall what albumin does to fluid in the vessels, its normal range, and the consequences of a low level.",
+   "hintStrategy": "Compare the lab value with its normal range first, then choose the explanation that matches the direction albumin pulls water."
+  },
+  {
+   "id": "m6q-016",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-electrolytes",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "stem": "A client with heart failure and ankle edema is prescribed a sodium-restricted diet. The client says, “My problem is too much fluid, not salt.” Which teaching point is most important for the nurse to include?",
+   "options": [
+    "“Drinking extra water every day will help flush the excess sodium out, so your swelling should go down.”",
+    "“Water follows sodium, so limiting salt, canned soups, and processed foods helps you hold less fluid.”",
+    "“You can season your food with a salt substitute as much as you like, because it contains no electrolytes.”",
+    "“Eating a banana or a potato every day will keep your potassium up while you follow the low-sodium diet.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Adding water for a client who is already retaining fluid can worsen the problem. Water follows sodium; extra water does not flush sodium out.",
+    "Correct. This corrects the misunderstanding directly: retained sodium holds water in the ECF. Table salt, processed foods, soups, and canned foods are the main dietary sodium sources.",
+    "Salt substitutes are primarily potassium. Unrestricted use can be unsafe, especially with potassium-sparing medications; the client should check with the provider first.",
+    "Potassium intake may matter depending on the client’s diuretic, but this does not address the client’s misunderstanding about sodium and fluid — the key to adherence."
+   ],
+   "rationale": "Water follows sodium: sodium is the main ECF electrolyte and controls water balance and ECF volume. A client who does not see the link between salt and fluid is unlikely to follow the diet, so explaining the sodium–water relationship and naming the main sources (table salt, processed foods, soups, canned foods) comes first. Salt substitutes are mostly potassium and are not a free alternative.",
+   "takeaway": "Where sodium goes, water follows — cutting sodium is how you cut retained fluid.",
+   "hintContent": "Connect the key idea of osmosis (“water follows sodium”) with sodium’s dietary sources and what salt substitutes contain.",
+   "hintStrategy": "Find the option that corrects the client’s specific misunderstanding; then rule out options that are unsafe or true but beside the point."
+  },
+  {
+   "id": "m6q-017",
+   "type": "sata",
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "The nurse reviews examples of fluid and particle movement in the body. Which examples are correctly matched with the process involved? Select all that apply.",
+   "options": [
+    "Oxygen and nutrients reach tissue cells as pressure pushes fluid out at the arterial end of capillaries — filtration",
+    "Water moves from a dilute extracellular fluid into more concentrated cells — osmosis",
+    "Potassium is moved back into the cells against its gradient using ATP — active transport",
+    "Albumin leaves the blood vessels and pulls water into the tissues — osmosis",
+    "Water moves toward the side with less solute until both sides are equal — diffusion",
+    "Fluid returns to the capillaries at the venous end — active transport"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Filtration is pressure-driven movement between blood and tissues that delivers oxygen and nutrients.",
+    "Correct. Osmosis moves water toward the higher solute concentration across a semipermeable membrane.",
+    "Correct. Movement against a gradient that uses ATP is active transport (the Na⁺/K⁺ pump).",
+    "Albumin is a large protein that stays in the vessels and pulls water into the bloodstream, not out into the tissues.",
+    "Diffusion is solute movement from high to low concentration; water moves toward the side with more solute.",
+    "Fluid returning at the venous end is part of filtration and capillary exchange; it does not use ATP."
+   ],
+   "rationale": "Each process has a signature. Filtration: pressure moves fluid between capillaries and tissues (out at the arterial end, back in at the venous end). Osmosis: water moves toward higher solute. Diffusion: solutes move from high to low. Active transport: particles move against the gradient using ATP. Albumin keeps water inside the vessels through oncotic pressure.",
+   "takeaway": "Ask what moves (water or solute), which way, and whether it costs energy — the answer names the process.",
+   "hintContent": "Recall the four movement processes and the role of albumin’s oncotic pressure.",
+   "hintStrategy": "Check each pair by asking what is moving, in which direction, and whether pressure, solute, or ATP is driving it."
+  },
+  {
+   "id": "m6q-018",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-electrolytes",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client began chemotherapy 2 days ago for a rapidly growing cancer. Today’s labs show potassium 5.6 mEq/L and phosphate 5.1 mg/dL. The client takes no supplements and has eaten very little. Which explanation for these results is most likely?",
+   "options": [
+    "The client’s intake of bananas and dairy has exceeded what the kidneys can excrete",
+    "The sodium-potassium pump is moving potassium and phosphate into the cells faster than normal",
+    "Damaged cells are releasing intracellular electrolytes into the bloodstream",
+    "The serum values reflect the levels inside the cells, which are normally this high"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "The stem says the client has eaten very little. These lab changes reflect cell breakdown, not intake.",
+    "Moving electrolytes into the cells would lower the serum levels, not raise them.",
+    "Correct. Potassium and phosphate are mainly intracellular. When chemotherapy injures or kills cells, those electrolytes spill into the blood and serum levels rise.",
+    "Blood samples reflect the ECF only; intracellular levels cannot be measured directly. These values are above the normal serum ranges."
+   ],
+   "rationale": "Electrolytes shift between the ICF and ECF to keep conditions stable. When cells are damaged — by chemotherapy, trauma, or extreme illness — intracellular electrolytes spill into the bloodstream, so potassium (normal 3.5–5.0 mEq/L; above 5.0 is hyperkalemia) and phosphate (normal 2.5–4.5 mg/dL; above 4.5 is hyperphosphatemia) appear elevated. The labs change because cells are breaking down, not because intake increased.",
+   "takeaway": "When cells break down, ICF electrolytes (K⁺, phosphate) spill into the blood — the rise is not from intake.",
+   "hintContent": "Connect which electrolytes live mainly inside cells with what happens to serum levels when cells are injured.",
+   "hintStrategy": "Use the history (chemotherapy, little intake) to eliminate intake-based explanations, then ask which direction the electrolytes must be moving."
+  },
+  {
+   "id": "m6q-019",
+   "type": "sata",
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-electrolytes",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client drinks a large amount of plain water in a short time, making the extracellular fluid (ECF) more dilute than the fluid inside the cells. Which statements describe the expected fluid movement? Select all that apply.",
+   "options": [
+    "Water moves from the ECF into the cells.",
+    "Water moves out of the cells into the ECF.",
+    "The movement occurs by osmosis across semipermeable cell membranes.",
+    "Sodium moves into the cells first, and the water then follows it.",
+    "The movement requires ATP supplied to the Na⁺/K⁺ pump.",
+    "Serum osmolality rises above 300 mOsm/kg."
+   ],
+   "answer": [
+    0,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Water moves from the lower solute concentration (the dilute ECF) toward the higher solute concentration (inside the cells).",
+    "This would occur if the ECF were more concentrated than the cells; here it is more dilute.",
+    "Correct. Water crossing a semipermeable membrane toward higher solute concentration is osmosis.",
+    "Osmosis is water movement; sodium is kept mainly outside the cells by the Na⁺/K⁺ pump.",
+    "Osmosis is passive and needs no energy. ATP is used for active transport of particles.",
+    "Diluting the ECF with plain water lowers serum osmolality; it does not raise it."
+   ],
+   "rationale": "In osmosis, water moves across a semipermeable membrane from low solute concentration to high solute concentration until balance is reached. Plain water dilutes the ECF and lowers its osmolality, so water moves into the more concentrated cells. No energy is required — only active transport uses ATP.",
+   "takeaway": "Dilute ECF sends water into the cells; concentrated ECF pulls it out — osmosis, no ATP needed.",
+   "hintContent": "Recall the direction water moves in osmosis and how adding plain water changes serum osmolality.",
+   "hintStrategy": "Identify the more concentrated side first; every true statement will be consistent with water moving toward it."
+  },
+  {
+   "id": "m6q-020",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-fluid-movement",
+   "alsoTests": [
+    "fe-iv-solutions",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "A client with severe malnutrition has a serum albumin of 1.9 g/dL. Which finding should the nurse report to the health care provider first?",
+   "options": [
+    "New 2+ pitting edema in both feet and ankles that leaves an indentation lasting several seconds",
+    "Abdominal girth that has increased by 1 cm since yesterday’s measurement at the umbilicus",
+    "A sacral pressure injury that has shown little change in size or depth over the past week",
+    "Blood pressure 84/50 mm Hg, down from 108/66 this morning, with heart rate 118/min"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Edema is an expected result of low albumin and needs follow-up, but it does not threaten perfusion as immediately as falling blood pressure.",
+    "A small increase suggests developing ascites (third spacing), an expected consequence; it is less urgent than hypotension with tachycardia.",
+    "Delayed wound healing is a chronic consequence of low albumin, not an immediate threat.",
+    "Correct. Low albumin lets fluid leave the bloodstream. A falling blood pressure with a rising heart rate shows intravascular volume is dropping and perfusion is threatened — the most urgent finding."
+   ],
+   "rationale": "Albumin (normal 3.5–5.0 g/dL) creates the oncotic pressure that holds fluid in the vessels. When it is low, fluid moves into the tissues, producing edema, third spacing, ascites, hypotension, and delayed wound healing. All four options are consistent with low albumin, but only the falling blood pressure with tachycardia shows the circulating volume itself is failing — a perfusion problem that must be reported first.",
+   "takeaway": "Low albumin causes many findings; the one that threatens perfusion — falling BP — comes first.",
+   "hintContent": "Recall the consequences of low albumin and which of them affects circulating blood volume.",
+   "hintStrategy": "All options are expected with low albumin — choose the one that signals an immediate threat to circulation."
+  },
+  {
+   "id": "m6q-021",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse totals the 8-hour intake for a client who receives continuous tube feedings. During the shift the client received: tube feeding at 60 mL/hr for 8 hours; four 30-mL water flushes; an IV antibiotic piggyback of 100 mL; and 240 mL of apple juice plus 360 mL of water by mouth. What is the client’s total intake for the shift?",
+   "options": [
+    "820 mL",
+    "1,180 mL",
+    "1,200 mL",
+    "1,300 mL"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "This total leaves out the tube feeding (60 mL/hr × 8 hr = 480 mL). Tube feedings are part of intake.",
+    "This total leaves out the four 30-mL water flushes (120 mL). Flush water enters the body and counts as intake.",
+    "This total leaves out the 100-mL IV piggyback. Fluid given with IV medications counts as intake.",
+    "Correct. Tube feeding 480 mL + flushes 120 mL + IV piggyback 100 mL + oral 600 mL = 1,300 mL."
+   ],
+   "rationale": "Intake includes every fluid that enters the body: oral fluids, tube feedings, IV fluids, fluid given with medications, and irrigation or flush fluids. Missing any source makes the I&O record inaccurate and can hide an imbalance. Here: 480 + 120 + 100 + 240 + 360 = 1,300 mL.",
+   "takeaway": "Count every source in: oral, tube feedings and flushes, IV fluids, and IV medications.",
+   "hintContent": "Recall the categories of intake the nurse records on the I&O record.",
+   "hintStrategy": "List each source with its volume, calculate the tube-feeding total first, then add."
+  },
+  {
+   "id": "m6q-022",
+   "type": "sata",
+   "topic": "fe-intake-output",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client has a nasogastric (NG) tube to suction, an indwelling urinary catheter, and a draining surgical wound, and is febrile with rapid breathing. Which should the nurse include when totaling the client’s output? Select all that apply.",
+   "options": [
+    "Urine emptied from the catheter drainage bag",
+    "Fluid collected from the NG suction canister",
+    "Measured drainage from the surgical wound",
+    "An estimate of water lost through rapid breathing",
+    "An estimate of fluid lost through sweating with the fever",
+    "One liquid stool measured in a collection container"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Urine is a sensible (measurable) loss and the primary route of output.",
+    "Correct. Drainage from tubes is an abnormal, measurable loss and is recorded as output.",
+    "Correct. Wound drainage is a sensible loss included in output.",
+    "Water lost through the lungs is an insensible loss. It cannot be measured directly and is not included in I&O totals, even though it affects hydration.",
+    "Evaporation through the skin is an insensible loss and is not included in I&O totals.",
+    "Correct. Stool is a measurable output route and is recorded."
+   ],
+   "rationale": "Sensible losses are measurable — urine, stool, wound drainage, and drainage from tubes — and are recorded as output. Insensible losses through the skin and lungs cannot be measured directly and are not included in I&O totals, although they still affect hydration and increase with fever, heat, and rapid or deep breathing.",
+   "takeaway": "If you can measure it, record it; skin and lung losses are real but never added to the I&O total.",
+   "hintContent": "Distinguish sensible from insensible losses and recall which ones belong on the I&O record.",
+   "hintStrategy": "For each option, ask whether the nurse can actually measure that volume."
+  },
+  {
+   "id": "m6q-023",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "stem": "A client with pneumonia has had a temperature of 39.4°C (103°F) and a respiratory rate of 28/min for the past 24 hours. The I&O record shows intake 2,400 mL and output 2,200 mL. There is no fluid restriction. Which action is the nurse’s priority for this client’s fluid balance?",
+   "options": [
+    "Encourage extra oral fluids as allowed, since unmeasured skin and lung losses are increased",
+    "Limit fluids to the ordered minimum, because intake has exceeded output by 200 mL in 24 hours",
+    "Add an estimated 400 mL for sweat and breathing losses to the recorded 24-hour output total",
+    "Document that intake and output are balanced and continue monitoring at the routine interval"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Fever and rapid breathing raise insensible losses through the skin and lungs, which are not in the I&O total. True losses exceed the recorded 2,200 mL, so the client needs more intake.",
+    "The 200-mL “excess” is an illusion: unrecorded insensible losses are higher than usual. Restricting fluids would worsen a deficit.",
+    "Insensible losses cannot be measured and are not included in I&O totals. The nurse accounts for them clinically instead of adding guesses to the record.",
+    "The recorded numbers look balanced, but fever and tachypnea mean real losses are greater. Taking no action misses the hidden deficit."
+   ],
+   "rationale": "Insensible losses — evaporation through the skin (affected by temperature) and water vapor from the lungs (affected by respiratory rate and depth) — are not part of I&O totals but still affect hydration. With a high fever and a respiratory rate of 28, these losses are well above the usual 700–800 mL/day, so a record that appears balanced actually hides a deficit. Facilitating intake per the plan is the priority.",
+   "takeaway": "Fever and fast breathing hide losses the I&O sheet can’t show — a “balanced” record may be a deficit.",
+   "hintContent": "Connect insensible losses with the factors that increase them and with what is and is not included in I&O totals.",
+   "hintStrategy": "Ask what the recorded numbers leave out for this client, then choose the action that addresses the true balance."
+  },
+  {
+   "id": "m6q-024",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Assessment Findings",
+   "stem": "A client who weighs 80 kg is 1 day postoperative. Hourly urine output for the last 3 hours was 45 mL, 38 mL, and 30 mL. Which action should the nurse take first?",
+   "options": [
+    "Continue routine monitoring, since the 3-hour total projects to more than the 400–600 mL/day obligatory loss",
+    "Report the output, which has stayed below 40 mL/hr for the last 2 hours",
+    "Continue hourly monitoring, since output has stayed at or above 30 mL/hr, the minimum for all adults",
+    "Recheck output in 4 hours, since a drop in urine output is expected on the first day after surgery"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "The obligatory 400–600 mL/day is the bare minimum needed to rid the body of wastes, not a target for adequate output. The weight-based minimum for this client is 40 mL/hr.",
+    "Correct. Minimum output is 0.5 mL/kg/hr × 80 kg = 40 mL/hr. The last two hours (38 and 30 mL) are below that and trending down, so the provider needs to know promptly.",
+    "A fixed 30 mL/hr fits only a 60-kg adult. The course formula is weight-based: this 80-kg client needs at least 40 mL/hr.",
+    "A falling output below the weight-based minimum is not something to wait 4 hours on; delaying could allow a fluid deficit or kidney problem to worsen."
+   ],
+   "rationale": "Urine output should be at least 0.5 mL/kg/hr. For 80 kg that is 40 mL/hr. The trend (45 → 38 → 30) is downward, and two consecutive hours fall below the minimum. The distractors use true-sounding numbers — the obligatory daily loss and the familiar 30 mL/hr — that do not apply to this client’s weight.",
+   "takeaway": "Calculate it every time: 0.5 mL × kg × hr. For 80 kg, 30 mL/hr is too low.",
+   "hintContent": "Apply the urine output formula you must know, and distinguish it from the obligatory daily urine loss.",
+   "hintStrategy": "Do the math for this client’s weight before reading the options, then look at the trend across the 3 hours."
+  },
+  {
+   "id": "m6q-025",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "During a long surgery, a client received 4 L of isotonic IV fluid. The increased blood volume stretches the walls of the heart’s atria. Which hormonal response does the nurse expect?",
+   "options": [
+    "Release of aldosterone, causing the kidneys to retain sodium and water to support volume",
+    "Release of antidiuretic hormone, causing the kidneys to produce a small volume of urine",
+    "Release of atrial natriuretic factor, causing the kidneys to excrete sodium and water",
+    "Release of atrial natriuretic factor, causing the kidneys to conserve sodium and water"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Aldosterone keeps sodium and water and increases blood volume — the opposite of what an overfilled circulation needs.",
+    "ADH conserves water when body fluids are concentrated. With isotonic volume expansion, conserving water would add to the excess.",
+    "Correct. Atrial natriuretic factor (ANF) opposes aldosterone, promoting loss of sodium and water and increasing urine output — the right response to excess volume.",
+    "The hormone is right, but the effect is reversed: ANF promotes loss of sodium and water."
+   ],
+   "rationale": "Three hormones help the kidneys decide what to keep or release. Aldosterone keeps sodium and water and increases blood volume. ANF opposes aldosterone, promoting sodium and water loss and increasing urine output. ADH controls water only, conserving it when body fluids are concentrated. When extra volume stretches the atria, ANF is the hormone that helps the body get rid of it.",
+   "takeaway": "Stretched atria release ANF — sodium and water out, urine output up.",
+   "hintContent": "Recall the effect of aldosterone, ANF, and ADH on sodium, water, and urine output.",
+   "hintStrategy": "Decide whether the body needs to keep or lose fluid in this situation, then match the hormone and its correct effect."
+  },
+  {
+   "id": "m6q-026",
+   "type": "sata",
+   "topic": "fe-intake-output",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "stem": "The nurse is reviewing how hormones regulate fluid output by the kidneys. Which statements are accurate? Select all that apply.",
+   "options": [
+    "Aldosterone causes the kidneys to keep sodium and water, increasing blood volume.",
+    "Atrial natriuretic factor opposes aldosterone and increases urine output.",
+    "Antidiuretic hormone increases urine output when body fluids are concentrated.",
+    "Antidiuretic hormone causes the kidneys to excrete extra sodium.",
+    "Atrial natriuretic factor increases blood volume by retaining sodium.",
+    "Aldosterone release lowers extracellular fluid volume."
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "optionRationales": [
+    "Correct. Aldosterone retains sodium and water, increasing blood volume and maintaining the ECF.",
+    "Correct. ANF promotes loss of sodium and water, increasing urine output.",
+    "ADH conserves water when body fluids are concentrated, producing less urine, not more.",
+    "ADH controls water only; it does not regulate sodium excretion.",
+    "That describes aldosterone. ANF does the opposite.",
+    "Aldosterone maintains and increases ECF volume by retaining sodium and water."
+   ],
+   "rationale": "The kidneys control most fluid output, and hormones guide them. Aldosterone keeps sodium and water (raising blood volume and maintaining ECF); ANF opposes aldosterone (losing sodium and water, increasing urine output); ADH controls water only and conserves it when fluids are concentrated, producing less urine.",
+   "takeaway": "Aldosterone keeps Na⁺ + water; ANF dumps them; ADH holds water only.",
+   "hintContent": "Recall the three hormones that affect output and whether each acts on sodium, water, or both.",
+   "hintStrategy": "Decide for each hormone whether it makes urine output go up or down, then check each statement against that."
+  },
+  {
+   "id": "m6q-027",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A construction worker spent the day working outdoors in the heat with little to drink. His serum osmolality is 304 mOsm/kg. Which set of findings shows his body is compensating as expected?",
+   "options": [
+    "He reports no thirst and is passing large amounts of urine with a specific gravity of 1.004",
+    "He reports strong thirst and is passing large amounts of urine with a specific gravity of 1.003",
+    "He reports no thirst and is passing small amounts of urine with a specific gravity of 1.010",
+    "He reports strong thirst and is passing small amounts of urine with a specific gravity of 1.028"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Both responses are the opposite of compensation: concentrated body fluid should trigger thirst and water conservation.",
+    "Thirst is appropriate, but large amounts of dilute urine mean water is not being conserved.",
+    "The kidneys may be conserving some water, but absent thirst means one major compensating mechanism is missing, and the urine is not concentrated.",
+    "Correct. Increased osmolality triggers thirst, and ADH conserves water so the kidneys produce less, more concentrated urine (specific gravity near the top of the 1.005–1.030 range)."
+   ],
+   "rationale": "A serum osmolality above 300 mOsm/kg means body fluids are concentrated. The body responds in two ways: thirst (triggered by increased osmolality and dry mouth) increases intake, and ADH tells the kidneys to conserve water, producing a small volume of concentrated urine with a higher specific gravity. Both should be present when compensation is working.",
+   "takeaway": "Concentrated blood → thirst plus ADH → less urine, higher specific gravity.",
+   "hintContent": "Connect the triggers for thirst and the action of ADH with what happens to urine volume and specific gravity.",
+   "hintStrategy": "Predict both responses — intake and output — before reading the options, then find the option where both match."
+  },
+  {
+   "id": "m6q-028",
+   "type": "sata",
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "stem": "A client has severe, ongoing vomiting and diarrhea, so fluid given through the gastrointestinal (GI) tract is poorly absorbed. Which routes could deliver fluid without depending on GI absorption? Select all that apply.",
+   "options": [
+    "Intravenous (IV) infusion",
+    "Subcutaneous infusion (hypodermoclysis)",
+    "Intraosseous infusion into the bone marrow",
+    "Nasogastric tube feeding",
+    "Rectal instillation",
+    "Small, frequent sips of an oral rehydration drink"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. IV fluids enter the bloodstream immediately and bypass the GI tract.",
+    "Correct. Fluid is absorbed from the subcutaneous tissue into the circulation without passing through the GI tract.",
+    "Correct. Fluid enters the bone marrow and from there the circulation, bypassing the GI tract.",
+    "NG fluids still enter the GI tract and depend on GI absorption.",
+    "The rectum is part of the GI tract, so this route still relies on GI absorption.",
+    "Oral intake depends entirely on GI absorption, which is impaired here."
+   ],
+   "rationale": "Oral intake is the most common route, but other intake routes include IV fluids, NG or feeding tubes, rectal or body-cavity instillation, subcutaneous infusion (hypodermoclysis), and intraosseous infusion. Absorption happens mainly in the GI tract; fluid that is not absorbed stays in the GI tract and leaves in the stool. When the GI tract is not absorbing, the nurse anticipates a route that bypasses it.",
+   "takeaway": "If the gut isn’t absorbing, think IV, subcutaneous, or intraosseous — routes that skip the GI tract.",
+   "hintContent": "Recall the routes of intake listed in the module and which of them depend on the GI tract.",
+   "hintStrategy": "Trace each route: does the fluid pass through any part of the GI tract before reaching the blood?"
+  },
+  {
+   "id": "m6q-029",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-risk-interventions",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "stem": "A client who takes a stimulant laxative several times a day says, “I can’t be dehydrated — I drink at least 2,500 mL every day.” The client’s weight has dropped 1.5 kg in 2 days. Which explanation by the nurse is accurate?",
+   "options": [
+    "“Fluid that rushes through your bowel isn’t absorbed, so it leaves in your stool.”",
+    "“Your weight loss is from fat, because laxatives reduce how many calories you absorb.”",
+    "“Laxatives make your kidneys excrete the water you drink before it reaches your cells.”",
+    "“Drinking 2,500 mL is below the normal daily need, so you simply need to drink more.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Absorption occurs mainly in the GI tract. Fluid that is not absorbed stays in the GI tract and is lost in the stool, so intake does not equal usable fluid.",
+    "A 1.5-kg loss in 2 days reflects fluid (1 kg ≈ 1 L), not fat.",
+    "Laxatives act on the bowel, not the kidneys; the loss is through stool.",
+    "Normal daily needs are about 2,400–2,700 mL, so 2,500 mL is adequate intake. The problem is absorption, not the amount consumed."
+   ],
+   "rationale": "Balance depends on intake and absorption, distribution, and output. Laxatives are listed among the medications that disturb fluid and electrolyte balance: rapid transit prevents the GI tract from absorbing fluid, which then leaves in the stool. The 1.5-kg drop in 2 days (≈ 1.5 L) confirms a fluid loss despite adequate intake.",
+   "takeaway": "Fluid only counts once it is absorbed — what rushes through the bowel leaves in the stool.",
+   "hintContent": "Connect GI absorption, laxatives as a medication risk factor, and the daily-weight rule 1 kg ≈ 1 L.",
+   "hintStrategy": "Use the weight change to decide what kind of loss this is, then find the explanation that matches the laxative’s effect."
+  },
+  {
+   "id": "m6q-030",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-body-fluids"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "The nurse is delegating care of an 86-year-old client with mild dementia who drinks very little unless prompted. Which instruction to the assistive personnel (AP) is most important?",
+   "options": [
+    "“Give the client something to drink whenever she tells you that she is feeling thirsty.”",
+    "“Offer a preferred drink every 1 to 2 hours while she is awake, and record how much she takes.”",
+    "“Hold fluids after supper so the client will be less likely to be incontinent overnight.”",
+    "“Record the percentage of each meal the client eats on the flow sheet at the end of your shift.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Waiting for thirst is unsafe: thirst sensation decreases with age, and this client rarely asks.",
+    "Correct. Older adults have a decreased thirst sensation, and this client also needs prompting. Scheduled offering plus measured intake prevents dehydration and gives the nurse data.",
+    "Restricting fluids in a client already at high risk for dehydration is unsafe and is not within the AP’s role to decide.",
+    "Food provides water, but meal percentages do not measure fluid intake or prevent the client’s main risk."
+   ],
+   "rationale": "Older adults are at higher risk for dehydration because of decreased thirst, lower muscle mass, and reduced renal reserve; dehydration may occur without feeling thirsty. A client who drinks only when prompted needs a scheduled plan, and recorded amounts let the nurse evaluate intake. Offering and recording fluids is within the AP’s scope; evaluating the totals remains the nurse’s responsibility.",
+   "takeaway": "For an older adult who won’t ask, schedule the fluids and measure them — don’t wait for thirst.",
+   "hintContent": "Connect older-adult risk factors for dehydration with what the AP can safely do and record.",
+   "hintStrategy": "Choose the instruction that prevents this client’s biggest risk and produces data the nurse can evaluate."
+  },
+  {
+   "id": "m6q-031",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-body-fluids"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A client who limits fluids to avoid frequent bathroom trips says, “If I don’t urinate much, I’m not losing water, so I don’t need to drink much.” Which response by the nurse is accurate?",
+   "options": [
+    "“Your kidneys can stop making urine entirely when you drink less, so you won’t lose any water.”",
+    "“Only the fluid you can see, like urine and stool, affects how hydrated your body is.”",
+    "“Your skin and lungs lose roughly 700 to 800 mL of water each day, even when you can’t see it.”",
+    "“The water in your food meets all of your daily needs, so drinking is optional for you.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "The body must produce at least 400–600 mL of urine a day to rid itself of wastes (obligatory loss).",
+    "Insensible losses cannot be measured but still affect hydration.",
+    "Correct. Insensible losses through the lungs (350–400 mL) and skin (350–400 mL) occur continuously, plus about 100 mL through the intestines.",
+    "Food supplies about 1,000 mL of the 2,400–2,700 mL needed daily; oral fluids normally supply 1,200–1,500 mL."
+   ],
+   "rationale": "Daily output is about 2,300–2,600 mL: urine 1,400–1,500, lungs 350–400, skin 350–400, intestines about 100. Some loss happens continuously even when it cannot be seen (insensible loss), and at least 400–600 mL of urine is obligatory. Intake must match output, so limiting fluids does not stop losses — it creates a deficit.",
+   "takeaway": "Water leaves every day through skin, lungs, and obligatory urine — intake has to keep up.",
+   "hintContent": "Recall the daily output by site, the obligatory urine loss, and the sources of daily intake.",
+   "hintStrategy": "Test each statement against the daily intake and output numbers in the module."
+  },
+  {
+   "id": "m6q-032",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse reviews 4-hour output totals for four clients. Which client requires the nurse’s attention first?",
+   "options": [
+    "A 70-kg client with 160 mL of urine and no other measured output",
+    "A 90-kg client with 200 mL of urine and one soft, formed stool",
+    "A 60-kg client with 30 mL of serous wound drainage and 140 mL of clear yellow urine",
+    "A 50-kg client with 600 mL of nasogastric drainage and 80 mL of urine"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Minimum is 0.5 × 70 × 4 = 140 mL; 160 mL meets it.",
+    "Minimum is 0.5 × 90 × 4 = 180 mL; 200 mL meets it, and one formed stool is a normal output.",
+    "Minimum is 0.5 × 60 × 4 = 120 mL; 140 mL meets it, and the wound drainage is small.",
+    "Correct. Minimum urine output is 0.5 × 50 × 4 = 100 mL in 4 hours; 80 mL is below it, while a large abnormal loss continues through the NG tube."
+   ],
+   "rationale": "Applying 0.5 mL/kg/hr to each client turns raw numbers into meaning: only the 50-kg client falls short. That client also has a large abnormal loss (NG drainage), which can quickly upset balance. Urine output below the weight-based minimum while abnormal losses continue is the most concerning pattern.",
+   "takeaway": "Convert every urine total to mL/kg/hr — then look for low output plus ongoing abnormal loss.",
+   "hintContent": "Apply the urine output formula over 4 hours and recall the abnormal routes of fluid loss.",
+   "hintStrategy": "Calculate each client’s 4-hour minimum first; only then compare the other losses."
+  },
+  {
+   "id": "m6q-033",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-intake-output",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Intake, Absorption, Output & Hormonal Control",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "An AP reports that a client with heart failure weighs 1.8 kg more than yesterday. The AP weighed the client after breakfast, in a robe and shoes, on a different scale from the one used yesterday. The client denies new symptoms. Which action should the nurse take first?",
+   "options": [
+    "Have the client reweighed on yesterday’s scale in similar clothing",
+    "Report a 1.8-L fluid gain to the health care provider and request a diuretic order",
+    "Restrict the client’s fluid intake for the rest of the day until the weight comes down",
+    "Record the new weight in the chart and compare it with tomorrow morning’s weight"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Daily weights are only meaningful under the same conditions — same scale, same time, similar clothing. The nurse first obtains accurate data before acting on it.",
+    "A true 1.8-kg gain would equal about 1.8 L of fluid, but this weight was taken under different conditions; reporting unverified data is premature.",
+    "Fluid restriction requires a provider order and should not be based on a weight that may be inaccurate.",
+    "Charting an inaccurate weight and waiting a day could miss a real gain in a client with heart failure."
+   ],
+   "rationale": "Daily weights are one of the best measures of fluid balance (1 kg ≈ 1 L), but only when taken the same way each time: same scale, same time of day (usually in the morning before breakfast, after voiding), and similar clothing. A weight taken after a meal, in different clothing, on a different scale cannot be compared with yesterday’s. Verifying the data comes before reporting or intervening.",
+   "takeaway": "Same scale, same time, same clothing — otherwise the weight change isn’t real data yet.",
+   "hintContent": "Recall the conditions for accurate daily weights and the conversion 1 kg ≈ 1 L.",
+   "hintStrategy": "Ask whether the data are reliable before choosing an action based on them."
+  },
+  {
+   "id": "m6q-034",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A client in shock is prescribed 5% albumin. The client’s spouse asks what this fluid does. Which statements by the nurse are accurate? Select all that apply.",
+   "options": [
+    "“It contains a large protein that tends to stay inside the blood vessels.”",
+    "“It acts like a magnet, pulling fluid from the tissues into the bloodstream.”",
+    "“It is the same kind of fluid as normal saline, just in a smaller bag.”",
+    "“We will watch closely for any sign of an allergic reaction while it runs.”",
+    "“Because it stays in the vessels, there is no risk of giving too much fluid.”",
+    "“It is given mainly to provide calories and energy while your spouse can’t eat.”"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Albumin is a colloid — a large plasma protein that stays in the vascular space.",
+    "Correct. Albumin creates oncotic pressure that pulls fluid into the vascular space, supporting blood volume.",
+    "Normal saline is a crystalloid with small particles that move between compartments; albumin is a colloid.",
+    "Correct. The module lists a risk of anaphylaxis for colloid solutions (emphasized with the artificial colloid dextran 40), so the nurse watches for any allergic reaction during a colloid infusion.",
+    "Pulling fluid into the vessels increases blood volume, so fluid overload remains a concern.",
+    "Dextrose solutions provide energy support. Albumin is given to expand blood volume."
+   ],
+   "rationale": "Colloids contain large molecules that stay in the blood vessels and pull fluid into the vascular space. Albumin (5% or 25%) is used in shock and burns and reduces third spacing. The nursing consideration listed for colloids is the risk of anaphylaxis — emphasized with the artificial colloid dextran 40 — so the nurse watches for an allergic reaction during any colloid infusion. Because albumin raises intravascular volume, the nurse also watches for fluid overload.",
+   "takeaway": "Albumin stays in the vessels and pulls fluid in — watch the volume, and watch for a reaction as with any colloid.",
+   "hintContent": "Compare colloids with crystalloids and recall the nursing consideration listed for colloids.",
+   "hintStrategy": "Judge each statement by asking where albumin stays, what it pulls, and what can go wrong."
+  },
+  {
+   "id": "m6q-035",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "stem": "The nurse is preparing to give an isotonic crystalloid. Which statements about 0.9% sodium chloride (normal saline) and lactated Ringer’s (LR) solution are accurate? Select all that apply.",
+   "options": [
+    "Both have a concentration similar to blood, so no major fluid shift occurs.",
+    "Both increase vascular and extracellular fluid volume.",
+    "LR contains potassium and calcium in addition to sodium.",
+    "LR contains lactate, which converts to bicarbonate and helps correct metabolic acidosis.",
+    "Both pull fluid from the interstitial space into the vessels, as albumin does.",
+    "Normal saline provides dextrose for energy along with sodium."
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Isotonic fluids have a concentration similar to blood and cause no major shift between compartments.",
+    "Correct. Isotonic crystalloids expand vascular and ECF volume and support circulation.",
+    "Correct. LR is a balanced electrolyte solution containing sodium, potassium, calcium, and lactate.",
+    "Correct. The lactate converts to bicarbonate, a buffer, which helps correct metabolic acidosis.",
+    "That is how colloids work. Crystalloids have small particles that move easily between compartments.",
+    "Normal saline contains sodium chloride and water only; dextrose solutions such as D5W provide energy."
+   ],
+   "rationale": "Normal saline and LR are isotonic crystalloids: similar in concentration to blood, they cause no major fluid shift, increase vascular and ECF volume, replace sodium, and support circulation. LR also contains potassium, calcium, and lactate, which converts to bicarbonate to help correct metabolic acidosis. Nursing considerations include the risk of fluid overload (especially in older adults) and dilution of the hematocrit.",
+   "takeaway": "NS and LR are isotonic volume expanders; LR adds K⁺, Ca²⁺, and lactate → bicarbonate.",
+   "hintContent": "Recall what isotonic crystalloids do and what is in lactated Ringer’s.",
+   "hintStrategy": "Separate crystalloid properties from colloid and dextrose properties, then check each statement."
+  },
+  {
+   "id": "m6q-036",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client with severe vomiting received 2 L of 0.9% sodium chloride. Afterward, blood pressure improved from 92/58 to 112/70 mm Hg and urine output rose to 50 mL/hr. The hematocrit fell from 46% to 41%. There are no signs of bleeding. How should the nurse interpret the hematocrit change?",
+   "options": [
+    "The client is likely bleeding internally and will need a blood transfusion right away",
+    "Extra plasma volume has diluted the red cells, an expected effect of isotonic fluid",
+    "The saline has shifted into the red blood cells, causing them to swell and break apart",
+    "The fall shows the client is now dehydrated, because hematocrit drops as fluid is lost"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Nothing suggests bleeding: vital signs and urine output are improving. The drop is explained by dilution.",
+    "Correct. Hematocrit is the percentage of blood made up of red cells. Adding plasma volume dilutes them, so the percentage falls even though no cells were lost — consistent with the improving vital signs and urine output.",
+    "Isotonic fluids cause no major fluid shift into cells.",
+    "Fluid loss concentrates the blood and raises hematocrit; the high starting value (46%) likely reflected the vomiting-related deficit."
+   ],
+   "rationale": "A nursing consideration for isotonic solutions is that they may dilute the hematocrit. Dehydration concentrates the blood (hematocrit rises), and volume replacement dilutes it (hematocrit falls). Reading the hematocrit together with the vital signs, urine output, and absence of bleeding shows this change is an expected effect of therapy, which the nurse continues to monitor.",
+   "takeaway": "After isotonic fluids, a modest hematocrit drop with improving vitals = dilution, not blood loss.",
+   "hintContent": "Connect what hematocrit measures with how dehydration and isotonic volume replacement change it.",
+   "hintStrategy": "Interpret the lab together with the other cues in the stem rather than in isolation."
+  },
+  {
+   "id": "m6q-037",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "stem": "A nursing student asks why a client who received 1 L of lactated Ringer’s does not keep the entire liter inside the blood vessels. Which explanation by the nurse is accurate?",
+   "options": [
+    "“Crystalloids contain large protein molecules that draw the water out of the blood vessels.”",
+    "“Much of the liter is absorbed by the stomach and GI tract before it ever reaches the bloodstream.”",
+    "“Crystalloids have small particles that move easily from the vessels into other compartments.”",
+    "“The lactate in the bag is converted to glucose, and that process uses up most of the water.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Large protein molecules describe colloids, and they pull water into the vessels, not out.",
+    "IV fluids enter the bloodstream immediately; they do not pass through the GI tract.",
+    "Correct. Crystalloid particles are small and move easily between compartments, so part of the volume shifts into the interstitial space.",
+    "Lactate converts to bicarbonate, not glucose, and this does not consume the infused water."
+   ],
+   "rationale": "IV solutions fall into two groups. Crystalloids have small particles, move easily between compartments, and are the most commonly used fluids; only part of the infused volume stays in the vessels. Colloids contain large protein molecules that stay in the vascular space and pull fluid into the bloodstream.",
+   "takeaway": "Crystalloids spread out between compartments; colloids stay in the vessels.",
+   "hintContent": "Compare the particle size and behavior of crystalloids and colloids.",
+   "hintStrategy": "Identify which category LR belongs to, then match it with how that category behaves."
+  },
+  {
+   "id": "m6q-038",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "stem": "A client with extensive burns has been receiving isotonic crystalloid fluids. Two days later the serum albumin is 2.0 g/dL and the client has generalized edema, and the provider adds 25% albumin. The client’s partner asks how the albumin will help. Which explanation by the nurse is accurate?",
+   "options": [
+    "“Albumin provides calories and protein energy so that the burned skin can heal more quickly.”",
+    "“Albumin has small particles that move into the tissues and help flush the extra fluid out.”",
+    "“Albumin replaces the sodium lost through the burned skin, and then water follows the sodium.”",
+    "“Albumin stays in your blood vessels and pulls fluid from swollen tissues back into them.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Providing energy is the role of dextrose solutions. IV albumin is given to pull fluid into the vascular space, not as nutrition.",
+    "Small particles that move easily between compartments describe crystalloids. Albumin’s large molecules stay inside the vessels.",
+    "Water does follow sodium, but albumin is a protein, not a sodium solution; it works through oncotic pressure.",
+    "Correct. Albumin is a colloid — a large plasma protein that stays in the vascular space and creates oncotic pressure, pulling fluid from the tissues into the bloodstream and reducing third spacing."
+   ],
+   "rationale": "Isotonic crystalloids are the usual first fluids in burns. When albumin is low and fluid is leaking into the tissues, the provider may add a colloid. Albumin acts like a magnet for water: its large molecules stay in the blood vessels, create oncotic pressure, pull fluid into the vascular space, and reduce third spacing — which is why colloids are used in shock and burns. During the infusion the nurse monitors blood pressure, urine output, and edema, and watches for fluid overload.",
+   "takeaway": "Albumin works by staying in the vessels and pulling fluid back in from the tissues — that is how it reduces third spacing.",
+   "hintContent": "Connect the effects of low albumin with how colloids differ from crystalloids and dextrose solutions.",
+   "hintStrategy": "Ask what albumin’s molecule size means for where it stays and which way it pulls water, then eliminate options that describe other solutions."
+  },
+  {
+   "id": "m6q-039",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-body-fluids",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
+   "stem": "A 79-year-old client with dehydration from vomiting is receiving 0.9% sodium chloride at 150 mL/hr. Which assessment is most important for the nurse to monitor during the infusion?",
+   "options": [
+    "Breath sounds, respiratory effort, and intake and output for signs of fluid overload",
+    "Skin and breathing for hives or wheezing that would signal an anaphylactic reaction",
+    "Blood glucose every 4 hours to detect hyperglycemia caused by the dextrose in the fluid",
+    "Daily albumin levels to confirm that the fluid is being held in the vascular space"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Isotonic fluids expand vascular volume, and the major nursing consideration — especially in older adults with reduced renal reserve — is fluid overload.",
+    "The risk of anaphylaxis is the nursing consideration listed for colloids (emphasized with the artificial colloid dextran 40), not for normal saline.",
+    "Normal saline contains no dextrose.",
+    "Normal saline is a crystalloid; albumin levels are not used to monitor it."
+   ],
+   "rationale": "Isotonic crystalloids increase vascular and ECF volume. Older adults have reduced renal reserve and cannot excrete extra fluid as easily, so the most important nursing consideration is monitoring for fluid overload with ongoing assessment of breathing, lung sounds, and intake and output. Each distractor applies a concern that belongs to a different solution.",
+   "takeaway": "Isotonic fluid in an older adult: watch the lungs and the I&O for overload.",
+   "hintContent": "Recall the nursing considerations for isotonic crystalloids and why older adults are at higher risk.",
+   "hintStrategy": "Match the monitoring to the solution actually being given — eliminate concerns that belong to colloids or dextrose."
+  },
+  {
+   "id": "m6q-040",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "stem": "A client who is NPO after surgery is receiving D5½NS (5% dextrose in 0.45% sodium chloride). Which statements about this solution are accurate? Select all that apply.",
+   "options": [
+    "It provides water for hydration.",
+    "Its dextrose provides some energy support.",
+    "It is a colloid that stays inside the blood vessels.",
+    "It contains lactate that converts to bicarbonate.",
+    "It is the solution of choice to pull fluid out of edematous tissues.",
+    "It carries a high risk of anaphylaxis, like dextran 40."
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "optionRationales": [
+    "Correct. Dextrose solutions are used for hydration.",
+    "Correct. Dextrose solutions such as D5W and D5½NS are used for hydration and energy support.",
+    "D5½NS has no large protein molecules; it is not a colloid.",
+    "Lactate is a component of lactated Ringer’s, not D5½NS.",
+    "Pulling fluid from the tissues into the vessels is the role of colloids such as albumin.",
+    "The risk of anaphylaxis is the nursing consideration listed for colloids, including dextran 40."
+   ],
+   "rationale": "Dextrose solutions (D5W, D5½NS) are used for hydration and energy support, which suits a client who cannot eat. Lactate belongs to LR; pulling fluid from tissues and the risk of anaphylaxis belong to colloids, especially the artificial colloid dextran 40.",
+   "takeaway": "Dextrose solutions = hydration plus a little energy.",
+   "hintContent": "Recall the purpose of dextrose solutions and how they differ from LR and colloids.",
+   "hintStrategy": "Assign each property to the solution it really belongs to — dextrose, LR, or colloid."
+  },
+  {
+   "id": "m6q-041",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse is caring for four clients receiving IV therapy. Which client should the nurse assess first?",
+   "options": [
+    "A client receiving 25% albumin for ascites whose blood pressure rose from 88/50 to 104/62 mm Hg",
+    "A client on dextran 40 who reports itching and a hoarse voice 10 minutes into the infusion",
+    "A client receiving 0.9% sodium chloride whose hematocrit fell from 44% to 40% after 1 L",
+    "A client receiving D5W while NPO who asks the nurse when breakfast will be served"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "A rising blood pressure is the intended effect of albumin pulling fluid into the vessels.",
+    "Correct. Artificial colloids such as dextran 40 carry a risk of anaphylaxis. Itching with a new hoarse voice suggests a reaction that may involve the airway — an immediate threat.",
+    "A modest hematocrit drop is an expected dilutional effect of isotonic fluid.",
+    "This is a comfort and teaching need, not a safety threat."
+   ],
+   "rationale": "The nursing consideration listed for colloids — especially the artificial colloid dextran 40 — is the risk of anaphylaxis. Itching and a hoarse voice soon after starting dextran 40 suggest a developing reaction that can involve the airway, so this client is seen first. The other findings are expected effects of therapy (rising blood pressure with albumin, dilution of hematocrit with normal saline) or a routine need.",
+   "takeaway": "New itching or hoarseness on a colloid infusion = possible anaphylaxis — go first.",
+   "hintContent": "Recall the major nursing consideration for colloids and the expected effects of albumin and isotonic fluids.",
+   "hintStrategy": "Sort the findings into expected effects of therapy versus a new, potentially life-threatening change."
+  },
+  {
+   "id": "m6q-042",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-electrolytes",
+    "fe-assessment-diagnostics",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client with 3 days of vomiting received a 2-L bolus of 0.9% sodium chloride. The client weighs 80 kg. Which post-infusion finding requires the nurse’s immediate follow-up?",
+   "options": [
+    "Hematocrit 40%, down from 44% before the bolus",
+    "Urine output 45 mL/hr for the past 2 hours",
+    "Serum potassium 3.1 mEq/L",
+    "Serum osmolality 288 mOsm/kg"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "A modest hematocrit drop is an expected dilutional effect of isotonic fluid.",
+    "Minimum for 80 kg is 0.5 × 80 = 40 mL/hr; 45 mL/hr is adequate.",
+    "Correct. Normal potassium is 3.5–5.0 mEq/L; 3.1 is hypokalemia. Vomiting loses fluid and electrolytes, and normal saline contains no potassium to replace it.",
+    "Normal serum osmolality is 280–300 mOsm/kg."
+   ],
+   "rationale": "Vomiting is a risk factor for fluid and electrolyte loss, and normal saline replaces sodium and volume but not potassium. Comparing each value with its normal range shows that only potassium is abnormal (below 3.5 mEq/L = hypokalemia) and needs to be reported. The hematocrit change is expected with isotonic fluid, and output and osmolality are within normal limits.",
+   "takeaway": "Fluids fixed the volume, not the potassium — check every lab against its normal range.",
+   "hintContent": "Recall the normal ranges for potassium, serum osmolality, and urine output, and what normal saline does and does not contain.",
+   "hintStrategy": "Classify each finding as expected, normal, or abnormal; the abnormal one is the answer."
+  },
+  {
+   "id": "m6q-043",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-risk-interventions",
+    "fe-body-fluids"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse is caring for clients who are receiving isotonic IV fluids. Which clients are at greatest risk for fluid overload from this therapy? Select all that apply.",
+   "options": [
+    "An 84-year-old admitted with pneumonia",
+    "A 66-year-old with heart failure",
+    "A 59-year-old with chronic kidney disease",
+    "A 24-year-old with 2 days of vomiting and diarrhea",
+    "A 31-year-old who lost blood in a motor vehicle crash"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Older adults have reduced renal reserve (fewer functioning nephrons) and are specifically named as at risk for fluid overload with isotonic fluids.",
+    "Correct. Heart failure is a chronic condition that limits the body’s ability to handle extra volume.",
+    "Correct. The kidneys control most fluid output; kidney disease limits excretion of extra fluid.",
+    "This client has a fluid deficit and healthy kidneys; isotonic fluid is replacing losses.",
+    "This client’s vascular volume is depleted; isotonic fluid supports circulation."
+   ],
+   "rationale": "Isotonic fluids increase vascular and ECF volume, and their main nursing consideration is the risk of fluid overload, especially in older adults. Clients whose hearts or kidneys cannot handle or excrete extra volume — older adults, heart failure, kidney disease — are at greatest risk. Young clients replacing a real deficit are not.",
+   "takeaway": "Overload risk = a heart or kidneys that can’t keep up: older adults, heart failure, kidney disease.",
+   "hintContent": "Connect the nursing considerations for isotonic fluids with chronic conditions and age-related changes in the kidneys.",
+   "hintStrategy": "For each client, ask whether the body can excrete extra fluid or is actually short of fluid."
+  },
+  {
+   "id": "m6q-044",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Prioritization",
+   "stem": "The nurse reviews IV fluid prescriptions for four clients. Which prescription should the nurse clarify with the health care provider before implementing it?",
+   "options": [
+    "Lactated Ringer’s at 125 mL/hr for a 40-year-old after surgery whose intake and output are balanced",
+    "25% albumin for a client with burns, a serum albumin of 2.0 g/dL, and generalized edema",
+    "D5½NS at 100 mL/hr for a client who is NPO after surgery and has a stable daily weight",
+    "0.9% sodium chloride at 200 mL/hr for an 86-year-old with heart failure who gained 2 kg overnight"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "A routine isotonic infusion for a client with balanced I&O and no added risk factors is appropriate.",
+    "Albumin is used in burns to pull fluid into the vascular space and reduce third spacing — appropriate here.",
+    "A dextrose solution provides hydration and energy support for an NPO client with stable weight.",
+    "Correct. A 2-kg gain overnight equals about 2 L of retained fluid. Infusing isotonic fluid rapidly in an older adult with heart failure risks fluid overload."
+   ],
+   "rationale": "Isotonic fluids expand vascular volume, and the risk of fluid overload is highest in older adults and those with heart failure. Using 1 kg ≈ 1 L, this client already retained about 2 L overnight, so a rapid isotonic infusion needs clarification before it is started. The other prescriptions match each client’s needs.",
+   "takeaway": "Older adult + heart failure + overnight weight gain + fast isotonic rate = clarify first.",
+   "hintContent": "Connect overload risk factors, the daily-weight rule 1 kg ≈ 1 L, and the purpose of each IV solution.",
+   "hintStrategy": "For each order, ask whether the solution and rate match this client’s current fluid status."
+  },
+  {
+   "id": "m6q-045",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-fluid-movement",
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pharmacology",
+   "stem": "A client with low serum albumin, generalized edema, and hypotension receives 25% albumin. Which findings indicate the therapy is having the intended effect? Select all that apply.",
+   "options": [
+    "Blood pressure rises from 86/52 to 104/64 mm Hg",
+    "Urine output increases from 20 mL/hr to 45 mL/hr",
+    "Edema in the lower legs decreases from 3+ to 1+",
+    "Weight increases by 1 kg during the infusion",
+    "Heart rate increases from 96/min to 118/min",
+    "Hematocrit rises from 38% to 44%"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Pulling fluid into the vascular space increases blood volume and blood pressure.",
+    "Correct. Better blood volume improves kidney perfusion, so the kidneys produce more urine.",
+    "Correct. Albumin draws fluid out of the tissues back into the vessels, reducing third spacing.",
+    "Albumin moves fluid that is already in the body from the tissues into the vessels; a rising weight suggests added fluid, not improvement.",
+    "A rising heart rate suggests worsening circulation or another problem, not an improved blood volume.",
+    "Drawing fluid into the vessels dilutes the blood, so hematocrit would be expected to fall, not rise."
+   ],
+   "rationale": "Albumin acts like a magnet for water, pulling fluid from the tissues into the vascular space. When it works, blood volume and blood pressure rise, kidney perfusion and urine output improve, and edema decreases. Rising weight, faster heart rate, or a higher hematocrit do not match fluid moving into the vessels.",
+   "takeaway": "Albumin working = BP up, urine up, edema down.",
+   "hintContent": "Connect albumin’s oncotic pull with what should happen to blood pressure, kidney perfusion, edema, and hematocrit.",
+   "hintStrategy": "Predict each parameter’s direction if fluid moves from the tissues into the vessels, then compare."
+  }
+ ]
+}

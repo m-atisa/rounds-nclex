@@ -1,0 +1,1603 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m6",
+ "moduleNumber": 6,
+ "moduleTitle": "Fluids & Electrolytes",
+ "topics": [],
+ "flashcards": [],
+ "questions": [
+  {
+   "id": "m6r-001",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse reviews a client's morning chemistry panel and documents each result with the correct term. Which value–term pairings are accurate? Select all that apply.",
+   "options": [
+    "Sodium 133 mEq/L: hyponatremia",
+    "Potassium 5.3 mEq/L: hypokalemia",
+    "Total calcium 8.4 mg/dL: hypocalcemia",
+    "Magnesium 2.1 mEq/L: hypomagnesemia",
+    "Chloride 109 mEq/L: hyperchloremia",
+    "Phosphate 2.8 mg/dL: hyperphosphatemia"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Normal sodium is 135–145 mEq/L. 133 is below 135, which is hyponatremia (\"hypo\" = low, \"natr\" = sodium).",
+    "Normal potassium is 3.5–5.0 mEq/L. 5.3 is above 5.0, so the correct term is hyperkalemia, not hypokalemia.",
+    "Correct. Normal total calcium is 9–11 mg/dL. 8.4 is below 9, which is hypocalcemia.",
+    "Normal magnesium is 1.5–2.5 mEq/L. 2.1 is within normal limits, so no imbalance term applies.",
+    "Correct. Normal chloride is 95–105 mEq/L. 109 is above 105, which is hyperchloremia.",
+    "Normal phosphate is 2.5–4.5 mg/dL. 2.8 is within normal limits, so it is not hyperphosphatemia."
+   ],
+   "rationale": "Each imbalance term is built the same way: hypo- (below normal) or hyper- (above normal), plus the root for the electrolyte (natremia = sodium, kalemia = potassium, calcemia = calcium, magnesemia = magnesium, chloremia = chloride, phosphatemia = phosphate), plus -emia (in the blood). To label a result, compare it with the normal range first, then attach the prefix. Two of these values are normal, and one has the right electrolyte but the wrong direction.",
+   "takeaway": "Compare with the normal range first, then add the prefix: hypo = below, hyper = above.",
+   "hintContent": "Recall the normal ranges for Na⁺ (135–145), K⁺ (3.5–5.0), Ca²⁺ (9–11), Mg²⁺ (1.5–2.5), Cl⁻ (95–105), and phosphate (2.5–4.5), and how hypo-/hyper- terms are built.",
+   "hintStrategy": "For each pairing, decide whether the value is low, normal, or high, then check whether the term says the same thing."
+  },
+  {
+   "id": "m6r-002",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-iv-solutions",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "A client has been NPO for 4 days after bowel surgery and is receiving D5 ½ NS at 100 mL/hr with no additives. Serum potassium has trended 4.2 → 3.8 → 3.4 mEq/L over 3 days. Sodium is 138 mEq/L. Which action should the nurse take first?",
+   "options": [
+    "Encourage the client to choose potassium-rich foods such as bananas and potatoes",
+    "Recheck the potassium with tomorrow's routine labs before deciding what to do",
+    "Increase the IV rate so that more electrolytes are delivered to the bloodstream",
+    "Report the downward potassium trend and the lack of potassium intake to the HCP"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "The client is NPO, so food cannot be the source right now. Diet teaching is useful later, once eating resumes.",
+    "Waiting another day lets a falling level drop further. The cause, no potassium intake, is already clear and will not fix itself.",
+    "D5 ½ NS contains dextrose, sodium, and chloride but no potassium, so running it faster adds none. Changing the rate also needs an HCP order.",
+    "Correct. The body does not store potassium, so it must be taken in every day. This client has had none for 4 days, the level is now below 3.5 (hypokalemia), and it is still falling. The HCP needs this trend so potassium can be added to the plan."
+   ],
+   "rationale": "Potassium is the main intracellular electrolyte and is needed for normal heart rhythm, nerve conduction, and muscle contraction. Unlike some nutrients, the body does not store it, so intake must continue every day. An NPO client on a fluid without added potassium has no source, which explains the steady decline. The nurse connects the trend, the IV fluid composition, and the NPO status, then reports to the HCP. Food is not an option and a faster rate of a potassium-free fluid will not help.",
+   "takeaway": "No potassium in, steady potassium losses out: the body does not store K⁺, so an NPO client needs it replaced.",
+   "hintContent": "Think about whether the body stores potassium, what is in D5 ½ NS, and what NPO status means for intake.",
+   "hintStrategy": "Identify why the level is falling, then pick the action that gets that cause addressed. Rule out options the client cannot do or that do not change the cause."
+  },
+  {
+   "id": "m6r-003",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-body-fluids"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "stem": "The nurse explains to a student that a routine blood test reflects extracellular fluid and cannot directly measure what is inside the cells. Which electrolytes are found mainly in the intracellular fluid? Select all that apply.",
+   "options": [
+    "Potassium",
+    "Sodium",
+    "Magnesium",
+    "Chloride",
+    "Phosphate"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Potassium is the main electrolyte inside the cells.",
+    "Sodium is the main electrolyte in extracellular fluid, where it controls water balance.",
+    "Correct. Magnesium is found mainly inside the cells, where it helps run enzyme reactions and the sodium/potassium pump.",
+    "Chloride is an extracellular electrolyte that follows sodium.",
+    "Correct. Phosphate is found mainly inside the cells, where it is used to make ATP."
+   ],
+   "rationale": "Intracellular fluid is rich in potassium, magnesium, and phosphate. Extracellular fluid is rich in sodium and chloride. Bicarbonate is found in both. Because a blood sample reflects only extracellular fluid (plasma and interstitial fluid), a serum potassium, magnesium, or phosphate shows only the small amount outside the cells. The large store inside the cells cannot be measured directly.",
+   "takeaway": "Inside the cell: K⁺, Mg²⁺, phosphate. Outside: Na⁺ and Cl⁻. Labs only show the outside.",
+   "hintContent": "Recall which electrolytes are concentrated inside cells and which dominate the fluid outside them.",
+   "hintStrategy": "Sort each electrolyte into \"inside\" or \"outside\" before selecting. Sodium and chloride travel together."
+  },
+  {
+   "id": "m6r-004",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-iv-solutions",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client began chemotherapy for leukemia 2 days ago. The client's diet has not changed, no electrolyte supplements are ordered, and the only IV fluid is 0.9% sodium chloride. Today's results: potassium 5.6 mEq/L, phosphate 5.1 mg/dL, sodium 139 mEq/L. Which explanation best accounts for these results?",
+   "options": [
+    "Cells damaged by the treatment are releasing electrolytes into the blood",
+    "The normal saline infusion is supplying extra potassium and phosphate",
+    "Sodium kept by the kidneys is pulling potassium and phosphate into the plasma",
+    "The client is absorbing more potassium and phosphate from the usual diet"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Potassium and phosphate are mainly intracellular. When chemotherapy destroys cells, their contents spill into the bloodstream, so serum levels rise even though intake has not changed.",
+    "0.9% sodium chloride contains only sodium and chloride. It adds no potassium or phosphate.",
+    "Water follows sodium, but sodium does not drag potassium and phosphate into the blood. The sodium level is also normal.",
+    "The diet has not changed, so a sudden rise from food is unlikely."
+   ],
+   "rationale": "Potassium and phosphate are stored mainly inside cells. Cell injury or death from chemotherapy, trauma, or extreme illness releases them into the blood, so serum levels rise (hyperkalemia and hyperphosphatemia) because cells are breaking down, not because intake went up. The nurse rules out the other sources: normal saline contains no potassium or phosphate, and the diet is unchanged. Cancer and its treatment are listed risk factors for electrolyte disturbance.",
+   "takeaway": "Cell breakdown spills intracellular K⁺ and phosphate into the blood, so labs can rise with no change in intake.",
+   "hintContent": "Connect where potassium and phosphate are normally located with what chemotherapy does to cells. Recall what normal saline contains.",
+   "hintStrategy": "Eliminate each source of intake the stem has already ruled out, then ask what else could move these electrolytes into the blood."
+  },
+  {
+   "id": "m6r-005",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "stem": "A client newly prescribed furosemide asks, \"Can I just eat a few bananas on the weekend instead of every day?\" Which response by the nurse is accurate?",
+   "options": [
+    "Potassium stays mostly in your bloodstream, so one large weekly amount is enough.",
+    "Your body doesn't store potassium, so you need some in your diet every day.",
+    "Bananas are the best source, so the amount matters more than the timing.",
+    "Furosemide helps you hold on to potassium, so weekend servings will be enough."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Most potassium is inside the cells, not in the bloodstream, and the body does not store extra for later.",
+    "Correct. Potassium is not stored by the body and must be taken in daily. Furosemide also increases potassium loss, so steady daily intake matters even more.",
+    "Potatoes, leafy greens, beans, and avocados are also good sources. Timing matters because potassium is not stored.",
+    "Furosemide causes potassium loss. Spironolactone is the diuretic that spares potassium."
+   ],
+   "rationale": "Two facts answer this question. The body does not store potassium, so it needs a daily supply. Furosemide makes the kidneys lose potassium, which raises the daily need. A weekend-only plan leaves days with ongoing loss and no replacement. Teaching should include a variety of potassium-rich foods (bananas, potatoes, leafy greens, beans, avocados) eaten daily.",
+   "takeaway": "K⁺ is not stored, so it must be eaten every day, especially with a potassium-wasting diuretic like furosemide.",
+   "hintContent": "Recall whether the body stores potassium, where most of it is located, and what furosemide does to potassium.",
+   "hintStrategy": "Check each statement against those three facts. Any statement that gets one wrong is out."
+  },
+  {
+   "id": "m6r-006",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "A client taking hydrochlorothiazide has been taught to include potassium-rich foods. Which menu choices indicate that the client understood the teaching? Select all that apply.",
+   "options": [
+    "Baked potato with the skin",
+    "Canned chicken noodle soup",
+    "Black bean and avocado salad",
+    "White rice with butter",
+    "Sautéed spinach",
+    "Sliced banana on cereal"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Potatoes are a rich source of potassium.",
+    "Canned soups are a major source of sodium, not a potassium choice.",
+    "Correct. Beans and avocados are both potassium-rich foods.",
+    "White rice and butter are not significant potassium sources.",
+    "Correct. Leafy greens such as spinach are potassium-rich.",
+    "Correct. Bananas are a well-known potassium source."
+   ],
+   "rationale": "Hydrochlorothiazide, like furosemide, causes the kidneys to lose potassium. Because potassium is not stored, the client needs daily sources: bananas, potatoes, leafy greens, beans, and avocados. Canned soups and processed foods are sodium sources, which this client may also need to limit. White rice and butter add little potassium.",
+   "takeaway": "Potassium foods: bananas, potatoes, leafy greens, beans, avocados. Canned and processed foods mean sodium.",
+   "hintContent": "Recall the dietary sources of potassium and the dietary sources of sodium from the slides.",
+   "hintStrategy": "Sort each food into \"potassium source,\" \"sodium source,\" or \"neither,\" and select only the potassium sources."
+  },
+  {
+   "id": "m6r-007",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "An 84-year-old client is admitted after several hot days at home drinking very little. Serum sodium is 149 mEq/L and serum osmolality is 306 mOsm/kg. The client's daughter asks, \"How can her sodium be high when she's barely eaten?\" Which response by the nurse is accurate?",
+   "options": [
+    "Older adults absorb extra sodium from the small amount of food they eat, raising the level.",
+    "When she becomes thirsty, her body makes additional sodium to help it hold on to water.",
+    "Sodium is a concentration, so losing water without replacing it raises the level.",
+    "Her kidneys release sodium stored in her bones whenever she sweats in hot weather."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Aging does not increase sodium absorption, and she has eaten very little.",
+    "The body does not make sodium. It comes from the diet. Thirst drives water intake, not sodium production.",
+    "Correct. A sodium level depends on how much water is in the body as well as intake. With hot weather and poor intake, water is lost and not replaced, so the same sodium is dissolved in less water and the level rises (hypernatremia). The high osmolality confirms concentrated body fluids.",
+    "Sodium is not stored in and released from bone in response to sweating."
+   ],
+   "rationale": "A serum sodium is a concentration: the amount of sodium compared with the amount of water. It can rise because sodium was added or because water was lost. This client lost water through heat and sweating, took in very little, and as an older adult may have had a weak thirst signal. Both the sodium (above 145) and the serum osmolality (above 300) point to concentrated extracellular fluid.",
+   "takeaway": "Your Na⁺ level depends on your water: lose water and the sodium concentration goes up.",
+   "hintContent": "Recall what a serum sodium value represents, what normal serum osmolality is, and why older adults dehydrate easily.",
+   "hintStrategy": "Ask whether sodium went up or water went down. Then reject any option that describes something the body cannot do."
+  },
+  {
+   "id": "m6r-008",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A student nurse is reviewing how serum electrolytes are reported and interpreted. Which statements are accurate? Select all that apply.",
+   "options": [
+    "A serum sample reflects the electrolytes in extracellular fluid.",
+    "A normal serum potassium confirms that potassium inside the cells is also normal.",
+    "Sodium, potassium, and chloride are commonly reported in mEq/L.",
+    "Total serum calcium and phosphate are commonly reported in mg/dL.",
+    "A rising potassium after major trauma most likely reflects more dietary potassium.",
+    "Intracellular electrolyte levels can be measured directly with a routine blood draw."
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Blood tests reflect extracellular fluid (plasma and interstitial fluid).",
+    "A serum value shows only the extracellular amount. Intracellular potassium cannot be measured directly, so a normal serum value does not confirm normal cell stores.",
+    "Correct. mEq/L is the most common unit for electrolytes such as sodium, potassium, and chloride.",
+    "Correct. Total calcium (9–11) and phosphate (2.5–4.5) are reported in mg/dL.",
+    "Trauma damages cells, which release intracellular potassium into the blood. The rise reflects cell breakdown, not intake.",
+    "Intracellular levels cannot be measured directly. Labs show only what is happening outside the cells."
+   ],
+   "rationale": "Interpreting electrolytes starts with knowing what the test measures. A blood sample reflects extracellular fluid, so it cannot show intracellular levels directly. Most electrolytes are reported in mEq/L, and calcium and phosphate are reported in mg/dL. When cells are injured (trauma, chemotherapy, severe illness), intracellular electrolytes such as potassium and phosphate spill into the blood and raise serum levels without any change in intake.",
+   "takeaway": "Serum labs = extracellular fluid only. Cell injury can raise K⁺ and phosphate without any change in intake.",
+   "hintContent": "Recall which fluid compartment a blood test reflects, the units used for each electrolyte, and what cell injury does to serum levels.",
+   "hintStrategy": "Judge each statement on its own as true or false. Watch for statements that assume a serum value shows what is inside the cells."
+  },
+  {
+   "id": "m6r-009",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-risk-interventions",
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse reviews morning laboratory results for four clients. Which result requires the most immediate follow-up?",
+   "options": [
+    "Sodium 134 mEq/L in a client receiving D5W at a keep-vein-open rate",
+    "Phosphate 4.7 mg/dL in a client with long-standing chronic kidney disease",
+    "Chloride 107 mEq/L in a client receiving 0.9% sodium chloride infusion",
+    "Potassium 2.9 mEq/L in a client whose furosemide dose is due now"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Sodium of 134 is only slightly below 135, and D5W at a keep-vein-open rate adds very little free water. It needs monitoring but is not the most urgent.",
+    "Phosphate slightly above 4.5 is a known pattern in kidney disease. It needs monitoring but is not the most immediate concern.",
+    "Chloride slightly above 105 can occur with a chloride-containing infusion such as normal saline. It is a minor change.",
+    "Correct. Potassium is the cardiac electrolyte that maintains normal heart rhythm. 2.9 is well below 3.5, and the furosemide due now will cause more potassium loss. This needs follow-up before the dose is given."
+   ],
+   "rationale": "To prioritize lab results, the nurse weighs how far the value is from normal, how important the electrolyte is, and whether something about to happen will make it worse. Potassium regulates cardiac rhythm, and this value is far below normal. A potassium-wasting diuretic is also due now. The other results are mildly abnormal and explained by the client's situation.",
+   "takeaway": "Prioritize the electrolyte that matters most (K⁺ = heart), the value furthest from normal, and the trend that is about to get worse.",
+   "hintContent": "Recall the normal ranges, which electrolyte maintains cardiac rhythm, and what furosemide does to potassium.",
+   "hintStrategy": "For each option, ask how abnormal the value is, how dangerous that electrolyte is, and whether the situation will push it further."
+  },
+  {
+   "id": "m6r-010",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A client has had a nasogastric tube to low intermittent suction for 3 days, removing large amounts of gastric secretions. Because of its role in forming stomach acid, which electrolyte does the nurse expect is being lost in these secretions?",
+   "options": [
+    "Chloride",
+    "Bicarbonate",
+    "Phosphate",
+    "Magnesium"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Chloride is needed to produce hydrochloric acid (HCl) in the stomach, so removing gastric secretions removes chloride.",
+    "Bicarbonate is a base made by the body that buffers acid. It is not a part of stomach acid.",
+    "Phosphate is used for ATP production and bone formation. It is not a component of stomach acid.",
+    "Magnesium is an enzyme cofactor and nerve and muscle stabilizer. It is not a component of stomach acid."
+   ],
+   "rationale": "Chloride works with sodium to maintain osmotic pressure and is needed to make hydrochloric acid in the stomach. Drainage tubes are a listed source of abnormal fluid and electrolyte loss, and gastric suction removes HCl-rich secretions, so chloride is lost along with water and other electrolytes.",
+   "takeaway": "Stomach acid is HCl, so losing gastric secretions means losing chloride.",
+   "hintContent": "Recall the chemical name of stomach acid and which electrolyte is needed to make it.",
+   "hintStrategy": "Match the function described in the stem to the electrolyte with that function."
+  },
+  {
+   "id": "m6r-011",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "stem": "The nurse is preparing teaching materials about how electrolytes work in the body. Which statements are accurate? Select all that apply.",
+   "options": [
+    "Magnesium activates the sodium/potassium pump and helps keep nerves and muscles stable.",
+    "The kidneys regulate bicarbonate by generating and reabsorbing it as needed.",
+    "Phosphate is needed for ATP production and, with calcium, for bone and tooth formation.",
+    "Potassium is the main electrolyte that controls extracellular fluid volume.",
+    "Chloride works with sodium to maintain osmotic, water-pulling pressure.",
+    "Sodium is the main electrolyte found inside the cells."
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Magnesium is a cofactor for many enzyme reactions, activates the Na⁺/K⁺ pump, and stabilizes neuromuscular activity.",
+    "Correct. Bicarbonate is made by the body, not obtained from the diet. The kidneys generate and reabsorb it to keep blood pH stable.",
+    "Correct. Phosphate is essential for ATP (energy) production, bone and tooth formation with calcium, and acid–base balance.",
+    "Sodium, not potassium, is the main extracellular electrolyte and controls ECF volume. Potassium is the main intracellular electrolyte.",
+    "Correct. Chloride is sodium's partner. Where sodium goes, chloride follows, and together they maintain osmotic pressure.",
+    "Sodium is the main extracellular electrolyte. Potassium is the main intracellular electrolyte."
+   ],
+   "rationale": "Each electrolyte has a main job. Sodium controls water balance and ECF volume, and chloride follows it to maintain osmotic pressure. Potassium is the main intracellular electrolyte and is critical for cardiac rhythm. Magnesium is a cofactor that activates the Na⁺/K⁺ pump, which uses ATP to move sodium out of and potassium into cells. Phosphate supplies energy (ATP) and builds bones and teeth. Bicarbonate is produced by the body and controlled by the kidneys to buffer pH.",
+   "takeaway": "Na⁺ = water regulator, K⁺ = cardiac, Mg²⁺ = stabilizer, phosphate = energy and bones, HCO₃⁻ = buffer made by the body.",
+   "hintContent": "Recall the main role of each electrolyte and which ones belong inside versus outside the cell.",
+   "hintStrategy": "Check each statement for a swapped role or a swapped location. Those are the false ones."
+  },
+  {
+   "id": "m6r-012",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "stem": "A client with metabolic acidosis has a new order for Lactated Ringer's (LR). The client asks how \"an IV of salt water\" can help with too much acid. Which explanation by the nurse is accurate?",
+   "options": [
+    "LR is a colloid whose large molecules pull excess acid out of the blood into the urine.",
+    "LR contains lactate, which the body converts to bicarbonate, a buffer against acid.",
+    "LR contains no electrolytes, so it simply dilutes the acid until the levels normalize.",
+    "LR supplies extra chloride, which is the body's main buffer against excess acid."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "LR is a crystalloid with small particles, not a colloid. Colloids such as albumin pull fluid, not acid, into the vascular space.",
+    "Correct. LR contains sodium, potassium, calcium, and lactate. The lactate is converted to bicarbonate, which buffers acid and helps correct metabolic acidosis.",
+    "LR is a balanced electrolyte solution containing sodium, potassium, calcium, and lactate.",
+    "Chloride maintains osmotic pressure and forms stomach acid. Bicarbonate is the main buffer."
+   ],
+   "rationale": "Bicarbonate is the body's main buffer that keeps blood pH stable. It is produced by the body and regulated by the kidneys rather than obtained from the diet. Lactated Ringer's is an isotonic, balanced crystalloid whose lactate is converted to bicarbonate, which is why it helps correct metabolic acidosis.",
+   "takeaway": "LR's lactate becomes bicarbonate, the buffer that counters acid.",
+   "hintContent": "Connect what is in Lactated Ringer's with the role of bicarbonate in acid–base balance.",
+   "hintStrategy": "Identify which electrolyte acts as the buffer, then find the option that explains how LR supplies it."
+  },
+  {
+   "id": "m6r-013",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "A client with heart failure has been taught to limit sodium intake. Which statement by the client indicates a need for further teaching?",
+   "options": [
+    "I'll compare the sodium on labels before I buy frozen dinners.",
+    "Since water follows sodium, eating less salt should help me hold less fluid.",
+    "I'll choose fresh vegetables instead of canned ones whenever I can.",
+    "Canned soup is fine for lunch as long as I don't add salt from the shaker."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Reading labels on processed foods is an appropriate way to find hidden sodium.",
+    "This is accurate. Water follows sodium, so lowering sodium intake helps limit fluid retention.",
+    "Fresh vegetables are lower in sodium than canned ones, so this shows understanding.",
+    "Correct. This needs more teaching. Canned soups are among the highest-sodium foods even with no salt added at the table."
+   ],
+   "rationale": "Dietary sodium comes from table salt and also, in large amounts, from processed foods, soups, and canned foods. Because water follows sodium, a sodium restriction helps clients with heart failure avoid holding extra fluid. A client who believes canned soup is acceptable as long as the shaker stays away has missed the main point about hidden sodium.",
+   "takeaway": "Most sodium is hidden in processed, canned, and soup foods, not just the salt shaker.",
+   "hintContent": "Recall the common dietary sources of sodium and why sodium restriction helps fluid balance.",
+   "hintStrategy": "\"Further teaching\" means find the incorrect statement. Check each food choice against the list of sodium sources."
+  },
+  {
+   "id": "m6r-014",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A client's serum magnesium is 1.6 mEq/L, and the HCP recommends adding magnesium-rich foods. Which foods should the nurse suggest? Select all that apply.",
+   "options": [
+    "A handful of almonds or pumpkin seeds",
+    "Lentil soup made from dried lentils",
+    "Plain white rice",
+    "Whole-grain oatmeal",
+    "White bread with jam",
+    "A glass of diet cola"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Nuts and seeds are magnesium-rich.",
+    "Correct. Legumes such as lentils are good magnesium sources.",
+    "Refined white rice has had most of its magnesium-containing bran removed.",
+    "Correct. Whole grains are a magnesium source.",
+    "Refined white bread and jam provide little magnesium.",
+    "Diet cola provides no meaningful magnesium."
+   ],
+   "rationale": "Magnesium sources include green leafy vegetables, nuts and seeds, whole grains, and legumes. A level of 1.6 mEq/L is at the low end of the normal range (1.5–2.5), so increasing dietary sources is a reasonable step. Refined grains and soft drinks add little magnesium.",
+   "takeaway": "Magnesium foods: leafy greens, nuts and seeds, whole grains, legumes.",
+   "hintContent": "Recall the dietary sources of magnesium from the slides.",
+   "hintStrategy": "Check each food against the four magnesium source groups. Refined versions of grains do not count as whole grains."
+  },
+  {
+   "id": "m6r-015",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "A client receiving furosemide has had two doses of oral potassium chloride over the past 24 hours, yet serum potassium remains 3.2 mEq/L. Today's results also show magnesium 1.1 mEq/L and total calcium 8.6 mg/dL. Which action should the nurse take first?",
+   "options": [
+    "Ask the client to add potassium-rich foods such as avocados and beans to each meal",
+    "Encourage the client to drink a glass of milk at each meal to raise the calcium level",
+    "Notify the HCP of the low magnesium as a likely reason the potassium is not correcting",
+    "Give another dose of potassium chloride if ordered and recheck the level in the morning"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Potassium-rich foods support long-term intake, but they will not fix potassium that is resisting replacement because of low magnesium.",
+    "Calcium is also low, but it will be hard to correct while magnesium is low. Dairy alone does not address the underlying problem.",
+    "Correct. Magnesium is below 1.5 (hypomagnesemia). When magnesium, potassium, and calcium are all low, magnesium is replaced first because low magnesium makes potassium and calcium hard to correct. The HCP needs this connection.",
+    "Repeating potassium without addressing magnesium is likely to fail again, and it delays the real fix."
+   ],
+   "rationale": "Potassium that will not rise despite replacement is a cue to look at magnesium. Magnesium activates the sodium/potassium pump and supports normal electrolyte handling. When it is low, potassium and calcium resist correction. The slides' clinical hint applies here: if magnesium, potassium, and calcium are all low, replace magnesium first. This client has all three low, which the nurse should report together with that connection.",
+   "takeaway": "If Mg²⁺, K⁺, and Ca²⁺ are all low, replace magnesium first, or the others will not correct.",
+   "hintContent": "Recall the normal ranges for K⁺, Mg²⁺, and Ca²⁺, and the clinical hint about which electrolyte to replace first.",
+   "hintStrategy": "Ask why the potassium is not responding, then choose the action that addresses that reason rather than repeating what already failed."
+  },
+  {
+   "id": "m6r-016",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse is reviewing a client's laboratory report. Which value is within the normal range?",
+   "options": [
+    "Sodium 141 mEq/L",
+    "Potassium 5.4 mEq/L",
+    "Magnesium 2.8 mEq/L",
+    "Total calcium 8.5 mg/dL"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Normal sodium is 135–145 mEq/L, so 141 is within range.",
+    "Normal potassium is 3.5–5.0 mEq/L. 5.4 is high (hyperkalemia).",
+    "Normal magnesium is 1.5–2.5 mEq/L. 2.8 is high (hypermagnesemia).",
+    "Normal total calcium is 9–11 mg/dL. 8.5 is low (hypocalcemia)."
+   ],
+   "rationale": "Knowing normal ranges is the starting point for interpreting any electrolyte result: sodium 135–145 mEq/L, potassium 3.5–5.0 mEq/L, magnesium 1.5–2.5 mEq/L, and total calcium 9–11 mg/dL. Only the sodium value falls inside its range.",
+   "takeaway": "Na⁺ 135–145, K⁺ 3.5–5.0, Mg²⁺ 1.5–2.5, Ca²⁺ 9–11.",
+   "hintContent": "Recall the normal range for each electrolyte listed.",
+   "hintStrategy": "Compare each value with its own range. Some are just outside the limit."
+  },
+  {
+   "id": "m6r-017",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "An 80-kg client is 1 day postoperative and voids into a collection device in the toilet. Urine output for the past 4 hours totals 135 mL. BP 118/72 mm Hg, HR 92/min. A bladder scan shows 60 mL of urine in the bladder. What should the nurse do first?",
+   "options": [
+    "Document the output as adequate for a client on the first postoperative day",
+    "Encourage oral fluids and remeasure the output at the end of the shift",
+    "Increase the maintenance IV rate to raise the client's urine output",
+    "Notify the HCP that the output is below this client's expected minimum"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "The minimum for this client is 0.5 × 80 × 4 = 160 mL. 135 mL is below that, so it is not adequate.",
+    "Fluids may help, but waiting until the end of the shift delays reporting output that is already below the minimum.",
+    "Changing an IV rate requires an HCP order. The nurse reports the finding so the HCP can decide on treatment.",
+    "Correct. 135 mL over 4 hours is about 0.42 mL/kg/hr, below the required 0.5 mL/kg/hr. The bladder scan shows the urine is not being held in the bladder, so the kidneys are producing too little. The HCP needs to know."
+   ],
+   "rationale": "Urine output should be at least 0.5 mL/kg/hr. For an 80-kg client, that is 40 mL/hr, or 160 mL over 4 hours. This client made 135 mL. The bladder scan rules out urine being trapped in the bladder, so the low number reflects low production. Adequate urine output is needed to rid the body of wastes, so output below this minimum is reported promptly.",
+   "takeaway": "Minimum urine output = 0.5 × weight in kg × hours. Below it with an empty bladder means report it.",
+   "hintContent": "Apply the 0.5 mL/kg/hr formula to this client's weight and time period, and consider what the bladder scan rules out.",
+   "hintStrategy": "Do the math first. If output is below the minimum, choose the action that gets the finding to someone who can treat it, within nursing scope."
+  },
+  {
+   "id": "m6r-018",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "Using the urine output formula, what is the minimum amount of urine a 70-kg client should produce over an 8-hour shift?",
+   "options": [
+    "140 mL",
+    "280 mL",
+    "400 mL",
+    "560 mL"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "140 mL is the minimum for 4 hours, not 8 (0.5 × 70 × 4).",
+    "Correct. 0.5 mL × 70 kg = 35 mL/hr; 35 mL/hr × 8 hr = 280 mL.",
+    "400 mL is the low end of the obligatory urine output for an entire day, not an 8-hour minimum based on weight.",
+    "560 mL would be 1 mL/kg/hr. The adult formula uses 0.5 mL/kg/hr."
+   ],
+   "rationale": "The formula is 0.5 mL × body weight in kg × number of hours. For 70 kg over 8 hours: 0.5 × 70 = 35 mL/hr, and 35 × 8 = 280 mL. Each distractor comes from a common error: using the wrong number of hours, mixing up the daily obligatory output, or doubling the rate.",
+   "takeaway": "0.5 × kg × hours: a 70-kg adult needs at least 35 mL/hr, or 280 mL per 8 hours.",
+   "hintContent": "Recall the urine output formula in mL/kg/hr.",
+   "hintStrategy": "Find the hourly minimum first, then multiply by the number of hours in the shift."
+  },
+  {
+   "id": "m6r-019",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse reviews urine output for six adult clients. Which clients have an output below the minimum of 0.5 mL/kg/hr? Select all that apply.",
+   "options": [
+    "A 50-kg client with 120 mL over 4 hours",
+    "A 90-kg client with 40 mL/hr",
+    "A 64-kg client with 250 mL over 8 hours",
+    "A 76-kg client with 45 mL/hr",
+    "A 100-kg client with 1,100 mL over 24 hours",
+    "A 58-kg client with 200 mL over 6 hours"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Minimum is 0.5 × 50 × 4 = 100 mL. 120 mL meets it (0.6 mL/kg/hr).",
+    "Correct. Minimum is 0.5 × 90 = 45 mL/hr. 40 mL/hr is below it.",
+    "Correct. Minimum is 0.5 × 64 × 8 = 256 mL. 250 mL is just below it.",
+    "Minimum is 0.5 × 76 = 38 mL/hr. 45 mL/hr meets it.",
+    "Correct. Minimum is 0.5 × 100 × 24 = 1,200 mL. 1,100 mL is below it.",
+    "Minimum is 0.5 × 58 × 6 = 174 mL. 200 mL meets it."
+   ],
+   "rationale": "The same formula applies to every client: 0.5 mL × kg × hours. The minimum changes with body weight and time, so a number that looks fine for one client can be low for another. A larger client needs more urine per hour, and a 24-hour total over 1 L can still be inadequate for a 100-kg adult.",
+   "takeaway": "Never judge urine output by the raw number alone. Calculate the minimum for that client's weight and time.",
+   "hintContent": "Apply 0.5 mL/kg/hr to each client's weight and the time period given.",
+   "hintStrategy": "For each client, calculate the minimum for the stated time frame and compare it with the actual output. Watch for close calls."
+  },
+  {
+   "id": "m6r-020",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client with heart failure weighed 72.4 kg yesterday morning and 74.1 kg this morning on the same bed scale, at the same time, in the same type of gown. Approximately how much fluid has the client retained?",
+   "options": [
+    "0.17 L",
+    "0.77 L",
+    "1.7 L",
+    "3.7 L"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "This misplaces the decimal. The weight changed by 1.7 kg, not 0.17 kg.",
+    "This divides the change by 2.2 as if converting pounds to kilograms. The weights are already in kilograms.",
+    "Correct. 74.1 − 72.4 = 1.7 kg. Because 1 kg ≈ 1 L of fluid, the client has retained about 1.7 L.",
+    "This converts 1.7 kg to pounds (about 3.7 lb) and treats pounds as liters."
+   ],
+   "rationale": "A rapid change in daily weight reflects fluid, not body fat or muscle. Each kilogram gained or lost overnight is about 1 L of fluid. Weighing under the same conditions (same scale, same time, same clothing) makes the comparison valid. A 1.7-kg overnight gain means about 1.7 L of fluid retained.",
+   "takeaway": "1 kg ≈ 1 L. A daily weight change in kilograms gives the fluid change in liters.",
+   "hintContent": "Recall the relationship between a change in body weight and fluid volume.",
+   "hintStrategy": "Subtract the two weights, check the units, then convert kilograms to liters."
+  },
+  {
+   "id": "m6r-021",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-iv-solutions",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "An 82-year-old client has received 0.9% sodium chloride at 125 mL/hr for 2 days. Yesterday's weight was 154 lb; today's is 158.4 lb (same scale, before breakfast, after voiding, same gown). The nurse hears new crackles in both lung bases, and RR is 26/min. Which action should the nurse take first?",
+   "options": [
+    "Document the weight and compare it with tomorrow morning's weight",
+    "Slow the infusion and notify the HCP of a 2-kg gain with new crackles",
+    "Ask the assistive personnel to limit the client's oral fluids to 500 mL",
+    "Have the client cough and deep breathe, then reassess the lungs in 1 hour"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Waiting a day ignores a significant gain combined with new lung findings that point to a complication now.",
+    "Correct. 4.4 lb ÷ 2.2 = 2 kg, which is about 2 L of retained fluid. Together with new crackles and a faster respiratory rate in an older adult receiving isotonic fluid, this suggests fluid overload. Slowing the infusion limits further fluid, and the HCP needs this information.",
+    "A fluid restriction requires an HCP order, and it does not address the IV fluid that is still running.",
+    "Coughing will not clear fluid that is building up from the infusion, and waiting an hour lets more fluid run in."
+   ],
+   "rationale": "Isotonic fluids such as normal saline expand vascular and extracellular volume. Fluid overload is a known complication, especially in older adults, who have less renal reserve. The nurse converts the weight change (4.4 lb = 2 kg ≈ 2 L), links it to the new crackles and rising respiratory rate, and acts to stop more fluid from entering while getting the HCP involved.",
+   "takeaway": "2.2 lb = 1 kg ≈ 1 L. A rapid gain plus new crackles during isotonic IV fluids is a complication of therapy to act on now.",
+   "hintContent": "Convert pounds to kilograms to liters, and recall the main nursing consideration for isotonic fluids in older adults.",
+   "hintStrategy": "Decide whether the findings are expected or a complication. If it is a complication, choose the action that stops it from getting worse while bringing in the HCP."
+  },
+  {
+   "id": "m6r-022",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "The nurse delegates daily weights for a client receiving IV fluids to assistive personnel (AP). Which instructions should the nurse give? Select all that apply.",
+   "options": [
+    "Use the same scale every day.",
+    "Weigh the client in the morning after voiding and before breakfast.",
+    "Have the client wear the same type and amount of clothing each time.",
+    "Weigh the client after breakfast so the client is less likely to feel lightheaded.",
+    "Use whichever scale is closest to the room to save time.",
+    "Report the weight to me so I can compare it with yesterday's."
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Different scales can give different readings, which would hide or exaggerate real fluid changes.",
+    "Correct. Weighing at the same time each morning, after voiding and before eating, keeps food and urine from affecting the number.",
+    "Correct. Clothing and shoes add weight, so they must be consistent from day to day.",
+    "Weighing after a meal adds the weight of food and fluid and makes the comparison inaccurate.",
+    "Changing scales introduces error. Consistency matters more than convenience.",
+    "Correct. The AP can collect the weight, but the nurse interprets the change and decides what to do."
+   ],
+   "rationale": "Daily weight is one of the best measures of fluid change because 1 kg ≈ 1 L. It is only useful if each weight is taken under the same conditions: same scale, same time (morning, after voiding, before breakfast), and same clothing. Weighing is within the AP's role. Interpreting the trend stays with the nurse.",
+   "takeaway": "Same scale, same time, same clothing. The AP weighs, and the nurse interprets.",
+   "hintContent": "Recall what makes daily weights accurate and which part of the task belongs to the nurse.",
+   "hintStrategy": "For each instruction, ask whether it keeps the conditions the same from day to day and whether it keeps interpretation with the nurse."
+  },
+  {
+   "id": "m6r-023",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client has had a temperature of 39.4°C (103°F) and a respiratory rate of 30/min for the past 24 hours. The I&O record shows intake 2,400 mL and output 2,000 mL, yet the client's weight is 0.5 kg lower than yesterday on the same scale. Which explanation best accounts for this?",
+   "options": [
+    "The positive I&O balance shows fluid retention, so the weight loss likely reflects lost muscle mass",
+    "The scale is likely inaccurate, since a positive I&O balance should produce a weight gain",
+    "Unmeasured water loss through the skin and lungs increased with the fever and fast breathing",
+    "Intake was overstated, because IV fluids should not be counted on the intake record"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Muscle mass does not change by 0.5 kg in a day. A rapid weight change reflects fluid.",
+    "The I&O record leaves out insensible losses, so a positive I&O balance does not guarantee weight gain. The same-scale weight is reliable.",
+    "Correct. Insensible losses through the skin (evaporation) and lungs (water vapor) are not included in I&O totals. Fever increases skin losses, and fast, deep breathing increases lung losses, so actual output was greater than recorded.",
+    "IV fluids do count as intake. Removing them would not explain the gap, because the missing loss is fluid that I&O never measures."
+   ],
+   "rationale": "I&O records include only sensible (measurable) losses such as urine, stool, and drainage. Insensible losses through the skin and lungs still affect hydration. They rise with temperature and humidity (skin) and with respiratory rate and depth (lungs). This client's fever and tachypnea increased those hidden losses. The I&O record looks positive, but the daily weight shows the true change: about 0.5 L lost.",
+   "takeaway": "I&O misses insensible losses. Fever and fast breathing increase them, and daily weight shows the real fluid change.",
+   "hintContent": "Recall the difference between sensible and insensible losses, what increases insensible losses, and what daily weight reflects.",
+   "hintStrategy": "Ask what kind of fluid loss would not appear on the I&O record but would show on the scale, and look for cues in the vital signs."
+  },
+  {
+   "id": "m6r-024",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client has had 2 days of vomiting and has taken in very little fluid. Which results are consistent with the body conserving water and producing concentrated body fluids? Select all that apply.",
+   "options": [
+    "Urine specific gravity 1.034",
+    "Urine osmolality 920 mOsm/kg",
+    "Serum osmolality 284 mOsm/kg",
+    "Urine specific gravity 1.003",
+    "Urine osmolality 180 mOsm/kg",
+    "Serum osmolality 304 mOsm/kg"
+   ],
+   "answer": [
+    0,
+    1,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Normal specific gravity is 1.005–1.030. A value above 1.030 means very concentrated urine as the kidneys conserve water.",
+    "Correct. Normal urine osmolality is 200–800 mOsm/kg. 920 is above that, reflecting concentrated urine.",
+    "Normal serum osmolality is 280–300 mOsm/kg, so 284 is within normal limits, not concentrated.",
+    "A specific gravity of 1.003 is below 1.005, which means dilute urine, the opposite of conserving water.",
+    "A urine osmolality of 180 is below 200, which means dilute urine.",
+    "Correct. A serum osmolality above 300 mOsm/kg means the blood is more concentrated than normal, as expected when water is lost and not replaced."
+   ],
+   "rationale": "Vomiting with poor intake leaves the body short of water. Blood becomes concentrated (serum osmolality above 300), which triggers thirst and ADH. ADH tells the kidneys to conserve water, so the urine becomes small in volume and concentrated (high specific gravity and high urine osmolality). Dilute urine or a normal serum osmolality would not fit this picture.",
+   "takeaway": "Water short means concentrated blood, ADH released, and concentrated urine: high serum osmolality, high urine osmolality, high specific gravity.",
+   "hintContent": "Recall the normal ranges for serum osmolality (280–300), urine osmolality (200–800), and specific gravity (1.005–1.030), and what ADH does.",
+   "hintStrategy": "Label each result as low, normal, or high, then decide which direction fits a body trying to hold on to water."
+  },
+  {
+   "id": "m6r-025",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse receives report on four adult clients. Which client should the nurse assess first?",
+   "options": [
+    "A 70-kg client with 300 mL of urine over the past 8 hours",
+    "A client receiving furosemide whose weight is 0.2 kg lower than yesterday",
+    "A client NPO since midnight whose urine specific gravity is 1.028",
+    "An 80-kg client with 25 mL/hr of urine for the past 3 hours"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Minimum is 0.5 × 70 × 8 = 280 mL. 300 mL meets it.",
+    "A small weight loss is an expected effect of a diuretic.",
+    "A specific gravity of 1.028 is within the normal range (1.005–1.030). Somewhat concentrated urine is expected after an overnight fast.",
+    "Correct. Minimum is 0.5 × 80 = 40 mL/hr. 25 mL/hr for 3 hours is well below it and is a sustained pattern, not a single low reading."
+   ],
+   "rationale": "Prioritizing means separating expected findings from unexpected ones. Three of these findings are normal or expected for the situation. The 80-kg client is making only about 0.3 mL/kg/hr and has done so for 3 hours, far below the 0.5 mL/kg/hr minimum needed to clear wastes.",
+   "takeaway": "Calculate before you prioritize. Persistent output below 0.5 mL/kg/hr outranks expected or in-range findings.",
+   "hintContent": "Apply 0.5 mL/kg/hr to the urine outputs, recall the normal specific gravity range, and consider what a diuretic is expected to do.",
+   "hintStrategy": "Mark each client as expected or unexpected, then see the client whose finding is unexpected first."
+  },
+  {
+   "id": "m6r-026",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client admitted after 3 days of vomiting had a hematocrit above the normal range on admission. After 2 L of 0.9% sodium chloride, today's hematocrit is lower and within normal limits. There is no evidence of bleeding. Which interpretation is most accurate?",
+   "options": [
+    "Rehydration expanded plasma volume, so red cells are less concentrated",
+    "The client is most likely bleeding internally, which explains the drop in value",
+    "Normal saline breaks down red blood cells, so the drop reflects cell destruction",
+    "Hematocrit does not change with hydration, so the first value was a lab error"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Hematocrit is the percentage of blood made up of red cells. Water loss concentrated the blood and raised it. Normal saline restored plasma volume and brought the percentage back down. Diluting the hematocrit is a known effect of isotonic fluids.",
+    "Bleeding can lower hematocrit, but there is no evidence of bleeding, and the drop is fully explained by rehydration.",
+    "Normal saline is isotonic and causes no major fluid shift into red cells, so it does not destroy them.",
+    "Hematocrit does change with fluid status. It rises when plasma water is lost and falls when fluid is replaced."
+   ],
+   "rationale": "Hematocrit reflects red cells compared with plasma, so it changes with fluid volume. When the body loses water, the same red cells sit in less plasma and the hematocrit rises. When isotonic fluid such as normal saline expands vascular volume, the hematocrit falls. That dilution is a listed nursing consideration for isotonic fluids. Here, the change matches rehydration.",
+   "takeaway": "Hematocrit rises when the blood is concentrated and falls when it is diluted, for example by isotonic IV fluids.",
+   "hintContent": "Recall what hematocrit measures and what isotonic fluids do to vascular volume and hematocrit.",
+   "hintStrategy": "Ask whether the red cells changed or the plasma around them changed, then use the stem's cues to rule out the alternatives."
+  },
+  {
+   "id": "m6r-027",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-body-fluids",
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "A 6-month-old has had diarrhea for 2 days. Which assessments should the nurse include to evaluate the infant's fluid status? Select all that apply.",
+   "options": [
+    "Palpate the anterior fontanel",
+    "Inspect the oral mucous membranes",
+    "Use the infant's thirst cues as the main measure of fluid needs",
+    "Weigh the diapers to measure output (1 g ≈ 1 mL)",
+    "Estimate intake from the parent's general impression of how much was taken",
+    "Weigh the infant daily on the same scale, unclothed"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Fontanels are part of the fluid assessment in infants. A sunken fontanel suggests fluid loss.",
+    "Correct. Mucous membranes are a key part of the fluid assessment. Dry membranes suggest fluid loss.",
+    "Infants cannot communicate thirst except by crying, so thirst cues are not a reliable measure.",
+    "Correct. Weighing diapers turns infant output into a measurable number, since 1 g of wet diaper weight is about 1 mL of fluid.",
+    "Intake should be measured, not estimated. Accurate I&O is part of fluid assessment.",
+    "Correct. Daily weight is the most sensitive measure of fluid change and must be taken under the same conditions each day."
+   ],
+   "rationale": "Infants are at high risk for fluid loss. They have about 75% body water, a large body surface area, immature kidneys, and cannot say they are thirsty. Fluid assessment in an infant includes the fontanels, mucous membranes, skin, accurate I&O (including weighed diapers), and daily weights under consistent conditions. Relying on thirst or a parent's impression misses changes that can happen quickly.",
+   "takeaway": "Infant fluid assessment: fontanel, mucous membranes, weighed diapers, same-scale daily weights. Not thirst.",
+   "hintContent": "Recall the physical assessments listed for fluid status, how infants differ in expressing thirst, and how infant output can be measured.",
+   "hintStrategy": "Keep options that give objective, measurable data, and reject options that rely on cues infants cannot give or on estimates."
+  },
+  {
+   "id": "m6r-028",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse is totaling a client's intake for the 8-hour shift (see exhibit). What intake should the nurse record?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "I&O 0700–1500",
+      "table": {
+       "headers": [
+        "Item",
+        "Details"
+       ],
+       "rows": [
+        [
+         "Enteral feeding",
+         "Continuous at 50 mL/hr × 8 hr"
+        ],
+        [
+         "Water flushes",
+         "30 mL every 2 hr (4 flushes)"
+        ],
+        [
+         "IV 0.9% sodium chloride",
+         "75 mL/hr × 8 hr"
+        ],
+        [
+         "IV antibiotic",
+         "2 doses, 50 mL each"
+        ],
+        [
+         "Urine",
+         "650 mL"
+        ],
+        [
+         "Emesis",
+         "150 mL"
+        ],
+        [
+         "Wound drain",
+         "40 mL"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "1,100 mL",
+    "1,120 mL",
+    "1,220 mL",
+    "2,060 mL"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "This leaves out the four 30-mL water flushes (120 mL), which count as intake.",
+    "This leaves out the two 50-mL IV antibiotic doses (100 mL), which count as intake.",
+    "Correct. Feeding 400 mL (50 × 8) + flushes 120 mL (30 × 4) + IV 600 mL (75 × 8) + antibiotics 100 mL = 1,220 mL.",
+    "This adds the output (650 + 150 + 40 = 840 mL) to the intake. Output is recorded separately."
+   ],
+   "rationale": "Intake includes every fluid that enters the body: oral fluids, tube feedings, flushes, IV fluids, and IV medications. Output (urine, emesis, drainage) is totaled separately: 840 mL here. Leaving out small volumes such as flushes or IV medications is a common error that makes the I&O balance inaccurate.",
+   "takeaway": "Count all intake (feedings, flushes, IV fluids, IV meds) and keep output in its own column.",
+   "hintContent": "Recall which items count as intake on an I&O record, including tube feedings and medications.",
+   "hintStrategy": "Convert each rate to a shift total, add only the intake items, and double-check that nothing small was left out."
+  },
+  {
+   "id": "m6r-029",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client has continuous bladder irrigation. During the shift, 2,000 mL of irrigation solution infused, and the drainage bag was emptied for a total of 2,650 mL. What is the client's actual urine output for the shift?",
+   "options": [
+    "650 mL",
+    "1,350 mL",
+    "2,650 mL",
+    "4,650 mL"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Drainage includes the irrigation solution plus urine. 2,650 − 2,000 = 650 mL of true urine.",
+    "This subtracts the urine from the irrigant (2,000 − 650) instead of finding the urine itself.",
+    "This counts the irrigation solution as urine and overstates the output by 2,000 mL.",
+    "This adds the irrigation volume to the drainage instead of subtracting it."
+   ],
+   "rationale": "Irrigation fluids must be accounted for on the I&O record. When irrigation solution flows into the bladder and drains out with the urine, the drainage bag holds both. To find the kidneys' actual output, subtract the irrigant volume from the total drainage. Recording the full drainage as urine would hide a low urine output.",
+   "takeaway": "True urine output = total drainage − irrigation solution instilled.",
+   "hintContent": "Recall that irrigation fluid instilled into the bladder drains out along with urine.",
+   "hintStrategy": "Ask what is in the drainage bag, then remove the part that did not come from the kidneys."
+  },
+  {
+   "id": "m6r-030",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse is reviewing findings for several clients. Which finding should the nurse report to the HCP immediately?",
+   "options": [
+    "Urine specific gravity of 1.028 in a client who has been NPO since midnight",
+    "A 24-hour urine total of 350 mL in a 68-kg client",
+    "Serum osmolality of 296 mOsm/kg in a client receiving D5 ½ NS",
+    "Urine osmolality of 750 mOsm/kg in a client who exercised outdoors this morning"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "A specific gravity of 1.028 is within normal limits (1.005–1.030) and expected after fasting.",
+    "Correct. The body must excrete 400–600 mL of urine a day just to clear wastes (obligatory loss). 350 mL is below even that, and far below this client's weight-based minimum of 816 mL (0.5 × 68 × 24).",
+    "Serum osmolality of 296 is within normal limits (280–300).",
+    "Urine osmolality of 750 is within normal limits (200–800). Concentrated urine after exercise in the heat is expected."
+   ],
+   "rationale": "Three of these values are within their normal ranges and fit the situation. The 24-hour urine total is below the obligatory output of 400–600 mL per day, the minimum the kidneys must excrete to clear wastes, and well below the weight-based minimum. Wastes will build up, so the HCP needs to know immediately.",
+   "takeaway": "Obligatory output is 400–600 mL/day. Less than that means wastes are building up, so report it now.",
+   "hintContent": "Recall the normal ranges for specific gravity, serum osmolality, and urine osmolality, plus obligatory urine output and the 0.5 mL/kg/hr formula.",
+   "hintStrategy": "Check each value against its normal range. The one outside its range, with no expected explanation, is reported first."
+  },
+  {
+   "id": "m6r-031",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "Assistive personnel (AP) report that a client's weight is 2.3 kg higher than yesterday. The AP mentions that today the client was weighed after breakfast, in street clothes and shoes, on a standing scale. Yesterday's weight was taken on the bed scale before breakfast with the client in a gown. Which action should the nurse take first?",
+   "options": [
+    "Notify the HCP that the client has retained about 2.3 L of fluid",
+    "Document today's weight and use it as the new baseline going forward",
+    "Restrict the client's oral fluids until the weight returns to baseline",
+    "Have the client reweighed on yesterday's scale in a gown and compare"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "The two weights were taken under different conditions, so the 2.3-kg difference may reflect clothing, food, and scale differences rather than fluid. Reporting it as fluid retention would pass on inaccurate data.",
+    "Using an inaccurate weight as a new baseline would make every future comparison unreliable.",
+    "A fluid restriction requires an HCP order and is not justified by a weight that may be inaccurate.",
+    "Correct. A weight is only meaningful when compared under the same conditions. Getting a comparable weight comes before interpreting or reporting the change."
+   ],
+   "rationale": "Daily weights detect fluid change (1 kg ≈ 1 L) only when the scale, time, and clothing stay the same. Here, three conditions changed: scale, clothing and shoes, and timing after a meal. Before acting on a 2.3-kg difference, the nurse obtains a weight under comparable conditions, then reinforces the correct procedure with the AP.",
+   "takeaway": "Verify the weight was taken under the same conditions before you interpret or report a change.",
+   "hintContent": "Recall the conditions that make daily weights accurate and the 1 kg ≈ 1 L relationship.",
+   "hintStrategy": "Ask whether the data are trustworthy before deciding what they mean. Fix the measurement before acting on it."
+  },
+  {
+   "id": "m6r-032",
+   "type": "sata",
+   "topic": "fe-risk-interventions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse is reviewing new admissions to a medical-surgical unit. Which clients does the nurse recognize as being at increased risk for a fluid and electrolyte disturbance? Select all that apply.",
+   "options": [
+    "A client with partial-thickness burns over the arms and chest",
+    "A client observed overnight after a minor fall with no injuries and no health conditions",
+    "A client with acute kidney injury",
+    "A client with alcohol use disorder",
+    "A client being treated for an eating disorder",
+    "A client with seasonal allergies who uses a saline nasal spray"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Burns are an acute injury that causes large fluid and electrolyte losses through damaged skin.",
+    "A healthy client with no injuries and no chronic conditions has no listed risk factor.",
+    "Correct. The kidneys control most fluid and electrolyte output, so acute kidney injury disrupts balance directly.",
+    "Correct. Alcohol use disorder is a listed chronic risk factor for fluid and electrolyte imbalance.",
+    "Correct. Eating disorders disrupt intake and may involve vomiting or laxative use, all of which affect balance.",
+    "A saline nasal spray is a local treatment and does not meaningfully affect body fluid or electrolyte balance."
+   ],
+   "rationale": "Risk factors fall into four groups: fluid loss or intake problems (vomiting, diarrhea, fever, too much or too little intake), medications (diuretics, laxatives, antacids, corticosteroids, IV fluids), acute illness or injury (hemorrhage, burns, trauma, head injury, AKI), and chronic conditions (heart failure, diabetes, kidney or liver disease, cancer, alcohol use disorder, eating disorders). Nurses identify these clients early to prevent imbalance.",
+   "takeaway": "Think loss/intake problems, medications, acute illness or injury, and chronic conditions.",
+   "hintContent": "Recall the four categories of risk factors for fluid and electrolyte disturbances.",
+   "hintStrategy": "For each client, ask whether the condition changes intake, output, or how the kidneys and other organs handle fluid."
+  },
+  {
+   "id": "m6r-033",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "stem": "A client with heart failure is scheduled to receive furosemide 40 mg PO at 0900. The 0600 serum potassium is 3.2 mEq/L. Which action should the nurse take first?",
+   "options": [
+    "Give the furosemide and offer the client a banana with breakfast",
+    "Give the furosemide and ask the lab to recheck the potassium tomorrow",
+    "Hold the furosemide and contact the HCP with the potassium result",
+    "Substitute spironolactone, since it helps the body keep potassium"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "A banana is a good food source, but it will not offset the potassium the furosemide dose is about to remove from an already low level.",
+    "Giving the dose now will lower the potassium further, and waiting until tomorrow delays correction.",
+    "Correct. Furosemide causes potassium loss. With potassium already below 3.5 (hypokalemia), the nurse holds the dose and contacts the HCP for direction.",
+    "Choosing a different medication is outside nursing scope. Only the HCP can change the prescription."
+   ],
+   "rationale": "Before giving a potassium-wasting diuretic such as furosemide or hydrochlorothiazide, the nurse checks the potassium level. Potassium is the cardiac electrolyte, and this value is already low. Giving the dose would make it worse. The safe action is to withhold the dose and contact the HCP, who may add potassium replacement or change the plan. Substituting a potassium-sparing drug is a prescribing decision.",
+   "takeaway": "Furosemide and HCTZ waste K⁺. Check the level first, and hold and report if it is low.",
+   "hintContent": "Recall the effect of furosemide on potassium, the normal potassium range, and the limits of nursing scope with medications.",
+   "hintStrategy": "Ask what the drug will do to the current lab value, then pick the action that prevents harm within nursing scope."
+  },
+  {
+   "id": "m6r-034",
+   "type": "sata",
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "The nurse has taught a client who is starting spironolactone. Which statements by the client indicate understanding? Select all that apply.",
+   "options": [
+    "I'll avoid using a salt substitute, because it's mostly potassium.",
+    "I should take an over-the-counter potassium supplement, since water pills drain potassium.",
+    "I'll check with my provider before taking any electrolyte supplement.",
+    "This medicine helps my body hold on to potassium.",
+    "I'll eat extra bananas and avocados every day to replace the potassium I lose.",
+    "A salt substitute is a healthy way to cut sodium while I take this medicine."
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Salt substitutes are primarily potassium. Combined with a potassium-sparing diuretic, they can push potassium too high.",
+    "Spironolactone spares potassium rather than draining it, so adding a supplement could raise potassium above normal.",
+    "Correct. Electrolyte supplements can be self-medicated, and with a potassium-sparing drug the provider needs to decide whether any are safe.",
+    "Correct. Spironolactone is a potassium-sparing diuretic.",
+    "This advice fits furosemide or hydrochlorothiazide. With spironolactone, the client is not losing potassium and does not need to add extra.",
+    "Salt substitutes contain mainly potassium, which is unsafe to add on top of a potassium-sparing diuretic."
+   ],
+   "rationale": "Spironolactone removes water but keeps potassium, unlike furosemide and hydrochlorothiazide, which cause potassium loss. Clients often assume every \"water pill\" drains potassium and add bananas, supplements, or salt substitutes. Salt substitutes are mainly potassium, and self-medicating with electrolyte supplements is a listed risk factor. With spironolactone, extra potassium can raise the level above 5.0 (hyperkalemia).",
+   "takeaway": "Spironolactone spares K⁺: no salt substitutes and no potassium supplements unless the provider approves.",
+   "hintContent": "Recall which diuretic spares potassium and what salt substitutes contain.",
+   "hintStrategy": "Decide whether each statement would add potassium. With a potassium-sparing drug, adding potassium is the mistake."
+  },
+  {
+   "id": "m6r-035",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "stem": "A client's prescriptions include both hydrochlorothiazide and spironolactone. The client asks why two \"water pills\" are needed. Which explanation reflects the effects of these drugs on potassium?",
+   "options": [
+    "Spironolactone helps the body keep potassium, offsetting the potassium lost with hydrochlorothiazide",
+    "Hydrochlorothiazide helps the body keep potassium, offsetting the potassium lost with spironolactone",
+    "Both drugs make the body keep potassium, so together they reduce the need for potassium monitoring",
+    "Both drugs remove potassium, so the combination lowers potassium faster than either one alone could"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Hydrochlorothiazide causes potassium loss, and spironolactone spares potassium. Used together, the potassium effects tend to balance.",
+    "This reverses the two drugs. Hydrochlorothiazide causes potassium loss, and spironolactone spares it.",
+    "Only spironolactone spares potassium, and potassium still needs monitoring with any diuretic.",
+    "Only hydrochlorothiazide causes potassium loss. Spironolactone spares potassium."
+   ],
+   "rationale": "Diuretics differ in their effect on potassium. Furosemide and hydrochlorothiazide cause the kidneys to lose potassium, and spironolactone spares potassium. Pairing a potassium-wasting diuretic with a potassium-sparing one lets the client lose fluid while the potassium effects partly cancel out. Potassium still needs regular monitoring.",
+   "takeaway": "Furosemide and HCTZ lose K⁺; spironolactone spares K⁺.",
+   "hintContent": "Recall the effect of hydrochlorothiazide and of spironolactone on potassium.",
+   "hintStrategy": "Write down each drug's potassium effect, then find the option that matches both. Watch for reversed pairings."
+  },
+  {
+   "id": "m6r-036",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-body-fluids",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse in an urgent care clinic is triaging four clients. Which client should the nurse see first?",
+   "options": [
+    "A 30-year-old with a cold who reports drinking about 2 L of fluid so far today",
+    "A 4-month-old with vomiting and diarrhea for 8 hours and one wet diaper today",
+    "A 70-year-old taking hydrochlorothiazide whose potassium today is 3.8 mEq/L",
+    "A 45-year-old with mild diarrhea who is drinking well and voiding normally"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "This client is drinking well and has no sign of fluid loss.",
+    "Correct. Infants have a high percentage of body water, a large surface area, immature kidneys, and cannot communicate thirst, so fluid balance changes quickly. Ongoing losses with only one wet diaper suggest low output.",
+    "A potassium of 3.8 is within normal limits (3.5–5.0). It needs routine monitoring because of the diuretic but is not urgent.",
+    "This adult is keeping up with losses and producing urine normally."
+   ],
+   "rationale": "Age changes fluid risk. Infants (about 75% body water) lose fluid quickly because of a large body and lung surface area, immature kidneys with little reserve, and dependence on caregivers for intake. An infant with ongoing vomiting and diarrhea and reduced wet diapers is at the highest risk here. The adults are compensating, and the older adult's potassium is normal.",
+   "takeaway": "Infants lose fluid fast. Ongoing losses with few wet diapers move an infant to the front of the line.",
+   "hintContent": "Recall why infants are at higher risk for fluid loss and how output is assessed in infants.",
+   "hintStrategy": "Ask which client has active losses, the least reserve, and evidence of low output."
+  },
+  {
+   "id": "m6r-037",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-body-fluids",
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "stem": "An 88-year-old resident of a long-term care facility says, \"I'm just not thirsty, so I don't drink much.\" Which intervention is most important for the nurse to include in the plan of care?",
+   "options": [
+    "Provide fluids whenever the resident reports feeling thirsty",
+    "Offer a large glass of water at bedtime to meet daily needs",
+    "Add salty snacks between meals to stimulate the sense of thirst",
+    "Offer fluids the resident enjoys on a regular schedule all day"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Older adults have a decreased thirst sensation and can become dehydrated without feeling thirsty, so waiting for thirst is unsafe.",
+    "One large bedtime drink cannot meet a day's needs and may cause nighttime voiding and falls.",
+    "Extra sodium does not fix a weak thirst response, and water follows sodium, which can cause fluid problems.",
+    "Correct. Because thirst is unreliable in older adults, offering preferred fluids on a schedule keeps intake steady without depending on thirst."
+   ],
+   "rationale": "Older adults (about 45–50% body water) have less muscle mass, reduced renal reserve, and a decreased sense of thirst. They may become dehydrated without feeling thirsty. The plan needs to provide intake that does not depend on thirst, so regular, scheduled offerings of preferred fluids work best.",
+   "takeaway": "Older adults may not feel thirsty. Schedule fluids instead of waiting for thirst.",
+   "hintContent": "Recall the age-related changes that put older adults at risk for dehydration.",
+   "hintStrategy": "Eliminate options that rely on thirst or that put the day's intake in one large amount."
+  },
+  {
+   "id": "m6r-038",
+   "type": "sata",
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-intake-output",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A landscaper who works outdoors all summer asks how to stay well hydrated. Which teaching points should the nurse include? Select all that apply.",
+   "options": [
+    "Drink fluids regularly during the workday, even before you feel thirsty.",
+    "Thirst is the most reliable signal of when to drink while working in heat.",
+    "Take an over-the-counter potassium tablet daily to replace what sweat removes.",
+    "Drink most of the day's fluid at once after work to replace what you lost.",
+    "Weigh yourself before and after work. Each kilogram lost is about 1 L of fluid to replace.",
+    "Limit drinking during work to avoid frequent trips to the restroom."
+   ],
+   "answer": [
+    0,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Sweat losses rise with environmental temperature, and thirst lags behind need, so drinking regularly keeps intake matched to output.",
+    "Thirst is triggered only after fluid concentration has started to rise, so it lags behind losses in heat.",
+    "Self-medicating with electrolyte supplements is a risk factor for imbalance. Supplements should be used only with provider guidance.",
+    "Replacing losses all at once lets a deficit build during the workday.",
+    "Correct. Because 1 kg ≈ 1 L, a weight drop over a shift shows how much fluid was lost and needs to be replaced.",
+    "Restricting fluids while sweating heavily increases the risk of dehydration."
+   ],
+   "rationale": "Environmental temperature increases fluid loss through sweating. Thirst is triggered by rising osmolality, so it comes after the body is already behind. Steady intake during work and checking weight before and after work (1 kg ≈ 1 L) help keep intake equal to output. Self-medicating with electrolyte supplements is itself a listed risk.",
+   "takeaway": "In heat, drink on a schedule and use weight change (1 kg ≈ 1 L) to guide replacement.",
+   "hintContent": "Recall how environmental temperature affects fluid loss, what triggers thirst, and the weight–fluid relationship.",
+   "hintStrategy": "Keep the options that keep intake matched to ongoing losses throughout the day. Reject options that wait, delay, or self-medicate."
+  },
+  {
+   "id": "m6r-039",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "stem": "A client started oral prednisone 5 days ago. Today's weight is 1.5 kg higher than it was 2 days ago (same scale, time, and clothing), and the nurse notes new swelling in both ankles. Which action should the nurse take first?",
+   "options": [
+    "Reassure the client that this is an expected steroid effect and continue to monitor",
+    "Hold the next prednisone dose until the swelling in the ankles has resolved",
+    "Report the 1.5-kg weight gain and the new ankle swelling to the HCP",
+    "Encourage extra fluids to help the kidneys flush out the retained sodium"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Steroids commonly cause sodium and water retention, but a 1.5-L gain with new edema is significant and needs to be reported, not just watched.",
+    "Holding a steroid is a prescribing decision. The nurse should not stop it without an HCP order.",
+    "Correct. Corticosteroids cause sodium and water retention. A 1.5-kg gain is about 1.5 L of fluid, and new edema confirms it. The HCP needs this information to adjust the plan.",
+    "Water follows sodium. Adding fluid to a client who is retaining sodium and water adds to the excess."
+   ],
+   "rationale": "Corticosteroids are a listed medication risk factor because they cause sodium and water retention. Water follows sodium, so retained sodium means retained fluid. The nurse links the drug to the 1.5-kg (about 1.5-L) gain and new edema, then reports. Calling an effect \"expected\" does not mean it needs no action.",
+   "takeaway": "Steroids retain Na⁺ and water. A rapid weight gain (1 kg ≈ 1 L) with edema should be reported.",
+   "hintContent": "Recall the effect of corticosteroids on sodium and water, the 1 kg ≈ 1 L rule, and the role of edema in fluid assessment.",
+   "hintStrategy": "Name what the drug is doing, judge whether the amount is significant, and choose the in-scope action that gets the HCP involved."
+  },
+  {
+   "id": "m6r-040",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "stem": "A client with chronic kidney disease has a serum magnesium of 2.9 mEq/L. The client's prescribed medications have not changed. Which question should the nurse ask first?",
+   "options": [
+    "Which over-the-counter antacids or laxatives do you take, and how often?",
+    "How many servings of bananas, potatoes, or avocados do you eat each day?",
+    "How much table salt do you usually add to your food at each of your meals?",
+    "How many glasses of milk or other dairy products do you have each day?"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Magnesium is 2.9, above 2.5 (hypermagnesemia). Many antacids and some laxatives are magnesium-based, and self-medicating with them is a common hidden source, especially when the kidneys cannot excrete the excess.",
+    "These are potassium sources. They would be relevant to a potassium problem, not a high magnesium.",
+    "Table salt is a sodium source and does not explain a high magnesium.",
+    "Dairy is a main source of phosphate and calcium. It is not the most likely explanation for a high magnesium."
+   ],
+   "rationale": "Antacids are magnesium-, bicarbonate-, or calcium-based, and laxatives are listed medication risk factors. Clients often do not think of over-the-counter products as medications. Because the kidneys control most electrolyte output, a client with kidney disease cannot clear extra magnesium well. The first question looks for the most likely hidden source.",
+   "takeaway": "Ask about OTC antacids and laxatives. Many contain magnesium, calcium, or bicarbonate.",
+   "hintContent": "Recall what antacids are based on, which medications affect electrolyte balance, and the role of the kidneys in output.",
+   "hintStrategy": "Match each question to the electrolyte it would explain, and pick the one that matches magnesium and a likely hidden source."
+  },
+  {
+   "id": "m6r-041",
+   "type": "sata",
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-iv-solutions",
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "stem": "A 79-year-old client with heart failure is receiving 0.9% sodium chloride at 100 mL/hr. Which nursing actions are appropriate to monitor for complications of this therapy? Select all that apply.",
+   "options": [
+    "Weigh the client daily under the same conditions.",
+    "Expect the hematocrit to rise as the saline expands blood volume.",
+    "Auscultate lung sounds at regular intervals.",
+    "Increase the rate to catch up if the infusion falls behind schedule.",
+    "Leave the IV volume off the intake record, because the pump already tracks it.",
+    "Compare total intake with output to identify a growing positive balance."
+   ],
+   "answer": [
+    0,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Daily weight is the most sensitive indicator of fluid gain (1 kg ≈ 1 L).",
+    "Isotonic fluids dilute the hematocrit, so it tends to fall, not rise, as volume expands.",
+    "Correct. Monitoring the respiratory system detects fluid buildup early, a key complication of isotonic fluids.",
+    "Speeding up an infusion to catch up can deliver too much fluid quickly, especially in an older adult with heart failure.",
+    "All IV fluids must be recorded as intake. Leaving them off makes the I&O balance inaccurate.",
+    "Correct. Recording all intake and output and comparing them shows whether fluid is accumulating."
+   ],
+   "rationale": "Normal saline expands vascular and extracellular volume. In an older adult with heart failure, the main complication is fluid overload. Monitoring includes daily weights under consistent conditions, recording all I&O (including IV fluids), comparing totals, and assessing the cardiovascular and respiratory systems. Isotonic fluids are also expected to dilute the hematocrit.",
+   "takeaway": "With isotonic fluids, watch for overload: daily weights, complete I&O, lung sounds, and no catch-up boluses.",
+   "hintContent": "Recall what isotonic fluids do to vascular volume and hematocrit, and which monitoring detects fluid overload.",
+   "hintStrategy": "Judge each option separately. Keep actions that detect fluid buildup accurately, and reject ones that add fluid or hide it from the record."
+  },
+  {
+   "id": "m6r-042",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "The nurse teaches a client how to prevent fluid and electrolyte imbalances at home. Which statement by the client indicates a need for further teaching?",
+   "options": [
+    "When I have a fever, I'll drink more, because I lose extra fluid.",
+    "I take a laxative every day to keep my system cleaned out.",
+    "If I can't keep fluids down while I'm vomiting, I'll call my provider.",
+    "I try to make sure what I drink roughly balances what I lose each day."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Accurate. Fever increases insensible losses through the skin and lungs, so intake should increase.",
+    "Correct. This needs more teaching. Laxatives are a listed medication risk factor, and routine use causes fluid and electrolyte loss through the stool.",
+    "Accurate. Ongoing vomiting with no fluid intake is a significant loss that the provider needs to know about.",
+    "Accurate. Balance occurs when intake roughly equals output."
+   ],
+   "rationale": "Prevention teaching centers on keeping intake equal to output and recognizing situations that increase losses, such as fever, vomiting, and diarrhea. Medications such as laxatives, diuretics, antacids, and corticosteroids can also disrupt balance. Daily laxative use for \"cleansing\" causes ongoing GI losses of fluid and electrolytes.",
+   "takeaway": "Intake should equal output. Routine laxative use is a preventable cause of fluid and electrolyte loss.",
+   "hintContent": "Recall the risk factors for fluid and electrolyte disturbances, including medications, and the principle of balance.",
+   "hintStrategy": "\"Further teaching\" means find the unsafe or incorrect statement. Check each against the list of risk factors."
+  },
+  {
+   "id": "m6r-043",
+   "type": "sata",
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-body-fluids"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "A nurse is reviewing how age affects fluid balance. Which statements are accurate? Select all that apply.",
+   "options": [
+    "Older adults often have a decreased sense of thirst.",
+    "Infants have a lower percentage of body water than adults.",
+    "Older adults have more muscle mass and therefore more total body water.",
+    "Infants' immature kidneys conserve water better than adult kidneys.",
+    "Older adults have fewer functioning nephrons and less renal reserve.",
+    "Infants have a small body surface area for their size, so they lose fluid slowly."
+   ],
+   "answer": [
+    0,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Decreased thirst means older adults can become dehydrated without feeling thirsty.",
+    "Infants have a higher percentage of body water (newborn about 75%, adult about 60%).",
+    "Older adults have less muscle mass and therefore less total body water (about 45–50%).",
+    "Immature infant kidneys have limited reserve and do not conserve water well.",
+    "Correct. Reduced renal reserve from fewer functioning nephrons limits the older adult's ability to adjust to fluid changes.",
+    "Infants have a large body and lung surface area relative to their size, which allows rapid fluid exchange and loss."
+   ],
+   "rationale": "Both ends of the lifespan carry higher fluid risk for different reasons. Infants have more body water, a large surface area, immature kidneys, and cannot communicate thirst, so they lose fluid quickly. Older adults have less body water (less muscle), a decreased thirst sensation, and reduced renal reserve, so they become dehydrated easily, sometimes without feeling thirsty.",
+   "takeaway": "Infants: more water, more surface area, immature kidneys. Older adults: less water, less thirst, less renal reserve.",
+   "hintContent": "Recall body water percentages across the lifespan and the specific risk factors for infants and older adults.",
+   "hintStrategy": "Check each statement for a reversed direction (more versus less, faster versus slower). Those are the false ones."
+  },
+  {
+   "id": "m6r-044",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
+   "stem": "A client with extensive burns is to receive an infusion of dextran 40. Which assessment is the nurse's priority during the first minutes of the infusion?",
+   "options": [
+    "Comparing the client's current weight with the admission weight",
+    "Measuring hourly urine output against the 0.5 mL/kg/hr minimum",
+    "Reviewing the most recent serum sodium and potassium results",
+    "Watching closely for hives, wheezing, or throat tightness"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Weight trends are important in burn care but are compared daily, not minute by minute during the start of an infusion.",
+    "Hourly urine output is a key ongoing assessment but takes time to reflect the infusion. It is not the immediate concern in the first minutes.",
+    "Reviewing electrolytes is part of ongoing monitoring but does not detect the most immediate, life-threatening risk of this infusion.",
+    "Correct. Dextran 40 is an artificial colloid, and the main nursing consideration for colloids is the risk of anaphylaxis, which can develop within minutes of starting the infusion."
+   ],
+   "rationale": "Colloids, including albumin and the artificial colloid dextran 40, contain large molecules that stay in the vascular space and pull fluid in, which is why they are used in burns and shock. The key nursing consideration is the risk of anaphylaxis. Because a reaction can happen early and threatens the airway, close observation in the first minutes comes before ongoing fluid-balance assessments.",
+   "takeaway": "Colloids such as dextran carry a risk of anaphylaxis. Watch closely when the infusion starts.",
+   "hintContent": "Recall the type of solution dextran 40 is and its main nursing consideration.",
+   "hintStrategy": "Ask which complication could appear within minutes and threaten life. Ongoing trend assessments can come after."
+  },
+  {
+   "id": "m6r-045",
+   "type": "sata",
+   "topic": "fe-risk-interventions",
+   "alsoTests": [
+    "fe-assessment-diagnostics",
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Risk Factors, Medications & Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "stem": "The nurse is recording a client's intake for the shift. Which items should be recorded as intake? Select all that apply.",
+   "options": [
+    "A 100-mL IV antibiotic piggyback",
+    "A cup of gelatin, which is liquid at room temperature",
+    "Estimated fluid lost through rapid breathing",
+    "Enteral tube feeding and water flushes",
+    "Mashed potatoes eaten at lunch",
+    "Saline instilled to irrigate the nasogastric tube"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. IV medications add fluid and are recorded as intake.",
+    "Correct. Foods that are liquid at room temperature, such as gelatin, count as oral fluid intake.",
+    "Fluid lost through breathing is an insensible loss. It is not measurable, is not included in I&O, and would be output, not intake.",
+    "Correct. Tube feedings and flushes are fluid intake.",
+    "Water in solid food is part of daily intake, but it is not measured or recorded on the I&O record.",
+    "Correct. Irrigation fluids instilled into a tube are recorded as intake."
+   ],
+   "rationale": "Monitoring fluid balance means recording all measurable intake and output. Intake includes oral fluids (including foods that are liquid at room temperature), tube feedings and flushes, IV fluids and IV medications, and irrigation fluids. Insensible losses through the skin and lungs are not included in I&O totals, and the water in solid foods is not measured.",
+   "takeaway": "Record every measurable fluid in: oral liquids, feedings, flushes, IV fluids and meds, and irrigations.",
+   "hintContent": "Recall the categories of intake listed for I&O and the difference between measurable and insensible fluid.",
+   "hintStrategy": "For each item, ask whether it is fluid going in and whether it can be measured. Both must be true."
+  }
+ ]
+});

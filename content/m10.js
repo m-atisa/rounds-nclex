@@ -916,30 +916,30 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "alsoTests": [
     "assessment-diagnostics"
    ],
-   "stem": "On postoperative day 4, the nurse finds thick, opaque, yellow-green drainage with a foul odor on a client's abdominal dressing. The client's temperature is 37.2 °C (99.0 °F). How should the nurse interpret this finding?",
+   "stem": "On postoperative day 4 after an open bowel resection, the nurse finds moderate thick, opaque, yellow-green drainage with a foul odor on the abdominal dressing. T 37.2 °C (99.0 °F), HR 84/min, WBC 9,400/mm³. Which interpretation by the nurse is accurate?",
    "options": [
-    "Serosanguineous drainage that is expected and needs only continued monitoring",
-    "Serous drainage showing plasma leak from normal early inflammation",
-    "Purulent drainage suggesting infection even with a normal temperature",
-    "Fibrinous drainage showing clotting protein that seals the incision"
+    "Serosanguineous drainage that is expected this early and needs only continued monitoring",
+    "Purulent drainage, but the normal temperature and WBC mean it can wait for the next dressing change",
+    "Purulent drainage that suggests a wound infection and is reported despite the normal values",
+    "Fibrinous drainage made of clotting protein that is helping to seal the incision edges"
    ],
    "answer": 2,
    "optionRationales": [
-    "Serosanguineous drainage is thin and pale pink. Thick, colored, foul drainage is not expected on day 4.",
-    "Serous drainage is thin, clear to straw-colored, and odorless. It does not match thick yellow-green drainage.",
-    "Correct. Thick, opaque, colored, foul-smelling exudate is purulent (dead neutrophils, debris, often bacteria). A normal temperature does not rule out a wound infection, so the finding is reported.",
-    "Fibrinous exudate is sticky and stringy and forms adhesions. It is not described as yellow-green and foul-smelling."
+    "Serosanguineous drainage is thin and pale pink. Thick, opaque, yellow-green, foul drainage is not expected on day 4.",
+    "The drainage type is right, but the conclusion is wrong. An infected wound can have a normal temperature and WBC, so waiting delays care for a local infection.",
+    "Correct. Thick, opaque, colored, foul-smelling exudate is purulent (dead neutrophils, debris, often bacteria). Local wound findings matter on their own, so the nurse reports it even though the temperature and WBC are normal.",
+    "Fibrinous exudate is sticky and stringy and can form adhesions. It is not described as yellow-green and foul-smelling."
    ],
-   "rationale": "Stage 2 exudate is classified by appearance. Purulent drainage is thick, cloudy, and colored, often with odor, because it is full of dead neutrophils and debris. Assessment teaching adds that local findings matter on their own: an infected wound can still have a normal temperature, so the nurse reports it rather than waiting for fever.",
-   "takeaway": "Thick, colored, foul drainage = purulent = report, even if the temperature is normal.",
+   "rationale": "Stage 2 exudate is classified by its appearance. Purulent drainage is thick, cloudy, and colored, often with an odor, because it is full of dead neutrophils and debris. The assessment lesson adds a second point: systemic markers can stay normal while a local wound infection develops. So the nurse names the drainage correctly and reports it rather than waiting for a fever or a rising WBC.",
+   "takeaway": "Thick, colored, foul drainage = purulent = report, even when the temperature and WBC are normal.",
    "hintContent": "Combine the exudate types from Stage 2 with what the assessment lesson says about temperature and local wound signs.",
-   "hintStrategy": "Name the drainage type from its color and consistency first, then decide whether the normal temperature changes what it means."
+   "hintStrategy": "Name the drainage type from its color and consistency first, then decide whether normal systemic values change what the nurse should do."
   },
   {
    "id": "m10-005",
@@ -971,7 +971,7 @@ window.NURSE_DATA.push({
    "rationale": "The nurse combines two cues. The drainage type (thin, pale pink = serosanguineous) is expected in Stage 2 shortly after surgery. The vital signs (T below 38.5 °C, HR below 90, RR below 20, normal BP) show no systemic response or bleeding. So the priority is to keep monitoring the amount and character, tracking the trend.",
    "takeaway": "Early serosanguineous drainage + normal vital signs = expected; mark it and monitor the trend.",
    "hintContent": "Connect the exudate type expected after surgery with the systemic cutoffs for temperature, heart rate, and respiratory rate.",
-   "hintStrategy": "Ask whether anything here is abnormal. If both the drainage and the vital signs are expected, choose the monitoring action."
+   "hintStrategy": "Classify the drainage by its appearance and compare each vital sign with its cutoff before deciding whether anything here needs escalation."
   },
   {
    "id": "m10-006",
@@ -1013,28 +1013,28 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "alsoTests": [],
-   "stem": "The nurse assesses a client's open leg wound 10 days after debridement. Which combination of findings best indicates that the reparative phase is progressing as expected?",
+   "stem": "The nurse assesses a client's open leg wound 10 days after debridement. Which set of findings best indicates that the reparative phase is progressing as expected?",
    "options": [
-    "Beefy red, moist, granular bed that bleeds slightly, with scant serous drainage",
-    "Pale pink, dry bed with a thin gray film, and drainage that has turned cloudy",
-    "Yellow, stringy tissue stuck to the base, with an odor that persists after cleansing",
-    "Black, leathery tissue over most of the bed, with pain rising from 2/10 to 6/10"
+    "Beefy red, moist, granular bed, with drainage that has changed from serous to thick and tan",
+    "Beefy red bed that bleeds slightly when touched, with scant serous drainage",
+    "Pale pink, dry bed with no drainage, and pain that has decreased to 1/10",
+    "Moist, granular bed with length down 1 cm, and pain rising from 2/10 to 6/10"
    ],
-   "answer": 0,
+   "answer": 1,
    "optionRationales": [
-    "Correct. Beefy red, moist, granular tissue that bleeds slightly is healthy granulation tissue full of new capillaries, and scant, decreasing serous drainage fits normal progression.",
-    "A pale, gray, dry bed suggests poor blood supply or stalled healing, and cloudy drainage suggests infection.",
-    "Yellow, stringy tissue adhering to the base is dead tissue that blocks repair, and persistent odor after cleansing suggests infection.",
-    "Black, leathery tissue is dead tissue (eschar) that must be removed before repair can proceed, and rising pain is a warning sign."
+    "The bed looks healthy, but drainage that turns thick and tan is moving toward purulent exudate and suggests infection; healthy drainage decreases and stays serous.",
+    "Correct. Beefy red tissue that bleeds slightly is healthy granulation tissue full of new capillaries, and scant serous drainage fits the expected late-healing trend.",
+    "Decreasing pain is good, but a pale, dry bed suggests poor blood supply and stalled repair; healthy granulation tissue is beefy red and moist.",
+    "A shrinking, granular wound is encouraging, but pain should decrease as repair progresses; a rise from 2/10 to 6/10 suggests infection."
    ],
-   "rationale": "In Stage 3 the wound fills with granulation tissue: fragile, beefy red, moist, and granular with many new capillaries, so it bleeds slightly when touched. Drainage should be decreasing and serous. Pale, gray, yellow, or black tissue, cloudy drainage, persistent odor, and rising pain all indicate impaired healing or infection.",
-   "takeaway": "Beefy red, moist granulation + scant serous drainage = healing on track.",
-   "hintContent": "Recall what granulation tissue looks like and how drainage should change as repair progresses.",
-   "hintStrategy": "Check BOTH findings in each option; the correct choice has no warning sign in either half."
+   "rationale": "In Stage 3 the wound fills with granulation tissue: fragile, beefy red, moist, and granular with many new capillaries, so it bleeds slightly when touched. Drainage should decrease and become serous, the wound should shrink, and pain should lessen. Each distractor pairs a healthy finding with one warning sign (drainage turning thick, a pale dry bed, or rising pain), so every finding has to be checked.",
+   "takeaway": "Healing on track = beefy red, moist granulation + scant serous drainage + less pain; a single warning sign means it is not on track.",
+   "hintContent": "Recall what healthy granulation tissue looks like and how drainage, wound size, and pain should change as repair progresses.",
+   "hintStrategy": "Each option mixes findings; judge every finding separately and keep only the set with no warning sign."
   },
   {
    "id": "m10-008",
@@ -1108,30 +1108,30 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "alsoTests": [
     "mediators"
    ],
-   "stem": "A client received IM epinephrine for anaphylaxis after a bee sting. Breathing is now easy, but the client feels lightheaded; BP is 88/54 mm Hg. Which action should the nurse take first?",
+   "stem": "A client received IM epinephrine 3 minutes ago for anaphylaxis after a bee sting. Breathing is now easy and the wheezing has cleared, but the client feels lightheaded; BP is 88/54 mm Hg and SpO₂ is 95% on room air. Which action should the nurse take first?",
    "options": [
-    "Place the client in high Fowler's position to ease breathing",
-    "Help the client stand and walk slowly to the stretcher",
-    "Sit the client in a chair and give an oral antihistamine",
+    "Raise the head of the bed to high Fowler's position to keep breathing easy",
+    "Begin the prescribed 0.9% sodium chloride IV fluid bolus",
+    "Give a second dose of IM epinephrine right now",
     "Place the client supine with the legs elevated"
    ],
    "answer": 3,
    "optionRationales": [
-    "High Fowler's position is for a client whose main problem is breathing with a stable BP. Here breathing has improved but the BP is low, and sitting up worsens hypotension.",
-    "Standing or walking while hypotensive after anaphylaxis can cause sudden collapse because blood pools in dilated vessels.",
-    "An oral antihistamine does not treat hypotension, and a chair keeps the client upright while the BP is low.",
-    "Correct. Widespread vasodilation and capillary leak are still lowering circulating volume. Lying flat with the legs raised supports blood return to the heart while oxygen, IV fluids, and a repeat epinephrine dose are prepared."
+    "High Fowler's position suits a client whose main problem is breathing with a stable BP. Breathing has improved here, and sitting up worsens the hypotension that is now the active problem.",
+    "An isotonic bolus is appropriate for persistent hypotension, but setting it up takes time; positioning supports venous return immediately and comes first.",
+    "Epinephrine may be repeated every 5–15 minutes if symptoms continue. Only 3 minutes have passed, so the nurse positions the client and prepares a repeat dose in case the BP does not improve.",
+    "Correct. Widespread vasodilation and capillary leak are still lowering circulating volume. Lying flat with the legs raised immediately supports blood return to the heart while the fluid bolus and a possible repeat dose are prepared."
    ],
-   "rationale": "After epinephrine the airway improved, but lightheadedness and BP 88/54 show circulation is still poor from mediator-driven vasodilation and fluid leak. The first action is positioning: supine with legs elevated. The client must not stand or walk. Oxygen, an isotonic fluid bolus, monitoring, and a repeat dose if needed follow.",
-   "takeaway": "Hypotension after anaphylaxis: flat with legs up; never stand or walk.",
-   "hintContent": "Relate the persistent low BP to what vasodilation and capillary leak do to blood volume, then recall positioning rules.",
-   "hintStrategy": "Identify which problem is still active (airway or circulation) and choose the position that treats that problem."
+   "rationale": "After epinephrine the airway improved, but lightheadedness and BP 88/54 show circulation is still poor from mediator-driven vasodilation and fluid leak. All four options involve real anaphylaxis care, so timing decides: positioning takes seconds and helps right away, the IV bolus follows, and a repeat epinephrine dose is due only if symptoms persist 5–15 minutes after the first. The client must not sit up, stand, or walk.",
+   "takeaway": "Hypotension after epinephrine: flat with legs up first, then fluids, and repeat epinephrine at 5–15 minutes if needed.",
+   "hintContent": "Relate the persistent low BP to what vasodilation and capillary leak do to blood volume, and recall when a repeat epinephrine dose is due.",
+   "hintStrategy": "Decide which problem is still active (airway or circulation), then compare how quickly each option can help that problem right now."
   },
   {
    "id": "m10-011",
@@ -1140,7 +1140,7 @@ window.NURSE_DATA.push({
    "clientNeed": "Health Promotion and Maintenance",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "alsoTests": [
@@ -1148,22 +1148,22 @@ window.NURSE_DATA.push({
    ],
    "stem": "A client treated for anaphylaxis after a yellow jacket sting is being discharged with two epinephrine auto-injectors and an allergist referral. Which statement by the client indicates understanding of the teaching?",
    "options": [
-    "“My next sting will probably be milder because my body has already reacted once.”",
-    "“I can take an antihistamine before yard work instead of carrying epinephrine.”",
+    "“I'll keep one auto-injector in my car's glove box so it's always close by.”",
+    "“If I'm stung and my lips start to swell, I'll take an antihistamine first and wait.”",
     "“I'll wear closed shoes outside and keep my drinks covered at picnics.”",
-    "“I only need to carry my auto-injectors during the warm summer months.”"
+    "“After I use my auto-injector, I'll call 911 only if I don't start to feel better.”"
    ],
    "answer": 2,
    "optionRationales": [
-    "The client is already sensitized, with IgE on mast cells. A future sting can trigger a reaction as severe or worse, not milder.",
-    "An antihistamine never replaces epinephrine; it does not prevent or reverse airway swelling or shock.",
-    "Correct. Prevention of inflammation means avoiding triggers. Closed shoes and covered drinks reduce the chance of another sting.",
-    "Auto-injectors should be carried at all times, all year; reactions can happen whenever the trigger is met."
+    "Epinephrine should be stored at room temperature, not in a hot car, and the client should carry two auto-injectors at all times rather than leaving one in the car.",
+    "Lip swelling is an airway sign of anaphylaxis. An antihistamine never replaces epinephrine, and waiting delays life-saving care.",
+    "Correct. Prevention means avoiding the trigger. Closed shoes and covered drinks reduce the chance of another sting.",
+    "Symptoms can return after epinephrine wears off, so the client calls 911 after every use, even when feeling better."
    ],
-   "rationale": "Health promotion teaching for inflammation centers on trigger avoidance, and anaphylaxis pathophysiology explains why: once sensitized, the next exposure can cause another severe reaction. Avoiding stings (closed shoes, covered drinks), carrying two auto-injectors year-round, and never substituting an antihistamine are the key points.",
-   "takeaway": "After anaphylaxis: avoid the trigger, carry two auto-injectors always, and never rely on an antihistamine.",
-   "hintContent": "Combine what sensitization means for the next exposure with the prevention principle of avoiding triggers.",
-   "hintStrategy": "Rule out any statement that expects a milder reaction or replaces epinephrine, then pick the one that reduces exposure."
+   "rationale": "Once sensitized, the client can have another severe reaction with the next sting. Discharge teaching therefore covers avoiding the trigger (closed shoes, covered drinks), carrying two auto-injectors stored at room temperature at all times, using epinephrine rather than an antihistamine at the first sign of a serious reaction, and calling 911 after every use because symptoms can return.",
+   "takeaway": "After anaphylaxis: avoid the trigger, carry two auto-injectors at room temperature, use epinephrine first, and call 911 after every use.",
+   "hintContent": "Combine what sensitization means for the next exposure with trigger avoidance and the rules for carrying and using epinephrine.",
+   "hintStrategy": "Test each statement against storage, first-line drug, and follow-up rules; a statement that sounds sensible can still contain one unsafe detail."
   },
   {
    "id": "m10-012",
@@ -1237,7 +1237,7 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "alsoTests": [],
@@ -1335,30 +1335,30 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Pharmacology",
    "alsoTests": [
     "lifespan"
    ],
-   "stem": "The parent of an 8-year-old with influenza asks whether the child can take aspirin for fever and body aches. Which response is most important for the nurse to make?",
+   "stem": "The parent of a 16-year-old who weighs 62 kg (137 lb) and has influenza asks whether the teen can take aspirin for fever and body aches. Which response is most important for the nurse to make?",
    "options": [
-    "“Do not use aspirin; it is linked to Reye syndrome during viral illness.”",
-    "“Aspirin is fine if you give it with food to protect the stomach lining.”",
-    "“Alternate aspirin with ibuprofen every 3 hours to keep the fever down.”",
-    "“Give an adult aspirin tablet, since an 8-year-old can take adult doses.”"
+    "“Avoid aspirin; with influenza at his age, it is linked to Reye syndrome.”",
+    "“At his weight he can safely take an adult aspirin dose if he takes it with food.”",
+    "“Give aspirin only if his temperature rises above 38.5 °C (101.3 °F).”",
+    "“Aspirin is fine for now, but stop it if he starts to notice ringing in his ears.”"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Aspirin given to a child or teen with a viral illness such as influenza is linked to Reye syndrome, which can injure the brain and liver. The child's age plus the viral illness makes this the essential teaching.",
-    "Food protects the stomach but does not remove the Reye syndrome risk, which is the main danger here.",
-    "Any aspirin use during influenza carries the Reye syndrome risk, and combining two prostaglandin blockers adds GI risk without benefit.",
-    "Children need weight-based dosing, and aspirin should not be given at all during a viral illness."
+    "Correct. The Reye syndrome risk applies to children and teens with a viral illness such as influenza, regardless of adult body size. Aspirin is avoided, and other antipyretics are used as prescribed.",
+    "Adult body size does not remove the Reye syndrome risk, which is linked to age plus a viral illness. Food protects the stomach but does not address that risk.",
+    "The danger is aspirin during a viral illness at this age, not the height of the fever. A temperature threshold does not make aspirin safe.",
+    "Tinnitus is an early sign of salicylate toxicity, a real aspirin danger, but the main concern here is Reye syndrome, which can occur at ordinary doses."
    ],
-   "rationale": "The lifespan lesson reminds nurses to avoid aspirin for fever or pain in children with viral illness, and the pharmacology lesson explains why: Reye syndrome. Recognizing both the age group and the viral trigger makes avoiding aspirin the most important response.",
-   "takeaway": "Child or teen + viral illness + aspirin = Reye syndrome risk; do not give it.",
-   "hintContent": "Combine the child's age and viral illness with the specific danger of salicylates.",
-   "hintStrategy": "Look for the response that prevents the most serious harm, not the one that only reduces a side effect."
+   "rationale": "The lifespan and pharmacology lessons connect here: aspirin given to a child or teen during a viral illness such as influenza or chickenpox is linked to Reye syndrome, which injures the brain and liver. A teen's adult body size does not change this. The most important response prevents that serious harm rather than managing a side effect or setting a dose.",
+   "takeaway": "Child or teen + viral illness + aspirin = Reye syndrome risk, even at adult size; do not give it.",
+   "hintContent": "Combine the client's age group and viral illness with the specific dangers of salicylates.",
+   "hintStrategy": "Look for the response that prevents the most serious harm, not one that only manages a side effect or a dose."
   },
   {
    "id": "m10-017",
@@ -1403,22 +1403,22 @@ window.NURSE_DATA.push({
    "alsoTests": [],
    "stem": "A client has taken prednisone 40 mg daily for 4 weeks for an asthma flare. The client says, “I feel great now, so I'm going to stop the prednisone tomorrow.” Which response by the nurse is the priority?",
    "options": [
-    "“That's fine, since your breathing symptoms have fully resolved now.”",
-    "“Skip every other day for a week, and then stop taking it completely.”",
-    "“Keep taking it until you finish the bottle, and then you can stop it.”",
+    "“That's reasonable, since 4 weeks is too short to affect your adrenal glands.”",
+    "“Cut the dose in half tomorrow, and then stop taking it the next day.”",
+    "“You can stop, but call right away if you start to feel weak or dizzy.”",
     "“Stopping suddenly is unsafe; the dose must be tapered as prescribed.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "Stopping abruptly after 4 weeks of steroids can cause adrenal insufficiency even if symptoms have resolved.",
-    "A self-made skipping schedule is not a prescribed taper and can still cause adrenal insufficiency.",
-    "Finishing the bottle and stopping is still an abrupt stop without a taper.",
+    "Four weeks of 40 mg daily is long enough to suppress the adrenal glands; stopping abruptly can cause adrenal insufficiency even though symptoms have resolved.",
+    "A self-made two-day reduction is not a prescribed taper and can still cause adrenal insufficiency.",
+    "Weakness and dizziness are signs of adrenal insufficiency, but the goal is to prevent it with a prescribed taper, not to wait for symptoms.",
     "Correct. Long-term steroids suppress the body's own cortisol production. The provider must set a taper so the adrenal glands can recover; stopping suddenly can cause weakness, dizziness, and low BP."
    ],
    "rationale": "Corticosteroid pills make the adrenal glands stop producing cortisol. If they are stopped suddenly after weeks of use, the client may develop adrenal insufficiency. The priority response is to explain that the dose must be tapered exactly as the provider prescribes.",
    "takeaway": "Never stop long-term steroids suddenly; taper as prescribed.",
    "hintContent": "Recall what long-term steroid use does to the adrenal glands.",
-   "hintStrategy": "Rule out every option that ends the drug abruptly, however it is phrased."
+   "hintStrategy": "Ask which response prevents adrenal insufficiency rather than reacting to it after it starts."
   },
   {
    "id": "m10-019",
@@ -1427,28 +1427,28 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
-   "cjmm": "Recognize Cues",
+   "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
    "focus": "Pharmacology",
    "alsoTests": [],
-   "stem": "A client with type 2 diabetes controlled with metformin is started on IV methylprednisolone for a severe rheumatoid arthritis flare. Which finding is most important for the nurse to monitor for?",
+   "stem": "A client with type 2 diabetes managed with metformin is on day 2 of IV methylprednisolone for a severe rheumatoid arthritis flare. Which finding is most important for the nurse to follow up?",
    "options": [
-    "Blood glucose below 70 mg/dL",
-    "Serum potassium above 5.0 mEq/L",
-    "Blood glucose above 180 mg/dL",
-    "Heart rate below 60 beats/min"
+    "Weight up 0.6 kg (1.3 lb) since admission",
+    "Serum potassium of 3.4 mEq/L",
+    "Capillary blood glucose of 286 mg/dL",
+    "BP 138/84 mm Hg, up from 128/78 mm Hg"
    ],
    "answer": 2,
    "optionRationales": [
-    "Corticosteroids raise blood glucose; hypoglycemia is not the expected effect.",
-    "Corticosteroids tend to lower potassium, so hyperkalemia is not the expected concern.",
-    "Correct. Corticosteroids cause hyperglycemia, and a client with diabetes may need closer glucose checks and more insulin or medication.",
-    "Bradycardia is not a typical effect of corticosteroids."
+    "Fluid retention and weight gain are expected steroid effects; a small gain over 2 days is monitored but is not the most significant finding.",
+    "Steroids lower potassium, and 3.4 mEq/L is just below the normal 3.5–5.0 mEq/L. It needs monitoring but is far less dangerous right now than the glucose.",
+    "Correct. Corticosteroids cause hyperglycemia, and in a client with diabetes a glucose of 286 mg/dL is markedly high; the provider may need to adjust insulin or other glucose-lowering therapy.",
+    "Fluid retention can raise BP, but this small rise stays in an acceptable range and does not need urgent action."
    ],
-   "rationale": "Corticosteroids have 'too much cortisol' effects: blood sugar up, potassium down, bones thin, infection hidden. In a client with diabetes, hyperglycemia is the most important effect to watch, so glucose monitoring increases.",
-   "takeaway": "Steroids raise glucose; watch closely in clients with diabetes.",
-   "hintContent": "Recall the metabolic effects of corticosteroids.",
-   "hintStrategy": "Consider the client's history and choose the steroid effect most likely to harm this client."
+   "rationale": "All four findings are 'too much cortisol' effects of corticosteroids, so the question is which one matters most for this client. A slight weight gain, a borderline-low potassium, and a mild BP rise are expected and monitored. A glucose of 286 mg/dL in a client with diabetes is markedly elevated and can worsen quickly, so it is followed up first.",
+   "takeaway": "Steroid effects: sugar up, potassium down, fluid and BP up; in a client with diabetes, hyperglycemia is usually the most significant.",
+   "hintContent": "Recall the metabolic and fluid effects of corticosteroids and how a client's chronic conditions change which effect matters most.",
+   "hintStrategy": "Expect every option to be a real steroid effect; judge how far each value is from normal and how much harm it could cause this client."
   },
   {
    "id": "m10-020",
@@ -1542,7 +1542,7 @@ window.NURSE_DATA.push({
    "rationale": "The anti-inflammatory diet emphasizes fruits, vegetables, fish, whole grains, olive oil, and omega-3 fats, and limits the Western diet of fast food, sugar, saturated fat, and low fiber.",
    "takeaway": "Anti-inflammatory plate: fish, vegetables, whole grains, olive oil.",
    "hintContent": "Recall the foods on the anti-inflammatory diet and those in the Western diet.",
-   "hintStrategy": "Eliminate meals with fried, processed, sugary, or high-saturated-fat items."
+   "hintStrategy": "Sort each meal's ingredients into the anti-inflammatory pattern or the Western pattern before choosing."
   },
   {
    "id": "m10-023",
@@ -1725,39 +1725,38 @@ window.NURSE_DATA.push({
    "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "sata",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "alsoTests": [
     "inflammation-overview"
    ],
-   "stem": "A client with right lower lobe pneumonia is being assessed for signs that the inflammation has become systemic rather than only local. Which findings are systemic signs of inflammation? Select all that apply.",
+   "stem": "A client with right lower lobe pneumonia is being assessed for signs that the inflammation has become systemic rather than only local. Which findings are systemic signs of inflammation according to the course cutoffs? Select all that apply.",
    "options": [
     "Temperature 39.1 °C (102.4 °F)",
     "Heart rate 104 beats/min",
     "Crackles over the right lower lobe",
-    "WBC 14,600/mm³",
-    "Respiratory rate 18 breaths/min",
-    "Fatigue and loss of appetite"
+    "WBC 11,400/mm³ with 13% bands",
+    "Respiratory rate 20 breaths/min",
+    "Sharp right-sided chest pain with deep breaths"
    ],
    "answer": [
     0,
     1,
-    3,
-    5
+    3
    ],
    "optionRationales": [
     "Correct. A temperature above 38.5 °C is a systemic sign.",
     "Correct. A heart rate above 90 is a systemic sign.",
     "Crackles over the affected lobe are a local finding at the site of lung inflammation.",
-    "Correct. A WBC above 12,000/mm³ is a systemic sign.",
-    "A respiratory rate of 18 is below the systemic cutoff of 20.",
-    "Correct. Fatigue and loss of appetite are generalized effects of mediators circulating through the body."
+    "Correct. The total WBC is just under 12,000/mm³, but increased bands (normal about 0–5%) also meet the systemic criterion; always check the differential.",
+    "A respiratory rate of exactly 20 does not exceed the cutoff of more than 20 breaths/min.",
+    "Pain over the inflamed lung is local pain (dolor) at the site, not a whole-body effect."
    ],
-   "rationale": "Local findings occur at the inflamed organ (crackles over the affected lobe). Systemic findings show the mediators have reached the whole body: T above 38.5 °C or below 36 °C, HR above 90, RR above 20, WBC above 12,000/mm³ or increased bands, plus fatigue and loss of appetite.",
-   "takeaway": "Systemic cutoffs: T >38.5 °C or <36 °C, HR >90, RR >20, WBC >12,000 or ↑ bands, plus fatigue and anorexia.",
-   "hintContent": "Sort findings into local (at the lung) and systemic, using the course cutoffs for vital signs and WBC.",
-   "hintStrategy": "Compare each number to its cutoff and ask whether each non-numeric finding is at the site or whole-body."
+   "rationale": "Local findings occur at the inflamed organ (crackles and pain over the affected lobe). Systemic findings show mediators have reached the whole body: T above 38.5 °C or below 36 °C, HR above 90, RR above 20, and WBC above 12,000/mm³ or increased bands. A total WBC just under the cutoff still counts when the bands are high, and a value sitting exactly at a 'more than' cutoff does not.",
+   "takeaway": "Systemic = T >38.5 °C or <36 °C, HR >90, RR >20, WBC >12,000 OR ↑ bands; a value exactly at the cutoff does not count.",
+   "hintContent": "Sort findings into local (at the lung) and systemic, using the exact course cutoffs and the WBC differential.",
+   "hintStrategy": "Compare each number to its cutoff, noting where the cutoff says 'more than'; for the WBC, check both the total and the bands."
   },
   {
    "id": "m10-029",
@@ -1816,21 +1815,20 @@ window.NURSE_DATA.push({
     "Elevated blood glucose",
     "Infection with only a low-grade fever and little redness",
     "Decreased bone density",
-    "Serum potassium of 3.1 mEq/L",
+    "Serum potassium of 5.6 mEq/L",
     "Weight loss with a thin, drawn face",
     "Hypoglycemia on waking"
    ],
    "answer": [
     0,
     1,
-    2,
-    3
+    2
    ],
    "optionRationales": [
     "Correct. Corticosteroids raise blood glucose.",
     "Correct. Steroids suppress the inflammatory response, so the usual assessment cues of infection (fever, redness, swelling) may be blunted; subtle changes must be reported.",
     "Correct. Long-term steroids cause bone loss (osteoporosis).",
-    "Correct. Steroids lower potassium; 3.1 mEq/L is below the normal 3.5–5.0 mEq/L.",
+    "Steroids lower potassium (hypokalemia); a potassium of 5.6 mEq/L is high, which is the opposite of the expected effect.",
     "Steroids cause fluid retention, weight gain, and a round ('moon') face, not weight loss.",
     "Steroids cause hyperglycemia, not hypoglycemia."
    ],
@@ -1890,31 +1888,29 @@ window.NURSE_DATA.push({
    "alsoTests": [
     "acute-chronic"
    ],
-   "stem": "The nurse is counseling a client about reducing the risk of chronic inflammatory disease. Which risk factors can the client modify? Select all that apply.",
+   "stem": "The nurse is counseling a 58-year-old client about reducing the risk of chronic inflammatory disease. Which risk factors can the client modify? Select all that apply.",
    "options": [
-    "Cigarette smoking",
-    "Obesity",
+    "Smoking one pack of cigarettes per day",
     "A parent with rheumatoid arthritis",
-    "A diet high in fast food and sugar",
-    "Advancing age",
-    "Poorly controlled hypertension"
+    "Being 58 years old",
+    "Poorly controlled type 2 diabetes",
+    "A sister who has systemic lupus erythematosus",
+    "An inherited variant in the IL-23/IL-17 cytokine pathway"
    ],
    "answer": [
     0,
-    1,
-    3,
-    5
+    3
    ],
    "optionRationales": [
     "Correct. Not smoking is a modifiable factor; smoke is a persistent irritant that sustains chronic inflammation such as COPD.",
-    "Correct. Obesity is linked to chronic inflammation, and weight can be changed.",
     "Family history is a nonmodifiable risk factor, along with genetics and age.",
-    "Correct. The Western diet (fast food, sugar, low fiber) promotes inflammation and can be changed.",
     "Age is nonmodifiable; chronic inflammation is linked to aging.",
-    "Correct. Controlling hypertension and diabetes is listed as a modifiable risk."
+    "Correct. Control of hypertension and diabetes is listed as a modifiable risk factor; the diagnosis stays, but its control can change.",
+    "A sibling with an autoimmune disease is family history, which cannot be changed.",
+    "Genetics is nonmodifiable. About 450 genetic loci and the IL-23/IL-17 pathway are linked to inflammation, but the client cannot change them."
    ],
-   "rationale": "Chronic inflammatory disease has nonmodifiable risks (genetics, age, family history) and modifiable ones (smoking, weight, exercise, diet, and control of hypertension and diabetes). Knowing which is which lets the nurse focus teaching on what the client can change.",
-   "takeaway": "Modifiable = habits and controllable conditions; nonmodifiable = genes, age, family history.",
+   "rationale": "Chronic inflammatory disease has nonmodifiable risks (genetics, age, family history) and modifiable ones (smoking, weight, exercise, diet, and control of hypertension and diabetes). A parent with RA, a sister with SLE, the client's age, and an inherited cytokine-pathway variant cannot be changed, so teaching focuses on smoking cessation and better diabetes control.",
+   "takeaway": "Modifiable = habits and the control of conditions like diabetes; nonmodifiable = genes, age, family history.",
    "hintContent": "Recall the nonmodifiable risk factors for chronic inflammation and the health-promotion list of modifiable ones.",
    "hintStrategy": "For each option ask, 'Could this client change it with effort or treatment?'"
   },
@@ -2013,14 +2009,14 @@ window.NURSE_DATA.push({
     "The first course made IgE that coated mast cells, so re-exposure made them release mediators",
     "The earlier course left drug stored in the tissues, and it has now built up to a toxic level",
     "The new prescription must contain a different drug from the one you were given before",
-    "Anaphylaxis always happens on the first exposure, so this must be a new, unrelated allergy"
+    "Your body reacted to the infection being treated this time rather than to the amoxicillin"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. The first exposure sensitized the client: IgE was made and attached to mast cells. On re-exposure the drug binds that IgE, and mast cells release histamine, leukotrienes, and other mediators all at once.",
     "Anaphylaxis is an immune reaction, not drug toxicity; amoxicillin does not accumulate for years.",
-    "There is no reason to think the drug differs; sensitization explains the reaction to the same drug.",
-    "Anaphylaxis usually requires a prior sensitizing exposure; first exposures typically cause no reaction."
+    "There is no reason to think the drug differs; sensitization explains a reaction to the same drug.",
+    "Hives, wheezing, and hypotension within minutes of a dose fit an IgE-mediated reaction to the drug, not a response to the infection."
    ],
    "rationale": "Anaphylaxis usually needs two exposures. The first quietly sensitizes mast cells with allergen-specific IgE. On re-exposure, the allergen binds that IgE and triggers mast cells to release their mediators throughout the body, producing hives, bronchoconstriction, and vasodilation.",
    "takeaway": "First exposure sensitizes (IgE on mast cells); re-exposure triggers massive mediator release.",
@@ -2192,30 +2188,30 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Prioritization",
    "alsoTests": [
     "anaphylaxis"
    ],
-   "stem": "The nurse gave a client a tetanus, diphtheria, and acellular pertussis (Tdap) vaccine IM in the left deltoid. Which finding requires immediate follow-up by the nurse?",
+   "stem": "Four clients received a tetanus, diphtheria, and acellular pertussis (Tdap) vaccine IM in the deltoid. Which reported finding requires the nurse's immediate follow-up?",
    "options": [
     "Redness and 2 cm of firm swelling at the injection site the next day",
     "Hives, wheezing, and throat tightness 10 minutes after the dose",
-    "Soreness in the deltoid when the client lifts the arm to dress",
-    "Temperature 37.8 °C (100.0 °F) and mild fatigue that evening"
+    "Increasing pain and redness on day 4 with a fluctuant area draining pus",
+    "Temperature 37.8 °C (100.0 °F) and mild fatigue the evening of the dose"
    ],
    "answer": 1,
    "optionRationales": [
     "Mild redness and firm swelling at the site the next day are expected local cardinal signs.",
     "Correct. Skin and airway signs within minutes of the dose suggest anaphylaxis, an overactive whole-body response that needs immediate action (epinephrine, call for help).",
-    "Soreness with movement reflects expected pain and loss of function at the site.",
+    "A worsening, fluctuant, draining site on day 4 suggests infection and must be reported, but it is not immediately life-threatening like an airway reaction.",
     "A low-grade temperature and mild fatigue for a day are an expected mild response to vaccination."
    ],
-   "rationale": "Vaccines intentionally cause a small inflammatory response. Mild, local, and improving findings are expected cardinal signs. A rapid, multi-system reaction (hives, wheezing, throat tightness) within minutes is anaphylaxis and requires immediate follow-up.",
-   "takeaway": "Mild, local, improving = expected; rapid, whole-body = anaphylaxis, act now.",
-   "hintContent": "Separate expected cardinal signs after an injection from the signs of body-wide mediator release.",
-   "hintStrategy": "Look at timing and body systems involved; minutes plus airway involvement outranks local soreness."
+   "rationale": "Vaccines intentionally cause a small inflammatory response, so mild, local, improving findings are expected. Two findings here are unexpected: a possible injection-site infection on day 4 and a rapid multi-system reaction within minutes. Both need follow-up, but anaphylaxis threatens the airway now, so it comes first.",
+   "takeaway": "Mild, local, improving = expected; worsening local = report; rapid, whole-body = act now.",
+   "hintContent": "Separate expected cardinal signs after an injection from a local infection and from body-wide mediator release.",
+   "hintStrategy": "Identify which findings are unexpected, then rank them by how fast each could become life-threatening."
   },
   {
    "id": "m10-041",
@@ -2264,7 +2260,7 @@ window.NURSE_DATA.push({
    "ref": "Module 10 · Inflammation · Nursing Assessment and Diagnostic Tests",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "sata",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Assessment Findings",
    "alsoTests": [
@@ -2272,11 +2268,12 @@ window.NURSE_DATA.push({
    ],
    "stem": "The nurse reviews laboratory results for a 45-year-old man admitted with an infected foot wound. Which results indicate active inflammation or an acute bacterial response? Select all that apply.",
    "options": [
-    "ESR 58 mm/hr",
+    "ESR 18 mm/hr",
     "CRP 6.8 mg/dL",
     "WBC 7,800/mm³",
     "Bands 12%",
-    "Hemoglobin 14.6 g/dL"
+    "Hemoglobin 14.6 g/dL",
+    "Neutrophils 62%"
    ],
    "answer": [
     0,
@@ -2284,16 +2281,17 @@ window.NURSE_DATA.push({
     3
    ],
    "optionRationales": [
-    "Correct. The ESR is well above the male range of 0–15 mm/hr, showing active inflammation.",
+    "Correct. For a man the ESR range is 0–15 mm/hr, so 18 mm/hr is elevated; the same value would fall within the 0–20 mm/hr range for a woman.",
     "Correct. CRP above about 1.0 mg/dL shows inflammation.",
     "A total WBC of 7,800/mm³ is within normal limits, but it does not rule out infection.",
     "Correct. Bands above 5% are a left shift: the marrow is releasing immature neutrophils during the cellular response.",
-    "Hemoglobin 14.6 g/dL is normal for an adult man."
+    "Hemoglobin 14.6 g/dL is normal for an adult man.",
+    "Neutrophils of 62% fall within the normal range of about 55–70%; the abnormal part of this differential is the bands."
    ],
-   "rationale": "ESR (male 0–15 mm/hr) and CRP show inflammation but not its cause. The differential adds more: increased bands mean the bone marrow is rushing young neutrophils out in the cellular response, a sign of acute bacterial infection even when the total WBC is normal.",
-   "takeaway": "A normal total WBC does not rule out infection; always check the bands.",
-   "hintContent": "Apply the ESR range for men, the CRP cutoff, and what bands show about the cellular response.",
-   "hintStrategy": "Compare each value with its range, and remember the differential can be abnormal when the total is not."
+   "rationale": "ESR (male 0–15 mm/hr, female 0–20 mm/hr) and CRP show inflammation but not its cause, so the ESR must be read against this client's sex. The differential adds more: increased bands mean the bone marrow is rushing young neutrophils out in the cellular response, a sign of acute bacterial infection even when the total WBC and the neutrophil percentage are normal.",
+   "takeaway": "Read the ESR against the client's sex, and always check the bands; a normal total WBC does not rule out infection.",
+   "hintContent": "Apply the sex-specific ESR range, the CRP cutoff, and what bands show about the cellular response.",
+   "hintStrategy": "Compare each value with its range for this client, and remember the differential can be abnormal when the total is not."
   },
   {
    "id": "m10-043",

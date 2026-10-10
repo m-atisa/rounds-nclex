@@ -1234,19 +1234,19 @@ window.NURSE_DATA.push({
     "respiratory-assessment"
    ],
    "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "An 84-year-old client with gastroesophageal reflux disease (GERD) and a weak cough coughed and choked on lunch while sitting upright in a chair. The provider suspects aspiration. Where should the nurse expect the most significant change in breath sounds, and why?",
    "options": [
     "Left lower lobe, because the left bronchus is wider and leaves the trachea more vertically",
-    "Right upper lobe, because material settles in the highest airways when a client is upright",
-    "Right lower lobe, because the right bronchus is shorter, wider, and straighter than the left",
+    "Right upper lobe, because the right bronchus is shorter, wider, and straighter than the left",
+    "Right lower lobe, because gravity carries material down the straighter right bronchus",
     "Left upper lobe, because a weak cough lets material lodge just below the carina on that side"
    ],
    "answer": 2,
    "optionRationales": [
     "The left mainstem bronchus is longer, narrower, and more angled, so aspirated material is less likely to enter the left lung.",
-    "Gravity pulls material down, not up, in an upright client; the upper lobes are more often involved when a client aspirates lying down.",
+    "The right side is correct, but in an upright client gravity carries material down to the lower lobe; the upper lobes are more often involved when a client aspirates lying down.",
     "Correct. The right bronchus is shorter, wider, and straighter, and gravity carries material to the dependent lower segments in an upright client, so crackles or diminished sounds are expected over the right lower lobe.",
     "A weak cough explains why the client aspirated, but it does not change airway anatomy; the left side is the less likely route."
    ],
@@ -1446,17 +1446,17 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "A client received IV morphine 1 hour ago and is now difficult to arouse, with a respiratory rate of 8/min. ABG: pH 7.29, PaCO₂ 58 mm Hg, HCO₃⁻ 24 mEq/L, PaO₂ 68 mm Hg. Which interpretation and action are appropriate?",
    "options": [
-    "Uncompensated respiratory acidosis from hypoventilation; stimulate the client, support the airway, and notify the provider",
+    "Uncompensated respiratory acidosis; stimulate the client, support the airway, and notify the provider",
     "Fully compensated respiratory acidosis from hypoventilation; continue routine monitoring because the kidneys have adjusted",
     "Uncompensated metabolic acidosis from poor tissue perfusion; increase the IV fluid rate and repeat the ABG in 1 hour",
-    "Partially compensated respiratory alkalosis from pain; coach slow breathing and give the next scheduled opioid dose"
+    "Uncompensated respiratory acidosis; apply a nonrebreather mask and continue to monitor the SpO₂ closely"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. pH is low and PaCO₂ is high (opposite directions = respiratory) with a normal HCO₃⁻ (uncompensated). Opioid-induced bradypnea let CO₂ accumulate, so the nurse stimulates the client, supports the airway, and notifies the provider.",
     "The pH is outside 7.35–7.45 and the HCO₃⁻ is normal, so no compensation has occurred.",
     "The HCO₃⁻ is normal, so the problem is not metabolic; the high PaCO₂ matches the acidosis.",
-    "The pH is low (acidosis), and giving more opioid would further depress breathing."
+    "The interpretation is right, but the action is not. More oxygen does not correct hypoventilation, a rising SpO₂ can hide a climbing CO₂, and the provider still has not been told about the oversedation."
    ],
    "rationale": "This item joins a breathing pattern to its blood-gas result. An opioid slowed the respiratory rate to 8/min (bradypnea/hypoventilation), so CO₂ was retained. The ABG confirms it: low pH with high PaCO₂ is respiratory acidosis, and a normal HCO₃⁻ means the kidneys have not had time to compensate. The low PaO₂ adds hypoxemia. The nurse acts on the cause: stimulate, support the airway, and notify the provider.",
    "takeaway": "Slow, shallow breathing after an opioid → CO₂ retention → uncompensated respiratory acidosis; act on the breathing.",
@@ -1540,20 +1540,20 @@ window.NURSE_DATA.push({
     "oxygenation-physiology"
    ],
    "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "stem": "A client who is 3 days postoperative suddenly becomes dyspneic with an SpO₂ of 89%, clear breath sounds, and symmetrical chest expansion. The provider suspects a blood clot blocking pulmonary blood flow and orders a pulmonary angiogram with IV contrast. Which finding is the priority to report to the provider before the test?",
+   "stem": "A client who is 3 days postoperative suddenly becomes dyspneic with an SpO₂ of 89%, clear breath sounds, and symmetrical chest expansion. Oxygen is started at 3 L/min by nasal cannula. The provider suspects a blood clot blocking pulmonary blood flow and orders a pulmonary angiogram with IV contrast. Which finding is the priority to report to the provider before the test?",
    "options": [
-    "Nothing by mouth since midnight, as instructed",
-    "Serum creatinine of 2.4 mg/dL (normal 0.6–1.2)",
-    "Receiving oxygen at 3 L/min by nasal cannula",
+    "NPO since midnight, as instructed",
+    "Serum creatinine 2.4 mg/dL (normal 0.6–1.2)",
+    "HR 108/min and RR 24/min since the dyspnea began",
     "Anxious and asking how long the test will take"
    ],
    "answer": 1,
    "optionRationales": [
     "Being NPO is an expected preparation step.",
     "Correct. The angiogram uses IV contrast dye, which can injure the kidneys; an elevated creatinine shows impaired kidney function and must be reported before the test.",
-    "Supplemental oxygen is appropriate for hypoxemia and does not prevent the test.",
+    "Tachycardia and tachypnea are the expected compensation for the hypoxemia that prompted the test. They are part of the picture the provider is already acting on, not a reason the test is unsafe.",
     "Anxiety is expected; the nurse can explain the procedure, but it is not the priority safety concern."
    ],
    "rationale": "Clear lungs with sudden hypoxemia point to a perfusion (blood-flow) problem — a V/Q mismatch where ventilated alveoli receive too little blood, as with a clot. A pulmonary angiogram looks at blood flow in the lung arteries using IV contrast, so the nurse's key safety check beforehand is kidney function and any prior contrast reaction. An elevated creatinine is the finding to report.",
@@ -1613,21 +1613,21 @@ window.NURSE_DATA.push({
     "pneumothorax-chest-tubes"
    ],
    "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client is scheduled for a bedside thoracentesis to remove a large right pleural effusion. Which plan of care by the nurse is correct?",
    "options": [
     "Seat the client upright leaning over the overbed table; afterward, watch for sudden dyspnea and absent breath sounds",
-    "Place the client supine with the head of the bed flat; afterward, keep the client NPO until the gag reflex has fully returned",
+    "Seat the client upright leaning over the overbed table; afterward, keep the client NPO until the gag reflex has returned",
     "Seat the client upright leaning over the overbed table; have the client cough deeply as the needle is inserted",
-    "Place the client supine with the head of the bed flat; afterward, expect absent breath sounds over the right side"
+    "Position the client supine with the head of the bed flat; afterward, watch for sudden dyspnea and absent breath sounds"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. Leaning forward spreads the ribs and lets fluid collect where the needle enters. Because the needle can let air into the pleural space, the nurse watches afterward for signs of pneumothorax.",
-    "Lying flat is not the position for thoracentesis, and waiting for the gag reflex applies to bronchoscopy.",
+    "The position is right, but waiting for the gag reflex applies to bronchoscopy, where the throat is numbed. Thoracentesis does not affect the gag reflex.",
     "The position is right, but coughing or moving during needle insertion can injure the lung.",
-    "Supine is incorrect, and newly absent breath sounds after the procedure suggest pneumothorax, not an expected finding."
+    "The post-procedure monitoring is right, but lying flat is not the position for thoracentesis; sitting up and leaning forward spreads the ribs and lets the fluid collect where the needle enters."
    ],
    "rationale": "Thoracentesis care combines positioning and post-procedure surveillance. The client sits upright leaning forward and stays still without coughing during insertion. Afterward, the main complication is pneumothorax: air entering the pleural space destroys the negative pressure that keeps the lung inflated, producing sudden pleuritic pain, dyspnea, absent breath sounds, and falling SpO₂.",
    "takeaway": "Thoracentesis: sit up, lean forward, stay still — then watch for pneumothorax.",
@@ -1742,26 +1742,26 @@ window.NURSE_DATA.push({
    "ref": "Module 15 · Oxygenation · Oxygen Therapy",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with a COPD exacerbation has an SpO₂ of 85%. ABG: pH 7.31, PaCO₂ 58 mm Hg, HCO₃⁻ 30 mEq/L, PaO₂ 50 mm Hg. The provider wants oxygen delivered at a precise FiO₂ of 28%. Which device should the nurse prepare, and why?",
+   "stem": "A client with a COPD exacerbation has an SpO₂ of 85%. ABG: pH 7.31, PaCO₂ 58 mm Hg, HCO₃⁻ 30 mEq/L, PaO₂ 50 mm Hg. The provider prescribes oxygen at an FiO₂ of 28%. Which device should the nurse prepare, and why?",
    "options": [
     "Nonrebreather mask, because the PaO₂ of 50 mm Hg shows the client needs the highest FiO₂",
-    "Venturi mask, because it gives a set, precise FiO₂ to a client who is retaining CO₂",
+    "Venturi mask, because its adapter sets a fixed FiO₂ for a client who is retaining CO₂",
     "Simple face mask at 5 L/min, because this flow prevents the client from rebreathing CO₂",
     "Nasal cannula at 6 L/min, because it is comfortable and lets the client eat and talk"
    ],
    "answer": 1,
    "optionRationales": [
-    "An uncontrolled high FiO₂ can worsen CO₂ retention; the order is for a precise, low concentration.",
+    "An uncontrolled high FiO₂ can worsen CO₂ retention; the prescription is for a specific, low concentration.",
     "Correct. The ABG shows partially compensated respiratory acidosis from CO₂ retention. A Venturi mask's color-coded adapter delivers an exact FiO₂ such as 28%, allowing controlled titration.",
-    "A simple mask delivers a variable, moderate concentration (about 40–60%), not a precise 28%.",
-    "Nasal cannula FiO₂ varies with the client's breathing; 6 L/min is about 44% and not precise."
+    "A simple mask delivers a variable, moderate concentration (about 40–60%), not a set 28%.",
+    "Nasal cannula FiO₂ varies with the client's breathing; 6 L/min is about 44% and cannot be fixed at 28%."
    ],
    "rationale": "The ABG (low pH, high PaCO₂, rising HCO₃⁻) shows a COPD client retaining CO₂ with partial renal compensation. For this client, oxygen must correct hypoxemia without an uncontrolled high FiO₂ that could worsen CO₂ retention. The Venturi mask is the device that delivers a precise, set FiO₂, which is why providers choose it for COPD exacerbations.",
    "takeaway": "Precise FiO₂ (e.g., 28%) for a CO₂ retainer = Venturi mask.",
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "hintContent": "Interpret the ABG, recall why CO₂ retainers need controlled oxygen, and match that need to a device.",
-   "hintStrategy": "Look for the device whose defining feature matches the word 'precise' in the stem, and check that its reason is true."
+   "hintStrategy": "Decide which device can deliver one exact concentration rather than a range that changes with the client's breathing, then check that the reason given is true."
   },
   {
    "id": "m15-021",
@@ -1776,7 +1776,7 @@ window.NURSE_DATA.push({
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "stem": "The nurse is teaching a client with COPD who is going home on continuous oxygen at 2 L/min by nasal cannula with a prescribed SpO₂ target of 88–92%. The client's spouse smokes. Which instructions should the nurse include? Select all that apply.",
    "options": [
-    "Store the oxygen cylinder upright and secured in a stand or cart",
+    "Store spare cylinders lying flat on the closet floor so they cannot tip over",
     "No one may smoke in the home; I can connect your spouse with quit-smoking support",
     "Apply petroleum jelly inside the nostrils to prevent cracking",
     "Keep the oxygen away from gas stoves, candles, and fireplaces",
@@ -1784,13 +1784,12 @@ window.NURSE_DATA.push({
     "Use a water-based lubricant for dry lips and nostrils"
    ],
    "answer": [
-    0,
     1,
     3,
     5
    ],
    "optionRationales": [
-    "Correct. A cylinder that falls can break its valve; securing it upright prevents injury.",
+    "Cylinders are stored upright and secured in a stand or cart. A loose cylinder can roll or be knocked against something, and a damaged valve is a serious hazard.",
     "Correct. Oxygen makes fires start easily and burn hotter, so there is no smoking in the home. Offering cessation support respects choice while protecting the client, and secondhand smoke also irritates COPD airways.",
     "Petroleum products are flammable in an oxygen-rich environment.",
     "Correct. Open flames and heat sources must be kept away from oxygen.",
@@ -1881,7 +1880,7 @@ window.NURSE_DATA.push({
    "stem": "The nurse is completing a health history for a 52-year-old client with mild COPD. Which findings are modifiable risk factors that can impair the heart's ability to circulate oxygenated blood to the tissues? Select all that apply.",
    "options": [
     "Blood pressure of 158/94 mm Hg at three clinic visits",
-    "Body mass index (BMI) of 36",
+    "Age of 52 years",
     "Father had a heart attack at age 50",
     "Smokes 1 pack of cigarettes per day",
     "Type 2 diabetes with a hemoglobin A1C of 8.2%",
@@ -1889,13 +1888,12 @@ window.NURSE_DATA.push({
    ],
    "answer": [
     0,
-    1,
     3,
     4
    ],
    "optionRationales": [
     "Correct. Hypertension is a modifiable risk factor that strains the heart's ability to circulate blood.",
-    "Correct. Obesity is modifiable through diet and activity.",
+    "Age is a real risk factor, but the client cannot change it.",
     "Family history is a real risk but cannot be changed.",
     "Correct. Smoking is modifiable and harms both the airways and the blood vessels.",
     "Correct. Type 2 diabetes is modifiable through glucose control and lifestyle.",
@@ -1921,17 +1919,17 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "During endotracheal suctioning, the nurse notes that the client's heart rate drops from 92 to 50/min and SpO₂ falls from 94% to 85%. What should the nurse do first?",
    "options": [
-    "Increase the suction pressure to shorten the procedure",
-    "Administer atropine from the emergency cart right away",
+    "Finish this pass quickly, then hyperoxygenate before the next pass",
+    "Notify the provider and request a prescription for IV atropine",
     "Stop suctioning, remove the catheter, and oxygenate",
-    "Complete the current pass to remove the secretions"
+    "Lower the suction pressure to 80 mm Hg and continue the pass"
    ],
    "answer": 2,
    "optionRationales": [
-    "Higher pressure increases mucosal trauma and oxygen loss.",
-    "Atropine is not the first action; removing the cause usually reverses the bradycardia.",
+    "Reoxygenating between passes is correct technique, but continuing this pass prolongs the vagal stimulation and hypoxemia that are causing the bradycardia.",
+    "Atropine is not the first action; removing the cause usually reverses the bradycardia. The provider can be notified after the client is stabilized.",
     "Correct. Bradycardia and desaturation during suctioning come from vagal stimulation and hypoxemia; stopping and oxygenating removes the cause.",
-    "Continuing the pass prolongs the hypoxemia and vagal stimulation."
+    "Lower pressure does not stop the catheter from stimulating the vagus nerve or removing oxygen; the pass must stop now."
    ],
    "rationale": "The nurse must recognize these changes as dangerous: in a hypoxic client, bradycardia is a late sign that the heart is running out of oxygen, not a benign change. Suctioning causes it through vagal stimulation and oxygen removal, so the immediate fix is to stop, withdraw the catheter, and oxygenate, then reassess before any further pass.",
    "takeaway": "Bradycardia or desaturation during suctioning → stop, remove the catheter, oxygenate.",
@@ -1957,7 +1955,7 @@ window.NURSE_DATA.push({
     "Adjusting the oxygen flow for a client whose SpO₂ dropped to 88%",
     "Auscultating breath sounds after an albuterol nebulizer treatment",
     "Teaching a new postoperative client to use an incentive spirometer",
-    "Helping a stable client with COPD sit upright in a chair for meals"
+    "Helping a stable client with COPD sit up for meals"
    ],
    "answer": 3,
    "optionRationales": [
@@ -2049,15 +2047,15 @@ window.NURSE_DATA.push({
    "stem": "A client with chronic bronchitis takes oral theophylline. The client reports nausea, vomiting, and \"feeling jittery.\" HR is 122/min and irregular. The serum theophylline level is 26 mcg/mL. What should the nurse do first?",
    "options": [
     "Withhold the next dose and notify the provider",
-    "Give the dose and recheck the level in 1 week",
-    "Offer a cup of coffee to help relieve the fatigue",
+    "Give the prescribed ondansetron, then give the dose 1 hour later",
+    "Hold the dose and recheck the level at the next routine draw",
     "Give the dose with food to reduce the nausea"
    ],
    "answer": 0,
    "optionRationales": [
     "Correct. GI upset, jitteriness, tachycardia with an irregular rhythm, and a level above the traditional 10–20 mcg/mL range indicate toxicity; the dose is held and the provider notified.",
-    "Giving another dose would worsen toxicity.",
-    "Caffeine is also a xanthine and adds to theophylline's effects.",
+    "Treating the nausea masks an early sign of toxicity, and giving the dose later still adds more drug to a toxic level.",
+    "Holding the dose is right, but an irregular heart rhythm with a toxic level needs the provider now, not a routine recheck.",
     "Food does not treat toxicity; the drug must be held."
    ],
    "rationale": "Theophylline has a narrow therapeutic range. Toxicity progresses from nausea, vomiting, and restlessness to tachycardia and dysrhythmias, then seizures. With symptoms and a high level, the nurse withholds the next dose and notifies the provider.",
@@ -2108,35 +2106,41 @@ window.NURSE_DATA.push({
   },
   {
    "id": "m15-033",
-   "type": "mcq",
-   "priority": false,
+   "type": "sata",
    "topic": "respiratory-medications",
    "alsoTests": [
     "asthma-copd-pneumonia"
    ],
    "ref": "Module 15 · Oxygenation · Respiratory Medications",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
-   "stem": "A client with COPD developed severe palpitations with albuterol and is now prescribed an ipratropium inhaler instead. Which item in the client's history should the nurse report to the provider before the first dose?",
+   "stem": "A client with COPD developed severe palpitations with albuterol and is now prescribed an ipratropium inhaler instead. Which conditions in the client's history should the nurse report to the provider before the first dose? Select all that apply.",
    "options": [
-    "Osteoarthritis of both knees",
+    "Type 2 diabetes managed with metformin",
+    "Narrow-angle glaucoma",
     "Seasonal allergic rhinitis",
-    "Hypothyroidism on levothyroxine",
-    "Narrow-angle glaucoma"
+    "Benign prostatic hyperplasia with a weak urine stream",
+    "Hypothyroidism treated with levothyroxine",
+    "Osteoarthritis of both knees"
    ],
-   "answer": 3,
+   "answer": [
+    1,
+    3
+   ],
    "optionRationales": [
-    "Osteoarthritis is not affected by anticholinergic drugs.",
+    "Diabetes is affected by systemic corticosteroids, not by ipratropium's anticholinergic action.",
+    "Correct. Anticholinergics can raise intraocular pressure, which is dangerous in narrow-angle glaucoma.",
     "Allergic rhinitis is not a contraindication to ipratropium.",
+    "Correct. Anticholinergic drying effects include urinary retention, which can worsen an enlarged prostate that already slows the urine stream.",
     "Treated hypothyroidism does not interact with ipratropium's anticholinergic effects.",
-    "Correct. Anticholinergics can raise intraocular pressure, which is dangerous in narrow-angle glaucoma."
+    "Osteoarthritis is not affected by anticholinergic drugs."
    ],
    "rationale": "Anticholinergics such as ipratropium are the alternative for clients who cannot tolerate beta-agonists, and they are widely used in COPD. Their drying effects include dry mouth, urinary retention, blurred vision, and increased intraocular pressure, so narrow-angle glaucoma (and BPH) must be reported before the first dose.",
    "takeaway": "Ipratropium = beta-agonist alternative; report narrow-angle glaucoma or BPH first.",
    "cjmm": "Recognize Cues",
    "focus": "Pharmacology",
-   "hintContent": "Link why ipratropium was chosen to its anticholinergic effects on the eye and bladder.",
-   "hintStrategy": "Look for the condition that an anticholinergic effect would worsen."
+   "hintContent": "Link why ipratropium was chosen to how anticholinergic drugs change secretions and smooth muscle throughout the body.",
+   "hintStrategy": "For each condition, ask whether blocking acetylcholine would make it worse; set aside conditions that matter for other drug classes."
   },
   {
    "id": "m15-035",
@@ -2352,23 +2356,23 @@ window.NURSE_DATA.push({
     "respiratory-medications"
    ],
    "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
    "stem": "After M.L.'s clinic visit for an asthma exacerbation, her fluticasone inhaler is replaced with fluticasone/salmeterol (Advair Diskus), a dry-powder inhaler. Which statement by M.L. indicates correct understanding?",
    "options": [
     "\"I'll use Advair whenever I feel tightness in my chest, since it works fast.\"",
     "\"I'll shake the Diskus well and then breathe in slowly for about 5 seconds.\"",
-    "\"I can stop Advair once I have felt better for a few days in a row.\"",
+    "\"I'll breathe out fully into the Diskus first so I can take a deeper breath in.\"",
     "\"I'll take Advair every day and keep my albuterol for sudden symptoms.\""
    ],
    "answer": 3,
    "optionRationales": [
     "Advair is a long-term controller (LABA + inhaled corticosteroid), not a rescue medication.",
     "A dry-powder inhaler is not shaken, and the client inhales quickly and deeply to pull out the powder.",
-    "Controllers are taken daily even when the client feels well; stopping lets inflammation return.",
+    "Breathing out is done away from the device; exhaling into a dry-powder inhaler adds moisture that clumps the powder and can blow the dose out.",
     "Correct. Advair is a daily controller, and albuterol remains the rescue drug for sudden symptoms."
    ],
-   "rationale": "Understanding Advair requires knowing both its role and its device. As a LABA plus inhaled corticosteroid it controls chronic inflammation and is taken every day, even when the client feels well; albuterol stays the rescue drug. As a dry-powder inhaler, it is not shaken and is inhaled quickly and deeply.",
+   "rationale": "Understanding Advair requires knowing both its role and its device. As a LABA plus inhaled corticosteroid it controls chronic inflammation and is taken every day, even when the client feels well; albuterol stays the rescue drug. As a dry-powder inhaler, it is not shaken, the client does not breathe out into it, and the dose is inhaled quickly and deeply.",
    "takeaway": "Advair = daily controller (don't shake the Diskus, inhale fast); albuterol = rescue.",
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
@@ -2468,13 +2472,12 @@ window.NURSE_DATA.push({
     "Cough and spit out the secretions after the treatment",
     "Use the albuterol treatment before the acetylcysteine",
     "Perform percussion over the spine to loosen secretions",
-    "Expect a sulfur (\"rotten egg\") odor from the acetylcysteine"
+    "Stop the acetylcysteine if it smells like sulfur, because it has spoiled"
    ],
    "answer": [
     0,
     2,
-    3,
-    5
+    3
    ],
    "optionRationales": [
     "Correct. PVD on a full stomach can cause vomiting and aspiration.",
@@ -2482,7 +2485,7 @@ window.NURSE_DATA.push({
     "Correct. Loosened secretions must be coughed up and expectorated.",
     "Correct. Acetylcysteine can cause bronchospasm in asthma; albuterol opens the airway first so loosened mucus can come out.",
     "Percussion is done over the ribs, never over the spine, sternum, or below the ribs.",
-    "Correct. The sulfur smell of acetylcysteine is expected and harmless."
+    "A sulfur (\"rotten egg\") smell is expected and harmless with acetylcysteine. Stopping it for the smell would leave the secretions thick."
    ],
    "rationale": "M.L.'s discharge plan ties her disease to both medications and airway clearance. Albuterol comes first because acetylcysteine can trigger bronchospasm in an asthmatic and the thinned mucus needs open airways to leave. PVD is done before meals over the ribs, followed by coughing and spitting. Knowing the acetylcysteine smell is expected helps adherence.",
    "takeaway": "Open → thin → drain → cough, before meals: albuterol, acetylcysteine, PVD, expectorate.",
@@ -2500,7 +2503,7 @@ window.NURSE_DATA.push({
     "respiratory-assessment"
    ],
    "ref": "Module 15 · Oxygenation · Lifespan Considerations",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "The nurse is assessing pediatric clients during well-child visits. Which findings require follow-up? Select all that apply.",
    "options": [
@@ -2508,8 +2511,8 @@ window.NURSE_DATA.push({
     "Crepitus palpated over the right clavicle of a newborn after a difficult delivery",
     "Anteroposterior chest diameter about equal to the lateral diameter in a 1-month-old",
     "Barrel-shaped chest in an 8-year-old",
-    "Respiratory rate of 18/min in a 10-year-old",
-    "Respiratory rate of 38/min at rest in a 12-year-old"
+    "Respiratory rate of 30/min in a quiet 4-year-old",
+    "Respiratory rate of 28/min at rest in a 15-year-old"
    ],
    "answer": [
     1,
@@ -2521,10 +2524,10 @@ window.NURSE_DATA.push({
     "Correct. Crepitus near a newborn's clavicle can indicate a fracture from delivery.",
     "A round chest is normal in infants.",
     "Correct. A barrel chest is abnormal after about age 6.",
-    "School-age children normally breathe 16–22 times per minute.",
-    "Correct. A resting rate of 38/min is well above the 16–22 (school-age) and 12–20 (adolescent) ranges and is tachypneic."
+    "Preschoolers normally breathe 20–35 times per minute, so 30/min is within the expected range.",
+    "Correct. Adolescents normally breathe 12–20 times per minute (the same as adults), so 28/min at rest is tachypnea."
    ],
-   "rationale": "Pediatric respiratory assessment requires the age-specific normal rates from the physiology content and the age-specific chest findings from the lifespan content. Rates of 44 in an infant and 18 in a school-age child are normal, as is a round infant chest. Clavicular crepitus in a newborn, a barrel chest after age 6, and a rate of 38 in a 12-year-old need follow-up.",
+   "rationale": "Pediatric respiratory assessment requires the age-specific normal rates from the physiology content and the age-specific chest findings from the lifespan content. A rate of 44 in an infant and 30 in a preschooler are normal, as is a round infant chest. Clavicular crepitus in a newborn, a barrel chest after age 6, and a resting rate of 28 in an adolescent need follow-up.",
    "takeaway": "Interpret every respiratory rate and chest shape against the child's age.",
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
@@ -2583,7 +2586,7 @@ window.NURSE_DATA.push({
    "options": [
     "Using the gum for cravings along with the patch is more effective than the patch alone",
     "Apply the patch to clean, dry, hairless skin and rotate sites daily",
-    "Counseling or a quitline along with nicotine replacement improves your chance of quitting",
+    "If a craving is strong, smoking one cigarette while wearing the patch is safe",
     "Chew the gum slowly until you feel a tingle, then park it between your cheek and gum",
     "Chew the gum quickly and swallow the juice for the fastest effect",
     "Drink coffee or soda while chewing the gum to improve absorption"
@@ -2591,19 +2594,18 @@ window.NURSE_DATA.push({
    "answer": [
     0,
     1,
-    2,
     3
    ],
    "optionRationales": [
     "Correct. A patch for steady levels plus a short-acting form for cravings works better than a patch alone.",
     "Correct. Clean, dry, hairless skin with daily site rotation supports absorption and prevents irritation.",
-    "Correct. NRT combined with behavioral counseling increases the likelihood of abstinence.",
+    "The client should not smoke while using NRT. Smoking on top of the patch can cause nicotine excess (nausea, dizziness, palpitations, headache); the gum is the tool for breakthrough cravings.",
     "Correct. 'Chew and park' lets nicotine absorb through the lining of the mouth.",
     "Swallowed nicotine is poorly absorbed and causes hiccups and nausea.",
     "Acidic drinks block nicotine absorption through the oral lining."
    ],
-   "rationale": "Nicotine replacement works best combined with counseling and when a steady form (patch) is paired with a short-acting form (gum) for cravings. Gum is chewed until it tingles and then parked; swallowed nicotine and acidic drinks reduce absorption.",
-   "takeaway": "NRT + counseling; patch + gum; 'chew and park,' no acidic drinks.",
+   "rationale": "Nicotine replacement works best when a steady form (patch) is paired with a short-acting form (gum) for cravings, and the client does not smoke while using it. Gum is chewed until it tingles and then parked; swallowed nicotine and acidic drinks reduce absorption.",
+   "takeaway": "Patch + gum for cravings; 'chew and park,' no acidic drinks, and no smoking while on NRT.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Recall how each NRT form is used and what increases the chance of quitting.",
@@ -2616,28 +2618,28 @@ window.NURSE_DATA.push({
    "topic": "health-promotion-smoking",
    "alsoTests": [],
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Psychosocial Integrity",
    "stem": "During a clinic visit, a client with early COPD says, \"I know smoking is bad, but I'm not ready to quit right now.\" Which response by the nurse is most appropriate?",
    "options": [
-    "\"The provider won't keep treating you unless you agree to stop smoking.\"",
-    "\"If you don't quit now, your lungs will be completely destroyed within a year.\"",
+    "\"Let's set your quit date for next week and start a nicotine patch today.\"",
+    "\"That's your choice, so I won't bring up smoking at future visits.\"",
     "\"Why would you keep doing something that you know is harming your lungs?\"",
     "\"Quitting is the best thing for your lungs; I'll help when you're ready.\""
    ],
    "answer": 3,
    "optionRationales": [
-    "Threats damage trust and are not accurate.",
-    "Exaggerated scare statements create defensiveness and are inaccurate.",
+    "Setting a quit date is the right step for a client who is ready, but this client just said they are not ready; pushing a plan ignores the client's choice.",
+    "This respects the choice but closes the door. The nurse should still give a clear message about quitting and offer help later.",
     "'Why' questions sound judgmental and put the client on the defensive.",
     "Correct. This gives a clear message, respects the client's right to choose, and keeps the door open."
    ],
-   "rationale": "The slides say to respect the client's right to choose if the client opts to continue smoking. The nurse gives one clear, caring message about quitting and offers help whenever the client is ready.",
+   "rationale": "The slides give two paths: if the client opts to continue smoking, respect the right to choose; if the client is interested in quitting, help develop a plan and refer. This client is not ready, so a quit date is premature, but the nurse still gives one clear, caring message about quitting and offers help whenever the client is ready.",
    "takeaway": "Not ready to quit → advise, respect the choice, and offer help later.",
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "hintContent": "Recall the two paths on the slides for clients who are and aren't ready to quit.",
-   "hintStrategy": "Eliminate responses that threaten, exaggerate, or judge."
+   "hintStrategy": "Match the response to the readiness the client just stated, then check whether it still keeps the door open for later."
   }
  ]
 });

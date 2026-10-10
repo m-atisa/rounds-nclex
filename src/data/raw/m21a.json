@@ -921,7 +921,7 @@
     "pressure-injuries-pathophysiology-risk"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Structure & Function",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
@@ -956,31 +956,33 @@
    "id": "m21a-004",
    "type": "mcq",
    "topic": "skin-assessment-lesions",
-   "alsoTests": [],
+   "alsoTests": [
+    "skin-structure-function"
+   ],
    "ref": "Module 21 · Tissue Integrity · Skin Assessment & Lesions",
    "difficulty": 2,
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall where melanin is lowest and where color changes show up best in darker skin.",
-   "hintStrategy": "Eliminate options that inspect heavily pigmented skin. Choose the site with the least pigment.",
-   "stem": "A client with deeply pigmented skin and a COPD exacerbation has an SpO₂ of 86% on 2 L/min by nasal cannula and is increasingly short of breath. The nurse wants to assess for central cyanosis. Which area should the nurse inspect?",
+   "hintContent": "Name the color change that low oxygen causes, then recall where each color change is best seen in darker skin.",
+   "hintStrategy": "Several options are low-pigment sites. Match each site to the color change it is used to assess, and keep the one that fits low oxygen.",
+   "stem": "A client with deeply pigmented skin and a COPD exacerbation has an SpO₂ of 86% on 2 L/min by nasal cannula and is increasingly short of breath. The nurse wants to know whether the low oxygen level is causing a visible color change. Which area should the nurse inspect?",
    "options": [
+    "The sclera and the hard palate of the mouth",
+    "The palms of the hands and the soles of the feet",
     "The skin of the forehead and cheeks",
-    "The skin over the sternum",
-    "The dorsal surface of the hands",
-    "The lips and buccal (oral) mucosa"
+    "The lips and the buccal (oral) mucosa"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Facial skin in a deeply pigmented client may hide the gray or blue tint of cyanosis.",
-    "Incorrect. The skin over the sternum is pigmented and is not a reliable place to see cyanosis in dark skin.",
-    "Incorrect. The backs of the hands are pigmented and show peripheral, not central, color change poorly.",
-    "Correct. The lips and buccal mucosa have little melanin, so a gray or ashen color from central cyanosis is easiest to see there."
+    "Incorrect. The sclera and hard palate are where jaundice (yellowing from bilirubin) is confirmed in darker skin, not where low oxygen shows.",
+    "Incorrect. The palms and soles are also checked for jaundice in darker skin. They do not reflect central oxygenation.",
+    "Incorrect. Facial skin in a deeply pigmented client contains a lot of melanin, which can hide the gray or ashen tint of cyanosis.",
+    "Correct. Low oxygen causes cyanosis. In dark skin it looks gray or ashen, and the lips and buccal mucosa have little melanin, so central cyanosis is easiest to see there."
    ],
-   "rationale": "Melanin can mask color changes in darker skin. Cyanosis in dark skin often appears gray or ashen rather than blue, so the nurse inspects areas with little pigment: the lips, buccal mucosa, and nail beds. The mucous membranes of the mouth are the best place to judge central cyanosis.",
-   "takeaway": "In dark skin, look for cyanosis in the lips, buccal mucosa, and nail beds."
+   "rationale": "Low oxygen saturation produces cyanosis. Melanin can mask color changes, and in darker skin cyanosis often looks gray or ashen rather than blue, so the nurse inspects low-pigment areas: the lips, buccal mucosa, and nail beds. The mucous membranes of the mouth are the best place to judge central cyanosis. The sclera, hard palate, palms, and soles are also low-pigment sites, but they are used to confirm jaundice, not cyanosis.",
+   "takeaway": "Dark skin: cyanosis → lips, buccal mucosa, nail beds; jaundice → sclera, hard palate, palms, soles."
   },
   {
    "id": "m21a-005",
@@ -1062,29 +1064,29 @@
     "infectious-skin-disorders"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Assessment & Lesions",
-   "difficulty": 2,
-   "cjmm": "Analyze Cues",
+   "difficulty": 3,
+   "cjmm": "Take Action",
    "focus": "Assessment Findings",
-   "clientNeed": "Physiological Integrity: Physiological Adaptation",
-   "hintContent": "Recall the size and content that define a vesicle, bulla, pustule, and wheal, and which infection shows lesions in different stages.",
-   "hintStrategy": "Check both halves of each option. Both the lesion name and the disease pattern must match the stem.",
-   "stem": "A 4-year-old with a low-grade fever has an itchy rash on the trunk. The nurse sees red flat spots, raised bumps, clear fluid-filled lesions about 0.5 cm across, and some crusted lesions, all at the same time. Which documentation and interpretation are most accurate?",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Recall the size and content that define each fluid-filled lesion, which infection shows lesions in several stages at once, and how that infection spreads.",
+   "hintStrategy": "Each option has two parts. Check the lesion name against the size and fluid described, then check the precaution against how the likely infection spreads.",
+   "stem": "A 4-year-old with a low-grade fever is admitted with an itchy rash on the trunk and face. The nurse sees red flat spots, raised bumps, clear fluid-filled lesions about 0.5 cm across, and crusted lesions, all present at the same time. Which documentation of the fluid-filled lesions and initial action are most appropriate?",
    "options": [
-    "Vesicles in different stages, a pattern typical of chickenpox",
-    "Bullae with honey-colored crusts, a pattern typical of impetigo",
-    "Pustules on an inflamed base, a pattern typical of acne",
-    "Wheals that come and go, a pattern typical of an allergic reaction"
+    "Vesicles; place the child on airborne and contact precautions",
+    "Bullae; place the child on contact precautions only",
+    "Pustules; place the child on droplet precautions",
+    "Vesicles; place the child on droplet precautions until the fever resolves"
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Correct. Raised, clear-fluid lesions under 1 cm are vesicles. Lesions in different stages (macules, papules, vesicles, crusts) at the same time are the classic sign of varicella.",
-    "Incorrect. Bullae are larger than 1 cm, and impetigo is marked by honey-colored crusts, often around the nose and mouth.",
-    "Incorrect. Pustules contain pus, not clear fluid, and acne affects the face of adolescents rather than the trunk of a febrile preschooler.",
-    "Incorrect. Wheals are raised, itchy, and irregular but are not fluid-filled and do not crust."
+    "Correct. Raised, clear-fluid lesions under 1 cm are vesicles. Lesions in different stages at once point to chickenpox, which spreads through the air and by contact, so airborne plus contact precautions are needed.",
+    "Incorrect. Bullae are clear-fluid blisters larger than 1 cm. Contact precautions alone do not protect against the airborne spread of chickenpox.",
+    "Incorrect. Pustules contain pus, not clear fluid, and droplet precautions do not protect against an airborne virus.",
+    "Incorrect. The lesions are named correctly, but chickenpox is airborne, and the child stays on precautions until all lesions are crusted, not until the fever resolves."
    ],
-   "rationale": "Lesion vocabulary and disease patterns work together. A raised lesion filled with clear fluid and smaller than 1 cm is a vesicle. Chickenpox comes in crops, so red macules, papules, vesicles, and crusts appear at the same time. Recognizing the pattern lets the nurse document accurately and anticipate airborne and contact precautions.",
-   "takeaway": "Clear fluid < 1 cm = vesicle; lesions in different stages at once = chickenpox."
+   "rationale": "Lesion vocabulary, disease pattern, and infection control work together. A raised lesion filled with clear fluid and smaller than 1 cm is a vesicle. Chickenpox comes in crops, so macules, papules, vesicles, and crusts appear at the same time. Varicella spreads by the airborne route and by contact with blister fluid, so the child needs airborne plus contact precautions (a negative-pressure room) until all lesions are crusted.",
+   "takeaway": "Clear fluid < 1 cm = vesicle; lesions in different stages = chickenpox → airborne + contact precautions until all are crusted."
   },
   {
    "id": "m21a-008",
@@ -1166,26 +1168,26 @@
     "skin-assessment-lesions"
    ],
    "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "hintContent": "Identify the infection from the lesion description, then recall how it spreads and how its crusts are treated.",
-   "hintStrategy": "This asks for a CORRECT statement. Eliminate any statement that would spread the infection or block treatment.",
+   "hintStrategy": "This asks for a CORRECT statement. Test each one: would it spread the infection, break the return-to-school rule, or keep the medicine from working?",
    "stem": "A 5-year-old has small blisters around the nose and mouth that have broken open and formed honey-colored crusts. An antibiotic ointment is prescribed. Which statement by the parent indicates the teaching was effective?",
    "options": [
     "“She can go back to kindergarten tomorrow morning since the ointment started tonight.”",
-    "“I'll cover the sores tightly with plastic wrap at night so they heal faster.”",
-    "“The whole family can keep sharing towels as long as we wash them weekly.”",
-    "“I'll gently wash off the crusts and dry the area before putting on the ointment.”"
+    "“I'll leave the crusts in place, because they protect the sores while they heal.”",
+    "“Her brother can use her towel as long as I wash it in hot water every week.”",
+    "“I'll gently wash off the crusts with soap and water, pat dry, then apply it.”"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. A child with impetigo stays home until 24 hours after effective treatment starts.",
-    "Incorrect. Occlusive plastic wrap traps moisture and is not part of impetigo care.",
-    "Incorrect. Impetigo spreads by direct contact and shared items. Each person needs their own towel.",
-    "Correct. The honey-colored crusts are a secondary lesion typical of impetigo. Gently washing them off and drying the skin lets the ointment reach the infection."
+    "Incorrect. A child with impetigo stays home until 24 hours after effective treatment starts. One evening of ointment is not enough.",
+    "Incorrect. The crusts hold bacteria and keep the ointment from reaching the infection. They are gently washed off before each application.",
+    "Incorrect. Impetigo spreads by direct contact and shared items. Each person needs their own towel, no matter how often it is washed.",
+    "Correct. Honey-colored crusts are the secondary lesion of impetigo. Gently washing them off and patting the skin dry lets the antibiotic ointment reach the infection."
    ],
    "rationale": "Vesicles that rupture and leave honey-colored crusts around the nose and mouth are the hallmark of impetigo, a contagious bacterial infection. Care includes gently washing off crusts, patting dry, and applying the prescribed ointment; using separate towels; keeping nails short; and staying home until 24 hours of effective treatment.",
    "takeaway": "Impetigo: wash off the honey crusts, apply ointment, no sharing, home until 24 hours of treatment."
@@ -1304,7 +1306,7 @@
     "skin-structure-function"
    ],
    "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
@@ -1341,20 +1343,19 @@
    "focus": "Client Teaching",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Recall how an OTC pediculicide is used correctly and how lice spread through shared items.",
-   "hintStrategy": "Judge each instruction on its own. Watch for steps that block the medicine or add risk without benefit.",
+   "hintStrategy": "Judge each instruction on its own, including its details. Watch for steps that block the medicine, add risk without benefit, or are too short to work.",
    "stem": "The school nurse is teaching the parents of a 7-year-old who has head lice and will be treated with an over-the-counter (OTC) pediculicide shampoo. Which instructions should the nurse include? Select all that apply.",
    "options": [
     "Use a fine-tooth nit comb to remove nits from the hair",
     "Wash recently used bedding and hats in hot water and dry them on high heat",
     "Use a conditioner right before applying the lice shampoo",
     "Spray the furniture and carpets with an insecticide fogger",
-    "Tell your child not to share combs, brushes, or hats",
+    "Seal stuffed toys that cannot be washed in a plastic bag for 2 days",
     "Recheck the hair in about a week, since a second treatment is often needed"
    ],
    "answer": [
     0,
     1,
-    4,
     5
    ],
    "optionRationales": [
@@ -1362,11 +1363,11 @@
     "Correct. Hot washing and high-heat drying kill lice and nits on recently used items.",
     "Incorrect. Conditioner coats the hair and keeps the pediculicide from working.",
     "Incorrect. Foggers and insecticide sprays are not needed and can be harmful. Vacuuming is enough.",
-    "Correct. Lice spread through head-to-head contact and shared items.",
+    "Incorrect. Bagging is right for items that can't be washed, but they stay sealed for about 2 weeks. Two days is too short.",
     "Correct. Rechecking finds newly hatched lice, and a second treatment is often needed."
    ],
-   "rationale": "Minor lice cases are treated with an OTC pediculicide, and OTC products still require careful teaching: follow the label exactly and do not use conditioner first. Nits must be combed out, recently used items washed hot and dried on high heat (or bagged for about 2 weeks), personal items not shared, and the hair rechecked in about a week. Foggers are unnecessary and potentially harmful.",
-   "takeaway": "Lice: follow the label, no conditioner first, comb nits, hot wash, no sharing, recheck in a week."
+   "rationale": "Minor lice cases are treated with an OTC pediculicide, and OTC products still require careful teaching: follow the label exactly and do not use conditioner first. Nits must be combed out, recently used items washed hot and dried on high heat (or sealed in a bag for about 2 weeks if they can't be washed), personal items such as combs and hats not shared, and the hair rechecked in about a week. Foggers are unnecessary and potentially harmful.",
+   "takeaway": "Lice: follow the label, no conditioner first, comb nits, hot wash or bag for 2 weeks, recheck in a week."
   },
   {
    "id": "m21a-016",
@@ -1482,26 +1483,26 @@
     "lifespan-skin"
    ],
    "ref": "Module 21 · Tissue Integrity · Inflammatory Disorders & Allergy",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "hintContent": "Recall what is wrong with the skin barrier in eczema and what a moisturizer does for it.",
-   "hintStrategy": "Eliminate options that dry or irritate the skin. The best answer repairs the barrier.",
+   "hintStrategy": "Each option sounds caring. Ask which one protects a barrier that is losing water, and which would let more water escape or irritate the skin.",
    "stem": "The parent of a 4-year-old with atopic dermatitis (eczema) in the creases of the elbows and knees asks about bath time. Which instruction is most important for the nurse to include?",
    "options": [
-    "Give a long, hot bath each evening with a scented bubble bath",
-    "Rub the skin briskly with a towel after bathing to remove loose scales",
-    "Dress the child in wool clothing in winter to keep the skin warm",
-    "Pat dry and apply a thick, fragrance-free moisturizer right away"
+    "Let the skin air-dry fully after the bath so the moisturizer absorbs better",
+    "Wash with an antibacterial soap to keep scratched areas from getting infected",
+    "Give a long, warm soak with a gentle bubble bath to soften the dry patches",
+    "Pat the skin dry and apply a fragrance-free moisturizer within minutes"
    ],
    "answer": 3,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Hot water and fragrance dry and irritate eczema-prone skin.",
-    "Incorrect. Rubbing damages the fragile barrier and worsens the itch–scratch cycle.",
-    "Incorrect. Wool is scratchy and triggers itching. Soft cotton is preferred.",
-    "Correct. Eczema is caused by a weak skin barrier that loses water. Patting dry and sealing in moisture right away rebuilds the barrier."
+    "Incorrect. As the skin air-dries, water evaporates through the weak barrier. Moisturizer works best on skin that is still slightly damp.",
+    "Incorrect. Antibacterial and harsh soaps strip oils and dry eczema-prone skin. A mild, fragrance-free cleanser is used.",
+    "Incorrect. Long soaks and bubble baths dry and irritate eczema-prone skin. Baths should be short and lukewarm with a mild, fragrance-free cleanser.",
+    "Correct. Eczema is caused by a weak skin barrier that loses water. Patting dry and sealing in moisture within minutes, while the skin is still damp, rebuilds the barrier and helps break the itch–scratch cycle."
    ],
    "rationale": "In eczema, the epidermal barrier is weak, so water leaks out and irritants get in, causing dry, itchy skin and the itch–scratch cycle. In older children it typically appears in the antecubital and popliteal creases. The key teaching is a short lukewarm bath with a mild cleanser, patting dry, and applying a thick, fragrance-free moisturizer within minutes to lock in water.",
    "takeaway": "Eczema: short lukewarm bath, pat dry, moisturize right away."
@@ -1586,28 +1587,28 @@
     "skin-assessment-lesions"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Recall how skin tone affects skin cancer risk and where melanoma is often found in darker skin.",
-   "hintStrategy": "Eliminate responses that use absolute words (only, can't, always) about who or where skin cancer occurs.",
+   "hintContent": "Recall how skin tone affects skin cancer risk, where melanoma is often found in darker skin, how often self-exams are done, and which ABCDE letter matters most.",
+   "hintStrategy": "Each wrong option contains one gap or myth. Test every option for where to look, how often, and what to look for.",
    "stem": "A 34-year-old client with dark brown skin asks how to do a monthly skin self-examination. Which response by the nurse is most accurate?",
    "options": [
-    "“Check sun-exposed areas and your trunk, and include your palms, soles, and nails.”",
-    "“Focus on your face and hands, because skin cancer forms only where the sun hits.”",
-    "“Because you have dark skin, you can't get skin cancer, so a yearly check is enough.”",
-    "“Check only the spots that itch or hurt, since skin cancer always causes symptoms first.”"
+    "“Check sun-exposed areas and your trunk, plus your palms, soles, and nails.”",
+    "“Concentrate on your face, ears, scalp, arms, and legs, where UV exposure is highest.”",
+    "“Check your skin once a year, since your melanin lowers your risk of skin cancer.”",
+    "“Watch mainly for moles larger than a pencil eraser, since smaller ones are low risk.”"
    ],
    "answer": 0,
    "priority": false,
    "optionRationales": [
-    "Correct. Self-exams cover sun-exposed areas plus the trunk, chest, and feet. In darker skin, melanoma is more often found on the palms, soles, and under the nails.",
-    "Incorrect. Skin cancer can form in areas with little sun exposure, including the soles and nail beds.",
-    "Incorrect. All skin tones are at risk. In darker skin, cancer is often found later, so self-exams matter.",
-    "Incorrect. Skin cancer often causes no symptoms early. Changes in appearance are what matter."
+    "Correct. Self-exams cover sun-exposed areas plus the trunk, chest, and feet. In darker skin, melanoma is more often found on the palms, soles, and under the nails, so these must be included.",
+    "Incorrect. Sun-exposed areas matter, but this plan leaves out the palms, soles, and nails, where melanoma is more often found in darker skin.",
+    "Incorrect. Melanin gives some UV protection, but every skin tone is at risk, and cancer in darker skin is often found later. Self-exams are done monthly.",
+    "Incorrect. A mole of any size that is changing (E, evolving) needs evaluation. Size is only one warning sign."
    ],
-   "rationale": "Melanin gives some UV protection, but no skin tone is immune to skin cancer, and in darker skin it is often found later and in low-sun areas such as the palms, soles, and nails. A complete self-exam covers sun-exposed areas (face, neck, ears, scalp, arms, legs) plus the trunk, chest, and feet, including soles and nails.",
+   "rationale": "Melanin gives some UV protection, but no skin tone is immune to skin cancer, and in darker skin it is often found later and in low-sun areas such as the palms, soles, and nails. A complete monthly self-exam covers sun-exposed areas (face, neck, ears, scalp, arms, legs) plus the trunk, chest, and feet, including the soles and nails, and any changing mole is reported whatever its size.",
    "takeaway": "Every skin tone needs self-exams, and dark skin needs extra attention to the palms, soles, and nails."
   },
   {
@@ -1652,29 +1653,30 @@
    "type": "mcq",
    "topic": "skin-cancer-sun-protection",
    "alsoTests": [
-    "diagnostics-labs-nutrition"
+    "diagnostics-labs-nutrition",
+    "wound-types-classification"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Cancer, Screening & Prevention",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Recall what a biopsy leaves behind and which signs of infection a client should report.",
-   "hintStrategy": "Look for the instruction that prevents a complication. Eliminate harmful or incorrect advice.",
+   "hintStrategy": "Look for the instruction that prevents a complication. Watch for common home-care myths and for warning signs presented as normal.",
    "stem": "A 68-year-old retired farmer had a skin biopsy this morning of a pearly bump with tiny visible vessels on the forearm that has bled on and off. The site is covered with a small bandage. Which discharge instruction is most important for the nurse to include?",
    "options": [
-    "“Scrub the site with hydrogen peroxide twice a day to prevent infection.”",
-    "“Leave the site uncovered so a hard, dry scab can form over the wound.”",
+    "“Remove the bandage tonight and leave the site open to air so it can dry out.”",
+    "“Clean the site with hydrogen peroxide each day until it has fully healed.”",
     "“Keep the site clean and covered, and report redness or drainage.”",
-    "“You won't need sunscreen on this arm once the biopsy results come back.”"
+    "“Some redness and yellow drainage this week are a normal part of healing.”"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Scrubbing and hydrogen peroxide damage healing tissue.",
-    "Incorrect. A biopsy is an open wound that should be kept clean and covered to prevent infection.",
-    "Correct. The biopsy site is a small open wound. Keeping it clean and covered and reporting signs of infection or bleeding are the priority instructions.",
-    "Incorrect. The pearly lesion suggests basal cell carcinoma from years of sun. Sun protection continues whatever the result."
+    "Incorrect. The biopsy site is a small open wound. It is kept clean and covered to keep germs out, not left open to dry.",
+    "Incorrect. Hydrogen peroxide is a common home remedy that can damage healing tissue and slow healing.",
+    "Correct. The biopsy leaves a small open wound. Keeping it clean and covered, and reporting signs of infection or bleeding that won't stop, prevents complications.",
+    "Incorrect. Spreading redness and yellow (purulent) drainage are signs of infection that should be reported, not expected."
    ],
    "rationale": "A pearly, bleeding bump on sun-exposed skin suggests basal cell carcinoma, and a biopsy tells benign from cancerous tissue. The biopsy leaves an intentional open wound, so the priority teaching is to keep it clean and covered and report signs of infection (redness, swelling, drainage) or bleeding that won't stop. Sun protection continues regardless of the result.",
    "takeaway": "After a biopsy: keep it clean and covered, report infection or bleeding, and keep using sunscreen."
@@ -1717,29 +1719,29 @@
    "topic": "wound-types-classification",
    "alsoTests": [],
    "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
-   "hintContent": "Recall the four contamination classes and the key finding that defines the highest class.",
-   "hintStrategy": "Find the single clue in the stem that decides the class, and check that both halves of the option are correct.",
-   "stem": "A client has emergency surgery for a ruptured appendix, and pus is found throughout the abdomen. How should the nurse classify this surgical wound by contamination, and what does the class indicate?",
+   "hintContent": "Recall the four contamination classes and the event that moves a GI-tract surgery out of the clean-contaminated class.",
+   "hintStrategy": "Decide how the wound would be classified without the spill, then ask how the spill changes the class. Check whether infection is already present.",
+   "stem": "During an elective bowel resection on a prepared bowel, intestinal contents spill into the abdominal cavity. No pus or dead tissue is present. How should the nurse classify this surgical wound by contamination, and what does the class indicate?",
    "options": [
-    "Clean-contaminated, because the GI tract was entered, so infection risk is low",
-    "Dirty/infected, because pus was present, so infection risk is highest",
-    "Clean, because the incision was made with sterile technique, so risk is lowest",
-    "Contaminated, because the surgery was done as an emergency, so risk is moderate"
+    "Clean-contaminated, because the prepared bowel was entered electively, so risk is low",
+    "Contaminated, because GI contents spilled, so infection risk is higher",
+    "Dirty/infected, because stool entered the abdomen, so infection risk is highest",
+    "Clean, because sterile technique was used throughout, so infection risk is lowest"
    ],
    "answer": 1,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Clean-contaminated means a controlled entry into the GI, GU, or respiratory tract without spillage or infection.",
-    "Correct. Purulent drainage or a clinical infection already present makes the wound dirty/infected, the class with the highest infection risk.",
-    "Incorrect. A clean wound does not enter the GI tract and has no infection.",
-    "Incorrect. Emergency surgery alone does not set the class. Infection already present places it in the highest class."
+    "Incorrect. Controlled, elective entry into a prepared bowel would be clean-contaminated, but spillage of GI contents moves the wound to a higher class.",
+    "Correct. Spillage from the GI tract, like a fresh accidental wound or a major break in sterile technique, makes the wound contaminated, with a higher infection risk than a clean-contaminated wound.",
+    "Incorrect. Dirty/infected requires pus, dead tissue, or a clinical infection already present. Here the spill has just happened, and no infection is present yet.",
+    "Incorrect. A clean wound does not enter the GI, GU, or respiratory tract."
    ],
-   "rationale": "Wound classes by contamination rise from clean to clean-contaminated to contaminated to dirty/infected, and infection risk rises with each step. Pus, dead tissue, or a clinical infection already present, as with a ruptured appendix, defines dirty/infected, the highest-risk class. The nurse monitors this wound very closely for infection.",
-   "takeaway": "Pus or dead tissue already present = dirty/infected = highest infection risk."
+   "rationale": "Wound classes by contamination rise from clean to clean-contaminated to contaminated to dirty/infected, and infection risk rises with each step. Controlled entry into a prepared bowel would be clean-contaminated, but spillage of intestinal contents makes the wound contaminated. Dirty/infected is reserved for wounds where pus, dead tissue, or a clinical infection is already present. The nurse monitors this wound closely for signs of infection.",
+   "takeaway": "Controlled GI entry = clean-contaminated; spillage = contaminated; pus or dead tissue already present = dirty/infected."
   },
   {
    "id": "m21a-027",
@@ -2013,11 +2015,11 @@
    "focus": "Delegation & Safety",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "hintContent": "Recall why older skin tears and bruises easily, the slide bathing frequency for older adults, and the UAP's role on the skin care team.",
-   "hintStrategy": "Evaluate each instruction on its own. Ask whether it protects the skin and fits the UAP's role.",
+   "hintStrategy": "Evaluate each instruction on its own, including every detail. Ask whether it protects the skin and fits the UAP's role.",
    "stem": "The RN is delegating care of an 86-year-old client with thin, fragile skin and senile purpura on both forearms to a UAP. Which instructions should the RN give? Select all that apply.",
    "options": [
     "Use a draw sheet with a second person to reposition the client in bed",
-    "Bathe the client every other day with lukewarm water and a mild cleanser, then pat dry",
+    "Bathe the client daily with lukewarm water and a mild cleanser, then pat dry",
     "Dress the client in short sleeves so new bruising is easy to see",
     "Secure the IV dressing with extra adhesive tape so it stays in place",
     "Pad the bed rails and the wheelchair arms",
@@ -2025,13 +2027,12 @@
    ],
    "answer": [
     0,
-    1,
     4,
     5
    ],
    "optionRationales": [
     "Correct. Lifting with a draw sheet prevents friction and skin tears.",
-    "Correct. Older adults bathe every other day with lukewarm water and a mild cleanser, then pat dry to protect thin, dry skin.",
+    "Incorrect. Lukewarm water, a mild cleanser, and patting dry are right, but older adults bathe every other day. Daily bathing dries thin skin.",
     "Incorrect. Long sleeves protect fragile forearm skin from bumps.",
     "Incorrect. Adhesive can tear fragile skin when removed. Tape-free options are used.",
     "Correct. Padding hard surfaces prevents bruises and tears.",

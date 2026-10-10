@@ -47,7 +47,7 @@ window.NURSE_DATA.push({
     "lifespan-skin"
    ],
    "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
@@ -129,26 +129,26 @@ window.NURSE_DATA.push({
     "skin-structure-function"
    ],
    "ref": "Module 21 · Tissue Integrity · Tissue Integrity Across the Lifespan",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "hintContent": "Recall which oil-producing structures decrease with age and how often the slides say older adults should bathe.",
-   "hintStrategy": "Find the root cause of the dry skin in the stem, then choose the change that removes it.",
+   "hintStrategy": "Each option fixes part of the problem. Find every cause in the stem (how often, how hot, what soap) and choose the change that addresses all of them.",
    "stem": "An 84-year-old resident has thin, dry, itchy skin with scratch marks on both lower legs. She says she has showered every day in hot water with deodorant soap “my whole life.” Which change to her hygiene routine is the priority for the nurse to recommend?",
    "options": [
-    "Continue daily showers but switch to an antibacterial soap to prevent infection",
-    "Shower every other day in lukewarm water with a mild cleanser, then moisturize",
-    "Shower twice daily in cool water to relieve the itching on her legs",
-    "Continue daily hot showers and apply an alcohol-based lotion to her legs"
+    "Keep daily showers but switch to a mild cleanser and pat the skin dry",
+    "Shower every other day with lukewarm water and a mild cleanser, then moisturize",
+    "Keep her daily hot showers, which she enjoys, and apply a scented lotion at bedtime",
+    "Switch to a daily cool sponge bath with antibacterial soap to relieve the itching"
    ],
    "answer": 1,
    "priority": true,
    "optionRationales": [
-    "Incorrect. Daily washing with harsh soap strips oil from skin that already has fewer oil glands.",
-    "Correct. Older adults have fewer sebaceous glands, so hot water and harsh soap dry the skin. The slides recommend bathing every other day with lukewarm water and a mild cleanser, then moisturizing.",
-    "Incorrect. More frequent bathing increases dryness, which worsens the itching.",
-    "Incorrect. Hot water dries the skin, and alcohol-based products worsen dryness."
+    "Incorrect. A mild cleanser and patting dry help, but daily bathing still strips oil from skin that has fewer oil glands, and this plan leaves out moisturizing.",
+    "Correct. Older adults have fewer sebaceous glands, so hot water, harsh soap, and daily bathing dry the skin. The slides recommend bathing every other day with lukewarm water and a mild cleanser, then moisturizing.",
+    "Incorrect. Respecting preferences matters, but hot water dries the skin and fragrance irritates it. Lotion hours later does not lock in moisture from the bath.",
+    "Incorrect. Cool water may soothe itching briefly, but daily bathing with antibacterial soap strips oils and worsens dryness."
    ],
    "rationale": "Aging reduces sebaceous (oil) glands, so older skin is dry and itchy, and scratching can break the barrier. Hot water, deodorant soap, and daily bathing all strip the remaining oils. The slides recommend bathing older adults every other day with lukewarm water and a mild or liquid cleanser, patting dry, and moisturizing right after the bath.",
    "takeaway": "Older adults: bathe every other day, lukewarm water, mild cleanser, moisturize."
@@ -357,7 +357,7 @@ window.NURSE_DATA.push({
     "Thin, translucent skin with visible veins on the backs of both hands",
     "Flat, dark purple patches on the forearms that appear with the smallest bump",
     "Several oval bruises in different stages of healing on both inner upper arms",
-    "Multiple waxy, brown, “stuck-on” raised lesions on the back",
+    "Several flat, light-brown age spots on the backs of both hands, unchanged for years",
     "A 9-mm dark mole on the left calf with a notched border that seems bigger",
     "A pearly sore on the right ear rim that has bled on and off for 2 months"
    ],
@@ -370,11 +370,11 @@ window.NURSE_DATA.push({
     "Incorrect. Thin, translucent skin is an expected aging change from fewer melanocytes and a thinner dermis.",
     "Incorrect. These are senile purpura, expected with fragile aging vessels.",
     "Correct. Bruises in different stages in a protected area (inner arms) may indicate abuse and must be documented objectively and reported.",
-    "Incorrect. Waxy, stuck-on lesions that are not changing are typically benign growths common in older adults.",
+    "Incorrect. Age spots are sun-related pigment clusters common in older adults. They are usually harmless while they stay unchanged.",
     "Correct. A mole with an irregular border, a diameter over 6 mm, and evolving size meets ABCDE criteria for possible melanoma.",
     "Correct. A pearly, bleeding sore that won't heal on a sun-exposed area suggests basal cell carcinoma."
    ],
-   "rationale": "Knowing normal aging lets the nurse pick out what is not normal. Thin skin, senile purpura, and stable stuck-on lesions are expected. Bruises in different stages in protected areas suggest possible abuse. A mole meeting ABCDE criteria and a pearly sore that bleeds and won't heal suggest skin cancer and need referral.",
+   "rationale": "Knowing normal aging lets the nurse pick out what is not normal. Thin skin, senile purpura, and unchanged age spots are expected. Bruises in different stages in protected areas suggest possible abuse. A mole meeting ABCDE criteria and a pearly sore that bleeds and won't heal suggest skin cancer and need referral.",
    "takeaway": "Expected aging vs. red flags: patterned bruises, ABCDE moles, and non-healing sores need follow-up."
   },
   {
@@ -416,26 +416,26 @@ window.NURSE_DATA.push({
     "skin-assessment-lesions"
    ],
    "ref": "Module 21 · Tissue Integrity · Skin Structure & Function",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Health Promotion and Maintenance",
    "hintContent": "Recall how the skin makes vitamin D and how melanin and aging affect that process.",
-   "hintStrategy": "Count the risk factors each client has. Choose the client with the most.",
-   "stem": "The clinic nurse is reviewing four clients' histories during intake. Which client has the greatest risk for vitamin D deficiency related to reduced skin synthesis?",
+   "hintStrategy": "Several clients have one or two risk factors. List each client's risks (age, skin tone, sun exposure) and choose the client with the most.",
+   "stem": "The clinic nurse is reviewing four clients' histories during intake. Which client has the greatest risk for vitamin D deficiency related to reduced synthesis in the skin?",
    "options": [
-    "A 24-year-old lifeguard with light skin who uses SPF 30 sunscreen",
-    "A 45-year-old landscaper with medium skin who works outside year-round",
-    "A 16-year-old soccer player with dark skin who practices outdoors daily",
-    "An 86-year-old homebound client with dark skin"
+    "A 72-year-old with light skin who walks outdoors in the sun for an hour every day",
+    "A 30-year-old with dark skin who works night shifts and sleeps through most of the day",
+    "A 25-year-old with light skin who wears long sleeves and a hat whenever outdoors",
+    "An 80-year-old with dark skin who lives in long-term care and rarely goes outside"
    ],
    "answer": 3,
    "priority": false,
    "optionRationales": [
-    "Incorrect. This client gets a lot of sun exposure, and young skin makes vitamin D efficiently.",
-    "Incorrect. Year-round outdoor work provides ample UV exposure.",
-    "Incorrect. Daily outdoor activity offsets the effect of more melanin.",
-    "Correct. Older age, darker skin (more melanin blocks UV), and little sun exposure each reduce vitamin D production, so this client has three risks at once."
+    "Incorrect. Older age reduces vitamin D production, but daily sun exposure and light skin offset much of that risk. This client has one risk factor.",
+    "Incorrect. Darker skin and little daytime sun are two risk factors, but younger skin still makes vitamin D efficiently.",
+    "Incorrect. Covering up reduces the UV that reaches the skin, but this young client with light skin has only one risk factor.",
+    "Correct. Older age (aging skin makes less vitamin D), darker skin (more melanin blocks UV), and little sun exposure combine, so this client has three risks at once."
    ],
    "rationale": "The skin makes vitamin D when UV light strikes it. Melanin absorbs UV, so darker skin makes less vitamin D for the same sun exposure. Aging skin also makes less, and homebound clients get little sun. The client who combines all three risks is at highest risk.",
    "takeaway": "Older age + darker skin + little sun = highest risk for low vitamin D."
@@ -540,7 +540,7 @@ window.NURSE_DATA.push({
    "topic": "skin-assessment-lesions",
    "alsoTests": [],
    "ref": "Module 21 · Tissue Integrity · Skin Assessment & Lesions",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Recognize Cues",
    "focus": "Lifespan & Diversity",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
@@ -582,7 +582,7 @@ window.NURSE_DATA.push({
    "options": [
     "A client with new raised wheals on the trunk who reports a hoarse voice",
     "A client with psoriasis who has silvery, scaly plaques on both elbows",
-    "An older adult with several waxy, stuck-on brown papules on the upper back",
+    "An older adult with flat, light-brown age spots on the backs of both hands",
     "An adolescent with scattered pustules on the forehead and chin"
    ],
    "answer": 0,
@@ -590,7 +590,7 @@ window.NURSE_DATA.push({
    "optionRationales": [
     "Correct. Wheals (hives) with a hoarse voice suggest an allergic reaction affecting the airway, an emergency.",
     "Incorrect. Psoriasis is a chronic inflammatory disorder and is not an emergency.",
-    "Incorrect. Stable, stuck-on lesions in an older adult are usually benign.",
+    "Incorrect. Unchanged age spots are common, usually harmless findings in older adults.",
     "Incorrect. Acne pustules are a common adolescent inflammatory disorder, not urgent."
    ],
    "rationale": "Most inflammatory skin disorders, such as psoriasis and acne, are chronic or uncomfortable but not dangerous. Wheals, a primary lesion of allergic reactions, become an emergency when paired with hoarseness, wheezing, or throat tightness, because the airway is involved. Airway comes first.",
@@ -845,28 +845,28 @@ window.NURSE_DATA.push({
     "diagnostics-labs-nutrition"
    ],
    "ref": "Module 21 · Tissue Integrity · Infectious Skin Disorders",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Recall which clients are at greatest risk from fungal infections and what a low WBC means for defense and healing.",
-   "hintStrategy": "All clients have the same infection. Compare their immune status.",
+   "hintStrategy": "All clients have a fungal infection, and more than one has a risk factor. Compare how well each client's immune system can contain it.",
    "stem": "The nurse is reviewing four clients who each have tinea (a fungal skin infection). Which client should the nurse follow up with first because of the greatest risk for a serious complication?",
    "options": [
-    "A 20-year-old college athlete with athlete's foot and a WBC of 7,600/mm³",
-    "A 35-year-old with ringworm on the forearm after adopting a kitten",
-    "A 58-year-old on chemotherapy for leukemia with a WBC of 1,900/mm³",
-    "A 10-year-old with a scaly patch on the scalp and mild hair loss"
+    "A 20-year-old college athlete with athlete's foot and cracked skin between the toes",
+    "A 67-year-old with type 2 diabetes and ringworm on the trunk; WBC 8,400/mm³",
+    "A 58-year-old receiving chemotherapy for leukemia; WBC 1,900/mm³",
+    "A 10-year-old with a scaly patch on the scalp and mild patchy hair loss"
    ],
    "answer": 2,
    "priority": true,
    "optionRationales": [
-    "Incorrect. A healthy client with a normal WBC can keep a fungal infection on the surface.",
-    "Incorrect. Ringworm in a healthy adult is usually mild.",
-    "Correct. Chemotherapy and a low WBC make the client immunocompromised. Fungi are most dangerous in immunocompromised clients and can spread deep or into the blood.",
-    "Incorrect. Tinea capitis in a healthy child needs treatment but is not the highest risk."
+    "Incorrect. Cracks between the toes can let bacteria in, but a healthy young adult can usually keep a fungal infection on the surface.",
+    "Incorrect. Diabetes is a chronic illness that raises skin infection risk, but this client's normal WBC shows working infection defense.",
+    "Correct. Chemotherapy and a low WBC make this client immunocompromised. Fungi are most dangerous in immunocompromised clients because the infection can spread deep or into the blood.",
+    "Incorrect. Tinea capitis in a healthy child needs treatment but is not the highest risk for a serious complication."
    ],
-   "rationale": "Fungi are more dangerous in immunocompromised clients because a weak immune system cannot keep the infection on the surface. A low WBC also means poor infection defense and delayed healing, and it can hide the usual signs of infection. This client needs the closest follow-up.",
+   "rationale": "Fungi are more dangerous in immunocompromised clients because a weak immune system cannot keep the infection on the surface. Chronic illness such as diabetes raises skin risk, but chemotherapy with a WBC of 1,900/mm³ means very poor infection defense and delayed healing, and a low WBC can also hide the usual signs of infection. This client needs the closest follow-up.",
    "takeaway": "Fungal infection + chemotherapy or low WBC = highest risk; report it."
   },
   {
@@ -1091,21 +1091,21 @@ window.NURSE_DATA.push({
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "hintContent": "Recall what type of contact dermatitis urine and stool cause and which age group reacts most strongly.",
-   "hintStrategy": "Choose the option that removes the cause.",
+   "hintStrategy": "Choose the option that removes the cause. Reject options that add friction, fragrance, or trapped moisture.",
    "stem": "A 7-month-old has had frequent loose stools for 2 days. The nurse notes red, shiny, irritated skin on the buttocks and genitals where the diaper touches, with the deep skin folds spared. Which instruction should the nurse give the parent?",
    "options": [
-    "Scrub the area with antibacterial soap at each diaper change",
-    "Cover the diaper with plastic pants to keep the moisture in",
-    "Change diapers often and keep the skin clean and dry",
-    "Leave soiled diapers on longer so the skin can rest between changes"
+    "Clean the area at each change with scented baby wipes to remove all stool",
+    "Fasten the diaper snugly and cover it with plastic pants to prevent leaks",
+    "Change the diaper as soon as it is wet or soiled and let the skin air-dry",
+    "Wash the area with soap and water at each change and rub it dry with a towel"
    ],
    "answer": 2,
    "priority": false,
    "optionRationales": [
-    "Incorrect. Scrubbing and harsh soap further damage irritated skin.",
-    "Incorrect. Plastic pants trap moisture and worsen irritation.",
-    "Correct. This is irritant dermatitis from urine and stool. Frequent changes and keeping the skin clean and dry remove the irritant.",
-    "Incorrect. Longer contact with stool and urine worsens the damage."
+    "Incorrect. Fragrance in scented wipes can further irritate damaged skin. Gentle cleaning with fragrance-free products is preferred.",
+    "Incorrect. A tight diaper and plastic pants trap urine and stool against the skin and worsen irritation.",
+    "Correct. This is irritant dermatitis from urine and stool. Prompt changes and air-drying remove the irritant and let the skin recover.",
+    "Incorrect. Soap at every change and rubbing further damage irritated skin. The area is cleaned gently and allowed to air-dry or patted dry."
    ],
    "rationale": "Diaper dermatitis is an irritant contact dermatitis: urine and stool directly damage the skin, especially with diarrhea, and infants have the strongest irritant response. Redness where the diaper touches, with folds spared, fits this pattern. Care removes the irritant: frequent changes, gentle cleaning, air drying, and a barrier cream if ordered.",
    "takeaway": "Diaper rash = irritant dermatitis: change often, keep clean and dry."

@@ -198,7 +198,7 @@
    "clientNeed": "Health Promotion and Maintenance",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Client Teaching",
    "alsoTests": [
@@ -435,7 +435,7 @@
    "rationale": "In older adults, infection often shows up as new confusion, falls, and poor appetite, with only a small temperature rise over a low baseline (here 1.3 °C). The HR >90, RR >20, and WBC >12,000 with bands show a systemic response. Among the actions, the SpO₂ of 89% is the most immediate threat (breathing), so oxygen is applied first; cultures and further work-up follow.",
    "takeaway": "Atypical infection in older adults: compare with baseline to recognize it, but treat ABC problems like hypoxia first.",
    "hintContent": "Link atypical signs of infection in older adults, the systemic-sign cutoffs, and the ABC priority framework.",
-   "hintStrategy": "Several options are appropriate; pick the one that addresses the airway/breathing threat."
+   "hintStrategy": "Several options are appropriate; rank them with the ABC framework, using the most abnormal values in the exhibit."
   },
   {
    "id": "m10c-009",
@@ -516,7 +516,7 @@
    "clientNeed": "Health Promotion and Maintenance",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "alsoTests": [
@@ -524,22 +524,22 @@
    ],
    "stem": "A client has painful, red, warm skin on both shoulders after a day at the beach without sunscreen. T is 37.2 °C (99.0 °F), and the skin is intact. The client asks, \"Why is it red and hot, and do I need an antibiotic?\" Which response by the nurse is best?",
    "options": [
-    "\"Bacteria multiplied in the heat; an antibiotic will stop the redness.\"",
-    "\"The sun injured the skin, and widened vessels cause the redness; no antibiotic is needed.\"",
-    "\"Your immune system has started attacking your own skin cells, so you will need a steroid.\"",
-    "\"Fluid leaking from vessels is starting an infection, so an antibiotic is a good idea.\""
+    "“UV rays injured the skin, and leaky capillaries make it red and hot; no antibiotic is needed.”",
+    "“UV rays injured the skin, and widened vessels bring in warm blood; no antibiotic is needed.”",
+    "“Bacteria multiplied in the sun-damaged skin, so an antibiotic will stop the redness.”",
+    "“Your immune system is attacking your own skin cells, so a steroid will be needed.”"
    ],
    "answer": 1,
    "optionRationales": [
-    "Sunburn is caused by UV radiation, a physical agent, not by bacteria; antibiotics would not help.",
-    "Correct. UV radiation is a physical agent that injures cells, and vasodilation brings more warm blood to the area, causing redness and heat. No microorganism is involved.",
-    "Sunburn is not an autoimmune process; the response is to an external injury.",
-    "Leaking fluid causes swelling, not infection; with intact skin and no fever, there is no sign of infection."
+    "The cause is right, but leaky capillaries explain swelling, not redness and heat.",
+    "Correct. UV radiation is a physical agent that injures cells, and vasodilation brings more warm core blood to the area, causing redness and heat. No microorganism is involved.",
+    "Sunburn is caused by UV radiation, a physical agent; with intact skin and no fever there is no sign of infection, and an antibiotic would not help.",
+    "Sunburn is not an autoimmune process; the response is to an external injury."
    ],
    "rationale": "Inflammation is a response to any harm, and infection is only one cause. UV radiation is a physical agent. The redness and heat of the sunburn come from vasodilation bringing extra warm blood to the injured skin. Because no microorganism is present, an antibiotic has no role.",
    "takeaway": "Inflammation is not infection: physical injuries like sunburn cause redness and heat through vasodilation, without germs.",
    "hintContent": "Recall the three categories of causes of inflammation and the process that produces redness and heat.",
-   "hintStrategy": "Choose the response that correctly identifies both the cause and the mechanism."
+   "hintStrategy": "Check both halves of each response: the cause and the mechanism must both be correct."
   },
   {
    "id": "m10c-013",
@@ -548,7 +548,7 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Nursing Interventions",
    "alsoTests": [
@@ -559,19 +559,19 @@
     "The skin over the wrist stays pale and cool 1 hour after the pack is removed",
     "The client reports numbness in the fingers while the cold pack is in place",
     "Wrist circumference has decreased from 18.5 cm to 17.6 cm",
-    "Bruising over the wrist has spread toward the forearm"
+    "The client says the wrist “feels much less tight and sore than yesterday”"
    ],
    "answer": 2,
    "optionRationales": [
     "Skin that stays pale and cool long after cold removal suggests impaired circulation or cold injury, not success.",
     "Numbness during cold therapy means the cold should be removed; it is an adverse effect.",
-    "Correct. Cold causes vasoconstriction and elevation lowers hydrostatic pressure, both reducing leakage; a measurable decrease in circumference proves less edema.",
-    "Spreading bruising shows worsening, not improvement."
+    "Correct. Cold causes vasoconstriction and elevation lowers hydrostatic pressure, both reducing leakage; a measurable decrease in circumference at the same spot proves there is less edema.",
+    "Less tightness and soreness is encouraging, but it is subjective; a measured decrease in circumference is stronger evidence that the swelling has gone down."
    ],
-   "rationale": "Swelling comes from increased capillary permeability and higher hydrostatic pressure. Cold (vasoconstriction) and elevation (lower hydrostatic pressure, better venous and lymph return) target those mechanisms. The best evidence they worked is a measurable drop in circumference at the same spot. Pale, cool, or numb skin signals harm from the treatment.",
-   "takeaway": "Evaluate swelling with an objective measurement such as circumference.",
+   "rationale": "Swelling comes from increased capillary permeability and higher hydrostatic pressure. Cold (vasoconstriction) and elevation (lower hydrostatic pressure, better venous and lymph return) target those mechanisms. The best evidence they worked is a measurable drop in circumference at the same spot; the client's report of feeling better supports it but is subjective. Pale, cool, or numb skin signals harm from the treatment.",
+   "takeaway": "Evaluate swelling with an objective measurement such as circumference, not only the client's report.",
    "hintContent": "Connect why cold and elevation reduce swelling with how to measure a change in swelling and the safety signs of cold therapy.",
-   "hintStrategy": "Look for the option that is both objective and shows the intended effect, not an adverse effect."
+   "hintStrategy": "Rank each finding by whether it shows benefit or harm, then by how measurable it is."
   },
   {
    "id": "m10c-014",
@@ -640,7 +640,7 @@
    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Nursing Interventions",
    "alsoTests": [
@@ -648,22 +648,22 @@
    ],
    "stem": "A client recovering from drainage of a thigh abscess has a wound that is now filling with beefy red, moist tissue. The client asks for a between-meal snack. Which snack should the nurse recommend to best support this phase of healing?",
    "options": [
-    "A bowl of buttered white rice with gravy",
-    "Saltine crackers with a diet soda",
+    "Peanut butter on white toast with a glass of water",
+    "Orange slices with a plain rice cake",
     "Greek yogurt with sliced strawberries",
-    "A glass of apple juice and a rice cake"
+    "A glass of apple juice with saltine crackers"
    ],
    "answer": 2,
    "optionRationales": [
-    "White rice with gravy provides mostly carbohydrate and fat, with little protein or vitamin C.",
-    "Saltines and diet soda provide little protein, vitamin C, or useful fluid for repair.",
+    "Peanut butter adds protein, but the snack provides little vitamin C, which is needed to build strong collagen.",
+    "Oranges provide vitamin C, but the snack has very little protein, the building block for new tissue and collagen.",
     "Correct. Greek yogurt provides protein and strawberries provide vitamin C, both needed to build granulation tissue and collagen.",
-    "Apple juice and a rice cake are mostly simple carbohydrate, low in protein and vitamin C."
+    "Apple juice and saltines are mostly simple carbohydrate, low in protein and vitamin C."
    ],
-   "rationale": "Beefy red, moist tissue is granulation tissue, which means the wound is in the reparative stage. Fibroblasts now lay down collagen, which needs protein for building blocks and vitamin C to form strong fibers. The best snack supplies both.",
+   "rationale": "Beefy red, moist tissue is granulation tissue, which means the wound is in the reparative stage. Fibroblasts now lay down collagen, which needs protein for building blocks and vitamin C to form strong fibers. The best snack supplies both; snacks that supply only one of them are partial answers.",
    "takeaway": "Granulation = reparative phase; support it with protein plus vitamin C.",
    "hintContent": "Identify the stage from the wound description, then recall which nutrients build new tissue and collagen.",
-   "hintStrategy": "Name the stage first, then pick the snack with the nutrients that stage needs."
+   "hintStrategy": "Name the stage first, then check each snack for both nutrients that stage needs."
   },
   {
    "id": "m10c-021",
@@ -696,7 +696,7 @@
    "rationale": "The fever and tachycardia are systemic signs of the lung inflammation. Prostaglandins drive the fever, and acetaminophen has just been given to lower it. While it takes effect, the nurse replaces the fluid lost through fever and sweating and provides comfort. Fluids are also part of promoting healing.",
    "takeaway": "Fever care: give the prescribed antipyretic, replace fluids, keep the client dry, and recheck.",
    "hintContent": "Connect systemic signs, how an antipyretic works and is timed, and why fever increases fluid needs.",
-   "hintStrategy": "Eliminate options that worsen the fluid deficit, trap heat, or repeat a drug too soon."
+   "hintStrategy": "Decide what the fever and sweating are doing to the client's fluid balance and comfort while the antipyretic takes effect."
   },
   {
    "id": "m10c-024",
@@ -735,7 +735,7 @@
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Delegation & Safety",
    "alsoTests": [
@@ -744,22 +744,22 @@
    ],
    "stem": "The RN is caring for an 88-year-old client admitted with pneumonia whose baseline temperature is 36.1 °C (97.0 °F). Which instruction is most important for the RN to give the unlicensed assistive personnel (UAP)?",
    "options": [
-    "Report the temperature only if it rises above 39 °C (102.2 °F)",
+    "Report a temperature below 36 °C (96.8 °F) or above 38.5 °C (101.3 °F)",
     "Keep the client in bed to conserve energy and do not offer to walk",
     "Report any new confusion or change in behavior right away",
-    "Limit the client's fluids to 1 L per day to prevent fluid overload"
+    "Report the temperature only if it rises above 39 °C (102.2 °F)"
    ],
    "answer": 2,
    "optionRationales": [
-    "Older adults often have a blunted fever response; waiting for 39 °C could miss worsening infection, and a low temperature can also be significant.",
+    "These are the course cutoffs for a systemic temperature, but this client's baseline is 36.1 °C. A rise of about 1 °C above baseline can signal infection in an older adult and would be missed by waiting for 38.5 °C.",
     "Strict bed rest increases complications; activity is individualized, not withheld.",
     "Correct. New confusion is often the first sign of worsening infection in an older adult, and the UAP can observe and report it.",
-    "Fluids are not restricted without a prescription; fever and infection increase fluid needs."
+    "Older adults often have a blunted fever response; waiting for 39 °C could miss worsening infection entirely."
    ],
-   "rationale": "Older adults may show infection as confusion, falls, or poor appetite instead of a high fever, and a temperature below 36 °C also counts as a systemic sign. The UAP can observe and report changes, while the RN assesses and acts. The most useful instruction targets the earliest, most likely warning sign in this age group.",
+   "rationale": "Older adults may show infection as confusion, falls, or poor appetite instead of a high fever, and their own baseline matters more than textbook cutoffs. Temperature-based instructions, even ones using the course cutoffs, can miss early infection in a client whose baseline is 36.1 °C. The UAP can observe and report changes while the RN assesses and acts, so the most useful instruction targets the earliest, most likely warning sign in this age group.",
    "takeaway": "Teach the UAP to report new confusion in older adults right away.",
    "hintContent": "Link atypical signs of infection in older adults, the systemic temperature cutoffs (high and low), and what the UAP may observe and report.",
-   "hintStrategy": "Choose the instruction within UAP scope that catches the earliest sign of trouble for this age group."
+   "hintStrategy": "Choose the instruction within UAP scope that catches the earliest sign of trouble for this client's age and baseline."
   },
   {
    "id": "m10c-029",
@@ -773,30 +773,29 @@
    "alsoTests": [],
    "stem": "The nurse is reviewing the admitting diagnoses of clients in an urgent care clinic. Which clients have inflammation that is NOT caused by a microorganism? Select all that apply.",
    "options": [
-    "A client with sunburn after a day at the beach",
+    "A client with gastritis from excess stomach acid",
     "A client with strep throat and a positive rapid antigen test",
-    "A client with a chemical burn from a drain cleaner",
-    "A client with an ankle sprain from a fall",
-    "A client with a urinary tract infection from E. coli",
-    "A client with contact dermatitis from poison ivy"
+    "A client with frostbite of the toes after a winter hike",
+    "A client with a fungal rash in the groin",
+    "A client with cellulitis that developed around a cat scratch",
+    "A client with skin redness at a radiation therapy site"
    ],
    "answer": [
     0,
     2,
-    3,
     5
    ],
    "optionRationales": [
-    "Correct. UV radiation is a physical agent.",
+    "Correct. Stomach acid irritating the stomach lining is an internal chemical agent.",
     "Strep throat is caused by bacteria, a microorganism.",
-    "Correct. Drain cleaner is an external chemical agent.",
-    "Correct. Trauma is a physical agent.",
-    "E. coli is a bacterium, a microorganism.",
-    "Correct. Poison ivy oil is a chemical agent."
+    "Correct. Cold is a physical agent.",
+    "Fungi are microorganisms, so a fungal rash is microbial inflammation.",
+    "Cellulitis is a bacterial skin infection; the scratch was only the entry point for the microorganism.",
+    "Correct. Radiation is a physical agent."
    ],
-   "rationale": "Inflammation is triggered by microorganisms, chemical agents, or physical agents. Sunburn and sprain are physical; drain-cleaner burn and poison ivy dermatitis are chemical. Strep throat and an E. coli UTI are caused by bacteria.",
+   "rationale": "Inflammation is triggered by microorganisms (bacteria, fungi, viruses, parasites), chemical agents (internal acids, external poisons), or physical agents (trauma, heat or cold, radiation). Gastritis from stomach acid is chemical, and frostbite and radiation skin changes are physical. Strep throat, a fungal rash, and cellulitis are caused by microorganisms.",
    "takeaway": "Inflammation can occur with no infection: physical and chemical agents cause it too.",
-   "hintContent": "Recall the three categories of causes of inflammation and examples of each.",
+   "hintContent": "Recall the three categories of causes of inflammation and what each category includes.",
    "hintStrategy": "Label each client microorganism, chemical, or physical, then select the non-microbial ones."
   },
   {
@@ -1000,7 +999,7 @@
    "ref": "Module 10 · Inflammation · What Inflammation Is (and Isn't)",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "type": "sata",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "alsoTests": [
@@ -1009,29 +1008,29 @@
    "stem": "A client is admitted with acute pancreatitis. Which findings indicate a systemic (generalized) inflammatory response according to the course cutoffs? Select all that apply.",
    "options": [
     "Epigastric tenderness to palpation",
-    "T 38.9 °C (102.0 °F)",
-    "Heart rate 96/min",
-    "Respiratory rate 18/min",
+    "T 35.8 °C (96.4 °F)",
+    "Heart rate 90/min",
+    "Respiratory rate 24/min",
     "WBC 15,200/mm³",
     "Guarding of the upper abdomen"
    ],
    "answer": [
     1,
-    2,
+    3,
     4
    ],
    "optionRationales": [
     "Tenderness over the pancreas is a local finding.",
-    "Correct. A temperature above 38.5 °C (101.3 °F) is a systemic sign.",
-    "Correct. A heart rate above 90/min is a systemic sign.",
-    "A respiratory rate of 18/min does not exceed the cutoff of 20/min.",
+    "Correct. A temperature below 36 °C (96.8 °F) is a systemic sign, just as a high fever is.",
+    "A heart rate of exactly 90/min does not exceed the cutoff of more than 90/min.",
+    "Correct. A respiratory rate above 20/min is a systemic sign.",
     "Correct. A WBC above 12,000/mm³ is a systemic sign.",
     "Guarding protects the inflamed organ and is a local finding."
    ],
-   "rationale": "The course lists systemic signs as T >38.5 °C or <36 °C, HR >90, RR >20, and WBC >12,000 or increased bands. Tenderness and guarding are local signs at the pancreas. Applying the exact cutoffs separates systemic findings from normal values like an RR of 18.",
-   "takeaway": "Systemic cutoffs: T >38.5 °C or <36 °C, HR >90, RR >20, WBC >12,000 or ↑ bands.",
+   "rationale": "The course lists systemic signs as T >38.5 °C or <36 °C, HR >90, RR >20, and WBC >12,000 or increased bands. Tenderness and guarding are local signs at the pancreas. A low temperature counts as much as a high one, and a value exactly at a 'more than' cutoff, such as HR 90, does not meet it.",
+   "takeaway": "Systemic cutoffs: T >38.5 °C or <36 °C, HR >90, RR >20, WBC >12,000 or ↑ bands; check both directions and the exact cutoff.",
    "hintContent": "Recall the four systemic-sign cutoffs and the difference between local and systemic findings.",
-   "hintStrategy": "Check each numeric value against its cutoff; treat organ tenderness and guarding as local."
+   "hintStrategy": "Check each numeric value against its cutoff in both directions and note where the cutoff requires 'more than'; treat organ tenderness and guarding as local."
   },
   {
    "id": "m10c-037",
@@ -1063,7 +1062,7 @@
    "rationale": "Swelling from increased permeability can compress vessels and nerves, and cold itself can injure skin. The nurse first assesses skin, sensation, and circulation to establish a baseline, then wraps the pack, elevates, and applies it for 15–20 minutes.",
    "takeaway": "Assess skin, sensation, and circulation before applying cold.",
    "hintContent": "Connect the risks of swelling and cold therapy with the steps of safe cold application.",
-   "hintStrategy": "When all options are correct steps, choose the assessment that must come before the others."
+   "hintStrategy": "Several options are correct steps of cold application; decide which one the others depend on."
   },
   {
    "id": "m10c-038",
@@ -1181,12 +1180,11 @@
     "Fever and body aches during influenza",
     "Blood that keeps flowing at an injured site instead of clotting",
     "Pain and fever that are relieved by ibuprofen",
-    "Itching and hives that are relieved by an antihistamine"
+    "Throbbing pain and swelling at a fresh ankle sprain"
    ],
    "answer": [
     0,
-    3,
-    5
+    3
    ],
    "optionRationales": [
     "Correct. Mast cells release histamine within seconds, causing local vasodilation, leak, and itching.",
@@ -1194,12 +1192,12 @@
     "Prostaglandins cause fever and aches.",
     "Correct. Heparin, released with histamine, prevents clotting and keeps blood flowing to the site.",
     "Findings relieved by an NSAID are driven by prostaglandins.",
-    "Correct. An antihistamine blocks histamine, so relief of itching and hives confirms histamine caused them."
+    "Throbbing pain with swelling at an injury is the signature of bradykinin (with prostaglandins), which dilates vessels, increases leak, and stimulates pain nerves."
    ],
-   "rationale": "Histamine and heparin are released from mast cells: histamine increases blood flow and permeability and causes itching and hives, and heparin prevents clotting. Which drug relieves a symptom also points to the mediator: antihistamines work on histamine effects, while NSAIDs work on prostaglandin effects.",
-   "takeaway": "Histamine = itch, hives, leak (relieved by antihistamines); heparin = no clotting; prostaglandins = fever and pain (relieved by NSAIDs).",
+   "rationale": "Histamine and heparin are released from mast cells: histamine increases blood flow and permeability and causes itching and hives, and heparin prevents clotting. Other findings point to other mediators: leukotrienes recruit WBCs, prostaglandins cause fever and NSAID-responsive pain, and bradykinin causes the throbbing pain of a fresh injury.",
+   "takeaway": "Histamine = itch, hives, leak; heparin = no clotting; bradykinin = throbbing pain; leukotrienes = WBC recruitment; prostaglandins = fever and NSAID-relieved pain.",
    "hintContent": "Match each mediator to its signature effect and to the drug class that blocks it.",
-   "hintStrategy": "Name the mediator behind each finding, using the relieving drug as a clue."
+   "hintStrategy": "Name the mediator behind each finding using its signature effect, then select only the histamine and heparin findings."
   },
   {
    "id": "m10c-042",
@@ -1232,7 +1230,7 @@
    "rationale": "Chronic inflammation of the gut reduces nutrient absorption, which affects a child's growth, weight, and strength. The dietitian is a key collaborative team member for chronic inflammation. Height and weight are plotted on a growth chart, and adolescents are interviewed privately.",
    "takeaway": "Child with chronic gut inflammation and poor growth: dietitian referral and growth monitoring.",
    "hintContent": "Connect the effect of chronic gut inflammation on growth with the collaborative team and adolescent care.",
-   "hintStrategy": "Eliminate options that worsen nutrition, are unsafe for teens, or ignore adolescent privacy."
+   "hintStrategy": "Consider what slows growth in chronic gut inflammation and which team member addresses it, while keeping adolescent safety and privacy in mind."
   },
   {
    "id": "m10c-043",
@@ -1274,7 +1272,7 @@
    "clientNeed": "Health Promotion and Maintenance",
    "type": "mcq",
    "priority": true,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "alsoTests": [
@@ -1283,22 +1281,22 @@
    ],
    "stem": "A 64-year-old client with a 40 pack-year smoking history has chronic obstructive pulmonary disease (COPD), with a daily productive cough and dyspnea that has slowly worsened over 6 years. Which intervention is the nurse's priority to slow the progression of the chronic airway inflammation?",
    "options": [
-    "Teach the client to complete a 7-day course of antibiotics",
+    "Teach the client to complete each prescribed course of antibiotics",
     "Support the client in quitting smoking",
-    "Recommend a daily NSAID to reduce airway inflammation",
-    "Restrict daily fluid intake to reduce mucus production"
+    "Refer the client to a dietitian for an anti-inflammatory diet",
+    "Recommend a daily NSAID to reduce the airway inflammation"
    ],
    "answer": 1,
    "optionRationales": [
     "Antibiotics treat acute infections on top of COPD but do not stop the chronic process.",
     "Correct. Cigarette smoke is the persistent irritant that keeps the chronic inflammation going; removing it (a modifiable risk factor) slows progression.",
-    "Long-term daily NSAIDs carry GI, kidney, and bleeding risks and do not remove the cause.",
-    "Restricting fluids thickens secretions and does not affect the inflammation."
+    "An anti-inflammatory diet can help lower inflammation overall, but it does not remove the smoke that restarts the airway inflammation every day.",
+    "Long-term daily NSAIDs carry GI, kidney, and bleeding risks and do not remove the cause."
    ],
-   "rationale": "Chronic inflammation persists when the trigger keeps returning. In COPD, cigarette smoke restarts the response every day. Prevention equals avoidance of triggers, and smoking is a modifiable risk factor, so smoking cessation is the most effective intervention. Antibiotics and NSAIDs do not remove the cause.",
+   "rationale": "Chronic inflammation persists when the trigger keeps returning. In COPD, cigarette smoke restarts the response every day. Prevention equals avoidance of triggers, and smoking is a modifiable risk factor, so smoking cessation is the most effective intervention. Diet changes help general inflammation, and antibiotics and NSAIDs treat other problems, but none of them removes the cause.",
    "takeaway": "Chronic inflammation from a persistent irritant: remove the trigger.",
    "hintContent": "Connect why chronic inflammation persists with modifiable risk factors and the limits of drug therapy.",
-   "hintStrategy": "Ask what keeps the inflammation going, then choose the action that removes it."
+   "hintStrategy": "Ask what keeps this client's inflammation going day after day, then compare how directly each option affects it."
   },
   {
    "id": "m10c-045",
@@ -1307,7 +1305,7 @@
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "type": "mcq",
    "priority": false,
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Take Action",
    "focus": "Client Teaching",
    "alsoTests": [
@@ -1315,17 +1313,17 @@
    ],
    "stem": "A client with seasonal allergic rhinitis who takes cetirizine 10 mg daily is scheduled for allergy skin-prick testing next week. Which instruction should the nurse give?",
    "options": [
-    "\"Take an extra dose of cetirizine the night before the test.\"",
-    "\"Take your usual cetirizine dose the morning of the test.\"",
-    "\"Double the cetirizine dose for 3 days before the test to be safe.\"",
-    "\"Stop the cetirizine several days before the test as directed.\""
+    "“Keep taking it; non-drowsy antihistamines do not affect skin testing.”",
+    "“Switch to diphenhydramine at bedtime until the day of the test.”",
+    "“Take your dose the morning of the test so the testing doesn't itch.”",
+    "“Stop the cetirizine several days before the test as directed.”"
    ],
    "answer": 3,
    "optionRationales": [
-    "An extra dose would block the skin reaction even more.",
-    "Taking the antihistamine on test day blocks the wheal-and-flare response.",
-    "Doubling the dose increases the chance of a false-negative result.",
-    "Correct. Antihistamines block histamine, the mediator that produces the wheal and flare, so they are stopped beforehand to avoid false negatives."
+    "Non-drowsy antihistamines such as cetirizine still block histamine and can cause a false-negative skin test.",
+    "Diphenhydramine is also an antihistamine, so switching still blocks the wheal-and-flare response.",
+    "Taking the antihistamine on test day blocks the histamine-driven wheal and makes a false-negative result likely.",
+    "Correct. Antihistamines block histamine, the mediator that produces the wheal and flare, so they are stopped beforehand as the allergist directs to avoid false negatives."
    ],
    "rationale": "Skin testing identifies allergens by exposing the skin to them and watching for a histamine-driven wheal and flare. Because antihistamines block histamine, they must be stopped for several days as the allergist directs, or the test may be falsely negative.",
    "takeaway": "Hold antihistamines before skin testing; they block the histamine wheal.",

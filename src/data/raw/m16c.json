@@ -182,7 +182,7 @@
    "focus": "Prioritization",
    "clientNeed": "Safe and Effective Care Environment: Management of Care",
    "hintContent": "Connect the severity of the BP, what very high afterload does to the left ventricle, and which finding shows target-organ damage.",
-   "hintStrategy": "Decide first whether this is severe hypertension alone or a hypertensive emergency; then pick the action that fits an emergency without adding fluid or harming the airway.",
+   "hintStrategy": "Decide first whether this is severe hypertension alone or a hypertensive emergency, then choose the action that matches that level of urgency.",
    "stem": "A client who had an ischemic stroke has been mechanically ventilated for 2 days. At 0700, BP is 258/128 mm Hg and HR is 112/min. During the sedation vacation the client grimaces, crackles are heard throughout both lungs, and the nurse is suctioning pink, frothy sputum. Which action should the nurse take first?",
    "options": [
     "Document the reading and plan to recheck the BP again in 1 hour",
@@ -621,18 +621,18 @@
     "lifespan"
    ],
    "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Pathophysiology",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Connect the determinants of peripheral vascular resistance (a BP determinant) with afterload, including the vascular changes of aging.",
-   "hintStrategy": "Sort each option: does it change the RESISTANCE the ventricle pumps against (afterload) or the VOLUME returning to it (preload)?",
+   "hintStrategy": "Sort each option: does it change the RESISTANCE the ventricle pumps against (afterload), the VOLUME returning to it (preload), or the STRENGTH of the squeeze (contractility)?",
    "stem": "The nurse is caring for a 74-year-old client with heart failure. Knowing that a higher afterload increases myocardial oxygen consumption, the nurse recognizes that which factors increase this client's afterload? Select all that apply.",
    "options": [
     "Long-standing hypertension with constricted arterioles",
     "Loss of arterial elasticity with aging",
     "Increased blood viscosity",
-    "A warm bath that dilates peripheral vessels",
+    "Heart muscle weakened by a prior myocardial infarction",
     "Dehydration from several days of vomiting",
     "Elevating the legs to increase venous return"
    ],
@@ -645,11 +645,11 @@
     "Correct. Constricted arterioles raise peripheral vascular resistance, the main determinant of afterload.",
     "Correct. Stiff, less compliant arteries ('hardening') increase the resistance the ventricle must overcome.",
     "Correct. Thicker blood increases peripheral vascular resistance and therefore afterload.",
-    "Incorrect. Vasodilation lowers vascular resistance and afterload.",
+    "Incorrect. Damaged muscle fibers reduce contractility — the strength of the squeeze — not the resistance the ventricle pumps against.",
     "Incorrect. Dehydration reduces blood volume and venous return, lowering preload.",
     "Incorrect. Increasing venous return affects preload, not the resistance to ejection."
    ],
-   "rationale": "Afterload is the force the ventricles must overcome to eject blood and depends on vascular tone — the same peripheral vascular resistance that helps determine BP. Resistance rises with narrowed arterioles, loss of arterial compliance (the \"hardening\" of aging, with thickened intimal and medial layers), and increased blood viscosity. As afterload rises, the heart works harder and consumes more oxygen — a vicious cycle for a failing heart. Volume changes and venous return affect preload, and vasodilation lowers afterload.",
+   "rationale": "Afterload is the force the ventricles must overcome to eject blood and depends on vascular tone — the same peripheral vascular resistance that helps determine BP. Resistance rises with narrowed arterioles, loss of arterial compliance (the \"hardening\" of aging, with thickened intimal and medial layers), and increased blood viscosity. As afterload rises, the heart works harder and consumes more oxygen — a vicious cycle for a failing heart. Volume changes and venous return affect preload, and damaged muscle fibers affect contractility.",
    "takeaway": "Afterload rises with constricted, stiff (aging) vessels and thick blood — the same factors that raise PVR and BP."
   },
   {
@@ -667,7 +667,7 @@
    "focus": "Nursing Interventions",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Connect CO = HR × SV with why the apical pulse is taken before rate-slowing drugs and with comparing BP to the client's baseline.",
-   "hintStrategy": "Decide whether the heart rate and BP are safe for this drug, then eliminate options that give the drug or change the prescription on your own.",
+   "hintStrategy": "Decide whether this heart rate and BP are safe for a rate-slowing drug, then consider which options fall within the nurse's scope.",
    "stem": "Before giving a scheduled medication that slows the heart rate, the nurse takes the client's apical pulse. The client reports feeling dizzy when sitting up. Apical HR is 46/min (regular) and BP 84/52 mm Hg; the client's usual BP is 130/78. Which action should the nurse take first?",
    "options": [
     "Give the dose and recheck the vital signs in 1 hour",
@@ -763,15 +763,15 @@
     "blood-pressure"
    ],
    "ref": "Module 16 · Perfusion · Cardiac Output, Preload, Afterload & Contractility",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Evaluate Outcomes",
    "focus": "Assessment Findings",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Connect the bedside indicators of cardiac output (brain, kidneys, skin) with capillary refill and blood pressure trends.",
-   "hintStrategy": "This is an evaluate-outcomes item: select only findings that show the ORIGINAL problems (skin, mentation, urine) have improved.",
-   "stem": "A client with low cardiac output was cool and clammy, oriented to person only, with a urine output of 15 mL/h. Prescribed treatment was started 2 hours ago. Which findings indicate that the client's cardiac output has improved? Select all that apply.",
+   "hintStrategy": "This is an evaluate-outcomes item: convert any urine total to an hourly rate, then select only findings that show the ORIGINAL problems (skin, mentation, urine) have improved.",
+   "stem": "A client with low cardiac output was cool and clammy, oriented to person only, with a urine output of 15 mL/h. Prescribed treatment was started 4 hours ago. Which findings indicate that the client's cardiac output has improved? Select all that apply.",
    "options": [
-    "Urine output 45 mL/h for the past hour",
+    "Urine output of 150 mL over the past 3 hours",
     "Heart rate increased from 96/min to 128/min",
     "Oriented to person, place, and time",
     "New crackles in both lung bases",
@@ -784,7 +784,7 @@
     4
    ],
    "optionRationales": [
-    "Correct. Urine output of at least 30 mL/h in an adult reflects improved renal perfusion.",
+    "Correct. 150 mL ÷ 3 hours = 50 mL/h, above the adult minimum of about 30 mL/h, which reflects improved kidney perfusion.",
     "Incorrect. A rising heart rate means the body is still compensating; it is not evidence of improved output.",
     "Correct. Improved orientation reflects better cerebral perfusion.",
     "Incorrect. New crackles indicate worsening pulmonary congestion.",
@@ -839,7 +839,7 @@
    "focus": "Assessment Findings",
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "hintContent": "Recall what a client in true ventricular fibrillation would look like and what causes artifact on a monitor.",
-   "hintStrategy": "Treat the client, not the monitor: compare the waveform with what you see at the bedside.",
+   "hintStrategy": "Compare what the monitor displays with how a client in that rhythm would actually look and behave.",
    "stem": "The central telemetry alarm displays a chaotic, irregular waveform with no identifiable QRS complexes labeled as ventricular fibrillation. When the nurse enters the room, the client is sitting on the edge of the bed brushing their teeth and talking with a visitor. Which action should the nurse take first?",
    "options": [
     "Assess the client and check the electrode and lead connections.",
@@ -869,7 +869,7 @@
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Recall the steps of hemostasis and which drug class affects each step.",
-   "hintStrategy": "Match the drug class (antiplatelet) to the step whose name matches its target.",
+   "hintStrategy": "Name the drug class aspirin belongs to, then match it to the step of hemostasis that class acts on.",
    "stem": "A client who takes daily low-dose aspirin cuts a finger and asks why the cut takes longer to stop bleeding. The nurse explains that aspirin slows which step of hemostasis?",
    "options": [
     "Constriction of the injured vessel to reduce blood flow",
@@ -899,7 +899,7 @@
    "focus": "Delegation & Safety",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Recall why a TEE requires a topical throat anesthetic and what that does to airway protection.",
-   "hintStrategy": "Before any intake, ask what must be confirmed to prevent aspiration.",
+   "hintStrategy": "Consider which effect of the procedure may still be present 45 minutes later, and what must be true before anything is swallowed.",
    "stem": "A client returned to the unit 45 minutes ago after a transesophageal echocardiogram (TEE) performed with moderate sedation and a topical throat anesthetic. The client is awake and asks for a drink of water. Which action should the nurse take first?",
    "options": [
     "Offer small sips of water through a straw.",
@@ -931,23 +931,23 @@
    "focus": "Client Teaching",
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "hintContent": "Connect why a chemical stress test is chosen as a screening for a client who cannot exercise with the preparation that keeps the stress medication effective.",
-   "hintStrategy": "Look for the statement that would make the test fail; think about substances that counteract the stress medication.",
+   "hintStrategy": "Look for the statement that would make the test fail; think about every source of a substance that counteracts the stress medication.",
    "stem": "A client with severe knee osteoarthritis who cannot walk on a treadmill is scheduled for a chemical (pharmacologic) stress test with radionuclide imaging. Which statement by the client indicates a need for further teaching?",
    "options": [
     "\"I shouldn't eat for a few hours before the test.\"",
-    "\"I can still have my usual cup of coffee that morning.\"",
+    "\"I can still have my usual cup of tea that morning, since it isn't coffee.\"",
     "\"The medicine may make me feel flushed or short of breath for a short time.\"",
     "\"I will avoid chocolate and cola the day before the test.\""
    ],
    "answer": 1,
    "optionRationales": [
     "Incorrect. This statement is accurate. Clients are usually NPO for a few hours before a radionuclide stress test.",
-    "Correct. This statement needs correction. Caffeine blocks the receptors that the vasodilating stress drugs act on and can make the test inaccurate; caffeine is avoided for 12–24 hours before the test.",
+    "Correct. This statement needs correction. Tea also contains caffeine, which blocks the receptors the vasodilating stress drugs act on and can make the test inaccurate; all caffeine (coffee, tea, cola, chocolate) is avoided for 12–24 hours before the test.",
     "Incorrect. This statement is accurate. Flushing, brief shortness of breath, headache, and chest discomfort are common, short-lived effects of the stress drug.",
     "Incorrect. This statement is accurate. Chocolate and cola contain caffeine and should be avoided."
    ],
    "rationale": "Stress tests are both diagnostic and screening tools. A chemical (pharmacologic) stress test is used when a client cannot exercise, such as with severe arthritis; a medication makes the heart respond as if exercising, and radionuclide imaging shows blood flow to the muscle. Caffeine (coffee, tea, cola, chocolate) must be avoided for about 12–24 hours because it can block the medication. The client is usually NPO for a few hours and may feel brief flushing or shortness of breath.",
-   "takeaway": "Chemical stress test: no caffeine (coffee, tea, cola, chocolate) for 12–24 hours."
+   "takeaway": "Chemical stress test: no caffeine of any kind (coffee, tea, cola, chocolate) for 12–24 hours."
   },
   {
    "id": "m16c-043",
@@ -1031,28 +1031,28 @@
     "promotion-interventions"
    ],
    "ref": "Module 16 · Perfusion · Diagnostic Tests for Perfusion",
-   "difficulty": 2,
+   "difficulty": 3,
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
    "clientNeed": "Health Promotion and Maintenance",
-   "hintContent": "Connect the desirable values for each part of the lipid profile with the lifestyle teaching used to lower cardiovascular risk.",
-   "hintStrategy": "Evaluate each lipid value separately against its target before judging the profile, then check whether the plan in each option matches the abnormal values.",
-   "stem": "A 52-year-old man has a fasting lipid profile drawn at a health screening: total cholesterol 186 mg/dL, LDL 168 mg/dL, HDL 34 mg/dL, and triglycerides 142 mg/dL. How should the nurse interpret these results?",
+   "hintContent": "Connect the desirable value for each part of a lipid profile, including the different HDL goals for men and women, with the lifestyle teaching that lowers cardiovascular risk.",
+   "hintStrategy": "Compare each value with its target for this client's sex before judging the profile, then check that the plan in each option matches the abnormal values.",
+   "stem": "A 58-year-old woman has a fasting lipid profile drawn at a health screening: total cholesterol 212 mg/dL, LDL 96 mg/dL, HDL 44 mg/dL, and triglycerides 188 mg/dL. How should the nurse interpret these results?",
    "options": [
-    "The total cholesterol is desirable, so no follow-up or teaching is needed",
-    "The triglycerides are the main concern, so teaching should focus on sugar",
-    "The high LDL and low HDL need provider review and heart-healthy teaching",
-    "The HDL is protective enough to offset the LDL, so rescreen in 5 years"
+    "The LDL is desirable, so her lipid-related risk is controlled for now",
+    "The HDL meets the desirable level, so only the total needs follow-up",
+    "The low HDL and high triglycerides need provider review and teaching",
+    "The triglycerides are desirable, and the normal LDL offsets the total"
    ],
    "answer": 2,
    "optionRationales": [
-    "Incorrect. A normal total cholesterol can hide a high LDL and low HDL.",
-    "Incorrect. Triglycerides of 142 mg/dL are below 150 and desirable.",
-    "Correct. LDL 168 (goal < 100) and HDL 34 (goal ≥ 40 in men) both raise atherosclerosis risk; they need provider review plus teaching on diet, activity, BMI below 25, and not smoking.",
-    "Incorrect. HDL 34 is low, not protective (60 or more is protective)."
+    "Incorrect. A desirable LDL is good news, but her HDL is low for a woman and her triglycerides are high, so her risk is not controlled.",
+    "Incorrect. An HDL of 44 would meet the goal for a man (40 or more), but the desirable level for a woman is 50 or more, so hers is low.",
+    "Correct. HDL 44 is below the desirable 50 or more for women, and triglycerides of 188 are above the desirable level of less than 150; both raise coronary risk and need provider review plus heart-healthy teaching.",
+    "Incorrect. Triglycerides of 188 mg/dL are above the desirable level of less than 150, and a normal LDL does not cancel out other abnormal values."
    ],
-   "rationale": "Each part of the lipid profile must be interpreted separately. Desirable values are total cholesterol < 200, LDL < 100, HDL ≥ 40 (men) or ≥ 50 (women), and triglycerides < 150 mg/dL. This client's total and triglycerides are desirable, but LDL is high and HDL is low — both raise coronary artery disease risk. Follow-up includes provider review and teaching on modifiable factors: a heart-healthy diet, daily activity, a BMI below 25, and smoking cessation.",
-   "takeaway": "LDL Low, HDL High — a normal total can hide risk; follow up with lifestyle teaching."
+   "rationale": "Each part of the lipid profile is read separately, using the right target for the client. Desirable values are total cholesterol < 200, LDL < 100, HDL ≥ 40 in men or ≥ 50 in women, and triglycerides < 150 mg/dL. This woman's LDL is desirable, but her total is above 200, her HDL is low for a woman, and her triglycerides are high — all of which add to coronary artery disease risk. Follow-up includes provider review and teaching on modifiable factors: a heart-healthy diet, daily activity, a BMI below 25, not smoking, and limiting alcohol.",
+   "takeaway": "Read every lipid value against its own target — and use the sex-specific HDL goal (≥ 40 men, ≥ 50 women)."
   },
   {
    "id": "m16c-047",

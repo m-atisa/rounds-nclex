@@ -406,7 +406,7 @@ window.NURSE_DATA.push({
     "respiratory-assessment"
    ],
    "ref": "Module 15 · Oxygenation · Airway Clearance",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "exhibit": {
     "tabs": [
@@ -863,7 +863,7 @@ window.NURSE_DATA.push({
    "options": [
     "Fluid shifted from the capillaries into the alveoli, causing pulmonary edema",
     "A blood clot lodged in a pulmonary artery branch, blocking blood flow",
-    "A bulla ruptured, letting air into the pleural space and collapsing the lung",
+    "A ruptured bulla let air into the pleural space and collapsed the lung",
     "Fluid collected in the pleural space from inflammation, causing an effusion"
    ],
    "answer": 2,
@@ -1031,24 +1031,24 @@ window.NURSE_DATA.push({
     "diagnostics-abg"
    ],
    "ref": "Module 15 · Oxygenation · Asthma, COPD & Pneumonia",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 19-year-old client with asthma has a personal best peak expiratory flow (PEF) of 400 L/min. The nurse reviews the client's home log using the asthma action plan. Which entry should have prompted the client to seek emergency care?",
    "options": [
-    "Monday: PEF 360 L/min, no symptoms",
-    "Tuesday: PEF 280 L/min, coughing and mild chest tightness",
+    "Monday: PEF 340 L/min, no symptoms",
+    "Tuesday: PEF 210 L/min, coughing, chest tightness, woke at night",
     "Friday: PEF 300 L/min, woke at night coughing",
-    "Wednesday: PEF 180 L/min, trouble walking and talking"
+    "Wednesday: PEF 190 L/min, mild cough"
    ],
    "answer": 3,
    "optionRationales": [
-    "360 L/min is 90% of personal best — the green zone.",
-    "280 L/min is 70% — the yellow zone; use quick-relief medication per the plan.",
+    "340 L/min is 85% of personal best — the green zone.",
+    "210 L/min is about 53% — still the yellow zone. The client adds quick-relief medication per the plan and calls the provider if not improving.",
     "300 L/min is 75% — the yellow zone; night waking is a caution sign.",
-    "Correct. 180 L/min is 45% of personal best — the red zone — and trouble walking and talking signals a medical alert."
+    "Correct. 190 L/min is about 48% of personal best — the red zone. A red-zone reading calls for rescue medication and emergency care even when the symptoms seem mild."
    ],
-   "rationale": "Applying the PEFR diagnostic to the action plan: green is 80% or more, yellow is 50%–79%, and red is below 50% of personal best. A red-zone reading with difficulty walking or talking needs emergency care; waiting for cyanosis is unsafe because it is a late sign.",
-   "takeaway": "Peak flow below 50% of personal best, or trouble talking, means emergency care now.",
+   "rationale": "Applying the PEFR diagnostic to the action plan: green is 80% or more, yellow is 50%–79%, and red is below 50% of personal best. The zone is set by the number, not by how the client feels, so a red-zone reading needs emergency care even with mild symptoms. Waiting for trouble talking or cyanosis is unsafe because those are late signs.",
+   "takeaway": "Peak flow below 50% of personal best means emergency care now, even if the symptoms seem mild.",
    "cjmm": "Analyze Cues",
    "focus": "Prioritization",
    "hintContent": "Peak flow zone cutoffs as a percentage of personal best and the symptoms that go with each zone.",
@@ -1204,7 +1204,7 @@ window.NURSE_DATA.push({
     "asthma-copd-pneumonia"
    ],
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
-   "difficulty": 2,
+   "difficulty": 1,
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 55-year-old client with COPD whose last hospitalization began with influenza asks how to prevent respiratory infections that could trigger another exacerbation. Which instructions should the nurse include? Select all that apply.",
    "options": [
@@ -1314,19 +1314,19 @@ window.NURSE_DATA.push({
     "oxygenation-physiology"
    ],
    "ref": "Module 15 · Oxygenation · Health Promotion & Smoking Cessation",
-   "difficulty": 2,
+   "difficulty": 3,
    "clientNeed": "Health Promotion and Maintenance",
    "stem": "A 45-year-old client has smoked 1½ packs of cigarettes per day for 20 years and says, \"My lungs must be fine, because I don't get short of breath.\" Which response by the nurse is accurate?",
    "options": [
     "\"You have a 20 pack-year history, which is below the level linked with lung damage.\"",
-    "\"Smoke mainly lowers surfactant production, so shortness of breath would appear early.\"",
+    "\"You have a 30 pack-year history, but feeling well shows your lung function is still preserved.\"",
     "\"Smoke speeds up the cilia, so your lungs are clearing the damage as it happens.\"",
     "\"You have a 30 pack-year history; damage often shows only once it is irreversible.\""
    ],
    "answer": 3,
    "optionRationales": [
     "The calculation is wrong (1.5 × 20 = 30), and no pack-year level is safe.",
-    "The slides describe increased mucus and reduced cilia action, and symptoms appear late, not early.",
+    "The calculation is right, but the conclusion is not. The lungs have large reserve, so loss of function is often noticed only after the damage is permanent; feeling well does not show the lungs are healthy.",
     "Smoke slows and damages the cilia; it does not speed them up.",
     "Correct. Pack-years = packs/day × years = 30. Smoke increases mucus and reduces cilia action, and loss of lung function often becomes noticeable only after the damage is permanent."
    ],

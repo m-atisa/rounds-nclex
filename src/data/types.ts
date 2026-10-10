@@ -217,7 +217,7 @@ export interface Module {
   tagline: string;
   overview: string;
   color: string;
-  icon: 'flame' | 'lungs' | 'heart' | 'layers';
+  icon: 'flame' | 'lungs' | 'heart' | 'layers' | 'drop' | 'beaker';
   topics: Topic[];
   flashcards: (Flashcard & { key: string; moduleId: string })[];
   questions: Question[];

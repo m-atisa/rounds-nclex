@@ -1,0 +1,47 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m6",
+ "moduleNumber": 6,
+ "moduleTitle": "Fluids & Electrolytes",
+ "tagline": "Balance is everything.",
+ "overview": "Fluids and electrolytes keep every cell working. This module covers normal fluid balance — where body water lives, how it moves, how intake and output stay matched, what each electrolyte does, how IV solutions work, and how nurses assess and protect balance. (Per your course, imbalance syndromes and their signs and symptoms are NUR 112 content.)",
+ "topics": [
+  {
+   "id": "fe-body-fluids",
+   "title": "Body Fluids: Functions, Compartments & Lifespan",
+   "exemplar": null
+  },
+  {
+   "id": "fe-fluid-movement",
+   "title": "How Fluid Moves: Filtration, Osmosis, Diffusion & Active Transport",
+   "exemplar": null
+  },
+  {
+   "id": "fe-intake-output",
+   "title": "Intake, Absorption, Output & Hormonal Control",
+   "exemplar": null
+  },
+  {
+   "id": "fe-iv-solutions",
+   "title": "IV Solutions: Crystalloids, Colloids & Albumin",
+   "exemplar": null
+  },
+  {
+   "id": "fe-electrolytes",
+   "title": "The Electrolytes: Roles, Sources & Lab Values",
+   "exemplar": null
+  },
+  {
+   "id": "fe-assessment-diagnostics",
+   "title": "Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "exemplar": null
+  },
+  {
+   "id": "fe-risk-interventions",
+   "title": "Risk Factors, Medications & Nursing Interventions",
+   "exemplar": null
+  }
+ ],
+ "flashcards": [],
+ "questions": []
+});
