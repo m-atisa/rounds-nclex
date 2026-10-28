@@ -19,8 +19,6 @@ function write(key: string, v: string | null) {
   }
 }
 
-const systemDark = () => typeof window !== 'undefined' && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
 interface Prefs {
   zoom: number;
   theme: 'light' | 'dark' | null;
@@ -30,7 +28,7 @@ interface Prefs {
 
 const usePrefStore = create<Prefs>((set) => ({
   zoom: Number(read('rounds.zoom')) || 1,
-  theme: (read('rounds.theme') as Prefs['theme']) || null,
+  theme: read('rounds.theme') === 'dark' ? 'dark' : 'light',
   setZoom: (zoom) => {
     write('rounds.zoom', String(zoom));
     set({ zoom });
@@ -48,8 +46,7 @@ export function useApplyPrefs() {
     document.documentElement.style.fontSize = `${zoom * 100}%`;
   }, [zoom]);
   useEffect(() => {
-    if (theme) document.documentElement.dataset.theme = theme;
-    else delete document.documentElement.dataset.theme;
+    document.documentElement.dataset.theme = theme ?? 'light';
   }, [theme]);
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -74,7 +71,7 @@ export function useApplyPrefs() {
 
 export function usePrefs() {
   const { zoom, theme, setZoom, setTheme } = usePrefStore();
-  const isDark = theme ? theme === 'dark' : systemDark();
+  const isDark = theme === 'dark';
   const i = ZOOMS.indexOf(zoom);
   return {
     zoom,

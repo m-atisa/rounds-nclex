@@ -1,0 +1,668 @@
+{
+ "moduleId": "m41",
+ "moduleNumber": 41,
+ "moduleTitle": "Teaching & Learning",
+ "tagline": "Learning shows up in what the person can do.",
+ "overview": "Unit 6: learning theories and domains, assessment and planning, evidence of learning, lifespan adaptations, and critical appraisal of online health information.",
+ "topics": [
+  {
+   "id": "learning-theories",
+   "title": "Teaching, Learning Theories & the Three Domains",
+   "exemplar": null
+  },
+  {
+   "id": "teaching-plan",
+   "title": "Assess, Plan, Teach & Verify Learning",
+   "exemplar": null
+  },
+  {
+   "id": "lifespan-digital-learning",
+   "title": "Lifespan Teaching, Caregivers & Online Health Information",
+   "exemplar": null
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "What domain is tested when a client demonstrates a technique?",
+   "back": "Psychomotor.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "A client accurately describes a procedure. Does that prove safe performance?",
+   "back": "No. Observe a return demonstration and assess physical ability.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "How does adult learning affect the opening of teaching?",
+   "back": "Explain relevance, ask about experience, and involve the learner in goals.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "What is stronger evidence than “brochure provided”?",
+   "back": "A documented explanation, applied decision, or demonstrated skill that meets the stated objective.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "Define Cognitive domain",
+   "back": "Knowledge and thinking, including understanding, recalling, and applying information.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "Define Affective domain",
+   "back": "Values, feelings, attitudes, willingness, and commitment.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "Define Psychomotor domain",
+   "back": "Physical performance of a skill using coordinated action.",
+   "topic": "learning-theories"
+  },
+  {
+   "front": "How should teach-back be introduced?",
+   "back": "As a check that the nurse explained clearly, asking the client to explain the plan in their own words.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "A client knows the steps but cannot open supplies. What is the issue?",
+   "back": "A functional barrier requiring adaptation or assistance, not simply more verbal explanation.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "What should happen after an incorrect return demonstration?",
+   "back": "Identify the specific gap, reteach nonjudgmentally, allow practice, and reassess.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "Why ask about cost after a missed medication refill?",
+   "back": "The barrier may be access rather than understanding or motivation; the intervention must match it.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "Define Learning need",
+   "back": "A gap in knowledge, information, skill, or understanding relevant to a goal.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "Define Readiness",
+   "back": "The person’s current physical, emotional, and practical capacity to engage in learning.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "Define Motivation",
+   "back": "The perceived importance or desire to learn and act.",
+   "topic": "teaching-plan"
+  },
+  {
+   "front": "Should all teaching for an older adult be directed to family?",
+   "back": "No. Assess the client’s abilities and preferences and include supports appropriately.",
+   "topic": "lifespan-digital-learning"
+  },
+  {
+   "front": "What should be checked before relying on a portal video?",
+   "back": "Device and internet access, language, sensory accessibility, ability to use it, privacy, and actual learning.",
+   "topic": "lifespan-digital-learning"
+  },
+  {
+   "front": "Does a recent date prove online information is reliable?",
+   "back": "No. Also assess author expertise, evidence, purpose, conflicts, and relevance.",
+   "topic": "lifespan-digital-learning"
+  },
+  {
+   "front": "A caregiver will perform home care. What evidence is needed?",
+   "back": "The caregiver’s actual understanding and demonstrated ability, plus a feasible resource and follow-up plan.",
+   "topic": "lifespan-digital-learning"
+  },
+  {
+   "front": "Define Developmental adaptation",
+   "back": "Matching content, language, participation, and practice to the person’s actual developmental abilities.",
+   "topic": "lifespan-digital-learning"
+  },
+  {
+   "front": "Define Caregiver readiness",
+   "back": "The support person’s willingness, understanding, ability, and resources to help safely.",
+   "topic": "lifespan-digital-learning"
+  },
+  {
+   "front": "Define Digital access",
+   "back": "Availability and usable access to a device, connection, accessible format, language, and necessary skills.",
+   "topic": "lifespan-digital-learning"
+  }
+ ],
+ "questions": [
+  {
+   "id": "m41-u6-001",
+   "topic": "learning-theories",
+   "type": "mcq",
+   "stem": "A client correctly explains warning symptoms but cannot perform the sequence for a home-care device. Which conclusion is most appropriate?",
+   "options": [
+    "All learning domains are established by symptom explanation.",
+    "Knowledge is demonstrated; physical skill still needs assessment.",
+    "Repeated warning-sign teaching will resolve device-performance barriers.",
+    "Affective commitment is established by correct symptom knowledge."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Understanding warning signs does not prove physical skill.",
+    "Correct. The cognitive and psychomotor domains require separate evidence.",
+    "Incorrect. The remaining need is assessment and practice of the skill.",
+    "Incorrect. Knowledge of symptoms is not evidence of values or willingness."
+   ],
+   "rationale": "The cognitive domain concerns knowledge and reasoning, while the psychomotor domain concerns performance. Observe the skill, assess physical and sequencing barriers, and provide practice and feedback.",
+   "takeaway": "Knowing and doing require separate evaluation.",
+   "hintContent": "Match the evidence to the domain it actually tests.",
+   "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
+   "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false
+  },
+  {
+   "id": "m41-u6-002",
+   "topic": "learning-theories",
+   "type": "mcq",
+   "stem": "An adult asks, “Why do I need to learn this new routine when I already manage one at home?” Which response should the nurse give first?",
+   "options": [
+    "“Memorize the new sequence before comparing previous routines.”",
+    "“Your previous routine is irrelevant to standardized teaching.”",
+    "“Let us compare routines and explain why steps changed.”",
+    "“Practice first; the reasons will become clear later.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. This delays establishing relevance and using experience.",
+    "Incorrect. Prior habits may reveal strengths or misconceptions.",
+    "Correct. Adult learning benefits from experience, relevance, and involvement.",
+    "Incorrect. The learner’s question about purpose should be addressed rather than postponed."
+   ],
+   "rationale": "Adult learning is strengthened by relevance, self-direction, and prior experience. Explore the familiar routine, identify important differences, and explain their purpose before practice.",
+   "takeaway": "Use experience and relevance to begin adult teaching.",
+   "hintContent": "Choose the response that connects new material with the learner’s existing understanding.",
+   "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
+   "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": true
+  },
+  {
+   "id": "m41-u6-003",
+   "topic": "learning-theories",
+   "type": "sata",
+   "stem": "Which pairings correctly match a teaching goal with evaluation? Select all that apply.",
+   "options": [
+    "Explain when to seek help — ask the client to apply the instructions to a symptom scenario.",
+    "Perform a device sequence — observe a return demonstration.",
+    "Explore willingness to change — discuss values and concerns.",
+    "Prove independent skill — record only that the client watched a video.",
+    "Confirm all learning — ask only whether the client understands."
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. This evaluates cognitive understanding and application.",
+    "Correct. This evaluates psychomotor performance.",
+    "Correct. This addresses the affective domain.",
+    "Incorrect. Observation of a model does not prove independent performance.",
+    "Incorrect. A yes/no response provides weak evidence."
+   ],
+   "rationale": "Evaluation must align with the objective. Applied explanation tests understanding, observed performance tests skill, and discussion explores values and willingness. Exposure or a yes answer alone does not prove the required outcome.",
+   "takeaway": "Choose evidence that matches the learning goal.",
+   "hintContent": "Identify whether each outcome concerns knowledge, values, or physical performance.",
+   "hintStrategy": "Judge each option independently against the client’s findings and the stated goal; do not assume a fixed number of correct choices.",
+   "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+   "id": "m41-u6-004",
+   "topic": "learning-theories",
+   "type": "mcq",
+   "stem": "A client is preparing to use an unfamiliar home-care device and says, “I need to see how it works and try it.” Which teaching method best supports safe skill performance?",
+   "options": [
+    "Demonstrate, then observe client practice with specific feedback.",
+    "Explain the purpose, then assess recall with a short written quiz.",
+    "Provide an illustrated sheet, then ask the client to describe it.",
+    "Discuss the sequence, then ask whether the client feels confident."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Modeling, learner practice, and observed feedback directly develop and evaluate psychomotor performance.",
+    "Incorrect. A quiz can assess knowledge but does not establish physical performance.",
+    "Incorrect. An illustrated explanation may support learning but verbal description does not verify the skill.",
+    "Incorrect. Confidence and sequence discussion do not demonstrate accurate independent performance."
+   ],
+   "rationale": "The required outcome is a physical skill. Demonstration followed by observed practice and feedback supports learning through modeling while verifying the psychomotor task. Knowledge and confidence are relevant but do not replace performance evaluation.",
+   "takeaway": "Verify a physical skill through observed practice, not recall or confidence alone.",
+   "hintContent": "Match the teaching method and evaluation to a psychomotor goal.",
+   "hintStrategy": "Choose the method that shows what the client can actually do with the device.",
+   "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false
+  },
+  {
+   "id": "m41-u6-005",
+   "topic": "learning-theories",
+   "type": "sata",
+   "stem": "A nurse plans teaching for a client who prefers pictures. Which choices are appropriate? Select all that apply.",
+   "options": [
+    "Use relevant pictures when they improve access and understanding.",
+    "Assume the client cannot learn through explanation or practice.",
+    "Choose methods that fit the actual task.",
+    "Evaluate what the client can explain or perform.",
+    "Use a brief explanation, demonstration, and practice when useful."
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Preferences can help engagement.",
+    "Incorrect. A preference does not define a fixed exclusive style.",
+    "Correct. A skill may need demonstration and hands-on practice.",
+    "Correct. Actual response determines effectiveness.",
+    "Correct. Multiple complementary methods can support learning."
+   ],
+   "rationale": "Preferences are flexible supports rather than a rule that only one channel can work. Match methods to the objective and access needs, then evaluate actual learning. Pictures alone may not establish physical competence.",
+   "takeaway": "Use preferences without turning them into limits.",
+   "hintContent": "Distinguish an engagement preference from evidence of task mastery.",
+   "hintStrategy": "Judge each option independently against the client’s findings and the stated goal; do not assume a fixed number of correct choices.",
+   "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+   "id": "m41-u6-006",
+   "topic": "teaching-plan",
+   "type": "mcq",
+   "stem": "A client wants to learn wound care but is nauseated, exhausted, and in severe pain. Essential care is being provided by staff. What should the nurse do first before a prolonged teaching session?",
+   "options": [
+    "Finish explanation now and practice if time permits.",
+    "Treat symptoms and reassess a suitable teaching time.",
+    "Send materials to family and exclude the client.",
+    "Record understanding after agreement to receive written instructions."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Symptoms impair readiness for a prolonged session.",
+    "Correct. The motivated learner needs comfort and capacity to engage.",
+    "Incorrect. Support may help, but the client should remain included according to needs and preferences.",
+    "Incorrect. Agreement to receive material is not evidence of learning."
+   ],
+   "rationale": "Motivation and readiness are different. The client is interested but symptoms limit learning. Address immediate comfort and plan manageable teaching when participation is possible, while maintaining necessary care.",
+   "takeaway": "A motivated person may still be physiologically unready.",
+   "hintContent": "Use the stated symptoms to identify the barrier before changing the goal.",
+   "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
+   "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+   "alsoTests": [
+    "learning-theories"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": true
+  },
+  {
+   "id": "m41-u6-007",
+   "topic": "teaching-plan",
+   "type": "mcq",
+   "stem": "Which statement is the most observable teaching objective?",
+   "options": [
+    "Recognize that device safety matters before leaving hospital.",
+    "Receive illustrated instructions and a video before discharge.",
+    "Demonstrate the device sequence without prompting before discharge.",
+    "Understand every device situation and remain fully confident."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. This does not specify the observable evidence of recognition.",
+    "Incorrect. This records delivery rather than learning.",
+    "Correct. The learner’s action and evaluation point are clear.",
+    "Incorrect. This is broad, unmeasurable, and unrealistic."
+   ],
+   "rationale": "A learner-centered objective identifies what the person will do and when it will be evaluated. Receiving material is not evidence of learning, and broad claims of understanding cannot guide assessment.",
+   "takeaway": "State the learner’s observable action and evaluation point.",
+   "hintContent": "Separate nurse activity from client performance.",
+   "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
+   "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+   "alsoTests": [
+    "learning-theories"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "difficulty": 1,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false
+  },
+  {
+   "id": "m41-u6-008",
+   "topic": "teaching-plan",
+   "type": "sata",
+   "stem": "Which actions are consistent with a nonjudgmental teach-back process? Select all that apply.",
+   "options": [
+    "Explain that the nurse wants to check how clearly the plan was explained.",
+    "Ask the client to describe the plan in their own words.",
+    "Treat an error as a reason to reteach a manageable part.",
+    "Ask only “Do you understand?” and accept a nod as proof.",
+    "Recheck after adapting the explanation.",
+    "Use mistakes to publicly compare clients."
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. This frames teach-back as a communication check.",
+    "Correct. This reveals understanding beyond repetition.",
+    "Correct. Errors identify gaps that can be addressed.",
+    "Incorrect. This gives insufficient evidence.",
+    "Correct. The nurse verifies whether reteaching helped.",
+    "Incorrect. This shames the learner and undermines trust."
+   ],
+   "rationale": "Teach-back checks shared understanding. Invite the learner’s own explanation, identify gaps, adapt teaching, and check again. It is not a punitive test, and yes/no reassurance is not equivalent evidence.",
+   "takeaway": "Teach-back creates a cycle of explanation, feedback, and reteaching.",
+   "hintContent": "Choose actions that reveal and repair misunderstanding without blame.",
+   "hintStrategy": "Judge each option independently against the client’s findings and the stated goal; do not assume a fixed number of correct choices.",
+   "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+   "alsoTests": [
+    "learning-theories"
+   ],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+   "id": "m41-u6-009",
+   "topic": "teaching-plan",
+   "type": "mcq",
+   "stem": "A client accurately explains a medication schedule but has missed refills. The client says the copayment is unaffordable. Which action should the nurse take first?",
+   "options": [
+    "Coordinate affordable access and verify a feasible supply plan.",
+    "Repeat the schedule with larger print and reassess recall.",
+    "Provide motivation counseling before discussing available assistance resources.",
+    "Set a reminder and review whether refilling occurs."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The client knows the schedule but lacks access; verify a feasible option with the appropriate team.",
+    "Incorrect. The scenario demonstrates understanding and identifies cost as the barrier.",
+    "Incorrect. Motivation has not been established as the main issue.",
+    "Incorrect. A reminder does not make the medication affordable."
+   ],
+   "rationale": "The client demonstrates knowledge but lacks affordable access. Coordinate appropriate resources or treatment review and verify the plan. More education alone will not solve the identified barrier.",
+   "takeaway": "Match the intervention to the actual barrier.",
+   "hintContent": "Use the demonstrated understanding and explicit cost problem to avoid an irrelevant teaching response.",
+   "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
+   "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+   "alsoTests": [
+    "lifespan-digital-learning"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": true
+  },
+  {
+   "id": "m41-u6-010",
+   "topic": "teaching-plan",
+   "type": "mcq",
+   "stem": "After reteaching, a client can explain the steps but still cannot open the supplies because of hand weakness. Which conclusion best guides the plan?",
+   "options": [
+    "Repeat the sequence until supply opening becomes possible.",
+    "Record independence because the client describes every step.",
+    "Provide more reading and defer performance until home.",
+    "Adapt equipment or arrange help, then verify performance."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The remaining barrier is hand strength rather than sequence knowledge.",
+    "Incorrect. Explanation does not establish physical task completion.",
+    "Incorrect. Essential functional needs should be addressed before the transition.",
+    "Correct. Then verify performance and feasibility using the revised method."
+   ],
+   "rationale": "Knowledge and physical performance are separate. Assess appropriate adaptations or support and verify actual ability with the revised plan. Discharge teaching is incomplete if an essential task remains impossible.",
+   "takeaway": "A functional barrier needs adaptation, not endless repetition.",
+   "hintContent": "Identify what prevents performance after understanding is established.",
+   "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
+   "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+   "alsoTests": [
+    "learning-theories",
+    "lifespan-digital-learning"
+   ],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false,
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Teaching record",
+      "table": {
+       "headers": [
+        "Component",
+        "Observed response"
+       ],
+       "rows": [
+        [
+         "Verbal sequence",
+         "Accurate in own words"
+        ],
+        [
+         "Opening supplies",
+         "Unable because of hand weakness"
+        ],
+        [
+         "Home support",
+         "Not yet arranged"
+        ]
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "m41-u6-011",
+   "topic": "lifespan-digital-learning",
+   "type": "mcq",
+   "stem": "A client is being given a portal link as the only discharge teaching resource but reports having no internet or device at home. What should the nurse do first?",
+   "options": [
+    "Review portal instructions and recheck access at follow-up.",
+    "Provide an accessible method and verify essential learning.",
+    "Recommend public access without reviewing privacy or availability.",
+    "Give a shorter portal link covering the same content."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. More explanation does not provide an unavailable device or connection.",
+    "Correct. The essential plan must be usable before discharge.",
+    "Incorrect. This assumes access and safety rather than establishing a workable method.",
+    "Incorrect. The access barrier remains unchanged."
+   ],
+   "rationale": "Digital tools require usable access. Provide an appropriate alternative, address language and sensory needs, and verify essential understanding or skill. Sending a link does not establish learning.",
+   "takeaway": "An inaccessible resource is not a completed teaching plan.",
+   "hintContent": "Use the stated access barrier to choose a feasible method.",
+   "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
+   "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": true
+  },
+  {
+   "id": "m41-u6-012",
+   "topic": "lifespan-digital-learning",
+   "type": "mcq",
+   "stem": "A client brings an attractive website advertising a guaranteed cure and selling its own product without references. Which response is best?",
+   "options": [
+    "“Professional design suggests the evidence is already checked.”",
+    "“Avoid online sources and use today’s printouts exclusively.”",
+    "“Let us examine authorship, evidence, date, purpose, and relevance.”",
+    "“A current date is enough to use the advice.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Appearance does not establish expertise or supporting evidence.",
+    "Incorrect. A blanket dismissal does not teach appraisal or encourage disclosure.",
+    "Correct. Use several credibility checks and assess relevance to the actual plan.",
+    "Incorrect. Currency is only one part of credibility and applicability."
+   ],
+   "rationale": "Online appraisal includes expertise, evidence, currency, purpose, conflicts, and relevance. Guaranteed claims and sales pressure deserve scrutiny. Invite discussion and coordinate review before changing treatment.",
+   "takeaway": "Judge evidence and purpose, not polish or promises.",
+   "hintContent": "Use several credibility checks rather than one reassuring feature.",
+   "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
+   "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false
+  },
+  {
+   "id": "m41-u6-013",
+   "topic": "lifespan-digital-learning",
+   "type": "sata",
+   "stem": "A nurse teaches an older adult who has reduced vision but intact comprehension. Which actions are appropriate? Select all that apply.",
+   "options": [
+    "Provide accessible print and appropriate lighting.",
+    "Allow time for questions and processing.",
+    "Direct every question to family because of age.",
+    "Include the client in goals and decisions.",
+    "Verify explanation or performance with the adapted format."
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. This targets the sensory barrier.",
+    "Correct. Pacing supports learning.",
+    "Incorrect. Age does not establish inability to participate.",
+    "Correct. This preserves autonomy and relevance.",
+    "Correct. Learning still needs evaluation."
+   ],
+   "rationale": "Adaptation should fit the actual limitation. Reduced vision calls for accessible information, not automatic exclusion from teaching. Verify learning and involve supports according to the client’s needs and preferences.",
+   "takeaway": "Adapt access while preserving direct participation.",
+   "hintContent": "Distinguish sensory accommodation from assumptions about cognitive ability.",
+   "hintStrategy": "Judge each option independently against the client’s findings and the stated goal; do not assume a fixed number of correct choices.",
+   "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+   "alsoTests": [
+    "teaching-plan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+   "id": "m41-u6-014",
+   "topic": "lifespan-digital-learning",
+   "type": "mcq",
+   "stem": "A parent will perform a child’s home care. The parent watched the demonstration but has not practiced. Discharge is approaching. What should the nurse do first?",
+   "options": [
+    "Observe caregiver practice and assess home-care feasibility.",
+    "Provide another handout and record attendance at demonstration.",
+    "Verify the child’s explanation to establish caregiver competence.",
+    "Schedule reinforcement later and assume skill until then."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The actual caregiver must demonstrate the skill and have the resources to use it.",
+    "Incorrect. Materials and attendance do not establish performance.",
+    "Incorrect. The child’s knowledge does not verify the caregiver’s skill.",
+    "Incorrect. Essential unverified ability must be addressed and communicated before transition."
+   ],
+   "rationale": "Caregiver willingness and observation are not proof of ability. Provide practice, evaluate performance, and address supplies and follow-up. Include the child developmentally while preparing the actual caregiver.",
+   "takeaway": "Verify the person who will actually provide care.",
+   "hintContent": "Separate attendance from demonstrated ability and home feasibility.",
+   "hintStrategy": "Identify the immediate need and the action that addresses it before longer-term steps.",
+   "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+   "alsoTests": [
+    "teaching-plan",
+    "learning-theories"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": true
+  },
+  {
+   "id": "m41-u6-015",
+   "topic": "lifespan-digital-learning",
+   "type": "mcq",
+   "stem": "An adolescent says a private conversation and a short video would help them learn a new routine. Which plan is most appropriate?",
+   "options": [
+    "Prioritize the parent’s method and involve the adolescent later.",
+    "Promise complete secrecy before starting the education session.",
+    "Show the video privately and record complete learning.",
+    "Assess access, respect privacy, and verify learning through practice."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. This overlooks the adolescent’s expressed learning preferences and participation.",
+    "Incorrect. Confidentiality limits must be explained accurately.",
+    "Incorrect. Viewing does not establish understanding or skill.",
+    "Correct. Respect appropriate privacy, discuss questions, and verify learning."
+   ],
+   "rationale": "Adolescent teaching should include the learner, respect privacy within applicable rules, and use preferred methods when feasible. Digital engagement does not replace discussion, practice, and evaluation.",
+   "takeaway": "A preferred digital method still needs access and learning verification.",
+   "hintContent": "Choose the plan combining respect, accurate privacy boundaries, and evaluation.",
+   "hintStrategy": "Use the specific cues in the scenario to compare all options; choose the one that best meets the stated goal.",
+   "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+   "alsoTests": [
+    "teaching-plan",
+    "learning-theories"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false
+  }
+ ]
+}

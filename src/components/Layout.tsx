@@ -127,6 +127,7 @@ function Sidebar({ isActive }: { isActive: (to: string) => boolean }) {
         ))}
         <div className="side-section">
           <span className="side-title">Modules</span>
+          <NavLink to="/learn/unit-6" className="side-link"><Icon name="book" /><span>Unit 6 overview</span></NavLink>
           {moduleStats.map(({ m, pct }) => (
             <NavLink key={m.id} to={`/learn/${m.id}`} className="side-link side-module" style={{ ['--mc' as string]: m.color }}>
               <span className="side-dot" />

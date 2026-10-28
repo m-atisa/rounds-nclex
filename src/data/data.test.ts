@@ -1,10 +1,38 @@
 import { describe, expect, it } from 'vitest';
-import { CJMM_STEPS, FOCUS_AREAS } from './types';
-import { MODULES, QUESTIONS } from './index';
+import { CJMM_STEPS, FOCUS_AREAS, formatOf } from './types';
+import { MODULES, QUESTIONS, UNIT_6, UNIT_6_MODULES } from './index';
 
 describe('content integrity', () => {
   it('loads all modules', () => {
-    expect(MODULES.map((m) => m.number)).toEqual([5, 6, 10, 15, 16, 21]);
+    expect(MODULES.map((m) => m.number)).toEqual([5, 6, 7, 10, 15, 16, 21, 23, 29, 38, 41]);
+  });
+
+  it('keeps Unit 6 distinct from Module 6 and complete across all study modes', () => {
+    expect(UNIT_6_MODULES.map((m) => m.number)).toEqual([7, 23, 29, 38, 41]);
+    expect(UNIT_6.moduleIds).not.toContain('m6');
+    expect(MODULES.find((m) => m.id === 'm6')?.title).toBe('Fluids & Electrolytes');
+    expect(new Set(UNIT_6_MODULES.flatMap((m) => m.questions.map((q) => q.cjmm)))).toEqual(new Set(CJMM_STEPS));
+    for (const m of UNIT_6_MODULES) {
+      expect(new Set(m.topics.map((t) => t.id)).size).toBe(m.topics.length);
+      expect(new Set(m.questions.map(formatOf))).toEqual(new Set(['priority', 'single', 'sata']));
+      for (const t of m.topics) {
+        expect(m.questions.filter((q) => q.topic === t.id).length, `${m.id}/${t.id} questions`).toBeGreaterThanOrEqual(5);
+        expect(m.flashcards.filter((c) => c.topic === t.id).length, `${m.id}/${t.id} cards`).toBeGreaterThanOrEqual(4);
+        expect(t.sections?.some((s) => s.heading === 'Course source & clinical clarification')).toBe(true);
+      }
+      for (const q of m.questions) {
+        if (q.type !== 'mcq' && q.type !== 'sata') throw new Error(`Unsupported Unit 6 format: ${q.id}`);
+        const answers = q.type === 'sata' ? q.answer : [q.answer];
+        expect(new Set(answers).size).toBe(answers.length);
+        answers.forEach((answer) => {
+          expect(Number.isInteger(answer)).toBe(true);
+          expect(answer).toBeGreaterThanOrEqual(0);
+        });
+        expect(q.optionRationales?.length).toBe(q.options.length);
+        expect(q.ref).toMatch(/slides \d+/);
+        expect(q.stem).not.toMatch(/source slide|guide clarification|the slide/i);
+      }
+    }
   });
 
   it('has full lessons for every topic', () => {

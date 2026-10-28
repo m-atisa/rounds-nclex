@@ -1,0 +1,492 @@
+{
+ "moduleId": "m23",
+ "moduleNumber": 23,
+ "moduleTitle": "Cognition",
+ "kind": "guide",
+ "topics": [
+  {
+   "id": "cognition-assessment",
+   "title": "Normal Cognition, Cognitive Domains & Assessment",
+   "exemplar": null,
+   "summary": "Assess attention, memory, language, judgment, and daily function against the person’s baseline rather than relying on orientation alone.",
+   "objectives": [
+    "Explain the major cognitive domains and how they interact.",
+    "Distinguish expressive difficulty from inability to understand.",
+    "Gather a baseline and identify new functional changes.",
+    "Use cognitive screens appropriately without treating them as diagnoses.",
+    "Prioritize physiologic assessment when cognition changes suddenly."
+   ],
+   "bigPicture": "<p>Cognition is how people acquire, store, retrieve, interpret, and use information. It lets a person notice a sound, remember a direction, plan an action, and judge whether that action is safe. A person can be oriented to name and place but still be unable to organize medications or manage a multistep task.</p><p>The nursing question is both “What has changed?” and “How does that change affect safety and function?” Assessment includes the person’s history, direct observation, family or caregiver information when appropriate, and structured tools. A sudden change requires evaluation for an acute cause; it is not simply a low score to record.</p>",
+   "keyTerms": [
+    {
+     "term": "Perception",
+     "def": "Interpretation of sensory information."
+    },
+    {
+     "term": "Attention",
+     "def": "Ability to become alert, focus, sustain focus, and shift it appropriately."
+    },
+    {
+     "term": "Working memory",
+     "def": "Temporary holding and manipulation of information used for an immediate task."
+    },
+    {
+     "term": "Executive function",
+     "def": "Planning, organizing, prioritizing, inhibiting unsafe responses, and completing goal-directed actions."
+    },
+    {
+     "term": "Adaptive function",
+     "def": "Conceptual, social, and practical skills used in daily life."
+    },
+    {
+     "term": "Baseline",
+     "def": "The person’s usual level of cognition and function before the current change."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "From sensory input to purposeful action",
+     "body": "<p>Perception interprets what the senses detect. Attention selects what deserves focus. Memory stores and retrieves information. Language supports understanding and expression. Executive function organizes a response. These processes interact; failure in one area can look like difficulty in another. A person who cannot hear the instruction may appear unable to remember it.</p><p>The course links the cortex with thinking and reasoning, the limbic system with emotion and motivation, the reticular activating system with alertness, and the cerebellum with coordination. Several neurotransmitters support communication across these networks. You do not need to localize every nursing finding to one structure. The clinical goal is to recognize the affected function, identify change, and address safety and potentially reversible causes.</p>",
+     "analogy": "Following a recipe needs a clear signal, attention to the next step, memory of what was done, and planning for what comes next. Knowing the date does not prove that all those abilities are intact."
+    },
+    {
+     "heading": "Memory is more than remembering a name",
+     "body": "<p>Sensory memory is very brief. Short-term and working memory support immediate tasks, such as holding a direction long enough to carry it out. Long-term memory includes facts and events, often called declarative memory, and learned skills, often called nondeclarative memory. A person may remember childhood events while forgetting recent teaching.</p><p>Assess memory in context. Can the client explain a recent event, remember instructions after a short interval, and use them in a task? Anxiety, fatigue, pain, sensory deficits, language mismatch, and medication effects may interfere. Do not call every error dementia. Clarify what happened, compare with baseline, and adapt the assessment. Repeatedly testing the same question in a frustrated client may worsen performance without providing useful information.</p>"
+    },
+    {
+     "heading": "Language, motor planning, and daily tasks",
+     "body": "<p>Aphasia affects language use or understanding. Anomia is difficulty naming common objects. Alogia describes limited speech. Apraxia is difficulty performing purposeful learned acts that cannot be explained simply by weakness or unwillingness. Ataxia concerns coordination and balance. These terms describe different functions and should not be used interchangeably.</p><p>Assess comprehension separately from speech. A person unable to speak may follow directions and make choices using a board. Another may speak fluently but not understand the question. Observe whether the person can initiate and sequence a familiar task, such as using grooming supplies. A client who recognizes a toothbrush but cannot organize the sequence may need cues and supervision rather than stronger encouragement to “try harder.”</p>",
+     "table": {
+      "headers": [
+       "Observation",
+       "Domain to assess",
+       "Care implication"
+      ],
+      "rows": [
+       [
+        "Cannot name a cup",
+        "Language / anomia",
+        "Offer alternative communication and assess comprehension."
+       ],
+       [
+        "Loses track during instructions",
+        "Attention / working memory",
+        "Simplify, reduce distractions, and assess causes."
+       ],
+       [
+        "Cannot sequence medication tasks",
+        "Executive function",
+        "Evaluate self-management safety."
+       ],
+       [
+        "Unsteady coordinated movement",
+        "Motor coordination",
+        "Assess fall risk and neurologic change."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Establish the baseline",
+     "body": "<p>Ask when changes began, how quickly they developed, whether they fluctuate, and what the person could do before. Useful questions include “How did you manage medication last week?” and “When was the last time they were acting like themselves?” A caregiver can provide valuable observations, but include the client and respect privacy and consent requirements.</p><p>Ask about previous cognitive concerns, illness, injury, sleep, nutrition, substance use, and recent medication changes. Observe mood and behavior as well as answers. Document concrete comparisons: “Daughter reports client normally prepares meals independently; today cannot follow a one-step request.” A baseline is especially important when chronic impairment exists because delirium can occur on top of dementia. A longstanding diagnosis must not hide a new acute change.</p>"
+    },
+    {
+     "heading": "Structured screens support clinical assessment",
+     "body": "<p>The course names MMSE, MoCA, and mood screening tools. These organize assessment and monitoring; they do not independently establish the cause of impairment. Scores can be affected by language, education, culture, sensory ability, and acute illness. Use the appropriate authorized instrument and standardized procedure rather than improvising questions and interpreting them as a formal score.</p><p>A low score signals the need for further assessment. A seemingly adequate score does not guarantee safe medication management, driving, or independent living. Observe function and collaborate with the team. Document the tool, context, assistance, and relevant limitations. Avoid assuming that a language barrier is an intellectual deficit or that inability to write because of motor impairment proves poor comprehension.</p>"
+    },
+    {
+     "heading": "A sudden change changes the priority",
+     "body": "<p>New confusion, inability to sustain attention, altered alertness, or disorganized thinking may reflect hypoxia, infection, metabolic problems, medication effects, withdrawal, injury, or another acute condition. Assess immediate physiologic safety first: airway, breathing, circulation, vital signs, oxygenation, and focused neurologic findings according to the situation. Escalate acute deterioration through the appropriate clinical response system.</p><p>Do not delay immediate care to finish a lengthy cognitive screen. Laboratory and imaging evaluation are selected by the team based on findings; the slide list is not a routine order set for every client. A quiet or drowsy change can be as significant as agitation. Compare observations across the day and communicate the onset, trend, and associated findings clearly.</p>",
+     "example": "A client who spoke clearly at breakfast is now inattentive and unusually drowsy. Check immediate physiologic status and obtain urgent evaluation instead of waiting for the next routine memory assessment."
+    },
+    {
+     "heading": "Promote strengths and independence",
+     "body": "<p>Support vision and hearing with working devices. Reduce distractions, offer one task at a time, and allow processing time. Use a consistent routine, meaningful activity, and appropriate cues. Preserve the person’s ability to make choices rather than replacing every task with caregiver action. The amount of assistance should follow actual function.</p><p>Evaluate whether the strategy improves performance. Can the client communicate a need, complete a step, or use a device more safely? Ask the person and caregiver what helps. Cognitive care connects with sleep, mobility, nutrition, communication, self-concept, and support. Teaching should match attention and memory capacity, and discharge planning should address the tasks the client must actually perform at home.</p>"
+    },
+    {
+     "heading": "Worked bedside case: orientation misses the risk",
+     "body": "<p>A client answers name, location, and date correctly and recognizes every medication container. When asked to organize the day’s doses, the client repeats some steps and omits others. The nurse should not conclude that self-management is safe from orientation alone.</p><p>Separate the tasks. Recognizing containers uses knowledge and perception. Following a schedule requires attention, working memory, sequencing, and judgment. Check sensory access and the clarity of instructions before interpreting the error. Ask whether this performance differs from home and whether the regimen or packaging has changed.</p><p>If the difficulty is new, assess for an acute contributor. If it is established, evaluate a supported method, such as an appropriate organizer, cueing, or trained assistance within the care plan. Do not assume family can provide the required help without assessment. A helper’s availability, understanding, and practical capacity matter.</p><p>Observe the revised task rather than accepting a verbal promise. Document which steps were completed, what support was used, and what remained unsafe. The goal is the least assistance that supports reliable function, not either complete independence or total takeover. Communicate the specific deficit so the next clinician can continue the assessment instead of repeating an orientation test that does not address it.</p>",
+     "steps": [
+      "Break the real task into its cognitive demands.",
+      "Check access, instructions, baseline, and time course.",
+      "Assess an appropriate supported method.",
+      "Verify the task and document the assistance required."
+     ],
+     "check": {
+      "q": "What is the key difference between a screening finding and functional safety?",
+      "a": "A screen samples abilities. Functional safety requires assessment of the actual tasks, context, and support the person will use."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 23 – Cognition, slides 2–20, 33–42, and 47. Assessment examples are original. Screening instruments must be used according to their own validated instructions.</p>"
+    }
+   ],
+   "pearls": [
+    "Orientation is one finding, not a complete cognitive assessment.",
+    "Assess hearing, language, pain, and fatigue before interpreting errors.",
+    "New change from baseline can be urgent even with preexisting dementia.",
+    "Screens identify concerns; diagnosis requires broader assessment."
+   ],
+   "redFlags": [
+    "Acute inattention, reduced responsiveness, or focal neurologic change requires prompt assessment and escalation.",
+    "Inability to manage essential self-care tasks may make unsupervised discharge unsafe."
+   ],
+   "recap": [
+    "Cognition includes perception, attention, memory, language, executive, motor, and adaptive function.",
+    "Assess ability to understand separately from ability to speak.",
+    "Baseline and time course guide interpretation.",
+    "Combine screening with function and context.",
+    "Address immediate causes and preserve strengths."
+   ],
+   "checks": [
+    {
+     "q": "Does orientation to person and place prove intact executive function?",
+     "a": "No. The person may still be unable to plan or sequence medication or daily tasks."
+    },
+    {
+     "q": "A client cannot hear a question and gives an incorrect answer. What comes first?",
+     "a": "Address sensory access and communication before interpreting the response as cognitive impairment."
+    },
+    {
+     "q": "What makes a sudden cognitive change different from a longstanding deficit?",
+     "a": "It may signal an acute reversible or life-threatening condition and needs prompt physiologic assessment."
+    },
+    {
+     "q": "What is a cognitive screen’s role?",
+     "a": "It identifies and tracks concerns; it does not independently diagnose the cause or establish independent-living safety."
+    }
+   ]
+  },
+  {
+   "id": "cognition-alterations",
+   "title": "Cognitive Alterations, Prevention & the Lifespan",
+   "exemplar": null,
+   "summary": "Recognize developmental and acquired patterns while supporting strengths, safety, and appropriate interdisciplinary evaluation.",
+   "objectives": [
+    "Compare delirium, dementia, and depression by onset and course.",
+    "Describe selected developmental cognitive conditions and learning differences.",
+    "Recognize normal age-related changes versus clinically significant decline.",
+    "Apply universal, selective, and indicated prevention concepts.",
+    "Plan respectful support and collaborative care across the lifespan."
+   ],
+   "bigPicture": "<p>Cognitive changes have many possible causes and time courses. Some arise during development; others appear after injury, illness, or neurodegeneration. The same surface behavior—difficulty following a direction—may reflect a language barrier, hearing loss, anxiety, a learning difference, delirium, or an established neurocognitive disorder.</p><p>The nurse should describe what is observed and assess context before attaching a label. Good care supports function, autonomy, communication, and safety while the team investigates the cause. A person’s diagnosis does not tell you every strength or determine how much assistance they need.</p>",
+   "keyTerms": [
+    {
+     "term": "Delirium",
+     "def": "An acute, fluctuating disturbance in attention and awareness with other cognitive changes."
+    },
+    {
+     "term": "Dementia / major neurocognitive disorder",
+     "def": "Significant acquired cognitive decline that interferes with independence; causes and patterns vary."
+    },
+    {
+     "term": "Confabulation",
+     "def": "Filling gaps in memory with inaccurate accounts, without necessarily intending to deceive."
+    },
+    {
+     "term": "Learning disability",
+     "def": "A specific difficulty processing or using information that does not by itself establish global intellectual impairment."
+    },
+    {
+     "term": "Intellectual disability",
+     "def": "Developmental limitations in intellectual and adaptive functioning assessed in context."
+    },
+    {
+     "term": "Indicated prevention",
+     "def": "Intervention directed toward people showing early signs or symptoms of a problem."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Compare the time course before choosing a label",
+     "body": "<p>Delirium usually begins over hours to days, fluctuates, and prominently affects attention and awareness. Dementia more often develops gradually and affects independence over time. Depression can reduce concentration, motivation, memory performance, and function. These conditions may coexist, so a comparison table is a guide rather than a diagnostic shortcut.</p><p>An older adult with dementia can develop delirium from an acute illness. A person with depression still needs assessment for physical causes of new confusion. The priority is identifying the new change and any immediate threat. Avoid assuming that a quiet withdrawn presentation is harmless or that a chronic diagnosis explains every finding.</p>",
+     "table": {
+      "headers": [
+       "Feature",
+       "Delirium",
+       "Dementia",
+       "Depression"
+      ],
+      "rows": [
+       [
+        "Usual onset",
+        "Acute",
+        "Often gradual",
+        "Often gradual, but variable"
+       ],
+       [
+        "Course",
+        "Fluctuating",
+        "Persistent decline; pattern varies",
+        "Variable; potentially treatable"
+       ],
+       [
+        "Attention",
+        "Often markedly impaired",
+        "May be relatively preserved early",
+        "May be reduced"
+       ],
+       [
+        "Nursing focus",
+        "Acute cause and safety",
+        "Function, support, and new changes",
+        "Mood, safety, function, and evaluation"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Neurocognitive disorders are not all identical",
+     "body": "<p>The course discusses mild and major neurocognitive disorder. Mild impairment may permit independence with compensatory strategies. Major impairment interferes with independent daily function. Alzheimer disease is one common cause; vascular injury can also cause decline. Vascular patterns may be stepwise, but not every client follows a textbook staircase.</p><p>Assess what the person can do now: medication organization, appointments, meals, money, hygiene, and safe mobility. Memory loss is not the only possible problem. Executive or visuospatial difficulties can be important. Use reminders, simplified routines, appropriate supervision, and referrals according to actual need. Medication therapy may target symptoms or specific disease mechanisms under specialist management; avoid promising that a cognitive enhancer restores all lost function.</p>"
+    },
+    {
+     "heading": "Developmental and learning differences",
+     "body": "<p>Auditory and language processing difficulties may interfere with following verbal directions. Visual cues, written schedules, demonstration, and repetition may improve access. A learning disability does not automatically mean low intelligence. Intellectual disability involves both intellectual and adaptive limitations, with onset during development; a single IQ number is not a sufficient nursing assessment.</p><p>The course includes Down syndrome, Fragile X syndrome, and fetal alcohol spectrum disorders. Down syndrome involves an extra chromosome 21. Fragile X involves changes in the FMR1 gene and can affect learning, communication, sensory response, and behavior. Prenatal alcohol exposure can cause lasting developmental effects. Care should support the person and family without blaming or stigmatizing. Assess associated health and sensory needs and connect families with developmental resources.</p>"
+    },
+    {
+     "heading": "Psychosis and schizophrenia-spectrum conditions",
+     "body": "<p>Psychosis describes impaired contact with reality and may include hallucinations, delusions, and disorganized thinking. A hallucination is a perception without a corresponding external stimulus, such as hearing a voice others do not hear. A delusion is a fixed false belief that remains despite contrary evidence, interpreted in cultural context. Disorganized thought may appear as speech that is difficult to follow or connect logically.</p><p>The course includes schizophrenia-spectrum disorders, but one unusual statement or hallucination does not establish schizophrenia. Medical illness, delirium, substances, withdrawal, medicines, mood conditions, and other causes may produce similar findings. Onset, attention, alertness, substance and medication history, and baseline help guide evaluation. New symptoms with fluctuating inattention or altered consciousness especially require acute medical assessment.</p><p>Assess distress, immediate safety, and what the person is experiencing without arguing about a belief or pretending to share a perception. Acknowledge the feeling and communicate calmly. Ask about the content when needed for safety, including whether a voice directs harmful action, and follow the appropriate risk protocol. Do not assume a diagnosis makes someone dangerous; assess the individual’s actual statements, behavior, and circumstances.</p><p>Collaborative treatment may involve medical, psychiatric, substance-related, and social evaluation. Nursing care includes clear communication, a manageable environment, support for daily needs, and monitoring ordered treatment. A calm presentation after medication is not the only outcome: consider distress, alertness, function, safety, and adverse effects. This section follows Module 23 slide 32 and the broader assessment principles in slides 33 and 39–42.</p>"
+    },
+    {
+     "heading": "Prevent injury and support development",
+     "body": "<p>Early brain development is influenced by genetic, nutritional, environmental, and health factors. Prenatal care, avoiding harmful exposures, appropriate nutrition, immunization, and injury prevention can reduce some risks. Not every developmental disability is preventable, and an existing diagnosis is not evidence that a family failed to provide care.</p><p>The slides describe universal prevention for everyone, such as helmet and seat-belt campaigns; selective prevention for higher-risk groups; and indicated prevention for people with early symptoms. These categories describe who is targeted and differ from the primary/secondary/tertiary framework, which focuses on disease stage and purpose. Read the wording carefully. A developmental referral may require prompt action even when a screening program is called preventive.</p>",
+     "example": "A community-wide helmet campaign is universal prevention. Additional support for children with a known exposure risk is selective. Evaluation and support after early concerning changes is indicated."
+    },
+    {
+     "heading": "Children and adolescents",
+     "body": "<p>Children’s attention, language, and ability to follow directions depend on development. Use age-appropriate tasks, ask about developmental history, and involve caregivers while addressing the child directly. Acute illness, dehydration, pain, unfamiliar surroundings, or medicines may change behavior. Do not dismiss a new cognitive change as deliberate misbehavior.</p><p>Adolescents are developing executive control while social and reward systems strongly influence decisions. Support privacy within applicable rules, explain expectations, and use nonjudgmental communication. Peer relationships and fear of being different may affect treatment participation. Ask about safety, substance exposure, injury, mood, and support as appropriate. A developmental explanation does not excuse overlooking an abrupt decline, new psychotic symptoms, or self-harm risk.</p>"
+    },
+    {
+     "heading": "Adults and older adults",
+     "body": "<p>Adult cognition can be affected by sleep loss, stress, pain, medication, illness, and competing demands. Assess occupational and family goals, not only test performance. A new parent who is exhausted may need rest and practical support as well as evaluation when symptoms suggest more than fatigue.</p><p>With aging, slower retrieval of a word or name can occur. Moderate or severe confusion, loss of previously independent function, and rapid change are not normal consequences of age. Hearing or vision deficits can distort screening results. Depression, infection, and medication effects may resemble or worsen cognitive impairment. Ask about the person’s usual ability and investigate change rather than reassuring the family that “this happens to everyone when they get older.”</p>"
+    },
+    {
+     "heading": "Nursing and collaborative care",
+     "body": "<p>Support safe routines, meaningful activity, sleep, nutrition, hydration as appropriate, and access to sensory aids. Use concrete directions, allow time, and avoid repeated confrontation. Confabulation is not automatically intentional lying; respond to the need, preserve dignity, and verify important information through appropriate sources.</p><p>Collaboration may include primary care, neurology, psychiatry, speech-language pathology, occupational therapy, social work, and developmental services. Assess caregiver capacity and strain. Medication administration and monitoring require attention to effects, adverse responses, and ability to self-administer. Do not assume every person with cognitive impairment can independently manage a complex regimen. Evaluate observed performance and build a practical plan with the person and chosen supports.</p>"
+    },
+    {
+     "heading": "Connect the findings to safety",
+     "body": "<p>A client who cannot sequence a task may be at risk when cooking or taking medication. A person with poor spatial judgment may need mobility assessment. Someone with reduced ability to recognize social cues may need clear explanations and predictable routines. Match intervention to the domain and task, rather than applying every restriction to every client.</p><p>Evaluate both strengths and limitations. A client might need help organizing tablets but still make meaningful choices about meals, daily activities, and goals. Preserve those choices. When urgent new changes appear, communicate the baseline, onset, fluctuation, and associated physical findings so the team can distinguish a new process from the longstanding condition.</p>"
+    },
+    {
+     "heading": "Worked bedside case: describe a pattern before naming it",
+     "body": "<p>A family reports that a client has gradually needed more help with bills and meals over a year. Today the client also seems unusually sleepy and loses track of conversation. There are two time courses, and they may reflect more than one process.</p><p>The gradual loss of independence raises concern for an acquired cognitive disorder and warrants comprehensive evaluation. The new attention and alertness change raises an acute concern that cannot wait for a long-term memory appointment. Assess current physiology, medication and substance changes, illness, and other triggers while gathering baseline information.</p><p>Avoid treating the alternatives as mutually exclusive. Depression, chronic cognitive impairment, and delirium can coexist. Similarly, a psychotic symptom does not by itself identify schizophrenia. The nurse’s role is to recognize the pattern, communicate concrete findings, and support an appropriate evaluation, not diagnose from one behavior.</p><p>After the acute issue is addressed, evaluate function and support across settings. Ask what the person can still do, which tasks require assistance, and who is available. Preserve strengths and choices. The long-term plan should reflect the remaining baseline rather than the worst moment of the acute illness or a single apparently normal conversation.</p>",
+     "steps": [
+      "Distinguish the chronic trend from today’s new findings.",
+      "Prioritize acute safety and potentially reversible contributors.",
+      "Describe uncertainty rather than forcing one label.",
+      "Reassess function and supports after acute treatment."
+     ],
+     "check": {
+      "q": "Why is a single diagnosis insufficient to explain this case?",
+      "a": "There is a chronic functional decline plus an acute change in attention and alertness. A new process may be superimposed and requires its own assessment."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 23, slides 12–47. Definitions are paraphrased for nursing use. Screening scores and developmental diagnoses require contextual professional assessment rather than a single-number rule.</p>"
+    }
+   ],
+   "pearls": [
+    "Time course and baseline are essential to distinguishing patterns.",
+    "Dementia does not protect against delirium; they can coexist.",
+    "Learning differences do not prove global intellectual disability.",
+    "Severe decline is not normal aging."
+   ],
+   "redFlags": [
+    "New acute confusion or reduced alertness requires immediate assessment, whatever the baseline diagnosis.",
+    "New self-harm concerns, unsafe judgment, or inability to meet essential needs requires prompt safety assessment."
+   ],
+   "recap": [
+    "Cognitive conditions vary in onset, domains, and functional effect.",
+    "Developmental diagnoses require individualized assessment.",
+    "Universal, selective, and indicated describe target populations.",
+    "Adapt communication and evaluate real tasks.",
+    "Support autonomy and caregivers while addressing safety."
+   ],
+   "checks": [
+    {
+     "q": "A client with dementia suddenly becomes inattentive. Should the nurse assume progression?",
+     "a": "No. Assess for superimposed delirium and an acute cause."
+    },
+    {
+     "q": "Does an auditory processing difficulty prove low intelligence?",
+     "a": "No. Assess access and processing and adapt communication."
+    },
+    {
+     "q": "What is indicated prevention?",
+     "a": "Support directed toward people with early signs or symptoms."
+    },
+    {
+     "q": "How should the nurse interpret severe new confusion in an older adult?",
+     "a": "As a clinical change requiring assessment, not a normal feature of aging."
+    }
+   ]
+  },
+  {
+   "id": "delirium",
+   "title": "Delirium: Recognize Change, Find Causes & Protect Safety",
+   "exemplar": "23.B Delirium",
+   "summary": "Acute fluctuating inattention is a warning sign. Protect the client, assess physiologic causes, and support recovery with a coordinated plan.",
+   "objectives": [
+    "Recognize hyperactive, hypoactive, and mixed delirium patterns.",
+    "Compare acute delirium with baseline cognitive impairment.",
+    "Identify common precipitating factors and risk combinations.",
+    "Apply a focused assessment and communicate changes promptly.",
+    "Plan prevention, nonpharmacologic care, and safe monitoring of ordered treatment."
+   ],
+   "bigPicture": "<p>Delirium is an acute change in attention and awareness with additional cognitive disturbance. It often fluctuates: the client may converse in the morning and become disorganized later. Agitation is one possible presentation, but unusual drowsiness or withdrawal can be equally important.</p><p>Think of delirium as a signal to look for a cause. Hypoxia, infection, metabolic changes, medications, pain, retention, withdrawal, and environmental stress may contribute, often together. Reassurance and orientation help, but they do not replace physiologic assessment or treatment of the underlying problem.</p>",
+   "keyTerms": [
+    {
+     "term": "Acute onset",
+     "def": "A new change developing over a short period, often hours to days."
+    },
+    {
+     "term": "Fluctuation",
+     "def": "Symptoms vary in severity or presentation over time."
+    },
+    {
+     "term": "Inattention",
+     "def": "Difficulty sustaining or shifting focus, following conversation, or staying with a task."
+    },
+    {
+     "term": "Hypoactive delirium",
+     "def": "Delirium with reduced activity, withdrawal, slowed responses, or drowsiness."
+    },
+    {
+     "term": "Hyperactive delirium",
+     "def": "Delirium with agitation, restlessness, or heightened activity."
+    },
+    {
+     "term": "CAM",
+     "def": "Confusion Assessment Method, a structured approach to identifying delirium features when used by trained staff."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Recognize the pattern",
+     "body": "<p>Look for a change from baseline, not simply the word “confused.” The client may lose track of a question, misinterpret surroundings, switch topics illogically, become restless, or respond much more slowly. Alertness may be increased or reduced. Sleep-wake disruption and perceptual changes may occur.</p><p>A quiet client who stops eating and sleeps through conversation can be overlooked because they are not disruptive. Compare behavior with prior function and ask caregivers about the last usual state. Evening worsening, sometimes called sundowning, is descriptive and does not establish the cause. Do not assume every evening change is dementia or every hallucination is a primary psychiatric disorder.</p>",
+     "example": "A postoperative client who normally reads and chats is now quiet, cannot keep attention on a simple question, and falls asleep between answers. This change deserves assessment even without agitation."
+    },
+    {
+     "heading": "Risk factors and triggers accumulate",
+     "body": "<p>Older age, existing cognitive impairment, sensory loss, severe illness, chronic disease, and prior functional limitations can reduce reserve. New triggers include infection, hypoxia, electrolyte or metabolic problems, dehydration, medication effects, withdrawal, pain, urinary retention, and disrupted sleep. More than one factor may be present.</p><p>Review what changed: a new medicine, procedure, missed hearing aids, poor intake, untreated pain, or relocation. Do not let one plausible cause end the assessment prematurely. A client may have both medication effects and hypoxia. Likewise, new confusion alone does not prove urinary infection or justify assuming a particular treatment without evaluation. Report the pattern and findings so the team can select an appropriate workup.</p>"
+    },
+    {
+     "heading": "Assess immediate safety and physiology first",
+     "body": "<p>Stay with or arrange appropriate observation for an unsafe client. Assess airway, breathing, circulation, vital signs, oxygenation, and focused neurologic findings according to the presentation. Activate urgent help for deterioration. Check other time-sensitive measures according to protocol and the clinical situation. Do not delay emergency assessment to administer a formal screen.</p><p>Once immediate threats are addressed, gather baseline, onset, fluctuation, medication and substance history, pain, intake, elimination, sleep, and sensory needs. Examine for signs suggesting infection, perfusion problems, injury, or other causes. A clinician-directed workup may include laboratory testing, medication review, or imaging; the slide list is not an instruction to order every test for every person.</p>",
+     "steps": [
+      "Recognize and describe a new change.",
+      "Protect immediate safety and assess physiologic status.",
+      "Escalate deterioration promptly.",
+      "Gather baseline, time course, triggers, and focused findings.",
+      "Use the indicated screen and collaborate on cause-directed treatment."
+     ]
+    },
+    {
+     "heading": "Use screening without replacing judgment",
+     "body": "<p>The course names CAM. Its classic pattern requires acute onset or fluctuation plus inattention, with disorganized thinking or altered level of consciousness. Use the validated tool and appropriate training; do not assign a result from a casual impression. Facilities may use other validated tools suited to the setting.</p><p>A positive screen prompts clinical evaluation. A negative result does not erase an observed deterioration. Document the concrete behaviors, tool and time, baseline source, and associated findings. Reassess over time because fluctuation can hide the problem during a short conversation. Include the change in handoff so the next nurse knows what is new and what follow-up is pending.</p>"
+    },
+    {
+     "heading": "Prevention and supportive care",
+     "body": "<p>Provide glasses and hearing aids, a visible clock and calendar, calm explanations, and familiar items without clutter. Use consistent routines and caregivers when feasible. Support daytime engagement and nighttime rest. Reduce unnecessary room moves, noise, and sensory overload while avoiding a dark, isolated environment that removes orientation cues.</p><p>Address pain, nutrition, hydration, mobility, and elimination according to the care plan. Explain who you are and what you are doing. Use brief concrete sentences and one request at a time. Invite familiar support people when the client wishes and it is helpful. These measures reduce stress and support function; they should occur alongside assessment and treatment of underlying causes.</p>",
+     "table": {
+      "headers": [
+       "Need",
+       "Possible intervention"
+      ],
+      "rows": [
+       [
+        "Sensory access",
+        "Provide and check glasses/hearing aids."
+       ],
+       [
+        "Orientation",
+        "Use clocks, calendars, signs, and calm reminders."
+       ],
+       [
+        "Sleep",
+        "Protect night rest and support daytime routine."
+       ],
+       [
+        "Safety",
+        "Remove hazards, supervise appropriately, use least restrictive measures."
+       ],
+       [
+        "Physiologic comfort",
+        "Assess pain, intake, oxygenation, and elimination."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Medication requires a specific purpose",
+     "body": "<p>Treat the cause when possible. Medicines listed in a slide are not interchangeable routine treatments for delirium. Antidepressants do not rapidly reverse acute delirium. Antipsychotics do not correct hypoxia, infection, or retention. Nonpharmacologic de-escalation and safety measures come first when appropriate.</p><p>For severe distress or danger that persists despite appropriate measures, a prescriber may consider short-term medication after weighing risks. Older adults, especially those with Parkinson disease or Lewy body dementia, require particular caution with haloperidol and similar agents. Monitor ordered therapy for sedation, cardiac or neurologic adverse effects, falls, and response. Follow the individualized order and protocol; this lesson does not supply dosing. Restraints and sedation are not default responses to every restless client.</p>"
+    },
+    {
+     "heading": "Lifespan and family considerations",
+     "body": "<p>Delirium can occur at any age. Children may show behavioral changes during severe illness or after anesthesia; do not assume intentional opposition. Adolescents may have injury, medication, or substance-related causes. Acute mental-status change during pregnancy or postpartum can signal serious illness and needs urgent evaluation rather than a simple reassurance about stress.</p><p>Older adults may present with confusion when other symptoms are subtle. Ask family about baseline and provide clear explanations of the assessment and plan. Explain that delirium may improve as causes are treated but recovery time varies and follow-up may be needed. Avoid promising that every client returns immediately to baseline. Assess caregiver capacity before discharge and provide instructions for reporting recurrent changes.</p>"
+    },
+    {
+     "heading": "Evaluate outcomes that matter",
+     "body": "<p>Useful outcomes include freedom from injury, improved attention and alertness, return toward baseline communication and function, adequate comfort, and restored sleep-wake patterns. Compare the current state with the person’s baseline rather than demanding identical orientation from every client with preexisting impairment.</p><p>If cognition does not improve or worsens, reassess for unresolved or additional causes and communicate promptly. Document treatment response and pending follow-up. “Client calm” is incomplete if the person is now too sedated to engage. The goal is safe recovery and function, not simply making behavior less noticeable to staff.</p>"
+    },
+    {
+     "heading": "Worked bedside case: quiet does not mean recovered",
+     "body": "<p>A postoperative client who was conversational becomes restless overnight, then unusually quiet and inattentive by morning. Hearing aids are missing, oral intake has been low, and a new medicine was given. It is tempting to call the quiet period improvement, but the client still cannot follow the conversation.</p><p>Compare attention, awareness, function, and physiologic findings with baseline. Assess immediate threats and arrange timely clinical evaluation. The missing aids and unfamiliar environment may contribute, but they do not prove the entire cause. Medication effects, pain, oxygenation, infection, elimination, and metabolic factors may need assessment according to the presentation.</p><p>Provide sensory access and calm orientation while the team investigates. Support sleep-wake routine, comfort, nutrition, hydration, and mobility within the clinical plan. Use appropriate observation and the least restrictive safe approach. If medication is ordered for a specific severe symptom, monitor the actual response and adverse effects rather than equating reduced movement with success.</p><p>At reassessment, ask whether attention and alertness are moving toward baseline. Document fluctuation and communicate it at handoff. A normal brief answer at one moment does not erase the earlier change. If the client is harder to arouse, breathing changes, or the condition worsens, escalate promptly. The outcome is safe recovery of function and treatment of the cause, not a more convenient behavior pattern.</p>",
+     "steps": [
+      "Identify both hyperactive and hypoactive changes.",
+      "Assess immediate physiology and several possible contributors.",
+      "Combine cause-directed care with sensory and environmental support.",
+      "Evaluate attention and function rather than quietness alone."
+     ],
+     "check": {
+      "q": "What evidence would support improvement more strongly than “no longer restless”?",
+      "a": "Improved attention and alertness, safer participation, clearer communication, and return toward the individual baseline, together with stable physiologic status."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 23, Exemplar 23.B, slides 48–68. Medication limits and nonpharmacologic priorities are clarified with <a href=\"https://www.nice.org.uk/guidance/cg103/chapter/Recommendations\" target=\"_blank\" rel=\"noreferrer\">NICE delirium recommendations</a>; checked October 27, 2026. The deck’s medication list is not used as a routine-treatment algorithm.</p>"
+    }
+   ],
+   "pearls": [
+    "Acute change plus inattention is more informative than “confused.”",
+    "Hypoactive delirium can be missed; quiet does not mean stable.",
+    "Assess causes and safety before routine sedation.",
+    "Measure recovery against baseline and function."
+   ],
+   "redFlags": [
+    "New reduced consciousness, hypoxia, focal neurologic signs, or acute deterioration needs immediate escalation.",
+    "Sudden mental-status change in pregnancy or postpartum requires urgent evaluation.",
+    "Excessive sedation after treatment is not proof of recovery."
+   ],
+   "recap": [
+    "Delirium is acute, fluctuating, and often multifactorial.",
+    "Gather baseline and assess physiologic threats first.",
+    "Screening supports assessment and must be used correctly.",
+    "Environmental, sensory, comfort, and sleep interventions support recovery.",
+    "Medication is selective and monitored, not routine cause treatment."
+   ],
+   "checks": [
+    {
+     "q": "A quiet postoperative client becomes inattentive and drowsy. Can this be delirium?",
+     "a": "Yes. Hypoactive delirium may present with withdrawal and reduced activity rather than agitation."
+    },
+    {
+     "q": "What is the classic CAM pattern?",
+     "a": "Acute onset/fluctuation and inattention, plus disorganized thinking or altered consciousness; use the validated tool and training."
+    },
+    {
+     "q": "Does new confusion prove a urinary infection?",
+     "a": "No. Assess for multiple possible acute causes and communicate findings for appropriate evaluation."
+    },
+    {
+     "q": "Why is “calm after sedation” an incomplete outcome?",
+     "a": "Reduced behavior may reflect oversedation. Evaluate alertness, attention, safety, function, and the underlying cause."
+    }
+   ]
+  }
+ ]
+}

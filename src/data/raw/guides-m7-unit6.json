@@ -1,0 +1,916 @@
+{
+ "moduleId": "m7",
+ "moduleNumber": 7,
+ "moduleTitle": "Health, Wellness, Illness & Injury",
+ "kind": "guide",
+ "topics": [
+  {
+   "id": "wellness-context",
+   "title": "Health, Wellness, Illness & Social Determinants",
+   "exemplar": null,
+   "summary": "Health is personal, changing, and influenced by daily life. Assess the whole person before deciding what wellness should look like.",
+   "objectives": [
+    "Distinguish health, wellness, well-being, disease, illness, and injury.",
+    "Use the nine wellness dimensions to assess strengths as well as concerns.",
+    "Compare acute and chronic illness, remission, relapse, and exacerbation.",
+    "Connect the five social determinant areas to realistic nursing actions.",
+    "Explain how illness changes family roles and access to care."
+   ],
+   "bigPicture": "<p>Two clients can have the same diagnosis and very different experiences of health. One person with diabetes may feel capable, connected, and satisfied with life. Another person with no diagnosed disease may feel exhausted, isolated, and unsafe at home. The diagnosis matters, but it does not describe the entire person.</p><p>This concept gives you a framework for asking what matters to the client and what makes healthy choices possible. Nursing care includes treating immediate problems, protecting function, strengthening resources, and helping people move toward their own meaningful goals. Wellness remains possible while a person is living with chronic disease or disability.</p>",
+   "keyTerms": [
+    {
+     "term": "Health",
+     "def": "A dynamic experience of physical, mental, and social well-being; more than the absence of disease."
+    },
+    {
+     "term": "Wellness",
+     "def": "A self-directed, evolving process of making choices toward well-being."
+    },
+    {
+     "term": "Illness",
+     "def": "The person’s experience of feeling unwell, which may affect any wellness dimension."
+    },
+    {
+     "term": "Disease",
+     "def": "An alteration in body structure or function, whether or not the person currently feels ill."
+    },
+    {
+     "term": "Social determinants of health",
+     "def": "Conditions in which people live, learn, work, play, and worship that influence health and opportunity."
+    },
+    {
+     "term": "Health disparity",
+     "def": "A difference in health outcomes between groups; assess the barriers and inequities contributing to it."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Health is a moving picture",
+     "body": "<p>The health-illness continuum describes movement between greater wellness and greater illness. It is not a permanent label assigned at admission. A person can have a chronic condition and still improve sleep, relationships, activity, or independence. Conversely, a person who feels well may have an asymptomatic disease that requires screening and management.</p><p>Ask, “What does being healthy mean to you?” and “What would you most like to be able to do?” The answers may involve returning to work, attending worship, managing fatigue, or caring for a grandchild. Those priorities help the nurse connect a clinical plan to the person’s life. Do not assume your definition of wellness is shared by every client. Well-being includes satisfaction, meaning, positive functioning, and emotional experience; a normal laboratory result cannot measure all of those things.</p>",
+     "analogy": "A diagnosis is one photograph. The health-illness continuum is a moving film showing function, symptoms, relationships, and resources over time."
+    },
+    {
+     "heading": "The nine dimensions work together",
+     "body": "<p>Physical wellness includes activity, nutrition, rest, and protective habits. Emotional wellness includes recognizing and expressing feelings. Intellectual wellness involves learning and reasoning. Social wellness concerns supportive relationships. Spiritual wellness concerns meaning and purpose and does not require a particular religious practice.</p><p>The course also includes financial, career, creative, and environmental wellness. Financial stress can lead to missed medication, overtime work, poor sleep, and fewer social connections. Creative expression may help someone cope with a new disability. A meaningful job may support identity while an unsafe workplace harms physical health. Assess connections instead of treating the dimensions as nine unrelated boxes. A strength in one area can support a problem in another: a reliable friend may help a client attend appointments or practice a new skill.</p>",
+     "table": {
+      "headers": [
+       "Dimension",
+       "A useful assessment question"
+      ],
+      "rows": [
+       [
+        "Physical / emotional",
+        "How are your energy, sleep, and mood?"
+       ],
+       [
+        "Financial / career",
+        "Does work or cost make your care difficult?"
+       ],
+       [
+        "Intellectual / creative",
+        "What do you enjoy learning or creating?"
+       ],
+       [
+        "Social / spiritual",
+        "Who supports you, and what gives you meaning?"
+       ],
+       [
+        "Environmental",
+        "Do you have a safe place to live and be active?"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Disease, illness, and injury describe different things",
+     "body": "<p>Disease describes structural or functional pathology. Illness describes the lived experience. A client with early hypertension may have disease without feeling ill. A client with unexplained fatigue still has an illness experience that deserves assessment even before a diagnosis is established. Avoid dismissing symptoms because an initial test is normal.</p><p>Injury is damage or loss of function caused by an event or exposure. It may be intentional or unintentional and can lead to acute or lasting disability. A fall can cause an immediate fracture; repeated loud-noise exposure can gradually damage hearing. Prevention therefore includes both immediate safety measures and protection from repeated exposures. Ask about work, home, activity, substance exposure, and use of protective equipment without assigning blame. The nursing task is to identify risk and support safer conditions.</p>"
+    },
+    {
+     "heading": "Acute and chronic illness",
+     "body": "<p>Acute illness usually begins suddenly and lasts a relatively short time. Its severity ranges from mild to life-threatening. Chronic illness persists over time and often requires ongoing adaptation and management. Your slides use three months or longer as a course definition; specific diseases and surveillance systems can use other duration criteria.</p><p>Remission means symptoms lessen or disappear; it does not necessarily mean cure. Relapse is the return of disease or symptoms after improvement. Exacerbation is worsening of an existing condition. A client with chronic asthma can have an acute exacerbation. That combines a chronic background with a new urgent problem. On an exam, avoid assuming that “chronic” means stable or that “acute” means severe. Use the current findings, trajectory, and effect on function to set priorities.</p>",
+     "example": "A client with COPD normally manages dressing independently. Today they cannot finish a sentence without pausing for breath. Their chronic diagnosis does not reduce the urgency of this new change."
+    },
+    {
+     "heading": "Social determinants make the plan possible or impossible",
+     "body": "<p>The five areas in the slides are economic stability, education access and quality, healthcare access and quality, neighborhood and built environment, and social and community context. These include income, literacy, transport, safe housing, clean water, discrimination, belonging, and access to appropriate care.</p><p>A missed visit may reflect lack of transportation or childcare. A client who does not use the portal may lack internet access, a device, or confidence reading medical language. Ask concrete questions: “How do you get to appointments?” “Have you had trouble getting enough food?” “What gets in the way of taking this medication?” Explain why you ask and protect privacy. Then match the barrier to a resource, such as social work, a low-cost pharmacy program, an interpreter, or an accessible appointment option. Teaching alone cannot solve a lack of food or transport.</p>",
+     "table": {
+      "headers": [
+       "Finding",
+       "Interpretation",
+       "Nursing response"
+      ],
+      "rows": [
+       [
+        "No refrigeration for medication",
+        "Housing/resource barrier",
+        "Coordinate a safe storage and treatment plan."
+       ],
+       [
+        "Cannot read instructions",
+        "Communication and literacy need",
+        "Use plain language, pictures, and teach-back."
+       ],
+       [
+        "Avoids an unsafe park",
+        "Environmental barrier",
+        "Identify a safe activity option with the client."
+       ],
+       [
+        "Repeated discriminatory care experiences",
+        "Trust and access barrier",
+        "Listen, validate concerns, and advocate for respectful care."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Families and communities experience illness too",
+     "body": "<p>Illness can change income, caregiving, intimacy, household responsibilities, and plans for the future. A person who formerly cared for everyone may now need help bathing. A partner may take extra shifts while a teenager takes over household tasks. Ask whom the client considers family and who they want involved; do not assume the nearest relative is the preferred decision partner.</p><p>Assess coping, caregiver capacity, and strengths as carefully as symptoms. Helpful questions include “What has changed at home?” and “Who can help, and what are they able to do?” A family member’s willingness does not prove they can safely perform a skill. Nursing care may include practice, respite resources, equipment, or referral. Support the client’s participation in decisions and preserve independence where possible rather than taking over every task.</p>"
+    },
+    {
+     "heading": "Turn assessment into individualized care",
+     "body": "<p>Combine subjective information, such as the client’s priorities and symptoms, with objective information, such as observed function and examination findings. Identify current problems, risks, and strengths. A client may have limited mobility, fall risk, and strong motivation to remain independent at the same time.</p><p>Choose a measurable goal that fits that assessment. For example, “By Friday, the client will identify one affordable way to obtain prescribed medication and demonstrate the agreed schedule.” Implement the plan with the interprofessional team and evaluate what changed. If the plan fails, reassess the barrier and the goal. Do not reduce the explanation to “the client does not care.” On NCLEX questions, the best response commonly gathers missing information, respects the client’s values, or connects a concrete barrier with a practical intervention.</p>"
+    },
+    {
+     "heading": "Worked bedside case: a plan that does not fit home",
+     "body": "<p>Ms. R has stable diabetes and says she wants to avoid another hospital visit. She can describe her medicines but has missed appointments and buys inexpensive food that differs from the recommended plan. She cares for two grandchildren and relies on a bus. These cues do not support a simple conclusion that she lacks interest or knowledge.</p><p>First separate the kinds of information. Her desire to remain well is a strength. Her accurate explanation is evidence of some understanding, although performance and access still need assessment. Transport, food cost, and caregiving are potential social determinants. Ask about each instead of assigning one assumed cause. She may have several barriers that interact.</p><p>Next build a goal around a problem that can be changed. If the appointment time conflicts with school pickup, explore scheduling and transport options with the appropriate team. If food advice is unaffordable, coordinate a realistic nutrition plan and resources. More detailed instructions alone do not create money or time.</p><p>Evaluate the practical result: was an accessible appointment arranged, could the client obtain the agreed supplies, and does the plan fit the household? A referral placed is a nursing action; successful connection and a feasible next step are stronger outcomes. Continue to assess symptoms and immediate safety while addressing the broader context.</p>",
+     "steps": [
+      "Identify the client’s priorities and demonstrated strengths.",
+      "Clarify which access barriers are present.",
+      "Match each barrier to a practical resource or adaptation.",
+      "Verify the connection and reassess feasibility."
+     ],
+     "check": {
+      "q": "Why is “teach the same plan again” incomplete in this case?",
+      "a": "The client already demonstrates some knowledge, while transport, cost, and caregiving may prevent action. Reassess and change the practical plan rather than assuming more information solves every barrier."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 7 – Health, Wellness, Injury, Illness + Exemplars, slides 2–19 and 32–37. The lesson paraphrases course concepts and uses original bedside examples; demographic statistics are not treated as fixed facts.</p>"
+    }
+   ],
+   "pearls": [
+    "A diagnosis does not tell you how well a person functions or how they define wellness.",
+    "Chronic illness can have an acute exacerbation; prioritize current change.",
+    "Assess resource barriers before attributing missed care to motivation.",
+    "Health disparities require attention to access and conditions, not stereotypes about groups."
+   ],
+   "redFlags": [
+    "New severe symptoms, rapidly declining function, or acute confusion require prompt assessment even when the client has a longstanding diagnosis.",
+    "Caregiver exhaustion or lack of essential food, shelter, or medication may make a discharge plan unsafe."
+   ],
+   "recap": [
+    "Wellness is multidimensional and possible during chronic illness.",
+    "Disease is pathology; illness is the person’s experience.",
+    "Acute describes course, not automatically severity.",
+    "Social determinants affect what care is feasible.",
+    "Plan with the person and assess family capacity."
+   ],
+   "checks": [
+    {
+     "q": "Can a client have disease without feeling ill?",
+     "a": "Yes. An asymptomatic disease, such as hypertension, may be present even while the client feels well."
+    },
+    {
+     "q": "A client misses appointments because the bus route ended. What should the nurse assess?",
+     "a": "Transportation and access to care. Collaborate on an attainable option before assuming unwillingness."
+    },
+    {
+     "q": "How can wellness improve while a chronic disease persists?",
+     "a": "Function, social support, meaning, coping, sleep, or self-management can improve even if the diagnosis remains."
+    },
+    {
+     "q": "Does remission always mean cure?",
+     "a": "No. Symptoms may disappear while the underlying condition still requires monitoring and care."
+    }
+   ]
+  },
+  {
+   "id": "promotion-change",
+   "title": "Prevention, Health Beliefs & Behavior Change",
+   "exemplar": null,
+   "summary": "Choose prevention by its purpose, assess readiness, and build a plan the client can actually carry out.",
+   "objectives": [
+    "Differentiate primary, secondary, and tertiary prevention using clinical examples.",
+    "Identify modifiable risks and distinguish them from nonmodifiable characteristics.",
+    "Match communication to the stages of change.",
+    "Use health beliefs, locus of control, and strengths in shared planning.",
+    "Apply ADPIE and SMART-EST goals to health promotion."
+   ],
+   "bigPicture": "<p>Health promotion helps people increase well-being; prevention reduces the chance, severity, or consequences of illness and injury. They overlap. Teaching a client to walk safely can support confidence and social participation while reducing future falls.</p><p>The most detailed teaching sheet is of little use when the goal is irrelevant, the timing is poor, or the resources are missing. The nurse’s work begins with listening and assessment. Think of behavior change as a partnership in which the client supplies priorities and experience while the nurse supplies clinical knowledge, support, and follow-up.</p>",
+   "keyTerms": [
+    {
+     "term": "Primary prevention",
+     "def": "Action before a disease or injury occurs to reduce its occurrence."
+    },
+    {
+     "term": "Secondary prevention",
+     "def": "Early detection and treatment of a condition, commonly through screening."
+    },
+    {
+     "term": "Tertiary prevention",
+     "def": "Reducing complications and restoring function after disease or injury is established."
+    },
+    {
+     "term": "Locus of control",
+     "def": "A person’s belief about whether health outcomes are influenced mainly by personal action or outside forces."
+    },
+    {
+     "term": "Self-efficacy",
+     "def": "Belief that one can successfully perform a specific action."
+    },
+    {
+     "term": "Readiness for change",
+     "def": "The person’s current willingness and preparation to change a behavior."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Classify prevention by purpose",
+     "body": "<p>Primary prevention acts before the target disease or injury develops. Immunization and helmet use are common examples. Secondary prevention looks for an existing condition early, such as a screening blood pressure measurement in a person without a known diagnosis. Tertiary prevention reduces the impact of an established condition, such as rehabilitation after stroke.</p><p>The same activity can serve different purposes in different situations. Exercise can help prevent disease in a healthy adult or restore function in a rehabilitation program. The question is not simply “What is being done?” Ask “What condition is being targeted, and has it already occurred?” Education appears at all three levels. A question saying “the nurse teaches” does not automatically mean primary prevention. Read the clinical goal and timing before choosing the level.</p>",
+     "table": {
+      "headers": [
+       "Level",
+       "Timing and goal",
+       "Example"
+      ],
+      "rows": [
+       [
+        "Primary",
+        "Before the target condition; prevent occurrence",
+        "Teach safe lifting to prevent back injury."
+       ],
+       [
+        "Secondary",
+        "Find a condition early",
+        "Screen an asymptomatic adult for hypertension."
+       ],
+       [
+        "Tertiary",
+        "Limit established disease or injury",
+        "Support rehabilitation and self-care after a stroke."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Population goals guide local action",
+     "body": "<p>The course identifies Healthy People 2030 and federal health-promotion programs as ways to set population goals, measure progress, and focus attention on disparities. A population goal helps a community decide what to improve; it does not replace an individual assessment. A national activity target is not an immediate exercise prescription for every hospitalized person.</p><p>Nurses work at individual, family, community, and population levels. An individual intervention may help a client plan a safe walking routine. A family intervention may address smoke exposure in the home. A community intervention may advocate for safer walking areas or accessible clinics. At each level, ask who benefits, who cannot participate, and what barriers remain. Counting how many brochures were distributed measures an activity. Measuring whether clients can obtain care or perform the skill addresses a more meaningful outcome.</p>"
+    },
+    {
+     "heading": "Risk factors and health beliefs",
+     "body": "<p>Nonmodifiable risk factors include age and family history. Modifiable factors include tobacco exposure, inactivity, poor sleep, and some nutrition patterns. Modifiable does not mean easy to change: work hours, disability, food access, stress, and culture influence choices. Assess the context and help the client select a manageable next step.</p><p>Health beliefs arise from experience, family, culture, and previous interactions with healthcare. An internal locus of control emphasizes personal influence; an external locus emphasizes fate, other people, or circumstances. Neither label tells you everything about a person’s choices. Ask what the client believes will help and what feels beyond their control. Strengthen agency through actions that are achievable, such as making a call or practicing a skill, while recognizing genuine external constraints.</p>",
+     "example": "“My mother had diabetes, so nothing I do matters.” A useful response explores that belief, explains that inherited risk and modifiable behaviors can coexist, and asks which small change feels possible."
+    },
+    {
+     "heading": "Match the stage to the intervention",
+     "body": "<p>Precontemplation means the person is not considering change. Explore their perspective and offer relevant information with permission. Contemplation means they are weighing change but feel uncertain; discuss benefits, concerns, and ambivalence. Preparation means they intend to act and are planning practical steps. Action means the new behavior has begun. Maintenance means sustaining it and handling situations that may interrupt it.</p><p>The slides also describe termination, when the change is fully integrated; it is not an expectation for every behavior. Movement is not always linear. A lapse is a reason to identify triggers and revise the plan, not proof that change is impossible. Avoid giving a detailed quit schedule to someone who has not considered quitting without first addressing readiness. Likewise, a client who already has a plan may need resources and follow-up rather than another lecture about risk.</p>",
+     "table": {
+      "headers": [
+       "Client statement",
+       "Stage",
+       "Best direction"
+      ],
+      "rows": [
+       [
+        "“I do not see a reason to stop.”",
+        "Precontemplation",
+        "Explore beliefs and concerns."
+       ],
+       [
+        "“I want to, but I am afraid of failing.”",
+        "Contemplation",
+        "Explore ambivalence and confidence."
+       ],
+       [
+        "“I chose Monday and called a support program.”",
+        "Preparation",
+        "Finalize resources and first steps."
+       ],
+       [
+        "“I have started; evenings are difficult.”",
+        "Action",
+        "Support practice and troubleshoot triggers."
+       ],
+       [
+        "“I have kept this routine for months.”",
+        "Maintenance",
+        "Reinforce strategies and plan for setbacks."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Use therapeutic communication to build motivation",
+     "body": "<p>Open-ended questions invite the client’s story. Reflection shows what you understood and gives the client a chance to clarify. Affirmations identify real strengths or effort, such as “You found a way to practice even with a difficult work schedule.” Empathy acknowledges feelings without claiming that you know exactly how the person feels.</p><p>Avoid blame, threats, arguing, or promises that a behavior will guarantee a result. Ask “What makes this hard?” rather than “Why won’t you follow instructions?” Ask permission before adding information, offer it in plain language, and invite the client’s response. The nurse can support informed decisions but cannot control another adult’s behavior. A realistic plan reflects the client’s priorities and choices, with clear information about benefits, risks, and when to seek help.</p>"
+    },
+    {
+     "heading": "ADPIE and SMART-EST goals",
+     "body": "<p>Assessment gathers habits, beliefs, readiness, symptoms, resources, and support. Diagnosis or priority identification distinguishes a current problem, a risk, or readiness for improved wellness. Planning sets a shared outcome. Implementation puts the agreed actions and referrals in place. Evaluation compares actual behavior or function with the outcome and revises the plan.</p><p>SMART means specific, measurable, achievable, relevant, and time-bound. The course extends this to SMART-EST: evidence-based, strategic, and tailored. “Exercise more” has no clear endpoint. “For the next week, I will walk indoors for five minutes after breakfast on four days, as tolerated, and record symptoms” is easier to evaluate. The appropriate starting point depends on the client’s assessment. Do not prescribe the same duration or intensity to everyone. Arrange when and how progress will be reviewed.</p>",
+     "steps": [
+      "Ask the client to choose the behavior and explain its meaning.",
+      "Assess ability, safety, readiness, and access.",
+      "Agree on an observable action, frequency, and review date.",
+      "Identify support and a response to predictable barriers.",
+      "Compare results with the goal and revise together."
+     ]
+    },
+    {
+     "heading": "Complementary care, support, and follow-up",
+     "body": "<p>Complementary practices are used alongside conventional care; alternative practices replace it. Integrative care combines appropriate, evidence-informed approaches in a coordinated plan. Ask about supplements, traditional practices, relaxation, and other therapies without judgment. “Natural” does not prove safe, and a supplement may interact with medication. Help the client discuss these products with the pharmacist or prescribing team rather than silently stopping or adding treatments.</p><p>Support systems can sustain change, but ask whom the client wants involved and what help is welcome. A walking partner, childcare arrangement, or accessible group may matter more than another pamphlet. At follow-up, ask what actually happened, what worked, and what needs to change. A plan that was not achieved offers assessment information. Use it to remove barriers, adjust the goal, and preserve a respectful therapeutic relationship.</p>"
+    },
+    {
+     "heading": "Worked bedside case: readiness changes the next step",
+     "body": "<p>Mr. J says he is thinking about stopping tobacco but worries it is his only way to handle stressful shifts. A nurse immediately offering a detailed quit calendar may provide useful information at the wrong stage. His statement shows ambivalence, not a completed action plan.</p><p>Explore what he likes and dislikes about the behavior, what he hopes would improve, and what alternatives have helped with stress. Reflect the concern without endorsing the risk: “You want the health benefit and are worried about losing a coping method.” Ask what support he would find useful. This can reveal a need for practical coping strategies, clinical cessation support, or a change in the timing of the plan.</p><p>If he later chooses a date and gathers resources, he is preparing. Once he begins the change, support action by discussing real triggers and access to help. If a lapse occurs, ask what happened and revise the plan. Do not interpret a lapse as proof that the original goal was insincere.</p><p>Prevention and readiness answer different questions. Tobacco-risk reduction can be part of disease prevention, while the stage of change guides the immediate conversation. An exam may require both ideas: choose a prevention goal, then select a communication approach that fits the client’s current statement rather than the nurse’s preferred timetable.</p>",
+     "steps": [
+      "Use the client’s words to identify current readiness.",
+      "Explore ambivalence before assuming commitment.",
+      "Build concrete steps when preparation is established.",
+      "Review triggers and revise after a lapse."
+     ],
+     "check": {
+      "q": "What would indicate movement from contemplation toward preparation?",
+      "a": "A specific intention with practical steps, such as selecting a date and arranging support. Awareness of risk alone does not establish preparation."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 7, slides 20–37 and 49. Prevention levels, stages of change, locus of control, integrative care, and SMART-EST are drawn from the course slides. Examples are original applications.</p>"
+    }
+   ],
+   "pearls": [
+    "Education can be primary, secondary, or tertiary prevention; classify the purpose.",
+    "Planning a change is preparation; performing it is action.",
+    "Use the client’s stated readiness, not the nurse’s enthusiasm, to choose the next step.",
+    "A measurable behavior is stronger evidence than “understands healthy living.”"
+   ],
+   "redFlags": [
+    "New exertional symptoms or unstable health require assessment before a wellness exercise plan.",
+    "Replacing prescribed treatment with an unreviewed alternative can create a safety concern; assess what is being used and coordinate review."
+   ],
+   "recap": [
+    "Primary prevents occurrence; secondary detects early; tertiary limits impact.",
+    "Health beliefs and resources influence action.",
+    "Stage-matched support is more useful than pressure.",
+    "SMART-EST goals make progress observable.",
+    "Reassessment and revision belong in health promotion."
+   ],
+   "checks": [
+    {
+     "q": "A client with diagnosed COPD learns energy conservation. Which level of prevention is this?",
+     "a": "Tertiary: the goal is to reduce the impact of an established condition and support function."
+    },
+    {
+     "q": "A client has chosen a quit date but has not stopped smoking. Which stage fits?",
+     "a": "Preparation. Planning and gathering resources precede action."
+    },
+    {
+     "q": "What is wrong with “the client will understand exercise”?",
+     "a": "It is not directly observable. State what the client will explain, demonstrate, or do and when it will be evaluated."
+    },
+    {
+     "q": "How should the nurse respond after a lapse in a new routine?",
+     "a": "Explore triggers and barriers, recognize prior progress, and revise the plan with the client."
+    }
+   ]
+  },
+  {
+   "id": "fitness-exercise",
+   "title": "Physical Fitness, Exercise & Safe Activity",
+   "exemplar": "7.A Physical Fitness and Exercise",
+   "summary": "Understand exercise types and benefits, then adapt activity to the client’s capacity, goals, symptoms, and environment.",
+   "objectives": [
+    "Distinguish physical activity, exercise, and physical fitness.",
+    "Compare aerobic, anaerobic, endurance, strength, flexibility, and balance training.",
+    "Differentiate isotonic, isometric, and isokinetic muscle activity.",
+    "Explain physical and psychosocial benefits of activity.",
+    "Apply lifespan activity guidance safely and collaboratively."
+   ],
+   "bigPicture": "<p>Physical activity is movement that uses skeletal muscles and energy. Exercise is a planned, repeated form of activity intended to improve fitness. Physical fitness is the capacity and well-being supported by activity, nutrition, sleep, and other healthy habits. Walking to the bus is activity; a planned walking routine to build endurance is exercise.</p><p>Nursing care starts with what the person can safely do today. The goal is meaningful participation and better function over time. A person who uses a wheelchair, has chronic disease, or is deconditioned can still have an activity plan adapted to their abilities. Progress is measured against an assessed baseline, with attention to symptoms and safety.</p>",
+   "keyTerms": [
+    {
+     "term": "Aerobic exercise",
+     "def": "Sustained activity that relies substantially on oxygen-supported energy production, such as brisk walking or cycling."
+    },
+    {
+     "term": "Anaerobic exercise",
+     "def": "Brief, high-intensity effort relying heavily on energy pathways that do not require oxygen at the point of energy production."
+    },
+    {
+     "term": "Isotonic contraction",
+     "def": "Muscle changes length while producing movement against resistance."
+    },
+    {
+     "term": "Isometric contraction",
+     "def": "Muscle produces tension without appreciable joint movement."
+    },
+    {
+     "term": "Isokinetic exercise",
+     "def": "Movement at a controlled constant angular speed, usually with specialized equipment."
+    },
+    {
+     "term": "Activity tolerance",
+     "def": "Ability to complete activity with an acceptable physiologic response and manageable symptoms."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Why activity supports wellness",
+     "body": "<p>Regular activity can improve endurance, strength, balance, coordination, and mobility. It can support blood pressure and glucose management, bone strength, and independence. Psychosocial benefits include improved mood, reduced stress, better sleep, and opportunities for connection. These effects connect physical fitness with emotional, social, and cognitive wellness.</p><p>Avoid promising that exercise prevents every disease or cures a chronic condition. Benefits depend on the person, activity, consistency, and underlying health. Ask which benefit matters to the client. Someone may be more motivated by walking to the mailbox or returning to gardening than by distant disease risk. A functional goal turns an abstract recommendation into something the client can recognize and value.</p>",
+     "example": "An older adult wants to attend a community meal. The plan may combine walking endurance, safe transfers, balance work, and transport support rather than focusing only on weight."
+    },
+    {
+     "heading": "Types of exercise overlap",
+     "body": "<p>Aerobic activity includes brisk walking, swimming, dancing, and cycling. Anaerobic efforts include short sprints and heavy resistance efforts. Both pathways contribute during most activities; the terms describe the predominant demand rather than the presence or absence of oxygen in the body.</p><p>Endurance training emphasizes sustained work. Strength training uses resistance to build force and support muscles and bones. Flexibility training supports range of motion. Balance training develops postural stability. Interval training alternates greater and lesser effort and is not automatically appropriate for a beginner or medically unstable person. A complete plan may combine several types. Match the activity to the goal and assessed ability rather than choosing the most demanding exercise available.</p>",
+     "table": {
+      "headers": [
+       "Goal",
+       "Possible activity",
+       "Consideration"
+      ],
+      "rows": [
+       [
+        "Endurance",
+        "Walking or swimming",
+        "Progress gradually."
+       ],
+       [
+        "Strength",
+        "Resistance bands or weights",
+        "Use appropriate technique and load."
+       ],
+       [
+        "Flexibility",
+        "Gentle stretching",
+        "Avoid forcing painful movement."
+       ],
+       [
+        "Balance",
+        "Supported balance work",
+        "Assess supervision and fall risk."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Muscle contraction terms at the bedside",
+     "body": "<p>Isotonic movement changes muscle length while moving a joint against resistance. Examples include biceps curls, rising from a chair, and climbing stairs. Isometric exercise creates tension while the joint remains still, such as a quadriceps set or wall sit. A person with restricted movement may perform selected isometric exercises after appropriate assessment and instruction.</p><p>Isokinetic exercise uses equipment that controls angular speed while resistance accommodates effort. The defining feature is controlled constant speed, not simply using a machine. A treadmill or ordinary stationary bicycle is not automatically isokinetic. This matters because the slide includes broad equipment examples. On an exam, identify the mechanism: joint movement, no joint movement, or specialized speed-controlled resistance. Do not infer the contraction type from the location or equipment name.</p>",
+     "analogy": "Isotonic: lift and lower a load. Isometric: push against something that does not move. Isokinetic: a specialized device controls movement speed."
+    },
+    {
+     "heading": "Intensity and the talk test",
+     "body": "<p>At moderate intensity, a person can generally talk but not sing. At vigorous intensity, they can usually say only a few words before pausing for breath. This is a practical teaching tool for a stable person, not a replacement for assessment or rehabilitation instructions. Medication, illness, conditioning, and disability may alter the response.</p><p>Teach warm-up, appropriate equipment, safe footwear, and gradual progression. Pain is not proof that exercise is working. New chest discomfort, marked shortness of breath, dizziness, or near-syncope calls for stopping activity and prompt assessment. An exercise plan should state which symptoms require stopping and whom to contact. Observe breathing, comfort, balance, and recovery as well as the amount completed.</p>"
+    },
+    {
+     "heading": "Guidelines across the lifespan",
+     "body": "<p>The course describes at least 60 minutes of daily moderate-to-vigorous activity for school-age children and adolescents, including muscle- and bone-strengthening activities. For adults, the usual population target is 150–300 minutes of moderate activity per week or 75–150 minutes vigorous activity, plus muscle-strengthening activity on at least two days. These are weekly totals; 150 minutes is not the same as 30 minutes every day.</p><p>Older adults follow adult recommendations as abilities allow and add balance and functional activity. People with chronic conditions or disability should be as active as their abilities allow with appropriate clinical guidance. Pregnancy and postpartum activity require attention to complications, prior activity, and obstetric guidance. The slides describe a 150-minute weekly moderate-activity goal for uncomplicated pregnancy. Do not turn a population target into permission to push through symptoms or ignore restrictions.</p>",
+     "table": {
+      "headers": [
+       "Person",
+       "Adaptation"
+      ],
+      "rows": [
+       [
+        "Child",
+        "Use enjoyable, developmentally appropriate play."
+       ],
+       [
+        "Deconditioned adult",
+        "Begin with attainable bouts and progress gradually."
+       ],
+       [
+        "Older adult",
+        "Add balance and functional strength with safety support."
+       ],
+       [
+        "Chronic disease/disability",
+        "Adapt activity and equipment to function and the care plan."
+       ],
+       [
+        "Pregnancy",
+        "Coordinate with the obstetric team."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Assessment before a recommendation",
+     "body": "<p>Ask about usual activity, symptoms, falls, pain, assistive devices, injuries, and what the client enjoys. Review diagnoses, restrictions, medications, and the clinical plan. Assess ability and confidence. Someone may have the strength to walk but fear falling after a recent injury. Someone else may be willing but lack a safe outdoor space.</p><p>Consider cost, transport, weather, cultural preferences, work, and caregiving. “Join a gym” is inadequate when membership is unaffordable. Explore safe indoor walking, community programs, chair-based activity, or home equipment when appropriate. Refer to physical or occupational therapy for rehabilitation and equipment assessment. Preserve participation by fitting the plan to the person’s circumstances.</p><p>Assess readiness as well as capability. A person contemplating activity may need to discuss fears before setting a schedule. A person already preparing a routine may need practical help choosing a safe starting point. This connects the exemplar with the stages-of-change concept.</p>"
+    },
+    {
+     "heading": "Plan, teach, and evaluate function",
+     "body": "<p>Create a SMART goal with the client: activity, amount, frequency, conditions, and review date should be clear. After deconditioning, a short supervised walk may be appropriate. A stable active adult may instead need progression or consistency. Teach technique and have the client demonstrate it when a skill is involved.</p><p>Evaluate the actual response. Was activity completed safely? How long did recovery take? Did pain or symptoms change? Can the client perform a valued task more easily? Record what was performed, assistance needed, and response. If the plan is not feasible, reassess rather than simply repeating the target. Recognize progress in endurance, confidence, safety, and participation even when body weight does not change.</p>"
+    },
+    {
+     "heading": "Worked bedside case: function before a target",
+     "body": "<p>Mrs. B wants to walk to a nearby shop again after a period of illness. She can walk a short distance indoors with her usual device but becomes tired. The route includes uneven pavement. A general weekly activity target is useful background, but it does not establish that she can safely complete this route today.</p><p>Assess baseline mobility, symptoms, assistance, recovery, falls, and the current clinical plan. Ask what the shop visit means: exercise, independence, social connection, or obtaining necessities. Each answer may suggest additional support. A therapist may help assess technique and equipment; social work or community services may address access while endurance improves.</p><p>Plan a manageable starting activity and define what should be monitored. Progress in safe distance, recovery, or confidence can be meaningful before reaching a population target. Include instructions for new concerning symptoms. Moderate effort and new chest pressure are not the same thing; the latter changes the priority to stopping and assessment.</p><p>At follow-up, compare observed performance with the goal. “Walked for five minutes with one rest and no concerning symptoms” is more informative than “exercised.” If the outdoor route remains unsafe, another accessible activity can still support fitness while the functional goal is revised. Activity planning should expand participation rather than create a new injury risk.</p>",
+     "steps": [
+      "Connect activity with a valued functional goal.",
+      "Assess current tolerance and route safety.",
+      "Choose an appropriate starting task and support.",
+      "Evaluate symptoms, assistance, recovery, and participation."
+     ],
+     "check": {
+      "q": "Why does meeting a weekly minute target not prove readiness for this shopping route?",
+      "a": "The route also requires safe balance, terrain negotiation, equipment use, and enough reserve for the trip. Duration alone does not establish those abilities."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 7, Exemplar 7.A, slides 38–49. Isokinetic exercise is clarified by its constant-speed definition. Ordinary exercise machines do not inherently meet it. Activity targets require individual assessment.</p>"
+    }
+   ],
+   "pearls": [
+    "Classify by demand and movement, not equipment name.",
+    "At moderate intensity a person can talk but not sing.",
+    "Individualize guideline totals to current capacity.",
+    "Functional goals and gradual progression support participation."
+   ],
+   "redFlags": [
+    "Stop activity and assess new chest discomfort, severe dyspnea, dizziness, or near-syncope.",
+    "Review unstable illness, new injury, or restrictions before advancing activity."
+   ],
+   "recap": [
+    "Activity is any energy-using movement; exercise is planned activity for fitness.",
+    "Endurance, strength, flexibility, and balance serve different goals.",
+    "Isometric has no joint movement; isotonic includes movement.",
+    "Guidelines are targets, not universal starting doses.",
+    "Evaluate symptoms and function."
+   ],
+   "checks": [
+    {
+     "q": "What contraction occurs during a quadriceps set without knee movement?",
+     "a": "Isometric: tension develops without joint movement."
+    },
+    {
+     "q": "Does a stationary bike prove that exercise is isokinetic?",
+     "a": "No. Isokinetic exercise requires controlled constant angular speed, usually with specialized equipment."
+    },
+    {
+     "q": "What does moderate-intensity activity sound like during the talk test?",
+     "a": "The person can talk but generally cannot sing comfortably."
+    },
+    {
+     "q": "What should be assessed before recommending daily outdoor walking?",
+     "a": "Baseline ability, symptoms, fall risk, devices, restrictions, preferences, and a safe accessible route."
+    }
+   ]
+  },
+  {
+   "id": "oral-health",
+   "title": "Oral Health, Assessment & Daily Care",
+   "exemplar": "7.B Oral Health",
+   "summary": "Oral care supports comfort, nutrition, speech, and dignity. Assess the mouth, ability to provide care, and access to dental services.",
+   "objectives": [
+    "Describe oral structures and the roles of saliva, teeth, and mucosa.",
+    "Differentiate plaque, tartar, caries, and periodontal disease.",
+    "Identify oral-health risks across the lifespan.",
+    "Plan safe care for independent, dependent, and aspiration-risk clients.",
+    "Teach current child brushing and dental-home guidance."
+   ],
+   "bigPicture": "<p>A sore or dry mouth can interfere with eating, talking, swallowing, and social interaction. A person who cannot reach a toothbrush or remember the sequence of care may lose oral health despite receiving instructions. Oral care is a nursing assessment and functional-care issue, not simply a cosmetic task.</p><p>Look beyond teeth. Assess lips, gums, tongue, mucosa, saliva, dentures, pain, and participation. Daily care and dental referral complement one another. Nurses can reduce discomfort and support hygiene while arranging evaluation of disease, persistent lesions, or dental pain.</p>",
+   "keyTerms": [
+    {
+     "term": "Mastication",
+     "def": "Chewing; the mechanical beginning of digestion."
+    },
+    {
+     "term": "Plaque",
+     "def": "Soft bacterial film on teeth."
+    },
+    {
+     "term": "Tartar / calculus",
+     "def": "Hardened plaque not removed by routine brushing alone."
+    },
+    {
+     "term": "Dental caries",
+     "def": "Tooth damage from acids produced by bacteria metabolizing sugars and starches."
+    },
+    {
+     "term": "Gingivitis",
+     "def": "Inflammation of gums, commonly with redness, swelling, and bleeding."
+    },
+    {
+     "term": "Xerostomia",
+     "def": "Dry mouth, often related to reduced saliva, medications, or illness."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "Normal structures and function",
+     "body": "<p>The oral cavity includes lips, cheeks, teeth, gums, tongue, palates, salivary glands, and related structures. The visible crown has an enamel covering. The pulp contains nerves and blood vessels; the root anchors the tooth. Teeth break food into pieces, and the tongue helps move food and contributes to taste and speech.</p><p>Saliva moistens food, supports swallowing, helps cleanse the mouth, and begins starch digestion through amylase. Dryness can make speech and chewing uncomfortable and increase oral-health risk. Do not assume dryness is inevitable with aging. Review hydration, medications, illness, and ability to perform care. A client may avoid meals because chewing hurts; address pain and oral function as well as intake totals.</p>"
+    },
+    {
+     "heading": "Plaque, caries, and periodontal disease",
+     "body": "<p>Bacteria in plaque metabolize sugars and starches and produce acids that damage tooth structure. Frequent sugar exposure, inadequate brushing, low fluoride exposure, and dry mouth contribute to risk. Early noncavitated enamel changes may remineralize with appropriate preventive care. An established cavity is not restored to intact tooth structure simply by brushing.</p><p>Plaque can harden into calculus, which requires professional removal. Gingivitis produces gum redness, swelling, and bleeding. Progressive periodontal disease affects deeper supporting tissues and can lead to recession or loose teeth. The source uses the older term “pyorrhea” for advanced pus-producing disease. The practical distinction is gum inflammation versus damage to deeper support. Bleeding gums require assessment of technique, tissue condition, and referral rather than abandonment of all hygiene.</p>",
+     "table": {
+      "headers": [
+       "Finding",
+       "Concern",
+       "Response"
+      ],
+      "rows": [
+       [
+        "Soft sticky film",
+        "Plaque",
+        "Support daily hygiene."
+       ],
+       [
+        "Hardened deposits",
+        "Calculus",
+        "Arrange dental care."
+       ],
+       [
+        "Swollen bleeding gums",
+        "Inflammation",
+        "Assess and refer as indicated."
+       ],
+       [
+        "Loose teeth or pus",
+        "Possible advanced disease",
+        "Prompt dental evaluation."
+       ],
+       [
+        "Dry mucosa",
+        "Xerostomia",
+        "Assess causes and safe moisture support."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Assess habits, symptoms, function, and resources",
+     "body": "<p>Ask about brushing, products, interdental cleaning, last dental visit, pain, bleeding, swelling, sores, taste changes, tobacco, diet, and swallowing. Inspect with appropriate lighting and precautions. Record specific sites and findings rather than “mouth bad.” Compare with prior assessment when available.</p><p>Can the person open containers, grasp a brush, see supplies, follow steps, and handle secretions? Poor dexterity, cognitive impairment, fatigue, pain, and missing supplies require different solutions. Assess cost, transport, and dental access. A person who has not seen a dentist may face a resource barrier. Connect them with services rather than assuming they do not value oral health.</p><p>Clients with diabetes, compromised immunity, poor nutrition, oral surgery, or radiation may need additional assessment and specialized plans. Medication effects may include dryness or gum changes. Review concerns with the appropriate clinician; the nurse should not independently discontinue a prescribed drug.</p>"
+    },
+    {
+     "heading": "Infants, children, and clinical updates",
+     "body": "<p>Avoid putting a child to sleep with a bottle containing milk, formula, or sweetened liquids because prolonged repeated exposure increases caries risk. Primary teeth support chewing, speech, and developing alignment; they are not disposable practice teeth. Caregivers should perform or supervise brushing according to developmental ability.</p><p>The slide suggests water-only brushing at 18 months and a first dental visit by six months. Current AAPD guidance is to brush erupted teeth twice daily with a tiny smear of fluoride toothpaste for children younger than three; ages three to six use a pea-sized amount with supervision. Establish a dental home when the first tooth erupts and no later than the first birthday. Symptoms or risk may justify earlier evaluation. This is an explicit clinical update, not a quotation of the source slide.</p>",
+     "example": "For an 18-month-old with erupted teeth, teach caregiver brushing with a rice-sized smear of fluoride toothpaste and assess whether a dental home has been established."
+    },
+    {
+     "heading": "Pregnancy and older adulthood",
+     "body": "<p>Pregnancy can increase gingival inflammation and bleeding. Vomiting or reflux exposes teeth to acid. Encourage gentle care and dental review; pregnancy is not a reason to avoid all routine dental care. Advice should fit symptoms and the dental plan.</p><p>Older adults may have dryness, chronic disease, medication effects, dentures, limited dexterity, or cognitive impairment. Age alone does not establish dependence or tooth loss. Preserve independence through adaptive handles, electric brushes, reminders, or set-up assistance when appropriate. Moisture support may include saliva substitutes and sips of water when swallowing is safe and fluids are permitted. A fluid restriction or aspiration risk changes the plan. Ask about comfort, not simply whether supplies were offered.</p>"
+    },
+    {
+     "heading": "Safe care for dependent clients",
+     "body": "<p>Explain the procedure, offer privacy, and involve the client as able. Use a soft brush and appropriate products. Fragile mucosa may need gentle modified cleansing. Dentures need cleaning, safe storage, and inspection of underlying tissues. Label and store them according to the facility plan to prevent loss.</p><p>For reduced consciousness, impaired swallowing, or poor secretion control, protect the airway. Position according to the condition and aspiration precautions, use appropriate suction when indicated, and avoid pouring fluid into the mouth. Clients who cannot eat still need oral care. Follow the individualized plan for technique and frequency; the slide’s broad two-to-eight-hour special-care range does not replace risk assessment.</p>",
+     "steps": [
+      "Assess alertness, swallowing, mouth findings, pain, and cooperation.",
+      "Explain care and position safely.",
+      "Clean gently while controlling fluid and secretions.",
+      "Inspect dentures and tissues and support moisture safely.",
+      "Document findings, assistance, tolerance, and follow-up."
+     ]
+    },
+    {
+     "heading": "Evaluate comfort and follow-through",
+     "body": "<p>After care, ask about comfort and inspect whether debris and dryness improved. Can the client eat or speak more comfortably? Can they demonstrate the adapted routine? Can the caregiver provide assistance safely? “Discussed mouth care” does not establish that the need is met.</p><p>Persistent ulcers, dental pain, swelling, pus, unexplained bleeding, or loose teeth need evaluation. Facial swelling with fever, difficulty swallowing, or breathing symptoms is more urgent. Teach what to report and arrange accessible follow-up. Associations between oral and systemic disease support careful assessment but do not prove that every oral problem causes a particular disease. Avoid overstating causation when explaining prevention.</p>"
+    },
+    {
+     "heading": "Worked bedside case: poor intake begins in the mouth",
+     "body": "<p>An older adult eats little and says food tastes unpleasant. The mouth is dry, dentures are uncomfortable, and hand stiffness makes brushing difficult. It would be incomplete to label this only a nutrition knowledge problem and provide a food handout.</p><p>Assess pain, fit and condition of dentures, mucosa, saliva, swallowing, medicines, hydration limits, and the person’s usual care. Ask which problem began first and what happens when eating. The client’s own explanation may show that discomfort prevents intake despite appetite. Examine specific findings rather than relying on odor or appearance alone.</p><p>The immediate plan may combine gentle assistance, safe moisture support, adapted equipment, and dental evaluation. Check swallowing safety before offering repeated water sips. If fluid intake is restricted, coordinate moisture measures within the clinical plan. Do not independently stop a medicine simply because it may contribute to dryness.</p><p>After care, ask whether chewing, speaking, and comfort improved. Observe whether the client can use the adapted brush. Verify that a dental referral can actually be attended. Oral care, nutrition, function, and access are connected, so improvement in one area may support another. Persistent pain or lesions still require evaluation even when temporary comfort measures help.</p>",
+     "steps": [
+      "Identify oral symptoms and functional barriers.",
+      "Assess swallowing and the overall clinical plan.",
+      "Provide safe adapted care and coordinate evaluation.",
+      "Reassess comfort, intake, and the ability to maintain care."
+     ],
+     "check": {
+      "q": "What distinguishes an intervention from an outcome here?",
+      "a": "Providing an adapted brush is an intervention. The client using it effectively with improved comfort is an observable outcome."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 7, Exemplar 7.B, slides 50–58. Updates: <a href=\"https://www.aapd.org/resources/parent/faq/\" target=\"_blank\" rel=\"noreferrer\">AAPD parent guidance</a> and <a href=\"https://www.aapd.org/globalassets/media/policies_guidelines/bp_recdentperiodschedule25.pdf\" target=\"_blank\" rel=\"noreferrer\">AAPD periodicity schedule</a> clarify fluoride and first dental visit; checked October 27, 2026.</p>"
+    }
+   ],
+   "pearls": [
+    "Assess dryness rather than assuming it is normal aging.",
+    "Inability to swallow changes care technique, not the need for hygiene.",
+    "Prevention starts with the first erupted tooth.",
+    "A cavity is not reversed simply by brushing."
+   ],
+   "redFlags": [
+    "Facial swelling with fever or swallowing/breathing difficulty requires urgent assessment.",
+    "Reduced consciousness and poor secretion control increase aspiration risk.",
+    "Persistent lesions, loose teeth, or pus need evaluation."
+   ],
+   "recap": [
+    "Oral health supports nutrition, communication, and dignity.",
+    "Plaque is soft; calculus is hardened.",
+    "Assess ability and resources as well as habits.",
+    "Adapt care to swallowing safety and tissue condition.",
+    "Use current fluoride and dental-home guidance."
+   ],
+   "checks": [
+    {
+     "q": "How do plaque and tartar differ?",
+     "a": "Plaque is soft bacterial film; tartar is hardened plaque requiring professional removal."
+    },
+    {
+     "q": "What changes when a drowsy client needs oral care?",
+     "a": "Assess airway safety and use appropriate positioning, fluid control, and suction when indicated."
+    },
+    {
+     "q": "How much fluoride toothpaste is used under age three?",
+     "a": "A tiny smear, about a grain of rice, with caregiver brushing/supervision from the first tooth."
+    },
+    {
+     "q": "An older adult cannot grasp a brush. Is more explanation enough?",
+     "a": "No. Assess function, provide adaptive equipment or assistance, and evaluate performance."
+    }
+   ]
+  },
+  {
+   "id": "sleep-rest",
+   "title": "Normal Sleep, Circadian Rhythm & Nursing Care",
+   "exemplar": "7.C Normal Sleep-Rest Patterns",
+   "summary": "Assess quality and quantity, recognize age-related patterns, and protect rest through individualized nursing care.",
+   "objectives": [
+    "Explain how sleep supports cognition, healing, and emotional health.",
+    "Differentiate circadian rhythm, NREM, and REM sleep.",
+    "Recognize lifespan changes without normalizing harmful symptoms.",
+    "Assess sleep onset, maintenance, and daytime function.",
+    "Choose and evaluate sleep-promoting interventions."
+   ],
+   "bigPicture": "<p>Sleep is an active physiologic process, not simply an absence of activity. The brain cycles through stages while attention to the environment and responsiveness decrease. Sleep supports restoration, memory, emotional regulation, and daily function. Pain, stress, medications, illness, and hospital routines can interrupt it.</p><p>Ask both “How much are you sleeping?” and “How rested and functional do you feel?” Eight hours in bed may include repeated awakenings and little restorative sleep. The nursing response depends on the pattern, its causes, and the client’s priorities.</p>",
+   "keyTerms": [
+    {
+     "term": "Circadian rhythm",
+     "def": "An approximately 24-hour internal pattern coordinating sleep, alertness, temperature, and hormones."
+    },
+    {
+     "term": "NREM sleep",
+     "def": "Non-rapid-eye-movement sleep; currently classified as N1, N2, and N3."
+    },
+    {
+     "term": "REM sleep",
+     "def": "Rapid-eye-movement sleep with active brain patterns, frequent dreaming, and normally reduced skeletal muscle tone."
+    },
+    {
+     "term": "Sleep quality",
+     "def": "How restorative and satisfactory sleep feels, including continuity and daytime effect."
+    },
+    {
+     "term": "Sleep quantity",
+     "def": "Time actually spent sleeping."
+    },
+    {
+     "term": "Sleep hygiene",
+     "def": "Habits and environmental conditions supporting consistent restorative sleep."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "The body clock and sleep regulation",
+     "body": "<p>Circadian rhythm helps organize alertness and sleepiness. Light and darkness are important environmental cues. Melatonin generally rises in darkness and helps signal biological night. Shift work, irregular schedules, bright nighttime environments, and interruptions can misalign sleep with the person’s rhythm.</p><p>Sleep regulation involves several brain networks and neurotransmitters. The source names the reticular activating system and brainstem. Understand that wake- and sleep-promoting systems interact; one chemical does not explain the entire process. The source’s implication that reduced GABA promotes sleep is misleading: GABA-mediated inhibition supports sleep-promoting pathways. The bedside task is to assess patterns, exposures, and symptoms rather than memorize an oversimplified chemical rule.</p>"
+    },
+    {
+     "heading": "NREM and REM cycles",
+     "body": "<p>Sleep includes repeated NREM and REM cycles. N1 is transition from wakefulness. N2 is established lighter sleep. N3 is deep slow-wave sleep, usually more prominent earlier in the night. REM periods tend to become longer later in the sleep period. Cycles vary rather than following an identical timer for everyone.</p><p>The slides use older N3–N4 terminology and approximate timing and percentages. Current classification combines deep sleep into N3: there are three NREM stages. During REM, brain activity is high and skeletal muscle tone is normally reduced. These changes are different from an acute inability to arouse a hospitalized client. A new reduction in responsiveness needs assessment; do not explain it away as a sleep stage.</p>",
+     "table": {
+      "headers": [
+       "Phase",
+       "Main feature",
+       "Connection"
+      ],
+      "rows": [
+       [
+        "N1",
+        "Transition into sleep",
+        "Awakens readily."
+       ],
+       [
+        "N2",
+        "Established lighter sleep",
+        "Interruptions fragment sleep."
+       ],
+       [
+        "N3",
+        "Deep slow-wave sleep",
+        "Restorative phase; generally decreases with age."
+       ],
+       [
+        "REM",
+        "Active brain, dreaming, reduced muscle tone",
+        "More prominent later in sleep."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Why lost sleep matters",
+     "body": "<p>Insufficient or fragmented sleep can reduce attention, memory, reaction time, judgment, and emotional control. That affects mobility, medication management, learning, and driving. Sleep also supports tissue repair and immune function. A rest plan therefore belongs beside the pain, mobility, and recovery plan.</p><p>Ask about daytime function, not only insomnia. A quiet client may be too exhausted to learn discharge instructions. A caregiver may report irritability or difficulty completing familiar tasks. New sleep problems with confusion, respiratory symptoms, severe pain, or medication changes require assessment of underlying causes. Poor sleep can be both a problem and a clue to another condition.</p>",
+     "example": "A client repeatedly dozes during teaching after a night of pain. Address comfort and alertness, reschedule essential teaching, and verify learning rather than recording “uninterested.”"
+    },
+    {
+     "heading": "Patterns across the lifespan",
+     "body": "<p>Newborns sleep much of the day in short periods; sleep becomes more consolidated with development. Infants vary, and not every infant reliably sleeps through the night by a particular month. Toddlers and preschoolers often need naps and predictable bedtime routines. Screens, homework, and stimulants may interfere with school-age sleep. Adolescents tend toward later sleep timing and still need substantial sleep.</p><p>The course lists roughly 7–9 hours for adults and 7–8 for older adults. Older adults may sleep and wake earlier, have more fragmented sleep, and spend less time in deep sleep. That does not mean they need almost no sleep. Persistent disabling sleepiness, repeated breathing pauses, or a new major change requires assessment. Use age ranges as context and evaluate the individual.</p>",
+     "table": {
+      "headers": [
+       "Age",
+       "Assessment emphasis"
+      ],
+      "rows": [
+       [
+        "Infant",
+        "Feeding, development, routines, and caregiver expectations."
+       ],
+       [
+        "Toddler / preschooler",
+        "Consistent rituals and caregiver participation."
+       ],
+       [
+        "School-age / adolescent",
+        "Schedule, screens, caffeine, and school demands."
+       ],
+       [
+        "Adult",
+        "Shifts, stress, illness, and family responsibilities."
+       ],
+       [
+        "Older adult",
+        "Pain, nocturia, medications, fragmentation, and daytime function."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Ask about the whole pattern",
+     "body": "<p>Differentiate trouble falling asleep from frequent awakening, early awakening, or unrefreshing sleep despite enough time in bed. Ask about usual bedtime, wake time, naps, work, and environment. A sleep diary can make patterns visible, including caffeine, alcohol, activity, symptoms, and awakenings.</p><p>Review pain, anxiety, breathing symptoms, nocturia, medicines, and recent illness. Ask what has already been tried. Caffeine and nicotine promote wakefulness; alcohol may cause initial drowsiness yet disrupt later sleep. Do not recommend alcohol as a sleep aid. Snoring, witnessed breathing pauses, and daytime sleepiness warrant appropriate evaluation rather than a diagnosis based on one symptom.</p><p>Compare the current pattern with home routines. A hospital client may normally sleep during the day because of night-shift work. Explore feasible adjustments with the team instead of assuming resistance when the person cannot sleep at the expected time.</p>"
+    },
+    {
+     "heading": "Practical nursing interventions",
+     "body": "<p>Support consistent sleep-wake timing when feasible. Reduce unnecessary noise and light overnight, encourage appropriate daytime light and activity, and preserve familiar bedtime routines where safe. Relaxation, calming music, or breathing exercises may help, but preferences differ. Ask what the client finds comforting.</p><p>Cluster nonurgent hospital care when the clinical plan permits. Essential monitoring and treatment still take priority: do not omit prescribed assessments to create uninterrupted sleep. Address pain, position, toileting, temperature, and uncomfortable equipment. Coordinate repeated disruptions that can safely be changed. A targeted response, such as adjusting avoidable noise, is more useful than generic advice to “relax.”</p>",
+     "steps": [
+      "Describe baseline and current sleep.",
+      "Identify symptoms, substances, environment, and schedule barriers.",
+      "Address comfort and clinical causes.",
+      "Agree on feasible routine changes.",
+      "Evaluate continuity and daytime function."
+     ]
+    },
+    {
+     "heading": "Evaluate and revise",
+     "body": "<p>“Room darkened” is an intervention, not an outcome. Better outcomes include fewer awakenings, improved sleep onset, better alertness, and the client reporting more restorative rest. Compare with baseline or the sleep diary. If sleep remains poor, reassess causes rather than adding instructions indefinitely.</p><p>Medication may be ordered, but it is not the automatic first response to every complaint. Monitor cognition, respiratory status, falls, and other medicines. Report excessive sedation or new confusion promptly. In an exam scenario, safe reasoning often begins with assessing the pattern and addressing pain or disruption before requesting routine sedation. Record the client’s response and whether the plan actually improved function.</p>"
+    },
+    {
+     "heading": "Worked bedside case: fragmented sleep and failed teaching",
+     "body": "<p>Mr. T spends much of the night awake because of pain, repeated toileting, and hallway noise. In the morning he is irritable and cannot concentrate on a new care routine. His record says “education attempted; poor participation.” That description does not identify why learning failed.</p><p>Assess the sleep pattern and daytime function, including whether this is usual or new. Review pain, elimination, medicines, substances, anxiety, and the environment. New confusion or reduced responsiveness requires assessment beyond a routine sleep-hygiene discussion. Once urgent issues are excluded or addressed, choose interventions targeted to the actual disruptions.</p><p>Coordinate pain management, appropriate toileting assistance, and reduction of avoidable noise. Cluster nonurgent activities where safe and preserve essential monitoring. Ask about a familiar bedtime routine. Avoid assuming a sedative will solve several untreated causes or that all older adults normally sleep poorly.</p><p>Reschedule teaching when attention improves and verify learning with the appropriate method. The outcome is not simply that the client lay still overnight. Ask about awakenings and restfulness, and observe alertness and function. If sleep or cognition does not improve, reassess the cause and collaborate on further evaluation. This case shows why sleep, comfort, cognition, and teaching belong in one care picture.</p>",
+     "steps": [
+      "Describe sleep continuity and current alertness.",
+      "Identify causes rather than judging participation.",
+      "Target comfort and environmental barriers safely.",
+      "Reassess rest and learning capacity before evaluating teaching."
+     ],
+     "check": {
+      "q": "Why is “client stayed in bed all night” insufficient evidence?",
+      "a": "It does not establish actual sleep, continuity, restoration, or daytime function. The person may have been awake, uncomfortable, or overly sedated."
+     }
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "body": "<p>Module 7, Exemplar 7.C, slides 59–68. Current staging: <a href=\"https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep\" target=\"_blank\" rel=\"noreferrer\">NHLBI sleep phases and stages</a>. The older four-stage NREM scheme is not used in the answer keys.</p>"
+    }
+   ],
+   "pearls": [
+    "Hours in bed do not equal hours asleep.",
+    "Assess quality, quantity, continuity, and daytime function.",
+    "Older adults still need restorative sleep.",
+    "Cluster nonurgent care while preserving required monitoring."
+   ],
+   "redFlags": [
+    "New difficulty arousing a client, acute confusion, or respiratory compromise requires prompt assessment.",
+    "Breathing pauses with marked daytime sleepiness need follow-up.",
+    "New sedation, falls, or confusion after medication requires reassessment."
+   ],
+   "recap": [
+    "Circadian rhythm times sleep; NREM/REM cycles organize it.",
+    "Current NREM stages are N1, N2, N3.",
+    "Symptoms, substances, routines, and environment influence rest.",
+    "Target the identified cause.",
+    "Evaluate restorative sleep and daily function."
+   ],
+   "checks": [
+    {
+     "q": "Why is eight hours in bed an incomplete sleep measure?",
+     "a": "It does not show actual sleep, continuity, restorative quality, or daytime effect."
+    },
+    {
+     "q": "How many NREM stages are currently used?",
+     "a": "Three: N1, N2, and N3; older N3/N4 deep-sleep categories are combined in N3."
+    },
+    {
+     "q": "Can essential overnight observations be skipped for sleep?",
+     "a": "No. Cluster nonurgent care while maintaining required monitoring and treatment."
+    },
+    {
+     "q": "What precedes a request for routine sedation?",
+     "a": "Assess the sleep pattern and causes, including pain, breathing, anxiety, medication, substances, and environment."
+    }
+   ]
+  }
+ ]
+}
