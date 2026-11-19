@@ -380,7 +380,7 @@
     },
     {
      "heading": "Extra heart sounds: S3 and S4 (the gallops)",
-     "body": "<p>S3 and S4 are soft, <strong>low-pitched</strong> sounds that happen during <strong>diastole</strong>, when the ventricles are filling. They add a third beat and make the rhythm sound like a galloping horse. Listen with the <strong>bell at the apex</strong>.</p><p><strong>S3 — ventricular gallop.</strong> Heard <em>right after S2</em>, in early diastole. It comes from blood rushing quickly into the ventricle. Rhythm: \"Ken-<strong>TUC</strong>-ky\" (lub-dub-<strong>ta</strong>). S3 can be <strong>normal in children, young adults, and pregnant women in the third trimester</strong>, when blood volume is high and the ventricle is very flexible. In an adult with heart failure, it suggests the ventricle is <strong>overloaded with volume</strong>.</p><p><strong>S4 — atrial gallop.</strong> Heard <em>just before S1</em>, in late diastole. It comes from the atrium squeezing blood into a <strong>stiff ventricle</strong>. Rhythm: \"<strong>TEN</strong>-nes-see\" (<strong>ta</strong>-lub-dub). S4 can be <strong>normal in children, well-conditioned athletes, and healthy older adults</strong>.</p>",
+     "body": "<p>S3 and S4 are soft, <strong>low-pitched</strong> sounds that happen during <strong>diastole</strong>, when the ventricles are filling. They add a third beat and make the rhythm sound like a galloping horse. Listen with the <strong>bell at the apex</strong>.</p><p><strong>S3 — ventricular gallop.</strong> Heard <em>right after S2</em>, in early diastole. It comes from blood rushing quickly into the ventricle. Rhythm: \"Ken-<strong>TUC</strong>-ky\" (lub-dub-<strong>ta</strong>). S3 can be <strong>normal in children, young adults, and pregnant women in the third trimester</strong>, when blood volume is high and the ventricle is very flexible. In an adult with heart failure, it suggests the ventricle is <strong>overloaded with volume</strong>.</p><p><strong>S4 — atrial gallop.</strong> Heard <em>just before S1</em>, in late diastole. It comes from the atrium squeezing blood into a <strong>stiff ventricle</strong>. Rhythm: \"<strong>TEN</strong>-nes-see\" (<strong>ta</strong>-lub-dub). S4 can be <strong>normal in well-conditioned athletes and healthy older adults</strong>. (Unlike S3, an S4 in an infant or child is not considered a normal finding and needs follow-up.)</p>",
      "analogy": "S3 is like water splashing into an already-full bucket (\"sloshing in\" = volume). S4 is like pushing water into a stiff, thick-walled balloon (\"stiff wall\").",
      "table": {
       "caption": "S3 vs. S4",
@@ -408,7 +408,7 @@
        [
         "May be normal in",
         "Children, young adults, third-trimester pregnancy",
-        "Children, well-conditioned athletes, healthy older adults"
+        "Well-conditioned athletes, healthy older adults (not children)"
        ],
        [
         "Worrisome when",
@@ -465,7 +465,7 @@
     "Exam pattern: inspect head/neck → inspect limbs, chest, abdomen → palpate precordium and carotids → percuss borders → auscultate.",
     "Listen at aortic, pulmonic, Erb's point (3rd ICS LSB), tricuspid, and mitral (5th ICS MCL) areas.",
     "S3 (after S2) = rapid filling; can be normal in children, young adults, third-trimester pregnancy.",
-    "S4 (before S1) = stiff ventricle; can be normal in children, athletes, healthy older adults.",
+    "S4 (before S1) = stiff ventricle; can be normal in athletes and healthy older adults.",
     "A murmur = disrupted blood flow; innocent murmurs are common in newborns.",
     "Always interpret a heart sound in the context of the whole client."
    ],
@@ -859,7 +859,7 @@
       ]
      },
      "bullets": [
-      "<strong>Many dysrhythmias are triggered during the refractory and supernormal periods</strong>, when a stray impulse can fire a cell at the wrong time."
+      "<strong>Many dysrhythmias are triggered during the relative refractory and supernormal periods</strong>, when a stray impulse can fire a cell at the wrong time. (During the absolute refractory period, no stimulus can fire the cell.)"
      ]
     },
     {
@@ -935,7 +935,7 @@
     "Backup rates: AV junction 40–60, ventricles 20–40.",
     "Na⁺, K⁺, and Ca²⁺ movement makes the action potential; resting cells are polarized (negative inside).",
     "Depolarization = firing and contraction; repolarization = recharging.",
-    "Refractory periods (absolute, relative, supernormal) prevent spasm; dysrhythmias often start in the refractory and supernormal periods.",
+    "Refractory periods (absolute, relative, supernormal) prevent spasm; dysrhythmias often start in the relative refractory and supernormal periods.",
     "ECG: P = atria, PR = AV node time (0.12–0.20 s), QRS = ventricles, T = ventricular recharge.",
     "The pulse is the wave from LV contraction; always judge rhythms by the client's condition."
    ],
@@ -1259,7 +1259,7 @@
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> Mr. N, 52, has a screening lipid profile: total cholesterol 186, LDL 168, HDL 34, triglycerides 142. The total looks fine, and triglycerides are desirable — but <strong>LDL 168 is high and HDL 34 is low</strong>. Both need follow-up: provider review and teaching about a heart-healthy diet, exercise, weight, and not smoking."
+     "example": "<strong>At the bedside:</strong> Mr. N, 52, has a screening lipid profile: total cholesterol 196, LDL 134, HDL 34, triglycerides 142. The total looks fine, and triglycerides are desirable — but <strong>LDL 134 is well above the desirable level (borderline high) and HDL 34 is low</strong>. Both need follow-up: provider review and teaching about a heart-healthy diet, exercise, weight, and not smoking."
     },
     {
      "heading": "Blood tests: cardiac markers (troponin, CK-MB, CK)",
@@ -1432,8 +1432,8 @@
      "a": "The coffee statement — caffeine must be avoided because it can block the stress medication."
     },
     {
-     "q": "LDL 168 and HDL 34 with total cholesterol 186. Is follow-up needed?",
-     "a": "Yes — high LDL and low HDL both raise coronary artery disease risk even though the total is under 200."
+     "q": "LDL 134 and HDL 34 with total cholesterol 196. Is follow-up needed?",
+     "a": "Yes — an LDL above the desirable level and a low HDL both raise coronary artery disease risk even though the total is under 200."
     }
    ]
   }

@@ -1369,22 +1369,22 @@
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "cjmm": "Analyze Cues",
    "focus": "Assessment Findings",
-   "stem": "A client reports that for the past 4 months she has had about two bowel movements a week, strains with most of them, and passes hard, lumpy stools. She has not used laxatives. How should the nurse interpret these findings?",
+   "stem": "A client reports that for the past 7 months she has had about two bowel movements a week, strains with most of them, and passes hard, lumpy stools. She has not used laxatives. How should the nurse interpret these findings?",
    "options": [
-    "They meet chronic constipation criteria: two or more symptoms for at least 12 weeks",
+    "They meet chronic constipation criteria: two or more symptoms for the last 3 months, with onset at least 6 months ago",
     "They are not constipation, because she still has a bowel movement every single week",
     "They suggest acute constipation that should resolve with one dose of a laxative",
     "They indicate fecal impaction, because her stools are hard"
    ],
    "answer": 0,
    "optionRationales": [
-    "Correct. Rome IV criteria for chronic constipation require two or more of: straining, lumpy or hard stool, a feeling of incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, for at least 12 weeks. She has three of these for 16 weeks.",
+    "Correct. Rome IV criteria for chronic constipation require two or more of: straining, lumpy or hard stool, a feeling of incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, present for the last 3 months with onset at least 6 months before diagnosis. She has three of these, and they began 7 months ago.",
     "Constipation is defined by fewer than 3 bowel movements a week or difficult passage, not by having none.",
-    "Four months of symptoms is chronic, not acute, and a single laxative dose is not the management approach.",
+    "Seven months of symptoms is chronic, not acute, and a single laxative dose is not the management approach.",
     "Impaction is a mass of hardened stool with seepage of liquid and nonproductive straining. She is still passing stool."
    ],
-   "rationale": "Constipation means fewer than 3 BMs a week or difficult passage of hard, dry stools. Chronic constipation by Rome IV criteria is two or more of: straining, lumpy or hard stool, incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, lasting at least 12 weeks. This client has straining, hard stools, and 2 BMs a week for 4 months.",
-   "takeaway": "Chronic constipation = 2 or more Rome IV criteria for at least 12 weeks.",
+   "rationale": "Constipation means fewer than 3 BMs a week or difficult passage of hard, dry stools. Chronic constipation by Rome IV criteria is two or more of: straining, lumpy or hard stool, incomplete emptying, manual maneuvers, or fewer than 3 BMs a week, present for the last 3 months with onset at least 6 months before diagnosis. This client has straining, hard stools, and 2 BMs a week for 7 months.",
+   "takeaway": "Chronic constipation = 2 or more Rome IV criteria for the last 3 months, with onset at least 6 months before diagnosis.",
    "hintContent": "Recall the definition of constipation and the Rome IV criteria for chronic constipation.",
    "hintStrategy": "Count how many criteria she meets and for how long. Compare with the required number and duration."
   },
@@ -1488,7 +1488,7 @@
     "Correct. Children’s constipation is managed with behavior modification, a scheduled toilet routine, diet, regular activity, and a laxative if needed. Softer stools make defecation less painful, so withholding decreases.",
     "Daily enemas are invasive and are not the first-line intervention. Behavior and diet changes come first."
    ],
-   "rationale": "Constipation in children older than 4 is diagnosed by symptoms lasting a month after toilet training: fewer than 2 stools a week, painful hard BMs, large-diameter stools that clog the toilet, a large rectal mass, and excessive voluntary withholding. Pain causes withholding, and withholding causes harder stools. Interventions are behavior modification, scheduled toileting, diet, activity, and a laxative if needed.",
+   "rationale": "Constipation in children older than 4 is diagnosed by symptoms lasting a month after toilet training: two or fewer stools a week, painful hard BMs, large-diameter stools that clog the toilet, a large rectal mass, and excessive voluntary withholding. Pain causes withholding, and withholding causes harder stools. Interventions are behavior modification, scheduled toileting, diet, activity, and a laxative if needed.",
    "takeaway": "Children’s constipation: painful stools lead to withholding. Break the cycle with routine, diet, and activity, not punishment.",
    "hintContent": "Recall the diagnostic criteria and interventions for constipation in children, including the psychologic influence of pain.",
    "hintStrategy": "Check the age criterion first. Then choose the least invasive approach that addresses the cause."

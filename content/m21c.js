@@ -731,7 +731,7 @@ window.NURSE_DATA.push({
     "Correct. Mites die when sealed away from a host for several days.",
     "Incorrect. The scabicide is applied from the neck to the toes, not only to visible burrows."
    ],
-   "rationale": "Scabies mites spread through prolonged skin contact and sometimes linens. The response is contact precautions, simultaneous treatment of the resident and all symptomatic contacts, whole-body application of the scabicide, and hot laundering or bagging of items. Itching may persist for weeks after cure.",
+   "rationale": "Scabies mites spread through prolonged skin contact and sometimes linens. The response is contact precautions, simultaneous treatment of the resident and all close contacts, even those without symptoms, whole-body application of the scabicide, and hot laundering or bagging of items. Itching may persist for weeks after cure.",
    "takeaway": "Scabies: treat everyone at once, neck to toes, hot wash or bag, and expect lingering itch."
   },
   {

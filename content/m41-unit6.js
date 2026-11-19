@@ -664,6 +664,717 @@ window.NURSE_DATA.push({
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
       "priority": false
+    },
+    {
+      "id": "m41-u6-016",
+      "topic": "learning-theories",
+      "type": "mcq",
+      "stem": "A client is practicing with a new walker. On the third attempt, the client advances the walker and then steps into it, as taught. Which statement by the nurse best applies behaviorist reinforcement?",
+      "options": [
+        "“Great job! You are doing so much better today.”",
+        "“Let’s keep practicing until you stop making mistakes.”",
+        "“You moved the walker first, then stepped in. That keeps you steady.”",
+        "“Now that you have it right, you won’t need any more practice sessions.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Vague praise is pleasant but does not tell the client which behavior to repeat.",
+        "Incorrect. This focuses on errors rather than reinforcing the correct action just performed.",
+        "Correct. Specific, immediate feedback names the desired behavior and its purpose, making it more likely to recur.",
+        "Incorrect. One success does not establish reliable skill; learning develops with repeated practice."
+      ],
+      "rationale": "Behaviorist approaches hold that a consequence following a behavior changes how likely it is to happen again. In teaching, the most useful reinforcement is specific and timely: it names exactly what the learner did correctly and why it matters. General praise feels supportive but gives the learner nothing concrete to repeat. Because learning develops over time, the nurse should still plan further practice after one correct attempt.",
+      "takeaway": "Effective reinforcement names the exact correct behavior right after it happens.",
+      "hintContent": "Reinforcement works best when the learner knows precisely which action earned it.",
+      "hintStrategy": "Compare how specific each statement is about the client’s actual behavior.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m41-u6-017",
+      "topic": "learning-theories",
+      "type": "mcq",
+      "stem": "A client newly prescribed home oxygen correctly explains why it is needed and sets up the equipment without prompting. The client then says, “I am not wearing that tubing where my coworkers can see it.” Which action should the nurse take first?",
+      "options": [
+        "Explore the client’s concerns about being seen with the oxygen tubing.",
+        "Repeat the explanation of how low oxygen levels affect the heart and brain.",
+        "Ask the client to perform a second return demonstration of the setup.",
+        "Document that the teaching objectives for home oxygen have been met."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The remaining need is affective; the nurse must understand the client’s feelings and values before problem-solving.",
+        "Incorrect. The client already demonstrated cognitive understanding; more facts do not address the concern.",
+        "Incorrect. Psychomotor skill was already shown without prompting.",
+        "Incorrect. Unwillingness to use the device means an essential outcome is still unmet."
+      ],
+      "rationale": "This client has met the cognitive objective (explains the purpose) and the psychomotor objective (sets up the equipment). The statement about coworkers signals an affective need involving feelings, self-image, and willingness to use the device. Repeating facts or skills targets domains that are already met and will not change the client’s choice. The nurse should first explore the concern without dismissing it, then work with the client and team on acceptable options.",
+      "takeaway": "Knowing and doing do not guarantee willing; assess the affective domain separately.",
+      "hintContent": "Sort the cues into knowledge, skill, and willingness, and find the domain still unmet.",
+      "hintStrategy": "When two domains are clearly met, the first action targets the one that is not.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-018",
+      "topic": "learning-theories",
+      "type": "sata",
+      "stem": "A nurse is writing objectives for a client who will begin using an insulin pen at home. Which objectives belong to the psychomotor domain? Select all that apply.",
+      "options": [
+        "Prime the pen and dial the prescribed dose using the home device.",
+        "Inject the dose at a selected site using correct technique.",
+        "Explain what to do when a blood glucose reading is low.",
+        "Express feelings about giving self-injections.",
+        "Check a blood glucose level using the home meter.",
+        "State why insulin is part of the treatment plan."
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Priming and dialing are physical skills evaluated by observation.",
+        "Correct. Injection technique is a coordinated physical performance.",
+        "Incorrect. Explaining a response to low glucose is a cognitive objective.",
+        "Incorrect. Feelings and willingness belong to the affective domain.",
+        "Correct. Operating the meter is a hands-on skill.",
+        "Incorrect. Stating a purpose reflects knowledge, a cognitive objective."
+      ],
+      "rationale": "Psychomotor objectives describe physical performance of a skill, such as handling a device or carrying out a procedure. They are evaluated by watching a return demonstration. Explaining or stating information is cognitive and is checked with teach-back. Expressing feelings or commitment is affective and is explored through discussion. One home-care plan usually needs objectives in all three domains, each with its own evidence.",
+      "takeaway": "If the learner must physically do it, it is psychomotor and needs a return demonstration.",
+      "hintContent": "Look at the verb: perform and operate versus explain, state, or express.",
+      "hintStrategy": "Judge each option on its own against the goal; there may be two, three, or four correct choices.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 1,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m41-u6-019",
+      "topic": "learning-theories",
+      "type": "mcq",
+      "stem": "A client newly diagnosed with heart failure says, “There is so much to learn that I cannot keep any of it straight.” Which teaching approach best reflects cognitive learning principles?",
+      "options": [
+        "Present all of the heart failure content in one session so the client sees the full picture.",
+        "Begin with daily weights and when to call, then add related content in short chunks.",
+        "Offer praise each time the client finishes reading a section of the booklet.",
+        "Show a video of another client managing heart failure, then answer questions."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Overloading a stressed learner hinders processing and recall.",
+        "Correct. Cognitive theory organizes content from simple to complex in manageable chunks, starting with essential safety actions.",
+        "Incorrect. Rewarding a behavior reflects behaviorist theory, and reading is not evidence of understanding.",
+        "Incorrect. Watching a model reflects social learning theory and does not address information overload."
+      ],
+      "rationale": "Cognitive learning theory focuses on how people acquire, organize, and use information. The nurse applies it by moving from simple to complex, breaking content into manageable chunks, and connecting new ideas to what the learner already understands. For an overwhelmed client, beginning with the most essential self-management actions makes the information usable right away. Reinforcement and modeling are valid tools, but they belong to other theories and do not solve the overload problem.",
+      "takeaway": "Cognitive theory: organize, chunk, and sequence essential content first.",
+      "hintContent": "The client’s problem is processing too much information at once.",
+      "hintStrategy": "Match each option to the theory it represents, then pick the one the stem names.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m41-u6-020",
+      "topic": "learning-theories",
+      "type": "mcq",
+      "stem": "A nurse is assigned to teach a client to use a home infusion pump model the nurse has never operated. The client is scheduled for discharge tomorrow afternoon. What should the nurse do first?",
+      "options": [
+        "Teach the client using experience with a similar pump model.",
+        "Give the client the manufacturer booklet to review independently tonight.",
+        "Learn the pump alongside the client by reading the booklet together.",
+        "Obtain current instruction on this pump from an appropriate resource."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Similar models can differ in critical steps; teaching from assumption risks unsafe instruction.",
+        "Incorrect. Reading alone does not provide guided practice or verify the client’s skill.",
+        "Incorrect. The nurse should be competent with the device before teaching it.",
+        "Correct. The nurse first obtains accurate, current instruction, such as from an educator or specialist, before teaching."
+      ],
+      "rationale": "Nurses are lifelong learners, and knowing a general concept does not establish competence with a specific device. Teaching an unfamiliar procedure from memory of a similar device can pass on errors the client will repeat at home. The nurse should recognize the limitation and seek accurate, current instruction from an appropriate resource according to facility policy. Recognizing limits openly supports safety and credibility, and there is still time to teach before discharge.",
+      "takeaway": "Get competent before you teach; never improvise an unfamiliar procedure.",
+      "hintContent": "Consider whether the teacher is ready to teach before considering the learner.",
+      "hintStrategy": "A safety-first option that fixes the root problem usually comes before teaching actions.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-021",
+      "topic": "learning-theories",
+      "type": "sata",
+      "stem": "A nurse taught a postoperative client to use an incentive spirometer. Which documentation entries provide evidence that learning occurred? Select all that apply.",
+      "options": [
+        "Performed the spirometer sequence correctly three times without prompts.",
+        "Spirometer teaching handout provided and placed at the bedside.",
+        "Explained in own words how often to use the device while awake and why.",
+        "Signed the education record at the end of the teaching session.",
+        "Stated “I understand” when asked about the instructions.",
+        "After reteaching slow inhalation, demonstrated the full sequence correctly."
+      ],
+      "answer": [
+        0,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Observed independent performance is evidence of psychomotor learning.",
+        "Incorrect. This records a teaching activity, not the client’s learning.",
+        "Correct. An explanation in the client’s own words is evidence of cognitive learning.",
+        "Incorrect. A signature shows the session occurred, not comprehension or skill.",
+        "Incorrect. A self-report of understanding is weak evidence.",
+        "Correct. This shows a gap was identified, retaught, and then performed correctly."
+      ],
+      "rationale": "Teaching activity and learning evidence are different things. Strong documentation describes what the learner actually explained or demonstrated, and how much help was needed. Handouts, signatures, and “I understand” show that teaching happened or that the client agreed, but not that the client can use the information. Recording reteaching and the corrected performance also tells the next nurse what was difficult.",
+      "takeaway": "Document what the client explained or did, not what the nurse handed out.",
+      "hintContent": "Ask whether each entry describes the client’s own explanation or performance.",
+      "hintStrategy": "Judge each option on its own against the goal; there may be two, three, or four correct choices.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m41-u6-022",
+      "topic": "learning-theories",
+      "type": "mcq",
+      "stem": "A client being taught crutch walking accurately describes the gait. During the return demonstration, the client rests body weight on the crutch pads under the arms. What should the nurse do first?",
+      "options": [
+        "Document that the client correctly described the crutch gait.",
+        "Stop the client, coach weight bearing through the hands, and observe again.",
+        "Provide a picture of correct posture for the client to review before the next session.",
+        "Praise the effort and plan to review hand position at the follow-up visit."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The verbal description does not cancel the unsafe performance just observed.",
+        "Correct. Immediate, specific correction followed by repeat practice addresses the unsafe psychomotor error.",
+        "Incorrect. Delaying correction allows the client to keep practicing an unsafe technique.",
+        "Incorrect. Postponing correction leaves the client at risk of injury in the meantime."
+      ],
+      "rationale": "Correct verbal knowledge does not prove safe physical performance, which is why the return demonstration matters. Leaning on the crutch pads places pressure on the nerves in the axilla and can cause injury; weight should be borne through the hands and arms. The nurse should stop the unsafe action, give specific feedback on the exact correction, and have the client practice again while observing. Documentation should reflect both the error and the corrected performance.",
+      "takeaway": "An unsafe return demonstration calls for immediate, specific correction and repeat practice.",
+      "hintContent": "The cognitive and psychomotor findings conflict; which one creates risk right now?",
+      "hintStrategy": "Choose the action that removes the immediate safety risk before longer-term steps.",
+      "ref": "Module 41 · Learning Theories & Domains · slides 3–18",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-023",
+      "topic": "teaching-plan",
+      "type": "mcq",
+      "stem": "A nurse is preparing to teach a client who speaks Vietnamese and limited English about new discharge medications. The client’s adult son, who is fluent in both languages, offers to interpret. What should the nurse do first?",
+      "options": [
+        "Accept the son’s offer because family can explain in familiar terms.",
+        "Use an English handout and speak slowly with simple gestures.",
+        "Teach in English and ask the client to nod after each instruction.",
+        "Arrange a qualified medical interpreter for the teaching session."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Family members may omit, change, or add information and may not know medical terms.",
+        "Incorrect. Slower English does not provide language access for essential medication teaching.",
+        "Incorrect. A nod does not show understanding and may reflect politeness.",
+        "Correct. Qualified interpretation gives accurate language access; the son can still attend as support if the client wishes."
+      ],
+      "rationale": "Language access is a core part of readiness to learn. Essential medication teaching should use a qualified medical interpreter, because family members may filter, simplify, or misstate information and may not know medical terms. Using a family member can also limit the client’s privacy and willingness to ask questions. With the interpreter present, the nurse can use teach-back to confirm understanding, and the son can be included as a support person if the client agrees.",
+      "takeaway": "Use qualified interpreters for teaching; family can support but should not replace them.",
+      "hintContent": "Consider accuracy and privacy when choosing who conveys medication instructions.",
+      "hintStrategy": "Eliminate options that rely on nodding or a shared language the client lacks.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [
+        "lifespan-digital-learning"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-024",
+      "topic": "teaching-plan",
+      "type": "mcq",
+      "stem": "While the nurse reviews a discharge handout, a client says, “I left my reading glasses at home. Can you just tell me what it says?” Which action by the nurse is most appropriate?",
+      "options": [
+        "Explain the key points in plain language, then ask the client to explain them back.",
+        "Document that the client may have limited literacy and needs simplified written material.",
+        "Leave the handout so that a family member can read it to the client later.",
+        "Provide a longer large-print handout for the client to review after the visit."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Written material supports, but does not replace, a clear conversation; teach-back verifies understanding.",
+        "Incorrect. Literacy should not be assumed from a request; universal clear communication fits every client.",
+        "Incorrect. This delays teaching and leaves understanding unverified.",
+        "Incorrect. Large print may help, but reviewing alone later leaves understanding unchecked."
+      ],
+      "rationale": "Written materials should support the teaching conversation rather than replace it. The nurse should not guess at literacy from appearance or from a request like this; plain language and teach-back are used for all clients. Explaining the essential points aloud and asking the client to explain them back meets the immediate need and verifies learning. Accessible print can be offered as a reminder, but it is not proof that the client understood.",
+      "takeaway": "Use plain language and teach-back for everyone; do not guess at literacy.",
+      "hintContent": "Find the option that both delivers the content now and checks understanding.",
+      "hintStrategy": "Prefer actions that verify learning over actions that only provide material.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [
+        "lifespan-digital-learning"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m41-u6-025",
+      "topic": "teaching-plan",
+      "type": "sata",
+      "stem": "A nurse is planning teaching for a client who will give daily subcutaneous injections at home. Which assessment data should the nurse collect before choosing teaching methods? Select all that apply.",
+      "options": [
+        "The client’s prior experience with injections or similar routines.",
+        "The client’s highest level of education to predict literacy.",
+        "The client’s ability to see dose markings and handle the syringe.",
+        "Whether the client can afford and safely store the needed supplies.",
+        "The client’s preferred language and format for information.",
+        "Which standard handout the unit routinely gives for injections."
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Prior experience reveals strengths and habits that may need revision.",
+        "Incorrect. Education level does not reliably predict health literacy, especially under stress.",
+        "Correct. Vision and dexterity determine whether the client can physically perform the skill.",
+        "Correct. Cost and storage are practical barriers that teaching alone cannot solve.",
+        "Correct. Language and format affect access to the teaching.",
+        "Incorrect. This reflects unit routine, not an assessment of this learner."
+      ],
+      "rationale": "A teaching plan begins with assessment of the learner, not with a standard packet. The nurse gathers prior knowledge and experience, sensory and physical ability, language and format needs, and practical resources such as money, supplies, and storage. These findings separate knowledge gaps from functional or access barriers that require different interventions. Education level is a poor predictor of health literacy, so clear communication is used for everyone.",
+      "takeaway": "Assess knowledge, ability, language, and resources before choosing a method.",
+      "hintContent": "Ask which data describe this client rather than a routine or an assumption.",
+      "hintStrategy": "Judge each option on its own against the goal; there may be two, three, or four correct choices.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [
+        "learning-theories"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m41-u6-026",
+      "topic": "teaching-plan",
+      "type": "mcq",
+      "stem": "During teach-back, a client correctly states when to take a new once-daily medication but says, “If I miss a dose, I will take two the next morning.” This contradicts the written plan. What should the nurse do first?",
+      "options": [
+        "Repeat the entire medication teaching session from the beginning.",
+        "Reread the missed-dose section and ask whether it is clear now.",
+        "Reteach the missed-dose step in different words, then recheck it.",
+        "Document understanding because the dosing time was stated correctly."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Repeating everything is inefficient and may overwhelm the client when only one step is wrong.",
+        "Incorrect. Rereading the same words and asking for a yes or no does not verify understanding.",
+        "Correct. Teach-back pinpoints the gap; the nurse reteaches that part with changed wording and checks again.",
+        "Incorrect. A dangerous misunderstanding remains, so understanding cannot be documented."
+      ],
+      "rationale": "Teach-back is a check of how clearly the nurse explained the plan, and an error tells the nurse exactly what to reteach. The nurse should address the specific missed-dose gap, use different wording or a different method, and ask the client to explain it again. Repeating the whole session or rereading the same words without a fresh check does not show that the gap is fixed. Documentation should record what was misunderstood, what was retaught, and the client’s corrected response.",
+      "takeaway": "After a teach-back error, reteach the specific gap differently and recheck.",
+      "hintContent": "Teach-back found one precise error; target it.",
+      "hintStrategy": "Pick the action that both corrects and verifies, rather than either one alone.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-027",
+      "topic": "teaching-plan",
+      "type": "mcq",
+      "stem": "A client with hypertension has not taken a prescribed antihypertensive for a week, and a staff member describes the client as “noncompliant.” The client tells the nurse, “Those pills make me dizzy when I stand up at work.” Which conclusion best guides the nurse’s next step?",
+      "options": [
+        "The client needs more teaching about the long-term dangers of high blood pressure.",
+        "An adverse effect is the barrier, so the plan needs review with the provider.",
+        "The client lacks motivation and would benefit from a structured reward plan.",
+        "The client has made an informed refusal, so teaching can be closed out."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The client has not shown a knowledge gap; more warnings do not address the dizziness.",
+        "Correct. Dizziness on standing suggests orthostatic hypotension, an adverse effect that the prescriber needs to evaluate.",
+        "Incorrect. The client gave a specific physical reason, not a lack of motivation.",
+        "Incorrect. The client described a side effect, not an informed decision to refuse treatment."
+      ],
+      "rationale": "Before labeling a client noncompliant, the nurse asks why the plan is not being followed. Dizziness when standing suggests orthostatic hypotension, a known adverse effect of antihypertensives and a safety concern at work. The barrier is a side effect, so more information about high blood pressure will not solve it. The nurse should report the finding so the prescriber can review the regimen, and teach safety measures such as rising slowly in the meantime.",
+      "takeaway": "Explore the reason for nonadherence; match the intervention to the actual barrier.",
+      "hintContent": "The client’s own words identify the cause.",
+      "hintStrategy": "Choose the conclusion supported by the specific cue rather than by a label.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": false
+    },
+    {
+      "id": "m41-u6-028",
+      "topic": "teaching-plan",
+      "type": "sata",
+      "stem": "A nursing student drafts objectives for a client learning home wound care. Which objectives are written so that learning can be evaluated? Select all that apply.",
+      "options": [
+        "Before discharge, the client will change the dressing using home supplies without prompting.",
+        "The client will understand the importance of good wound care.",
+        "By the end of today’s session, the client will name three signs of infection that require a call.",
+        "The client will appreciate why hand hygiene matters before dressing changes.",
+        "The nurse will give the client a wound care handout and video link.",
+        "Within 2 days, the client will describe one home barrier and a practical solution."
+      ],
+      "answer": [
+        0,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. It states an observable learner action, conditions, and an evaluation time.",
+        "Incorrect. “Understand” is not observable, and no evidence or time frame is stated.",
+        "Correct. Naming specific signs within a stated time is measurable.",
+        "Incorrect. “Appreciate” describes an internal state without observable evidence.",
+        "Incorrect. This describes nurse activity rather than a learner outcome.",
+        "Correct. The learner’s action and evaluation point are clear."
+      ],
+      "rationale": "A learner-centered objective states what the client will do, under what conditions when relevant, and when it will be evaluated. Verbs such as demonstrate, name, and describe produce evidence the nurse can observe. Words like understand and appreciate describe internal states that cannot be evaluated directly. A statement about what the nurse will provide is a teaching activity, not a learning objective.",
+      "takeaway": "Strong objectives name the learner’s observable action and when it will be checked.",
+      "hintContent": "Check who performs the action and whether you could observe it.",
+      "hintStrategy": "Judge each option on its own against the goal; there may be two, three, or four correct choices.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [
+        "learning-theories"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m41-u6-029",
+      "topic": "teaching-plan",
+      "type": "mcq",
+      "stem": "A client with a new colostomy is scheduled for discharge in 1 hour. The client still cannot complete a pouch change without step-by-step help, lives alone, and the first home health visit is in 3 days. What should the nurse do first?",
+      "options": [
+        "Provide written instructions and a video link so the client can practice at home.",
+        "Have the client watch the nurse change the pouch one more time.",
+        "Document the attempt and complete the scheduled discharge process.",
+        "Notify the provider and case manager about the unmet essential skill."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Materials do not ensure the client can perform the skill alone for 3 days.",
+        "Incorrect. Watching again does not build or verify the client’s independent performance.",
+        "Incorrect. Proceeding without addressing the gap may make the discharge unsafe.",
+        "Correct. An unverified essential skill with no home support must be communicated before discharge so the plan can change."
+      ],
+      "rationale": "An essential self-care skill that has not been verified, combined with no home support and a delayed first visit, makes the transition unsafe. The nurse should communicate the unmet learning need before discharge so the team can adjust the plan. Options may include more supervised practice, a specialist referral, or an earlier home health visit. Handouts, another demonstration, or documentation alone do not solve the gap the client will face at home.",
+      "takeaway": "Communicate unmet essential learning before discharge, not after.",
+      "hintContent": "Weigh the skill gap together with the home support and timing.",
+      "hintStrategy": "When safety is at stake, choose the action that changes the plan before the transition.",
+      "ref": "Module 41 · Teaching Assessment, Barriers & Evaluation · slides 8–19, 25",
+      "alsoTests": [
+        "lifespan-digital-learning"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-030",
+      "topic": "lifespan-digital-learning",
+      "type": "mcq",
+      "stem": "A nurse is teaching a 4-year-old who will receive nebulizer treatments with a face mask at home. Which approach is most developmentally appropriate?",
+      "options": [
+        "Have the child put the mask on a toy first, using short, concrete words.",
+        "Explain in detail how the medicine opens the airways in the lungs.",
+        "Teach only the parent while the child waits in the playroom.",
+        "Give the child a written checklist of the treatment steps to follow each time."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Play, demonstration with a familiar object, and concrete language fit a preschooler’s development.",
+        "Incorrect. Abstract physiology is beyond a preschooler’s understanding.",
+        "Incorrect. The caregiver needs teaching, but excluding the child misses a chance to build trust and cooperation.",
+        "Incorrect. A 4-year-old is not expected to follow a written checklist."
+      ],
+      "rationale": "Teaching is matched to developmental level, not just age. Preschoolers learn through play, concrete words, short explanations, and demonstration with a familiar object. Including the child supports trust and cooperation with the treatments. The parent who will give the treatments also needs separate explanation, practice, and evaluation.",
+      "takeaway": "Preschoolers learn through play and concrete demonstration; include them while teaching the caregiver.",
+      "hintContent": "Think about how a 4-year-old understands the world.",
+      "hintStrategy": "Eliminate options that need abstract thinking or reading.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "learning-theories"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m41-u6-031",
+      "topic": "lifespan-digital-learning",
+      "type": "mcq",
+      "stem": "An 82-year-old client with arthritis in both hands is being taught to use a new inhaler. The client is alert and says, “I want to keep managing my own medicines.” Her son says, “Just teach me. She is too old to learn this.” What should the nurse do first?",
+      "options": [
+        "Teach the son, since he is willing to manage the inhaler.",
+        "Ask the son to leave so that the client can learn on her own.",
+        "Assess her grip on the inhaler and ask how she wants her son involved.",
+        "Give both of them written instructions on the inhaler and document the teaching."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Age alone does not establish inability, and the client has stated her preference.",
+        "Incorrect. Excluding the son ignores a possible support the client may want.",
+        "Correct. The nurse assesses the actual functional barrier and respects the client’s choices about support.",
+        "Incorrect. Written material does not assess ability or verify learning."
+      ],
+      "rationale": "In older adults, the nurse assesses function rather than assuming decline. This client is alert and wants to self-manage, so the real question is whether arthritis limits her ability to handle the inhaler, which could be addressed with adaptations or assistance. The client decides how involved her son should be; family may help but should not automatically replace the learner. After teaching, the nurse verifies performance by the person who will actually use the device.",
+      "takeaway": "Assess function and preferences in older adults; age is not a learning barrier by itself.",
+      "hintContent": "Separate the son’s assumption from the client’s actual abilities and wishes.",
+      "hintStrategy": "Assessment comes before choosing who to teach.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-032",
+      "topic": "lifespan-digital-learning",
+      "type": "mcq",
+      "stem": "A 15-year-old newly diagnosed with type 1 diabetes sits silently while a parent answers every question. When the nurse begins teaching, the teen rolls their eyes and looks at their phone. What should the nurse do first?",
+      "options": [
+        "Continue teaching the parent, who will supervise care at home.",
+        "Describe long-term complications so the teen takes the diagnosis seriously.",
+        "Send an app link to the teen’s phone and review it at the next visit.",
+        "Ask the teen what they already know and what worries them most."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Parent agreement does not establish the adolescent’s understanding or commitment.",
+        "Incorrect. Fear-based lecturing can feel judgmental and increase disengagement.",
+        "Incorrect. Technology may engage some teens, but access and learning still need checking.",
+        "Correct. Directly involving the adolescent and assessing knowledge and concerns supports participation."
+      ],
+      "rationale": "Adolescents learn best when they are treated as active participants and approached calmly without judgment. The nurse should assess the teen’s own understanding, concerns, and desired support rather than relying on the parent’s answers. Scare tactics often increase defensiveness, and an app link without discussion skips both assessment and verification. Confidentiality limits should also be explained accurately within policy and law.",
+      "takeaway": "Engage the adolescent directly; a parent’s agreement is not the teen’s learning.",
+      "hintContent": "Disengagement is a cue to involve the learner, not to bypass them.",
+      "hintStrategy": "Choose the option that assesses the actual learner before teaching content.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m41-u6-033",
+      "topic": "lifespan-digital-learning",
+      "type": "sata",
+      "stem": "A client with type 2 diabetes shows the nurse several websites about managing blood glucose. Which features should the nurse teach the client to treat as warning signs? Select all that apply.",
+      "options": [
+        "A promise that a supplement will cure diabetes.",
+        "Advice to stop prescribed medication once the product is started.",
+        "Authorship by a government health agency with cited references.",
+        "No identifiable author or author qualifications on the page.",
+        "Repeated prompts to buy the site’s product today.",
+        "A recent review date along with traceable sources."
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Guaranteed cures are a warning sign of unreliable information.",
+        "Correct. Advice to abandon prescribed treatment needs critical review with the care team.",
+        "Incorrect. A responsible expert source with references supports credibility.",
+        "Correct. Missing authorship prevents judging expertise and accountability.",
+        "Correct. Sales pressure signals a commercial purpose that may bias the content.",
+        "Incorrect. Currency plus traceable evidence supports, rather than undermines, credibility."
+      ],
+      "rationale": "Clients can judge online information by asking who is responsible, what evidence supports the claims, when the content was reviewed, why it was published, and whether it fits their situation. Guaranteed cures, pressure to buy, missing authorship, and advice to stop prescribed treatment are warning signs. A commercial purpose is a reason to look closely, not automatic proof that a claim is false. The nurse should invite the client to bring questionable sources for discussion without embarrassment.",
+      "takeaway": "Check the author, evidence, date, purpose, and fit, and watch for cures and sales pressure.",
+      "hintContent": "Decide whether each feature raises or lowers trust in the source.",
+      "hintStrategy": "Judge each option on its own against the goal; there may be two, three, or four correct choices.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m41-u6-034",
+      "topic": "lifespan-digital-learning",
+      "type": "mcq",
+      "stem": "A nurse teaches a client recovering from a cardiac procedure how to use the patient portal. Which client statement indicates a need for further teaching?",
+      "options": [
+        "“I can use the portal to ask about my next prescription refill.”",
+        "“If my chest pain comes back tonight, I will send a portal message.”",
+        "“I will log in on my own phone rather than on a shared library computer.”",
+        "“I can see my test results and upcoming appointments in the portal.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Routine refill questions are an appropriate use of portal messaging.",
+        "Correct. Portal messages are not monitored for emergencies; recurrent chest pain needs an immediate direct response such as calling 911.",
+        "Incorrect. Using a personal device helps protect health information.",
+        "Incorrect. Viewing results and appointments is an appropriate portal use."
+      ],
+      "rationale": "Portals support routine communication, results, and scheduling, but asynchronous messages are not an emergency response channel. Recurrent chest pain after a cardiac procedure requires the immediate direct action the client was taught, such as calling emergency services. The nurse should teach which concerns need immediate contact and which can wait for routine follow-up. Protecting privacy by using a personal device is a correct understanding.",
+      "takeaway": "A portal is for routine needs; urgent symptoms need a direct, immediate response.",
+      "hintContent": "Find the statement that would delay care for an urgent symptom.",
+      "hintStrategy": "In needs-further-teaching items, look for the statement that is unsafe.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m41-u6-035",
+      "topic": "lifespan-digital-learning",
+      "type": "sata",
+      "stem": "A nurse plans to use an online video to teach a caregiver how to give gastrostomy tube feedings at home. Which factors should the nurse assess before relying on the video? Select all that apply.",
+      "options": [
+        "Whether the caregiver has a device and enough data to watch it.",
+        "Whether the video shows the same supplies the caregiver will use.",
+        "The number of times the video has been viewed online.",
+        "Whether the video’s language matches the caregiver’s language.",
+        "Whether the caregiver can open and play the video independently.",
+        "Whether the video was produced with professional-quality graphics."
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Device and data access determine whether the video is usable.",
+        "Correct. A video showing different equipment may teach steps that do not apply.",
+        "Incorrect. Popularity does not establish accuracy or relevance.",
+        "Correct. Content in an unfamiliar language is not accessible teaching.",
+        "Correct. The caregiver must be able to use the technology itself.",
+        "Incorrect. A polished appearance does not prove quality or fit."
+      ],
+      "rationale": "Digital teaching is useful only if the learner can access and use it. The nurse checks the device, connection, language, accessibility, and ability to operate the tool, and confirms that the content matches the actual supplies and plan. Popularity and polished design do not establish credibility or relevance. Even with a good video, the nurse still verifies learning by observing the caregiver perform the feeding.",
+      "takeaway": "Check access, language, usability, and fit with the real supplies; then verify performance.",
+      "hintContent": "Ask whether each factor affects whether this caregiver can actually use the video.",
+      "hintStrategy": "Judge each option on its own against the goal; there may be two, three, or four correct choices.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m41-u6-036",
+      "topic": "lifespan-digital-learning",
+      "type": "mcq",
+      "stem": "A client with left-sided weakness after a stroke is being discharged with a daily dressing change that requires two hands. The nurse reviews the home assessment. Which finding should the nurse address first?",
+      "options": [
+        "The only trained helper, a neighbor, will be away for 2 weeks.",
+        "The client asks for large-print copies of the written instructions.",
+        "The client prefers to have the dressing changed in the morning.",
+        "The client uses the patient portal to check upcoming appointments."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The client cannot perform the task alone, and the only trained support will be unavailable, so the plan is not feasible.",
+        "Incorrect. This is a reasonable accommodation that can be provided easily.",
+        "Incorrect. A timing preference can be accommodated and does not threaten safety.",
+        "Incorrect. Portal use for appointments is a strength rather than a barrier."
+      ],
+      "rationale": "A bedside skill depends on the home system that will support it. This client cannot perform a two-handed task alone, and the only person trained to help will be gone, so the discharge plan cannot be carried out safely. The nurse should address this gap first by coordinating with the team, for example to arrange home health, train another caregiver, or adapt the method. The other findings are preferences or strengths that are easily accommodated.",
+      "takeaway": "Verify that the home support the plan depends on will actually be there.",
+      "hintContent": "Find the finding that makes the essential task impossible at home.",
+      "hintStrategy": "Separate preferences that can be accommodated from barriers that make the plan unsafe.",
+      "ref": "Module 41 · Lifespan & Online Health Information · slides 20–28",
+      "alsoTests": [
+        "teaching-plan"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
     }
   ]
 });

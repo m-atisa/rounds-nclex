@@ -228,6 +228,12 @@
         "May be reduced"
        ],
        [
+        "Level of consciousness",
+        "Often altered or fluctuating (drowsy to hyperalert)",
+        "Usually clear until late stages",
+        "Usually clear"
+       ],
+       [
         "Nursing focus",
         "Acute cause and safety",
         "Function, support, and new changes",
@@ -422,7 +428,7 @@
     },
     {
      "heading": "Medication requires a specific purpose",
-     "body": "<p>Treat the cause when possible. Medicines listed in a slide are not interchangeable routine treatments for delirium. Antidepressants do not rapidly reverse acute delirium. Antipsychotics do not correct hypoxia, infection, or retention. Nonpharmacologic de-escalation and safety measures come first when appropriate.</p><p>For severe distress or danger that persists despite appropriate measures, a prescriber may consider short-term medication after weighing risks. Older adults, especially those with Parkinson disease or Lewy body dementia, require particular caution with haloperidol and similar agents. Monitor ordered therapy for sedation, cardiac or neurologic adverse effects, falls, and response. Follow the individualized order and protocol; this lesson does not supply dosing. Restraints and sedation are not default responses to every restless client.</p>"
+     "body": "<p>Treat the cause when possible. Medicines listed in a slide are not interchangeable routine treatments for delirium. Antidepressants do not rapidly reverse acute delirium. Antipsychotics do not correct hypoxia, infection, or retention. Benzodiazepines and strongly anticholinergic drugs (such as diphenhydramine) can cause or worsen delirium, especially in older adults; benzodiazepines are generally reserved for specific indications such as alcohol or benzodiazepine withdrawal. Nonpharmacologic de-escalation and safety measures come first when appropriate.</p><p>For severe distress or danger that persists despite appropriate measures, a prescriber may consider short-term medication after weighing risks. Older adults, especially those with Parkinson disease or Lewy body dementia, require particular caution with haloperidol and similar agents. Monitor ordered therapy for sedation, cardiac or neurologic adverse effects, falls, and response. Follow the individualized order and protocol; this lesson does not supply dosing. Restraints and sedation are not default responses to every restless client.</p>"
     },
     {
      "heading": "Lifespan and family considerations",

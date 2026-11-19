@@ -180,7 +180,7 @@ window.NURSE_DATA.push({
     },
     {
       "front": "How many NREM stages are currently used?",
-      "back": "Three: N1, N2, and N3; older N3/N4 deep-sleep categories are combined in N3.",
+      "back": "Three: N1, N2, and N3; the older stage 3 and stage 4 deep-sleep categories are combined into N3.",
       "topic": "sleep-rest"
     },
     {
@@ -1119,6 +1119,1146 @@ window.NURSE_DATA.push({
       "difficulty": 2,
       "clientNeed": "Health Promotion and Maintenance",
       "priority": false
+    },
+    {
+      "id": "m7-u6-026",
+      "topic": "wellness-context",
+      "type": "mcq",
+      "stem": "A client with long-standing COPD usually dresses without help. Today the client pauses for breath after every few words while talking. The daughter says, “This is just his lung disease; he has had it for years.” Which action should the nurse take first?",
+      "options": [
+        "Assess respiratory status, since this is a change from baseline.",
+        "Explain to the daughter that chronic illness usually progresses gradually.",
+        "Arrange a referral to teach energy conservation during dressing.",
+        "Ask the daughter which household tasks she can take over now."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A new decline in breathing and function is an acute change that requires prompt assessment, even with a chronic diagnosis.",
+        "Incorrect. This accepts the daughter’s explanation and delays assessment of a possibly urgent change.",
+        "Incorrect. Energy conservation is a tertiary-prevention strategy for later, not the response to a new acute change.",
+        "Incorrect. Planning role changes may matter later, but the immediate physiological change must be assessed first."
+      ],
+      "rationale": "A chronic diagnosis does not make every new symptom expected. Being unable to finish a sentence is a marked change from this client’s usual function and may signal an acute exacerbation. Compare current findings with the client’s baseline and assess before accepting a family member’s explanation. Long-term teaching and role planning come after the immediate problem is assessed.",
+      "takeaway": "Chronic illness can have an acute exacerbation; a change from baseline gets assessed first.",
+      "hintContent": "Compare today’s finding with what is usual for this client.",
+      "hintStrategy": "When a stem offers a new change in a client with a chronic condition, assessment of the change usually comes before teaching or planning.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-027",
+      "topic": "wellness-context",
+      "type": "mcq",
+      "stem": "A client’s blood pressure has been 152/96 mm Hg at three separate visits. The client says, “I can’t have a disease. I feel completely fine.” Which response by the nurse best reflects the difference between disease and illness?",
+      "options": [
+        "“Feeling fine suggests the readings were taken at stressful times.”",
+        "“Both disease and illness require symptoms that you can notice.”",
+        "“A condition can affect the body before it causes any symptoms.”",
+        "“Treatment will be needed once you start to feel unwell.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Three elevated readings on separate visits should not be dismissed because the client feels well.",
+        "Incorrect. Disease is a change in structure or function and may be present without symptoms.",
+        "Correct. Disease is pathology; illness is the person’s experience. Hypertension is often present without the client feeling ill.",
+        "Incorrect. Waiting for symptoms ignores the risk of an asymptomatic condition and delays management."
+      ],
+      "rationale": "Disease describes an alteration in body structure or function, while illness describes how the person experiences feeling unwell. A person can have disease without illness, which is common with early hypertension. Repeated elevated readings are objective cues that need follow-up even though the client feels well. The nurse’s response should validate the client’s experience while explaining why management still matters.",
+      "takeaway": "Disease can be present without illness; feeling well does not rule out an asymptomatic condition.",
+      "hintContent": "Separate what is happening in the body from how the person feels.",
+      "hintStrategy": "Eliminate options that make the plan wait for symptoms or dismiss repeated objective data.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+      "alsoTests": [
+        "promotion-change"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-028",
+      "topic": "wellness-context",
+      "type": "sata",
+      "stem": "A nurse is preparing a client who is starting insulin for discharge. Which findings should the nurse address with a resource or adaptation before discharge? Select all that apply.",
+      "options": [
+        "The client’s apartment has no working refrigerator.",
+        "The client reads at about a fourth-grade level.",
+        "The client’s mother also used insulin to manage type 2 diabetes for many years.",
+        "The pharmacy copay is more than the client’s monthly budget allows.",
+        "The client correctly demonstrates drawing up the prescribed dose.",
+        "The client is 58 years old."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Lack of refrigeration is a housing and resource barrier to safe medication storage that needs a plan.",
+        "Correct. Limited literacy requires plain language, pictures, and teach-back rather than standard written materials.",
+        "Incorrect. Family history is a nonmodifiable risk factor, not a barrier the discharge plan can change.",
+        "Correct. Cost is an economic-stability barrier; coordinate a low-cost program or social work referral.",
+        "Incorrect. A correct demonstration is a strength, not a barrier needing a resource.",
+        "Incorrect. Age is a nonmodifiable characteristic and does not by itself prevent the plan."
+      ],
+      "rationale": "Social determinants such as economic stability, housing, and education access decide whether a plan is possible at home. Lack of refrigeration, limited literacy, and an unaffordable copay are concrete barriers that more teaching alone will not solve. Each needs a matched response, such as a storage plan, adapted teaching materials, or a cost-assistance referral. Family history and age are nonmodifiable, and a correct return demonstration is a strength to build on.",
+      "takeaway": "Match each concrete access barrier to a practical resource; teaching alone cannot supply money, storage, or literacy.",
+      "hintContent": "Which findings could stop the client from carrying out the plan at home?",
+      "hintStrategy": "For each option ask, “Can a resource or adaptation change this?” Strengths and fixed traits are not barriers to address.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+      "alsoTests": [
+        "promotion-change"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m7-u6-029",
+      "topic": "wellness-context",
+      "type": "mcq",
+      "stem": "A client recovering from a stroke will be discharged home. Her spouse says, “I’ll do everything for her. She won’t have to lift a finger.” Which action by the nurse is best?",
+      "options": [
+        "Praise the spouse’s commitment and document that the home caregiving plan is complete.",
+        "Teach the spouse to perform all bathing and dressing before discharge.",
+        "Recommend a long-term care facility to prevent spouse exhaustion.",
+        "Assess the client’s goals for independence and the spouse’s capacity to help."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Willingness does not prove the spouse can safely perform the needed care or that the client wants this plan.",
+        "Incorrect. Taking over every task may undermine the client’s independence and has not been discussed with the client.",
+        "Incorrect. No assessment supports a facility placement; this removes the client from the decision.",
+        "Correct. The client’s priorities and the caregiver’s real ability must both be assessed to build a safe, supportive plan."
+      ],
+      "rationale": "Illness changes family roles, and a caregiver’s willingness is not the same as the ability to provide care safely. The nurse should ask what the client wants to keep doing and preserve independence where possible. Caregiver capacity, skills, and support needs also require assessment, because exhaustion can make a discharge plan unsafe. Teaching and resources are then tailored to what both people need.",
+      "takeaway": "Assess both the client’s goals and the caregiver’s capacity; willingness does not equal ability.",
+      "hintContent": "Consider whose goals are missing from the spouse’s plan.",
+      "hintStrategy": "Choose the option that gathers information from the client and family before committing to a plan.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 32–37",
+      "alsoTests": [
+        "promotion-change"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-030",
+      "topic": "wellness-context",
+      "type": "mcq",
+      "stem": "A client with type 1 diabetes has stable glucose readings. The client says, “I lost my job, I’m behind on rent, and I stopped going to church because I’m embarrassed.” Which conclusion by the nurse is most accurate?",
+      "options": [
+        "Financial, career, and spiritual or social wellness need further assessment.",
+        "Wellness is intact because the client’s physical findings remain stable.",
+        "These concerns are outside nursing care unless glucose control worsens.",
+        "Emotional concerns should be addressed after the diabetes regimen has been revised."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Job loss, rent strain, and withdrawal from a faith community affect several wellness dimensions that can also influence self-management.",
+        "Incorrect. Stable laboratory values do not measure satisfaction, meaning, finances, or social connection.",
+        "Incorrect. Social determinants and wellness dimensions are part of whole-person nursing assessment now, not only after physical decline.",
+        "Incorrect. Delaying attention to the client’s stated concerns ignores their link to the client’s well-being and future self-care."
+      ],
+      "rationale": "Wellness has several connected dimensions, and stable physical findings do not show that all of them are strong. This client describes financial, career, spiritual, and social losses that may affect sleep, mood, medication purchase, and support. The nurse should explore these areas and connect the client with resources such as social work. A problem in one dimension can quickly affect another.",
+      "takeaway": "Normal physical findings do not measure the whole person; assess every affected wellness dimension.",
+      "hintContent": "List each loss the client names and the wellness dimension it fits.",
+      "hintStrategy": "Be wary of options that rate wellness only from physical data or delay attention to what the client says matters.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-031",
+      "topic": "wellness-context",
+      "type": "mcq",
+      "stem": "A home health nurse reviews messages about four clients with chronic conditions. Which client requires the nurse’s follow-up first?",
+      "options": [
+        "A client with heart failure whose spouse asks about respite care and support groups.",
+        "A client with Parkinson disease whose daughter reports new confusion today.",
+        "A client with diabetes who cannot afford the recommended glucose meter.",
+        "A client with chronic back pain who wants to return to part-time work."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Caregiver strain is important, but it is not as urgent as a sudden change in mental status.",
+        "Correct. Acute confusion is a new change that needs prompt assessment for an underlying cause, even with a long-standing diagnosis.",
+        "Incorrect. A cost barrier needs a resource referral but is not an immediate safety threat.",
+        "Incorrect. A return-to-work goal is a wellness priority to plan, not an acute concern."
+      ],
+      "rationale": "Acute confusion is a red flag that requires prompt assessment regardless of an existing chronic diagnosis. It may signal infection, medication effects, hypoxia, or another urgent problem. The other messages describe real barriers and goals that require planning and resources. Prioritize the new, sudden change over stable needs.",
+      "takeaway": "A sudden change in a chronically ill client is the priority over stable resource or wellness needs.",
+      "hintContent": "Look for the finding that is new and sudden rather than ongoing.",
+      "hintStrategy": "When all clients have chronic conditions, choose the one with an acute change in condition.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-032",
+      "topic": "wellness-context",
+      "type": "sata",
+      "stem": "A nurse reviews the histories of several clients. Which statements correctly interpret the course of illness? Select all that apply.",
+      "options": [
+        "A client with leukemia whose symptoms have disappeared is in remission and still needs monitoring.",
+        "A client with multiple sclerosis whose symptoms return after months of improvement is having a relapse.",
+        "A client with an illness that began suddenly two days ago must have a mild, self-limiting condition.",
+        "A client with heart failure who develops increasing edema is having an exacerbation.",
+        "A client whose condition has lasted more than a year is stable because the illness is chronic."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Remission means symptoms lessen or disappear; it does not necessarily mean cure, so monitoring continues.",
+        "Correct. Relapse is the return of disease or symptoms after a period of improvement.",
+        "Incorrect. Acute describes sudden onset and course, not severity; acute illness ranges from mild to life-threatening.",
+        "Correct. Exacerbation is worsening of an existing condition, such as increasing edema in heart failure.",
+        "Incorrect. Chronic describes duration, not stability; chronic conditions can worsen and need current assessment."
+      ],
+      "rationale": "Acute and chronic describe how an illness begins and how long it lasts, not how severe or stable it is. Remission is a lessening or disappearance of symptoms that may not mean cure. Relapse is the return of disease after improvement, and exacerbation is worsening of an existing condition. Base priorities on current findings and trajectory rather than on the label alone.",
+      "takeaway": "Acute is not the same as mild, chronic is not the same as stable, and remission is not the same as cure.",
+      "hintContent": "For each option, ask whether the label describes timing, severity, or change.",
+      "hintStrategy": "Eliminate any option that uses a course-of-illness term to draw a conclusion about severity or stability.",
+      "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+    },
+    {
+      "id": "m7-u6-033",
+      "topic": "promotion-change",
+      "type": "mcq",
+      "stem": "During a clinic visit, a client who smokes says, “My grandfather smoked until he was 90. I don’t see any reason to stop.” Which response should the nurse make first?",
+      "options": [
+        "“Let’s choose a quit date and talk about nicotine replacement options.”",
+        "“If you keep smoking, you are going to develop lung disease.”",
+        "“What do you enjoy about smoking, and has anything about it ever worried you?”",
+        "“Your grandfather was fortunate; most people who smoke do not live nearly that long.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Planning a quit date fits preparation; this client is not yet considering change.",
+        "Incorrect. A threat or guaranteed outcome tends to provoke resistance and overstates certainty.",
+        "Correct. The client is in precontemplation; exploring beliefs and concerns with an open-ended question is the stage-matched first step.",
+        "Incorrect. Arguing with the client’s experience damages rapport and does not explore the client’s view."
+      ],
+      "rationale": "The client’s statement shows precontemplation: no current intention to change. The best first step is to explore the client’s beliefs, perspective, and any concerns with open-ended questions. Information can be offered with permission once the nurse understands what matters to the client. Quit planning, threats, and arguing are mismatched to this stage and can increase resistance.",
+      "takeaway": "In precontemplation, explore beliefs and concerns before offering a plan.",
+      "hintContent": "Identify the client’s stage of change from the exact words used.",
+      "hintStrategy": "Match the intervention to the stage; eliminate options that jump ahead or argue.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-034",
+      "topic": "promotion-change",
+      "type": "mcq",
+      "stem": "A nurse teaches an adult with no history of skin cancer how to perform a monthly skin self-examination and when to report a changing mole. Which level of prevention does this teaching represent?",
+      "options": [
+        "Primary, because the teaching occurs before skin cancer develops.",
+        "Secondary, because the purpose is early detection of a possible condition.",
+        "Tertiary, because the teaching limits complications of existing skin damage.",
+        "Primary, because self-examination reduces the client’s sun exposure."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Teaching can occur at any level; this teaching aims to find a condition early, not to prevent it from occurring.",
+        "Correct. Self-examination is a screening behavior intended to detect a possible cancer early, which is secondary prevention.",
+        "Incorrect. No established disease is being managed, so the purpose is not tertiary.",
+        "Incorrect. Self-examination does not reduce sun exposure; sunscreen or shade would be primary prevention."
+      ],
+      "rationale": "Classify prevention by its purpose rather than by the fact that the nurse is teaching. Skin self-examination is designed to detect a possible cancer early, so it is secondary prevention. Teaching sun protection to prevent the cancer from developing would be primary prevention. Supporting function after an established diagnosis would be tertiary.",
+      "takeaway": "Teaching is not automatically primary prevention; ask what the action is meant to accomplish.",
+      "hintContent": "Ask what the self-examination is meant to accomplish.",
+      "hintStrategy": "Ignore the word “teaches” and classify by whether the goal is to prevent, detect early, or limit impact.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-035",
+      "topic": "promotion-change",
+      "type": "sata",
+      "stem": "A community health nurse plans several services. Which nursing actions are examples of primary prevention? Select all that apply.",
+      "options": [
+        "Giving an influenza vaccine to a healthy adult.",
+        "Teaching safe lifting to warehouse workers without back injuries.",
+        "Screening an adult with no symptoms for hypertension.",
+        "Fitting a child with a properly sized bicycle helmet.",
+        "Teaching a client who had a stroke to use a quad cane.",
+        "Teaching daily foot inspection to a client with diabetes."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Immunization prevents the disease from occurring, which is primary prevention.",
+        "Correct. Teaching safe lifting before injury occurs aims to prevent the injury itself.",
+        "Incorrect. Screening detects an existing condition early, which is secondary prevention.",
+        "Correct. Helmet use prevents head injury before it happens.",
+        "Incorrect. Rehabilitation after a stroke limits the impact of established disease, which is tertiary prevention.",
+        "Incorrect. Foot inspection in diabetes aims to limit complications of established disease, which is tertiary prevention."
+      ],
+      "rationale": "Primary prevention acts before the target disease or injury develops, as with vaccines, safe lifting, and helmets. Secondary prevention detects a condition early, as with hypertension screening. Tertiary prevention limits complications and restores function after a condition is established, as with stroke rehabilitation or diabetic foot care. Identify the targeted condition and whether it has already occurred.",
+      "takeaway": "Primary prevents occurrence, secondary detects early, and tertiary limits the impact of established disease.",
+      "hintContent": "For each action, ask whether the target condition already exists.",
+      "hintStrategy": "Sort each option into prevent, detect, or limit impact before choosing.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m7-u6-036",
+      "topic": "promotion-change",
+      "type": "mcq",
+      "stem": "A stable adult who has been inactive agrees to start walking. Which goal written by the nurse best meets SMART criteria?",
+      "options": [
+        "The client will understand the benefits of regular walking for blood pressure by the end of the month.",
+        "The client will walk more often and report feeling healthier within the next several weeks.",
+        "The client will walk 30 minutes every day starting tomorrow to meet the national activity guideline.",
+        "The client will walk indoors for 10 minutes after lunch on 4 days this week and record any symptoms."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. “Understand” is not directly observable, and the goal does not state the walking behavior.",
+        "Incorrect. “More often” and “healthier” are not measurable, and the time frame is vague.",
+        "Incorrect. The amount is not tailored to an inactive client’s assessed tolerance, so it may not be achievable.",
+        "Correct. The goal states a specific, measurable, achievable behavior with a clear time frame and a way to evaluate it."
+      ],
+      "rationale": "A SMART goal is specific, measurable, achievable, relevant, and time-bound. A short indoor walk on stated days with a symptom log can be observed and evaluated at a set review point. Goals that use “understand” or “more often” cannot be measured directly. A population target does not replace an individualized starting point for a client who has been inactive.",
+      "takeaway": "Write goals as observable behaviors with an amount, frequency, and review time that fit the client.",
+      "hintContent": "Ask whether you could tell, on a specific date, if each goal was met.",
+      "hintStrategy": "Eliminate goals using vague verbs, then eliminate goals that ignore the client’s current ability.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [
+        "fitness-exercise"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-037",
+      "topic": "promotion-change",
+      "type": "mcq",
+      "stem": "A client says, “My father and brother both had heart attacks, so it doesn’t matter what I do.” Which response should the nurse make first?",
+      "options": [
+        "“Tell me more about what you believe affects your heart health.”",
+        "“You’re right that family history is a risk you cannot change.”",
+        "“If you exercise and eat well, you will not have a heart attack.”",
+        "“Let’s set up a cardiac exercise plan for you this week.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The statement reflects an external locus of control; exploring the belief comes first and opens the way to discuss modifiable risks.",
+        "Incorrect. Agreeing without exploring reinforces the belief that personal action does not matter.",
+        "Incorrect. This promises a result no behavior can guarantee.",
+        "Incorrect. Planning before exploring the belief skips assessment of readiness and may not fit the client’s goals."
+      ],
+      "rationale": "The client expresses an external locus of control, believing that inherited risk determines the outcome. The nurse’s first step is to explore that belief and what the client thinks influences heart health. Afterward the nurse can explain that nonmodifiable and modifiable risks coexist and ask which small change feels possible. Guarantees and premature plans do not address the belief behind the statement.",
+      "takeaway": "Explore a fatalistic belief first, then show how modifiable and nonmodifiable risks can coexist.",
+      "hintContent": "Consider what belief about control the client is expressing.",
+      "hintStrategy": "When a client states a belief, the first response usually explores it rather than agreeing, arguing, or planning.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [
+        "wellness-context"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-038",
+      "topic": "promotion-change",
+      "type": "sata",
+      "stem": "A client says, “I quit smoking 3 weeks ago, but evenings after work are really hard.” Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Identify specific evening triggers and alternative coping strategies.",
+        "Recognize the effort the client has made over the past 3 weeks.",
+        "Review the long-term health risks of smoking to build motivation to quit.",
+        "Arrange follow-up and access to cessation support resources.",
+        "Suggest delaying the change until work stress is lower.",
+        "Explain that one cigarette would mean the plan has failed."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. The client is in the action stage; troubleshooting real triggers supports the new behavior.",
+        "Correct. An affirmation of real effort strengthens self-efficacy.",
+        "Incorrect. The client has already quit; repeating risk information does not address the current difficulty.",
+        "Correct. Follow-up and support help sustain change during action.",
+        "Incorrect. Postponing reverses progress the client has already made and does not address triggers.",
+        "Incorrect. A lapse is a reason to review triggers and revise the plan, not proof of failure."
+      ],
+      "rationale": "A client who has started a new behavior is in the action stage and needs help sustaining it. Useful nursing actions include identifying triggers, affirming effort, and arranging support and follow-up. Repeating risk information is better suited to earlier stages. Treating a lapse as failure can discourage the client; lapses are reassessment data.",
+      "takeaway": "In the action stage, troubleshoot triggers, affirm effort, and arrange support.",
+      "hintContent": "Decide which stage the client is in before judging each action.",
+      "hintStrategy": "Eliminate actions that belong to an earlier stage or that frame a lapse as failure.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m7-u6-039",
+      "topic": "promotion-change",
+      "type": "mcq",
+      "stem": "A client with hypertension says, “I stopped my blood pressure pill last week and started an herbal supplement a friend recommended instead.” Which action should the nurse take first?",
+      "options": [
+        "Tell the client that herbal products are unsafe and should be discarded.",
+        "Measure the blood pressure and ask which product is being taken and how.",
+        "Explain the benefits of combining herbal and prescribed therapies.",
+        "Document the supplement and schedule a pharmacist review next month."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Dismissing the client’s choice before gathering details damages trust and does not assess current safety.",
+        "Correct. Replacing prescribed treatment with an alternative creates a safety concern; current status and the product must be assessed first.",
+        "Incorrect. Promoting a combination is premature when the prescribed medication has been stopped and the product is unknown.",
+        "Incorrect. Waiting a month delays review of a safety concern the client has already reported."
+      ],
+      "rationale": "An alternative practice replaces conventional treatment, while a complementary practice is used alongside it. Stopping a prescribed antihypertensive in favor of an unreviewed product is a safety concern. The nurse first assesses current blood pressure and asks, without judgment, what product is being used. The nurse then coordinates prompt review with the prescriber or pharmacist so the client can make an informed decision.",
+      "takeaway": "When an alternative replaces prescribed therapy, assess current status and the product before teaching.",
+      "hintContent": "Notice whether the supplement is being added to or replacing prescribed care.",
+      "hintStrategy": "Choose the option that assesses the client’s current physical status and gathers missing information.",
+      "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-040",
+      "topic": "fitness-exercise",
+      "type": "mcq",
+      "stem": "A client with controlled hypertension is learning quadriceps-setting exercises in bed. Which instruction is most important for the nurse to include?",
+      "options": [
+        "Hold your breath during each contraction to increase muscle tension.",
+        "Bend and straighten the knee fully with each repetition.",
+        "Lengthen each hold every day even if you feel lightheaded.",
+        "Keep breathing normally throughout each muscle contraction."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Breath-holding (Valsalva) during isometric effort can raise blood pressure sharply.",
+        "Incorrect. Quadriceps sets are isometric; moving the knee through range would change the exercise to isotonic.",
+        "Incorrect. Lightheadedness is a symptom that calls for stopping and reporting, not progressing.",
+        "Correct. Breathing during isometric contraction reduces the blood pressure rise associated with Valsalva."
+      ],
+      "rationale": "A quadriceps set is an isometric exercise: the muscle develops tension while the knee stays still. Isometric effort, especially with breath-holding, can raise blood pressure sharply. Teaching the client to keep breathing throughout each contraction is the key safety point for a client with hypertension. New symptoms such as lightheadedness mean stopping and reporting, not pushing further.",
+      "takeaway": "Teach clients to keep breathing during isometric exercise to avoid a Valsalva-related blood pressure spike.",
+      "hintContent": "Think about what happens to blood pressure during breath-holding with muscle tension.",
+      "hintStrategy": "For a “most important” teaching item, look for the instruction that prevents a physiological harm.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-041",
+      "topic": "fitness-exercise",
+      "type": "mcq",
+      "stem": "A nursing student says, “The client riding the stationary bicycle at a self-chosen pace is doing isokinetic exercise because it uses a machine.” Which response by the nurse is most accurate?",
+      "options": [
+        "“Yes. Any exercise performed on a machine or other equipment is classified as isokinetic.”",
+        "“Isokinetic exercise requires equipment that holds movement at a constant speed.”",
+        "“The cycling is isometric because the hips stay fixed on the seat.”",
+        "“The cycling is anaerobic because the legs push against resistance.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Using equipment does not define isokinetic exercise; the defining feature is controlled constant speed.",
+        "Correct. Isokinetic exercise is defined by specialized equipment controlling angular speed while resistance adjusts to effort.",
+        "Incorrect. The knees and hips move during cycling, so it is not isometric.",
+        "Incorrect. Steady cycling is predominantly aerobic; resistance alone does not make an activity anaerobic."
+      ],
+      "rationale": "Isokinetic exercise uses specialized equipment that keeps movement at a controlled constant angular speed while resistance adjusts to the person’s effort. An ordinary stationary bicycle at a self-selected pace is not automatically isokinetic. Cycling involves joint movement, so it is not isometric, and sustained cycling is mainly aerobic. Classify exercise by its mechanism, not by the equipment name.",
+      "takeaway": "Classify exercise by mechanism: joint movement, no joint movement, or speed-controlled resistance.",
+      "hintContent": "Focus on what defines each term rather than what equipment is used.",
+      "hintStrategy": "When correcting a peer, choose the option that states the accurate defining feature.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-042",
+      "topic": "fitness-exercise",
+      "type": "sata",
+      "stem": "A nurse teaches a client who is beginning a home walking program. Which symptoms should the nurse teach the client to stop activity for and report? Select all that apply.",
+      "options": [
+        "New chest pressure or discomfort.",
+        "Dizziness or feeling faint.",
+        "Faster breathing while still able to carry on a conversation.",
+        "Severe shortness of breath that is new for the client.",
+        "Mild muscle warmth and an increased heart rate.",
+        "Being unable to sing comfortably while walking."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. New chest discomfort requires stopping activity and prompt assessment.",
+        "Correct. Dizziness or near-syncope during activity is a warning sign that requires stopping and assessment.",
+        "Incorrect. Being able to talk with faster breathing is consistent with moderate intensity.",
+        "Correct. New severe dyspnea is a warning sign, not an expected training effect.",
+        "Incorrect. Warmth and a higher heart rate are expected responses to activity.",
+        "Incorrect. Being able to talk but not sing is consistent with moderate intensity, which is the usual target."
+      ],
+      "rationale": "Clients starting exercise need clear teaching about which symptoms mean stop and report. New chest discomfort, dizziness or near-fainting, and severe new shortness of breath require stopping activity and prompt assessment. Faster breathing, warmth, a higher heart rate, and being unable to sing are expected with moderate effort. A good plan also tells the client whom to contact.",
+      "takeaway": "Teach the stop-and-report signs: chest discomfort, dizziness or near-fainting, and severe new dyspnea.",
+      "hintContent": "Separate expected responses to moderate effort from warning signs.",
+      "hintStrategy": "Use the talk test to eliminate expected findings, then select signs of possible cardiac or circulatory compromise.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m7-u6-043",
+      "topic": "fitness-exercise",
+      "type": "mcq",
+      "stem": "A sedentary 45-year-old with no activity restrictions says, “I need 150 minutes a week, so I’ll walk for 150 minutes this Saturday and be done.” Which response by the nurse is best?",
+      "options": [
+        "“That meets the weekly total, so one long walk is a good plan.”",
+        "“You will need to walk 150 minutes every day of the week to see any benefits.”",
+        "“Let’s start with shorter walks on several days and build up gradually.”",
+        "“Walking will not count; the goal requires vigorous exercise.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Activity is best spread through the week, and jumping to one long session ignores gradual progression for a sedentary client.",
+        "Incorrect. 150 minutes is a weekly total, not a daily requirement.",
+        "Correct. Spreading activity across the week and progressing gradually from current tolerance supports safety and consistency.",
+        "Incorrect. Moderate-intensity walking counts toward the adult guideline."
+      ],
+      "rationale": "The adult guideline is 150–300 minutes of moderate activity per week, or 75–150 minutes of vigorous activity, plus muscle strengthening on at least 2 days. It is a weekly total, not a single session and not a daily requirement. A sedentary person should begin at an attainable amount and progress gradually. Spreading activity across several days supports safety and habit formation.",
+      "takeaway": "Guidelines are weekly targets; begin at current ability and progress gradually.",
+      "hintContent": "Consider the client’s current activity level, not just the target number.",
+      "hintStrategy": "Eliminate options that misstate the guideline, then choose the one that individualizes progression.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [
+        "promotion-change"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-044",
+      "topic": "fitness-exercise",
+      "type": "mcq",
+      "stem": "The registered nurse is planning activity care for four clients on a medical unit. Which task is most appropriate to delegate to the unlicensed assistive personnel (UAP)?",
+      "options": [
+        "Walking a stable client who has walked the hallway twice today with standby assistance.",
+        "Evaluating the response of a client who reported dizziness during the last walk.",
+        "Teaching a client with a new knee replacement how to perform quadriceps sets.",
+        "Deciding whether a deconditioned client is ready to increase walking distance."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Walking a stable client with a known, predictable response is routine care within the UAP role.",
+        "Incorrect. Evaluating a response to a concerning symptom requires RN assessment.",
+        "Incorrect. Initial teaching is an RN responsibility.",
+        "Incorrect. Deciding on progression requires RN assessment and clinical judgment."
+      ],
+      "rationale": "Tasks with predictable outcomes for stable clients, such as routine ambulation with a known tolerance, can be delegated to UAP. Assessment, evaluation, initial teaching, and decisions to advance activity require RN clinical judgment. A client who reported dizziness needs RN evaluation before further activity. The RN remains accountable for following up on what the UAP reports.",
+      "takeaway": "Delegate routine activity for stable clients; keep assessment, teaching, evaluation, and progression decisions.",
+      "hintContent": "Look for the client whose response is stable and predictable.",
+      "hintStrategy": "Eliminate any task that uses the verbs assess, evaluate, teach, or decide.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-045",
+      "topic": "fitness-exercise",
+      "type": "mcq",
+      "stem": "An older adult who fell 2 months ago uses a cane indoors and wants to walk to a shop on a route with uneven pavement. Which action should the nurse take first?",
+      "options": [
+        "Provide a written schedule to build up to 150 minutes each week.",
+        "Recommend joining a gym that has a supervised walking track.",
+        "Encourage walking the route every day so confidence returns as quickly as possible.",
+        "Assess mobility, fall history, device use, symptoms, and the route."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A weekly target does not establish that the client can safely complete this route now.",
+        "Incorrect. A gym may be unaffordable or inaccessible, and it skips assessment of the client’s goal.",
+        "Incorrect. Daily practice on an uneven route before assessment increases fall risk.",
+        "Correct. Baseline ability, fall risk, device use, and route conditions must be assessed before planning the activity."
+      ],
+      "rationale": "Assessment comes before an activity recommendation, especially after a fall. The nurse should evaluate baseline mobility, symptoms, assistive-device use, fear of falling, and the demands of the route. The client’s goal of reaching the shop may also involve independence or social connection. A safe plan can then begin with an attainable task and progress, with therapy referral as needed.",
+      "takeaway": "Assess baseline ability, fall risk, and the environment before recommending an activity.",
+      "hintContent": "What does the nurse need to know before any plan is safe?",
+      "hintStrategy": "When a stem says “first” and no assessment has occurred, choose assessment over teaching or recommendations.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [
+        "wellness-context"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-046",
+      "topic": "fitness-exercise",
+      "type": "sata",
+      "stem": "A nurse reviews activity recommendations for clients across the lifespan. Which recommendations are appropriate? Select all that apply.",
+      "options": [
+        "A school-age child: at least 60 minutes of moderate-to-vigorous activity each day.",
+        "An older adult: include balance activities as abilities allow.",
+        "A client with an uncomplicated pregnancy: plan activity with the obstetric team.",
+        "A deconditioned adult: begin with vigorous interval training to speed progress.",
+        "An adult who uses a wheelchair: postpone activity planning until walking improves.",
+        "A healthy adult: muscle-strengthening activity on at least 2 days each week."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Children and adolescents need at least 60 minutes of daily moderate-to-vigorous activity.",
+        "Correct. Older adults should add balance and functional activity to their routine as abilities allow.",
+        "Correct. Pregnancy activity should be coordinated with obstetric guidance and any complications.",
+        "Incorrect. Interval training is not automatically appropriate for a deconditioned person; begin with attainable bouts.",
+        "Incorrect. People with disabilities should be as active as their abilities allow with adapted activity.",
+        "Correct. Adults should do muscle-strengthening activity on at least 2 days per week."
+      ],
+      "rationale": "Children and adolescents need at least 60 minutes of moderate-to-vigorous activity daily. Adults should combine weekly aerobic totals with muscle strengthening on at least 2 days, and older adults should add balance training. Pregnancy activity should be coordinated with the obstetric team, and people with disabilities should be active as their abilities allow. Deconditioned clients start with attainable bouts rather than the most demanding option.",
+      "takeaway": "Adapt activity to age and ability; guidelines are targets, not universal starting doses.",
+      "hintContent": "Check each recommendation against the age group and the client’s current ability.",
+      "hintStrategy": "Eliminate options that delay activity entirely or start at the most demanding level.",
+      "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m7-u6-047",
+      "topic": "oral-health",
+      "type": "mcq",
+      "stem": "The registered nurse is assigning oral care for four clients. Which client’s oral care is most appropriate to delegate to an experienced unlicensed assistive personnel (UAP)?",
+      "options": [
+        "A drowsy client with new dysphagia, pooled oral secretions, and a weak cough.",
+        "A client who reports a new painful mouth ulcer that has not been assessed.",
+        "An alert client with arthritis who needs denture-cleaning set-up assistance.",
+        "A client with facial swelling, fever, and new difficulty swallowing."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reduced alertness, pooled secretions, and a weak cough indicate aspiration risk that requires RN assessment of airway safety.",
+        "Incorrect. A new, unassessed lesion requires RN assessment before routine care is delegated.",
+        "Correct. An alert, stable client needing set-up help has predictable care needs within the UAP role.",
+        "Incorrect. These findings may signal a spreading infection and require urgent RN assessment."
+      ],
+      "rationale": "Oral care for a stable, alert client with predictable needs can be delegated. Clients with aspiration risk from reduced alertness and poor secretion control need RN assessment of airway safety before care. A new lesion requires initial RN assessment. Facial swelling with fever and difficulty swallowing is an urgent finding that needs prompt evaluation.",
+      "takeaway": "Delegate oral care for stable clients; retain care when airway risk or a new finding requires assessment.",
+      "hintContent": "Look for the client whose condition is stable and whose care is routine.",
+      "hintStrategy": "Eliminate clients with new findings or airway risk, because they need RN assessment.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-048",
+      "topic": "oral-health",
+      "type": "mcq",
+      "stem": "The nurse is preparing to provide oral care to an unresponsive client. Which position is most appropriate during the procedure?",
+      "options": [
+        "Supine with the head of the bed flat.",
+        "Side-lying with the head turned to the side.",
+        "High-Fowler with the head tilted back.",
+        "Semi-Fowler with the chin lifted and the neck extended."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A flat supine position lets fluid pool in the back of the mouth and increases aspiration risk.",
+        "Correct. Side-lying with the head turned lets fluid drain out of the mouth rather than toward the airway.",
+        "Incorrect. An unresponsive client cannot maintain this position safely, and tilting the head back directs fluid toward the airway.",
+        "Incorrect. A semi-upright position with the chin lifted still lets fluid run toward the pharynx in a client who cannot protect the airway."
+      ],
+      "rationale": "A client who cannot protect the airway is at risk of aspirating fluid during oral care. Positioning the client side-lying with the head turned lets fluid drain out of the mouth. The nurse also uses minimal fluid, has suction available when indicated, and never pours fluid into the mouth. Unresponsive clients still need regular oral care.",
+      "takeaway": "For an unresponsive client, position side-lying with the head turned and control fluid to prevent aspiration.",
+      "hintContent": "Think about where fluid will go in each position.",
+      "hintStrategy": "Choose the position that directs fluid away from the airway.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-049",
+      "topic": "oral-health",
+      "type": "sata",
+      "stem": "A client who is 20 weeks pregnant reports that her gums bleed when she brushes. Which responses by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Explain that pregnancy can increase gum inflammation and bleeding.",
+        "Advise stopping brushing until the bleeding resolves.",
+        "Encourage gentle brushing with a soft-bristled toothbrush.",
+        "Recommend a dental evaluation, because routine dental care is appropriate during pregnancy.",
+        "Advise postponing all dental visits until after delivery."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Hormonal changes in pregnancy can increase gingival inflammation and bleeding.",
+        "Incorrect. Stopping brushing allows plaque to build up and worsens gum inflammation.",
+        "Correct. Gentle brushing with a soft brush maintains hygiene while protecting inflamed tissue.",
+        "Correct. Dental evaluation and routine care are safe and recommended during pregnancy.",
+        "Incorrect. Pregnancy is not a reason to avoid routine dental care."
+      ],
+      "rationale": "Pregnancy can increase gingival inflammation, so bleeding gums are common but still deserve assessment. Hygiene should continue gently with a soft brush rather than stopping, because plaque buildup worsens inflammation. Routine dental care is appropriate during pregnancy and supports early treatment of gum disease. The nurse should also ask about vomiting or reflux, which exposes teeth to acid.",
+      "takeaway": "Bleeding gums call for gentle continued hygiene and dental evaluation, including during pregnancy.",
+      "hintContent": "Consider whether stopping care would help or worsen inflamed gums.",
+      "hintStrategy": "Eliminate options that stop hygiene or delay professional care.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m7-u6-050",
+      "topic": "oral-health",
+      "type": "mcq",
+      "stem": "The nurse reviews oral assessment findings for four clients. Which finding requires the most urgent action?",
+      "options": [
+        "Facial swelling, a temperature of 101.8°F (38.8°C), and new difficulty swallowing.",
+        "Gums that bleed slightly in a client who began flossing 2 days ago.",
+        "Hardened yellow deposits along the lower front teeth.",
+        "Dry mouth since starting a new antihistamine 1 week ago."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Facial swelling with fever and difficulty swallowing may indicate a spreading infection that threatens the airway.",
+        "Incorrect. Mild bleeding with new flossing needs technique review but is not urgent.",
+        "Incorrect. Calculus requires routine professional removal, not urgent action.",
+        "Incorrect. Medication-related dryness needs review with the team but is not an immediate threat."
+      ],
+      "rationale": "Facial swelling with fever and difficulty swallowing suggests a spreading oral infection that can compromise the airway. It requires urgent assessment and reporting. The other findings need follow-up, such as technique teaching, dental cleaning, or medication review. Prioritize the finding with possible airway or systemic involvement.",
+      "takeaway": "Oral swelling with fever or swallowing difficulty is urgent because of airway and infection risk.",
+      "hintContent": "Look for systemic signs or airway involvement.",
+      "hintStrategy": "Use airway, breathing, and circulation to choose among findings that all need some follow-up.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-051",
+      "topic": "oral-health",
+      "type": "mcq",
+      "stem": "The parent of a 10-month-old says, “She falls asleep every night with a bottle of milk.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Milk is safe overnight because it has no added sugar.”",
+        "“Juice in the bottle would be better because it is easier to digest.”",
+        "“Baby teeth will be replaced later, so the bottle habit is not a real concern.”",
+        "“Milk pooling on the teeth during sleep increases the risk of decay.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Milk contains natural sugars that bacteria use to produce acid during prolonged contact.",
+        "Incorrect. Juice is a sweetened liquid that also increases caries risk.",
+        "Incorrect. Primary teeth support chewing, speech, and alignment and need protection.",
+        "Correct. Prolonged exposure to milk, formula, or sweetened liquids during sleep increases caries risk."
+      ],
+      "rationale": "Falling asleep with a bottle of milk, formula, or sweetened liquid exposes teeth to sugars for long periods. Plaque bacteria use these sugars to produce acids that damage enamel. Primary teeth are important for chewing, speech, and alignment, so they need protection. The nurse should also confirm that the child has a dental home, which is recommended by the first birthday.",
+      "takeaway": "Avoid putting a child to sleep with a bottle of milk, formula, or sweet liquid; primary teeth matter.",
+      "hintContent": "Consider how long the teeth are exposed to sugars during sleep.",
+      "hintStrategy": "Eliminate options that dismiss primary teeth or substitute another sweetened liquid.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58 · AAPD clinical clarification in guide",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-052",
+      "topic": "oral-health",
+      "type": "sata",
+      "stem": "An older adult with hand stiffness was given an adapted toothbrush 1 week ago. Which findings indicate that the client’s oral-care goal is being met? Select all that apply.",
+      "options": [
+        "The client uses the adapted brush to clean all tooth surfaces independently.",
+        "The care plan documents that the adapted brush was delivered.",
+        "The client reports that chewing is more comfortable at meals.",
+        "The oral mucosa appears moist and free of debris after care.",
+        "The client states the nurse discussed mouth care yesterday.",
+        "A dental referral was placed, but the date of the appointment has not yet been confirmed."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Independent, effective use of the brush is an observable outcome.",
+        "Incorrect. Delivering equipment is an intervention, not evidence that the need is met.",
+        "Correct. Improved comfort during eating is a functional outcome.",
+        "Correct. Moist, clean mucosa is an objective finding that care is effective.",
+        "Incorrect. Receiving teaching does not show the client can perform care.",
+        "Incorrect. A referral placed is an action; it does not confirm that care was accessible or received."
+      ],
+      "rationale": "Evaluation looks for evidence that the client’s condition or function changed, not just that the nurse acted. Independent effective brushing, improved chewing comfort, and moist, clean mucosa are outcomes. Delivering equipment, discussing care, and placing a referral are interventions. If outcomes are not met, the nurse reassesses barriers and revises the plan.",
+      "takeaway": "An intervention delivered is not an outcome; look for changes in performance, comfort, or tissue condition.",
+      "hintContent": "Ask whether each option describes what the nurse did or what changed for the client.",
+      "hintStrategy": "Select findings the nurse could observe or the client could report as a result of care.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58",
+      "alsoTests": [
+        "promotion-change"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+    },
+    {
+      "id": "m7-u6-053",
+      "topic": "oral-health",
+      "type": "mcq",
+      "stem": "A client with full dentures reports gum soreness. The nurse notes a red, tender area on the gum beneath the upper denture. Which action should the nurse take first?",
+      "options": [
+        "Reinsert the cleaned denture and recheck the area tomorrow.",
+        "Apply extra adhesive to stabilize the denture before meals.",
+        "Inspect the area, assess the denture fit, and report the findings.",
+        "Advise leaving the denture in overnight to adjust to its fit."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reinserting the denture without assessment may continue pressure on irritated tissue.",
+        "Incorrect. Adhesive may hide a fit problem and does not address the tissue injury.",
+        "Correct. Assessing the tissue and fit identifies a likely pressure source and supports referral for adjustment.",
+        "Incorrect. Overnight wear increases pressure on the tissue and is not recommended routinely."
+      ],
+      "rationale": "A red, tender area under a denture suggests pressure or poor fit. The nurse should first inspect the tissue, assess fit and condition of the denture, and report findings for dental evaluation. Dentures should be removed for cleaning and to let tissues rest, not worn continuously. A sore that persists needs evaluation even after comfort measures.",
+      "takeaway": "Inspect tissues under dentures and assess fit; soreness is a cue, not something to cover with adhesive.",
+      "hintContent": "Think about what is likely causing the sore area.",
+      "hintStrategy": "Choose assessment of the cause over actions that mask the problem.",
+      "ref": "Module 7 · Exemplar 7.B Oral Health · slides 50–58",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-054",
+      "topic": "sleep-rest",
+      "type": "mcq",
+      "stem": "A 78-year-old client says, “I guess old people just don’t need much sleep.” The client’s partner reports loud snoring and pauses in breathing at night, and the client falls asleep in a chair most afternoons. Which response by the nurse is most appropriate?",
+      "options": [
+        "“Needing very little sleep is a normal change, so no follow-up is needed.”",
+        "“A long afternoon nap each day will make up for lost nighttime sleep.”",
+        "“The breathing pauses and daytime sleepiness need further evaluation.”",
+        "“A small glass of wine at bedtime can help you stay asleep longer.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Older adults still need restorative sleep; this normalizes concerning symptoms.",
+        "Incorrect. Napping does not address the possible cause of fragmented sleep.",
+        "Correct. Witnessed breathing pauses with daytime sleepiness warrant follow-up and evaluation.",
+        "Incorrect. Alcohol may cause drowsiness at first but disrupts later sleep and can worsen breathing during sleep."
+      ],
+      "rationale": "Older adults often have lighter, more fragmented sleep and wake earlier, but they still need restorative sleep. Loud snoring, witnessed breathing pauses, and marked daytime sleepiness are cues that require evaluation rather than reassurance. The nurse should not diagnose from one symptom but should report the findings for further assessment. Alcohol is not a sleep aid because it disrupts sleep later in the night.",
+      "takeaway": "Breathing pauses with daytime sleepiness need evaluation; do not attribute them to normal aging.",
+      "hintContent": "Separate expected age-related sleep changes from findings that suggest a problem.",
+      "hintStrategy": "Eliminate options that normalize symptoms or recommend alcohol.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-055",
+      "topic": "sleep-rest",
+      "type": "mcq",
+      "stem": "A hospitalized client who works night shift is awake at 0200 watching television. The previous note says, “Client noncompliant with sleep schedule.” Which action by the nurse is best?",
+      "options": [
+        "Request a sleep medication to shift the client to a daytime pattern.",
+        "Turn off the television and instruct the client to stay in bed.",
+        "Document the behavior and reinforce the unit’s quiet-hour policy with the client.",
+        "Ask about the client’s usual sleep schedule and adjust care where feasible."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Medication is not the first response, and the client’s usual pattern has not been assessed.",
+        "Incorrect. Enforcing rest ignores the client’s circadian pattern and is unlikely to produce sleep.",
+        "Incorrect. Documentation without assessment repeats the judgment rather than identifying the cause.",
+        "Correct. A night-shift worker’s circadian rhythm may be shifted; assessing it guides realistic adjustments with the team."
+      ],
+      "rationale": "A person who works nights may have a circadian rhythm aligned with daytime sleep. Being awake at 0200 may reflect that usual pattern rather than resistance. The nurse should assess the home schedule and collaborate on feasible adjustments while maintaining essential care. Labeling the behavior or requesting sedation skips assessment of the cause.",
+      "takeaway": "Assess the client’s usual sleep-wake pattern before labeling a hospital sleep problem as noncompliance.",
+      "hintContent": "Consider what is normal for this client outside the hospital.",
+      "hintStrategy": "Choose the option that assesses the cause rather than enforcing a routine or sedating.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [
+        "wellness-context"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-056",
+      "topic": "sleep-rest",
+      "type": "sata",
+      "stem": "A client reports poor sleep for the past 3 weeks. Which questions will help the nurse assess the sleep pattern? Select all that apply.",
+      "options": [
+        "“Is it harder to fall asleep, stay asleep, or are you waking too early?”",
+        "“How much caffeine, nicotine, or alcohol do you use, and when?”",
+        "“Which sleeping pill would you like the provider to order?”",
+        "“How alert do you feel, and how are you managing during the day?”",
+        "“Have pain, worry, or needing to urinate been waking you?”",
+        "“Since you are in bed 8 hours, would you agree that is enough sleep?”"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Distinguishing onset, maintenance, and early waking describes the pattern.",
+        "Correct. Stimulants and alcohol affect sleep onset and continuity.",
+        "Incorrect. This assumes medication is the solution before the pattern and causes are assessed.",
+        "Correct. Daytime function shows the effect of poor sleep on the client.",
+        "Correct. Pain, anxiety, and nocturia are common causes of awakening.",
+        "Incorrect. This leading question assumes time in bed equals sleep and discourages accurate reporting."
+      ],
+      "rationale": "A sleep assessment distinguishes difficulty falling asleep from frequent or early waking and unrefreshing sleep. The nurse asks about substances, symptoms such as pain or nocturia, worries, and daytime function. Time in bed is not the same as time asleep. Medication choice comes only after the pattern and causes are understood.",
+      "takeaway": "Assess onset, continuity, contributing causes, and daytime function before choosing interventions.",
+      "hintContent": "Which questions gather information instead of assuming an answer?",
+      "hintStrategy": "Eliminate leading questions and questions that jump to treatment.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+    },
+    {
+      "id": "m7-u6-057",
+      "topic": "sleep-rest",
+      "type": "mcq",
+      "stem": "A postoperative client who was alert and oriented yesterday is newly confused and restless at 2300. The UAP says, “He just hasn’t been sleeping well.” Which action should the nurse take first?",
+      "options": [
+        "Assess vital signs, oxygen saturation, pain, and recent medications.",
+        "Dim the lights and offer calming music to promote sleep.",
+        "Request a sleep aid so the client can rest through the night.",
+        "Document a sleep disturbance and reassess at morning rounds."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. New confusion requires assessment for underlying causes such as hypoxia, pain, infection, or medication effects.",
+        "Incorrect. Sleep-promoting measures may help later but do not address a possible physiological cause.",
+        "Incorrect. A sedative could worsen confusion or mask a serious cause.",
+        "Incorrect. Waiting until morning delays assessment of an acute change in mental status."
+      ],
+      "rationale": "Poor sleep can contribute to confusion, but a new change in mental status must be assessed before it is attributed to sleep loss. Hypoxia, pain, infection, and medication effects are possible causes in a postoperative client. Vital signs, oxygen saturation, pain, and medication review guide the next steps and reporting. Sleep-promoting measures follow once urgent causes are addressed.",
+      "takeaway": "New confusion is a red flag; assess for physiological causes before attributing it to poor sleep.",
+      "hintContent": "Ask whether the change could have a cause more urgent than lost sleep.",
+      "hintStrategy": "For an acute change, choose physiological assessment before comfort measures, medication, or documentation.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [
+        "wellness-context"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m7-u6-058",
+      "topic": "sleep-rest",
+      "type": "mcq",
+      "stem": "The parent of a 15-year-old asks why the teen cannot fall asleep before midnight and is hard to wake for school. Which explanation by the nurse is most accurate?",
+      "options": [
+        "“Teens need less sleep than younger children, so late bedtimes are expected at this age.”",
+        "“Teens tend to shift toward later sleep timing but still need plenty of sleep.”",
+        "“Difficulty waking means the teen is spending too much time in deep sleep.”",
+        "“Late sleep timing in teens is caused by their bodies not making melatonin.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Adolescents still need substantial sleep; late bedtimes with early school start can cause sleep loss.",
+        "Correct. Adolescents normally shift toward later sleep timing while still needing substantial sleep.",
+        "Incorrect. Difficulty waking more likely reflects insufficient sleep and timing, not excess deep sleep.",
+        "Incorrect. Teens produce melatonin; the timing of release shifts later, not stops."
+      ],
+      "rationale": "Adolescents normally develop a later circadian sleep timing. They still need substantial sleep, so a late bedtime combined with an early school start can cause chronic sleep loss. The nurse can assess screens, caffeine, homework, and schedule and help the family build a consistent routine. Daytime function, including school performance and alertness, should be evaluated.",
+      "takeaway": "Teens shift toward later sleep timing but still need substantial sleep; assess schedule, screens, and caffeine.",
+      "hintContent": "Recall how circadian timing changes during adolescence.",
+      "hintStrategy": "Eliminate options that reduce sleep needs or overstate a single cause.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m7-u6-059",
+      "topic": "sleep-rest",
+      "type": "sata",
+      "stem": "A nurse implemented a sleep plan for a hospitalized client who had been waking frequently. Which findings indicate the plan is effective? Select all that apply.",
+      "options": [
+        "The client reports waking twice last night compared with six times the night before.",
+        "The room lights were dimmed at 2200.",
+        "The client stays alert and engaged during morning discharge teaching.",
+        "The client reports feeling more rested on waking.",
+        "The client remained in bed without calling for assistance from 2200 until 0600.",
+        "Nonurgent care was clustered between 2200 and 0600."
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Fewer awakenings compared with baseline show improved sleep continuity.",
+        "Incorrect. Dimming lights is an intervention, not an outcome.",
+        "Correct. Improved daytime alertness reflects more restorative sleep.",
+        "Correct. Feeling more rested reflects improved sleep quality.",
+        "Incorrect. Staying in bed does not show the client actually slept or felt rested.",
+        "Incorrect. Clustering care is an intervention, not evidence that sleep improved."
+      ],
+      "rationale": "Evaluation compares the client’s response with the baseline and the goal. Fewer awakenings, better daytime alertness, and feeling more rested are outcomes that show improved sleep. Dimming lights and clustering care are interventions the nurse performed. Time in bed does not prove sleep or restoration.",
+      "takeaway": "Evaluate sleep by continuity, restfulness, and daytime function, not by the interventions done.",
+      "hintContent": "Ask whether each option describes the client’s response or the nurse’s action.",
+      "hintStrategy": "Select findings that show change from baseline in sleep or daytime function.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+    },
+    {
+      "id": "m7-u6-060",
+      "topic": "sleep-rest",
+      "type": "mcq",
+      "stem": "A client keeps dozing during morning teaching about a new insulin routine. The client was awake much of the night with incisional pain. Which action should the nurse take first?",
+      "options": [
+        "Document that the client is uninterested and reschedule teaching for tomorrow.",
+        "Continue teaching and leave written materials for the client to review later.",
+        "Request a sleep medication for tonight so teaching can be completed tomorrow.",
+        "Assess the client’s current pain and how much the client slept last night."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Labeling the client uninterested ignores the identified cause of drowsiness.",
+        "Incorrect. A sleep-deprived client is unlikely to learn effectively, and written material does not verify learning.",
+        "Incorrect. Medication does not address untreated pain and is not the first response.",
+        "Correct. Pain and sleep loss are reducing alertness; assessing and addressing them comes before effective teaching."
+      ],
+      "rationale": "Sleep loss reduces attention, memory, and ability to learn, so teaching is unlikely to succeed while the client is exhausted. The cue that pain kept the client awake points to a cause the nurse can assess and address. After pain is managed and the client is more alert, essential teaching can be rescheduled and verified with teach-back. Labeling the client as uninterested misreads the situation.",
+      "takeaway": "Assess and address pain and sleep loss before judging a client’s participation in teaching.",
+      "hintContent": "Identify what is reducing the client’s ability to learn.",
+      "hintStrategy": "When a cause is suggested in the stem, assess it first rather than documenting or sedating.",
+      "ref": "Module 7 · Exemplar 7.C Normal Sleep-Rest Patterns · slides 59–68",
+      "alsoTests": [
+        "promotion-change"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "priority": true
     }
   ]
 });

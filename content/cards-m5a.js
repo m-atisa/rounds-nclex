@@ -82,7 +82,7 @@ window.NURSE_DATA.push({
   },
   {
    "front": "IVP: two key nursing checks",
-   "back": "Uses IV contrast. <strong>Stop metformin 48 hours before</strong> in diabetic clients, and <strong>check for iodine/shellfish allergies</strong>.",
+   "back": "Uses IV contrast. <strong>Hold metformin</strong> in diabetic clients (at or before the study and for <strong>48 hours after</strong>, until renal function is rechecked), and <strong>check for prior contrast reactions and iodine/shellfish allergies</strong>.",
    "topic": "urinary-assessment-diagnostics"
   },
   {
@@ -137,12 +137,12 @@ window.NURSE_DATA.push({
   },
   {
    "front": "Pyridium (phenazopyridine)",
-   "back": "<strong>Urinary analgesic</strong> — treats pain. <strong>Discolors urine</strong> (orange/red) and is <strong>slightly sedating</strong>.",
+   "back": "<strong>Urinary analgesic</strong> — treats pain. <strong>Discolors urine</strong> (orange/red) and can <strong>stain contact lenses and clothing</strong>. Short-term use only; it does not treat the infection.",
    "topic": "urinary-interventions-pharm"
   },
   {
    "front": "Myrbetriq (mirabegron)",
-   "back": "Listed as a <strong>urinary antispasmodic</strong> — treats bladder spasms. <strong>Significant side effects</strong> (can raise BP).",
+   "back": "<strong>Beta-3 adrenergic agonist</strong> (grouped with urinary antispasmodics) — relaxes the detrusor to treat overactive bladder and spasms. <strong>Significant side effects</strong> (can raise BP).",
    "topic": "urinary-interventions-pharm"
   },
   {

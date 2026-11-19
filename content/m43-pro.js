@@ -1,0 +1,1579 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m43",
+  "moduleNumber": 43,
+  "moduleTitle": "Advocacy",
+  "tagline": "Protect the choice. Speak for the silent. Fix the system.",
+  "overview": "Module 43 covers the nurse as advocate: ethical mandates, Bu and Jezewski’s three attributes, culture and autonomy, empowerment, informed consent, vulnerable populations, and a preview of Exemplar 43.A Environmental Quality. It also covers the nurse’s duty to report unsafe or unprofessional conduct through the chain of command, including impairment, boundary violations, rights abuses, and social media privacy breaches.",
+  "topics": [
+    {
+      "id": "advocate-role",
+      "title": "The Nurse-Advocate: Ethics, Core Attributes, Autonomy & Social Justice",
+      "exemplar": "43.A Environmental Quality (preview)"
+    },
+    {
+      "id": "advocacy-interventions",
+      "title": "Advocacy Interventions: Empowerment, Informed Consent & Vulnerable Populations",
+      "exemplar": null
+    },
+    {
+      "id": "reporting-unprofessional",
+      "title": "Reporting Unprofessional Actions: Chain of Command, Impairment, Boundaries & Social Media",
+      "exemplar": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Define advocacy",
+      "back": "The act or process of supporting, defending, or assisting in another’s cause; an ethical mandate in the ANA Code (Provision 3) and the ICN Code, practiced from the bedside to public policy.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "What are Bu and Jezewski’s three core attributes of advocacy?",
+      "back": "Safeguarding patients’ autonomy and acting on behalf of patients (microsocial), and championing social justice in health care (macrosocial).",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "What two assumptions underlie safeguarding autonomy?",
+      "back": "The client holds primary responsibility for their own health and decisions, and the client is legally competent to make health care decisions.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "When does the nurse act on behalf of the client rather than safeguard the client’s own decision?",
+      "back": "When the client cannot act or chooses not to: anesthesia or sedation, unconsciousness, advanced dementia, legal incompetence, or minor status.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "Morals vs ethics?",
+      "back": "Morals are personal beliefs about right and wrong; ethics are formal professional codes. At work, professional ethics guide the nurse’s behavior.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "A capable client chooses against medical advice. What should the nurse do?",
+      "back": "Confirm understanding, stay objective (no approval or disapproval), mediate further discussion if wanted, notify the provider, respect the choice, and document.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "A Hmong client’s son insists he makes all medical decisions. What does the nurse do?",
+      "back": "Ask the client privately, with a qualified interpreter, how she wants decisions made; if she chooses her son, honor that as her autonomous choice.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "Microsocial or macrosocial: lobbying for rural interpreter funding?",
+      "back": "Macrosocial — championing social justice at the policy level.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "Why is environmental quality (Exemplar 43.A) an advocacy issue?",
+      "back": "Hazards such as lead, air pollution, contaminated water, and poor housing cluster in disadvantaged communities; nurses assess exposures and advocate for public-health and policy fixes.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "What does a balanced advocate do when a request cannot be met?",
+      "back": "Explains the reason in plain language, explores the need behind it, seeks alternatives, and manages personal frustration to prevent burnout.",
+      "topic": "advocate-role"
+    },
+    {
+      "front": "What are the three conditions of valid informed consent?",
+      "back": "Capacity, information (nature, risks, benefits, alternatives), and voluntariness.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Who obtains informed consent, and what does the nurse’s witness signature mean?",
+      "back": "The provider performing the procedure obtains it. The nurse’s signature attests the signature is the client’s and the client appeared capable and voluntary.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "A client received an opioid and is drowsy when the physician arrives for elective consent. What does the nurse do?",
+      "back": "Inform the physician; together decide to wait until the drug wears off and repeat the discussion (or involve a designated surrogate only if the procedure cannot wait); document objectively.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "An incapacitated client has no health care agent or guardian on record. What does the nurse do?",
+      "back": "Notify the provider and social services so the lawful surrogate can be identified; the nurse never serves as surrogate for a client in their care.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Define patient empowerment and name the EMPATHIE aspects",
+      "back": "A relational, patient-centered partnership replacing paternalism; aspects are self-efficacy, self-awareness, confidence, coping skills, and health literacy.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Define interprofessionality",
+      "back": "Professionals continuously interacting and sharing knowledge to provide an integrated, cohesive answer to client needs and optimize client participation.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "What does the Patient Self-Determination Act require?",
+      "back": "Facilities receiving Medicare/Medicaid funds must inform clients of decision-making rights and advance directive policies and document whether a directive exists, without requiring one or discriminating.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "NAMI vs a protection and advocacy (PAIMI) agency?",
+      "back": "NAMI provides support, education, and advocacy for people and families affected by mental illness; PAIMI agencies investigate abuse and neglect and protect legal rights.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Who are dual-eligible clients and why do they need extra advocacy?",
+      "back": "Clients enrolled in both Medicare and Medicaid; they are among the sickest and poorest, with high rates of diabetes, lung disease, stroke, mental illness, and Alzheimer disease.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Which research subjects receive added federal protections?",
+      "back": "Pregnant women, fetuses, and neonates; children; and prisoners.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Can a calm psychiatric inpatient refuse medication?",
+      "back": "Yes. Medication cannot be forced except in an emergency, and the client may not be punished or lose privileges for refusing.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "Lois Potter is about to leave with a new miglitol prescription and digoxin. First step?",
+      "back": "Assess her understanding of miglitol (first bite of each main meal, GI effects, digoxin interaction) and arrange transport timing so she is not rushed out unsafely.",
+      "topic": "advocacy-interventions"
+    },
+    {
+      "front": "What is the first step in the chain of command when reporting unsafe conduct?",
+      "back": "Notify your direct supervisor (the person you report to), who provides backup and assists with reporting; go one level higher if that person is involved.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "What causes of impairment must a nurse report?",
+      "back": "Legal, illegal, prescription, or over-the-counter substances, and extreme emotional distress (such as working right after a close family member’s death).",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "Does a nurse need proof before reporting a colleague’s suspected impairment?",
+      "back": "No. Report suspicion immediately to a supervisor; do not investigate on your own.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "Define boundary violation",
+      "back": "Conduct that crosses professional limits to serve the nurse or exploit the client, such as an inappropriate relationship or coercing or restraining a client for staff benefit; it must be reported.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "Boundary crossing vs boundary violation?",
+      "back": "A crossing is brief, purposeful, and serves the client; a violation serves the nurse’s needs, is often secret or repeated, and harms or exploits the client.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "Is a client post without the client’s name acceptable on social media?",
+      "back": "No. Any detail that could identify the client (room, condition, date, image) makes it a privacy breach, intentional or not.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "A tech restrained a client for refusing to share his cigarettes. Which rights were violated?",
+      "back": "Control of possessions, freedom from restraint except in an emergency, and freedom from abuse and coercion; report to the supervisor and protective agencies.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "You see an aide restraining a client with a sheet for convenience. First action?",
+      "back": "Stop the harm: remove the restraint and assess the client, then report to the supervisor and document objectively.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "Which conduct issues go to the board of nursing, not only the employer?",
+      "back": "Drug diversion, impairment on duty, fraud, boundary or sexual misconduct, and confidentiality breaches.",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "Just Culture: human error vs at-risk vs reckless behavior?",
+      "back": "Human error = inadvertent slip (console, fix system); at-risk = rationalized drift from safe practice (coach); reckless = conscious disregard of substantial risk (discipline).",
+      "topic": "reporting-unprofessional"
+    },
+    {
+      "front": "A friend asks the nurse to be her health care decision-maker. Best advice?",
+      "back": "Encourage her to consult an attorney and execute a durable power of attorney for health care and a living will naming a trusted non-nurse advocate.",
+      "topic": "reporting-unprofessional"
+    }
+  ],
+  "questions": [
+    {
+      "id": "m43-pro-001",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A 66-year-old client with metastatic lung cancer, alert and oriented, tells the nurse, “I’ve decided to stop chemotherapy. The oncologist explained what could happen, and I understand.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“You still have a good chance. Let’s talk with the oncologist before you give up.”",
+        "“Your family will be very upset. Have you told them about this yet?”",
+        "“I agree. Chemotherapy would make me miserable too, so I understand.”",
+        "“It sounds like you have thought this through. What matters most to you now?”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This conveys disapproval and frames the informed decision as giving up, which pressures the client rather than respecting autonomy.",
+        "Incorrect. Invoking the family’s reaction is a subtle form of pressure and implies the family’s view should shape a capable client’s choice.",
+        "Incorrect. Agreeing conveys personal approval and shifts focus to the nurse’s feelings; objectivity means neither approving nor disapproving.",
+        "Correct. It acknowledges an informed, capable choice without judgment and opens discussion of the client’s goals, which supports advocacy and care planning."
+      ],
+      "rationale": "Safeguarding autonomy means supporting the informed decision of a capable client. The nurse remains objective — conveying neither approval nor disapproval — while staying engaged and exploring the client’s goals. The option agreeing with the client feels supportive but injects the nurse’s personal values, which is the same error in the opposite direction as discouraging the client. Exploring what matters most also guides next steps such as palliative care referral.",
+      "takeaway": "When a capable client makes an informed choice, respond with open, nonjudgmental exploration — not approval, disapproval, or pressure.",
+      "hintContent": "The client is alert, oriented, and states understanding of the risks — what does that tell you about who decides?",
+      "hintStrategy": "In therapeutic communication items, eliminate options that argue, agree, or redirect to someone else’s feelings; choose the open-ended response focused on the client.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m43-pro-002",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse in a rural hospital notices that many clients readmitted this year live in a county with no primary care clinic and no public transportation. Which nursing action best demonstrates championing social justice in health care?",
+      "options": [
+        "Testifying before the county board for funding of a mobile health clinic",
+        "Helping a client complete an advance directive before surgery",
+        "Stating a sedated client’s known wishes to the surgical team",
+        "Explaining a new diagnosis in plain language to a client with low literacy"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Advocating for funding to reduce access barriers for a population is macrosocial action aimed at eliminating disparities.",
+        "Incorrect. Helping one client document wishes safeguards that client’s autonomy at the microsocial level.",
+        "Incorrect. Voicing a sedated client’s wishes is acting on behalf of the client, a microsocial attribute.",
+        "Incorrect. Tailoring information to health literacy supports one client’s autonomy at the microsocial level."
+      ],
+      "rationale": "Bu and Jezewski’s third attribute, championing social justice, operates at the macrosocial level — organizations, communities, and policy — to eliminate disparities. The stem describes a pattern (many clients, one county, no clinic, no transportation), which signals a system-level access barrier; testifying for mobile clinic funding targets that barrier for the whole population. The other three actions are valuable advocacy but focus on a single client, so they reflect safeguarding autonomy or acting on behalf of the client.",
+      "takeaway": "Social justice advocacy targets systems and policy; safeguarding autonomy and acting on behalf target one client.",
+      "hintContent": "The stem describes a pattern across many clients. Which option changes conditions for the whole county rather than helping one client?",
+      "hintStrategy": "For classification items, identify the level (individual vs system) first; the one option that differs in level is often the answer.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-003",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": true,
+      "stem": "An unconscious adult client is brought to the emergency department after a motor vehicle crash. While inventorying belongings, the nurse finds a signed, dated card stating the client is a Jehovah’s Witness and refuses blood transfusion. The surgeon has just ordered 2 units of packed red blood cells. What should the nurse do first?",
+      "options": [
+        "Begin the transfusion because emergency implied consent applies",
+        "Ask the client’s coworker in the waiting room what the client would want",
+        "Inform the surgeon immediately of the client’s written refusal",
+        "Contact the ethics committee and hold all treatment until it meets"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Implied consent applies when wishes are unknown; here the client’s refusal is documented and must be brought forward before proceeding.",
+        "Incorrect. A coworker is not a legal surrogate, and the client’s own written wishes are better evidence than a coworker’s opinion.",
+        "Correct. Acting on behalf of an incapacitated client means representing known wishes to the team immediately so the prescriber can reconsider the order.",
+        "Incorrect. Holding all treatment is unsafe; fluids, surgery, and other non-refused life-saving measures continue, and waiting for an ethics review delays the immediate step of telling the surgeon about the documented refusal."
+      ],
+      "rationale": "When a client cannot speak, the nurse acts on the client’s behalf by representing documented wishes. The first action is to tell the surgeon about the written refusal so the order can be reconsidered and alternatives (volume expanders, cell-saver if acceptable, hemostatic measures) used. Implied consent is tempting but applies only when the client’s wishes are unknown. Holding all care would abandon the client; only the refused treatment is withheld.",
+      "takeaway": "A known refusal travels with the incapacitated client — the nurse brings it to the prescriber before the treatment is given.",
+      "hintContent": "Implied consent applies when wishes are unknown. Are they unknown here?",
+      "hintStrategy": "For “first” items, choose the action that prevents the irreversible harm (giving the refused treatment) while keeping other care going.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [
+        "advocacy-interventions"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-004",
+      "topic": "advocate-role",
+      "type": "sata",
+      "stem": "A nurse is caring for a competent adult client being evaluated for cardiac surgery. Which actions by the nurse demonstrate safeguarding the client’s autonomy? Select all that apply.",
+      "options": [
+        "Asking the client’s spouse to make the decision because the client is anxious",
+        "Encouraging the client to share and document goals, values, and preferences",
+        "Withholding the mortality risk so the client does not lose hope",
+        "Supporting the client’s preference even though it differs from one cardiologist’s view",
+        "Giving timely information matched to the client’s health literacy level"
+      ],
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Anxiety does not remove capacity; shifting the decision to the spouse overrides a competent client.",
+        "Correct. Eliciting and documenting values and preferences is a core safeguarding-autonomy action.",
+        "Incorrect. Withholding material risk information is paternalistic and prevents an informed choice.",
+        "Correct. The nurse supports the client’s values even when they conflict with an individual provider’s recommendation.",
+        "Correct. Sufficient, timely, literacy-matched information is required for a self-determined choice."
+      ],
+      "rationale": "Safeguarding autonomy, a microsocial attribute, assumes a competent client who is responsible for their own decisions. The nurse elicits and documents values, provides adequate information at the right literacy level, and supports the client’s values even when an individual provider disagrees. Transferring the decision to the spouse or withholding risks are paternalistic acts that undermine self-determination, even when well meant.",
+      "takeaway": "Autonomy is protected by information, documentation of values, and support — not by protecting the client from information or from the decision.",
+      "hintContent": "The client is competent. Which options keep the decision with the client and make it an informed one?",
+      "hintStrategy": "In SATA, test each option independently against one rule: does it keep an informed decision with the capable client?",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-005",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse educator is evaluating new nurses’ understanding of the advocate role. Which statement by a new nurse indicates a need for further teaching?",
+      "options": [
+        "“If a choice conflicts with my beliefs, I share my view so the client has all the facts.”",
+        "“I can respect a client’s choice without saying whether I personally approve of it.”",
+        "“If a client’s request can’t be met, I explain the reason in plain language.”",
+        "“Managing my own frustration when outcomes disappoint helps me avoid burnout.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A nurse’s personal opinion is not a fact; sharing it to influence a choice violates objectivity and needs correction.",
+        "Incorrect. Respecting a choice without conveying approval or disapproval is the expected objective stance.",
+        "Incorrect. Explaining limitations in plain language is what a balanced advocate does, so this statement is accurate.",
+        "Incorrect. Managing one’s own emotional responses is described as a way to prevent frustration and burnout."
+      ],
+      "rationale": "Skilled advocates remain objective when an informed client’s decision conflicts with the provider’s recommendation or the nurse’s personal beliefs. Offering personal opinions to sway the client imposes the nurse’s morals and undermines autonomy. The other statements reflect the balanced approach: explain limits in plain language, avoid conveying approval or disapproval, and manage one’s own emotions to prevent burnout.",
+      "takeaway": "Personal beliefs are not clinical facts; an objective advocate informs without steering.",
+      "hintContent": "Distinguish clinical information the client needs from the nurse’s personal values.",
+      "hintStrategy": "In “needs further teaching” items, you are looking for the one incorrect statement; read each as true or false.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-006",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 72-year-old Hmong client with limited English proficiency is admitted with a new mass on imaging. Her adult son tells the nurse, “In our family, I make the medical decisions. Tell me the results, not her.” What should the nurse do first?",
+      "options": [
+        "Ask the client privately, through a qualified interpreter, who she wants involved",
+        "Give the results to the son because family decision-making is the cultural norm",
+        "Tell the son that U.S. law requires the client to decide everything herself",
+        "Ask the son to interpret so the client hears the plan from family"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Respecting culture and autonomy together means asking the client how she wants decisions made, using a qualified interpreter, before sharing information.",
+        "Incorrect. The nurse cannot assume the son speaks for the client; the client’s own preference determines who receives information.",
+        "Incorrect. A capable client may choose to delegate decisions to family; this response is inaccurate and dismisses the family’s tradition.",
+        "Incorrect. A family member should not interpret clinical information; omissions and filtering are likely, and it bypasses the client’s preference."
+      ],
+      "rationale": "Collectivist decision-making is common in Hmong families, and the nurse should respect it — but only as the client’s own choice. The first step is to ask the client privately, with a qualified medical interpreter, how much she wants to know and who should be involved. If she chooses her son, honoring that is itself respect for autonomy. Telling the son the client must decide alone is a tempting distractor, but it is inaccurate and culturally dismissive.",
+      "takeaway": "Ask the client, with a qualified interpreter, how she wants decisions made — then honor that choice.",
+      "hintContent": "A capable client can choose to delegate decisions. How does the nurse find out what this client chooses?",
+      "hintStrategy": "With cultural conflict items, the best answer usually assesses the client’s preference before acting on anyone else’s.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [
+        "advocacy-interventions"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m43-pro-007",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A school nurse identifies elevated blood lead levels in four children who live in the same older apartment complex. Which nursing action represents macrosocial advocacy?",
+      "options": [
+        "Teaching each family wet-cleaning methods to reduce lead dust",
+        "Reporting the cluster to public health and pressing for remediation",
+        "Referring each child to the primary care provider for follow-up testing",
+        "Giving each family a handout on iron- and calcium-rich foods to limit absorption"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Teaching individual families is important but is microsocial risk reduction.",
+        "Correct. Reporting the pattern and pressing for remediation targets the environmental source at the community level, which is macrosocial advocacy.",
+        "Incorrect. Individual referrals protect each child but do not address the shared source of exposure.",
+        "Incorrect. Nutrition teaching reduces lead absorption for individual children but does not change the hazard."
+      ],
+      "rationale": "Environmental quality is a social-justice issue because hazards such as lead in older housing cluster in disadvantaged communities. Teaching, referral, and nutrition counseling are appropriate microsocial actions for each child. Macrosocial advocacy addresses the shared source by reporting the cluster to public health and pressing for remediation, so future children are not exposed.",
+      "takeaway": "When many clients share an environmental exposure, advocacy must reach the source — public health and policy.",
+      "hintContent": "Which option would still help a family who moves into the complex next year?",
+      "hintStrategy": "When asked for the macrosocial action, pick the option aimed at the community or system, not individual clients.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-008",
+      "topic": "advocate-role",
+      "type": "sata",
+      "stem": "A client reports headaches, dizziness, and nausea for 3 weeks that improve when she is at work and worsen at home. The nurse is taking an environmental exposure history. Which questions are most relevant? Select all that apply.",
+      "options": [
+        "“Do other people or pets in your home have similar symptoms?”",
+        "“Do you have a working carbon monoxide detector?”",
+        "“How many servings of fruit do you eat each day?”",
+        "“Do you use a gas furnace, space heater, or generator at home?”",
+        "“Does anyone in your family have migraines?”"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Similar symptoms in others or pets sharing the environment strongly suggest a home exposure.",
+        "Correct. Detector status helps evaluate the risk of an unrecognized carbon monoxide exposure.",
+        "Incorrect. Diet is not an environmental exposure question and does not explain the home-related pattern.",
+        "Correct. Fuel-burning appliances are common sources of carbon monoxide, which fits symptoms that occur at home.",
+        "Incorrect. Family history of migraine is part of a general history but does not assess environmental exposure."
+      ],
+      "rationale": "Symptoms that improve away from home and worsen at home are a classic cue for an environmental source, with carbon monoxide a high-priority possibility. An exposure history (such as I PREPARE) asks about residence, fuel-burning sources, detectors, and whether others share symptoms. Diet and family migraine history are part of a broader assessment but do not explore the environmental pattern the stem highlights.",
+      "takeaway": "Symptoms that track with a location call for an environmental exposure history, especially for carbon monoxide.",
+      "hintContent": "What pattern in the timing of symptoms points toward the home itself?",
+      "hintStrategy": "Let the stem’s key cue (better at work, worse at home) filter every SATA option.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-009",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A client with advanced dementia has a living will declining artificial nutrition, and her daughter is her health care agent. The daughter agrees with the living will. A resident tells the nurse, “Let’s just schedule a feeding tube; it’s standard for weight loss.” Which action should the nurse take first?",
+      "options": [
+        "Share the living will and the agent’s decision with the attending provider",
+        "Ask the client whether she would like a feeding tube placed",
+        "Prepare the client for the procedure because the client lacks capacity",
+        "Ask the ethics committee to appoint a different decision-maker"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Acting on behalf of the client means making the documented directive and the agent’s decision known to the responsible provider before a conflicting treatment proceeds.",
+        "Incorrect. The client’s assent and comfort matter, but advanced dementia prevents her from making this decision; her prior directive speaks for her.",
+        "Incorrect. Lack of capacity is exactly why the directive and the agent govern; it does not authorize the team to proceed against them.",
+        "Incorrect. There is a valid agent who is following the client’s wishes; the ethics committee does not replace a legal agent."
+      ],
+      "rationale": "When a client cannot decide, the nurse represents the client’s documented values and ensures the legal representative is heard. The living will and the agent both decline artificial nutrition, so the nurse escalates to the attending provider before a tube is scheduled. Asking the client is tempting because it sounds autonomy-focused, but advanced dementia removes decision-making capacity for this choice. An ethics consult is for unresolved dilemmas, not for replacing a valid agent.",
+      "takeaway": "For an incapacitated client, the advance directive and the legal agent speak — the nurse makes sure the team hears them.",
+      "hintContent": "Which attribute applies when the client cannot make the decision, and what evidence of her wishes exists?",
+      "hintStrategy": "When a planned intervention conflicts with documented wishes, the first action is to communicate the conflict to the responsible provider.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [
+        "advocacy-interventions"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-010",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": false,
+      "stem": "Which client situation calls for the nurse to act on behalf of the client rather than safeguard the client’s own decision?",
+      "options": [
+        "An alert 80-year-old with mild hearing loss who declines physical therapy",
+        "A client with limited English who prefers her husband present for discussions",
+        "A client with schizophrenia, stable on medication, who refuses an influenza vaccine",
+        "A client in the postanesthesia unit still under the effects of general anesthesia"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Hearing loss is a communication need, not loss of capacity; the nurse ensures she hears the information and respects her choice.",
+        "Incorrect. Choosing to have a spouse present is an exercise of autonomy, and a qualified interpreter is still used.",
+        "Incorrect. A psychiatric diagnosis does not remove capacity; a stable client may refuse a vaccine.",
+        "Correct. Temporary incapacity under anesthesia is a classic situation in which the nurse represents the client’s known wishes."
+      ],
+      "rationale": "Acting on behalf of the client applies when the client is unable to act — sedation or anesthesia, unconsciousness, advanced dementia, legal incompetence, or minor status — or chooses not to. Hearing loss, limited English, and a stable psychiatric diagnosis are not incapacity; they call for accommodation, not substitution. The stable client with schizophrenia is the strongest distractor because students often equate mental illness with incompetence.",
+      "takeaway": "Diagnosis, age, or language does not remove capacity; temporary sedation or anesthesia does.",
+      "hintContent": "Which client cannot participate in decisions at this moment?",
+      "hintStrategy": "When options include diagnoses that carry stigma, check whether they truly affect present capacity before choosing them.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-011",
+      "topic": "advocate-role",
+      "type": "sata",
+      "stem": "A preceptor is observing a new nurse on a medical unit. Which actions by the new nurse demonstrate appropriate advocacy? Select all that apply.",
+      "options": [
+        "Promising a client that the insurer will approve an expensive brand-name drug",
+        "Remaining objective when a capable client declines a recommended colonoscopy",
+        "Bringing a pattern of missed follow-up appointments among uninsured clients to the unit practice council",
+        "Explaining in plain language why the client cannot be discharged until today’s blood culture results return",
+        "Continuing to argue with a client until he agrees to start insulin"
+      ],
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Incorrect. Promising an outcome the nurse cannot control sets up false expectations and is not honest advocacy.",
+        "Correct. Respecting a capable client’s informed refusal without conveying approval or disapproval is objective advocacy.",
+        "Correct. Raising a systemic access pattern with a practice council is macrosocial advocacy.",
+        "Correct. Explaining care limitations in plain language is a hallmark of the balanced advocate.",
+        "Incorrect. Persistent arguing is coercion and disregards autonomy."
+      ],
+      "rationale": "Balanced advocates recognize that not every request can be met and explain limitations in plain language; they stay objective when capable clients decide; and they act on systemic patterns at the organizational level. Arguing until the client complies is coercion, and promising coverage violates veracity and sets up disappointment. Advocacy is measured by informed, supported choices and fairer systems, not by getting every client what they ask for or what the team wants.",
+      "takeaway": "Advocacy is honest, objective, and system-aware — never coercive or built on promises the nurse cannot keep.",
+      "hintContent": "Look for honesty, objectivity, and system-level thinking.",
+      "hintStrategy": "Eliminate SATA options that pressure the client or promise outcomes; keep those that inform, respect, or fix systems.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-012",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 27-year-old client in a rural Appalachian clinic received only the first dose of the HPV vaccine series. When the nurse mentions the remaining doses, the client says, “If I’m meant to get cancer, I will anyway.” Which response should the nurse make first?",
+      "options": [
+        "“That way of thinking could put you at serious risk.”",
+        "“Tell me more about what you believe about cancer and this vaccine.”",
+        "“I’ll go ahead and give you the second dose today before you leave.”",
+        "“Your provider will want to talk with you about this; I’ll let her know now.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This is judgmental and likely to close the conversation instead of exploring the belief.",
+        "Correct. Exploring the client’s beliefs and barriers first allows culturally sensitive, tailored education and respects autonomy.",
+        "Incorrect. Giving the dose without informed consent ignores the client’s expressed hesitation.",
+        "Incorrect. Deferring to the provider avoids the nurse’s teaching role and leaves the belief unexplored."
+      ],
+      "rationale": "In Appalachia, fatalistic beliefs, low income, and access barriers contribute to lower HPV vaccine completion and higher cervical cancer rates. The nurse first assesses the client’s beliefs and barriers, then provides plain-language, culturally sensitive education and addresses access problems such as cost and travel. Referring to the provider sounds collaborative, but it skips the assessment and teaching the nurse can do now.",
+      "takeaway": "Explore cultural beliefs before teaching; you cannot tailor education to a belief you have not heard.",
+      "hintContent": "Assessment comes before intervention. Which option gathers information?",
+      "hintStrategy": "For “first” communication items, choose the open-ended exploratory response over judgments, actions, or referrals.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m43-pro-013",
+      "topic": "advocate-role",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse personally believes that withdrawing life support is morally wrong. The nurse is assigned to a client whose health care agent has decided, consistent with the client’s documented wishes, to withdraw mechanical ventilation today. Which action by the nurse is most appropriate?",
+      "options": [
+        "Tell the health care agent that the decision is morally wrong",
+        "Ask the charge nurse for reassignment and continue care until relieved",
+        "Delay preparations until the ethics committee reviews the decision",
+        "Provide care but limit time in the room during the withdrawal"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Sharing personal moral judgments with the family conveys disapproval and violates the objective advocate role.",
+        "Correct. A nurse with a conscientious objection may request reassignment through the chain of command but must not abandon the client before another nurse assumes care.",
+        "Incorrect. The agent’s decision follows the client’s documented wishes, so delaying it substitutes the nurse’s personal morals for the client’s choice; an ethics consult may help the nurse with moral distress but should not hold up the client’s care.",
+        "Incorrect. Limiting presence reduces comfort care at the end of life and amounts to partial abandonment."
+      ],
+      "rationale": "Morals are personal; professional ethics require the nurse to support the client’s documented wishes and the legal agent’s decision. When personal morals prevent the nurse from participating, the appropriate path is to request reassignment through the charge nurse — ideally as early as possible — continuing care until relieved so the client is never abandoned. Delaying for an ethics review sounds cautious, but it substitutes the nurse’s morals for the client’s documented choice; the ethics committee can support the nurse’s moral distress without delaying the client’s care.",
+      "takeaway": "A nurse may step back for conscience but must never block the client’s wishes or abandon the client.",
+      "hintContent": "Separate the nurse’s morals from the client’s rights. How can both be respected?",
+      "hintStrategy": "When the nurse’s beliefs conflict with care, choose the answer that protects the client’s wishes and uses the chain of command.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [
+        "reporting-unprofessional"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-014",
+      "topic": "advocate-role",
+      "type": "sata",
+      "stem": "A nurse wants to advocate for more school nurses in the county. Which actions are examples of professional and public advocacy? Select all that apply.",
+      "options": [
+        "Writing an opinion piece for the local newspaper",
+        "Running for a seat on the county school board",
+        "Posting a named student’s health history online to show the need",
+        "Joining the state nurses association’s legislative day to meet representatives",
+        "Refusing to care for uninsured clients to protest current policy"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Writing for the popular press is a recognized form of public advocacy.",
+        "Correct. Running for political office is a way nurses advocate at the policy level.",
+        "Incorrect. Disclosing a student’s health information violates privacy and professional standards regardless of the goal.",
+        "Correct. Lobbying legislators individually or through a professional association is professional advocacy.",
+        "Incorrect. Withholding care harms clients and violates the duty of care; it is not advocacy."
+      ],
+      "rationale": "Nurses advocate individually or through associations such as the ANA by speaking publicly, writing for the popular press, lobbying legislators, and running for office. Advocacy must still follow privacy law and the duty of care. Sharing identifiable health information or refusing care to make a point harms the very people advocacy is meant to protect.",
+      "takeaway": "Public advocacy uses voice, votes, and office — never a client’s privacy or care.",
+      "hintContent": "Which options influence policy without harming any client?",
+      "hintStrategy": "In SATA, eliminate any option that violates a core rule (privacy, duty of care) even if its goal sounds good.",
+      "ref": "Module 43 · Advocacy · Advocate Role · pp. 1–4, 6",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-015",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A client is scheduled for an elective hernia repair tomorrow morning. Twenty minutes ago the nurse administered oral oxycodone for incisional pain from a prior procedure. The surgeon arrives to obtain written consent, and the client is drowsy and loses track of the conversation. What should the nurse do first?",
+      "options": [
+        "Tell the surgeon about the recent opioid dose and the client’s drowsiness",
+        "Witness the client’s signature and document the drowsiness",
+        "Ask the client’s wife, who is at the bedside, to sign the consent",
+        "Review the procedure’s risks with the client once the surgeon leaves"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The nurse informs the surgeon so they can agree to wait until the opioid wears off and repeat the discussion, protecting valid consent without bypassing the surgeon.",
+        "Incorrect. The nurse’s signature attests that the client appeared capable; documenting drowsiness does not make the consent valid.",
+        "Incorrect. A surrogate decides only when the client lacks capacity and the decision cannot wait; this client will regain capacity well before an elective procedure tomorrow, so he should consent for himself.",
+        "Incorrect. Explaining surgical risks is the surgeon’s responsibility, and the drowsy client cannot process them now."
+      ],
+      "rationale": "Valid consent requires capacity, information, and voluntariness. A client who recently received an opioid and cannot concentrate lacks capacity at this moment. Because the surgery is elective and tomorrow, the nurse informs the surgeon and they decide together to wait until the effects wear off, then repeat the conversation and re-sign — documenting the facts objectively. Involving a family member is reserved for a designated or legally recognized surrogate when the client lacks capacity and the decision cannot wait.",
+      "takeaway": "Sedated client plus non-urgent consent equals inform the provider and wait — do not witness.",
+      "hintContent": "Is the procedure urgent, and will the client regain capacity soon?",
+      "hintStrategy": "In consent items, find the missing element (capacity, information, or voluntariness), then pick the action that involves the provider.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-016",
+      "topic": "advocacy-interventions",
+      "type": "sata",
+      "stem": "Before witnessing a client’s signature on a consent form for a laparoscopic cholecystectomy, the nurse makes several observations. Which findings require the nurse to notify the surgeon before the client signs? Select all that apply.",
+      "options": [
+        "The client’s hearing aids are in place, and she repeats information correctly",
+        "The client says, “My daughter told me I have to do this or she won’t help me at home.”",
+        "The client asks, “How big will the scars be, and will I need a drain?”",
+        "The client accurately describes the procedure, its main risks, and the alternatives",
+        "The client received IV lorazepam 20 minutes ago and is difficult to keep awake"
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. With hearing aids in place and accurate repetition, communication is adequate.",
+        "Correct. Pressure from a family member threatens voluntariness, which the surgeon must address before consent.",
+        "Correct. New questions about the procedure must be answered by the surgeon before consent is valid.",
+        "Incorrect. Accurate teach-back of procedure, risks, and alternatives shows the client is informed.",
+        "Correct. Recent sedation with difficulty staying awake means the client currently lacks capacity."
+      ],
+      "rationale": "The nurse witnessing consent verifies that the client is capable, informed, and acting voluntarily. Unanswered questions mean the client is not fully informed; a threat from family undermines voluntariness; and recent sedation removes capacity. Each requires the surgeon to address it before signing. Accurate teach-back and adequate hearing with aids are reassuring findings that support valid consent.",
+      "takeaway": "Any gap in capacity, information, or voluntariness pauses consent and goes back to the provider.",
+      "hintContent": "Sort each finding into capacity, information, or voluntariness — is anything missing?",
+      "hintStrategy": "For SATA consent items, check each option against CIV: Capacity, Informed, Voluntary.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [
+        "advocate-role"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-017",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A Spanish-speaking client with limited English proficiency needs to give consent for a cardiac catheterization. The client’s bilingual adult son offers to interpret, and a bilingual housekeeper is nearby. Which action should the nurse take first?",
+      "options": [
+        "Accept the son’s offer since he knows the client’s history",
+        "Ask the housekeeper to interpret because she has no personal stake",
+        "Request a qualified medical interpreter by phone, video, or in person",
+        "Proceed because the client nods and smiles during the explanation"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Family members may filter or misinterpret medical information and compromise confidentiality and voluntariness.",
+        "Incorrect. Untrained staff are not qualified to interpret medical terminology accurately for consent.",
+        "Correct. A qualified medical interpreter ensures accurate, complete information so the client can give truly informed consent.",
+        "Incorrect. Nodding and smiling do not confirm understanding and may reflect politeness or confusion."
+      ],
+      "rationale": "Informed consent requires that the client actually understands the information. Clients with limited English proficiency have the right to a qualified medical interpreter. Family members and untrained bilingual staff are common distractors; family may filter bad news or be unaware of terminology, and untrained staff may make errors. Nonverbal agreement is not evidence of comprehension.",
+      "takeaway": "Use a qualified medical interpreter for consent — not family, not untrained staff, not nods.",
+      "hintContent": "Who is trained to convey medical risks accurately and neutrally?",
+      "hintStrategy": "When options involve communication across languages, the professional interpreter is almost always the best answer.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [
+        "advocate-role"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-018",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client with advanced Alzheimer disease needs consent for a non-emergency colonoscopy after an episode of rectal bleeding that has stopped. The record shows no health care power of attorney or guardian, and no family has been located. Which action by the nurse is most appropriate?",
+      "options": [
+        "Sign the consent as the client’s advocate because the nurse knows the client best",
+        "Notify the provider and social services that no legal surrogate is identified",
+        "Proceed using implied consent because the client cannot decide",
+        "Ask the client’s roommate, a close friend, to sign the form"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The nurse caring for the client may not serve as surrogate; it is a conflict of interest with legal consequences.",
+        "Correct. When an incapacitated client has no documented surrogate, the nurse contacts the provider and social services so a lawful decision-maker can be identified.",
+        "Incorrect. Implied consent applies to emergencies; this procedure is not emergent.",
+        "Incorrect. A roommate has no legal authority unless designated by law or the client, which is not documented here."
+      ],
+      "rationale": "If a client lacks capacity, the legal guardian or health care agent must be engaged in consent. When none is on record, the nurse contacts the provider and social services, who follow facility policy and state law to identify the lawful surrogate or seek guardianship. The nurse never serves as surrogate for a client in their care. Implied consent is tempting because the client cannot decide, but it applies only when delay would threaten life or limb.",
+      "takeaway": "No surrogate on record for an incapacitated client? Call the provider and social services — never sign as surrogate yourself.",
+      "hintContent": "Is this an emergency, and who has legal authority to consent?",
+      "hintStrategy": "Eliminate any option in which the nurse takes on a role outside scope, such as surrogate decision-maker.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [
+        "advocate-role"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-019",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse taught a client with type 2 diabetes to use a smartphone glucose app that shares readings with the clinic. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "“If my reading is over 300, I’ll wait until my visit in 3 months to mention it.”",
+        "“I’ll enter my readings every day so the nurse can see the pattern.”",
+        "“I can use the app’s video visit to ask about my meal plan.”",
+        "“I’ll write down questions when the app shows readings I don’t understand.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A severely elevated reading needs prompt reporting; waiting months shows the client does not yet know when to seek help.",
+        "Incorrect. Consistent logging supports self-monitoring and clinical review, showing understanding.",
+        "Incorrect. Using telehealth to set and refine self-care goals is an appropriate empowerment tool.",
+        "Incorrect. Recording questions shows self-awareness and engagement in care."
+      ],
+      "rationale": "Empowerment tools such as apps and telehealth help clients monitor chronic disease and set goals, but they only work if the client knows when and how to act on the data. A glucose above 300 mg/dL requires prompt contact with the provider per the plan. The other statements show self-efficacy, self-awareness, and appropriate use of telehealth — EMPATHIE aspects the nurse wants to build.",
+      "takeaway": "Empowerment teaching is complete only when the client knows what readings to act on and whom to call.",
+      "hintContent": "Which statement could lead to harm if the client acted on it?",
+      "hintStrategy": "In “needs further teaching” items, look for the statement that delays care or creates a safety risk.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m43-pro-020",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 60-year-old client with well-controlled major depressive disorder is seen in the emergency department after a first-time seizure. The physician prescribes an antiseizure medication that interacts with the client’s antidepressant and tells her to stop the antidepressant today. The client becomes tearful and says, “The last time I was off it, I couldn’t get out of bed.” What is the nurse’s priority action?",
+      "options": [
+        "Reassure the client that the physician has weighed the risks carefully",
+        "Tell the client to continue both medications until she sees her psychiatrist",
+        "Document that the client was informed and prepare discharge instructions",
+        "Acknowledge her concern and ask the physician about an alternative drug or a consult"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. False reassurance dismisses a valid concern and the client’s right to participate in the decision.",
+        "Incorrect. Advising the client to take an interacting combination is outside the nurse’s scope and potentially unsafe.",
+        "Incorrect. Documenting and discharging ignores the client’s concern and the risk of abrupt psychiatric medication discontinuation.",
+        "Correct. The nurse validates the concern and advocates with the physician for a non-interacting antiseizure option or a neurology, psychiatry, or pharmacist consult before stopping the antidepressant."
+      ],
+      "rationale": "Abruptly stopping an antidepressant risks discontinuation symptoms and relapse, and the client has a history that makes the concern credible. Advocacy means acknowledging her fear, validating her right to participate, and bringing the issue to the prescriber with specific options — an antiseizure drug without the interaction or a specialist or pharmacist consult. Telling the client to keep both drugs sounds protective but is outside scope and could cause a dangerous interaction.",
+      "takeaway": "When a new order threatens a stable condition the client values, validate the concern and take specific alternatives to the prescriber.",
+      "hintContent": "The client’s concern is clinically valid. Who can change the order, and what could you ask for?",
+      "hintStrategy": "Choose advocacy actions that collaborate with the prescriber; eliminate options that override the order independently or ignore the concern.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+    },
+    {
+      "id": "m43-pro-021",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 78-year-old client with hypertension and heart disease is newly diagnosed with type 2 diabetes. The nurse practitioner prescribed miglitol, which the client will take along with her current digoxin and amlodipine, and then left for another consult. The client’s taxi has arrived, and the case management team meets later this morning. What should the nurse do first?",
+      "options": [
+        "Walk the client to the taxi and call her later with medication teaching",
+        "Assess the client’s understanding of miglitol and arrange for the taxi to wait",
+        "Give the client a printed handout on miglitol and complete the discharge",
+        "Hold all teaching until the case management team meets this morning"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Discharging before the client understands a new medication and interaction is unsafe; phone teaching is a supplement, not a substitute.",
+        "Correct. Assessing understanding of the new drug, its timing with meals, side effects, and its interaction with digoxin comes first, and delaying transport prevents an unsafe, rushed discharge.",
+        "Incorrect. A handout alone does not confirm understanding or address health literacy.",
+        "Incorrect. Waiting delays assessment the nurse can do now; the case management meeting is for coordination, not initial assessment."
+      ],
+      "rationale": "Advocacy interventions begin with rapid assessment of the client’s understanding. Miglitol is taken with the first bite of each main meal, often causes GI effects, and can decrease digoxin bioavailability, so this older client needs teaching and reconciliation before leaving. Arranging transportation timing protects her from being rushed out. The nurse then communicates readiness, literacy, and home-support needs to the case management team so the NP, pharmacist, case manager, and nurse can complete reconciliation and follow-up.",
+      "takeaway": "Assess understanding of a new medication before discharge — even if the ride is waiting.",
+      "hintContent": "What must be true before this client can safely manage a new drug at home?",
+      "hintStrategy": "For “first” items, assessment usually precedes teaching materials, coordination, or discharge.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+    },
+    {
+      "id": "m43-pro-022",
+      "topic": "advocacy-interventions",
+      "type": "sata",
+      "stem": "The nurse is evaluating an older adult’s understanding of discharge teaching about miglitol. Which statements by the client indicate understanding? Select all that apply.",
+      "options": [
+        "“I’ll take it at bedtime so it can work while I sleep.”",
+        "“Now that I’m on this, I can stop taking my digoxin.”",
+        "“If my sugar runs low, I’ll use glucose tablets rather than regular sugar.”",
+        "“Gas, bloating, and loose stools are common, especially at first.”",
+        "“I’ll take it with the first bite of breakfast, lunch, and dinner.”"
+      ],
+      "answer": [
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Taken without a meal, miglitol has no carbohydrate to act on; bedtime dosing reflects misunderstanding.",
+        "Incorrect. Miglitol does not replace digoxin; it may lower digoxin levels, which is why the interaction needs monitoring.",
+        "Correct. Because miglitol slows breakdown of complex sugars such as sucrose, hypoglycemia (if it occurs with other agents) is treated with glucose.",
+        "Correct. GI effects are the most common adverse effects of alpha-glucosidase inhibitors.",
+        "Correct. Miglitol acts on carbohydrate digestion in the gut and is taken with the first bite of each main meal."
+      ],
+      "rationale": "Miglitol, an alpha-glucosidase inhibitor, delays carbohydrate absorption and must be taken with the first bite of each main meal. GI effects are common. Hypoglycemia is unlikely with miglitol alone, but if it occurs with other diabetes agents it is treated with glucose because sucrose breakdown is slowed. The client must continue digoxin, and the team monitors for reduced digoxin effect because miglitol can decrease its bioavailability.",
+      "takeaway": "Miglitol: first bite of each meal, expect GI effects, treat lows with glucose, and keep taking digoxin while the team monitors.",
+      "hintContent": "Think about where and when this drug acts.",
+      "hintStrategy": "For pharmacology teaching SATA, check timing, side effects, and interactions; eliminate any statement that stops a needed drug.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+    },
+    {
+      "id": "m43-pro-023",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client on an inpatient psychiatric unit, calm and not in crisis, refuses his evening antipsychotic dose. A mental health technician tells him, “Then you lose your phone privileges tonight.” Which action by the nurse is most appropriate?",
+      "options": [
+        "Call for an emergency intramuscular dose because refusal is a sign of relapse",
+        "Crush the medication into the client’s pudding so that he receives the scheduled dose",
+        "Respect the refusal, notify the provider, and report the technician’s threat",
+        "Support the technician because privileges are earned through medication adherence"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Emergency medication requires imminent danger; a calm refusal does not meet that standard.",
+        "Incorrect. Covertly administering medication without a legal basis violates the right to refuse and is unethical.",
+        "Correct. A client not in an emergency may refuse medication without punishment; the nurse respects that right, informs the provider, and reports the coercive threat.",
+        "Incorrect. Withholding privileges to punish a refusal violates the right to exercise rights without punishment."
+      ],
+      "rationale": "Clients in mental health settings retain the right to accept or refuse suggested medication, and facilities cannot force medication except in an emergency. They also have the right to exercise their rights without punishment, withheld treatment, or loss of privileges. The nurse respects the refusal, notifies the provider, explores the reason, and reports the technician’s coercive threat through the chain of command. Emergency medication is a distractor that confuses refusal with danger.",
+      "takeaway": "Outside an emergency, psychiatric clients may refuse medication — and may not be punished for it.",
+      "hintContent": "Is there an emergency? What rights does a psychiatric client keep?",
+      "hintStrategy": "When a rights violation is embedded in a scenario, choose the option that both protects the client and addresses the violation.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [
+        "reporting-unprofessional"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m43-pro-024",
+      "topic": "advocacy-interventions",
+      "type": "sata",
+      "stem": "A nurse is reviewing staff actions on a long-term psychiatric unit. Which actions violate client rights and require the nurse to intervene? Select all that apply.",
+      "options": [
+        "Refusing a client’s request for a mail-in ballot for the upcoming election",
+        "Placing a client in seclusion for cursing at a staff member",
+        "Keeping a client’s spending money and using it to buy staff snacks",
+        "Administering an ordered emergency medication to a client actively assaulting a peer",
+        "Including a client in updating his written treatment plan"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Institutionalization does not remove constitutional rights such as voting.",
+        "Correct. Seclusion is permitted only in an emergency; cursing alone is not imminent danger, so this is punitive.",
+        "Correct. Clients have the right to control their money and possessions; misusing it is exploitation.",
+        "Incorrect. Emergency medication for imminent danger to others, given per order and policy, is a permitted exception.",
+        "Incorrect. Clients have the right to a current written treatment plan they helped create; this upholds rights."
+      ],
+      "rationale": "Clients in mental health settings keep their rights to dignity, control of money and possessions, freedom from restraint and seclusion except in emergencies, and their constitutional rights such as voting. Seclusion for verbal behavior is punishment, and taking a client’s money is exploitation. Emergency medication for an actively assaultive client is a recognized exception, and collaborative treatment planning is itself a right.",
+      "takeaway": "Restraint, seclusion, and forced medication are emergency-only; money, possessions, and civil rights stay with the client.",
+      "hintContent": "Ask of each action: is there an emergency, and whose interest does it serve?",
+      "hintStrategy": "In rights-violation SATA, separate true emergency exceptions from punishment or staff benefit.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [
+        "reporting-unprofessional"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m43-pro-025",
+      "topic": "advocacy-interventions",
+      "type": "sata",
+      "stem": "A nurse is admitting a client to an acute care hospital that participates in Medicare and Medicaid. Which actions fulfill the requirements of the Patient Self-Determination Act? Select all that apply.",
+      "options": [
+        "Adjusting the level of care based on whether the client has an advance directive",
+        "Asking whether the client has an advance directive and documenting the answer",
+        "Providing information about the hospital’s policies on advance directives",
+        "Requiring the client to complete an advance directive before admission",
+        "Giving written information about the right to accept or refuse treatment"
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Facilities may not discriminate in care based on whether a client has an advance directive.",
+        "Correct. Facilities must ask about and document whether the client has an advance directive.",
+        "Correct. Clients must be told about institutional policies regarding recognition of advance directives.",
+        "Incorrect. Clients cannot be required to execute an advance directive as a condition of care.",
+        "Correct. The PSDA requires informing clients of their decision-making rights, including accepting or refusing treatment."
+      ],
+      "rationale": "The PSDA requires participating institutions to inform clients of their health care decision-making rights and of institutional policies on advance directives, and to document whether a directive exists. It protects the client’s choice to have or not have a directive, so requiring one or varying care based on one is prohibited. The nurse’s advocacy role is to ask, inform, document, and get copies of existing directives into the record.",
+      "takeaway": "PSDA: inform, ask, document — never require a directive or treat differently because of one.",
+      "hintContent": "The law protects choice. Would requiring a directive protect choice?",
+      "hintStrategy": "For law-based SATA, eliminate options that make a right mandatory or conditional.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-026",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": false,
+      "stem": "The mother of a 24-year-old client newly diagnosed with schizophrenia asks the nurse where she can learn about the illness and connect with other families. Which resource should the nurse recommend?",
+      "options": [
+        "The local affiliate of the National Alliance on Mental Illness (NAMI)",
+        "The state protection and advocacy agency for people with mental illness",
+        "The regional office that enforces the Americans with Disabilities Act",
+        "The county department of social services adult protective services unit"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. NAMI’s local affiliates provide education, support, and advocacy for individuals and families affected by mental illness.",
+        "Incorrect. Protection and advocacy agencies investigate abuse and neglect and protect legal rights; they are not primarily family education and support groups.",
+        "Incorrect. ADA enforcement addresses disability discrimination, not illness education or family support.",
+        "Incorrect. Adult protective services responds to suspected abuse, neglect, or exploitation of vulnerable adults."
+      ],
+      "rationale": "Matching the need to the resource is an advocacy skill. NAMI, through hundreds of state and local affiliates, provides support, education, and awareness for people and families affected by mental illness. Protection and advocacy (PAIMI) agencies are the right referral when rights are violated or abuse is suspected — a close look-alike, but a different purpose.",
+      "takeaway": "NAMI supports and educates families; protection and advocacy agencies investigate abuse and defend rights.",
+      "hintContent": "Is the mother reporting a problem, or seeking education and support?",
+      "hintStrategy": "When two resources sound similar, match the stated need (support vs investigation) to each one’s core purpose.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m43-pro-027",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": true,
+      "stem": "The parents of a 4-year-old with newly diagnosed leukemia tell the nurse they do not understand the oncologist’s explanation of the chemotherapy plan and are thinking of taking their child home. The family has one car and limited income. What should the nurse do first?",
+      "options": [
+        "Report the parents to child protective services for medical neglect",
+        "Ask the parents what they understood and what worries them most",
+        "Explain that they have no choice because the treatment is required",
+        "Give the parents a booklet about childhood leukemia to read tonight"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The parents have not refused care; reporting is premature before assessing understanding and barriers.",
+        "Correct. Assessing understanding, health literacy, and concerns comes first so the nurse can mediate with the oncologist and connect resources.",
+        "Incorrect. This is coercive and does not address the gaps in understanding or resources.",
+        "Incorrect. A booklet may not match their literacy and does not identify their concerns or resource barriers."
+      ],
+      "rationale": "When family situations are complex or resources limited, the nurse assesses needs, resources, and health literacy, then mediates between family and provider to prevent harm. Asking what the parents understood and what worries them most uncovers the real barriers — confusion, cost, transportation — so the nurse can arrange a plain-language meeting with the oncologist and involve social work. Reporting to protective services would be considered only if the parents refused necessary treatment after these steps.",
+      "takeaway": "With a struggling family, assess understanding and barriers first, then mediate with the provider.",
+      "hintContent": "What do you need to know before you can help this family or the oncologist?",
+      "hintStrategy": "For pediatric family conflict, assessment and mediation come before reporting or coercion.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-028",
+      "topic": "advocacy-interventions",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A home health nurse visits a 4-foot-9-inch client recovering from a hip fracture. The client walks stooped over a standard walker and has fallen once at home. Which action by the nurse best reflects advocacy related to mobility?",
+      "options": [
+        "Teach the client to stand straighter while using the current walker",
+        "Advise the client to switch to a single-point cane for easier maneuvering at home",
+        "Document that the client is not using the walker correctly",
+        "Request a physical therapy referral for a correctly sized walker"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Posture teaching cannot correct a device that is sized wrong for the client’s height.",
+        "Incorrect. A cane provides less support after a hip fracture and fall, increasing injury risk.",
+        "Incorrect. Labeling the client as using the walker incorrectly blames the client for an equipment problem.",
+        "Correct. Advocating for a device sized for a person of short stature (with PT able to add a home safety evaluation) reduces injury risk and improves function."
+      ],
+      "rationale": "The concept matrix links advocacy and mobility: advocacy improves understanding, lowers risk of further injury or immobility, and raises quality of life. The nurse advocates for appropriate devices, such as a walker sized for a person of short stature, and for home safety evaluations. Teaching posture sounds reasonable, but the underlying problem is the wrong equipment, which only a properly fitted device solves.",
+      "takeaway": "Advocate for the right device and a safe home rather than blaming the client for equipment that does not fit.",
+      "hintContent": "What is the root cause of the stooped posture?",
+      "hintStrategy": "Choose the option that fixes the cause rather than coaching the client around it.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-029",
+      "topic": "advocacy-interventions",
+      "type": "sata",
+      "stem": "A research nurse is screening clients for a clinical drug trial. For which clients should the nurse anticipate additional federal research protections? Select all that apply.",
+      "options": [
+        "A client who is 26 weeks pregnant",
+        "A 45-year-old with controlled hypertension",
+        "A 10-year-old with asthma",
+        "A client who is currently incarcerated",
+        "A 70-year-old retired teacher living independently"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Pregnant women, fetuses, and neonates receive additional protections in research.",
+        "Incorrect. A capable adult with a controlled chronic illness is not in a federally designated vulnerable research group.",
+        "Correct. Children are a protected research population requiring parental permission and child assent.",
+        "Correct. Prisoners receive additional protections because incarceration limits voluntary choice.",
+        "Incorrect. Age alone does not place an independent older adult in a designated protected research category."
+      ],
+      "rationale": "Federal human-subjects rules give added protections to pregnant women, fetuses, and neonates; children; and prisoners because their ability to consent freely may be limited or the risks to others are greater. The nurse advocates by ensuring consent and assent processes, and voluntariness, meet these rules. Age alone does not make an older adult a protected subject, though any client with impaired capacity would need additional safeguards.",
+      "takeaway": "Protected research groups: pregnant women/fetuses/neonates, children, prisoners.",
+      "hintContent": "Which groups may have limited ability to consent freely, or whose participation affects another being?",
+      "hintStrategy": "Do not add options based on general vulnerability; match each client to a defined protected category.",
+      "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 2, 4–8",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-030",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": true,
+      "stem": "During morning handoff, the oncoming nurse notices that a colleague who is just starting a 12-hour shift has an odor of alcohol on her breath and slightly slurred speech. What should the nurse do first?",
+      "options": [
+        "Confront the colleague at the nurses’ station about drinking",
+        "Privately notify the charge nurse of the specific observations",
+        "Report the colleague directly to the state board of nursing",
+        "Observe the colleague through the morning to confirm impairment"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A public confrontation does not protect clients, humiliates the colleague, and skips the chain of command.",
+        "Correct. Suspected impairment is reported immediately to the direct supervisor, who can relieve the nurse and protect clients.",
+        "Incorrect. A board report may follow per policy and law, but it does not protect today’s clients and skips the direct supervisor.",
+        "Incorrect. Suspicion is enough; waiting to confirm leaves clients exposed to an impaired nurse."
+      ],
+      "rationale": "Any nurse who observes or suspects impairment in a health professional must immediately report to a supervisor. The direct supervisor, usually the charge nurse, provides immediate backup by relieving the nurse from client care and starting the formal process. Watching to gather proof is a common distractor; it delays protection and is not the reporting nurse’s role.",
+      "takeaway": "Suspected impairment: tell your direct supervisor now, with objective facts — do not wait for proof.",
+      "hintContent": "Who can remove the colleague from client care right now?",
+      "hintStrategy": "In chain-of-command items, the first report usually goes to the immediate supervisor unless that person is involved.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-031",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A staff nurse on the night shift observes that the charge nurse, who is her direct supervisor, has pinpoint pupils, is nodding off at the desk, and has had several controlled-substance count discrepancies this week. Whom should the staff nurse notify?",
+      "options": [
+        "The charge nurse, to give her a chance to explain",
+        "The client’s provider, because medications are involved",
+        "The hospital’s human resources office the next business day",
+        "The house supervisor or nursing supervisor on duty"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. When the direct supervisor is the impaired person, reporting to her cannot provide backup or protect clients.",
+        "Incorrect. Providers manage client treatment, not staff impairment; this bypasses the nursing chain of command.",
+        "Incorrect. Waiting until the next business day leaves clients at risk overnight.",
+        "Correct. When the direct supervisor is involved, the nurse escalates to the next level in the chain of command, such as the house supervisor."
+      ],
+      "rationale": "The chain of command normally starts with the nurse’s direct supervisor. When that person is the source of concern, the nurse goes to the next level — the house supervisor, nursing supervisor, or nurse manager on call — so someone with authority can relieve the impaired nurse immediately. Giving the charge nurse a chance to explain may feel fair, but it delays protection and may allow evidence of diversion to be hidden.",
+      "takeaway": "If the direct supervisor is the problem, go one level up the chain — right away.",
+      "hintContent": "The usual first step is the direct supervisor. What changes when that person is impaired?",
+      "hintStrategy": "Apply the chain-of-command rule, then check for an exception in the stem.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-032",
+      "topic": "reporting-unprofessional",
+      "type": "sata",
+      "stem": "A nurse manager is teaching staff about signs that a colleague may be impaired or diverting controlled substances. Which observations should a nurse report? Select all that apply.",
+      "options": [
+        "Taking scheduled meal breaks with the team",
+        "Frequently wasting opioids without a witness present",
+        "Drowsiness and pinpoint pupils during the shift",
+        "Regularly volunteering for clients with opioid PCA pumps",
+        "Asking a colleague to double-check an insulin dose as policy requires",
+        "Several clients reporting unrelieved pain after documented opioid doses"
+      ],
+      "answer": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. Taking scheduled breaks with coworkers is normal behavior.",
+        "Correct. Unwitnessed wastes are a common diversion pattern.",
+        "Correct. Drowsiness and pinpoint pupils are physical signs of opioid use.",
+        "Correct. Repeatedly seeking assignments with high opioid access is a recognized warning sign.",
+        "Incorrect. Independent double-checks of high-alert drugs are safe practice.",
+        "Correct. Unrelieved pain after documented doses suggests the client may not have received the medication."
+      ],
+      "rationale": "Substance-related impairment often appears first in practice patterns: unwitnessed wastes, clients with unrelieved pain despite documented doses, and a preference for opioid-heavy assignments. Physical signs such as drowsiness and pinpoint pupils add to suspicion. Following double-check policies and taking scheduled breaks are expected behaviors. Nurses report patterns to the supervisor; they do not need proof or a diagnosis.",
+      "takeaway": "Report patterns — unwitnessed wastes, unrelieved pain, opioid-seeking assignments, physical signs — not just obvious intoxication.",
+      "hintContent": "Which behaviors would increase access to opioids or suggest clients are not receiving them?",
+      "hintStrategy": "In SATA, compare each behavior with safe practice; anything that matches policy is not a red flag.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-033",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A nurse returned to work 2 days after her father’s sudden death. Midway through the shift she has made two medication timing errors and is crying in the medication room. Which action should a coworker take first?",
+      "options": [
+        "Notify the charge nurse so her clients are covered and she can be relieved",
+        "Suggest she take a 15-minute break and then return to her assignment",
+        "Report her errors to the state board of nursing as a practice concern",
+        "Help her finish the shift by quietly taking over her medication passes"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Extreme emotional distress can impair practice; the supervisor arranges coverage, relieves the nurse, and connects her with support.",
+        "Incorrect. A short break does not resolve impairment from extreme emotional distress, and the errors continue.",
+        "Incorrect. Board reporting is not the first step; the immediate need is client safety and support for the nurse.",
+        "Incorrect. Covering informally leaves the supervisor unaware and the impaired nurse still responsible for clients."
+      ],
+      "rationale": "Impairment can result from extreme emotional distress, such as returning to work immediately after a close family member’s death, not only from substances. The duty is the same: report to the supervisor immediately so clients are protected. The response should be compassionate — the supervisor can relieve her and offer the employee assistance program. Quietly covering is the most tempting distractor because it feels kind, but it hides a safety risk.",
+      "takeaway": "Grief can impair practice; protect clients and support the nurse by notifying the supervisor.",
+      "hintContent": "Is impairment limited to drugs and alcohol?",
+      "hintStrategy": "Kind-sounding options that bypass the supervisor are usually traps in safety items.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-034",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse is observing staff interactions on a medical-surgical unit. Which behavior requires the nurse to intervene because it suggests a boundary violation?",
+      "options": [
+        "A nurse briefly mentions her own knee surgery to ease a client’s fear",
+        "A nurse sits quietly with an anxious client before a procedure",
+        "A nurse plans to meet a client for coffee after his discharge",
+        "A nurse accepts a thank-you card addressed to the whole unit"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A brief, purposeful self-disclosure that returns focus to the client is a therapeutic boundary crossing.",
+        "Incorrect. Therapeutic presence meets the client’s needs within the professional relationship.",
+        "Correct. Planning a personal social relationship after discharge serves the nurse’s needs and blurs professional boundaries.",
+        "Incorrect. A card to the unit is generally acceptable within facility gift policies."
+      ],
+      "rationale": "A boundary violation occurs when the relationship shifts to meet the nurse’s needs or exploits the client, such as forming a personal social relationship. The nurse, not the client, is responsible for maintaining boundaries. Brief, therapeutic self-disclosure is a boundary crossing, not a violation, and is a common look-alike. Violations require intervention and reporting.",
+      "takeaway": "Ask whose needs the behavior meets — the nurse’s personal needs signal a boundary violation.",
+      "hintContent": "Which behavior extends the relationship outside the professional role?",
+      "hintStrategy": "For boundary items, separate brief therapeutic actions from ongoing personal relationships.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m43-pro-035",
+      "topic": "reporting-unprofessional",
+      "type": "sata",
+      "stem": "A nurse is reviewing coworkers’ social media posts after a privacy training. Which posts violate client privacy? Select all that apply.",
+      "options": [
+        "A repost of the hospital’s hand hygiene campaign graphic",
+        "A selfie on the unit with a client’s wristband visible in the background",
+        "A post in a private nurses’ group describing a client’s rare tumor and the day it was removed",
+        "“Guess which famous quarterback is in Room 4 tonight!”",
+        "“So proud of our unit for earning a safety award!”"
+      ],
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Incorrect. Sharing a public campaign graphic contains no client information.",
+        "Correct. A visible wristband contains identifiable client information.",
+        "Correct. A rare condition plus a date can identify the client, and private groups are still disclosure.",
+        "Correct. Room number plus a recognizable public figure identifies the client.",
+        "Incorrect. Celebrating a unit achievement contains no client information."
+      ],
+      "rationale": "Posting client information — health facts, conversations, images, or details that could identify the client — breaches privacy whether intentional or not, and private groups and deleted posts still count. Removing the name is not enough when other details, such as room numbers, rare conditions, or wristbands, make identification possible. Consequences include employer and board discipline and civil and criminal penalties, and nurses must report infractions they see.",
+      "takeaway": "If any detail could identify a client, the post is a privacy breach — names are not the only identifiers.",
+      "hintContent": "Look for any detail that, combined with context, could point to a specific client.",
+      "hintStrategy": "For privacy SATA, ask of each option: could someone figure out who the client is?",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-036",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse educator is evaluating a new nurse’s understanding of social media guidelines. Which statement by the new nurse indicates a need for further teaching?",
+      "options": [
+        "“I won’t accept friend requests from clients I’m caring for.”",
+        "“If I see a coworker post a client photo, I need to report it.”",
+        "“A post about a client is fine as long as I leave out the name.”",
+        "“Deleting a post doesn’t undo a privacy breach.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Declining friend requests from clients maintains professional boundaries, so this statement is accurate.",
+        "Incorrect. Nurses must monitor colleagues and report infractions immediately, so this statement is accurate.",
+        "Correct. Other details can identify a client, so omitting the name does not make a post acceptable.",
+        "Incorrect. Posts can be captured and shared before deletion, so the breach has already occurred."
+      ],
+      "rationale": "Privacy breaches occur when any identifiable information is shared, regardless of intent. Many nurses believe removing names makes a post safe, but context such as diagnosis, age, date, or location can identify the client. The new nurse also needs to understand that nonmalicious posts carry the same employer, board, civil, and criminal consequences.",
+      "takeaway": "Deidentifying by name alone does not make a client post safe.",
+      "hintContent": "Is a name the only thing that identifies a client?",
+      "hintStrategy": "In “needs further teaching” items, find the statement that reflects a common misconception.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-037",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 53-year-old client with COPD and schizophrenia tells the outpatient clinic nurse that during his last inpatient psychiatric stay, a technician restrained him in bed after he refused to give the technician his commissary money. What is the nurse’s priority action after assessing the client’s current safety?",
+      "options": [
+        "Encourage the client to file a complaint himself if he still feels upset",
+        "Document the statement only, since the event happened during a past admission",
+        "Contact the technician directly to hear his side of the story before acting",
+        "Report the incident to the supervisor and protective agencies"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Leaving reporting to the client shifts the nurse’s duty to a vulnerable client and may let abuse continue.",
+        "Incorrect. A past event still requires reporting; other clients may be at risk.",
+        "Incorrect. Investigating by contacting the alleged abuser is not the nurse’s role and may endanger clients or the investigation.",
+        "Correct. Restraint used to coerce a client is abuse and a severe boundary violation; the nurse reports to the supervisor/administration and protective agencies such as the state protection and advocacy agency."
+      ],
+      "rationale": "The client’s rights to control his possessions, to be free from restraint except in an emergency, and to be free from abuse and coercion were violated. The nurse documents his statements objectively and reports immediately through the chain of command and to appropriate protective and regulatory agencies. This is both microsocial advocacy (his safety) and macrosocial advocacy (exposing systemic abuse). A past event is still reportable because other clients may be at risk.",
+      "takeaway": "Coercive restraint is abuse — report it through the chain of command and to protective agencies, even if it happened in the past.",
+      "hintContent": "Does the passage of time remove the duty to report abuse?",
+      "hintStrategy": "When a client reports abuse by staff, choose reporting over investigating, waiting, or delegating the report to the client.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [
+        "advocacy-interventions",
+        "advocate-role"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-038",
+      "topic": "reporting-unprofessional",
+      "type": "sata",
+      "stem": "A nurse is writing an incident report about a colleague who appeared impaired during the shift. Which entries are appropriate? Select all that apply.",
+      "options": [
+        "“0710: Charge nurse notified; RN relieved of client assignment.”",
+        "“0705: Observed RN with unsteady gait and slurred speech at the medication cart.”",
+        "Charting in a client’s record: “Incident report filed regarding impaired RN.”",
+        "“The RN is obviously an alcoholic and has been for months.”",
+        "“0700: Odor of alcohol noted on the RN’s breath during handoff.”"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Recording notifications and actions taken is appropriate.",
+        "Correct. Time-stamped, observable behavior is objective documentation.",
+        "Incorrect. Incident reports are not referenced in the client’s medical record.",
+        "Incorrect. This is a label and speculation rather than an observation.",
+        "Correct. An observed odor with time and context is a factual finding."
+      ],
+      "rationale": "Reporting must be objective: time, place, what was seen and heard, who was notified, and what actions followed. Labels such as “alcoholic” are conclusions the reporter cannot make and may be defamatory. Incident reports are quality and risk tools; the client’s record should contain client-care facts, not mention of the incident report.",
+      "takeaway": "Report what you saw, when, and whom you told — never labels — and keep incident reports out of the chart.",
+      "hintContent": "Which entries could another person verify by observation?",
+      "hintStrategy": "For documentation SATA, keep factual, time-stamped observations and eliminate opinions and misplaced entries.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-039",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A 31-year-old neighbor with a history of depression tells a nurse she is estranged from her only brother, who is her legal next of kin, and asks the nurse to be her health care decision-maker if she ever becomes incapacitated. Which response by the nurse is most appropriate?",
+      "options": [
+        "“Of course. As a nurse, I can make sure your care is handled correctly.”",
+        "“State law doesn’t allow nurses to serve as anyone’s health care agent.”",
+        "“Your brother will make decisions no matter what documents you sign.”",
+        "“An attorney can help you name someone you trust as your health care agent.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Accepting blurs personal and professional roles and creates the conflict of interest the nurse should avoid.",
+        "Incorrect. This overstates the law; the concern is an ethical role conflict, and the statement would mislead her.",
+        "Incorrect. A valid health care power of attorney names an agent who takes priority over default next of kin.",
+        "Correct. Encouraging her to execute a durable power of attorney for health care and a living will naming a trusted non-nurse advocate protects her wishes and avoids role blurring."
+      ],
+      "rationale": "The nurse should act as a supportive neighbor, not the client’s clinician, and avoid blurring personal and professional boundaries. The course position is that serving as her proxy creates an ethical conflict of interest for the nurse. The most helpful response directs her to an attorney to complete a durable power of attorney for health care and a living will naming a trusted friend or other non-nurse advocate, which also ensures her brother does not decide by default.",
+      "takeaway": "When a friend asks a nurse to be their proxy, recommend a formal health care power of attorney naming a trusted non-nurse.",
+      "hintContent": "What legal tool lets a person choose someone other than next of kin?",
+      "hintStrategy": "Eliminate answers that are absolute or legally inaccurate; choose the one that empowers the person to act.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [
+        "advocacy-interventions"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-040",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A nurse in North Carolina is caring for a 3-year-old with partial-thickness burns on both hands in a glove-like pattern. The parent states the child “pulled a pot off the stove,” a story that does not match the injury. What is the nurse’s priority action?",
+      "options": [
+        "Wait for the skeletal survey results to confirm abuse before reporting",
+        "Ask the parent to explain the injury again to check for inconsistencies",
+        "Report the suspected abuse to the county department of social services",
+        "Tell the charge nurse and let her decide whether a report is needed"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reporting requires reasonable suspicion, not proof; waiting delays protection.",
+        "Incorrect. Questioning the parent to investigate is not the nurse’s role and may endanger the child.",
+        "Correct. Any person who suspects child abuse must report to the designated child protective agency (county DSS in North Carolina) without waiting for proof.",
+        "Incorrect. Notifying the supervisor per policy is fine, but it does not replace the nurse’s own legal duty to report."
+      ],
+      "rationale": "An immersion-pattern burn with an inconsistent history is a red flag for abuse. Nurses must report suspected child maltreatment to the designated child protective agency; in North Carolina, any person who suspects abuse, neglect, or dependency must report to the county DSS director. Reporters do not investigate or wait for proof, and good-faith reporters are immune. Telling the charge nurse is a tempting distractor, but internal notification does not satisfy the reporter’s personal legal duty.",
+      "takeaway": "Suspected child abuse: report it yourself to the child protective agency — suspicion is enough.",
+      "hintContent": "Does the reporting duty require proof, and can it be handed off?",
+      "hintStrategy": "Mandatory-reporting items reward direct reporting on suspicion; eliminate options that wait, investigate, or delegate the decision.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [
+        "advocacy-interventions"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-041",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse repeatedly skips barcode scanning when giving medications, stating, “It’s faster, and I always double-check the label anyway.” No client has been harmed. Using a Just Culture framework, how is this behavior best classified?",
+      "options": [
+        "Human error, managed by consoling the nurse and fixing the system",
+        "At-risk behavior, managed by coaching the nurse on the risk",
+        "Reckless behavior, managed through disciplinary action",
+        "A conduct issue, managed by reporting diversion to the board"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Human error is an inadvertent slip; this nurse chooses to skip scanning repeatedly.",
+        "Correct. Drifting from a safety practice while believing the risk is justified is at-risk behavior, managed by coaching.",
+        "Incorrect. Reckless behavior is conscious disregard of a known substantial risk; this nurse underestimates the risk rather than disregarding it.",
+        "Incorrect. There is no evidence of diversion, impairment, fraud, or another conduct issue."
+      ],
+      "rationale": "Just Culture distinguishes human error (inadvertent; console and redesign), at-risk behavior (a choice that drifts from safe practice because the risk is not recognized or seems justified; coach), and reckless behavior (conscious disregard of substantial, unjustifiable risk; discipline). Workarounds like skipping barcode scanning to save time are classic at-risk behavior. Reckless behavior is the closest distractor; the difference is whether the nurse recognizes the risk and consciously disregards it.",
+      "takeaway": "Workarounds rationalized as safe are at-risk behavior — coach them; reserve discipline for reckless disregard.",
+      "hintContent": "Is this an accident, a rationalized shortcut, or a conscious disregard of known danger?",
+      "hintStrategy": "For classification items, define each category in one phrase and match the behavior’s intent.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m43-pro-042",
+      "topic": "reporting-unprofessional",
+      "type": "sata",
+      "stem": "A nurse manager is reviewing practice events. Which situations involve conduct that should be reported to the state board of nursing in addition to being addressed by the employer? Select all that apply.",
+      "options": [
+        "A nurse who charted a note late after assisting with a code",
+        "A nurse posting photos of a client’s wound on a personal social media account",
+        "A nurse in a romantic relationship with a current client",
+        "A nurse taking hydromorphone from wasted doses for personal use",
+        "A nurse who gave a scheduled medication 40 minutes late because of a rapid response call"
+      ],
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Incorrect. Late charting due to an emergency, when properly labeled, is not misconduct.",
+        "Correct. Posting client images breaches confidentiality, a conduct issue reported to the board.",
+        "Correct. Sexual or romantic involvement with a client is a boundary violation reported to the board.",
+        "Correct. Drug diversion is a conduct issue reported to the board.",
+        "Incorrect. A delay caused by a competing emergency is a system issue handled within the facility."
+      ],
+      "rationale": "Drug diversion, impairment on duty, fraud, boundary or sexual misconduct, and confidentiality breaches are conduct issues reported to the board of nursing rather than handled only by the employer. Practice events such as a delayed dose during an emergency or properly labeled late documentation are handled through the employer’s quality processes, often using a Just Culture approach. The distinction protects the public while avoiding punishment of system-caused events.",
+      "takeaway": "Diversion, impairment, fraud, boundary misconduct, and confidentiality breaches go to the board; system-caused practice events stay in quality improvement.",
+      "hintContent": "Which situations involve a choice that violates professional conduct rather than a delay caused by an emergency?",
+      "hintStrategy": "Separate conduct (intentional violations) from practice events (errors or delays from system pressures).",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m43-pro-043",
+      "topic": "reporting-unprofessional",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A nurse walking past a client’s room sees a nurse aide tying a confused older client to a chair with a bed sheet. The aide says, “Just until I finish my break, so she doesn’t wander.” What should the nurse do first?",
+      "options": [
+        "Report the aide to the charge nurse before taking further action",
+        "Ask the aide to stay with the client until her break is over",
+        "Remove the sheet, stay with the client, and assess her for injury",
+        "Document the restraint and the aide’s statement in an incident report"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reporting is required, but the client is being restrained right now; stopping the harm comes first.",
+        "Incorrect. This does not remove the unlawful restraint and leaves the aide in charge.",
+        "Correct. The nurse first stops the ongoing harm by removing the improvised restraint and assessing the client, then reports to the supervisor.",
+        "Incorrect. Documentation is necessary but does nothing to stop the ongoing restraint."
+      ],
+      "rationale": "An improvised restraint used for staff convenience violates the client’s right to freedom from restraint except in an emergency and is a safety hazard (strangulation, falls, injury). When harm is happening in front of the nurse, the first action is to stop it and assess the client. The nurse then reports to the direct supervisor and documents objectively. Reporting first is the most tempting distractor because the chain of command is emphasized, but client protection takes priority when the harm is ongoing.",
+      "takeaway": "When harm is happening now, stop it first — then report up the chain.",
+      "hintContent": "Is the danger past, or is it still happening?",
+      "hintStrategy": "Safety-first items: choose the action that ends the immediate risk before reporting or documenting.",
+      "ref": "Module 43 · Advocacy · Reporting Unprofessional Actions · pp. 2–3, 6–9",
+      "alsoTests": [
+        "advocacy-interventions"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    }
+  ]
+});

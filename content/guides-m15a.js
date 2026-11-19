@@ -1023,7 +1023,8 @@ window.NURSE_DATA.push({
       "<strong>Movement</strong> or shivering → unreliable reading.",
       "<strong>Dark nail polish</strong> or artificial nails → can block the light.",
       "<strong>Darker skin pigmentation</strong> → devices may read falsely high; look closely at the client, not just the number.",
-      "<strong>Severe anemia</strong> → SpO₂ can look normal even though the total oxygen carried is low."
+      "<strong>Severe anemia</strong> → SpO₂ can look normal even though the total oxygen carried is low.",
+      "<strong>Carbon monoxide poisoning</strong> (smoke inhalation, faulty heaters) → a standard pulse oximeter can't tell carbon monoxide from oxygen on hemoglobin, so SpO₂ may read normal or high while the client is severely hypoxic. An ABG with co-oximetry (carboxyhemoglobin level) is needed."
      ],
      "example": "<strong>At the bedside:</strong> A client's monitor reads 97%, but the client is confused, breathing 30/min, and has bluish lips. Which do you believe? <strong>The client.</strong> Check the probe placement and the waveform, try another site, and notify the provider — an ABG may be needed. Treat the client, not the number."
     },
@@ -1500,7 +1501,7 @@ window.NURSE_DATA.push({
      "body": "<p>Pregnancy changes breathing in predictable ways. Your slides list these physiologic differences:</p>",
      "bullets": [
       "The growing uterus <strong>raises the diaphragm</strong>, which <strong>decreases the ability to expand the lungs</strong> downward. To make up for it, the <strong>chest circumference increases</strong> (the ribs flare out).",
-      "<strong>Respiratory rate increases</strong> to keep up with the higher oxygen needs of mother and baby.",
+      "<strong>Respiratory rate increases</strong> to keep up with the higher oxygen needs of mother and baby. The increase is only slight (about 1–2 breaths/min, so the rate stays within the normal adult range); most of the extra air comes from deeper breaths. A rate well above 20 is not a normal pregnancy change.",
       "<strong>Minute ventilation, alveolar ventilation, and tidal volume increase</strong> — the pregnant client moves more air with each breath and each minute.",
       "<strong>Residual capacity decreases</strong> — less air is left in the lungs after breathing out, so there's a smaller oxygen \"reserve.\" Pregnant clients can desaturate faster.",
       "Because they breathe off more CO₂, <strong>blood pH may become more alkaline</strong>. A slightly low PaCO₂ is expected.",

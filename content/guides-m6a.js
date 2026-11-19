@@ -726,6 +726,12 @@ window.NURSE_DATA.push({
        ],
        [
         "Intestines (stool)",
+        "100–200",
+        "",
+        ""
+       ],
+       [
+        "Sweat (sensible)",
         "100",
         "",
         ""
@@ -1059,11 +1065,11 @@ window.NURSE_DATA.push({
     },
     {
      "heading": "Colloid solutions: albumin and dextran 40",
-     "body": "<p><strong>Colloids</strong> contain large molecules that <strong>stay in the blood vessels</strong>. Because they stay in the vessels and attract water, they pull fluid from the tissues back into the vascular space.</p><p>The main example on your slides is <strong>albumin (5% or 25%)</strong>, a <strong>plasma protein solution</strong> made from human plasma. Albumin <strong>pulls fluid into the vascular space</strong>. It is <strong>used in shock and burns</strong> and <strong>reduces third spacing</strong>. <em>Shock</em> means blood flow to the organs is too low; pulling fluid into the vessels increases blood volume. In <em>burns</em> and other conditions, fluid can leak out of vessels and get trapped in tissues; this trapped fluid is called <strong>third spacing</strong> because it is in neither the cells nor the vessels where it can help circulation. Albumin helps draw it back.</p><p>Your slides also name an <strong>artificial colloid, dextran 40</strong>, a manufactured large-molecule solution that works the same way.</p><p><strong>Nursing consideration: risk of anaphylaxis.</strong> Because colloids are large foreign molecules, a client can have a severe allergic reaction. Monitor closely, especially at the start of the infusion. Because colloids pull fluid into the vessels, also watch for fluid overload.</p>",
+     "body": "<p><strong>Colloids</strong> contain large molecules that <strong>stay in the blood vessels</strong>. Because they stay in the vessels and attract water, they pull fluid from the tissues back into the vascular space.</p><p>The main example on your slides is <strong>albumin (5% or 25%)</strong>, a <strong>plasma protein solution</strong> made from human plasma. Albumin <strong>pulls fluid into the vascular space</strong>. It is <strong>used in shock and burns</strong> and <strong>reduces third spacing</strong>. <em>Shock</em> means blood flow to the organs is too low; pulling fluid into the vessels increases blood volume. In <em>burns</em> and other conditions, fluid can leak out of vessels and get trapped in tissues; this trapped fluid is called <strong>third spacing</strong> because it is in neither the cells nor the vessels where it can help circulation. Albumin helps draw it back. One timing point for burns: in the first 24 hours after a major burn, the capillaries are so leaky that even albumin escapes into the tissues, so isotonic crystalloid (usually lactated Ringer's) is the first-line fluid. Colloids such as albumin are usually added after the first 24 hours, once the capillaries begin to seal.</p><p>Your slides also name an <strong>artificial colloid, dextran 40</strong>, a manufactured large-molecule solution that works the same way.</p><p><strong>Nursing consideration: risk of anaphylaxis.</strong> Because colloids are large foreign molecules, a client can have a severe allergic reaction. Monitor closely, especially at the start of the infusion. Because colloids pull fluid into the vessels, also watch for fluid overload.</p>",
      "analogy": "A colloid in the bloodstream is like a sponge dropped into a puddle. It stays where you put it and soaks up the water around it. Albumin \"soaks\" fluid out of the tissues and into the vessels.",
      "check": {
       "q": "A client with severe burns has fluid leaking into the tissues. Why might the provider order albumin rather than more crystalloid alone?",
-      "a": "Albumin is a colloid. It stays in the vessels and pulls fluid back from the tissues, increasing blood volume and reducing third spacing. Crystalloids spread into the tissues."
+      "a": "Albumin is a colloid. It stays in the vessels and pulls fluid back from the tissues, increasing blood volume and reducing third spacing. Crystalloids spread into the tissues. Timing matters: in the first 24 hours after a major burn, isotonic crystalloid (usually LR) is first-line because leaky capillaries let even albumin escape; albumin is usually added after the first 24 hours."
      }
     },
     {

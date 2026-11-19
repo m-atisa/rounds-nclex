@@ -93,8 +93,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Latex",
-        "Rubber gloves, some catheters and medical equipment",
-        "A client says, \"My lips swelled when the dentist wore rubber gloves.\""
+        "Rubber gloves, some catheters and medical equipment (e.g., a client says, \"My lips swelled when the dentist wore rubber gloves.\")"
        ]
       ]
      },
@@ -163,7 +162,7 @@ window.NURSE_DATA.push({
     },
     {
      "heading": "After the first dose: watching the response",
-     "body": "<p>After epinephrine, you judge the response mainly by <strong>blood pressure</strong> and <strong>breathing</strong> (SpO₂, work of breathing, and any stridor or wheezing). Improvement means the BP rises, the wheezing and throat tightness ease, and SpO₂ climbs.</p><p>If symptoms continue, expect a <strong>repeat dose in 5–15 minutes</strong>. Do not wait an hour, and do not switch to an oral antihistamine once the BP rises.</p><p>Symptoms can <strong>return hours later</strong>, so clients are observed after treatment.</p>",
+     "body": "<p>After epinephrine, you judge the response mainly by <strong>blood pressure</strong> and <strong>breathing</strong> (SpO₂, work of breathing, and any stridor or wheezing). Improvement means the BP rises, the wheezing and throat tightness ease, and SpO₂ climbs.</p><p>If symptoms continue, expect a <strong>repeat dose in 5–15 minutes</strong>. Do not wait an hour, and do not switch to an oral antihistamine once the BP rises.</p><p>Symptoms can <strong>return hours later</strong>, so clients are observed after treatment (often for at least 4–6 hours, longer after a severe reaction), because a second-wave (biphasic) reaction can occur without a new exposure.</p>",
      "example": "<strong>At the bedside:</strong> A client got epinephrine IM for a bee sting. Breathing is now easy, but the client feels lightheaded; BP is 88/54 mm Hg. What does this mean? The airway improved, but circulation is still poor. So the nurse keeps the client <strong>lying flat with the legs elevated</strong>, applies oxygen, gives the prescribed IV fluid bolus, stays on continuous monitoring, and prepares a repeat dose of epinephrine if the BP does not improve. The client must not stand or walk to the bathroom, because sudden standing can cause collapse."
     },
     {
@@ -390,7 +389,7 @@ window.NURSE_DATA.push({
        ],
        [
         "WBC",
-        "Above 12,000/mm³ or increased bands",
+        "Above 12,000/mm³ or increased bands (standard criteria also count a WBC below 4,000/mm³)",
         "The bone marrow releases more white cells, including young ones."
        ]
       ]
@@ -569,7 +568,7 @@ window.NURSE_DATA.push({
     },
     {
      "heading": "Non-opioid analgesic: acetaminophen",
-     "body": "<p>Acetaminophen relieves <strong>pain and fever</strong>, but it has <strong>very little anti-inflammatory effect</strong>. It will not bring down swelling. Clients often confuse it with ibuprofen, so this is a common teaching point.</p><p>Its advantage: it does <strong>not</strong> irritate the stomach or cause GI bleeding. Its main danger is <strong>liver damage</strong> with too much. Teach clients not to go over the maximum daily dose (about 4 g/day for healthy adults, and lower with regular alcohol use or liver disease, as the provider directs), and to count the acetaminophen hidden in combination cold and pain products.</p>",
+     "body": "<p>Acetaminophen relieves <strong>pain and fever</strong>, but it has <strong>very little anti-inflammatory effect</strong>. It will not bring down swelling. Clients often confuse it with ibuprofen, so this is a common teaching point.</p><p>Its advantage: it does <strong>not</strong> irritate the stomach or cause GI bleeding. Its main danger is <strong>liver damage</strong> with too much. Teach clients not to go over the maximum daily dose (no more than 4 g/day for healthy adults, and many OTC labels now advise 3 g/day; lower with regular alcohol use or liver disease, as the provider directs), and to count the acetaminophen hidden in combination cold and pain products.</p>",
      "analogy": "Acetaminophen is like turning down the volume on a smoke alarm: the noise (pain and fever) gets quieter, but the fire (inflammation) is still burning. NSAIDs and steroids actually spray water on the fire.",
      "check": {
       "q": "A client with elbow bursitis asks to switch from ibuprofen to acetaminophen because a neighbor said it works the same on swelling. What is the most accurate answer?",
@@ -604,7 +603,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Heart and fluids",
-        "Fluid retention and a rise in BP",
+        "Fluid retention, a rise in BP, and a higher risk of heart attack and stroke (boxed warning), especially with long-term use or heart disease",
         "Report weight gain or swelling; monitor BP"
        ]
       ]
@@ -722,7 +721,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Opioids",
      "body": "<p>Opioids are for <strong>severe pain</strong> (the Comfort module covers them in detail). They do <strong>not</strong> treat inflammation itself. After surgery for an inflammatory problem, though, controlling pain is part of healing. A client who hurts too much to breathe deeply or walk cannot do the incentive spirometer or ambulate, which raises the risk of complications.</p>",
-     "example": "<strong>At the bedside:</strong> After a cholecystectomy, a client rates pain 7/10 and takes shallow breaths, saying, \"It hurts too much to breathe deeply or get up.\" Vital signs are improving. The last IV morphine was hours ago. What first? <strong>Give the prescribed PRN morphine</strong>, then coach the incentive spirometer and walking once it takes effect. Treat the pain that is blocking recovery first."
+     "example": "<strong>At the bedside:</strong> After a cholecystectomy, a client rates pain 7/10 and takes shallow breaths, saying, \"It hurts too much to breathe deeply or get up.\" Vital signs are improving. The last IV morphine was hours ago. What first? <strong>Give the prescribed PRN morphine</strong> (after confirming the respiratory rate and sedation level are safe), then coach the incentive spirometer and walking once it takes effect. Treat the pain that is blocking recovery first."
     }
    ],
    "mnemonics": [],
@@ -928,7 +927,7 @@ window.NURSE_DATA.push({
      },
      "bullets": [
       "<strong>Avoid the Western diet</strong>: fast food, sugar, and low fiber.",
-      "<strong>Anti-inflammatory diet</strong>: fruits, vegetables, fish, whole grains, olive oil, and omega-3 and omega-6 fats.",
+      "<strong>Anti-inflammatory diet</strong>: fruits, vegetables, fish, whole grains, olive oil, and omega-3 fats. (The slides also mention omega-6 fats; these are needed in small amounts, but the typical Western diet already has too many, so the anti-inflammatory goal is more omega-3s relative to omega-6s.)",
       "<strong>Screening</strong>: skin testing to identify allergens, and a TSH test to detect Hashimoto thyroiditis (especially with a family history of thyroid disease)."
      ],
      "example": "<strong>At the bedside:</strong> A client with RA asks which meal best fits an anti-inflammatory diet: a cheeseburger and fries, a sugary cereal, grilled salmon with leafy greens and brown rice dressed with olive oil, or fried chicken. What does the nurse recommend? The <strong>salmon, greens, whole grain, and olive oil</strong> meal, which has omega-3s, antioxidants, and fiber.",
@@ -1108,7 +1107,7 @@ window.NURSE_DATA.push({
      "bullets": [
       "<strong>Fluid loss is more significant</strong> because a child's <strong>total fluid volume is smaller</strong>. Losing a cup of fluid is a much bigger share of a toddler's total than an adult's.",
       "The <strong>renal system is immature</strong>, so the kidneys control fluid balance poorly and cannot conserve water as well.",
-      "The <strong>cardiac response</strong> is different: the slides state that children have a <strong>weak SNS response</strong> and that <strong>tachycardia is a late sign of hypovolemia</strong>. (Your instructor or textbook may frame the timing of vital-sign changes differently; the safe takeaway is the same: <strong>do not wait for vital signs to change before acting on fluid losses</strong>.)"
+      "The <strong>cardiac response</strong> is different: the slides state that children have a <strong>weak SNS response</strong> and that <strong>tachycardia is a late sign of hypovolemia</strong>. (Standard pediatric references and the NCLEX teach this differently: in children, <strong>tachycardia is usually an early sign</strong> of hypovolemia and <strong>hypotension is a late sign</strong>, because children compensate so well that BP stays normal until they are close to collapse. Answer exam questions using that standard rule, and check how your instructor frames it; the safe takeaway is the same: <strong>do not wait for vital signs to change before acting on fluid losses</strong>.)"
      ],
      "steps": [
       "Count <strong>wet diapers</strong> or voids and track intake and output. Urine output is an early, easy measure of fluid balance.",
@@ -1194,7 +1193,7 @@ window.NURSE_DATA.push({
    ],
    "recap": [
     "Children's airways obstruct easily (large tongue, narrow trachea, prominent lymph tissue); their lungs collapse more easily.",
-    "Children's small fluid volume and immature kidneys make fluid losses more dangerous; the slides call tachycardia a late sign of hypovolemia.",
+    "Children's small fluid volume and immature kidneys make fluid losses more dangerous; the slides call tachycardia a late sign of hypovolemia, but standard pediatric references (and the NCLEX) treat tachycardia as an early sign and hypotension as the late sign.",
     "Children have more pro-inflammatory mediators and less anti-inflammatory control; gut inflammation can slow growth.",
     "Pediatric care: weight-based doses, child life and play, noninvasive imaging, growth monitoring, no aspirin.",
     "Pregnancy dampens immunity, may cause hypersensitivity and chronic inflammatory disease; preeclampsia is inflammation-mediated.",

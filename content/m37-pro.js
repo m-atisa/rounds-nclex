@@ -1,0 +1,1637 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m37",
+  "moduleNumber": 37,
+  "moduleTitle": "Collaboration",
+  "tagline": "One client, one plan, many hands.",
+  "overview": "Module 37 covers the nurse’s role on the interprofessional team, the IPEC competencies and TeamSTEPPS tools that make teamwork safe, and how to prevent and manage conflict and incivility. Learn who owns which problem, how to speak up so you are heard, and which conflict style fits the moment.",
+  "topics": [
+    {
+      "id": "nurse-collaborator",
+      "title": "The Nurse as Collaborator, the Interprofessional Team & Collaborative Practice",
+      "exemplar": null
+    },
+    {
+      "id": "ipec-teamstepps",
+      "title": "IPEC Core Competencies & TeamSTEPPS Communication",
+      "exemplar": null
+    },
+    {
+      "id": "conflict-management",
+      "title": "Conflict Prevention, Conflict Management & Workplace Incivility",
+      "exemplar": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Define collaboration.",
+      "back": "Two or more individuals—including the client—working toward a common goal by combining skills, knowledge, and resources while avoiding duplication of effort.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Interprofessional vs. interdisciplinary (course definitions)?",
+      "back": "Interprofessional: professionals from different disciplines (plus support staff, client, and family in this module). Interdisciplinary: signals that paraprofessionals such as UAP or techs are also on the team.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "A client can walk but cannot button clothes or open jars. Which discipline?",
+      "back": "Occupational therapy—ADLs, fine motor tasks, and adaptive devices. PT handles gait, mobility, and strength.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "A client coughs and has a wet voice when drinking after a stroke. What first, and who next?",
+      "back": "Assess respiratory status and hold oral intake first; then request a speech-language pathology swallowing evaluation.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "RD vs. nutritionist?",
+      "back": "The registered dietitian provides medical nutrition therapy for disease (renal, diabetic, tube feeding). A nutritionist teaches general healthy eating only.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "What must a nurse check before implementing an order written by a physician assistant?",
+      "back": "The state nurse practice act and agency policy on implementing PA orders.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "What can the RN never delegate to UAP?",
+      "back": "Assessment, teaching, evaluation, nursing judgment, and care of unstable or unpredictable clients.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Five rights of delegation?",
+      "back": "Right task, right circumstance, right person, right directions/communication, right supervision/evaluation.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Case manager vs. social worker?",
+      "back": "Case manager coordinates care and resources across settings for timely, cost-effective outcomes; social worker addresses coping, counseling, finances, and protection of vulnerable people.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "ACT vs. PACE?",
+      "back": "ACT: community mental health team for serious mental illness. PACE: all-inclusive community care (medical, respite, transport, mental health) for older adults living at home.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Name the six QSEN competencies.",
+      "back": "Patient-centered (client-centered) care, teamwork and collaboration, evidence-based practice, quality improvement, safety, and informatics.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "The four IPEC core competencies?",
+      "back": "Values and ethics; roles and responsibilities; communication; teams and teamwork.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "SBAR stands for?",
+      "back": "Situation, Background, Assessment, Recommendation/Request. Assess the client first and always end with a specific request.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "“I think he is fluid overloaded” belongs in which SBAR part?",
+      "back": "Assessment—the nurse’s interpretation of the data.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Call-out vs. checkback?",
+      "back": "Call-out broadcasts critical information to the whole team at once. Checkback: the receiver repeats back and the sender confirms (closed loop).",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "CUS stands for?",
+      "back": "“I am Concerned… I am Uncomfortable… This is a Safety issue.”",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Two-Challenge Rule?",
+      "back": "Voice a safety concern at least twice; the challenged person must acknowledge it. If still unaddressed, take stronger action and go up the chain of command.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "What goes in the Safety section of I PASS THE BATON?",
+      "back": "Critical lab values, allergies, fall risk, infection/isolation, and social issues.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Status-based vs. team-centered communication?",
+      "back": "Status-based: hierarchical commands (“You need to…”) that silence people. Team-centered: “we,” client’s concerns, invites input (“What are your thoughts?”).",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "A provider dismisses your safety concern twice and the client is still at risk. Next step?",
+      "back": "Do not proceed with the unsafe action; escalate to the charge nurse or supervisor per the chain of command and keep the client safe.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Evidence-based fixes for nurse–physician collaboration barriers?",
+      "back": "Interprofessional education, interdisciplinary rounding, shared mental models/huddles, mutual understanding of roles, respect, improved communication, and administrative support.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Define handoff.",
+      "back": "The transfer and acceptance of client-care responsibility from one nurse or provider to another, such as at shift change or care transitions—a high-risk moment.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Define conflict.",
+      "back": "Disagreement or discord among individuals, groups, or organizations that prevents problem solving and interferes with communication; normal, inevitable, and manageable.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Four levels of conflict?",
+      "back": "Intrapersonal (within one person), interpersonal (between individuals), intergroup (between groups), interorganizational (between organizations in one market).",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Overt vs. covert conflict?",
+      "back": "Overt: open, visible, easier to address. Covert: hidden; shows as gossip, complaining, passive-aggression, absenteeism, tardiness; causes more stress.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "When is competing the right conflict style?",
+      "back": "When defending a critical position on behalf of client safety.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Collaborating vs. compromising?",
+      "back": "Collaborating: win–win, both concerns fully met; best for complex issues where relationship and outcome matter. Compromising: each side gives up part; timely middle ground with equal power.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "When is avoiding acceptable?",
+      "back": "Only temporarily: to let emotions cool, gather more information, or when the issue is trivial—never when safety is at stake.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "When is accommodating appropriate?",
+      "back": "When one person is much less invested in the issue than the other—and never at the expense of client safety.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Two staff argue loudly near client rooms. First action?",
+      "back": "Move the discussion to a private place away from client care areas, stay calm, then let each person speak.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "An angry family member shouts about delayed care. Best approach?",
+      "back": "Acknowledge the feeling, address the client’s need, and involve the family in decisions to restore their sense of control.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Define conflict competence.",
+      "back": "The ability to manage conflict differently depending on the situation; developed through ongoing practice and self-awareness.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Horizontal violence vs. workplace bullying?",
+      "back": "Horizontal (lateral) violence: hostility toward a peer of equal standing. Bullying: repeated, health-harming mistreatment (verbal abuse, intimidation, sabotage).",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "A peer repeatedly withholds handoff information from a new nurse. What is it and what is done?",
+      "back": "Bullying (sabotage) that endangers clients—document specific incidents and report through the chain of command per policy.",
+      "topic": "conflict-management"
+    }
+  ],
+  "questions": [
+    {
+      "id": "m37-pro-001",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A client with rheumatoid arthritis is preparing for discharge to the home where she lives alone. She walks independently with a cane but tells the nurse she cannot fasten buttons, open medication bottles, or safely lift pots while cooking. Which referral should the nurse recommend to the interprofessional team?",
+      "options": [
+        "Physical therapy for gait training and lower-extremity strengthening",
+        "Case management to arrange daily visits from a home health aide",
+        "Occupational therapy for adaptive devices and ADL retraining",
+        "Social work for an evaluation of caregiver resources in the home"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The client already walks independently with a cane; her deficits involve hand function and daily tasks, not gait.",
+        "Incorrect. Daily aide visits substitute for the client’s independence rather than restoring it, and no one has yet evaluated what adaptive equipment could do.",
+        "Correct. Occupational therapists address performance of daily activities such as dressing, opening containers, and cooking, using adaptive devices and retraining.",
+        "Incorrect. Social work addresses coping, finances, and support systems; the problem described is functional, not a lack of caregivers or money."
+      ],
+      "rationale": "Translate the client’s problem into a function: buttoning, opening bottles, and cooking are activities of daily living that depend on fine motor and upper-extremity function. That is the core scope of occupational therapy, which uses exercises, adaptive devices, and technology so people can perform daily tasks at home and work. Physical therapy is the tempting distractor because both are rehabilitation disciplines, but PT focuses on mobility, gait, and musculoskeletal function, and this client already ambulates safely. Case management and social work may help later, but they do not address the functional deficit first.",
+      "takeaway": "ADLs and adaptive devices point to OT; walking, stairs, and gait point to PT.",
+      "hintContent": "Ask which body function the client cannot perform and which discipline owns that function.",
+      "hintStrategy": "For referral items, convert the complaint into a function (mobility, ADLs, swallowing, money) before reading the options.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-002",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A client with stage 4 chronic kidney disease and type 2 diabetes asks the nurse for help planning meals that limit potassium, phosphorus, and carbohydrates. The facility has a wellness coach who is a nutritionist and a registered dietitian available by consult. Which action by the nurse is most appropriate?",
+      "options": [
+        "Request a consult with the registered dietitian for medical nutrition therapy.",
+        "Ask the nutritionist to design the client’s renal and diabetic meal plan.",
+        "Give the client a general healthy-eating handout from the wellness coach.",
+        "Advise the client to follow the hospital diet and adjust it after discharge."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Disease-specific diets for kidney disease and diabetes are medical nutrition therapy, which is the scope of the registered dietitian.",
+        "Incorrect. A nutritionist teaches general healthy eating and does not provide medical nutrition therapy for acute or chronic disease.",
+        "Incorrect. General healthy-eating advice can conflict with renal restrictions (for example, high-potassium fruits and vegetables).",
+        "Incorrect. This defers a clearly identified learning need and gives the client no plan for managing restrictions at home."
+      ],
+      "rationale": "The registered dietitian (RD/RDN) is credentialed to provide medical nutrition therapy to prevent and manage acute and chronic conditions such as kidney disease and diabetes. A nutritionist may know a great deal about food but teaches general healthy diets and does not treat disease. The nutritionist option is the trap because the title sounds equivalent; the clue is the disease-specific restrictions. Generic healthy-eating materials may even be harmful for a client who must limit potassium.",
+      "takeaway": "Disease-specific diet planning = registered dietitian, not a nutritionist.",
+      "hintContent": "Consider whose credential covers nutrition therapy for a chronic disease rather than general wellness.",
+      "hintStrategy": "When two options name similar-sounding roles, find the scope difference that the stem’s details make decisive.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-003",
+      "topic": "nurse-collaborator",
+      "type": "sata",
+      "stem": "The RN is working with a nurse aide (UAP) on a medical-surgical unit. Which tasks are appropriate for the RN to delegate to the UAP? Select all that apply.",
+      "options": [
+        "Ambulating a client with stable COPD who walked the hallway twice yesterday",
+        "Measuring and recording intake and output for a client with stable heart failure",
+        "Assisting a client with no swallowing difficulty to eat lunch",
+        "Teaching a client who is newly prescribed insulin how to draw up a dose",
+        "Checking a client’s pain 30 minutes after IV morphine to evaluate relief",
+        "Monitoring a client during the first 15 minutes of a blood transfusion"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Ambulating a stable client with a predictable response is a routine task within UAP scope.",
+        "Correct. Measuring and recording I&O for a stable client is a standard, delegable task; the RN interprets the data.",
+        "Correct. Feeding a client without dysphagia is a routine supportive task appropriate for UAP.",
+        "Incorrect. Teaching is part of the nursing process and remains with the RN.",
+        "Incorrect. Evaluating the effect of an opioid requires nursing assessment and judgment.",
+        "Incorrect. The first 15 minutes of a transfusion carry the highest risk of an acute reaction; monitoring requires RN assessment and the ability to act immediately."
+      ],
+      "rationale": "The RN may delegate tasks, not the nursing process. Routine tasks with predictable outcomes for stable clients—ambulation, I&O measurement, and feeding without swallowing risk—fit the right task, right circumstance, and right person. Teaching, evaluating a medication response, and monitoring the first minutes of a transfusion require assessment and judgment. The transfusion option is tempting because it sounds like “just watching,” but recognizing an early reaction (chills, back pain, dyspnea, hypotension) and stopping the transfusion is an RN responsibility.",
+      "takeaway": "Delegate routine tasks for stable clients; keep assessment, teaching, evaluation, and unstable clients with the RN.",
+      "hintContent": "Sort each task by whether it needs nursing judgment and whether the client is stable.",
+      "hintStrategy": "In delegation SATA items, evaluate each option independently against “stable client + routine task + no assessment/teaching/evaluation.”",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-004",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "The charge nurse is making assignments for an RN and an LPN on a surgical unit. Which client is most appropriate to assign to the LPN?",
+      "options": [
+        "A client admitted 1 hour ago with acute pancreatitis who needs an admission assessment",
+        "A client 4 days after a below-knee amputation who needs a scheduled dressing change",
+        "A client receiving a first unit of packed red blood cells who reports new low back pain",
+        "A client being discharged today who needs initial teaching about a new anticoagulant"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The admission assessment of a newly admitted, acutely ill client is an RN responsibility.",
+        "Correct. A stable client with a predictable course needing a routine dressing change fits LPN scope under RN supervision.",
+        "Incorrect. New back pain during a transfusion suggests a possible hemolytic reaction; this client is unstable and needs the RN.",
+        "Incorrect. Initial teaching about a high-alert medication is an RN function; the LPN may reinforce teaching."
+      ],
+      "rationale": "LPNs contribute to care under RN supervision, best matched to stable clients with predictable outcomes and established care plans. The amputation client on day 4 needing a scheduled dressing change meets that description. A new admission requires RN assessment, a transfusion client with back pain may be having an acute reaction, and initial teaching about a new anticoagulant belongs to the RN. The discharge client is the tempting distractor because the client is stable, but the task (initial teaching) is outside the LPN’s role.",
+      "takeaway": "Assign LPNs stable, predictable clients; keep new admissions, unstable clients, and initial teaching with the RN.",
+      "hintContent": "Check both the client’s stability and what the task requires.",
+      "hintStrategy": "For assignment questions, eliminate any option with an unstable client or a task requiring assessment, initial teaching, or evaluation.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-005",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "The nurse educator is orienting new graduate nurses to collaborative practice. Which statement by a new nurse indicates a need for further teaching?",
+      "options": [
+        "“The client and family are team members who help set the goals of care.”",
+        "“Collaborating means we combine our skills so services are not duplicated.”",
+        "“When I collaborate, I share my assessment data and listen to other views.”",
+        "“Collaboration means the provider sets the plan and I carry out the orders.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This is accurate—clients and families are partners in collaborative care.",
+        "Incorrect. This is accurate—combining skills, knowledge, and resources while avoiding duplication is the core definition.",
+        "Incorrect. This is accurate—sharing expertise and listening to others’ viewpoints are collaborative behaviors.",
+        "Correct. This describes hierarchical, order-following care; collaboration is a partnership in which the nurse contributes to shared decisions."
+      ],
+      "rationale": "Collaboration occurs when two or more individuals—including the client—work toward a common goal by combining skills, knowledge, and resources and avoiding duplication. It is a partnership, not a chain of command. A nurse who believes collaboration means only carrying out orders leaves the nurse’s assessment data and the client’s voice out of decisions. The other statements reflect Box 37.2 behaviors with clients, peers, and other professionals.",
+      "takeaway": "Collaboration is a partnership with shared decision making, not one-way order following.",
+      "hintContent": "Look for the statement that describes hierarchy instead of partnership.",
+      "hintStrategy": "For “needs further teaching” items, find the one false statement; the other three will all be true.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-006",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A client with newly diagnosed hypertension tells the nurse, “I know I should exercise, but I work two jobs and can’t get to a gym.” Which response best demonstrates the nurse’s role as a collaborator with the client?",
+      "options": [
+        "“Your provider wants 30 minutes of exercise daily, so try to make the time.”",
+        "“Let’s look at your weekly schedule together and set a goal that feels realistic.”",
+        "“I’ll ask your provider whether a medicine change could replace exercise.”",
+        "“Many people feel that way, but exercise is not optional with your diagnosis.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This relays a directive and places responsibility on the client without exploring barriers or involving the client in goal setting.",
+        "Correct. Working with the client to set a mutually agreed-on, realistic goal reflects the nurse’s collaborative role with clients.",
+        "Incorrect. This bypasses the client’s participation and reframes lifestyle change as unnecessary.",
+        "Incorrect. This dismisses the client’s concern and uses pressure instead of partnership."
+      ],
+      "rationale": "Box 37.2 describes the nurse as a collaborator who encourages active client involvement and autonomy, treats the client as an equal team member, and helps set mutually agreed-on goals. Reviewing the client’s schedule together respects his reality and produces a goal he is more likely to follow, which improves adherence. Relaying the provider’s directive sounds supportive but is status-based and one-way. Dismissing the barrier or seeking a medication substitute removes the client from the decision.",
+      "takeaway": "Collaborating with clients means mutually agreed-on goals that fit their lives.",
+      "hintContent": "Which option makes the client a partner in deciding what he will do?",
+      "hintStrategy": "In communication items, prefer responses that explore and involve over responses that tell, insist, or bypass.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-007",
+      "topic": "nurse-collaborator",
+      "type": "sata",
+      "stem": "A medical unit implemented daily interprofessional rounds that include the client and family. Six months later, which data would indicate that the collaborative model is achieving its expected benefits? Select all that apply.",
+      "options": [
+        "Average client length of stay has decreased.",
+        "Fewer duplicate laboratory tests are being ordered.",
+        "Nurse turnover on the unit has declined.",
+        "Physicians now finalize discharge decisions before rounds begin.",
+        "Clients report more involvement in decisions about their care.",
+        "More disciplines now keep separate, unshared care plans."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Reduced length of stay is an expected client and system benefit of interprofessional collaboration.",
+        "Correct. Collaboration reduces duplication of services and lowers costs.",
+        "Correct. Teams in collaborative models report higher satisfaction and retention.",
+        "Incorrect. Decisions made before rounds reflect hierarchy and exclude the client and team from shared decision making.",
+        "Correct. Collaborative practice empowers clients to be informed, active partners in decisions.",
+        "Incorrect. Separate, unshared plans indicate fragmented parallel practice and duplication, not collaboration."
+      ],
+      "rationale": "Interprofessional collaboration benefits clients (active participation, better adherence, fewer complications and errors, shorter stays), teams (less hierarchy, more empowerment, higher satisfaction and retention), and systems (lower costs, better coordination, less duplication). Shorter stays, fewer duplicate tests, lower turnover, and greater client involvement are all evidence the model is working. Decisions finalized before rounds and separate care plans show the opposite—hierarchy and fragmentation.",
+      "takeaway": "Collaboration should show up as better client, team, and system outcomes with less duplication.",
+      "hintContent": "Sort benefits by client, team, and system levels; reject signs of hierarchy or fragmentation.",
+      "hintStrategy": "For evaluation SATA items, ask of each option: does this show the goal was met, or the problem persisting?",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-008",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A nurse who recently relocated to a new state and hospital receives an admission order set written by a physician assistant (PA). The nurse is unsure whether nurses in this state may implement PA orders. Which action is most appropriate?",
+      "options": [
+        "Implement the orders, because nurses in the previous state could accept PA orders.",
+        "Hold all of the orders until the supervising physician cosigns each one.",
+        "Verify the state nurse practice act and agency policy on PA orders.",
+        "Ask the charge nurse to carry out the orders until the nurse is certain."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Authority to implement orders does not transfer from one state to another; the nurse must verify this state’s nurse practice act and this agency’s policy.",
+        "Incorrect. Holding every order may delay needed care and adds a requirement that may not exist in this state.",
+        "Correct. Nurses must check their state nurse practice act and agency policy before following orders written by a PA; the charge nurse or policy can provide a quick answer.",
+        "Incorrect. Shifting the work to another nurse does not resolve the question and delays the nurse’s own accountability."
+      ],
+      "rationale": "Physician assistants diagnose and treat under physician direction, but the rules for nurses carrying out their orders are set by state law and agency policy. The nurse is accountable for knowing that the order source is legitimate before acting, so verification is the correct step—and it can be done quickly through policy or the charge nurse so care is not delayed. Implementing on assumption is the most tempting distractor, but what the nurse’s previous state allowed does not settle what this state and agency permit. Holding everything for cosignature imposes a rule that may not apply and could delay care.",
+      "takeaway": "Before implementing PA orders in a new setting, verify the state nurse practice act and agency policy.",
+      "hintContent": "The question is about the nurse’s own legal accountability for the source of an order.",
+      "hintStrategy": "When the stem says the nurse is unsure of scope or authority, the best answer is usually to verify with the authoritative source before acting.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-009",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A community health nurse is coordinating services for a 79-year-old client with heart failure and mild cognitive impairment who wants to remain in her own home. Her daughter, the primary caregiver, works full time and needs periodic relief. Which program best fits this client’s needs?",
+      "options": [
+        "An Assertive Community Treatment (ACT) team",
+        "Intermittent skilled home health nursing visits",
+        "A skilled nursing and rehabilitation facility",
+        "A Program of All-Inclusive Care for the Elderly (PACE)"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. ACT teams serve people with serious mental illness such as schizophrenia or bipolar disorder.",
+        "Incorrect. Home health provides short-term, intermittent skilled care for a homebound client with a skilled need; it does not provide ongoing caregiver respite, transportation, or comprehensive day services.",
+        "Incorrect. Facility placement contradicts the client’s goal of remaining at home and is not required by the information given.",
+        "Correct. PACE helps older adults stay in the community with medical care, respite care, transportation, and mental health services."
+      ],
+      "rationale": "PACE is designed for older adults who want to remain in the community; its interprofessional team provides medical care, respite for caregivers, transportation, and mental health care. The client’s age, chronic illness, desire to stay home, and the daughter’s need for relief all point to it. ACT is the tempting look-alike because it is also a community-based team, but it serves people with serious mental illness. Home health is a closer look-alike but is intermittent skilled care, not caregiver respite and transportation. A skilled facility does not respect the client’s stated goal.",
+      "takeaway": "PACE = older adults staying home with respite and transport; ACT = serious mental illness in the community.",
+      "hintContent": "Match the population (age, diagnosis) and the goal (stay home, caregiver relief) to the program.",
+      "hintStrategy": "When programs look alike, identify the population each one was designed for.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-010",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A UAP reports that a client who had a stroke 2 days ago coughed and sounded “gurgly” after drinking juice at lunch. The client’s diet order is regular with thin liquids. Which action should the nurse take first?",
+      "options": [
+        "Request a speech-language pathology consult for a swallowing evaluation.",
+        "Assess the client’s respiratory status and hold further oral intake.",
+        "Ask the dietitian to change the diet order to thickened liquids.",
+        "Instruct the UAP to sit the client upright for the rest of the meal."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. An SLP evaluation is needed, but it comes after the nurse assesses the airway and stops the source of aspiration.",
+        "Correct. Coughing and a wet voice suggest aspiration; the nurse must assess breathing and stop oral intake to protect the airway.",
+        "Incorrect. Changing liquid consistency requires an order and an evaluation; it does not address the immediate airway risk.",
+        "Incorrect. Positioning helps but continuing the meal exposes the client to further aspiration, and the RN has not assessed."
+      ],
+      "rationale": "A wet, gurgly voice and coughing with liquids after a stroke are cues of dysphagia and possible aspiration—an airway problem. The nurse first assesses respiratory status (rate, effort, lung sounds, oxygen saturation) and holds oral intake. The SLP consult is the tempting answer because the SLP owns swallowing evaluation, but collaboration does not replace the nurse’s immediate assessment and safety action. Diet changes need an order and evaluation, and continuing the meal upright still risks aspiration.",
+      "takeaway": "Assess and protect the airway first; then bring in the specialist.",
+      "hintContent": "Which option addresses the airway right now, and which ones are next steps?",
+      "hintStrategy": "When a stem asks for the first action and a physical risk exists, choose the assessment or safety action before the referral.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-011",
+      "topic": "nurse-collaborator",
+      "type": "sata",
+      "stem": "A client with heart failure and chronic kidney disease was admitted with fluid volume excess. Daily interprofessional rounds with the nurse, physician, dietitian, and case manager produced a plan that included diuresis, a low-sodium diet, and home care follow-up. Which findings indicate that the collaborative plan is effective? Select all that apply.",
+      "options": [
+        "Weight has decreased 2.5 kg since admission.",
+        "Crackles have cleared from both lung bases.",
+        "The client states he will avoid canned soups because of their sodium.",
+        "Oxygen saturation has fallen from 95% to 91% on room air.",
+        "Pitting edema has increased from 1+ to 3+.",
+        "The client plans to double his diuretic dose whenever his ankles swell."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Weight loss reflects removal of excess fluid.",
+        "Correct. Clearing crackles indicates improved fluid status and gas exchange.",
+        "Correct. This shows the client learned the dietitian’s low-sodium teaching.",
+        "Incorrect. Falling saturation suggests worsening gas exchange, not improvement.",
+        "Incorrect. Increasing edema indicates worsening fluid volume excess.",
+        "Incorrect. Self-adjusting the diuretic is unsafe and shows a learning need; changes should be made with the prescriber."
+      ],
+      "rationale": "Evaluating a collaborative plan means comparing outcomes to the goals each discipline helped set. Decreasing weight and clearing crackles show the diuresis is working, and the client’s correct statement about sodium shows the dietitian’s teaching was effective. Falling oxygen saturation and worsening edema show the problem persists. The diuretic statement sounds like engaged self-care, but self-adjusting medication is unsafe and signals the need for further teaching.",
+      "takeaway": "Evaluate a team plan by checking each goal—physiologic and learning—against current data.",
+      "hintContent": "Ask whether each finding shows fluid status and knowledge moving toward the goal.",
+      "hintStrategy": "For evaluation items, decide for each option whether it shows improvement, no change, or a new problem.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-012",
+      "topic": "nurse-collaborator",
+      "type": "sata",
+      "stem": "A nurse manager is evaluating a new graduate nurse on the QSEN Teamwork and Collaboration competency. Which observed behaviors demonstrate this competency? Select all that apply.",
+      "options": [
+        "Asks the charge nurse for help when two clients need care at the same time",
+        "Clarifies with the respiratory therapist who will titrate the client’s oxygen",
+        "Uses a structured tool to give report when transferring a client to the ICU",
+        "Completes all care alone to avoid burdening the busy team",
+        "Defers to the most senior nurse on every decision to avoid disagreement",
+        "Changes a client’s diet order after the client complains about the food"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Requesting help when needed is a listed QSEN teamwork skill.",
+        "Correct. Clarifying roles and managing overlaps in scope is a QSEN skill.",
+        "Correct. Following best practices to minimize risk during handoffs is a QSEN skill.",
+        "Incorrect. Refusing help ignores own limitations and puts clients at risk.",
+        "Incorrect. Automatic deference avoids conflict and silences the nurse’s own contribution.",
+        "Incorrect. Changing a diet order is outside nursing scope and bypasses the team."
+      ],
+      "rationale": "Box 37.1 lists observable QSEN Teamwork and Collaboration skills: functioning within one’s own scope, requesting help when needed, clarifying roles, soliciting input, initiating conflict resolution, and using best practices during handoffs. Asking for help, clarifying who titrates oxygen, and using a structured handoff all match. Doing everything alone may look conscientious but ignores personal limitations. Always deferring avoids conflict instead of participating in resolution, and changing an order violates scope.",
+      "takeaway": "QSEN teamwork skills include asking for help, clarifying roles, and safe handoffs.",
+      "hintContent": "Look for behaviors that keep the nurse within scope while drawing on the team.",
+      "hintStrategy": "For competency SATA items, picture each behavior on a real shift and ask whether it makes the team safer.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-013",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A nurse wants to collaborate at the legislative level to improve access to care for uninsured residents of her county. Which action best reflects this collaborative role?",
+      "options": [
+        "Testifying on a proposed state bill that would fund community clinics",
+        "Joining the hospital’s practice council to revise discharge paperwork",
+        "Referring uninsured clients on her unit to the social worker for resources",
+        "Sharing evidence on clinic access with peers at a monthly staff meeting"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Offering expert opinion on health legislation is the nurse’s collaborative role with legislators.",
+        "Incorrect. A practice council is an organizational, not legislative, level of collaboration.",
+        "Incorrect. Referral to social work is collaboration with other professionals for individual clients.",
+        "Incorrect. Sharing evidence with peers is collaboration with nursing colleagues."
+      ],
+      "rationale": "Box 37.2 describes the nurse collaborating with legislators by offering expert opinions on healthcare legislative initiatives and working with other providers and consumers on legislation that serves public needs. Testifying on a bill is a direct example. The other options are valuable collaborative behaviors at other levels—with the organization, other professionals, and peers—but they do not engage the legislative process.",
+      "takeaway": "Collaboration with legislators means bringing nursing expertise to health policy and law.",
+      "hintContent": "Identify which option actually involves lawmakers or legislation.",
+      "hintStrategy": "When every option is a “good” action, match the stem’s specific level or domain to the option.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-014",
+      "topic": "nurse-collaborator",
+      "type": "mcq",
+      "stem": "A client who had a total knee replacement insists on going home to his two-story house, where the only bathroom is upstairs. His spouse supports his decision but is worried about falls. Which action by the nurse is the best next step?",
+      "options": [
+        "Explain to the client that a rehabilitation facility is the safest place for him.",
+        "Ask the surgeon to delay discharge until the client agrees to a rehabilitation stay.",
+        "Arrange a meeting with the client, spouse, physical therapist, and case manager.",
+        "Teach the spouse to help the client climb stairs safely before he leaves today."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This overrides the client’s goal before the team has assessed whether home can be made safe.",
+        "Incorrect. Using discharge as leverage is coercive and does not respect autonomy.",
+        "Correct. An interprofessional meeting that includes the client and spouse lets PT assess stair safety and the case manager arrange home health and equipment while honoring the client’s wishes.",
+        "Incorrect. Stair training is part of PT’s plan and should follow a team assessment; teaching alone does not solve the bathroom access and equipment issues."
+      ],
+      "rationale": "This mirrors Clinical Example A: the team respected the client’s wish to go home despite stairs, coordinated home health and PT safety assessments, solved equipment and financial barriers through social work, and documented the collaborative decision. Bringing the client, spouse, PT, and case manager together is the collaborative next step. Teaching the spouse is the tempting distractor because it seems practical and immediate, but it skips assessment and the broader plan (bedside commode, home safety evaluation, home PT).",
+      "takeaway": "When a client’s goal conflicts with a safety concern, convene the team—with the client—to make the goal safe.",
+      "hintContent": "Which option respects the client’s goal while addressing the spouse’s safety concern?",
+      "hintStrategy": "Eliminate options that override autonomy or act before the team has assessed; choose the one that includes the client in the plan.",
+      "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-015",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "The nurse prepares to call the provider about a client and writes SBAR notes (see exhibit). Which statement best completes the Recommendation portion?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "SBAR notes",
+            "table": {
+              "headers": [
+                "Component",
+                "Nurse’s notes"
+              ],
+              "rows": [
+                [
+                  "Situation",
+                  "Mr. Brooks, 72, Room 508: new shortness of breath; SpO2 88% on 2 L/min nasal cannula."
+                ],
+                [
+                  "Background",
+                  "Admitted 2 days ago with pneumonia; history of heart failure; received 2 L of IV fluid today."
+                ],
+                [
+                  "Assessment",
+                  "RR 28, crackles to mid-lung bilaterally, 2+ ankle edema. I think he may be developing fluid overload."
+                ],
+                [
+                  "Recommendation",
+                  "?"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "“He has a history of heart failure and has received a lot of fluid today.”",
+        "“I think his heart failure is getting worse because of the IV fluids.”",
+        "“His respiratory rate is 28, and he has crackles halfway up both lungs.”",
+        "“Please evaluate him now; I’m requesting a chest X-ray and a diuretic.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This repeats the Background.",
+        "Incorrect. This is the nurse’s interpretation, which belongs in Assessment.",
+        "Incorrect. These are assessment data already given.",
+        "Correct. The Recommendation/Request states clearly what the nurse needs: an evaluation now and specific orders."
+      ],
+      "rationale": "SBAR ends with a Recommendation or Request so the provider knows exactly what the nurse needs. Calls often fail at this step—the nurse reports good data and then stops, leaving the provider to guess. Each distractor repeats a component the nurse has already covered: Background, Assessment interpretation, or assessment data. A clear request with a time frame (“now”) is what turns information into action.",
+      "takeaway": "Always end SBAR with a specific request and time frame.",
+      "hintContent": "Match each option to the SBAR letter it actually belongs to.",
+      "hintStrategy": "For structured-tool items, label every option with its component; the one that fits the blank is the answer.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-016",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "During a rapid response for a client with chest pain, the physician asks, “What’s the pressure?” The nurse at the monitor says loudly, “Eighty-six over sixty,” so that everyone in the room hears at once. Which TeamSTEPPS strategy has the nurse used?",
+      "options": [
+        "Checkback",
+        "CUS",
+        "Handoff",
+        "Call-out"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Checkback is a closed loop in which a receiver repeats a message and the sender confirms it.",
+        "Incorrect. CUS is a script for escalating a safety concern.",
+        "Incorrect. A handoff transfers responsibility for care between providers.",
+        "Correct. A call-out broadcasts critical information to all team members simultaneously during an urgent event."
+      ],
+      "rationale": "A call-out reports critical information to the whole team at the same moment so everyone can anticipate the next step—exactly what happens when a vital sign is announced aloud during a rapid response. Checkback is the most commonly confused option; it involves a specific message repeated back and confirmed between sender and receiver. CUS escalates concerns, and handoff transfers responsibility.",
+      "takeaway": "Call-out = critical information broadcast to the whole team at once.",
+      "hintContent": "Notice who receives the information: one person or the whole room?",
+      "hintStrategy": "Distinguish communication tools by their audience and purpose rather than their words.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-017",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "A provider gives the nurse a telephone order: “Give potassium chloride 10 mEq in 100 mL IV over 1 hour.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Got it—potassium chloride IV. I’ll hang it when pharmacy sends it up.”",
+        "“I’ll document this as a phone order so you can sign it tomorrow.”",
+        "“Potassium chloride 10 mEq in 100 mL IV over 1 hour—is that correct?”",
+        "“Okay. Is there anything else you would like me to do for the client?”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Acknowledging only the drug and route omits the dose and rate—the details most likely to be misheard.",
+        "Incorrect. Documentation is required, but it does not verify that the order was heard correctly.",
+        "Correct. Repeating the full order and asking for confirmation is checkback, closing the communication loop.",
+        "Incorrect. This ends the call without verifying a high-alert medication order."
+      ],
+      "rationale": "Checkback is closed-loop communication: the receiver repeats the critical information and the sender confirms it. IV potassium is a high-alert medication, and dose and rate errors can be fatal, so the nurse repeats the entire order and waits for confirmation before acting. A partial read-back is the tempting distractor because it sounds like verification, but it skips the exact elements that most need checking.",
+      "takeaway": "Read back the complete verbal or telephone order and get the sender’s confirmation before acting.",
+      "hintContent": "Which option would catch a misheard dose or rate?",
+      "hintStrategy": "For verbal-order items, choose the option that repeats every element and requests confirmation.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-018",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "Before an operation, the circulating nurse notices that the surgical consent lists the client’s left knee but the right knee has been marked and prepped. The nurse has stated the concern to the surgeon twice. The surgeon replies, “It’s fine—we’re behind schedule,” and asks for the scalpel. Which action should the nurse take next?",
+      "options": [
+        "Hand the scalpel to the surgeon and complete an incident report afterward.",
+        "Stop the procedure and immediately notify the perioperative charge nurse.",
+        "Document the surgeon’s response in the record and continue with the case.",
+        "Report the surgeon to the state medical board after the procedure ends."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Proceeding allows a possible wrong-site surgery; reporting afterward does not protect the client.",
+        "Correct. After two challenges go unaddressed, the nurse takes stronger action—stopping the procedure and escalating up the chain of command.",
+        "Incorrect. Documentation without action leaves the client at risk.",
+        "Incorrect. External reporting is not the immediate next step and does nothing to prevent the error now."
+      ],
+      "rationale": "The Two-Challenge Rule gives every team member the right and duty to voice a safety concern at least twice. If the concern is still not addressed, the member takes additional action and goes up the chain of command. Here the next step is to stop the procedure (any team member may call a stop for a site discrepancy) and immediately involve the perioperative charge nurse or supervisor. An incident report afterward is the tempting choice because it is a recognized safety tool, but it does not prevent harm that is about to occur.",
+      "takeaway": "After two unaddressed challenges, stop the unsafe action and escalate up the chain of command.",
+      "hintContent": "The concern has already been voiced twice—what does the rule say comes next?",
+      "hintStrategy": "When harm is imminent, choose the action that prevents it now over actions that report it later.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [
+        "conflict-management"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-019",
+      "topic": "ipec-teamstepps",
+      "type": "sata",
+      "stem": "The nurse is giving handoff using I PASS THE BATON. Which information belongs in the “Safety concerns” portion of the report? Select all that apply.",
+      "options": [
+        "Potassium of 2.9 mEq/L resulted 1 hour ago",
+        "Latex allergy confirmed with the client",
+        "High fall risk; bed alarm is on",
+        "Contact precautions for MRSA in a wound",
+        "History of hypertension for 15 years",
+        "Plan to ambulate the client at 1400"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Critical laboratory values are safety concerns.",
+        "Correct. Allergies are safety concerns.",
+        "Correct. Fall risk is a safety concern.",
+        "Correct. Infection and isolation status are safety concerns.",
+        "Incorrect. Medical history belongs under Background (the B that follows the connecting word “THE”).",
+        "Incorrect. Planned interventions belong under Actions and Timing."
+      ],
+      "rationale": "In I PASS THE BATON, the Safety section covers critical lab values, allergies, falls, infection, and social issues—the items most likely to cause harm if missed at a transition. Medical history belongs to Background (the B after the connecting word “THE”), and planned interventions fall under Actions and Timing. QSEN reminds nurses that care transitions are risky, which is why safety items get their own dedicated step.",
+      "takeaway": "Handoff safety concerns = critical labs, allergies, falls, infection, and social issues.",
+      "hintContent": "Ask which items could cause harm in the next hour if the oncoming nurse never heard them.",
+      "hintStrategy": "Assign each option to a letter of the mnemonic and select only those that fit the named section.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m37-pro-020",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "A charge nurse wants to use team-centered communication during a huddle about a client who keeps refusing physical therapy. Which statement best reflects this approach?",
+      "options": [
+        "“Mr. Hale is worried therapy will hurt. What ideas do we have to help him?”",
+        "“You need to get him to therapy today, or his discharge will be delayed.”",
+        "“I told therapy he’d go at 1000, so make sure he is ready on time.”",
+        "“Therapy is the PT’s responsibility, so the PT can handle his refusal.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. It centers the client’s concern, uses “we,” and invites input from the team.",
+        "Incorrect. This is a status-based “you” command that discourages input.",
+        "Incorrect. A decision made alone and passed down is one-way, status-based communication.",
+        "Incorrect. This rejects shared responsibility for a team goal."
+      ],
+      "rationale": "Team-centered communication flattens hierarchy, shows appreciation, and focuses on “we” and on the client’s concerns (“Mr. X is concerned about… What are your thoughts?”). It invites everyone to contribute solutions, which surfaces ideas such as timing pain medication before therapy. Status-based communication—one-sided commands like “You need to…”—discourages people from speaking up and increases error risk. Assigning the problem solely to PT ignores that team goals come before individual roles.",
+      "takeaway": "Team-centered statements start with the client’s concern and invite “our” solutions.",
+      "hintContent": "Listen for “we,” the client’s concern, and a question that invites input.",
+      "hintStrategy": "In communication items, eliminate commands and blame; choose the option that invites participation.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [
+        "conflict-management"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-021",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "A nurse preceptor reviews closed-loop communication with an orientee. Which statement by the orientee indicates a need for further teaching?",
+      "options": [
+        "“I repeat back verbal orders and wait for the prescriber to confirm them.”",
+        "“I read back critical lab values when I receive them by telephone.”",
+        "“I only need to use checkback when I didn’t understand the message.”",
+        "“If the sender doesn’t confirm my read-back, the loop isn’t closed.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This is correct checkback practice.",
+        "Incorrect. This is correct; critical values are read back.",
+        "Correct. Checkback is used for all critical information, not only unclear messages—errors happen when people think they heard correctly.",
+        "Incorrect. This is correct; confirmation by the sender completes the loop."
+      ],
+      "rationale": "Checkback is a closed-loop technique in which the receiver repeats critical information and the sender confirms it. Its value lies in catching errors the receiver does not know they made—the person who mishears “15” as “50” believes they understood. That is why it is used routinely for verbal orders and critical values, not just when the message seemed unclear. The other statements correctly describe repeat-back plus confirmation.",
+      "takeaway": "Use checkback for all critical information, every time.",
+      "hintContent": "Which statement makes checkback optional?",
+      "hintStrategy": "In “needs further teaching” items, words like “only,” “never,” and “always” often signal the incorrect statement—verify against the principle.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-022",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "The nurse receives handoff on four clients (see exhibit). Which client requires follow-up first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Handoff notes",
+            "table": {
+              "headers": [
+                "Room",
+                "Report from off-going nurse"
+              ],
+              "rows": [
+                [
+                  "401",
+                  "72 years old, post-op day 2 hip repair; pain 3/10 after oral oxycodone; ambulated with PT."
+                ],
+                [
+                  "402",
+                  "45 years old, cellulitis; IV cefazolin due in 2 hours; temperature 37.6°C (99.7°F)."
+                ],
+                [
+                  "403",
+                  "58 years old, heart failure, takes digoxin; potassium 2.8 mEq/L resulted 1 hour ago; “I think day shift was going to tell the provider.”"
+                ],
+                [
+                  "404",
+                  "80 years old, pneumonia; SpO2 94% on 2 L/min; discharge teaching planned for tomorrow."
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "The client in Room 401",
+        "The client in Room 402",
+        "The client in Room 403",
+        "The client in Room 404"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Controlled pain and ambulation indicate an expected recovery.",
+        "Incorrect. A low-grade temperature with antibiotics scheduled is not the most urgent concern.",
+        "Correct. Hypokalemia with digoxin increases the risk of toxicity and dysrhythmias, and ownership of the provider notification is unclear.",
+        "Incorrect. A saturation of 94% on low-flow oxygen is acceptable, and teaching can wait."
+      ],
+      "rationale": "Handoffs are high-risk because information and responsibility can fall between shifts. A potassium of 2.8 mEq/L in a client taking digoxin raises the risk of digoxin toxicity and dangerous dysrhythmias, and the report shows no one clearly owns the follow-up. The oncoming nurse should assess the client and confirm the provider is notified immediately. The cellulitis client is tempting because of the temperature and pending antibiotic, but neither finding is urgent compared with an unaddressed critical electrolyte imbalance.",
+      "takeaway": "A critical value with unclear ownership at handoff needs immediate follow-up.",
+      "hintContent": "Look for both a physiologic risk and a gap in who is responsible.",
+      "hintStrategy": "In handoff priority items, flag any critical value, then any item where “ownership” is unclear.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-023",
+      "topic": "ipec-teamstepps",
+      "type": "sata",
+      "stem": "A nurse manager learns from a survey that physicians rate nurse–physician communication on the unit as excellent, while nurses rate it as poor. Which strategies are evidence-based ways to improve collaboration? Select all that apply.",
+      "options": [
+        "Implement daily interdisciplinary bedside rounds",
+        "Offer joint nurse–physician simulation training",
+        "Hold brief team huddles to share each day’s plan",
+        "Schedule separate nursing and medical staff meetings",
+        "Require that all concerns be sent by written message",
+        "Obtain administrative support for a speak-up culture"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Interdisciplinary rounding builds shared understanding of the plan and of each other’s roles.",
+        "Correct. Interprofessional education and joint simulation address segregated professional training.",
+        "Correct. Huddles create a shared mental model of the day’s plan.",
+        "Incorrect. Separate meetings reinforce silos and segregated communication.",
+        "Incorrect. Written-only communication removes dialogue and can delay urgent concerns.",
+        "Correct. Administrative support is needed to build a positive interprofessional culture."
+      ],
+      "rationale": "Nurses and physicians often perceive collaboration differently, with physicians rating it more positively. Barriers include hierarchy, power struggles, differing role perceptions, and segregated education. Evidence-based solutions include interprofessional education, interdisciplinary rounding, shared mental models, mutual understanding of roles, improved communication, and administrative support. Separate meetings and written-only messaging may seem efficient, but they deepen the divisions that cause the problem.",
+      "takeaway": "Fix collaboration barriers by bringing professions together—rounds, IPE, huddles—with leadership support.",
+      "hintContent": "Ask whether each strategy brings the professions together or keeps them apart.",
+      "hintStrategy": "For “evidence-based strategy” SATA items, tie each option to the root cause named in the stem.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [
+        "conflict-management"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-024",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "During an interprofessional care conference for a client with COPD who is preparing for discharge, the nurse takes several actions. Which action best demonstrates the IPEC Roles and Responsibilities competency?",
+      "options": [
+        "Treating a UAP’s observations with the same respect as a physician’s",
+        "Using SBAR to report a change in the client’s condition to the provider",
+        "Putting the team’s goals for the client ahead of personal preferences",
+        "Explaining to the client how the pharmacist and RT will each help in care"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Valuing every member as an equal reflects Values and Ethics.",
+        "Incorrect. Using SBAR reflects the Communication competency.",
+        "Incorrect. Putting team goals first reflects Teams and Teamwork.",
+        "Correct. Understanding others’ roles and clearly communicating each role to the client is Roles and Responsibilities."
+      ],
+      "rationale": "The Roles and Responsibilities competency requires understanding and appreciating every team member’s role and scope, using each person’s unique skills, and clearly communicating roles to the client. Explaining what the pharmacist and RT will do shows the nurse knows their roles and helps the client know whom to ask about what. Each distractor is a real IPEC behavior from a different competency, which is why this item requires distinguishing them rather than recognizing good behavior.",
+      "takeaway": "Roles and Responsibilities = knowing, using, and explaining each member’s scope.",
+      "hintContent": "All four actions are good—decide which competency each one demonstrates.",
+      "hintStrategy": "When every option is correct behavior, match the option to the exact concept named in the stem.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [
+        "nurse-collaborator"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-025",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "A provider plans to discharge a client whose heart rate has been 124 to 130/min for the past 4 hours. Using CUS, the nurse first said, “I’m concerned about his heart rate,” and the provider replied, “He’s just anxious.” The nurse then said, “I’m uncomfortable discharging him with this heart rate,” and the provider answered, “Noted—go ahead with the discharge.” Which statement should the nurse make next?",
+      "options": [
+        "“This is a safety issue. I need you to evaluate him before he leaves.”",
+        "“I’ll discharge him as ordered and document that I disagreed with it.”",
+        "“Could we talk about his discharge plan later this afternoon instead?”",
+        "“The other nurses also think sending him home is a bad idea today.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This completes the CUS script with its final step—naming a Safety issue—and makes a specific request, signaling that the team must stop and reassess before discharge.",
+        "Incorrect. Documenting disagreement while carrying out a plan the nurse believes is unsafe does not protect the client.",
+        "Incorrect. Postponing the conversation avoids the concern while the discharge proceeds.",
+        "Incorrect. Invoking others’ opinions is not a structured, data-based escalation and is likely to increase conflict."
+      ],
+      "rationale": "CUS is a TeamSTEPPS escalation script with three escalating steps: “I am Concerned… I am Uncomfortable… This is a Safety issue.” The nurse has already used the first two steps, and the client is still being discharged with persistent tachycardia, so the next step is to state plainly that this is a safety issue and request a specific action. The standardized words signal to any team member, regardless of hierarchy, that the concern must be acknowledged. Documenting disagreement is the tempting option because it feels protective, but it leaves the client at risk. If the safety statement is still dismissed, the nurse follows the Two-Challenge Rule and goes up the chain of command.",
+      "takeaway": "CUS escalates in order—Concerned, Uncomfortable, then “This is a Safety issue” with a specific request.",
+      "hintContent": "The nurse has already used two of the three CUS steps—which one is left?",
+      "hintStrategy": "When a stem shows part of a script already used, identify the next step in the sequence rather than restarting or abandoning it.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [
+        "conflict-management"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-026",
+      "topic": "ipec-teamstepps",
+      "type": "sata",
+      "stem": "A pediatric unit is redesigning rounds so that clients and families function as members of the team. Which practices support this goal? Select all that apply.",
+      "options": [
+        "Inviting parents to take part in bedside rounds",
+        "Asking the family which goals matter most to them",
+        "Pausing during rounds to answer parents’ questions",
+        "Asking parents to wait outside so rounds move faster",
+        "Informing the family of decisions after rounds end",
+        "Having the attending physician do most of the talking"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Including parents at rounds makes them active team members.",
+        "Correct. Eliciting the family’s goals supports shared decision making.",
+        "Correct. Families need opportunities to ask questions and access information.",
+        "Incorrect. Excluding parents treats them as outsiders to the team.",
+        "Incorrect. Informing after the fact excludes the family from deciding.",
+        "Incorrect. When one professional dominates, family voices are crowded out."
+      ],
+      "rationale": "In the Teams and Teamwork competency, clients and families are team members with opportunities to voice concerns, ask questions, access information, and participate in care. Inviting parents to rounds, asking about their goals, and answering questions all build that participation. Research cited in this module found physicians spoke about 90% of the time in pediatric ICU family meetings, which illustrates how families get crowded out. Informing families afterward may seem respectful but excludes them from the decision itself.",
+      "takeaway": "Families are team members—include them in rounds, goals, and decisions.",
+      "hintContent": "Ask whether each practice gives the family a voice before decisions are made.",
+      "hintStrategy": "For family-centered SATA items, reject options that are efficient for staff but exclude the family.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [
+        "nurse-collaborator"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-027",
+      "topic": "ipec-teamstepps",
+      "type": "sata",
+      "stem": "Six months after a unit adopted TeamSTEPPS, the nurse manager reviews data. Which findings indicate that the program is improving team communication and safety? Select all that apply.",
+      "options": [
+        "Handoff-related medication errors have decreased.",
+        "More staff report feeling safe to voice concerns.",
+        "Read-back of verbal orders is documented more consistently.",
+        "Fewer staff use CUS because they fear being labeled difficult.",
+        "Handoffs are shorter because safety items are now skipped.",
+        "Rapid response calls are being delayed until morning rounds."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Fewer handoff-related errors show safer care transitions.",
+        "Correct. Psychological safety to speak up is a central goal of TeamSTEPPS.",
+        "Correct. Consistent read-back shows closed-loop communication is being used.",
+        "Incorrect. Fear of speaking up shows a persisting hierarchical culture.",
+        "Incorrect. Shorter handoffs achieved by skipping safety items increase risk.",
+        "Incorrect. Delayed escalation shows the culture of speaking up has not improved."
+      ],
+      "rationale": "TeamSTEPPS was developed to reduce errors, flatten hierarchies, and standardize communication during routine care and handoffs. Fewer handoff-related errors, more staff feeling safe to raise concerns, and consistent read-back all indicate the program is working. Shorter handoffs might look like efficiency but are a red flag if safety items are dropped. Avoiding CUS or delaying rapid responses shows that barriers to speaking up remain.",
+      "takeaway": "TeamSTEPPS success = fewer errors, more speaking up, and consistent closed-loop communication.",
+      "hintContent": "For each finding, ask whether it shows communication becoming safer or riskier.",
+      "hintStrategy": "In evaluation SATA items, watch for options that sound efficient but sacrifice safety.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m37-pro-028",
+      "topic": "ipec-teamstepps",
+      "type": "mcq",
+      "stem": "At 0300, the nurse notes that a client who had abdominal surgery yesterday has a new heart rate of 118/min and says, “I just don’t feel right.” The nurse plans to call the on-call provider. Which action should the nurse take first?",
+      "options": [
+        "Page the provider right away and report the new heart rate.",
+        "Complete a focused assessment and gather current data.",
+        "Document the heart rate and recheck it again in 1 hour.",
+        "Ask the charge nurse to call the provider in the nurse’s place."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Calling with a single number leaves the provider without the data needed to decide and weakens the SBAR.",
+        "Correct. Assessing the client (vital signs, pain, dressing, drains, output) provides the Situation, Background, and Assessment data for an effective call.",
+        "Incorrect. Waiting an hour delays recognition of a possible complication such as bleeding or sepsis.",
+        "Incorrect. The nurse who knows the client should assess and call; delegating the call adds delay and loses information."
+      ],
+      "rationale": "Before calling a provider, the nurse assesses the client and gathers current data so the SBAR call is complete and actionable. A new tachycardia with a sense that something is wrong could signal bleeding, sepsis, or another complication, and the provider will need vital signs, assessment findings, and recent labs to decide. Paging immediately is the tempting distractor because the change is concerning, but an incomplete report often leads to a dismissive answer. This is not an arrest situation, so a rapid focused assessment comes first.",
+      "takeaway": "Assess the client and gather the data before you call.",
+      "hintContent": "Consider what the provider will ask for on the phone.",
+      "hintStrategy": "Unless the client is in immediate danger, “assess first” beats “report” in priority questions.",
+      "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-029",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A night-shift nurse is offered a coveted day-shift position on the cardiac unit. She tells a colleague she feels torn because days would mean missing her children’s school pickup, but working nights leaves her exhausted. Which type of conflict is the nurse experiencing?",
+      "options": [
+        "Interpersonal",
+        "Intrapersonal",
+        "Intergroup",
+        "Interorganizational"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Interpersonal conflict occurs between two or more people; no one is in conflict with her.",
+        "Correct. Intrapersonal conflict is tension within one person caused by incompatible expectations or role conflict.",
+        "Incorrect. Intergroup conflict occurs between competing teams or groups.",
+        "Incorrect. Interorganizational conflict occurs between organizations competing in the same market."
+      ],
+      "rationale": "Intrapersonal conflict is stress within an individual from real or perceived pressure created by incompatible expectations—here, family responsibilities versus fatigue and career goals. Interpersonal is the most common wrong pick because she is talking to a colleague, but the colleague is a listener, not a party to the conflict. Classifying the level matters because intrapersonal conflict is addressed through reflection, support, and sometimes a conversation about role expectations rather than mediation.",
+      "takeaway": "Intrapersonal = the conflict lives inside one person.",
+      "hintContent": "Ask who the opposing parties are in this conflict.",
+      "hintStrategy": "For classification items, identify the parties first; the number and type of parties names the level.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-030",
+      "topic": "conflict-management",
+      "type": "sata",
+      "stem": "After a new self-scheduling policy is introduced, the nurse manager observes several changes on the unit. Which observations suggest covert conflict? Select all that apply.",
+      "options": [
+        "Increased tardiness among day-shift staff",
+        "Gossip about the policy in the break room",
+        "Sarcastic remarks about “management’s great idea”",
+        "Rising unplanned absences on weekend shifts",
+        "A staff nurse openly disputing the policy at a meeting",
+        "A written staff request to discuss the policy"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Tardiness is a repressive behavior typical of covert conflict.",
+        "Correct. Gossip is a reactive or avoidant behavior of covert conflict.",
+        "Correct. Sarcasm is a passive-aggressive expression of hidden conflict.",
+        "Correct. Absenteeism is a repressive behavior of covert conflict.",
+        "Incorrect. Open disagreement is overt conflict.",
+        "Incorrect. A formal written request is an open, direct expression of disagreement."
+      ],
+      "rationale": "Covert conflict lies below the surface and appears as reactive or avoidant behaviors (complaining, gossiping, passive-aggression) or repressive behaviors (absenteeism, tardiness). Because people perceive it differently, it causes more stress and confusion and is harder to resolve. Open disagreement at a meeting and a written request are overt—visible and therefore easier to address. A manager who recognizes covert cues should bring the issue into the open in a safe, nonpunitive forum.",
+      "takeaway": "Gossip, sarcasm, tardiness, and absenteeism signal covert conflict.",
+      "hintContent": "Ask whether each behavior expresses the disagreement openly or indirectly.",
+      "hintStrategy": "Sort each option into “visible and direct” versus “hidden and indirect.”",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-031",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A nurse and a respiratory therapist begin a heated disagreement in the hallway outside a client’s room about who should teach the client to use an incentive spirometer. The client and a visitor can hear them. Which action by the nurse is most appropriate first?",
+      "options": [
+        "Suggest that they continue the discussion in the staff conference room.",
+        "Ask the client which professional the client would prefer to teach him.",
+        "Tell the respiratory therapist the behavior will be reported to the manager.",
+        "Keep explaining the nursing role until the therapist agrees with the plan."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Moving the discussion to a private place away from client care areas protects privacy and lowers tension before problem solving.",
+        "Incorrect. Involving the client in a staff dispute is inappropriate and does not address the public conflict.",
+        "Incorrect. A threat is destructive criticism and escalates the conflict.",
+        "Incorrect. Persisting to win is competing on a nonsafety issue and keeps the argument public."
+      ],
+      "rationale": "A staff-level prevention and management strategy is to discuss conflicts in a private place, away from client care areas, while maintaining a calm, respectful demeanor. Once in private, both can share perspectives and agree on roles—for example, the RT teaching technique and the nurse reinforcing it. Threatening to report is tempting because the behavior is unprofessional, but threats are destructive and escalate conflict. Asking the client to choose drags the client into a staff dispute.",
+      "takeaway": "First move a heated staff conflict out of client areas into a private space.",
+      "hintContent": "What is the immediate problem created by where this argument is happening?",
+      "hintStrategy": "For conflict-in-progress items, secure privacy and calm before problem solving.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-032",
+      "topic": "conflict-management",
+      "type": "sata",
+      "stem": "A nurse is learning when the avoiding conflict style may be used. In which situations is temporarily avoiding the conflict an appropriate choice? Select all that apply.",
+      "options": [
+        "Two nurses are too upset to talk calmly right after a stressful code.",
+        "The nurse needs to gather more facts before discussing a scheduling complaint.",
+        "A coworker prefers a different brand of pen for charting than the nurse does.",
+        "A colleague plans to skip a client’s ordered neurologic checks tonight.",
+        "A provider orders a medication dose the nurse believes is unsafe.",
+        "The team disagrees about a complex discharge plan that needs everyone’s input."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Temporary avoidance lets emotions cool so the issue can be addressed productively later.",
+        "Correct. Avoiding is helpful when more information is needed.",
+        "Correct. Avoiding is appropriate for trivial issues.",
+        "Incorrect. Missed neurologic checks threaten client safety and must be addressed now.",
+        "Incorrect. A possibly unsafe dose requires the nurse to question and clarify, not avoid.",
+        "Incorrect. A complex, high-stakes issue calls for collaborating."
+      ],
+      "rationale": "Avoiding is useful only when more information is needed, emotions need to cool, or the issue is trivial. Sustained avoidance leads to negative outcomes, but brief avoidance can help people regain composure before addressing the root issue. Any situation involving client safety—missed neurologic checks or a possibly unsafe dose—requires immediate, assertive action. A complex discharge plan needing everyone’s input calls for collaborating, not avoiding.",
+      "takeaway": "Avoid only to cool down, gather facts, or skip the trivial—never when safety is at stake.",
+      "hintContent": "Check each situation for client safety risk and for how important the issue is.",
+      "hintStrategy": "Apply the style’s “best use” criteria to each option independently; safety always disqualifies avoiding.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-033",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A provider orders morphine 10 mg IV for a frail client whose usual dose has been 1 mg. When the nurse questions the order, the provider says, “Just give it—I’m busy.” The nurse firmly declines to give the dose and asks that the order be clarified before any medication is given. Which statement best describes the nurse’s approach?",
+      "options": [
+        "Compromising, which is appropriate because each side gets part of what it wants",
+        "Avoiding, which is appropriate because it postpones the issue until later",
+        "Collaborating, which is inappropriate because the provider’s needs are unmet",
+        "Competing, which is appropriate because it defends client safety"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The nurse did not split the difference; compromising on a possibly unsafe dose would be inappropriate.",
+        "Incorrect. The nurse addressed the issue directly rather than postponing it.",
+        "Incorrect. The nurse did not seek a win–win solution; the nurse held a firm position.",
+        "Correct. Competing is assertive and power-oriented, and it is appropriate when defending a critical position on behalf of client safety."
+      ],
+      "rationale": "Competing is an assertive, power-oriented style that can appear self-centered, but it is the appropriate choice when defending a critical position for client safety. A dose ten times the usual amount in a frail client risks respiratory depression, so the nurse holds firm and seeks clarification. Compromising is the tempting distractor because it sounds cooperative, yet “half the dose” is not acceptable when the order itself may be unsafe. The nurse continues with the chain of command if the provider insists.",
+      "takeaway": "Competing is the right style when client safety is at stake.",
+      "hintContent": "Identify both how assertive the nurse was and whether the situation justified it.",
+      "hintStrategy": "For two-part options (style + appropriateness), confirm both halves; eliminate any option with one wrong half.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-034",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A nurse wants a client with postoperative pain to work with physical therapy after an analgesic dose that is due at 1000. The physical therapist wants to see the client at 0900. Both value the outcome and their working relationship. Which action by the nurse reflects the collaborating style?",
+      "options": [
+        "Agree to the 0900 session, since therapy schedules are harder to change.",
+        "Insist that therapy wait until after 1000, since pain is a nursing priority.",
+        "Meet with the PT and client to plan pain relief and therapy times that fit both.",
+        "Propose a 0930 session so each discipline gives up half an hour of its plan."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Giving up the nurse’s concern to satisfy the PT is accommodating.",
+        "Incorrect. Insisting on the nurse’s position is competing.",
+        "Correct. Exploring both perspectives with the client to build a plan that fully meets both goals is collaborating.",
+        "Incorrect. Splitting the difference so each side partly gives up its goal is compromising."
+      ],
+      "rationale": "Collaborating is cooperative and highly assertive: it seeks insight into others’ perspectives to reach a creative win–win solution. It is ideal for complex clinical or team issues where both the relationship and the outcome matter. Here, the team might discover that an analgesic time adjustment allowed by the order or a different therapy slot meets both goals. Compromising is the closest distractor, but it leaves both parties only partially satisfied rather than fully solving the problem.",
+      "takeaway": "Collaborating = both concerns fully met; compromising = each side gives up part.",
+      "hintContent": "Which option looks for a solution that satisfies both disciplines completely?",
+      "hintStrategy": "Map each option to a Thomas–Kilmann style by asking how much each party gets.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [
+        "nurse-collaborator"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-035",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "In which situation is the accommodating style the most appropriate choice for the nurse?",
+      "options": [
+        "A coworker who must take a call about her sick child asks to swap break times, and the nurse has no preference.",
+        "A provider asks the nurse to skip a client’s fall-risk precautions because the client dislikes the bed alarm.",
+        "A colleague wants to change a unit protocol in a way the nurse believes conflicts with current evidence.",
+        "A family member insists that the nurse give the client’s next opioid dose early, before it is due."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Accommodating works best when one person is much less invested in the issue than the other.",
+        "Incorrect. Accommodating here would compromise client safety.",
+        "Incorrect. A disagreement about evidence-based practice deserves collaboration, not self-sacrifice.",
+        "Incorrect. Giving an opioid early to satisfy a family member is unsafe and outside the order."
+      ],
+      "rationale": "Accommodating means satisfying others’ concerns while setting aside one’s own. It works best when one party is much less invested than the other—as with a break swap the nurse does not care about while a coworker urgently needs it. Accommodating is never appropriate when it sacrifices client safety (fall precautions, opioid timing) or evidence-based care. The protocol option is tempting because keeping peace with a colleague seems kind, but the issue matters to client outcomes and calls for collaborating.",
+      "takeaway": "Accommodate when you care much less than the other person—and never at the expense of safety.",
+      "hintContent": "Look for the situation in which the nurse has the least at stake.",
+      "hintStrategy": "Eliminate any option in which yielding would risk client safety; then apply the style’s best-use rule.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-036",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A client’s son approaches the nurses’ station and shouts, “My father has been waiting an hour for his pain medicine! Nobody here cares!” Which response by the nurse is most appropriate initially?",
+      "options": [
+        "“Please lower your voice; other clients are trying to rest right now.”",
+        "“You’re worried about your father’s pain. Let’s go check on him together.”",
+        "“His medication was ordered late, so the delay is not the nurses’ fault.”",
+        "“I’ll get the charge nurse so you can file a formal complaint about this.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Correcting his behavior first ignores the fear behind it and is likely to escalate him.",
+        "Correct. Acknowledging the emotion and going to assess the father addresses both the son’s fear and the client’s pain, and involves the son.",
+        "Incorrect. Defending staff and assigning blame escalates conflict and does not address the client’s pain.",
+        "Incorrect. Redirecting to a complaint process avoids the immediate concern and the client’s need."
+      ],
+      "rationale": "Family anger often reflects fear and loss of control. The best initial response acknowledges the feeling, moves toward the client to assess and treat the pain, and involves the family—restoring some control and de-escalating tension. Asking him to lower his voice is the tempting distractor because the noise affects other clients, but leading with a correction communicates that the nurse cares more about the noise than his father. Blame and complaint referral avoid the real issue.",
+      "takeaway": "With an angry family, acknowledge the emotion, address the client’s need, and involve them.",
+      "hintContent": "Which response meets the son’s emotional need and the client’s physical need at once?",
+      "hintStrategy": "In therapeutic communication items, choose the response that reflects feelings and moves toward the client’s need.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-037",
+      "topic": "conflict-management",
+      "type": "sata",
+      "stem": "A nurse educator is teaching staff to recognize incivility, horizontal violence, and bullying. Which behaviors should staff identify as examples? Select all that apply.",
+      "options": [
+        "Rolling eyes and sighing whenever a new nurse asks a question",
+        "Repeatedly leaving key information out of one nurse’s handoff",
+        "Giving a peer private, specific feedback about a missed assessment",
+        "A group of nurses routinely excluding one peer from breaks",
+        "Asking a peer to repeat back a verbal order to check accuracy",
+        "Disagreeing respectfully with a colleague during a staff meeting"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Eye-rolling and sighing are disrespectful, uncivil behaviors that discourage questions.",
+        "Correct. Repeatedly withholding needed information is sabotage, a form of workplace bullying that endangers clients.",
+        "Incorrect. Private, specific, respectful feedback aimed at improvement is constructive, not uncivil.",
+        "Correct. Peer exclusion by a group of equals is horizontal (lateral) violence.",
+        "Incorrect. Requesting a read-back is a standard closed-loop safety practice.",
+        "Incorrect. Respectful open disagreement is healthy overt conflict."
+      ],
+      "rationale": "Incivility is rude or disrespectful behavior; horizontal violence is hostility toward peers of equal standing; bullying is repeated, health-harming mistreatment that can include sabotage such as withholding information. All damage communication and client safety because targets stop asking questions and lose needed information. Constructive private feedback and respectful disagreement are tempting picks because they involve criticism or conflict, but they are professional behaviors that improve care.",
+      "takeaway": "Disrespect, exclusion, and sabotage are incivility or bullying; respectful feedback and disagreement are not.",
+      "hintContent": "Separate behaviors aimed at the person from behaviors aimed at improving care.",
+      "hintStrategy": "For behavior-classification SATA items, test each option against the definition’s key features (disrespect, repetition, harm).",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-038",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A nurse manager notices growing tension among staff, who complain that “the same people always get the hardest assignments.” Which action by the manager is most likely to prevent further conflict?",
+      "options": [
+        "State that assignments are the charge nurse’s decision and are not open to debate.",
+        "Set transparent criteria for distributing workload and invite staff feedback on them.",
+        "Rotate the charge nurse role each week so that no one person makes all assignments.",
+        "Remind staff that complaining in the break room violates the professional code."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Shutting down discussion is status-based and drives conflict underground.",
+        "Correct. Allocating workloads fairly and inviting feedback without fear of punishment are leadership strategies for preventing conflict.",
+        "Incorrect. Rotating who decides does not fix the fairness of how assignments are made.",
+        "Incorrect. A punitive reminder ignores the underlying cause and increases covert conflict."
+      ],
+      "rationale": "Nursing leaders prevent conflict by allocating resources and workloads fairly, defining role expectations clearly, encouraging staff to raise concerns without fear of punitive action, and acknowledging accomplishments. Transparent workload criteria address the cause staff named and invite their input. Rotating charge nurses is tempting because it seems to share power, but without fair criteria the same perception of unfairness persists. Silencing or reprimanding staff pushes the conflict into covert forms.",
+      "takeaway": "Leaders prevent conflict with fair, transparent workloads and nonpunitive feedback.",
+      "hintContent": "Which option fixes the actual cause the staff described?",
+      "hintStrategy": "For prevention items, choose the option that targets the root cause rather than the symptom.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m37-pro-039",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "The nurse educator reviews conflict management with new graduate nurses. Which statement by a new nurse indicates a need for further teaching?",
+      "options": [
+        "“A unit with healthy teamwork has eliminated conflict completely.”",
+        "“Taking a short break to cool down can help before we talk it out.”",
+        "“Covert conflict can show up as tardiness and absenteeism on a unit.”",
+        "“When handled well, conflict can lead to better ways of giving care.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Conflict is a normal, inevitable part of work that can be managed but never completely eliminated.",
+        "Incorrect. Temporary avoidance to regain composure can be effective.",
+        "Incorrect. Tardiness and absenteeism are repressive behaviors of covert conflict.",
+        "Incorrect. Constructively managed conflict can be an impetus for growth and safer care."
+      ],
+      "rationale": "Conflict is a normal and inevitable part of the work environment; it cannot be completely eliminated, but it can be managed constructively. A unit that appears conflict-free may actually be suppressing disagreement into covert forms. The other statements are accurate: brief avoidance can let emotions settle, covert conflict appears as tardiness and absenteeism, and well-managed conflict drives improvement.",
+      "takeaway": "Conflict is inevitable; the goal is constructive management, not elimination.",
+      "hintContent": "Find the statement that sets an impossible goal.",
+      "hintStrategy": "Absolute words such as “completely,” “always,” and “never” often mark the incorrect statement in teaching items.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-040",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "Two nurses who disagreed about how to divide care for a client in isolation met with the charge nurse, who facilitated the discussion. Which statement by one of the nurses best indicates that the conflict was resolved through collaboration?",
+      "options": [
+        "“I let her have her way this time, since it wasn’t worth an argument.”",
+        "“We each gave up something, so neither of us is completely happy.”",
+        "“We built a plan we both support and will check how it works Friday.”",
+        "“The charge nurse decided for us, so at least the argument is over.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Yielding to the other nurse is accommodating.",
+        "Incorrect. Partial satisfaction on both sides describes compromising.",
+        "Correct. A jointly built plan both support, with planned follow-up, reflects a win–win collaborative resolution.",
+        "Incorrect. A decision imposed by the charge nurse ends the dispute but is not collaborative and may leave resentment."
+      ],
+      "rationale": "Collaborative resolution produces a plan that both parties support because it meets both sets of concerns, and good conflict management includes follow-up to evaluate whether the plan works. Compromise is the closest distractor—it is a valid resolution style, but it leaves each nurse only partly satisfied. Accommodating and an imposed decision end the argument without true agreement, which increases the risk the conflict will return.",
+      "takeaway": "Collaboration ends with a shared plan both parties support—and a follow-up.",
+      "hintContent": "Which statement shows both nurses fully supporting the outcome?",
+      "hintStrategy": "In evaluation items, choose the statement that shows the stated goal—here, a win–win—was actually met.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m37-pro-041",
+      "topic": "conflict-management",
+      "type": "sata",
+      "stem": "A charge nurse is mediating a disagreement between an LPN and a UAP about who is responsible for a client’s hygiene care. Which actions by the charge nurse are appropriate? Select all that apply.",
+      "options": [
+        "Meeting with both staff members in a private room",
+        "Letting each person explain without interruption",
+        "Asking, “How can we make sure his care gets done?”",
+        "Deciding who is right before hearing both sides",
+        "Reviewing each person’s past performance problems"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Conflict should be discussed privately, away from client care areas.",
+        "Correct. Allowing each person to express concerns without interruption is a core guideline.",
+        "Correct. A team-centered “we” question focuses on solutions and client care.",
+        "Incorrect. Judging before hearing all viewpoints violates the guideline to hear everyone without passing judgment.",
+        "Incorrect. Bringing up past problems is destructive criticism and shifts focus from the current issue."
+      ],
+      "rationale": "Guidelines for managing conflict include discussing it privately, stating the issue objectively, hearing all viewpoints without judgment, letting each person speak without interruption, focusing on solutions, keeping client care central, and using team-centered “we” statements. Deciding early may feel efficient but skips the listening that makes a resolution stick. Raising past performance issues is destructive criticism that escalates conflict.",
+      "takeaway": "Mediate privately, listen to everyone without interrupting, and focus “we” on the client’s care.",
+      "hintContent": "Ask whether each action helps the parties feel heard and focuses on the client.",
+      "hintStrategy": "For process SATA items, reject options that judge, blame, or skip listening.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [
+        "nurse-collaborator"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m37-pro-042",
+      "topic": "conflict-management",
+      "type": "mcq",
+      "stem": "A new graduate nurse tells the charge nurse that her preceptor repeatedly criticizes her in front of clients and yesterday left a client’s fluid restriction out of report, which nearly caused an error. Which response by the charge nurse is most appropriate?",
+      "options": [
+        "“Every new nurse goes through this; it will get better with experience.”",
+        "“Bring it up at the next staff meeting so the whole team knows about it.”",
+        "“I can quietly find you a new preceptor so no one else needs to be involved.”",
+        "“Let’s document these incidents and report them to the nurse manager.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Normalizing bullying allows it to continue and ignores the safety risk.",
+        "Incorrect. Public confrontation escalates conflict and is not the appropriate channel.",
+        "Incorrect. Quietly reassigning avoids the behavior and leaves the near miss and the preceptor’s conduct unaddressed.",
+        "Correct. Documenting specific incidents and reporting through the chain of command per policy addresses the bullying and the safety risk."
+      ],
+      "rationale": "Repeated public criticism and withholding report information are workplace bullying—repeated, harmful mistreatment that includes sabotage—and the near miss shows client safety is affected. The appropriate response is to document specific incidents and report them to the nurse manager according to policy, along with a safety report for the near miss. Quietly finding a new preceptor is tempting because it protects the new nurse quickly, but it is avoidance: the behavior continues for the next orientee, and the system issue is never addressed.",
+      "takeaway": "Bullying that affects client safety must be documented and reported through the chain of command.",
+      "hintContent": "The behavior is repeated and has already affected a client—what does that require?",
+      "hintStrategy": "Eliminate responses that normalize, publicize, or quietly avoid; choose the one that uses the proper channel.",
+      "ref": "Module 37 · Collaboration · Conflict & Incivility · pp. 2559–2563",
+      "alsoTests": [
+        "ipec-teamstepps"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    }
+  ]
+});

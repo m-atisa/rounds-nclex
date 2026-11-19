@@ -95,7 +95,7 @@ window.NURSE_DATA.push({
      "bullets": [
       "<strong>S1 (\"lub\")</strong> — closure of the AV valves (mitral, tricuspid) at the start of <strong>systole</strong> (ventricular contraction); loudest at the apex; coincides with the carotid pulse.",
       "<strong>S2 (\"dub\")</strong> — closure of the semilunar valves (aortic, pulmonic) at the start of <strong>diastole</strong> (ventricular relaxation); loudest at the base.",
-      "<strong>Physiologic split S2</strong> — normal when caused by the increase in intrathoracic pressure during inspiration; best heard at the pulmonic area."
+      "<strong>Physiologic split S2</strong> — normal when caused by the drop in intrathoracic pressure during inspiration (more venous return to the right heart delays pulmonic closure); best heard at the pulmonic area."
      ]
     },
     {
@@ -948,7 +948,7 @@ window.NURSE_DATA.push({
   },
   {
    "front": "Stethoscope piece for S3, S4, and murmurs",
-   "back": "<strong>Bell</strong>, light pressure, at the apex",
+   "back": "<strong>Bell</strong> with light pressure for low-pitched sounds (S3, S4, low-pitched murmurs such as mitral stenosis); S3 and S4 are heard best at the apex. High-pitched murmurs are heard with the diaphragm.",
    "topic": "heart-sounds"
   },
   {
@@ -1068,7 +1068,7 @@ window.NURSE_DATA.push({
   },
   {
    "front": "Lipid targets",
-   "back": "Total <200; LDL <100; HDL >40 (men)/>50 (women), ≥60 protective; TG <150 mg/dL",
+   "back": "Total <200; LDL <100; HDL ≥40 (men)/≥50 (women), ≥60 protective; TG <150 mg/dL",
    "topic": "diagnostics"
   },
   {
@@ -1114,7 +1114,7 @@ window.NURSE_DATA.push({
   {
    "topic": "heart-sounds",
    "front": "Is a split S2 normal?",
-   "back": "Yes — when caused by the increase in intrathoracic pressure during inspiration (physiologic split)"
+   "back": "Yes — when caused by the drop in intrathoracic pressure during inspiration, which increases venous return to the right heart and delays pulmonic valve closure (physiologic split)"
   },
   {
    "topic": "perfusion-emergencies",
@@ -2542,7 +2542,7 @@ window.NURSE_DATA.push({
     "Incorrect. Cardiac output increases and the pulse normally rises about 10–15 bpm by term.",
     "Incorrect. With high blood volume and a compliant ventricle, an S3 is expected in the third trimester when the client has no other findings.",
     "Incorrect. Plasma expands more than red cells, so a slightly lower hematocrit is expected.",
-    "Correct. BP normally falls in pregnancy; a BP above prepregnancy levels needs prompt evaluation.",
+    "Correct. BP normally falls in pregnancy; a BP of 140/90 mm Hg or higher after 20 weeks suggests gestational hypertension or preeclampsia and needs prompt evaluation.",
     "Incorrect. Leukocyte production normally increases in pregnancy and does not indicate infection.",
     "Correct. Fibrinogen and clotting factors VII, VIII, IX, and X rise and the uterus slows venous return, so one-sided calf swelling, warmth, and pain suggests venous thrombosis."
    ],
@@ -2669,21 +2669,21 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Physiological Adaptation",
    "hintContent": "Recall what distinguishes a hypertensive emergency from severe hypertension alone.",
    "hintStrategy": "Recall what defines a hypertensive emergency, then decide which finding is both specific to organ damage and most dangerous.",
-   "stem": "B.E., 64, is on day 4 after an ischemic stroke and is mechanically ventilated. BP is 258/128 mm Hg and P 112. During a sedation vacation he is minimally responsive and grimaces as if in pain. The nurse suspects a hypertensive emergency. Which finding requires the nurse's most immediate follow-up?",
+   "stem": "B.E., 64, is on day 4 after an ischemic stroke and is mechanically ventilated. BP is 258/128 mm Hg and P 112. During a sedation vacation he is minimally responsive (unchanged from yesterday) and grimaces as if in pain. The nurse suspects a hypertensive emergency. Which finding requires the nurse's most immediate follow-up?",
    "options": [
     "Heart rate of 112/min with an irregular rhythm on the monitor",
-    "Minimal responsiveness during the sedation vacation",
+    "Minimal responsiveness, unchanged from yesterday's sedation vacation",
     "Pink, frothy secretions and crackles throughout the lungs",
     "Grimacing and brow furrowing when he is repositioned"
    ],
    "answer": 2,
    "optionRationales": [
     "Incorrect. Tachycardia is nonspecific and is not evidence of acute organ damage.",
-    "Incorrect. Decreased responsiveness is nonspecific in a sedated, ventilated client and is not the most urgent threat here.",
+    "Incorrect. Responsiveness is unchanged from his post-stroke baseline, so it is not new organ damage; the new pulmonary edema is the more urgent threat.",
     "Correct. Pink frothy secretions with diffuse crackles indicate acute pulmonary edema — target-organ damage that defines a hypertensive emergency and threatens oxygenation.",
     "Incorrect. Pain raises sympathetic tone and BP and should be treated, but it is a contributing factor, not the life-threatening organ damage."
    ],
-   "rationale": "BP above 180/120 with acute target-organ damage — here, acute pulmonary edema (pink frothy secretions and crackles throughout) — defines a hypertensive emergency and is a breathing threat. Tachycardia and decreased responsiveness are nonspecific. His grimacing suggests pain, which raises sympathetic tone and BP, so pain should also be assessed and treated along with the controlled BP lowering prescribed by the provider.",
+   "rationale": "BP above 180/120 with acute target-organ damage — here, acute pulmonary edema (pink frothy secretions and crackles throughout) — defines a hypertensive emergency and is a breathing threat. Tachycardia is nonspecific, and his responsiveness is unchanged from his post-stroke baseline. His grimacing suggests pain, which raises sympathetic tone and BP, so pain should also be assessed and treated along with the controlled BP lowering prescribed by the provider.",
    "takeaway": "Hypertensive emergency = BP >180/120 + acute organ damage (e.g., pulmonary edema); treat pain as a contributor.",
    "alsoTests": []
   },

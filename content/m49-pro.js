@@ -1,0 +1,1755 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m49",
+  "moduleNumber": 49,
+  "moduleTitle": "Legal Issues",
+  "tagline": "Know the line. Protect the client — and your license.",
+  "overview": "Where nursing law comes from, the intentional and unintentional torts nurses must avoid, and how the standard of care, documentation, and error reporting prevent malpractice. Apply consent, competency, minor-consent, controlled-substance, Good Samaritan, whistleblower, and abuse-reporting laws across the lifespan.",
+  "topics": [
+    {
+      "id": "law-torts-privacy",
+      "title": "Sources of Law, Intentional Torts & Privacy",
+      "exemplar": null
+    },
+    {
+      "id": "malpractice-standard-care",
+      "title": "Negligence, Malpractice & the Standard of Care",
+      "exemplar": null
+    },
+    {
+      "id": "consent-laws-lifespan",
+      "title": "Consent, Competency & Laws Across the Lifespan",
+      "exemplar": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Define statutory law and give a nursing example.",
+      "back": "Law enacted by a legislature; the state Nurse Practice Act is the key nursing example (also Good Samaritan acts, abuse reporting laws, ADA).",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Define administrative law and name the nursing agency that makes it.",
+      "back": "Rules made by an agency authorized by statute to interpret and enforce it — the Board of Nursing implements the Nurse Practice Act.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Criminal law vs. civil law?",
+      "back": "Criminal: offense against society, prosecuted by the state, punished by fines/prison. Civil: private dispute between individuals, enforced by lawsuits for damages.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Define tort.",
+      "back": "A civil wrong against a person or their property for which the injured person may sue for compensation; intentional or unintentional.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "A nurse says, “Take this pill or I’ll give it as a shot.” Which tort?",
+      "back": "Assault — creating apprehension of unwanted touching; no contact required.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "A nurse gives an injection to a competent client who refused it. Which tort?",
+      "back": "Battery — intentional touching without consent, even if the treatment helps.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "A competent client wants to leave AMA. What must the nurse NOT do, and what should the nurse do first?",
+      "back": "Never block, restrain, or take belongings (false imprisonment). First explore the reason, then notify the provider, explain risks, offer the AMA form, and document.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Libel vs. slander?",
+      "back": "Libel = written false, damaging statement (including charting and posts). Slander = spoken.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Is reporting suspected child abuse a HIPAA violation?",
+      "back": "No. Mandatory reports are legal exceptions to confidentiality.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Can an employer’s job description expand a nurse’s scope of practice?",
+      "back": "No. Employers can limit scope but never expand it beyond the Nurse Practice Act and Board rules.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Negligence vs. malpractice?",
+      "back": "Negligence: falling below what a reasonable person would do. Malpractice: professional negligence measured against a reasonably prudent nurse with similar training.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "List the six elements of malpractice.",
+      "back": "Duty, breach of duty, foreseeability, causation, injury/harm, damages — all must be proven.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Wrong dose given, no harm. Malpractice?",
+      "back": "No — injury/harm is missing. It is still an error: assess, notify, document facts, and file an incident report.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Define respondeat superior.",
+      "back": "“Let the master answer” — the employer is liable for employees’ acts on the job; the nurse is still personally accountable.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Define res ipsa loquitur.",
+      "back": "“The thing speaks for itself” — harm that would not occur without negligence and cannot be traced to one person (e.g., retained sponge).",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Define statute of limitations.",
+      "back": "The legal time limit to file a lawsuit after the plaintiff knew or should have known of an injury; varies by state and is often extended for minors.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "After a medication error, what does the nurse do first?",
+      "back": "Assess the client for effects and intervene for safety; then notify the provider, document objective facts, and complete an incident report.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Should the chart say “incident report filed”?",
+      "back": "No. The incident report is a quality-improvement tool and is not referenced in the medical record.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Occurrence vs. claims-made insurance?",
+      "back": "Occurrence: covers any incident during the policy period whenever the claim is filed. Claims-made: incident and claim must both occur while the policy is active (tail coverage extends it).",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Which Box 49.1 category is “not questioning an unsafe order”?",
+      "back": "Failure to act as a client advocate.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Are nursing students held to a lower legal standard?",
+      "back": "No. Students are held to the same standard as a licensed, experienced RN.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Who obtains informed consent, and what does the nurse do?",
+      "back": "The provider performing the procedure obtains it; the nurse assesses ability to understand, arranges an interpreter, witnesses the signature, and notifies the provider of questions.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Five elements of informed consent?",
+      "back": "Reason/diagnosis, the procedure, benefits and what to expect, risks, and alternatives (including no treatment).",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Expressed vs. implied consent?",
+      "back": "Expressed: oral or written agreement. Implied: shown by actions (e.g., extending an arm for BP) or presumed in emergencies.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "What is the exception to the emergency doctrine?",
+      "back": "It does not permit a treatment the client previously refused (e.g., blood refused by a Jehovah’s Witness).",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Competency vs. capacity?",
+      "back": "Competency is a legal status (only a court can remove it and appoint a guardian). Capacity is a clinical, decision-specific ability that can fluctuate.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Name the main exceptions allowing a minor to consent.",
+      "back": "Emergency, emancipated minor, mature-minor law, court order, or a law allowing a specific service (e.g., STI care, contraception, minor parent consenting for own child).",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Define the Controlled Substances Act.",
+      "back": "Federal law enforced by the DEA that classifies drugs into Schedules I–V by medical use and abuse potential and requires strict recordkeeping.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "What protects a nurse under Good Samaritan laws?",
+      "back": "Volunteer emergency aid outside paid employment, care within training, no gross negligence, and staying until qualified help takes over.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Define whistleblowing and the first step for protection.",
+      "back": "An employee’s disclosure of an employer’s unsafe or illegal practices; first report internally in writing and allow time to correct (unless already retaliated against).",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Suspected child abuse but no proof — what does the nurse do?",
+      "back": "Ensure safety, document facts objectively, and report the suspicion in good faith to the designated agency; proof is not required.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "An adolescent asks, “Will you keep this secret?” Best approach?",
+      "back": "Promise confidentiality when possible but explain its limits (safety, abuse reporting, insurance statements); never promise absolute secrecy.",
+      "topic": "consent-laws-lifespan"
+    }
+  ],
+  "questions": [
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client with type 2 diabetes refuses a fingerstick glucose check. The nurse says, “If you won’t let me do this, I’ll have security come hold your hand still.” The client becomes frightened and allows the check. Which tort has the nurse most likely committed by making the statement?",
+      "options": [
+        "Assault",
+        "Battery",
+        "False imprisonment",
+        "Defamation"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The statement created a reasonable fear of unwanted touching; assault requires no physical contact.",
+        "Incorrect. Battery is the unwanted touch itself; the client allowed the check after the threat, and the question asks about the statement.",
+        "Incorrect. False imprisonment involves unjustified confinement or restraint of movement, which did not occur.",
+        "Incorrect. Defamation is a false statement to a third party that damages reputation, not a threat to the client."
+      ],
+      "rationale": "Assault is creating apprehension of harmful or offensive touching; actual contact is not needed. The nurse’s threat to have the client held down is coercive and caused fear, so it fits assault. Battery is the tempting distractor, but battery is the touching itself without consent. The appropriate approach to a refusal is to explore the reason, educate, respect the decision, notify the provider, and document.",
+      "takeaway": "A threat that creates fear of unwanted touch is assault; the touch itself is battery.",
+      "hintContent": "Ask whether the problem in the stem is something the nurse said or something the nurse physically did.",
+      "hintStrategy": "For “name the tort” items, sort by mechanism: threat only, actual touch, restricted movement, or information shared.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828–2829",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-001"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A client admitted 6 hours ago with an upper gastrointestinal bleed is alert and oriented. Hemoglobin is 8.1 g/dL. The client pulls on street clothes and says, “I’m leaving. I can’t stay here another minute.” Which action should the nurse take first?",
+      "options": [
+        "State that the client must remain until the provider writes a discharge order.",
+        "Ask the client what is making them want to leave right now.",
+        "Give the client the against-medical-advice form to sign before leaving.",
+        "Move the client’s belongings to the nurses’ station until the provider arrives."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A competent adult may leave without a discharge order; telling the client they must stay is coercive and suggests detention.",
+        "Correct. Exploring the reason is an assessment step that may resolve the concern and respects the client’s right to decide.",
+        "Incorrect. The AMA form comes after the provider is notified and risks are explained; it is not the first action, and the client may refuse to sign.",
+        "Incorrect. Withholding belongings to keep a competent client from leaving is false imprisonment."
+      ],
+      "rationale": "A competent adult has the right to refuse treatment, which includes leaving against medical advice. The first nursing action is to explore why the client wants to leave, because the reason (pain, fear, a family obligation) can often be addressed and the conversation helps the nurse assess capacity. Next, the nurse notifies the provider, explains risks, offers the AMA form, and documents. Taking belongings or insisting the client must stay crosses into false imprisonment.",
+      "takeaway": "When a competent client wants to leave AMA, explore the reason first — never detain.",
+      "hintContent": "Consider what a competent adult is legally allowed to do, and what information the nurse still lacks.",
+      "hintStrategy": "In “first action” items without a physiologic emergency, an assessment/communication option usually comes before paperwork or procedures.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828",
+      "alsoTests": [
+        "consent-laws-lifespan"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-002"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "sata",
+      "stem": "The nurse manager reviews recent events on a medical unit. Which actions by staff could constitute false imprisonment? Select all that apply.",
+      "options": [
+        "Applying wrist restraints to a confused client to prevent IV removal, without a provider order or a trial of less restrictive measures",
+        "Telling an alert client who wants to leave that the unit doors stay locked until the provider arrives",
+        "Keeping a client under a valid involuntary commitment order on a locked behavioral health unit",
+        "Hiding a competent client’s shoes so the client will not leave against medical advice",
+        "Using a bed alarm and hourly rounding for a client at high risk for falls",
+        "Applying a restraint to a violent client per a provider order after less restrictive measures failed"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Restraint with no order and no attempt at less restrictive alternatives is unjustified restriction of movement.",
+        "Correct. Using locked doors to keep a competent adult from leaving is detention without legal authority.",
+        "Incorrect. Confinement under a valid legal order is legally justified and not false imprisonment.",
+        "Correct. Taking a competent client’s belongings to prevent leaving is an indirect means of detention.",
+        "Incorrect. A bed alarm and rounding are least-restrictive safety measures that do not confine the client.",
+        "Incorrect. A justified, ordered restraint used after alternatives failed and with monitoring is lawful."
+      ],
+      "rationale": "False imprisonment is the unjustifiable detention of a person without legal authority. It includes restraints applied without an order or clinical justification and any physical or indirect means of keeping a competent client from leaving. Detention under a valid legal hold and restraints that meet order, justification, and monitoring requirements are lawful. Least-restrictive safety measures such as alarms and rounding do not confine the client.",
+      "takeaway": "Restriction of movement is lawful only with legal authority or a justified order; otherwise it is false imprisonment.",
+      "hintContent": "For each option, ask: Is movement restricted, and is there legal authority or an order that justifies it?",
+      "hintStrategy": "In SATA items, judge each option independently as true/false against one defining rule.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828–2829",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-003"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "The nurse is precepting a newly hired nurse on a medical-surgical unit. Which statement by the new nurse indicates a need for further teaching about client privacy?",
+      "options": [
+        "“I will lock the computer screen whenever I step away from the workstation.”",
+        "“I can share my client’s blood gas results with the respiratory therapist caring for her.”",
+        "“I will check the client’s privacy code before giving a caller a condition update.”",
+        "“I can open my mother’s chart on the cardiac unit since I am her emergency contact.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Locking the screen protects electronic health information and is correct practice.",
+        "Incorrect. Sharing results with a team member involved in the client’s treatment is permitted.",
+        "Incorrect. Verifying a caller’s privacy code before disclosure follows HIPAA and agency policy.",
+        "Correct. Being an emergency contact does not give an employee a work-related need to access a relative’s record; this is a privacy breach."
+      ],
+      "rationale": "HIPAA permits access to protected health information only for work-related purposes such as treatment, payment, and operations, and only the minimum necessary. A nurse who is not caring for a family member has no work reason to open that chart, even with good intentions; access logs record every entry. Sharing data with the treating respiratory therapist is a treatment disclosure. Locking screens and verifying callers are correct safeguards.",
+      "takeaway": "Employees may access a record only when their job requires it — family ties do not create need-to-know.",
+      "hintContent": "Think about why the employee is accessing the record, not who the client is.",
+      "hintStrategy": "For “needs further teaching,” find the one statement that is false; each correct statement is a distractor.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2829",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-004"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": true,
+      "stem": "While off duty, a nurse sees a coworker’s public social media post: “Wildest night ever in our ER — motorcycle guy, age 40s, came in at 0200 with half his leg gone. Prayers!” No names are included. Which action should the nurse take first?",
+      "options": [
+        "Reply to the post reminding coworkers that HIPAA prohibits sharing client details.",
+        "Take no action, because the post does not include the client’s name or photograph.",
+        "Report the post to the nurse manager according to agency social media policy.",
+        "Call the client’s family to let them know about the post and apologize."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A public reply spreads the post further and does not start the agency’s required response.",
+        "Incorrect. Details such as age, time, setting, and injury can identify a client even without a name.",
+        "Correct. Prompt reporting through the agency’s process allows removal of the post and appropriate follow-up of a possible privacy breach.",
+        "Incorrect. Contacting the family is outside the nurse’s role and could itself disclose information; the agency handles breach notification."
+      ],
+      "rationale": "Protected health information includes any details that could reasonably identify a client, so posting the setting, time, age, and injury can be a breach even without a name. The nurse should report the post promptly through the chain of command and agency policy so it can be removed and the breach evaluated. Replying publicly amplifies the disclosure. Ignoring it is wrong because identifiability, not names alone, determines privacy violations.",
+      "takeaway": "Identifiable details count as PHI even without a name; report suspected breaches through agency channels.",
+      "hintContent": "Could someone in the community figure out who this client is from the details posted?",
+      "hintStrategy": "When a choice involves a coworker’s violation, the best first answer usually uses the proper reporting channel rather than confronting publicly or ignoring.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2829",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-005"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A newly licensed LPN asks the charge nurse where to find the legally binding rules that specify which activities an LPN may perform in that state. Which response by the charge nurse is accurate?",
+      "options": [
+        "“The hospital job description, which can add tasks when the unit is short-staffed.”",
+        "“The American Nurses Association, because its standards are the state licensing law.”",
+        "“Federal law, because Congress sets the scope of practice for nurses nationally.”",
+        "“The Board of Nursing rules, which carry out the state’s Nurse Practice Act.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Employers may limit but cannot expand the scope of practice beyond what the state law allows.",
+        "Incorrect. ANA standards help define the standard of care but are professional standards, not state licensing law.",
+        "Incorrect. Nursing licensure and scope are set by each state, not by Congress.",
+        "Correct. The NPA is the state statute, and the Board of Nursing is the administrative agency whose rules define and enforce scope."
+      ],
+      "rationale": "Each state’s Nurse Practice Act is statutory law, and the legislature delegates authority to the Board of Nursing, an administrative agency, to write and enforce rules that implement it. Those Board rules spell out the activities permitted for RNs and LPNs. Job descriptions and agency policies can narrow scope but never expand it. Professional standards such as ANA’s contribute to the standard of care but do not grant legal authority to practice.",
+      "takeaway": "Scope of practice comes from the state NPA and Board of Nursing rules; employers can only narrow it.",
+      "hintContent": "Recall which body the legislature empowers to interpret and enforce the nursing statute.",
+      "hintStrategy": "When options name different authorities, choose the one with legal power to license and discipline.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2826, 2830",
+      "alsoTests": [
+        "malpractice-standard-care"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-006"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "An investigation finds that a nurse removed fentanyl from the automated dispensing cabinet for personal use and documented it as given to clients. Which statement about the legal consequences is accurate?",
+      "options": [
+        "Only the Board of Nursing may act, because the conduct occurred while the nurse was practicing nursing.",
+        "The nurse may face criminal charges, a civil lawsuit, and licensure discipline for the same conduct.",
+        "A finding of not guilty in criminal court would prevent the Board of Nursing from disciplining the nurse.",
+        "The hospital alone bears legal responsibility, because the nurse was acting as its employee."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Criminal, civil, and administrative systems act independently; the Board is not the only body that may respond.",
+        "Correct. Drug diversion is a crime, can harm clients who are then able to sue, and violates the Nurse Practice Act — three separate systems.",
+        "Incorrect. Licensure action is administrative and uses its own grounds and standards, separate from the criminal verdict.",
+        "Incorrect. Intentional criminal conduct for personal use is not shielded by employment; the nurse remains personally accountable."
+      ],
+      "rationale": "A single act can trigger criminal law (prosecution by the state for illegal possession or diversion of a controlled substance), civil law (a lawsuit by a client whose pain went untreated), and administrative law (Board of Nursing discipline under the NPA). These systems use different standards, so an acquittal does not bar licensure action. Respondeat superior does not erase the personal accountability of a nurse who commits a willful crime.",
+      "takeaway": "One act can lead to criminal, civil, and Board consequences at the same time.",
+      "hintContent": "Recall who brings criminal cases, who brings civil suits, and who controls the license.",
+      "hintStrategy": "Be wary of absolute words like “only” and “alone” in legal answer choices.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2826–2827, 2832",
+      "alsoTests": [
+        "consent-laws-lifespan"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-007"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A client who had a total knee replacement yesterday refuses the scheduled subcutaneous enoxaparin, saying, “I’m sick of being poked.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Your surgeon ordered it, so I need to give it on schedule.”",
+        "“If you refuse, I will have to chart that you are noncompliant.”",
+        "“Tell me more about what has been bothering you with the shots.”",
+        "“Let me hold your arm still so it’s over quickly this time.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. An order does not override a competent client’s refusal; insisting is coercive.",
+        "Incorrect. Implying a penalty pressures the client and is not therapeutic; consent must be voluntary.",
+        "Correct. An open-ended invitation explores the reason for the refusal so the nurse can address it and provide teaching.",
+        "Incorrect. Holding the client to give an injection after refusal would be battery."
+      ],
+      "rationale": "A competent client has the right to refuse any treatment, and giving it anyway would be battery. The first step is to explore the reason with an open-ended, nonjudgmental response; the nurse can then explain the purpose (preventing clots), offer comfort measures, and notify the provider if the client still refuses. Threatening documentation or citing the order are coercive. Holding the arm crosses from pressure into unlawful touching.",
+      "takeaway": "Respond to a refusal by exploring it — never by pressure or force.",
+      "hintContent": "Look for the response that is both therapeutic and respects the right to refuse.",
+      "hintStrategy": "In communication items, choose open-ended responses that explore feelings; eliminate options that pressure, threaten, or argue.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828",
+      "alsoTests": [
+        "consent-laws-lifespan"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-008"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "sata",
+      "stem": "A nurse educator reviews privacy situations with staff on an inpatient unit. Which situations represent an invasion of the client’s privacy? Select all that apply.",
+      "options": [
+        "Entering a client’s room without knocking while the client is changing",
+        "Photographing a client’s pressure injury with a personal phone for a staff in-service",
+        "Sharing test results with the client’s sister, whom the client listed as authorized",
+        "Searching a client’s backpack without the client’s permission or a policy-based safety reason",
+        "Reporting a new case of active tuberculosis to the health department",
+        "Discussing a client’s new cancer diagnosis with a coworker in the hospital elevator"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Privacy includes personal space and immediate territory; entering without knocking intrudes on it.",
+        "Correct. Images of a client may not be taken or used without proper authorization, and personal devices are not secure.",
+        "Incorrect. Sharing with a person the client authorized is a permitted disclosure.",
+        "Correct. Touching or searching personal belongings without permission or a justified policy reason violates privacy.",
+        "Incorrect. Reporting a reportable communicable disease is required by law and is an exception to confidentiality.",
+        "Correct. Discussing clients in public areas where others can overhear discloses health information inappropriately."
+      ],
+      "rationale": "Invasion of privacy includes both information and territory: name, photographs, and video cannot be used without authorization, and clients control their belongings, personal space, and room. Discussing PHI where others can overhear is an improper disclosure. Disclosures the client authorized and disclosures required by law, such as reportable disease reporting, are not violations. Searches require a safety reason and must follow policy.",
+      "takeaway": "Privacy covers information, images, belongings, and space; authorized and legally required disclosures are not violations.",
+      "hintContent": "Consider whether the client gave permission or whether a law requires the disclosure.",
+      "hintStrategy": "For each SATA option, ask “Was there authorization or legal requirement?” If neither, it is likely a violation.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2829",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-009"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client’s adult son has been loud and argumentative during visits. Which nursing documentation entry creates the greatest risk of a defamation claim?",
+      "options": [
+        "“Son is verbally abusive to staff and is probably an alcoholic.”",
+        "“Son stated, ‘You people are useless,’ and left the unit at 1530.”",
+        "“Client tearful after visit; states, ‘He always yells at me.’”",
+        "“Son asked to speak with the charge nurse; charge nurse notified at 1545.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Labeling the son an alcoholic is an unproven, damaging written statement that could be libel.",
+        "Incorrect. A direct quote with a time is objective, factual documentation.",
+        "Incorrect. Recording the client’s own words and observed behavior is objective and relevant.",
+        "Incorrect. This factual entry documents a request and the action taken."
+      ],
+      "rationale": "Defamation is a false statement communicated to others that damages a person’s reputation; when written, including in the medical record, it is libel. Subjective labels and speculation (“probably an alcoholic”) are both unprofessional and legally risky. Defensive documentation records objective facts: direct quotes, observed behavior, times, and actions taken. The other entries describe what was said and done without judgment.",
+      "takeaway": "Chart facts and quotes, never labels or speculation — written false statements can be libel.",
+      "hintContent": "Look for the entry that contains an opinion about someone’s character rather than observable facts.",
+      "hintStrategy": "In documentation items, the risky or wrong choice is usually subjective, judgmental, or speculative.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828–2829",
+      "alsoTests": [
+        "malpractice-standard-care"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-010"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "sata",
+      "stem": "Without the client’s authorization, a nurse tells a client’s employer that the client is being treated for HIV. Which consequences could the nurse face as a result of this disclosure? Select all that apply.",
+      "options": [
+        "A civil lawsuit by the client for invasion of privacy",
+        "Federal penalties under HIPAA for knowingly disclosing health information",
+        "Disciplinary action against the nurse’s license by the Board of Nursing",
+        "Immunity from liability because the employer was concerned about workplace safety",
+        "Protection from a lawsuit under the Good Samaritan law"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Unauthorized disclosure of private health information is a tort the client can sue for.",
+        "Correct. Knowingly disclosing PHI without authorization can bring federal HIPAA penalties, including criminal penalties for individuals.",
+        "Correct. Breach of confidentiality is unprofessional conduct that the Board can discipline.",
+        "Incorrect. An employer’s concern does not authorize disclosure of PHI; no immunity applies.",
+        "Incorrect. Good Samaritan laws protect volunteers giving emergency aid, not disclosures of health information."
+      ],
+      "rationale": "Unauthorized disclosure of health information is a civil tort (invasion of privacy), a HIPAA violation that can bring federal penalties (criminal penalties for individuals who knowingly disclose), and grounds for Board discipline — separate systems that can all act on the same event. Employers have no right to a worker’s diagnosis without authorization, so there is no immunity. Good Samaritan protection applies only to emergency aid given voluntarily, making it irrelevant here.",
+      "takeaway": "A confidentiality breach can bring a lawsuit, HIPAA penalties, and Board discipline together.",
+      "hintContent": "Think of the civil, federal regulatory, and licensing consequences separately.",
+      "hintStrategy": "In SATA, eliminate options that borrow a legal protection from an unrelated situation.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2826–2829",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-011"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A caller tells the nurse she is the daughter of a client admitted last night and asks how her mother is doing. The client is alert and oriented, and no authorized contacts are listed in the record. Which action is most appropriate?",
+      "options": [
+        "Share the vital signs only, because they do not reveal the diagnosis.",
+        "Explain that the client’s permission is needed, then ask the client.",
+        "Provide a brief update, because an adult child is the next of kin.",
+        "Say the client is in serious condition so the daughter will visit."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Vital signs are protected health information and cannot be shared without authorization.",
+        "Correct. The client controls who receives information; the nurse asks the alert client before disclosing.",
+        "Incorrect. Family relationship alone does not authorize disclosure when the client can decide.",
+        "Incorrect. Disclosing, or exaggerating, the client’s condition without permission violates privacy and honesty."
+      ],
+      "rationale": "When a client is alert and able to decide, the client determines who may receive health information. With no authorized contacts listed, the nurse should not confirm details but can tell the caller that permission is needed and then ask the client. Vital signs and condition updates are PHI. Next-of-kin status matters when a client lacks capacity and policy designates a surrogate, not when the client can speak for themselves.",
+      "takeaway": "If the client can decide, ask the client before sharing information with anyone, including family.",
+      "hintContent": "Who controls disclosure when the client is alert and oriented?",
+      "hintStrategy": "For privacy items, the safest answer usually verifies authorization before any information is released.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2829",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-012"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "sata",
+      "stem": "A client with delirium repeatedly tries to pull out a nasogastric tube that is being used for gastric decompression. Which actions by the nurse reduce the risk of both harm and a false imprisonment claim? Select all that apply.",
+      "options": [
+        "Try less restrictive measures such as covering the tube, distraction, and frequent reorientation.",
+        "Contact the provider for an order if a restraint becomes necessary for safety.",
+        "Leave a restraint in place for the rest of the shift without reassessment once applied.",
+        "Monitor and document circulation, skin integrity, and continued need per policy.",
+        "Apply a restraint after the client pulls the tube to discourage the behavior.",
+        "Tie the restraint straps to the side rails so they can be released quickly."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Restraints are justified only after less restrictive alternatives are tried.",
+        "Correct. A restraint requires a provider order (or emergency application with a prompt order per policy).",
+        "Incorrect. Restraints require ongoing reassessment and release as soon as no longer needed.",
+        "Correct. Monitoring and documentation are required for safe, lawful restraint use.",
+        "Incorrect. Restraint used as punishment is never justified and is unlawful.",
+        "Incorrect. Straps are secured to the bed frame; tying to side rails can cause injury when rails move."
+      ],
+      "rationale": "Restraints are lawful only when justified: less restrictive measures have failed, the client is at risk of harm, a provider order is obtained, and the client is monitored and reassessed. Restraints used for punishment or convenience, or left without reassessment, constitute false imprisonment and risk injury. Straps are secured to the bed frame with quick-release ties, not to side rails. Documentation provides the legal record that the standard was met.",
+      "takeaway": "Lawful restraint = alternatives first, an order, monitoring, reassessment, and documentation.",
+      "hintContent": "Think about what makes restricting a client’s movement legally justified.",
+      "hintStrategy": "In SATA items about restraints, eliminate any option that uses restraint as punishment or omits reassessment.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828",
+      "alsoTests": [
+        "malpractice-standard-care"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-013"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": false,
+      "stem": "An alert client consents to a wound dressing change. Midway through, the client says, “Stop, please — I need a break.” The nurse responds, “I’m almost done,” and finishes the dressing. How should the nurse’s action be classified?",
+      "options": [
+        "Negligence, because the nurse failed to meet a standard of care",
+        "Battery, because the nurse continued after consent was withdrawn",
+        "Assault, because the client feared the remaining procedure",
+        "False imprisonment, because the client could not leave the bed"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Negligence is unintentional; the nurse deliberately continued the touch.",
+        "Correct. Consent can be withdrawn at any time, and continued intentional touching after withdrawal is battery.",
+        "Incorrect. Assault is apprehension of touch; here the touching actually occurred.",
+        "Incorrect. The client was not confined; the problem is the unconsented touch."
+      ],
+      "rationale": "Consent is ongoing and may be withdrawn at any time, even partway through a procedure. When the nurse intentionally continued touching after the client said stop, the touch became unconsented, which is battery. Negligence is the tempting distractor, but negligence involves an unintended failure, not a deliberate act. The correct action is to stop, assess the client, and resume only with renewed consent.",
+      "takeaway": "When a client withdraws consent, stop — continuing is battery even if the task is nearly done.",
+      "hintContent": "Was the nurse’s action intended or accidental, and was consent still in effect?",
+      "hintStrategy": "To separate intentional torts from negligence, ask whether the nurse meant to do the act.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2828",
+      "alsoTests": [
+        "consent-laws-lifespan"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-014"
+    },
+    {
+      "topic": "law-torts-privacy",
+      "type": "mcq",
+      "priority": true,
+      "stem": "The spouse of a client with end-stage lung cancer tells the nurse, “He’s suffering. Please give him enough morphine to end this tonight. No one will ever know.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“I can’t give medicine to end his life. Tell me what has been hardest to watch.”",
+        "“I understand. I will ask the provider to order a dose large enough to stop his breathing.”",
+        "“That decision belongs to you as his spouse, so I will need you to sign a consent form.”",
+        "“That would be illegal, and I will have to report you to the police for asking.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The nurse sets a clear legal boundary while responding therapeutically to the spouse’s distress and opening discussion of comfort care.",
+        "Incorrect. Intentionally hastening death with medication is active euthanasia, a crime the nurse cannot facilitate.",
+        "Incorrect. No one can consent to active euthanasia; it remains a criminal act.",
+        "Incorrect. A request born of grief is not a crime to report; this response is punitive and shuts down communication."
+      ],
+      "rationale": "Active euthanasia is listed under criminal law, and a nurse who gives medication intending to end life commits a crime regardless of the family’s wishes. The best response states the boundary and stays therapeutic, exploring the spouse’s distress and leading toward palliative options: improved symptom management, palliative care consultation, and support. Medication given to relieve symptoms at end of life is appropriate; medication given to cause death is not. Threatening police ends the therapeutic relationship.",
+      "takeaway": "Refuse any act intended to cause death, and redirect to comfort-focused, legal symptom management.",
+      "hintContent": "Which category of law includes active euthanasia, and what does the spouse need right now?",
+      "hintStrategy": "Choose the response that maintains the legal/ethical boundary and is still therapeutic.",
+      "ref": "Module 49 · Legal Issues · Law & Intentional Torts · pp. 2826–2827, 2830",
+      "alsoTests": [
+        "malpractice-standard-care"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "id": "m49-pro-015"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse gives a client metoprolol 50 mg instead of the prescribed 25 mg. Over the next 4 hours, the client’s vital signs remain within normal limits and no adverse effects occur. The client’s family says they will sue for malpractice. Which element of malpractice is absent?",
+      "options": [
+        "Duty",
+        "Breach of duty",
+        "Foreseeability",
+        "Injury or harm"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The nurse was assigned to and caring for the client, so a duty existed.",
+        "Incorrect. Giving the wrong dose deviates from the standard of care, which is a breach.",
+        "Incorrect. A prudent nurse could foresee that a double dose of a beta blocker might cause bradycardia or hypotension.",
+        "Correct. No physical, financial, or emotional harm resulted, so malpractice cannot be established."
+      ],
+      "rationale": "Malpractice requires all elements: duty, breach, foreseeability, causation, injury or harm, and damages. Here the duty, breach, and foreseeable risk are present, but the client suffered no harm, so there is nothing for the breach to have caused and no damages to award. The error must still be reported, the client monitored, and the event documented and disclosed per policy. Breach is the tempting distractor, but breach alone does not equal malpractice.",
+      "takeaway": "Breach without harm is an error to report, not malpractice.",
+      "hintContent": "Look at what happened to the client after the error.",
+      "hintStrategy": "For “missing element” items, test each element against the facts; the one the stem explicitly negates is usually the answer.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-016"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": true,
+      "stem": "At 1015 a nurse realizes that hydromorphone 2 mg IV intended for one client was given 10 minutes ago to the client in the next room, who is opioid-naive. Which action should the nurse take first?",
+      "options": [
+        "Complete an incident report while the details are still fresh.",
+        "Notify the provider of the wrong-client medication error.",
+        "Assess the client’s respirations and level of sedation.",
+        "Inform the charge nurse so another nurse can watch the client."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The incident report is required, but paperwork never comes before client safety.",
+        "Incorrect. The provider must be notified promptly, but the nurse needs current assessment data first and must ensure the client is safe.",
+        "Correct. An opioid-naive client given IV hydromorphone is at risk for respiratory depression and oversedation; immediate assessment comes first.",
+        "Incorrect. Informing the charge nurse is appropriate later but does not address the client’s immediate physiologic risk."
+      ],
+      "rationale": "After any medication error, the first priority is the client: assess for the expected adverse effects and intervene to prevent harm. For an opioid-naive client given IV hydromorphone, the nurse checks respirations, oxygen saturation, sedation level, and blood pressure, with naloxone available. Then the nurse notifies the provider with the assessment findings, documents objective facts, completes an incident report, and informs the charge nurse. Notifying the provider is the closest distractor, but SBAR communication requires the assessment data first.",
+      "takeaway": "After a medication error, assess the client first; notify and report after safety is addressed.",
+      "hintContent": "Which action addresses the most immediate threat to the client receiving the drug?",
+      "hintStrategy": "Use ABCs and “assess before act” — paperwork and notifications follow the safety assessment.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828–2830",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-017"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "sata",
+      "stem": "A client fell while ambulating to the bathroom at 1500. Which documentation entries in the medical record reflect defensive documentation? Select all that apply.",
+      "options": [
+        "“1500 Client found sitting on floor beside bed; states, ‘I slipped going to the bathroom.’”",
+        "“Incident report completed and sent to risk management.”",
+        "“Client fell because the aide left the bed in high position.”",
+        "“1505 Dr. Patel notified of fall and right wrist swelling; x-ray ordered.”",
+        "“Client seems fine after the fall.”",
+        "“1400 rounding: bed low, alarm on, call light within reach.”"
+      ],
+      "answer": [
+        0,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. A timed, objective description with the client’s own words is defensible.",
+        "Incorrect. The incident report is a quality-improvement document and is not referenced in the medical record.",
+        "Incorrect. Blaming another staff member is subjective and inappropriate for the chart.",
+        "Correct. Documenting provider notification, findings reported, and orders received shows the timeline of care.",
+        "Incorrect. Vague, subjective phrases do not describe the assessment.",
+        "Correct. Recording precautions in place before the fall demonstrates the standard of care was followed."
+      ],
+      "rationale": "Defensive documentation is timely, objective, and complete, and it shows the timeline: assessments, interventions, client response, and provider notification. Documenting fall precautions and rounding demonstrates that the nurse met the standard of care. Charting should never refer to the incident report, assign blame, or use vague phrases like “seems fine.” Because the chart is the legal record, what is not documented may be judged as not done.",
+      "takeaway": "Chart timed, objective facts and provider notifications — never blame or mention the incident report.",
+      "hintContent": "Which entries would help a reader reconstruct exactly what happened and when?",
+      "hintStrategy": "In documentation SATA items, keep objective, timed, specific entries and eliminate opinions and references to incident reports.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2829–2830",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-018"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse tells a colleague, “I don’t need to worry about being sued personally. Under respondeat superior, the hospital is responsible for whatever I do at work.” Which response by the colleague is accurate?",
+      "options": [
+        "“That’s right — when the employer is liable, an employee cannot be named in the lawsuit.”",
+        "“That protection applies only when you carry your own professional liability insurance.”",
+        "“That doctrine applies only to physicians, so nurses are always sued as individuals.”",
+        "“The hospital may be liable too, but you can still be named and held personally accountable.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Employer liability does not shield the employee; both are commonly named.",
+        "Incorrect. Respondeat superior is a rule of employer liability and does not depend on the nurse’s insurance.",
+        "Incorrect. The doctrine applies to employees in general, including nurses.",
+        "Correct. Respondeat superior adds the employer’s liability, but the nurse remains personally accountable and can be sued and disciplined."
+      ],
+      "rationale": "Respondeat superior (“let the master answer”) makes an employer liable for employees’ negligent acts within the scope of employment, so suits naming a nurse usually name the hospital as well. It does not remove the nurse’s personal liability, and the Board of Nursing can still act on the license. For these reasons, individual liability insurance is recommended. The first option is the most common misconception.",
+      "takeaway": "Respondeat superior adds employer liability; it never erases the nurse’s own accountability.",
+      "hintContent": "Does adding a second responsible party remove the first?",
+      "hintStrategy": "Watch for answers that promise complete protection — legal doctrines rarely give absolute immunity.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828, 2830",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-019"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "After a lengthy surgery under general anesthesia, a client has a second-degree burn on the lower back. The burn would not normally occur without negligence, and it cannot be traced to a specific staff member or device. Which legal doctrine is the client’s attorney most likely to rely on?",
+      "options": [
+        "Respondeat superior",
+        "Statute of limitations",
+        "Res ipsa loquitur",
+        "Contributory negligence"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Respondeat superior makes the employer liable but does not address proving negligence when the responsible person is unknown.",
+        "Incorrect. The statute of limitations sets a filing deadline; it does not establish negligence.",
+        "Correct. “The thing speaks for itself” applies when harm would not occur without negligence and the client, unconscious, could not have caused it.",
+        "Incorrect. Contributory negligence is a defense arguing the plaintiff contributed to the injury; an anesthetized client could not."
+      ],
+      "rationale": "Res ipsa loquitur applies when an injury would not ordinarily happen without negligence, the client did not contribute, and the specific responsible person or standard cannot be identified, as in injuries under anesthesia or retained surgical items. It allows the case to proceed by inference, shifting the burden to the defendants to explain. Respondeat superior is related but answers a different question: who pays, not whether negligence occurred.",
+      "takeaway": "When the injury itself implies negligence and no one can be singled out, think res ipsa loquitur.",
+      "hintContent": "Focus on the phrase “cannot be traced to a specific staff member.”",
+      "hintStrategy": "Match the doctrine to the problem it solves: who pays, how to prove it, or when to file.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-020"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "An 84-year-old opioid-naive client weighing 48 kg returns from surgery. The new order reads “Morphine 10 mg IV every 1 hour PRN pain.” The client’s respiratory rate is 12/min and pain is 7/10. Which action should the nurse take?",
+      "options": [
+        "Give the morphine as ordered and recheck respirations in 30 minutes.",
+        "Give half of the ordered dose and document the reason for the change.",
+        "Hold the morphine and contact the prescriber to clarify the order.",
+        "Ask the pharmacist to reduce the dose before the nurse gives it."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The dose and frequency are unsafe for an older, low-weight, opioid-naive client; following an unsafe order is a breach.",
+        "Incorrect. The nurse cannot independently change a prescribed dose; that is outside nursing scope.",
+        "Correct. Holding and clarifying an order that is unsafe for the client fulfills the nurse’s duty to advocate.",
+        "Incorrect. The pharmacist does not change the order without the prescriber; the nurse must contact the prescriber directly."
+      ],
+      "rationale": "Box 49.1 lists failure to question orders warranted by the client’s condition as negligence under failure to advocate. A high-dose, frequent IV opioid for an older, small, opioid-naive client with borderline respirations creates foreseeable risk of respiratory depression. The nurse holds the dose, contacts the prescriber to clarify, offers interim nonpharmacologic comfort, and uses the chain of command if the concern is not resolved. Adjusting the dose independently is outside scope.",
+      "takeaway": "When an order is unsafe for the client, hold it and clarify with the prescriber — don’t give it or change it.",
+      "hintContent": "Compare the ordered dose and interval with the client’s age, weight, opioid history, and respirations.",
+      "hintStrategy": "For order-conflict items, eliminate “give as ordered” and “change it yourself”; the answer is to clarify.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "id": "m49-pro-021"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "sata",
+      "stem": "A nurse manager is teaching staff the categories of negligence. Which nurse actions represent failure to act as a client advocate? Select all that apply.",
+      "options": [
+        "Giving a medication from an illegible order without seeking clarification",
+        "Not reporting a colleague who repeatedly skips hand hygiene before central line care",
+        "Charting a critical potassium value without notifying the provider",
+        "Delegating ambulation without knowing whether the aide is competent with a gait belt",
+        "Administering a full dose of a renally cleared drug to a client with rising creatinine without questioning it"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Failing to question incomplete or illegible orders is a failure to advocate.",
+        "Correct. Failing to report unsafe practice to the proper persons is a failure to advocate.",
+        "Incorrect. Not communicating a critical value is a failure to communicate and document.",
+        "Incorrect. Not knowing the skill level of supervised staff is a failure to supervise.",
+        "Correct. Failing to question an order when the client’s condition warrants it is a failure to advocate."
+      ],
+      "rationale": "Box 49.1 divides negligence into failure to follow standards, failure to communicate and document, failure to advocate, and failure to supervise. Advocacy failures involve not questioning orders that are unclear or unsafe for the client and not reporting unsafe practice. Not communicating a critical value belongs to the communication category, and not knowing a delegate’s competence belongs to supervision. Knowing the categories helps the nurse spot the omission in complex scenarios.",
+      "takeaway": "Advocacy = questioning unclear or unsafe orders and reporting unsafe practice.",
+      "hintContent": "Which options involve not speaking up about an order or a colleague?",
+      "hintStrategy": "In classification SATA items, sort each option into its category before selecting.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2827–2828",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-022"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse carried a claims-made liability policy from 2019 through 2023 and let it lapse without purchasing extended reporting (tail) coverage. In 2024 she bought an occurrence-based policy from a different insurer. In 2025 she is sued for an incident that occurred in 2022. Which statement about her coverage is accurate?",
+      "options": [
+        "The claims-made policy covers the claim, because the incident occurred while it was active.",
+        "The claim is not covered by the claims-made policy, because it was filed after that policy ended.",
+        "The occurrence policy covers the claim, because the suit was filed while that policy was active.",
+        "The claim is covered by her employer’s policy, regardless of where the incident took place."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A claims-made policy requires both the incident and the claim to occur during the policy period.",
+        "Correct. The claim was made after the claims-made policy ended and no tail coverage was purchased, so it is not covered.",
+        "Incorrect. An occurrence policy covers only incidents that occur during its policy period; the 2022 incident predates it.",
+        "Incorrect. Employer-sponsored coverage is limited to on-the-job acts and is not automatic for every claim."
+      ],
+      "rationale": "Claims-made policies cover an incident only when both the incident and the claim fall within the active policy period, unless extended reporting (tail) coverage is purchased. Occurrence policies cover incidents that happen during the policy period, regardless of when the claim is filed, but they do not reach back to earlier incidents. Here the 2022 incident falls outside the new occurrence policy and the claim falls outside the old claims-made policy, leaving a gap.",
+      "takeaway": "Claims-made needs incident and claim inside the policy; occurrence covers any incident during its own period.",
+      "hintContent": "Plot the incident date and the claim date on a timeline against each policy.",
+      "hintStrategy": "For insurance items, draw a quick timeline before reading the options.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2830",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-023"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nursing student is caring for a client when the staff nurse says, “The blood is here — go ahead and hang it. Your instructor is on the other side of the unit.” The student has never administered a blood transfusion. Which response by the student reflects an accurate understanding of legal accountability?",
+      "options": [
+        "“I’ll hang it now, because my instructor is legally responsible for any error I make.”",
+        "“I’ll hang it now, because students are held to a lower standard than RNs.”",
+        "“I’ll hang it now, because the school’s insurance means I can’t be named in a lawsuit.”",
+        "“I need to wait for my instructor, because I’m held to the same standard as an RN.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Instructors share accountability for supervision, but the student remains legally responsible for the care the student gives.",
+        "Incorrect. Students performing nursing care are held to the licensed-RN standard, not a lower one.",
+        "Incorrect. Students can be named in lawsuits; liability insurance pays costs but does not prevent a suit.",
+        "Correct. Because the student is held to the standard of an experienced RN, performing an unfamiliar high-risk procedure without supervision would be a breach; the student waits for the instructor."
+      ],
+      "rationale": "Because the public relies on nursing expertise, students performing nursing care are held to the same standard as a licensed, experienced RN. A blood transfusion is a high-risk procedure the student has never done, so proceeding without the instructor would fall below that standard. The safe, legally sound action is to stop and get the instructor before acting. Instructors and agencies may share liability for supervision, and student liability insurance pays costs, but neither transfers the student’s own accountability or prevents being named.",
+      "takeaway": "Students are held to the RN standard — when a task is unfamiliar, stop and get the instructor before acting.",
+      "hintContent": "Ask what standard a court would use to judge the student’s transfusion if something went wrong.",
+      "hintStrategy": "Eliminate every response that shifts responsibility to someone else; accountability items reward the option that stops and seeks help.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2827, 2830",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-024"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": true,
+      "stem": "The nurse reviews the night-shift assignment sheet at 2300. Which client situation places the client at greatest risk for injury and requires the nurse’s action first?",
+      "options": [
+        "Client A",
+        "Client B",
+        "Client C",
+        "Client D"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A high-fall-risk older adult on a diuretic and sedative-hypnotic, with the alarm off and call light out of reach, has foreseeable risk of a fall.",
+        "Incorrect. A low-risk, independently ambulating client with precautions in place is not the priority.",
+        "Incorrect. This high-risk client already has appropriate, documented precautions in place.",
+        "Incorrect. A stable asthma client with normal saturation and a comfort request is not at the greatest risk."
+      ],
+      "rationale": "Falls are a common cause of injury and negligence claims; the nurse must assess fall risk and implement and document precautions. Client A combines high fall risk, nighttime diuresis, and a sedative-hypnotic, with the alarm silenced and the call light out of reach, making injury foreseeable. The nurse should restore precautions, explain them to the family, offer toileting, and document. Client C has the same risk score but appropriate precautions already in place.",
+      "takeaway": "Prioritize the high-risk client whose precautions are missing — foreseeable harm without protection.",
+      "hintContent": "Compare not just risk scores but whether protective measures are actually in place.",
+      "hintStrategy": "In assignment exhibits, look for the combination of high risk and an unaddressed safety gap.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2829",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Assignment sheet",
+            "table": {
+              "headers": [
+                "Client",
+                "Summary",
+                "Safety notes"
+              ],
+              "rows": [
+                [
+                  "A",
+                  "84 years old, pneumonia; furosemide 40 mg IV at 2000; zolpidem at 2200; fall-risk score high",
+                  "Bed alarm off — family asked that it be silenced; call light on overbed table across room"
+                ],
+                [
+                  "B",
+                  "45 years old, postoperative day 3 appendectomy; ambulating independently; fall-risk score low",
+                  "Bed low; call light in reach"
+                ],
+                [
+                  "C",
+                  "70 years old, hip replacement yesterday; fall-risk score high",
+                  "Bed low and locked; alarm on; call light in reach; rounding hourly"
+                ],
+                [
+                  "D",
+                  "32 years old, asthma exacerbation; SpO2 96% on room air; fall-risk score low",
+                  "Up ad lib; requested extra pillow"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "id": "m49-pro-025"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A medical-surgical unit is short-staffed. The nurse manager asks an LPN to complete the initial admission assessment for a newly admitted client, noting that the hospital job description lists this task for LPNs. In a state where the Nurse Practice Act assigns comprehensive assessment to the RN, which response by the LPN is most appropriate?",
+      "options": [
+        "“I can do it, because the job description lists the admission assessment for LPNs.”",
+        "“I can collect data, but the admission assessment must be done by an RN.”",
+        "“I can do it if an RN cosigns the assessment at the end of the shift.”",
+        "“I will do it this time, and then I will file a complaint with human resources.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A job description cannot expand scope beyond the Nurse Practice Act.",
+        "Correct. The LPN contributes data within scope while the RN remains responsible for the comprehensive assessment.",
+        "Incorrect. A cosignature does not make an out-of-scope activity legal.",
+        "Incorrect. Agreeing to practice outside scope is a breach regardless of any later complaint."
+      ],
+      "rationale": "The Nurse Practice Act and Board rules are the primary legal basis of the standard of care. Employers can limit but cannot expand scope, so a job description listing an out-of-scope task does not protect the LPN. In most states, the LPN contributes to assessment by collecting data, while the RN performs the comprehensive assessment and planning. Practicing outside scope, even with a cosignature or under pressure, is a breach and a licensure risk.",
+      "takeaway": "No policy, job description, or cosignature can authorize practice beyond the Nurse Practice Act.",
+      "hintContent": "Which source of law outranks an employer’s job description?",
+      "hintStrategy": "When a stem pits a facility policy against licensure law, the answer follows the law.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2830–2831",
+      "alsoTests": [
+        "law-torts-privacy"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-026"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "sata",
+      "stem": "A nurse educator reviews medication practices with new graduates. Which actions by the nurse help prevent medication-related malpractice? Select all that apply.",
+      "options": [
+        "Verifying two client identifiers and scanning the barcode before each administration",
+        "Reviewing the purpose, dose range, adverse effects, and contraindications of an unfamiliar drug before giving it",
+        "Documenting all medications from memory at the end of the shift",
+        "Using an independent double check for an insulin infusion per policy",
+        "Overriding a barcode alert when the scanner is slow",
+        "Reporting a near-miss through the safety event reporting system"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Two identifiers and barcode scanning are system safeguards against wrong-client errors.",
+        "Correct. Knowing the drug’s purpose, dose range, adverse effects, toxicity, and contraindications is required before administration.",
+        "Incorrect. Documentation should be timely; relying on memory leads to omissions and errors.",
+        "Correct. Independent double checks for high-alert medications are a systems safeguard.",
+        "Incorrect. Overriding alerts defeats the safety system and is at-risk behavior.",
+        "Correct. Reporting near misses reveals system weaknesses before harm occurs."
+      ],
+      "rationale": "Medication errors are a leading cause of malpractice claims, and prevention requires a systems approach involving all disciplines plus individual knowledge. Barcode scanning, two identifiers, independent double checks, and near-miss reporting create layers of protection, and the nurse must also know why a client receives a drug, its acceptable dose range, adverse effects, toxicity, and contraindications. Workarounds such as overriding alerts and charting from memory defeat those layers.",
+      "takeaway": "Use every safety layer — identifiers, scanning, double checks, knowledge, and reporting — and avoid workarounds.",
+      "hintContent": "Which options strengthen safeguards and which ones bypass them?",
+      "hintStrategy": "In safety SATA items, eliminate any option that is a shortcut or workaround.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828–2830",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-027"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "During a malpractice trial, the plaintiff’s expert testifies: “Any reasonably prudent nurse would know that leaving a client with a new seizure disorder alone in a bathtub could result in drowning.” Which element of malpractice is the expert primarily establishing?",
+      "options": [
+        "Duty",
+        "Foreseeability",
+        "Causation",
+        "Damages"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Duty concerns whether the nurse had a care obligation to the client, not whether harm was predictable.",
+        "Correct. The testimony addresses whether a prudent nurse should have anticipated the injury.",
+        "Incorrect. Causation is whether the breach directly produced the injury, not whether it was predictable.",
+        "Incorrect. Damages concern the compensation owed for the harm."
+      ],
+      "rationale": "Foreseeability means certain acts or omissions can reasonably be expected to cause specific results, so the nurse should have anticipated the injury. The expert’s words “would know… could result in” signal foreseeability. Causation is the closest distractor, but causation asks whether this breach actually produced the injury, which is a separate proof. Understanding each element helps the nurse recognize situations where harm is predictable and must be prevented.",
+      "takeaway": "“Should have anticipated” points to foreseeability; “directly resulted from” points to causation.",
+      "hintContent": "Focus on the phrase “would know … could result in.”",
+      "hintStrategy": "Match the key verbs in the stem to the element they describe.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2828",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-028"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": true,
+      "stem": "At 0310 the nurse receives a critical potassium result of 6.4 mEq/L for a client with chronic kidney disease. The nurse paged the on-call provider at 0315 and 0330 with no response. The client’s cardiac monitor shows peaked T waves. Which action should the nurse take next?",
+      "options": [
+        "Document both pages and wait for the provider to call back.",
+        "Give sodium polystyrene sulfonate from floor stock as a standard treatment.",
+        "Escalate to the charge nurse or nursing supervisor.",
+        "Ask the client whether they ate high-potassium foods at dinner."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Documenting attempts does not protect the client; waiting while ECG changes are present is a failure to act.",
+        "Incorrect. Giving a medication without an order or protocol is outside nursing scope.",
+        "Correct. When the provider cannot be reached for a critical finding, the nurse escalates through the chain of command.",
+        "Incorrect. A diet history may be useful later but does not address the urgent risk of dysrhythmia."
+      ],
+      "rationale": "Box 49.1 includes failure to notify the provider of changes and failure to monitor and take protective action. Hyperkalemia with peaked T waves is an urgent risk for dysrhythmia, so the nurse cannot simply document and wait. When the provider does not respond, the nurse uses the chain of command (charge nurse, supervisor, medical director or rapid response per policy) and keeps monitoring the client. The nurse documents the times, findings, and each escalation.",
+      "takeaway": "If the provider can’t be reached for a critical finding, escalate up the chain of command — don’t just chart and wait.",
+      "hintContent": "What does the nurse do when the usual route of communication fails and the client is at risk?",
+      "hintStrategy": "In escalation items, the answer keeps the problem moving to someone who can act, within the nurse’s scope.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2827–2830",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-029"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse routinely skips barcode scanning because “the scanner is slow and nothing bad has ever happened.” A safety review uses a Just Culture model. How should this behavior be classified, and what is the expected response?",
+      "options": [
+        "Human error, managed by consoling the nurse and redesigning the process",
+        "At-risk behavior, managed by coaching and fixing the system",
+        "Reckless behavior, managed by immediate termination and a report to law enforcement",
+        "No safety concern, because no client has been harmed by the shortcut"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Human error is an inadvertent slip; this is a deliberate choice to skip a step.",
+        "Correct. A drift into a shortcut whose risk the nurse does not recognize as significant is at-risk behavior, addressed with coaching and system fixes.",
+        "Incorrect. Reckless behavior is a conscious disregard of a substantial, unjustifiable risk; this pattern is a habitual drift addressed first with coaching.",
+        "Incorrect. Absence of harm so far does not make a workaround safe; near misses and drift are reportable risks."
+      ],
+      "rationale": "Just Culture distinguishes human error (an inadvertent slip, managed by consoling and fixing systems), at-risk behavior (a choice where the risk is not recognized or is believed justified, managed by coaching and removing incentives), and reckless behavior (conscious disregard of substantial risk, managed by discipline). Skipping scanning because it is slow and has not caused harm is a classic at-risk drift. The response also fixes the system issue, such as slow scanners.",
+      "takeaway": "Human error → console; at-risk behavior → coach; reckless behavior → discipline.",
+      "hintContent": "Was the act an accident, a risky habit, or a conscious disregard of known danger?",
+      "hintStrategy": "When categories form a continuum, match the stem’s intent and awareness to the correct level.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2829",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-030"
+    },
+    {
+      "topic": "malpractice-standard-care",
+      "type": "sata",
+      "stem": "A risk manager reviews several events. Which situations most likely meet all elements required to establish malpractice? Select all that apply.",
+      "options": [
+        "A nurse gives a double dose of an antacid; the client has no adverse effects.",
+        "A nurse does not report a postoperative temperature of 39.2°C and rising heart rate; the client develops septic shock.",
+        "A nurse leaves a high-fall-risk client’s bed raised with the alarm off; the client falls and fractures a hip.",
+        "A competent client refuses a prescribed antibiotic after teaching; the infection worsens.",
+        "A sponge is retained after surgery, requiring a second operation."
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Without injury or harm, malpractice cannot be established.",
+        "Correct. Duty, breach (failure to communicate), foreseeable harm, causation, injury, and damages are present.",
+        "Correct. Failure to provide a safe environment led to a foreseeable fall and injury.",
+        "Incorrect. A competent client’s informed refusal is not a nursing breach; the nurse respected autonomy and taught.",
+        "Correct. A retained sponge causes harm and is a classic res ipsa loquitur case of negligence."
+      ],
+      "rationale": "Malpractice requires duty, breach, foreseeability, causation, injury, and damages. A missed report of sepsis signs, an unaddressed fall risk leading to a fracture, and a retained sponge each involve a breach that caused real harm. An error with no harm fails on the injury element. A competent client who refuses treatment after teaching exercises autonomy, so the nurse did not breach the standard.",
+      "takeaway": "Check every element; harm caused by the nurse’s breach is what turns an error into malpractice.",
+      "hintContent": "For each option, ask: was there a breach by the nurse, and did it cause harm?",
+      "hintStrategy": "Run each SATA option through the element checklist; one missing element eliminates it.",
+      "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2827–2828",
+      "alsoTests": [
+        "consent-laws-lifespan"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-031"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A client scheduled for a laparoscopic cholecystectomy is about to sign the consent form, which the nurse will witness. The client says, “The surgeon talked so fast. I’m not sure what they’re taking out or what could go wrong.” Which action should the nurse take?",
+      "options": [
+        "Explain the procedure and its risks, then witness the client’s signature.",
+        "Witness the signature, because the surgeon already held the discussion.",
+        "Ask a family member to review the procedure with the client before signing.",
+        "Delay the signature and notify the surgeon that the client needs more information."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Explaining the procedure and its risks to obtain consent is the responsibility of the provider performing it.",
+        "Incorrect. Witnessing a signature when the client does not understand would not support valid informed consent.",
+        "Incorrect. Family members cannot fulfill the provider’s duty to inform, and this may compromise privacy.",
+        "Correct. The client lacks understanding of the procedure and risks, so the surgeon must return to explain before consent is valid."
+      ],
+      "rationale": "Informed consent requires that the client understand the reason, procedure, benefits, risks, and alternatives, and the provider performing the procedure is responsible for that explanation. The nurse’s role is to verify understanding and voluntariness and witness the signature. When a client expresses confusion about the procedure or its risks, the nurse stops and notifies the provider. The nurse may reinforce teaching but does not substitute for the provider’s consent discussion.",
+      "takeaway": "If the client doesn’t understand the procedure, stop and call the provider — the nurse witnesses, the provider informs.",
+      "hintContent": "Whose legal duty is it to explain the procedure and its risks?",
+      "hintStrategy": "In consent items, ask whether all elements are present before choosing “witness the signature.”",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2831",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-032"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "sata",
+      "stem": "A nurse is preparing a client for a scheduled cardiac catheterization. Which actions are within the nurse’s role in the informed consent process? Select all that apply.",
+      "options": [
+        "Assessing whether the client can see, hear, and read the consent form",
+        "Arranging a qualified medical interpreter for a client with limited English proficiency",
+        "Explaining the risks and alternatives of the catheterization to the client",
+        "Witnessing the client’s signature and confirming it is given voluntarily",
+        "Having the client sign the form after preprocedure midazolam is given",
+        "Notifying the provider when the client expresses doubts about proceeding"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. The nurse assesses sensory and literacy barriers that could prevent understanding.",
+        "Correct. A qualified interpreter ensures accurate, private communication; family should not interpret.",
+        "Incorrect. Explaining risks and alternatives is the responsibility of the provider performing the procedure.",
+        "Correct. The nurse witnesses the signature and verifies voluntariness.",
+        "Incorrect. Consent must be signed before sedating medications that impair understanding.",
+        "Correct. Doubts or questions mean the provider must return before the procedure proceeds."
+      ],
+      "rationale": "The provider who performs a procedure obtains informed consent by explaining the reason, procedure, benefits, risks, and alternatives. The nurse supports valid consent by assessing ability to see, hear, and read; arranging a qualified interpreter; considering cultural and spiritual preferences; witnessing the signature; and notifying the provider of questions or doubts. Consent signed after a sedative may be invalid because the client’s capacity is impaired.",
+      "takeaway": "The nurse assesses, arranges interpretation, witnesses, and escalates doubts; the provider explains.",
+      "hintContent": "Separate the actions that inform the client from those that protect the consent process.",
+      "hintStrategy": "Evaluate each option by asking “Is this the provider’s job or the nurse’s job?”",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2831",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-033"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": true,
+      "stem": "An unconscious adult arrives in the emergency department after a motor vehicle crash with a hemoglobin of 6.2 g/dL and ongoing bleeding. While inventorying belongings, the nurse finds a signed, dated card stating the client is a Jehovah’s Witness and refuses all blood transfusions. Which action should the nurse take?",
+      "options": [
+        "Begin the transfusion under the emergency doctrine, because the client cannot consent.",
+        "Show the card to the provider immediately so transfusion is withheld and alternatives are considered.",
+        "Ask the client’s friend at the bedside whether the client would want blood in this situation.",
+        "Hold all treatment until the ethics committee can meet and decide on the plan of care."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The emergency doctrine does not allow a treatment the client previously refused; transfusing would be battery.",
+        "Correct. The provider must know of the documented refusal at once so the team withholds blood and uses acceptable alternatives.",
+        "Incorrect. A friend has no authority to override the client’s own documented refusal.",
+        "Incorrect. Delaying all treatment endangers the client; acceptable treatments should continue while consultations proceed."
+      ],
+      "rationale": "The emergency doctrine presumes consent when life or limb is threatened and the client cannot consent, but it does not permit a treatment the client previously refused. A signed card refusing blood is the client’s own expressed decision, and transfusing would be battery. The nurse alerts the provider immediately so the team can use acceptable alternatives (volume expanders, hemostatic measures) and involve ethics and legal resources as needed while continuing other emergency care.",
+      "takeaway": "Emergency consent never overrides a known prior refusal of that specific treatment.",
+      "hintContent": "What does the card tell you about the client’s own decision?",
+      "hintStrategy": "For emergency-consent items, look for any evidence of a prior refusal — it changes the answer.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832",
+      "alsoTests": [
+        "law-torts-privacy"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-034"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": false,
+      "stem": "The nurse is giving routine morning care to several clients. In which situation may the nurse proceed on the basis of implied consent?",
+      "options": [
+        "A client extends an arm when the nurse says it is time for a blood pressure check.",
+        "A client nods when told the provider will insert a central line later this morning.",
+        "A client is asleep when the nurse arrives to give a scheduled subcutaneous injection.",
+        "A client pulls the arm away as the nurse approaches with a fingerstick lancet."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Extending an arm for a routine, low-risk measurement is an action consistent with care, which is implied consent.",
+        "Incorrect. A central line is an invasive procedure that requires informed consent obtained by the provider; a nod to the nurse is not enough.",
+        "Incorrect. A sleeping client has given no consent by action or word; the nurse wakes the client, explains, and obtains agreement.",
+        "Incorrect. Pulling away is a refusal; proceeding would be battery. The nurse stops and explores the reason."
+      ],
+      "rationale": "Implied consent is inferred from the client’s actions, such as extending an arm for vital signs or positioning for an injection, and covers routine, low-risk care. It never replaces informed consent for invasive procedures, which the provider performing the procedure must obtain after explaining the five elements. Silence or sleep is not consent, and pulling away communicates refusal; touching the client anyway would be battery.",
+      "takeaway": "Cooperative actions = implied consent for routine care; procedures need informed consent, and pulling away is a refusal.",
+      "hintContent": "Look for a cooperative action that matches a routine, low-risk task.",
+      "hintStrategy": "For each option, ask: Did the client act in a way that agrees to this specific, low-risk care — or is this a procedure, no response, or a refusal?",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2831",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-035"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse working in an outpatient clinic reviews the day’s appointments. In most U.S. states, which client may consent to treatment without a parent or guardian?",
+      "options": [
+        "A 16-year-old requesting testing and treatment for chlamydia",
+        "A 15-year-old requesting elective cosmetic rhinoplasty",
+        "A 14-year-old needing a tonsillectomy who wants parents excluded",
+        "A 17-year-old living with parents who needs knee arthroscopy"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. All states allow minors to consent to STI testing and treatment, most from age 12.",
+        "Incorrect. Elective cosmetic surgery requires parental consent for a minor.",
+        "Incorrect. Surgery for a non-emancipated minor requires a parent or guardian’s consent.",
+        "Incorrect. A 17-year-old living with parents is not emancipated and needs parental consent for surgery."
+      ],
+      "rationale": "Minors generally need a parent or guardian’s consent unless an exception applies: emergency, emancipation, mature-minor laws, a court order, or a law allowing a specific service. STI care is one of the most widely recognized exceptions; 45 states and DC allow all minors age 12 and older to consent, and the remaining states allow it from age 14 or 16. Elective or surgical procedures for non-emancipated minors require parental consent.",
+      "takeaway": "Minors may consent to specific services the law allows, such as STI care; surgery usually needs a parent.",
+      "hintContent": "Which of these services is commonly carved out by law for minors?",
+      "hintStrategy": "For minor-consent items, check for emancipation, emergency, or a service-specific exception.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832–2833",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "id": "m49-pro-036"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "sata",
+      "stem": "A 2-year-old is brought to the emergency department with a spiral fracture of the femur. The parent states the child “fell off the couch,” and later tells a different nurse the child “got caught in the crib.” Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Report the suspected abuse to the designated child protective agency.",
+        "Document each caregiver explanation in the caregiver’s own words.",
+        "Wait for the radiologist’s report to confirm abuse before making a report.",
+        "Confront the parent about the inconsistent explanations.",
+        "Ensure the child’s immediate safety and treat the injury and pain.",
+        "Tell the parent which staff member is filing the report."
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Nurses are mandated reporters; reasonable suspicion is enough to report.",
+        "Correct. Objective documentation of each explanation verbatim supports the investigation.",
+        "Incorrect. Proof is not required; delaying the report while awaiting confirmation is inappropriate.",
+        "Incorrect. Confronting the caregiver can escalate risk and is the investigators’ role, not the nurse’s.",
+        "Correct. Safety and treatment of the injury are immediate priorities.",
+        "Incorrect. The reporter’s identity is generally kept confidential from the suspected abuser."
+      ],
+      "rationale": "A spiral fracture in a toddler with changing explanations that do not match the injury are cues for suspected physical abuse. Nurses must report reasonable suspicion in good faith according to policy and directly to the designated agency; proof is not required and investigators carry the burden of proof. The nurse ensures safety, treats the injury, and documents objective findings and statements verbatim. Confronting the caregiver or revealing the reporter can endanger the child. (In North Carolina, any person who suspects child maltreatment must report to the county department of social services.)",
+      "takeaway": "Report suspicion — not proof — keep the child safe, and document facts verbatim.",
+      "hintContent": "What does the law require of a nurse who suspects, but cannot prove, abuse?",
+      "hintStrategy": "Eliminate options in which the nurse investigates, accuses, or delays the report.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2834",
+      "alsoTests": [
+        "law-torts-privacy"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-037"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 16-year-old is seen at a clinic for contraception and is covered by a parent’s health insurance. The adolescent asks, “My mom won’t find out about this, right?” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Nothing you share with me will ever be told to anyone, so you don’t need to worry.”",
+        "“I will need to call your mom before we can start any birth control.”",
+        "“Your visit is kept private, but insurance statements sent to your mom may show it.”",
+        "“It would be better for you to tell your mom yourself before we go any further.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Absolute confidentiality cannot be promised; there are legal and billing limits.",
+        "Incorrect. Many states allow minors to consent to contraceptive services without parental involvement.",
+        "Correct. This is honest about confidentiality and its limits, including insurance billing statements.",
+        "Incorrect. Encouraging communication can be helpful later, but it does not answer the question honestly and may deter care."
+      ],
+      "rationale": "Adolescents seeking sexual health, contraception, substance use, or mental health care need honest information about confidentiality. Nurses tell them confidentiality will be maintained when possible but cannot be guaranteed — for example, explanation-of-benefits statements sent to a parent who holds the insurance may reveal the service, and safety concerns may require disclosure. Promising total secrecy is dishonest, and requiring parental contact may be inaccurate and drive the adolescent away from care.",
+      "takeaway": "Promise adolescents confidentiality where possible — never absolute secrecy — and explain the limits, including billing.",
+      "hintContent": "What could reveal the visit even if the nurse tells no one?",
+      "hintStrategy": "In confidentiality items, the best answer is honest about limits rather than absolute in either direction.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2834",
+      "alsoTests": [
+        "law-torts-privacy"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "id": "m49-pro-038"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "sata",
+      "stem": "An off-duty nurse stops to help at the scene of a car crash and begins first aid on an injured driver. Which actions help keep the nurse protected under Good Samaritan laws? Select all that apply.",
+      "options": [
+        "Providing care consistent with the nurse’s training and licensure",
+        "Staying with the victim until emergency medical services assumes care",
+        "Performing an emergency procedure beyond the nurse’s training to save time",
+        "Accepting payment that the victim’s family offers for the help",
+        "Giving the arriving paramedics a report of the care provided",
+        "Leaving the victim once another bystander says they know first aid"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Protection requires care consistent with the nurse’s training and licensure.",
+        "Correct. Once care begins, the nurse must continue until qualified help takes over to avoid abandonment.",
+        "Incorrect. Acting beyond training is not consistent with the standard and may not be protected.",
+        "Incorrect. Protection generally applies to care given without compensation.",
+        "Correct. A handoff report safely transfers care to qualified providers.",
+        "Incorrect. Leaving before qualified help assumes care can be abandonment."
+      ],
+      "rationale": "Good Samaritan laws protect healthcare professionals who volunteer emergency aid outside employment, as long as they act within their training, do not accept compensation, avoid gross negligence, and do not abandon the victim. Once care is started, the nurse follows through until someone able to provide appropriate care, such as EMS, takes over, and a handoff report completes that transfer. Another bystander with first aid knowledge is not a qualified transfer.",
+      "takeaway": "Good Samaritan protection: volunteer, stay within training, and stay until qualified help takes over.",
+      "hintContent": "Think “free, fit, finish.”",
+      "hintStrategy": "For each SATA option, check it against each condition of the protection; any violation eliminates it.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2833",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-039"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A staff nurse discovers that the hospital regularly assigns unlicensed float staff to administer IV medications in the intensive care unit, which violates state law. The nurse wants to be protected as a whistleblower. Which action should the nurse take first?",
+      "options": [
+        "Contact a local television station to expose the unsafe practice.",
+        "Resign from the position and then report the hospital to the state.",
+        "File a complaint with OSHA before talking with anyone at the hospital.",
+        "Report the practice in writing through the hospital’s internal chain of command."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Going to the media first bypasses internal channels and the required notice.",
+        "Incorrect. Resigning first can forfeit protection; retaliation claims should be filed before resigning.",
+        "Incorrect. External agency reporting is appropriate after internal efforts fail or retaliation occurs, not as the first step here.",
+        "Correct. Whistleblower protection generally requires a good-faith effort to resolve the issue internally, with written notice and time to correct."
+      ],
+      "rationale": "Whistleblowing is the disclosure of an employer’s unsafe or illegal practices. To qualify for protection, the employee first makes every effort to resolve the problem through internal reporting procedures, involves a violation of a specific law or rule, and gives the employer written notice and reasonable time to correct it, unless the employee has already been threatened or retaliated against. If retaliation occurs, the employee reports to OSHA before resigning.",
+      "takeaway": "Whistleblowers start with written internal reporting through the chain of command.",
+      "hintContent": "What step do whistleblower protections expect before going outside the organization?",
+      "hintStrategy": "Chain-of-command thinking applies: go up internally before going outside, unless retaliation has already occurred.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2833",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-040"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse administers 50 mcg of fentanyl from a 100-mcg vial and must waste the remaining 50 mcg. The unit is busy. Which action is appropriate?",
+      "options": [
+        "Waste the drug alone and document the amount in the dispensing cabinet.",
+        "Ask an unlicensed assistive staff member to observe and cosign the waste.",
+        "Save the remaining drug in a locked drawer for the client’s next dose.",
+        "Have another licensed nurse observe the waste and cosign the record."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Controlled substance waste must be witnessed; an unwitnessed waste is a diversion risk.",
+        "Incorrect. Agency policies require a licensed witness for controlled substance waste.",
+        "Incorrect. Single-dose controlled drugs are not saved; keeping the remainder is a diversion and safety risk.",
+        "Correct. A licensed nurse who actually observes the waste and cosigns maintains the required accountability."
+      ],
+      "rationale": "The Controlled Substances Act requires strict recordkeeping for controlled drugs from manufacture to administration, and agency policies require that any wasted portion be observed and cosigned by a licensed witness. The witness must actually see the waste, not sign afterward. Unwitnessed waste, saving partial doses, and using unlicensed staff as witnesses all break the chain of accountability and are red flags for diversion.",
+      "takeaway": "Controlled substance waste requires a licensed witness who actually observes it.",
+      "hintContent": "Who can legitimately verify the disposal of a controlled substance?",
+      "hintStrategy": "When options involve controlled drugs, choose the one that preserves accountability and a witnessed record.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832–2833",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "id": "m49-pro-041"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "sata",
+      "stem": "A charge nurse is concerned about possible drug diversion on the unit. Which findings involving a staff nurse are cues that warrant reporting? Select all that apply.",
+      "options": [
+        "Frequently wastes opioids without a witness present",
+        "Clients report unrelieved pain on her shifts despite documented opioid doses",
+        "Often volunteers to give pain medication to other nurses’ clients",
+        "Consistently documents pain reassessment 30 minutes after IV opioid doses",
+        "Takes frequent unexplained breaks shortly after removing opioids from the cabinet",
+        "Asks the pharmacist to clarify an unclear opioid order"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Unwitnessed waste is a common diversion pattern.",
+        "Correct. Unrelieved pain despite documented doses suggests the client did not receive the drug.",
+        "Correct. Volunteering to medicate others’ clients is a recognized diversion behavior.",
+        "Incorrect. Timely pain reassessment is appropriate practice.",
+        "Correct. Frequent breaks after removing opioids may indicate diversion or use.",
+        "Incorrect. Clarifying an unclear order is safe practice."
+      ],
+      "rationale": "Diversion of controlled substances is a crime, endangers clients, and violates the Controlled Substances Act. Common cues include unwitnessed waste, clients reporting unrelieved pain despite documented doses, volunteering to medicate other nurses’ clients, and frequent unexplained absences after removing opioids. Reassessing pain and clarifying orders are signs of safe practice. The charge nurse reports concerns through the chain of command and per policy rather than investigating alone.",
+      "takeaway": "Unwitnessed waste, unrelieved client pain, volunteering for others’ opioids, and unexplained breaks are diversion cues.",
+      "hintContent": "Which behaviors create opportunities to remove drugs without a client receiving them?",
+      "hintStrategy": "In “recognize cues” SATA items, separate unusual patterns from routine safe practice.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832–2833",
+      "alsoTests": [
+        "law-torts-privacy"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-042"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client with schizophrenia who is not under guardianship is scheduled for elective hernia repair. The client clearly explains the purpose, the risks, and the option of watchful waiting, and then declines the surgery. The client’s adult daughter asks to sign the consent instead. Which action by the nurse is appropriate?",
+      "options": [
+        "Accept the client’s refusal, notify the surgeon, and document the discussion.",
+        "Have the daughter sign, because a psychiatric diagnosis makes the client incompetent.",
+        "Proceed with surgery under the emergency doctrine to prevent a future emergency.",
+        "Ask the psychiatrist to declare the client incompetent before the procedure."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The client is presumed competent and demonstrates decision-specific capacity, so the refusal stands.",
+        "Incorrect. A psychiatric diagnosis does not by itself remove the legal right to decide.",
+        "Incorrect. Elective surgery is not an emergency, and the doctrine never overrides a refusal.",
+        "Incorrect. Only a court can declare an adult legally incompetent; a clinician assesses capacity."
+      ],
+      "rationale": "Adults are presumed competent unless a court declares otherwise, and capacity is assessed for each specific decision. A client who can explain the purpose, risks, and alternatives and communicate a choice has capacity, regardless of a psychiatric diagnosis. The nurse respects the refusal, notifies the surgeon, and documents. Family members cannot consent for a capable adult, and clinicians assess capacity but cannot declare legal incompetency, which is a court’s role.",
+      "takeaway": "A diagnosis is not incapacity: an adult who understands and chooses keeps the right to refuse.",
+      "hintContent": "What did the client demonstrate about understanding this decision?",
+      "hintStrategy": "When a stem shows the client explaining risks and alternatives, the client has capacity — eliminate surrogate options.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2831–2832",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "id": "m49-pro-043"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client being discharged has four new prescriptions and asks, “Which of these will need a brand-new prescription every time, with no refills?” Under the Controlled Substances Act, which medication should the nurse identify?",
+      "options": [
+        "Lorazepam",
+        "Acetaminophen with codeine",
+        "Oxycodone",
+        "Pregabalin"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Lorazepam is Schedule IV, with lower abuse potential.",
+        "Incorrect. Acetaminophen with codeine is Schedule III.",
+        "Correct. Oxycodone is Schedule II: high abuse and dependence potential, accepted medical use, and no refills.",
+        "Incorrect. Pregabalin is Schedule V, with the lowest abuse potential."
+      ],
+      "rationale": "The CSA places drugs in Schedules I–V by medical use and abuse potential. Schedule II drugs such as oxycodone, morphine, fentanyl, methadone, and amphetamine have accepted medical use but high abuse and dependence potential, so they require a new prescription for each fill. Acetaminophen with codeine is Schedule III, benzodiazepines such as lorazepam are Schedule IV, and pregabalin is Schedule V. Knowing the schedule helps nurses teach clients about refills, storage, and disposal.",
+      "takeaway": "Schedule II (e.g., oxycodone, morphine, fentanyl) = highest abuse potential with medical use; no refills.",
+      "hintContent": "Which drug in the list is an opioid agonist with high abuse potential on its own?",
+      "hintStrategy": "For schedule items, anchor on one example per schedule and compare.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832–2833",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "id": "m49-pro-044"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A woman arrives with an adult client who has a severe traumatic brain injury and states, “I’m his legal guardian. I’ll sign the consent for his feeding tube.” Which action should the nurse take first?",
+      "options": [
+        "Have the woman sign, because she accompanies the client and knows his history.",
+        "Ask the client to sign the consent form to the best of his ability.",
+        "Consult the ethics committee about who should make decisions for the client.",
+        "Confirm that a copy of the court order of guardianship is in the record."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Presence and familiarity do not establish legal authority to consent.",
+        "Incorrect. A severe traumatic brain injury raises doubt about his capacity, and if a court has declared him incompetent his signature is not valid consent; legal authority must be verified first.",
+        "Incorrect. An ethics consult is unnecessary if a valid guardianship order exists; verification comes first.",
+        "Correct. A guardian must give the healthcare team a copy of the court order validating decision-making authority."
+      ],
+      "rationale": "When a court declares an adult legally incompetent, it appoints a guardian, who must provide a copy of the court order validating authority to make healthcare decisions. The nurse verifies that documentation before accepting the guardian’s consent. Without verification, the nurse cannot know whether the person has legal authority. Ethics consultation may help in disputes but does not replace verifying legal authority.",
+      "takeaway": "Verify a guardian’s court order before accepting their consent.",
+      "hintContent": "What document proves a guardian’s authority?",
+      "hintStrategy": "In “first” items about decision makers, verifying legal authority comes before acting on consent.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "id": "m49-pro-045"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "sata",
+      "stem": "A 15-year-old with relapsed acute myelocytic leukemia tells the team he will accept a bone marrow transplant but does not want resuscitation or life support if his heart stops. His parents insist on “everything.” Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Facilitate communication among the adolescent, parents, provider, social worker, and chaplain.",
+        "Request an ethics committee consultation according to agency policy.",
+        "Tell the adolescent his wishes carry no weight because he is a minor.",
+        "Review state law and agency policy on mature-minor decision making.",
+        "Enter a do-not-resuscitate order in the record based on the adolescent’s wishes.",
+        "Advocate for the adolescent’s voice to be heard in care discussions."
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Open communication among family and team is a key nursing action in this conflict.",
+        "Correct. An ethics committee helps resolve conflicts over life-sustaining treatment.",
+        "Incorrect. Dismissing the adolescent ignores his developing autonomy and the possibility of mature-minor rights.",
+        "Correct. The nurse must know state mature-minor laws and agency policies.",
+        "Incorrect. Nurses do not write resuscitation orders; code status is a provider order.",
+        "Correct. The nurse advocates for the client’s voice while respecting legal limits."
+      ],
+      "rationale": "When a mature adolescent and parents disagree about life-sustaining treatment, the nurse must know state mature-minor law and agency policy, facilitate open communication among the family, provider, social worker, chaplain, and ethics committee, and advocate for the adolescent’s voice. The nurse does not resolve the conflict alone, dismiss the adolescent, or write code-status orders, which are provider orders. This approach respects both developing autonomy and legal boundaries.",
+      "takeaway": "In adolescent–parent treatment conflicts, know the law, convene the team and ethics, and advocate for the adolescent’s voice.",
+      "hintContent": "Which actions are within nursing scope and support shared decision making?",
+      "hintStrategy": "Eliminate options that are outside nursing scope (writing orders) or that dismiss the client.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832–2833",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "id": "m49-pro-046"
+    },
+    {
+      "topic": "consent-laws-lifespan",
+      "type": "mcq",
+      "priority": true,
+      "stem": "During a home visit, a nurse finds an 82-year-old client with dementia lying in soiled bedding with a new stage 3 sacral pressure injury and an empty refrigerator. The adult son who is the live-in caregiver says, “She refuses help, so I leave her alone.” Which action should the nurse take?",
+      "options": [
+        "Report suspected neglect to adult protective services per agency policy.",
+        "Ask the son for proof that his mother has refused his help.",
+        "Teach the son a turning schedule and reassess at next week’s visit.",
+        "Tell the son that he will be arrested if conditions do not improve."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Signs of neglect in a vulnerable adult require a report to adult protective services.",
+        "Incorrect. The nurse does not investigate or demand proof; reasonable suspicion is enough to report.",
+        "Incorrect. Teaching may help later, but delaying action leaves a vulnerable adult at continued risk.",
+        "Incorrect. Threats are unprofessional, can increase risk, and arrest decisions belong to law enforcement."
+      ],
+      "rationale": "Vulnerable or disabled adults who show signs of neglect — untreated pressure injuries, poor hygiene, lack of food — are protected by adult protective services laws, which require reporting when there is reasonable cause to believe protective services are needed. Like child abuse reporting, the nurse reports suspicion and does not investigate or wait for proof. The nurse also addresses the client’s immediate needs, documents objective findings, and notifies the provider. (In North Carolina, this report goes to the county department of social services director, which provides adult protective services.)",
+      "takeaway": "Suspected neglect of a vulnerable adult is reported to adult protective services without waiting for proof.",
+      "hintContent": "Which findings suggest that this client’s basic needs are not being met?",
+      "hintStrategy": "In abuse or neglect items, the answer is the report to the designated agency — not teaching, investigating, or threatening.",
+      "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2834",
+      "alsoTests": [
+        "law-torts-privacy"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "id": "m49-pro-047"
+    }
+  ]
+});

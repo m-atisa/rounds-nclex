@@ -1,0 +1,1953 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m47",
+  "moduleNumber": 47,
+  "moduleTitle": "Health Policy",
+  "tagline": "Know who makes the rule, who pays the bill, and how to change it.",
+  "overview": "Health policy — laws, regulations, agency rules, accreditation standards, and financing — sets the legal scope of nursing, the quality bar for organizations, and whether clients can afford care. This module covers how policy is made, which agencies and associations shape practice, and how private insurance, Medicare, Medicaid, CHIP, and the ACA determine access.",
+  "topics": [
+    {
+      "id": "policy-process",
+      "title": "Health Policy, Law & Regulation: How Policy Is Made and Why It Shapes Nursing",
+      "exemplar": null
+    },
+    {
+      "id": "agencies-accreditation",
+      "title": "Health Agencies, Accrediting Bodies & Professional Associations",
+      "exemplar": null
+    },
+    {
+      "id": "healthcare-financing",
+      "title": "Healthcare Funding & Reimbursement: Private Insurance, Medicare, Medicaid & the ACA",
+      "exemplar": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Define health policy",
+      "back": "Actions by government bodies and other societal actors to reach health goals: laws, regulations, agency guidelines, position statements, resolutions, judicial decrees, and budget priorities.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Law (statute) vs. regulation — who writes each?",
+      "back": "The legislature passes broad laws; an executive branch agency writes detailed regulations that carry the force of law but cannot exceed the enabling statute.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Is a board of nursing part of the legislative or executive branch?",
+      "back": "Executive. It implements the nurse practice act, writes regulations, and licenses and disciplines nurses.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Hospital policy allows a task the nurse practice act does not. What does the nurse do?",
+      "back": "Follow the law: do not perform or delegate the task, protect the client, and report the policy conflict through the chain of command.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Public vs. private health policy",
+      "back": "Public = laws and regulations, enforceable by government. Private = organizational, accreditation, and association policies; influential but not law.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "The four essential questions before drafting a bill",
+      "back": "Target population; cost vs. benefit; stakeholders; scientific evidence (and successful models).",
+      "topic": "policy-process"
+    },
+    {
+      "front": "The four stages of policymaking",
+      "back": "Agenda setting → government response → implementation → evaluation.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Nurses comparing outcomes before and after a new law — which stage?",
+      "back": "Evaluation.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Key federal budget dates",
+      "back": "President submits the budget by the first Monday in February; the fiscal year begins October 1; a continuing resolution keeps government funded if appropriations are late.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "What makes a policy evidence-informed (Box 47.1)?",
+      "back": "It combines external scientific evidence with stakeholder and lawmaker values and ethics — e.g., the 2018 NC standing order letting pharmacists dispense naloxone on request.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "A nurse finds evidence that a unit procedure is outdated. First step?",
+      "back": "Bring the evidence to the manager or practice council to revise the policy through proper channels; don’t change practice unilaterally.",
+      "topic": "policy-process"
+    },
+    {
+      "front": "Define accreditation",
+      "back": "Voluntary, private peer-review recognition that an organization meets an accrediting body’s quality standards, with periodic reevaluation and on-site visits.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "Licensure vs. accreditation",
+      "back": "Licensure is mandatory and governmental; accreditation is voluntary and private (but tied to payer credibility and Medicare/Medicaid participation).",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "Which agency requires sharps containers and eyewash stations, and which department is it in?",
+      "back": "OSHA, part of the U.S. Department of Labor (not DHHS).",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "Name the DHHS divisions for drug safety, disease control, and Medicare/Medicaid",
+      "back": "FDA, CDC, and CMS.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "County vs. city health department",
+      "back": "County: sanitation, food safety, waste, injury prevention (car seats, helmets, lead). City: direct clinics (TB, HIV, sexual health, dental) and city codes.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "Who licenses hospitals and investigates nursing home complaints?",
+      "back": "The state health agency.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "Multilateral vs. bilateral vs. NGO",
+      "back": "Multilateral = many governments (WHO). Bilateral = one government (USAID). NGO = no government (Project Hope, World Central Kitchen).",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "What is required for a graduate to take the NCLEX?",
+      "back": "Graduation from a program approved by the state board of nursing (mandatory). CCNE, ACEN, and NLN CNEA accreditation is voluntary.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "CCNE vs. ACEN",
+      "back": "CCNE (arm of AACN) accredits baccalaureate and graduate programs; ACEN accredits all types, including PN and associate programs.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "A surveyor asks how your unit prevents CAUTI. What makes a strong answer?",
+      "back": "Describe the evidence-based practice, how the policy was developed, how staff were trained, and how CAUTI rates are monitored.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "A fall causes a hip fracture. What process follows?",
+      "back": "Sentinel event response: a systems-focused root cause analysis and action plan, not blame.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "An isolated CRNA wants specialty peers and CE. Which association?",
+      "back": "The AANA (American Association of Nurse Anesthesiology), the specialty association for CRNAs.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "AACN — which one?",
+      "back": "American Association of Colleges of Nursing = BSN/graduate education policy. American Association of Critical-Care Nurses = critical care specialty practice.",
+      "topic": "agencies-accreditation"
+    },
+    {
+      "front": "Co-payment vs. coinsurance",
+      "back": "Co-payment = fixed dollar amount at the time of service. Coinsurance = percentage of the cost after the deductible.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Rank private plans from most to least restrictive",
+      "back": "HMO → POS → PPO → CDHP → indemnity. (CDHP is ranked by its high-deductible design; its network rules depend on the underlying plan.)",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "What does an HMO PCP do?",
+      "back": "Acts as gatekeeper: manages general health and refers to in-network specialists and hospitals.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "An HMO member has stroke symptoms. Call the PCP for a referral first?",
+      "back": "No. Call 911; emergency care is covered without referral, regardless of network.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Define POS plan",
+      "back": "An HMO-PPO hybrid; at each visit the member chooses lower-cost in-network care or higher-cost out-of-network care.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Define CDHP",
+      "back": "An employer high-deductible plan with lower premiums paired with an HSA or HRA to pay deductibles and noncovered care.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Define indemnity plan",
+      "back": "Fee-for-service, least restrictive: no network, insured picks any provider; may still require preauthorization (e.g., MRI).",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Define domestic partner (ESI)",
+      "back": "An unmarried partner of the same or different sex to whom an employer may extend employment-sponsored coverage.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Medicare Parts A, B, C, D",
+      "back": "A = hospital, SNF (short-term skilled), hospice, home health. B = provider/outpatient, DME, preventive. C = Medicare Advantage. D = prescription drugs.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Does Medicare pay for permanent custodial nursing home care?",
+      "back": "No. Medicare excludes long-term custodial care, routine dental/eye care, hearing aids, and cosmetic surgery. Medicaid may pay for clients who qualify.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Medigap vs. Medicare Advantage",
+      "back": "Medigap supplements Original Medicare’s cost-sharing gaps; Medicare Advantage (Part C) replaces Original Medicare with a private bundled plan.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Medicaid vs. CHIP",
+      "back": "Medicaid (Title XIX): joint federal-state coverage for low income. CHIP: children under 19 whose families earn too much for Medicaid but can’t afford private coverage.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Who under 65 qualifies for Medicare?",
+      "back": "People with certain disabilities (generally after 24 months of Social Security disability benefits), ESRD, or ALS (coverage starts when disability benefits begin).",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Key ACA protections",
+      "back": "No annual dollar limits on essential benefits, dependents to 26, free preventive services, no preexisting-condition denials or surcharges, limits on unreasonable premium increases.",
+      "topic": "healthcare-financing"
+    },
+    {
+      "front": "Is SSI health insurance?",
+      "back": "No. SSI is federal cash aid (general taxes) for aged, blind, or disabled people with little income; recipients often qualify for Medicaid.",
+      "topic": "healthcare-financing"
+    }
+  ],
+  "questions": [
+    {
+      "id": "m47-pro-001",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "An RN floats to a medical unit. The charge nurse says, “Our unit policy lets LPNs complete the initial admission assessment and write the care plan when we are busy, so give your new admission to the LPN.” Which action should the RN take?",
+      "options": [
+        "Complete the initial assessment and care plan and report the policy concern to the manager.",
+        "Assign the admission to the LPN because the unit policy permits LPNs to complete it.",
+        "Have the LPN complete the assessment, then review it and cosign the admission documentation.",
+        "Ask the client whether the LPN may complete the admission assessment and care plan instead."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Initial comprehensive assessment and care planning are RN responsibilities; the RN acts within the law now and uses proper channels to fix the policy.",
+        "Incorrect. An organizational (private) policy cannot expand the legal scope of practice set by the nurse practice act and board rules.",
+        "Incorrect. Cosigning does not make the RN the person who assessed the client and still leaves an RN function performed outside the LPN’s scope.",
+        "Incorrect. A client cannot consent to care that falls outside a licensee’s legal scope of practice."
+      ],
+      "rationale": "When a facility policy conflicts with the nurse practice act or board of nursing regulations, the law controls because public policy carries the force of law and private policy does not. Initial comprehensive assessment and establishing the plan of care are RN functions; the LPN contributes data under RN supervision. The RN protects the client by completing the assessment and protects practice by reporting the conflicting policy. Cosigning is tempting because it looks like supervision, but it does not change who assessed the client.",
+      "takeaway": "Organizational policy can be stricter than the law, never broader; follow the law and report the conflict.",
+      "hintContent": "Ask who wrote each rule in the stem and which one carries the force of law.",
+      "hintStrategy": "Rank the rules by legal authority; the correct action stays inside the most restrictive rule while protecting the client.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2795–2798",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-002",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A staff nurse tells a coworker, “The board of nursing’s rule listing what I may delegate to assistive personnel is only a guideline. The nurse practice act is the only thing that can be enforced against my license.” Which response by the coworker is accurate?",
+      "options": [
+        "“You are right; board rules are advisory, so only a violation of the practice act itself can affect a license.”",
+        "“The board wrote the practice act and the legislature writes the rules, so neither one legally binds us.”",
+        "“The legislature passed the practice act, and board rules written under it carry the force of law, too.”",
+        "“Board rules apply only when our hospital has no policy of its own covering the same delegation task.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Regulations written by an executive agency under its enabling statute are legally enforceable, and violating them can lead to board discipline.",
+        "Incorrect. This reverses the roles: the legislature enacts the statute and the board, an executive agency, writes the regulations — and both are binding.",
+        "Correct. The practice act is a statute; the board’s regulations supply the detail (such as delegation rules), stay within the statute, and carry the force of law.",
+        "Incorrect. A hospital policy cannot replace or override a regulation; it may be stricter than the rule but never broader."
+      ],
+      "rationale": "A nurse practice act is a statute enacted by the state legislature and signed by the governor; it is written broadly. The board of nursing is an executive branch agency authorized by that statute to write regulations, such as rules on delegation, that must stay within the statute but are legally binding. A nurse who violates a board rule can be disciplined just as for violating the act itself. The reversed-roles distractor is common because both documents are associated with the board.",
+      "takeaway": "The legislature makes the law; the executive agency writes regulations that have the force of law.",
+      "hintContent": "Think about which branch creates statutes, which one writes regulations, and whether regulations are binding.",
+      "hintStrategy": "In “which statement is accurate” items, test each statement against one core rule and eliminate any that reverse it.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2795–2796",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-003",
+      "topic": "policy-process",
+      "type": "sata",
+      "stem": "During orientation, a new nurse hears about several rules that affect care on the unit. Which rules are public health policy that carries the force of law? Select all that apply.",
+      "options": [
+        "A state law requiring specific immunizations before children enter kindergarten",
+        "A board of nursing rule specifying what an RN may delegate to unlicensed personnel",
+        "A hospital policy requiring two RNs to verify every heparin infusion",
+        "A professional association’s position statement on safe nurse staffing",
+        "A state health department rule requiring facilities to report certain communicable diseases",
+        "The Joint Commission’s standard on hand hygiene compliance monitoring"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. A statute passed by the legislature is public policy enforceable by government.",
+        "Correct. A regulation written by a state executive agency is public policy with the force of law.",
+        "Incorrect. A hospital policy is private policy; it binds employees but is not law.",
+        "Incorrect. A position statement is private policy that guides practice and advocacy but is not legally binding.",
+        "Correct. A rule written by a state health agency under its enabling statute is public policy.",
+        "Incorrect. Accreditation standards come from a private, voluntary accrediting body and are private policy."
+      ],
+      "rationale": "Public health policy is established in law or regulation by government and is legally enforceable. Statutes and the regulations of executive agencies such as boards of nursing and health departments qualify. Hospital policies, professional association position statements, and accreditation standards are private policy; they are influential, and may be required by an employer or for accreditation, but they are not law. The Joint Commission option is the most tempting distractor because accreditation affects reimbursement, but the standard itself is written by a private organization.",
+      "takeaway": "Public policy comes from government (laws and agency rules); private policy comes from organizations, accreditors, and associations.",
+      "hintContent": "For each option, ask whether a government body wrote it.",
+      "hintStrategy": "In SATA items, judge each option independently against one sorting rule rather than looking for a pattern.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2795–2796",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-004",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "Several years after a state passed a law requiring hospitals to use a sepsis screening protocol, a nursing research team compares sepsis mortality and time-to-antibiotic data from before and after the law. Which stage of policymaking does this activity represent?",
+      "options": [
+        "Agenda setting",
+        "Government response",
+        "Implementation",
+        "Evaluation"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Agenda setting brings a problem to decision-makers’ attention before any formal action is taken.",
+        "Incorrect. Government response is the formal action, such as passing the law or issuing a rule.",
+        "Incorrect. Implementation is putting the law into action, such as writing rules and training staff to use the protocol.",
+        "Correct. Comparing outcomes before and after a policy measures whether it achieved its goals."
+      ],
+      "rationale": "The four stages of public policymaking are agenda setting, government response, implementation, and evaluation. Comparing outcome data after a policy has been in place is evaluation, and its findings may feed a new agenda. Implementation is the most tempting distractor because hospitals are still using the protocol, but the activity described is measuring results, not carrying out the policy.",
+      "takeaway": "Measuring outcomes after a policy takes effect is the evaluation stage.",
+      "hintContent": "Focus on the verb describing what the team is doing, not on the policy itself.",
+      "hintStrategy": "For process-stage items, match the action verb in the stem (publicize, pass, roll out, measure) to the stage.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2796–2797",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-005",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A nurse is drafting a proposal for a county program that would provide home visits to new mothers with substance use disorders. The nurse has identified the number of eligible mothers, estimated the program’s cost against expected savings, and met with community groups that support and oppose the idea. Which information should the nurse gather next to complete the four essential questions?",
+      "options": [
+        "A personal account from a mother willing to describe her experience at the hearing",
+        "Research on the effectiveness of home visiting and examples of successful programs elsewhere",
+        "A list of local legislators who are likely to vote in favor of the program",
+        "A comparison of the program’s cost with the county’s total public health budget"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A story can be powerful advocacy, but it does not answer any of the four essential questions.",
+        "Correct. The remaining essential question asks whether scientific evidence and similar successful models support the policy’s efficacy.",
+        "Incorrect. Vote counting is part of advocacy strategy, and supporters were already addressed under stakeholders.",
+        "Incorrect. Cost versus benefit has already been analyzed; a budget comparison adds little new information."
+      ],
+      "rationale": "Before drafting a bill or proposal, the four essential questions are: who is the target population, do the benefits outweigh the cost, who are the stakeholders, and is there scientific evidence (or similar successful models) supporting the policy? The nurse has answered the first three, so evidence of efficacy is the remaining gap. A client story is the most tempting distractor because it can be persuasive, but persuasion without evidence is weaker and does not answer the framework.",
+      "takeaway": "Strong policy proposals answer population, cost vs. benefit, stakeholders, and scientific evidence.",
+      "hintContent": "List the four essential questions and check which one the nurse has not yet answered.",
+      "hintStrategy": "When a stem lists what has already been done, the answer is usually the missing step in a known framework.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2796–2797",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-006",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A staff nurse reads a recent systematic review showing that the unit’s skin care procedure for incontinent clients is outdated. What should the nurse do first?",
+      "options": [
+        "Begin using the newer skin care technique with assigned clients during the next shift.",
+        "Encourage the other nurses on the unit to switch to the newer technique right away.",
+        "Post a summary of the review on social media to build support for changing practice.",
+        "Bring the review to the unit practice council or manager and propose a policy revision."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Changing practice before the policy is revised bypasses the organization’s review process and creates inconsistent care.",
+        "Incorrect. Encouraging colleagues to deviate from policy spreads unapproved practice and may expose clients and nurses to risk.",
+        "Incorrect. Social media is not the proper channel and may breach professional and organizational expectations.",
+        "Correct. Evidence should enter practice through the organization’s policy process, beginning with the practice council or manager."
+      ],
+      "rationale": "Nurses are expected to bring evidence into practice, but the change must go through proper channels: present the evidence, propose a revision, pilot and evaluate it, and obtain approval. Until the policy is changed, the nurse follows the current policy unless it would clearly harm a client. Starting the new technique independently is the most tempting distractor because the evidence supports it, but unilateral change undermines safety and consistency.",
+      "takeaway": "Evidence changes practice through the organization’s policy process, not through individual workarounds.",
+      "hintContent": "Think about how an organization’s private policy is legitimately changed.",
+      "hintStrategy": "For “first” items about practice change, choose the proper-channel action that starts the process rather than one that skips it.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2797–2798",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-007",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A client with asthma tells the clinic nurse, “My insurance only covers the generic inhaler well. The brand-name one my provider prescribed costs me $85 a month, so I’ve been using it only when I can’t breathe.” Which action by the nurse is most appropriate?",
+      "options": [
+        "Teach the client to use the inhaler every other day so the canister lasts longer.",
+        "Tell the client that brand-name inhalers are more effective and worth the extra cost.",
+        "Collaborate with the prescriber about a covered generic or formulary alternative.",
+        "Advise the client to switch to another insurance plan at the next open enrollment period."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Altering the prescribed dosing without an order is unsafe and outside the nurse’s scope.",
+        "Incorrect. This is inaccurate reassurance and ignores the cost barrier causing nonadherence.",
+        "Correct. Formulary tiers affect cost; the nurse collaborates with the prescriber to find an equally appropriate, affordable option.",
+        "Incorrect. A future plan change does nothing for the client’s current unsafe pattern of use."
+      ],
+      "rationale": "Managed-care formularies set lower co-payments for generic drugs and higher ones for brand-name drugs, and cost barriers directly cause nonadherence. The nurse’s role is to recognize the barrier and collaborate with the prescriber on a cost-effective, clinically appropriate alternative, plus referral to financial resources as needed. Changing the dosing schedule is the most dangerous distractor because it alters a prescribed regimen without an order. Changing plans later does not address the present risk.",
+      "takeaway": "When cost drives nonadherence, collaborate with the prescriber on formulary or generic options.",
+      "hintContent": "Consider how formularies and co-payment tiers affect what clients can afford.",
+      "hintStrategy": "Eliminate options that change a prescription without an order, then choose the collaborative action that solves the actual barrier.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2798",
+      "alsoTests": [
+        "healthcare-financing"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-008",
+      "topic": "policy-process",
+      "type": "sata",
+      "stem": "A nurse manager is teaching newly hired nurses about regulations written by the board of nursing. Which statements by the new nurses indicate correct understanding? Select all that apply.",
+      "options": [
+        "“A regulation must refer directly to the law that authorizes it.”",
+        "“A regulation cannot give the board more authority than the statute allows.”",
+        "“A regulation has the force of law, so violating one can affect my license.”",
+        "“Regulations are passed by the state legislature and signed by the governor.”",
+        "“If my hospital’s policy is less restrictive than a regulation, I can follow the policy.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Every regulation must point back to its enabling statute.",
+        "Correct. An executive agency cannot exceed the authority the legislature granted.",
+        "Correct. Regulations are legally enforceable, and violations can lead to board action.",
+        "Incorrect. That describes a law (statute); regulations are written by executive agencies.",
+        "Incorrect. A less restrictive hospital policy cannot authorize what a regulation prohibits; the nurse follows the more restrictive rule."
+      ],
+      "rationale": "Regulations are rules written and enforced by executive branch agencies such as boards of nursing. They supply the specific detail of how a law is carried out, must refer to the enabling statute, cannot exceed its authority, and carry the force of law. The legislative process produces statutes, not regulations. A less restrictive hospital policy never authorizes the nurse to violate a regulation.",
+      "takeaway": "Regulations detail the law, stay within it, and are legally binding.",
+      "hintContent": "Separate who writes laws from who writes regulations, and remember which rule wins when they conflict.",
+      "hintStrategy": "Treat each statement as true/false against the definition; don’t assume a fixed number of correct answers.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2795–2796",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-009",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "During orientation, a nurse educator discusses legal accountability for scope of practice. Which statement by a new nurse indicates a need for further teaching?",
+      "options": [
+        "“If my manager assigns a task outside my scope, the hospital is liable instead of me.”",
+        "“I am responsible for knowing my state’s legal scope of practice.”",
+        "“Practicing with an expired license violates the nurse practice act.”",
+        "“The board of nursing can discipline my license even if my employer approves of my actions.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This statement needs correction: licensure is personal, and a manager’s instruction does not protect a nurse who practices outside scope.",
+        "Incorrect. This statement is accurate; nurses are legally accountable for knowing their scope of practice.",
+        "Incorrect. This statement is accurate; current licensure is mandatory.",
+        "Incorrect. This statement is accurate; the board acts on the license regardless of employer approval."
+      ],
+      "rationale": "States regulate nursing through practice acts enforced by boards of nursing, and each nurse is legally accountable for knowing and practicing within that scope. A supervisor’s assignment or facility approval does not transfer the nurse’s accountability to the employer, and violations jeopardize the individual license. Current licensure is mandatory. The correct choice is the only inaccurate statement.",
+      "takeaway": "Licensure is personal: “my manager told me to” is not a defense for practicing outside scope.",
+      "hintContent": "Who holds the license, and who is accountable to the board for its use?",
+      "hintStrategy": "In “need for further teaching” items, look for the single false statement; the other three will be true.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2798",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-010",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "Nurses at a federally funded community health center are worried because it is late September and Congress has not passed the appropriations bills for the coming year. Which statement by the nurse manager is accurate?",
+      "options": [
+        "“Our state legislature must approve the federal appropriations bills before they take effect.”",
+        "“The President’s February budget proposal automatically funds our program for the next year.”",
+        "“Federal funding follows the calendar year, so nothing changes until January 1.”",
+        "“Congress can pass a continuing resolution to keep programs funded until appropriations pass.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Federal appropriations are passed by Congress; states do not approve them.",
+        "Incorrect. The President’s budget, due by the first Monday in February, is a proposal; Congress must pass appropriations.",
+        "Incorrect. The federal fiscal year begins October 1, not January 1.",
+        "Correct. When appropriations are not passed before the fiscal year begins on October 1, a continuing resolution keeps the government running."
+      ],
+      "rationale": "The federal budget process begins when the President submits a budget to Congress by the first Monday in February. Congress must pass appropriations bills before the fiscal year begins on October 1 or enact a continuing resolution to keep the government operating. Budget priorities are health policy because programs that are not funded cannot operate. The February proposal distractor is tempting, but a proposal does not fund anything.",
+      "takeaway": "Fiscal year starts October 1; appropriations or a continuing resolution keep programs funded.",
+      "hintContent": "Recall when the federal fiscal year begins and what happens if appropriations are late.",
+      "hintStrategy": "Eliminate statements with a wrong date or wrong branch, then confirm the remaining choice.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2797",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-011",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A nurse testifies before a state committee in support of expanding naloxone access. A legislator says, “I worry that handing out naloxone just encourages drug use.” Which response by the nurse best reflects evidence-informed health policy?",
+      "options": [
+        "“With respect, personal values about drug use are not relevant to a public health discussion.”",
+        "“I understand. Evidence shows high overdose risk after rehab and safe layperson use; may I share it?”",
+        "“Nurses see overdoses every week, so lawmakers should simply trust our judgment on this issue.”",
+        "“Several other states have passed this law, so our state should simply follow their lead.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Dismissing stakeholder values ignores half of evidence-informed policymaking and loses support.",
+        "Correct. It acknowledges the lawmaker’s values and answers them with external scientific evidence, the two ingredients of evidence-informed policy.",
+        "Incorrect. An appeal to professional authority without evidence is not persuasive or evidence-informed.",
+        "Incorrect. Similar models are useful evidence, but simply copying them without addressing concerns or data is weak."
+      ],
+      "rationale": "Evidence-informed health policy combines external scientific evidence with stakeholder and lawmaker values and ethics. In the naloxone example, evidence showed high overdose risk after leaving rehabilitation and a safety profile allowing layperson use, while advocates addressed concerns about cost and stigma. The best response respects the legislator’s concern and answers it with data. Pointing to other states is tempting because successful models count as evidence, but the response ignores the concern and offers no outcome data.",
+      "takeaway": "Evidence-informed policy pairs research with respect for stakeholder values.",
+      "hintContent": "Evidence-informed policy has two ingredients; look for the answer that uses both.",
+      "hintStrategy": "In “best response” items, prefer the option that acknowledges the speaker and then supplies accurate information.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2797",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-012",
+      "topic": "policy-process",
+      "type": "sata",
+      "stem": "A nurse wants to influence a pending state bill that would fund school nurses. Which actions are appropriate and professional? Select all that apply.",
+      "options": [
+        "Email the nurse’s own legislator a brief message with local data and a de-identified client story",
+        "Testify at the committee hearing on the bill",
+        "Join the state nurses’ association and participate in its legislative day",
+        "Share a recent client’s name and photo online to show the human impact",
+        "Wear a hospital name badge while lobbying to suggest the employer endorses the bill",
+        "Submit comments during the public comment period on related proposed rules"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Concise communication with data and a de-identified story is effective advocacy.",
+        "Correct. Testifying at hearings brings frontline expertise into the government response stage.",
+        "Correct. Professional associations lobby and amplify nurses’ collective voice.",
+        "Incorrect. Sharing identifiable client information violates privacy and professional standards.",
+        "Incorrect. Implying employer endorsement without authorization is unprofessional; the nurse speaks as a private citizen or for an organization that has authorized it.",
+        "Correct. Public comment periods let nurses shape how agencies write regulations."
+      ],
+      "rationale": "Nurses influence policy by contacting legislators, testifying, joining professional associations, and commenting on proposed regulations. Effective messages combine evidence with a client story that has no identifying information. Sharing identifiable client information breaches confidentiality, and implying that an employer endorses a position without authorization is misleading. Advocacy must be both effective and ethical.",
+      "takeaway": "Advocate with data, de-identified stories, testimony, associations, and public comment — never with client identifiers.",
+      "hintContent": "Check each action for both effectiveness and ethics (privacy, honesty).",
+      "hintStrategy": "For SATA advocacy items, eliminate any option that breaches confidentiality or misrepresents authority.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2796–2797",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-013",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A nurse holds a multistate license issued by a Nurse Licensure Compact state and provides telehealth follow-up to a client located in a different compact state. Which statement about legal accountability is accurate?",
+      "options": [
+        "“I follow only the practice laws of the state that issued my license.”",
+        "“I follow the practice laws of the state where the client is located.”",
+        "“Telehealth care is governed only by federal law, not by state practice acts.”",
+        "“I may follow whichever state’s practice act is less restrictive for the task.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The home state issues the license, but practice is governed where the client is located.",
+        "Correct. Under the compact, the nurse must follow the nurse practice act of the state where the client is located.",
+        "Incorrect. Regulation of nursing practice is a state function; federal law does not replace state practice acts.",
+        "Incorrect. Nurses cannot choose the less restrictive standard; the client’s location controls."
+      ],
+      "rationale": "The Constitution leaves regulation of professions to the states, and each state’s practice act and board rules define the legal scope of nursing. The Nurse Licensure Compact lets a nurse with a multistate license practice in other compact states, but the nurse is accountable to the practice laws of the state where the client is located at the time of care. Choosing the home state’s law is the common misconception. Telehealth does not change this principle.",
+      "takeaway": "With a multistate license, practice laws of the client’s location apply.",
+      "hintContent": "Nursing is regulated by states; think about which state has an interest in protecting the client.",
+      "hintStrategy": "When a stem involves two jurisdictions, identify which one the rule is meant to protect — usually the client’s.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2798",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-014",
+      "topic": "policy-process",
+      "type": "sata",
+      "stem": "A nurse reads a news summary of several recent health-related actions at the state and national levels. Which actions were carried out by the executive branch of government? Select all that apply.",
+      "options": [
+        "The board of nursing suspends the license of a nurse who diverted opioids",
+        "The state health department licenses a newly built hospital",
+        "The CDC issues a rule for controlling a communicable disease",
+        "The state legislature passes an amendment to the nurse practice act",
+        "A state court interprets the meaning of a nurse practice act provision",
+        "A hospital practice council revises its restraint policy"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Boards of nursing are executive agencies that license and discipline nurses.",
+        "Correct. State health agencies are executive agencies that license healthcare facilities.",
+        "Correct. The CDC is a federal executive agency that implements communicable disease laws.",
+        "Incorrect. Passing laws is the function of the legislative branch.",
+        "Incorrect. Interpreting laws is the function of the judicial branch.",
+        "Incorrect. A hospital council creates private policy; it is not part of government."
+      ],
+      "rationale": "The legislative branch creates laws, the executive branch implements and enforces them through agencies that write regulations, and the judicial branch interprets them. Boards of nursing, state health departments, and the CDC are executive branch agencies. A hospital council is a private organization. The court option is tempting because judicial decrees are part of health policy, but courts are not the executive branch.",
+      "takeaway": "Boards of nursing, health departments, and the CDC are executive agencies that implement and enforce laws.",
+      "hintContent": "Assign each action to legislative, executive, judicial, or private.",
+      "hintStrategy": "Use a quick three-branch sort for every option before selecting.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2795–2796",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-015",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A medical-surgical unit’s fall rate has doubled over two quarters. The nurse manager asks for volunteers to help address the problem. Which action by a staff nurse best reflects the nurse’s role in quality improvement?",
+      "options": [
+        "Wait for the hospital’s risk management department to issue a new fall policy.",
+        "Apply bed alarms to every client on the unit regardless of their assessed fall risk.",
+        "Ask the nursing assistants to document more carefully so fewer falls are reported.",
+        "Join a unit QI team that reviews fall data and tests an evidence-based prevention bundle."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Passively waiting ignores the nurse’s expected role in unit and organizational QI.",
+        "Incorrect. A blanket intervention without assessment or evidence is not quality improvement and may cause alarm fatigue.",
+        "Incorrect. Changing documentation to lower reported numbers hides the problem and is unethical.",
+        "Correct. Nurses are expected to participate in unit-level QI that uses data and evidence, such as a PDSA test of a fall bundle."
+      ],
+      "rationale": "Health policy supports quality improvement by translating evidence into practice, and AHRQ provides tools and indicators that accredited hospitals use to meet safety goals. Nurses are expected to engage in unit-level and organizational QI projects: analyze data, choose evidence-based interventions, test them (for example with a PDSA cycle), and evaluate results. Applying alarms to everyone is tempting because it seems proactive, but it skips assessment and evidence.",
+      "takeaway": "Nurses participate in data-driven, evidence-based QI rather than waiting or applying untested blanket fixes.",
+      "hintContent": "QI uses data, evidence, and testing of a change.",
+      "hintStrategy": "Choose the option that combines data and evidence with active participation; eliminate passive or blanket responses.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2798",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-016",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "At the start of a day shift, an RN realizes that her nursing license expired at midnight because she forgot to complete the renewal. She is assigned five clients. What should the RN do first?",
+      "options": [
+        "Notify the charge nurse or manager and not provide nursing care until the license is renewed.",
+        "Work the shift as assigned and complete the online renewal after she gets home.",
+        "Ask a coworker to cosign all of her documentation until the renewal is processed.",
+        "Renew the license online during her first break and then continue working as assigned."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Current licensure is mandatory; the nurse must not practice and should notify leadership so clients can be safely reassigned.",
+        "Incorrect. Practicing with an expired license violates the nurse practice act, regardless of intent.",
+        "Incorrect. A cosignature does not authorize unlicensed practice and misrepresents who provided care.",
+        "Incorrect. Providing care before the renewal is complete is still practicing without a current license."
+      ],
+      "rationale": "Current licensure is mandatory, and each nurse is legally accountable to the board of nursing for practicing within the nurse practice act. Practicing even one shift on an expired license is unlicensed practice. The safe, accountable action is to notify the charge nurse or manager immediately so clients are reassigned, and to refrain from nursing care until the license is active. Renewing during a break is tempting, but care given before the renewal is complete is still unlicensed practice.",
+      "takeaway": "No current license, no nursing practice — notify leadership and step out of care until renewed.",
+      "hintContent": "Licensure is mandatory and personal; think about what the law allows before renewal is complete.",
+      "hintStrategy": "For legal-accountability “first” items, choose the option that stops the violation and protects clients through leadership.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2798",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-017",
+      "topic": "policy-process",
+      "type": "sata",
+      "stem": "A nursing association is working on the problem of violence against emergency department nurses. Which activities represent the agenda-setting stage of policymaking? Select all that apply.",
+      "options": [
+        "Publishing local data on assaults against nurses in a newspaper editorial",
+        "Briefing legislators who have not yet considered the issue",
+        "Sharing de-identified nurse stories at a community town hall to raise awareness",
+        "The governor signing a bill that increases penalties for assaulting nurses",
+        "The state agency writing rules for reporting workplace assaults",
+        "Researchers comparing assault rates before and after the new law"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Publicizing data draws attention to the problem, which is agenda setting.",
+        "Correct. Bringing an unrecognized issue to lawmakers’ attention is agenda setting.",
+        "Correct. Raising public awareness helps place the issue on the agenda.",
+        "Incorrect. Signing a bill is formal government response.",
+        "Incorrect. Writing rules to carry out a law is implementation.",
+        "Incorrect. Measuring outcomes after a law takes effect is evaluation."
+      ],
+      "rationale": "The four stages of policymaking are agenda setting, government response, implementation, and evaluation. Agenda setting makes a problem visible to the public and decision-makers through data, stories, media, and advocacy. Passing and signing laws is government response, writing rules and rolling out programs is implementation, and measuring outcomes is evaluation. Cue words such as “publish,” “raise awareness,” and “brief legislators who have not considered” signal agenda setting.",
+      "takeaway": "Agenda setting = making a problem visible to decision-makers before formal action.",
+      "hintContent": "Match each activity’s verb to a policymaking stage.",
+      "hintStrategy": "Sort every SATA option into a stage first; select only those in the stage named in the stem.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2796–2797",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-018",
+      "topic": "agencies-accreditation",
+      "type": "sata",
+      "stem": "A social work assistant at a homeless shelter has a positive tuberculin skin test. He is uninsured and says the shelter has never offered TB screening. Which actions by the clinic nurse are appropriate? Select all that apply.",
+      "options": [
+        "Ask about cough, night sweats, fever, and weight loss",
+        "Refer him to the public health department’s free or low-cost TB clinic",
+        "Advocate with the city and state health departments for routine TB screening at shelters",
+        "Advise him to postpone evaluation until he obtains health insurance",
+        "Tell him a positive skin test means he has contagious active TB and must be hospitalized"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Symptom assessment helps distinguish possible active disease from latent infection and guides urgency.",
+        "Correct. Public health TB clinics provide free or low-cost evaluation and treatment, removing the cost barrier.",
+        "Correct. Advocating for routine screening and exposure-prevention protocols addresses the population-level policy gap.",
+        "Incorrect. Delaying evaluation risks progression and transmission; public health services do not require insurance.",
+        "Incorrect. A positive skin test shows infection but does not by itself prove active, contagious disease; further evaluation is needed."
+      ],
+      "rationale": "This scenario mirrors a common public health pattern: an individual exposure caused by a gap in community screening. The nurse addresses the individual (assess symptoms and refer to a free public health TB clinic) and the population (advocate to city and state health departments for routine screening and exposure-prevention protocols at shelters). A positive skin test requires evaluation, often including a chest x-ray, to distinguish latent from active TB. Waiting for insurance is unsafe and unnecessary.",
+      "takeaway": "Address both levels: refer the individual to public health services and advocate to close the policy gap.",
+      "hintContent": "Think about local public health clinic services and the health department’s role in screening.",
+      "hintStrategy": "In SATA items, look for options that meet the individual need and options that address the system; reject any that delay care or give false information.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2798–2800",
+      "alsoTests": [
+        "policy-process"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m47-pro-019",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A nurse reports to the manager that the unit has no sharps containers in two client rooms and that the eyewash station has been broken for a month. The manager has not responded after several requests. Whose standards most directly require the employer to correct these hazards?",
+      "options": [
+        "The Centers for Disease Control and Prevention (CDC)",
+        "The Agency for Healthcare Research and Quality (AHRQ)",
+        "The Occupational Safety and Health Administration (OSHA)",
+        "The Centers for Medicare & Medicaid Services (CMS)"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The CDC issues infection-control guidance but does not enforce employer workplace-safety requirements.",
+        "Incorrect. AHRQ develops research, data, and quality tools; it does not enforce employer workplace-safety requirements.",
+        "Correct. OSHA, part of the Department of Labor, requires employers to eliminate workplace hazards, including providing sharps containers and eyewash stations.",
+        "Incorrect. CMS administers Medicare and Medicaid and payment conditions, not workplace hazard standards."
+      ],
+      "rationale": "OSHA ensures workplace health and safety and requires employers to eliminate hazards such as unprotected sharps and chemical splash risks; sharps containers and emergency eyewash stations are classic examples. OSHA is part of the Department of Labor, not DHHS. The CDC is the most tempting distractor because it publishes infection-prevention guidelines, but worker-hazard requirements on employers belong to OSHA. The nurse should continue through the chain of command and the facility’s safety reporting process.",
+      "takeaway": "Worker safety hazards = OSHA (Department of Labor).",
+      "hintContent": "Ask whose safety is at risk: the client’s, the public’s, or the worker’s.",
+      "hintStrategy": "Restate the problem in one word (worker, disease, payment, drug) and match it to the agency’s mission.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2798–2799",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-020",
+      "topic": "agencies-accreditation",
+      "type": "sata",
+      "stem": "A public health nurse is explaining to a neighborhood group which concerns they can take to the state health agency. Which concerns should the nurse identify as appropriate for the state health agency? Select all that apply.",
+      "options": [
+        "A family member’s complaint that a licensed nursing home leaves residents unattended for hours",
+        "A new clinical laboratory that needs a state license before it can begin operating",
+        "A parent who needs a certified copy of a child’s birth certificate from vital records",
+        "Follow-up of people who were exposed during a regional measles outbreak",
+        "A hospital’s question about how much Medicare will pay for a hip replacement",
+        "A hospital’s request for voluntary accreditation after a peer-review survey"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Resolving complaints about licensed facilities is a core state health agency function.",
+        "Correct. State health agencies license and register facilities, including clinical laboratories.",
+        "Correct. State agencies maintain vital statistics such as births, deaths, marriages, and divorces.",
+        "Correct. Infectious disease control and outbreak contact tracing are state health agency functions, carried out with local health departments.",
+        "Incorrect. Medicare payment is set federally by CMS, not by the state health agency.",
+        "Incorrect. Voluntary accreditation is granted by private bodies such as The Joint Commission, not by a government agency."
+      ],
+      "rationale": "State health agencies are part of the state executive branch and report to the governor. Their functions include preventing and controlling infectious disease (including outbreak contact tracing), addressing inequities, licensing facilities such as hospitals, nursing homes, and clinical laboratories, resolving facility complaints, tracking vital statistics, and enforcing statewide health laws. Medicare payment is federal (CMS), and accreditation is private and voluntary. Confusing licensure with accreditation is the classic error.",
+      "takeaway": "States license facilities and investigate complaints; CMS sets Medicare payment; private bodies accredit.",
+      "hintContent": "Separate state government functions from federal payment and private accreditation.",
+      "hintStrategy": "For each option, name the organization that actually performs it before selecting.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2799",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-021",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A clinic nurse is discharging a family with a newborn and a 6-year-old. The parents ask where they can get a free infant car seat, installation help, and an affordable bicycle helmet. Which referral is most appropriate?",
+      "options": [
+        "The state Office of Emergency Medical Services",
+        "The Joint Commission’s community outreach office",
+        "The federal Agency for Healthcare Research and Quality",
+        "The county health department’s injury-prevention program"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. State OEMSs set EMS training standards and license transport services; they are not the usual source of family injury-prevention supplies.",
+        "Incorrect. The Joint Commission is a private accrediting body, not a provider of community programs.",
+        "Incorrect. AHRQ develops research tools for healthcare quality and does not distribute safety equipment to families.",
+        "Correct. County health departments run community injury-prevention programs such as infant car seats, bicycle helmets, and smoke detectors."
+      ],
+      "rationale": "County health departments regulate sanitation and food safety and run community injury and disease prevention programs, including smoke detectors, bicycle helmets, infant car seats, and lead poisoning prevention. The best referral is the level of government that delivers the service locally. The OEMS distractor is tempting because it relates to injury and trauma, but its role is regulating EMS systems.",
+      "takeaway": "County health departments deliver community injury-prevention programs.",
+      "hintContent": "Which level of government provides direct community prevention programs to families?",
+      "hintStrategy": "For referral items, pick the nearest agency that actually delivers the service.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2799",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 1,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-022",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A nurse educator is reviewing accreditation with newly hired nurses. Which statement by a new nurse indicates a need for further teaching?",
+      "options": [
+        "“Accreditation involves periodic reevaluation and on-site visits.”",
+        "“Joint Commission accreditation is legally required for a hospital to open.”",
+        "“Accreditation affects a hospital’s credibility with insurers and with the public.”",
+        "“Accreditation is a peer-review process based on the accrediting body’s standards.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This statement is accurate; accreditation requires periodic reevaluation and site visits.",
+        "Correct. This statement needs correction: the legal requirement to operate is state licensure; accreditation is private and voluntary.",
+        "Incorrect. This statement is accurate; accreditation builds consumer trust and third-party payer credibility.",
+        "Incorrect. This statement is accurate; accreditation is a peer-review process against standards."
+      ],
+      "rationale": "Licensure is mandatory government permission to operate; accreditation is a voluntary, private, peer-review process that evaluates quality against an accrediting organization’s standards, with periodic reevaluation and on-site visits. Although voluntary, accreditation builds consumer trust and payer credibility, and accreditation by a CMS-approved body is the usual way hospitals show they meet Medicare and Medicaid conditions of participation (“deemed status”); a state survey is the alternative route. Confusing “strongly incentivized” with “legally required” is the error the new nurse makes.",
+      "takeaway": "Licensure is mandatory and governmental; accreditation is voluntary and private.",
+      "hintContent": "Which process is required by government, and which is chosen by the organization?",
+      "hintStrategy": "In “need for further teaching” items, find the one statement that blurs two similar concepts.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2800",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-023",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "During a Joint Commission tracer, a surveyor asks a staff nurse how the unit reduced cardiac monitor alarm fatigue. The nurse helped revise the alarm policy last year. Which response by the nurse is best?",
+      "options": [
+        "“Our nurse manager led that project, so she is the best person to answer your question.”",
+        "“We have not had any problems with alarms since then, so the policy is working as written.”",
+        "“We studied our alarm data and the evidence, revised default limits, trained staff, and track results.”",
+        "“I can show you where the policy is in the binder, but I’m not sure why we changed it.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Deflecting to the manager ignores the nurse’s direct role in speaking with survey teams at the point of care.",
+        "Incorrect. Claiming no problems without data shows no monitoring or QI process.",
+        "Correct. The nurse explains the evidence-based QI process — data, evidence, change, education, and ongoing measurement — that surveyors look for.",
+        "Incorrect. Locating the policy is not enough; being unable to explain its rationale shows the evidence has not reached practice."
+      ],
+      "rationale": "The nurse’s role in accreditation includes developing and revising evidence-based policies, participating in organizational self-reviews, and speaking directly with surveyors. Surveyors use tracers to see whether frontline staff understand what they do, why, and how outcomes are measured. The best answer describes the data, evidence, change, education, and outcome monitoring. Showing where the policy is filed is tempting but does not demonstrate understanding of the evidence or the process.",
+      "takeaway": "With surveyors, explain what the unit does, the evidence behind it, and how results are measured.",
+      "hintContent": "Surveyors want to hear about the process and evidence, not just where the policy is filed.",
+      "hintStrategy": "Choose the response that shows ownership, evidence, and measurement; eliminate deflection and unsupported claims.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2800–2801",
+      "alsoTests": [
+        "policy-process"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-024",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "An older adult client on a surgical unit fell while walking to the bathroom unassisted and sustained a hip fracture requiring surgery. After the client is stabilized and the event is reported, which action should the organization take next?",
+      "options": [
+        "Conduct a root cause analysis focused on system and process factors and create an action plan.",
+        "Terminate the nurse who was assigned to the client at the time the fall occurred.",
+        "Wait for The Joint Commission to investigate before reviewing the event internally.",
+        "Report the fall to OSHA because it occurred in the hospital, which is a regulated workplace."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A fall with serious injury is a sentinel event; accredited organizations perform a comprehensive systematic analysis focused on systems and develop an action plan.",
+        "Incorrect. Automatic punishment ignores system causes and discourages reporting; Just Culture principles guide accountability.",
+        "Incorrect. The organization is responsible for analyzing its own sentinel events promptly rather than waiting for an outside review.",
+        "Incorrect. OSHA addresses worker safety; a client fall is a patient safety event."
+      ],
+      "rationale": "A sentinel event is a patient safety event resulting in death, permanent harm, or severe temporary harm, and a fall with hip fracture qualifies. The Joint Commission expects accredited organizations to conduct a root cause (comprehensive systematic) analysis that looks for system and process failures and to implement an action plan. Firing the nurse is tempting because it appears to assign accountability, but blame-focused responses miss root causes and suppress reporting. OSHA handles worker, not client, safety.",
+      "takeaway": "Sentinel events require a systems-focused root cause analysis and action plan.",
+      "hintContent": "Think about how accredited organizations respond to events causing serious harm.",
+      "hintStrategy": "After immediate client safety is addressed, choose the system-improvement response over blame or delay.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2800",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-025",
+      "topic": "agencies-accreditation",
+      "type": "sata",
+      "stem": "A student in a community college associate degree nursing program plans to earn a BSN later. During a study session, classmates discuss program approval and accreditation. Which statements by the classmates are accurate? Select all that apply.",
+      "options": [
+        "“Our program must be approved by the state board of nursing for us to take the NCLEX.”",
+        "“CCNE accredits baccalaureate and graduate nursing programs.”",
+        "“ACEN can accredit associate degree and practical nursing programs.”",
+        "“National accreditation is required by law for graduates to take the NCLEX.”",
+        "“NLN CNEA accredits only clinical doctorate programs.”",
+        "“CCNE is the usual accreditor for practical nursing programs.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. State board approval of prelicensure programs is mandatory for NCLEX eligibility.",
+        "Correct. CCNE, an autonomous arm of AACN, accredits baccalaureate and graduate programs.",
+        "Correct. ACEN accredits all types of programs, from practical nursing through clinical doctorate.",
+        "Incorrect. National accreditation is voluntary; board approval is the mandatory requirement.",
+        "Incorrect. NLN CNEA accredits practical/vocational, diploma, associate, bachelor’s, master’s, and clinical doctorate programs.",
+        "Incorrect. CCNE does not accredit practical nursing programs; ACEN or NLN CNEA would."
+      ],
+      "rationale": "Every state requires board of nursing approval of prelicensure programs so graduates qualify for the NCLEX-RN or NCLEX-PN. National accreditation by CCNE, ACEN, or NLN CNEA is voluntary but often required for RN-to-BSN or graduate admission. CCNE accredits baccalaureate and graduate programs; ACEN and NLN CNEA accredit the full range, including practical and associate programs. Confusing mandatory approval with voluntary accreditation is the most common error.",
+      "takeaway": "Board approval is mandatory for NCLEX eligibility; CCNE, ACEN, and NLN CNEA accreditation is voluntary.",
+      "hintContent": "Separate the mandatory state requirement from the voluntary national accreditors and the program types each covers.",
+      "hintStrategy": "Evaluate each statement on its own; watch for absolute words like “only” and “required by law.”",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2800–2801",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-026",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A certified nurse-midwife is the only midwife at a rural birthing center. She tells a colleague she feels isolated and wants specialty-specific continuing education and peers to consult. Which recommendation by the colleague best meets her need?",
+      "options": [
+        "Join the American College of Nurse-Midwives for specialty networking and education.",
+        "Join the American Nurses Association for its Code of Ethics resources.",
+        "Join the National Student Nurses Association to mentor future nurses.",
+        "Join the American Association of Colleges of Nursing to influence education policy."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The ACNM is the specialty association for nurse-midwives, offering networking, continuing education, and peer support.",
+        "Incorrect. The ANA is valuable for standards and ethics, but it does not best meet her need for midwifery-specific peers and education.",
+        "Incorrect. NSNA serves students preparing for initial licensure, not practicing specialists.",
+        "Incorrect. AACN (Colleges of Nursing) focuses on baccalaureate and graduate education policy, not clinical specialty support."
+      ],
+      "rationale": "Professional associations serve specialized memberships. When a nurse’s need is specialty-specific networking, continuing education, and peer support — as in the example of an isolated nurse anesthetist joining the AANA — the best match is the specialty association, here the ACNM. The ANA is the most tempting distractor because it represents all RNs, but it does not best target the specialty need described.",
+      "takeaway": "Match the association to the need: specialty practice support comes from the specialty association.",
+      "hintContent": "Focus on what she is asking for: specialty-specific peers and education.",
+      "hintStrategy": "When several options are “good,” choose the one most specific to the stated need.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2801–2802",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-027",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A new ICU nurse is planning professional development. Which statement by the nurse indicates a need for correction?",
+      "options": [
+        "“I’ll look at the American Association of Critical-Care Nurses for critical care certification resources.”",
+        "“I can join Sigma Theta Tau International because I was inducted into the honor society in school.”",
+        "“I’ll join AACN, the American Association of Colleges of Nursing, for ICU practice standards.”",
+        "“The ANA Code of Ethics will help guide me through ethical conflicts I face in the ICU.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This statement is accurate; the American Association of Critical-Care Nurses supports critical care practice and certification.",
+        "Incorrect. This statement is accurate; STTI is nursing’s honor society focused on leadership development.",
+        "Correct. This needs correction: the American Association of Colleges of Nursing focuses on baccalaureate and graduate education policy, not bedside critical care practice.",
+        "Incorrect. This statement is accurate; the ANA publishes the Code of Ethics for Nurses."
+      ],
+      "rationale": "Two important organizations share the acronym AACN. The American Association of Colleges of Nursing is “the national voice for America’s baccalaureate and graduate nursing education,” focused on education, research, and workforce policy. The American Association of Critical-Care Nurses is a specialty association for critical care practice. Reading the full name prevents this error. The other statements correctly describe STTI and the ANA.",
+      "takeaway": "Read the full name: AACN can mean Colleges of Nursing (education) or Critical-Care Nurses (specialty).",
+      "hintContent": "Two organizations share one acronym; check which name matches the purpose.",
+      "hintStrategy": "When acronyms appear, expand them mentally before judging the statement.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2801–2802",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-028",
+      "topic": "agencies-accreditation",
+      "type": "sata",
+      "stem": "After a major earthquake abroad, a nurse wants to volunteer through an organization that is independent of any government. Which organizations meet this requirement? Select all that apply.",
+      "options": [
+        "Project Hope",
+        "World Central Kitchen",
+        "World Health Organization (WHO)",
+        "U.S. Agency for International Development (USAID)",
+        "Centers for Disease Control and Prevention (CDC)"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "optionRationales": [
+        "Correct. Project Hope is an NGO providing essential medicines, supplies, volunteer medical training, and disaster relief.",
+        "Correct. World Central Kitchen is an NGO providing emergency food relief.",
+        "Incorrect. WHO is a multilateral organization funded by many governments and part of the United Nations.",
+        "Incorrect. USAID is a bilateral agency of a single government (the United States).",
+        "Incorrect. The CDC is a U.S. federal agency within DHHS."
+      ],
+      "rationale": "International health organizations are sorted by funding and control. Multilateral organizations such as WHO are funded by multiple governments, bilateral agencies such as USAID belong to one government, and nongovernmental organizations (private voluntary organizations) such as Project Hope and World Central Kitchen are independent of government. WHO is tempting because it is the premier international health agency, but it is governmental and multilateral.",
+      "takeaway": "Multilateral = many governments; bilateral = one government; NGO = no government.",
+      "hintContent": "Ask who funds and controls each organization.",
+      "hintStrategy": "Sort every option into a category before choosing; select only those that match the stem’s category.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2799–2800",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-029",
+      "topic": "agencies-accreditation",
+      "type": "sata",
+      "stem": "A nurse is reviewing situations that involve operating divisions of the U.S. Department of Health and Human Services (DHHS). Which situations should the nurse identify? Select all that apply.",
+      "options": [
+        "A drug recall announced after reports of contamination",
+        "National guidance on isolation precautions during an outbreak",
+        "Medicare rules that deny payment for certain hospital-acquired conditions",
+        "Employer requirements to provide safety-engineered needles",
+        "Federal limits on industrial air pollution near a school"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. The FDA, a DHHS division, oversees drug safety and recalls.",
+        "Correct. The CDC, a DHHS division, provides communicable disease guidance.",
+        "Correct. CMS, a DHHS division, administers Medicare and its payment rules.",
+        "Incorrect. Workplace hazard requirements come from OSHA, part of the Department of Labor.",
+        "Incorrect. Air pollution limits come from the EPA, an independent federal agency outside DHHS."
+      ],
+      "rationale": "DHHS is the principal federal health agency, and its operating divisions include the FDA (drug and device safety), the CDC (disease control), and CMS (Medicare, Medicaid, and CHIP). OSHA belongs to the Department of Labor and protects workers, and the EPA protects the environment. These two are the most common distractors because their work clearly affects health, but they are not DHHS divisions.",
+      "takeaway": "FDA, CDC, and CMS are DHHS divisions; OSHA (Labor) and EPA are not.",
+      "hintContent": "Some agencies that affect health are not part of DHHS.",
+      "hintStrategy": "Name the agency behind each situation, then check whether it sits inside DHHS.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2798–2799",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-030",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "At a WIC nutrition visit, a nurse notices that a 3-year-old has multiple bruises in different stages of healing on the back and upper arms. The parent says the child “bruises easily.” The child is not in immediate danger in the clinic. What should the nurse do first?",
+      "options": [
+        "Wait to see whether new bruises appear at the next scheduled WIC visit.",
+        "Report the suspected abuse to child protective services at the county DSS.",
+        "Ask the parent detailed questions to determine who caused the bruises.",
+        "Tell the parent that the nurse suspects abuse and will be filing a report."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Waiting for more evidence delays protection; the duty is to report reasonable suspicion.",
+        "Correct. Nurses must report reasonable suspicion of child maltreatment to the designated agency without waiting for proof.",
+        "Incorrect. Investigating is the role of child protective services; interrogating the parent can increase risk to the child.",
+        "Incorrect. Confronting the parent before reporting may endanger the child and is not the first priority."
+      ],
+      "rationale": "Bruises in various stages of healing on protected areas such as the back and upper arms, with an inconsistent explanation, are cues of possible physical abuse. Nurses are mandated reporters who must report suspicion to the designated child protective agency; they do not need proof and should not investigate. In North Carolina that agency is the county department of social services, and the law requires any person with cause to suspect maltreatment to report. Questioning the parent is the tempting distractor because it seems like assessment, but determining who caused the injuries is the investigators’ role.",
+      "takeaway": "Report suspected child maltreatment promptly to the designated agency; suspicion, not proof, triggers the duty.",
+      "hintContent": "Consider the nurse’s legal duty when abuse is suspected and who investigates.",
+      "hintStrategy": "When safety and legal duty are involved, choose the action that protects the vulnerable client through the proper authority.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2799",
+      "alsoTests": [
+        "policy-process"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-031",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A 24-year-old pregnant client at 14 weeks’ gestation has a low income, a hemoglobin of 10.2 g/dL, and says she often skips meals to make sure her 2-year-old eats. Which program referral best addresses her nutritional need?",
+      "options": [
+        "Supplemental Security Income (SSI)",
+        "Indian Health Service (IHS) clinics",
+        "Medicare Part B medical insurance",
+        "Women, Infants, and Children (WIC)"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. SSI provides cash assistance to aged, blind, or disabled people with little income; pregnancy alone does not qualify.",
+        "Incorrect. IHS serves American Indian and Alaska Native peoples; nothing in the stem indicates eligibility.",
+        "Incorrect. Medicare serves people 65 and older or with specific disabilities or conditions, and it is not a nutrition program.",
+        "Correct. WIC provides supplemental nutrition support for pregnant women and children under 5 at nutritional risk."
+      ],
+      "rationale": "WIC is a supplemental nutrition program for pregnant, postpartum, and breastfeeding women, infants, and children under age 5 who are at nutritional risk. This client is pregnant, anemic, food-insecure, and has a toddler, so both she and her child may qualify. WIC is typically accessed through local social services or local health department offices. SSI is tempting because it involves low income, but it is cash aid for aged, blind, or disabled people.",
+      "takeaway": "Pregnant women and children under 5 at nutritional risk → WIC.",
+      "hintContent": "Look for the program designed around pregnancy, early childhood, and nutrition risk.",
+      "hintStrategy": "Match the client’s defining characteristics (pregnancy, child under 5, nutrition) to the program’s eligibility rules.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2799",
+      "alsoTests": [
+        "healthcare-financing"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-032",
+      "topic": "agencies-accreditation",
+      "type": "sata",
+      "stem": "A hospital is preparing for its Joint Commission survey. Which actions by staff nurses reflect the nurse’s role in accreditation? Select all that apply.",
+      "options": [
+        "Helping revise the unit’s pressure injury prevention policy using current evidence",
+        "Participating in a mock survey and chart audit on the unit",
+        "Explaining unit practices directly to surveyors during a tracer",
+        "Delaying entry of incident reports until after the survey ends",
+        "Referring every surveyor question to the nurse manager"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Developing and revising evidence-based policies is part of the nurse’s role.",
+        "Correct. Organizational self-reviews such as mock surveys and audits are part of the nurse’s role.",
+        "Correct. Nurses speak directly with survey teams at the point of care.",
+        "Incorrect. Concealing or delaying event reports endangers clients and violates reporting expectations.",
+        "Incorrect. Surveyors expect frontline staff to answer about their own practice."
+      ],
+      "rationale": "The nurse’s role in Joint Commission accreditation includes developing and revising evidence-based policies, participating in organizational self-reviews, and speaking directly with survey teams at the point of care. Accreditation is about continuous quality, not presenting a perfect picture on survey day, so concealing events defeats its purpose and harms safety culture. Deferring every question to the manager suggests staff do not understand their own practice.",
+      "takeaway": "Nurses build evidence-based policies, join self-reviews, and talk with surveyors — they never hide events.",
+      "hintContent": "Accreditation reflects everyday quality, not survey-day appearances.",
+      "hintStrategy": "Select actions that show transparency and engagement; reject anything that hides information or avoids responsibility.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2800–2801",
+      "alsoTests": [
+        "policy-process"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m47-pro-033",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "While discarding a used needle from a syringe that lacks a safety feature, a nurse sustains a puncture wound to the finger. The client has a history of hepatitis C. What should the nurse do first?",
+      "options": [
+        "Complete an incident report describing the device that caused the injury.",
+        "Notify employee health to arrange post-exposure testing and follow-up.",
+        "Wash the puncture site thoroughly with soap and water.",
+        "Ask the client for consent to test for bloodborne pathogens."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reporting is required, but it follows immediate first aid.",
+        "Incorrect. Prompt post-exposure evaluation is essential, but it follows immediate first aid.",
+        "Correct. Immediate washing of the site with soap and water is the first step after a percutaneous exposure.",
+        "Incorrect. Source testing is arranged through the post-exposure process after first aid, per facility protocol."
+      ],
+      "rationale": "After a needlestick, the first action is to wash the site with soap and water; then the nurse reports immediately to the supervisor and employee health for post-exposure evaluation and follow-up, and completes an incident report. OSHA’s bloodborne pathogens standard requires employers to provide safety-engineered devices, sharps containers, an exposure control plan, and post-exposure evaluation, so the unsafe device should also be reported through the safety process. Reporting options are tempting because they are required, but first aid comes first.",
+      "takeaway": "Needlestick: wash first, then report and get post-exposure evaluation; report unsafe devices.",
+      "hintContent": "Think about what reduces the risk to the nurse in the first minute after the injury.",
+      "hintStrategy": "When every option is eventually correct, put them in time order and choose the immediate physical action.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2798–2799",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-034",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "During a Joint Commission tracer, a nurse hangs an IV antibiotic and then realizes she did not check the client’s two identifiers before starting the infusion. The surveyor is watching. What should the nurse do first?",
+      "options": [
+        "Stop the infusion and verify the client’s identity with two identifiers.",
+        "Finish the infusion, then document the omission in an incident report afterward.",
+        "Explain to the surveyor that she always checks identifiers on other clients.",
+        "Ask the charge nurse whether the omission must be reported to the surveyor."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Client safety comes first: stop the infusion and confirm identity with two identifiers before continuing.",
+        "Incorrect. Continuing an infusion without verifying identity risks harm if it is the wrong client.",
+        "Incorrect. Explaining to the surveyor addresses appearances, not the immediate safety risk.",
+        "Incorrect. Consulting the charge nurse about reporting delays the safety action."
+      ],
+      "rationale": "Using at least two client identifiers before giving medications is a core Joint Commission safety requirement. When the nurse recognizes an omission while the medication is infusing, the first action is to stop the infusion and verify identity, then assess the client, notify the provider if an error occurred, and report through the event-reporting system. Accreditation exists to protect clients, so the surveyor’s presence should not change the priority. Explaining to the surveyor is tempting under pressure but does nothing for the client.",
+      "takeaway": "Client safety comes before survey appearances; stop and verify identity with two identifiers.",
+      "hintContent": "Which option directly removes the risk to the client right now?",
+      "hintStrategy": "Ignore the distraction in the stem (the surveyor) and apply standard safety priorities.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2800–2801",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-035",
+      "topic": "agencies-accreditation",
+      "type": "mcq",
+      "stem": "A client who stays at a homeless shelter comes to a free clinic with a 5-week productive cough, night sweats, weight loss, and blood-streaked sputum. He is sitting in the crowded waiting room. What should the nurse do first?",
+      "options": [
+        "Collect a sputum specimen for acid-fast bacilli before he leaves the clinic.",
+        "Call the local health department to begin contact tracing at the shelter.",
+        "Ask the client to list everyone he has been in close contact with recently.",
+        "Give the client a surgical mask and move him to a separate room."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A sputum specimen is likely needed, but source control in the waiting room comes first.",
+        "Incorrect. Public health notification and contact tracing are needed after the provider evaluates the client, not before protecting people in the room.",
+        "Incorrect. A contact list helps public health later but does not reduce current exposure.",
+        "Correct. Masking and separating a client with possible active TB immediately reduces airborne transmission to others."
+      ],
+      "rationale": "Prolonged cough, night sweats, weight loss, and hemoptysis in a congregate-living client strongly suggest active pulmonary TB, which spreads by the airborne route. The first priority is source control: place a surgical mask on the client and move him away from others, ideally to an airborne-infection isolation room, with staff wearing N95 respirators. Specimen collection, provider evaluation, reportable-disease notification, and contact tracing by the health department follow. Calling the health department is tempting because TB is reportable, but protecting the people in the waiting room comes first.",
+      "takeaway": "Suspected active TB: mask and separate the client first, then evaluate and report.",
+      "hintContent": "Who is at risk right now, and how is TB transmitted?",
+      "hintStrategy": "For infection-control priority items, choose the action that stops transmission immediately.",
+      "ref": "Module 47 · Health Policy · Agencies & Accreditation · pp. 2799",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-036",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client enrolled in an HMO calls the clinic nurse while shopping. She reports that her husband suddenly has a drooping face, slurred speech, and weakness in his right arm. She asks whether she needs to call his primary care provider for a referral before taking him to a hospital. Which instruction should the nurse give?",
+      "options": [
+        "“Call his primary care provider first so the hospital visit will be covered.”",
+        "“Call 911 now; emergency care does not require a referral from his provider.”",
+        "“Drive him to the hospital in your HMO network, even if it is farther away.”",
+        "“Have him rest for an hour and call back if the symptoms do not improve.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Calling the PCP delays emergency treatment; emergencies are covered without a gatekeeper referral.",
+        "Correct. These are signs of stroke; EMS must be activated immediately, and HMOs cover emergency care without referral.",
+        "Incorrect. Driving farther to stay in network delays time-sensitive stroke care and skips EMS assessment.",
+        "Incorrect. Waiting delays time-critical treatment and could cause permanent disability."
+      ],
+      "rationale": "Sudden facial droop, slurred speech, and unilateral arm weakness indicate a possible stroke, a time-critical emergency. HMOs restrict nonemergency care to network providers and use the PCP as gatekeeper, but emergency care is covered without referral, and plans must cover emergency services without prior authorization. Insurance rules never justify delaying emergency care. The in-network hospital option is tempting because it seems to respect the plan, but it delays treatment and skips EMS.",
+      "takeaway": "Emergency care is never delayed for referrals or network rules.",
+      "hintContent": "Identify the clinical emergency first; then remember how HMOs handle emergencies.",
+      "hintStrategy": "When a stem mixes insurance details with an emergency, physical safety comes first and the insurance details are distractors.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-037",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client with an HMO plan noticed a changing mole on her back and asks the nurse how to get an appointment with a dermatologist. Which response by the nurse is most appropriate?",
+      "options": [
+        "“Schedule with any dermatologist you choose; your plan will reimburse you.”",
+        "“Ask your primary care provider for a referral to an in-network dermatologist.”",
+        "“Your HMO does not cover specialist care, so you will need to pay out of pocket.”",
+        "“Go to the emergency department so a dermatologist can see you today.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. That describes an indemnity plan; HMOs do not cover nonemergency out-of-network care.",
+        "Correct. The PCP acts as the gatekeeper and refers HMO members to in-network specialists.",
+        "Incorrect. HMOs cover specialist care when the PCP refers the member to an in-network specialist.",
+        "Incorrect. A changing mole needs prompt evaluation but is not an emergency; ED use is inappropriate and does not bypass referral rules for follow-up."
+      ],
+      "rationale": "An HMO is the most restrictive managed-care plan: coverage is limited to contracted network providers except in emergencies, and members usually select a primary care provider who acts as gatekeeper for referrals. A changing mole warrants timely evaluation, so the nurse explains the referral process and encourages the client to call the PCP promptly. The statement that HMOs do not cover specialists is tempting because HMOs are restrictive, but they do cover in-network specialists with referral.",
+      "takeaway": "HMO members reach in-network specialists through a PCP referral.",
+      "hintContent": "Recall the role of the primary care provider in an HMO.",
+      "hintStrategy": "Identify the plan type’s defining rule before choosing; the answer usually applies that rule directly.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-038",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "The adult daughter of an 82-year-old client with advancing dementia says, “Dad can’t bathe or dress himself anymore. Medicare will pay for him to live in a nursing home permanently, right?” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Yes. Medicare Part A covers nursing home care once a client needs help with daily activities.”",
+        "“Only a Medigap policy pays for permanent nursing home care, so you should buy one now.”",
+        "“Medicare Part B will cover the nursing home if his provider writes a prescription for it.”",
+        "“Medicare pays for short-term skilled care, not long-term custodial care. Let’s involve the social worker.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Medicare does not cover long-term custodial care such as help with bathing and dressing.",
+        "Incorrect. Medigap fills Original Medicare’s cost-sharing gaps; it does not add long-term custodial care.",
+        "Incorrect. Part B covers outpatient and provider services and DME, not custodial nursing home care.",
+        "Correct. It corrects the misconception accurately and refers the family to the social worker for options such as Medicaid or private resources."
+      ],
+      "rationale": "Medicare does not cover long-term care, routine dental or eye care, hearing aids, or cosmetic surgery. Part A covers only short-term skilled nursing facility care after a qualifying hospital stay, not ongoing custodial help with activities of daily living. Medicaid is the major public payer for long-term nursing home care for people who qualify financially, so a social work referral is appropriate. The Medigap option is tempting because Medigap “fills gaps,” but it covers Medicare cost-sharing, not services Medicare excludes.",
+      "takeaway": "Medicare does not pay for long-term custodial care; involve social work early.",
+      "hintContent": "Distinguish skilled, short-term care from custodial, long-term care.",
+      "hintStrategy": "For “best response” items, choose the answer that is accurate and connects the family to the right resource.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-039",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A parent tells the school nurse that the family’s income is slightly too high for Medicaid and they cannot afford private insurance for their 8-year-old, who has asthma. Which program should the nurse suggest the family explore?",
+      "options": [
+        "Children’s Health Insurance Program",
+        "Medicare Part A hospital insurance",
+        "Supplemental Security Income program",
+        "TRICARE military health program"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. CHIP covers children under 19 whose families earn too much for Medicaid but cannot afford private coverage.",
+        "Incorrect. Medicare covers people 65 and older and certain people with disabilities, ESRD, or ALS.",
+        "Incorrect. SSI is cash assistance for aged, blind, or disabled people with little or no income, not health coverage for this child.",
+        "Incorrect. TRICARE is health coverage for military members and their families."
+      ],
+      "rationale": "CHIP, formerly SCHIP, uses federal and matching state funds to insure children under 19 in families whose income exceeds Medicaid limits but who cannot afford private coverage. Required benefits include routine checkups, immunizations, dental and vision care, hospital care, and lab and x-ray services, which would support this child’s asthma care. Families typically apply through the local social services department. SSI is tempting because it targets low income, but it is cash aid rather than insurance.",
+      "takeaway": "Children under 19 just above Medicaid income limits → CHIP.",
+      "hintContent": "Focus on the phrase “slightly too high for Medicaid” and the client’s age.",
+      "hintStrategy": "Underline the eligibility cues (age, income, status) and match them to a single program.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-040",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 24-year-old client with type 1 diabetes is covered by her mother’s employer plan. She tells the nurse, “I have to buy my own insurance now that I’m out of college, and no one will cover me with diabetes.” Which response by the nurse is accurate?",
+      "options": [
+        "“Insurers can charge you more because of diabetes, so stay on your mother’s plan as long as possible.”",
+        "“You must leave your mother’s plan when you graduate, but Medicaid will cover anyone with diabetes.”",
+        "“You can generally stay on your mother’s plan until age 26, and insurers cannot deny coverage for diabetes.”",
+        "“You can stay on your mother’s plan until 26, but only if you are still enrolled as a student.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The ACA prohibits insurers from charging more because of a preexisting condition.",
+        "Incorrect. Graduation does not end dependent coverage before 26, and Medicaid eligibility depends on income and state rules, not diagnosis.",
+        "Correct. The ACA allows dependents to remain on a parent’s plan until age 26 and prohibits denial or higher charges for preexisting conditions.",
+        "Incorrect. The ACA’s age-26 provision does not require student status."
+      ],
+      "rationale": "The Affordable Care Act allows dependent children to remain on a parent’s plan until age 26, regardless of student status, and prohibits insurers from denying coverage or charging more because of preexisting conditions. The nurse corrects both misconceptions so the client does not risk a coverage gap that could interrupt insulin. The student-status option is tempting because many plans required it before the ACA.",
+      "takeaway": "ACA: dependents to age 26 and no preexisting-condition denials.",
+      "hintContent": "Two ACA consumer protections apply to this client.",
+      "hintStrategy": "Check every clause of each option; an option with one wrong clause is wrong.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-041",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A community health nurse is teaching a group about consumer protections under the Affordable Care Act. Which statements should the nurse include? Select all that apply.",
+      "options": [
+        "“Insurers cannot deny coverage because of a preexisting condition.”",
+        "“Many evidence-based preventive services are covered with no cost-sharing.”",
+        "“Plans cannot set annual dollar limits on essential health benefits.”",
+        "“Every employer, regardless of size, must provide free coverage to all employees.”",
+        "“Deductibles and co-payments are no longer allowed in any health plan.”",
+        "“Young adults can generally remain on a parent’s plan until age 26.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. The ACA prohibits denials and higher charges for preexisting conditions.",
+        "Correct. The ACA mandates coverage of evidence-based preventive services with zero cost-sharing.",
+        "Correct. The ACA banned annual dollar limits on essential health benefits.",
+        "Incorrect. The ACA does not require every employer to provide free coverage.",
+        "Incorrect. Cost-sharing such as deductibles and co-payments still exists; preventive services are the main zero-cost category.",
+        "Correct. Dependent children can remain on a parent’s plan until age 26."
+      ],
+      "rationale": "Key ACA protections include coverage expansion, a ban on annual dollar limits on essential health benefits, dependent coverage to 26, preventive services without cost-sharing, prohibition of preexisting-condition denials or surcharges, and limits on unreasonable premium increases with transparent consumer information. The ACA did not eliminate cost-sharing or require all employers to provide free coverage. Overstating protections is as harmful as understating them because clients may be surprised by bills.",
+      "takeaway": "ACA: no preexisting-condition denials, no annual limits on essential benefits, free preventive care, dependents to 26.",
+      "hintContent": "Watch for absolute words such as “every,” “free,” and “no longer allowed.”",
+      "hintStrategy": "In SATA teaching items, select statements that are accurate as written; overstatements are incorrect.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2804",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m47-pro-042",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A client who will turn 65 next month asks which services she will need other coverage or savings to pay for if she enrolls in Original Medicare. Which services are generally not covered by Original Medicare? Select all that apply.",
+      "options": [
+        "Hospice care",
+        "Long-term custodial care in a nursing home",
+        "Hearing aids",
+        "A screening mammogram",
+        "Routine dental cleanings",
+        "A walker prescribed after surgery"
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Part A covers hospice care.",
+        "Correct. Medicare does not cover long-term custodial care.",
+        "Correct. Hearing aids are excluded from Original Medicare.",
+        "Incorrect. Part B covers preventive screenings such as mammograms.",
+        "Correct. Routine dental care is not covered by Original Medicare.",
+        "Incorrect. Part B covers durable medical equipment such as walkers."
+      ],
+      "rationale": "Original Medicare Part A covers inpatient care, short-term skilled nursing facility care, hospice, and home health; Part B covers provider and outpatient services, durable medical equipment, and preventive screenings. Medicare does not cover long-term custodial care, routine dental or eye care, hearing aids, or cosmetic surgery. Clients may seek other coverage, such as Medicare Advantage plans with extras, separate dental or vision insurance, or long-term care insurance. Hospice is a common distractor because it sounds like long-term care, but it is a covered Part A benefit.",
+      "takeaway": "Medicare excludes long-term custodial care, routine dental and eye care, hearing aids, and cosmetic surgery.",
+      "hintContent": "Sort each service into Part A, Part B, or excluded.",
+      "hintStrategy": "For coverage SATA items, assign each option to a specific benefit before deciding.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-043",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client with a PPO plan pays $40 at every specialist visit and is responsible for 20% of the hospital bill after meeting the deductible. Which statement by the client shows correct understanding of these terms?",
+      "options": [
+        "“The $40 is my coinsurance, and the 20% is my co-payment.”",
+        "“The $40 is my deductible, and the 20% is my out-of-pocket maximum.”",
+        "“The $40 is my premium, and the 20% is my deductible.”",
+        "“The $40 is my co-payment, and the 20% is my coinsurance.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This reverses the terms: a fixed dollar amount is a co-payment, and a percentage is coinsurance.",
+        "Incorrect. A deductible is an annual threshold, and the out-of-pocket maximum caps total annual spending.",
+        "Incorrect. A premium is the regular payment to keep the plan active, and a deductible is paid before the plan shares costs.",
+        "Correct. A co-payment is a set dollar amount at the time of service; coinsurance is a percentage of the cost after the deductible."
+      ],
+      "rationale": "A co-payment is a set amount paid at the time of service, such as $40 for a specialist visit; specialist co-payments are usually higher than primary care co-payments. Coinsurance is the insured’s percentage share of a covered cost after the deductible. Premiums keep the policy active, and the out-of-pocket maximum caps total annual spending. Reversing co-payment and coinsurance is the most common error.",
+      "takeaway": "Co-payment = fixed dollars; coinsurance = percentage.",
+      "hintContent": "One term is a fixed amount and the other is a percentage.",
+      "hintStrategy": "When options pair two terms, verify each half of the pair independently.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-044",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client with a point-of-service (POS) plan wants knee surgery from an out-of-network orthopedic surgeon a friend recommended. What should the nurse explain about this choice?",
+      "options": [
+        "“POS plans cover only emergencies outside the network, so the surgery will not be covered.”",
+        "“You may use that surgeon, but your co-payments, coinsurance, and deductible will be higher.”",
+        "“POS plans have no network, so the surgery will be covered the same as with any surgeon.”",
+        "“You must switch to a PPO plan before you can see any out-of-network provider.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. That describes an HMO; POS plans allow out-of-network care at a higher cost.",
+        "Correct. POS members decide at each point of service; out-of-network (PPO-style) care is covered with higher cost-sharing.",
+        "Incorrect. That describes an indemnity plan; POS plans have a network with lower in-network costs.",
+        "Incorrect. POS plans already include an out-of-network option; no plan change is required."
+      ],
+      "rationale": "A point-of-service plan is a hybrid of HMO and PPO features. Each time members seek care, they choose HMO-style in-network care, with lower cost and usually a PCP referral, or PPO-style out-of-network care with higher co-payments, coinsurance, and deductibles. The nurse should also encourage the client to check preauthorization requirements before surgery. The HMO-like distractor is tempting because POS plans share HMO features in network.",
+      "takeaway": "POS: choose at each visit — in network costs less, out of network costs more.",
+      "hintContent": "POS sits in the middle of the restrictiveness spectrum.",
+      "hintStrategy": "Locate the plan on the HMO-to-indemnity spectrum and eliminate options describing the plans on either side.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-045",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client with hypertension enrolled in a high-deductible consumer-driven health plan tells the clinic nurse that he stopped taking his lisinopril 2 weeks ago because he has not met his deductible. His blood pressure today is 176/102 mm Hg. Which action should the nurse take first?",
+      "options": [
+        "Teach the client how to use his health savings account to pay for prescriptions.",
+        "Notify the prescriber and ask about a lower-cost generic antihypertensive.",
+        "Assess the client for headache, chest pain, vision changes, and neurologic deficits.",
+        "Refer the client to a financial counselor to review his plan options."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. HSA teaching is useful, but it does not come before assessing the client’s current physiologic status.",
+        "Incorrect. Collaboration with the prescriber is needed, but the nurse first needs focused assessment data to report.",
+        "Correct. The blood pressure is markedly elevated after stopping the medication; the nurse first assesses for symptoms of hypertensive emergency or target-organ effects.",
+        "Incorrect. Financial counseling addresses the cost barrier but is not the first priority."
+      ],
+      "rationale": "A blood pressure of 176/102 mm Hg after the client stopped his antihypertensive is markedly elevated. Before addressing cost, the nurse assesses for signs of hypertensive emergency or target-organ effects, such as severe headache, chest pain, dyspnea, vision changes, or neurologic changes, because findings would change the urgency of care. The nurse then reports to the prescriber, explores generic options, teaches about using HSA funds, and refers for financial counseling. Notifying the prescriber is tempting, but a report without focused assessment is incomplete.",
+      "takeaway": "When cost causes nonadherence, assess physiologic risk first, then solve the cost barrier.",
+      "hintContent": "Look at today’s blood pressure: what does the stopped medication mean for this client right now?",
+      "hintStrategy": "Assess before you act unless an emergency is already clear; financial solutions follow physical safety.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [
+        "policy-process"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Vital signs",
+            "table": {
+              "headers": [
+                "Time",
+                "BP",
+                "HR",
+                "RR",
+                "SpO2"
+              ],
+              "rows": [
+                [
+                  "0910",
+                  "176/102 mm Hg",
+                  "92/min",
+                  "18/min",
+                  "97% RA"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Medication list",
+            "table": {
+              "headers": [
+                "Medication",
+                "Status"
+              ],
+              "rows": [
+                [
+                  "Lisinopril 20 mg PO daily",
+                  "Client reports stopped 2 weeks ago (cost)"
+                ],
+                [
+                  "Atorvastatin 40 mg PO daily",
+                  "Taking"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m47-pro-046",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A client being discharged after a myocardial infarction says, “I don’t know how I’ll pay for all these new prescriptions.” Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Collaborate with the prescriber about generic or formulary alternatives",
+        "Refer the client to the case manager or social worker for financial resources",
+        "Review whether the client has prescription drug coverage and what it includes",
+        "Suggest taking each medication every other day until the client can afford more",
+        "Advise the client to stop the medications that seem least important"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Formulary and generic options can lower costs while keeping therapy appropriate.",
+        "Correct. Case managers and social workers connect clients with assistance programs and coverage.",
+        "Correct. Knowing the client’s drug coverage identifies gaps to address before discharge.",
+        "Incorrect. Changing dosing without an order is unsafe and outside the nurse’s scope.",
+        "Incorrect. Stopping cardiac medications without prescriber direction risks serious complications."
+      ],
+      "rationale": "Cost barriers commonly lead to nonadherence and readmission. Appropriate nursing actions are to assess coverage, collaborate with the prescriber about cost-effective formulary or generic choices, and refer to case management or social work for financial assistance. The nurse never advises altering or stopping prescribed medications without an order. Addressing affordability before discharge is part of safe discharge planning.",
+      "takeaway": "Address medication cost with coverage review, prescriber collaboration, and referral — never by advising dose changes.",
+      "hintContent": "Separate actions within the nurse’s scope from changes to the prescribed regimen.",
+      "hintStrategy": "In SATA items, reject any option that alters a prescription without an order.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2804",
+      "alsoTests": [
+        "policy-process"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-pro-047",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A nurse is reviewing Medicare options with a client who is enrolling in Medicare. Which statement by the client indicates a need for further teaching?",
+      "options": [
+        "“I’ll buy a Medigap policy to pay the co-payments in my Medicare Advantage plan.”",
+        "“A Medicare Advantage plan bundles Parts A and B and usually includes drug coverage.”",
+        "“Part D is the part of Medicare that helps pay for my prescriptions.”",
+        "“Medigap policies help pay deductibles and coinsurance in Original Medicare.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This needs correction: Medigap supplements Original Medicare and is not used with a Medicare Advantage plan.",
+        "Incorrect. This statement is accurate; Part C plans bundle A and B and usually D.",
+        "Incorrect. This statement is accurate; Part D provides prescription drug coverage through private plans.",
+        "Incorrect. This statement is accurate; Medigap fills Original Medicare’s cost-sharing gaps."
+      ],
+      "rationale": "Medicare Part C (Medicare Advantage) plans are private plans approved by Medicare that bundle Parts A and B and usually Part D. Medigap (Medicare Supplement Insurance) is private insurance that pays co-payments, coinsurance, deductibles, and gaps in Original Medicare; Medicare pays first, then Medigap. Medigap is not designed to work with Medicare Advantage, so the client’s plan would be an unnecessary expense. Students often confuse these two because both involve private insurers.",
+      "takeaway": "Medicare Advantage replaces Original Medicare; Medigap supplements Original Medicare.",
+      "hintContent": "One option is an alternative way to get Medicare; the other fills gaps in Original Medicare.",
+      "hintStrategy": "In “further teaching” items, look for the statement that combines two concepts that don’t go together.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-048",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 46-year-old client who began hemodialysis for end-stage renal disease 4 months ago says he lost his job and his employer insurance, and he plans to skip treatments “until I turn 65 and get Medicare.” What should the nurse do first?",
+      "options": [
+        "Explain that ESRD may qualify him for Medicare now and refer him to social work today.",
+        "Help him reduce dialysis to once a week until his insurance problem is resolved.",
+        "Tell him that Medicare is available only to people who are 65 years of age or older.",
+        "Refer him to the WIC program for nutrition support while he remains uninsured."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Medicare covers people with ESRD regardless of age; the immediate goal is to prevent missed dialysis by correcting the misconception and starting enrollment help.",
+        "Incorrect. Reducing dialysis frequency is unsafe and is not a nursing decision.",
+        "Incorrect. Medicare also covers younger people with certain disabilities, ESRD, and ALS.",
+        "Incorrect. WIC serves pregnant and postpartum women, infants, and young children, not this client."
+      ],
+      "rationale": "Skipping dialysis can quickly cause life-threatening hyperkalemia and fluid overload, so the nurse’s first priority is to keep the client in treatment. Medicare is available to people 65 and older, younger people with certain disabilities, and people with ESRD or ALS, so this client likely can obtain coverage now (ESRD eligibility depends on the work history of the client or a spouse and usually begins after a short waiting period once dialysis starts). Correcting the misconception and arranging social work or case management help immediately protects the client’s safety. Telling him Medicare is only for older adults reinforces the dangerous plan.",
+      "takeaway": "Medicare covers ESRD and ALS regardless of age; prevent dangerous gaps in treatment.",
+      "hintContent": "Recall the groups younger than 65 who can qualify for Medicare.",
+      "hintStrategy": "Identify the physical risk (missed dialysis) and choose the action that prevents it while giving accurate information.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-049",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client has an employer-sponsored plan with a $6,000 annual out-of-pocket maximum. By March she had paid $6,000 toward covered in-network care after a hospitalization. In June of the same plan year, she needs covered in-network outpatient surgery. What should the nurse tell her about her costs for the surgery?",
+      "options": [
+        "“You will pay your deductible again because this is a new procedure.”",
+        "“You will pay 20% coinsurance again until you have paid another $6,000.”",
+        "“Your plan should pay 100% of covered in-network care for the rest of the plan year.”",
+        "“You will pay only the co-payment, because coinsurance resets after 3 months.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The deductible is met once per plan year, not per procedure.",
+        "Incorrect. The out-of-pocket maximum caps total spending for the 12-month period; it does not restart within the plan year.",
+        "Correct. Once the out-of-pocket maximum is reached, the plan pays 100% of covered (usual and customary) fees for the rest of the period.",
+        "Incorrect. Cost-sharing does not reset after 3 months; it is tied to the plan year."
+      ],
+      "rationale": "Employment-sponsored plans include an out-of-pocket maximum that protects against catastrophic costs. Once the insured has paid that amount for covered services within the 12-month plan period, the plan covers 100% of usual and customary fees for covered services for the rest of the period. Premiums still must be paid, and noncovered or out-of-network charges may differ, so the nurse encourages the client to confirm with her plan. The deductible-again option is tempting because clients often think costs restart with each new episode of care.",
+      "takeaway": "After the out-of-pocket maximum is met, covered care is paid at 100% for the rest of the plan year.",
+      "hintContent": "Think about what the out-of-pocket maximum is designed to protect against.",
+      "hintStrategy": "Apply the definition of the key term exactly; eliminate options that invent resets or extra rules.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-pro-050",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A nurse in a free clinic sees an uninsured adult with type 2 diabetes whose fingerstick glucose is 312 mg/dL. He has been out of metformin for a week and reports increased thirst but is alert with normal vital signs. He asks about health coverage. After notifying the provider about the glucose result, what should the nurse do next?",
+      "options": [
+        "Tell him Medicare will cover him because he has a chronic disease.",
+        "Connect him with enrollment assistance and a social worker today.",
+        "Advise him to borrow metformin from a family member until he is insured.",
+        "Tell him that coverage options cannot be explored until his glucose is controlled."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Medicare eligibility is based on age 65+, certain disabilities, ESRD, or ALS, not diabetes alone.",
+        "Correct. With the urgent finding reported and the client stable, the next step is to address the access barrier through enrollment help and social work.",
+        "Incorrect. Taking someone else’s medication is unsafe and does not solve the access problem.",
+        "Incorrect. Coverage problems contribute to poor control; delaying help perpetuates the cycle."
+      ],
+      "rationale": "The nurse first reports the elevated glucose because it requires provider evaluation; the client is alert with normal vital signs, so he is stable. The next priority is the cause of the problem: lack of coverage and medication. Enrollment assistance (for example, Medicaid if he is eligible or Marketplace coverage with subsidies) and social work referral connect him to sustainable access, and community programs may help with low-cost generics. Medicare does not cover adults based on diabetes alone, and borrowing medication is unsafe.",
+      "takeaway": "After addressing immediate physical risk, treat lack of coverage as a care problem and refer for enrollment help.",
+      "hintContent": "The urgent result has been reported; consider what barrier caused it.",
+      "hintStrategy": "Use “next” cues: once safety is addressed, select the action that targets the root cause.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-051",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "An uninsured client at 30 weeks’ gestation comes to a community clinic for her first prenatal visit. She says she skipped care because of cost. Her blood pressure is 152/100 mm Hg, and she reports a headache since this morning. What should the nurse do first?",
+      "options": [
+        "Refer her to the local social services office to apply for Medicaid coverage.",
+        "Refer her to the WIC program for nutrition support during pregnancy.",
+        "Schedule weekly prenatal visits for the rest of her pregnancy.",
+        "Assess for visual changes, epigastric pain, and edema and notify the provider."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Medicaid enrollment is important for prenatal coverage, but it does not address the immediate risk.",
+        "Incorrect. WIC supports nutrition but is not the priority when there are signs of a hypertensive disorder.",
+        "Incorrect. Scheduling future visits does not address the current, possibly urgent finding.",
+        "Correct. Elevated blood pressure with a new headache in the third trimester suggests possible preeclampsia (headache can be a severe feature); focused assessment and prompt provider notification come first."
+      ],
+      "rationale": "A blood pressure of 152/100 mm Hg with a new headache at 30 weeks’ gestation suggests preeclampsia, which can progress to eclampsia or other emergencies. Physical safety comes first: assess for visual changes, epigastric or right upper quadrant pain, and edema, and notify the provider promptly. After the client is evaluated, the nurse addresses the cost barrier that delayed care by referring her to Medicaid, which covers prenatal care, and to WIC. The Medicaid referral is tempting because it solves the root cause, but it does not address the immediate risk.",
+      "takeaway": "Treat the physical risk first; then address the coverage barrier that delayed care.",
+      "hintContent": "Look at the vital signs and symptoms before the insurance details.",
+      "hintStrategy": "When financing and clinical cues appear together, the clinical risk is usually the priority.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m47-pro-052",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A nurse is screening clinic clients for possible Medicare eligibility. Which clients are most likely eligible for Medicare? Select all that apply.",
+      "options": [
+        "A 67-year-old retired teacher who paid Medicare taxes for 30 years",
+        "A 40-year-old recently diagnosed with amyotrophic lateral sclerosis (ALS)",
+        "A 45-year-old who has received Social Security disability benefits for 2 years",
+        "A 30-year-old pregnant client with a low household income",
+        "A 10-year-old whose family earns slightly more than Medicaid limits",
+        "A 58-year-old with controlled hypertension who works full time"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. People 65 and older with at least 10 years of Medicare-covered work qualify, with premium-free Part A.",
+        "Correct. People with ALS qualify for Medicare regardless of age once entitled to Social Security disability benefits, without the usual 24-month wait.",
+        "Correct. Younger people who have received Social Security disability benefits for 24 months qualify.",
+        "Incorrect. A low-income pregnant client would be screened for Medicaid, not Medicare.",
+        "Incorrect. This child would be screened for CHIP.",
+        "Incorrect. Age under 65 without a qualifying disability, ESRD, or ALS does not confer eligibility."
+      ],
+      "rationale": "Medicare covers people 65 and older (premium-free Part A after 10 years of Medicare-covered work), younger people with disabilities who have received Social Security disability benefits for 24 months, and people with ESRD or ALS (ALS coverage begins when disability benefits start, with no 24-month wait). Low-income pregnant clients are screened for Medicaid, and children in families just above Medicaid limits are screened for CHIP. Matching each client to the right program speeds enrollment and prevents gaps in care.",
+      "takeaway": "Medicare: 65+, disability after 24 months of SSDI, ESRD, or ALS; low income points to Medicaid; children above Medicaid limits point to CHIP.",
+      "hintContent": "Medicare eligibility is based on age, disability, or specific diagnoses — not income.",
+      "hintStrategy": "Classify each client into Medicare, Medicaid, CHIP, or none before selecting.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    }
+  ]
+});

@@ -33,7 +33,7 @@ window.NURSE_DATA.push({
    ],
    "optionRationales": [
     "Correct. Pain that gets worse instead of better several days after surgery is a classic sign of infection (the slide lists ↑ pain).",
-    "Incorrect. Mild redness and swelling in the first days is the normal inflammatory phase (about days 3–6); redness that fades is healing, not infection.",
+    "Incorrect. Mild redness and swelling in the first days is the normal inflammatory phase (which begins at injury and lasts about 3–6 days); redness that fades is healing, not infection.",
     "Correct. Thick, opaque, foul-smelling drainage is purulent exudate (pus = WBCs + debris), which signals infection.",
     "Incorrect. A healing ridge is new collagen from the proliferative phase — an expected, positive finding.",
     "Correct. Fever and a rising WBC on POD 4 are systemic signs of infection; GI surgery and diabetes both raise this client's risk.",
@@ -775,7 +775,7 @@ window.NURSE_DATA.push({
     "Incorrect. Steroids slow collagen formation rather than speeding scar formation.",
     "Incorrect. Prednisone is not an antibiotic, and bacteria do not signal healing; steroids actually raise infection risk."
    ],
-   "rationale": "This item links a medication that impairs healing to the phase it disrupts. Inflammation (days 3–6) is necessary: neutrophils and macrophages clear debris and release signals that start the proliferative phase. Long-term prednisone suppresses that response, which is why the wound shows little redness, swelling, or granulation after 2 weeks.",
+   "rationale": "This item links a medication that impairs healing to the phase it disrupts. Inflammation (which begins at injury and lasts about 3–6 days) is necessary: neutrophils and macrophages clear debris and release signals that start the proliferative phase. Long-term prednisone suppresses that response, which is why the wound shows little redness, swelling, or granulation after 2 weeks.",
    "takeaway": "No inflammation, no healing — steroids stall wounds at the very first phase.",
    "cjmm": "Analyze Cues",
    "focus": "Pharmacology",

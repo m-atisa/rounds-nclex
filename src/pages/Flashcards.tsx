@@ -1,7 +1,7 @@
 import { AnimatePresence, motion, useMotionValue, useTransform, type PanInfo } from 'motion/react';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { FLASHCARDS, MODULES, MODULE_BY_ID, getTopic } from '../data';
+import { FLASHCARDS, MODULES, MODULE_BY_ID, getTopic, isNewModule } from '../data';
 import { Icon } from '../components/Icon';
 import { Bar, Chip, Html, celebrate, toggleIn } from '../components/ui';
 import { shuffle } from '../lib/util';
@@ -100,7 +100,8 @@ export function Flashcards() {
           All modules
         </Chip>
         {MODULES.map((mm) => (
-          <Chip key={mm.id} on={modules.includes(mm.id)} color={mm.color} onClick={() => setModules(toggleIn(modules, mm.id))}>
+          <Chip key={mm.id}
+                isNew={isNewModule(mm.id)} on={modules.includes(mm.id)} color={mm.color} onClick={() => setModules(toggleIn(modules, mm.id))}>
             {mm.number} · {mm.title}
           </Chip>
         ))}

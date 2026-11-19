@@ -1,32 +1,83 @@
-# Rounds — NCLEX practice for concept-based nursing
+# Rounds — NCLEX-RN practice for concept-based nursing
 
-Study guides, flashcards, and NCLEX/NGN-style questions for **Module 5 Elimination** (incl. exemplars Bladder Incontinence & Retention; Bowel Incontinence, Constipation & Impaction), **6 Fluids & Electrolytes**, **10 Inflammation**, **15 Oxygenation**, **16 Perfusion**, and **21 Tissue Integrity** (incl. Exemplars 21.B Pressure Injuries and 21.C Wound Healing), plus **Unit 6: Modules 7 Health/Wellness, 23 Cognition, 29 Self, 38 Communication, and 41 Teaching/Learning**.
+Rounds is a static study site (study guides, flashcards, practice, and timed exams) for a concept-based nursing curriculum. It is written for a North Carolina RN student preparing for the NCLEX-RN. Its main focus is applying knowledge to questions, beyond recall.
 
-- **Learn** — 87 full lessons written for students starting from zero: objectives, plain-language big picture, key terms, comparisons, bedside examples, NCLEX tips, recap, and self-checks.
-- **Practice** — filter by module, topic, nursing skill, clinical-judgment step (NCSBN CJMM), format and difficulty. Content & strategy hints, instant rationales.
-- **Exam** — timed, no hints, flag & review, optional confidence rating. Report breaks performance down by question type, skill, topic and pace, and flags "right but shaky" answers (slow, unsure, or hinted).
-- **830 questions** scoped to the course PowerPoints, in three formats (**priority**, **single best answer**, **select all that apply**). Integrated items connect topics from the same module, tagged "Also tests".
-- **Questions** — searchable bank (⌘K search anywhere); every item shows its reference, e.g. `Module 21 · Tissue Integrity · Wound Classification`.
+**Live site:** https://m-atisa.github.io/rounds-nclex/
+
+## What's on the site
+
+The **21 modules** are grouped into three units. Grouping is defined in `UNITS` in `src/data/index.ts`.
+
+| Unit | Modules | Route |
+| --- | --- | --- |
+| **Professional Nursing Concepts** *(new, highlighted)* | 37 Collaboration · 39 Managing Care · 42 Accountability · 43 Advocacy · 44 Ethics · 45 Evidence-Based Practice · 46 Healthcare Systems · 47 Health Policy · 49 Legal Issues · 50 Quality Improvement | `#/learn/professional` |
+| **Unit 6** — Health, Wellness, Illness, Communication, Teaching & Learning | 7 · 23 · 29 · 38 · 41 | `#/learn/unit-6` |
+| **Physiological Concepts** | 5 Elimination · 6 Fluids & Electrolytes · 10 Inflammation · 15 Oxygenation · 16 Perfusion · 21 Tissue Integrity | `#/learn/core` |
+
+Module 6 is Fluids & Electrolytes. **Unit 6** is a separate course grouping.
+
+- **Learn**: 117 full lessons. Each one has objectives, a plain-language big picture, key terms, comparison tables, bedside examples, NCLEX pearls and red flags, a recap, and self-checks. Every Professional Nursing lesson also includes *Common traps & look-alikes*, *How the NCLEX tests this* (a sample question reasoned step by step), a *Worked case*, and a *North Carolina practice note* where it applies.
+- **Practice**: filter by unit, module, topic, nursing skill, NCSBN clinical-judgment step, format, and difficulty. Content and strategy hints are available, and every option has its own rationale.
+- **Exam**: timed, with no hints, flag-and-review, and an optional confidence rating. The report breaks down performance and flags answers that were right but shaky.
+- **Questions**: about 1,400 items in three formats (priority, single best answer, select all that apply). The searchable bank opens with ⌘K. Every item cites its source (for example `Module 49 · Legal Issues · … · pp. 2759–2763`).
+- **Flashcards**: spaced re-queueing of missed cards.
+- **New content highlight**: new modules carry a subtle orange **New** badge and tint on cards, sidebar, practice filters, and unit pages. The `isNew` flag on a unit controls this.
 - Zoom control and light/dark theme. Progress is stored locally in the browser.
 
-## Stack
-Vite + React 19 + TypeScript, Motion (animations), dnd-kit (ordered-response drag & drop), Zustand (persisted state), React Router (hash routing for static hosting), Vitest. Deployed to GitHub Pages by `.github/workflows/deploy.yml`.
+## Project layout
 
-## Develop
-```bash
-npm install
-npm run dev      # local dev server
-npm test         # scoring + content-integrity tests (every question is validated)
-npm run build
+```
+content/                 authored packs (window.NURSE_DATA.push({...}))
+  mNN*.js                topics, flashcards, questions for a module
+  guides-mNN*.js         full lessons (kind: "guide"), merged into topics by id
+  *-unit6.js             Unit 6 packs
+  *-pro.js               Professional Nursing Concepts packs
+scripts/import-data.mjs  converts content/*.js → src/data/raw/*.json (runs on build)
+src/data/index.ts        loads packs, module colours/icons, UNITS, NEW_MODULE_IDS
+src/data/types.ts        Question / Topic / Flashcard types
+src/data/data.test.ts    content-integrity tests (every question validated)
+src/pages/               Home, Learn (units, modules, topics), Practice, Exam, Session, Results, Bank, Flashcards, Progress
+src/components/          Layout (sidebar grouped by unit), UnitOverview, TopicArticle, question views
+docs/                    source maps and clarifications (unit-6-sources.md, professional-sources.md)
 ```
 
-## Editing content
-Question banks live in `content/*.js` (`window.NURSE_DATA.push({...})`, see the types in `src/data/types.ts`). `npm run content` converts them to JSON in `src/data/raw/`; the build does this automatically. `npm test` fails on malformed questions.
+Source decks and PDFs live in the sibling `../source/` folder. They are not published.
 
-## Unit 6
+## Develop
 
-Open `#/learn/unit-6` for the unit overview and combined practice, flashcard, and exam links. Unit 6 is a course grouping; **Module 6 remains Fluids & Electrolytes**.
+```bash
+npm install
+npm run dev       # local dev server
+npm run content   # regenerate src/data/raw from content/
+npm test          # scoring + content-integrity tests
+npm run build     # content → typecheck → production build in dist/
+```
 
-The new unit contains 18 lessons, 126 flashcards, and 90 original questions (29 priority, 33 single best answer, 28 SATA). Every topic has five questions and seven flashcards. Items include option rationales, content/strategy hints, clinical-judgment tags, integrated-topic tags, and source-slide references. All six CJMM steps are represented.
+## Adding new material
 
-The seven supplied decks and coverage/clinical clarifications are recorded in [the Unit 6 source map](docs/unit-6-sources.md). Original course decks remain in the sibling `source/unit-6/` folder and are excluded from publication. Edit the authored `*-unit6.js` packs, regenerate content, then run tests and build.
+1. Put the source file in `../source/`.
+2. Write `content/mNN-<tag>.js` (topics, flashcards, questions) and `content/guides-mNN-<tag>.js` (lessons). Follow `src/data/types.ts` and use an existing pack as a model.
+3. Register the module's colour and icon in `META` and add it to a unit in `UNITS` (`src/data/index.ts`). Set `isNew: true` on the unit to highlight it, and remove the flag when it is no longer new.
+4. Add tests to `src/data/data.test.ts` if the unit has its own rules.
+5. Run `npm run content && npm test && npm run build`.
+
+### Content standards
+
+- **Questions** use only `mcq` (4 options, `priority: true` for "first/priority" stems) and `sata` (5–6 options). Each needs:
+  - option rationales starting "Correct." or "Incorrect."
+  - a teaching rationale and a takeaway
+  - content and strategy hints
+  - a CJMM step, focus, difficulty, client-need category, and `ref`
+  - `alsoTests` (an array, which may be empty)
+- Stems are clinical scenarios at application/analysis level: best response, first action, delegation, "needs further teaching", and look-alike concepts.
+- Correct-answer positions are balanced, and the correct answer must not be the longest option by habit.
+- **Professional Nursing** topics need at least 12 questions, 8 flashcards, and 2,200 words. They must include the sections *How the NCLEX tests this…*, *Worked case…*, and *Course source & clinical clarification*. `npm test` enforces this.
+- North Carolina specifics (NCBON, Nurse Aide I/II, G.S. 7B-301, 108A-102, 90-21.5, 90-21.14, MOST) appear in lessons. They appear in questions only when the answer is also correct by national NCLEX standards.
+
+## Deploy
+
+Pushing to `main` runs `.github/workflows/deploy.yml`: `npm ci`, then content, test, and build. It publishes `dist/` to GitHub Pages. Hash routing (`#/…`) keeps deep links working on static hosting.
+
+## Disclaimer
+
+Rounds is an independent study aid. It does not replace your textbook, instructors, or facility policy, and it is not affiliated with NCSBN, NCBON, or Pearson.

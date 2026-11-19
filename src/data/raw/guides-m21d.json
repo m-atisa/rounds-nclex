@@ -108,7 +108,7 @@
      }
     },
     {
-     "heading": "Phase 1: The inflammatory phase (about days 3 to 6)",
+     "heading": "Phase 1: The inflammatory phase (from injury to about day 3–6)",
      "body": "<p>The inflammatory phase starts the moment tissue is injured and lasts roughly <strong>3 to 6 days</strong>. It has two jobs: stop the bleeding and clean the wound.</p><p><strong>Hemostasis</strong> comes first. Injured blood vessels <strong>constrict</strong> (squeeze narrower) to slow blood loss. Platelets stick together and a fibrin <strong>clot</strong> forms. On the surface, the dried clot becomes a <strong>scab</strong>, which acts like a natural bandage.</p><p><strong>Phagocytosis</strong> comes next. Blood vessels near the wound widen and become leaky so that white blood cells (WBCs) can get into the tissue. <strong>Neutrophils</strong> arrive first and eat bacteria. <strong>Macrophages</strong> follow, clear away dead tissue and debris, and release signals that tell the body to start rebuilding. That sequence — <strong>neutrophils → macrophages</strong> — is worth memorizing.</p><p>Because extra blood and fluid move into the area, <strong>redness, edema (swelling), and exudate (drainage) are normal early signs</strong>. The area may be a little warm and tender. This is the body doing its job, not infection. Inflammation is <em>necessary</em> — clients on long-term steroids, which suppress it, heal poorly.</p>",
      "example": "<strong>At the bedside:</strong> Mr. T had an open appendectomy yesterday. His incision edges are approximated, slightly red and swollen along the sutures, with a small amount of clear, watery drainage. Temperature is 37.4 °C (99.3 °F). Is this a problem? No — on postoperative day (POD) 1, this is the inflammatory phase working as expected. The nurse documents the findings, keeps the dressing clean and dry, and continues to monitor for changes."
     },
@@ -136,7 +136,7 @@
       "rows": [
        [
         "Inflammatory",
-        "About days 3–6 (starts at injury)",
+        "Starts at injury; lasts about 3–6 days",
         "Hemostasis (vasoconstriction, clot/scab); phagocytosis (neutrophils → macrophages)",
         "Redness, edema, warmth, exudate — normal early signs"
        ],

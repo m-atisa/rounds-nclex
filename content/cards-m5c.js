@@ -67,7 +67,7 @@ window.NURSE_DATA.push({
   },
   {
    "front": "Habit training vs. scheduled toileting",
-   "back": "<strong>Habit training:</strong> void at the times the bladder diary shows leaks. <strong>Scheduled toileting:</strong> void at fixed regular intervals (good for cognitive impairment).",
+   "back": "<strong>Habit training:</strong> toilet on a schedule matched to the client's own voiding pattern from the bladder diary (before leaks usually occur). <strong>Scheduled toileting:</strong> void at fixed regular intervals (good for cognitive impairment).",
    "topic": "urinary-incontinence-management"
   },
   {
@@ -177,7 +177,7 @@ window.NURSE_DATA.push({
   },
   {
    "front": "Rome IV criteria for chronic constipation",
-   "back": "<strong>2 or more for at least 12 weeks:</strong> straining, lumpy or hard stool, sensation of incomplete emptying, manual maneuvers, &lt; 3 BMs per week.",
+   "back": "<strong>2 or more, present for the last 3 months with onset at least 6 months before diagnosis:</strong> straining, lumpy or hard stool, sensation of incomplete emptying, manual maneuvers, &lt; 3 BMs per week.",
    "topic": "constipation-impaction"
   },
   {

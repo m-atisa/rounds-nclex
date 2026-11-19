@@ -1,7 +1,7 @@
 import { AnimatePresence, motion } from 'motion/react';
 import { useMemo, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
-import { MODULES, MODULE_BY_ID, topicKey } from '../data';
+import { MODULES, MODULE_BY_ID, UNITS, isNewModule, topicKey, unitModules } from '../data';
 import { CJMM_STEPS, FOCUS_AREAS, FORMATS, FORMAT_HELP, FORMAT_LABEL } from '../data/types';
 import { Icon } from '../components/Icon';
 import { Chip, toggleIn } from '../components/ui';
@@ -87,19 +87,38 @@ export function PracticeBuilder() {
         <div className="stack">
           <section className="card">
             <h3>Module</h3>
-            <div className="chips">
-              {MODULES.map((m) => (
-                <Chip
-                  key={m.id}
-                  on={f.modules.includes(m.id)}
-                  color={m.color}
-                  onClick={() => update({ modules: toggleIn(f.modules, m.id) })}
-                  count={countWith({ modules: [m.id], topics: [] })}
-                >
-                  {m.number} · {m.title}
-                </Chip>
-              ))}
-            </div>
+            {UNITS.map((u) => {
+              const ids = u.moduleIds;
+              const allOn = ids.every((id) => f.modules.includes(id));
+              return (
+                <div key={u.slug} className="unit-chips">
+                  <div className="unit-chips-head">
+                    <span className="eyebrow">{u.title}</span>
+                    <button
+                      type="button"
+                      className="link-btn"
+                      onClick={() => update({ modules: allOn ? f.modules.filter((x) => !ids.includes(x)) : [...new Set([...f.modules, ...ids])] })}
+                    >
+                      {allOn ? 'Clear' : 'Select all'}
+                    </button>
+                  </div>
+                  <div className="chips">
+                    {unitModules(u).map((m) => (
+                      <Chip
+                        key={m.id}
+                        on={f.modules.includes(m.id)}
+                        color={m.color}
+                        isNew={isNewModule(m.id)}
+                        onClick={() => update({ modules: toggleIn(f.modules, m.id) })}
+                        count={countWith({ modules: [m.id], topics: [] })}
+                      >
+                        {m.number} · {m.title}
+                      </Chip>
+                    ))}
+                  </div>
+                </div>
+              );
+            })}
             <AnimatePresence initial={false}>
               {selectedModules.length > 0 && (
                 <motion.div initial={{ height: 0, opacity: 0 }} animate={{ height: 'auto', opacity: 1 }} exit={{ height: 0, opacity: 0 }} style={{ overflow: 'hidden' }}>

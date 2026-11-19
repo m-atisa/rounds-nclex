@@ -173,7 +173,7 @@ window.NURSE_DATA.push({
      ],
      [
       "Fine crackles (rales)",
-      "Brief, high-pitched popping, usually late inspiration; do not clear with cough",
+      "Brief, high-pitched popping, usually late inspiration; usually do not clear with cough",
       "Fluid in alveoli: pneumonia, atelectasis, fluid volume excess"
      ],
      [
@@ -1024,7 +1024,7 @@ window.NURSE_DATA.push({
   },
   {
    "front": "Rhonchi vs crackles",
-   "back": "<strong>Rhonchi</strong>: low-pitched snoring, large-airway secretions, may clear with cough. <strong>Crackles</strong>: popping, fluid in small airways/alveoli, do not clear with cough.",
+   "back": "<strong>Rhonchi</strong>: low-pitched snoring, large-airway secretions, may clear with cough. <strong>Crackles</strong>: popping, fluid in small airways/alveoli, usually do not clear with cough (basilar crackles in older adults may).",
    "topic": "respiratory-assessment"
   },
   {
@@ -1776,7 +1776,7 @@ window.NURSE_DATA.push({
    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
    "stem": "The nurse is teaching a client with COPD who is going home on continuous oxygen at 2 L/min by nasal cannula with a prescribed SpO₂ target of 88–92%. The client's spouse smokes. Which instructions should the nurse include? Select all that apply.",
    "options": [
-    "Store spare cylinders lying flat on the closet floor so they cannot tip over",
+    "Keep spare cylinders standing loose in a corner of the closet, leaning against the wall",
     "No one may smoke in the home; I can connect your spouse with quit-smoking support",
     "Apply petroleum jelly inside the nostrils to prevent cracking",
     "Keep the oxygen away from gas stoves, candles, and fireplaces",
@@ -1789,7 +1789,7 @@ window.NURSE_DATA.push({
     5
    ],
    "optionRationales": [
-    "Cylinders are stored upright and secured in a stand or cart. A loose cylinder can roll or be knocked against something, and a damaged valve is a serious hazard.",
+    "Cylinders must be secured so they cannot fall — upright in a stand or cart (or laid flat per the supplier). A loose, leaning cylinder can tip over, and a damaged valve is a serious hazard.",
     "Correct. Oxygen makes fires start easily and burn hotter, so there is no smoking in the home. Offering cessation support respects choice while protecting the client, and secondhand smoke also irritates COPD airways.",
     "Petroleum products are flammable in an oxygen-rich environment.",
     "Correct. Open flames and heat sources must be kept away from oxygen.",
@@ -2092,7 +2092,7 @@ window.NURSE_DATA.push({
    "optionRationales": [
     "Correct. Beta-agonists stimulate the heart and skeletal muscle, causing tachycardia, palpitations, tremor, and nervousness.",
     "Correct. Beta-agonists shift potassium into cells, so frequent or high doses can cause hypokalemia.",
-    "Correct. Increasing rescue use signals poorly controlled asthma (as with M.L.'s four-times-daily use) and should be reported.",
+    "Correct. Increasing rescue use signals poorly controlled asthma and should be reported.",
     "Albuterol increases, not slows, the heart rate.",
     "Thrush is an adverse effect of inhaled corticosteroids, not albuterol.",
     "Albuterol is a quick-relief drug used for symptoms; daily scheduled use describes a controller."

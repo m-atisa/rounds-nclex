@@ -1,6 +1,6 @@
 import { motion, useScroll, useSpring } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
-import { MODULES, MODULE_BY_ID, UNIT_6, UNIT_6_MODULES, readingMinutes, topicKey } from '../data';
+import { MODULE_BY_ID, UNGROUPED_MODULES, UNITS, UNIT_BY_SLUG, isNewModule, readingMinutes, topicKey, unitModules, unitOf } from '../data';
 import type { Module, Topic } from '../data/types';
 import { Icon } from '../components/Icon';
 import { TopicArticle } from '../components/TopicArticle';
@@ -10,92 +10,143 @@ import { cx } from '../lib/util';
 import { useProgress } from '../store/progress';
 import { Footer, ModuleGlyph } from './Home';
 import { NotFound } from './NotFound';
-import { Unit6Overview } from '../components/Unit6Overview';
+import { NewBadge } from '../components/UnitOverview';
+
+export function ModuleCard({ m, label }: { m: Module; label?: string }) {
+  const read = useProgress((s) => s.read);
+  const done = m.topics.filter((t) => read[topicKey(m.id, t.id)]).length;
+  const fresh = isNewModule(m.id);
+  return (
+    <Link to={`/learn/${m.id}`} className={cx('card card-link module-card', fresh && 'is-new')} style={{ ['--mc' as string]: m.color }}>
+      {fresh && <NewBadge />}
+      <ModuleGlyph icon={m.icon} />
+      <div className="module-num" style={{ marginTop: 14 }}>
+        {label ? `${label.toUpperCase()} · ` : ''}MODULE {m.number}
+      </div>
+      <h3>{m.title}</h3>
+      <p>{m.overview || m.tagline}</p>
+      <div className="module-meta">
+        <span><b>{m.topics.length}</b> lessons</span>
+        <span><b>{m.questions.length}</b> questions</span>
+        <span><b>{m.flashcards.length}</b> cards</span>
+      </div>
+      <div className="module-foot">
+        <div style={{ flex: 1 }}>
+          <Bar value={done / Math.max(1, m.topics.length)} color={m.color} />
+        </div>
+        <span className="faint small">
+          {done}/{m.topics.length} read
+        </span>
+      </div>
+    </Link>
+  );
+}
 
 export function Learn() {
-  const read = useProgress((s) => s.read);
   return (
     <div className="container">
       <header className="page-head">
         <span className="eyebrow">Learn</span>
         <h1>Study guides</h1>
-        <p>Textbook-depth explanations built from your module slides and current evidence — with NCLEX pearls and red flags for every topic.</p>
+        <p>
+          Full lessons built from your course materials — each one teaches the concept, shows how the NCLEX tests it, walks through a worked case,
+          and ends with self-checks. New material is marked <NewBadge />.
+        </p>
       </header>
-      <Unit6Overview />
-      <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" animate="show">
-        {MODULES.map((m) => {
-          const done = m.topics.filter((t) => read[topicKey(m.id, t.id)]).length;
-          return (
-            <motion.div key={m.id} variants={stagger.item}>
-              <Link to={`/learn/${m.id}`} className="card card-link module-card" style={{ ['--mc' as string]: m.color }}>
-                <ModuleGlyph icon={m.icon} />
-                <div className="module-num" style={{ marginTop: 14 }}>
-                  {UNIT_6.moduleIds.includes(m.id) ? 'UNIT 6 · ' : ''}MODULE {m.number}
-                </div>
-                <h3>{m.title}</h3>
-                <p>{m.overview || m.tagline}</p>
-                <div className="module-foot">
-                  <div style={{ flex: 1 }}>
-                    <Bar value={done / m.topics.length} color={m.color} />
-                  </div>
-                  <span className="faint" style={{ fontSize: '.82rem' }}>
-                    {done}/{m.topics.length} read
-                  </span>
-                </div>
-              </Link>
-            </motion.div>
-          );
-        })}
-      </motion.div>
+      {UNITS.map((u) => (
+        <section className={cx('section unit-section', u.isNew && 'is-new-section')} key={u.slug} aria-label={u.title}>
+          <div className="section-head">
+            <div>
+              <span className="eyebrow">{u.eyebrow}</span>
+              <h2>{u.title}</h2>
+            </div>
+            <Link to={`/learn/${u.slug}`} className="btn btn-ghost btn-sm">
+              {u.label} overview <Icon name="arrowRight" />
+            </Link>
+          </div>
+          <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" animate="show">
+            {unitModules(u).map((m) => (
+              <motion.div key={m.id} variants={stagger.item}>
+                <ModuleCard m={m} />
+              </motion.div>
+            ))}
+          </motion.div>
+        </section>
+      ))}
+      {UNGROUPED_MODULES.length > 0 && (
+        <section className="section">
+          <div className="section-head"><h2>More modules</h2></div>
+          <div className="grid grid-2">
+            {UNGROUPED_MODULES.map((m) => (
+              <ModuleCard key={m.id} m={m} />
+            ))}
+          </div>
+        </section>
+      )}
       <Footer />
     </div>
   );
 }
 
-export function Unit6Page() {
-  const read = useProgress((s) => s.read);
-  const query = `modules=${UNIT_6.moduleIds.join(',')}`;
-  const topics = UNIT_6_MODULES.flatMap((m) => m.topics);
-  const questions = UNIT_6_MODULES.flatMap((m) => m.questions);
-  const cards = UNIT_6_MODULES.flatMap((m) => m.flashcards);
+export function UnitPage({ slug }: { slug: string }) {
+  const unit = UNIT_BY_SLUG[slug];
+  if (!unit) return <NotFound />;
+  const mods = unitModules(unit);
+  const query = `modules=${unit.moduleIds.join(',')}`;
+  const topics = mods.flatMap((m) => m.topics);
+  const questions = mods.flatMap((m) => m.questions);
+  const cards = mods.flatMap((m) => m.flashcards);
   return (
-    <div className="container" style={{ ['--mc' as string]: 'var(--m6)' }}>
-      <nav className="crumbs"><Link to="/learn">Learn</Link><Icon name="chevronRight" width={14} /><span>Unit 6</span></nav>
+    <div className="container" style={{ ['--mc' as string]: unit.color }}>
+      <nav className="crumbs"><Link to="/learn">Learn</Link><Icon name="chevronRight" width={14} /><span>{unit.label}</span></nav>
       <section className="module-banner">
-        <div className="module-num">UNIT 6</div>
-        <h1>{UNIT_6.title}</h1>
-        <p>{UNIT_6.overview}</p>
+        <div className="module-num">{unit.eyebrow.toUpperCase()}</div>
+        <h1>{unit.title}</h1>
+        <p>{unit.overview}</p>
         <div className="row" style={{ marginTop: 22 }}>
-          <Link className="btn btn-primary" to={`/practice?${query}`}><Icon name="pulse" /> Practice Unit 6 · {questions.length}</Link>
-          <Link className="btn" to={`/flashcards?${query}`}><Icon name="cards" /> Unit flashcards</Link>
+          <Link className="btn btn-primary" to={`/practice?${query}`}><Icon name="pulse" /> Practice {unit.label} · {questions.length}</Link>
+          <Link className="btn" to={`/flashcards?${query}`}><Icon name="cards" /> Flashcards</Link>
           <Link className="btn" to={`/exam?${query}`}><Icon name="exam" /> Unit exam</Link>
         </div>
         <div className="banner-stats">
-          <span><b>{UNIT_6_MODULES.length}</b> modules</span>
+          <span><b>{mods.length}</b> modules</span>
           <span><b>{topics.length}</b> full lessons</span>
+          <span><b>{questions.length}</b> questions</span>
           <span><b>{cards.length}</b> flashcards</span>
         </div>
       </section>
-      <section className="section" aria-label="Unit 6 modules">
+      {unit.isNew && (
+        <section className="section card how-to-study">
+          <span className="eyebrow">How to study this unit</span>
+          <ol>
+            <li><b>Read the lesson</b> for one topic — pay special attention to “How the NCLEX tests this” and the worked case.</li>
+            <li><b>Answer the self-checks</b> at the end before looking at the answers.</li>
+            <li><b>Practice that topic</b> with hints on. Read every option rationale — especially for the ones you got right but weren’t sure about.</li>
+            <li><b>Review flashcards</b>, then take a timed unit exam once you’ve finished several modules.</li>
+          </ol>
+        </section>
+      )}
+      <section className="section" aria-label={`${unit.label} modules`}>
         <div className="section-head"><h2>Concepts &amp; exemplars</h2></div>
         <div className="grid grid-2">
-          {UNIT_6_MODULES.map((m) => {
-            const done = m.topics.filter((t) => read[topicKey(m.id, t.id)]).length;
-            return (
-              <Link key={m.id} to={`/learn/${m.id}`} className="card card-link module-card" style={{ ['--mc' as string]: m.color }}>
-                <ModuleGlyph icon={m.icon} />
-                <div className="module-num" style={{ marginTop: 14 }}>MODULE {m.number}</div>
-                <h3>{m.title}</h3>
-                <p>{m.overview}</p>
-                <div className="module-meta"><span><b>{m.topics.length}</b> lessons</span><span><b>{m.questions.length}</b> questions</span><span><b>{m.flashcards.length}</b> cards</span></div>
-                <div className="module-foot"><div style={{ flex: 1 }}><Bar value={done / m.topics.length} color={m.color} /></div><span className="faint small">{done}/{m.topics.length} read</span></div>
-              </Link>
-            );
-          })}
+          {mods.map((m) => (
+            <ModuleCard key={m.id} m={m} />
+          ))}
         </div>
       </section>
       <Footer />
     </div>
+  );
+}
+
+function UnitCrumb({ moduleId }: { moduleId: string }) {
+  const u = unitOf(moduleId);
+  if (!u) return null;
+  return (
+    <>
+      <Link to={`/learn/${u.slug}`}>{u.label}</Link>
+      <Icon name="chevronRight" width={14} />
+    </>
   );
 }
 
@@ -119,14 +170,14 @@ export function ModulePage() {
     <div className="container" style={{ ['--mc' as string]: m.color }}>
       <nav className="crumbs">
         <Link to="/learn">Learn</Link> <Icon name="chevronRight" width={14} />
-        {UNIT_6.moduleIds.includes(m.id) && <><Link to="/learn/unit-6">Unit 6</Link><Icon name="chevronRight" width={14} /></>}
+        <UnitCrumb moduleId={m.id} />
         <span>Module {m.number}</span>
       </nav>
       <motion.section className="module-banner" initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.6 }}>
         <div className="glyph-bg">
           <Icon name={m.icon} />
         </div>
-        <div className="module-num">MODULE {m.number}</div>
+        <div className="module-num">MODULE {m.number}{isNewModule(m.id) && <> · <NewBadge /></>}</div>
         <h1>{m.title}</h1>
         <p>{m.overview || m.tagline}</p>
         <div className="row" style={{ marginTop: 22 }}>
@@ -207,7 +258,7 @@ export function TopicPage() {
       <motion.div className="read-progress" style={{ scaleX: progress }} />
       <nav className="crumbs">
         <Link to="/learn">Learn</Link> <Icon name="chevronRight" width={14} />
-        {UNIT_6.moduleIds.includes(m.id) && <><Link to="/learn/unit-6">Unit 6</Link><Icon name="chevronRight" width={14} /></>}
+        <UnitCrumb moduleId={m.id} />
         <Link to={`/learn/${m.id}`}>
           Module {m.number} · {m.title}
         </Link>

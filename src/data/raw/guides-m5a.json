@@ -452,8 +452,8 @@
      "heading": "IVP: contrast dye, metformin, and allergies",
      "body": "<p><strong>Intravenous pyelography (IVP)</strong> is a radiologic exam that <strong>uses IV contrast dye</strong> to outline the kidneys, ureters, and bladder on x-ray. Contrast dye must be filtered out by the kidneys, which creates two safety issues your slides highlight:</p>",
      "bullets": [
-      "<strong>Metformin:</strong> clients with diabetes who take metformin <strong>must stop it 48 hours before</strong> the test. Contrast can stress the kidneys, and if the kidneys can't clear metformin, it can build up and cause a dangerous acid buildup (lactic acidosis). Follow facility protocol; metformin is usually not restarted until kidney function is confirmed after the test.",
-      "<strong>Allergies:</strong> <strong>check for iodine or shellfish allergies</strong> and any past reaction to contrast dye before the test, and report them to the provider and radiology."
+      "<strong>Metformin:</strong> clients with diabetes who take metformin <strong>must stop it 48 hours before</strong> the test. Contrast can stress the kidneys, and if the kidneys can't clear metformin, it can build up and cause a dangerous acid buildup (lactic acidosis). Follow facility protocol. Current guidelines focus most on the time after the contrast: metformin is held at the time of the test and for 48 hours afterward, and it is not restarted until kidney function has been rechecked and is stable.",
+      "<strong>Allergies:</strong> <strong>check for iodine or shellfish allergies</strong> and any past reaction to contrast dye before the test, and report them to the provider and radiology. A past reaction to contrast dye is the strongest predictor of another reaction. A shellfish allergy does not by itself mean the client will react to contrast, but it is still asked about and reported, along with asthma and other allergies."
      ],
      "example": "<strong>At the bedside:</strong> A client scheduled for an IVP tomorrow morning says he took his usual metformin with breakfast today. The nurse holds further doses, notifies the provider and radiology so they can decide whether to proceed, and confirms his allergy history. After the test, the nurse encourages fluids (if allowed) to help flush the dye."
     },
@@ -708,7 +708,7 @@
        [
         "<strong>Cholinergic</strong>",
         "Promote urination (for urinary retention)",
-        "<strong>Urecholine</strong> (bethanechol): can cause <strong>elevated liver and pancreatic enzyme levels</strong>. Not used if something is physically blocking urine flow."
+        "<strong>Urecholine</strong> (bethanechol): can cause <strong>elevated liver and pancreatic enzyme levels</strong>. Not used if something is physically blocking urine flow. Watch for cholinergic effects (sweating, salivation, flushing, abdominal cramping, a slow heart rate, low BP); avoid in asthma."
        ],
        [
         "<strong>Antibiotics</strong>",
@@ -718,12 +718,12 @@
        [
         "<strong>Urinary analgesic</strong>",
         "Treat pain and burning",
-        "<strong>Pyridium</strong> (phenazopyridine): <strong>discolors urine</strong> (orange or red) and is <strong>slightly sedating</strong>. It treats pain, not the infection."
+        "<strong>Pyridium</strong> (phenazopyridine): <strong>discolors urine</strong> (orange or red) and is <strong>slightly sedating</strong>. It treats pain, not the infection, and is usually limited to about 2 days."
        ],
        [
         "<strong>Urinary antispasmodic</strong>",
         "Treat bladder spasms",
-        "<strong>Myrbetriq</strong> (mirabegron): <strong>significant side effects</strong>; notably it can raise blood pressure, so monitor BP."
+        "<strong>Myrbetriq</strong> (mirabegron), a beta-3 agonist that relaxes the detrusor: <strong>significant side effects</strong>; notably it can raise blood pressure, so monitor BP."
        ]
       ]
      },
@@ -976,7 +976,7 @@
        [
         "<strong>Nocturnal enuresis</strong> (bedwetting)",
         "Wetting during sleep. <strong>Prevalent in deep sleepers</strong> — they don't wake to the signal of a full bladder.",
-        "<strong>Not a problem until after 7 years of age.</strong>"
+        "<strong>Not a problem until after 7 years of age.</strong> (Formal definitions use the word enuresis from age 5, but most children outgrow it, so treatment usually is not started before about age 6–7.)"
        ],
        [
         "<strong>Diurnal enuresis</strong> (daytime wetting)",
@@ -1002,7 +1002,7 @@
     },
     {
      "heading": "Pregnancy: kidneys working overtime",
-     "body": "<p>Pregnancy also raises the kidneys' workload. <strong>GFR rises by as much as 50% beginning in the second trimester and stays high until birth</strong>, because the kidneys are filtering the extra blood volume of pregnancy and the baby's wastes.</p><p><strong>To compensate, the kidney tubules reabsorb more.</strong> But they can't keep up with everything. When so much glucose is filtered that the tubules can't reabsorb it all, glucose spills into the urine: <strong>glycosuria</strong>. Your slides note glycosuria <strong>may be normal or may indicate gestational diabetes</strong>, so it is reported and followed up with blood glucose testing.</p>",
+     "body": "<p>Pregnancy also raises the kidneys' workload. <strong>GFR rises early in pregnancy, reaching as much as 50% above normal by the second trimester, and stays high until birth</strong>, because the kidneys are filtering the extra blood volume of pregnancy and the baby's wastes.</p><p><strong>To compensate, the kidney tubules reabsorb more.</strong> But they can't keep up with everything. When so much glucose is filtered that the tubules can't reabsorb it all, glucose spills into the urine: <strong>glycosuria</strong>. Your slides note glycosuria <strong>may be normal or may indicate gestational diabetes</strong>, so it is reported and followed up with blood glucose testing.</p>",
      "analogy": "Think of the tubules as workers taking boxes (glucose) off a conveyor belt and putting them back on the shelf. In pregnancy, the belt speeds up by half. The workers move faster, but some boxes still fall off the end — into the urine."
     },
     {

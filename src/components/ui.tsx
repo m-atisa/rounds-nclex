@@ -87,12 +87,14 @@ export function Chip({
   children,
   color,
   count,
+  isNew,
 }: {
   on: boolean;
   onClick: () => void;
   children: ReactNode;
   color?: string;
   count?: number;
+  isNew?: boolean;
 }) {
   return (
     <motion.button
@@ -105,6 +107,7 @@ export function Chip({
     >
       {color && <span className="dot" />}
       {children}
+      {isNew && <span className="chip-new">New</span>}
       {count !== undefined && <span className="chip-count">{count}</span>}
     </motion.button>
   );

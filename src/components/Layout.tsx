@@ -1,7 +1,7 @@
 import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useMemo } from 'react';
 import { Link, NavLink, useLocation, useOutlet } from 'react-router-dom';
-import { MODULES } from '../data';
+import { MODULES, UNITS, isNewModule } from '../data';
 import { statusOf, streak } from '../lib/analytics';
 import { cx, dayKey } from '../lib/util';
 import { useProgress } from '../store/progress';
@@ -127,15 +127,25 @@ function Sidebar({ isActive }: { isActive: (to: string) => boolean }) {
         ))}
         <div className="side-section">
           <span className="side-title">Modules</span>
-          <NavLink to="/learn/unit-6" className="side-link"><Icon name="book" /><span>Unit 6 overview</span></NavLink>
-          {moduleStats.map(({ m, pct }) => (
-            <NavLink key={m.id} to={`/learn/${m.id}`} className="side-link side-module" style={{ ['--mc' as string]: m.color }}>
-              <span className="side-dot" />
-              <span className="side-module-name">
-                <small>{m.number}</small> {m.title}
-              </span>
-              <span className="side-pct">{Math.round(pct * 100)}%</span>
-            </NavLink>
+          {UNITS.map((u) => (
+            <div key={u.slug} className="side-unit">
+              <NavLink to={`/learn/${u.slug}`} className={({ isActive }) => cx('side-link side-unit-link', isActive && 'active')}>
+                <Icon name="book" />
+                <span>{u.label}</span>
+                {u.isNew && <span className="chip-new">New</span>}
+              </NavLink>
+              {moduleStats
+                .filter(({ m }) => u.moduleIds.includes(m.id))
+                .map(({ m, pct }) => (
+                  <NavLink key={m.id} to={`/learn/${m.id}`} className={cx('side-link side-module', isNewModule(m.id) && 'is-new')} style={{ ['--mc' as string]: m.color }}>
+                    <span className="side-dot" />
+                    <span className="side-module-name">
+                      <small>{m.number}</small> {m.title}
+                    </span>
+                    <span className="side-pct">{Math.round(pct * 100)}%</span>
+                  </NavLink>
+                ))}
+            </div>
           ))}
         </div>
       </nav>

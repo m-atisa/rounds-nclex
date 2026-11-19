@@ -626,7 +626,7 @@ window.NURSE_DATA.push({
    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
    "stem": "A client with suspected pneumonia needs a sputum specimen for culture and sensitivity, and the first dose of IV antibiotic is prescribed. Which instructions or actions should the nurse include? Select all that apply.",
    "options": [
-    "“Collect the specimen first thing in the morning when you wake up.”",
+    "“We’ll wait until tomorrow morning to collect the specimen, when secretions have pooled overnight.”",
     "“Rinse your mouth with plain water before you collect the specimen.”",
     "“Use an antiseptic mouthwash first to get rid of bacteria in your mouth.”",
     "“Take a few deep breaths, then cough deeply to bring up sputum from your lungs.”",
@@ -634,21 +634,20 @@ window.NURSE_DATA.push({
     "Obtain the specimen before the first antibiotic dose, then give the antibiotic without delay"
    ],
    "answer": [
-    0,
     1,
     3,
     5
    ],
    "optionRationales": [
-    "Correct. Secretions pool overnight, so an early-morning specimen yields the most sputum.",
+    "An early-morning specimen is preferred when timing allows, but the first antibiotic is due now. Waiting overnight would either delay the antibiotic or force it to be given before the culture, so the nurse coaches the client to produce the specimen now.",
     "Correct. Rinsing with water reduces mouth contamination without killing the organisms.",
     "Antiseptic mouthwash can kill organisms and alter the culture results.",
     "Correct. Deep breaths followed by a deep cough bring up sputum from the lower airways rather than saliva.",
     "Saliva is not a sputum specimen and will not identify the organism in the lungs.",
     "Correct. Antibiotics given first can prevent the organism from growing in culture; the first dose should follow promptly."
    ],
-   "rationale": "A useful culture needs true lower-airway sputum that has not been altered by antiseptics or antibiotics. Airway-clearance techniques (deep breathing, then a deep cough) produce the specimen, the timing (early morning, before the first antibiotic) protects the result, and pneumonia care requires that the antibiotic still be started without delay.",
-   "takeaway": "Sputum culture: early morning, water rinse, deep cough, before antibiotics — then give the antibiotic promptly.",
+   "rationale": "A useful culture needs true lower-airway sputum that has not been altered by antiseptics or antibiotics. Airway-clearance techniques (deep breathing, then a deep cough) produce the specimen, the timing (before the first antibiotic) protects the result, and pneumonia care requires that the antibiotic still be started without delay — so the nurse does not wait for an early-morning specimen when the first dose is due now.",
+   "takeaway": "Sputum culture: water rinse, deep cough, before antibiotics — then give the antibiotic promptly; don’t wait for a morning specimen when the first dose is due.",
    "cjmm": "Generate Solutions",
    "focus": "Client Teaching",
    "hintContent": "Connect how organisms are identified in culture with what can contaminate or kill them, and with the sequence of pneumonia treatment.",

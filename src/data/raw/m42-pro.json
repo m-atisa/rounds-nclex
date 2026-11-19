@@ -1,0 +1,1733 @@
+{
+ "moduleId": "m42",
+ "moduleNumber": 42,
+ "moduleTitle": "Accountability",
+ "tagline": "Own the outcome. Know your limits.",
+ "overview": "Module 42 covers accountability as a professional concept—top-of-license practice, autonomy, governance, and the five components—and how it plays out at the bedside through comfort, safety, infection control, mandatory reporting, delegation, and questioning unsafe orders. Exemplar 42.A Competence adds critical thinking, emotional intelligence, Benner’s novice-to-expert stages, cultural competence, and the first rule of competence: ask for help when unsure.",
+ "topics": [
+  {
+   "id": "accountability-foundations",
+   "title": "Accountability Foundations: Top-of-License Practice, Autonomy, Governance & the Five Components",
+   "exemplar": null
+  },
+  {
+   "id": "accountability-practice",
+   "title": "Accountability at the Bedside: Expanded Duties, Related Concepts, Delegation & Unsafe Orders",
+   "exemplar": null
+  },
+  {
+   "id": "competence",
+   "title": "Exemplar 42.A Competence: Critical Thinking, Emotional Intelligence, Benner’s Stages & Practicing Within Your Limits",
+   "exemplar": "42.A Competence"
+  }
+ ],
+ "flashcards": [
+  {
+   "front": "Define accountability",
+   "back": "Being answerable for your own nursing judgments, actions, and omissions and their outcomes—to the client, profession, employer, and law. It cannot be transferred.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "Accountability vs responsibility?",
+   "back": "Responsibility = the duty to do a task (can be assigned/delegated). Accountability = answering for the judgment and outcome (stays with the professional).",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "Define Top-of-License (TOL) practice",
+   "back": "An interprofessional approach that lets nurses practice to the fullest extent of their education, knowledge, skills, and legal scope (IOM 2010, The Future of Nursing), focused on outcomes and safe transitions, including advocating for nurses’ autonomy.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "Professional vs individual autonomy",
+   "back": "Professional: nursing self-regulates, sets standards, writes policy, and defines scope through boards of nursing. Individual: the nurse’s freedom and accountability to act within scope and advocate for safe, evidence-based care.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "Define governance",
+   "back": "The organizational structure, provided by professional nursing organizations, that establishes social, political, and economic arrangements giving nurses control over their practice, self-discipline, and working conditions.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "Name the five components that promote professional accountability",
+   "back": "Education • Body of knowledge • Service orientation • Allegiance to a code of ethics • Autonomy and membership in a professional organization (E-B-S-C-A).",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "A nurse volunteers with the Medical Reserve Corps during a pandemic. Which component?",
+   "back": "Service orientation—service to others ahead of profit.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "What legally defines whether a task is within the RN’s scope?",
+   "back": "The Nurse Practice Act and board of nursing rules of the state where the client is located. Facility policy can restrict but never expand scope.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "You discover your own medication error and the client seems fine. What do you do?",
+   "back": "Assess the client, notify the provider, document the facts truthfully, and complete an event report. ‘No harm’ is not a reason to stay silent.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "A colleague asks you to co-sign a waste you didn’t witness. Response?",
+   "back": "Decline—signing would falsify the record and enable diversion—and notify the charge nurse per controlled-substance policy.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "Best way to change a unit routine that conflicts with current evidence?",
+   "back": "Bring the evidence to the practice council, educator, or EBP committee (shared governance)—not quiet noncompliance or blind continuation.",
+   "topic": "accountability-foundations"
+  },
+  {
+   "front": "List the expanded duties of accountability",
+   "back": "Holistic health & wellness • Physical outcomes • Safety • Trauma, abuse & self-directed violence • Client and self-education • Infection prevention & immunity.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Comfort accountability: what are the three nursing implications?",
+   "back": "Assess comfort at least once per shift (more often as the condition requires) • Report deviations or changes • Document comfort level and all interventions.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Client says “I’m fine” but is grimacing, trembling, and hypertensive. Next step?",
+   "back": "Complete the assessment before leaving the room—explore and rate the pain; words and cues conflict.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Client refuses opioids out of fear. Accountable response?",
+   "back": "Respect the choice but explore the fear, educate, offer non-opioid and nonpharmacologic options, notify the provider, and reassess—don’t just document the refusal.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Five rights of delegation",
+   "back": "Right task • Right circumstance • Right person • Right directions/communication • Right supervision/evaluation.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "What can the RN never delegate to UAP?",
+   "back": "Assessment, care planning/nursing judgment, initial teaching, evaluation, and care of unstable or unpredictable clients (remember EAT: Evaluate, Assess, Teach).",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "An LPN discards urine that was supposed to be strained. Is the RN accountable?",
+   "back": "Yes. The LPN answers for performing the task; the RN retains accountability for the assignment, clear directions, supervision, and outcome.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "A prescriber refuses to change an order you believe is unsafe. What now?",
+   "back": "Do not carry it out; tell the prescriber you’re holding it; escalate through the chain of command (charge nurse → supervisor → medical director/CNO); keep monitoring; document facts.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Is a nurse accountable when a correctly given PRN opioid fails to relieve pain?",
+   "back": "Not for the drug’s pharmacologic failure—but yes for assessing, dosing within the order, reassessing, and notifying the provider if relief is inadequate.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Suspected child abuse: do you need proof before reporting?",
+   "back": "No. Report reasonable suspicion to the designated agency (in NC, county DSS), document objectively, and protect the child; do not investigate or confront.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Just Culture responses",
+   "back": "Human error → console and fix the system • At-risk behavior → coach • Reckless behavior → sanction/discipline.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Should you document “incident report filed” in the chart?",
+   "back": "No. The event report is a confidential QI document; chart only the factual care and the client’s condition.",
+   "topic": "accountability-practice"
+  },
+  {
+   "front": "Define competence",
+   "back": "Practicing to the fullest extent with specialized knowledge, skills, abilities, and clinical judgment—applying critical thinking, problem solving, and ethical reasoning, with awareness of one’s limits and openness to feedback.",
+   "topic": "competence"
+  },
+  {
+   "front": "Define emotional intelligence (EI)",
+   "back": "A nurse’s ability to recognize, through emotional appraisal, when personal emotions rather than objective knowledge are influencing clinical decisions.",
+   "topic": "competence"
+  },
+  {
+   "front": "Three core areas of competence",
+   "back": "Critical thinking • Problem solving (supported by EI) • Ethical reasoning and decision making.",
+   "topic": "competence"
+  },
+  {
+   "front": "Benner’s five stages in order",
+   "back": "Novice → Advanced beginner → Competent (≈2–3 yrs) → Proficient (≈3–5 yrs) → Expert.",
+   "topic": "competence"
+  },
+  {
+   "front": "Novice vs advanced beginner",
+   "back": "Novice (student): context-free rules, inflexible. Advanced beginner (new grad): marginally acceptable; recognizes recurring meaningful aspects from some experience.",
+   "topic": "competence"
+  },
+  {
+   "front": "A nurse sees situations as wholes, uses maxims, and plans long-term goals. Which stage?",
+   "back": "Proficient (≈3–5 years).",
+   "topic": "competence"
+  },
+  {
+   "front": "What is the first rule of competence?",
+   "back": "Always ask for help whenever there is any uncertainty about the safety of an action. “I don’t know—would you help me?” beats guessing.",
+   "topic": "competence"
+  },
+  {
+   "front": "Do expert nurses still double-check high-alert medications?",
+   "back": "Yes. Expert vigilance means continuing to double-check high-risk actions such as doses and sterilization.",
+   "topic": "competence"
+  },
+  {
+   "front": "You’re floated to a unit where you lack competence. What do you do?",
+   "back": "Before taking report, tell the supervisor the specific gap, decline an independent assignment you can’t do safely, and negotiate a safe role (supportive tasks, buddy, or a unit where you’re competent).",
+   "topic": "competence"
+  },
+  {
+   "front": "Four core elements of cultural competence training",
+   "back": "Recognize your own values/beliefs • Develop listening skills and learn cultural rites/traditions • Advocate when treatment conflicts with cultural values • Identify community resources for follow-up.",
+   "topic": "competence"
+  },
+  {
+   "front": "A family member offers to interpret consent information. Accept?",
+   "back": "No. Use a qualified medical interpreter; family members (especially minors) may misinterpret or filter information.",
+   "topic": "competence"
+  },
+  {
+   "front": "Exhausted after 20 hours awake and asked to stay. Competent response?",
+   "back": "Decline the extra shift because you can’t practice safely, and help find coverage; fitness for duty is part of competence.",
+   "topic": "competence"
+  }
+ ],
+ "questions": [
+  {
+   "id": "m42-pro-001",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "While reviewing the medication administration record, a nurse realizes she gave a client furosemide 40 mg orally 1 hour after the provider discontinued it. The client is alert, and vital signs are stable. Which action by the nurse best demonstrates professional accountability?",
+   "options": [
+    "Assess the client, notify the provider, and complete an event report.",
+    "Monitor urine output closely and tell no one, since no harm occurred.",
+    "Ask the pharmacist to remove the discontinued order from the profile.",
+    "Document the dose as held so the record matches the current order."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Accountability means owning the error: assess for effects (fluid and potassium status), disclose to the provider, document truthfully, and report through the safety system.",
+    "Incorrect. Absence of visible harm does not remove the duty to disclose; the provider may need to order labs or adjust care, and unreported errors cannot be learned from.",
+    "Incorrect. The order is already discontinued; this does nothing about the dose already given or the duty to disclose.",
+    "Incorrect. Charting a dose as held when it was given is falsification of the medical record."
+   ],
+   "rationale": "Accountability covers errors and omissions, not just successes. The accountable sequence is assess the client, communicate with the provider, document the facts truthfully, and file an event report so the system can learn. Monitoring silently is the most tempting distractor because the nurse is doing something clinically useful, but it withholds information the provider needs (for example, to check electrolytes) and hides the event from quality review.",
+   "takeaway": "When you make an error, assess the client, tell the provider, document truthfully, and report it—no harm is not a reason to stay silent.",
+   "hintContent": "A discontinued diuretic was given; think about what the provider and the safety system need to know.",
+   "hintStrategy": "Eliminate any option that hides, alters, or minimizes information—those are never the accountable choice.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-002",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "A hospital redesigns staffing on a medical unit so that RNs spend much of each shift transporting stable clients and restocking supplies, and discharge teaching is reduced to printed handouts. Several clients have been readmitted for medication errors at home. A staff RN wants to advocate for top-of-license practice. Which action by the RN is most appropriate?",
+   "options": [
+    "Stop doing the transport and restocking tasks until the staffing plan is changed.",
+    "Accept the redesign, since staffing decisions belong only to hospital administration.",
+    "Bring the readmission data to the practice council and propose reassigning nonnursing tasks.",
+    "Show RN value by doing procedures she has observed but has not been validated to perform."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Refusing assigned work on her own disrupts care and bypasses governance; the accountable route is to advocate through legitimate channels while the plan remains in effect.",
+    "Incorrect. Top-of-license practice includes a duty to advocate for nurses’ autonomy, and shared governance gives staff nurses a voice in how nursing work is organized.",
+    "Correct. Using outcome data and shared governance to protect RN time for teaching and safe transitions is the accountable way to advocate for top-of-license practice.",
+    "Incorrect. Top-of-license practice is bounded by legal scope and validated competence; performing unvalidated procedures is practicing beyond, not at, the top of license."
+   ],
+   "rationale": "Top-of-license practice means each team member works at the full extent of their education, competence, and legal scope, and it requires nurses to be accountable in practice and to advocate for their own and colleagues’ autonomy. Here, RN time is consumed by tasks support staff can do while RN-only work (teaching and safe transitions) is being cut, and the readmissions show the harm. The accountable response is to bring data through shared governance and propose moving nonnursing tasks to other staff. Refusing the tasks is tempting because it seems to defend RN practice, but it is unilateral; accepting the plan silently abandons the advocacy duty; and doing unvalidated procedures exceeds competence.",
+   "takeaway": "Advocate for top-of-license practice with outcome data through shared governance; never by refusing work unilaterally or by exceeding your competence.",
+   "hintContent": "Top-of-license practice has two limits—legal scope and personal competence—and includes an advocacy duty.",
+   "hintStrategy": "Eliminate options that act unilaterally, stay silent, or go beyond competence; choose the one that uses data and a legitimate channel.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-003",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "A nurse educator is teaching newly hired graduates about professional autonomy. Which statement by a new graduate indicates a need for further teaching?",
+   "options": [
+    "“The board of nursing has legal authority to define our scope of practice.”",
+    "“If I hold a dose for a safety concern, I must be able to explain my reasoning.”",
+    "“Nurses help set the practice standards that other nurses are measured against.”",
+    "“Autonomy means I can follow my own methods when they differ from policy.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. This is accurate: professional autonomy includes legal authority vested in state boards of nursing to define scope.",
+    "Incorrect. This is accurate: individual autonomy is paired with accountability for one’s judgments.",
+    "Incorrect. This is accurate: a self-regulating profession sets standards of practice for its members.",
+    "Correct. This statement needs correction: autonomy is freedom to practice within scope, standards, and policy; disagreement with a policy is addressed through governance, not personal workarounds."
+   ],
+   "rationale": "Professional autonomy means nursing self-regulates, sets standards, and holds legal authority through boards of nursing; individual autonomy means the nurse makes and answers for clinical judgments within scope. Autonomy is never permission to ignore policy or standards. A nurse who believes a policy is outdated brings evidence to the practice council or educator. The statement about holding a dose may look like a red flag, but it is a correct example of autonomy exercised accountably.",
+   "takeaway": "Autonomy is freedom to practice within scope and standards—not freedom from them.",
+   "hintContent": "Autonomy and accountability are a package; look for the statement that separates them.",
+   "hintStrategy": "In ‘needs further teaching’ items, find the one statement that is false; treat each option as true/false.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-004",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "A client who received an IV opioid 45 minutes ago is difficult to arouse and has a respiratory rate of 9 breaths/min. The client’s next scheduled oral opioid dose is now due. Which action should the nurse take first?",
+   "options": [
+    "Notify the provider and request a change in the opioid orders.",
+    "Withhold the dose, stimulate the client, and assess breathing.",
+    "Give the scheduled dose and recheck respirations in 30 minutes.",
+    "Complete an event report describing the opioid-related sedation."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The provider must be notified, but the client’s airway and breathing need immediate attention first.",
+    "Correct. Holding the dose is an independent nursing judgment, and stimulating the client while assessing airway, breathing, and oxygenation addresses the immediate threat.",
+    "Incorrect. Giving more opioid to an oversedated client with respiratory depression could be fatal.",
+    "Incorrect. Documentation and reporting come after the client is safe."
+   ],
+   "rationale": "Individual autonomy lets the nurse withhold a medication when the client’s condition makes it unsafe, and accountability requires acting on the immediate threat first. Oversedation with a respiratory rate of 9 is a breathing problem, so the nurse stimulates the client, supports the airway, checks oxygenation, and follows the reversal protocol as indicated before calling the provider. Notifying the provider is the strongest distractor because it is necessary, but it is not the first action while the client is hypoventilating.",
+   "takeaway": "Hold an opioid for oversedation or respiratory depression and address airway and breathing before calling or documenting.",
+   "hintContent": "Use ABCs: what is the most immediate physiologic threat?",
+   "hintStrategy": "When several options are correct actions, choose the one that addresses the immediate physical threat first; notifying and documenting usually follow.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-005",
+   "topic": "accountability-foundations",
+   "type": "sata",
+   "stem": "A preceptor is describing nursing behaviors that reflect the components promoting professional accountability. Which examples correctly pair a behavior with its component? Select all that apply.",
+   "options": [
+    "Enrolling in an RN-to-BSN program — education",
+    "Volunteering with the Medical Reserve Corps during a pandemic — service orientation",
+    "Reporting one’s own medication error despite possible criticism — allegiance to a code of ethics",
+    "Picking up extra paid overtime to increase income — service orientation",
+    "Following a unit routine because senior staff have always done it — body of knowledge",
+    "Serving on a professional association’s standards committee — autonomy and professional organization"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Advancing formal nursing education reflects the education component.",
+    "Correct. Volunteering to support public health during a crisis is the course’s example of service orientation.",
+    "Correct. Doing what is right even at personal cost to maintain moral integrity reflects allegiance to the code of ethics.",
+    "Incorrect. Working for extra income is not service orientation, which places service to others ahead of profit.",
+    "Incorrect. The body of knowledge is applied through current evidence (EBP), not habit or tradition.",
+    "Correct. Participating in a professional organization’s governance reflects autonomy and membership in a professional organization."
+   ],
+   "rationale": "The five components are education, body of knowledge, service orientation, allegiance to a code of ethics, and autonomy with membership in a professional organization. Each is recognized by behavior: advancing education, using evidence, serving others ahead of profit, doing right at personal cost, and participating in professional governance. Following a routine ‘because we always have’ is the opposite of applying a continuously expanding, evidence-based body of knowledge, and paid overtime is employment, not service orientation.",
+   "takeaway": "Recognize the five components by what nurses do: learn, use evidence, serve, act ethically at personal cost, and take part in professional governance.",
+   "hintContent": "For each pair, ask whether the behavior truly expresses that component’s purpose.",
+   "hintStrategy": "Evaluate SATA options one at a time as true/false; do not look for a set number of answers.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-006",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "An RN who recently relocated tells a colleague, “At my old hospital, RNs could remove chest tubes without any order.” Which source should the colleague explain determines whether an action is legally within the RN’s scope of practice?",
+   "options": [
+    "The Nurse Practice Act and board rules where the client is located",
+    "The policies of the hospital where the RN was first employed and oriented",
+    "The ANA Code of Ethics for Nurses and its interpretive statements",
+    "The preferences of the provider who is supervising the client’s care"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Legal scope is defined by state law (the Nurse Practice Act) and board of nursing rules where the client receives care.",
+    "Incorrect. A former employer’s policy cannot expand legal scope, and policies apply only within that facility.",
+    "Incorrect. The Code of Ethics guides ethical conduct but does not set legal scope of practice.",
+    "Incorrect. A provider cannot authorize a nurse to practice beyond the legal scope defined by the state."
+   ],
+   "rationale": "Professional autonomy is exercised through state boards of nursing, which hold legal authority under each state’s Nurse Practice Act to define nursing scope. Facility policy may be stricter than the law but can never expand it, and it changes from employer to employer. The Code of Ethics is a tempting distractor because it is an authoritative professional document, but it governs ethical obligations rather than the legal boundaries of practice.",
+   "takeaway": "Legal scope comes from the Nurse Practice Act and board rules where the client is located; policies and provider preferences cannot expand it.",
+   "hintContent": "Distinguish legal scope from ethical guidance and from employer policy.",
+   "hintStrategy": "When asked what ‘legally’ governs practice, choose the statute or regulatory body over policies, preferences, or ethical codes.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-007",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "Near the end of a shift, a colleague asks a nurse to co-sign a hydromorphone waste in the automated dispensing cabinet, saying, “I wasted it an hour ago while you were busy.” Which action by the nurse is most appropriate?",
+   "options": [
+    "Co-sign the waste because the colleague is a trusted, experienced nurse.",
+    "Co-sign the waste, then report the late documentation to the manager.",
+    "Decline to co-sign the unwitnessed waste and notify the charge nurse.",
+    "Suggest the colleague describe the waste in a narrative note instead."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Trust does not make an unwitnessed co-signature truthful; signing would falsify a controlled-substance record.",
+    "Incorrect. Reporting afterward does not undo the falsified co-signature.",
+    "Correct. A witness signature attests to what was observed; declining and notifying the charge nurse follows controlled-substance policy and protects against diversion.",
+    "Incorrect. A narrative note does not replace the required witnessed waste and leaves an unresolved discrepancy."
+   ],
+   "rationale": "Allegiance to the code of ethics means doing what is right even when it is uncomfortable. A co-signature states that the nurse personally witnessed the waste; signing for something not witnessed is falsification and is a common pathway for drug diversion. The accountable action is to decline and notify the charge nurse so the discrepancy is resolved under policy. Co-signing and then reporting is tempting because it seems to cover both loyalty and safety, but the nurse would still have falsified a record.",
+   "takeaway": "Never co-sign a controlled-substance waste you did not witness; decline and escalate the discrepancy per policy.",
+   "hintContent": "What does a witness signature legally claim?",
+   "hintStrategy": "Eliminate options in which the nurse documents something untrue, even if a ‘fix’ is added afterward.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-008",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "A staff nurse finds several recent systematic reviews indicating that a routine practice on her unit is no longer recommended. The unit policy still requires the routine. Which action by the nurse is most appropriate?",
+   "options": [
+    "Change her own practice now and teach coworkers to do the same.",
+    "Continue the routine without comment because it reflects unit policy.",
+    "Ask a provider to write orders that override the policy for her clients.",
+    "Bring the evidence to the unit practice council for policy review."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Unilaterally abandoning policy bypasses governance and creates inconsistent care on the unit.",
+    "Incorrect. Silently continuing a practice the nurse believes is outdated ignores accountability for evidence-based practice.",
+    "Incorrect. Using orders to work around policy for her own clients does not address the unit-wide practice or the review process.",
+    "Correct. Shared governance is the legitimate channel for translating new evidence into unit policy."
+   ],
+   "rationale": "Nurses are accountable for practicing within an evidence-based environment, and nursing’s body of knowledge is continuously expanding. Accountability also requires working through legitimate structures: shared-governance practice councils, educators, and EBP committees review evidence and revise policy so that every client benefits. Changing her own practice is tempting because it acts on evidence, but it bypasses governance and leaves the outdated policy in place for everyone else.",
+   "takeaway": "Act on new evidence through governance—bring it to the practice council—rather than ignoring it or working around policy alone.",
+   "hintContent": "Which option uses the structure that gives nurses control over their practice?",
+   "hintStrategy": "Prefer answers that use the proper channel (governance, chain of command) over unilateral action or passive acceptance.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-009",
+   "topic": "accountability-foundations",
+   "type": "sata",
+   "stem": "A charge nurse is reviewing accountability with new RNs. Which statements by the new RNs reflect accurate understanding? Select all that apply.",
+   "options": [
+    "“If I delegate vital signs, I am still answerable for acting on the results.”",
+    "“Once I give handoff, I am no longer accountable for omissions on my shift.”",
+    "“I am accountable for what I fail to do as well as for what I do.”",
+    "“If a provider orders a treatment, only the provider answers for the outcome.”",
+    "“I need to be able to explain the reasoning behind my nursing decisions.”"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Delegation transfers a task, not the RN’s accountability for interpreting and acting on the data.",
+    "Incorrect. An omission that occurred during the shift remains the nurse’s accountability after handoff; it must be disclosed and reported.",
+    "Correct. Accountability covers omissions such as missed assessments or unreported findings.",
+    "Incorrect. Nurses are independently accountable for their own judgments, including questioning an unsafe order.",
+    "Correct. Accountability means being answerable for decisions, which requires sound, explainable reasoning."
+   ],
+   "rationale": "Accountability is answerability for one’s judgments, actions, and omissions. The RN who delegates keeps accountability for following up; the nurse who carries out an order keeps accountability for recognizing and questioning one that is unsafe; and an omission does not disappear at shift change. Being accountable means being able to explain, with data and evidence, why a decision was made.",
+   "takeaway": "Accountability includes omissions, delegated tasks, and the reasoning behind every nursing decision—and it does not end at handoff or with a provider’s order.",
+   "hintContent": "Accountability travels with the nurse’s judgment, not with the task or the paperwork.",
+   "hintStrategy": "In SATA, test each statement against one principle: can accountability be transferred? If a statement says it can, it is false.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-010",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "A nurse notices that a coworker, who is also a close friend, is slurring words and smells of alcohol while preparing medications for her clients. Which action should the nurse take first?",
+   "options": [
+    "Report the coworker directly to the state board of nursing.",
+    "Stop the coworker from giving medications and notify the charge nurse.",
+    "Encourage the coworker privately to seek treatment after this shift ends.",
+    "Watch the coworker closely and double-check each medication given."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Board reporting may follow under policy and law, but the immediate priority is protecting clients now.",
+    "Correct. Removing the impaired nurse from client care and notifying the charge nurse or supervisor protects clients immediately and starts the proper process.",
+    "Incorrect. Waiting until after the shift leaves clients at risk from an impaired nurse.",
+    "Incorrect. Supervising an impaired nurse still allows her to provide unsafe care and does not address the impairment."
+   ],
+   "rationale": "The nurse’s primary commitment is to the client, even when friendship makes action painful. An impaired nurse must be removed from client care immediately, and the charge nurse or supervisor is notified so the facility’s fitness-for-duty process and any required board reporting follow. Board reporting is tempting because impairment is a reportable conduct issue, but it does not stop the coworker from giving medications in the next few minutes.",
+   "takeaway": "Protect clients first: stop an apparently impaired colleague from providing care and notify the supervisor immediately.",
+   "hintContent": "Who is at risk in the next five minutes?",
+   "hintStrategy": "For ‘first’ items, pick the action that removes the immediate danger; reporting to outside bodies usually comes later.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [
+    "competence"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-011",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "Ten minutes before the end of her shift, a nurse realizes she did not perform the neurovascular check ordered 2 hours ago for a client with a new leg cast. Which action should the nurse take first?",
+   "options": [
+    "Perform the neurovascular check now and compare it with the baseline.",
+    "Chart the check at the scheduled time using the last recorded findings.",
+    "Ask the oncoming nurse to perform the check whenever time allows.",
+    "Report the omission to the charge nurse before seeing the client."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The client may have developed compartment syndrome or impaired circulation; assessing now addresses the risk created by the omission.",
+    "Incorrect. Charting a check that was not performed is falsification and could hide a deterioration.",
+    "Incorrect. Deferring an overdue assessment of a high-risk client delays recognition of a possible emergency.",
+    "Incorrect. The omission must be reported, but the client’s possible neurovascular compromise takes priority."
+   ],
+   "rationale": "Accountability includes omissions, and the first step in owning an omission is to remove the risk it created. A missed neurovascular check on a new cast could hide compartment syndrome, so the nurse assesses circulation, sensation, motion, pain, and swelling now. Afterward she documents the actual time, reports the omission to the charge nurse, and includes it in handoff. Reporting first is tempting because it is honest, but assessment of a potentially compromised limb comes before paperwork or notification.",
+   "takeaway": "When you discover an omission, first assess the client for harm, then document truthfully and report.",
+   "hintContent": "What could have happened to the client’s limb during the missed interval?",
+   "hintStrategy": "Assess before you report when a delayed assessment could be hiding an emergency.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-012",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "Which situation is the best example of professional (collective) autonomy rather than individual nursing autonomy?",
+   "options": [
+    "A nurse repositions an immobile client every 2 hours to protect the skin.",
+    "A nurse withholds a scheduled laxative because the client has diarrhea.",
+    "A board of nursing adopts a rule describing RN delegation responsibilities.",
+    "A nurse independently begins fall-prevention teaching with a client."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Repositioning is an independent nursing intervention—individual autonomy.",
+    "Incorrect. Holding a dose based on assessment is an individual clinical judgment.",
+    "Correct. A board defining practice through rules is the profession regulating itself—professional autonomy.",
+    "Incorrect. Initiating teaching is an independent nursing action within the individual nurse’s scope."
+   ],
+   "rationale": "Professional autonomy belongs to nursing as a whole: self-regulation, setting standards, formulating policy, and legal authority vested in boards of nursing. Individual autonomy is the nurse’s freedom to make and carry out independent clinical decisions within scope. Three options describe individual nurses acting independently at the bedside, which is why they all feel ‘autonomous’; only the board rule represents the profession regulating its members.",
+   "takeaway": "Profession-level standard setting and board rules = professional autonomy; bedside independent judgments = individual autonomy.",
+   "hintContent": "Is the actor an individual nurse or the profession’s regulatory structure?",
+   "hintStrategy": "When three options share a feature and one differs, the different one is often the answer in a ‘best example’ item.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-013",
+   "topic": "accountability-foundations",
+   "type": "sata",
+   "stem": "A charge nurse is redesigning workflow so that RNs on the unit can practice at the top of their license. Which RN activities should the plan protect time for? Select all that apply.",
+   "options": [
+    "Coordinating safe handoffs and transfers between units",
+    "Evaluating clients’ responses to newly started medications",
+    "Restocking linen and supply carts each morning",
+    "Teaching a client with a new colostomy before discharge",
+    "Escorting stable clients by wheelchair to the hospital exit"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Facilitating safe transitions is a core RN responsibility within top-of-license practice.",
+    "Correct. Evaluation requires nursing judgment and is an RN accountability.",
+    "Incorrect. Restocking supplies does not require nursing education and can be done by support staff.",
+    "Correct. Initial client teaching is an RN function requiring assessment of learning needs.",
+    "Incorrect. Escorting a stable client is a task trained support staff can perform."
+   ],
+   "rationale": "Top-of-license practice frees RNs to do work requiring their education, judgment, and legal scope: outcomes-focused care, coordinating safe transitions, evaluating responses, and teaching. Tasks that do not require nursing judgment—restocking and routine transport of stable clients—should be done by others so RN time is not consumed by them. Protecting RN-only work is also a form of advocating for nurses’ autonomy.",
+   "takeaway": "Protect RN time for assessment, evaluation, teaching, and safe transitions; shift non-judgment tasks to other team members.",
+   "hintContent": "Which activities would be unsafe or illegal for a non-RN to perform?",
+   "hintStrategy": "In delegation-flavored SATA, sort each option into ‘requires RN judgment’ vs ‘routine task.’",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-014",
+   "topic": "accountability-foundations",
+   "type": "mcq",
+   "stem": "A bed is urgently needed, and the nurse manager asks the nurse to discharge a client now. The client, newly prescribed insulin, still cannot draw up or inject a dose correctly. Which response by the nurse is most appropriate?",
+   "options": [
+    "“I’ll give her written instructions, and she can call with any questions.”",
+    "“I’ll discharge her now and ask home health to teach her within a week.”",
+    "“I’ll have her daughter sign that she will supervise the injections.”",
+    "“She can’t inject safely yet; I’ll notify the provider and keep teaching.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Written instructions do not ensure a client who failed the return demonstration can safely give insulin tonight.",
+    "Incorrect. The client may need insulin before home health visits; discharge now leaves an unsafe gap.",
+    "Incorrect. A signature does not verify that the daughter can perform or supervise injections safely.",
+    "Correct. The nurse’s primary commitment is to client safety; she informs the provider of the unmet discharge criterion and completes teaching or arranges a safe alternative."
+   ],
+   "rationale": "The ANA Code places the nurse’s primary commitment with the client, and accountability for safe transitions includes verifying that a client can safely perform essential self-care before leaving. A client who cannot inject insulin is at risk of hypo- or hyperglycemia within hours. The nurse communicates the safety concern to the provider and continues teaching, or arranges a safe alternative such as a trained caregiver who demonstrates competence. Home health referral is tempting because it is a real resource, but it does not cover the doses due before the first visit.",
+   "takeaway": "Bed pressure never outweighs a client’s safety at discharge; verify essential self-care skills and escalate unmet criteria.",
+   "hintContent": "What will happen at the client’s next insulin dose if she goes home now?",
+   "hintStrategy": "When institutional pressure conflicts with client safety, choose the option that keeps the client safe and communicates the concern.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Client Teaching",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-015",
+   "topic": "accountability-foundations",
+   "type": "sata",
+   "stem": "A nurse is explaining to students how governance gives nurses control over their practice, self-discipline, and working conditions. Which examples illustrate governance? Select all that apply.",
+   "options": [
+    "Bedside nurses on a practice council vote to revise the fall-prevention policy",
+    "The board of nursing disciplines a nurse who diverted controlled substances",
+    "A professional nursing organization advocates for safe-staffing legislation",
+    "The finance office sets the unit’s supply budget without nursing input",
+    "A physician decides which tasks are within nursing’s scope on the unit"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Shared governance gives bedside nurses decision-making authority over practice.",
+    "Correct. Self-discipline of the profession through the board of nursing is part of governance.",
+    "Correct. Professional organizations shape the political and economic arrangements that affect nurses’ working conditions.",
+    "Incorrect. A decision made about nursing without nursing participation is the opposite of professional governance.",
+    "Incorrect. Nursing scope is defined by the Nurse Practice Act and board of nursing, not by another discipline."
+   ],
+   "rationale": "Governance is the structure through which professionals control their own affairs—practice, self-discipline, and working conditions—through social, political, and economic arrangements. Shared-governance councils, board discipline, and professional organizations’ advocacy are all governance. Decisions made about nursing by others, without nursing involvement, are not.",
+   "takeaway": "Governance = nurses controlling their practice, discipline, and working conditions through councils, boards, and professional organizations.",
+   "hintContent": "Ask who holds the decision-making power in each example.",
+   "hintStrategy": "In SATA, eliminate options where someone outside nursing controls nursing’s affairs.",
+   "ref": "Module 42 · Accountability · Foundations · pp. 2703–2704",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-016",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A nurse is completing an admission assessment for a 52-year-old client with a gastrointestinal diagnosis and a history of chronic back pain. The client says, “I’m doing fine,” while grimacing, gripping the side rails, and trembling. Blood pressure is 164/96 mm Hg, and heart rate is 108/min. Which action should the nurse take first?",
+   "options": [
+    "Document the client’s report of being fine and continue to the next client.",
+    "Notify the provider that the client is declining pain medication.",
+    "Ask the client to describe what she is feeling and rate any pain.",
+    "Administer the PRN opioid ordered for moderate to severe pain."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Documenting only the verbal report ignores incongruent cues and leaves the assessment incomplete.",
+    "Incorrect. The client has not declined anything yet; the nurse needs assessment data before calling.",
+    "Correct. The nonverbal cues and vital signs conflict with ‘fine,’ so the nurse completes the assessment by exploring the client’s experience and pain.",
+    "Incorrect. Medicating before assessing pain, its cause, and the client’s preferences skips assessment and may not match what the client is experiencing."
+   ],
+   "rationale": "Accountability for comfort begins with a complete assessment, especially when words and cues disagree. Grimacing, guarding, trembling, hypertension, and tachycardia suggest pain or distress that the client is minimizing, so the nurse explores and quantifies it before leaving the room. Administering the PRN opioid is tempting because pain seems likely, but intervention without assessment ignores other causes and the client’s fears about medication.",
+   "takeaway": "When a client’s words and cues conflict, complete the assessment before acting or leaving the room.",
+   "hintContent": "The verbal report and the objective cues do not match.",
+   "hintStrategy": "Assess before you act unless there is an emergency; look for the option that gathers the missing data.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-017",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "After assessment, a client with severe pain says, “I don’t want any narcotics. I’m scared I’ll end up addicted.” Which response by the nurse is most appropriate?",
+   "options": [
+    "“Tell me more about your concerns so we can find options that work for you.”",
+    "“You won’t get addicted; that risk is basically zero while you are in the hospital.”",
+    "“Then I’ll document that you are refusing pain management for this shift.”",
+    "“Your provider ordered this medicine, so you really should take it as prescribed.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. An open-ended, therapeutic response explores the fear and keeps the nurse working toward acceptable relief.",
+    "Incorrect. False reassurance dismisses the concern and is not accurate; risk is low but not zero.",
+    "Incorrect. Accepting the refusal without exploring it or offering alternatives abandons accountability for comfort.",
+    "Incorrect. Pressuring the client disregards autonomy and does not address the fear."
+   ],
+   "rationale": "Respecting a refusal is different from abandoning the problem. Untreated pain causes physiologic stress responses—elevated blood pressure, impaired healing, heightened anxiety—so the accountable nurse explores fears, educates, and offers non-opioid and nonpharmacologic alternatives while honoring the client’s informed choice. Documenting a refusal is tempting because it respects autonomy, but on its own it leaves the client in pain without exploring options.",
+   "takeaway": "When a client refuses pain medication, explore the reason and pursue acceptable alternatives rather than simply acquiescing.",
+   "hintContent": "Which response opens the conversation instead of closing it?",
+   "hintStrategy": "In ‘best response’ items, choose the therapeutic, open-ended response; eliminate false reassurance, pressure, and responses that end the discussion.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-018",
+   "topic": "accountability-practice",
+   "type": "sata",
+   "stem": "An RN is planning care for a medical unit with a nursing assistant (NA) whose competence for routine tasks has been verified. Which tasks can the RN delegate to the NA? Select all that apply.",
+   "options": [
+    "Measuring and recording intake and output for a client with stable heart failure",
+    "Straining all urine for a client with renal calculi and saving any stones",
+    "Teaching a client to use an incentive spirometer for the first time",
+    "Assessing a client who reports new shortness of breath",
+    "Ambulating a client who has walked independently in the hall since yesterday",
+    "Evaluating whether a client’s pain decreased after a PRN analgesic"
+   ],
+   "answer": [
+    0,
+    1,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Measuring I&O for a stable client is a routine, predictable task; the RN interprets the results.",
+    "Correct. Straining urine is a routine task when the RN gives clear directions about saving stones and what to report.",
+    "Incorrect. Initial teaching is an RN responsibility.",
+    "Incorrect. A new symptom requires RN assessment; the client is not stable.",
+    "Correct. Ambulating a stable client with a predictable response is appropriate to delegate.",
+    "Incorrect. Evaluating the effectiveness of an intervention requires nursing judgment."
+   ],
+   "rationale": "The RN may delegate routine tasks for stable clients with predictable outcomes when the NA is competent and receives clear directions. The RN never delegates assessment, initial teaching, evaluation, or the care of clients with new or changing conditions. The pain-relief item is tempting because an NA can ask for a pain rating, but deciding whether the intervention worked is evaluation, which stays with the nurse.",
+   "takeaway": "Delegate routine tasks for stable clients; keep assessment, teaching, evaluation, and unstable clients with the RN.",
+   "hintContent": "Look for verbs: measure, strain, and ambulate vs teach, assess, and evaluate.",
+   "hintStrategy": "Remember EAT—Evaluate, Assess, Teach stay with the RN—then check whether the client is stable.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-019",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "An RN assigned an LPN to strain all urine for a client with suspected kidney stones. The LPN reports, “He voided 30 mL a few minutes ago. I charted it and emptied the urinal without straining it.” Which statement by the RN reflects accurate understanding of accountability?",
+   "options": [
+    "“Because you did the task, the error is entirely your responsibility.”",
+    "“We each have accountability; I need to clarify directions and follow up.”",
+    "“Because I assigned the task, the error is entirely my responsibility alone.”",
+    "“Neither of us is accountable, because one missed void is not likely harmful.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The LPN is accountable for performance, but the RN retains accountability for communication, supervision, and the outcome.",
+    "Correct. The LPN answers for performing the task correctly; the RN answers for appropriate assignment, clear directions, supervision, and follow-up.",
+    "Incorrect. The LPN is a licensed professional who is also accountable for her own actions.",
+    "Incorrect. Accountability does not depend on whether harm occurred; a missed stone can delay diagnosis."
+   ],
+   "rationale": "When an RN assigns or delegates, the person performing the task is accountable for doing it correctly, and the RN retains accountability for the decision, the directions (strain every void), supervision, and evaluation. The accountable RN reinforces instructions, notifies the provider if the missed specimen affects the plan, documents factually, and follows the facility’s reporting process. The statement that the error is “entirely my responsibility alone” is tempting because it sounds responsible, but it ignores the LPN’s own professional accountability.",
+   "takeaway": "After assigning or delegating, the RN remains accountable for directions, supervision, and outcomes, and the person performing the task is accountable for doing it correctly.",
+   "hintContent": "Accountability is shared between the person who directs and the person who performs; it is not all-or-nothing.",
+   "hintStrategy": "Be wary of absolute words such as ‘entirely’ and ‘neither’ in accountability items.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-020",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A 79-year-old client with a history of heart failure is admitted with renal colic. Orders include 0.9% sodium chloride at 500 mL/hr. Before starting the infusion, the nurse auscultates fine crackles in both lung bases, and SpO2 is 92% on room air. Which action should the nurse take first?",
+   "options": [
+    "Start the infusion at the ordered rate and recheck the lungs in 1 hour.",
+    "Start the infusion at 100 mL/hr until the provider returns the call.",
+    "Ask the pharmacist to change the rate to one safe for heart failure.",
+    "Contact the provider to clarify the rate before starting the infusion."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Starting a high-volume infusion in a client with crackles and heart failure risks fluid overload.",
+    "Incorrect. Independently changing the ordered rate is outside nursing scope; the order must be clarified.",
+    "Incorrect. The pharmacist can advise, but the prescriber must change the order.",
+    "Correct. The nurse questions an order that appears unsafe for this client before implementing it, sharing assessment data and current evidence."
+   ],
+   "rationale": "Accountability for evidence-based practice and safety requires the nurse to question an order that conflicts with the client’s condition or current evidence. Large fluid boluses are rarely effective for stone passage, and an older adult with heart failure and crackles is at high risk of fluid overload. The nurse holds the infusion, calls the prescriber with SBAR, and implements the clarified order. Starting at a lower rate is tempting because it seems safer, but it is an independent change to a medical order.",
+   "takeaway": "Clarify an order that appears unsafe for the client before implementing it; do not change it on your own.",
+   "hintContent": "Consider the client’s age, history, and lung findings against the ordered volume.",
+   "hintStrategy": "When an order and the client’s data conflict, the first action is usually to clarify with the prescriber—not to implement, modify, or go around it.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-021",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A client with renal colic has an order for hydromorphone 1–4 mg IV every 1 hour PRN for severe pain. The client received 1 mg 1 hour ago and now rates pain 8/10. The client is awake and alert, with respirations 18/min and SpO2 97% on room air. Which action by the nurse is most appropriate?",
+   "options": [
+    "Give a dose within the ordered range per policy and reassess in 15–30 minutes.",
+    "Withhold further opioid doses because the first dose did not relieve the pain.",
+    "Give 4 mg now and repeat 4 mg in 30 minutes if pain is still high.",
+    "Notify the provider that the order is ineffective before giving another dose."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The order and timing allow another dose; the nurse selects a dose by assessment and policy and reassesses at the expected peak effect.",
+    "Incorrect. Inadequate relief from the lowest dose is a reason to titrate within the range, not to withhold analgesia.",
+    "Incorrect. A repeat dose 30 minutes later violates the every-1-hour frequency and would give 8 mg in 1 hour, double the 4-mg maximum the order allows per dosing interval.",
+    "Incorrect. The order has not yet been used fully; the provider is notified if relief remains inadequate after appropriate titration."
+   ],
+   "rationale": "With a range order, the nurse is accountable for an accurate assessment, a dose within the range and the frequency allowed by the order and policy, and close monitoring of pain, sedation, and respirations. The nurse is not accountable for a drug’s pharmacologic failure when that process is followed, but is accountable for reassessing and notifying the provider if relief remains inadequate. Calling the provider first is tempting, but the order already allows titration for this alert client with stable respirations. Repeating a full dose in 30 minutes breaks both limits of the order: the dose ceiling and the dosing interval.",
+   "takeaway": "Use range orders by assessing, selecting an allowed dose, reassessing at peak effect, and escalating if relief remains inadequate.",
+   "hintContent": "Check what the order and the client’s current status allow right now.",
+   "hintStrategy": "Verify every number in the options against the order; eliminate any that exceed the prescribed range.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-022",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A nurse educator is discussing medication accountability with new nurses. Which statement by a new nurse indicates a need for further teaching?",
+   "options": [
+    "“I must assess pain and sedation before I choose a dose within a range order.”",
+    "“I need to reassess after the dose and report it if pain relief is inadequate.”",
+    "“If an ordered opioid dose doesn’t relieve pain, the failure is my fault.”",
+    "“An older client may need a lower starting dose and closer sedation monitoring.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. This is accurate: assessment guides dose selection within a range.",
+    "Incorrect. This is accurate: reassessment and escalation are nursing accountabilities.",
+    "Correct. This statement needs correction: the nurse is accountable for a sound process, not for an individual client’s pharmacologic response.",
+    "Incorrect. This is accurate: older adults have greater risk of opioid-induced respiratory depression."
+   ],
+   "rationale": "Nurses answer for their process: accurate assessment, safe administration within the order, monitoring, reassessment, and escalation when relief is inadequate. They are not accountable for a medication’s failure to work in a particular client when that process is followed. The other statements describe correct practice, including the age-related caution, which is tempting to pick only if the learner forgets that older adults need closer monitoring.",
+   "takeaway": "You are accountable for your medication process—assess, give correctly, monitor, reassess, escalate—not for the drug’s biology.",
+   "hintContent": "Separate what the nurse controls from what the drug does.",
+   "hintStrategy": "For ‘needs further teaching,’ find the one statement that misstates where accountability lies.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-023",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A provider orders potassium chloride 20 mEq IV push for a client with a potassium level of 3.1 mEq/L. When the nurse questions the route, the provider says, “Just push it slowly—I’ve done it before.” Which action should the nurse take next?",
+   "options": [
+    "Give the dose by slow IV push over 10 minutes to reduce the risk.",
+    "Withhold the dose, tell the provider, and notify the charge nurse.",
+    "Ask another nurse who is more comfortable to give the dose.",
+    "Document the provider’s statement and then give the dose as ordered."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. IV push potassium can cause fatal dysrhythmias regardless of speed; it must be diluted and infused.",
+    "Correct. The nurse refuses to carry out an unsafe order, informs the prescriber, and escalates through the chain of command.",
+    "Incorrect. Handing an unsafe order to a colleague does not make it safe and shifts the danger rather than resolving it.",
+    "Incorrect. Documentation does not protect the client or the nurse from carrying out an order known to be dangerous."
+   ],
+   "rationale": "Nurses are individually accountable for their actions, so an order that would endanger the client must not be carried out even if the prescriber insists. The nurse withholds the dose, informs the prescriber it will not be given as written, and escalates immediately—charge nurse, nursing supervisor, then medical director—while documenting the facts. Documenting and then giving the dose is tempting because it seems to transfer responsibility, but the nurse remains accountable for giving a lethal medication.",
+   "takeaway": "If a prescriber refuses to change an unsafe order, do not carry it out—inform the prescriber, escalate through the chain of command, and document.",
+   "hintContent": "Potassium chloride is never given by IV push.",
+   "hintStrategy": "An unsafe order is never made safe by documentation or by handing it to someone else; look for refusal plus escalation.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-024",
+   "topic": "accountability-practice",
+   "type": "sata",
+   "stem": "A nurse in the emergency department is caring for a 3-year-old with sharply demarcated burns in a stocking pattern on both feet. The parent states the child “stepped into hot bath water.” Which actions should the nurse take? Select all that apply.",
+   "options": [
+    "Document the location, size, and pattern of the burns objectively",
+    "Report the suspected abuse to child protective services",
+    "Confront the parent about the inconsistency in the explanation",
+    "Wait until the provider confirms abuse before making any report",
+    "Record the parent’s explanation using the parent’s own words",
+    "Tell the parent the child will be removed from the home today"
+   ],
+   "answer": [
+    0,
+    1,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Objective, specific documentation supports the report and the child’s care.",
+    "Correct. Nurses must report reasonable suspicion of child abuse to the designated child protective agency (in North Carolina, the county department of social services).",
+    "Incorrect. Confrontation can escalate risk to the child and staff; investigation is the agency’s role.",
+    "Incorrect. The legal duty is to report suspicion; proof or a provider’s confirmation is not required.",
+    "Correct. Quoting the caregiver’s explanation preserves accurate information for investigators.",
+    "Incorrect. Nurses do not determine custody; that decision belongs to child protective services and the courts."
+   ],
+   "rationale": "A stocking-pattern immersion burn with an explanation that does not fit the injury is a classic cue of abuse. Nurses have a legal and ethical mandatory duty to report suspected child abuse; they report suspicion, document objectively (including the caregiver’s exact words), and protect the child, but they do not investigate, confront, or make custody decisions. Waiting for the provider’s confirmation is tempting because it feels more certain, but it delays a report the nurse is required to make. (In North Carolina, the report goes to the county department of social services, and any person with cause to suspect child maltreatment must report.)",
+   "takeaway": "Report suspected child abuse to the designated agency based on reasonable suspicion, and document objectively—do not wait for proof or confront the caregiver.",
+   "hintContent": "Does the mechanism described match the burn pattern?",
+   "hintStrategy": "In mandatory-reporting SATA, select documentation and reporting actions; reject confronting, investigating, waiting, or deciding custody.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-025",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "During an admission for pneumonia, a 68-year-old client whose spouse died recently says, “It doesn’t really matter what happens to me anymore.” Which response by the nurse is most appropriate?",
+   "options": [
+    "“Many people feel down when they are sick; you will feel better soon.”",
+    "“Let’s focus on your breathing treatments now and talk about this later.”",
+    "“I’ll ask the chaplain to stop by and visit with you this afternoon.”",
+    "“Are you having thoughts of ending your life or hurting yourself?”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. False reassurance dismisses a possible warning sign of suicidal ideation.",
+    "Incorrect. Postponing the discussion delays assessment of a possible safety risk.",
+    "Incorrect. A chaplain referral may help later, but it does not assess immediate suicide risk.",
+    "Correct. Asking directly about suicidal thoughts assesses risk; asking does not increase the likelihood of suicide."
+   ],
+   "rationale": "Nurses are accountable for screening every client for suicide risk on admission and for staying alert to verbalized warning signs. Recent loss, older age, illness, and hopeless statements are risk cues, and the appropriate response is to ask directly about suicidal thoughts, plan, and means. The chaplain referral is tempting because it addresses grief and spiritual needs, but referral comes after the nurse determines whether the client is safe.",
+   "takeaway": "When a client makes a hopeless statement, ask directly about suicidal thoughts before offering reassurance or referrals.",
+   "hintContent": "The statement may be a verbal warning sign; what assessment is needed?",
+   "hintStrategy": "Assessment before intervention: choose the option that gathers safety-critical data first.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-026",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A nurse who works on an oncology unit wakes up with a temperature of 38.4°C (101.1°F), a sore throat, and body aches 2 hours before her shift. Which action should the nurse take first?",
+   "options": [
+    "Notify the supervisor and employee health that she cannot work.",
+    "Wear a surgical mask all shift and avoid clients who are neutropenic.",
+    "Take an antipyretic before the shift and monitor her temperature.",
+    "Work the shift but ask to care only for clients not on chemotherapy."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Self-awareness of personal illness and exposure is part of infection-prevention accountability; a febrile nurse should not work with immunocompromised clients.",
+    "Incorrect. A mask does not make it safe to work while febrile with a likely transmissible illness on an oncology unit.",
+    "Incorrect. Masking a fever with medication hides the illness without reducing transmission risk.",
+    "Incorrect. Many oncology clients are immunocompromised regardless of current treatment, and staff and visitors are also at risk."
+   ],
+   "rationale": "The infection row of the related-concepts matrix makes nurses accountable for protecting clients whose immune systems are compromised, including through self-awareness of their own exposures and illness. A nurse with fever and respiratory symptoms should notify the supervisor and employee health and follow exclusion policy. Wearing a mask is the most tempting option because it is a real infection-control measure, but it does not make working while febrile acceptable on a unit full of immunocompromised clients.",
+   "takeaway": "A nurse with a fever or likely transmissible illness stays home and notifies the supervisor and employee health.",
+   "hintContent": "Who on this unit is most vulnerable to her illness?",
+   "hintStrategy": "In infection-control items, prevent exposure at the source before relying on PPE.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-027",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "The RN is making assignments for an LPN on a medical-surgical unit. Review the exhibit. Which client should the RN assign to the LPN?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Assignment sheet",
+      "table": {
+       "headers": [
+        "Client",
+        "Status at 0700"
+       ],
+       "rows": [
+        [
+         "A",
+         "COPD; SpO2 dropped from 92% to 86% over the past hour; increased work of breathing"
+        ],
+        [
+         "B",
+         "First unit of packed red blood cells started 10 minutes ago"
+        ],
+        [
+         "C",
+         "Postoperative day 2 hip arthroplasty; stable vital signs; needs scheduled oral analgesic and reinforcement of incentive spirometer use"
+        ],
+        [
+         "D",
+         "Admitted 1 hour ago in sickle cell crisis; pain 9/10; initial pain management plan pending"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Client A, with COPD and a falling oxygen saturation",
+    "Client B, who is receiving a first unit of blood",
+    "Client C, on day 2 after hip arthroplasty",
+    "Client D, newly admitted in sickle cell crisis"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. A falling SpO2 with increased work of breathing is an unstable, changing condition requiring RN assessment.",
+    "Incorrect. The first 15 minutes of a transfusion carry the highest risk of reaction and require RN monitoring and judgment.",
+    "Correct. A stable client with predictable needs—scheduled oral medication and reinforcement of previously taught teaching—fits LPN scope.",
+    "Incorrect. A new admission in crisis needs RN assessment and an initial plan of care."
+   ],
+   "rationale": "The RN assigns to the LPN clients who are stable with predictable outcomes and keeps clients with new, changing, or high-risk situations. The LPN can administer scheduled oral medications and reinforce teaching the RN has already done. The client receiving blood is tempting because LPNs may assist with some transfusion-related care in certain settings, but the early transfusion period requires RN assessment for reactions, and assignment rules remain the RN’s accountability.",
+   "takeaway": "Assign stable, predictable clients to the LPN; keep new admissions, early transfusions, and changing conditions with the RN.",
+   "hintContent": "Which client’s condition is least likely to change suddenly?",
+   "hintStrategy": "Sort clients into stable/predictable vs new/unstable/high-risk; the stable one goes to the LPN.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-028",
+   "topic": "accountability-practice",
+   "type": "sata",
+   "stem": "A nurse manager is using a Just Culture framework to review several medication events. Which pairings of event and response are consistent with Just Culture? Select all that apply.",
+   "options": [
+    "A nurse selects the wrong client from two look-alike names on a list — console the nurse and fix the system",
+    "A nurse routinely bypasses barcode scanning because it is slow — coach the nurse about the risk",
+    "A nurse comes to work intoxicated and gives medications — console the nurse as a human error",
+    "A nurse knowingly leaves a sedated client unmonitored after repeated warnings — apply disciplinary action",
+    "A nurse transposes digits while transcribing during a heavy workload — treat it as reckless behavior"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. An unintended slip in a confusing system is human error; the response is consoling and redesigning the system.",
+    "Correct. Drifting into an unsafe shortcut whose risk is not recognized is at-risk behavior; the response is coaching.",
+    "Incorrect. Working while intoxicated is a conscious disregard of substantial risk (and a conduct issue), not a human error.",
+    "Correct. Conscious disregard of a known, unjustifiable risk is reckless behavior, which warrants disciplinary action.",
+    "Incorrect. An unintended transcription slip is human error, not reckless behavior."
+   ],
+   "rationale": "Just Culture holds people accountable for their choices while recognizing that most errors arise from system weaknesses. Human error (slips and lapses) calls for consoling the person and fixing the system; at-risk behavior (unsafe shortcuts whose risk is underestimated) calls for coaching; reckless behavior (conscious disregard of substantial, unjustifiable risk) warrants discipline. Impairment on duty is not treated as a simple human error and is also a reportable conduct issue.",
+   "takeaway": "Just Culture: console human error, coach at-risk behavior, and sanction reckless behavior.",
+   "hintContent": "Classify each event by the person’s choice: unintended slip, risky drift, or conscious disregard.",
+   "hintStrategy": "For classification SATA, decide each pairing independently against the definitions.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m42-pro-029",
+   "topic": "accountability-practice",
+   "type": "mcq",
+   "stem": "A nurse plans to teach a client about newly prescribed warfarin before discharge. The client received IV morphine 20 minutes ago, is drowsy, and says, “Just leave the papers with me.” Which action by the nurse is best?",
+   "options": [
+    "Proceed with the full teaching and leave the written materials at the bedside.",
+    "Postpone teaching until the client is alert and ready to learn.",
+    "Ask the client to sign the form stating the teaching was completed.",
+    "Ask the LPN to complete the warfarin teaching after the next medication pass."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A drowsy client is not ready to learn, so the teaching is unlikely to be retained.",
+    "Correct. Assessing readiness to learn comes before teaching; the nurse reschedules and later confirms understanding with teach-back.",
+    "Incorrect. A signature documents an event, not learning; it would misrepresent what the client understands.",
+    "Incorrect. Initial teaching on a new high-risk medication is an RN responsibility; the LPN may reinforce it later."
+   ],
+   "rationale": "Accountability for teaching requires assessing a client’s learning needs, learning style, and readiness before teaching. Recent opioid administration and drowsiness signal that the client cannot absorb information about a high-alert medication. The nurse postpones teaching, plans a time when the client is alert (and, with consent, includes a support person), and evaluates learning with teach-back. Leaving written materials is tempting because it seems efficient, but it does not meet the standard for a new anticoagulant.",
+   "takeaway": "Assess readiness to learn before teaching; a drowsy, medicated client is not ready.",
+   "hintContent": "What must be true about the learner before teaching can succeed?",
+   "hintStrategy": "In teaching items, choose the option that addresses readiness and verifies learning; reject options that simply document or hand off.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-030",
+   "topic": "accountability-practice",
+   "type": "sata",
+   "stem": "A client on the first day after abdominal surgery rated pain 3/10 at 0800. At 1100, the client is splinting the incision and rates pain 7/10. Which actions are consistent with the nurse’s accountability for comfort? Select all that apply.",
+   "options": [
+    "Wait for the next scheduled shift assessment to reassess comfort",
+    "Assess pain location, quality, and the surgical site",
+    "Ask the nursing assistant to judge whether the analgesic was effective",
+    "Implement ordered analgesic and nonpharmacologic comfort measures",
+    "Document the pain rating, interventions, and the client’s response"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Once-per-shift assessment is a minimum; a change in comfort requires prompt reassessment.",
+    "Correct. A significant change in pain warrants a focused assessment of the pain and the incision.",
+    "Incorrect. Evaluating effectiveness requires nursing judgment and cannot be delegated to a nursing assistant.",
+    "Correct. The nurse provides effective interventions to restore comfort.",
+    "Correct. Documenting the comfort level and every intervention is part of comfort accountability."
+   ],
+   "rationale": "The comfort row of the matrix makes the nurse accountable for assessing comfort at least once per shift or more often as the condition requires, reporting deviations, intervening effectively, and documenting the comfort level and all interventions. A rise from 3/10 to 7/10 with splinting is a change that requires assessment (including the surgical site, to rule out a complication), intervention, reassessment, and documentation. Asking the NA to judge effectiveness is tempting for efficiency, but evaluation remains an RN function.",
+   "takeaway": "A change in comfort calls for prompt assessment, intervention, reassessment, and documentation—not waiting for the next routine check.",
+   "hintContent": "‘At least once per shift’ is a minimum, not a schedule to wait for.",
+   "hintStrategy": "In SATA, eliminate options that delay assessment or delegate evaluation.",
+   "ref": "Module 42 · Accountability · Bedside Practice · pp. 2704–2705, 2710",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+  },
+  {
+   "id": "m42-pro-031",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "An RN with 10 years of adult medical-surgical experience is floated to labor and delivery and told she will care for a laboring client receiving an oxytocin infusion. She has never worked in obstetrics. Which action by the nurse is most appropriate?",
+   "options": [
+    "Accept the assignment and ask the client to call if her contractions change.",
+    "Refuse to float and remain on her home unit for the rest of the shift.",
+    "Accept the assignment and review the oxytocin protocol during the shift.",
+    "Before report, tell the charge nurse about the gap and ask for a safe role."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Relying on the client to detect complications of oxytocin transfers the nurse’s monitoring responsibility to the client.",
+    "Incorrect. Flatly refusing ignores the staffing need and skips negotiating a role within her competence.",
+    "Incorrect. ‘Learning as she goes’ with a high-alert infusion is exactly the guessing the first rule of competence warns against.",
+    "Correct. She communicates her limitation before accepting the clients and negotiates a role within her competence."
+   ],
+   "rationale": "A nurse must self-assess competence and must not accept an independent assignment requiring specialized knowledge and skills she lacks. Oxytocin infusions require fetal heart rate and contraction monitoring skills a medical-surgical nurse has not been validated on. The accountable action is to tell the charge nurse before accepting report and negotiate tasks within her competence, a buddy role, or reassignment. Flat refusal is tempting because it protects the client from her inexperience, but negotiating a safe role protects the client while still meeting the unit’s need.",
+   "takeaway": "When floated beyond your competence, say so before accepting report and negotiate a safe role—don’t guess, and don’t just walk away.",
+   "hintContent": "Timing and communication matter: when and to whom should she raise the concern?",
+   "hintStrategy": "In floating items, the best answer usually names the competence gap to the person making assignments and proposes a safe alternative.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-032",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A nurse with 4 years of experience on a cardiac unit begins planning each client’s discharge needs at admission. She says, “When a heart failure client suddenly can’t lie flat, I go see them right away,” and she recognizes how individual findings fit together into a whole picture. Which of Benner’s stages best describes this nurse?",
+   "options": [
+    "Proficient",
+    "Competent",
+    "Expert",
+    "Advanced beginner"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Perceiving situations as wholes, using maxims, and focusing on long-term goals (about 3–5 years) define the proficient stage.",
+    "Incorrect. The competent nurse (about 2–3 years) plans deliberately and organizes well but does not yet perceive situations as wholes guided by maxims.",
+    "Incorrect. The expert no longer relies on maxims to connect understanding with action and acts intuitively.",
+    "Incorrect. The advanced beginner recognizes recurring aspects but needs help setting priorities."
+   ],
+   "rationale": "Benner’s proficient nurse, typically with about 3–5 years of experience, perceives situations as wholes, uses maxims (‘a heart failure client who suddenly can’t lie flat needs to be seen now’) as guides, and focuses on long-term goals such as discharge. The expert is the most tempting distractor because this nurse is clearly skilled, but experts no longer need maxims and act from deep intuitive grasp.",
+   "takeaway": "Maxims plus whole-picture perception and long-term goals = proficient; intuition without needing maxims = expert.",
+   "hintContent": "Notice the nurse’s use of a rule of thumb (a maxim).",
+   "hintStrategy": "Match the most distinctive behavior in the stem to the single stage that owns it.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-033",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A preceptor is planning the third week of orientation for a new graduate nurse. Which approach is most appropriate for the new graduate’s developmental stage?",
+   "options": [
+    "Assign the most unstable clients so the new graduate learns quickly.",
+    "Allow the new graduate to work independently and review at shift end.",
+    "Assign stable clients and help the new graduate set priorities.",
+    "Limit the new graduate to vital signs and hygiene for the first month."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. An advanced beginner is not ready to manage the most unstable clients and needs support with complex demands.",
+    "Incorrect. Independent practice without ongoing support is premature during orientation.",
+    "Correct. Advanced beginners recognize recurring aspects of care but need help prioritizing; stable assignments with coaching match that stage.",
+    "Incorrect. Restricting a licensed RN to assistive tasks does not develop RN competence or use the RN’s scope."
+   ],
+   "rationale": "In Benner’s model, the new graduate is an advanced beginner who shows marginally acceptable performance and recognizes meaningful recurring aspects of situations from limited experience. Such nurses need help setting priorities when demands compete. A preceptor builds competence by assigning stable clients and coaching prioritization, increasing complexity as skill grows. Throwing a new graduate into the most unstable assignment is tempting as ‘learning by doing,’ but it exceeds current competence and endangers clients.",
+   "takeaway": "Advanced beginners need stable assignments and coaching in prioritization, with complexity added as competence grows.",
+   "hintContent": "Which Benner stage is a new graduate, and what support does that stage need?",
+   "hintStrategy": "Match the plan to the learner’s stage; eliminate extremes that over- or under-challenge.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-034",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A nurse educator is evaluating new nurses’ understanding of the first rule of competence. Which statement by a new nurse indicates a need for further teaching?",
+   "options": [
+    "“I’ll ask my preceptor to help me the first time I access an implanted port.”",
+    "“I’m not sure this dose is right, but I think it is, so I’ll go ahead and give it.”",
+    "“This insulin infusion is high-alert, so I’ll ask for an independent double-check.”",
+    "“I haven’t used this pump before; would you help me program it correctly?”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Asking for help with a first-time procedure reflects the first rule of competence.",
+    "Correct. This statement needs correction: guessing when uncertain about a dose violates the first rule of competence—verify before giving.",
+    "Incorrect. Independent double-checks for high-alert medications are appropriate at every level of experience.",
+    "Incorrect. Acknowledging unfamiliarity with equipment and asking for help is safe practice."
+   ],
+   "rationale": "The first rule of competence is to ask for help whenever there is any uncertainty about the safety of an action. Saying “I don’t know” or “Would you help me?” is safer and more honorable than “I’m not sure, but I think this is right” or “I’ll figure it out as I go.” The double-check statement might look like unnecessary caution, but independent double-checks for high-alert drugs are expected of nurses at every stage.",
+   "takeaway": "When unsure about safety, stop and ask—never give a medication you are not sure is right.",
+   "hintContent": "Which nurse is guessing instead of verifying?",
+   "hintStrategy": "In ‘needs further teaching’ items about safety, select the statement that proceeds despite uncertainty.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Nursing Interventions",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-035",
+   "topic": "competence",
+   "type": "sata",
+   "stem": "A charge nurse is discussing emotional intelligence (EI) during a staff meeting. Which nurse behaviors demonstrate EI? Select all that apply.",
+   "options": [
+    "Recognizing that frustration with a demanding client is delaying her response to the call light",
+    "Pausing to regain composure before responding to an angry family member",
+    "Avoiding a provider who was rude earlier instead of reporting a new abnormal finding",
+    "Asking a colleague for an objective opinion when she feels strongly about a case",
+    "Concluding that a client who calls often is “just anxious” without assessing new symptoms"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Noticing that an emotion is influencing a clinical decision is the core of EI.",
+    "Correct. Self-regulation before responding supports professional, therapeutic communication.",
+    "Incorrect. Allowing discomfort to delay escalation of an abnormal finding is a failure of EI that endangers the client.",
+    "Correct. Seeking an outside perspective when emotions run high protects objective judgment.",
+    "Incorrect. Labeling a client based on frustration lets emotion replace assessment."
+   ],
+   "rationale": "Emotional intelligence is the ability to recognize, through emotional appraisal, when personal emotions rather than objective knowledge are influencing clinical decisions. EI supports problem solving and strengthens relationships with clients and colleagues. Behaviors that notice an emotion, regulate it, or check it against others’ perspectives demonstrate EI; behaviors that let fear or frustration override assessment or escalation do not.",
+   "takeaway": "Emotional intelligence means noticing when feelings are steering your decisions and correcting course toward objective data.",
+   "hintContent": "For each behavior, ask: is the nurse managing the emotion, or is the emotion managing the nurse?",
+   "hintStrategy": "Judge each SATA option on its own against the definition; don’t look for a pattern.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity"
+  },
+  {
+   "id": "m42-pro-036",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A client has used the call light 10 times this shift for minor requests. The client now calls and reports “a heavy pressure” in the chest. The nurse thinks, “He’s just anxious again.” Which action should the nurse take first?",
+   "options": [
+    "Assess the client’s chest pressure and vital signs at the bedside.",
+    "Remind the client that he was checked on just 15 minutes ago.",
+    "Ask the nursing assistant to check on the client and report back.",
+    "Give the PRN anxiolytic that is ordered for the client’s anxiety."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. New chest pressure is a potential emergency that requires immediate RN assessment regardless of the client’s prior behavior.",
+    "Incorrect. This dismisses a new and potentially life-threatening symptom.",
+    "Incorrect. A nursing assistant cannot assess chest pain; this is RN work.",
+    "Incorrect. Treating the symptom as anxiety before assessment could mask an acute coronary event."
+   ],
+   "rationale": "Problem solving requires self-awareness and emotional intelligence so that emotion does not override objective clinical judgment. The nurse’s frustration is creating an anchoring bias; new chest pressure must be assessed immediately (vital signs, symptom characteristics, and an ECG per protocol), and the provider notified. Giving the anxiolytic is tempting because it is ordered and matches the nurse’s assumption, but it treats an unverified cause and could mask cardiac ischemia.",
+   "takeaway": "A new symptom gets an objective assessment, no matter how often the client has called before.",
+   "hintContent": "Is ‘chest pressure’ a new symptom or the same as earlier requests?",
+   "hintStrategy": "When a stem shows the nurse’s bias, choose the option that relies on assessment data rather than the assumption.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-037",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A nurse has just finished a 12-hour shift and is asked to stay for another 8 hours. Earlier she nearly scanned the wrong client’s wristband, and she has been awake for 20 hours. Which response by the nurse is most appropriate?",
+   "options": [
+    "“I’ll stay, but I’ll drink some coffee and double-check everything.”",
+    "“I’ll stay if you give me the least acutely ill clients on the unit.”",
+    "“I’ll stay four hours and then leave whether or not relief has arrived.”",
+    "“I’m too fatigued to practice safely, but I can help find coverage.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Caffeine and extra checks do not reverse the impaired judgment caused by severe fatigue.",
+    "Incorrect. Even ‘easy’ clients can deteriorate, and a fatigued nurse may miss the change.",
+    "Incorrect. Leaving accepted clients without a proper handoff could constitute abandonment.",
+    "Correct. Monitoring her own physical well-being and declining work she cannot do safely is part of competence and ethical practice."
+   ],
+   "rationale": "Ethical reasoning and competence include monitoring one’s own physical and emotional well-being, because working while compromised endangers clients. A recent near miss after 20 hours awake is a clear warning that her judgment is impaired. The accountable response is to decline the extra shift honestly while helping solve the staffing problem. Staying with a lighter assignment is tempting because it seems like a compromise, but fatigue impairs recognition of deterioration in any client.",
+   "takeaway": "Fitness for duty is part of competence: decline extra work you cannot perform safely and help find a safe alternative.",
+   "hintContent": "What did the near miss reveal about her current state?",
+   "hintStrategy": "Eliminate compromise options that still place a compromised nurse in charge of clients.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-038",
+   "topic": "competence",
+   "type": "sata",
+   "stem": "A float nurse accepted report on four clients on an unfamiliar unit. Two hours later, she realizes that one client needs tracheostomy suctioning and care, which she has never performed. Which actions are appropriate? Select all that apply.",
+   "options": [
+    "Notify the charge nurse that she has not been validated on tracheostomy care",
+    "Ask a competent nurse to perform the care or supervise her doing it",
+    "Return to her home unit because she is not competent for this unit",
+    "Continue monitoring the client’s respiratory status until help arrives",
+    "Watch an online video and then perform the tracheostomy care alone"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Communicating the competence gap to the person responsible for assignments is the first rule of competence in action.",
+    "Correct. Having a competent nurse perform or directly supervise the skill protects the client.",
+    "Incorrect. Leaving clients she has accepted without a proper handoff could be patient abandonment.",
+    "Correct. She remains responsible for the clients she accepted and must keep monitoring the airway while help comes.",
+    "Incorrect. A video does not validate competence for an airway procedure; attempting it alone is guessing."
+   ],
+   "rationale": "Once a nurse accepts an assignment, she remains responsible for those clients and must not leave without a proper handoff. When she identifies a specific skill she cannot perform safely, she tells the charge nurse, arranges for a competent nurse to perform or supervise the skill, and keeps monitoring the client in the meantime. Learning from a video is tempting because it shows initiative, but watching a procedure does not establish competence for an airway intervention.",
+   "takeaway": "After accepting an assignment, address a skill gap by asking for help and keeping the client safe—never by leaving or guessing.",
+   "hintContent": "She has already accepted the clients; what does that change?",
+   "hintStrategy": "In competence SATA, select actions that disclose the limit, bring in competent help, and keep monitoring; reject leaving and self-teaching.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m42-pro-039",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A client who speaks Vietnamese and limited English is about to have the provider explain the risks of a scheduled procedure. The client’s 14-year-old granddaughter offers to interpret. Which action by the nurse is most appropriate?",
+   "options": [
+    "Accept the granddaughter’s offer because the client trusts her.",
+    "Arrange for a qualified medical interpreter for the discussion.",
+    "Use gestures and simple English words to explain the procedure.",
+    "Ask a bilingual staff member from housekeeping to interpret."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A minor family member may interpret inaccurately, omit information, and is placed in an inappropriate role.",
+    "Correct. A qualified medical interpreter ensures accurate communication of risks and protects the client’s right to informed decisions.",
+    "Incorrect. Gestures and simple words cannot convey the risks and alternatives needed for informed consent.",
+    "Incorrect. Untrained bilingual staff may lack medical vocabulary and interpreter training, which risks errors and privacy breaches."
+   ],
+   "rationale": "Cultural competence includes strong listening skills, advocacy for the client, and ensuring communication supports informed decisions. Language barriers contribute to health disparities, so a qualified medical interpreter (in person, video, or phone) is used for health information and consent discussions. The granddaughter is the most tempting option because the client trusts her, but family members—especially minors—can misinterpret or filter information and should not interpret clinical content.",
+   "takeaway": "Use a qualified medical interpreter for health information and consent—not family members, minors, or untrained staff.",
+   "hintContent": "Who can guarantee accurate medical interpretation?",
+   "hintStrategy": "In diversity items, choose the option that ensures accurate communication and client rights over convenience.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-040",
+   "topic": "competence",
+   "type": "sata",
+   "stem": "A month after cultural competence training, a nurse educator observes staff nurses on the unit. Which observed actions indicate the training was effective? Select all that apply.",
+   "options": [
+    "A nurse reflects on how her own beliefs about expressing pain may affect her pain assessments",
+    "A nurse asks a client which family members the client wants included in care decisions",
+    "A nurse plans a client’s meals from what most people of the client’s ethnic group usually eat",
+    "A nurse tells the team a client declines blood for religious reasons and asks about alternatives",
+    "A nurse arranges follow-up with a community clinic that serves the client’s language group",
+    "A nurse tells a client to stop a traditional herbal remedy without asking what it contains"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Recognizing one’s own values and beliefs and how they affect care is a core element of cultural competence.",
+    "Correct. Listening and learning the client’s own rites, traditions, and decision-making preferences—by asking rather than assuming—is a core element.",
+    "Incorrect. Predicting an individual’s preferences from group membership is stereotyping; the nurse asks the client about food preferences and restrictions.",
+    "Correct. Advocating for the client’s wishes when a treatment conflicts with cultural or religious values is a core element.",
+    "Correct. Identifying community resources for follow-up care helps prevent recurrence and readmission.",
+    "Incorrect. The nurse should ask about the remedy, check it for interactions with the pharmacist or provider, and discuss it respectfully rather than dismissing it."
+   ],
+   "rationale": "The four core elements of cultural competence training are recognizing one’s own values and beliefs, developing listening skills and understanding cultural rites and traditions, advocating for clients’ wishes when treatments conflict with cultural values, and identifying community resources for follow-up care. Effective training shows up as behavior: self-reflection, asking the individual, advocating, and connecting to resources. Planning meals from ethnic group norms is tempting because it sounds culturally informed, but it is stereotyping. Dismissing a traditional remedy without asking ignores both the client’s values and a possible safety issue (drug–herb interactions).",
+   "takeaway": "Cultural competence shows up as behavior: know yourself, ask and listen, advocate, and connect to community resources, without assuming from group membership.",
+   "hintContent": "Match each behavior to one of the four core elements of cultural competence training.",
+   "hintStrategy": "Eliminate options that assume from group membership or dismiss the client’s practices without asking.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity"
+  },
+  {
+   "id": "m42-pro-041",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "An experienced nurse preparing a continuous heparin infusion tells a new graduate, “You don’t need to double-check me—I’ve done hundreds of these.” Unit policy requires an independent double-check. Which response by the new graduate is best?",
+   "options": [
+    "“Okay, you’re the expert; I’ll sign that the check was completed.”",
+    "“I’ll sign now, and we can review the pump settings together later.”",
+    "“Policy requires an independent check, so let’s verify it together now.”",
+    "“I’ll ask the charge nurse whether you really need a double-check on this.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Signing for a check that did not happen is falsification and removes a safeguard for a high-alert drug.",
+    "Incorrect. A check performed after the infusion starts cannot prevent a programming error.",
+    "Correct. Even experts must double-check high-risk actions; the new graduate respectfully insists on the required independent check before the infusion begins.",
+    "Incorrect. Policy already answers the question; delaying to ask the charge nurse avoids the responsibility to speak up."
+   ],
+   "rationale": "The safety alert states that even expert nurses continue double-checking high-risk actions such as medication doses. Heparin is a high-alert medication, and an independent double-check before the infusion starts is a system safeguard, not a judgment of skill. The new graduate should respectfully but clearly require the check now. Asking the charge nurse is tempting for a new nurse uncomfortable confronting an expert, but the policy is clear and the infusion should not start until the check is done.",
+   "takeaway": "Expertise never removes the need for an independent double-check of a high-alert medication.",
+   "hintContent": "What does the safety alert say about experts and high-risk actions?",
+   "hintStrategy": "In speaking-up items, choose the respectful, direct statement that preserves the safeguard before harm can occur.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-042",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "At 0900, a nurse prepares a client’s scheduled oral antihypertensive. The client’s blood pressure is 88/52 mm Hg, and the client reports dizziness when sitting up. Which action by the nurse best demonstrates critical thinking?",
+   "options": [
+    "Give the scheduled dose on time because it is an active order.",
+    "Give half the dose to lower the risk of further hypotension.",
+    "Give the dose and recheck the blood pressure in 1 hour.",
+    "Hold the dose, reassess the client, and notify the provider."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Giving a medication on schedule without considering the client’s current condition is task completion, not critical thinking.",
+    "Incorrect. Changing the dose independently is outside nursing scope.",
+    "Incorrect. Giving an antihypertensive to a hypotensive, dizzy client could worsen hypotension and cause a fall.",
+    "Correct. Critical thinkers inquire and investigate before acting; holding, reassessing, and notifying the provider fits the data."
+   ],
+   "rationale": "Critical thinking means inquiring and investigating before acting and relying on evidence rather than routine. Hypotension with dizziness makes the scheduled antihypertensive unsafe now, so the nurse holds it, reassesses (including orthostatic risk and fall precautions), and notifies the provider. Giving half the dose is tempting because it seems like a cautious middle ground, but it is an independent dose change that the nurse cannot make without an order.",
+   "takeaway": "Critical thinking asks whether an ordered action still makes sense for this client right now before carrying it out.",
+   "hintContent": "Compare the medication’s effect with the client’s current blood pressure.",
+   "hintStrategy": "Eliminate options that give the drug as usual or alter the dose on your own; choose hold-reassess-notify when data make a dose unsafe.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [
+    "accountability-foundations"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "difficulty": 1,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-043",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "An expert nurse tells the charge nurse, “Something isn’t right with Mr. Jensen,” although each of his vital signs is still within normal limits. Review the exhibit. Which action should the charge nurse take first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Vital signs",
+      "table": {
+       "headers": [
+        "Time",
+        "HR (/min)",
+        "RR (/min)",
+        "BP (mm Hg)",
+        "Temp (°C)",
+        "Notes"
+       ],
+       "rows": [
+        [
+         "0800",
+         "82",
+         "16",
+         "132/78",
+         "37.0",
+         "Alert, oriented"
+        ],
+        [
+         "1000",
+         "90",
+         "18",
+         "126/74",
+         "37.3",
+         "Alert"
+        ],
+        [
+         "1200",
+         "98",
+         "20",
+         "118/70",
+         "37.6",
+         "Restless, picking at sheets"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Perform a focused assessment of mental status, perfusion, and trends.",
+    "Document the concern and recheck vital signs at the next scheduled round.",
+    "Reassure the nurse that all vital signs remain within normal limits.",
+    "Ask the provider to order a sedative for the client’s new restlessness."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The expert’s intuition plus a worsening trend and new restlessness are cues to assess immediately and escalate according to findings.",
+    "Incorrect. Waiting for the next round ignores a deteriorating trend and a new mental status change.",
+    "Incorrect. Normal individual values can hide a dangerous trend; dismissing the expert’s concern delays recognition.",
+    "Incorrect. Sedating restlessness before identifying its cause could mask hypoxia or sepsis."
+   ],
+   "rationale": "Benner’s expert nurse uses intuitive and analytic ability—‘it felt right’—and her concern is a valid cue to investigate. The trend shows rising heart rate, respiratory rate, and temperature with falling blood pressure and new restlessness, a pattern that can signal early sepsis or other deterioration. The first action is a focused assessment (mental status, perfusion, SpO2, and trends), followed by escalation such as notifying the provider or calling a rapid response. Reassurance is tempting because each value is technically normal, but competence means looking at trends and taking expert concern seriously.",
+   "takeaway": "Take an expert’s ‘something isn’t right’ seriously: look at trends and assess promptly, even when single values are normal.",
+   "hintContent": "Look across the rows, not just at each value.",
+   "hintStrategy": "When an exhibit shows trends, evaluate the direction of change; assessment comes before sedation or reassurance.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [
+    "accountability-practice"
+   ],
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "priority": true
+  },
+  {
+   "id": "m42-pro-044",
+   "topic": "competence",
+   "type": "mcq",
+   "stem": "A nurse with 6 years of medical-surgical experience transfers to an outpatient dialysis unit and asks how to build competence in the new specialty. Which plan is most appropriate?",
+   "options": [
+    "Rely on her medical-surgical experience and learn on the job without orientation.",
+    "Complete a supervised orientation with a preceptor and competency validation.",
+    "Read journal articles at home and take a full client assignment next week.",
+    "Attend one dialysis workshop and then help orient other new staff members."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Experience in one specialty does not transfer automatically; a new specialty requires orientation.",
+    "Correct. Supervised orientation with a preceptor and validated competencies is how a nurse safely builds competence in a new specialty.",
+    "Incorrect. Reading is useful but does not validate hands-on dialysis skills before an independent assignment.",
+    "Incorrect. A single workshop does not establish the competence needed to practice or to teach others."
+   ],
+   "rationale": "Competence is setting-specific; an experienced nurse entering a new specialty may function at an earlier Benner stage there. Strategies for strengthening competence include continuing education, workshops, peer-reviewed literature, mentorship or preceptorship, and supervised clinical orientation, with competency validation before independent practice. Reading journal articles is tempting because it is a legitimate strategy, but it is not sufficient on its own before taking a full independent assignment.",
+   "takeaway": "Changing specialties requires supervised orientation and validated competencies before independent practice.",
+   "hintContent": "Is competence transferable across specialties?",
+   "hintStrategy": "Choose the option that combines learning with supervised practice and validation.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m42-pro-045",
+   "topic": "competence",
+   "type": "sata",
+   "stem": "A nurse manager is completing the annual evaluation of a nurse who has worked on the same medical intensive care unit for 15 years. Which observed behaviors are consistent with Benner’s expert stage (Stage V)? Select all that apply.",
+   "options": [
+    "Senses that a client is deteriorating before vital signs change and acts on it promptly",
+    "Needs the written procedure to decide what to do in most routine care situations",
+    "Requests an independent double-check before starting an insulin infusion",
+    "Switches to deliberate, step-by-step analysis when a presentation is unfamiliar",
+    "States she no longer needs to consult colleagues when she is uncertain",
+    "Relies on maxims such as “new confusion means check oxygenation” to guide actions"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Experts act from a deep intuitive grasp of the whole situation, with fluid, flexible performance (“it felt right”), and confirm it with assessment.",
+    "Incorrect. Needing context-free rules to guide routine actions characterizes the novice.",
+    "Correct. Expert vigilance means continuing to double-check high-risk actions such as high-alert medication doses.",
+    "Correct. Experts combine highly skilled intuitive and analytic ability, using analysis when a situation is unfamiliar.",
+    "Incorrect. The first rule of competence—ask for help whenever there is uncertainty about safety—applies at every level of proficiency.",
+    "Incorrect. Using maxims as guides characterizes the proficient stage; experts no longer rely on rules, guidelines, or maxims to connect understanding to action."
+   ],
+   "rationale": "Benner’s expert performs fluidly and flexibly, no longer relying on rules, guidelines, or maxims to connect understanding with action, and uses highly skilled intuitive and analytic ability. Expertise does not exempt the nurse from safety practices: experts still double-check high-risk actions and still ask for help whenever they are uncertain. The maxim option is the most tempting distractor because it sounds experienced, but guidance by maxims is the hallmark of the proficient nurse; the claim that she no longer needs help violates the first rule of competence.",
+   "takeaway": "Experts act intuitively and analytically without needing maxims—but still double-check high-risk actions and ask for help when uncertain.",
+   "hintContent": "Separate expert behavior from novice (rules) and proficient (maxims), then remember the safety alert.",
+   "hintStrategy": "For each behavior, ask which Benner stage it belongs to; also eliminate anything that drops a safety practice.",
+   "ref": "Module 42 · Accountability · Competence (42.A) · pp. 2710–2712",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  }
+ ]
+}

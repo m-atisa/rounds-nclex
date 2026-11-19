@@ -1,10 +1,40 @@
 import { describe, expect, it } from 'vitest';
 import { CJMM_STEPS, FOCUS_AREAS, formatOf } from './types';
-import { MODULES, QUESTIONS, UNIT_6, UNIT_6_MODULES } from './index';
+import { MODULES, QUESTIONS, UNITS, UNIT_6, UNIT_6_MODULES, UNIT_BY_SLUG, unitModules } from './index';
 
 describe('content integrity', () => {
   it('loads all modules', () => {
-    expect(MODULES.map((m) => m.number)).toEqual([5, 6, 7, 10, 15, 16, 21, 23, 29, 38, 41]);
+    expect(MODULES.map((m) => m.number)).toEqual([5, 6, 7, 10, 15, 16, 21, 23, 29, 37, 38, 39, 41, 42, 43, 44, 45, 46, 47, 49, 50]);
+  });
+
+  it('assigns every module to exactly one unit', () => {
+    const ids = UNITS.flatMap((u) => u.moduleIds);
+    expect(new Set(ids).size).toBe(ids.length);
+    expect([...ids].sort()).toEqual(MODULES.map((m) => m.id).sort());
+  });
+
+  it('has complete, NCLEX-style Professional Nursing Concepts modules', () => {
+    const pro = unitModules(UNIT_BY_SLUG.professional);
+    expect(pro.map((m) => m.number)).toEqual([37, 39, 42, 43, 44, 45, 46, 47, 49, 50]);
+    for (const m of pro) {
+      expect(new Set(m.questions.map(formatOf)), m.id).toEqual(new Set(['priority', 'single', 'sata']));
+      expect(new Set(m.questions.map((q) => q.cjmm)), m.id).toEqual(new Set(CJMM_STEPS));
+      for (const t of m.topics) {
+        const words = JSON.stringify(t).replace(/<[^>]+>/g, ' ').split(/\s+/).length;
+        expect(words, `${m.id}/${t.id} words`).toBeGreaterThan(2200);
+        expect(m.questions.filter((q) => q.topic === t.id).length, `${m.id}/${t.id} questions`).toBeGreaterThanOrEqual(12);
+        expect(m.flashcards.filter((c) => c.topic === t.id).length, `${m.id}/${t.id} cards`).toBeGreaterThanOrEqual(8);
+        const heads = t.sections?.map((s) => s.heading ?? '') ?? [];
+        expect(heads, `${m.id}/${t.id}`).toContain('Course source & clinical clarification');
+        expect(heads.some((h) => h.startsWith('How the NCLEX tests this')), `${m.id}/${t.id} NCLEX walkthrough`).toBe(true);
+        expect(heads.some((h) => h.startsWith('Worked case')), `${m.id}/${t.id} worked case`).toBe(true);
+      }
+      for (const q of m.questions) {
+        if (q.type !== 'mcq' && q.type !== 'sata') throw new Error(`Unsupported format: ${q.id}`);
+        expect(q.optionRationales?.length, q.id).toBe(q.options.length);
+        expect(q.ref, q.id).toMatch(new RegExp(`^Module ${m.number} · `));
+      }
+    }
   });
 
   it('keeps Unit 6 distinct from Module 6 and complete across all study modes', () => {

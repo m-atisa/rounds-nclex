@@ -40,7 +40,7 @@ window.NURSE_DATA.push({
     "Correct. A sound right after S2 is an S3 (ventricular gallop). In an adult with heart failure it means blood is rushing into an already volume-overloaded ventricle.",
     "Correct. Neck veins should be flat at 30–45°. Pulsation more than about 3–4 cm above the sternal angle is JVD, which shows blood backing up from the right heart into the systemic veins.",
     "Correct. Crackles and orthopnea show left-sided failure: the left ventricle can't keep up, so fluid backs up into the pulmonary circulation.",
-    "Incorrect. 2+ equal pulses are normal volume and bilateral equality; this does not indicate fluid overload (bounding 4+ pulses would).",
+    "Incorrect. Equal 2+ pulses show normal arterial pulse volume and symmetry; pulses reflect arterial flow, not fluid backing up into the veins.",
     "Incorrect. A split S2 that appears only with inspiration is a normal physiologic finding.",
     "Correct. Dependent pitting edema shows fluid backing up into the body's veins (right-sided failure), made worse by the missed diuretic and high sodium intake."
    ],
@@ -787,7 +787,7 @@ window.NURSE_DATA.push({
    "answer": [
     0,
     1,
-    2
+    4
    ],
    "optionRationales": [
     "Correct. A gain of about 1 kg (2–3 lb) in a day is fluid, not fat, and is an early sign of worsening heart failure; 1.5 kg overnight exceeds that threshold.",

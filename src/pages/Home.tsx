@@ -1,8 +1,9 @@
 import { motion } from 'motion/react';
 import { useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { MODULES, QUESTIONS, UNIT_6 } from '../data';
-import { Unit6Overview } from '../components/Unit6Overview';
+import { QUESTIONS, UNITS, isNewModule, unitModules } from '../data';
+import { NewBadge, UnitOverview } from '../components/UnitOverview';
+import { cx } from '../lib/util';
 import { Icon, type IconName } from '../components/Icon';
 import { CountUp, Ring, stagger } from '../components/ui';
 import { emptyFilters, matchQuestions, recommendations, recordsFromAttempts, smartPick, statusOf, streak } from '../lib/analytics';
@@ -187,7 +188,9 @@ export function Home() {
         </motion.section>
       )}
 
-      <Unit6Overview />
+      {UNITS.filter((u) => u.slug !== 'core').map((u) => (
+        <UnitOverview key={u.slug} unit={u} />
+      ))}
       <section className="section">
         <div className="section-head">
           <div>
@@ -198,39 +201,46 @@ export function Home() {
             All study guides <Icon name="arrowRight" />
           </Link>
         </div>
-        <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" whileInView="show" viewport={{ once: true, margin: '-60px' }}>
-          {MODULES.map((m) => {
-            const mm = m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
-            const seen = m.questions.filter((q) => statusOf(attempts, q.id) !== 'new').length;
-            const pct = mm / Math.max(1, m.questions.length);
-            return (
-              <motion.div key={m.id} variants={stagger.item}>
-                <Link to={`/learn/${m.id}`} className="card card-link module-card spot" style={{ ['--mc' as string]: m.color }}>
-                  <div className="module-card-top">
-                    <ModuleGlyph icon={m.icon} />
-                    <Ring value={pct} color={m.color} size={48} stroke={8}>
-                      {Math.round(pct * 100)}
-                    </Ring>
-                  </div>
-                  <div className="module-num">{UNIT_6.moduleIds.includes(m.id) ? 'UNIT 6 · ' : ''}MODULE {m.number}</div>
-                  <h3>{m.title}</h3>
-                  <p>{m.tagline}</p>
-                  <div className="module-meta">
-                    <span>
-                      <b>{m.topics.length}</b> topics
-                    </span>
-                    <span>
-                      <b>{m.questions.length}</b> questions
-                    </span>
-                    <span>
-                      <b>{seen}</b> attempted
-                    </span>
-                  </div>
-                </Link>
-              </motion.div>
-            );
-          })}
-        </motion.div>
+        {UNITS.map((u) => (
+          <div key={u.slug} className="curriculum-group">
+            <h3 className="curriculum-title">
+              {u.title} {u.isNew && <NewBadge />}
+            </h3>
+            <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" whileInView="show" viewport={{ once: true, margin: '-60px' }}>
+              {unitModules(u).map((m) => {
+                const mm = m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
+                const seen = m.questions.filter((q) => statusOf(attempts, q.id) !== 'new').length;
+                const pct = mm / Math.max(1, m.questions.length);
+                return (
+                  <motion.div key={m.id} variants={stagger.item}>
+                    <Link to={`/learn/${m.id}`} className={cx('card card-link module-card spot', isNewModule(m.id) && 'is-new')} style={{ ['--mc' as string]: m.color }}>
+                      <div className="module-card-top">
+                        <ModuleGlyph icon={m.icon} />
+                        <Ring value={pct} color={m.color} size={48} stroke={8}>
+                          {Math.round(pct * 100)}
+                        </Ring>
+                      </div>
+                      <div className="module-num">MODULE {m.number}{isNewModule(m.id) && <> · <span className="new-inline">NEW</span></>}</div>
+                      <h3>{m.title}</h3>
+                      <p>{m.tagline}</p>
+                      <div className="module-meta">
+                        <span>
+                          <b>{m.topics.length}</b> topics
+                        </span>
+                        <span>
+                          <b>{m.questions.length}</b> questions
+                        </span>
+                        <span>
+                          <b>{seen}</b> attempted
+                        </span>
+                      </div>
+                    </Link>
+                  </motion.div>
+                );
+              })}
+            </motion.div>
+          </div>
+        ))}
       </section>
 
       <motion.section className="section card quote" initial={{ opacity: 0, y: 14 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>

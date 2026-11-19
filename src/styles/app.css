@@ -960,3 +960,33 @@ main { outline: none; padding: 1.75rem 0 7rem; min-height: 70vh; }
 .q-type.is-priority { color: var(--bad); background: var(--bad-soft); padding: .15rem .45rem; border-radius: .35rem; }
 .also-tests { display: inline-flex; align-items: center; gap: .35rem; flex-basis: 100%; font-size: .74rem; color: var(--ink-3); }
 .also-tests svg { width: .85rem; height: .85rem; color: var(--mc, var(--brand)); }
+
+/* ---------- New-content highlight & unit grouping ---------- */
+:root { --new: #c2410c; }
+:root[data-theme="dark"] { --new: #fb923c; }
+.new-badge { display: inline-flex; align-items: center; gap: .25rem; padding: .18rem .5rem; border-radius: 999px; font: 600 .64rem/1.2 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--new); background: color-mix(in srgb, var(--new) 11%, var(--surface)); border: 1px solid color-mix(in srgb, var(--new) 28%, transparent); vertical-align: middle; white-space: nowrap; }
+.new-badge svg { width: .72rem; height: .72rem; }
+.card.is-new > .new-badge { position: absolute; top: .9rem; right: .9rem; z-index: 1; }
+.module-card-top + .module-num .new-inline, .new-inline { color: var(--new); font-weight: 650; }
+.card.is-new { border-color: color-mix(in srgb, var(--new) 38%, var(--line)); background: linear-gradient(160deg, color-mix(in srgb, var(--new) 5%, var(--surface)), var(--surface) 55%); box-shadow: var(--shadow-1), 0 0 0 1px color-mix(in srgb, var(--new) 10%, transparent); }
+.card.is-new:hover { border-color: color-mix(in srgb, var(--new) 55%, var(--line-2)); }
+.unit-overview.is-new { padding-top: 2.6rem; }
+.unit-overview.is-new > .new-badge { left: 1.5rem; right: auto; top: 1rem; }
+.chip-new { font: 600 .58rem/1 var(--font-mono); letter-spacing: .06em; text-transform: uppercase; padding: .16rem .32rem; border-radius: .3rem; color: var(--new); background: color-mix(in srgb, var(--new) 12%, transparent); }
+.chip[aria-pressed="true"] .chip-new { color: inherit; background: color-mix(in srgb, var(--bg) 18%, transparent); }
+.side-module.is-new .side-module-name { color: var(--ink); }
+.side-module.is-new .side-dot { box-shadow: 0 0 0 3px color-mix(in srgb, var(--new) 35%, transparent); }
+.side-unit { display: flex; flex-direction: column; gap: 1px; margin-top: .35rem; }
+.side-unit-link { font-weight: 550; }
+.side-unit-link .chip-new { margin-left: auto; }
+.unit-section + .unit-section { margin-top: 2.25rem; }
+.is-new-section .section-head h2::after { content: "New"; margin-left: .6rem; vertical-align: middle; font: 600 .62rem/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; padding: .22rem .45rem; border-radius: 999px; color: var(--new); background: color-mix(in srgb, var(--new) 11%, var(--surface)); border: 1px solid color-mix(in srgb, var(--new) 28%, transparent); }
+.curriculum-group + .curriculum-group { margin-top: 1.75rem; }
+.curriculum-title { display: flex; align-items: center; gap: .6rem; font-size: 1rem; margin: 0 0 .85rem; color: var(--ink-2); }
+.unit-chips + .unit-chips { margin-top: 1rem; }
+.unit-chips-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: .5rem; }
+.link-btn { background: none; border: 0; padding: 0; font-family: inherit; font-size: .78rem; font-weight: 500; color: var(--brand); cursor: pointer; }
+.link-btn:hover { text-decoration: underline; }
+.how-to-study ol { margin: .75rem 0 0; padding-left: 1.2rem; display: grid; gap: .45rem; color: var(--ink-2); }
+.how-to-study b { color: var(--ink); }
+.module-card > p { display: -webkit-box; -webkit-line-clamp: 4; line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }

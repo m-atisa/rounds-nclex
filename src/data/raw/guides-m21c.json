@@ -597,7 +597,8 @@
      "bullets": [
       "Stage by the <strong>deepest</strong> tissue you can see or feel — not the average appearance.",
       "Slough and eschar tell you how to TREAT the wound (see the RYB lesson); the deepest tissue tells you the STAGE.",
-      "Blanchable redness that fades after turning is <strong>not</strong> a pressure injury."
+      "Blanchable redness that fades after turning is <strong>not</strong> a pressure injury.",
+      "Two categories beyond the four stages: if slough or eschar <strong>covers the wound base</strong> so you cannot see the deepest tissue, document the wound as <strong>unstageable</strong> (do not guess a stage until the base can be seen). An intact area of <strong>persistent deep red, maroon, or purple</strong> discoloration, or a <strong>blood-filled blister</strong>, is a <strong>deep tissue pressure injury</strong> (damage starting near the bone), not Stage I or II. Report both."
      ],
      "example": "<strong>At the bedside:</strong> Four long-term care residents: (1) full-thickness hip wound with visible yellow fat, no muscle or bone → <strong>Stage III</strong>; (2) intact sacral skin with red area that does not blanch → <strong>Stage I</strong>; (3) shallow, moist pink wound on the elbow, no fat → <strong>Stage II</strong>; (4) deep ischial wound with exposed muscle → <strong>Stage IV</strong>."
     }
@@ -820,7 +821,7 @@
      "heading": "Implementation: protecting skin integrity",
      "body": "<p>The implementation slide on skin integrity lists the core bedside actions. You already met most of them in the prevention lesson; here they are as part of the plan:</p>",
      "bullets": [
-      "<strong>Daily skin inspection</strong>, focusing on bony areas (more often for high-risk clients).",
+      "<strong>Skin inspection at least daily</strong>, focusing on bony areas (more often for high-risk clients; the prevention lesson's hospital standard is twice daily).",
       "<strong>Gentle cleansing</strong> with mild agents; <strong>avoid hot water</strong>.",
       "<strong>Moisturize dry skin.</strong>",
       "<strong>Manage moisture</strong> from incontinence, sweat, and wound drainage (prompt cleansing, barrier cream).",
@@ -974,7 +975,7 @@
     },
     {
      "heading": "Black — DEBRIDE",
-     "body": "<p><strong>What it looks like:</strong> a <strong>thick, dry, hard, leathery</strong> patch that is <strong>black or dark brown</strong>, like a thick scab or a piece of burnt leather. This is <strong>eschar</strong> — dead tissue that has dried out. It may be firmly stuck to the wound bed with edges lifting at the sides.</p><p><strong>Goal: DEBRIDE.</strong> Eschar must be removed for healing to occur. The slide adds an important note: <strong>nurses can debride, but with limitations</strong> — some methods are nursing actions (with a prescription), and some are performed by a surgeon.</p>",
+     "body": "<p><strong>What it looks like:</strong> a <strong>thick, dry, hard, leathery</strong> patch that is <strong>black or dark brown</strong>, like a thick scab or a piece of burnt leather. This is <strong>eschar</strong> — dead tissue that has dried out. It may be firmly stuck to the wound bed with edges lifting at the sides.</p><p><strong>Goal: DEBRIDE.</strong> Eschar must be removed for healing to occur. <strong>One important exception:</strong> <strong>stable eschar on the heels</strong> (dry, firmly attached, intact, with no redness, swelling, bogginess, or drainage around it) works as the body's natural cover and is usually <strong>left in place</strong>, not softened or removed, unless the provider orders otherwise. If it becomes soft, wet, draining, or red around the edges, report it. The slide adds an important note: <strong>nurses can debride, but with limitations</strong> — some methods are nursing actions (with a prescription), and some are performed by a surgeon.</p>",
      "example": "<strong>At the bedside:</strong> A sacral wound has <strong>40% black eschar, 40% yellow slough, and 20% red granulation</strong>. Which goal comes first? <strong>Debride the black</strong>. In a mixed wound, address the least healthy tissue first: <strong>black → yellow → red</strong>. Necrotic tissue blocks healing of the whole wound.",
      "table": {
       "caption": "RYB color guide at a glance",

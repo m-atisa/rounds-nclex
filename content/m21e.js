@@ -565,7 +565,7 @@ window.NURSE_DATA.push({
     "Incorrect. Advanced age and mild dementia add some risk, but this client walks, is continent, and eats most meals.",
     "Incorrect. Paraplegia removes sensation and movement below T6, but this client relieves pressure on a schedule, is continent, and has a normal albumin — the main risks are being actively managed."
    ],
-   "rationale": "When choosing who is at greatest risk, count the risk factors that are present and not already offset. The sedated, ventilated client cannot feel pressure or move away from it, has a fever that raises oxygen demand, has liquid stool bathing the skin in moisture and enzymes, and has a low albumin that means less padding and poor repair. Each of the other clients has one or two factors, and the client with paraplegia is offsetting his with scheduled weight shifts, continence, and good nutrition.",
+   "rationale": "When choosing who is at greatest risk, count the risk factors that are present and not already offset. The sedated, ventilated client cannot feel pressure or move away from it, has a fever that raises oxygen demand, has liquid stool bathing the skin in moisture and enzymes, and has a low albumin that means less padding and poor repair. Each of the other clients has one or two factors, and the client with paraplegia is offsetting those risks with scheduled weight shifts, continence, and good nutrition.",
    "takeaway": "Greatest risk = the most UNOPPOSED risk factors stacked together (sedation + fever + moisture + low albumin).",
    "cjmm": "Prioritize Hypotheses",
    "focus": "Prioritization",

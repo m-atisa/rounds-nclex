@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { useMemo, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
-import { MODULES, MODULE_BY_ID, QUESTIONS } from '../data';
+import { MODULES, MODULE_BY_ID, QUESTIONS, isNewModule } from '../data';
 import { Icon, type IconName } from '../components/Icon';
 import { Chip, toggleIn } from '../components/ui';
 import { balancedPick } from '../lib/analytics';
@@ -83,7 +83,8 @@ export function ExamBuilder() {
                 All modules
               </Chip>
               {MODULES.map((m) => (
-                <Chip key={m.id} on={modules.includes(m.id)} color={m.color} onClick={() => setModules(toggleIn(modules, m.id))} count={m.questions.length}>
+                <Chip key={m.id}
+                isNew={isNewModule(m.id)} on={modules.includes(m.id)} color={m.color} onClick={() => setModules(toggleIn(modules, m.id))} count={m.questions.length}>
                   {m.number} · {m.title}
                 </Chip>
               ))}

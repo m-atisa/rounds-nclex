@@ -710,19 +710,19 @@ window.NURSE_DATA.push({
    "options": [
     "\"Once the burning stops, I can stop taking my antibiotic.\"",
     "\"If my urine changes color, I should stop taking this medicine and call the clinic right away.\"",
-    "\"My urine may turn reddish-orange, and this drug may make me a little drowsy.\"",
+    "\"My urine may turn reddish-orange, and it can stain my contact lenses and underwear.\"",
     "\"This medicine will make me void more often to flush out the infection.\""
    ],
    "answer": 2,
    "optionRationales": [
     "Phenazopyridine only relieves pain. It does not treat the infection, so the antibiotic must be finished.",
     "A color change is an expected effect, not a reason to stop.",
-    "Correct. Phenazopyridine discolors urine (reddish-orange) and can be slightly sedating, so this statement shows understanding.",
+    "Correct. Phenazopyridine turns urine reddish-orange, and the dye can stain contact lenses and clothing, so this statement shows understanding.",
     "Increasing urine output is the action of a diuretic. Phenazopyridine is a urinary analgesic."
    ],
-   "rationale": "Phenazopyridine is a urinary analgesic: it treats the pain of dysuria but not the infection itself, which is the antibiotic's job. Its expected effects are discolored urine and mild sedation. Clients need to know the color change is harmless and that they must finish the antibiotic even after the pain eases.",
-   "takeaway": "Pyridium relieves pain only. Urine turns reddish-orange and it can be mildly sedating. Finish the antibiotic.",
-   "hintContent": "Recall the drug class of phenazopyridine, its two side effects on the slides, and the role of the antibiotic.",
+   "rationale": "Phenazopyridine is a urinary analgesic: it treats the pain of dysuria but not the infection itself, which is the antibiotic's job. Its expected effect is reddish-orange urine, which can stain contact lenses and fabric. Clients need to know the color change is harmless and that they must finish the antibiotic even after the pain eases.",
+   "takeaway": "Pyridium relieves pain only. Urine turns reddish-orange and can stain contacts and clothing. Finish the antibiotic.",
+   "hintContent": "Recall the drug class of phenazopyridine, its expected effect on urine, and the role of the antibiotic.",
    "hintStrategy": "Check each statement against what the drug does and does not do. A correct statement matches both its purpose and its expected effects."
   },
   {

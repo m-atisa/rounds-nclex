@@ -770,7 +770,7 @@ window.NURSE_DATA.push({
   {
    "topic": "skin-cancer-sun-protection",
    "front": "Where should a skin self-exam focus?",
-   "back": "<strong>Sun-exposed areas</strong> (face, neck, ears, scalp, arms, legs), plus the <strong>trunk, chest, and feet</strong>."
+   "back": "<strong>Sun-exposed areas</strong> (face, neck, ears, scalp, arms, legs), plus the <strong>trunk, chest, and feet</strong>. In darker skin, also check the <strong>palms, soles, and nails</strong>."
   },
   {
    "topic": "skin-cancer-sun-protection",
@@ -1669,7 +1669,7 @@ window.NURSE_DATA.push({
     "“Remove the bandage tonight and leave the site open to air so it can dry out.”",
     "“Clean the site with hydrogen peroxide each day until it has fully healed.”",
     "“Keep the site clean and covered, and report redness or drainage.”",
-    "“Some redness and yellow drainage this week are a normal part of healing.”"
+    "“Some redness and thick yellow drainage this week are a normal part of healing.”"
    ],
    "answer": 2,
    "priority": true,
@@ -1677,7 +1677,7 @@ window.NURSE_DATA.push({
     "Incorrect. The biopsy site is a small open wound. It is kept clean and covered to keep germs out, not left open to dry.",
     "Incorrect. Hydrogen peroxide is a common home remedy that can damage healing tissue and slow healing.",
     "Correct. The biopsy leaves a small open wound. Keeping it clean and covered, and reporting signs of infection or bleeding that won't stop, prevents complications.",
-    "Incorrect. Spreading redness and yellow (purulent) drainage are signs of infection that should be reported, not expected."
+    "Incorrect. Spreading redness and thick yellow (purulent) drainage are signs of infection that should be reported, not expected."
    ],
    "rationale": "A pearly, bleeding bump on sun-exposed skin suggests basal cell carcinoma, and a biopsy tells benign from cancerous tissue. The biopsy leaves an intentional open wound, so the priority teaching is to keep it clean and covered and report signs of infection (redness, swelling, drainage) or bleeding that won't stop. Sun protection continues regardless of the result.",
    "takeaway": "After a biopsy: keep it clean and covered, report infection or bleeding, and keep using sunscreen."

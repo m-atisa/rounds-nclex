@@ -248,7 +248,7 @@ window.NURSE_DATA.push({
     },
     {
      "term": "LABA",
-     "def": "Long-acting beta-agonist, such as salmeterol. It keeps airways open for about 12 hours. It is a controller and is never used for rescue."
+     "def": "Long-acting beta-agonist, such as salmeterol. It keeps airways open for about 12 hours. It is a controller and is never used for rescue. In asthma, a LABA is never used alone — it is always paired with an inhaled corticosteroid (as in Advair), because LABA monotherapy raises the risk of severe asthma attacks."
     },
     {
      "term": "Corticosteroid",

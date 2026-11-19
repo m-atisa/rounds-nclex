@@ -765,7 +765,7 @@
     },
     {
      "heading": "Viral: herpes and warts (HPV)",
-     "body": "<p><strong>Herpes simplex</strong> causes painful clusters of vesicles, often on the lips (cold sores). The virus stays in the body and can flare again with stress, illness, or sun. <strong>Herpes zoster (shingles)</strong> happens when the chickenpox virus, which has been sleeping in a nerve for years, <strong>wakes up</strong>. It causes a painful band of blisters on one side of the body, following the nerve. Fluid from shingles blisters can give chickenpox to someone who is not immune, so keep lesions covered.</p><p>A <strong>Tzanck test</strong> (a scraping from the base of a blister) can help confirm a herpes-family virus.</p><p><strong>Warts</strong> are small, rough, raised bumps (papules) caused by <strong>HPV</strong>. They are common in children and teens and spread by touch, including <strong>picking, biting, or scratching</strong> them. Your slide reminds you that <strong>HPV increases cancer risk</strong>, because certain types of HPV are linked to cancers (for example, cervical cancer).</p>",
+     "body": "<p><strong>Herpes simplex</strong> causes painful clusters of vesicles, often on the lips (cold sores). The virus stays in the body and can flare again with stress, illness, or sun. <strong>Herpes zoster (shingles)</strong> happens when the chickenpox virus, which has been sleeping in a nerve for years, <strong>wakes up</strong>. It causes a painful band of blisters on one side of the body, following the nerve. Fluid from shingles blisters can give chickenpox to someone who is not immune, so keep lesions covered. A healthy client with <strong>localized</strong> shingles needs standard precautions with the lesions covered; <strong>disseminated</strong> shingles, or shingles in an <strong>immunocompromised</strong> client, needs <strong>airborne + contact</strong> precautions (like chickenpox) until all lesions are crusted. Assign only staff who are immune to varicella.</p><p>A <strong>Tzanck test</strong> (a scraping from the base of a blister) can help confirm a herpes-family virus.</p><p><strong>Warts</strong> are small, rough, raised bumps (papules) caused by <strong>HPV</strong>. They are common in children and teens and spread by touch, including <strong>picking, biting, or scratching</strong> them. Your slide reminds you that <strong>HPV increases cancer risk</strong>, because certain types of HPV are linked to cancers (for example, cervical cancer).</p>",
      "analogy": "The chickenpox virus is like a houseguest who never really leaves. After the illness it moves into a nerve \"guest room\" and sleeps. Years later, when the body's defenses are down, it can come out as shingles."
     },
     {
@@ -940,7 +940,7 @@
    "sections": [
     {
      "heading": "Contact dermatitis: two very different causes",
-     "body": "<p><strong>Contact dermatitis</strong> is skin inflammation caused by something that touched the skin. Your slides divide it into two types, and exam questions love to test the difference.</p><p><strong>Allergic contact dermatitis</strong> is an <strong>immune</strong> reaction. The first time the skin meets the allergen, the immune system is \"sensitized\" and nothing shows. On later exposures, the immune system attacks, usually <strong>1–3 days later</strong> (it is a delayed reaction). The rash appears <strong>right at the allergen site</strong>, may form <strong>vesicles or wheals</strong>, and is <strong>shaped like the irritant</strong>: a watch band, a ring, a jeans snap, glove edges, or streaks where a plant brushed the skin.</p><p><strong>Irritant contact dermatitis</strong> is <strong>not immune-related</strong>. A <strong>chemical, soap, or detergent</strong> directly damages the skin's barrier, the same way it would on anyone with enough exposure. It can happen on the first exposure. The skin becomes <strong>red, dry, cracked, and burning</strong> where it was exposed.</p>",
+     "body": "<p><strong>Contact dermatitis</strong> is skin inflammation caused by something that touched the skin. Your slides divide it into two types, and exam questions love to test the difference.</p><p><strong>Allergic contact dermatitis</strong> is an <strong>immune</strong> reaction. The first time the skin meets the allergen, the immune system is \"sensitized\" and nothing shows. On later exposures, the immune system attacks, usually <strong>1–3 days later</strong> (it is a delayed reaction). The rash appears <strong>right at the allergen site</strong>, may form <strong>red papules or vesicles</strong>, and is <strong>shaped like the irritant</strong>: a watch band, a ring, a jeans snap, glove edges, or streaks where a plant brushed the skin. (Hives or wheals that appear <strong>within minutes</strong> of contact, for example with latex, are a different, <strong>immediate</strong> allergy that can progress to anaphylaxis.)</p><p><strong>Irritant contact dermatitis</strong> is <strong>not immune-related</strong>. A <strong>chemical, soap, or detergent</strong> directly damages the skin's barrier, the same way it would on anyone with enough exposure. It can happen on the first exposure. The skin becomes <strong>red, dry, cracked, and burning</strong> where it was exposed.</p>",
      "table": {
       "caption": "Allergic vs. irritant contact dermatitis",
       "headers": [
@@ -961,7 +961,7 @@
        ],
        [
         "Look",
-        "Itchy rash shaped like the item; vesicles or wheals",
+        "Itchy rash shaped like the item; red papules or vesicles",
         "Red, dry, cracked, burning skin"
        ],
        [
@@ -1268,7 +1268,7 @@
       "<strong>Fungal</strong>: tinea (ringworm, scalp, athlete's foot).",
       "<strong>Viral</strong>: warts, varicella (chickenpox).",
       "<strong>Parasitic</strong>: lice, scabies.",
-      "<strong>Diaper dermatitis</strong>: an <strong>irritant</strong> dermatitis. Urine and stool sitting on the skin (especially with diarrhea) damage it, causing <strong>red, shiny, irritated skin where the diaper touches</strong>, while the deep skin folds are usually spared. Prevent and treat by <strong>changing diapers often</strong>, gently cleaning, letting the skin air-dry, and keeping it <strong>clean and dry</strong>, with a barrier cream if ordered."
+      "<strong>Diaper dermatitis</strong>: an <strong>irritant</strong> dermatitis. Urine and stool sitting on the skin (especially with diarrhea) damage it, causing <strong>red, shiny, irritated skin where the diaper touches</strong>, while the deep skin folds are usually spared. (If the rash is beefy red <strong>in the skin folds</strong> with small red satellite spots around it, suspect a yeast (Candida) diaper rash and report it; it needs an antifungal.) Prevent and treat by <strong>changing diapers often</strong>, gently cleaning, letting the skin air-dry, and keeping it <strong>clean and dry</strong>, with a barrier cream if ordered."
      ],
      "table": {
       "caption": "Other childhood rashes on your slides",

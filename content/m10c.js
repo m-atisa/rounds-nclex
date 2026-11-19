@@ -502,7 +502,7 @@ window.NURSE_DATA.push({
    "optionRationales": [
     "Fever is an expected systemic sign of the lung inflammation, and the antipyretic has had little time to work. It needs monitoring but is not the most urgent finding.",
     "A fast respiratory rate is expected with fever and pneumonia in a toddler, and the SpO₂ is acceptable on the prescribed oxygen.",
-    "Correct. Capillary refill over about 3 seconds and no wet diaper for many hours show the skin and kidneys are not being perfused. After 2 days of vomiting and poor intake, this signals significant fluid loss that needs action and reporting now.",
+    "Correct. Capillary refill longer than 2 seconds (here 4 seconds) and no wet diaper for many hours show the skin and kidneys are not being perfused. After 2 days of vomiting and poor intake, this signals significant fluid loss that needs action and reporting now.",
     "A fussy child who cries with tears is alert and still producing tears, which is reassuring about mental status and hydration."
    ],
    "rationale": "Children lose fluid faster than adults because their total fluid volume is smaller and their kidneys conserve water poorly. The best bedside checks of fluid balance in a young child are mental status, capillary refill, and wet diapers. Fever and fast breathing are expected systemic signs of pneumonia, but delayed capillary refill with no urine output for 8 hours shows poor perfusion and requires immediate follow-up.",

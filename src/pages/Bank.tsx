@@ -1,7 +1,7 @@
 import { AnimatePresence, motion } from 'motion/react';
 import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { MODULES, MODULE_BY_ID, QUESTIONS, QUESTION_BY_ID, topicTitle } from '../data';
+import { MODULES, MODULE_BY_ID, QUESTIONS, QUESTION_BY_ID, topicTitle, isNewModule } from '../data';
 import type { Question, Response } from '../data/types';
 import { CJMM_STEPS, FOCUS_AREAS, FORMATS, FORMAT_LABEL, FORMAT_SHORT, formatOf } from '../data/types';
 import { Icon } from '../components/Icon';
@@ -81,7 +81,7 @@ export function Bank() {
           <option value="">All modules</option>
           {MODULES.map((m) => (
             <option key={m.id} value={m.id}>
-              Module {m.number} · {m.title}
+              Module {m.number} · {m.title}{isNewModule(m.id) ? ' (new)' : ''}
             </option>
           ))}
         </select>

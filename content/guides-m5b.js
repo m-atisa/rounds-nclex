@@ -687,7 +687,7 @@ window.NURSE_DATA.push({
        [
         "<strong>Stool softeners</strong> (for example, docusate)",
         "Let water mix into stool so it is soft and passes without straining",
-        "For clients who <strong>shouldn't strain</strong>: after surgery or childbirth, with hemorrhoids, or while taking opioids. They prevent hard stool rather than produce a quick bowel movement."
+        "For clients who <strong>shouldn't strain</strong>: after surgery or childbirth, with hemorrhoids, or while taking opioids. They prevent hard stool rather than produce a quick bowel movement. For opioid-induced constipation, a softener alone is usually not enough, so a stimulant laxative such as senna is usually added."
        ],
        [
         "<strong>Antidiarrheal agents</strong> (for example, loperamide)",
@@ -923,7 +923,7 @@ window.NURSE_DATA.push({
        [
         "<strong>Odor</strong>",
         "Faint",
-        "Faint"
+        "Faint, but usually stronger than a breastfed baby's"
        ]
       ]
      },
