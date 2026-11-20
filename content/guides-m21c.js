@@ -97,12 +97,14 @@ window.NURSE_DATA.push({
     {
      "heading": "What is a pressure injury?",
      "keyIdea": "A pressure injury is skin and tissue damage from steady pressure, and it is common, painful, and mostly preventable.",
+     "source": "Tissue Integrity slide 39",
      "body": "<p>A pressure injury is damage to the skin and the tissue under it. It is caused by pressure that lasts too long. You will also hear older names: bedsore, pressure ulcer, and decubitus ulcer. On an exam, all of these mean the same thing.</p><p>Pressure injuries are common. Your slides say up to about 29% of hospital clients get one. In long-term care, 2.6–24% of residents do. At home, they are probably underreported, because families may miss early damage.</p><p>A pressure injury hurts. It can get infected. It can take weeks or months to heal. That is why prevention matters so much.</p>",
      "analogy": "Think of a garden hose lying across a driveway. If a car parks on it for a moment, water still flows once the car moves. If the car parks there all day, the plants at the end wilt and die. Body weight is the car. The capillaries are the hose. The skin is the plants."
     },
     {
      "heading": "How does pressure kill tissue?",
      "keyIdea": "Pressure above about 32 mm Hg closes the capillaries, and tissue without blood flow starves, dies, and breaks open.",
+     "source": "Tissue Integrity slides 39, 45",
      "body": "<p>Blood reaches the skin through capillaries. These are tiny vessels with thin walls. The blood pressure inside them is only about 32 mm Hg. That is low.</p><p>When a client lies on a firm mattress, the pressure under a bony spot can easily go higher. When outside pressure is higher than capillary pressure, the capillaries are squeezed flat. Blood stops flowing.</p><p>Healthy people shift position all the time because squeezed tissue feels uncomfortable. When pressure lasts, the tissue runs out of oxygen. This is <b>ischemia</b>. Waste builds up. If pressure is not relieved, the cells die. This is <b>necrosis</b>. Dead tissue breaks down into an open sore, called an <b>ulcer</b>.</p><p>The damage often starts deep, next to the bone, where tissue is squeezed hardest. The skin on top may look only a little red while deeper tissue is dying. So take early signs seriously. Relieving pressure at the ischemia step can restore blood flow.</p>",
      "steps": [
       "Steady pressure squeezes tissue between the bone and the bed or chair.",
@@ -119,6 +121,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Where do pressure injuries form?",
      "keyIdea": "They form where bone sits close to the skin, and the bone carrying weight depends on the client's position.",
+     "source": "Tissue Integrity slides 39, 44 (position table added)",
      "body": "<p>Pressure injuries form where bone is close to the skin. There is little fat or muscle there to cushion it. The classic sites are the heels, sacrum, hips, and ischia.</p><p>The hip site is the greater trochanter, the bony knob on the side of the thigh. The ischia are the “sit bones.”</p><p>Which spot is at risk depends on position. Whatever part carries the weight is the part in danger. Use this table when you plan skin checks.</p>",
      "table": {
       "caption": "Pressure points by position",
@@ -150,29 +153,32 @@ window.NURSE_DATA.push({
     {
      "heading": "What are friction and shear?",
      "keyIdea": "Friction scrapes the top of the skin; shear tears deep vessels when the body slides but the skin stays stuck.",
+     "source": "Tissue Integrity slides 39, 44",
      "body": "<p>Pressure injuries can also come from friction or shear. These often add to damage that pressure started.</p><p><b>Friction</b> is rubbing. When a client is dragged up in bed, the sheet scrapes the skin like sandpaper. It leaves a raw area that breaks down more easily.</p><p><b>Shear</b> is deeper and harder to see. Picture a client with the head of the bed (HOB) raised high. Gravity pulls the body toward the foot of the bed. The skin over the sacrum sticks to the sheet, but the skeleton keeps sliding.</p><p>The layers between skin and bone stretch in opposite directions. This kinks and tears small blood vessels deep inside. The skin may look fine at first while deep tissue is badly hurt.</p><p>That is why you keep the HOB at 30° or lower when you can. It is also why you lift with a draw sheet or lift device instead of dragging.</p>",
      "example": "Mrs. L has heart failure and likes the HOB at 60°. Every hour she slides toward the foot of the bed. What worries you most? Shear over the sacrum. Lift her back up with a draw sheet and a second person. Do not drag her. Keep the HOB as low as her breathing allows, ideally 30° or less."
     },
     {
      "heading": "Who is at risk? Feel, move, feed",
      "keyIdea": "Risk climbs when a client cannot feel pressure, cannot move away from it, has wet skin, or has poorly fed tissue.",
+     "source": "Tissue Integrity slide 40",
      "body": "<p>Anyone can get a pressure injury. Some factors make it much more likely. For each one, ask why it raises risk. Exams often test the reason, not just the list.</p>",
      "bullets": [
       "<b>Immobility</b> from paralysis, weakness, pain, or sedation. A client who cannot move cannot relieve pressure. Pain makes clients avoid moving. Sedation removes the urge to move.",
       "<b>Poor nutrition</b>: too little protein, calories, zinc, and vitamin C. Weight loss and muscle atrophy remove padding. Edema makes tissue fragile and poorly oxygenated. Poorly fed tissue also cannot repair itself.",
       "<b>Incontinence</b>: urine and stool bring moisture, enzymes, and urea to the skin. Wet skin softens (maceration). Stool enzymes digest the skin. Breakdown and infection follow.",
-      "<b>Low mental status</b>: a confused, sedated, or unconscious client may not notice pressure. They may not move or ask for help.",
+      "<b>Low mental status</b>: a confused, sedated, or unconscious client is less able to sense pain or pressure, or to respond to it. They may not move or ask for help.",
       "<b>Poor sensation</b> from paralysis, stroke, neuropathy, or aging. The client cannot feel the discomfort that normally says “shift your weight.”"
      ],
      "example": "Who is at greatest risk: a walking client with a wrist cast, or a 29-year-old with a new T4 spinal cord injury, a fever of 38.9 °C, and bowel incontinence? The spinal cord injury client. That client cannot feel or move below the injury, and has fever and moisture too. Risk climbs steeply when factors stack."
     },
     {
      "heading": "More risk factors: heat, age, disease, handling",
-     "keyIdea": "Fever, older skin, and chronic disease make tissue fail faster, and poor handling by staff can cause injury by itself.",
+     "keyIdea": "Excessive body heat (such as fever), older skin, and chronic disease make tissue fail faster, and poor handling by staff can cause injury by itself.",
+     "source": "Tissue Integrity slide 41",
      "bullets": [
-      "<b>Fever</b> raises the metabolic rate, so cells need more oxygen. Squeezed tissue is already short of oxygen. Hotter tissue becomes ischemic faster.",
+      "<b>Excessive body heat</b>, such as fever, raises the metabolic rate, so cells need more oxygen. Squeezed tissue is already short of oxygen. Heat makes the ischemia under pressure worse.",
       "<b>Older age</b>: skin is thinner, less elastic, drier, and has less oil and poorer blood flow. It tears more easily and heals more slowly. Many older adults have other risk factors too.",
-      "<b>Chronic disease</b> such as diabetes and heart and blood vessel disease. These reduce blood flow and slow healing.",
+      "<b>Chronic medical conditions</b> such as diabetes and cardiovascular disease. These cause poor circulation and delayed healing.",
       "<b>Care factors the nurse controls</b>: poor lifting and transfer technique, wrong positioning, hard surfaces, and wrong use of pressure-relief devices."
      ],
      "body": "<p>Pause on that last group. A low-risk client can still be hurt by rough handling, a hard surface, or a device used wrong. Examples are a doughnut cushion, or a special mattress piled with folded pads. Good technique is part of prevention.</p>",
@@ -184,6 +190,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How does the Braden scale work?",
      "keyIdea": "The Braden scale scores six risk areas from 6 to 23, and a lower score means a higher risk.",
+     "source": "Tissue Integrity slides 43, 52 (Braden subscales and cutoffs added for the NCLEX)",
      "body": "<p>Your slides call for a baseline risk check with a tool such as the Braden or Norton scale. Braden is the one you will see most. It scores six areas that match the risk factors.</p><p>The first five areas are scored 1 to 4. Friction and shear is scored 1 to 3. The total runs from 6 to 23.</p><p>The big trap: Braden runs backward. A <b>low</b> score means <b>high</b> risk. A 1 in any area is the worst score for that area.</p><p>Use the subscales to target care. A client might total 19 and look “not at risk.” But if moisture scores 1 from constant incontinence, that area needs action now. Cleanse promptly and apply a barrier cream. Braden predicts risk. It does not diagnose or stage an injury that already exists.</p>",
      "bullets": [
       "<b>Sensory perception</b>: can the client feel and respond to discomfort?",
@@ -227,6 +234,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most mistakes come from mixing up look-alike ideas, so learn how to tell each pair apart.",
+     "source": "Tissue Integrity slides 39–41, 43, 55",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
       "headers": [
@@ -260,6 +268,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to spot stacked risk factors, explain why each matters, and read Braden scores the right way.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns include:</p>",
      "bullets": [
       "“Which client is at greatest risk?” Pick the one with the most risk factors stacked together.",
@@ -279,6 +288,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a frail client with pneumonia",
      "keyIdea": "Turn every cue into a risk factor, then match each risk factor to a nursing action.",
+     "source": "Added: worked example based on Tissue Integrity slides 40–41, 43–44",
      "example": "Mrs. G, 83, has Parkinson disease and moderate dementia. She is admitted with aspiration pneumonia. Her temperature is 38.7 °C. Her albumin is 2.8 g/dL. She is oriented to self only. She grimaces with turning but cannot say where it hurts. She slides toward the foot of the bed when the HOB is raised. Her Braden total is 9. Her skin is intact, and all red areas blanch.",
      "steps": [
       "Read the score: Braden 9 is very high risk.",
@@ -421,7 +431,8 @@ window.NURSE_DATA.push({
     {
      "heading": "How does food protect the skin?",
      "keyIdea": "Well-fed tissue has more padding and can repair itself, so poor intake must be found and fixed early.",
-     "body": "<p>Your slide says it plainly: good intake means fewer pressure injuries. Well-fed tissue has more padding and stronger skin. It also has the building blocks to repair small damage before it becomes a wound.</p><p>To track nutrition, monitor weight, lymphocyte count, albumin, and hemoglobin. Unplanned weight loss or low labs mean the client is not well fed. Then offer supplements, such as high-protein shakes between meals. Consult the registered dietitian. Never restrict protein for a client at risk.</p>",
+     "source": "Tissue Integrity slides 26, 42, 56",
+     "body": "<p>Your slide says it plainly: good intake means fewer pressure injuries. Well-fed tissue has more padding and stronger skin. It also has the building blocks to repair small damage before it becomes a wound.</p><p>To track nutrition, monitor weight, lymphocyte count, albumin, and hemoglobin. Unplanned weight loss or low labs mean the client is not well fed. If the client is nutritionally compromised, use supplements, such as high-protein shakes between meals. Consult the registered dietitian. Your slides flag albumin below 3.5 g/dL as poor nutrition. It raises the risk of infection and delayed healing.</p>",
      "bullets": [
       "<b>Protein</b>: the building block of new tissue.",
       "<b>Calories</b>: energy. Without enough, the body burns its own protein.",
@@ -440,7 +451,8 @@ window.NURSE_DATA.push({
     {
      "heading": "How should you care for at-risk skin?",
      "keyIdea": "Keep the skin clean, dry, moisturized, and protected, and check it on a schedule.",
-     "body": "<p>Start with a baseline risk check, such as the Braden scale. It tells you how hard to push prevention. Then inspect the skin, focusing on the bony spots. In the hospital, check twice daily. At home, check weekly, or more often for high-risk clients.</p><p>Cleanse gently with a mild cleanser and warm water. Pat dry; do not rub. Rubbing is friction.</p><p>“Clean, dry, and moisturized” sounds like a contradiction, but it is not. Dry means no pooled urine, stool, sweat, or drainage. Moisturized means not cracked or flaky. Put lotion on dry skin. Put a barrier cream or film, such as dimethicone, where wetness is a problem.</p>",
+     "source": "Tissue Integrity slides 43, 55",
+     "body": "<p>Start with a baseline risk check, such as the Braden scale. It tells you how hard to push prevention. Then inspect the skin, focusing on the bony spots. In the hospital, check twice daily. In home care, check weekly.</p><p>Cleanse gently with a mild cleanser and warm water. Pat dry; do not rub. Rubbing is friction.</p><p>“Clean, dry, and moisturized” sounds like a contradiction, but it is not. Dry means no pooled urine, stool, sweat, or drainage. Moisturized means not cracked or flaky. Put lotion on dry skin. Put a barrier cream or film where wetness is a problem. Your slides name dimethicone and alcohol-free barrier sprays.</p>",
      "steps": [
       "Do hand hygiene, put on clean gloves, and remove the soiled pad right away.",
       "Cleanse the skin gently with a mild cleanser and warm (not hot) water.",
@@ -452,6 +464,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What should never go on the skin?",
      "keyIdea": "Hot water, powders, cornstarch, petroleum ointments, rubbing, and massage all harm fragile skin.",
+     "source": "Tissue Integrity slides 27, 43, 55",
      "bullets": [
       "<b>Hot water and harsh soap</b>: strip natural oils and damage fragile skin, especially in older adults.",
       "<b>Baby powder and cornstarch</b>: clump when wet and make a gritty paste in skin folds. Cornstarch can also feed yeast.",
@@ -468,6 +481,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How often should you reposition?",
      "keyIdea": "Bed every 2 hours, chair every 1 hour, and self weight shifts every 15 minutes.",
+     "source": "Tissue Integrity slides 44, 55 (30° tilt added)",
      "body": "<p>Turning is the most direct way to relieve pressure. Memorize the three time frames as a set. A chair is riskier than a bed. Sitting puts the whole upper body's weight on the small sit bones.</p><p>Rotate through the positions on your slides: prone, supine, right and left lateral, and right and left Sims. Never place a client on an existing pressure injury or a red area.</p><p>A 30° lateral tilt is a good choice. Pillows behind the back put weight on the fleshy buttock instead of the hip bone or sacrum. Put pillows between the knees and ankles so bones don't press on each other.</p>",
      "table": {
       "caption": "Repositioning and skin-check timing",
@@ -486,7 +500,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Client able to shift own weight",
-        "Every 15 minutes (slides say 15–30 minutes)"
+        "Every 15–30 minutes (slides on teaching say every 15 minutes)"
        ],
        [
         "Skin check in the hospital",
@@ -504,6 +518,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you prevent friction and shear?",
      "keyIdea": "Keep the HOB at 30° or lower when possible, keep surfaces smooth, and always lift instead of drag.",
+     "source": "Tissue Integrity slide 44",
      "bullets": [
       "<b>Smooth, firm, wrinkle-free surfaces.</b> Wrinkles, crumbs, tubing, and stacks of pads dig into skin. Use one breathable pad, not several.",
       "<b>Correct positioning, transfers, and turning.</b> Poor technique is a risk factor by itself.",
@@ -519,6 +534,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Which support devices help?",
      "keyIdea": "Devices spread weight to keep pressure below 32 mm Hg, but they add to turning and never replace it.",
+     "source": "Tissue Integrity slide 45",
      "body": "<p>Every support device has one goal. It keeps outside pressure below capillary pressure, about 32 mm Hg, so blood keeps flowing. Your slide says support surfaces cut pressure injuries by about 60%.</p>",
      "bullets": [
       "<b>Overlays</b>: foam or gel pads on top of a regular mattress.",
@@ -532,6 +548,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Sitting clients and home caregivers",
      "keyIdea": "Sitting clients need hourly repositioning and weight shifts by the clock, and home caregivers need clear, practical teaching.",
+     "source": "Tissue Integrity slides 43–45, 55–56 (home tips added)",
      "body": "<p>Clients who sit most of the day put their weight on the small sit bones. Use a pressure-relief seat cushion, not a ring. Support the feet on the floor or a footrest so the thighs are level. Don't let the client slump or slide in a reclined chair. That is shear again.</p><p>At home, teach caregivers simple, concrete steps.</p>",
      "bullets": [
       "Reposition at least every hour in the chair and cue weight shifts about every 15 minutes.",
@@ -546,6 +563,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most prevention errors look helpful at first, so learn the reason behind each rule.",
+     "source": "Tissue Integrity slides 43–45, 55",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
       "headers": [
@@ -587,6 +605,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Most items show a helper or family member doing care and ask which action is wrong or needs more teaching.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns include:</p>",
      "bullets": [
       "“Which action by the UAP requires the nurse to intervene?” Look for hot water, powder, rubbing, stacked pads, or a ring cushion.",
@@ -607,6 +626,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a stroke client who eats poorly",
      "keyIdea": "Match one action to each risk factor, and balance safety rules like aspiration and shear.",
+     "source": "Added: worked example based on Tissue Integrity slides 42–44, 46, 55",
      "example": "Mr. K, 81, had a stroke and has trouble swallowing. He eats a pureed diet. He must sit fully upright for meals and keep the HOB at 30° or higher for 1 hour after. He is incontinent. He has a Stage I area on the sacrum. He eats about 30% of meals and has lost weight.",
      "steps": [
       "Name the risks: aspiration, shear, moisture, poor nutrition, and an existing Stage I.",
@@ -746,12 +766,13 @@ window.NURSE_DATA.push({
     {
      "heading": "What layers are you staging?",
      "keyIdea": "Each stage is defined by how deep the damage goes: skin, then fat, then muscle, tendon, or bone.",
-     "body": "<p>Before you can stage, picture what lies under the skin. From the outside in, you find:</p>",
+     "source": "Tissue Integrity slides 5, 17, 46",
+     "body": "<p>Your slides sort wounds by depth. A <b>partial-thickness</b> wound loses the epidermis and part of the dermis. It heals by regrowing the lost tissue. A <b>full-thickness</b> wound loses all skin layers and may reach muscle or bone. It must fill in with new connective tissue.</p><p>Before you can stage, picture what lies under the skin. From the outside in, you find:</p>",
      "bullets": [
-      "<b>Epidermis</b>: a thin protective layer.",
-      "<b>Dermis</b>: thicker, with blood vessels and nerves. This is why a scrape into the dermis bleeds and stings.",
-      "<b>Subcutaneous tissue</b>: the fat layer.",
-      "<b>Muscle, tendons, and other supporting structures</b>, then <b>bone</b>."
+      "<b>Epidermis</b>: the outer layer. It is the barrier that protects the body. Keratin makes it tough and water-resistant.",
+      "<b>Dermis</b>: the middle, “working layer” of the skin. It holds the nerves for sensation, the sweat and oil glands, and small blood vessels. This is why a scrape into the dermis bleeds and stings.",
+      "<b>Subcutaneous tissue (hypodermis)</b>: the innermost fat layer. It is not technically skin, but it cushions and anchors the skin. It stores about half of the body's fat cells.",
+      "Muscle, tendons, and other supporting structures, then bone."
      ],
      "table": {
       "caption": "Quick staging comparison",
@@ -793,6 +814,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Normal redness or Stage I?",
      "keyIdea": "Press on the red area: if it turns pale and refills, it is normal; if it stays red, it is Stage I.",
+     "source": "Tissue Integrity slides 46, 52 (30-minute rule added)",
      "body": "<p>After a client lies on one spot, the skin often looks pink or red when you turn them. This is normal “reactive” redness. Blood is rushing back into tissue that was briefly squeezed. It fades once pressure is off.</p><p>To tell normal from damaged, do the blanch test. Your slides list the blanch response with capillary refill. Press firmly on the red area for a few seconds with a finger or a clear disk. Then let go and watch.</p><p>If it turns white and quickly refills, the capillaries work. If it stays red, the capillaries are damaged. That is nonblanchable erythema, a Stage I injury. A practical rule: redness that has not faded about 30 minutes after pressure is off needs more assessment.</p>",
      "steps": [
       "Turn the client off the area and look in good light.",
@@ -809,12 +831,14 @@ window.NURSE_DATA.push({
     {
      "heading": "Stage I: intact skin that stays red",
      "keyIdea": "Stage I is intact skin with redness that does not blanch; in dark skin, look for darkening and confirm by touch.",
-     "body": "<p>Your slide defines Stage I as nonblanchable erythema that signals possible ulceration. The key words are <b>intact</b> and <b>nonblanchable</b>. The skin is not broken, but it is damaged underneath.</p><p>In light skin, you see a pink-to-deep-red patch right over a bony spot. It is often round or oval, from coin-size to palm-size. There is no blister and no open area. When you press, the color stays.</p><p>Compared with nearby skin, it may feel warmer, cooler, firmer, or spongy (boggy). The client may say it is sore.</p><p>In dark skin, Stage I may look like darkening instead of redness. It may look purplish or bluish. Blanching is hard to see. So use touch and compare with nearby skin. Is it warmer or cooler? Firmer or boggy? Is it tender? Use good natural or bright light.</p><p>Stage I is the last chance before the skin opens. With pressure relief, it can heal.</p>",
+     "source": "Tissue Integrity slides 6, 46, 52",
+     "body": "<p>Your slide defines Stage I as nonblanchable erythema that signals possible ulceration. The key words are <b>intact</b> and <b>nonblanchable</b>. The skin is not broken, but it is damaged underneath.</p><p>In light skin, you see a pink-to-deep-red patch right over a bony spot. It is often round or oval, from coin-size to palm-size. There is no blister and no open area. When you press, the color stays.</p><p>Compared with nearby skin, it may feel warmer, cooler, firmer, or spongy (boggy). The client may say it is sore.</p><p>In dark skin, your slides say Stage I shows as darkening instead of redness. Look for an area that is darker, taut, shiny, or hard (indurated). It may look purplish or bluish. Blanching is hard to see.</p><p>So use touch and compare with nearby skin. Is it warmer or cooler? Is there swelling (edema) or hardness? Is it tender? Use good natural or bright light. Moistening the skin may help reveal changes.</p><p>Stage I is the last chance before the skin opens. With pressure relief, it can heal.</p>",
      "example": "Mr. T has darkly pigmented skin. An area over his left hip is a bit darker than the skin around it. What supports Stage I? The area feels warmer and firmer than nearby skin, and he says it is tender. If the mark had been there since childhood, it is likely normal skin. A clear blister would be Stage II. If it blanched, that argues against Stage I."
     },
     {
      "heading": "Stage II: shallow, partial skin loss",
      "keyIdea": "Stage II is a clear-fluid blister or a shallow, pink, moist wound with no fat showing.",
+     "source": "Tissue Integrity slide 46",
      "body": "<p>Your slide defines Stage II as partial-thickness skin loss of the epidermis and maybe the dermis. The skin has opened, or is about to, but the damage is shallow.</p><p>Stage II usually looks one of two ways:</p>",
      "bullets": [
       "A <b>blister</b> filled with clear or straw-colored fluid. It can be intact or broken.",
@@ -829,12 +853,14 @@ window.NURSE_DATA.push({
     {
      "heading": "Stage III: full-thickness loss into fat",
      "keyIdea": "Stage III goes through the whole skin into fat, but no muscle, tendon, or bone shows.",
+     "source": "Tissue Integrity slide 46",
      "body": "<p>Your slide defines Stage III as full-thickness skin loss with damage or death of the fat layer. The whole skin is gone.</p><p>You see a true crater with depth. Yellow, slightly lumpy fat may show at the base or walls. The bed may have red granulation tissue and patches of yellow slough. The edges are clear, and the wound can be deeper than it looks. You do NOT see muscle, tendon, or bone.</p><p>Depth depends on location. Over the sacrum or buttock, there is more fat, so Stage III can be deep. Over the heel or ankle, there is little fat. A Stage III wound there may look shallow even though it is full thickness.</p>",
      "example": "A coccyx wound measures 3 × 2 × 0.5 cm. The bed has red granulation and visible yellow fat. Yellow slough covers about 20% of the base. No muscle, tendon, or bone is seen or felt. This is Stage III. Fat shows, but nothing deeper does."
     },
     {
      "heading": "Stage IV: down to muscle, tendon, or bone",
      "keyIdea": "Stage IV means you can see or feel muscle, tendon, bone, or other supporting structures.",
+     "source": "Tissue Integrity slides 46, 52",
      "body": "<p>Your slide defines Stage IV as full-thickness loss with damage to muscle, bone, or supporting structures, such as tendons or joint capsules.</p><p>You see a deep, cave-like wound. At its base you can see or feel deeper parts: dark red muscle, a shiny white tendon, or hard white or gray bone. You can touch bone with a sterile cotton-tipped applicator. There may be slough or black eschar, heavier drainage, and odor. Tissue may also be destroyed under the edges (undermining).</p><p>Stage IV wounds are the most serious. Exposed bone and deep tissue can get infected, and healing takes a long time.</p>",
      "example": "A client from a nursing home has a sacral wound. After cleansing, you see a 3-cm-deep crater. There is yellow fat in the upper wall and a hard, white structure at the base that you feel with a sterile applicator. Fat alone would be Stage III. Bone makes this Stage IV. Always stage by the deepest tissue.",
      "check": {
@@ -845,6 +871,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you stage any wound?",
      "keyIdea": "Work from the surface down and stop at the deepest tissue you can see or feel.",
+     "source": "Tissue Integrity slides 46, 58; unstageable and deep tissue injury added (current standard)",
      "steps": [
       "Is the skin intact? If the redness does not blanch, or dark skin shows a darker, warm, firm, tender area: Stage I.",
       "Is there a clear-fluid blister, or a shallow, pink, moist open area with no fat? Stage II.",
@@ -855,13 +882,14 @@ window.NURSE_DATA.push({
       "Stage by the deepest tissue, not the average look.",
       "Color (slough, eschar) tells you how to TREAT. Deepest tissue tells you the STAGE.",
       "Redness that blanches and fades is not a pressure injury.",
-      "<b>Unstageable</b>: slough or eschar covers the base so you cannot see the deepest tissue. Do not guess a stage until the base shows.",
-      "<b>Deep tissue pressure injury</b>: intact skin with lasting deep red, maroon, or purple color, or a blood-filled blister. Damage starts near the bone. It is not Stage I or II. Report both of these."
+      "<b>Unstageable</b> (current standard; your slides teach only four stages): slough or eschar covers the base so you cannot see the deepest tissue. Do not guess a stage until the base shows.",
+      "<b>Deep tissue pressure injury</b> (also current standard): intact skin with lasting deep red, maroon, or purple color, or a blood-filled blister. Damage starts near the bone. It is not Stage I or II. Report both of these."
      ]
     },
     {
      "heading": "Common traps",
      "keyIdea": "Most staging errors come from judging by depth or color instead of by the deepest tissue.",
+     "source": "Tissue Integrity slides 46, 52, 58; deep tissue and unstageable rows added (current standard)",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
       "headers": [
@@ -903,6 +931,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Items describe a wound and ask for the stage, the right diagnosis, or what to assess in dark skin.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns include:</p>",
      "bullets": [
       "Select-all items: which findings fit Stage I, Stage II, or full thickness (III or IV)?",
@@ -923,6 +952,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: two heels, two stages",
      "keyIdea": "Stage each spot separately, then remove the cause right away.",
+     "source": "Added: worked example based on Tissue Integrity slides 45–46, 52",
      "example": "Mrs. B, 83, is on bed rest for pneumonia. Her right heel has a 2 × 2 cm area of intact redness that does not blanch and feels spongy. Her left heel has an intact 1 × 1 cm blister filled with clear fluid. Both heels are resting right on the mattress.",
      "steps": [
       "Right heel: intact skin, nonblanchable, boggy. This is Stage I.",
@@ -1048,6 +1078,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you assess the skin?",
      "keyIdea": "Use a risk tool, then look in good light and feel each pressure point, comparing it with nearby skin.",
+     "source": "Tissue Integrity slides 6, 52",
      "body": "<p>Start with a risk tool, such as the Braden or Norton scale. It tells you how high the risk is. Then look and feel.</p><p>Inspect in good light. Dim light hides small color changes, especially in dark skin. Check every pressure area for redness, darkening, or purple or bluish tones. Look for abrasions (scrapes) and excoriation (raw, rubbed skin). Check the blanch response on any red area.</p><p>Then palpate, or feel, each pressure area. Compare it with nearby skin. Warmer suggests inflammation. Cooler suggests poor blood flow. Spongy or boggy tissue suggests damage under intact skin.</p>",
      "table": {
       "caption": "What your hands and eyes are telling you",
@@ -1087,6 +1118,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you measure and describe a wound?",
      "keyIdea": "Cleanse first, then chart the same items in numbers every time so anyone can compare week to week.",
+     "source": "Tissue Integrity slides 52, 67 (measuring steps added)",
      "body": "<p>Always cleanse the wound before you assess it. Old drainage hides the true wound bed. Then chart each item on your slide's list:</p>",
      "bullets": [
       "<b>Location and stage.</b>",
@@ -1094,7 +1126,7 @@ window.NURSE_DATA.push({
       "<b>Undermining</b>: how far and where, such as “1.5 cm under the upper edge.”",
       "<b>Wound bed color by percent</b>, such as “80% red granulation, 20% yellow slough.”",
       "<b>Margins and surrounding skin</b>: intact, red, or macerated?",
-      "<b>Drainage</b>: amount, type, and any odor after cleansing.",
+      "<b>Drainage</b>: amount, type (such as serous, serosanguineous, or purulent), and any odor after cleansing.",
       "<b>Signs of infection and pain</b>: use a pain scale, including during dressing changes."
      ],
      "steps": [
@@ -1109,6 +1141,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Which nursing diagnosis fits?",
      "keyIdea": "The first question is whether the skin is still intact: at risk is “potential for,” and any injury is “impaired.”",
+     "source": "Tissue Integrity slide 53",
      "body": "<p>Your slide lists the possible diagnoses. Choose based on whether the skin is intact, and on what else the client faces.</p>",
      "bullets": [
       "<b>Potential for impaired skin integrity</b>: high risk, but skin is intact and red areas blanch.",
@@ -1127,7 +1160,8 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you write a good outcome?",
      "keyIdea": "A good outcome says what the client will do, in a way you can see or count, by a set time.",
-     "body": "<p>A good expected outcome is client-centered, specific, measurable, realistic, and time-limited. It starts with “The client will…”.</p><p>Watch for three common errors. “The nurse will…” is an intervention, not an outcome. Verbs like “understand” or “know” can't be seen. Words like “quickly” or “better” can't be measured.</p><p>Your slide lists these team outcomes:</p>",
+     "source": "Tissue Integrity slide 54 (outcome-writing rules added)",
+     "body": "<p>A good expected outcome is client-centered, specific, measurable, realistic, and time-limited. It starts with “The client will…”.</p><p>Watch for three common errors. “The nurse will…” is an intervention, not an outcome. Verbs like “understand” or “know” can't be seen. Words like “quickly” or “better” can't be measured.</p><p>Your slide lists these collaborative outcomes. The first one is a care routine the team carries out. When a test item asks for a client outcome, choose the “The client will…” form.</p>",
      "bullets": [
       "Immobile clients are repositioned every 2 hours with positioning devices.",
       "Mobile clients keep or improve their activity level.",
@@ -1172,6 +1206,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you protect skin integrity?",
      "keyIdea": "Daily inspection, gentle cleansing, moisture control, no massage, and correct turning protect the skin.",
+     "source": "Tissue Integrity slides 43, 55",
      "body": "<p>Your slide on skin integrity lists the core bedside actions. You met most of them in the prevention lesson. Here they are as part of the plan.</p>",
      "bullets": [
       "Inspect the skin at least daily, focusing on bony areas. Check more often for high-risk clients; the hospital standard is twice daily.",
@@ -1187,17 +1222,20 @@ window.NURSE_DATA.push({
     {
      "heading": "Infection, nutrition, and teaching",
      "keyIdea": "Watch closely for infection, feed the wound, and teach the client and family how to protect the skin.",
-     "body": "<p><b>Infection prevention</b> means hand hygiene, clean skin, clean dressings, and enough fluids. It also means spotting infection early and reporting changes to the provider. If the provider orders a wound culture and antibiotics, collect the culture before the first antibiotic dose.</p><p><b>Nutrition</b>: track intake, such as percent of meals eaten. Give supplements and consult the dietitian if needed.</p><p><b>Teaching</b> for clients and caregivers covers risk factors, skin care, positioning, food and fluids, and dressing care if needed.</p><p>Signs of wound infection include:</p>",
+     "source": "Tissue Integrity slides 26, 28, 56, 65",
+     "body": "<p><b>Infection prevention</b>, per your slide, means hygiene, hydration, early recognition, and reporting changes to the provider. Hygiene includes hand hygiene before and after wound care, proper wound cleaning and dressing, and safe disposal of soiled dressings. If the provider orders a wound culture and antibiotics, collect the culture before the first antibiotic dose.</p><p><b>Nutrition</b>: track intake, such as percent of meals eaten. Give supplements and consult the dietitian if needed.</p><p><b>Teaching</b> for clients and caregivers covers risk factors, skin care, positioning, food and fluids, and dressing care if needed.</p><p>Signs of wound infection from your slides include:</p>",
      "bullets": [
       "More pain.",
-      "Redness and warmth that spread.",
-      "Purulent (pus-like) or foul-smelling drainage.",
-      "Fever and a rising white blood cell count."
+      "Redness and swelling.",
+      "More drainage, or purulent (pus-like) drainage, with odor.",
+      "Necrosis (dead tissue) in the wound.",
+      "Fever and a rising white blood cell (WBC) count."
      ]
     },
     {
      "heading": "Who does what on the team?",
      "keyIdea": "The RN keeps tasks that need judgment; stable, routine tasks can go to the LPN or UAP.",
+     "source": "Tissue Integrity slide 29 (delegation and priority added for the NCLEX)",
      "table": {
       "caption": "Pressure injury care by role",
       "headers": [
@@ -1219,7 +1257,7 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "body": "<p>When a hand-off list has a pressure injury client with signs of whole-body illness, that client comes first. New confusion, a fast heart rate, and low blood pressure can mean an infection is spreading from the wound.</p>",
+     "body": "<p>Your slide says an interprofessional team improves outcomes. It brings better communication and fewer complications. Key members are nurses, UAPs, wound care nurses, case managers, HCPs, dermatologists, oncologists, and surgeons.</p><p>When a hand-off list has a pressure injury client with signs of whole-body illness, that client comes first. New confusion, a fast heart rate, and low blood pressure can mean an infection is spreading from the wound.</p>",
      "example": "In hand-off, you get four clients: a Stage II with a rolled dressing edge; a Braden 12 client last turned 2½ hours ago; a Stage III due for a routine dressing change; and a Stage IV client who is newly confused with HR 116 and BP 88/50. See the Stage IV client first. Delegate the overdue turn to the UAP.",
      "check": {
       "q": "Which task fits an LPN best: admission skin assessment, the prescribed dressing change on a Stage III wound the RN staged today, a discharge teaching plan, or staging a new heel wound?",
@@ -1229,6 +1267,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Is the plan working?",
      "keyIdea": "Reassess daily, compare with past numbers, and revise the plan when the wound or skin gets worse.",
+     "source": "Tissue Integrity slide 57",
      "body": "<p>Evaluation closes the loop. Reassess skin daily, or more often if high risk. Ask four questions. Is the skin healing, with smaller, shallower wounds and new pink edges? Is pain controlled? Is turning actually happening? Is the client eating, taking supplements, and keeping weight?</p><p>If goals are not met, change the plan. A wound with no progress over about 2 weeks also needs a fresh look. Teach mobile clients to report new pressure areas themselves.</p>",
      "table": {
       "caption": "Healing vs. worsening",
@@ -1260,6 +1299,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from skipping assessment, charting vague words, or mixing up outcomes and interventions.",
+     "source": "Tissue Integrity slides 52–54",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
       "headers": [
@@ -1297,6 +1337,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Items ask what to do first, what to delegate, which outcome is correct, and whether the plan is working.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns include:</p>",
      "bullets": [
       "“Which action first?” after a report of redness or a soaked dressing: assess, or cleanse then assess.",
@@ -1317,6 +1358,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a wound that is getting worse",
      "keyIdea": "Compare numbers over time; worse numbers mean reassess and revise, not more of the same.",
+     "source": "Added: worked example based on Tissue Integrity slides 52, 57",
      "example": "Mr. R has a Stage III sacral pressure injury. Two weeks ago it was 3.0 × 2.0 × 0.8 cm with 20% slough. Today it is 4.0 × 3.0 × 1.2 cm with 40% slough. His turning log has gaps overnight. He eats about half his meals.",
      "steps": [
       "Compare: length, width, depth, and slough all increased.",
@@ -1444,6 +1486,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why must dead tissue go?",
      "keyIdea": "A wound heals from the bottom up and the edges in, and dead tissue blocks that growth.",
+     "source": "Tissue Integrity slides 58 (notes), 63–64",
      "body": "<p>A pressure injury heals from the bottom up and the edges in. New granulation tissue grows up from the wound bed. New skin creeps in from the edges. For that to happen, the bed must be clean and alive.</p><p>Dead tissue gets in the way in three ways:</p>",
      "bullets": [
       "It feeds bacteria, so infection risk goes up.",
@@ -1455,13 +1498,25 @@ window.NURSE_DATA.push({
     {
      "heading": "Red wounds: protect",
      "keyIdea": "Beefy red, moist, bumpy tissue is healthy healing tissue, so protect it and keep it moist.",
-     "body": "<p><b>What it looks like:</b> a beefy red, moist, shiny bed with a bumpy, cobblestone texture. Think of a ripe strawberry or raw ground beef. This is granulation tissue, packed with new tiny blood vessels. It may bleed a little when touched. You may see a thin rim of new pink skin at the edges.</p><p><b>Goal: PROTECT.</b> Red is good; it means healing. This tissue is fragile. Protect it from trauma and keep it moist. Don't scrub it. Don't use anything that will stick and tear it off when removed.</p>",
+     "source": "Tissue Integrity slides 58 (notes), 64",
+     "body": "<p><b>What it looks like:</b> a beefy red, moist, shiny bed with a bumpy, cobblestone texture. Think of a ripe strawberry or raw ground beef. This is granulation tissue, packed with new tiny blood vessels. It may bleed a little when touched. You may see a thin rim of new pink skin at the edges.</p><p><b>Goal: PROTECT.</b> Red is good; it means healing. This tissue is fragile. Protect it from trauma and keep it moist. Don't scrub it. Nursing care from your slide notes:</p>",
+     "bullets": [
+      "Cleanse gently with normal saline.",
+      "Use non-adherent, moist dressings, such as hydrocolloids, transparent films, or saline-moistened gauze.",
+      "Avoid trauma when you remove dressings."
+     ],
      "example": "A client's sacral wound has a beefy red, moist bed with no slough, eschar, odor, or signs of infection. He asks why you aren't “scrubbing it clean.” You explain: “This is new healing tissue. We protect it and keep it moist. Scrubbing would damage it.”"
     },
     {
      "heading": "Yellow wounds: cleanse",
      "keyIdea": "Soft, stringy yellow tissue is dead slough, so cleanse it away; do not confuse it with living yellow fat.",
-     "body": "<p><b>What it looks like:</b> soft, moist, yellow, cream, or tan tissue. It may be stringy, like wet threads or melted cheese. It may form a film over the bed. This is slough, dead tissue mixed with drainage. It may be loose or stuck to the bed. Yellow wounds often drain more.</p><p><b>Goal: CLEANSE</b> to remove the dead tissue. Then the red tissue underneath can grow.</p><p>Be careful. Yellow slough is not the same as yellow fat in a Stage III wound. Fat is living, lumpy, and part of the wound wall. Slough is a soft film or strands of dead material.</p>",
+     "source": "Tissue Integrity slide 58 (notes)",
+     "body": "<p><b>What it looks like:</b> soft, moist, yellow, cream, or tan tissue. It may be stringy, like wet threads or melted cheese. It may form a film over the bed. This is slough, dead tissue mixed with drainage. It may be loose or stuck to the bed. Drainage may be yellow, tan, or green, and there may be an odor. Yellow can also mean a higher risk of infection.</p><p>Be careful. Yellow slough is not the same as yellow fat in a Stage III wound. Fat is living, lumpy, and part of the wound wall. Slough is a soft film or strands of dead material.</p><p><b>Goal: CLEANSE</b> to remove the nonviable (dead) tissue. Then the red tissue underneath can grow. Nursing care from your slide notes:</p>",
+     "bullets": [
+      "Irrigate with normal saline or a prescribed solution.",
+      "Debride if prescribed (mechanical, enzymatic, or autolytic).",
+      "Use absorbent dressings, such as foams or alginates, to manage drainage."
+     ],
      "check": {
       "q": "Soft, stringy yellow dead tissue covers a wound bed. What is the RYB goal?",
       "a": "Cleanse. Remove the dead tissue (slough)."
@@ -1470,7 +1525,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Black wounds: debride",
      "keyIdea": "Thick, dry, black eschar must usually be removed, except stable, dry eschar on the heels.",
-     "body": "<p><b>What it looks like:</b> a thick, dry, hard, leathery patch, black or dark brown. Think of a thick scab or burnt leather. This is eschar, dead tissue that has dried out. It may be firmly stuck, with edges lifting.</p><p><b>Goal: DEBRIDE.</b> Eschar must be removed for healing. Your slide notes that nurses can debride, but with limits. Some methods are nursing actions with a prescription. Others are done by a surgeon.</p><p>One key exception: <b>stable eschar on the heels</b>. It is dry, firmly attached, and intact, with no redness, swelling, bogginess, or drainage around it. It acts as a natural cover. It is usually left in place unless the provider orders otherwise. If it turns soft, wet, draining, or red at the edges, report it.</p>",
+     "source": "Tissue Integrity slide 58 (notes); stable heel eschar added (current standard)",
+     "body": "<p><b>What it looks like:</b> a thick, dry, hard, leathery patch, black, brown, or gray. Think of a thick scab or burnt leather. This is eschar, dead tissue that has dried out. It may be firmly stuck, with edges lifting.</p><p><b>Goal: DEBRIDE.</b> Eschar must be removed for healing. Your slide notes that nurses can debride, but with limits. Some methods are nursing actions with a prescription. Others are done by a surgeon. Once the dead tissue is removed, the wound often turns yellow, then red.</p><p>One key exception from current guidelines (not in your slides): <b>stable eschar on the heels</b>. It is dry, firmly attached, and intact, with no redness, swelling, bogginess, or drainage around it. It acts as a natural cover. It is usually left in place unless the provider orders otherwise. If it turns soft, wet, draining, or red at the edges, report it.</p>",
      "table": {
       "caption": "RYB color guide at a glance",
       "headers": [
@@ -1494,7 +1550,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Black",
-        "Thick, dry, hard, leathery black or brown",
+        "Thick, dry, hard, leathery black, brown, or gray",
         "Eschar (dead)",
         "DEBRIDE"
        ]
@@ -1505,6 +1561,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Five ways to debride, and who does each",
      "keyIdea": "All five need a prescription; the surgeon does sharp debridement, and the nurse does mechanical, chemical, and autolytic.",
+     "source": "Tissue Integrity slide 58",
      "body": "<p>Your slides list five forms of debridement. Each needs a provider's prescription. They differ in who carries them out. They also differ in whether they remove only dead tissue or healthy tissue too.</p>",
      "table": {
       "caption": "Debridement methods",
@@ -1555,6 +1612,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why question a wet-to-dry order?",
      "keyIdea": "Wet-to-dry pulls off everything it sticks to, so it only belongs in wounds that contain dead tissue.",
+     "source": "Tissue Integrity slide 58 (nonselective detail added)",
      "body": "<p>A wet-to-dry dressing is gauze moistened, usually with saline, and placed in the wound. As it dries, it grabs any tissue it touches. When you remove it, that tissue comes off too.</p><p>The gauze can't tell dead tissue from healthy tissue. That makes it <b>nonselective</b>. It pulls off slough and eschar, but also healthy red granulation. Removal also hurts. So it only belongs in wounds that have dead tissue to remove.</p>",
      "example": "The provider orders wet-to-dry dressings every 6 hours for a Stage III wound. You find the bed is 100% red granulation with scant clear drainage. Clarify the order before doing it. Wet-to-dry would strip the healthy tissue the RYB guide says to protect.",
      "analogy": "Wet-to-dry is like pulling off a bandage that dried into a scraped knee. It takes the scab, but it also rips away the fresh skin underneath."
@@ -1562,6 +1620,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What is maggot therapy?",
      "keyIdea": "Sterile maggots eat dead tissue and spare healthy tissue, and the rest of wound care still continues.",
+     "source": "Tissue Integrity slide 58",
      "body": "<p>It sounds strange, but it is real medicine. In biosurgery, sterile maggots are placed on a nonhealing wound with dead tissue. These fly larvae are raised in a lab, so they carry no germs. They digest dead tissue and do little harm to healthy tissue. Your slides say that in some cases, biosurgery is better than surgical debridement.</p><p>Clients are often nervous or disgusted at first, so teaching matters. Teach that:</p>",
      "bullets": [
       "The larvae are sterile.",
@@ -1574,7 +1633,8 @@ window.NURSE_DATA.push({
     {
      "heading": "The nurse's role and watching for infection",
      "keyIdea": "Assess by color, match care to the goal, clarify orders that don't fit, and watch for infection.",
-     "body": "<p>Infection is more likely in wounds with dead tissue. Watch for more pain, spreading redness and warmth, pus-like or foul drainage, fever, and a rising white blood cell count. Report these to the provider.</p><p>If a culture and antibiotics are ordered, collect the culture before the first antibiotic dose. Track response by trending temperature, the marked edge of redness, and drainage.</p><p>Debridement treats the wound, not the cause. Turning, support surfaces, moisture control, and nutrition must continue, or the wound will not heal.</p>",
+     "source": "Tissue Integrity slides 26, 31, 58, 65",
+     "body": "<p>Infection is more likely in wounds with dead tissue. Watch for more pain, spreading redness and warmth, pus-like or foul drainage, fever, and a rising white blood cell count. Report these to the provider.</p><p>Your slides note that pressure injury treatment varies by stage and facility protocol. Severe wounds may need negative pressure wound therapy, a vacuum device over the wound.</p><p>If a culture and antibiotics are ordered, collect the culture before the first antibiotic dose. Track response by trending temperature, the marked edge of redness, and drainage.</p><p>Debridement treats the wound, not the cause. Turning, support surfaces, moisture control, and nutrition must continue, or the wound will not heal.</p>",
      "steps": [
       "Cleanse the wound, then assess size, stage, and percent red, yellow, and black.",
       "Pick the goal: black means debride, yellow means cleanse, red means protect.",
@@ -1587,6 +1647,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from mixing up living and dead yellow tissue, or who may perform each debridement.",
+     "source": "Tissue Integrity slide 58; heel eschar row added (current standard)",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
       "headers": [
@@ -1624,6 +1685,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Items pair wound colors with goals, ask who can debride, and test when to clarify an order.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns include:</p>",
      "bullets": [
       "Select-all pairings of wound finding and goal (protect, cleanse, debride).",
@@ -1645,6 +1707,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a reopened incision",
      "keyIdea": "In a red and yellow wound, cleanse the yellow and protect the red at the same time.",
+     "source": "Added: worked example based on Tissue Integrity slides 58, 63",
      "example": "After an infection, the surgeon opened Ms. A's lower abdominal incision. It is now healing from the bottom up. The bed is 60% beefy red, moist, bumpy tissue and 40% soft, stringy yellow tissue. Drainage is small. She has no fever.",
      "steps": [
       "Name each color: red is granulation; yellow is slough.",

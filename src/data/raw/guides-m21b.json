@@ -60,6 +60,7 @@
     {
      "heading": "How common are skin problems?",
      "keyIdea": "Skin problems are very common, and skin cancer is the most common cancer in the U.S.",
+     "source": "Tissue Integrity slide 19",
      "body": "<p>The most common skin problems are <b>dermatitis</b> (skin inflammation), <b>drug reactions</b>, and <b>infections</b>. You don't need to memorize the numbers below. Just notice that acne affects most young people, and skin cancer is the most common U.S. cancer.</p>",
      "table": {
       "caption": "Skin disorders in the U.S. (from the slides)",
@@ -110,7 +111,8 @@
     {
      "heading": "What are the three skin cancers?",
      "keyIdea": "Basal cell is the most common, squamous cell can spread, and melanoma is the most serious.",
-     "body": "<p>Cancer happens when cells grow out of control because their DNA is damaged. In skin, the main cause is <b>UV radiation</b> from the sun or tanning beds.</p><p>The damage adds up over many years. So skin cancer shows up most on <b>sun-exposed skin</b>: face, ears, scalp, neck, arms, and hands. Each cancer is named for the cell it starts in.</p>",
+     "source": "Tissue Integrity slides 13, 19; cell-type and appearance details added for the NCLEX",
+     "body": "<p>The course slides name three skin cancers and call <b>malignant melanoma the most serious</b>. The cell types, looks, and “most common” facts below are standard NCLEX knowledge.</p><p>Cancer happens when cells grow out of control because their DNA is damaged. In skin, the main cause is <b>UV radiation</b> from the sun or tanning beds.</p><p>The damage adds up over many years. So skin cancer shows up most on <b>sun-exposed skin</b>: face, ears, scalp, neck, arms, and hands. Each cancer is named for the cell it starts in.</p>",
      "table": {
       "caption": "Comparing the three skin cancers",
       "headers": [
@@ -146,6 +148,7 @@
     {
      "heading": "How do you spot melanoma early?",
      "keyIdea": "Use ABCDE, and remember that E, a changing mole, matters most at any size.",
+     "source": "Added for the NCLEX — not in course materials (ABCDE rule)",
      "body": "<p>Melanoma is the most dangerous skin cancer. But it is very treatable when found early. A normal mole is usually small, round, one even color, and stays the same for years.</p><p>The ABCDE rule spots a mole that breaks these rules. <b>E (evolving)</b> matters most. A mole that changes, itches, crusts, or bleeds needs a check, even if it is small.</p><p>In darker skin, melanoma is more often found on the <b>palms, soles, and under the nails</b>. So self-exams must include the hands and feet.</p>",
      "bullets": [
       "<b>A – Asymmetry:</b> one half does not match the other half.",
@@ -162,7 +165,8 @@
     {
      "heading": "Which risk factors can't be changed?",
      "keyIdea": "Genetics, age, sex, and skin tone can't change, but they tell you who needs extra teaching.",
-     "body": "<p>Some risk factors are fixed. Knowing them tells you who needs extra teaching and closer checks.</p><p><b>Melanin</b> is the pigment that absorbs UV. Lighter skin has less melanin, so it has a <b>higher risk of UV damage</b>. But darker skin is not immune. In darker skin, skin cancer is often found later. <b>All clients are at risk, whatever their skin tone.</b></p>",
+     "source": "Tissue Integrity slides 7, 20–21",
+     "body": "<p>Some risk factors are fixed. Knowing them tells you who needs extra teaching and closer checks.</p><p><b>Melanin</b> is the pigment that absorbs UV. Lighter skin has less melanin, so it has a <b>higher risk of UV damage</b>. But darker skin is not immune. In darker skin, skin cancer is often found later. <b>All clients are at risk, whatever their skin tone.</b></p><p>Darker skin may also keep <b>discolored areas after a lesion heals</b>.</p>",
      "bullets": [
       "<b>Genetics and family history:</b> a parent with melanoma raises the client's own risk.",
       "<b>Inherited skin conditions:</b> epidermolysis bullosa (skin blisters with light rubbing), ichthyosis (very dry, thick, scaly skin), and albinism (little or no melanin, so almost no natural UV protection).",
@@ -176,6 +180,7 @@
     {
      "heading": "Which risk factors can the client change?",
      "keyIdea": "Outside damage, chronic illness, some medicines, and poor nutrition weaken the skin, and teaching can lower each risk.",
+     "source": "Tissue Integrity slides 22, 32",
      "body": "<p><b>Extrinsic aging</b> is skin aging caused by the outside world. Causes include UV, pollution, smoking, and chemicals. It leads to thick skin, wrinkles, and precancer changes.</p><p>One precancer change is the <b>actinic keratosis</b>. It is a rough, scaly, pink patch on the scalp, ears, or hands. It is not “just aging.” It can turn into squamous cell cancer, so it should be checked.</p>",
      "bullets": [
       "<b>Chronic illness</b> (diabetes, HIV/AIDS, obesity, poor circulation) weakens skin defenses. High glucose feeds bacteria, poor circulation starves skin of oxygen, and skin folds trap moisture.",
@@ -191,7 +196,8 @@
     {
      "heading": "How do you teach sun protection?",
      "keyIdea": "Teach broad-spectrum SPF 30 or higher, reapplied about every 2 hours, plus clothing, shade, and no tanning beds.",
-     "body": "<p>Sun protection is the most important way to prevent skin cancer. It is for <b>every skin tone</b>. The slides list sunscreen, hats, and protective clothing.</p>",
+     "source": "Tissue Integrity slides 20–21, 33; SPF and timing details added for the NCLEX",
+     "body": "<p>Sun protection is for <b>every skin tone</b>. The slides list three measures: <b>sunscreen, hats, and protective clothing</b>. The SPF, reapplying, and timing details below are standard teaching added for the NCLEX.</p>",
      "bullets": [
       "<b>Sunscreen:</b> broad-spectrum (blocks UVA and UVB), <b>SPF 30 or higher</b>, and water-resistant for swimming or sweating. Apply plenty before going out.",
       "<b>Reapply about every 2 hours</b> and after swimming, sweating, or towel drying. Water-resistant does <em>not</em> mean all day.",
@@ -205,7 +211,8 @@
     {
      "heading": "What daily skin care prevents problems?",
      "keyIdea": "Clean, dry, moisturized, covered, and not shared: whole, healthy skin keeps germs out.",
-     "body": "<p>Intact skin is the body's first barrier against germs. These habits keep it intact.</p><p>Watch for one trap. <b>Too much washing</b> is also a problem, because it strips the skin's natural oils.</p>",
+     "source": "Tissue Integrity slides 21–22, 27",
+     "body": "<p>Intact skin is the body's first barrier against germs. The slides list these habits to keep it intact.</p><p>Watch for one trap. <b>Too much washing</b> is also a problem, because it strips the skin's natural oils.</p>",
      "bullets": [
       "<b>Keep skin clean, dry, and moisturized.</b> Moisture trapped in folds or between toes lets fungus and bacteria grow. Dry, cracked skin lets germs in.",
       "<b>Don't over-wash.</b> Moisturize regularly, especially after bathing.",
@@ -219,7 +226,8 @@
     {
      "heading": "How do self-exams and screenings work?",
      "keyIdea": "Teach a monthly head-to-toe self-exam, and report new spots, sores that won't heal, and ABCDE moles.",
-     "body": "<p>A <b>self-exam</b> helps clients learn what their normal skin looks like. Then they notice changes early. It applies to every skin tone.</p><p>A <b>professional exam</b> is a full skin check by a dermatologist or provider. It may include a <b>biopsy</b>, <b>cultures</b>, or <b>patch testing</b>.</p>",
+     "source": "Tissue Integrity slide 23; monthly timing and biopsy-site care added for the NCLEX",
+     "body": "<p>A <b>self-exam</b> helps clients learn what their normal skin looks like. Then they notice changes early. It applies to every skin tone. The slides say to focus on <b>sun-exposed areas</b>, then also check the trunk, chest, and feet. A monthly schedule is the usual teaching.</p><p>A <b>professional exam</b> is a full skin check by a dermatologist or provider. It may include a <b>biopsy</b>, <b>cultures</b>, or <b>patch testing</b>.</p>",
      "steps": [
       "Once a month, use good light, a full-length mirror, and a hand mirror. A partner can help.",
       "Check sun-exposed areas: face, ears, neck, scalp, arms, and legs.",
@@ -232,6 +240,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most wrong answers sound reasonable but break one rule about size, skin tone, reapplying, or aging.",
+     "source": "Added: NCLEX review based on Tissue Integrity slides 13, 20–23, 32",
      "body": "<p>These pairs trip up many students. Read each row and say the difference out loud.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -270,6 +279,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to spot a dangerous lesion, catch a teaching error, or pick the most important teaching.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Most questions on this topic fit a few patterns. Learn them, then walk through the sample.</p><p><b>Sample:</b> The nurse taught a 42-year-old client with many moles how to do a monthly skin self-exam. Which statement shows a need for more teaching?<br>A. “I'll check my soles and between my toes.”<br>B. “A mole under pencil-eraser size is fine, even if it's changing.”<br>C. “I'll use a hand mirror to see my back.”<br>D. “I'll report a sore that doesn't heal.”</p>",
      "bullets": [
       "<b>Which lesion should be reported?</b> Pick pearly, scaly-crusted, bleeding, non-healing, or ABCDE lesions.",
@@ -289,6 +299,7 @@
     {
      "heading": "Worked case: a retired farmer's skin check",
      "keyIdea": "Sort each finding as precancer, possible cancer, or normal, then refer and teach.",
+     "source": "Added: worked example based on Tissue Integrity slides 13, 23, 32",
      "body": "<p>Mr. T is a 70-year-old retired farmer. He is bald and rarely wore a hat. Rough, scaly pink patches have been on his scalp and ears for a year.</p><p>On his forearm is a pearly bump with tiny blood vessels. It bleeds off and on. He also has a small, round, evenly brown mole that has not changed in 10 years. He asks, “Isn't this just old skin?”</p>",
      "steps": [
       "<b>Notice the risks:</b> older age and decades of sun with no hat.",
@@ -409,6 +420,7 @@
     {
      "heading": "How do you describe a wound?",
      "keyIdea": "Ask four questions: why is it there, is the skin broken, how dirty is it, and how deep is it?",
+     "source": "Tissue Integrity slides 15–17",
      "body": "<p>Before you learn each system, see the big picture. A nurse can describe any wound by asking four questions.</p>",
      "steps": [
       "<b>Why is it there?</b> Made on purpose (intentional) or by accident (unintentional)?",
@@ -423,8 +435,9 @@
     },
     {
      "heading": "Intentional or unintentional?",
-     "keyIdea": "Wounds made on purpose for therapy are usually cleaner than accidental wounds.",
-     "body": "<p><b>Intentional</b> wounds are made on purpose for therapy. A surgical incision and a venipuncture are both intentional. They are made with sterile tools on skin that was cleaned first. So they are less likely to get infected.</p><p><b>Unintentional</b> wounds are accidents. Examples are a cut from broken glass, a skin tear from a wheelchair armrest, or a bruise from a table edge. Nobody cleaned the skin first. The object may also carry dirt and germs into the wound.</p>",
+     "keyIdea": "Intentional wounds are made for therapy, like surgery or venipuncture. Unintentional wounds are accidents, like fractures or lacerations.",
+     "source": "Tissue Integrity slide 15",
+     "body": "<p><b>Intentional</b> wounds are made on purpose for therapy. A surgical incision and a venipuncture are both intentional. They are made with sterile tools on skin that was cleaned first. So they are usually less likely to get infected.</p><p><b>Unintentional</b> wounds are accidents. The slides name <b>fractures and lacerations</b> (cuts). Other examples are a cut from broken glass, a skin tear from a wheelchair armrest, or a bruise from a table edge. Nobody cleaned the skin first. The object may also carry dirt and germs into the wound.</p>",
      "check": {
       "q": "A client has an IV catheter and a surgical incision on the abdomen. Are these intentional or unintentional wounds?",
       "a": "Both are intentional. They were made on purpose for therapy."
@@ -433,12 +446,14 @@
     {
      "heading": "Open or closed?",
      "keyIdea": "Open wounds break the skin; closed wounds leave skin intact but can hide bleeding underneath.",
+     "source": "Tissue Integrity slides 15, 18",
      "body": "<p>An <b>open wound</b> means the skin or mucous membrane is broken. Examples are cuts, scrapes, skin tears, incisions, and IV sites. The break lets germs in.</p><p>A <b>closed wound</b> means the skin is intact, but the tissue under it is hurt. The main example is a <b>contusion</b> (bruise). A blow crushes small vessels, and blood leaks into the tissue. You see swelling, tenderness, and color change.</p><p>Closed wounds can hide bleeding. A bruise that becomes <b>tense, hard, and keeps growing</b> may mean ongoing bleeding. This is most likely in a client who takes a “blood thinner.”</p>",
      "example": "A client bumped the thigh on a table an hour ago. It is swollen, tender, and bruised, and the skin is intact. This is a closed wound. The nurse applies <b>ice wrapped in a cloth</b> and elevates the leg. Cold narrows vessels, which slows bleeding and swelling and numbs pain. Never put ice right on bare skin."
     },
     {
      "heading": "How dirty is the wound?",
      "keyIdea": "Clean, clean-contaminated, contaminated, dirty/infected: infection risk rises at each step.",
+     "source": "Tissue Integrity slide 16; examples added for the NCLEX",
      "body": "<p>This system is used mostly for surgical wounds. It sorts wounds by how many germs are likely in them. The more germs, the higher the infection risk. Classes are sometimes numbered I to IV.</p><p>To sort a wound, ask these questions. Did surgery enter a body tract that normally has germs? These are the gut (GI), the urinary and genital tract (GU), and the airways. Was the entry controlled? Was there an accident, a spill, or a major break in sterile technique? Is infection already there?</p>",
      "table": {
       "caption": "Wound classes by contamination (lowest → highest infection risk)",
@@ -451,7 +466,7 @@
       "rows": [
        [
         "I. Clean",
-        "No infection, sterile field kept. No GI, GU, or respiratory tract entered.",
+        "<b>Closed</b> wound, no infection, sterile field kept. No GI, GU, or respiratory tract entered.",
         "Elective hernia repair",
         "Lowest"
        ],
@@ -463,13 +478,13 @@
        ],
        [
         "III. Contaminated",
-        "<b>Fresh</b> accidental open wound, a <b>major break</b> in sterile technique, a <b>spill</b> from the GI tract, or inflammation without pus.",
+        "<b>Open, fresh</b> accidental wound, a <b>major break</b> in sterile technique, a <b>spill</b> from the GI tract, or <b>inflammation present</b>.",
         "Dog-bite repair 2 hours after the bite; GI contents spill during bowel surgery",
         "Higher"
        ],
        [
         "IV. Dirty/infected",
-        "<b>Pus, dead tissue</b>, or an infection already present.",
+        "<b>Purulent drainage</b> (pus), <b>dead tissue</b>, or a clinical infection already present.",
         "Ruptured appendix with pus; an old wound with soil and dead tissue",
         "Highest"
        ]
@@ -483,14 +498,16 @@
     },
     {
      "heading": "How deep is the wound?",
-     "keyIdea": "Partial-thickness wounds regrow the same tissue; full-thickness wounds fill with scar and heal more slowly.",
-     "body": "<p>Recall the layers: <b>epidermis</b>, <b>dermis</b>, then fat, muscle, and bone. The epidermis has no blood vessels. So bleeding means the wound reached at least the dermis.</p><p>A <b>partial-thickness</b> wound goes through the epidermis and into part of the dermis. Hair follicles and glands in the dermis still hold living skin cells. These cells multiply and cover the wound. So it heals by <b>regeneration</b>, with little or no scar.</p><p>A <b>full-thickness</b> wound goes through all skin layers. No skin-making cells are left in its base. The body fills it with connective tissue (collagen), which becomes a <b>scar</b>. These wounds heal more slowly and have a higher infection risk.</p>",
+     "keyIdea": "Partial-thickness wounds heal by regeneration; full-thickness wounds lose all skin layers and need connective tissue (scar) repair.",
+     "source": "Tissue Integrity slides 5, 17",
+     "body": "<p>Recall the layers: <b>epidermis</b>, <b>dermis</b>, then fat, muscle, and bone. The epidermis has no blood vessels. So bleeding means the wound reached at least the dermis.</p><p>A <b>partial-thickness</b> wound involves loss of the <b>epidermis and dermis</b>, but it does not go all the way through. Hair follicles and glands deep in the dermis survive and hold living skin cells. These cells multiply and cover the wound. So it heals by <b>regeneration</b>, with little or no scar.</p><p>A <b>full-thickness</b> wound is loss of <b>all skin layers</b>. It may extend to <b>muscle or bone</b>. No skin-making cells are left, so it needs <b>connective tissue repair</b>. The collagen becomes a <b>scar</b>. These wounds heal more slowly and have a higher infection risk.</p>",
      "analogy": "A partial-thickness wound is like a lawn mowed too short. The roots are still there, so the grass grows back the same. A full-thickness wound is like digging out the grass, roots and all. You must fill the hole with something else, and it never looks quite like the lawn.",
      "example": "A client asks why a scraped knee healed with no scar, but a deep glass cut left one. The nurse says, “The scrape only took off the top layers, so your skin grew back the same way. The deep cut went through every layer, so your body filled it with scar tissue.”"
     },
     {
      "heading": "How do you treat a fresh bleeding wound?",
      "keyIdea": "Gloves, then stop the bleeding with pressure and elevation, then clean, cover, and watch for shock.",
+     "source": "Tissue Integrity slide 18",
      "body": "<p>When a client arrives with a fresh, bleeding wound, order matters. Start with <b>hand hygiene and gloves</b>. This protects you and the client.</p><p>Then remember that <b>bleeding is the first threat</b>. A client can lose a dangerous amount of blood in minutes. Infection takes hours to days. So <b>stop the bleeding first</b>, then clean and cover.</p>",
      "steps": [
       "Perform hand hygiene and put on gloves.",
@@ -510,7 +527,8 @@
     {
      "heading": "How do you recognize shock?",
      "keyIdea": "Fast pulse, cool clammy skin, low blood pressure, and restlessness after a wound mean shock until proven otherwise.",
-     "body": "<p>Heavy bleeding, seen or hidden, can cause <b>shock</b>. With less blood in the vessels, the heart beats faster to keep blood moving. Skin vessels tighten to save blood for the brain and heart. So the skin turns cool, pale, and clammy.</p><p>When the body can't keep up, blood pressure drops. Less oxygen to the brain causes restlessness or confusion. A dry dressing does not rule out bleeding. Blood can collect inside a closed wound.</p>",
+     "source": "Tissue Integrity slide 18; extra shock signs added for the NCLEX",
+     "body": "<p>Heavy bleeding, seen or hidden, can cause <b>shock</b>. The slides list three signs: <b>rapid pulse, clammy skin, and low blood pressure</b>. With less blood in the vessels, the heart beats faster to keep blood moving. Skin vessels tighten to save blood for the brain and heart. So the skin turns cool, pale, and clammy.</p><p>When the body can't keep up, blood pressure drops. Less oxygen to the brain causes restlessness or confusion. A dry dressing does not rule out bleeding. Blood can collect inside a closed wound.</p>",
      "bullets": [
       "<b>Fast pulse</b>, often weak or thready",
       "<b>Cool, clammy, pale skin</b>",
@@ -523,7 +541,8 @@
     {
      "heading": "How do you check a treated wound?",
      "keyIdea": "At every dressing change, compare to last time: better, the same, or worse?",
-     "body": "<p>After a wound is treated, such as a sutured cut or a new incision, the nurse checks healing at <b>every dressing change</b>. Each time, compare to the last look.</p><p>If a <b>culture and an antibiotic</b> are both ordered, collect the culture first. Then give the antibiotic without delay. A dirty wound may be <b>left open</b> so infected drainage can escape instead of being trapped.</p>",
+     "source": "Tissue Integrity slides 18, 26, 28, 63, 65, 67; delegation added for the NCLEX",
+     "body": "<p>After a wound is treated, such as a sutured cut or a new incision, the nurse checks healing at <b>every dressing change</b>. Each time, compare to the last look.</p><p>If a <b>culture and an antibiotic</b> are both ordered, collect the culture first. Then give the antibiotic without delay. A wound with infection, edema, or drainage may be <b>left open for 3–5 days</b>, then closed. This is tertiary (delayed primary) intention.</p>",
      "bullets": [
       "<b>Drainage:</b> note amount, color, and odor. Thin, clear or pink drainage can be normal early. Thick, cloudy, yellow-green drainage (pus) or a foul odor suggests infection.",
       "<b>Pain:</b> should slowly decrease. Pain that increases after the first few days is a warning sign.",
@@ -536,6 +555,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most traps mix up wound classes, the first-aid order, or normal versus abnormal drainage.",
+     "source": "Added: NCLEX review based on Tissue Integrity slides 15–18, 67",
      "body": "<p>These pairs trip up many students. Read each row and say the difference out loud.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -578,6 +598,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect wound-class sorting, first-action order, shock cues, and which client to see first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Most questions on this topic fit a few patterns. Learn them, then walk through the sample.</p><p><b>Sample:</b> A worker has a deep 6-cm cut on the palm. The nurse has held firm pressure with gauze for 3 minutes. Blood has now soaked through. What should the nurse do next?<br>A. Remove the gauze to look at the wound.<br>B. Clean the wound with normal saline.<br>C. Place more gauze on top and keep holding firm pressure.<br>D. Apply a cloth-wrapped ice pack.</p>",
      "bullets": [
       "<b>Which class is this wound?</b> Watch for words like controlled, spill, fresh, pus, and dead tissue.",
@@ -598,6 +619,7 @@
     {
      "heading": "Worked case: a dog bite gone bad",
      "keyIdea": "Classify the wound, spot spreading infection, and do the culture before the antibiotic.",
+     "source": "Added: worked example based on Tissue Integrity slides 16, 26, 28, 63",
      "body": "<p>A client comes to urgent care 3 days after a dog bite on the hand. It was never treated. Now it has thick yellow drainage, a foul odor, and black dead tissue at the edges. The skin around it is red and warm. Temperature is 38.4 °C (101.1 °F).</p>",
      "steps": [
       "<b>Classify it:</b> a fresh bite would be contaminated. Pus and dead tissue make it <b>dirty/infected</b>, the highest-risk class.",
@@ -723,13 +745,15 @@
     {
      "heading": "What do biopsies and cultures tell you?",
      "keyIdea": "A biopsy asks “Is it cancer?” A culture asks “Which germ is it, and which antibiotic works?”",
+     "source": "Tissue Integrity slides 25–26; biopsy-site care added for the NCLEX",
      "body": "<p>A <b>skin biopsy</b> removes a small piece of a lesion to look at under a microscope. It answers: benign or cancer? Afterward, teach the client to keep the site <b>clean and covered</b>. If it bleeds, press firmly with clean gauze. Report bleeding that won't stop or signs of infection.</p><p>A <b>culture</b> can test tissue, drainage, exudate, or serum. It grows the germ, names it, and shows which antibiotics work. <b>Collect the culture before the first antibiotic dose.</b> An antibiotic given first can make the result falsely negative. Then give the antibiotic promptly.</p><p>A <b>carrier study</b> is a nasal culture. Some people carry <b>Staphylococcus aureus</b> (staph) in the nose without being sick. They keep reinfecting their own skin. The provider may order this test for clients with <b>repeated infections</b>, such as boils that keep coming back.</p>",
      "example": "A high school wrestler has his third bout of boils in 4 months. His nasal culture grows staph, and the provider prescribes treatment. The nurse teaches him to <b>finish the treatment</b>, <b>cover draining boils</b>, wash hands often, and <b>not share</b> towels, razors, or gear."
     },
     {
      "heading": "Which test finds fungus, virus, or immune causes?",
      "keyIdea": "KOH means fungus, Tzanck means herpes-type virus, Wood lamp means UV glow, and immunofluorescence means immune system.",
-     "body": "<p>Link each test to its cause.</p>",
+     "source": "Tissue Integrity slide 25; how each test works added for the NCLEX",
+     "body": "<p>The slides name these special tests. How each one works is added detail. Link each test to its cause.</p>",
      "bullets": [
       "<b>KOH prep → fungus.</b> Scales are scraped from the edge of a lesion and mixed with KOH. KOH dissolves skin cells but not fungus, so fungal threads show. Think of ring-shaped scaly patches (tinea) and athlete's foot.",
       "<b>Tzanck test → virus.</b> Cells are scraped from the base of a fresh blister. They are checked for changes caused by herpes-type viruses, such as herpes simplex or chickenpox and shingles. Think of <b>clusters of painful vesicles</b> (small fluid-filled blisters).",
@@ -784,6 +808,7 @@
     {
      "heading": "How do allergy tests work?",
      "keyIdea": "Scratch tests are read in minutes, intradermal tests need emergency equipment nearby, and patch tests stay dry for 48 hours.",
+     "source": "Tissue Integrity slides 12, 25; test procedures added for the NCLEX",
      "body": "<p>Allergy tests find out what a client reacts to. The slides list three types. The patch test is the one clients most often get wrong at home.</p>",
      "bullets": [
       "<b>Scratch (prick) test:</b> a tiny drop of each allergen goes on the skin, and the skin is lightly scratched. A raised, itchy <b>wheal within about 15–20 minutes</b> shows an allergy.",
@@ -799,8 +824,9 @@
     },
     {
      "heading": "Which labs predict wound healing?",
-     "keyIdea": "Low WBC, low hemoglobin, abnormal clotting, albumin under 3.5, and high glucose all slow healing.",
-     "body": "<p>A healing wound needs four things. It needs germ-fighting white cells, oxygen, working clotting, and building material (protein). Each lab below tells you if one of these needs is met.</p><p>A <b>low WBC</b> can also <b>hide signs of infection</b>, so report it even if the wound looks fine. In a client with diabetes, <b>high blood glucose</b> also slows healing. Check each lab against its range. Normal values in a question are distractors.</p>",
+     "keyIdea": "Low WBC, low hemoglobin, abnormal clotting, and albumin under 3.5 g/dL slow healing. In diabetes, high glucose does too.",
+     "source": "Tissue Integrity slides 22, 26; normal ranges added for the NCLEX",
+     "body": "<p>A healing wound needs four things. It needs germ-fighting white cells, oxygen, working clotting, and building material (protein). Each lab below tells you if one of these needs is met.</p><p>A <b>low WBC</b> can also <b>hide signs of infection</b>, so report it even if the wound looks fine. Glucose is not on the lab slide. But the slides list diabetes as a cause of poor circulation and delayed healing. So in a client with diabetes, <b>high blood glucose</b> matters too. Check each lab against its range. Normal values in a question are distractors.</p>",
      "table": {
       "caption": "Labs and wound healing (ranges are approximate; check your facility's values)",
       "headers": [
@@ -857,12 +883,14 @@
     {
      "heading": "What if clotting is abnormal?",
      "keyIdea": "Bleeding with a high INR: press firmly first, then call the provider with the result.",
+     "source": "Tissue Integrity slide 26",
      "body": "<p><b>Prolonged clotting times</b> mean blood clots slowly. Causes include illness and blood-thinning medicines. A wound may ooze or bleed heavily. The first action is <b>firm, direct pressure</b>. Then notify the provider with the result.</p><p><b>Hypercoagulability</b> is the opposite. Blood clots too easily. Tiny clots block the small vessels that feed the wound. That means poor blood flow and slow healing.</p>",
      "example": "A client on warfarin had a scalp cut sutured 3 hours ago. The dressing is soaked with bright red blood, and the INR is 4.6 (high). First, the nurse applies <b>firm, direct pressure</b>. Then the nurse calls the provider and watches pulse and BP for shock."
     },
     {
      "heading": "How should clients bathe and care for skin?",
      "keyIdea": "Adults bathe daily; children and older adults bathe every other day in lukewarm water with a mild cleanser, then moisturize.",
+     "source": "Tissue Integrity slides 27, 43",
      "body": "<p>Nursing goals are to <b>control disease, prevent infection, and promote healing</b>. Start by asking about <b>home remedies</b>, without judgment. Peroxide, alcohol, butter, and some herbal pastes can damage tissue and slow healing. Ask what is used first, then teach and report.</p><p>Hygiene removes germs. But too much washing strips natural oils. So <b>adults bathe daily</b>. <b>Children and older adults bathe every other day</b>, because their skin is thinner and drier. Avoid harsh or deodorant soap. To limit scratching, suggest loose cotton clothes and short nails.</p>",
      "steps": [
       "Perform hand hygiene. Check that the water is <b>lukewarm</b>. Hot water dries skin and can burn.",
@@ -876,6 +904,7 @@
     {
      "heading": "How do you prevent wound infection?",
      "keyIdea": "Hand hygiene before and after, safe disposal of dressings, and teaching the signs of infection.",
+     "source": "Tissue Integrity slide 28",
      "body": "<p>Every wound is an open door for germs. So infection prevention is built into every step of wound care.</p><p><b>Exercise</b> also helps. It improves blood flow to healing tissue and helps prevent pressure injuries. A client who sits all day heals more slowly.</p>",
      "bullets": [
       "<b>Clean and dress the wound</b> as ordered.",
@@ -889,11 +918,13 @@
     {
      "heading": "How does food help a wound heal?",
      "keyIdea": "Healing needs more calories and protein, plus vitamins A and C; low albumin means the wound is underfed.",
-     "body": "<p>Skin is rebuilt from what the client eats. A healing wound actually <b>raises</b> the body's needs. The slides list these key nutrients.</p>",
+     "source": "Tissue Integrity slides 28, 42, 56, 66",
+     "body": "<p>Skin is rebuilt from what the client eats. A healing wound actually <b>raises</b> the body's needs. The slides list these key nutrients. They also say to monitor weight, albumin, and hemoglobin.</p>",
      "bullets": [
       "<b>↑ Calories:</b> healing takes energy. Without enough, the body burns protein for fuel instead of building tissue.",
       "<b>↑ Protein:</b> the building material for new tissue. Low protein shows up as low albumin.",
       "<b>Vitamin A</b> helps new skin cells grow. <b>Vitamin C</b> is needed to make collagen, the glue of new tissue.",
+      "<b>Also listed in the course:</b> carbohydrates, fats, <b>zinc, iron</b>, and copper support healing. Malnutrition and obesity both delay healing.",
       "<b>Foods:</b> whole grains, vegetables, citrus, dairy, and lean proteins.",
       "<b>Poor intake:</b> small, frequent meals or supplements, and a dietitian consult."
      ],
@@ -906,6 +937,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most traps swap similar tests, timing rules, or bathing schedules.",
+     "source": "Added: NCLEX review based on Tissue Integrity slides 25–28",
      "body": "<p>These pairs trip up many students. Read each row and say the difference out loud.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -948,6 +980,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect test matching, “which lab slows healing,” patch-test teaching, and first actions for bleeding or allergic reactions.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Most questions on this topic fit a few patterns. Learn them, then walk through the sample.</p><p><b>Sample:</b> A 63-year-old receiving chemotherapy has a small, slow-healing shin wound. The edges are pink, there is no drainage, and the temperature is 37.2 °C (99 °F). Which result should the nurse report first?<br>A. Albumin 3.6 g/dL<br>B. WBC 1,800/mm³<br>C. Hemoglobin 12.4 g/dL<br>D. Fasting glucose 96 mg/dL</p>",
      "bullets": [
       "<b>Which test should the nurse expect?</b> Match the lesion to the test.",
@@ -967,6 +1000,7 @@
     {
      "heading": "Worked case: a wound that won't heal",
      "keyIdea": "Find every factor slowing healing, then fix nutrition, glucose, skin care, and infection risk.",
+     "source": "Added: worked example based on Tissue Integrity slides 26–28",
      "body": "<p>An 84-year-old resident with type 2 diabetes has a skin tear on the forearm. She eats about 30–40% of meals. For years she has showered daily in hot water with deodorant soap. Labs: albumin 3.0 g/dL, hemoglobin 10.1 g/dL, fasting glucose 168 mg/dL, WBC 8,200/mm³.</p>",
      "steps": [
       "<b>Check each lab:</b> albumin is low, hemoglobin is low, and glucose is high. WBC is normal.",
@@ -1089,6 +1123,7 @@
     {
      "heading": "Who is on the skin care team?",
      "keyIdea": "Each team member sees a different piece of the problem, so good teamwork means fewer complications.",
+     "source": "Tissue Integrity slide 29; role details added for the NCLEX",
      "body": "<p>An <b>interprofessional team</b> improves results because each member sees a different part of the client's problem. The slides name two benefits: <b>better communication</b> and <b>fewer complications</b>.</p><p>Know who to call. A wound that has not improved after weeks of care needs a <b>wound care nurse</b> consult. A client with no supplies or unclear insurance at discharge needs the <b>case manager</b>.</p>",
      "table": {
       "caption": "Who does what in skin and wound care",
@@ -1136,6 +1171,7 @@
     {
      "heading": "OTC or prescription: which treats what?",
      "keyIdea": "OTC products treat minor acne, lice, and sunburn; prescriptions treat eczema, psoriasis, and dermatitis.",
+     "source": "Tissue Integrity slide 30; lice and sunburn care added for the NCLEX",
      "body": "<p><b>OTC</b> medicines treat minor problems clients can often handle at home: <b>minor acne, lice, and sunburn</b>.</p><p><b>Prescription</b> medicines, both oral and topical, treat <b>eczema, psoriasis, and dermatitis</b>. These are longer-lasting inflammation problems that need a provider to diagnose and manage.</p><p>Even OTC products need teaching. Clients often think “no prescription” means “no risk.” Then they overuse the product.</p>",
      "bullets": [
       "<b>Minor acne:</b> benzoyl peroxide and salicylic acid (see below).",
@@ -1150,6 +1186,7 @@
     {
      "heading": "How do acne medicines work?",
      "keyIdea": "Benzoyl peroxide kills bacteria and unplugs ducts; salicylic acid peels away dead skin and calms redness.",
+     "source": "Tissue Integrity slides 30, 34; use tips added for the NCLEX",
      "body": "<p>First, understand acne. In puberty, hormones make oil glands produce more <b>sebum</b>. Oil and dead skin cells plug the hair follicle. Skin bacteria grow in the plug, and the area gets inflamed. The result is a pimple.</p><p><b>Benzoyl peroxide</b> is the <b>first-line</b> acne treatment. It <b>kills bacteria and unplugs ducts</b>, so it attacks acne in two ways. <b>Salicylic acid</b> <b>exfoliates</b>. It loosens the glue between dead skin cells so they shed and don't plug pores. It also <b>reduces inflammation</b>, so pimples look less red and swollen.</p>",
      "bullets": [
       "Start with a <b>thin layer, often once a day</b>. Increase slowly as the skin adjusts.",
@@ -1164,8 +1201,9 @@
     },
     {
      "heading": "Why might darker skin need a different plan?",
-     "keyIdea": "Darker skin inflames easily and keeps dark spots after acne, so a skin specialist chooses combined therapy carefully.",
-     "body": "<p>Darker skin is <b>more prone to inflammation</b>. After a pimple heals, darker skin often keeps a <b>dark spot</b> for months.</p><p>So clients with darker skin may need <b>combination therapy</b>. This may pair medicines with <b>chemical peels</b> (a solution that removes outer skin layers) or <b>microdermabrasion</b> (gentle sanding of the top layer). A skin specialist does these. Because these treatments can also irritate darker skin, they are chosen and done carefully.</p>",
+     "keyIdea": "Darker skin is more prone to inflammation, so it may need combination therapy, such as chemical peels or microdermabrasion.",
+     "source": "Tissue Integrity slides 7, 30",
+     "body": "<p>Darker skin is <b>more prone to inflammation</b>. It may also show <b>discoloration after a lesion heals</b>, such as a dark spot after a pimple.</p><p>So clients with darker skin may need <b>combination therapy</b>. This may pair medicines with <b>chemical peels</b> (a solution that removes outer skin layers) or <b>microdermabrasion</b> (gentle sanding of the top layer). A skin specialist does these. Because these treatments can also irritate darker skin, they are chosen and done carefully.</p><p>Ask about <b>makeup and bleaching creams</b>. The slides warn that they can irritate the skin or interact with medicines.</p>",
      "check": {
       "q": "A client with dark brown skin says dark spots stay for months after pimples heal. What plan should the nurse expect?",
       "a": "Combination therapy, such as medicines plus peels or microdermabrasion, chosen carefully by a skin specialist."
@@ -1174,6 +1212,7 @@
     {
      "heading": "How do you apply a topical steroid safely?",
      "keyIdea": "Thin layer, clean dry skin, gloves, and no airtight cover unless ordered.",
+     "source": "Tissue Integrity slides 22, 30; application steps added for the NCLEX",
      "body": "<p>For eczema, psoriasis, and dermatitis, providers often order <b>topical corticosteroids</b>. Sometimes they add oral medicines. Steroids calm the immune reaction that causes redness, itching, and scaling.</p><p>They work well. But heavy or long use can <b>thin the skin</b>, cause stretch marks, and make skin bruise or tear easily. More medicine soaks into the body when large areas are covered or the area is sealed. Strong steroids should not go on the <b>face or skin folds</b>. Thin skin there absorbs more.</p>",
      "steps": [
       "Check the order and identify the client with two identifiers. Perform hand hygiene.",
@@ -1192,12 +1231,14 @@
     {
      "heading": "Which medicines change the skin itself?",
      "keyIdea": "Steroids, antibiotics, chemotherapy, and antifungals can thin skin or raise sun sensitivity.",
+     "source": "Tissue Integrity slide 22",
      "body": "<p>Some medicines taken for other problems change the skin. The slides name <b>steroids, antibiotics, chemotherapy, and antifungals</b>. They may <b>thin the skin</b>, especially long-term steroids. Or they may <b>increase sun sensitivity</b>, like the antibiotic doxycycline.</p><p>When you review a client's medicine list, look for these drug groups. Then teach gentle skin care and sun protection. For thin, fragile skin, prevent bumps, rubbing, and tape injuries.</p>",
      "example": "A 74-year-old has taken prednisone daily for 3 years. The forearm skin is thin and fragile, with several bruises. The nurse <b>pads the side rails</b> and uses a <b>lift sheet</b> to reposition. The nurse teaches long sleeves when gardening to prevent scrapes."
     },
     {
      "heading": "What are nonpharmacologic therapies?",
      "keyIdea": "Burns get daily debridement and sterile dressings; pressure injuries follow stage and protocol; severe wounds may get NPWT.",
+     "source": "Tissue Integrity slide 31; NPWT details added for the NCLEX",
      "body": "<p>Not every skin treatment comes in a tube. <b>Proper wound care, dressing changes, and nutrition</b> are the base of all healing.</p><p>For <b>negative pressure wound therapy (NPWT)</b>, foam goes in the wound and is sealed with clear film. A tube connects it to a vacuum. Gentle suction <b>removes extra fluid, pulls the wound edges together, and boosts blood flow</b>. Collapsed foam and thin, clear drainage are expected. <b>Bright red blood filling the tubing or canister</b> is an emergency.</p>",
      "bullets": [
       "<b>Burns → daily debridement and sterile dressings.</b> Burns leave dead tissue that germs love. Debridement removes it so healthy tissue can grow. Burned skin has lost its barrier, so dressings are <b>sterile</b>.",
@@ -1210,6 +1251,7 @@
     {
      "heading": "Are herbal products safe?",
      "keyIdea": "Aloe vera, chamomile, and evening primrose oil may soothe skin, but evidence is limited and allergies and interactions happen.",
+     "source": "Tissue Integrity slide 31; product details added for the NCLEX",
      "body": "<p>Many clients use natural products on their skin. The slides name three. <b>Aloe vera</b> is a plant gel often used on minor burns and sunburn. <b>Chamomile</b> is a flower used in creams and teas. <b>Evening primrose oil</b> comes from a plant seed and is taken as capsules or put on the skin.</p><p>They may soothe irritation and help healing. But the <b>evidence is limited</b>. “Natural” does not mean “safe for everyone.”</p>",
      "bullets": [
       "<b>Allergies:</b> any plant product can cause a skin reaction. Chamomile is related to ragweed, so people with ragweed allergy may react. Stop any product that causes <b>burning, stinging, rash, or swelling</b>.",
@@ -1226,6 +1268,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most traps confuse expected side effects with danger signs, or OTC with prescription conditions.",
+     "source": "Added: NCLEX review based on Tissue Integrity slides 22, 30–31",
      "body": "<p>These pairs trip up many students. Read each row and say the difference out loud.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1264,6 +1307,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect “needs more teaching” items, topical steroid safety, the right team member, and which client to call first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Most questions on this topic fit a few patterns. Learn them, then walk through the sample.</p><p><b>Sample:</b> A clinic nurse has four messages. Which client should the nurse call back first?<br>A. A teen whose benzoyl peroxide bleached a pillowcase<br>B. A client asking for a refill of a steroid cream<br>C. A client with new lip swelling and a hoarse voice after using a new chamomile cream<br>D. A parent asking how long to comb out lice nits</p>",
      "bullets": [
       "<b>Which statement needs more teaching?</b> Look for scrubbing, overuse, “natural means safe,” or skipping sunscreen on doxycycline.",
@@ -1283,6 +1327,7 @@
     {
      "heading": "Worked case: psoriasis and a home remedy",
      "keyIdea": "Check how the client uses each product, stop unsafe use, and tell the provider.",
+     "source": "Added: worked example based on Tissue Integrity slides 22, 30–31",
      "body": "<p>A 31-year-old has thick psoriasis plaques on the elbows and knees. The order is a high-potency steroid ointment. At follow-up, the client says, “It works so well that I also put it on my face and groin where it itches.” The client also started evening primrose oil capsules and takes a blood thinner.</p>",
      "steps": [
       "<b>Spot the steroid problem:</b> strong steroids don't go on the face or skin folds. Thin skin there absorbs more and thins faster.",

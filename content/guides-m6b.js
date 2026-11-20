@@ -75,7 +75,8 @@ window.NURSE_DATA.push({
     {
      "heading": "What is an electrolyte?",
      "keyIdea": "An electrolyte is a charged particle dissolved in body water, and its charge runs nerves, muscles, and water movement.",
-     "body": "<p>An electrolyte is a particle that carries an electrical charge when it dissolves in water. A charged particle is called an <b>ion</b>. Positive ions are <b>cations</b>. Negative ions are <b>anions</b>.</p><p>Why does the charge matter? Charge is how nerves send signals and how muscles, including the heart, know when to contract. Charged particles also pull on water, so they help decide where fluid goes.</p><p>Amounts differ by location in the body. The body keeps positive and negative charges equal in each space.</p>",
+     "source": "Fluid & Electrolytes slides 10, 45",
+     "body": "<p>An electrolyte is a particle that carries an electrical charge when it dissolves in water. A charged particle is called an <b>ion</b>. Positive ions are <b>cations</b>. Negative ions are <b>anions</b>.</p><p>Why does the charge matter? Charge is how nerves send signals and how muscles, including the heart, know when to contract. Charged particles also pull on water, so they help decide where fluid goes.</p><p>All body fluids contain electrolytes, but the amount varies by location in the body. Electrolytes also move between compartments to keep balance and equal charge.</p>",
      "bullets": [
       "<b>Cations (positive):</b> sodium (Na⁺), potassium (K⁺), calcium (Ca²⁺), and magnesium (Mg²⁺).",
       "<b>Anions (negative):</b> chloride (Cl⁻), bicarbonate (HCO₃⁻), and phosphate (PO₄³⁻)."
@@ -85,6 +86,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Where does each electrolyte live?",
      "keyIdea": "Sodium and chloride rule outside the cell, potassium rules inside, and bicarbonate is found on both sides.",
+     "source": "Fluid & Electrolytes slides 8–9, 26, 40, 43–44",
      "body": "<p>Body water sits in two main places. <b>Intracellular fluid (ICF)</b> is inside the cells. <b>Extracellular fluid (ECF)</b> is outside the cells. It includes the blood and the spaces between cells.</p><p>Each electrolyte has a main home. A pump in the cell membrane keeps the two sides different. This <b>sodium–potassium pump</b> uses energy (ATP) to push sodium out and pull potassium in. Magnesium switches the pump on.</p>",
      "table": {
       "caption": "Where the major electrolytes are found (from your slides)",
@@ -112,6 +114,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Sodium and chloride: the water team",
      "keyIdea": "Water follows sodium, chloride follows sodium, and the serum sodium number changes whenever body water changes.",
+     "source": "Fluid & Electrolytes slides 41, 46",
      "body": "<p>Sodium (Na⁺) is the main electrolyte outside the cells. Your slides call it the <b>water regulator</b>. Remember the key phrase: <b>water follows sodium</b>. Where sodium goes, water is pulled after it.</p><p>Chloride (Cl⁻) is <b>sodium's partner</b>. Where sodium goes, chloride follows.</p><p>A serum sodium result is a <b>concentration</b>. It depends on how much water is in the body and on daily intake. Add a lot of plain water and the number drops. Lose water and the number rises, even if the client ate little salt.</p>",
      "bullets": [
       "<b>Sodium's jobs:</b> controls water balance, affects serum osmolality (how concentrated the blood is) and ECF volume, and supports nerve and muscle function. It comes from the diet.",
@@ -128,6 +131,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Potassium and phosphate: inside the cell",
      "keyIdea": "Potassium runs the heart's rhythm and is not stored, so a client needs some every day.",
+     "source": "Fluid & Electrolytes slides 42, 47",
      "body": "<p>Potassium (K⁺) is the main electrolyte inside the cells. Your slides call it <b>the cardiac electrolyte</b>. The heart's rhythm depends on it.</p><p>The body does <b>not</b> store potassium. The kidneys keep excreting it even when intake stops. So a client who takes in no potassium will see the level fall, even with no vomiting or diarrhea.</p><p>Phosphate (also called phosphorus) also lives mainly inside the cells. It comes from the diet. The kidneys excrete the extra. So when the kidneys fail, phosphate builds up in the blood.</p>",
      "bullets": [
       "<b>Potassium's jobs:</b> carries nerve signals, keeps a normal heart rhythm, makes muscles contract, and helps control fluid balance inside the cells.",
@@ -140,7 +144,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Magnesium: why is it replaced first?",
      "keyIdea": "When magnesium, potassium, and calcium are all low, fix magnesium first, or the other two will not correct.",
-     "body": "<p>Magnesium (Mg²⁺) lives mainly inside the cells. Your slides call it <b>the stabilizer</b>. It helps keep nerves and muscles steady. Abnormal levels can affect muscles, nerves, and heart rhythm.</p><p>Your slides give a clinical hint. If magnesium, potassium, and calcium are all low, replace magnesium <b>first</b>. The steps below show why.</p><p>Before any replacement dose, check the newest lab result. If magnesium is now above 2.5 mEq/L, hold the dose and tell the provider.</p>",
+     "source": "Fluid & Electrolytes slides 43, 48",
+     "body": "<p>Magnesium (Mg²⁺) lives mainly inside the cells. Your slides call it <b>the stabilizer</b>. It helps keep nerves and muscles steady. Abnormal levels can cause muscle weakness or tremors, neuromuscular instability, and heart rhythm changes.</p><p>Your slides give a clinical hint. If magnesium, potassium, and calcium are all low, replace magnesium <b>first</b>. The slide asks “why?” but does not answer. The steps below are the added explanation.</p><p>Before any replacement dose, check the newest lab result. If magnesium is now above 2.5 mEq/L, hold the dose and tell the provider.</p>",
      "bullets": [
       "<b>Jobs:</b> helps many enzyme reactions as a cofactor (helper), supports protein building, switches on the sodium–potassium pump, and steadies nerves, skeletal muscle, and heart muscle.",
       "<b>Food sources:</b> green leafy vegetables, nuts and seeds, whole grains, and legumes (dried beans and lentils)."
@@ -160,9 +165,10 @@ window.NURSE_DATA.push({
     {
      "heading": "Calcium and bicarbonate: bones and buffer",
      "keyIdea": "Calcium builds bone and runs muscles, nerves, and clotting, while bicarbonate is the acid buffer the body makes itself.",
-     "body": "<p><b>Calcium (Ca²⁺)</b> works with phosphate to build bones and teeth. It is also needed for muscle contraction (including the heart), nerve signals, and blood clotting. Almost all of it is stored in bones and teeth. The serum test measures the small amount in the blood.</p><p>Your course's normal total calcium is <b>9–11 mg/dL</b>. Many NCLEX review books use about 9.0–10.5 mg/dL. So 10.8 may be called high on a standardized test but normal in your course. On course exams, use your course numbers.</p><p><b>Bicarbonate (HCO₃⁻)</b> is a <b>buffer</b>. It keeps blood pH stable, so the body does not become too acidic or too alkaline.</p>",
+     "source": "Fluid & Electrolytes slides 37, 42, 44, 47, 49 (calcium's jobs and food sources added)",
+     "body": "<p><b>Calcium (Ca²⁺)</b> works with phosphate to build bones and teeth. It is also needed for muscle contraction (including the heart), nerve signals, and blood clotting. Your slides do not list these jobs; they are added background. Almost all calcium is stored in bones and teeth. The serum test measures the small amount in the blood.</p><p>Your course's normal total calcium is <b>9–11 mg/dL</b>. Many NCLEX review books use about 9.0–10.5 mg/dL. So 10.8 may be called high on a standardized test but normal in your course. On course exams, use your course numbers.</p><p><b>Bicarbonate (HCO₃⁻)</b> is found both inside and outside the cells. It is a <b>buffer</b> that regulates acid–base balance. It keeps blood pH stable, so the body does not become too acidic or too alkaline.</p>",
      "bullets": [
-      "<b>Calcium sources:</b> dairy products, leafy green vegetables, and fortified foods. Vitamin D helps the gut absorb calcium.",
+      "<b>Calcium sources (added; not on your slides):</b> dairy products, leafy green vegetables, and fortified foods. Vitamin D helps the gut absorb calcium.",
       "<b>Extra calcium:</b> overuse of calcium-based antacids adds calcium to the body.",
       "<b>Bicarbonate is made by the body,</b> not taken from food. The kidneys make it and reabsorb it as needed.",
       "<b>Bicarbonate and IV fluid:</b> the lactate in Lactated Ringer's (LR) is turned into bicarbonate. That is why LR helps correct metabolic acidosis (too much acid in the blood)."
@@ -172,17 +178,19 @@ window.NURSE_DATA.push({
     {
      "heading": "What does a blood test really show?",
      "keyIdea": "A serum lab shows only the fluid outside the cells, so shifts and broken cells can change the number without any change in intake.",
-     "body": "<p>A blood sample reflects the <b>extracellular fluid</b>: the plasma, which is in balance with the fluid between cells. Levels inside the cells cannot be measured directly.</p><p>This matters most for potassium, magnesium, and phosphate. Most of each lives inside cells. Electrolytes also shift in and out of cells to keep things stable. So the blood level can change even when the body's total amount has not.</p>",
+     "source": "Fluid & Electrolytes slides 40, 45 (hemolyzed-sample bullet added)",
+     "body": "<p>A blood sample reflects the <b>extracellular fluid</b>: the plasma and the interstitial fluid (the fluid between cells). Levels inside the cells cannot be measured directly. Lab values only show what is happening outside the cells.</p><p>This matters most for potassium, magnesium, and phosphate. Most of each lives inside cells. Electrolytes also shift in and out of cells to keep things stable. So the blood level can change even when the body's total amount has not.</p>",
      "bullets": [
       "<b>Cell injury:</b> when cells are hurt or die, their contents spill into the blood. Your slides list chemotherapy, trauma, and extreme illness.",
       "<b>Result:</b> potassium and phosphate rise in the blood. The cause is cell breakdown, not extra intake.",
-      "<b>Hemolyzed sample:</b> red cells that broke in the lab tube can falsely raise potassium. Report the result with the lab note so a new sample can be drawn."
+      "<b>Hemolyzed sample (added; not on your slides):</b> red cells that broke in the lab tube can falsely raise potassium. Report the result with the lab note so a new sample can be drawn."
      ],
      "example": "The day after a first chemotherapy treatment for a large tumor, labs show potassium 5.6 mEq/L and phosphate 5.0 mg/dL. The client has not eaten more bananas or taken supplements. The nurse recognizes dying cells releasing their contents. The nurse names the values hyperkalemia and hyperphosphatemia and reports them promptly."
     },
     {
      "heading": "How do you name an abnormal lab value?",
      "keyIdea": "Compare the value with its range, then add hypo- for low or hyper- for high, plus the electrolyte root and -emia.",
+     "source": "Fluid & Electrolytes slides 46–48, 52",
      "body": "<p>Your slides mark these ranges <b>KNOW</b>. Your instructor says to know the names, not the signs and symptoms of each state.</p><p>Build each term from parts: <b>hypo-</b> (below) or <b>hyper-</b> (above), then the electrolyte root, then <b>-emia</b> (in the blood). Two roots come from Latin. <em>Natrium</em> means sodium (Na). <em>Kalium</em> means potassium (K).</p><p>When several values are off, look at potassium first. It controls heart rhythm, so a potassium outside 3.5–5.0 usually gets reported first. While you wait for orders, assess the heart rate and rhythm.</p>",
      "table": {
       "caption": "Normal serum values (course ranges) and terms",
@@ -240,6 +248,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from look-alike facts, so learn the one detail that splits each pair.",
+     "source": "Fluid & Electrolytes slides 41–47 (review; hemolysis and NCLEX-range rows added)",
      "body": "<p>These pairs look alike on a test. Learn the clue that separates them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -282,6 +291,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to name a value, find what changed it, or choose which result to act on first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A client takes furosemide. Potassium is still 3.2 mEq/L after two doses of oral potassium. Magnesium is 1.1 mEq/L and calcium is 8.6 mg/dL. What should the nurse do first?</p><p>A. Give the next potassium dose early.<br>B. Tell the provider that low magnesium is a likely reason potassium is not correcting.<br>C. Encourage the client to eat more bananas.<br>D. Recheck the potassium tomorrow.</p>",
      "bullets": [
       "<b>Name the value:</b> match a result to its hypo- or hyper- term. Values near a limit are most often missed.",
@@ -302,6 +312,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: labs after chemotherapy",
      "keyIdea": "Compare each value with its range, think about where that electrolyte lives, then report the most dangerous change first.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 42, 45–46, 48",
      "body": "<p>A 58-year-old client started chemotherapy for leukemia 2 days ago. The diet has not changed. No supplements are ordered. The only IV fluid is 0.9% sodium chloride.</p><p>Today's labs: potassium 5.6 mEq/L, phosphate 5.1 mg/dL, sodium 139 mEq/L, and magnesium 2.0 mEq/L.</p>",
      "steps": [
       "<b>Compare with the ranges.</b> Potassium above 5.0 is hyperkalemia. Phosphate above 4.5 is hyperphosphatemia. Sodium and magnesium are normal.",
@@ -374,9 +385,9 @@ window.NURSE_DATA.push({
    ],
    "bigPicture": "<p>You cannot see fluid balance directly. You piece it together from clues. Your slides say the nurse monitors three things: <b>volume</b> (how much fluid), <b>concentration</b> (how diluted or concentrated it is), and <b>electrolytes</b> (lab values). The goal is to support the body so it works its best.</p><p>Some clues come from your hands and eyes, like skin and mucous membranes. Some come from bedside numbers, like weight, vital signs, and intake and output. Others come from the lab. No single clue tells the whole story. A good nurse puts them together and notices when they point the same way.</p>",
    "recap": [
-    "Monitor volume (I&O, daily weights, exam), concentration (osmolality, IV fluid type, specific gravity, hematocrit), and electrolytes (labs).",
+    "Monitor volume (I&O, physical assessment), concentration (type of IV fluids ordered), and electrolytes (lab values).",
     "Daily weights: same time, same scale, same clothing, after voiding and before breakfast. 1 kg ≈ 1 L; 1 lb ≈ 0.5 L.",
-    "Urine output should be at least 0.5 mL/kg/hr. The body needs 400–600 mL a day just to clear wastes.",
+    "Urine output should be at least 0.5 mL/kg/hr. The body must put out 400–600 mL a day to clear wastes (obligatory losses).",
     "Record ALL intake and ALL output. Skin and lung losses are not totaled but still count.",
     "Serum osmolality 280–300 and urine osmolality 200–800 mOsm/kg. Specific gravity 1.005–1.030.",
     "Water loss raises hematocrit, osmolality, and specific gravity together. Added fluid lowers them.",
@@ -425,15 +436,16 @@ window.NURSE_DATA.push({
      "def": "A hormone that tells the kidneys to save water. It is released when the blood is too concentrated."
     },
     {
-     "term": "Obligatory urine output",
-     "def": "The minimum of about 400–600 mL of urine per day the body must make to clear its wastes."
+     "term": "Obligatory losses",
+     "def": "The 400–600 mL of urine a day the body must put out to rid itself of wastes."
     }
    ],
    "sections": [
     {
      "heading": "What does the nurse monitor?",
      "keyIdea": "The nurse watches volume, concentration, and electrolytes, and each one has its own tools.",
-     "body": "<p>Your slides sort the nurse's fluid job into three things to watch. Learn which tools go with each one.</p>",
+     "source": "Fluid & Electrolytes slides 17, 51–52",
+     "body": "<p>Your slides sort the nurse's fluid job into three things to watch. The goal is to support the body so it functions at its best.</p>",
      "table": {
       "caption": "What nurses monitor, and how (from your slides)",
       "headers": [
@@ -443,22 +455,27 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "<b>Volume:</b> how much fluid",
-        "Intake and output (I&O), daily weights, physical assessment"
+        "Intake and output (I&O) and physical assessment"
        ],
        [
         "<b>Concentration</b> (osmolality): how diluted or concentrated",
-        "Type of IV fluid ordered, serum and urine osmolality, specific gravity, hematocrit"
+        "Type of IV fluids ordered"
        ],
        [
         "<b>Electrolytes</b>",
-        "Lab values (serum electrolytes)"
+        "Laboratory values"
        ]
       ]
-     }
+     },
+     "bullets": [
+      "<b>More volume tools (later slides):</b> daily weights and vital signs.",
+      "<b>More lab tools (later slides):</b> hematocrit, serum and urine osmolality, specific gravity, and urine output per kg per hour."
+     ]
     },
     {
      "heading": "How do you assess fluid at the bedside?",
      "keyIdea": "Check skin, mouth, eyes, heart and lungs, overall look, fontanels, and neuro status, then see whether the findings agree.",
+     "source": "Fluid & Electrolytes slide 50",
      "body": "<p>Start by knowing the client's current labs. Then check each area below. Learn what normal looks like so you notice change.</p><p>Edema collects where gravity pulls fluid. Check the sacrum (low back) in a client on bed rest. Check the feet and ankles in a client who is up.</p>",
      "bullets": [
       "<b>Skin:</b> look at appearance, dryness, turgor, and edema. To test turgor, gently pinch skin over the sternum, below the collarbone, or on the forearm. Normal skin snaps back. Skin that stays “tented” suggests a fluid deficit.",
@@ -477,13 +494,14 @@ window.NURSE_DATA.push({
     {
      "heading": "Why are daily weights so important?",
      "keyIdea": "A fast weight change over a day or two is fluid, and each 1 kg of change equals about 1 L.",
+     "source": "Fluid & Electrolytes slide 51",
      "body": "<p>A rapid weight change over a day or two is almost always fluid, not fat or muscle. That makes the scale your most sensitive tool for fluid gain or loss.</p><p>Weights only compare if the conditions match. If a client was weighed a different way, reweigh under yesterday's conditions before you interpret or report the change.</p>",
      "steps": [
       "Weigh at the <b>same time</b> each day, usually early morning <b>after voiding and before breakfast</b>.",
       "Use the <b>same scale</b> each time.",
       "Use the <b>same clothing</b>, such as a gown only and no shoes. On a bed scale, remove extra linens and devices.",
       "Record the weight and <b>compare it with yesterday's</b>. The trend matters more than one number.",
-      "Convert: <b>1 kg ≈ 1 L of fluid. 1 lb ≈ 0.45 kg ≈ 0.5 L (500 mL).</b>",
+      "Convert: <b>1 kg (2.2 lb) = 1,000 mL (1 L) of fluid.</b> So 1 lb ≈ 0.45 kg ≈ 0.5 L (about 500 mL).",
       "Report sudden gains or losses per the provider's or facility's limits."
      ],
      "example": "A client with heart failure weighed 82.0 kg yesterday and 83.5 kg today. The scale, gown, and timing were the same. That 1.5 kg gain means about 1.5 L of retained fluid. The nurse checks for edema, listens to the lungs, and notifies the provider.",
@@ -495,7 +513,8 @@ window.NURSE_DATA.push({
     {
      "heading": "What do vital signs tell you?",
      "keyIdea": "A rising pulse, a blood pressure drop on standing, fever, and fast breathing all point to low volume or growing losses.",
-     "body": "<p>Vital signs add clues to fluid status. Compare each one with the client's own baseline, not just the textbook normal.</p><p>A client who just lost a lot of fluid may feel dizzy when standing. Help the client sit or lie down first to prevent a fall. Then recheck blood pressure and pulse.</p>",
+     "source": "Fluid & Electrolytes slides 30, 51 (vital-sign changes added)",
+     "body": "<p>Your slides list vital signs as a clinical measurement. The changes below are added background. Vital signs add clues to fluid status. Compare each one with the client's own baseline, not just the textbook normal.</p><p>A client who just lost a lot of fluid may feel dizzy when standing. Help the client sit or lie down first to prevent a fall. Then recheck blood pressure and pulse.</p>",
      "bullets": [
       "<b>Heart rate:</b> when blood volume drops, the heart beats faster to keep blood moving.",
       "<b>Blood pressure:</b> may fall, especially when the client stands up.",
@@ -507,6 +526,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you count intake and output?",
      "keyIdea": "Record every measurable fluid in and out in mL, and remember that skin and lung losses are real but not totaled.",
+     "source": "Fluid & Electrolytes slides 15, 30–31, 51, 53",
      "body": "<p>Your slides say to record <b>ALL</b> intake and output. Measure in milliliters (mL). One ounce equals 30 mL. Assistive personnel (AP) can measure and record I&O. The <b>nurse interprets</b> the totals.</p><p>Some losses cannot be measured. These <b>insensible losses</b> include sweat that evaporates and water vapor from the lungs. They are not in the totals, but they still affect hydration. Fever, heat, and fast breathing raise them. Daily weight catches them.</p>",
      "bullets": [
       "<b>Oral intake:</b> water, juice, coffee, soup, and foods liquid at room temperature (gelatin, ice cream, popsicles). Record ice chips as half their volume.",
@@ -525,7 +545,8 @@ window.NURSE_DATA.push({
     {
      "heading": "What is the minimum urine output?",
      "keyIdea": "Urine output should be at least 0.5 mL per kg per hour; if it is lower, check the catheter and bladder, then report.",
-     "body": "<p>Your slides star this rule: urine output should be at least <b>0.5 mL/kg/hr</b>. The kidneys are the main way the body removes fluid and wastes.</p><p>The body must make at least <b>400–600 mL</b> a day just to clear wastes. This is <b>obligatory output</b>. A typical adult makes about 1,400–1,500 mL a day.</p><p>Output below the minimum warns that the kidneys are not getting enough blood flow or are not working well. With a catheter, first check the tubing for kinks or blocks and check the bladder. Then notify the provider.</p>",
+     "source": "Fluid & Electrolytes slides 28–29, 32, 52",
+     "body": "<p>Your slides star this rule: urine output should be at least <b>0.5 mL/kg/hr</b> (written as “>0.5 mL/kg/hour”). The kidneys are the main way the body removes fluid and wastes.</p><p>The body must make at least <b>400–600 mL</b> a day just to clear wastes. These are called <b>obligatory losses</b>. A typical adult makes about 1,400–1,500 mL a day.</p><p>Output below the minimum warns that the kidneys are not getting enough blood flow or are not working well. With a catheter, first check the tubing for kinks or blocks and check the bladder. Then notify the provider.</p>",
      "steps": [
       "Find the weight in kilograms (pounds ÷ 2.2).",
       "Multiply by 0.5 to get the minimum mL per hour.",
@@ -565,12 +586,14 @@ window.NURSE_DATA.push({
     {
      "heading": "What does hematocrit show?",
      "keyIdea": "Hematocrit rises when blood loses water and falls when fluid is added, even when the red cell count has not changed.",
-     "body": "<p>Your slides say to know the CBC, especially the <b>hematocrit</b>. It is the percent of blood made up of red blood cells. Typical adult ranges are about 37–47% for women and 42–52% for men. Your lab's range may differ.</p><p>Because it is a percent, it shifts with the fluid in the blood. When blood loses water, the same cells sit in less fluid, so the hematocrit rises (<b>hemoconcentration</b>). When fluid is added, such as isotonic IV fluid, the cells spread out and the hematocrit falls (<b>hemodilution</b>).</p><p>So a falling hematocrit after IV fluids does not automatically mean bleeding.</p>",
+     "source": "Fluid & Electrolytes slides 36, 52 (hematocrit ranges added)",
+     "body": "<p>Your slides say to know the CBC, especially the <b>hematocrit</b>. It is the percent of blood made up of red blood cells. Your slides do not give a range. Typical adult ranges are about 37–47% for women and 42–52% for men. Your lab's range may differ.</p><p>Because it is a percent, it shifts with the fluid in the blood. When blood loses water, the same cells sit in less fluid, so the hematocrit rises (<b>hemoconcentration</b>). When fluid is added, such as isotonic IV fluid (your slides note it “may dilute hematocrit”), the cells spread out and the hematocrit falls (<b>hemodilution</b>).</p><p>So a falling hematocrit after IV fluids does not automatically mean bleeding.</p>",
      "analogy": "Think of hematocrit as the amount of pulp in orange juice. Add water and the pulp percent drops, though no pulp was removed. Let water evaporate and the percent rises, though no pulp was added."
     },
     {
      "heading": "How concentrated are the body fluids?",
      "keyIdea": "When the body is short on water, serum osmolality, urine osmolality, and specific gravity rise together.",
+     "source": "Fluid & Electrolytes slides 20, 33, 41, 52",
      "body": "<p><b>Osmolality</b> measures how many particles are dissolved in a fluid. Sodium is the biggest part of serum osmolality. Urine osmolality has a wide range because healthy kidneys adjust the urine to the body's needs.</p><p>When blood is too concentrated, the body triggers <b>thirst</b> and releases <b>ADH</b>. ADH tells the kidneys to save water, so urine becomes more concentrated. When blood is too dilute, the opposite happens.</p><p>A urinalysis checks urine's physical, chemical, and microscopic traits. <b>Specific gravity</b> compares urine with pure water (1.000). More particles mean a higher number and darker urine. Extra fluid or diuretics make it lower and the urine pale.</p>",
      "table": {
       "caption": "Diagnostic values to know",
@@ -618,6 +641,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Never judge one finding alone; check it against the client's weight, timing, and other clues.",
+     "source": "Fluid & Electrolytes slides 29–30, 36, 50–52 (review)",
      "body": "<p>These look-alikes catch many students. Learn the detail that tells them apart.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -652,7 +676,7 @@ window.NURSE_DATA.push({
        ],
        [
         "24-hour urine of 350 mL",
-        "Below obligatory output (400–600 mL/day). Report it now."
+        "Below obligatory losses (400–600 mL/day). Report it now."
        ],
        [
         "Chvostek and Trousseau signs",
@@ -664,6 +688,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect math, priority, and “which findings fit” questions, so calculate first and then compare.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> An 80 kg client is 1 day after surgery. Urine output for the past 4 hours totals 135 mL. A bladder scan shows 60 mL in the bladder. What should the nurse do first?</p><p>A. Encourage oral fluids and recheck in 4 hours.<br>B. Notify the provider that output is below this client's minimum.<br>C. Insert a urinary catheter.<br>D. Document this as normal output after surgery.</p>",
      "bullets": [
       "<b>Calculations:</b> minimum urine output, weight change into liters, and I&O totals.",
@@ -685,6 +710,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: IV fluids in an older adult",
      "keyIdea": "Turn the weight change into liters, then look for matching signs before you act.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 34, 36, 51",
      "body": "<p>An 82-year-old client has received 0.9% sodium chloride at 125 mL/hr for 2 days. Yesterday's weight was 154 lb. Today's is 158.4 lb on the same scale, before breakfast, in the same gown. The nurse hears new crackles in both lung bases. The respiratory rate is 26.</p>",
      "steps": [
       "<b>Check the conditions.</b> Same scale, time, and clothing, so the weights compare fairly.",
@@ -748,7 +774,7 @@ window.NURSE_DATA.push({
     "You can tell independent nursing actions from those that need a provider's order.",
     "You can give IV fluids and electrolytes safely and spot fluid overload."
    ],
-   "bigPicture": "<p>Your slides put it simply: nurses identify clients at risk to <b>prevent</b> imbalance. Most fluid problems follow predictable triggers. Think of a stomach bug, a hot day, a new diuretic, a burn, a weak heart, or an aging body. Know the triggers, and you can watch the right clients and act early.</p><p>Once balance is upset, you have two kinds of tools. <b>Independent</b> actions are ones you take on your own, like safety, encouraging fluids, I&O, and teaching. <b>Collaborative</b> actions need a provider's order, like IV fluids, electrolytes, diet changes, fluid limits, and medications. The guiding rule: input should equal output.</p>",
+   "bigPicture": "<p>Your slides put it simply: nurses identify clients at risk to <b>prevent</b> imbalance. Most fluid problems follow predictable triggers. Think of a stomach bug, a hot day, a new diuretic, a burn, a weak heart, or an aging body. Know the triggers, and you can watch the right clients and act early.</p><p>Once balance is upset, you have two kinds of tools. <b>Independent</b> actions are ones you take on your own, like safety, comfort, recording I&O, watching for complications, and teaching. <b>Collaborative</b> actions need a provider's order, like IV fluids, electrolytes, diet changes, changes to fluid intake (more or less), and medications. The guiding rule: input should equal output.</p>",
    "recap": [
     "Four risk groups: fluid loss or intake problems, medications, acute illness or injury, and chronic conditions.",
     "Body water: premature infant ~90%, newborn ~75%, adult ~60%, older adult ~45–50%.",
@@ -757,7 +783,7 @@ window.NURSE_DATA.push({
     "Check potassium before diuretics. Hold furosemide or HCTZ if it is below 3.5; hold spironolactone if it is high. Notify the provider.",
     "Never give IV potassium by IV push. Dilute it, run it on a pump, and confirm urine output first.",
     "Watch IV therapy for overload: rising weight, new edema, crackles, or shortness of breath, especially in older adults.",
-    "Independent: safety, fluids, I&O, teaching. Collaborative: IV fluids, electrolytes, diet changes, fluid limits, medications."
+    "Independent: safety, comfort, I&O, watching for complications, teaching. Collaborative (HCP order): IV fluids, electrolytes, diet changes, changes to fluid intake, medications."
    ],
    "keyTerms": [
     {
@@ -809,6 +835,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Who is at risk?",
      "keyIdea": "Scan every chart for four risk groups: fluid loss or intake problems, medications, acute illness or injury, and chronic disease.",
+     "source": "Fluid & Electrolytes slides 11, 39, 49 (“why” table added)",
      "body": "<p>Your slides sort risk factors into four groups. Scan for each one on every new chart.</p><p>Other things matter too. <b>Heat</b> raises fluid loss through sweat, so hot weather, hard work, and exercise raise fluid needs. <b>Diet and lifestyle</b> count as well: how much a person eats and drinks, how much salt they take in, and whether they eat potassium-rich foods.</p>",
      "bullets": [
       "<b>Fluid loss or intake problems:</b> vomiting or diarrhea; fever or sweating; too much or too little fluid intake.",
@@ -817,7 +844,7 @@ window.NURSE_DATA.push({
       "<b>Chronic conditions:</b> heart failure, diabetes, kidney disease, liver disease, cancer, alcohol use disorder, and eating disorders."
      ],
      "table": {
-      "caption": "Why each condition upsets the balance",
+      "caption": "Why each condition upsets the balance (added background; not on your slides)",
       "headers": [
        "Condition",
        "Why it causes trouble"
@@ -873,6 +900,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why are infants and older adults at risk?",
      "keyIdea": "Infants lose fluid fast, and older adults can become dehydrated without ever feeling thirsty.",
+     "source": "Fluid & Electrolytes slides 27, 34, 36",
      "body": "<p>Body water changes across the lifespan. The very young and the very old sit at the edges. Both are more vulnerable, but for different reasons.</p><p>Older adults face a second risk. Their heart and kidneys handle extra volume poorly, so they are also at greater risk for <b>fluid overload</b> during IV therapy.</p>",
      "table": {
       "caption": "Body water by age (from your slides)",
@@ -912,7 +940,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Which medications change fluid balance?",
      "keyIdea": "Ask about every drug and supplement, including over-the-counter and self-prescribed products.",
-     "body": "<p>Your slides name several drug groups. Always ask what the client takes, including products bought without a prescription.</p><p>For a supplement, ask: <b>self-prescribed or ordered?</b> If a client has a high magnesium with no medication change, ask which antacids or laxatives they use and how often.</p>",
+     "source": "Fluid & Electrolytes slides 11, 47, 49",
+     "body": "<p>Your slides name several drug groups. Always ask what the client takes, including products bought without a prescription.</p><p>For a supplement, ask: <b>self-medicating or prescribed?</b> If a client has a high magnesium with no medication change, ask which antacids or laxatives they use and how often.</p>",
      "table": {
       "caption": "Medications and their effects (from your slides)",
       "headers": [
@@ -929,8 +958,8 @@ window.NURSE_DATA.push({
         "Cause <b>sodium and water retention</b>. Watch for weight gain and swelling."
        ],
        [
-        "<b>Potassium supplements</b>",
-        "Add potassium."
+        "<b>Electrolyte supplements</b> (K⁺)",
+        "Add potassium. Ask if self-medicating or prescribed."
        ],
        [
         "<b>Salt substitutes</b>",
@@ -955,6 +984,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Diuretics and potassium: lost or kept?",
      "keyIdea": "Furosemide and HCTZ make the body lose potassium, while spironolactone makes it keep potassium.",
+     "source": "Fluid & Electrolytes slides 49, 53 (look-up answers added)",
      "body": "<p>Your slides ask you to look up three diuretics. All three remove fluid. They differ in what happens to potassium.</p><p>Before giving any of them, check the latest potassium. Hold furosemide or HCTZ if potassium is below 3.5 mEq/L. Hold spironolactone if potassium is high. Either way, contact the provider.</p><p>Salt substitutes are a hidden danger. Most are mainly potassium. They are usually fine for a healthy person. With spironolactone or kidney disease, potassium can build up to dangerous levels.</p>",
      "table": {
       "caption": "Diuretics and potassium",
@@ -995,12 +1025,13 @@ window.NURSE_DATA.push({
     {
      "heading": "What does the nurse do for imbalance?",
      "keyIdea": "Keep the client safe, carry out ordered treatment, record all I&O, watch for complications, and teach prevention.",
+     "source": "Fluid & Electrolytes slide 53",
      "body": "<p>Your slides list five nursing interventions for disrupted fluid and electrolyte balance. Some you start yourself. Others need an order.</p><p>Safety comes first. Electrolytes run the brain, nerves, and muscles. Your slides give low sodium, potassium, and calcium as examples. A client with abnormal levels may be weak, unsteady, or confused. Use fall precautions: call light in reach, bed low, help with walking, and frequent checks.</p>",
      "bullets": [
       "<b>Provide safety and comfort.</b>",
-      "<b>Give collaborative care</b> as ordered: treat the cause (stop the vomiting, control the bleeding), change the diet (often sodium or potassium limits), and adjust fluid intake.",
-      "<b>Give IV fluids, electrolytes, and medications</b> as ordered. Know if a fluid is a crystalloid or colloid, and each drug's effect on potassium.",
-      "<b>Record ALL intake and output</b>, and <b>watch for complications</b> such as fluid overload.",
+      "<b>Give collaborative care</b> as ordered: treat the underlying cause (stop the vomiting, control the bleeding), change the diet (restrictions, particularly sodium or potassium), and modify, facilitate, or restrict fluid intake per the provider's (HCP) order.",
+      "<b>Give IV fluids plus supplemental electrolytes, and medications (possibly diuretics),</b> as ordered. Know if a fluid is a crystalloid or colloid, and each drug's effect on potassium.",
+      "<b>Monitor fluid balance:</b> record ALL intake and output. <b>Monitor for complications of therapy</b>, such as fluid overload.",
       "<b>Teach prevention:</b> input should equal output."
      ],
      "table": {
@@ -1011,16 +1042,16 @@ window.NURSE_DATA.push({
       ],
       "rows": [
        [
-        "Fall precautions and safety",
+        "Fall precautions, safety, and comfort",
         "IV fluids and electrolyte replacement"
        ],
        [
-        "Offering preferred oral fluids",
-        "Fluid restriction"
+        "Offering the client's preferred drinks within the ordered fluid plan",
+        "Changing fluid intake (facilitate or restrict)"
        ],
        [
-        "Recording I&O",
-        "Diet changes, such as potassium limits"
+        "Recording I&O and watching for complications",
+        "Diet changes, such as sodium or potassium limits"
        ],
        [
         "Teaching",
@@ -1033,11 +1064,12 @@ window.NURSE_DATA.push({
     {
      "heading": "Encouraging vs. limiting fluids",
      "keyIdea": "Encouraging fluids means making drinks easy and frequent; limiting fluids means counting every liquid and spreading it out.",
-     "body": "<p>Depending on the order, you help the client drink more or carefully limit intake. AP can measure and record each drink. The nurse teaches, plans, and checks whether the plan works.</p>",
+     "source": "Fluid & Electrolytes slide 53 (practical strategies added)",
+     "body": "<p>Your slides say to modify, facilitate, or restrict fluid intake <b>per the provider's order</b>. The strategies below are added practical tips. Depending on the order, you help the client drink more or carefully limit intake. AP can measure and record each drink. The nurse teaches, plans, and checks whether the plan works.</p>",
      "table": {
       "caption": "Practical strategies",
       "headers": [
-       "Encouraging fluids",
+       "Encouraging fluids (per the ordered plan)",
        "Limiting fluids (per provider order)"
       ],
       "rows": [
@@ -1063,6 +1095,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you give IV fluids safely?",
      "keyIdea": "You are the last safety check: know the fluid, use a pump, watch for overload, and never push potassium.",
+     "source": "Fluid & Electrolytes slides 35–38, 43, 53 (IV potassium rules added)",
      "body": "<p>When IV fluids and electrolytes are ordered, you are the last check before they reach the client.</p><p>If signs of overload appear, slow the infusion to the minimum rate per facility policy. Raise the head of the bed and notify the provider. If a family member says breathing is harder, first listen to the lungs and check oxygen saturation.</p><p>Low blood pressure from large GI losses needs IV volume first, as ordered. Oral fluids are only right when they will work.</p>",
      "bullets": [
       "Know whether the fluid is a <b>crystalloid</b> (NS, LR, D5W) or a <b>colloid</b> (albumin, dextran), and why it was chosen.",
@@ -1076,6 +1109,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What should clients learn to prevent imbalance?",
      "keyIdea": "Teach each client to keep input equal to output, matched to their own risks and medicines.",
+     "source": "Fluid & Electrolytes slides 34, 41–42, 49, 51, 53",
      "body": "<p>Prevention teaching ties the whole module together. Tailor it to the client's risks.</p>",
      "bullets": [
       "<b>Input should equal output.</b> Replace fluids lost to sweat, fever, vomiting, or diarrhea.",
@@ -1095,6 +1129,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most mistakes mix up which drugs lose or keep potassium, or trust thirst and looks over objective data.",
+     "source": "Fluid & Electrolytes slides 11, 34, 39, 49, 53 (review)",
      "body": "<p>Learn the one clue that separates each pair.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1137,6 +1172,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Before any drug or fluid, ask what it does to potassium and volume, then check where the client is now.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A client with heart failure is due for furosemide 40 mg by mouth at 0900. The 0600 potassium is 3.2 mEq/L. What should the nurse do first?</p><p>A. Give the furosemide with a banana.<br>B. Hold the furosemide and contact the provider with the potassium result.<br>C. Give the furosemide and recheck potassium tomorrow.<br>D. Give half the dose.</p>",
      "bullets": [
       "<b>Risk spotting:</b> select the clients at risk for a deficit, an excess, or a rising potassium.",
@@ -1158,6 +1194,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: spironolactone and salt substitute",
      "keyIdea": "Link the drug, the hidden potassium source, and the lab, then hold, report, and keep the client safe.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 46, 49, 53",
      "body": "<p>A 67-year-old client with heart failure is due for spironolactone at 0900. The spouse has been bringing a salt substitute from home. The 0600 potassium is 5.8 mEq/L. The client reports new muscle weakness.</p>",
      "steps": [
       "<b>Name the value.</b> 5.8 is above 5.0, so it is hyperkalemia.",
@@ -1177,6 +1214,10 @@ window.NURSE_DATA.push({
     {
      "name": "Spironolactone Spares",
      "text": "Spironolactone Spares potassium (K⁺ can rise). Furosemide and HCTZ flush it out (K⁺ is lost)."
+    },
+    {
+     "name": "ADEMS",
+     "text": "Factors that affect fluid and electrolyte balance (from your slides): Age, Diet, Environment (heat and sweating), Medications, Supplements."
     }
    ],
    "pearls": [

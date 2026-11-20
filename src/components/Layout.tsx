@@ -1,8 +1,8 @@
 import { AnimatePresence, motion } from 'motion/react';
-import { useEffect, useMemo } from 'react';
+import { useEffect } from 'react';
 import { Link, NavLink, useLocation, useOutlet } from 'react-router-dom';
-import { MODULES, UNITS, isNewModule } from '../data';
-import { statusOf, streak } from '../lib/analytics';
+import { UNITS } from '../data';
+import { streak } from '../lib/analytics';
 import { cx, dayKey } from '../lib/util';
 import { useProgress } from '../store/progress';
 import { useApplyPrefs, usePrefs } from '../store/prefs';
@@ -14,22 +14,15 @@ type NavItem = { to: string; label: string; icon: IconName; mobile?: string };
 
 const SECTIONS: { title: string; items: NavItem[] }[] = [
   {
-    title: 'Study',
+    title: '',
     items: [
-      { to: '/', label: 'Dashboard', icon: 'home', mobile: 'Home' },
-      { to: '/learn', label: 'Study guides', icon: 'book', mobile: 'Learn' },
-      { to: '/flashcards', label: 'Flashcards', icon: 'cards' },
-    ],
-  },
-  {
-    title: 'Assess',
-    items: [
+      { to: '/', label: 'Home', icon: 'home', mobile: 'Home' },
+      { to: '/learn', label: 'Learn', icon: 'book', mobile: 'Learn' },
       { to: '/practice', label: 'Practice', icon: 'pulse', mobile: 'Practice' },
-      { to: '/exam', label: 'Exam', icon: 'exam' },
-      { to: '/questions', label: 'Question bank', icon: 'list', mobile: 'Bank' },
+      { to: '/flashcards', label: 'Flashcards', icon: 'cards', mobile: 'Cards' },
+      { to: '/progress', label: 'Progress', icon: 'chart', mobile: 'Progress' },
     ],
   },
-  { title: 'Insights', items: [{ to: '/progress', label: 'Progress', icon: 'chart', mobile: 'Progress' }] },
 ];
 const ALL = SECTIONS.flatMap((s) => s.items);
 
@@ -96,69 +89,34 @@ export function SearchButton() {
 }
 
 function Sidebar({ isActive }: { isActive: (to: string) => boolean }) {
-  const { attempts, days } = useProgress();
+  const { days } = useProgress();
   const s = streak(days);
   const today = days[dayKey()]?.q ?? 0;
-  const moduleStats = useMemo(
-    () =>
-      MODULES.map((m) => ({
-        m,
-        pct: m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length / Math.max(1, m.questions.length),
-      })),
-    [attempts],
-  );
   return (
     <aside className="sidebar" aria-label="Main navigation">
       <Brand />
       <nav className="side-nav">
-        {SECTIONS.map((sec) => (
-          <div key={sec.title} className="side-section">
-            <span className="side-title">{sec.title}</span>
-            {sec.items.map((n) => (
-              <NavLink key={n.to} to={n.to} end={n.to === '/'} className={cx('side-link', isActive(n.to) && 'active')}>
-                {isActive(n.to) && (
-                  <motion.span layoutId="side-active" className="side-active" transition={{ type: 'spring', stiffness: 500, damping: 38 }} />
-                )}
-                <Icon name={n.icon} />
-                <span>{n.label}</span>
-              </NavLink>
-            ))}
-          </div>
+        {SECTIONS[0].items.map((n) => (
+          <NavLink key={n.to} to={n.to} end={n.to === '/'} className={cx('side-link', isActive(n.to) && 'active')}>
+            <Icon name={n.icon} />
+            <span>{n.label}</span>
+          </NavLink>
         ))}
-        <div className="side-section">
-          <span className="side-title">Modules</span>
-          {UNITS.map((u) => (
-            <div key={u.slug} className="side-unit">
-              <NavLink to={`/learn/${u.slug}`} className={({ isActive }) => cx('side-link side-unit-link', isActive && 'active')}>
-                <Icon name="book" />
-                <span>{u.label}</span>
-                {u.isNew && <span className="chip-new">New</span>}
-              </NavLink>
-              {moduleStats
-                .filter(({ m }) => u.moduleIds.includes(m.id))
-                .map(({ m, pct }) => (
-                  <NavLink key={m.id} to={`/learn/${m.id}`} className={cx('side-link side-module', isNewModule(m.id) && 'is-new')} style={{ ['--mc' as string]: m.color }}>
-                    <span className="side-dot" />
-                    <span className="side-module-name">
-                      <small>{m.number}</small> {m.title}
-                    </span>
-                    <span className="side-pct">{Math.round(pct * 100)}%</span>
-                  </NavLink>
-                ))}
-            </div>
-          ))}
-        </div>
       </nav>
+      <div className="side-units">
+        <span className="side-title">Units</span>
+        {UNITS.map((u) => (
+          <NavLink key={u.slug} to={`/learn/${u.slug}`} className={({ isActive: a }) => cx('side-link side-unit-link', a && 'active')}>
+            <span>{u.label === 'Core concepts' ? 'Core concepts' : u.label}</span>
+            {u.isNew && <span className="side-new">New</span>}
+          </NavLink>
+        ))}
+      </div>
       <div className="side-foot">
-        <div className="side-streak">
-          <Icon name="bolt" />
-          <div>
-            <b>
-              {s} day streak
-            </b>
-            <small>{today ? `${today} answered today` : 'Answer one question to keep it going'}</small>
-          </div>
-        </div>
+        <span className="faint small">
+          {s > 0 ? `${s}-day streak · ` : ''}
+          {today ? `${today} answered today` : 'Nothing answered yet today'}
+        </span>
       </div>
     </aside>
   );
@@ -168,7 +126,6 @@ export function Layout() {
   useApplyPrefs();
   const location = useLocation();
   const outlet = useOutlet();
-  const activeMode = useProgress((s) => s.active?.mode);
   const inSession = location.pathname.startsWith('/session');
   const section = '/' + (location.pathname.split('/')[1] ?? '');
 
@@ -194,7 +151,7 @@ export function Layout() {
       ? section === '/'
       : section === to ||
         (section === '/results' && to === '/progress') ||
-        (section === '/session' && to === (activeMode === 'exam' ? '/exam' : '/practice'));
+        (['/session', '/exam', '/questions'].includes(section) && to === '/practice');
 
   return (
     <div className={cx('shell', inSession && 'focus')}>
@@ -219,10 +176,10 @@ export function Layout() {
           <AnimatePresence mode="wait">
             <motion.div
               key={location.pathname}
-              initial={{ opacity: 0, y: 12, filter: 'blur(4px)' }}
-              animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
-              exit={{ opacity: 0, y: -6, filter: 'blur(2px)' }}
-              transition={{ duration: 0.32, ease: [0.2, 0.8, 0.2, 1] }}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: 0.15 }}
             >
               {outlet}
             </motion.div>

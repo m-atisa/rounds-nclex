@@ -102,6 +102,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What is wound healing?",
      "keyIdea": "Healing needs good blood flow, building materials, and a clean wound; anything that blocks one of these slows healing.",
+     "source": "Tissue Integrity slides 3–4, 62, 66",
      "body": "<p>Skin keeps germs out and fluid in. When skin breaks, bacteria can get in. Fluid and protein can leak out. That is why a wound threatens tissue integrity.</p><p>The body repairs the break in steps. To do that work, it needs three basic things.</p>",
      "bullets": [
       "<b>Good blood flow</b> — brings oxygen, nutrients, and white blood cells (WBCs) to the wound.",
@@ -113,36 +114,37 @@ window.NURSE_DATA.push({
     {
      "heading": "How does a wound close?",
      "keyIdea": "Edges closed = primary; left open to fill in = secondary; open first, closed later = tertiary.",
-     "body": "<p><b>Primary intention</b> is the simplest. The edges are approximated and held closed. Sutures, staples, or adhesive closure (skin glue or strips) can do this. Little tissue was lost, so healing is fast, with little granulation and minimal scarring.</p><p><b>Secondary intention</b> happens when a lot of tissue is lost. The edges cannot be brought together, so the wound stays open. It fills in from the bottom and sides with granulation tissue. Then skin grows across the top. It heals slowest, scars most, and has the highest infection risk. A pressure injury is the classic example.</p><p><b>Tertiary intention</b> is also called delayed primary closure. The wound stays open about 3–5 days for swelling, infection, or drainage. Once it is clean, the surgeon closes it. It scars more than primary intention.</p>",
+     "source": "Tissue Integrity slides 63",
+     "body": "<p><b>Primary intention</b> is the simplest. The edges are approximated and held closed. Sutures, staples, or adhesive closure (skin glue or strips) can do this. There is minimal tissue loss, minimal scarring, and minimal granulation.</p><p><b>Secondary intention</b> happens when a lot of tissue is lost. The edges cannot be brought together, so the wound stays open. It fills in from the bottom and sides with granulation tissue. Then skin grows across the top. Healing takes longer. There is more scarring and a higher infection risk. A pressure injury is the classic example.</p><p><b>Tertiary intention</b> is also called delayed primary closure. The wound stays open about 3–5 days for swelling, infection, or drainage. Once it is clean, the surgeon closes it. It leaves greater scarring.</p>",
      "table": {
       "caption": "Types of wound healing at a glance",
       "headers": [
        "Type",
        "Edges",
-       "Healing time and scarring",
-       "Infection risk",
+       "Tissue loss",
+       "Healing and scarring",
        "Example"
       ],
       "rows": [
        [
         "Primary",
         "Approximated (closed)",
-        "Fastest; minimal granulation and scar",
-        "Lowest",
-        "Incision closed with sutures, staples, or skin glue"
+        "Minimal",
+        "Minimal granulation and scarring",
+        "Surgical incision closed with sutures, staples, or adhesive closure"
        ],
        [
         "Secondary",
-        "Not approximated; large tissue loss",
-        "Slowest; fills from the bottom; most scarring",
-        "Highest",
-        "Pressure injury; infected wound left open with packing"
+        "Not approximated",
+        "Extensive",
+        "Longer healing; more scarring; higher infection risk",
+        "Pressure injury"
        ],
        [
         "Tertiary (delayed primary)",
-        "Left open about 3–5 days, then closed",
-        "In between; more scarring than primary",
-        "Moderate",
+        "Left open 3–5 days (edema, infection, drainage), then closed",
+        "Varies",
+        "Greater scarring",
         "Contaminated abdominal wound left open to drain, then sutured"
        ]
       ]
@@ -156,12 +158,14 @@ window.NURSE_DATA.push({
     {
      "heading": "Phase 1: What happens in inflammation?",
      "keyIdea": "From injury to about day 3–6, the body stops bleeding and cleans the wound; mild redness, swelling, and drainage are normal.",
+     "source": "Tissue Integrity slides 64, 66",
      "body": "<p>The <b>inflammatory phase</b> starts the moment tissue is hurt. It lasts about 3 to 6 days. It has two jobs: stop the bleeding and clean the wound.</p><p><b>Hemostasis comes first.</b> Hurt blood vessels constrict (squeeze narrower) to slow blood loss. Platelets stick together, and a fibrin clot forms. On the surface, the dried clot becomes a scab, a natural bandage.</p><p><b>Phagocytosis comes next.</b> Nearby vessels widen and get leaky, so WBCs can reach the tissue. <b>Neutrophils arrive first</b> and eat bacteria. <b>Macrophages follow.</b> They clear dead tissue and send signals to start rebuilding. Memorize that order: neutrophils, then macrophages.</p><p>Extra blood and fluid move into the area. So redness, edema (swelling), and exudate (drainage) are normal early signs. The area may feel a little warm and tender. This is the body doing its job, not infection.</p><p>Inflammation is needed. Clients on long-term steroids, which suppress it, heal poorly.</p>",
      "example": "Mr. T had an open appendectomy yesterday. His incision edges are closed. They are slightly red and swollen, with a little clear, watery drainage. His temperature is 37.4 °C (99.3 °F). On POD 1, this is normal inflammation. The nurse documents, keeps the dressing clean and dry, and keeps monitoring."
     },
     {
      "heading": "Phase 2: How does the wound rebuild?",
      "keyIdea": "From about day 3 to 21, collagen adds strength, beefy red granulation fills the wound, and new skin covers it.",
+     "source": "Tissue Integrity slides 58, 64; healing ridge added for the NCLEX",
      "body": "<p>“Proliferate” means to grow quickly. In the <b>proliferative phase</b>, about day 3 to day 21, the body rebuilds. Here is what happens.</p>",
      "bullets": [
       "<b>Fibroblasts make collagen.</b> Collagen is laid down like strands of rope. More collagen means more strength. Fuel for this work includes protein and vitamin C.",
@@ -179,6 +183,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Phase 3: How does a scar mature?",
      "keyIdea": "From about day 21 to 1–2 years, the scar strengthens and fades, but it never becomes as strong as the original skin.",
+     "source": "Tissue Integrity slides 20, 64",
      "body": "<p>The final phase is <b>maturation</b>, also called remodeling. It starts around day 21 and can last 1 to 2 years. The collagen that was laid down fast now reorganizes into a neater, stronger pattern. The scar slowly flattens. It fades from red or purple to paler than the nearby skin.</p><p>Here is the key fact: <b>a scar is never as strong as the original tissue.</b> Even a fully mature scar reaches only about 70–80% of the skin's original strength. A closed incision is not a strong incision.</p><p>Sometimes the body makes too much collagen. A <b>hypertrophic scar</b> is thick and raised but stays inside the wound borders. It often flattens with time. A <b>keloid</b> grows <em>beyond</em> the wound edges. Keloids are more common in people with darker skin, including people of African and Asian descent. A client with a keloid history should tell the surgeon before any new surgery, so prevention can be planned.</p>",
      "table": {
       "caption": "Phases at a glance",
@@ -217,6 +222,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Is this wound on track?",
      "keyIdea": "Match each finding to the day: what is normal early becomes a warning sign later, and any wound going backward needs follow-up.",
+     "source": "Added: worked example based on Tissue Integrity slides 36, 64–65",
      "body": "<p>Always compare the finding with the timeline. Mild redness on POD 1 is normal. Spreading redness on POD 5 is not.</p><p>For an open wound, compare this week with last week. A healing open wound gets smaller and shallower. Its drainage decreases. A wound going backward needs follow-up, even if the temperature is normal. A wound can look fine on top while failing underneath.</p>",
      "table": {
       "caption": "Expected vs. needs follow-up",
@@ -259,7 +265,8 @@ window.NURSE_DATA.push({
     {
      "heading": "How do older adults heal?",
      "keyIdea": "Older adults heal more slowly and quietly, so infection may show as confusion or a small temperature rise, not a high fever.",
-     "body": "<p>Older adults can heal well, but more slowly. With aging, skin gets thinner and more fragile. There is less fat and fewer blood vessels under it. The inflammatory response is slower and weaker. New skin grows more slowly. So an older client's incision may look less red and swollen and take longer to close. These are expected age changes.</p><p>The tricky part is <b>infection</b>. Because the immune response is blunted, older adults often do not run a high fever. Infection may first show up as:</p>",
+     "source": "Tissue Integrity slides 12, 32, 36, 44; atypical infection cues added for the NCLEX",
+     "body": "<p>Older adults can heal well, but more slowly. With aging, skin gets thinner and more fragile. There is less fat under it, so there is less cushioning. Blood vessels are fragile. The inflammatory response is slower and weaker. New skin grows more slowly. So an older client's incision may look less red and swollen and take longer to close. These are expected age changes.</p><p>The tricky part is <b>infection</b>. Because the immune response is blunted, older adults often do not run a high fever. Infection may first show up as:</p>",
      "bullets": [
       "New confusion or agitation",
       "A small temperature rise above their own baseline (for example, 37.6 °C when their usual is 36.4 °C)",
@@ -277,6 +284,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most wrong answers mix up normal early healing with problems, or confuse look-alike terms.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>These pairs look alike on exam questions.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -319,6 +327,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask whether a finding is expected for the day of healing, so always place the wound on the timeline first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "“Which finding requires follow-up?” — pick the one that does not fit the day.",
@@ -338,6 +347,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a slow-healing incision",
      "keyIdea": "Weigh each finding against the day, and look for the cue that points to weak healing.",
+     "source": "Added: worked example based on Tissue Integrity slides 64–66",
      "body": "<p>Mr. J, 62, has obesity and a chronic smoker's cough. He is on POD 8 after an open bowel surgery. His staples are in, and the edges look closed. There is no drainage. When you press gently along the incision, you feel no firm ridge. His temperature is 37.0 °C.</p>",
      "steps": [
       "<b>Place him on the timeline.</b> POD 8 is in the proliferative phase. A ridge should be forming by now.",
@@ -469,7 +479,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Which nutrients build new tissue?",
      "keyIdea": "New tissue is built from food, so a healing client needs extra protein, enough calories, key vitamins and minerals, and fluids.",
-     "body": "<p>A wound heals with three basics: blood flow, building materials, and a clean wound. Food supplies the building materials. Healing needs more protein, plus carbohydrates, fats, vitamins A and C, iron, zinc, and copper. Here is why each matters.</p>",
+     "source": "Tissue Integrity slides 28, 42, 54, 66",
+     "body": "<p>A wound heals with three basics: blood flow, building materials, and a clean wound. Food supplies the building materials. Healing needs more of these: protein, carbohydrates, fats, vitamins A and C, iron, zinc, and copper. If intake is poor, offer small, frequent meals or supplements. Here is why each matters.</p>",
      "bullets": [
       "<b>Protein</b> — raw material for collagen, new cells, and immune cells. Sources: eggs, fish, meat, poultry, beans, dairy.",
       "<b>Carbohydrates and fats</b> — supply calories. If calories are too low, the body burns protein for fuel instead of building tissue. A healing client should not cut calories.",
@@ -488,15 +499,17 @@ window.NURSE_DATA.push({
     {
      "heading": "Why do thin and heavy clients both heal slowly?",
      "keyIdea": "Malnutrition and obesity both delay healing: one lacks building blocks, the other has poor blood supply and suture-line tension.",
+     "source": "Tissue Integrity slides 26, 56, 66",
      "body": "<p>Both ends of the weight range cause problems.</p><p><b>Malnutrition</b> means the body lacks building blocks. Watch for the cues listed below.</p><p><b>Obesity</b> hurts in a different way. Fat tissue has a poor blood supply, so less oxygen and fewer WBCs reach the wound. Extra weight also pulls on the suture line. That raises the risk of dehiscence (the incision pulling apart). A person can be obese and malnourished at the same time.</p>",
      "bullets": [
       "Unplanned weight loss",
       "Eating 50% or less of meals",
-      "Low albumin (below about 3.5 g/dL; for example, 2.8 g/dL)"
+      "Low albumin (below 3.5 g/dL; for example, 2.8 g/dL). This means poor nutrition and a higher risk of infection and delayed healing."
      ],
      "steps": [
       "Report the findings.",
-      "Request a nutrition consult as appropriate.",
+      "Assess intake and provide supplements as prescribed.",
+      "Consult a dietitian if needed.",
       "Encourage protein, calories, vitamin C, zinc, iron, and fluids."
      ],
      "analogy": "Fat tissue is like a neighborhood with very few roads. The city sends plenty of trucks, but few reach the houses. The wound gets fewer deliveries of oxygen and repair cells.",
@@ -508,6 +521,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do exercise and smoking affect healing?",
      "keyIdea": "Movement brings more blood to the wound; smoking and vaping both deliver nicotine, which starves the wound of oxygen.",
+     "source": "Tissue Integrity slides 28, 66; vaping and carbon monoxide details added for the NCLEX",
      "body": "<p><b>Exercise helps.</b> Moving pumps blood through the tissues. Blood brings oxygen and nutrients and carries waste away. After surgery, walking as allowed is a simple, powerful healing tool. Staying in bed does not help the incision heal.</p><p><b>Smoking hurts in two ways.</b> First, nicotine causes vasoconstriction, so less blood reaches the wound. Second, carbon monoxide in smoke takes oxygen's place on hemoglobin. Each red blood cell carries less oxygen.</p><p><b>Vaping is not a safe swap.</b> E-cigarettes still deliver nicotine, so they still narrow blood vessels. Respond without judgment. Praise any step toward quitting. Encourage the client to ask the provider about nicotine replacement and a quit program.</p>",
      "example": "After teaching, a client says, “Switching to vaping will protect my wound because there's no smoke.” This shows a need for more teaching. A correct statement is: “Smoking narrows my blood vessels, so less oxygen reaches my wound.”",
      "check": {
@@ -518,6 +532,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Which medicines slow healing?",
      "keyIdea": "Steroids, aspirin, and chemotherapy impair healing; long-term antibiotics breed resistant infections; vitamin C and zinc support healing.",
+     "source": "Tissue Integrity slides 22, 66; mechanisms and acetaminophen row added for the NCLEX",
      "body": "<p>Know each drug and know <em>why</em>. Each harmful drug blocks a part of the healing process.</p>",
      "table": {
       "caption": "Medications and wound healing",
@@ -568,12 +583,14 @@ window.NURSE_DATA.push({
     {
      "heading": "How do diabetes and stacked risks matter?",
      "keyIdea": "High glucose weakens WBCs and blood flow, and the client with the most risk factors together is at greatest risk.",
+     "source": "Tissue Integrity slides 20, 22, 41, 65; glucose details added for the NCLEX",
      "body": "<p><b>Diabetes</b> is one of the most important factors. High blood glucose weakens WBCs, so the body cannot fight bacteria well. Over time, diabetes also damages blood vessels. Less blood and oxygen reach the wound. Glucose control is wound care.</p><p>Report readings that stay high (for example, 240–290 mg/dL) so treatment can be adjusted. Monitor and give insulin per protocol. Do not restrict protein or keep the client in bed.</p><p><b>Age</b> slows healing too. <b>Immunosuppression</b> from steroids, chemotherapy, or other drugs slows healing and raises infection risk.</p><p>On exams, look for <b>stacked risk factors</b>. One mild factor matters less than several together.</p>",
      "example": "Four clients had abdominal surgery 2 days ago. The one at greatest risk is a 58-year-old with type 2 diabetes. Her glucose is 284 mg/dL. She smokes and eats 30% of meals. That is three major risks stacked together."
     },
     {
      "heading": "What do the drainage types mean?",
      "keyIdea": "Clear is serous, red is sanguineous, pink is serosanguineous, pus is purulent, and pus with blood is purosanguineous.",
+     "source": "Tissue Integrity slides 67",
      "body": "<p>Some drainage is normal early in healing. What matters is its type, amount, and odor, and whether it is changing the right way. There are three “pure” types and two mixed types.</p>",
      "table": {
       "caption": "Exudate types",
@@ -620,6 +637,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How should drainage change after surgery?",
      "keyIdea": "Normal drainage fades from red to pink to clear and gets smaller; going back to bright red or turning to pus needs action.",
+     "source": "Added for the NCLEX — not in course materials (builds on Tissue Integrity slides 18, 65, 67)",
      "body": "<p>Right after surgery, drainage is often sanguineous (bloody). Over the first day or two it becomes serosanguineous (pink and watery). Then it turns serous (clear), and the amount drops. Think of the color fading and the volume shrinking. Two changes break this pattern.</p>",
      "bullets": [
       "<b>Back to bright red</b>, especially a lot: suspect new bleeding. With a rising heart rate, suspect hemorrhage. Apply pressure, reinforce the dressing, and notify the surgeon.",
@@ -634,6 +652,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you teach with cultural respect?",
      "keyIdea": "Fit healing foods and plans into the client's own beliefs and customs, and work together instead of dismissing a practice.",
+     "source": "Added for the NCLEX — not in course materials (Tissue Integrity slide 62 lists culturally competent care as an objective)",
      "body": "<p>Good teaching fits the client's life. Ask about beliefs, food customs, and practices before you plan. Then find protein, vitamin C, and zinc sources that fit those values.</p><p>Some practices, like fasting, could affect healing. Do not dismiss them. Talk respectfully and work together. You might adjust meal timing or medicine schedules to protect healing and honor the belief.</p>",
      "example": "A Muslim client with a leg wound plans to fast from dawn to sunset during Ramadan. The nurse does not say “You can't fast.” Instead, the nurse helps plan protein-rich meals before dawn and after sunset and involves the provider on medicine timing.",
      "check": {
@@ -644,6 +663,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Wrong answers often hide a risk factor that sounds healthy or mix up look-alike drainage types.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>These pairs look alike on exam questions.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -686,6 +706,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect risk-factor sorting, drainage matching, and teaching questions where the wrong statement sounds reasonable.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "“Which client is at greatest risk?” — count the stacked risks.",
@@ -706,6 +727,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a wound that won't close",
      "keyIdea": "Sort every finding into infection, a risk factor, or expected, then act on the most urgent.",
+     "source": "Added: worked example based on Tissue Integrity slides 26, 65–66",
      "body": "<p>Ms. L, 64, has type 2 diabetes. She is on POD 4 after bowel surgery. Her temperature is 38.6 °C. Her WBC rose from 11,200 to 15,800. Her albumin is 2.8 g/dL. She smokes 1 pack a day. Her glucose is 270 mg/dL. You can feel a firm ridge under the incision.</p>",
      "steps": [
       "<b>Sort the cues.</b> Fever and rising WBC point to infection.",
@@ -851,6 +873,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Hemorrhage: when and why does it bleed?",
      "keyIdea": "Bleeding risk peaks in the first 48 hours; it can come from a slipped stitch, loose clot, or worn vessel, and may hide inside.",
+     "source": "Tissue Integrity slides 18, 65; timeline table added for the NCLEX",
      "body": "<p>Some oozing from a fresh incision is normal. <b>Hemorrhage</b> is abnormal bleeding. Risk is highest in the <b>first 48 hours</b>, when clots are newest and most fragile. The table shows when each complication usually appears.</p><p>Hemorrhage has three causes.</p>",
      "bullets": [
       "<b>Slipped stitch</b> — a suture loosens off a blood vessel.",
@@ -893,6 +916,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you spot hidden bleeding?",
      "keyIdea": "Restlessness and a rising heart rate are early cues of bleeding; falling blood pressure is a late sign.",
+     "source": "Tissue Integrity slides 18, 26, 65; early-vs-late shock cues added for the NCLEX",
      "body": "<p>When a client loses blood, the body tries to make up for it. The heart speeds up to move the blood that is left. Vessels to the skin and kidneys squeeze down to save blood for the brain and heart. These changes make the signs you assess.</p>",
      "bullets": [
       "<b>Restlessness, anxiety</b> — often the earliest sign. The brain senses less oxygen.",
@@ -914,7 +938,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Wound infection: what are the signs?",
      "keyIdea": "Infection is a wound getting worse around POD 3–5, with more pain, spreading redness, pus, fever, and a rising WBC.",
-     "body": "<p>Signs of infection are more pain, redness, drainage, odor, fever, and a rising WBC. Mild redness and swelling in the first day or two are normal. Infection usually shows up around POD 3 to 5. The key word is <b>worse</b>: pain that grows, redness that spreads, and drainage that turns to pus.</p><p>Three groups have higher risk, listed below. Clients with high glucose, poor nutrition, or smoking also need a close watch. A healthy adult with a clean, sutured cut is low risk.</p>",
+     "source": "Tissue Integrity slides 28, 65",
+     "body": "<p>Signs of infection are more pain, redness, drainage, odor, fever, and a rising WBC. Teach clients to watch for redness, swelling, drainage, and necrosis (dead tissue). Mild redness and swelling in the first day or two are normal. Infection usually shows up around POD 3 to 5. The key word is <b>worse</b>: pain that grows, redness that spreads, and drainage that turns to pus.</p><p>Three groups have higher risk, listed below. Clients with high glucose, poor nutrition, or smoking also need a close watch. A healthy adult with a clean, sutured cut is low risk.</p>",
      "bullets": [
       "<b>Immunocompromised clients</b> — on chemotherapy, with leukemia, or on long-term prednisone. Their WBCs can't fight well, so signs may be subtle. A small temperature rise can be serious.",
       "<b>Contaminated wounds</b> — for example, a cut full of soil from a farm accident.",
@@ -928,6 +953,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you treat infection and check progress?",
      "keyIdea": "Culture before the first antibiotic dose, support the body, and judge success by measurable change, not by doses given.",
+     "source": "Tissue Integrity slides 26, 28, 57; culture timing and marking redness added for the NCLEX",
      "body": "<p>Treatment means finding the germ, killing it, and helping the body fight. Then you evaluate. Evaluation means comparing today with the starting point.</p>",
      "steps": [
       "Assess the wound: redness, warmth, swelling, drainage, odor, and edges. Outline the edge of the redness with a skin marker.",
@@ -947,7 +973,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Dehiscence: what if the wound reopens?",
      "keyIdea": "A “pop” after coughing plus a gush of pink drainage means the wound may be opening; protect it and call the surgeon.",
-     "body": "<p><b>Dehiscence</b> is the reopening of a wound. The layers separate, partly or fully. It happens most often in belly wounds. Coughing, sneezing, vomiting, and moving all push on the incision. It often happens near the end of the first week. The wound looks closed, but collagen is still weak. No healing ridge by about POD 9 is a warning sign.</p><p>A classic clue: the client feels something “pop” after coughing, sneezing, or vomiting. You may see a sudden gush of pink, salmon-colored (serosanguineous) drainage and edges partly apart. Risk is higher with obesity, malnutrition, infection, diabetes, long-term steroids, and straining. Straining includes chronic cough, vomiting, constipation, and heavy lifting.</p>",
+     "source": "Tissue Integrity slides 65, 66; nurse actions added for the NCLEX",
+     "body": "<p><b>Dehiscence</b> is the reopening of a wound. The layers separate, partly or fully. It often happens in abdominal (belly) wounds. Coughing, sneezing, vomiting, and moving all push on the incision. It often happens near the end of the first week. The wound looks closed, but collagen is still weak. No healing ridge by about POD 9 is a warning sign.</p><p>A classic clue: the client feels something “pop” after coughing or sneezing. Vomiting can do it too. You may see a sudden gush of pink, salmon-colored (serosanguineous) drainage and edges partly apart. Risk is higher with obesity, malnutrition, infection, diabetes, long-term steroids, and straining. Straining includes chronic cough, vomiting, constipation, and heavy lifting.</p>",
      "steps": [
       "Stay with the client and call for help.",
       "Place the client in low Fowler's with the knees bent. This relaxes the belly muscles and takes tension off the wound.",
@@ -964,6 +991,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Evisceration: what do you do first?",
      "keyIdea": "Organs outside the wound are an emergency: stay, cover with sterile saline-moist dressings, bend the knees, and get the surgeon.",
+     "source": "Tissue Integrity slides 65; low Fowler's, NPO, and shock monitoring added for the NCLEX",
      "body": "<p><b>Evisceration</b> means organs push out through the incision, such as loops of bowel. It is a surgical emergency. Exposed organs can dry out and get infected. The client can go into shock. Follow these steps in order.</p>",
      "steps": [
       "Stay with the client and call for help. Have someone notify the surgeon now. Do not leave.",
@@ -1010,6 +1038,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you prevent complications?",
      "keyIdea": "Lower the stress on the incision and help the body heal; splinting lets the client cough safely.",
+     "source": "Tissue Integrity slides 66; splinting, lifting, and binder teaching added for the NCLEX",
      "body": "<p>Many complications can be prevented. Teaching focuses on two goals: less stress on the incision and a body that can heal.</p>",
      "bullets": [
       "<b>Splint the incision.</b> Hold a pillow firmly against it when coughing, sneezing, or deep breathing.",
@@ -1025,6 +1054,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Who do you see first, and who helps?",
      "keyIdea": "See unstable clients before stable ones, and keep assessment, teaching, and procedures with the RN.",
+     "source": "Added for the NCLEX — not in course materials (Tissue Integrity slide 29 names UAPs on the team)",
      "body": "<p>To choose who to see first, go from unstable to stable. Active bleeding with changing vital signs, or evisceration, comes first. A possible dehiscence comes next. Infection follows. Expected findings come last.</p><p>For example, a client 4 hours after thyroid surgery has a dressing damp with bright red blood and a rising heart rate. That client is seen before a POD 5 client with pus and fever. A little pink drainage on POD 1 or an itchy incision on POD 9 is expected.</p>",
      "table": {
       "caption": "Delegation for a stable postop client",
@@ -1055,6 +1085,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps",
      "keyIdea": "Most wrong answers skip the bedside, trust a dry dressing, or count doses instead of results.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>These pairs look alike on exam questions.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1097,6 +1128,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect “first action,” “who first,” and ordering questions; physical safety at the bedside comes before calls and paperwork.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "“Which client should the nurse assess first?” — unstable before stable.",
@@ -1117,6 +1149,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a quiet bleed",
      "keyIdea": "When the dressing is dry but the client is changing, trust the client's signs over the dressing.",
+     "source": "Added: worked example based on Tissue Integrity slides 18, 65",
      "body": "<p>Mrs. H is 8 hours after an open hysterectomy. Her belly dressing is dry and intact. She is restless. Her heart rate rose from 84 to 112/min. Her BP dropped from 128/76 to 102/60. Urine output is 20 mL/hr. Her belly looks more distended.</p>",
      "steps": [
       "<b>Place her on the timeline.</b> She is within 48 hours, the peak time for bleeding.",

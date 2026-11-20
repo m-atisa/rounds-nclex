@@ -102,6 +102,7 @@
     {
      "heading": "Where is the heart?",
      "keyIdea": "The heart sits in the middle of the chest, behind the sternum, with its tip pointing down and to the left.",
+     "source": "Perfusion slides 3, 26",
      "body": "<p>The heart is a hollow, cone-shaped organ. It weighs <b>less than 1 lb</b> and is about the size of the client's fist. It sits in the <b>mediastinum</b>, the middle of the chest.</p><p>The <b>sternum</b> (breastbone) is in front. The <b>spine</b> is behind. A <b>lung</b> sits on each side.</p><p>The heart is tilted. Its wide top, the <b>base</b>, sits near the 2nd rib. Its pointed tip, the <b>apex</b>, points down and to the left. The apex usually touches the chest wall at the <b>5th intercostal space, left midclavicular line</b>. You use this spot to feel the apical pulse.</p>",
      "analogy": "Picture a fist-sized pump packed in the middle of the chest. The breastbone is the front door, the spine is the back wall, and the lungs are soft pillows on each side.",
      "example": "<b>At the bedside:</b> During a code, a new staff member pushes on the left side of the chest near the nipple. The heart lies behind the sternum. Effective compressions go on the <b>lower half of the sternum</b>, so you correct the hand position right away."
@@ -109,7 +110,8 @@
     {
      "heading": "What is the pericardium?",
      "keyIdea": "The pericardium is a snug sac around the heart, and extra fluid inside it can squeeze the heart so it cannot fill.",
-     "body": "<p>The <b>pericardium</b> is a double layer of tough, slippery tissue. It wraps the heart and anchors it in place. Its snug fit keeps the heart from <b>overfilling</b> with blood.</p><p>Between its two layers is a thin space, the <b>pericardial cavity</b>. A small amount of serous fluid there cushions the heart. It also lets the layers glide as the heart beats.</p>",
+     "source": "Perfusion slide 3",
+     "body": "<p>The <b>pericardium</b> is a double layer of <b>fibroserous membrane</b> (tough fibrous tissue with a slippery serous lining). It encases the heart and anchors it to nearby structures. This forms the <b>pericardial sac</b>. Its snug fit keeps the heart from <b>overfilling</b> with blood.</p><p>Between its two layers is a thin space, the <b>pericardial cavity</b>. Serous fluid made in this cavity cushions the heart as it contracts. It also lets the layers glide as the heart beats.</p>",
      "bullets": [
       "<b>Parietal layer:</b> the outer layer that lines the sac.",
       "<b>Visceral layer:</b> the inner layer that lies right on the heart.",
@@ -121,6 +123,7 @@
     {
      "heading": "What are the three layers of the wall?",
      "keyIdea": "Epicardium is outside, myocardium is the pumping muscle, and endocardium is the smooth lining.",
+     "source": "Perfusion slide 4",
      "body": "<p>Cut through the heart wall and you find three layers. Learn them from the outside in. The middle layer, the <b>myocardium</b>, does the work. It is also the layer that dies in a heart attack.</p><p>The inner lining, the <b>endocardium</b>, is very smooth. That keeps blood from sticking. If infection roughens it, clots can form there.</p>",
      "table": {
       "caption": "Layers of the heart wall (outside to inside)",
@@ -155,6 +158,7 @@
     {
      "heading": "How do four chambers and valves work?",
      "keyIdea": "Atria receive blood, ventricles pump it, and four one-way valves stop blood from flowing backward.",
+     "source": "Perfusion slide 5",
      "body": "<p>The heart has <b>four chambers</b>. The two <b>atria</b> on top receive blood. The two <b>ventricles</b> below pump it out. The left ventricle has the thickest wall. It must push blood to the whole body.</p><p><b>Valves</b> let blood flow only one way. A valve opens when the pressure behind it is higher. It snaps shut when the pressure flips. This stops backflow.</p>",
      "bullets": [
       "<b>AV valves</b> sit between the atria and ventricles: the <b>tricuspid</b> on the right and the <b>mitral</b> on the left.",
@@ -166,6 +170,7 @@
     {
      "heading": "How does blood flow through the heart?",
      "keyIdea": "Blood goes body to right heart to lungs to left heart to body, always through a valve between rooms.",
+     "source": "Perfusion slides 5, 7–8",
      "body": "<p>Exams often ask you to put blood flow in order. Learn it as a story. Tired, oxygen-poor blood comes home from the body. The right heart sends it to the lungs for oxygen. It comes back to the left heart. Then it is pumped out to the body again.</p>",
      "steps": [
       "Oxygen-poor blood returns through the <b>superior and inferior venae cavae</b>.",
@@ -185,6 +190,7 @@
     {
      "heading": "What are the two loops of blood flow?",
      "keyIdea": "The loops run in a row, so a weak side backs blood up into the loop behind it.",
+     "source": "Perfusion slide 7; left/right backup added for the NCLEX",
      "body": "<p><b>Pulmonary circulation</b> is the short loop to the lungs. It includes the right heart, pulmonary artery, lung capillaries, and pulmonary veins. Its job is gas exchange.</p><p><b>Systemic circulation</b> is the long loop that moves blood out to the body. It includes the left heart, the aorta and its branches, the arteries, the capillaries of the brain and tissues, the veins, and the venae cavae.</p><p>The loops are connected in a row. If the <b>left ventricle</b> fails, blood backs up into the <b>lungs</b>. If the <b>right ventricle</b> fails, blood backs up into the <b>body's veins</b>. Over years, left-sided failure can lead to right-sided failure too.</p>",
      "table": {
       "caption": "Where fluid backs up",
@@ -212,7 +218,8 @@
     {
      "heading": "How does the heart feed itself?",
      "keyIdea": "The coronary arteries feed the heart muscle, and they fill mainly during diastole, between beats.",
-     "body": "<p>The heart is full of blood, but the thick muscle cannot soak oxygen from its own chambers. It needs its own supply line, the <b>coronary arteries</b>.</p><p>These arteries fill mostly during <b>diastole</b>, when the muscle relaxes. A fast heart rate shortens diastole. With narrowed arteries, the muscle then gets too little oxygen and hurts.</p>",
+     "source": "Perfusion slides 7, 11; diastolic filling added for the NCLEX",
+     "body": "<p>The heart is full of blood, but the thick muscle cannot soak oxygen from its own chambers. It needs its own supply line, the <b>coronary arteries</b>.</p><p>These arteries fill mostly during <b>diastole</b>, when the muscle relaxes. As the heart works harder, it uses more oxygen. A fast heart rate also shortens diastole. With narrowed arteries, the muscle then gets too little oxygen and hurts.</p>",
      "bullets": [
       "The <b>left main coronary artery</b> splits into the <b>left anterior descending (LAD)</b> and the <b>circumflex</b>. Together they feed much of the left ventricle, so a left main blockage is very dangerous.",
       "The <b>right coronary artery</b> gives off the <b>posterior descending artery</b>.",
@@ -227,6 +234,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most misses come from look-alike names and sides, so learn the one detail that separates each pair.",
+     "source": "Perfusion slides 3–7, 26",
      "body": "<p>These pairs look alike on tests. Learn the clue that splits them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -265,6 +273,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to order blood flow, match a failing side to its signs, or act on chest pain in coronary disease.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A UAP is bathing a 71-year-old client with coronary artery disease. The UAP reports the heart rate rose from 78 to 136/min. The client says his chest feels tight. What should the nurse tell the UAP first?</p><p>A. \"Finish the bath quickly so he can rest.\"<br>B. \"Stop the bath and help him rest. I am coming now.\"<br>C. \"Give him a glass of water.\"<br>D. \"Recheck the heart rate in 15 minutes.\"</p>",
      "bullets": [
       "<b>Order the path:</b> put chambers, valves, and vessels in sequence.",
@@ -285,6 +294,7 @@
     {
      "heading": "Worked case: new breathlessness after a heart attack",
      "keyIdea": "Link the damaged artery to the damaged side, then to where fluid backs up, then act on breathing first.",
+     "source": "Added: worked example based on Perfusion slides 7, 33",
      "body": "<p>A 59-year-old client had a large heart attack 2 days ago from a blocked LAD artery. Today he is newly short of breath. You hear crackles in both lung bases. SpO₂ is 91%. His ankles have no new swelling.</p>",
      "steps": [
       "<b>Name the damage.</b> The LAD feeds much of the left ventricle. That muscle is now weak.",
@@ -368,7 +378,7 @@
     "Exam order: inspect, palpate, percuss, then auscultate. Palpate carotids one at a time.",
     "Erb's point is the 3rd ICS, left sternal border. The PMI and apical pulse are at the 5th ICS, left midclavicular line.",
     "S3 comes right after S2 (volume). It may be normal in children, young adults, and third-trimester pregnancy.",
-    "S4 comes right before S1 (stiff ventricle). It may be normal in athletes and healthy older adults, never in children.",
+    "S4 comes right before S1 (stiff ventricle). It may be normal in children, well-conditioned athletes, and healthy older adults.",
     "A murmur is turbulent flow. Innocent murmurs are common in newborns. New sound plus new symptoms needs follow-up."
    ],
    "keyTerms": [
@@ -433,6 +443,7 @@
     {
      "heading": "What makes the \"lub-dub\"?",
      "keyIdea": "Normal heart sounds are valves closing: S1 starts systole, and S2 starts diastole.",
+     "source": "Perfusion slides 5–6",
      "body": "<p>Normal heart sounds come from valves <b>closing</b>, not opening.</p><p><b>S1 (\"lub\")</b> happens as the ventricles start to squeeze. Pressure in the ventricles rises above the atria. The <b>mitral and tricuspid valves</b> slam shut. S1 marks the <b>start of systole</b>. It is loudest at the apex. It happens at almost the same time as the carotid pulse.</p><p><b>S2 (\"dub\")</b> happens as the ventricles finish squeezing and relax. Now the pressure in the big arteries is higher. The <b>aortic and pulmonic valves</b> snap shut. S2 marks the <b>start of diastole</b>. It is loudest at the base (top) of the heart.</p>",
      "analogy": "Think of two sets of doors in a hallway. \"Lub\" is the first doors (AV valves) shutting as the crowd is pushed forward. \"Dub\" is the second doors (semilunar valves) shutting behind the crowd.",
      "example": "<b>At the bedside:</b> Mr. K's heart rate is 104/min. The sounds run together. <b>Feel the carotid pulse while you listen.</b> The sound that comes with the pulse is <b>S1</b>."
@@ -440,7 +451,8 @@
     {
      "heading": "Is a split S2 normal?",
      "keyIdea": "A split S2 that appears when breathing in and disappears when breathing out is normal.",
-     "body": "<p>The aortic and pulmonic valves usually close so close together that you hear one sound. When the client <b>breathes in</b>, more blood returns to the right heart. The right ventricle takes a split second longer to empty. The pulmonic valve closes a little after the aortic valve. You hear two quick sounds (\"lub-d-dub\"). On breathing out, it becomes one sound again.</p><p>Your slides call this split S2 <b>normal</b> when it is caused by the chest pressure change during inspiration. Your textbook may explain the pressure a bit differently. The key point is the same: a split that comes and goes with breathing is normal.</p>",
+     "source": "Perfusion slide 6",
+     "body": "<p>The aortic and pulmonic valves usually close so close together that you hear one sound. When the client <b>breathes in</b>, more blood returns to the right heart. The right ventricle takes a split second longer to empty. The pulmonic valve closes a little after the aortic valve. You hear two quick sounds (\"lub-d-dub\"). On breathing out, it becomes one sound again.</p><p>Your slides say a split S2 is <b>normal</b> when it is caused by the <b>increase in intrathoracic (chest) pressure during inspiration</b>. Many physiology texts describe the chest pressure change differently. The key point is the same: a split that comes and goes with breathing is normal.</p>",
      "bullets": [
       "Listen at the <b>pulmonic area</b> (2nd ICS, left sternal border).",
       "Use the <b>diaphragm</b> while the client breathes normally.",
@@ -454,6 +466,7 @@
     {
      "heading": "In what order do you examine the heart?",
      "keyIdea": "Inspect, palpate, percuss, then auscultate, and tie each finding to a chest landmark.",
+     "source": "Perfusion slides 25–27",
      "body": "<p>A heart exam follows a set order so you miss nothing. Always link findings to <b>landmarks</b> like the sternum, collarbones, and ribs. Then you can say exactly where you found something.</p>",
      "steps": [
       "<b>Inspect the head and neck:</b> eyes, ears, lips, face, skull, and neck vessels. Note symmetry. Expected: lips smooth and not blue, jugular veins flat.",
@@ -468,6 +481,7 @@
     {
      "heading": "Where do you listen?",
      "keyIdea": "Use the five areas in order, the diaphragm for high sounds, and the bell with light pressure for low sounds.",
+     "source": "Perfusion slides 26–27; bell/diaphragm and landmarks added for the NCLEX",
      "body": "<p>Each valve is heard best where its sound travels to the chest wall. Listen on <b>bare skin</b>.</p><p>Use the <b>diaphragm</b> with firm pressure for high sounds like S1 and S2. Use the <b>bell</b> with light pressure for low sounds like S3, S4, and some murmurs. Pressing the bell hard turns it into a diaphragm. Then low sounds disappear.</p><p>The expected adult finding is <b>equal S1 and S2 at Erb's point and no murmurs</b>.</p>",
      "table": {
       "caption": "Listening areas in order (\"APE To Man\")",
@@ -513,7 +527,8 @@
     {
      "heading": "What are S3 and S4?",
      "keyIdea": "S3 comes after S2 and means volume; S4 comes before S1 and means a stiff ventricle.",
-     "body": "<p>S3 and S4 are soft, <b>low</b> sounds during <b>diastole</b>, while the ventricles fill. They add a third beat, like a galloping horse. Listen with the <b>bell at the apex</b>.</p><p><b>S3 (ventricular gallop)</b> comes <em>right after S2</em>. Blood rushes into the ventricle. Rhythm: \"Ken-TUC-ky.\" It may be normal in <b>children, young adults, and third-trimester pregnancy</b>. In an adult with heart failure, it means <b>too much volume</b>.</p><p><b>S4 (atrial gallop)</b> comes <em>just before S1</em>. The atrium pushes blood into a <b>stiff ventricle</b>. Rhythm: \"TEN-nes-see.\" It may be normal in <b>athletes and healthy older adults</b>. An S4 in a child is <b>never</b> normal.</p>",
+     "source": "Perfusion slide 6",
+     "body": "<p>S3 and S4 are soft, <b>low</b> sounds during <b>diastole</b>, while the ventricles fill. They add a third beat, like a galloping horse. Listen with the <b>bell at the apex</b>.</p><p><b>S3 (ventricular gallop)</b> comes <em>right after S2</em>. Blood rushes into the ventricle. Rhythm: \"Ken-TUC-ky.\" It may be normal in <b>children, young adults, and third-trimester pregnancy</b>. In an adult with heart failure, it means <b>too much volume</b>.</p><p><b>S4 (atrial gallop)</b> comes <em>just before S1</em>. The atrium pushes blood into a <b>stiff ventricle</b>. Rhythm: \"TEN-nes-see.\" It may be normal in <b>children, well-conditioned athletes, and healthy older adults</b>.</p>",
      "table": {
       "caption": "S3 vs. S4",
       "headers": [
@@ -540,7 +555,7 @@
        [
         "May be normal in",
         "Children, young adults, third-trimester pregnancy",
-        "Trained athletes, healthy older adults (not children)"
+        "Children, well-conditioned athletes, healthy older adults"
        ],
        [
         "Worrisome when",
@@ -554,19 +569,21 @@
     {
      "heading": "When is an extra sound expected?",
      "keyIdea": "An extra sound is expected only when the client is in a \"may be normal\" group and everything else is normal.",
-     "body": "<p>Check the whole picture: lungs, weight trend, edema, vital signs, and symptoms. In pregnancy, a pulse about 10–15/min above the client's usual rate is also expected.</p>",
+     "source": "Perfusion slides 6, 37",
+     "body": "<p>Check the whole picture: lungs, weight trend, edema, vital signs, and symptoms. At term in pregnancy, a pulse about 10–15/min above the client's usual rate is also expected.</p>",
      "example": "<b>Compare two clients:</b> Jenna, 26, is 35 weeks pregnant with an S3. BP 112/68, pulse 92 (usual 78), SpO₂ 99%, lungs clear. <b>Document it as expected.</b> Another client at 36 weeks has an S3, new orthopnea, crackles, and SpO₂ 91%. Now the S3 is <b>not</b> expected. Report it.",
      "bullets": [
-      "<b>Expected:</b> S3 in a symptom-free pregnant client, child, or young adult. S4 in a symptom-free athlete or healthy older adult.",
-      "<b>Follow-up:</b> any S4 in a child, even an athletic one.",
+      "<b>Expected:</b> S3 in a symptom-free child, young adult, or third-trimester pregnant client.",
+      "<b>Expected:</b> S4 in a symptom-free child, well-conditioned athlete, or healthy older adult.",
       "<b>Follow-up:</b> a new S3 with crackles, orthopnea, weight gain, or JVD. This means fluid overload.",
-      "<b>Follow-up:</b> an athlete's S4 with fainting, chest pain, or unusual shortness of breath.",
+      "<b>Follow-up:</b> an S3 or S4 with fainting, chest pain, or unusual shortness of breath, even in a \"may be normal\" group.",
       "<b>Do not be lulled:</b> an S4 charted for 2 years does not make new chest pressure safe. Act on the new symptom."
      ]
     },
     {
      "heading": "What is a murmur?",
      "keyIdea": "A murmur is the sound of turbulent blood flow, and new murmurs with symptoms need follow-up.",
+     "source": "Perfusion slides 6, 26, 36",
      "body": "<p>A <b>murmur</b> is a swishing or blowing sound. It comes from <b>disrupted blood flow</b> into the heart, between chambers, or out to the lungs or aorta. Smooth flow is quiet. Rough flow is noisy. It happens when a valve is narrowed or leaky.</p><p>In a healthy adult, expect <b>no murmurs</b>. <b>Newborns often have innocent murmurs</b> as their circulation adjusts after birth.</p>",
      "bullets": [
       "<b>Expected:</b> a soft murmur in a newborn who is pink, feeding well, and has a normal SpO₂. Document and monitor.",
@@ -581,7 +598,8 @@
     },
     {
      "heading": "Common traps",
-     "keyIdea": "Most errors come from mixing up timing, tools, and who may have a sound normally.",
+     "keyIdea": "Most errors come from mixing up timing, tools, and who may have an extra sound normally.",
+     "source": "Perfusion slides 5–6, 26–27",
      "body": "<p>These pairs look alike on a test. Learn the clue that splits them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -599,8 +617,8 @@
         "S3 is after S2 (volume). S4 is before S1 (stiff ventricle)."
        ],
        [
-        "S4 in an athlete vs. a child",
-        "May be normal in an adult athlete. Never normal in a child."
+        "Who may have an S4 normally",
+        "Children, well-conditioned athletes, and healthy older adults, if they have no symptoms."
        ],
        [
         "Split S2 vs. abnormal sound",
@@ -624,6 +642,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions give you a sound plus a client and ask if it is expected, what it means, or who to see first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> After report, which client should the nurse assess first?</p><p>A. A client at 34 weeks' gestation with an S3 and clear lungs<br>B. A client with heart failure who gained 1.5 kg overnight and has new crackles<br>C. A 78-year-old with an S4, no symptoms, stable vital signs<br>D. A client with BP 148/88, the same as baseline</p>",
      "bullets": [
       "<b>Expected or not:</b> sound plus age or condition plus other findings.",
@@ -644,6 +663,7 @@
     {
      "heading": "Worked case: a new gallop in heart failure",
      "keyIdea": "Confirm the sound with good technique, look for supporting signs, then report.",
+     "source": "Added: worked example based on Perfusion slides 6, 33",
      "body": "<p>A 68-year-old client with heart failure gained 2 kg since yesterday. He now needs three pillows to sleep. With the bell pressed firmly at the apex, you hear only S1 and S2.</p>",
      "steps": [
       "<b>Fix the technique.</b> Use the bell with <b>light</b> pressure at the apex. Firm pressure hides low sounds.",
@@ -679,7 +699,7 @@
    "redFlags": [
     "New S3 with crackles, dyspnea, edema, and rising weight in an adult: worsening heart failure. Notify the provider.",
     "New loud murmur with dizziness, chest pain, or shortness of breath: disrupted flow. Report for evaluation.",
-    "Any S4 in a child, or a murmur in an infant with poor feeding, cyanosis, or low SpO₂: report it."
+    "An S3 or S4 with fainting, chest pain, or new shortness of breath, or a murmur in an infant with poor feeding, cyanosis, or low SpO₂: report it."
    ],
    "checks": [
     {
@@ -692,7 +712,7 @@
     },
     {
      "q": "A 9-year-old soccer player has an S4 and normal vital signs. Expected or follow-up?",
-     "a": "Follow-up. S4 is never considered normal in a child."
+     "a": "Expected. Your slides list children among those in whom an S4 may be normal. Follow up if symptoms appear."
     },
     {
      "q": "Why is S1 loudest at the apex while S2 is loudest at the base?",
@@ -793,6 +813,7 @@
     {
      "heading": "What is cardiac output?",
      "keyIdea": "Cardiac output is heart rate times stroke volume, and normal is about 4–8 liters per minute.",
+     "source": "Perfusion slide 9; normal values added for the NCLEX",
      "body": "<p>One heartbeat is a <b>cardiac cycle</b>: one squeeze and one relaxation. Each squeeze pumps out a <b>stroke volume</b>, about 60–100 mL (about 70 mL on average). Multiply that by beats per minute to get <b>cardiac output</b>.</p><p><b>CO = HR × SV.</b> Normal adult CO is about <b>4–8 L/min</b>.</p><p><b>Ejection fraction (EF)</b> is the <em>percent</em> of blood in the ventricle pumped out each beat. Normal is about <b>50–70%</b>. An EF of 30% means only about a third leaves each beat. That is a weak pump. EF is not heart rate, not BP, and not percent of muscle damaged.</p>",
      "steps": [
       "Write the formula: CO = HR × SV.",
@@ -809,6 +830,7 @@
     {
      "heading": "How does heart rate change cardiac output?",
      "keyIdea": "A faster rate helps only up to a point; very slow or very fast rates both drop cardiac output.",
+     "source": "Perfusion slides 10, 29–30",
      "body": "<p>The nervous system controls heart rate. The <b>SNS</b> (fight-or-flight) speeds it up. <b>Vagal tone</b> slows it down.</p><p>Reflexes respond to BP. <b>Baroreceptors</b> sense a BP drop and tell the SNS to speed the heart. When BP rises, they raise vagal tone to slow it. This is why a bleeding client becomes tachycardic. Each beat carries less blood, so the heart beats faster to protect CO.</p>",
      "bullets": [
       "<b>Too slow:</b> fewer beats means CO falls directly. Check the <b>apical pulse before giving drugs that slow the heart</b>.",
@@ -821,7 +843,8 @@
     {
      "heading": "What is preload?",
      "keyIdea": "Preload is how full and stretched the ventricle is before it squeezes, and it tracks the volume returning to the heart.",
-     "body": "<p><b>Preload</b> is the stretch on the heart muscle at the <b>end of diastole</b>, right before the squeeze. It depends on <b>venous return</b> (blood coming back) and <b>compliance</b> (how easily the ventricle stretches).</p><p>A moderate stretch helps. A fuller ventricle squeezes harder. But <b>constant overstretching</b>, as in fluid overload, makes the squeeze <b>weak</b>. Too little preload, as in bleeding, leaves too little blood to pump.</p>",
+     "source": "Perfusion slides 11, 38, 41",
+     "body": "<p><b>Preload</b> is the amount of <b>tension (stretch) on the heart muscle fibers</b> at the <b>end of diastole</b>, right before the squeeze. It depends on <b>venous return</b> (blood coming back) and <b>compliance of the ventricles</b> (how easily they stretch).</p><p>A moderate stretch helps. A fuller ventricle squeezes harder. But <b>constant overstretching</b>, as in fluid overload, makes the squeeze <b>weak</b>. Too little preload, as in bleeding, leaves too little blood to pump.</p>",
      "table": {
       "caption": "Preload at a glance",
       "headers": [
@@ -839,21 +862,22 @@
        ],
        [
         "Kidneys holding water (as with reduced kidney function in older adults)",
-        "Pregnant uterus pressing on the vena cava when lying flat"
+        "Pregnant uterus pressing on the vena cava when lying supine"
        ]
       ]
      },
      "bullets": [
       "<b>Too much preload</b> shows as crackles, JVD, weight gain, and a new S3.",
       "During an IV bolus, new crackles and shortness of breath mean <b>stop the fluid first</b>.",
-      "In late pregnancy, dizziness and low BP when lying flat: <b>turn her to her left side</b> to restore venous return."
+      "Late pregnancy: dizziness, pallor, and low BP when lying supine is <b>supine hypotensive syndrome</b>. Have her <b>lie on her side</b> or place a <b>pillow or wedge under her right hip</b>."
      ],
      "analogy": "Preload is like a rubber band. Stretch it a moderate amount and it snaps back hard. Overstretch it again and again and it goes slack. Barely stretch it and it has nothing to snap with."
     },
     {
      "heading": "What is afterload?",
      "keyIdea": "Afterload is the resistance the ventricle pushes against, set mostly by how tight the arteries are.",
-     "body": "<p><b>Afterload</b> is the force the ventricles must overcome to push blood out. It depends on <b>vascular tone</b>, meaning how tight or relaxed the arteries are.</p><p>High afterload makes the heart work harder. <b>As workload rises, the heart uses more oxygen.</b> If it cannot get that oxygen, a <b>vicious cycle</b> starts. The starved muscle pumps weakly, CO falls, vessels tighten more to hold up BP, and afterload rises again. Over years, high afterload can make the left ventricle wall thick.</p><p><b>Very low afterload</b> (vessels widely dilated, as in severe infection) lets BP drop so low that blood does not reach the organs.</p>",
+     "source": "Perfusion slides 11, 16",
+     "body": "<p><b>Afterload</b> is the force the ventricles must overcome to push blood out. It depends on <b>vascular tone</b>, meaning how tight or relaxed the arteries are.</p><p>High afterload makes the heart work harder. <b>As workload rises, the heart uses more oxygen.</b> If it cannot get that oxygen, a <b>vicious cycle</b> starts. The starved muscle pumps weakly, CO falls, vessels tighten more to hold up BP, and afterload rises again. Over years, high afterload can make the left ventricle wall thick.</p><p><b>Very low afterload</b> (vessels widely dilated, as in severe infection) <b>decreases the flow of blood into the circulation</b>. BP drops, and blood does not reach the organs well.</p>",
      "bullets": [
       "<b>Raise afterload:</b> constricted arterioles, high BP, stiff arteries from aging, and thick (viscous) blood.",
       "<b>Lower afterload:</b> arterial vasodilators and warmth (such as a warm bath).",
@@ -865,6 +889,7 @@
     {
      "heading": "What is contractility?",
      "keyIdea": "Contractility is how hard the heart squeezes, separate from how full it is.",
+     "source": "Perfusion slide 10",
      "body": "<p><b>Contractility</b> is the ability of heart muscle fibers to shorten. It is the strength of the squeeze. <b>SNS stimulation</b> makes it stronger. <b>Damaged heart muscle, low oxygen (hypoxemia), and acidosis</b> make it weaker.</p><p>Poor contractility pumps less blood forward. Blood is left behind, so <b>pressures inside the ventricles rise</b>. CO falls, and blood backs up into the lungs or body.</p>",
      "table": {
       "caption": "Sort it out: which one is affected?",
@@ -906,13 +931,15 @@
     },
     {
      "heading": "How does acidosis strain the heart?",
-     "keyIdea": "Acidosis tightens lung blood vessels, which raises the right ventricle's afterload and can cause right-sided failure.",
-     "body": "<p>Perfusion problems often come with acid–base problems. <b>Respiratory acidosis</b> can be sudden (breathing failure) or chronic (long-standing lung disease). <b>Metabolic acidosis</b>, such as in diabetic ketoacidosis, can also occur.</p><p>Acidosis makes the lung blood vessels tighten. This is <b>pulmonary vasoconstriction</b>. It raises the pressure the <b>right ventricle</b> pumps against, which is its afterload. Over time the right ventricle can fail. Acidosis also <b>weakens contractility</b>.</p>",
+     "keyIdea": "Acidosis tightens lung blood vessels and depresses the heart muscle, which can lead to right ventricular failure.",
+     "source": "Perfusion slide 18",
+     "body": "<p>Clients with perfusion problems often have problems in other concepts too. <b>Respiratory acidosis</b> can be acute, when sudden ventilation failure occurs. It can be chronic, usually secondary to another medical condition. <b>Metabolic acidosis</b>, such as in diabetic ketoacidosis, can also occur.</p><p>Acidosis makes the lung blood vessels tighten. This is <b>pulmonary vasoconstriction</b>. It raises the pressure the <b>right ventricle</b> pumps against, which is its afterload. Over time the right ventricle can fail. Acidosis also causes <b>myocardial depression</b>, a weaker squeeze.</p>",
      "example": "<b>At the bedside:</b> Mrs. W, 67, has chronic respiratory acidosis. She now has new JVD and 2+ ankle edema. Her lungs have wheezes but no crackles. This is <b>right ventricular failure</b> from higher pulmonary afterload. No crackles argues against left-sided failure. Report the new JVD."
     },
     {
      "heading": "How do you judge cardiac output at the bedside?",
      "keyIdea": "Check the brain, kidneys, and skin: good organ perfusion means cardiac output is enough.",
+     "source": "Perfusion slides 11, 24; organ checks added for the NCLEX",
      "body": "<p>Critically ill clients may have <b>invasive hemodynamic monitoring</b> that measures CO directly. For most clients, you judge CO by how the <b>organs</b> are doing. A normal CO number can even hide a low stroke volume when a fast heart rate is making up for it.</p>",
      "bullets": [
       "<b>Brain:</b> alert and oriented vs. new confusion, restlessness, or oriented to person only.",
@@ -926,6 +953,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from mixing up preload and afterload or reading a faster heart rate as improvement.",
+     "source": "Perfusion slides 9–11, 18",
      "body": "<p>These pairs look alike on a test. Learn the clue that splits them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -968,6 +996,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to calculate CO, name the factor a situation changes, or decide if perfusion is better or worse.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A client with black, tarry stools has HR 124/min, BP 98/80, and cool, pale hands and feet. Which explanation best fits?</p><p>A. Too much afterload from high BP is making the heart race.<br>B. Blood loss lowered preload, so each beat pumps less and the heart speeds up.<br>C. Contractility is stronger, so the heart pumps faster.<br>D. The vagus nerve is slowing the heart.</p>",
      "bullets": [
       "<b>Math:</b> HR × SV in mL, then divide by 1,000 for L/min.",
@@ -988,6 +1017,7 @@
     {
      "heading": "Worked case: low urine after surgery",
      "keyIdea": "When brain, kidneys, and skin all show poor perfusion, report low cardiac output now.",
+     "source": "Added: worked example based on Perfusion slides 9–11",
      "body": "<p>Eight hours after belly surgery, a 66-year-old client's urine has been 18 mL/hr for 2 hours. She is newly restless. Her hands and feet are cool and clammy. BP is 98/62 (baseline 132/84). Heart rate has risen.</p>",
      "steps": [
       "<b>Check the brain.</b> New restlessness is a sign of poor brain perfusion.",
@@ -1045,7 +1075,7 @@
     },
     {
      "q": "A client at 37 weeks lying flat feels dizzy, and BP drops to 88/50. What first?",
-     "a": "Turn her onto her left side. The uterus is pressing the vena cava and cutting venous return (preload)."
+     "a": "Turn her onto her side, or place a wedge under her right hip. The uterus is pressing the vena cava and cutting venous return (preload)."
     }
    ]
   },
@@ -1143,6 +1173,7 @@
     {
      "heading": "How does the heart make its own signal?",
      "keyIdea": "The SA node fires, the AV node pauses the signal, and the bundle branches and Purkinje fibers make the ventricles squeeze.",
+     "source": "Perfusion slide 12",
      "body": "<p>Heart cells have <b>self-excitation</b>. They can start and send impulses with no outside signal. That is why a transplanted heart keeps beating even though its nerves were cut.</p><p>The impulse follows a set path. The pause at the AV node is a good thing. It gives the ventricles time to fill before they squeeze.</p>",
      "steps": [
       "The <b>SA node</b> in the right atrium fires. It is the pacemaker (normally 60–100/min).",
@@ -1157,6 +1188,7 @@
     {
      "heading": "What if the SA node fails?",
      "keyIdea": "Backup pacemakers take over, but each one lower in the path fires more slowly.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>If the SA node stops, other sites can take over. Each backup is slower. The farther down the path, the slower the rate, and the lower the cardiac output.</p>",
      "table": {
       "caption": "Pacemaker sites and rates",
@@ -1188,7 +1220,8 @@
     {
      "heading": "How does a heart cell fire?",
      "keyIdea": "Positive ions rushing in make the cell fire (depolarization); potassium moving out recharges it (repolarization).",
-     "body": "<p>The <b>action potential</b> is the electrical impulse. <b>Sodium (Na⁺), potassium (K⁺), and calcium (Ca²⁺)</b> moving in and out of the cell create it. It makes the muscle squeeze. It also makes the waves you see on the ECG.</p><p>At rest, the inside of the cell is negative and the outside is positive. This is <b>polarized</b>.</p><p>In <b>depolarization</b>, positive ions (mainly sodium, then calcium) rush in. The cell becomes more positive. At the <b>threshold</b>, it fires. The signal spreads to nearby cells, and the muscle squeezes.</p><p>In <b>repolarization</b>, potassium moves out. The cell gets its negative charge back and is ready to fire again.</p>",
+     "source": "Perfusion slides 12–13",
+     "body": "<p>The <b>action potential</b> is the electrical impulse. <b>Sodium (Na⁺), potassium (K⁺), and calcium (Ca²⁺)</b> moving in and out of the cell create it. It makes the muscle squeeze. It also makes the waves you see on the ECG.</p><p>At rest, the inside of the cell is negative and the outside is positive. This is <b>polarized</b>.</p><p>In <b>depolarization</b>, positive ions (mainly sodium, then calcium) rush in. The cell becomes more positive. At the <b>threshold potential</b>, an action potential can be generated, and the cell fires. The signal spreads to nearby cells, and the muscle squeezes.</p><p>In <b>repolarization</b>, potassium moves out. The cell gets its negative charge back and is ready to fire again.</p>",
      "analogy": "Think of a camera flash. Charging the flash is repolarization. Pressing the button is depolarization. Until it recharges, pressing again does nothing. That is the refractory period.",
      "check": {
       "q": "Why can a high or low potassium level cause dysrhythmias?",
@@ -1198,7 +1231,8 @@
     {
      "heading": "What are refractory periods?",
      "keyIdea": "Refractory periods force the heart to rest between beats, but a stray signal late in recovery can start a dysrhythmia.",
-     "body": "<p>After a cell fires, it needs recovery time. The <b>refractory period protects heart muscle from spasm and tetany</b> (a sustained cramp). The heart must relax between beats to refill. A heart stuck in a cramp could not pump.</p><p><b>Many dysrhythmias start during the relative refractory and supernormal periods.</b> A stray early beat can fire the cell at the wrong time. On a strip, this can look like an early beat landing on the T wave and setting off a run of fast beats.</p>",
+     "source": "Perfusion slide 13",
+     "body": "<p>After a cell fires, it needs recovery time. The <b>refractory period protects heart muscle from spasm and tetany</b> (a sustained cramp). The heart must relax between beats to refill. A heart stuck in a cramp could not pump.</p><p><b>Many dysrhythmias are triggered during the refractory and supernormal periods.</b> A stray early beat can fire the cell at the wrong time. On a strip, this can look like an early beat landing on the T wave and setting off a run of fast beats.</p>",
      "table": {
       "caption": "Refractory periods",
       "headers": [
@@ -1211,7 +1245,7 @@
         "No stimulus can fire the cell, no matter how strong."
        ],
        [
-        "Relative refractory",
+        "Relative refractory (slides: \"refractory period\")",
         "A stronger-than-normal stimulus is needed to fire."
        ],
        [
@@ -1225,6 +1259,7 @@
     {
      "heading": "How do you read the basic ECG?",
      "keyIdea": "P is the atria, PR is time through the AV node, QRS is the ventricles firing, and T is the ventricles recharging.",
+     "source": "Perfusion slides 12, 32, 40; wave and interval values added for the NCLEX",
      "body": "<p>The <b>ECG</b> records the heart's electrical activity. Each wave matches part of the path. Electricity comes first, then the muscle squeezes.</p><p>A <b>long PR</b> means the AV node is slow. A <b>wide QRS</b> (0.12 seconds or more) means a problem in the bundle branches or ventricles. With aging, the AV node can scar (fibrosis). This can slowly lengthen the PR and lead to AV block.</p>",
      "table": {
       "caption": "Basic ECG waves and intervals",
@@ -1265,17 +1300,21 @@
     {
      "heading": "What does the pulse tell you?",
      "keyIdea": "The pulse is the wave from each left ventricle squeeze, so its strength reflects stroke volume.",
-     "body": "<p>The <b>pulse</b> is the wave of blood from left ventricular contraction. It reflects <b>stroke volume</b>. In a healthy person, every beat you hear makes a pulse you can feel. A weak, thready pulse means a small stroke volume, as in heavy bleeding.</p><p>With an irregular rhythm, some beats come so early that the ventricle has not filled. You may hear them at the apex but not feel them at the wrist. This is a <b>pulse deficit</b>.</p>",
+     "source": "Perfusion slides 14, 27–30",
+     "body": "<p>The <b>pulse</b> is the wave of blood from left ventricular contraction. It reflects <b>stroke volume</b>. In a healthy person, the pulse reflects the heartbeat. A weak, thready pulse means a small stroke volume, as in heavy bleeding.</p><p>With an irregular rhythm, some beats come so early that the ventricle has not filled. You may hear them at the apex but not feel them at the wrist. The apical rate is then higher than the radial rate. Any gap between the two is a <b>pulse deficit</b>. The radial pulse is never greater than the apical pulse.</p>",
      "bullets": [
-      "<b>Things that change the pulse:</b> medicines, activity, position, fever, pain, anxiety, and bleeding or dehydration.",
-      "A post-op pulse rising from 76 to 118: look for pain, fever, anxiety, or bleeding.",
-      "Know the client's <b>baseline</b> so you can spot a real change.",
-      "<b>Apical-radial pulse:</b> two nurses count at the same time for a full 60 seconds. One listens at the apex (5th ICS, midclavicular line). One feels the radial pulse."
+      "<b>Assess:</b> rate, rhythm, volume, arterial wall elasticity, and bilateral equality.",
+      "<b>Things that change the pulse:</b> medicines, physical activity, and position (lying, sitting, standing). Fever, pain, anxiety, and bleeding also raise it.",
+      "Know the client's <b>baseline</b> heart rate so you can spot a real change.",
+      "<b>Take an apical pulse</b> when the peripheral pulse is irregular or absent, with known heart, lung, or kidney disease, in children under 2–3 years, and before drugs that affect heart rate.",
+      "<b>Hard-to-find pulse:</b> use a Doppler ultrasound stethoscope.",
+      "<b>Apical-radial pulse:</b> two nurses count at the same time for a full 60 seconds. Normally the two rates are identical."
      ]
     },
     {
      "heading": "Why treat the client, not the monitor?",
      "keyIdea": "Go to the client first; their condition, not the screen, decides what happens next.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Rhythms matter because of their effect on perfusion. When an alarm sounds, look at the <b>client first</b>.</p><p>Loose electrodes, movement, shivering, and brushing teeth can make the monitor look chaotic. This is <b>artifact</b>. A person in true ventricular fibrillation has no pulse and is unresponsive.</p>",
      "bullets": [
       "<b>Rhythm is hurting perfusion if you see:</b> dizziness, low BP, chest pain, shortness of breath, or confusion.",
@@ -1289,6 +1328,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from trusting the screen over the client or mixing up PR and QRS problems.",
+     "source": "Perfusion slides 12–14, 30",
      "body": "<p>These pairs look alike on a test. Learn the clue that splits them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1331,6 +1371,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to find where conduction is slow, link electrolytes to rhythm, or pick which rhythm client to see first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> On a telemetry unit, which client should the nurse assess first?</p><p>A. Sinus tachycardia at 108 with post-op pain<br>B. Chronic atrial fibrillation, rate 84, on anticoagulation<br>C. PR 0.22 seconds with BP 128/76<br>D. New sinus bradycardia at 42/min with dizziness and BP 84/50</p>",
      "bullets": [
       "<b>Locate the delay:</b> long PR means AV node; wide QRS means ventricles.",
@@ -1351,6 +1392,7 @@
     {
      "heading": "Worked case: irregular beats and low potassium",
      "keyIdea": "Link a new dysrhythmia to the electrolytes that drive the action potential, then report and recheck.",
+     "source": "Added: worked example based on Perfusion slides 12–13",
      "body": "<p>A 71-year-old client takes a diuretic and is admitted with weakness. The monitor shows new, frequent irregular beats. Her potassium is 3.0 mEq/L.</p>",
      "steps": [
       "<b>Link the rhythm to the cell.</b> Potassium helps cells recharge. Low potassium makes cells fire at the wrong time.",
@@ -1504,12 +1546,14 @@
     {
      "heading": "Step 1: How does the vessel react first?",
      "keyIdea": "An injured vessel narrows within seconds, so less blood escapes while the other steps start.",
-     "body": "<p>The moment a vessel is hurt, it <b>narrows</b>. This is <b>vasoconstriction</b>. Two things trigger it: <b>chemicals released at the injury</b> and <b>nerve signals from pain receptors</b>.</p><p>A narrower vessel lets less blood escape. It is the body's first, fast response. It buys time for the next steps.</p>",
+     "source": "Perfusion slide 17",
+     "body": "<p><b>Hemostasis</b> is how the body slows and stops blood flow. It is essential to perfusion. Your slides divide it into three steps. This is step 1.</p><p>The moment a vessel is hurt, it <b>narrows</b>. This is <b>vasoconstriction</b>. Two things trigger it: <b>chemicals released at the injury</b> and <b>nerve signals from pain receptors</b>.</p><p>A narrower vessel lets less blood escape. It is the body's first, fast response. It buys time for the next steps.</p>",
      "analogy": "Think of a burst garden hose. First you pinch the hose to slow the spray. That is vasoconstriction. It buys time while the real repair happens."
     },
     {
      "heading": "Step 2: What is the platelet plug?",
      "keyIdea": "Platelets stick together into a quick, temporary seal, and aspirin weakens this step.",
+     "source": "Perfusion slide 17; aspirin link added for the NCLEX",
      "body": "<p>Next, <b>platelets</b> rush to the injury. They stick to the damaged wall, then to each other. They pile up into a <b>platelet plug</b> that <b>closes the hole</b>. This plug is <b>temporary</b>. It is soft and can be knocked loose.</p><p><b>Aspirin</b>, an antiplatelet drug, works on this step. It keeps platelets from clumping well. The plug forms more slowly, so a small cut bleeds longer.</p>",
      "analogy": "The platelet plug is like stuffing tape into the hole in the hose. It slows the leak right away, but it will not hold for long.",
      "example": "<b>At the bedside:</b> Mr. G takes daily low-dose aspirin. He cuts his finger and asks why it keeps bleeding. Explain that aspirin makes platelets less sticky, so the plug takes longer to form. Firm pressure on the cut helps."
@@ -1517,6 +1561,7 @@
     {
      "heading": "Step 3: What does the clotting cascade do?",
      "keyIdea": "Clotting factors switch each other on to make fibrin, which forms a strong, lasting clot.",
+     "source": "Perfusion slide 17",
      "body": "<p>The <b>coagulation cascade</b> is a chain reaction. Clotting factors are proteins in the plasma. Many are made in the liver. They switch each other on, one after another, like dominoes. The end result is <b>fibrin</b>. These long, sticky strands weave through the plug and trap red blood cells. This makes a <b>larger, stronger patch</b>: a true clot.</p><p><b>Anticoagulants</b> slow this cascade. They <b>prevent new clots and stop clots from growing</b>. They <b>do not dissolve</b> a clot that is already there. Clients call them \"blood thinners,\" but the blood is not thinner. The clotting chain is slowed.</p>",
      "analogy": "If the plug is tape, fibrin is a fiberglass wrap around the hose. It is stronger, bigger, and lasts until the hose is truly repaired.",
      "check": {
@@ -1527,6 +1572,7 @@
     {
      "heading": "How does the body dissolve a clot?",
      "keyIdea": "Healing tissue releases tPA, tPA turns on plasmin, and plasmin digests the fibrin.",
+     "source": "Perfusion slides 17, 21",
      "body": "<p>A clot is meant to be temporary. Once the vessel heals, the clot must go so blood can flow normally. This breakdown is <b>fibrinolysis</b>.</p>",
      "steps": [
       "New, healthy tissue at the injury releases <b>tissue plasminogen activator (tPA)</b>.",
@@ -1538,6 +1584,7 @@
     {
      "heading": "Which drugs affect which step?",
      "keyIdea": "Antiplatelets hit the plug, anticoagulants hit the cascade, and only thrombolytics dissolve a clot.",
+     "source": "Perfusion slide 17; drug links added for the NCLEX",
      "body": "<p>Tests love to ask which drug affects which step. Use this table to keep them straight.</p>",
      "table": {
       "caption": "Hemostasis at a glance",
@@ -1577,6 +1624,7 @@
     {
      "heading": "Why do clots form in the legs?",
      "keyIdea": "Pooled blood clots more easily, so immobility and pregnancy both raise the risk of a leg vein clot.",
+     "source": "Perfusion slides 38–39",
      "body": "<p>Moving blood flows smoothly. Blood that <b>pools</b> is more likely to clot. This pooling is <b>venous stasis</b>. Leg veins need moving muscles to push blood back to the heart. Anything that stops leg movement raises the risk of <b>venous thrombosis</b>.</p><p><b>Pregnancy</b> raises the risk two ways. The growing uterus <b>slows blood returning from the legs</b>. Also, <b>fibrin, fibrinogen, and clotting factors VII, VIII, IX, and X rise</b>. Clotting time does <b>not</b> differ much from nonpregnant women. But the <b>risk of venous thrombosis is higher</b>.</p>",
      "bullets": [
       "<b>Risk:</b> bed rest after surgery or stroke, long sitting, paralysis or weakness, and pregnancy.",
@@ -1589,6 +1637,7 @@
     {
      "heading": "How do nurses keep leg blood moving?",
      "keyIdea": "Promote movement, check compression devices, and never compress a leg that may have a clot.",
+     "source": "Perfusion slides 34–35",
      "body": "<p>Nurses <b>promote circulation</b>. They are also responsible for <b>checking how compression devices are applied</b>. Compression stockings are a non-drug, collaborative therapy. Before applying any compression, assess the legs to be sure it is safe.</p>",
      "bullets": [
       "<b>Measure the legs</b> to pick the right size sleeve or stocking. The wrong size either fails or squeezes too hard.",
@@ -1602,6 +1651,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from thinking anticoagulants dissolve clots or from compressing or rubbing a leg that may have a clot.",
+     "source": "Perfusion slides 17, 34, 39",
      "body": "<p>These pairs look alike on a test. Learn the clue that splits them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1640,6 +1690,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask you to match a drug to a step, explain a clot-buster, or pick the client whose compression device to hold.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> Which client's SCD should the nurse withhold and report to the provider?</p><p>A. A stroke client on bed rest with intact skin and 2+ pedal pulses<br>B. A post-op client on a daily anticoagulant shot<br>C. A client 2 days after hip replacement with a newly swollen, warm, tender left calf<br>D. A client who says the sleeves make her legs sweaty</p>",
      "bullets": [
       "<b>Match drug to step:</b> aspirin = plug, anticoagulant = cascade, alteplase = fibrinolysis.",
@@ -1660,6 +1711,7 @@
     {
      "heading": "Worked case: calf pain after knee surgery",
      "keyIdea": "Treat a new painful, swollen calf as a possible clot: no rubbing, limit movement, and notify the provider.",
+     "source": "Added: worked example based on Perfusion slides 17, 34–35",
      "body": "<p>On day 3 after a knee replacement, a 63-year-old client says, \"My left calf has been cramping since this morning. Could you rub it?\" The left calf is swollen, warm, and tender. He has SCDs ordered.</p>",
      "steps": [
       "<b>Spot the risk.</b> Surgery and less movement cause venous stasis.",
@@ -1803,6 +1855,7 @@
     {
      "heading": "How do you read a lipid profile?",
      "keyIdea": "Check each lipid value against its own target, because a normal total can hide a high LDL or low HDL.",
+     "source": "Perfusion slides 22, 32; target values added for the NCLEX",
      "body": "<p>Cholesterol, triglycerides, and other lipids show a client's risk for <b>atherosclerosis</b> and coronary artery disease. Checking lipids is also a routine <b>screening</b>. A fasting sample is often requested, since a recent meal raises triglycerides.</p><p>Look at <b>each part</b>, not just the total. Use the HDL goal for the client's sex.</p>",
      "table": {
       "caption": "Desirable adult lipid values (mg/dL)",
@@ -1843,6 +1896,7 @@
     {
      "heading": "What do troponin and CK-MB show?",
      "keyIdea": "Troponin shows heart muscle injury, and it rises over hours, so one early normal result rules nothing out.",
+     "source": "Perfusion slide 32; timing added for the NCLEX",
      "body": "<p>Injured heart muscle cells leak proteins into the blood. <b>Troponin</b> is the most specific marker of heart muscle injury. <b>Creatine kinase (CK)</b> is in all muscle. Its <b>MB form (CK-MB)</b> is the heart-specific one.</p><p>Troponin <b>takes a few hours to rise</b>. One normal value drawn early does <b>not</b> rule out injury. The provider orders <b>serial draws</b> to look for a rise. Troponin shows injury. It does not show where an artery is narrowed.</p>",
      "example": "<b>At the bedside:</b> Ms. V arrives 1 hour after chest pressure began. Her first troponin is normal. She asks, \"So I didn't have a heart attack?\" Say: \"Troponin can take a few hours to rise. We will repeat it to be sure.\"",
      "analogy": "Troponin is like smoke from a fire in another room. It takes time to drift to where you can smell it. No smoke in the first minute does not mean no fire."
@@ -1850,6 +1904,7 @@
     {
      "heading": "What does each ECG and imaging test show?",
      "keyIdea": "Each test answers one question, so match the test to what it shows.",
+     "source": "Perfusion slides 22–23, 32",
      "body": "<p>Knowing the question each test answers helps you teach. It also helps on \"what will this test show?\" items.</p>",
      "table": {
       "caption": "Matching tests to what they show",
@@ -1896,6 +1951,7 @@
     {
      "heading": "How do stress tests work?",
      "keyIdea": "A stress test makes the heart work harder to uncover problems that only show with effort.",
+     "source": "Perfusion slides 22–23",
      "body": "<p>Narrowed coronary arteries may supply enough blood at rest but not during effort. A <b>stress test</b> watches the ECG and BP while the heart works harder.</p>",
      "bullets": [
       "<b>Exercise stress test:</b> treadmill or bike, with the workload slowly rising. Wear comfortable shoes and clothes. Avoid heavy meals, caffeine, and tobacco before, as instructed.",
@@ -1910,6 +1966,7 @@
     {
      "heading": "What care does a TEE need?",
      "keyIdea": "A TEE numbs the throat, so the client takes nothing by mouth until the gag and swallow reflexes return.",
+     "source": "Perfusion slide 32; TEE care added for the NCLEX",
      "body": "<p>A <b>TEE</b> passes an ultrasound probe down the esophagus. The esophagus sits right behind the heart, so the picture is clearer than a chest echo. The client gets <b>sedation</b> and a <b>spray to numb the throat</b>.</p>",
      "steps": [
       "<b>Before:</b> keep the client NPO as ordered (usually several hours) and remove dentures.",
@@ -1922,10 +1979,11 @@
     {
      "heading": "What care does a cardiac cath need?",
      "keyIdea": "Before a cath, check kidneys and bleeding risk; after, watch the site, pulses, and urine, and push fluids.",
-     "body": "<p>In <b>cardiac catheterization</b>, a catheter goes through an artery into the heart. The usual sites are the <b>femoral</b> artery (groin) or the <b>radial</b> artery (wrist). <b>Contrast dye</b> outlines the coronary arteries and shows blockages. This is <b>coronary angiography</b>. The two big risks are <b>bleeding</b> at the puncture and <b>kidney injury</b> from the dye.</p>",
+     "source": "Perfusion slides 28, 32, 41",
+     "body": "<p>In <b>cardiac catheterization</b>, a catheter goes through an artery into the heart. The usual sites are the <b>femoral</b> artery (groin) or the <b>radial</b> artery (wrist). <b>Contrast dye</b> outlines the coronary arteries and shows blockages. This is <b>coronary angiography</b> (also called coronary arteriography). The two big risks are <b>bleeding</b> at the puncture and <b>kidney injury</b> from the dye.</p>",
      "bullets": [
       "<b>Before:</b> confirm consent, keep NPO as ordered, ask about contrast allergy, and check kidney function (creatinine) and bleeding risk (clotting tests, anticoagulants).",
-      "<b>Report before:</b> a high creatinine (for example, 2.1 mg/dL). Older adults often have lower kidney function to begin with.",
+      "<b>Report before:</b> a high creatinine (for example, 2.1 mg/dL). In older adults, GFR drops 30–50% by age 80, so kidney reserve is low.",
       "<b>Mark distal pulses</b> before. If a pulse is found only by Doppler, mark it and recheck with Doppler.",
       "<b>Teach:</b> a warm, flushing feeling is common when the dye goes in.",
       "<b>After femoral access:</b> bed rest as ordered, <b>leg straight</b>, <b>HOB 30° or less</b>. Check the site and distal pulse, color, warmth, and feeling often. Encourage fluids and watch urine output.",
@@ -1968,6 +2026,7 @@
     {
      "heading": "What is pericardiocentesis?",
      "keyIdea": "A needle drains fluid from the pericardial sac to test it or to relieve pressure on the heart.",
+     "source": "Perfusion slides 3, 32",
      "body": "<p><b>Pericardiocentesis</b> uses a needle to remove fluid from the <b>pericardial sac</b>, the space between the parietal and visceral layers. It is done to <b>test the fluid</b> or to <b>relieve pressure</b> when fluid squeezes the heart and keeps it from filling.</p><p>Monitor the ECG, BP, and heart sounds during and after. Watch for fluid building up again. A <b>falling BP with a rising heart rate</b> is the warning. Report it right away.</p>",
      "check": {
       "q": "Where exactly is the fluid removed during pericardiocentesis?",
@@ -1977,6 +2036,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most errors come from trusting one early result or forgetting the hidden risks after a procedure.",
+     "source": "Perfusion slides 22–23, 32",
      "body": "<p>These pairs look alike on a test. Learn the clue that splits them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -2019,6 +2079,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions ask what a test shows, which pre-test finding to report, or what to do first after a procedure.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> Two hours after a right femoral cath, the client says, \"My groin suddenly feels warm and wet.\" HR rose from 84 to 106/min. BP went from 126/78 to 108/88. What should the nurse do first?</p><p>A. Take a full set of vital signs.<br>B. Apply firm, direct pressure just above the puncture site.<br>C. Raise the head of the bed to 90°.<br>D. Call the provider before touching the site.</p>",
      "bullets": [
       "<b>What it shows:</b> match the test to its question.",
@@ -2039,11 +2100,12 @@
     {
      "heading": "Worked case: labs before a cath",
      "keyIdea": "Before contrast, look for the result that the dye could make worse.",
+     "source": "Added: worked example based on Perfusion slides 32, 41",
      "body": "<p>An 81-year-old client is scheduled for a cardiac cath with contrast in 2 hours. Labs: hemoglobin 13.8 g/dL, potassium 4.2 mEq/L, creatinine 2.1 mg/dL. He has no known allergies.</p>",
      "steps": [
       "<b>Name the risks.</b> A cath risks bleeding and kidney injury from contrast.",
       "<b>Compare each lab.</b> Hemoglobin and potassium are normal. Creatinine 2.1 is high.",
-      "<b>Add the age.</b> Older adults often have reduced kidney function, which raises the risk.",
+      "<b>Add the age.</b> By age 80, GFR is reduced 30–50%. That raises the risk.",
       "<b>Act.</b> Report the creatinine to the provider before the procedure.",
       "<b>Plan after.</b> Encourage fluids as ordered and track urine output."
      ],

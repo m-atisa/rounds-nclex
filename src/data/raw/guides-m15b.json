@@ -89,7 +89,8 @@
     {
      "heading": "Why is trapped mucus dangerous?",
      "keyIdea": "A mucus plug keeps air out of the alveoli, so they collapse and blood leaves the lungs without enough oxygen.",
-     "body": "<p>Healthy airways make a thin layer of mucus. It traps dust and germs. The cilia sweep it upward, and a cough clears the rest.</p><p>Behind a plug, the alveoli collapse. This is <b>atelectasis</b>. Blood still flows past those alveoli, but they have no air to give it. That is a <b>V/Q mismatch</b>, and it causes low blood oxygen (hypoxemia). Trapped mucus also lets bacteria grow. So a plug can turn into atelectasis, and then into pneumonia.</p>",
+     "source": "Oxygenation slides 4, 8, 10, 16, 18 (pain and dehydration causes added)",
+     "body": "<p>Healthy airways make a thin layer of mucus. It traps dust and germs. The cilia sweep it upward, and a cough clears the rest.</p><p>Airway blockage is the main cause of <b>atelectasis</b>. Behind a plug, the alveoli collapse. Blood still flows past those alveoli, but they have no air to give it. That is a <b>V/Q mismatch</b>, and it causes low blood oxygen (hypoxemia). Trapped mucus also lets bacteria grow. So a plug can turn into atelectasis, and then into pneumonia.</p>",
      "bullets": [
       "Infection makes more mucus, and thicker mucus.",
       "Smoking slows the cilia.",
@@ -102,12 +103,14 @@
     {
      "heading": "How do you spot poor airway clearance?",
      "keyIdea": "Sounds that do not clear with coughing, a weak cough, and falling SpO₂ mean the client cannot clear the airway alone.",
+     "source": "Oxygenation slides 10, 19 (nursing diagnosis and post-op clues added)",
      "body": "<p>The nursing problem is called <b>ineffective airway clearance</b>. Listen to the lungs before and after the client coughs. If the noise stays after a good cough, the mucus is still there.</p><p>After surgery, watch for early atelectasis. It often shows up on post-op day 1 or 2.</p>",
      "bullets": [
       "Rhonchi or crackles that do not clear with coughing.",
       "Diminished breath sounds.",
       "A weak cough, or gurgling in the throat.",
-      "Faster breathing, falling SpO₂, and restlessness.",
+      "Signs of low oxygen (hypoxia): increasing restlessness, irritability, sudden unexplained confusion, and a fast heart rate with fast breathing.",
+      "Adventitious (extra) breath sounds: stridor, crackles, rhonchi, wheezing, or a pleural friction rub.",
       "Post-op atelectasis clues: low IS volumes, crackles in the lung bases, a cough limited by pain, and low-grade fever with fast breathing."
      ],
      "example": "Mr. R, 67, is on post-op day 2 after abdominal surgery. His head of bed is at 15°. He says, \"It hurts too much to cough.\" His IS reaches 500 mL, and his goal is 1,500. He has fine crackles in both bases that do not clear. T 38.1 °C, RR 24, SpO₂ 91% on room air. He has had only 240 mL to drink since midnight. These are cues of early atelectasis."
@@ -115,6 +118,7 @@
     {
      "heading": "Which positions help a client breathe?",
      "keyIdea": "Sitting up lets the diaphragm drop and the lungs expand, so raising the head of the bed is often the first, fastest fix.",
+     "source": "Oxygenation slides 11, 14, 21–22, 28 (turning schedule added)",
      "body": "<p>When a client lies flat, the belly organs push up on the diaphragm. The lungs cannot fully expand. Sitting up lets the diaphragm drop. So the first step for almost any short-of-breath client is to <b>raise the head of the bed</b>.</p>",
      "bullets": [
       "High Fowler's or semi-Fowler's gives the best lung expansion. Never lay a short-of-breath client flat.",
@@ -131,6 +135,7 @@
     {
      "heading": "Which breathing and coughing skills do you teach?",
      "keyIdea": "Each technique has one job: open alveoli, keep small airways open, rest the neck muscles, or clear mucus with less pain.",
+     "source": "Oxygenation slides 22, 30 (pursed-lip, belly and huff techniques added)",
      "body": "<p>Treat pain first. A client who is not hurting breathes deeper. Then keep the mucus thin and moving.</p><p><b>Fluids</b> thin secretions. Encourage about 2–3 L a day unless the client has a fluid limit. <b>Humidified oxygen</b>, when prescribed, also helps. Do not trap the mucus. Cough suppressants and antihistamines dry and thicken secretions. They are wrong choices for a productive cough.</p>",
      "table": {
       "headers": [
@@ -165,7 +170,8 @@
     {
      "heading": "How do you teach incentive spirometry?",
      "keyIdea": "The IS is for breathing IN: slow and deep, hold 3–5 seconds, about 10 times an hour.",
-     "body": "<p>An IS helps expand the lungs, clear mucus, and get more oxygen to the airways and alveoli. It is often prescribed after surgery, for older adults, and for clients with lung problems. A slow, held breath gives air time to pop collapsed alveoli open.</p><p>The most common mistake is <b>blowing into</b> the device. You judge success by results: rising volumes and clearing breath sounds.</p>",
+     "source": "Oxygenation slides 24, 30 (IS steps added)",
+     "body": "<p>An IS helps expand the lungs, clear mucus, and get more oxygen to the bronchi and alveoli. It is often prescribed after surgery and for some clients with lung problems. Your slides also list it as a treatment for older adults. A slow, held breath gives air time to pop collapsed alveoli open.</p><p>The most common mistake is <b>blowing into</b> the device. You judge success by results: rising volumes and clearing breath sounds.</p>",
      "steps": [
       "Sit upright, in high Fowler's or on the edge of the bed.",
       "Breathe out normally. Then seal the lips tightly around the mouthpiece.",
@@ -181,7 +187,8 @@
     {
      "heading": "What is PVD, and how is it done?",
      "keyIdea": "Open the airway, thin the mucus, drain and loosen it, then cough it out, always before meals.",
-     "body": "<p>PVD may be prescribed for congestion that will not clear. <b>Postural drainage</b> positions the client so gravity drains the clogged lobe toward the large airways. <b>Percussion</b> is rhythmic clapping with cupped hands over the ribs. <b>Vibration</b> uses flat hands to shake the chest wall while the client breathes out.</p><p>M.L.'s discharge plan includes PVD. Her mother will do it after the respiratory therapist teaches her. It pairs with nebulized albuterol (opens airways) and acetylcysteine (thins mucus).</p>",
+     "source": "Oxygenation slide 25 (PVD technique steps added)",
+     "body": "<p>PVD may be prescribed for congestion that will not clear. <b>Postural drainage</b> positions the client so gravity drains the clogged lobe toward the large airways. <b>Percussion</b> is rhythmic clapping with cupped hands over the ribs. <b>Vibration</b> uses flat hands to shake the chest wall while the client breathes out.</p><p>M.L.'s discharge plan includes PVD. The respiratory therapist (RT) has already taught M.L. and her mother. Her mother will stay with her to help. It pairs with nebulized albuterol (opens airways) and acetylcysteine (thins mucus).</p>",
      "steps": [
       "Schedule it before meals. Clapping on a full stomach can cause vomiting and aspiration.",
       "Give the bronchodilator (albuterol) first. Then give the mucolytic (acetylcysteine). Acetylcysteine can cause bronchospasm and smells like rotten eggs, which is expected.",
@@ -194,6 +201,7 @@
     {
      "heading": "When and how do you suction?",
      "keyIdea": "Suction when signs show it is needed, keep each pass short, and give oxygen before and after.",
+     "source": "Oxygenation slides 22, 30 (suction steps added)",
      "body": "<p>Suction clients who cannot cough well. This includes sedated clients and clients with a tracheostomy or breathing tube. Older adults often need it more because their gag and cough reflexes are weaker.</p><p>Suction <b>when indicated</b>, not on a schedule. Signs are visible or audible mucus, gurgling, coarse rhonchi, falling SpO₂, or harder breathing. Each pass removes oxygen along with mucus. For gurgling and pooled mucus in the mouth, <b>Yankauer</b> suction is often the first action. Yankauer is clean technique. Tracheal suction is sterile.</p>",
      "steps": [
       "Clean your hands, explain the procedure, and place the client in semi-Fowler's.",
@@ -207,7 +215,8 @@
     {
      "heading": "Energy, ADLs, and delegation",
      "keyIdea": "Save the client's energy for breathing, and keep assessing, teaching, and evaluating with the RN.",
-     "body": "<p>A short-of-breath client spends a lot of energy just breathing. Check activity tolerance: heart rate, breathing rate, SpO₂, and shortness of breath before, during, and after activity. If the client desaturates during an ADL, stop and let them rest upright first.</p><p>Help with ADLs and plan rest periods. Good nutrition supports the breathing muscles. Small, frequent meals are easier than large ones.</p>",
+     "source": "Oxygenation slides 22–23 (delegation table added)",
+     "body": "<p>A short-of-breath client spends a lot of energy just breathing. Check activity tolerance: heart rate, breathing rate, SpO₂, and shortness of breath before, during, and after activity. If the client desaturates during an ADL, stop and let them rest upright first.</p><p>Help with ADLs and plan rest periods. Good nutrition supports the breathing muscles. Small, frequent meals are easier than large ones. Note: your slides list nutrition management as a collaborative therapy. It needs an order or another team member, such as a dietitian.</p>",
      "table": {
       "headers": [
        "RN does",
@@ -232,6 +241,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most wrong answers either trap the mucus, rush past pain, or keep going when the client is getting worse.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>These look-alikes catch students often. Use the right column to tell them apart.</p>",
      "table": {
       "headers": [
@@ -277,6 +287,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect questions on first actions, correct technique, what to stop doing, and what to delegate.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>The bullets show common question patterns. The steps walk through one sample question, the way you should think on test day.</p>",
      "bullets": [
       "A client gets worse during a procedure. What do you do first?",
@@ -297,6 +308,7 @@
     {
      "heading": "Worked case: Mr. R on post-op day 2",
      "keyIdea": "Fix the causes of atelectasis: treat pain, sit up, expand the lungs, give fluids, and walk.",
+     "source": "Added: worked example based on Oxygenation slides 10, 22, 24",
      "body": "<p>Mr. R, 67, had abdominal surgery 2 days ago. He lies at 15° and will not cough because it hurts. His IS reaches 500 mL; his goal is 1,500. He has fine crackles in both bases that do not clear. T 38.1 °C, RR 24, SpO₂ 91% on room air. He has had 240 mL of fluid since midnight.</p>",
      "steps": [
       "Notice the cues: low IS volume, base crackles that do not clear, low-grade fever, fast breathing, low SpO₂.",
@@ -448,6 +460,7 @@
     {
      "heading": "Rescue or controller?",
      "keyIdea": "Only the SABA (albuterol) opens airways in minutes; every other drug here is a daily controller.",
+     "source": "Oxygenation slides 14, 21, 23 (rescue/controller sort added)",
      "body": "<p>Learn this sort before any single drug. Ask: \"Does this drug open the airways within minutes?\" Only albuterol does. It is the rescue drug as an inhaler or a nebulizer. Everything else is taken on a schedule to prevent symptoms.</p><p>Clients should carry the rescue inhaler at all times. Using it more often means the asthma is poorly controlled. Report it. A client who says \"I'll use my Advair when my chest gets tight\" or \"I can stop Advair once I feel better\" needs more teaching.</p>",
      "table": {
       "headers": [
@@ -469,7 +482,7 @@
        ],
        [
         "",
-        "Ipratropium on a schedule (mainly COPD, or when beta-agonists are not tolerated)"
+        "Ipratropium (an option when beta-agonists are not tolerated; widely used in COPD)"
        ]
       ]
      },
@@ -478,6 +491,7 @@
     {
      "heading": "How do albuterol and salmeterol work?",
      "keyIdea": "Beta-agonists relax airway muscle, but they also speed the heart, cause tremor, and can lower potassium.",
+     "source": "Oxygenation slides 21, 23 (side effects added)",
      "body": "<p>Beta₂ receptors sit on airway muscle. Stimulating them relaxes the muscle, so the airway opens. <b>Albuterol</b> (SABA) starts within minutes and lasts a few hours. <b>Salmeterol</b> (LABA) starts slower but lasts about 12 hours.</p><p>LABAs are combined with an inhaled steroid for chronic lung problems. Advair is that combination. It replaced M.L.'s Flovent. In asthma, a LABA alone raises the risk of severe attacks. Clarify any order for a LABA alone.</p><p>Beta-agonists also act on the heart and muscles, and they move potassium into cells. That explains the side effects.</p>",
      "bullets": [
       "Fast heart rate and palpitations.",
@@ -490,7 +504,8 @@
     {
      "heading": "Inhaled vs. systemic steroids",
      "keyIdea": "Inhaled steroids cause mouth problems, so rinse and spit; systemic steroids affect the whole body and must be tapered.",
-     "body": "<p>Steroids reduce airway inflammation. They do <b>not</b> open a tight airway in minutes. Inhaled forms take days to weeks to reach full effect. That is why they are controllers.</p><p>Inhaled steroids act right in the lungs. The main problems happen in the mouth and throat. Steroid left there lowers local immunity. That can cause <b>thrush</b> (a white fungal coating) and hoarseness. The fix: rinse with water and spit after each dose, and use a spacer with an MDI.</p><p>Systemic steroids are used in short bursts for flares. M.L. took prednisone 40 mg daily.</p>",
+     "source": "Oxygenation slides 14, 23 (side effects added)",
+     "body": "<p>Steroids reduce airway inflammation. They do <b>not</b> open a tight airway in minutes. Inhaled forms take days to weeks to reach full effect. That is why they are controllers.</p><p>Inhaled steroids act right in the lungs. The main problems happen in the mouth and throat. Steroid left there lowers local immunity. That can cause <b>thrush</b> (a white fungal coating) and hoarseness. The fix: rinse with water and spit after each dose, and use a spacer with an MDI.</p><p>Systemic steroids are used in short bursts for flares. M.L. had been taking prednisone 40 mg since Monday.</p>",
      "table": {
       "headers": [
        "Inhaled (fluticasone)",
@@ -523,6 +538,7 @@
     {
      "heading": "What about ipratropium?",
      "keyIdea": "Ipratropium blocks the nerve signal that tightens airways, and its side effects are all \"drying\" effects.",
+     "source": "Oxygenation slide 23 (side effects added)",
      "body": "<p>Anticholinergics block acetylcholine. That chemical normally tightens airway muscle and increases secretions. They are an option for clients who cannot tolerate beta-agonists, such as clients who get a very fast heart rate. <b>Ipratropium</b> is the most common one. It is widely used in COPD, often with albuterol.</p><p>Side effects are drying effects. It can also raise pressure inside the eye. Teach the client not to spray it into the eyes.</p>",
      "bullets": [
       "Dry mouth is expected. Suggest sugar-free candy and sips of water.",
@@ -534,6 +550,7 @@
     {
      "heading": "Why is theophylline risky?",
      "keyIdea": "Theophylline has a narrow safe range, so watch levels, limit caffeine, and hold it for signs of toxicity.",
+     "source": "Oxygenation slide 23 (drug levels and toxicity added)",
      "body": "<p><b>Theophylline</b> is a xanthine bronchodilator. It treats asthma, chronic bronchitis, and emphysema. It also raises heart rate and blood flow to the kidneys. So expect more urine and a faster pulse. It is a controller taken on a schedule, not a rescue drug.</p><p>The traditional target level is 10–20 mcg/mL. Many current references aim lower, so use your lab's range. Caffeine is also a xanthine and adds to the effect. Above the range, toxicity follows a fairly predictable order.</p>",
      "steps": [
       "Early: nausea, vomiting, restlessness, irritability, trouble sleeping.",
@@ -545,6 +562,7 @@
     {
      "heading": "Acetylcysteine and allergy shots",
      "keyIdea": "Give a bronchodilator before acetylcysteine, and treat any allergy-shot reaction with throat or breathing signs as anaphylaxis.",
+     "source": "Oxygenation slides 24–25 (drug details and reaction care added)",
      "body": "<p><b>Acetylcysteine</b> breaks the bonds that make mucus thick. It is one of M.L.'s discharge nebulizer drugs. It can cause bronchospasm, especially in asthma. So give albuterol first. If wheezing starts, stop it and give the bronchodilator. The sulfur (\"rotten egg\") smell is expected. Mucus will increase as it loosens, so have suction ready for a weak cough. Other effects: nausea, runny nose, mouth sores.</p><p><b>Immunotherapy</b> (allergy shots) injects small, rising doses of an allergen to reduce allergic asthma over time.</p>",
      "table": {
       "headers": [
@@ -574,6 +592,7 @@
     {
      "heading": "How should clients use inhalers?",
      "keyIdea": "An MDI needs a slow breath in; a DPI needs a fast, deep breath; always watch a return demonstration.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Poor technique makes a good drug look like it \"doesn't work.\" Always ask for a <b>return demonstration</b>. If a bronchodilator and a steroid are both due, give the bronchodilator first. It opens the airway so the steroid reaches deeper.</p>",
      "steps": [
       "MDI with spacer: remove the cap, shake the inhaler, and attach the spacer.",
@@ -592,12 +611,14 @@
     {
      "heading": "Why do clients skip doses?",
      "keyIdea": "Cost is a real barrier, so ask about it without judging and connect the client with help.",
-     "body": "<p>Taking medicines as prescribed is critical in chronic lung disease. A common barrier is <b>expense</b>. Clients often need several inhalers, each with its own copay. A client may quietly stretch a controller to \"every few days.\" Then swelling returns, and the rescue inhaler gets used more.</p><p>Ask about cost without judging. Then connect the client with the provider and pharmacist. They can look at generics, lower-cost options, or drug company assistance programs.</p>",
+     "source": "Oxygenation slide 24",
+     "body": "<p>Taking medicines as prescribed is critical in chronic or recurring lung problems. A common barrier is <b>expense</b>. Clients often need several inhalers, each with its own copay. A client may quietly stretch a controller to \"every few days.\" Then swelling returns, and the rescue inhaler gets used more.</p><p>Ask about cost without judging. Then connect the client with the provider and pharmacist. They can look at generics, lower-cost options, or drug company assistance programs.</p>",
      "example": "A client says, \"I only use my fluticasone/salmeterol every few days. The copay is $85 a month, and I also buy albuterol.\" Best response: \"Let's ask your provider and pharmacist about lower-cost options and assistance programs.\" Saying every few days is fine, or using albuterol every 4 hours instead, would be unsafe."
     },
     {
      "heading": "Common traps",
      "keyIdea": "Most traps swap a rescue drug for a controller, or treat a dangerous effect as an expected one.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Use the right column to sort each look-alike.</p>",
      "table": {
       "headers": [
@@ -639,6 +660,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect questions that sort rescue from controller, check technique, and separate expected effects from danger signs.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>The bullets show common question patterns. The steps walk through one sample question, the way you should think on test day.</p>",
      "bullets": [
       "Which client statement shows a need for more teaching?",
@@ -659,6 +681,7 @@
     {
      "heading": "Worked case: an older adult with an MDI",
      "keyIdea": "Watch the client use the device, fix the technique problem, and put the drugs in the right order.",
+     "source": "Added: worked example based on Oxygenation slide 23",
      "body": "<p>Mr. T, 81, has COPD and arthritic hands. Albuterol 2 puffs and fluticasone 2 puffs by MDI are both due. You watch him spray the albuterol and breathe in 2 seconds later. Mist escapes from his mouth. He says, \"These inhalers never seem to help.\"</p>",
      "steps": [
       "Notice the cues: late breath after the spray and visible mist. Little drug reaches his lungs.",
@@ -807,7 +830,8 @@
     {
      "heading": "How does the pleural seal keep lungs open?",
      "keyIdea": "Negative pressure in the pleural space holds the lung against the chest wall; air in that space breaks the seal.",
-     "body": "<p>The right lung has three lobes. The left has two. The pleural lining helps breathing and separates the lungs. Each lung has its own pleural space, so a pneumothorax usually affects one side.</p><p>When you breathe in, the chest expands. The negative pressure pulls the lung outward with it. Air can enter the pleural space from outside, through a wound or rib fracture. It can also enter from inside, through a torn area of lung. Either way, the pressure is lost. The lung's natural elastic pull makes it collapse.</p>",
+     "source": "Oxygenation slides 6, 12",
+     "body": "<p>The right lung has three lobes. The left has two. Each lung has a pleural lining with two layers. The <b>visceral pleura</b> covers the lung. The <b>parietal pleura</b> lines the inside of the chest wall. The <b>pleural space</b> is the region between them. The lining helps breathing and separates the lungs. Each lung has its own pleural space, so a pneumothorax usually affects one side.</p><p>When you breathe in, the chest expands. The negative pressure pulls the lung outward with it. Air can enter the pleural space from outside, through a wound or rib fracture. It can also enter from inside, through a torn area of lung. Either way, the pressure is lost. The lung's natural elastic pull makes it collapse.</p>",
      "analogy": "Press two wet glass slides together. They slide, but they are very hard to pull apart. That is the pleural seal. Slip a bubble of air between them, and they fall apart. A pneumothorax is that bubble.",
      "check": {
       "q": "Why does air in the pleural space collapse the lung instead of just sitting next to it?",
@@ -817,6 +841,7 @@
     {
      "heading": "How do you recognize a pneumothorax?",
      "keyIdea": "Sudden sharp pain plus quiet, hollow-sounding lungs on one side point to air in the pleural space.",
+     "source": "Oxygenation slide 12 (fremitus, percussion and risk groups added)",
      "body": "<p>Each sign follows from what is happening inside the chest. Pneumothorax findings are on <b>one side</b>. Fine crackles in both lungs point to fluid or atelectasis. Dullness points to fluid or consolidation. Neither fits a pneumothorax.</p><p>A <b>spontaneous pneumothorax</b> has no clear cause. The classic client is a tall, thin young adult who smokes. Pain often starts at rest. Clients with emphysema can have one when a bulla ruptures, often after a coughing spell.</p>",
      "table": {
       "headers": [
@@ -859,7 +884,8 @@
     {
      "heading": "What is a tension pneumothorax?",
      "keyIdea": "Trapped air builds pressure, shoves the heart and trachea to the other side, and crashes blood pressure, so act before any x-ray.",
-     "body": "<p>It usually follows a traumatic injury. It can also happen when a chest tube that removes air gets <b>clamped or blocked</b>.</p><p>The injury acts like a one-way valve. Air gets in with each breath but cannot get out. Pressure builds. The lung collapses fully. Then the pressure pushes the mediastinum toward the healthy side. The big veins get kinked, so blood cannot return to the heart. Cardiac output crashes. The cause is mechanical, so fluids and lying flat will not fix the low BP.</p>",
+     "source": "Oxygenation slide 12 (mechanism, signs and actions added)",
+     "body": "<p>Your slides say it results from a traumatic injury. It is a <b>life-threatening emergency</b>. It can also happen when a chest tube that removes air gets <b>clamped or blocked</b>.</p><p>The injury acts like a one-way valve. Air gets in with each breath but cannot get out. Pressure builds. The lung collapses fully. Then the pressure pushes the mediastinum toward the healthy side. The big veins get kinked, so blood cannot return to the heart. Cardiac output crashes. The cause is mechanical, so fluids and lying flat will not fix the low BP.</p>",
      "bullets": [
       "Severe, fast-worsening distress. The client may say \"something is wrong.\"",
       "Absent breath sounds on the affected side.",
@@ -878,6 +904,7 @@
     {
      "heading": "How does a chest drainage unit work?",
      "keyIdea": "Three chambers, three jobs: collect fluid, act as a one-way valve, and control suction.",
+     "source": "Added for the NCLEX — not in course materials (slide 24 only names chest tube management)",
      "body": "<p>Most chest tubes connect to a plastic unit with three chambers side by side. Trace the path from the client: <b>client → collection → water seal → suction control</b>.</p><p>Bubbling is <b>normal in the suction chamber</b> and a <b>warning in the water seal</b>. That is the most common exam trap. No tidaling can be good news: the lung has re-expanded. It can also be bad news: a kink, clot, dependent loop, or clamp. Check the client and the tubing before deciding.</p>",
      "table": {
       "headers": [
@@ -912,6 +939,7 @@
     {
      "heading": "What does routine chest tube care include?",
      "keyIdea": "Keep the unit upright and low, the tubing open, the tube unclamped, and the client breathing deeply.",
+     "source": "Added for the NCLEX — not in course materials (slide 24 only names chest tube management)",
      "body": "<p>Most care is about keeping the one-way valve working and the tubing open. Assessment goes beyond the unit. Check breathing, SpO₂, breath sounds on both sides, the dressing, and the skin for crepitus.</p><p>For <b>continuous water-seal bubbling</b>, look for the leak. Start at the client and work toward the unit. A brief clamp per policy can locate it. If clamping at the chest stops the bubbling, the leak is at the client. If bubbling continues, the leak is in the system.</p>",
      "bullets": [
       "Keep the unit upright and below chest level always, even during transport and walking. The floor is fine.",
@@ -927,6 +955,7 @@
     {
      "heading": "What if something goes wrong?",
      "keyIdea": "Out of the chest, cover it; out of the unit, submerge it; heavy or bright red drainage, call now.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Each emergency has one fast fix. Know them cold. Never reinsert a tube that has come out.</p>",
      "table": {
       "headers": [
@@ -975,6 +1004,7 @@
     {
      "heading": "How is a chest tube removed?",
      "keyIdea": "Treat pain first, have the client hold a breath or bear down, seal the site, then watch for the lung to collapse again.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>The tube is ready to come out when the lung has re-expanded on x-ray, there is no air leak, and drainage is minimal. The provider removes it.</p>",
      "steps": [
       "Give the prescribed pain medicine about 30 minutes before.",
@@ -991,6 +1021,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most traps confuse normal bubbling with a leak, or treat a mechanical emergency like a fluid problem.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Sort each look-alike with the right column.</p>",
      "table": {
       "headers": [
@@ -1032,6 +1063,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect priority actions, expected vs. unexpected unit findings, and which emergency fix fits which event.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>The bullets show common question patterns. The steps walk through one sample question, the way you should think on test day.</p>",
      "bullets": [
       "Which finding is expected, and which needs action?",
@@ -1052,6 +1084,7 @@
     {
      "heading": "Worked case: back from CT with a clamped tube",
      "keyIdea": "New distress with no tidaling after transport means look for a clamp or kink and suspect tension.",
+     "source": "Added: worked example based on Oxygenation slide 12",
      "body": "<p>Mr. J has a right chest tube for a pneumothorax. He returns from CT with the tube clamped \"for safety.\" Soon he says, \"Something is wrong.\" HR 134, BP 84/52, SpO₂ 83%. His trachea is shifted left. You hear no right breath sounds. His neck veins bulge. The water seal shows no tidaling.</p>",
      "steps": [
       "Notice the cues: tracheal shift, absent breath sounds, JVD, low BP, no tidaling.",
@@ -1191,6 +1224,7 @@
     {
      "heading": "What happens in an asthma attack?",
      "keyIdea": "In asthma, air gets in but struggles to get out, so trapped air and tired muscles drive the danger.",
+     "source": "Oxygenation slides 10, 14, 16, 19 (bronchospasm and warning stages added)",
      "body": "<p>In asthma, the airway lining is always a little inflamed and too sensitive. When a trigger hits, three things happen. The airway muscle squeezes. This is <b>bronchospasm</b>. The lining swells. Thick mucus forms.</p><p>Triggers include smoke, pollen, chemicals, pollution, and respiratory infections. M.L.'s flare began with bronchitis. Air gets in but struggles to get out. So air is trapped, and breathing out is long and hard.</p>",
      "bullets": [
       "Findings: wheezing on the breath out, cough, chest tightness, shortness of breath, long breath out, fast breathing, neck muscle use, retractions, tripod position, hoarse voice.",
@@ -1202,6 +1236,7 @@
     {
      "heading": "How do you treat an asthma attack?",
      "keyIdea": "Sit up, oxygen, albuterol, steroid, reassess, and treat a \"normal\" CO₂ in a fast-breathing client as a warning.",
+     "source": "Oxygenation slides 19–20, 23–24 (treatment order and ABG trend added)",
      "body": "<p>Restlessness in an asthmatic comes from low oxygen. Treat the breathing, not the anxiety. <b>Never sedate</b> an anxious asthmatic.</p><p>Watch the blood gas trend. Early, fast breathing blows off CO₂, so PaCO₂ is low. When CO₂ climbs back to \"normal\" in a client breathing 30 times a minute, she is tiring. A PaCO₂ above 45 with acidosis means failure. Louder wheezes with better speech and SpO₂ mean air is moving again. That is improvement.</p>",
      "steps": [
       "Position the client upright.",
@@ -1214,6 +1249,7 @@
     {
      "heading": "How do peak flow zones guide self-care?",
      "keyIdea": "Compare each reading with the client's personal best: green keep going, yellow use rescue, red get emergency help.",
+     "source": "Added for the NCLEX — not in course materials (slide 20 only lists PEFR)",
      "body": "<p>Peak flow is one of the diagnostic tests on your slides. The client blows into a peak flow meter and compares the number with her <b>personal best</b>. An asthma action plan sorts the result into zones.</p><p>Get emergency help if the rescue inhaler is not working or the client cannot talk easily. Do not wait for blue lips or nail beds. Cyanosis is a late sign. Extra Advair is never the answer to a flare.</p>",
      "table": {
       "headers": [
@@ -1251,6 +1287,7 @@
     {
      "heading": "What goes wrong in COPD?",
      "keyIdea": "COPD permanently damages alveoli and airways, so CO₂ stays in, oxygen drops, and oxygen goals are usually lower.",
+     "source": "Oxygenation slide 10 (oxygen target and care added)",
      "body": "<p>COPD usually comes from years of smoking. It combines <b>emphysema</b> (alveolar walls break down into large, floppy sacs) and <b>chronic bronchitis</b> (inflamed, mucus-filled airways). The damaged alveoli limit gas exchange. CO₂ stays in, and blood oxygen drops. Findings include retractions, cyanosis, and clubbed nail beds.</p><p>Oxygen is usually adjusted to a prescribed target of <b>88–92%</b>. Adjust it, but never withhold oxygen the client needs. A COPD client who gets drowsy on high-flow oxygen needs it lowered to target, not turned off, and a call to the provider.</p>",
      "bullets": [
       "Baseline (not worsening by itself): barrel chest, clubbing, pursed-lip breathing, tripod position, chronic cough, diminished breath sounds.",
@@ -1263,6 +1300,7 @@
     {
      "heading": "What happens in pneumonia?",
      "keyIdea": "Infected alveoli fill with fluid, so findings sit over one lobe; get cultures, then give antibiotics without delay.",
+     "source": "Oxygenation slides 10, 29 (mechanism and care steps added)",
      "body": "<p>Germs reach the alveoli by being breathed in or by aspiration. The alveoli fill with fluid, white cells, and debris. Blood flows past alveoli with no air, a V/Q mismatch, so oxygen falls.</p><p>Findings are <b>localized</b>: fever, a cough with yellow, green, or rust-colored sputum, pleuritic pain, fast breathing, fast heart rate, and crackles and bronchial sounds over one lobe. SpO₂ falls and WBC rises. Older adults may have no fever. Watch for confusion, weakness, poor appetite, and fast heart and breathing rates instead.</p>",
      "bullets": [
       "Care: blood and sputum cultures first, then the first antibiotic without delay.",
@@ -1279,6 +1317,7 @@
     {
      "heading": "How do you tell the three apart?",
      "keyIdea": "Diffuse findings point to the airways; findings over one lobe point to pneumonia.",
+     "source": "Added: comparison table based on Oxygenation slides 10, 14, 21, 25, 29",
      "body": "<p>Sometimes more than one problem is present. M.L. had asthma and pneumonia at the same time. All three can lower oxygen through V/Q mismatch.</p>",
      "table": {
       "headers": [
@@ -1334,7 +1373,8 @@
     {
      "heading": "M.L. Part 1: the clinic visit",
      "keyIdea": "Few-word speech, tripod position, and quiet lungs mean a severe flare, even with SpO₂ of 91%.",
-     "body": "<p>M.L., 30, has had persistent asthma since childhood. She asks to be seen at her lung doctor's office because she is \"not getting enough air.\" She got bronchitis over the weekend. Urgent care gave her azithromycin. She has taken prednisone 40 mg since Monday. She uses her rescue inhaler four times a day and also takes Flovent.</p><p>Last night she woke unable to breathe, with blue nail beds. Her rescue inhaler helped, so she skipped the ER. Today she speaks a few words at a time and sits in the tripod position. She is hoarse, pale, and near tears. BP is up, RR 32, SpO₂ 91% on room air. Breath sounds are decreased. She starts oxygen at 4 L/min by nasal cannula.</p>",
+     "source": "Oxygenation slide 14",
+     "body": "<p>M.L., 30, has had persistent asthma since childhood. She asks to be seen at her lung doctor's office because she is \"not getting enough air.\" She got bronchitis over the weekend. Urgent care gave her a Z-pack (azithromycin). She has taken prednisone 40 mg since Monday. She uses her rescue inhaler four times a day and also takes Flovent.</p><p>Last night she woke unable to breathe, with blue nail beds. Her rescue inhaler helped enough that she skipped the ER. She waited to call the office in the morning. Today she speaks a few words at a time and sits in the tripod position.</p><p>She is pale, has dark rings around her eyes, and is holding back tears. Her voice is hoarse. She says it gets hoarse only when she is very sick. BP is up, RR 32, SpO₂ 91% on room air. Breath sounds are decreased. The pulmonologist puts her on oxygen at 4 L/min by nasal cannula.</p>",
      "bullets": [
       "Cues: infection trigger, rescue inhaler four times a day (poor control), blue nail beds at night, few-word speech, tripod position.",
       "Most worrying: decreased breath sounds. Quiet lungs in asthma can mean very little air is moving.",
@@ -1348,7 +1388,8 @@
     {
      "heading": "Worked case: M.L. Part 2, the night she collapsed",
      "keyIdea": "Rising CO₂, a quieter chest, and falling SpO₂ on high oxygen mean respiratory failure, so expect intubation.",
-     "body": "<p>Her Flovent is switched to Advair, a controller. That night she has orthopnea, takes 2 rescue puffs, and sleeps on 3 pillows. At 0400 she wakes coughing, sweating, and dizzy. She calls her mother and passes out. Her mother calls 911.</p><p>In the ED: HR 100, RR 28, BP 140/92, SpO₂ 85%. It rises to 90–93% on 8 L by face mask. She is alert but cannot catch her breath. ABG: pH 7.24, PaCO₂ 64, HCO₃⁻ 25. Breath sounds become much quieter. She turns cyanotic. SpO₂ drops to 90% on 10 L/min. She is admitted.</p>",
+     "source": "Oxygenation slide 21 (ABG values, steps and inpatient example added)",
+     "body": "<p>Her Flovent is switched to Advair, a controller. That night she has orthopnea, takes 2 rescue puffs, and sleeps on 3 pillows. At 0400 she wakes coughing, sweating, and dizzy. She calls her mother and passes out. Her mother calls 911.</p><p>In the ED: HR 100, RR 28, BP 140/92, SpO₂ 85%. It rises to 90–93% on 8 L by face mask. She is now alert and oriented but still cannot catch her breath. The ABG shows severe respiratory acidosis. (Your slides give no numbers. Sample values: pH 7.24, PaCO₂ 64, HCO₃⁻ 25.) Breath sounds become much quieter. She turns cyanotic. SpO₂ drops to 90% on 10 L/min. She is admitted.</p>",
      "steps": [
       "Notice the cues: orthopnea, extra pillows, fainting, low SpO₂, a quieter chest, cyanosis on high oxygen.",
       "Read the ABG: low pH and high CO₂ with normal HCO₃⁻. That is uncompensated respiratory acidosis. The kidneys have not had time to catch up.",
@@ -1366,6 +1407,7 @@
     {
      "heading": "M.L. Part 3: recovery and discharge",
      "keyIdea": "Judge recovery by the warning signs that came before the crash, not by infection markers alone.",
+     "source": "Oxygenation slide 25 (progress cues added)",
      "body": "<p>M.L. spent 10 days in the hospital. She needed intubation and mechanical ventilation. Chest x-rays and blood cultures showed pneumonia caused the sudden flare. She came off the ventilator within 24 hours of starting IV antibiotics. She finished a 10-day course. She keeps her SpO₂ at 93% without oxygen.</p><p>Discharge plan: albuterol and acetylcysteine nebs 3–4 times a day as needed, plus PVD for congestion. Her mother will stay to help. The respiratory therapist taught them PVD and the nebulizers. You taught the new medicines. Lung doctor follow-up is in 3 days. She returns to the ER right away for any trouble breathing.</p>",
      "bullets": [
       "Working: full sentences, walking on room air, no fever, normal WBC, SpO₂ 93–95% on room air.",
@@ -1381,6 +1423,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "The biggest trap is mistaking a tired, quiet client for a better one.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Sort each look-alike with the right column.</p>",
      "table": {
       "headers": [
@@ -1422,6 +1465,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect \"which finding is most concerning,\" \"which client first,\" and \"is the treatment working\" questions.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>The bullets show common question patterns. The steps walk through one sample question, the way you should think on test day.</p>",
      "bullets": [
       "Which finding is most concerning in a client with asthma?",
@@ -1556,6 +1600,7 @@
     {
      "heading": "What harms healthy lungs?",
      "keyIdea": "Irritants, infections, low hemoglobin, breathing-slowing drugs, and blocked airways each cut oxygen in a different way.",
+     "source": "Oxygenation slide 16 (teaching column added)",
      "body": "<p>Each harm on your slides links to something you know about how lungs work. Two tools the slides offer are <b>managing air quality</b> and <b>vaccination</b>.</p><p>Two quick warnings. A normal SpO₂ does not promise good oxygen delivery when hemoglobin is low. And after opioids or sedatives, slow, shallow, or snoring breathing is an airway emergency.</p>",
      "table": {
       "headers": [
@@ -1596,6 +1641,7 @@
     {
      "heading": "Why do vaccines matter so much?",
      "keyIdea": "Infections tip stable lung clients into crisis, so yearly flu shots for the client and household are basic care.",
+     "source": "Oxygenation slides 16, 21, 25–26 (schedule and pneumococcal vaccine added)",
      "body": "<p>Respiratory infections are a top reason a stable client with asthma or COPD lands in the hospital. M.L.'s crisis began with bronchitis and turned out to be pneumonia. Vaccines reduce the spread of preventable disease. For children, the slides stress the flu shot.</p>",
      "bullets": [
       "Influenza vaccine every year. The virus changes and protection fades.",
@@ -1611,6 +1657,7 @@
     {
      "heading": "Which risk factors can a client change?",
      "keyIdea": "Focus teaching on what the client can change, while still noting the risks they cannot.",
+     "source": "Oxygenation slides 13, 17, 26, 29",
      "body": "<p>Oxygenation is not only about the lungs. Blood must carry oxygen, and the heart must pump it to the tissues. Your slides list <b>modifiable risk factors</b> that affect the heart's ability to circulate blood. Modifiable means the client can change them. That is where your teaching makes a difference.</p><p>For older adults, encourage quitting smoking and physical activity. Activity strengthens breathing muscles and the heart. For children, avoid secondhand smoke and get the flu shot.</p>",
      "table": {
       "headers": [
@@ -1620,7 +1667,7 @@
       "rows": [
        [
         "Hypertension",
-        "Age"
+        "Age (children under 1 and older adults are at higher risk)"
        ],
        [
         "Atherosclerosis",
@@ -1649,6 +1696,7 @@
     {
      "heading": "What does smoke do to the airways?",
      "keyIdea": "Smoke makes more mucus and slows the cilia, and lung loss often shows only after it is permanent.",
+     "source": "Oxygenation slide 18 (pack-years added)",
      "body": "<p>Your slides list three effects, shown in the steps below. Together they mean more mucus is made and less is cleared. That leads to a chronic cough, trapped germs, and repeated infections.</p><p>The third point is the one to teach. Lungs have lots of spare capacity. A person can lose much of it before feeling short of breath. \"I feel fine\" does not mean \"my lungs are fine.\"</p><p><b>Pack-years</b> measure exposure: packs per day × years smoked. 1½ packs a day for 20 years = 30 pack-years. 2 packs a day for 10 years = 20 pack-years.</p>",
      "steps": [
       "More mucus: the airways make more, thicker mucus in response to irritation.",
@@ -1664,6 +1712,7 @@
     {
      "heading": "How do you meet clients where they are?",
      "keyIdea": "Ask everyone, advise clearly, then match your help to how ready the client is.",
+     "source": "Oxygenation slide 18 (communication tips added)",
      "body": "<p>Ask every client about tobacco. Advise quitting in a clear, personal, non-judging way. Then <b>assess readiness</b> before you plan. Your slides give two paths.</p>",
      "table": {
       "headers": [
@@ -1694,13 +1743,15 @@
     {
      "heading": "Smoke around children and home oxygen",
      "keyIdea": "There is no safe place to smoke around a child with asthma, and smoking near oxygen is an immediate fire risk.",
+     "source": "Oxygenation slide 26 (residue and home-oxygen safety added)",
      "body": "<p>Smoke residue clings to car seats, clothes, and hair. It can still trigger asthma attacks. Children with asthma need a fully smoke-free home and car. They and their household need yearly flu shots.</p><p>Smoking near home oxygen is a serious fire and burn risk. Address it right away, before any other teaching. Have an in-person safety talk and offer NRT. Do not use threats.</p>",
      "example": "A parent of a 4-year-old with three ED visits for asthma says, \"I only smoke in the car with the windows down.\" Best response: \"Smoke residue in the car and on clothes can still trigger asthma. Can we talk about quitting?\""
     },
     {
      "heading": "How does nicotine replacement help?",
      "keyIdea": "NRT gives nicotine without smoke to ease cravings, and it works best combined with counseling.",
-     "body": "<p>Nicotine causes the addiction. Most lung damage comes from the tar, gases, and chemicals in smoke. NRT gives a controlled dose of nicotine without the smoke. It eases cravings and withdrawal while the client learns to live without cigarettes.</p><p>NRT plus behavioral counseling gives a better chance of quitting than either alone. A patch for a steady level plus gum or a lozenge for breakthrough cravings beats the patch alone. <b>Do not smoke while using NRT.</b> Too much nicotine causes nausea, dizziness, palpitations, and headache. Report them.</p>",
+     "source": "Oxygenation slide 18 (how-to details added)",
+     "body": "<p>Nicotine causes the addiction. Most lung damage comes from the tar, gases, and chemicals in smoke. NRT gives a controlled dose of nicotine without the smoke. It eases cravings and withdrawal while the client learns to live without cigarettes.</p><p>Used with behavioral counseling, NRT increases the chance of staying off tobacco. A patch for a steady level plus gum or a lozenge for breakthrough cravings beats the patch alone. <b>Do not smoke while using NRT.</b> Too much nicotine causes nausea, dizziness, palpitations, and headache. Report them.</p>",
      "table": {
       "headers": [
        "Form",
@@ -1734,6 +1785,7 @@
     {
      "heading": "What happens after quitting?",
      "keyIdea": "Withdrawal and a temporary worse cough are expected signs of healing, and relapse is a step, not a failure.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Withdrawal is expected and short-term. Expect irritability, trouble concentrating, more appetite, and cravings.</p><p>A cough that gets worse for a while is common. The cilia are waking up and clearing old mucus. It is a sign of healing, not a reason to start again.</p><p>Relapse is common. Most people need several tries. Praise each attempt. Find the trigger, and plan the next attempt.</p>",
      "check": {
       "q": "Four days after quitting, a client is irritable, hungry, cannot focus, and says his cough is worse. He asks if he should start again. What do you say?",
@@ -1743,6 +1795,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most traps mix up the two readiness paths or treat healing signs as reasons to give up.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Sort each look-alike with the right column.</p>",
      "table": {
       "headers": [
@@ -1784,6 +1837,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect therapeutic-communication choices, NRT teaching checks, and risk-factor sorting.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>The bullets show common question patterns. The steps walk through one sample question, the way you should think on test day.</p>",
      "bullets": [
       "What is the best response to a client who is not ready to quit?",
@@ -1804,6 +1858,7 @@
     {
      "heading": "Worked case: starting NRT",
      "keyIdea": "A ready client needs a date, combined NRT, counseling, and clear teaching on what is normal.",
+     "source": "Added: worked example based on Oxygenation slide 18",
      "body": "<p>Mr. D, 46, has smoked 1 pack a day for 25 years. His father just had a heart attack. He says, \"I want to quit this month. I've tried before and failed.\" The provider orders a nicotine patch plus nicotine gum.</p>",
      "steps": [
       "Assess readiness: he wants to quit within a month. He is ready.",

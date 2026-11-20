@@ -77,6 +77,7 @@
     {
      "heading": "What is inflammation?",
      "keyIdea": "Inflammation is the body's fast, built-in response to any harm. It protects the site and starts healing.",
+     "source": "Inflammation slides 3–4",
      "body": "<p>Your slides define inflammation as a <b>complex, nonspecific bodily response to harm</b>. Complex means many parts work together: vessels, blood cells, chemical messengers, and tissue. Nonspecific means the response is the same whatever the cause. A splinter, a burn, and bacteria all start the same sequence.</p><p>Because the body does not stop to identify the invader, the response is fast. It is a <b>protective mechanism</b> that promotes healing and prevents further damage. It works by bringing fluid, chemicals (mediators), and blood cells to the site.</p><p>Your slides also call it an <b>adaptive, nonspecific immune response</b>. Here \"adaptive\" just means helpful. Do not confuse it with the acquired immune system of antibodies and T cells. Inflammation belongs to the body's <b>innate</b>, built-in defenses.</p>",
      "steps": [
       "Something harms the tissue: an injury, germs, or a harmful agent.",
@@ -94,6 +95,7 @@
     {
      "heading": "What is inflammation trying to do?",
      "keyIdea": "Every inflammatory response aims to neutralize the invader, clear damaged tissue, and begin repair.",
+     "source": "Inflammation slides 4, 14, 20",
      "body": "<p>A healthy response shows <b>WBC activation and recruitment</b>. That means white cells switch on and are called to the site. A small rise in the WBC count with local redness after an injury is the body doing its job.</p><p>Your job is to support these goals with rest, nutrition, fluids, and a clean site. Save antibiotics for true infection. Then watch for signs the response is too weak, too strong, or spreading.</p>",
      "bullets": [
       "<b>Neutralize the invader.</b> White cells destroy or dilute bacteria, toxins, or foreign objects.",
@@ -105,6 +107,7 @@
     {
      "heading": "Is inflammation the same as infection?",
      "keyIdea": "No. Infection is germs growing in the body; inflammation is the response to any harm, with or without germs.",
+     "source": "Added: explanation based on Inflammation slides 3–4",
      "body": "<p>This is one of the most tested ideas in the module. <b>Infection</b> means germs have invaded and are multiplying. <b>Inflammation</b> is the body's response to harm of any kind. Infection is just one cause.</p><p>So a client can be inflamed with no germs at all. A sprain, a sunburn, and a chemical burn are inflamed but not infected. They do not need antibiotics. But almost every infection does cause inflammation.</p><p>Why does it matter? It changes the plan. A physical injury needs rest, cold, elevation, and comfort. A bacterial cause may also need antibiotics. Mild redness at a fresh, clean incision is expected inflammation, not infection.</p>",
      "example": "A client has red, warm, painful shoulders after a day at the beach without sunscreen. The skin is intact. T 37.2 °C (99.0 °F). The client asks, \"If there are no germs, why is my skin inflamed?\" Best answer: \"The sun's UV rays injured your skin cells. Your body responds to any injury with inflammation.\" No antibiotics are needed.",
      "check": {
@@ -115,6 +118,7 @@
     {
      "heading": "What causes inflammation?",
      "keyIdea": "Three kinds of harm trigger it: microorganisms, chemical agents, and physical agents.",
+     "source": "Inflammation slides 3–4",
      "body": "<p>Your slides say inflammation is triggered by <b>injury, infection, or harmful agents</b>. They group the causes into three categories. Learn them as a set. Exam questions often ask you to pick the clients whose inflammation is <em>not</em> caused by a germ.</p>",
      "table": {
       "caption": "Causes of inflammation",
@@ -154,6 +158,7 @@
     {
      "heading": "How do I spot it by name?",
      "keyIdea": "A diagnosis ending in \"-itis\" means inflammation; the first part of the word names the organ.",
+     "source": "Inflammation slide 5",
      "body": "<p>Look at the word ending. Disorders that involve inflammation end in <b>\"-itis,\"</b> meaning \"inflammation of.\" The root tells you the organ. Once you know a few roots, you can decode words you have never seen. Then you know where to look for local signs.</p>",
      "table": {
       "caption": "\"-itis\" examples from your slides",
@@ -213,7 +218,8 @@
     {
      "heading": "Is it local or whole-body?",
      "keyIdea": "Local signs stay at the site; systemic signs mean the response has spread and needs prompt reporting.",
-     "body": "<p><b>Localized</b> inflammation affects one site. You see redness, heat, swelling, pain, and loss of function there. For an inside organ, local signs are tenderness, guarding, and pain over that organ.</p><p><b>Generalized (systemic)</b> inflammation spills into the bloodstream. The brain raises the body's thermostat. The heart and breathing speed up. The bone marrow releases more WBCs, including bands. The client feels tired and loses appetite.</p><p>Systemic cutoffs from your slides: temperature above 38.5 °C (101.3 °F) <b>or</b> below 36 °C (96.8 °F); HR over 90; RR over 20; WBC over 12,000/mm³ or more bands. Some references use 38 °C for fever. A WBC below about 4,000/mm³ is also a warning, because the infection may be using up the white cells.</p><p>Check both directions. In older adults, a low temperature can be the systemic sign. Judge the trend in all criteria together, not one value slightly off. Stress from inflammation raises blood glucose, so watch glucose in clients with diabetes.</p>",
+     "source": "Inflammation slides 14, 18",
+     "body": "<p><b>Localized</b> inflammation affects one site. You see redness, heat, swelling, pain, and loss of function there. For an inside organ, local signs are tenderness, guarding, and pain over that organ.</p><p><b>Generalized (systemic)</b> inflammation spills into the bloodstream. The brain raises the body's thermostat. The heart and breathing speed up. The bone marrow releases more WBCs, including bands. The client feels tired and loses appetite.</p><p>Systemic cutoffs from your slides: temperature above 38.5 °C (101.3 °F) <b>or</b> below 36 °C (96.8 °F); HR over 90; RR over 20; WBC over 12,000/mm³ or more bands. Not on your slides: some references use 38 °C for fever, and a WBC below about 4,000/mm³ is also a warning sign.</p><p>Check both directions. In older adults, a low temperature can be the systemic sign. Judge the trend in all criteria together, not one value slightly off. Stress from inflammation raises blood glucose, so watch glucose in clients with diabetes.</p>",
      "table": {
       "caption": "Local vs. systemic findings",
       "headers": [
@@ -251,6 +257,7 @@
     {
      "heading": "When does inflammation become harmful?",
      "keyIdea": "Inflammation hurts the body when it is aimed at self, never shuts off, or is far too strong.",
+     "source": "Inflammation slides 3, 7, 12–14",
      "body": "<p>Inflammation is protective, but your slides warn it can become harmful. There are three main ways. You will study each later in the module.</p><p>Autoimmune skin disease such as psoriasis is <b>not contagious</b>. If a family member fears catching it, correct that belief clearly and kindly.</p>",
      "bullets": [
       "<b>Misdirected at self (autoimmune).</b> The immune system attacks normal tissue. Slide examples: rheumatoid arthritis (RA), which can deform joints; lupus (SLE), which can inflame skin, joints, and kidneys; psoriasis, with thick, scaly patches; and Guillain-Barré syndrome, which inflames nerves.",
@@ -266,6 +273,7 @@
     {
      "heading": "Which inflamed client do I see first?",
      "keyIdea": "Airway threats first, then spreading or systemic inflammation, then stable chronic problems, then local comfort needs.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Inflammation is everywhere, so you need a fast way to rank clients. Use the ABCs, then \"systemic before local, unstable before stable.\" Voice changes or lip swelling after a sting, food, or drug outrank every other inflammation finding.</p><p>Spreading redness or red streaks need a prompt systemic check and a report, not watchful waiting. A child with spreading redness or fever after a minor skin injury needs same-day evaluation. If a provider's plan leaves a worsening systemic response unaddressed, use the chain of command.</p><p>You may delegate data collection, like vital signs, to assistive personnel. Assessment, teaching, and deciding what findings mean stay with you.</p>",
      "steps": [
       "Airway or breathing threat from an overactive response, like throat tightness after IV penicillin: see first.",
@@ -277,6 +285,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most mistakes come from mixing up inflamed with infected, and local with systemic.",
+     "source": "Added: NCLEX traps based on Inflammation slides 3–4, 14, 18",
      "body": "<p>These look-alikes show up again and again. Learn how to tell each pair apart.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -315,6 +324,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions test inflamed-versus-infected teaching, sorting local from systemic findings, and ranking inflamed clients.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> Four clients have inflammation. Which client should the nurse see first?</p><p>A) A client with a sunburn who asks for antibiotics.<br>B) A client with cellulitis and a new red streak up the leg.<br>C) A client with hoarseness after a bee sting.<br>D) A client with RA morning stiffness.</p>",
      "bullets": [
       "Select-all: \"Which inflammation is NOT caused by a microorganism?\"",
@@ -335,6 +345,7 @@
     {
      "heading": "Worked case: the cold, fast older adult",
      "keyIdea": "A low temperature with a fast heart rate and breathing is a systemic warning, not a sign of recovery.",
+     "source": "Added: worked example based on Inflammation slide 18",
      "body": "<p>Mr. B, 81, has a leg wound from a fall 4 days ago. The skin around it is red and tender. This morning T is 35.8 °C (96.4 °F), HR 104, RR 24. WBC is 13,500/mm³ with more bands. His daughter says, \"At least he has no fever.\"</p>",
      "steps": [
       "Sort the findings. Redness and tenderness at the wound are local.",
@@ -459,7 +470,8 @@
     {
      "heading": "What are the five classic signs?",
      "keyIdea": "Red and hot come from more blood flow, swelling from leaky vessels, pain from chemicals and pressure.",
-     "body": "<p>Here is the whole set at a glance. Notice the pattern. Redness and heat share one cause. Swelling has its own cause. Pain has two causes. Loss of function is the result of the others.</p>",
+     "source": "Inflammation slides 6, 9, 12, 20",
+     "body": "<p>Your slides list five classic signs. They use the terms erythema for redness and edema for swelling. Here is the whole set at a glance. Notice the pattern. Redness and heat share one cause. Swelling has its own cause. Pain has two causes. Loss of function is the result of the others.</p>",
      "table": {
       "caption": "The five cardinal signs",
       "headers": [
@@ -469,7 +481,7 @@
       ],
       "rows": [
        [
-        "Redness (rubor)",
+        "Erythema, or redness (rubor)",
         "Vasodilation brings more blood (histamine, bradykinin, prostaglandins)",
         "Inspect; mark the edges with a skin marker and the time"
        ],
@@ -479,7 +491,7 @@
         "Compare with the other side using the back of the hand; check body temperature"
        ],
        [
-        "Swelling (tumor)",
+        "Edema, or swelling (tumor)",
         "Leaky capillaries let fluid and protein into tissue (exudate)",
         "Elevate, cold early, measure circumference, check circulation below"
        ],
@@ -503,7 +515,8 @@
     {
      "heading": "Why is it red and warm?",
      "keyIdea": "Chemicals widen the small vessels, so more warm blood flows in; check warmth with the back of your hand.",
-     "body": "<p>Right after injury, cells release histamine, bradykinin, and prostaglandins. These widen (dilate) the small arteries and capillaries. More blood flows in. It shows as <b>redness</b> and feels <b>warm</b>, because blood comes from the warm core. The extra flow brings oxygen, nutrients, and white cells faster.</p><p>In darker skin, redness can be hard to see. The area may look darker, purplish, or shinier. Rely more on warmth, swelling, and tenderness.</p><p>Check warmth with the <b>back of your hand</b>. That skin is thinner and more sensitive to temperature. Always compare with the same spot on the other side. Asking the client or using a thermometer on the skin is not accurate. Outline redness with a skin marker and note the date and time. Then you can see if it shrinks or spreads.</p>",
+     "source": "Inflammation slides 9, 12",
+     "body": "<p>Right after injury, the small vessels narrow briefly. Then histamine, bradykinin, and prostaglandins widen (dilate) them. More blood flows in. It shows as <b>redness</b> and feels <b>warm</b>, because blood comes from the warm core. The extra flow brings oxygen, nutrients, and white cells faster.</p><p>In darker skin, redness can be hard to see. The area may look darker, purplish, or shinier. Rely more on warmth, swelling, and tenderness.</p><p>Check warmth with the <b>back of your hand</b>. That skin is thinner and more sensitive to temperature. Always compare with the same spot on the other side. Asking the client or using a thermometer on the skin is not accurate. Outline redness with a skin marker and note the date and time. Then you can see if it shrinks or spreads.</p>",
      "example": "A client asks why a minor forearm burn is red and hot a day later. The nurse says, \"Your body widened the small blood vessels so more blood could bring healing cells. The extra blood looks red and feels warm.\" That is vasodilation, not leaking fluid (swelling) or nerve irritation (pain).",
      "check": {
       "q": "A client's left knee hurts after hours of kneeling. How do you check for warmth?",
@@ -513,7 +526,8 @@
     {
      "heading": "Why does it swell?",
      "keyIdea": "Leaky capillaries plus higher pressure push fluid into the tissue; elevation and cold slow the leak.",
-     "body": "<p>The same chemicals also make capillary walls <b>leaky</b>. The gaps between wall cells get bigger. At the same time, the widened vessels are packed with blood, so <b>hydrostatic pressure</b> rises. Pressure pushes fluid out through the leaky walls. Proteins leak too and pull more water after them. The result is <b>swelling (edema)</b>.</p><p>This fluid is called exudate. It dilutes toxins, carries white cells, and helps wall off the injury.</p><p><b>Why elevation helps:</b> raising the part above the heart lets gravity drain fluid back through veins and lymph. It also lowers pressure in the capillaries. <b>Why cold helps:</b> it narrows vessels, slows the leak, and numbs pain. Both work best in the first day or two.</p><p><b>Why swelling can be dangerous:</b> in a tight space it squeezes nerves and vessels. Swelling of the lips, tongue, or throat can block breathing. That is an airway emergency, not an expected sign.</p>",
+     "source": "Inflammation slides 9–10, 13, 20",
+     "body": "<p>The same chemicals also make capillary walls <b>leaky</b>. The gaps between wall cells get bigger. At the same time, the widened vessels are packed with blood, so <b>hydrostatic pressure</b> rises. Pressure pushes fluid out through the leaky walls. Proteins and white blood cells leak too. Proteins pull more water after them. The result is <b>swelling (edema)</b> and pain.</p><p>This fluid is called exudate. It dilutes toxins, carries white cells, and helps wall off the injury.</p><p><b>Why elevation helps:</b> raising the part above the heart lets gravity drain fluid back through veins and lymph. It also lowers pressure in the capillaries. <b>Why cold helps:</b> it narrows vessels, slows the leak, and numbs pain. Both work best in the first day or two.</p><p><b>Why swelling can be dangerous:</b> in a tight space it squeezes nerves and vessels. Swelling of the lips, tongue, or throat can block breathing. That is an airway emergency, not an expected sign.</p>",
      "analogy": "Picture a soaker garden hose. Turn the faucet all the way up (vasodilation) and poke extra holes (permeability). Water floods the bed around it. That is swelling. Lifting the hose (elevation) or turning the faucet down (cold) reduces the flood.",
      "check": {
       "q": "What mainly causes swelling 3 hours after a fall, and how does elevation help?",
@@ -523,6 +537,7 @@
     {
      "heading": "Why does it hurt and stop working?",
      "keyIdea": "Pain comes from bradykinin, prostaglandins, and swelling pressure; it makes the client guard and rest the part.",
+     "source": "Inflammation slides 6, 9, 12, 22",
      "body": "<p><b>Pain</b> has two causes. Bradykinin and prostaglandins stimulate and sensitize pain nerves. Swelling also presses on nerve endings. So reducing swelling reduces pain. Drugs that block prostaglandins, like aspirin and ibuprofen, relieve it.</p><p>Pain has a purpose. It makes the client guard and rest the part. Guarding and limited use are expected, protective signs, not stubbornness.</p><p><b>Loss of function</b> means the part cannot do its usual job. An inflamed knee cannot bend fully. An inflamed throat makes swallowing hard. Compare range of motion and strength with the other side or the client's baseline. Use a consistent 0–10 pain scale. Some pain with weight bearing is expected. Give ordered pain medicine before planned activity, so pain does not limit therapy.</p>",
      "check": {
       "q": "A client with an inflamed throat has trouble swallowing. Which cardinal sign is this?",
@@ -532,13 +547,15 @@
     {
      "heading": "What do I check below the injury?",
      "keyIdea": "Signs at the injury are expected; pale, cool, numb skin below it is an emergency.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Swelling can squeeze vessels and nerves, especially under a wrap or cast. So check <b>CMS</b> below the injury: circulation, motion, and sensation. Look at color and temperature, pulses, and capillary refill. Refill should be under 3 seconds.</p><p>If the toes or fingers are pale, cool, numb, or tingling, act now. Loosen the wrap. Keep the limb at about heart level, not raised above it. Raising a limb with poor circulation can cut arterial flow further. Recheck and notify the provider at once.</p><p>If assistive personnel report cool toes below a wrap, do your own neurovascular check before any other step.</p>",
      "example": "A client sprained the right ankle 6 hours ago and has an elastic wrap. The ankle is warm and swollen, with pain 5/10 on weight bearing. These are expected. But the right toes are pale and cool, with refill of 5 seconds. That is not expected. The nurse loosens the wrap, keeps the foot at heart level, rechecks, and reports right away."
     },
     {
      "heading": "How do I care for a fresh injury?",
      "keyIdea": "Rest, cloth-wrapped cold for 15–20 minutes, elevation above the heart, and good positioning.",
-     "body": "<p>Your slides list the key nurse-started actions to reduce swelling and movement: <b>elevate, ice, and position</b>. Rest protects the part. In the first 24–48 hours, cold is preferred because it limits swelling. Heat brings more blood flow. It can help stiffness later, but early heat can add swelling.</p><p>Never put ice right on the skin. Stop the cold if the client feels numbness or burning, or the skin turns pale or mottled. Avoid firm massage, heating pads on high during sleep, and tight wraps overnight.</p>",
+     "source": "Inflammation slide 20; cold timing and technique added for the NCLEX",
+     "body": "<p>Your slides list the nurse-started actions to reduce edema and movement: <b>elevate, ice, and position</b>. They also list heat or ice and positioning for comfort. Rest protects the part. In the first 24–48 hours, cold is preferred because it limits swelling. Heat brings more blood flow. It can help stiffness later, but early heat can add swelling.</p><p>Never put ice right on the skin. Stop the cold if the client feels numbness or burning, or the skin turns pale or mottled. Avoid firm massage, heating pads on high during sleep, and tight wraps overnight.</p>",
      "steps": [
       "Assess skin, sensation, and circulation at and below the area first.",
       "Wrap the cold pack in a thin cloth.",
@@ -554,12 +571,14 @@
     {
      "heading": "Did the care work?",
      "keyIdea": "Judge success with a measurement, like a shrinking circumference, not with \"looks better.\"",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Care is not done until you check results. The best evidence is <b>measurable</b>. Measure the part's circumference at the same marked spot each time. A smaller number proves swelling is going down. Falling pain scores, redness inside its marked border, and better movement also show success.</p><p>Warning signs: skin that stays pale and cool long after the cold is removed, even if swelling improves. Numbness during cold means stop the cold. Spreading redness or bruising also needs follow-up.</p>",
      "example": "A sprained wrist has had cold packs and elevation for 24 hours. Its circumference fell from 18.5 cm to 17.6 cm. That measured drop is the best proof the care is working."
     },
     {
      "heading": "Expected or not? Vaccines and IV sites",
      "keyIdea": "Mild, local, and improving is expected; rapid, whole-body, or worsening needs action.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>A vaccine causes a small, planned inflammatory response. Know what is expected so you do not overreact. Know what is not, so you do not miss danger.</p><p>Cardinal signs along an IV vein mean <b>phlebitis</b>. Stop the infusion and remove the catheter.</p>",
      "table": {
       "caption": "After a Tdap vaccine in the deltoid",
@@ -594,6 +613,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Know which process causes which sign, and where expected findings end and danger begins.",
+     "source": "Added: NCLEX traps based on Inflammation slides 6, 9, 20",
      "body": "<p>These pairs trip up many students. Learn the difference in each row.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -632,6 +652,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect questions on the cause of each sign, correct assessment technique, fresh-injury care, and spotting danger.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A client has an elastic wrap on an ankle sprained 6 hours ago. Which finding requires immediate action?</p><p>A) Ankle warm to touch.<br>B) Pain 5/10 with weight bearing.<br>C) Toes pale and cool, with refill of 5 seconds.<br>D) Swelling over the outer ankle.</p>",
      "bullets": [
       "\"Why is the area red?\" Vasodilation. \"Why is it swollen?\" Permeability.",
@@ -652,6 +673,7 @@
     {
      "heading": "Worked case: the tight wrap",
      "keyIdea": "When care for swelling hurts circulation, remove the constriction first, then use cold and elevation.",
+     "source": "Added: worked example based on Inflammation slides 6, 20",
      "body": "<p>Ms. T, 22, twisted her wrist playing soccer 3 hours ago. A splint and elastic wrap are on. Her wrist is red, warm, and swollen. Pain is 6/10. A cold pack has been on for 25 minutes, directly on the wrap. She says her fingers \"feel tingly and numb.\" Her fingers are pale, and refill is 4 seconds.</p>",
      "steps": [
       "Sort the findings. Redness, warmth, swelling, and pain at the wrist are expected.",
@@ -793,22 +815,23 @@
    "sections": [
     {
      "heading": "What are the three stages?",
-     "keyIdea": "Vessels react and white cells arrive, then exudate collects, then the tissue rebuilds.",
-     "body": "<p>See the whole sequence before the details. Injury makes cells release chemical mediators. The vessels react first. Then white blood cells move in. Fluid and cells collect at the site as exudate. Finally the body rebuilds by regrowing tissue or making scar.</p>",
+     "keyIdea": "Stage 1 is vascular and cellular responses, Stage 2 is exudate production, and Stage 3 is the reparative phase.",
+     "source": "Inflammation slides 8–11",
+     "body": "<p>Your slides group the inflammatory process into three stages. See the whole sequence before the details. Injury makes cells release chemical mediators. The vessels react first, and white blood cells move in. Fluid and cells ooze out as exudate. Finally the body repairs the tissue by regrowing it or making scar.</p>",
      "steps": [
-      "Tissue injury: damaged cells and mast cells release chemical mediators.",
-      "Seconds-long narrowing of the small arteries.",
-      "Vasodilation and leaky capillaries: redness, heat, swelling.",
-      "White cells leave the blood and reach the site (Stage 1, cellular).",
-      "Exudate forms at the site (Stage 2).",
-      "Repair by regeneration or scar (Stage 3)."
+      "Tissue injury: mast cells and macrophages release chemical mediators.",
+      "<b>Stage 1, vascular response:</b> vessels constrict briefly, then dilate and leak. This causes redness, heat, swelling, and pain.",
+      "<b>Stage 1, cellular response:</b> white cells move to the site, and the bone marrow releases more.",
+      "<b>Stage 2, exudate production:</b> fluid and cells ooze from the vessels and collect at the site.",
+      "<b>Stage 3, reparative phase:</b> the tissue regenerates or forms scar."
      ],
      "analogy": "Think of a house fire. First trucks rush in and the street is blocked (Stage 1). Then water floods the scene and debris washes out (Stage 2). Finally builders arrive. They rebuild the room as it was (regeneration) or patch it with plywood that holds but is not as nice (scar)."
     },
     {
      "heading": "Stage 1: What do the vessels do?",
      "keyIdea": "Pale for seconds, then red and warm, then swollen: constriction, dilation, then leak.",
-     "body": "<p>The vascular response happens in a set order.</p><p>First, the small arteries <b>narrow for a few seconds</b>. The skin may look pale for a moment. This may help limit bleeding.</p><p>Next, histamine, bradykinin, and prostaglandins make the vessels <b>widen</b>. Much more blood flows in. This is hyperemia, and it causes redness and heat.</p><p>Then the same chemicals make capillary walls <b>leaky</b>. Plasma (the liquid part of blood) and proteins leak out, causing swelling. The blood left inside gets thicker and slower. That slowing lets white cells drift to the vessel edges, which sets up the cellular response.</p>",
+     "source": "Inflammation slides 9, 12",
+     "body": "<p>The vascular response happens in a set order.</p><p>First, the small arteries <b>narrow for a few seconds</b>. The skin may look pale for a moment. This may help limit bleeding.</p><p>Next, histamine, bradykinin, and prostaglandins make the vessels <b>widen</b>. Much more blood flows in. This is hyperemia, and it causes redness and heat.</p><p>Then the same chemicals make capillary walls <b>leaky</b>. Fluid, proteins, and white blood cells leak out. This causes swelling and pain. The blood left inside gets thicker and slower. That slowing lets white cells drift to the vessel edges, which sets up the cellular response.</p>",
      "example": "Moments after cutting a finger, a client saw the skin around the cut turn pale. Within minutes it turned red and warm. Why pale first? The small arteries briefly constricted before they dilated. Leaking plasma, crowding neutrophils, and scar all come later.",
      "check": {
       "q": "Put these in order: increased permeability, brief vasoconstriction, vasodilation.",
@@ -818,7 +841,8 @@
     {
      "heading": "Stage 1: How do white cells get there?",
      "keyIdea": "White cells line up, stick, squeeze out, follow the chemical trail, and eat.",
-     "body": "<p>White cells travel in the blood, but the problem is in the tissue. They must leave the vessel before they can follow the chemical trail. Learn the five steps in order.</p><p><b>Neutrophils arrive first</b>, usually within hours. Dead neutrophils are a main part of pus. <b>Monocytes</b> come next and become <b>macrophages</b> in the tissue. They live longer, clean up debris, and signal repair. The bone marrow also releases more neutrophils, including young <b>bands</b>. A high WBC with more bands is called a <b>left shift</b>. It means the marrow is responding strongly.</p>",
+     "source": "Inflammation slides 9, 12; five-step detail added for the NCLEX",
+     "body": "<p>White cells travel in the blood, but the problem is in the tissue. They must leave the vessel before they can follow the chemical trail. Your slides call this <b>margination and migration</b>. The steps below break it into five parts.</p><p><b>Neutrophils arrive first</b>, usually within hours. Dead neutrophils are a main part of pus. <b>Monocytes</b> come next and become <b>macrophages</b> in the tissue. They live longer, clean up debris, and signal repair. The bone marrow also releases more WBCs. Your slides call this <b>leukocytosis</b> (a high WBC count). Many are young neutrophils called <b>bands</b>. More bands is called a <b>left shift</b>.</p>",
      "steps": [
       "<b>Margination:</b> as blood slows, white cells move to the vessel edges and line up.",
       "<b>Adhesion:</b> they stick to the vessel lining (endothelium).",
@@ -834,8 +858,9 @@
     },
     {
      "heading": "Stage 2: What is exudate?",
-     "keyIdea": "Exudate is leaked fluid and cells; some is expected, and its type tells you what is happening.",
-     "body": "<p><b>Exudate</b> is the fluid, proteins, and cells that leaked out of vessels. With an open wound, some drains onto the dressing. Early exudate has protective jobs. It dilutes toxins, carries white cells and nutrients, brings proteins that wall off the injury, and carries away debris.</p><p>So some drainage is expected. The type and the trend signal problems, not drainage by itself.</p>",
+     "keyIdea": "Exudate is fluid and cells oozing from vessels; some is expected, and its type tells you what is happening.",
+     "source": "Inflammation slide 10; serosanguineous and fibrinous added for the NCLEX",
+     "body": "<p><b>Exudate</b> is fluid and cells \"oozing\" from the vessels. Your slides say it contains plasma, cytokines (chemical messengers), dead cells, and phagocytes (cells that eat debris). With an open wound, some drains onto the dressing. Early exudate has protective jobs. It dilutes toxins, carries white cells and nutrients, brings proteins that wall off the injury, and carries away debris.</p><p>Your slides list three types: serous, purulent, and hemorrhagic (sanguineous). The table adds two more seen at the bedside. Some drainage is expected. The type and the trend signal problems, not drainage by itself.</p>",
      "table": {
       "caption": "Types of exudate (drainage)",
       "headers": [
@@ -846,26 +871,26 @@
       "rows": [
        [
         "Serous",
-        "Clear to pale yellow, thin, watery",
-        "Mostly plasma. Seen early, in blisters, and late in healing. Small amounts expected."
-       ],
-       [
-        "Serosanguineous",
-        "Thin, watery, pale pink",
-        "Expected in a fresh incision for the first few days. Should decrease and get paler."
-       ],
-       [
-        "Sanguineous",
-        "Red, bloody",
-        "Small vessel damage. A little right after surgery is expected. A sudden rise of bright red suggests bleeding: report."
+        "Clear, thin, watery",
+        "Mostly plasma. Means mild inflammation. Small amounts are expected."
        ],
        [
         "Purulent (pus)",
         "Thick, cloudy, yellow, green, tan, or brown; may smell foul",
-        "Dead neutrophils, dead tissue, and often bacteria. Suggests infection: report."
+        "White cells (leukocytes) plus debris. Means infection is present: report."
        ],
        [
-        "Fibrinous",
+        "Hemorrhagic (sanguineous)",
+        "Red, bloody",
+        "A vessel has ruptured, or edema pressure has damaged vessels. A little right after surgery is expected. A sudden rise of bright red suggests bleeding: report."
+       ],
+       [
+        "Serosanguineous (not on your slides)",
+        "Thin, watery, pale pink",
+        "Expected in a fresh incision for the first few days. Should decrease and get paler."
+       ],
+       [
+        "Fibrinous (not on your slides)",
         "Thick, sticky, stringy",
         "Rich in the clotting protein fibrin. Can form bands that make tissues stick together (adhesions)."
        ]
@@ -873,12 +898,13 @@
      },
      "check": {
       "q": "You find thick, opaque, yellow-green drainage with a foul odor. How do you document it?",
-      "a": "Purulent drainage. It suggests infection, so report it to the provider."
+      "a": "Purulent drainage. It means infection is present, so report it to the provider."
      }
     },
     {
      "heading": "How do I read drainage trends?",
      "keyIdea": "One check shows now; the trend shows where healing is going. Describe type, amount, and odor each time.",
+     "source": "Added: NCLEX drainage checks based on Inflammation slide 10",
      "body": "<p>Document drainage <b>type, amount, and odor</b>, and compare with the last check. If assistive personnel report drainage, assess it yourself before deciding it is expected.</p><p>A healthy trend goes from bloody to pale pink to clear, with less each day and no foul odor. An infected wound can have a normal temperature and WBC. Local signs matter on their own. If two findings are abnormal, active bleeding outranks signs of infection.</p>",
      "bullets": [
       "<b>Keep monitoring:</b> less thin pale pink drainage than yesterday; scant serous drainage.",
@@ -890,8 +916,9 @@
     },
     {
      "heading": "Stage 3: Will the tissue regrow or scar?",
-     "keyIdea": "Tissues whose cells keep dividing can regenerate; nerve and muscle, including heart, heal by scar.",
-     "body": "<p>In Stage 3 the body rebuilds. It uses <b>regeneration</b> or <b>scar formation</b>. Which one depends mostly on the tissue type and the size of the damage.</p><p>Regeneration replaces damaged cells with the same or similar cells. It is the best outcome, because the tissue works normally again. Only tissues whose cells keep dividing can do it.</p>",
+     "keyIdea": "Skin, gut and airway lining, bone, marrow, and lymphoid tissue regenerate quickly; nerve, muscle, and elastic tissue regenerate poorly and often scar.",
+     "source": "Inflammation slide 11",
+     "body": "<p>Stage 3 is the shift from inflammation to repair. The body uses <b>regeneration</b> or <b>scar formation</b>. Scar forms when regeneration is not possible. That depends mostly on the tissue type and the size of the damage.</p><p>Regeneration replaces damaged cells with identical or similar cells. It is the best outcome, because the tissue works normally again. Only tissues whose cells keep dividing can do it.</p>",
      "table": {
       "caption": "Which tissues can regenerate?",
       "headers": [
@@ -908,7 +935,7 @@
        [
         "Limited regeneration",
         "Nerve, muscle (including heart muscle), elastic tissue",
-        "Cells divide little or not at all. Damage heals by scar, and some function is lost."
+        "Cells divide little. Larger damage often heals by scar, and some function is lost."
        ]
       ]
      },
@@ -916,16 +943,17 @@
     },
     {
      "heading": "How does a scar form?",
-     "keyIdea": "Clot, then granulation tissue, then collagen, then contraction, then a mature scar.",
-     "body": "<p>When tissue cannot regrow, or the wound is too large or deep, the body fills the gap with scar. It happens in order. Beefy red, moist granulation tissue that bleeds slightly is <b>healthy</b>. Handle it gently.</p><p>A young scar is pink and raised. Over months it becomes paler and flatter. New scar tissue is weak for months, so the client follows activity limits until cleared.</p>",
+     "keyIdea": "Clot, then fragile granulation tissue, then collagen, then contraction, then a firm, fibrous, less functional scar.",
+     "source": "Inflammation slide 11; scar-forming steps added for the NCLEX",
+     "body": "<p>When tissue cannot regrow, or the wound is too large or deep, the body fills the gap with scar. It happens in order. Your slides describe granulation tissue as <b>fragile, red or pink, with many new capillaries</b>. Beefy red, moist granulation tissue that bleeds slightly is <b>healthy</b>. Handle it gently.</p><p>A young scar is pink and raised. Over months it becomes paler and flatter. New scar tissue is weak for months, so the client follows activity limits until cleared.</p>",
      "steps": [
       "A <b>fibrin clot</b> fills the wound, stops bleeding, and forms a temporary frame.",
-      "<b>Granulation tissue</b> grows in: beefy red, moist, bumpy, full of new capillaries. It bleeds easily.",
+      "<b>Granulation tissue</b> grows in: fragile, beefy red to pink, moist, bumpy, full of new capillaries. It bleeds easily.",
       "<b>Fibroblasts</b> lay down <b>collagen</b>, the fibers that give strength.",
       "The wound <b>contracts</b>: the edges draw together.",
-      "The scar (<b>cicatrix</b>) matures over months. It is firm and strong but has no hair or sweat glands and less stretch."
+      "The scar (<b>cicatrix</b>) matures over months. Your slides call it firm, fibrous, and <b>less functional</b> than the tissue it replaced. It has no hair or sweat glands and less stretch."
      ],
-     "analogy": "Granulation tissue is like scaffolding and new pipes at a building site: busy, red, and easy to damage. Collagen is the concrete. The finished scar is a solid concrete patch: strong, but plain and stiff.",
+     "analogy": "Granulation tissue is like scaffolding and new pipes at a building site: busy, red, and easy to damage. Collagen is the concrete. The finished scar is a concrete patch: firm, but plain, stiff, and not as useful as the original wall.",
      "check": {
       "q": "An open wound is beefy red, moist, granular, and bleeds slightly when touched. Good or bad?",
       "a": "Good. This is healthy granulation tissue in the reparative phase. Protect it, because it is fragile."
@@ -934,6 +962,7 @@
     {
      "heading": "Is repair on track, and what feeds it?",
      "keyIdea": "Beefy red, shrinking, less painful wounds are on track; repair needs protein, vitamin C, carbohydrates, and fluids.",
+     "source": "Inflammation slide 20; wound checks added for the NCLEX",
      "body": "<p>Use the two lists below to judge the wound. Report any warning sign, even if the temperature is normal. Measure the wound's length, width, and depth to track size.</p><p>Repair needs raw materials. Your slides list <b>fluids, protein, carbohydrates, and vitamins, especially vitamin C</b>. Protein builds new cells and collagen. Vitamin C is needed to make strong collagen. Carbohydrates give energy, so the body does not burn protein for fuel. Fluids keep blood flowing to the wound.</p><p>Best snack: Greek yogurt with strawberries (protein plus vitamin C). Weaker choices: buttered rice with gravy, saltines with diet soda, or apple juice with a rice cake.</p>",
      "bullets": [
       "<b>On track:</b> beefy red, moist, granular bed; less drainage, now serous; smaller size; less pain; client eating well.",
@@ -947,6 +976,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Do not confuse healthy granulation with infection, or expected pink drainage with bleeding.",
+     "source": "Added: NCLEX traps based on Inflammation slides 9–11",
      "body": "<p>These look-alikes cause many wrong answers. Learn the clue that separates each pair.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -973,7 +1003,7 @@
        ],
        [
         "Regenerate vs. scar",
-        "Skin, gut lining, bone regrow. Nerve and heart muscle scar."
+        "Skin, gut lining, bone regrow quickly. Nerve, muscle, and elastic tissue regrow poorly and often scar."
        ],
        [
         "Emigration vs. chemotaxis",
@@ -985,6 +1015,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect ordering questions, drainage judgments, stage matching, and which tissues regenerate.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> On postoperative day 3, which wound finding should the nurse report?</p><p>A) Scant serous drainage.<br>B) Less thin, pale pink drainage than on day 1.<br>C) Thick, yellow-green drainage with a foul odor; temperature 37.0 °C.<br>D) Narrow pink edges along the incision.</p>",
      "bullets": [
       "Ordering: vascular events, the five white cell steps, or scar formation steps.",
@@ -1005,6 +1036,7 @@
     {
      "heading": "Worked case: the healing leg wound",
      "keyIdea": "A wound can be partly healing and still need a report when warning signs appear.",
+     "source": "Added: worked example based on Inflammation slides 10–11",
      "body": "<p>A 64-year-old client's leg wound is healing by secondary intention 12 days after an abscess was drained. Most of the bed is beefy red and granular. The length shrank from 5.2 to 4.1 cm in a week. But the lower edge has pale, gray, friable tissue. There is moderate thick, tan-green drainage with a foul odor after cleansing. Pain rose from 2/10 to 7/10 in 24 hours. T 37.2 °C.</p>",
      "steps": [
       "Find the good signs: granulation tissue and a shrinking wound.",
@@ -1132,12 +1164,14 @@
     {
      "heading": "What are chemical mediators?",
      "keyIdea": "Mediators are messenger chemicals, released mainly by mast cells and macrophages, that create the signs of inflammation.",
+     "source": "Inflammation slides 9, 12",
      "body": "<p>Injured tissue sends out chemical signals. These are the <b>mediators</b> of inflammation. Your slides say they come from <b>mast cells and macrophages</b>. Platelets and other white cells add some too, but red blood cells do not.</p><p><b>Mast cells</b> sit in the skin, airways, gut, and around small vessels. They are like loaded water balloons full of histamine and heparin. When injury, germs, or an allergen triggers them, they burst open and release these chemicals in seconds. That is why a bite itches and swells almost at once.</p><p><b>Macrophages</b> are cleanup cells. As they eat debris, they release mediators that keep the response going. Some mediators, like complement and bradykinin, come from blood proteins switched on at the site. Others, like prostaglandins and leukotrienes, are made on the spot from injured cell membranes.</p>",
      "analogy": "Mediators are group texts from the injury site. Histamine tells the vessels, \"Open up.\" Bradykinin tells the nerves, \"This hurts.\" Leukotrienes tell the white cells, \"Send backup.\" Prostaglandins tell the brain, \"Turn up the heat.\" Ibuprofen blocks some of those texts."
     },
     {
      "heading": "What do histamine and heparin do?",
      "keyIdea": "Histamine opens and leaks vessels and causes itch and hives; heparin keeps blood from clotting at the site.",
+     "source": "Inflammation slides 12–13",
      "body": "<p><b>Histamine</b> comes first, within seconds, from mast cells. It widens small vessels, causing redness and heat. It makes capillaries leaky, causing swelling. In the skin, it causes itching and hives (raised, itchy welts called wheals). In the airways, it can cause narrowing and swelling.</p><p><b>Heparin</b> is released with histamine. It is a natural anticoagulant. Why stop clotting? Flowing blood keeps bringing white cells, oxygen, and nutrients. Your slides sum them up: <b>more blood flow and no clotting</b>.</p><p>Antihistamines, like diphenhydramine, block histamine. They relieve itching and hives. Judge them by itching and hives. But in anaphylaxis, many mediators flood out at once. An antihistamine alone cannot reverse airway swelling or low blood pressure.</p>",
      "example": "A child has a raised, itchy wheal minutes after a mosquito bite. Skin mast cells released histamine. The nurse suggests a cool compress and an antihistamine if ordered. The nurse teaches the family to watch for signs beyond the skin, like wheezing or lip swelling.",
      "check": {
@@ -1148,6 +1182,7 @@
     {
      "heading": "What do bradykinin and complement do?",
      "keyIdea": "Bradykinin is the pain messenger; complement tags germs so white cells can eat them.",
+     "source": "Inflammation slide 12",
      "body": "<p><b>Bradykinin</b> is made from plasma proteins after injury. Your slides list three effects: vessel dilation, pain, and increased permeability. Its specialty is <b>pain</b>. It directly fires pain nerves. Prostaglandins make those nerves more sensitive. Together they explain the throbbing of a fresh sprain, plus pressure from swelling. Antihistamines do not treat this pain.</p><p><b>Complement</b> is not one chemical. It is a group of <b>more than 20 proteins</b> in the blood. They switch on one after another, like dominoes. Your slides say complement <b>aids dilation and phagocytosis</b>.</p>",
      "bullets": [
       "Helps vessels widen and leak, partly by triggering mast cells to release histamine.",
@@ -1163,6 +1198,7 @@
     {
      "heading": "What do leukotrienes do?",
      "keyIdea": "Leukotrienes call neutrophils and macrophages to the site and can tighten airway muscle.",
+     "source": "Inflammation slide 12",
      "body": "<p><b>Leukotrienes</b> are made from the membranes of injured cells and mast cells. Their main job is to <b>attract neutrophils and macrophages</b> to the site. That is the chemotaxis step from the Stages lesson. They lay the chemical trail that white cells follow.</p><p>Leukotrienes also add to leakiness. In the airways, they tighten smooth muscle. That is one reason allergic reactions cause wheezing. When a wound fills with white cells and later pus, leukotrienes did the recruiting.</p>",
      "check": {
       "q": "Neutrophils and macrophages gather in an infected cut. Which mediator called them?",
@@ -1172,7 +1208,8 @@
     {
      "heading": "What do prostaglandins do?",
      "keyIdea": "Prostaglandins cause pain, fever, and vasodilation, so blocking them is the main goal of anti-inflammatory drugs.",
-     "body": "<p>Cells make <b>prostaglandins</b> at the site using enzymes called COX. Your slides list <b>vasodilation, pain, and fever</b>. They also add to leakiness and white cell attraction. They cause fever by resetting the brain's thermostat (hypothalamus). They cause pain by making nerves more sensitive.</p><p>Blocking prostaglandins is the main target of anti-inflammatory drugs. Your slides list <b>salicylates (aspirin), NSAIDs (like ibuprofen), and corticosteroids</b> for severe cases. Aspirin and NSAIDs block COX, so less prostaglandin is made. The result is less pain, fever, and swelling. They do not kill germs or block histamine. Judge ibuprofen by pain, swelling, and fever.</p><p>Prostaglandins also protect the stomach lining and support kidney blood flow. So NSAIDs can harm both. Teach clients to take them with food. Report black stools or vomiting blood. Falling urine output or rising creatinine means hold and report.</p>",
+     "source": "Inflammation slides 12, 22; NSAID safety added for the NCLEX",
+     "body": "<p>Cells make <b>prostaglandins</b> at the site using enzymes called COX. Your slides list <b>vasodilation, pain, and fever</b>. They also add to leakiness and white cell attraction. They cause fever by resetting the brain's thermostat (hypothalamus). They cause pain by making nerves more sensitive.</p><p>Your slides say drug therapy aims to lower inflammation, pain, and fever. Its target is to <b>block prostaglandins</b>. The table lists the drugs on your slides. Aspirin and NSAIDs block COX, so less prostaglandin is made. The result is less pain, fever, and swelling. They do not kill germs or block histamine. Judge ibuprofen by pain, swelling, and fever.</p><p>Prostaglandins also protect the stomach lining and support kidney blood flow. So NSAIDs can harm both. Teach clients to take them with food. Report black stools or vomiting blood. Falling urine output or rising creatinine means hold and report.</p>",
      "bullets": [
       "Before an NSAID, screen for kidney problems, past GI bleeding, and past reactions to aspirin or NSAIDs.",
       "An NSAID can bring down fever and pain without fixing an infection. Judge the client by breathing, oxygen, and local signs, not temperature alone.",
@@ -1182,11 +1219,47 @@
      "check": {
       "q": "Why does one ibuprofen tablet help pain, fever, AND swelling?",
       "a": "All three are driven partly by prostaglandins, and ibuprofen lowers prostaglandin production."
+     },
+     "table": {
+      "caption": "Drugs on your slides",
+      "headers": [
+       "Drug group",
+       "How it is obtained",
+       "Notes"
+      ],
+      "rows": [
+       [
+        "Salicylates (aspirin)",
+        "Over the counter (OTC)",
+        "Block prostaglandins"
+       ],
+       [
+        "Non-opioid analgesics",
+        "OTC",
+        "Ease pain and fever"
+       ],
+       [
+        "NSAIDs (like ibuprofen)",
+        "OTC and prescription",
+        "Block prostaglandins"
+       ],
+       [
+        "Corticosteroids",
+        "Prescription; oral or parenteral",
+        "For severe cases"
+       ],
+       [
+        "Opioids",
+        "Prescription",
+        "For severe pain only (see the Comfort module)"
+       ]
+      ]
      }
     },
     {
      "heading": "Which mediator causes what I see?",
      "keyIdea": "Look for each mediator's signature: itch, throbbing pain, tagging, white cell gathering, or fever.",
+     "source": "Inflammation slide 12",
      "body": "<p>Exams often give a finding and ask which mediator is most responsible. Look for the signature effect. If a finding is relieved by ibuprofen or aspirin, think prostaglandins.</p>",
      "table": {
       "caption": "Mediator, signature, and bedside finding",
@@ -1231,12 +1304,21 @@
     {
      "heading": "When do mediators go overboard?",
      "keyIdea": "A small local release causes allergy; a sudden body-wide release is anaphylaxis, treated first with epinephrine.",
-     "body": "<p>Your slides warn: <b>overactivation leads to allergic reactions and anaphylaxis</b>. In allergy, the body treats something harmless, like pollen, peanuts, a drug, or latex, as a threat.</p><p>A small, local release causes itching, hives, sneezing, and watery eyes, with normal ABCs. A sudden, <b>body-wide</b> release is anaphylaxis. Vessels dilate everywhere, so blood pressure drops. Vessels leak everywhere, so lips, tongue, and throat swell. Airway muscle tightens, causing wheezing. It can kill within minutes.</p><p>Give <b>epinephrine</b> first, and call EMS outside a hospital. It tightens vessels and opens airways. Antihistamines block only one mediator and act too slowly. Less itching does not mean the reaction is controlled. With any skin reaction, check airway and breathing first. When delegating, tell assistive personnel exactly which airway signs to report at once.</p>",
-     "example": "Minutes after IV penicillin starts, a client says, \"My throat feels tight.\" The voice is hoarse. The nurse stops the infusion, stays with the client, calls for help, and prepares epinephrine per protocol."
+     "source": "Inflammation slides 12–13",
+     "body": "<p>Your slides warn: <b>overactivation leads to allergic reactions and anaphylaxis</b>. In allergy, the body treats something harmless, like pollen, peanuts, a drug, or latex, as a threat.</p><p>A small, local release causes itching, hives, sneezing, and watery eyes, with normal ABCs. A sudden, <b>body-wide</b> release is anaphylaxis. Vessels dilate everywhere, so blood pressure drops. Vessels leak everywhere, so lips, tongue, and throat swell. Airway muscle tightens, causing wheezing. It can kill within minutes.</p><p>Your slides list the treatment: <b>immediate epinephrine</b>, plus calling EMS if outside a hospital. It tightens vessels and opens airways. Antihistamines block only one mediator and act too slowly. Less itching does not mean the reaction is controlled. With any skin reaction, check airway and breathing first. When delegating, tell assistive personnel exactly which airway signs to report at once.</p>",
+     "example": "Minutes after IV penicillin starts, a client says, \"My throat feels tight.\" The voice is hoarse. The nurse stops the infusion, stays with the client, calls for help, and prepares epinephrine per protocol.",
+     "bullets": [
+      "<b>Common triggers:</b> foods (peanuts, shellfish, milk, eggs), insect stings, medicines (penicillin, NSAIDs, anesthetics), and latex.",
+      "<b>Airway:</b> swelling, wheezing, trouble breathing.",
+      "<b>Circulation:</b> low blood pressure, abnormal rhythm, dizziness, shock.",
+      "<b>GI:</b> nausea, vomiting, diarrhea.",
+      "<b>Skin:</b> hives, itching, cyanosis or pallor."
+     ]
     },
     {
      "heading": "Common traps",
      "keyIdea": "Match the drug to the mediator it blocks, and never let itch relief hide an airway problem.",
+     "source": "Added: NCLEX traps based on Inflammation slides 12–13, 22",
      "body": "<p>These mix-ups show up often. Use the right column to sort them out.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1279,6 +1361,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect finding-to-mediator matching, drug mechanism questions, NSAID safety, and allergy versus anaphylaxis priorities.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A client stung by a bee has hives on both arms. After diphenhydramine, the itching is better. Now the voice is hoarse. What is the nurse's priority?</p><p>A) Give a second antihistamine dose.<br>B) Apply a cool compress.<br>C) Give epinephrine per protocol and call for help.<br>D) Recheck in 15 minutes.</p>",
      "bullets": [
       "Match a finding to a mediator: itch, throbbing pain, fever, pus.",
@@ -1298,6 +1381,7 @@
     {
      "heading": "Worked case: ibuprofen and the infected wound",
      "keyIdea": "An NSAID can hide fever and pain, so watch local signs and NSAID side effects.",
+     "source": "Added: worked example based on Inflammation slides 12, 22",
      "body": "<p>Mr. D, 70, has an infected foot wound and takes ibuprofen around the clock. His temperature is now normal. But the dressing has new thick, yellow drainage. Pain around the wound is worse. His urine output has fallen, and creatinine has risen.</p>",
      "steps": [
       "Recall what ibuprofen does. It lowers prostaglandins, so fever and pain drop.",
@@ -1429,6 +1513,7 @@
     {
      "heading": "How do acute and chronic differ?",
      "keyIdea": "Acute is fast, obvious, neutrophil-driven, and resolves; chronic is slow, lasting, and damages tissue.",
+     "source": "Inflammation slides 7, 14",
      "body": "<p>Start with the big comparison. You will use this table in matrix questions and at the bedside.</p>",
      "table": {
       "caption": "Acute vs. chronic inflammation",
@@ -1475,6 +1560,7 @@
     {
      "heading": "What does acute inflammation look like?",
      "keyIdea": "Acute inflammation starts within minutes to hours, shows all the classic signs, and ends when the cause is gone.",
+     "source": "Inflammation slides 7, 21",
      "body": "<p>Your slides describe acute inflammation as a <b>complex vascular tissue response that isolates damage and promotes repair</b>. Everything from the Stages lesson applies. Vessels dilate and leak, white cells rush in, exudate forms, and tissue repairs.</p><p>Your slides note it may <b>resolve on its own</b>, like a minor sprain or sunburn. Or it may <b>need hospital care</b>, like cellulitis needing IV antibiotics, or appendicitis or cholecystitis needing surgery. Systemic signs or an organ needing surgery mean hospital care.</p>",
      "bullets": [
       "<b>Rapid onset:</b> a sprain swells within the hour; cellulitis spreads over hours.",
@@ -1491,6 +1577,7 @@
     {
      "heading": "What does chronic inflammation look like?",
      "keyIdea": "Chronic inflammation lasts months to years, often starts on its own, and slowly destroys tissue.",
+     "source": "Inflammation slides 7, 14, 21",
      "body": "<p>Your slides define chronic inflammation as lasting <b>months to years</b>. It may follow acute inflammation, but it <b>often develops independently</b>. That surprises many students. It can build quietly from an autoimmune process or a constant irritant, with no acute start.</p><p><b>Lymphocytes and macrophages</b> lead. Instead of finishing and leaving, they keep releasing mediators. The constant inflammation <b>damages the tissue itself</b>. The body patches it with scar, so the organ slowly loses structure and function.</p>",
      "bullets": [
       "<b>Allergies:</b> repeated reactions to dust, pollen, or dander.",
@@ -1508,6 +1595,7 @@
     {
      "heading": "How does chronic inflammation affect the whole person?",
      "keyIdea": "Months of circulating mediators cause fatigue, poor appetite, and weight loss that need active care.",
+     "source": "Inflammation slides 18, 21; whole-person detail added for the NCLEX",
      "body": "<p>Chronic inflammation keeps mediators circulating for months or years. Clients often report <b>fatigue despite good sleep</b>, <b>poor appetite for months</b>, and <b>unplanned weight loss</b>. Symptoms persist and flare over years instead of clearing in days.</p><p>These effects touch nutrition, activity, mood, work, and family. Ask about them at every visit. A client may not look acutely ill yet be quietly losing weight and energy. Assess nutrition actively. Refer to a dietitian for nutrition problems and to physical therapy for strength and mobility.</p><p>Compare this with a sudden high fever and shaking chills starting today, or symptoms gone in 3 days. Those fit an acute process.</p>",
      "example": "A 34-year-old has had Crohn's disease for 8 years. She is tired after full nights of sleep, has had poor appetite for months, and lost 5 kg (11 lb) in 6 months. Her symptoms come and go. The nurse assesses nutrition and energy, involves the dietitian, and supports trigger avoidance and medicine adherence.",
      "check": {
@@ -1518,6 +1606,7 @@
     {
      "heading": "Why doesn't chronic inflammation shut off?",
      "keyIdea": "The cause never goes away, so removing or avoiding the trigger is the most effective step.",
+     "source": "Inflammation slides 7, 17",
      "body": "<p>Acute inflammation stops when the cause is neutralized. In chronic inflammation, <b>the cause stays</b>. There are two common reasons. The trigger keeps returning, like daily cigarette smoke or a seasonal allergen. Or the body itself is the target, as in autoimmune disease, so the job can never finish.</p><p>So for a persistent irritant, the best intervention is to <b>remove or avoid the trigger</b>. Your slides put it simply: <b>prevention = avoidance of triggers</b>. Antibiotics do not stop it.</p>",
      "steps": [
       "Spot the pattern: months to years of slow worsening means chronic.",
@@ -1530,13 +1619,14 @@
     {
      "heading": "How common is it? Who is at risk?",
      "keyIdea": "Chronic inflammatory disease is common and partly genetic; genetics, age, and family history cannot be changed.",
-     "body": "<p>About <b>450 genetic loci</b> are linked to inflammation. Each disease has its own genetic profile. Psoriasis and Crohn's disease differ, for example. Yet many share one pathway: <b>IL-23/IL-17 cytokine regulation</b>. When those signals are overactive, inflammation keeps switching on.</p><p><b>Nonmodifiable risks</b> are genetics, age, and family history. A parent with RA or lupus raises risk. Older adults tend to have more baseline inflammation. These tell you who to watch closely. Then teach the client to change modifiable risks, starting with the biggest one present: smoking, weight, diet, and activity. An anti-inflammatory diet is rich in fruits, vegetables, fish, and whole grains, and limits fast food and sugar.</p>",
+     "source": "Inflammation slides 15–17",
+     "body": "<p>About <b>450 genetic loci</b> are linked to inflammation. Each disease has its own genetic profile. Psoriasis and Crohn's disease differ, for example. Yet many share one pathway: <b>IL-23/IL-17 cytokine regulation</b>. When those signals are overactive, inflammation keeps switching on.</p><p><b>Nonmodifiable risks</b> are genetics, age, and family history. A parent with RA or lupus raises risk. Older adults tend to have more baseline inflammation. These tell you who to watch closely. Then teach the client to change modifiable risks, starting with the biggest one present. Your slides list a healthy weight, no smoking, exercise, a high-fiber, low-fat diet, and control of high blood pressure and diabetes.</p>",
      "bullets": [
       "Chronic inflammatory diseases are a major global health threat.",
       "The World Health Organization ranks chronic disease as the greatest threat to human health.",
       "About 100 chronic inflammatory diseases have been identified.",
       "5–7% of the Western population has at least one.",
-      "The prevalence of acute inflammation is unknown. It is too common to count."
+      "The prevalence of acute inflammation is unknown."
      ],
      "check": {
       "q": "A client says, \"My mother has lupus. Does that matter for me?\" How do you respond?",
@@ -1546,6 +1636,7 @@
     {
      "heading": "How do nursing goals differ?",
      "keyIdea": "Acute care removes the cause and supports healing; chronic care controls the disease over the long term.",
+     "source": "Inflammation slides 20–23",
      "body": "<p><b>Acute:</b> remove or treat the cause and support healing. Use rest, ice, elevation, positioning, and pain control. Give antibiotics for a bacterial cause, or prepare for surgery if an organ must come out. Watch for spread or systemic signs.</p><p><b>Chronic:</b> aim for long-term control and self-management. That means avoiding triggers, taking medicines as prescribed, an anti-inflammatory diet, staying active, and spotting flares early. Chronic inflammation is controlled, not cured. The end of a flare is not the end of the disease.</p><p>Assistive personnel can help position and assist. Assessing spread, teaching, and judging the response stay with the RN.</p>",
      "table": {
       "caption": "Client A (acute cellulitis) vs. Client B (RA)",
@@ -1580,11 +1671,13 @@
     {
      "heading": "What if acute strikes on top of chronic?",
      "keyIdea": "In a client with chronic disease, new sudden changes are the priority; stable baseline findings can wait.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Clients with chronic inflammation have abnormal findings every day. Compare with their <b>baseline</b>. Stable, known problems are not the emergency. New or sudden changes are, especially in the ABCs.</p><p>A sudden high fever, rigors, a new hot joint, spreading redness, or new bands suggest a new acute process, such as infection. Report it promptly. A new sign of organ damage outranks abnormal-but-stable baseline findings. Acute inflammation that worsens despite treatment, like cellulitis spreading on antibiotics, also outranks stable chronic symptoms.</p>"
     },
     {
      "heading": "Common traps",
      "keyIdea": "Do not assume chronic means old acute, or that a normal-looking client with chronic disease is fine.",
+     "source": "Added: NCLEX traps based on Inflammation slides 7, 15–17, 21",
      "body": "<p>Watch for these look-alikes. Each row gives the clue that separates them.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1615,7 +1708,7 @@
        ],
        [
         "Modifiable vs. nonmodifiable",
-        "Cannot change: genetics, age, family history. Can change: smoking, weight, diet, activity."
+        "Cannot change: genetics, age, family history. Can change: smoking, weight, diet, exercise, blood pressure and diabetes control."
        ]
       ]
      }
@@ -1623,6 +1716,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect acute-versus-chronic sorting, trigger-removal teaching, and spotting a new acute problem in a chronic client.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample question:</b> A client with COPD asks what will do the most to slow the disease. Which response is best?</p><p>A) \"Take antibiotics at the first sign of a cough.\"<br>B) \"Stopping smoking is the most important step.\"<br>C) \"Rest your lungs by avoiding all activity.\"<br>D) \"COPD is a normal part of aging.\"</p>",
      "bullets": [
       "Matrix: sort findings into acute or chronic.",
@@ -1643,6 +1737,7 @@
     {
      "heading": "Worked case: RA and a hot knee",
      "keyIdea": "A sudden new change in a chronic client signals an acute process that needs prompt reporting.",
+     "source": "Added: worked example based on Inflammation slides 7, 14",
      "body": "<p>Mrs. K, 60, has had RA for 12 years. Her hands are deformed, and she has morning stiffness most days. Today her right knee is suddenly hot, red, and very swollen. T 38.9 °C, with shaking chills. Her WBC shows more bands. Another client down the hall has stable RA stiffness and wants a scheduled pain medicine.</p>",
      "steps": [
       "Know her baseline: deformed hands and daily stiffness are chronic and expected for her.",

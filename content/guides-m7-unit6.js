@@ -32,11 +32,11 @@ window.NURSE_DATA.push({
       "keyTerms": [
         {
           "term": "Health",
-          "def": "A changing experience of physical, mental, and social well-being. It is more than just having no disease."
+          "def": "Complete physical, mental, and social well-being, not just the absence of disease (WHO, 1948). It is personal and changes over time."
         },
         {
           "term": "Wellness",
-          "def": "An ongoing, self-directed process of making choices toward well-being."
+          "def": "A self-directed, evolving process toward well-being. It has nine dimensions."
         },
         {
           "term": "Well-being",
@@ -44,11 +44,11 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Health-illness continuum",
-          "def": "A line from high wellness to serious illness. People move along it over time."
+          "def": "A range from optimal wellness to illness to severe illness. No clear line separates health from illness."
         },
         {
           "term": "Disease",
-          "def": "A change in body structure or function. It can be present even when the person feels fine."
+          "def": "A change in body structure or function from infection, trauma, genetics, or other factors. It can exist without illness."
         },
         {
           "term": "Illness",
@@ -56,27 +56,27 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Injury",
-          "def": "Damage or loss of function caused by an event or exposure. It can be intentional or unintentional."
+          "def": "An act or event that causes damage or loss of body function. It can be intentional or unintentional."
         },
         {
           "term": "Acute illness",
-          "def": "Illness that usually starts suddenly and lasts a short time. It can be mild or life-threatening."
+          "def": "Illness with a sudden onset and short duration. Symptoms range from mild to severe."
         },
         {
           "term": "Chronic illness",
-          "def": "Illness that lasts a long time and needs ongoing management. The course defines it as three months or longer."
+          "def": "Illness that lasts 3 months or longer. It is often lifelong and may not be curable."
         },
         {
           "term": "Remission",
-          "def": "Symptoms lessen or go away. It does not always mean the disease is cured."
+          "def": "Symptoms disappear. It does not always mean the disease is cured."
         },
         {
           "term": "Relapse",
-          "def": "Disease or symptoms come back after a period of improvement."
+          "def": "The disease returns after a remission."
         },
         {
           "term": "Exacerbation",
-          "def": "A flare, or worsening, of a condition the person already has."
+          "def": "A sudden worsening, or flare-up, of a condition the person already has."
         },
         {
           "term": "Social determinants of health",
@@ -84,7 +84,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Health disparity",
-          "def": "A difference in health outcomes between groups. Look for the barriers and unfair conditions behind it."
+          "def": "A gap in illness, injury, disability, or death rates among groups, caused by barriers to meeting wellness needs."
         },
         {
           "term": "Teach-back",
@@ -94,21 +94,33 @@ window.NURSE_DATA.push({
       "sections": [
         {
           "heading": "What does being healthy mean?",
-          "keyIdea": "Health moves along a continuum over time, so ask each client what being healthy means to them.",
-          "body": "<p>The health-illness continuum is a line. One end is high wellness. The other end is serious illness. People move back and forth along it. It is not a label you assign at admission.</p><p>A person with a chronic condition can still sleep better, move more, or feel more connected. A person who feels well may have a silent disease that needs screening.</p><p>Ask, “What does being healthy mean to you?” and “What would you most like to be able to do?” Answers might be going back to work, going to worship, or caring for a grandchild. These goals connect your care plan to the client’s real life.</p><p>Do not assume the client shares your idea of wellness. Well-being includes meaning, satisfaction, and mood. A normal lab value cannot measure those things.</p>",
-          "analogy": "A diagnosis is one photograph. The health-illness continuum is a movie. It shows symptoms, function, relationships, and resources changing over time."
+          "keyIdea": "Health is personal and changes over time, so ask each client what being healthy means to them.",
+          "source": "Module 7 slides 3–5, 8–9",
+          "body": "<p>The WHO (1948) defines health as complete physical, mental, and social well-being, not just the absence of disease. The course adds that health is personal and changes over time. Life experiences, expectations, age, and culture all shape it.</p><p>The health-illness continuum runs from optimal wellness, to illness, to severe illness. Health is relative and always changing. No clear line separates health from illness. People move back and forth along the line.</p><p>Perception matters. A client may see their health differently than others do. A person with a chronic condition can still sleep better, move more, or feel more connected. The continuum is a useful tool for setting goals with the client.</p><p>Ask, “What does being healthy mean to you?” and “What would you most like to be able to do?” Answers like going back to work or caring for a grandchild connect your plan to real life. This is how health promotion begins: by understanding the person’s own view.</p>",
+          "analogy": "A diagnosis is one photograph. The health-illness continuum is a movie. It shows symptoms, function, relationships, and resources changing over time.",
+          "bullets": [
+            "<b>Well-being (CDC, 2018):</b> positive emotions, such as happiness and contentment.",
+            "Absence of negative emotions, such as depression and anxiety.",
+            "Life satisfaction, fulfillment, and positive functioning.",
+            "It is promoted by good health, relationships, resilience, and access to resources.",
+            "It is not set by health status alone. A normal lab value cannot measure it."
+          ]
         },
         {
           "heading": "What are the nine wellness dimensions?",
-          "keyIdea": "The nine dimensions affect each other, so a strength in one area can help a problem in another.",
-          "body": "<p>The course lists nine dimensions of wellness. They work together like gears. Stress in one area often spreads to others.</p><p>For example, money stress can lead to missed medicine, extra work shifts, poor sleep, and less time with friends. A good job can support identity. An unsafe workplace can harm the body.</p><p>Spiritual wellness is about meaning and purpose. It does not require religion. If a client says, “I’m not religious,” you can still ask what gives life meaning.</p><p>Look for strengths, not only problems. A reliable friend might drive the client to visits. Creative hobbies may help someone cope with a new disability.</p>",
+          "keyIdea": "Wellness is a self-directed, changing process with nine dimensions that affect each other, so a strength in one can help another.",
+          "source": "Module 7 slides 6–7",
+          "body": "<p>Wellness is a self-directed, evolving process toward well-being. It is multidimensional and holistic. Daily choices about food, activity, relationships, and rest affect it. Positive life events add to it.</p><p>The course lists nine dimensions. Together they shape total well-being. They work like gears. Stress in one area often spreads to others. Money stress can lead to missed medicine, extra shifts, poor sleep, and less time with friends.</p><p>Look for strengths, not only problems. A reliable friend might drive the client to visits. A creative hobby may help someone cope with a new disability.</p>",
           "bullets": [
-            "<b>Physical:</b> activity, food, rest, and protective habits.",
-            "<b>Emotional:</b> noticing and expressing feelings.",
-            "<b>Intellectual:</b> learning and thinking.",
-            "<b>Social:</b> supportive relationships.",
-            "<b>Spiritual:</b> meaning and purpose, with or without religion.",
-            "<b>Financial, career, creative, and environmental:</b> money, work, self-expression, and a safe place to live."
+            "<b>Physical:</b> healthy behaviors, activity, rest, and nutrition.",
+            "<b>Emotional:</b> understanding and expressing feelings.",
+            "<b>Financial:</b> managing money and planning for the future.",
+            "<b>Intellectual:</b> lifelong learning and critical thinking.",
+            "<b>Career:</b> meaning and satisfaction in work.",
+            "<b>Social:</b> supportive, respectful relationships.",
+            "<b>Creative:</b> expressing yourself through art and culture.",
+            "<b>Environmental:</b> caring for your surroundings and community.",
+            "<b>Spiritual:</b> connecting to purpose and meaning. Religion is not required."
           ],
           "table": {
             "headers": [
@@ -134,15 +146,16 @@ window.NURSE_DATA.push({
               ],
               [
                 "Environmental",
-                "Do you have a safe place to live and be active?"
+                "How are your home and community surroundings?"
               ]
             ]
           }
         },
         {
           "heading": "Disease, illness, and injury: how do they differ?",
-          "keyIdea": "Disease is the body problem, illness is the person’s experience, and injury comes from an event or exposure.",
-          "body": "<p>Disease is a change in how the body is built or works. Illness is how the person feels and lives with a problem. The two do not always match.</p><p>A client with high blood pressure may have disease but feel fine. A client with months of fatigue may have illness before any test finds a disease. Do not dismiss symptoms because one test was normal.</p><p>Injury is damage or loss of function from an event or exposure. A fall can break a hip in a second. Years of loud noise can slowly damage hearing. So prevention covers both sudden hazards and repeated exposures.</p><p>Ask about work, home, activity, substances, and protective gear. Ask without blame. Your job is to find the risk and support safer conditions.</p>",
+          "keyIdea": "Disease is a change in the body, illness is the person’s experience of feeling unwell, and injury is damage from an act or event.",
+          "source": "Module 7 slides 12, 14",
+          "body": "<p><b>Disease</b> is a change in body structure or function. Causes include infection, trauma, genetics, or other factors. <b>Illness</b> is the personal experience of feeling unwell. It can affect any dimension of wellness.</p><p>The two do not always match. People may feel ill without disease, or have disease without illness. A client with high blood pressure may feel fine. Learn how each client defines and experiences illness. Do not dismiss symptoms because one test was normal.</p><p><b>Injury</b> is an act or event that causes damage or loss of body function. It can lead to acute or chronic illness. Injuries can be intentional or unintentional. Both can cause trauma or disability.</p><p>Prevention includes using PPE, warming up before activity, and following safety rules. Ask about work, home, and activity without blame.</p>",
           "table": {
             "headers": [
               "Term",
@@ -162,73 +175,118 @@ window.NURSE_DATA.push({
               ],
               [
                 "Injury",
-                "Damage from an event or repeated exposure",
-                "Hip fracture from a rug; hearing loss from leaf blowers"
+                "Damage or loss of function from an act or event",
+                "Hip fracture from a fall; hearing loss from years of loud noise"
               ]
             ]
-          }
+          },
+          "bullets": [
+            "Noise exposure → hearing loss",
+            "Puncture wound → tetanus",
+            "Asbestos inhalation → chronic lung disease"
+          ]
         },
         {
           "heading": "Acute or chronic: what is the difference?",
-          "keyIdea": "Acute and chronic describe how long an illness lasts, not how severe it is right now.",
-          "body": "<p>Acute illness usually starts suddenly and lasts a short time. It can be mild, like a cold, or life-threatening.</p><p>Chronic illness lasts a long time and needs ongoing care. Your course slides define chronic as three months or longer. Some diseases and tracking systems use other time rules.</p><p>A chronic illness can still flare. A client with asthma can have a sudden attack. That is an acute exacerbation on top of a chronic disease.</p><p>On the exam, do not assume “chronic” means stable. Do not assume “acute” means severe. Look at the current findings and the change from baseline.</p>",
+          "keyIdea": "Acute means sudden onset and short duration; chronic means 3 months or longer. Neither word tells you how severe the illness is right now.",
+          "source": "Module 7 slides 13, 19",
+          "body": "<p><b>Acute illness</b> has a sudden onset and short duration. Symptoms range from mild to severe. It may resolve, or it may need urgent care. Examples are pneumonia and meningitis.</p><p><b>Chronic illness</b> lasts 3 months or longer. It is often lifelong and may not be curable. Common examples are heart disease, diabetes, COPD, chronic kidney disease, cancer, and Alzheimer’s disease. Some other sources use different time rules, but use 3 months for this course.</p><p>A chronic illness can still change suddenly. Do not assume “chronic” means stable or “acute” means severe. Look at current findings and the change from baseline.</p><p>One illness touches many nursing concepts. The course example is a client with COPD. Low oxygen can cause confusion. Oxygen plus smoking is a safety risk. Poor intake upsets fluids. Limited mobility affects independence. Caregivers may feel fatigue and fear.</p>",
           "bullets": [
-            "<b>Remission:</b> symptoms ease or disappear. It is not always a cure, so follow-up still matters.",
-            "<b>Relapse:</b> the disease or symptoms come back after getting better.",
-            "<b>Exacerbation:</b> an existing condition gets worse."
+            "<b>Remission:</b> symptoms disappear. It is not always a cure, so follow-up still matters.",
+            "<b>Relapse:</b> the disease returns.",
+            "<b>Exacerbation:</b> a sudden worsening, or flare-up."
           ],
-          "example": "A client with COPD usually dresses alone. Today he stops for breath after every few words. His daughter says, “It’s just his lung disease.” This is a new change from baseline. Assess his breathing now."
+          "example": "A client with COPD usually dresses alone. Today he stops for breath after every few words. His daughter says, “It’s just his lung disease.” This is a new change from baseline, an exacerbation. Assess his breathing now."
         },
         {
           "heading": "What are social determinants of health?",
-          "keyIdea": "Social determinants decide whether a care plan is even possible, and teaching alone cannot fix a lack of food or transport.",
-          "body": "<p>Social determinants are the conditions of daily life that shape health. They include income, reading level, transport, housing, clean water, discrimination, and belonging.</p><p>A missed visit may mean no bus or no childcare. A client who skips the patient portal may have no internet or may find medical words confusing.</p><p>Ask concrete, neutral questions. “How do you get to appointments?” “Have you had trouble getting enough food?” “What gets in the way of taking this medicine?” Explain why you ask, and protect privacy.</p><p>Then match each barrier to a resource. Options include social work, low-cost pharmacy programs, interpreters, or a different appointment time.</p>",
+          "keyIdea": "Social determinants are the conditions where people live, work, learn, play, and worship. They decide whether a care plan is even possible.",
+          "source": "Module 7 slides 10–11",
+          "body": "<p>Social determinants of health (SDOH) are the conditions in which people live, work, learn, play, and worship. They affect health, well-being, and quality of life. They include access to safety, housing, food, education, and health care. Nurses assess these environments to understand what shapes a client’s health.</p><p>A missed visit may mean no bus or no childcare. Ask concrete, neutral questions. “How do you get to appointments?” “Have you had trouble getting enough food?” Explain why you ask, and protect privacy. Then match each barrier to a resource, such as social work or a low-cost pharmacy program.</p>",
           "bullets": [
-            "Economic stability",
-            "Education access and quality",
-            "Health care access and quality",
-            "Neighborhood and built environment",
-            "Social and community context"
+            "<b>Economic stability:</b> employment, income, childcare, and basic needs.",
+            "<b>Neighborhood and built environment:</b> safe housing, clean air and water, and freedom from violence.",
+            "<b>Health care access and quality:</b> culturally competent, affordable, evidence-based care.",
+            "<b>Social and community context:</b> support systems, recreation, discrimination, and isolation.",
+            "<b>Education access and quality:</b> quality schooling, technology access, and literacy."
           ],
           "table": {
             "headers": [
               "What you find",
-              "What it means",
+              "Which area",
               "What the nurse does"
             ],
             "rows": [
               [
                 "No refrigerator for insulin",
-                "Housing or resource barrier",
+                "Economic stability / housing",
                 "Coordinate safe storage and a workable plan"
               ],
               [
                 "Cannot read the instructions",
-                "Literacy need",
+                "Education (literacy)",
                 "Use plain words, pictures, few key points, and teach-back"
               ],
               [
                 "Avoids an unsafe park",
-                "Environment barrier",
+                "Neighborhood and built environment",
                 "Find a safe activity option together"
               ],
               [
                 "Says past clinics treated them badly",
-                "Trust and access barrier",
+                "Health care access and quality",
                 "Listen and validate first, then advocate for respectful care"
               ],
               [
-                "One neighborhood has more asthma ER visits",
-                "Health disparity",
-                "Assess conditions and access, not stereotypes about groups"
+                "Lives alone with no visitors",
+                "Social and community context",
+                "Ask about support and connect to community resources"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What are health disparities?",
+          "keyIdea": "Health disparities are gaps in illness, injury, disability, or death rates between groups. They come from barriers and unequal access, not from the group itself.",
+          "source": "Module 7 slides 16–17",
+          "body": "<p>Health disparities are gaps in illness, injury, disability, or mortality rates among groups. They are caused by barriers to meeting wellness needs. They result from limited access to resources and care, which are the social determinants.</p><p>Preventing them requires fair access to education, food, housing, health care, and clean environments. At the bedside, assess each client’s conditions and access. Do not use stereotypes about a group.</p>",
+          "bullets": [
+            "Race or ethnicity",
+            "Sex or gender identity",
+            "Disability status",
+            "Socioeconomic status",
+            "Age or geographic location"
+          ],
+          "table": {
+            "headers": [
+              "Group (course examples)",
+              "Disparity"
+            ],
+            "rows": [
+              [
+                "American Indian / Alaska Native communities",
+                "Lack of running water or electricity → higher rates of diabetes, liver disease, and injuries"
+              ],
+              [
+                "LGBTQ+ populations",
+                "Higher rates of suicide, violence, discrimination, and substance use"
+              ],
+              [
+                "Low-income families",
+                "Children exposed to secondhand smoke → more asthma, infections, and SIDS risk"
+              ],
+              [
+                "Black women",
+                "3–4 times higher maternal mortality; more gestational diabetes and preterm birth. Linked to racism, bias, and unequal access to care."
               ]
             ]
           }
         },
         {
           "heading": "How does illness affect the family?",
-          "keyIdea": "Illness changes roles at home, so assess both what the change means and what helpers can truly do.",
-          "body": "<p>Illness can change income, caregiving, intimacy, chores, and future plans. A person who cared for everyone may now need help bathing. A partner may take extra shifts. A teen may take over housework.</p><p>Ask the client who they consider family. Ask who they want involved. An alert client decides who receives their health information. The nearest relative is not automatically the decision partner.</p><p>Willingness does not prove ability. A spouse who says, “I’ll do everything,” may have back pain, work nights, or lack the skill. Watch them practice. Check their energy and health.</p><p>Support the client’s own role and independence. Doing everything for someone can increase feelings of uselessness. If a client feels role loss, explore which roles matter most to them.</p>",
+          "keyIdea": "Illness affects the whole family, so assess coping and roles, and check what helpers can truly do.",
+          "source": "Module 7 slides 15; caregiver and privacy points added for the NCLEX",
+          "body": "<p>Illness can affect daily life: work, rest, self-care, and relationships. <b>Illness behavior</b> is how a person identifies, interprets, and responds to symptoms. Chronic illness may bring grief, fear, anxiety, or loss of control. Disability requires adaptation and emotional adjustment.</p><p>Family dynamics often shift. A person who cared for everyone may now need help bathing. A teen may take over housework. The nurse assesses coping, supports adaptation, and strengthens family function.</p><p>Ask the client who they consider family and who they want involved. An alert client decides who receives their health information.</p><p>Willingness does not prove ability. A spouse who says, “I’ll do everything,” may have back pain or work nights. Watch them practice. Support the client’s own roles, because doing everything for them can increase feelings of uselessness.</p>",
           "bullets": [
             "Ask, “What has changed at home?”",
             "Ask, “Who can help, and what can they actually do?”",
@@ -239,8 +297,9 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "How do I turn assessment into a plan?",
-          "keyIdea": "Build the plan from the client’s priorities, barriers, and strengths, then check whether the barrier was actually removed.",
-          "body": "<p>Combine what the client tells you with what you observe. Subjective data are the client’s goals and symptoms. Objective data are things you see or measure, like gait or vital signs.</p><p>List problems, risks, and strengths together. A client can have poor mobility, a fall risk, and strong motivation all at once.</p><p>Write a goal that can be measured. For example: “By Friday, the client will name one affordable way to get the prescribed medicine.”</p><p>Then evaluate. Placing a referral is an action. The real outcome is the barrier being removed, such as the client getting to the next visit. If the plan fails, reassess. Never settle on “the client does not care.”</p>",
+          "keyIdea": "Use ADPIE: gather subjective and objective data, name problems, risks, and strengths, plan with the client, then check whether the barrier was removed.",
+          "source": "Module 7 slides 18, 32–37",
+          "body": "<p>Nurses promote wellness in every care setting. Inpatient care needs a hospital admission. Outpatient care happens without a hospital stay, as in clinics. Community care happens outside the hospital, such as at home, school, or public health.</p><p><b>Assess.</b> Subjective data are what the client shares: history, beliefs, and symptoms. Objective data are what you observe: exam, vital signs, and mental status. Cover the chief concern, health, family, and social history, lifestyle habits, and SDOH.</p><p><b>Diagnose.</b> Name problems (current needs), risks (potential illness or injury), and wellness strengths (readiness and motivation for change). One client can have all three.</p><p><b>Plan, implement, evaluate.</b> Plan with the client and the interprofessional team. Write a measurable goal. Evaluate by reassessing progress and adjusting the plan. A referral is an action. The outcome is the barrier removed.</p>",
           "steps": [
             "Ask what matters most to the client.",
             "Find the problems, risks, and strengths.",
@@ -252,6 +311,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps",
           "keyIdea": "Most wrong answers blame the client, trust a label, or skip a new change from baseline.",
+          "source": "Module 7 slides 9, 12–13, 15, 37; rows on adherence and caregivers added for the NCLEX",
           "body": "<p>These look-alike ideas cause many missed questions. Learn how to tell them apart.</p>",
           "table": {
             "headers": [
@@ -273,7 +333,7 @@ window.NURSE_DATA.push({
               ],
               [
                 "Remission vs. cure",
-                "Remission means symptoms eased. Monitoring still finds relapse."
+                "Remission means symptoms disappear. The disease can still return (relapse), so follow-up continues."
               ],
               [
                 "Nonadherent vs. blocked",
@@ -297,6 +357,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Pick the answer that assesses barriers or new changes first, respects the client, and fits real life.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Questions often give a label like “nonadherent” or “just his disease.” They test whether you look past it. Others ask you to sort clients by priority. A sudden change in a chronic illness usually wins over a stable resource need.</p><p>Here is a sample question. A client with diabetes missed two clinic visits. The client says, “I want to stay healthy, but I cannot keep doing this.” The chart says “nonadherent.” What should the nurse do first?</p>",
           "bullets": [
             "Common patterns: “what should the nurse do first,” “which finding needs follow-up,” and select-all barrier lists.",
@@ -315,6 +376,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: a plan that fails at home",
           "keyIdea": "When a plan fails at home, find the real barriers and change the plan, not just the teaching.",
+          "source": "Added: worked example based on Module 7 slides 10–11, 33–37",
           "body": "<p>Ms. R has stable diabetes. She wants to avoid another hospital stay. She can explain her medicines. Yet she has missed visits and buys cheap food that differs from her meal plan.</p><p>She cares for two grandchildren and rides the bus. These cues do not mean she lacks interest or knowledge. Her wish to stay well is a strength. Her clear explanation shows some understanding.</p><p>Transport, food cost, and caregiving are likely social determinants. Several barriers may be working together. Ask about each one. Keep checking her symptoms and safety, too.</p>",
           "steps": [
             "Name her strengths: she wants to stay well and knows her medicines.",
@@ -330,12 +392,13 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 7 slides 2–37 (course notes and clarifications)",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
-            "Source: Module 7 – Health, Wellness, Injury, Illness + Exemplars, slides 2–19 and 32–37.",
-            "The lesson paraphrases course concepts and uses original bedside examples.",
-            "The slides define chronic illness as lasting three months or longer. Other diseases and tracking systems may use other time rules.",
-            "Demographic statistics are not treated as fixed facts."
+            "Source: Module 7 – Health, Wellness, Injury, Illness + Exemplars, slides 2–37.",
+            "Bedside examples, caregiver points, and NCLEX strategy are added to help you apply the slides.",
+            "The slides define chronic illness as lasting 3 months or longer. Some other sources use other time rules. Use 3 months for this course.",
+            "The disparity examples are the slide’s data. Use them to look for barriers, not to stereotype a client."
           ]
         }
       ],
@@ -387,48 +450,48 @@ window.NURSE_DATA.push({
         "You can separate modifiable risk factors from ones that cannot change.",
         "You can name a client’s stage of change from what they say.",
         "You can respond to beliefs, locus of control, and low confidence.",
-        "You can write a measurable SMART-EST goal and revise it after a lapse.",
+        "You can write a measurable SMART-EST goal and revise it after a relapse.",
         "You can respond safely when a client uses supplements or alternative care."
       ],
       "bigPicture": "<p>Health promotion helps people feel and function better. Prevention lowers the chance, severity, or harm of illness and injury. The two overlap. Teaching safe walking can build confidence and also prevent falls.</p><p>A perfect teaching sheet is useless if the goal does not matter to the client, the timing is wrong, or resources are missing. So the nurse starts by listening. Think of behavior change as a partnership. The client brings priorities and life experience. The nurse brings knowledge, support, and follow-up.</p>",
       "recap": [
-        "Primary prevents a problem. Secondary finds it early. Tertiary limits harm from an existing problem.",
+        "Primary prevents disease before it occurs. Secondary detects and treats it early. Tertiary restores health and reduces impact.",
         "Classify prevention by purpose and timing, not by whether the nurse is teaching.",
         "Modifiable means changeable, not easy. Family history does not cancel lifestyle benefits.",
         "Match your words to the stage of change. Explore beliefs before offering a plan.",
         "Planning a change is preparation. Doing it is action.",
-        "A lapse is data. Explore the trigger and revise the plan together.",
+        "Relapse is common and expected. Explore the trigger and revise the plan together.",
         "Good goals name an observable behavior, amount, time frame, and review date.",
         "Ask about supplements without judgment, and coordinate review. Never stop therapy on your own."
       ],
       "keyTerms": [
         {
           "term": "Health promotion",
-          "def": "Actions that help people increase well-being and function."
+          "def": "Supporting and encouraging wellness at the individual, family, community, and population level."
         },
         {
           "term": "Primary prevention",
-          "def": "Action before a disease or injury happens, to stop it from occurring. Examples: vaccines, helmets."
+          "def": "Promoting health and preventing disease before it occurs. Examples: vaccines, helmets."
         },
         {
           "term": "Secondary prevention",
-          "def": "Finding a condition early, often by screening people who have no known diagnosis."
+          "def": "Detecting and treating disease early, such as by screening people with no known diagnosis."
         },
         {
           "term": "Tertiary prevention",
-          "def": "Limiting harm and restoring function after a disease or injury already exists, such as rehab after a stroke."
+          "def": "Restoring health and reducing the impact of a disease that already exists, such as rehab after a stroke."
         },
         {
           "term": "Modifiable risk factor",
-          "def": "A risk that can change, such as smoking, inactivity, or poor sleep."
+          "def": "A risk that can change, such as inactivity, poor diet, tobacco, alcohol, or lack of sleep."
         },
         {
           "term": "Nonmodifiable risk factor",
-          "def": "A risk that cannot change, such as age or family history."
+          "def": "A risk that cannot change, such as age, family history, or ethnicity."
         },
         {
           "term": "Locus of control",
-          "def": "Whether a person believes their health depends mostly on their own actions (internal) or on fate, others, or luck (external)."
+          "def": "Internal: belief that one can influence health outcomes. External: belief that outside factors control health."
         },
         {
           "term": "Self-efficacy",
@@ -439,8 +502,8 @@ window.NURSE_DATA.push({
           "def": "How willing and prepared a person is right now to change a behavior."
         },
         {
-          "term": "Lapse",
-          "def": "A short slip back into an old behavior during a change. It is not failure."
+          "term": "Relapse",
+          "def": "Slipping back into an old behavior during change. The course says it is common and expected, not failure."
         },
         {
           "term": "SMART-EST goal",
@@ -448,22 +511,27 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Complementary therapy",
-          "def": "A practice used along with conventional care, such as meditation."
+          "def": "Nontraditional care blended with conventional treatment, such as yoga, meditation, massage, or acupuncture."
         },
         {
           "term": "Alternative therapy",
-          "def": "A practice used instead of conventional care."
+          "def": "A practice used instead of conventional medicine. It is rare."
         },
         {
           "term": "Integrative care",
-          "def": "Care that combines suitable, evidence-informed approaches in one coordinated plan."
+          "def": "Care that combines evidence-based medicine and wellness practices, focusing on mind, body, and spirit."
+        },
+        {
+          "term": "Self-concept",
+          "def": "How people see themselves, including self-esteem, body image, roles, and abilities."
         }
       ],
       "sections": [
         {
           "heading": "What are the three levels of prevention?",
-          "keyIdea": "Ask two questions: what condition is being targeted, and has it already happened?",
-          "body": "<p>Primary prevention acts before the problem starts. Vaccines and helmets are classic examples.</p><p>Secondary prevention finds a problem early, before symptoms. Screening is the key word. A blood pressure check for an adult with no known diagnosis is secondary.</p><p>Tertiary prevention limits harm from a problem that already exists. Rehab after a stroke is tertiary.</p><p>The same action can fit different levels. Exercise prevents disease in a healthy adult. It restores function in rehab. Teaching shows up at all three levels. So “the nurse teaches” does not automatically mean primary.</p>",
+          "keyIdea": "Primary prevents disease before it occurs, secondary detects and treats it early, and tertiary restores health and reduces the impact of existing disease.",
+          "source": "Module 7 slides 22",
+          "body": "<p>The goal of prevention is to shift from treating disease to promoting wellness and preventing illness. Prevention happens at three levels. Nurses play a key role at each level through education, screening, and care coordination.</p><p><b>Primary prevention</b> promotes health and prevents disease before it occurs. Vaccines and helmets are classic examples.</p><p><b>Secondary prevention</b> detects and treats disease early. Screening is the key word. A blood pressure check for an adult with no known diagnosis is secondary.</p><p><b>Tertiary prevention</b> restores health and reduces the impact of chronic disease. Rehab after a stroke is tertiary.</p><p>The same action can fit different levels. Teaching shows up at all three levels. So “the nurse teaches” does not automatically mean primary. Ask: has the condition already happened?</p>",
           "table": {
             "headers": [
               "Level",
@@ -473,22 +541,22 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "Primary",
-                "Before the problem; prevent it",
+                "Before disease occurs; prevent it",
                 "Balance class for older adults who have never fallen"
               ],
               [
                 "Secondary",
-                "Find it early; screen",
+                "Detect and treat early; screen",
                 "Vision screening for a teen with no known problem"
               ],
               [
                 "Secondary",
-                "Find it early; self-check",
+                "Detect early; self-check",
                 "Teaching monthly skin self-exams to an adult with no skin cancer"
               ],
               [
                 "Tertiary",
-                "Limit harm from existing disease",
+                "Restore health; reduce impact of existing disease",
                 "Energy conservation teaching for a client with COPD"
               ]
             ]
@@ -496,14 +564,74 @@ window.NURSE_DATA.push({
           "example": "A student says a balance class for adults who never fell is secondary “because they are high risk.” Correct the student. No fall has happened yet, so the class is primary prevention."
         },
         {
-          "heading": "How do community goals guide nursing?",
-          "keyIdea": "Population goals guide communities, but each client still needs an individual assessment.",
-          "body": "<p>The course names Healthy People 2030 and federal health programs. They set population goals, track progress, and draw attention to disparities.</p><p>A population goal is not a personal prescription. A national activity target does not tell you how far a client recovering from pneumonia should walk today. Start from that client’s assessed baseline.</p><p>Nurses work at several levels. With an individual, you might plan a safe walking routine. With a family, you might address smoke in the home. With a community, you might advocate for safe sidewalks or accessible clinics.</p><p>Measure outcomes, not just activity. Counting brochures handed out shows effort. Counting how many people got follow-up care, or learned a skill, shows real results.</p>"
+          "heading": "How do national goals and populations guide care?",
+          "keyIdea": "National goals guide population health, but each client and population group still needs care that fits their age, condition, and resources.",
+          "source": "Module 7 slides 20–21, 23–24",
+          "body": "<p>Health promotion means supporting and encouraging wellness. Nurses work at every level: individual, family, community, and population. The goal is to empower people to improve their quality of life.</p><p>National goals are led by the U.S. Department of Health and Human Services (DHHS) and guided by the Office of Disease Prevention and Health Promotion (ODPHP). Programs include Healthy People 2030 and the President’s Council on Sports, Fitness and Nutrition. They set national goals and leading health indicators. They focus on reducing disparities, improving quality of life, and tracking population health.</p><p>A population goal is not a personal prescription. Strategies must fit the person’s age and condition. Consider developmental stage, health literacy, access to care, support systems, cultural beliefs, and past health care experiences.</p>",
+          "table": {
+            "headers": [
+              "Population",
+              "Course focus"
+            ],
+            "rows": [
+              [
+                "Pregnant individuals",
+                "Assess age, literacy, prenatal care access, and support. Address conditions like gestational diabetes and high BP. Discuss birth setting and vaccine concerns."
+              ],
+              [
+                "School-age children",
+                "Promote activity and limit screen time to under 2 hours a day. Prevent obesity. Encourage healthy snacks and family meal planning."
+              ],
+              [
+                "Older adults",
+                "Encourage daily activity and independence. Assess fall risk and home safety. Support social ties and caregivers. Increase preventive screening (HTN, cancer, diabetes)."
+              ]
+            ]
+          }
         },
         {
-          "heading": "How do risk factors and beliefs shape choices?",
-          "keyIdea": "Explore what the client believes before teaching, and build confidence with small wins.",
-          "body": "<p>Nonmodifiable risks include age and family history. Modifiable risks include tobacco, inactivity, poor sleep, and some eating patterns. Modifiable means changeable, not easy. Work hours, disability, food access, stress, and culture all shape choices.</p><p>Beliefs come from experience, family, culture, and past health care. Someone with an internal locus of control believes their actions matter. Someone with an external locus credits fate, God, other people, or luck. Neither label tells the full story, so ask.</p><p>Self-efficacy is confidence in doing one specific thing. Low confidence improves with small, achievable successes. More facts alone rarely help.</p>",
+          "heading": "What risk factors and habits should I assess?",
+          "keyIdea": "Find the modifiable risks and coach the healthy habits the course lists; modifiable means changeable, not easy.",
+          "source": "Module 7 slides 25–26",
+          "body": "<p>Chronic disease is widespread and costly. Six in 10 U.S. adults have a chronic illness, and 4 in 10 have two or more (CDC, 2020). Chronic conditions make up 90% of the $3.5 trillion spent on health care each year.</p><p>Nurses identify risk factors. Nonmodifiable risks cannot change. Modifiable risks can. The focus is on preventable behaviors. But modifiable does not mean easy. Work hours, disability, food access, stress, and culture all shape choices.</p>",
+          "bullets": [
+            "Regular physical activity: 150 minutes a week (about 30 minutes a day).",
+            "Balanced diet: fruits, vegetables, whole grains, low sugar and fat.",
+            "Avoid tobacco and limit alcohol.",
+            "Sleep 7–9 hours a night.",
+            "Manage stress with mindfulness, laughter, or relaxation.",
+            "Stay up to date with screenings and immunizations."
+          ],
+          "table": {
+            "headers": [
+              "Nonmodifiable",
+              "Modifiable"
+            ],
+            "rows": [
+              [
+                "Age",
+                "Inactivity"
+              ],
+              [
+                "Family history",
+                "Poor diet"
+              ],
+              [
+                "Ethnicity",
+                "Tobacco use and alcohol"
+              ],
+              [
+                "—",
+                "Lack of sleep"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "How do beliefs and thoughts shape choices?",
+          "keyIdea": "Health beliefs, locus of control, and self-concept affect motivation, so explore them before teaching.",
+          "source": "Module 7 slides 27–28; self-efficacy added for the NCLEX",
+          "body": "<p><b>Health beliefs</b> are what a person believes about illness, treatment, and wellness. They come from personal experience, culture, and family values.</p><p><b>Locus of control</b> is internal when a person believes they can influence their health. It is external when they believe outside factors control it. <b>Self-concept</b> is how people see themselves: self-esteem, body image, roles, and abilities. These beliefs affect motivation, coping, and treatment decisions.</p><p>Thoughts lead to feelings, feelings to behaviors, and behaviors to outcomes. Negative thinking can trigger stress, anxiety, illness, and burnout. Positive reframing improves mood and coping. Nurses help clients notice and reframe distorted thinking. Stress management is essential.</p><p>Self-efficacy, a common NCLEX term, is confidence in doing one specific thing. Small successes build it.</p>",
           "bullets": [
             "“My father had a heart attack, so it doesn’t matter what I do.” Explore the belief. Then explain that inherited and lifestyle risks both count.",
             "“My health is in God’s hands.” Ask what that belief means for their care before building a plan.",
@@ -512,8 +640,9 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "What are the stages of change?",
-          "keyIdea": "Use the client’s own words to find their stage, then match your next step to that stage.",
-          "body": "<p>People move through stages when changing a habit. The path is not always a straight line. A slip, called a lapse, is a reason to find triggers and revise the plan. It does not prove change is impossible.</p><p>Do not hand a detailed quit plan to someone not yet thinking about quitting. And do not lecture about risks to someone who already has a plan. They need resources and follow-up.</p><p>The slides also list termination. That means the change is fully part of life. Not every behavior reaches it.</p>",
+          "keyIdea": "Use the client’s words to find their stage of change, then match your next step to that stage. Relapse is common and expected.",
+          "source": "Module 7 slides 29",
+          "body": "<p>Changing behavior is hard. Willpower alone is not enough. The Transtheoretical Model says motivation builds through six stages.</p><p>Change is not linear. Relapse is common and expected. It is a reason to find triggers and revise the plan, not proof that change is impossible.</p><p>Do not hand a detailed quit plan to someone not yet considering change. Do not lecture about risks to someone who already has a plan. They need resources and follow-up.</p>",
           "table": {
             "headers": [
               "Client says",
@@ -523,36 +652,42 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "“I don’t see a reason to stop.”",
-                "Precontemplation: not thinking about change",
+                "Precontemplation: not considering change",
                 "Explore beliefs. Offer information with permission."
               ],
               [
                 "“Part of me wants to, but I’m afraid.”",
-                "Contemplation: weighing it",
+                "Contemplation: thinking about it, uncertain",
                 "Explore the mixed feelings and confidence."
               ],
               [
                 "“I picked a quit date and downloaded an app.”",
-                "Preparation: planning steps",
+                "Preparation: committed, planning next steps",
                 "Help with concrete first steps and resources."
               ],
               [
                 "“I quit 3 weeks ago; evenings are hard.”",
-                "Action: doing it now",
+                "Action: actively making the change",
                 "Troubleshoot triggers, affirm effort, arrange support."
               ],
               [
                 "“I’ve kept this routine for months.”",
-                "Maintenance: keeping it going",
+                "Maintenance: sustaining the change",
                 "Reinforce strategies and plan for setbacks."
+              ],
+              [
+                "“I don’t even think about smoking now.”",
+                "Termination: change fully part of life (rarely reached)",
+                "Affirm the change. Keep routine follow-up."
               ]
             ]
           }
         },
         {
           "heading": "How do I talk to build motivation?",
-          "keyIdea": "Open questions, reflection, and honest affirmation build motivation; blame, threats, and lectures shut it down.",
-          "body": "<p>Use open-ended questions to hear the client’s story. Reflect back what you heard, so the client can correct you. Affirm real effort, like “You found a way to eat vegetables even on double-shift days.”</p><p>Show empathy without saying you know exactly how they feel. Ask permission before giving information. Then use plain words and invite a response.</p><p>Let the client choose the first change. If a client smokes, sleeps five hours, and rarely exercises, ask which change feels most possible. Readiness predicts success better than the nurse’s ranking.</p><p>Remember: you can support an adult’s choices, but you cannot control them.</p>",
+          "keyIdea": "Empathy, affirmations, open-ended questions, and reflection build motivation; blame, threats, and lectures shut it down.",
+          "source": "Module 7 slides 36",
+          "body": "<p>Implementation puts the plan into action. It requires therapeutic communication. Focus on motivation, readiness, and partnership, not just education.</p><p><b>Empathy</b> means understanding feelings and reducing stress. Do not claim to know exactly how they feel. <b>Affirmations</b> encourage confidence and self-worth, like “You found a way to eat vegetables even on double-shift days.” <b>Open-ended questions</b> explore thoughts and feelings. <b>Reflection</b> repeats and validates what the client shares, so they can correct you.</p><p>Let the client choose the first change. Ask which change feels most possible. Remember: you can support an adult’s choices, but you cannot control them.</p>",
           "table": {
             "headers": [
               "Helpful",
@@ -581,7 +716,8 @@ window.NURSE_DATA.push({
         {
           "heading": "How do I write a SMART-EST goal?",
           "keyIdea": "A strong goal names what the client will do, how much, how often, and when you will review it.",
-          "body": "<p>Use the nursing process, called ADPIE. Assess habits, beliefs, readiness, symptoms, resources, and support. Identify the problem, risk, or readiness to improve. Plan a shared goal. Implement the actions and referrals. Evaluate the results and revise.</p><p>SMART means specific, measurable, achievable, relevant, and time-bound. The course adds EST: evidence-based, strategic, and tailored.</p><p>“Exercise more” has no clear endpoint, so it cannot be measured. A better goal is: “For the next week, I will walk indoors for five minutes after breakfast on four days, as tolerated, and record symptoms.”</p><p>Fit the start point to the client. Do not give everyone the same amount. Set a review date.</p>",
+          "source": "Module 7 slides 32–35, 37",
+          "body": "<p>Use the nursing process, called ADPIE. Assess habits, beliefs, readiness, resources, and support. Diagnose problems, risks, and wellness strengths. Plan with the client and the interprofessional team. Implement. Evaluate and revise.</p><p>SMART means specific, measurable, achievable, relevant, and time-bound. The course adds EST: evidence-based, strategic, and tailored.</p><p>“Exercise more” has no clear endpoint, so it cannot be measured. A better goal is: “For the next week, I will walk indoors for five minutes after breakfast on four days, as tolerated, and record symptoms.”</p><p>Fit the start point to the client. Set a review date.</p>",
           "steps": [
             "Ask the client to choose the behavior and say why it matters.",
             "Assess ability, safety, readiness, and access.",
@@ -591,13 +727,19 @@ window.NURSE_DATA.push({
           ]
         },
         {
-          "heading": "What about supplements, support, and follow-up?",
-          "keyIdea": "Ask about every product without judgment, and coordinate review instead of stopping or adding therapy yourself.",
-          "body": "<p>Complementary therapy is used with regular care. Alternative therapy replaces it. Integrative care blends suitable, evidence-informed approaches into one plan.</p><p>Ask about supplements, traditional practices, and relaxation methods. Record the details. “Natural” does not mean safe. A client on warfarin who starts ginkgo needs a pharmacist or prescriber review.</p><p>Replacing a prescribed drug is a bigger safety concern. If a client stopped a blood pressure pill for an herbal product, first check the current blood pressure and the product. Then coordinate with the provider.</p><p>At follow-up, ask what actually happened. If a client met a goal on only two of eight days, affirm progress and find the barrier. Then revise the plan together.</p>"
+          "heading": "What about integrative care and social support?",
+          "keyIdea": "Complementary care blends with conventional care, alternative care replaces it, and social support makes change last.",
+          "source": "Module 7 slides 30–31; supplement safety added for the NCLEX",
+          "body": "<p>U.S. health care has focused on “sick care.” Rising costs and client demand are shifting it toward wellness and prevention.</p><p><b>Alternative care</b> replaces conventional medicine. It is rare, such as special diets instead of chemotherapy. <b>Complementary care</b> blends nontraditional and conventional treatments, such as yoga, massage, acupuncture, or supplements. <b>Integrative health care</b> combines evidence-based medicine and wellness practices. It focuses on mind, body, and spirit through partnership.</p><p>Ask about every product without judgment. “Natural” does not mean safe. A client on warfarin who starts ginkgo needs pharmacist or prescriber review. If a client replaced a prescribed drug, check their status and coordinate with the provider.</p><p>Supportive environments make change last. Isolation is a major health risk, comparable to smoking and obesity. Nurses foster connection.</p>",
+          "bullets": [
+            "Groups at risk for isolation: older adults, low-income families, immigrants, LGBTQ+ individuals, and people with chronic illness.",
+            "COVID-19 isolation increased depression, anxiety, and stress."
+          ]
         },
         {
           "heading": "Common traps",
           "keyIdea": "Most traps confuse the action with its purpose, or the nurse’s timeline with the client’s readiness.",
+          "source": "Module 7 slides 22, 29, 31; other rows added for the NCLEX",
           "body": "<p>Use this table to separate ideas that look alike on exam questions.</p>",
           "table": {
             "headers": [
@@ -615,15 +757,15 @@ window.NURSE_DATA.push({
               ],
               [
                 "Screening vs. primary",
-                "Screening finds a problem early. That is secondary."
+                "Screening detects disease early. That is secondary."
               ],
               [
                 "Preparation vs. action",
                 "Planning steps is preparation. Doing the behavior is action."
               ],
               [
-                "Lapse vs. failure",
-                "A lapse is a slip. Explore triggers and revise."
+                "Relapse vs. failure",
+                "Relapse is common and expected. Explore triggers and revise."
               ],
               [
                 "Complementary vs. alternative",
@@ -643,7 +785,8 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Identify the stage or prevention level from the stem, then choose the response that fits it.",
-          "body": "<p>Expect “which level of prevention” items, select-all lists, and stage-of-change statements. You may also see goal-writing items and follow-up after a lapse.</p><p>Sample question: A client says, “My grandfather smoked until he was 90. I don’t see any reason to quit.” Which response is best?</p>",
+          "source": "Added for the NCLEX — not in course materials",
+          "body": "<p>Expect “which level of prevention” items, select-all lists, and stage-of-change statements. You may also see goal-writing items and follow-up after a relapse.</p><p>Sample question: A client says, “My grandfather smoked until he was 90. I don’t see any reason to quit.” Which response is best?</p>",
           "steps": [
             "<b>Read the stem:</b> the client sees no reason to change.",
             "<b>What is it really asking?</b> Which stage is this, and what fits that stage?",
@@ -656,13 +799,14 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: readiness changes the next step",
           "keyIdea": "Mixed feelings mean contemplation, so explore them before you offer a quit plan.",
-          "body": "<p>Mr. J says he is thinking about quitting tobacco. He worries it is his only way to cope with stressful shifts. He has not set a date.</p><p>A detailed quit calendar now gives good information at the wrong time. He is in contemplation. Explore what he likes and dislikes about smoking and what else helps with stress.</p><p>Reflect without approving the risk: “You want the health benefit, but you worry about losing a way to cope.” Later, if he picks a date and gathers help, he is in preparation. If he lapses after starting, explore the trigger. Do not treat the lapse as proof he was not serious.</p>",
+          "source": "Added: worked example based on Module 7 slides 29, 36",
+          "body": "<p>Mr. J says he is thinking about quitting tobacco. He worries it is his only way to cope with stressful shifts. He has not set a date.</p><p>A detailed quit calendar now gives good information at the wrong time. He is in contemplation. Explore what he likes and dislikes about smoking and what else helps with stress.</p><p>Reflect without approving the risk: “You want the health benefit, but you worry about losing a way to cope.” Later, if he picks a date and gathers help, he is in preparation. If he relapses after starting, explore the trigger. Do not treat the relapse as proof he was not serious.</p>",
           "steps": [
             "Use his words to find his stage: contemplation.",
             "Explore mixed feelings before assuming commitment.",
             "Ask what support he would find useful.",
             "Build concrete steps once he is preparing.",
-            "After a lapse, review triggers and revise the plan."
+            "After a relapse, review triggers and revise the plan."
           ],
           "check": {
             "q": "What would show Mr. J moving from contemplation to preparation?",
@@ -671,22 +815,24 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 7 slides 20–37 (course notes and clarifications)",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
-            "Source: Module 7, slides 20–37 and 49.",
-            "Prevention levels, stages of change, locus of control, integrative care, and SMART-EST come from the course slides.",
-            "Examples are original applications of those concepts."
+            "Source: Module 7, slides 20–37.",
+            "Prevention levels, national goals, risk factors, beliefs, stages of change, communication skills, integrative care, and SMART-EST come from the course slides.",
+            "Self-efficacy, supplement safety, and the examples are added to help you apply the slides.",
+            "The course uses “relapse” for slipping back during change. Some texts call a brief slip a “lapse.”"
           ]
         }
       ],
       "mnemonics": [
         {
           "name": "Prevent, Screen, Support",
-          "text": "Primary = <b>Prevent</b> it. Secondary = <b>Screen</b> for it. Tertiary = <b>Support</b> recovery and limit harm."
+          "text": "Primary = <b>Prevent</b> it before it occurs. Secondary = <b>Screen</b> to detect and treat it early. Tertiary = <b>Support</b> recovery and reduce its impact."
         },
         {
-          "name": "Please Come Prepared And Motivated",
-          "text": "<b>P</b>recontemplation, <b>C</b>ontemplation, <b>P</b>reparation, <b>A</b>ction, <b>M</b>aintenance."
+          "name": "Please Come Prepared And Motivated Today",
+          "text": "<b>P</b>recontemplation, <b>C</b>ontemplation, <b>P</b>reparation, <b>A</b>ction, <b>M</b>aintenance, <b>T</b>ermination."
         }
       ],
       "pearls": [
@@ -717,7 +863,7 @@ window.NURSE_DATA.push({
         },
         {
           "q": "A client who quit smoking two months ago smoked three cigarettes at a party. What should the nurse do?",
-          "a": "Explore the trigger, recognize the progress made, and revise the plan together. Do not call it failure."
+          "a": "Recognize the progress, explore the trigger, and revise the plan together. Relapse is common and expected, not failure."
         },
         {
           "q": "A nursing student says a client recovering from pneumonia “needs 150 minutes of activity this week.” What is the problem?",
@@ -732,7 +878,7 @@ window.NURSE_DATA.push({
       "summary": "Learn the types and benefits of exercise, then fit activity to the client’s ability, goals, symptoms, and surroundings, and know when to stop.",
       "objectives": [
         "You can tell physical activity, exercise, and fitness apart.",
-        "You can match aerobic, strength, flexibility, and balance work to a goal.",
+        "You can match aerobic, anaerobic, endurance, strength, interval, and flexibility work to a goal.",
         "You can name isotonic, isometric, and isokinetic exercise from what the joint does.",
         "You can use the talk test and lifespan guidelines safely.",
         "You can name the stop-and-report symptoms during activity.",
@@ -742,7 +888,7 @@ window.NURSE_DATA.push({
       "recap": [
         "Activity is any energy-using movement. Exercise is planned activity to build fitness.",
         "Isometric: muscle tightens, joint does not move. Isotonic: the joint moves.",
-        "Isokinetic means machine-controlled constant speed, not just “using a machine.”",
+        "Isokinetic means controlled movement at a constant speed using equipment, often in rehab.",
         "Talk test: moderate means you can talk but not sing. Vigorous means only a few words.",
         "Adults: 150–300 moderate or 75–150 vigorous minutes weekly, plus strength work on 2 or more days.",
         "Children and teens: at least 60 minutes of moderate-to-vigorous activity every day.",
@@ -752,35 +898,35 @@ window.NURSE_DATA.push({
       "keyTerms": [
         {
           "term": "Physical activity",
-          "def": "Any body movement that uses skeletal muscles and energy."
+          "def": "Any movement using skeletal muscles that increases energy use."
         },
         {
           "term": "Exercise",
-          "def": "Planned, repeated physical activity done to improve or maintain fitness."
+          "def": "Planned, purposeful, repeated activity to improve fitness."
         },
         {
           "term": "Physical fitness",
-          "def": "The capacity and well-being supported by activity, nutrition, sleep, and other healthy habits."
+          "def": "Well-being in the physical dimension of wellness, from exercise, nutrition, sleep, and avoiding harmful substances."
         },
         {
           "term": "Aerobic exercise",
-          "def": "Steady activity that relies mostly on oxygen to make energy, like brisk walking or cycling."
+          "def": "Exercise that uses oxygen for energy, like swimming or cycling. It builds stamina."
         },
         {
           "term": "Anaerobic exercise",
-          "def": "Short, very hard effort that relies mostly on energy pathways not needing oxygen, like a sprint."
+          "def": "Exercise that uses stored glucose without oxygen, like sprinting or heavy lifting. It builds strength and power."
         },
         {
           "term": "Isotonic contraction",
-          "def": "The muscle changes length and the joint moves against resistance, like a biceps curl."
+          "def": "The muscle contracts with movement against resistance, like a squat or biceps curl."
         },
         {
           "term": "Isometric contraction",
-          "def": "The muscle tightens but the joint does not move, like a quadriceps set."
+          "def": "Muscle tension without joint movement, like a plank or quadriceps set."
         },
         {
           "term": "Isokinetic exercise",
-          "def": "Movement at a constant, machine-controlled speed, usually with special rehab equipment."
+          "def": "Controlled movement at a constant speed using equipment. Often used in rehab."
         },
         {
           "term": "Valsalva maneuver",
@@ -805,56 +951,95 @@ window.NURSE_DATA.push({
       ],
       "sections": [
         {
-          "heading": "Why does activity matter to clients?",
-          "keyIdea": "Activity helps body and mind, but tie it to a goal the client values instead of promising cures.",
-          "body": "<p>Regular activity builds endurance, strength, balance, coordination, and mobility. It helps control blood pressure and blood sugar. It supports bone strength and independence.</p><p>Activity also helps the mind. It can improve mood, lower stress, improve sleep, and create social connection.</p><p>Do not promise too much. Exercise does not prevent every disease or cure a chronic condition. For a client with depression, say exercise can help mood, but it does not replace treatment.</p><p>Ask which benefit matters most. A client may care more about gardening again than about lowering a future risk. A functional goal makes the plan real and motivating.</p>",
-          "example": "An older adult wants to attend a community meal. The plan may combine walking endurance, safe transfers, balance work, and transport help. It does not need to focus only on weight."
-        },
-        {
-          "heading": "What types of exercise are there?",
-          "keyIdea": "Pick the exercise type that matches the client’s goal and ability, not the hardest option available.",
-          "body": "<p>Aerobic activity includes brisk walking, swimming, dancing, and cycling. Anaerobic efforts are short and intense, like sprints or heavy lifting. Most activities use both energy systems. The terms describe the main demand, not whether the body has oxygen.</p><p>Interval training switches between hard and easy effort. It is not automatically right for a beginner or someone medically unstable.</p><p>A full plan often mixes several types. Match the activity to the goal and to what the client can do now.</p>",
+          "heading": "What are fitness, activity, and exercise?",
+          "keyIdea": "Activity is any muscle movement that uses energy; exercise is planned activity to build fitness. Both help every body system and the mind.",
+          "source": "Module 7 slides 40–42, 46–47",
+          "body": "<p><b>Physical fitness</b> is well-being in the physical dimension of wellness. It comes from regular exercise, balanced nutrition, enough sleep and rest, and avoiding harmful substances. It raises endurance, strength, mobility, balance, coordination, and agility. It lowers the risk of chronic disease, disability, and illness.</p><p><b>Physical activity</b> is any movement using skeletal muscles that increases energy use. Walking, gardening, and ADLs count. “Move more, sit less.” Every minute counts.</p><p><b>Exercise</b> is planned, purposeful, repeated activity to improve fitness. It is preventive, curative, and restorative. Choose activities the client enjoys and can keep doing.</p><p>Ask which benefit matters most. A client may care more about gardening again than about a future risk. Do not promise exercise will prevent every disease.</p>",
           "table": {
             "headers": [
-              "Goal",
-              "Possible activity",
-              "Keep in mind"
+              "Body system",
+              "Benefits of exercise"
             ],
             "rows": [
               [
-                "Endurance",
-                "Walking or swimming",
-                "Progress gradually."
+                "Cardiovascular",
+                "↑ heart strength, circulation, HDL. ↓ BP, inflammation, heart disease risk."
               ],
               [
-                "Strength",
-                "Resistance bands or weights",
-                "Use good technique and a safe load. Supports muscles and bones."
+                "Respiratory",
+                "↑ lung capacity and oxygen efficiency. ↓ dyspnea in COPD and asthma."
               ],
               [
-                "Flexibility",
-                "Gentle stretching",
-                "Never force a painful movement."
+                "Musculoskeletal",
+                "↑ muscle mass, bone density, joint stability, flexibility. ↓ fall risk."
               ],
               [
-                "Balance",
-                "Supported balance work",
-                "Assess fall risk and need for supervision."
+                "Gastrointestinal",
+                "Better metabolism and gut health. ↓ colon cancer, IBD, obesity risk."
+              ],
+              [
+                "Endocrine",
+                "↑ insulin sensitivity and glucose control. ↓ type 2 diabetes risk."
+              ],
+              [
+                "Immune",
+                "Stronger immunity. ↓ risk of several cancers."
+              ],
+              [
+                "Brain and mood",
+                "Better memory, focus, sleep, and mood. ↓ anxiety, depression, dementia, Parkinson disease risk. Builds new brain connections (neuroplasticity)."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What types of exercise are there?",
+          "keyIdea": "Aerobic exercise uses oxygen and builds stamina; anaerobic uses stored glucose without oxygen and builds strength and power. Combining both improves fitness.",
+          "source": "Module 7 slides 43–44",
+          "body": "<p><b>Aerobic exercise</b> uses oxygen for energy. Examples are swimming, running, dancing, and cycling. It builds stamina and heart and lung endurance.</p><p><b>Anaerobic exercise</b> uses stored glucose without oxygen. Examples are sprinting, heavy lifting, and HIIT. It builds muscle strength and power. Combining both improves overall fitness.</p><p>The course also sorts exercise into four training categories. A full plan often mixes several. Match the activity to the client’s goal and what they can do now. Interval training is not automatically right for a beginner or someone medically unstable.</p>",
+          "table": {
+            "headers": [
+              "Category",
+              "What it does",
+              "Examples"
+            ],
+            "rows": [
+              [
+                "Endurance training",
+                "Raises heart rate and stamina",
+                "Running, swimming"
+              ],
+              [
+                "Strength training",
+                "Builds muscle and bone",
+                "Weights, bands, squats"
+              ],
+              [
+                "Interval training",
+                "Short bursts of high intensity",
+                "HIIT, cycling sprints"
+              ],
+              [
+                "Flexibility training",
+                "Improves balance and range of motion",
+                "Yoga, Pilates, t’ai chi"
               ]
             ]
           }
         },
         {
           "heading": "Isotonic, isometric, or isokinetic?",
-          "keyIdea": "Name the type by what the joint does: moves, stays still, or moves at a machine-controlled speed.",
-          "body": "<p><b>Isotonic</b> exercise moves a joint against resistance. The muscle changes length. Examples are biceps curls, rising from a chair, and climbing stairs.</p><p><b>Isometric</b> exercise tightens a muscle while the joint stays still. Examples are a quadriceps set and a wall sit. It keeps muscles strong when a joint cannot move, such as in a cast or after surgery that limits motion.</p><p>Isometric effort can raise blood pressure sharply, especially if the client holds their breath. Teach clients to keep breathing. Use caution with heart disease, as the care plan directs.</p><p><b>Isokinetic</b> exercise uses special equipment that keeps the speed constant. A treadmill or a regular stationary bike is not isokinetic just because it is a machine.</p>",
+          "keyIdea": "Name the type by what the joint does: moves against resistance, stays still, or moves at a constant speed set by equipment.",
+          "source": "Module 7 slides 45; breath-holding caution added for the NCLEX",
+          "body": "<p><b>Isotonic</b> exercise is a muscle contracting with movement against resistance. Examples are squats, stair climbing, and biceps curls. It builds bone density, strength, and joint mobility.</p><p><b>Isometric</b> exercise is muscle tension without joint movement. Examples are planks, wall sits, yoga poses, and quadriceps sets. It improves stability and can be adapted for limited mobility, such as a leg in a cast.</p><p><b>Isokinetic</b> exercise is controlled movement at a constant speed using equipment. Course examples are adaptive resistance machines, stationary bikes, and treadmills. It is often used in rehab to rebuild strength safely.</p><p>Isometric effort can raise blood pressure sharply if the client holds their breath. Teach clients to keep breathing. Use caution with heart disease.</p>",
           "analogy": "Isotonic: lift and lower a grocery bag. Isometric: push against a wall that will not move. Isokinetic: a rehab machine sets the speed for you.",
           "example": "A client in a long leg cast wants to keep thigh strength. Teach quadriceps sets, which are isometric. Remind the client to breathe normally during each hold."
         },
         {
           "heading": "How hard is the client working?",
-          "keyIdea": "Moderate means the client can talk but not sing; vigorous means only a few words before a breath.",
-          "body": "<p>The talk test is a quick way to judge intensity. It works for stable clients. It does not replace assessment or rehab orders.</p><p>Some drugs change the body’s response. Beta blockers, such as metoprolol, keep the heart rate low. A client on one may never reach a heart rate target on a watch. Guide intensity by the talk test and symptoms instead.</p><p>The talk test shows intensity. It does not show the total amount of activity for the week.</p>",
+          "keyIdea": "Moderate means the client can talk but not sing; vigorous means only a few words before pausing for breath.",
+          "source": "Module 7 slides 44; beta-blocker and safety tips added for the NCLEX",
+          "body": "<p>The talk test is a quick way to judge intensity. It works for stable clients. It does not replace assessment or rehab orders.</p><p>The course safety rule is “Challenge yourself, not your limits.” Avoid pain to prevent injury.</p><p>Some drugs change the body’s response. Beta blockers, such as metoprolol, keep the heart rate low. A client on one may never reach a heart rate target. Guide intensity by the talk test and symptoms instead.</p><p>The talk test shows intensity. It does not show the total amount of activity for the week.</p>",
           "table": {
             "headers": [
               "Talk test",
@@ -881,8 +1066,9 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "How much activity is recommended?",
-          "keyIdea": "Guidelines are weekly or daily targets for populations, so start each client where they are and build up.",
-          "body": "<p>School-age children and teens need at least 60 minutes of moderate-to-vigorous activity every day. This includes muscle- and bone-strengthening activity. Gym class twice a week is not enough.</p><p>Adults aim for 150–300 minutes of moderate activity a week, or 75–150 minutes of vigorous activity. They also need muscle strengthening on at least two days. These are weekly totals. An adult who walks 25 minutes six days a week meets the aerobic goal but still needs strength work.</p><p>Older adults follow the adult targets as able and add balance and functional activity. People with chronic conditions or disability should be as active as their abilities allow. The slides describe 150 moderate minutes a week for an uncomplicated pregnancy, coordinated with the obstetric team.</p>",
+          "keyIdea": "Guidelines are targets for each age group, so start each client where they are and build up.",
+          "source": "Module 7 slides 26, 48",
+          "body": "<p>Children and teens (6–17 years) need at least 60 minutes a day of moderate-to-vigorous activity. Include aerobic, muscle-strengthening, and bone-strengthening activity. Gym class twice a week is not enough.</p><p>Adults (18–64) aim for 150–300 minutes a week of moderate activity, or 75–150 minutes of vigorous activity. Add muscle strengthening on 2 or more days. These are weekly totals.</p><p>Older adults (65+) follow the adult guidelines as able and add balance training to prevent falls. Pregnant and postpartum people aim for at least 150 minutes a week of moderate activity. They avoid high-risk or supine (flat on the back) positions after the first trimester. People with chronic conditions or disabilities should be as active as their abilities allow, under health care provider guidance.</p>",
           "table": {
             "headers": [
               "Person",
@@ -899,35 +1085,39 @@ window.NURSE_DATA.push({
               ],
               [
                 "Older adult",
-                "Add balance and functional strength with safety support."
+                "Add balance training with safety support."
               ],
               [
                 "Chronic disease or disability",
-                "Adapt activity and equipment to function and the care plan."
+                "Be as active as able, under provider guidance."
               ],
               [
-                "Pregnancy",
-                "Consider complications and prior activity. Coordinate with the obstetric team."
+                "Pregnant or postpartum",
+                "No high-risk or supine positions after the first trimester. Coordinate with the obstetric team."
               ]
             ]
           },
           "example": "A sedentary adult says, “I need 150 minutes, so I’ll walk 150 minutes on Saturday.” Explain that 150 is a weekly total. Start with shorter walks and build up."
         },
         {
-          "heading": "What should I assess before recommending activity?",
-          "keyIdea": "Check safety, ability, confidence, and access before you suggest any activity plan.",
-          "body": "<p>Ask about usual activity, symptoms, falls, pain, devices, injuries, and what the client enjoys. Review diagnoses, restrictions, and medicines.</p><p>Ability and confidence differ. A client may be strong enough to walk but afraid of falling again. Another may be willing but have no safe place to walk. “Join a gym” fails if the client cannot afford it.</p><p>Assess readiness, too. A client in contemplation may need to talk about fears first. A client who is preparing may need help picking a safe start.</p><p>Refer to physical or occupational therapy for rehab and equipment needs.</p>",
-          "steps": [
-            "Assess baseline ability, symptoms, restrictions, and fall risk.",
-            "Ask about fears, preferences, cost, and a safe place to be active.",
-            "Write a SMART goal with the client: activity, amount, frequency, and review date.",
-            "Teach technique and have the client show it back.",
-            "Evaluate distance, assistance, symptoms, recovery time, and function."
+          "heading": "How do I assess and support activity?",
+          "keyIdea": "Check safety, ability, confidence, and access, then use the course’s nursing interventions to support activity.",
+          "source": "Module 7 slides 49; assessment points added for the NCLEX",
+          "body": "<p>Ask about usual activity, symptoms, falls, pain, devices, and what the client enjoys. Review diagnoses, restrictions, and medicines.</p><p>Ability and confidence differ. A client may be strong enough to walk but afraid of falling. Another may be willing but have no safe place to walk. “Join a gym” fails if the client cannot afford it.</p><p>Assess readiness, too. Refer to physical or occupational therapy for rehab and equipment needs.</p>",
+          "bullets": [
+            "Model healthy exercise attitudes and behaviors.",
+            "Set SMART goals with the client and plan follow-up.",
+            "Teach stretching, warm-up, and self-care strategies.",
+            "Encourage family and community participation.",
+            "Teach safe use of exercise tools and equipment.",
+            "Advocate for access to gyms, parks, and safe spaces.",
+            "Support motivation, acknowledge barriers, and celebrate progress."
           ]
         },
         {
           "heading": "When must activity stop?",
           "keyIdea": "New chest discomfort, severe breathlessness, dizziness, or near-fainting means stop now and assess.",
+          "source": "Added for the NCLEX — not in course materials (builds on the slide 44 safety rule)",
           "body": "<p>Pain is not proof that exercise is working. Sharp pain during exercise means stop and assess.</p><p>If a client feels faint while walking, stop and get them safely seated first. Then assess.</p><p>Review unstable illness with the provider before starting or advancing exercise. A client with very high blood pressure should not start a high-intensity class tomorrow. In pregnancy, a warning sign means stop and get prompt obstetric evaluation.</p><p>The RN can delegate routine walks for stable clients to assistive personnel (UAP). The RN keeps assessment, teaching, evaluation, and decisions to progress. If a UAP reports chest symptoms after a walk, the RN assesses the client personally and promptly.</p>",
           "bullets": [
             "New chest discomfort or pressure",
@@ -939,6 +1129,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps",
           "keyIdea": "Classify by mechanism and judge readiness by assessment, not by motivation or minutes.",
+          "source": "Module 7 slides 44–45, 48; other rows added for the NCLEX",
           "body": "<p>These pairs look alike on the exam. Here is how to tell them apart.</p>",
           "table": {
             "headers": [
@@ -948,11 +1139,11 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "Isometric vs. isotonic",
-                "Joint still is isometric. Joint moving is isotonic."
+                "Joint still is isometric. Joint moving against resistance is isotonic."
               ],
               [
-                "Isokinetic vs. any machine",
-                "Isokinetic requires controlled constant speed. A self-paced bike is not."
+                "Isokinetic vs. isotonic",
+                "Isokinetic uses equipment to keep a constant speed. Isotonic is free movement against resistance, like squats."
               ],
               [
                 "Moderate vs. vigorous",
@@ -984,6 +1175,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Safety symptoms beat targets, and the RN keeps assessment, teaching, and evaluation.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Expect contraction-type items, talk-test items, and guideline numbers. Priority items ask which client in a walking program needs follow-up first. Delegation items ask which activity task fits a UAP.</p><p>Sample question: A stable client begins a planned walk and reports new chest pressure and marked shortness of breath. What should the nurse do first?</p>",
           "steps": [
             "<b>Read the stem:</b> a stable client, a planned walk, new chest pressure, and marked breathlessness.",
@@ -997,6 +1189,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: function before a target",
           "keyIdea": "A valued goal guides the plan, but assess tolerance and route safety before starting.",
+          "source": "Added: worked example based on Module 7 slides 44, 48–49",
           "body": "<p>Mrs. B fell two months ago. She uses a cane indoors and tires quickly. She wants to walk to a nearby shop again. The route has uneven pavement.</p><p>A weekly activity target is background only. It does not prove she can do this route safely today. Ask what the shop visit means to her. It might be independence, friendship, or getting food.</p><p>A therapist can check her technique and device. Community services can help with access while she builds endurance. Teach her the stop signs. Moderate effort is expected. New chest pressure means stop and get help.</p>",
           "steps": [
             "Connect activity to her goal: walking to the shop.",
@@ -1012,22 +1205,25 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 7 slides 38–49 (course notes and clarifications)",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
             "Source: Module 7, Exemplar 7.A, slides 38–49.",
-            "Isokinetic exercise is defined by constant, controlled speed. The slide lists broad equipment examples, but ordinary exercise machines do not meet this definition by themselves.",
-            "Activity targets still require individual assessment."
+            "Isokinetic exercise: controlled movement at a constant speed using equipment. The slide’s examples are adaptive resistance machines, stationary bikes, and treadmills. Use these for course exams.",
+            "Clinical note: true isokinetic rehab devices hold the speed constant whatever force the client uses.",
+            "Aerobic and anaerobic follow the slide: oxygen for energy vs. stored glucose without oxygen. In real life most activities use both.",
+            "Stop signs, delegation, and beta-blocker tips are added for the NCLEX. Activity targets still require individual assessment."
           ]
         }
       ],
       "mnemonics": [
         {
           "name": "Three “iso” words",
-          "text": "Iso<b>metric</b> = <b>m</b>uscle tight, joint <b>m</b>otionless. Iso<b>tonic</b> = joint moves (think “toning” with curls). Iso<b>kinetic</b> = <b>k</b>ept at constant speed by a machine."
+          "text": "Iso<b>metric</b> = <b>m</b>uscle tight, joint <b>m</b>otionless. Iso<b>tonic</b> = joint moves against resistance (think “toning” with curls). Iso<b>kinetic</b> = <b>k</b>ept at constant speed by equipment."
         }
       ],
       "pearls": [
-        "Classify exercise by joint movement and mechanism, not by equipment name.",
+        "Classify a contraction by what the joint does: moves, stays still, or moves at a constant set speed.",
         "Moderate intensity: the client can talk but not sing.",
         "With a beta blocker, guide intensity by the talk test and symptoms.",
         "Individualize guideline totals to current capacity.",
@@ -1046,8 +1242,8 @@ window.NURSE_DATA.push({
           "a": "Isometric. The muscle develops tension without joint movement."
         },
         {
-          "q": "A student says a client riding a stationary bike at a self-chosen pace is doing isokinetic exercise. Is that right?",
-          "a": "No. Isokinetic exercise needs controlled constant speed, usually with special equipment."
+          "q": "A rehab client uses an adaptive resistance machine that keeps the movement at a constant speed. What type of exercise is this?",
+          "a": "Isokinetic. It is controlled movement at a constant speed using equipment, often used in rehab."
         },
         {
           "q": "A runner can say only a few words before taking a breath. What intensity is this, and how many minutes a week meet the aerobic minimum?",
@@ -1072,7 +1268,7 @@ window.NURSE_DATA.push({
         "You can describe the main mouth structures and what saliva does.",
         "You can tell plaque, tartar, cavities, gingivitis, and periodontal disease apart.",
         "You can assess oral habits, function, risk, and access to dental care.",
-        "You can teach current fluoride and first dental visit guidance for children.",
+        "You can teach both the course and current fluoride and dental-visit guidance for children.",
         "You can give safe oral care to clients with aspiration risk or dentures.",
         "You can decide what to delegate and how to evaluate oral care."
       ],
@@ -1080,10 +1276,10 @@ window.NURSE_DATA.push({
       "recap": [
         "Oral health supports eating, speaking, comfort, and dignity.",
         "Plaque is a soft film. Tartar is hardened plaque that needs professional removal.",
-        "Brushing can help early enamel changes. It cannot fix an established cavity.",
+        "Early decay can be reversed with fluoride and minerals. An established cavity needs a dentist.",
         "Bleeding gums need gentle, continued brushing and assessment, never stopping care.",
-        "Under age 3: a rice-sized smear of fluoride toothpaste from the first tooth.",
-        "Dental home by the first tooth, and no later than the first birthday.",
+        "Slide: brush with water at 18 months. Current guidance: rice-sized fluoride smear from the first tooth.",
+        "Slide: first dental visit by 6 months. Current guidance: dental home by the first birthday.",
         "Aspiration risk changes how oral care is done, not whether it is done.",
         "Facial swelling with fever, drooling, or trouble swallowing is an airway emergency."
       ],
@@ -1114,11 +1310,11 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Tartar (calculus)",
-          "def": "Hardened plaque. Routine brushing cannot remove it; a dental professional must."
+          "def": "Hardened plaque that irritates gums and damages bone. A dental professional must remove it."
         },
         {
           "term": "Dental caries",
-          "def": "Tooth decay. Bacteria turn sugars and starches into acid that damages the tooth."
+          "def": "Tooth decay. Bacteria turn sugars and starches into acid that breaks down enamel."
         },
         {
           "term": "Gingivitis",
@@ -1130,7 +1326,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Pyorrhea",
-          "def": "An older term in the source for advanced gum disease with pus."
+          "def": "The course term for advanced periodontal disease, with pus, receding gums, and loose teeth."
         },
         {
           "term": "Xerostomia",
@@ -1156,13 +1352,23 @@ window.NURSE_DATA.push({
       "sections": [
         {
           "heading": "Why does the mouth matter?",
-          "keyIdea": "The mouth starts digestion and supports speech, so dryness or pain can quietly reduce eating.",
-          "body": "<p>The mouth includes lips, cheeks, teeth, gums, tongue, palate, and salivary glands. The visible crown of a tooth is covered in enamel. Inside is the pulp, with nerves and blood vessels. The root anchors the tooth.</p><p>Teeth break up food. The tongue moves food and helps with taste and speech. Saliva moistens food, helps swallowing, and rinses the mouth. Its enzyme, amylase, starts breaking down starch.</p><p>A dry mouth makes talking and chewing uncomfortable. It also raises the risk of decay. Do not assume dryness is just part of aging. Review fluids, medicines, illness, and ability to do care.</p><p>A client may skip meals because chewing hurts. Address the mouth, not just the intake numbers.</p>"
+          "keyIdea": "Oral health is more than teeth. It supports eating and speech and is linked to heart disease, pneumonia, diabetes, and more.",
+          "source": "Module 7 slides 52–53",
+          "body": "<p>Oral health goes beyond healthy teeth. It includes the mouth, gums, tongue, mucosa, and jaw. It supports speaking, chewing, tasting, swallowing, smiling, and communication.</p><p>Oral health is linked to heart disease, stroke, pneumonia, pregnancy outcomes, diabetes, and dementia. Prevention works: daily hygiene, fluoridated water, dental sealants, tobacco cessation, and regular exams. Disparities persist. One in 4 preschoolers has decay. One in 4 adults over 65 has lost all their teeth.</p><p>A dry or painful mouth can quietly reduce eating. A client may skip meals because chewing hurts. Address the mouth, not just the intake numbers.</p>",
+          "bullets": [
+            "<b>Structures:</b> lips, cheeks, teeth, gums, tongue, hard and soft palates, salivary glands, uvula, and tonsils.",
+            "<b>Tooth parts:</b> the crown is the visible part, covered with enamel. The pulp cavity holds blood vessels and nerves. The root anchors the tooth in the jawbone.",
+            "<b>Mastication</b> (chewing) is the first step in digestion.",
+            "<b>Saliva</b> moistens food and starts starch breakdown with the enzyme amylase.",
+            "The soft palate and uvula direct food into the esophagus during swallowing.",
+            "<b>Development:</b> 20 deciduous (baby) teeth by age 2. Permanent teeth replace them by about age 6–7. Enamel wears with age, which raises decay risk."
+          ]
         },
         {
           "heading": "Plaque, tartar, cavities, or gum disease?",
-          "keyIdea": "Soft plaque responds to daily care, while hard tartar and real cavities need a dentist.",
-          "body": "<p>Plaque bacteria feed on sugars and starches. They make acid that damages teeth. Risks for decay include frequent sugar, too little brushing, low fluoride, and dry mouth.</p><p>Early enamel changes, before a hole forms, may repair with fluoride and good care. This is called remineralization. An established cavity does not heal with brushing. It needs dental repair.</p><p>Plaque can harden into tartar, which needs professional cleaning. Gingivitis makes gums red, swollen, and bleeding. Periodontal disease goes deeper. It can cause receding gums and loose teeth.</p><p>Bleeding gums are a cue to assess technique and tissue and to refer. They are not a reason to stop brushing.</p>",
+          "keyIdea": "Soft plaque responds to daily care, hard tartar needs a dentist, and gingivitis can progress to pyorrhea.",
+          "source": "Module 7 slides 54",
+          "body": "<p><b>Dental caries</b> (cavities) happen when bacteria turn sugars and starches into acid. The acid breaks down enamel. This causes decay and permanent damage. Early decay can be reversed with fluoride and minerals, such as calcium. An established cavity does not heal with brushing. It needs dental repair.</p><p><b>Plaque</b> is a soft, sticky bacterial film on teeth. <b>Tartar</b> is hardened plaque. It irritates gums and damages bone, and it needs professional cleaning.</p><p><b>Periodontal disease</b> begins as gingivitis: red, swollen, bleeding gums. It can progress to <b>pyorrhea</b>: pus, receding gums, and loose teeth. It is linked to poor hygiene, diet, and chronic illness.</p><p>Bleeding gums are a cue to assess technique and refer. They are not a reason to stop brushing.</p>",
           "table": {
             "headers": [
               "Finding",
@@ -1186,62 +1392,77 @@ window.NURSE_DATA.push({
                 "Gentle brushing, assess, and refer as needed."
               ],
               [
-                "Receding gums, loose teeth, or pus",
-                "Possible advanced periodontal disease",
+                "Pus, receding gums, loose teeth",
+                "Pyorrhea (advanced periodontal disease)",
                 "Prompt dental evaluation."
               ],
               [
                 "Visible hole in a tooth",
                 "Established cavity",
                 "Dental restoration is needed."
-              ],
-              [
-                "Dry lining of the mouth",
-                "Xerostomia",
-                "Find the cause and offer safe moisture."
               ]
             ]
           }
         },
         {
           "heading": "What should the oral assessment include?",
-          "keyIdea": "Assess habits, mouth findings, the client’s ability to do care, and access to a dentist.",
-          "body": "<p>Inspect with good light and proper precautions. Record exact sites and findings, not “mouth bad.” Compare with earlier findings.</p><p>Check function. Can the client open containers, grip a brush, see the supplies, follow steps, and handle secretions? Weak hands, memory loss, fatigue, and pain each need a different fix.</p><p>Some clients need extra assessment and special plans. These include clients with diabetes, weak immune systems, poor nutrition, oral surgery, or head and neck radiation. Age alone is not a reason.</p><p>Medicines can cause dry mouth or gum changes. Report concerns to the prescriber. Never stop a prescribed drug on your own.</p>",
+          "keyIdea": "Ask about habits and symptoms, inspect the mouth, and know which clients are at higher risk.",
+          "source": "Module 7 slides 57–58",
+          "body": "<p>Use observation and interview. Inspect for lesions, bleeding, odor, dryness, pain, and loose teeth. Record exact sites and findings, not “mouth bad.” Compare with earlier findings.</p><p>Check function. Can the client grip a brush, see the supplies, follow steps, and handle secretions? Weak hands, memory loss, and pain each need a different fix.</p><p>Medicines such as diuretics, antihistamines, and anticonvulsants can cause xerostomia (dry mouth) or gingival hyperplasia (overgrown gums). Report concerns to the prescriber. Never stop a prescribed drug on your own.</p>",
           "bullets": [
-            "Brushing, products, and flossing habits",
-            "Last dental visit, plus cost and transport barriers",
-            "Pain, bleeding, swelling, sores, or taste changes",
-            "Tobacco use, diet, and swallowing",
-            "New medicines, such as an antidepressant causing dry mouth"
+            "<b>Ask adults:</b> daily oral care routine and products, dental visits and pain history, bleeding, swelling, dryness, or ulcers, and tobacco use or exposure.",
+            "<b>Ask about children:</b> diet, fluoride intake, bottle use, bedtime habits, and smoke exposure.",
+            "<b>At risk:</b> chronic illness such as diabetes, HIV/AIDS, or autoimmune disorders.",
+            "<b>At risk:</b> poor nutrition or hydration.",
+            "<b>At risk:</b> after oral surgery or radiation therapy.",
+            "<b>At risk:</b> medicine side effects (diuretics, antihistamines, anticonvulsants).",
+            "<b>At risk:</b> limited access to dental care or low income."
           ],
           "example": "A resident with advanced dementia cannot describe pain. She has refused meals for 3 days and guards her jaw. Inspect her mouth first. Pain there may be the cause."
         },
         {
-          "heading": "How do I protect children’s teeth?",
-          "keyIdea": "Start fluoride brushing at the first tooth and set up a dental home by the first birthday.",
-          "body": "<p>Do not put a child to bed with a bottle of milk, formula, or sweet drinks. Long, repeated exposure feeds decay.</p><p>Baby teeth matter. They support chewing, speech, and spacing for adult teeth. They are not throwaway practice teeth.</p><p>Caregivers brush or supervise based on the child’s skill. The slide suggests water-only brushing at 18 months and a first dental visit by six months. Current guidance differs, as shown below.</p><p>Chalky white bands or brown spots near the gumline of a toddler’s front teeth suggest decay. The child needs a dental evaluation and a dental home. Remove sugary bedtime bottles.</p>",
-          "bullets": [
-            "Under age 3: brush twice daily with a tiny smear of fluoride toothpaste, about the size of a grain of rice.",
-            "Ages 3 to 6: use a pea-sized amount, with supervision.",
-            "Set up a dental home when the first tooth appears, and no later than the first birthday.",
-            "Higher risk or symptoms may need an earlier visit."
-          ],
-          "example": "A parent of an 18-month-old asks how to brush. Teach caregiver brushing with a rice-sized smear of fluoride toothpaste. Ask whether the child has a dentist yet."
+          "heading": "How do I protect teeth from infancy to adulthood?",
+          "keyIdea": "Clean from the first tooth, avoid bottles in bed, and supervise brushing. Know the course timeline and the current fluoride update.",
+          "source": "Module 7 slides 55; current AAPD guidance added",
+          "body": "<p><b>Infants and toddlers.</b> Begin cleaning when the first tooth erupts, at about 5–8 months. Wipe with moist gauze or a washcloth after feedings. Do not bottle-feed during sleep. This prevents “bottle mouth” decay.</p><p><b>Preschool and school-age.</b> Brush after meals or twice daily. Limit sugary foods. Fluoride is important. Parents should supervise brushing. Keep baby teeth healthy to prevent misalignment.</p><p><b>Teens and adults.</b> Reinforce a balanced diet and regular brushing and flossing. Discuss quitting tobacco. Tobacco is a major cause of gum disease, decay, and oral cancer. Encourage routine dental visits.</p>",
+          "example": "A parent of an 18-month-old asks how to brush. Know the slide answer (water, then add fluoride gradually). In practice, teach caregiver brushing with a rice-sized smear of fluoride toothpaste, and ask whether the child has a dentist.",
+          "table": {
+            "headers": [
+              "Topic",
+              "Course slide",
+              "Current guidance (AAPD)"
+            ],
+            "rows": [
+              [
+                "Toothpaste",
+                "Brush with water at 18 months; add fluoride toothpaste gradually",
+                "Fluoride toothpaste from the first tooth: rice-sized smear under age 3, pea-sized ages 3–6"
+              ],
+              [
+                "First dental visit",
+                "By 6 months, for fluoride varnish education",
+                "Dental home at the first tooth, no later than the first birthday"
+              ]
+            ]
+          }
         },
         {
           "heading": "What changes in pregnancy and older age?",
-          "keyIdea": "Pregnancy and aging bring new risks, but neither one is a reason to skip dental care.",
-          "body": "<p>Pregnancy can make gums more inflamed and likely to bleed. Vomiting or reflux bathes teeth in acid. Encourage gentle brushing and a dental visit. Pregnancy is not a reason to avoid routine dental care.</p><p>Older adults may have dry mouth, chronic disease, medicine effects, dentures, stiff hands, or memory loss. Age alone does not mean dependence or tooth loss.</p><p>Preserve independence. Use thick-handled or electric brushes, reminders, or set-up help. For a client with dementia who pushes the brush away, try simple cues, a set routine, and letting her do what she can.</p><p>Moisture can include saliva substitutes and sips of water if swallowing is safe and fluids are allowed. With a fluid restriction, use oral care and moisture products that stay within the fluid plan.</p>",
+          "keyIdea": "Pregnancy raises gum and enamel risks, and older adults risk dry mouth and tooth loss. Neither is a reason to skip dental care.",
+          "source": "Module 7 slides 56, 58",
+          "body": "<p><b>Pregnancy.</b> Hormone changes raise the risk of gingivitis and bleeding gums. Nausea and vomiting expose teeth to acid and erode enamel. Routine dental care is safe during pregnancy. Teach a soft-bristled brush, rinsing after reflux or vomiting, and more water. Fluoride varnish may be recommended.</p><p><b>Older adults.</b> Risks are xerostomia, gum disease, decay, and tooth loss. Causes include medicines, chronic illness, poor dexterity, and dementia. Encourage frequent sips of water and rinsing after meals. Use adaptive or electric brushes, or suction devices, as needed.</p><p>In long-term care, 80% of residents lack daily oral care. Nurses must assess, assist, and advocate. With a fluid restriction, keep moisture care within the fluid plan.</p>",
           "bullets": [
-            "<b>Dentures:</b> clean them, store them in a labeled cup, and inspect the gums underneath.",
-            "A red, sore spot under a denture needs inspection and a fit check. Do not just add adhesive.",
-            "Involve the alert client in their own denture care."
+            "<b>Dentures:</b> clean daily with denture cleaner or mild toothpaste.",
+            "Store dentures safely, and offer privacy during removal.",
+            "A red, sore spot under a denture needs inspection and a fit check.",
+            "<b>Moisture:</b> saliva substitutes for xerostomia, and sips of water through the day if swallowing is safe."
           ]
         },
         {
           "heading": "How do I give oral care safely?",
-          "keyIdea": "For a client who cannot protect the airway, position side-lying, use little fluid, and suction as needed.",
-          "body": "<p>Explain the care, offer privacy, and let the client help as able. Use a soft brush. Fragile tissue may need extra-gentle cleaning.</p><p>Clients with low alertness, swallowing problems, or poor secretion control are at risk of aspiration. Protecting the airway comes first.</p><p>Position them as their condition allows, often side-lying with the head turned. This lets fluid drain out of the mouth, not into the airway. Use suction when needed. Never pour fluid into the mouth.</p><p>Clients who are NPO or on tube feedings still need oral care. NPO means nothing by mouth. Follow the care plan for how often. The slide’s range of every two to eight hours does not replace a risk assessment.</p>",
+          "keyIdea": "Assist or perform oral care for dependent clients; if they cannot protect the airway, position side-lying, use little fluid, and suction.",
+          "source": "Module 7 slides 58; airway positioning added for the NCLEX",
+          "body": "<p>Daily hygiene means brushing and flossing, stimulating the gums, and rinsing the mouth. Assist or perform care for dependent or unconscious clients. Explain the care and let the client help as able.</p><p>Use a soft toothbrush or saline-soaked gauze if the mucosa is fragile. Provide special oral care every 2–8 hours as needed. Follow the care plan for how often.</p><p>Clients with low alertness, swallowing problems, or poor secretion control are at risk of aspiration. Position them as allowed, often side-lying with the head turned, so fluid drains out of the mouth. Use suction as needed. Never pour fluid into the mouth. Clients who are NPO (nothing by mouth) or tube-fed still need oral care.</p>",
           "steps": [
             "Assess alertness, swallowing, mouth findings, pain, and cooperation.",
             "Explain the care and position the client safely.",
@@ -1254,6 +1475,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Who does oral care, and did it work?",
           "keyIdea": "Delegate routine care for stable clients, keep risky care yourself, and judge success by the client’s change.",
+          "source": "Added for the NCLEX — not in course materials (builds on slide 56 “assess, assist, and advocate”)",
           "body": "<p>The RN can delegate routine oral care for stable clients to unlicensed assistive personnel (UAP). The RN keeps care that needs assessment. That includes a new or unknown swallowing risk, airway risk, or a new finding.</p><p>If a UAP says, “His gums bled, so I stopped brushing,” teach that bleeding gums need gentle brushing and assessment, not no brushing. If a delegated task creates an immediate choking risk, stop it and protect the airway first.</p><p>Evaluate outcomes. Giving an adapted brush is an intervention. The outcome is the client using it, with less pain and healthier tissue. For a caregiver, watch a safe return demonstration.</p>",
           "bullets": [
             "Ask about comfort. Look for less debris and dryness.",
@@ -1265,6 +1487,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps",
           "keyIdea": "Do not let a label, an old belief, or a delivered intervention replace assessment.",
+          "source": "Module 7 slides 54, 56–58; other rows added for the NCLEX",
           "body": "<p>These look-alike ideas often appear in wrong answer choices.</p>",
           "table": {
             "headers": [
@@ -1277,12 +1500,12 @@ window.NURSE_DATA.push({
                 "Plaque is soft and brushes off. Tartar is hard and needs a dentist."
               ],
               [
-                "Early enamel change vs. cavity",
-                "Early changes can remineralize. A cavity needs restoration."
+                "Early decay vs. cavity",
+                "Early decay can be reversed with fluoride and minerals. A cavity needs restoration."
               ],
               [
-                "Gingivitis vs. periodontal disease",
-                "Red, bleeding gums are gingivitis. Recession and loose teeth are deeper disease."
+                "Gingivitis vs. pyorrhea",
+                "Red, bleeding gums are gingivitis. Pus, receding gums, and loose teeth are pyorrhea."
               ],
               [
                 "Dry mouth vs. normal aging",
@@ -1310,6 +1533,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Airway safety comes first, then comfort and function, then teaching and referral.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Expect priority items about drowsy or unresponsive clients, select-all lists of urgent findings, and pediatric fluoride questions. Delegation items ask which client’s oral care fits a UAP.</p><p>Sample question: A drowsy client with poor secretion control needs oral care. Which action is the priority before cleaning begins?</p>",
           "steps": [
             "<b>Read the stem:</b> drowsy client, poor secretion control, oral care.",
@@ -1323,6 +1547,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: poor intake starts in the mouth",
           "keyIdea": "When intake drops and the mouth hurts, treat the mouth problem as a possible cause.",
+          "source": "Added: worked example based on Module 7 slides 53, 56–58",
           "body": "<p>An older adult eats little and says food tastes bad. Her mouth is dry. Her dentures hurt. Stiff hands make brushing hard.</p><p>Calling this a nutrition knowledge problem and handing over a food sheet misses the cause. Her appetite may be fine. Mouth pain may stop her from eating.</p><p>Check swallowing safety before offering water sips. If fluids are restricted, keep moisture care within the plan. Do not stop a medicine just because it may cause dryness. Report it instead.</p>",
           "steps": [
             "Assess mouth pain, denture fit, tissue, saliva, swallowing, medicines, and fluid limits.",
@@ -1338,14 +1563,15 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 7 slides 50–58 (course notes and current guidance)",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
             "Source: Module 7, Exemplar 7.B, slides 50–58.",
-            "Update: the slide suggests water-only brushing at 18 months and a first dental visit by six months.",
-            "Current AAPD parent guidance and periodicity schedule: tiny smear of fluoride toothpaste under age 3; pea-sized amount ages 3 to 6.",
-            "Current AAPD guidance: dental home at the first tooth and no later than the first birthday. Checked October 27, 2026.",
-            "This is a stated clinical update, not a quote from the slide.",
-            "The slide’s two-to-eight-hour special-care range does not replace individual risk assessment."
+            "Course slide: brush with water at 18 months, add fluoride toothpaste gradually, and first dental visit by 6 months.",
+            "Current AAPD guidance: fluoride toothpaste from the first tooth (rice-sized smear under age 3; pea-sized ages 3–6), and a dental home no later than the first birthday. Checked October 27, 2026.",
+            "This is a stated clinical update, not a quote from the slide. Know the slide for course exams.",
+            "The slide’s 2–8 hour special-care range does not replace individual risk assessment.",
+            "Delegation and airway-priority points are added for the NCLEX."
           ]
         }
       ],
@@ -1356,7 +1582,7 @@ window.NURSE_DATA.push({
         "Prevention starts with the first tooth.",
         "Brushing does not reverse an established cavity.",
         "For a hands-on caregiver skill, evaluate with a return demonstration.",
-        "Diabetes, weak immunity, oral surgery, and head and neck radiation call for special oral plans."
+        "Chronic illness, oral surgery, radiation, and some medicines raise oral risk."
       ],
       "redFlags": [
         "Facial swelling with fever, drooling, voice change, or trouble swallowing or breathing needs urgent action.",
@@ -1375,7 +1601,7 @@ window.NURSE_DATA.push({
         },
         {
           "q": "How much fluoride toothpaste is used for a child under age 3?",
-          "a": "A tiny smear, about the size of a grain of rice, brushed by the caregiver from the first tooth."
+          "a": "The slide says brush with water at 18 months and add fluoride gradually. Current AAPD guidance: a rice-sized smear, brushed by the caregiver from the first tooth."
         },
         {
           "q": "A client with heart failure on a 1,500 mL fluid restriction has a very dry mouth. What helps?",
@@ -1414,7 +1640,7 @@ window.NURSE_DATA.push({
       "keyTerms": [
         {
           "term": "Circadian rhythm",
-          "def": "The body’s roughly 24-hour clock. It times sleepiness, alertness, temperature, and hormones."
+          "def": "The body’s 24-hour clock. It regulates sleep, body temperature, and hormones."
         },
         {
           "term": "Melatonin",
@@ -1422,7 +1648,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Reticular activating system",
-          "def": "A brainstem network involved in staying awake and alert."
+          "def": "A brainstem network that, with the brainstem, controls sleep and wakefulness."
         },
         {
           "term": "NREM sleep",
@@ -1430,7 +1656,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "N3 sleep",
-          "def": "Deep, slow-wave sleep. It is the most restorative stage and decreases with age."
+          "def": "Deep sleep with delta waves, when growth and repair occur. The slides split it into N3 and N4."
         },
         {
           "term": "REM sleep",
@@ -1438,11 +1664,11 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Sleep quantity",
-          "def": "The time a person actually spends asleep."
+          "def": "The total hours slept."
         },
         {
           "term": "Sleep quality",
-          "def": "How restful and satisfying sleep feels, including how often it is broken and how the person feels the next day."
+          "def": "How rested a person feels after sleep."
         },
         {
           "term": "Sleep hygiene",
@@ -1472,19 +1698,56 @@ window.NURSE_DATA.push({
       "sections": [
         {
           "heading": "Why does sleep matter so much?",
-          "keyIdea": "Lost sleep harms attention, memory, mood, healing, and safety, so a rest plan is part of recovery.",
-          "body": "<p>Too little sleep, or broken sleep, can weaken attention, memory, reaction time, judgment, and emotional control. That affects walking safely, managing medicines, learning, and driving.</p><p>Sleep also supports tissue repair and immune function. So the rest plan belongs next to the pain, mobility, and recovery plans.</p><p>Ask about daytime function, not just trouble sleeping. A quiet client may be too exhausted to learn. A caregiver who is up all night with a loved one may report mood changes and trouble with daily tasks.</p><p>Poor sleep can be a problem by itself. It can also be a clue to another problem, like pain, breathing trouble, or a medicine effect.</p>",
-          "example": "A client keeps dozing during insulin teaching after a night of pain. Treat the pain, reschedule key teaching, and check learning later. Do not chart “uninterested.”"
+          "keyIdea": "Sleep is a basic human need for health and healing; lost sleep harms attention, mood, and judgment and raises chronic disease risk.",
+          "source": "Module 7 slides 61, 64–65",
+          "body": "<p>Sleep is a basic human need, essential for health and healing. It restores mind and body. It improves daytime alertness, energy, and quality of life. Over 50 million Americans have sleep disorders.</p><p>Sleep restores balance in the brain and nervous system. It supports protein synthesis for tissue repair and healing. It boosts immune function and reduces inflammation. It improves mood, focus, memory, and creativity. It also helps with weight control and stress.</p><p>Sleep deprivation lowers concentration, memory, and alertness. It causes irritability and poor decision-making. A tired client may be too exhausted to learn.</p><p>Poor sleep can be a problem by itself. It can also be a clue to another problem, like pain or a medicine effect.</p>",
+          "example": "A client keeps dozing during insulin teaching after a night of pain. Treat the pain, reschedule key teaching, and check learning later. Do not chart “uninterested.”",
+          "bullets": [
+            "Obesity and type 2 diabetes",
+            "High blood pressure, stroke, and heart disease",
+            "Depression, anxiety, and impaired judgment"
+          ]
         },
         {
-          "heading": "How does the body clock work?",
-          "keyIdea": "Light and darkness set the body clock, so bright days and dark nights help reset it.",
-          "body": "<p>The circadian rhythm is the body’s 24-hour clock. Light and darkness are its main cues. Melatonin usually rises in the dark and tells the body it is night.</p><p>Shift work, irregular schedules, bright rooms at night, and frequent interruptions can throw the clock off. A hospital client who naps all day and is wide awake at night may have a disrupted rhythm. Restore bright days and dark nights.</p><p>Many brain networks control sleep. The source names the reticular activating system and the brainstem. Wake-promoting and sleep-promoting systems work against each other. One chemical does not explain sleep.</p><p>The source implies that less GABA promotes sleep. That is misleading. GABA is a calming brain chemical. GABA activity actually supports sleep pathways.</p>"
+          "heading": "How does the body control sleep?",
+          "keyIdea": "The RAS and brainstem control sleep, melatonin rises in darkness, and cortisol rises in the morning. Bright days and dark nights help the body clock.",
+          "source": "Module 7 slides 62–63",
+          "body": "<p>Sleep is an altered state of consciousness with less awareness of and response to stimuli. The reticular activating system (RAS) and brainstem control it.</p><p>The circadian rhythm is the body’s 24-hour clock. It regulates sleep, body temperature, and hormones. When it is in sync, a person is awake when body temperature is highest and asleep when it is lowest.</p><p>Shift work, bright rooms at night, and frequent interruptions can throw the clock off. A hospital client who naps all day and is awake at night may have a disrupted rhythm. Restore bright days and dark nights.</p>",
+          "table": {
+            "headers": [
+              "Chemical",
+              "Course slide says",
+              "Effect"
+            ],
+            "rows": [
+              [
+                "Melatonin",
+                "↑ in darkness",
+                "Causes sleepiness"
+              ],
+              [
+                "Cortisol",
+                "↑ in the morning",
+                "Promotes alertness"
+              ],
+              [
+                "Acetylcholine, dopamine, norepinephrine",
+                "↑ levels",
+                "Promote wakefulness"
+              ],
+              [
+                "Serotonin and GABA",
+                "Listed as “↓ … promote sleep”",
+                "See note: GABA activity actually supports sleep"
+              ]
+            ]
+          }
         },
         {
           "heading": "What are NREM and REM sleep?",
-          "keyIdea": "Sleep cycles through three NREM stages and REM, with deep sleep early and longer REM toward morning.",
-          "body": "<p>Sleep repeats cycles of NREM and REM during the night. N1 is the drift from waking into sleep. N2 is steady, lighter sleep. N3 is deep, slow-wave sleep. N3 is most common early in the night.</p><p>REM periods grow longer later in the night. That is why vivid dreams often happen just before the alarm. During REM the brain is busy, and muscle tone normally drops. Cycles vary from person to person.</p><p>The slides use an older system with stages N3 and N4. Today deep sleep is combined into one stage, N3. So there are three NREM stages.</p><p>A hospitalized client who is suddenly hard to wake is not just in deep sleep. New low responsiveness needs assessment right away.</p>",
+          "keyIdea": "A 90–110 minute cycle alternates NREM (about 80%) and REM (about 20%). Deep sleep does growth and repair; REM brings dreams.",
+          "source": "Module 7 slides 63; current three-stage NREM system added",
+          "body": "<p>A sleep cycle lasts about 90–110 minutes. It alternates between NREM (about 80% of sleep) and REM (about 20%).</p><p>In NREM, N1 and N2 are light sleep. The person wakes easily. Deep sleep has slow delta waves. Growth and repair happen there. Deep sleep is most common early in the night.</p><p>REM begins about 70–90 minutes after falling asleep. Dreams occur. Muscles relax. Heart rate and blood pressure rise. The brain is active. REM periods grow longer toward morning.</p><p>The slides label deep sleep as N3 and N4. Today these are combined into one stage, N3. So there are three NREM stages. A client who is suddenly hard to wake is not just in deep sleep. Assess right away.</p>",
           "table": {
             "headers": [
               "Stage",
@@ -1493,92 +1756,110 @@ window.NURSE_DATA.push({
             ],
             "rows": [
               [
-                "N1",
-                "Drifting into sleep",
-                "Wakes easily."
+                "N1–N2",
+                "Light sleep",
+                "Easily awakened. Interruptions break up sleep."
               ],
               [
-                "N2",
-                "Steady, lighter sleep",
-                "Interruptions break up sleep."
-              ],
-              [
-                "N3",
-                "Deep, slow-wave sleep",
-                "Most restorative. Less of it with age."
+                "N3 (slides: N3–N4)",
+                "Deep sleep, delta waves",
+                "Growth and repair. Less of it with age."
               ],
               [
                 "REM",
-                "Active brain, dreams, relaxed muscles",
-                "Longer periods toward morning."
+                "Dreams, relaxed muscles, ↑ HR and BP, active brain",
+                "Starts 70–90 minutes in. Longer toward morning."
               ]
             ]
           }
         },
         {
           "heading": "How does sleep change with age?",
-          "keyIdea": "Use age norms as context, but judge each client by total sleep and daytime function.",
-          "body": "<p>Newborns sleep much of the day in short stretches. Sleep becomes more solid as they grow. Infants vary a lot. Not every baby sleeps through the night by a certain month, so do not compare babies.</p><p>Toddlers and preschoolers do best with naps and a steady bedtime routine. School-age children can lose sleep to screens, homework, and caffeine. Teens shift toward later sleep times but still need a lot of sleep.</p><p>The course lists about 7–9 hours for adults and 7–8 hours for older adults. Older adults often go to bed and wake earlier. Their sleep is lighter, with more awakenings and less deep sleep. That does not mean they need almost no sleep.</p><p>Disabling daytime sleepiness, breathing pauses, or a big new change is not normal aging. It needs evaluation.</p>",
+          "keyIdea": "Know the course’s hours for each age group, but judge each client by total sleep and daytime function.",
+          "source": "Module 7 slides 65–66",
+          "body": "<p>Compare the client’s reported sleep with the recommended hours. Adults should average 7–9 hours a night.</p><p>Older adults go to bed and wake earlier. Their sleep is more fragmented. That does not mean they need almost no sleep. Watch for insomnia, nocturia, and sundowning in dementia.</p><p>Disabling daytime sleepiness, breathing pauses, or a big new change is not normal aging. It needs evaluation.</p>",
           "table": {
             "headers": [
               "Age",
-              "What to focus on"
+              "Course norm",
+              "What to watch"
             ],
             "rows": [
               [
+                "Newborn",
+                "14–17 hours a day",
+                "Enters REM first. Wakes often."
+              ],
+              [
                 "Infant",
-                "Feeding, development, routines, and parent expectations."
+                "Sleeps through the night by 6 months",
+                "Needs 2 naps a day. Babies vary."
               ],
               [
                 "Toddler / preschooler",
-                "Steady rituals, a regular bedtime, and a well-timed nap."
+                "10–14 hours",
+                "Bedtime resistance and nightmares."
               ],
               [
-                "School-age / teen",
-                "Schedule, screens, caffeine, and school demands."
+                "School-age",
+                "9–11 hours",
+                "Homework, screens, and caffeine."
+              ],
+              [
+                "Adolescent",
+                "8–10 hours",
+                "Natural delay in sleep onset causes sleep loss."
               ],
               [
                 "Adult",
-                "Shift work, stress, illness, and family duties."
+                "7–9 hours",
+                "Work, stress, and family demands."
               ],
               [
                 "Older adult",
-                "Pain, nocturia, medicines, broken sleep, and daytime function."
+                "7–8 hours",
+                "Early bedtime and waking. Fragmented sleep."
               ]
             ]
           }
         },
         {
           "heading": "How do I assess a sleep problem?",
-          "keyIdea": "Find out which part of sleep is broken and why before choosing any intervention.",
-          "body": "<p>First, sort the problem. Is it trouble falling asleep, waking often, waking too early, or not feeling rested? Ask about usual bedtime, wake time, naps, work, and the bedroom.</p><p>Review pain, worry, breathing symptoms, nocturia, medicines, and recent illness. Ask what the client already tried.</p><p>Caffeine and nicotine keep people awake. Alcohol may cause sleepiness at first but breaks up sleep later. Never suggest alcohol as a sleep aid.</p><p>Compare with the home routine. A night-shift worker awake at 0200 may be on a normal schedule, not “noncompliant.” Snoring, witnessed breathing pauses, and daytime sleepiness need evaluation.</p>",
+          "keyIdea": "Sort the problem (falling asleep vs. staying asleep), then check habits, environment, health, and substances.",
+          "source": "Module 7 slides 67–68",
+          "body": "<p>Sleep quantity is the total hours slept. Sleep quality is how rested you feel. Habits, environment, and health affect both.</p><p>First, sort the problem. Is it trouble falling asleep or staying asleep? Ask about bedtime, wake time, naps, work, and the bedroom. A sleep diary helps find patterns.</p><p>Compare with the home routine. A night-shift worker awake at 0200 may be on a normal schedule, not “noncompliant.” Snoring, witnessed breathing pauses, and daytime sleepiness need evaluation.</p>",
           "bullets": [
-            "A sleep diary should record bedtime, wake time, and naps.",
-            "It should record awakenings and their causes.",
-            "It should record caffeine, alcohol, nicotine, and activity.",
-            "It should record symptoms and how the person feels during the day."
+            "<b>Exercise:</b> moderate daytime activity helps sleep. Late exercise delays it.",
+            "<b>Schedule:</b> a regular bedtime and wake time support the body clock.",
+            "<b>Bedtime habits:</b> avoid work, screens, or caffeine before bed.",
+            "<b>Stress and illness:</b> anxiety and pain reduce deep and REM sleep.",
+            "<b>Substances:</b> caffeine, nicotine, alcohol, and some medicines disrupt sleep. Alcohol may cause drowsiness at first but breaks up sleep later. Never suggest it as a sleep aid.",
+            "<b>Environment:</b> a cool, dark, quiet room improves sleep."
           ]
         },
         {
           "heading": "What helps clients sleep?",
-          "keyIdea": "Target the specific cause and cluster nonurgent care, but never skip required monitoring.",
-          "body": "<p>Fix what is breaking sleep. Treat pain. Help with position, temperature, and uncomfortable equipment. For nocturia, keep nighttime toileting safe with a clear path and a call light within reach.</p><p>Group nonurgent care together when the plan allows. Essential checks, medicines, and tests still happen. Do them quietly, but do not skip them to protect sleep.</p><p>Keep familiar bedtime rituals if they are safe, such as prayer or music. For shift workers, teach a dark room, a regular sleep period, and no caffeine or alcohol before sleep.</p><p>Evaluate outcomes, not actions. “Room darkened” is an intervention. Fewer awakenings and better alertness are outcomes.</p>",
+          "keyIdea": "Target the cause, teach sleep hygiene, and reduce nighttime disruptions, but never skip required monitoring.",
+          "source": "Module 7 slides 68; clustering-care point added for the NCLEX",
+          "body": "<p>Fix what is breaking sleep. Treat pain. Help with position and temperature. For nocturia, keep nighttime toileting safe with a clear path and a call light within reach.</p><p>Advocate for quiet, restful health care settings. Group nonurgent care together when the plan allows. Essential checks, medicines, and tests still happen. Do them quietly.</p><p>Evaluate outcomes, not actions. “Room darkened” is an intervention. Fewer awakenings and better alertness are outcomes.</p><p>Keep familiar, safe bedtime rituals, such as prayer or music. For shift workers, teach a dark room, a regular sleep period, and no caffeine or alcohol before sleep.</p>",
           "bullets": [
-            "Keep sleep and wake times regular when possible.",
-            "Reduce noise and light at night.",
-            "Encourage daylight and activity in the daytime.",
-            "Offer relaxation, music, or breathing exercises if the client likes them.",
-            "Limit evening screens and caffeine, especially for children and teens."
+            "Encourage a regular bedtime routine and a consistent schedule.",
+            "Reduce nighttime disruptions and noise.",
+            "Suggest a sleep diary to find patterns.",
+            "Promote relaxation, such as music, deep breathing, or mindfulness.",
+            "Teach healthy sleep hygiene."
           ]
         },
         {
           "heading": "When is sleepiness a danger sign?",
           "keyIdea": "New confusion, hard-to-wake clients, and slowed breathing are emergencies, not sleep problems.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>A sleeping pill is not the first answer to every complaint. A client asking for one at 2330 before surgery may be anxious. Ask about the cause first.</p><p>Before any sedative, check breathing and recent opioids. Hold the sedative if breathing is already slow or shallow, and report it. Breathing pauses with low oxygen after an opioid outrank other sleep needs.</p><p>A client who cannot be awakened is not just in deep sleep. Assess right away for causes such as low blood sugar.</p><p>New confusion after a sedative is an adverse effect. Keep the client safe, assess, and report. Do not give more sedation or use restraints as the answer. New confusion in a post-op client also needs a search for a physical cause.</p>"
         },
         {
           "heading": "Common traps",
           "keyIdea": "Do not mistake time in bed for sleep, aging for disease, or a dangerous change for tiredness.",
+          "source": "Module 7 slides 63, 66–67; other rows added for the NCLEX",
           "body": "<p>These look-alike ideas often show up as wrong answers.</p>",
           "table": {
             "headers": [
@@ -1624,6 +1905,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Assess before sedating, and treat any change in alertness or breathing as the priority.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Expect priority items about overnight rounds, sedative safety, and age norms. Select-all items ask about sleep assessment questions or safe interventions.</p><p>Sample question: A hospitalized client asks for a sleeping pill after waking many times. The client reports pain at 8/10 and loud hallway noise. What should the nurse do first?</p>",
           "steps": [
             "<b>Read the stem:</b> repeated waking, pain 8/10, and hallway noise.",
@@ -1637,6 +1919,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: broken sleep and failed teaching",
           "keyIdea": "Poor learning after a bad night is a clue to assess sleep, not proof of poor effort.",
+          "source": "Added: worked example based on Module 7 slides 66–68",
           "body": "<p>Mr. T is awake much of the night from pain, frequent toileting, and hallway noise. In the morning he is irritable and cannot focus on new teaching. The chart says “poor participation.” That note does not explain why.</p><p>First rule out urgent causes. New confusion or low responsiveness needs assessment, not a sleep hygiene talk.</p><p>Then target each cause. Do not assume one sedative will fix several untreated problems. Do not assume all older adults sleep poorly.</p>",
           "steps": [
             "Describe his sleep and his alertness now. Is this new?",
@@ -1652,13 +1935,15 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 7 slides 59–68 (course notes and clarifications)",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
             "Source: Module 7, Exemplar 7.C, slides 59–68.",
-            "Current staging follows the NHLBI sleep phases and stages.",
-            "The slides use an older four-stage NREM scheme with N3 and N4. Answer keys use the current three stages.",
-            "The slides give approximate timing and percentages. Cycles vary by person.",
-            "The source implies less GABA promotes sleep. That is misleading. GABA inhibition supports sleep pathways."
+            "The slides use an older four-stage NREM scheme with N3 and N4. Current staging (NHLBI) combines them into N3, for three NREM stages.",
+            "The slides give approximate cycle length, timing, and percentages. Cycles vary by person.",
+            "The slide lists “↓ serotonin and GABA → promote sleep.” That is misleading. GABA activity supports sleep pathways.",
+            "The course says infants sleep through the night by 6 months. Individual babies vary.",
+            "Sedative safety and danger signs are added for the NCLEX."
           ]
         }
       ],

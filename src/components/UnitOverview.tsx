@@ -5,9 +5,7 @@ import { Icon } from './Icon';
 
 export function NewBadge({ label = 'New' }: { label?: string }) {
   return (
-    <span className="new-badge">
-      <Icon name="sparkle" width={12} /> {label}
-    </span>
+    <span className="new-badge">{label}</span>
   );
 }
 

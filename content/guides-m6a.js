@@ -87,6 +87,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How should I think about fluids?",
      "keyIdea": "For any client, ask four questions: what is normal, what is abnormal, what do I see, and what do I do?",
+     "source": "Fluid & Electrolytes slides 2, 4, 6",
      "body": "<p>Fluids and electrolytes can feel like a pile of numbers. Your instructor gives you a simple way to sort it. For every client, ask the four questions in the steps below.</p><p>This semester you build question 1, <b>what is normal</b>. The specific imbalance conditions (pages 384–387 in your textbook) are NUR 112 material. If you know normal well, you will spot abnormal later.</p><p>Two things about body fluid matter. The <b>amount</b> of fluid affects how the body works. The <b>makeup</b> of the fluid, meaning what is dissolved in it, keeps cells working. Nurses watch both.</p>",
      "steps": [
       "What is normal? How fluids and electrolytes stay in balance.",
@@ -99,6 +100,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What jobs do body fluids do?",
      "keyIdea": "Body fluid controls temperature, keeps cell shape, carries supplies and wastes, cushions organs, and keeps fluids balanced.",
+     "source": "Fluid & Electrolytes slide 7",
      "body": "<p>Your slides list five jobs of body fluid. Learn one example of each. Exam questions often describe the job instead of naming it.</p><p>The last job is the big rule for this whole module. <b>The fluid gained across the day must equal the fluid lost.</b></p>",
      "table": {
       "caption": "The five jobs of body fluid",
@@ -143,6 +145,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What is body fluid made of?",
      "keyIdea": "Body fluid is water plus solutes; electrolytes are the charged solutes, with sodium mostly outside cells and potassium mostly inside.",
+     "source": "Fluid & Electrolytes slides 10, 42 (notes)",
      "body": "<p><b>Body fluid is water plus what is dissolved in it.</b> The dissolved things are called solutes. Solutes that carry an electric charge are called electrolytes, or ions.</p><p>The small + or − sign shows the charge. Positive ions are cations. Negative ions are anions. Chloride (Cl⁻) shows up later as sodium's partner. Electrolytes let nerves send signals and muscles contract, including the heart. They also help control where water goes.</p><p>All body fluids hold electrolytes, but the amount depends on location. <b>Sodium is the main electrolyte outside cells. Potassium is the main electrolyte inside cells.</b> A balanced client has the three things in the bullets below.</p>",
      "bullets": [
       "<b>The right volume:</b> enough water overall, and enough in the blood vessels.",
@@ -154,7 +157,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Where does body fluid live?",
      "keyIdea": "Most body water is inside cells; outside cells, the largest share is interstitial fluid, not blood.",
-     "body": "<p>Body fluid sits in two main areas called compartments. <b>Intracellular fluid (ICF)</b> is inside the cells. It holds most body fluid: about 40% of body weight, or two-thirds of body water.</p><p><b>Extracellular fluid (ECF)</b> is outside the cells. It is about 20% of body weight, or one-third of body water. Your slides say these percents are for reference, not memorizing. Do know that more fluid is inside cells than outside.</p><p>The ECF has three parts, shown in the table. Interstitial fluid is the biggest part. Blood is only about 5 L in an adult.</p>",
+     "source": "Fluid & Electrolytes slides 8–9 (with notes)",
+     "body": "<p>Body fluid sits in two main areas called compartments. <b>Intracellular fluid (ICF)</b> is inside the cells. It holds most body fluid: about 40% of body weight, or two-thirds of body water.</p><p><b>Extracellular fluid (ECF)</b> is outside the cells. It is about 20% of body weight, or one-third of body water. Your slides say these percents are for reference, not memorizing. Do know that more fluid is inside cells than outside.</p><p>The ECF has three parts, shown in the table. Interstitial fluid is the biggest part. Blood is only about 5 L in an adult.</p><p>Memory tip from your slides: <b>inter</b> = between cells. <b>Intra</b> = inside vessels.</p>",
      "table": {
       "caption": "Body fluid compartments",
       "headers": [
@@ -199,12 +203,14 @@ window.NURSE_DATA.push({
     {
      "heading": "How does fluid reach the cells?",
      "keyIdea": "Compartments are linked by thin membranes, and cells depend on fluid moving between them.",
+     "source": "Fluid & Electrolytes slides 8, 12, 14, 40",
      "body": "<p>The compartments are not sealed boxes. Thin walls separate them: the cell membrane around each cell and the capillary wall around the tiniest blood vessels. <b>Cells depend on fluid moving between these spaces.</b></p><p>Oxygen and nutrients travel from the blood, through the interstitial fluid, into the cell. Wastes travel the other way. This movement is called <b>distribution</b>. It is one of three processes that keep balance: intake and absorption, distribution, and output.</p><p>Two practical points follow. When a client bleeds, the blood vessels empty first. The interstitial space is the nearest reserve to refill them. Also, every blood lab you draw describes the fluid outside cells, not inside.</p>",
      "example": "<b>At the bedside:</b> Ms. R, 45, gets IV fluid into a vein in her arm. Where does it go first? Into the blood vessels, because it went straight into a vein. From there, some stays in the vessels, some moves to the interstitial space, and some may enter cells. Where it ends up depends on the type of fluid. You will learn the types in the IV solutions lesson."
     },
     {
      "heading": "How does body water change with age?",
      "keyIdea": "Body water falls from about 90% in a premature infant to 45–50% in an older adult.",
+     "source": "Fluid & Electrolytes slides 27, 34",
      "body": "<p>The share of the body that is water changes a lot with age, as the table shows.</p><p>Why do older adults have less water? <b>Muscle holds a lot of water. Fat holds very little.</b> People usually lose muscle as they age. Less muscle means less total body water and a smaller reserve. So the same loss hurts an older adult more.</p>",
      "table": {
       "caption": "Total body water by age",
@@ -244,7 +250,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Why are infants and older adults at risk?",
      "keyIdea": "Infants lose fluid within hours; older adults dehydrate without feeling thirsty, so the nurse plans fluids instead of waiting.",
-     "body": "<p><b>Infants are at higher risk for fluid loss.</b> They can only show thirst by crying, and they depend on caregivers for every drink. Their skin and lung surface is large for their size, so they lose fluid fast through skin and breath. Their kidneys are immature and cannot save water well.</p><p><b>Older adults are at higher risk for dehydration.</b> Their thirst sense is weaker. They have less muscle, so less water. Their kidneys have fewer working nephrons, so they adjust slowly. Dehydration can happen with no thirst at all.</p><p>Skin turgor (how fast pinched skin flattens) is not reliable in older adults. Trust intake, urine amount and color, weight, and mental status instead.</p>",
+     "source": "Fluid & Electrolytes slide 34 (nursing actions added for the NCLEX)",
+     "body": "<p><b>Infants are at higher risk for fluid loss.</b> They can only show thirst by crying, and they depend on caregivers for every drink. Their skin and lung surface is large for their size, so they lose fluid fast through skin and breath. Their kidneys are immature, with limited reserve. Their fluid balance can change quickly.</p><p><b>Older adults are at higher risk for dehydration.</b> Their thirst sense is weaker. They have less muscle, so less water. Their kidneys have less reserve, because they have fewer working nephrons. Dehydration can happen with no thirst at all.</p><p>Skin turgor (how fast pinched skin flattens) is not reliable in older adults. Trust intake, urine amount and color, weight, and mental status instead.</p>",
      "bullets": [
       "Offer fluids on a schedule. Do not wait for the client to ask.",
       "Keep fluids within reach. After a stroke, place them on the client's strong side.",
@@ -257,6 +264,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What does the nurse monitor?",
      "keyIdea": "Check volume with I&amp;O, weight, and assessment; concentration with the IV fluid type; electrolytes with lab values.",
+     "source": "Fluid & Electrolytes slides 17–18",
      "body": "<p>Nurses protect balance by watching three areas. Each one matches a part of “balance,” as the table shows. Your instructor's key rule: <b>balance happens when intake matches output, fluid is absorbed, and fluid moves correctly in the body.</b></p><p>A balanced client shows intake about equal to output, a stable weight, enough urine, and labs in normal range. Assistive personnel (AP) can offer fluids, measure and record I&amp;O, and weigh clients. The RN assesses, interprets the numbers, teaches, and evaluates.</p>",
      "table": {
       "caption": "What the nurse monitors",
@@ -284,6 +292,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most wrong answers swap a compartment, confuse volume with concentration, or trust thirst in an older adult.",
+     "source": "Fluid & Electrolytes slides 9–10, 27, 34",
      "body": "<p>These pairs sound alike but mean different things. Read each answer choice slowly and match it to the right column.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -322,6 +331,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions describe a client and ask you to spot who is most at risk or which compartment is involved.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "Which client is at highest risk for fluid loss?",
@@ -344,6 +354,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: an older adult in heat",
      "keyIdea": "Weak thirst plus a hot day plus low intake equals silent dehydration; plan and measure fluids.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 27, 34",
      "body": "<p>Mrs. A, 84, lives in an assisted living home. It is a hot week. She had a stroke and has weak use of her left hand. Her water cup sits on her left side. She says she is not thirsty. Her urine is dark and small in amount.</p>",
      "steps": [
       "<b>What is normal?</b> Intake should about equal output, with steady weight and enough urine.",
@@ -480,6 +491,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What is distribution?",
      "keyIdea": "Fluid and particles cross thin membranes between compartments by four processes; only one needs energy.",
+     "source": "Fluid & Electrolytes slides 14, 22",
      "body": "<p>Distribution is fluid moving between compartments. Fluid inside cells is the ICF. Fluid outside cells is the ECF, which includes the space between cells and the bloodstream.</p><p>A semipermeable membrane separates each compartment. The cell membrane separates the inside of the cell from the fluid around it. The capillary wall separates blood from tissue. Some things pass easily, and some do not.</p><p>Things naturally move “downhill,” from where there is more to where there is less. They stop when both sides are even. Moving “uphill” takes energy. To name a process, ask three things. What moves? Which way? Does it cost energy?</p>",
      "table": {
       "caption": "The four processes at a glance",
@@ -525,6 +537,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How does filtration push fluid out?",
      "keyIdea": "Pressure pushes fluid out at the arterial end of a capillary; albumin pulls it back in at the venous end.",
+     "source": "Fluid & Electrolytes slides 23, 39",
      "body": "<p>Filtration moves fluid between blood vessels and tissues. It happens in capillaries, the tiny vessels where blood meets tissue.</p><p>Each heartbeat creates pressure in the vessels, called hydrostatic pressure. At the <b>arterial end</b> of a capillary, pressure is higher. It pushes fluid out into the tissues. That fluid carries oxygen and nutrients to cells.</p><p>At the <b>venous end</b>, pressure has dropped. Now fluid moves back in. Large proteins, mainly albumin, stay inside the vessel because they are too big to leak out. They pull water back. This pull is oncotic pressure. The returning fluid carries wastes like carbon dioxide. Lymph vessels pick up the small amount left over and return it to the blood.</p>",
      "analogy": "Think of a soaker hose with tiny holes. Water pressure pushes water out the holes to soak the soil. Near the end, pressure is low. Now picture sponges inside the hose (albumin) soaking water back in. Push out at the start, pull back in at the end.",
      "check": {
@@ -535,6 +548,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why does edema form?",
      "keyIdea": "Edema forms when capillary pressure rises, albumin falls, or lymph drainage is lost.",
+     "source": "Fluid & Electrolytes slides 23, 39 (pressure and lymph causes added for the NCLEX)",
      "body": "<p>Edema is extra fluid stuck in the tissues. It forms when the push-and-pull of filtration gets out of balance. There are three main causes, listed below.</p><p>Edema collects where capillary pressure is highest. In a client who walks, that is the feet and legs. In a bedbound client, check the sacrum (lower back). Raising swollen legs lowers their capillary pressure. Drinking less does not fix this kind of swelling.</p><p>If fluid builds up in the lungs, breathing becomes the priority. Swollen skin also breaks down easily. Reposition often, do not massage swollen areas, and report redness.</p>",
      "bullets": [
       "<b>Pressure goes up:</b> more push forces more fluid into the tissues.",
@@ -546,6 +560,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Osmosis: why does water follow sodium?",
      "keyIdea": "In osmosis, only water moves, and it moves toward the side with more dissolved particles.",
+     "source": "Fluid & Electrolytes slides 20, 24",
      "body": "<p>Osmosis is water moving across a semipermeable membrane. Only water moves. The particles stay put because they cannot cross, or cross slowly.</p><p>Your slides say water moves “from LOW concentration to HIGH concentration.” Concentration here means dissolved particles. So water leaves the dilute side and moves to the crowded side. It keeps moving until both sides match.</p><p>Sodium is the main particle that pulls water. That is why we say <b>water follows sodium</b>. Cutting sodium is how you cut retained fluid. If the ECF gets more concentrated, water leaves the cells. If the ECF gets more dilute, water enters the cells. No ATP is needed.</p>",
      "analogy": "Put a cucumber in salty brine. Over time the brine pulls water out, and the cucumber shrinks into a pickle. The water moved toward the salt.",
      "example": "<b>At the bedside:</b> Mr. D, 40, eats a big bag of salty chips. Sodium enters his blood, so his ECF gets more concentrated. Water moves out of his cells toward the salty ECF. The rise in concentration makes him thirsty, so he drinks. The water brings his ECF back to normal.",
@@ -557,6 +572,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Diffusion: how do particles spread out?",
      "keyIdea": "In diffusion, particles move from where there are many to where there are few, with no energy.",
+     "source": "Fluid & Electrolytes slide 25 (gas exchange example added)",
      "body": "<p>Diffusion is particles moving across a membrane from high concentration to low. They spread out until the space is even. No energy is needed.</p><p>Gas exchange is the classic example. Oxygen is high in the lungs' air sacs and low in the blood, so it diffuses into the blood. In the tissues, oxygen is high in blood and low in busy cells, so it moves into cells. Carbon dioxide moves the opposite way, down its own gradient. Giving extra oxygen makes the oxygen gradient steeper.</p><p>The bullets pair diffusion with osmosis. Notice that particles and water move in opposite directions. Both move toward the same goal: equal concentration.</p>",
      "bullets": [
       "High solute means less water.",
@@ -599,10 +615,11 @@ window.NURSE_DATA.push({
     {
      "heading": "Active transport: what does the pump do?",
      "keyIdea": "The Na⁺/K⁺ pump uses ATP to push sodium out and pull potassium in, keeping potassium inside cells.",
+     "source": "Fluid & Electrolytes slides 26, 43, 45 (IV potassium and hemolysis points added for the NCLEX)",
      "body": "<p>Sometimes the body must keep particles where they are already crowded. That means moving them uphill, from low to high. This needs energy, called ATP.</p><p>The best example is the <b>sodium-potassium pump</b> in every cell membrane. It moves sodium out of the cell and potassium in. That keeps sodium high outside cells and potassium high inside. The difference lets nerves fire and muscles contract, including the heart. Magnesium helps switch the pump on.</p><p>Labs measure the ECF only. So when many cells break open, their potassium and phosphate spill into the blood. The level rises even though intake did not change.</p>",
      "bullets": [
-      "Low magnesium and low potassium together: replace magnesium first, so the pump can hold potassium.",
-      "Major tissue injury or chemotherapy can break many cells. Watch for rising potassium, check the heart rhythm, and report.",
+      "If magnesium, potassium, and calcium are all low, replace magnesium first. Magnesium switches on the pump and affects potassium and calcium.",
+      "Cell injury or death (chemotherapy, trauma, extreme illness) can break many cells. Potassium and phosphate rise. Check the heart rhythm and report.",
       "A hemolyzed blood sample can show a falsely high potassium, because broken red cells released it.",
       "Never give potassium by IV push. It is diluted and given on a pump."
      ],
@@ -615,6 +632,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What do isotonic, hypotonic, and hypertonic mean?",
      "keyIdea": "Compare a fluid with blood: dilute fluid swells cells, concentrated fluid shrinks them, matching fluid leaves them alone.",
+     "source": "Fluid & Electrolytes slides 20, 33, 36, 52 (hypotonic and hypertonic added for the NCLEX)",
      "body": "<p>Osmolality is how concentrated a fluid is. <b>Normal serum osmolality is 280–300 mOsm/kg.</b> Sodium adds the most to it. When osmolality rises, water leaves cells. The body triggers thirst and releases antidiuretic hormone (ADH) so the kidneys save water.</p><p>Tonicity compares a fluid, such as an IV bag, with blood and cells. It tells you which way water will move. See the table.</p><p>Only 0.9% sodium chloride is hung with a blood transfusion. A dilute fluid would make the red cells swell and burst. In the same way, saline protects exposed tissue, while plain water makes cells swell.</p>",
      "table": {
       "caption": "Tonicity: which way does water move?",
@@ -647,6 +665,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do I predict where fluid goes?",
      "keyIdea": "Check pressure, albumin, sodium, and particle movement, then predict where the water ends up.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 23–25, 36",
      "body": "<p>In a real client, all four processes run at once. Use these steps whenever you need to predict where fluid will go.</p>",
      "steps": [
       "Pressure: is pressure in the vessels up? More pressure pushes more fluid into tissues.",
@@ -660,6 +679,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most errors mix up what moves (water or particles) or which way it goes.",
+     "source": "Fluid & Electrolytes slides 23–26, 39, 45",
      "body": "<p>These pairs trip up many students. Use the table to sort them out.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -698,6 +718,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Questions describe a fluid shift and ask you to name the process or predict what cells do.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "Name the process from a description: what moves, which way, and is energy used?",
@@ -720,6 +741,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: confusion during an IV",
      "keyIdea": "A dilute ECF drives water into cells; new confusion means slow the fluid and report.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 24, 37",
      "body": "<p>Mr. B, 70, is getting D5W. Once the sugar is used, it acts like plain water. Two hours in, he is newly confused and has a headache. His morning sodium was low-normal.</p>",
      "steps": [
       "<b>What moved?</b> Extra free water made his ECF more dilute.",
@@ -793,7 +815,7 @@ window.NURSE_DATA.push({
    "recap": [
     "Balance means intake about equals output. Output never stops, even with no intake.",
     "Record ALL intake: oral, tube feedings and flushes, IV fluids, IV medications, and irrigations.",
-    "Thirst is triggered by rising osmolality, dry mouth, and falling blood volume.",
+    "Thirst is triggered by rising osmolality, dry mouth, and other dehydration signals in the body.",
     "Unabsorbed fluid leaves in stool. IV fluid skips absorption and enters the blood immediately.",
     "Minimum urine output is 0.5 mL/kg/hr. Obligatory urine is 400–600 mL a day.",
     "Sensible losses are measured and recorded. Insensible losses (skin, lungs) are not, but still count.",
@@ -858,6 +880,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How does the body stay in balance?",
      "keyIdea": "Balance happens when intake about equals output, fluid is absorbed, and fluid moves correctly.",
+     "source": "Fluid & Electrolytes slides 12, 16, 18, 28, 32",
      "body": "<p>Think of fluid balance as money in a bank account. Intake is a deposit. Output is a withdrawal. Balance means deposits keep up with withdrawals.</p><p>Some withdrawals are automatic. Skin, lungs, and the minimum urine lose water every day, even if you drink nothing. Vomiting, bleeding, and drains are surprise withdrawals that can empty the account fast.</p><p>The body keeps adjusting to stay in balance. The kidneys make more urine when there is extra fluid and less when fluid is short. Hormones tell them what to keep.</p>",
      "bullets": [
       "<b>Intake and absorption:</b> what comes in and reaches the blood.",
@@ -868,6 +891,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How does fluid get in?",
      "keyIdea": "Drinking and eating are the main route, but every source of fluid goes on the I&amp;O record.",
+     "source": "Fluid & Electrolytes slides 13, 19, 21, 51",
      "body": "<p>Intake is all the fluid entering the body. The most common route is by mouth, through drinks and food. Food counts, because fruit, soup, and vegetables are mostly water. When a client cannot take enough by mouth, other routes help. See the table.</p><p>If the gut is not absorbing well, choose a route that skips the GI tract. That means IV, subcutaneous, or intraosseous. On the I&amp;O record, count every source: oral fluids, tube feedings and water flushes, IV fluids, IV medications, and irrigations. Measure; do not estimate.</p>",
      "table": {
       "caption": "Routes of intake",
@@ -909,12 +933,13 @@ window.NURSE_DATA.push({
     },
     {
      "heading": "What makes a person thirsty?",
-     "keyIdea": "Thirst is triggered by concentrated blood, dry mouth, and low blood volume, but it only works if the client can act.",
-     "body": "<p>Thirst is the body's signal to drink. The thirst center sits in the brain (hypothalamus). The steps show how it works.</p><p>Thirst only helps if the client can feel it and act on it. Older adults have a weak thirst sense. Infants can only cry. Confused or weak clients may not ask. For these clients, schedule fluids and measure them. For older adults who wake at night to urinate, give more fluids earlier in the day instead of cutting the total.</p>",
+     "keyIdea": "Thirst is triggered by rising osmolality, dry mouth, and other dehydration signals, but it only works if the client can act.",
+     "source": "Fluid & Electrolytes slides 20, 34",
+     "body": "<p>Thirst is the body's signal to drink. The thirst center sits in the brain (hypothalamus). Your slides list three triggers, below. The steps show how it works.</p><p>Thirst only helps if the client can feel it and act on it. Older adults have a weak thirst sense. Infants can only cry. Confused or weak clients may not ask. For these clients, schedule fluids and measure them. For older adults who wake at night to urinate, give more fluids earlier in the day instead of cutting the total.</p>",
      "bullets": [
       "Rising fluid concentration (osmolality).",
       "Dry mouth.",
-      "Falling blood volume."
+      "Other dehydration signals in the body, such as low blood volume."
      ],
      "steps": [
       "The body loses water, for example by sweating on a hot day.",
@@ -927,7 +952,8 @@ window.NURSE_DATA.push({
     {
      "heading": "What is absorption?",
      "keyIdea": "Fluid only counts once it is absorbed; what rushes through the bowel leaves in the stool.",
-     "body": "<p>A glass of water does not help cells until it reaches the blood. <b>Absorption</b> is fluid and electrolytes moving from the GI tract into the bloodstream. It happens mainly in the intestines.</p><p>IV fluid skips this step. It enters the blood immediately, which is why it acts faster than oral fluid. If fluid is not absorbed, it stays in the GI tract and leaves in stool. So a client can drink plenty and still come up short.</p>",
+     "source": "Fluid & Electrolytes slide 21",
+     "body": "<p>A glass of water does not help cells until it reaches the blood. <b>Absorption</b> is fluid and electrolytes moving from the GI tract into the bloodstream. It happens mainly in the GI tract.</p><p>IV fluid skips this step. It enters the blood immediately, which is why it acts faster than oral fluid. If fluid is not absorbed, it stays in the GI tract and leaves in stool. So a client can drink plenty and still come up short.</p>",
      "example": "<b>At the bedside:</b> Mr. S, 35, has had watery diarrhea for two days. He drinks about 2 L a day. Is he balanced? Not necessarily. Fluid moves through his bowel so fast that much is not absorbed. You measure his liquid stools, record them as output, and report the diarrhea.",
      "check": {
       "q": "Why does IV fluid change blood volume faster than the same amount taken by mouth?",
@@ -937,6 +963,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How does fluid leave the body?",
      "keyIdea": "Urine is the main output; vomiting, bleeding, drains, and wounds are abnormal losses that shift balance fast.",
+     "source": "Fluid & Electrolytes slides 15, 28–29, 31",
      "body": "<p>Output is how fluid leaves. The normal routes are urine, stool, skin, and lungs. Urine is the biggest. The table shows daily amounts for a healthy adult. Intake and output are about equal. Drinking supplies only about half of daily water. Food and metabolism supply the rest.</p><p>Abnormal losses are vomiting, bleeding, drainage tubes or fistulas, and open wounds. Measure and record every abnormal loss. Report sharp increases. If vital signs are also unstable, escalate right away. Do not just document it.</p>",
      "table": {
       "caption": "Daily intake and output for an adult (about)",
@@ -948,7 +975,7 @@ window.NURSE_DATA.push({
       ],
       "rows": [
        [
-        "Urine",
+        "Urine (primary route)",
         "1,400–1,500",
         "Oral fluids",
         "1,200–1,500"
@@ -962,17 +989,11 @@ window.NURSE_DATA.push({
        [
         "Skin",
         "350–400",
-        "Water from food metabolism",
+        "Water from food metabolism (oxidation)",
         "200"
        ],
        [
-        "Stool",
-        "100–200",
-        "",
-        ""
-       ],
-       [
-        "Sweat (sensible)",
+        "Intestines (stool)",
         "100",
         "",
         ""
@@ -983,6 +1004,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do I check urine output?",
      "keyIdea": "Minimum urine output is 0.5 mL per kg per hour; always convert pounds to kilograms first.",
+     "source": "Fluid & Electrolytes slides 29, 52",
      "body": "<p>Two numbers matter most. First, the body must make <b>400–600 mL of urine a day</b> to clear wastes. This obligatory loss goes on even with no intake. Urine below it means wastes are not being cleared.</p><p>Second, your instructor says <b>KNOW THIS: minimum urine output is 0.5 mL/kg/hr</b>. Judge each client by their own weight. Balanced totals can still hide low urine.</p><p>If output is low, check the catheter for kinks and the bladder for fullness. Then report. AP can measure and record urine. Give them a clear number that means “tell me right away.”</p>",
      "steps": [
       "Get the weight in kilograms. If it is in pounds, divide by 2.2.",
@@ -999,7 +1021,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Sensible vs insensible: which losses count?",
      "keyIdea": "If you can measure it, record it; skin and lung losses are real but never added to the I&amp;O total.",
-     "body": "<p><b>Sensible losses</b> can be measured: urine, stool, vomit, and wound or drain output. <b>Insensible losses</b> cannot be measured. Skin loses water by evaporation, which rises with fever, heat, and dry air. Lungs lose water vapor, which rises with fast or deep breathing. Together, skin and lungs lose about 700–800 mL a day. Infants lose even more this way, because their skin and lung surface is large for their size.</p><p>Insensible losses are not on the I&amp;O, but they still affect hydration. So a “balanced” record can hide a deficit. Daily weights catch what I&amp;O misses. Weigh on the same scale, at the same time, in the same clothing.</p>",
+     "source": "Fluid & Electrolytes slides 28, 30, 34, 51 (with notes)",
+     "body": "<p><b>Sensible losses</b> can be measured: urine, stool, vomit, and wound or drain output. <b>Insensible losses</b> cannot be measured. Skin loses water by evaporation, which rises with fever, heat, and dry air. Lungs lose water vapor, which rises with fast or deep breathing. Together, skin and lungs lose about 700–800 mL a day. Infants lose even more this way, because their skin and lung surface is large for their size.</p><p>Insensible losses are not on the I&amp;O, but they still affect hydration. So a “balanced” record can hide a deficit. Daily weights catch what I&amp;O misses. Weigh on the same scale, at the same time, in the same clothing. A change of 1 kg (2.2 lb) equals about 1 L (1,000 mL) of fluid.</p>",
      "table": {
       "caption": "Sensible vs insensible",
       "headers": [
@@ -1035,6 +1058,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Which hormones control urine?",
      "keyIdea": "Aldosterone keeps sodium and water, ANF releases them, and ADH keeps water only.",
+     "source": "Fluid & Electrolytes slides 32–33",
      "body": "<p>The kidneys control most fluid output. Three hormones tell them what to keep or release.</p><p><b>Aldosterone</b> comes from the adrenal glands when blood volume is low. It tells the kidneys to keep sodium and water. Since water follows sodium, blood volume rises. Potassium is let go in the urine.</p><p><b>ANF</b> comes from the heart's atria when they are stretched by too much volume. It opposes aldosterone, so sodium and water leave and urine increases. <em>Natri</em> means sodium; <em>uretic</em> means urine.</p><p><b>ADH</b> comes from the pituitary gland when body fluids are concentrated. It keeps water only, so urine becomes less, darker, and higher in specific gravity. Large amounts of very dilute urine suggest ADH is missing.</p>",
      "table": {
       "caption": "Hormones that change urine output",
@@ -1071,6 +1095,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Watch for swapped hormones, unrecorded insensible losses, and urine totals not checked against weight.",
+     "source": "Fluid & Electrolytes slides 21, 29–30, 33",
      "body": "<p>These look-alikes show up often in answer choices. Slow down and check each one.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1109,6 +1134,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect urine output math, hormone matching, hidden insensible losses, and delegation of I&amp;O tasks.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "Is this urine output enough? Do the weight-based math.",
@@ -1131,6 +1157,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: a fever and a full sheet",
      "keyIdea": "A balanced I&amp;O can hide a deficit when fever and fast breathing raise unseen losses.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 29–30, 33",
      "body": "<p>Mr. L, 76, weighs 70 kg. He has pneumonia, a fever of 38.9 °C, and breathes 26 times a minute. His 8-hour I&amp;O shows 900 mL in and 850 mL out. He made 200 mL of dark urine.</p>",
      "steps": [
       "<b>Check urine:</b> 70 × 0.5 = 35 mL/hr. Over 8 hours, he needs 280 mL. 200 mL is too low.",
@@ -1286,7 +1313,8 @@ window.NURSE_DATA.push({
     {
      "heading": "What are the two families of IV fluid?",
      "keyIdea": "Small-particle crystalloids spread out into the tissues; large-molecule colloids stay in the vessels and pull fluid in.",
-     "body": "<p>Every IV fluid is water plus something dissolved in it. What is dissolved, and how big it is, decides where the fluid goes.</p><p><b>Crystalloids</b> have small particles such as sodium, chloride, potassium, and dextrose. These move easily, so the fluid spreads from the vessels into the tissues. Crystalloids are the most common IV fluids.</p><p><b>Colloids</b> have large molecules, such as proteins. They are too big to cross the capillary wall, so they stay in the vessels. There they attract water and pull fluid into the blood from the tissues. For any client, ask: will this be a crystalloid or a colloid?</p>",
+     "source": "Fluid & Electrolytes slides 35–36, 38 (with notes)",
+     "body": "<p>Every IV fluid is water plus something dissolved in it. What is dissolved, and how big it is, decides where the fluid goes.</p><p><b>Crystalloids</b> have small particles such as sodium, chloride, potassium, and dextrose. These move easily, so the fluid spreads from the vessels into the tissues. Crystalloids are the most common IV fluids.</p><p><b>Colloids</b> have large molecules, such as proteins. They are too big to cross the capillary wall, so they stay in the vessels. There they attract water and pull fluid into the blood from the tissues. For any client, ask: will this be a crystalloid or a colloid?</p><p>Your instructor's memory line: <b>crystalloids = hydration; colloids = volume expansion</b>.</p>",
      "table": {
       "caption": "Crystalloids vs colloids",
       "headers": [
@@ -1327,7 +1355,8 @@ window.NURSE_DATA.push({
     {
      "heading": "What do normal saline and LR do?",
      "keyIdea": "Isotonic NS and LR fill the vessels and tissues, not the cells, so watch for overload and a diluted hematocrit.",
-     "body": "<p>Isotonic fluids have about the same concentration as blood. So there is no major shift into or out of cells. The two to know are <b>0.9% normal saline (NS)</b> and <b>lactated Ringer's (LR)</b>.</p><p>They raise vessel and ECF volume, replace sodium, and support circulation. Part stays in the vessels and part moves into the tissues. They do not enter the cells. They are not interchangeable, so match the bag label to the order every time.</p>",
+     "source": "Fluid & Electrolytes slide 36 (with notes)",
+     "body": "<p>Isotonic fluids have about the same concentration as blood. So there is no major shift into or out of cells. The two to know are <b>0.9% normal saline (NS)</b> and <b>lactated Ringer's (LR)</b>.</p><p>They raise vessel and ECF volume, replace sodium, and support circulation. They do not enter the cells. Your instructor's note says “isotonic = stays in vascular space.” Some also spreads into the tissues, which are part of the ECF too. They are not interchangeable, so match the bag label to the order every time.</p>",
      "bullets": [
       "<b>Fluid overload:</b> the biggest risk is a heart or kidneys that cannot keep up. Think older adults, heart failure, and kidney disease. Watch the lungs, weight, and I&amp;O.",
       "<b>Diluted hematocrit:</b> extra fluid adds liquid but no red cells, so the percent drops. This is hemodilution.",
@@ -1339,6 +1368,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What makes lactated Ringer's special?",
      "keyIdea": "LR's lactate is turned into bicarbonate, which helps correct metabolic acidosis.",
+     "source": "Fluid & Electrolytes slide 37",
      "body": "<p>Normal saline has only sodium and chloride. LR is a <b>balanced electrolyte solution</b>. It has sodium, potassium, calcium, and lactate in amounts close to plasma.</p><p>The special part is lactate. The liver turns lactate into <b>bicarbonate</b> (HCO₃⁻). Bicarbonate is a base that neutralizes acid. So LR helps correct <b>metabolic acidosis</b>, which means blood that is too acidic from a body chemistry problem, not a breathing problem.</p><p>Need volume plus help with acidosis? Think LR. It is working when volume signs improve and bicarbonate and pH move toward normal.</p>",
      "steps": [
       "LR goes into the vein.",
@@ -1355,6 +1385,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What do dextrose fluids do?",
      "keyIdea": "Dextrose fluids give hydration plus a little energy, not nutrition; D5W then acts like plain water.",
+     "source": "Fluid & Electrolytes slide 37 (course-vs-textbook tonicity note added)",
      "body": "<p>Dextrose is sugar (glucose). Your slides list <b>D5W</b> and <b>D5½NS</b> for hydration and energy support. Read the names like a recipe. D5 means 5% dextrose, or 5 grams of sugar per 100 mL. W means water. ½NS means half-strength saline (0.45%).</p><p>The sugar gives a few calories, far too few for nutrition. Cells use it fast. What is left is the water and any salt. So <b>D5W acts like plain water</b> and spreads into all compartments, including cells. That makes it a poor volume expander. D5½NS acts like half-strength saline.</p><p>Books label these differently. D5W is often called isotonic in the bag but acts hypotonic in the body. Follow your course materials.</p>",
      "table": {
       "caption": "Common crystalloids on your slides",
@@ -1391,6 +1422,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What are colloids, and when are they used?",
      "keyIdea": "Albumin and dextran 40 stay in the vessels and pull fluid in; the first minutes are for watching for anaphylaxis.",
+     "source": "Fluid & Electrolytes slide 38 (burn timing added for the NCLEX)",
      "body": "<p>Colloids have large molecules that stay in the vessels. They pull fluid from the tissues back into the blood. The main one is <b>albumin, 5% or 25%</b>. It is made from human plasma. Tell clients this honestly, and respect their right to decide. <b>Dextran 40</b> is a man-made colloid that works the same way.</p><p>Albumin is used in shock and burns and reduces third spacing. Shock means blood flow to organs is too low. Third spacing is fluid trapped in tissues, where it cannot help circulation.</p><p>Timing for burns: in the first 24 hours, capillaries leak so much that even albumin escapes. So isotonic crystalloid, usually LR, comes first. Albumin is usually added after 24 hours.</p>",
      "bullets": [
       "Get baseline vital signs, lung sounds, and weight before you start.",
@@ -1407,6 +1439,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why does albumin matter so much?",
      "keyIdea": "Albumin is a magnet that holds fluid in the vessels; low albumin lets fluid leak into tissues and drops blood pressure.",
+     "source": "Fluid & Electrolytes slide 39 (with notes)",
      "body": "<p>Albumin is not only an IV fluid. It is the body's main plasma protein, made by the liver. It acts like a <b>magnet for water</b>. It pulls fluid into the vessels, helps keep blood volume, and creates oncotic pressure. In short, albumin keeps fluid inside the blood vessels.</p><p>When albumin is low, the magnet is weak. Fluid leaves the blood and moves into tissues. So swollen tissues can sit beside an empty vascular space. The findings are in the bullets.</p><p>Low albumin becomes urgent when blood pressure falls. Prealbumin shows recent nutrition over days. Albumin shows longer-term protein status.</p>",
      "bullets": [
       "<b>Edema:</b> swelling from fluid in the tissues.",
@@ -1440,6 +1473,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do I monitor IV fluids?",
      "keyIdea": "Check the order, get a baseline, monitor closely, and judge the fluid by the client's response.",
+     "source": "Fluid & Electrolytes slides 36, 38, 52–53 (monitoring steps added for the NCLEX)",
      "body": "<p>Use these steps each time you hang or monitor an IV fluid. Judge a fluid bolus by the client's response, especially urine output of at least 0.5 mL/kg/hr.</p><p>AP can measure and record I&amp;O and report numbers. The nurse assesses, teaches, and interprets. Count the IV fluid as intake.</p>",
      "steps": [
       "<b>Check the order:</b> fluid type, volume, and rate. Match the bag label to the order.",
@@ -1452,6 +1486,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What if overload or a reaction starts?",
      "keyIdea": "Overload: sit the client up and slow the fluid. Allergic signs on a colloid: stop the infusion first.",
+     "source": "Fluid & Electrolytes slides 36, 38, 53 (first actions added for the NCLEX)",
      "body": "<p>Two problems need fast action. Know the first move for each. A new breathing problem comes before routine tasks, like a supply request or an expected IV site change.</p>",
      "table": {
       "caption": "Two IV emergencies",
@@ -1483,6 +1518,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Know where each fluid goes: isotonic stays in the ECF, D5W goes everywhere, colloids stay in the vessels.",
+     "source": "Fluid & Electrolytes slides 35–39",
      "body": "<p>These pairs show up as wrong answers. Use the table to tell them apart.</p>",
      "table": {
       "caption": "Look-alikes and how to tell them apart",
@@ -1521,6 +1557,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect matching fluids to goals, spotting overload or anaphylaxis, and choosing which client to see first.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "Which fluid fits this goal? Volume, acidosis help, or hydration with a little energy.",
@@ -1543,6 +1580,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: albumin for low blood pressure",
      "keyIdea": "Albumin working means blood pressure up, urine up, edema down; new crackles mean overload.",
+     "source": "Added: worked example based on Fluid & Electrolytes slides 38–39",
      "body": "<p>Ms. T, 60, has liver disease. Her albumin is 2.1 g/dL. She has ascites, leg edema, and a blood pressure of 90/54. The provider orders 25% albumin.</p>",
      "steps": [
       "<b>Why is she sick?</b> Low albumin means weak pull, so fluid leaks into her belly and legs.",

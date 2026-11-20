@@ -56,9 +56,7 @@ export function CheckCard({ c, label = 'Quick check' }: { c: SelfCheck; label?: 
   return (
     <div className={cx('check-card', open && 'open')}>
       <div className="check-q">
-        <span className="check-label">
-          <Icon name="target" /> {label}
-        </span>
+        <span className="check-label">{label}</span>
         <Html as="p" html={c.q} />
       </div>
       <AnimatePresence initial={false} mode="wait">
@@ -93,7 +91,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       <div className="article-meta">
         {topic.exemplar && <span className="exemplar-tag">Exemplar {topic.exemplar}</span>}
         <span className="read-time">
-          <Icon name="clock" /> {mins} min read{parts ? ` · ${parts} parts` : ''}
+          {mins} min read{parts ? ` · ${parts} parts` : ''}
         </span>
       </div>
       {compact ? <h2 className="article-title">{topic.title}</h2> : <h1>{topic.title}</h1>}
@@ -102,7 +100,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!!topic.recap?.length && (
         <section className="key-points" aria-label="Key points">
           <h2 className="kp-title">
-            <Icon name="check" /> Key points <span>the 2-minute version</span>
+            Key points <span>· the 2-minute version</span>
           </h2>
           <ul>
             {topic.recap.map((r, i) => (
@@ -122,7 +120,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!!topic.objectives?.length && (
         <details className="lesson-details">
           <summary>
-            <Icon name="target" /> What you’ll be able to do <span className="faint">({topic.objectives.length})</span>
+            What you’ll be able to do
           </summary>
           <ul>
             {topic.objectives.map((o, i) => (
@@ -135,7 +133,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!!topic.keyTerms?.length && (
         <details className="lesson-details key-terms" open={!compact}>
           <summary>
-            <Icon name="book" /> Key terms <span className="faint">({topic.keyTerms.length})</span>
+            Key terms <span className="faint">({topic.keyTerms.length})</span>
           </summary>
           <dl>
             {topic.keyTerms.map((k) => (
@@ -151,7 +149,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!compact && parts > 2 && (
         <details className="lesson-details outline-sm">
           <summary>
-            <Icon name="list" /> In this lesson <span className="faint">({parts} parts)</span>
+            In this lesson <span className="faint">({parts} parts)</span>
           </summary>
           <ol>
             {sections.map((s, i) =>
@@ -171,17 +169,11 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
         <section key={i} id={sectionId(i)} className="lesson-section">
           {s.heading && (
             <>
-              <span className="part-no">
-                Part {sections.slice(0, i + 1).filter((x) => x.heading).length} of {parts}
-              </span>
+              <span className="part-no">Part {sections.slice(0, i + 1).filter((x) => x.heading).length}</span>
               <h2>{s.heading}</h2>
             </>
           )}
-          {s.keyIdea && (
-            <p className="key-idea">
-              <Icon name="bulb" /> <Html html={s.keyIdea} />
-            </p>
-          )}
+          {s.keyIdea && <Html as="p" className="key-idea" html={s.keyIdea} />}
           {s.body && <Html as="div" className="prose" html={tidyHtml(s.body)} />}
           {s.bullets && (
             <ul>
@@ -204,7 +196,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
           {s.analogy && (
             <div className="callout analogy">
               <h3>
-                <Icon name="bulb" /> Think of it like this
+                Think of it like this
               </h3>
               <Html as="p" html={s.analogy} />
             </div>
@@ -212,12 +204,17 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
           {s.example && (
             <div className="callout example">
               <h3>
-                <Icon name="clipboard" /> At the bedside
+                At the bedside
               </h3>
               <Html as="div" html={tidyHtml(s.example.replace(/^\s*<strong>\s*At the bedside:?\s*<\/strong>:?\s*/i, ''))} />
             </div>
           )}
           {s.check && <CheckCard c={s.check} />}
+          {s.source && (
+            <p className="part-source">
+              <span>Source:</span> {s.source}
+            </p>
+          )}
         </section>
       ))}
 
@@ -230,7 +227,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!!topic.mnemonics?.length && (
         <div className="callout mnemonic">
           <h3>
-            <Icon name="sparkle" /> Memory aids
+            Memory aids
           </h3>
           {topic.mnemonics.map((m) => (
             <div key={m.name} className="mnemonic-row">
@@ -244,7 +241,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!!topic.pearls?.length && (
         <div className="callout pearl" id="sec-pearls">
           <h3>
-            <Icon name="sparkle" /> NCLEX tips
+            NCLEX tips
           </h3>
           <ul>
             {topic.pearls.map((p, i) => (
@@ -257,7 +254,7 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
       {!!topic.redFlags?.length && (
         <div className="callout red" id="sec-red">
           <h3>
-            <Icon name="alert" /> Red flags — act now
+            Red flags — act now
           </h3>
           <ul>
             {topic.redFlags.map((p, i) => (

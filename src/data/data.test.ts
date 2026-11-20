@@ -87,6 +87,7 @@ describe('content integrity', () => {
         for (const s of t.sections ?? []) {
           if (/^Course source/.test(s.heading ?? '')) continue;
           expect(s.keyIdea, `${m.id}/${t.id} · ${s.heading}`).toBeTruthy();
+          expect(s.source?.length ?? 0, `${m.id}/${t.id} · ${s.heading} source`).toBeGreaterThan(7);
           expect(s.body ?? '', `${m.id}/${t.id} · ${s.heading} inline list`).not.toMatch(/\(1\)[\s\S]*\(2\)[\s\S]*\(3\)/);
         }
         const heads = (t.sections ?? []).map((s) => s.heading ?? '');

@@ -1,44 +1,35 @@
 import { motion, useScroll, useSpring } from 'motion/react';
 import { Link, useParams } from 'react-router-dom';
-import { MODULE_BY_ID, UNGROUPED_MODULES, UNITS, UNIT_BY_SLUG, isNewModule, readingMinutes, topicKey, unitModules, unitOf } from '../data';
+import { MODULE_BY_ID, UNGROUPED_MODULES, UNITS, UNIT_BY_SLUG, readingMinutes, topicKey, unitModules, unitOf } from '../data';
 import type { Module, Topic } from '../data/types';
 import { Icon } from '../components/Icon';
 import { TopicArticle, sectionId } from '../components/TopicArticle';
 import { useEffect, useState } from 'react';
-import { Bar, stagger } from '../components/ui';
 import { statusOf } from '../lib/analytics';
 import { cx } from '../lib/util';
 import { useProgress } from '../store/progress';
-import { Footer, ModuleGlyph } from './Home';
+import { Footer } from './Home';
 import { NotFound } from './NotFound';
 import { NewBadge } from '../components/UnitOverview';
 
-export function ModuleCard({ m, label }: { m: Module; label?: string }) {
+export function ModuleCard({ m }: { m: Module; label?: string }) {
   const read = useProgress((s) => s.read);
   const done = m.topics.filter((t) => read[topicKey(m.id, t.id)]).length;
-  const fresh = isNewModule(m.id);
   return (
-    <Link to={`/learn/${m.id}`} className={cx('card card-link module-card', fresh && 'is-new')} style={{ ['--mc' as string]: m.color }}>
-      {fresh && <NewBadge />}
-      <ModuleGlyph icon={m.icon} />
-      <div className="module-num" style={{ marginTop: 14 }}>
-        {label ? `${label.toUpperCase()} · ` : ''}MODULE {m.number}
-      </div>
-      <h3>{m.title}</h3>
-      <p>{m.overview || m.tagline}</p>
-      <div className="module-meta">
-        <span><b>{m.topics.length}</b> lessons</span>
-        <span><b>{m.questions.length}</b> questions</span>
-        <span><b>{m.flashcards.length}</b> cards</span>
-      </div>
-      <div className="module-foot">
-        <div style={{ flex: 1 }}>
-          <Bar value={done / Math.max(1, m.topics.length)} color={m.color} />
-        </div>
-        <span className="faint small">
-          {done}/{m.topics.length} read
+    <Link to={`/learn/${m.id}`} className="row-link">
+      <div className="row-main">
+        <span className="row-kicker">
+          Module {m.number}
+        </span>
+        <strong>{m.title}</strong>
+        <span className="row-sub">
+          {m.topics.length} lesson{m.topics.length === 1 ? '' : 's'} · {m.questions.length} questions · {done}/{m.topics.length} read
         </span>
       </div>
+      <div className="row-progress" aria-hidden="true">
+        <i style={{ width: `${(done / Math.max(1, m.topics.length)) * 100}%` }} />
+      </div>
+      <Icon name="chevronRight" className="row-chev" />
     </Link>
   );
 }
@@ -48,11 +39,8 @@ export function Learn() {
     <div className="container">
       <header className="page-head">
         <span className="eyebrow">Learn</span>
-        <h1>Study guides</h1>
-        <p>
-          Full lessons built from your course materials — each one teaches the concept, shows how the NCLEX tests it, walks through a worked case,
-          and ends with self-checks. New material is marked <NewBadge />.
-        </p>
+        <h1>Lessons</h1>
+        <p>Plain-language lessons built from your course slides and study guides. Each one ends with questions you can practice.</p>
       </header>
       {UNITS.map((u) => (
         <section className={cx('section unit-section', u.isNew && 'is-new-section')} key={u.slug} aria-label={u.title}>
@@ -65,13 +53,13 @@ export function Learn() {
               {u.label} overview <Icon name="arrowRight" />
             </Link>
           </div>
-          <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" animate="show">
+          <ul className="row-list">
             {unitModules(u).map((m) => (
-              <motion.div key={m.id} variants={stagger.item}>
+              <li key={m.id}>
                 <ModuleCard m={m} />
-              </motion.div>
+              </li>
             ))}
-          </motion.div>
+          </ul>
         </section>
       ))}
       {UNGROUPED_MODULES.length > 0 && (
@@ -96,44 +84,29 @@ export function UnitPage({ slug }: { slug: string }) {
   const query = `modules=${unit.moduleIds.join(',')}`;
   const topics = mods.flatMap((m) => m.topics);
   const questions = mods.flatMap((m) => m.questions);
-  const cards = mods.flatMap((m) => m.flashcards);
+  const firstLesson = mods[0]?.topics[0];
   return (
-    <div className="container" style={{ ['--mc' as string]: unit.color }}>
+    <div className="container">
       <nav className="crumbs"><Link to="/learn">Learn</Link><Icon name="chevronRight" width={14} /><span>{unit.label}</span></nav>
-      <section className="module-banner">
-        <div className="module-num">{unit.eyebrow.toUpperCase()}</div>
+      <header className="page-head plain-head">
+        <span className="eyebrow">{unit.eyebrow} {unit.isNew && <NewBadge />}</span>
         <h1>{unit.title}</h1>
         <p>{unit.overview}</p>
-        <div className="row" style={{ marginTop: 22 }}>
-          <Link className="btn btn-primary" to={`/practice?${query}`}><Icon name="pulse" /> Practice {unit.label} · {questions.length}</Link>
-          <Link className="btn" to={`/flashcards?${query}`}><Icon name="cards" /> Flashcards</Link>
-          <Link className="btn" to={`/exam?${query}`}><Icon name="exam" /> Unit exam</Link>
+        <div className="head-actions">
+          {firstLesson && <Link className="btn btn-primary" to={`/learn/${mods[0].id}/${firstLesson.id}`}>Start the first lesson</Link>}
+          <Link className="btn" to={`/practice?${query}`}>Practice this unit</Link>
+          <Link className="text-link" to={`/flashcards?${query}`}>Flashcards</Link>
+          <Link className="text-link" to={`/exam?${query}`}>Unit exam</Link>
         </div>
-        <div className="banner-stats">
-          <span><b>{mods.length}</b> modules</span>
-          <span><b>{topics.length}</b> full lessons</span>
-          <span><b>{questions.length}</b> questions</span>
-          <span><b>{cards.length}</b> flashcards</span>
-        </div>
-      </section>
-      {unit.isNew && (
-        <section className="section card how-to-study">
-          <span className="eyebrow">How to study this unit</span>
-          <ol>
-            <li><b>Read the lesson</b> for one topic — pay special attention to “How the NCLEX tests this” and the worked case.</li>
-            <li><b>Answer the self-checks</b> at the end before looking at the answers.</li>
-            <li><b>Practice that topic</b> with hints on. Read every option rationale — especially for the ones you got right but weren’t sure about.</li>
-            <li><b>Review flashcards</b>, then take a timed unit exam once you’ve finished several modules.</li>
-          </ol>
-        </section>
-      )}
-      <section className="section" aria-label={`${unit.label} modules`}>
-        <div className="section-head"><h2>Concepts &amp; exemplars</h2></div>
-        <div className="grid grid-2">
+        <p className="head-meta">{mods.length} modules · {topics.length} lessons · {questions.length} questions</p>
+      </header>
+      <section className="section">
+        <h2 className="list-title">Modules</h2>
+        <ul className="row-list">
           {mods.map((m) => (
-            <ModuleCard key={m.id} m={m} />
+            <li key={m.id}><ModuleCard m={m} /></li>
           ))}
-        </div>
+        </ul>
       </section>
       <Footer />
     </div>
@@ -166,73 +139,57 @@ export function ModulePage() {
   const { read, attempts } = useProgress();
   if (!m) return <NotFound />;
   const mastered = m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
+  const nextLesson = m.topics.find((t) => !read[topicKey(m.id, t.id)]) ?? m.topics[0];
   let idx = 0;
   return (
-    <div className="container" style={{ ['--mc' as string]: m.color }}>
+    <div className="container">
       <nav className="crumbs">
         <Link to="/learn">Learn</Link> <Icon name="chevronRight" width={14} />
         <UnitCrumb moduleId={m.id} />
         <span>Module {m.number}</span>
       </nav>
-      <motion.section className="module-banner" initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.6 }}>
-        <div className="glyph-bg">
-          <Icon name={m.icon} />
-        </div>
-        <div className="module-num">MODULE {m.number}{isNewModule(m.id) && <> · <NewBadge /></>}</div>
+      <header className="page-head plain-head">
+        <span className="eyebrow">Module {m.number}</span>
         <h1>{m.title}</h1>
         <p>{m.overview || m.tagline}</p>
-        <div className="row" style={{ marginTop: 22 }}>
-          <Link className="btn btn-primary" to={`/practice?modules=${m.id}`}>
-            <Icon name="pulse" /> Practice module · {m.questions.length}
-          </Link>
-          <Link className="btn" to={`/flashcards?modules=${m.id}`}>
-            <Icon name="cards" /> Flashcards
-          </Link>
-          <Link className="btn" to={`/exam?modules=${m.id}`}>
-            <Icon name="exam" /> Module exam
-          </Link>
+        <div className="head-actions">
+          {nextLesson && (
+            <Link className="btn btn-primary" to={`/learn/${m.id}/${nextLesson.id}`}>
+              {read[topicKey(m.id, nextLesson.id)] ? 'Review lessons' : m.topics.some((t) => read[topicKey(m.id, t.id)]) ? 'Continue reading' : 'Start the first lesson'}
+            </Link>
+          )}
+          <Link className="btn" to={`/practice?modules=${m.id}`}>Practice this module</Link>
+          <Link className="text-link" to={`/flashcards?modules=${m.id}`}>Flashcards</Link>
+          <Link className="text-link" to={`/exam?modules=${m.id}`}>Module exam</Link>
         </div>
-        <div className="banner-stats">
-          <span>
-            <b>{m.topics.filter((t) => read[topicKey(m.id, t.id)]).length}</b>/{m.topics.length} topics read
-          </span>
-          <span>
-            <b>{mastered}</b>/{m.questions.length} questions mastered
-          </span>
-        </div>
-      </motion.section>
+        <p className="head-meta">
+          {m.topics.filter((t) => read[topicKey(m.id, t.id)]).length}/{m.topics.length} lessons read · {mastered}/{m.questions.length} questions mastered
+        </p>
+      </header>
 
       {groupTopics(m).map(([group, topics]) => (
         <section className="section" key={group}>
-          <div className="section-head">
-            <h2>{group}</h2>
-          </div>
-          <motion.div className="topic-list" variants={stagger.container} initial="hidden" animate="show">
+          <h2 className="list-title">{group}</h2>
+          <ol className="row-list lesson-list">
             {topics.map((t) => {
               idx++;
               const done = !!read[topicKey(m.id, t.id)];
               const n = m.questions.filter((q) => q.topic === t.id).length;
               return (
-                <motion.div key={t.id} variants={stagger.item}>
-                  <Link to={`/learn/${m.id}/${t.id}`} className={cx('topic-item', done && 'done')}>
-                    <span className="topic-idx">{done ? <Icon name="check" width={16} /> : String(idx).padStart(2, '0')}</span>
-                    <div>
-                      <h3>{t.title}</h3>
-                      <p>
-                        {t.summary ? t.summary.replace(/<[^>]+>/g, '') : ''}{' '}
-                        <span className="faint">
-                          · {readingMinutes(t)} min read{n ? ` · ${n} questions` : ''}
-                        </span>
-                      </p>
+                <li key={t.id}>
+                  <Link to={`/learn/${m.id}/${t.id}`} className={cx('row-link', done && 'done')}>
+                    <span className="row-num">{done ? <Icon name="check" width={16} /> : idx}</span>
+                    <div className="row-main">
+                      <strong>{t.title}</strong>
+                      <span className="row-sub">{t.summary ? t.summary.replace(/<[^>]+>/g, '') : ''}</span>
+                      <span className="row-meta">{readingMinutes(t)} min read{n ? ` · ${n} questions` : ''}</span>
                     </div>
-                    <span className="arrow">
-                      <Icon name="arrowRight" width={18} />
-                    </span>
+                    <Icon name="chevronRight" className="row-chev" />
                   </Link>
-                </motion.div>
+                </li>
               );
             })}
-          </motion.div>
+          </ol>
         </section>
       ))}
       <Footer />
@@ -276,8 +233,9 @@ export function TopicPage() {
     document.getElementById(sectionId(j))?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
+  const parts = (topic.sections ?? []).map((s, j) => ({ s, j })).filter((x) => x.s.heading);
   return (
-    <div className="container" style={{ ['--mc' as string]: m.color }}>
+    <div className="container lesson-page">
       <motion.div className="read-progress" style={{ scaleX: progress }} />
       <nav className="crumbs">
         <Link to="/learn">Learn</Link> <Icon name="chevronRight" width={14} />
@@ -286,72 +244,71 @@ export function TopicPage() {
           Module {m.number} · {m.title}
         </Link>
       </nav>
-      <div className="reader">
-        <aside className="toc" aria-label="Lessons in this module">
-          <span className="eyebrow toc-head">Module {m.number} lessons</span>
-          {m.topics.map((t) => (
-            <div key={t.id}>
-              <Link to={`/learn/${m.id}/${t.id}`} className={cx(t.id === topic.id && 'current')}>
-                {read[topicKey(m.id, t.id)] && <Icon name="check" width={13} className="toc-check" />}
-                {t.title}
-              </Link>
-              {t.id === topic.id && (
-                <ol className="toc-sections">
-                  {(topic.sections ?? []).map((s, j) =>
-                    s.heading ? (
-                      <li key={j}>
-                        <a href={`#${sectionId(j)}`} onClick={go(j)} className={cx(activeSec === j && 'on')}>
-                          {s.heading}
-                        </a>
-                      </li>
-                    ) : null,
-                  )}
-                </ol>
-              )}
-            </div>
-          ))}
-          {n > 0 && (
-            <Link className="btn btn-primary btn-sm toc-cta" to={`/practice?modules=${m.id}&topics=${key}`}>
-              <Icon name="pulse" /> Practice this lesson · {n}
-            </Link>
-          )}
-        </aside>
-        <div>
+      <div className="lesson-layout">
+        <div className="lesson-main">
+          <details className="lesson-switch">
+            <summary>
+              Lesson {i + 1} of {m.topics.length} in Module {m.number}
+            </summary>
+            <ol>
+              {m.topics.map((t, k) => (
+                <li key={t.id}>
+                  <Link to={`/learn/${m.id}/${t.id}`} className={cx(t.id === topic.id && 'current')}>
+                    <span className="ls-n">{read[topicKey(m.id, t.id)] ? <Icon name="check" width={13} /> : k + 1}</span>
+                    {t.title}
+                  </Link>
+                </li>
+              ))}
+            </ol>
+          </details>
           <TopicArticle moduleId={m.id} topic={topic} />
           <motion.div onViewportEnter={() => markRead(key)} viewport={{ once: true }} />
-          <div className="article-foot">
-            <div className="foot-msg">
-              <b>Finished reading?</b> Lock it in with questions on this lesson.
+          <div className="lesson-end">
+            <h2>You finished this lesson</h2>
+            <p>Now answer a few questions on it — that is where it sticks.</p>
+            <div className="head-actions">
+              {n > 0 && (
+                <Link className="btn btn-primary" to={`/practice?modules=${m.id}&topics=${key}`}>
+                  Practice this lesson ({n} questions)
+                </Link>
+              )}
+              {next ? (
+                <Link className="btn" to={`/learn/${m.id}/${next.id}`}>
+                  Next lesson: {next.title}
+                </Link>
+              ) : (
+                <Link className="btn" to={`/learn/${m.id}`}>
+                  Back to Module {m.number}
+                </Link>
+              )}
+              <Link className="text-link" to={`/flashcards?modules=${m.id}&topics=${topic.id}`}>
+                Flashcards
+              </Link>
             </div>
-            {n > 0 && (
-              <Link className="btn btn-primary" to={`/practice?modules=${m.id}&topics=${key}`}>
-                <Icon name="pulse" /> Practice this lesson · {n}
-              </Link>
-            )}
-            <Link className="btn" to={`/flashcards?modules=${m.id}&topics=${topic.id}`}>
-              <Icon name="cards" /> Flashcards
-            </Link>
-            {read[key] && (
-              <span className="badge badge-good" style={{ alignSelf: 'center' }}>
-                <Icon name="check" width={13} /> Read
-              </span>
-            )}
-          </div>
-          <div className="pager">
             {prev && (
-              <Link to={`/learn/${m.id}/${prev.id}`}>
-                <small>← Previous</small>
-                <b>{prev.title}</b>
-              </Link>
-            )}
-            {next && (
-              <Link className="next" to={`/learn/${m.id}/${next.id}`}>
-                <small>Next →</small>
-                <b>{next.title}</b>
-              </Link>
+              <p className="faint small">
+                Previous: <Link to={`/learn/${m.id}/${prev.id}`}>{prev.title}</Link>
+              </p>
             )}
           </div>
         </div>
+        <aside className="on-page" aria-label="On this page">
+          <span className="on-page-title">On this page</span>
+          <ol>
+            {parts.map(({ s, j }) => (
+              <li key={j}>
+                <a href={`#${sectionId(j)}`} onClick={go(j)} className={cx(activeSec === j && 'on')}>
+                  {s.heading}
+                </a>
+              </li>
+            ))}
+          </ol>
+          {n > 0 && (
+            <Link className="btn btn-sm on-page-cta" to={`/practice?modules=${m.id}&topics=${key}`}>
+              Practice this lesson
+            </Link>
+          )}
+        </aside>
       </div>
     </div>
   );

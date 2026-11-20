@@ -20,7 +20,7 @@ window.NURSE_DATA.push({
       ],
       "bigPicture": "<p>Cognition means thinking. It is how a person takes in, stores, finds, and uses information. It lets you hear a sound, remember a direction, plan a step, and judge if it is safe. A client can know their name and place and still be unable to sort their pills.</p><p>As a nurse, you ask two questions. What has changed? How does the change affect safety and daily life? A sudden change is a warning sign. It needs a search for a cause, not just a low score on a form.</p>",
       "recap": [
-        "Cognition includes perception, attention, memory, language, planning, movement control, and daily-life skills.",
+        "Cognition includes perception, attention, memory, communication, motor and executive function, and intellectual and adaptive function.",
         "Knowing name, place, and date does not prove the client can plan or manage medicines.",
         "Check hearing, vision, language, pain, and fatigue before you call an error a thinking problem.",
         "Always compare with baseline: what was usual, what changed, and how fast.",
@@ -86,33 +86,88 @@ window.NURSE_DATA.push({
       "sections": [
         {
           "heading": "What is cognition?",
-          "keyIdea": "Thinking is a team of skills, and a problem in one skill can look like a problem in another.",
-          "body": "<p>Cognition is not one skill. It is several skills working together. If one fails, the others may look broken too. A client who cannot hear a direction may seem unable to remember it.</p><p>Your course links brain areas to these skills. The cortex supports thinking and reasoning. The limbic system supports emotion and motivation. The reticular activating system keeps us alert. The cerebellum coordinates movement. Chemical messengers, called neurotransmitters, carry signals between them.</p><p>You do not need to match every finding to one brain part. Your job is simpler. Name the skill that is affected. Notice what changed. Then protect safety and look for causes that can be fixed.</p>",
+          "keyIdea": "Cognition is a team of skills, and a problem in one skill can look like a problem in another.",
+          "body": "<p>Your course defines cognition as the mental process of taking in, storing, retrieving, and using information. It lets us adapt, interact, and function in daily life. It includes perception, attention, memory, communication, decision-making, and problem-solving.</p><p>These skills work together. If one fails, the others may look broken too. A client who cannot hear a direction may seem unable to remember it.</p><p>You do not need to match every finding to one brain part. Name the skill that is affected. Notice what changed. Then protect safety and look for causes that can be fixed.</p><p>The table shows the brain parts your course links to cognition. Chemical messengers (neurotransmitters) carry signals. The course names dopamine, serotonin, acetylcholine, and GABA. Dopamine and norepinephrine help with attention. Up to 80% of differences in cognition between people may be genetic.</p>",
           "bullets": [
-            "<b>Perception:</b> making sense of what the senses detect.",
-            "<b>Attention:</b> picking what to focus on and staying with it.",
-            "<b>Memory:</b> storing information and finding it again.",
-            "<b>Language:</b> understanding and expressing words.",
-            "<b>Executive function:</b> planning and organizing a response.",
-            "<b>Motor and adaptive skills:</b> coordinated movement and daily-life tasks."
+            "<b>Perception:</b> how we interpret sensory input (touch, taste, vision, hearing, smell). Orientation is part of it: awareness of person, place, time, and situation.",
+            "<b>Attention:</b> staying alert and focusing on one task at a time. It is affected by fatigue, stress, development, and environment.",
+            "<b>Memory:</b> how we store and retrieve information.",
+            "<b>Communication and social cognition:</b> how we understand and respond to others, including social cues and emotions.",
+            "<b>Motor and executive function:</b> how we plan, organize, and carry out actions.",
+            "<b>Intellectual and adaptive function:</b> how we learn, reason, and live independently."
           ],
-          "analogy": "Think of following a recipe. You need to see the page, pay attention to the next step, remember what you already did, and plan what comes next. Knowing today’s date does not prove you can cook the meal."
+          "source": "Cognition slides 3–6, 8–11, and 19",
+          "analogy": "Think of following a recipe. You need to see the page, pay attention to the next step, remember what you already did, and plan what comes next. Knowing today’s date does not prove you can cook the meal.",
+          "table": {
+            "headers": [
+              "Brain part",
+              "Main role in cognition"
+            ],
+            "rows": [
+              [
+                "Cerebral cortex",
+                "Thinking, memory, reasoning"
+              ],
+              [
+                "Frontal cortex",
+                "Attention and executive function"
+              ],
+              [
+                "Limbic system",
+                "Emotion and motivation"
+              ],
+              [
+                "Reticular activating system (RAS)",
+                "Alertness; works with the thalamus to control attention"
+              ],
+              [
+                "Cerebellum",
+                "Coordination of movement"
+              ]
+            ]
+          }
         },
         {
           "heading": "How does memory work?",
           "keyIdea": "Memory has layers, so test it in a real task and look for things that block it before calling it dementia.",
-          "body": "<p>Sensory memory lasts only a moment. Short-term and working memory hold a direction long enough to carry it out. Long-term memory stores facts and events, called declarative memory. It also stores learned skills, called nondeclarative memory.</p><p>These layers can fail separately. A client may recall childhood clearly but forget this morning’s teaching. So assess memory in context. Can the client explain a recent event? Can they recall your teaching after a short break and use it?</p><p>Many things can block memory for a while. Do not call every mistake dementia. Find out what happened and compare with baseline. Asking the same question again and again can upset a client and make results worse.</p>",
+          "body": "<p>Memory is the process of storing and recalling information. Your course names three layers. Sensory memory is immediate and lasts only seconds. Short-term memory is working memory, used for active thinking. Long-term memory stores information indefinitely.</p><p>Long-term memory has two kinds. Declarative memory holds facts and events. Nondeclarative memory holds learned skills, like walking or riding a bike.</p><p>These layers can fail separately. A client may recall childhood clearly but forget this morning’s teaching. So assess memory in context. Can the client recall your teaching after a short break and use it?</p><p>Memory problems range from mild to severe and from temporary to permanent. Amnesia is memory loss, recent or remote. Do not call every mistake dementia. Compare with baseline. Asking the same question again and again can upset a client and make results worse.</p>",
           "bullets": [
-            "Anxiety, fatigue, or pain.",
-            "Hearing or vision loss.",
-            "A language mismatch between nurse and client.",
-            "Medication effects."
-          ]
+            "<b>Course causes of memory problems:</b> illness, trauma, or medication.",
+            "<b>Things that also block attention and recall:</b> fatigue, stress or anxiety, and pain.",
+            "<b>Access problems that look like memory loss:</b> hearing or vision loss, or a language mismatch between nurse and client."
+          ],
+          "source": "Cognition slides 6–7 and 16"
         },
         {
-          "heading": "Speaking, understanding, and doing tasks",
+          "heading": "When thinking skills break down",
+          "keyIdea": "Cognitive disorders disrupt brain structure or function, so learn the common signs and spot them early.",
+          "body": "<p>Cognitive disorders can affect perception, attention, memory, communication, and executive function. The changes come from a disruption in brain structure or function. Signs vary with the disorder and the brain area affected. Nurses must recognize early signs to keep clients safe.</p><p>Attention problems mean trouble focusing, staying focused, or shifting focus. They may come from cognitive disorders, such as ADHD or dementia. They may also come from acute illness, stress, anxiety, or medicine effects. The client then struggles to filter what matters or control responses.</p><p>Executive function is controlled by the frontal cortex. It covers planning, organizing, prioritizing, and controlling emotions. Examples are following directions, managing time, and finishing multistep tasks.</p>",
+          "table": {
+            "headers": [
+              "Area",
+              "Course terms and findings"
+            ],
+            "rows": [
+              [
+                "General signs",
+                "Confusion or disorientation; memory impairment; altered thought processes; poor judgment or short attention span; changes in mood, personality, or behavior"
+              ],
+              [
+                "Perception",
+                "Confusion: unclear thinking, poor judgment. Disorientation: cannot identify person, place, time, or situation. Psychosis: loss of contact with reality; may include delusions or hallucinations."
+              ],
+              [
+                "Executive function",
+                "Poor judgment and decisions; emotional dysregulation; forgetfulness and disorganization; decreased motivation (avolition); personality changes"
+              ]
+            ]
+          },
+          "source": "Cognition slides 9, 12–15, and 19"
+        },
+        {
+          "heading": "Speaking, understanding, and moving",
           "keyIdea": "Check what the client understands separately from what the client can say or do.",
-          "body": "<p>Several look-alike terms describe different problems. Aphasia is trouble using or understanding language. Anomia is trouble naming objects. Alogia is very limited speech. Apraxia is trouble doing a learned movement, even with normal strength. Ataxia is poor coordination and balance.</p><p>Test understanding apart from speech. A client who cannot speak may still follow directions and point to a picture board. Another client may talk smoothly but not understand you.</p><p>Also watch the client start and order a familiar task, like grooming. A client may know what a toothbrush is but not organize the steps. That client needs cues and supervision, not a pep talk to “try harder.”</p>",
+          "body": "<p>Language problems come from injury or disease of the brain’s language centers. Movement problems matter too, because thinking and motor pathways are connected. The bullets list your course’s terms. Several look alike, so learn them in pairs.</p><p>Test understanding apart from speech. A client who cannot speak may still follow directions and point to a picture board. Another client may talk smoothly but not understand you.</p><p>Also watch the client start and order a familiar task, like grooming. A client may know what a toothbrush is but not organize the steps. That client needs cues and supervision, not a pep talk to “try harder.”</p>",
           "table": {
             "headers": [
               "What you see",
@@ -131,7 +186,7 @@ window.NURSE_DATA.push({
                 "Give one step at a time in a quiet space. Look for causes."
               ],
               [
-                "Holds a comb but cannot start combing, with normal strength",
+                "Holds a comb but cannot perform combing, with normal strength",
                 "Motor planning (apraxia)",
                 "Use cues, demonstration, and supervision."
               ],
@@ -146,43 +201,67 @@ window.NURSE_DATA.push({
                 "Assess fall risk and any new neurologic change."
               ]
             ]
-          }
+          },
+          "bullets": [
+            "<b>Aphasia:</b> inability to use or understand language.",
+            "<b>Anomia:</b> cannot name common objects.",
+            "<b>Alogia:</b> limited speech.",
+            "<b>Right-brain dysfunction:</b> poor spatial awareness and trouble reading social cues.",
+            "<b>Dyspraxia:</b> difficulty learning coordinated movements.",
+            "<b>Apraxia:</b> inability to perform purposeful motor acts, even with normal strength.",
+            "<b>Ataxia:</b> poor balance or coordination.",
+            "<b>Tics and tremors:</b> involuntary movements.",
+            "<b>Dyskinesias:</b> abnormal or slowed movements, such as akathisia, bradykinesia, and dystonia."
+          ],
+          "source": "Cognition slides 17–18"
         },
         {
           "heading": "How do you set a baseline?",
           "keyIdea": "A baseline tells you what is normal for this client, so you can see what is new.",
-          "body": "<p>Baseline is the client’s usual thinking and function. Without it, you cannot tell new from old. Ask the client first. A family member or caregiver can add a lot, but respect privacy and consent rules.</p><p>Also ask about past memory problems, illness, injury, sleep, food intake, substance use, and recent medicine changes. Watch mood and behavior as well as answers.</p><p>Write down concrete comparisons, not just “confused.” Baseline matters most when a client already has a chronic problem. Delirium can happen on top of dementia. An old diagnosis must never hide a new, sudden change.</p>",
+          "body": "<p>Baseline is the client’s usual thinking and function. Without it, you cannot tell new from old. Your course says cognitive assessment is part of every patient assessment. It includes physical assessment, history, and testing.</p><p>Ask the client first. A family member or caregiver can add a lot, but respect privacy and consent rules. Use the history items in the course’s delirium assessment, listed below. Watch mood and behavior as well as answers.</p><p>Write down concrete comparisons, not just “confused.” Baseline matters most when a client already has a chronic problem. Delirium can happen on top of dementia. An old diagnosis must never hide a new, sudden change.</p>",
           "bullets": [
+            "<b>Course history items:</b> age, other diseases, recent infection or fever, vision or hearing loss, alcohol or drug use, possible toxin exposure, diet and fluid intake, untreated pain, depression or mood disorders, and recent life changes.",
             "“When was the last time they seemed like themselves?”",
             "“How did they manage their medicines last week?”",
             "“Did the change happen over hours, days, or months?”",
             "“Does it come and go during the day?”",
             "“Have any medicines been started, stopped, or changed?”"
           ],
-          "example": "Good charting: “Daughter reports client normally makes meals on her own. Today she cannot follow a one-step request. Spoke clearly at 0900; at 1400 cannot stay focused on a question. Hearing aids at home.”"
+          "example": "Good charting: “Daughter reports client normally makes meals on her own. Today she cannot follow a one-step request. Spoke clearly at 0900; at 1400 cannot stay focused on a question. Hearing aids at home.”",
+          "source": "Cognition slides 39 and 62; baseline questions added for the NCLEX"
         },
         {
           "heading": "What do screening tools tell you?",
           "keyIdea": "A screening score flags a concern; it does not name the cause or prove the client is safe.",
-          "body": "<p>Your course names the MMSE, the MoCA, and mood screening tools. These tools organize your assessment and track change over time. They do not tell you why the client has a problem.</p><p>Many things can change a score besides thinking. Use the official tool and follow its exact steps. Do not make up questions and call the result a formal score.</p><p>A low score means you need to look deeper. A normal score does not prove the client can drive, manage medicines, or live alone. Watch real function and work with the team. Chart the tool, the setting, any help given, and any limits.</p>",
+          "body": "<p>Your course says early detection improves outcomes and slows decline. Screening happens in primary care, such as well visits and annual exams. It also happens in community settings, like health fairs and senior centers. Schools screen for learning problems and developmental delays.</p><p>Tools vary by population and purpose. Your course names the Mini-Mental State Exam (MMSE), the Montreal Cognitive Assessment (MoCA), and the Geriatric Depression Scale (GDS). Screens detect and monitor changes in cognition. They do not tell you why the client has a problem.</p><p>Many things besides thinking can change a score. Use the official tool and follow its exact steps. A low score means you need to look deeper. A normal score does not prove the client can drive, manage medicines, or live alone.</p>",
           "bullets": [
             "Hearing aids or glasses missing or not working.",
             "The client’s language and how well they speak the test language.",
             "Education and cultural background.",
             "Pain, fatigue, or medication effects.",
             "Acute illness on the day of testing."
-          ]
+          ],
+          "source": "Cognition slides 2, 37, 39, and 47"
         },
         {
           "heading": "Sudden change: what comes first?",
           "keyIdea": "New confusion, drowsiness, or inattention may be a medical emergency, so assess the body first.",
-          "body": "<p>A sudden change in thinking can signal a serious problem in the body. Look for low oxygen, infection, and body chemistry problems. Also consider medicines, withdrawal, and injury.</p><p>Check physical safety first. Assess airway, breathing, and circulation. Check vital signs, oxygen level, and a focused neuro exam. Call the rapid response team or provider for any decline. Do not delay care to finish a long memory test.</p><p>A quiet, sleepy change matters as much as agitation. New word-finding trouble with weakness on one side is never normal aging. Report it right away. Note when the change started, how it is trending, and what else you found.</p>",
-          "example": "A client spoke clearly at breakfast. Now the client is drowsy and cannot stay focused on a question. Check vital signs and oxygen saturation, then get an urgent evaluation. Do not wait for the next routine memory check."
+          "body": "<p>Your course says to focus on finding life-threatening causes first. A sudden change in thinking can signal a serious problem in the body. The course also tells nurses to identify reversible causes, such as infection, medicines, and metabolic problems.</p><p>Check physical safety first. Assess airway, breathing, and circulation. Check vital signs, oxygen level, and a focused neuro exam. Call the rapid response team or provider for any decline. Do not delay care to finish a long memory test.</p><p>A quiet, sleepy change matters as much as agitation. New word-finding trouble with weakness on one side is never normal aging. Report it right away. The team then chooses tests from the findings. The bullets list the tests your course names.</p>",
+          "example": "A client spoke clearly at breakfast. Now the client is drowsy and cannot stay focused on a question. Check vital signs and oxygen saturation, then get an urgent evaluation. Do not wait for the next routine memory check.",
+          "bullets": [
+            "Toxicology and drug levels.",
+            "CBC, liver function tests (LFTs), thyroid tests, urinalysis, thiamine, HIV, and FTA-ABS (a syphilis test).",
+            "Genetic or metabolic testing.",
+            "CSF or blood biomarkers, such as for Alzheimer disease or schizophrenia.",
+            "CT or MRI for tumors, swelling (edema), stroke, or trauma.",
+            "Psychometric tests of specific thinking skills."
+          ],
+          "source": "Cognition slides 33 and 39–40"
         },
         {
           "heading": "How do you support strengths?",
-          "keyIdea": "Give the least help that keeps the client safe, and keep their choices.",
-          "body": "<p>Support what the client can still do. Help should match real function. Do not take over tasks the client can manage with a little support.</p><p>Then check if your plan works. Can the client ask for help, finish a step, or use a device safely? Ask the client and family what helps. Teaching should fit the client’s attention span. Discharge plans should cover the tasks the client must do at home.</p><p>For a stable client, you can delegate support tasks to assistive personnel (AP). You keep the tasks that need nursing judgment.</p>",
+          "keyIdea": "Give the least help that keeps the client safe, and protect independence and quality of life.",
+          "body": "<p>Your course says cognition runs on a continuum, from optimal to impaired. The goal is to support independence and quality of life. The CDC Healthy Brain Initiative (2019) stresses prevention and early screening. It also stresses settings that keep orientation and purpose, and building self-worth and self-efficacy.</p><p>Independent nursing actions fall into two groups. Prevention and coordination of care covers teaching, referrals, routine screening, injury prevention like seat belts and helmets, and activities that fit the client’s development. Promoting safety and well-being covers checking injury and suicide risk, changing the environment, supporting coping and culture, and giving teaching and emotional support.</p><p>Check that your plan works. Can the client ask for help, finish a step, or use a device safely? Teaching should fit the client’s attention span. For a stable client, you can delegate support tasks to assistive personnel (AP). You keep the tasks that need nursing judgment.</p>",
           "bullets": [
             "Make sure glasses and hearing aids are on and working.",
             "Cut down noise and distractions.",
@@ -190,7 +269,8 @@ window.NURSE_DATA.push({
             "Keep a steady routine with meaningful activity and simple cues.",
             "<b>OK to delegate to AP:</b> putting on glasses and hearing aids, scheduled vital signs, and reporting a change in the usual routine.",
             "<b>RN keeps:</b> assessing, interpreting changes, teaching, and evaluating."
-          ]
+          ],
+          "source": "Cognition slides 35 and 41; delegation added for the NCLEX"
         },
         {
           "heading": "Common traps",
@@ -231,7 +311,8 @@ window.NURSE_DATA.push({
                 "Mild slowing can occur with age. New word-finding trouble with one-sided weakness is urgent."
               ]
             ]
-          }
+          },
+          "source": "Added for the NCLEX — not in course materials (reviews slides 3–20 and 47)"
         },
         {
           "heading": "How the NCLEX tests this",
@@ -244,12 +325,13 @@ window.NURSE_DATA.push({
             "<b>Wrong options:</b> Reporting new dementia labels the client too soon. Calling a rapid response ignores the normal vital signs. Recording the low score as final trusts a test done without hearing.",
             "<b>The answer:</b> Put in the hearing aids, check that they work, and repeat the screen.",
             "<b>Strategy:</b> Before you interpret a thinking error, make sure the client can see, hear, and understand the language."
-          ]
+          ],
+          "source": "Added for the NCLEX — not in course materials"
         },
         {
           "heading": "Worked case: orientation misses the risk",
           "keyIdea": "Break the real task into its thinking steps and watch the client do it.",
-          "body": "<p>Mr. J will go home and give himself insulin. He knows his name, the place, and the date. His cognitive screen this morning was normal. During a return demonstration, he skips the priming step. Then he dials the wrong dose.</p><p>Knowing facts is not the same as doing the task. Insulin needs attention, working memory, the right order of steps, and judgment. First check that he can see the dial and that your teaching was clear. Ask if this is new or how he did at home.</p><p>If the problem is new, look for an acute cause. If it is long-standing, plan supported help. Do not assume family can help without checking. Their time, skill, and understanding matter.</p>",
+          "body": "<p>Mr. J will go home and give himself insulin. He knows his name, the place, and the date. His cognitive screen this morning was normal. During a return demonstration, he skips the priming step. Then he dials the wrong dose.</p><p>Knowing facts is not the same as doing the task. Your course tells nurses to assess the ability to self-administer medicines safely. Insulin needs attention, working memory, the right order of steps, and judgment. First check that he can see the dial and that your teaching was clear. Ask if this is new or how he did at home.</p><p>If the problem is new, look for an acute cause. If it is long-standing, plan supported help. Do not assume family can help without checking. Their time, skill, and understanding matter.</p>",
           "steps": [
             "Break the task into its thinking steps: prime, dial, check, inject.",
             "Check vision, clear instructions, baseline, and how fast the problem appeared.",
@@ -260,17 +342,19 @@ window.NURSE_DATA.push({
           "check": {
             "q": "Why is Mr. J’s normal screen not enough to clear him for discharge?",
             "a": "A screen samples a few skills. Safety depends on the real task. He made two dangerous errors with his insulin pen, so the nurse reports them and plans support before discharge."
-          }
+          },
+          "source": "Added: worked example based on Cognition slides 9, 19, and 42"
         },
         {
           "heading": "Course source & clinical clarification",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
-            "Source: Module 23 – Cognition, slides 2–20, 33–42, and 47.",
-            "Assessment examples are original bedside examples.",
+            "Source: Module 23 – Cognition, slides 2–20, 33–42, 47, and 62.",
+            "Bedside examples, baseline questions, and delegation points are added for the NCLEX.",
             "Screening tools must be used with their own validated instructions.",
             "Lab and imaging tests are chosen by the team from the findings. The slide list is not a routine order set for every client."
-          ]
+          ],
+          "source": "Cognition slides 2–20, 33–42, 47, and 62"
         }
       ],
       "mnemonics": [],
@@ -320,7 +404,7 @@ window.NURSE_DATA.push({
       "exemplar": null,
       "summary": "Sort cognitive changes by onset and course, support strengths, protect safety, and get the right team evaluation instead of labeling from one behavior.",
       "objectives": [
-        "You can compare delirium, dementia, and depression by onset, course, attention, and alertness.",
+        "You can compare delirium, dementia, and depression by onset, duration, attention, orientation, and reversibility.",
         "You can describe learning differences and common developmental conditions without stereotypes.",
         "You can respond safely to hallucinations, delusions, and dementia-related confusion.",
         "You can tell normal aging from decline that needs evaluation.",
@@ -330,7 +414,7 @@ window.NURSE_DATA.push({
       "recap": [
         "Time course is the key clue: delirium is sudden and fluctuating; dementia is usually gradual.",
         "Delirium can happen on top of dementia. A sudden change is never “just the dementia.”",
-        "Depression can look like memory loss, but alertness and attention are usually clear.",
+        "Depression can look like memory loss, but orientation is usually intact and it is usually reversible.",
         "A learning disability is a specific problem, not low overall intelligence.",
         "Command voices telling a client to self-harm: ask about intent and start the safety protocol first.",
         "With dementia confusion, respond to the feeling and redirect. Do not argue.",
@@ -344,11 +428,11 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Dementia (major neurocognitive disorder)",
-          "def": "A large, acquired decline in thinking that interferes with independence. It has many causes and patterns."
+          "def": "A chronic, progressive, significant loss of cognitive function with loss of independence. Alzheimer disease is the most common type."
         },
         {
           "term": "Mild neurocognitive disorder",
-          "def": "A smaller decline. The person can often stay independent with strategies such as reminders."
+          "def": "Limited cognitive impairment. The person stays independent with reminders."
         },
         {
           "term": "Confabulation",
@@ -356,11 +440,11 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Learning disability",
-          "def": "A specific trouble processing or using information. It does not mean overall low intelligence."
+          "def": "Normal intelligence but specific trouble processing information, such as dyslexia."
         },
         {
           "term": "Intellectual disability",
-          "def": "Limits in both thinking ability and daily-life skills that begin during development."
+          "def": "IQ of about 70–75 or lower plus limited daily-life skills, starting before age 18."
         },
         {
           "term": "Psychosis",
@@ -384,14 +468,14 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Indicated prevention",
-          "def": "Help aimed at people who already show early signs or symptoms."
+          "def": "Prevention aimed at individuals who already show early (prodromal) signs or symptoms."
         }
       ],
       "sections": [
         {
           "heading": "Delirium, dementia, or depression?",
-          "keyIdea": "Ask how fast it started, whether it comes and goes, and whether attention and alertness are clear.",
-          "body": "<p>Delirium usually starts over hours to days and comes and goes. Attention and awareness are hit hard. Dementia usually develops slowly and erodes independence over time. Depression can lower focus, motivation, and memory scores.</p><p>A depressed client may often answer “I don’t know” to memory questions. Yet the client is fully alert, with steady attention and clear mood changes. That pattern points toward depression for evaluation.</p><p>These conditions can happen together. A client with dementia can get delirium from an infection. A depressed client still needs a physical workup for new confusion. Use the table as a guide, not a shortcut to a diagnosis.</p>",
+          "keyIdea": "Compare onset, duration, attention, orientation, and reversibility; delirium is sudden, short, and often reversible.",
+          "body": "<p>Delirium is an acute, sudden onset of confusion or mental status change. It is common in hospitalized or postoperative clients. Signs include inattention, disorientation, disorganized thinking, a disrupted sleep-wake cycle, mood changes, and perceptual disturbances. The client may swing between agitation and lethargy. The cause is usually a medical condition, trauma, or substance exposure or withdrawal.</p><p>Dementia starts gradually and is permanent. Depression also starts gradually. Attention may be decreased, but orientation is usually intact, and it is usually reversible.</p><p>These conditions can happen together. A client with dementia can get delirium from an infection. A depressed client still needs a physical workup for new confusion. Use the table as a guide, not a shortcut to a diagnosis.</p>",
           "table": {
             "headers": [
               "Feature",
@@ -401,28 +485,34 @@ window.NURSE_DATA.push({
             ],
             "rows": [
               [
-                "Usual onset",
+                "Onset",
                 "Sudden",
-                "Often gradual",
-                "Often gradual, but varies"
+                "Gradual",
+                "Gradual"
               ],
               [
-                "Course",
-                "Comes and goes",
-                "Ongoing decline; pattern varies",
-                "Varies; may be treatable"
+                "Duration",
+                "Hours to days",
+                "Permanent",
+                "Variable"
               ],
               [
                 "Attention",
-                "Often badly impaired",
-                "May be fairly normal early",
-                "May be reduced"
+                "Impaired",
+                "Normal until late",
+                "Decreased"
               ],
               [
-                "Alertness (level of consciousness)",
-                "Often changes, from drowsy to overly alert",
-                "Usually clear until late stages",
-                "Usually clear"
+                "Orientation",
+                "Fluctuates",
+                "Progressively lost",
+                "Usually intact"
+              ],
+              [
+                "Reversible?",
+                "Often yes",
+                "Rarely",
+                "Usually"
               ],
               [
                 "Nursing focus",
@@ -431,83 +521,160 @@ window.NURSE_DATA.push({
                 "Mood, safety, function, evaluation"
               ]
             ]
-          }
+          },
+          "source": "Cognition slides 28 and 31"
         },
         {
           "heading": "What are neurocognitive disorders?",
-          "keyIdea": "Judge what the client can do now, not just the name of the diagnosis.",
-          "body": "<p>Your course calls dementia a neurocognitive disorder. It comes in mild and major forms. Mild disorder may allow independence with strategies like reminders. Major disorder interferes with daily independence.</p><p>Alzheimer disease is one common cause. Damage to blood vessels can also cause decline. Vascular decline may drop in steps, but not every client follows a neat staircase.</p><p>Memory is not the only problem. Trouble planning or judging space can matter just as much. Use reminders, simple routines, supervision, and referrals based on real need. Medicines may target symptoms under a specialist. Do not promise that a memory medicine will restore all lost function.</p>",
+          "keyIdea": "Dementia is a chronic, progressive loss of cognition; judge what the client can do now, not just the diagnosis.",
+          "body": "<p>Dementia is a chronic, progressive loss of cognitive function. The DSM-5 term is neurocognitive disorder (NCD). Mild NCD means limited impairment; the person stays independent with reminders. Major NCD means significant decline and loss of independence.</p><p>Causes can be neurodegenerative, vascular, metabolic, or toxic. Alzheimer disease is the most common type. Your course says it causes about 80% of cases.</p><p>Vascular dementia comes from many small strokes (infarcts) that damage brain tissue. Vessels are blocked, ruptured, or narrowed. Signs depend on where the damage is and how severe it is. Decline often follows a “stair-step” pattern. Memory loss may or may not be prominent.</p><p>Medicines aim to slow decline, manage symptoms, and improve function. They do not restore lost function.</p>",
           "bullets": [
-            "Can the client organize medicines?",
-            "Can they keep appointments and handle money?",
-            "Can they prepare meals and manage hygiene?",
-            "Can they move around safely?"
-          ]
+            "<b>Course drug classes:</b> cognitive enhancers (such as cholinesterase inhibitors), antipsychotics, mood stabilizers, antidepressants, and anxiolytics.",
+            "<b>Nurse’s role:</b> give and monitor medicines, and teach about side effects.",
+            "<b>Self-administration:</b> assess whether the client can take medicines safely alone.",
+            "<b>Adherence:</b> encourage it; long-acting forms may help.",
+            "<b>Function check:</b> can the client organize medicines, keep appointments, handle money, prepare meals, manage hygiene, and move safely?"
+          ],
+          "source": "Cognition slides 29–30 and 42"
         },
         {
           "heading": "How do you care for dementia confusion?",
           "keyIdea": "Meet the feeling behind the words, keep a routine, and protect the client’s remaining choices.",
-          "body": "<p>Clients with dementia may say things that are not true. Confabulation is not lying on purpose. Respond to the need underneath, protect dignity, and check important facts with reliable sources. Arguing again and again only raises distress.</p><p>Keep days predictable. Use simple words, give time, and offer meaningful activity. Support sleep, food, fluids, and sensory aids. Assess the caregiver’s ability and stress level, too.</p><p>Do not assume a client can manage a complex medicine plan. Watch them do it. Match help to the skill that is weak. A client may need help sorting pills but can still choose meals and clothes. Teach families to report any sudden change.</p>",
+          "body": "<p>Clients with dementia may say things that are not true. Confabulation means filling memory gaps with made-up information. It is not lying on purpose. Respond to the need underneath, protect dignity, and check important facts with reliable sources. Arguing again and again only raises distress.</p><p>Keep days predictable. Use simple words, give time, and offer meaningful activity. Support sleep, food, fluids, and sensory aids. Assess the caregiver’s ability and stress level, too.</p><p>Do not assume a client can manage a complex medicine plan. Watch them do it. Match help to the skill that is weak. A client may need help sorting pills but can still choose meals and clothes. Teach families to report any sudden change.</p>",
           "example": "A resident with Alzheimer disease heads for the exit most afternoons. She says, “I have to pick up my children from school.” Her children are adults, and her vital signs and alertness are at baseline. Say, “You sound worried about them. Let’s walk and get a snack together.” This meets her feeling and redirects her safely.",
           "bullets": [
-            "Team members may include primary care, neurology, psychiatry, speech therapy, occupational therapy, social work, and developmental services."
-          ]
+            "<b>Course nursing roles:</b> assess changes in cognition, mood, and behavior; identify reversible causes such as infection, medicines, and metabolic problems.",
+            "<b>Promote safety:</b> fall precautions, control of the environment, and supervision.",
+            "<b>Support caregivers</b> and reduce client and family stress.",
+            "<b>Course team:</b> neurology, psychiatry, and social work. Others may include primary care, speech therapy, occupational therapy, and developmental services."
+          ],
+          "source": "Cognition slides 16 and 33; dementia communication tips added for the NCLEX"
         },
         {
-          "heading": "Learning and developmental differences",
-          "keyIdea": "A learning difference needs a different teaching method, not a lower expectation.",
-          "body": "<p>Some people struggle to process sounds or language. They may miss fast spoken directions. Visual cues, written schedules, demonstration, and repetition can help. Then check that the person can do the task.</p><p>A learning disability does not mean low intelligence. Intellectual disability is different. It means limits in both thinking and daily-life skills, starting during development. One IQ number is not a full nursing assessment.</p><p>Support the family without blame. Assess related health and sensory needs. Connect families with developmental resources.</p>",
+          "heading": "Learning vs. intellectual disability",
+          "keyIdea": "A learning disability is a processing problem with normal intelligence; intellectual disability limits both IQ and daily skills before age 18.",
+          "body": "<p>Problems with intellectual function may be developmental or acquired. Your course separates two kinds.</p><p>A learning disability means normal intelligence but trouble processing information. Examples are dyslexia and auditory or language processing disorders. The DSM-5 recognizes several specific learning disabilities. Two common ones are auditory processing disorder (APD) and language processing disorder (LPD). These clients may struggle to follow spoken directions or find where a sound comes from. Visual cues, schedules, and demonstrations help. Then check that the person can do the task.</p><p>An intellectual disability means an IQ of about 70–75 or lower, plus limited adaptive skills. It begins before age 18. Causes are genetic, prenatal, or environmental. One IQ number is not a full nursing assessment.</p>",
           "bullets": [
-            "<b>Down syndrome:</b> caused by an extra chromosome 21.",
-            "<b>Fragile X syndrome:</b> caused by changes in the FMR1 gene. It can affect learning, communication, sensory response, and behavior.",
-            "<b>Fetal alcohol spectrum disorders:</b> lasting developmental effects from alcohol exposure before birth."
-          ]
+            "<b>Conceptual skills:</b> using language, reading, and money.",
+            "<b>Social skills:</b> following rules and keeping relationships.",
+            "<b>Practical skills:</b> ADLs and work skills.",
+            "<b>Nursing focus:</b> support families in finding resources and building strengths, without blame."
+          ],
+          "source": "Cognition slides 10, 20, and 22"
+        },
+        {
+          "heading": "Down syndrome, fragile X, and FASD",
+          "keyIdea": "All three begin before birth; Down syndrome and fragile X are genetic, while FASD is completely preventable.",
+          "body": "<p>Your course names three intellectual disabilities. All begin in prenatal development. Down syndrome and fragile X syndrome are genetic. Fetal alcohol spectrum disorders (FASD) are completely preventable. They are caused by alcohol exposure before birth.</p><p>Alcohol crosses the placenta, and the fetus cannot break it down. This harms the body, behavior, and thinking. Fetal alcohol syndrome (FAS) is the most severe form.</p><p>Other preventable causes exist. Prematurity and low birth weight are the strongest risk predictors. Assess related health and sensory needs, and connect families with developmental resources.</p>",
+          "table": {
+            "headers": [
+              "Condition",
+              "Cause",
+              "Key features"
+            ],
+            "rows": [
+              [
+                "Down syndrome",
+                "Extra copy of chromosome 21 (trisomy 21)",
+                "Intellectual disability and physical changes. Heart defects in about 50%. Hearing, vision, thyroid, and GI problems. Leukemia and early-onset dementia. Life expectancy about 60 (some live 70–80+)."
+              ],
+              [
+                "Fragile X syndrome",
+                "Mutation of the FMR-1 gene on the X chromosome. A DNA sequence repeats 200+ times (normal is 5–40).",
+                "Intellectual disability, ADHD, anxiety, autism traits. Speech delay, sensory sensitivity, possible seizures. Males are more severely affected."
+              ],
+              [
+                "FASD",
+                "Alcohol exposure in the uterus",
+                "FAS criteria: growth deficits; facial changes (smooth philtrum, thin upper lip, small eye openings called palpebral fissures); CNS problems."
+              ]
+            ]
+          },
+          "bullets": [
+            "<b>Maternal factors:</b> drug use, smoking, malnutrition, infection, and toxins.",
+            "<b>Birth complications:</b> oxygen deprivation or trauma.",
+            "<b>Childhood causes:</b> injury, infection, malnutrition, and lead exposure."
+          ],
+          "source": "Cognition slides 23–27"
         },
         {
           "heading": "What is psychosis?",
           "keyIdea": "Do not argue with a voice or belief; assess distress and safety, and ask directly about harmful commands.",
-          "body": "<p>Psychosis means losing touch with reality. A hallucination is sensing something that is not there. A delusion is a fixed false belief that stays despite proof. Disorganized thinking shows up as speech that is hard to follow.</p><p>One odd statement does not prove schizophrenia. Delirium, illness, drugs, withdrawal, medicines, and mood disorders can cause similar signs. New symptoms with drowsiness or patchy attention need a medical workup.</p><p>Assess distress and safety. Do not argue about a belief or pretend to share it. Name the feeling and stay calm. If voices tell the client to cause harm, ask about intent and start the safety protocol. Do not assume a diagnosis makes someone dangerous. Judge actual words and behavior.</p><p>Care includes clear talk, a calm setting, help with daily needs, and watching ordered treatment. Calm is not the only goal. Also check distress, alertness, function, safety, and side effects.</p>",
-          "example": "A frightened client with schizophrenia says, “The voices keep telling me to hurt myself.” First, ask whether the client plans to act on the voices. Then start the safety protocol."
+          "body": "<p>Psychosis means loss of contact with reality. It may include hallucinations or delusions. A hallucination is sensing something that is not there. A delusion is a fixed false belief that stays despite proof. Disorganized thinking shows up as speech that is hard to follow.</p><p>Schizophrenia is the most common psychotic disorder. It affects about 1% of people worldwide. Causes can be genetic, neurobiologic, or environmental. Diagnosis requires ruling out medical or substance causes. So one odd statement does not prove schizophrenia. Delirium, illness, drugs, withdrawal, and medicines can cause similar signs.</p><p>Assess distress and safety, including injury and suicide risk. Do not argue about a belief or pretend to share it. Name the feeling and stay calm. If voices tell the client to cause harm, ask about intent and start the safety protocol. Judge actual words and behavior, not the diagnosis.</p><p>Care includes clear talk, a calm setting, help with daily needs, and watching ordered treatment. Calm is not the only goal. Also check distress, alertness, function, safety, and side effects.</p>",
+          "example": "A frightened client with schizophrenia says, “The voices keep telling me to hurt myself.” First, ask whether the client plans to act on the voices. Then start the safety protocol.",
+          "source": "Cognition slides 14, 32, and 41; safety responses added for the NCLEX"
         },
         {
           "heading": "Three ways to target prevention",
           "keyIdea": "Universal targets everyone, selective targets high-risk groups, and indicated targets people with early signs.",
-          "body": "<p>Early brain growth depends on genes, nutrition, environment, and health. Some risks can be lowered. Not every developmental disability can be prevented. A diagnosis is not proof that a family failed.</p><p>Your slides sort prevention by who is targeted. Do not mix this up with primary, secondary, and tertiary prevention. That system sorts by disease stage and purpose. Read the question wording carefully.</p><p>Teaching for expectant parents can include these points. Teach without blame.</p>",
+          "body": "<p>Your course says most cognitive disorders are multifactorial. Risk factors vary by disorder but share common themes, listed below. Some risks can be lowered. Not every disability can be prevented, and a diagnosis is not proof that a family failed.</p><p>Your slides sort prevention by who is targeted. Do not mix this up with primary, secondary, and tertiary prevention. That system sorts by disease stage. Read the question wording carefully.</p><p>Public health steps also prevent intellectual disability. The course names vaccinations, prenatal screening, and folic acid. Teach expectant parents without blame.</p>",
           "table": {
             "headers": [
               "Type",
               "Who it targets",
-              "Example"
+              "Course example"
             ],
             "rows": [
               [
                 "Universal",
                 "Everyone",
-                "Helmet and seat-belt campaigns for the whole community"
+                "Public campaigns for seat-belt and helmet use"
               ],
               [
                 "Selective",
-                "Higher-risk groups",
-                "Extra developmental support for children with a known exposure risk"
+                "High-risk groups",
+                "Early intervention for disadvantaged children; trauma counseling"
               ],
               [
                 "Indicated",
-                "People with early signs",
-                "Referral and support after early cognitive symptoms appear"
+                "Individuals with early (prodromal) symptoms",
+                "Early signs of schizophrenia or dementia"
               ]
             ]
           },
           "bullets": [
+            "<b>Risk factor themes:</b> genetics or family history; age and sex; lifestyle (substance use, nutrition, sleep, activity); environment (toxins, trauma, stress); chronic conditions (heart disease, diabetes, infection).",
             "Avoid alcohol throughout pregnancy. No amount is known to be safe.",
-            "Go to prenatal care and follow nutrition advice.",
+            "Go to prenatal care and screening, and take folic acid as advised.",
             "Use a correctly installed car seat and a helmet for wheeled sports.",
             "Keep the child’s immunizations up to date."
-          ]
+          ],
+          "source": "Cognition slides 27 and 34–36"
         },
         {
           "heading": "What is normal at each age?",
-          "keyIdea": "Development and aging explain some changes, but never a sudden decline.",
-          "body": "<p><b>Children:</b> Attention and language depend on age. Use age-fitting tasks and ask about developmental history. Include caregivers, but speak to the child directly. Illness, dehydration, pain, new places, or medicines can change behavior. Do not call a new change bad behavior.</p><p><b>Teens:</b> Self-control is still developing, while peers and rewards pull hard. Respect privacy within the rules and stay nonjudgmental. Ask about safety, substances, injury, mood, and support. A sudden drop, new psychotic signs, or self-harm risk needs action.</p><p><b>Adults:</b> Sleep loss, stress, pain, medicine, and illness can affect thinking. An exhausted new parent may need rest and support. Still evaluate if signs suggest more than fatigue.</p><p><b>Older adults:</b> Mild slowing in recalling a word or name can occur. Moderate or severe confusion, lost independence, and rapid change are not normal aging. Hearing loss, vision loss, depression, infection, and medicines can mimic or worsen decline. Investigate instead of saying, “This happens to everyone.”</p>"
+          "keyIdea": "Development and aging explain some changes, but moderate, severe, or sudden decline is never normal.",
+          "body": "<p>Cognition changes across the lifespan. The table sums up what your course says for each age. Some points apply to every age.</p><p>A new change in thinking is never just “bad behavior” or “old age.” Children have small reserves, so illness or dehydration can confuse them. In teens, new thinking problems may signal illness or a mental disorder. In adults, look for temporary causes like fatigue, but still evaluate if signs suggest more.</p><p>In older adults, mild slowing in recalling a word or name can be normal. Moderate or severe decline is not. Depression, anxiety, or infection can mimic decline. Investigate instead of saying, “This happens to everyone.”</p>",
+          "table": {
+            "headers": [
+              "Age",
+              "What the course says",
+              "Nursing focus"
+            ],
+            "rows": [
+              [
+                "Conception to childhood",
+                "Neural connections start soon after conception. The brain grows through assimilation, accommodation, and adaptation, and through pruning (removing unused pathways). Early stimulation shapes vision and language in sensitive periods. Toxins, stress, illness, or poor nutrition can cause lasting deficits.",
+                "Use age-fitting tasks. Ask about developmental history. Illness or dehydration may cause confusion. Include caregivers, but speak to the child directly."
+              ],
+              [
+                "Adolescence",
+                "Rapid brain remodeling and limbic activation. The prefrontal cortex is still developing, so teens are impulsive and take risks. Dopamine changes raise reward-seeking. Risks: injury, substance use, poor decisions. Cognitive disorders can hurt self-esteem and peer ties; fear of being “different” can cause nonadherence.",
+                "Teach safety and coping, sexual health and decision-making, and peer connection and self-worth. Respect privacy and stay nonjudgmental. A sudden drop, new psychotic signs, or self-harm risk needs action."
+              ],
+              [
+                "Adulthood to middle age",
+                "Executive function keeps maturing into the late 20s to early 30s. Adults excel in emotional understanding and vocabulary. Decline is not inevitable with age.",
+                "Support work, relationship, and family goals. Teach family planning and stress management. Recognize temporary changes, like fatigue or postpartum adjustment."
+              ],
+              [
+                "Older adults",
+                "Normal aging: mild brain shrinkage and less blood flow; slight decline in word retrieval and episodic memory; minor visuospatial difficulty.",
+                "Moderate or severe decline is not normal. Rule out mimics. Screen with tools such as the GDS, MoCA, or MMSE."
+              ]
+            ]
+          },
+          "source": "Cognition slides 43–47"
         },
         {
           "heading": "Common traps",
@@ -525,11 +692,11 @@ window.NURSE_DATA.push({
               ],
               [
                 "Depression vs. dementia",
-                "Depressed clients are usually alert with steady attention and low mood. They often answer “I don’t know.”"
+                "In depression, orientation is usually intact and it is usually reversible. Attention may be decreased. Clients often answer “I don’t know.”"
               ],
               [
                 "Learning disability vs. intellectual disability",
-                "A learning disability is specific. Intellectual disability limits both thinking and daily skills."
+                "A learning disability has normal intelligence. Intellectual disability means IQ about 70–75 or lower, limited daily skills, and onset before 18."
               ],
               [
                 "Hallucination vs. delusion",
@@ -545,10 +712,11 @@ window.NURSE_DATA.push({
               ],
               [
                 "Selective vs. indicated prevention",
-                "Selective targets a risk group. Indicated targets people already showing early signs."
+                "Selective targets a high-risk group. Indicated targets individuals already showing early (prodromal) symptoms."
               ]
             ]
-          }
+          },
+          "source": "Added for the NCLEX — not in course materials (reviews slides 14–36 and 47)"
         },
         {
           "heading": "How the NCLEX tests this",
@@ -567,7 +735,8 @@ window.NURSE_DATA.push({
             "<b>Wrong options:</b> A is a known, stable pattern. C has long-standing voices with no distress. D is a chronic mood issue with no acute danger.",
             "<b>The answer:</b> B. New hallucinations with fever and fluctuating attention suggest delirium with a medical cause.",
             "<b>Strategy:</b> When everyone has a thinking problem, choose the one that is new, sudden, or paired with abnormal physical signs."
-          ]
+          ],
+          "source": "Added for the NCLEX — not in course materials"
         },
         {
           "heading": "Worked case: two time courses at once",
@@ -583,17 +752,20 @@ window.NURSE_DATA.push({
           "check": {
             "q": "Why can’t one diagnosis explain Mrs. L’s case?",
             "a": "She has a slow, year-long decline plus a sudden change in attention and alertness. A new process, such as delirium, may be on top and needs its own assessment."
-          }
+          },
+          "source": "Added: worked example based on Cognition slides 28–31"
         },
         {
           "heading": "Course source & clinical clarification",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
-            "Source: Module 23 – Cognition, slides 12–47. Psychosis content follows slide 32 and slides 33 and 39–42.",
-            "Definitions are paraphrased for nursing use.",
+            "Source: Module 23 – Cognition, slides 10, 12–47. Psychosis content follows slides 14, 32, and 41.",
+            "Definitions are lightly simplified for nursing use.",
+            "Course vs. current: the course says Alzheimer disease causes about 80% of dementia. The Alzheimer’s Association gives a range of 60–80%. Either way, it is the most common type.",
             "Screening scores and developmental diagnoses need professional assessment in context, not a single-number rule.",
             "Universal, selective, and indicated prevention describe target groups. They differ from primary, secondary, and tertiary prevention."
-          ]
+          ],
+          "source": "Cognition slides 10 and 12–47"
         }
       ],
       "mnemonics": [],
@@ -621,15 +793,15 @@ window.NURSE_DATA.push({
         },
         {
           "q": "What is indicated prevention?",
-          "a": "Help aimed at people who already show early signs or symptoms."
+          "a": "Prevention aimed at individuals who already show early (prodromal) signs, such as early signs of schizophrenia or dementia."
         },
         {
           "q": "An adolescent with a developmental disability is newly disorganized after a fall. What is the priority?",
           "a": "Assess the new change and get urgent evaluation. Do not blame the old diagnosis."
         },
         {
-          "q": "A 74-year-old who moved from her home is alert with steady attention but has low appetite, poor concentration, and answers “I don’t know.” What is most likely?",
-          "a": "Depression affecting concentration and memory scores. It needs evaluation."
+          "q": "A 74-year-old who moved from her home is fully oriented. She has low appetite, poor concentration, and answers “I don’t know.” The change came on gradually. What is most likely?",
+          "a": "Depression. Onset is gradual, attention is decreased, and orientation is usually intact. It needs evaluation and is usually reversible."
         },
         {
           "q": "A student says, “A child with a learning disability has a global intellectual impairment.” Is that right?",
@@ -706,8 +878,8 @@ window.NURSE_DATA.push({
       "sections": [
         {
           "heading": "What does delirium look like?",
-          "keyIdea": "Look for a change from baseline in attention, not just the word “confused.”",
-          "body": "<p>Delirium shows up as a change from the client’s usual self. The client may lose track of a question or misread the room. They may jump between topics. They may become restless or answer much more slowly.</p><p>Alertness can go up or down. Sleep and wake times may flip. The client may see or hear things that are not there. Do not assume a new hallucination is a psychiatric illness.</p><p>A quiet client who stops eating and sleeps through talks is easy to miss. That client is not being difficult, so no one notices. Always compare with how the client was before. Ask family when the client last seemed like themselves.</p>",
+          "keyIdea": "Delirium is an abrupt, fluctuating change in mental status and level of consciousness; compare with baseline, not just the word “confused.”",
+          "body": "<p>Your course separates two terms. Confusion is a general term for trouble thinking clearly, judging, focusing, or staying oriented. Delirium is an abrupt, often short-lived, fluctuating change in mental status and level of consciousness. It often signals a reversible but possibly life-threatening condition. It occurs 6 times more often in hospitalized older adults.</p><p>Signs come and go during the day. Alertness can range from hypervigilance to drowsiness. Sundowning means confusion gets worse in the evening.</p><p>A quiet client who stops eating and sleeps through talks is easy to miss. Always compare with how the client was before. Ask family when the client last seemed like themselves. The table uses standard subtype names that the slides do not name.</p>",
           "table": {
             "headers": [
               "Type",
@@ -728,104 +900,228 @@ window.NURSE_DATA.push({
               ]
             ]
           },
-          "example": "A client after surgery normally reads and chats. Now the client is quiet, cannot keep attention on a simple question, and falls asleep between answers. This needs assessment, even with no agitation."
+          "example": "A client after surgery normally reads and chats. Now the client is quiet, cannot keep attention on a simple question, and falls asleep between answers. This needs assessment, even with no agitation.",
+          "bullets": [
+            "Reduced awareness of surroundings.",
+            "Impaired thinking and disorganized speech.",
+            "Changes in activity or behavior: agitation or lethargy.",
+            "Symptoms that fluctuate through the day.",
+            "Altered alertness, from hypervigilance to drowsiness.",
+            "Sundowning: worse confusion in the evening."
+          ],
+          "source": "Cognition slides 28, 50, and 54; subtype names added"
         },
         {
           "heading": "Who gets delirium, and why?",
-          "keyIdea": "Risk factors lower the brain’s reserve, and new triggers tip it over, often several at once.",
-          "body": "<p>Some clients have less brain reserve. Then a new trigger, or several, can tip them into delirium. Ask what changed: a new drug, a procedure, missing hearing aids, poor intake, untreated pain, or a room move.</p><p>Do not stop at the first likely cause. A client can have both a drug effect and low oxygen. New confusion alone does not prove a urinary infection. Report the pattern so the team can choose the right workup.</p>",
+          "keyIdea": "Risk factors lower the brain’s reserve, and precipitating factors tip it over, often several at once.",
+          "body": "<p>The exact cause is unknown. Suspected mechanisms are oxidative stress and an imbalance of neurotransmitters, especially acetylcholine, dopamine, and serotonin. Delirium can affect any age, but it is more common in hospitalized adults.</p><p>Risk factors lower the brain’s reserve. Then precipitating factors, often several at once, tip the client into delirium. Ask what changed: a new drug, a procedure, missing hearing aids, poor intake, untreated pain, or a room move.</p><p>Do not stop at the first likely cause. A client can have both a drug effect and low oxygen. New confusion alone does not prove a urinary infection. Report the pattern so the team can choose the right workup.</p>",
           "bullets": [
-            "<b>Risk factors:</b> older age, existing cognitive impairment, hearing or vision loss, severe illness, chronic disease, and prior functional limits.",
-            "<b>Low oxygen:</b> for example, oxygen saturation of 89% on room air.",
-            "<b>Infection</b> and <b>electrolyte or metabolic problems</b>.",
-            "<b>Dehydration</b> and poor food intake.",
-            "<b>Urinary retention:</b> for example, no urine in 8 hours after catheter removal.",
-            "<b>Medicines:</b> for example, a new opioid after surgery.",
-            "<b>Withdrawal</b> from alcohol or other substances.",
-            "<b>Pain</b>, <b>poor sleep</b>, and <b>missing glasses or hearing aids</b>."
-          ]
+            "<b>Bedside examples:</b> oxygen saturation of 89% on room air; no urine in 8 hours after catheter removal; a new opioid after surgery.",
+            "<b>Also check:</b> dehydration, poor food intake, pain, poor sleep, and missing glasses or hearing aids."
+          ],
+          "table": {
+            "headers": [
+              "Course risk factors",
+              "Course precipitating factors"
+            ],
+            "rows": [
+              [
+                "Older age",
+                "Medical conditions: infection, hypoxia, metabolic imbalance"
+              ],
+              [
+                "Vision and hearing loss",
+                "Medicines and hospital-related (iatrogenic) causes"
+              ],
+              [
+                "Chronic illness, like heart failure, COPD, or diabetes",
+                "Environmental stress, like relocation or sensory overload"
+              ],
+              [
+                "Acute illness or infection",
+                "In older adults: dehydration, respiratory or urinary infection, urinary retention, adverse drug events"
+              ],
+              [
+                "Substance use or withdrawal (alcohol, drugs, medicines)",
+                ""
+              ],
+              [
+                "Depression or emotional distress",
+                ""
+              ]
+            ]
+          },
+          "source": "Cognition slides 51–52 and 60"
         },
         {
           "heading": "What does the nurse do first?",
           "keyIdea": "Stay with the client, check the body, and call for help before reaching for restraints or sedation.",
-          "body": "<p>An unsafe client needs someone present. Stay with them, or arrange close observation. Then assess airway, breathing, circulation, vital signs, oxygen level, and a focused neuro exam. Check other quick tests your protocol calls for, such as a bedside glucose. Call the provider or rapid response for any decline. Do not delay this to finish a screening tool.</p><p>Once the client is safe, gather more history. A clinician-directed workup may include labs, a medicine review, or imaging. Your slide list of tests is not an order to run every test on every client.</p>",
+          "body": "<p>Your course says to look for life-threatening causes first. An unsafe client needs someone present. Stay with them, or arrange close observation. Then assess airway, breathing, circulation, vital signs, oxygen level, and a focused neuro exam. Check other quick tests your protocol calls for, such as a bedside glucose. Call the provider or rapid response for any decline. Do not delay this to finish a screening tool.</p><p>Once the client is safe, finish the course assessment, listed below. The team then orders tests based on the findings.</p>",
           "steps": [
             "Notice and describe the new change.",
             "Protect the client and stay with them if unsafe.",
             "Assess airway, breathing, circulation, oxygen, vital signs, pain, and neuro status.",
             "Escalate any decline right away.",
-            "Gather baseline, onset, fluctuation, medicines, substances, intake, elimination, sleep, and sensory needs.",
+            "Gather baseline, onset, fluctuation, and the course history items.",
             "Use the facility’s screen and work with the team on cause-directed treatment."
           ],
-          "example": "A client with new hyperactive delirium is pulling at the IV line and climbing over the bed rails. First, stay with the client and assess oxygenation and pain. Restraints and sedation are not the first step."
+          "example": "A client with new hyperactive delirium is pulling at the IV line and climbing over the bed rails. First, stay with the client and assess oxygenation and pain. Restraints and sedation are not the first step.",
+          "bullets": [
+            "<b>Observe and interview:</b> behavior, changes in psychomotor activity, and mood instability.",
+            "<b>Health history:</b> age, other diseases, recent infection or fever, vision or hearing loss, alcohol or drug use, toxins, diet and fluids, untreated pain, depression, and recent life changes.",
+            "<b>Physical exam:</b> height, weight, and vital signs, plus a focused check of perfusion, oxygenation, intracranial regulation, infection, and inflammation.",
+            "<b>Screen:</b> the Confusion Assessment Method (CAM).",
+            "<b>Course diagnostic tests:</b> cognitive assessment and neuro exam; drug and alcohol screen; labs for infection, electrolytes, and metabolic problems; screening for depression and other mental health conditions."
+          ],
+          "source": "Cognition slides 39, 55, and 62–63; first-action order added for the NCLEX"
         },
         {
           "heading": "How does the CAM screen work?",
           "keyIdea": "CAM looks for sudden or fluctuating change plus inattention, with disorganized thinking or altered alertness.",
-          "body": "<p>Your course names the CAM. Trained staff use it with its official steps. Do not assign a result from a quick impression. Some facilities use other validated tools.</p><p>A positive screen means the client needs a clinical evaluation. A negative screen does not erase a decline you saw. Delirium comes and goes, so a short talk can miss it. Reassess over time.</p><p>Chart the behaviors you saw, the tool and time, who gave baseline, and related findings. Include the change in handoff. The next nurse needs to know what is new and what is pending.</p>",
+          "body": "<p>Your course lists the Confusion Assessment Method (CAM) as part of the physical exam. The bullets show the standard CAM features, which the slides do not list. Trained staff use it with its official steps. Do not assign a result from a quick impression. Some facilities use other validated tools.</p><p>A positive screen means the client needs a clinical evaluation. A negative screen does not erase a decline you saw. Delirium comes and goes, so a short talk can miss it. Reassess over time.</p><p>Chart the behaviors you saw, the tool and time, who gave baseline, and related findings. Include the change in handoff. The next nurse needs to know what is new and what is pending.</p>",
           "bullets": [
             "<b>Feature 1:</b> sudden onset or fluctuating course.",
             "<b>Feature 2:</b> inattention.",
             "<b>Plus either feature 3 or 4:</b> disorganized thinking, or an altered level of consciousness.",
             "Features 1 and 2 are both required for the classic pattern."
-          ]
+          ],
+          "source": "Cognition slide 63 names the CAM; feature details added from the standard tool"
         },
         {
           "heading": "How do you prevent and support it?",
-          "keyIdea": "Glasses, hearing aids, routine, sleep, and comfort care help, but they work alongside treating the cause.",
-          "body": "<p>Calm, familiar surroundings lower stress. Cut needless room moves, noise, and clutter. But do not leave the client in a dark, empty room. That removes the cues that help them stay oriented.</p><p>Say who you are and what you are doing. Use short, concrete sentences, one request at a time. Invite familiar people if the client wants them. These steps support the brain while the team treats the cause.</p><p>Assistive personnel (AP) can help with clear instructions. The RN keeps assessment and evaluation.</p>",
+          "keyIdea": "Reduce risk factors, catch subtle changes early, and support the brain with physical, environmental, and cognitive care while the cause is treated.",
+          "body": "<p>Your course says prevention focuses on reducing physical and psychosocial risk factors. It stresses early detection of subtle changes in thinking. Care should be holistic and patient-centered.</p><p>Nondrug care has three parts. Physical care means giving oxygen, IV fluids, and electrolyte correction as ordered, plus enough food and fluids. Environmental care means comfort, safety, no over- or under-stimulation, and the same caregivers and routine. Cognitive care means orienting the client to person, place, and time and calmly reassuring them they are safe.</p><p>At home, teach the client and caregivers which symptoms of chronic conditions or medicines could be mistaken for delirium. Assistive personnel (AP) can help with clear instructions. The RN keeps assessment and evaluation.</p>",
           "table": {
             "headers": [
               "Need",
-              "What helps"
+              "What helps (course implementation list)"
             ],
             "rows": [
               [
                 "Sensory access",
-                "Glasses and hearing aids on and working during the day"
+                "Glasses, hearing aids, and other assistive devices available"
               ],
               [
                 "Orientation",
-                "Clock, calendar, signs, calm reminders, familiar items"
+                "Calendars, clocks, and signs; familiar items without clutter; visits from loved ones"
               ],
               [
-                "Sleep",
-                "Protect night rest; keep a normal day routine"
+                "Stimulation and sleep",
+                "Right levels of noise and light; support normal sleep-wake cycles"
+              ],
+              [
+                "Consistency",
+                "Same caregivers; activities at the same time each day"
               ],
               [
                 "Safety",
-                "Remove hazards, supervise, use the least restrictive option"
+                "Block access to hazards; behavior plans and monitoring systems for wandering"
               ],
               [
-                "Body comfort",
-                "Assess pain, fluids, food, oxygen, and elimination"
+                "Comfort",
+                "Adequate pain management"
+              ],
+              [
+                "Communication",
+                "Good techniques to limit confusion: say who you are, short concrete sentences, one request at a time"
               ]
             ]
           },
           "bullets": [
             "<b>OK for AP:</b> put on glasses and hearing aids, help the client sit up for meals, and record intake.",
             "<b>Give AP a clear threshold:</b> “Tell me right away if the client is harder to wake than earlier.”"
-          ]
+          ],
+          "source": "Cognition slides 53, 56, and 66–67"
         },
         {
           "heading": "Can medicines help or harm?",
-          "keyIdea": "Treat the cause; some drugs, like diphenhydramine and benzodiazepines, can make delirium worse.",
-          "body": "<p>No pill on a slide is a routine delirium treatment. Antidepressants do not quickly reverse delirium. Antipsychotics do not fix low oxygen, infection, or a full bladder. Calming and safety steps without drugs come first when they fit.</p><p>Some drugs can cause or worsen delirium, especially in older adults. Strongly anticholinergic drugs, such as diphenhydramine, are one group. Benzodiazepines are another. They are usually saved for specific uses, such as alcohol or benzodiazepine withdrawal.</p><p>If severe distress or danger continues, a prescriber may weigh a short-term medicine. Haloperidol and similar drugs need special caution in older adults. This is especially true with Parkinson disease or Lewy body dementia. Monitor for sedation, heart or nerve side effects, falls, and response. This lesson does not give doses. Restraints and sedation are not default answers for restlessness.</p>",
+          "keyIdea": "Treat the cause and stop causative drugs; antipsychotics are for agitation, and some drugs, like diphenhydramine and benzodiazepines, can worsen delirium.",
+          "body": "<p>Your course lists four drug approaches. Treat the underlying cause when possible. Stop medicines that cause delirium. Antipsychotics, such as haloperidol or risperidone, may be used for agitation. SSRIs or other antidepressants may help if depression contributes.</p><p>Current guidelines add limits. Nondrug calming and safety steps come first when they fit. Antipsychotics do not fix low oxygen, infection, or a full bladder. A prescriber uses them short-term only for severe distress or danger. Antidepressants do not quickly reverse delirium.</p><p>Some drugs cause or worsen delirium, especially in older adults. Strongly anticholinergic drugs, like diphenhydramine, are one group. Benzodiazepines are another; they are usually saved for alcohol or benzodiazepine withdrawal. Haloperidol needs special caution with Parkinson disease or Lewy body dementia. Monitor for sedation, heart or nerve side effects, falls, and response. Restraints and sedation are not default answers.</p>",
           "bullets": [
             "An 82-year-old with delirium has a PRN diphenhydramine order for sleep. Clarify it with the prescriber.",
             "A client with Parkinson disease gets a new haloperidol order. Contact the prescriber about the Parkinson history."
-          ]
+          ],
+          "source": "Cognition slide 55; current-practice cautions added (NICE CG103)"
         },
         {
-          "heading": "Special groups and signs of recovery",
-          "keyIdea": "Delirium can happen at any age, and recovery is judged by attention and function against baseline.",
-          "body": "<p>Children may act differently during severe illness or after anesthesia. Do not call it defiance. Teens may have injury, medicine, or substance causes. New confusion during pregnancy or after birth can signal serious illness. Assess vital signs and mental status, and notify the provider promptly.</p><p>Older adults may show confusion while other symptoms stay subtle. Explain the plan to family. Delirium often improves as causes are treated, but recovery time varies. Do not promise a quick return to baseline. Check caregiver ability before discharge, and teach them what changes to report.</p><p>Good outcomes are clear. If thinking stays the same or worsens, look again for missed causes. “Client calm” is not enough if the client is now too sedated to engage.</p>",
+          "heading": "Delirium across the lifespan",
+          "keyIdea": "Delirium can happen at any age; each group has its own causes and its own look-alikes.",
+          "body": "<p>Delirium is not only an older-adult problem. Each age group has its own triggers. Each also has a condition it can be mistaken for. The table sums up what your course says.</p><p>In every group, compare with baseline and look for a cause. Explain the plan to the family. Delirium often improves as causes are treated, but recovery time varies. Do not promise a quick return to baseline.</p>",
+          "table": {
+            "headers": [
+              "Group",
+              "What the course says",
+              "Mistaken for"
+            ],
+            "rows": [
+              [
+                "Pregnant and postpartum",
+                "A serious clinical sign; may mean a life-threatening condition. May come from the stress of labor or anesthetic agents.",
+                "Postpartum psychosis, which makes diagnosis hard"
+              ],
+              [
+                "Children",
+                "Limited reserves for physical or environmental stress. Higher risk with intellectual or developmental disabilities. Often in critically ill or post-anesthesia patients. Fever can trigger it. Prognosis is better than in older adults.",
+                "Willful or oppositional behavior"
+              ],
+              [
+                "Adolescents",
+                "Better able to compensate for physical changes. Common causes differ: higher risk of head trauma, and drug or substance use and withdrawal.",
+                "Not named in the course; screen for injury and substances"
+              ],
+              [
+                "Older adults",
+                "Often the main sign of dehydration, respiratory or urinary infection, urinary retention, or adverse drug events. Prompt care is essential; delirium raises the risk of long-term disability and death.",
+                "Normal forgetfulness or dementia"
+              ]
+            ]
+          },
+          "source": "Cognition slides 57–60"
+        },
+        {
+          "heading": "Nursing diagnoses, goals, and recovery",
+          "keyIdea": "Recovery means no injury, orientation, clear communication, and ADLs back toward baseline, not just calm behavior.",
+          "body": "<p>Your course lists nursing diagnoses for delirium. Goals and evaluation follow from them. Each goal has a matching sign that it was met.</p><p>If thinking stays the same or worsens, look again for missed causes. “Client calm” is not enough if the client is now too sedated to engage. Check caregiver ability before discharge, and teach them what changes to report.</p>",
           "bullets": [
-            "No injury.",
-            "Better attention and alertness.",
-            "Communication and function moving back toward the client’s baseline.",
-            "Comfort and a restored sleep-wake pattern."
-          ]
+            "<b>Nursing diagnoses:</b> Risk for Injury; Self-Care Deficit (bathing, dressing, feeding, toileting); Disturbed Sleep Pattern; Acute Confusion; Impaired Verbal Communication; Impaired Social Interaction; Risk for Compromised Human Dignity."
+          ],
+          "table": {
+            "headers": [
+              "Goal: the client will…",
+              "Evaluation: the goal is met when…"
+            ],
+            "rows": [
+              [
+                "Remain free from injury",
+                "The client has no injuries"
+              ],
+              [
+                "Be oriented to time, place, date, and person",
+                "The client is oriented to all four"
+              ],
+              [
+                "Return to baseline cognitive status",
+                "No signs of delirium remain"
+              ],
+              [
+                "Communicate clearly and logically",
+                "The client speaks clearly and moves logically between topics"
+              ],
+              [
+                "Perform ADLs",
+                "The client performs ADLs"
+              ],
+              [
+                "Get adequate sleep and rest",
+                "Sleep-wake pattern restored (goal only; not on the evaluation slide)"
+              ],
+              [
+                "Show less anxiety, agitation, and restlessness",
+                "Calmer, and still awake and engaged (goal only; not on the evaluation slide)"
+              ]
+            ]
+          },
+          "source": "Cognition slides 64–65 and 68"
         },
         {
           "heading": "Common traps",
@@ -866,7 +1162,8 @@ window.NURSE_DATA.push({
                 "Diphenhydramine is anticholinergic. It can worsen delirium in older adults."
               ]
             ]
-          }
+          },
+          "source": "Added for the NCLEX — not in course materials (reviews slides 50–60)"
         },
         {
           "heading": "How the NCLEX tests this",
@@ -879,7 +1176,8 @@ window.NURSE_DATA.push({
             "<b>Wrong options:</b> Charting “improved” trusts quietness. Letting the client sleep misses a decline. Reorienting a client who cannot stay awake does not address the danger.",
             "<b>The answer:</b> Reassess breathing and responsiveness, then report the change.",
             "<b>Strategy:</b> A drop in alertness is never a success. Check airway and breathing first, then escalate."
-          ]
+          ],
+          "source": "Added for the NCLEX — not in course materials"
         },
         {
           "heading": "Worked case: quiet is not recovered",
@@ -895,18 +1193,21 @@ window.NURSE_DATA.push({
           "check": {
             "q": "His daughter says he usually talks easily and feeds himself after meal set-up. What finding would best show his delirium is improving?",
             "a": "He follows the conversation and eats lunch on his own after set-up. That shows attention and function returning toward his baseline."
-          }
+          },
+          "source": "Added: worked example based on Cognition slides 52, 54, 56, and 66"
         },
         {
           "heading": "Course source & clinical clarification",
           "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
           "bullets": [
-            "Source: Module 23, Exemplar 23.B Delirium, slides 48–68.",
+            "Source: Module 23 – Cognition, Exemplar 23.B Delirium, slides 48–68.",
+            "Hyperactive, hypoactive, and mixed subtypes and the CAM feature list are standard terms the slides do not spell out.",
             "Medication limits and the priority of non-drug care are clarified with the <a href=\"https://www.nice.org.uk/guidance/cg103/chapter/Recommendations\" target=\"_blank\" rel=\"noreferrer\">NICE delirium recommendations</a> (CG103), checked October 27, 2026.",
             "The slide medication list is not a routine treatment algorithm.",
             "This lesson does not give doses. Follow the individual order and facility protocol.",
             "The slide list of lab and imaging tests is not an order to test every client."
-          ]
+          ],
+          "source": "Cognition slides 48–68; NICE CG103 for current-practice notes"
         }
       ],
       "mnemonics": [],
@@ -946,7 +1247,7 @@ window.NURSE_DATA.push({
         },
         {
           "q": "A family asks why an antipsychotic was not automatically ordered. The client is safe with supportive care. What do you explain?",
-          "a": "The team treats the cause first. Medicine is saved for selected severe symptoms that continue despite other measures."
+          "a": "The team treats the cause first. The course lists antipsychotics for agitation. Current guidelines save them for severe distress or danger that continues despite other measures."
         }
       ]
     }

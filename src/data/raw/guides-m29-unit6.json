@@ -22,7 +22,7 @@
     "Use the client’s own words to find which part is hurting, then explore what it means.",
     "A big gap between real self and ideal self can cause distress.",
     "Infants need consistent, responsive care to build trust.",
-    "Toddlers need safe choices; preschoolers learn through play and questions.",
+    "Toddlers need safe exploration and independence; preschoolers need play, imagination, and questions.",
     "Teens care about peers and identity. Explore their worry before you teach.",
     "Older adults may review their life. Invite the story; do not change the subject.",
     "Hopeless or self-harm statements need a direct safety assessment, whatever the life stage."
@@ -30,15 +30,15 @@
    "keyTerms": [
     {
      "term": "Self-concept",
-     "def": "A person’s overall view of who they are, shaped by experience."
+     "def": "A person’s own perception of themselves, formed through life experiences. It affects mental, physical, and spiritual health."
     },
     {
      "term": "Personal identity",
-     "def": "The sense of being a unique person with one’s own values, beliefs, traits, and relationships."
+     "def": "Who a person is: name, gender, age, culture, roles, values, and beliefs."
     },
     {
      "term": "Body image",
-     "def": "The mental picture and feelings a person has about their own body."
+     "def": "The mental picture of one’s physical self, shaped by perception, emotions, media, and culture."
     },
     {
      "term": "Role performance",
@@ -70,20 +70,20 @@
     },
     {
      "term": "Generativity",
-     "def": "Contributing to the next generation through work, family, mentoring, or community."
+     "def": "Contributing to society and nurturing the next generation, through work, family, mentoring, or community."
     },
     {
      "term": "Integrity vs. despair",
-     "def": "The older-adult task of looking back on life and finding meaning rather than regret."
+     "def": "The older-adult task of reflecting on life accomplishments. Success brings wisdom; failure brings despair and regret."
     }
    ],
    "sections": [
     {
      "heading": "What is self-concept?",
-     "keyIdea": "Self-concept has several parts, and the client’s own words tell you which part to explore.",
-     "body": "<p>Self-concept has several parts. Each one answers a different question. One statement from a client may touch more than one part.</p><p>Listen for clues. After surgery, “I look different” points to body image. “I can’t provide for my family” points to role performance. “I am worthless now” points to self-esteem. But ask what the words mean before you pick a label.</p><p>A full assessment covers how long the feeling has lasted and how it affects daily life. It also covers coping, support, and safety. A client can have distress and strengths at the same time.</p>",
+     "keyIdea": "Self-concept is how a person sees themselves. It has five parts, and the client’s own words show which part to explore.",
+     "body": "<p>Self-concept is a person’s own picture of themselves. It forms through life experiences. It affects mental, physical, and spiritual health. A negative self-concept can lead to poor coping, strained relationships, and a higher risk of illness.</p><p>Your course names five key parts. Each one answers a different question. One statement from a client may touch more than one part.</p><p>Listen for clues. After surgery, “I look different” points to body image. “I can’t provide for my family” points to role performance. “I am worthless now” points to self-esteem. But ask what the words mean before you pick a label.</p><p>A full assessment covers how long the feeling has lasted and how it affects daily life. It also covers coping, support, and safety. A client can have distress and strengths at the same time.</p>",
      "bullets": [
-      "<b>Identity:</b> “Who am I?”",
+      "<b>Personal identity:</b> “Who am I?” It includes name, gender, age, culture, roles, values, and beliefs.",
       "<b>Body image:</b> “How do I see my body?”",
       "<b>Role performance:</b> “What do I do, and what is expected of me?”",
       "<b>Self-esteem:</b> “How much do I value myself?”",
@@ -117,89 +117,130 @@
         "“What is most important for us to understand?”"
        ]
       ]
-     }
+     },
+     "source": "Self slides 6–7, 33"
     },
     {
-     "heading": "Real, ideal, and public self",
-     "keyIdea": "When the real self falls far short of the ideal self, distress follows, so explore it.",
-     "body": "<p>The real self is how a person believes they are. The ideal self is who they want to be. The public self is how they show up to others. When these line up, identity feels steady. A big gap can cause distress.</p><p>These are feelings, not a measure of the person’s worth. An injured athlete may feel a large gap between today’s body and the athlete they want to be.</p><p>Help the client explore other strengths and roles, but do not dismiss the loss. Avoid “At least you are alive.” Name the loss, then ask what kind of activity or adaptation would matter now.</p>",
-     "example": "A former runner says, “In my head I am still the athlete I want to be, but now I’m just someone who limps with a cane.” This shows a gap between the real and ideal self. Explore it; do not label it."
+     "heading": "Real, ideal, and public self, and body image",
+     "keyIdea": "When the real, ideal, and public selves match, identity is strong. A big gap, in self or body image, can cause distress.",
+     "body": "<p>The real self is who a person believes they are. The ideal self is who they want to be. The public self is how they present themselves to others. When these match (congruence), the person has a strong sense of identity. A big gap can cause distress.</p><p>Body image works the same way. It is the mental picture of one’s physical self. Perception, emotions, media, and culture shape it. It includes accepting assistive or prosthetic devices. When the real body image is close to the ideal one, satisfaction is higher.</p><p>These are feelings, not a measure of the person’s worth. An injured athlete may feel a large gap between today’s body and the athlete they want to be.</p><p>Help the client explore other strengths and roles, but do not dismiss the loss. Avoid “At least you are alive.” Name the loss, then ask what kind of activity or adaptation would matter now.</p>",
+     "example": "A former runner says, “In my head I am still the athlete I want to be, but now I’m just someone who limps with a cane.” This shows a gap between the real and ideal self. Explore it; do not label it.",
+     "source": "Self slides 7–8"
     },
     {
-     "heading": "Infants, toddlers, and preschoolers",
-     "keyIdea": "Infants need trust, toddlers need safe choices, and preschoolers need play and simple answers.",
-     "body": "<p><b>Infants (trust):</b> Trust grows from consistent, responsive care. Assign the same caregivers when you can. Answer cries promptly, especially when parents cannot stay. Explain care to parents and keep routines predictable.</p><p><b>Toddlers (autonomy):</b> Toddlers want control. Offer safe, limited choices, like which arm goes in the sleeve first. Do not ask whether a needed treatment will happen.</p><p><b>Preschoolers (initiative):</b> Preschoolers learn by exploring, playing, and asking questions. Give simple explanations. Let them touch safe supplies and take part where possible.</p><p>Doing every task for a child blocks mastery. Asking too much causes frustration. Match support to the child’s real skills. These stages describe needs. One hard experience does not fix a child’s personality for life.</p>",
-     "example": "A 4-year-old keeps asking, “What is that for?” about a tourniquet before a blood draw. Let the child touch the supplies and “practice” on a stuffed animal. The draw still happens today."
-    },
-    {
-     "heading": "School-age children and teens",
-     "keyIdea": "School-age children build competence through practice; teens build identity and care deeply about peers.",
-     "body": "<p><b>School-age (industry):</b> Children this age want to feel competent. Break a skill into small steps. Allow practice with help. Praise a specific effort, like “You held the inhaler just right.” Avoid public comparisons and shaming feedback.</p><p><b>Teens (identity):</b> Teens explore who they are and what they value. Looks, fitting in with peers, privacy, and independence often matter a lot. Talk to the teen directly. Respect privacy within policy and law.</p><p>A visible device may keep a teen away from activities. That is usually about peer reactions, not missing facts. So ask about the worry before teaching. Solve problems together. Do not dismiss the concern as vanity.</p>",
-     "example": "A 15-year-old with a new insulin pump quits swim practice. She says, “Everyone is going to stare at this thing.” First ask, “What worries you most about how your teammates might react?”"
-    },
-    {
-     "heading": "Adults and older adults",
-     "keyIdea": "Adults may grieve lost relationships, roles, or purpose; ask what gives meaning now.",
-     "body": "<p><b>Young adults (intimacy):</b> Illness can affect dating, sexuality, independence, and plans. Treat these worries as a real part of care. Offer private time for questions and referrals if wanted.</p><p><b>Middle adults (generativity):</b> Many adults give back through work, family, mentoring, or community. A new disability can disrupt these roles and shake their sense of purpose.</p><p><b>Older adults (integrity vs. despair):</b> Many look back over their lives. Invite these stories and honor their contributions. Do not assume every older adult is retired, lonely, or dependent.</p><p>Themes can overlap. An older adult may find meaning in mentoring. Culture and life experience shape roles. Use Erikson as a guide for questions, not a strict timetable.</p>",
+     "heading": "How the self develops",
+     "source": "Self slides 4–5, 9, 17",
+     "keyIdea": "The self grows through lifelong relationships. Erikson’s stages show each age’s task and what success or failure brings.",
+     "body": "<p>The self develops through relationships across the whole life. Family, culture, experiences, and feedback from others all shape it. Theorists such as Erikson and Piaget described stages of development. Completing each stage’s task builds confidence and identity.</p><p>Early experiences shape brain development and emotional health. Environment, trauma, and genetics all affect mental wellness. About 75% of adult mental illnesses begin in childhood. So nurses play a key role in early screening, teaching, and support.</p><p>The table sums up Erikson’s stages from your course. Use it to understand each age’s emotional needs, guide how you talk with the client, and support healthy coping.</p>",
      "table": {
       "headers": [
-       "Life-stage task",
-       "How the nurse supports it"
+       "Stage (age)",
+       "Task",
+       "Success",
+       "Failure",
+       "Nursing focus"
       ],
       "rows": [
        [
-        "Trust (infant)",
+        "Infant (birth–1 yr)",
+        "Trust vs. mistrust",
+        "Security, hope, trust in caregivers",
+        "Fear, anxiety, mistrust",
         "Consistent, responsive care"
        ],
        [
-        "Autonomy (toddler)",
-        "Safe choices and participation"
+        "Toddler (1–3 yrs)",
+        "Autonomy vs. shame and doubt",
+        "Independence, confidence",
+        "Shame, doubt, dependence, low self-esteem",
+        "Support safe exploration and independence"
        ],
        [
-        "Initiative (preschool)",
-        "Play, questions, and exploring"
+        "Preschool (3–6 yrs)",
+        "Initiative vs. guilt",
+        "Initiative, creativity, purpose, decision-making",
+        "Guilt, hesitation, fear of trying new things",
+        "Encourage play, imagination, and questions"
        ],
        [
-        "Industry (school-age)",
-        "Practice, specific praise, achievable skills"
+        "School-age (6–12 yrs)",
+        "Industry vs. inferiority",
+        "Competence, pride, confidence",
+        "Inferiority, low self-worth",
+        "Praise effort, support learning"
        ],
        [
-        "Identity (teen)",
-        "Self-expression and respectful inclusion"
+        "Adolescent (12–18 yrs)",
+        "Identity vs. role confusion",
+        "Clear sense of self, purpose",
+        "Confusion, rebellion, insecurity",
+        "Encourage self-expression and acceptance"
        ],
        [
-        "Intimacy (young adult)",
-        "Support wanted relationships and privacy"
+        "Young adult (18–40 yrs)",
+        "Intimacy vs. isolation",
+        "Deep relationships, love, commitment",
+        "Isolation, loneliness, fear of closeness",
+        "Foster connection and balance independence"
        ],
        [
-        "Generativity (middle adult)",
-        "Protect contribution and valued roles"
+        "Middle adult (40–65 yrs)",
+        "Generativity vs. stagnation",
+        "Productivity, purpose",
+        "Stagnation, emptiness, self-absorption",
+        "Encourage reflection and contribution"
        ],
        [
-        "Integrity (older adult)",
-        "Support life review, dignity, and meaning"
+        "Older adult (65+ yrs)",
+        "Integrity vs. despair",
+        "Wisdom, fulfillment, satisfaction",
+        "Regret, despair, hopelessness",
+        "Support life review, dignity, and legacy"
        ]
       ]
      }
     },
     {
+     "heading": "Infants, toddlers, and preschoolers",
+     "keyIdea": "Infants need consistent care for trust, toddlers need safe exploration and independence, and preschoolers need play, imagination, and questions.",
+     "body": "<p><b>Infants, birth–1 year (trust vs. mistrust):</b> Trust grows from consistent, reliable care. Success brings security and hope. Failure brings fear, anxiety, and mistrust. Assign the same caregivers when you can. Answer cries promptly, especially when parents cannot stay. Keep routines predictable.</p><p><b>Toddlers, 1–3 years (autonomy vs. shame and doubt):</b> The task is independence and self-control. Success brings confidence. Failure brings shame, doubt, and low self-esteem. Support safe exploration. Offer safe, limited choices, like which arm goes in the sleeve first. Do not ask whether a needed treatment will happen.</p><p><b>Preschoolers, 3–6 years (initiative vs. guilt):</b> The task is initiative and leadership. Success brings purpose and the ability to make decisions. Failure brings guilt, inhibition, or fear of trying new things. Encourage play, imagination, and questions. Give simple explanations and let them touch safe supplies.</p><p>Doing every task for a child blocks mastery. Asking too much causes frustration. Match support to the child’s real skills. One hard experience does not fix a child’s personality for life.</p>",
+     "example": "A 4-year-old keeps asking, “What is that for?” about a tourniquet before a blood draw. Let the child touch the supplies and “practice” on a stuffed animal. The draw still happens today.",
+     "source": "Self slides 10–11, 17, 21 (care examples added)"
+    },
+    {
+     "heading": "School-age children and teens",
+     "keyIdea": "School-age children build competence through learning and praised effort; teens build identity and values and care deeply about peers.",
+     "body": "<p><b>School-age, 6–12 years (industry vs. inferiority):</b> The task is to develop skills and competence. Success brings pride and confidence. Failure brings feelings of inferiority or inadequacy. Praise effort and support learning. Break a skill into small steps. Praise a specific effort, like “You held the inhaler just right.” Avoid public comparisons.</p><p><b>Teens, 12–18 years (identity vs. role confusion):</b> The task is to develop a personal identity and values. Success brings a clear sense of self. Failure brings confusion, rebellion, or insecurity. Encourage self-expression and acceptance. Looks, peers, privacy, and independence often matter a lot. Talk to the teen directly and respect privacy within policy and law.</p><p>A visible device may keep a teen away from activities. That is usually about peer reactions, not missing facts. So ask about the worry before teaching. Solve problems together. Do not dismiss the concern as vanity.</p>",
+     "example": "A 15-year-old with a new insulin pump quits swim practice. She says, “Everyone is going to stare at this thing.” First ask, “What worries you most about how your teammates might react?”",
+     "source": "Self slides 12–13, 17 (care examples added)"
+    },
+    {
+     "heading": "Adults and older adults",
+     "keyIdea": "Adults may grieve lost relationships, roles, or purpose; ask what gives meaning now.",
+     "body": "<p><b>Young adults, 18–40 years (intimacy vs. isolation):</b> The task is to form intimate, trusting relationships. Success brings deep connections and commitment. Failure brings loneliness and fear of closeness. Foster connection while balancing independence. Illness can affect dating, sexuality, and plans, so offer private time for questions and referrals if wanted.</p><p><b>Middle adults, 40–65 years (generativity vs. stagnation):</b> The task is to contribute to society and nurture the next generation. Success brings productivity and purpose. Failure brings stagnation and self-absorption. Encourage reflection and contribution. A new disability can disrupt these roles.</p><p><b>Older adults, 65+ years (integrity vs. despair):</b> The task is to reflect on life accomplishments. Success brings wisdom and satisfaction. Failure brings despair, regret, and hopelessness. Support life review, dignity, and legacy. Invite their stories. Do not assume every older adult is retired, lonely, or dependent.</p><p>Themes can overlap. An older adult may find meaning in mentoring. Use Erikson as a guide for questions, not a strict timetable.</p>",
+     "source": "Self slides 14–17 (care examples added)"
+    },
+    {
      "heading": "How do you assess and support self?",
-     "keyIdea": "Ask what the change means before offering a fix, and build on strengths the client still has.",
-     "body": "<p>Ask how the client describes themselves. Ask about valued roles, body worries, mood, coping, relationships, and recent changes. Do not judge from grooming, eye contact, or looks alone. Culture, pain, money, and fatigue can change how someone presents.</p><p>Look for strengths too. These include past coping, supportive people, skills, beliefs, and activities that still matter. A client may need help bathing yet still make decisions and support family. Plan for real ability, not all-or-nothing independence. Distress may last even as skills improve, so do not demand quick acceptance.</p><p>Support self-concept in daily care. Watch for warning signs. Low self-worth, hopelessness, self-harm talk, or a big drop in function needs a safety assessment and mental-health support. A theory never replaces a direct safety check.</p>",
+     "keyIdea": "Healthy means able to adapt, cope, and keep relationships. Ask what a change means, recognize negative self-image early, and build on strengths.",
+     "body": "<p>Physical changes show measurable signs. Psychosocial changes do not, and “normal” varies from person to person. Your course defines healthy as the ability to adapt, cope, and maintain relationships. So assess how psychosocial health affects daily function.</p><p>Assess for low self-esteem, body image disturbance, and role strain. Ask how the client describes themselves. Ask about valued roles, mood, coping, and recent changes. Do not judge from grooming or looks alone. Culture, pain, money, and fatigue can change how someone presents.</p><p>Look for strengths too, such as past coping, supportive people, and skills. A client may need help bathing yet still make decisions. Distress may last even as skills improve, so do not demand quick acceptance.</p><p>Early recognition of a negative self-image is key. Hopelessness, self-harm talk, or a big drop in function needs a safety assessment and mental-health support.</p>",
      "bullets": [
-      "Explain care, protect privacy, and use respectful language.",
-      "Offer real choices.",
-      "Break new tasks into small steps.",
-      "Give specific feedback: “You did that transfer safely,” not just “Good job.”",
-      "Set realistic goals and let the client adapt at their own pace.",
-      "Ask who the client wants involved and what may be shared."
-     ]
+      "Explain care, protect privacy, and use therapeutic communication and empathy.",
+      "Encourage self-acceptance and positive coping.",
+      "Encourage participation in decision-making and self-care. Offer real choices.",
+      "Support independence. Set realistic goals and break new tasks into small steps.",
+      "Affirm strengths with specific feedback: “You did that transfer safely,” not just “Good job.”",
+      "Teach families supportive behaviors. Ask who the client wants involved and what may be shared.",
+      "Collaborate with mental health professionals. Refer to counseling or support groups when needed."
+     ],
+     "source": "Self slides 4, 27, 29"
     },
     {
      "heading": "The nurse’s own values",
-     "keyIdea": "Check your own beliefs before you label a client’s different choice as a problem.",
-     "body": "<p>Nurses bring their own beliefs about independence, looks, family, gender, and success. Notice when these shape your view. A client’s values may differ from yours and still be healthy.</p><p>Reflect on your reactions. This helps you avoid judging language or taking over decisions. Rest, reflection, and team support keep the relationship therapeutic. Ask for supervision when your feelings get in the way.</p><p>Self-awareness helps you listen better and act more consistently. The client should never have to manage your feelings.</p>",
-     "example": "A nurse who values independence feels frustrated. An older adult lets her daughter help with bathing and make daily decisions. The client says this is normal in her family. The nurse should first examine her own values, then ask about the client’s preferences."
+     "keyIdea": "Caring for others requires your own health, rest, and balance. Check your own beliefs before you label a client’s different choice as a problem.",
+     "body": "<p>Your course stresses that caring for others requires keeping up your own health, rest, and emotional balance. Self-awareness supports therapeutic relationships and psychosocial assessment. Understanding self-concept helps you give holistic, compassionate care.</p><p>Nurses bring their own beliefs about independence, looks, family, gender, and success. Notice when these shape your view. A client’s values may differ from yours and still be healthy.</p><p>Reflect on your reactions. This helps you avoid judging language or taking over decisions. Ask for supervision when your feelings get in the way. The client should never have to manage your feelings.</p>",
+     "example": "A nurse who values independence feels frustrated. An older adult lets her daughter help with bathing and make daily decisions. The client says this is normal in her family. The nurse should first examine her own values, then ask about the client’s preferences.",
+     "source": "Self slide 3"
     },
     {
      "heading": "Common traps",
@@ -221,7 +262,7 @@
        ],
        [
         "Generativity vs. integrity",
-        "Generativity is giving to others. Integrity is looking back on life for meaning."
+        "Generativity is contributing to society and the next generation. Integrity is reflecting on life accomplishments."
        ],
        [
         "Toddler choice vs. false choice",
@@ -240,7 +281,8 @@
         "A different family pattern is not a problem if the client chooses it."
        ]
       ]
-     }
+     },
+     "source": "Self slides 6–8, 11, 15–16 (comparisons added)"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -253,7 +295,8 @@
       "<b>Wrong options:</b> “Focus on the positive” dismisses the regret. Changing the subject to an activity cuts off the review. A quick referral to a counselor treats normal reflection as a problem.",
       "<b>The answer:</b> “Tell me about the parts you are proud of and the parts you regret.”",
       "<b>Strategy:</b> When a client shares a stage-typical feeling and is safe, invite them to say more. Do not fix it or redirect it."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: a changed role, same worth",
@@ -269,16 +312,19 @@
      "check": {
       "q": "Why is “Your family can do everything for you now” an incomplete response?",
       "a": "It handles tasks but ignores identity, choice, and meaningful roles. Ask what help he needs and what he wants to keep doing."
-     }
+     },
+     "source": "Added: worked example based on Self slides 6, 23, 29"
     },
     {
      "heading": "Course source & clinical clarification",
      "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
      "bullets": [
-      "Source: Module 29 – Self, slides 2–17, 21, 23, 26–30, and 32–37.",
+      "Source: Module 29 – Self, slides 2–17, 21, 27, and 29.",
+      "Your slides show preschool (slide 21) out of order. It belongs between toddler and school-age.",
       "Erikson’s age ranges are guides, not rigid diagnostic categories.",
       "A developmental framework never replaces a direct safety assessment."
-     ]
+     ],
+     "source": "Self slides 2–17, 21, 27, 29"
     }
    ],
    "mnemonics": [],
@@ -338,9 +384,9 @@
     "Eating disorders happen at any body size. Normal weight does not mean medically safe.",
     "Purging can cause low potassium and dangerous heart rhythms; report low potassium first.",
     "In the first days of refeeding, watch phosphorus, potassium, and magnesium closely.",
-    "SCOFF: two or more “yes” answers means evaluate further. It is a screen, not a diagnosis.",
-    "Binges without regular purging or other compensation point to binge-eating disorder, not bulimia.",
-    "Food restriction without body-image worry suggests a cause other than anorexia.",
+    "SCOFF: two or more “yes” answers means a likely eating disorder. Refer for evaluation; the screen does not diagnose.",
+    "Binges without purging point to binge-eating disorder, not bulimia.",
+    "Avoiding food for sensory or fear reasons, without body-image worry, suggests ARFID, not anorexia.",
     "Chart behavior, exact words, actions, and response. Never chart labels like “manipulative.”",
     "Self-harm statements or a relationship safety cue change the priority to safety."
    ],
@@ -351,15 +397,15 @@
     },
     {
      "term": "Anorexia nervosa",
-     "def": "An eating disorder with food restriction plus weight, body-image, and fear-related features. Diagnosis needs a full evaluation."
+     "def": "An eating disorder of self-starvation with a distorted body image. Diagnosis needs a full evaluation."
     },
     {
      "term": "Bulimia nervosa",
-     "def": "Repeated binge eating followed by compensatory behaviors, such as vomiting, laxatives, fasting, or excess exercise."
+     "def": "Binge eating followed by purging, such as vomiting or laxatives. Current criteria also count fasting or excess exercise."
     },
     {
      "term": "Binge-eating disorder",
-     "def": "Repeated, distressing binges without the regular compensatory behaviors seen in bulimia."
+     "def": "Overeating (binges) without purging."
     },
     {
      "term": "Compensatory behavior",
@@ -367,11 +413,11 @@
     },
     {
      "term": "ARFID",
-     "def": "Avoidant/restrictive food intake disorder. Restricted eating from sensory dislike, fear of a bad outcome, or low interest, not a wish to be thin."
+     "def": "Avoidant/restrictive food intake disorder. Avoiding food due to sensory or fear-related issues, not a wish to be thin."
     },
     {
      "term": "Pica",
-     "def": "Repeatedly eating nonfood items beyond what is expected for age and culture."
+     "def": "Eating nonfood items, such as chalk, paper, or dirt."
     },
     {
      "term": "Rumination",
@@ -387,29 +433,36 @@
     },
     {
      "term": "SCOFF",
-     "def": "A brief five-question eating-disorder screen. It shows a need for more assessment; it does not diagnose."
+     "def": "A five-question eating-disorder screen. Two or more “yes” answers mean a likely eating disorder and a referral for evaluation."
     },
     {
      "term": "Personality disorder",
-     "def": "A long-lasting pattern of thinking and behaving that causes distress or problems with function."
+     "def": "Rigid, inflexible patterns of thinking and behaving that cause distress and impaired relationships."
     }
    ],
    "sections": [
     {
-     "heading": "Can you see body-image distress?",
-     "keyIdea": "You cannot read body-image distress or an eating disorder from how someone looks; ask and listen.",
-     "body": "<p>A client may avoid looking at a wound or skip social events. They may describe shame or fear about intimacy. These clues invite you to assess body image and coping. They do not prove a disorder or tell you the person’s values.</p><p>Body-image concerns happen at any size, age, gender, or health status. A person with an eating disorder may not look underweight. Never reassure based on looks, such as “You look fine, so there can’t be a problem.”</p><p>Instead, listen for eating patterns, distress, and compensatory behavior. Ask about physical symptoms and social effects. A respectful assessment tells you more than a compliment about weight.</p>"
+     "heading": "Alterations in self: can you see them?",
+     "keyIdea": "Physical, emotional, or social factors can disrupt self-concept. You cannot read these changes from looks, so ask and listen.",
+     "body": "<p>Self-concept can be disrupted by physical, emotional, or social factors. Your course lists the common alterations below.</p><p>A client may avoid looking at a wound or skip social events. They may describe shame or fear about intimacy. These clues invite you to assess body image and coping. They do not prove a disorder.</p><p>Body-image concerns happen at any size, age, gender, or health status. A person with an eating disorder may not look underweight. Never reassure based on looks, such as “You look fine, so there can’t be a problem.”</p><p>Instead, listen for eating patterns, distress, and purging. Ask about physical symptoms and social effects. A respectful assessment tells you more than a compliment about weight.</p>",
+     "source": "Self slides 8, 19 (assessment tips added)",
+     "bullets": [
+      "Feeding and eating disorders",
+      "Personality disorders",
+      "Body image distortion",
+      "Low self-esteem or poor self-awareness"
+     ]
     },
     {
      "heading": "Which eating pattern is it?",
-     "keyIdea": "Ask what is driving the eating change: body image, binges, compensation, fear, texture, or nonfood items.",
-     "body": "<p>Anorexia involves restriction with weight and body-image worries. Bulimia involves binges followed by compensatory behavior. That can be vomiting, but also laxatives, fasting, or excess exercise. Binge-eating disorder involves distressing binges without regular compensation. Full criteria belong to a professional evaluation.</p><p>Your slides also list other conditions. Each has a different cause.</p><p>Pica can be dangerous. A young child eating peeling paint chips needs assessment for hazards such as lead exposure.</p>",
+     "keyIdea": "Ask what drives the eating change: distorted body image, binges, purging, sensory or fear issues, or nonfood items.",
+     "body": "<p>Eating disorders involve a chronic disturbance in eating behaviors. They affect both physical health and psychological well-being. They may occur with anxiety, depression, or substance use.</p><p>Your course describes three common forms. Anorexia nervosa is self-starvation with a distorted body image. Bulimia nervosa is binge eating followed by purging. Binge-eating disorder is overeating without purging. Current criteria also count fasting or excess exercise as ways to “undo” a binge in bulimia. Full criteria belong to a professional evaluation.</p><p>Your slides also list other eating-related conditions. Each has a different cause. Pica can be dangerous. A young child eating peeling paint chips needs assessment for hazards such as lead exposure.</p>",
      "bullets": [
-      "<b>ARFID:</b> restriction from texture dislike, fear of choking or vomiting, or low interest. It is not about thinness.",
-      "<b>Pica:</b> ongoing eating of nonfood items, like paint chips or soil.",
-      "<b>Rumination:</b> repeated bringing up and rechewing of food.",
-      "<b>Sleep-related eating:</b> eating during sleep.",
-      "<b>Prader-Willi syndrome:</b> a genetic syndrome with complex needs. It is not a character flaw or ordinary overeating."
+      "<b>NSRED</b> (nocturnal sleep-related eating disorder): eating while partially asleep.",
+      "<b>Pica:</b> eating nonfood items, such as chalk, paper, or dirt.",
+      "<b>Rumination disorder:</b> regurgitating and re-chewing food.",
+      "<b>ARFID</b> (avoidant/restrictive food intake disorder): avoiding food due to sensory or fear-related issues, such as texture or fear of choking. It is not about thinness.",
+      "<b>Prader-Willi syndrome:</b> a genetic disorder with insatiable hunger and obesity. It is not a character flaw."
      ],
      "table": {
       "headers": [
@@ -418,19 +471,19 @@
       ],
       "rows": [
        [
-        "Restriction plus weight or body-image fear",
-        "Possible anorexia-type presentation"
+        "Self-starvation plus distorted body image",
+        "Possible anorexia nervosa"
        ],
        [
-        "Binges plus vomiting, laxatives, fasting, or over-exercise",
-        "Possible bulimia-type presentation"
+        "Binges followed by purging, such as vomiting or laxatives",
+        "Possible bulimia nervosa"
        ],
        [
-        "Distressing binges, no regular compensation",
-        "Possible binge-eating presentation"
+        "Overeating (binges) without purging",
+        "Possible binge-eating disorder"
        ],
        [
-        "Restriction from texture, fear, or low interest; no body-shape worry",
+        "Avoiding food due to texture or fear; no body-shape worry",
         "Consider ARFID, not anorexia"
        ],
        [
@@ -438,58 +491,142 @@
         "Pica; assess hazards like lead"
        ]
       ]
-     }
+     },
+     "source": "Self slides 18, 20 (current-criteria note added)"
     },
     {
      "heading": "Why are the body risks urgent?",
      "keyIdea": "Purging and restriction can stop the heart, so physical warning signs come before counseling.",
-     "body": "<p>Your source lists fatigue, weight change, lanugo, and electrolyte problems as possible findings. Assess history, vital signs, hydration, intake, elimination, and symptoms. Labs and heart tests may be needed.</p><p>Do not blame dizziness, weakness, palpitations, or fainting on anxiety. Risk can be high even when body size looks typical. Report abnormal findings promptly and follow the escalation plan.</p><p>Restarting food carries its own risk, called refeeding syndrome. It is most dangerous in the first few days. Phosphate, potassium, and magnesium can drop. A phosphorus of 1.8 mg/dL two days into refeeding needs immediate follow-up. Feeding and electrolyte plans belong to the team. A nurse never designs an aggressive feeding plan from one screen.</p>",
+     "body": "<p>Your course lists weight loss, lanugo, fatigue, and electrolyte imbalance as physical findings. Diagnostic tests help rule out physical causes or assess complications. Assess history, vital signs, hydration, intake, and symptoms. Monitor labs for medical complications.</p><p>Do not blame dizziness, weakness, palpitations, or fainting on anxiety. Risk can be high even when body size looks typical. Report abnormal findings promptly and follow the escalation plan.</p><p>Restarting food carries its own risk, called refeeding syndrome. It is most dangerous in the first few days. Phosphate, potassium, and magnesium can drop. A phosphorus of 1.8 mg/dL two days into refeeding needs immediate follow-up. Feeding and electrolyte plans belong to the team.</p>",
      "bullets": [
       "<b>Vomiting or laxative misuse:</b> can cause low potassium (hypokalemia). Low potassium can cause dangerous heart rhythms (dysrhythmias). A potassium of 2.9 mEq/L is a top priority to report.",
       "<b>Severe restriction:</b> can cause slow heart rate (bradycardia), low blood pressure, and dizziness on standing (orthostatic changes).",
       "<b>Refeeding:</b> watch phosphorus, potassium, and magnesium closely."
-     ]
+     ],
+     "source": "Self slides 34–35 (electrolyte and refeeding details added for the NCLEX)",
+     "table": {
+      "headers": [
+       "Test from your slides",
+       "What it helps show"
+      ],
+      "rows": [
+       [
+        "CBC",
+        "Blood counts, such as anemia"
+       ],
+       [
+        "Electrolytes",
+        "Potassium and other losses from purging or restriction"
+       ],
+       [
+        "Kidney and liver function; BUN and creatinine",
+        "Organ strain from dehydration or starvation"
+       ],
+       [
+        "ABG",
+        "Acid-base balance"
+       ],
+       [
+        "Thyroid function",
+        "A thyroid cause of weight change"
+       ],
+       [
+        "ECG",
+        "Heart rhythm problems"
+       ],
+       [
+        "Urinalysis",
+        "Hydration and nutritional status"
+       ]
+      ]
+     }
     },
     {
      "heading": "How do you use the SCOFF screen?",
-     "keyIdea": "Two or more “yes” answers on SCOFF means evaluate further; it never makes a diagnosis.",
-     "body": "<p>SCOFF is a short screening questionnaire. Your source sets two or more “yes” answers as the point for further evaluation. A positive screen means concern, not a specific disorder. A negative screen does not erase worrying symptoms.</p><p>Use the official wording in a private place. Explain that the goal is to understand what support may help. Do not make up questions and report a formal score.</p><p>Follow a positive result with assessment, referral, and attention to medical and emotional safety. Chart the tool, result, setting, and follow-up. Do not label the client from the score alone.</p>",
+     "keyIdea": "Two or more “yes” answers on SCOFF means a likely eating disorder: refer for evaluation. The screen alone does not diagnose.",
+     "body": "<p>SCOFF is a short screening questionnaire. Your course says two or more “yes” answers mean a likely eating disorder. Refer the client for evaluation. “Likely” is not a diagnosis; the evaluation confirms it. A negative screen does not erase worrying symptoms.</p><p>Ask the questions as written, in a private place. Explain that the goal is to understand what support may help. Do not make up questions and report a formal score.</p><p>Follow a positive result with referral and attention to medical and emotional safety. Chart the tool, result, setting, and follow-up. Do not label the client from the score alone.</p>",
      "bullets": [
-      "Do you make yourself <b>S</b>ick (vomit) because you feel uncomfortably full?",
-      "Do you worry you have lost <b>C</b>ontrol over how much you eat?",
-      "Have you recently lost a lot of weight (<b>O</b>ne stone, about 14 pounds, in 3 months)?",
-      "Do you believe yourself to be <b>F</b>at when others say you are too thin?",
-      "Would you say <b>F</b>ood dominates your life?"
-     ]
+      "Do you make yourself <b>S</b>ick because you feel too full?",
+      "Do you worry you have lost <b>C</b>ontrol over eating?",
+      "Have you recently lost more than <b>O</b>ne stone (14 lb) in 3 months?",
+      "Do you believe yourself <b>F</b>at when others say you are thin?",
+      "Does <b>F</b>ood dominate your life?"
+     ],
+     "source": "Self slide 31"
     },
     {
      "heading": "Personality patterns and difficult behavior",
-     "keyIdea": "Describe what the client did and said, keep consistent limits, and never let a label replace care.",
-     "body": "<p>Your course defines personality disorders as long-lasting patterns of thought and behavior that cause distress or impairment. Borderline and antisocial personality disorders are examples. But one angry moment or refusal does not prove either one. Illness, fear, pain, trauma, and past experiences can drive behavior.</p><p>Assess the real concern, including impulsivity, emotional control, relationships, and safety. Keep professional limits that are steady and respectful. Team consistency helps, but it should support a care plan, not punish.</p><p>A diagnosis never lowers a client’s right to honest explanation, privacy, and symptom care. In charting, avoid labels such as “manipulative.” Describe what happened instead.</p>",
+     "keyIdea": "Personality disorders are rigid patterns that harm relationships. Put safety first, keep firm limits, and chart what the client did and said.",
+     "body": "<p>Your course defines personality disorders as rigid, inflexible patterns of thinking and behaving. They cause distress and impaired relationships. Borderline and antisocial personality disorders are examples. Common traits are listed below.</p><p>There are no obvious physical signs. Look for impulsivity, anger, or erratic behavior. Use family input when appropriate. But one angry moment or refusal does not prove a disorder. Illness, fear, pain, and trauma can drive behavior.</p><p>Safety comes first: assess suicide and self-harm risk. Keep professional limits that are firm, steady, and respectful. Team consistency should support a care plan, not punish.</p><p>A diagnosis never lowers a client’s right to honest explanation, privacy, and symptom care. In charting, describe what happened instead of using labels.</p>",
      "bullets": [
-      "<b>Good:</b> “Client stated, ‘Nobody here listens to me,’ in a raised voice at 1400.”",
-      "<b>Good:</b> “Offered quiet room at 1410; client accepted, and voice lowered within 10 minutes.”",
-      "<b>Good:</b> “Client walked to the nurses’ station three times in 30 minutes asking about discharge.”",
-      "<b>Avoid:</b> “Client is manipulative and attention-seeking.”"
+      "Poor impulse control",
+      "Emotional instability",
+      "Difficulty accepting responsibility",
+      "Possible self-harm or aggression"
+     ],
+     "source": "Self slides 22, 35, 38 (charting examples added)",
+     "table": {
+      "headers": [
+       "Chart this (behavior)",
+       "Not this (label)"
+      ],
+      "rows": [
+       [
+        "“Client stated, ‘Nobody here listens to me,’ in a raised voice at 1400.”",
+        "“Client is hostile.”"
+       ],
+       [
+        "“Offered quiet room at 1410; client accepted, and voice lowered within 10 minutes.”",
+        "“Client is manipulative.”"
+       ],
+       [
+        "“Client walked to the nurses’ station three times in 30 minutes asking about discharge.”",
+        "“Client is attention-seeking.”"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How self links to mood, coping, and safety",
+     "keyIdea": "Low self-esteem raises depression risk and lowers resilience. A body-image statement can also hide a safety risk, so screen for it first.",
+     "body": "<p>Other health conditions shape self-concept and self-esteem. Loss of mobility lowers independence, which lowers self-esteem. Chronic illness can bring frustration and body image changes. Family dynamics strongly shape confidence and identity. A positive self-concept improves coping and resilience.</p><p>Do not assume one cause behind a statement. “I don’t want my partner to see me” could mean fear, shame, a need for privacy, or an unsafe relationship. Ask open questions in private. Include the client in decisions about referrals and family.</p><p>Some statements change the priority right away. Talk of hopelessness, wanting to die, or self-injury needs a direct safety assessment. Stay calm, ask about immediate risk using your protocol, and get help. Do not rely on a promise to stay safe. Medical instability is urgent too.</p>",
+     "example": "A client with facial burns says, “I don’t want my partner to see me like this. He gets angry when things go wrong.” First, ask privately whether the client feels safe with the partner at home.",
+     "source": "Self slides 23, 26 (safety example added)",
+     "bullets": [
+      "<b>Mood and affect:</b> low self-esteem raises the risk of depression.",
+      "<b>Coping and stress:</b> a poor self-image lowers resilience.",
+      "<b>Health promotion:</b> strong self-worth leads to better adherence to care.",
+      "<b>Family and culture:</b> shape values, roles, and confidence.",
+      "<b>Development:</b> early experiences shape adult identity."
      ]
     },
     {
-     "heading": "Mood, relationships, and safety",
-     "keyIdea": "A body-image statement can hide a safety risk, so screen for self-harm and relationship danger first.",
-     "body": "<p>Loss of mobility can threaten a valued identity. Chronic illness can bring frustration or a changed body image. Family can build confidence or deepen shame. Low self-worth may stop a person from seeking help.</p><p>Do not assume one cause behind a statement. “I don’t want my partner to see me” could mean fear, shame, a need for privacy, or an unsafe relationship. Ask open questions in private. Include the client in decisions about referrals and family.</p><p>Some statements change the priority right away. Talk of hopelessness, wanting to die, or self-injury needs a direct safety assessment. Stay calm. Ask about immediate risk using your protocol, and get help. Do not rely on a promise to stay safe. Medical instability is urgent too. The cues in the stem, not the diagnosis name, set the priority.</p>",
-     "example": "A client with facial burns says, “I don’t want my partner to see me like this. He gets angry when things go wrong.” First, ask privately whether the client feels safe with the partner at home."
+     "heading": "Nursing care for alterations in self",
+     "source": "Self slides 24, 40",
+     "keyIdea": "Build trust, lower stress, strengthen support, set small goals, and refer for CBT when the client is ready.",
+     "body": "<p>For one client, start with assessment and trust. Assess body image, eating patterns, mood, and social supports. Use empathy and a nonjudgmental approach.</p><p>Encourage self-expression, such as journaling, art, or group therapy. Collaborate with mental health, nutrition, and therapy teams. Nurses reinforce coping and watch progress while specialists lead treatment.</p><p>Success means safer engagement and support. Do not demand instant positive feelings about the body. Your course lists these interventions for eating disorders:</p>",
+     "bullets": [
+      "Reduce stressors and anxiety.",
+      "Eliminate caffeine and other stimulants.",
+      "Strengthen social and family support.",
+      "Encourage coping skills and realistic goals.",
+      "Promote small, achievable goals to build confidence.",
+      "Reinforce positive progress.",
+      "Refer for CBT when the client is ready."
+     ]
     },
     {
      "heading": "How can schools prevent body shame?",
-     "keyIdea": "Prevention reduces shame and widens participation; praise effort and strengths, not body size.",
-     "body": "<p>Your slides describe school settings that protect body image. These steps lower shame and help students take part.</p><p>For one client, start with trust, a careful assessment, and small realistic goals. Offer ways to express feelings, such as talk, journaling, art, or groups, if wanted. Coordinate mental-health, nutrition, and therapy services.</p><p>Nurses reinforce coping and watch progress while specialists lead treatment. Success means safer engagement and support. Do not demand instant positive feelings about the body.</p>",
+     "keyIdea": "Schools help prevent eating disorders with a body-positive setting, no appearance teasing, and no public weigh-ins.",
+     "body": "<p>Your slides describe how schools can help prevent eating disorders. These steps lower body shame and help all students take part.</p><p>School nurses can support these steps and teach staff and families why they matter.</p>",
      "bullets": [
-      "Stop appearance-based teasing and cyberbullying.",
-      "Avoid public weigh-ins.",
-      "Use images showing many body types and abilities.",
-      "Offer enjoyable, inclusive physical activity.",
-      "Praise effort, skills, and personal strengths."
-     ]
+      "Encourage a body-positive environment.",
+      "Prohibit appearance-related teasing and cyberbullying.",
+      "Promote inclusive media and posters that show many body types.",
+      "Provide noncompetitive, fun physical activity.",
+      "Avoid public weigh-ins or body measurements."
+     ],
+     "source": "Self slide 25"
     },
     {
      "heading": "Common traps",
@@ -503,11 +640,11 @@
       "rows": [
        [
         "Bulimia vs. binge-eating disorder",
-        "Both have binges. Bulimia adds regular compensation like vomiting or laxatives."
+        "Both have binges. Bulimia adds purging. Binge-eating disorder is overeating without purging."
        ],
        [
         "Anorexia vs. ARFID",
-        "Anorexia includes body-image fear. ARFID restriction comes from texture, fear, or low interest."
+        "Anorexia is self-starvation with a distorted body image. ARFID is avoiding food due to sensory or fear-related issues."
        ],
        [
         "Normal weight vs. medically safe",
@@ -515,7 +652,7 @@
        ],
        [
         "Positive SCOFF vs. diagnosis",
-        "Two or more “yes” answers means evaluate further, not a confirmed disorder."
+        "Two or more “yes” answers means a likely eating disorder. Refer for evaluation; it is not a confirmed diagnosis."
        ],
        [
         "Refeeding vs. recovery",
@@ -530,7 +667,8 @@
         "“He gets angry” or “no point in living” shifts the priority to safety."
        ]
       ]
-     }
+     },
+     "source": "Self slides 18, 20, 22, 31 (refeeding and potassium rows added)"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -543,7 +681,8 @@
       "<b>Wrong options:</b> Dry lips and swollen glands are expected effects of vomiting, not emergencies. The weigh-in request is a behavior to address, but it is not life-threatening.",
       "<b>The answer:</b> Potassium 2.9 mEq/L. It means dysrhythmia risk.",
       "<b>Strategy:</b> In eating-disorder items, scan for electrolytes, heart rhythm, and vital signs before emotional issues."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: looks are not a safety screen",
@@ -559,28 +698,31 @@
      "check": {
       "q": "Does a negative SCOFF screen overrule Jordan’s palpitations and near-fainting?",
       "a": "No. A screen has limits. Current symptoms still need evaluation even below the screening threshold."
-     }
+     },
+     "source": "Added: worked example based on Self slides 31, 34–35"
     },
     {
      "heading": "Course source & clinical clarification",
      "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
      "bullets": [
-      "Source: Module 29, slides 18–25 and 31–43.",
-      "This lesson separates screening from diagnosis.",
-      "Short slide descriptions do not replace formal diagnostic criteria.",
+      "Source: Module 29 – Self, slides 8, 18–26, 31, 34–35, 38, and 40.",
+      "Course vs. current: your slides define bulimia as binge eating followed by purging. Current criteria also count fasting or excess exercise.",
+      "Potassium, refeeding, and lead-exposure details are added for the NCLEX. They are not in the slides.",
+      "A SCOFF screen points to a likely disorder; formal evaluation confirms it.",
       "Nutrition restoration, electrolyte correction, and medicine choices follow an interprofessional plan."
-     ]
+     ],
+     "source": "Self slides 18–26, 31, 34–35, 38, 40"
     }
    ],
    "mnemonics": [
     {
      "name": "SCOFF",
-     "text": "Sick, Control, One stone, Fat, Food — five screening questions; two or more “yes” answers means evaluate further."
+     "text": "Sick, Control, One stone, Fat, Food — five screening questions; two or more “yes” answers means a likely eating disorder, so refer for evaluation."
     }
    ],
    "pearls": [
     "Eating disorders occur without a typical appearance.",
-    "A positive screen needs evaluation, not an automatic diagnosis.",
+    "A positive screen means a likely eating disorder and a referral, not an automatic diagnosis.",
     "Describe behavior; never chart stigmatizing labels.",
     "Medical and self-harm risks come before long-term coping work.",
     "Refeeding risk peaks in the first days. Watch phosphorus, potassium, and magnesium.",
@@ -598,10 +740,10 @@
     },
     {
      "q": "What does a positive SCOFF result mean?",
-     "a": "Further evaluation and referral are needed. The screen does not diagnose a specific disorder."
+     "a": "A likely eating disorder. Refer for evaluation; the screen does not confirm a specific diagnosis."
     },
     {
-     "q": "A client binges several times a week and feels out of control but denies vomiting, laxatives, fasting, or over-exercise. Which pattern fits best?",
+     "q": "A client binges several times a week and feels out of control but denies vomiting, laxatives, or other purging. Which pattern fits best?",
      "a": "A possible binge-eating presentation that needs further evaluation."
     },
     {
@@ -638,8 +780,8 @@
     "Set limits calmly: name the behavior, the expectation, and real choices.",
     "Never withhold needed care, like chest pain assessment, to control behavior.",
     "Praise specific actions: “You used the safe transfer technique.”",
-    "Nurses reinforce therapy skills, like DBT distress tolerance; they do not deliver full therapy.",
-    "Medicines target symptoms within a broader plan. They do not change personality.",
+    "Nurses reinforce therapy skills, like a DBT calming skill; they do not deliver full therapy.",
+    "Medicines target specific symptoms, such as SSRIs for depression and anxiety. They do not change personality.",
     "Measure progress by what the client does, not just “I feel better.”"
    ],
    "keyTerms": [
@@ -665,11 +807,11 @@
     },
     {
      "term": "CBT",
-     "def": "Cognitive behavioral therapy. It looks at links among thoughts, feelings, and behavior."
+     "def": "Cognitive behavioral therapy. It reframes negative thoughts into healthier behaviors."
     },
     {
      "term": "DBT",
-     "def": "Dialectical behavior therapy. It teaches skills such as mindfulness, emotion regulation, and distress tolerance."
+     "def": "Dialectical behavior therapy. It combines CBT with mindfulness to build emotional regulation. Skills include distress tolerance."
     },
     {
      "term": "Distress tolerance",
@@ -687,36 +829,78 @@
    "sections": [
     {
      "heading": "Where does assessment start?",
-     "keyIdea": "Start with listening and safety; a good relationship never means delaying direct safety questions.",
-     "body": "<p>Ask how the client sees themselves and what has changed. Ask which roles matter and how they cope. Explore mood, body worries, relationships, support, and daily function. Use open questions and give time. A client may talk about a practical problem before sharing shame or fear.</p><p>If cues suggest self-harm or aggression risk, ask directly and follow the safety protocol. Pair what the client says with what you observe. Also consider physical causes. Eating problems, fatigue, or medicine effects may need medical evaluation. Emotional distress and physical illness can happen together.</p>",
-     "example": "A client says, “Since surgery I feel useless.” Name the feeling. Explore what the client lost or wants back. Assess hopelessness and safety. Do not rush to insist, “But you are useful!”"
+     "keyIdea": "Ensure safety first, then build trust with therapeutic communication, then assess self-concept, roles, body image, emotions, and coping.",
+     "body": "<p>Your course sets the order. Ensure safety first: check for risk of self-harm or aggression. If cues suggest risk, ask directly and follow the safety protocol. Then build trust with therapeutic communication. A good relationship never means delaying safety questions.</p><p>Next, assess the areas in the table. Use open questions and give time. A client may talk about a practical problem before sharing shame or fear.</p><p>Pair what the client says with what you observe. Also consider physical causes. Eating problems, fatigue, or medicine effects may need medical evaluation. Emotional distress and physical illness can happen together.</p>",
+     "example": "A client says, “Since surgery I feel useless.” Name the feeling. Explore what the client lost or wants back. Assess hopelessness and safety. Do not rush to insist, “But you are useful!”",
+     "source": "Self slides 32–33",
+     "table": {
+      "headers": [
+       "Area",
+       "What to assess"
+      ],
+      "rows": [
+       [
+        "Personal identity",
+        "Name, age, values, and how the client sees themselves"
+       ],
+       [
+        "Physical health",
+        "Illness history and energy level"
+       ],
+       [
+        "Communication",
+        "Tone, clarity, and emotional cues"
+       ],
+       [
+        "Role performance",
+        "Responsibilities and recent changes"
+       ],
+       [
+        "Body image",
+        "Perceptions and satisfaction"
+       ],
+       [
+        "Self-esteem",
+        "Ask, “How satisfied are you with yourself?”"
+       ],
+       [
+        "Emotions and coping",
+        "How feelings are expressed; coping behaviors"
+       ]
+      ]
+     }
     },
     {
      "heading": "How do you build trust?",
-     "keyIdea": "Trust comes from honest words and kept promises; when you miss one, own it and act.",
-     "body": "<p>State your role and what you can do. Give honest timing, then follow through. If the plan changes, tell the client. Unpredictable care raises distress and mistrust.</p><p>Avoid false reassurance, oversharing about yourself, and promises outside your control. “You will definitely feel better tomorrow” can hurt your credibility. “Let’s work on one step today and see how it goes” is realistic. Being genuine means honest professional talk, not sharing every feeling you have.</p><p>If you broke a promise, do not make excuses. Name what happened and fix the need now.</p>",
+     "keyIdea": "Trust comes from being genuine, respectful, and nonjudgmental and from keeping promises. When you miss one, own it and act.",
+     "body": "<p>Your course lists the basics of a therapeutic relationship below. Being authentic means being genuine and consistent. State your role and what you can do. Give honest timing, then follow through. Unpredictable care raises distress and mistrust.</p><p>Avoid false reassurance, oversharing about yourself, and promises outside your control. “You will definitely feel better tomorrow” can hurt your credibility. “Let’s work on one step today and see how it goes” is realistic. Being genuine means honest professional talk, not sharing every feeling you have.</p><p>If you broke a promise, do not make excuses. Name what happened and fix the need now.</p>",
      "bullets": [
+      "Practice authenticity: be genuine and consistent.",
+      "Show respect and empathy.",
+      "Maintain confidentiality.",
+      "Address stigma with compassion.",
+      "Use nonjudgmental communication.",
       "Say your role and when you will return, then come back on time.",
-      "Explain each procedure before you start.",
-      "Tell the client promptly when the plan of care changes.",
-      "Protect privacy and confidentiality according to policy."
+      "Explain each procedure before you start, and tell the client promptly when the plan changes."
      ],
-     "example": "A client says, “You promised to come back after lunch, but no one came. I can’t trust this team.” Respond: “We missed that follow-up. Let’s take care of what you need right now.”"
+     "example": "A client says, “You promised to come back after lunch, but no one came. I can’t trust this team.” Respond: “We missed that follow-up. Let’s take care of what you need right now.”",
+     "source": "Self slides 36–37 (examples added)"
     },
     {
      "heading": "Body-image and role concerns",
      "keyIdea": "Go at the client’s pace with a changed body, and help them rebuild roles they value.",
-     "body": "<p>Ask what the change means to the client. Do not force someone to look at a wound or device before they are ready. The exception is an urgent clinical need. Offer information in small doses. Explore privacy needs, wanted support people, and practical adaptations.</p><p>Role loss can be eased by finding tasks the client can still do. New roles can grow slowly. A parent who cannot lift a child can still read stories and make decisions. Rehab and social work can help with equipment, work changes, and resources. The goal is meaningful function and choice. It is not getting the client to pretend the loss does not matter.</p><p>Routine care that protects dignity can be delegated. Emotional assessment, teaching, and evaluation stay with the RN.</p>",
+     "body": "<p>Ask what the change means to the client. Do not force someone to look at a wound or device before they are ready. The exception is an urgent clinical need. Offer information in small doses. Explore privacy needs, wanted support people, and practical adaptations.</p><p>Help the client identify strengths and weaknesses. Role loss can be eased by finding tasks the client can still do. New roles can grow slowly. A parent who cannot lift a child can still read stories and make decisions. Rehab and social work can help with equipment, work changes, and resources. The goal is meaningful function and choice. It is not getting the client to pretend the loss does not matter.</p><p>Routine care that protects dignity can be delegated. Emotional assessment, teaching, and evaluation stay with the RN.</p>",
      "example": "A client learning ostomy care becomes tearful: “I can’t face looking at it yet.” No emergency exists. First, explore the distress and agree on a small next step together.",
      "bullets": [
       "<b>Delegate to assistive personnel (AP):</b> helping a client after mastectomy with morning hygiene while protecting privacy.",
       "<b>RN keeps:</b> exploring her feeling of being “less like a woman,” teaching, and evaluating."
-     ]
+     ],
+     "source": "Self slides 24, 29, 37 (delegation example added)"
     },
     {
      "heading": "How do you set a respectful limit?",
-     "keyIdea": "State the behavior, the expectation, and real choices calmly, while care continues.",
-     "body": "<p>A good limit names three things in a calm voice: the behavior, the expectation, and the choices. Avoid threats, arguments, shaming, and bargaining over needed care.</p><p>Agree on expectations across staff. Different rules from each nurse cause confusion and conflict. Still, stay flexible when new information appears. A boundary is not punishment for being upset.</p><p>Keep assessing and treating symptoms while you hold the limit. If behavior escalates or danger appears, get help and follow the response plan. Do not handle it alone.</p>",
+     "keyIdea": "Put safety first, then set firm boundaries: state the behavior, the expectation, and real choices calmly while care continues.",
+     "body": "<p>For personality disorders, your course puts safety first: assess suicide and self-harm risk. Then build trust and set firm boundaries. Encourage coping skills and self-management. Support reality orientation and consistent routines.</p><p>A good limit names three things in a calm voice: the behavior, the expectation, and the choices. Avoid threats, arguments, shaming, and bargaining over needed care. A boundary is not punishment for being upset.</p><p>Every staff member should reinforce the same limits and expectations. Different rules from each nurse cause confusion and conflict. Still, stay flexible when new information appears.</p><p>Keep assessing and treating symptoms while you hold the limit. If behavior escalates or danger appears, get help and follow the response plan. Do not handle it alone.</p>",
      "example": "A client shouts at the nurses’ station about going out to smoke. Others are watching. There are no threats and no weapon. Say: “I want to help. We can talk in the quiet room, or here once voices are lower.”",
      "table": {
       "headers": [
@@ -745,38 +929,106 @@
         "Name a doable next step or referral."
        ]
       ]
-     }
+     },
+     "source": "Self slides 38–39 (scripts added)"
     },
     {
      "heading": "Build confidence with small wins",
-     "keyIdea": "Confidence grows through success, so break goals into small steps and praise specific actions.",
-     "body": "<p>Self-efficacy is the belief that you can succeed. It grows through real success. Break a goal into small steps. Give the right amount of help and let the client practice. Then praise the actual effort or skill. Broad praise like “Good job” can feel empty to a distressed client.</p><p>Ask which task matters most. Agree on a realistic timeline. A surgical client might take over one part of self-care. A client learning coping skills might name one trigger and practice one new response.</p><p>Review the result together. If a goal is missed, look for pain, fatigue, resources, understanding, or readiness. A missed goal is not a moral failure.</p>",
-     "example": "After a transfer, say: “You completed that transfer using the safe technique.” This names exactly what went well."
+     "keyIdea": "Promote small, achievable goals to build confidence, and praise specific effort, not just results.",
+     "body": "<p>Self-efficacy is the belief that you can succeed. It grows through real success. Your course says to promote small, achievable goals and affirm strengths. Break a goal into small steps. Give the right amount of help and let the client practice. Then praise the actual effort or skill. Broad praise like “Good job” can feel empty to a distressed client.</p><p>Ask which task matters most. Agree on a realistic timeline. A surgical client might take over one part of self-care. A client learning coping skills might name one trigger and practice one new response.</p><p>Review the result together. If a goal is missed, look for pain, fatigue, resources, understanding, or readiness. A missed goal is not a moral failure.</p>",
+     "example": "After a transfer, say: “You completed that transfer using the safe technique.” This names exactly what went well.",
+     "source": "Self slides 24, 27, 30"
     },
     {
      "heading": "Therapy and medicines: who does what?",
-     "keyIdea": "Nurses reinforce skills from the client’s therapy plan, and medicines treat symptoms, not personality.",
-     "body": "<p>Your course lists several therapies. Each has its own methods and uses. Nurses reinforce skills inside the treatment plan and refer to trained clinicians. A short supportive talk is not a full therapy session. Do not chart it as one.</p><p>Medicines may target depression, anxiety, psychosis, impulsivity, or other diagnosed symptoms. No pill cures low self-worth or replaces a therapeutic plan. Give medicines as prescribed. Monitor response and side effects. Do not promise a drug will change personality or fix relationships.</p>",
+     "keyIdea": "Nurses reinforce skills from the client’s therapy plan. Medicines treat specific symptoms or comorbidities, not personality.",
+     "body": "<p>Your course lists four nonpharmacologic therapies below. Nurses reinforce skills inside the treatment plan and refer to trained clinicians. A short supportive talk is not a full therapy session. Do not chart it as one.</p><p>Your course says medicines are used for specific symptoms or comorbidities. The table shows which drug class targets which symptoms. No pill cures low self-worth or replaces a therapeutic plan. Give medicines as prescribed and monitor response and side effects. Do not promise a drug will change personality.</p>",
      "bullets": [
-      "<b>CBT:</b> links among thoughts, feelings, and behavior.",
-      "<b>DBT:</b> skills like mindfulness, emotion regulation, and distress tolerance.",
-      "<b>Schema-focused therapy</b>, <b>expressive therapy</b>, and <b>family work</b> are also in your course.",
-      "<b>Nurse’s role:</b> coach skills already taught, such as a distress-tolerance skill, when the client is safe.",
-      "<b>Medicine teaching:</b> “It targets symptoms within a broader treatment plan.”"
+      "<b>CBT</b> (cognitive behavioral therapy): reframes negative thoughts into healthier behaviors.",
+      "<b>DBT</b> (dialectical behavior therapy): combines CBT with mindfulness to build emotional regulation.",
+      "<b>SFT</b> (schema-focused therapy): addresses early maladaptive schemas, which are deep negative beliefs formed early in life.",
+      "<b>Expressive and family therapy:</b> strengthen relationships.",
+      "<b>Nurse’s role:</b> coach skills already taught, such as a DBT calming skill, when the client is safe."
      ],
-     "example": "A client in DBT says, “I am so upset after that phone call that I can’t calm down.” The client denies thoughts of harming self or others. Coach the client to use a distress-tolerance skill practiced in therapy."
+     "example": "A client in DBT says, “I am so upset after that phone call that I can’t calm down.” The client denies thoughts of harming self or others. Coach the client to use a distress-tolerance skill practiced in therapy.",
+     "source": "Self slides 41–42",
+     "table": {
+      "headers": [
+       "Drug class",
+       "Symptoms it targets"
+      ],
+      "rows": [
+       [
+        "Antipsychotics",
+        "Delusions, hallucinations"
+       ],
+       [
+        "SSRIs",
+        "Depression, anxiety, impulsivity"
+       ],
+       [
+        "Mood stabilizers",
+        "Anger, aggression"
+       ]
+      ]
+     }
     },
     {
      "heading": "Families, team, and measuring progress",
-     "keyIdea": "Teach families to keep the client’s choices, keep the team consistent, and measure progress by actions.",
-     "body": "<p>Include family or chosen support with the client’s consent and per policy. Teach supportive talk, realistic goals, and warning signs. Check caregiver strain. A willing helper may still need skills, rest breaks, or resources.</p><p>In team handoff, describe behavior, triggers, what worked, and the response. Debrief hard events to improve care and reduce burnout. Never mock or stereotype clients.</p><p>“I feel better” matters, but also look at function and safety. Chart specifics. Ask whether harmful behaviors happen less often and whether the plan will work at home. Recovery may be slow and uneven, so keep reassessing.</p>",
+     "keyIdea": "Teach families to keep the client’s choices, keep the team consistent, debrief to prevent burnout, and measure progress by actions.",
+     "body": "<p>Educate family or chosen support about supportive behaviors, with the client’s consent and per policy. Teach realistic goals and warning signs. Check caregiver strain. A willing helper may still need skills, rest breaks, or resources.</p><p>Your course lists the team steps in the table. In handoff, describe behavior, triggers, what worked, and the response. Never mock or stereotype clients.</p><p>“I feel better” matters, but also look at function and safety. Chart specifics. Ask whether harmful behaviors happen less often and whether the plan will work at home. Recovery may be slow and uneven, so keep reassessing.</p>",
      "bullets": [
       "<b>Family understands:</b> “We’ll let him make the decisions he can, like planning meals.”",
       "<b>Family understands:</b> “We’ll ask him which tasks he wants to keep doing.”",
       "<b>Family understands:</b> “Caring for him is a lot. We’ll ask social work about respite.”",
       "<b>Strong progress note:</b> “Client named two personal strengths and emptied the pouch with coaching.”",
       "<b>Weak progress note:</b> “Self-esteem improved.”"
-     ]
+     ],
+     "source": "Self slides 29, 39 (examples added)",
+     "table": {
+      "headers": [
+       "Team step (course)",
+       "Why it matters"
+      ],
+      "rows": [
+       [
+        "Keep staffing and boundaries consistent",
+        "Fewer mixed messages"
+       ],
+       [
+        "Communicate clearly among team members",
+        "Everyone knows the plan"
+       ],
+       [
+        "Reinforce the same limits and expectations",
+        "No nurse becomes the “exception”"
+       ],
+       [
+        "Debrief with colleagues",
+        "Prevents burnout"
+       ],
+       [
+        "Include mental health, dietitian, and therapy teams",
+        "Covers all of the client’s needs"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Teaching parents to build self-esteem",
+     "source": "Self slides 28, 30",
+     "keyIdea": "Healthy self-esteem starts in childhood. Teach parents to praise effort, model self-acceptance, and give a safe, loving home.",
+     "body": "<p>Healthy self-esteem builds a strong sense of self from childhood onward. It brings confidence, optimism, and problem-solving. Low self-esteem brings pessimism, stress, and poor coping.</p><p>Nurses teach parents ways to support a child’s self-worth. Your course lists these strategies.</p>",
+     "bullets": [
+      "Praise effort as well as achievement.",
+      "Help children learn from mistakes.",
+      "Model self-acceptance and positive self-talk.",
+      "Correct inaccurate self-beliefs.",
+      "Give affection and honest praise.",
+      "Provide a safe, loving home.",
+      "Encourage team-based activities."
+     ],
+     "example": "A parent says, “My son cries when he loses, so I tell him he’s the best player anyway.” Teach honest praise instead. Name his effort, and help him learn from the loss."
     },
     {
      "heading": "Common traps",
@@ -817,7 +1069,8 @@
         "After a broken promise, own it and meet the need now."
        ]
       ]
-     }
+     },
+     "source": "Self slides 36–42 (comparisons added)"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -830,7 +1083,8 @@
       "<b>Wrong options:</b> Ignoring requests withholds care. Calling security first skips the chest pain. Asking why the client is angry delays the assessment.",
       "<b>The answer:</b> Assess the chest pain and vital signs while calmly stating the expectation.",
       "<b>Strategy:</b> Limits and essential care happen together. A behavior label never cancels a physical assessment."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: limits and care together",
@@ -846,16 +1100,19 @@
      "check": {
       "q": "What makes a boundary therapeutic rather than punishing?",
       "a": "It protects safety and the relationship, is clear and consistent, and never withholds needed assessment or treatment."
-     }
+     },
+     "source": "Added: worked example based on Self slides 38–39"
     },
     {
      "heading": "Course source & clinical clarification",
      "body": "<p>Use these notes to connect the lesson with your course materials.</p>",
      "bullets": [
-      "Source: Module 29, slides 24–30 and 32–43.",
+      "Source: Module 29 – Self, slides 24, 27–30, and 32–43.",
       "Nursing examples extend the course themes of safety, trust, consistency, strengths, and team care.",
+      "Delegation and charting examples are added; they are not in the slides.",
       "A brief supportive talk is not a specialist psychotherapy session."
-     ]
+     ],
+     "source": "Self slides 24, 27–30, 32–43"
     }
    ],
    "mnemonics": [],

@@ -82,6 +82,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What is HIPAA?",
           "keyIdea": "HIPAA is a 1996 federal law with two jobs: keep people insured and keep their health information private.",
+          "source": "Legal Issues slides 22–23",
           "body": "<p>HIPAA stands for the Health Insurance Portability and Accountability Act. Congress passed it in 1996. “Portability” means you can carry your coverage with you when you change jobs.</p><p>Your slides list four things HIPAA does. The first three are about health insurance. The fourth is the part nurses use every shift: the Privacy Rule.</p><p>Your course materials say HIPAA reduces barriers related to preexisting conditions. That is true for HIPAA. Current standard: since 2014, the Affordable Care Act bars most health plans from refusing or limiting coverage for preexisting conditions. On a course exam, expect HIPAA’s four purposes. On the NCLEX, HIPAA questions are almost always about privacy.</p>",
           "table": {
             "caption": "The four HIPAA purposes on your slides",
@@ -116,6 +117,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What counts as PHI?",
           "keyIdea": "If a detail links a client to their health, care, or payment, it is PHI, even without a name.",
+          "source": "Legal Issues slide 23; Module 49 study guide, p. 2829",
           "body": "<p>PHI means protected health information. It is any identifiable information about a client. Your slide lists three kinds.</p><p>“Identifiable” is the key word. A name, room number, or face clearly points to one person. So can a rare diagnosis plus an age and a date. Leaving the name out does not make it safe. Information with every identifier removed is no longer PHI.</p>",
           "bullets": [
             "Past, present, or future physical or mental health. Example: “History of depression,” or “scheduled for chemo next week.”",
@@ -129,6 +131,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Privacy vs. confidentiality: what’s the difference?",
           "keyIdea": "Privacy is the client’s right to choose who knows. Confidentiality is your duty to protect what they shared.",
+          "source": "Legal Issues slide 24",
           "body": "<p>These two words are close, so test writers like to swap them. Ask yourself one question: whose is it? Privacy belongs to the client. Confidentiality belongs to the nurse.</p><p>Privacy comes first. The client decides what to tell you. Once they tell you, confidentiality starts. You now hold their information in trust. Breaking confidentiality also takes away the client’s privacy.</p>",
           "table": {
             "headers": [
@@ -164,12 +167,15 @@ window.NURSE_DATA.push({
         {
           "heading": "Confidentiality in three actions",
           "keyIdea": "Obtain only what you need, disclose only to the care team, and advocate for the client’s privacy.",
-          "body": "<p>Your slide says confidentiality applies to three actions. Think of them as three moments in your shift: when you look, when you talk, and when you see someone else slip.</p>",
+          "source": "Legal Issues slide 24; Module 49 study guide, pp. 2829–2830 (Communication row)",
+          "body": "<p>Your slide says confidentiality applies to three actions. Think of them as three moments in your shift: when you look, when you talk, and when you see someone else slip.</p><p>Your study guide links this to communication. Nurses must keep all client information private, in every care area, and follow HIPAA.</p>",
           "bullets": [
-            "<b>Obtaining:</b> access only what you need to care for the client. Read your client’s chart, not the chart of the famous client down the hall.",
-            "<b>Disclosing:</b> share only with those directly involved in the client’s care. Give report to the oncoming nurse, not to the unit secretary’s friend.",
+            "<b>Obtaining:</b> only access what you need to care for the client. Read your client’s chart, not the chart of the famous client down the hall.",
+            "<b>Disclosing:</b> only share with those directly involved in the client’s care. Give report to the oncoming nurse, not to the unit secretary’s friend.",
             "<b>Advocating:</b> always protect the client’s privacy. Close the curtain. Lower your voice. Remind a coworker to log off.",
-            "Advocating also means telling clients how their privacy is protected: who can see their chart, and how to limit visitors or calls.",
+            "Discuss client care only with the right people, and not outside the care unit.",
+            "Make sure electronic records can be opened only by the right staff.",
+            "Talk with clients about how their privacy is protected: who can see their chart, and how to limit visitors or calls.",
             "Access logs record every chart you open. Looking with no work reason is a breach, even if you tell no one."
           ],
           "example": "In the break room, two nurses discuss a client’s HIV status. A visitor is getting coffee nearby. Advocating means saying, “Let’s finish this at the station,” and moving the talk to a private space.",
@@ -181,7 +187,8 @@ window.NURSE_DATA.push({
         {
           "heading": "The Privacy Rule and Security Rule",
           "keyIdea": "The Privacy Rule says who may use and share PHI. The Security Rule protects PHI stored or sent electronically.",
-          "body": "<p>HIPAA has two main rules about health information. The <b>Privacy Rule</b> covers PHI in every form: spoken, paper, and electronic. The <b>Security Rule</b> covers only electronic PHI, such as the electronic health record.</p><p>Both rules apply to covered entities. These are health care providers, health plans, and claims clearinghouses. Business associates, such as a billing company, must protect PHI too. HIPAA sets the federal minimum. If a state law or agency policy is stricter, the stricter rule wins.</p><p>The Privacy Rule also gives clients rights over their own information. The federal Office for Civil Rights, part of the Department of Health and Human Services, enforces HIPAA.</p>",
+          "source": "Legal Issues slide 23; Module 49 study guide, p. 2829. Security Rule, client rights, and OCR added for the NCLEX — not in course materials",
+          "body": "<p>Your slide names the Privacy Rule as the HIPAA purpose that protects client health information. HIPAA has two main rules about health information. The <b>Privacy Rule</b> covers PHI in every form: spoken, paper, and electronic. The <b>Security Rule</b> covers only electronic PHI, such as the electronic health record.</p><p>Your study guide says HIPAA sets minimum federal standards. If a state law or facility policy is stricter, the stricter rule is enforced. Both rules apply to covered entities: health care providers, health plans, and claims clearinghouses. Business associates, such as a billing company, must protect PHI too.</p><p>The Privacy Rule also gives clients rights over their own information. The federal Office for Civil Rights, part of the Department of Health and Human Services, enforces HIPAA.</p>",
           "bullets": [
             "Get a notice of privacy practices explaining how their PHI is used.",
             "See and get a copy of their own record.",
@@ -215,6 +222,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Minimum necessary: how much can I share?",
           "keyIdea": "Use, ask for, and share only the least information needed for the task in front of you.",
+          "source": "Added for the NCLEX — not in course materials (extends the “obtaining” rule on Legal Issues slide 24)",
           "body": "<p>The minimum necessary standard is a core HIPAA rule. Before you look at or share PHI, ask: what does this person need for this job? Then share that, and no more.</p><p>A transport aide needs the client’s name, room, and fall risk. The aide does not need the client’s psychiatric history. Agencies build this into the record with role-based access. Each role sees only what it needs.</p><p>There is one big exception. Minimum necessary does not limit sharing between providers for treatment. The oncoming nurse may get the full picture needed to give safe care. It also does not limit what the client may see about themselves.</p>",
           "example": "A dietary aide asks why the client in 412 is NPO. The nurse says, “He’s NPO for a procedure this morning. Please hold his tray.” She does not name the cancer biopsy.",
           "check": {
@@ -225,11 +233,12 @@ window.NURSE_DATA.push({
         {
           "heading": "When may PHI be shared?",
           "keyIdea": "Share with the client, the care team, and payers. Share with anyone else only with permission or a legal reason.",
-          "body": "<p>Your slide lists three groups you may share PHI with. Treatment, payment, and health care operations do not need the client’s written permission. Operations means jobs like quality review and staff training.</p><p>Family and friends are a common test point. You may share with family or friends involved in care if the client agrees or does not object when asked. If the client cannot respond, use professional judgment and share only what is in their best interest. Anyone else needs the client’s written authorization, unless a law requires the report.</p>",
+          "source": "Legal Issues slide 24; Module 49 study guide, p. 2829. Family, operations, and required-by-law rules added for the NCLEX — not in course materials",
+          "body": "<p>Your slide calls this disclosure, or permitted sharing. It lists three groups you may share PHI with: the client, providers involved in care, and payers. Your study guide adds the rule for everyone else: confidential information may not be shared without authorization.</p><p>Beyond the course list, HIPAA groups everyday sharing into treatment, payment, and health care operations. Operations means jobs like quality review and staff training. None of these need the client’s written permission.</p><p>Family and friends are a common test point. You may share with family or friends involved in care if the client agrees or does not object when asked. If the client cannot respond, use professional judgment and share only what is in their best interest. Anyone else needs the client’s written authorization, unless a law requires the report.</p>",
           "bullets": [
             "<b>The client:</b> always, about their own health.",
             "<b>Health care providers involved in care:</b> for treatment, handoff, consults, and referrals.",
-            "<b>Insurance and payers:</b> for billing and prior authorization.",
+            "<b>Insurance and payers:</b> for billing and authorization, such as prior approval for a test.",
             "<b>Required by law:</b> suspected abuse, certain diseases to public health, and court orders. These are covered in the mandatory reporting lesson.",
             "<b>Needs written authorization:</b> employers, the media, life insurance companies, and most others not involved in care."
           ],
@@ -270,7 +279,8 @@ window.NURSE_DATA.push({
         {
           "heading": "What is a breach? What do I do?",
           "keyIdea": "A breach is any use or sharing HIPAA does not allow. Report it right away; never hide it.",
-          "body": "<p>A breach happens when PHI is used, seen, or shared in a way HIPAA does not allow. It does not have to be on purpose. A fax to the wrong number counts. So does a chart left open in a public space. Most breaches come from small, everyday shortcuts.</p><p>Agencies must tell affected clients about a breach of unsecured PHI. They must notify them without unreasonable delay, and no later than 60 days after finding it. Breaches affecting 500 or more people must also be reported to HHS within 60 days. If 500 or more people in one state are affected, local media must be told too.</p><p>Clients cannot sue under HIPAA itself. They can complain to the Office for Civil Rights and may sue under state law. The nurse can face firing, Board discipline, fines, and for knowing misuse, criminal charges.</p>",
+          "source": "Added for the NCLEX — not in course materials",
+          "body": "<p>A breach happens when PHI is used, seen, or shared in a way HIPAA does not allow. It does not have to be on purpose. A fax to the wrong number counts. So does a chart left open in a public space. Most breaches come from small, everyday shortcuts.</p><p>Agencies must tell affected clients about a breach of unsecured PHI. They must notify them without unreasonable delay, and no later than 60 days after finding it. Breaches affecting 500 or more people must also be reported to HHS within 60 days. If more than 500 people in one state or area are affected, local media must be told too.</p><p>Clients cannot sue under HIPAA itself. They can complain to the Office for Civil Rights and may sue under state law. The nurse can face firing, Board discipline, fines, and for knowing misuse, criminal charges.</p>",
           "steps": [
             "Stop the breach if you can. Close the screen, get back the paper, or recall the message.",
             "Report it right away to your supervisor or the privacy officer, per policy.",
@@ -283,7 +293,8 @@ window.NURSE_DATA.push({
         {
           "heading": "Social media, phones, and devices",
           "keyIdea": "Never post anything about a client, even without names, and never use a personal phone for client photos.",
-          "body": "<p>Social media turns a small slip into a public breach. A post can be saved and shared in seconds. Privacy settings do not make a post private. Deleting a post does not erase it.</p><p>The National Council of State Boards of Nursing (NCSBN) guides nurses on social media. Boards can discipline nurses for posts that breach confidentiality or cross professional boundaries. Employers can fire them. Agencies may face HIPAA fines.</p>",
+          "source": "Module 49 study guide, p. 2829 (photos and video need authorization). Social media rules added for the NCLEX — not in course materials",
+          "body": "<p>Your study guide says a client’s name, photos, and video recordings cannot be used without proper authorization. Social media makes this easy to break. A post can be saved and shared in seconds. Privacy settings do not make a post private. Deleting a post does not erase it.</p><p>The National Council of State Boards of Nursing (NCSBN) guides nurses on social media. Boards can discipline nurses for posts that breach confidentiality or cross professional boundaries. Employers can fire them. Agencies may face HIPAA fines.</p>",
           "bullets": [
             "No photos or videos of clients on personal devices. Use only agency-approved devices with consent, per policy.",
             "No posts about clients, even without names, faces, or dates. Details can identify them.",
@@ -300,6 +311,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps",
           "keyIdea": "Most wrong answers come from mixing up privacy and confidentiality, or from sharing “just a little” with the wrong person.",
+          "source": "Added: NCLEX review based on Legal Issues slides 23–24",
           "body": "<p>Find the clue that separates each pair.</p>",
           "table": {
             "headers": [
@@ -345,6 +357,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Pick the answer that protects the information and still lets safe care, billing, or required reports go on.",
+          "source": "Added: worked example based on Legal Issues slide 24",
           "body": "<p>NCLEX privacy items use everyday scenes: phone calls, visitors, whiteboards, elevators, computers, and posts. Usually three choices leak information. Watch for words like “tell,” “post,” “share,” or “look up.”</p><p>Sample question: A client’s friend calls the unit and asks, “How is she doing after surgery?” Which response by the nurse is best?</p>",
           "steps": [
             "Name the issue. This is a confidentiality question: a caller wants PHI.",
@@ -358,6 +371,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: the local news anchor",
           "keyIdea": "Every request is sorted by one test: does this person have a work reason or the client’s permission?",
+          "source": "Added: worked example based on Legal Issues slide 24",
           "body": "<p>Ms. Reyes, a well-known local news anchor, is admitted for an overdose. You are her nurse. Within an hour, four things happen. Walk through each one.</p>",
           "steps": [
             "A nurse from another unit asks, “Is it true she OD’d?” Answer: “I can’t discuss clients who aren’t yours.” She is not involved in care.",
@@ -375,6 +389,7 @@ window.NURSE_DATA.push({
         {
           "heading": "North Carolina practice note",
           "keyIdea": "In NC, breaking confidentiality is reported to the Board of Nursing, not just handled by your employer.",
+          "source": "Added for North Carolina practice — not in course materials",
           "body": "<p>The NCLEX will not ask state rules. Know these for practice in North Carolina.</p>",
           "bullets": [
             "The NC Board of Nursing (NCBON) regulates nurses under the NC Nursing Practice Act (G.S. 90-171.19 et seq.).",
@@ -386,6 +401,8 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "keyIdea": "Course exams test HIPAA’s four purposes and the slide wording; the NCLEX tests applying privacy rules.",
+          "source": "Legal Issues slides 2, 5, 22–24; Module 49 study guide, pp. 2829–2830",
           "body": "<p>Sources: Legal Issues PowerPoint (Module 49), slides 2, 5, 22, 23, and 24. Module 49 study guide, pp. 2829–2830 (PDF pages 4–5).</p>",
           "bullets": [
             "Slide 22: Exemplar 49.C, Health Insurance Portability and Accountability Act. Slide 2 objective: understand HIPAA.",
@@ -522,9 +539,10 @@ window.NURSE_DATA.push({
         {
           "heading": "What is mandatory reporting?",
           "keyIdea": "Mandatory reporting is a legal duty to tell a designated agency about certain acts, events, or conditions.",
-          "body": "<p>Mandatory reporting is a legal requirement. Health care professionals must report certain acts, events, or conditions. State and federal laws decide what is on the list. The goal is to protect people who cannot protect themselves and to protect the public.</p><p>This duty overrides confidentiality. A client may beg you not to tell. If the law requires a report, you must still report. Be honest with the client about this. Never promise to keep a secret you may have to share.</p><p>Your slide groups the reports into three buckets.</p>",
+          "source": "Legal Issues slides 25–27; Module 49 study guide, p. 2834",
+          "body": "<p>Mandatory reporting is a legal requirement. Health care professionals must report certain acts, events, or conditions. State and federal laws decide what is on the list. The goal is to protect people who cannot protect themselves and to protect the public.</p><p>Your study guide says disclosing suspected abuse is an exception to confidentiality rules. A client may beg you not to tell. If the law requires a report, you must still report. Be honest with the client about this. Never promise to keep a secret you may have to share.</p><p>Your slide groups the reports into three buckets.</p>",
           "bullets": [
-            "<b>Abuse or neglect:</b> children, older or dependent adults, and vulnerable or disabled individuals.",
+            "<b>Abuse or neglect:</b> children, older or dependent adults, and vulnerable or disabled individuals. Laws vary by state, so follow facility policy.",
             "<b>Specific injuries and illnesses:</b> gunshot wounds, stab wounds, injuries from criminal acts or violence, poisonings, and certain infectious diseases.",
             "<b>Violations of the Nurse Practice Act:</b> impaired, unsafe, or unethical nursing practice, reported to the Board of Nursing."
           ],
@@ -564,20 +582,22 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "How does a report travel?",
-          "keyIdea": "Use the facility chain to get help, but make sure the report actually reaches the agency.",
-          "body": "<p>Your slide says reporting is done through the facility’s administrative chain. It shows the path as charge nurse, then supervisor, then the designated reporting body. Most agencies also involve a social worker or case manager. This chain gets you support and makes sure the right forms are used.</p><p>Your instructor added an important note. Reporting rules differ by state and by situation. Not every report is satisfied by just telling a supervisor. In many states, including North Carolina, the duty to report child abuse is personal. If your supervisor says, “Don’t worry about it,” your duty is not over.</p><p>Your study guide adds that you also personally report to the proper authorities. Your course materials say reporting goes through the facility chain. Current standard: follow the chain, but you are responsible for making sure the agency gets the report. On a course exam, expect charge nurse → supervisor → reporting body. On the NCLEX and in NC practice, the report must reach the agency.</p>",
+          "keyIdea": "Use the facility chain, and also make sure the report personally reaches the proper authorities.",
+          "source": "Legal Issues slide 26 (with speaker notes); Module 49 study guide, p. 2834",
+          "body": "<p>Your slide says reporting is done through the facility’s administrative chain: charge nurse, then supervisor, then the designated reporting body. This chain gets you support and makes sure the right forms are used. Many agencies also involve a social worker or case manager.</p><p>Your instructor’s note adds a warning. Reporting rules differ by state and by situation. Not every report is satisfied just by telling a supervisor.</p><p>Your study guide says the same thing in another way. Report according to agency policy, and also personally report to the proper authorities. Then document all pertinent information in the medical record. In many states, including North Carolina, the duty to report child abuse is personal. If your supervisor says, “Don’t worry about it,” your duty is not over.</p><p>Course exam: know the chain, charge nurse → supervisor → reporting body. NCLEX and NC practice: make sure the agency actually gets the report.</p>",
           "steps": [
             "Tell your charge nurse, per policy.",
             "The supervisor, social worker, or case manager helps file the report.",
             "The report goes to the designated body: DSS, law enforcement, public health, or the Board of Nursing.",
-            "Confirm it was made. If you are not sure, report directly yourself.",
-            "Document that the report was made, when, and to whom."
+            "Confirm it was made. If you are not sure, report to the proper authority yourself.",
+            "Document all pertinent findings, and that the report was made, when, and to whom."
           ]
         },
         {
           "heading": "Good faith immunity: can I get in trouble?",
           "keyIdea": "If you report honestly, the law protects you, even if the abuse is never confirmed.",
-          "body": "<p><b>Good faith</b> means you report honestly, based on what you saw or heard. You do not need to be sure. You do not need proof.</p><p><b>Good faith immunity</b> protects nurses who report suspected abuse or violations in good faith. It applies even if investigators find no abuse. A family cannot win a lawsuit just because the report turned out to be unfounded. The protection does not cover a report made up to hurt someone.</p><p>Reporting abuse is also not a HIPAA violation. HIPAA allows sharing PHI when a law requires it. Share only what the agency needs for the report. The reporter’s name is generally kept from the suspected abuser.</p>",
+          "source": "Legal Issues slide 26; Module 49 study guide, p. 2834",
+          "body": "<p><b>Good faith</b> means you report honestly, based on what you saw or heard, without malicious intent. You do not need to be sure. You do not need proof.</p><p><b>Good faith immunity</b> protects nurses who report suspected abuse or violations in good faith. Even if the abuse is not confirmed, immunity still applies. A family cannot win a lawsuit just because the report turned out to be unfounded. The protection does not cover a report made up to hurt someone.</p><p>Disclosing PHI to report abuse is not a HIPAA violation. HIPAA allows sharing PHI when a law requires it. Share only what the agency needs for the report. The reporter’s name is generally not disclosed to the suspected abuser.</p>",
           "analogy": "Good faith immunity works like a smoke alarm. No one blames the alarm for going off when there was no fire. It went off because it sensed smoke.",
           "check": {
             "q": "A nurse reports suspected neglect. DSS finds no neglect. The parent threatens to sue the nurse. Is the nurse protected?",
@@ -587,22 +607,45 @@ window.NURSE_DATA.push({
         {
           "heading": "Child abuse and neglect: what do I report?",
           "keyIdea": "Report reasonable suspicion of child abuse or neglect right away; never wait for proof or investigate yourself.",
-          "body": "<p>Nurses are mandated reporters of suspected child maltreatment. That includes physical, emotional, and sexual abuse and neglect. Neglect means a caregiver fails to give needed food, shelter, care, or supervision.</p><p>You report the facts that made you suspect abuse. You do not need proof. Proof is the investigators’ job. Waiting “to be sure” can leave a child in danger.</p><p>Your course materials say failing to report may bring civil charges. Current standard: in NC and many states, knowingly failing to report is also a crime. On a course exam, expect civil charges; in NC practice, know it is a crime.</p>",
-          "bullets": [
-            "Injuries that don’t match the story or the child’s development, like a bruise on a baby who can’t roll yet.",
-            "Any bruise on an infant who cannot yet crawl or cruise suggests physical abuse. Vomiting, irritability, and lethargy may mean head injury.",
-            "Unexplained or repeated injuries, or a delay in seeking care.",
-            "Untreated medical problems, poor hygiene, or failure to grow.",
-            "Sexual abuse often has no physical signs. An STI in a young child is a red flag. A caregiver’s history may be vague or misleading."
-          ],
+          "source": "Module 49 study guide, p. 2834; Legal Issues slide 27",
+          "body": "<p>Nurses are legally mandated reporters of suspected child abuse. That includes physical, emotional, and sexual maltreatment. Your slide adds neglect. Neglect means a caregiver fails to give needed food, shelter, care, or supervision.</p><p>You report the facts or circumstances that led you to believe abuse occurred. You do not need proof; your study guide says the nurse does not carry the burden of proof. Proof is the investigators’ job. Waiting “to be sure” can leave a child in danger.</p><p>Your course materials say failing to report may bring civil charges. Current standard: in NC and many states, knowingly failing to report is also a crime. On a course exam, expect civil charges; in NC practice, know it is a crime.</p>",
           "check": {
             "q": "A father says his 4-month-old fell off the couch. The infant has a spiral fracture and old bruises. What should the nurse do?",
-            "a": "Keep the infant safe, give care, document facts and exact words, and report suspected abuse to child protective services per policy. Do not wait for X-ray results or confront the father."
-          }
+            "a": "Keep the infant safe, give care, document facts and exact words, and report suspected abuse to child protective services per policy. Do not wait for more test results, like a skeletal survey, and do not confront the father."
+          },
+          "table": {
+            "caption": "Clinical signs of abuse in your study guide",
+            "headers": [
+              "Who",
+              "Signs to report"
+            ],
+            "rows": [
+              [
+                "Infants",
+                "Bruising (your study guide: indicates physical abuse). Vomiting, irritability, and lethargy may mean a head injury."
+              ],
+              [
+                "Older children",
+                "Unexplained injuries or bruises. Injuries that do not match the explanation given. Untreated medical problems."
+              ],
+              [
+                "Sexual abuse",
+                "Often no abnormal physical findings. Cultures may show an STI. A history from an abusive parent may be vague or misleading on purpose."
+              ],
+              [
+                "Neglect (added)",
+                "Delay in seeking care, poor hygiene, or failure to grow."
+              ]
+            ]
+          },
+          "bullets": [
+            "Course vs. current: your study guide says bruising in infants indicates physical abuse. Current standard: any bruise on an infant who is not yet mobile is a red flag. Older, mobile babies can bruise shins and foreheads in normal play."
+          ]
         },
         {
           "heading": "Older, dependent, and disabled adults",
           "keyIdea": "Report suspected abuse, neglect, or exploitation of adults who cannot protect themselves to Adult Protective Services.",
+          "source": "Legal Issues slide 27. Warning signs, APS, and partner violence added for the NCLEX — not in course materials",
           "body": "<p>Your slide lists older adults, dependent adults, and vulnerable or disabled individuals. These adults may rely on others for food, care, money, or safety. That makes them easy targets. Laws vary by state, so follow facility policy.</p><p>Abuse can be physical, sexual, emotional, or financial. Neglect can come from a caregiver or from the person’s own inability to care for themselves. Exploitation means misusing someone’s money or property.</p><p>Reporting does not replace care. Meet the client’s needs, notify the provider, document, and report. Teaching the caregiver is not a substitute for the report.</p><p>A competent adult abused by a partner is different. In most states, you don’t report it against the client’s wishes unless a specific law requires it, like for a gunshot wound. Offer privacy, safety planning, and resources.</p>",
           "bullets": [
             "Untreated pressure injuries, soiled bedding, or dehydration and weight loss.",
@@ -615,6 +658,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Gunshot, stab, and violent crime injuries",
           "keyIdea": "Treat the injury first, then follow state law and policy for reporting it to law enforcement.",
+          "source": "Legal Issues slide 27; slide 26 speaker notes. Evidence steps added for the NCLEX — not in course materials",
           "body": "<p>Your slide lists gunshot wounds, stab wounds, and injuries from criminal acts or violence. These reports usually go to law enforcement. Most states require hospitals to report gunshot wounds. Rules for stab wounds and other injuries vary by state. Your instructor’s note says not every listed injury is automatically reportable. Facility policy tells you who calls.</p><p>Care always comes first. Then help protect evidence. Evidence may be needed in court, so handle it carefully.</p>",
           "steps": [
             "Stabilize the client: airway, breathing, circulation, and bleeding control.",
@@ -628,8 +672,9 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Poisonings and infectious diseases",
-          "keyIdea": "Suspicious poisonings may need a police report, and listed infectious diseases must be reported to public health.",
-          "body": "<p><b>Poisonings</b> are on your slide. A poisoning that may come from a crime, abuse, or neglect is reported as state law requires. A toddler who swallowed pills may also raise questions about supervision.</p><p><b>Certain infectious diseases</b> must be reported under public health rules. Each state keeps a list of reportable diseases. Reporting lets health officials find contacts, stop outbreaks, and track disease. Providers and labs usually file the report. Infection prevention staff help. The nurse makes sure it happens, per policy.</p><p>This sharing is allowed by HIPAA. Public health reports are required by law. The client does not have to agree.</p>",
+          "keyIdea": "Your slide lists poisonings and certain infectious diseases as reportable. Follow state law and policy for poisonings; report listed diseases to public health.",
+          "source": "Legal Issues slide 27; slide 26 speaker notes. Disease examples added for the NCLEX — not in course materials",
+          "body": "<p><b>Poisonings</b> are on your slide’s list of reportable injuries and illnesses. Your instructor’s note adds that not every listed injury is automatically reportable. In practice, a poisoning that may come from a crime, abuse, or neglect is reported as state law and policy require. A toddler who swallowed pills may also raise questions about supervision.</p><p><b>Certain infectious diseases</b> must be reported under public health rules. Each state keeps a list of reportable diseases. Reporting lets health officials find contacts, stop outbreaks, and track disease. Providers and labs usually file the report. Infection prevention staff help. The nurse makes sure it happens, per policy.</p><p>This sharing is allowed by HIPAA. Public health reports are required by law. The client does not have to agree.</p>",
           "bullets": [
             "Common examples: tuberculosis, measles, pertussis, syphilis, gonorrhea, chlamydia, HIV, and hepatitis.",
             "Some diseases must be reported right away by phone. Others can be reported within days. The state list sets the timing.",
@@ -643,6 +688,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Reporting unsafe or impaired nurses",
           "keyIdea": "Protect clients first, report to your supervisor, and know that Nurse Practice Act violations go to the Board.",
+          "source": "Legal Issues slide 27. Signs of impairment and alternative-to-discipline programs added for the NCLEX — not in course materials",
           "body": "<p>Violations of the Nurse Practice Act must be reported too. These include impaired, unsafe, or unethical nursing practice. Reports go to the Board of Nursing. The Board protects the public, not the nurse’s job.</p><p>Impaired practice means a nurse is unsafe because of alcohol, drugs, or a health problem. Drug diversion means taking client drugs for personal use. Covering for a coworker puts clients in danger and can put your license at risk too.</p><p>Many boards offer alternative-to-discipline programs for nurses with substance use disorders. These programs offer treatment and monitoring. Reporting can be the step that gets the nurse help.</p>",
           "bullets": [
             "Smell of alcohol, slurred speech, or unsteady gait on duty.",
@@ -652,7 +698,7 @@ window.NURSE_DATA.push({
             "Wrong counts, altered records, or mood swings."
           ],
           "steps": [
-            "If the nurse is unsafe now, remove them from client care. Tell the charge nurse or supervisor right away.",
+            "If the nurse is unsafe now, tell the charge nurse or supervisor right away so the nurse is removed from client care.",
             "Do not confront the nurse alone or try to investigate.",
             "Document facts: what you saw, smelled, or heard, and when.",
             "Follow policy for the Board of Nursing report. In NC, conduct problems like impairment and diversion go to the NCBON."
@@ -661,6 +707,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Your reporting steps at the bedside",
           "keyIdea": "Keep the client safe, document facts, report promptly, and do not investigate or confront.",
+          "source": "Module 49 study guide, p. 2834; Legal Issues slide 26. Interview and charting tips added for the NCLEX — not in course materials",
           "body": "<p>Every type of report follows the same basic order. Safety comes first. Then facts. Then the report. The chart should read like a camera: what you saw and heard, not what you think it means.</p>",
           "steps": [
             "Make the client safe. Treat injuries. Separate the client from a suspected abuser if you can.",
@@ -676,6 +723,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps",
           "keyIdea": "Wrong answers wait for proof, investigate, confront, or keep it secret.",
+          "source": "Added: NCLEX review based on Legal Issues slides 26–27 and Module 49 study guide, p. 2834",
           "body": "<p>Watch for these look-alikes on test day.</p>",
           "table": {
             "headers": [
@@ -721,6 +769,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Choose the answer that keeps the client safe and gets the report made without delay.",
+          "source": "Added: worked example based on Legal Issues slide 27",
           "body": "<p>NCLEX items describe a suspicious injury, a reportable disease, or an impaired coworker. The stem may tempt you to wait, call the family, or ask the abuser. Those answers leave the client at risk.</p><p>Sample question: A 78-year-old client from a family home has a stage 3 pressure injury, dry mucous membranes, and soiled clothing. Her son says she “refuses to eat.” What is the nurse’s priority action after giving care?</p>",
           "steps": [
             "Name the issue. These are signs of possible neglect of a dependent adult.",
@@ -734,6 +783,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: the nurse who wastes alone",
           "keyIdea": "Patterns, not a single event, point to diversion. Protect clients and report through the right channels.",
+          "source": "Added: worked example based on Legal Issues slide 27",
           "body": "<p>You work nights with Jordan, an experienced RN. Over three weeks, you notice a pattern. Jordan’s clients often say their pain medicine “didn’t work.” Jordan signs out more hydromorphone than other nurses. Tonight, Jordan asks you to co-sign a waste you did not see. Walk through what to do.</p>",
           "steps": [
             "Refuse to co-sign a waste you did not watch. Signing would make you part of the problem.",
@@ -752,6 +802,7 @@ window.NURSE_DATA.push({
         {
           "heading": "North Carolina practice note",
           "keyIdea": "In NC, anyone who suspects child maltreatment must report to the county DSS; disabled adults are reported to DSS too.",
+          "source": "Added for North Carolina practice — not in course materials",
           "body": "<p>The NCLEX will not ask statute numbers. Know these for practice in North Carolina.</p>",
           "bullets": [
             "NC is a universal reporting state. G.S. 7B-301: any person or institution with cause to suspect a juvenile (under 18) is abused, neglected, or dependent, or died from maltreatment, must report to the county DSS director.",
@@ -765,6 +816,8 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "keyIdea": "Course exams test the slide wording and the facility chain; in NC practice and on the NCLEX, make sure the agency gets the report.",
+          "source": "Legal Issues slides 25–27 (with speaker notes); Module 49 study guide, p. 2834",
           "body": "<p>Sources: Legal Issues PowerPoint (Module 49), slides 25, 26 (with speaker notes), and 27. Module 49 study guide, pp. 2829 and 2834 (PDF pages 4, 8, and 9).</p>",
           "bullets": [
             "Slide 25: Exemplar 49.D, Mandatory Reporting. Slide 26: definition, the administrative chain, good faith immunity, and the HIPAA exception. Slide 27: what nurses must report.",

@@ -26,7 +26,7 @@ window.NURSE_DATA.push({
         "Translational research moves evidence from bench to bedside. The average lag is 17 years.",
         "Champions, teamwork, and education replace tradition without weakening safety.",
         "The standard of care follows the evidence. A retired practice that harms a client can be malpractice.",
-        "In COPD, never withhold oxygen from a hypoxemic client. Titrate to about 88–92% and check ABGs."
+        "In COPD, never withhold oxygen from a hypoxemic client. Give it at SpO2 88% or less with frequent ABGs. Current guidelines titrate to about 88–92%."
       ],
       "keyTerms": [
         {
@@ -59,7 +59,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Crossing the Quality Chasm (IOM, 2001)",
-          "def": "Report showing U.S. care caused preventable harm. It urged EBP to reduce unneeded variation and standardize safe care."
+          "def": "Report showing U.S. care caused preventable harm. It urged EBP to reduce inappropriate variation and standardize safe care."
         },
         {
           "term": "The Future of Nursing (IOM, 2011)",
@@ -102,7 +102,8 @@ window.NURSE_DATA.push({
         {
           "heading": "What is evidence-based practice?",
           "keyIdea": "EBP is one decision built from three parts: the best evidence, your clinical judgment, and the client’s preferences.",
-          "body": "<p>EBP is a way of making decisions, not one fact to memorize. Each decision uses the three inputs below at the same time.</p><p>Why all three? Research is done on groups, but your client is one person. Evidence says what usually works. Your assessment says if this client fits. The client says if the plan is acceptable.</p><p>Four words get mixed up. <b>Research</b> is the process. <b>Evidence</b> is the product. <b>Experience</b> is the nurse’s growing judgment. <b>EBP</b> is the blend.</p><p>Your course guide uses two linked terms. <b>Evidence-based practice</b> is the problem-solving blend of research and evidence with nursing experience. <b>Evidence-based nursing</b> (Figure 45.1) names the three parts you use for each decision. They are the best evidence from the most current research, your clinical expertise, and the patient’s preferences. Preferences reflect the client’s values, needs, interests, and choices.</p>",
+          "source": "Module 45 study guide, p. 1 (key terms, text p. 2759; Figure 45.1)",
+          "body": "<p>EBP is a way of making decisions, not one fact to memorize. Each decision uses the three inputs below at the same time.</p><p>Why all three? Research is done on groups, but your client is one person. Evidence says what usually works. Your assessment says if this client fits. The client says if the plan is acceptable.</p><p>Four words get mixed up. <b>Research</b> is the process. <b>Evidence</b> is the product. <b>Experience</b> is the nurse’s growing knowledge, skills, and behaviors that build clinical judgment. <b>EBP</b> is the blend.</p><p>Your course guide uses two linked terms. <b>Evidence-based practice</b> is the problem-solving blend of research and evidence with nursing experience. <b>Evidence-based nursing</b> (Figure 45.1) names the three parts you use for each decision. They are the best evidence from the most current research, your clinical expertise, and the patient’s preferences. Preferences reflect the client’s values, needs, interests, and choices.</p>",
           "bullets": [
             "<b>Best evidence:</b> What has been shown to work, for whom, and how well?",
             "<b>Clinical expertise:</b> What do my assessment and experience tell me about this client right now?",
@@ -117,7 +118,8 @@ window.NURSE_DATA.push({
         {
           "heading": "Where did EBP come from?",
           "keyIdea": "EBP grew from Nightingale’s data, Cochrane’s call for trials, Sackett’s definition, and two national IOM reports.",
-          "body": "<p><b>Florence Nightingale</b> (1850s) was the first nurse theorist and the first nurse to use evidence. In Crimean War hospitals, soldiers in dirty, airless wards died at high rates. She added light, fresh air (ventilation), hygiene, better food, and cleanliness. Infections dropped and more soldiers lived. Her method, shown below, is still the EBP method.</p><p><b>Archie Cochrane</b> criticized how little research backed medical treatments. He urged randomized controlled trials (RCTs). An RCT randomly puts people in a treatment or control group. <b>David Sackett</b> and other clinical epidemiologists then defined evidence-based medicine. The table shows who did what.</p><p>Your course guide dates Cochrane’s work to 1971 and says Sackett coined the term “evidence-based medicine.” Most histories date Cochrane’s book to 1972 and credit the term to Gordon Guyatt (1991). Sackett gave the best-known definition. On a course exam, expect 1971 and Sackett. The NCLEX does not test these dates.</p>",
+          "source": "Module 45 study guide, p. 3 (Section 2: landmark reports and pioneers)",
+          "body": "<p><b>Florence Nightingale</b> (1850s) was the first nurse theorist and an EBP pioneer. In Crimean War hospitals, soldiers in dirty, airless wards died at high rates. She saw that poor sanitation went with high death rates. She added lighting, ventilation, hygiene, diet, and cleanliness. Infections dropped and more soldiers lived. Her scientific process is shown below.</p><p><b>Archie Cochrane</b> criticized how little research backed medical treatments. He urged randomized controlled trials (RCTs) to gather reliable evidence. His work inspired the international Cochrane Collaboration. An RCT randomly puts people in a treatment or control group. <b>David Sackett</b> and other clinical epidemiologists then defined evidence-based medicine. The table shows who did what.</p><p>Your course guide dates Cochrane’s work to 1971 and says Sackett coined the term “evidence-based medicine.” Most histories date Cochrane’s book to 1972 and credit the term to Gordon Guyatt (1991). Sackett gave the best-known definition. On a course exam, expect 1971 and Sackett. The NCLEX does not test these dates.</p>",
           "steps": [
             "Make observations (many deaths in dirty wards).",
             "Collect data (death records).",
@@ -125,7 +127,7 @@ window.NURSE_DATA.push({
             "Form a hypothesis (sanitation will save lives).",
             "Test it with new data (clean the wards, count deaths again).",
             "Form a conclusion (sanitation lowers death).",
-            "Share the process so practice changes."
+            "Summarize and present the process to others."
           ],
           "table": {
             "headers": [
@@ -169,12 +171,14 @@ window.NURSE_DATA.push({
         {
           "heading": "Why does new evidence take 17 years?",
           "keyIdea": "Translational research moves findings from bench to bedside, but the average lag is 17 years.",
-          "body": "<p><b>Translational research</b> turns research findings into real care: “bench to bedside.” The National Institutes of Health (NIH) supports it through the Clinical and Translational Science Awards (CTSA) Consortium.</p><p>New evidence takes about <b>17 years</b>, on average, to become routine care. During that wait, clients get less effective care. Nurses may lack time or skill to read research. Policies and training take time. And tradition is strong: “We’ve always done it that way.”</p><p>Any change must improve care <em>without weakening safety or quality</em>. So it is piloted and measured, not forced overnight.</p>",
+          "source": "Module 45 study guide, pp. 1, 3 (translational research, text p. 2760; barriers)",
+          "body": "<p><b>Translational research</b> is a systematic way to turn research knowledge into health care that improves patient outcomes: “bench to bedside.” The National Institutes of Health (NIH) supports it through the Clinical and Translational Science Awards (CTSA) Consortium.</p><p>New evidence takes about <b>17 years</b>, on average, to become routine care. During that wait, clients get less effective care. The barrier your course names is tradition: “We’ve always done it that way.” Lack of time, skill, or resources also slows change.</p><p>Any change must improve care <em>without weakening safety or quality</em>. So it is piloted and measured, not forced overnight.</p>",
           "bullets": [
-            "Tradition: share the evidence, work as a team, and use change agents and respected peers as patient-care champions.",
-            "<b>No time, skill, or resources:</b> staff education, journal clubs, and early leader support.",
-            "<b>Fear it is unsafe:</b> pilot on one unit and track outcomes.",
-            "<b>Surprised clients:</b> teach clients what to expect and why."
+            "<b>Teamwork:</b> share the evidence and plan the change together.",
+            "<b>Change agents and patient-care champions:</b> respected peers model the new practice.",
+            "<b>Staff education:</b> teach the evidence and the new steps. Journal clubs and early leader support also help.",
+            "<b>Patient education:</b> teach clients what to expect and why.",
+            "<b>Protect safety:</b> pilot on one unit and track outcomes, so safety and quality do not slip."
           ],
           "example": "Nurses hold tube feedings for any residual over 150 mL “because we always have.” A champion shares guidelines: routine holding at low residuals causes underfeeding without reducing aspiration in most adults. The unit pilots a new protocol through the policy committee.",
           "check": {
@@ -185,7 +189,8 @@ window.NURSE_DATA.push({
         {
           "heading": "How does EBP link to other concepts?",
           "keyIdea": "The standard of care is built from evidence, so it changes when the evidence changes.",
-          "body": "<p>EBP touches almost every professional concept, as the table shows.</p><p>Watch the legal link closely. Courts and boards judge a nurse against the <b>standard of care</b>. That standard is built from clinical knowledge, expert opinion, and research. When evidence changes, the standard changes too. Using a retired practice that harms a client can be malpractice.</p><p>Health teaching is another link. Daily habits like sleep, hygiene, and exercise shape future health, so nurses teach self-care backed by evidence.</p>",
+          "source": "Module 45 study guide, pp. 3–4 (Section 3 concept table)",
+          "body": "<p>EBP touches almost every professional concept, as the table shows.</p><p>Watch the legal link closely. Courts and boards judge a nurse against the <b>standard of care</b>. That standard is built from clinical knowledge, expert opinion, and research. When evidence changes, the standard changes too. Conduct that strays from professional standards is malpractice. So using a retired practice that harms a client can be malpractice.</p><p>Health teaching is another link. Daily habits like sleep, hygiene, and exercise shape future health, so nurses teach self-care backed by evidence. Sample sleep teaching is listed below.</p>",
           "table": {
             "headers": [
               "Concept",
@@ -238,6 +243,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How do client choices shape the plan?",
           "keyIdea": "The client is the third leg: respect informed choices, culture, and cost while still sharing the evidence.",
+          "source": "Module 45 study guide, p. 4 (patient preferences, cost, Focus on Integrative Health, text p. 2761)",
           "body": "<p>Health beliefs, culture, spirituality, and traditions shape what clients accept. An adult who can make decisions may agree to treatment, such as supplemental oxygen. They may refuse treatment, such as a blood transfusion. They may also seek a second opinion or make advance directives.</p><p>Respecting a refusal is not a failure of EBP. It <em>is</em> EBP. Make sure the choice is informed, then offer options the client will accept.</p><p>Cost matters too. Ask if the intervention is available and what payment or reimbursement rules apply. Then advocate for cost-conscious, high-value care.</p><p><b>Integrative health</b> combines complementary approaches, such as mindfulness or acupuncture, with conventional care. It stresses interprofessional teamwork and whole-person (holistic) care. In one study of nearly 500 clients with breast or gynecologic cancer, it improved appetite, fatigue, anxiety, pain, sleep, and global health.</p>",
           "table": {
             "headers": [
@@ -271,12 +277,13 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Box 45.1: Oxygen for clients with COPD",
-          "keyIdea": "Never withhold oxygen from a hypoxemic client with COPD; titrate to about 88–92% and monitor ABGs.",
-          "body": "<p>This is a classic case of evidence replacing tradition. The old <b>hypoxic drive theory</b> said clients with COPD who retain carbon dioxide (CO2) breathe only because their oxygen is low. Oxygen would “take away the drive” and stop their breathing. So some nurses withheld oxygen, even from very low clients.</p><p>Current evidence says <b>hypoxemia</b> itself is the immediate danger. CO2 can rise with uncontrolled, high oxygen. That rise is mostly explained by air-and-blood-flow changes in the lungs and the Haldane effect (oxygen makes hemoglobin release CO2), not a lost “drive.”</p>",
+          "keyIdea": "Never withhold oxygen from a hypoxemic client with COPD. Give it at SpO2 88% or less and check blood gases often.",
+          "source": "Module 45 study guide, p. 4 (Box 45.1, text p. 2761); 88–92% target added from current guidelines (GOLD)",
+          "body": "<p>This is a classic case of evidence replacing tradition. The old <b>hypoxic drive theory</b> warned that oxygen causes respiratory failure in clients with COPD who retain carbon dioxide (hypercapnia). The idea was that they breathe only because their oxygen is low. So some nurses withheld oxygen, even from very low clients.</p><p>Current evidence says <b>hypoxemia</b> itself is the immediate danger. CO2 can rise with uncontrolled, high oxygen. That rise is mostly explained by air-and-blood-flow changes in the lungs and the Haldane effect (oxygen makes hemoglobin release CO2), not a lost “drive.”</p><p>Your course’s protocol: give oxygen when SpO2 is 88% or less, with frequent blood gases. The goal is enough oxygen without more CO2 retention or worse acidosis. Current guidelines add a target of about 88–92%.</p>",
           "steps": [
             "Give oxygen when SpO2 is 88% or less. Do not wait for a blood gas.",
-            "Titrate (adjust) to about 88–92%, or the range the provider orders.",
-            "Check arterial blood gases (ABGs) often for rising PaCO2 and falling pH.",
+            "Current guidelines: titrate (adjust) to about 88–92%, or the range the provider orders.",
+            "Check arterial blood gases (ABGs) often. Watch for rising PaCO2 (CO2 retention) and falling pH (worse acidosis).",
             "Watch mental status and breathing effort. New sleepiness is a warning sign, so report it promptly."
           ],
           "table": {
@@ -307,6 +314,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps: look-alikes in this topic",
           "keyIdea": "Most errors mix up tradition, experience, and evidence.",
+          "source": "Added: look-alike review based on Module 45 study guide, pp. 1–4, 10",
           "body": "<p>Each pair looks alike on a test. The right column tells them apart.</p>",
           "table": {
             "headers": [
@@ -348,6 +356,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "The best answer uses all three legs: current evidence, assessment, and client involvement.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Items usually show a nurse’s statement or action and ask you to judge it. Common patterns are listed below. Try this sample item.</p><p>A senior nurse says, “We always massage red heels and hips. Residents like it.” A new graduate checks current pressure-injury guidelines. Which action best reflects EBP?</p><p>A. Keep massaging; the senior nurse’s experience is evidence.<br>B. Stop massaging red areas, offload and reposition, reassess the skin, and explain why to the resident.<br>C. Let each resident choose massage or not.<br>D. Stop all skin care until the unit does its own study.</p>",
           "bullets": [
             "“Which statement needs more teaching?” It cites tradition or one expert, or ignores the client.",
@@ -371,6 +380,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: oxygen, a refusal, and a tradition",
           "keyIdea": "Treat the physical threat first, then respect the client’s choices and correct the outdated practice through the right channel.",
+          "source": "Added: worked example based on Module 45 study guide, p. 4 (Box 45.1; patient preferences)",
           "body": "<p>Mr. Okafor, 68, has pneumonia and chronic hypercapnic COPD. His SpO2 is 85% on room air, respirations are 28, and he is anxious. Orders: oxygen to keep SpO2 88–92%, and an ABG in 1 hour.</p><p>The night nurse says, “Oxygen will knock out his drive.” Mr. Okafor, a Jehovah’s Witness, says he will refuse blood if his old GI bleed returns.</p>",
           "steps": [
             "Recognize cues: low SpO2, fast breathing, and anxiety mean hypoxemia. The handoff reflects the outdated hypoxic drive theory.",
@@ -388,20 +398,23 @@ window.NURSE_DATA.push({
         {
           "heading": "North Carolina practice note",
           "keyIdea": "In North Carolina, the RN is legally accountable for current, standard-based care, and malpractice is judged against that standard.",
+          "source": "Added for North Carolina practice — not in course materials",
           "body": "<p>The NCLEX does not test state laws. These facts explain why NC employers stress current policy and staff education.</p>",
           "bullets": [
             "The NC Board of Nursing (NCBON) regulates nursing under the NC Nursing Practice Act (N.C. Gen. Stat. Chapter 90, Article 9A, G.S. 90-171.19 et seq.).",
             "RN components of practice are in 21 NCAC 36 .0224; LPN components are in .0225.",
             "The RN is accountable for assessment, planning, evaluation, delegation, and assignment, based on current standards.",
-            "The ANA describes standards, but the state practice act sets the legal scope.",
+            "The ANA, NLN, and The Joint Commission define national standards. The state Nurse Practice Act defines them legally (course guide, p. 5).",
             "NC malpractice claims generally have a 3-year statute of limitations and a 4-year statute of repose (G.S. 1-15(c)). NC still allows pure contributory negligence as a defense.",
             "NC is a Nurse Licensure Compact state. On a multistate license, follow the laws where the client is."
           ]
         },
         {
           "heading": "Course source & clinical clarification",
+          "keyIdea": "Know the course answer for course exams and the current standard for the NCLEX and the bedside.",
+          "source": "Module 45 study guide, pp. 1–4 (Sections 1–3); current-standard notes added",
           "bullets": [
-            "Source: Module 45 study guide, Evidence-Based Practice, outcomes 45.1–45.2, key terms and Sections 2–3, pp. 2759–2761 (Box 45.1 and Focus on Integrative Health).",
+            "Source: Module 45 study guide, Evidence-Based Practice, outcomes 45.1–45.2, key terms and Sections 2–3, text pp. 2759–2761 (guide pp. 1–4) (Box 45.1 and Focus on Integrative Health).",
             "COPD oxygen: the source says give oxygen at SpO2 88% or less with frequent blood gases. Current guidance (such as GOLD) adds titrating to about 88–92%, or the ordered target, in clients at risk for CO2 retention. Never withhold oxygen from a hypoxemic client.",
             "Cochrane date: your course guide says 1971. His key book came out in 1972. On a course exam, expect 1971.",
             "Who named EBM: your course guide says Sackett coined “evidence-based medicine.” Most histories credit Gordon Guyatt of McMaster (1991); Sackett gave the widely cited definition (1996). On a course exam, expect Sackett.",
@@ -556,7 +569,8 @@ window.NURSE_DATA.push({
         {
           "heading": "What is nursing research, and who pays?",
           "keyIdea": "Nursing research uses the scientific method: ask a question, collect data, form a hypothesis, test it, and share the conclusion.",
-          "body": "<p><b>Nursing research</b> uses a strict, step-by-step process to study nursing questions in practice, education, and administration. A study of nurse staffing is nursing research. <b>Nursing clinical research</b> focuses on client care, such as comparing two wound dressings.</p><p>Every study follows the <b>scientific method</b> (Box 45.2), shown in the steps below. Order matters. A hypothesis before any data is a guess. A conclusion without a study is an opinion.</p><p>Research costs money. Grants come from professional chapters and from national and government groups, like those listed below.</p>",
+          "source": "Module 45 study guide, pp. 2, 5 (key terms, text p. 2762; Box 45.2; funding sources)",
+          "body": "<p><b>Nursing research</b> uses a strict, step-by-step process to study nursing questions in practice, education, and administration. A study of nurse staffing is nursing research. <b>Nursing clinical research</b> seeks answers that will ultimately improve patient care. Examples compare infection rates, wound care methods, or how well treatments work.</p><p>Research follows the general elements of the <b>scientific method</b> (Box 45.2), shown in the steps below. Order matters. A hypothesis before any data is a guess. A conclusion without a study is an opinion.</p><p>Research costs money. Grants come from professional chapters and from national and government groups, like those listed below.</p>",
           "steps": [
             "Ask a question: Why do more clients here get heel injuries than on the next unit?",
             "Collect data: review skin checks, beds, and turning schedules.",
@@ -579,7 +593,8 @@ window.NURSE_DATA.push({
         {
           "heading": "Numbers or stories: which design fits?",
           "keyIdea": "Quantitative research counts and measures; qualitative research explores what an experience is like.",
-          "body": "<p>The question decides the design. <b>Quantitative</b> research asks “how many,” “how much,” or “does X affect Y?” It uses numbers, like pain scores or infection rates, and statistics. The source example compares skin breakdown in infants bathed with water versus soap.</p><p><b>Qualitative</b> research asks “what is it like?” It uses words from interviews, focus groups, or journals. It looks for patterns and themes. The source example explores coping after a radical mastectomy. It helps nurses understand the client’s view.</p><p>Neither is better. They answer different questions. Qualitative studies are weaker for proving a treatment works, but they are the right tool for meaning and experience.</p>",
+          "source": "Module 45 study guide, pp. 2, 5 (quantitative and qualitative research, text p. 2762)",
+          "body": "<p>The question decides the design. <b>Quantitative</b> research asks “how many,” “how much,” or “does X affect Y?” It uses precise measurement to collect numbers, like pain scores or infection rates. Statistics then summarize the findings or test relationships among variables. Your course’s example compares skin breakdown in infants bathed with water versus soap.</p><p><b>Qualitative</b> research asks “what is it like?” It uses narrative data (words) from interviews, focus groups, or journals to explore people’s subjective experiences. It looks for patterns and themes. Your course’s example explores coping after a radical mastectomy. It helps nurses understand the client’s view.</p><p>Neither is better. They answer different questions. Qualitative studies are weaker for proving a treatment works, but they are the right tool for meaning and experience.</p>",
           "table": {
             "headers": [
               "Feature",
@@ -618,14 +633,15 @@ window.NURSE_DATA.push({
         {
           "heading": "Who can be in a study?",
           "keyIdea": "Participants must meet the criteria, be fully informed, and consent; vulnerable groups get extra protection.",
-          "body": "<p><b>Research participants</b> are volunteers who meet all three conditions: they fit the inclusion criteria, they know every part of the study, and they gave informed consent.</p><p><b>Inclusion criteria</b> say who belongs, such as adults 18–65 with type 2 diabetes. <b>Exclusion criteria</b> rule people out, such as pregnancy or a drug that interacts. Common criteria include age, gender, history, disease stage, and medicines. Criteria protect participants’ safety and keep results valid.</p><p>If a participant develops an exclusion condition, like a new pregnancy, hold the study dose and tell the investigator and provider. When you read a study, check if your client resembles the sample.</p>",
+          "source": "Module 45 study guide, pp. 2, 5 (research participants, text p. 2762; inclusion/exclusion; vulnerable populations)",
+          "body": "<p><b>Research participants</b> are volunteers who meet all three conditions: they fit the inclusion criteria, they know every part of the study, and they gave informed consent.</p><p><b>Inclusion criteria</b> say who belongs, such as adults 18–65 with type 2 diabetes. <b>Exclusion criteria</b> rule people out, such as pregnancy or a drug that interacts. Common criteria include age, gender, history, disease stage, and medicines. Criteria pick participants who represent the target population. They also protect participants’ physical and psychosocial safety.</p><p>If a participant develops an exclusion condition, like a new pregnancy, hold the study dose and tell the investigator and provider. When you read a study, check if your client resembles the sample.</p><p>Your course lists the <b>vulnerable populations</b> below. They get strict legal and ethical protections. Pregnant women are added from federal rules.</p>",
           "bullets": [
             "Human fetuses and neonates",
             "Children (need parent permission plus the child’s assent when able)",
             "Prisoners (restricted liberty makes pressure easy)",
             "Educationally disadvantaged people",
             "Cognitively impaired people (need a legal representative’s permission plus assent when able)",
-            "Pregnant women (special protection under federal rules)"
+            "Pregnant women (added: special protection under federal rules)"
           ],
           "check": {
             "q": "A prisoner is told he may get an earlier parole hearing if he joins a drug trial. Why is this wrong?",
@@ -635,7 +651,8 @@ window.NURSE_DATA.push({
         {
           "heading": "Research consent: what does the nurse do?",
           "keyIdea": "The investigator explains and obtains consent; the nurse checks understanding, protects the right to withdraw, and speaks up.",
-          "body": "<p>Research consent is both legal and ethical. Before agreeing, volunteers must learn the study’s purpose, procedures, length, expectations, benefits, and risks. Consent is usually written and comes before the study starts.</p><p>Consent is also ongoing. A participant may ask questions or withdraw at any time. There is no penalty, and usual care continues.</p><p>The <b>principal investigator</b> or trained research staff explain the study and obtain consent. The bedside nurse is the advocate. The <b>IRB</b> reviews every study before it starts and monitors it during the study. No study with human participants should start without IRB approval.</p>",
+          "source": "Module 45 study guide, pp. 2, 5 (informed consent, text p. 2763; IRBs); consent roles added from standard practice",
+          "body": "<p>Research consent is both legal and ethical. Before agreeing, volunteers must learn the study’s purpose, procedures, length, expectations, benefits, and risks. Consent is usually written and comes before the study starts.</p><p>Consent is also ongoing. A participant may ask questions or withdraw at any time. There is no penalty, and usual care continues.</p><p>The <b>principal investigator</b> or trained research staff explain the study and obtain consent. The bedside nurse is the advocate. The <b>institutional review board (IRB)</b> reviews research protocols before and during a study to ensure they are ethical. No study with human participants should start without IRB approval.</p>",
           "steps": [
             "Ask the client to explain the study in their own words.",
             "Listen for confusion (“They said I’d be cured”), pressure (“My doctor said I had to”), or wanting out.",
@@ -680,6 +697,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Belmont principles and privacy",
           "keyIdea": "Respect for persons protects choice, beneficence protects from harm, justice protects fairness, and HIPAA protects health information.",
+          "source": "Module 45 study guide, p. 5 (Belmont Report, HIPAA Privacy Rule)",
           "body": "<p>The <b>Belmont Report</b> (1979) came after research abuses such as the Tuskegee syphilis study. The NCLEX will describe a situation and expect you to name the right at risk. The table shows the three principles.</p><p>Respect for persons gives extra protection to people with limited (diminished) autonomy. Autonomy can be limited by disability, illness, restricted liberty (such as prison), or immaturity (such as childhood).</p><p>Your course guide places strict confidentiality and anonymity under <b>justice</b>. In the original report, justice means fair selection and fair sharing of risks and benefits. Privacy is protected by respect for persons and by federal rules like HIPAA. On a course exam, expect privacy under justice. On the NCLEX, justice items test fair selection.</p><p>The <b>HIPAA Privacy Rule</b> sets national standards that protect private health information in research too. Use only the information needed, and store it securely.</p><p>Two privacy words get confused. <b>Confidentiality</b> means researchers know who you are but will not tell. <b>Anonymity</b> means no one can tell who you are, like an unsigned survey with no codes. A study that collects names can promise confidentiality, but not anonymity.</p>",
           "table": {
             "headers": [
@@ -713,8 +731,9 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "What makes nursing a profession?",
-          "keyIdea": "Research is one mark of a profession, and the state Nurse Practice Act, not the ANA, legally defines your scope.",
-          "body": "<p>Nursing is a profession partly because it does ongoing research. The criteria are listed below. The ANA Code of Ethics also requires nurses to protect research participants. So advocacy is a duty, not a favor.</p><p><b>Standards of nursing care</b> come from layers. National groups describe them: the American Nurses Association (ANA), the National League for Nursing (NLN), and The Joint Commission. Legally, each state’s <b>Nurse Practice Act</b>, enforced by the Board of Nursing, defines scope. Facility policy turns both into unit steps.</p><p>In a lawsuit, the question is what a reasonably prudent nurse would have done. As research changes guidelines, it changes that answer.</p>",
+          "keyIdea": "Research is one mark of a profession, and the state Nurse Practice Act, not the ANA, legally defines nursing standards and scope.",
+          "source": "Module 45 study guide, p. 5 (criteria for a profession, text p. 2763; standards of nursing care)",
+          "body": "<p>Nursing is a profession partly because it does ongoing research. The criteria are listed below. The ANA Code of Ethics (added here) also requires nurses to protect research participants. So advocacy is a duty, not a favor.</p><p><b>Standards of nursing care</b> come from layers. National groups describe them: the American Nurses Association (ANA), the National League for Nursing (NLN), and The Joint Commission. Legally, each state’s <b>Nurse Practice Act</b>, enforced by the Board of Nursing, defines the standards and the scope of practice. Facility policy turns both into unit steps.</p><p>In a lawsuit, the question is what a reasonably prudent nurse would have done. As research changes guidelines, it changes that answer.</p>",
           "bullets": [
             "Specialized education",
             "A well-defined body of knowledge and expertise",
@@ -732,6 +751,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps: look-alikes in research",
           "keyIdea": "Most errors come from mixing up the two designs, the two criteria, the two privacy words, or the three principles.",
+          "source": "Added: look-alike review based on Module 45 study guide, pp. 2, 5",
           "body": "<p>Each pair looks alike on a test. The right column tells them apart.</p>",
           "table": {
             "headers": [
@@ -773,6 +793,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Ask whose right is at stake, then pick the option that protects it now and notifies the right person.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Expect scenarios where a participant’s rights are threatened. Wrong options usually persuade the client to stay, ignore a concern because consent is signed, or breach privacy. Here is a sample item.</p><p>A client in a blood pressure drug trial says, “I signed the papers, but I’m scared of side effects and want out. Will I still get treated?” Which response is best?</p><p>A. “You signed consent, so you need to finish the study.”<br>B. “You can withdraw anytime, and your regular care will continue. I’ll tell the research team and your provider.”<br>C. “Side effects are usually mild. Let’s give it a week.”<br>D. “I’ll explain the study again so you feel better about staying.”</p>",
           "steps": [
             "Read the stem: a participant wants to withdraw and fears losing care.",
@@ -791,6 +812,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: a child says no",
           "keyIdea": "A child’s dissent and comfort come before any research-only procedure, even with a parent’s signed permission.",
+          "source": "Added: worked example based on Module 45 study guide, pp. 2, 5 (informed consent, vulnerable populations, Belmont)",
           "body": "<p>Maya, 9, is in a mouth-care study for chemotherapy sores. Her mother signed permission. The protocol calls for a mouth swab every 8 hours. At 0200, Maya cries, “I don’t want the swab anymore. It hurts.”</p><p>You also see data sheets with participants’ names at the nurses’ station. A new nurse says, “Just do the swab. Her mom signed.”</p>",
           "steps": [
             "Recognize cues: Maya is a child, a vulnerable participant. She is refusing (dissent) and reports pain.",
@@ -809,6 +831,7 @@ window.NURSE_DATA.push({
         {
           "heading": "North Carolina practice note",
           "keyIdea": "In North Carolina, the Nurse Practice Act sets legal scope, and a minor’s consent law covers treatment, not research.",
+          "source": "Added for North Carolina practice — not in course materials",
           "body": "<p>These NC facts support the national rules above.</p>",
           "bullets": [
             "Legal scope is set by the NC Nursing Practice Act (N.C. Gen. Stat. Chapter 90, Article 9A, G.S. 90-171.19 et seq.) and enforced by the NC Board of Nursing (NCBON).",
@@ -820,8 +843,10 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "keyIdea": "On a course exam, use the course’s placement; on the NCLEX, use the standard ethics rules.",
+          "source": "Module 45 study guide, pp. 2, 5 (Section 4); current-standard notes added",
           "bullets": [
-            "Source: Module 45 study guide, Evidence-Based Practice, outcome 45.3, key terms and Section 4, pp. 2762–2763 (Box 45.2, Belmont, vulnerable groups, IRBs, HIPAA, profession criteria, standards).",
+            "Source: Module 45 study guide, Evidence-Based Practice, outcome 45.3, key terms and Section 4, text pp. 2762–2763 (guide pp. 2, 5) (Box 45.2, Belmont, vulnerable groups, IRBs, HIPAA, profession criteria, standards).",
             "Belmont justice: your course guide puts strict confidentiality and anonymity under justice. In the original report, justice means fair selection and fair sharing of burdens and benefits; privacy falls under respect for persons and federal rules. On a course exam, expect privacy under justice; NCLEX justice items test fair selection.",
             "Vulnerable groups: federal rules also protect pregnant women, so this was added. Children need parent permission plus their own assent when able.",
             "Consent roles: the source does not say who obtains research consent. This guide teaches the standard rule: the investigator obtains it; the nurse verifies and advocates."
@@ -881,7 +906,7 @@ window.NURSE_DATA.push({
       "id": "ebp-steps",
       "title": "The Four Steps of EBP: One Nurse vs the Whole Unit",
       "exemplar": null,
-      "summary": "EBP has four steps: ask a PICOT question, find the evidence, judge it, then apply, evaluate, and share it, either at one bedside or across an organization.",
+      "summary": "EBP has four steps: develop a clinical question (PICOT), retrieve the evidence, evaluate it, then apply it and share the findings, either at one bedside or across an organization.",
       "objectives": [
         "You can sort a question as background or foreground, and by type.",
         "You can write a PICOT question and name each part.",
@@ -892,11 +917,11 @@ window.NURSE_DATA.push({
       ],
       "bigPicture": "<p>This topic is the workflow. It is what you do with a question at 0300, or when your unit wants to fix a problem. The four steps are ask, retrieve, appraise, and apply. They follow the nursing process you already know.</p><p>New nurses often slip inside a step. They ask a question too broad to search. They trust a news summary. They confuse “statistically significant” with “worth changing practice.” Or they try to change a policy alone. On the NCLEX, know PICOT parts, the evidence ranking, the stoplight colors, and who can change what.</p>",
       "recap": [
-        "Four steps: ask a question, retrieve evidence, appraise it, then apply, evaluate outcomes, and disseminate.",
+        "Four steps: develop a clinical question, retrieve the evidence, evaluate it, then apply, evaluate outcomes, and disseminate.",
         "Background questions use textbooks and drug guides. Foreground questions use research and PICOT.",
         "PICOT: Population, Intervention, Comparison, Outcome (measurable), Time (optional).",
         "Read primary sources. Article order: title, abstract, introduction, methods, results, conclusion, references.",
-        "Appraise validity, reliability, and clinical significance. Statistical significance alone is not enough.",
+        "Evaluate validity, reliability, and clinical significance. Statistical significance alone is not enough.",
         "Strongest: large RCTs and meta-analyses. Weakest: personal and expert opinion.",
         "PEP stoplight: green use, yellow not enough evidence, red avoid.",
         "One nurse may adjust own practice within policy. Changing a protocol needs the organizational process."
@@ -964,7 +989,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "PEP stoplight",
-          "def": "Oncology Nursing Society rating: green (strong evidence it works), yellow (not enough evidence), red (strong evidence it fails or harms)."
+          "def": "Oncology Nursing Society rating: green (strong evidence it works), yellow (not enough evidence), red (strong evidence it is likely ineffective or possibly harmful)."
         },
         {
           "term": "EBP project",
@@ -975,29 +1000,30 @@ window.NURSE_DATA.push({
         {
           "heading": "The four steps, starting with the question",
           "keyIdea": "EBP runs in four steps that mirror the nursing process, and it starts with a focused foreground question.",
-          "body": "<p>Every EBP effort follows the same four steps, shown below. They form a loop, not a line. Results from Step 4 often raise a new question.</p><p>Not every question needs research. A <b>background</b> question asks for general facts: “What are the side effects of furosemide?” You answer it with a textbook or drug handbook. New nurses ask many, and that is safe.</p><p>A <b>foreground</b> question is narrow: “Does an incentive spirometer, compared with none, shorten a surgical client’s stay?” You answer it with research. Foreground questions drive EBP. They fall into four types, shown in the table.</p>",
+          "source": "Module 45 study guide, pp. 2, 6, 9 (Section 5 Step 1: background vs foreground, question categories; EBP–nursing process parallel)",
+          "body": "<p>Every EBP effort follows the same four steps, shown below. Your course says they mirror the nursing process: assessment, diagnosis, planning, implementing, and evaluation. They form a loop, not a line. Results from Step 4 often raise a new question.</p><p>Not every question needs research. A <b>background</b> question is knowledge-based. It asks “What is…?” or “What does…?” about a disease or medicine: “What are the side effects of furosemide?” You answer it with a textbook, medical dictionary, or drug handbook. New nurses ask many, and that is safe.</p><p>A <b>foreground</b> question is practice-based and narrow: “Does an incentive spirometer, compared with none, shorten a surgical client’s stay?” You answer it with research. Foreground questions drive EBP. They fall into four types, shown in the table.</p>",
           "steps": [
-            "Step 1, Ask (like assessment and diagnosis): spot a problem and write a PICOT question.",
-            "Step 2, Retrieve (like planning): search databases for studies.",
-            "Step 3, Appraise (like planning): judge the evidence and rank its strength.",
-            "Step 4, Apply, evaluate, and share (like implementation and evaluation)."
+            "Step 1, Develop a clinical question (like assessment and diagnosis): spot a problem and write a PICOT question.",
+            "Step 2, Retrieve the evidence (like planning): search databases for studies.",
+            "Step 3, Evaluate the evidence (like planning): appraise it and rank its strength.",
+            "Step 4, Apply the evidence and disseminate findings (like implementing and evaluation): use it, check outcomes, and share results."
           ],
           "table": {
             "headers": [
               "Type",
               "What it asks",
-              "Best evidence"
+              "Best evidence (added)"
             ],
             "rows": [
-              [
-                "Therapy",
-                "Which treatment does more good than harm and leads to the best outcomes?",
-                "RCTs and meta-analyses"
-              ],
               [
                 "Diagnosis",
                 "Which test should be chosen, how is it read, and how accurate, safe, and cost-effective is it?",
                 "Studies comparing the test to a reference standard"
+              ],
+              [
+                "Therapy",
+                "Which treatment does more good than harm and leads to the best outcomes?",
+                "RCTs and meta-analyses"
               ],
               [
                 "Etiology",
@@ -1020,7 +1046,8 @@ window.NURSE_DATA.push({
         {
           "heading": "How do you write a PICOT question?",
           "keyIdea": "PICOT turns a vague worry into a searchable question; the outcome must be measurable.",
-          "body": "<p>PICOT gives a foreground question five parts. The table walks through an example. Time is optional, but it helps.</p><p>Three errors are common. The outcome cannot be measured, like “feel better.” The comparison is missing, so there is nothing to test against. Or the intervention and outcome are swapped. Words like “reduce” or “rate of” usually mark the outcome.</p>",
+          "source": "Module 45 study guide, pp. 2, 6 (PICOT, text p. 2764; Tables 45.1–45.2)",
+          "body": "<p>PICOT (or PICO) is a mnemonic that gives a foreground question five parts. The table walks through an example. Time is optional, but it helps.</p><p>Three errors are common. The outcome cannot be measured, like “feel better.” The comparison is missing, so there is nothing to test against. Or the intervention and outcome are swapped. Words like “reduce” or “rate of” usually mark the outcome.</p>",
           "table": {
             "headers": [
               "Part",
@@ -1055,20 +1082,21 @@ window.NURSE_DATA.push({
               ]
             ]
           },
-          "example": "Brent, a nurse educator, sees IV pump errors among new nurses. His question: “In new med-surg nurses (P), does simulation training (I) compared with lectures (C) reduce pump errors (O) over 6 months (T)?”",
+          "example": "Brent, a nurse educator, sees IV pump errors among new nurses. A PICOT question he could write: “In new med-surg nurses (P), does simulation training (I) compared with lectures (C) reduce pump errors (O) over 6 months (T)?”",
           "check": {
             "q": "“For adults with dementia, does music therapy compared with usual activities reduce agitation over 4 weeks?” What is the C?",
             "a": "Usual activities. Music therapy is the I, less agitation is the O, and 4 weeks is the T."
           }
         },
         {
-          "heading": "Step 2: Where do you find evidence?",
+          "heading": "Step 2: Retrieve the evidence",
           "keyIdea": "Go to the primary source in a trusted database; a news story or sales brochure is not enough.",
-          "body": "<p>A <b>primary source</b> is the original article by the researchers. A <b>secondary source</b> is someone else’s summary, like a news story, and can get details wrong. A <b>review-of-literature</b> article presents many studies and ends with a recommendation. When it matters, read the primary source.</p><p>Search trusted databases, listed below, not social media. Articles follow the order in the table. The abstract shows relevance. The methods show how far to trust it.</p>",
+          "source": "Module 45 study guide, p. 7 (Step 2; Tables 45.3–45.4)",
+          "body": "<p>A <b>primary source</b> is the original article by the researchers. A <b>secondary source</b> is an article in which one author summarizes or discusses another author’s original work. News stories work the same way and can get details wrong. A <b>review-of-literature</b> article presents studies on a topic and ends with an evaluative statement or recommendation. When it matters, read the primary source.</p><p>Search trusted databases, listed below, not social media. Articles follow the order in the table. The abstract shows relevance. The methods show how far to trust it.</p>",
           "bullets": [
             "CINAHL: the core nursing database (through EBSCO)",
             "PubMed/MEDLINE: biomedical research",
-            "Cochrane Database: systematic reviews",
+            "Cochrane Review Database: systematic reviews",
             "EBSCO tools such as DynaMed and PsycINFO",
             "ScienceDirect (Elsevier), AHRQ, Evidence-Based Nursing (BMJ), and the Fuld Institute for EBP"
           ],
@@ -1096,11 +1124,11 @@ window.NURSE_DATA.push({
               ],
               [
                 "5. Results",
-                "Statistics, charts, and tables"
+                "Statistical data; may include charts or tables"
               ],
               [
                 "6. Conclusion",
-                "Interprets the results against the hypothesis and evaluates the findings"
+                "Summarizes and interprets the results against the hypothesis, and evaluates the findings"
               ],
               [
                 "7. References",
@@ -1114,9 +1142,10 @@ window.NURSE_DATA.push({
           }
         },
         {
-          "heading": "Step 3: Can you trust the study?",
+          "heading": "Step 3: Evaluate the evidence",
           "keyIdea": "Check validity, reliability, and clinical significance; a tiny difference can be statistically significant yet not worth changing care.",
-          "body": "<p><b>Validity</b> asks: did the study measure what it meant to? Counting call-light presses to measure pain is weak, because call lights mean many things.</p><p><b>Reliability</b> asks: are results consistent? A pain tool that gives two nurses very different scores for the same client is unreliable.</p><p><b>Clinical significance</b> asks: is the difference big enough to change care? <b>Statistical significance</b>, often p less than 0.05, only means the result is unlikely to be chance. A real but tiny benefit may not justify more cost or nursing time.</p>",
+          "source": "Module 45 study guide, p. 8 (Step 3 critical appraisal criteria); statistical significance added",
+          "body": "<p>Your course uses three criteria to critically appraise a study.</p><p><b>Validity</b> asks: did the study measure what it meant to? Counting call-light presses to measure pain is weak, because call lights mean many things.</p><p><b>Reliability</b> asks: are results consistent? A pain tool that gives two nurses very different scores for the same client is unreliable.</p><p><b>Clinical significance</b> (usefulness) asks: is the difference big enough to change nursing practice? Are the findings reliable, useful, and meaningful enough to alter care? <b>Statistical significance</b> (added for the NCLEX), often p less than 0.05, only means the result is unlikely to be chance. A real but tiny benefit may not justify more cost or nursing time.</p>",
           "analogy": "Think of a bathroom scale. If it reads 150 when you weigh 170, it is not valid. If it reads 150, then 162, then 141, it is not reliable. If it reads 150 every time when you weigh 170, it is reliable but still not valid. A 0.2-pound drop may be real, but it is not clinically significant.",
           "check": {
             "q": "A large study finds a new protocol lowers pain from 5.2 to 4.8 (p less than 0.01), but it adds 20 minutes of nursing time per client each shift. What should the nurse conclude?",
@@ -1126,7 +1155,8 @@ window.NURSE_DATA.push({
         {
           "heading": "How strong is the evidence?",
           "keyIdea": "Large RCTs and meta-analyses sit at the top, opinions sit at the bottom, and the PEP stoplight turns evidence into go, caution, or stop.",
-          "body": "<p>The hierarchy (Figure 45.3) ranks evidence from weakest to strongest, as the table shows. RCTs rank high because random assignment spreads hidden differences evenly. The control group gets no intervention, and the experimental group gets it. So a difference in outcome can be credited to the treatment. A meta-analysis combines many studies and analyzes them as one large study.</p><p>Some designs only observe. A <b>cohort study</b> is longitudinal: it follows an exposed group and an unexposed group forward over time. A <b>case-control study</b> compares people with and without a condition to find predictive factors (variables). Both suit etiology and prognosis but cannot prove cause like an RCT. A <b>case study</b> describes one person, issue, or event.</p><p>The Oncology Nursing Society’s Putting Evidence into Practice (PEP) uses a stoplight, listed below.</p>",
+          "source": "Module 45 study guide, p. 8 (Figure 45.3 hierarchy; study designs, text p. 2764; ONS PEP stoplight)",
+          "body": "<p>The hierarchy (Figure 45.3) ranks evidence from weakest to strongest, as the table shows. The RCT is the strongest single study design for validity. It ranks high because random assignment spreads hidden differences evenly. The control group gets no intervention, and the experimental group gets it. So a difference in outcome can be credited to the treatment. A meta-analysis combines many studies and analyzes them as one large study.</p><p>Some designs only observe. A <b>cohort study</b> is longitudinal: it follows an exposed group and an unexposed group forward over time. A <b>case-control study</b> compares people with and without a condition to find predictive factors (variables). They cannot prove cause and effect like an RCT. A <b>case study</b> describes one person, issue, or event.</p><p>The Oncology Nursing Society’s Putting Evidence into Practice (PEP) uses a stoplight, listed below.</p>",
           "table": {
             "headers": [
               "Rank",
@@ -1136,12 +1166,12 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "1 (weakest)",
-                "Opinion based on personal experience",
+                "Opinions of individuals, based on experience and knowledge",
                 "“In my experience, warm packs help.”"
               ],
               [
                 "2",
-                "Opinion of well-known experts",
+                "Opinions of well-known experts and respected authorities",
                 "A specialist’s editorial"
               ],
               [
@@ -1172,9 +1202,9 @@ window.NURSE_DATA.push({
             ]
           },
           "bullets": [
-            "<b>Green:</b> strong evidence it is likely effective. Use it.",
+            "<b>Green:</b> strong evidence the intervention is likely effective and helpful. Use it.",
             "<b>Yellow:</b> not enough evidence to know if it helps or harms. Use caution and involve the provider.",
-            "<b>Red:</b> strong evidence it is likely ineffective or harmful. Avoid it and teach why."
+            "<b>Red:</b> strong evidence it is likely ineffective or possibly harmful. Avoid it and teach why."
           ],
           "check": {
             "q": "Researchers find 200 nursing-home residents with pressure injuries and 200 without, then compare past nutrition. Which design is this?",
@@ -1182,13 +1212,14 @@ window.NURSE_DATA.push({
           }
         },
         {
-          "heading": "Step 4: Apply it, at bedside or unit-wide",
+          "heading": "Step 4: Apply the evidence and share findings",
           "keyIdea": "Apply the evidence with judgment and preference, measure results, then accept, reject, or modify; changing a protocol needs the organization.",
-          "body": "<p>Step 4 blends the best evidence with your assessment and the client’s wishes. Then you watch results and share them. Sharing, or <b>dissemination</b>, closes the “EBP loop.”</p><p>Who can make the change? An <b>individual nurse</b> can adjust their own routines right away, within scope and current policy, like using teach-back. An <b>organizational</b> change affects a protocol, product, policy, or form. It needs the process in the table.</p><p>Do not mix up three activities. A <b>research study</b> creates new, general knowledge under IRB oversight. An <b>EBP project</b> applies existing evidence to a local problem. <b>Quality improvement</b> uses local data and quick cycles, like Plan-Do-Study-Act.</p>",
+          "source": "Module 45 study guide, pp. 9–10 (Step 4; Section 6 individual vs organizational table; case study synthesis)",
+          "body": "<p>Step 4 blends the best evidence with your assessment and the client’s wishes. Then you monitor the change, evaluate outcomes, and share them. Sharing, or <b>dissemination</b>, closes the “EBP loop.”</p><p>Who can make the change? An <b>individual nurse</b> can adjust their own routines right away, within scope and current policy, like using teach-back. An <b>organizational</b> change affects a protocol, product, policy, or form. It needs the process in the table.</p><p>Do not mix up three activities. A <b>research study</b> creates new, generalizable knowledge using strict controls. It also needs IRB approval. An <b>EBP project</b> applies existing evidence to a local problem. <b>Quality improvement</b> is a continuous process of improving care. It often uses local data and quick cycles, like Plan-Do-Study-Act (added).</p>",
           "steps": [
             "Blend the evidence with assessment findings and client preferences.",
             "Carry out the change for one client, or on a pilot unit.",
-            "Check fidelity: is it being done the way the evidence describes?",
+            "Check accurate replication: is the change done the way the evidence describes?",
             "Measure intended outcomes and watch for unexpected ones.",
             "Decide: accept, reject, or modify, based on the data.",
             "Share results informally on the unit or in the agency, or formally at national conferences and in professional nursing journals."
@@ -1225,6 +1256,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Common traps: look-alikes in the steps",
           "keyIdea": "Most errors swap PICOT parts, misrank evidence, confuse the two kinds of significance, or act alone on a unit-wide change.",
+          "source": "Added: look-alike review based on Module 45 study guide, pp. 6–10",
           "body": "<p>Each pair looks alike on a test. The right column tells them apart.</p>",
           "table": {
             "headers": [
@@ -1258,11 +1290,11 @@ window.NURSE_DATA.push({
               ],
               [
                 "Yellow vs red",
-                "Not enough evidence vs strong evidence of no benefit or harm"
+                "Not enough evidence vs strong evidence it is likely ineffective or possibly harmful"
               ],
               [
                 "EBP project vs research",
-                "Applies existing evidence locally vs creates new knowledge with an IRB"
+                "Applies existing evidence locally vs creates new, generalizable knowledge using strict controls"
               ],
               [
                 "Individual vs organizational",
@@ -1274,13 +1306,14 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Place the scenario on the four-step map and choose the very next step, never a skipped one.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Items ask you to name a PICOT part, rank evidence, act on a rating, pick the next step, or choose the right channel for change. Distractors skip a step or misrank evidence. Here is a sample item.</p><p>A nurse reads a newspaper story about another hospital’s new skin-prep routine that cut surgical infections. She wants her unit to adopt it. What should she do next?</p><p>A. Start using it for her own clients tomorrow.<br>B. Find and appraise the original study and related research before proposing a change.<br>C. Ask the surgeons which routine they prefer.<br>D. Write a new unit policy and post it.</p>",
           "steps": [
             "Read the stem: a secondary source (newspaper) and a unit-wide goal.",
             "What is it really asking? The next step in the EBP process.",
             "Key cues: nothing has been retrieved or appraised yet.",
             "A is wrong: it skips Steps 2 and 3 and goes outside policy.",
-            "C is wrong: preference is opinion, the weakest evidence.",
+            "C is wrong: preference is expert opinion, near the bottom of the hierarchy.",
             "D is wrong: one nurse cannot write unit policy.",
             "The answer is B. Retrieve and appraise before any proposal."
           ],
@@ -1292,11 +1325,12 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: fewer catheter infections on 6 West",
           "keyIdea": "A unit-wide change runs through all four steps and the organization’s approval, then gets measured and adjusted.",
+          "source": "Added: worked example based on Module 45 study guide, pp. 6–10 (four steps; organizational EBP)",
           "body": "<p>You are a staff nurse on a 32-bed medical-surgical unit. Catheter-associated urinary tract infections (CAUTIs) are twice the hospital benchmark. Catheters often stay in for days after they are needed, because removal needs a provider order. Your manager asks you to join a team.</p>",
           "steps": [
-            "Ask: “In adults with urinary catheters (P), does a nurse-driven removal protocol (I) compared with removal by provider order (C) reduce CAUTIs (O) over 6 months (T)?” It is a therapy question.",
+            "Develop the question: “In adults with urinary catheters (P), does a nurse-driven removal protocol (I) compared with removal by provider order (C) reduce CAUTIs (O) over 6 months (T)?” It is a therapy question.",
             "Retrieve: search CINAHL, PubMed, and Cochrane for primary studies and reviews.",
-            "Appraise: a meta-analysis and several before-and-after studies show fewer catheter days and CAUTIs. Check validity, reliability, and clinical significance.",
+            "Evaluate: a meta-analysis and several before-and-after studies show fewer catheter days and CAUTIs. Check validity, reliability, and clinical significance.",
             "Go through the organization: take the evidence to the manager and practice council. Build a team: leaders, an educator, frontline nurses, the manager, a QI specialist, infection prevention, and providers.",
             "Apply: pilot the approved protocol with peer champions, and teach clients why catheters may come out sooner.",
             "Evaluate: CAUTIs fall 45%, but reinsertions rise slightly in orthopedic clients. The team modifies the bladder-scan threshold for them.",
@@ -1310,12 +1344,13 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: Brent Calloway’s simulation project",
           "keyIdea": "An EBP project applies existing evidence to a local problem; the right team makes the change relevant, accepted, and lasting.",
-          "body": "<p>Brent Calloway is a nurse educator. New medical-surgical nurses are making procedural errors, such as IV pump mistakes. Studies already show that simulation-based competency training reduces these errors. Brent wants to bring that training to his units. Follow his project in four parts.</p>",
+          "source": "Module 45 study guide, p. 10 (Case Study Synthesis, Brent Calloway Parts 1–4); question and rollout stages added from pp. 6, 9",
+          "body": "<p>Brent Calloway is a nurse educator. New medical-surgical nurses are making procedural errors, such as IV pump mistakes. Studies already show that simulation-based competency training reduces these errors. Brent wants to bring that training to his units. The course gives two takeaways: how an EBP project differs from research, and who belongs on the team. The stages below add the question and rollout.</p>",
           "steps": [
-            "Part 1, the question: “In new med-surg nurses (P), does simulation-based competency training (I) compared with lectures (C) reduce procedural errors (O) over 6 months (T)?” This is a therapy question.",
-            "Part 2, research or EBP project? A peer asks if Brent is doing a research study. He is not. Research creates new knowledge that applies widely (generalizable knowledge), using strict controls. Brent is translating existing best evidence into practice to fix one unit problem. That is an EBP project.",
-            "Part 3, the team: a vice president (leadership), staff development educators, frontline med-surg nurses, a nurse manager, and a quality improvement specialist. Why: frontline nurses keep it clinically relevant and win unit buy-in. Leaders approve it. The QI specialist measures it. Together they make the policy change last.",
-            "Part 4, roll it out: this is an organizational change. It needs leadership approval and a revised competency policy. Roll it out with champions, education, and a pilot. Track error rates and audits. Accept, reject, or modify the program. Then share the results."
+            "Stage 1, the question (added): “In new med-surg nurses (P), does simulation-based competency training (I) compared with lectures (C) reduce procedural errors (O) over 6 months (T)?” This is a therapy question.",
+            "Stage 2, research or EBP project? A peer asks if Brent is doing a research study. He is not. Research creates new knowledge that applies widely (generalizable knowledge), using strict controls. Brent is translating existing best evidence into practice to fix one unit problem. That is an EBP project.",
+            "Stage 3, the team: a vice president (leadership), staff development educators, frontline med-surg nurses, a nurse manager, and a quality improvement specialist. Why: this mix ensures clinical relevance, unit buy-in, and lasting (sustainable) policy change. Frontline nurses keep it relevant. Leaders approve it. The QI specialist measures it.",
+            "Stage 4, roll it out (added): this is an organizational change. It needs leadership approval and a revised competency policy. Roll it out with champions, education, and a pilot. Track error rates and audits. Accept, reject, or modify the program. Then share the results."
           ],
           "check": {
             "q": "Brent’s manager suggests leaving frontline nurses off the team “to save time.” What is the best reply?",
@@ -1325,6 +1360,7 @@ window.NURSE_DATA.push({
         {
           "heading": "North Carolina practice note",
           "keyIdea": "In North Carolina, a protocol supports RN judgment but never replaces it, and the RN delegates tasks, not judgment.",
+          "source": "Added for North Carolina practice — not in course materials",
           "body": "<p>These NC rules shape how a new protocol is carried out.</p>",
           "bullets": [
             "Under the NC Nursing Practice Act (N.C. Gen. Stat. Chapter 90, Article 9A) and 21 NCAC 36 .0224, the RN is accountable for assessment, planning, evaluation, delegation, and assignment.",
@@ -1336,24 +1372,26 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "keyIdea": "The guide follows the course’s four steps, hierarchy, and stoplight; added NCLEX content is labeled.",
+          "source": "Module 45 study guide, pp. 6–10 (Sections 5–6); current-standard notes added",
           "bullets": [
-            "Source: Module 45 study guide, Evidence-Based Practice, outcomes 45.4–45.5, Sections 5–6, pp. 2763–2768 (Tables 45.1–45.4, Figure 45.3, PEP stoplight, Brent Calloway case).",
+            "Source: Module 45 study guide, Evidence-Based Practice, outcomes 45.4–45.5, Sections 5–6, text pp. 2763–2768 (guide pp. 6–10) (Tables 45.1–45.4, Figure 45.3, PEP stoplight, Brent Calloway case).",
             "Hierarchy: most current models (such as Melnyk and Fineout-Overholt) put meta-analyses of RCTs at the top and single RCTs just below. The guide teaches that a meta-analysis of RCTs is the strongest evidence and an RCT is the strongest single design. This fits the source.",
             "Statistical significance and QI (including Plan-Do-Study-Act) were added because NCLEX items often contrast them.",
             "PEP yellow is taught as: not enough evidence to know if it helps or harms.",
             "The stoplight is simplified. ONS uses more detailed categories, from “recommended for practice” to “not recommended for practice,” that group into the three colors.",
-            "Brent Calloway case: the course guide gives two takeaways from Parts 1–4 (EBP project vs research study, and team selection). This guide lays out all four parts as steps; the PICOT and rollout details follow the guide’s Section 5–6 content."
+            "Brent Calloway case: the course guide gives two takeaways from Parts 1–4 (EBP project vs research study, and team selection). This guide lays the project out in four stages. The question and rollout stages are added from the guide’s Sections 5–6."
           ]
         }
       ],
       "mnemonics": [
         {
           "name": "A-R-E-A: the four steps",
-          "text": "<b>A</b>sk (PICOT) → <b>R</b>etrieve → <b>E</b>valuate → <b>A</b>pply (then evaluate outcomes and share). “Work in your AREA.”"
+          "text": "<b>A</b>sk: develop a PICOT question → <b>R</b>etrieve → <b>E</b>valuate → <b>A</b>pply (then evaluate outcomes and share). “Work in your AREA.”"
         },
         {
           "name": "Stoplight",
-          "text": "<b>Green</b> = go. <b>Yellow</b> = caution, not enough evidence. <b>Red</b> = stop, it fails or harms."
+          "text": "<b>Green</b> = go. <b>Yellow</b> = caution, not enough evidence. <b>Red</b> = stop, likely ineffective or possibly harmful."
         }
       ],
       "pearls": [

@@ -23,7 +23,7 @@ window.NURSE_DATA.push({
     "Normal stool is about 75% water and 25% solids. It is soft, formed, and brown.",
     "The colon absorbs water. Fast transit gives liquid stool; slow transit gives hard, dry stool.",
     "Diarrhea risks fluid and electrolyte loss first, then skin breakdown. Older adults and infants dry out fastest.",
-    "Constipation is fewer than 3 BMs a week OR hard, dry stool that is hard to pass.",
+    "Constipation is fewer than 3 BMs a week OR difficulty passing stool, which may be hard and dry.",
     "Liquid stool after days without a formed BM may be seepage around an impaction.",
     "Fecal incontinence is usually a sign of another disorder. Look for the cause.",
     "Diverticulitis means inflamed pouches. It can cause obstruction, perforation, or bleeding.",
@@ -116,7 +116,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Why does stool get harder the longer it stays in the colon?",
       "a": "The colon keeps absorbing water from it. More time means more water removed, so the stool turns hard and dry."
-     }
+     },
+     "source": "Elimination slides 24, 38 (digestion and sphincter background added)"
     },
     {
      "heading": "What changes a person's bowel habits?",
@@ -158,7 +159,7 @@ window.NURSE_DATA.push({
         "Slow or briefly stop peristalsis."
        ],
        [
-        "<b>Disease</b>",
+        "<b>Pathologic conditions</b>",
         "Bowel disease or nerve damage, such as spinal cord injury, changes movement and control."
        ],
        [
@@ -166,27 +167,29 @@ window.NURSE_DATA.push({
         "Hemorrhoids, an incision, or a perineal tear make the person put off a BM."
        ],
        [
-        "<b>Stress and mood</b>",
-        "Stress can speed the bowel and loosen stool. Depression can slow it."
+        "<b>Psychologic factors</b>",
+        "Stress and anxiety can speed the bowel and loosen stool. Depression can slow it."
        ]
       ]
      },
      "check": {
       "q": "A post-op client is on bed rest, takes opioids, and has been NPO. What bowel risk factors do you see?",
       "a": "At least four: low activity, opioids, low food and fluid intake, and anesthesia and surgery. All slow the bowel, so this client is at high risk for constipation."
-     }
+     },
+     "source": "Elimination slide 25; Exemplars slide 29 (drug examples)"
     },
     {
      "heading": "Diarrhea: when the bowel moves too fast",
      "keyIdea": "With diarrhea, protect fluid and electrolytes first, then protect the skin.",
-     "body": "<p><b>Diarrhea</b> is liquid stool that comes more often than usual. Contents rush through too fast for the colon to absorb water. Water, sodium, and potassium leave with the stool.</p><p>Infants and older adults get dehydrated the fastest. So the first worry is fluid loss. Skin care comes next.</p>",
+     "body": "<p><b>Diarrhea</b> is the passage of liquid stool more often than usual. Contents rush through too fast for the colon to absorb water. Water, sodium, and potassium leave with the stool.</p><p>Infants and older adults get dehydrated the fastest. So the first worry is fluid loss. Skin care comes next.</p>",
      "bullets": [
-      "<b>Hard-to-control urge:</b> keep the call light, bedpan, or commode in reach. Answer calls fast.",
+      "<b>Urge that is hard or impossible to control:</b> keep the call light, bedpan, or commode in reach. Answer calls fast.",
       "<b>Cramps and more frequent bowel sounds:</b> the bowel is working hard and often.",
       "<b>Fluid and electrolyte loss:</b> track intake and output and daily weights. Watch for dry mouth, low urine output, and dizziness on standing.",
       "<b>Skin breakdown:</b> liquid stool carries enzymes and acids. Clean gently after each stool, pat dry, and apply a moisture barrier."
      ],
-     "example": "An 82-year-old client has had six watery stools since morning. You check for dehydration and keep an accurate I&O. You protect the skin and keep the commode close. Then you report how often the stools come."
+     "example": "An 82-year-old client has had six watery stools since morning. You check for dehydration and keep an accurate I&O. You protect the skin and keep the commode close. Then you report how often the stools come.",
+     "source": "Elimination slide 26"
     },
     {
      "heading": "Flatulence: what causes too much gas?",
@@ -195,40 +198,43 @@ window.NURSE_DATA.push({
      "bullets": [
       "<b>Bacteria acting on chyme:</b> gut bacteria ferment food and give off gas.",
       "<b>Swallowed air:</b> eating fast, chewing gum, straws, fizzy drinks, and fast anxious breathing.",
-      "<b>Gas from the blood</b> that moves into the bowel.",
+      "<b>Gas diffusing from the bloodstream</b> into the bowel.",
       "<b>Gas-forming foods:</b> beans, cabbage, onions, and cauliflower.",
-      "<b>Abdominal surgery:</b> peristalsis slows, so gas builds up. Walking as allowed is the best help."
-     ]
+      "<b>Abdominal surgery:</b> peristalsis slows, so gas builds up. The course also notes flatulence after cesarean birth. Walking as allowed helps most."
+     ],
+     "source": "Elimination slides 26, 37"
     },
     {
      "heading": "Constipation: when the bowel moves too slow",
-     "keyIdea": "Constipation is fewer than three BMs a week OR hard, dry stool that is hard to pass.",
-     "body": "<p>Notice the word <b>or</b>. A client who goes every day but strains to pass hard stool is still constipated. Always compare with the client's own usual pattern.</p><p>The main cause is <b>decreased motility</b>. The bowel moves slowly, so the colon pulls out extra water. Constipation can be a problem by itself, from low fiber, low fluid, or inactivity. It can also be a sign of a hidden disorder, such as a nerve problem or a blockage. So a new or lasting change needs a closer look.</p><p>Hard stool can build into a <b>fecal impaction</b>. Then liquid stool may seep around the hard mass. It looks like diarrhea, but the real problem is a blockage.</p>",
+     "keyIdea": "Constipation is fewer than three BMs a week OR difficulty passing stool, which may be hard and dry.",
+     "body": "<p>Notice the word <b>or</b>. A client who goes every day but has trouble passing hard stool is still constipated. Always compare with the client's own usual pattern.</p><p>The main cause is <b>decreased motility</b>. The bowel moves slowly, so the colon pulls out extra water. Constipation may reflect a primary problem, such as low fiber, low fluid, or inactivity. It may also reflect an underlying disorder, such as a nerve problem or a blockage. So a new or lasting change needs a closer look.</p><p>Hard stool can build into a <b>fecal impaction</b>. Then liquid, foul-smelling stool may seep around the hard mass, with no formed stool. It looks like diarrhea, but the real problem is a blockage.</p>",
      "check": {
       "q": "A client has a BM every day but says, \"I push really hard and it's like little rocks.\" Is this constipation?",
-      "a": "Yes. Constipation is fewer than three BMs a week OR hard, dry stool that is hard to pass. A daily BM does not rule it out."
-     }
+      "a": "Yes. Constipation is fewer than three BMs a week OR difficulty passing stool, which may be hard and dry. A daily BM does not rule it out."
+     },
+     "source": "Elimination slide 27; Exemplars slides 27, 33"
     },
     {
      "heading": "Fecal incontinence: why does control fail?",
      "keyIdea": "Fecal incontinence is usually a sign of another disorder, so look for the cause.",
-     "body": "<p><b>Fecal incontinence</b> means the client cannot control the passing of stool and gas. Control needs three things. The client must feel that the rectum is full. The sphincter must be strong. The brain must be able to respond. A problem with any one can cause leaking.</p><p>It is a symptom, not a disease. The nurse protects the skin and helps find the cause.</p>",
+     "body": "<p><b>Fecal incontinence</b> (bowel incontinence) means the client cannot voluntarily control the passing of stool and gas through the anal sphincter. Control needs three things. The client must feel that the rectum is full. The sphincter must be strong. The brain must be able to respond. A problem with any one can cause leaking.</p><p>It is usually a manifestation (sign) of another disorder, not a disease itself. It is also not a normal change of aging. The nurse protects the skin and helps find the cause.</p>",
      "bullets": [
-      "<b>Nerve and brain disorders:</b> stroke, spinal cord injury, and dementia.",
+      "<b>Neurologic disorders:</b> such as stroke, spinal cord injury, and dementia.",
       "<b>Depression:</b> it can lower the drive or ability to respond to the urge.",
-      "<b>Injury:</b> such as a sphincter tear during childbirth.",
-      "<b>Inflammation or a mass</b> in the bowel.",
-      "<b>Hemorrhoids or a deformed anus</b> that keeps the sphincter from closing."
+      "<b>Traumatic injuries:</b> such as a sphincter tear during childbirth.",
+      "<b>An inflammatory process or masses</b> in the bowel.",
+      "<b>Hemorrhoids or a deformity in the anus</b> that keeps the sphincter from closing."
      ],
      "check": {
       "q": "Why is fecal incontinence called a \"manifestation\" rather than a disease?",
       "a": "Because it is usually a sign of another disorder, such as a nerve, injury, or inflammatory problem. The nurse protects the skin and helps find the cause."
-     }
+     },
+     "source": "Elimination slide 27; Exemplars slides 40–41"
     },
     {
      "heading": "Diverticulosis or diverticulitis: what's the difference?",
      "keyIdea": "Diverticulosis means pouches are present; diverticulitis means the pouches are inflamed and can obstruct, perforate, or bleed.",
-     "body": "<p>In <b>diverticular disease</b>, the bowel lining pushes out through weak spots in the colon wall. This forms small pouches called <b>diverticula</b>. Just having the pouches is <b>diverticulosis</b>. Many people have no symptoms. Low fiber and straining are often linked to them.</p><p>Trouble starts when stool or bacteria get trapped and a pouch becomes inflamed. That is <b>diverticulitis</b>. Clients often have pain, commonly in the lower left belly. They may also have fever and changes in bowel habits.</p>",
+     "body": "<p>In <b>diverticular disease</b>, the mucosal lining of the bowel herniates (pushes out) through the bowel wall. This forms small outpouchings called <b>diverticula</b>. Just having the pouches is <b>diverticulosis</b>. Many people have no symptoms. Low fiber and straining are often linked to them.</p><p>Trouble starts when stool or bacteria get trapped and a pouch becomes inflamed. That is <b>diverticulitis</b>. Clients often have pain, commonly in the lower left belly. They may also have fever and changes in bowel habits.</p>",
      "bullets": [
       "<b>Obstruction:</b> swelling and scarring can narrow or block the colon.",
       "<b>Perforation:</b> a pouch bursts and spills stool into the abdomen. This causes <b>peritonitis</b>. Watch for sudden worse pain, a rigid belly, and fever.",
@@ -238,12 +244,13 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A client with diverticulitis suddenly has much worse pain, a rigid abdomen, and fever. What do you suspect?",
       "a": "Perforation, which can cause peritonitis. Notify the provider immediately."
-     }
+     },
+     "source": "Elimination slide 28 (symptoms and peritonitis signs added)"
     },
     {
      "heading": "Bowel obstruction: when the bowel stops",
      "keyIdea": "A blocked or stopped bowel swells, loses blood flow, and can die or tear, so report it fast.",
-     "body": "<p>A <b>bowel obstruction</b> means contents cannot move through the bowel. There are two kinds. The difference is <b>why</b> things stopped.</p><p>Bowel sounds give a clue. Early in a mechanical block, they are often high-pitched. With a paralytic ileus, they are hypoactive or absent.</p>",
+     "body": "<p>A <b>bowel obstruction</b> means intestinal contents cannot move through the small or large bowel. There are two kinds. The difference is <b>why</b> things stopped.</p><p>Bowel sounds give a clue. Early in a mechanical block, they are often high-pitched. With a paralytic ileus, they are hypoactive or absent.</p>",
      "table": {
       "caption": "Two kinds of bowel obstruction",
       "headers": [
@@ -259,8 +266,8 @@ window.NURSE_DATA.push({
        ],
        [
         "<b>Functional</b>",
-        "The bowel is open, but peristalsis has stopped. The motor quit.",
-        "<b>Paralytic ileus</b>. The muscles are adynamic (not moving), often after surgery or drugs such as anesthesia and opioids."
+        "The bowel is open, but peristalsis cannot push contents forward. The motor quit.",
+        "<b>Paralytic ileus</b>. The intestinal muscles are adynamic (not moving). It can occur after surgery or drugs, such as anesthesia and opioids."
        ]
       ]
      },
@@ -270,7 +277,8 @@ window.NURSE_DATA.push({
       "Pressure in the swollen bowel squeezes its own blood vessels.",
       "Without blood, the tissue dies (<b>necrosis</b>) and can tear (<b>perforation</b>). Fever, a fast heart rate, and a rigid belly are late warnings."
      ],
-     "example": "Two days after abdominal surgery, a client's belly is distended and firm. The client feels sick and has passed no flatus. You hear no bowel sounds after listening for several minutes. This points to a paralytic ileus. Keep the client NPO as ordered and report it promptly. Expect an order such as a nasogastric tube."
+     "example": "Two days after abdominal surgery, a client's belly is distended and firm. The client feels sick and has passed no flatus. You hear no bowel sounds after listening for several minutes. This points to a paralytic ileus. Keep the client NPO as ordered and report it promptly. Expect an order such as a nasogastric tube.",
+     "source": "Elimination slide 29 (bowel sounds and stepwise damage added)"
     },
     {
      "heading": "Common traps",
@@ -289,7 +297,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Daily BM vs \"not constipated\"",
-        "Hard, dry stool that is hard to pass is constipation, even if it happens every day."
+        "Difficulty passing stool, which may be hard and dry, is constipation, even if it happens every day."
        ],
        [
         "Diverticulosis vs diverticulitis",
@@ -308,7 +316,8 @@ window.NURSE_DATA.push({
         "It is usually a sign of another problem. Look for the cause, not just briefs."
        ]
       ]
-     }
+     },
+     "source": "Added: NCLEX look-alikes based on Elimination slides 26–29; Exemplars slide 33"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -327,7 +336,8 @@ window.NURSE_DATA.push({
       "<b>Why the wrong options are wrong:</b> A and B put more into a stopped bowel. D can help gas later, but it does not address a possible obstruction now.",
       "<b>The answer is C.</b> Keep NPO as ordered and report, because ileus can lead to necrosis and perforation.",
       "<b>Reusable strategy:</b> when the bowel may be blocked or stopped, put nothing in and get the provider involved."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: the quiet belly after surgery",
@@ -343,7 +353,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "The next day Mr. Lee's belly becomes rigid and board-like and he has a fever. What changed, and what do you do?",
       "a": "These suggest necrosis or perforation, a complication of obstruction. Notify the provider immediately and stay with the client."
-     }
+     },
+     "source": "Added: worked example based on Elimination slides 25 and 29; Exemplars slide 35"
     }
    ],
    "pearls": [
@@ -485,9 +496,11 @@ window.NURSE_DATA.push({
       "<b>Stool and changes:</b> \"Any change in color, shape, or how hard or soft it is?\"",
       "<b>Problems:</b> diarrhea, constipation, gas, leaking, pain, or bleeding.",
       "<b>What affects it:</b> elimination aids, diet, fluid, exercise, medications, and stress.",
-      "<b>Ostomy:</b> ileostomy or colostomy, how they care for it, and any skin, pouch, or coping problems."
+      "<b>Ostomy:</b> ileostomy or colostomy, how they care for it, and any skin, pouch, or coping problems.",
+      "<b>Cues and extra history:</b> frequent requests for the bathroom, fecal odor, soiled clothes, or a distracted, anxious client. Ask about onset, extent, and duration, medical and family history, cognition, BMI, and smoking."
      ],
-     "example": "A client says, \"I'm fine. I just take a laxative every night.\" That is a finding, not small talk. Daily laxatives can weaken the bowel's own reflexes. Ask how long they have used it and what happens without it."
+     "example": "A client says, \"I'm fine. I just take a laxative every night.\" That is a finding, not small talk. Daily laxatives can weaken the bowel's own reflexes. Ask how long they have used it and what happens without it.",
+     "source": "Elimination slide 30; Exemplars slide 43"
     },
     {
      "heading": "Colostomy or ileostomy: what comes out?",
@@ -532,7 +545,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Who is at more risk for dehydration and skin breakdown: a client with an ileostomy or a sigmoid colostomy?",
       "a": "The ileostomy. Its output is liquid, frequent, and full of enzymes because it leaves before the colon can absorb water."
-     }
+     },
+     "source": "Elimination slides 30–31 (stoma pictures), 34; output by location added"
     },
     {
      "heading": "How do you assess a stoma?",
@@ -546,7 +560,8 @@ window.NURSE_DATA.push({
       "<b>Coping and self-care:</b> feelings about the body change, and ability to empty and change the pouch.",
       "<b>Delegation:</b> assistive personnel (AP) may empty and measure an established pouch for a stable client. Stoma and skin assessment and teaching stay with the nurse."
      ],
-     "example": "The morning after colostomy surgery, the stoma was moist and red. Now it is dark purple and dry. Blood flow has changed. Notify the surgeon right away and document what you see."
+     "example": "The morning after colostomy surgery, the stoma was moist and red. Now it is dark purple and dry. Blood flow has changed. Notify the surgeon right away and document what you see.",
+     "source": "Added for the NCLEX — not in course materials (Elimination slide 30 lists ostomy assessment only)"
     },
     {
      "heading": "Why listen before you touch the abdomen?",
@@ -563,7 +578,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Why does the nurse auscultate the abdomen before palpating it?",
       "a": "Palpation can alter peristalsis. That changes the bowel sounds and gives a false picture of bowel activity."
-     }
+     },
+     "source": "Elimination slide 32; Exemplars slide 43"
     },
     {
      "heading": "What do you look for in stool?",
@@ -609,7 +625,8 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "A client taking iron has dark, almost black stool. Iron can do this, but so can upper GI bleeding. Don't assume. Check vital signs, document it, and report it. If the pulse is fast or the blood pressure low, report it promptly."
+     "example": "A client taking iron has dark, almost black stool. Iron can do this, but so can upper GI bleeding. Don't assume. Check vital signs, document it, and report it. If the pulse is fast or the blood pressure low, report it promptly.",
+     "source": "Elimination slides 24, 32 (meaning of abnormal findings added)"
     },
     {
      "heading": "Lab tests and the rectal exam",
@@ -621,7 +638,8 @@ window.NURSE_DATA.push({
       "<b>Collecting stool:</b> use a clean container or a \"hat\" in the toilet. Keep out urine, toilet paper, and toilet water. Send it promptly. Follow any diet or drug rules for occult blood tests.",
       "<b>Digital rectal exam (DRE):</b> the provider inserts a gloved, lubricated finger. It finds masses, hemorrhoids, hard stool, and, in men, an enlarged prostate.",
       "<b>During a DRE:</b> place the client on their side and give privacy. Rectal stimulation can cause a vagal response. If the heart rate drops or the client feels faint, stop the stimulation first."
-     ]
+     ],
+     "source": "Elimination slide 33; Exemplars slides 27, 34 (vasovagal response); test details added"
     },
     {
      "heading": "Scope and x-ray tests: before and after",
@@ -637,7 +655,7 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "<b>Colonoscopy</b>",
-        "A scope views the whole colon. Biopsies can be taken and polyps removed.",
+        "A scope views the whole colon. Tissue samples (biopsies) can be taken and polyps removed.",
         "<b>Before:</b> consent; clear liquids and a laxative prep until output is <b>clear</b> liquid. <b>After:</b> vital signs as sedation wears off; gas and cramps are expected. Report severe pain, a distended or rigid belly, fever, or heavy bleeding."
        ],
        [
@@ -660,7 +678,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A client back from an EGD asks for water. What must you check first?",
       "a": "That the gag reflex has returned. The throat was numbed, so drinking too soon could cause aspiration."
-     }
+     },
+     "source": "Elimination slide 33 (prep and aftercare added)"
     },
     {
      "heading": "Common traps",
@@ -702,7 +721,8 @@ window.NURSE_DATA.push({
         "EGD is upper GI through the mouth. Colonoscopy is the colon through the rectum."
        ]
       ]
-     }
+     },
+     "source": "Added: NCLEX look-alikes based on Elimination slides 30–33"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -721,7 +741,8 @@ window.NURSE_DATA.push({
       "<b>Why the wrong options are wrong:</b> A and B come from air put in during the test. D is expected as sedation wears off.",
       "<b>The answer is C.</b> A rigid belly with fever suggests perforation. Notify the provider immediately.",
       "<b>Reusable strategy:</b> sort each option into \"expected after this procedure\" or \"not expected.\" Report the one that is not expected."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: a new ileostomy",
@@ -737,7 +758,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Which finding in Ms. Ortiz would also need an immediate call to the surgeon?",
       "a": "A stoma that turns pale, dusky, purple, or black. That means poor blood flow, and the tissue can die."
-     }
+     },
+     "source": "Added: worked example based on Elimination slides 30–31"
     }
    ],
    "pearls": [
@@ -857,9 +879,9 @@ window.NURSE_DATA.push({
      "keyIdea": "Fiber holds water in stool, so fiber only works when the client drinks enough fluid.",
      "body": "<p>The first independent step is more <b>fluid and fiber</b>. They work as a team. Fiber adds bulk and holds water, which keeps stool soft. The bulk stretches the bowel wall and triggers peristalsis. Fluid gives the fiber water to hold. Fiber without fluid can make stool harder and cause bloating.</p><p>Teach clients how food choices change their bowel. Help them make small swaps they can keep.</p>",
      "bullets": [
-      "<b>Fiber sources:</b> whole grains, fresh fruit, vegetables, beans, and bran. Goals are about 25 g a day for women and 38 g for men.",
+      "<b>Fiber sources:</b> whole grain cereals and bread, fresh fruit, and vegetables. Beans and bran help too. The course goal is 25 g a day for women and 38 g for men.",
       "<b>Go slow:</b> raise fiber gradually to limit gas and bloating.",
-      "<b>Fluid:</b> unless restricted, encourage about 2,000 mL or more a day, spread out.",
+      "<b>Fluid:</b> unless restricted, do not limit fluids. Aim for more than 2,000 mL a day, spaced through the day.",
       "<b>Check first:</b> a client with heart failure or kidney disease may have a fluid limit. Follow orders.",
       "<b>Foods that constipate:</b> low-fiber processed foods and large amounts of cheese and meat.",
       "<b>Foods that loosen stool:</b> fruit (especially prunes), vegetables, and whole grains.",
@@ -870,7 +892,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Why should a client raise fluid at the same time as fiber?",
       "a": "Fiber works by holding water in stool. Without enough fluid, extra fiber can make stool harder and cause bloating."
-     }
+     },
+     "source": "Elimination slide 34; Exemplars slides 7, 34"
     },
     {
      "heading": "How does bowel training work?",
@@ -880,25 +903,28 @@ window.NURSE_DATA.push({
       "Learn the client's usual pattern. Pick a set time, ideally after a meal, often breakfast.",
       "Offer a warm drink with or after the meal. Warm fluids can help stir the bowel.",
       "Help the client onto the toilet or commode. Sit upright, feet supported, leaning slightly forward. Use a bedpan only if nothing else works.",
-      "Give privacy and enough time. Don't rush.",
+      "Give privacy and enough time. Help the client relax. Don't rush.",
       "Teach the client never to ignore the urge.",
       "Repeat at the same time daily, with fluid, fiber, and activity. A pattern may take weeks."
      ],
      "analogy": "It is like a body clock. Go to bed at the same time every night, and you get sleepy on schedule. Sit on the toilet after breakfast each day, and the bowel learns too.",
      "bullets": [
+      "<b>Abdominal massage</b> is part of the course's behavior plan. <b>Never</b> massage the abdomen of a client with a bowel obstruction, IBS, or inflammatory bowel disease.",
       "<b>Delegation:</b> AP can carry out the toileting schedule. The nurse teaches, assesses, and evaluates the program."
-     ]
+     ],
+     "source": "Elimination slides 34, 38; Exemplars slides 34, 47"
     },
     {
      "heading": "Pelvic floor exercises and hygiene",
      "keyIdea": "Kegels strengthen bowel and bladder control, and gentle cleaning after every stool protects the skin.",
-     "body": "<p><b>Kegel exercises</b> strengthen the muscles that support the rectum and bladder, including the anal sphincter. They help both fecal and urinary incontinence. The client tightens the muscles used to hold back stool or stop urine. They hold a few seconds, relax, and repeat several times a day.</p><p><b>Personal hygiene</b> protects the skin and stops infection from spreading.</p>",
+     "body": "<p><b>Kegel exercises</b> strengthen the muscles that support the rectum and bladder, including the anal sphincter. They help both fecal and urinary incontinence. The client tightens the muscles used to hold back stool or stop urine. They hold for 3–10 seconds, then relax for 10–15 seconds. They repeat this 10 times.</p><p><b>Personal hygiene</b> protects the skin and stops infection from spreading.</p>",
      "bullets": [
       "Clean the perineal area gently after every stool and pat it dry.",
       "Wipe front to back to keep stool bacteria away from the urethra.",
       "Apply a moisture barrier when skin is often exposed to stool.",
       "Wash hands after toileting and before handling food. This is the key to stopping infectious diarrhea from spreading."
-     ]
+     ],
+     "source": "Elimination slide 34; Exemplars slides 14, 41"
     },
     {
      "heading": "What does good ostomy care include?",
@@ -912,12 +938,13 @@ window.NURSE_DATA.push({
       "<b>Teach</b> how to empty and change the pouch and which foods cause gas or odor. With an ileostomy, teach the client to drink enough to replace losses.",
       "<b>Get help:</b> involve the wound and ostomy nurse."
      ],
-     "example": "A client with a new ileostomy says the skin burns and the pouch keeps leaking. You find the barrier opening cut far larger than the stoma. Enzyme-rich stool is on the skin. You re-measure, cut it to fit closely, protect the skin, and ask the wound and ostomy nurse to follow up."
+     "example": "A client with a new ileostomy says the skin burns and the pouch keeps leaking. You find the barrier opening cut far larger than the stoma. Enzyme-rich stool is on the skin. You re-measure, cut it to fit closely, protect the skin, and ask the wound and ostomy nurse to follow up.",
+     "source": "Elimination slides 15, 34 (care steps added)"
     },
     {
      "heading": "Bowel medications: when to give, when to hold",
      "keyIdea": "Never give a laxative when obstruction is suspected, and check with the provider before an antidiarrheal if infection is possible.",
-     "body": "<p>When nursing measures aren't enough, the provider may order medications. <b>Surgery</b> is used for obstruction, ulceration, perforation, or cancer. It may remove part of the bowel and sometimes creates an ostomy.</p>",
+     "body": "<p>When nursing measures aren't enough, the provider may order medications. <b>Surgery</b> is used for obstruction, ulceration, perforation, or cancer. It may remove part of the bowel and sometimes creates an ostomy.</p><p>For a <b>fecal impaction</b>, the course lists <b>manual removal</b>. The mass is broken gently into smaller pieces. An enema or suppository follows. Watch for a <b>vasovagal response</b>: a slow heart rate or fainting.</p>",
      "table": {
       "caption": "Bowel medications",
       "headers": [
@@ -929,7 +956,12 @@ window.NURSE_DATA.push({
        [
         "<b>Laxatives</b> (bulk-forming psyllium; osmotic polyethylene glycol [Miralax]; stimulant bisacodyl or senna)",
         "Promote a BM by adding bulk, drawing water into the bowel, or stimulating peristalsis",
-        "<b>Never give with suspected obstruction</b> or unexplained belly pain. Give bulk-formers with a full glass of water and keep fluids up. Long-term use weakens natural reflexes and can cause dependence and electrolyte loss."
+        "<b>Never give with a blockage or obstruction</b>, or with unexplained belly pain. Avoid prolonged use. Avoid them for simple constipation, because they interfere with normal bowel reflexes. Give bulk-formers with a full glass of water."
+       ],
+       [
+        "<b>Enemas</b> (milk and molasses; SMOG: saline, mineral oil, glycerin)",
+        "Soften and flush stool from the lower bowel",
+        "Used for hard stool or after manual removal of an impaction. Watch for a vasovagal response."
        ],
        [
         "<b>Stool softeners</b> (docusate)",
@@ -946,7 +978,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A client with distention, vomiting, and no flatus asks for a laxative. What do you do?",
       "a": "Hold it and notify the provider. These are signs of possible obstruction. A laxative raises pressure behind the block and the risk of perforation."
-     }
+     },
+     "source": "Elimination slide 34; Exemplars slides 34–35"
     },
     {
      "heading": "How does bowel health link to other concepts?",
@@ -984,7 +1017,8 @@ window.NURSE_DATA.push({
         "Diet, fluids, routines, and ostomy care all depend on good teaching."
        ]
       ]
-     }
+     },
+     "source": "Elimination slide 39 (links explained)"
     },
     {
      "heading": "Prevention and risks the client can change",
@@ -1015,15 +1049,15 @@ window.NURSE_DATA.push({
         "The uterus presses on the bowel and bladder, and hormones slow the bowel. Birth can injure the pelvic floor."
        ],
        [
-        "<b>Procedures needing anesthesia</b>",
+        "<b>Medical procedures that require anesthesia</b>",
         "Anesthesia slows peristalsis and can cause constipation or ileus."
        ],
        [
-        "<b>Drugs for other conditions</b>",
+        "<b>Drug treatment of other conditions</b>",
         "Opioids and iron constipate. Antibiotics can cause diarrhea."
        ],
        [
-        "<b>Lower income and less education</b>",
+        "<b>Lower socioeconomic status and lower education levels</b>",
         "Less access to healthy food, health information, and care."
        ],
        [
@@ -1039,17 +1073,19 @@ window.NURSE_DATA.push({
         "Unsafe water and food cause traveler's diarrhea. Teach bottled or treated water and well-cooked food."
        ]
       ]
-     }
+     },
+     "source": "Elimination slides 40–42"
     },
     {
      "heading": "Screening: why you have to ask",
-     "keyIdea": "No standard screening exists, so ask directly and kindly, because clients rarely bring it up.",
-     "body": "<p>There are <b>no standard screening tests</b> for elimination problems. Instead, nurses and providers ask about symptoms at regular checkups, especially with older adults.</p><p>These problems need more direct questions than most. Clients feel embarrassed or think leaking is part of aging. But urinary incontinence and retention are <b>never normal</b>. They often point to another medical problem. The same is true of fecal incontinence.</p>",
+     "keyIdea": "No standard screening procedure exists, so ask directly and kindly, because clients rarely bring it up.",
+     "body": "<p>There are currently <b>no standard screening procedures</b> for elimination problems. Instead, nurses and providers ask about symptoms at regular checkups, especially with older adults.</p><p>These problems need more direct questions than most. Clients feel embarrassed or think leaking is part of aging. But urinary incontinence and retention are <b>never normal</b>. They often point to another medical problem. The same is true of fecal incontinence.</p>",
      "example": "Instead of \"Any problems?\", you say: \"Many people have trouble with leaking urine or stool, or with constipation. Do you ever leak when you cough or can't reach the bathroom in time? How often do you have a BM?\" Direct, normalizing questions get honest answers.",
      "check": {
       "q": "An 80-year-old says, \"I leak a little urine, but that's normal at my age.\" How do you respond?",
       "a": "Explain that incontinence is never normal and often points to a treatable problem. Report it so the provider can evaluate it."
-     }
+     },
+     "source": "Elimination slide 42; Exemplars slide 41"
     },
     {
      "heading": "Common traps",
@@ -1091,7 +1127,8 @@ window.NURSE_DATA.push({
         "Acknowledge feelings first. Teaching sticks better after."
        ]
       ]
-     }
+     },
+     "source": "Added: NCLEX look-alikes based on Elimination slides 34, 40–42; Exemplars slide 35"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1110,7 +1147,8 @@ window.NURSE_DATA.push({
       "<b>Why the wrong options are wrong:</b> A waits while the problem grows. C is for suspected obstruction, which is not present. D makes stool harder.",
       "<b>The answer is B.</b> Collaborate to add a stimulant, since there are no signs of obstruction.",
       "<b>Reusable strategy:</b> before any bowel drug, ask two things. Is there a sign of obstruction? Does this drug match the cause?"
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: building a bowel program",
@@ -1126,7 +1164,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Mr. Banks asks for a laxative every night \"to be safe.\" What do you teach?",
       "a": "Routine laxative use weakens the bowel's own reflexes. Fluid, fiber, activity, and the after-breakfast routine work better long term. Report his request to the provider."
-     }
+     },
+     "source": "Added: worked example based on Elimination slides 34, 38; Exemplars slide 34"
     }
    ],
    "pearls": [
@@ -1236,7 +1275,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A newborn is 50 hours old and has passed no stool. What should the nurse do?",
       "a": "Report it. Most newborns pass meconium within 24 hours. None by about 48 hours can signal a blockage or another problem."
-     }
+     },
+     "source": "Added for the NCLEX — meconium not in course materials; stool frequency from Elimination slide 35"
     },
     {
      "heading": "Breastfed or formula-fed: what's normal?",
@@ -1257,32 +1297,33 @@ window.NURSE_DATA.push({
        ],
        [
         "<b>Look</b>",
-        "Seedy (small curds)",
-        "Less seedy, more pasty"
+        "Seedy",
+        "Not described as seedy"
        ],
        [
         "<b>Consistency</b>",
         "Soft and liquid",
-        "Soft and liquid, often a bit pastier"
+        "Soft and liquid"
        ],
        [
         "<b>Odor</b>",
-        "Faint",
-        "Faint, but usually stronger"
+        "Faint until solid food starts",
+        "Faint until solid food starts"
        ]
       ]
      },
      "bullets": [
       "Stool <b>gets firmer</b> when the infant starts solid food.",
-      "Odor <b>stays faint until solids</b>, then smells more like adult stool.",
-      "Switching from breast milk to formula can change how stool looks.",
+      "Odor <b>stays faint until solids</b> for both groups, then smells more like adult stool.",
+      "Infants may have several BMs a day. Switching from breast milk to formula can change how stool looks.",
       "<b>Worrying signs:</b> very watery stools far more often than usual, or blood. Also watch for dehydration: fewer wet diapers, a dry mouth, or a sunken fontanel."
      ],
      "example": "A new mother says, \"My breastfed baby's diaper is full of runny yellow stuff with little seeds. Is it diarrhea?\" You reassure her that this is normal. Then you teach the warning signs of dehydration to watch for.",
      "check": {
       "q": "A formula-fed infant has a green, pasty stool. Is this abnormal?",
-      "a": "No. Formula-fed stools normally range from tan to yellow to green and are often pasty."
-     }
+      "a": "No. Formula-fed stools normally range from tan to yellow to green."
+     },
+     "source": "Elimination slide 35; Exemplars slide 36"
     },
     {
      "heading": "When do toddlers gain bowel control?",
@@ -1298,7 +1339,8 @@ window.NURSE_DATA.push({
       "<b>Praise success. Never punish accidents.</b> Pressure can make a child hold stool, which causes constipation.",
       "<b>Expect setbacks</b> during stress, such as a new sibling, a move, or illness."
      ],
-     "analogy": "Toilet training is like learning to ride a bike. The child needs balance and strength before practice works. There will be some falls along the way."
+     "analogy": "Toilet training is like learning to ride a bike. The child needs balance and strength before practice works. There will be some falls along the way.",
+     "source": "Elimination slide 35 (readiness tips added)"
     },
     {
      "heading": "Intussusception: why is it an emergency?",
@@ -1316,16 +1358,18 @@ window.NURSE_DATA.push({
      "check": {
       "q": "What is the most common cause of intestinal obstruction in children under 3?",
       "a": "Intussusception, when one part of the intestine telescopes into the next."
-     }
+     },
+     "source": "Elimination slides 29, 35 (signs added for the NCLEX)"
     },
     {
      "heading": "School-age children and teens",
      "keyIdea": "Children who hold stool, often to avoid school bathrooms, become constipated.",
-     "body": "<p>By school age, bowel habits are <b>similar to adults'</b>. Frequency, amount, and consistency vary from child to child.</p><p>Adult risk factors start to show up. Busy days and embarrassment about school bathrooms can lead children to hold stool. Held stool dries out and gets hard. Fast food with few fruits, vegetables, and little water adds to it. Teach fiber, water, activity, and never ignoring the urge.</p>",
+     "body": "<p>By school age, bowel habits are <b>similar to adults'</b>. Frequency, amount, and consistency vary from child to child.</p><p>Adult risk factors start to show up. Being \"too busy,\" fear of a painful BM, or embarrassment about school bathrooms can lead children to hold stool. Held stool dries out and gets hard. Fast food with few fruits, vegetables, and little water adds to it. Teach fiber, water, activity, and never ignoring the urge.</p>",
      "check": {
       "q": "A 9-year-old has hard stools and never uses the school bathroom. What is the link?",
       "a": "Holding stool lets it dry out and harden, causing constipation. Teach not to ignore the urge, plus fiber, water, and activity."
-     }
+     },
+     "source": "Elimination slide 35; Exemplars slides 37–38"
     },
     {
      "heading": "How does pregnancy change the bowel?",
@@ -1343,12 +1387,13 @@ window.NURSE_DATA.push({
       "<b>Pain delays elimination:</b> a sore perineum, stitches, or hemorrhoids make her afraid to go. Delay hardens stool and makes the next BM worse.",
       "<b>Gas after cesarean birth:</b> surgery and anesthesia slow peristalsis. Early, frequent walking helps most."
      ],
-     "example": "On day 1 after birth, a client with a perineal tear is afraid to have a BM. You give pain medicine as ordered and the stool softener if ordered. You encourage fluids, fiber, and walking. You explain that soft stool makes the first BM less painful. You never advise her to wait."
+     "example": "On day 1 after birth, a client with a perineal tear is afraid to have a BM. You give pain medicine as ordered and the stool softener if ordered. You encourage fluids, fiber, and walking. You explain that soft stool makes the first BM less painful. You never advise her to wait.",
+     "source": "Elimination slide 37; Exemplars slide 39"
     },
     {
      "heading": "Why are older adults often constipated?",
      "keyIdea": "Low activity, low fluid and fiber, weak muscles, and medications slow the bowel, and laxative overuse makes it worse.",
-     "body": "<p>Constipation is common in older adults. Four causes explain most of it. Many older adults also believe they need a BM every day. Teach that normal varies, and every day is not required.</p>",
+     "body": "<p>Constipation is common in older adults. The exemplar puts it at 24–50%. The course lists four main causes. Many older adults also believe they need a BM every day. Teach that normal varies, and every day is not required.</p>",
      "table": {
       "caption": "Why older adults get constipated",
       "headers": [
@@ -1387,13 +1432,15 @@ window.NURSE_DATA.push({
      "check": {
       "q": "An older adult takes a stimulant laxative every night and says it works less well now. What is happening?",
       "a": "Routine use weakens the bowel's natural reflexes, so constipation can get worse. Teach natural measures and report the laxative use to the provider."
-     }
+     },
+     "source": "Elimination slide 38; Exemplars slide 39"
     },
     {
      "heading": "When is a bowel change a warning sign?",
      "keyIdea": "A change in an older adult's bowel habits lasting weeks must be referred, never written off as aging.",
      "body": "<p>A change in bowel habits over <b>weeks</b> should be referred to the primary care provider. Examples are new constipation, new diarrhea, thinner stools, or blood in the stool. These can be early signs of a serious problem such as colorectal cancer. Its risk rises with age.</p><p><b>Fecal incontinence</b> is not a normal part of aging either. It usually signals another problem that can often be treated. Refer it for evaluation, rather than just supplying briefs.</p>",
-     "example": "A 74-year-old says her stools have been thinner for a month. She also has constipation that switches with loose stools. She shrugs it off as age. You urge her to see her primary care provider soon, and you document and report it."
+     "example": "A 74-year-old says her stools have been thinner for a month. She also has constipation that switches with loose stools. She shrugs it off as age. You urge her to see her primary care provider soon, and you document and report it.",
+     "source": "Elimination slide 38; Exemplars slide 41 (cancer link added)"
     },
     {
      "heading": "Common traps",
@@ -1435,7 +1482,8 @@ window.NURSE_DATA.push({
         "Distention, vomiting, and no flatus are urgent. They outrank slow, chronic changes in an older adult."
        ]
       ]
-     }
+     },
+     "source": "Added: NCLEX look-alikes based on Elimination slides 35–38"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1454,7 +1502,8 @@ window.NURSE_DATA.push({
       "<b>Why the wrong options are wrong:</b> A and C are normal stools. D is still within the 36–48 month range.",
       "<b>The answer is B.</b> These signs suggest intussusception. Call back first and send the child for prompt care.",
       "<b>Reusable strategy:</b> rule out the options that are normal for that age. The one left is usually the priority."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: an older adult and laxatives",
@@ -1470,7 +1519,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Mrs. Price asks to double her laxative dose. What is your best response?",
       "a": "Do not raise the dose. Explain that more laxative can worsen the problem, teach natural measures, and report her laxative use and stool change to the provider."
-     }
+     },
+     "source": "Added: worked example based on Elimination slide 38; Exemplars slide 39"
     }
    ],
    "pearls": [

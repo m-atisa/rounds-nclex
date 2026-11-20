@@ -38,7 +38,7 @@
     },
     {
      "term": "Board of Nursing (BON)",
-     "def": "The state agency that enforces the NPA. It licenses nurses, approves who may take the NCLEX, and investigates and disciplines misconduct."
+     "def": "The state agency that enforces the NPA. It licenses nurses, administers the NCLEX (decides who may test), and investigates and disciplines misconduct."
     },
     {
      "term": "Licensure",
@@ -81,6 +81,7 @@
     {
      "heading": "What is a Nurse Practice Act?",
      "keyIdea": "The Nurse Practice Act is a state law that defines nursing and is enforced by that state’s Board of Nursing.",
+     "source": "Legal Issues slide 12; Module 49 study guide, pp. 2826, 2830",
      "body": "<p>A <b>Nurse Practice Act (NPA)</b> is a state law that regulates the practice of nursing. Every state has one. A legislature passes it, so it is a statutory law.</p><p>The NPA tells you what nursing is in that state. It sets the rules for getting and keeping a license. It also lists what can get a nurse disciplined. Each state’s Board of Nursing enforces it.</p><p>Why does this matter to the client? The NPA is how the public knows a nurse is safe. It is also the main basis of the legal standard of care. A judge or the Board asks, “What does the NPA allow a nurse to do?”</p>",
      "bullets": [
       "Defines the scope of practice: what an RN or LPN may legally do.",
@@ -99,10 +100,11 @@
     {
      "heading": "What does the Board of Nursing do?",
      "keyIdea": "The Board of Nursing licenses nurses and disciplines misconduct to protect the public, not to protect nurses.",
-     "body": "<p>The <b>state Board of Nursing (BON)</b> oversees licensure and regulation of nurses. It is an administrative agency. That means the legislature gave it power to write rules that carry out the NPA.</p><p>The Board decides who may sit for the licensure exam, the NCLEX. It issues licenses to those who pass. It also takes complaints, investigates, and disciplines nurses who break the NPA or its rules.</p><p>Discipline follows due process. The nurse gets notice and a chance to respond before the Board acts.</p>",
+     "source": "Legal Issues slide 13; Module 49 study guide, p. 2826 (Board actions table added for the NCLEX)",
+     "body": "<p>The <b>state Board of Nursing (BON)</b> oversees licensure and regulation of nurses. It is an administrative agency. The legislature gave it power to interpret and enforce the NPA through rules.</p><p>Your slides say the Board “administers the licensure exam (NCLEX).” In practice, this means the Board decides who may sit for the NCLEX. It issues licenses to those who pass. It also investigates and disciplines professional misconduct.</p><p>Discipline follows due process. The nurse gets notice and a chance to respond before the Board acts.</p>",
      "bullets": [
       "Oversees licensure and regulation of nurses.",
-      "Approves who may take the NCLEX and grants the license after passing.",
+      "Administers the licensure exam (NCLEX): approves who may test and grants the license after passing.",
       "Investigates complaints of professional misconduct.",
       "Disciplines nurses who violate the NPA.",
       "Approves nursing education programs in the state."
@@ -144,7 +146,8 @@
     {
      "heading": "What can cost a nurse the license?",
      "keyIdea": "Boards discipline unsafe practice and dishonest or illegal conduct, and nurses must report NPA violations they see.",
-     "body": "<p>Each NPA lists grounds for discipline. They fall into two groups: unsafe practice and bad conduct. Both can lead to Board action, even if no client was hurt.</p><p>Nurses also have a duty to report. If you see a colleague practicing while impaired, unsafe, or unethical, it is reported to the Board of Nursing. Use your agency’s chain of command too. Mandatory reporting is taught fully in Exemplar 49.D.</p>",
+     "source": "Legal Issues slides 13, 27; Module 49 study guide, p. 2827 (grounds list added for the NCLEX)",
+     "body": "<p>Each NPA lists grounds for discipline. They fall into two groups: unsafe practice and bad conduct. Both can lead to Board action, even if no client was hurt.</p><p>Nurses also have a duty to report. Violations of the NPA must be reported. Impaired, unsafe, or unethical nursing practice is reported to the Board of Nursing. Use your agency’s chain of command too. Mandatory reporting is taught fully in Exemplar 49.D.</p>",
      "bullets": [
       "Practicing beyond your scope, or without a valid license.",
       "Practicing while impaired by alcohol or drugs.",
@@ -159,7 +162,8 @@
     {
      "heading": "What is a nolo contendere plea?",
      "keyIdea": "Nolo contendere means “no contest”: the nurse does not admit guilt but accepts punishment, and Boards treat it like a guilty plea.",
-     "body": "<p><b>Nolo contendere</b> is Latin for “I do not wish to contend.” People call it a plea of “no contest.” The person does not admit guilt. But they accept the punishment the court gives.</p><p>Many people think this plea keeps their record clean. For a nurse, it does not. In Board actions, a no-contest plea is treated much like a guilty plea. Licensing boards usually ask about it on applications and renewals.</p><p>The safe rule: always disclose it. Hiding a plea or conviction from the Board is its own form of fraud.</p>",
+     "source": "Legal Issues slide 13",
+     "body": "<p><b>Nolo contendere</b> is Latin for “I do not wish to contend.” People call it a plea of “no contest.” The person does not admit guilt. But they accept the punishment the court gives.</p><p>Many people think this plea keeps their record clean. For a nurse, it does not. Your slides say it is treated similarly to a guilty plea in Board actions. Licensing boards usually ask about it on applications and renewals.</p><p>The safe rule: always disclose it. Hiding a plea or conviction from the Board is its own form of fraud.</p>",
      "example": "A nurse is charged after a bar fight. Her lawyer suggests a no-contest plea. When she renews her license, the form asks about convictions and no-contest pleas. She must answer yes and explain. Leaving it off could be treated as fraud.",
      "check": {
       "q": "A new graduate pleaded nolo contendere to a shoplifting charge last year. He thinks he does not need to report it on his license application. Is he right?",
@@ -169,7 +173,8 @@
     {
      "heading": "What does the NCSBN do?",
      "keyIdea": "The NCSBN is a national nonprofit of state boards; it develops the NCLEX but does not issue your license.",
-     "body": "<p>The <b>National Council of State Boards of Nursing (NCSBN)</b> is a national nonprofit. Its members are the state Boards of Nursing. It is not a government agency, and it does not license anyone.</p><p>The NCSBN develops the licensure exams, the NCLEX-RN and NCLEX-PN. It also led the design of the <b>Next Generation NCLEX (NGN)</b>, which started in April 2023. The NGN tests clinical judgment with case-based questions. That is exactly the skill of applying what you know.</p><p>The NCSBN also offers continuing education, research, and policy guidance for safe practice. It runs Nursys, a national database where employers can check a nurse’s license.</p>",
+     "source": "Legal Issues slides 13–14 (NGN judgment steps and Nursys added for the NCLEX)",
+     "body": "<p>The <b>National Council of State Boards of Nursing (NCSBN)</b> is a national nonprofit. Its members are the state Boards of Nursing. It is not a government agency, and it does not license anyone.</p><p>The NCSBN develops the licensure exams, the NCLEX-RN and NCLEX-PN. It also oversees the design of the <b>Next Generation NCLEX (NGN)</b>, which started in April 2023. The NGN tests clinical judgment with case-based questions. That is exactly the skill of applying what you know.</p><p>The NCSBN also offers continuing education, research, and policy guidance for safe practice. It runs Nursys, a national database where employers can check a nurse’s license.</p>",
      "steps": [
       "Recognize cues: what matters in the data?",
       "Analyze cues: what could the data mean?",
@@ -203,8 +208,8 @@
        ],
        [
         "NCLEX role",
-        "Decides who is eligible to test",
-        "Develops the exam, including the NGN"
+        "Administers the exam, per your slides: decides who may test",
+        "Develops the exam; oversees the NGN design"
        ],
        [
         "Other jobs",
@@ -221,6 +226,7 @@
     {
      "heading": "How does the Nurse Licensure Compact work?",
      "keyIdea": "One multistate license lets you practice in all compact states, but only if you legally live in a compact state.",
+     "source": "Legal Issues slide 15 (client-location rule added for the NCLEX)",
      "body": "<p>The <b>Nurse Licensure Compact (NLC)</b> is an agreement among member states. It uses a <b>mutual recognition model</b>. Each member state honors a multistate license issued by another member state.</p><p>With one multistate license, you may practice in other NLC states. That includes being there in person or giving care by telehealth, such as a phone or video visit.</p><p>There is one key rule. You must legally reside in an NLC state to hold a compact license. Your license comes from your primary state of residence. If you move to another compact state, you apply for a license there.</p><p>Where is care given? Where the client is located. So you follow the practice laws of the client’s state.</p>",
      "bullets": [
       "One multistate license, issued by your home state.",
@@ -239,7 +245,8 @@
     {
      "heading": "License vs. certification: what is the difference?",
      "keyIdea": "A license is the legal, required permission to practice; certification is an optional credential showing specialty skill.",
-     "body": "<p><b>Credentialing</b>, as your course uses it, is the legal authorization to practice. That is your state-issued license. You cannot practice as an RN without it.</p><p><b>Certification</b> is different. It is an optional credential awarded by a professional organization. It shows specialty competence. Nurses usually earn it with work experience and a national exam, then renew it over time.</p><p>Certification shows higher-level knowledge and skill. Some employers prefer or require it. But it does not widen an RN’s legal scope of practice. Only the NPA sets scope.</p>",
+     "source": "Legal Issues slide 16",
+     "body": "<p><b>Credentialing</b>, as your course uses it, is the legal authorization to practice. That is your state-issued license. You cannot practice as an RN without it.</p><p><b>Certification</b> is different. It is an optional credential awarded by a professional organization. It shows specialty competence. Nurses usually earn it with work experience and a national exam, then renew it over time.</p><p>It demonstrates higher-level knowledge and skill. Examples are CEN, CCRN, and CMSRN. Some employers prefer or require it. But it does not widen an RN’s legal scope of practice. Only the NPA sets scope.</p>",
      "table": {
       "caption": "License vs. certification",
       "headers": [
@@ -283,6 +290,7 @@
     {
      "heading": "Your roles as a student nurse",
      "keyIdea": "Students are held to the same standard as a licensed RN, so you are accountable for safe, prepared care.",
+     "source": "Legal Issues slide 17; Module 49 study guide, pp. 2827, 2834",
      "body": "<p>As a student, you give real care to real clients. The law does not lower the bar for you. Your course study guide says students are held to the same standard as an experienced licensed nurse. The public relies on that skill. “I’m just a student” is never a defense.</p><p>You practice under your instructor’s supervision. But you are still accountable for your own actions. Your slides list what you are accountable for.</p>",
      "bullets": [
       "Provide safe nursing care.",
@@ -301,6 +309,7 @@
     {
      "heading": "What to do when you are not ready",
      "keyIdea": "When a skill is new or unclear, stop and get help first; if your instructor is unavailable, the staff nurse does it.",
+     "source": "Added: worked example based on Legal Issues slide 17",
      "body": "<p>The hardest moment for a student is being asked to do something you are not ready for. You may feel pressure from a busy nurse. You may not want to look unprepared. But acting outside your competence puts the client at risk. It also breaches the standard of care.</p><p>Use these steps every time. Saying “not yet” is a safety skill, not a weakness.</p>",
      "steps": [
       "Pause before you start.",
@@ -315,6 +324,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most wrong answers mix up who licenses, who writes the exam, and what a license or certification allows.",
+     "source": "Legal Issues slides 13–17; Module 49 study guide, pp. 2830, 2834 (client-location trap added)",
      "body": "<p>These mix-ups show up on exams again and again. Learn the right side of each pair.</p>",
      "table": {
       "caption": "Trap vs. truth",
@@ -361,6 +371,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "NCLEX items ask what the safe, legal nurse does next; pick the answer that protects the client and stays within scope.",
+     "source": "Added: worked example based on Legal Issues slide 17",
      "body": "<p>The NCLEX will not ask you to recite your state’s NPA. It asks you to choose the safe, legal action. Here is a sample item.</p><p><b>Question:</b> A nursing student is asked by a staff nurse to insert a nasogastric (NG) tube. The student has not yet been checked off on this skill. The clinical instructor is off the unit. What should the student do?</p><p>A. Insert the tube carefully, following the procedure manual.<br>B. Tell the staff nurse she has not learned it, and let the staff nurse insert it.<br>C. Ask another student who has done it to help her insert it.<br>D. Insert the tube, then tell the instructor afterward.</p>",
      "steps": [
       "Find the issue: a skill the student has not learned, with no instructor present.",
@@ -373,6 +384,7 @@
     {
      "heading": "Worked case: the compact nurse who moves",
      "keyIdea": "Apply the rules in order: who licenses you, where you live, where the client is, and what your scope allows.",
+     "source": "Added: worked example based on Legal Issues slides 13, 15–16",
      "body": "<p>Dana is an RN with a multistate license from North Carolina, where she lives. She has a CMSRN certification. She plans to take a travel job in a compact state. Later she may move to a non-compact state. She also once pleaded no contest to a reckless driving charge.</p><p>Walk through her questions one at a time.</p>",
      "steps": [
       "Can she work in another compact state on her NC multistate license? Yes. She follows that state’s practice laws while she works there.",
@@ -389,6 +401,7 @@
     {
      "heading": "North Carolina practice note",
      "keyIdea": "In NC, the NCBON enforces the NC Nursing Practice Act, and NC is a Nurse Licensure Compact state.",
+     "source": "Added for NC practice — not in course materials",
      "body": "<p>The NCLEX will not ask NC law. But you will practice here, so know these facts.</p>",
      "bullets": [
       "The North Carolina Board of Nursing (NCBON) regulates nursing under the NC Nursing Practice Act: N.C. Gen. Stat. Chapter 90, Article 9A, G.S. 90-171.19 et seq.",
@@ -408,8 +421,10 @@
       "Slide 12: NPA overview. Slide 13: Board of Nursing and nolo contendere. Slide 14: NCSBN. Slide 15: Nurse Licensure Compact. Slide 16: credentialing and certification. Slide 17: student roles.",
       "Course vs. current (slide 13): Your course materials say the Board of Nursing “administers the licensure exam (NCLEX).” Current standard: the NCSBN develops the NCLEX and a testing vendor delivers it. Your Board decides who may test and grants the license. On a course exam expect “the BON administers the NCLEX”; on the NCLEX, the Board licenses and the NCSBN writes the exam.",
       "Course vs. current (slide 16): Your course materials say credentialing is the legal authorization to practice (the state license). Current standard: credentialing is the wider process of checking a nurse’s qualifications. Licensure is the legal permission to practice. On a course exam expect “credentialing = legal authorization (license)”; on the NCLEX, licensure is the legal permission and certification is voluntary.",
-      "Added for application: Board actions, grounds for discipline, the six NGN clinical judgment steps, Nursys, and the rule to follow the practice laws of the state where the client is. These are standard national facts."
-     ]
+      "Added for application: Board actions, grounds for discipline, due process, the six NGN clinical judgment steps, Nursys, and the rule to follow the practice laws of the state where the client is. These are standard national facts."
+     ],
+     "keyIdea": "This shows where each part of the lesson comes from and where the course wording differs from current practice.",
+     "source": "Legal Issues slides 11–17; Module 49 study guide, pp. 2826–2830"
     }
    ],
    "pearls": [
@@ -525,7 +540,8 @@
     {
      "heading": "What is an advance directive?",
      "keyIdea": "An advance directive is a legal document stating a person’s treatment wishes for when they cannot speak for themselves.",
-     "body": "<p>A <b>health care advance directive</b> is a legal document. It states a person’s wishes for medical treatment. It is used when they cannot communicate their own preferences.</p><p>Why does it matter? It protects <b>autonomy</b>, the client’s right to decide about their own care. It also eases family conflict. Families do not have to guess what their loved one wanted.</p><p>When does it apply? Only when the client lacks capacity to decide or cannot communicate. While the client can still make and voice a choice, you ask the client. The paper waits in the chart until it is needed.</p>",
+     "source": "Legal Issues slide 19; Module 49 study guide, p. 2829",
+     "body": "<p>A <b>health care advance directive</b> is a legal document. It states a person’s wishes for medical treatment. It is used when they cannot communicate their own preferences.</p><p>Why does it matter? It protects <b>autonomy</b>, the client’s right to decide about their own care. It also gives peace of mind and eases family conflict during a health crisis. Families do not have to guess what their loved one wanted.</p><p>When does it apply? Only when the client lacks capacity to decide or cannot communicate. While the client can still make and voice a choice, you ask the client. The paper waits in the chart until it is needed.</p>",
      "bullets": [
       "It is written ahead of time, while the person has capacity.",
       "It guides care only when the person cannot decide or speak.",
@@ -541,7 +557,8 @@
     {
      "heading": "What does the PSDA require?",
      "keyIdea": "The PSDA makes facilities that take Medicare or Medicaid tell adults in writing about their right to advance directives.",
-     "body": "<p>The <b>Patient Self-Determination Act (PSDA)</b> is a federal law passed in 1990. It applies to hospitals, nursing homes, home health agencies, hospices, and similar groups that take Medicare or Medicaid funds.</p><p>The law does not force anyone to have an advance directive. It makes sure people know they can make one. In many agencies, nurses help carry out these duties at admission.</p>",
+     "source": "Legal Issues slide 19; Module 49 study guide, p. 2829 (PSDA duties list added for the NCLEX)",
+     "body": "<p>The <b>Patient Self-Determination Act (PSDA)</b> is a federal law passed in 1990. It applies to hospitals, nursing homes, home health agencies, hospices, and similar groups that take Medicare or Medicaid funds.</p><p>Your study guide says these facilities are legally responsible to give advance directive information and to support clients’ advance directive needs.</p><p>The law does not force anyone to have an advance directive. It makes sure people know they can make one. In many agencies, nurses help carry out these duties at admission.</p>",
      "bullets": [
       "Tell each adult client, in writing at admission, their rights to accept or refuse care and to make an advance directive.",
       "Ask whether the client has an advance directive, and document the answer in the record.",
@@ -558,7 +575,8 @@
     {
      "heading": "Living will vs. power of attorney for health care",
      "keyIdea": "A living will states which treatments a client wants; a power of attorney for health care names who will decide.",
-     "body": "<p>There are two main types of advance directive. One records <b>what</b> the client wants. The other names <b>who</b> will speak for the client.</p><p>A <b>living will</b> specifies which treatments the client wants to accept or refuse. Common examples are CPR, tube feeding, and ventilation.</p><p>A <b>durable power of attorney for health care</b> names a trusted person, called a <b>health care proxy</b>, to make decisions if the client cannot. “Durable” means it stays in effect after the client loses capacity. Many people have both, so the proxy follows the living will.</p>",
+     "source": "Legal Issues slide 19",
+     "body": "<p>There are two main types of advance directive. One records <b>what</b> the client wants. The other names <b>who</b> will speak for the client.</p><p>A <b>living will</b> specifies which treatments the client wants to accept or refuse. Common examples are CPR, tube feeding, and ventilation.</p><p>A <b>durable power of attorney for health care</b> appoints a trusted person, called a <b>health care proxy</b>, to make health care decisions if the client becomes unable. “Durable” means it stays in effect after the client loses capacity. Many people have both. Then the proxy follows the living will.</p>",
      "table": {
       "caption": "The two main types of advance directive",
       "headers": [
@@ -602,6 +620,7 @@
     {
      "heading": "What can the health care proxy do?",
      "keyIdea": "A designated decision-maker can make the health choices the client would make, based on the client’s wishes, not their own.",
+     "source": "Legal Issues slide 20 (substituted judgment added for the NCLEX)",
      "body": "<p>The proxy, or designated decision-maker, steps in only when the client cannot decide. Your slides list what an advance directive allows that person to do.</p><p>The proxy should decide as the client would have decided. This is called substituted judgment. If the client’s wishes are unknown, the proxy decides based on the client’s best interests. Either way, the proxy’s own preferences do not replace the client’s.</p>",
      "bullets": [
       "Consent to or refuse treatments or procedures.",
@@ -619,7 +638,8 @@
     {
      "heading": "What is the Five Wishes document?",
      "keyIdea": "Five Wishes is a plain-language advance directive covering a decision-maker, treatments, comfort, dignity, and messages to loved ones.",
-     "body": "<p><b>Five Wishes</b> is a popular advance directive form written in everyday language. It covers medical choices and personal and spiritual wishes too. Many families find it easier to talk about than legal forms.</p><p>It meets legal requirements in most states. Where it does not, it can be used alongside the state’s official forms. Always check your state’s rules and agency policy.</p>",
+     "source": "Legal Issues slide 20 (the five topics added for the NCLEX)",
+     "body": "<p>Your slides name the <b>Five Wishes</b> document. It is a popular advance directive form written in everyday language. It covers medical choices and personal and spiritual wishes too. Many families find it easier to talk about than legal forms.</p><p>It meets legal requirements in most states. Where it does not, it can be used alongside the state’s official forms. Always check your state’s rules and agency policy.</p>",
      "bullets": [
       "Wish 1: The person I want to make care decisions for me when I can’t.",
       "Wish 2: The kind of medical treatment I want or don’t want.",
@@ -632,6 +652,7 @@
     {
      "heading": "Is a living will the same as a DNR?",
      "keyIdea": "An advance directive states the client’s wishes; a DNR or MOST form is a provider’s medical order that staff can follow.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>No. This is a key difference. An advance directive is the client’s own statement of wishes. A <b>do-not-resuscitate (DNR) order</b> is a medical order written by a provider. It tells staff not to start CPR if the heart or breathing stops.</p><p>A living will refusing CPR does not, by itself, stop the code team. The provider must write the order, based on the client’s wishes. If you find a directive with no matching order, tell the provider.</p><p>A DNR is not “do not treat.” A client with a DNR still gets full nursing care, pain control, and other treatments they want. Many states also use a portable medical order form. In North Carolina, it is the MOST form.</p>",
      "table": {
       "caption": "Wishes vs. orders",
@@ -666,6 +687,7 @@
     {
      "heading": "Clients can change their minds",
      "keyIdea": "A client with capacity may change or cancel an advance directive at any time, even moments before a procedure.",
+     "source": "Legal Issues slide 21",
      "body": "<p>An advance directive is never locked in. A client with capacity can change their mind at any time. This can happen even moments before a procedure.</p><p>Why? Autonomy belongs to the living person in front of you, not to an old paper. People change their views when an illness changes or when they learn more.</p><p>What does the nurse do? Stop and listen. Do not argue or proceed. Notify the provider right away, and document the client’s exact words. Help the client update the directive if they wish.</p>",
      "steps": [
       "Stop the procedure or plan if the client says they have changed their mind.",
@@ -678,8 +700,9 @@
     },
     {
      "heading": "The nurse’s role with advance directives",
-     "keyIdea": "Ask about directives, get them on the chart, check understanding, and advocate when care does not match the client’s wishes.",
-     "body": "<p>Your slides list key nursing duties. First, know that clients can change their minds at any time. Second, assess the client’s and family’s understanding of two things.</p><p>Do they understand life-sustaining treatments? Many people do not know what CPR or a ventilator really involves. And do they understand what the directive actually covers? A living will may cover CPR but say nothing about dialysis.</p><p>Use plain words and teach-back. Clear up wrong ideas, like “DNR means they stop caring for him.” Refer to the provider, social work, or chaplain for deeper questions.</p>",
+     "keyIdea": "Ask about directives, check understanding, know your own biases, and advocate when care does not match the client’s wishes.",
+     "source": "Legal Issues slide 21; Module 49 study guide, p. 2829",
+     "body": "<p>Your slides list three nursing duties. First, know that clients can change their minds at any time. Second, assess the client’s and family’s understanding of two things, shown below. Third, know who decides when there is no proxy. That is the next section.</p><p>Do they understand life-sustaining treatments? Many people do not know what CPR or a ventilator really involves. And do they understand what the directive actually covers? A living will may cover CPR but say nothing about dialysis.</p><p>Use plain words and teach-back. Clear up wrong ideas, like “DNR means they stop caring for him.” Refer to the provider, social work, or chaplain for deeper questions.</p>",
      "bullets": [
       "Ask every adult on admission if they have an advance directive. Document the answer.",
       "Get a copy on the chart, and make sure the team knows the proxy’s name.",
@@ -687,7 +710,10 @@
       "Assess understanding of what the directive does and does not cover.",
       "Tell the provider if a directive has no matching orders.",
       "Advocate when care does not match the client’s known wishes.",
-      "Check agency policy before witnessing a directive. Many agencies do not let caregiving staff witness."
+      "Check agency policy before witnessing a directive. Many agencies do not let caregiving staff witness.",
+      "Assess your own assumptions or biases about end-of-life care.",
+      "Know the appropriate end-of-life care options, and anticipate what else clients and families may need to know.",
+      "Ask your supervisor or peers for support when you advocate for end-of-life care."
      ],
      "check": {
       "q": "A daughter says, “If Mom has a DNR, they won’t give her antibiotics for pneumonia anymore.” What does the nurse do?",
@@ -697,9 +723,10 @@
     {
      "heading": "No proxy? Who decides?",
      "keyIdea": "If a client lacks capacity and has no named proxy, state law sets the order of surrogates who may decide.",
-     "body": "<p>Some clients lose capacity without naming a proxy. Then someone else must decide. Your slides say the state may appoint a surrogate according to a legal hierarchy.</p><p>In practice, state law lists who may serve, in order. Usually no court is needed. A court-appointed guardian is used when the law requires one, no one is available, or there is a dispute. Exact rules vary by state, so follow your state’s law and agency policy.</p><p>Like a proxy, the surrogate decides as the client would have wanted. Your course study guide adds that a court-appointed guardian must give staff a copy of the court order.</p>",
+     "source": "Legal Issues slide 21; Module 49 study guide, pp. 2831–2832 (typical surrogate order added for the NCLEX)",
+     "body": "<p>Some clients lose capacity without naming a proxy. Capacity is decision-specific and can change over time. If competency is in question, alert the provider. Your study guide says to use a surrogate per agency policy when capacity is lacking or unclear.</p><p>Who is the surrogate? Your slides say the state may appoint a surrogate according to a legal hierarchy. In practice, state law lists who may serve, in order. Usually no court is needed. Follow your state’s law and agency policy.</p><p>A court appoints a legal guardian for an adult declared legally incompetent. The guardian must give staff a copy of the court order. Like a proxy, any surrogate decides as the client would have wanted.</p>",
      "bullets": [
-      "A court-appointed guardian or a named health care agent comes first. The exact order depends on state law.",
+      "First, a court-appointed guardian, if there is one. The exact order depends on state law.",
       "Then a spouse.",
       "Then adult children.",
       "Then parents.",
@@ -714,6 +741,7 @@
     {
      "heading": "Common traps",
      "keyIdea": "Most traps confuse wishes with orders, the paper with the person, or the proxy’s wishes with the client’s.",
+     "source": "Legal Issues slides 19–21; Module 49 study guide, p. 2829 (DNR trap added for the NCLEX)",
      "body": "<p>Watch for these on exams and at the bedside.</p>",
      "table": {
       "caption": "Trap vs. truth",
@@ -756,6 +784,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "NCLEX items reward the nurse who honors the client’s current or written wishes and gets the provider involved.",
+     "source": "Added: worked example based on Legal Issues slides 19–21",
      "body": "<p>Advance directive items test advocacy and correct roles. Here is a sample item.</p><p><b>Question:</b> A client with a living will refusing tube feeding has had a stroke and cannot speak. His named health care proxy, his wife, agrees with the living will. His son demands a feeding tube. What is the nurse’s best action?</p><p>A. Prepare for tube placement, since the son is upset.<br>B. Tell the son the living will and the proxy guide care, and notify the provider.<br>C. Ask the son and wife to vote on the decision.<br>D. Hold all nutrition until the family agrees.</p>",
      "steps": [
       "Find the issue: the client cannot decide, and family members disagree.",
@@ -769,6 +798,7 @@
     {
      "heading": "Worked case: Ms. Ruiz’s directive",
      "keyIdea": "Work through capacity first, then the client’s wishes, then the proxy, then orders, and document every step.",
+     "source": "Added: worked example based on Legal Issues slides 19–21",
      "body": "<p>Ms. Ruiz, 82, is admitted with pneumonia. She is alert and oriented. She says she has a health care power of attorney naming her niece, and a living will refusing CPR and ventilation. Two days later, she becomes confused and drowsy. Her oxygen level drops.</p>",
      "steps": [
       "On admission: ask about directives, give PSDA written information, and request copies for the chart.",
@@ -786,6 +816,7 @@
     {
      "heading": "North Carolina practice note",
      "keyIdea": "In NC, the two main directives are the Health Care Power of Attorney and the living will; the MOST is a provider order.",
+     "source": "Added for NC practice — not in course materials",
      "body": "<p>The NCLEX tests national principles. These NC names help you in practice here.</p>",
      "bullets": [
       "Health Care Power of Attorney (HCPOA), under G.S. Chapter 32A, Article 3. This is NC’s version of the durable power of attorney for health care. The named person is the health care agent.",
@@ -797,13 +828,15 @@
     },
     {
      "heading": "Course source & clinical clarification",
-     "body": "<p>Source: Legal Issues PowerPoint (Module 49), slides 18–21, Exemplar 49.B Advance Directives. Related: Module 49 study guide pp. 2826 (natural death acts as statutory law), 2829 (Comfort: hospitals taking Medicare or Medicaid must give advance directive information), and 2832 (competency, guardians, surrogates). Module 42 Accountability slide 17 also covers the PSDA.</p>",
+     "body": "<p>Source: Legal Issues PowerPoint (Module 49), slides 18–21, Exemplar 49.B Advance Directives. Related: Module 49 study guide pp. 2826 (natural death acts as statutory law), 2829 (Comfort: hospitals taking Medicare or Medicaid must give advance directive information), 2831 (surrogate when capacity is unclear), and 2832 (competency, guardians). Module 42 Accountability slide 17 also covers the PSDA.</p>",
      "bullets": [
       "Slide 19: definition, PSDA, living will, durable power of attorney for health care (health care proxy). Slide 20: what the decision-maker may do; Five Wishes. Slide 21: role of the nurse.",
       "Course vs. current (slide 21): Your course materials say the state may appoint a surrogate according to a legal hierarchy. Current standard: state law names who may serve as surrogate, in order, usually without court action. A court appoints a guardian only when the law requires it, no one is available, or there is a dispute. On a course exam expect “the state appoints a surrogate by legal hierarchy”; on the NCLEX, follow the legal order of surrogates.",
       "NC naming: Your course materials say “Durable Power of Attorney for Healthcare.” Current NC standard: the same document is called the Health Care Power of Attorney (HCPOA). It serves the same purpose.",
       "Added for application: PSDA facility duties, wishes vs. medical orders (DNR, MOST), substituted judgment, the Five Wishes topics, and a typical surrogate order. These are standard national facts."
-     ]
+     ],
+     "keyIdea": "This shows where each part of the lesson comes from and where the course wording differs from current practice.",
+     "source": "Legal Issues slides 18–21; Module 49 study guide, pp. 2826, 2829, 2831–2832"
     }
    ],
    "pearls": [

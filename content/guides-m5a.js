@@ -23,7 +23,7 @@ window.NURSE_DATA.push({
     "Elimination means getting rid of body waste. The kidneys remove dissolved waste and extra fluid; the bowel removes leftover solids.",
     "Healthy kidneys keep ion levels right for nerves, muscles, the heart, bones, cell repair, and blood pressure.",
     "Urine path: kidneys (nephrons) → ureters → bladder (detrusor muscle) → urethra.",
-    "Minimum urine output is 0.5 mL/kg/hr. Many nurses use 30 mL/hr as the average adult minimum.",
+    "Expected urine output is 0.5 mL/kg/hr. The slides use 30 mL/hr as an average normal output.",
     "Oliguria is less than 400 mL/day or 30 mL/hr. Anuria is less than 100 mL/day. Report both.",
     "Polyuria is a large total volume. Frequency is voiding often, often with a normal total.",
     "Frequency, urgency, and dysuria point to a bladder infection. Fever with flank pain suggests the kidney is involved.",
@@ -123,6 +123,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What does urinary elimination do?",
      "keyIdea": "The kidneys remove dissolved waste and extra fluid from the blood; the bowel removes leftover solids.",
+     "source": "Elimination slide 3",
      "body": "<p>Your slides define <b>elimination</b> as the secretion and excretion of body waste by the kidneys and intestines. In plain words, the body makes waste, and two systems get rid of it.</p><p>Each system removes something different.</p>",
      "bullets": [
       "<b>Urinary elimination</b> removes solute waste from the blood. Solutes are dissolved wastes, such as urea and creatinine.",
@@ -138,11 +139,12 @@ window.NURSE_DATA.push({
     {
      "heading": "Why do healthy kidneys matter?",
      "keyIdea": "When the kidneys fail, the whole body feels it: nerves, muscles, the heart, bones, and blood pressure.",
-     "body": "<p>Urine is not just a waste stream. By choosing what to keep and what to let go, the kidneys control the makeup of the blood. They also get rid of extra fluid and electrolytes.</p><p>Your slides list what depends on the kidneys keeping ion levels right.</p>",
+     "source": "Elimination slide 4",
+     "body": "<p>Urine is not just a waste stream. By choosing what to keep and what to let go, the kidneys control the concentration and makeup of the blood. They also get rid of extra fluid and electrolytes.</p><p>Your slides list what depends on the kidneys keeping ion levels right.</p>",
      "bullets": [
       "<b>Nerve and muscle function</b>: nerves and muscles, including the heart, need the right sodium, potassium, and calcium.",
       "<b>Bone strength</b>: the kidneys help balance calcium and phosphate.",
-      "<b>Cell repair</b>: cells need a stable setting to repair and replace themselves.",
+      "<b>Cellular regeneration</b> (cell repair): cells need a stable setting to repair and replace themselves.",
       "<b>Blood pressure</b>: by keeping or releasing water and sodium, the kidneys keep pressure steady. Then oxygen and nutrients reach the tissues."
      ],
      "example": "<b>At the bedside:</b> A client with kidney failure missed two dialysis visits. Both legs are swollen, the BP is 172/98, and the potassium keeps climbing. None of these look like a bladder problem. All come from kidneys that cannot remove potassium, water, and sodium. The high potassium is the most dangerous finding, because it affects the heart muscle."
@@ -150,6 +152,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How is urine made and released?",
      "keyIdea": "Normal voiding needs three things: kidneys that make urine, nerves that sense fullness, and muscles with good tone.",
+     "source": "Elimination slides 5, 8 (Figure 5.1, p. 295); structure details added from basic A&P",
      "body": "<p>Urine follows one path, shown in the steps below. As the bladder fills and stretches, nerves in its wall tell the brain it is getting full. The brain decides if it is a good time to go.</p><p>When it is, the <b>detrusor muscle</b> squeezes and the <b>sphincters</b> relax. Urine flows out. Until then, the brain keeps the sphincters closed.</p><p>Normal urine is clear and pale yellow to amber. A healthy adult makes about 1,200 to 1,500 mL a day, depending on intake.</p>",
      "steps": [
       "<b>Kidneys</b> sit on each side of the spine at the back of the belly. Each one filters blood through about a million <b>nephrons</b>.",
@@ -167,6 +170,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What changes how a client voids?",
      "keyIdea": "Six groups of factors change voiding: intake, muscle tone, feelings, disease, procedures, and medications.",
+     "source": "Elimination slide 6; Elimination Exemplars slide 22",
      "body": "<p>Your slides list six groups of factors. Knowing them helps you ask the right questions and predict problems.</p><p>Simple fixes come first. A client who cannot start the stream on a bedpan may just need privacy and a normal position. If allowed, help the client sit on a commode or stand.</p>",
      "table": {
       "headers": [
@@ -205,6 +209,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Too much urine or too little?",
      "keyIdea": "Oliguria and anuria can mean the kidneys are failing; polyuria can drain the body of fluid.",
+     "source": "Elimination slide 7",
      "body": "<p>Some problems change <b>how much urine the kidneys make</b>. The word parts help. <em>Poly</em> means much, <em>oligo</em> means little, and <em>an</em> means none.</p><p>When the kidneys make almost nothing, fluid and electrolytes build up. Expect weight gain, edema, high blood pressure, and a high potassium level.</p>",
      "table": {
       "headers": [
@@ -225,8 +230,8 @@ window.NURSE_DATA.push({
        ],
        [
         "Oliguria",
-        "Less than 400 mL/day or less than 30 mL/hr",
-        "May signal coming kidney failure or dehydration. Report it."
+        "Scant urine: less than 400 mL/day or 30 mL/hr",
+        "May signal impending kidney failure. Dehydration can also cause it. Report it."
        ],
        [
         "Anuria",
@@ -242,8 +247,9 @@ window.NURSE_DATA.push({
     },
     {
      "heading": "How much urine is enough?",
-     "keyIdea": "Expect at least 0.5 mL of urine per kilogram per hour, and always do the math with the client's real weight.",
-     "body": "<p>Your slides give a formula for the minimum expected output: <b>0.5 mL/kg/hr</b>. Many nurses use <b>30 mL/hr</b> as the average adult minimum. But a large client needs more than 30 mL/hr.</p><p>Output below the expected amount for 2 hours or more needs follow-up. With a catheter, check the tubing for kinks first. Then assess fluid status and notify the provider.</p>",
+     "keyIdea": "Expect 0.5 mL of urine per kilogram per hour, and always do the math with the client's real weight.",
+     "source": "Elimination slides 7–8",
+     "body": "<p>\"So what's normal?\" Your slides answer with a formula: <b>0.5 mL/kg/hr</b> is the expected output. They also use <b>30 mL/hr</b> as an average \"normal\" output. Treat both as the least you expect. But a large client needs more than 30 mL/hr.</p><p>Output below the expected amount for 2 hours or more needs follow-up. With a catheter, check the tubing for kinks first. Then assess fluid status and notify the provider.</p>",
      "steps": [
       "Find the weight in kilograms (pounds ÷ 2.2).",
       "Multiply by 0.5 to get the minimum mL per hour.",
@@ -259,12 +265,13 @@ window.NURSE_DATA.push({
     {
      "heading": "Is the bladder emptying normally?",
      "keyIdea": "Some problems leave the amount of urine normal but change how, when, or how comfortably the bladder empties.",
+     "source": "Elimination slide 8",
      "body": "<p>These problems are about <b>emptying</b>, not making urine. Your slides list the terms below. Learn what each one sounds like when a client describes it.</p>",
      "bullets": [
       "<b>Frequency</b>: voiding more often than usual, such as every hour, without a big rise in total output.",
-      "<b>Nocturia</b>: waking from sleep to void.",
+      "<b>Nocturia</b>: voiding at night, often waking from sleep to do it.",
       "<b>Urgency</b>: a sudden, strong need to void.",
-      "<b>Dysuria</b>: painful or hard voiding, often burning. A common sign of a urinary tract infection (UTI).",
+      "<b>Dysuria</b>: painful or difficult voiding, often burning. A common sign of a urinary tract infection (UTI).",
       "<b>Hesitancy</b>: trouble or delay starting the stream. Common with an enlarged prostate, which squeezes the urethra.",
       "<b>Neurogenic bladder</b>: a nerve problem. The client cannot sense fullness or control the sphincters, so the bladder may leak or over-fill."
      ],
@@ -273,7 +280,8 @@ window.NURSE_DATA.push({
     {
      "heading": "Which risk factors can be changed?",
      "keyIdea": "Nonmodifiable risks cannot be changed; modifiable risks can, so aim your teaching at them.",
-     "body": "<p><b>Nonmodifiable</b> risk factors are ones the client cannot change. <b>Modifiable</b> risk factors can be changed or managed. The table sorts the ones from your slides.</p><p>Elimination also links to other concepts. These include cognition, fluids and electrolytes, infection, inflammation, mobility, and teaching and learning. A problem in any of them can show up as an elimination problem.</p>",
+     "source": "Elimination slides 9–10, 39, 41–42; Elimination Exemplars slide 13",
+     "body": "<p><b>Nonmodifiable</b> risk factors are ones the client cannot change. <b>Modifiable</b> risk factors can be changed or managed. The table sorts the ones from your slides. The slides list the modifiable risks in the bowel section, but they apply to both.</p><p>Elimination also links to other concepts. These include cognition, fluids and electrolytes, infection, inflammation, mobility, and teaching and learning. A problem in any of them can show up as an elimination problem.</p>",
      "table": {
       "headers": [
        "Cannot change (nonmodifiable)",
@@ -303,6 +311,14 @@ window.NURSE_DATA.push({
        [
         "Women: weak muscles that support the bladder or sphincter. Both: smaller bladder capacity",
         "Lower income and education, which can limit access to care and health information"
+       ],
+       [
+        "",
+        "Poor diet, and poor cooking and storing of food"
+       ],
+       [
+        "",
+        "Travel, especially to developing countries"
        ]
       ]
      },
@@ -311,6 +327,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Many wrong answers swap one close term for another, so check the amount, the timing, and the cause.",
+     "source": "Elimination slides 7–8; Elimination Exemplars slide 13 (infection row added for the NCLEX)",
      "table": {
       "headers": [
        "Look-alike",
@@ -351,6 +368,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect output math, term matching, and \"which client first\" items built on low urine output.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample:</b> The nurse reviews 4-hour urine totals for four adults after surgery. Which client needs follow-up first?</p><p>A. 50 kg, 120 mL<br>B. 100 kg, 140 mL<br>C. 60 kg, 130 mL<br>D. 70 kg, 160 mL</p>",
      "bullets": [
       "Output math: weight × 0.5 × hours, then compare with the real total.",
@@ -370,6 +388,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: low output the day after surgery",
      "keyIdea": "Rule out a blocked catheter first, then report low output with rising kidney labs to the provider.",
+     "source": "Added: worked example based on Elimination slides 7–8, 14",
      "body": "<p>A 70-kg client had surgery yesterday and has an indwelling catheter. Output has been 25 mL/hr for 3 hours. The tubing is straight and draining freely. Today's BUN is 32 mg/dL, up from 18. The creatinine has also gone up.</p>",
      "steps": [
       "Recognize cues: 25 mL/hr for 3 hours, plus a rising BUN and creatinine.",
@@ -533,6 +552,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you start a urinary assessment?",
      "keyIdea": "There is no standard screening test, so the nurse screens by asking direct, specific questions.",
+     "source": "Elimination slides 11, 42; Elimination Exemplars slide 3",
      "body": "<p>Your slides split the assessment into two parts: observation and interview, then the physical exam. Give privacy and use a calm, matter-of-fact tone.</p><p>There are <b>no standard screening tests</b> for urinary problems. Screening is verbal, during regular checkups, especially for older adults. Urinary problems need more direct questions than other problems, because clients are embarrassed.</p><p>Remember: <b>incontinence and retention are never normal</b>, at any age. They often point to another problem, such as an infection, a drug effect, an enlarged prostate, nerve disease, or constipation.</p>",
      "bullets": [
       "<b>Voiding pattern</b>: How often do you void by day? At night? Has that changed?",
@@ -549,6 +569,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What do you check in the exam?",
      "keyIdea": "Look at the abdomen, the skin and genitals, the urethral opening, stool and urine, and fluid status.",
+     "source": "Elimination slide 11; Elimination Exemplars slide 12",
      "body": "<p>Your slides list five areas to examine.</p><p>Fever with flank tenderness is important. It suggests the infection has reached the kidney. Report it promptly.</p>",
      "bullets": [
       "<b>Abdomen</b>: a rounded swelling above the pubic bone suggests a full bladder. It may feel firm, and pressing may cause discomfort or an urge.",
@@ -562,6 +583,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Which urine and bladder tests will you see?",
      "keyIdea": "Collect a culture before antibiotics, and measure a post-void residual right after the client voids.",
+     "source": "Elimination slide 12 (test details and clean-catch steps added for the NCLEX)",
      "body": "<p>Your slides list several tests that look at urine and the bladder. The table shows what each one tells you and what the nurse does.</p><p>A <b>large post-void residual</b> means the bladder is not emptying. Report it, especially in a man with an enlarged prostate.</p>",
      "table": {
       "headers": [
@@ -616,6 +638,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you read a urinalysis?",
      "keyIdea": "Normal urine has no glucose, no blood, no bacteria, few or no WBCs, and no protein or only a trace.",
+     "source": "Elimination slides 12, 14 (normal values other than specific gravity added for the NCLEX)",
      "body": "<p>Healthy urine is <b>clear</b> and <b>pale yellow to amber</b>, with a faint smell. Dark amber urine is usually concentrated, as in dehydration. Cloudy, foul-smelling urine suggests infection.</p><p>The table shows normal results and what to think about when they are off.</p>",
      "table": {
       "headers": [
@@ -656,6 +679,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why is contrast dye a safety risk?",
      "keyIdea": "Contrast dye stresses the kidneys, so check metformin, allergies, and kidney labs before it is given.",
+     "source": "Elimination slide 12; current metformin and contrast-allergy guidance added",
      "body": "<p>An <b>IVP</b> uses IV contrast dye to outline the kidneys, ureters, and bladder on x-ray. The kidneys must filter the dye out. That creates two safety issues on your slides.</p><p><b>Metformin:</b> your slides say to stop it 48 hours before the test. If dye stresses the kidneys, metformin can build up and cause lactic acidosis. Newer guidelines focus more on the time after the test. Metformin is held at the time of the test and for 48 hours after. It restarts only once kidney function is rechecked and stable. Follow facility protocol.</p><p><b>Allergies:</b> ask about iodine or shellfish allergy, past dye reactions, and asthma. A past dye reaction is the strongest predictor of another one. A shellfish allergy alone does not mean the client will react, but still ask and report it.</p>",
      "bullets": [
       "Report worsening kidney labs before any study with IV contrast.",
@@ -667,6 +691,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What about KUB, cystoscopy, and kidney biopsy?",
      "keyIdea": "A KUB needs no prep, cystoscopy can cause bleeding and burning, and kidney biopsy carries a real risk of bleeding.",
+     "source": "Elimination slide 13",
      "body": "<p>Your slides list more tests, from simple x-rays to invasive procedures. Noninvasive tests include <b>ultrasound, CT, MRI, and renal scan</b>. They show structure and blood flow without entering the body. Some CT scans use contrast, so the same dye safety checks apply.</p><p>The kidney is full of blood vessels. That is why bleeding is the big worry after a biopsy.</p>",
      "bullets": [
       "<b>KUB</b>: a plain belly x-ray with no dye. It shows organ size, position, and some kidney stones. No special prep.",
@@ -683,6 +708,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What do the kidney labs tell you?",
      "keyIdea": "BUN and creatinine go up when the kidneys fail; GFR and creatinine clearance go down.",
+     "source": "Elimination slide 14",
      "body": "<p>Blood tests show how well the kidneys filter. Your slides give the normal values in the table. Creatinine is the more specific marker of kidney function. BUN also rises with dehydration.</p><p>So compare them. A high BUN and specific gravity with a normal creatinine points to dehydration, not kidney damage.</p>",
      "table": {
       "headers": [
@@ -724,6 +750,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How does a creatinine clearance test work?",
      "keyIdea": "Working kidneys move creatinine into the urine, so clearance falls when the kidneys fail.",
+     "source": "Elimination slide 14 (notes)",
      "body": "<p>The kidneys must remove creatinine from the body. This test compares creatinine in the <b>blood</b> with creatinine in the <b>urine</b> over 24 hours. If the kidneys work, the level is higher in the urine. The test shows how much kidney function is lost.</p><p>One caution: your slide lists \"increased in renal disease\" beside creatinine clearance. That label fits BUN and serum creatinine. Clearance itself goes <em>down</em> in kidney disease.</p>",
      "steps": [
       "Have the client void and <b>discard</b> that first urine. Note the time. The test starts now.",
@@ -740,6 +767,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most wrong answers mix up which labs rise and which fall, or what is expected versus reportable.",
+     "source": "Elimination slides 12–14, 42",
      "table": {
       "headers": [
        "Look-alike",
@@ -780,6 +808,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect pre-test safety checks, post-procedure priorities, lab reading, and teaching for specimen collection.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample:</b> Two hours after a kidney biopsy, the client says, \"I feel lightheaded.\" Pulse was 80 and is now 116. BP was 130/78 and is now 96/58. What should the nurse do first?</p><p>A. Give the prescribed oral pain medicine<br>B. Raise the head of the bed to 45 degrees<br>C. Keep the client flat and notify the provider<br>D. Encourage oral fluids and recheck in an hour</p>",
      "bullets": [
       "Before contrast: which findings to report (metformin, allergies, asthma, kidney labs).",
@@ -799,6 +828,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: IVP prep with diabetes",
      "keyIdea": "Before contrast, find and report every risk: metformin, allergies, asthma, and kidney function.",
+     "source": "Added: worked example based on Elimination slides 12, 14",
      "body": "<p>A 67-year-old client with type 2 diabetes is scheduled for an IVP tomorrow. She takes metformin twice a day. She has asthma and once had hives after eating shrimp. Today's creatinine is 1.4 mg/dL, up from 1.0 last month.</p>",
      "steps": [
       "Recognize cues: metformin, asthma, a shellfish reaction, and a rising creatinine.",
@@ -939,20 +969,22 @@ window.NURSE_DATA.push({
     {
      "heading": "What can the nurse do without an order?",
      "keyIdea": "Fluids, accurate I&O, clean catheter care, teaching, and skin care are the core independent actions.",
-     "body": "<p>Your slides list the core independent actions below. They prevent many problems before drugs are ever needed.</p><p>Fluids come first for most clients. Unless fluids are restricted, as in heart or kidney failure, encourage about 2 L or more a day, spread out. Good intake dilutes urine and flushes bacteria out of the bladder.</p>",
+     "source": "Elimination slide 15; Elimination Exemplars slide 7",
+     "body": "<p>Your slides list the core independent actions below. Which ones you use depends on the cause and how severe it is. They prevent many problems before drugs are ever needed.</p><p>Fluids come first for most clients. Unless fluids are restricted, as in heart or kidney failure, encourage more than 2,000 mL a day, spaced through the day. Limit fluids at night to prevent nocturia. Good intake dilutes urine and flushes bacteria out of the bladder. Low intake makes urine concentrated, which irritates the bladder wall.</p>",
      "bullets": [
       "<b>Increase fluid intake</b> unless restricted.",
       "<b>Monitor I&O.</b> Output well below intake, or below 0.5 mL/kg/hr, needs follow-up.",
       "<b>Catheter care</b>: bag below the bladder and off the floor, tubing free of kinks, clean the area, empty the bag regularly.",
       "<b>Teaching</b>: fluids, hygiene, medicines, signs of infection, and devices at home.",
       "<b>Incontinence care</b>: keep skin clean and dry, use barrier products, change briefs promptly, offer the toilet on a schedule.",
-      "<b>Aseptic technique</b> in all catheter care. Urinary catheters are a leading source of health care–associated infections."
+      "<b>Aseptic technique</b> in all catheter care. Your slides call it essential. Urinary catheters are a leading source of health care–associated infections."
      ],
      "example": "<b>At the bedside:</b> An aide has hooked a client's drainage bag to the bed rail at hip level. Urine sits in a loop of tubing. You step in right away. You lower the bag below the bladder and straighten the tubing. Now urine drains by gravity and cannot flow back into the bladder."
     },
     {
      "heading": "How do you keep a catheter infection-free?",
      "keyIdea": "Insert with sterile technique, keep the system closed, and remove the catheter as soon as it is not needed.",
+     "source": "Elimination slide 15 (catheter-infection details added for the NCLEX)",
      "body": "<p>The bladder is normally sterile. A catheter is a highway from the outside world into it. Germs can travel up the outside of the tube. They can also travel up the inside if the system is opened or urine flows back.</p><p>That is why you insert catheters with <b>sterile technique</b> and keep the system closed. The best prevention is a short catheter time. Ask every day whether it is still needed. Remind the provider when it may not be.</p><p>Fever and flank pain in a client with a catheter suggest infection. See that client before routine catheter fixes.</p>",
      "analogy": "A catheter is like propping open the front door of a clean house. The longer it stays open, the more likely something unwanted wanders in.",
      "check": {
@@ -963,6 +995,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Who else helps the client?",
      "keyIdea": "Plan referrals before discharge so supplies, skills, and support are in place when the client gets home.",
+     "source": "Elimination slide 15",
      "body": "<p>Many clients go home or to a facility still managing a urinary problem. Your slides list referrals before or after discharge. They say teamwork is <b>especially important in long-term care or assisted living</b>.</p><p>Include family members and caregivers in teaching early. They help with toileting, skin care, and devices.</p>",
      "table": {
       "headers": [
@@ -997,6 +1030,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you measure I&O accurately?",
      "keyIdea": "I&O only helps if it is complete: count every fluid in and out, and measure instead of guessing.",
+     "source": "Elimination slide 15 (I&O steps added for the NCLEX)",
      "body": "<p>I&O shows whether fluid going in matches fluid coming out. It is often where kidney problems, dehydration, or fluid overload first show up. It must be <b>complete and accurate</b>.</p>",
      "steps": [
       "<b>Count all intake</b>: oral fluids, foods liquid at room temperature (ice chips, gelatin, ice cream, soup), IV fluids, and tube feedings.",
@@ -1010,6 +1044,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Which drugs calm or empty the bladder?",
      "keyIdea": "Anticholinergics block the \"squeeze\" signal and calm the bladder; cholinergics boost it and help the bladder empty.",
+     "source": "Elimination slide 17",
      "body": "<p>The bladder's \"empty now\" signal travels on nerves that use <b>acetylcholine</b>. That makes two opposite drug groups easy to sort.</p><p><b>Anticholinergics block</b> the signal, so the bladder relaxes. Too much causes the opposite problem: retention. The same blocking dries the mouth, slows the gut, blurs vision, and can raise eye pressure. That is why they are avoided in glaucoma.</p><p><b>Cholinergics boost</b> the signal, so the bladder squeezes. They help when the bladder will not empty. Success is good voiding with a low residual. Before the first dose, report asthma, a blockage of urine flow, high liver enzymes, or a slow heart rate.</p>",
      "table": {
       "headers": [
@@ -1050,6 +1085,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do you give diuretics safely?",
      "keyIdea": "Check BUN, creatinine, potassium, sodium, and BP before every diuretic dose, and give it in the morning.",
+     "source": "Elimination slide 17",
      "body": "<p><b>Diuretics</b> make the kidneys remove more water and sodium, so urine output rises. They treat high BP, heart failure, and fluid overload.</p><p>Loop and thiazide diuretics make the body <b>lose</b> potassium. A potassium-sparing diuretic <b>keeps</b> it. Most salt substitutes are potassium chloride, so a client on Aldactone should not use them.</p>",
      "table": {
       "headers": [
@@ -1096,6 +1132,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do the two types of dialysis differ?",
      "keyIdea": "Dialysis removes wastes and fluid when the kidneys cannot, and it must be repeated often.",
+     "source": "Elimination slide 18 (access and nursing points added for the NCLEX)",
      "body": "<p>Your slides describe dialysis as therapy for <b>severely reduced or absent kidney function</b>. It removes wastes and extra fluid the kidneys can no longer clear. It must be done at <b>frequent intervals</b>, because wastes and fluid build up again.</p><p>For a fistula, a missing thrill or bruit means it may be clotted. That needs immediate follow-up.</p>",
      "table": {
       "headers": [
@@ -1131,13 +1168,15 @@ window.NURSE_DATA.push({
     {
      "heading": "What habits prevent urinary problems?",
      "keyIdea": "Healthy weight, enough fluid, fiber, no straining, no delay, fewer irritants, and no smoking protect the bladder.",
+     "source": "Elimination slide 40; Elimination Exemplars slide 7",
      "body": "<p>Your slides list healthy habits that prevent urinary and bowel problems. These are the core of client teaching. Teach them in plain words and check understanding.</p>",
      "bullets": [
       "<b>Keep a healthy weight and exercise.</b> Extra weight presses on the bladder and weakens the pelvic floor.",
       "<b>Do not delay voiding.</b> Go when the urge comes.",
       "<b>Do not use the pelvic floor muscles to force urine out</b> (straining).",
-      "<b>Drink enough fluid and eat a high-fiber diet.</b> Treat constipation or diarrhea as it occurs; a full rectum presses on the bladder.",
-      "<b>Avoid bladder irritants</b>, such as caffeine, alcohol, and artificial sweeteners.",
+      "<b>Do not limit fluids.</b> Drink more than 2,000 mL a day, spaced through the day. Limit fluids at night to prevent nocturia.",
+      "<b>Eat a high-fiber diet.</b> Treat constipation or diarrhea as it occurs; a full rectum presses on the bladder.",
+      "<b>Avoid bladder irritants</b>, such as caffeine, alcohol, artificial sweeteners, and acidic or spicy foods.",
       "<b>Do not smoke.</b> Smoking irritates the bladder, and chronic cough strains the pelvic floor."
      ],
      "check": {
@@ -1148,6 +1187,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most errors come from mixing up opposite drug actions or treating a symptom drug as a cure.",
+     "source": "Elimination slides 15, 17–18",
      "table": {
       "headers": [
        "Look-alike",
@@ -1184,6 +1224,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect \"hold or give\" drug items, safety-cue spotting with aides, and teaching checks on new drugs.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample:</b> A 73-year-old with heart failure is due for furosemide (Lasix) 40 mg IV at 0900. Today's potassium is 3.1 mEq/L, and BP is 98/58. What should the nurse do?</p><p>A. Give the dose and recheck BP in 30 minutes<br>B. Hold the dose and notify the provider<br>C. Give half the dose<br>D. Give the dose with a glass of orange juice</p>",
      "bullets": [
       "Hold or give: compare labs and BP with the drug's main risk.",
@@ -1204,6 +1245,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: new confusion after a bladder drug",
      "keyIdea": "In an older adult, new confusion, constipation, or retention after an anticholinergic means hold, assess, and report.",
+     "source": "Added: worked example based on Elimination slide 17",
      "body": "<p>An 81-year-old started Ditropan 4 days ago for urgency. Today she is confused and restless. She has had no bowel movement in 4 days. Her mouth is dry, and she has a firm, rounded swelling above the pubic bone.</p>",
      "steps": [
       "Recognize cues: new confusion, constipation, dry mouth, and a full bladder.",
@@ -1221,7 +1263,7 @@ window.NURSE_DATA.push({
    ],
    "pearls": [
     "Bag below the bladder, system closed, catheter out as soon as it is not needed.",
-    "Unless fluids are restricted, encourage about 2 L or more a day, spread out.",
+    "Unless fluids are restricted, encourage more than 2,000 mL a day, spaced through the day.",
     "Ditropan: avoid in glaucoma; watch older adults for retention, constipation, and confusion.",
     "Pyridium turns urine orange-red and stains contacts. It does not cure infection.",
     "Diuretics: check labs first, weigh daily, give in the morning, prevent falls.",
@@ -1346,6 +1388,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Why are newborn kidneys different?",
      "keyIdea": "Newborn kidneys cannot adjust quickly, so small changes in fluid can cause dehydration or overload.",
+     "source": "Elimination slide 19",
      "body": "<p>A newborn's kidneys work, but not at full strength. Your slides note the <b>GFR is lower than an adult's</b>. Newborns also have <b>limits in concentrating and diluting urine</b>.</p><p>In plain words, they cannot hold on to water well when short of it. They also cannot get rid of extra water quickly. That is why <b>watching for dehydration and overhydration</b> matters so much. A small error in IV fluids has a big effect.</p>",
      "analogy": "An adult's kidneys are like a skilled cook who can make a soup stronger or weaker on demand. A newborn's kidneys are a trainee who makes it one way. That is fine on a normal day, but slow to adjust when something changes.",
      "example": "<b>At the bedside:</b> A 2-day-old on IV fluids for poor feeding has the pump running at twice the prescribed rate. The baby's kidneys cannot quickly get rid of the extra fluid. First, stop or correct the infusion. Then assess the baby and report the error."
@@ -1353,6 +1396,7 @@ window.NURSE_DATA.push({
     {
      "heading": "When should a newborn first void?",
      "keyIdea": "Healthy newborns void within 24 hours, and they must void by 48 hours after birth.",
+     "source": "Elimination slide 19",
      "body": "<p>Your slides set clear limits. Most newborns void in the first day. A baby who has not voided by 48 hours may have a kidney or urinary tract problem. The provider needs to know.</p>",
      "bullets": [
       "Healthy newborns void within the first 24 hours.",
@@ -1370,6 +1414,7 @@ window.NURSE_DATA.push({
     {
      "heading": "When do children gain bladder control?",
      "keyIdea": "Most children gain control between ages 2 and 5, daytime first; bedwetting is not a concern until after 7.",
+     "source": "Elimination slide 20; Elimination Exemplars slides 18–19",
      "body": "<p>Your slides say <b>most children gain urinary control between 2 and 5 years</b>. <b>Daytime control comes before nighttime control.</b> A child who is dry all day but wets at night is following the normal order.</p><p>Toilet learning is more than control. Young children need reminders about flushing and handwashing. They also need help learning to wipe. Teaching girls to <b>wipe front to back</b> keeps germs from the anus away from the urethra.</p><p>From 5 to 10, <b>the kidneys double in size</b>. A school-age child voids <b>6 to 8 times a day</b>. Wetting, called <b>enuresis</b>, is common at this age.</p>",
      "table": {
       "headers": [
@@ -1381,25 +1426,31 @@ window.NURSE_DATA.push({
        [
         "Nocturnal enuresis (bedwetting)",
         "Wetting during sleep. Common in deep sleepers, who do not wake to a full bladder.",
-        "Not a problem until after age 7. Formal definitions use the word from age 5, but most children outgrow it, so treatment usually does not start before about age 6 or 7."
+        "Not a problem until after age 7. Your exemplar slides say it is not diagnosed until age 7, because night control takes longer. It is more common in boys."
        ],
        [
         "Diurnal enuresis (daytime wetting)",
         "Wetting while awake",
-        "May be pathologic. It can point to infection, constipation, a structural problem, or stress, so it needs evaluation."
+        "Not diagnosed until age 5 to 6. After that, it may be pathologic. Causes include bladder irritability, a weak detrusor muscle, constipation, structural problems, diabetes, sphincter weakness, and sexual abuse. It needs evaluation."
+       ],
+       [
+        "Primary vs secondary enuresis",
+        "Primary: the child has never been dry at night. Secondary: wetting returns after at least 6 months of nighttime dryness.",
+        "Secondary wetting can follow constipation, stress, diabetes, deep sleep, or ADHD. Children may also regress in times of stress."
        ]
       ]
      },
      "example": "<b>At the bedside:</b> A parent says her 6-year-old wets the bed a few nights a week and is \"impossible to wake up.\" He is dry all day. You reassure her this is common and not a problem until after age 7. You suggest fewer drinks in the evening and voiding before bed.",
      "check": {
       "q": "A 9-year-old who has been dry for years starts wetting his pants at school. Is this expected?",
-      "a": "No. Daytime wetting may be pathologic. He needs evaluation for causes such as infection, constipation, or stress."
+      "a": "No. Daytime wetting may be pathologic. He needs evaluation for causes such as constipation, bladder irritability, diabetes, or a structural problem."
      }
     },
     {
      "heading": "How does pregnancy change urination?",
      "keyIdea": "Frequency comes and goes with the position of the uterus, and higher GFR can spill glucose into the urine.",
-     "body": "<p>Pregnancy changes urination in two ways: <b>pressure</b> and <b>kidney workload</b>. The growing uterus presses on the bladder, so the client voids more often. The steps show the pattern on your slides.</p><p>GFR rises early in pregnancy. It reaches as much as <b>50% above normal by the second trimester</b> and stays high until birth. To keep up, the tubules take back more. But when too much glucose is filtered, some spills into the urine. That is <b>glycosuria</b>. It may be normal, or it may signal <b>gestational diabetes</b>. Report it so blood glucose can be checked.</p><p>Teach the warning signs of a UTI, such as burning, urgency, fever, or flank pain.</p>",
+     "source": "Elimination slide 21",
+     "body": "<p>Pregnancy changes urination in two ways: <b>pressure</b> and <b>kidney workload</b>. The growing uterus presses on the bladder, so the client voids more often. The steps show the pattern on your slides.</p><p>Beginning in the <b>second trimester</b>, GFR rises by <b>as much as 50%</b>. It stays high until birth. To keep up, the tubules take back more. But when too much glucose is filtered, some spills into the urine. That is <b>glycosuria</b>. It may be normal, or it may signal <b>gestational diabetes</b>. Report it so blood glucose can be checked.</p><p>Teach the warning signs of a UTI, such as burning, urgency, fever, or flank pain.</p>",
      "steps": [
       "First trimester: the uterus is still in the pelvis, against the bladder, so frequency rises.",
       "Second trimester: the uterus rises into the abdomen, so frequency eases.",
@@ -1414,6 +1465,7 @@ window.NURSE_DATA.push({
     {
      "heading": "What happens to the bladder after birth?",
      "keyIdea": "After birth, the bladder may fill fast and empty poorly, and a full bladder can push the uterus aside and increase bleeding.",
+     "source": "Elimination slide 21 (fundus signs added for the NCLEX)",
      "body": "<p>After birth, the bladder and urethra are stretched and bruised. An epidural may still dull the urge. Meanwhile, the body sheds the extra fluid of pregnancy, so the bladder fills fast.</p><p>Large voids on the first day are expected diuresis when the fundus is firm and midline. Small, frequent voids with a feeling of fullness are not. They suggest the bladder is not emptying.</p>",
      "bullets": [
       "<b>Overdistention</b> of the bladder.",
@@ -1427,6 +1479,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How do kidneys change with age?",
      "keyIdea": "Aging kidneys get less blood, clear drugs slowly, and lose water easily, so dehydration and toxicity come faster.",
+     "source": "Elimination slides 22–23",
      "body": "<p>Your slides describe several changes in the aging kidney. Each change explains a risk you will see on the floor. Read the table as cause on the left and result on the right.</p><p>Because drugs clear slowly, question a standard adult dose of a kidney-cleared drug when kidney function is low.</p>",
      "table": {
       "headers": [
@@ -1464,7 +1517,8 @@ window.NURSE_DATA.push({
     {
      "heading": "How does the aging bladder change?",
      "keyIdea": "An older bladder holds less, empties less fully, and warns later, and diuretics make these changes worse.",
-     "body": "<p>The bladder and its controls change too. These changes make urgency, nocturia, and leftover urine more common. Even so, remember: <b>incontinence and acute retention are never a normal part of aging</b>.</p>",
+     "source": "Elimination slides 23, 42",
+     "body": "<p>The bladder and its controls change too. These changes make urgency, nocturia, and leftover urine more common. Even so, remember: <b>incontinence and retention are never considered normal</b> at any age. They often point to another medical problem.</p>",
      "bullets": [
       "<b>The bladder becomes more fibrous</b> (stiffer). It holds less and leaves more residual urine, which raises UTI risk.",
       "<b>Less autonomic control</b> of the bladder. The urge may come later and more suddenly.",
@@ -1476,7 +1530,8 @@ window.NURSE_DATA.push({
     {
      "heading": "How can you protect older adults' urinary health?",
      "keyIdea": "Focus on daytime fluids, medication review, scheduled toileting, fall prevention, and close monitoring.",
-     "body": "<p>Older adults lose water easily, clear drugs slowly, and void more at night. So the nurse focuses on <b>hydration, medication safety, sleep, and fall prevention</b>.</p><p>Signs of trouble may be subtle. With dehydration or a UTI, an older adult may show <b>new confusion</b>, weakness, or a fall instead of thirst or burning.</p>",
+     "source": "Elimination slides 22–23; Elimination Exemplars slides 7, 20 (care steps added for the NCLEX)",
+     "body": "<p>Older adults lose water easily, clear drugs slowly, and void more at night. So the nurse focuses on <b>hydration, medication safety, sleep, and fall prevention</b>.</p><p>Signs of trouble may be subtle. With dehydration or a UTI, an older adult may show <b>new confusion</b>, weakness, or a fall instead of thirst or burning.</p><p>Your exemplar slides list barriers to toileting in older adults: limited mobility, impaired vision, dementia, no access to a toilet, no one to help, and lack of privacy. Plan around each one.</p>",
      "steps": [
       "<b>Encourage fluids during the day</b>, unless restricted. Taper them in the evening to reduce nocturia without causing dehydration.",
       "<b>Review medicines</b> with the provider and pharmacist. Kidney-cleared drugs may need lower doses. Diuretics are best taken in the morning.",
@@ -1489,6 +1544,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "The same finding can be normal at one age and a red flag at another, so always check the age first.",
+     "source": "Elimination slides 19–23, 42; Elimination Exemplars slide 18",
      "table": {
       "headers": [
        "Look-alike",
@@ -1513,7 +1569,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Normal aging vs not normal",
-        "Nocturia, dilute urine, and smaller capacity are normal. Incontinence and acute retention never are."
+        "Nocturia, dilute urine, and smaller capacity are normal. Incontinence and retention never are."
        ],
        [
         "Confusion from dementia vs new confusion",
@@ -1525,6 +1581,7 @@ window.NURSE_DATA.push({
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect \"is this normal for this age?\" items, priority picks among four clients, and postpartum bladder checks.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p><b>Sample:</b> The school nurse reviews four children whose parents are worried about wetting. Which child most needs a referral?</p><p>A. A 4-year-old dry by day who wets at night<br>B. A 6-year-old deep sleeper who wets the bed twice a week<br>C. An 8-year-old, dry for years, now wetting during the school day<br>D. A 3-year-old who still needs reminders to flush and wash</p>",
      "bullets": [
       "Normal or not: match the finding to the age.",
@@ -1544,6 +1601,7 @@ window.NURSE_DATA.push({
     {
      "heading": "Worked case: the older adult on a diuretic",
      "keyIdea": "An older adult plus a diuretic plus low fluids leads to dehydration and low sodium; new confusion may be the first sign.",
+     "source": "Added: worked example based on Elimination slides 22–23",
      "body": "<p>An 84-year-old takes HCTZ for high BP. Today she is newly confused. Her mouth is dry. She has been voiding large amounts of pale urine at night. She says she drinks little so she will not have to get up. Her sodium is 128 mEq/L.</p>",
      "steps": [
       "Recognize cues: new confusion, dry mouth, night voiding, low intake, and a low sodium.",

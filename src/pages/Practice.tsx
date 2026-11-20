@@ -76,17 +76,15 @@ export function PracticeBuilder() {
             <Icon name="exam" /> Exam
           </Link>
         </div>
-        <h1>Practice with a coach</h1>
-        <p>
-          Target exactly what you’re struggling with — a module, a topic, or a kind of thinking. Hints are there when you need them, and
-          every answer comes with a rationale.
-        </p>
+        <h1>Practice</h1>
+        <p>Choose what to practice and how many questions. You get hints if you want them and an explanation after every answer.</p>
       </header>
 
       <div className="builder">
         <div className="stack">
-          <section className="card">
-            <h3>Module</h3>
+          <section className="card step-card">
+            <h3>1. What do you want to practice?</h3>
+            <p className="faint small step-help">Pick one or more modules. Leave everything blank for a mix from all modules.</p>
             {UNITS.map((u) => {
               const ids = u.moduleIds;
               const allOn = ids.every((id) => f.modules.includes(id));
@@ -147,7 +145,10 @@ export function PracticeBuilder() {
             {!selectedModules.length && <p className="faint small">Pick a module to narrow by topic.</p>}
           </section>
 
-          <section className="card">
+          <details className="more-options" open={f.focus.length + f.cjmm.length + f.types.length + f.difficulty.length > 0 || f.pool !== 'smart'}>
+            <summary>More options <span className="faint">— skill, clinical-judgment step, format, difficulty, which questions</span></summary>
+            <div className="more-body">
+          <section className="opt-group">
             <h3>Nursing skill</h3>
             <div className="chips">
               {FOCUS_AREAS.map((x) => (
@@ -158,7 +159,7 @@ export function PracticeBuilder() {
             </div>
           </section>
 
-          <section className="card">
+          <section className="opt-group">
             <h3>Clinical judgment step (NCSBN model)</h3>
             <div className="cjmm-grid">
               {CJMM_STEPS.map((x, i) => (
@@ -181,8 +182,8 @@ export function PracticeBuilder() {
             </div>
           </section>
 
-          <div className="grid grid-2">
-            <section className="card">
+          <div className="opt-pair">
+            <section className="opt-group">
               <h3>Question format</h3>
               <div className="format-grid">
                 {FORMATS.map((x) => (
@@ -194,7 +195,7 @@ export function PracticeBuilder() {
                 ))}
               </div>
             </section>
-            <section className="card">
+            <section className="opt-group">
               <h3>Difficulty</h3>
               <div className="chips">
                 {DIFF.map((d) => (
@@ -212,7 +213,7 @@ export function PracticeBuilder() {
           </div>
 
 
-          <section className="card">
+          <section className="opt-group">
             <h3>Which questions</h3>
             <div className="pool-grid">
               {POOLS.map((p) => (
@@ -224,16 +225,20 @@ export function PracticeBuilder() {
               ))}
             </div>
           </section>
+            </div>
+          </details>
         </div>
 
         <aside className="builder-summary card">
-          <span className="eyebrow">Your session</span>
-          <div className="summary-count">
-            <motion.span key={matches.length} className="big-num" initial={{ y: -10, opacity: 0 }} animate={{ y: 0, opacity: 1 }}>
-              {matches.length}
-            </motion.span>
-            <span className="muted">questions match</span>
+          <h3>2. How many questions?</h3>
+          <div className="count-seg" role="group" aria-label="Number of questions">
+            {[5, 10, 20, 40].map((k) => (
+              <button key={k} type="button" aria-pressed={count === k} onClick={() => setCount(k)} disabled={!matches.length}>
+                {k}
+              </button>
+            ))}
           </div>
+          <p className="faint small">{matches.length} question{matches.length === 1 ? '' : 's'} match your choices{matches.length && matches.length < count ? ` — you’ll get all ${matches.length}` : ''}.</p>
           {activeFilterCount > 0 && (
             <button
               className="btn btn-ghost btn-sm"
@@ -242,35 +247,12 @@ export function PracticeBuilder() {
               Clear {activeFilterCount} filter{activeFilterCount === 1 ? '' : 's'}
             </button>
           )}
-          <label className="slider-label">
-            <span>
-              Questions: <b>{n}</b>
-            </span>
-            <input
-              className="slider"
-              type="range"
-              min={1}
-              max={Math.max(1, Math.min(50, matches.length))}
-              value={n}
-              disabled={!matches.length}
-              onChange={(e) => setCount(Number(e.target.value))}
-            />
-          </label>
-          <ul className="perks">
-            <li>
-              <Icon name="bulb" /> Content &amp; strategy hints
-            </li>
-            <li>
-              <Icon name="check" /> Instant rationale after each answer
-            </li>
-            <li>
-              <Icon name="clock" /> Untimed — we still track your pace
-            </li>
-          </ul>
+          <p className="small muted summary-note">Hints are optional. You see the explanation after each answer. Want test conditions? Use <Link to={`/exam${f.modules.length ? `?modules=${f.modules.join(',')}` : ''}`}>Timed exam</Link>.</p>
           <motion.button className="btn btn-primary btn-lg btn-block" onClick={start} disabled={!matches.length} whileTap={{ scale: 0.97 }}>
-            <Icon name="play" /> Start {n} question{n === 1 ? '' : 's'}
+            Start {n} question{n === 1 ? '' : 's'}
           </motion.button>
-          {!matches.length && <p className="faint small">No questions match — loosen a filter.</p>}
+          {!matches.length && <p className="faint small">No questions match these choices. Remove an option to see more.</p>}
+          <p className="small summary-bank"><Link to="/questions">Browse all questions</Link></p>
         </aside>
       </div>
     </div>

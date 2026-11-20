@@ -167,6 +167,8 @@ export interface TopicSection {
   heading?: string;
   /** One-sentence takeaway shown under the heading. */
   keyIdea?: string;
+  /** Where this part comes from in the course materials, e.g. "Module 49 study guide, pp. 2814–2816; Legal Issues slides 4–5". */
+  source?: string;
   body?: string;
   bullets?: string[];
   steps?: string[];

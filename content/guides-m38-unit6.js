@@ -75,32 +75,64 @@ window.NURSE_DATA.push({
         {
           "heading": "What makes a message clear?",
           "keyIdea": "A message succeeds only when the other person understands it and can act on it.",
-          "body": "<p>Communication can be verbal, nonverbal, written, or electronic. Your course names six qualities of a clear message. Use them as a quick checklist before you talk with a client.</p><p>A correct lecture can still fail. A client in pain or overwhelmed by news may not take in a single word. Watch the response and adjust as you go.</p><p>Humor can ease tension when it fits the moment. But it can also make distress seem small.</p><p>Never guess an answer to sound confident. Say you will check, and then follow up.</p>",
+          "source": "Communication slides 3–4, 10",
+          "body": "<p>Communication is any way two or more people exchange information or feelings. All communication aims to get a response. Its two main purposes are to influence others to respond and to obtain information.</p><p>Your slides cover verbal, nonverbal, electronic, and written communication. Written communication counts as a form of verbal communication.</p><p>The course lists seven things to consider when you speak. Use them as a quick checklist.</p><p>A correct lecture can still fail. A client in pain may not take in a single word. Watch the response and adjust. Never guess an answer to sound credible. Say you will check, and then follow up.</p>",
           "bullets": [
-            "<b>Simplicity:</b> use familiar words. Explain any medical term you must use.",
-            "<b>Clarity:</b> say exactly what you mean.",
-            "<b>Brevity:</b> keep it short and focused on the current concern.",
-            "<b>Timing:</b> choose a moment when the client can listen. Pause for replies.",
-            "<b>Adaptability:</b> watch the client and change your pace or words.",
-            "<b>Credibility:</b> be honest about what you know, and let your actions match your words."
+            "<b>Pace and intonation:</b> how fast you speak and your tone change how the message feels and its impact.",
+            "<b>Simplicity:</b> use commonly understood words. Explain any medical term you must use.",
+            "<b>Clarity and brevity:</b> be direct and simple. Your words and body language should match (be congruent).",
+            "<b>Timing and relevance:</b> choose a moment when the client can listen, and keep to what matters now.",
+            "<b>Adaptability:</b> adjust to the client’s behavior.",
+            "<b>Credibility:</b> be honest, consistent, and dependable.",
+            "<b>Humor:</b> can reduce stress and tension. Use it only when it fits, because it can make distress seem small."
           ]
         },
         {
           "heading": "How do I read nonverbal cues?",
-          "keyIdea": "Read a nonverbal cue in context, and ask about it instead of assuming what it means.",
-          "body": "<p>Face, gestures, posture, gait, grooming, and touch can show emotion or physical function. But one cue can have many causes. It may reflect pain, fatigue, culture, disability, cost, or simple preference.</p><p>So a single cue cannot tell you the meaning. Poor eye contact does not prove dishonesty. Messy grooming does not prove depression.</p><p>When words and behavior do not match, describe what you see and ask. This treats the cue as information to clarify. It does not accuse the client of lying.</p>",
+          "keyIdea": "Nonverbal cues can say more than words. Read each cue in context, and ask instead of assuming.",
+          "source": "Communication slides 5–7, 12, 28",
+          "body": "<p>Nonverbal communication includes gestures, facial expressions, touch, body position and movement, and physical appearance. It can express more about feelings than words do. It can support the words or contradict them.</p><p>Assess it in a systematic way. Include mental status, gestures and facial expressions, and posture and gait.</p><p>No single expression can be read accurately by itself. Consider other cues that back it up, the setting, the expressions of others there, and cultural background.</p><p>When words and nonverbal cues do not match, the course says to believe the nonverbal message. Describe what you see and ask about it. Do not accuse the client of lying.</p>",
           "example": "A client says, “I’m fine,” but grimaces and guards the belly when moving. The nurse says, “You say you are comfortable, and I notice you are guarding your belly. Tell me what you are feeling.” The nurse explores before deciding anything.",
           "bullets": [
             "Ask before you touch, and explain why the touch is needed.",
             "Respect personal space. Sit at a comfortable distance with a relaxed, open posture.",
             "If a client flinches or crosses their arms, consider pain, fear, or past trauma.",
             "Chart the behavior you saw, not a label like “hostile” or “uncooperative.”"
-          ]
+          ],
+          "table": {
+            "headers": [
+              "What you see",
+              "What it can mean (per the course)"
+            ],
+            "rows": [
+              [
+                "Facial expression",
+                "Happiness, sadness, fear, anger, surprise, or disgust. Confirm with other cues and the setting."
+              ],
+              [
+                "Grooming and dress",
+                "Can be affected by money or by illness. Ill clients may lack the energy or desire to engage. Disinterest in hygiene may indicate depression."
+              ],
+              [
+                "Posture and gait",
+                "Show self-concept, current mood, and health. Erect posture and an active, purposeful stride suggest well-being."
+              ],
+              [
+                "Trouble expressing self",
+                "May come from changes in cognition, autism, or intellectual disability."
+              ],
+              [
+                "Smiling or shaking hands",
+                "Meaning varies widely among cultures."
+              ]
+            ]
+          }
         },
         {
           "heading": "Which replies are therapeutic?",
           "keyIdea": "Therapeutic replies invite the client to share meaning. Pick the technique that fits your purpose right now.",
-          "body": "<p>Each therapeutic technique has a job. No single technique is always correct. Choose the one that fits what you need in this moment.</p><p>Open questions let the client describe a concern in their own words. A focused closed question gets one fact fast.</p><p>If you need the time chest pain started, ask, “What time did the pain start?” That focused question is the right tool there.</p><p>Silence is a technique, too. After hard news, quiet presence gives the client time to feel and think. Listening means following the client’s meaning, not waiting for your turn to talk.</p>",
+          "source": "Added for the NCLEX — not in course materials (Communication slide 14 names therapeutic techniques but does not list them)",
+          "body": "<p>Your slides point to videos on therapeutic techniques but do not list them. This table gives the standard techniques the NCLEX expects. Each technique has a job. No single technique is always correct. Choose the one that fits what you need in this moment.</p><p>Open questions let the client describe a concern in their own words. A focused closed question gets one fact fast.</p><p>If you need the time chest pain started, ask, “What time did the pain start?” That focused question is the right tool there.</p><p>Silence is a technique, too. After hard news, quiet presence gives the client time to feel and think. Listening means following the client’s meaning, not waiting for your turn to talk.</p>",
           "table": {
             "headers": [
               "Client cue",
@@ -148,68 +180,116 @@ window.NURSE_DATA.push({
         {
           "heading": "Which replies block communication?",
           "keyIdea": "Barriers shut the conversation down, so the nurse never learns what the client actually needs.",
-          "body": "<p>A barrier is a reply that stops the client from sharing. Many barriers sound kind or efficient. They still close the door.</p><p>“Why” questions can sound like blame. “Why did you do that?” may feel like an accusation. “What was happening when that occurred?” invites the story instead.</p><p>Agreeing is not always therapeutic. Agreeing with an unsafe or distorted belief can make it stronger. Acknowledge the feeling, then check the facts.</p>",
+          "source": "Communication slide 13; “why” questions added for the NCLEX",
+          "body": "<p>A barrier is a reply that stops the client from sharing. Many barriers sound kind or efficient. They still close the door, so you never learn what the client needs.</p><p>Your course lists eleven barriers (below). Note that agreeing is on the list, along with disagreeing. Both judge the client’s view as right or wrong. Instead, acknowledge the feeling and explore it.</p><p>“Why” questions are not on the course list, but the NCLEX treats them as barriers. “Why did you do that?” can sound like blame. “What was happening when that occurred?” invites the story.</p>",
           "bullets": [
-            "<b>False reassurance:</b> “Don’t worry, it will be fine.” It promises what you cannot guarantee.",
-            "<b>Giving advice:</b> “If I were you, I would…” It replaces the client’s values with yours.",
-            "<b>Judging:</b> approving or disapproving. Clients stop sharing.",
-            "<b>Changing the subject:</b> “Let’s talk about lunch.” It avoids the concern.",
-            "<b>Being defensive or challenging:</b> it turns care into an argument.",
             "<b>Stereotyping:</b> assuming meaning from a group the client belongs to.",
-            "<b>Probing:</b> pushing for details that do not relate to care."
+            "<b>Agreeing and disagreeing:</b> “You’re right” or “That’s wrong.” Both judge the client’s view.",
+            "<b>Being defensive:</b> protecting yourself, other staff, or the facility instead of hearing the concern.",
+            "<b>Challenging:</b> making the client prove a statement or point of view.",
+            "<b>Probing:</b> asking for details mainly out of curiosity, not to help the client.",
+            "<b>Testing:</b> asking questions that make the client admit to something.",
+            "<b>Rejecting:</b> refusing to discuss certain topics with the client.",
+            "<b>Changing topics and subjects:</b> “Let’s talk about lunch.” It avoids the concern.",
+            "<b>Unwarranted or false reassurance:</b> “Don’t worry, it will be fine.” It promises what you cannot guarantee.",
+            "<b>Passing judgment:</b> approving or disapproving. Clients stop sharing.",
+            "<b>Giving common advice:</b> “If I were you, I would…” It replaces the client’s values with yours."
           ]
         },
         {
           "heading": "Passive, aggressive, or assertive?",
-          "keyIdea": "Assertive communication states the problem and the needed action directly, honestly, and respectfully.",
-          "body": "<p><b>Passive</b> means hiding your own concern to keep others comfortable. <b>Aggressive</b> means pushing your view while attacking or ignoring the other person. <b>Assertive</b> means direct, honest, and respectful.</p><p>An “I” statement helps: “I am concerned about this new change, and I need a review now.” Assertive does not mean louder. Your tone, posture, and timing should support your words.</p><p>When someone pushes back, use the course strategies below. Agreeing on one point never means dropping the safety issue. If the concern stays unresolved, use your facility’s escalation pathway.</p>",
+          "keyIdea": "Assertive communication is direct, honest, and appropriate. It stands up for the nurse or client while respecting others.",
+          "source": "Communication slides 15–16",
+          "body": "<p>Your course describes three types of communicators (table). The assertive style is the most productive.</p><p><b>Assertive</b> communicators use “I” statements rather than “you” statements: “I am concerned about this new change, and I need you to assess the client now.” Assertive does not mean louder. It means standing up for yourself, or your client, while staying open to other ideas.</p>",
           "table": {
             "headers": [
               "Style",
-              "Example",
-              "Likely effect"
+              "Course description",
+              "Example"
             ],
             "rows": [
               [
                 "Passive",
-                "“Sorry to bother you. I’ll call back if anything changes.”",
-                "The safety concern stays unaddressed."
+                "Focuses on the needs of others. Tries to meet their requests. Often denies own power or authority.",
+                "“Sorry to bother you. I’ll call back if anything changes.” The safety concern stays unaddressed."
               ],
               [
                 "Aggressive",
-                "“You always say that.” Or: “Fine, I’ll report you.”",
-                "The attack or threat distracts from the client."
+                "Focuses on own needs and becomes impatient when they are not met. Asserts own rights without considering others. May seem self-righteous or superior. Often felt as a personal attack.",
+                "“You always say that.” Or: “Fine, I’ll report you.”"
               ],
               [
                 "Assertive",
-                "“I understand you’re busy. This is a new change. I need you to assess the client now.”",
-                "States the problem and the request."
+                "Declares and affirms opinions. Respects others’ right to speak assertively, too. Communicates directly, honestly, and appropriately.",
+                "“I understand you’re busy. This is a new change. I need you to assess the client now.”"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "What does an assertive nurse do?",
+          "keyIdea": "Assertive nurses stay calm, use “I” statements, and repeat a clear request. The course names specific techniques to practice.",
+          "source": "Communication slides 17–19; escalation note added for the NCLEX",
+          "body": "<p>An assertive nurse is professional and advocates for the client. Ideas are expressed directly and without confrontation. The approach is nonjudgmental and non-blaming, which makes a win-win result more likely.</p><p>The course names nine techniques (below). Agreeing with part of a criticism never means dropping a safety issue. If the concern stays unresolved, use your facility’s escalation pathway.</p>",
+          "table": {
+            "headers": [
+              "Course list",
+              "What it includes"
+            ],
+            "rows": [
+              [
+                "Characteristics",
+                "Freedom to express self. Awareness of own rights. Self-control over strong emotions. Open to other points of view. Relaxed body language and a well-modulated tone. Able to receive feedback."
+              ],
+              [
+                "Benefits",
+                "Improves communication and outcomes. Reduces stress. De-escalates conflict. Reduces the chance of angry encounters."
               ]
             ]
           },
           "bullets": [
-            "Find a point of agreement: “I understand the unit is busy.”",
-            "Acknowledge any criticism that is valid.",
-            "Repeat one clear message: the finding and what you need.",
-            "Manage your own nonverbal signals: calm voice, open posture.",
-            "Think before you speak. Afterward, ask: was my concern specific and my request clear?"
+            "<b>“I” statements:</b> “I am concerned…” instead of “You never…”",
+            "<b>Fogging:</b> find even a small area of agreement and build from there. “I understand the unit is busy.”",
+            "<b>Negative assertion:</b> agree with valid criticism without anger, then focus on the positive.",
+            "<b>Repetition:</b> calmly restate one clear message: the finding and what you need.",
+            "<b>Confidence.</b>",
+            "<b>Managing nonverbal communication:</b> calm voice, relaxed and open posture.",
+            "<b>Thinking before speaking.</b>",
+            "<b>Avoiding apologizing</b> whenever possible.",
+            "<b>Post-conversation evaluation:</b> afterward, ask whether your concern was specific and your request clear."
           ]
         },
         {
           "heading": "Which channel fits the message?",
-          "keyIdea": "Match the channel to urgency, privacy, and the client’s access. Urgent problems need direct, immediate contact.",
-          "body": "<p>Written messages need clear order, accurate terms, and enough context. Electronic tools improve access but add risks. A message can be misread, read late, or seen by the wrong person.</p><p>Typing “confidential” in an email subject line does not make it secure. Use the approved secure system and verify the recipient per policy.</p><p>Ask if the client has a device and can use it. A portal cannot replace a plan for someone without internet or language support.</p>",
-          "example": "A clinic nurse reads a portal message sent 10 minutes ago. Since starting a new blood pressure pill, the client’s lips and tongue are swelling, and swallowing is getting hard. This is time-sensitive. The nurse contacts the client directly right away and follows the emergency protocol. A routine portal reply is not enough."
+          "keyIdea": "Match the channel to urgency and privacy. Urgent, abnormal, or highly confidential information should not go electronically.",
+          "source": "Communication slides 8–10",
+          "body": "<p>Electronic tools include client portals, email, social networks, and text messaging. They improve access, but they add risks. Confidentiality can be breached. Clients who cannot afford text messaging will not get appointment reminders.</p><p>Your course gives the rules below for electronic messages.</p><p>Written communication is a form of verbal communication. It makes context hard to show. Effective writing uses appropriate terms, correct grammar and spelling, logical order, and proper citation of sources.</p>",
+          "example": "A clinic nurse reads a portal message sent 10 minutes ago. Since starting a new blood pressure pill, the client’s lips and tongue are swelling, and swallowing is getting hard. This is time-sensitive. The nurse contacts the client directly right away and follows the emergency protocol. A routine portal reply is not enough.",
+          "bullets": [
+            "<b>Do not use electronic channels when:</b> information is urgent, diagnostic findings are abnormal, or the information is highly confidential.",
+            "<b>Get consent:</b> clients should agree to email contact.",
+            "<b>Label it:</b> state in the subject line that the email is confidential. The label alone does not secure it, so also use the approved secure system.",
+            "<b>Remember:</b> email can be used in court.",
+            "<b>Do not replace talk:</b> electronic messages are not a substitute for effective in-person communication. Use professional judgment."
+          ]
         },
         {
           "heading": "How do I know the message worked?",
           "keyIdea": "Feedback shows understanding. Ask the client to explain in their own words or show you.",
-          "body": "<p>Feedback is the receiver’s response. A nod is not enough. It may mean politeness, uncertainty, or confusion.</p><p>Ask the client to explain the plan in their own words or demonstrate a skill. If something is missing, clarify without blaming them. Also notice whether distress or frustration has eased.</p><p>With the team, close the loop on critical messages. The receiver repeats the request, timing, and follow-up, and the sender confirms.</p><p>Then document the key details and the client’s response. Success means shared understanding and safer action, not just more information.</p>",
-          "example": "A client starting a new anticoagulant (blood thinner) says, “Yes, I understand.” Stronger evidence is the client explaining, in their own words, what to watch for and what to do. Agreement alone does not show learning."
+          "source": "Communication slides 3, 29, 35; Ex D slides 3, 6",
+          "body": "<p>All communication aims to get a response. Feedback is the receiver’s response. Your course says to evaluate feedback to confirm that communication is working.</p><p>A nod is not enough. It may mean politeness, uncertainty, or confusion. Ask the client to explain the plan in their own words or demonstrate a skill. If something is missing, clarify without blaming them.</p><p>With the team, close the loop on critical messages. The receiver repeats the request, timing, and follow-up, and the sender confirms. Then document the key details and the client’s response.</p>",
+          "example": "A client starting a new anticoagulant (blood thinner) says, “Yes, I understand.” Stronger evidence is the client explaining, in their own words, what to watch for and what to do. Agreement alone does not show learning.",
+          "bullets": [
+            "The client communicates needs effectively, and the needs are met.",
+            "The client demonstrates a skill, such as correct inhaler use.",
+            "The client expresses less frustration, fear, or anxiety.",
+            "The client uses available resources appropriately."
+          ]
         },
         {
           "heading": "Common traps",
           "keyIdea": "Most wrong answers sound kind but promise, advise, judge, back down, or avoid the real concern.",
+          "source": "Added for the NCLEX — review of Communication slides 5–19, 28–35",
           "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
           "table": {
             "headers": [
@@ -238,8 +318,8 @@ window.NURSE_DATA.push({
                 "Silence is attentive presence. Avoidance is leaving or changing the subject."
               ],
               [
-                "Validating vs. agreeing",
-                "Validate the feeling. Do not agree with an unsafe or distorted belief."
+                "Validating vs. agreeing or disagreeing",
+                "Acknowledge the feeling. Agreeing and disagreeing are both course barriers, because they judge the client’s view."
               ],
               [
                 "Reading a cue vs. assuming",
@@ -255,6 +335,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Pick the reply that keeps the client talking, fits the purpose, and protects safety.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Communication items often ask for the “most therapeutic” reply. Others ask what to do first when cues do not match. Select-all items may ask which replies are barriers.</p><p><b>Sample question:</b> A client says, “I don’t think I can handle chemotherapy again.” Which reply is most therapeutic?</p><p>A: “Don’t worry, this round will be easier.”<br>B: “If I were you, I would finish the treatment.”<br>C: “What part feels hardest to face this time?”<br>D: “Let’s talk about your lunch order.”</p>",
           "bullets": [
             "“Most therapeutic reply”: look for an open question, reflection, or empathy about the client’s own words.",
@@ -275,6 +356,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: “I suppose I will manage”",
           "keyIdea": "Uncertain words plus quiet cues are a reason to explore, not to reassure.",
+          "source": "Added: worked example based on Communication slides 5–7, 13, 29, 35",
           "body": "<p>A client is being discharged with new equipment. The client says, “I suppose I will manage,” then stares at the equipment and goes quiet.</p><p>The nurse could say, “You will do fine.” But that would not reveal the real worry.</p><p>The concern could be fear, understanding, physical ability, cost, or support. Only exploring will show which one it is.</p>",
           "steps": [
             "Notice the cues: hesitant words, a long look at the equipment, sudden silence.",
@@ -292,11 +374,13 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 38 Communication slides 1–35",
           "body": "<p>This lesson follows your Module 38 slides.</p>",
           "bullets": [
-            "Module 38 Communication, slides 2–19 and SmartArt diagrams 1–11.",
-            "Assessment and evaluation content: slides 29–35.",
-            "Clarification: an email subject label such as “confidential” is not a security control. Use the approved secure system."
+            "Module 38 Communication, slides 2–19 (process, forms, barriers, communicator types) and slide 28 (believe nonverbal cues when they conflict with words).",
+            "Feedback and evaluation: slides 29 and 35. Closed loop and read-back: Ex D slides 3 and 6.",
+            "Not in the slides: the therapeutic-technique table and “why” questions. They come from standard NCLEX content.",
+            "Clarification: the course says to mark an email as confidential in the subject line. Do this, but the label is not a security control. Also use the approved secure system."
           ]
         }
       ],
@@ -323,7 +407,7 @@ window.NURSE_DATA.push({
         },
         {
           "q": "Does labeling an email “confidential” secure it?",
-          "a": "No. Use the approved secure system and verify the recipient."
+          "a": "No. The course says to mark the subject line confidential, but you must also use the approved secure system and verify the recipient."
         },
         {
           "q": "Why is nodding not enough evidence of understanding?",
@@ -397,19 +481,58 @@ window.NURSE_DATA.push({
         {
           "heading": "How do I find the real barrier?",
           "keyIdea": "Find out exactly which part of communication is blocked before you choose a fix.",
-          "body": "<p>Ask about preferred language, communication method, hearing, vision, and usual aids. Ask what has helped before. Then watch how the client responds to a simple request.</p><p>Separate sensory access from language and thinking. A client may understand perfectly once hearing aids are in.</p><p>A client with expressive aphasia may follow directions but struggle to name an object. Another may speak fluently yet misunderstand.</p><p>Once you find a method that works, document it. Make the aid available. Do not keep testing the client through a channel that fails.</p>",
+          "source": "Communication slides 29, 33",
+          "body": "<p>Start by evaluating the client’s communication style. Look for any language or communication barriers. Keep cultural values and practices in mind. Assess the ability to communicate both verbally and nonverbally.</p><p>Separate sensory access from language and thinking. A client may understand perfectly once hearing aids are in. Ask what has helped before.</p><p>Keep evaluating feedback to confirm that communication is working. Once you find a method that works, note it in the EHR and make the aid available. Do not keep testing the client through a channel that fails.</p>",
           "bullets": [
-            "Does the client understand a simple request?",
-            "Do they use words correctly, hesitate, repeat phrases, or try gestures or writing?",
-            "Are they alert? Are pain, fatigue, or anxiety getting in the way?",
-            "Could medications or a change in thinking be affecting communication?"
+            "A hearing aid, medical alert bracelet, or similar item.",
+            "The client trying to read your lips.",
+            "The client trying to use their hands to sign."
           ],
           "example": "An older adult keeps asking the nurse to repeat instructions. The hearing aids are in a bedside drawer, and the TV is loud. First, help the client put in the hearing aids and turn down the TV. Then check understanding."
         },
         {
+          "heading": "What speech and thinking changes should I note?",
+          "keyIdea": "Cognitive problems, some medicines, and conditions like delirium can change speech and understanding. Describe exactly what you hear.",
+          "source": "Communication slides 30–32",
+          "body": "<p>Disorders that impair thinking can affect the ability to use and understand language. Some medicines can impair speech, too. A client may lose the ability to find or name words, have impaired articulation, or lose speech completely.</p><p>Cognitive impairment, psychosis, delirium, or severe depression can alter thought processes. Signs include repeating the same words or phrases, talking about people or things that are not present, and flight of ideas.</p><p>Use the table to assess both verbal and nonverbal communication.</p>",
+          "table": {
+            "headers": [
+              "What to assess",
+              "What to note"
+            ],
+            "rows": [
+              [
+                "Response to speech",
+                "Does the client speak fluently or hesitate? Use words correctly? Follow directions? Repeat words or phrases when asked?"
+              ],
+              [
+                "Speech pattern",
+                "Slow or rapid, spontaneous or hesitant, quiet or overly loud, aggressive, or evasive."
+              ],
+              [
+                "Vocabulary",
+                "Any change from normal. Acute illness or extreme distress may cause words the client would not normally use."
+              ],
+              [
+                "Articulation",
+                "Trouble with a specific sound, lack of clarity, trouble speaking in sentences, loose associations, or flight of ideas."
+              ],
+              [
+                "Speaking at all",
+                "Refusal or inability to speak."
+              ]
+            ]
+          },
+          "check": {
+            "q": "A client who usually answers clearly now talks about people who are not in the room. What should the nurse note?",
+            "a": "An altered thought process. Describe the exact behavior. Because it is a change, assess for causes such as delirium and report it."
+          }
+        },
+        {
           "heading": "Which fix fits which barrier?",
           "keyIdea": "Each barrier needs its own adaptation and its own way to check that it worked.",
-          "body": "<p>Use the table to match the method to the need. Notice that every row ends with a check. An adaptation only counts if the client can actually use it.</p>",
+          "source": "Communication slides 27, 34",
+          "body": "<p>Your course names four ways to improve communication (below). Then use the table to match the method to the barrier.</p><p>Every row ends with a check. An adaptation only counts if the client can actually use it.</p>",
           "table": {
             "headers": [
               "Barrier",
@@ -424,7 +547,7 @@ window.NURSE_DATA.push({
               ],
               [
                 "Expressive language problem",
-                "Offer writing or picture choices, as appropriate.",
+                "Offer paper and pencil, a communication board, a tablet, or pictures, as appropriate.",
                 "Can the client reliably communicate a need?"
               ],
               [
@@ -442,12 +565,19 @@ window.NURSE_DATA.push({
           "check": {
             "q": "A client with low vision but normal hearing needs discharge teaching. What helps?",
             "a": "Read key points aloud, use large print and good lighting, and ask the client to explain the plan back. Adapt to the actual barrier, which is vision."
-          }
+          },
+          "bullets": [
+            "<b>Manipulate the environment:</b> control noise level and lighting.",
+            "<b>Provide support:</b> encouragement and nonverbal reassurance.",
+            "<b>Enhance communication:</b> use words with simple, concrete meanings, and stay on topic.",
+            "<b>Avoid cultural barriers:</b> watch your gestures, use interpreters, and understand cultural norms."
+          ]
         },
         {
           "heading": "How do I talk with children and teens?",
-          "keyIdea": "Match the message to the child’s development, include the child directly, and offer teens privacy.",
-          "body": "<p>Infants communicate through behavior. Watch crying, facial expression, comfort, and cues of engagement or overload.</p><p>Caregivers can tell you the infant’s usual signals. No speech does not mean no communication.</p><p>Toddlers are still building language. Use short, concrete words and one-step directions.</p><p>Give time to finish a thought. Offer limited safe choices.</p><p>Assess each child as an individual. Do not assume all children of one age communicate the same way.</p>",
+          "keyIdea": "Match the message to the child’s development, include the child directly, and build rapport with teens without judgment.",
+          "source": "Communication slides 21–24; teen confidentiality example added for the NCLEX",
+          "body": "<p>Infants communicate nonverbally. They perceive through their senses. Watch for two kinds of cues: engagement (ready to interact) and disengagement (needs a break). Learn each infant’s expressive messages.</p><p>Toddlers are gaining expressive and receptive language. Let them finish their thoughts without interrupting. Give simple answers and one-step directions, because attention spans are short.</p><p>School-age children need chances to express themselves. Adolescents can think abstractly and make decisions about their own health care. They feel a strong need to share thoughts and feelings, but building rapport takes time.</p><p>Assess each child as an individual.</p>",
           "table": {
             "headers": [
               "Age group",
@@ -457,23 +587,23 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "Infant",
-                "Calm, consistent response. Adjust stimulation to the infant’s state.",
+                "Learn the infant’s engagement and disengagement cues. Respond calmly and consistently.",
                 "Assuming no speech means no message."
               ],
               [
                 "Toddler",
-                "One short step at a time. Pictures, familiar objects, caregiver support.",
-                "Long explanations or multi-step directions."
+                "Time to finish without interruption. Simple answers. One-step directions. Drawings, pictures, and photos.",
+                "Interrupting. Long explanations or multi-step directions."
               ],
               [
                 "School-age",
-                "Eye level, honest concrete words, questions welcome. Let the child see or handle supplies. Drawing, play, or stories.",
+                "Eye level. Include the child in the talk and in care. Listen openly. Answer honestly in words they understand. Stories, drawing, painting, or other art. Books or movies about a similar condition. Writing for older children.",
                 "Saying “it won’t hurt.” Talking only to adults."
               ],
               [
                 "Adolescent",
-                "Private time, nonjudgmental listening, clear expectations, honest limits of confidentiality.",
-                "Promising total secrecy. Reacting with shock."
+                "Active listening. A nonjudgmental attitude and nonreactive behavior. Clearly explained expectations. Praise.",
+                "Showing judgment or shock. Teens are very sensitive to feeling judged."
               ]
             ]
           },
@@ -481,20 +611,33 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "What about adults, pregnancy, and family?",
-          "keyIdea": "Ask the adult client what they want, and include family only as the client wishes.",
-          "body": "<p>Adults vary widely. Stress, pain, acute illness, language, culture, and life demands all change what helps.</p><p>Assess at every encounter, even if you know the client. Use the person’s own experience as a resource.</p><p>During pregnancy and birth, ask about cultural values, decision preferences, and desired support. Listen to the pregnant client directly.</p><p>Do not assume a partner speaks for her. Not everyone in a culture shares the same preferences.</p><p>Shared decisions need understandable information. The client also needs a real chance to state her values and questions.</p>",
+          "keyIdea": "Adults vary widely, so look for barriers. In pregnancy, learn the family’s birth values and share decisions with the client.",
+          "source": "Communication slides 25–26",
+          "body": "<p>Young and middle-aged adults are at the peak of their communication abilities. Still, abilities vary widely. Young adults may keep some adolescent patterns. In upper middle age, some begin to have the physical or cognitive problems seen in older adults. Identify any barriers and plan for them.</p><p>During pregnancy and birth, therapeutic communication is essential to safety and comfort. Find out the family’s cultural values about birth. Engage in shared decision making. Listen to the client as well as give support.</p><p>Speak to the pregnant client directly. Do not assume a partner speaks for her. Not everyone in a culture shares the same values.</p>",
           "example": "During labor, a partner says, “I make the decisions. In our culture, she agrees with whatever I say.” The nurse asks the client privately about her decision and support preferences. The nurse speaks to her directly and includes the partner as she wishes. The nurse neither stereotypes nor dismisses the culture."
         },
         {
           "heading": "How do I talk with older adults?",
-          "keyIdea": "Make communication accessible without talking down, and treat new confusion as a change to assess.",
-          "body": "<p>Reduce distractions, face the person, and speak clearly in a natural tone. Allow time. Check that glasses and hearing aids are in and working.</p><p>Short concrete sentences help when attention is a barrier. But do not simplify every talk just because of age. Ask whom the client wants included.</p><p><b>Elderspeak</b> means baby talk, pet names, or exaggerated praise. It harms dignity and self-concept. Speaking only to family when the client can take part does the same harm.</p><p>New language trouble, confusion, or reduced responsiveness may need urgent assessment, not just a new strategy.</p>",
-          "example": "A nursing assistant tells an alert 82-year-old, “Good girl, sweetie! Let’s take our pills now.” The nurse addresses this with the assistant and models adult-to-adult speech, using the client’s preferred name."
+          "keyIdea": "Remove sensory and cognitive barriers, speak simply without talking down, and believe nonverbal cues when words disagree.",
+          "source": "Communication slides 27–28",
+          "body": "<p>Older adults may have sensory deficits, cognitive impairment, neurologic deficits, or psychosocial problems that affect communication. Make sure glasses and hearing aids are in and working. Offer aids such as paper and pencil, a communication board, a tablet, or pictures. Refer to services and resources as needed.</p><p><b>Elderspeak</b> means baby talk, pet names, or exaggerated praise. It harms dignity. Short, simple sentences are not elderspeak. Speaking only to family when the client can take part also harms dignity.</p><p>New language trouble or confusion may need urgent assessment, not just a new strategy.</p>",
+          "example": "A nursing assistant tells an alert 82-year-old, “Good girl, sweetie! Let’s take our pills now.” The nurse addresses this with the assistant and models adult-to-adult speech, using the client’s preferred name.",
+          "bullets": [
+            "Keep environmental distractions to a minimum.",
+            "Speak in short, simple sentences.",
+            "Avoid elderspeak.",
+            "Always face the client when speaking.",
+            "Include family and friends in the conversation.",
+            "Believe the nonverbal message when it conflicts with the words.",
+            "Pay careful attention to the client’s feelings.",
+            "Find out what is important to the client, and try to maintain it."
+          ]
         },
         {
           "heading": "How do I use interpreters and aids?",
           "keyIdea": "A qualified interpreter or a tested aid carries the client’s own voice. Neither replaces it.",
-          "body": "<p>Use a qualified interpreter when language support is needed. This can be by phone, video, or in person, per policy. Family may give emotional support.</p><p>They should not replace qualified interpretation for complex clinical information. Avoid using children as interpreters.</p><p>A translated handout can support an interpreted session. It cannot replace one.</p><p>For aids, choose based on vision, movement, literacy, and comprehension. Set up a reliable way to say yes and no if suitable. Placing a board within reach does not prove it works.</p><p>Practice with the client. Involve speech-language pathology when needed.</p>",
+          "source": "Communication slides 27, 33–34; interpreter details added from current practice standards",
+          "body": "<p>Your course lists interpreters as a way to avoid cultural barriers. Current practice standards add detail. Use a qualified medical interpreter by phone, video, or in person, per policy.</p><p>Family may give emotional support. They should not replace qualified interpretation for clinical information. Avoid using children as interpreters. A translated handout can support an interpreted session. It cannot replace one.</p><p>For aids, help the client get access to any assistive device. Note it in the EHR and keep it available. Choose based on vision, movement, literacy, and comprehension. Placing a board within reach does not prove it works.</p><p>Practice with the client. Refer to services such as speech-language pathology when needed.</p>",
           "bullets": [
             "Speak directly to the client, not to the interpreter.",
             "Talk in short segments, and pause for interpretation.",
@@ -506,18 +649,26 @@ window.NURSE_DATA.push({
         {
           "heading": "How do I plan and evaluate communication care?",
           "keyIdea": "Set a functional goal, judge it by real use, and escalate any new communication loss urgently.",
-          "body": "<p>Use the nursing process (ADPIE: assess, diagnose, plan, implement, evaluate). Assessment names the barrier and the client’s strengths.</p><p>A strong goal is functional: “By end of shift, the client will use the board to communicate pain, toileting, and position needs.” “Communication will improve” is too vague.</p><p>Evaluation asks whether the client used the method accurately, with less frustration. Put the working method in the record and handoff.</p><p>Do not equate slow speech with low competence. If decision ability is in question, use the proper assessment process. Sudden aphasia, new weakness, or a drop in alertness needs emergency evaluation per protocol. Any one of these alone is enough.</p>",
+          "source": "Communication slides 33–35; sudden-aphasia point added for the NCLEX",
+          "body": "<p>Use the nursing process (ADPIE: assess, diagnose, plan, implement, evaluate). The course diagnosis is difficulty with communication. It may be receptive (understanding) or expressive (getting a message out).</p><p>Plan with the client. Course goals: the client will have an effective method of communicating, and will maximize the ability to understand and be understood. Make goals functional: “By end of shift, the client will use the board to communicate pain, toileting, and position needs.”</p><p>Evaluate with the course outcomes (below). Put the working method in the EHR and handoff.</p><p>Do not equate slow speech with low competence. Sudden aphasia, new weakness, or a drop in alertness needs emergency evaluation per protocol. Any one alone is enough.</p>",
           "steps": [
             "Assess understanding and expression separately.",
             "Identify sensory, language, thinking, movement, and environment needs.",
             "Choose the method together with the client.",
             "Practice and verify that messages come through accurately.",
             "Document the method, the help needed, and the client’s response."
+          ],
+          "bullets": [
+            "The client communicates needs effectively, and the needs are met.",
+            "The client demonstrates a skill, such as correct inhaler use.",
+            "The client expresses less frustration, fear, or anxiety.",
+            "The client uses available resources appropriately."
           ]
         },
         {
           "heading": "Common traps",
           "keyIdea": "Wrong answers usually judge ability too fast, hand the client’s voice to someone else, or miss an emergency.",
+          "source": "Added for the NCLEX — review of Communication slides 20–35",
           "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
           "table": {
             "headers": [
@@ -543,7 +694,7 @@ window.NURSE_DATA.push({
               ],
               [
                 "Older age vs. reduced ability",
-                "Assess function. Do not simplify or use elderspeak because of age."
+                "Assess function. Avoid elderspeak. Short, simple sentences are a course strategy, but never talk down."
               ],
               [
                 "Privacy vs. total secrecy",
@@ -563,6 +714,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Choose the answer that removes the real barrier and keeps the client at the center of the conversation.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Questions often describe an older adult, a child, a language need, or aphasia. The right answer usually fixes access first or protects the client’s voice. Watch for sudden neurologic change hidden in the stem.</p><p><b>Sample question:</b> A client who spoke normally earlier suddenly cannot get words out and has new arm weakness. What should the nurse do first?</p><p>A: Give the client a picture board.<br>B: Ask family how the client usually communicates.<br>C: Get urgent evaluation per stroke or rapid response protocol.<br>D: Document expressive aphasia in the care plan.</p>",
           "bullets": [
             "“What should the nurse do first?” with hearing aids in a drawer: fix sensory access.",
@@ -583,6 +735,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: protect the client’s voice",
           "keyIdea": "Slow down, use a tested method, and let the client answer for themselves.",
+          "source": "Added: worked example based on Communication slides 29–34",
           "body": "<p>A client had a stroke 2 years ago and has long-standing expressive aphasia. During admission, staff ask questions quickly, and the client becomes frustrated.</p><p>The spouse begins answering every question. Yet the client follows one-step directions and points accurately to pictures.</p><p>These cues show the client understands and can express needs another way. A communication disability does not mean the client cannot decide. The spouse’s speed should not decide who takes part.</p>",
           "steps": [
             "Slow down. Reduce distractions and ask one question at a time.",
@@ -600,10 +753,12 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 38 Communication slides 20–35",
           "body": "<p>This lesson follows your Module 38 slides.</p>",
           "bullets": [
-            "Module 38 Communication, slides 20–35 and SmartArt diagrams 12–22.",
-            "Accessible communication examples apply the course’s emphasis on interpreters, sensory aids, developmental level, and feedback."
+            "Module 38 Communication, slides 20–28 (lifespan) and 29–35 (nursing process).",
+            "Added from current practice standards: qualified interpreters, not using children to interpret, teen confidentiality limits, and treating sudden aphasia as an emergency.",
+            "Course strategy for older adults: short, simple sentences. This is not elderspeak, which the course says to avoid."
           ]
         }
       ],
@@ -663,7 +818,7 @@ window.NURSE_DATA.push({
         "Attribute reports to their source. Do not chart findings you did not verify.",
         "Correct errors through the approved process. Never erase, hide, or backdate.",
         "Charting by exception still requires defined standards and required flow sheets.",
-        "Secure the screen and use only your own login. Never chart under someone else’s.",
+        "Log off when you are not using the computer, and use only your own login.",
         "A family relationship alone does not authorize disclosure. Verify the caller and the client’s wishes."
       ],
       "keyTerms": [
@@ -708,20 +863,25 @@ window.NURSE_DATA.push({
         {
           "heading": "Why does the record matter?",
           "keyIdea": "The record is the shared care story that keeps the next clinician safe and accurate.",
-          "body": "<p>The record serves many purposes at once. Each one depends on notes that are accurate, timely, and complete.</p><p>Documentation never replaces direct communication. If you notice a client getting worse while charting, stop.</p><p>Assess, act, and escalate first. Then document what happened.</p>",
+          "source": "Ex C slides 3, 6, 16",
+          "body": "<p>Each client record is a formal, legal document. The Joint Commission and other accrediting agencies require it. Follow your organization’s own policies for documenting and reporting.</p><p>The course lists eight purposes of the record (below). Each depends on notes that are accurate, timely, and complete.</p><p>Documentation never replaces direct communication. If you notice a client getting worse while charting, stop. Assess, act, and escalate first. Then document the change and show the follow-up actions you took.</p>",
           "bullets": [
             "<b>Communication</b> among team members and across shifts.",
-            "<b>Care planning</b> and continuity of care.",
-            "<b>Quality review</b> and education.",
+            "<b>Planning</b> client care.",
+            "<b>Auditing</b> health agencies.",
+            "<b>Research.</b>",
+            "<b>Education.</b>",
             "<b>Reimbursement</b>, which means payment for care.",
-            "<b>Legal accountability</b> for what was done and why."
+            "<b>Legal documentation</b> of the care given.",
+            "<b>Health care analysis.</b>"
           ],
           "example": "While charting, a nurse notices the client’s oxygen saturation is 86% on room air and the client is newly confused. The nurse stops charting, acts on the low oxygen, and escalates. Documentation comes promptly afterward."
         },
         {
           "heading": "What goes into a good note?",
-          "keyIdea": "A good note shows the finding, the action, who was told, and what happened next.",
-          "body": "<p>Include key findings, priorities, care given, communication, and outcomes. Date and time each entry, use accepted terms, and identify yourself as required. Show follow-up for any big change.</p><p>“Provider aware” is incomplete. The reader needs to know what was reported, when, to whom, the reply, and what happened next.</p><p>Short is fine, but not empty. Avoid copying long text that hides current concerns.</p><p>Do not carry forward an assessment you did not perform. Templates help only when they match this client right now. Use only approved abbreviations, because an unclear one can change the meaning. Before you finish, reread the note as the next nurse would.</p>",
+          "keyIdea": "A good note meets legal standards and shows the finding, the action, who was told, and what happened next.",
+          "source": "Ex C slides 15–16",
+          "body": "<p>Besides keeping records confidential, nurses must meet legal standards for documenting. The course lists what every entry needs (below).</p><p>Before charting, read prior notes. Document any change in condition and show that follow-up actions were taken. “Provider aware” is incomplete. The reader needs what was reported, when, to whom, the reply, and what happened next.</p><p>Be mindful of abbreviations. Use only approved ones, because an unclear one can change the meaning. Do not carry forward an assessment you did not perform. Before you finish, review the note for clarity and accuracy.</p>",
           "table": {
             "headers": [
               "Vague or judgmental",
@@ -745,24 +905,52 @@ window.NURSE_DATA.push({
                 "Include the content, learner, method, response, and remaining needs."
               ]
             ]
-          }
+          },
+          "bullets": [
+            "Date and time.",
+            "Accepted terminology.",
+            "Correct spelling.",
+            "Signature, if on paper.",
+            "Accuracy.",
+            "Sequence: events in the order they happened.",
+            "Appropriateness.",
+            "Completeness.",
+            "Conciseness."
+          ]
         },
         {
           "heading": "How do I chart facts, not labels?",
           "keyIdea": "Describe what you saw and heard, quote the client, and name the source of every report.",
-          "body": "<p>Describe behavior instead of labels. “Client shouted, ‘Leave me alone,’ and turned away during care” tells more than “client difficult.”</p><p>Record pain as the client reports it, plus observable findings. A quote keeps the meaning, though it does not prove every claim in it.</p><p>Separate your own assessment from another person’s report. “Daughter reports client usually walks independently at home” is not an observed gait assessment.</p><p>Never chart someone else’s work as yours. Avoid guessing about motives, blame, or diagnoses.</p>",
+          "source": "Ex C slide 16",
+          "body": "<p>Your course says to use objective, specific, factual descriptions. Do not use vague terms or record assumptions.</p><p>Describe behavior instead of labels. “Client shouted, ‘Leave me alone,’ and turned away during care” tells more than “client difficult.”</p><p>Record the client’s actual words in quotation marks. A quote keeps the meaning, though it does not prove every claim in it. Document the client’s response to each intervention.</p><p>Separate your own assessment from another person’s report. Never document for someone else.</p>",
           "example": "A transfer note says, “Ambulates independently.” The daughter says the client usually walks alone at home. The nurse has not seen the client walk. Accurate entry: “Daughter reports client walks independently at home. Gait not yet assessed by this nurse.”"
         },
         {
           "heading": "How do I fix errors and late entries?",
-          "keyIdea": "Correct mistakes openly through the approved process, and never chart care before it happens.",
-          "body": "<p>Never chart care before it happens. A planned medicine or assessment may be delayed, refused, or changed.</p><p>Precharting creates a false record. Chart as soon as you can after care, while keeping safety first.</p><p>When you find an error, use the approved correction or amendment process. Keep the original entry and the audit trail visible. Do not erase, hide, backdate, or quietly overwrite it.</p><p>A late entry shows when it was written and when the event happened, per policy. EHR steps and deadlines vary by facility. The principles are accuracy and transparency.</p>",
+          "keyIdea": "Never chart in advance or alter a record. Correct errors by following agency policy.",
+          "source": "Ex C slides 5, 16; late-entry details added from current practice",
+          "body": "<p>Never document in advance of an event. A planned medicine or assessment may be delayed, refused, or changed. Charting early creates a false record. Be timely: chart as soon as you can after care, while keeping safety first.</p><p>Never alter a record. Know your agency’s policy for correcting an entry error, and follow it. Keep the original entry and the audit trail visible. Do not erase, hide, backdate, or quietly overwrite.</p><p>Late entries are not on the slides. In current practice, a late entry shows both when it was written and when the event happened, per policy.</p>",
           "example": "At 1030, a student’s note says, “1200 medication given, tolerated well.” The nurse must intervene. That medication has not been given yet."
+        },
+        {
+          "heading": "How do I protect privacy?",
+          "keyIdea": "Keep all client information confidential, open only records tied to your role, and log off when you step away.",
+          "source": "Ex C slides 4–5; family-disclosure and minimum-necessary notes added from current HIPAA guidance",
+          "body": "<p>The ANA Code of Ethics says the nurse has a duty to keep all client information confidential. Follow agency policies for record privacy. Access is limited to health care professionals involved in that client’s care. HIPAA sets rules for the privacy, confidentiality, and security of protected health information.</p><p>Students may access records for education, research, client studies, conferences, clinical rotations, and rounds. Use access only for those purposes. Curiosity about a neighbor or a public figure is never one.</p><p>A family relationship does not automatically allow disclosure. Privacy rules have specific exceptions, so neither “always share” nor “never share” is right. HIPAA’s minimum-necessary rule does not apply to sharing with providers for treatment.</p>",
+          "bullets": [
+            "Log off the computer when you are not actively using it.",
+            "Make sure information is not visible to others while in use.",
+            "Know the agency’s policy for correcting an entry error.",
+            "Follow agency policies for documenting sensitive material.",
+            "Use only your own login. Never chart under a colleague’s session."
+          ],
+          "example": "A caller says, “I’m the client’s sister. How did her surgery go?” The nurse first verifies the caller per policy, such as with a client code. The nurse then checks the client’s documented wishes about sharing."
         },
         {
           "heading": "Which charting systems will I see?",
           "keyIdea": "Systems differ in format, but each must tell the same accurate care story.",
-          "body": "<p>Your course covers several systems. Flow sheets track vital signs, intake and output, medications, and routine care.</p><p>Narrative notes explain context or changes a checklist cannot show. Use the facility’s set locations, and avoid conflicting entries.</p><p>Charting by exception does not mean “only chart emergencies.” It relies on defined norms and required flow sheets. A critical pathway lists the expected care and outcomes for a course.</p><p>Chart a variance with the actions and response. Never force a complex client to fit a template.</p>",
+          "source": "Ex C slides 7–11",
+          "body": "<p>Your course names six documentation systems (table). Whatever the system, the record must tell the same accurate care story.</p><p><b>Charting by exception (CBE)</b> records significant or unexpected findings, or exceptions to defined norms. It has three key elements: flow sheets, standards of nursing care, and bedside access to records. It does not mean “chart nothing.”</p><p><b>Critical pathways</b> are part of case management. They stress quality, cost-effective care with a multidisciplinary approach. A pathway names the outcomes a certain group of clients should reach each day of care, and the interventions needed each day.</p><p>A <b>variance</b> is an unexpected response that affects the plan of care. Document the unexpected event and the interventions used in response.</p>",
           "table": {
             "headers": [
               "System",
@@ -770,63 +958,86 @@ window.NURSE_DATA.push({
             ],
             "rows": [
               [
-                "Problem-oriented record",
+                "Problem-oriented medical record",
                 "Organizes the record around the client’s problems."
               ],
               [
-                "PIE",
-                "Problem, Intervention, Evaluation."
+                "PIE model",
+                "Problems, Interventions, Evaluation."
               ],
               [
                 "Focus charting",
-                "Centers on a concern. Commonly uses Data, Action, Response."
+                "Centers on a client concern. A common format is Data, Action, Response (not on the slides)."
               ],
               [
                 "Charting by exception",
-                "Documents changes from defined standards, using required flow sheets."
+                "Records significant or unexpected findings, measured against defined standards."
               ],
               [
-                "Electronic record and eMAR",
-                "Supports records, but the nurse still verifies and enters accurately."
+                "Electronic documentation",
+                "Uses standardized lists, drop-down menus, and nurse narrative. Easy to retrieve within and across agencies. eMARs track medicines, speed prescribing, and use audit tracking to help limit errors."
               ],
               [
-                "Critical pathway",
-                "Lists expected outcomes and care. Unexpected events are charted as variances."
+                "Case management and critical pathway",
+                "Day-by-day expected outcomes and interventions. Unexpected events are charted as variances."
               ]
             ]
           },
           "check": {
             "q": "A new nurse says, “With charting by exception, I don’t chart routine care.” Is this right?",
-            "a": "No. Charting by exception depends on defined norms and required flow sheets. Routine care is still documented in those set places."
+            "a": "No. CBE writes out only exceptions to defined norms. It depends on standards of nursing care and flow sheets, where routine care is still recorded."
+          },
+          "bullets": [
+            "Pathway advantages: promotes collaboration and reduces length of stay.",
+            "Pathways work best for clients with only one or two diagnoses and few individualized needs.",
+            "A client with an unpredictable course can be hard to document on a pathway."
+          ]
+        },
+        {
+          "heading": "What records follow the client’s stay?",
+          "keyIdea": "The admission assessment sets the baseline. Care plans, flow sheets, and progress notes track the client from there.",
+          "source": "Ex C slides 12–13",
+          "body": "<p>The admission assessment is a comprehensive assessment done when the client is admitted to the unit. It may be called the initial assessment. Its purpose is to evaluate the client’s health status and identify functional health problems.</p><p>After that, three kinds of records track care (table). Keep them current as findings and priorities change.</p>",
+          "table": {
+            "headers": [
+              "Record",
+              "What it contains"
+            ],
+            "rows": [
+              [
+                "Nursing care plan",
+                "Assessments, nursing diagnoses or care priorities, nursing interventions, and client outcomes. It is evidence of the current plan of care."
+              ],
+              [
+                "Flow sheets",
+                "Graphic record (such as vital signs), intake and output (I&O) record, and medication administration record (MAR)."
+              ],
+              [
+                "Progress notes",
+                "Client progress, problems or expectations, nursing interventions, and evaluations of those interventions."
+              ]
+            ]
           }
         },
         {
-          "heading": "How do I protect privacy?",
-          "keyIdea": "Open only the records your role needs, secure your screen, and verify before sharing anything.",
-          "body": "<p>Use the record only for your authorized role and purpose. Curiosity about a neighbor or a public figure is not a care need.</p><p>Students need supervised, authorized access. “For education” does not allow browsing or keeping identifiable records.</p><p>A family relationship does not automatically allow disclosure. Privacy rules have specific exceptions, so neither “always share” nor “never share” is right. HIPAA’s minimum-necessary rule does not apply to sharing with providers for treatment.</p>",
-          "bullets": [
-            "Use only your own login. Never chart under a colleague’s session.",
-            "Lock the screen or log out whenever you step away.",
-            "Use approved systems to share information, and verify the recipient.",
-            "Ask for guidance when you are unsure."
-          ],
-          "example": "A caller says, “I’m the client’s sister. How did her surgery go?” The nurse first verifies the caller per policy, such as with a client code. The nurse then checks the client’s documented wishes about sharing."
-        },
-        {
           "heading": "What about teaching, discharge, and transfer?",
-          "keyIdea": "Transition notes must show current status, real learning, and every unresolved need.",
-          "body": "<p>The admission assessment sets the baseline and starting plan. Ongoing notes and care plans should reflect new findings and updated priorities.</p><p>Teaching notes name the learner, content, method, and response. They include teach-back or demonstration results, barriers, and next steps. A printed packet does not prove understanding.</p><p>Discharge and referral records should include the items below. Give the client understandable instructions, and give the receiving team a clinical report.</p>",
+          "keyIdea": "Document all teaching. Discharge and transfer records must show current status and every ongoing need.",
+          "source": "Ex C slides 14, 16",
+          "body": "<p>Document all teaching. Name the learner, content, method, and response. Include teach-back or demonstration results, barriers, and next steps. A printed packet does not prove understanding.</p><p>Discharge instructions given to the client or family must be in understandable terms.</p><p>If the client transfers within the facility or to a long-term care facility, a report goes with the client for continuity of care. It includes all parts of the discharge instructions. It also describes the client’s condition before transfer and any teaching done.</p><p>A referral should include the items below.</p>",
           "bullets": [
-            "Current physical and cognitive status.",
-            "Ongoing problems, treatments, and medications.",
-            "Restrictions and teaching completed.",
-            "Follow-up plans and unresolved needs."
+            "Physical, cognitive, and mental health status at discharge.",
+            "Continuing health problems and current care needs.",
+            "Treatments to be continued.",
+            "Current medication list.",
+            "Restrictions on moving, diet, and bathing.",
+            "Education and instruction given at discharge."
           ],
           "example": "“Reviewed inhaler steps with client using demonstration. Client correctly performed four steps, omitted exhalation before use, then completed the full sequence after reteaching. Written plan provided; follow-up practice scheduled.”"
         },
         {
           "heading": "Common traps",
           "keyIdea": "Wrong answers chart first, chart early, chart labels, or hide mistakes.",
+          "source": "Added for the NCLEX — review of Ex C slides 4–16",
           "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
           "table": {
             "headers": [
@@ -856,7 +1067,7 @@ window.NURSE_DATA.push({
               ],
               [
                 "CBE vs. “chart nothing”",
-                "Exception charting relies on defined norms and required flow sheets."
+                "CBE writes out exceptions to defined norms. Routine care is still recorded on flow sheets."
               ],
               [
                 "“Notified” vs. a full report",
@@ -872,6 +1083,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Pick the entry that is factual, timed, attributed, and honest about what was and was not done.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Expect “which entry is best” and “which entry needs follow-up” items. Select-all items often list confidentiality actions or referral content. Priority items test whether you act before charting.</p><p><b>Sample question:</b> During morning care, a client shouts at the nurse and pushes a washcloth away. After pain medicine, the client accepts care 30 minutes later. Which entry is best?</p><p>A: “Client hostile and uncooperative.”<br>B: “Client shouted ‘Leave me alone’ and pushed washcloth away. Reported pain 7/10. Pain medicine given per order. 30 min later, accepted care.”<br>C: “Client refused care due to bad attitude.”<br>D: “Client was upset but is fine now.”</p>",
           "steps": [
             "<b>Read the stem:</b> a behavior, a likely cause, an action, and a later response.",
@@ -885,6 +1097,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: complete the care story",
           "keyIdea": "Connect the concern, the action, and the response so the next nurse knows what is still needed.",
+          "source": "Added: worked example based on Ex C slide 16",
           "body": "<p>At 1030, a client declines a dressing change and says, “I am afraid it will hurt.” The nurse assesses pain, discusses options, and gives the ordered pain medicine. At 1100, the client reports less pain and agrees to care.</p><p>“Pain addressed; provider aware” would not tell the next nurse anything useful. A clear note connects the events instead of calling the client difficult.</p>",
           "steps": [
             "Record the client’s concern as a quote, with pain findings and time.",
@@ -901,11 +1114,13 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 38 Ex C slides 1–16",
           "body": "<p>This lesson follows your Module 38 Exemplar C slides.</p>",
           "bullets": [
-            "Module 38 Ex C, slides 2–16 and SmartArt diagrams 1–4.",
+            "Module 38 Ex C, slides 2–16.",
             "Privacy clarification: HHS minimum necessary guidance (hhs.gov/hipaa/for-professionals/privacy/guidance/minimum-necessary-requirement); checked October 27, 2026.",
             "The minimum-necessary rule has an exception for disclosures to, or requests by, healthcare providers for treatment.",
+            "Added from current practice: late-entry rules, the Data, Action, Response format for focus charting, and family-disclosure rules.",
             "Local documentation and access policies decide the exact steps, such as EHR correction buttons and deadlines."
           ]
         }
@@ -951,7 +1166,7 @@ window.NURSE_DATA.push({
       "exemplar": "38.D Reporting",
       "summary": "Pass on a clear current picture, name what is still unresolved, and close the loop on every request, result, and order.",
       "objectives": [
-        "You can describe handoff as passing on information and responsibility, with time for questions.",
+        "You can describe handoff as a transfer of information, authority, and responsibility, with time for questions.",
         "You can organize a focused SBAR report with a clear request.",
         "You can prepare for a provider call without delaying emergency care.",
         "You can receive telephone results and orders safely, using read-back.",
@@ -959,10 +1174,10 @@ window.NURSE_DATA.push({
       ],
       "bigPicture": "<p>Reporting turns your assessment into team action. At every handoff, the next clinician needs to know who the client is, what changed, what is being done, and what is still unresolved. A long history with no priorities helps less than a short, organized report.</p><p>Good handoff is a conversation, not a list read aloud. The receiver asks questions and confirms. You stay responsible for spotting urgency, making a clear request, and following up if the client is still not safe.</p>",
       "recap": [
-        "A handoff transfers information and responsibility. Allow questions, and name pending tasks and who owns them.",
+        "A handoff transfers information, authority, and responsibility. Allow questions, and name pending tasks and who owns them.",
         "SBAR: Situation, Background, Assessment, Recommendation. The Recommendation is your specific request.",
         "Unstable client? Call for urgent help first. Do not delay to perfect a report.",
-        "Before a routine call, have current vitals, findings, relevant labs, medications, allergies, and your request ready.",
+        "Before a routine call, have the client’s name and diagnosis, changes in findings and vitals, pertinent labs, related interventions, and your request ready.",
         "Never guess a missing value. Say you do not know and verify it.",
         "Telephone orders and critical results: write it down, read it back, and get confirmation.",
         "Read-back checks the words. It does not prove the order is safe.",
@@ -971,7 +1186,7 @@ window.NURSE_DATA.push({
       "keyTerms": [
         {
           "term": "Handoff",
-          "def": "Passing information and responsibility to another clinician at a care transition, with time to ask questions and confirm."
+          "def": "A verbal or written transfer of information, authority, and responsibility during a care transition, with a chance to ask questions, clarify, and confirm."
         },
         {
           "term": "SBAR",
@@ -999,14 +1214,15 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Telephone or verbal order",
-          "def": "An order given by phone or spoken aloud. Who may give or take one depends on scope, state rules, and policy."
+          "def": "An order given by phone or spoken aloud. Who may give or take one depends on the Board of Nursing, scope, and facility policy."
         }
       ],
       "sections": [
         {
           "heading": "What makes a handoff useful?",
-          "keyIdea": "A useful handoff gives the current picture, the open tasks, and a chance to ask questions.",
-          "body": "<p>Identify the client using the required identifiers. Then select only information that changes what the next nurse understands or does. You do not need the client’s whole life story.</p><p>If a test is pending, say it is pending. Do not imply it was normal.</p><p>Give the receiver time to ask questions. Sending a document alone does not complete a handoff.</p>",
+          "keyIdea": "A handoff transfers information, authority, and responsibility, and gives the receiver a chance to ask, clarify, and confirm.",
+          "source": "Ex D slides 3–4",
+          "body": "<p>A handoff is a verbal or written transfer of information, authority, and responsibility during a transition of care. It covers all nursing care given and all team members who cared for the client during that time.</p><p>Every handoff includes a chance to ask questions, clarify, and confirm. A written report sent without that chance does not complete it.</p><p>Identify the client with the required identifiers. Select information that changes what the next nurse understands or does. If a test is pending, say it is pending. Do not imply it was normal.</p>",
           "bullets": [
             "Current status and any significant changes.",
             "Relevant treatments, recent tests or procedures, and new orders.",
@@ -1018,82 +1234,92 @@ window.NURSE_DATA.push({
         {
           "heading": "What are the four parts of SBAR?",
           "keyIdea": "SBAR moves from what is happening now to exactly what you need next.",
-          "body": "<p>SBAR keeps your report short and focused. Background is relevant context, not the full history. Assessment is your current findings plus your interpretation, within your role.</p><p>Never leave the Recommendation blank. You may not write medical orders, but you can request a bedside assessment, clarification, a treatment review, or help. Make the urgency clear.</p>",
+          "source": "Ex D slide 5",
+          "body": "<p>SBAR was developed by the U.S. Navy as a framework for safe, efficient communication between team members. It reduces miscommunication during handoffs, transfers, and shift changes. It helps improve client safety and team satisfaction.</p><p>Background is information relevant to the situation, not the full history. Assessment is your analysis and the options you see, within your role.</p><p>Never leave the Recommendation blank. You may not write medical orders, but you can recommend a bedside assessment, a clarification, a treatment review, or help. Make the urgency clear.</p>",
           "table": {
             "headers": [
               "Part",
-              "Question it answers",
+              "Course definition",
               "Example"
             ],
             "rows": [
               [
                 "Situation",
-                "What is happening now?",
+                "A concise statement of the problem.",
                 "New inattention and drowsiness began this afternoon."
               ],
               [
                 "Background",
-                "What context matters?",
+                "Information relevant to the situation.",
                 "Postoperative day one. Normally alert and independent."
               ],
               [
                 "Assessment",
-                "What did I find?",
-                "Current vital signs, oxygen level, focused findings, and the trend."
+                "Your analysis and consideration of options.",
+                "“Vital signs are stable, but this is a new change in thinking. It could be a medicine effect or early delirium.”"
               ],
               [
                 "Recommendation",
-                "What is needed next?",
+                "A recommendation based on the relevant information.",
                 "“I am requesting that you assess the client at the bedside now.”"
               ]
             ]
           },
           "check": {
-            "q": "A nurse reports new shortness of breath. Which part holds “Respiratory rate 28, oxygen saturation 89%, crackles in both bases”?",
-            "a": "Assessment. It lists current findings. The nurse can add an interpretation, such as concern about worsening breathing."
+            "q": "During an SBAR call, the nurse says, “Respiratory rate is 28 and oxygen saturation is 89%. I think fluid may be building up in the lungs.” Which SBAR part is this?",
+            "a": "Assessment. The nurse analyzes the findings and considers what may be happening. The Recommendation follows with a specific request."
           }
         },
         {
           "heading": "How do I prepare for a call?",
           "keyIdea": "Prepare well for a stable client, but never let preparation delay help for an unstable one.",
-          "body": "<p>Assess the client first. Know your specific concern and request. This prevents vague calls like “the client seems off.”</p><p>Match preparation to urgency. If the client is unstable, activate the urgent response pathway and stay with the client. Give a short report when help arrives.</p><p>During the call, identify yourself and the client. State the concern clearly. If you do not know a fact, say so and check.</p><p>Never invent a number. Confirm the plan before you hang up.</p>",
+          "source": "Ex D slide 6; urgent-response point added for the NCLEX",
+          "body": "<p>Assess the client first. Know your specific concern and request. This prevents vague calls like “the client seems off.”</p><p>Match preparation to urgency. If the client is unstable, activate the urgent response pathway and stay with the client. Give a short report when help arrives.</p><p>Your course says to be concise and accurate. Have the chart ready, and make the report with the client’s record open. If you do not know a fact, say so and check. Never invent a number. Confirm the plan before you hang up.</p>",
           "bullets": [
-            "Current vital signs and focused assessment findings.",
-            "Relevant recent lab results and recent interventions.",
-            "Current medications and allergies.",
-            "The chart, as needed, and a specific request.",
-            "Not needed: every past surgery from every admission."
+            "<b>Course list:</b> the client’s name and medical diagnosis.",
+            "<b>Course list:</b> significant changes in your assessment and vital signs.",
+            "<b>Course list:</b> pertinent lab data.",
+            "<b>Course list:</b> related nursing interventions.",
+            "<b>Also helpful:</b> current medications, allergies, and a specific request.",
+            "<b>Not needed:</b> every past surgery from every admission."
           ],
           "example": "A nurse is gathering labs for an SBAR call about rising drowsiness. Back in the room, the client responds only to pain and breathes 8 times a minute. The nurse activates the rapid response team and stays with the client."
         },
         {
           "heading": "What goes in shift and transfer reports?",
           "keyIdea": "Report what changed, what works, and what is still pending, not every unchanged detail.",
-          "body": "<p>Follow a consistent order and state priorities. Include changes and new orders from this shift. Cover safety needs, assistance, communication methods, treatments, monitoring, and pending follow-up.</p><p>For a client with delirium, report the baseline, the change, how it fluctuates, and what calms the client. Include any physical concerns being checked.</p><p>Transfer reports need current condition, ongoing needs, medicines and treatments, restrictions, teaching, and follow-up. Verify key details rather than trusting the old record.</p>",
+          "source": "Ex D slide 4; Ex C slide 14",
+          "body": "<p>A change-of-shift report follows a specific order and is concise. Your course lists what it covers (below).</p><p>Also cover safety needs, assistance, communication methods, monitoring, and pending follow-up. For a client with delirium, report the baseline, the change, how it fluctuates, and what calms the client. Protect privacy at the bedside, involve the client when appropriate, and invite questions.</p><p>Transfer reports go with the client. They include current condition, ongoing needs, medicines and treatments, restrictions, and teaching. Verify key details rather than trusting the old record.</p>",
           "bullets": [
-            "Protect privacy during bedside or hallway reports, per policy and the client’s wishes.",
-            "Involve the client when appropriate.",
-            "Invite questions, and confirm the receiver knows the top priority."
+            "Essential identifying information.",
+            "Reason for admission and current status.",
+            "Diagnostic tests or interventions in the past 24 hours.",
+            "Significant changes in condition and newly started HCP orders.",
+            "A clear statement of the priorities of care."
           ]
         },
         {
           "heading": "How do I receive a phone result?",
-          "keyIdea": "Write it down, read it back, then notify the provider directly and assess the client.",
-          "body": "<p>When someone calls with information, record the date, time, caller, and content per policy. Read important information back to confirm it. Critical results need prompt, direct action.</p><p>A voicemail or routine electronic message may not meet the requirement for urgent notification. When you report, confirm who will act and when. Writing “notified” does not show the concern was understood.</p>",
+          "keyIdea": "Document it, repeat it back, then notify the provider directly and assess the client.",
+          "source": "Ex D slide 6; critical-result example added for the NCLEX",
+          "body": "<p>When someone calls with a report, document the date, time, caller’s name, and subject of the information. Repeat the information back to the caller to confirm you understood. Critical results need prompt, direct action.</p><p>A voicemail or routine electronic message may not meet the requirement for urgent notification. When you report, confirm who will act and when. Writing “notified” does not show the concern was understood.</p>",
           "example": "The lab calls with a critical potassium of 6.6 mEq/L. First, the nurse records the result and the caller’s name and reads the value back. Then the nurse promptly notifies the provider directly and assesses the client. Potassium this high can cause dangerous heart rhythms."
         },
         {
           "heading": "How do I take a telephone order?",
           "keyIdea": "Capture the whole order, clarify anything unclear, read it back, and get confirmation before acting.",
-          "body": "<p>Who may give or receive telephone orders depends on scope, state rules, and facility policy. Your slide describes what RNs may do, but rules differ by state and setting. Names, numbers, units, and frequencies are easy to mishear.</p><p>Read-back checks that you heard correctly. It does not prove the order is safe. Clarify unclear, incomplete, or unsafe orders before acting.</p><p>If concerns remain, escalate. The prescriber later signs, or authenticates, the order. That deadline follows policy, not one universal time limit.</p>",
+          "source": "Ex D slides 7–8",
+          "body": "<p>Facilities may have their own policies. Many allow only RNs to receive telephone orders. Know your Board of Nursing’s (BON’s) position on who can give and accept verbal and phone orders. Wider use of EHRs has reduced telephone orders.</p><p>Names, numbers, units, and frequencies are easy to mishear. Read-back checks that you heard correctly. It does not prove the order is safe. Question any drug, dose, or change that does not seem right for the client.</p><p>The provider countersigns the order within the time set by facility policy.</p>",
           "steps": [
-            "Confirm the caller and their authority, per policy.",
-            "Write down or enter the complete order.",
-            "Ask the prescriber to spell an unfamiliar drug name. Clarify doses, units, routes, or timing.",
-            "Read back what you recorded. “Okay, got it” is not a read-back.",
-            "Get the prescriber’s confirmation.",
-            "Record it as a telephone order with the date, time, prescriber, and required details.",
-            "Then verify, implement, and follow up per policy."
+            "Know the BON’s position, and follow the facility’s policy and procedure.",
+            "Ask the HCP to spell any medication name you do not know.",
+            "Question any drug, dose, or change that does not seem appropriate for the client.",
+            "Write down or enter the complete order in the EHR, per facility policy.",
+            "Read it back to the HCP. Use words instead of abbreviations. Have the HCP confirm the read-back. “Okay, got it” is not a read-back.",
+            "Transcribe the order with the date and time received. Indicate it was a telephone order.",
+            "Sign your name and credentials as required.",
+            "Follow protocol so the HCP signs or verifies the order within the required time.",
+            "Follow facility protocols and best practices for entering dosages."
           ],
           "check": {
             "q": "A drug name on a phone order sounds unfamiliar, and the dose seems off. What first?",
@@ -1103,12 +1329,14 @@ window.NURSE_DATA.push({
         {
           "heading": "What if the client worsens after reporting?",
           "keyIdea": "Communication does not finish care. Reassess, and escalate again if the response does not match the risk.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>After a handoff or urgent call, check that the receiver knows the top priority, open tasks, and plan if the client worsens. Did the expected response happen? Is the client changing?</p><p>If help is delayed or the client gets worse, reassess and escalate through the proper pathway. Document reports, orders, clarifications, actions, and outcomes with exact times.</p>",
           "example": "A nurse used SBAR to report a blood pressure of 82/48 mm Hg and asked for bedside evaluation. The provider said to recheck in 4 hours. Thirty minutes later, the heart rate is 124/min and the client is restless. The nurse reassesses and escalates now."
         },
         {
           "heading": "Common traps",
           "keyIdea": "Wrong answers delay help for a perfect report, guess at unclear details, or assume one call ends the job.",
+          "source": "Added for the NCLEX — review of Ex D slides 3–8",
           "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
           "table": {
             "headers": [
@@ -1122,7 +1350,7 @@ window.NURSE_DATA.push({
               ],
               [
                 "Assessment vs. Situation",
-                "Situation is the problem in one line. Assessment is the findings and your interpretation."
+                "Situation is a concise statement of the problem. Assessment is your analysis and the options you see."
               ],
               [
                 "Prepared vs. delayed",
@@ -1150,6 +1378,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How the NCLEX tests this",
           "keyIdea": "Choose the option that matches urgency, makes a clear request, and closes the loop.",
+          "source": "Added for the NCLEX — not in course materials",
           "body": "<p>Expect “what should the nurse do first” items about deteriorating clients. Others ask which statement completes SBAR. Select-all items test telephone-order steps and handoff safety.</p><p><b>Sample question:</b> A nurse reported a client’s new inattention, postoperative history, current vitals, and focused findings. Which statement best completes the SBAR?</p><p>A: “The client had surgery yesterday.”<br>B: “I wanted to let you know.”<br>C: “I am requesting that you assess the client at the bedside now.”<br>D: “The client seems confused.”</p>",
           "steps": [
             "<b>Read the stem:</b> the nurse already gave Situation, Background, and Assessment.",
@@ -1163,6 +1392,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Worked case: report the next decision",
           "keyIdea": "A handoff should hand over the next decision, not just the chart.",
+          "source": "Added: worked example based on Ex D slides 3–8",
           "body": "<p>Near shift change, a client has a new assessment finding. A repeat check is due at 1900, and a test result is pending.</p><p>The outgoing nurse says, “Everything is in the chart.” That does not clearly transfer the open priorities.</p><p>If the client is getting worse now, use the urgent pathway. Do not wait for the next shift.</p>",
           "steps": [
             "Describe current status and the new concern.",
@@ -1180,18 +1410,21 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
+          "source": "Module 38 Ex D slides 1–8; Ex C slide 14",
           "body": "<p>This lesson follows your Module 38 Exemplar D slides.</p>",
           "bullets": [
-            "Module 38 Ex D, slides 2–8 and SmartArt diagrams 1–4.",
-            "Module 38 Ex C, discharge and referral content.",
-            "Who may give or receive verbal orders, and authentication workflows, follow your state’s rules, professional scope, and facility policy."
+            "Module 38 Ex D, slides 3–8.",
+            "Module 38 Ex C, slide 14 (discharge and transfer content).",
+            "The Ex D outcomes list the care plan conference, but no slide teaches it.",
+            "Added for the NCLEX: escalation when a client worsens after reporting, and the critical-result example.",
+            "Who may give or receive verbal orders follows your Board of Nursing, professional scope, and facility policy."
           ]
         }
       ],
       "mnemonics": [
         {
           "name": "SBAR",
-          "text": "<b>S</b>ituation: what is happening now. <b>B</b>ackground: relevant context. <b>A</b>ssessment: what I found and think. <b>R</b>ecommendation: what I need you to do."
+          "text": "<b>S</b>ituation: a concise statement of the problem. <b>B</b>ackground: relevant information. <b>A</b>ssessment: my analysis and the options. <b>R</b>ecommendation: what I recommend or need you to do."
         }
       ],
       "pearls": [

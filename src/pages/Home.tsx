@@ -1,21 +1,11 @@
-import { motion } from 'motion/react';
 import { useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { MODULE_BY_ID, QUESTIONS, UNITS, getTopic, isNewModule, unitModules } from '../data';
-import { NewBadge, UnitOverview } from '../components/UnitOverview';
-import { cx } from '../lib/util';
+import { MODULE_BY_ID, UNITS, getTopic, unitModules } from '../data';
+import { NewBadge } from '../components/UnitOverview';
 import { Icon, type IconName } from '../components/Icon';
-import { CountUp, Ring, stagger } from '../components/ui';
 import { emptyFilters, matchQuestions, recommendations, recordsFromAttempts, smartPick, statusOf, streak } from '../lib/analytics';
 import { createSession } from '../lib/session';
 import { useProgress } from '../store/progress';
-
-const QUOTES = [
-  { q: 'Let us never consider ourselves finished nurses… we must be learning all of our lives.', a: 'Florence Nightingale' },
-  { q: 'I attribute my success to this: I never gave or took any excuse.', a: 'Florence Nightingale' },
-  { q: 'Nurses are the heart of healthcare.', a: 'Donna Wilk Cardillo' },
-  { q: 'Were there none who were discontented with what they have, the world would never reach anything better.', a: 'Florence Nightingale' },
-];
 
 function greeting() {
   const h = new Date().getHours();
@@ -35,10 +25,7 @@ export function ModuleGlyph({ icon }: { icon: IconName }) {
 
 
 export function Home() {
-  const { attempts, days, active, startSession, lastTopic } = useProgress();
-  const [lastMid, lastTid] = (lastTopic ?? '').split(':');
-  const lastT = lastTopic ? getTopic(lastMid, lastTid) : undefined;
-  const lastM = lastT ? MODULE_BY_ID[lastMid] : undefined;
+  const { attempts, days, active, startSession, lastTopic, read } = useProgress();
   const navigate = useNavigate();
   const records = useMemo(() => recordsFromAttempts(attempts), [attempts]);
   const answered = records.length;
@@ -46,7 +33,10 @@ export function Home() {
   const mastered = records.filter((r) => r.mastery === 'mastered').length;
   const days_ = streak(days);
   const rec = useMemo(() => recommendations(records, undefined, 1)[0], [records]);
-  const quote = QUOTES[new Date().getDate() % QUOTES.length];
+  const [lastMid, lastTid] = (lastTopic ?? '').split(':');
+  const lastT = lastTopic ? getTopic(lastMid, lastTid) : undefined;
+  const lastM = lastT ? MODULE_BY_ID[lastMid] : undefined;
+  const firstUnit = UNITS[0];
 
   const quick = (pool: 'smart' | 'weak') => {
     const f = { ...emptyFilters(), pool };
@@ -56,222 +46,92 @@ export function Home() {
     navigate('/session');
   };
 
-  const actions: { icon: IconName; title: string; sub: string; color: string; onClick?: () => void; to?: string }[] = [
-    { icon: 'bolt', title: 'Quick 10', sub: 'Adaptive mix with hints and instant rationales', color: 'var(--brand)', onClick: () => quick('smart') },
-    {
-      icon: 'target',
-      title: 'Weak spots',
-      sub: answered ? 'Missed and right-but-shaky questions' : 'Unlocks once you’ve practiced',
-      color: 'var(--m16)',
-      onClick: () => (answered ? quick('weak') : navigate('/practice')),
-    },
-    { icon: 'target', title: 'Priority drills', sub: 'Practice deciding what the nurse does first', color: 'var(--accent)', to: '/practice?types=priority' },
-    { icon: 'exam', title: 'Timed exam', sub: 'Test conditions and a full performance report', color: 'var(--m15)', to: '/exam' },
-  ];
+  let next: { label: string; title: string; detail: string; to: string; cta: string };
+  if (active) next = { label: 'Pick up where you left off', title: active.title, detail: `Question ${active.idx + 1} of ${active.qids.length}`, to: '/session', cta: 'Resume session' };
+  else if (lastT && lastM) next = { label: 'Continue reading', title: lastT.title, detail: `Module ${lastM.number} · ${lastM.title}`, to: `/learn/${lastMid}/${lastTid}`, cta: 'Open lesson' };
+  else next = { label: 'Start here', title: firstUnit.title, detail: `${firstUnit.label} · read a lesson, then practice its questions`, to: `/learn/${firstUnit.slug}`, cta: `Open ${firstUnit.label}` };
 
   return (
-    <div className="container">
-      <motion.section className="hero" initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, ease: [0.2, 0.8, 0.2, 1] }}>
-        <div className="hero-grid" />
-        <div className="hero-glow" />
-        <div className="hero-glow b" />
-        <svg className="ecg" viewBox="0 0 1200 100" preserveAspectRatio="none" aria-hidden="true">
-          <path d="M0 60 H240 l18 -6 l12 6 H360 l10 -44 l14 84 l12 -56 l9 16 H560 l16 -8 l14 8 H760 l10 -44 l14 84 l12 -56 l9 16 H960 l16 -8 l14 8 H1200" />
-        </svg>
-        <span className="eyebrow">
-          <span className="live-dot" /> {greeting()} · NCLEX-RN · NGN format
-        </span>
-        <motion.h1 initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1, duration: 0.6 }}>
-          Think like a nurse. <em>Pass like one.</em>
-        </motion.h1>
-        <motion.p className="lead" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.18, duration: 0.6 }}>
-          {QUESTIONS.length} NCLEX-style questions — priority, single best answer, and select-all-that-apply — that connect the ideas within each module the way the exam does, with coaching hints and rationales that teach.
-        </motion.p>
-        <motion.div className="row" style={{ marginTop: '1.5rem' }} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.26, duration: 0.6 }}>
-          <Link className="btn btn-primary btn-lg" to="/practice">
-            Start practicing <Icon name="arrowRight" />
-          </Link>
-          <Link className="btn btn-ghost btn-lg" to="/learn">
-            <Icon name="book" /> Study guides
-          </Link>
-        </motion.div>
-        <div className="hero-stats">
-          <div className="hero-stat">
-            <b>
-              <CountUp to={answered} />
-            </b>
-            <span>Questions answered</span>
-          </div>
-          <div className="hero-stat">
-            <b>{answered ? <CountUp to={Math.round(accuracy * 100)} suffix="%" /> : '—'}</b>
-            <span>Average score</span>
-          </div>
-          <div className="hero-stat">
-            <b>
-              <CountUp to={mastered} />
-            </b>
-            <span>Mastered</span>
-          </div>
-          <div className="hero-stat">
-            <b>
-              <CountUp to={days_} />
-            </b>
-            <span>Day streak</span>
-          </div>
+    <div className="container home">
+      <header className="home-head">
+        <p className="eyebrow">{greeting()}</p>
+        <h1>What would you like to study today?</h1>
+      </header>
+
+      <Link to={next.to} className="next-up">
+        <div>
+          <span className="next-label">{next.label}</span>
+          <strong className="next-title">{next.title}</strong>
+          <span className="next-detail">{next.detail}</span>
         </div>
-      </motion.section>
+        <span className="btn btn-primary">
+          {next.cta} <Icon name="arrowRight" />
+        </span>
+      </Link>
 
-      {active && (
-        <motion.div className="resume card" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}>
-          <div className="resume-icon">
-            <Icon name={active.mode === 'exam' ? 'exam' : 'pulse'} />
-          </div>
-          <div>
-            <b>Resume your session</b>
-            <p className="muted small" style={{ margin: 0 }}>
-              {active.title} · question {active.idx + 1} of {active.qids.length}
-            </p>
-          </div>
-          <div className="spacer" />
-          <Link to="/session" className="btn btn-primary">
-            Resume <Icon name="arrowRight" />
-          </Link>
-        </motion.div>
-      )}
-
-      {lastT && lastM && (
-        <motion.div className="resume card" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.25 }} style={{ ['--mc' as string]: lastM.color }}>
-          <div className="resume-icon">
-            <Icon name="book" />
-          </div>
-          <div>
-            <b>Continue reading</b>
-            <p className="muted small" style={{ margin: 0 }}>
-              Module {lastM.number} · {lastT.title}
-            </p>
-          </div>
-          <div className="spacer" />
-          <Link to={`/learn/${lastMid}/${lastTid}`} className="btn">
-            Open lesson <Icon name="arrowRight" />
-          </Link>
-        </motion.div>
-      )}
-
-      <motion.section className="section grid grid-4" variants={stagger.container} initial="hidden" animate="show">
-        {actions.map((a) => {
-          const inner = (
-            <>
-              <div className="action-icon" style={{ ['--c' as string]: a.color }}>
-                <Icon name={a.icon} />
-              </div>
-              <span className="arrow-go">
-                <Icon name="arrowRight" />
-              </span>
-              <div>
-                <h3>{a.title}</h3>
-                <p>{a.sub}</p>
-              </div>
-            </>
-          );
-          return (
-            <motion.div key={a.title} variants={stagger.item}>
-              {a.to ? (
-                <Link to={a.to} className="card card-link action spot" style={{ ['--mc' as string]: a.color }}>
-                  {inner}
-                </Link>
-              ) : (
-                <button type="button" onClick={a.onClick} className="card card-link action as-button spot" style={{ ['--mc' as string]: a.color }}>
-                  {inner}
-                </button>
-              )}
-            </motion.div>
-          );
-        })}
-      </motion.section>
+      <div className="quick-actions">
+        <button type="button" className="quick" onClick={() => quick('smart')}>
+          <b>Quick 10</b>
+          <span>A mixed set with hints and rationales</span>
+        </button>
+        <button type="button" className="quick" onClick={() => (answered ? quick('weak') : navigate('/practice'))}>
+          <b>{answered ? 'Review weak spots' : 'Choose a topic'}</b>
+          <span>{answered ? 'Questions you missed or guessed' : 'Pick a module or lesson to practice'}</span>
+        </button>
+        <Link className="quick" to="/exam">
+          <b>Timed exam</b>
+          <span>No hints, a clock, and a full report</span>
+        </Link>
+      </div>
 
       {rec && (
-        <motion.section className="section" initial={{ opacity: 0, y: 12 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-          <div className="next-step card">
-            <div>
-              <span className="eyebrow">Recommended next</span>
-              <h3>
-                Strengthen <em>{rec.label}</em>
-              </h3>
-              <p className="muted small">
-                {Math.round(rec.acc * 100)}% across {rec.n} question{rec.n === 1 ? '' : 's'}
-                {rec.fragile ? ` · ${rec.fragile} correct but shaky` : ''}. A focused set here will move your score the most.
-              </p>
-            </div>
-            <Link className="btn btn-primary" to={`/practice?${rec.practiceQuery}`}>
-              Practice this <Icon name="arrowRight" />
-            </Link>
-          </div>
-        </motion.section>
+        <p className="home-tip">
+          Suggested next: strengthen <Link to={`/practice?${rec.practiceQuery}`}>{rec.label}</Link> ({Math.round(rec.acc * 100)}% across {rec.n} question{rec.n === 1 ? '' : 's'}).
+        </p>
       )}
 
-      {UNITS.filter((u) => u.slug !== 'core').map((u) => (
-        <UnitOverview key={u.slug} unit={u} />
-      ))}
       <section className="section">
         <div className="section-head">
-          <div>
-            <span className="eyebrow">Curriculum</span>
-            <h2>Concepts &amp; exemplars</h2>
-          </div>
-          <Link to="/learn" className="btn btn-ghost btn-sm">
-            All study guides <Icon name="arrowRight" />
+          <h2>Your units</h2>
+          <Link to="/learn" className="text-link">
+            All lessons <Icon name="arrowRight" />
           </Link>
         </div>
-        {UNITS.map((u) => (
-          <div key={u.slug} className="curriculum-group">
-            <h3 className="curriculum-title">
-              {u.title} {u.isNew && <NewBadge />}
-            </h3>
-            <motion.div className="grid grid-2" variants={stagger.container} initial="hidden" whileInView="show" viewport={{ once: true, margin: '-60px' }}>
-              {unitModules(u).map((m) => {
-                const mm = m.questions.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
-                const seen = m.questions.filter((q) => statusOf(attempts, q.id) !== 'new').length;
-                const pct = mm / Math.max(1, m.questions.length);
-                return (
-                  <motion.div key={m.id} variants={stagger.item}>
-                    <Link to={`/learn/${m.id}`} className={cx('card card-link module-card spot', isNewModule(m.id) && 'is-new')} style={{ ['--mc' as string]: m.color }}>
-                      <div className="module-card-top">
-                        <ModuleGlyph icon={m.icon} />
-                        <Ring value={pct} color={m.color} size={48} stroke={8}>
-                          {Math.round(pct * 100)}
-                        </Ring>
-                      </div>
-                      <div className="module-num">MODULE {m.number}{isNewModule(m.id) && <> · <span className="new-inline">NEW</span></>}</div>
-                      <h3>{m.title}</h3>
-                      <p>{m.tagline}</p>
-                      <div className="module-meta">
-                        <span>
-                          <b>{m.topics.length}</b> topics
-                        </span>
-                        <span>
-                          <b>{m.questions.length}</b> questions
-                        </span>
-                        <span>
-                          <b>{seen}</b> attempted
-                        </span>
-                      </div>
-                    </Link>
-                  </motion.div>
-                );
-              })}
-            </motion.div>
-          </div>
-        ))}
+        <ul className="row-list">
+          {UNITS.map((u) => {
+            const mods = unitModules(u);
+            const topics = mods.flatMap((m) => m.topics.map((t) => `${m.id}:${t.id}`));
+            const done = topics.filter((k) => read[k]).length;
+            const qs = mods.flatMap((m) => m.questions);
+            const mm = qs.filter((q) => statusOf(attempts, q.id) === 'mastered').length;
+            return (
+              <li key={u.slug}>
+                <Link to={`/learn/${u.slug}`} className="row-link">
+                  <div className="row-main">
+                    <span className="row-kicker">
+                      {u.eyebrow} {u.isNew && <NewBadge />}
+                    </span>
+                    <strong>{u.title}</strong>
+                    <span className="row-sub">
+                      {done}/{topics.length} lessons read · {mm}/{qs.length} questions mastered
+                    </span>
+                  </div>
+                  <div className="row-progress" aria-hidden="true">
+                    <i style={{ width: `${(done / Math.max(1, topics.length)) * 100}%` }} />
+                  </div>
+                  <Icon name="chevronRight" className="row-chev" />
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
       </section>
 
-      <motion.section className="section card quote" initial={{ opacity: 0, y: 14 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}>
-        <span className="quote-mark">“</span>
-        <div>
-          <blockquote>{quote.q}</blockquote>
-          <cite>— {quote.a}</cite>
-        </div>
-      </motion.section>
-
+      {answered > 0 && (
+        <p className="home-stats">
+          {answered} answered · {Math.round(accuracy * 100)}% average · {mastered} mastered{days_ ? ` · ${days_}-day streak` : ''} · <Link to="/progress">See progress</Link>
+        </p>
+      )}
       <Footer />
     </div>
   );

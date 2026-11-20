@@ -88,8 +88,9 @@
    "sections": [
     {
      "heading": "Ethics, morals, and law: what is the difference?",
+     "source": "Module 44 study guide, pp. 1, 3 (glossary; Outcome 44.1); Ethics slides 2",
      "keyIdea": "Morals are personal, ethics are professional, and law is enforced by the government; when morals and ethics clash at work, ethics win.",
-     "body": "<p>Think of three circles that overlap. <b>Morality</b> is personal: what you were raised to believe is right. <b>Ethics</b> is professional: the written standards every nurse is held to. <b>Law</b> is set by the government and enforced with penalties.</p><p>The circles usually agree. The NCLEX tests where they do not. Ethics can also ask more than the law. No law makes you sit with a scared client, but nursing’s ethic of caring does.</p><p>You may keep your private morals. You may not let them lower the quality of care.</p><p>The full course definition: <b>ethics</b> is a system of moral principles that guides behavior and relationships. It covers rights, duties, benefits to society, fairness, and virtues. The word also means the study and development of these standards for a person, community, or profession.</p><p>Your Unit 7 slides sum it up in one key point: <b>an action can be legal but not moral</b>. Morality is shaped by upbringing, beliefs, and culture. Ethics rests on the profession’s shared beliefs, values, and standards of right and wrong.</p>",
+     "body": "<p>Think of three circles that overlap. <b>Morality</b> is personal: what you were raised to believe is right. <b>Ethics</b> is professional: the written standards every nurse is held to. <b>Law</b> is set by the government and enforced with penalties.</p><p>Laws reflect society’s moral values, so the circles usually agree. The NCLEX tests where they do not. Ethics can also ask more than the law. No law makes you sit with a scared client, but nursing’s ethic of caring does.</p><p>You may keep your private morals. Know how they compare with professional ethics, so they never lower the quality of care. Example of a shared ethic: nursing’s duty to protect client privacy.</p><p>The full course definition: <b>ethics</b> is a system of moral principles that guides behavior and relationships. It covers rights, duties, benefits to society, fairness, and virtues. The word also means the study and development of these standards for a person, community, or profession.</p><p>Your Unit 7 slides sum it up in one key point: <b>an action can be legal but not moral</b>. Morality is shaped by upbringing, beliefs, and culture. Ethics rests on the profession’s shared beliefs, values, and standards of right and wrong.</p>",
      "table": {
       "headers": [
        "Feature",
@@ -124,7 +125,7 @@
        ]
       ]
      },
-     "example": "Legal but not moral: a provider orders full resuscitation for a dying client when it only prolongs suffering. No law forbids it. Moral but illegal: a parent speeds to the hospital with a child who has stopped breathing.",
+     "example": "Legal but not moral: ordering full resuscitation for a dying client when it prolongs suffering without benefit. No law forbids it. Moral but illegal: speeding to rush a child who has stopped breathing to the hospital.",
      "check": {
       "q": "A nurse says, “The treatment is legal, so it must be ethical.” What is wrong?",
       "a": "Legal is not the same as ethical. Treatment that only prolongs a dying client’s suffering can be legal but not moral."
@@ -132,8 +133,9 @@
     },
     {
      "heading": "Values, beliefs, and attitudes",
+     "source": "Module 44 study guide, p. 1 (glossary: values, belief, attitude); Ethics slides 3",
      "keyIdea": "Values are what matters, beliefs are what a person accepts as true, and attitudes are feelings toward something; all three shape care.",
-     "body": "<p>A <b>value</b> is a lasting idea about what is worthwhile, like family or independence. A <b>belief</b> is something accepted as true, often on faith. It may or may not be true. An <b>attitude</b> is a feeling toward a person or thing, like compassion or suspicion.</p><p>Values and attitudes leak into care. A nurse who prizes self-reliance may get impatient with a client who calls often. From the inside, bias feels like common sense.</p><p>Clients’ values matter too. Find the value behind a choice. Then solve the problem with the client instead of calling the client “noncompliant.”</p><p>Your slides use short definitions. Values are personal beliefs about what is important or worthwhile. Beliefs are conclusions a person accepts as true.</p>",
+     "body": "<p>A <b>value</b> is a lasting belief or attitude about the worth of a person, object, idea, or action, like family or independence. Values are the base for decisions and judgments. They come from culture, society, family, and religion. A <b>belief</b> is something accepted as true, based more on faith than fact. It may or may not be true. An <b>attitude</b> is a mental position or feeling toward a person, object, or idea, like acceptance, compassion, or suspicion. It is often built from several values.</p><p>Values and attitudes leak into care. A nurse who prizes self-reliance may get impatient with a client who calls often. From the inside, bias feels like common sense.</p><p>Clients’ values matter too. Find the value behind a choice. Then solve the problem with the client instead of calling the client “noncompliant.”</p><p>Your slides use short definitions. Values are personal beliefs about what is important or worthwhile. Beliefs are conclusions a person accepts as true.</p>",
      "bullets": [
       "Value: “Being at work every day matters most to me.”",
       "Belief: “Prayer alone will heal my infection.”",
@@ -147,12 +149,13 @@
     },
     {
      "heading": "What are the five AACN professional values?",
+     "source": "Module 44 study guide, p. 3 (Outcome 44.1: professional values and behaviors); Ethics slides 3",
      "keyIdea": "Altruism, autonomy, human dignity, integrity, and social justice; on the exam, you name the value from the action the nurse takes.",
-     "body": "<p>Professional values are learned through socialization. You watch role models, live through clinical situations, and follow policies. So the nurses you watch as a student matter.</p><p>The American Association of Colleges of Nursing (AACN, 2008) named five core values. Learn each one as a behavior, because the NCLEX describes an action and asks which value it shows. These values come with professional behaviors:</p><p>Your course guide cites the AACN 2008 list of five values. Current standard: the 2021 AACN Essentials sort nursing education into domains. Professionalism (Domain 9) still holds these values. On a course exam, expect the five values by name; on the NCLEX, expect them shown as behaviors.</p>",
+     "body": "<p>Nurses learn professional values through socialization in school and clinical practice. You watch role models, live through clinical situations, and follow agency policies. So the nurses you watch as a student matter.</p><p>The American Association of Colleges of Nursing (AACN, 2008) named five essential values. Learn each one as a behavior, because the NCLEX describes an action and asks which value it shows.</p><p>Current standard: the 2021 AACN Essentials sort nursing education into domains. Professionalism (Domain 9) still holds these values. On a course exam, expect the five values by name. On the NCLEX, expect them shown as behaviors.</p><p>Your course guide links these professional behaviors to the values:</p>",
      "bullets": [
-      "Knowing moral, ethical, and legal standards.",
-      "Being accountable for your own behavior.",
-      "Calm, professional communication, even with upset families.",
+      "Showing you understand moral, ethical, and legal standards.",
+      "Being accountable for your personal and professional behavior.",
+      "Professional communication with clients, families, and colleagues.",
       "Giving care free of bias.",
       "Lifelong learning (journal club, new courses)."
      ],
@@ -197,12 +200,13 @@
     },
     {
      "heading": "What is values clarification?",
+     "source": "Module 44 study guide, pp. 1, 3–4 (glossary; Al-Banna’s 7-step process); Ethics slides 3",
      "keyIdea": "Values clarification helps you spot your own values so they do not steer the client, and helps clients choose what fits their values.",
-     "body": "<p>Values clarification is how people examine their values. It has three parts: <b>choosing</b> freely, <b>prizing</b> (feeling good about) the choice, and <b>acting</b> on it. It lasts a lifetime. It also helps clients make health decisions that stay consistent with their values.</p><p><b>For you, it is a self-check.</b> Before caring for a client whose choices bother you, ask, “What do I value here? How might it show in my care?”</p><p><b>For the client, it supports good choices.</b> Stay neutral. Share your values only if asked, then answer briefly and turn back to the client. Al-Banna’s seven steps guide the talk. Each step is a question, not advice.</p>",
+     "body": "<p>Values clarification is how people identify, examine, and develop their own values. It has three parts: <b>choosing</b> freely, <b>prizing</b> (feeling good about) the choice, and <b>acting</b> on it. It lasts a lifetime. It also helps clients make health decisions that stay consistent with their values.</p><p><b>For you, it is a self-check.</b> It keeps you from projecting your biases onto clients. Before caring for a client whose choices bother you, ask, “What do I value here? How might it show in my care?”</p><p><b>For the client, it supports good choices.</b> Use it when a client’s values conflict with health care advice. Stay neutral. Do not share your values unless the client asks directly. Even then, turn the focus right back to the client. Al-Banna’s seven steps guide the talk. Each step is a question, not advice.</p>",
      "steps": [
       "List alternatives: “What other ways have you thought about handling this?”",
-      "Examine consequences: “What do you think would happen if you chose that?”",
-      "Choose freely: “Do you feel you have a choice?”",
+      "Examine consequences: “What could happen if you chose that? How do you think that will be helpful?”",
+      "Choose freely: “How will this choice be made? Do you feel you have a choice?”",
       "Feel good about the choice: “Tell me more about how this choice makes you feel.”",
       "Affirm the choice: “How will you share this decision with your family?”",
       "Act on the choice: “What is your plan for putting this into action?”",
@@ -217,8 +221,9 @@
     },
     {
      "heading": "Self-check: are you ready for ethical dilemmas?",
+     "source": "Ethics Letter to Students (Sandra H. Carr); “What the nurse does” column added for the NCLEX",
      "keyIdea": "Before you can guide a client through a hard choice, you must know your own values and how firmly you hold them.",
-     "body": "<p>Your course includes a letter to PCC nursing students from Sandra H. Carr, MN, ARNP. Its message: hands-on skills feel urgent now, but ethical decision making will matter for your whole career.</p><p>The letter asks you to take a hard, honest look at yourself. Treat its questions as a values-clarification exercise. Write your answers before your next clinical day. Many have no simple yes or no, just like real dilemmas.</p><p>Dilemmas happen at the individual, group, and community level. Some are dramatic; many are routine. The letter’s advice: do not avoid them. Meet them with confidence and professionalism, using the principles of ethical decision making. Handled well, they can be some of the most rewarding moments of your career.</p>",
+     "body": "<p>Your course includes a letter to PCC nursing students from Sandra H. Carr, MN, ARNP. Its message: hands-on skills feel urgent now, but ethical decision making will matter for your whole career.</p><p>The letter asks you to take a hard, honest look at yourself. Treat its questions as a values-clarification exercise. Write your answers before your next clinical day. Many have no simple yes or no, just like real dilemmas.</p><p>Dilemmas happen at the individual, group, and community level. Some are dramatic; many are routine. The letter’s advice: do not avoid them. Meet them with confidence and professionalism, using the principles of ethical decision making. Resolving them to the best possible outcome can be personally rewarding, for you and for those you help.</p>",
      "bullets": [
       "What are my values and beliefs?",
       "Are they firmly rooted, or am I easily swayed by outside pressure?",
@@ -264,13 +269,14 @@
     },
     {
      "heading": "What do the nursing codes of ethics say?",
+     "source": "Module 44 study guide, pp. 2, 5–6 (glossary: code of ethics; Outcome 44.3, Boxes 44.1–44.2); Ethics slides 4",
      "keyIdea": "The ANA Code is the nonnegotiable U.S. standard; the ICN Code guides nurses worldwide; the Nightingale Pledge is history, not your working standard.",
-     "body": "<p>A code of ethics states a group’s ideals and values. It is a general guide for every member. Its standards cannot be bargained away, even on a short-staffed shift. It is a social contract: society trusts nurses, and nurses promise to meet the standards.</p><p>The <b>Nightingale Pledge</b> (1893) was written by Lystra Gretter at the Farrand Training School for Nurses in Detroit. It was modeled on the Hippocratic Oath. It is considered the first U.S. nursing code of ethics, and it is still recited at many graduations. Florence Nightingale did not write it.</p><p>The <b>ICN Code</b> (Box 44.1) was first adopted in the 1950s and updated in 2012. It has four elements, listed below. The <b>ANA Code for Nurses with Interpretive Statements</b> (2015, Box 44.2) has nine provisions: 1–3 client, 4–6 nurse, 7–9 profession and society.</p><p>Your course guide cites the 2012 ICN Code and the 2015 ANA Code. Current standard: the ICN revised its code in 2021, and the ANA in 2025. The ANA Code still has nine provisions. On a course exam, expect the 2012 elements and the 2015 wording; on the NCLEX, apply the same duties.</p>",
+     "body": "<p>A code of ethics gives nurses a professional moral framework. It is a formal statement of a group’s ideals and values. It is a general guide for every member. Its standards cannot be bargained away, even on a short-staffed shift. It is a social contract: society trusts nurses, and nurses promise to meet the standards.</p><p>The <b>Nightingale Pledge</b> (1893) was written by Lystra Gretter at the Farrand Training School for Nurses in Detroit. It was modeled on the Hippocratic Oath. It is considered the first U.S. nursing code of ethics, and it is still recited at many graduations. Florence Nightingale did not write it.</p><p>The <b>ICN Code</b> (Box 44.1) was first adopted in the 1950s and updated in 2012. It has four elements, listed below. The <b>ANA Code for Nurses with Interpretive Statements</b> (2015, Box 44.2) has nine provisions: 1–3 client, 4–6 nurse, 7–9 profession and society.</p><p>Your course guide cites the 2012 ICN Code and the 2015 ANA Code. Current standard: the ICN revised its code in 2021, and the ANA in 2025. The ANA Code still has nine provisions. On a course exam, expect the 2012 elements and the 2015 wording; on the NCLEX, apply the same duties.</p>",
      "bullets": [
       "<b>Nurses and people:</b> the main duty is to people who need care. Respect their human rights, values, customs, and spiritual beliefs. Hold personal information in confidence. Advocate for equity and social justice for vulnerable groups.",
       "<b>Nurses and practice:</b> personal accountability for practice. Keep yourself healthy so care is not harmed. Use judgment when accepting or delegating duties. Use technology in ways that keep clients safe and respect their dignity.",
       "<b>Nurses and the profession:</b> carry out standards for clinical care, management, research, and education. Build evidence-based practice. Sustain and protect the natural environment. Foster safe, fair working conditions.",
-      "<b>Nurses and co-workers:</b> keep good working relationships. Act to protect clients and families when a co-worker or any other person endangers their health. Report right away. Do not cover, wait, or confront in front of clients."
+      "<b>Nurses and co-workers:</b> keep collaborative working relationships. Take action to protect people and families when a co-worker or any other person endangers their health. On the NCLEX, that action means reporting right away, not covering, waiting, or confronting in front of clients."
      ],
      "table": {
       "caption": "The nine ANA provisions (Box 44.2)",
@@ -334,17 +340,19 @@
     },
     {
      "heading": "What if your values clash with an assignment?",
+     "source": "Module 44 study guide, p. 4 (Outcome 44.2: honor autonomy; safe transfer of care); term “conscientious objection” and emergency rule added for the NCLEX",
      "keyIdea": "You may ask to step out of a specific act through proper channels, but you must never abandon the client or refuse emergency care.",
-     "body": "<p>Sometimes care involves an act your deep beliefs forbid. Asking not to take part is called <b>conscientious objection</b>. It covers a specific act. It does not let you refuse a whole group of clients, such as anyone with HIV. In an emergency, you give life-saving care no matter what.</p><p>If you know you object to a certain procedure, tell your employer ahead of time. Do not wait until you are at the bedside.</p>",
+     "body": "<p>Respect the client’s beliefs and autonomy throughout care. Sometimes, though, a client’s choice would force you to act against your own deeply held moral beliefs. Asking not to take part is called <b>conscientious objection</b>. It covers a specific act. It does not let you refuse a whole group of clients, such as anyone with HIV. In an emergency, you give life-saving care no matter what.</p><p>If you know you object to a certain procedure, tell your employer ahead of time. Do not wait until you are at the bedside.</p>",
      "steps": [
       "Put the client first: no lecturing, delays, or withheld information.",
-      "Tell the charge nurse or supervisor, or ask the ethics committee, so care is safely transferred.",
+      "Seek guidance from the charge nurse, supervisor, or ethics committee to arrange a safe transfer of care.",
       "Keep giving care until another qualified nurse takes over."
      ],
      "example": "A nurse who opposes sterilization is assigned to prep a client for a tubal ligation in 30 minutes. First, she tells the charge nurse so another nurse can be assigned. Until then, she keeps the client safe and keeps her views to herself."
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
+     "source": "Added for the NCLEX — not in course materials (terms from Module 44 study guide, pp. 1–5)",
      "keyIdea": "Most wrong answers swap one close idea for another; match the exact action in the stem to the exact term.",
      "table": {
       "headers": [
@@ -388,6 +396,7 @@
     },
     {
      "heading": "How the NCLEX tests this",
+     "source": "Added for the NCLEX — not in course materials",
      "keyIdea": "The best answer keeps the focus on the client, stays honest, protects safety, and uses the chain of command.",
      "body": "<p>Turn the nurse’s action into its purpose, then match the term.</p><p><b>Sample:</b> A client after a mastectomy says, “My sister had reconstruction and regretted it. Would you have it if you were me?” Which response is best?</p><p>A. “Most women choose reconstruction and are glad they did.”<br>B. “I can’t give my opinion; ask your surgeon.”<br>C. “What I would choose matters less than what fits you. What have you been thinking about your options?”<br>D. “Your sister’s experience doesn’t mean you will feel the same.”</p>",
      "bullets": [
@@ -407,6 +416,7 @@
     },
     {
      "heading": "Worked case: the colleague who “just needs coffee”",
+     "source": "Added: worked example based on Ethics Letter to Students (impaired provider) and the ICN co-worker element (Module 44 study guide, p. 5)",
      "keyIdea": "Never sign for what you did not see; protect the clients and report through the chain of command right away.",
      "body": "<p>At 0300, a co-worker you admire asks you to co-sign a waste of 1 mg of hydromorphone. You did not see it. Earlier, she was drowsy with pinpoint pupils. Two of her clients said their pain was not relieved despite charted doses. She says, “I’m exhausted. Just sign it.”</p>",
      "steps": [
@@ -425,6 +435,7 @@
     },
     {
      "heading": "North Carolina practice note",
+     "source": "Added for the NCLEX — not in course materials (North Carolina law and NCBON rules)",
      "keyIdea": "Codes of ethics are professional standards; the NC Nursing Practice Act and NCBON rules are law and carry license consequences.",
      "bullets": [
       "NC nursing is regulated by the North Carolina Board of Nursing (NCBON) under the Nursing Practice Act (N.C. Gen. Stat. Chapter 90, Article 9A, G.S. 90-171.19 et seq.).",
@@ -436,8 +447,9 @@
     },
     {
      "heading": "Course source & clinical clarification",
+     "source": "Module 44 study guide, pp. 1–6; Ethics slides 2–4; Ethics Letter to Students",
      "bullets": [
-      "Source: Module 44 study guide, pp. 2729–2733 (Master glossary; Outcome 44.1; Outcome 44.3, Box 44.1 ICN Code and Box 44.2 ANA Code).",
+      "Source: Module 44 study guide, pages 1–6 (the guide’s own “Page x of 9” numbers, used in every “source” line): master glossary (textbook pp. 2729–2739), Outcome 44.1, Outcome 44.2 (values conflict), and Outcome 44.3 with Box 44.1 (ICN Code) and Box 44.2 (ANA Code).",
       "Unit 7 sources: Ethics PowerPoint (Heather Wilson, BSN, RN), slides 1–4: overview of ethics vs morality, key terms, the five core professional values, and the three codes (Nightingale Pledge, ICN Code, ANA Code). Also the handout “Ethics Letter to Students” (Sandra H. Carr, MN, ARNP), taught in the self-check section.",
       "Your course guide says the five values come from AACN (2008). Current standard: the 2021 AACN Essentials use domains (professionalism is Domain 9), and the values are still core. On a course exam, expect the 2008 list.",
       "Your course guide cites the 2012 ICN Code. Current standard: the 2021 revision’s elements are nurses and patients or other people requiring care, practice, the profession, and global health. Co-worker duties were folded in; the duty to act is unchanged. On a course exam, expect the four 2012 elements.",
@@ -587,8 +599,9 @@
    "sections": [
     {
      "heading": "What are the five core principles?",
+     "source": "Module 44 study guide, pp. 2, 6 (glossary; Outcome 44.4); Ethics slides 5 and notes; Further Illustrations handout (justice)",
      "keyIdea": "Each principle answers one question: whose choice, what helps, what harms, is it fair, and is it the whole truth.",
-     "body": "<p>Each principle points to a different duty. Learn them by what they make you do.</p><p>Beneficence and nonmaleficence are easy to mix up. <b>Beneficence</b> means doing something good: turning, teaching, relieving pain. <b>Nonmaleficence</b> means holding back to prevent harm: holding a drug, stopping an unsafe step. If the nurse <em>does</em> something to help, think beneficence. If the nurse <em>holds back</em> to prevent harm, think nonmaleficence.</p><p>Your course guide says the four primary principles are autonomy, beneficence, justice, and veracity, “alongside nonmaleficence.” Current standard: bioethics names four core principles: autonomy, beneficence, nonmaleficence, and justice. Veracity is an added principle. On a course exam, expect the course’s four plus nonmaleficence; on the NCLEX, know all five.</p><p>Your Unit 7 slide calls these five the primary principles. Its speaker notes give the examples below.</p>",
+     "body": "<p>Each principle points to a different duty. Learn them by what they make you do.</p><p>Beneficence and nonmaleficence are easy to mix up. <b>Beneficence</b> is taking positive action to promote good: turning, teaching, relieving pain. <b>Nonmaleficence</b> is the duty to do no harm and to safeguard clients: checking allergies, holding an unsafe drug. Ask what the action is <em>for</em>. If it is to help, think beneficence. If it is to prevent harm, think nonmaleficence.</p><p>Your course guide says the four primary principles are autonomy, beneficence, justice, and veracity, “alongside nonmaleficence.” Current standard: bioethics names four core principles: autonomy, beneficence, nonmaleficence, and justice. Veracity is an added principle. On a course exam, expect the course’s four plus nonmaleficence; on the NCLEX, know all five.</p><p>Your Unit 7 slide calls these five the primary principles. Its speaker notes give the examples below.</p>",
      "table": {
       "headers": [
        "Principle",
@@ -640,16 +653,69 @@
       "<b>Justice:</b> giving equal care regardless of insurance.",
       "<b>Veracity:</b> telling the client the truth about a mistake, following your facility’s disclosure policy."
      ],
-     "example": "Justice from your handout: a hospital offers low- or no-cost pediatric dental care to 45 children each month. More families need it. Justice requires a fair method, free from bias, to choose. Examples: need-based criteria applied to every family, or a lottery. Unfair: saving slots for staff members’ friends."
+     "example": "Justice from your handout: every person has an equal right to goods, regardless of what they contributed or who they are. A hospital offers low- or no-cost pediatric dental care to 45 children each month. Justice requires a fair method, free from bias, to choose who gets it. Examples: need-based criteria applied to every family, or a lottery. Unfair: saving slots for staff members’ friends."
+    },
+    {
+     "heading": "Doing good with the least harm",
+     "source": "Further Illustrations handout (nonmaleficence, beneficence, paternalism); Module 44 study guide, p. 2 (glossary)",
+     "keyIdea": "Every treatment carries some risk; aim for the least harm possible, never cause harm on purpose, and never let “doing good” become paternalism.",
+     "body": "<p>Your handout calls <b>nonmaleficence</b> “no bad”: do no harm. It sounds simple, but it is complex. The handout quotes Florence Nightingale: “No patient should be worse for having been nursed.”</p><p>Health care sometimes harms people without meaning to. So when a treatment has unavoidable risk, the team weighs the risk of harm against the benefit. The goal is the <b>least harm possible</b>. The ethical rule is firm: never cause harm on purpose.</p><p><b>Beneficence</b> means “benefit”: actions that help the client’s welfare. Doing good can also risk harm. Its unwanted outcome is <b>paternalism</b>. The provider decides what is best, then tries to pressure the client to act against their own wishes. Capable adults get treated like children who need protection.</p>",
+     "table": {
+      "caption": "The handout’s examples",
+      "headers": [
+       "Example",
+       "Principle",
+       "What the nurse does"
+      ],
+      "rows": [
+       [
+        "Nosocomial infections spread by health care workers (now called HAIs)",
+        "Nonmaleficence",
+        "Hand hygiene, aseptic technique, and isolation precautions every time"
+       ],
+       [
+        "Adverse drug reactions",
+        "Nonmaleficence",
+        "Check allergies and doses; monitor; report reactions"
+       ],
+       [
+        "Side effects of chemotherapy and radiation",
+        "Nonmaleficence weighed against benefit",
+        "Teach expected effects; monitor and treat them early"
+       ],
+       [
+        "A child’s immunization causes brief pain",
+        "Beneficence",
+        "Benefits to the child and society outweigh the pain; use comfort measures"
+       ],
+       [
+        "An older client with a hip fracture in the ER",
+        "Beneficence balanced with nonmaleficence",
+        "Give prescribed pain medicine promptly; coordinate the consent talk with the provider"
+       ],
+       [
+        "Pressuring a capable client “for their own good”",
+        "Paternalism (beneficence gone wrong)",
+        "Inform, explore reasons, and respect the choice"
+       ]
+      ]
+     },
+     "example": "An 84-year-old client fractures her hip at home. Quick pain medicine in the ER is beneficence. The handout’s caution: surgery needs consent from someone with capacity, and strong drugs can cloud thinking. So the nurse alerts the provider early about consent. She does not leave the client in severe pain to get a signature; pain clouds thinking too.",
+     "check": {
+      "q": "A nurse tells a capable client, “If you won’t quit drinking, I’ll ask the doctor to stop your pain pills.” What is wrong?",
+      "a": "It is paternalism: pressure to override a capable adult’s choice. It violates autonomy and risks harm. Instead, teach the risks, offer help to cut back, and respect his decision."
+     }
     },
     {
      "heading": "Who decides? Capacity and informed consent",
+     "source": "Module 44 study guide, pp. 4, 6 (Related Concepts: advocacy, cognition; Safety Alert); consent roles and emergency rule added for the NCLEX",
      "keyIdea": "A capable adult decides; the provider explains and gets consent; the nurse witnesses and speaks up if the client does not understand.",
-     "body": "<p>Autonomy needs <b>information</b> and <b>capacity</b>. Capacity means the client can understand, reason, and choose. It is presumed in adults. A diagnosis like dementia or a disability does not remove it automatically. Assess capacity for the specific decision. Use plain words, pictures, and extra time. Know if a legal guardian exists.</p><p>The <b>provider</b> explains the procedure and obtains consent. The <b>nurse</b> usually witnesses the signature. The nurse checks that the client signs freely and seems to understand. If not, the nurse holds the consent and calls the provider.</p>",
+     "body": "<p>Autonomy needs <b>information</b> and <b>capacity</b>. Capacity means the client can understand, reason, and choose. Presume capacity unless clear evidence or documentation shows otherwise. A diagnosis like dementia or a disability does not remove it automatically. Assess capacity for the specific decision. Use plain words, pictures, and extra time. Know if a legal guardian exists.</p><p>The <b>provider</b> explains the procedure and obtains consent. The <b>nurse</b> usually witnesses the signature. The nurse checks that the client signs freely and seems to understand. If not, the nurse holds the consent and calls the provider.</p>",
      "bullets": [
       "<b>Sedation:</b> do not witness consent soon after an opioid or sedative. Notify the provider.",
       "<b>Emergency:</b> if the client cannot consent and delay threatens life or limb, consent is implied. This does not override a known, valid refusal.",
-      "<b>Voluntary:</b> no rushing, threats, or pressure. Safety Alert: children, pregnant women, prisoners, older adults, and people with cognitive impairments have limited autonomy. They are especially vulnerable to coercion, undue influence, and abuse, so they need extra protection.",
+      "<b>Voluntary:</b> no rushing, threats, or pressure.",
+      "<b>Safety Alert (research):</b> nurses protect all research participants. Give special attention to vulnerable groups: children, pregnant women, prisoners, older adults, and people with cognitive impairments. Their autonomy is often limited, so they are especially vulnerable to coercion, undue influence, and abuse.",
       "<b>Research red flags:</b> a prisoner told it “will look good to the parole board,” signing between labor contractions, or a client with dementia enrolled without a legal representative. Report to the investigator or IRB (institutional review board).",
       "<b>Right to withdraw:</b> the client may take time to decide and may withdraw at any time without penalty."
      ],
@@ -661,8 +727,9 @@
     },
     {
      "heading": "What if a capable client refuses?",
+     "source": "Further Illustrations handout (autonomy); Module 44 study guide, pp. 1–2, 4 (glossary: advocacy, autonomy; Related Concepts: advocacy); steps added for the NCLEX",
      "keyIdea": "A capable client may refuse any treatment, even life-saving care; find out why, make sure risks are explained, then respect the choice.",
-     "body": "<p>A capable adult may refuse any treatment. This includes life-sustaining care or leaving against medical advice (AMA). The reason is often fixable, such as fear, cost, pain, or wrong information. Advocacy means you defend the client’s choice even when you disagree with it.</p><p>Restraining or sedating a capable adult to give refused care is battery (unlawful touching), not advocacy.</p><p>Your handout says autonomy means respecting choices that seem not to be in the client’s best interest. It also places <b>privacy and confidentiality</b> under autonomy, protected by HIPAA. Respecting a choice does not mean silence. Keep teaching, offer help, and care without judgment. The handout’s examples of choices you respect are below.</p>",
+     "body": "<p>A capable adult may refuse any treatment. This includes life-sustaining care or leaving against medical advice (AMA). The reason is often fixable, such as fear, cost, pain, or wrong information. Advocacy means supporting and defending the client’s rights, safety, health, and wishes. You defend the client’s choice even when you disagree with it.</p><p>Restraining or sedating a capable adult to give refused care is battery (unlawful touching), not advocacy.</p><p>Your handout says autonomy means respecting a client’s decisions even when they seem to the nurse not to be in the client’s best interest. It also places <b>privacy and confidentiality</b> under autonomy, protected by HIPAA. Respecting a choice does not mean silence. Keep teaching, offer help, and care without judgment. The handout’s examples of choices you respect are below.</p>",
      "steps": [
       "Confirm the client has capacity for this decision.",
       "Ask what the client understands and why they are refusing.",
@@ -684,8 +751,9 @@
     },
     {
      "heading": "Truth to the client, privacy from others",
+     "source": "Module 44 study guide, pp. 2, 5, 8 (glossary: veracity; Related Concepts: communication, legal issues; June D’Angelo Part 3); legal exceptions added for the NCLEX",
      "keyIdea": "Veracity is about what the client hears; confidentiality is about what others hear. The information belongs to the client.",
-     "body": "<p><b>Veracity:</b> if family asks you to hide a diagnosis, do not lie or agree to deceive. Do not give the diagnosis yourself; the provider shares it. Acknowledge the family’s fear. Ask the client how much they want to know and who should be involved. A client may choose to let family get the news. That is autonomy only if the client chooses it.</p><p><b>Confidentiality:</b> HIPAA protects the fact that someone is a client. If a caller asks about a person, do not confirm or deny. Suggest they contact the person directly. Checking ID does not help.</p><p>Never look up a chart without a care relationship, including your own family, friends, or yourself. Log off workstations. Never post about clients on social media, even without names.</p><p><b>When law overrides privacy:</b> mandatory abuse and disease reports, a court order, or a serious threat to a specific person. Share only the minimum. If unsure, ask the privacy officer.</p>",
+     "body": "<p><b>Veracity:</b> the client gets complete, honest information about the illness and treatment options, even when family asks to withhold it. That lets the client give true informed consent. Do not lie or agree to deceive. A new diagnosis is usually shared first by the provider, so arrange that talk promptly.</p><p>Acknowledge the family’s fear. Ask the client how much they want to know and who should be involved. A client may choose to let family get the news. That is autonomy only if the client chooses it.</p><p><b>Confidentiality:</b> HIPAA protects the fact that someone is a client. If a caller asks about a person, do not confirm or deny. Suggest they contact the person directly. Checking ID does not help.</p><p>Keep client information private at all times and in all settings. Chart access is limited to authorized staff. Never look up a chart without a care relationship, including your own family, friends, or yourself. Log off workstations. Never post about clients on social media, even without names.</p><p><b>When law overrides privacy:</b> mandatory abuse and disease reports, a court order, or a serious threat to a specific person. Share only the minimum. If unsure, ask the privacy officer.</p>",
      "table": {
       "headers": [
        "Situation",
@@ -729,8 +797,9 @@
     },
     {
      "heading": "Culture, pain, and teaching as ethical duties",
+     "source": "Module 44 study guide, pp. 4–5 (Focus on Diversity and Culture; Related Concepts: comfort, teaching); Jehovah’s Witness example added",
      "keyIdea": "Ask the individual instead of assuming, treat pain without bias, and teach until the client truly understands.",
-     "body": "<p><b>Faith and culture:</b> find common ground, like helping others. Then assess the person, because not everyone follows every rule of their faith. Many Catholics accept birth control, despite official church teaching. Some Jehovah’s Witnesses accept certain blood fractions or cell salvage. Ask; do not assume.</p><p><b>Pain:</b> poor access to pain care is a justice issue. Learn about chronic pain, set realistic goals, refer to specialists, check your bias about opioids, and watch for misuse. Labeling a client “drug-seeking” without assessing is unjust.</p><p><b>Teaching:</b> early discharge means clients manage care at home. Assess learning needs early, match language and reading level, and verify with teach-back. The alert client stays the main learner.</p>",
+     "body": "<p><b>Faith and culture:</b> find common ground, like helping others. Then assess the person, because not everyone follows every rule of their faith. Many Catholics accept birth control or certain end-of-life choices, despite official Church teaching. Some Jehovah’s Witnesses accept certain blood fractions or cell salvage. Ask; do not assume.</p><p><b>Pain:</b> clients with chronic pain often lack access to pain care. Their heavy use of health services also raises justice and resource questions. Relieve pain while limiting the risk of drug misuse. Learn about chronic pain, set realistic goals, refer to specialists, check your bias about opioids, and watch for misuse. Labeling a client “drug-seeking” without assessing is unjust.</p><p><b>Teaching:</b> early discharge means clients manage care at home. Assess learning needs early, match language and reading level, and verify with teach-back. The alert client stays the main learner.</p>",
      "bullets": [
       "<b>Identify common ground:</b> most religions share core values, such as helping the less fortunate, taking responsibility for your actions, and treating others as you wish to be treated.",
       "<b>Assess individual beliefs:</b> not everyone follows every rule of their faith. Ask; do not stereotype.",
@@ -743,41 +812,8 @@
      }
     },
     {
-     "heading": "Advance directives, ethics committees, and decisions",
-     "keyIdea": "Decide ethically with a step-by-step process, not by feelings or habit, and call the ethics committee when conflict will not resolve.",
-     "body": "<p>Advance directives protect a client’s choices when they can no longer speak. Discuss them before procedures and make sure they are followed. If family demands care the client refused in a valid directive, tell the provider. Involve the ethics committee if the conflict goes on.</p><p>A surrogate should decide based on what the client would have wanted. When family and team disagree about that, do not take sides. The ethics committee mediates. It is also a resource for routine questions.</p><p>Your course guide says The Joint Commission mandates ethics committees; see the course note at the end. On the NCLEX, know the committee is the resource to call.</p><p></p>",
-     "steps": [
-      "Gather facts: clinical data, capacity, wishes, directives, and the legal decision-maker.",
-      "Name the principles in conflict.",
-      "Clarify values: the client’s, family’s, team’s, and your own biases.",
-      "List options, consequences, and who has authority.",
-      "Choose what best fits the client’s needs and wishes. Call the ethics committee if conflict persists.",
-      "Act, communicate, and document.",
-      "Evaluate, reflect, and get support for moral distress."
-     ],
-     "check": {
-      "q": "A client is unconscious after a stroke with no advance directive. His wife wants the ventilator continued; his children and the neurologist disagree. What should the nurse do?",
-      "a": "Request an ethics committee consult. The dispute is about what he would have wanted, so it needs mediation, not a nurse taking sides."
-     }
-    },
-    {
-     "heading": "Applying Provision 2: whose needs come first?",
-     "keyIdea": "You owe duties to the client, the provider, the employer, and yourself, but the client comes first in a rational, step-by-step decision.",
-     "body": "<p>The goal of ethical reasoning is a rational, systematic decision. It is never based on emotion, intuition, fixed rules, or precedent alone. A good decision includes the client’s strengths and needs, evidence-based care, and the integrity of the client, nurse, and team.</p><p>A nurse owes duties to the client, the health care provider (HCP), the employing facility, and her own ethical values. These can pull in different directions. First consider the client and what best meets the client’s needs. Then balance that with the client’s wishes and the family’s desires.</p><p>Frequent ethical issues cause moral distress and burnout. Use support systems: mentors, colleagues, spiritual advisors, and ethics committees.</p>",
-     "steps": [
-      "What do I know about the client’s clinical situation?",
-      "What are the client’s values and wishes?",
-      "What are my own biases and assumptions?",
-      "What is my primary obligation to this client?"
-     ],
-     "example": "Figure 44.1 sums it up: client advocacy + client + family + health care team = optimal outcome. A provider wants a quick discharge to free a bed. The client cannot yet manage his new tube feedings. The nurse tells the provider about the unmet teaching need. The client’s safety comes before the unit’s bed count.",
-     "check": {
-      "q": "A nurse feels pulled between the facility’s staffing policy and a client’s need for one-to-one observation. What is her first consideration?",
-      "a": "The client and what best meets the client’s needs. She reports the safety need through the chain of command."
-     }
-    },
-    {
      "heading": "How ethics links to related concepts",
+     "source": "Module 44 study guide, pp. 4–5 (Outcome 44.2, Related Concepts table)",
      "keyIdea": "Ethics runs through advocacy, cognition, comfort, communication, legal issues, and teaching; each link has its own nursing actions.",
      "body": "<p>Your course ties ethics to six related concepts. Each row below gives the link and what the nurse does. Learn the actions, because NCLEX items describe the action and ask if it is right.</p>",
      "table": {
@@ -826,57 +862,44 @@
      }
     },
     {
-     "heading": "Doing good with the least harm",
-     "keyIdea": "Every treatment carries some risk; aim for the least harm possible, never cause harm on purpose, and never let “doing good” become paternalism.",
-     "body": "<p>Your handout calls <b>nonmaleficence</b> “no bad”: do no harm. It sounds simple, but it is complex. The handout quotes Florence Nightingale: “No patient should be worse for having been nursed.”</p><p>Health care sometimes harms people without meaning to. So the team weighs risks against benefits and aims for the <b>least harm possible</b>. The ethical rule is firm: never cause harm on purpose.</p><p><b>Beneficence</b> means “benefit”: actions that help the client’s welfare. Doing good can also risk harm. Its unwanted outcome is <b>paternalism</b>. The provider decides what is best, then tries to pressure the client to act against their own wishes. Capable adults get treated like children who need protection.</p>",
-     "table": {
-      "caption": "The handout’s examples",
-      "headers": [
-       "Example",
-       "Principle",
-       "What the nurse does"
-      ],
-      "rows": [
-       [
-        "Nosocomial infections spread by health care workers (now called HAIs)",
-        "Nonmaleficence",
-        "Hand hygiene, aseptic technique, and isolation precautions every time"
-       ],
-       [
-        "Adverse drug reactions",
-        "Nonmaleficence",
-        "Check allergies and doses; monitor; report reactions"
-       ],
-       [
-        "Side effects of chemotherapy and radiation",
-        "Nonmaleficence weighed against benefit",
-        "Teach expected effects; monitor and treat them early"
-       ],
-       [
-        "A child’s immunization causes brief pain",
-        "Beneficence",
-        "Benefits to the child and society outweigh the pain; use comfort measures"
-       ],
-       [
-        "An older client with a hip fracture in the ER",
-        "Beneficence balanced with nonmaleficence",
-        "Give prescribed pain medicine promptly; coordinate the consent talk with the provider"
-       ],
-       [
-        "Pressuring a capable client “for their own good”",
-        "Paternalism (beneficence gone wrong)",
-        "Inform, explore reasons, and respect the choice"
-       ]
-      ]
-     },
-     "example": "An 84-year-old client fractures her hip at home. Quick pain medicine in the ER is beneficence. The handout’s caution: surgery needs consent from someone with capacity, and strong drugs can cloud thinking. So the nurse alerts the provider early about consent. She does not leave the client in severe pain to get a signature; pain clouds thinking too.",
+     "heading": "Applying Provision 2: whose needs come first?",
+     "source": "Module 44 study guide, p. 6 (Outcome 44.4; Figure 44.1); discharge example added",
+     "keyIdea": "You owe duties to the client, the provider, the employer, and yourself, but the client comes first in a rational, step-by-step decision.",
+     "body": "<p>The goal of ethical reasoning is a rational, systematic decision. It is never based on emotion, intuition, fixed rules, or precedent alone. A good decision includes the client’s strengths and needs, evidence-based care, and the integrity of the client, nurse, and team.</p><p>A nurse owes duties to the client, the health care provider (HCP), the employing facility, and her own ethical values. These can pull in different directions. First consider the client and what best meets the client’s needs. Then balance that with the client’s wishes and the family’s desires.</p><p>Frequent ethical issues cause moral distress and burnout. Use support systems: mentors, colleagues, spiritual advisors, and ethics committees.</p>",
+     "steps": [
+      "What do I know about the client’s clinical situation?",
+      "What are the client’s values and wishes?",
+      "What are my own biases and assumptions?",
+      "What is my primary obligation to this client?"
+     ],
+     "example": "Figure 44.1 sums it up: client advocacy + client + family + health care team = optimal outcome. A provider wants a quick discharge to free a bed. The client cannot yet manage his new tube feedings. The nurse tells the provider about the unmet teaching need. The client’s safety comes before the unit’s bed count.",
      "check": {
-      "q": "A nurse tells a capable client, “If you won’t quit drinking, I’ll ask the doctor to stop your pain pills.” What is wrong?",
-      "a": "It is paternalism: pressure to override a capable adult’s choice. It violates autonomy and risks harm. Instead, teach the risks, offer help to cut back, and respect his decision."
+      "q": "A nurse feels pulled between the facility’s staffing policy and a client’s need for one-to-one observation. What is her first consideration?",
+      "a": "The client and what best meets the client’s needs. She reports the safety need through the chain of command."
+     }
+    },
+    {
+     "heading": "Advance directives, ethics committees, and decisions",
+     "source": "Module 44 study guide, pp. 5–7 (Related Concepts: legal issues; Outcome 44.4 goal of ethical reasoning; ethics committees); decision steps added for the NCLEX",
+     "keyIdea": "Decide ethically with a step-by-step process, not by feelings or habit, and call the ethics committee when conflict will not resolve.",
+     "body": "<p>Advance directives protect a client’s choices when they can no longer speak. Discuss them before procedures and make sure they are followed. If family demands care the client refused in a valid directive, tell the provider. Involve the ethics committee if the conflict goes on.</p><p>A surrogate should decide based on what the client would have wanted. When family and team disagree about that, do not take sides. The ethics committee helps when clients cannot state their wishes. It mediates conflicts between the client or family and the provider or facility. It is also a resource for routine questions.</p><p>Your course guide says The Joint Commission mandates ethics committees; see the course note at the end. On the NCLEX, know the committee is the resource to call.</p>",
+     "steps": [
+      "Gather facts: clinical data, capacity, wishes, directives, and the legal decision-maker.",
+      "Name the principles in conflict.",
+      "Clarify values: the client’s, family’s, team’s, and your own biases.",
+      "List options, consequences, and who has authority.",
+      "Choose what best fits the client’s needs and wishes. Call the ethics committee if conflict persists.",
+      "Act, communicate, and document.",
+      "Evaluate, reflect, and get support for moral distress."
+     ],
+     "check": {
+      "q": "A client is unconscious after a stroke with no advance directive. His wife wants the ventilator continued; his children and the neurologist disagree. What should the nurse do?",
+      "a": "Request an ethics committee consult. The dispute is about what he would have wanted, so it needs mediation, not a nurse taking sides."
      }
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
+     "source": "Added for the NCLEX — not in course materials (terms from Module 44 study guide, pp. 1–6, and Further Illustrations handout)",
      "keyIdea": "Find the exact action in the stem and match it to the principle it serves, not one that sounds close.",
      "table": {
       "headers": [
@@ -887,8 +910,8 @@
       "rows": [
        [
         "Beneficence vs nonmaleficence",
-        "Do good vs hold back to avoid harm",
-        "Arranges, teaches = beneficence; holds, stops = nonmaleficence"
+        "Promote good vs prevent harm",
+        "Arranges, teaches, relieves = beneficence; checks, holds, stops = nonmaleficence"
        ],
        [
         "Autonomy vs paternalism",
@@ -920,6 +943,7 @@
     },
     {
      "heading": "How the NCLEX tests this",
+     "source": "Added for the NCLEX — not in course materials",
      "keyIdea": "Find who has the right to decide, then pick the action that protects that person’s informed choice through the right channel.",
      "body": "<p><b>Sample:</b> A client with capacity and advanced COPD says she does not want to be intubated again. Her daughter says, “Mom isn’t thinking clearly. I want everything done.” There is no written advance directive. Which action should the nurse take first?</p><p>A. Tell the daughter the client has the right to refuse and the matter is closed.<br>B. Notify the provider so the client’s wishes can be discussed and documented, including code status.<br>C. Ask the chaplain to help the daughter accept the decision.<br>D. Document that the daughter will decide if the client gets worse.</p>",
      "bullets": [
@@ -938,6 +962,7 @@
     },
     {
      "heading": "Worked case: June D’Angelo’s sixth ED visit",
+     "source": "Module 44 study guide, p. 8 (Case Study: June D’Angelo, Parts 1–3; textbook pp. 2733, 2735, 2737); evaluation step added",
      "keyIdea": "Assess why before you teach, build the plan around the client’s life, and never confirm a client’s presence to a caller.",
      "body": "<p>June D’Angelo, 49, comes to the ED with a severe migraine and BP 210/104 mm Hg. It is her sixth ED visit for the same problem. She never filled her daily blood pressure pill. She takes daily walks instead, because she fears missing work for frequent primary HCP appointments.</p><p>Later, a woman who says she is June’s supervisor, “Mrs. Jones,” calls the ED. She asks if June was treated today. The case has three parts.</p>",
      "steps": [
@@ -957,6 +982,7 @@
     },
     {
      "heading": "North Carolina practice note",
+     "source": "Added for the NCLEX — not in course materials (North Carolina law)",
      "keyIdea": "NC law sets the advance directive forms, which minors may consent alone, and who must report abuse to county DSS.",
      "bullets": [
       "Advance directives: Health Care Power of Attorney (G.S. Chapter 32A, Article 3) names an agent. The Declaration of a Desire for a Natural Death is the living will (G.S. 90-321).",
@@ -969,8 +995,9 @@
     },
     {
      "heading": "Course source & clinical clarification",
+     "source": "Module 44 study guide, pp. 2, 4–8; Ethics slides 5; Further Illustrations handout",
      "bullets": [
-      "Source: Module 44 study guide, pp. 2732–2737 (Outcomes 44.2, 44.4, 44.5; Focus on Diversity and Culture; Related Concepts table; Safety Alert; Figure 44.1; Case Study June D’Angelo Parts 1–3, pp. 2733, 2735, 2737).",
+      "Source: Module 44 study guide, pages 2 and 4–8 (the guide’s own page numbers): glossary principles, Outcome 44.2 (Focus on Diversity and Culture; Related Concepts table), Outcome 44.4 (Safety Alert; Figure 44.1), Outcome 44.5 (ethics committees), and the June D’Angelo case, Parts 1–3 (textbook pp. 2733, 2735, 2737).",
       "Unit 7 sources: Ethics PowerPoint slide 5 and its speaker notes (first section). Handout “Further Illustrations for Ethical Principles”: autonomy in the refusal section; nonmaleficence, beneficence, and paternalism in “Doing good with the least harm”; justice in the first section; fidelity in the Morality lesson.",
       "Your handout spells the terms “NONMALEFICIENCE” and “HIPPA.” Correct spellings: nonmaleficence and HIPAA (Health Insurance Portability and Accountability Act). The meaning is the same.",
       "Your handout says “nosocomial infections.” Current standard: the term is health care–associated infections (HAIs). Same meaning.",
@@ -1093,7 +1120,7 @@
     },
     {
      "term": "Moral distress",
-     "def": "Knowing the right action but feeling unable to do it, or facing repeated ethical conflict. It leads to burnout. A moral dilemma is two “right” choices in conflict."
+     "def": "Knowing the right action but being unable to act on it, or facing repeated ethical conflict. It leads to burnout. A moral dilemma is two “right” choices in conflict."
     },
     {
      "term": "Ethical climate",
@@ -1119,8 +1146,9 @@
    "sections": [
     {
      "heading": "Where morals come from, and spotting moral issues",
+     "source": "Ethics slides 9; Module 44 study guide, p. 1 (glossary: morality); sandwich and consent examples added",
      "keyIdea": "Morals are learned from family, culture, religion, education, and experience; guilt or shame, and words like ought and should, signal a moral issue.",
-     "body": "<p><b>Moral development</b> is the process of learning right from wrong. It shapes how nurses make ethical decisions. Your slides name five influences, listed below.</p><p>In practice, clients and families went through their own moral development. Their moral views may differ from yours, and those views shape their health care decisions. Expect differences, ask about them, and do not judge.</p><p>Moral issues involve important social values, not small preferences. A turkey or ham sandwich is not a moral issue. Whether a client hears the truth about a prognosis is.</p><p>Watch for two kinds of clues. <b>Feelings:</b> guilt, shame, hope, or anger at unfairness. <b>Words:</b> ought, should, right, wrong, good, bad.</p><p>Spotting the issue is the first step, not the last. Morals differ from person to person, so “It feels wrong to me” cannot justify an action. Your private morals alert you. Professional ethics guide you.</p>",
+     "body": "<p><b>Moral development</b> is the process of learning right from wrong. It shapes how nurses make ethical decisions. Your slides name five influences, listed below.</p><p>In practice, clients and families went through their own moral development. Their moral views may differ from yours, and those views shape their health care decisions. Expect differences, ask about them, and do not judge.</p><p>Moral issues involve important social values, not small preferences. A turkey or ham sandwich is not a moral issue. Whether a client hears the truth about a prognosis is.</p><p>Watch for two kinds of clues. <b>Feelings:</b> guilt, hope, or shame. <b>Words:</b> ought, should, right, wrong, good, bad.</p><p>Spotting the issue is the first step, not the last. Morals differ from person to person, so “It feels wrong to me” cannot justify an action. Your private morals alert you. Professional ethics guide you.</p>",
      "example": "A surgeon tells a client, “This is minor, nothing to worry about.” The consent form lists a 10% risk of permanent nerve damage. The nurse feels uneasy and thinks, “He should know the real risk.” Those are moral cues. Her action: ask the client what he understands and tell the surgeon he may lack full information before signing.",
      "bullets": [
       "Family",
@@ -1132,13 +1160,14 @@
     },
     {
      "heading": "Is it a true moral dilemma?",
+     "source": "Module 44 study guide, pp. 2, 6–7 (glossary; Outcome 44.5, four criteria); Ethics slides 13; example table added",
      "keyIdea": "All four criteria must be met; if a law, policy, or clear standard already decides the action, it is not a dilemma.",
-     "body": "<p>Many problems feel like dilemmas but are really knowledge gaps, policy questions, or legal duties. A true moral dilemma exists only when all four criteria are met. Then the nurse uses structured ethical reasoning. If not, the nurse follows standard practice guidelines.</p><p>Stop at the first “no.” Criterion 3 trips up most distractors. Mandatory reporting, holding an unsafe dose, and following policy all remove the freedom to choose. A law can settle part of a situation and still leave a real choice about how to act.</p>",
+     "body": "<p>Many problems feel like dilemmas but are really knowledge gaps, policy questions, or legal duties. Your slides define an ethical dilemma as a conflict between two or more rights, values, obligations, or responsibilities. There is no easy or perfect answer. A true moral dilemma exists only when all four criteria are met. Then the nurse uses structured ethical reasoning. If not, the nurse follows standard practice guidelines.</p><p>Stop at the first “no.” Criterion 3 trips up most distractors. Mandatory reporting, holding an unsafe dose, and following policy all remove the freedom to choose. A law can settle part of a situation and still leave a real choice about how to act.</p>",
      "steps": [
       "The possible actions conflict with the needs of one or more people.",
-      "Two or more moral principles conflict, such as veracity vs fidelity.",
+      "Conflicting moral or ethical principles apply to the situation, such as veracity vs fidelity.",
       "There is freedom to decide. No law or clear standard dictates the answer.",
-      "Personal feelings and the situation itself shape the choice."
+      "The choice is influenced by personal feelings and by the situation itself."
      ],
      "table": {
       "headers": [
@@ -1181,8 +1210,9 @@
     },
     {
      "heading": "Outcome thinking vs duty thinking",
+     "source": "Module 44 study guide, pp. 2–3, 8 (glossary; Exemplar 44.A frameworks); Ethics slides 8; Kant and weaknesses added",
      "keyIdea": "Teleologic theories ask which outcome is best; deontologic theories ask which duty must be kept, whatever the outcome.",
-     "body": "<p><b>Teleologic</b> (consequence-based) theories judge an act only by its outcome. <b>Utilitarianism</b> is the best-known type: the greatest good for the greatest number, with the fewest harmed. Its rule, the <b>principle of utility</b>, applies when resources are limited.</p><p>Disaster triage uses it. Staff and supplies go first to those who will benefit most. A client who cannot survive gets comfort care. The weakness: it could justify harming one person to help many.</p><p><b>Deontologic</b> (principles-based) theories say an act is right if it keeps a duty, whatever the result. Immanuel Kant is linked to it. Tell the truth. Keep promises. Never use a person merely as a means. The weakness: duties can clash, and rigid rules can ignore context.</p><p>Your course guide glosses consequence-based theories with the question “Was the action fair?” Current standard: these theories ask whether the outcome was good. Fairness is the concern of justice. On a course exam, expect the course’s wording; on the NCLEX, link outcome words to teleology.</p>",
+     "body": "<p><b>Teleologic</b> (consequence-based) theories judge an act only by its outcome. <b>Utilitarianism</b> is the best-known type: the greatest good for the greatest number, with the fewest harmed. Its rule, the <b>principle of utility</b>, applies when resources, medications, or treatments are limited.</p><p>Disaster triage uses it. Staff and supplies go first to those who will benefit most. A client who cannot survive gets comfort care. The weakness: it could justify harming one person to help many.</p><p><b>Deontologic</b> (principles-based) theories say an act is right if it keeps a duty, whatever the result. Immanuel Kant is linked to it. Tell the truth. Keep promises. Never use a person merely as a means. The weakness: duties can clash, and rigid rules can ignore context.</p><p>Your course guide glosses consequence-based theories with the question “Was the action fair?” Current standard: these theories ask whether the outcome was good. Fairness is the concern of justice. On a course exam, expect the course’s wording; on the NCLEX, link outcome words to teleology.</p>",
      "analogy": "Teleologic thinking is like a coach who picks plays by the scoreboard: whatever wins is right. Deontologic thinking is like a referee: some rules cannot be broken, even to win.",
      "bullets": [
       "<b>Fair scarce-resource plans:</b> clear clinical criteria for likely benefit, applied the same to everyone, decided by a triage team separate from bedside staff.",
@@ -1196,8 +1226,9 @@
     },
     {
      "heading": "Caring theory and comparing the three",
+     "source": "Module 44 study guide, pp. 3, 8 (glossary; Exemplar 44.A frameworks); Ethics slides 8; theorist names and comparison table added",
      "keyIdea": "Caring theories ask what this person and these relationships need; they shape how you keep your duties, not whether you keep them.",
-     "body": "<p><b>Relationship-based</b> (caring) theories put the relationship at the center. They are linked to Carol Gilligan, Nel Noddings, and nursing caring theorists. The nurse asks, “What does caring for this person, in this situation, require?” The tools are empathy, attention to context, and responsiveness.</p><p>Caring theories explain choices that rules alone do not. Examples are timing bad news for a client whose fears you know, or involving a client’s chosen family. They do not replace principles. A caring nurse still tells the truth, with care for timing, setting, and support.</p>",
+     "body": "<p><b>Relationship-based</b> (caring) theories focus on relationships, empathy, and caring responsibilities in ethical decisions. They are linked to Carol Gilligan, Nel Noddings, and nursing caring theorists. The nurse asks, “What does caring for this person, in this situation, require?” The tools are empathy, attention to context, and responsiveness.</p><p>Caring theories explain choices that rules alone do not. Examples are timing bad news for a client whose fears you know, or involving a client’s chosen family. They do not replace principles. A caring nurse still tells the truth, with care for timing, setting, and support.</p>",
      "table": {
       "headers": [
        "Framework",
@@ -1233,8 +1264,9 @@
     },
     {
      "heading": "Fidelity, accountability, and responsibility",
+     "source": "Module 44 study guide, p. 3 (glossary); Ethics slides 10; Further Illustrations handout (fidelity); error steps added for the NCLEX",
      "keyIdea": "Keep your promises, own your mistakes, and do your duties reliably; after an error, assess the client before anything else.",
-     "body": "<p><b>Fidelity</b> is keeping promises. Small ones count: “I’ll be back in 15 minutes.” If an emergency delays you, ask a colleague to help or tell the client. Never promise what you cannot keep, like “I won’t tell anyone” about something you must report.</p><p><b>Accountability</b> is answering for your choices and their results. <b>Responsibility</b> is reliably doing your job. Simple rule: responsibility is doing the job; accountability is answering for how you did it. Hiding an error is the opposite of accountability.</p><p>Your handout adds that fidelity means loyalty, fairness, truthfulness, advocacy, and dedication to clients. It rests on the value of caring.</p>",
+     "body": "<p><b>Fidelity</b> is keeping promises and staying faithful to professional commitments. Small ones count: “I’ll be back in 15 minutes.” If an emergency delays you, ask a colleague to help or tell the client. Never promise what you cannot keep, like “I won’t tell anyone” about something you must report.</p><p><b>Accountability</b> is being answerable for your own actions, decisions, and outcomes. <b>Responsibility</b> is reliably and dependably doing the duties of your role. Simple rule: responsibility is doing the job; accountability is answering for how you did it. Hiding an error is the opposite of accountability.</p><p>Your handout adds that fidelity means loyalty, fairness, truthfulness, advocacy, and dedication to clients. It rests on the value of caring.</p>",
      "table": {
       "headers": [
        "Concept",
@@ -1278,8 +1310,9 @@
     },
     {
      "heading": "Moral distress and strategies for ethical practice",
+     "source": "Ethics slides 5 notes and 6; Module 44 study guide, pp. 6–7 (Outcome 44.4 moral distress; Outcome 44.5 strategies and evidence); signs-and-steps list added",
      "keyIdea": "Moral distress is knowing the right thing but feeling blocked; mentors, ethics committees, teamwork, and ethics education protect you and your clients.",
-     "body": "<p><b>Moral distress</b> means you know the right thing to do but feel unable to do it. A <b>moral dilemma</b> is different: two ethically “right” choices are in conflict. Frequent ethical conflict causes moral distress and burnout.</p><p>Your course cites research on what helps, shown in the table. ACOG is the American College of Obstetricians and Gynecologists. The bullets combine your slides’ strategies with the course guide’s seven individual strategies. Gut feeling or “how my last unit did it” is not ethical reasoning.</p>",
+     "body": "<p><b>Moral distress</b> means you know the right thing to do but are unable to act on it. A <b>moral dilemma</b> is different: two ethically “right” choices are in conflict. Frequent ethical conflict causes moral distress and burnout.</p><p>Your course cites research on what helps, shown in the table. ACOG is the American College of Obstetricians and Gynecologists. The bullets combine your slides’ strategies with the course guide’s seven individual strategies. Gut feeling or “how my last unit did it” is not ethical reasoning.</p>",
      "bullets": [
       "Use the ANA Code of Ethics as a guide, and know the ethical principles.",
       "Seek consultation from experienced peers or mentors.",
@@ -1324,7 +1357,7 @@
        ],
        [
         "Interdisciplinary ethics committees ensure ethical care, help when clients cannot state wishes, and mediate client/family and provider/facility conflicts",
-        "The Joint Commission, 2017",
+        "Mandated by The Joint Commission, 2017",
         "Call the committee when conflict will not resolve"
        ],
        [
@@ -1346,6 +1379,7 @@
     },
     {
      "heading": "How does morality fit the nursing process?",
+     "source": "Ethics slides 11; diagnosis meanings and cues added",
      "keyIdea": "Moral issues appear in every step: assess beliefs without judging, name the problem, plan around differing values, act despite difficulty, then reflect.",
      "body": "<p>Your slides walk morality through the nursing process. Each step has its own challenge.</p><p><b>Cultural relativism</b> is the idea that right and wrong are judged within a person’s own culture. Morals vary by culture. So learn the client’s beliefs instead of measuring them against yours.</p><p>Many current sources avoid the label “noncompliance” because it can sound like blame. On the NCLEX, look for the reason behind the behavior.</p>",
      "steps": [
@@ -1397,6 +1431,7 @@
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
+     "source": "Added for the NCLEX — not in course materials (terms from Module 44 study guide, pp. 2–3, and Ethics slides 5 notes)",
      "keyIdea": "Outcome words point to teleology, duty words to deontology, and relationship words to caring theory.",
      "table": {
       "headers": [
@@ -1445,6 +1480,7 @@
     },
     {
      "heading": "How the NCLEX tests this",
+     "source": "Added: NCLEX-style item adapted from the Keith Morgan case (Module 44 study guide, p. 8)",
      "keyIdea": "When a moral problem and a client need appear together, meet the client need first, usually by assessing.",
      "body": "<p><b>Sample:</b> A home health nurse visits a client 5 days after surgery for a broken tibia. He rates pain 8/10. He says, “The last nurse told me all I needed was acetaminophen, so I haven’t taken the oxycodone.” Which action comes first?</p><p>A. Call the supervisor to report the previous nurse.<br>B. Assess his pain and his understanding of the prescribed plan.<br>C. Tell him to take the oxycodone now with his acetaminophen.<br>D. Ask the provider for a stronger prescription.</p>",
      "bullets": [
@@ -1465,6 +1501,7 @@
     },
     {
      "heading": "Worked case: the promise and the prognosis",
+     "source": "Added: worked example based on Further Illustrations handout (fidelity) and the dilemma criteria (Module 44 study guide, pp. 6–7)",
      "keyIdea": "Fidelity never requires lying; keep the confidence, refuse false reassurance, and help the client share the truth himself.",
      "body": "<p>Mr. Okafor, 71, has metastatic pancreatic cancer and capacity. Last week he asked his nurse, “Please don’t tell my wife how bad it is. I want to tell her myself.” The nurse agreed.</p><p>Today his wife says she is about to sell their home and move out of state “once he’s better.” She asks, “He’s going to recover, isn’t he?”</p>",
      "steps": [
@@ -1483,6 +1520,7 @@
     },
     {
      "heading": "Worked case: Keith Morgan’s untreated pain",
+     "source": "Module 44 study guide, p. 8 (Apply Your Knowledge: Keith Morgan, textbook p. 2738)",
      "keyIdea": "Validate and assess pain first, teach the truth about the prescribed drug, involve the provider, and report the error so bias never blocks comfort.",
      "body": "<p>Keith Morgan, 46, is recovering at home from a fractured leg. He reports severe pain. He takes only Tylenol (acetaminophen). A previous nurse told him “all he needed was Tylenol.” But his primary HCP prescribed and documented a narcotic analgesic.</p><p>Your course guide says “narcotic analgesic.” Current standard: opioid analgesic. On a course exam, expect “narcotic”; on the NCLEX, expect “opioid.” The drug is the same.</p>",
      "steps": [
@@ -1500,6 +1538,7 @@
     },
     {
      "heading": "Worked case: Joe’s pain at the end of life",
+     "source": "Verbatim Account handout (Chitty, 2005, pp. 546–547); double effect and current-practice steps added",
      "keyIdea": "Giving prescribed pain medicine to relieve a dying client’s pain is ethical, even if death could come sooner, because the intent is comfort.",
      "body": "<p>This case is your handout “A Verbatim Account of Ethical Dilemma,” told by critical care nurse Katie Hough, RN. Joe is ice cold and in severe chest pain. He says, “I know I’m dying; my family knows I’m dying. Please give me something for the pain.” His heart rate is 162 and his blood pressure is 68/30.</p><p>Morphine is ordered, but she fears it could end his life. She gives it slowly, in small IV doses. At about 6.5 mg, his pressure falls to about 46/20. Then it rises to 90/60, and he is pain free. He lives 5 more hours, pain free, with his family reminiscing.</p><p>Her reasoning: she gave the drug to end the pain, not his life. Ethicists call this the <b>principle of double effect</b>. Giving a drug in order to cause death is euthanasia, which is illegal in every U.S. state. Carefully titrated opioids have generally not been shown to shorten life in dying clients.</p>",
      "steps": [
@@ -1518,6 +1557,7 @@
     },
     {
      "heading": "North Carolina practice note",
+     "source": "Added for the NCLEX — not in course materials (North Carolina law and NCBON rules)",
      "keyIdea": "NCBON uses Just Culture to judge errors, and reporting child or disabled-adult maltreatment is a legal duty, not a dilemma.",
      "bullets": [
       "NCBON’s Just Culture–based Complaint Evaluation Tool sorts events into three groups. Just Culture’s usual responses are below.",
@@ -1532,8 +1572,9 @@
     },
     {
      "heading": "Course source & clinical clarification",
+     "source": "Module 44 study guide, pp. 2–3, 6–8; Ethics slides 5–11; Further Illustrations and Verbatim Account handouts",
      "bullets": [
-      "Source: Module 44 study guide, pp. 2736–2739 (Outcome 44.5 dilemma criteria, strategies, and evidence; Exemplar 44.A moral frameworks, pp. 2738–2739; Keith Morgan case, p. 2738; glossary for fidelity, accountability, responsibility).",
+      "Source: Module 44 study guide, pages 2–3 and 6–8 (the guide’s own page numbers): glossary terms for theories, fidelity, accountability, and responsibility; Outcome 44.5 dilemma criteria, strategies, and evidence; Exemplar 44.A moral frameworks (textbook pp. 2738–2739); Keith Morgan case (textbook p. 2738).",
       "Unit 7 sources: Ethics PowerPoint slide 5 speaker notes and slide 6 (moral distress vs dilemma; strategies), in the moral distress section. Slides 7–11 (Exemplar 44.A): theories (8), moral development (9, first section), moral principles (10, fidelity section), and the nursing process (11).",
       "Handouts: “Further Illustrations” (fidelity example) and “A Verbatim Account of Ethical Dilemma” (Chitty, 2005, pp. 546–547), taught in Joe’s worked case. The handout does not name double effect; the site adds the name.",
       "The Verbatim Account is from 2005. Current standard: confirm code status and goals of care, and titrate opioids to comfort within the prescription.",

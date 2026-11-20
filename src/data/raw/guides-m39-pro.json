@@ -110,7 +110,7 @@
     {
      "heading": "What is managed care?",
      "keyIdea": "Managed care plans care from first contact to the end of a health problem, to cut cost and waste and improve outcomes.",
-     "body": "<p>Managed care coordinates care and resources for a group of enrolled (subscribed) clients. It grew because costs kept rising. Payers (insurers and government) wanted to stop paying for repeated or unneeded care. So care is planned from the first contact until the health problem is solved.</p><p>Payers keep creating new incentives to contain costs. Some trends help, like more focus on preventive care. Some add risk, like earlier discharge, which can raise readmissions if teaching is rushed.</p><p>Its six goals are listed below. Two plan types show up on the exam. An <b>HMO</b> trades choice for lower cost. A <b>PPO</b> trades higher cost for more choice.</p>",
+     "body": "<p>Managed care is a health care delivery system. It coordinates how resources are given to a group of enrolled (subscribed) clients. Care is carefully planned from the first contact until the health problem ends.</p><p>Payers keep creating new incentives to contain costs. Some trends help, like more focus on preventive care. Some have downsides. Clients are released earlier, which can lead to spikes in hospital readmissions.</p><p>Its six goals are listed below. Two plan types show up on the exam. An <b>HMO</b> trades choice for lower cost. A <b>PPO</b> trades higher cost for more choice.</p>",
      "bullets": [
       "Lower health care costs.",
       "Eliminate redundancy (repeat tests and services).",
@@ -146,7 +146,8 @@
      "check": {
       "q": "A client in an HMO books an orthopedic surgeon found online. What should the nurse clarify?",
       "a": "Whether the client has a referral from the primary care provider (the gatekeeper) and whether the surgeon is in network. Without these, the visit may not be covered."
-     }
+     },
+     "source": "Module 39 study guide, pp. 2621–2622 (glossary: managed care; trends; HMOs vs. PPOs)"
     },
     {
      "heading": "Three nurse functions in managed care",
@@ -161,12 +162,13 @@
      "check": {
       "q": "A charge nurse calmly explains a new policy, thanks a tired team, and still checks on each client. Which managed-care function is this?",
       "a": "Interpersonal skills, the heart of managed care. Leaders inspire staff, monitor clients, and keep to organizational requirements."
-     }
+     },
+     "source": "Module 39 study guide, p. 2621 (Concept of Managing Care, §A: key nurse functions)"
     },
     {
      "heading": "Who does what: RN, LPN, or UAP?",
      "keyIdea": "If a task needs judgment, or the client is new or unstable, it stays with the RN.",
-     "body": "<p>The <b>RN</b> does the first and ongoing full assessment. The RN makes the care plan, teaches, evaluates, and cares for unstable clients.</p><p>The <b>LPN/LVN</b> cares for stable clients with predictable outcomes, under RN or provider direction. The LPN collects data and reinforces teaching the RN already did. <b>UAP</b> do basic care that needs no judgment.</p><p>Watch out: a simple task can still be off-limits. Feeding is a UAP task. But a client who newly coughs with liquids needs RN assessment first. Food or fluid may be going into the lungs (<b>aspiration</b>).</p>",
+     "body": "<p>The <b>RN</b> does the first and ongoing assessment and identifies health problems. The RN develops and coordinates the plan of care, teaches, evaluates, and cares for unstable clients. The RN leads the team in team nursing and oversees all care in primary nursing.</p><p>The <b>LPN/LVN</b> gives direct care, such as routine treatments, dressing changes, and medications within scope. The LPN works under the direction of an RN, physician, or other licensed provider. On the NCLEX, the LPN gets stable clients with predictable outcomes. The LPN collects data and reinforces teaching the RN already did. <b>UAP</b> (aides, CNAs, nurse technicians, orderlies) do delegated basic care that needs no judgment.</p><p>Watch out: a simple task can still be off-limits. Feeding is a UAP task. But a client who newly coughs with liquids needs RN assessment first. Food or fluid may be going into the lungs (<b>aspiration</b>).</p>",
      "table": {
       "headers": [
        "Role",
@@ -181,12 +183,12 @@
        ],
        [
         "LPN/LVN",
-        "Stable clients, routine treatments, dressing changes, many medications, data collection",
+        "Stable clients, routine treatments, dressing changes, medications within scope, data collection",
         "Initial assessment, care plan, first teaching, unstable clients"
        ],
        [
         "UAP",
-        "Hygiene, feeding help, walking, toileting, linens, intake and output, routine vital signs and specimens on stable clients",
+        "Bathing, feeding help, walking, toileting, linens, routine specimens; often routine vital signs and intake and output on stable clients",
         "Assessment, teaching, medications, interpreting findings, unstable clients"
        ]
       ]
@@ -194,7 +196,8 @@
      "check": {
       "q": "A UAP must feed two clients. One has dementia and eats well with cues. One had a stroke yesterday and has no swallow screen yet. Which may the UAP feed?",
       "a": "The client with dementia, who is stable. The stroke client may aspirate and stays NPO until the swallow screen is done."
-     }
+     },
+     "source": "Module 39 study guide, p. 2623 (glossary: RNs, LPNs/LVNs, UAP); \"stable, predictable\" rule added for the NCLEX"
     },
     {
      "heading": "Seven ways to organize nursing care",
@@ -236,7 +239,7 @@
        ],
        [
         "Case method (total patient care)",
-        "One nurse gives total care and coordination for one shift",
+        "One nurse gives total care and coordination, using the full nursing process, for one shift",
         "High-acuity units (ED, ICU); whole-client care that is not split up",
         "High RN staffing cost; little continuity across shifts"
        ],
@@ -254,7 +257,7 @@
        ],
        [
         "Primary nursing",
-        "Primary RN plans and oversees care from admission to discharge",
+        "Primary RN plans and oversees all care from admission to discharge (24/7 accountability for the plan)",
         "ICUs and complex units; high continuity and trust",
         "Needs many RNs; continuity drops if the RN is off without a clear handoff"
        ]
@@ -265,7 +268,8 @@
      "check": {
       "q": "One nurse gives all medications, one takes all vital signs, one does all treatments. Clients say nobody explains anything. Which model is this?",
       "a": "The functional method. It is efficient and cheap, but no one knows the whole client, so care is fragmented and teaching and emotional needs are missed."
-     }
+     },
+     "source": "Module 39 study guide, pp. 2622–2624 (glossary; care delivery models table; SNF scenario, p. 2626)"
     },
     {
      "heading": "Delegation vs. assignment: what's the difference?",
@@ -281,12 +285,13 @@
      "check": {
       "q": "A UAP reports a pulse of 118 on a stable post-op client. Who interprets it?",
       "a": "The RN. The UAP collected and reported data. Interpreting it and acting is nursing judgment, which cannot be delegated."
-     }
+     },
+     "source": "Added for the NCLEX — not in course materials (NCSBN–ANA delegation guidelines; builds on the delegation function, study guide p. 2621)"
     },
     {
      "heading": "What if the unit is short-staffed?",
      "keyIdea": "Protect RN-only work, delegate only routine tasks, and escalate for help.",
-     "body": "<p>Both the number of nurses and their education affect <b>morbidity</b> (complications), <b>mortality</b> (death), and cost. Too many clients per nurse means more medication errors, falls, missed assessments, and delayed interventions.</p><p>Staffing is measured by nurse-to-patient ratio or nursing hours per patient day. Shortages come from retirements, rising demand in psychiatric, geriatric, and pediatric care, and pandemic burnout. They raise stress and adverse events. So <b>skill mix</b> must match <b>acuity</b>.</p><p>Your course guide says 14 U.S. states have staffing rules, but only California mandates hospital nurse-to-patient ratios. Current standard: Oregon also passed hospital ratios in 2023, phased in from 2024, and Massachusetts sets ICU ratios. On a course exam, expect \"14 states, only California.\" On the NCLEX, state laws are not tested; safe staffing is.</p><p>When a unit suddenly loses three licensed staff, \"work faster\" is not the answer. Do this:</p>",
+     "body": "<p>Both the number of nurses and their academic and clinical qualifications directly affect <b>morbidity</b> (complications), <b>mortality</b> (death), and cost. Too many clients per nurse means more medication errors, falls, missed assessments, and delayed interventions.</p><p>Staffing is measured by nurse-to-patient ratio or nursing hours per patient day. Shortages come from retirements, rising demand in psychiatric, geriatric, and pediatric care, and pandemic burnout. They raise stress and adverse events. So <b>skill mix</b> must match <b>acuity</b>.</p><p>Your course guide says 14 U.S. states have staffing rules, but only California mandates hospital nurse-to-patient ratios. Current standard: Oregon also passed hospital ratios in 2023, phased in from 2024, and Massachusetts sets ICU ratios. On a course exam, expect \"14 states, only California.\" On the NCLEX, state laws are not tested; safe staffing is.</p><p>When a unit suddenly loses three licensed staff, \"work faster\" is not the answer. Do this:</p>",
      "bullets": [
       "Escalate through the chain of command for more staff.",
       "Reallocate RNs to unstable clients, admissions, high-acuity assessments, and medications.",
@@ -299,12 +304,13 @@
      "check": {
       "q": "A manager suggests UAP do admission assessments \"just for today.\" What should the charge nurse do?",
       "a": "Decline and escalate. Initial assessment is RN work no matter the staffing."
-     }
+     },
+     "source": "Module 39 study guide, p. 2624 (Evidence-Based Practice: staffing ratios; Scenario 1, loss of 3 licensed staff); escalation added"
     },
     {
      "heading": "Two safety alerts: client choices and handoffs",
      "keyIdea": "Honor choices without joining unsafe care, and never rely on paperwork alone at a handoff.",
-     "body": "<p><b>Safety alert 1.</b> Patient-focused care does not mean doing whatever the client asks. The nurse also must do no harm ( <b>nonmaleficence</b> ). Never agree to a request that could harm the client. Instead, explain all the risks calmly and without judgment. Ask why, and offer a safe option that meets the real wish. A competent adult may refuse care after an informed talk, but the nurse never takes part in unsafe care.</p><p><b>Safety alert 2.</b> Information gets lost at transfers, such as hospital to rehab, and at shift changes. These gaps can become life-threatening. Document all care fully AND give a verbal report to the receiving nurses whenever possible. A written packet alone is not enough. SBAR keeps the report complete.</p>",
+     "body": "<p><b>Safety alert 1.</b> Patient-focused care does not mean doing whatever the client asks. The nurse also has an ethical and legal duty to \"do no harm\" (<b>nonmaleficence</b>). Never agree to a request that could put the client's well-being at risk. Instead, carefully and nonjudgmentally tell the client all the risks of what was asked. </p><p>Ask why, and offer a safe option that meets the real wish. A competent adult may refuse care after an informed talk, but the nurse never takes part in unsafe care.</p><p><b>Safety alert 2.</b> Information gets lost at transfers, such as hospital to rehab, and at shift changes. These gaps can become life-threatening. Document all care fully AND give a verbal report to the receiving nurses whenever possible. A written packet alone is not enough. SBAR keeps the report complete.</p>",
      "steps": [
       "<b>Situation:</b> who the client is and what is happening now.",
       "<b>Background:</b> history, allergies, code status, medications and last doses.",
@@ -316,7 +322,8 @@
      "check": {
       "q": "A competent client with heart failure removes the nasal cannula because it hurts the ears. SpO2 is 90%. What should the nurse do?",
       "a": "Ask why, explain the risk, and offer fixes like ear padding, or ask the provider about another device. If the client still declines, respect it, notify the provider, and document the talk. Do not force the oxygen, and do not just leave it off without discussing the risk."
-     }
+     },
+     "source": "Module 39 study guide, p. 2623 (Safety Alerts: patient-focused care, handoffs); SBAR added for the NCLEX"
     },
     {
      "heading": "Six related concepts that decide close calls",
@@ -364,7 +371,8 @@
      "check": {
       "q": "A client asks, \"Are you sending me home tomorrow because my insurance stopped paying?\" Which concepts guide the reply?",
       "a": "Ethics, especially veracity (truthfulness), and advocacy. Answer honestly, explain the plan, and tell the provider if the client is not ready to go home."
-     }
+     },
+     "source": "Module 39 study guide, p. 2625 (Related Concepts & Nursing Implications)"
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
@@ -405,7 +413,8 @@
         "UAP and LPN report data; the RN interprets"
        ]
       ]
-     }
+     },
+     "source": "Module 39 study guide, pp. 2622–2625 (terms compared); delegation vs. assignment added for the NCLEX"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -424,7 +433,8 @@
       "<b>Why the others are wrong:</b> (A) is first teaching. (C) is assessment. (D) suggests aspiration risk.",
       "<b>The answer is (B).</b> A routine specimen is a UAP task.",
       "<b>Reusable strategy:</b> cross out assessment and teaching verbs, then new or unstable clients."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: the team leader's morning",
@@ -449,12 +459,13 @@
      "check": {
       "q": "At 0930 the UAP says Client 4 coughs and has a wet voice after sips of water. What should the RN do?",
       "a": "Stop oral intake and assess for aspiration personally. The client is no longer stable, so feeding cannot be delegated until the plan is updated."
-     }
+     },
+     "source": "Added: worked example based on Module 39 study guide, pp. 2621–2623 (team nursing, delegation, RN/LPN/UAP roles)"
     },
     {
      "heading": "Worked case: missed care in a nursing facility",
      "keyIdea": "When basic care is missed and nobody owns it, team nursing with clear RN accountability is the fix.",
-     "body": "<p>A skilled nursing facility (SNF) has a problem. Meal trays sit with no one to help residents eat. Beds go unchanged, and baths are missed. Staffing numbers are adequate. Families are complaining. The director of nursing asks two questions: which care model would fix this, and how will we know it worked?</p>",
+     "body": "<p>A skilled nursing facility (SNF) has a problem. Meal trays sit with no one to help residents eat. Beds go unchanged, and baths are missed. In this lesson's version, staffing numbers are adequate and families are complaining. The director of nursing asks two questions: which care model would fix this, and how will we know it worked?</p>",
      "steps": [
       "Notice cues: basic ADL care is missed even with enough staff. No one owns each resident's care.",
       "Pick the model: team nursing. An RN team leader assigns named residents to named aides and LPNs.",
@@ -466,7 +477,8 @@
      "check": {
       "q": "Three months later, which result best shows the change worked?",
       "a": "Fewer new pressure injuries, stable weights, better ADL audit scores, and better family survey results. Outcome data, not just staff opinions, prove success."
-     }
+     },
+     "source": "Module 39 study guide, p. 2626 (Scenario 2, inconsistent care in an SNF)"
     },
     {
      "heading": "North Carolina practice note",
@@ -482,7 +494,8 @@
       "Practice events go through NCBON's Just Culture–based Complaint Evaluation Tool: human error, at-risk, or reckless behavior.",
       "Conduct issues (diversion, impairment, fraud, boundary or confidentiality breaches) are reported to the Board.",
       "NC is a Nurse Licensure Compact state. The nurse follows the practice laws of the state where the client is located."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (North Carolina Board of Nursing rules)"
     },
     {
      "heading": "Course source & clinical clarification",
@@ -493,8 +506,10 @@
       "Added the five rights and delegation vs. assignment (NCSBN–ANA guidelines).",
       "Added SBAR for the Safety Alert on verbal handoffs.",
       "Added that HMOs generally cover emergencies out of network.",
-      "\"Client\" replaces \"patient.\""
-     ]
+      "\"Client\" replaces \"patient.\"",
+      "Added that the LPN gets stable clients with predictable outcomes, and that the charge nurse escalates for more staff. Both are NCLEX standards, not in the course guide."
+     ],
+     "source": "Module 39 study guide, pp. 2621–2626"
     }
    ],
    "mnemonics": [
@@ -614,7 +629,7 @@
     {
      "heading": "What is case management, and who needs it?",
      "keyIdea": "Case management helps most when a problem is chronic, involves many services, or keeps bringing the client back.",
-     "body": "<p><b>Case management</b> is coordination over time. It joins health services (nursing, medicine, therapy, pharmacy) with social services (transportation, money help, caregiver support). Its goals are a better care experience, lower cost, more choices for the client, and better population health.</p><p>It helps most with multiple or complex chronic problems, like COPD plus a hip replacement. It adds little for a short illness that resolves with standard treatment. Ask three questions: Is it chronic or recurring? Does it need several services? Is the client at risk for readmission or decline?</p><p>Case managers work in several settings, shown in the table.</p>",
+     "body": "<p><b>Case management</b> is coordination over time. It joins health services (nursing, medicine, therapy, pharmacy) with social services (transportation, money help, caregiver support). Its goals are a better care experience, lower cost, options for client decision making, and better overall population health.</p><p>About 89% of case manager jobs are filled by RNs. Certification requires a BS or MS degree in a health or human services field, plus supervised clinical experience.</p><p>It helps most with multiple or complex chronic problems, like COPD plus a hip replacement, or chemotherapy for cancer. It adds little for a short illness that resolves with standard treatment. Ask three questions: Is it chronic or recurring? Does it need several services? Is the client at risk for readmission or decline?</p><p>Case managers work in several settings, shown in the table.</p>",
      "table": {
       "headers": [
        "Setting",
@@ -631,7 +646,7 @@
        ],
        [
         "Community, insurer, or employer",
-        "Ongoing care at home or by phone; cost control"
+        "Work with clients in their homes or through payers to keep care ongoing and control costs"
        ]
       ]
      },
@@ -639,7 +654,8 @@
      "check": {
       "q": "Who needs case management most: a sprained ankle, cellulitis on day 2 of antibiotics, or heart failure with two admissions in 3 months, living alone?",
       "a": "The client with heart failure: chronic, recurring, living alone, and needing medications, monitoring, teaching, and home services."
-     }
+     },
+     "source": "Module 39 study guide, pp. 2622, 2626 (glossary: case management, PCMH; Exemplar 39.A §A: goals, workforce, settings)"
     },
     {
      "heading": "The case manager's four core jobs",
@@ -649,22 +665,23 @@
       "<b>Holistic (whole-person) assessment:</b> strengths, needs, home life, caregivers, independence, and equipment such as oxygen or a walker. Assess before any referral.",
       "<b>Plan with cultural alignment:</b> find barriers such as religious beliefs, cultural practices, and complementary therapies. Build a pathway-based plan with the client and family.",
       "<b>Coordinate the team:</b> start consults and referrals, get orders, and share updates.",
-      "<b>Monitor and revise:</b> track progress toward goals set together with the client. A change in clinical condition or in discharge plans means revise right away."
+      "<b>Monitor and revise:</b> track progress toward goals set together with the client. A change in clinical condition or in discharge or transfer plans is a red flag: revise right away."
      ],
      "example": "A client with a brain tumor will get chemotherapy into the spinal fluid (intrathecal) and by IV after discharge. Before discharge, the nurse confirms the nutrition screen, the social work consult, and the home health referral. The nurse also checks that infusion, oncology, and neurology visits do not conflict.",
      "check": {
       "q": "A new case manager orders a hospital bed and oxygen before meeting a client with COPD. What was skipped?",
       "a": "Holistic assessment. The client may already own oxygen, have no room for a bed, or have barriers that change the plan. Referrals come after assessment."
-     }
+     },
+     "source": "Module 39 study guide, p. 2626 (core responsibilities of the nurse case manager; Scenario 3, Mr. Montoya)"
     },
     {
      "heading": "What makes a program work?",
      "keyIdea": "High-risk triggers pick the clients, and five elements, starting with a case manager from admission, make the program succeed.",
-     "body": "<p>Managed care groups clients by <b>DRGs</b>, diagnosis groups tied to payment. This helps spot clients likely to be costly or to have complications. The triggers are listed below.</p><p>A program also needs five elements, shown in the table. Note the first one: the case manager starts at admission. Planning that starts on discharge day causes delays and unsafe transitions.</p>",
+     "body": "<p>Managed care groups clients by <b>diagnosis-related groups (DRGs)</b>. These are standard clinical diagnoses tied to cost reimbursement (payment). Some groups are high risk. The triggers are listed below.</p><p>A program also needs five elements, shown in the table. Note the first one: the case manager starts at admission. Planning that starts on discharge day causes delays and unsafe transitions.</p>",
      "bullets": [
-      "High-volume or high-risk diagnoses, such as hip replacement or brain injury.",
+      "High-volume or high-risk diagnoses, such as total hip replacement or a traumatic brain injury seen in the ED.",
       "Multiple comorbidities, or an acute stay of 3 days or more.",
-      "Need for a ventilator or home health care.",
+      "Need for ventilator support or home health care.",
       "Functional decline during the stay. Example: a client with Parkinson disease, admitted for an infection, loses function over 4 days. Now the client needs home health or a rehab facility."
      ],
      "table": {
@@ -699,12 +716,13 @@
      "check": {
       "q": "Case managers first meet clients on the morning of discharge. What is missing, and what happens?",
       "a": "A case manager involved from admission. Equipment, home health, and placement needs are found too late, causing delays and unsafe discharges."
-     }
+     },
+     "source": "Module 39 study guide, p. 2627 (Key Elements of Successful Case Management)"
     },
     {
      "heading": "What is a critical pathway?",
      "keyIdea": "A critical pathway shows what \"on track\" looks like each day, so the team spots problems early.",
-     "body": "<p>A <b>critical pathway</b> is a standard, evidence-based team plan for a predictable condition, like a knee replacement. It has the four parts listed below.</p><p>Expected outcomes are the benchmark. Comparing what the client did with what was expected is how the team spots a <b>variance</b> early. Pathways also promote consistency and cut cost. They are not rigid orders. The case manager adjusts them for comorbidities like COPD or dementia.</p>",
+     "body": "<p>A <b>critical pathway</b> is a standard, evidence-based plan of care. It is made for groups of clients with similar, predictable conditions, like a complete knee replacement. It is also called a care map, critical path, clinical pathway, or care pathway. It has the four parts listed below.</p><p>Expected outcomes are the benchmark. Comparing what the client did with what was expected is how the team spots a <b>variance</b> early. The pathway sets treatments into time frames and tracks variances from expected outcomes. They are not rigid orders. The case manager adjusts them for comorbidities like COPD or dementia.</p>",
      "bullets": [
       "<b>Diagnosis</b> (medical diagnosis or diagnoses).",
       "<b>Interventions</b> across disciplines (nursing, medications, PT/OT, nutrition).",
@@ -713,7 +731,7 @@
      ],
      "table": {
       "headers": [
-       "Time frame",
+       "Time frame (sample knee pathway)",
        "Sample interventions",
        "Expected outcome"
       ],
@@ -738,12 +756,13 @@
      "check": {
       "q": "A draft hip pathway lists only tasks for each day. What must be added before use?",
       "a": "The expected client outcome for each time frame. Without it, nurses cannot tell if the client is on track."
-     }
+     },
+     "source": "Module 39 study guide, pp. 2626, 2628 (glossary: critical pathway; four components); sample knee pathway added"
     },
     {
      "heading": "When a client falls off the pathway",
      "keyIdea": "The bedside nurse assesses, keeps the client safe, and notifies per the pathway; the case manager adjusts the plan and studies trends.",
-     "body": "<p>A <b>variance</b> can come from the client (a new complication), the system (no PT on weekends), or a provider (a late order). Your job depends on your role.</p><p>The bedside nurse spots the variance and keeps the client safe. The nurse follows the pathway's notification steps and starts the prescribed next steps. Do not ignore it, wait, or rewrite the pathway alone. If there is a cause you can treat at the bedside, such as pain, treat it first.</p><p>The case manager documents variances, adjusts the client's pathway, and studies group trends. If many clients wake slowly from anesthesia, the protocol gets reviewed. That feeds the quality system.</p>",
+     "body": "<p>A <b>variance</b> happens when a client's progress strays from the pathway's expected timeline or outcome. Examples: a post-op client develops delirium, or does not walk on schedule. A variance can come from the client, the system (no PT on weekends), or a provider (a late order). Your job depends on your role.</p><p>The bedside nurse spots the variance and keeps the client safe. The nurse follows the pathway's instructions on whom to notify, such as the surgeon or case manager. Then the nurse starts the prescribed next steps. Do not ignore it, wait, or rewrite the pathway alone. If there is a cause you can treat at the bedside, such as pain, treat it first.</p><p>The case manager documents variances, adjusts the client's pathway, and studies group trends. If many clients wake slowly from anesthesia, the protocol gets reviewed. That feeds the quality system.</p>",
      "table": {
       "headers": [
        "Situation",
@@ -771,7 +790,8 @@
      "check": {
       "q": "On day 2 of a hip pathway, the client gets lightheaded after 10 feet. What should the bedside nurse do?",
       "a": "Sit the client down safely and assess (orthostatic vital signs, pain). Then notify per the pathway, start the next steps, and document the variance."
-     }
+     },
+     "source": "Module 39 study guide, p. 2628 (Managing Variances); variance sources added"
     },
     {
      "heading": "Case management across the lifespan",
@@ -811,11 +831,12 @@
        ]
       ]
      },
-     "example": "A newborn has a heart defect needing staged surgeries. The case manager coordinates each stage and home nursing between them. The case manager does not stop after the first surgery. Families are linked early to financial aid and Medicaid waiver programs.",
+     "example": "A newborn has a heart defect needing staged surgeries. The case manager coordinates each stage and home nursing between them. The case manager does not stop after the first surgery. Parents are linked early to financial aid and Medicaid waivers (see the course note on insurance caps below).",
      "check": {
       "q": "A 28-year-old with a moderate intellectual disability lives with an aging parent and wants to work. What should the plan include?",
       "a": "Vocational or supported employment, transportation, and future housing options planned with the client and parent. Avoid unrealistic goals and avoid deciding for the client."
-     }
+     },
+     "source": "Module 39 study guide, pp. 2628–2629 (Case Management Across the Lifespan; Scenario 4); abuse and DSS reporting added"
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
@@ -856,7 +877,8 @@
         "Caregiver can't help anymore vs. PT reports progress as planned"
        ]
       ]
-     }
+     },
+     "source": "Module 39 study guide, pp. 2621–2629 (terms compared)"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -875,7 +897,8 @@
       "<b>Why the others are wrong:</b> (A) ignores the cause. (C) changes the plan before treating the problem. (D) is coercive.",
       "<b>The answer is (B).</b> Treat the cause, retry, and follow the pathway.",
       "<b>Reusable strategy:</b> ask, \"Can I fix the cause at the bedside right now?\" before escalating."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: the third admission this year",
@@ -891,12 +914,13 @@
      "check": {
       "q": "Mrs. Alvarez says, \"I just want to keep living at home with my husband.\" What is the best response?",
       "a": "\"That is an important goal. Let's work on supports that could make it safe, like home health visits and transportation help.\""
-     }
+     },
+     "source": "Added: worked example based on Module 39 study guide, pp. 2626–2627 (case manager responsibilities, high-risk triggers)"
     },
     {
      "heading": "Worked case: Mr. Montoya goes home on chemotherapy",
      "keyIdea": "For a complex discharge, the nurse is the coordinator and communicator who makes every referral and appointment fit together.",
-     "body": "<p>Mr. Montoya has a brain tumor. He is going home after surgery. He will get chemotherapy two ways: intrathecal (into the spinal fluid) and IV. Many teams are involved. Your course guide asks: what is the nurse's role, and what must be checked before he leaves?</p>",
+     "body": "<p>Mr. Montoya has a brain tumor. He is being discharged home. He will get chemotherapy two ways: intrathecal (into the spinal fluid) and IV. Many teams are involved. Your course guide asks: what is the nurse's role, and what must be checked before he leaves?</p>",
      "steps": [
       "Name the role: the nurse is the care coordinator and communicator across all the teams.",
       "List the teams: neurosurgery, oncology, neurology, infusion therapy, the dietitian, social services, and home nursing.",
@@ -907,7 +931,8 @@
      "check": {
       "q": "On discharge morning, the nurse sees no home health referral in the chart. What should the nurse do?",
       "a": "Contact the case manager and provider now so the referral is placed before he leaves. Without it, no one checks on him at home between treatments."
-     }
+     },
+     "source": "Module 39 study guide, p. 2626 (Scenario 3, Mr. Montoya)"
     },
     {
      "heading": "Worked case: oxygenation and perfusion priorities",
@@ -940,7 +965,8 @@
      "check": {
       "q": "Two clients: a 30-year-old on day 2 of IV antibiotics for pneumonia, and a 12-year-old with asthma and 3 ED visits this year. Who should be referred to case management?",
       "a": "The child with asthma. Asthma is chronic and needs ongoing trigger control, adherence help, and attack prevention. The pneumonia should resolve with short-term treatment."
-     }
+     },
+     "source": "Module 39 study guide, p. 2629 (Scenario 4, perfusion and oxygenation priorities)"
     },
     {
      "heading": "Worked case: Ranier, femur fracture, living alone",
@@ -985,7 +1011,8 @@
      "check": {
       "q": "Mr. Ranier says, \"I'll be fine. I can hop around my apartment.\" What should the case manager do first?",
       "a": "Assess his home: stairs, bathroom, meals, and who could help. Then arrange PT/OT, home health, and social work. Living alone with diabetes after a femur repair is high risk."
-     }
+     },
+     "source": "Module 39 study guide, p. 2629 (Scenario 5, Curt Ranier)"
     },
     {
      "heading": "North Carolina practice note",
@@ -1000,7 +1027,8 @@
       "Minors: under G.S. 90-21.5, a minor may consent to pregnancy care (not sterilization or abortion), STI care, substance use care, and emotional care. So a pregnant 16-year-old can start prenatal care on her own consent. Age of majority is 18; emancipated minors may consent.",
       "Advance directives: Health Care Power of Attorney (G.S. Chapter 32A, Article 3) and the Declaration of a Desire for a Natural Death (G.S. 90-321). The MOST form travels with the client across settings.",
       "NC is a Nurse Licensure Compact state; phone case managers follow the laws of the state where the client is. RN assessment, planning, and evaluation are not delegated (21 NCAC 36 .0224)."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (North Carolina statutes and rules)"
     },
     {
      "heading": "Course source & clinical clarification",
@@ -1011,7 +1039,8 @@
       "The client, system, and provider variance types and the sample knee pathway are added as examples.",
       "Heart failure thresholds (1 kg in a day, 2 kg in a week) are common teaching; prescribers may differ.",
       "\"Client\" replaces the source's \"patient.\""
-     ]
+     ],
+     "source": "Module 39 study guide, pp. 2622, 2626–2629"
     }
    ],
    "mnemonics": [
@@ -1102,6 +1131,14 @@
      "def": "Money the client pays directly, either as self-pay or as cost sharing in a plan."
     },
     {
+     "term": "Socialized medicine",
+     "def": "The state owns and controls health care services. Physicians get nearly all their income from the government as state employees. Examples: United Kingdom, Sweden, Denmark."
+    },
+    {
+     "term": "Socialized insurance",
+     "def": "The government covers all medically necessary services, such as physician and hospital care. Delivery may stay private or independent."
+    },
+    {
      "term": "Medicare",
      "def": "Federal insurance for people 65 and older and some younger people with qualifying disabilities, end-stage renal disease, or ALS. Parts: A hospital, B outpatient, C Medicare Advantage, D drugs."
     },
@@ -1146,7 +1183,7 @@
     {
      "heading": "How does the U.S. compare with other countries?",
      "keyIdea": "The U.S. spends the most, yet its outcomes lag other high-income countries, so spending more does not equal better health.",
-     "body": "<p>The Commonwealth Fund compares the U.S. with other high-income countries. The U.S. spends the most on health care, but its results lag. Unlike Canada and the UK, the U.S. does not use a nationalized (socialized) system. The key facts are listed below.</p><p>Your course guide says the U.S. has the highest obesity and suicide rates and the lowest life expectancy. Current data: these rankings are among high-income peer countries, not every country in the world. On a course exam, expect the guide's list. On the NCLEX, the point is that more spending does not mean better health.</p><p>Countries pay for care in four main ways, shown in the table. The key question is who pays and who owns the hospitals.</p>",
+     "body": "<p>The Commonwealth Fund compares the U.S. with other high-income countries. The U.S. spends the most on health care, but its results lag. Unlike Canada and the UK, the U.S. does not use a nationalized (socialized) system. The key facts are listed below.</p><p>Your course guide says the U.S. has the highest obesity rate, chronic disease burden, and suicide rate, and the lowest life expectancy. Current data: these rankings are among high-income peer countries, not every country in the world. On a course exam, expect the guide's list. On the NCLEX, the point is that more spending does not mean better health.</p><p>Countries pay for care in four main ways, shown in the table. The key question is who pays and who owns the hospitals.</p>",
      "table": {
       "headers": [
        "System",
@@ -1158,13 +1195,13 @@
        [
         "Socialized medicine",
         "Government",
-        "Government-owned; physicians are state employees",
+        "The state owns and controls services; physicians are state employees",
         "United Kingdom, Sweden, Denmark"
        ],
        [
         "Socialized insurance",
         "Government, for all medically necessary care",
-        "Mostly private providers",
+        "May stay private or independent",
         "Canada"
        ],
        [
@@ -1189,13 +1226,14 @@
       "<b>The U.S. paradox:</b> the most spending, yet the highest obesity rate, the highest chronic disease burden, the highest suicide rate, and the lowest life expectancy.",
       "<b>Disease burden:</b> in 2017 the U.S. DALY rate was 31% higher than in other developed countries.",
       "<b>Cost drivers:</b> administrative waste, high drug prices, and public health shocks. COVID-19 was estimated to cost the U.S. economy more than $16 trillion.",
-      "<b>Proposed fixes:</b> more telehealth, price transparency, ongoing quality monitoring, small-business insurance pools, buying insurance across state lines, and Medicare-for-All or public options."
-     ]
+      "<b>Cost-containment and access strategies:</b> more telehealth, more transparency, ongoing quality monitoring, small-business insurance pools, buying insurance across state lines, and Medicare-for-All or public options."
+     ],
+     "source": "Module 39 study guide, p. 2630 (U.S. cost crisis; international perspectives; glossary); Canada example and mandatory/voluntary rows added (guide defers them to pp. 2631–2632)"
     },
     {
      "heading": "Who pays for care?",
      "keyIdea": "Every bill is paid by public insurance, private insurance, out-of-pocket money, or a mix.",
-     "body": "<p><b>Public insurance</b> is government-funded for people who meet eligibility rules. Examples are Medicare, Medicaid, and CHIP (the Children's Health Insurance Program). <b>Private insurance</b> comes from companies, through an employer or bought by the client. An employer plan is still private, not public. <b>Out-of-pocket</b> money is what the client pays personally.</p><p>The nurse does not decide coverage. But payer source shapes the plan. It affects which rehab will accept the client, which drugs are covered, and how many home visits are approved. So ask about cost barriers early. Do not assume the client can follow the plan.</p>",
+     "body": "<p><b>Public insurance</b> is government-funded for people who meet eligibility rules. Examples are Medicare, Medicaid, and CHIP (the Children's Health Insurance Program). <b>Private insurance</b> comes from private or publicly owned companies. It is often through an employer or bought by the client. An employer plan is still private, not public. <b>Out-of-pocket</b> money is what the client pays personally.</p><p>The nurse does not decide coverage. But payer source shapes the plan. It affects which rehab will accept the client, which drugs are covered, and how many home visits are approved. So ask about cost barriers early. Do not assume the client can follow the plan.</p>",
      "table": {
       "headers": [
        "Source",
@@ -1223,7 +1261,8 @@
      "check": {
       "q": "A client has an employer-sponsored plan from a private company. Is this public insurance?",
       "a": "No. Employer sponsorship does not make a plan public. Public insurance is government-funded, such as Medicare or Medicaid."
-     }
+     },
+     "source": "Module 39 study guide, p. 2630 (three payment channels; glossary: public and private insurance); CHIP added"
     },
     {
      "heading": "Medicare vs. Medicaid: what's the difference?",
@@ -1266,12 +1305,13 @@
      "check": {
       "q": "A 70-year-old says, \"I can't get Medicare because I have savings.\" What should the nurse clarify?",
       "a": "Medicare is based on age or qualifying disability, not income. Savings affect Medicaid eligibility, not Medicare."
-     }
+     },
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
-     "heading": "What do premium, deductible, and coinsurance mean?",
+     "heading": "What do deductible, co-pay, and coinsurance mean?",
      "keyIdea": "The premium keeps coverage, the deductible comes first, a co-pay is fixed dollars, and coinsurance is a percentage.",
-     "body": "<p>Clients are often surprised by bills because these words sound alike. Walking a client through them is teaching and advocacy. It also keeps clients from skipping care because they misunderstand what they owe.</p><p>An <b>out-of-network (nonparticipating) penalty</b> means higher cost for care outside the network or without meeting the rules. Examples are no referral in an HMO or no prior approval. A PPO client may see an out-of-network specialist without a referral but will likely pay more.</p>",
+     "body": "<p>Clients are often surprised by bills because these words sound alike. Walking a client through them is teaching and advocacy. It also keeps clients from skipping care because they misunderstand what they owe. Your course guide names three terms: deductible, co-pay, and out-of-network penalty. Premium and coinsurance are added for the NCLEX.</p><p>An <b>out-of-network (nonparticipating) penalty</b> means higher cost for care outside the network or without meeting the rules. Examples are no referral in an HMO or no prior approval. A PPO client may see an out-of-network specialist without a referral but will likely pay more.</p>",
      "table": {
       "headers": [
        "Term",
@@ -1295,7 +1335,7 @@
        [
         "Co-payment",
         "Fixed fee",
-        "Per visit or prescription",
+        "For selected services or prescriptions",
         "$30 per visit"
        ],
        [
@@ -1316,7 +1356,8 @@
      "check": {
       "q": "A client says, \"I pay my premium every month, so my MRI should be free.\" The $1,500 deductible is not met. What is accurate?",
       "a": "The premium keeps coverage active, but the plan usually starts paying only after the yearly deductible is met."
-     }
+     },
+     "source": "Module 39 study guide, p. 2630 (deductible, co-pay, out-of-network penalty); premium and coinsurance added for the NCLEX"
     },
     {
      "heading": "How do DRGs and prospective payment work?",
@@ -1327,7 +1368,8 @@
      "check": {
       "q": "A client admitted for pneumonia gets a CAUTI that adds 3 days. Who bears most of the cost?",
       "a": "The hospital, because payment was set in advance and Medicare does not pay extra for this condition. Prevention is both safe and cost-effective care."
-     }
+     },
+     "source": "Module 39 study guide, pp. 2621, 2627 (DRGs; early-release readmissions); PPS and Medicare policies added for the NCLEX"
     },
     {
      "heading": "What can the bedside nurse do?",
@@ -1344,7 +1386,8 @@
      "check": {
       "q": "A coworker suggests reusing a single-use suction catheter all shift to save money. What should the nurse say?",
       "a": "Decline. Reuse raises infection risk and breaks the standard of care. Suggest real savings instead, like checking for duplicate labs or clustering care."
-     }
+     },
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
@@ -1385,7 +1428,8 @@
         "Best outcome for resources vs. cheapest option that may cause harm"
        ]
       ]
-     }
+     },
+     "source": "Module 39 study guide, pp. 2627, 2630 (terms compared); Medicare/Medicaid, co-pay/coinsurance, PPS pairs added for the NCLEX"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1404,7 +1448,8 @@
       "<b>Why the others are wrong:</b> (A) approves an unsafe change. (C) threatens and solves nothing. (D) suggests stopping drugs without the prescriber.",
       "<b>The answer is (B).</b> It assesses, informs the prescriber, and finds resources.",
       "<b>Reusable strategy:</b> assess, communicate, refer. Never reduce therapy without the prescriber."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: the budget meeting",
@@ -1421,7 +1466,8 @@
      "check": {
       "q": "The manager asks, \"Why not replace RNs with UAP? It saves salary.\" What is the best reply?",
       "a": "RN staffing and education are linked to illness, death, and cost. Fewer RN hours mean more missed assessments and complications. Match skill mix to acuity, and target the complications driving cost."
-     }
+     },
+     "source": "Added: worked example based on Module 39 study guide, pp. 2623–2624, 2627 (staffing evidence, shared governance, DRGs)"
     },
     {
      "heading": "North Carolina practice note",
@@ -1433,7 +1479,8 @@
       "Replacing licensed staff with aides cannot expand those lists.",
       "A disabled adult who seems neglected or financially exploited: under G.S. 108A-102, anyone with reasonable cause must report to the county DSS director. Good-faith reporters are immune.",
       "End-of-life talks center on the client's wishes, not cost. NC tools: Health Care Power of Attorney (G.S. Chapter 32A, Article 3), Declaration of a Desire for a Natural Death (G.S. 90-321), and the MOST form."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (North Carolina statutes and rules)"
     },
     {
      "heading": "Course source & clinical clarification",
@@ -1444,7 +1491,8 @@
       "Added mandatory and voluntary insurance with standard examples, plus a PPS definition, to complete the framework.",
       "Added coinsurance, premium, Medicare parts, Medicaid long-term care, and CMS hospital-acquired condition and readmission policies.",
       "\"Client\" replaces the source's \"patient.\""
-     ]
+     ],
+     "source": "Module 39 study guide, pp. 2627, 2630"
     }
    ],
    "mnemonics": [

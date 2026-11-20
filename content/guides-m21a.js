@@ -106,14 +106,16 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A mechanic with diabetes cleans engine parts with a strong solvent and no gloves. His hands are cracked. Which factor is external and easiest to change?",
       "a": "The solvent exposure without gloves. Diabetes is an internal factor. Wearing gloves is a simple change."
-     }
+     },
+     "source": "Tissue Integrity slides 3, 7"
     },
     {
      "heading": "What does the epidermis do?",
      "keyIdea": "The epidermis is the barrier layer, and it has no blood vessels, so a wound that bleeds is deeper.",
      "body": "<p>The epidermis is the thin outer layer you can see and touch. Its main job is to be a barrier. It keeps germs, water, and chemicals out. It keeps body fluids in.</p><p>Two substances make this layer special. Keratin is a tough protein. It makes the skin strong and water-resistant. Melanin is the pigment that gives skin its color. It acts like a built-in sunscreen. More melanin means darker skin and more UV protection. But no skin tone is fully protected, so everyone needs sunscreen.</p><p>Here is the key bedside fact. The epidermis has no blood vessels. It gets its food by soaking it up from the dermis below. Pain nerve endings live in the dermis too. So an injury that stays in the epidermis does not bleed and hurts very little.</p>",
      "analogy": "The epidermis is like the shingles on a roof. Shingles have no pipes or wires inside. Their only job is to keep the weather out. Once rain gets past them, the damage reaches the part of the house with plumbing and wiring.",
-     "example": "A nurse removes tape from a 75-year-old client's forearm. A shallow, shiny pink spot is left. It does not bleed, and the client feels only a mild sting. This injury is in the epidermis only. Compare a child's scraped knee that oozes blood and hurts. Bleeding and pain mean the dermis has been reached."
+     "example": "A nurse removes tape from a 75-year-old client's forearm. A shallow, shiny pink spot is left. It does not bleed, and the client feels only a mild sting. This injury is in the epidermis only. Compare a child's scraped knee that oozes blood and hurts. Bleeding and pain mean the dermis has been reached.",
+     "source": "Tissue Integrity slides 5–6, 21"
     },
     {
      "heading": "What does the dermis do?",
@@ -162,14 +164,16 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "Mr. R, 67, has COPD and has taken prednisone (a steroid) every day for 2 years. His forearms have thin, shiny skin, purple bruises, and a healing skin tear. Long-term steroids thin the dermis and weaken collagen. Small blood vessels lose support and break easily. The nurse handles his skin like tissue paper. Staff lift instead of drag, pad hard surfaces, and avoid tape."
+     "example": "Mr. R, 67, has COPD and has taken prednisone (a steroid) every day for 2 years. His forearms have thin, shiny skin, purple bruises, and a healing skin tear. Long-term steroids thin the dermis and weaken collagen. Small blood vessels lose support and break easily. The nurse handles his skin like tissue paper. Staff lift instead of drag, pad hard surfaces, and avoid tape.",
+     "source": "Tissue Integrity slides 4–5, 17, 22"
     },
     {
      "heading": "What does the fat layer do?",
      "keyIdea": "Subcutaneous fat cushions, insulates, and anchors the skin; less fat means more pressure injury and feeling cold.",
-     "body": "<p>Under the dermis is the subcutaneous tissue, also called the hypodermis. Strictly speaking, it is not part of the skin, but it is vital for protection. It stores about half of the body's fat cells.</p><p>That fat does three things. It cushions bones against bumps and pressure. It holds in body heat. It anchors the skin to the muscle below.</p><p>Older adults and very thin clients lose this layer. They have less padding over the hips, tailbone, and heels. They also have trouble staying warm. That is why they often feel cold and are at higher risk for pressure injuries.</p>",
+     "body": "<p>Under the dermis is the subcutaneous tissue, also called the hypodermis. Strictly speaking, it is not part of the skin, but it is vital for protection. It stores about half of the body's fat cells.</p><p>That fat does three things. It cushions bones against bumps and pressure. It holds in body heat. It anchors the skin to the structures below, such as muscle.</p><p>Older adults and very thin clients lose this layer. They have less padding over the hips, tailbone, and heels. They also have trouble staying warm. That is why they often feel cold and are at higher risk for pressure injuries.</p>",
      "analogy": "The layers work like a good mattress. The epidermis is the waterproof cover. The dermis is the busy middle with the springs. The fat layer is the foam padding. Take away the foam, and every bump goes straight through.",
-     "example": "A frail 84-year-old who weighs 45 kg (99 lb) is going to have a 4-hour hip surgery. Her hip bones, tailbone, and heels are easy to see. She has almost no cushion and cannot move during surgery. The most important action is to pad every bony area before the case starts."
+     "example": "A frail 84-year-old who weighs 45 kg (99 lb) is going to have a 4-hour hip surgery. Her hip bones, tailbone, and heels are easy to see. She has almost no cushion and cannot move during surgery. The most important action is to pad every bony area before the case starts.",
+     "source": "Tissue Integrity slides 5, 36"
     },
     {
      "heading": "What are the skin's five jobs?",
@@ -213,7 +217,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Which client has the greatest risk for low vitamin D: a 25-year-old lifeguard with light skin, or an 82-year-old homebound client with dark skin?",
       "a": "The 82-year-old. Older age, darker skin, and little sun each reduce vitamin D made in the skin. This client has all three risks."
-     }
+     },
+     "source": "Tissue Integrity slide 4"
     },
     {
      "heading": "How do you turn layers into actions?",
@@ -225,12 +230,13 @@ window.NURSE_DATA.push({
       "What is the danger if that job fails: infection, fluid loss, unnoticed injury, or heat loss?",
       "Choose the action that protects or replaces the lost job."
      ],
-     "example": "Ms. T has diabetic neuropathy. A thin-thread touch test (monofilament) shows no feeling on both soles. She says, \"My feet are always cold, so I soak them in hot water until they feel warm.\" Her feet cannot sense a burn. The nurse teaches her to check water with a thermometer or her elbow. She should inspect her feet daily and wear shoes."
+     "example": "Ms. T has diabetic neuropathy. A thin-thread touch test (monofilament) shows no feeling on both soles. She says, \"My feet are always cold, so I soak them in hot water until they feel warm.\" Her feet cannot sense a burn. The nurse teaches her to check water with a thermometer or her elbow. She should inspect her feet daily and wear shoes.",
+     "source": "Added: worked example based on Tissue Integrity slides 4–5, 40"
     },
     {
      "heading": "How does skin change with age?",
      "keyIdea": "Infant skin is thin and absorbent, adult skin is strongest, and older skin is thin, dry, and slow to heal.",
-     "body": "<p>Skin changes across the lifespan. You will study this more in the lifespan lesson, but the pattern starts here.</p><p>Infant skin is thin. Infants lose heat fast, so dry a newborn right after a bath and warm the baby skin-to-skin. Infants also absorb products through the skin more easily. Parents should check with the provider before using adult or medicated creams. Children also have more skin compared with their weight. So a large burn costs them fluid faster than an adult.</p><p>Older adults have fewer sweat glands. They cannot cool well in a heat wave. Teach them to seek cool places and drink fluids.</p>",
+     "body": "<p>Skin changes across the lifespan. You will study this more in the lifespan lesson, but the pattern starts here.</p><p>Infant skin is thin. Infants lose heat fast, so dry a newborn right after a bath and warm the baby skin-to-skin. Infants also absorb products through the skin more easily. Parents should check with the provider before using adult or medicated creams. Children also have more skin compared with their weight. So a large burn costs them fluid faster than an adult.</p><p>Older adults have fewer oil glands, so their skin is dry. They have less fat under the skin, so they chill easily. Temperature control also weakens with age. They cannot cool well in a heat wave. Teach them to seek cool places and drink fluids.</p>",
      "table": {
       "caption": "Skin at three ages",
       "headers": [
@@ -251,11 +257,12 @@ window.NURSE_DATA.push({
        ],
        [
         "Older adults",
-        "Thin, less elastic; less fat; fewer oil and sweat glands",
-        "Tears and bruises easily; dry and itchy; heals slowly; feels cold; overheats in heat waves"
+        "Thin, less elastic; less fat; fewer oil glands",
+        "Tears and bruises easily; dry and itchy; heals slowly; feels cold; weaker temperature control, so heat waves are risky"
        ]
       ]
-     }
+     },
+     "source": "Tissue Integrity slides 4, 33, 36"
     },
     {
      "heading": "Common traps",
@@ -288,7 +295,8 @@ window.NURSE_DATA.push({
         "Use blankets, socks, and layers. Never a heating pad or hot soak on numb skin."
        ]
       ]
-     }
+     },
+     "source": "Tissue Integrity slides 3–5, 7 (review); burn and heating-pad rows added for the NCLEX"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -308,7 +316,8 @@ window.NURSE_DATA.push({
       "Why the others are wrong: A is body image, which can wait. C is expected and manageable. D is heat loss, which matters, but it is not as urgent as shock.",
       "The answer: B. The barrier that keeps fluid in is gone. A fast pulse, low BP, and low urine mean fluid loss.",
       "Strategy: Name the lost skin job, then pick the option showing that job failing in a way that threatens life."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: a resident who is always cold",
@@ -325,7 +334,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "An hour later, which finding best shows the warming plan worked: he says he likes the sweater, or he has stopped shivering and his hands feel warm?",
       "a": "He has stopped shivering and his hands feel warm. Evaluate by checking whether the original cues have resolved."
-     }
+     },
+     "source": "Added: worked example based on Tissue Integrity slides 5, 22, 36"
     }
    ],
    "mnemonics": [
@@ -478,7 +488,8 @@ window.NURSE_DATA.push({
       "Feel: temperature, tenderness, firmness, raised or flat.",
       "Document in clear, measurable words. Do not squeeze or pop lesions. Describe; the provider diagnoses."
      ],
-     "example": "A client has a rash on the trunk that started 4 days ago. The nurse asks about itching, new products, and medicines. The nurse measures the spots and notes they are oval, pink, and scaly. The nurse maps where they are. The nurse does not say, \"This is just an allergy.\""
+     "example": "A client has a rash on the trunk that started 4 days ago. The nurse asks about itching, new products, and medicines. The nurse measures the spots and notes they are oval, pink, and scaly. The nurse maps where they are. The nurse does not say, \"This is just an allergy.\"",
+     "source": "Tissue Integrity slides 24, 27, 52; history questions added"
     },
     {
      "heading": "How do you assess darker skin tones?",
@@ -514,12 +525,13 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "Mr. B has deeply pigmented skin and a COPD flare. His SpO₂ is 86% on 2 L/min. To check for central cyanosis, the nurse looks at his lips and inside his cheeks. They are grayish. The nurse reports this right away with the low SpO₂."
+     "example": "Mr. B has deeply pigmented skin and a COPD flare. His SpO₂ is 86% on 2 L/min. To check for central cyanosis, the nurse looks at his lips and inside his cheeks. They are grayish. The nurse reports this right away with the low SpO₂.",
+     "source": "Tissue Integrity slide 6"
     },
     {
      "heading": "How do you find early pressure damage?",
      "keyIdea": "In darker skin, \"same color\" does not mean healthy; feel for warmth, swelling, and firmness.",
-     "body": "<p>In light skin, early pressure damage often shows as a red spot that does not fade when pressed. In darker skin, that redness may be invisible. So you must look and feel for other clues. Compare the spot with nearby skin.</p>",
+     "body": "<p>In light skin, early pressure damage often shows as a red spot that does not fade (blanch) when pressed. The course calls this Stage I: nonblanchable erythema. In people of color, Stage I shows as darkening of the skin. Redness may be invisible. So you must look and feel for other clues. Compare the spot with nearby skin.</p>",
      "bullets": [
       "Look for areas darker than nearby skin: purplish, bluish, or deeper brown.",
       "Look for skin that is taut (tight) or shiny.",
@@ -528,7 +540,8 @@ window.NURSE_DATA.push({
       "Use bright or natural light."
      ],
      "analogy": "It is like checking whether a pan is hot. You cannot always see heat, so you hold your hand near it. In darker skin, you cannot always see inflammation, so you feel for it.",
-     "example": "An 80-year-old with very dark skin has been in bed for 2 days after a stroke. The assistive personnel (AP) says, \"The heels look fine. They're the same color as the rest of the feet.\" The nurse still palpates both heels. One heel is warm and firm. The nurse treats it as early pressure damage."
+     "example": "An 80-year-old with very dark skin has been in bed for 2 days after a stroke. The assistive personnel (AP) says, \"The heels look fine. They're the same color as the rest of the feet.\" The nurse still palpates both heels. One heel is warm and firm. The nurse treats it as early pressure damage.",
+     "source": "Tissue Integrity slides 6, 46, 52"
     },
     {
      "heading": "What else differs in darker skin?",
@@ -546,7 +559,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A nursing student says a child's eczema \"can't be very inflamed, because it isn't red. It looks grayish-purple.\" How should the nurse respond?",
       "a": "Inflammation can look purple, gray, or dark brown on darker skin. Do not rely on redness to judge how inflamed it is."
-     }
+     },
+     "source": "Tissue Integrity slides 7, 20–21"
     },
     {
      "heading": "How are skin disorders sorted?",
@@ -562,8 +576,8 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "By time",
-        "Acute: short-term, clear cause",
-        "Bacterial infections, contact dermatitis. Goal: calm it and avoid triggers; it usually resolves."
+        "Acute: short-term, situational cause",
+        "Bacterial infections, dermatitis. Treatment: reduce inflammation and avoid triggers."
        ],
        [
         "",
@@ -590,7 +604,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A client with psoriasis since adolescence asks, \"When will they find a cure?\" What is the realistic goal?",
       "a": "Remission. Chronic skin disorders are controlled, not cured. Answer honestly and keep the client engaged in treatment."
-     }
+     },
+     "source": "Tissue Integrity slides 8, 11–14"
     },
     {
      "heading": "What are primary lesions?",
@@ -641,7 +656,8 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "A hiker has a raised blister on the back of the heel. It is 2.5 cm across with clear fluid. Clear fluid and over 1 cm make it a bulla. If it were 0.5 cm, it would be a vesicle. If the fluid were cloudy yellow, it would be a pustule."
+     "example": "A hiker has a raised blister on the back of the heel. It is 2.5 cm across with clear fluid. Clear fluid and over 1 cm make it a bulla. If it were 0.5 cm, it would be a vesicle. If the fluid were cloudy yellow, it would be a pustule.",
+     "source": "Tissue Integrity slide 13 (lesion names); definitions added for the NCLEX"
     },
     {
      "heading": "What are secondary lesions?",
@@ -695,18 +711,73 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A friction blister on a 70-year-old's arm broke yesterday. Today it is shallow, moist, and pink, with no bleeding. What is it?",
       "a": "An erosion. Only the epidermis is lost, so it is moist, does not bleed, and should heal without a scar."
-     }
+     },
+     "source": "Tissue Integrity slide 13 (lesion names); definitions added for the NCLEX"
     },
     {
      "heading": "When does skin signal a bigger problem?",
      "keyIdea": "Skin findings can point to another body system, and some point to an emergency.",
-     "body": "<p>The skin can reflect systemic disease, meaning a problem elsewhere in the body. Dry skin plus hair loss suggests hypothyroidism, an underactive thyroid. Jaundice points to the liver. Cyanosis points to oxygen. Pallor with a fast pulse points to bleeding or shock.</p><p>Some skin findings are emergencies. Hives alone are a skin finding. Hives with hoarseness, wheezing, or throat tightness are an airway emergency. A new or changing mole, especially one that bleeds, needs a prompt visit.</p>",
+     "body": "<p>The skin can reflect systemic disease, meaning a problem elsewhere in the body. The course example is dry skin plus hair loss, which suggests hypothyroidism (an underactive thyroid). Other links are listed below.</p><p>Some skin findings are emergencies. Hives alone are a skin finding. Hives with hoarseness, wheezing, or throat tightness are an airway emergency. A new or changing mole, especially one that bleeds, needs a prompt visit.</p>",
      "example": "Mrs. K, 52, has dry skin that lotion does not help. She also has thinning hair, brittle nails, weight gain, constipation, and always feels cold. Her heart rate is 56. This is not a lotion problem. The nurse reports these findings together. The nurse expects thyroid tests, not a skin test.",
      "bullets": [
-      "Skin biopsy: benign vs. cancer. Culture: infection. KOH prep: fungus. Tzanck test: herpes-family viruses. Patch test: allergy.",
-      "Wood lamp: UV (black) light in a dark room shows some fungi and pigment changes like vitiligo (milky-white patches). It is painless. No creams, lotions, or makeup on the area first, because they glow.",
-      "Monthly self-exam: know your normal skin. Check sun-exposed areas, scalp, back, trunk, and feet. Report new or changing spots."
-     ]
+      "Dry skin plus hair loss: hypothyroidism.",
+      "Jaundice (yellow skin and sclera): the liver.",
+      "Cyanosis (blue or gray color): low oxygen.",
+      "Pallor with a fast pulse: bleeding or shock."
+     ],
+     "source": "Tissue Integrity slide 13; emergency signs added for the NCLEX"
+    },
+    {
+     "heading": "Which tests and screenings check the skin?",
+     "keyIdea": "Tests find the cause: cancer, infection, fungus, virus, or allergy. Self-exams help clients catch changes early.",
+     "body": "<p>Many skin problems look alike, so tests help find the cause. The provider orders them. The nurse prepares the client and explains what to expect.</p><p>Self-exams help clients know what their normal skin looks like. Then they notice changes early. A professional exam is a full skin inspection by a dermatologist or provider. It may include a biopsy, cultures, or patch testing.</p>",
+     "table": {
+      "caption": "Skin diagnostic tests",
+      "headers": [
+       "Test",
+       "What it does"
+      ],
+      "rows": [
+       [
+        "Skin biopsy",
+        "Tells a benign lesion from a cancerous one"
+       ],
+       [
+        "Cultures",
+        "Tissue, drainage, exudate, or serum is tested for infection"
+       ],
+       [
+        "Immunofluorescence studies",
+        "Special lab studies of a skin sample"
+       ],
+       [
+        "Wood lamp exam",
+        "UV (black) light in a dark room shows some fungi and pigment changes. Painless. No creams or makeup on the area first."
+       ],
+       [
+        "KOH prep",
+        "Finds fungal infections"
+       ],
+       [
+        "Tzanck test",
+        "Checks viral lesions, such as herpes"
+       ],
+       [
+        "Allergy tests",
+        "Scratch, intradermal, or patch tests"
+       ],
+       [
+        "Carrier studies",
+        "Nasal cultures for clients with repeated infections"
+       ]
+      ]
+     },
+     "bullets": [
+      "Self-exam: focus on sun-exposed areas: face, neck, ears, scalp, arms, and legs.",
+      "Also check the trunk, chest, and feet.",
+      "Report any new or changing spot."
+     ],
+     "source": "Tissue Integrity slides 23, 25"
     },
     {
      "heading": "Common traps",
@@ -747,7 +818,8 @@ window.NURSE_DATA.push({
         "Nurse documents type, size, color, shape, location, drainage. \"Looks like an allergy\" is not documentation."
        ]
       ]
-     }
+     },
+     "source": "Tissue Integrity slides 6, 13 (review); size rules added for the NCLEX"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -767,7 +839,8 @@ window.NURSE_DATA.push({
       "Why the others are wrong: A is dry skin, common and not urgent. C and D are harmless variations in darker skin.",
       "The answer: B. In dark skin, ashen gray is pallor. With a fast pulse and low BP, it suggests shock.",
       "Strategy: Match the skin finding to the vital signs. A skin sign that explains unstable vitals wins."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: a child with an itchy rash",
@@ -784,7 +857,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "If one lesion were 2 cm with clear fluid, what would the nurse call it?",
       "a": "A bulla. Clear fluid over 1 cm is a bulla, not a vesicle."
-     }
+     },
+     "source": "Added: worked example based on Tissue Integrity slides 13, 33"
     }
    ],
    "mnemonics": [
@@ -952,7 +1026,8 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "analogy": "Intact skin is like a castle wall. Bacteria and viruses attack all the time, so they are common. Fungi are slow invaders that healthy guards can stop. If the guards are weak, as in an immunocompromised client, fungi can march right in."
+     "analogy": "Intact skin is like a castle wall. Bacteria and viruses attack all the time, so they are common. Fungi are slow invaders that healthy guards can stop. If the guards are weak, as in an immunocompromised client, fungi can march right in.",
+     "source": "Tissue Integrity slides 11, 19"
     },
     {
      "heading": "What is impetigo?",
@@ -964,7 +1039,8 @@ window.NURSE_DATA.push({
       "Prevent spread: short nails, no scratching, frequent handwashing, and no shared towels or bedding.",
       "School or child care: home until 24 hours after treatment starts."
      ],
-     "example": "A child with impetigo started antibiotic ointment at 1400 yesterday and has had every dose. At 1400 today, she has had 24 hours of treatment. The nurse may now stop contact precautions."
+     "example": "A child with impetigo started antibiotic ointment at 1400 yesterday and has had every dose. At 1400 today, she has had 24 hours of treatment. The nurse may now stop contact precautions.",
+     "source": "Tissue Integrity slide 11 (named only); care details added for the NCLEX"
     },
     {
      "heading": "What is chickenpox?",
@@ -980,13 +1056,15 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A parent has been giving \"baby aspirin\" for 3 days to a child with chickenpox. Now the child is vomiting and very sleepy. What should the nurse do?",
       "a": "Report it urgently. A viral illness plus aspirin plus vomiting, sleepiness, or confusion suggests possible Reye syndrome."
-     }
+     },
+     "source": "Tissue Integrity slides 11, 33 (named only); care details added for the NCLEX"
     },
     {
      "heading": "What are shingles, herpes, and warts?",
      "keyIdea": "Shingles is the chickenpox virus waking up; its blister fluid can give chickenpox to anyone who is not immune.",
      "body": "<p>Shingles (herpes zoster) happens when the chickenpox virus wakes up in a nerve. It causes a painful band of blisters on one side of the body. The band follows one nerve path.</p><p>A healthy client with shingles in one area needs standard precautions with the lesions covered. A client with disseminated shingles, or an immunocompromised client with shingles, needs airborne plus contact precautions, like chickenpox. Assign only immune staff. Shingles fluid can give chickenpox to someone not immune, such as an unvaccinated baby.</p><p>Herpes simplex causes painful clusters of vesicles, often on the lips. The virus stays in the body. It can flare with stress, illness, or sun. A Tzanck test, a scraping from a blister base, can support a herpes-family virus.</p><p>Warts are rough, raised papules caused by HPV. They spread by touch, including picking and biting. Some HPV types are linked to cancers, such as cervical cancer.</p>",
-     "analogy": "The chickenpox virus is like a houseguest who never leaves. After the illness, it sleeps in a nerve's guest room. Years later, when defenses are down, it comes out as shingles."
+     "analogy": "The chickenpox virus is like a houseguest who never leaves. After the illness, it sleeps in a nerve's guest room. Years later, when defenses are down, it comes out as shingles.",
+     "source": "Tissue Integrity slides 11, 19, 25, 33; details added for the NCLEX"
     },
     {
      "heading": "What is tinea?",
@@ -1005,7 +1083,8 @@ window.NURSE_DATA.push({
       "Use the antifungal exactly as prescribed. Finish the full course, even after itching stops.",
       "Do not share towels, socks, shoes, combs, brushes, or hats."
      ],
-     "example": "A runner treated for athlete's foot 6 weeks ago is back with the same itching and cracks. He says, \"I stopped the cream when it quit itching.\" That explains it. Stopping early lets the fungus come back."
+     "example": "A runner treated for athlete's foot 6 weeks ago is back with the same itching and cracks. He says, \"I stopped the cream when it quit itching.\" That explains it. Stopping early lets the fungus come back.",
+     "source": "Tissue Integrity slides 11, 21, 25, 33; care steps added for the NCLEX"
     },
     {
      "heading": "How do you treat head lice?",
@@ -1018,7 +1097,8 @@ window.NURSE_DATA.push({
       "Vacuum floors and furniture. Sprays and foggers are not needed and can be harmful.",
       "Recheck the hair in about a week. A second treatment is often needed.",
       "Check others in the home. Do not share combs, brushes, or hats."
-     ]
+     ],
+     "source": "Tissue Integrity slides 11, 21, 30; care steps added for the NCLEX"
     },
     {
      "heading": "How do you manage scabies?",
@@ -1031,12 +1111,13 @@ window.NURSE_DATA.push({
       "Hot-wash and dry recent bedding, clothes, and towels, or seal them in a bag for several days.",
       "Itching can last 2 to 4 weeks after successful treatment. It does not always mean treatment failed."
      ],
-     "example": "A resident in long-term care has scabies. Two staff members who cared for him now itch. The charge nurse starts contact precautions. The resident and both staff members are treated at the same time. Linens are hot-washed or bagged."
+     "example": "A resident in long-term care has scabies. Two staff members who cared for him now itch. The charge nurse starts contact precautions. The resident and both staff members are treated at the same time. Linens are hot-washed or bagged.",
+     "source": "Tissue Integrity slide 33 (named only); care details added for the NCLEX"
     },
     {
      "heading": "How do you stop the spread?",
      "keyIdea": "Hand hygiene, no shared items, and clean technique stop spread; fever with spreading redness means act now.",
-     "body": "<p>All skin infections share the same basics. Clean your hands. Keep skin clean and dry. Cover wounds. Do not share combs, hats, or towels.</p><p>Teach the signs of wound infection: redness, swelling, warmth, pus, and dead (necrotic) tissue. Fever with spreading redness means the infection may be moving beyond the skin. Notify the provider promptly.</p>",
+     "body": "<p>All skin infections share the same basics. Clean your hands. Keep skin clean and dry. Cover wounds. Do not share combs, hats, or towels.</p><p>Teach the signs of wound infection: redness, swelling, drainage, and necrosis (dead tissue). After surgery, also watch for more pain, odor, fever, and a high WBC count. Fever with spreading redness means the infection may be moving beyond the skin. Notify the provider promptly.</p>",
      "steps": [
       "Clean your hands and put on clean gloves, plus a gown for contact precautions.",
       "Remove the soiled dressing and discard it in a leak-proof bag with the gloves.",
@@ -1044,7 +1125,8 @@ window.NURSE_DATA.push({
       "Clean the wound with saline (or as ordered) from the center outward, least to most contaminated.",
       "Apply the new dressing as ordered.",
       "Remove gloves, clean your hands, and document how the wound and drainage look."
-     ]
+     ],
+     "source": "Tissue Integrity slides 18, 21–22, 28, 65"
     },
     {
      "heading": "Common traps",
@@ -1085,7 +1167,8 @@ window.NURSE_DATA.push({
         "No conditioner before the pediculicide. No foggers; vacuum and wash instead."
        ]
       ]
-     }
+     },
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1105,7 +1188,8 @@ window.NURSE_DATA.push({
       "Why the others are wrong: A is pregnant; varicella can harm a pregnancy. B has unknown immunity. D relies on PPE, which does not replace immunity.",
       "The answer: C. Documented immunity is the only safe choice.",
       "Strategy: For varicella questions, first rule out pregnant and non-immune staff. Then pick documented immunity."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: a sick child at school",
@@ -1121,7 +1205,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "The child with impetigo starts antibiotic ointment today. When may the child return to school?",
       "a": "After 24 hours of effective antibiotic treatment."
-     }
+     },
+     "source": "Added: worked example based on Tissue Integrity slides 11, 28, 65"
     }
    ],
    "pearls": [
@@ -1250,12 +1335,13 @@ window.NURSE_DATA.push({
     {
      "heading": "What makes these disorders inflammatory?",
      "keyIdea": "Inflammation is the skin's alarm system; these disorders happen when the alarm rings too long or at the wrong target.",
-     "body": "<p>Acne, eczema, burns, psoriasis, and dermatitis all share one thing: inflammation. The details differ, but the signs look alike. That is why history and pattern matter so much.</p><p>These conditions are very common. Acne affects about 50 million Americans each year, including 85% of people aged 12 to 24. Atopic dermatitis affects about 16.5 million. Psoriasis affects about 7.5 million. Rosacea, a facial redness condition, affects about 16 million.</p><p>In darker skin, inflammation may look purple, gray, or dark brown instead of red. Do not judge how inflamed skin is by redness alone.</p>"
+     "body": "<p>Acne, eczema, burns, psoriasis, and dermatitis all share one thing: inflammation. The details differ, but the signs look alike. That is why history and pattern matter so much.</p><p>These conditions are very common. Acne affects about 50 million Americans each year, including 85% of people aged 12 to 24. Atopic dermatitis affects about 16.5 million. Psoriasis affects about 7.5 million. Rosacea, a facial redness condition, affects about 16 million.</p><p>In darker skin, inflammation may look purple, gray, or dark brown instead of red. Do not judge how inflamed skin is by redness alone.</p>",
+     "source": "Tissue Integrity slides 12, 19–20"
     },
     {
      "heading": "Allergic or irritant dermatitis?",
      "keyIdea": "Allergic dermatitis is an immune reaction shaped like the item; irritant dermatitis is direct damage that can happen to anyone.",
-     "body": "<p>Contact dermatitis is skin inflammation from something that touched the skin. There are two types, and tests love the difference.</p><p><b>Allergic</b> contact dermatitis is an immune reaction. The first exposure sensitizes the immune system, and nothing shows. On later exposures, the rash appears 1 to 3 days later. It sits right where the allergen touched. It is shaped like the item: a watch band, ring, jeans snap, glove edge, or plant streak.</p><p><b>Irritant</b> contact dermatitis is not immune-related. A chemical, soap, or detergent damages the barrier directly. It can happen on the first exposure. The skin is red, dry, cracked, and burning.</p><p>Hives that appear within minutes, as with latex, are a different, immediate allergy. That kind can lead to anaphylaxis.</p>",
+     "body": "<p>Contact dermatitis is skin inflammation from something that touched the skin. There are two types, and tests love the difference.</p><p><b>Allergic</b> contact dermatitis is an immune reaction. The first exposure sensitizes the immune system, and nothing shows. On later exposures, the rash appears 1 to 3 days later. It sits right where the allergen touched. It is shaped like the item: a watch band, ring, jeans snap, glove edge, or plant streak.</p><p><b>Irritant</b> contact dermatitis is not immune-related. A chemical, soap, or detergent damages the barrier directly. It can happen on the first exposure. The skin is red, dry, cracked, and burning.</p><p>Allergic contact dermatitis stays at the contact site. It may form vesicles or wheals there. Widespread hives within minutes, as with latex, are different. That is an immediate allergy, and it can lead to anaphylaxis.</p>",
      "table": {
       "caption": "Allergic vs. irritant contact dermatitis",
       "headers": [
@@ -1276,7 +1362,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Look",
-        "Itchy rash shaped like the item; red papules or vesicles",
+        "Itchy rash at the allergen site, shaped like the item; may form vesicles or wheals",
         "Red, dry, cracked, burning skin; no shape"
        ],
        [
@@ -1301,7 +1387,8 @@ window.NURSE_DATA.push({
       "Adults have most allergic contact dermatitis.",
       "Older adults react more slowly and less strongly, so a reaction may be missed or appear late."
      ],
-     "analogy": "Allergic dermatitis is like a security guard who meets one visitor and decides that person is a threat. He tackles the visitor every time after that. Irritant dermatitis is like sandpaper. It scrapes anyone's skin, and no guard is involved."
+     "analogy": "Allergic dermatitis is like a security guard who meets one visitor and decides that person is a threat. He tackles the visitor every time after that. Irritant dermatitis is like sandpaper. It scrapes anyone's skin, and no guard is involved.",
+     "source": "Tissue Integrity slides 12, 25"
     },
     {
      "heading": "How do you care for contact dermatitis?",
@@ -1315,7 +1402,8 @@ window.NURSE_DATA.push({
       "Document allergies, such as latex, so all staff avoid them.",
       "Evaluate: less itch and redness, no new lesions, no infection from scratching."
      ],
-     "example": "A dental assistant has itchy red skin with small vesicles on both hands. It stops in a sharp line where her gloves end. It began 2 days after she switched to new latex gloves. Shape plus delay means allergic dermatitis. The nurse documents a possible latex allergy and suggests nitrile gloves. She is referred to employee health for a patch test.<br><br>Compare a new nurse aide who washes her hands 40 to 50 times a shift. The backs of her hands are dry, red, cracked, and burning. There is no shape and no delay. This is irritant dermatitis. She keeps doing hand hygiene. She uses alcohol-based hand rub when hands are not visibly soiled, lukewarm water, and frequent moisturizer."
+     "example": "A dental assistant has itchy red skin with small vesicles on both hands. It stops in a sharp line where her gloves end. It began 2 days after she switched to new latex gloves. Shape plus delay means allergic dermatitis. The nurse documents a possible latex allergy and suggests nitrile gloves. She is referred to employee health for a patch test.<br><br>Compare a new nurse aide who washes her hands 40 to 50 times a shift. The backs of her hands are dry, red, cracked, and burning. There is no shape and no delay. This is irritant dermatitis. She keeps doing hand hygiene. She uses alcohol-based hand rub when hands are not visibly soiled, lukewarm water, and frequent moisturizer.",
+     "source": "Tissue Integrity slides 22, 27, 30; care steps partly added"
     },
     {
      "heading": "How does poison ivy spread?",
@@ -1330,7 +1418,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A client with poison ivy says, \"I need to keep my kids away from my blisters or they'll catch it.\" What should the nurse teach?",
       "a": "Blister fluid does not spread poison ivy. The oil on skin, clothes, tools, or pets does, so wash those."
-     }
+     },
+     "source": "Tissue Integrity slide 22 (poison plants named); details added for the NCLEX"
     },
     {
      "heading": "What is eczema?",
@@ -1345,18 +1434,20 @@ window.NURSE_DATA.push({
       "Keep nails short. Cotton gloves at night can help.",
       "Avoid triggers like fragrance, heat, and sweat. Use prescribed medicines during flares."
      ],
-     "analogy": "Healthy skin is like a brick wall with strong mortar. In eczema, the mortar is weak. Water leaks out and irritants leak in. Moisturizer works like fresh mortar filling the gaps."
+     "analogy": "Healthy skin is like a brick wall with strong mortar. In eczema, the mortar is weak. Water leaks out and irritants leak in. Moisturizer works like fresh mortar filling the gaps.",
+     "source": "Tissue Integrity slides 12, 19, 27, 30; care steps added for the NCLEX"
     },
     {
      "heading": "What is psoriasis?",
      "keyIdea": "Psoriasis is a chronic immune disorder that piles up skin cells; treatment aims for remission, not cure.",
      "body": "<p>Normally, new skin cells take about a month to rise to the surface and flake off. In psoriasis, the immune system speeds this up to a few days. Cells pile up into thick, sharp-edged plaques with silvery-white scale. Common sites are the elbows, knees, scalp, and lower back. In darker skin, plaques may look violet or dark brown with gray scale.</p><p>There is no cure. Prescription creams and pills aim for remission, meaning long periods with few or no plaques. Stress, skin injury, infections, and some medicines can trigger flares.</p><p>Teach the client to moisturize, avoid scratching or injuring the skin, manage stress, and keep follow-up visits. Plaques are visible and can hurt self-esteem. Ask how the client feels about their skin.</p>",
-     "example": "A 34-year-old newly diagnosed with psoriasis asks, \"How long until this is cured?\" The best answer is honest and hopeful: \"Psoriasis is long-term and has no cure. But treatment can control it and keep it in remission for long periods.\" Promising a cure is wrong. So is saying nothing can be done."
+     "example": "A 34-year-old newly diagnosed with psoriasis asks, \"How long until this is cured?\" The best answer is honest and hopeful: \"Psoriasis is long-term and has no cure. But treatment can control it and keep it in remission for long periods.\" Promising a cure is wrong. So is saying nothing can be done.",
+     "source": "Tissue Integrity slides 12, 14, 19, 30; disease details added for the NCLEX"
     },
     {
      "heading": "How is acne treated?",
      "keyIdea": "Acne is oil plus dead cells plus bacteria; benzoyl peroxide is first-line, used thin and gentle.",
-     "body": "<p>At puberty, hormones make oil glands produce more sebum. Sebum and dead skin cells plug the hair follicle. This forms a comedone, a whitehead or blackhead. Skin bacteria grow in the plug. Inflammation then creates red papules and pustules. Deep lesions can scar.</p><p>Minor acne is treated with over-the-counter products. Benzoyl peroxide is first-line. It kills bacteria and unplugs oil ducts. Salicylic acid removes dead skin cells and reduces inflammation.</p>",
+     "body": "<p>At puberty, hormones make oil glands produce more sebum. Sebum and dead skin cells plug the hair follicle. This forms a comedone, a whitehead or blackhead. Skin bacteria grow in the plug. Inflammation then creates red papules and pustules. Deep lesions can scar.</p><p>Minor acne is treated with over-the-counter products. Benzoyl peroxide is first-line. It kills bacteria and unplugs oil ducts. Salicylic acid removes dead skin cells and reduces inflammation.</p><p>Darker skin is more prone to inflammation, and acne may leave dark marks. These clients may need combination therapy, such as chemical peels or microdermabrasion. Eczema, psoriasis, and dermatitis are treated with prescription medicines, by mouth or on the skin.</p>",
      "steps": [
       "Wash gently twice a day with a mild cleanser. Do not scrub.",
       "Apply a thin layer of benzoyl peroxide to the whole area, not single spots. Usually start once a day.",
@@ -1368,7 +1459,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A 17-year-old says, \"I'll scrub my face hard three times a day and put a thick layer on each pimple.\" Is this correct?",
       "a": "No. Wash gently twice a day and apply a thin layer to the whole area. Scrubbing and thick layers increase irritation."
-     }
+     },
+     "source": "Tissue Integrity slides 30, 34; application steps added for the NCLEX"
     },
     {
      "heading": "Who is at risk, and what about steroids?",
@@ -1382,7 +1474,8 @@ window.NURSE_DATA.push({
       "Poor nutrition: skin changes and slow healing.",
       "Exposures: chemicals, dyes, perfumes, plants, latex, metals, and over-cleansing."
      ],
-     "example": "A client used a friend's high-potency steroid cream on her face twice a day for 4 months. The nurse looks for thin, shiny, fragile skin and visible small blood vessels. Easy bruising, stretch marks, lighter patches, and acne-like bumps are also signs."
+     "example": "A client used a friend's high-potency steroid cream on her face twice a day for 4 months. The nurse looks for thin, shiny, fragile skin and visible small blood vessels. Easy bruising, stretch marks, lighter patches, and acne-like bumps are also signs.",
+     "source": "Tissue Integrity slides 12, 20, 22, 30"
     },
     {
      "heading": "Common traps",
@@ -1400,7 +1493,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Delayed rash vs. hives",
-        "Dermatitis appears in 1 to 3 days. Hives within minutes are an immediate allergy that can become anaphylaxis."
+        "Contact dermatitis appears in 1 to 3 days at the contact site. It may form wheals there. Widespread hives within minutes are an immediate allergy that can become anaphylaxis."
        ],
        [
         "Poison ivy spread",
@@ -1423,7 +1516,8 @@ window.NURSE_DATA.push({
         "Thin layer on the whole area. More is not better."
        ]
       ]
-     }
+     },
+     "source": "Tissue Integrity slide 12 (review); other rows added for the NCLEX"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1443,7 +1537,8 @@ window.NURSE_DATA.push({
       "Why the others are wrong: A and B remove oil from items and pets. D prevents scratching and infection. All are correct.",
       "The answer: C. Blister fluid does not spread poison ivy. Oil does.",
       "Strategy: In \"needs more teaching\" items, look for the one statement that is false. Ask what truly causes or spreads the problem."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: a rash on the wrist",
@@ -1460,7 +1555,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "Why could this rash not happen the very first time she wore the watch?",
       "a": "Allergic dermatitis needs sensitization first. The immune system has to learn to react before a rash appears."
-     }
+     },
+     "source": "Added: worked example based on Tissue Integrity slides 12, 22, 25"
     }
    ],
    "pearls": [
@@ -1604,7 +1700,7 @@ window.NURSE_DATA.push({
        ],
        [
         "30s",
-        "Old cells linger on the surface",
+        "Slower shedding and moisture loss add up",
         "Dull, thinner skin"
        ],
        [
@@ -1623,7 +1719,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A 45-year-old smoker who worked outdoors for years has leathery, deeply wrinkled skin on the face and neck. Which kind of aging is mainly responsible?",
       "a": "Extrinsic aging from UV and smoking. It also raises the risk of precancerous changes."
-     }
+     },
+     "source": "Tissue Integrity slides 21, 32"
     },
     {
      "heading": "What is normal newborn skin?",
@@ -1664,7 +1761,8 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "The nurse checks four infants. A white cheesy coating in the groin folds is vernix: expected. Tiny white bumps on the nose are milia: expected. Red blotches with pale centers on a 2-day-old who feeds well are erythema toxicum: expected. Clear blisters and crusts on a 10-day-old who feeds poorly are not expected. The nurse reports that infant right away."
+     "example": "The nurse checks four infants. A white cheesy coating in the groin folds is vernix: expected. Tiny white bumps on the nose are milia: expected. Red blotches with pale centers on a 2-day-old who feeds well are erythema toxicum: expected. Clear blisters and crusts on a 10-day-old who feeds poorly are not expected. The nurse reports that infant right away.",
+     "source": "Tissue Integrity slide 33; finding descriptions added"
     },
     {
      "heading": "What skin problems are common in children?",
@@ -1695,13 +1793,15 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "A 7-year-old has bright red cheeks that look slapped and a lacy pink rash on the arms. He had a mild cold last week. He is now fever-free and playful. This fits fifth disease."
+     "example": "A 7-year-old has bright red cheeks that look slapped and a lacy pink rash on the arms. He had a mild cold last week. He is now fever-free and playful. This fits fifth disease.",
+     "source": "Tissue Integrity slides 22, 33; rash patterns and diaper-rash details added"
     },
     {
      "heading": "What changes in the teen years?",
      "keyIdea": "Hormones raise oil and sweat, and skin problems hit teen self-esteem hard, so ask and listen.",
      "body": "<p>At puberty, hormones raise oil and sweat production. So teens often get acne, dermatitis, psoriasis, fungal infections, and warts. Acne affects about 85% of people aged 12 to 24.</p><p>For teens, looks are tied to self-esteem. Skin problems can lead to embarrassment, avoiding friends, or risky \"fixes.\" Ask how the teen feels, listen without judging, and offer safe options.</p><p>In darker skin, acne often leaves dark spots. Some teens buy strong bleaching creams online. These creams can irritate the skin or interact with medicines.</p>",
-     "example": "A 16-year-old with dark brown skin says, \"I hate how I look. I use a strong bleaching cream from online twice a day.\" The nurse says, \"It sounds like these marks really bother you. Dark spots after acne are common and often fade. Some online creams can damage skin. Let's stop that one and ask your provider about safe treatments.\""
+     "example": "A 16-year-old with dark brown skin says, \"I hate how I look. I use a strong bleaching cream from online twice a day.\" The nurse says, \"It sounds like these marks really bother you. Dark spots after acne are common and often fade. Some online creams can damage skin. Let's stop that one and ask your provider about safe treatments.\"",
+     "source": "Tissue Integrity slides 7, 19, 21, 34"
     },
     {
      "heading": "What changes during pregnancy?",
@@ -1715,7 +1815,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "A client at 28 weeks with atopic eruption of pregnancy asks if the rash is permanent. What is the best answer?",
       "a": "No. It resolves after delivery. Moisturizers and prescribed treatments can ease the itch until then."
-     }
+     },
+     "source": "Tissue Integrity slides 7, 35"
     },
     {
      "heading": "What is normal skin in older adults?",
@@ -1765,7 +1866,8 @@ window.NURSE_DATA.push({
         "Hands and face look thinner"
        ]
       ]
-     }
+     },
+     "source": "Tissue Integrity slide 36"
     },
     {
      "heading": "How do you protect fragile older skin?",
@@ -1780,7 +1882,8 @@ window.NURSE_DATA.push({
       "No adhesive tape on fragile skin. Use gauze wraps or tape-free options.",
       "Keep nails short. Encourage fluids, protein, calories, and vitamins A and C for healing.",
       "Inspect the skin daily, since the client may not feel an injury."
-     ]
+     ],
+     "source": "Tissue Integrity slides 27–28, 44"
     },
     {
      "heading": "What is not normal at any age?",
@@ -1792,7 +1895,8 @@ window.NURSE_DATA.push({
       "A sore that does not heal.",
       "A rash in a newborn or child with fever, poor feeding, or lethargy.",
       "Signs of infection in a skin tear or wound: spreading redness, warmth, swelling, pus."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (builds on Tissue Integrity slides 13, 23)"
     },
     {
      "heading": "Common traps",
@@ -1833,7 +1937,8 @@ window.NURSE_DATA.push({
         "Never extra tape on fragile skin. Use gauze wraps or tape-free options."
        ]
       ]
-     }
+     },
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1853,7 +1958,8 @@ window.NURSE_DATA.push({
       "Why the other options are not the answer: A prevents friction tears. B avoids drying the skin. D cushions bony areas. All three are safe.",
       "The answer: C. Adhesive tape can tear fragile skin. Use tape-free options.",
       "Strategy: For fragile skin, scan each option for friction, heat, harsh soap, or adhesive. That option is the unsafe one."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: Mrs. W in long-term care",
@@ -1870,7 +1976,8 @@ window.NURSE_DATA.push({
      "check": {
       "q": "On day 14, which finding needs immediate follow-up: purpura is unchanged, or a new skin tear after staff pulled her up in bed?",
       "a": "The new skin tear. It shows unsafe handling and needs action now. Unchanged purpura is expected."
-     }
+     },
+     "source": "Added: worked example based on Tissue Integrity slides 26–27, 36"
     }
    ],
    "mnemonics": [

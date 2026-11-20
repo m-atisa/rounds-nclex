@@ -63,7 +63,7 @@
     },
     {
      "term": "Social determinants of health (SDOH)",
-     "def": "Conditions where people are born, live, learn, work, play, and age that affect their health. Healthy People 2030 groups them into five domains."
+     "def": "Non-medical conditions in the places where people live and are active that affect their health, functioning, and quality of life. Healthy People 2030 names five key areas."
     },
     {
      "term": "Adverse childhood experiences (ACEs)",
@@ -105,9 +105,9 @@
      "body": "<p>The <b>levels of prevention</b> describe the goal of a nursing action. The goal depends on the client’s disease status right now. It never depends on the building.</p><p>Name the <b>target condition</b> first. Then ask if the client has it yet. A flu shot for a client with COPD is still primary. The target is the flu, and the client does not have it.</p><p>One shortcut always works. A screening test or self-exam is secondary. Its job is to find disease, not stop it.</p>",
      "bullets": [
       "<b>Primary — prevent it.</b> The client is healthy. Vaccines, healthy-habit teaching, quit-smoking help, prenatal care, job safety, sanitation, lead removal, food access.",
-      "<b>Secondary — find it early.</b> Disease may be silent. Risk checks, BP and vision screenings, teaching self-exams.",
-      "<b>Secondary — limit an acute problem (course rule).</b> Carry out the acute care plan. Prevent hospital complications like pressure injury and DVT.",
-      "<b>Tertiary — restore and protect.</b> Disease is established or incurable. Ostomy nurse, dietitian for complications, pain specialist, PT, rehab, palliative care."
+      "<b>Secondary — find it early.</b> Disease may be silent. Catch it early so it can be cured or controlled. Risk checks, BP and vision screenings, teaching self-exams.",
+      "<b>Secondary — limit an acute problem (course rule).</b> Carry out the acute care plan. Prevent hospital complications like pressure ulcers and DVT.",
+      "<b>Tertiary — restore and protect.</b> The condition is treated, stable, or incurable. If function cannot be restored, focus on symptom control and the highest quality of life. Ostomy nurse, dietitian for complications, pain specialist, PT, rehab, palliative care."
      ],
      "table": {
       "headers": [
@@ -133,7 +133,7 @@
        ],
        [
         "Turning a postop client every 2 hours",
-        "Pressure injury from acute stay",
+        "Pressure ulcer from acute stay",
         "Secondary (course rule)"
        ],
        [
@@ -151,7 +151,8 @@
      "check": {
       "q": "A nurse teaches healthy teens the testicular self-exam. Why is this secondary, not primary?",
       "a": "A self-exam cannot stop cancer from forming. It finds cancer early, while it is treatable. A vaccine that prevents disease, like HPV vaccine, is primary."
-     }
+     },
+     "source": "Module 46 study guide, pp. 1–2, 4 (Table 46.1)"
     },
     {
      "heading": "Course Table 46.1: every example by level",
@@ -184,7 +185,8 @@
      "check": {
       "q": "A nurse turns a client with pneumonia every 2 hours to prevent skin breakdown. Which level does the course call this?",
       "a": "Secondary. The course lists preventing hospital complications (pressure ulcers, DVT) as secondary, because an acute illness is already being treated."
-     }
+     },
+     "source": "Module 46 study guide, p. 2 (health promotion), p. 4 (Table 46.1)"
     },
     {
      "heading": "Is primary care the same as primary prevention?",
@@ -192,7 +194,7 @@
      "body": "<p>The words primary, secondary, and tertiary also name <b>care settings</b>. This overlap is a classic trap. A setting tells you <em>where</em> care happens. A prevention level tells you <em>what the care is trying to do</em>. One office visit can hold all three levels.</p><p>A key nursing job is picking the <b>most cost-effective setting</b>. In the course example, a small basal cell carcinoma is removed under local anesthesia in a dermatologist’s office. The outcome matches the hospital OR, at lower cost and with less disruption.</p>",
      "bullets": [
       "<b>Primary care:</b> the point of entry, and the <b>gatekeeper</b> in managed care. Physicians’ offices, hospital-based clinics, community health centers, and public health sites (schools, churches, malls, health fairs). Health maintenance, routine physicals, immunizations, common acute care, and psychosocial support.",
-      "<b>Secondary care:</b> hospitals, outpatient surgical centers, and specialists’ offices, usually by referral. Choose the most cost-effective, efficient setting.",
+      "<b>Secondary care:</b> hospitals, outpatient surgical centers, and specialists’ offices. Choose the most cost-effective, efficient setting.",
       "<b>Tertiary care:</b> hospitals, rehab centers, and extended care facilities that give complex diagnostic or therapeutic procedures. The nurse is the client’s advocate, coordinates care and treatment, and promotes following the plan.",
       "<b>Other nursing settings (Figure 46.1):</b> emergency departments and medical flight transport, operating rooms, pediatric offices, rehab facilities, NICUs, schools, public health departments, home health, prisons, insurance companies, universities, and publishing companies."
      ],
@@ -200,12 +202,13 @@
      "check": {
       "q": "At a family practice office, a healthy adult gets a Tdap vaccine. Name the setting and the level.",
       "a": "Setting: primary care. Level: primary prevention, because the client does not have tetanus, diphtheria, or pertussis. Same word, two meanings."
-     }
+     },
+     "source": "Module 46 study guide, p. 4 (Healthcare Settings, Figure 46.1)"
     },
     {
      "heading": "How are people and technology changing care?",
      "keyIdea": "An older, more diverse population needs more chronic care, and technology is safe only with nursing judgment.",
-     "body": "<p><b>Demographics</b> means the makeup of the population. By 2060 the U.S. will be older and more diverse. Adults 85 and older will more than triple, from about 6 million to about 19 million. They often have several chronic illnesses.</p><p>By 2030, nearly half of U.S. adults may have obesity, and about one in four severe obesity. Women, non-Hispanic Black adults, and homes earning under $50,000 are hit hardest.</p><p><b>Technology</b> supports judgment but never replaces it. A scanner cannot tell you a dose is unsafe with today’s potassium.</p>",
+     "body": "<p><b>Demographics</b> means the makeup of the population. By 2060 the U.S. will be older and more diverse. Adults 85 and older will more than triple, from about 6 million to about 19 million. They often have several chronic illnesses.</p><p>By 2030, nearly half of U.S. adults may have obesity, and about one in four severe obesity. This will raise chronic disease rates. It affects women, non-Hispanic Black adults, and homes earning under $50,000 the most.</p><p><b>Technology</b> supports judgment but never replaces it. A scanner cannot tell you a dose is unsafe with today’s potassium.</p>",
      "bullets": [
       "<b>Aging:</b> more home health, long-term care, rehab, palliative care, and caregiver teaching.",
       "<b>Obesity:</b> more diabetes and heart disease, so stress prevention and screening.",
@@ -218,12 +221,13 @@
      "check": {
       "q": "A rural client is offered cardiology follow-up by video. What should the nurse check first?",
       "a": "A working device, home internet, privacy, and the skills to use it. Otherwise telehealth becomes another barrier."
-     }
+     },
+     "source": "Module 46 study guide, p. 5 (demographics, technology)"
     },
     {
      "heading": "What are social determinants of health?",
      "keyIdea": "When a plan fails, look for a life barrier before you call the client nonadherent.",
-     "body": "<p>Medical care is only part of health. The rest comes from <b>social determinants of health (SDOH)</b>: where people are born, live, learn, work, play, and age. Healthy People 2030 sorts them into five domains.</p><p>On the NCLEX, cues hide in the social history: “works two jobs,” “rides the bus,” “ran out of insulin before payday.” The best answer names the barrier and links the client to help. Nonadherence is a label. An SDOH barrier is often the real cause.</p>",
+     "body": "<p>Medical care is only part of health. The rest comes from <b>social determinants of health (SDOH)</b>. These are the conditions in the places where people live and are active. They affect health, functioning, quality of life, and risks. Healthy People 2030 sorts them into five key areas.</p><p>On the NCLEX, cues hide in the social history: “works two jobs,” “rides the bus,” “ran out of insulin before payday.” The best answer names the barrier and links the client to help. Nonadherence is a label. An SDOH barrier is often the real cause.</p>",
      "table": {
       "headers": [
        "Domain",
@@ -261,12 +265,13 @@
      "check": {
       "q": "A client with heart failure is readmitted. He says, “I can’t afford the scale and I don’t have a ride to the clinic.” Best action?",
       "a": "Refer to case management or social work for a scale and rides, and arrange home health or telemonitoring. Do not just repeat daily-weight teaching."
-     }
+     },
+     "source": "Module 46 study guide, pp. 2, 5 (SDOH)"
     },
     {
      "heading": "What are ACEs, and what builds resiliency?",
      "keyIdea": "ACEs raise lifelong health risk, but caring adults and community supports build resiliency that softens the harm.",
-     "body": "<p><b>Adverse childhood experiences (ACEs)</b> are possibly traumatic events from birth to age 17. Examples are abuse, neglect, seeing violence, a parent with addiction or mental illness, divorce, or a jailed family member.</p><p>About two-thirds of U.S. adults report at least one ACE. About one in six report four or more. Toxic stress changes the growing brain and immune system. So ACEs raise adult risk for heart disease, diabetes, depression, substance use, STIs, and suicide.</p><p><b>Resiliency</b> is the hopeful half: getting through trauma with little lasting harm. Communities build it with caring adults and support.</p><p>Your course guide says ACEs affect about 1 in 6 children. Current CDC data: about 64% of adults report at least one ACE, and about 1 in 6 report four or more. On a course exam, expect “about 1 in 6”; on the NCLEX, know that ACEs are common and raise lifelong risk.</p>",
+     "body": "<p><b>Adverse childhood experiences (ACEs)</b> are possibly traumatic events from birth to age 17. They range from experiencing or witnessing violence to having an immediate family member in jail or prison. Other examples are abuse, neglect, and a parent with addiction or mental illness.</p><p>The course says ACEs affect about 1 in 6 children. They raise adult risk for chronic disease, mental illness, STIs, and suicide. Early trauma raises lifelong chronic illness risk unless community-supported resiliency buffers it.</p><p><b>Resiliency</b> is the hopeful half. It is the ability to withstand change or trauma with little long-term harm. Communities build it by improving access to support for children at risk for ACEs.</p><p>Current CDC data: about 64% of adults report at least one ACE, and about 1 in 6 report four or more. On a course exam, expect “about 1 in 6 children”; on the NCLEX, know that ACEs are common and raise lifelong risk.</p>",
      "steps": [
       "Ask about stress and safety in private, with calm, nonjudging words.",
       "Check for current danger. Suspected abuse is reported to the child protective agency—no investigating, no waiting for proof.",
@@ -274,7 +279,8 @@
       "Refer early. Never tell a child to keep family problems secret.",
       "Use trauma-informed care: explain, offer choices, protect privacy."
      ],
-     "example": "A 15-year-old has frequent headaches. Her father was just jailed, and she cares for her brothers at night. The nurse screens for depression and safety and links her to the school counselor."
+     "example": "A 15-year-old has frequent headaches. Her father was just jailed, and she cares for her brothers at night. The nurse screens for depression and safety and links her to the school counselor.",
+     "source": "Module 46 study guide, pp. 2, 5 (ACEs, resiliency); screening steps added for the NCLEX"
     },
     {
      "heading": "What is health literacy?",
@@ -282,7 +288,7 @@
      "body": "<p><b>Health literacy</b> is the capacity to obtain, communicate, process, and understand basic health information and services. People need it to make good health choices. It has four parts, listed below.</p><p>National Center for Education Statistics (NCES) data: only about 53% of U.S. adults have intermediate health literacy. About 36% have basic or below-basic skills. Yet most systems act as if everyone reads well. Low health literacy leads to medication errors, missed preventive care, more hospital stays, and more deaths.</p><p>You cannot judge it by looks or schooling. So speak clearly to everyone, and use <b>teach-back</b>.</p>",
      "bullets": [
       "<b>Print:</b> reading and writing. <b>Oral:</b> listening and speaking.",
-      "<b>Numeracy:</b> doses, times, glucose values. <b>Technology:</b> portals and apps.",
+      "<b>Numeracy:</b> doses, times, glucose values. <b>Technology:</b> patient portals.",
       "<b>Warning cues:</b> “forgot my glasses,” takes forms home, blank forms, names pills by color, missed visits.",
       "<b>Health-literate organizations:</b> improve spoken communication, use patient portals, and treat clients and caregivers as partners."
      ],
@@ -296,7 +302,8 @@
      "check": {
       "q": "After insulin teaching, a client says, “I understand,” but hands back the sheet unread. What next?",
       "a": "Treat it as a literacy cue. Have him show how he draws up and gives the dose, and explain what to do for low blood sugar."
-     }
+     },
+     "source": "Module 46 study guide, pp. 2, 5 (health literacy); teach-back steps added for the NCLEX"
     },
     {
      "heading": "Common traps: look-alikes on prevention and barriers",
@@ -341,7 +348,8 @@
         "Risk exposure vs protection from caring adults and programs."
        ]
       ]
-     }
+     },
+     "source": "Added for the NCLEX — contrasts built from Module 46 study guide, pp. 2–5"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -360,7 +368,8 @@
       "A is wrong: food access prevents disease (primary). C is wrong: exercise for healthy people is primary. D is wrong: rehab restores function (tertiary).",
       "The answer is B. Screening finds hypertension before stroke.",
       "Strategy: write P, S, or T beside each option, then pick the label the stem asks for."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: one clinic visit, three levels",
@@ -376,7 +385,8 @@
      "check": {
       "q": "Which need is tertiary, and why does it wait?",
       "a": "Knee physical therapy is tertiary—it restores function. The uncontrolled BP carries the most immediate risk of stroke, so it comes first."
-     }
+     },
+     "source": "Added: worked example based on Module 46 study guide, pp. 4–6"
     },
     {
      "heading": "North Carolina practice note",
@@ -386,17 +396,20 @@
       "Report suspicion. Do not investigate or wait for proof. Knowingly failing to report is a crime; good-faith reporters are immune.",
       "<b>Disabled adults (G.S. 108A-102):</b> anyone with reasonable cause to believe a disabled adult needs protective services must report to county DSS, orally or in writing. Good-faith reporters are immune.",
       "<b>Telehealth:</b> NC is a Nurse Licensure Compact state. An RN with a multistate license (NC as home state) may give telehealth across compact states and follows the laws of the state where the client is. The NC Board of Nursing regulates practice (G.S. 90-171.19 et seq.)."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (North Carolina law)"
     },
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "Module 46 study guide, outcomes 46.1 (three levels of prevention) and 46.2 (factors affecting delivery: demographics, SDOH, ACEs and resiliency, technology, health literacy); textbook pp. 2773–2777 (Table 46.1, Figure 46.1). Cases and walkthroughs are original.",
+      "Module 46 study guide, outcomes 46.1 (three levels of prevention) and 46.2 (factors affecting delivery: demographics, SDOH, ACEs and resiliency, technology, health literacy); study guide pp. 1–5 (Table 46.1, Figure 46.1). Cases, NCLEX walkthroughs, and the North Carolina note are original.",
       "<b>ACEs:</b> Your course guide says ACEs affect “about 1 in 6 children.” Current CDC data: about 64% of adults report at least one ACE; about 1 in 6 report four or more. On a course exam, expect “1 in 6”; on the NCLEX, know ACEs are common.",
       "<b>Pressure ulcer:</b> Your course guide says “pressure ulcer.” Current standard (NPIAP): “pressure injury.” On a course exam, expect “pressure ulcer”; on the NCLEX, “pressure injury.”",
       "The course calls preventing hospital complications secondary because an acute illness exists. Some texts say primary. Follow the course and reason from the target condition.",
       "Teach-back, universal precautions, and trauma-informed care were added as standard practice."
-     ]
+     ],
+     "source": "Module 46 study guide, pp. 1–5; course-vs-current notes added",
+     "keyIdea": "Know the course wording for course exams and the current standard for the NCLEX."
     }
    ],
    "mnemonics": [
@@ -567,7 +580,7 @@
     {
      "heading": "What are the three frameworks of care?",
      "keyIdea": "Managed care is about money for groups, case management is about connecting one client’s care, and patient-focused care is about the client’s wishes.",
-     "body": "<p>The course names three frameworks. Each answers a different question, which is the fastest way to tell them apart. They often overlap in one client. For example, a client in a managed care plan may also get case management. On the exam, decide which framework one <em>specific action</em> shows.</p><p><b>Patient-focused care</b> does not mean doing anything asked, even if unsafe. The competent client decides. Family are partners when the client wants them. If a wish conflicts with safety, explore why, explain the risk, and offer options.</p>",
+     "body": "<p>The course names three frameworks. Each answers a different question, which is the fastest way to tell them apart. They often overlap in one client. For example, a client in a managed care plan may also get case management. On the exam, decide which framework one <em>specific action</em> shows.</p><p><b>Patient-focused care</b> organizes care around the client’s expressed physical and emotional needs. Clients and their families are integral partners in care decisions. It does not mean doing anything asked, even if unsafe. The competent client still decides who joins those decisions. If a wish conflicts with safety, explore why, explain the risk, and offer options.</p>",
      "table": {
       "headers": [
        "Framework",
@@ -596,12 +609,18 @@
      "check": {
       "q": "A nurse schedules dressing teaching in the evening so the client’s spouse, who works days, can attend, as the client asked. Which framework is this?",
       "a": "Patient-focused care. The plan is built around the client’s stated needs, with family as partners."
-     }
+     },
+     "source": "Module 46 study guide, pp. 2, 5 (46.3)",
+     "bullets": [
+      "<b>Managed care:</b> cost-effective, high-quality care that improves outcomes for groups of patients across settings.",
+      "<b>Case management:</b> a collaborative process that coordinates services to meet one client’s and family’s complete health needs.",
+      "<b>Patient-focused care:</b> care built around the client’s expressed physical and emotional needs, with client and family as partners."
+     ]
     },
     {
      "heading": "How do HMOs and PPOs differ?",
      "keyIdea": "An HMO trades choice for lower cost and needs a gatekeeper referral; a PPO trades higher cost for freedom.",
-     "body": "<p><b>Managed care</b> plans aim for cost-effective, high-quality care for groups. The two main types differ in <b>restriction versus cost</b>.</p><p>Plan type changes discharge. An HMO client needs a primary care referral to see a specialist. “Just call any cardiologist” could mean a denied claim. A PPO client going out of network should know it costs more. The nurse teaches how the plan works and involves the case manager, but never promises coverage.</p>",
+     "body": "<p><b>Managed care</b> is designed to deliver cost-effective, high-quality care and improve outcomes for groups of patients across settings. The two main types differ in <b>restriction versus cost</b>.</p><p>Plan type changes discharge. An HMO requires a primary care physician (PCP) as the <b>gatekeeper</b>. The client needs a PCP referral to see a specialist. “Just call any cardiologist” could mean a denied claim. A PPO client going out of network should know it costs more. The nurse teaches how the plan works and involves the case manager, but never promises coverage.</p>",
      "table": {
       "headers": [
        "Feature",
@@ -616,7 +635,7 @@
        ],
        [
         "Specialist access",
-        "Gatekeeper referral required",
+        "Primary care physician gatekeeper; referral required",
         "Self-referral allowed"
        ],
        [
@@ -627,20 +646,21 @@
        [
         "Member cost",
         "Lower premiums, copays, deductibles",
-        "Higher premiums, copays, deductibles"
+        "Higher direct out-of-pocket premiums, copays, deductibles"
        ]
       ]
      },
      "example": "An HMO client leaves with new atrial fibrillation and orders to see cardiology in a week. The nurse involves the case manager to get the referral before discharge.",
      "check": {
       "q": "An HMO client asks, “Can I just call the lung specialist my neighbor uses?” What should the nurse explain?",
-      "a": "In an HMO, the primary care provider is the gatekeeper. The client needs a referral for the specialist visit to be covered, except in emergencies."
-     }
+      "a": "In an HMO, the primary care physician is the gatekeeper. The client needs a referral for the specialist visit to be covered, except in emergencies."
+     },
+     "source": "Module 46 study guide, pp. 2, 5 (managed care); network details added"
     },
     {
      "heading": "What does a case manager do?",
      "keyIdea": "Case management keeps complex care connected across hospital, community, and home, and it begins at admission.",
-     "body": "<p>In <b>case management</b>, a case manager sits at the center of the team. That may be a nurse, social worker, or other team member. The goal is <b>continuity of care</b> across hospital, community, and home. That helps the client keep optimal health, quality of life, and the ability to do ADLs. Through communication and available resources, it promotes safety, quality, and cost-effective outcomes.</p><p>Who needs it most? Clients with <b>complex, multi-provider needs</b>: several chronic illnesses, frequent readmissions, new home equipment, little support, or big SDOH barriers. Pick the client with the most coordination needs, not just the sickest one.</p><p>Discharge planning starts on admission. The case manager coordinates but does not replace the nurse’s assessment.</p>",
+     "body": "<p>In <b>case management</b>, an interprofessional team leads care, with a case manager at the center. That may be a nurse, social worker, or other team member. The goal is <b>continuity of care</b> across hospital, community, and home. That helps the client keep optimal health, quality of life, and the ability to do ADLs. Through communication and available resources, it promotes safety, quality, and cost-effective outcomes.</p><p>Who needs it most? Clients with <b>complex, multi-provider needs</b>: several chronic illnesses, frequent readmissions, new home equipment, little support, or big SDOH barriers. Pick the client with the most coordination needs, not just the sickest one.</p><p>Discharge planning starts on admission. The case manager coordinates but does not replace the nurse’s assessment.</p>",
      "steps": [
       "Assess health, function, support, insurance, SDOH, and the client’s goals.",
       "Plan measurable goals with the client, family, and team.",
@@ -651,7 +671,8 @@
      "check": {
       "q": "Which client most needs the case manager: a healthy adult after appendectomy, a teen with a sprain, or an older adult with heart failure, diabetes, new home oxygen, and no family nearby?",
       "a": "The older adult. Several chronic illnesses, new equipment, many providers, and little support create the greatest need for coordination."
-     }
+     },
+     "source": "Module 46 study guide, pp. 2, 5 (case management)"
     },
     {
      "heading": "What does access to care mean?",
@@ -663,15 +684,16 @@
       "<b>Step 3 — Find a provider</b> the client can talk to, trust, and get individual needs met by."
      ],
      "bullets": [
-      "<b>COVID-19 showed disparities.</b> The Navajo Nation had the highest per-capita rate in the U.S. early on.",
-      "Causes: no running water, high diabetes and hypertension rates, food deserts with long trips to crowded stores, little internet for telehealth.",
+      "<b>COVID-19 showed disparities.</b> The Navajo Nation had the highest per-capita COVID-19 rates in the U.S.",
+      "Causes: no running water, high diabetes and hypertension rates, food deserts, and no internet for telehealth.",
       "Also high risk: essential workers, crowded homes, transit riders, nursing home and prison residents."
-     ]
+     ],
+     "source": "Module 46 study guide, pp. 5–6 (IOM steps, barriers)"
     },
     {
      "heading": "Who is uninsured, underinsured, or covered?",
      "keyIdea": "Match the client to the right safety net, and remember EMTALA guarantees emergency screening regardless of ability to pay.",
-     "body": "<p><b>Uninsured</b> people have no coverage. They do not qualify for Medicaid or Medicare, cannot get an employer group plan, and cannot afford private coverage. Before the ACA, some were denied for preexisting conditions. Rates are higher among racial and ethnic minorities, low-wage and small-business workers, the unemployed or underemployed, and the self-employed. They face delayed care, higher out-of-pocket bills, medical debt, and worse outcomes.</p><p><b>Underinsured</b> people have coverage that falls short. Both may ration care in ways that look like nonadherence.</p><p>Uninsured rates fell after the 2010 ACA, then began rising again. The course lists four causes below.</p><p>Your course guide says the ACA individual mandate was “repealed.” Current fact: the mandate is still in the law, but its federal penalty dropped to $0 in 2019. On a course exam, expect “repeal of the individual mandate”; on the NCLEX, know that losing the penalty helped uninsured rates rise.</p>",
+     "body": "<p><b>Uninsured</b> people have no coverage. They do not qualify for Medicaid or Medicare, cannot get an employer group plan, and cannot afford private coverage. Before the ACA, some were denied coverage. Rates are higher among racial and ethnic minorities, low-wage and small-business workers, the unemployed or underemployed, and the self-employed. They face delayed care, higher out-of-pocket bills, medical debt, and worse outcomes.</p><p><b>Underinsured</b> people have coverage that does not meet their needs. Course examples: a child on a parent’s plan that excludes immunizations, or a client with chronic illness whose plan excludes medicines. Both may ration care in ways that look like nonadherence.</p><p>Uninsured rates fell after the 2010 ACA, then began rising again. The course lists four causes below.</p><p>Your course guide says the ACA individual mandate was “repealed.” Current fact: the mandate is still in the law, but its federal penalty dropped to $0 in 2019. On a course exam, expect “repeal of the individual mandate”; on the NCLEX, know that losing the penalty helped uninsured rates rise.</p>",
      "table": {
       "headers": [
        "Program",
@@ -706,7 +728,7 @@
        ]
       ]
      },
-     "example": "SAFETY ALERT—EMTALA. An uninsured client in active labor arrives at the ED. The clerk suggests sending her elsewhere. The hospital must give a screening exam regardless of ability to pay. Because she is in labor, it must stabilize her (generally delivery) or arrange a proper transfer. Payment questions never delay screening.",
+     "example": "SAFETY ALERT—EMTALA. An uninsured client in active labor arrives at the ED. The clerk suggests sending her elsewhere. EMTALA covers Medicare-participating hospitals that offer emergency services. The hospital must give a medical screening exam regardless of ability to pay. Because she is in labor, it must stabilize her (generally delivery) or arrange a proper transfer. Payment questions never delay screening.",
      "check": {
       "q": "A client’s plan does not cover her diabetes medicine. Uninsured or underinsured?",
       "a": "Underinsured. Ask if she is rationing doses and involve social work."
@@ -716,7 +738,8 @@
       "More non-ACA plans that exclude preexisting conditions.",
       "Eligibility rules that affect noncitizens.",
       "Lower Medicaid enrollment."
-     ]
+     ],
+     "source": "Module 46 study guide, pp. 3, 6 (uninsured, programs, EMTALA)"
     },
     {
      "heading": "Why does a usual source of care matter?",
@@ -727,14 +750,15 @@
       "A provider-directed practice team.",
       "Whole-person care across all life stages.",
       "Coordinated, integrated care across the system and community.",
-      "Quality and safety through EBP, decision support, and measurement.",
-      "Enhanced access (open scheduling, longer hours, secure messaging) and supportive payment.",
+      "Quality and safety assured through EBP, clinical decision-support tools, and performance measurement.",
+      "Enhanced access (open scheduling, expanded hours, new communication options) and supportive payment.",
       "Separate list—AHRQ’s five features: patient-centered, comprehensive, coordinated, accessible, committed to quality and safety."
      ],
      "check": {
       "q": "Which practice best fits PCMH: seeing whoever is open, clients arranging their own referrals, or open scheduling with evening hours and secure messaging?",
       "a": "Open scheduling, evening hours, and messaging—enhanced access. The others break the personal-provider and coordination principles."
-     }
+     },
+     "source": "Module 46 study guide, pp. 6–7 (Clinical Example A, usual source of care, Box 46.2)"
     },
     {
      "heading": "Common traps: care models and coverage",
@@ -779,7 +803,8 @@
         "ED for a minor issue = perception. Specialist 100 miles away = distribution."
        ]
       ]
-     }
+     },
+     "source": "Added for the NCLEX — contrasts built from Module 46 study guide, pp. 2–3, 5–6"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -799,7 +824,8 @@
       "A is judgmental. C risks overdose. D still leaves no medical home.",
       "The answer is B. It addresses both cues.",
       "Strategy: pick the answer that respectfully fixes the barrier."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: uninsured client with chest pain",
@@ -816,24 +842,26 @@
      "check": {
       "q": "The registration clerk asks Ms. Greene for a deposit before she is seen. What should the nurse do?",
       "a": "Step in so the screening exam happens without delay. EMTALA bars delaying screening or stabilization to ask about payment. Use the chain of command if needed."
-     }
+     },
+     "source": "Added: worked example based on Module 46 study guide, p. 6 (EMTALA, barriers)"
     },
     {
      "heading": "Worked case: course Clinical Examples A and B",
      "keyIdea": "Example A is a perception-of-need problem; Example B is an uneven-distribution problem. Name the barrier, then fix it.",
-     "body": "<p><b>Clinical Example A (perceptions of need).</b> A parent brings a child with an earache to the ED. The parent gave acetaminophen only 15 minutes earlier. The child is stable. The parent misjudged how urgent the symptom was and did not wait for the drug to work.</p><p><b>Clinical Example B (uneven distribution).</b> A pregnant client lives in a rural county. The nearest obstetrician is 100 miles away. Coverage does not help if care is too far to reach. In cities and suburbs, the barriers are more often poverty and culture or language.</p>",
+     "body": "<p><b>Clinical Example A (perceptions of need).</b> A parent brings a child with an earache to the ED. The parent gave acetaminophen only 15 minutes earlier. The child is stable. The parent misjudged how urgent the symptom was and did not wait for the drug to work.</p><p><b>Clinical Example B (uneven distribution).</b> Rural areas lack medical facilities and specialists. For example, the nearest obstetrician may be 100 miles away. Coverage does not help if care is too far to reach. In cities and suburbs, the barriers are more often poverty and culture or language.</p>",
      "steps": [
       "<b>Question 1: Which access barrier is in Example A?</b> Perception of need. The parent used the ED for a non-emergency.",
       "<b>Question 2: What does the nurse teach?</b> Home symptom care, how long acetaminophen takes to start working (often 30–60 minutes), and when to use primary, urgent, or emergency care. Teach with respect; never shame.",
       "<b>Question 3: What else helps Example A?</b> Ask about a usual source of care. Link the family to a medical home.",
       "<b>Question 4: Which barrier is in Example B?</b> Uneven distribution of services. Rural areas lack facilities and specialists.",
-      "<b>Question 5: What does the nurse do for Example B?</b> Plan early: telehealth visits, travel help, a birth plan with timely transport, and teaching on warning signs of labor and complications.",
+      "<b>Question 5: What does the nurse do for Example B?</b> For a pregnant client far from an obstetrician, plan early: telehealth visits, travel help, a birth plan with timely transport, and teaching on warning signs of labor and complications.",
       "<b>Course fact:</b> RNs and NPs are concentrated in the eastern half of the U.S."
      ],
      "check": {
       "q": "A rural client says, “The clinic is 2 hours away, so I only go when I’m very sick.” Which barrier is this?",
       "a": "Uneven distribution of services. The care exists but is too far away, so the client cannot use it for prevention."
-     }
+     },
+     "source": "Module 46 study guide, p. 6 (Clinical Examples A and B); teaching steps expanded"
     },
     {
      "heading": "North Carolina practice note",
@@ -845,18 +873,21 @@
       "Emancipated minors may consent to their own care. The age of majority is 18.",
       "<b>Disabled adults (G.S. 108A-102):</b> anyone with reasonable cause to believe a disabled adult needs protective services must report to county DSS. Good-faith reporters are immune.",
       "<b>Telehealth:</b> NC is a Nurse Licensure Compact state. The NC Board of Nursing regulates practice under the Nursing Practice Act (G.S. 90-171.19 et seq.)."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (North Carolina law)"
     },
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "Module 46 study guide, outcomes 46.3 (managed care, case management, patient-focused care) and 46.4 (uninsured/underinsured, no usual source of care, perception of need, uneven distribution); textbook pp. 2777–2780 (Clinical Examples A and B, EMTALA Safety Alert, Box 46.2). Cases and walkthroughs are original.",
+      "Module 46 study guide, outcomes 46.3 (managed care, case management, patient-focused care) and 46.4 (uninsured/underinsured, no usual source of care, perception of need, uneven distribution); study guide pp. 2–3, 5–7 (Clinical Examples A and B, EMTALA Safety Alert, Box 46.2). Cases and walkthroughs are original.",
       "<b>ACA mandate:</b> Your course guide says the individual mandate was “repealed.” Current fact: the federal penalty dropped to $0 in 2019; the mandate itself stayed in the law. On a course exam, expect “repeal”; on the NCLEX, know the effect—more uninsured people.",
       "Medicaid’s nursing home coverage means long-term custodial care. Medicare covers only limited, short-term skilled nursing care after a qualifying hospital stay.",
       "Medicare covers people of any age with end-stage renal disease.",
       "HMOs cover emergency care even out of network.",
       "Premium, copay, deductible, and case-management steps were added as standard content."
-     ]
+     ],
+     "source": "Module 46 study guide, pp. 2–3, 5–7; course-vs-current notes added",
+     "keyIdea": "Know the course wording for course exams and the current fact for the NCLEX."
     }
    ],
    "mnemonics": [
@@ -948,7 +979,7 @@
     },
     {
      "term": "Associate nurse",
-     "def": "In primary nursing, the nurse who follows the primary nurse’s plan on the primary nurse’s days off and reports needed changes."
+     "def": "In primary nursing, the nurse who follows the primary nurse’s plan when the primary nurse is off shift and reports needed changes."
     },
     {
      "term": "Total patient care",
@@ -995,7 +1026,7 @@
     {
      "heading": "What are the nursing care delivery models?",
      "keyIdea": "Functional divides by task, team by client group, and primary by relationship—each trades cost against continuity.",
-     "body": "<p>A delivery model answers three questions. Who is assigned to the client? Who holds authority and accountability? How is the work divided?</p><p><b>Functional nursing</b> splits work by task. The head nurse gives out tasks, not clients: one nurse passes medications, one does dressings, one carries out monitoring orders, and UAP do ADLs. Snowstorms and staffing shortages are the course examples. It needs fewer RNs, so it returns in shortages and emergencies. But no one sees the whole client. A client who is more confused at 1400 than at 0900 can be missed. Clients may not know which nurse is theirs.</p><p><b>Team nursing</b> splits work by client group under an RN leader. <b>Primary nursing</b> ties one RN to the client for the whole stay. It gives the most continuity but needs more RNs.</p>",
+     "body": "<p>A delivery model answers three questions. Who is assigned to the client? Who holds authority and accountability? How is the work divided?</p><p><b>Functional nursing</b> splits work by task. The head nurse gives out tasks, not clients: one nurse passes medications, one does dressings, one carries out monitoring orders, and UAP do ADLs. Snowstorms and staffing shortages are the course examples. It needs fewer RNs, so it returns in shortages and emergencies. But no one sees the whole client. A client who is more confused at 1400 than at 0900 can be missed. Clients may not know which nurse is theirs.</p><p><b>Team nursing</b> splits work by client group under an RN leader. <b>Primary nursing</b> is relationship-based. It ties one RN to the client from admission through discharge. It gives the most continuity but needs more RNs.</p>",
      "table": {
       "headers": [
        "Model",
@@ -1034,23 +1065,25 @@
      "check": {
       "q": "A nurse manager of an oncology unit with long stays wants better continuity and has budget for more RNs. Which model fits?",
       "a": "Primary nursing. One RN follows each client from admission to discharge. Its main drawback, cost, is covered by the budget."
-     }
+     },
+     "source": "Module 46 study guide, pp. 3, 7 (46.5); total patient care added"
     },
     {
      "heading": "What do team leaders and primary nurses do?",
      "keyIdea": "The team leader stays responsible for every team client; the associate nurse follows the primary nurse’s plan and reports changes.",
-     "body": "<p>The RN <b>team leader</b> keeps responsibility for every team client, even when tasks are delegated. The RN keeps unstable, new, complex, and teaching clients. LPNs take stable clients with predictable outcomes. UAP do activities of daily living (ADLs) such as feeding and bathing, plus walking, positioning, intake and output (I&O), and routine vital signs on stable clients.</p><p>In <b>primary nursing</b>, the primary nurse assesses on admission, plans, gives direct care, and stays accountable through discharge. On days off, an <b>associate nurse</b> follows the plan and delegates tasks to UAP as appropriate. If a change is needed, the associate acts for safety and tells the primary nurse.</p>",
+     "body": "<p>The RN <b>team leader</b> keeps responsibility and authority for every team client, even when tasks are delegated. The RN keeps unstable, new, complex, and teaching clients. LPNs take stable clients with predictable outcomes. <b>UAP</b> are unlicensed, though some are certified. Under a licensed nurse’s direction, they help with activities of daily living (ADLs) such as feeding and bathing, plus walking, positioning, intake and output (I&O), and routine vital signs on stable clients.</p><p>In <b>primary nursing</b>, the primary nurse has 24/7 authority and responsibility from admission through discharge. The primary nurse assesses, plans, and gives direct care. When the primary nurse is off shift, an <b>associate nurse</b> follows the plan and delegates tasks to UAP as appropriate. If a change is needed, the associate acts for safety and tells the primary nurse.</p>",
      "steps": [
       "Take handoff and find unstable or high-risk clients first.",
       "Match clients to staff by acuity, skill, and scope.",
       "Give specific directions: what, when, and what to report.",
       "Check in at set times, evaluate, and reassign if a client changes."
      ],
-     "example": "On the primary nurse’s day off, a transplant client develops mouth sores. The associate nurse starts the mouth-care protocol and tells the primary nurse, who updates the plan.",
+     "example": "While the primary nurse is off shift, a transplant client develops mouth sores. The associate nurse starts the mouth-care protocol and tells the primary nurse, who updates the plan.",
      "check": {
       "q": "A UAP reports, “Mr. Patel’s oxygen saturation is 89% on room air. It was 95% this morning.” What does the RN do first?",
       "a": "Go assess Mr. Patel: airway, breathing, lung sounds, and vital signs. The UAP collects data, but interpreting and acting on it is the RN’s job."
-     }
+     },
+     "source": "Module 46 study guide, pp. 3, 7 (team and primary nursing, UAP); handoff steps added"
     },
     {
      "heading": "How do I delegate safely?",
@@ -1093,12 +1126,13 @@
      "check": {
       "q": "For a stable postop client, which can go to a UAP: measuring I&O, assessing the incision, walking in the hall, teaching incentive spirometry, vital signs?",
       "a": "I&O, walking, and vital signs. Incision assessment and teaching need the RN; the UAP may later remind the client to use the spirometer."
-     }
+     },
+     "source": "Added for the NCLEX — five rights not in course materials; “delegates” wording from Module 46 study guide, p. 3"
     },
     {
      "heading": "How do systems link to other nursing concepts?",
-     "keyIdea": "Unit design is an EBP example: decentralized pods add bedside time, but teamwork needs planned communication.",
-     "body": "<p><b>Decentralized workstations</b> split a large unit into pods with charting stations near rooms and supplies. Research shows less walking, more time with clients, and higher client satisfaction. But nurses may feel isolated and report lower teamwork.</p><p>This is how evidence-based practice works in systems. One outcome improves while another gets worse. Do not scrap the design. Add <b>planned communication</b>: huddles, pod buddies, mobile devices, and visual help signals.</p><p>The table shows how healthcare systems connect to other nursing concepts.</p><p>In every concept, the nurse’s duties are the same. Advocate for vulnerable groups. Follow institutional and legal standards, such as EMTALA and scope of practice. Evaluate client satisfaction and outcomes. Keep the care setting safe.</p>",
+     "keyIdea": "Systems touch nine related concepts. Pod design shows EBP in action: more bedside time, but teamwork needs planned communication.",
+     "body": "<p><b>Decentralized workstations</b> split a large unit into smaller pods or zones. This puts nurses and UAP closer to clients and supplies. Research shows less walking, more time with clients, and higher client satisfaction. But nurses may report lower teamwork unless planned communication is used.</p><p>This is how evidence-based practice works in systems. One outcome improves while another gets worse. Do not scrap the design. Add <b>planned communication</b>: huddles, pod buddies, mobile devices, and visual help signals.</p><p>The table shows how healthcare systems connect to other nursing concepts.</p><p>In every concept, the nurse’s duties are the same. Advocate for vulnerable groups. Follow institutional and legal standards, such as EMTALA and scope of practice. Evaluate client satisfaction and outcomes. Keep the care setting safe.</p>",
      "table": {
       "headers": [
        "Concept",
@@ -1146,7 +1180,8 @@
      "check": {
       "q": "After a switch to pods, nurses feel isolated and slow to get help during a fall. Best action?",
       "a": "Add planned communication—pod buddies, huddles, mobile alerts—instead of returning to a central station."
-     }
+     },
+     "source": "Module 46 study guide, pp. 7–8 (EBP decentralized workstations, related concepts)"
     },
     {
      "heading": "Why do healthcare costs keep rising?",
@@ -1161,7 +1196,8 @@
       "Insured clients are shielded from true costs.",
       "Direct-to-consumer drug and specialty advertising."
      ],
-     "example": "Safe cost control on a unit: remove urinary catheters and IVs as soon as they are not needed. Start discharge planning on admission. Use teach-back to prevent readmissions. Open supply kits only when needed. Prevent falls, pressure injuries, CAUTI, and CLABSI, which add days and cost."
+     "example": "Safe cost control on a unit: remove urinary catheters and IVs as soon as they are not needed. Start discharge planning on admission. Use teach-back to prevent readmissions. Open supply kits only when needed. Prevent falls, pressure injuries, CAUTI, and CLABSI, which add days and cost.",
+     "source": "Module 46 study guide, p. 7 (drivers of rising costs); safe cost-control example added"
     },
     {
      "heading": "How are scarce resources shared fairly?",
@@ -1176,7 +1212,8 @@
      "check": {
       "q": "One ICU bed is open: a DKA client whose anion gap closed, a COPD client at baseline SpO2 90%, a septic client with mean arterial pressure (MAP) of 58 after a 30 mL/kg bolus, or a board member with normal troponins. Who gets it?",
       "a": "The septic client—shock after fluids means the highest risk. Status never moves a client up."
-     }
+     },
+     "source": "Added for the NCLEX — not in course materials (the study guide, p. 3, only introduces allocation)"
     },
     {
      "heading": "Common traps: models, delegation, and allocation",
@@ -1225,7 +1262,8 @@
         "Removing an unneeded catheter vs skipping needed care."
        ]
       ]
-     }
+     },
+     "source": "Added for the NCLEX — contrasts built from Module 46 study guide, pp. 3–4, 7"
     },
     {
      "heading": "How the NCLEX tests this",
@@ -1244,7 +1282,8 @@
       "A needs RN skin assessment. C is new teaching. D is a high-risk post-cath client.",
       "The answer is B, a routine ADL for a stable client.",
       "Strategy: assess, teach, evaluate = RN. New, just returned, unstable = RN."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials"
     },
     {
      "heading": "Worked case: team leader on a short night",
@@ -1267,7 +1306,8 @@
       "<b>Mr. C:</b> day 3 after knee replacement, stable.",
       "<b>Ms. D:</b> new colostomy; needs ostomy teaching.",
       "<b>Mr. E:</b> SpO2 fell from 95% to 89% in the last hour."
-     ]
+     ],
+     "source": "Added: worked example based on Module 46 study guide, pp. 3, 7"
     },
     {
      "heading": "North Carolina practice note",
@@ -1282,19 +1322,22 @@
       "<b>Just Culture:</b> NCBON’s Complaint Evaluation Tool sorts events into human error, at-risk behavior, and reckless behavior.",
       "Diversion, impairment, fraud, boundary or sexual misconduct, and confidentiality breaches go to the Board. NCBON offers alternative-to-discipline programs for substance use.",
       "NC is a Nurse Licensure Compact state; follow the law where the client is."
-     ]
+     ],
+     "source": "Added for the NCLEX — not in course materials (North Carolina law)"
     },
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "Module 46 study guide, outcomes 46.5 (functional, team, primary nursing), 46.6 (links to other nursing concepts), and 46.7 (allocation of resources and the nurse’s role); textbook pp. 2780–2782. Page 2782 was partly illegible; rationing definitions are on p. 2783.",
+      "Module 46 study guide, outcomes 46.5 (functional, team, primary nursing), 46.6 (links to other nursing concepts), and 46.7 (allocation of resources and the nurse’s role); study guide pp. 1, 3, 7–8 (textbook pp. 2780–2782). Textbook p. 2782 was partly blurred, and p. 2783 (rationing definitions) was not included in the course guide.",
       "Macro/microallocation, explicit/implicit rationing, and distributive justice are standard ethics content added to fill that gap.",
       "<b>Spending:</b> Your course guide says per-capita spending reached $10,739 (AMA, 2020). That matches CMS 2017 data; current CMS data exceed $14,000 per person (2023). On a course exam, expect $10,739; on the NCLEX, know hospital care is the largest share.",
       "In functional nursing, the charge nurse technically assigns tasks within scope and delegates to UAP.",
       "Total patient care and the five rights were added as standard NCLEX content.",
       "“Team nursing is the most frequently used model” is from the course; many hospitals blend it with total patient care.",
       "<b>Delegate vs assign:</b> Your course guide says the team leader “delegates” to RNs and LPNs. Current standard (NCSBN/ANA): work within a person’s scope is <em>assignment</em>. On a course exam, expect “delegates”; on the NCLEX, “assigns.” The leader stays accountable either way."
-     ]
+     ],
+     "source": "Module 46 study guide, pp. 1, 3, 7–8; course-vs-current notes added",
+     "keyIdea": "Know the course wording for course exams and the current standard for the NCLEX."
     }
    ],
    "mnemonics": [

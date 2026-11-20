@@ -8,7 +8,7 @@ import { Icon } from '../components/Icon';
 import { CaseLayout } from '../components/question/Exhibit';
 import { QuestionBody, QuestionMeta } from '../components/question/QuestionView';
 import { Feedback, Hints } from '../components/question/Support';
-import { Difficulty, Modal } from '../components/ui';
+import { Modal } from '../components/ui';
 import { statusOf, type QStatus } from '../lib/analytics';
 import { classify, isAnswered, scoreResponse } from '../lib/scoring';
 import { newItem } from '../lib/session';
@@ -134,16 +134,10 @@ export function Bank() {
                 exit={{ opacity: 0 }}
                 style={{ ['--mc' as string]: MODULE_BY_ID[x.moduleId]?.color }}
               >
-                <div className="row">
-                  <span className={cx('status-dot', st)} title={STATUS_LABEL[st]} />
-                  <span className="badge badge-ref">
-                    <Icon name="book" /> {x.ref}
-                  </span>
-                  <span className="badge">{FORMAT_SHORT[formatOf(x)]}</span>
-                  <span className="badge hide-sm">{x.cjmm}</span>
-                  <Difficulty level={x.difficulty} />
-                </div>
                 <p className="stem">{stripTags(x.stem)}</p>
+                <p className="bank-meta">
+                  <span className={cx('status-dot', st)} title={STATUS_LABEL[st]} /> {MODULE_BY_ID[x.moduleId] ? `Module ${MODULE_BY_ID[x.moduleId].number} · ${MODULE_BY_ID[x.moduleId].title}` : ''} · {topicTitle(x)} · {FORMAT_SHORT[formatOf(x)]}
+                </p>
               </motion.button>
             );
           })}

@@ -72,12 +72,13 @@
     {
      "heading": "What happens inside the body?",
      "keyIdea": "The first exposure sets the trap; a later exposure springs it, and mast cells flood the whole body with mediators.",
-     "body": "<p>Anaphylaxis usually needs <b>two exposures</b> to the same allergen. On the first exposure, the immune system mistakes the allergen for a threat. It makes matching antibodies called <b>IgE</b>, which attach to <b>mast cells</b>.</p><p>Now the client is <b>sensitized</b>. There are usually no symptoms yet. That is why a client may say, \"I took this drug before and I was fine.\"</p><p>On a later exposure, the mast cells burst open and release their mediators. These are the same mediators as normal inflammation, but in huge amounts, all over the body, within minutes.</p>",
+     "source": "Inflammation slides 12–13 (IgE and sensitization added for the NCLEX)",
+     "body": "<p>Anaphylaxis usually needs <b>two exposures</b> to the same allergen. On the first exposure, the immune system mistakes the allergen for a threat. It makes matching antibodies called <b>IgE</b>, which attach to <b>mast cells</b>.</p><p>Now the client is <b>sensitized</b>. There are usually no symptoms yet. That is why a client may say, \"I took this drug before and I was fine.\"</p><p>On a later exposure, the mast cells burst open and release their mediators. The slides call anaphylaxis an <b>overactivation</b> of the mediators of inflammation. These mediators come from <b>mast cells and macrophages</b>. They are the same ones as in normal inflammation, but in huge amounts, all over the body, within minutes.</p>",
      "steps": [
       "First exposure: the immune system makes IgE antibodies that match the allergen.",
       "The IgE attaches to mast cells. The client is now sensitized.",
       "Re-exposure: the allergen binds to the IgE on the mast cells.",
-      "Mast cells release histamine, leukotrienes, and other mediators.",
+      "Mast cells release histamine, leukotrienes, and other mediators. This is the overactivation the slides describe.",
       "Result: vasodilation (vessels widen, BP falls), capillary leak (throat swells, shock), and bronchoconstriction (wheezing)."
      ],
      "analogy": "Think of IgE on mast cells as mousetraps set during the first exposure. Nothing happens while the traps are set. The next time the 'mouse' walks in, every trap snaps at once, all over the body.",
@@ -89,9 +90,10 @@
     {
      "heading": "What can trigger it?",
      "keyIdea": "Ask about four trigger groups in every allergy history: foods, insect stings, medications, and latex.",
+     "source": "Inflammation slide 13",
      "body": "<p>Ask about all four groups, and write down the <b>type of reaction</b>. \"Rash\" and \"throat swelling\" mean very different risks.</p><p>Before any new drug, check the allergy list for the <b>same drug class</b>, not just the same name. If it matches a known trigger, hold it and clarify.</p>",
      "table": {
-      "caption": "Triggers of anaphylaxis (from the slides)",
+      "caption": "Triggers of anaphylaxis (slide groups; sting and latex examples added)",
       "headers": [
        "Trigger group",
        "Examples"
@@ -120,7 +122,8 @@
     {
      "heading": "How do you recognize anaphylaxis?",
      "keyIdea": "Suspect anaphylaxis when two or more body systems react suddenly after a likely trigger. Airway trouble or low BP alone is enough.",
-     "body": "<p>Anaphylaxis usually starts within <b>minutes</b> of exposure. The key rule: two or more body systems suddenly involved after a likely trigger means anaphylaxis.</p><p>Low blood pressure or airway trouble after an exposure is enough on its own. You do <b>not</b> need to see hives. Some clients never get skin signs.</p><p>The low BP comes from vessels widening and leaking all at once, not from blood loss.</p>",
+     "source": "Inflammation slide 13 (two-system rule added for the NCLEX)",
+     "body": "<p>The slides call anaphylaxis a <b>rapid, life-threatening</b> allergic reaction. It usually starts within <b>minutes</b> of exposure. The slides list its signs in four groups, shown in the table.</p><p>A standard clinical rule, not on the slides, helps you decide: two or more body systems suddenly involved after a likely trigger means anaphylaxis.</p><p>Low blood pressure or airway trouble after an exposure is enough on its own. You do <b>not</b> need to see hives. Some clients never get skin signs.</p><p>The low BP comes from vessels widening and leaking all at once, not from blood loss.</p>",
      "table": {
       "caption": "Signs of anaphylaxis by body system",
       "headers": [
@@ -160,6 +163,7 @@
     {
      "heading": "What does the nurse do first?",
      "keyIdea": "Stop the trigger, call for help, and give epinephrine IM in the thigh. Antihistamines and steroids never come first.",
+     "source": "Inflammation slide 13 (steps after epinephrine added for the NCLEX)",
      "body": "<p>The slides give the treatment: <b>immediate epinephrine</b>, plus <b>EMS activation</b> if outside the hospital. In the hospital, call the rapid response team instead.</p><p>Why epinephrine? It tightens vessels, which raises BP and reduces swelling. It also opens the airways. Antihistamines only ease itching and hives. They work slowly and do <b>not</b> open an airway or raise BP.</p><p>Why the thigh? The large outer thigh muscle absorbs the drug faster than a shot under the skin or into the arm.</p>",
      "steps": [
       "<b>Remove the trigger.</b> If a drug is infusing, stop it now. Keep the IV line open with normal saline. You will need it.",
@@ -179,12 +183,14 @@
     {
      "heading": "How do you know epinephrine is working?",
      "keyIdea": "Judge the response by blood pressure and breathing, not by the skin, and watch for a second wave hours later.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>After epinephrine, check <b>blood pressure</b> and <b>breathing</b> (SpO₂, work of breathing, stridor, wheezing). Improvement means BP rises, wheezing eases, and SpO₂ climbs. Fading hives alone do not prove the danger is over.</p><p>If symptoms continue, expect a <b>repeat dose in 5–15 minutes</b>. Do not wait an hour, and do not switch to an oral antihistamine.</p><p>Symptoms can <b>return hours later</b> without a new exposure. This is a <b>biphasic</b> reaction. Clients are observed, often at least 4–6 hours, longer after a severe reaction. Treat a second wave like the first.</p>",
      "example": "<b>At the bedside:</b> After epinephrine for a bee sting, a client breathes easily but feels lightheaded. BP is 88/54 mm Hg. The airway improved, but circulation is still poor. Keep the client <b>flat with legs raised</b>. Give oxygen and the prescribed IV fluid bolus, keep monitoring, and prepare a repeat dose. Offer a bedpan. Standing can cause collapse."
     },
     {
      "heading": "What if it happens outside the hospital?",
      "keyIdea": "In the community, the priorities are the same: get EMS coming and give the auto-injector fast.",
+     "source": "Inflammation slide 13 (auto-injector steps added for the NCLEX)",
      "body": "<p>At a school, a park, or a picnic, you have no rapid response team. So you call <b>911</b> and use the person's own <b>epinephrine auto-injector</b>. Do not wait for low BP, and do not give an antihistamine first.</p>",
      "steps": [
       "Have a bystander <b>call 911</b> while you check breathing.",
@@ -198,14 +204,15 @@
     {
      "heading": "What should the client learn before discharge?",
      "keyIdea": "The client's life depends on avoiding the trigger and using epinephrine fast, then calling 911, if it happens again.",
-     "body": "<p>Teaching covers two goals: <b>prevent</b> the next reaction, and <b>act fast</b> if one starts. A next reaction is not milder. It can be as bad or worse.</p>",
+     "source": "Inflammation slides 13, 17 (auto-injector teaching added for the NCLEX)",
+     "body": "<p>The slides say prevention means <b>avoiding triggers</b>. Teaching covers two goals: <b>prevent</b> the next reaction, and <b>act fast</b> if one starts. A next reaction is not milder. It can be as bad or worse.</p>",
      "bullets": [
       "<b>Avoid known triggers.</b> Read food labels. After a sting reaction, wear closed shoes outdoors and keep drinks covered at picnics. With latex allergy, tell every provider and use latex-free items.",
       "<b>Carry two epinephrine auto-injectors at all times</b>, all year. Keep them on your body at room temperature, not in a hot car.",
       "<b>Use epinephrine at the first sign of a serious reaction.</b> Then <b>call 911, even if you feel better</b>, because symptoms can return.",
       "<b>An antihistamine never replaces epinephrine.</b> Taking one and waiting delays life-saving care.",
       "<b>Wear a medical alert bracelet</b> and follow a <b>written anaphylaxis action plan</b>.",
-      "<b>See an allergist</b> for follow-up and testing."
+      "<b>See an allergist</b> for follow-up. The slides list <b>skin testing</b> to identify allergens, so the client knows what to avoid."
      ],
      "example": "<b>Teaching a parent:</b> A 7-year-old weighing 24 kg has a tree-nut allergy and a 0.15-mg auto-injector, a smaller dose based on weight. The parent says, \"If he has hives and keeps vomiting after nuts, I'll give an antihistamine and wait.\" The parent does not see that skin plus GI signs is anaphylaxis. The nurse re-teaches: give the epinephrine right away, then call 911.",
      "check": {
@@ -216,6 +223,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most wrong answers either delay epinephrine or let a hypotensive client get up.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>These pairs trip students up. Use the right column to sort them out.</p>",
      "table": {
       "caption": "Common traps in anaphylaxis",
@@ -250,6 +258,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect priority, first-action, and teaching questions where the right answer gives epinephrine fast and protects the airway.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "<b>First action</b> during an infusion reaction: stop the drug.",
@@ -271,6 +280,7 @@
     {
      "heading": "Worked case: reaction on the unit",
      "keyIdea": "Put the steps in order: stop, call, epinephrine, position, support, then reassess by BP and breathing.",
+     "source": "Added: worked example based on Inflammation slide 13",
      "example": "A 45-year-old is 8 minutes into a first dose of IV cefazolin. The client says, \"I feel weird, and my lips are tingling.\" You see flushed skin and swollen lips. You hear wheezing. BP is 86/52, HR 122, SpO₂ 91%.",
      "steps": [
       "<b>Notice and interpret:</b> a new drug minutes ago, plus lip swelling, wheezing, low BP, and fast HR. Skin, airway, and circulation are involved. This is anaphylaxis.",
@@ -397,7 +407,8 @@
     {
      "heading": "Where do you start? Look and ask",
      "keyIdea": "Start with what you see and the client's story; each interview question looks for a cause or a hidden risk.",
-     "body": "<p>First, <b>look</b>. Is the client flushed, sweaty, or shivering? Are there skin or eye changes, like redness, rash, or swelling? Is the client short of breath?</p><p>Watch for <b>pain behaviors</b>, such as guarding, grimacing, or holding a body part still. Then ask the questions below. Each one has a reason.</p>",
+     "source": "Inflammation slides 17–18",
+     "body": "<p>First, <b>look</b>. The slides list four things to look for: <b>fever</b>, <b>skin or eye changes</b>, <b>respiratory distress</b>, and <b>pain</b>. Is the client flushed, sweaty, or shivering? Is there redness, rash, or swelling? Is the client short of breath?</p><p>Watch for <b>pain behaviors</b>, such as guarding, grimacing, or holding a body part still. Then ask the questions below. Each one has a reason.</p>",
      "table": {
       "caption": "Interview questions from the slides and why you ask them",
       "headers": [
@@ -443,6 +454,7 @@
     {
      "heading": "What are the local signs?",
      "keyIdea": "Local signs sit at the site: swelling, tenderness, redness, heat, and loss of function. Measure them so the next nurse can compare.",
+     "source": "Inflammation slides 10, 18 (incision table added for the NCLEX)",
      "body": "<p>Local findings are found <b>at the site</b>: <b>edema</b> (swelling), <b>tenderness</b>, <b>redness</b>, <b>heat</b>, and <b>decreased function</b>, such as not being able to bend a knee.</p><p>Good technique turns a vague finding into a number the next nurse can compare.</p>",
      "bullets": [
       "<b>Measure</b> the red or swollen area. For cellulitis, <b>outline the red border with a skin marker</b> and write the date and time.",
@@ -476,6 +488,7 @@
     {
      "heading": "Has it spread? The systemic signs",
      "keyIdea": "Systemic signs mean the whole body is reacting: T above 38.5 °C or below 36 °C, HR above 90, RR above 20, WBC above 12,000.",
+     "source": "Inflammation slides 9, 18",
      "body": "<p>When mediators reach the bloodstream, the whole body reacts. The slides list the <b>systemic signs</b> in the table below.</p><p>Notice the word <b>above</b>. A value exactly at the cutoff, like an HR of 90, does not count. Also, a <b>low</b> temperature counts. This is easy to miss, especially in older adults.</p><p>Systemic findings mean the problem is no longer only local. <b>Report them promptly</b>, especially when new or worsening.</p>",
      "table": {
       "caption": "Systemic signs of inflammation (course slide cutoffs)",
@@ -520,6 +533,7 @@
     {
      "heading": "What does the WBC with differential tell you?",
      "keyIdea": "Always read the differential: more bands (a left shift) means an acute bacterial fight, even when the total WBC is normal.",
+     "source": "Inflammation slides 9, 18–19 (normal ranges and left shift added)",
      "body": "<p>White blood cells are the body's army. A normal total WBC is about <b>5,000–10,000/mm³</b>. The slides say this test is used to look for <b>infection</b>.</p><p>The <b>differential</b> tells you which soldiers are out. <b>Neutrophils</b> fight bacteria first (normal about 55–70%). <b>Bands</b> are young neutrophils (normal about 0–5%).</p><p>When a bacterial infection starts, the bone marrow sends out young cells early. So bands rise. This is a <b>left shift</b>.</p>",
      "bullets": [
       "High WBC + high neutrophils + high bands = <b>acute bacterial infection</b> (left shift).",
@@ -531,6 +545,7 @@
     {
      "heading": "What do ESR and CRP measure?",
      "keyIdea": "ESR and CRP show that inflammation is present, not where or why. CRP falls fast when treatment works; ESR lags behind.",
+     "source": "Inflammation slide 19 (CRP normal and timing added)",
      "body": "<p>Both tests are <b>nonspecific</b>. They show inflammation is present, but not where it is or what caused it. Their real value is in <b>trends</b>.</p><p><b>ESR</b> measures how fast red blood cells sink in a tube in one hour. Inflammation adds proteins that make red cells clump, and clumps sink faster. So a <b>higher ESR means active inflammation</b>. Read it against the client's sex.</p><p><b>CRP</b> is a protein <b>made by the liver</b>. The slides give three uses: it shows <b>inflammation</b>, it helps <b>monitor treatment</b>, and it is a <b>cardiac risk marker</b>. Ongoing low-grade inflammation is linked to heart disease.</p>",
      "table": {
       "caption": "ESR vs. CRP",
@@ -572,12 +587,14 @@
     {
      "heading": "What do other lab tests add?",
      "keyIdea": "Protein electrophoresis helps identify SLE; chemistry panels show whether inflammation is hurting the kidneys, liver, or muscles.",
+     "source": "Inflammation slide 19",
      "body": "<p><b>Serum protein electrophoresis</b> separates the proteins in the blood. In <b>SLE</b>, the slides note <b>increased gamma globulin</b> and <b>decreased albumin</b>.</p><p>Gamma globulins are antibodies, and in SLE the immune system makes too many. Albumin, made by the liver, often falls during chronic inflammation. SLE also typically has a <b>high ESR</b>.</p><p><b>Chemistry panels</b> show whether inflammation is affecting <b>organs</b>: the kidneys (such as creatinine), the liver (liver enzymes), and muscle (muscle enzymes).</p>",
      "example": "<b>At the bedside:</b> A 29-year-old woman with joint pain, fatigue, and a rash across her cheeks is being checked for SLE. Her ESR is 58 mm/hr (normal for women is 0–20). On protein electrophoresis, expect <b>increased gamma globulin and decreased albumin</b>."
     },
     {
      "heading": "Which screening tests are on the slides?",
      "keyIdea": "Skin testing finds allergens to avoid, and TSH screens for Hashimoto thyroiditis.",
+     "source": "Inflammation slide 17 (test-prep teaching added for the NCLEX)",
      "body": "<p><b>Skin testing</b> identifies allergens so the client can avoid them. <b>TSH</b> helps detect <b>Hashimoto thyroiditis</b>. A client with a family history of thyroid disease is a good candidate.</p><p><b>Antihistamines block the skin reaction</b> (the wheal) and can cause a <b>false-negative</b> result. A false negative means the test looks normal when the allergy is real. Clients usually stop antihistamines for several days before testing, as the allergist directs.</p><p>During testing, the client is exposed to allergens on purpose. So <b>epinephrine must be ready</b>. Airway signs during testing mean give it now.</p>",
      "check": {
       "q": "A client who takes cetirizine daily has skin-prick testing next week. What should the nurse teach?",
@@ -587,6 +604,7 @@
     {
      "heading": "How do you put it all together?",
      "keyIdea": "Find the site, check for spread, look at the trend, look for hidden signs, then act.",
+     "source": "Added for the NCLEX — not in course materials (applies Inflammation slides 18–19)",
      "body": "<p>Data only matter when you connect them. Use the same five steps every time.</p><p>Remember that <b>steroids, NSAIDs, and older age</b> can hide fever and redness. In these clients, small changes, like more pain or a slightly higher HR, may be the only clue.</p>",
      "steps": [
       "<b>Find the site.</b> What local signs are there, and how big is the area?",
@@ -600,6 +618,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most traps involve a normal-looking number that hides a real problem.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Use the right column to sort out these look-alikes.</p>",
      "table": {
       "caption": "Common traps in assessment and labs",
@@ -638,6 +657,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect questions that ask you to sort normal from abnormal, local from systemic, and improving from worsening.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "<b>Which client first?</b> Systemic beats local. Unstable beats stable and chronic.",
@@ -658,6 +678,7 @@
     {
      "heading": "Worked case: the post-op fever",
      "keyIdea": "Combine local findings, systemic cutoffs, and trends to decide what to report.",
+     "source": "Added: worked example based on Inflammation slides 18–19",
      "example": "On post-op day 3 after abdominal surgery, a 64-year-old takes prednisone for RA. The incision has slight swelling, no redness, and new cloudy drainage. T 37.8 °C, HR 104, RR 22. WBC 11,200 with 11% bands. CRP has risen since yesterday.",
      "steps": [
       "<b>Find the site:</b> the incision has new cloudy drainage. That needs follow-up.",
@@ -788,7 +809,8 @@
     {
      "heading": "How do anti-inflammatory drugs work?",
      "keyIdea": "Blocking prostaglandins calms swelling, pain, and fever, but also removes their protection of the stomach, kidneys, and clotting.",
-     "body": "<p>Prostaglandins are like a two-sided coin. In inflammation they cause harm. Elsewhere they protect. Most drugs here block both sides.</p><p>The slides list five drug groups. Each has a different job and a different risk.</p>",
+     "source": "Inflammation slide 22",
+     "body": "<p>The slides give the <b>goal</b>: decrease inflammation, pain, and fever. The <b>target</b> is to block prostaglandins. In inflammation, prostaglandins make vessels leaky, attract white blood cells, and cause pain and fever.</p><p>But prostaglandins are like a two-sided coin. Elsewhere they protect the body. Most drugs here block both sides.</p><p>The slides list five drug groups. Each has a different job and a different risk.</p>",
      "table": {
       "caption": "What prostaglandins do",
       "headers": [
@@ -821,6 +843,7 @@
     {
      "heading": "What must you know about aspirin?",
      "keyIdea": "Aspirin fights inflammation and thins the blood; never give it to a child or teen with a viral illness.",
+     "source": "Inflammation slide 22 (aspirin details added for the NCLEX)",
      "body": "<p>Aspirin reduces <b>inflammation, pain, and fever</b>. It also makes platelets less sticky, an <b>antiplatelet</b> effect. Because it blocks protective prostaglandins, it can irritate the stomach and cause <b>GI bleeding</b>.</p><p>Teach clients to take it with food. Hold it and check with the provider for clients on anticoagulants or with active ulcers. You judge that aspirin works for arthritis by <b>less pain and swelling</b>.</p>",
      "bullets": [
       "<b>Reye syndrome:</b> never give aspirin to children or teens with a viral illness such as influenza or chickenpox, even a teen who is adult-sized. It starts with vomiting, lethargy, and confusion, and can injure the brain and liver.",
@@ -836,6 +859,7 @@
     {
      "heading": "How is acetaminophen different?",
      "keyIdea": "Acetaminophen treats pain and fever but not swelling; it spares the stomach but can damage the liver.",
+     "source": "Inflammation slide 22 (acetaminophen details added for the NCLEX)",
      "body": "<p>Acetaminophen relieves <b>pain and fever</b>, but it has <b>very little anti-inflammatory effect</b>. It will not bring down swelling. Clients often confuse it with ibuprofen.</p><p>Its advantage: it does <b>not</b> irritate the stomach or cause GI bleeding. So choose it when the stomach must be protected and swelling is not the problem.</p><p>Its main danger is <b>liver damage</b>. Healthy adults take no more than 4 g/day, and many OTC labels now advise 3 g/day. The limit is lower with regular alcohol use or liver disease, as the provider directs. Teach clients to count the acetaminophen hidden in combination cold and pain products.</p>",
      "analogy": "Acetaminophen turns down the volume on a smoke alarm. The noise (pain and fever) gets quieter, but the fire (inflammation) keeps burning. NSAIDs and steroids actually spray water on the fire.",
      "check": {
@@ -846,6 +870,7 @@
     {
      "heading": "What are the risks of NSAIDs?",
      "keyIdea": "NSAIDs treat swelling, pain, and fever, but they can cause GI bleeding, kidney injury, bleeding, and heart problems.",
+     "source": "Inflammation slide 22 (NSAID risks added for the NCLEX)",
      "body": "<p>NSAIDs block the enzymes that make prostaglandins. They reduce <b>inflammation, pain, and fever</b>. That makes them a first choice for acute problems like a sprained ankle or tendinitis.</p><p>Because they also block the 'good' prostaglandins, their side effects are predictable. Use the <b>lowest effective dose for the shortest time</b>. Never take <b>two NSAIDs together</b>, such as ibuprofen plus OTC naproxen. That doubles the risk without extra benefit.</p>",
      "table": {
       "caption": "NSAID adverse effects and what to teach",
@@ -882,6 +907,7 @@
     {
      "heading": "When should you question an NSAID order?",
      "keyIdea": "Before the first dose, check for anticoagulants, kidney disease, ulcers or GI bleeding, heart disease, and dehydration in older adults.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Some clients should not get an NSAID unless the prescriber reconsiders. Before the first dose, <b>check the medication list and the problem list</b>.</p><p>If an older or dehydrated client on an NSAID has a rising creatinine or less urine, hold the drug and notify the provider.</p>",
      "table": {
       "caption": "NSAID: appropriate or question it?",
@@ -931,6 +957,7 @@
     {
      "heading": "What do corticosteroids do to the body?",
      "keyIdea": "Steroids are the strongest anti-inflammatories: sugar goes up, potassium goes down, bones thin, and infection hides.",
+     "source": "Inflammation slide 22 (adverse effects added for the NCLEX)",
      "body": "<p>Corticosteroids, like prednisone and methylprednisolone, are the <b>strongest</b> anti-inflammatory drugs. The slides list them as <b>prescription</b> drugs given <b>orally or parenterally for severe cases</b>. Examples include flares of RA, SLE, asthma, or ulcerative colitis.</p><p>They calm inflammation by <b>suppressing the immune response</b>. That power has a price. Long-term use affects almost every body system. Think \"too much cortisol.\"</p>",
      "table": {
       "caption": "Corticosteroid adverse effects",
@@ -978,6 +1005,7 @@
     {
      "heading": "What should clients on steroids learn?",
      "keyIdea": "Take steroids in the morning with food, never skip or stop them suddenly, and tell every provider about them.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Clients may want to stop steroids when they feel better or dislike the side effects. That is dangerous after long-term use.</p><p>Steroid pills make the adrenal glands \"go to sleep\" and stop making cortisol. If the pills stop suddenly, the body has no cortisol. This is <b>adrenal insufficiency</b>: weakness, dizziness, and low BP. Report these signs right away.</p>",
      "bullets": [
       "Take <b>in the morning with food</b>. This matches the body's natural cortisol rhythm and reduces sleep problems.",
@@ -995,12 +1023,14 @@
     {
      "heading": "Where do opioids fit?",
      "keyIdea": "Opioids treat severe pain, not inflammation, and good pain control lets the client breathe deeply and walk.",
+     "source": "Inflammation slides 22–23",
      "body": "<p>Opioids are for <b>severe pain</b>. The Comfort module covers them in detail. They do <b>not</b> treat inflammation itself.</p><p>After surgery for an inflammatory problem, pain control is part of healing. A client who hurts too much to breathe deeply or walk cannot use the incentive spirometer or get up. That raises the risk of complications.</p>",
      "example": "<b>At the bedside:</b> After a cholecystectomy, a client rates pain 7/10 and takes shallow breaths. \"It hurts too much to breathe deeply or get up.\" The last IV morphine was hours ago. First, check that the respiratory rate and sedation level are safe. Then <b>give the prescribed PRN morphine</b>. Coach the spirometer and walking once it works."
     },
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Match each drug to what it treats and to the one danger it is famous for.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Use the right column to sort out these look-alikes.</p>",
      "table": {
       "caption": "Common traps in anti-inflammatory drugs",
@@ -1043,6 +1073,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect questions on side effects to report, orders to question, and teaching statements that show understanding.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "<b>Which finding to report?</b> Black stools, tinnitus, weakness and low BP after stopping steroids.",
@@ -1063,6 +1094,7 @@
     {
      "heading": "Worked case: pain pills and a bleed",
      "keyIdea": "Connect the drug, its blocked prostaglandin job, and the client's symptoms to decide what to do first.",
+     "source": "Added: worked example based on Inflammation slide 22",
      "example": "A 68-year-old with knee arthritis takes ibuprofen 800 mg three times daily and recently started warfarin for atrial fibrillation. The client reports dizziness when standing and dark, tarry stools. BP is 104/62 lying and 88/54 standing. Hemoglobin has dropped since last week.",
      "steps": [
       "<b>Notice the cues:</b> NSAID plus anticoagulant, tarry stools, orthostatic BP drop, falling hemoglobin.",
@@ -1201,6 +1233,7 @@
     {
      "heading": "How do you reduce swelling and pain?",
      "keyIdea": "Elevate, ice, and rest the part: less fluid flows in, more drains out, and movement stops making it worse.",
+     "source": "Inflammation slide 20 (ice technique added)",
      "body": "<p>The slides say to <b>reduce edema and movement</b> by <b>elevating, icing, and positioning</b>. Each one works for a clear reason.</p><p>Judge whether your care worked by <b>measuring the swelling and asking about pain</b>. Doing the steps is not the same as getting results.</p>",
      "bullets": [
       "<b>Elevate</b> the part above the heart. Gravity helps fluid drain back, so swelling goes down.",
@@ -1219,6 +1252,7 @@
     {
      "heading": "Ice or heat: which one, when?",
      "keyIdea": "Ice for new, acute swelling; heat later, or for chronic stiffness without redness or warmth.",
+     "source": "Inflammation slide 20 (ice-vs-heat timing added for the NCLEX)",
      "body": "<p>Ice narrows vessels and heat widens them. So the choice depends on whether you want <b>less</b> blood flow (fresh swelling) or <b>more</b> (stiffness).</p>",
      "table": {
       "caption": "Ice or heat?",
@@ -1254,6 +1288,7 @@
     {
      "heading": "How do you support healing?",
      "keyIdea": "Repair needs raw materials: fluids, protein, carbohydrates, and vitamins, especially vitamin C.",
+     "source": "Inflammation slides 11, 20 (fever care added)",
      "body": "<p>Building new tissue takes supplies. The slides list <b>adequate fluids, protein, carbohydrates, and vitamins, especially vitamin C</b>.</p><p>Fever care is part of this. Give the prescribed antipyretic, replace fluids, keep the client dry, and recheck the temperature. Avoid heavy blankets, and avoid ice packs that cause shivering. Shivering makes more heat.</p>",
      "bullets": [
       "<b>Protein</b> builds new tissue and white blood cells. Encourage lean protein at every meal unless the provider restricts it.",
@@ -1267,6 +1302,7 @@
     {
      "heading": "What do you teach and delegate?",
      "keyIdea": "Teach medications, nutrition, wound care, and activity limits; delegate tasks, but keep assessing, teaching, and evaluating.",
+     "source": "Inflammation slide 20 (delegation added for the NCLEX)",
      "body": "<p>The slides list four teaching topics: <b>medications</b>, <b>nutrition and hydration</b>, <b>wound and dressing care</b>, and <b>activity limits until cleared</b> by the provider.</p><p><b>Comfort and coping</b> include heat or ice as fits, positioning, and emotional support. Recovery from chronic inflammation can be long and frustrating. Listen and encourage.</p>",
      "bullets": [
       "<b>Antibiotics:</b> finish the full course, even when feeling better.",
@@ -1281,6 +1317,7 @@
     {
      "heading": "How do you help prevent inflammation?",
      "keyIdea": "Prevention means avoiding triggers, washing hands, and changing the risks the client can control.",
+     "source": "Inflammation slides 16–17",
      "body": "<p>The slides say <b>prevention = avoiding triggers</b>. For allergies, limit <b>dust, pollen, and animal dander</b>. For <b>Crohn's disease</b> and <b>peptic ulcer disease</b>, avoid food and drink triggers. For ulcers, NSAIDs are a trigger too.</p><p><b>Hand hygiene</b> is the key to preventing infection, a common cause of inflammation. Screening includes <b>skin testing</b> for allergens and a <b>TSH</b> test for Hashimoto thyroiditis, especially with a family history of thyroid disease.</p>",
      "table": {
       "caption": "Risk factors for inflammation",
@@ -1313,8 +1350,8 @@
      },
      "bullets": [
       "<b>Avoid the Western diet:</b> fast food, sugar, and low fiber.",
-      "<b>Choose an anti-inflammatory diet:</b> fruits, vegetables, fish, whole grains, olive oil, and omega-3 fats.",
-      "The slides also mention omega-6 fats. They are needed in small amounts, but Western diets have too many. The goal is more omega-3s compared with omega-6s."
+      "<b>Choose an anti-inflammatory diet:</b> fruits, vegetables, fish, whole grains, olive oil, and omega-3 and omega-6 fats (the slide list).",
+      "Current note: omega-6 fats are needed in small amounts, but Western diets already have too many. The goal is more omega-3s compared with omega-6s."
      ],
      "check": {
       "q": "Which are modifiable: smoking, obesity, family history of RA, a fast-food diet, advancing age?",
@@ -1324,6 +1361,7 @@
     {
      "heading": "Who else helps with chronic inflammation?",
      "keyIdea": "Chronic inflammation needs a team: the dietitian, the physical therapist, and complementary approaches.",
+     "source": "Inflammation slide 21",
      "body": "<p>The slides note that <b>acute inflammation</b> may clear on its own or may need a hospital stay. <b>Chronic inflammation</b> is linked to <b>aging and obesity</b> and usually needs a team.</p><p>Weakness and lost mobility after inflammation call for a <b>physical therapy referral</b>.</p>",
      "table": {
       "caption": "Team members and complementary approaches",
@@ -1351,6 +1389,7 @@
     {
      "heading": "What does the nurse do before surgery?",
      "keyIdea": "Rest the inflamed organ with NPO, give fluids and pain medicine, and watch closely for worsening systemic signs.",
+     "source": "Inflammation slide 23 (pre-op care details added for the NCLEX)",
      "body": "<p>Sometimes the inflamed organ must come out. The slides give two examples: <b>ulcerative colitis → colectomy</b> and <b>cholecystitis (gallbladder inflammation) → cholecystectomy</b>. Appendicitis follows the same idea. The nurse gives <b>pre- and postoperative care and teaching</b>.</p>",
      "bullets": [
       "<b>Rest the organ:</b> keep the client <b>NPO</b> as ordered and explain why. In cholecystitis, eating makes the gallbladder contract, which adds pain and inflammation. NPO also prepares for anesthesia.",
@@ -1368,6 +1407,7 @@
     {
      "heading": "What happens after surgery?",
      "keyIdea": "Control pain first so the client can breathe deeply and walk, then judge recovery by labs and the wound separately.",
+     "source": "Inflammation slides 19–20, 23 (post-op details added)",
      "body": "<p>After surgery, the goals are comfort, preventing complications, and getting moving. <b>Treat pain first</b> when it blocks recovery. Then coach the incentive spirometer and walking. Advance the diet as ordered.</p><p>Then <b>evaluate</b>. Progress means a <b>falling CRP</b>, normal vital signs and WBC, and a clean incision. Judge each separately. Labs can improve while a <b>wound infection</b> starts.</p>",
      "bullets": [
       "Finish antibiotics, and taper steroids as prescribed.",
@@ -1380,6 +1420,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Most traps flip the timing (ice vs. heat) or the role (UAP vs. RN).",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Use the right column to sort out these look-alikes.</p>",
      "table": {
       "caption": "Common traps in nursing interventions",
@@ -1422,6 +1463,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect questions on which intervention fits, what to delegate, and what to report right now.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "<b>Select all that apply</b> for healing: protein, vitamin C, fluids are right. Protein restriction and heat on a fresh incision are wrong.",
@@ -1442,6 +1484,7 @@
     {
      "heading": "Worked case: the sprained ankle",
      "keyIdea": "Use RICE, check circulation, delegate wisely, and evaluate by measuring.",
+     "source": "Added: worked example based on Inflammation slide 20",
      "example": "A 19-year-old athlete arrives 1 hour after rolling an ankle. It is swollen, warm, and tender. Pedal pulse is strong, toes are pink, and capillary refill is under 3 seconds. Pain is 6/10.",
      "steps": [
       "<b>Notice:</b> a fresh injury with local signs only. Circulation is intact.",
@@ -1577,7 +1620,8 @@
     {
      "heading": "Why are children's airways at higher risk?",
      "keyIdea": "A little swelling can close a child's small airway, so a hoarse cry or stridor is an emergency.",
-     "body": "<p>Inflammation causes swelling. In an adult, a little throat swelling may cause hoarseness. In a small child, the same swelling can close the airway.</p><p>The slides give three reasons for the child's <b>higher risk of obstruction</b>. The child has a <b>large tongue</b> and a <b>narrow trachea</b>. The <b>lymph tissue</b> (tonsils and adenoids) is large and swells when inflamed.</p><p>The lungs differ too. Children have <b>fewer and smaller alveoli</b> and <b>less elastic recoil</b>. This raises the risk of <b>lung collapse and respiratory failure</b> in illnesses like pneumonia. In an infant, grunting, retractions, and a very fast RR outrank fever or poor feeding.</p>",
+     "source": "Inflammation slide 24 (airway emergency actions added)",
+     "body": "<p>Inflammation causes swelling. In an adult, a little throat swelling may cause hoarseness. In a small child, the same swelling can close the airway.</p><p>The slides give three reasons for the child's <b>higher risk of obstruction</b>. The child has a <b>large tongue</b> and a <b>narrow trachea</b>. The <b>lymph tissue</b> (tonsils and adenoids) is <b>prominent</b> and swells when inflamed.</p><p>The lungs differ too. Children have <b>fewer and smaller alveoli</b> and <b>less elastic recoil</b>. This raises the risk of <b>lung collapse and respiratory failure</b> in illnesses like pneumonia. In an infant, grunting, retractions, and a very fast RR outrank fever or poor feeding.</p>",
      "bullets": [
       "Drooling, a muffled voice, or stridor = airway threat. Keep the child calm and upright.",
       "Call for help. Do not look in the throat, which can trigger a full blockage."
@@ -1588,7 +1632,8 @@
     {
      "heading": "Why do children dry out faster?",
      "keyIdea": "A child's small fluid tank and immature kidneys mean losses hit hard; act on mental status, capillary refill, and diapers.",
-     "body": "<p>Children lose fluid through fever, fast breathing, vomiting, and diarrhea, like adults. But the losses hit harder. A child's <b>total fluid volume is smaller</b>, so a cup of fluid is a bigger share. The <b>kidneys are immature</b> and cannot save water as well.</p><p>The slides say children have a <b>weak SNS response</b> and that <b>tachycardia is a late sign</b> of hypovolemia. Standard pediatric references and the NCLEX teach it differently. In children, <b>tachycardia is usually an early sign</b> and <b>hypotension is a late sign</b>. Children keep BP normal until they are close to collapse.</p><p>Use the standard rule on exams, and check how your instructor frames it. The safe takeaway is the same: <b>do not wait for vital signs to change</b> before acting.</p>",
+     "source": "Inflammation slide 24 (standard pediatric rule added for the NCLEX)",
+     "body": "<p>Children lose fluid through fever, fast breathing, vomiting, and diarrhea, like adults. But the losses hit harder. A child's <b>total fluid volume is smaller</b>, so a cup of fluid is a bigger share. The <b>kidneys are immature</b>, so they control fluid balance poorly.</p><p>The slides say children have a <b>weak SNS response</b> and that <b>tachycardia is a late sign</b> of hypovolemia. Standard pediatric references and the NCLEX teach it differently. In children, <b>tachycardia is usually an early sign</b> and <b>hypotension is a late sign</b>. Children keep BP normal until they are close to collapse.</p><p>Use the standard rule on exams, and check how your instructor frames it. The safe takeaway is the same: <b>do not wait for vital signs to change</b> before acting.</p>",
      "steps": [
       "Count <b>wet diapers</b> or voids and track intake and output. Urine output is an early, easy measure.",
       "Check <b>mental status</b>: alert and playful, or lethargic and hard to wake?",
@@ -1605,7 +1650,8 @@
     {
      "heading": "How do children's gut and immunity differ?",
      "keyIdea": "Children's inflammation builds fast and strong, and gut inflammation can steal the nutrients they need to grow.",
-     "body": "<p><b>Gut:</b> inflammation of the gut <b>decreases absorption</b> of nutrients. That can affect a child's <b>growth, weight, and strength</b>. A child with Crohn's disease may fall below the expected height for age.</p><p><b>Immune system:</b> children have <b>more pro-inflammatory mediators</b> and <b>less ability to dampen</b> (turn down) inflammation. So inflammation can build quickly and strongly.</p>",
+     "source": "Inflammation slide 24 (growth care added)",
+     "body": "<p><b>Gut:</b> the slides note <b>decreased absorption</b> of nutrients in children. That affects a child's <b>growth, weight, and strength</b>. Gut inflammation makes it worse. A child with Crohn's disease may fall below the expected height for age.</p><p><b>Immune system:</b> children have <b>more pro-inflammatory mediators</b> and <b>less ability to dampen</b> (turn down) inflammation. So inflammation can build quickly and strongly.</p>",
      "bullets": [
       "Plot height and weight on a <b>growth chart</b> at each visit.",
       "Refer to a <b>dietitian</b> for high-calorie, nutrient-dense meals. Never encourage skipping meals.",
@@ -1616,6 +1662,7 @@
     {
      "heading": "How do you care for a sick child?",
      "keyIdea": "Dose by weight, prepare with play, choose gentle tests, track output, and never give aspirin.",
+     "source": "Inflammation slide 24 (dosing and aspirin points added)",
      "body": "<p>The slides list care approaches for children: <b>child life support</b>, <b>play therapy</b>, and <b>noninvasive imaging</b> when it will answer the question. An ultrasound is one example.</p><p>For a feverish child with a viral illness, use weight-based acetaminophen, small frequent fluids, and output tracking. Never aspirin.</p>",
      "bullets": [
       "Calculate every drug dose by <b>weight in kilograms</b>. Clarify any dose that does not match.",
@@ -1631,6 +1678,7 @@
     {
      "heading": "How does pregnancy change inflammation?",
      "keyIdea": "Pregnancy turns the immune system down to protect the baby, and preeclampsia is an inflammation-driven high blood pressure disorder.",
+     "source": "Inflammation slide 25 (warning signs added)",
      "body": "<p>During pregnancy, the immune system is <b>dampened</b> so it does not attack the fetus. The fetus is genetically half 'foreign.' The slides list three effects below.</p><p>In preeclampsia, report a <b>severe headache</b>, <b>vision changes</b>, or severe-range BP right away. These signal the disorder is becoming severe.</p>",
      "bullets": [
       "<b>Hypersensitivity to nonpathogenic stimuli:</b> overreacting to harmless things, such as new allergy-type symptoms.",
@@ -1643,12 +1691,14 @@
     {
      "heading": "What is 'inflammaging' in older adults?",
      "keyIdea": "Older adults, especially frail ones, carry more low-grade inflammation, and diet plus strength training can improve it.",
+     "source": "Inflammation slide 26",
      "body": "<p>As people age, low-grade inflammation becomes more common. The slides note that <b>higher inflammatory markers (CRP, IL-6, TNF-α)</b> are common in older adults. They are <b>higher in frail</b> than non-frail adults.</p><p>These higher markers are linked to <b>more illness, more chronic conditions, and more hospital stays</b>.</p><p>The good news: the slides say this <b>can improve with diet and resistance training</b>. An anti-inflammatory diet plus strength exercise can lower markers and build reserve. Add dietitian and physical therapy referrals, and good control of conditions like diabetes.</p>",
      "example": "<b>At the bedside:</b> A 78-year-old with obesity, type 2 diabetes, and frailty has a high CRP but no acute illness. What helps? A dietitian-guided anti-inflammatory diet, resistance training with physical therapy, and diabetes control."
     },
     {
      "heading": "How does infection look in older adults?",
      "keyIdea": "In older adults, infection often shows up as new confusion or a small rise from baseline, not a high fever.",
+     "source": "Inflammation slide 18 (older-adult signs added for the NCLEX)",
      "body": "<p>Older adults often have a <b>blunted (weaker) fever response</b>. Their baseline temperature may be below 37 °C. Infection may cause little or no fever, or even a <b>low</b> temperature. Remember, below 36 °C is a systemic sign on the slides.</p><p>Instead, early signs are often subtle: <b>new confusion</b>, falls, weakness, poor appetite, or a small temperature rise above the client's own baseline.</p><p>Still treat ABC problems, like low oxygen, first. Judge recovery by the return of the sign that changed first, often mental status.</p>",
      "steps": [
       "Know the client's <b>baseline</b> temperature, mental status, and function.",
@@ -1665,6 +1715,7 @@
     {
      "heading": "Common traps: look-alikes to tell apart",
      "keyIdea": "Normal-looking vital signs can hide a very sick child or older adult.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Use the right column to sort out these look-alikes.</p>",
      "table": {
       "caption": "Common traps across the lifespan",
@@ -1707,6 +1758,7 @@
     {
      "heading": "How the NCLEX tests this",
      "keyIdea": "Expect priority questions where age changes the meaning of a finding.",
+     "source": "Added for the NCLEX — not in course materials",
      "body": "<p>Common question patterns:</p>",
      "bullets": [
       "<b>Which child first?</b> Airway signs or poor perfusion beat fever or poor feeding.",
@@ -1727,6 +1779,7 @@
     {
      "heading": "Worked case: a toddler with vomiting",
      "keyIdea": "In a young child, act on behavior, refill, and diapers before the BP falls.",
+     "source": "Added: worked example based on Inflammation slide 24",
      "example": "A 2-year-old has had fever and vomiting for a day. The parent says, \"He's just sleepy.\" T 38.8 °C, HR 150, BP 94/56, capillary refill 3–4 seconds, dry lips, and one wet diaper in 10 hours.",
      "steps": [
       "<b>Notice:</b> sleepiness, slow capillary refill, dry lips, and very few wet diapers.",
