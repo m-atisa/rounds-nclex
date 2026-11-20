@@ -172,6 +172,131 @@ window.NURSE_DATA.push({
       "front": "On what basis should a nurse allocate a scarce resource such as one sitter or ICU bed?",
       "back": "Clinical need, acuity, risk of harm, and likely benefit—never insurance, status, or personal characteristics.",
       "topic": "delivery-models-resources"
+    },
+    {
+      "front": "Define healthcare systems.",
+      "back": "The methods of delivering and managing care, including financing and coordination of services. They include all the people, institutions, and resources that give care locally, statewide, nationally, and internationally.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "How does the WHO (1986) define health promotion, and why does it matter?",
+      "back": "The process of enabling people to increase control over and improve their health. It improves quality of life and lowers healthcare costs by preventing disease instead of treating illness.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Define resiliency.",
+      "back": "The ability to withstand change or trauma with minimal long-term negative effects. Communities build it by improving access to support for children at risk for ACEs.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Define social determinants of health (SDOH).",
+      "back": "The conditions in which people live, learn, work, and play that affect their health, functioning, and quality-of-life outcomes and risks. Healthy People 2030 sorts them into five domains.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Define health literacy. What share of U.S. adults have intermediate vs basic/below-basic skills?",
+      "back": "The capacity to obtain, communicate, process, and understand basic health information and services to make good decisions. NCES: about 53% intermediate; about 36% basic or below basic.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "What harms does low health literacy cause, and what does a health-literate organization do?",
+      "back": "Medication errors, missed preventive care, more hospital stays, and higher mortality. Health-literate organizations improve spoken communication, use patient portals, and treat clients and caregivers as partners.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "How common are ACEs, and what do they raise the risk of?",
+      "back": "Course: about 1 in 6 children (current CDC: about 64% of adults report at least one; about 1 in 6 report four or more). ACEs raise adult risk of chronic disease, mental illness, STIs, and suicide.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Key U.S. demographic numbers for 2030 and 2060?",
+      "back": "By 2060, older and more racially/ethnically diverse; adults 85+ more than triple (6 million to 19 million). By 2030, nearly half of adults with obesity and about 25% severe obesity.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Name the technology advances that affect healthcare delivery.",
+      "back": "EHRs, medication barcoding, evidence-based clinical guidelines, laparoscopic surgery (shorter stays), and telemedicine (specialist access for rural and remote areas).",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Give the four tertiary-prevention referrals from Table 46.1.",
+      "back": "New urostomy to an RN ostomy specialist; diabetes to a registered dietitian for complications; chronic or severe pain to a pain specialist; poor mobility to PT/rehab to prevent falls. Palliative care is also tertiary.",
+      "topic": "prevention-settings"
+    },
+    {
+      "front": "Define managed care.",
+      "back": "A delivery model designed to give cost-effective, high-quality care and better outcomes for groups of clients across settings. Main types: HMO (restrictive, gatekeeper) and PPO (less restrictive, higher out-of-pocket cost).",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "What is the gatekeeper in managed care?",
+      "back": "The primary care provider. Primary care is the entry point, and in an HMO the gatekeeper must refer the client to specialists.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "Whom do Medicare and Medicaid cover?",
+      "back": "Medicare: adults 65+ or people with qualifying disabilities or diseases. Medicaid: low-income people, some people with disabilities, and older adults needing services Medicare lacks, such as nursing home care.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "What is a sliding fee scale, and who uses it?",
+      "back": "Charges based on income. Local health departments and community health centers use it to give primary and preventive care regardless of ability to pay.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "Why did U.S. uninsured rates start rising again after the ACA?",
+      "back": "Repeal of the individual mandate (penalty cut to $0), more non-ACA plans excluding preexisting conditions, eligibility rules for noncitizens, and lower Medicaid enrollment.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "Why does a usual source of care matter, and how many lack one?",
+      "back": "Over 40 million Americans lack one. Having one improves trust, communication, and preventive care (especially for children) and lowers costs.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "Perceptions of need vs uneven distribution of services?",
+      "back": "Perception of need: the client misjudges urgency (delays care or overuses the ED). Uneven distribution: services are far away or scarce, such as an obstetrician 100 miles away in a rural area.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "List the six principles of a patient-centered medical home (Box 46.2).",
+      "back": "Personal provider; provider-directed practice team; whole-person orientation; coordinated/integrated care; quality and safety (EBP, decision support, measurement); enhanced access and supportive payment.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "What are AHRQ’s five core features of a medical home?",
+      "back": "Patient-centered, comprehensive, coordinated, accessible, and committed to quality and safety.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "Why did the Navajo Nation have the highest per-capita COVID-19 rate?",
+      "back": "No running water, high rates of diabetes and hypertension, food deserts, and little internet for telehealth. COVID-19 exposed health disparities.",
+      "topic": "care-models-access"
+    },
+    {
+      "front": "Define unlicensed assistive personnel (UAP).",
+      "back": "Unlicensed (possibly certified) helpers who assist clients with ADLs and basic care, such as feeding, bathing, and walking, under the direction and delegation of licensed nurses.",
+      "topic": "delivery-models-resources"
+    },
+    {
+      "front": "What does the associate nurse do in primary nursing?",
+      "back": "Follows the primary nurse’s care plan when the primary nurse is off shift, delegates tasks to UAP as appropriate, and reports needed changes.",
+      "topic": "delivery-models-resources"
+    },
+    {
+      "front": "Define defensive medicine.",
+      "back": "Ordering tests mainly to avoid lawsuits rather than because the client needs them. It is one driver of rising healthcare costs.",
+      "topic": "delivery-models-resources"
+    },
+    {
+      "front": "What U.S. per-capita spending figure does the course cite, and what is the largest share?",
+      "back": "$10,739 (AMA, 2020; this matches CMS 2017 data—recent CMS data exceed $14,000). Hospital care is the largest share.",
+      "topic": "delivery-models-resources"
+    },
+    {
+      "front": "Which nursing concepts does the course link to healthcare systems?",
+      "back": "Accountability, advocacy, ethics, evidence-based practice, health policy, informatics, legal issues, quality improvement, and safety.",
+      "topic": "delivery-models-resources"
     }
   ],
   "questions": [

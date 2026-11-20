@@ -2921,6 +2921,142 @@ window.NURSE_DATA.push({
       "focus": "Nursing Interventions",
       "difficulty": 2,
       "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m44-x1-085",
+      "topic": "values-codes",
+      "type": "mcq",
+      "stem": "A medical unit installs bedside video cameras so a central monitor technician can watch clients at high risk for falls. A nurse notices the cameras stay on while clients are bathed and toileted. Which action by the nurse best reflects the profession’s code of ethics?",
+      "options": [
+        "Accept the camera use because it lowers the fall rate on the unit.",
+        "Raise the concern with the nurse manager so the system can protect privacy and dignity.",
+        "Cover each camera with a towel during care without telling the monitor technician.",
+        "Tell clients who object to ask for a room without a camera installed."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A safety benefit does not cancel the duty to make sure technology respects dignity and privacy.",
+        "Correct. The ICN Code asks nurses to make sure technology use is compatible with client safety and dignity, and concerns go through proper channels so the system can be fixed.",
+        "Incorrect. Blocking a monitor without telling staff creates a fall risk and bypasses the chain of command.",
+        "Incorrect. This shifts the burden to clients and leaves others exposed."
+      ],
+      "priority": false,
+      "rationale": "Under the “nurses and practice” element of the ICN Code, nurses make sure that the use of technology is compatible with client safety, dignity, and rights. Video monitoring may prevent falls, but recording clients during bathing and toileting threatens human dignity and privacy. The nurse raises the issue with the nurse manager so the system can be changed, such as privacy modes during care. Accepting the cameras because they work is tempting, but outcomes do not override dignity. Secretly covering cameras creates a new safety risk.",
+      "takeaway": "Technology must keep clients safe and protect their dignity; raise concerns through proper channels.",
+      "hintContent": "Think about which code element covers how nurses use technology in care.",
+      "hintStrategy": "Choose the option that protects both safety and dignity through the chain of command, not a secret workaround.",
+      "ref": "Module 44 · Ethics · Values & Codes · pp. 2729–2733",
+      "alsoTests": [
+        "ethical-principles"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m44-x1-086",
+      "topic": "ethical-principles",
+      "type": "sata",
+      "stem": "A 49-year-old client is in the emergency department for the sixth time with a severe migraine and a blood pressure of 210/104 mm Hg. She never filled her prescribed antihypertensive. Before beginning discharge teaching, which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Assess the client’s health literacy.",
+        "Ask what the client believes about hypertension and blood pressure drugs.",
+        "Ask what makes it hard for her to fill the prescription or keep appointments.",
+        "Start by explaining that she will have a stroke if she keeps refusing the drug.",
+        "Plan to include the client, her primary provider, and outpatient support in discharge planning.",
+        "Teach her adult daughter instead, since the client has not followed the plan."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Health literacy shapes how teaching must be delivered.",
+        "Correct. Her beliefs about the illness and drug explain her choices.",
+        "Correct. Barriers such as fear of missing work are often fixable.",
+        "Incorrect. A threat before assessment is paternalistic and does not address why she has not taken the drug.",
+        "Correct. Discharge planning must include the client, her primary provider, and outpatient support.",
+        "Incorrect. The alert client with capacity is the main learner; bypassing her violates autonomy."
+      ],
+      "rationale": "This client’s autonomy (choosing not to take a daily pill) conflicts with beneficence (preventing hypertensive crisis and stroke). Before teaching, the nurse assesses health literacy, beliefs about hypertension and medications, and barriers to adherence. Asking about barriers often uncovers a fixable social or economic cause, such as fear of missing work. Discharge planning includes the client, her primary provider, and outpatient support. Warning about stroke first is tempting because it is true, but without assessment it is paternalistic and unlikely to change behavior.",
+      "takeaway": "Assess literacy, beliefs, and barriers before teaching a client who has not followed a plan.",
+      "hintContent": "Teaching works only after the nurse knows why the client made her choice.",
+      "hintStrategy": "In SATA teaching items, select assessment and collaborative planning steps; eliminate threats and bypassing the client.",
+      "ref": "Module 44 · Ethics · Ethical Principles · pp. 2732–2737",
+      "alsoTests": [
+        "values-codes"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m44-x1-087",
+      "topic": "ethical-principles",
+      "type": "mcq",
+      "stem": "At 1900, a provider writes a discharge order for a client with a new gastrostomy tube because the unit needs the bed. The client says, “I still can’t set up the feeding pump, and my wife works nights.” Which action should the nurse take first?",
+      "options": [
+        "Discharge the client as ordered and give him the unit phone number.",
+        "Explain to the client that the hospital must free the bed tonight.",
+        "Keep the client on the unit overnight on the nurse’s own authority.",
+        "Tell the provider the client cannot yet safely manage his feedings at home."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A phone number does not fix an unsafe gap in self-care skills.",
+        "Incorrect. This puts the facility’s need ahead of the client’s safety.",
+        "Incorrect. The nurse cannot cancel a discharge order alone; she advocates through the provider.",
+        "Correct. The nurse’s first duty is to the client, so she advocates by reporting the unmet learning need to the provider."
+      ],
+      "priority": true,
+      "rationale": "A nurse owes duties to the client, the provider, the employing facility, and her own values, but ANA Provision 2 makes the client her primary commitment. She first considers what best meets the client’s needs. Here the client cannot yet manage his tube feedings and has no help at night, so the nurse advocates by telling the provider about the unmet teaching need. Discharging with a phone number is tempting because it follows the order, but it ignores a real safety risk. Keeping the client without an order oversteps the nurse’s authority.",
+      "takeaway": "When duties compete, the client’s needs come first; advocate through the provider.",
+      "hintContent": "Ask whose needs come first when the facility, the provider, and the client pull in different directions.",
+      "hintStrategy": "For first-action items, pick advocacy through the proper channel over following or ignoring the order.",
+      "ref": "Module 44 · Ethics · Ethical Principles · pp. 2732–2737",
+      "alsoTests": [
+        "values-codes"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m44-x1-088",
+      "topic": "morality",
+      "type": "mcq",
+      "stem": "A nurse in her first year of practice tells a colleague she feels torn because a client’s family keeps asking her to keep a cancer diagnosis from the client. She has not slept well for days. What should the new nurse do first?",
+      "options": [
+        "Handle the family on her own so she builds confidence.",
+        "Do what the family asks, since they know the client best.",
+        "Ask an experienced mentor for advice about the situation.",
+        "Wait to call the ethics committee until it becomes a dispute."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Working through ethical stress alone feeds moral distress and burnout.",
+        "Incorrect. Hiding the diagnosis violates veracity and the client’s right to informed consent.",
+        "Correct. Less experienced nurses meet dilemmas more often, and advice from a mentor or experienced peer leads to better solutions.",
+        "Incorrect. Ethics committees are also a support resource for routine questions, not only for major disputes."
+      ],
+      "priority": true,
+      "rationale": "Evidence cited in the course shows that less experienced nurses face ethical dilemmas more often and that seeking advice from a mentor or experienced peer leads to effective solutions. Lack of support leads to moral distress and burnout, and this nurse already shows signs of strain. Research also supports using the ethics committee for routine guidance and reassurance, not only for big conflicts. Handling it alone is tempting because it sounds independent, but it isolates the nurse. Agreeing with the family violates veracity.",
+      "takeaway": "New nurses facing ethical conflict should seek a mentor early and use the ethics committee as a routine support.",
+      "hintContent": "Think about what the evidence says helps less experienced nurses with ethical problems.",
+      "hintStrategy": "Eliminate options that isolate the nurse or deceive the client; choose the support-seeking action.",
+      "ref": "Module 44 · Ethics · Morality (Exemplar 44.A) · pp. 2736–2739",
+      "alsoTests": [
+        "ethical-principles"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
     }
   ]
 });

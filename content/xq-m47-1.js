@@ -2450,6 +2450,108 @@ window.NURSE_DATA.push({
           }
         ]
       }
+    },
+    {
+      "id": "m47-x1-070",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "A 54-year-old client with type 2 diabetes and hypertension recently gained Medicaid coverage. For years he has gone to the emergency department only when he felt very sick. His HbA1c today is 9.8%. Which action by the clinic nurse is most important to improve his long-term outcomes?",
+      "options": [
+        "Help him choose a primary care provider and book a follow-up visit",
+        "Give him a list of nearby urgent care centers for future problems",
+        "Tell him the emergency department is now free for him to use",
+        "Advise him to seek care only when symptoms become severe"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A regular primary care provider gives the continuity that chronic illness needs, and insured clients use primary care more often.",
+        "Incorrect. Urgent care treats episodes but does not provide ongoing chronic disease management.",
+        "Incorrect. Coverage does not make the emergency department the right setting for ongoing diabetes and blood pressure care.",
+        "Incorrect. Waiting for severe symptoms allows complications to progress and repeats the pattern that led to poor control."
+      ],
+      "rationale": "Access to care is closely tied to insurability. When people gain coverage, they use primary care more often, which improves continuity of care for chronic conditions such as diabetes and hypertension. His high HbA1c shows his conditions need regular follow-up, medication review, and teaching, which a primary care provider gives. Urgent care is tempting because it is convenient, but it treats single episodes and does not manage chronic disease over time.",
+      "takeaway": "New coverage helps most when the nurse links the client to a regular primary care provider for chronic care.",
+      "hintContent": "Think about which setting provides ongoing management for chronic conditions.",
+      "hintStrategy": "For access questions, choose the option that creates continuity of care, not one-time episodic care.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2797–2798",
+      "alsoTests": [
+        "healthcare-financing"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m47-x1-071",
+      "topic": "policy-process",
+      "type": "sata",
+      "stem": "A staff nurse joins a quality improvement team at a Joint Commission–accredited hospital that wants to lower its rate of pressure injuries. Which actions show appropriate nurse involvement in quality improvement? Select all that apply.",
+      "options": [
+        "Compare the unit’s pressure injury rate with an AHRQ quality indicator",
+        "Help collect skin assessment data on the unit each week",
+        "Test one small change, such as a turning schedule, with a PDSA cycle",
+        "Change the unit’s skin care procedure on her own without approval",
+        "Leave the project to managers because QI is not a staff nurse role",
+        "Bring current research on pressure injury prevention to the team"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. AHRQ, within DHHS, develops quality indicators that hospitals use to track safety and meet safety goals.",
+        "Correct. Frontline data collection is a core part of unit-level QI.",
+        "Correct. A Plan-Do-Study-Act cycle tests a change on a small scale before wider use.",
+        "Incorrect. Changing a procedure without approval bypasses proper channels and may create unsafe variation.",
+        "Incorrect. Nurses are expected to take part in unit and organizational QI projects.",
+        "Correct. Policy translates evidence into practice, and nurses help by bringing current research to the team."
+      ],
+      "rationale": "Health policy advances science and turns evidence into practice. The Agency for Healthcare Research and Quality (AHRQ), part of DHHS, develops tools, data, and knowledge to improve safety and quality. Joint Commission–accredited hospitals use AHRQ quality indicators to meet safety goals, and nurses must engage in unit-level and organizational QI. Good involvement includes measuring, collecting data, testing small changes, and bringing evidence. Changing a procedure alone is tempting when the evidence is clear, but changes must go through the team and approval process.",
+      "takeaway": "Nurses take part in QI by measuring, collecting data, testing changes, and bringing evidence through proper channels.",
+      "hintContent": "Recall which federal agency builds quality indicators and what nurses do in QI projects.",
+      "hintStrategy": "In QI items, select actions that use data and evidence within the team process and reject solo changes or opting out.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2797–2798",
+      "alsoTests": [
+        "agencies-accreditation"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x1-072",
+      "topic": "policy-process",
+      "type": "mcq",
+      "stem": "An RN who is relocating to another state asks the nurse educator where to find that state’s rules on delegating tasks to assistive personnel and on continuing education for license renewal. Which response by the educator is accurate?",
+      "options": [
+        "“Your new employer’s handbook sets these rules, so the hospital decides them.”",
+        "“Federal law sets one national standard, so your current rules still apply.”",
+        "“Your specialty association writes the binding rules, so check its website.”",
+        "“That state’s board of nursing writes regulations that detail its practice act.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Employer policy may be stricter than state rules but cannot replace them.",
+        "Incorrect. The Constitution leaves regulation of professions to the states, so rules differ by state.",
+        "Incorrect. Association standards guide practice but are not legally binding.",
+        "Correct. State boards of nursing write regulations that amplify the practice act, covering safe practice, delegation, and continuing education."
+      ],
+      "rationale": "The U.S. Constitution gives states the authority to govern professions such as nursing. In each state, an executive agency, the board of nursing or an umbrella board, enforces the nurse practice act and writes regulations that add detail on safe and competent practice, delegation, and continuing education. Nurses are legally accountable for knowing the scope of practice in the state where they practice, and violations can put the license at risk. The employer handbook is tempting because it is close at hand, but facility policy cannot replace state law.",
+      "takeaway": "Each state’s board of nursing writes the regulations on delegation and continuing education; know them before you practice there.",
+      "hintContent": "Recall who has legal authority over nursing practice and who writes the detailed rules.",
+      "hintStrategy": "Rank the sources by legal force: state law and board regulations outrank employer policy and association guidance.",
+      "ref": "Module 47 · Health Policy · Policy, Law & Regulation · pp. 2797–2798",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
     }
   ]
 });

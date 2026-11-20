@@ -30,7 +30,11 @@
    "keyTerms": [
     {
      "term": "Evidence-based practice (EBP)",
-     "def": "Making care decisions by blending the best current evidence, the nurse’s clinical expertise, and the client’s preferences and values."
+     "def": "A problem-solving blend of research and evidence with nursing experience. At the bedside: best current evidence, the nurse’s clinical expertise, and the client’s preferences and values."
+    },
+    {
+     "term": "Evidence-based nursing",
+     "def": "Clinical decision making that blends three parts (Figure 45.1): the best evidence from current research, the nurse’s clinical expertise, and the patient’s preferences (values, needs, interests, and choices)."
     },
     {
      "term": "Research",
@@ -46,7 +50,7 @@
     },
     {
      "term": "Evidence-based medicine (EBM)",
-     "def": "Careful, open, and wise use of the best current evidence plus clinical expertise to decide each patient’s care (Sackett and colleagues, 1990s)."
+     "def": "Using the current best outside (external) evidence plus clinical expertise to make conscientious (careful), explicit (open), and judicious (wise) care decisions. Sackett and colleagues, 1990s."
     },
     {
      "term": "Translational research",
@@ -58,7 +62,7 @@
     },
     {
      "term": "The Future of Nursing (IOM, 2011)",
-     "def": "Report urging changes in nursing education and practice to improve safety, quality, and outcomes, including through EBP and QI."
+     "def": "Report urging changes in nursing education for better safety, quality, and outcomes through care coordination, health promotion, quality improvement, and EBP."
     },
     {
      "term": "Patient-care champion (change agent)",
@@ -97,7 +101,7 @@
     {
      "heading": "What is evidence-based practice?",
      "keyIdea": "EBP is one decision built from three parts: the best evidence, your clinical judgment, and the client’s preferences.",
-     "body": "<p>EBP is a way of making decisions, not one fact to memorize. Each decision uses the three inputs below at the same time.</p><p>Why all three? Research is done on groups, but your client is one person. Evidence says what usually works. Your assessment says if this client fits. The client says if the plan is acceptable.</p><p>Four words get mixed up. <b>Research</b> is the process. <b>Evidence</b> is the product. <b>Experience</b> is the nurse’s growing judgment. <b>EBP</b> is the blend.</p>",
+     "body": "<p>EBP is a way of making decisions, not one fact to memorize. Each decision uses the three inputs below at the same time.</p><p>Why all three? Research is done on groups, but your client is one person. Evidence says what usually works. Your assessment says if this client fits. The client says if the plan is acceptable.</p><p>Four words get mixed up. <b>Research</b> is the process. <b>Evidence</b> is the product. <b>Experience</b> is the nurse’s growing judgment. <b>EBP</b> is the blend.</p><p>Your course guide uses two linked terms. <b>Evidence-based practice</b> is the problem-solving blend of research and evidence with nursing experience. <b>Evidence-based nursing</b> (Figure 45.1) names the three parts you use for each decision. They are the best evidence from the most current research, your clinical expertise, and the patient’s preferences. Preferences reflect the client’s values, needs, interests, and choices.</p>",
      "bullets": [
       "<b>Best evidence:</b> What has been shown to work, for whom, and how well?",
       "<b>Clinical expertise:</b> What do my assessment and experience tell me about this client right now?",
@@ -112,7 +116,7 @@
     {
      "heading": "Where did EBP come from?",
      "keyIdea": "EBP grew from Nightingale’s data, Cochrane’s call for trials, Sackett’s definition, and two national IOM reports.",
-     "body": "<p><b>Florence Nightingale</b> (1850s) was the first nurse theorist and the first nurse to use evidence. In Crimean War hospitals, soldiers in dirty, airless wards died at high rates. She added light, fresh air, hygiene, better food, and cleanliness. Infections dropped and more soldiers lived. Her method, shown below, is still the EBP method.</p><p><b>Archie Cochrane</b> urged randomized controlled trials (RCTs). An RCT randomly puts people in a treatment or control group. The table shows who did what.</p>",
+     "body": "<p><b>Florence Nightingale</b> (1850s) was the first nurse theorist and the first nurse to use evidence. In Crimean War hospitals, soldiers in dirty, airless wards died at high rates. She added light, fresh air (ventilation), hygiene, better food, and cleanliness. Infections dropped and more soldiers lived. Her method, shown below, is still the EBP method.</p><p><b>Archie Cochrane</b> criticized how little research backed medical treatments. He urged randomized controlled trials (RCTs). An RCT randomly puts people in a treatment or control group. <b>David Sackett</b> and other clinical epidemiologists then defined evidence-based medicine. The table shows who did what.</p><p>Your course guide dates Cochrane’s work to 1971 and says Sackett coined the term “evidence-based medicine.” Most histories date Cochrane’s book to 1972 and credit the term to Gordon Guyatt (1991). Sackett gave the best-known definition. On a course exam, expect 1971 and Sackett. The NCLEX does not test these dates.</p>",
      "steps": [
       "Make observations (many deaths in dirty wards).",
       "Collect data (death records).",
@@ -132,27 +136,27 @@
        [
         "Florence Nightingale",
         "1850s",
-        "Used observation and death data to prove sanitation saves lives"
+        "Crimean War: used observation and death data to prove sanitation saves lives. First nurse theorist and EBP pioneer."
        ],
        [
         "Archie Cochrane",
-        "Early 1970s",
-        "Championed RCTs; inspired the Cochrane Collaboration of systematic reviews"
+        "1971 (course date)",
+        "Criticized care with no research behind it; championed RCTs; inspired the international Cochrane Collaboration"
        ],
        [
-        "David Sackett and colleagues",
+        "David Sackett and clinical epidemiologists",
         "1990s",
-        "Defined evidence-based medicine: best evidence plus clinical expertise"
+        "Named and defined evidence-based medicine: best external evidence plus clinical expertise, used in a conscientious, explicit, and judicious way"
        ],
        [
         "IOM: Crossing the Quality Chasm",
         "2001",
-        "Care caused preventable harm; urged EBP to reduce variation"
+        "Care had gaps that caused preventable harm; urged EBP to reduce inappropriate variation and standardize safe, quality care"
        ],
        [
-        "IOM: The Future of Nursing",
+        "IOM: The Future of Nursing: Leading Change, Advancing Health",
         "2011",
-        "Nursing education and practice changes, including EBP and QI"
+        "Changes in nursing education for safety, quality, and outcomes through care coordination, health promotion, QI, and EBP"
        ]
       ]
      },
@@ -166,7 +170,7 @@
      "keyIdea": "Translational research moves findings from bench to bedside, but the average lag is 17 years.",
      "body": "<p><b>Translational research</b> turns research findings into real care: “bench to bedside.” The National Institutes of Health (NIH) supports it through the Clinical and Translational Science Awards (CTSA) Consortium.</p><p>New evidence takes about <b>17 years</b>, on average, to become routine care. During that wait, clients get less effective care. Nurses may lack time or skill to read research. Policies and training take time. And tradition is strong: “We’ve always done it that way.”</p><p>Any change must improve care <em>without weakening safety or quality</em>. So it is piloted and measured, not forced overnight.</p>",
      "bullets": [
-      "<b>Tradition:</b> share the evidence and use respected peers as champions.",
+      "Tradition: share the evidence, work as a team, and use change agents and respected peers as patient-care champions.",
       "<b>No time, skill, or resources:</b> staff education, journal clubs, and early leader support.",
       "<b>Fear it is unsafe:</b> pilot on one unit and track outcomes.",
       "<b>Surprised clients:</b> teach clients what to expect and why."
@@ -180,36 +184,43 @@
     {
      "heading": "How does EBP link to other concepts?",
      "keyIdea": "The standard of care is built from evidence, so it changes when the evidence changes.",
-     "body": "<p>EBP touches almost every professional concept, as the table shows.</p><p>Watch the legal link closely. Courts and boards judge a nurse against the <b>standard of care</b>. That standard is built from clinical knowledge, expert opinion, and research. When evidence changes, the standard changes too. Using a retired practice that harms a client can be malpractice.</p><p>Health teaching is another link. Daily habits like sleep shape future health, so nurses teach self-care backed by evidence.</p>",
+     "body": "<p>EBP touches almost every professional concept, as the table shows.</p><p>Watch the legal link closely. Courts and boards judge a nurse against the <b>standard of care</b>. That standard is built from clinical knowledge, expert opinion, and research. When evidence changes, the standard changes too. Using a retired practice that harms a client can be malpractice.</p><p>Health teaching is another link. Daily habits like sleep, hygiene, and exercise shape future health, so nurses teach self-care backed by evidence.</p>",
      "table": {
       "headers": [
        "Concept",
-       "Link to EBP and what the nurse does"
+       "Link to EBP",
+       "What it means for the nurse"
       ],
       "rows": [
        [
         "Accountability",
-        "Give the best, most current care; standards reflect EBP."
+        "Best-practice standards, responsibility, and scope of practice reflect EBP.",
+        "You are responsible for giving the best, most current care."
        ],
        [
         "Clinical decision making",
-        "EBP supports judgment in every phase of the care plan."
+        "EBP gives scientific support to clinical thinking, decisions, and judgment.",
+        "As a problem solver, you rely on current best practice in every part of the care plan."
        ],
        [
         "Health, wellness, and illness",
-        "Teach evidence-based self-care habits, like sleep and exercise."
+        "Daily habits (sleep, hygiene, exercise) shape present and future health.",
+        "Teach evidence-based self-care that promotes health and lowers illness and injury risk."
        ],
        [
         "Legal issues",
-        "Research forms standards; care below them can be malpractice."
+        "Clinical knowledge, expert opinion, and research form professional standards.",
+        "Conduct that strays from professional standards is malpractice."
        ],
        [
         "Professional behaviors",
-        "A credible profession blends evidence, experience, and preference."
+        "A credible profession has a duty to use EBP.",
+        "Blend best evidence with your experience and the client’s preferences."
        ],
        [
         "Quality improvement",
-        "Keep improving the why, when, and what of care."
+        "Improving care is a continuous process that uses current evidence.",
+        "Keep improving the why, when, and what of care. This changes how care is delivered."
        ]
       ]
      },
@@ -226,7 +237,7 @@
     {
      "heading": "How do client choices shape the plan?",
      "keyIdea": "The client is the third leg: respect informed choices, culture, and cost while still sharing the evidence.",
-     "body": "<p>Health beliefs, culture, spirituality, and traditions shape what clients accept. An adult who can make decisions may agree to treatment, refuse it, seek a second opinion, or make advance directives.</p><p>Respecting a refusal is not a failure of EBP. It <em>is</em> EBP. Make sure the choice is informed, then offer options the client will accept.</p><p><b>Integrative health</b> adds complementary therapies to regular care. In one study of nearly 500 clients with breast or gynecologic cancer, it improved appetite, fatigue, anxiety, pain, sleep, and overall well-being.</p>",
+     "body": "<p>Health beliefs, culture, spirituality, and traditions shape what clients accept. An adult who can make decisions may agree to treatment, such as supplemental oxygen. They may refuse treatment, such as a blood transfusion. They may also seek a second opinion or make advance directives.</p><p>Respecting a refusal is not a failure of EBP. It <em>is</em> EBP. Make sure the choice is informed, then offer options the client will accept.</p><p>Cost matters too. Ask if the intervention is available and what payment or reimbursement rules apply. Then advocate for cost-conscious, high-value care.</p><p><b>Integrative health</b> combines complementary approaches, such as mindfulness or acupuncture, with conventional care. It stresses interprofessional teamwork and whole-person (holistic) care. In one study of nearly 500 clients with breast or gynecologic cancer, it improved appetite, fatigue, anxiety, pain, sleep, and global health.</p>",
      "table": {
       "headers": [
        "Client situation",
@@ -391,8 +402,8 @@
      "bullets": [
       "Source: Module 45 study guide, Evidence-Based Practice, outcomes 45.1–45.2, key terms and Sections 2–3, pp. 2759–2761 (Box 45.1 and Focus on Integrative Health).",
       "COPD oxygen: the source says give oxygen at SpO2 88% or less with frequent blood gases. Current guidance (such as GOLD) adds titrating to about 88–92%, or the ordered target, in clients at risk for CO2 retention. Never withhold oxygen from a hypoxemic client.",
-      "Cochrane’s key book came out in 1972 (the source says 1971).",
-      "“Evidence-based medicine” is usually credited to Gordon Guyatt of McMaster (1991); Sackett’s widely cited definition came in 1996.",
+      "Cochrane date: your course guide says 1971. His key book came out in 1972. On a course exam, expect 1971.",
+      "Who named EBM: your course guide says Sackett coined “evidence-based medicine.” Most histories credit Gordon Guyatt of McMaster (1991); Sackett gave the widely cited definition (1996). On a course exam, expect Sackett.",
       "The IOM is now the National Academy of Medicine (since 2015). The Future of Nursing 2020–2030 (2021) focuses on health equity."
      ]
     }
@@ -481,11 +492,15 @@
     },
     {
      "term": "Quantitative research",
-     "def": "Research that collects numbers through precise measurement and analyzes them with statistics."
+     "def": "Research that collects numbers through precise measurement and analyzes them with statistics, to summarize and describe findings or to test relationships among variables."
     },
     {
      "term": "Qualitative research",
      "def": "Research that collects words, such as interviews or stories, to explore people’s experiences and find patterns and themes."
+    },
+    {
+     "term": "Research participants",
+     "def": "Volunteers for a study who meet all the inclusion criteria, have been told about every part of the study, and have given informed consent."
     },
     {
      "term": "Inclusion criteria",
@@ -540,7 +555,7 @@
     {
      "heading": "What is nursing research, and who pays?",
      "keyIdea": "Nursing research uses the scientific method: ask a question, collect data, form a hypothesis, test it, and share the conclusion.",
-     "body": "<p><b>Nursing research</b> uses a strict, step-by-step process to study nursing questions in practice, education, and administration. A study of nurse staffing is nursing research. <b>Nursing clinical research</b> focuses on client care, such as comparing two wound dressings.</p><p>Every study follows the <b>scientific method</b> (Box 45.2), shown in the steps below. Order matters. A hypothesis before any data is a guess. A conclusion without a study is an opinion.</p><p>Research costs money. Grants come from groups like those listed below.</p>",
+     "body": "<p><b>Nursing research</b> uses a strict, step-by-step process to study nursing questions in practice, education, and administration. A study of nurse staffing is nursing research. <b>Nursing clinical research</b> focuses on client care, such as comparing two wound dressings.</p><p>Every study follows the <b>scientific method</b> (Box 45.2), shown in the steps below. Order matters. A hypothesis before any data is a guess. A conclusion without a study is an opinion.</p><p>Research costs money. Grants come from professional chapters and from national and government groups, like those listed below.</p>",
      "steps": [
       "Ask a question: Why do more clients here get heel injuries than on the next unit?",
       "Collect data: review skin checks, beds, and turning schedules.",
@@ -664,7 +679,7 @@
     {
      "heading": "Belmont principles and privacy",
      "keyIdea": "Respect for persons protects choice, beneficence protects from harm, justice protects fairness, and HIPAA protects health information.",
-     "body": "<p>The <b>Belmont Report</b> (1979) came after research abuses such as the Tuskegee syphilis study. The NCLEX will describe a situation and expect you to name the right at risk. The table shows the three principles.</p><p>The <b>HIPAA Privacy Rule</b> protects identifiable health information in research too. Use only the information needed, and store it securely.</p><p>Two privacy words get confused. <b>Confidentiality</b> means researchers know who you are but will not tell. <b>Anonymity</b> means no one can tell who you are, like an unsigned survey with no codes. A study that collects names can promise confidentiality, but not anonymity.</p>",
+     "body": "<p>The <b>Belmont Report</b> (1979) came after research abuses such as the Tuskegee syphilis study. The NCLEX will describe a situation and expect you to name the right at risk. The table shows the three principles.</p><p>Respect for persons gives extra protection to people with limited (diminished) autonomy. Autonomy can be limited by disability, illness, restricted liberty (such as prison), or immaturity (such as childhood).</p><p>Your course guide places strict confidentiality and anonymity under <b>justice</b>. In the original report, justice means fair selection and fair sharing of risks and benefits. Privacy is protected by respect for persons and by federal rules like HIPAA. On a course exam, expect privacy under justice. On the NCLEX, justice items test fair selection.</p><p>The <b>HIPAA Privacy Rule</b> sets national standards that protect private health information in research too. Use only the information needed, and store it securely.</p><p>Two privacy words get confused. <b>Confidentiality</b> means researchers know who you are but will not tell. <b>Anonymity</b> means no one can tell who you are, like an unsigned survey with no codes. A study that collects names can promise confidentiality, but not anonymity.</p>",
      "table": {
       "headers": [
        "Principle",
@@ -674,17 +689,17 @@
       "rows": [
        [
         "Respect for persons",
-        "Free, informed choice; right to withdraw; extra protection for people with limited autonomy",
+        "Autonomy: voluntary choice with no coercion, full disclosure, and the right to withdraw. Extra protection for people with limited autonomy.",
         "Telling a client their care will suffer if they leave the study"
        ],
        [
         "Beneficence",
-        "Protection from physical, psychological, and economic harm and exploitation; benefit to others",
+        "Protection from physical injury, psychological harm, economic loss, and exploitation; the study is done to benefit others",
         "Continuing a study drug after a serious adverse effect"
        ],
        [
         "Justice",
-        "Fair selection and fair treatment; as taught in nursing, also confidentiality and anonymity",
+        "Fair treatment of all participants. Your course also lists strict confidentiality and anonymity here.",
         "Recruiting only free-clinic clients for a risky trial because they are easy to enroll"
        ]
       ]
@@ -806,7 +821,7 @@
      "heading": "Course source & clinical clarification",
      "bullets": [
       "Source: Module 45 study guide, Evidence-Based Practice, outcome 45.3, key terms and Section 4, pp. 2762–2763 (Box 45.2, Belmont, vulnerable groups, IRBs, HIPAA, profession criteria, standards).",
-      "Belmont justice: the source puts confidentiality and anonymity under justice. In the original report, justice means fair selection and fair sharing of burdens and benefits; privacy falls under respect for persons and federal rules. Questions test fair selection.",
+      "Belmont justice: your course guide puts strict confidentiality and anonymity under justice. In the original report, justice means fair selection and fair sharing of burdens and benefits; privacy falls under respect for persons and federal rules. On a course exam, expect privacy under justice; NCLEX justice items test fair selection.",
       "Vulnerable groups: federal rules also protect pregnant women, so this was added. Children need parent permission plus their own assent when able.",
       "Consent roles: the source does not say who obtains research consent. This guide teaches the standard rule: the investigator obtains it; the nurse verifies and advocates."
      ]
@@ -975,22 +990,22 @@
       "rows": [
        [
         "Therapy",
-        "Which treatment does more good than harm?",
+        "Which treatment does more good than harm and leads to the best outcomes?",
         "RCTs and meta-analyses"
        ],
        [
         "Diagnosis",
-        "How accurate, safe, and cost-effective is a test?",
+        "Which test should be chosen, how is it read, and how accurate, safe, and cost-effective is it?",
         "Studies comparing the test to a reference standard"
        ],
        [
         "Etiology",
-        "What causes a condition or raises risk?",
+        "What causes a condition or disease?",
         "Cohort and case-control studies"
        ],
        [
         "Prognosis",
-        "What is the likely course over time?",
+        "What is the likely course over time, and what complications may occur?",
         "Cohort studies"
        ]
       ]
@@ -998,7 +1013,8 @@
      "check": {
       "q": "“What is the normal aPTT range for a heparin drip?” Background or foreground?",
       "a": "Background. It asks for a general fact, answered by a drug reference or protocol."
-     }
+     },
+     "example": "Background questions: “Who is at risk for hypoglycemia?” and “What are the side effects of a specific diuretic?” Foreground questions: “How does using an incentive spirometer, or not using one, affect a surgical client’s length of stay?” and “How does a cooling blanket compare with antipyretic medicine for a client with a high temperature?”"
     },
     {
      "heading": "How do you write a PICOT question?",
@@ -1007,33 +1023,33 @@
      "table": {
       "headers": [
        "Part",
-       "Ask yourself",
+       "What it covers",
        "Example"
       ],
       "rows": [
        [
-        "P: Population or problem",
-        "Who are the clients?",
+        "P: Population or problem of interest",
+        "Shared traits of the client group: age, gender, health problem",
         "Adults after abdominal surgery"
        ],
        [
-        "I: Intervention",
-        "What am I trying?",
+        "I: Intervention (or prognostic factor or exposure)",
+        "What will be done: a treatment, medicine, therapy, or new care routine",
         "Incentive spirometer 10 times an hour while awake"
        ],
        [
         "C: Comparison",
-        "Compared with what?",
+        "The control or main alternative: standard care, placebo, no intervention, or a different intervention",
         "Deep breathing and coughing without a spirometer"
        ],
        [
         "O: Outcome",
-        "What measurable result?",
+        "The desired, measurable effect, such as symptom relief, fewer procedural errors, or higher satisfaction",
         "Fewer pneumonias, shorter stay"
        ],
        [
-        "T: Time frame",
-        "Over what period?",
+        "T: Time frame (optional)",
+        "How long the study runs, or the time to reach or measure the outcome, such as 12 hours, 4 weeks, or 6 months",
         "During the hospital stay"
        ]
       ]
@@ -1053,7 +1069,7 @@
       "PubMed/MEDLINE: biomedical research",
       "Cochrane Database: systematic reviews",
       "EBSCO tools such as DynaMed and PsycINFO",
-      "ScienceDirect, AHRQ, Evidence-Based Nursing (BMJ), and the Fuld Institute for EBP"
+      "ScienceDirect (Elsevier), AHRQ, Evidence-Based Nursing (BMJ), and the Fuld Institute for EBP"
      ],
      "table": {
       "headers": [
@@ -1071,7 +1087,7 @@
        ],
        [
         "3. Introduction",
-        "The question and earlier research"
+        "The question or focus, plus older research on the same hypothesis"
        ],
        [
         "4. Methods",
@@ -1083,11 +1099,11 @@
        ],
        [
         "6. Conclusion",
-        "What the results mean for the hypothesis"
+        "Interprets the results against the hypothesis and evaluates the findings"
        ],
        [
         "7. References",
-        "Sources for more reading"
+        "Resources for more information"
        ]
       ]
      },
@@ -1109,7 +1125,7 @@
     {
      "heading": "How strong is the evidence?",
      "keyIdea": "Large RCTs and meta-analyses sit at the top, opinions sit at the bottom, and the PEP stoplight turns evidence into go, caution, or stop.",
-     "body": "<p>The hierarchy (Figure 45.3) ranks evidence from weakest to strongest, as the table shows. RCTs rank high because random assignment spreads hidden differences evenly. So a difference in outcome can be credited to the treatment. A meta-analysis pools many studies, which adds confidence.</p><p>Some designs only observe. A <b>cohort study</b> follows exposed and unexposed groups forward. A <b>case-control study</b> starts with people who have a condition and looks back for causes. Both suit etiology and prognosis but cannot prove cause like an RCT. A <b>case study</b> describes one person or event.</p><p>The Oncology Nursing Society’s Putting Evidence into Practice (PEP) uses a stoplight, listed below.</p>",
+     "body": "<p>The hierarchy (Figure 45.3) ranks evidence from weakest to strongest, as the table shows. RCTs rank high because random assignment spreads hidden differences evenly. The control group gets no intervention, and the experimental group gets it. So a difference in outcome can be credited to the treatment. A meta-analysis combines many studies and analyzes them as one large study.</p><p>Some designs only observe. A <b>cohort study</b> is longitudinal: it follows an exposed group and an unexposed group forward over time. A <b>case-control study</b> compares people with and without a condition to find predictive factors (variables). Both suit etiology and prognosis but cannot prove cause like an RCT. A <b>case study</b> describes one person, issue, or event.</p><p>The Oncology Nursing Society’s Putting Evidence into Practice (PEP) uses a stoplight, listed below.</p>",
      "table": {
       "headers": [
        "Rank",
@@ -1174,7 +1190,7 @@
       "Check fidelity: is it being done the way the evidence describes?",
       "Measure intended outcomes and watch for unexpected ones.",
       "Decide: accept, reject, or modify, based on the data.",
-      "Share results on the unit, or at conferences and in journals."
+      "Share results informally on the unit or in the agency, or formally at national conferences and in professional nursing journals."
      ],
      "table": {
       "headers": [
@@ -1185,18 +1201,18 @@
       "rows": [
        [
         "Scope",
-        "Questions about the nurse’s own clients",
-        "Division- or hospital-wide protocols and policies"
+        "Specific questions about the clients assigned to this nurse",
+        "Division- or hospital-wide protocols, policies, and procedures that affect large groups of clients"
        ],
        [
         "Approval",
-        "Nurse adjusts own routines within scope and policy",
-        "Leadership approval, interprofessional committee, stakeholder buy-in, policy revision"
+        "Nurse evaluates and adjusts own routines, within scope and facility policy",
+        "Leadership approval, interprofessional committee, stakeholder buy-in, formal policy and procedure revision"
        ],
        [
         "Rollout",
-        "Right away, at the bedside",
-        "Champions, continuing education, pilot tests, quality and safety audits"
+        "Right away, at the bedside, to improve outcomes such as shorter stays or higher satisfaction",
+        "Staff champions, continuing education, pilot tests, ongoing quality and safety audits"
        ]
       ]
      },
@@ -1291,6 +1307,21 @@
      }
     },
     {
+     "heading": "Worked case: Brent Calloway’s simulation project",
+     "keyIdea": "An EBP project applies existing evidence to a local problem; the right team makes the change relevant, accepted, and lasting.",
+     "body": "<p>Brent Calloway is a nurse educator. New medical-surgical nurses are making procedural errors, such as IV pump mistakes. Studies already show that simulation-based competency training reduces these errors. Brent wants to bring that training to his units. Follow his project in four parts.</p>",
+     "steps": [
+      "Part 1, the question: “In new med-surg nurses (P), does simulation-based competency training (I) compared with lectures (C) reduce procedural errors (O) over 6 months (T)?” This is a therapy question.",
+      "Part 2, research or EBP project? A peer asks if Brent is doing a research study. He is not. Research creates new knowledge that applies widely (generalizable knowledge), using strict controls. Brent is translating existing best evidence into practice to fix one unit problem. That is an EBP project.",
+      "Part 3, the team: a vice president (leadership), staff development educators, frontline med-surg nurses, a nurse manager, and a quality improvement specialist. Why: frontline nurses keep it clinically relevant and win unit buy-in. Leaders approve it. The QI specialist measures it. Together they make the policy change last.",
+      "Part 4, roll it out: this is an organizational change. It needs leadership approval and a revised competency policy. Roll it out with champions, education, and a pilot. Track error rates and audits. Accept, reject, or modify the program. Then share the results."
+     ],
+     "check": {
+      "q": "Brent’s manager suggests leaving frontline nurses off the team “to save time.” What is the best reply?",
+      "a": "Frontline nurses do the procedures. They keep the change clinically relevant and build unit buy-in. Without them, the change is less likely to last."
+     }
+    },
+    {
      "heading": "North Carolina practice note",
      "keyIdea": "In North Carolina, a protocol supports RN judgment but never replaces it, and the RN delegates tasks, not judgment.",
      "body": "<p>These NC rules shape how a new protocol is carried out.</p>",
@@ -1309,7 +1340,8 @@
       "Hierarchy: most current models (such as Melnyk and Fineout-Overholt) put meta-analyses of RCTs at the top and single RCTs just below. The guide teaches that a meta-analysis of RCTs is the strongest evidence and an RCT is the strongest single design. This fits the source.",
       "Statistical significance and QI (including Plan-Do-Study-Act) were added because NCLEX items often contrast them.",
       "PEP yellow is taught as: not enough evidence to know if it helps or harms.",
-      "The stoplight is simplified. ONS uses more detailed categories, from “recommended for practice” to “not recommended for practice,” that group into the three colors."
+      "The stoplight is simplified. ONS uses more detailed categories, from “recommended for practice” to “not recommended for practice,” that group into the three colors.",
+      "Brent Calloway case: the course guide gives two takeaways from Parts 1–4 (EBP project vs research study, and team selection). This guide lays out all four parts as steps; the PICOT and rollout details follow the guide’s Section 5–6 content."
      ]
     }
    ],

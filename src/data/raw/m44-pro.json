@@ -176,6 +176,126 @@
    "front": "Just culture: how is at-risk behavior managed?",
    "back": "Coaching plus fixing the system factors behind the shortcut. Human error is consoled; reckless behavior is disciplined.",
    "topic": "morality"
+  },
+  {
+   "front": "Define ethics (full course definition).",
+   "back": "A system of moral principles or standards that governs behavior and relationships, based on professional nursing beliefs and values. It covers rights, obligations, benefits to society, fairness, and virtues; it also means the study of those standards.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define morality (morals), and name its clues.",
+   "back": "Private, personal standards of right and wrong in conduct, character, and attitude, about important (not trivial) values. Clues: feelings of guilt, hope, or shame; words like ought, should, right, wrong, good, bad.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define values.",
+   "back": "Enduring beliefs or attitudes about the worth of a person, object, idea, or action. They are the foundation for decisions and come from cultural, societal, family, and religious experiences.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define belief.",
+   "back": "An interpretation or conclusion accepted as true. Based more on faith than fact; it may or may not be true.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define attitude.",
+   "back": "A mental position or feeling toward a person, object, or idea (such as acceptance, compassion, or openness), often built from several values combined.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define altruism.",
+   "back": "Concern for the welfare and well-being of others: clients, other nurses, and other health care providers.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define autonomy (as a professional value).",
+   "back": "The right to self-determination. The nurse respects clients’ rights to make health decisions, even when they conflict with what the nurse thinks is best.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define human dignity.",
+   "back": "Respect for the inherent worth and uniqueness of individuals and populations; valuing all clients and colleagues without prejudice or bias.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define integrity.",
+   "back": "Acting by an appropriate code of ethics and accepted standards of practice: being honest and giving care based on the profession’s ethical framework.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define social justice, including the full list of “without regard to.”",
+   "back": "Upholding moral, legal, and humanistic principles: treating all clients equally without regard to economic status, ethnicity, age, gender, religion, citizenship, disability, or sexual orientation, and working for equal access to quality care.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define code of ethics.",
+   "back": "A formal statement of a group’s ideals and values. It guides the profession’s members, sets nonnegotiable ethical standards, and is a social contract with the public (e.g., ANA Code, ICN Code).",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Name the four elements of the ICN Code (2012).",
+   "back": "Nurses and people; nurses and practice; nurses and the profession; nurses and co-workers.",
+   "topic": "values-codes"
+  },
+  {
+   "front": "Define beneficence.",
+   "back": "Taking positive action to promote good, because the basic duty of health care providers is to help others.",
+   "topic": "ethical-principles"
+  },
+  {
+   "front": "Define nonmaleficence.",
+   "back": "The obligation to do no harm and to safeguard clients. Intentional harm is never acceptable; unavoidable risk is weighed against the potential benefit.",
+   "topic": "ethical-principles"
+  },
+  {
+   "front": "Define advocate.",
+   "back": "A person who expresses and defends the cause of another person.",
+   "topic": "ethical-principles"
+  },
+  {
+   "front": "A nurse owes duties to whom, and who comes first?",
+   "back": "The client, the health care provider, the employing facility, and her own ethical values. The client and what best meets the client’s needs come first, balanced with the client’s wishes and family desires.",
+   "topic": "ethical-principles"
+  },
+  {
+   "front": "What is Figure 44.1’s formula?",
+   "back": "Patient advocacy + patient + family + health care team = optimal outcome.",
+   "topic": "ethical-principles"
+  },
+  {
+   "front": "June D’Angelo: a caller says she is June’s supervisor and asks if June was seen. Response?",
+   "back": "Stay calm; do not confirm or deny June is a patient; disclose no PHI; advise the caller to contact June directly (HIPAA Privacy Rule).",
+   "topic": "ethical-principles"
+  },
+  {
+   "front": "Define moral dilemma.",
+   "back": "A situation where two or more moral or ethical principles conflict, solutions conflict with the needs of one or more people, there is freedom to choose, and the choice is shaped by personal feelings and the situation.",
+   "topic": "morality"
+  },
+  {
+   "front": "Define consequence-based (teleologic) theories.",
+   "back": "Theories that judge an action right or wrong only by its outcome or consequence. (The course glosses this as “Was the action fair?”; the core question is whether the outcome was good.)",
+   "topic": "morality"
+  },
+  {
+   "front": "Define the principle of utility.",
+   "back": "The underlying rule of utilitarianism, used when resources, medications, or treatments are limited (such as triage).",
+   "topic": "morality"
+  },
+  {
+   "front": "Define principles-based (deontologic) theories.",
+   "back": "Theories holding that an action is right if it is inherently right and duty-bound, regardless of the result or consequence.",
+   "topic": "morality"
+  },
+  {
+   "front": "Name the seven individual strategies to strengthen ethical practice.",
+   "back": "Know the principles and ANA Code; examine your values and biases; pursue continuing ethics education; respect colleagues’ differing values; practice hypothetical scenarios; serve on the ethics committee; make sure nursing is represented in ethics policies.",
+   "topic": "morality"
+  },
+  {
+   "front": "Which free evidence-based ethics guidelines does the course name?",
+   "back": "The Hartford Institute for Geriatric Nursing (advance directives, dementia care, sexual health in older adults) and ACOG.",
+   "topic": "morality"
   }
  ],
  "questions": [

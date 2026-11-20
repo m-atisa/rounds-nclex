@@ -216,6 +216,71 @@
    "front": "Is SSI health insurance?",
    "back": "No. SSI is federal cash aid (general taxes) for aged, blind, or disabled people with little income; recipients often qualify for Medicaid.",
    "topic": "healthcare-financing"
+  },
+  {
+   "front": "Define executive branch agency",
+   "back": "A federal or state agency that carries out laws after they are passed and signed. Enabling statutes let it write enforceable regulations. Examples: CDC, state health departments, state boards of nursing.",
+   "topic": "policy-process"
+  },
+  {
+   "front": "Define law (statute)",
+   "back": "Public policy enacted by the legislature (Congress and the President, or a state legislature and the governor). Broad mandates written to stand the test of time; enforced by the responsible agency.",
+   "topic": "policy-process"
+  },
+  {
+   "front": "Define regulation (rule)",
+   "back": "A detailed rule written and enforced by an executive agency to carry out a law. It must refer directly to its enabling law, cannot exceed that authority, and carries the force of law.",
+   "topic": "policy-process"
+  },
+  {
+   "front": "Outcome 47.3: how do health care systems, legal issues, and QI link to policy?",
+   "back": "Systems: insured clients use primary care more (better chronic-care continuity); formularies favor generics. Legal: states govern professions; boards enforce practice acts and write rules on safe practice, delegation, CE. QI: AHRQ tools and quality indicators help hospitals meet safety goals.",
+   "topic": "policy-process"
+  },
+  {
+   "front": "Figure 47.1: seven areas of nursing shaped by health policy",
+   "back": "Legal scope of practice; professional standards; accreditation standards; organizational policies and procedures; staffing policies; public health policies; access to care plus nursing education, workforce, and research.",
+   "topic": "policy-process"
+  },
+  {
+   "front": "Which Joint Commission goal addresses CAUTI (Clinical Example B)?",
+   "back": "NPSG 07.06.01: prevent indwelling catheter-associated urinary tract infections. (Hospital NPSGs became National Performance Goals in 2026.)",
+   "topic": "agencies-accreditation"
+  },
+  {
+   "front": "What do state Offices of EMS (OEMS) do?",
+   "back": "Set training and certification standards for EMS personnel, accredit training programs, oversee state trauma systems, and license medical transportation services.",
+   "topic": "agencies-accreditation"
+  },
+  {
+   "front": "Define HMO",
+   "back": "The most restrictive managed-care plan: covers only contracted network providers (except emergencies), members live or work in the service area, and a PCP gatekeeper gives referrals. Focus: integrated, preventive care and wellness.",
+   "topic": "healthcare-financing"
+  },
+  {
+   "front": "Define PPO",
+   "back": "A managed-care plan less restrictive than an HMO: no PCP required, larger network, financial incentives to stay in network, but typically higher co-payments than an HMO.",
+   "topic": "healthcare-financing"
+  },
+  {
+   "front": "Define Medicare",
+   "back": "Federal insurance run by CMS for people 65+ who paid Medicare taxes 10+ years, younger people with disabilities, and people with ESRD or ALS. Parts A, B, C, D; covers 17.9% of Americans (course figure).",
+   "topic": "healthcare-financing"
+  },
+  {
+   "front": "Define Medicaid",
+   "back": "Created 1965 under Title 19 of the Social Security Act. Jointly funded and run by federal and state governments for lower-income people and families, older adults, and people with disabilities who qualify. Expanded by the ACA in 2014.",
+   "topic": "healthcare-financing"
+  },
+  {
+   "front": "Define Medigap",
+   "back": "Medicare Supplement Insurance: a private policy that pays Original Medicare’s co-payments, coinsurance, deductibles, and gaps. Medicare pays first, then Medigap. Plans are identified by standardized letters.",
+   "topic": "healthcare-financing"
+  },
+  {
+   "front": "Define primary care provider (PCP) in an HMO",
+   "back": "The provider an HMO member selects as gatekeeper: manages general health and refers to in-network hospitals and specialists when more care is needed.",
+   "topic": "healthcare-financing"
   }
  ],
  "questions": [

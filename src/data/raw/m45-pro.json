@@ -73,6 +73,26 @@
    "topic": "ebp-foundations"
   },
   {
+   "front": "Define evidence-based nursing (Figure 45.1).",
+   "back": "Clinical decision making that integrates three components: the best evidence from the most current research, the nurse’s clinical expertise, and the patient’s preferences (values, needs, interests, and choices).",
+   "topic": "ebp-foundations"
+  },
+  {
+   "front": "What did The Future of Nursing: Leading Change, Advancing Health (IOM, 2011) recommend?",
+   "back": "Academic changes in nursing to improve safety, quality, and patient outcomes through care coordination, health promotion, quality improvement, and EBP.",
+   "topic": "ebp-foundations"
+  },
+  {
+   "front": "How did Sackett and colleagues (1990s) define evidence-based medicine?",
+   "back": "Using the current best available external evidence along with individual clinical expertise to make conscientious, explicit, and judicious decisions about patient care.",
+   "topic": "ebp-foundations"
+  },
+  {
+   "front": "What do NIH and the Clinical and Translational Science Awards Consortium support?",
+   "back": "Translational research (“bench to bedside”): turning research knowledge into health care applications. New evidence takes an average of 17 years to reach active clinical use.",
+   "topic": "ebp-foundations"
+  },
+  {
    "front": "Quantitative vs qualitative research?",
    "back": "Quantitative measures numbers and uses statistics to test relationships; qualitative explores experience through narrative data and themes.",
    "topic": "research-methods"
@@ -125,6 +145,26 @@
   {
    "front": "What does an IRB do?",
    "back": "Reviews research protocols before and during a study to protect participants’ rights and welfare.",
+   "topic": "research-methods"
+  },
+  {
+   "front": "Nursing research vs nursing clinical research?",
+   "back": "Nursing research uses a strict scientific process to study phenomena in all areas of nursing (practice, education, administration). Nursing clinical research seeks answers that ultimately improve patient care (e.g., infection rates, wound care methods).",
+   "topic": "research-methods"
+  },
+  {
+   "front": "What must research participants be told before giving informed consent?",
+   "back": "The study’s purpose, required procedures, length, expectations, and possible benefits and risks. Consent is usually written, given before the study begins, and may be withdrawn at any time.",
+   "topic": "research-methods"
+  },
+  {
+   "front": "List the criteria for nursing as a profession.",
+   "back": "Specialized education; a well-defined body of knowledge and expertise; ongoing research; service to others; a code of ethics; autonomy as a profession; membership in professional organizations.",
+   "topic": "research-methods"
+  },
+  {
+   "front": "Name the research funding sources listed in Module 45.",
+   "back": "Professional chapters and national/government groups: Sigma Theta Tau International, AHRQ, NINR, NCSBN, the Robert Wood Johnson Foundation, and the American Cancer Society.",
    "topic": "research-methods"
   },
   {
@@ -185,6 +225,36 @@
   {
    "front": "After implementing a change, what are the three possible decisions?",
    "back": "Accept, reject, or modify the change, based on outcome data including unexpected outcomes.",
+   "topic": "ebp-steps"
+  },
+  {
+   "front": "Name the four clinical question categories.",
+   "back": "Diagnosis (choosing and interpreting tests; accuracy, safety, cost-effectiveness), therapy (treatments that do more good than harm), etiology (causes), and prognosis (course over time and complications).",
+   "topic": "ebp-steps"
+  },
+  {
+   "front": "List the sections of a research article in order (Table 45.3).",
+   "back": "Title, abstract, introduction, methods, results, conclusion, references.",
+   "topic": "ebp-steps"
+  },
+  {
+   "front": "Rank the hierarchy of evidence (Figure 45.3), weakest to strongest.",
+   "back": "1 Personal opinion; 2 expert/authority opinion; 3 non-experimental (descriptive, correlational, qualitative); 4 quasi-experimental; 5 individual experimental study; 6 meta-analysis of correlated studies; 7 large RCTs and meta-analyses of controlled studies.",
+   "topic": "ebp-steps"
+  },
+  {
+   "front": "Define a case study and a review-of-literature article.",
+   "back": "A case study is specific to one individual, issue, or event. A review-of-literature article presents studies on a topic and ends with an evaluative statement or recommendation.",
+   "topic": "ebp-steps"
+  },
+  {
+   "front": "Name the key nursing and health care databases (Table 45.4).",
+   "back": "Cochrane Review Database, PubMed/MEDLINE, EBSCO (DynaMed, CINAHL, PsycINFO), ScienceDirect (Elsevier), AHRQ, Evidence-Based Nursing (BMJ), and the Fuld Institute for EBP.",
+   "topic": "ebp-steps"
+  },
+  {
+   "front": "Brent Calloway’s EBP team: who was on it and why?",
+   "back": "A vice president (leadership), staff development educators, frontline med-surg nurses, a nurse manager, and a QI specialist. This ensures clinical relevance, unit buy-in, and sustainable policy change.",
    "topic": "ebp-steps"
   }
  ],

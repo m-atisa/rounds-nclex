@@ -3001,5 +3001,236 @@ window.NURSE_DATA.push({ "moduleId": "m37", "moduleNumber": 37, "moduleTitle": "
     "focus": "Delegation & Safety",
     "difficulty": 2,
     "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+    "id": "m37-x1-085",
+    "topic": "nurse-collaborator",
+    "type": "mcq",
+    "stem": "A medical unit’s quarterly report shows more client falls and two medication errors. Both were traced to information that one discipline knew but never shared with another. The nurse manager wants to use collaboration to lower client harm. Which action is most likely to reduce morbidity on this unit?",
+    "options": [
+      "Have each discipline write its own safety plan in a separate section of the record",
+      "Have the manager review each incident report privately and send feedback to individuals",
+      "Start a brief daily interprofessional safety huddle where each discipline names client risks",
+      "Post the unit’s weekly error rates at the nurses’ station as a reminder to staff"
+    ],
+    "answer": 2,
+    "optionRationales": [
+      "Incorrect. Separate plans keep each discipline’s knowledge siloed, which is how the errors happened.",
+      "Incorrect. Private, individual feedback does not create shared information among disciplines.",
+      "Correct. A shared huddle lets every discipline raise risks together, which is how collaboration lowers morbidity and mortality.",
+      "Incorrect. Posting rates raises awareness but does not change how disciplines share information."
+    ],
+    "rationale": "Safety is a concept closely linked to collaboration: more collaboration among team members leads to lower client morbidity and mortality. The nursing implication is to take part in interprofessional team meetings and discuss concerns with team members. Here the harm came from information that stayed inside one discipline, so the fix must bring the disciplines together. A daily huddle builds a shared picture of each client’s risks. Separate plans, private feedback, and posted numbers all leave the communication gap in place.",
+    "takeaway": "More collaboration means lower morbidity and mortality; the nurse joins and supports interprofessional meetings to share concerns.",
+    "hintContent": "Find the root cause in the stem: information that one discipline had and another did not.",
+    "hintStrategy": "Pick the option that fixes the root cause by bringing disciplines together, not one that acts on individuals.",
+    "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+    "alsoTests": [
+      "ipec-teamstepps"
+    ],
+    "cjmm": "Generate Solutions",
+    "focus": "Delegation & Safety",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+    "priority": false
+  },
+  {
+    "id": "m37-x1-086",
+    "topic": "nurse-collaborator",
+    "type": "sata",
+    "stem": "A nurse case manager reviews the record of a 67-year-old client with heart failure and type 2 diabetes. Within 1 week, the cardiology clinic and the primary care office each ordered the same echocardiogram and lipid panel. Neither office knew about the other’s order. Which actions by the nurse reflect the link between collaboration and healthcare systems? Select all that apply.",
+    "options": [
+      "Share the completed results with both offices through the shared electronic record",
+      "Arrange a single coordinated care plan with the client and both prescribers",
+      "Ask to serve on the hospital’s interprofessional care-coordination committee",
+      "Clarify with the client and both offices which provider manages each condition",
+      "Ask that both offices repeat the tests so each has its own baseline",
+      "Advise the client to stop seeing one of the two providers to avoid confusion"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "optionRationales": [
+      "Correct. Sharing results with clear communication prevents duplicate services and cost.",
+      "Correct. One coordinated plan is the core of collaboration and prevents further duplication.",
+      "Correct. Serving on interprofessional committees builds collaboration across the whole system.",
+      "Correct. Clear roles prevent repeat orders and gaps in care.",
+      "Incorrect. Repeating tests is the duplication that collaboration is meant to prevent.",
+      "Incorrect. The client may need both providers; the fix is coordination, not cutting care."
+    ],
+    "rationale": "In the healthcare systems concept, more collaboration among team members leads to less duplication of client services and lower healthcare costs. The nursing implications are to promote collaboration, use clear communication, and take part in interprofessional committees that build collaboration across the system. Sharing results, making one plan, clarifying who manages what, and joining a care-coordination committee all do this. Repeating tests adds cost and burden. Telling the client to drop a provider removes needed care instead of coordinating it.",
+    "takeaway": "Collaboration lowers duplicate services and cost; the nurse shares information, clarifies roles, and joins system-level committees.",
+    "hintContent": "The problem is duplicate testing caused by two offices not talking to each other.",
+    "hintStrategy": "In SATA items about systems, choose actions that connect providers and reject actions that add cost or remove care.",
+    "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+    "id": "m37-x1-087",
+    "topic": "nurse-collaborator",
+    "type": "mcq",
+    "stem": "Staff nurses on a surgical unit report low job satisfaction on an annual survey. Many write that physicians “never ask for our assessment” during rounds. Which action by the nurse leader best reflects the link between collaboration and professionalism?",
+    "options": [
+      "Start joint nurse–physician rounds in which the nurse presents the assessment and plan",
+      "Ask the physicians to approve each nursing intervention before it is carried out",
+      "Limit nurse–physician contact to written messages to reduce friction on the unit",
+      "Transfer the nurses who wrote the most negative comments to another unit"
+    ],
+    "answer": 0,
+    "optionRationales": [
+      "Correct. Joint rounds build nurse–physician collaboration, which raises perceived autonomy, professionalism, and job satisfaction.",
+      "Incorrect. Requiring approval for nursing actions lowers nurse autonomy, the opposite of the goal.",
+      "Incorrect. Avoiding contact removes the collaboration that drives professional autonomy.",
+      "Incorrect. Moving staff punishes concerns and does nothing about the collaboration problem."
+    ],
+    "rationale": "In the professionalism concept, more nurse–physician collaboration raises nurses’ perceived professional autonomy, which in turn raises nursing professionalism. Nursing implications include recognizing how collaboration affects job satisfaction, promoting collaborative nurse–physician relationships, and teaching team members about nursing roles. Joint rounds where the nurse presents an assessment do all three. Requiring sign-off on nursing actions and limiting contact both reduce autonomy and collaboration. Transferring vocal nurses punishes speaking up.",
+    "takeaway": "More nurse–physician collaboration → more perceived autonomy → more professionalism and job satisfaction.",
+    "hintContent": "Ask which option gives nurses a real voice alongside physicians.",
+    "hintStrategy": "When the stem names low satisfaction from being left out, choose the option that builds a shared process.",
+    "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+    "alsoTests": [
+      "ipec-teamstepps"
+    ],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": false
+  },
+  {
+    "id": "m37-x1-088",
+    "topic": "nurse-collaborator",
+    "type": "mcq",
+    "stem": "A nurse manager is rating a new graduate on the attitude part of the QSEN Teamwork and Collaboration competency. During the evaluation meeting, the new graduate makes several comments. Which comment best demonstrates a teamwork attitude?",
+    "options": [
+      "“I can explain the respiratory therapist’s scope of practice on this unit.”",
+      "“I used SBAR when I called the provider about my client last night.”",
+      "“I understand how levels of authority on a unit affect how a team works.”",
+      "“Handoffs are risky, so bedside report is worth the time even when we are busy.”"
+    ],
+    "answer": 3,
+    "optionRationales": [
+      "Incorrect. Describing another member’s scope is a knowledge item.",
+      "Incorrect. Using a structured tool is a skill, something the nurse does.",
+      "Incorrect. Explaining how authority affects teamwork is a knowledge item.",
+      "Correct. Accepting that care transitions are risky and valuing safe handoffs is the attitude in Box 37.1."
+    ],
+    "rationale": "QSEN describes each competency in knowledge, skills, and attitudes. Knowledge items describe or explain, such as the scope of other roles or how levels of authority affect teamwork. Skills are visible actions, such as following best practices during handoffs. Attitudes show what the nurse values, such as acknowledging that care transitions are risky. Valuing bedside report because handoffs are risky is an attitude. The other comments show knowledge or a skill.",
+    "takeaway": "QSEN K = describe, S = do, A = value; “handoffs are risky” is the attitude.",
+    "hintContent": "Sort each comment: is the nurse explaining, doing, or valuing something?",
+    "hintStrategy": "For K-S-A items, look for value words like “worth,” “important,” or “appreciate” to find the attitude.",
+    "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": false
+  },
+  {
+    "id": "m37-x1-089",
+    "topic": "ipec-teamstepps",
+    "type": "mcq",
+    "stem": "A 76-year-old client with heart failure, chronic kidney disease, hypertension, and benign prostatic hyperplasia was admitted with fluid volume excess. After 3 days of IV furosemide, he has lost 4 kg (8.8 lb), his lungs are clear, and his BP is 98/56. His serum creatinine has risen from 2.1 to 2.7 mg/dL. He says he is anxious about going home. At daily interprofessional rounds, which action by the nurse is the priority?",
+    "options": [
+      "Ask the dietitian to teach him a low-sodium diet before he goes home",
+      "Report the low BP and rising creatinine and ask about lowering the diuretic",
+      "Ask the case manager to arrange home health visits for after discharge",
+      "Reassure him that his anxiety will ease once his discharge plan is in place"
+    ],
+    "answer": 1,
+    "optionRationales": [
+      "Incorrect. Diet teaching is needed but does not address the current risk of over-diuresis.",
+      "Correct. Low BP and a rising creatinine after large fluid loss suggest over-diuresis that can harm his kidneys; the team should adjust the diuretic now.",
+      "Incorrect. Home care planning is important but can wait until the physical problem is addressed.",
+      "Incorrect. His anxiety deserves attention, but a physiologic threat to his kidneys comes first."
+    ],
+    "rationale": "Daily interprofessional rounds let the team change treatment as the client changes. This client is now dry: his lungs are clear, he lost 4 kg, his BP is low, and his creatinine is rising. Those cues suggest the diuretic is now causing volume depletion and reduced kidney perfusion. The nurse’s priority is to report these data so the team can lower the diuretic dose. Low-sodium teaching by the dietitian, home care by the case manager, and support for anxiety are all part of the plan, but they follow the physiologic risk.",
+    "takeaway": "At rounds, the nurse brings trend data that change treatment; a physiologic threat outranks teaching and discharge tasks.",
+    "hintContent": "Compare the fluid status now with the fluid status on admission.",
+    "hintStrategy": "When all options are useful team actions, choose the one that addresses an active physiologic risk.",
+    "ref": "Module 37 · Collaboration · IPEC Competencies & TeamSTEPPS · pp. 2556–2558",
+    "alsoTests": [
+      "nurse-collaborator"
+    ],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Prioritization",
+    "difficulty": 3,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true
+  },
+  {
+    "id": "m37-x1-090",
+    "topic": "nurse-collaborator",
+    "type": "mcq",
+    "stem": "A staff nurse on a pediatric unit is concerned about unsafe nurse-to-client ratios across hospitals in her state. She wants to collaborate at the level of professional nursing organizations. Which action best fits this domain?",
+    "options": [
+      "Ask her unit manager to add another nurse to each night shift",
+      "Write to a local newspaper describing her own unit’s staffing problems",
+      "Join the state nurses association’s safe-staffing committee",
+      "Talk about staffing concerns with families during discharge teaching"
+    ],
+    "answer": 2,
+    "optionRationales": [
+      "Incorrect. Asking her own manager is a unit-level request, not collaboration with a nursing organization.",
+      "Incorrect. A public letter acts alone and may breach the employer’s policies; it is not organizational collaboration.",
+      "Correct. Serving on a state committee of a professional nursing organization is the action listed for this domain.",
+      "Incorrect. Discharge teaching is for the client’s needs; sharing staffing complaints with families is inappropriate."
+    ],
+    "rationale": "Box 37.2 lists the ways a nurse collaborates with professional nursing organizations: seeking chances to work within and with them, serving on state or provincial, national, and international committees or specialty groups, and supporting political solutions to professional and healthcare concerns. Joining a state nurses association committee on safe staffing fits exactly. A request to her own manager stays at the unit level. A public letter is acting alone, not collaborating. Families are not the right audience for staffing complaints.",
+    "takeaway": "Collaborating with nursing organizations means serving on their committees and supporting political solutions.",
+    "hintContent": "Match the action to the domain named in the stem: professional nursing organizations.",
+    "hintStrategy": "For domain items, pick the option that names the group in the stem, not a nearby group like peers or the client.",
+    "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 1,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": false
+  },
+  {
+    "id": "m37-x1-091",
+    "topic": "nurse-collaborator",
+    "type": "sata",
+    "stem": "A year after a hospital added interprofessional rounds on all medical units, the chief nursing officer reviews outcome data. Which findings reflect benefits of collaboration for the healthcare team itself? Select all that apply.",
+    "options": [
+      "Registered nurse turnover fell from 18% to 11%",
+      "More nurses and therapists report feeling respected by other disciplines",
+      "Staff report having more say in care-plan decisions",
+      "Average client length of stay fell by 0.8 day",
+      "Staff overtime hours doubled to cover rounds",
+      "Physicians now make most care decisions before rounds begin"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "optionRationales": [
+      "Correct. Higher staff retention is a team benefit of collaboration.",
+      "Correct. Greater feelings of respect and appreciation are team benefits.",
+      "Correct. Less hierarchy and greater empowerment in decisions are team benefits.",
+      "Incorrect. Shorter stays are a benefit for clients, not the team itself.",
+      "Incorrect. Rising overtime is a cost, not a benefit.",
+      "Incorrect. Decisions made by one discipline show hierarchy, not collaboration."
+    ],
+    "rationale": "The benefits of interprofessional collaboration are grouped by who gains. For the healthcare team, benefits include a less hierarchical structure, greater feelings of empowerment, respect, and appreciation, better evidence-based care, decision making, and creativity, and higher staff satisfaction and retention. Lower turnover, feeling respected, and having a say in decisions all fit. A shorter length of stay is real but is a client benefit. Doubled overtime and physician-only decisions point away from collaboration.",
+    "takeaway": "Team benefits: less hierarchy, more respect and empowerment, better decisions, and higher satisfaction and retention.",
+    "hintContent": "Notice who the stem asks about: the team, not the client or the hospital budget.",
+    "hintStrategy": "In “benefits for whom” items, sort each finding by who gains before choosing.",
+    "ref": "Module 37 · Collaboration · Nurse as Collaborator & Team · pp. 2553–2556, 2558–2559",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care"
   }
 ] });

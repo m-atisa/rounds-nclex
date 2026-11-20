@@ -3296,6 +3296,207 @@
    "focus": "Nursing Interventions",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-x1-095",
+   "topic": "malpractice-standard-care",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A client with end-stage chronic obstructive pulmonary disease asks the nurse how to write down his wishes about life support. The nurse personally believes every life-prolonging treatment should always be used and feels uneasy about the request. Which action should the nurse take?",
+   "options": [
+    "Suggest that he wait until his breathing improves before making decisions about care.",
+    "Give him the agency’s advance directive information and ask her supervisor for support.",
+    "Explain that a living will is not needed because his wife can decide for him later.",
+    "Share her personal view so that he can hear both sides before he makes a decision."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Delaying the discussion withholds information the client has a legal right to receive now.",
+    "Correct. Hospitals that take Medicare or Medicaid must provide advance directive information, and seeking support helps the nurse advocate despite her own bias.",
+    "Incorrect. A surrogate decides only if capacity is lost, and the client has the right to state his own wishes in advance.",
+    "Incorrect. Sharing personal beliefs can pressure the client and shows the nurse has not set aside her own bias."
+   ],
+   "rationale": "Clients have a legal right to appropriate end-of-life care, and hospitals receiving Medicare or Medicaid funds must give advance directive information and support advance directive needs. The nurse’s duty is to assess her own assumptions about end-of-life care and ask a supervisor or peers for support so her bias does not block the client’s right. Waiting, deferring to the spouse, or sharing personal views each fails to honor the client’s choice.",
+   "takeaway": "Recognize your own end-of-life bias, seek support, and still give the client full advance directive information.",
+   "hintContent": "Whose values should guide this conversation, and what information does the client have a right to receive?",
+   "hintStrategy": "When the nurse’s feelings appear in the stem, pick the option that protects the client’s right while the nurse gets support.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2829–2830",
+   "alsoTests": [
+    "consent-laws-lifespan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-x1-096",
+   "topic": "malpractice-standard-care",
+   "type": "sata",
+   "stem": "A nurse in a hospital that receives Medicare funding cares for several clients with life-limiting illnesses. Which actions reflect the nurse’s legal and professional responsibilities related to end-of-life care? Select all that apply.",
+   "options": [
+    "Ask each client on admission whether they have an advance directive and offer written information.",
+    "Anticipate what further information the family may need about comfort-focused options.",
+    "Reflect on personal assumptions about dying before talking with clients about their choices.",
+    "Tell a client that an advance directive must be completed before admission can continue.",
+    "Withhold comfort measures until all family members agree on the plan of care."
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Medicare- and Medicaid-funded hospitals must provide advance directive information and support advance directive needs.",
+    "Correct. Anticipating the information clients and families need is a nursing implication of the legal right to end-of-life care.",
+    "Correct. Assessing one’s own biases keeps them from limiting the client’s end-of-life care.",
+    "Incorrect. Facilities must ask and inform, but they cannot require an advance directive as a condition of care.",
+    "Incorrect. Clients have a legal right to appropriate end-of-life care, including comfort measures, regardless of family disagreement."
+   ],
+   "rationale": "The legal link between comfort and legal issues is the client’s right to appropriate end-of-life care. Hospitals that take Medicare or Medicaid must give advance directive information and support those needs. The nurse assesses personal biases and knowledge of options, anticipates information needs, and recognizes that advance directives ease family conflict. Making a directive a condition of admission or delaying comfort care for family consensus violates the client’s rights.",
+   "takeaway": "Ask, inform, anticipate needs, and check your own bias; never require a directive or delay comfort care.",
+   "hintContent": "Which options protect the client’s legal right to end-of-life care, and which ones place conditions on it?",
+   "hintStrategy": "For each option, ask whether it supports the client’s choice or creates a barrier to it.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · pp. 2829–2830",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-x1-097",
+   "topic": "law-torts-privacy",
+   "type": "mcq",
+   "priority": false,
+   "stem": "Two nurses ride a crowded hospital elevator at the end of their shift. One starts describing a client’s new cancer diagnosis, leaving out the client’s name. Which response by the other nurse is best?",
+   "options": [
+    "“Let’s talk about this back on the unit, with only the care team present.”",
+    "“That is fine to discuss here as long as you don’t mention the room number.”",
+    "“Keep your voice low so that the other people in here can’t hear the details.”",
+    "“Text me about it later instead, so that no one around us can overhear it.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Care should be discussed only with appropriate people and not outside the care unit.",
+    "Incorrect. Leaving out names or room numbers does not prevent identification and still breaks privacy in a public space.",
+    "Incorrect. Lowering the voice in a crowded public elevator does not protect the information.",
+    "Incorrect. Personal texting moves the information to an unsecured channel and still is not tied to a care need."
+   ],
+   "rationale": "The communication concept links legal issues to privacy: nurses must keep client information private in every care area, follow HIPAA, and discuss care only with appropriate individuals and not outside the care unit. Details such as diagnosis, time, and age can identify a client even without a name. Moving the conversation back to the unit with the care team protects the client.",
+   "takeaway": "Discuss clients only with the care team, on the unit, never in public spaces.",
+   "hintContent": "Where is it appropriate to discuss a client, and with whom?",
+   "hintStrategy": "Privacy options that only reduce the chance of being overheard are weaker than options that move the talk to the right place and people.",
+   "ref": "Module 49 · Legal Issues · Law & Intentional Torts · p. 2829",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-x1-098",
+   "topic": "malpractice-standard-care",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nurse manager learns that assistive personnel on her unit have been inserting nasogastric tubes when the unit is busy. Neither the state nurse practice act nor agency policy allows this. No client has been harmed. Which action should the manager take first?",
+   "options": [
+    "Monitor the practice for a month, because no client has been injured so far.",
+    "Allow only the most experienced assistive personnel to keep inserting the tubes.",
+    "Stop the practice now and make sure licensed nurses perform the insertions.",
+    "Ask the assistive personnel to chart each insertion so it can be reviewed later."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Noncompliance must be corrected when found; waiting for harm is unsafe and leaves the manager liable.",
+    "Incorrect. Experience does not change scope; the task is outside what may be delegated to assistive personnel.",
+    "Correct. Managers must identify and correct noncompliance and make sure tasks are assigned per the nurse practice act and policy.",
+    "Incorrect. Documenting an unauthorized practice does not stop it or protect clients."
+   ],
+   "rationale": "Nurse managers must adhere to legal requirements, ensure team compliance, identify and correct noncompliance, and make sure tasks are delegated to licensed and unlicensed staff in accordance with the state nurse practice act and facility policy. Stopping the practice immediately and assigning the task to licensed nurses corrects the problem before harm occurs. Absence of injury does not make an out-of-scope practice acceptable.",
+   "takeaway": "A manager who finds out-of-scope delegation stops it now; no harm does not mean no problem.",
+   "hintContent": "Does the lack of harm change whether the task is within the assistive personnel’s scope?",
+   "hintStrategy": "When an unsafe or illegal practice is discovered, the first action stops it rather than studying or documenting it.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · p. 2829",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-x1-099",
+   "topic": "consent-laws-lifespan",
+   "type": "sata",
+   "stem": "A nurse reviews a client’s discharge medication list after hip surgery. The nurse explains which drugs are Schedule II under the Controlled Substances Act, meaning they carry high abuse risk and cannot be refilled without a new prescription. Which drugs are Schedule II? Select all that apply.",
+   "options": [
+    "Oxycodone",
+    "Fentanyl transdermal patch",
+    "Methadone",
+    "Lorazepam",
+    "Acetaminophen with codeine",
+    "Morphine sulfate extended-release"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Oxycodone is a Schedule II opioid with high abuse potential and high dependence.",
+    "Correct. Fentanyl is a Schedule II opioid.",
+    "Correct. Methadone is a Schedule II opioid.",
+    "Incorrect. Lorazepam is a Schedule IV benzodiazepine with lower abuse potential.",
+    "Incorrect. Acetaminophen with codeine is Schedule III, with moderate abuse potential.",
+    "Correct. Morphine is a Schedule II opioid."
+   ],
+   "rationale": "The Controlled Substances Act sorts drugs into Schedules I through V by medical use, abuse potential, and safety risk. Schedule II drugs, such as morphine, oxycodone, fentanyl, and methadone, have high abuse potential and high physical and psychological dependence; they have accepted medical use with severe restrictions and cannot be refilled. Acetaminophen with codeine is Schedule III and benzodiazepines such as lorazepam are Schedule IV.",
+   "takeaway": "Strong opioids like morphine, oxycodone, fentanyl, and methadone are Schedule II; codeine combinations are III; benzodiazepines are IV.",
+   "hintContent": "Which of these drugs are strong opioids, and which belong to other drug classes?",
+   "hintStrategy": "Sort each drug by class first: strong opioids, opioid combinations, and benzodiazepines fall into different schedules.",
+   "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · pp. 2832–2833",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+  },
+  {
+   "id": "m49-x1-100",
+   "topic": "consent-laws-lifespan",
+   "type": "sata",
+   "stem": "A nurse in a pediatric emergency department is triaging several children. Which findings should raise concern for possible child maltreatment that must be reported? Select all that apply.",
+   "options": [
+    "A 3-month-old with a cheek bruise whose parent says she rolled into the crib rail",
+    "A 5-month-old with vomiting, irritability, and lethargy and no reported illness or fall",
+    "A 7-year-old with facial swelling from a dental abscess left untreated for several weeks",
+    "A 9-year-old with scraped knees after a bike fall that matches the story given",
+    "A 6-year-old with a positive gonorrhea culture and a normal genital examination"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Any bruising on a young infant suggests physical abuse, and a 3-month-old cannot roll into a rail.",
+    "Correct. Vomiting, irritability, and lethargy in an infant may indicate head injury from abuse.",
+    "Correct. Untreated medical problems in older children are a sign of possible neglect.",
+    "Incorrect. Injuries that match a plausible explanation and developmental level are not, by themselves, a cue for abuse.",
+    "Correct. Sexual abuse often leaves no abnormal physical findings, but cultures may show a sexually transmitted infection."
+   ],
+   "rationale": "Nurses are mandated reporters of suspected child abuse and need reasonable suspicion, not proof. Bruising on an infant, vomiting with irritability and lethargy, untreated medical problems, and a sexually transmitted infection in a young child all raise concern even when the physical exam is otherwise normal. A minor injury that fits the story and the child’s development is expected. The normal genital exam is the tempting reason to exclude the culture result, but sexual abuse often leaves no physical signs.",
+   "takeaway": "Bruises in infants, head-injury signs, untreated problems, and STIs in children are cues to report.",
+   "hintContent": "For each child, does the finding fit the story and the child’s development?",
+   "hintStrategy": "Match each finding to the course signs of abuse by age: infants, older children, and sexual abuse.",
+   "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · p. 2834",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity"
   }
  ]
 }

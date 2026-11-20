@@ -2897,6 +2897,141 @@ window.NURSE_DATA.push({
    "focus": "Prioritization",
    "difficulty": 3,
    "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m46-x1-089",
+   "topic": "delivery-models-resources",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nurse at a rural clinic notices that several clients with type 2 diabetes have missed two visits in a row since the county cut the only bus route to the clinic. Two of these clients have reported low blood glucose episodes at home. Which action by the nurse best reflects advocacy within the healthcare system?",
+   "options": [
+    "Document each missed visit as nonadherence and send reminder letters",
+    "Collect data on missed visits and outcomes and present them to clinic leaders and the county transit board",
+    "Advise the clients to go to the emergency department whenever they cannot get to the clinic",
+    "Lengthen the time between visits for these clients from every 3 months to every 6 months"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Labeling a transportation barrier as nonadherence blames the clients and leaves the cause untouched.",
+    "Correct. Advocacy means speaking up for a vulnerable group with objective data so the system fixes the barrier that is causing harm.",
+    "Incorrect. Sending clients to the emergency department for routine diabetes care is costly and does not restore a usual source of care.",
+    "Incorrect. Fewer visits for clients already having hypoglycemia increases risk and does not address the access problem."
+   ],
+   "rationale": "Healthcare systems connect directly with the concept of advocacy: nurses speak up for vulnerable populations when a system barrier causes harm. Here the barrier is transportation, a social determinant of health (neighborhood and built environment), and the harm is unsafe glucose control. Gathering objective data and bringing it to the people who can change the system is the most effective form of advocacy. Calling the problem nonadherence is tempting because visits were missed, but it blames clients for a barrier they did not create.",
+   "takeaway": "Advocacy turns a repeated client barrier into data that leaders can act on.",
+   "hintContent": "The cause of the missed visits is a change in the community, not the clients’ choices.",
+   "hintStrategy": "Pick the option that fixes the root cause for the whole group rather than labeling or working around it.",
+   "ref": "Module 46 · Healthcare Systems · Delivery Models & Resources · pp. 2781–2783",
+   "alsoTests": [
+    "prevention-settings",
+    "care-models-access"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m46-x1-090",
+   "topic": "delivery-models-resources",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A medical unit’s 30-day readmission rate for clients with heart failure has risen from 18% to 26% since a new discharge process began. The nurse manager asks the staff nurses to help. Which nursing action reflects the concept of quality improvement?",
+   "options": [
+    "Ask providers to keep each client with heart failure in the hospital for 2 extra days",
+    "Return to the old discharge process right away without reviewing any data",
+    "Join a team that reviews readmission data, finds the cause, tests one change, and measures again",
+    "Report the night-shift nurses who completed most of the discharges to the manager"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Longer stays raise cost and infection risk and do not identify why clients are returning.",
+    "Incorrect. Reversing a change without data skips the analysis step, so the true cause may remain.",
+    "Correct. Quality improvement is a data-driven cycle: measure, find the cause, test a change, and remeasure the outcome.",
+    "Incorrect. Blaming individuals ignores system causes and works against a just culture."
+   ],
+   "rationale": "Quality improvement links healthcare systems to measurable outcomes. Nurses track an outcome such as readmissions, look for the system cause, test a small change (for example, teach-back of daily weights or a follow-up call within 72 hours), and then measure again to see whether the change worked. Blaming a shift or reversing the process without data may feel decisive, but neither finds the cause. Longer stays also add cost and harm without fixing the discharge gap.",
+   "takeaway": "Quality improvement is a measure–change–remeasure cycle aimed at systems, not blame.",
+   "hintContent": "Look for the option that uses data before and after a change.",
+   "hintStrategy": "Eliminate options that blame people or act without measuring results.",
+   "ref": "Module 46 · Healthcare Systems · Delivery Models & Resources · pp. 2781–2783",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m46-x1-091",
+   "topic": "delivery-models-resources",
+   "type": "sata",
+   "stem": "A nurse is working a busy shift in a hospital emergency department. Which actions show the nurse meeting the legal, ethical, safety, and informatics standards of the healthcare system? Select all that apply.",
+   "options": [
+    "Makes sure an uninsured client with abdominal pain receives a medical screening exam before payment is discussed",
+    "Requests a professional interpreter for a client with limited English instead of using the client’s 10-year-old child",
+    "Asks the nursing assistant to evaluate whether a client’s IV pain medicine worked",
+    "Tags a malfunctioning infusion pump, removes it from service, and reports it",
+    "Gives the last private room to a client because the client is a large hospital donor",
+    "Checks the latest potassium level in the electronic health record before giving scheduled digoxin"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. EMTALA (legal issues) requires a screening exam regardless of ability to pay; payment questions cannot delay it.",
+    "Correct. Advocacy and ethics call for a trained interpreter; a child cannot interpret accurately or appropriately.",
+    "Incorrect. Evaluating a response to medicine is nursing judgment and stays with the licensed nurse; delegating it breaks scope-of-practice rules.",
+    "Correct. Removing and reporting faulty equipment keeps the care setting safe.",
+    "Incorrect. Allocating a resource by donor status violates justice; rooms go by clinical need.",
+    "Correct. Using EHR data to check a lab value before a high-risk drug is safe use of informatics."
+   ],
+   "rationale": "Healthcare systems intersect with legal issues, ethics, advocacy, safety, and informatics. EMTALA requires screening without regard to payment. Professional interpreters protect accuracy and privacy. Faulty equipment must be removed and reported. The EHR supports safe medication checks, such as potassium before digoxin. Evaluation of a medication response is RN work and cannot go to a nursing assistant, and scarce resources are shared by need, never by social or financial status.",
+   "takeaway": "System standards—EMTALA, scope of practice, fair allocation, safety reporting, EHR use—shape every bedside action.",
+   "hintContent": "Two options break a rule: one about scope of practice and one about fairness.",
+   "hintStrategy": "Test each option against one concept: is it legal, within scope, fair, and safe?",
+   "ref": "Module 46 · Healthcare Systems · Delivery Models & Resources · pp. 2781–2783",
+   "alsoTests": [
+    "care-models-access"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m46-x1-092",
+   "topic": "delivery-models-resources",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A school nurse learns that a proposed state bill would close the school-based health clinic, where many uninsured adolescents get primary care, vaccines, and mental health screening. The nurse wants to influence the outcome. Which action is most appropriate?",
+   "options": [
+    "Post photos of students waiting at the clinic on social media to show the community the need",
+    "Tell students they can use the emergency department for care if the clinic closes",
+    "Stay out of the debate because health policy is the job of elected officials, not nurses",
+    "Contact the local legislator with clinic visit data and stories that do not identify any student"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Posting identifiable photos of students violates privacy and confidentiality.",
+    "Incorrect. The emergency department is a costly, poor substitute for a usual source of primary and preventive care.",
+    "Incorrect. Health policy is a nursing concept; nurses have a duty to inform policymakers about effects on vulnerable groups.",
+    "Correct. Sharing objective data and de-identified stories with a legislator is the professional way to shape health policy."
+   ],
+   "rationale": "Health policy is one of the nursing concepts tied to healthcare systems. Nurses influence policy by giving legislators clear data and real examples, while keeping client identities private. Closing the clinic would remove a usual source of care for uninsured teens and push them toward emergency departments. Social media photos may feel powerful but breach confidentiality, and staying silent ignores the nurse’s role as an advocate.",
+   "takeaway": "Nurses shape health policy with objective data and de-identified stories sent to decision makers.",
+   "hintContent": "One option breaks confidentiality, and one ignores a nursing role.",
+   "hintStrategy": "Choose the action that is both effective and professional, and protects privacy.",
+   "ref": "Module 46 · Healthcare Systems · Delivery Models & Resources · pp. 2781–2783",
+   "alsoTests": [
+    "care-models-access"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
   }
  ]
 });

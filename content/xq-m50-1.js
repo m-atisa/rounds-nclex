@@ -3184,6 +3184,553 @@ window.NURSE_DATA.push({
    "focus": "Pharmacology",
    "difficulty": 3,
    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+  },
+  {
+   "id": "m50-x1-091",
+   "topic": "qi-foundations",
+   "type": "mcq",
+   "stem": "After a client receives a double dose of an opioid, a staff nurse at a unit meeting says, “Errors happen because some nurses are careless. We should just fire whoever made this mistake.” Which response by the nurse manager best reflects the main message of the IOM report To Err Is Human?",
+   "options": [
+    "“The nurse involved will be written up so others learn to be careful.”",
+    "“Most errors happen when faulty systems lead good people to make mistakes.”",
+    "“Errors are rare here, so this one does not call for any change.”",
+    "“We should keep the event quiet to protect the unit’s quality scores.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Punishing an individual for an honest error hides system problems and discourages reporting.",
+    "Correct. To Err Is Human found that most errors come from flawed systems, so the response is to study and fix the process.",
+    "Incorrect. The report estimated about 98,000 deaths a year from errors, and later estimates exceed 250,000, so errors are not rare.",
+    "Incorrect. Hiding events corrupts quality data and blocks learning from the error."
+   ],
+   "rationale": "To Err Is Human: Building a Safer Health System (2000) estimated about 98,000 U.S. deaths a year from medical errors. A later Johns Hopkins study estimated more than 250,000, making medical errors a leading cause of death. Its key message is that most errors are caused by faulty systems and processes that lead capable people to make mistakes, not by careless individuals. The best manager response redirects the team from blame to examining the system, such as storage, order sets, and double checks.",
+   "takeaway": "Respond to blame by pointing to systems: most errors come from faulty processes, not bad people.",
+   "hintContent": "What did the landmark IOM report say is the usual cause of errors?",
+   "hintStrategy": "When a stem invites blame, choose the reply that shifts attention to the system and to reporting.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-092",
+   "topic": "qi-foundations",
+   "type": "sata",
+   "stem": "A nurse on the hospital quality council reviews how federal and state policy affects quality programs. Which statements are accurate? Select all that apply.",
+   "options": [
+    "The Basic Health Program replaced Medicaid for all adults in every state.",
+    "The Affordable Care Act created incentives to reduce 30-day readmission rates.",
+    "Bundled payments have been shown to reduce costs, especially for orthopedic procedures.",
+    "The Affordable Care Act removed incentives to reduce wasteful health care spending.",
+    "During COVID-19 in 2020, CMS temporarily paused quality data reporting requirements."
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. A Basic Health Program is an optional, federally subsidized state program for low-income adults and legal immigrants; it does not replace Medicaid.",
+    "Correct. The ACA ties payment to quality and penalizes excess 30-day readmissions.",
+    "Correct. Bundled payment options are proven to reduce costs, most clearly for orthopedic procedures such as joint replacement.",
+    "Incorrect. The ACA added incentives to reduce wasteful spending; it did not remove them.",
+    "Correct. CMS and other agencies paused quality reporting and paused using quality data as a payment requirement during the 2020 pandemic."
+   ],
+   "rationale": "The Patient Protection and Affordable Care Act (2010) expanded and reformed Medicaid and Medicare, created incentives to cut 30-day readmissions, and added incentives to reduce wasteful spending. After the ACA, Medicare 30-day readmissions fell by more than 1% and care-related complications declined. Bundled payments reduce costs, especially for orthopedic procedures. States are partly responsible for insurance programs for low-income people and may create a federally subsidized Basic Health Program. In 2020, COVID-19 led CMS to pause quality reporting and the use of quality data for payment.",
+   "takeaway": "ACA: fewer readmissions and less waste; bundles save money, especially in orthopedics; COVID-19 paused quality reporting.",
+   "hintContent": "Which statements match what the ACA, bundled payments, and the 2020 pandemic actually did?",
+   "hintStrategy": "Watch for absolute words like “replaced” and “all”; they often mark false policy statements.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m50-x1-093",
+   "topic": "qi-foundations",
+   "type": "mcq",
+   "stem": "A 66-year-old client is on day 1 after a total knee replacement. The hospital receives one bundled payment that covers surgery through 90 days of recovery. Which nursing action best supports the goal of this payment model?",
+   "options": [
+    "Keep the client on bed rest until the surgeon’s next visit",
+    "Delay discharge teaching until the morning the client leaves",
+    "Assist the client to walk with physical therapy and teach clot and infection signs",
+    "Arrange for the client’s family to handle all home care questions alone"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Prolonged bed rest raises the risk of clots, pneumonia, and stiffness, which lead to complications and readmission.",
+    "Incorrect. Rushed teaching on the day of discharge is a known cause of return visits.",
+    "Correct. Early mobility and teaching prevent complications and readmissions, which the hospital would otherwise pay for under the bundle.",
+    "Incorrect. Leaving the family without a coordinated plan risks missed problems and readmission."
+   ],
+   "rationale": "A bundled payment is one payment for a whole episode of care, such as a joint replacement and recovery. If the client develops a complication or returns to the hospital, the organization absorbs the cost. Bundles therefore reward actions that prevent complications and readmissions: early mobility, teaching about warning signs such as calf pain or wound drainage, early discharge planning, and clean handoffs to home health or rehab. Bundled payments are proven to cut costs, especially for orthopedic procedures like this one.",
+   "takeaway": "Under a bundle, preventing complications and readmissions through mobility, teaching, and coordination is the priority.",
+   "hintContent": "Who pays if this client develops a clot or comes back to the hospital?",
+   "hintStrategy": "Link the payment model to the nursing action that prevents the costly outcome.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "priority": true
+  },
+  {
+   "id": "m50-x1-094",
+   "topic": "qi-foundations",
+   "type": "mcq",
+   "stem": "A hospital partners with a local food bank and a housing agency to address food insecurity and unsafe housing among clients with diabetes in its county. Which aim of the AHRQ National Quality Strategy does this project mainly address?",
+   "options": [
+    "Healthy People/Healthy Communities",
+    "Better Care",
+    "Affordable Care",
+    "Patient Safety"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. This aim targets the social and environmental causes of poor health, such as food and housing.",
+    "Incorrect. Better Care focuses on making care itself more reliable, accessible, and person-centered.",
+    "Incorrect. Affordable Care focuses on lowering costs for families, employers, and government.",
+    "Incorrect. Patient safety is one of the six priorities, not one of the three broad aims, and the project does not target harm from care."
+   ],
+   "rationale": "The AHRQ National Quality Strategy has three broad aims: Better Care, Healthy People/Healthy Communities, and Affordable Care. These are reached through six priorities: patient safety; person- and family-centered care; care coordination; effective prevention and treatment, starting with cardiovascular disease; healthy living; and affordability. A project that tackles food insecurity and unsafe housing addresses community and social causes of poor health, which is the Healthy People/Healthy Communities aim. It may also save money, but its main purpose is community health.",
+   "takeaway": "Three NQS aims: Better Care, Healthy People/Healthy Communities, Affordable Care. Social causes of illness point to Healthy Communities.",
+   "hintContent": "Is the project changing care in the hospital, lowering costs, or changing conditions in the community?",
+   "hintStrategy": "Sort a project by its main purpose, not by its side benefits.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-095",
+   "topic": "qi-foundations",
+   "type": "mcq",
+   "stem": "A nurse is preparing a 71-year-old client with an ischemic stroke for discharge home. The hospital tracks stroke core measures. Which action by the nurse is most important to complete before the client leaves?",
+   "options": [
+    "Give the client a list of local restaurants with low-sodium menus",
+    "Ask the client to rate the cleanliness of the room on a survey",
+    "Offer the client a printed copy of the full hospital chart",
+    "Confirm the prescribed discharge medications and a scheduled follow-up visit"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Diet resources may help, but they are not the key clinical benchmark for stroke discharge.",
+    "Incorrect. Room cleanliness is a satisfaction item, not a stroke core measure.",
+    "Incorrect. A full chart copy does not ensure the client has the right medicines or follow-up.",
+    "Correct. Stroke core measures track discharge medications, such as antithrombotics and statins, and follow-up care."
+   ],
+   "rationale": "Core measures track key clinical benchmarks for certain conditions. For stroke and myocardial infarction, they include whether clients leave with the right evidence-based discharge medications, such as antithrombotic and statin therapy, and whether follow-up is arranged. Confirming medications and follow-up both protects the client from a second stroke and ensures the core measure is met and documented accurately. Quality programs also track indicators such as infection rates, fall rates, and pressure injury incidence.",
+   "takeaway": "Stroke and MI core measures center on evidence-based discharge medications and follow-up.",
+   "hintContent": "Which option prevents a second stroke and is a standard benchmark for this condition?",
+   "hintStrategy": "When a stem names core measures, pick the evidence-based clinical action tied to that diagnosis.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "priority": true
+  },
+  {
+   "id": "m50-x1-096",
+   "topic": "qi-foundations",
+   "type": "mcq",
+   "stem": "A nurse is about to give the first dose of IV ceftriaxone to a 49-year-old client. The electronic health record lists “no known allergies,” copied from an admission 2 years ago. The client now says, “I broke out in hives from an antibiotic last spring.” Which action should the nurse take first?",
+   "options": [
+    "Give the dose, because the record lists no known allergies",
+    "Hold the dose and update the allergy record, then notify the provider",
+    "Give half the dose and watch the client closely for hives",
+    "Ask the pharmacy to add a note to next month’s chart audit"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Out-of-date records cannot override new information from the client; giving the drug risks a serious reaction.",
+    "Correct. The nurse protects the client first, then makes the record accurate and current so the provider and pharmacy can choose safely.",
+    "Incorrect. Partial dosing is not a safe or ordered way to manage a possible allergy.",
+    "Incorrect. A future audit does nothing to protect the client right now."
+   ],
+   "rationale": "Informatics supports quality only when records are accurate and current. EHRs used at the point of care improve continuity of care, but copied-forward data can be wrong. Nurses must record medical history accurately and keep electronic and paper records up to date. Here the client reports a new antibiotic reaction, so the nurse holds the dose to prevent harm, updates the allergy list with the details, and notifies the provider for a decision. Accurate records also feed quality data, such as tracking health care-associated infections and drug reactions.",
+   "takeaway": "Accurate, current EHR data are a quality and safety tool; update the record when the client gives new information.",
+   "hintContent": "Which source is more current: a 2-year-old record or what the client tells you now?",
+   "hintStrategy": "For first-action items, prevent harm first, then correct the documentation and communicate.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "priority": true
+  },
+  {
+   "id": "m50-x1-097",
+   "topic": "qi-foundations",
+   "type": "sata",
+   "stem": "A nurse reviews the ethical and legal concepts that support quality care. Which actions by nurses reflect these concepts? Select all that apply.",
+   "options": [
+    "Asking a newly admitted client whether they have a living will or health care proxy",
+    "Reporting a coworker who repeatedly turns off bed alarms to save time",
+    "Debriefing and educating a nurse after an honest, inadvertent dosing slip",
+    "Giving fewer teaching sessions to clients who have no insurance",
+    "Naming the nurse who made an error in an email to the whole staff",
+    "Arranging a qualified interpreter for a client who speaks Haitian Creole"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Asking about advance directives, such as a living will, proxy, or DNR order, follows the law and honors client wishes.",
+    "Correct. Nurses must be alert to staff behavior that risks client harm and address it.",
+    "Correct. After inadvertent mistakes, the legal and ethical approach is to debrief and educate rather than blame.",
+    "Incorrect. Quality care must not vary with a client’s ability to pay.",
+    "Incorrect. Publicly blaming a worker for an inadvertent error discourages reporting and is not appropriate.",
+    "Correct. Culturally competent care and interpreter access are ethical duties that reduce disparities."
+   ],
+   "rationale": "Ethics: clients have the right to the best quality of care regardless of race, gender, sexual orientation, or ability to pay, so nurses advocate against disparities and give culturally competent care. Legal issues: consistently following federal and state law improves quality; nurses watch for abuse and reckless staff behavior that risks harm or violates privacy, and ask about advance directives such as living wills, health care proxies, and DNR orders. After an inadvertent mistake, the response is to debrief and educate, not to blame.",
+   "takeaway": "Equal care, advance directive questions, reporting unsafe staff behavior, and debriefing without blame all support quality.",
+   "hintContent": "Which options protect equal care, client wishes, and safety without blaming people for honest slips?",
+   "hintStrategy": "In ethics and law SATA items, reject options that ration care by payment or publicly shame staff.",
+   "ref": "Module 50 · Quality Improvement · Quality foundations · pp. 2851–2854",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m50-x1-098",
+   "topic": "qi-process-programs",
+   "type": "mcq",
+   "stem": "A medical unit meets its benchmark for catheter-associated urinary tract infections for the first time. Which statement by the unit’s nurse shows an accurate understanding of the quality improvement process?",
+   "options": [
+    "“We keep monitoring this rate and look for the next area to improve.”",
+    "“Now that we met the goal, we can stop collecting data on catheters.”",
+    "“QI is the accreditor’s job, so the unit is finished with this project.”",
+    "“Meeting one benchmark means our unit has no other quality gaps.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. QI is continuous; teams keep measuring to hold the gain and then target the next gap.",
+    "Incorrect. Stopping measurement lets the rate drift back up without anyone noticing.",
+    "Incorrect. QI is carried out at every level, including by unit staff, not only by accreditors.",
+    "Incorrect. One benchmark says nothing about other indicators such as falls or pressure injuries."
+   ],
+   "rationale": "The quality improvement process is continuous, multistep, and multilevel. It identifies areas for improvement based on performance and industry standards, tests changes, and then checks results with quality assurance. When standards are met, monitoring continues so the gain holds, and the team moves on to the next gap. When QI is directly linked to the performance of a person, team, unit, or organization, it is called performance improvement. This unit’s work on its own CAUTI rate is an example.",
+   "takeaway": "QI never ends: measure, compare, change, check, and repeat, even after a benchmark is met.",
+   "hintContent": "Is quality improvement a one-time project or a loop?",
+   "hintStrategy": "Choose the statement that describes QI as continuous and multilevel.",
+   "ref": "Module 50 · Quality Improvement · QI process & programs · pp. 2854–2856, 2859–2860",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-099",
+   "topic": "qi-process-programs",
+   "type": "sata",
+   "stem": "A nurse joins a team that is analyzing current protocols and outcomes on a surgical unit before choosing a QI project. Which activities belong in this analysis step? Select all that apply.",
+   "options": [
+    "Placing a written warning in the file of each nurse with an error",
+    "A peer review of nursing care against preset standards",
+    "A concurrent audit of central line dressing dates",
+    "Use of PROMIS scores to link care with client-reported well-being",
+    "Posting a list of nurses ranked by number of incident reports",
+    "A utilization review of how often urinary catheters are placed"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Incorrect. Discipline is not part of QI analysis and discourages reporting.",
+    "Correct. Peer review is part of intraprofessional assessment within the analysis step.",
+    "Correct. Audits, retrospective or concurrent, examine records for accuracy and proper use.",
+    "Correct. Outcomes management uses client experiences, measured by tools such as PROMIS, to link interventions, outcomes, and cost.",
+    "Incorrect. Ranking staff by reports is punitive and undermines a safe reporting culture.",
+    "Correct. Utilization review looks for overuse, misuse, and underuse of resources."
+   ],
+   "rationale": "The first step of the QI process is analysis of current protocols and outcomes. It includes intraprofessional assessment (peer review, audits, and outcomes management), interprofessional or interdisciplinary assessment by several disciplines, and utilization review for overuse, misuse, and underuse. Outcomes management uses the NIH PROMIS tool to measure physical, mental, and social well-being. Peer review is done in a safe, nonpunitive setting. Written warnings and staff rankings are punitive and do not belong in QI analysis.",
+   "takeaway": "Analysis uses peer review, audits, outcomes management, interprofessional review, and utilization review, never punishment.",
+   "hintContent": "Which options measure care against standards, and which ones punish people?",
+   "hintStrategy": "In QI SATA items, exclude any option that blames or ranks individual staff.",
+   "ref": "Module 50 · Quality Improvement · QI process & programs · pp. 2854–2856, 2859–2860",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m50-x1-100",
+   "topic": "qi-process-programs",
+   "type": "mcq",
+   "stem": "A hospital adopts an approach in which every department, its suppliers, and a client advisory council share data, give feedback, and make fact-based decisions to keep improving quality across the whole organization. Which program best describes this approach?",
+   "options": [
+    "Utilization review",
+    "Lean",
+    "National Database of Nursing Quality Indicators",
+    "Total Quality Management (TQM)"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Utilization review analyzes resource use for overuse, misuse, and underuse.",
+    "Incorrect. Lean focuses on removing wasted steps from a workflow.",
+    "Incorrect. The NDNQI is a database for comparing nursing-sensitive indicators with similar units.",
+    "Correct. TQM is a whole-organization philosophy using teamwork that includes suppliers and customers, communication, feedback, fact-based decisions, and continual improvement."
+   ],
+   "rationale": "Total Quality Management is a comprehensive management philosophy. It relies on teamwork across the entire organization, including suppliers and customers, plus communication, feedback, fact-based decision-making, and continual improvement. The course credits Walter Shewhart with inventing it and W. Edwards Deming with making it famous. CQI targets specific problems step by step, Lean removes workflow waste, and Six Sigma cuts defects and variation. The scope here, the entire organization plus suppliers and customers, is the clue to TQM.",
+   "takeaway": "Whole organization plus suppliers and customers, fact-based decisions, and continual improvement = TQM.",
+   "hintContent": "How wide is the scope of this approach: one problem, one workflow, or the whole organization?",
+   "hintStrategy": "Match the program by its scope and main tool, not by the general goal of better quality.",
+   "ref": "Module 50 · Quality Improvement · QI process & programs · pp. 2854–2856, 2859–2860",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-101",
+   "topic": "qi-process-programs",
+   "type": "mcq",
+   "stem": "A continuous quality improvement (CQI) team on a medical-surgical unit is redesigning its discharge process. The team lists the internal customers it must consult. Which group belongs on this list?",
+   "options": [
+    "Health insurance payers",
+    "Family caregivers of discharged clients",
+    "Medical records and billing staff",
+    "Clients who were recently discharged"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Payers are external customers.",
+    "Incorrect. Families are external customers.",
+    "Correct. Internal customers work inside the organization, such as nurses, physicians, therapists, medical records staff, and billing staff.",
+    "Incorrect. Clients are external customers."
+   ],
+   "rationale": "CQI is customer-driven, progressive, incremental improvement. It applies to specific problems, policies and procedures, resource utilization, and evidence-based practice. CQI serves two groups. Internal customers work within the organization: nurses, physicians, therapists, medical records staff, and billing staff. External customers are clients, families, and payers. A discharge redesign affects the records and billing staff who complete the discharge paperwork, so they are internal customers to consult along with external ones.",
+   "takeaway": "CQI internal customers work inside the organization; clients, families, and payers are external customers.",
+   "hintContent": "Who among these people works for the hospital?",
+   "hintStrategy": "Sort each option by whether the person is inside or outside the organization.",
+   "ref": "Module 50 · Quality Improvement · QI process & programs · pp. 2854–2856, 2859–2860",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-102",
+   "topic": "qi-process-programs",
+   "type": "sata",
+   "stem": "A community clinic is writing a comprehensive quality management plan. Which elements should the nurse expect the plan to include? Select all that apply.",
+   "options": [
+    "Joining new programs and technology with existing primary care services",
+    "Limiting the plan to clinical areas and leaving out facility issues",
+    "Measures of population health for the people the clinic serves",
+    "Attention to value, including per capita costs",
+    "Client satisfaction surveys and follow-up",
+    "Replacing existing primary care services with the new programs"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. The plan integrates new programs, models, and technologies with existing primary care services.",
+    "Incorrect. The plan spans clinical, managerial, administrative, and facility-related aspects.",
+    "Correct. It addresses population health.",
+    "Correct. It addresses value, such as per capita costs.",
+    "Correct. It uses client satisfaction surveys and follow-up.",
+    "Incorrect. It integrates new programs with existing services rather than replacing them."
+   ],
+   "rationale": "A comprehensive quality management plan integrates new programs, models, and technologies with existing primary care services. It covers clinical, managerial, administrative, and facility-related aspects. It addresses engagement, population health, and value, measured as per capita costs. It uses client satisfaction surveys and follow-up. Quality assurance then evaluates implemented changes by collecting post-change data and comparing it with benchmark standards; if standards are not met, QI continues.",
+   "takeaway": "A comprehensive plan integrates new and existing services across all areas and addresses engagement, population health, value, and satisfaction.",
+   "hintContent": "Does a comprehensive plan replace or integrate, and does it narrow or widen its scope?",
+   "hintStrategy": "For “comprehensive” plans, eliminate options that limit scope or remove existing services.",
+   "ref": "Module 50 · Quality Improvement · QI process & programs · pp. 2854–2856, 2859–2860",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m50-x1-103",
+   "topic": "qi-process-programs",
+   "type": "mcq",
+   "stem": "A unit put a new hand-off tool in place 3 months ago. Post-change data show hand-off omissions dropped from 22% to 15%, but the benchmark standard is 5%. What should the QI team do next?",
+   "options": [
+    "Continue the QI process to find why omissions persist and test further changes",
+    "Declare the project a success because omissions decreased",
+    "Stop using the hand-off tool because it did not meet the benchmark",
+    "Wait 1 year before collecting any more hand-off data"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Quality assurance shows the standard is not met, so QI continues with another cycle of analysis and change.",
+    "Incorrect. Improvement alone does not meet the standard; the gap is still three times the benchmark.",
+    "Incorrect. The tool helped; abandoning it would lose the gain. The team should adapt, not quit.",
+    "Incorrect. Waiting a year leaves clients exposed to unsafe hand-offs."
+   ],
+   "rationale": "Quality assurance evaluates implemented changes by collecting post-intervention data and comparing them with benchmark standards to see whether the standards are met. If standards are not met, quality improvement continues. Here the change helped but did not reach the 5% benchmark, so the team goes back into the QI process: analyze why omissions remain, adapt the tool or training, and test again, as in another PDSA cycle. Declaring success, abandoning the tool, or pausing data collection all ignore the remaining gap.",
+   "takeaway": "QA compares post-change data with the benchmark; if the standard is not met, QI continues.",
+   "hintContent": "Was the benchmark standard met?",
+   "hintStrategy": "For “next step” QI items, compare the result with the standard before deciding to stop or continue.",
+   "ref": "Module 50 · Quality Improvement · QI process & programs · pp. 2854–2856, 2859–2860",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": true
+  },
+  {
+   "id": "m50-x1-104",
+   "topic": "patient-safety-culture",
+   "type": "mcq",
+   "stem": "A new graduate nurse tells the nurse manager, “I almost hung the wrong IV bag last night, but I caught it. I didn’t report it because I was afraid I’d get in trouble.” Which response by the manager best supports a blame-free reporting environment?",
+   "options": [
+    "“Near misses do not count, so there was nothing to report.”",
+    "“Next time, tell only your preceptor so it stays off the record.”",
+    "“You should have reported it, so I will need to write you up.”",
+    "“Thank you for telling me. Please report near misses so we can fix the system.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Near misses should be reported; they reveal the same weak spots as errors that cause harm.",
+    "Incorrect. Keeping it informal hides the system problem from the people who can fix it.",
+    "Incorrect. Punishing the nurse for not reporting teaches staff to hide events.",
+    "Correct. The manager thanks the nurse and explains that reports of errors and near misses are used to find and fix system problems."
+   ],
+   "rationale": "In a blame-free environment, health care professionals can report errors or near misses without fear of punishment, so system problems can be identified and fixed. Just Culture keeps this safe reporting but adds accountability and zero tolerance for reckless behavior. A near miss caught in time, such as a wrong IV bag, shows a system weakness such as look-alike packaging or storage. Thanking the nurse and encouraging reporting builds trust; punishment or informal handling drives problems underground.",
+   "takeaway": "Blame-free = report errors and near misses without fear so systems can be fixed.",
+   "hintContent": "Which reply makes the nurse more likely to report next time?",
+   "hintStrategy": "For safety culture items, pick the reply that encourages reporting and points to system fixes.",
+   "ref": "Module 50 · Quality Improvement · Safety events & Just Culture · pp. 2856–2859",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-105",
+   "topic": "patient-safety-culture",
+   "type": "mcq",
+   "stem": "A risk manager reviews four events on a medical unit. Which event is most likely to be judged a breach of care by the nurse?",
+   "options": [
+    "A client has an allergic reaction to a correctly given first dose of a new drug",
+    "The nurse does not check an IV site for 8 hours, despite hourly policy, and infiltration harms the hand",
+    "A client with capacity refuses a prescribed walk after full teaching, which is documented",
+    "A client with a terminal illness dies peacefully with comfort care in place"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. This is an adverse drug event without an error; the standard of care was followed.",
+    "Correct. Missing required IV monitoring departs from the standard of care, which is a breach of care (breach of duty).",
+    "Incorrect. A client with capacity may refuse care; teaching and documentation meet the standard.",
+    "Incorrect. An expected death from the illness, with appropriate care, is not a breach."
+   ],
+   "rationale": "A breach of care, or breach of duty, occurs when a nurse deviates from the standard of care. CRICO malpractice data show nurses are most often involved in breaches around bedside care, such as medication administration and monitoring of IVs, catheters, and wounds, as well as falls, pressure injuries, and communication breakdowns. Failing to check an IV site as policy requires, followed by harm, fits this pattern. An ADE after a correct dose, an informed refusal, and an expected death are not departures from the standard.",
+   "takeaway": "Breach of care = departing from the standard of care; bedside monitoring lapses are the most common nursing breaches.",
+   "hintContent": "In which event did the nurse fail to do what the standard requires?",
+   "hintStrategy": "Separate bad outcomes from departures from the standard; only the second is a breach.",
+   "ref": "Module 50 · Quality Improvement · Safety events & Just Culture · pp. 2856–2859",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "priority": false
+  },
+  {
+   "id": "m50-x1-106",
+   "topic": "patient-safety-culture",
+   "type": "mcq",
+   "stem": "A 58-year-old client who had surgery yesterday tells the nurse, “I waited 40 minutes for my pain pill. This place is terrible, and I’m going to sue.” The client rates pain 8 out of 10. Which action should the nurse take first?",
+   "options": [
+    "Explain that the unit is short-staffed today",
+    "Give the client the phone number for the risk manager",
+    "Acknowledge the frustration and assess the client’s pain now",
+    "Document the threat to sue in the client’s medical record"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Excuses do not meet the client’s need and can increase anger.",
+    "Incorrect. Referral may come later, but it ignores the unmet pain need.",
+    "Correct. Listening, acknowledging, and meeting the need address both client comfort and the dissatisfaction that drives liability.",
+    "Incorrect. The priority is the client’s pain and concern, not charting the threat."
+   ],
+   "rationale": "Risk management includes proactive steps that prevent harm and reactive steps that limit damage. Patient dissatisfaction is a major risk factor for liability. The best tool is therapeutic communication combined with meeting the need: acknowledge the client’s feelings, assess the pain now, and treat it as prescribed. Afterward, the nurse can involve the charge nurse or patient advocate and report the delay per policy. Explaining staffing or focusing on the lawsuit threat does not resolve the cause of the dissatisfaction.",
+   "takeaway": "Patient dissatisfaction is a major liability risk; listen, acknowledge, and meet the need first.",
+   "hintContent": "What does the client need right now, and what drives most complaints and lawsuits?",
+   "hintStrategy": "When a client threatens legal action, address the underlying need before paperwork or referrals.",
+   "ref": "Module 50 · Quality Improvement · Safety events & Just Culture · pp. 2856–2859",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "priority": true
+  },
+  {
+   "id": "m50-x1-107",
+   "topic": "patient-safety-culture",
+   "type": "sata",
+   "stem": "A unit practice council plans actions based on the AACN standards for a healthy work environment. Which actions align with these standards? Select all that apply.",
+   "options": [
+    "Training all staff in structured, respectful communication such as SBAR",
+    "Having the manager make all unit decisions without staff input",
+    "Holding interprofessional rounds where nurses help shape each client’s plan",
+    "Matching nurse staffing to client acuity each shift",
+    "Requiring mandatory overtime to cover chronic vacancies",
+    "Creating a peer-nominated program to recognize meaningful nursing work"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. This supports skilled communication.",
+    "Incorrect. Excluding staff works against effective decision-making and authentic leadership.",
+    "Correct. This supports true collaboration and effective decision-making.",
+    "Correct. This supports appropriate staffing.",
+    "Incorrect. Mandatory overtime works against appropriate staffing and raises fatigue-related errors.",
+    "Correct. This supports meaningful recognition."
+   ],
+   "rationale": "The AACN’s six standards for a healthy work environment are skilled communication, true collaboration, effective decision-making, appropriate staffing, meaningful recognition, and authentic leadership. Healthy work environments support safe care and evidence-based practice. Personal responsibility also matters: nurses and students must never perform an act they are unsure how to perform, must follow facility policies and procedures, and must report errors properly. Mandatory overtime and top-down decisions undermine these standards.",
+   "takeaway": "AACN: skilled communication, true collaboration, effective decision-making, appropriate staffing, meaningful recognition, authentic leadership.",
+   "hintContent": "Which options match one of the six AACN standards?",
+   "hintStrategy": "For standards-based SATA items, match each option to a named standard and reject those that undermine it.",
+   "ref": "Module 50 · Quality Improvement · Safety events & Just Culture · pp. 2856–2859",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
   }
  ]
 });

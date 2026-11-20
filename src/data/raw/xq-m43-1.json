@@ -3026,6 +3026,200 @@
    "focus": "Delegation & Safety",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m43-x1-087",
+   "topic": "advocacy-interventions",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A pediatric oncology nurse notices that children admitted for long chemotherapy courses fall behind in school, have no place to play, and miss the family dog. Which action best reflects advocacy related to cellular regulation?",
+   "options": [
+    "Ask the family council to fund a hospital school, playroom, and pet visit area",
+    "Teach parents to bring the child’s homework from school once a week",
+    "Advise the family to delay schooling until the chemotherapy ends",
+    "Remind parents that pets pose an infection risk during chemotherapy"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Pushing for cancer services such as schooling, playtime, and pet play areas changes the system for every child on the unit.",
+    "Incorrect. Homework help supports one family but does not change the services available to children with cancer.",
+    "Incorrect. Delaying school harms development and ignores the child’s psychosocial needs.",
+    "Incorrect. Infection teaching matters, but it does not advocate for the missing services."
+   ],
+   "rationale": "Advocacy linked to cellular regulation raises awareness of client needs and funding for research and treatment. For children with cancer, nurses advocate for services such as playtime, schooling, and pet play areas, and for research funding. Asking an organizational group to fund those services is system-level advocacy that reaches every child. Teaching parents to bring homework is tempting because it is helpful, but it is a single-family fix that leaves the gap in services in place.",
+   "takeaway": "Cellular regulation advocacy: push for cancer services (play, school, pets) and research funding.",
+   "hintContent": "Which option changes what the hospital offers to all children with cancer?",
+   "hintStrategy": "When a stem names a related concept, match the option to that concept’s nursing implication, not just to good care.",
+   "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 6–7",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity"
+  },
+  {
+   "id": "m43-x1-088",
+   "topic": "advocacy-interventions",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nurse at a rural county clinic learns that clients with heart failure must drive 90 miles to see a cardiologist. Many skip follow-up visits and are readmitted. Which action by the nurse best addresses this barrier?",
+   "options": [
+    "Teach each client that missed visits raise the risk of readmission",
+    "Propose a telehealth cardiology program and help apply for funding",
+    "Give clients a printed list of cardiology offices in the nearest city",
+    "Document each missed visit as nonadherence in the health record"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Teaching does not remove the distance barrier that causes the missed visits.",
+    "Correct. Telehealth and funding give rural clients equal access to specialty care, which is health care systems advocacy.",
+    "Incorrect. A list of distant offices leaves the 90-mile barrier in place.",
+    "Incorrect. Labeling a system barrier as nonadherence blames the client and changes nothing."
+   ],
+   "rationale": "Vulnerable clients in rural or underserved areas face more barriers to access. The nurse’s advocacy role in health care systems is to defend the right to equal care, including supporting telehealth and funding. Proposing a telehealth program removes the barrier for every client in the county. Teaching about readmission risk is tempting because it sounds like client education, but the clients are not missing visits from lack of knowledge; they are missing them because of distance.",
+   "takeaway": "When the barrier is access, advocate for a system fix such as telehealth, not more teaching.",
+   "hintContent": "Is the root problem what clients know, or how far they must travel?",
+   "hintStrategy": "Find the cause of the problem in the stem, then pick the option that removes that cause.",
+   "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 6–7",
+   "alsoTests": [],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m43-x1-089",
+   "topic": "advocacy-interventions",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nurse was in a client’s room for most of the morning and saw no ventilator checks. Later the nurse sees that a respiratory therapist charted hourly ventilator checks for that period. What should the nurse do first?",
+   "options": [
+    "Ask the respiratory therapist to explain the entries in front of the client",
+    "Correct the respiratory therapist’s entries in the health record",
+    "Report the facts privately to the nurse’s direct supervisor",
+    "Leave it alone, because respiratory therapy has its own department"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Confronting a coworker in front of the client is unprofessional and is not the reporting procedure.",
+    "Incorrect. A nurse may not change another professional’s documentation.",
+    "Correct. False charting by any staff member must be reported, and the direct supervisor is the first step in the chain of command.",
+    "Incorrect. The duty to report covers non-nurses, too, and false records endanger the client."
+   ],
+   "rationale": "Advocacy related to legal issues means upholding client rights, monitoring care given by other professionals, and reporting unethical or illegal acts by any nurse, provider, or staff member. Charting checks that were not done is falsification and puts a ventilated client at risk. The first step is a private, factual report to the direct supervisor. Leaving it to another department is tempting, but the duty to report is not limited to nurses.",
+   "takeaway": "Report unethical or illegal acts by any staff member, starting with your direct supervisor.",
+   "hintContent": "Does the duty to report depend on whether the person is a nurse?",
+   "hintStrategy": "For first-action reporting items, choose the private, factual report that follows the chain of command.",
+   "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 6–7",
+   "alsoTests": [
+    "reporting-unprofessional"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m43-x1-090",
+   "topic": "advocacy-interventions",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A staff nurse wants her unit to adopt bedside shift report so clients can take part in planning their care. Which behavior by the nurse will most increase the chance that her proposal is accepted?",
+   "options": [
+    "Telling coworkers that managers never listen to staff ideas",
+    "Starting bedside report with her own clients before approval",
+    "Posting her concerns about the unit on a public social media page",
+    "Following policy and presenting evidence to the practice council"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Complaining undermines trust and makes the nurse less credible.",
+    "Incorrect. Changing practice without approval breaks policy and lowers credibility.",
+    "Incorrect. Public posts about the unit are unprofessional and may risk privacy.",
+    "Correct. Professional conduct and evidence raise credibility, which raises the chance of successful advocacy."
+   ],
+   "rationale": "Acting professionally increases a nurse’s credibility, which increases the chances of successful advocacy. Following policy and bringing evidence to the right group shows that the nurse acts within professional and ethical standards. Starting the change alone is tempting because it seems proactive, but bypassing approval damages trust and can be a policy violation. Complaining or posting publicly also lowers credibility.",
+   "takeaway": "Professional behavior builds credibility, and credibility makes advocacy work.",
+   "hintContent": "Which option makes leaders more likely to trust the nurse’s idea?",
+   "hintStrategy": "In professional behavior items, pick the option that works through proper channels with evidence.",
+   "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 6–7",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m43-x1-091",
+   "topic": "advocacy-interventions",
+   "type": "sata",
+   "stem": "A home health nurse visits a 74-year-old client with Parkinson disease who uses a cane, has fallen twice, and cannot reach the bus stop because the corner has no curb ramp. Which actions reflect advocacy related to mobility? Select all that apply.",
+   "options": [
+    "Requesting a physical therapy home safety evaluation",
+    "Asking the provider to order a walker fitted to the client’s height",
+    "Writing to the city council to request a curb ramp at the corner",
+    "Advising the client to stay in bed until his balance improves",
+    "Moving the client’s furniture while he is at a medical appointment"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Home safety evaluations lower the risk of further injury.",
+    "Correct. A correctly sized device improves safety and quality of life.",
+    "Correct. Pushing for public accessibility is macrosocial mobility advocacy.",
+    "Incorrect. Bed rest increases immobility and its complications.",
+    "Incorrect. Changing his home without consent ignores his autonomy."
+   ],
+   "rationale": "Advocacy related to mobility improves understanding, lowers the risk of further injury or immobility, and raises quality of life. Nurses advocate for access to care, properly sized mobility devices, home safety evaluations, and public accessibility. A curb ramp request is system-level advocacy that helps everyone with limited mobility. Advising bed rest is tempting because it seems to prevent falls, but it worsens immobility. Moving furniture without asking ignores the client’s right to decide about his home.",
+   "takeaway": "Mobility advocacy: right devices, home safety checks, and public accessibility.",
+   "hintContent": "Which options reduce injury risk while keeping the client moving and in control?",
+   "hintStrategy": "In SATA items, test each option against both safety and the client’s autonomy.",
+   "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 6–7",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m43-x1-092",
+   "topic": "advocacy-interventions",
+   "type": "sata",
+   "stem": "A 49-year-old Muslim client admitted for pneumonia tells the nurse that she prefers female caregivers, eats only halal food, and prays five times a day. Which actions by the nurse reflect advocacy related to culture and diversity? Select all that apply.",
+   "options": [
+    "Asking the charge nurse to assign female staff when possible",
+    "Requesting halal meals from dietary services",
+    "Planning nonurgent care around her prayer times",
+    "Explaining that hospital routines cannot change for one client",
+    "Asking her husband to decide which preferences matter most"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Honoring a caregiver gender preference respects her values and builds trust.",
+    "Correct. Diet requests are a cultural and religious preference the nurse can arrange.",
+    "Correct. Scheduling around prayer respects her religious practice without risking safety.",
+    "Incorrect. Refusing reasonable requests ignores her right to culturally competent care.",
+    "Incorrect. She is capable, so she decides; asking her husband bypasses her autonomy."
+   ],
+   "rationale": "Advocating for cultural and religious preferences raises client satisfaction and strengthens the therapeutic relationship. The nurse gives culturally competent care by respecting the client’s values, defending her right to such care, and promoting equity of care. Staff gender, halal meals, and prayer-friendly scheduling are all reasonable accommodations. Asking the husband to decide is tempting because family may matter in her culture, but a capable client states her own preferences.",
+   "takeaway": "Culture and diversity advocacy: honor reasonable cultural and religious requests, and let the capable client speak for herself.",
+   "hintContent": "Which options respond directly to what the client herself asked for?",
+   "hintStrategy": "In culture items, keep options that honor the client’s stated wishes and reject ones that override or bypass her.",
+   "ref": "Module 43 · Advocacy · Advocacy Interventions · pp. 6–7",
+   "alsoTests": [
+    "advocate-role"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 1,
+   "clientNeed": "Psychosocial Integrity"
   }
  ]
 }

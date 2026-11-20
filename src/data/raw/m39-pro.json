@@ -171,6 +171,111 @@
    "front": "Name three drivers of high U.S. healthcare costs.",
    "back": "Administrative waste, high pharmaceutical prices, and public health shocks such as the COVID-19 pandemic.",
    "topic": "cost-effective-care"
+  },
+  {
+   "front": "Define patient-focused (patient-centered) care.",
+   "back": "Care organized with the client and family at the center of planning and decisions, respecting religious and cultural preferences, lifestyle, autonomy, and dignity, while the nurse still does no harm.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Define the case method (total patient care).",
+   "back": "One nurse gives all care and coordination to assigned clients for one shift, using the full nursing process. Common in the ED and ICU. Costly; little continuity across shifts.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Define the functional method.",
+   "back": "A task-based model: staff with less education are assigned specific tasks (one passes meds, one takes vitals). Economical and fast, but fragmented; misses psychosocial and cultural needs.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Define team nursing.",
+   "back": "An RN team leader coordinates care for a group of clients with LPNs/LVNs and UAP. Relies on strong RN delegation, supervision, and communication; efficient when staffing is adequate.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Define primary nursing.",
+   "back": "One RN designs and oversees comprehensive care for assigned clients for the whole stay (24/7 accountability for the plan). Common in ICUs; needs many RNs and clear handoffs.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Role of the RN in care delivery?",
+   "back": "Initial and ongoing assessment, identifying health problems, and developing and coordinating the care plan. Team leader in team nursing; owns the plan in primary nursing.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Role of the LPN/LVN?",
+   "back": "Direct care for stable clients, such as routine treatments, dressing changes, and medications within scope, under the direction of an RN, physician, or other licensed provider.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "UAP: other names and typical tasks?",
+   "back": "Also called assistive personnel, CNAs, hospital attendants, nurse technicians, orderlies. Delegated basic care: bathing, feeding help, walking, toileting, linens, routine specimens.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Three nurse functions in managed care?",
+   "back": "1) Delegation (frees the RN for assessment, care planning, evaluation, teaching). 2) Care coordination and time management (no duplication). 3) Interpersonal skills, the heart of managed care.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Six concepts related to managing care?",
+   "back": "Advocacy, clinical decision making, communication, ethics, healthcare systems, and teaching and learning.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Course fact on staffing laws?",
+   "back": "Course guide: 14 states have staffing regulations, but only California mandates hospital nurse-to-patient ratios. Current: Oregon (2023 law) and Massachusetts (ICU) also mandate ratios.",
+   "topic": "managing-care"
+  },
+  {
+   "front": "Define critical pathway, and give its other names.",
+   "back": "A standardized, evidence-based plan for a group of clients with a similar, predictable condition, organized by time frames, tracking variances. Also called care map, critical path, clinical pathway, care pathway.",
+   "topic": "case-management"
+  },
+  {
+   "front": "High-risk triggers for case management?",
+   "back": "High-volume/high-risk diagnoses (hip replacement, TBI), multiple comorbidities or acute stays of 3 days or more, need for a ventilator or home health, and functional decline during the stay.",
+   "topic": "case-management"
+  },
+  {
+   "front": "Three case manager settings?",
+   "back": "Provider-based/PCMH (primary care office is home base); hospital-based (discharge planners); community-based, insurer, or employer (home or payer, ongoing care, cost control).",
+   "topic": "case-management"
+  },
+  {
+   "front": "What percentage of case managers are RNs, and what is required for certification?",
+   "back": "About 89% are RNs. Certification requires a BS or MS in a health or human services field plus supervised clinical experience.",
+   "topic": "case-management"
+  },
+  {
+   "front": "Define public insurance.",
+   "back": "Government-funded payment for people who meet eligibility criteria, such as Medicare and Medicaid.",
+   "topic": "cost-effective-care"
+  },
+  {
+   "front": "Define private insurance.",
+   "back": "Coverage from private or publicly owned companies, often employer-sponsored or bought individually, such as Blue Cross Blue Shield, Kaiser Permanente, and Aetna.",
+   "topic": "cost-effective-care"
+  },
+  {
+   "front": "Define socialized medicine.",
+   "back": "The state owns and controls health services, and physicians earn virtually all income as government employees. Examples: United Kingdom, Sweden, Denmark.",
+   "topic": "cost-effective-care"
+  },
+  {
+   "front": "Define socialized insurance.",
+   "back": "The government covers all medically necessary services (physician, hospital, other benefits), while delivery may stay private. Example: Canada.",
+   "topic": "cost-effective-care"
+  },
+  {
+   "front": "Define out-of-network (nonparticipating) penalty.",
+   "back": "Higher out-of-pocket cost for care received outside the plan's approved network or without meeting coverage rules (for example, no referral or prior approval).",
+   "topic": "cost-effective-care"
+  },
+  {
+   "front": "The U.S. health care paradox (Commonwealth Fund)?",
+   "back": "Highest spending, yet the highest obesity rate, highest chronic disease burden, highest suicide rate, and lowest life expectancy among peer countries. 2017 DALY rate 31% higher.",
+   "topic": "cost-effective-care"
   }
  ],
  "questions": [

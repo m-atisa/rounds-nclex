@@ -73,6 +73,26 @@
    "topic": "law-torts-privacy"
   },
   {
+   "front": "Define law (Guido, 2020).",
+   "back": "“The sum total of the rules and regulations by which a society is governed.” Made at federal, state, and local levels and changed as society’s needs change.",
+   "topic": "law-torts-privacy"
+  },
+  {
+   "front": "Define crime. Felony vs. misdemeanor?",
+   "back": "An act banned by statute or common law, treated as a wrong against the state, not just one person. Felony: serious (homicide, manslaughter, theft). Misdemeanor: lesser offense.",
+   "topic": "law-torts-privacy"
+  },
+  {
+   "front": "Define false imprisonment and give course examples.",
+   "back": "“The unjustifiable detention of a person without legal warrant to confine the person.” Examples: confining a client to a room, restraining to a bed to restrict freedom, keeping a client who wants to leave AMA.",
+   "topic": "law-torts-privacy"
+  },
+  {
+   "front": "What are the two purposes of health care agency policies?",
+   "back": "1) Promote client safety and lower the risk of errors causing adverse events. 2) Protect staff and the agency. Example: a valuables policy prevents theft or loss.",
+   "topic": "law-torts-privacy"
+  },
+  {
    "front": "Negligence vs. malpractice?",
    "back": "Negligence: falling below what a reasonable person would do. Malpractice: professional negligence measured against a reasonably prudent nurse with similar training.",
    "topic": "malpractice-standard-care"
@@ -128,6 +148,51 @@
    "topic": "malpractice-standard-care"
   },
   {
+   "front": "Define duty (malpractice element 1). When does it begin?",
+   "back": "A legally enforceable obligation to meet a standard of care. It begins when the nurse accepts responsibility for the client’s care (the provider–patient relationship).",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "Define breach of duty.",
+   "back": "A departure from the standard of care owed to the client, by commission (doing wrong, e.g., wrong drug or dose) or omission (failing to act).",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "Define foreseeability.",
+   "back": "Certain acts can reasonably be expected to cause certain results; the nurse should have known or anticipated that harm would likely follow.",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "Define causation.",
+   "back": "The injury resulted directly from the nurse’s breach of duty (e.g., proving a specific nurse broke aseptic technique and caused an infection).",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "Define injury or harm (malpractice element 5).",
+   "back": "Physical, financial, or emotional harm resulting from the breach. A wrong drug with no harm does not meet the elements of malpractice.",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "Define damages and list the types.",
+   "back": "Money to restore the plaintiff’s original position as far as possible: medical fees, lost wages, emotional damages (pain and suffering), and punitive damages if conduct was malicious, willful, or wanton.",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "Define liability.",
+   "back": "The state of being legally obligated and responsible. In malpractice, all six elements must be proven to establish it.",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "What forms the standard of care, and what adds to it?",
+   "back": "Primary: the state NPA and administrative (Board) rules. Also: job description (can limit, not expand, scope), agency policies and procedures, and national standards (ANA Standards of Practice, specialty standards).",
+   "topic": "malpractice-standard-care"
+  },
+  {
+   "front": "NPDB: what share of 2018 malpractice payments involved nurses?",
+   "back": "795 of 11,810 payments, just under 7% (National Practitioner Data Bank).",
+   "topic": "malpractice-standard-care"
+  },
+  {
    "front": "Who obtains informed consent, and what does the nurse do?",
    "back": "The provider performing the procedure obtains it; the nurse assesses ability to understand, arranges an interpreter, witnesses the signature, and notifies the provider of questions.",
    "topic": "consent-laws-lifespan"
@@ -180,6 +245,26 @@
   {
    "front": "An adolescent asks, “Will you keep this secret?” Best approach?",
    "back": "Promise confidentiality when possible but explain its limits (safety, abuse reporting, insurance statements); never promise absolute secrecy.",
+   "topic": "consent-laws-lifespan"
+  },
+  {
+   "front": "Define informed consent.",
+   "back": "The client’s legal and ethical right to be told about, and to give or refuse permission for, any procedure or treatment, given freely without pressure, fear, or undue influence.",
+   "topic": "consent-laws-lifespan"
+  },
+  {
+   "front": "Define whistleblower. What retaliation is banned?",
+   "back": "The employee who discloses an employer’s unsafe or illegal practices. Dismissal, demotion, discipline, and intimidation are prohibited (OSHA); report retaliation to OSHA before resigning.",
+   "topic": "consent-laws-lifespan"
+  },
+  {
+   "front": "Table 49.2: name the course’s Schedule IV examples.",
+   "back": "Alprazolam, clonazepam, lorazepam, midazolam, diazepam. Lower abuse potential and dependence; Rx required.",
+   "topic": "consent-laws-lifespan"
+  },
+  {
+   "front": "Course signs of abuse in infants vs. older children?",
+   "back": "Infants: any bruising (physical abuse); vomiting, irritability, lethargy (possible head injury). Older children: unexplained injuries, injuries not matching the story, untreated medical problems. Sexual abuse: often no physical findings; cultures may show STIs.",
    "topic": "consent-laws-lifespan"
   }
  ],

@@ -90,7 +90,7 @@
     {
      "heading": "What counts as health policy?",
      "keyIdea": "Health policy is any law, rule, or decision that steers health care, so always ask who made it.",
-     "body": "<p>Health policy is broader than “the law.” It is any action government or other groups take to reach health goals.</p><p>The key sorting rule is <b>public</b> versus <b>private</b>. Public policy is law or regulation written by government. A state can fine a facility or discipline a license for breaking it.</p><p>Private policy comes from hospitals, accreditors, and nursing associations. It is not law, but it has real power. Ignoring hospital policy can bring employer discipline.</p><p>Private groups also shape public policy by testifying, lobbying, and commenting on proposed rules. That is one reason nurses join associations.</p>",
+     "body": "<p>Health policy is broader than “the law.” It is any action government or other groups take to reach health goals.</p><p>The key sorting rule is <b>public</b> versus <b>private</b>. Public policy is law or regulation written by government. A state can fine a facility or discipline a license for breaking it.</p><p>Private policy comes from hospitals, accreditors, and nursing associations. It is not law, but it has real power. Ignoring hospital policy can bring employer discipline.</p><p>Private groups also shape public policy by testifying, lobbying, and commenting on proposed rules. That is one reason nurses join associations.</p><p>Why does it matter? Health policy drives the <b>availability, safety, and quality</b> of care.</p><p>Many groups can push on public policy: NGOs, health care associations, accrediting bodies, and private citizens. Private policy can also come from <b>health professions education associations</b>. It shapes practice, access to care, research, funding, and nursing education, even though it is not law.</p>",
      "bullets": [
       "<b>Laws</b> (statutes) and <b>regulations</b> (rules)",
       "Agency <b>guidelines</b>, such as CDC isolation guidance",
@@ -132,7 +132,7 @@
     {
      "heading": "Law, regulation, policy: which rule wins?",
      "keyIdea": "Law sets the outer limit, regulations add detail, and facility policy may be stricter but never looser.",
-     "body": "<p>The <b>legislative branch</b> makes laws. Federally, Congress passes a bill and the President signs it, or Congress overrides a veto. In a state, the legislature passes it and the governor signs it.</p><p>Laws use broad words so they last. The <b>executive branch</b> carries them out. The <em>enabling statute</em> lets an agency write <b>regulations</b> with the details. Regulations have the force of law but cannot go beyond the law. The <b>courts</b> interpret laws, and their decisions also bind.</p><p>When rules conflict, use this order: law, regulation, facility policy, unit procedure. A lower rule may be stricter, never looser. So follow the most restrictive rule that applies.</p><p>Delegation works the same way. Law and board rules set the limits, job descriptions narrow them, and the RN decides for each client.</p>",
+     "body": "<p>The <b>legislative branch</b> makes laws. Federally, Congress passes a bill and the President signs it, or Congress overrides a veto. In a state, the legislature passes it and the governor signs it.</p><p>Laws use broad words so they last. The <b>executive branch</b> carries them out. The <em>enabling statute</em> lets an agency write <b>regulations</b> with the details. Regulations have the force of law but cannot go beyond the law. Every regulation must point back to the law that allows it. For example, the CDC writes rules to control communicable disease. A state board of nursing enforces the nurse practice act and licenses and disciplines nurses. The <b>courts</b> interpret laws, and their decisions also bind.</p><p>When rules conflict, use this order: law, regulation, facility policy, unit procedure. A lower rule may be stricter, never looser. So follow the most restrictive rule that applies.</p><p>Delegation works the same way. Law and board rules set the limits, job descriptions narrow them, and the RN decides for each client.</p>",
      "steps": [
       "A problem gets attention, such as rising overdose deaths.",
       "Legislators introduce a bill; committees hold hearings where nurses may testify.",
@@ -246,6 +246,31 @@
      "check": {
       "q": "An RN finds her license expired at midnight. She has five clients. What first?",
       "a": "Tell the charge nurse so clients are reassigned, and give no care until it is renewed. Even one shift is unlicensed practice."
+     },
+     "table": {
+      "caption": "Outcome 47.3: concepts linked to health policy",
+      "headers": [
+       "Concept",
+       "How policy connects",
+       "What it means for the nurse"
+      ],
+      "rows": [
+       [
+        "Health care systems",
+        "Coverage drives access; the ACA covered millions more. Public policy directs coding, billing, and payment, which shapes how care is given and documented.",
+        "Insured clients use primary care more, which improves continuity for chronic illness. Formularies make generics cheap and brands costly; work with prescribers on generics."
+       ],
+       [
+        "Legal issues",
+        "The U.S. Constitution lets states govern professions such as nursing, medicine, and pharmacy. Boards of nursing or “umbrella boards” enforce practice acts.",
+        "A current license is required. Know your state’s scope; a violation puts your license at risk. Board rules add detail on safe practice, delegation, and continuing education."
+       ],
+       [
+        "Quality improvement (QI)",
+        "Policy moves science into practice. AHRQ, inside DHHS, builds tools, data, and knowledge for safer, better care.",
+        "Take part in unit and organization QI projects. Joint Commission–accredited hospitals use AHRQ quality indicators to meet safety goals."
+       ]
+      ]
      }
     },
     {
@@ -364,7 +389,8 @@
       "<b>Source:</b> Module 47 study guide, pp. 2795–2798 (key terms; Outcomes 47.1–47.3; Figure 47.1; Box 47.1; budget process).",
       "<b>Added:</b> the law–regulation–policy hierarchy and advocacy methods, often tested on the NCLEX.",
       "<b>Update:</b> Joint Commission hospital safety goals became <b>National Performance Goals</b> effective January 1, 2026. Names and numbers may differ from older sources.",
-      "<b>Added:</b> PDSA as a standard QI model."
+      "<b>Added:</b> PDSA as a standard QI model.",
+      "Added: the Outcome 47.3 concept table (health care systems, legal issues, QI) with its nursing implications."
      ]
     }
    ],
@@ -503,13 +529,17 @@
     {
      "term": "Professional association",
      "def": "A membership group that sets standards and ethics, supports research and education, and lobbies."
+    },
+    {
+     "term": "NPSG 07.06.01",
+     "def": "The Joint Commission safety goal to prevent indwelling catheter-associated urinary tract infections (CAUTI), used in Clinical Example B."
     }
    ],
    "sections": [
     {
      "heading": "Which federal agency handles what?",
      "keyIdea": "Ask if the problem is client care, worker safety, or the environment: that points to DHHS, OSHA, or EPA.",
-     "body": "<p>The <b>Department of Health and Human Services (DHHS)</b> is the main federal health agency. It gives out more grant money than all other federal agencies combined. The course cites a FY 2021 budget of $94.5 billion discretionary and $1.3 trillion mandatory. You need the divisions, not the numbers (see table).</p><p>Two agencies outside DHHS matter. <b>OSHA</b> is part of the <b>Department of Labor</b>. It protects <em>workers</em>, for example by requiring sharps containers, safety needles, and eyewash stations.</p><p>The <b>EPA</b> protects air, water, and land. That shapes problems such as asthma and lead exposure.</p>",
+     "body": "<p>The <b>Department of Health and Human Services (DHHS)</b> is the main federal health agency. It gives out more grant money than all other federal agencies combined. The course cites a FY 2021 budget of $94.5 billion discretionary and $1.3 trillion mandatory. DHHS oversees <b>11 operating divisions</b>. You need the divisions more than the dollars (see table).</p><p>Two agencies outside DHHS matter. <b>OSHA</b> is part of the <b>Department of Labor</b>. It protects <em>workers</em>. Employers must remove hazards, for example by providing sharps containers for used needles (Figure 47.2), safety needles, and eyewash stations.</p><p>Your course guide says OSHA protects both private-sector and public-sector workers. Current rule: federal OSHA covers most private employers and federal agencies. State and local government workers are covered where the state runs an OSHA-approved plan. On a course exam, expect “private and public workers.” On the NCLEX, just know that OSHA protects workers.</p><p>The <b>EPA</b> protects air, water, and land. That shapes problems such as asthma and lead exposure.</p>",
      "table": {
       "caption": "DHHS operating divisions",
       "headers": [
@@ -584,15 +614,16 @@
     {
      "heading": "What do state and local agencies do?",
      "keyIdea": "States license and inspect facilities, counties protect the community, cities run clinics, and social services enroll people in programs.",
-     "body": "<p><b>State health agencies</b> are part of the state executive branch. They report to the governor and follow federal guidelines. A state <b>Office of EMS (OEMS)</b> sets EMS training standards, oversees trauma systems, and licenses ambulances.</p><p><b>Local social services</b> offices usually run Medicaid, CHIP, and <b>WIC</b>. For referrals, think “the nearest level that delivers the service.”</p>",
+     "body": "<p><b>State health agencies</b> are part of the state executive branch. They report to the governor and follow federal guidelines. Each state also has an <b>Office of EMS (OEMS)</b>. The bullets list what each level does.</p><p><b>Local social services</b> offices usually run Medicaid, CHIP, and <b>WIC</b>. WIC is a nutrition program for pregnant women and children under 5 at nutritional risk (Figure 47.3). For referrals, think “the nearest level that delivers the service.”</p>",
      "bullets": [
-      "<b>State:</b> control infectious disease and do outbreak contact tracing",
-      "<b>State:</b> address health inequities; enforce county rules and statewide laws, like smoking bans",
-      "<b>State:</b> license facilities (hospitals, long-term care, child care, labs) and resolve complaints",
-      "<b>State:</b> track vital statistics",
-      "<b>County:</b> sanitation, food safety, waste disposal, child care sanitation",
-      "<b>County:</b> injury prevention, like smoke detectors, bike helmets, car seats, and lead screening",
-      "<b>City:</b> free clinics, HIV and sexual health testing, TB clinics, dental clinics"
+      "State: prevent and control infectious disease, and do outbreak contact tracing",
+      "State: address health inequities; enforce county health rules and statewide laws, like smoking bans",
+      "State: license or register facilities (hospitals, long-term care, child care centers, clinical labs, portable x-ray providers) and resolve complaints",
+      "State: track vital statistics (births, deaths, marriages, divorces)",
+      "State OEMS: set training and certification standards for EMS staff, accredit training programs, oversee trauma systems, and license medical transport",
+      "County: sanitation, retail food safety, waste disposal, child care sanitation",
+      "County: injury and disease prevention, like smoke detectors, bike helmets, infant car seats, and lead poisoning prevention",
+      "City: free clinics, sexual health and HIV/AIDS testing, TB clinics, dental clinics; enforce citywide health codes"
      ],
      "table": {
       "caption": "Match the need to the level",
@@ -623,7 +654,7 @@
        ]
       ]
      },
-     "example": "Clinical Example A: Richard Taylor works at a homeless shelter and tests positive for TB. The city health department had not screened there. The nurse refers him to a free or low-cost TB clinic. She also asks the city and state health departments for routine shelter TB screening. That is care for one client and for the population.",
+     "example": "Clinical Example A (p. 2799): Richard Taylor is a social work assistant at a homeless shelter. He tests positive for TB. The city health department had not screened at the shelter. The nurse gives him information on free or low-cost public health TB clinics. She also asks the city and state health departments for routine TB screening and exposure-prevention steps in shelters. That is care for one client and for the population.",
      "check": {
       "q": "Parents ask where to get a free infant car seat and learn to install it. Which level helps?",
       "a": "The county health department, which runs injury-prevention programs."
@@ -666,11 +697,11 @@
     {
      "heading": "Licensure vs. accreditation: what is the difference?",
      "keyIdea": "Licensure and board approval are required by law; certification and accreditation are voluntary marks of quality.",
-     "body": "<p><b>Licensure</b> is required government permission. Nurses get it from the board of nursing, and hospitals from the state health agency. Board <b>approval</b> of a nursing program is also required; it lets graduates take the NCLEX.</p><p><b>Certification</b> is voluntary proof of one nurse’s specialty skill. <b>Accreditation</b> is voluntary peer review of an organization, with regular site visits.</p><p>Why do something voluntary? It brings trust, payer credibility, and Medicare and Medicaid payment. Hospitals accredited by a CMS-approved body like TJC are “deemed” to meet Medicare rules. For schools, accreditation matters for RN-to-BSN and graduate admission.</p>",
+     "body": "<p><b>Licensure</b> is required government permission. Nurses get it from the board of nursing, and hospitals from the state health agency. Board <b>approval</b> of a nursing program is required in every state. It lets graduates take the NCLEX-RN or NCLEX-PN.</p><p><b>Certification</b> is voluntary proof of one nurse’s specialty skill. <b>Accreditation</b> is voluntary peer review of an organization. The accreditor checks quality against its own standards. Passing certifies that the organization is competent to give its services or programs. It needs periodic re-review and on-site visits.</p><p>Why do something voluntary? It brings trust, payer credibility, and Medicare and Medicaid payment. Hospitals accredited by a CMS-approved body like TJC are “deemed” to meet Medicare rules. For schools, accreditation is often required for RN-to-BSN and graduate admission.</p>",
      "bullets": [
-      "<b>CCNE</b> (Commission on Collegiate Nursing Education): arm of AACN; baccalaureate and graduate programs, plus some residencies.",
-      "<b>ACEN</b> (Accreditation Commission for Education in Nursing): all types, practical nursing through clinical doctorate.",
-      "<b>NLN CNEA</b> (NLN Commission for Nursing Education Accreditation): founded 2013, standards 2016; practical through clinical doctorate.",
+      "CCNE (Commission on Collegiate Nursing Education): the autonomous arm of AACN; baccalaureate and graduate programs, plus some residencies.",
+      "ACEN (Accreditation Commission for Education in Nursing): all types: clinical doctorate, master’s, baccalaureate, associate, diploma, and practical nursing.",
+      "NLN CNEA (NLN Commission for Nursing Education Accreditation): founded 2013, standards issued 2016; practical/vocational, diploma, associate, bachelor’s, master’s, and clinical doctorate.",
       "An associate or practical program seeks ACEN or NLN CNEA, not CCNE."
      ],
      "table": {
@@ -712,7 +743,7 @@
     {
      "heading": "What does The Joint Commission expect?",
      "keyIdea": "TJC sets yearly safety goals, requires analysis of sentinel events, and expects bedside nurses to explain their practice.",
-     "body": "<p><b>The Joint Commission (TJC)</b> is an independent nonprofit that accredits hospitals and other care settings. In 2003 it began yearly <b>National Patient Safety Goals</b>. For hospitals, these became <b>National Performance Goals</b> in 2026.</p><p>A <b>sentinel event</b> causes death, permanent harm, or severe temporary harm, like wrong-site surgery or a fall with a fracture. The organization must do a <b>root cause analysis</b> focused on systems, not blame.</p><p>Your role: help write evidence-based policies, join mock surveys and audits, and talk with surveyors. In a <b>tracer</b>, surveyors follow one client and ask staff what they do and why.</p>",
+     "body": "<p>The Joint Commission (TJC) is an independent nonprofit. It sets standards for <b>ambulatory care, behavioral health, hospitals, and long-term care</b>. It is voluntary. But it is key for consumer trust, credibility with third-party payers, and Medicare and Medicaid payment.</p><p>In 2003 TJC began yearly <b>National Patient Safety Goals (NPSGs)</b>. A <b>sentinel event</b> causes death, permanent harm, or severe temporary harm, like wrong-site surgery or a fall with a fracture. The organization must do a root cause analysis focused on systems, not blame.</p><p>Your role has three parts. Help write and revise evidence-based policies. Join the organization’s self-reviews, such as mock surveys and audits. Talk with surveyors at the point of care. In a <b>tracer</b>, surveyors follow one client and ask staff what they do and why.</p><p>Course vs. current: your course guide says NPSGs are set every year. Current standard: for hospitals, NPSGs became <b>National Performance Goals</b> on January 1, 2026. Your course guide also says TJC requires reporting of sentinel events. Current standard: the organization must review and act on them, but reporting to TJC is encouraged, not required. On a course exam, expect the course wording. On the NCLEX, report every sentinel event through your facility’s system.</p>",
      "bullets": [
       "Identify clients with two identifiers",
       "Communicate critical results",
@@ -721,7 +752,7 @@
       "Identify suicide risk",
       "Prevent surgical mistakes (Universal Protocol)"
      ],
-     "example": "Clinical Example B: Darren Langdon, RN, updates his unit’s outdated CAUTI policy using current research. Key points include insertion criteria, sterile insertion, a closed system, the bag below the bladder, and daily review of need. When the surveyor asks, he explains the rates, evidence, new policy, staff teaching, and results.",
+     "example": "Clinical Example B in brief: Darren Langdon, RN, updates his unit’s outdated CAUTI policy using current research. See the CAUTI worked case for the full reasoning.",
      "check": {
       "q": "During a tracer, a nurse realizes she started an IV antibiotic without checking two identifiers. What first?",
       "a": "Stop the infusion and verify identity. Then assess the client and report. The surveyor does not change the priority."
@@ -736,16 +767,16 @@
     {
      "heading": "Which professional association fits the need?",
      "keyIdea": "Match the association to the need: ANA for ethics, NSNA for students, specialty groups for specialty support.",
-     "body": "<p>Associations set standards and ethics, support research, and lobby. Many have state branches.</p><p>Specialty groups include the Academy of Medical-Surgical Nurses, AANA (nurse anesthesiology), ACNM (nurse-midwives), AANP (nurse practitioners), and NACNS (clinical nurse specialists). Read names carefully: AACN can mean Colleges of Nursing or Critical-Care Nurses.</p><p>Demographic groups include the Asian American/Pacific Islander Nurses Association, the American Assembly for Men in Nursing, the National Black Nurses Association, and the National Association of Hispanic Nurses.</p>",
+     "body": "<p>Associations serve their members and advance the profession. They set standards of practice, write codes of ethics, support research, and lobby on policy. Many have state “branch” (constituent) groups.</p><p>Specialty groups include the Academy of Medical-Surgical Nurses, AANA (nurse anesthesiology), ACNM (nurse-midwives), AANP (nurse practitioners), and NACNS (clinical nurse specialists). Read names carefully: AACN can mean Colleges of Nursing or Critical-Care Nurses.</p><p>Demographic groups include the Asian American/Pacific Islander Nurses Association, the American Assembly for Men in Nursing, the National Black Nurses Association, and the National Association of Hispanic Nurses.</p>",
      "bullets": [
-      "<b>ICN</b> (International Council of Nurses): 130+ national associations; the oldest health professional group. Focus: practice, regulation, and socioeconomic welfare.",
-      "<b>STTI</b> (Sigma Theta Tau International): the honor society, founded 1922 at Indiana University; 135,000+ members in 100+ countries; develops leaders.",
-      "<b>ANA</b> (American Nurses Association): speaks for 4 million+ RNs; publishes the Code of Ethics and standards of practice.",
-      "<b>NSNA</b> (National Student Nurses Association): leadership, scholarships, and career help for students.",
-      "<b>AACN</b> (American Association of Colleges of Nursing): voice for BSN and graduate education; 840+ schools.",
-      "<b>NLN</b> (National League for Nursing): first U.S. nursing group; diverse workforce and care for the underserved."
+      "ICN (International Council of Nurses): a federation of 130+ national nurses’ associations; the world’s oldest health professional group. Three program areas: professional practice, regulation, and socioeconomic welfare.",
+      "STTI (Sigma Theta Tau International): the honor society, founded 1922 at Indiana University; 135,000+ active members in 100+ countries and territories. Mission: develop nurse leaders to improve health care worldwide.",
+      "ANA (American Nurses Association): speaks for 4 million+ RNs in the U.S. and territories; publishes standards of practice, the Code of Ethics for Nurses, and policy guidelines; has state constituent branches.",
+      "NSNA (National Student Nurses Association): mentors students preparing for first RN licensure; leadership, scholarships, and career planning.",
+      "AACN (American Association of Colleges of Nursing): “the national voice for America’s baccalaureate and graduate nursing education”; 840+ member schools. Policy focus: education, research, and workforce development.",
+      "NLN (National League for Nursing): the first U.S. nursing organization; made up of nursing programs, faculty, students, and leaders. Focus: a strong, diverse workforce and care for the underserved."
      ],
-     "example": "Clinical Example C: Marsha Johnson, CRNA, is the only nurse anesthetist at a small surgery center and feels isolated. Her best step is joining AANA for peers and continuing education. The ANA is valuable, but the specialty group fits her need best.",
+     "example": "Clinical Example C: Marsha Johnson, CRNA, is the only nurse anesthetist at a small surgery center and feels isolated. Her best step is joining AANA. See the nurse anesthetist worked case.",
      "check": {
       "q": "The only nurse-midwife at a rural birth center wants specialty peers and education. Which group fits?",
       "a": "The American College of Nurse-Midwives (ACNM), her specialty association."
@@ -824,6 +855,39 @@
      }
     },
     {
+     "heading": "Worked case: CAUTI policy and the surveyor",
+     "keyIdea": "Update an outdated policy with evidence, then explain to surveyors what changed, why, and how results are measured.",
+     "body": "<p>This is Clinical Example B (p. 2800). Darren Langdon, RN, works on a unit with rising catheter-associated urinary tract infection (CAUTI) rates. A Joint Commission survey is coming. He finds the unit’s CAUTI policy is out of date. He uses current literature to update it.</p><p>The safety goal that applies is <b>NPSG 07.06.01</b>: prevent indwelling catheter-associated UTIs. A surveyor stops him at the bedside and asks how the unit prevents CAUTI.</p>",
+     "steps": [
+      "Cue: high CAUTI rates, an old policy, and a coming survey.",
+      "Question 1: Which goal applies? NPSG 07.06.01, preventing indwelling catheter-associated UTIs.",
+      "Question 2: How should he update the policy? Use current evidence through the unit’s QI process, not his own shortcut.",
+      "Key practices: insert only when needed, sterile insertion, closed drainage, bag below the bladder, daily review of need.",
+      "Question 3: What does he tell the surveyor? The rates, the evidence, the new policy, staff teaching, and the results.",
+      "Why: surveyors want frontline staff who can explain the QI process, not just point to a binder."
+     ],
+     "check": {
+      "q": "The surveyor asks Darren why the unit changed its catheter policy. What is the best answer?",
+      "a": "Explain the problem (rising CAUTI rates), the evidence used, the change made, how staff were trained, and how rates are now tracked."
+     }
+    },
+    {
+     "heading": "Worked case: the isolated nurse anesthetist",
+     "keyIdea": "When a nurse needs specialty peers and education, the specialty association is the best match.",
+     "body": "<p>This is Clinical Example C (p. 2802). Marsha Johnson, RN, BSN, CRNA, is the only CRNA at a small ambulatory surgery center. She feels isolated. She has no peers to talk with about anesthesia practice.</p><p>Your course guide names her group the American Association of Nurse Anesthetists (AANA). Current name: the American Association of Nurse Anesthesiology, since 2021. The initials are still AANA. On a course exam, expect the older name. On the NCLEX, either name points to the same group.</p>",
+     "steps": [
+      "Cue: a specialty nurse who works alone and feels isolated.",
+      "Question: Which action best meets her need? Join the AANA.",
+      "Why: it gives specialty networking, continuing education, and peer support.",
+      "Why not the ANA first? The ANA serves all RNs. It is valuable, but it does not focus on anesthesia.",
+      "Why not NSNA? NSNA is for students before licensure."
+     ],
+     "check": {
+      "q": "A clinical nurse specialist is the only CNS in her hospital. Which group fits her need for specialty peers?",
+      "a": "NACNS, the National Association of Clinical Nurse Specialists."
+     }
+    },
+    {
      "heading": "North Carolina practice note",
      "keyIdea": "In NC, the Board of Nursing licenses nurses, two agencies keep aide registries, and county DSS takes maltreatment reports.",
      "bullets": [
@@ -839,13 +903,14 @@
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "<b>Source:</b> Module 47 study guide, pp. 2798–2802 (Outcomes 47.4–47.6; Clinical Examples A, B, C; Table 47.1; key term Accreditation, p. 2800).",
-      "<b>Sentinel events:</b> TJC requires a response (root cause analysis and action plan). Self-reporting to TJC is encouraged but voluntary.",
-      "<b>Safety goals:</b> hospital NPSGs became National Performance Goals on January 1, 2026. CAUTI prevention is still required.",
-      "<b>Deemed status:</b> Medicare participation can also come via state survey.",
-      "<b>WIC</b> also serves postpartum and breastfeeding women and is often run by local health departments.",
-      "<b>OSHA</b> covers most private employers; many public workers fall under state plans.",
-      "<b>AANA</b> is now the American Association of Nurse Anesthesiology. DHHS gets reorganized; learn functions."
+      "Source: Module 47 study guide, pp. 2798–2802 (Outcomes 47.4–47.6; Clinical Examples A, B, C; Table 47.1; key term Accreditation, p. 2800).",
+      "Safety goals: your course guide says TJC sets yearly NPSGs (since 2003). Current standard: hospital NPSGs became National Performance Goals on January 1, 2026; CAUTI prevention is still expected. Course exam: “NPSGs,” including NPSG 07.06.01. NCLEX: the safety practices.",
+      "Sentinel events: your course guide says TJC requires reporting. Current standard: TJC requires a response (root cause analysis and action plan); self-reporting to TJC is encouraged but voluntary. Course exam: “required reporting.” NCLEX: report through the facility’s system.",
+      "OSHA: your course guide says it covers private- and public-sector workers. Current rule: most private employers and federal agencies; state and local workers only under OSHA-approved state plans.",
+      "AANA: your course guide says American Association of Nurse Anesthetists. Current name (2021): American Association of Nurse Anesthesiology. Same initials.",
+      "Deemed status: Medicare participation can also come via state survey.",
+      "WIC also serves postpartum and breastfeeding women and is often run by local health departments.",
+      "DHHS gets reorganized from time to time; learn the 11 divisions’ functions."
      ]
     }
    ],
@@ -967,7 +1032,7 @@
     },
     {
      "term": "Medigap",
-     "def": "Private supplement that pays Original Medicare’s gaps: co-pays, coinsurance, deductibles."
+     "def": "Medicare Supplement Insurance: private plan that pays Original Medicare’s gaps (co-pays, coinsurance, deductibles). Medicare pays first, then Medigap."
     },
     {
      "term": "Custodial care",
@@ -980,6 +1045,14 @@
     {
      "term": "SSI",
      "def": "Supplemental Security Income: cash aid for food, clothing, and housing for aged, blind, or disabled people with little income. Not insurance."
+    },
+    {
+     "term": "Medicare",
+     "def": "Federal insurance run by CMS for people 65+ with 10 years of Medicare taxes, some younger disabled people, and people with ESRD or ALS. Parts A, B, C, D."
+    },
+    {
+     "term": "Medicaid",
+     "def": "Joint federal-state program (1965, Title 19) covering lower-income people and families, older adults, and people with disabilities who qualify. States set rules within federal mandates."
     }
    ],
    "sections": [
@@ -1003,9 +1076,9 @@
     {
      "heading": "How restrictive is each private plan?",
      "keyIdea": "From most to least restrictive: HMO, POS, PPO, CDHP, indemnity; more freedom usually costs the client more.",
-     "body": "<p>“Restrictive” means how much the plan controls which providers you use and whether you need permission first.</p><p>An <b>HMO</b> covers only network providers, except emergencies. Members must live or work in its area. A PCP acts as <b>gatekeeper</b>, so specialists need a referral. HMOs stress prevention and cost the least.</p><p>A <b>POS</b> plan lets members choose at each visit: in network, or out of network for more money. A <b>PPO</b> needs no PCP and has a bigger network, but co-pays are higher than an HMO’s.</p><p>A <b>CDHP</b> is defined by cost design, not network; many use a PPO-style network. An <b>indemnity</b> plan has no network but may require preauthorization for an MRI.</p><p><b>Emergencies are always covered.</b> The ACA requires emergency coverage with no prior approval and in-network cost-sharing.</p>",
+     "body": "<p>“Restrictive” means how much the plan controls which providers you use and whether you need permission first.</p><p>An <b>HMO</b> covers only network providers, except emergencies. Members must live or work in its area. A PCP acts as <b>gatekeeper</b>, so specialists need a referral. HMOs focus on integrated care, prevention, and wellness, with low out-of-pocket costs.</p><p>A <b>POS</b> plan lets members choose at each visit: in network, or out of network for more money. A <b>PPO</b> needs no PCP and has a bigger network, but co-pays are higher than an HMO’s.</p><p>A <b>CDHP</b> is defined by cost design, not network; many use a PPO-style network. An <b>indemnity</b> (“fee-for-service”) plan has no network, so the client picks any provider. It may still use some managed-care tools to control costs, such as preauthorization for an MRI.</p><p><b>Emergencies are always covered.</b> The ACA requires emergency coverage with no prior approval and in-network cost-sharing.</p>",
      "bullets": [
-      "CDHP: lower premium, high deductible, paired account",
+      "CDHP: employer plan with lower premium, high deductible, and a paired tax-advantaged account",
       "<b>HSA:</b> owned by the employee and portable; employee or employer may add money",
       "<b>HRA:</b> funded and owned by the employer; usually not portable",
       "Risk: clients may skip care before meeting the deductible",
@@ -1061,7 +1134,7 @@
     {
      "heading": "How do people get private coverage?",
      "keyIdea": "Most adults get coverage through work, so job loss and life changes can cut off medicines and follow-up care.",
-     "body": "<p><b>Employment-sponsored insurance (ESI)</b> covers employees, spouses, dependents, and often domestic partners. It has an out-of-pocket maximum.</p><p>Self-employed people may buy <b>individual plans</b>. These were often costlier with less coverage. Before the ACA, insurers could deny people with <b>preexisting conditions</b>.</p><p>When job coverage ends, <b>COBRA</b> usually lets a worker keep the same plan for up to 18 months. The client pays the full premium plus a small fee. Job loss also opens a <b>special enrollment period</b>, generally 60 days, for a Marketplace plan. Lower income may also mean Medicaid.</p>",
+     "body": "<p><b>Employment-sponsored insurance (ESI)</b> comes through an employer or union. It covers employees, spouses, dependents, and often domestic partners. It has an out-of-pocket maximum. Once that is met in a 12-month period, the plan pays 100% of usual and customary fees.</p><p>Self-employed people may buy <b>individual plans</b>. These were often costlier with less coverage. Before the ACA, insurers could deny people with <b>preexisting conditions</b>.</p><p>When job coverage ends, <b>COBRA</b> usually lets a worker keep the same plan for up to 18 months. The client pays the full premium plus a small fee. Job loss also opens a <b>special enrollment period</b>, generally 60 days, for a Marketplace plan. Lower income may also mean Medicaid.</p>",
      "steps": [
       "Ask what coverage the client has and whether it will change soon (job, age 26 or 65, divorce, move).",
       "Ask if the client can afford new drugs and visits.",
@@ -1076,7 +1149,7 @@
     {
      "heading": "What does Medicare cover, and what not?",
      "keyIdea": "Medicare covers people 65+, certain disabled people, and those with ESRD or ALS, but not long-term custodial care.",
-     "body": "<p><b>Medicare</b> is federal insurance run by <b>CMS</b>. The course says it covers 17.9% of Americans. Ten years of Medicare taxes, by the client or spouse, earns <b>premium-free Part A</b>.</p><p>Medicare does <b>not</b> cover long-term custodial care, routine dental or eye care, hearing aids, or cosmetic surgery. Part A covers only short-term <em>skilled</em> nursing facility care after a qualifying hospital stay.</p><p><b>Medigap</b> fills Original Medicare’s gaps. Medicare pays first, then Medigap. Plans have standard letters.</p>",
+     "body": "<p><b>Medicare</b> is federal insurance run by <b>CMS</b>. The course says it covers 17.9% of Americans. At 65, it is tied to work in Medicare-covered jobs. Ten years of Medicare taxes, by the client or spouse, earns <b>premium-free Part A</b>.</p><p>Medicare does <b>not</b> cover long-term custodial care, routine dental or eye care, hearing aids, or cosmetic surgery. Part A covers only short-term <em>skilled</em> nursing facility care after a qualifying hospital stay.</p><p><b>Medigap</b>, also called Medicare Supplement Insurance, is private insurance that fills Original Medicare’s gaps. It pays co-pays, coinsurance, deductibles, and some noncovered costs. Medicare pays its share first, then Medigap pays its share.</p><p>Course vs. current: your course guide says Medigap letters are set by state laws. Current rule: federal law standardizes the lettered plans; only Massachusetts, Minnesota, and Wisconsin differ. Your course guide calls Part B’s 20% a “co-payment.” Current term: 20% <b>coinsurance</b>. On a course exam, expect the course wording. On the NCLEX, use the current terms.</p>",
      "bullets": [
       "Age 65 or older",
       "Younger people after 24 months of Social Security disability benefits",
@@ -1122,7 +1195,7 @@
     {
      "heading": "Who do Medicaid, CHIP, and other programs cover?",
      "keyIdea": "Medicaid is joint federal-state coverage for low income; CHIP covers children under 19 just above Medicaid limits.",
-     "body": "<p><b>Medicaid</b> began in 1965 under <b>Title XIX</b> of the Social Security Act. Federal and state governments fund and run it together. States set rules within federal mandates, so coverage varies. It covers hospital and outpatient care, labs, prenatal care, and nursing home and home care. The ACA expanded it starting in 2014.</p><p>Medicaid, not Medicare, is the major public payer for long-term nursing home care. People with both are “dual eligible.”</p><p><b>CHIP</b> (formerly SCHIP) uses federal and matching state funds. It covers checkups, shots, dental, vision, hospital, lab, and x-ray care. States also fund priorities like maternal-child health, smoking cessation, obesity, HIV/AIDS, substance abuse, and environmental health. Public hospitals, like NYC Health + Hospitals and Cook County, give indigent care.</p>",
+     "body": "<p><b>Medicaid</b> began in 1965 under <b>Title 19 (XIX)</b> of the Social Security Act. It covers lower-income people and families, older adults, and people with disabilities who meet the rules. Federal and state governments fund and run it together. States set rules within federal mandates, so coverage varies. It covers inpatient and outpatient care, labs, x-rays, prenatal care, and nursing home and home care. The ACA expanded it starting in 2014.</p><p>Medicaid, not Medicare, is the major public payer for long-term nursing home care. People with both are “dual eligible.”</p><p><b>CHIP</b> (formerly the State Child Health Insurance Program, SCHIP) uses federal and matching state funds. It covers children under 19 whose families earn too much for Medicaid but cannot afford private coverage. Federal rules require checkups, shots, dental, vision, inpatient and outpatient hospital, lab, and x-ray care.</p><p>States also fund priorities like maternal-child health, smoking cessation, obesity, HIV/AIDS, substance abuse, and environmental health. County and city public hospitals, like NYC Health + Hospitals and Cook County Hospital in Chicago, give indigent care. They also rely heavily on Medicare and Medicaid funds to operate.</p>",
      "table": {
       "caption": "Public programs at a glance",
       "headers": [
@@ -1154,7 +1227,7 @@
        [
         "TRICARE",
         "Military members and families",
-        "Department of Defense"
+        "Department of Defense (Defense Health Program)"
        ],
        [
         "VA",
@@ -1184,7 +1257,7 @@
      "body": "<p>The <b>Affordable Care Act (ACA)</b> passed in 2010. It is the biggest financing law since Medicare and Medicaid. It covered more than 20 million uninsured people.</p><p>At the bedside, three facts help most: the age-26 rule, preexisting-condition protection, and free preventive care.</p>",
      "bullets": [
       "Medicaid expansion (2014) and the Health Insurance Marketplace",
-      "No annual or lifetime dollar limits on essential benefits",
+      "No annual or lifetime dollar limits on essential benefits, such as hospital, physician, and pharmacy care",
       "Dependents may stay on a parent’s plan until 26",
       "Evidence-based preventive services with no cost-sharing",
       "No denial or higher price for preexisting conditions",
@@ -1289,12 +1362,12 @@
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "<b>Source:</b> Module 47 study guide, pp. 2802–2804 (Outcome 47.7; Box 47.2; key terms).",
-      "Part B’s “20% co-payment” is technically <b>20% coinsurance</b>, plus a premium and deductible.",
+      "Source: Module 47 study guide, pp. 2802–2804 (Outcome 47.7; Box 47.2; key terms Co-payment, CDHP, Domestic partner, HMO, Indemnity, Medicaid, Medicare, Medigap, POS, PPO, PCP, CHIP).",
+      "Part B: your course guide says “20% co-payment.” Current term: 20% coinsurance, plus a premium and deductible. Course exam: “20% co-payment.” NCLEX: coinsurance.",
+      "Medigap: your course guide says its letters are designated by state laws. Current rule: federal law standardizes the lettered plans (Massachusetts, Minnesota, and Wisconsin differ). Medigap works only with Original Medicare.",
       "People 65+ without 10 work years can usually buy Part A.",
-      "Medigap letters are federally standardized (different in Massachusetts, Minnesota, Wisconsin). Medigap works only with Original Medicare.",
       "HRAs are employer-funded only. Employees may add to an HSA.",
-      "ACA: Medicaid expansion became optional for states after a 2012 Supreme Court ruling. The mandate penalty dropped to $0 in 2019.",
+      "ACA: annual and lifetime limits are both banned. Medicaid expansion became optional for states after a 2012 Supreme Court ruling. The mandate penalty dropped to $0 in 2019.",
       "The No Surprises Act (2022) protects most insured clients from surprise out-of-network emergency bills.",
       "CHIP was created in 1997. COBRA and special enrollment were added for discharge planning."
      ]

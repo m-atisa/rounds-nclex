@@ -31,7 +31,7 @@
    "keyTerms": [
     {
      "term": "Healthcare system",
-     "def": "All the people, places, payment methods, and resources that deliver and manage care—locally, statewide, nationally, and internationally."
+     "def": "All the people, places, and resources that deliver and manage care, including how care is paid for (financing) and coordinated—locally, statewide, nationally, and internationally."
     },
     {
      "term": "Primary prevention",
@@ -47,7 +47,7 @@
     },
     {
      "term": "Health promotion",
-     "def": "WHO (1986): helping people gain control over and improve their health. It prevents disease instead of treating it."
+     "def": "WHO (1986): the process of enabling people to increase control over and improve their health. It raises quality of life and lowers costs by preventing disease."
     },
     {
      "term": "Primary care (setting)",
@@ -154,14 +154,47 @@
      }
     },
     {
+     "heading": "Course Table 46.1: every example by level",
+     "keyIdea": "Learn the course’s own examples for each level; exam items often reuse them word for word.",
+     "body": "<p><b>Health promotion</b> is the base of primary prevention. The World Health Organization (WHO, 1986) calls it the process of enabling people to increase control over and improve their health. It improves each person’s quality of life. It also lowers healthcare costs, because preventing disease costs less than treating illness.</p><p>The table lists every example from the course’s Table 46.1. Screenings follow Healthy People 2030 and the U.S. Preventive Services Task Force (USPSTF).</p><p>Your course guide says “pressure ulcer.” Current standard (NPIAP): “pressure injury.” On a course exam, expect “pressure ulcer”; on the NCLEX, “pressure injury.” They mean the same thing.</p>",
+     "table": {
+      "headers": [
+       "Level",
+       "Core goal",
+       "Course examples"
+      ],
+      "rows": [
+       [
+        "Primary prevention",
+        "Prevent disease before it starts in healthy people",
+        "Teach nutrition, exercise, dental hygiene, prenatal care, immunizations, and smoking cessation. Teach employers and workers about job safety. Improve sanitation. Remove lead from housing. Bring fresh produce to food deserts."
+       ],
+       [
+        "Secondary prevention",
+        "Find disease early and treat it fast to stop progression and complications",
+        "Risk assessments for coronary artery disease (CAD) and diabetes, with risk-reduction plans. Routine dental, vision, and medical screenings (BP, hearing). Teach self-exams (testicular exams, mole checks for melanoma). Carry out acute care plans (medicines, dressings). Prevent hospital complications: turning and positioning for pressure ulcers, DVT prevention, hydration and nutrition."
+       ],
+       [
+        "Tertiary prevention",
+        "Restore function, limit complications of established or incurable disease, and maximize quality of life",
+        "Refer a new urostomy client to an RN ostomy specialist. Refer a client with diabetes to a registered dietitian for complications. Refer chronic or severe pain to a pain specialist. Refer a client with poor mobility to PT or rehab to prevent falls. Provide palliative care when cure is not possible."
+       ]
+      ]
+     },
+     "check": {
+      "q": "A nurse turns a client with pneumonia every 2 hours to prevent skin breakdown. Which level does the course call this?",
+      "a": "Secondary. The course lists preventing hospital complications (pressure ulcers, DVT) as secondary, because an acute illness is already being treated."
+     }
+    },
+    {
      "heading": "Is primary care the same as primary prevention?",
      "keyIdea": "Care settings are places; prevention levels are goals. Every setting can deliver all three levels.",
      "body": "<p>The words primary, secondary, and tertiary also name <b>care settings</b>. This overlap is a classic trap. A setting tells you <em>where</em> care happens. A prevention level tells you <em>what the care is trying to do</em>. One office visit can hold all three levels.</p><p>A key nursing job is picking the <b>most cost-effective setting</b>. In the course example, a small basal cell carcinoma is removed under local anesthesia in a dermatologist’s office. The outcome matches the hospital OR, at lower cost and with less disruption.</p>",
      "bullets": [
-      "<b>Primary care:</b> the entry point. Offices, clinics, community health centers, schools, churches, malls, health fairs. Checkups, vaccines, common illness, emotional support.",
-      "<b>Secondary care:</b> hospitals, outpatient surgery centers, specialists’ offices, usually by referral.",
-      "<b>Tertiary care:</b> hospitals, rehab centers, extended care facilities for complex care. The nurse advocates, coordinates, and promotes following the plan.",
-      "<b>Other settings (Figure 46.1):</b> ED, flight transport, OR, NICU, schools, public health, home health, prisons, insurers, universities, publishing."
+      "<b>Primary care:</b> the point of entry, and the <b>gatekeeper</b> in managed care. Physicians’ offices, hospital-based clinics, community health centers, and public health sites (schools, churches, malls, health fairs). Health maintenance, routine physicals, immunizations, common acute care, and psychosocial support.",
+      "<b>Secondary care:</b> hospitals, outpatient surgical centers, and specialists’ offices, usually by referral. Choose the most cost-effective, efficient setting.",
+      "<b>Tertiary care:</b> hospitals, rehab centers, and extended care facilities that give complex diagnostic or therapeutic procedures. The nurse is the client’s advocate, coordinates care and treatment, and promotes following the plan.",
+      "<b>Other nursing settings (Figure 46.1):</b> emergency departments and medical flight transport, operating rooms, pediatric offices, rehab facilities, NICUs, schools, public health departments, home health, prisons, insurance companies, universities, and publishing companies."
      ],
      "analogy": "Settings are floors in a building. Prevention levels are jobs done on every floor. The floor tells you where you are. The job tells you what you are trying to do.",
      "check": {
@@ -176,10 +209,11 @@
      "bullets": [
       "<b>Aging:</b> more home health, long-term care, rehab, palliative care, and caregiver teaching.",
       "<b>Obesity:</b> more diabetes and heart disease, so stress prevention and screening.",
-      "<b>Diversity:</b> professional interpreters and culturally responsive care.",
+      "<b>Diversity:</b> the population is more racially and ethnically diverse. Use professional interpreters and culturally responsive care.",
       "<b>EHR and barcoding:</b> scan wristband and drug at the bedside. Check flagged labs first. No taped barcode copies, no overriding alerts to save time. Report scanner failures.",
-      "<b>Minimally invasive surgery:</b> shorter stays, so start discharge teaching early.",
-      "<b>Telehealth:</b> helps rural clients only with a device, internet, privacy, and skills."
+      "<b>Evidence-based clinical guidelines:</b> built into the EHR as alerts and order sets. They guide care but do not replace judgment.",
+      "<b>Laparoscopic (minimally invasive) surgery:</b> shorter hospital stays, so start discharge teaching early.",
+      "<b>Telemedicine:</b> brings specialists to rural and remote areas, but only with a device, internet, privacy, and skills."
      ],
      "check": {
       "q": "A rural client is offered cardiology follow-up by video. What should the nurse check first?",
@@ -232,7 +266,7 @@
     {
      "heading": "What are ACEs, and what builds resiliency?",
      "keyIdea": "ACEs raise lifelong health risk, but caring adults and community supports build resiliency that softens the harm.",
-     "body": "<p><b>Adverse childhood experiences (ACEs)</b> are possibly traumatic events from birth to age 17. Examples are abuse, neglect, seeing violence, a parent with addiction or mental illness, divorce, or a jailed family member.</p><p>About two-thirds of U.S. adults report at least one ACE. About one in six report four or more. Toxic stress changes the growing brain and immune system. So ACEs raise adult risk for heart disease, diabetes, depression, substance use, STIs, and suicide.</p><p><b>Resiliency</b> is the hopeful half: getting through trauma with little lasting harm. Communities build it with caring adults and support.</p>",
+     "body": "<p><b>Adverse childhood experiences (ACEs)</b> are possibly traumatic events from birth to age 17. Examples are abuse, neglect, seeing violence, a parent with addiction or mental illness, divorce, or a jailed family member.</p><p>About two-thirds of U.S. adults report at least one ACE. About one in six report four or more. Toxic stress changes the growing brain and immune system. So ACEs raise adult risk for heart disease, diabetes, depression, substance use, STIs, and suicide.</p><p><b>Resiliency</b> is the hopeful half: getting through trauma with little lasting harm. Communities build it with caring adults and support.</p><p>Your course guide says ACEs affect about 1 in 6 children. Current CDC data: about 64% of adults report at least one ACE, and about 1 in 6 report four or more. On a course exam, expect “about 1 in 6”; on the NCLEX, know that ACEs are common and raise lifelong risk.</p>",
      "steps": [
       "Ask about stress and safety in private, with calm, nonjudging words.",
       "Check for current danger. Suspected abuse is reported to the child protective agency—no investigating, no waiting for proof.",
@@ -245,11 +279,12 @@
     {
      "heading": "What is health literacy?",
      "keyIdea": "You cannot see low health literacy, so use plain language and teach-back with every client.",
-     "body": "<p><b>Health literacy</b> is the ability to get, share, and understand basic health information to make good choices. It has four parts, listed below.</p><p>Only about 53% of U.S. adults have intermediate health literacy. About 36% have basic or below-basic skills. Low health literacy leads to medication errors, more hospital stays, and more deaths.</p><p>You cannot judge it by looks or schooling. So speak clearly to everyone, and use <b>teach-back</b>.</p>",
+     "body": "<p><b>Health literacy</b> is the capacity to obtain, communicate, process, and understand basic health information and services. People need it to make good health choices. It has four parts, listed below.</p><p>National Center for Education Statistics (NCES) data: only about 53% of U.S. adults have intermediate health literacy. About 36% have basic or below-basic skills. Yet most systems act as if everyone reads well. Low health literacy leads to medication errors, missed preventive care, more hospital stays, and more deaths.</p><p>You cannot judge it by looks or schooling. So speak clearly to everyone, and use <b>teach-back</b>.</p>",
      "bullets": [
       "<b>Print:</b> reading and writing. <b>Oral:</b> listening and speaking.",
       "<b>Numeracy:</b> doses, times, glucose values. <b>Technology:</b> portals and apps.",
-      "<b>Warning cues:</b> “forgot my glasses,” takes forms home, blank forms, names pills by color, missed visits."
+      "<b>Warning cues:</b> “forgot my glasses,” takes forms home, blank forms, names pills by color, missed visits.",
+      "<b>Health-literate organizations:</b> improve spoken communication, use patient portals, and treat clients and caregivers as partners."
      ],
      "steps": [
       "Use plain words: “high blood pressure,” not “hypertension.”",
@@ -356,9 +391,9 @@
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "Module 46 study guide, outcomes 46.1–46.2; textbook pp. 2773–2777 (Table 46.1, Figure 46.1). Cases and walkthroughs are original.",
-      "<b>ACEs:</b> the course says “about 1 in 6 children.” CDC: about 64% of adults report at least one ACE; about 1 in 6 report four or more. So “1 in 6” means high exposure (4+ ACEs), not overall prevalence.",
-      "“Pressure ulcer” is now <em>pressure injury</em> (NPIAP).",
+      "Module 46 study guide, outcomes 46.1 (three levels of prevention) and 46.2 (factors affecting delivery: demographics, SDOH, ACEs and resiliency, technology, health literacy); textbook pp. 2773–2777 (Table 46.1, Figure 46.1). Cases and walkthroughs are original.",
+      "<b>ACEs:</b> Your course guide says ACEs affect “about 1 in 6 children.” Current CDC data: about 64% of adults report at least one ACE; about 1 in 6 report four or more. On a course exam, expect “1 in 6”; on the NCLEX, know ACEs are common.",
+      "<b>Pressure ulcer:</b> Your course guide says “pressure ulcer.” Current standard (NPIAP): “pressure injury.” On a course exam, expect “pressure ulcer”; on the NCLEX, “pressure injury.”",
       "The course calls preventing hospital complications secondary because an acute illness exists. Some texts say primary. Follow the course and reason from the target condition.",
       "Teach-back, universal precautions, and trauma-informed care were added as standard practice."
      ]
@@ -477,7 +512,7 @@
     },
     {
      "term": "Uninsured",
-     "def": "Having no health coverage at all—public, employer, or private."
+     "def": "Having no health coverage: not eligible for Medicaid or Medicare, no employer group plan, and unable to afford private coverage (or, before the ACA, denied it)."
     },
     {
      "term": "Underinsured",
@@ -501,7 +536,7 @@
     },
     {
      "term": "Medicaid",
-     "def": "Federal–state coverage for low-income people. It covers long-term custodial nursing home care. Medicare covers only short-term skilled nursing care."
+     "def": "Federal–state coverage for low-income people, some people with disabilities, and older adults who need services Medicare lacks, such as long-term nursing home care."
     },
     {
      "term": "CHIP",
@@ -532,7 +567,7 @@
     {
      "heading": "What are the three frameworks of care?",
      "keyIdea": "Managed care is about money for groups, case management is about connecting one client’s care, and patient-focused care is about the client’s wishes.",
-     "body": "<p>The course names three frameworks. Each answers a different question, which is the fastest way to tell them apart. They often overlap in one client. On the exam, decide which framework one <em>specific action</em> shows.</p><p><b>Patient-focused care</b> does not mean doing anything asked, even if unsafe. The competent client decides. Family are partners when the client wants them. If a wish conflicts with safety, explore why, explain the risk, and offer options.</p>",
+     "body": "<p>The course names three frameworks. Each answers a different question, which is the fastest way to tell them apart. They often overlap in one client. For example, a client in a managed care plan may also get case management. On the exam, decide which framework one <em>specific action</em> shows.</p><p><b>Patient-focused care</b> does not mean doing anything asked, even if unsafe. The competent client decides. Family are partners when the client wants them. If a wish conflicts with safety, explore why, explain the risk, and offer options.</p>",
      "table": {
       "headers": [
        "Framework",
@@ -605,7 +640,7 @@
     {
      "heading": "What does a case manager do?",
      "keyIdea": "Case management keeps complex care connected across hospital, community, and home, and it begins at admission.",
-     "body": "<p>In <b>case management</b>, a case manager sits at the center of the team. That may be a nurse, social worker, or other team member. The goal is <b>continuity of care</b> across hospital, community, and home.</p><p>Who needs it most? Clients with <b>complex, multi-provider needs</b>: several chronic illnesses, frequent readmissions, new home equipment, little support, or big SDOH barriers. Pick the client with the most coordination needs, not just the sickest one.</p><p>Discharge planning starts on admission. The case manager coordinates but does not replace the nurse’s assessment.</p>",
+     "body": "<p>In <b>case management</b>, a case manager sits at the center of the team. That may be a nurse, social worker, or other team member. The goal is <b>continuity of care</b> across hospital, community, and home. That helps the client keep optimal health, quality of life, and the ability to do ADLs. Through communication and available resources, it promotes safety, quality, and cost-effective outcomes.</p><p>Who needs it most? Clients with <b>complex, multi-provider needs</b>: several chronic illnesses, frequent readmissions, new home equipment, little support, or big SDOH barriers. Pick the client with the most coordination needs, not just the sickest one.</p><p>Discharge planning starts on admission. The case manager coordinates but does not replace the nurse’s assessment.</p>",
      "steps": [
       "Assess health, function, support, insurance, SDOH, and the client’s goals.",
       "Plan measurable goals with the client, family, and team.",
@@ -636,7 +671,7 @@
     {
      "heading": "Who is uninsured, underinsured, or covered?",
      "keyIdea": "Match the client to the right safety net, and remember EMTALA guarantees emergency screening regardless of ability to pay.",
-     "body": "<p><b>Uninsured</b> people have no coverage. Rates are higher among minorities, low-wage and small-business workers, the unemployed, and the self-employed. They face delayed care, medical debt, and worse outcomes. <b>Underinsured</b> people have coverage that falls short. Both may ration care in ways that look like nonadherence.</p><p>Uninsured rates fell after the 2010 ACA, then rose. Causes include the end of the mandate penalty, non-ACA plans that exclude preexisting conditions, rules for noncitizens, and lower Medicaid enrollment.</p>",
+     "body": "<p><b>Uninsured</b> people have no coverage. They do not qualify for Medicaid or Medicare, cannot get an employer group plan, and cannot afford private coverage. Before the ACA, some were denied for preexisting conditions. Rates are higher among racial and ethnic minorities, low-wage and small-business workers, the unemployed or underemployed, and the self-employed. They face delayed care, higher out-of-pocket bills, medical debt, and worse outcomes.</p><p><b>Underinsured</b> people have coverage that falls short. Both may ration care in ways that look like nonadherence.</p><p>Uninsured rates fell after the 2010 ACA, then began rising again. The course lists four causes below.</p><p>Your course guide says the ACA individual mandate was “repealed.” Current fact: the mandate is still in the law, but its federal penalty dropped to $0 in 2019. On a course exam, expect “repeal of the individual mandate”; on the NCLEX, know that losing the penalty helped uninsured rates rise.</p>",
      "table": {
       "headers": [
        "Program",
@@ -651,7 +686,7 @@
        ],
        [
         "Medicaid",
-        "Low income; services Medicare lacks, such as long-term nursing home care",
+        "Low income; some people with disabilities; older adults needing services Medicare lacks, such as long-term nursing home care",
         "Low income; long-term custodial care"
        ],
        [
@@ -675,12 +710,18 @@
      "check": {
       "q": "A client’s plan does not cover her diabetes medicine. Uninsured or underinsured?",
       "a": "Underinsured. Ask if she is rationing doses and involve social work."
-     }
+     },
+     "bullets": [
+      "Repeal of the ACA individual mandate (penalty cut to $0).",
+      "More non-ACA plans that exclude preexisting conditions.",
+      "Eligibility rules that affect noncitizens.",
+      "Lower Medicaid enrollment."
+     ]
     },
     {
      "heading": "Why does a usual source of care matter?",
      "keyIdea": "A regular provider builds trust and prevention, so link every client who lacks one to a medical home.",
-     "body": "<p><b>Perceptions of need</b> shape when people seek care. Some wait too long with chest pressure. Others use the ED for minor problems. In Clinical Example A, a parent brings a child to the ED 15 minutes after giving acetaminophen for an earache. Teach home care, drug onset time, and when to use primary, urgent, or emergency care—with respect.</p><p>More than 40 million Americans lack a <b>usual source of care</b>. Ask, “Who do you see for checkups?” If “nobody,” link them to a medical home. Box 46.2 lists its six principles.</p>",
+     "body": "<p><b>Perceptions of need</b> shape when people seek care. Some wait too long with chest pressure. Others use the ED for minor problems. In Clinical Example A, a parent brings a child to the ED 15 minutes after giving acetaminophen for an earache. Teach home care, drug onset time, and when to use primary, urgent, or emergency care—with respect.</p><p>More than 40 million Americans lack a <b>usual source of care</b> (a medical home). Having one improves trust, communication, and preventive care, especially for children. It also lowers costs. Ask, “Who do you see for checkups?” If “nobody,” link them to a medical home. Box 46.2 lists its six principles.</p>",
      "bullets": [
       "A personal provider who leads care.",
       "A provider-directed practice team.",
@@ -778,6 +819,23 @@
      }
     },
     {
+     "heading": "Worked case: course Clinical Examples A and B",
+     "keyIdea": "Example A is a perception-of-need problem; Example B is an uneven-distribution problem. Name the barrier, then fix it.",
+     "body": "<p><b>Clinical Example A (perceptions of need).</b> A parent brings a child with an earache to the ED. The parent gave acetaminophen only 15 minutes earlier. The child is stable. The parent misjudged how urgent the symptom was and did not wait for the drug to work.</p><p><b>Clinical Example B (uneven distribution).</b> A pregnant client lives in a rural county. The nearest obstetrician is 100 miles away. Coverage does not help if care is too far to reach. In cities and suburbs, the barriers are more often poverty and culture or language.</p>",
+     "steps": [
+      "<b>Question 1: Which access barrier is in Example A?</b> Perception of need. The parent used the ED for a non-emergency.",
+      "<b>Question 2: What does the nurse teach?</b> Home symptom care, how long acetaminophen takes to start working (often 30–60 minutes), and when to use primary, urgent, or emergency care. Teach with respect; never shame.",
+      "<b>Question 3: What else helps Example A?</b> Ask about a usual source of care. Link the family to a medical home.",
+      "<b>Question 4: Which barrier is in Example B?</b> Uneven distribution of services. Rural areas lack facilities and specialists.",
+      "<b>Question 5: What does the nurse do for Example B?</b> Plan early: telehealth visits, travel help, a birth plan with timely transport, and teaching on warning signs of labor and complications.",
+      "<b>Course fact:</b> RNs and NPs are concentrated in the eastern half of the U.S."
+     ],
+     "check": {
+      "q": "A rural client says, “The clinic is 2 hours away, so I only go when I’m very sick.” Which barrier is this?",
+      "a": "Uneven distribution of services. The care exists but is too far away, so the client cannot use it for prevention."
+     }
+    },
+    {
      "heading": "North Carolina practice note",
      "keyIdea": "NC law lets minors consent to some services, which can remove a major access barrier for teens.",
      "bullets": [
@@ -792,8 +850,8 @@
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "Module 46 study guide, outcomes 46.3–46.4; textbook pp. 2777–2780 (Clinical Examples A and B, EMTALA Safety Alert, Box 46.2). Cases and walkthroughs are original.",
-      "The source says the ACA individual mandate was “repealed.” Technically, the federal penalty dropped to $0 in 2019; the effect on enrollment is the same.",
+      "Module 46 study guide, outcomes 46.3 (managed care, case management, patient-focused care) and 46.4 (uninsured/underinsured, no usual source of care, perception of need, uneven distribution); textbook pp. 2777–2780 (Clinical Examples A and B, EMTALA Safety Alert, Box 46.2). Cases and walkthroughs are original.",
+      "<b>ACA mandate:</b> Your course guide says the individual mandate was “repealed.” Current fact: the federal penalty dropped to $0 in 2019; the mandate itself stayed in the law. On a course exam, expect “repeal”; on the NCLEX, know the effect—more uninsured people.",
       "Medicaid’s nursing home coverage means long-term custodial care. Medicare covers only limited, short-term skilled nursing care after a qualifying hospital stay.",
       "Medicare covers people of any age with end-stage renal disease.",
       "HMOs cover emergency care even out of network.",
@@ -937,7 +995,7 @@
     {
      "heading": "What are the nursing care delivery models?",
      "keyIdea": "Functional divides by task, team by client group, and primary by relationship—each trades cost against continuity.",
-     "body": "<p>A delivery model answers three questions. Who is assigned to the client? Who holds authority and accountability? How is the work divided?</p><p><b>Functional nursing</b> splits work by task. It needs fewer RNs, so it returns in shortages and emergencies. But no one sees the whole client. A client who is more confused at 1400 than at 0900 can be missed. Clients may not know which nurse is theirs.</p><p><b>Team nursing</b> splits work by client group under an RN leader. <b>Primary nursing</b> ties one RN to the client for the whole stay. It gives the most continuity but needs more RNs.</p>",
+     "body": "<p>A delivery model answers three questions. Who is assigned to the client? Who holds authority and accountability? How is the work divided?</p><p><b>Functional nursing</b> splits work by task. The head nurse gives out tasks, not clients: one nurse passes medications, one does dressings, one carries out monitoring orders, and UAP do ADLs. Snowstorms and staffing shortages are the course examples. It needs fewer RNs, so it returns in shortages and emergencies. But no one sees the whole client. A client who is more confused at 1400 than at 0900 can be missed. Clients may not know which nurse is theirs.</p><p><b>Team nursing</b> splits work by client group under an RN leader. <b>Primary nursing</b> ties one RN to the client for the whole stay. It gives the most continuity but needs more RNs.</p>",
      "table": {
       "headers": [
        "Model",
@@ -948,21 +1006,21 @@
       "rows": [
        [
         "Functional",
-        "Charge nurse hands out tasks",
-        "Efficient; fewer RNs",
-        "Fragmented, impersonal; low satisfaction"
+        "Head or charge nurse hands out tasks (meds, dressings, monitoring orders; UAP do ADLs)",
+        "Finishes many tasks fast; cost-effective (fewer RNs)",
+        "Fragmented, depersonalized; no one sees the whole client; low nurse and client satisfaction"
        ],
        [
-        "Team (most common)",
-        "RN leader directs RNs, LPNs, UAP for a client group",
-        "Individualized care; RNs do complex work",
-        "Daily changes reduce continuity"
+        "Team (most common today)",
+        "RN team leader directs RNs, LPNs, and UAP for a client group by skill and scope",
+        "Individualized care; RNs do complex work while UAP help with ADLs",
+        "Frequent daily assignment changes reduce continuity"
        ],
        [
         "Primary",
-        "One RN 24/7, admission to discharge",
-        "High continuity; clear accountability",
-        "Needs more RNs; higher cost"
+        "One primary nurse has 24/7 authority, admission to discharge; associate nurse follows the plan",
+        "High continuity; strong nurse-client relationship; clear accountability",
+        "Needs more RNs; higher staffing cost"
        ],
        [
         "Total patient care (added)",
@@ -981,7 +1039,7 @@
     {
      "heading": "What do team leaders and primary nurses do?",
      "keyIdea": "The team leader stays responsible for every team client; the associate nurse follows the primary nurse’s plan and reports changes.",
-     "body": "<p>The RN <b>team leader</b> keeps responsibility for every team client, even when tasks are delegated. The RN keeps unstable, new, complex, and teaching clients. LPNs take stable clients with predictable outcomes. UAP do activities of daily living (ADLs), walking, positioning, intake and output (I&O), and routine vital signs on stable clients.</p><p>In <b>primary nursing</b>, the primary nurse assesses on admission, writes the plan, and stays accountable through discharge. On days off, an <b>associate nurse</b> follows the plan. If a change is needed, the associate acts for safety and tells the primary nurse.</p>",
+     "body": "<p>The RN <b>team leader</b> keeps responsibility for every team client, even when tasks are delegated. The RN keeps unstable, new, complex, and teaching clients. LPNs take stable clients with predictable outcomes. UAP do activities of daily living (ADLs) such as feeding and bathing, plus walking, positioning, intake and output (I&O), and routine vital signs on stable clients.</p><p>In <b>primary nursing</b>, the primary nurse assesses on admission, plans, gives direct care, and stays accountable through discharge. On days off, an <b>associate nurse</b> follows the plan and delegates tasks to UAP as appropriate. If a change is needed, the associate acts for safety and tells the primary nurse.</p>",
      "steps": [
       "Take handoff and find unstable or high-risk clients first.",
       "Match clients to staff by acuity, skill, and scope.",
@@ -997,7 +1055,7 @@
     {
      "heading": "How do I delegate safely?",
      "keyIdea": "The RN can hand off a task but never the accountability or the nursing judgment.",
-     "body": "<p><b>Delegation</b> gives a competent person authority to do a task. The RN keeps <b>accountability</b> for the choice and for follow-up. <b>Assignment</b> gives work already within the person’s scope, such as a stable client to an LPN.</p><p>The RN never delegates initial assessment, judgment, care planning, initial or new teaching, evaluation, or care of unstable clients. LPNs collect data, reinforce teaching, and care for stable clients under RN or provider supervision. Test every choice with the five rights. If one fails, do not delegate.</p>",
+     "body": "<p><b>Delegation</b> gives a competent person authority to do a task. The RN keeps <b>accountability</b> for the choice and for follow-up. <b>Assignment</b> gives work already within the person’s scope, such as a stable client to an LPN.</p><p>The RN never delegates initial assessment, judgment, care planning, initial or new teaching, evaluation, or care of unstable clients. LPNs collect data, reinforce teaching, and care for stable clients under RN or provider supervision. Test every choice with the five rights. If one fails, do not delegate.</p><p>Your course guide says the team leader “delegates” tasks to RNs, LPNs, and UAP. Current standard (NCSBN/ANA): giving licensed staff work within their scope is <b>assignment</b>; delegation is handing a specific task. On a course exam, expect “delegates”; on the NCLEX, use the assignment versus delegation terms. The RN stays accountable either way.</p>",
      "table": {
       "headers": [
        "Right",
@@ -1040,7 +1098,7 @@
     {
      "heading": "How do systems link to other nursing concepts?",
      "keyIdea": "Unit design is an EBP example: decentralized pods add bedside time, but teamwork needs planned communication.",
-     "body": "<p><b>Decentralized workstations</b> split a large unit into pods with charting stations near rooms and supplies. Research shows less walking, more time with clients, and higher client satisfaction. But nurses may feel isolated and report lower teamwork.</p><p>This is how evidence-based practice works in systems. One outcome improves while another gets worse. Do not scrap the design. Add <b>planned communication</b>: huddles, pod buddies, mobile devices, and visual help signals.</p><p>The table shows how healthcare systems connect to other nursing concepts.</p>",
+     "body": "<p><b>Decentralized workstations</b> split a large unit into pods with charting stations near rooms and supplies. Research shows less walking, more time with clients, and higher client satisfaction. But nurses may feel isolated and report lower teamwork.</p><p>This is how evidence-based practice works in systems. One outcome improves while another gets worse. Do not scrap the design. Add <b>planned communication</b>: huddles, pod buddies, mobile devices, and visual help signals.</p><p>The table shows how healthcare systems connect to other nursing concepts.</p><p>In every concept, the nurse’s duties are the same. Advocate for vulnerable groups. Follow institutional and legal standards, such as EMTALA and scope of practice. Evaluate client satisfaction and outcomes. Keep the care setting safe.</p>",
      "table": {
       "headers": [
        "Concept",
@@ -1077,7 +1135,7 @@
        ],
        [
         "Quality improvement",
-        "Tracking readmissions after a new discharge process"
+        "Tracking readmissions and client satisfaction after a new discharge process"
        ],
        [
         "Safety",
@@ -1093,7 +1151,7 @@
     {
      "heading": "Why do healthcare costs keep rising?",
      "keyIdea": "Costs rise from longevity, chronic disease, technology, and demand; nurses cut waste and harm, never needed care.",
-     "body": "<p>U.S. per-capita health spending reached $10,739 in the year the course cites. Recent federal figures are higher. Hospital care is the largest share.</p><p>Good cost control removes waste and prevents harm. Delaying pain medicine or turning clients less often is unsafe, not cost control.</p>",
+     "body": "<p>Your course guide says U.S. per-capita health spending reached $10,739 (AMA, 2020). That figure matches CMS data for 2017. Current CMS data: over $14,000 per person (2023). On a course exam, expect $10,739; on the NCLEX, dollar figures are not tested. In both, hospital care is the largest share.</p><p>The course lists seven cost drivers below. Good cost control removes waste and prevents harm. Delaying pain medicine or turning clients less often is unsafe, not cost control.</p>",
      "bullets": [
       "People live longer, often with several chronic illnesses.",
       "Chronic disease is rising, such as obesity-related diabetes.",
@@ -1229,13 +1287,13 @@
     {
      "heading": "Course source & clinical clarification",
      "bullets": [
-      "Module 46 study guide, outcomes 46.5–46.7; textbook pp. 2780–2782. Page 2782 was partly illegible; rationing definitions are on p. 2783.",
+      "Module 46 study guide, outcomes 46.5 (functional, team, primary nursing), 46.6 (links to other nursing concepts), and 46.7 (allocation of resources and the nurse’s role); textbook pp. 2780–2782. Page 2782 was partly illegible; rationing definitions are on p. 2783.",
       "Macro/microallocation, explicit/implicit rationing, and distributive justice are standard ethics content added to fill that gap.",
-      "The $10,739 figure matches 2017 U.S. data. Recent CMS figures exceed $14,000 per person. Hospital care is still the largest share.",
-      "In functional nursing, the charge nurse technically <em>assigns</em> tasks within scope and <em>delegates</em> to UAP.",
+      "<b>Spending:</b> Your course guide says per-capita spending reached $10,739 (AMA, 2020). That matches CMS 2017 data; current CMS data exceed $14,000 per person (2023). On a course exam, expect $10,739; on the NCLEX, know hospital care is the largest share.",
+      "In functional nursing, the charge nurse technically assigns tasks within scope and delegates to UAP.",
       "Total patient care and the five rights were added as standard NCLEX content.",
       "“Team nursing is the most frequently used model” is from the course; many hospitals blend it with total patient care.",
-      "The course says the team leader “delegates” to RNs and LPNs. Under NCSBN/ANA guidelines, work within a person’s scope is <b>assignment</b>. The leader stays accountable either way."
+      "<b>Delegate vs assign:</b> Your course guide says the team leader “delegates” to RNs and LPNs. Current standard (NCSBN/ANA): work within a person’s scope is <em>assignment</em>. On a course exam, expect “delegates”; on the NCLEX, “assigns.” The leader stays accountable either way."
      ]
     }
    ],

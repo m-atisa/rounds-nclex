@@ -95,17 +95,21 @@
     {
      "term": "Advance directives",
      "def": "Legal papers stating care wishes, such as a living will or health care proxy."
+    },
+    {
+     "term": "Quality indicators",
+     "def": "Key rates that quality programs track, such as infection rates, fall rates, and pressure injury incidence."
     }
    ],
    "sections": [
     {
      "heading": "What is quality care, and why did it change?",
      "keyIdea": "Quality care makes a good outcome more likely; most failures come from faulty systems, not careless people.",
-     "body": "<p>The IOM (now the National Academy of Medicine) defines <b>quality</b> as how much health services raise the chance of desired outcomes and match current professional knowledge. Quality also means good communication, shared decisions, and cultural sensitivity.</p><p><b>To Err Is Human</b> reported up to 98,000 U.S. hospital deaths a year from errors. A later Johns Hopkins analysis estimated more than 250,000. The median medication error rate is about 19.6% to 25.6%.</p><p>The key message was the cause. Most errors come from faulty systems that lead good people to make mistakes. <b>Crossing the Quality Chasm</b> (2001) then found the system too disorganized for people with several chronic illnesses. It set the Six Aims.</p>",
+     "body": "<p>The IOM (now the National Academy of Medicine) defines <b>quality</b> as how much health services raise the chance of desired outcomes and match current professional knowledge. Quality also means good communication, shared decisions, and cultural sensitivity.</p><p><b>To Err Is Human</b> reported up to 98,000 U.S. hospital deaths a year from errors. A later Johns Hopkins study estimated more than 250,000 deaths a year. That would make medical errors a leading cause of death in the U.S. Systematic reviews put the overall median medication error rate at 19.6% to 25.6%.</p><p>The key message was the cause. Most errors come from faulty systems that lead good people to make mistakes. <b>Crossing the Quality Chasm</b> (2001) then found the system too disorganized for people with several chronic illnesses. It set the Six Aims.</p>",
      "bullets": [
       "<b>Quality</b>: raises the chance of good outcomes and matches current knowledge.",
       "<b>QI (HRSA)</b>: systematic, continuous actions that lead to measurable improvement for targeted client groups.",
-      "<b>Quality management</b>: compares processes with standards; prevents harm and overuse, misuse, and underuse."
+      "Quality management: compares medical and nursing processes with accepted standards to correct problems before they harm clients and to prevent treatment errors. It also aims for cost-effective care by preventing overuse, misuse, and underuse of resources."
      ],
      "analogy": "Think of an airline. After a near crash, investigators do not just fire the pilot. They ask why the checklist and cockpit design let the mistake happen. Health care now asks the same question.",
      "check": {
@@ -120,37 +124,44 @@
      "table": {
       "headers": [
        "Aim",
+       "Course definition",
        "Bedside example",
        "Clue words"
       ],
       "rows": [
        [
         "Safe",
+        "Avoiding injuries to clients from the care that is meant to help them.",
         "Two identifiers before blood; bed alarm for high fall risk",
         "injury, harm, error"
        ],
        [
         "Effective",
+        "Giving services based on scientific knowledge to all who could benefit, and not giving them to those not likely to benefit (avoiding underuse and overuse).",
         "Clot prevention for eligible clients; no antibiotics for a viral cold",
         "evidence, benefit, overuse, underuse"
        ],
        [
         "Patient-centered",
+        "Care that respects and responds to each client’s preferences, needs, and values, so the client’s values guide all clinical decisions.",
         "Care planned around prayer times; shared pain goals",
         "preferences, values, respect"
        ],
        [
         "Timely",
+        "Reducing waits and harmful delays for both those who receive and those who give care.",
         "Fast stroke triage; shorter ED waits for a bed",
         "wait, delay, door-to-needle"
        ],
        [
         "Efficient",
+        "Avoiding waste, including waste of equipment, supplies, ideas, and energy.",
         "Carts stocked so kits do not expire; no duplicate charting",
         "waste, cost, duplication"
        ],
        [
         "Equitable",
+        "Care that does not vary in quality because of personal traits such as gender, ethnicity, or geographic location.",
         "Interpreter services; equal pain care across groups; rural telehealth",
         "disparity, all groups"
        ]
@@ -164,7 +175,7 @@
     {
      "heading": "Who leads and measures nursing quality?",
      "keyIdea": "NDNQI compares unit data, the AHRQ handbook gives evidence, NPSGs set required practices, and honest reporting keeps data true.",
-     "body": "<p>Major quality groups include the U.S. Department of Health and Human Services (DHHS), the American Medical Association (AMA), and the American Nurses Association (ANA). For nursing, three efforts stand out (see the list).</p><p><b>Core measures</b> are standard benchmarks for certain conditions, such as discharge medications after a stroke or MI.</p><p>Data are only honest when staff report problems. The <b>AHRQ Patient Safety Culture Survey</b> shows whether staff feel safe reporting errors and near misses. If staff fear punishment, they hide near misses, and leaders cannot see weak spots. The fix is not to discipline staff who do not report. Make reporting safe, and show that reports lead to fixes.</p>",
+     "body": "<p>Major quality groups include the U.S. Department of Health and Human Services (DHHS), the American Medical Association (AMA), and the American Nurses Association (ANA). For nursing, three efforts stand out (see the list).</p><p>Quality programs track key indicators, such as infection rates, fall rates, and pressure injury incidence. <b>Core measures</b> track key clinical benchmarks for certain conditions. Examples are discharge medications and follow-up after a stroke or MI (heart attack).</p><p>Data are only honest when staff report problems. The <b>AHRQ Patient Safety Culture Survey</b> shows whether staff feel safe reporting errors and near misses. If staff fear punishment, they hide near misses, and leaders cannot see weak spots. The fix is not to discipline staff who do not report. Make reporting safe, and show that reports lead to fixes.</p>",
      "bullets": [
       "<b>NDNQI</b>: national database of nursing-sensitive measures (falls with injury, pressure injuries, CAUTI (catheter-associated urinary tract infection), RN skill mix). Use it to compare your unit with similar units.",
       "<b>AHRQ handbook</b> (Patient Safety and Quality: An Evidence-Based Handbook for Nurses): the evidence on how nurses prevent harm.",
@@ -217,9 +228,10 @@
      "keyIdea": "The ACA ties money to outcomes, so discharge teaching and care coordination are now quality measures.",
      "body": "<p>The <b>Affordable Care Act</b> (ACA, 2010) expanded and reformed Medicaid and Medicare. It tied money to quality. Hospitals with too many 30-day readmissions, such as for heart failure, pneumonia, or MI, lose part of their Medicare payment. It also rewards cutting wasteful spending.</p><p>After the ACA, Medicare 30-day readmissions fell by more than 1%, and care-related complications declined. So your discharge teaching matters.</p><p>A <b>bundled payment</b> is one payment for a whole episode, such as a knee replacement and recovery. If the client gets an infection or returns, the hospital absorbs the cost.</p>",
      "bullets": [
-      "Bundles reward pre-op teaching, early mobility, complication prevention, early discharge planning, and clean handoffs.",
-      "States share responsibility for Medicaid and may create a federally subsidized Basic Health Program.",
-      "During COVID-19 (2020), CMS paused quality reporting and paused using quality data for payment."
+      "Bundled payments reward pre-op teaching, early mobility, complication prevention, early discharge planning, and clean handoffs. They are proven to cut costs, especially for orthopedic procedures such as joint replacement.",
+      "States are partly responsible for health insurance programs for low-income individuals and families, such as Medicaid.",
+      "States may also set up a Basic Health Program (BHP) for low-income adults and legal immigrants. The federal government subsidizes it.",
+      "During COVID-19 (2020), CMS and other federal agencies paused quality data reporting rules. They also paused using quality data as a condition for payment."
      ],
      "example": "A client with heart failure is going home. You use teach-back (the client explains it back in their own words) for daily weights and diet, confirm the client can get the medicines, and book follow-up within 7 days. Each step targets a known reason for return visits.",
      "check": {
@@ -272,7 +284,31 @@
      "heading": "How do ethics, informatics, and law protect quality?",
      "keyIdea": "Equal care, accurate records, and following the law are all parts of quality care.",
      "body": "<p><b>Ethics.</b> Every client has a right to the best quality of care, whatever their race, gender, sexual orientation, or ability to pay. Nurses fight disparities and give culturally competent care. Patient-centered care does not mean doing everything a person asks. Some preferences are not ethical to honor, such as a parent refusing lifesaving blood for a child. An adult with capacity may refuse blood for themselves.</p><p><b>Informatics.</b> Quality dashboards are built from your charting, so keep records accurate and current. Copy-forward or late charting corrupts these data and can hide decline. Data also track infections (HAIs) and show areas lacking resources. Protect your login and client privacy (HIPAA).</p><p><b>Legal issues.</b> Follow the law. Watch for abuse and reckless staff. Ask about advance directives (living will, proxy, DNR). After an honest mistake, debrief and teach instead of blaming.</p>",
-     "example": "An 80-year-old client’s daughter answers every question. You see bruises in different stages of healing. You interview the client privately, chart the bruises objectively, and report per facility policy and law. You also ask about advance directives."
+     "example": "An 80-year-old client’s daughter answers every question. You see bruises in different stages of healing. You interview the client privately, chart the bruises objectively, and report per facility policy and law. You also ask about advance directives.",
+     "table": {
+      "headers": [
+       "Concept",
+       "Link to QI",
+       "What the nurse does"
+      ],
+      "rows": [
+       [
+        "Ethics",
+        "Clients have the right to the best quality of care.",
+        "Give high-quality care regardless of race, gender, sexual orientation, or ability to pay. Speak up against disparities. Give culturally competent care. Recognize preferences that are not ethical to honor, such as refusing lifesaving blood for a child."
+       ],
+       [
+        "Informatics",
+        "EHRs (electronic health records) used at the point of care improve continuity of care.",
+        "Record medical history and test results accurately. Keep electronic and paper records up to date. Use data to track HAIs (health care-associated infections) and find areas lacking resources."
+       ],
+       [
+        "Legal issues",
+        "Following federal and state laws every time improves quality of care.",
+        "Watch for abuse and for reckless staff behavior that risks harm or violates privacy. Ask about advance directives (living will, health care proxy, DNR orders). After an honest mistake, debrief and teach instead of blaming."
+       ]
+      ]
+     }
     },
     {
      "heading": "North Carolina practice note",
@@ -373,7 +409,9 @@
       "The IOM is now the National Academy of Medicine. The NDNQI is now run by Press Ganey.",
       "The transfusion example is a surrogate refusing for a minor; an adult with capacity may refuse for themselves.",
       "The National Quality Strategy (HHS, 2011) has been updated by CMS; the aims and priorities taught here still apply.",
-      "From 2026, The Joint Commission is folding NPSGs into “National Performance Goals”; the bedside behaviors are unchanged."
+      "From 2026, The Joint Commission is folding NPSGs into “National Performance Goals”; the bedside behaviors are unchanged.",
+      "The source dates To Err Is Human to 2000 (the book). The report was released in late 1999. Either date may appear on an exam.",
+      "Bundled payment savings, the BHP, the COVID-19 pause, and the ethics, informatics, and legal table come directly from the source."
      ]
     }
    ],
@@ -462,7 +500,7 @@
     },
     {
      "term": "Interprofessional assessment",
-     "def": "Review by several disciplines working together, such as a surgeon, nurse, dietitian, and physical therapist."
+     "def": "Also called interdisciplinary assessment. Review by several disciplines working together, such as a surgeon, nurse, dietitian, and physical therapist."
     },
     {
      "term": "Peer review",
@@ -510,7 +548,7 @@
     },
     {
      "term": "TQM",
-     "def": "Total Quality Management: a whole-organization philosophy, made famous by Deming, where everyone owns quality."
+     "def": "Total Quality Management: a whole-organization philosophy using teamwork (including suppliers and customers), communication, feedback, fact-based decisions, and continual improvement."
     },
     {
      "term": "PDSA",
@@ -523,6 +561,14 @@
     {
      "term": "Six Sigma / Lean",
      "def": "Six Sigma cuts defects and variation using data. Lean removes wasted steps. Lean Six Sigma does both."
+    },
+    {
+     "term": "Audit",
+     "def": "An examination of records to verify accuracy and proper use. Intraprofessional if it looks at one discipline; interprofessional if it looks at several."
+    },
+    {
+     "term": "Structure, process, outcome standards",
+     "def": "Structure: material and human resources and organization. Process: the steps used to reach an outcome. Outcome: the result, such as bedridden clients who develop a pressure injury."
     }
    ],
    "sections": [
@@ -587,7 +633,7 @@
     {
      "heading": "What is utilization review?",
      "keyIdea": "Utilization review asks whether resources are overused, underused, or misused, and many such findings are also safety problems.",
-     "body": "<p><b>Interprofessional</b> assessment brings several disciplines together. A surgeon, nurse, dietitian, and physical therapist might review why post-op clients have slow bowels (ileus). No single discipline can fix the whole process.</p><p><b>Utilization review</b> checks resource use for three problems (see the list). It is required for Medicare and Medicaid hospitals and expected by The Joint Commission.</p><p>The nursing response is often a protocol change. For extra catheters, a nurse-driven protocol reviews the need daily and removes catheters that no longer meet criteria.</p>",
+     "body": "<p><b>Interprofessional</b> (also called interdisciplinary) assessment brings several disciplines together. A surgeon, nurse, dietitian, and physical therapist might review why post-op clients have slow bowels (ileus). No single discipline can fix the whole process.</p><p><b>Utilization review</b> checks resource use for three problems (see the list). Your course guide says it is required by Medicaid and The Joint Commission. Federal CMS rules require it for all hospitals in Medicare and Medicaid, and Joint Commission standards include it. On a course exam, answer “Medicaid and The Joint Commission.”</p><p>The nursing response is often a protocol change. For extra catheters, a nurse-driven protocol reviews the need daily and removes catheters that no longer meet criteria.</p>",
      "bullets": [
       "<b>Overuse:</b> a service given when it will not help, such as urinary catheters in incontinent clients who can walk. This also raises the risk of CAUTI (catheter-associated urinary tract infection). An expensive scan when a simpler test would answer the question is also overuse.",
       "<b>Underuse:</b> a helpful service not given, such as missed VTE (clot) prevention or inadequate staffing.",
@@ -602,7 +648,7 @@
     {
      "heading": "How do benchmarks and the Donabedian model work?",
      "keyIdea": "Compare your numbers with a standard, then sort each measure as structure, process, or outcome.",
-     "body": "<p><b>Benchmarking</b> compares performance with industry standards from the ANA, specialty groups, or research. It turns “we have lots of falls” into “1.2 injury falls per 1,000 patient days versus 0.6.”</p><p>An <b>indicator</b> is the number used to compare. A good one is measurable, objective (two people get the same number), and sensitive (it moves when care changes). When several indicators miss, target the biggest harmful gap first.</p><p>The <b>Donabedian model</b> has three parts. Good structure makes good process possible. Good process makes good outcomes likely. When outcomes are poor, look backward.</p><p>Falls, pressure injuries, and pain impairing function count as both process (was prevention done?) and outcome (did it happen?).</p>",
+     "body": "<p><b>Benchmarking</b> compares the performance of a person or organization with industry standards. These standards are established models of high-quality performance from the ANA, specialty groups, or clinical research. It turns “we have lots of falls” into “1.2 injury falls per 1,000 patient days versus 0.6.”</p><p>An <b>indicator</b> is the number used to compare. A good one is measurable, objective (two people get the same number), and sensitive (it moves when care changes). When several indicators miss, target the biggest harmful gap first.</p><p>The <b>Donabedian model</b> has three parts. Good structure makes good process possible. Good process makes good outcomes likely. When outcomes are poor, look backward.</p><p>Falls, pressure injuries, and pain impairing function count as both process (was prevention done?) and outcome (did it happen?).</p>",
      "table": {
       "headers": [
        "Part",
@@ -631,7 +677,12 @@
      "check": {
       "q": "Classify: (a) percent of RNs with specialty certification; (b) percent of clients with a fall-risk check within 24 hours; (c) injury falls per 1,000 patient days.",
       "a": "(a) Structure. (b) Process. (c) Outcome."
-     }
+     },
+     "bullets": [
+      "Structure standards: material resources, human resources, and general organizational structure. They show the capacity and systems for giving care. Quick recall: staff, equipment, facility.",
+      "Process standards: the steps used to reach an outcome. Do the required steps exist, and are they followed? Quick recall: how care is delivered.",
+      "Outcome standards: the performance of a process. Example: the number of bedridden clients who develop a pressure injury. Quick recall: the end result for the client."
+     ]
     },
     {
      "heading": "Which quality program is which?",
@@ -645,7 +696,7 @@
       "rows": [
        [
         "TQM",
-        "Whole-organization philosophy; everyone, including suppliers and customers, owns quality; roots in Shewhart, made famous by Deming"
+        "Whole-organization philosophy built on teamwork across the whole organization, including suppliers and customers; see the next section"
        ],
        [
         "PDSA",
@@ -668,6 +719,46 @@
      "check": {
       "q": "One team maps every step from blood order to transfusion and removes useless steps. Another compares infection data with the benchmark six months after a new bundle. Name each.",
       "a": "The first is Lean (removing waste). The second is quality assurance (checking results against the standard)."
+     }
+    },
+    {
+     "heading": "What are TQM, CQI, and a full quality plan?",
+     "keyIdea": "TQM is a whole-organization philosophy, CQI fixes specific problems step by step for its customers, and a full plan ties programs together.",
+     "body": "<p><b>Total Quality Management (TQM)</b> is a full management philosophy. Everyone in the organization owns quality, including suppliers and customers. It rests on five features (see the list).</p><p>Your course guide says Walter Shewhart invented TQM and W. Edwards Deming made it famous. More exactly, Shewhart built the statistical tools and the PDCA cycle behind it. Deming, with others such as Joseph Juran, spread TQM. On a course exam, expect “invented by Shewhart, made famous by Deming.” On the NCLEX, just know TQM is a whole-organization philosophy.</p><p><b>PDSA</b> is Deming’s change to Shewhart’s PDCA (Plan-Do-Check-Act). It is closely linked to TQM.</p><p><b>CQI</b> is customer-driven, step-by-step improvement. It applies to specific problems, policies and procedures, resource use, and EBP (evidence-based practice).</p>",
+     "bullets": [
+      "Teamwork across the entire organization, including suppliers and customers",
+      "Communication",
+      "Feedback",
+      "Fact-based decision-making",
+      "Continual improvement"
+     ],
+     "table": {
+      "headers": [
+       "Program",
+       "What it covers"
+      ],
+      "rows": [
+       [
+        "TQM",
+        "The whole organization; a philosophy, not one project"
+       ],
+       [
+        "CQI",
+        "Specific problems, policies and procedures, resource use, and EBP; serves internal customers (nurses, physicians, therapists, medical records staff, billing) and external customers (clients, families, payers)"
+       ],
+       [
+        "Comprehensive quality management plan",
+        "Joins new programs, models, and technology with existing primary care across clinical, managerial, administrative, and facility areas; addresses engagement, population health, and value (per capita cost); uses client satisfaction surveys and follow-up"
+       ],
+       [
+        "Six Sigma and Lean Six Sigma",
+        "Data-driven programs that cut defects and variation (Six Sigma) and remove workflow waste (Lean) to improve safety and efficiency"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A hospital trains every department, its suppliers, and its patient council to share data and decide by facts. Which program is this?",
+      "a": "TQM. It spans the whole organization, including suppliers and customers. CQI would target one specific problem."
      }
     },
     {
@@ -786,13 +877,32 @@
      }
     },
     {
+     "heading": "Worked case: Mrs. Davison’s dressing",
+     "keyIdea": "One client’s confusion can reveal a teaching problem; assess her first, then let nurses review nurses to fix the process.",
+     "body": "<p>Mrs. Ruth Davison is 74. She had a carpal tunnel repair. Her discharge teaching said to keep the dressing on for 2 days. She took it off after 1 day. She now reports slight bleeding and redness.</p><p>Questions to answer: What does the nurse do first? What kind of review fits? Who takes part? What will the review look at?</p>",
+     "steps": [
+      "First, assess the client: the wound, bleeding, signs of infection, and hand movement and feeling. Notify the provider of findings.",
+      "Name the review: nurses reviewing nursing care is an intraprofessional assessment.",
+      "Who takes part: the two RNs who cared for her, two other RNs, and the nurse manager.",
+      "What they do: review her chart and compare her care with care given to similar clients.",
+      "Follow up with Mrs. Davison: was the teaching clear, and was she satisfied?",
+      "Fix the process: for example, use teach-back and clear written instructions with the removal date. Then check whether similar errors drop."
+     ],
+     "check": {
+      "q": "Why is the Davison review intraprofessional and not interprofessional?",
+      "a": "Everyone reviewing is a nurse (RNs and the nurse manager). Interprofessional would add other disciplines, such as the surgeon or a therapist."
+     }
+    },
+    {
      "heading": "Course source & clinical clarification",
      "bullets": [
       "Source: Module 50 study guide, pp. 2854–2856 (50.4 steps 1–2, Exemplar A, Donabedian, Box 50.2) and pp. 2859–2860 (50.5 programs).",
       "The source says Shewhart “invented” TQM. More exactly, Shewhart built the tools and cycle behind it; Deming (with others such as Juran) popularized TQM.",
       "Utilization review is required by CMS Conditions of Participation for Medicare and Medicaid hospitals.",
       "DMAIC and Lean as waste removal are standard additions to the Six Sigma entry.",
-      "The wound assessment in Exemplar A is added as the first clinical step."
+      "The wound assessment in Exemplar A is added as the first clinical step.",
+      "Utilization review: the course guide says “required by Medicaid and The Joint Commission.” CMS rules require it for Medicare and Medicaid hospitals; Joint Commission standards include it.",
+      "Course guide: TQM “invented by Walter Shewhart; made famous by W. Edwards Deming.” Current history: Shewhart created the tools and PDCA cycle; Deming and others popularized TQM. Expect the course wording on a course exam."
      ]
     }
    ],
@@ -892,7 +1002,7 @@
     },
     {
      "term": "RCA2",
-     "def": "Root Cause Analysis and Action: a systems-focused review that ends with an action plan (owners, timelines, pilot tests, measures)."
+     "def": "Improving Root Cause Analysis and Actions to Prevent Harm: a systems-focused review of special and common causes that ends with an action plan (owners, timelines, pilot tests, measures)."
     },
     {
      "term": "Special- vs. common-cause variation",
@@ -925,13 +1035,21 @@
     {
      "term": "Human error / at-risk / reckless",
      "def": "Unintended slip (console) / risky shortcut not seen as risky (coach) / conscious disregard of a substantial risk (discipline)."
+    },
+    {
+     "term": "Blame-free environment",
+     "def": "A setting where staff can report errors or near misses without fear of punishment, so system problems can be found and fixed."
+    },
+    {
+     "term": "AACN healthy work environment",
+     "def": "Six standards: skilled communication, true collaboration, effective decision-making, appropriate staffing, meaningful recognition, and authentic leadership."
     }
    ],
    "sections": [
     {
      "heading": "What is a sentinel event?",
      "keyIdea": "A sentinel event is unexpected harm from care that reaches the client and causes death or serious harm.",
-     "body": "<p>A sentinel is a guard who warns of danger. A <b>sentinel event</b> warns that the system is badly wrong.</p><p>The Joint Commission now defines it as a safety event that reaches the client and causes death, permanent harm, or severe temporary harm. It is not mainly caused by the illness. The course source uses older wording: an unexpected event with death or serious injury, or the risk of it.</p><p>A death from terminal cancer is not a sentinel event. A death from a wrong-dose insulin drip is. It needs immediate investigation and a credible RCA.</p><p>Your role: protect and assess the client, and notify the provider and supervisor. Save equipment and packaging. Chart the facts and complete the incident report.</p>",
+     "body": "<p>A sentinel is a guard who warns of danger. A <b>sentinel event</b> warns that the system is badly wrong.</p><p>The Joint Commission now defines it as a safety event that reaches the client and causes death, permanent harm, or severe temporary harm. It is not mainly caused by the illness. Your course guide uses older wording; see the next section.</p><p>A death from terminal cancer is not a sentinel event. A death from a wrong-dose insulin drip is. It needs immediate investigation and a credible root cause analysis (RCA2).</p><p>Your role: protect and assess the client, and notify the provider and supervisor. Save equipment and packaging. Chart the facts and complete the incident report.</p>",
      "steps": [
       "Did the event reach the client? If not, it is a near miss.",
       "Was the harm caused by care, not by the natural course of the illness?",
@@ -988,6 +1106,39 @@
      }
     },
     {
+     "heading": "Sentinel events: course wording vs. current rules",
+     "keyIdea": "Learn the course wording for course exams and the current Joint Commission wording for the NCLEX; the nursing actions are the same.",
+     "body": "<p>Your course guide and the current Joint Commission policy word two points differently. Both students need both versions.</p><p>Definition. Your course guide says a sentinel event is an unexpected occurrence involving death or serious physical or psychological injury, or the risk thereof, including loss of limb or function. Current standard: a patient safety event, not mainly related to the illness, that reaches the client and causes death, permanent harm, or severe temporary harm. On a course exam, expect the course wording. On the NCLEX, expect the current one.</p><p>The 72-hour window. Your course guide groups abduction, rape, assault, homicide, and suicide as events “in the facility or within 72 hours of discharge.” Current standard: the 72-hour window applies to suicide. Abduction, rape, assault, and homicide count when they happen on site. On a course exam, expect the course grouping.</p>",
+     "table": {
+      "headers": [
+       "Point",
+       "Course guide",
+       "Current Joint Commission"
+      ],
+      "rows": [
+       [
+        "Definition",
+        "Unexpected occurrence with death or serious physical or psychological injury, or the risk thereof (including loss of limb or function)",
+        "Safety event not mainly related to the illness that reaches the client and causes death, permanent harm, or severe temporary harm"
+       ],
+       [
+        "72-hour window",
+        "Abduction, rape, assault, homicide, or suicide in the facility or within 72 hours of discharge",
+        "Suicide in a 24-hour staffed setting or within 72 hours of discharge (including from the ED); the others count on site"
+       ],
+       [
+        "Required response",
+        "Immediate investigation and a credible RCA2",
+        "Same"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A client attempts suicide 2 days after discharge from an inpatient psychiatric unit and has permanent harm. Is this a sentinel event under both versions?",
+      "a": "Yes. Suicide or attempt with serious harm within 72 hours of discharge from a 24-hour setting counts in both the course and current versions."
+     }
+    },
+    {
      "heading": "What is risk management?",
      "keyIdea": "Risk management prevents harm before it happens and limits damage after it happens.",
      "body": "<p>A <b>breach of care</b> is when a nurse departs from the standard of care. Malpractice data (CRICO) show nurses’ breaches cluster in bedside care (giving drugs; watching IVs, catheters, and wounds), falls, pressure injuries, and communication breakdowns.</p><p><b>Risk management</b> is the set of systems and reports that detect, monitor, assess, reduce, and prevent risks. It has a proactive side and a reactive side.</p><p><b>Client dissatisfaction</b> is a major risk factor for lawsuits. Your best tool is therapeutic communication: listen, acknowledge, meet the need, and involve the charge nurse or patient advocate.</p>",
@@ -1032,7 +1183,7 @@
     {
      "heading": "How does root cause analysis work?",
      "keyIdea": "RCA2 asks why the system let the event happen, then picks strong system fixes with owners, deadlines, and measures.",
-     "body": "<p><b>RCA2</b> (Root Cause Analysis and Action) studies serious events. It focuses on <b>systems and processes, not individual performance</b>. The team builds a timeline and keeps asking “why?”</p><p>It sorts variation. <b>Special-cause</b> variation is beyond normal and tied to something specific, like a broken alarm. <b>Common-cause</b> variation is normal system noise; fixing it needs redesign.</p><p><b>Strong actions</b> change the system: forcing functions (designs that block the wrong action), standard processes, automation, staffing. <b>Weak actions</b> rely on memory: reminders, memos, or training alone.</p><p>FMEA is the proactive cousin. It asks “how could this fail?” before harm. RCA asks “why did it fail?” after.</p>",
+     "body": "<p><b>RCA2</b> stands for “Improving Root Cause Analysis and Actions to Prevent Harm.” It studies serious events. It focuses on <b>systems and processes, not individual performance</b>. The team builds a timeline and keeps asking “why?”</p><p>It sorts variation. <b>Special-cause</b> variation is beyond normal and tied to something specific, like a broken alarm. <b>Common-cause</b> variation is normal system noise; fixing it needs redesign. RCA2 looks at both kinds.</p><p><b>Strong actions</b> change the system: forcing functions (designs that block the wrong action), standard processes, automation, staffing. <b>Weak actions</b> rely on memory: reminders, memos, or training alone.</p><p>FMEA is the proactive cousin. It asks “how could this fail?” before harm. RCA asks “why did it fail?” after.</p>",
      "steps": [
       "Secure the client, save equipment, and report.",
       "Form an interprofessional team with frontline staff and leaders.",
@@ -1052,7 +1203,7 @@
     {
      "heading": "Medication errors: what are they, and what next?",
      "keyIdea": "A medication error is preventable; an ADE is harm. After any error, assess the client before anything else.",
-     "body": "<p>A <b>medication error</b> (NCC MERP) is any preventable event that may cause wrong drug use or harm. An <b>adverse drug event (ADE)</b> is harm from a drug.</p><p>They overlap only in part. A wrong dose causing low blood sugar is an error with harm. An allergic reaction to a correctly given first dose is an ADE with no error. A late dose with no effect is an error with no harm.</p><p><b>High-alert drugs</b> include IV heparin, look-alike/sound-alike (LASA) drugs, and Beers Criteria drugs, such as benzodiazepines, in adults 65 and older. Question a Beers drug for an older adult at fall risk. Use independent double checks for high-alert infusions per policy.</p>",
+     "body": "<p>A <b>medication error</b> (NCC MERP) is any preventable event that may cause wrong drug use or harm. The drug may be in the control of a health care professional, the client, or a consumer. An <b>adverse drug event (ADE)</b> is harm a client has from exposure to a drug. Not all ADEs are errors, but many are preventable.</p><p>They overlap only in part. A wrong dose causing low blood sugar is an error with harm. An allergic reaction to a correctly given first dose is an ADE with no error. A late dose with no effect is an error with no harm.</p><p><b>High-alert drugs</b> include IV heparin, look-alike/sound-alike (LASA) drugs, and Beers Criteria drugs, such as benzodiazepines, in adults 65 and older. Question a Beers drug for an older adult at fall risk. Use independent double checks for high-alert infusions per policy.</p>",
      "table": {
       "headers": [
        "Safeguard",
@@ -1066,7 +1217,7 @@
         "Scan every time; never scan a copied label or a band not on the client; report scanner problems instead of working around them"
        ],
        [
-        "Tall-man lettering",
+        "Tall-man lettering and rules on similar names",
         "LASA mix-ups (hydrOXYzine vs. hydrALAZINE)",
         "Read the full name; store apart"
        ],
@@ -1098,7 +1249,7 @@
     {
      "heading": "How do staffing and personal habits affect safety?",
      "keyIdea": "More RN hours mean more eyes catching early decline, and every nurse must refuse tasks they cannot do safely.",
-     "body": "<p>A higher <b>RN skill mix</b> and more nursing hours mean fewer bad outcomes. These include pressure injuries, GI bleeding, heart attack, restraint use, failure to rescue, pneumonia, sepsis, UTI, shock, and 30-day deaths. RNs spot early decline and act.</p><p>Swapping RNs for aides may raise total hours but lowers skill mix.</p><p><b>Resource use</b> aims to cut waste: needless procedures, high admin costs, missed prevention, fraud, longer stays from drug errors, extra visits from poor teaching, and lost time from bad equipment or charting.</p><p>Never do a task you are unsure how to do. Follow policy. Report errors properly. The AACN’s six standards for a healthy work environment are below.</p>",
+     "body": "<p>A higher <b>RN skill mix</b> (the share of total nursing hours given by RNs) and more nursing hours mean fewer bad outcomes. The course list is ulcers, gastritis, acute MI (heart attack), restraint use, failure to rescue, pneumonia, sepsis, UTI, 30-day mortality, pressure injuries, and shock or cardiac arrest. RNs spot early decline and act.</p><p>Swapping RNs for aides may raise total hours but lowers skill mix.</p><p><b>Resource use</b> aims to cut waste. The table lists the sources of waste.</p><p>Personal responsibility applies to students and nurses alike. Never do a task you are unsure how to do. Follow facility policies and procedures. Report errors properly. The AACN’s six standards for a healthy work environment are below.</p>",
      "bullets": [
       "AACN standards: skilled communication",
       "True collaboration",
@@ -1107,12 +1258,48 @@
       "Meaningful recognition",
       "Authentic leadership"
      ],
-     "example": "A busy RN asks a nursing student to remove a chest tube. The student has never been taught or supervised in this skill. The student declines to do it alone and calls the clinical instructor."
+     "example": "A busy RN asks a nursing student to remove a chest tube. The student has never been taught or supervised in this skill. The student declines to do it alone and calls the clinical instructor.",
+     "table": {
+      "headers": [
+       "Source of waste",
+       "Example"
+      ],
+      "rows": [
+       [
+        "Unnecessary procedures",
+        "A daily lab test with no clinical reason"
+       ],
+       [
+        "Excessive administrative costs",
+        "Duplicate paperwork and billing steps"
+       ],
+       [
+        "Missed prevention",
+        "No flu vaccine, leading to a later admission"
+       ],
+       [
+        "Medical fraud",
+        "Billing for care not given"
+       ],
+       [
+        "Longer stays from medication errors",
+        "Extra days to treat a bleed from a heparin error"
+       ],
+       [
+        "Extra visits from poor client teaching",
+        "ED return because the client did not know how to use an inhaler"
+       ],
+       [
+        "Lost time from poor equipment or documentation",
+        "Searching for a working pump; re-charting lost notes"
+       ]
+      ]
+     }
     },
     {
      "heading": "What is Just Culture?",
      "keyIdea": "Judge the choice, not the luck: console a slip, coach a shortcut, discipline a reckless act.",
-     "body": "<p>A <b>blame-free environment</b> lets staff report errors without fear, so system problems surface. Alone, it can seem to excuse dangerous choices.</p><p><b>Just Culture</b> keeps safe reporting but adds fair accountability and zero tolerance for reckless behavior. It judges the behavior, not the outcome. A reckless shortcut is reckless even with no harm. An honest slip is consoled even with harm.</p>",
+     "body": "<p>A <b>blame-free environment</b> lets staff report errors without fear, so system problems surface. Alone, it can seem to excuse dangerous choices.</p><p>Just Culture separates three behaviors. <b>Human error</b> is an inadvertent slip: console the nurse and fix the system. <b>At-risk behavior</b> is taking shortcuts or drifting from the rules: coach. <b>Reckless behavior</b> is conscious disregard of a substantial and unjustifiable risk, such as working under the influence of alcohol or narcotics: take disciplinary action.</p><p><b>Just Culture</b> keeps safe reporting but adds fair accountability and zero tolerance for reckless behavior and gross misconduct. It judges the behavior, not the outcome. A reckless shortcut is reckless even with no harm. An honest slip is consoled even with harm.</p>",
      "steps": [
       "Separate the behavior from the outcome.",
       "Unintended slip, lapse, or mistake? Human error.",
@@ -1250,13 +1437,34 @@
      }
     },
     {
+     "heading": "Worked case: Mr. Meyers leaves at night",
+     "keyIdea": "An elopement that ends in death is a sentinel event; the review asks how the system let 45 minutes pass, not who to blame.",
+     "body": "<p>Mr. Reuben Meyers is 84 and has Alzheimer’s disease. He lives in an extended care facility. At 1:30 a.m. he wanders out. At 2:08 a.m. he is struck by a hit-and-run driver. Staff discover he is missing at 2:15 a.m. He dies 12 days later.</p><p>Questions to answer: Is this a sentinel event? Was there a possible breach of care? What must happen next? What risk management changes fit?</p>",
+     "steps": [
+      "Do the math: he was gone 45 minutes before anyone noticed. He was struck 38 minutes after leaving, and 7 minutes before staff noticed.",
+      "Classify it: elopement from a 24-hour staffed setting that led to death is a sentinel event.",
+      "Look for a breach: missing safety or monitoring standards, such as checks, door alarms, or a wander bracelet, may be a breach of care (breach of duty).",
+      "Respond: start an immediate investigation and a credible RCA2. The team asks why the system failed, not which aide to blame.",
+      "Reactive risk management: the RCA2, disclosure to the family per policy, and legal review.",
+      "Proactive risk management: elopement-risk screening, wander bracelets linked to doors, tested exit alarms, scheduled night checks, and night staffing matched to need.",
+      "Evaluate: track elopement attempts and alarm tests after the changes."
+     ],
+     "check": {
+      "q": "Would restraining or sedating every resident who wanders be a strong RCA2 action?",
+      "a": "No. It causes new harm and violates client rights. Strong actions redesign the system, such as door-linked alarms and staffing matched to need."
+     }
+    },
+    {
      "heading": "Course source & clinical clarification",
      "bullets": [
       "Source: Module 50 study guide, pp. 2856–2859 (50.4 steps 3–4, Exemplar B, Box 50.2).",
       "The Joint Commission revised its sentinel event definition; “or the risk thereof” is older wording.",
       "The 72-hour post-discharge window applies to suicide; abduction, rape, assault, and homicide refer to events on site.",
       "RCA2 (“Root Cause Analysis and Action”) was published by the National Patient Safety Foundation, now part of IHI.",
-      "Incident report rules, error-response steps, FMEA, near misses, and strong vs. weak actions are standard safety content added here."
+      "Incident report rules, error-response steps, FMEA, near misses, and strong vs. weak actions are standard safety content added here.",
+      "Course guide: sentinel event = “unexpected occurrence involving death or serious physical or psychological injury, or the risk thereof (including loss of limb or function).” Current: reaches the client and causes death, permanent harm, or severe temporary harm. Expect the course wording on course exams.",
+      "Course guide: abduction, rape, assault, homicide, or suicide “in facility or within 72 hours of discharge.” Current: 72 hours applies to suicide; the others count on site.",
+      "The full RCA2 title is “Improving Root Cause Analysis and Actions to Prevent Harm.”"
      ]
     }
    ],

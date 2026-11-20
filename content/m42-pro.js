@@ -79,6 +79,16 @@ window.NURSE_DATA.push({
       "topic": "accountability-foundations"
     },
     {
+      "front": "Course vs current: Magnet hospitals and the BSN",
+      "back": "Course guide: Magnet hospitals require BSN-prepared nurses. Current standard: Magnet requires a BSN or higher for nurse managers and leaders, plus a plan to grow BSN staff. Expect the course wording on course exams.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Course vs current: who regulates the nursing code of ethics?",
+      "back": "Course guide: codes are “regulated alongside state boards via the NCSBN.” Current standard: the ANA writes the Code of Ethics for Nurses; boards enforce the Nurse Practice Act. NCLEX: the Code belongs to the ANA.",
+      "topic": "accountability-foundations"
+    },
+    {
       "front": "List the expanded duties of accountability",
       "back": "Holistic health & wellness • Physical outcomes • Safety • Trauma, abuse & self-directed violence • Client and self-education • Infection prevention & immunity.",
       "topic": "accountability-practice"
@@ -139,6 +149,26 @@ window.NURSE_DATA.push({
       "topic": "accountability-practice"
     },
     {
+      "front": "Name the seven related concepts in the accountability matrix (p. 2705)",
+      "back": "Comfort • Evidence-based practice • Health, wellness, illness & injury • Infection • Safety • Teaching & learning • Trauma.",
+      "topic": "accountability-practice"
+    },
+    {
+      "front": "Trauma: the three nursing implications in the matrix",
+      "back": "Assess for physical, emotional, or sexual abuse • Screen for abuse risk AND suicide risk on admission • Stay alert for spoken or shown warning signs of abuse or suicide.",
+      "topic": "accountability-practice"
+    },
+    {
+      "front": "Teaching & learning: nursing implications in the matrix",
+      "back": "Assess client and family learning needs and readiness • Design teaching from EBP • Read current journals and attend workshops/seminars • Keep competence through continuing education. Also guide preceptees and students.",
+      "topic": "accountability-practice"
+    },
+    {
+      "front": "Ms. Miller refuses opioids. With whom should the nurse and charge nurse collaborate?",
+      "back": "The primary HCP or hospitalist • The clinical pharmacist (non-narcotic or multimodal options safe with her GI diagnosis) • Possibly a pain management specialist or a physical/integrative therapist.",
+      "topic": "accountability-practice"
+    },
+    {
       "front": "Define competence",
       "back": "Practicing to the fullest extent with specialized knowledge, skills, abilities, and clinical judgment—applying critical thinking, problem solving, and ethical reasoning, with awareness of one’s limits and openness to feedback.",
       "topic": "competence"
@@ -196,6 +226,21 @@ window.NURSE_DATA.push({
     {
       "front": "Exhausted after 20 hours awake and asked to stay. Competent response?",
       "back": "Decline the extra shift because you can’t practice safely, and help find coverage; fitness for duty is part of competence.",
+      "topic": "competence"
+    },
+    {
+      "front": "Exemplar 42.A learning outcomes",
+      "back": "1. Analyze competence as it relates to accountability. 2. Describe the areas of competence. 3. Explain the importance of lifelong competence for nurses.",
+      "topic": "competence"
+    },
+    {
+      "front": "Define situational learning",
+      "back": "Applying classroom theory to diverse, real-world clinical situations. It is how critical thinking deepens at the bedside after nursing school.",
+      "topic": "competence"
+    },
+    {
+      "front": "How does competence grow across a career (course list)?",
+      "back": "Formal education • Seminars • Peer-reviewed journals • Employer classes • Interprofessional collaboration. To close a gap: continuing education, workshops, literature, mentorship/preceptorship, supervised orientation.",
       "topic": "competence"
     }
   ],

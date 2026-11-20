@@ -192,6 +192,116 @@ window.NURSE_DATA.push({
       "front": "A peer repeatedly withholds handoff information from a new nurse. What is it and what is done?",
       "back": "Bullying (sabotage) that endangers clients—document specific incidents and report through the chain of command per policy.",
       "topic": "conflict-management"
+    },
+    {
+      "front": "Virginia Henderson’s (1991) definition of collaboration?",
+      "back": "“A partnership relationship between doctors, nurses, and other healthcare providers with patients and their families.” The client is an equal partner.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "QSEN Box 37.1: what do K, S, and A stand for, and how do you tell them apart?",
+      "back": "Knowledge (describing or explaining), Skills (doing, such as using a structured handoff), Attitudes (valuing, such as accepting that care transitions are risky). Five areas: self-awareness, scope and roles, communication and conflict, safety and authority, systems.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Box 37.2: the five groups a nurse collaborates with?",
+      "back": "Clients, peers, other healthcare professionals, professional nursing organizations, and legislators. (The course title says “four domains,” but it lists five.)",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Seven aims of interprofessional collaborative practice?",
+      "back": "Client-centered care with the client taking part; continuity across the health continuum; client and family satisfaction; high-quality, cost-effective, evidence-based care; mutual respect and communication; fixing system problems; interdependent relationships among providers and clients.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Benefits of interprofessional collaboration for the client, the team, and the system?",
+      "back": "Client: informed active partner, better adherence, fewer complications, errors, and deaths, shorter stays. Team: less hierarchy, more respect and empowerment, better decisions and creativity, higher satisfaction and retention. System: lower cost, better coordination, right use of specialists, better access.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "How does collaboration relate to health policy, healthcare systems, professionalism, QI, and safety?",
+      "back": "Health policy: raises job satisfaction. Systems: less duplicate service and lower cost. Professionalism: more nurse–physician collaboration raises perceived autonomy and professionalism. QI: raises situational awareness and teamwork. Safety: lowers morbidity and mortality.",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "APRN: degree and the four roles?",
+      "back": "Graduate or doctoral degree; diagnoses and treats. Roles: NP, CNS, CRNA (nurse anesthetist), and CNM (nurse-midwife).",
+      "topic": "nurse-collaborator"
+    },
+    {
+      "front": "Define mutual respect and trust.",
+      "back": "Mutual respect: valuing each member’s contributions and knowledge and treating all as equals, including their differing views. Trust: confidence in another member’s actions. Neither is automatic; both are built over time.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Give the course’s checkback example.",
+      "back": "Physician: “Atropine 0.5 mg IV push.” Nurse: “Atropine 0.5 mg IV push.” Physician: “You are right, atropine 0.5 mg push.” The sender’s confirmation closes the loop.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Give the course’s call-out example.",
+      "back": "At the bedside of a client with chest pain, the physician asks, “Blood pressure?” The nurse answers, “86/60,” so the whole team hears it at once.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Physician vs. nurse communication style, and the PICU finding?",
+      "back": "Physicians tend to be concise; nurses tend to be descriptive (Tan et al., 2017). In pediatric ICU family meetings, physicians spoke an average of 89.9% of the time (Walter et al., 2019).",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "What four habits does team-centered communication need?",
+      "back": "Attentive listening, acknowledging other perspectives, stating your own viewpoint, and mutual give-and-take.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Barriers to nurse–physician collaboration (EBP box)?",
+      "back": "Power struggles, hierarchical relationships, different views of roles and mutual trust, and segregated professional education. Physicians rate communication and collaboration more positively than nurses do.",
+      "topic": "ipec-teamstepps"
+    },
+    {
+      "front": "Define intrapersonal conflict.",
+      "back": "Stress or tension inside one person from real or perceived pressure: clashing expectations, role conflict, or confusion. Example: choosing between a day job that clashes with family duties and staying on tiring nights.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Define interpersonal conflict.",
+      "back": "Conflict between two or more people from different goals or personalities, competition, or concern about territory, control, or loss. Example: misunderstanding a coworker’s role, or belittling or bullying.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Define intergroup conflict.",
+      "back": "Conflict between competing teams or groups, often over rewards or scarce resources. Example: physicians want NPs under the medical board; NPs want to stay under the board of nursing.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Define interorganizational conflict.",
+      "back": "Competition between organizations in the same market. Examples: hospitals advertising better care; nursing schools competing for qualified applicants.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Covert conflict: reactive/avoidant vs. repressive behaviors?",
+      "back": "Reactive or avoidant: complaining, gossiping, passive-aggressive behavior. Repressive: absenteeism and tardiness. Covert conflict causes more stress, distress, and confusion than overt conflict.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Define incivility.",
+      "back": "Rude, discourteous, or disrespectful words or behavior that break norms of mutual respect and harm team communication and client safety.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Define verbal abuse.",
+      "back": "Words, tone, or manner that humiliate, degrade, intimidate, or attack another person’s dignity.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Three sources of healthcare conflict (Kim et al., 2017)?",
+      "back": "Individual: personality, communication style, conflict habits. Interpersonal: incivility, low support, poor communication, education and generation differences. Organizational: role ambiguity, scope issues, structure and workflow, work environment, scarce resources.",
+      "topic": "conflict-management"
+    },
+    {
+      "front": "Leader strategies to prevent conflict?",
+      "back": "Share resources and workloads fairly, define role expectations clearly, invite concerns without fear of punishment, and recognize team wins and significant life events.",
+      "topic": "conflict-management"
     }
   ],
   "questions": [

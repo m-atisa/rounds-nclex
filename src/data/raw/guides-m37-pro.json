@@ -14,7 +14,8 @@
     "You can describe the five groups a nurse collaborates with.",
     "You can match a client’s problem to the right team member.",
     "You can decide what the RN keeps and what can go to an LPN or UAP.",
-    "You can name the benefits of team care and the community programs that use it."
+    "You can name the benefits of team care and the community programs that use it.",
+    "You can link collaboration to health policy, systems, professionalism, quality, and safety."
    ],
    "bigPicture": "<p>No one person can safely care for a hospital client alone. After a knee replacement, a client needs the surgeon, the nurse, the physical therapist, the case manager, and the social worker. Most of all, the team needs the client’s own goals. <b>Collaboration</b> turns that group of experts into one shared plan.</p><p>When teams do not work together, clients get repeat tests, mixed messages, and missed problems. When teams work well, errors, complications, deaths, and hospital stays all go down. The nurse sits at the center because the nurse is with the client around the clock. The NCLEX will ask who should be involved, what you can hand off, and what you must keep.</p>",
    "recap": [
@@ -29,7 +30,7 @@
    "keyTerms": [
     {
      "term": "Collaboration",
-     "def": "Two or more people working toward a common goal by combining skills, knowledge, and resources, without duplicate work (WHO, 2010)."
+     "def": "Two or more people working toward a common goal by combining skills, knowledge, and resources, without duplicate work (WHO, 2010). Henderson (1991): a partnership of providers with clients and families."
     },
     {
      "term": "Interprofessional",
@@ -84,7 +85,7 @@
     {
      "heading": "What is collaboration?",
      "keyIdea": "Collaboration means one shared goal, combined skills, and no duplicate work, with the client as a partner.",
-     "body": "<p>The WHO says <b>collaboration</b> is two or more people working toward a common goal. They combine their skills, knowledge, and resources. They also avoid doing the same work twice.</p><p>Collaboration is not just being nice, and it is not just following orders. If the nurse and the physical therapist each teach a different way to climb stairs, they did not collaborate. They only worked side by side.</p><p>Henderson called collaboration a partnership with clients and families. The client has an equal voice. Answers that decide <em>for</em> the client lose to answers that set goals <em>with</em> the client.</p><p>Collaboration happens at three levels, listed below. To do it well, nurses need accountability, authority in their practice area, and ongoing learning about roles and group work.</p>",
+     "body": "<p>The WHO says <b>collaboration</b> is two or more people working toward a common goal. They combine their skills, knowledge, and resources. They also avoid doing the same work twice.</p><p>Collaboration is not just being nice, and it is not just following orders. If the nurse and the physical therapist each teach a different way to climb stairs, they did not collaborate. They only worked side by side.</p><p>Ideally, collaboration is a <b>dynamic process</b>. Clients work with physicians, nurses, and other providers to meet health goals. The client may be one person, a group, or a whole community.</p><p>Virginia Henderson (1991) called it “a partnership relationship between doctors, nurses, and other healthcare providers with patients and their families.” The client has an equal voice. Answers that decide <em>for</em> the client lose to answers that set goals <em>with</em> the client.</p><p>Collaboration happens at three levels, listed below. To do it well, nurses need accountability, authority in their practice area, and ongoing learning about roles and group work.</p>",
      "bullets": [
       "The nurse with the client.",
       "Healthcare providers with the client.",
@@ -99,13 +100,13 @@
     {
      "heading": "What does the profession expect of you?",
      "keyIdea": "QSEN, ANA, and NLN make teamwork a core nursing duty; the client is your main partner.",
-     "body": "<p>Three nursing groups set this standard. <b>QSEN</b> (Quality and Safety Education for Nurses) makes Teamwork and Collaboration one of six core competencies. The <b>ANA</b> practice standards include a collaboration standard, which the course cites as Standard 10. The <b>NLN</b> (National League for Nursing) asks schools to teach students from different professions together.</p><p>Box 37.1 splits the QSEN competency into knowledge (what you understand), skills (what you visibly do), and attitudes (what you value). Exam items usually describe a skill.</p><p>Box 37.2 lists five groups a nurse collaborates with. The client group is tested most. Good verbs are <em>involve, encourage, agree on</em>. Wrong-answer verbs are <em>decide for, tell, insist</em>.</p>",
+     "body": "<p>Three nursing groups set this standard. <b>QSEN</b> (Quality and Safety Education for Nurses) makes Teamwork and Collaboration one of six core competencies. The <b>ANA</b> (American Nurses Association) calls collaboration a key part of nursing practice. Its practice standards include a collaboration standard, which the course cites as Standard 10.</p><p>The <b>NLN</b> asks nursing schools to work with other professions on <b>interprofessional education (IPE)</b>. Students then learn to work in teams that give safe, quality care. Your course guide writes “National League for Nurses.” The group’s real name is the National League for Nursing. Both mean the same NLN.</p><p>Box 37.1 splits the QSEN competency into knowledge (what you understand), skills (what you visibly do), and attitudes (what you value). Exam items usually describe a skill. The full box is in the next section.</p><p>Box 37.2 lists the groups a nurse collaborates with. Your course guide titles it “four domains,” but it lists five groups. Learn all five. The client group is tested most. Good verbs are <em>involve, encourage, agree on</em>. Wrong-answer verbs are <em>decide for, tell, insist</em>.</p>",
      "bullets": [
-      "<b>Clients:</b> encourage involvement and independence, treat them as equals, and set goals together.",
-      "<b>Peers:</b> share expertise and build trust and respect.",
-      "<b>Other professionals:</b> respect their expertise, listen to every view, and share care-plan decisions and research.",
-      "<b>Nursing organizations:</b> serve on committees and support political solutions.",
-      "<b>Legislators:</b> give expert opinion on health laws, such as testifying on a bill."
+      "Clients: support active client involvement in health decisions. Encourage autonomy and an equal place on the team. Set mutually agreed-on goals. Give consultation in a collaborative way.",
+      "Peers: share your expertise with other nurses and ask for theirs. Build trust and mutual respect with peers who value each member’s unique contributions.",
+      "Other healthcare professionals: recognize each member’s expertise. Listen to every viewpoint. Share responsibility to explore care options, set realistic goals, and make care-plan decisions. Take part in interprofessional research.",
+      "Professional nursing organizations: look for ways to collaborate within and with them. Serve on state or provincial, national, and international committees or specialty groups. Support political solutions to professional and healthcare concerns.",
+      "Legislators: give expert opinions on health bills, such as testifying on a bill. Work with other providers and consumers on health laws that best serve the public."
      ],
      "table": {
       "caption": "Box 37.1 QSEN skills you can see on a shift",
@@ -139,6 +140,60 @@
      "check": {
       "q": "A new nurse has never titrated a heparin drip and asks the charge nurse to review the protocol with her. Which QSEN skill is this?",
       "a": "Scope and roles: working within her scope and asking for help when needed."
+     }
+    },
+    {
+     "heading": "The six QSEN competencies and Box 37.1 in full",
+     "keyIdea": "Teamwork and Collaboration is one of six QSEN competencies, and Box 37.1 lists what you must know, do, and value for it.",
+     "body": "<p>QSEN names six core competencies for every nurse. They are listed below. Teamwork and Collaboration means working well in nursing and interprofessional teams. It needs open communication, mutual respect, and shared decision making.</p><p>Box 37.1 breaks this competency into five areas. Each area has a <b>K</b> (knowledge), an <b>S</b> (skill), and an <b>A</b> (attitude). To tell them apart on a test, ask: Is the nurse <em>describing</em> something (K), <em>doing</em> something (S), or <em>valuing</em> something (A)?</p>",
+     "bullets": [
+      "Patient-centered care",
+      "Teamwork and collaboration",
+      "Evidence-based practice",
+      "Quality improvement",
+      "Safety",
+      "Informatics"
+     ],
+     "table": {
+      "caption": "Box 37.1 QSEN Teamwork and Collaboration: knowledge, skills, and attitudes",
+      "headers": [
+       "Area",
+       "Knowledge (K)",
+       "Skills (S)",
+       "Attitudes (A)"
+      ],
+      "rows": [
+       [
+        "Self-awareness and integrity",
+        "Describe your own strengths, limits, and values",
+        "Show awareness of your strengths and limits; start your own growth; act with integrity and consistency; respect differing views",
+        "See your own potential as a team member; value collaboration"
+       ],
+       [
+        "Scope and roles",
+        "Describe your scope and the roles of other members; know ways to spot and manage overlaps",
+        "Work within your scope; act as team member or leader as fits; ask for help; clarify roles; use others’ input",
+        "Do all of this in a respectful way"
+       ],
+       [
+        "Communication and conflict",
+        "Analyze differences in communication style; know how your own style affects others",
+        "Talk with members and ask for their input; start conflict resolution",
+        "Take an active part in resolving conflict"
+       ],
+       [
+        "Client safety and authority",
+        "Describe how team function affects safety and quality; explain how levels of authority affect teamwork",
+        "Follow best practices to lower risk during handoffs",
+        "Accept that care transitions are risky"
+       ],
+       [
+        "Systems: barriers and helpers",
+        "Name system barriers and helpers of good teamwork; study ways to improve systems",
+        "Help design systems that support teamwork",
+        "Value system solutions for good teamwork"
+       ]
+      ]
      }
     },
     {
@@ -241,6 +296,96 @@
      }
     },
     {
+     "heading": "Table 37.1 in full: what each member does",
+     "keyIdea": "Know each member’s full role, because the stem’s details tell you whose scope fits the client’s need.",
+     "body": "<p>The table below gives the full course description of each team member. The shorter clue table above is for fast test-taking. This one gives the details your course exam may ask about.</p><p>Two course points are often tested. First, an <b>APRN</b> holds a graduate or doctoral degree and diagnoses and treats. APRNs include the NP, CNS, CRNA, and CNM. Second, <b>UAP</b> are not licensed to give nursing care. Each state board of nursing sets the rules for what an RN may delegate to UAP.</p><p>Your course guide says an RD is “board-certified” with a bachelor’s or master’s degree. Current standard: the Commission on Dietetic Registration credentials RDs. Since 2024, new candidates need a graduate degree to take the exam. On a course exam, expect the course wording. On the NCLEX, just know that only the RD/RDN gives medical nutrition therapy.</p>",
+     "table": {
+      "caption": "Table 37.1 Potential members of interprofessional healthcare teams",
+      "headers": [
+       "Team member",
+       "Role and scope on the team"
+      ],
+      "rows": [
+       [
+        "Nurse: RN",
+        "Uses the nursing process to assess health and find concerns. Develops, carries out, and directs the plan of care."
+       ],
+       [
+        "Nurse: LPN/LVN",
+        "Helps give care under the supervision of an RN, physician, or other licensed practitioner."
+       ],
+       [
+        "Nurse: APRN",
+        "Graduate or doctoral degree. Diagnoses and treats health problems. Includes NP, CNS, CRNA (nurse anesthetist), and CNM (nurse-midwife)."
+       ],
+       [
+        "Unlicensed assistive personnel (UAP)",
+        "Not licensed to give nursing care. Does delegated care such as hygiene, feeding, and walking. Includes CNAs, home health aides, and PCTs. State boards set RN-to-UAP delegation rules."
+       ],
+       [
+        "Complementary healthcare providers",
+        "Nonmainstream practices used alongside regular medicine: chiropractors, herbalists, acupuncturists, massage therapists, reflexologists, and holistic healers."
+       ],
+       [
+        "Case manager",
+        "Works with providers to coordinate care and resources across all settings, so outcomes are high quality, timely, and cost-wise. Often a nurse or social worker."
+       ],
+       [
+        "Dentist",
+        "Promotes oral health. Diagnoses and treats problems of the teeth and mouth."
+       ],
+       [
+        "Registered dietitian (RD/RDN)",
+        "Credentialed, with a degree and a passed registration exam. Manages medical nutrition therapy to prevent or manage acute and chronic illness."
+       ],
+       [
+        "Nutritionist",
+        "Knows food and nutrition but may lack a degree. Teaches general healthy eating. Does not diagnose or treat disease."
+       ],
+       [
+        "Information technologist (IT)",
+        "Manages health information: EHRs, personal health records, telehealth, and e-prescribing. Protects privacy and security. Teaches staff to use the systems."
+       ],
+       [
+        "Occupational therapist (OT)",
+        "Rehab for people with mental, physical, or developmental disabilities. Builds the daily skills needed for school, work, home, and play, using exercises, assistive devices, and technology."
+       ],
+       [
+        "Medical technologist",
+        "Lab, radiology, and nuclear medicine technologists. Give the team diagnostic data by analyzing blood, body fluids, and specimens with special instruments."
+       ],
+       [
+        "Pharmacist",
+        "Prepares and dispenses drugs, does medication reconciliation, teaches clients, and helps the team evaluate the drug plan."
+       ],
+       [
+        "Physical therapist (PT)",
+        "Assesses, diagnoses, and plans care for musculoskeletal problems. Improves mobility, manages pain, restores function, and prevents disability. Uses exercise, massage, electrical stimulation, hydrotherapy, heat and cold, ultrasound, walkers, and canes."
+       ],
+       [
+        "Physician (MD/DO)",
+        "Diagnoses and treats disease and injury. Helps clients promote health and prevent or delay disease. May be a generalist (internal medicine, primary care, family health) or a specialist."
+       ],
+       [
+        "Physician assistant (PA)",
+        "Under a physician’s direction, diagnoses and treats medical problems and assists in surgery. Exam note: check your state Nurse Practice Act before following a PA’s order."
+       ],
+       [
+        "Respiratory therapist (RT)",
+        "Cares for breathing and airway problems: asthma, pneumonia, emphysema, trauma, cystic fibrosis, and muscular dystrophy. Manages oxygen, ventilators, breathing treatments, PFTs, and chest physiotherapy."
+       ],
+       [
+        "Social worker",
+        "Helps clients and families cope, solve problems, and adjust to illness and life events. Gives counseling. Protects vulnerable groups like children and older adults. Helps with money, lifestyle, substance use, and mental health issues."
+       ],
+       [
+        "Speech-language pathologist (SLP)",
+        "Also called a speech therapist. Works with communication problems, speech disorders, and trouble eating, drinking, or swallowing (dysphagia)."
+       ]
+      ]
+     }
+    },
+    {
      "heading": "What can the RN hand off?",
      "keyIdea": "Delegate tasks, never the nursing process: assessment, teaching, evaluation, and unstable clients stay with the RN.",
      "body": "<p>The RN is accountable for assessment, nursing judgment, planning, teaching, and evaluation. These are never handed off.</p><p>The LPN/LVN gives care under RN or provider supervision, usually to stable clients with predictable outcomes. UAP do tasks the RN delegates, like hygiene, feeding, and walking.</p><p><b>Delegation</b> hands a task to a competent person, but the RN still owns the outcome. <b>Assignment</b> gives care to staff whose own scope covers it.</p><p>Use the five rights of delegation (NCSBN/ANA), listed below. Give specific directions, then follow up. For example: “Walk Mr. Ruiz 50 feet with his walker at 1000 and 1400. Tell me right away if he is dizzy or his pulse is over 110.”</p>",
@@ -260,50 +405,34 @@
     {
      "heading": "What does good teamwork achieve?",
      "keyIdea": "Good teamwork means fewer errors and deaths, more satisfied staff, and lower costs.",
-     "body": "<p><b>Interprofessional collaborative practice</b> is a care model where many professions, the client, and the family work as one team. The course lists seven aims for it, shown below.</p><p>The table links collaboration to its benefits and related concepts. On the exam, find what is getting better or worse in the stem. Then match it to a row. If teamwork is working, you should see fewer repeat tests, better staff retention, and fewer complications.</p>",
+     "body": "<p><b>Interprofessional collaborative practice</b> is a care model where many professions, the client, and the family work as one team. Care is now very specialized and split up, so this model is essential. The course lists seven aims for it, shown below.</p><p>The table lists the benefits for the client, the team, and the health system. On the exam, find what is getting better or worse in the stem. Then match it to a row. If teamwork is working, you should see fewer repeat tests, better staff retention, and fewer complications.</p>",
      "bullets": [
-      "Client-centered care where the client takes part",
-      "Continuity from prevention to rehabilitation",
-      "Better client and family satisfaction",
-      "High-quality, cost-effective, evidence-based care",
-      "Mutual respect and communication",
-      "Fixing system problems",
-      "Providers and clients who depend on each other"
+      "Give client-directed, client-centered care in which the client takes part",
+      "Improve continuity of care across the whole health continuum, from wellness and prevention through acute illness to recovery and rehab",
+      "Improve client and family satisfaction with care",
+      "Give high-quality, cost-effective, evidence-based care that improves outcomes",
+      "Promote mutual respect, communication, and understanding between the client and the team",
+      "Give chances to find and fix system problems",
+      "Build interdependent relationships and understanding among providers and clients"
      ],
      "table": {
-      "caption": "Benefits and related concepts",
+      "caption": "Benefits of interprofessional collaboration",
       "headers": [
-       "Area",
+       "Who benefits",
        "What better collaboration does"
       ],
       "rows": [
        [
         "Client",
-        "Active partner; fewer complications, errors, and deaths; shorter stays"
+        "Becomes an informed consumer and active partner in decisions; follows the treatment plan better; fewer complications, errors, and deaths; shorter stays (WHO, 2010)"
        ],
        [
         "Healthcare team",
-        "Less hierarchy; more respect; higher satisfaction and retention"
+        "Less hierarchy; more empowerment, respect, and appreciation; better evidence-based care, decision making, and creativity; higher staff satisfaction and retention (Morley & Cashell, 2017)"
        ],
        [
-        "Health policy",
-        "Raises job satisfaction"
-       ],
-       [
-        "Healthcare systems",
-        "Less duplicate service; lower cost; better access"
-       ],
-       [
-        "Professionalism",
-        "Raises nurses’ sense of autonomy; nurses teach others about nursing roles"
-       ],
-       [
-        "Quality improvement",
-        "Raises situational awareness (noticing what is happening) and teamwork"
-       ],
-       [
-        "Safety",
-        "Lowers morbidity (illness) and mortality (death); nurses raise concerns at team meetings"
+        "Healthcare system",
+        "Lower overall costs; better coordination of care; right use of specialists through referrals; better access to care"
        ]
       ]
      },
@@ -313,14 +442,54 @@
      }
     },
     {
+     "heading": "How does collaboration link to other concepts?",
+     "keyIdea": "More collaboration raises job satisfaction, autonomy, and situational awareness, and lowers duplicate care, cost, illness, and death.",
+     "body": "<p>Outcome 37.2 asks how collaboration connects to other concepts. Good collaboration helps every level of health care. It makes organizations more efficient and keeps staff longer. It lowers client <b>morbidity</b> (illness) and <b>mortality</b> (death). It raises client autonomy and satisfaction. It also raises nurses’ sense of autonomy and job satisfaction.</p><p>The table shows five related concepts. Read each row as a chain: more collaboration leads to a result, and the result tells you what the nurse should do. <b>Situational awareness</b> means noticing what is happening around the client and what may happen next.</p>",
+     "table": {
+      "caption": "Concepts related to collaboration",
+      "headers": [
+       "Related concept",
+       "Relationship to collaboration",
+       "Nursing implications"
+      ],
+      "rows": [
+       [
+        "Health policy",
+        "Raises job satisfaction",
+        "Support leaders who back new ideas in workforce development and changes that improve work settings and job satisfaction"
+       ],
+       [
+        "Healthcare systems",
+        "More teamwork → less duplicate service → lower healthcare costs",
+        "Support and promote teamwork; use clear communication; serve on interprofessional committees to build collaboration across the system"
+       ],
+       [
+        "Professionalism",
+        "More nurse–physician collaboration → more sense of professional autonomy → more nursing professionalism",
+        "Recognize how collaboration affects job satisfaction; build collaborative nurse–physician relationships; teach the team about nursing roles and duties"
+       ],
+       [
+        "Quality improvement",
+        "Raises situational awareness and teamwork",
+        "Find threats to client safety through open communication, a clear purpose and skill for each member, and a set plan of action"
+       ],
+       [
+        "Safety",
+        "More teamwork → lower client morbidity and mortality",
+        "Support teamwork; join interprofessional meetings and raise concerns; teach the team about the safety benefits of collaboration"
+       ]
+      ]
+     }
+    },
+    {
      "heading": "Team care outside the hospital",
      "keyIdea": "Teams matter in long-term care, schools, ACT for mental illness, and PACE for older adults.",
-     "body": "<p>Teams work together in the community too, as the list below shows.</p><p><b>Clinical Example A:</b> Mr. Hainsley wants to go home after a knee replacement, even with stairs. The nurse, RN case manager, PT, social worker, and surgical resident meet with him and his spouse. They respect his goal, set up home health and a PT home-safety check, and solve money and equipment problems.</p><p><b>Clinical Example B:</b> Mr. Eliot has heart failure, kidney failure, high blood pressure, and an enlarged prostate. Daily rounds with the nurse, physician, dietitian, and case manager address fluid overload, urine retention, and anxiety. His diuretic is lowered once stable, the dietitian teaches low sodium, and home care is set up.</p>",
+     "body": "<p>Teams work together in the community too. The list below gives each setting, who it serves, and who is on the team.</p><p><b>Clinical Example A:</b> Mr. Hainsley wants to go home after a knee replacement, even with stairs. The nurse, RN case manager, PT, social worker, and surgical resident meet with him and his spouse. They respect his goal, set up home health and a PT home-safety check, and solve money and equipment problems. The full worked case is below.</p><p><b>Clinical Example B:</b> Mr. Eliot has heart failure, kidney failure, high blood pressure, and an enlarged prostate. Daily rounds with the nurse, physician, dietitian, and case manager address fluid overload, urine retention, and anxiety. His diuretic is lowered once stable, the dietitian teaches low sodium, and home care is set up. See the worked case in the TeamSTEPPS lesson.</p>",
      "bullets": [
-      "<b>Skilled nursing, rehab, long-term care:</b> nursing, medicine, therapies, social services, and mental health.",
-      "<b>Schools:</b> nurses, teachers, counselors, therapists, and physicians for children with disabilities or fragile health.",
-      "<b>ACT:</b> psychiatrists, social workers, pharmacists, APRNs, job counselors, and peer specialists for serious mental illness.",
-      "<b>PACE:</b> medical care, respite (caregiver relief), rides, and mental health care so older adults can stay home."
+      "Skilled nursing, rehab, and long-term care: clients who need care from many disciplines. Team: nursing; medical staff (physician, NP, specialist); physical, occupational, speech-language, and respiratory therapy; social services; and mental health or psychiatric services.",
+      "Schools: children with disabilities, medically fragile children, or children with acute or chronic conditions. Team: nurses, teachers, school administrators, counselors, mental health specialists, PTs, OTs, SLPs, and physicians.",
+      "ACT (Assertive Community Treatment): people with serious mental illness, such as schizophrenia or bipolar disorder, so they function well at home and in the community. Team: psychiatrists, psychologists, social workers, pharmacists, APRNs, employment counselors, and peer support specialists.",
+      "PACE (Programs of All-Inclusive Care for the Elderly): older adults in the community. Services: medical care, respite (caregiver relief), transportation, and mental health care. Team: physicians, nurses, therapists, social workers, and mental health professionals."
      ],
      "check": {
       "q": "A 34-year-old with schizophrenia keeps stopping his medicine. An 82-year-old wants to stay home, but her caregiver needs relief. Which program fits each?",
@@ -417,6 +586,18 @@
      }
     },
     {
+     "heading": "Worked case: Mr. Hainsley goes home (Example A)",
+     "keyIdea": "Start from the client’s goal, bring in the expert for each barrier, and document the shared decision.",
+     "body": "<p>This is Clinical Example A from your course. Mr. Hainsley is ready for discharge after a knee replacement. He and his spouse want him to go home. Their house has stairs, which makes a fall more likely.</p><p>The team is the primary care nurse, the RN case manager, the physical therapist, the social worker, and the surgical resident. They meet with Mr. Hainsley and his spouse. Work through the questions below.</p>",
+     "steps": [
+      "Question: Who decides where he goes? Answer: The client and spouse, with the team. Why: Collaboration treats the client as an equal partner. The team respects their wish to go home safely, even with stairs.",
+      "Question: How does the team make home safe? Answer: The case manager sets up home health, and the PT does a home-safety check. Why: Each barrier goes to the member whose scope covers it.",
+      "Question: The family worries about cost and equipment. Who helps? Answer: The social worker. Why: Money and resource problems belong to social work, not the nurse alone.",
+      "Question: What is the nurse’s last step? Answer: Document the shared decision, who owns each action, and the follow-up plan. Why: A written plan keeps every member and the client on the same page.",
+      "Question: What is the lesson? Answer: Good discharge planning is a team effort built around the client’s goal. Why: It lowers complications and repeat admissions."
+     ]
+    },
+    {
      "heading": "North Carolina practice note",
      "keyIdea": "In NC, the RN delegates only tasks on the aide’s approved list, never nursing judgment.",
      "body": "<p>These state rules match national delegation rules. The NCLEX does not test statute numbers.</p>",
@@ -435,10 +616,12 @@
      "body": "<p>Where this content comes from, plus updates.</p>",
      "bullets": [
       "Source: Module 37 study guide, pp. 2553–2556 (definitions, QSEN/ANA/NLN, Boxes 37.1–37.2, Table 37.1, related concepts) and pp. 2558–2559 (collaborative practice, community settings, Clinical Examples A and B).",
-      "The source says “National League for Nurses.” The correct name is National League for Nursing.",
-      "ANA Standard 10 is the 2015 numbering. The 2021 edition lists collaboration as Standard 11.",
+      "Your course guide says “National League for Nurses.” The correct name is National League for Nursing. It is the same organization (NLN).",
+      "Your course guide says ANA Standard 10 (2015 edition). Current standard: the 2021 edition lists collaboration as Standard 11. On a course exam, expect Standard 10; the NCLEX does not test standard numbers.",
       "RDs/RDNs make nutrition diagnoses, not medical diagnoses.",
-      "Five rights and the no-delegating-assessment rule are standard NCSBN/ANA principles added here."
+      "Five rights and the no-delegating-assessment rule are standard NCSBN/ANA principles added here.",
+      "Box 37.2 is titled “four domains” in your course guide, but it lists five groups: clients, peers, other professionals, nursing organizations, and legislators. Learn all five.",
+      "Your course guide says RDs are “board-certified” with a bachelor’s or master’s degree. Current standard: the Commission on Dietetic Registration credentials RDs, and since January 1, 2024, new candidates need a graduate degree. On a course exam, expect the course wording; on the NCLEX, know only the RD/RDN gives medical nutrition therapy."
      ]
     }
    ],
@@ -517,7 +700,7 @@
     },
     {
      "term": "Mutual respect and trust",
-     "def": "Respect means valuing every member, including the client and aides, as equals. Trust means confidence in another’s actions. Both are built over time."
+     "def": "Respect means valuing every member’s contributions and knowledge and treating all as equals, including their differing views. Trust means confidence in another’s actions. Both are built over time."
     },
     {
      "term": "Status-based communication",
@@ -529,7 +712,7 @@
     },
     {
      "term": "TeamSTEPPS",
-     "def": "An evidence-based teamwork system from the Department of Defense and AHRQ. It standardizes communication to reduce errors."
+     "def": "An evidence-based teamwork system from the Department of Defense and AHRQ. It reduces errors, flattens hierarchies, and standardizes communication, especially in handoffs."
     },
     {
      "term": "SBAR",
@@ -537,7 +720,7 @@
     },
     {
      "term": "Handoff",
-     "def": "Passing responsibility for a client to another nurse or provider, such as at shift change. It is high-risk."
+     "def": "The transfer and acceptance of responsibility for a client from one nurse or provider to another, such as at shift change (The Joint Commission, 2017). It is high-risk."
     },
     {
      "term": "Call-out",
@@ -572,7 +755,7 @@
     {
      "heading": "What are the four IPEC competencies?",
      "keyIdea": "IPEC’s four competencies are values and ethics, roles and responsibilities, communication, and teams and teamwork.",
-     "body": "<p>IPEC (2016) names four competencies. They build on each other. You cannot talk well with someone you do not respect. You cannot use someone’s skills if you do not know their role.</p><p><b>Mutual respect</b> and <b>trust</b> are not automatic. Health care has not always valued other professions. Teams build trust on purpose by following through, thanking people for good catches, and admitting limits.</p><p>Roles and responsibilities mean knowing each member’s scope. That lets the nurse say, “This is a question for the pharmacist,” instead of guessing. Each member also keeps learning and explains their role to the client.</p>",
+     "body": "<p>IPEC (the Interprofessional Education Collaborative, 2016) names four core competencies. They improve client outcomes and quality of care. They build on each other. You cannot talk well with someone you do not respect. You cannot use someone’s skills if you do not know their role.</p><p><b>Mutual respect</b> means valuing each member’s contributions and knowledge and treating all members as equals (Emich, 2018). It includes honoring the unique, differing views each person and profession brings (Cronenwett et al., 2007). <b>Trust</b> means being confident in another member’s actions.</p><p>Respect and trust are not automatic. They are shared processes built over time. Health care has not always valued other professions. Teams build trust on purpose by following through, thanking people for good catches, and admitting limits.</p><p>Roles and responsibilities mean knowing each member’s scope. That lets the nurse say, “This is a question for the pharmacist,” instead of guessing. The list below gives the full course points for each competency.</p>",
      "table": {
       "caption": "The four IPEC competencies",
       "headers": [
@@ -607,12 +790,18 @@
      "check": {
       "q": "A nurse tells a client, “The respiratory therapist will manage your breathing treatments, and the pharmacist will review your home medicines.” Which competency is this?",
       "a": "Roles and responsibilities. The nurse explains each member’s role and uses each person’s skills."
-     }
+     },
+     "bullets": [
+      "Values and ethics: each member has a duty to work with other professionals and the client with mutual respect. This builds trust and shared goals of quality and safety. Respect the diversity, values, and preferences of each client and team member.",
+      "Roles and responsibilities: understand and value every member’s role and scope. Use each person’s unique skills. Keep up your own continuing education. Explain each member’s role clearly to the client.",
+      "Communication: the basic way collaboration happens, and essential to safety. Communication failures among providers are a major cause of adverse events (Umberfield et al., 2019).",
+      "Teams and teamwork: put team goals before individual goals (AHRQ, 2019). Include clients and families as members who voice concerns, ask questions, get information, and take part. On discipline-specific issues, each discipline gives input, then the team discusses and decides together."
+     ]
     },
     {
      "heading": "Status-based vs. team-centered talk",
      "keyIdea": "Team-centered talk uses “we” and invites input, so people speak up and errors get caught.",
-     "body": "<p>Physicians are usually trained to speak briefly. Nurses often tell the whole story. Neither is wrong, but the mismatch causes friction. A long story at 0300 may lose the listener before the request.</p><p>One study of pediatric ICU family meetings found physicians spoke about 90% of the time. The family’s voice can get crowded out.</p><p>The bigger danger is <b>status-based</b> talk. It is one-sided and says “do not question me,” so people stay quiet. <b>Team-centered</b> talk uses “we,” asks for input, and shares your view honestly.</p>",
+     "body": "<p>Physicians usually speak in a brief, concise style. Nurses often use a descriptive style and tell the whole story (Tan et al., 2017). Neither is wrong, but the mismatch causes friction. A long story at 0300 may lose the listener before the request.</p><p>In one study of pediatric ICU family meetings, physicians spoke an average of 89.9% of the time (Walter et al., 2019). The family’s voice can get crowded out.</p><p>The bigger danger is <b>status-based</b> talk. It is top-down and can feel intimidating. Examples are one-sided commands like “Give this, do that” or “You need to do X.” People stop speaking up, and errors rise.</p><p><b>Team-centered</b> talk flattens the hierarchy and shows appreciation. It focuses on “we”: “Here is what we will do for this client.” Or: “Mr. X is concerned about rehab. What are your thoughts?” It needs the four habits listed below.</p>",
      "table": {
       "caption": "Rewrite status-based words",
       "headers": [
@@ -641,7 +830,13 @@
      "check": {
       "q": "Rewrite: “You need to tell the family visiting hours are over.”",
       "a": "For example: “He seems exhausted. Could we talk with the family together about a visiting plan that lets him rest?”"
-     }
+     },
+     "bullets": [
+      "Listen with full attention.",
+      "Acknowledge other points of view.",
+      "State your own view clearly.",
+      "Give and take on both sides."
+     ]
     },
     {
      "heading": "How do you make an SBAR call?",
@@ -662,7 +857,7 @@
     {
      "heading": "Call-out, checkback, and safe handoffs",
      "keyIdea": "Call-out tells the whole team at once; checkback confirms one exact message; handoffs need a set structure.",
-     "body": "<p>In an emergency, everyone needs key facts at once. A <b>call-out</b> says a critical value aloud to the whole team (“Blood pressure?” “86 over 60!”). Then everyone can plan the next step.</p><p>A <b>checkback</b> closes the loop on one message. The receiver repeats it, and the sender confirms. Use it for every verbal or phone order, critical lab, and medicine instruction. Do not save it for when you are unsure.</p><p>A <b>handoff</b> is risky because responsibility changes hands. QSEN asks nurses to accept that transitions are risky. I PASS THE BATON gives handoffs a set order, so safety items are not skipped.</p>",
+     "body": "<p>In an emergency, everyone needs key facts at once. A <b>call-out</b> says a critical value aloud to the whole team at the same time. Then everyone can plan the next step together.</p><p>A <b>checkback</b> closes the loop on one message. The receiver repeats it, and the sender confirms. Use it for every verbal or phone order, critical lab, and medicine instruction. Do not save it for when you are unsure.</p><p>A <b>handoff</b> is the transfer and acceptance of responsibility for a client from one nurse or provider to another (The Joint Commission, 2017). Shift change and transfers are examples. Handoffs are risky, and QSEN asks nurses to accept that. Tools like SBAR and I PASS THE BATON give a set order, so safety items are not skipped.</p><p>TeamSTEPPS, from the Department of Defense and AHRQ, built these tools. Its goals are to reduce errors, flatten hierarchies, and standardize talk in routine care and risky handoffs.</p>",
      "table": {
       "caption": "I PASS THE BATON",
       "headers": [
@@ -731,7 +926,8 @@
      "check": {
       "q": "In handoff, which belongs under Safety concerns: a latex allergy, high fall risk, or 15 years of hypertension?",
       "a": "The allergy and fall risk. Long-term hypertension is Background."
-     }
+     },
+     "example": "Call-out (course example): At the bedside of a client with chest pain, the physician asks, “Blood pressure?” The nurse answers, “86 over 60,” so the whole team hears it at once. Checkback (course example): The physician says, “Atropine 0.5 mg IV push.” The nurse repeats, “Atropine 0.5 mg IV push.” The physician confirms, “You are right, atropine 0.5 mg push.” The loop is now closed."
     },
     {
      "heading": "How do you speak up when ignored?",
@@ -791,6 +987,54 @@
      "check": {
       "q": "At rounds, the pharmacist raises a possible interaction between a new antibiotic and warfarin. How should the decision be made?",
       "a": "The pharmacist gives expert input. Then the team, including the client, discusses it and decides together."
+     }
+    },
+    {
+     "heading": "Evidence box: nurse–physician barriers and fixes in full",
+     "keyIdea": "Power, hierarchy, mismatched views of roles and trust, and separate training block teamwork; joint learning and shared models fix it.",
+     "body": "<p>The course’s evidence-based practice box looks at nurse–physician collaboration. Nurses and physicians often see their working relationship differently. Physicians tend to rate communication as more effective than nurses do. They also view collaboration more positively.</p><p>The list below gives the four barriers. The table gives the seven evidence-based solutions. When an item asks how to improve a unit’s teamwork, the right answer is usually one of these solutions.</p>",
+     "bullets": [
+      "Power struggles",
+      "Hierarchical (top-down) relationships",
+      "Different views of roles and of mutual trust",
+      "Separate (segregated) professional education"
+     ],
+     "table": {
+      "caption": "Evidence-based solutions",
+      "headers": [
+       "Solution",
+       "What it looks like"
+      ],
+      "rows": [
+       [
+        "Interprofessional education (IPE)",
+        "Nursing and medical students learn together, such as in joint simulation"
+       ],
+       [
+        "Interdisciplinary rounding",
+        "All disciplines and the client review the plan together"
+       ],
+       [
+        "Shared mental models",
+        "Everyone holds the same picture of the plan, roles, and client status"
+       ],
+       [
+        "Mutual understanding of team roles",
+        "Each member knows what the others do"
+       ],
+       [
+        "Respecting team members",
+        "Every voice, including aides and the client, is valued"
+       ],
+       [
+        "Improving communication",
+        "Standard tools like SBAR and checkback"
+       ],
+       [
+        "Administrative support",
+        "Leaders back a positive interprofessional culture"
+       ]
+      ]
      }
     },
     {
@@ -873,6 +1117,18 @@
      }
     },
     {
+     "heading": "Worked case: Mr. Eliot’s daily rounds (Example B)",
+     "keyIdea": "Daily team rounds catch problems early, adjust treatment together, and plan for home.",
+     "body": "<p>This is Clinical Example B from your course. Mr. Eliot has heart failure, chronic kidney (renal) failure, high blood pressure, and benign prostatic hyperplasia (BPH, an enlarged prostate). He is admitted with fluid overload.</p><p>His nursing problems are fluid volume excess, urinary retention, poor gas exchange, and anxiety. Each day the nurse, physician, dietitian, and RN case manager round together. Work through the questions below.</p>",
+     "steps": [
+      "Question: Why use daily interprofessional rounds? Answer: His problems cross many disciplines. Why: Fluid, kidneys, the prostate, diet, and discharge each have a different expert. Meeting daily keeps one shared plan.",
+      "Question: He has diuresed, and his lungs are clear. What should change? Answer: The team lowers the diuretic dose once he is stable. Why: Too much diuretic can cause low blood pressure and harm weak kidneys. The nurse reports weight, intake and output, and vital signs to guide this.",
+      "Question: Who teaches the diet? Answer: The dietitian teaches a low-sodium diet. Why: Medical nutrition therapy belongs to the RD. The nurse reinforces it.",
+      "Question: Who plans for home? Answer: The RN case manager coordinates home care. Why: Follow-up at home helps prevent readmission.",
+      "Question: What was the result? Answer: Complications were prevented, and his anxiety went down. Why: He saw a team with one plan and knew what came next."
+     ]
+    },
+    {
      "heading": "North Carolina practice note",
      "keyIdea": "In NC, telling the provider does not end your duty; the chain of command is how you meet it.",
      "body": "<p>NC law makes the RN accountable for follow-through, not just for making the call.</p>",
@@ -888,12 +1144,13 @@
      "heading": "Course source & clinical clarification",
      "body": "<p>Where this content comes from, plus updates.</p>",
      "bullets": [
-      "Source: Module 37 study guide, pp. 2556–2558 (IPEC, respect and trust, communication styles, TeamSTEPPS tools, I PASS THE BATON, teamwork, barriers).",
+      "Source: Module 37 study guide, pp. 2556–2558 (IPEC, respect and trust, communication styles, TeamSTEPPS tools, I PASS THE BATON, teamwork, barriers) and p. 2559 (Clinical Example B).",
       "IPEC updated its competencies in 2023 (Version 3). The same four domains remain.",
       "TeamSTEPPS 3.0 (AHRQ, 2023) keeps all the tools taught here.",
       "TeamSTEPPS calls the BATON “Safety” step “Safety concerns.” “THE” is a linking word, not a step.",
       "Chain-of-command steps and rapid response were added as expected next steps.",
-      "The 89.9% physician speaking time comes from one pediatric ICU study. It shows a trend, not a rule."
+      "The 89.9% physician speaking time comes from one pediatric ICU study. It shows a trend, not a rule.",
+      "Your course guide lists “THE — Background” as one BATON step. TeamSTEPPS treats “THE” as a linking word and “B” as Background. The content is the same."
      ]
     }
    ],
@@ -989,11 +1246,11 @@
     },
     {
      "term": "Overt vs. covert conflict",
-     "def": "Overt conflict is open and visible. Covert conflict is hidden and shows up as gossip, complaining, passive-aggression, absenteeism, or lateness."
+     "def": "Overt conflict is open and visible. Covert conflict is hidden: reactive or avoidant behaviors (complaining, gossip, passive-aggression) or repressive behaviors (absenteeism, lateness)."
     },
     {
      "term": "Conflict competence",
-     "def": "The skill of handling conflict differently depending on the situation. It grows with practice and self-awareness."
+     "def": "The skill of handling conflict differently depending on the situation (Thomas & Kilmann, 1974). It grows with practice and self-awareness."
     },
     {
      "term": "Thomas–Kilmann styles",
@@ -1009,11 +1266,11 @@
     },
     {
      "term": "Incivility",
-     "def": "Rude or disrespectful words or behavior, like eye-rolling, sarcasm, or public criticism."
+     "def": "Rude, discourteous, or disrespectful words or behavior that break norms of mutual respect, like eye-rolling, sarcasm, or public criticism. It harms team communication and client safety."
     },
     {
      "term": "Verbal abuse",
-     "def": "Words or tone that humiliate, degrade, or intimidate a person."
+     "def": "Words, tone, or manner that humiliate, degrade, or intimidate a person or attack their dignity."
     },
     {
      "term": "Horizontal (lateral) violence",
@@ -1021,7 +1278,7 @@
     },
     {
      "term": "Workplace bullying",
-     "def": "Repeated, health-harming mistreatment, such as verbal abuse, intimidation, or sabotage like withholding report information."
+     "def": "Repeated, health-harming mistreatment of one or more people by one or more others: verbal abuse, offensive conduct, intimidation, or sabotage (like withholding report information) that interferes with work."
     },
     {
      "term": "Crew Resource Management (CRM)",
@@ -1032,33 +1289,33 @@
     {
      "heading": "What is conflict, and what are its levels?",
      "keyIdea": "Conflict is normal; naming its level tells you who must be involved in solving it.",
-     "body": "<p>Conflict can arise between nurses and clients, among team members, within a unit, or across a whole organization. It blocks problem solving and communication, which threatens safety. Handled well, though, it drives growth. A nurse and a PT who disagree about early walking may build a better plan together.</p><p>Naming the level tells you who must help solve it. Intrapersonal conflict needs self-reflection and support. Interpersonal conflict is solved by the people involved, with help if needed. Intergroup conflict needs leaders and system fixes. Interorganizational conflict is handled at the leadership and policy level.</p>",
+     "body": "<p><b>Conflict</b> is disagreement among people, groups, or organizations that blocks problem solving and gets in the way of good communication (McKibben, 2017). It is a normal part of work. It can never be fully removed, but it can be managed well.</p><p>Conflict can arise in five places, listed below. It threatens safety when it blocks teamwork. Handled well, though, it drives growth and safer care. A nurse and a PT who disagree about early walking may build a better plan together.</p><p>Naming the level tells you who must help solve it. Intrapersonal conflict needs self-reflection and support. Interpersonal conflict is solved by the people involved, with help if needed. Intergroup conflict needs leaders and system fixes. Interorganizational conflict is handled at the leadership and policy level.</p>",
      "table": {
       "caption": "Four levels of conflict",
       "headers": [
-       "Level",
+       "Level and meaning",
        "Example",
        "Clue in the stem"
       ],
       "rows": [
        [
-        "Intrapersonal",
-        "A nurse is torn between a day shift that clashes with child care and exhausting nights",
+        "Intrapersonal: inside one person, from real or felt pressure, clashing expectations, role conflict, or confusion",
+        "A nurse is torn between a day shift that clashes with family duties and staying on nights while tired",
         "“Torn,” “pulled between”"
        ],
        [
-        "Interpersonal",
-        "Two nurses clash over a new admission, and one belittles the other",
+        "Interpersonal: between two or more people, from different goals or personalities, competition, or worry about territory, control, or loss",
+        "One nurse misunderstands another’s role, or one belittles or bullies another",
         "Named people, personalities"
        ],
        [
-        "Intergroup",
-        "ED and ICU staff disagree about who owns boarding clients",
+        "Intergroup: between competing teams, often over rewards or scarce resources",
+        "Physicians want NPs under the medical board; NPs want to stay under the board of nursing. Or ED and ICU staff fight over boarding clients",
         "Departments, professions, resources"
        ],
        [
-        "Interorganizational",
-        "Two hospitals in one city compete with ads",
+        "Interorganizational: between organizations in the same market",
+        "Two hospitals in one city advertise better care; nursing schools compete for strong applicants",
         "Competing hospitals or schools"
        ]
       ]
@@ -1067,12 +1324,19 @@
      "check": {
       "q": "Pharmacy and nursing disagree over who checks infusion pump drug libraries. Which level is this?",
       "a": "Intergroup: two groups in opposition over responsibility."
-     }
+     },
+     "bullets": [
+      "Between clients or families and nurses",
+      "Between nurses and other team members",
+      "Within a unit or department",
+      "Across a whole organization",
+      "Between an organization and the community"
+     ]
     },
     {
      "heading": "Overt vs. covert conflict",
      "keyIdea": "Overt conflict is out in the open; covert conflict hides in gossip, sarcasm, absences, and lateness.",
-     "body": "<p><b>Overt</b> conflict is open. Two people disagree in a meeting, or a family says, “I am unhappy with my mother’s care.” Because everyone can see it, it is easier to fix.</p><p><b>Covert</b> conflict hides. It shows up as complaining, gossip, and passive-aggressive comments. It also shows up as absenteeism and lateness. People see it differently, so it causes more stress and confusion.</p><p>A manager who sees more sick calls and break-room whispers after a schedule change should spot covert conflict. The fix is to bring it into the open in a safe, nonpunitive way.</p>",
+     "body": "<p><b>Overt</b> conflict is open. Two people disagree in a meeting, or a family says, “I am unhappy with my mother’s care.” Because everyone can see it, it is easier to fix.</p><p><b>Covert</b> conflict is not obvious. It sits “below the surface.” It shows up in two kinds of behavior, listed below. People see it differently, so it causes more stress, distress, and confusion.</p><p>A manager who sees more sick calls and break-room whispers after a schedule change should spot covert conflict. The fix is to bring it into the open in a safe, nonpunitive way.</p>",
      "table": {
       "headers": [
        "Feature",
@@ -1100,12 +1364,16 @@
      "check": {
       "q": "After a new charting system starts, several nurses arrive late and joke about “management’s brilliant idea.” No one has complained. What type of conflict is this?",
       "a": "Covert conflict, shown through lateness and passive-aggressive comments."
-     }
+     },
+     "bullets": [
+      "Reactive or avoidant behaviors: complaining, gossiping, and passive-aggressive comments.",
+      "Repressive behaviors: absenteeism (missing work) and tardiness (lateness)."
+     ]
     },
     {
      "heading": "What causes conflict, and how to prevent it",
      "keyIdea": "Find the source, then fix it at the right level, and address early cues before they grow.",
-     "body": "<p>Kim et al. (2017) group causes into individual, interpersonal, and organizational layers. The source points to the fix. A style mismatch needs self-awareness. Unclear roles need leaders to define who does what.</p><p>Watch for early cues: tension, arguments, a coworker being left out, acting out, and snide remarks. Address issues as they come up. Avoid destructive criticism. Stay calm, move the talk to a <b>private place</b> away from clients, and listen to the other view.</p><p>Leaders prevent conflict by sharing work fairly and defining roles. They invite concerns without punishment and recognize team wins and life events.</p>",
+     "body": "<p>Kim et al. (2017) group causes into individual, interpersonal, and organizational layers. The source points to the fix. A style mismatch needs self-awareness. Unclear roles need leaders to define who does what.</p><p>Watch for early cues: tension, arguments, a coworker being left out, acting out, and snide remarks. Address issues as they come up. Avoid destructive criticism, meaning harsh words, threats, or broad condemnation. Speak to coworkers respectfully and do not argue. Stay calm, move the talk to a <b>private place</b> away from clients, and listen actively from the other person’s point of view.</p><p>Leaders prevent conflict by sharing work fairly and defining roles. They invite concerns without punishment and recognize team wins and life events.</p>",
      "table": {
       "caption": "Sources of conflict",
       "headers": [
@@ -1127,22 +1395,22 @@
        ],
        [
         "Nurse–physician",
-        "Low confidence in the nurse, saving face after mistakes, old top-down habits"
+        "Low confidence in the nurse, a need to “save face” after mistakes, or trying to keep an old patriarchal (top-down) nurse–physician relationship"
        ],
        [
         "Nurse–client or family",
-        "Lack of knowledge, poor coping, fear shown as anger, unmet needs"
+        "Client or family lacks knowledge, copes poorly, or shows fear and anxiety as frustration; or the nurse fails to assess or meet needs or build a therapeutic relationship"
        ],
        [
         "Nurse–nurse",
-        "Disputes that, left alone, grow into bullying"
+        "Coworker disputes that, left unmanaged, grow into bullying or incivility"
        ]
       ]
      },
      "bullets": [
-      "Self-care lowers stress: know your triggers.",
-      "Try meditation, guided imagery, progressive relaxation, mindfulness, and self-compassion.",
-      "These lower stress, raise compassion, and improve client care."
+      "Self-care lowers stress: know your personal triggers.",
+      "Try meditation, guided imagery, progressive relaxation, mindfulness meditation, and self-compassion training.",
+      "These lower perceived stress, raise compassion, and improve the quality of client care (Mahon et al., 2017)."
      ],
      "check": {
       "q": "Two nurses argue every week about restocking the code cart because no one was ever assigned the job. What is the source and the fix?",
@@ -1152,11 +1420,12 @@
     {
      "heading": "Which conflict style fits the situation?",
      "keyIdea": "No style is always right; choose by stakes, time, and investment, and never give ground on safety.",
-     "body": "<p>Thomas and Kilmann describe five styles on two scales. <b>Assertiveness</b> is how hard you push for your own concerns. <b>Cooperativeness</b> is how much you try to meet the other person’s.</p><p><b>Conflict competence</b> means choosing the style the situation needs. Most people have a default style. Knowing yours helps you respond on purpose instead of by habit.</p><p>Temporary avoidance can help when emotions run high. Stepping away lets people calm down first. Sustained avoidance makes the problem fester.</p>",
+     "body": "<p>Thomas and Kilmann (1974) describe five styles on two scales. <b>Assertiveness</b> is how hard you push for your own concerns. <b>Cooperativeness</b> is how much you try to meet the other person’s.</p><p><b>Conflict competence</b> means managing conflict differently depending on the situation. It takes ongoing practice and self-awareness. Most people have a default style. Knowing yours helps you respond on purpose instead of by habit.</p><p>Temporary avoidance can help when emotions run high. Stepping away lets people regain calm before dealing with the root issue. Sustained avoidance makes the problem fester (Schermerhorn & Bachrach, 2018).</p><p>The table gives the course’s description of each style, then its best use, risk, and an example.</p>",
      "table": {
       "caption": "Thomas–Kilmann styles",
       "headers": [
        "Style",
+       "Course description",
        "Assertive / cooperative",
        "Best use",
        "Risk",
@@ -1165,36 +1434,41 @@
       "rows": [
        [
         "Competing",
+        "Assertive and power-oriented; can seem self-centered or like defending one’s own position",
         "High / low (win–lose)",
-        "Defending client safety",
+        "Defending a critical position on behalf of client safety",
         "Overuse seems selfish and hurts relationships",
         "Refusing a dose 10 times the usual"
        ],
        [
         "Collaborating",
+        "Cooperative and highly assertive; seeks insight into others’ views for creative, win–win problem solving",
         "High / high (win–win)",
-        "Complex issues where outcome and relationship both matter",
+        "Complex clinical or team issues where both the relationship and the outcome are critical",
         "Takes time; not for emergencies",
         "Nurse and PT plan walks around pain-medicine timing"
        ],
        [
         "Compromising",
+        "Both sides are partly satisfied; it addresses the issue rather than avoiding it, but only partly",
         "Medium / medium",
-        "Quick middle ground between equals",
+        "Timely middle ground when both sides have equal power",
         "Both only partly satisfied; never on safety",
         "Two nurses split a holiday shift"
        ],
        [
         "Avoiding",
+        "Uncooperative; prefers not to address the conflict at all",
         "Low / low",
-        "Trivial issue, need more facts, or hot emotions",
+        "More information is needed, emotions need to cool, or the issue is trivial",
         "Long-term avoidance worsens conflict",
         "Talking after the code, once calm"
        ],
        [
         "Accommodating",
+        "Meets the other person’s concerns while neglecting one’s own (self-sacrifice)",
         "Low / high",
-        "You care much less than the other person",
+        "One person or group is much less invested in the issue than the other",
         "Repeated giving in breeds resentment",
         "Swapping breaks so a coworker can take a call about her child"
        ]
@@ -1208,7 +1482,7 @@
     {
      "heading": "How do you manage conflict in progress?",
      "keyIdea": "Go private, cool things down, let each person speak, use facts, and solve with “we” around the client.",
-     "body": "<p>Be honest and respectful. State the issue with facts, not personalities. Let each person speak without interruption, and listen without judging. Focus on solutions, not blame, with safe client care at the center.</p><p>Use “we” language: “How can we fix the admission delay?” Avoid “you” commands like “You need to take the next admission.”</p><p>Organizations help by using TeamSTEPPS and Crew Resource Management. Individuals can use self-inventories, such as the Thomas–Kilmann Conflict Mode Instrument or an emotional intelligence inventory.</p><p>Sick clients and families are often scared and feel a loss of control. Anger is often fear in disguise. Giving back some control calms things down.</p>",
+     "body": "<p>Be honest, trustworthy, and respectful. State the issue objectively, with facts. Avoid emotion-based talk. Hear all viewpoints without judging, and let each person speak without interruption. Use active listening. Focus on solutions, not on making the problem worse, with safe client care at the center.</p><p>Use team-centered “we” language: “How can we fix the admission delay?” Avoid status-based “I” or “you” commands like “You need to take the next admission.”</p><p>Individuals can use self-inventories, such as the Thomas–Kilmann Conflict Mode Instrument or an Emotional Intelligence Inventory. These help a nurse move from reacting to reflecting. Organizations should use TeamSTEPPS and Crew Resource Management (CRM). Both support blame-free problem solving and lower barriers to speaking up.</p><p>Sick or injured clients are often scared and feel a loss of control (Ilse & Neilipovitz, 2019). Anger is often fear in disguise. Involving them in decisions restores autonomy and calms things down.</p>",
      "steps": [
       "Ensure safety and privacy. Move away from clients; call security per policy if anyone may be harmed.",
       "Calm things down. Stay calm and respectful; step away briefly only to let emotions settle.",
@@ -1366,7 +1640,8 @@
       "The source says compromising addresses the issue “though at the very least.” In Thomas–Kilmann terms it is medium on both scales: more direct than avoiding, less deep than collaborating.",
       "Assertive and cooperative ratings for each style were added from the Thomas–Kilmann model.",
       "Collaborating takes time and is not for emergencies, where a clear directive approach is needed.",
-      "Response steps for incivility reflect current guidance, such as ANA’s position on incivility, bullying, and workplace violence."
+      "Response steps for incivility reflect current guidance, such as ANA’s position on incivility, bullying, and workplace violence.",
+      "Your course guide puts the incivility terms on p. 2563 as a preview from the outline. The definitions here match the course glossary."
      ]
     }
    ],

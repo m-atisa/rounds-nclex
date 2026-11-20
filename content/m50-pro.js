@@ -177,6 +177,196 @@ window.NURSE_DATA.push({
       "front": "A charge nurse suspects a colleague is impaired. First action?",
       "back": "Remove the nurse from client care immediately and notify the supervisor (chain of command).",
       "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Define quality management.",
+      "back": "Evaluating medical and nursing processes against accepted standards to correct problems before they harm clients and to prevent treatment errors; also aims for cost-effective care by preventing overuse, misuse, and underuse.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "To Err Is Human (2000): key numbers?",
+      "back": "About 98,000 U.S. deaths a year from medical errors. A later Johns Hopkins study estimated more than 250,000 a year, making medical errors a leading cause of death.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What is the overall median medication error rate in systematic reviews?",
+      "back": "19.6% to 25.6%.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "Crossing the Quality Chasm (2001): main finding and result?",
+      "back": "The health system was too disorganized for clients with several chronic illnesses. It set the Six Aims: safe, effective, patient-centered, timely, efficient, equitable.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "Course definitions: safe, timely, efficient.",
+      "back": "Safe: avoiding injury from care meant to help. Timely: reducing harmful waits for those who receive and give care. Efficient: avoiding waste of equipment, supplies, ideas, and energy.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "Course definitions: effective, patient-centered, equitable.",
+      "back": "Effective: evidence-based care for all who could benefit, none for those unlikely to benefit. Patient-centered: client values guide all decisions. Equitable: quality does not vary by gender, ethnicity, or location.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "Which major organizations lead federal quality efforts?",
+      "back": "DHHS (U.S. Department of Health and Human Services), the AMA (American Medical Association), and the ANA (American Nurses Association).",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What did the ACA (2010) do for quality?",
+      "back": "Expanded and reformed Medicaid and Medicare, created incentives to reduce 30-day readmissions, and added incentives to reduce wasteful spending. Medicare 30-day readmissions fell by over 1%.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What are the three aims of the AHRQ National Quality Strategy?",
+      "back": "Better Care; Healthy People/Healthy Communities; Affordable Care.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What is a bundled payment, and where has it proven savings?",
+      "back": "One payment for a whole episode of care. Proven to reduce costs, especially for orthopedic procedures.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What is a Basic Health Program (BHP)?",
+      "back": "An optional state program, subsidized by the federal government, for low-income adults and legal immigrants. States are partly responsible for insurance programs for low-income individuals and families.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What changed for quality reporting during COVID-19 (2020)?",
+      "back": "CMS and federal agencies temporarily paused quality data reporting requirements and paused using quality data as a requirement for payment.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "What are core measures? Give an example.",
+      "back": "Key clinical benchmarks for certain conditions, such as discharge medications and follow-up after a stroke or MI.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "Ethics, informatics, and legal issues: one nursing action each.",
+      "back": "Ethics: equal-quality care regardless of race, gender, orientation, or ability to pay. Informatics: accurate, up-to-date records; track HAIs. Legal: ask about advance directives; debrief, do not blame, after honest mistakes.",
+      "topic": "qi-foundations"
+    },
+    {
+      "front": "Define the QI process and performance improvement.",
+      "back": "QI process: continuous, multistep, multilevel process that finds areas to improve using performance and industry standards. Performance improvement: QI directly linked to an individual, team, unit, or organization.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Define audit.",
+      "back": "An examination of records to verify accuracy and proper use. Intraprofessional if one discipline; interprofessional if several.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "What is another name for interprofessional assessment?",
+      "back": "Interdisciplinary assessment: collaboration among several disciplines, such as surgeon, physician, nurse, dietitian, and physical therapist.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Utilization review: example of overuse and of underuse. Who requires it (course)?",
+      "back": "Overuse: urinary catheters in incontinent clients who can walk. Underuse: inadequate staffing. Course: required by Medicaid and The Joint Commission.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Define benchmarking.",
+      "back": "Comparing the performance of a person or organization with industry standards: established models of high-quality performance from the ANA, specialty groups, or clinical research.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Donabedian model: structure, process, outcome standards?",
+      "back": "Structure: material and human resources and organization (staff, equipment, facility). Process: the steps used to reach an outcome. Outcome: the result, such as bedridden clients who develop a pressure injury.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Box 50.2: which indicators count as both process and outcome?",
+      "back": "Pain impairing function, patient falls, and pressure injuries.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "TQM: origin (course) and key features?",
+      "back": "Course: invented by Walter Shewhart, made famous by W. Edwards Deming. Features: teamwork across the whole organization (including suppliers and customers), communication, feedback, fact-based decisions, continual improvement.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "What happens in each PDSA phase?",
+      "back": "Plan: objective, predictions, who/what/where/when, data plan. Do: small-scale test, record data. Study: analyze, compare with predictions, lessons learned. Act: decide changes, plan next cycle, adopt widely if goal met.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "CQI: what does it apply to, and who are its customers?",
+      "back": "Specific problems, policies and procedures, resource use, and EBP. Internal customers: nurses, physicians, therapists, medical records, billing. External: clients, families, payers.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "What is a comprehensive quality management plan?",
+      "back": "A plan that joins new programs, models, and technology with existing primary care across clinical, managerial, administrative, and facility areas; addresses engagement, population health, and value; uses satisfaction surveys.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Mrs. Davison removed her dressing a day early. What QI review followed?",
+      "back": "An intraprofessional assessment: her two RNs, two other RNs, and the nurse manager reviewed her chart, compared similar cases, and followed up on teaching clarity and satisfaction.",
+      "topic": "qi-process-programs"
+    },
+    {
+      "front": "Course definition of sentinel event?",
+      "back": "An unexpected occurrence involving death or serious physical or psychological injury, or the risk thereof, including loss of limb or function. Requires immediate investigation and a credible RCA2.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Name the Joint Commission sentinel events in the course list.",
+      "back": "Unanticipated death or major permanent loss; wrong client, site, or procedure; retained foreign object; radiation overdose or wrong region; incompatible blood; abduction, rape, assault, homicide, or suicide; severe neonatal hyperbilirubinemia; elopement with death or serious harm.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Define breach of care. Where do nurses most often breach (CRICO)?",
+      "back": "Departing from the standard of care (breach of duty). Most often: bedside care (medications, monitoring IVs, catheters, wounds), falls, pressure injuries, and communication breakdowns.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Define risk management. What is a major risk factor for liability?",
+      "back": "Clinical and administrative systems, processes, and reports that detect, monitor, assess, mitigate, and prevent risks. Patient dissatisfaction is a major liability risk factor.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Special-cause vs. common-cause variation?",
+      "back": "Special cause: variation beyond what is normal, from a specific cause. Common cause: normal variation within the system. RCA2 analyzes both.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Which medications are high-risk (course list)?",
+      "back": "IV unfractionated heparin; ISMP look-alike, sound-alike (LASA) drugs; Beers Criteria drugs in adults 65 and older, such as benzodiazepines.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Name four medication safety interventions.",
+      "back": "Barcode scanning (ID band + drug), tall-man lettering and rules on similar names, pharmacy first-dose review, and CPOE (computerized provider order entry).",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Define nursing skill mix. What does a higher skill mix lower?",
+      "back": "The share of total nursing hours given by RNs. Lowers ulcers, gastritis, acute MI, restraint use, failure to rescue, pneumonia, sepsis, UTI, 30-day mortality, pressure injuries, shock or cardiac arrest.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Blame-free environment vs. Just Culture?",
+      "back": "Blame-free: report errors and near misses without fear. Just Culture: keeps safe reporting but adds accountability and zero tolerance for reckless behavior.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "AACN six standards for a healthy work environment?",
+      "back": "Skilled communication, true collaboration, effective decision-making, appropriate staffing, meaningful recognition, and authentic leadership.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Name the sources of waste targeted by resource utilization.",
+      "back": "Unnecessary procedures, excessive admin costs, missed prevention, medical fraud, longer stays from medication errors, extra visits from poor teaching, lost time from poor equipment or documentation.",
+      "topic": "patient-safety-culture"
+    },
+    {
+      "front": "Mr. Meyers eloped from an extended care facility and died. How is it classified?",
+      "back": "A sentinel event (elopement leading to death), with a possible breach of monitoring standards. It requires an immediate RCA2 and security and staffing risk management upgrades.",
+      "topic": "patient-safety-culture"
     }
   ],
   "questions": [

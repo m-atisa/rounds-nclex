@@ -33,6 +33,10 @@
      "def": "Supporting, defending, or helping another person’s cause. For nurses, protecting the client’s rights, health, and safety."
     },
     {
+     "term": "Patient advocacy",
+     "def": "Acting for clients, families, groups, or communities so they get needed services and rights. Bu and Jezewski: actions that preserve, represent, or safeguard client rights, interests, and values."
+    },
+    {
      "term": "Safeguarding autonomy",
      "def": "First attribute (microsocial). Respecting a capable client’s right to make their own choices."
     },
@@ -85,7 +89,7 @@
     {
      "heading": "What is advocacy?",
      "keyIdea": "Advocacy is a professional duty to protect the client’s rights, health, and safety.",
-     "body": "<p>Advocacy is supporting, defending, or helping another person’s cause. The ANA Code of Ethics, Provision 3, says the nurse promotes, advocates for, and protects the rights, health, and safety of the client. The ICN Code of Ethics says the same worldwide.</p><p>Nurses spend the most time with clients, so they often notice problems first. You advocate for every client. Give extra attention to those who struggle to speak up, such as clients with low income or poor health literacy. Advocacy can happen at one bedside or in a lawmaker’s office.</p><p>Keep three ideas apart: morals, ethics, and law. When your morals clash with a client’s legal, informed choice, professional ethics win at work.</p>",
+     "body": "<p>Advocacy is supporting, defending, or helping another person’s cause. The ANA Code of Ethics, Provision 3, says the nurse promotes, advocates for, and protects the rights, health, and safety of the client. The ICN Code of Ethics says the same worldwide.</p><p><b>Patient advocacy</b> has two classic definitions. The first: acting on behalf of others (clients, families, groups, or communities) to help them get services and rights they need but might not otherwise receive. The second, from Bu and Jezewski (2007): a series of specific actions that preserve, represent, or safeguard the client’s rights, best interests, and values in the health care system.</p><p>Nurses spend the most time with clients, so they often notice problems first. You are ethically obligated to advocate for every client. Give extra attention to those who cannot speak up for themselves. Examples are clients who are underserved, have low income, or have poor health literacy. Advocacy can happen at one bedside or in a lawmaker’s office.</p><p>Keep three ideas apart: morals, ethics, and law. <b>Morals</b> are your personal beliefs about right and wrong. <b>Ethics</b> are formal codes that govern professional conduct. When your morals clash with a client’s legal, informed choice, professional ethics win at work.</p>",
      "table": {
       "caption": "Morals vs ethics vs law",
       "headers": [
@@ -129,19 +133,19 @@
         "Safeguarding autonomy",
         "Micro",
         "Client is competent and wants to take part",
-        "Helps the client share and document goals and values. Supports them even if a provider disagrees. Gives clear facts at the client’s literacy level."
+        "Encourages the client to share and document goals, preferences, values, and beliefs. Supports those values even if a provider disagrees. Gives enough timely facts at the client’s health literacy level."
        ],
        [
         "Acting on behalf",
         "Micro",
-        "Client cannot act or does not wish to (sedated, unconscious, advanced dementia, incompetent, a minor)",
-        "Monitors care quality and safety. Speaks up if care goes against the client’s wishes. Ensures a legal representative."
+        "Client cannot act or does not wish to (sedated, unconscious, advanced dementia, legally incompetent, a minor)",
+        "Monitors care quality and safety. Intervenes if care goes against the client’s wishes, directives, or best interests. Voices wishes during temporary incapacity, like anesthesia. Ensures a legal representative (power of attorney or guardian)."
        ],
        [
         "Championing social justice",
         "Macro",
         "Disparities, access barriers, unsafe policies",
-        "Mobilizes community resources. Acts at organizational, local, state, and federal levels."
+        "Helps clients reach goals by mobilizing agency and community resources. Acts at policy, organizational, local, state, and federal levels to remove disparities."
        ]
       ]
      },
@@ -160,7 +164,7 @@
     {
      "heading": "How do you protect a capable client’s choice?",
      "keyIdea": "A capable, informed client’s choice stands, even when others disagree.",
-     "body": "<p><b>Autonomy</b> is the client’s right to make their own choices. Safeguarding it assumes two things. The client holds the main responsibility for their own health. And the client is legally competent. The exceptions are a client who is not competent or who chooses not to be involved.</p><p><b>Competence</b> is a legal status. <b>Capacity</b> is a clinical judgment made in the moment, by the provider with nursing input. Can the client understand, weigh the options, and state a choice? Sedation, delirium, or intoxication can remove capacity for a while.</p><p>If a capable client makes an informed choice you disagree with, stay <b>objective</b>. Keep giving facts and help the discussion. Show no approval or disapproval. Objectivity keeps you from paternalism (deciding for the client) or coercion (pressuring the client until they agree). If a request cannot be met, explain why in plain language. Manage your own frustration so it does not become burnout.</p>",
+     "body": "<p><b>Autonomy</b> is the client’s right to make their own choices. Safeguarding it assumes two things. The client holds the main responsibility for their own health. And the client is legally competent. The exceptions are a client who is not competent or who chooses not to be involved.</p><p><b>Competence</b> is a legal status. <b>Capacity</b> is a clinical judgment made in the moment, by the provider with nursing input. Can the client understand, weigh the options, and state a choice? Sedation, delirium, or intoxication can remove capacity for a while.</p><p>If a capable client makes an informed choice you disagree with, stay <b>objective</b>. Keep giving facts and mediate further discussion between the client and provider. Show no approval or disapproval. Objectivity keeps you from paternalism (deciding for the client) or coercion (pressuring the client until they agree). If a request cannot be met, explain why in plain language. Manage your own frustration so it does not become burnout.</p>",
      "table": {
       "caption": "Ethical principles behind advocacy",
       "headers": [
@@ -249,6 +253,23 @@
      "check": {
       "q": "A client says, “My husband decides about my health.” Does honoring this violate autonomy?",
       "a": "No. A capable client who freely hands off the decision is using her autonomy. Confirm it privately and document it."
+     }
+    },
+    {
+     "heading": "Worked case: Donna Taylor and a drug interaction",
+     "keyIdea": "Validate the client’s fear, then ask the provider for an option that protects both her seizures and her mood.",
+     "body": "<p>Donna Taylor, 60, has major depressive disorder that is well controlled on an antidepressant. She has her first seizure. The ED physician orders an antiseizure drug that interacts with her antidepressant. He tells her, “You will need to discontinue your antidepressant so you can take this antiseizure medication.” Ms. Taylor is upset. She fears her depression will come back.</p><p>This case tests two skills. First, how you respond to her. Second, how you advocate with the physician. She is capable, so her voice counts in the plan. Your job is not to overrule the physician. It is to make sure her concern is heard and a safer option is explored.</p>",
+     "steps": [
+      "Recognize cues: a capable client, a stable mood on her current drug, and a plan to stop it suddenly.",
+      "Analyze: stopping a psychiatric drug abruptly risks withdrawal and relapse. Her fear is valid, not “noncompliance.”",
+      "Course question 1, nurse response: acknowledge her concern with empathy. Validate her right to take part in treatment decisions. Do not dismiss her fear.",
+      "Course question 2, advocacy with the physician: ask for an antiseizure drug that does not interact with her antidepressant.",
+      "Or ask for a consult with neurology, psychiatry, or a clinical pharmacist before any psychiatric drug is stopped.",
+      "Evaluate: the plan controls seizures, protects her mood, and she agrees with it."
+     ],
+     "check": {
+      "q": "Ms. Taylor says, “Maybe I just won’t take either pill.” What is the best nurse response?",
+      "a": "“You’re worried about your depression coming back. Let’s talk with the doctor about options that treat the seizure without stopping your antidepressant.” Then notify the physician."
      }
     },
     {
@@ -359,7 +380,9 @@
       "Worked case, examples, and sample item are original.",
       "The source only previews Exemplar 43.A. Hazard types and I PREPARE are standard public health content.",
       "The source says “competent.” This guide separates legal competence from clinical capacity, as the NCLEX does.",
-      "Substituted judgment and best interest were added as standard ethics content."
+      "Substituted judgment and best interest were added as standard ethics content.",
+      "Donna Taylor (study guide p. 8, Example B) is taught here as a worked case on autonomy and collaboration. The study guide answers are kept exactly.",
+      "Patient advocacy (both definitions) and the full lists under each Bu and Jezewski attribute come from study guide pp. 1–3."
      ]
     }
    ],
@@ -486,13 +509,17 @@
     {
      "term": "NAMI",
      "def": "National Alliance on Mental Illness. Local affiliates give support, education, and advocacy for people and families affected by mental illness."
+    },
+    {
+     "term": "Interprofessionality",
+     "def": "Professionals reflecting on and building ways of practicing that give one integrated answer to client needs, through continuous interaction and knowledge sharing (IEC Expert Panel, 2011)."
     }
    ],
    "sections": [
     {
      "heading": "What does an advocate do, step by step?",
      "keyIdea": "Assess first. You cannot protect wishes you have not heard.",
-     "body": "<p>Advocacy follows the nursing process. Start with a rapid assessment. What does the client understand about the problem and the plan? What is their health literacy, support system, and coping? Next, can the client cooperate and decide? Is the history reliable, especially with memory or mental health problems? If not, involve family or the health care agent.</p><p>Then act. The steps list the core interventions. Advocacy also links to many other concepts, shown in the table.</p>",
+     "body": "<p>Advocacy follows the nursing process. Start with a rapid assessment. What does the client understand about the problem and the plan? What is their health literacy, support system, and coping? Next, can the client cooperate and decide? Is the history reliable, especially with memory or mental health problems? If not, involve family or the health care agent.</p><p>Then act. The steps list the core interventions. Advocacy also links to many other concepts. See “How does advocacy link to other concepts?” below.</p>",
      "steps": [
       "Rapid assessment: understanding, health literacy, support, coping.",
       "Assess capacity and how reliable the history is.",
@@ -502,43 +529,6 @@
       "Monitor care and policies that affect rights.",
       "Speak up if a provider ignores a competent client’s wishes."
      ],
-     "table": {
-      "caption": "How advocacy links to other concepts",
-      "headers": [
-       "Concept",
-       "Nursing advocacy action"
-      ],
-      "rows": [
-       [
-        "Cellular regulation",
-        "Push for fair resources (affordable healthy food), cancer services, and research funding."
-       ],
-       [
-        "Culture and diversity",
-        "Push for culturally competent, equal care."
-       ],
-       [
-        "Ethics",
-        "Bring dilemmas to the provider, team, and ethics committee. Protect the right to refuse."
-       ],
-       [
-        "Health care systems",
-        "Fight for equal access in rural and underserved areas; support telehealth."
-       ],
-       [
-        "Legal issues",
-        "Uphold rights, watch others’ care, and report unethical or illegal acts."
-       ],
-       [
-        "Mobility",
-        "Get the right devices (a walker sized for a short person) and home safety checks."
-       ],
-       [
-        "Professional behaviors",
-        "Professional conduct builds credibility, so advocacy works better."
-       ]
-      ]
-     },
      "example": "Donna Taylor, 60, has well-controlled depression and a first seizure. The ED physician orders a seizure drug that interacts with her antidepressant and tells her to stop it. She fears her depression will return. The nurse validates her concern. Then the nurse asks about a seizure drug without this interaction, or a specialist or pharmacist consult. Stopping a psychiatric drug abruptly risks withdrawal and relapse."
     },
     {
@@ -574,16 +564,55 @@
        ]
       ]
      },
-     "example": "A physician comes for consent from a client who got an opioid 20 minutes ago and cannot focus. The nurse tells the physician the dose time and the client’s state. Together they decide to wait until the drug wears off and repeat the talk. A designated family member is involved only if the procedure cannot wait. The nurse documents the facts.",
+     "example": "This is the course’s “watchdog vs teamwork” scenario. A consulting physician comes for written consent from a client who got an opioid 20 minutes ago. The client is drowsy and cannot focus. The nurse acts as watchdog: she tells the physician the dose time and the client’s state. Then she acts as a teammate: together they decide to involve a designated family member, or to wait until the drug wears off. Then they repeat the talk, and the client re-signs. The nurse documents all facts objectively.",
      "check": {
       "q": "A client about to sign says, “I’m not sure what they’re removing, but the doctor is busy.” What does the nurse do?",
       "a": "Do not witness yet. Tell the surgeon the client needs more explanation, and document. The nurse does not explain the surgery in the surgeon’s place."
      }
     },
     {
+     "heading": "Which laws protect clients’ rights?",
+     "keyIdea": "The PSDA protects decision rights and advance directives. The ADA bans disability discrimination.",
+     "body": "<p>Two federal laws come up often. The <b>Patient Self-Determination Act (PSDA)</b> requires health care institutions to tell clients their decision-making rights. They must also share their policies on advance directives. It gives general protection rights to all clients, including those with disabilities.</p><p>The <b>Americans with Disabilities Act (ADA)</b> is a civil rights law. It makes sure people with disabilities have the same rights as everyone else.</p><p><b>Course vs current note.</b> Your course guide says the PSDA was enacted in 1991. Current standard: Congress passed it in 1990, and it took effect December 1, 1991. The guide says the ADA was amended January 1, 2009. The ADA Amendments Act was signed in 2008 and took effect January 1, 2009. On a course exam, expect 1991 and 2009. The NCLEX does not test these dates.</p>",
+     "table": {
+      "caption": "PSDA vs ADA",
+      "headers": [
+       "Feature",
+       "PSDA",
+       "ADA"
+      ],
+      "rows": [
+       [
+        "Year (course guide)",
+        "1991",
+        "1990; amended January 1, 2009"
+       ],
+       [
+        "Main purpose",
+        "Tell clients their decision rights and the facility’s advance directive policies",
+        "Equal rights for people with disabilities; bans discrimination"
+       ],
+       [
+        "Where it applies",
+        "Health care institutions (in practice, those taking Medicare or Medicaid)",
+        "Jobs, schools, transportation, and public and private places open to the public"
+       ],
+       [
+        "Nurse action",
+        "Ask about directives at admission and document them",
+        "Arrange interpreters, access, and reasonable accommodations"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A Deaf client asks for a sign language interpreter for a clinic visit. Which law most directly supports this?",
+      "a": "The ADA. It bans disability discrimination in places open to the public, including health care settings."
+     }
+    },
+    {
      "heading": "Who decides when the client cannot?",
      "keyIdea": "A guardian or health care agent decides for a client without capacity. The client’s nurse never does.",
-     "body": "<p>If a client lacks capacity, the <b>legal guardian</b> or the <b>health care agent</b> (durable power of attorney) gives consent. The nurse caring for the client may not be the surrogate. It is a conflict of interest with serious legal consequences.</p><p>No agent or guardian on record? Contact the <b>provider and social services</b>. They follow policy and state law to find the lawful surrogate. Never accept a signature from a friend or roommate.</p><p><b>Advance directives</b> let clients plan ahead. The <b>PSDA</b> requires Medicare and Medicaid facilities to tell clients their rights at admission, ask about directives, and document them. Care cannot depend on whether a client has one.</p>",
+     "body": "<p>If a client lacks capacity, the <b>legal guardian</b> or the <b>health care agent</b> (durable power of attorney) gives consent. The nurse caring for the client may not be the surrogate. It is a conflict of interest with serious legal consequences.</p><p>No agent or guardian on record? Contact the <b>provider and social services</b>. They follow policy and state law to find the lawful surrogate. Never accept a signature from a friend or roommate.</p><p><b>Advance directives</b> let clients plan ahead. The <b>PSDA</b> requires Medicare and Medicaid facilities to tell clients their rights at admission, ask about directives, and document them. Care cannot depend on whether a client has one.</p><p><b>Course vs current note.</b> Your course guide says the nurse may NOT legally serve as the surrogate or DPOA. Current standard: the nurse caring for the client must never be that client’s surrogate.</p><p>Off duty, the law does not bar a nurse from being a health care agent for family or a friend. It is still a conflict best avoided. On a course exam, expect “the nurse may not serve as surrogate.” On the NCLEX, pick the same answer for any client in your care.</p>",
      "table": {
       "caption": "Advance directives and related orders",
       "headers": [
@@ -637,20 +666,24 @@
       ],
       "rows": [
        [
-        "Booklets or manuals",
+        "Booklets or manuals (printed or digital)",
         "Disease self-management the client can reread. Match literacy and language."
        ],
        [
-        "Phone calls and texts",
-        "Check on care and support taking medicines."
+        "Cell phone calls and text messages",
+        "Monitor care, support taking medicines, and offer guidance."
        ],
        [
         "Software and mobile apps",
-        "Real-time self-monitoring, like glucose or blood pressure logs."
+        "Real-time chronic disease self-monitoring and clinical review, like glucose or blood pressure logs."
        ],
        [
-        "Telehealth",
-        "Setting self-care plans and goals; helps rural clients."
+        "Telemedicine or telehealth",
+        "Helps clients set self-care plans and health goals; helps rural clients."
+       ],
+       [
+        "Nurse-led empowerment",
+        "Nurses build self-responsibility, mutual respect, trust, and confidence, and suggest safe support such as a hospital-run online cancer group."
        ]
       ]
      },
@@ -662,24 +695,61 @@
     {
      "heading": "Who else can help the client?",
      "keyIdea": "Advocacy often means getting the right person or agency involved.",
-     "body": "<p><b>Interprofessional collaboration</b> means professionals keep sharing knowledge to give one clear plan. It increases shared decisions. It also links clients to emotional, teaching, and financial support. Get the pharmacist for drug interactions, the case manager for rides and home support, and the social worker for money or surrogate problems.</p><p>Know the outside resources, too:</p>",
+     "body": "<p><b>Interprofessionality</b> is how professionals reflect on and develop ways of practicing that give one integrated, cohesive answer to the client’s or population’s needs. It means continuous interaction and knowledge sharing between professionals to boost client participation (Interprofessional Education Collaborative Expert Panel, 2011).</p><p>Interprofessional collaboration increases shared decisions. It also links clients to emotional, teaching (instructional), and financial support. Get the pharmacist for drug interactions, the case manager for rides and home support, and the social worker for money or surrogate problems. Know the outside resources, too:</p><p><b>Course vs current note.</b> Your course guide calls these agencies “State Protection and Advisory Systems (PAIMI).” Current name: the Protection and Advocacy for Individuals with Mental Illness (PAIMI) program, run by each state’s protection and advocacy system. The guide also writes “Psychological Health Center for Excellence” and “Disability Rights of Ohio.” The correct names are Psychological Health Center of Excellence and Disability Rights Ohio. On a course exam, expect the guide’s wording. On the NCLEX, know what the agencies do.</p>",
      "bullets": [
-      "<b>NAMI</b>: support, education, and advocacy for people and families living with mental illness.",
-      "<b>PAIMI agencies</b>: investigate abuse and neglect and protect rights (Disability Rights North Carolina).",
-      "<b>Veterans</b>: high PTSD risk after deployment. Use deployment screening standards and VA/DoD PTSD guidelines.",
-      "<b>Professional groups</b>: the ANA advocates at state and national levels."
+      "<b>NAMI</b> (National Alliance on Mental Illness): hundreds of local affiliates and state organizations. They give support, education, awareness, and advocacy for people and families affected by mental illness.",
+      "<b>PAIMI agencies</b>: federally mandated nonprofit advocacy agencies. They investigate abuse and neglect and protect the rights of people with mental illness or disabilities. Examples: Disability Rights North Carolina, Disability Rights Ohio.",
+      "<b>Military and veterans</b>: deployed personnel are at high risk for PTSD. The Psychological Health Center of Excellence set baseline pre-deployment and post-deployment screening standards. The VA and DoD publish clinical guidelines for PTSD and acute stress reaction.",
+      "<b>Professional and public advocacy</b>: the ANA advocates at state and national levels. Nurses advocate alone or through associations by speaking in public, writing for the popular press, lobbying lawmakers, and running for office."
      ],
      "example": "Lois Potter, 78, has new type 2 diabetes. The nurse practitioner prescribed miglitol and left. She also takes digoxin and amlodipine. Her cab is here. First, the nurse checks her understanding: take miglitol with the first bite of each main meal, and expect gas or loose stools. Miglitol can lower digoxin levels. The nurse has the cab wait, then updates case management so the team can reconcile her medicines."
     },
     {
+     "heading": "How do nurses advocate for children and families?",
+     "keyIdea": "Assess the family, mediate when needed, and change policies so children’s needs are met.",
+     "body": "<p>Children depend on adults to speak for them. Start by assessing the child and family. Then step in when things get complex. Nurses also act beyond the bedside, on committees and in the community.</p><p>Table 43-1 in the course lists community actions. The table below shows all three. Each one removes a barrier for many families at once, so it is macrosocial advocacy.</p>",
+     "bullets": [
+      "Assess the family’s needs, resources, and health literacy, and the child’s developmental level.",
+      "Mediate between family and provider when the family situation is complex or resources are limited. Intervene to prevent real or potential harm.",
+      "Serve on policy, practice guideline, and facility modernization committees. Make sure children’s developmental and psychosocial needs (play time, rest, nutrition) are met."
+     ],
+     "table": {
+      "caption": "Table 43-1: Community advocacy actions",
+      "headers": [
+       "Need",
+       "Nursing action"
+      ],
+      "rows": [
+       [
+        "Low-cost immunizations",
+        "Compile a list of low-cost immunization and Vaccines for Children sites. Seek local grants to print and hand it out."
+       ],
+       [
+        "Homeless shelters",
+        "Collect travel-size hygiene donations. Arrange volunteer haircuts."
+       ],
+       [
+        "Unwanted newborns",
+        "Partner with local newspapers and hand out posters about Safe Haven laws."
+       ]
+      ]
+     },
+     "example": "A nurse sees low-income families skipping vaccines. She lists low-cost Vaccines for Children sites and gets a small local grant to print the list for clinics and churches.",
+     "check": {
+      "q": "A pediatric nurse joins a committee to keep the playroom open on weekends. Which Table 43-1 idea is this most like, and what level?",
+      "a": "It is like the course’s committee work for developmental needs (play, rest, nutrition). It is macrosocial, because it changes policy for all children on the unit."
+     }
+    },
+    {
      "heading": "How do you protect vulnerable clients?",
      "keyIdea": "Vulnerable clients face more barriers and more harm, so watch for and defend their rights.",
-     "body": "<p>For <b>children</b>, assess the family’s needs, resources, and health literacy, and the child’s developmental level. When things are complex or money is tight, mediate between family and provider to prevent harm. Nurses also serve on committees so children get play, rest, and good nutrition.</p><p>Clients in mental health settings keep their rights, listed in the table. Being in a facility does not remove rights like voting, free speech, and freedom from unreasonable search. It also does not allow overmedication or excess restraint.</p>",
+     "body": "<p><b>Vulnerable populations</b> are groups at greater risk for disease, disability, and a shorter life. The cause is a lack of resources, risk factors, or both. They include underserved groups, low-income seniors, and younger people with physical or mental health disabilities. They also include people with limited English proficiency, dual-eligible clients, and research subjects.</p><p>Clients in mental health settings keep their rights, listed in the table (Disability Rights Ohio, 2020). Being in a facility does not remove basic U.S. citizenship rights, like voting, free speech, and freedom from unreasonable search. It also keeps the right to a safe living space, free from overmedication or excess restraint.</p>",
      "bullets": [
-      "Dual-eligible clients have high rates of diabetes, lung disease, stroke, mental illness, and Alzheimer disease.",
-      "Research subjects with extra protection: pregnant women, fetuses and newborns, children, and prisoners.",
-      "About 70% of students secluded or restrained in public schools have disabilities (ACLU, 2020).",
-      "About 60% of people in jail have a mental disability; 48% of people with disabilities earn $15,000 a year or less."
+      "<b>Dual-eligible</b> clients have both Medicare and Medicaid (12.2 million people in 2018). They are the sickest and poorest clients, with high rates of diabetes, lung disease, stroke, mental illness, and Alzheimer disease.",
+      "<b>Research subjects</b> with extra NIH protections: pregnant women, human fetuses and neonates (newborns), children, and prisoners.",
+      "About 70% of students secluded or physically restrained in public schools have disabilities (ACLU, 2020).",
+      "About 60% of people in jail have a mental disability (ACLU, 2020).",
+      "48% of people with disabilities have a personal annual income of $15,000 or less (ACLU, 2020)."
      ],
      "table": {
       "caption": "Rights of clients in mental health settings",
@@ -689,39 +759,92 @@
       ],
       "rows": [
        [
-        "Safety and dignity",
+        "Safety with people they know (family, staff, strangers) and to be treated with dignity",
         "Staff mocking a client"
        ],
        [
-        "To have or refuse sexual contact or touch",
+        "To have or refuse a sexual relationship, including refusing another person’s touch",
         "Not protecting a client from unwanted touch"
        ],
        [
-        "To control money and possessions",
-        "Staff using a client’s money"
+        "To control money and possessions, such as cigarettes and clothing",
+        "Staff using a client’s money or taking his cigarettes"
        ],
        [
-        "A written plan the client helped create",
+        "Treatment in a place that respects freedom, with a current written plan the client helped create",
         "A plan written without the client"
        ],
        [
-        "No restraint or seclusion except in an emergency",
+        "Freedom from drug or physical restraint, seclusion, or isolation except in an emergency",
         "Seclusion as punishment for cursing"
        ],
        [
-        "To refuse medication (except in an emergency)",
+        "To refuse or accept suggested medication (no forced drugs except in an emergency)",
         "Hiding a drug in food"
        ],
        [
-        "To use rights without punishment",
+        "To use rights without punishment, withheld treatment, lost privileges, or abuse",
         "Losing phone time for refusing a dose"
        ]
       ]
      },
-     "example": "A nurse sees low-income families skipping vaccines. She lists low-cost Vaccines for Children sites and seeks a grant to print it. Other Table 43-1 ideas: hygiene donations and haircuts for shelters, and Safe Haven posters.",
      "check": {
       "q": "A calm psychiatric client refuses his evening antipsychotic. A technician says, “Then no phone calls tonight.” What does the nurse do?",
       "a": "Respect the refusal, notify the provider, and report the technician’s threat. Punishing a client for using a right is a violation."
+     }
+    },
+    {
+     "heading": "How does advocacy link to other concepts?",
+     "keyIdea": "Each related concept has a link (why advocacy matters) and a nursing action (what you do).",
+     "body": "<p>Outcome 43.3 asks how advocacy connects to seven other concepts. For each one, learn two things. First, how it relates: advocacy raises or lowers something. Second, what the nurse does. The arrows in the course matrix mean “increases” or “decreases.”</p><p>A quick way to remember the set: cells, culture, ethics, systems, law, movement, and professionalism.</p>",
+     "table": {
+      "caption": "Concepts related to advocacy (course matrix)",
+      "headers": [
+       "Concept",
+       "How it relates to advocacy",
+       "Nursing implications"
+      ],
+      "rows": [
+       [
+        "Cellular regulation",
+        "More advocacy raises awareness of individual and global needs. It also raises funding for research and treatment.",
+        "Push for system and community changes that fix unfair care and social gaps, like affordable healthy food. Push for cancer services (playtime, schooling, pet play areas) and research funding."
+       ],
+       [
+        "Culture and diversity",
+        "Advocating for cultural and religious preferences raises client satisfaction and strengthens the therapeutic relationship.",
+        "Give culturally competent care. Respect each client’s values, defend the right to such care, and promote equal care."
+       ],
+       [
+        "Ethics",
+        "Ethics leads to advocacy. It raises client safety and autonomy.",
+        "Intervene when ethical dilemmas arise. Bring them to the provider, the team, and the ethics committee. Protect the right to choose and to refuse treatment."
+       ],
+       [
+        "Health care systems",
+        "Vulnerable clients face more access barriers, more challenges, and more discrimination.",
+        "Defend the right to access and equal care, especially in rural or underserved areas. Support telehealth and funding."
+       ],
+       [
+        "Legal issues",
+        "Advocacy raises client safety and autonomy, lowers the risk of negligence or error, and raises trust in nursing.",
+        "Uphold client rights in every situation. Monitor care by other professionals. Report unethical or illegal acts by any nurse, provider, or staff member."
+       ],
+       [
+        "Mobility",
+        "Advocacy improves client and caregiver understanding, lowers the risk of more injury or immobility, and raises quality of life.",
+        "Push for access to care, the right devices (a walker sized for a short person), home safety checks, public accessibility, and research funding."
+       ],
+       [
+        "Professional behaviors",
+        "Acting professionally raises nurse credibility, so advocacy is more likely to succeed.",
+        "Advocate for clients at all times as part of your scope of practice. Act within professional and ethical standards."
+       ]
+      ]
+     },
+     "check": {
+      "q": "A nurse reports a coworker who falsified a client’s vital signs. Which related concept fits best, and what does advocacy add?",
+      "a": "Legal issues. Advocacy raises safety and trust in nursing and lowers the risk of negligence or error."
      }
     },
     {
@@ -789,6 +912,24 @@
      ]
     },
     {
+     "heading": "Worked case: Lois Potter goes home on miglitol",
+     "keyIdea": "Do not let a ride rush an unsafe discharge. Check understanding first, then close the loop with the team.",
+     "body": "<p>Lois Potter, 78, has high blood pressure, heart disease, and new type 2 diabetes (a high A1C). The nurse practitioner prescribed <b>miglitol</b>, an alpha-glucosidase inhibitor. She already takes digoxin and amlodipine. The NP left for another consult. Mrs. Potter’s cab has arrived. The case management team meets later this morning.</p><p>The course asks two questions. What is the nurse’s first step? What should the nurse tell case management?</p>",
+     "steps": [
+      "Recognize cues: older adult, new drug, new diagnosis, a drug interaction, and a waiting cab.",
+      "Analyze: miglitol can lower digoxin bioavailability (how much digoxin gets into the blood). She may also not know how to take miglitol.",
+      "Course question 1, first step: assess her understanding of miglitol: timing with meals (first bite of each main meal), side effects (gas, loose stools), and the digoxin interaction.",
+      "Also arrange the ride or timing so she is not rushed out unsafely.",
+      "Course question 2, case management: report her discharge readiness, new diagnosis and drug needs, health literacy, and home support needs.",
+      "Make sure the NP, pharmacist, case manager, and nurse work together to verify medication reconciliation and follow-up.",
+      "Evaluate: she explains her plan with teach-back and has follow-up for digoxin and glucose."
+     ],
+     "check": {
+      "q": "The cab driver says he will leave in 5 minutes. What does the nurse do?",
+      "a": "Ask the driver to wait or reschedule the ride. Safe teaching and medication review come before a convenient departure."
+     }
+    },
+    {
      "heading": "Worked case: consent and a language barrier",
      "keyIdea": "Consent is not valid if a key risk was never explained.",
      "body": "<p>Mr. Reyes, 54, speaks Spanish and little English. He is set for a colonoscopy with possible polyp removal. His 15-year-old daughter has been interpreting. She tells the nurse, “He signed, but I didn’t know how to say ‘perforation,’ so I said it’s safe.” He is alert and has not been sedated.</p>",
@@ -823,11 +964,14 @@
      "heading": "Course source & clinical clarification",
      "bullets": [
       "Source: Module 43 study guide, pp. 1–2 (outcomes 43.2–43.3, key terms), pp. 4–7 (empowerment, programs, vulnerable groups, consent rule, interventions, concept matrix), and p. 8 (Examples A and B). Case and sample item are original.",
-      "PSDA: passed 1990, effective December 1, 1991 (the source says 1991). ADA Amendments Act: signed 2008, effective January 1, 2009.",
+      "PSDA: passed 1990, effective December 1, 1991 (the source says 1991). ADA Amendments Act: signed 2008, effective January 1, 2009 (the source says “amended January 1, 2009”). Both stated in “Which laws protect clients’ rights?”",
       "The client’s own nurse must never be the surrogate. A nurse may be agent for family or friends personally, though the course advises against it.",
       "States set a default surrogate order, applied by social services and the provider. Spouses rank high; the sedated client is not bypassed because he will soon regain capacity.",
       "Miglitol teaching (first bite of main meals; GI effects; treat lows with glucose, not table sugar, if on insulin or a sulfonylurea) is standard pharmacology.",
-      "Correct names: Disability Rights Ohio; Psychological Health Center of Excellence; PAIMI program."
+      "Correct names: Disability Rights Ohio (source: “Disability Rights of Ohio”); Psychological Health Center of Excellence (source: “for Excellence”); PAIMI is the Protection and Advocacy for Individuals with Mental Illness program (source: “State Protection and Advisory Systems”). Stated in “Who else can help the client?”",
+      "Nurse as surrogate: the source says the nurse may not legally serve as surrogate or DPOA. Current standard limits this to the client’s own nurse; stated in “Who decides when the client cannot?”",
+      "Concept matrix (p. 6–7) now shown in full, with both the “relationship” and “nursing implications” columns. Table 43-1 is shown in full.",
+      "Lois Potter (Example A) is a worked case with both course questions answered."
      ]
     }
    ],
@@ -958,7 +1102,7 @@
     {
      "heading": "Why report, and who do you tell first?",
      "keyIdea": "Stop the harm, then tell your direct supervisor. The duty covers anyone on the team.",
-     "body": "<p>Reporting is advocacy at two levels. It protects the client in front of you (microsocial). It also fixes the system so the next client is safe (macrosocial).</p><p>The duty is broad. It covers unethical, unsafe, substandard, and unprofessional conduct. It applies to nurses, providers, technicians, aides, students, and other staff. Staying silent when a client is at risk can lead to discipline for you.</p><p>Follow your facility’s procedure. The first report goes to your <b>direct supervisor</b>. If the supervisor is involved or does nothing, go up the chain. Some conduct must also go to outside agencies.</p>",
+     "body": "<p>Reporting is advocacy at two levels. It protects the client in front of you (microsocial). It also fixes the system so the next client is safe (macrosocial).</p><p>The duty comes from two places: your state nurse practice act and the ANA Code of Ethics. Both require you to intervene and report. The duty is broad. It covers unethical, unsafe, substandard, and unprofessional conduct. It applies to nurses, providers, technicians, aides, students, and other staff. Staying silent when a client is at risk can lead to discipline for you.</p><p>Follow your facility’s procedure. The first report goes to your <b>direct supervisor</b>, the person you report to directly. The supervisor helps you report and gives immediate backup to protect the client. If the supervisor is involved or does nothing, go up the chain. Some conduct must also go to outside agencies.</p>",
      "steps": [
       "Protect the client now. Stop the unsafe act if you safely can, and assess the client.",
       "Tell your direct supervisor right away, in private, with facts.",
@@ -1087,7 +1231,7 @@
      }
     },
     {
-     "heading": "What if a client’s rights were violated?",
+     "heading": "Worked case: William Johnson was restrained",
      "keyIdea": "Believe the report enough to act, and report it up and out.",
      "body": "<p>William Johnson, 53, has COPD and schizophrenia. At his clinic visit, he says a psychiatric technician restrained him in bed during his last admission. Why? He refused to share his cigarettes with the technician.</p><p>Three rights were violated: control of his possessions, freedom from restraint except in an emergency, and freedom from abuse and coercion. It is also a severe boundary violation. Advocacy here is both micro (his safety) and macro (stopping abuse in the facility).</p><p>His diagnosis does not make the report less believable. People with mental illness face a higher risk of abuse.</p>",
      "steps": [
@@ -1097,7 +1241,28 @@
       "Make sure reports reach protective and licensing agencies, like Disability Rights North Carolina.",
       "Tell him his rights and resources he can contact himself.",
       "Follow up and support policy changes, like staff training."
-     ]
+     ],
+     "table": {
+      "caption": "Course questions and answers",
+      "headers": [
+       "Question",
+       "Answer"
+      ],
+      "rows": [
+       [
+        "Which rights were violated?",
+        "Control of personal possessions (his cigarettes). Freedom from physical restraint except in an emergency. Freedom from abuse and coercion. It is also a severe boundary violation and unethical staff conduct."
+       ],
+       [
+        "What is the next step?",
+        "Report right away to the direct supervisor or facility administration. Make sure it reaches protective agencies (the state PAIMI or Disability Rights agency) and the state licensing board."
+       ],
+       [
+        "What level of advocacy is this?",
+        "Both. Microsocial: protecting his own safety and rights. Macrosocial: reporting abuse in the facility so policy changes."
+       ]
+      ]
+     }
     },
     {
      "heading": "What can you post on social media?",
@@ -1179,6 +1344,36 @@
      "check": {
       "q": "A nurse gives metoprolol to the wrong client. Two clients with similar names were moved next door to each other, and the scanner has been broken for a week. She reports it at once. How is this classified?",
       "a": "Human error made likely by the system. Console her, monitor the client, notify the provider, file an incident report, and fix the scanner and name alerts."
+     }
+    },
+    {
+     "heading": "Worked case: Heather Adams asks you to decide",
+     "keyIdea": "Stay a friend, not her nurse or proxy. Send her to an attorney to name a trusted non-nurse.",
+     "body": "<p>Heather Adams, 31, is your unmarried neighbor. She has a history of depression. Her mother has Alzheimer disease. Her only brother is her legal next of kin, but they are estranged. If she becomes incapacitated, she does not want him making her medical decisions. She asks you, a nurse, for help.</p><p><b>Course vs current note.</b> Your course guide says a nurse should not be her surrogate because it is an ethical conflict of interest. Current standard: no law bars a nurse from being a friend’s health care agent. The conflict is real if you are also her clinician. On a course exam, expect “No, the nurse should not be her surrogate.” On the NCLEX, the safe answer is the same: keep roles separate and refer to legal help.</p>",
+     "table": {
+      "caption": "Course questions and answers",
+      "headers": [
+       "Question",
+       "Answer"
+      ],
+      "rows": [
+       [
+        "What is your role?",
+        "A supportive neighbor and friend, not her assigned clinical nurse. Do not blur personal and professional boundaries."
+       ],
+       [
+        "Should you be her surrogate?",
+        "No. Per the course, a nurse serving as her health care proxy or DPOA creates an ethical conflict of interest."
+       ],
+       [
+        "What do you recommend?",
+        "Strongly encourage her to see an attorney. She can sign a durable power of attorney for health care (health care proxy) and a living will naming a trusted friend or non-nurse advocate."
+       ]
+      ]
+     },
+     "check": {
+      "q": "Heather asks, “Can’t you just tell the hospital what I want if something happens?” Best reply?",
+      "a": "“I care about you, and I want your wishes to be legal and clear. An attorney can help you name someone in a health care power of attorney and write a living will.”"
      }
     },
     {
@@ -1289,8 +1484,10 @@
       "“Supervisor first” applies to workplace conduct. If harm is imminent, stop the harm first.",
       "Legally required reports (child abuse; disabled adults) go to the agency from the person who suspects. Telling a supervisor does not meet that duty.",
       "Boundary crossing vs violation and NCSBN social media rules were added as standard content.",
-      "Heather Adams: a nurse is not legally barred from being a friend’s agent. The conflict is strongest if the nurse is her clinician. The advice is the same.",
-      "Just Culture is not in the study guide. It was added because it is tested and NCBON uses it."
+      "Heather Adams: the source says a nurse serving as her proxy is an ethical conflict. A nurse is not legally barred from being a friend’s agent; the conflict is strongest if the nurse is her clinician. Stated in “Worked case: Heather Adams asks you to decide.” The advice is the same.",
+      "Just Culture is not in the study guide. It was added because it is tested and NCBON uses it.",
+      "Duty to report comes from both the state nurse practice act and the ANA Code (p. 7). The direct supervisor’s role (helps report, gives immediate backup) is from p. 7.",
+      "William Johnson (Example C) now lists all three course questions and answers."
      ]
     }
    ],

@@ -133,7 +133,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What is top-of-license practice?",
           "keyIdea": "Top-of-license practice means doing all the nursing work your education and legal scope allow—never less, and never more.",
-          "body": "<p><b>Top-of-license (TOL) practice</b> means each team member works at the highest level their training and legal scope allow. It grew from the Institute of Medicine’s 2010 report, <em>The Future of Nursing: Leading Change, Advancing Health</em>.</p><p>Why does it matter? When RNs spend the shift on tasks others could do, RN-only work gets skipped. That includes assessment, teaching, care coordination, and evaluation. The course lists eight core RN duties in TOL. It highlights outcomes-focused care and safe transitions, such as handoffs and discharges.</p><p>TOL includes a duty to advocate for your own and colleagues’ autonomy. It also has two ceilings: your <b>legal scope</b> and your <b>personal competence</b>. Practicing at the top of your license is the opposite of practicing beyond it.</p>",
+          "body": "<p><b>Top-of-license (TOL) practice</b> is an <b>interprofessional</b> way of delivering care. It means each team member works at the highest level their training and legal scope allow. It grew from the Institute of Medicine’s 2010 report, <em>The Future of Nursing: Leading Change, Advancing Health</em>.</p><p>Why does it matter? When RNs spend the shift on tasks others could do, RN-only work gets skipped. That includes assessment, teaching, care coordination, and evaluation. The course lists eight core RN duties in TOL. It highlights outcomes-focused care and safe transitions, such as handoffs and discharges.</p><p>TOL includes a duty to advocate for your own and colleagues’ autonomy. It also has two ceilings: your <b>legal scope</b> and your <b>personal competence</b>. Practicing at the top of your license is the opposite of practicing beyond it.</p><p><b>Course vs current:</b> Your course guide says TOL lets nurses with a <b>BSN or higher</b> practice to the fullest extent of their education, skills, and legal scope. Current standard: the 2010 report says <b>every</b> nurse should practice to the full extent of his or her own education and training. On a course exam, expect the BSN wording. On the NCLEX, apply TOL to any RN.</p>",
           "example": "RNs spend each morning restocking carts while clients wait for reassessment after opioids. A TOL-minded nurse brings data to the practice council and asks that support staff restock.",
           "check": {
             "q": "Which reflects TOL practice: passing every meal tray yourself, or coordinating discharge teaching for a client going home on new insulin?",
@@ -225,13 +225,13 @@ window.NURSE_DATA.push({
         {
           "heading": "What are the five components?",
           "keyIdea": "Five components make nursing an accountable profession: education, a body of knowledge, service, a code of ethics, and professional organization.",
-          "body": "<p>The course names five components that promote professional accountability. Exam stems describe a behavior and ask which component it shows. So learn what each one looks like.</p>",
+          "body": "<p>The course names five components that promote professional accountability. Exam stems describe a behavior and ask which component it shows. So learn what each one looks like.</p><p>The course guide labels component 1 “Education (Body of Knowledge)” and component 2 “Body of Knowledge.” Treat them as two items: learning that gets you licensed, and the knowledge base of the profession.</p><p><b>Course vs current:</b> Your course guide lists MSN and doctorate (DNP/PhD) programs as ways into practice. Current standard: a first RN license comes from an approved diploma, ADN, BSN, or entry-level master’s program, plus the NCLEX-RN. A DNP or PhD is almost always an advanced degree for nurses who are already RNs. On a course exam, expect all five program types. On the NCLEX, every route ends with passing the NCLEX-RN.</p><p><b>Course vs current:</b> Your course guide says nursing codes of ethics are “regulated alongside state boards of nursing via the NCSBN.” Current standard: the ANA writes and updates the <i>Code of Ethics for Nurses</i>. The NCSBN does not write or regulate it. Boards enforce the Nurse Practice Act and may discipline unethical conduct. On a course exam, expect the NCSBN wording. On the NCLEX, the Code belongs to the ANA.</p>",
           "bullets": [
-            "<b>Education.</b> An approved nursing program plus passing the NCLEX-RN. <em>Seen as:</em> starting an RN-to-BSN program or earning a certification.",
-            "<b>Body of knowledge.</b> Nursing’s growing knowledge from nursing frameworks and research. <em>Seen as:</em> checking current evidence before changing a routine.",
-            "<b>Service orientation.</b> Serving others ahead of profit, guided by rules, policies, and codes. <em>Seen as:</em> volunteering in the Medical Reserve Corps during COVID-19 to help health departments.",
-            "<b>Code of ethics.</b> Respecting every person’s dignity and doing right even at personal cost. <em>Seen as:</em> reporting your own error.",
-            "<b>Autonomy and professional organization.</b> Groups that provide governance and self-regulation. <em>Seen as:</em> joining a specialty association or practice council."
+            "<b>Education.</b> Entry needs an approved nursing program plus passing the NCLEX. The course lists five program types: hospital diploma, associate degree (ADN), bachelor’s (BSN), master’s (MSN), and doctorate (DNP or PhD). The ANA recommends the BSN for entry. Many ADN nurses go on through RN-to-BSN programs. <em>Seen as:</em> starting an RN-to-BSN program or earning a certification.",
+            "<b>Body of knowledge.</b> Nursing’s own distinct, ever-growing knowledge, built on nursing frameworks and ongoing research. Nurses apply it through evidence-based practice (EBP) to keep care safe. <em>Seen as:</em> checking current evidence before changing a routine.",
+            "<b>Service orientation.</b> Unlike jobs driven by profit, nursing puts service to others first, based on tradition and accountability. Rules, policies, and codes of ethics guide it. <em>Seen as:</em> volunteering in a state or national Medical Reserve Corps during a crisis like COVID-19. Volunteers help local health departments with data collection, phone banks, and public health information.",
+            "<b>Code of ethics.</b> Respecting the inherent worth and dignity of all people. Doing what is right, even at personal cost, to keep your moral integrity. Nursing has its own profession-specific code. <em>Seen as:</em> reporting your own error.",
+            "<b>Autonomy and membership in a professional organization.</b> Working under professional groups gives nursing governance, self-regulation, and legal and clinical autonomy. <em>Seen as:</em> joining a specialty association or practice council."
           ],
           "steps": [
             "Underline the behavior in the stem.",
@@ -247,7 +247,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Why habit is not a defense",
           "keyIdea": "You cannot defend a decision based on habit; accountable nurses use current evidence and change practice through proper channels.",
-          "body": "<p>You cannot answer for a decision you cannot explain. “We have always done it this way” is not an explanation.</p><p>Education keeps you current. The ANA recommends the BSN for entry into practice. Magnet hospitals require BSN-prepared nurse leaders and strongly favor BSN-prepared staff. Nursing knowledge keeps growing, so some of what you learn now will become outdated.</p><p><b>Evidence-based practice (EBP)</b> brings new knowledge to the bedside. It blends research, your expertise, and the client’s values. If a unit routine conflicts with evidence, bring the evidence to the practice council or educator. Do not keep it up blindly or change it alone. If an order conflicts with evidence, clarify it with the prescriber.</p>",
+          "body": "<p>You cannot answer for a decision you cannot explain. “We have always done it this way” is not an explanation.</p><p>Education keeps you current. The ANA recommends the BSN for entry into practice. Magnet hospitals push for BSN-prepared nurses. Nursing knowledge keeps growing, so some of what you learn now will become outdated.</p><p><b>Evidence-based practice (EBP)</b> brings new knowledge to the bedside. It blends research, your expertise, and the client’s values. If a unit routine conflicts with evidence, bring the evidence to the practice council or educator. Do not keep it up blindly or change it alone. If an order conflicts with evidence, clarify it with the prescriber.</p><p><b>Course vs current:</b> Your course guide says Magnet hospitals <b>require BSN-prepared nurses</b>. Current standard: Magnet requires nurse managers and nurse leaders to hold a BSN or higher. Staff RNs do not all need a BSN, but the hospital must show a plan to raise its share of BSN staff. On a course exam, expect “Magnet requires BSN nurses.” On the NCLEX, this detail is rarely tested.</p>",
           "bullets": [
             "<b>Strongest evidence:</b> systematic reviews and meta-analyses of randomized controlled trials.",
             "<b>Next:</b> single randomized trials, then nonrandomized and observational studies.",
@@ -351,13 +351,14 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Source: Module 42 study guide, Glossary terms 1–3 and “The Concept of Accountability & Its Five Core Components,” pp. 2703–2704. Added for NCLEX context: the four look-alike terms, shared governance, the roles of the board, NCSBN, and ANA, and evidence ranking.</p>",
+          "body": "<p>Source: Module 42 study guide, Glossary terms 1–3 and “The Concept of Accountability & Its Five Core Components,” pp. 2703–2704. Added for NCLEX context: the four look-alike terms, shared governance, the roles of the board, NCSBN, and ANA, and evidence ranking. Where the course and current practice differ, learn both, as listed below.</p>",
           "bullets": [
-            "<b>Entry pathways:</b> the course lists diploma, ADN, BSN, MSN, and DNP/PhD. First RN licensure comes through a diploma, ADN, BSN, or entry-level master’s, plus the NCLEX-RN.",
-            "<b>Codes of ethics:</b> the course says codes are “regulated alongside state boards of nursing via the NCSBN”. In fact, the ANA writes the Code. Boards enforce the law and may discipline unethical conduct.",
-            "<b>Magnet:</b> requires BSN or higher for nurse leaders, not for every staff RN.",
-            "<b>TOL:</b> the course frames it around BSN nurses, but every nurse practices to the full extent of his or her own scope.",
-            "<b>IOM:</b> now the National Academy of Medicine. <em>The Future of Nursing 2020–2030</em> adds health equity."
+            "<b>Top-of-license:</b> Your course guide says TOL is for nurses with a BSN or higher. Current standard: every nurse practices to the full extent of his or her own education and scope. On a course exam, expect the BSN wording; on the NCLEX, apply TOL to any RN.",
+            "<b>Entry pathways:</b> Your course guide lists diploma, ADN, BSN, MSN, and DNP/PhD as ways into practice. Current standard: first RN licensure comes through a diploma, ADN, BSN, or entry-level master’s program, plus the NCLEX-RN. On a course exam, expect the five-program list; on the NCLEX, every route ends with the NCLEX-RN.",
+            "<b>Codes of ethics:</b> Your course guide says codes are “regulated alongside state boards of nursing via the NCSBN.” Current standard: the ANA writes the Code; boards enforce the law and may discipline unethical conduct. On a course exam, expect the NCSBN wording; on the NCLEX, the Code belongs to the ANA.",
+            "<b>Magnet:</b> Your course guide says Magnet hospitals require BSN-prepared nurses. Current standard: Magnet requires a BSN or higher for nurse managers and leaders, plus a plan to grow BSN staff. On a course exam, expect “Magnet requires BSN nurses”; the NCLEX rarely tests this.",
+            "<b>Component labels:</b> the course calls component 1 “Education (Body of Knowledge).” It is still a separate item from component 2, Body of Knowledge.",
+            "<b>IOM:</b> now the National Academy of Medicine. The Future of Nursing 2020–2030 adds health equity."
           ]
         }
       ],
@@ -421,7 +422,8 @@ window.NURSE_DATA.push({
         "You can decide what to assign, delegate, or keep as the RN.",
         "You can question an unsafe order and escalate it.",
         "You can explain what you answer for with range orders and errors.",
-        "You can recognize mandatory reporting and screen for abuse and suicide."
+        "You can recognize mandatory reporting and screen for abuse and suicide.",
+        "You can match nursing actions to the seven related concepts in the matrix."
       ],
       "bigPicture": "<p>In the first lesson, accountability was a principle. Here it becomes things you do every shift. You assess comfort, screen for abuse and suicide risk, prevent infection, and teach. If you skip one, you answer for the omission.</p><p>This lesson also covers decisions under pressure. A client says “I’m fine” while shaking with pain. An LPN throws away urine that was supposed to be strained. An IV order looks unsafe for a 78-year-old. In each case the RN must assess, clarify, speak up, and document. The RN stays accountable for the outcome, even when someone else did the task or wrote the order.</p>",
       "recap": [
@@ -488,7 +490,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What duties does accountability cover?",
           "keyIdea": "Each duty has an assessment part and an action part, and the right exam answer often adds the skipped assessment.",
-          "body": "<p>The course groups bedside accountability into six duties. Each has something to <b>assess</b> and something to <b>do</b>. When a question shows a skipped step, it is usually the assessment.</p><p>Take education. Before teaching, assess learning style and readiness. Keep your own knowledge current, too.</p>",
+          "body": "<p>The course says accountability governs seven areas of care. They are health and wellness needs, physical outcomes, client safety, trauma and abuse reporting, suicide prevention, client teaching, and infection control.</p><p>The course groups bedside accountability into six duties. Each has something to <b>assess</b> and something to <b>do</b>. When a question shows a skipped step, it is usually the assessment.</p><p>Take education. Before teaching, assess learning style and readiness. Keep your own knowledge current, too.</p>",
           "table": {
             "headers": [
               "Duty",
@@ -497,40 +499,93 @@ window.NURSE_DATA.push({
             ],
             "rows": [
               [
-                "Holistic wellness",
-                "Body, mind, and spirit",
-                "Screenings, vaccines, quitting smoking; refer to counselor, clergy, or support group"
+                "Holistic health and wellness",
+                "Body, mind (cognitive and psychologic health), and spirit",
+                "Screenings, vaccines, quitting smoking, exercise, healthy diet, stress management; refer to counselor, clergy, or support group"
               ],
               [
                 "Physical outcomes",
-                "Fluids, food, sleep, oxygen, elimination, pain",
-                "Meet each need; reassess"
+                "Fluids, nutrition, rest and sleep, oxygenation, elimination, pain and comfort",
+                "Meet each need; manage pain before it gets severe; reassess"
               ],
               [
-                "Safety",
-                "Hazards; injury risk at home",
-                "Remove hazards; teach prevention; report"
+                "Client safety",
+                "Hazards in the room; injury risk across the lifespan",
+                "Keep the setting hazard-free; teach injury prevention; urge clients to voice concerns"
               ],
               [
-                "Trauma and self-harm",
-                "Abuse and suicide risk in every client",
-                "Protect; report; suicide precautions"
+                "Trauma, abuse, and self-directed violence",
+                "Screen every client for abuse; assess risk of self-harm, suicidal ideation, and intent",
+                "Report known or suspected abuse and reportable injuries such as gunshot wounds; suicide precautions"
               ],
               [
-                "Education",
-                "Learning needs and readiness",
-                "Teach from evidence; use teach-back"
+                "Client and self-education",
+                "Learning style and readiness to learn",
+                "Teach about health, illness, tests, procedures, diagnoses, treatments, and self-care; keep up your own continuing education and EBP"
               ],
               [
-                "Infection prevention",
-                "Weak immunity; your own illness",
-                "PPE, hand hygiene, isolation to prevent healthcare-associated infections"
+                "Infection prevention and immunity",
+                "Weak immunity; your own exposures and illness",
+                "Teach the public about vaccines; strict infection control, PPE, and hand hygiene to prevent healthcare-associated infections (HAIs)"
               ]
             ]
           },
           "check": {
             "q": "A client got IV morphine 20 minutes ago, is drowsy, and says, “Just leave the warfarin papers.” Which duty is at risk?",
             "a": "Education. The client is not ready to learn. Teach when the client is alert, and confirm learning with teach-back."
+          }
+        },
+        {
+          "heading": "What does the related-concepts matrix say?",
+          "keyIdea": "For each related concept, the course lists what the nurse answers for and the exact nursing actions that show it.",
+          "body": "<p>The course links seven concepts to accountability in one matrix (p. 2705). Each row names what you are accountable for. It then lists the nursing actions that prove it. Exam items often describe one of these actions and ask which concept it shows.</p><p>Comfort is the row students miss most. You assess comfort, report changes, and document both the comfort level and every intervention.</p><p><b>Course vs current:</b> Your course guide says to assess comfort <b>at least once per shift</b>, or more often if the client’s condition calls for it. Current standard: assess pain on admission, at the intervals set by policy, with any change, and after every pain intervention. On a course exam, expect “at least once per shift.” On the NCLEX, reassess after each intervention.</p>",
+          "table": {
+            "headers": [
+              "Concept",
+              "Accountable for",
+              "Nursing actions"
+            ],
+            "rows": [
+              [
+                "Comfort",
+                "Assessing comfort and giving effective care to promote it",
+                "Assess comfort at least once per shift, or more often per condition; report any change; document comfort level and all interventions"
+              ],
+              [
+                "Evidence-based practice (EBP)",
+                "Practicing in an EBP setting and using evidence in your own care",
+                "Search the literature for current evidence; choose interventions based on what it shows"
+              ],
+              [
+                "Health, wellness, illness, and injury",
+                "Assessing current health and using teaching, care, and referrals to prevent illness",
+                "Assess biophysical, cognitive, psychologic, and spiritual health; teach general prevention (exercise, vaccines) and risk-specific changes (quit smoking, heart-healthy diet); refer to counselors, clergy, dietitians, physical therapists, support groups, and community resources"
+              ],
+              [
+                "Infection",
+                "Protecting clients with weak immune systems",
+                "Check history for immune problems (autoimmune disease, cancer, chemotherapy); stay aware of your own health and use PPE; know how diseases spread; teach vaccines and hygiene"
+              ],
+              [
+                "Safety",
+                "Keeping clients safe in care and teaching risk reduction for daily life",
+                "Find and fix immediate hazards; assess injury risk outside the facility; report safety concerns to supervisors per policy; teach helmet use and child safety restraints"
+              ],
+              [
+                "Teaching and learning",
+                "Client teaching, staying current, and guiding preceptees and students",
+                "Assess client and family learning needs and readiness; design teaching from EBP; read current journals and attend workshops or seminars; keep competence through continuing education"
+              ],
+              [
+                "Trauma",
+                "Spotting abuse or violence, preventing more harm, and reporting as the law requires",
+                "Assess for physical, emotional, or sexual abuse; screen abuse and suicide risk on admission; watch for spoken or shown warning signs"
+              ]
+            ]
+          },
+          "check": {
+            "q": "A nurse checks a client’s history for chemotherapy and wears PPE. Which matrix concept is this?",
+            "a": "Infection. The nurse is accountable for protecting clients whose immune systems are weak."
           }
         },
         {
@@ -553,7 +608,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What if an order seems unsafe?",
           "keyIdea": "Clarify before you carry it out; if the prescriber won’t change an unsafe order, hold it and move up the chain of command.",
-          "body": "<p>In the course case, Frank Epworth, 78, has a suspected kidney stone. Orders include normal saline at 500 mL/hr. The nurse recalls guidance that large, fast IV fluid volumes rarely help stones pass. At 78, he also risks fluid overload.</p><p>She cannot ignore the concern because “the provider ordered it.” She also cannot change the rate on her own. She assesses him and calls the prescriber with data and evidence.</p><p>If the prescriber keeps an unsafe order, the nurse does not carry it out. That is accountability, not insubordination. Use the TeamSTEPPS tool <b>CUS</b>: “I am Concerned. I am Uncomfortable. This is a Safety issue.” Under the <b>two-challenge rule</b>, say it twice, then move up the chain. Anyone may “stop the line”—pause care—for safety.</p>",
+          "body": "<p>In the course case, Frank Epworth, 78, has a suspected kidney stone. Orders include normal saline at 500 mL/hr. The nurse recalls guidance that large, fast IV fluid volumes rarely help stones pass. At 78, he also risks fluid overload.</p><p>She cannot ignore the concern because “the provider ordered it.” She also cannot change the rate on her own. She assesses him and calls the prescriber with data and evidence.</p><p>If the prescriber keeps an unsafe order, the nurse does not carry it out. That is accountability, not insubordination. Use the TeamSTEPPS tool <b>CUS</b>: “I am Concerned. I am Uncomfortable. This is a Safety issue.” Under the <b>two-challenge rule</b>, say it twice, then move up the chain. Anyone may “stop the line”—pause care—for safety.</p><p>The ANA Code of Ethics backs this up. Your primary commitment is to the client. You must protect the client’s health and safety, and you answer for your own judgments and actions. So if a prescriber refuses to change an unsafe order, refuse to carry it out. Document the conversation. Then go up the chain of command right away: charge nurse, nursing supervisor, then medical director.</p>",
           "steps": [
             "Assess the client. For fluids, check lungs, breathing, SpO2, edema, and intake and output.",
             "Check facts with a guideline, drug reference, or pharmacist.",
@@ -570,7 +625,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What can you delegate or assign?",
           "keyIdea": "The task moves to someone else, but the RN’s accountability for the decision, directions, and follow-up stays put.",
-          "body": "<p>In the Epworth case, an LPN says, “He voided 30 mL. I charted it and threw it out without straining.” Is the RN accountable? <b>Yes.</b> The LPN answers for the task. The RN answers for the choice, the directions, and the follow-up.</p><p>The 2019 NCSBN and ANA guidelines use two terms. <b>Assignment</b> is work within a person’s scope or routine role, like an LPN caring for stable clients. <b>Delegation</b> is a specific nursing task beyond the person’s usual role, after training. The RN stays accountable in both. The steps follow the five rights.</p>",
+          "body": "<p>In the Epworth case, an LPN says, “He voided 30 mL. I charted it and threw it out without straining.” Is the RN accountable? <b>Yes.</b> The LPN answers for the task. The RN answers for the choice, the directions, and the follow-up.</p><p>The 2019 NCSBN and ANA guidelines use two terms. <b>Assignment</b> is work within a person’s scope or routine role, like an LPN caring for stable clients. <b>Delegation</b> is a specific nursing task beyond the person’s usual role, after training. The RN stays accountable in both. The steps follow the five rights.</p><p><b>Course vs current:</b> Your course guide says the RN “delegates” urine straining to the LPN. Current standard: under the 2019 NCSBN and ANA guidelines, giving an LPN routine work within LPN scope is an <b>assignment</b>. On a course exam, expect the word “delegates.” On the NCLEX, call it an assignment. Either way, the RN stays accountable.</p>",
           "steps": [
             "<b>Right circumstance:</b> Is the client stable and predictable? If new or changing, keep the client.",
             "<b>Right task:</b> Does it need assessment, planning, first teaching, evaluation, or judgment? Then keep it.",
@@ -615,7 +670,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What do you answer for with medications?",
           "keyIdea": "You are not accountable for how a drug works in the body, but you are accountable for every step of your process.",
-          "body": "<p>Mr. Epworth’s order is hydromorphone 1–4 mg IV PRN (as needed). An hour after 1 mg, his pain is still 8/10, so the nurse gives 3 mg. Is she accountable if it fails? <b>Not for the drug’s failure.</b> She is accountable for her process.</p><p>First, check the order and the policy on choosing a dose within a range. Assess pain, sedation, breathing, and SpO2. Older adults have higher risk of slowed breathing, so watch closely. Reassess at peak, often about 15–30 minutes for IV opioids. Call the provider if relief is poor. Sedation rises <em>before</em> breathing slows, so growing sleepiness is a warning.</p><p>You also own your errors. Assess and treat the client first. Then notify the provider, chart the facts, and file an event report. Never mention the report in the chart.</p><p><b>Just Culture</b> judges the choice behind an error, as the table shows.</p>",
+          "body": "<p>Mr. Epworth’s order is hydromorphone (Dilaudid) 1–4 mg IV PRN (as needed). An hour after 1 mg, his pain is still 8/10, so the nurse gives 3 mg. Is she accountable if it fails? <b>Not for the drug’s failure.</b> She is accountable for her process.</p><p>First, check the order and the policy on choosing a dose within a range. Assess pain, sedation, breathing, and SpO2. Older adults have higher risk of slowed breathing, so watch closely. Reassess at peak, often about 15–30 minutes for IV opioids. Call the provider if relief is poor. Sedation rises <em>before</em> breathing slows, so growing sleepiness is a warning.</p><p>You also own your errors. Assess and treat the client first. Then notify the provider, chart the facts, and file an event report. Never mention the report in the chart.</p><p><b>Just Culture</b> judges the choice behind an error, as the table shows.</p>",
           "table": {
             "headers": [
               "Just Culture type",
@@ -649,7 +704,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Safety, infection, abuse, and suicide screening",
           "keyIdea": "Fix hazards first, protect weak immune systems, screen privately for abuse, ask directly about suicide, and report suspicion.",
-          "body": "<p><b>Safety:</b> fix an immediate hazard first, then report it. Teach prevention, such as bike helmets and child car seats.</p><p><b>Infection:</b> check for weak immunity from cancer, chemotherapy, or autoimmune disease. Use PPE and teach about vaccines and hygiene. If you have a fever, tell your supervisor and employee health, and stay home.</p><p><b>Abuse:</b> screen every client privately. Document objective findings and the client’s own words. Report <b>reasonable suspicion</b>. You need no proof, and you do not investigate. Some injuries, such as gunshot wounds, must be reported per state law even if the client objects.</p><p><b>Suicide:</b> screen on admission. Ask directly, “Are you thinking about killing yourself?” Asking does not plant the idea.</p>",
+          "body": "<p><b>Safety:</b> fix an immediate hazard first, then report it. Teach prevention, such as bike helmets and child car seats.</p><p><b>Infection:</b> check for weak immunity from cancer, chemotherapy, or autoimmune disease. Use PPE and teach about vaccines and hygiene. If you have a fever, tell your supervisor and employee health, and stay home.</p><p><b>Abuse:</b> screen every client privately. Document objective findings and the client’s own words. Report <b>reasonable suspicion</b>. You need no proof, and you do not investigate. Some injuries, such as gunshot wounds, must be reported per state law even if the client objects.</p><p><b>Suicide:</b> screen on admission. Ask directly, “Are you thinking about killing yourself?” Asking does not plant the idea.</p><p><b>Course vs current:</b> Your course guide says nurses must report known or suspected abuse of <b>children and older adults</b>. Current standard: every state requires reports of suspected child abuse. Adult rules vary by state. In NC, the adult duty covers a disabled adult who needs protective services, not age alone. On a course exam, expect “children and older adults.” On the NCLEX, report suspected abuse of a child or vulnerable adult to the designated agency.</p>",
           "table": {
             "headers": [
               "Situation",
@@ -744,6 +799,36 @@ window.NURSE_DATA.push({
           }
         },
         {
+          "heading": "Worked case: Ms. Miller’s hidden pain",
+          "keyIdea": "Finish the assessment, trust the cues over “I’m fine,” report the full picture, and keep working when a client refuses pain medicine.",
+          "body": "<p>This is the course’s Case Study Part 1 (p. 2704). New RN Jen Sturges assesses Kathryn Miller, 45. She was admitted with a GI diagnosis and has a history of back pain. The nursing assistant (CNA) took her blood pressure, and it is high.</p><p>Ms. Miller says she is “doing just fine.” But she is shaking, very anxious, and gripping the bed sheets tightly. She fears narcotics. She says she “refuses to pay attention to my body” and that “pain is my enemy.” Work through the five course questions below.</p>",
+          "steps": [
+            "<b>Q1. Why finish the assessment before leaving the room?</b> A full assessment catches subtle body and behavior cues, such as high BP, shaking, and guarding. That prevents missed decline. It also meets Jen’s duty to get accurate baseline data and manage comfort.",
+            "<b>Q2. What other symptoms does Jen see?</b> High blood pressure (taken by the CNA), extreme anxiety, shaking, tight gripping of the sheets, and spoken denial or avoidance of pain (“pain is my enemy”).",
+            "<b>Q3. What should Jen tell the charge nurse?</b> The high BP, the nonverbal signs of severe pain (shaking, gripping sheets), her fear of narcotic side effects, her back pain history, and her GI diagnosis. Then they can plan safe, tailored pain care.",
+            "<b>Q4. Who should they work with?</b> The primary healthcare provider (HCP) or hospitalist. The clinical pharmacist, to review non-narcotic or multimodal pain drugs that are safe with her GI problem. Possibly a pain management specialist or a physical or integrative therapist.",
+            "<b>Q5. Why not just accept the refusal?</b> Untreated pain causes harmful stress responses: high BP, slower healing, and more anxiety. Accountability for comfort means exploring her fears, teaching about non-opioid and nondrug options, and advocating for safe relief. Accepting the refusal and walking away abandons the problem."
+          ],
+          "check": {
+            "q": "Ms. Miller says she is fine, but she is shaking and gripping the sheets. What should Jen do before leaving the room?",
+            "a": "Finish the assessment, including a pain rating, nonverbal signs, vital signs, and her fears. Then report the full picture to the charge nurse."
+          }
+        },
+        {
+          "heading": "Worked case: Mr. Epworth’s kidney stone",
+          "keyIdea": "The RN answers for delegation choices, her own medication process, and questioning orders that conflict with evidence.",
+          "body": "<p>This is the course’s Case Study 2 (p. 2710). Frank Epworth, 78, is admitted with a suspected kidney stone (urolithiasis). He has severe left flank and back pain, nausea and vomiting, and blood in the urine (hematuria).</p><p>Orders: Dilaudid (hydromorphone) 1–4 mg IV PRN for pain, normal saline IV at 500 mL/hr, and strain all urine. The RN gives Dilaudid 1 mg IV. She hands urine collection and straining to an LPN. Work through the three course questions below.</p>",
+          "steps": [
+            "<b>Q1. Thirty minutes later, the LPN says he voided 30 mL five minutes ago. She charted it and threw it out without straining. Is the RN accountable?</b> Yes. The LPN answers for doing the task right. The RN keeps overall accountability for outcomes, choosing to hand off the task, clearly stating the key instruction (strain for stone analysis), and supervising and evaluating the care.",
+            "<b>Q2. An hour after the first dose, pain is 8/10 with no relief. The RN gives 3 mg more per the order. Is she accountable if it fails?</b> No, not for the drug failing. That holds if she assessed well, gave a dose within the 1–4 mg range safely, and monitored him. She is accountable for reassessing pain afterward and calling the HCP if the plan still fails.",
+            "<b>Q3. After starting the IV, she recalls guidance that large fluid pushes rarely help stones pass. What now?</b> Accountability for EBP and safety applies. He is 78, and 500 mL/hr risks fluid overload. She questions the order, calls the prescriber to share the evidence, and advocates for a safer, evidence-based rate."
+          ],
+          "check": {
+            "q": "Is the RN accountable when the LPN throws away unstrained urine?",
+            "a": "Yes. The LPN answers for the task, but the RN answers for the handoff decision, the clear directions, and the follow-up."
+          }
+        },
+        {
           "heading": "North Carolina practice note",
           "keyIdea": "In NC, the RN delegates tasks, not judgment, and anyone who suspects child maltreatment must report it to county DSS.",
           "body": "<p>Use these NC facts in real practice. The NCLEX tests the national rule: report suspicion to the designated agency.</p>",
@@ -759,12 +844,12 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Source: Module 42 study guide, “Expanded Duties Under Accountability” (p. 2704), the Nursing Implications Matrix (p. 2705), Case Study 1: Ms. Kathryn Miller (p. 2704), Case Study 2: Mr. Frank Epworth (p. 2710), and “Linking Accountability to Ethics” (p. 2710). Added: NCSBN/ANA (2019) delegation guidelines, CUS, SBAR, and Just Culture.</p>",
+          "body": "<p>Source: Module 42 study guide, “The Concept of Accountability” intro and “Expanded Duties Under Accountability” (pp. 2703–2704), the Nursing Implications Matrix (p. 2705), Case Study 1: Ms. Kathryn Miller (p. 2704), Case Study 2: Mr. Frank Epworth (p. 2710), and “Linking Accountability to Ethics” (p. 2710). Added: NCSBN/ANA (2019) delegation guidelines, CUS, SBAR, and Just Culture.</p>",
           "bullets": [
-            "<b>Delegation vs assignment:</b> the course says the RN “delegates” straining to an LPN. Under 2019 guidelines, that is an assignment. The RN is accountable either way.",
-            "<b>Comfort checks:</b> “once per shift” is a minimum. Also assess on admission and with changes. Reassess at peak: about 15–30 minutes for IV and 30–60 minutes for oral.",
+            "<b>Delegation vs assignment:</b> Your course guide says the RN “delegates” straining to an LPN. Current standard: under the 2019 NCSBN/ANA guidelines, that is an assignment. On a course exam, expect “delegates”; on the NCLEX, call it an assignment. The RN is accountable either way.",
+            "<b>Comfort checks:</b> Your course guide says assess comfort at least once per shift, or more often per condition. Current standard: also assess on admission, with changes, and after each intervention (about 15–30 minutes for IV and 30–60 minutes for oral). On a course exam, expect “at least once per shift”; on the NCLEX, reassess after every intervention.",
+            "<b>Reporting:</b> Your course guide says report abuse of “children and older adults.” Current standard: child reporting is universal, but adult rules vary by state (in NC, disabled adults who need protective services). On a course exam, expect “children and older adults”; on the NCLEX, report suspected abuse of a child or vulnerable adult to the designated agency.",
             "<b>Hydromorphone:</b> 3 mg an hour after 1 mg is fine only if the order’s frequency and policy allow.",
-            "<b>Reporting:</b> the course says “children and older adults.” Rules vary by state; see the NC note.",
             "<b>Unsafe orders:</b> also tell the prescriber you are holding it, and keep monitoring."
           ]
         }
@@ -858,7 +943,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Emotional intelligence (EI)",
-          "def": "Noticing when your own emotions, rather than objective data, are steering a clinical decision."
+          "def": "Using emotional appraisal to notice when your own emotions, not objective data, are steering a clinical decision. It builds strong working relationships with clients and peers and supports self-aware problem solving."
         },
         {
           "term": "Ethical reasoning",
@@ -915,7 +1000,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How do critical thinking and EI work?",
           "keyIdea": "Critical thinkers investigate before acting, and emotionally intelligent nurses notice when feelings, not data, are driving a choice.",
-          "body": "<p><b>Critical thinking</b> starts in school and grows through <b>situational learning</b>—using theory in real situations. Critical thinkers stay open to others but rely on evidence. They know their limits. They investigate before acting. Giving a 0900 blood pressure pill without checking a BP of 88/52 is task completion, not thinking.</p><p><b>Problem solving</b> means working through a real clinical problem. The course says it needs self-awareness and <b>emotional intelligence (EI)</b>. EI is noticing when your emotions, not the facts, are shaping a decision. Feelings like concern or unease can be useful. They become dangerous when they replace data.</p>",
+          "body": "<p><b>Critical thinking</b> starts in school and grows through <b>situational learning</b>—using theory in real situations. Critical thinkers stay open to others but rely on evidence. They know their limits. They investigate before acting. Giving a 0900 blood pressure pill without checking a BP of 88/52 is task completion, not thinking.</p><p><b>Problem solving</b> means working through a real clinical problem. The course says it needs self-awareness and <b>emotional intelligence (EI)</b>. EI is noticing, through <b>emotional appraisal</b>, when your emotions, not the facts, are shaping a decision. Feelings like concern or unease can be useful. They become dangerous when they replace data.</p><p>EI does two more jobs, per the course. It builds strong working relationships with clients and with interprofessional peers. It is also a key part of the self-awareness that problem solving needs. Problem solving matters most in complex clinical settings. It develops over time through EBP and clinical practice.</p>",
           "table": {
             "headers": [
               "Emotion-driven thought",
@@ -972,7 +1057,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What are Benner’s five stages?",
           "keyIdea": "Nurses move from following rules to seeing the whole picture by experience, and the stage depends on the setting.",
-          "body": "<p>Patricia Benner’s model, <em>From Novice to Expert</em>, shows how experience builds skill. Nurses move from relying on rules to relying on experience. A novice needs rules because she can’t yet tell what matters. An expert sees the whole picture and acts smoothly.</p><p>Stages are <b>setting-specific</b>. A cardiac expert who moves to pediatrics may be an advanced beginner there. That is why nurses need orientation when they change specialty. A new graduate still needs help setting priorities, so a preceptor should not leave her alone with the most unstable client.</p>",
+          "body": "<p>Patricia Benner’s model (Benner, 2001; course Box 42.3), <em>From Novice to Expert</em>, shows how experience builds skill. Nurses move from relying on rules to relying on experience. A novice needs rules because she can’t yet tell what matters. An expert sees the whole picture and acts smoothly.</p><p>Stages are <b>setting-specific</b>. A cardiac expert who moves to pediatrics may be an advanced beginner there. That is why nurses need orientation when they change specialty. A new graduate still needs help setting priorities, so a preceptor should not leave her alone with the most unstable client.</p>",
           "table": {
             "headers": [
               "Stage",
@@ -982,28 +1067,28 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "I. Novice",
-                "None (a student)",
-                "Follows context-free rules; limited and inflexible"
+                "None (for example, a nursing student)",
+                "Limited, inflexible performance; strictly governed by context-free rules and regulations, not experience"
               ],
               [
                 "II. Advanced beginner",
-                "New graduate",
-                "Spots recurring patterns; marginally acceptable; needs help to prioritize"
+                "New graduate or early clinical exposure",
+                "Marginally acceptable performance; recognizes meaningful recurring parts of real situations from prior experience; needs help to prioritize"
               ],
               [
                 "III. Competent",
-                "About 2–3 years",
-                "Deliberate planning; sorts important from less important; coordinates complex care"
+                "2 to 3 years",
+                "Strong organizing and planning; sorts important from less important factors; coordinates many complex care demands"
               ],
               [
                 "IV. Proficient",
-                "About 3–5 years",
-                "Sees the whole; uses maxims; focuses on long-term goals like discharge"
+                "3 to 5 years",
+                "Sees situations as wholes, not parts; uses maxims as guides; holistic understanding improves decisions; focuses on long-term goals like discharge"
               ],
               [
                 "V. Expert",
-                "Extensive",
-                "Intuitive and fluid; no longer needs rules; still double-checks high-risk actions"
+                "Extensive clinical experience",
+                "Fluid, flexible, highly proficient; no longer needs rules, guidelines, or maxims; uses skilled intuitive and analytic ability (“it felt right”); still double-checks high-risk actions"
               ]
             ]
           },
@@ -1015,7 +1100,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What if a task is beyond you?",
           "keyIdea": "Say “I don’t know,” ask for help, and raise competence gaps before you accept an assignment.",
-          "body": "<p>The course safety alert has three rules for every level of skill. First, even experts double-check high-risk actions, like medication doses and sterilization. Independent double-checks for high-alert drugs, such as heparin, insulin drips, chemotherapy, and PCA settings, are a safeguard, not an insult. Second, saying “I don’t know” is always safer than guessing. Third, the <b>first rule of competence</b>: ask for help whenever you are unsure an action is safe.</p><p>In the course case, Tyree Campbell, a labor and delivery (L&D) nurse of 8 years, is floated to the NICU. She has never worked there. She must self-assess, tell the supervisor right away, and decline an independent NICU assignment. Taking it would break competence standards, the ANA Code, and the Nurse Practice Act. If she and the supervisor agree, she may do basic tasks within her skills.</p><p>Timing matters. Raise concerns <b>before</b> taking report. Leaving accepted clients without a handoff can be <b>abandonment</b>. Accepting work beyond your skill also risks malpractice claims and board discipline.</p>",
+          "body": "<p>The course safety alert has three rules for every level of skill. First, even experts double-check high-risk actions, like medication doses and sterilization. Independent double-checks for high-alert drugs, such as heparin, insulin drips, chemotherapy, and PCA settings, are a safeguard, not an insult. Second, saying “I don’t know” is always safer than guessing. Third, the <b>first rule of competence</b>: ask for help whenever you are unsure an action is safe.</p><p>Say it out loud. The course says it is always more honorable and safe to say <b>“I don’t know”</b> or ask <b>“Would you help me?”</b> than to say “I’m not sure, but I think this is right” or “I’ll figure it out as I go along.” This holds at every level of skill.</p><p>The course’s floating case, Tyree Campbell, is worked through below. Timing matters. Raise concerns <b>before</b> taking report. Leaving accepted clients without a handoff can be <b>abandonment</b>. Accepting work beyond your skill also risks malpractice claims and board discipline.</p>",
           "steps": [
             "Compare the assignment with your training and validated skills.",
             "Tell the charge nurse or supervisor before report, naming the specific gap.",
@@ -1053,7 +1138,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What are cultural and lifelong competence?",
           "keyIdea": "Culturally competent nurses ask instead of assume, use trained interpreters, and keep learning their whole careers.",
-          "body": "<p>The IOM’s 2002 report <em>Unequal Treatment</em> linked health disparities partly to providers’ lack of cultural understanding. Other causes included language barriers, low education, poor social support, lack of insurance, poor housing, and biased attitudes. So cultural competence is part of competence.</p><p>The course lists four core elements, shown below. In practice, ask “What matters to you and your family?” Use a trained medical interpreter, not family. Facts about a group are a starting point for questions, not a prediction about one person. <b>Cultural humility</b> adds lifelong self-reflection.</p><p>Lifelong competence comes from continuing education, workshops, journals, certification, mentoring, and supervised orientation. Nurses must keep current, disclose skill limits, and report errors honestly.</p>",
+          "body": "<p>Minority and ethnic groups are growing to become the majority of the US population. So every nurse must give culturally sensitive care. The IOM’s 2002 report <em>Unequal Treatment</em> linked health disparities partly to providers’ lack of cultural understanding. Other causes included language barriers, low education, poor social support, lack of insurance, poor housing, and biased attitudes. So cultural competence is part of competence.</p><p>The course lists four core elements, shown below. In practice, ask “What matters to you and your family?” Use a trained medical interpreter, not family. Facts about a group are a starting point for questions, not a prediction about one person. <b>Cultural humility</b> adds lifelong self-reflection.</p><p>Lifelong competence comes from continuing education, workshops, journals, certification, mentoring, and supervised orientation. Nurses must keep current, disclose skill limits, and report errors honestly.</p>",
           "bullets": [
             "Recognize your own values and beliefs and how they affect care.",
             "Listen well and learn cultural rites and traditions.",
@@ -1063,6 +1148,21 @@ window.NURSE_DATA.push({
           "check": {
             "q": "Before surgery, a client with limited English has her 12-year-old son offer to interpret. What is the competent action?",
             "a": "Thank him and get a qualified medical interpreter. A child may interpret wrongly, privacy is lost, and it burdens the child."
+          }
+        },
+        {
+          "heading": "Why must competence last a whole career?",
+          "keyIdea": "Competence is never finished: the law requires it, ethics demands it, and you build it with ongoing learning.",
+          "body": "<p>Competence keeps growing across a nurse’s whole career. Guidelines, drugs, and devices change. So a skill that was current five years ago may not be safe today. The course links lifelong competence to the law and to ethics.</p><p><b>Legal link.</b> State boards of nursing and Nurse Practice Acts require you to practice safely within your scope and your verified competence. Taking an assignment beyond your skill level exposes you to malpractice claims and board discipline.</p><p><b>Ethical link.</b> You have a moral duty to keep up your competence. Be honest about what you cannot do. Remember the first rule of competence: ask for help. Report errors openly. Keep learning so the public gets safe, high-quality care.</p>",
+          "bullets": [
+            "<b>Ways competence grows (course list):</b> formal education, seminars, peer-reviewed journals, employer classes, and interprofessional collaboration.",
+            "<b>Ways to close a gap in one area:</b> continuing education, workshops, peer-reviewed literature, mentorship or preceptorship, and supervised clinical orientation.",
+            "<b>Supportive unit culture:</b> it encourages questions, teamwork, error reporting, and lifelong education.",
+            "<b>Why it matters to clients:</b> competence reassures the public that their nurse is prepared."
+          ],
+          "check": {
+            "q": "A nurse has not hung a blood transfusion in four years. What is the accountable step?",
+            "a": "Tell the charge nurse about the gap and ask for a review or supervised practice before doing it. Then keep it current with education."
           }
         },
         {
@@ -1138,6 +1238,21 @@ window.NURSE_DATA.push({
           }
         },
         {
+          "heading": "Worked case: Tyree Campbell floats to the NICU",
+          "keyIdea": "A nurse must self-assess, name her limits before report, decline work she cannot do safely, and offer help within her competence.",
+          "body": "<p>This is the course’s Case Study 3 (p. 2712). Tyree Campbell is a labor and delivery (L&D) RN with 8 years of experience. L&D census is low, so she is asked to float to the Neonatal Intensive Care Unit (NICU). She panics. She has never worked in the NICU.</p><p><b>Course vs current:</b> Your course guide says Ms. Campbell must <b>refuse</b> the NICU assignment. Current standard: she declines a full, independent NICU assignment before taking report, explains the gap, and negotiates a safe role. On a course exam, “refuse” the full assignment is correct. On the NCLEX, pick the answer that tells the supervisor and offers a safe option, never walking off the unit.</p>",
+          "steps": [
+            "<b>Q1. What is her responsibility?</b> She is professionally and legally responsible for self-assessing her competence. She must not accept tasks or assignments she lacks the knowledge and skill for. She tells the nursing supervisor about her limits right away to protect the newborns.",
+            "<b>Q2. Can she agree to float if she is not competent?</b> No, not to an independent NICU assignment. That would break competence standards, the ANA Code of Ethics, and the state Nurse Practice Act. It would put critically ill newborns at high risk. She may float to do basic, non-specialized support tasks within her skills, if both agree.",
+            "<b>Q3. What should she say?</b> Speak respectfully, clearly, and assertively: “I want to help with staffing, but I have never worked in the NICU. I don’t have the training to safely care for critically ill newborns. I can’t take a full NICU assignment. I’m happy to help with basic tasks in my scope, or float to postpartum or mother-baby, where I am competent.”"
+          ],
+          "example": "Short version: Tyree Campbell, a labor and delivery (L&D) nurse of 8 years, is floated to the NICU. She has never worked there. She must self-assess, tell the supervisor right away, and decline an independent NICU assignment. Taking it would break competence standards, the ANA Code, and the Nurse Practice Act. If she and the supervisor agree, she may do basic tasks within her skills.",
+          "check": {
+            "q": "Tyree has 8 years of L&D experience. Does that make her safe to take NICU clients?",
+            "a": "No. Competence is setting-specific. In the NICU she has no experience, so she must name the gap and take only work within her skills."
+          }
+        },
+        {
           "heading": "North Carolina practice note",
           "keyIdea": "In NC, accepting an assignment is a professional decision you answer for, and Good Samaritan protection excludes paid work.",
           "body": "<p>These NC facts help in real practice. The NCLEX rule is national: practice within your competence.</p>",
@@ -1152,10 +1267,10 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Source: Module 42 study guide, pp. 2710–2712. This includes Glossary terms 4–5, Exemplar 42.A (Core Areas and Benner’s Model), Box 42.3, the Safety Alert, and Focus on Diversity and Culture. It also includes Case Study 3: Tyree Campbell and “Linking Competence to Legal Issues/Ethics” (p. 2712). Added: ethical principles, double-checks, abandonment, interpreters, and cultural humility.</p>",
+          "body": "<p>Source: Module 42 study guide, pp. 2710–2712. This includes Glossary terms 4–5, Exemplar 42.A (learning outcomes, three core areas, and Benner’s model), Box 42.3, the Safety Alert, and Focus on Diversity and Culture. It also includes Case Study 3: Tyree Campbell and “Linking Competence to Legal Issues/Ethics” (p. 2712). Added: ethical principles, double-checks, abandonment, interpreters, and cultural humility.</p>",
           "bullets": [
-            "<b>Benner:</b> the course cites Benner (2001), the commemorative edition of <em>From Novice to Expert</em>, first published in 1984. Year ranges are approximate and apply to the same or a similar setting.",
-            "<b>Floating:</b> the course says Ms. Campbell should “refuse.” Clarification: raise the concern before report and negotiate a safe role. Leaving accepted clients without handoff may be abandonment.",
+            "<b>Floating:</b> Your course guide says Ms. Campbell should “refuse” the NICU assignment. Current standard: raise the concern before report, decline the independent assignment, and negotiate a safe role; leaving accepted clients without handoff may be abandonment. On a course exam, expect “refuse”; on the NCLEX, choose telling the supervisor and offering a safe option.",
+            "<b>Benner:</b> the course cites Benner (2001), the commemorative edition of <em>From Novice to Expert</em>, first published in 1984. The year ranges (2–3 and 3–5 years) are approximate and apply to the same or a similar setting.",
             "<b>IOM:</b> now the National Academy of Medicine. Cultural humility and qualified interpreters are added as current standards."
           ]
         }

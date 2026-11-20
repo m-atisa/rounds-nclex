@@ -3072,6 +3072,372 @@
    "focus": "Prioritization",
    "difficulty": 2,
    "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-087",
+   "topic": "managing-care",
+   "type": "sata",
+   "stem": "A skilled nursing facility switched to team nursing after families complained that meal trays sat untouched, linens went unchanged, and baths were missed. RN team leaders now assign named residents to named nursing assistants. Which data should the director of nursing use to evaluate whether the change worked? Select all that apply.",
+   "options": [
+    "Resident and family satisfaction survey results before and after the change",
+    "Audits showing the percentage of scheduled ADL care completed each shift",
+    "Rates of new pressure injuries among residents on the units",
+    "Staff opinions about whether the new model feels easier to use",
+    "The number of nursing assistants hired since the change began",
+    "How quickly the morning medication pass is finished"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Satisfaction surveys measure whether the complaints that started the change were resolved.",
+    "Correct. ADL completion audits directly measure whether basic care is now being done.",
+    "Correct. Skin outcomes show whether missed turning, hygiene, and nutrition have improved.",
+    "Incorrect. Staff comfort matters, but it does not show that residents are getting care.",
+    "Incorrect. Hiring numbers measure input, not whether residents' care improved.",
+    "Incorrect. Medication pass speed does not measure the ADL and feeding problems that triggered the change."
+   ],
+   "rationale": "Evaluation must measure the problem that triggered the change: missed ADLs, feeding help, and linens. Resident and family satisfaction surveys, ADL completion audits, and skin and nutrition outcomes such as new pressure injuries show whether residents are actually receiving care under the RN-led team. Staff opinions are tempting because buy-in matters, but they do not prove client outcomes. Hiring counts and medication pass times measure staff activity, not whether the gaps in basic care were closed.",
+   "takeaway": "Evaluate a care-model change with client outcome data tied to the original problem.",
+   "hintContent": "What problem were families complaining about in the first place?",
+   "hintStrategy": "For evaluation items, choose measures of client outcomes rather than staff activity or comfort.",
+   "ref": "Module 39 · Managing Care · Concept of Managing Care · pp. 2623, 2626",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-088",
+   "topic": "managing-care",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A client admitted with a COPD exacerbation tells the nurse, “I heard my insurance only pays for 3 days. Are you sending me home tomorrow because of money? I still get short of breath walking to the bathroom.” Which response by the nurse is best?",
+   "options": [
+    "“Discharge decisions are based only on medical need, so money has nothing to do with it.”",
+    "“Insurance rules can affect timing, but your safety comes first. I will tell your provider about your breathing.”",
+    "“You should ask the billing office, because nurses are not involved in any insurance decisions.”",
+    "“Everyone feels nervous before going home. You will do fine once you are back in your own bed.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. This may be untrue, which violates veracity, and it ignores the new symptom.",
+    "Correct. It is truthful, puts safety first, and advocates by reporting the dyspnea to the provider.",
+    "Incorrect. It dismisses the client and the breathing concern the nurse must act on.",
+    "Incorrect. False reassurance ignores dyspnea with minimal activity, which may mean the client is not ready."
+   ],
+   "rationale": "Managing care links to ethics and advocacy. Veracity means telling the truth, so the nurse can acknowledge that payer rules affect timing while making clear that safety comes first. Shortness of breath walking to the bathroom is a finding the provider needs before discharge, so reporting it is advocacy. Saying money has nothing to do with it is tempting because it sounds reassuring, but it may be false. Sending the client to billing or giving false reassurance ignores both the question and the symptom.",
+   "takeaway": "Answer resource questions truthfully and advocate when the client may not be ready to leave.",
+   "hintContent": "Which ethical principle requires honesty, and which concept requires speaking up?",
+   "hintStrategy": "Choose the response that is both truthful and acts on the safety concern.",
+   "ref": "Module 39 · Managing Care · Concept of Managing Care · pp. 2624–2625",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-089",
+   "topic": "case-management",
+   "type": "sata",
+   "stem": "A 42-year-old client is recovering from surgical repair of a femur fracture. The client has type 2 diabetes, lives alone in an apartment, and has no relatives nearby. Which team members should the case manager include in the discharge plan? Select all that apply.",
+   "options": [
+    "Physical and occupational therapists for mobility and home safety",
+    "A dietitian to support wound healing and blood glucose control",
+    "A social worker to arrange home supports and community resources",
+    "A home health nurse to check the incision, glucose, and clot prevention",
+    "A hospice team to plan comfort-focused care at home",
+    "A sheltered workshop counselor to find supervised employment"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Impaired mobility after a femur repair needs PT and OT for walking, transfers, and home safety.",
+    "Correct. Diabetes slows healing, so nutrition support aids the incision and glucose control.",
+    "Correct. Living alone with no nearby family creates a risk for ineffective health management that social work can address.",
+    "Correct. Home health monitors skin, glucose, and DVT prevention after discharge.",
+    "Incorrect. The client has a recoverable injury, not a terminal illness.",
+    "Incorrect. Sheltered workshops serve clients with lasting disabilities, not a temporary fracture."
+   ],
+   "rationale": "This client's key nursing diagnoses are impaired physical mobility, risk for impaired skin integrity, risk for recurrent DVT, and risk for ineffective health management because of diabetes and living alone. Each diagnosis maps to a team member: PT and OT, a dietitian for diabetic healing, a social worker, and a home health nurse, along with the orthopedic surgeon. Hospice is tempting because the client needs help at home, but it is for terminal illness. A sheltered workshop does not fit a temporary injury.",
+   "takeaway": "Match each nursing diagnosis to the team member who can meet it at home.",
+   "hintContent": "List his problems: mobility, healing with diabetes, clot risk, and living alone.",
+   "hintStrategy": "Keep options that address a specific need in the stem; drop services meant for other populations.",
+   "ref": "Module 39 · Managing Care · Case Management · pp. 2628–2629",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-090",
+   "topic": "case-management",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A 42-year-old client had surgery 2 days ago to repair a femur fracture. During discharge planning, which finding in the client's history most supports the nursing diagnosis Risk for ineffective health management?",
+   "options": [
+    "Being 42 years old and working full time before the injury",
+    "Having the femur repaired with surgery under general anesthesia",
+    "Reporting pain of 4 out of 10 on the second day after surgery",
+    "Having type 2 diabetes while living alone with no family nearby"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Age and employment alone do not suggest trouble managing care at home.",
+    "Incorrect. Surgery supports risk for DVT and impaired mobility, not health management.",
+    "Incorrect. Controlled pain is an expected finding, not a self-management risk.",
+    "Correct. A chronic disease to manage plus no one at home to help raises the risk of ineffective health management."
+   ],
+   "rationale": "Risk for ineffective health management fits a client who must manage a complex regimen with limited support. Type 2 diabetes requires glucose monitoring, diet, and medications, and recovery after a femur repair makes that harder. Living alone with no nearby relatives removes the backup that would help. Surgery under anesthesia is tempting because it is a major event, but it supports other diagnoses, such as impaired mobility and DVT risk. Age, work history, and controlled pain do not point to self-management risk.",
+   "takeaway": "Chronic illness plus little home support signals risk for ineffective health management.",
+   "hintContent": "Which finding makes managing care at home hardest?",
+   "hintStrategy": "Link each option to the nursing diagnosis it actually supports, then match the one named in the stem.",
+   "ref": "Module 39 · Managing Care · Case Management · pp. 2628–2629",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-091",
+   "topic": "case-management",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A client with a brain tumor is being discharged after surgery. The client will receive intrathecal and IV chemotherapy as an outpatient and will be followed by neurosurgery, oncology, and neurology. On the morning of discharge, the nurse reviews the plan. Which finding requires the nurse's action first?",
+   "options": [
+    "No home health referral has been placed, and no nurse is set to visit",
+    "The discharge folder lists the oncology clinic's after-hours phone number",
+    "The dietitian finished the nutrition screen and left written meal tips",
+    "The neurology follow-up is booked 2 days after the next infusion visit"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. A missing home health referral leaves a high-risk client without monitoring at home and must be fixed before discharge.",
+    "Incorrect. An after-hours number is an expected, helpful part of the plan.",
+    "Incorrect. A completed nutrition screen means this part of the plan is done.",
+    "Incorrect. Visits on different days do not conflict, so the schedule is aligned."
+   ],
+   "rationale": "For a complex discharge, the nurse acts as care coordinator and communicator across neurosurgery, oncology, neurology, infusion therapy, the dietitian, social services, and home nursing. Before discharge, the nurse verifies the nutrition screen, the social work consult, and the home health referral. The missing referral is the gap that would leave this client unmonitored between chemotherapy treatments. The appointment timing is tempting to recheck, but the visits do not conflict. The other findings show completed parts of the plan.",
+   "takeaway": "Before a complex discharge, verify every referral is in place, especially home health.",
+   "hintContent": "Which item is missing rather than completed?",
+   "hintStrategy": "In coordination items, look for the gap that leaves the client without needed care after discharge.",
+   "ref": "Module 39 · Managing Care · Case Management · pp. 2626",
+   "alsoTests": [],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-092",
+   "topic": "case-management",
+   "type": "sata",
+   "stem": "A 67-year-old client with chronic lung disease has been admitted three times in the past year for low oxygen levels. The client takes 11 medications from four prescribers. Which actions should the case manager include in the plan to prevent another admission? Select all that apply.",
+   "options": [
+    "Reconcile all medications with the pharmacist and the prescribers",
+    "Arrange home oxygen and a referral to pulmonary rehabilitation",
+    "Set up frequent outpatient visits or remote monitoring after discharge",
+    "Write an early-symptom action plan with the client and family",
+    "Advise going to the emergency department for any new symptom",
+    "Schedule the first follow-up visit for 3 months after discharge"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Polypharmacy from several prescribers raises the risk of duplicates and harmful combinations.",
+    "Correct. Home oxygen and pulmonary rehab support function and reduce exacerbations.",
+    "Correct. Frequent monitoring catches decline before it needs a hospital stay.",
+    "Correct. An early-symptom plan tells the client what to do before a crisis develops.",
+    "Incorrect. Sending every symptom to the ED increases costly visits instead of early home management.",
+    "Incorrect. A 3-month gap is too long for a client with repeat admissions."
+   ],
+   "rationale": "Repeat admissions show the home plan is failing, which makes this client a clear candidate for case management. The case manager reconciles polypharmacy, arranges home oxygen and pulmonary rehabilitation, sets up frequent outpatient monitoring, and builds an early-symptom action plan. Sending the client to the ED for any symptom is tempting because it seems safe, but it skips early action at home and drives cost. A follow-up 3 months out leaves the high-risk period after discharge unmonitored.",
+   "takeaway": "Prevent readmissions with medication reconciliation, home supports, close follow-up, and an early-symptom plan.",
+   "hintContent": "What would stop the next admission before it starts?",
+   "hintStrategy": "Choose actions that act early and at home; drop ones that delay care or push it to the ED.",
+   "ref": "Module 39 · Managing Care · Case Management · pp. 2628–2629",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+  },
+  {
+   "id": "m39-x1-093",
+   "topic": "case-management",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A newborn has a severe congenital heart defect that will need several staged surgeries over the first years of life. The parents work hourly jobs and have a private plan with a high deductible. Which action by the case manager is the priority during the first hospital stay?",
+   "options": [
+    "Wait until after the final surgery to discuss long-term financial help",
+    "Focus planning on the first surgery and close the case once it heals",
+    "Connect the parents with financial aid and Medicaid waiver programs early",
+    "Refer the family to the billing office to set up a monthly payment plan"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Waiting lets costs build up and can block access to later stages of care.",
+    "Incorrect. Staged repairs need coordination across every stage, not just the first.",
+    "Correct. Early links to aid and waivers protect access to all the staged surgeries and follow-up.",
+    "Incorrect. A payment plan alone does not address eligibility for aid the family may qualify for."
+   ],
+   "rationale": "A severe congenital heart defect needs coordinated care across multiple surgeries, cardiology and pediatric follow-ups, and home nursing. A key case manager action is to connect the family early with financial aid and Medicaid waiver programs, so money does not block later stages of care. Closing the case after the first surgery is tempting because the first repair may go well, but staged repairs need ongoing coordination. Waiting or offering only a payment plan leaves the family without the help it may qualify for.",
+   "takeaway": "For staged congenital repairs, coordinate every stage and connect families to financial help early.",
+   "hintContent": "How long will this child need coordinated care?",
+   "hintStrategy": "For chronic, staged conditions, choose the action that protects access to care over the long term.",
+   "ref": "Module 39 · Managing Care · Case Management · pp. 2628–2629",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-094",
+   "topic": "cost-effective-care",
+   "type": "mcq",
+   "priority": false,
+   "stem": "During a community class, a nurse explains how U.S. health spending compares with other high-income countries. Which statement by a participant shows correct understanding?",
+   "options": [
+    "“Since we spend the most, we must have the longest life expectancy.”",
+    "“Our high costs come mainly from people using too much preventive care.”",
+    "“Other wealthy countries spend more than us but get similar results.”",
+    "“We spend the most, yet we have more chronic disease and shorter lives.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The U.S. has the lowest life expectancy among peer countries despite the highest spending.",
+    "Incorrect. Major cost drivers are administrative waste, high drug prices, and public health shocks.",
+    "Incorrect. The U.S. spends more than any of these countries.",
+    "Correct. The U.S. spends the most but has the highest chronic disease burden and the lowest life expectancy."
+   ],
+   "rationale": "Commonwealth Fund comparisons show the U.S. spends more on health care than other high-income countries, yet has the highest obesity rate, chronic disease burden, and suicide rate, and the lowest life expectancy. Its 2017 DALY rate was 31% higher than in other developed countries. The idea that more spending buys longer lives is tempting but wrong. Preventive care is a solution to cost, not a driver; the main drivers are administrative waste, high drug prices, and public health shocks.",
+   "takeaway": "In the U.S., the highest spending does not produce the best health outcomes.",
+   "hintContent": "Does more money spent mean better health in the U.S.?",
+   "hintStrategy": "For teaching evaluation items, pick the statement that matches the facts and reject common assumptions.",
+   "ref": "Module 39 · Managing Care · Cost-Effective Care · pp. 2630",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 1,
+   "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+   "id": "m39-x1-095",
+   "topic": "cost-effective-care",
+   "type": "sata",
+   "stem": "A hospital task force is reviewing ideas to lower health care costs while improving access for the community. Which proposals match recognized cost-containment and access strategies? Select all that apply.",
+   "options": [
+    "Expanding telehealth visits for clients with chronic conditions",
+    "Cutting preventive screening visits to lower clinic expenses",
+    "Posting clear prices so clients can compare costs before care",
+    "Supporting the option to buy health insurance across state lines",
+    "Requiring cash payment up front before any emergency care"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Telehealth lowers cost and improves access, especially for rural and chronically ill clients.",
+    "Incorrect. Preventive care lowers long-term costs; cutting it shifts cost into later illness.",
+    "Correct. Price transparency is a named cost-containment strategy.",
+    "Correct. Cross-state insurance purchasing is a proposed way to expand choice and lower cost.",
+    "Incorrect. Demanding cash before emergency care blocks access and is unsafe and unethical."
+   ],
+   "rationale": "Recognized strategies to contain cost and widen access include expanding telehealth, improving price transparency, continuous quality monitoring, letting small businesses pool for insurance, expanding cross-state insurance purchasing, and exploring public options or Medicare-for-All. Cutting preventive screening is tempting because it lowers short-term clinic expenses, but preventive care is one of the positive trends in managed care and prevents costly illness later. Requiring cash before emergency care blocks access to care and is unsafe.",
+   "takeaway": "Cost containment should widen access and quality, not cut prevention or block care.",
+   "hintContent": "Which ideas save money without making care harder to get?",
+   "hintStrategy": "Keep options that improve both cost and access; drop any that save money by denying care.",
+   "ref": "Module 39 · Managing Care · Cost-Effective Care · pp. 2630",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-096",
+   "topic": "cost-effective-care",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A nurse is comparing international health systems for a policy discussion. In which situation is the government both paying for care and employing the physicians who deliver it?",
+   "options": [
+    "A Canadian family visits a privately run clinic that bills the province",
+    "A Swedish client sees a doctor employed by a state-owned health center",
+    "A German worker uses a sickness fund paid into by employer and employee",
+    "A U.S. employee uses an employer-sponsored plan through a private insurer"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Government payment with private delivery describes socialized insurance.",
+    "Correct. State ownership of facilities and physicians as state employees define socialized medicine.",
+    "Incorrect. Required employer and employee contributions describe mandatory health insurance.",
+    "Incorrect. Employer-sponsored private coverage is voluntary insurance, the main U.S. model."
+   ],
+   "rationale": "In socialized medicine, the state owns and controls health services, and physicians earn virtually all their income as government employees. The United Kingdom, Sweden, and Denmark are examples. The Canadian clinic is tempting because the government pays, but delivery is private, which makes it socialized insurance. The German sickness fund reflects mandatory health insurance. The U.S. employer plan reflects voluntary insurance through a private company, which is private insurance rather than public.",
+   "takeaway": "Socialized medicine means the state both pays for care and employs the providers.",
+   "hintContent": "Look for both government payment and government-employed doctors.",
+   "hintStrategy": "Ask two questions for each system: who pays, and who delivers?",
+   "ref": "Module 39 · Managing Care · Cost-Effective Care · pp. 2630–2632",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m39-x1-097",
+   "topic": "managing-care",
+   "type": "sata",
+   "stem": "A nurse manager is preparing a presentation for hospital leaders about nurse staffing on a medical-surgical unit. Which statements are supported by staffing research? Select all that apply.",
+   "options": [
+    "The number of nurses per patient affects complication and death rates",
+    "Nurses' education level is linked to patient outcomes and costs",
+    "Nursing hours per patient day is one way to measure staffing",
+    "UAP can replace RNs without effect when the unit census is low",
+    "Skill mix should be set by the unit budget rather than client acuity",
+    "Nursing shortages increase staff stress and adverse patient events"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Higher nurse-to-patient ratios are linked to more complications and deaths.",
+    "Correct. Nurses' academic and clinical preparation affects morbidity, mortality, and cost.",
+    "Correct. Staffing is measured by nurse-to-patient ratio or nursing hours per patient day.",
+    "Incorrect. UAP cannot perform RN assessment and judgment, whatever the census.",
+    "Incorrect. Skill mix must match client acuity, not budget alone.",
+    "Correct. Shortages raise stress and adverse events such as errors and falls."
+   ],
+   "rationale": "Staffing evidence shows that both the number of nurses and their education directly affect morbidity, mortality, and cost. Staffing is measured by nurse-to-patient ratio or nursing hours per patient day. Shortages driven by retirements, specialty demand, and burnout raise stress and adverse events. Replacing RNs with UAP when census is low is tempting because it saves salary, but UAP cannot assess or use nursing judgment. Skill mix must be matched to client acuity, not set by budget alone.",
+   "takeaway": "Nurse numbers and education both affect outcomes, so match skill mix to acuity.",
+   "hintContent": "What does research link to patient deaths and complications?",
+   "hintStrategy": "Keep statements tied to outcome evidence; drop ones that put budget ahead of acuity.",
+   "ref": "Module 39 · Managing Care · Concept of Managing Care · pp. 2624",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
   }
  ]
 }
