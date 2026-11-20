@@ -1,0 +1,945 @@
+{
+ "moduleId": "m44",
+ "moduleNumber": 44,
+ "moduleTitle": "Ethics",
+ "kind": "guide",
+ "topics": [
+  {
+   "id": "ethical-dilemmas",
+   "title": "Ethical Dilemmas: Bioethics & Lifespan",
+   "exemplar": "44.B Ethical Dilemmas",
+   "summary": "Learn why ethical dilemmas arise, how the big bioethical issues play out at the bedside, and how dilemmas change from infancy to old age.",
+   "objectives": [
+    "You can define an ethical dilemma and name the principles in conflict.",
+    "You can explain how technology, social change, and conflicting loyalties create dilemmas.",
+    "You can apply ethics to HIV, genetic testing, organ donation, and end-of-life care.",
+    "You can tell brain death from a vegetative state, and double effect from euthanasia.",
+    "You can name the dilemmas of each life stage, including CAPTA and teen confidentiality."
+   ],
+   "bigPicture": "<p>Some problems have a clear right answer. An ethical dilemma does not. Two good things pull in opposite directions, like a client’s right to choose and your duty to keep them safe. Whatever you do, something of value is lost.</p><p>This lesson shows where dilemmas come from and how they look across the life span. You will not memorize one “right” answer. You will learn a steady way to act. Put the client first, know the law, use the team, and document. That is what the NCLEX rewards.</p>",
+   "recap": [
+    "An ethical dilemma is a conflict between two or more rights, values, or duties with no easy or perfect answer.",
+    "Technology, social change, and conflicting loyalties make dilemmas more common.",
+    "The nurse’s primary commitment is to the client, even when family, colleagues, or policy disagree.",
+    "HIV and genetic results are private. Share them only with consent or as the law requires.",
+    "Brain death is legal death. A persistent vegetative state is not.",
+    "Giving enough opioid to relieve pain at the end of life is ethical when the intent is relief (double effect).",
+    "Parents decide for children within limits; teens get some private care; older adults keep autonomy unless they lack capacity.",
+    "When conflict will not resolve, call the ethics committee."
+   ],
+   "keyTerms": [
+    {
+     "term": "Ethical dilemma",
+     "def": "A situation where two or more rights, values, obligations, or responsibilities conflict, and no easy or perfect answer exists."
+    },
+    {
+     "term": "Conflicting loyalties",
+     "def": "Pulls between duties to the client, family, colleagues, and employer. The client comes first."
+    },
+    {
+     "term": "Bioethics",
+     "def": "Ethics applied to health care, the life sciences, and new medical technology."
+    },
+    {
+     "term": "Opt-out HIV screening",
+     "def": "Routine HIV testing after the client is told about it, unless the client says no. The CDC recommends it for ages 13 to 64."
+    },
+    {
+     "term": "GINA",
+     "def": "Genetic Information Nondiscrimination Act (2008). Bars health insurers and employers with 15 or more workers from using genetic information against people."
+    },
+    {
+     "term": "UAGA",
+     "def": "Uniform Anatomical Gift Act. A model state law on how people give organs and tissues after death and who may authorize the gift."
+    },
+    {
+     "term": "OPTN",
+     "def": "Organ Procurement and Transplantation Network. The national system that matches donated organs with people who are waiting."
+    },
+    {
+     "term": "OPO",
+     "def": "Organ procurement organization. The regional agency the hospital must call about every death or imminent death. Its trained staff talk with families."
+    },
+    {
+     "term": "Brain death",
+     "def": "Permanent loss of all brain function, including the brainstem. It is legal death."
+    },
+    {
+     "term": "Persistent vegetative state",
+     "def": "Awake but unaware. The brainstem still works, and the person is alive."
+    },
+    {
+     "term": "DNR order",
+     "def": "A provider’s order not to start CPR if the heart or breathing stops. All other care continues."
+    },
+    {
+     "term": "Principle of double effect",
+     "def": "An act with a good and a bad effect is allowed if you intend only the good one and the good outweighs the bad."
+    },
+    {
+     "term": "Palliative sedation",
+     "def": "Medicine that lowers awareness to relieve severe suffering that nothing else relieves, near death. The goal is comfort, not death."
+    },
+    {
+     "term": "Medical aid in dying",
+     "def": "A capable adult with a terminal illness takes a prescribed lethal drug themself. Legal only in some states, not North Carolina."
+    },
+    {
+     "term": "CAPTA",
+     "def": "Child Abuse Prevention and Treatment Act (1974). Federal law that funds state child-protection systems and sets a minimum definition of abuse and neglect."
+    },
+    {
+     "term": "Fetal protection laws",
+     "def": "Laws that treat certain harm to a fetus as a crime or a child-protection issue."
+    },
+    {
+     "term": "Capacity vs competency",
+     "def": "Capacity is a clinical judgment that a person can make one specific decision. Competency is a legal ruling made by a court."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "What is an ethical dilemma?",
+     "keyIdea": "A dilemma is a clash between two rights or duties, so every option costs something; your job is a reasoned, client-centered choice.",
+     "body": "<p>An <b>ethical dilemma</b> is a situation where two or more rights, values, obligations, or responsibilities conflict. No “easy” or “perfect” answer exists. Each choice protects one value and gives up part of another.</p><p>Most dilemmas pit two principles against each other. The classic pair is <b>autonomy vs beneficence</b>. That is the client’s right to choose vs your duty to do good. Others are veracity vs a family’s wishes, or justice vs one client’s needs.</p><p>Your study guide adds a test. A true dilemma meets four criteria, including real freedom to choose. If a law or clear standard decides the action, it is not a dilemma. The Exemplar 44.A Morality lesson teaches the four criteria.</p><p>The course “Letter to Students” lists dilemmas you will meet in practice:</p>",
+     "bullets": [
+      "Supporting a client or family through a “do not resuscitate” decision.",
+      "Deciding to stop life support for a client who cannot survive (the letter says “nonviable”).",
+      "Organ donation decisions.",
+      "A suicidal or homicidal client who confides in no one else.",
+      "A health care provider who is impaired by chemicals or something else."
+     ],
+     "example": "A capable client with heart failure wants to go home, though he may die sooner. Respecting his choice (autonomy) and keeping him alive (beneficence) are both right. That is a dilemma.",
+     "check": {
+      "q": "A client tells you he plans to kill his ex-wife and asks you to keep it secret. Is this a true dilemma?",
+      "a": "No. It feels like privacy vs safety, but the duty to protect decides. Do not promise secrecy. Tell the provider and team right away so they can act to protect her."
+     }
+    },
+    {
+     "heading": "Why are dilemmas more common now?",
+     "keyIdea": "New technology, changing social values, and divided loyalties create choices that earlier nurses never faced.",
+     "body": "<p>Your course names three forces. <b>Technologic changes</b> let us keep bodies alive longer and move health data faster. <b>Social changes</b> shift what people believe about life, quality of life, and acceptable treatments. <b>Conflicting loyalties</b> pull the nurse between the client, the family, colleagues, and the employer.</p><p>Knowing the source helps you name the conflict.</p><p>Marijuana is a good example of social change. Many states now allow medical or recreational use, but federal law still controls it. In 2026, state-licensed medical marijuana moved to federal Schedule III. Recreational marijuana stays in Schedule I. State laws differ, so follow your facility’s policy on use during care.</p>",
+     "table": {
+      "headers": [
+       "Force",
+       "Example from your course",
+       "What the nurse does"
+      ],
+      "rows": [
+       [
+        "Technology: devices that prolong life",
+        "Ventilators, dialysis, and feeding tubes keep organs working after recovery is impossible",
+        "Ask about goals of care and advance directives early; involve palliative care"
+       ],
+       [
+        "Technology: communication tools",
+        "Phones, photos, texting, and social media spread information fast, creating privacy concerns",
+        "Never photograph or post about clients; use only approved, secure tools"
+       ],
+       [
+        "Technology: electronic health records (EHRs)",
+        "Many people can open a chart with one click, which pressures confidentiality",
+        "Open only the charts you need for care; log off; report breaches"
+       ],
+       [
+        "Social: definition of life",
+        "Debate on when life begins and ends, such as embryos and brain death",
+        "Give care without judgment; follow law and policy"
+       ],
+       [
+        "Social: quality of life",
+        "Who decides if a life with severe illness is worth extending?",
+        "The client’s own view of quality counts most"
+       ],
+       [
+        "Social: complementary and alternative therapies",
+        "Herbs, supplements, or a remedy used instead of proven treatment",
+        "Ask about all therapies without judgment; check interactions; respect informed choices"
+       ],
+       [
+        "Social: medical and recreational marijuana",
+        "Wider acceptance, but laws differ by state and from federal law",
+        "Assess use honestly and without judgment; follow policy"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A nurse notices a coworker opening the chart of a famous client she is not caring for. Which force behind dilemmas does this show?",
+      "a": "Technologic change. EHRs make charts easy to open, which pressures confidentiality. It is also a privacy breach to report."
+     }
+    },
+    {
+     "heading": "Conflicting loyalties: who comes first?",
+     "keyIdea": "Your primary commitment is to the client; family, colleagues, and policy matter, but they do not outrank the client’s needs and wishes.",
+     "body": "<p>A nurse owes duties to many people. These include the client, the family, the provider, the employer, and yourself. ANA Code Provision 2 settles the order. The nurse’s <b>primary commitment is to the client</b>.</p><p>Loyalty conflicts show up in three common ways. Families may disagree with what the client wants. A colleague may make a choice you think is unsafe. A policy may seem to block what the client needs.</p><p>Putting the client first does not mean ignoring others. It means you advocate through proper channels. Talk with the person, use the chain of command, and call the ethics committee when conflict persists.</p>",
+     "table": {
+      "headers": [
+       "Conflict",
+       "Example",
+       "Nurse’s response"
+      ],
+      "rows": [
+       [
+        "Family vs client",
+        "A capable client wants hospice; his daughter demands “everything.”",
+        "Support the client’s choice; listen to the daughter’s fear; ask for a family meeting"
+       ],
+       [
+        "Colleague vs client",
+        "A provider orders a dose you believe is unsafe.",
+        "Hold it, clarify with the provider, and go up the chain of command if needed"
+       ],
+       [
+        "Organization vs client",
+        "A policy limits visitors, but a dying client wants his family.",
+        "Ask the charge nurse or manager about an exception; document"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A client’s wife asks you not to tell him about his new cancer diagnosis. Whose wishes guide you?",
+      "a": "The client’s. Acknowledge her fear, but do not agree to deceive him. Ask him how much he wants to know, and let the provider share the results."
+     }
+    },
+    {
+     "heading": "HIV and genetic testing: whose information?",
+     "keyIdea": "HIV status and genetic results belong to the client; test with consent, guard privacy, and never let results lead to unequal care.",
+     "body": "<p><b>HIV and AIDS</b> raise dilemmas about testing, privacy, and the duty to care. The CDC recommends routine <b>opt-out</b> HIV screening for ages 13 to 64. The client is told the test will be done and may say no. State consent rules differ. Results are private, but HIV is reportable to public health in every state.</p><p>A nurse may not refuse to care for a client because of HIV. Standard precautions protect you.</p><p><b>Genetic testing</b> shows risks that may affect the client and blood relatives. Clients may choose not to know. Results can shape decisions about having children. Testing children for adult-onset diseases is usually delayed until adulthood unless early care helps.</p><p>The <b>Genetic Information Nondiscrimination Act (GINA, 2008)</b> bars health insurers and employers with 15 or more workers from using genetic information against people. It does <b>not</b> cover life, disability, or long-term care insurance.</p>",
+     "bullets": [
+      "<b>HIV:</b> encourage the client to tell partners. The health department can help notify them without naming the client.",
+      "<b>HIV exposure at work:</b> report a needlestick at once. Post-exposure medicine (PEP) works best when started within hours.",
+      "<b>Genetic:</b> make sure the client gets genetic counseling before and after testing.",
+      "<b>Genetic:</b> urge, but do not force, sharing results with relatives who may be at risk.",
+      "<b>Genetic:</b> stay neutral on decisions about pregnancy. Your values stay out."
+     ],
+     "example": "A woman tests positive for a BRCA1 variant, which raises breast cancer risk. She says, “Don’t tell my sister.” The nurse keeps the result private. She explains that her sister could benefit from knowing and offers the genetic counselor’s help in telling her."
+    },
+    {
+     "heading": "Organ donation: who decides, and when?",
+     "keyIdea": "Death must be declared before organs are taken; a trained requester, not the bedside nurse, asks the family; organs go by medical need.",
+     "body": "<p><b>Organ transplantation</b> saves lives, but organs are scarce. That raises justice questions about who gets them. It also raises pressure questions about who gives them.</p><p>The <b>Uniform Anatomical Gift Act (UAGA)</b> is a model law adopted by the states. It lets adults choose donation, such as on a driver’s license or donor registry. Under its 2006 revision, family cannot override a person’s own recorded choice to donate. If there is no choice on record, family members in a legal order of priority may decide.</p><p>Hospitals must notify the <b>organ procurement organization (OPO)</b> of every death or imminent death. The OPO or a specially trained requester talks with the family. The <b>OPTN</b> matches organs by medical factors such as blood type, size, urgency, and waiting time, not by wealth or fame. Federal law bans buying or selling organs.</p>",
+     "table": {
+      "headers": [
+       "Feature",
+       "Brain death",
+       "Persistent vegetative state"
+      ],
+      "rows": [
+       [
+        "Brain function",
+        "All brain function, including the brainstem, is gone for good",
+        "Brainstem works; the parts of the brain for awareness are badly damaged"
+       ],
+       [
+        "Breathing",
+        "No breathing without a ventilator; fails the apnea test",
+        "Often breathes without a ventilator"
+       ],
+       [
+        "Eyes and sleep",
+        "No response and no brainstem reflexes",
+        "Eyes open, sleep-wake cycles, but no awareness"
+       ],
+       [
+        "Legal status",
+        "Legal death; time of death is when brain death is declared",
+        "Alive; stopping treatment follows the client’s wishes or a surrogate’s decision"
+       ],
+       [
+        "Donation",
+        "Donation after brain death is possible",
+        "Only after a separate decision to stop life support; then donation after circulatory death may be possible"
+       ]
+      ]
+     },
+     "bullets": [
+      "Say “brain death,” not “the machine is keeping him alive.” A brain-dead person has died.",
+      "The team that declares death is separate from the transplant team.",
+      "Living donors must give free, informed consent with no pressure and no payment."
+     ]
+    },
+    {
+     "heading": "End-of-life choices: what is allowed?",
+     "keyIdea": "Relieving suffering is always allowed, even if death may come sooner; intentionally causing death is not, and assisted death depends on state law.",
+     "body": "<p><b>End-of-life issues</b> are the dilemmas nurses meet most. A capable client may refuse or stop any treatment. So may a surrogate using the client’s wishes. Stopping a treatment and never starting it are ethically the same.</p><p>A <b>DNR (do not resuscitate) order</b> means no CPR if the heart or breathing stops. Some facilities call it “allow natural death” (AND). DNR does not mean “do not treat.” Pain relief, antibiotics, and nursing care continue unless the client declines them. A fake or “slow” code is never acceptable.</p><p>The <b>principle of double effect</b> explains why strong opioids are ethical at the end of life. Carefully titrated (slowly adjusted) opioids rarely shorten life. The ANA supports giving enough to relieve suffering. The ANA also says nurses must not give an aid-in-dying drug, but they must not abandon the client.</p><p>Your course handout “A Verbatim Account of Ethical Dilemma” shows double effect at the bedside. It is taught as the worked case “Joe’s pain at the end of life” in the Exemplar 44.A Morality lesson.</p>",
+     "steps": [
+      "The act itself is good or neutral, such as giving an ordered pain medicine.",
+      "You intend only the good effect (relief), not the bad one (death).",
+      "The bad effect is not the way the good effect is reached. Death is not how pain is relieved.",
+      "The good outweighs the risk, as with severe pain in a dying client."
+     ],
+     "table": {
+      "headers": [
+       "Act",
+       "What it is",
+       "Legal in the U.S.?"
+      ],
+      "rows": [
+       [
+        "Withholding or withdrawing treatment",
+        "Not starting, or stopping, a treatment the client refuses",
+        "Yes, with the client’s or surrogate’s informed decision"
+       ],
+       [
+        "Palliative sedation",
+        "Lowering awareness to relieve suffering that nothing else relieves, near death",
+        "Yes; the dose is matched to the symptoms"
+       ],
+       [
+        "Medical aid in dying",
+        "A capable, terminally ill adult takes a prescribed lethal drug themself",
+        "Only in about a dozen states and Washington, D.C.; not in North Carolina"
+       ],
+       [
+        "Euthanasia",
+        "Another person gives a drug to cause death",
+        "No; illegal in every state"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "Infants and children: who decides?",
+     "keyIdea": "Parents usually decide for children, but when a choice threatens the child’s life or safety, the child’s best interest and the law come first.",
+     "body": "<p>Parents have the right to make health decisions for their children. That right has limits. When a parent’s choice puts the child at serious risk, the <b>best interest of the child</b> wins. Courts can order life-saving care, such as a blood transfusion that parents refuse for religious reasons.</p><p>The <b>Child Abuse Prevention and Treatment Act (CAPTA)</b> is a federal law first passed in 1974. It gives states money for child-protection systems that meet federal rules, such as ways to report and investigate abuse. It sets a minimum definition of abuse and neglect. Its 1984 “Baby Doe” amendments made withholding medically needed treatment from disabled infants a form of medical neglect.</p><p>The <b>Organ Procurement and Transplantation Network</b> also writes organ rules for children. Parents decide about donating a child’s organs after death.</p>",
+     "bullets": [
+      "<b>CAPTA’s minimum definition:</b> a recent act or failure to act by a parent or caretaker that causes death, serious physical or emotional harm, sexual abuse, or exploitation, or creates an imminent risk of serious harm.",
+      "<b>Baby Doe exceptions:</b> treatment is not required if the infant is chronically and irreversibly comatose, if it would only prolong dying, or if it would be virtually futile and inhumane. Food, fluids, and medicine for comfort still continue.",
+      "<b>Plans of safe care:</b> later CAPTA amendments require them for infants affected by prenatal substance exposure.",
+      "<b>Assent:</b> explain care to a school-age child in words they understand and ask for agreement, even when parents give consent.",
+      "<b>Suspected abuse is not a dilemma:</b> the law requires a report."
+     ],
+     "check": {
+      "q": "Parents refuse a blood transfusion for their 6-year-old after a car crash. Her hemoglobin is falling fast. What does the nurse do?",
+      "a": "Notify the provider at once. Life-saving care for a child can go ahead through emergency policy or a court order. Stay respectful and supportive with the parents."
+     }
+    },
+    {
+     "heading": "Teens and pregnant clients: whose rights?",
+     "keyIdea": "Teens may consent to some sensitive care and deserve privacy within safety limits; a capable pregnant client decides about her own body.",
+     "body": "<p><b>Adolescents.</b> Consent laws vary by state. Many states let minors consent alone to sexual health care, mental health care, and substance use treatment. Teens avoid care if they fear their parents will find out. Keep their confidences when the law allows. Tell them the limits at the start. Abuse, or a risk of suicide or of harming others, must be shared.</p><p><b>Pregnant clients.</b> The nurse balances maternal and fetal rights and cares for both. ACOG, the national group of obstetricians, holds that a capable pregnant client may refuse treatment, even if the fetus could benefit. Forced treatment is discouraged. When the mother’s life is at risk, as with severe preeclampsia or an ectopic pregnancy, saving her may end the pregnancy. Those cases raise hard legal and ethical questions.</p><p><b>Fetal protection laws</b> treat some harm to a fetus as a crime. One example is the federal Unborn Victims of Violence Act (2004). Some states treat drug use in pregnancy as a child-protection issue. Abortion laws vary by state since the 2022 Dobbs ruling.</p>",
+     "bullets": [
+      "See the teen alone for part of every visit.",
+      "Promise only the privacy you can keep.",
+      "If a pregnant client refuses care, explore her fears, make sure the provider explained the risks, and document. Involve the ethics committee if needed.",
+      "A nurse may ask ahead of time not to assist with abortions for moral reasons. The nurse must still give emergency care and never abandon a client."
+     ]
+    },
+    {
+     "heading": "Older adults: autonomy or safety?",
+     "keyIdea": "Age is not incapacity; presume an older adult can decide, assess capacity for the specific choice, and remove barriers to informed consent.",
+     "body": "<p>Older adults face <b>end-of-life decisions</b> more often. These include CPR, feeding tubes, hospice, or moving to a facility. Ask about advance directives and a health care agent early, while the client can speak for themself.</p><p><b>Autonomy vs competency.</b> <b>Capacity</b> is a clinical judgment that a person can understand, reason, and choose for one decision. <b>Competency</b> is a legal ruling made by a court. Only a court can find someone incompetent and appoint a guardian. Capacity can come and go, as with delirium.</p><p><b>Informed consent challenges</b> include poor hearing or vision, low health literacy, delirium, and dementia. Drowsy-making medicines and families who answer for the client also get in the way. Each can hide what the client truly wants.</p>",
+     "steps": [
+      "Make sure hearing aids and glasses are in place.",
+      "Use a quiet room, plain words, large print, and extra time.",
+      "Pick the client’s best time of day. Avoid the time right after sedating drugs.",
+      "Use teach-back: “Tell me in your own words what the surgery will do.”",
+      "Speak to the client, not the family. Use a qualified interpreter if needed.",
+      "If capacity seems lacking, tell the provider. A surrogate then decides using the client’s wishes."
+     ],
+     "check": {
+      "q": "An 84-year-old with mild dementia refuses a feeding tube. Her son says, “She doesn’t know what she’s saying.” What does the nurse do?",
+      "a": "Do not assume she lacks capacity. Ask the provider to assess her capacity for this decision. If she understands the choice and its results, her refusal stands."
+     }
+    },
+    {
+     "heading": "Common traps: look-alikes to tell apart",
+     "keyIdea": "Separate true dilemmas from legal duties, intent to relieve from intent to kill, and brain death from a vegetative state.",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart",
+       "Clue in the stem"
+      ],
+      "rows": [
+       [
+        "Ethical dilemma vs legal duty",
+        "Two rights clash and you are free to choose vs the law decides",
+        "Abuse or a threat to harm someone must be reported"
+       ],
+       [
+        "Ethical dilemma vs moral distress",
+        "Two right choices in conflict vs knowing what is right but feeling blocked",
+        "“Torn between” vs “powerless”"
+       ],
+       [
+        "Double effect vs euthanasia",
+        "Intent is relief and the dose fits the symptoms vs intent is death",
+        "“Titrated to comfort” vs “give enough to end it”"
+       ],
+       [
+        "Brain death vs vegetative state",
+        "Legal death vs alive, awake, but unaware",
+        "Failed apnea test vs eyes open, sleep-wake cycles"
+       ],
+       [
+        "Capacity vs competency",
+        "Clinical and decision-specific vs a legal ruling by a court",
+        "Provider assesses vs judge appoints a guardian"
+       ],
+       [
+        "Withholding vs withdrawing",
+        "Ethically the same",
+        "Stopping a ventilator is not worse than never starting it"
+       ],
+       [
+        "DNR vs do not treat",
+        "No CPR only vs stopping all care",
+        "DNR clients still get pain medicine, antibiotics, and care"
+       ],
+       [
+        "Who asks about organ donation?",
+        "The OPO or a trained requester, not the bedside nurse alone",
+        "Notify the OPO; do not raise donation on your own"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Pick the answer that protects the client’s own wishes and comfort, uses the right channel, and avoids false reassurance.",
+     "body": "<p><b>Sample:</b> A client with end-stage lung cancer has a DNR order. She gets IV morphine for comfort. She rates her pain 9/10. Her respiratory rate is 14 per minute. Her daughter says, “Don’t give her more. I don’t want it to be what kills her.” Which response by the nurse is best?</p><p>A. “I’ll hold the dose until her breathing is stronger.”<br>B. “The dose is safe. There is nothing to worry about.”<br>C. “Her comfort is the goal. I give small doses and watch her breathing closely. What worries you most?”<br>D. “I’ll ask the provider to stop the morphine since you’re worried.”</p>",
+     "steps": [
+      "Read the stem: a dying client with a DNR order, severe pain, and a fearful daughter.",
+      "What is it asking? The best response, so think therapeutic and ethical at once.",
+      "Key cues: comfort is the goal, pain is 9/10, and a breathing rate of 14 is not a reason to hold.",
+      "A is wrong: it leaves her in pain without a safety reason.",
+      "B is wrong: it is false reassurance and brushes off the daughter’s fear.",
+      "D is wrong: it lets family override the client’s comfort.",
+      "The answer is C. It states the intent (relief), shows safe monitoring, and opens the daughter’s feelings.",
+      "Strategy: the client’s comfort and wishes come first; then support the family."
+     ],
+     "bullets": [
+      "“Which is a true dilemma?” Rule out anything a law decides.",
+      "“Who comes first?” The client.",
+      "“Family says the brain-dead client is alive on the machine.” Teach gently that brain death is death."
+     ]
+    },
+    {
+     "heading": "Worked case: Marcus, brain death, and donation",
+     "keyIdea": "Teach that brain death is death, support the grieving family, and let the OPO handle the donation talk; a registered donor’s own choice stands.",
+     "body": "<p>Marcus, 19, had a severe head injury in a motorcycle crash. Today the team confirms brain death. The time of death is recorded. His driver’s license shows he registered as an organ donor.</p><p>His father wants to honor that choice. His mother says, “His heart is beating and he’s warm. He’s still alive. Nobody touches him.” She asks you, “Why are you still giving him medicine if he’s dead?”</p>",
+     "steps": [
+      "<b>Name the conflict:</b> loyalty pulls between the parents, plus Marcus’s own autonomy, shown by his registration. Grief, not bad intent, drives his mother.",
+      "<b>Teach brain death simply:</b> “Marcus’s whole brain, including the part that controls breathing, has stopped working for good. The machine moves air. That means he has died.”",
+      "<b>Avoid mixed messages:</b> do not say “life support is keeping him alive.”",
+      "<b>Explain the care honestly:</b> fluids and medicines keep his organs working while the family and the OPO talk. Marcus feels no pain.",
+      "<b>Use the right channel:</b> the hospital called the OPO when death was near. A trained OPO coordinator, not the bedside nurse alone, talks with the family about donation.",
+      "<b>Know the law:</b> under the UAGA, Marcus’s own registered choice is valid, and family cannot override it. The OPO shares this with care and compassion.",
+      "<b>Support the family:</b> offer the chaplain, privacy, and time to say goodbye. Call the ethics committee if conflict grows.",
+      "<b>Evaluate:</b> both parents understand that Marcus has died, feel heard, and know what happens next. Document teaching and who was present."
+     ],
+     "check": {
+      "q": "Why not just tell the mother, “His registration means you have no say”?",
+      "a": "It may be legally true, but it is harsh and adds to her grief. Teach her about brain death, support her, and let the trained OPO coordinator explain the donation law."
+     }
+    },
+    {
+     "heading": "North Carolina practice note",
+     "keyIdea": "NC law sets the advance directive forms, which care minors may consent to alone, and who must report abuse to county DSS.",
+     "bullets": [
+      "<b>Advance directives:</b> Health Care Power of Attorney (G.S. Chapter 32A, Article 3) names an agent. The Declaration of a Desire for a Natural Death is the living will (G.S. 90-321).",
+      "<b>MOST</b> (Medical Orders for Scope of Treatment) is NC’s portable medical order form.",
+      "<b>Medical aid in dying</b> is not legal in North Carolina. Euthanasia is illegal in every state.",
+      "<b>Minor consent (G.S. 90-21.5):</b> a minor may consent to care for STIs and other reportable diseases, pregnancy (not sterilization or abortion), substance or alcohol abuse, and emotional disturbance.",
+      "Emancipated minors may consent. The age of majority is 18.",
+      "<b>Child maltreatment:</b> NC is a universal reporting state (G.S. 7B-301). Anyone who suspects abuse, neglect, or dependency of a juvenile under 18 reports to the county DSS director. Do not wait for proof. Good-faith reporters are immune.",
+      "<b>Disabled adults:</b> anyone with reasonable cause to believe a disabled adult needs protective services reports to county DSS (G.S. 108A-102).",
+      "<b>NCBON:</b> confidentiality breaches, such as sharing HIV or genetic results, are conduct issues reported to the Board."
+     ]
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "bullets": [
+      "Source: Ethics PowerPoint (Module 44), slides 12–16. Slide 12 title; slide 13 definition; slide 14 contributing factors; slide 15 bioethical issues; slide 16 dilemmas across the lifespan.",
+      "Handouts: “A Verbatim Account of Ethical Dilemma: Administration of Pain Medication” (Chitty, 2005, pp. 546–547) is cross-referenced in the end-of-life section; its full worked case lives in the Exemplar 44.A Morality lesson. “Ethics Letter to Students” (Sandra H. Carr): its dilemma examples appear in the first section.",
+      "Module 44 study guide: it covers Outcomes 44.1–44.5 and Exemplar 44.A but has no pages for Exemplar 44.B. Related items used here: moral dilemma definition (p. 2), the four dilemma criteria (pp. 6–7), the vulnerable populations Safety Alert (p. 6), and advance directives (p. 5).",
+      "Your course materials say “Organ Transplant & Procurement Network.” Current standard: the official name is the Organ Procurement and Transplantation Network (OPTN). On a course exam expect the slide wording; on the NCLEX, OPTN.",
+      "Your course materials say “autonomy vs competency.” Current standard: clinicians judge capacity for a decision; only a court rules on competency. On a course exam expect “competency”; on the NCLEX, know both.",
+      "Your course materials say there is “increased acceptance of medical & recreational marijuana.” Current standard: as of April 2026, state-licensed medical marijuana is federal Schedule III, and recreational marijuana stays Schedule I.",
+      "Some experts now call the persistent vegetative state “unresponsive wakefulness syndrome.” The NCLEX uses persistent vegetative state.",
+      "Medical aid in dying was once called physician-assisted suicide. The list of states keeps growing; it was about a dozen states plus D.C. in 2026.",
+      "Background not on the slides was added to teach each bullet (HIV screening, GINA, UAGA, OPOs, brain death, DNR, double effect, CAPTA details, ACOG). The Marcus case and the NCLEX sample are original."
+     ]
+    }
+   ],
+   "mnemonics": [
+    {
+     "name": "Dilemma sources: “Tech, Talk, Ties”",
+     "text": "Tech = technologic changes. Talk = social changes in what society debates. Ties = conflicting loyalties to client, family, colleagues, and employer."
+    },
+    {
+     "name": "Double effect: “AIMS”",
+     "text": "Act is good or neutral. Intent is relief only. Means: death is not how relief happens. Scale: the good outweighs the bad."
+    }
+   ],
+   "pearls": [
+    "“No perfect answer” is the definition of a dilemma, not a reason to avoid acting.",
+    "A DNR client still gets full nursing care, including pain relief.",
+    "Undertreating pain at the end of life is a more common ethical failure than hastening death.",
+    "Never raise organ donation with a family on your own. Notify the OPO and let the trained requester ask."
+   ],
+   "redFlags": [
+    "A family member asking you to hide a diagnosis or override a capable client’s wishes.",
+    "Pressure or payment offered to a living organ donor.",
+    "Any request to give a dose “to end it.”",
+    "Sharing a teen’s confidential test result with parents when the law protects it, without the teen’s consent."
+   ],
+   "checks": [
+    {
+     "q": "A brain-dead client’s mother says, “He’s on life support, so he’s still alive, right?” What is the best response?",
+     "a": "Gently explain that brain death is death. The machine moves air, but his whole brain has stopped working for good. Offer support, such as the chaplain."
+    },
+    {
+     "q": "A client’s genetic test shows Huntington disease. He fears his employer will find out. What protects him?",
+     "a": "His result is private. Under GINA, employers with 15 or more workers may not use genetic information in job decisions. GINA does not cover life, disability, or long-term care insurance."
+    },
+    {
+     "q": "A 16-year-old asks for an STI test and begs the nurse not to tell her parents. What does the nurse do?",
+     "a": "In most states, including NC, minors may consent to STI care. Keep her confidence, explain the limits (abuse or danger), and encourage a trusted adult."
+    },
+    {
+     "q": "Which is euthanasia: stopping dialysis at the client’s request, palliative sedation for refractory delirium, or a nurse giving a drug to stop the heart?",
+     "a": "A nurse giving a drug to stop the heart. It intends death and is illegal in every state. The other two are legal end-of-life care."
+    },
+    {
+     "q": "A nurse asks not to care for a client with HIV because she fears infection. Is this ethical?",
+     "a": "No. Refusing care because of a diagnosis is discrimination. Standard precautions protect her. She should seek education and support."
+    }
+   ]
+  },
+  {
+   "id": "patient-rights",
+   "title": "Patient Rights: Laws, Consent & Lifespan",
+   "exemplar": "44.C Patient Rights",
+   "summary": "Learn the rights every client holds, the laws and policies that protect them, the client’s own responsibilities, and how rights change from childhood to old age.",
+   "objectives": [
+    "You can define patient rights and name their three core principles.",
+    "You can describe informed consent, the PSDA, and advance directives.",
+    "You can match a client situation to the law or policy that protects it.",
+    "You can explain the Patient Care Partnership and list client responsibilities.",
+    "You can apply rights for children, teens, pregnant clients, and older adults."
+   ],
+   "bigPicture": "<p>Patient rights are the basic rights owed to every client by health care providers and the government. They turn ethics into rules. Autonomy becomes informed consent. Privacy becomes HIPAA. Fairness becomes laws that protect access to emergency care.</p><p>The nurse often makes these rights real. You give clients their rights at admission. You notice when a client does not understand a consent form. You speak up when a right is ignored. On the NCLEX, the best answer protects the client’s rights and keeps them safe.</p>",
+   "recap": [
+    "Patient rights rest on respect, dignity, and autonomy; access to safe, quality care; and protection under law and policy.",
+    "Informed consent needs information, capacity, and free choice. The provider explains; the nurse usually witnesses.",
+    "The PSDA requires facilities to tell adults their right to make decisions and create advance directives, and to ask if they have one.",
+    "Federal rules (CMS, HIPAA, EMTALA), state laws, and facility policies all protect rights.",
+    "The AHA’s Patient Care Partnership replaced its Patient’s Bill of Rights in 2003.",
+    "Clients have responsibilities too, such as giving accurate information and asking questions.",
+    "Children get family-centered care; teens get confidential care within limits; pregnant clients choose their care; older adults have CMS protections."
+   ],
+   "keyTerms": [
+    {
+     "term": "Patient rights",
+     "def": "Basic rights owed to clients by health care providers and the government."
+    },
+    {
+     "term": "Informed consent",
+     "def": "A capable client’s free agreement after learning the purpose, risks, benefits, and alternatives of a treatment."
+    },
+    {
+     "term": "Patient Self-Determination Act (PSDA)",
+     "def": "A 1990 federal law. Facilities paid by Medicare or Medicaid must tell adults their rights to make care decisions and create advance directives."
+    },
+    {
+     "term": "Advance directive",
+     "def": "A written statement of care wishes or a named decision-maker, used if the client cannot speak for themself."
+    },
+    {
+     "term": "Living will",
+     "def": "An advance directive listing which life-prolonging treatments the client wants or refuses."
+    },
+    {
+     "term": "Health care power of attorney",
+     "def": "An advance directive that names an agent to make health decisions when the client cannot."
+    },
+    {
+     "term": "Patient Care Partnership",
+     "def": "The American Hospital Association’s 2003 plain-language guide to what clients can expect in a hospital. It replaced the Patient’s Bill of Rights."
+    },
+    {
+     "term": "Patient responsibilities",
+     "def": "What clients owe in return, such as accurate health information, asking questions, and respecting others."
+    },
+    {
+     "term": "CMS",
+     "def": "Centers for Medicare & Medicaid Services. The federal agency whose rules facilities must follow to be paid by Medicare and Medicaid."
+    },
+    {
+     "term": "EMTALA",
+     "def": "A 1986 federal law. Hospital EDs must screen and stabilize anyone with an emergency, whether or not they can pay."
+    },
+    {
+     "term": "HIPAA Privacy Rule",
+     "def": "Federal rule that protects identifiable health information and gives clients the right to see and get copies of their records."
+    },
+    {
+     "term": "Grievance",
+     "def": "A formal complaint by a client or family. Hospitals must have a process to resolve it."
+    },
+    {
+     "term": "Family-centered care",
+     "def": "Care that treats the family as the constant in a child’s life and partners with them. Promoted by ACCH."
+    },
+    {
+     "term": "Long-term care ombudsman",
+     "def": "An advocate who helps nursing home and assisted living residents solve complaints and protect their rights."
+    }
+   ],
+   "sections": [
+    {
+     "heading": "What are patient rights?",
+     "keyIdea": "Patient rights are basic rights owed to every client by providers and the government, built on respect, safe care, and legal protection.",
+     "body": "<p>Your course defines <b>patient rights</b> as the basic rights owed to patients by health care providers and the government. They exist because illness makes people vulnerable. A sick, scared client in a gown has less power than the staff around them.</p><p>Rights come from three places. Federal and state <b>laws</b> are one. <b>Payment and accrediting rules</b> are another, such as those of CMS. Each facility’s <b>organizational policies</b> are the third.</p><p>Your course groups the core principles into three. They are listed below.</p>",
+     "bullets": [
+      "<b>Respect, dignity, and autonomy:</b> the client is treated as a person and makes their own decisions.",
+      "<b>Access to safe, quality care:</b> competent care in a safe setting, free from abuse and neglect.",
+      "<b>Protection under law and organizational policies:</b> rights can be enforced, with ways to complain and be heard."
+     ],
+     "check": {
+      "q": "A client says, “I don’t want students in my room.” Is this a right?",
+      "a": "Yes. Clients may refuse to have students take part in their care. Respect it, tell the instructor and charge nurse, and arrange other care."
+     }
+    },
+    {
+     "heading": "Informed consent: the right to decide",
+     "keyIdea": "Consent is valid only when a capable client gets full information and chooses freely; the provider explains, and the nurse checks understanding.",
+     "body": "<p><b>Informed consent</b> protects autonomy. Before a procedure, the client must learn what will be done and why. They must hear the risks, benefits, and alternatives, including doing nothing. They must be able to understand, and they must choose freely.</p><p>The <b>provider</b> doing the procedure explains it and obtains consent. The <b>nurse</b> usually witnesses the signature. Witnessing means you saw the client sign. First check that the client understands and is not sedated or pressured. If not, stop and call the provider.</p><p>A client may withdraw consent at any time, even on the way to surgery. The Ethical Principles lesson and the Module 49 consent lesson go deeper.</p>",
+     "table": {
+      "headers": [
+       "Element",
+       "What it means"
+      ],
+      "rows": [
+       [
+        "Disclosure",
+        "Purpose, risks, benefits, alternatives, and who will do it"
+       ],
+       [
+        "Comprehension",
+        "The client can explain it back in their own words"
+       ],
+       [
+        "Capacity",
+        "Able to understand, reason, and choose for this decision"
+       ],
+       [
+        "Voluntary choice",
+        "No threats, rushing, or pressure"
+       ],
+       [
+        "Documentation",
+        "A signed form, plus the interpreter’s name if one was used"
+       ]
+      ]
+     },
+     "bullets": [
+      "<b>Emergency:</b> if delay would threaten life or limb and the client cannot consent, consent is implied.",
+      "<b>Minors:</b> a parent or guardian consents, except where state law lets the minor consent.",
+      "<b>No capacity:</b> the legal surrogate consents, using the client’s known wishes."
+     ]
+    },
+    {
+     "heading": "Advance directives and the PSDA",
+     "keyIdea": "The PSDA requires facilities to explain the right to make advance directives and to ask about them; having one is never required.",
+     "body": "<p>The <b>Patient Self-Determination Act (PSDA)</b> is a federal law passed in 1990. It followed the Supreme Court’s Cruzan case, about a young woman in a persistent vegetative state. It applies to hospitals, nursing homes, home health agencies, hospices, and managed care plans paid by Medicare or Medicaid.</p><p>An <b>advance directive</b> speaks for a client who can no longer speak. A <b>living will</b> lists treatments the client wants or refuses. A <b>health care power of attorney</b> names an agent to decide. A portable medical order form, such as NC’s MOST, turns wishes into orders that travel with the client.</p>",
+     "steps": [
+      "Give adults written information at admission about their rights under state law to accept or refuse treatment and make advance directives.",
+      "Explain the facility’s policies on honoring those rights.",
+      "Ask whether the client has an advance directive, and document the answer in the record.",
+      "Never refuse care or treat a client differently based on whether they have one.",
+      "Educate staff and the community about advance directives."
+     ],
+     "check": {
+      "q": "At admission a client says, “I don’t have one of those directive forms. Do I have to fill one out?” What does the nurse say?",
+      "a": "No. Explain that it is her choice. Offer information and help if she wants it, and document her answer."
+     }
+    },
+    {
+     "heading": "Which laws and policies protect clients?",
+     "keyIdea": "Federal rules, state laws, and facility policies each protect rights; know what each one guarantees so you can spot a violation.",
+     "body": "<p>Your course lists <b>organizational and state protections</b>. Federal law adds a strong layer. Hospitals that take Medicare must follow CMS Conditions of Participation, which include a full set of patients’ rights. State laws cover advance directive forms, minor consent, abuse reporting, and facility licensing.</p><p>Facilities turn these laws into policies. They must have a <b>grievance process</b> to resolve complaints. Many have a patient advocate or patient relations office. Ethics committees help with conflicts. State agencies license facilities and look into complaints.</p>",
+     "table": {
+      "headers": [
+       "Protection",
+       "What it guarantees"
+      ],
+      "rows": [
+       [
+        "CMS hospital patients’ rights",
+        "Notice of rights, a grievance process, a say in the care plan, privacy, a safe setting, and freedom from abuse"
+       ],
+       [
+        "CMS restraint rules",
+        "No restraint or seclusion for coercion, discipline, convenience, or retaliation; only for immediate safety"
+       ],
+       [
+        "HIPAA Privacy Rule",
+        "Private health information; the right to see, copy, and ask to correct one’s records"
+       ],
+       [
+        "EMTALA (1986)",
+        "Emergency screening and stabilizing care, whether or not the client can pay"
+       ],
+       [
+        "PSDA (1990)",
+        "Information on decision rights and advance directives"
+       ],
+       [
+        "Civil rights laws (Title VI; ACA Section 1557)",
+        "No discrimination; free, qualified interpreters for clients with limited English"
+       ],
+       [
+        "Americans with Disabilities Act",
+        "Equal access and reasonable changes, such as sign language interpreters"
+       ]
+      ]
+     },
+     "check": {
+      "q": "A nurse wants to restrain a confused client because the unit is short-staffed. Is this allowed?",
+      "a": "No. Restraint for staff convenience breaks CMS rules. Restraint is only for immediate safety, after less restrictive options fail, with an order and close monitoring."
+     }
+    },
+    {
+     "heading": "The Patient Bill of Rights today",
+     "keyIdea": "The AHA’s 1973 Patient’s Bill of Rights is now the Patient Care Partnership, a plain-language guide to what clients can expect.",
+     "body": "<p>Your course slide names the <b>Patient Bill of Rights</b>. The American Hospital Association (AHA) published “A Patient’s Bill of Rights” in 1973 and revised it in 1992. In 2003 the AHA replaced it with <b>The Patient Care Partnership: Understanding Expectations, Rights and Responsibilities</b>. It uses plain language and is often given at admission.</p><p>The phrase “Patient’s Bill of Rights” also names insurance protections in the 2010 Affordable Care Act. Examples are covering young adults on a parent’s plan until age 26 and no lifetime dollar limits on essential benefits. Many states and facilities post their own bills of rights too.</p><p>The Patient Care Partnership tells clients to expect six things.</p>",
+     "bullets": [
+      "High-quality hospital care.",
+      "A clean and safe environment.",
+      "Involvement in your care.",
+      "Protection of your privacy.",
+      "Help when leaving the hospital.",
+      "Help with your billing claims."
+     ],
+     "example": "At admission, a client asks what “involvement in your care” means. The nurse explains that she can ask about her condition, the risks of treatment, and other options. She can also share her advance directive and choose who helps her decide."
+    },
+    {
+     "heading": "What are the client’s responsibilities?",
+     "keyIdea": "Rights come with responsibilities: clients share accurate information, ask questions, follow the plan they agreed to, and treat others with respect.",
+     "body": "<p>Care is a partnership. The Patient Care Partnership asks clients to share information so the team can keep them safe. Many facilities post a list of <b>patient responsibilities</b> next to the list of rights.</p><p>Responsibilities do not cancel rights. A client who forgets to report a medicine still has every right to safe care. Teaching clients their responsibilities is a nursing action that builds the partnership.</p>",
+     "bullets": [
+      "Give complete, accurate health information: past illnesses, hospital stays, medicines, supplements, and allergies.",
+      "Share any advance directive and who should help make decisions.",
+      "Ask questions and say when they do not understand.",
+      "Follow the care plan they agreed to, or say if they cannot or will not.",
+      "Accept the results of refusing treatment.",
+      "Respect staff, other clients, and property, and follow facility rules.",
+      "Give insurance information and meet financial duties."
+     ],
+     "example": "A client mentions that he stopped his blood thinner last week. That is his responsibility in action. Thank him, notify the provider, and document."
+    },
+    {
+     "heading": "Children and teens: family and privacy",
+     "keyIdea": "Children get family-centered care that keeps parents involved; teens get confidential care for sensitive issues within the law and safety limits.",
+     "body": "<p><b>Infants and children.</b> Your course points to the <b>ACCH guidelines</b>. ACCH is the Association for the Care of Children’s Health. It promoted <b>family-centered care</b> for children in hospitals. It published an early definition of family-centered care and guidelines called “Caring for Children and Families.” Today these ideas guide pediatric nursing as patient- and family-centered care.</p><p><b>Adolescents.</b> Your course cites the <b>American Academy of Family Physicians (AAFP)</b>. The AAFP supports confidential care for consenting teens. This covers sexual and reproductive health, gender identity, substance use, and mental health. Where a teen may legally consent, privacy must be kept. The AAFP also values supportive parents. Teens should hear the limits of privacy up front.</p>",
+     "bullets": [
+      "The family is the constant in a child’s life. Parents are partners, not visitors.",
+      "Share complete, honest information with the family.",
+      "Let parents stay with the child, including during procedures when possible.",
+      "Explain care at the child’s developmental level and ask for assent (the child’s agreement).",
+      "See teens alone for part of the visit. Promise only the privacy you can keep."
+     ],
+     "check": {
+      "q": "A 15-year-old being seen for depression asks, “Will you tell my mom what I say?” What is the best reply?",
+      "a": "Explain that what she shares stays private, except if someone is hurting her or she is at risk of hurting herself or others. Then the team must act to keep her safe."
+     }
+    },
+    {
+     "heading": "Pregnant clients: choices in birth",
+     "keyIdea": "Pregnant clients have the right to prenatal care, to choose their provider, and to choose where they give birth, after an informed discussion.",
+     "body": "<p>Your course lists three rights for pregnant women: <b>prenatal care</b>, <b>choice of provider</b>, and <b>birth setting preference</b>.</p><p><b>Prenatal care</b> should start early in pregnancy. EMTALA also protects a pregnant client having contractions in the ED. <b>Choice of provider</b> includes an obstetrician, a family physician, or a certified nurse-midwife. <b>Birth setting</b> may be a hospital, a birth center, or home. ACOG says hospitals and accredited birth centers are the safest settings. It also respects a client’s informed choice.</p><p>Respect also means consent for exams and procedures during labor. A capable pregnant client may refuse a treatment. The nurse makes sure the risks were explained and documents.</p>",
+     "bullets": [
+      "Explain options in plain words without pressure.",
+      "Include the support person the client chooses.",
+      "Honor a birth plan when it is safe. Explain any change and get consent first."
+     ]
+    },
+    {
+     "heading": "Older adults: CMS protections",
+     "keyIdea": "CMS rules protect older adults in hospitals and nursing homes, including the right to appeal a discharge and live free from unneeded restraints.",
+     "body": "<p>Most older adults have Medicare, which CMS runs. CMS rules protect them in hospitals, nursing homes, and home care. The Nursing Home Reform Act, part of OBRA 1987, created the <b>residents’ rights</b> nursing homes must honor.</p><p>In the hospital, Medicare clients get a notice called “An Important Message from Medicare About Your Rights.” It explains the right to appeal a discharge they think is too soon. They get it within 2 days of admission and again before discharge. Clients kept in observation status for more than 24 hours get a separate notice, the MOON. Observation is outpatient care, so it changes what they pay.</p>",
+     "bullets": [
+      "Dignity, respect, and self-determination, such as choosing their own schedule and doctor.",
+      "Freedom from abuse, neglect, and theft of their money or belongings.",
+      "Freedom from physical or chemical restraints used for discipline or staff convenience.",
+      "Privacy, including mail and phone calls.",
+      "A part in care planning and the right to refuse treatment.",
+      "Voicing complaints without fear of punishment, with help from the long-term care ombudsman.",
+      "Managing their own money and having visitors.",
+      "Protection from unfair transfer or discharge, with advance notice."
+     ],
+     "check": {
+      "q": "A Medicare client says, “They want me to go home tomorrow, but I can’t even stand.” What right should the nurse explain?",
+      "a": "Her right to appeal the discharge, described in the Important Message from Medicare. Help her reach the Quality Improvement Organization listed on it, and tell the provider and case manager."
+     }
+    },
+    {
+     "heading": "Common traps: look-alikes to tell apart",
+     "keyIdea": "Know who does what in consent, what the PSDA requires, and that rights stay in place even when responsibilities slip.",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart",
+       "Clue in the stem"
+      ],
+      "rows": [
+       [
+        "Provider vs nurse in consent",
+        "Provider explains and obtains; nurse witnesses and checks understanding",
+        "A nurse explaining the surgery is wrong"
+       ],
+       [
+        "PSDA: must ask vs must have",
+        "The facility must inform and ask; the client need not have a directive",
+        "“Must complete a directive” is wrong"
+       ],
+       [
+        "Patient’s Bill of Rights vs Patient Care Partnership",
+        "The 1973 AHA document vs its 2003 replacement",
+        "Same purpose; the Partnership is current"
+       ],
+       [
+        "Rights vs responsibilities",
+        "Not meeting a responsibility does not remove a right",
+        "A client who missed doses still gets safe care"
+       ],
+       [
+        "Teen privacy vs safety",
+        "Kept for sensitive care the teen may consent to; broken for abuse or danger",
+        "Suicide risk must be shared"
+       ],
+       [
+        "Restraint for safety vs convenience",
+        "Allowed only for immediate safety, with an order",
+        "“Short-staffed” is never a reason"
+       ],
+       [
+        "Qualified interpreter vs family",
+        "Trained interpreter vs relative or child",
+        "Never use a child to interpret consent"
+       ],
+       [
+        "Capacity vs competency",
+        "Clinical and decision-specific vs a court ruling",
+        "A diagnosis alone does not remove rights"
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Choose the answer that informs the client, respects the client’s choice, and documents, not one that decides for the client.",
+     "body": "<p><b>Sample:</b> A nurse admits a 79-year-old client for hip surgery. Which action best meets the requirements of the Patient Self-Determination Act?</p><p>A. Have the client complete a living will before surgery.<br>B. Ask whether the client has an advance directive, and document the answer.<br>C. Ask the client’s daughter what her mother would want.<br>D. Tell the client a DNR order is recommended at her age.</p>",
+     "steps": [
+      "Read the stem: a capable older adult at admission.",
+      "What is it asking? What the PSDA requires.",
+      "Key cue: the PSDA requires informing and asking, not forcing.",
+      "A is wrong: a directive is never required.",
+      "C is wrong: the client can speak for herself.",
+      "D is wrong: age alone never decides code status. This is pressure, not information.",
+      "The answer is B. Also offer written information on her right to make a directive.",
+      "Strategy: the client decides; the nurse informs, asks, and documents."
+     ],
+     "bullets": [
+      "Consent questions: the nurse checks understanding and calls the provider if it is lacking.",
+      "Privacy questions: the client decides who gets information.",
+      "Restraint questions: least restrictive first; never for convenience.",
+      "Older adult questions: talk to the client, not the family."
+     ]
+    },
+    {
+     "heading": "Worked case: Mrs. Alvarez’s consent",
+     "keyIdea": "Protecting rights means removing barriers first: a qualified interpreter, working hearing aids, a real explanation, and the client’s own choices documented.",
+     "body": "<p>Mrs. Alvarez, 76, speaks mostly Spanish. She is admitted for planned colon surgery. She left her hearing aids at home. Her 15-year-old grandson offers to interpret. The surgeon is in a hurry and hands you the consent form to have her sign.</p>",
+     "steps": [
+      "<b>Stop:</b> do not have her sign yet. She cannot give informed consent without understanding.",
+      "<b>Interpreter:</b> call a qualified medical interpreter. A minor family member is not appropriate. Federal civil rights law requires free language help.",
+      "<b>Hearing:</b> ask the family to bring her hearing aids, or use a hearing amplifier.",
+      "<b>Provider explains:</b> the surgeon explains purpose, risks, benefits, and alternatives through the interpreter.",
+      "<b>Teach-back:</b> she explains the surgery in her own words. Then you witness her signature and note the interpreter’s name.",
+      "<b>PSDA:</b> ask if she has an advance directive. She does not. Offer information in Spanish and document her answer.",
+      "<b>Privacy:</b> ask who may receive her health information. She names her daughter. Document it.",
+      "<b>Rights and responsibilities:</b> give her the rights notice in Spanish. Ask her to share her full medicine list, a responsibility that keeps her safe."
+     ],
+     "check": {
+      "q": "Why not let the grandson interpret?",
+      "a": "He is a minor and a family member. Errors and pressure are likely, and she may not speak freely. She has a right to a free, qualified interpreter."
+     }
+    },
+    {
+     "heading": "North Carolina practice note",
+     "keyIdea": "NC law sets the advance directive forms, the care minors may consent to alone, and where to report abuse of children and disabled adults.",
+     "bullets": [
+      "<b>Advance directives:</b> Health Care Power of Attorney (G.S. Chapter 32A, Article 3) names an agent. The Declaration of a Desire for a Natural Death is the living will (G.S. 90-321).",
+      "<b>MOST</b> (Medical Orders for Scope of Treatment) is NC’s portable medical order form.",
+      "<b>Minor consent (G.S. 90-21.5):</b> STIs and other reportable diseases, pregnancy (not sterilization or abortion), substance or alcohol abuse, and emotional disturbance.",
+      "Emancipated minors may consent. The age of majority is 18.",
+      "<b>Child maltreatment:</b> universal reporting to the county DSS director (G.S. 7B-301). Report suspicion; do not wait for proof.",
+      "<b>Disabled adults needing protective services:</b> anyone with reasonable cause reports to county DSS (G.S. 108A-102). Good-faith reporters are immune.",
+      "<b>NCBON:</b> confidentiality breaches are conduct issues reported to the Board, not only handled by the employer."
+     ]
+    },
+    {
+     "heading": "Course source & clinical clarification",
+     "bullets": [
+      "Source: Ethics PowerPoint (Module 44), slides 17–20. Slide 17 title; slide 18 definition and core principles; slide 19 protecting patients’ rights; slide 20 lifespan considerations.",
+      "Module 44 study guide: no pages for Exemplar 44.C. Related items used here: advocacy and the right to refuse (p. 4), HIPAA and advance directives (p. 5), and the vulnerable populations Safety Alert (p. 6).",
+      "Your course materials say “Patient Bill of Rights.” Current standard: the AHA replaced its Patient’s Bill of Rights (1973, revised 1992) with The Patient Care Partnership in 2003. On a course exam expect “Patient Bill of Rights”; on the NCLEX, know both names.",
+      "Your course materials say “ACCH guidelines.” ACCH (Association for the Care of Children’s Health) promoted family-centered care. Current standard: patient- and family-centered care, carried on today by groups such as the Institute for Patient- and Family-Centered Care. On a course exam expect “ACCH”; on the NCLEX, “family-centered care.”",
+      "Your course materials say “American Academy of Family Physicians” for adolescents. Current standard: AAFP policy supports confidential care for consenting teens, within state law and safety limits.",
+      "Your course materials say “CMS protections” for older adults. Current standard: these include OBRA 1987 residents’ rights, the Important Message from Medicare, and the MOON notice.",
+      "Background not on the slides was added to teach each bullet: informed consent elements, the PSDA, EMTALA, HIPAA, CMS restraint rules, and language access. The cases and NCLEX sample are original."
+     ]
+    }
+   ],
+   "mnemonics": [
+    {
+     "name": "Core principles: “RAP”",
+     "text": "Respect (dignity and autonomy), Access (safe, quality care), Protection (law and policy)."
+    },
+    {
+     "name": "Patient Care Partnership: “Quality, Clean, Involved, Private, Leaving, Billing”",
+     "text": "High-quality care; a clean and safe place; involvement in care; privacy; help when leaving; help with billing."
+    }
+   ],
+   "pearls": [
+    "The provider obtains consent; the nurse witnesses and speaks up if the client does not understand.",
+    "The PSDA requires asking about advance directives, never having one.",
+    "Rights stay in place even when a client does not meet a responsibility.",
+    "Use a qualified interpreter for consent, never a child or family member.",
+    "Medicare clients may appeal a discharge they think is too soon."
+   ],
+   "redFlags": [
+    "A client signing a consent form they cannot explain back.",
+    "Restraints used because the unit is short-staffed.",
+    "Family members answering for a capable client.",
+    "A teen told “everything is private” when safety limits apply."
+   ],
+   "checks": [
+    {
+     "q": "Name the three core principles of patient rights from your course.",
+     "a": "Respect, dignity, and autonomy; access to safe, quality care; and protection under law and organizational policies."
+    },
+    {
+     "q": "A client gets a preoperative sedative, then the provider brings the consent form. What does the nurse do?",
+     "a": "Do not witness the signature. Tell the provider the client has been sedated. Consent should be given while the client is alert, before sedating drugs."
+    },
+    {
+     "q": "Which document replaced the AHA’s Patient’s Bill of Rights, and when?",
+     "a": "The Patient Care Partnership: Understanding Expectations, Rights and Responsibilities, in 2003."
+    },
+    {
+     "q": "A client with no insurance arrives at the ED with chest pain. Staff ask about payment first. Which law is at risk?",
+     "a": "EMTALA. The hospital must screen and stabilize an emergency before asking about payment, whether or not the client can pay."
+    },
+    {
+     "q": "A nursing home resident is told she cannot get her mail without staff reading it. Which right is violated?",
+     "a": "Her right to privacy, which includes private mail and phone calls under CMS residents’ rights. Report it and involve the long-term care ombudsman if needed."
+    }
+   ]
+  }
+ ]
+}

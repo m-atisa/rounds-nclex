@@ -1,0 +1,1527 @@
+{
+ "moduleId": "m49",
+ "moduleNumber": 49,
+ "moduleTitle": "Legal Issues",
+ "questions": [
+  {
+   "id": "m49-lr-001",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nursing student is caring for a 68-year-old client who had a hip replacement yesterday. The client has not voided in 8 hours, reports lower abdominal discomfort, and a bladder scan shows 650 mL. The provider orders a straight catheterization. The staff nurse asks the student to do it, but the student has not yet been checked off on this skill and the clinical instructor is in a meeting off the unit. Which action should the student take?",
+   "options": [
+    "Perform the catheterization carefully, following the agency procedure manual.",
+    "Tell the staff nurse she has not learned it and ask her to perform it.",
+    "Ask a classmate who has done a catheterization to coach her through it.",
+    "Wait for the instructor to return, then perform it with supervision."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A manual does not make a student competent; performing a skill she has not learned is practice outside her preparation.",
+    "Correct. The student speaks up before acting, and a licensed nurse who is competent does the procedure so the client is not harmed or delayed.",
+    "Incorrect. Another student is not a qualified supervisor and cannot make the procedure safe for the client.",
+    "Incorrect. The client has 650 mL of retained urine and discomfort; waiting an unknown time delays needed care when a staff nurse is available."
+   ],
+   "rationale": "Students are accountable to perform only the skills they have learned and to seek help before trying an unfamiliar procedure. When the instructor is not available, the safe plan is to let the staff nurse perform the skill while the student observes. Waiting for the instructor is tempting because it sounds cautious, but this client has urinary retention with discomfort, so a long delay is its own risk. Acting alone or with a classmate puts the client at risk and does not meet the standard of care, which for a student is the same as for an RN.",
+   "takeaway": "If a skill is new and the instructor is unavailable, the student does not do it; the staff nurse performs it.",
+   "hintContent": "Think about who on the unit is both available now and competent to do this procedure.",
+   "hintStrategy": "When a student faces an unlearned skill, eliminate any option where the student performs it without a qualified supervisor, then weigh delay against client need.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m49-lr-002",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A student nurse is assigned to a 74-year-old client with heart failure. At 0800 she is about to give the scheduled digoxin and realizes she does not know why the client takes it or what to check before giving it. The client’s apical pulse, counted a few minutes ago, is 56/min. What should the student do first?",
+   "options": [
+    "Give the dose, because the instructor approved her medication plan yesterday.",
+    "Ask the client what the pill is for and give it if he takes it daily.",
+    "Stop, look up the drug, and review it and the pulse with her instructor.",
+    "Ask the staff nurse to give it so that the dose is not late."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Yesterday’s plan does not replace knowing the drug today, and a pulse of 56/min may be a reason to hold digoxin.",
+    "Incorrect. The client’s routine does not tell the student whether today’s pulse makes the dose unsafe.",
+    "Correct. The student must understand each medication before giving it, and a slow pulse with digoxin needs her instructor’s input before any dose.",
+    "Incorrect. Handing off the dose avoids the problem but skips the student’s duty to recognize and report a finding that may change the plan."
+   ],
+   "rationale": "Students are accountable to be prepared: they must know each client’s condition, medications, and planned interventions before giving care. Digoxin slows the heart rate, so an apical pulse below 60/min is a cue that the dose may need to be held and the prescriber or nurse consulted. Asking the staff nurse to give the drug is tempting because it seems to keep the client on schedule, but it hides the student’s knowledge gap and the abnormal finding. The safe move is to stop, look up the drug, and review the finding with the instructor before any dose is given.",
+   "takeaway": "Never give a medication you cannot explain; stop and review it with your instructor first.",
+   "hintContent": "Consider what a heart rate under 60/min means for a drug that slows the heart.",
+   "hintStrategy": "When a student is unprepared and there is an abnormal finding, choose the option that pauses the action and brings in the supervising instructor.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+  },
+  {
+   "id": "m49-lr-003",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "An RN who lives in North Carolina holds a multistate license and works on a postoperative unit. She accepts a staff position at a hospital in a state that has not joined the Nurse Licensure Compact and will move there permanently next month. Which action is most important before her first shift at the new hospital?",
+   "options": [
+    "Obtain a license from the new state’s Board of Nursing.",
+    "Confirm that her multistate license is active through its next renewal.",
+    "Ask the new employer to verify her license through the NCSBN.",
+    "Earn a national specialty certification that is honored in every state."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Her new state is not a compact state, so she needs that state’s license to practice there.",
+    "Incorrect. A multistate license is not valid in a non-compact state, and she can no longer hold one once she lives in a non-compact state.",
+    "Incorrect. Verifying an existing license does not give her legal authority to practice in a state that does not recognize it.",
+    "Incorrect. Certification is optional and shows specialty skill; it never takes the place of a license."
+   ],
+   "rationale": "Under the Nurse Licensure Compact, a nurse may hold a multistate license only if she legally resides in a compact state, and the license works only in other compact states. Once this nurse moves to a non-compact state, her home state changes, so she must get a license from the new state before she practices there. Keeping the current multistate license active is the tempting answer, but it does not authorize practice in a non-compact state. Certification is a voluntary credential and never replaces licensure.",
+   "takeaway": "A multistate license requires residence in a compact state and works only in compact states.",
+   "hintContent": "Ask two questions: where will she legally live, and does that state recognize compact licenses?",
+   "hintStrategy": "For licensure questions, identify the state where the nurse lives and the state where the client is, then choose the option that matches the law of that state.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 15",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-004",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nursing student gives 4 units of insulin lispro at 1130, then realizes while rechecking the medication record that the dose was ordered for the client in the next bed. The client who received it is alert, his lunch tray has just arrived, and his pre-meal capillary glucose was 142 mg/dL. Which action should the student take first?",
+   "options": [
+    "Complete an incident report while the details are still clear.",
+    "Explain to the client that he received another person’s insulin.",
+    "Give the intended client his insulin so his dose is not delayed.",
+    "Assess the client and notify her instructor and staff nurse."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The report is required, but paperwork comes after the client’s safety is addressed.",
+    "Incorrect. Disclosure is appropriate, but it is not the first step while the client is at risk for low blood glucose.",
+    "Incorrect. The second client can be addressed shortly; the client who received an unordered drug is the immediate risk.",
+    "Correct. The client who received unordered insulin is at risk for hypoglycemia, so he is assessed and the people responsible are told at once."
+   ],
+   "rationale": "A student is accountable for safe care, including what happens after an error. The first priority is the client who received the wrong drug: rapid-acting insulin starts working within about 15 minutes and can cause hypoglycemia, so the student assesses him, makes sure he eats, and immediately tells the instructor and staff nurse so the provider can be notified. Completing the incident report is the tempting choice because it is required, but it never comes before client assessment. Telling the client and caring for the second client follow once the immediate risk is managed.",
+   "takeaway": "After a medication error, assess the client first, then notify the instructor and nurse; reports come later.",
+   "hintContent": "Think about which client faces a physical risk in the next few minutes.",
+   "hintStrategy": "When an error has already happened, pick the option that protects the client from harm before options about paperwork or explanations.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m49-lr-005",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nursing student begins a rotation at a new hospital and is assigned an 82-year-old client with delirium who has soft wrist restraints. The client is calm, and both hands are warm with brisk capillary refill. The student learned restraint care at a different agency and is unsure how often this hospital requires restraint checks and documentation. What should the student do before providing care?",
+   "options": [
+    "Follow the restraint-check schedule she learned at her previous agency.",
+    "Review this hospital’s restraint policy with her instructor.",
+    "Remove both restraints so that she can give care without them.",
+    "Ask the nursing assistant how often the restraints are checked here."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Policies differ between agencies, and the student is accountable to this hospital’s policy.",
+    "Correct. Students must know facility and program policies before giving care, especially for a high-risk intervention like restraints.",
+    "Incorrect. Removing restraints without an order or a plan may put this client with delirium at risk.",
+    "Incorrect. Assistive personnel may not know the full policy; the student should go to the policy itself and her instructor."
+   ],
+   "rationale": "Students are accountable to know facility and program policies before their assignments. Restraints are a high-risk intervention with strict rules about checks, release, and documentation, and those rules vary by agency. Using the old agency’s schedule is tempting because it feels familiar, but the standard is this hospital’s policy. The student reviews the policy and confirms the plan with her instructor before giving care, since the client is currently stable and safe.",
+   "takeaway": "Know the facility’s policy before you give care; another agency’s routine is not the standard.",
+   "hintContent": "Consider which document sets the rules for restraint care in this hospital.",
+   "hintStrategy": "When a stem says the student is unsure of a policy and the client is stable, choose the option that finds the correct policy before acting.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m49-lr-006",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "An emergency department provider is managing several critically ill clients and asks an experienced RN to perform a lumbar puncture on a 30-year-old client with suspected meningitis, saying, “You’ve watched me do dozens of these.” The state Board of Nursing does not include this procedure in RN scope of practice. What is the nurse’s best response?",
+   "options": [
+    "Agree, since the provider gave a direct order and accepts responsibility.",
+    "Agree, as long as the provider stays in the room to supervise.",
+    "Decline to perform it and offer to prepare and position the client.",
+    "Decline, and file a complaint about the provider with the Board."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. A provider’s order cannot expand an RN’s legal scope, and the nurse remains accountable for her own actions.",
+    "Incorrect. Supervision does not make a procedure that is outside RN scope legal for the nurse to perform.",
+    "Correct. The nurse stays within her scope while still helping the client get the procedure promptly.",
+    "Incorrect. A single inappropriate request is handled by declining and, if it continues, using the chain of command; a complaint is not the first response."
+   ],
+   "rationale": "The Nurse Practice Act and Board rules define what an RN may legally do. No provider order, supervision arrangement, or past experience can widen that scope. Agreeing because the provider accepts responsibility is the tempting answer, but each nurse is accountable for her own practice and could face Board discipline for practicing outside scope. The best response declines the procedure while still supporting the client by preparing and positioning him and assisting the provider.",
+   "takeaway": "No order, policy, or experience can expand your scope beyond the Nurse Practice Act.",
+   "hintContent": "Ask what legally defines RN scope, and whether anyone else can change it.",
+   "hintStrategy": "For scope-of-practice items, eliminate options that let someone else’s authority stretch the nurse’s scope, then pick the one that still meets the client’s need.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 12",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-007",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "At 0715 an RN notices that a coworker who just received report on five clients has slurred speech, an unsteady gait, and an odor of alcohol. The coworker says, “I’m fine, I just didn’t sleep.” Which action should the RN take first?",
+   "options": [
+    "Notify the charge nurse now to remove the coworker from client care.",
+    "File a report with the Board of Nursing before the end of the shift.",
+    "Offer to double-check the coworker’s medications throughout the shift.",
+    "Talk privately with the coworker after the shift about getting help."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Five clients are at immediate risk, so the RN uses the chain of command at once to stop impaired practice.",
+    "Incorrect. Board reporting may follow through the agency, but it does not protect these clients this morning.",
+    "Incorrect. Covering for an impaired nurse leaves clients at risk and does not address the problem.",
+    "Incorrect. Waiting until after the shift allows an impaired nurse to care for clients all day."
+   ],
+   "rationale": "Practicing while impaired by alcohol or drugs is a ground for Board discipline, and nurses have a duty to report it. The first priority, though, is client safety, so the RN notifies the charge nurse or supervisor immediately to remove the coworker from client care. Reporting to the Board is tempting because it sounds like the legal duty, but it does not stop harm in the next hour; the agency also reports conduct issues like impairment to the Board. Covering for or delaying action with an impaired coworker places clients at risk.",
+   "takeaway": "Suspected impairment on duty: remove the nurse from client care through the chain of command first, then report.",
+   "hintContent": "Think about what protects the five clients during the next hour.",
+   "hintStrategy": "When several actions are correct eventually, choose the one that stops harm to clients right now.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [
+    "mandatory-reporting"
+   ],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-008",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A student nurse enters the room of a 59-year-old client who has a new tracheostomy. The client is coughing weakly, has loud gurgling with each breath, and the pulse oximeter reads 87%. The student has not learned tracheostomy suctioning, and her instructor is on lunch break. What should the student do first?",
+   "options": [
+    "Suction the tracheostomy using the steps from a skills video she watched.",
+    "Page the instructor and start suctioning as soon as the instructor calls back.",
+    "Raise the head of the bed and recheck the oxygen saturation in 15 minutes.",
+    "Use the call light to get the staff nurse to suction now; stay with him."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Watching a video does not make a student competent, and a poorly done suction can worsen hypoxia.",
+    "Incorrect. The client needs his airway cleared now; waiting for a call back delays care.",
+    "Incorrect. Positioning helps, but this client has secretions blocking his airway and needs suctioning, not a 15-minute wait.",
+    "Correct. The airway problem is urgent, so the student gets a competent nurse to the bedside right away and does not leave the client."
+   ],
+   "rationale": "This client has airway cues: gurgling, a weak cough, and an oxygen saturation of 87%. Airway comes first, but the student has not learned tracheostomy suctioning, and students must seek help before attempting unfamiliar procedures. When the instructor is unavailable, the staff nurse performs the skill. Suctioning after watching a video is tempting because the need is urgent, but an untrained attempt can cause hypoxia or trauma, so the fastest safe action is to call the staff nurse to the bedside and stay with the client.",
+   "takeaway": "In an emergency involving a skill you have not learned, summon a competent nurse immediately and stay with the client.",
+   "hintContent": "Notice the airway cues, then ask who can safely fix the problem within the next minute.",
+   "hintStrategy": "Apply the ABCs first, then filter the airway options through scope: the right answer is both fast and safe.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m49-lr-009",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nursing graduate is completing his RN license application before starting work on a pediatric unit. Two years ago he pleaded nolo contendere to a misdemeanor reckless driving charge and paid a fine. The application asks about criminal convictions, including pleas of no contest. Which action is best?",
+   "options": [
+    "Answer no, because a no-contest plea is not an admission of guilt.",
+    "Answer yes and give a brief, honest explanation of the plea.",
+    "Answer no, because the charge was a misdemeanor rather than a felony.",
+    "Leave the question blank and discuss it only if the Board asks."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Boards treat a no-contest plea much like a guilty plea, so leaving it off is a false answer.",
+    "Correct. Honest disclosure lets the Board judge the event; hiding it could be treated as fraud.",
+    "Incorrect. The question asks about convictions and no-contest pleas, not only felonies.",
+    "Incorrect. An incomplete answer on an official application is not honest disclosure and may delay or deny the license."
+   ],
+   "rationale": "Nolo contendere means “I do not wish to contend.” The person does not admit guilt but accepts the punishment, and Boards of Nursing treat it much like a guilty plea. The tempting thought is that no admission of guilt means nothing to report, but the application asks about no-contest pleas directly. Lying on or omitting facts from a license application is itself a ground for denial or discipline. The safe and honest action is to answer yes and explain briefly.",
+   "takeaway": "A nolo contendere plea is treated like a guilty plea by the Board, so always disclose it.",
+   "hintContent": "Recall how Boards of Nursing view a plea of no contest.",
+   "hintStrategy": "On legal-honesty items, eliminate every option that hides or delays the truth from a regulator.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 13",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-010",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "Two clients on a surgical unit have said this week that their pain medicine “never seems to work at night.” The charge nurse reviews the controlled-substance report in the exhibit. Which action should the charge nurse take first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Controlled-Substance Report",
+      "table": {
+       "headers": [
+        "Night nurse (3 shifts)",
+        "Hydromorphone withdrawals",
+        "Wastes with no witness",
+        "Withdrawals for clients not assigned"
+       ],
+       "rows": [
+        [
+         "RN J.",
+         "14",
+         "6",
+         "3"
+        ],
+        [
+         "RN K.",
+         "4",
+         "0",
+         "0"
+        ],
+        [
+         "RN L.",
+         "5",
+         "0",
+         "0"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Ask RN J. privately whether she has been taking the hydromorphone.",
+    "Ask the provider to increase the two clients’ pain medication doses.",
+    "Report the pattern to the nurse manager through the chain of command.",
+    "Call local police to investigate the missing hydromorphone tonight."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Confronting the nurse alone can lead to denial and lost evidence; suspected diversion goes through the chain of command.",
+    "Incorrect. Raising doses treats the wrong problem if the clients are not receiving the drug at all.",
+    "Correct. The data suggest possible diversion, which must be reported and investigated, not handled informally.",
+    "Incorrect. The agency decides on law enforcement involvement after its own investigation; the nurse’s first step is the chain of command."
+   ],
+   "rationale": "Drug diversion is taking a client’s medication for oneself or others, and it is a ground for Board discipline. Cues here include many more withdrawals than peers, frequent wastes without a witness, withdrawals for clients not assigned to the nurse, and clients reporting unrelieved pain. Confronting the nurse directly is tempting, but suspected diversion is reported through the chain of command so the agency can investigate, protect clients, and report to the Board of Nursing. Conduct issues like diversion are not handled quietly on the unit.",
+   "takeaway": "Suspected drug diversion is reported through the chain of command and on to the Board, not handled privately.",
+   "hintContent": "Compare RN J.’s numbers with her peers’ and with the clients’ complaints.",
+   "hintStrategy": "When a question shows a pattern of possible misconduct, choose the formal reporting route over informal confrontation.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [
+    "mandatory-reporting"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-011",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A nursing student is at the nurses’ station when the provider calls about the student’s client, an 80-year-old with pneumonia whose oxygen saturation has dropped to 90%. The provider says, “Just take this order for a chest x-ray and oxygen at 3 L.” Program and agency policy do not allow students to accept verbal or telephone orders. What should the student do?",
+   "options": [
+    "Hand the phone to the staff nurse so she can take the order.",
+    "Write the order, read it back, and have the staff nurse cosign it.",
+    "Take the order and tell her instructor about it once she is free.",
+    "Ask the provider to call back when her instructor is on the unit."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The student follows policy and still gets the order received promptly by a nurse who is allowed to take it.",
+    "Incorrect. A read-back is good practice, but a cosignature does not make it acceptable for the student to take the order.",
+    "Incorrect. Policy forbids the student from taking the order, and reporting later does not correct that.",
+    "Incorrect. The client’s oxygen saturation is falling; delaying the order to protect the student delays care."
+   ],
+   "rationale": "Students are accountable to know and follow facility and program policies before their assignments. Many agencies limit who may accept verbal or telephone orders, and this agency excludes students. Writing the order and getting a cosignature is tempting because it feels safe, but it still has the student doing something policy forbids. Asking the provider to call back delays care for a client whose oxygen saturation is falling. The best action hands the call to the staff nurse right away.",
+   "takeaway": "Follow agency and program policy on what students may do, and get a licensed nurse involved without delaying care.",
+   "hintContent": "Think about who is allowed to receive this order and how fast the client needs it.",
+   "hintStrategy": "When a policy blocks the student, choose the option that both follows policy and keeps care moving.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-012",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A 45-year-old client scheduled for a cholecystectomy is ready to sign the surgical consent. The surgeon has explained the procedure, and the staff nurse asks the nursing student to sign as the witness. The student’s program policy states that students may not witness legal documents. Which response by the student is best?",
+   "options": [
+    "“I’ll sign it, since the surgeon already explained the surgery.”",
+    "“I’ll sign it if you initial next to my name as the licensed nurse.”",
+    "“I’ll ask the client if he is comfortable with me as the witness.”",
+    "“I’m not allowed to witness consents. Could you find a witness?”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The surgeon’s explanation does not change the program policy that bars students from witnessing.",
+    "Incorrect. A nurse’s initials do not make it acceptable for the student to act against policy.",
+    "Incorrect. The client’s comfort does not override the program’s policy on witnessing legal documents.",
+    "Correct. The student follows policy and helps the client sign without delay by involving a qualified witness."
+   ],
+   "rationale": "Students are accountable to know and follow program and facility policies before their assignments. Witnessing a consent is a legal act, and many programs do not allow students to do it. Signing with a nurse’s initials is tempting because it seems to add oversight, but it still breaks the policy. The best response is a polite, clear statement of the limit plus a solution that keeps the client’s surgery on schedule.",
+   "takeaway": "Students follow program policy on legal documents and redirect the task to a qualified person.",
+   "hintContent": "Think about whose rules the student must follow, even when a staff nurse asks.",
+   "hintStrategy": "For best-response items, choose the option that sets a clear limit and still offers a way to meet the client’s need.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [
+    "consent-laws-lifespan"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-013",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "During a break, an RN on an oncology unit tells a coworker, “I’ve been taking home oxycodone that clients refused, just to get through my shifts. If anyone finds out, I’ll lose my license.” Which response by the coworker is best?",
+   "options": [
+    "“I’ll keep this between us as long as you stop taking it before your shifts.”",
+    "“I care about you. We must tell our manager; Board treatment programs exist.”",
+    "“You should resign now so that the Board never has a reason to look into this.”",
+    "“If you only take it at home, it does not affect your nursing license at all.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Keeping diverted opioids secret puts clients at risk and fails the duty to report.",
+    "Correct. The coworker shows concern, offers hope through alternative-to-discipline programs, and is honest that this must be reported.",
+    "Incorrect. Resigning does not stop a Board from acting and leaves the nurse without treatment.",
+    "Incorrect. Taking clients’ medications is drug diversion, a ground for discipline wherever the drug is used."
+   ],
+   "rationale": "Taking a client’s medication for personal use is drug diversion, which is a ground for Board discipline and must be reported through the chain of command. Many Boards, including the North Carolina Board of Nursing, offer alternative-to-discipline programs that give monitored treatment instead of formal discipline. Promising secrecy is tempting because it feels supportive, but it leaves clients at risk and makes the coworker complicit. The best response combines empathy with an honest statement that the problem must be reported.",
+   "takeaway": "Respond to a colleague’s diversion with empathy and honesty: treatment programs exist, and it must be reported.",
+   "hintContent": "Consider both the colleague’s need for help and the clients’ need for safety.",
+   "hintStrategy": "For best-response items about a colleague, choose the answer that is caring and also meets the legal duty.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [
+    "mandatory-reporting"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-014",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A new graduate has finished an approved nursing program but has not yet taken the NCLEX-RN. She works as a nursing assistant on a short-staffed surgical unit. The manager asks her to take a full assignment of five postoperative clients and sign the documentation as “RN.” What is the graduate’s best action?",
+   "options": [
+    "Accept, since she has completed an approved nursing program.",
+    "Accept, as long as an RN cosigns each of her medication entries.",
+    "Decline, explaining that she cannot practice as an RN until licensed.",
+    "Decline the medications only and complete the assessments herself."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Finishing school does not grant a license; passing the NCLEX and Board licensure are required.",
+    "Incorrect. A cosignature does not let an unlicensed person practice as an RN or sign as one.",
+    "Correct. The Nurse Practice Act requires a license to practice as an RN, and signing as “RN” without one is fraud.",
+    "Incorrect. Admission and ongoing assessments are RN functions that require a license."
+   ],
+   "rationale": "The Nurse Practice Act sets the requirements for licensure, including graduation from an approved program and passing the NCLEX-RN, and the Board of Nursing grants the license. Until then, the graduate may not practice as or call herself an RN. Accepting with a cosignature is tempting because it sounds supervised, but it is still unlicensed practice and false documentation. Declining clearly protects the clients and the graduate’s future license.",
+   "takeaway": "Graduation is not licensure; you may not practice as an RN until the Board grants your license.",
+   "hintContent": "Ask what the law requires before anyone may practice as an RN.",
+   "hintStrategy": "Eliminate options that let a workaround, such as a cosignature, replace a legal requirement.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-015",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "An RN who lives in North Carolina and holds a multistate license works for a telehealth service. At the start of a scheduled video visit, a 66-year-old client recovering from knee surgery mentions she is staying for two months at her son’s home in a state that has not joined the Nurse Licensure Compact. The nurse holds no license in that state, and the client reports no new symptoms. Which action should the nurse take?",
+   "options": [
+    "Complete the visit, since the client’s permanent home is in North Carolina.",
+    "Complete the visit, since the nurse is calling from North Carolina.",
+    "Pause the visit and arrange care by a nurse licensed in that state.",
+    "Complete the visit and document the client’s temporary location."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Nursing care occurs where the client is located now, not at her permanent address.",
+    "Incorrect. The nurse’s location does not decide which state’s law applies; the client’s location does.",
+    "Correct. The client is in a non-compact state where the nurse is not licensed, so another licensed nurse must provide the care.",
+    "Incorrect. Documenting the location does not make the nurse licensed to practice in that state."
+   ],
+   "rationale": "With telehealth, nursing practice happens where the client is located, so the nurse must be licensed in the client’s state. A multistate license lets the nurse practice only in other compact states. Relying on the client’s permanent North Carolina address is tempting, but she is physically in a non-compact state today. Because the client is stable, the nurse can safely pause and arrange follow-up with a nurse licensed where the client is.",
+   "takeaway": "In telehealth, you must hold a license valid in the state where the client is located.",
+   "hintContent": "Ask where the client is physically located during the call.",
+   "hintStrategy": "On compact-license items, locate the client first; that state’s law governs the care.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 15",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-016",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": true,
+   "stem": "A charge nurse is making assignments for a medical unit. One RN has just returned to work with her license on probation; a Board condition states she may not have access to controlled substances. Review the planned assignment in the exhibit. Which change should the charge nurse make first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Planned Assignment",
+      "table": {
+       "headers": [
+        "Client",
+        "Key orders",
+        "Assigned RN"
+       ],
+       "rows": [
+        [
+         "Bed 1: 70-year-old, pneumonia",
+         "Ceftriaxone IV daily",
+         "RN A. (on probation)"
+        ],
+        [
+         "Bed 2: 52-year-old, sickle cell crisis",
+         "Hydromorphone IV every 2 hours as needed",
+         "RN A. (on probation)"
+        ],
+        [
+         "Bed 3: 61-year-old, heart failure",
+         "Furosemide IV twice daily",
+         "RN B."
+        ],
+        [
+         "Bed 4: 48-year-old, cellulitis",
+         "Vancomycin IV every 12 hours",
+         "RN B."
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Keep the assignment, since probation still allows RN A. to practice.",
+    "Remove RN A. from the schedule until her probation ends.",
+    "Ask RN A. to have a witness present whenever she gives an opioid.",
+    "Swap bed 2 with bed 3 so RN A. has no client needing opioids."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Probation allows practice only within the Board’s conditions, and bed 2 requires the controlled-substance access she is barred from.",
+    "Incorrect. Probation allows the nurse to practice under conditions; the charge nurse only needs to honor those conditions.",
+    "Incorrect. A witness does not satisfy a condition that bars her from accessing controlled substances at all.",
+    "Correct. This keeps RN A. working within the Board’s condition and gives the client in crisis a nurse who can treat pain promptly."
+   ],
+   "rationale": "Probation is a Board action that lets a nurse keep practicing under conditions, such as supervision, drug screens, or no access to controlled substances. The charge nurse must make an assignment that honors those conditions. A client in sickle cell crisis needs frequent IV opioids, so that client should go to a nurse without restrictions. Keeping the assignment is tempting because probation does allow practice, but only within the conditions; swapping assignments meets both the client’s need for prompt pain relief and the Board’s order.",
+   "takeaway": "A nurse on probation may practice, but every assignment must honor the Board’s conditions.",
+   "hintContent": "Find the client whose care conflicts with the Board’s condition.",
+   "hintStrategy": "On assignment exhibits, match each nurse’s legal limits to each client’s needs, then pick the cleanest swap.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 13",
+   "alsoTests": [],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-017",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "The adult son of a 79-year-old client receiving home health care tells the visiting RN, “Mom’s new weekend nurse seems unsure of herself. How can I find out whether she is really licensed and whether she has ever been disciplined?” Which response by the RN is most accurate?",
+   "options": [
+    "“The American Nurses Association keeps a list of all licensed nurses.”",
+    "“Only her employer can tell you, since license records are private.”",
+    "“The state Board’s public license lookup shows any Board actions.”",
+    "“The NCSBN can tell you because it issued her license after the NCLEX.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The ANA is a professional organization; it does not license nurses or track discipline.",
+    "Incorrect. License status and public Board actions are public information meant to protect clients.",
+    "Correct. The Board licenses and disciplines nurses, and its public verification, including the national Nursys database, shows license status and public discipline.",
+    "Incorrect. The NCSBN develops the NCLEX but does not issue licenses; the state Board does."
+   ],
+   "rationale": "The state Board of Nursing exists to protect the public. It issues licenses, investigates complaints, and disciplines nurses, and license status and public Board actions can be looked up by anyone, including through Nursys, the national database the NCSBN runs for the boards. Answering that the NCSBN issued her license is the tempting error: the NCSBN writes the NCLEX, but only the state Board licenses. The son’s concern is also worth passing to the agency supervisor if he has specific safety worries.",
+   "takeaway": "The state Board of Nursing licenses and disciplines nurses, and its license records are public to protect clients.",
+   "hintContent": "Think about which body grants licenses and acts on complaints.",
+   "hintStrategy": "When asked who does what in regulation, separate the licensing agency from the exam writer and from professional associations.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 13–14",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-018",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "After a near-miss in which she almost gave a double dose of heparin to a client with a pulmonary embolism, a nursing student tells her classmate, “If I make one real mistake, the NCSBN will take my license away before I even get it.” Which response by the classmate is accurate?",
+   "options": [
+    "“Only the state Board licenses and disciplines; the NCSBN writes the NCLEX.”",
+    "“That’s right; the NCSBN reviews every student error before approving the NCLEX.”",
+    "“Students can’t be disciplined, because they practice under the instructor’s license.”",
+    "“Only the hospital’s risk manager can decide whether you may become a nurse.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The state Board enforces the Nurse Practice Act; the NCSBN develops the exam and offers guidance.",
+    "Incorrect. The NCSBN does not review student errors or approve individual candidates.",
+    "Incorrect. Students practice under supervision but are accountable for their own actions and held to the RN standard.",
+    "Incorrect. Risk management handles the agency’s response to errors but does not grant or deny a license."
+   ],
+   "rationale": "The National Council of State Boards of Nursing is a national nonprofit made up of the state boards. It develops the NCLEX-RN and NCLEX-PN and provides research and policy guidance, but it does not issue or revoke licenses. The state Board of Nursing decides who may take the NCLEX, grants the license, and disciplines nurses. Saying students practice under the instructor’s license is a tempting comfort, but students are accountable for their own actions and held to the same standard as an RN.",
+   "takeaway": "The NCSBN writes the NCLEX; the state Board of Nursing licenses and disciplines.",
+   "hintContent": "Separate the national exam-writing body from the state agency that enforces the law.",
+   "hintStrategy": "Look for the option that correctly assigns each job to the right organization; distractors often swap them.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 13–14",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-019",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "An RN on a cardiac step-down unit is preparing to renew her license online. She tells a colleague about a no-contest plea she entered last year after a shoplifting charge. Which statement by the RN indicates a need for further teaching?",
+   "options": [
+    "“I accepted the penalty without admitting that I was guilty.”",
+    "“The Board will treat my plea much the same as a guilty plea.”",
+    "“Since I never admitted guilt, I can leave the plea off my renewal.”",
+    "“Hiding the plea could lead to discipline even if the theft did not.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. This is an accurate description of a nolo contendere plea.",
+    "Incorrect. This is accurate; Boards view no-contest pleas much like guilty pleas.",
+    "Correct. This shows a misunderstanding; failing to disclose a no-contest plea can be treated as fraud.",
+    "Incorrect. This is accurate; dishonesty on an application is itself a ground for discipline."
+   ],
+   "rationale": "A nolo contendere plea means the person does not admit guilt but accepts the punishment. Many people believe this keeps their record clean, but Boards of Nursing treat it much like a guilty plea and usually ask about it on applications and renewals. The statement about leaving it off is the one that needs correction, because omitting it is dishonest and can be grounds for discipline on its own. The other statements describe the plea and its consequences correctly.",
+   "takeaway": "No contest is not “no record”: disclose a nolo contendere plea to the Board.",
+   "hintContent": "Find the statement built on the idea that no admission of guilt means nothing to report.",
+   "hintStrategy": "For “needs further teaching” items, look for the one statement that is false; the rest will be true.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 13",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-020",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "An RN with 3 years of experience on a medical-surgical unit wants to advance on her hospital’s clinical ladder by showing higher-level knowledge in her current specialty. She already holds an active RN license. Which credential best fits her goal?",
+   "options": [
+    "CCRN, a critical care certification",
+    "CEN, an emergency nursing certification",
+    "A second RN license from a compact state",
+    "CMSRN, a medical-surgical certification"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The CCRN shows competence in critical care, not in her medical-surgical specialty.",
+    "Incorrect. The CEN shows competence in emergency nursing, not medical-surgical nursing.",
+    "Incorrect. A license authorizes practice but does not show specialty competence, and a nurse holds only one multistate license, from her home state.",
+    "Correct. The CMSRN is the optional credential that shows specialty competence in medical-surgical nursing."
+   ],
+   "rationale": "Licensure is the legal authorization to practice and is required by law. Certification is an optional credential from a professional organization that shows specialty competence and higher-level knowledge and skill. The CMSRN fits medical-surgical nursing, the CEN fits emergency nursing, and the CCRN fits critical care. Choosing another license is the tempting error, because a license sounds more official, but a license only grants legal authority to practice and says nothing about specialty expertise.",
+   "takeaway": "A license lets you practice; a specialty certification such as CMSRN, CEN, or CCRN shows advanced specialty skill.",
+   "hintContent": "Match the certification to the nurse’s specialty, and remember what a license does and does not show.",
+   "hintStrategy": "When options mix licenses and certifications, first decide whether the goal is legal permission or proof of specialty skill.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 16",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-021",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A unit practice council is revising its policy on delegating tasks to assistive personnel after a client fell while being transferred. The council wants national, research-based guidance on safe delegation to add to the state Board of Nursing rules. Which resource best meets this need?",
+   "options": [
+    "The content outline for a critical care certification exam",
+    "The NCSBN’s national guidelines and research on delegation",
+    "The hospital’s current job description for assistive personnel",
+    "The state Board of Nursing’s public list of disciplined nurses"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A certification outline lists exam topics; it is not policy guidance on delegation.",
+    "Correct. The NCSBN provides research and policy guidance for safe nursing practice, including national delegation guidelines.",
+    "Incorrect. The job description is what the council is reviewing; it is not an outside evidence source.",
+    "Incorrect. Discipline records show past violations but do not give research-based guidance on safe delegation."
+   ],
+   "rationale": "Besides developing the NCLEX, the National Council of State Boards of Nursing provides continuing education, research, and policy guidance for safe nursing practice, including national guidelines for nursing delegation. The state Board’s rules remain the legal limits, and national guidance helps an agency build safe policy within them. The job description is tempting because it is specific to the unit, but it is the very policy under review and is not research-based. Certification outlines and discipline lists do not guide delegation decisions.",
+   "takeaway": "The NCSBN offers research and policy guidance for safe practice; the state Board sets the legal rules.",
+   "hintContent": "Think about which national group does research and writes guidance for the boards.",
+   "hintStrategy": "Match the need (research-based national guidance) to the organization whose job is to provide it.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 14",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-022",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "An RN lives in a state that has not joined the Nurse Licensure Compact and holds that state’s license. She wants to accept a 13-week travel assignment on a pediatric unit in North Carolina, a compact state. What does she need in order to practice in North Carolina?",
+   "options": [
+    "A multistate license issued by North Carolina",
+    "Nothing more, as long as her home-state license is active",
+    "A single-state North Carolina license",
+    "A pediatric specialty certification accepted nationwide"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. A multistate license is issued only to a nurse whose primary state of residence is a compact state.",
+    "Incorrect. A single-state license from a non-compact state is valid only in the state that issued it.",
+    "Correct. As a resident of a non-compact state, she can apply for a North Carolina license that is valid only in North Carolina.",
+    "Incorrect. Certification shows specialty skill but never authorizes practice in a state."
+   ],
+   "rationale": "To hold a multistate license, a nurse must legally reside in a compact state, because the license is issued by the primary state of residence. A nurse who lives in a non-compact state can still work in a compact state, but she needs that state’s single-state license, which is valid only there. The tempting answer is a North Carolina multistate license, since North Carolina is a compact state, but residence, not the work location, decides eligibility. Certification never replaces a license.",
+   "takeaway": "Live in a non-compact state? You need a separate single-state license in each state where you practice.",
+   "hintContent": "Focus on where the nurse legally lives, not where she wants to work.",
+   "hintStrategy": "For compact questions, check residence first; it decides whether a multistate license is even possible.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 15",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-023",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "An RN who lives in North Carolina and holds a multistate license takes a travel assignment in a Virginia emergency department; Virginia is also a compact state. A client with chest pain needs a 12-lead ECG, and the nurse wonders whose practice rules apply to her care there. Which statement is accurate?",
+   "options": [
+    "She follows Virginia’s Nurse Practice Act while caring for clients in Virginia.",
+    "She follows North Carolina’s rules, because North Carolina issued her license.",
+    "She may follow whichever state’s rules allow the broader scope for the task.",
+    "She follows national NCSBN rules, which replace state law for compact nurses."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Under the compact, the nurse practices under the laws of the state where the client is located.",
+    "Incorrect. The home state issues the license, but practice laws come from the state where care is given.",
+    "Incorrect. Nurses cannot choose the more permissive law; the client’s state law governs.",
+    "Incorrect. The NCSBN gives guidance but does not replace any state’s Nurse Practice Act."
+   ],
+   "rationale": "The Nurse Licensure Compact uses a mutual recognition model, like a driver’s license: the home state issues the license, and other compact states honor it. But the nurse must obey the practice laws of the state where the client is, just as a driver obeys the traffic laws of the state she is driving in. Following the home state’s rules is the tempting answer, because that state issued the license. The NCSBN does not write practice law, and no nurse may pick the broadest scope available.",
+   "takeaway": "With a compact license, follow the Nurse Practice Act of the state where the client is.",
+   "hintContent": "Think of the driver’s license analogy: who issues it, and whose traffic laws apply?",
+   "hintStrategy": "When two states are involved, identify where the client is; that state’s law controls practice.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 15",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-024",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A hospital policy states that RNs may not remove peripherally inserted central catheters (PICCs), and only the vascular access team may do so. The state Nurse Practice Act would allow a trained RN to remove one. A client is ready for discharge, the PICC removal order is written, and the vascular access team will arrive in 2 hours. An RN on the unit was trained in PICC removal at a previous job. Which action is appropriate?",
+   "options": [
+    "Remove the PICC, since state law permits it for a trained RN.",
+    "Remove the PICC after documenting her training from the previous job.",
+    "Ask the charge nurse whether an exception can be made to speed discharge.",
+    "Follow the hospital policy and have the vascular access team remove it."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Agency policy can narrow an RN’s practice, and the nurse must follow the narrower rule.",
+    "Incorrect. Documenting past training does not change this hospital’s policy.",
+    "Incorrect. Convenience does not justify setting aside a safety policy; the policy already defines who may remove PICCs.",
+    "Correct. An employer may limit practice more narrowly than the Nurse Practice Act, and the nurse follows the stricter rule."
+   ],
+   "rationale": "The Nurse Practice Act sets the outer limit of what an RN may do, and an employer can narrow that scope but never widen it. When agency policy is stricter than state law, the nurse follows the policy. Removing the catheter because the law permits it is the tempting choice, but working against the agency’s policy breaches the standard expected of a reasonably prudent nurse at that agency. A short wait for discharge is not a safety reason to break policy.",
+   "takeaway": "Policy can narrow your scope but never widen it; follow whichever rule is stricter.",
+   "hintContent": "Consider whether an employer may set rules tighter than state law.",
+   "hintStrategy": "When law and policy differ, the safe answer follows the more restrictive of the two.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 12",
+   "alsoTests": [
+    "malpractice-standard-care"
+   ],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-025",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A nursing student preparing for the NCLEX-RN says, “I’ll make flashcards of every lab value and drug fact, because the exam tests whether I can recall information.” The student struggles with case-based questions about clients whose condition is changing. Which response by the faculty advisor is most accurate?",
+   "options": [
+    "“Memorizing facts is the best preparation, because the NCLEX is mostly recall.”",
+    "“The NCLEX now uses case studies that test how you apply clinical judgment.”",
+    "“Each state’s Board of Nursing writes its own version of the NCLEX.”",
+    "“Case-based questions are only practice items and are not scored.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The Next Generation NCLEX measures clinical judgment, not just recall.",
+    "Correct. The NCSBN designed the Next Gen NCLEX to measure clinical judgment through case-based items.",
+    "Incorrect. The NCSBN develops one national NCLEX; Boards decide who may take it and grant the license.",
+    "Incorrect. Case studies are a scored part of the Next Gen NCLEX."
+   ],
+   "rationale": "The NCSBN develops the NCLEX-RN and designed the Next Generation NCLEX, launched in April 2023, to measure clinical judgment. Case studies ask the test taker to recognize cues, analyze them, prioritize hypotheses, generate solutions, take action, and evaluate outcomes. Recall still matters, which makes the flashcard plan tempting, but facts alone do not prepare a student to apply them to a changing client. The student should practice using knowledge in client situations.",
+   "takeaway": "The Next Gen NCLEX, developed by the NCSBN, tests clinical judgment, not just recall.",
+   "hintContent": "Think about what the newest version of the exam was built to measure.",
+   "hintStrategy": "When asked about the NCLEX, remember who writes it and what clinical judgment steps it scores.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 14",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-026",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A nursing student positions a 77-year-old client who had a stroke without first checking the plan of care, which calls for a two-person transfer. The client slides to the floor and fractures a wrist. In the incident review, the student says, “I’m just a student, so I can’t be held to the same standard as the nurses.” Which response by the clinical instructor is accurate?",
+   "options": [
+    "“That’s correct; students are judged by the standard of a beginner.”",
+    "“That’s correct; your instructor is the only one held accountable.”",
+    "“Students are held to the same standard as a licensed RN.”",
+    "“The standard applies to you only after you pass the NCLEX-RN.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Students are not judged by a lower standard because the public relies on the care they give.",
+    "Incorrect. Supervision does not remove the student’s own accountability for her actions.",
+    "Correct. Students who perform nursing care are held to the same standard as a licensed RN.",
+    "Incorrect. The standard applies whenever a student gives nursing care, not only after licensure."
+   ],
+   "rationale": "A student nurse who provides care is held to the same standard as a reasonably prudent licensed RN, because clients rely on that care. Students are accountable for safe care, for knowing the plan, and for performing only what they are prepared to do. The idea that only the instructor is accountable is tempting because the student works under supervision, but supervision adds the instructor’s responsibility rather than removing the student’s. Checking the plan of care before acting would have prevented this injury.",
+   "takeaway": "“I’m just a student” is never a defense; students are held to the RN standard.",
+   "hintContent": "Think about what clients have a right to expect from anyone giving their nursing care.",
+   "hintStrategy": "On accountability items, reject any option that shifts all responsibility to someone else.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [
+    "malpractice-standard-care"
+   ],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m49-lr-027",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A nurse manager in North Carolina reviews an event report. An RN skipped scanning a client’s wristband before giving an IV antibiotic, saying, “The scanner is slow, and I know all my clients.” The correct client received the correct drug, and no harm occurred. Using a Just Culture approach, which response best fits this nurse’s behavior?",
+   "options": [
+    "Coach the nurse about the risk of skipping the scan and fix the slow scanner.",
+    "Console the nurse, because this was an unintended slip anyone could make.",
+    "Report the nurse to the Board of Nursing for reckless and unsafe practice.",
+    "Take no action, since the right client received the right drug without harm."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Choosing a shortcut without seeing its risk is at-risk behavior, which is managed with coaching and by fixing the system problem behind it.",
+    "Incorrect. Consoling fits human error, an unintended slip; this nurse chose to skip a safety step.",
+    "Incorrect. Reckless behavior is a conscious disregard of a known, substantial risk; a drifted shortcut with a system cause is usually at-risk behavior.",
+    "Incorrect. Just Culture judges the behavior, not the outcome; a no-harm shortcut still needs a response."
+   ],
+   "rationale": "Just Culture, which the North Carolina Board of Nursing uses in its Complaint Evaluation Tool, sorts practice events into human error, at-risk behavior, and reckless behavior. Human error is an unintended slip and is met with consoling and system fixes. At-risk behavior is a choice in which the risk is not recognized or is believed justified, such as skipping a scan because the scanner is slow, and it is met with coaching and removal of the system pressures. Reporting the nurse for reckless behavior is the tempting answer, but reckless behavior means consciously disregarding a substantial, unjustifiable risk. Outcome alone never decides the response.",
+   "takeaway": "Just Culture: console human error, coach at-risk behavior, and sanction reckless behavior.",
+   "hintContent": "Decide whether the nurse made a slip, took a shortcut, or knowingly ignored a serious risk.",
+   "hintStrategy": "For Just Culture items, classify the behavior first, then match the response to that category; ignore whether harm occurred.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 13",
+   "alsoTests": [
+    "malpractice-standard-care"
+   ],
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-028",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "The daughter of an 84-year-old client in a long-term care facility filed a complaint with the Board of Nursing after her father developed an untreated pressure injury. She asks the facility’s nurse educator, “Isn’t the Board just going to protect its own nurses?” Which response by the educator is most accurate?",
+   "options": [
+    "“The Board represents nurses, so it usually supports the nurse’s side.”",
+    "“The Board exists to protect the public and investigates complaints.”",
+    "“The Board can order the facility to pay your family for his injury.”",
+    "“The Board can act only after a court convicts the nurse of a crime.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The Board is a state agency that protects the public; professional associations, not Boards, advocate for nurses.",
+    "Correct. The Board enforces the Nurse Practice Act to protect clients, and it investigates complaints and can discipline nurses.",
+    "Incorrect. Money damages come from a civil lawsuit, not from Board action against a license.",
+    "Incorrect. The Board can investigate and discipline unsafe practice without any criminal conviction."
+   ],
+   "rationale": "The state Board of Nursing is an administrative agency whose main job is protecting the public, not protecting nurses. It licenses nurses, investigates complaints, and disciplines nurses who violate the Nurse Practice Act through actions such as reprimand, probation, suspension, or revocation, after giving the nurse due process. It does not award money; that happens in civil court. The belief that a Board needs a criminal conviction first is tempting, but unsafe care below the standard is grounds for discipline on its own.",
+   "takeaway": "The Board of Nursing exists to protect the public and can discipline a license without a criminal case.",
+   "hintContent": "Recall the Board’s main purpose and the kinds of remedies it can and cannot give.",
+   "hintStrategy": "Separate the three systems: the Board acts on licenses, civil courts award money, and criminal courts punish crimes.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-029",
+   "topic": "licensure-regulation",
+   "type": "mcq",
+   "priority": false,
+   "stem": "On her last clinical day, a nursing student felt unprepared when her client with diabetic ketoacidosis was started on an insulin infusion, and the instructor reviewed student expectations with her. Which action by the student at the next clinical day shows that the teaching was effective?",
+   "options": [
+    "She asks the staff nurse to explain the client’s drugs at the bedside.",
+    "She plans to try new skills on the unit so she is checked off faster.",
+    "She asks the client to explain his diagnosis during her first assessment.",
+    "She reviews the client’s condition, drugs, and plan before the shift."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Learning the medications at the bedside means she is not prepared before giving care.",
+    "Incorrect. Attempting unlearned skills is unsafe; students perform only skills they have learned.",
+    "Incorrect. The client’s view is useful, but she should already understand the condition before care.",
+    "Correct. Students are accountable to understand the client’s condition, medications, and interventions before giving care."
+   ],
+   "rationale": "Students are accountable to be prepared: they must understand each client’s condition, medications, and planned interventions before giving care. Preparation is what turns knowledge into safe action, such as recognizing early changes and knowing what to report. Asking the staff nurse to explain the medications is tempting because it is still a way of learning, but it moves preparation to the bedside when it should come first. Trying new skills to get checked off faster is never safe.",
+   "takeaway": "A prepared student knows the client’s condition, medications, and planned care before the shift begins.",
+   "hintContent": "Look for the action that happens before the student meets the client.",
+   "hintStrategy": "For evaluate-the-teaching items, choose the behavior that matches the expected standard, not one that only sounds eager.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pathophysiology",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-030",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A newly licensed RN who just moved from another state starts orientation on a renal unit. She asks her preceptor what the state’s Nurse Practice Act will tell her about her new role. Which statements by the preceptor are accurate? Select all that apply.",
+   "options": [
+    "“It defines the legal scope of practice for RNs and LPNs in this state.”",
+    "“It is a federal law, so it is the same as the one in your old state.”",
+    "“It lists the requirements for getting and keeping your license here.”",
+    "“It explains the grounds for discipline and expected professional conduct.”",
+    "“It sets the hourly wage and benefits each hospital must pay nurses.”",
+    "“It is enforced by this state’s Board of Nursing.”"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Defining scope of practice is a core purpose of every Nurse Practice Act.",
+    "Incorrect. Each state passes its own Nurse Practice Act, so details differ between states.",
+    "Correct. The act sets licensure requirements, such as an approved program and passing the NCLEX.",
+    "Correct. The act describes what can lead to discipline and how nurses are expected to behave.",
+    "Incorrect. Pay and benefits are set by employers, not by the Nurse Practice Act.",
+    "Correct. Each state’s Board of Nursing enforces that state’s Nurse Practice Act."
+   ],
+   "rationale": "A Nurse Practice Act is a state law, passed by the legislature, that regulates the practice of nursing. It defines scope of practice, sets standards and expectations, lists requirements for licensure, and explains discipline and professional conduct. Each state’s Board of Nursing enforces its own act. The tempting error is assuming the act is federal and identical everywhere; a nurse who moves must learn the new state’s act, because it is the legal basis of the standard she will be held to.",
+   "takeaway": "The Nurse Practice Act is a state law defining scope, licensure, and discipline, enforced by the state Board of Nursing.",
+   "hintContent": "Think about who passes the act and what it regulates, and what it leaves to employers.",
+   "hintStrategy": "For SATA, test each option alone as true or false; do not count on a set number of answers.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 12",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-031",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A nurse manager reviews several staff concerns from the past month. No client was harmed in any of them. Which situations could lead to Board of Nursing discipline of the RN’s license? Select all that apply.",
+   "options": [
+    "An RN charted a dressing change that she did not actually perform.",
+    "An RN posted a photo of a client’s wound with the client’s name visible.",
+    "An RN declined to perform a procedure that is outside RN scope.",
+    "An RN kept working for two weeks after her license had lapsed.",
+    "An RN called a provider at 0200 to clarify an unclear medication order.",
+    "An RN began dating a client he was currently caring for on the unit."
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Falsifying records is fraud and is a ground for discipline even without harm.",
+    "Correct. Breaking client confidentiality is a ground for discipline.",
+    "Incorrect. Declining a task outside scope is exactly what the Nurse Practice Act expects.",
+    "Correct. Practicing without a valid license violates the Nurse Practice Act.",
+    "Incorrect. Clarifying an unclear order is safe practice, not misconduct.",
+    "Correct. Crossing professional boundaries with a current client is a ground for discipline."
+   ],
+   "rationale": "Boards of Nursing discipline both unsafe practice and dishonest or illegal conduct, and harm to a client is not required. Grounds include practicing without a valid license or beyond scope, falsifying records, breaking confidentiality, crossing professional boundaries, impairment, and drug diversion. A tempting mistake is to think that no harm means no Board issue; Boards act to protect the public from risk, not only after injury. Declining an out-of-scope task and clarifying unclear orders are expected, safe behaviors.",
+   "takeaway": "Board discipline does not require harm; dishonesty, boundary violations, confidentiality breaches, and unlicensed practice all qualify.",
+   "hintContent": "Ask of each situation: is this unsafe, dishonest, or outside the law, regardless of outcome?",
+   "hintStrategy": "When a stem says “no harm occurred,” do not let that rule out discipline; judge the behavior itself.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [
+    "privacy-confidentiality"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-032",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A nursing student is assigned to a 6-year-old with an asthma exacerbation who is receiving albuterol by nebulizer and IV methylprednisolone. Which actions meet the student’s responsibilities before the clinical day begins? Select all that apply.",
+   "options": [
+    "Review how asthma affects the airways and which findings would signal worsening.",
+    "Look up the action, expected effects, and side effects of each ordered drug.",
+    "Plan to learn the nebulizer setup by trying it at the bedside.",
+    "Review the agency’s policy for giving medications to children.",
+    "Count on the staff nurse to explain the plan of care at the bedside.",
+    "Tell the instructor about any assigned skill she has not yet learned."
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Students must understand the client’s condition so they can recognize changes.",
+    "Correct. Students must know each medication before they give it.",
+    "Incorrect. Students perform only learned skills; a new skill is learned with the instructor first, not tried on a client.",
+    "Correct. Students must know facility policies, such as pediatric double-checks, before the assignment.",
+    "Incorrect. Preparation is the student’s responsibility and should happen before care begins.",
+    "Correct. Notifying the instructor of gaps before care lets the instructor plan safe supervision."
+   ],
+   "rationale": "Students are accountable to provide safe care, which starts before they meet the client. They must know the client’s condition, medications, and planned interventions, know facility and program policies, and perform only skills they have learned, telling the instructor when they are unprepared. Relying on the staff nurse to explain the plan at the bedside is tempting because it seems efficient, but it means the student starts care without the knowledge to spot a child’s worsening breathing. Trying a new skill on a client is never acceptable.",
+   "takeaway": "Prepare before the shift: condition, drugs, policies, and any skill gaps reported to the instructor.",
+   "hintContent": "Sort the options into things done before care versus things left for the bedside.",
+   "hintStrategy": "For student-role SATA items, choose actions that show preparation and honesty about limits.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-033",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A staffing coordinator for a nursing agency reviews the licenses and planned work of the nurses in the exhibit. Which nurses may legally provide care as planned? Select all that apply.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Nurse Licenses",
+      "table": {
+       "headers": [
+        "Nurse",
+        "Legal residence",
+        "License(s) held",
+        "Planned work"
+       ],
+       "rows": [
+        [
+         "Nurse 1",
+         "North Carolina (compact)",
+         "North Carolina multistate",
+         "Telehealth calls to clients located in Tennessee (compact)"
+        ],
+        [
+         "Nurse 2",
+         "North Carolina (compact)",
+         "North Carolina multistate only",
+         "Telehealth calls to a client located in State X (non-compact)"
+        ],
+        [
+         "Nurse 3",
+         "State X (non-compact)",
+         "State X single-state only",
+         "In-person shifts in a North Carolina hospital"
+        ],
+        [
+         "Nurse 4",
+         "South Carolina (compact)",
+         "South Carolina multistate",
+         "In-person shifts in a North Carolina hospital"
+        ],
+        [
+         "Nurse 5",
+         "North Carolina (compact)",
+         "North Carolina multistate and State X single-state",
+         "Telehealth calls to a client located in State X (non-compact)"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Nurse 1",
+    "Nurse 2",
+    "Nurse 3",
+    "Nurse 4",
+    "Nurse 5"
+   ],
+   "answer": [
+    0,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. A multistate license from her compact home state covers telehealth care to clients in another compact state.",
+    "Incorrect. A multistate license does not cover a client located in a non-compact state; she needs that state’s license.",
+    "Incorrect. A single-state license from a non-compact state is valid only in that state; she needs a North Carolina license.",
+    "Correct. She lives in a compact state and holds its multistate license, which North Carolina honors.",
+    "Correct. She holds a license issued by State X, where the client is located."
+   ],
+   "rationale": "The Nurse Licensure Compact uses mutual recognition: a nurse who legally lives in a compact state can hold one multistate license that works in other compact states, in person or by telehealth. Care happens where the client is located, so the nurse needs a license valid in the client’s state. Nurse 2 is the tempting choice because she holds a multistate license, but it does not reach a non-compact state. A nurse who lives in a non-compact state, like Nurse 3, needs a separate license from each state where she practices.",
+   "takeaway": "Match two things: where the nurse lives (for multistate eligibility) and where the client is (for which license applies).",
+   "hintContent": "For each nurse, ask whether she holds a license valid in the state where the client is located.",
+   "hintStrategy": "For licensure tables, work row by row and check residence, license type, and client location separately.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 15",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-034",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "An ICU nurse who just earned the CCRN credential is talking with coworkers at the start of a shift. Which statements by the nurse reflect an accurate understanding of certification? Select all that apply.",
+   "options": [
+    "“This shows I have specialty knowledge and skill in critical care.”",
+    "“I earned it voluntarily from a professional organization, not the state.”",
+    "“Now I may perform tasks that are outside RN scope in this state.”",
+    "“My legal scope of practice is still set by the Nurse Practice Act.”",
+    "“I no longer need to renew my RN license while this stays current.”",
+    "“State law requires every ICU nurse to hold this certification.”"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Certification demonstrates specialty competence and higher-level knowledge.",
+    "Correct. Certification is optional and awarded by professional organizations.",
+    "Incorrect. Certification never expands scope; only the Nurse Practice Act sets scope.",
+    "Correct. The Nurse Practice Act defines scope regardless of any certification.",
+    "Incorrect. The license is the legal requirement to practice and must stay active.",
+    "Incorrect. Certification is optional, though some employers prefer it."
+   ],
+   "rationale": "Licensure is the legal authorization to practice, and the state requires it. Certification, such as CCRN for critical care, CEN for emergency nursing, or CMSRN for medical-surgical nursing, is an optional credential from a professional organization that shows specialty competence. The tempting error is believing certification adds legal authority, but only the Nurse Practice Act sets scope. A certified nurse must still keep her license active, and the law does not require certification.",
+   "takeaway": "Certification adds letters after your name, not legal scope.",
+   "hintContent": "Separate what proves skill from what grants legal permission.",
+   "hintStrategy": "When statements mix license and certification, check each one against “required and legal” versus “optional and specialty.”",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 16",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-035",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A new graduate in North Carolina is planning the steps of becoming and practicing as an RN on an orthopedic unit. Which tasks should she direct to the state Board of Nursing rather than the NCSBN? Select all that apply.",
+   "options": [
+    "Applying for eligibility to take the NCLEX-RN and for licensure",
+    "Learning how Next Gen NCLEX case studies are designed",
+    "Responding to a complaint investigation about her practice",
+    "Finding the state rules on what an LPN may do on her unit",
+    "Finding national continuing education on safe practice"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The state Board decides who may take the NCLEX and grants the license.",
+    "Incorrect. The NCSBN develops the NCLEX and designed the Next Gen NCLEX.",
+    "Correct. The state Board investigates complaints and disciplines nurses.",
+    "Correct. The state Board enforces the Nurse Practice Act and writes rules on scope.",
+    "Incorrect. National continuing education and research are NCSBN functions."
+   ],
+   "rationale": "The state Board of Nursing is the government agency that enforces the Nurse Practice Act. It decides who may take the NCLEX, issues licenses, writes rules on RN and LPN scope, and investigates and disciplines nurses. The NCSBN is a national nonprofit of state boards that develops the NCLEX, designed the Next Gen NCLEX, and offers continuing education, research, and policy guidance. The tempting error is thinking the NCSBN handles licensing because it writes the exam, but it never issues licenses or disciplines nurses.",
+   "takeaway": "State Board: eligibility, licenses, scope rules, discipline. NCSBN: the exam, research, education, guidance.",
+   "hintContent": "Ask whether each task is a legal action on one nurse’s license or a national exam or research function.",
+   "hintStrategy": "When two similar organizations appear, sort each option by which body has legal authority.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 13–14",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-036",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A family files a complaint with the Board of Nursing alleging that a home health nurse left their ventilator-dependent 15-year-old alone during a visit for 40 minutes. Which actions are within the Board’s authority? Select all that apply.",
+   "options": [
+    "Award the family money for the client’s suffering",
+    "Investigate the complaint and let the nurse respond",
+    "Place the nurse’s license on probation with conditions",
+    "Sentence the nurse to jail for neglecting the client",
+    "Suspend or revoke the nurse’s license to practice",
+    "Fire the nurse from her job at the home health agency"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Money damages come from a civil lawsuit, not from the Board.",
+    "Correct. The Board investigates complaints and gives the nurse due process.",
+    "Correct. Probation is a Board action that allows practice under conditions.",
+    "Incorrect. Only a criminal court can impose a jail sentence.",
+    "Correct. Suspension and revocation are Board actions on a license.",
+    "Incorrect. Employment decisions belong to the employer, not the Board."
+   ],
+   "rationale": "The Board of Nursing protects the public by acting on nurses’ licenses. It investigates complaints, gives the nurse notice and a chance to respond, and can reprimand, place on probation, suspend, or revoke a license. It cannot award money, which is a civil court remedy, or impose jail time, which only a criminal court can do. Firing the nurse is tempting because it seems like an obvious consequence, but employment decisions belong to the employer, which acts separately from the Board.",
+   "takeaway": "The Board acts on licenses; courts award damages or punish crimes; employers make job decisions.",
+   "hintContent": "For each option, ask which system has that power: Board, civil court, criminal court, or employer.",
+   "hintStrategy": "When a stem asks about one agency’s authority, eliminate options that belong to a different system.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 13",
+   "alsoTests": [
+    "law-torts-privacy"
+   ],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-037",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A staff nurse asks a nursing student to give IV push furosemide to the student’s client, a 71-year-old with heart failure who has new crackles and increasing shortness of breath. The student has practiced IV push only in the skills lab, and her instructor is helping another student across the unit. Which actions by the student are appropriate? Select all that apply.",
+   "options": [
+    "Tell the staff nurse she has never given an IV push drug to a client.",
+    "Give the drug herself using the steps she practiced in the skills lab.",
+    "Notify her instructor right away that an IV push drug is due now.",
+    "Wait to give the drug until her instructor is free, however long it takes.",
+    "Let the staff nurse give it if the instructor cannot come promptly.",
+    "Ask a classmate who has given IV push before to supervise her."
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Students must speak up when they are not prepared for a skill.",
+    "Incorrect. Lab practice alone does not make her ready to give IV push to a client without her instructor.",
+    "Correct. The instructor needs to know so she can supervise or redirect the task.",
+    "Incorrect. This client’s breathing is worsening, so an open-ended delay is unsafe.",
+    "Correct. When the instructor is unavailable, the staff nurse performs the skill.",
+    "Incorrect. A classmate is not a qualified supervisor."
+   ],
+   "rationale": "Students are accountable to perform only learned skills, to tell the instructor when unprepared, and to seek help before trying an unfamiliar procedure. If the instructor is unavailable, the staff nurse performs it. This client has worsening heart failure, so waiting indefinitely for the instructor is the tempting but unsafe choice, because the diuretic is needed now. Giving the drug alone or under a classmate’s eye places the client at risk.",
+   "takeaway": "Not ready for a skill? Speak up, call the instructor, and let the staff nurse do it if the instructor cannot come.",
+   "hintContent": "Weigh the client’s worsening breathing against the student’s readiness.",
+   "hintStrategy": "For student-role SATA items, keep options that are honest and get a qualified person involved without delaying urgent care.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+  },
+  {
+   "id": "m49-lr-038",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "An RN who lives in North Carolina has just received a multistate license and will start a remote case-management job. After an orientation session, which statements by the nurse show correct understanding of the Nurse Licensure Compact? Select all that apply.",
+   "options": [
+    "“I can give telehealth care to clients located in other compact states.”",
+    "“My license lets me give telehealth care to clients in any state.”",
+    "“If I move to a non-compact state, I’ll need that state’s own license.”",
+    "“I can keep this license after moving to a non-compact state if I keep a North Carolina mailing address.”",
+    "“When my client is in another compact state, I follow that state’s practice laws.”"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. A multistate license covers practice in other compact states, in person or by telehealth.",
+    "Incorrect. A multistate license does not cover clients located in non-compact states.",
+    "Correct. A multistate license requires legal residence in a compact state.",
+    "Incorrect. Eligibility depends on legal residence, not a mailing address.",
+    "Correct. Practice occurs where the client is, so that state’s law applies."
+   ],
+   "rationale": "The Nurse Licensure Compact lets a nurse who legally resides in a compact state hold one multistate license that works in all other compact states, in person or by telehealth. Practice occurs where the client is, so the nurse follows that state’s Nurse Practice Act. The tempting misunderstanding is that a multistate license works everywhere, but it does not reach non-compact states. Eligibility depends on legal residence, so a mailing address cannot preserve the license after a move.",
+   "takeaway": "A multistate license works only in compact states, requires compact-state residence, and follows the client’s state law.",
+   "hintContent": "Check each statement against residence, client location, and which states recognize the license.",
+   "hintStrategy": "For evaluate-the-teaching SATA, select only statements that would be true in every situation they describe.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 15",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-039",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A nurse manager is reviewing concerns about an RN on a postoperative unit. Which findings suggest possible drug diversion and need to be reported through the chain of command? Select all that apply.",
+   "options": [
+    "Clients assigned to the RN often report unrelieved pain after documented opioid doses.",
+    "The RN often wastes partial opioid doses without a second nurse as witness.",
+    "The RN’s clients report lower pain ratings after each documented dose.",
+    "The RN often offers to give opioids to clients assigned to other nurses.",
+    "The RN asks a coworker to double-check a high-alert insulin dose.",
+    "The RN takes long breaks soon after removing opioids from the dispenser."
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Unrelieved pain after charted doses can mean clients are not receiving the drug.",
+    "Correct. Unwitnessed wastes are a common way diverted drugs go unnoticed.",
+    "Incorrect. Pain relief after documented doses is the expected response.",
+    "Correct. Seeking access to other nurses’ clients’ opioids is a warning sign.",
+    "Incorrect. Independent double-checks of high-alert drugs are a safety practice.",
+    "Correct. Disappearing after opioid withdrawals is a recognized warning sign."
+   ],
+   "rationale": "Drug diversion, taking a client’s medication for oneself or others, is a ground for Board discipline and must be reported, not handled quietly. Warning signs include clients reporting unrelieved pain despite charted doses, frequent unwitnessed wastes, interest in other nurses’ clients’ opioids, and absences after withdrawals. Asking for a double-check may seem suspicious to a half-prepared reader, but independent checks of high-alert drugs are expected safe practice. Reports go through the chain of command, and the agency reports conduct issues like diversion to the Board.",
+   "takeaway": "Unrelieved pain after charted doses, unwitnessed wastes, and opioid-seeking behavior are diversion cues that must be reported.",
+   "hintContent": "Look for patterns that suggest clients are not getting the drug that was documented.",
+   "hintStrategy": "For cue-recognition SATA, separate expected safe behaviors from patterns that suggest a hidden problem.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–13",
+   "alsoTests": [
+    "mandatory-reporting"
+   ],
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-040",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A clinical instructor is observing students on a medical unit. Which student actions require the instructor to intervene? Select all that apply.",
+   "options": [
+    "A student starts a sterile dressing change she has only read about, because the staff nurse is busy.",
+    "A student asks the staff nurse to insert a urinary catheter she has not learned while the instructor is off the unit.",
+    "A student is about to give metoprolol but cannot say why the client takes it.",
+    "A student reviews the agency’s fall-prevention policy before her shift.",
+    "A student plans to insert a nasogastric tube after watching a staff nurse insert one earlier.",
+    "A student tells the instructor she is unsure how to program the new IV pump."
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Performing an unlearned procedure without supervision is outside the student’s preparation.",
+    "Incorrect. Letting the staff nurse perform an unlearned skill when the instructor is away is the expected action.",
+    "Correct. Students must understand a drug before giving it, so the instructor stops the dose for review.",
+    "Incorrect. Knowing facility policy before the assignment is part of the student’s role.",
+    "Correct. Watching once does not make the student competent; she needs instruction and supervision.",
+    "Incorrect. Telling the instructor about a gap before acting is exactly what students should do."
+   ],
+   "rationale": "Students are accountable to provide safe care, be prepared, perform only learned skills, and seek help before unfamiliar procedures. The instructor must step in when a student is about to act beyond her preparation, such as starting an unlearned procedure, giving an unfamiliar drug, or relying on having watched a skill once. Asking the staff nurse to perform an unlearned skill may look like the student is avoiding work, but it is the correct action when the instructor is away. Reviewing policy and admitting uncertainty are signs of safe practice.",
+   "takeaway": "Intervene when a student acts beyond her preparation; praise the student who speaks up or gets help.",
+   "hintContent": "Ask whether each student is acting within learned skills and knowledge.",
+   "hintStrategy": "For “requires intervention” SATA, select only the unsafe actions; safe ones are distractors.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+   "id": "m49-lr-041",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A nursing student completes the preparation worksheet in the exhibit the evening before caring for a 72-year-old Spanish-speaking client with atrial fibrillation. Which items must the student resolve with her instructor before giving care? Select all that apply.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Student Preparation Worksheet",
+      "table": {
+       "headers": [
+        "Item",
+        "Student entry"
+       ],
+       "rows": [
+        [
+         "Diagnosis",
+         "Atrial fibrillation: irregular rhythm; risk of clots and stroke"
+        ],
+        [
+         "Metoprolol 25 mg by mouth twice daily",
+         "Purpose: slows heart rate. When to hold: “not sure”"
+        ],
+        [
+         "Enoxaparin 1 mg/kg subcutaneous every 12 hours",
+         "Skill status: not yet checked off on subcutaneous injections"
+        ],
+        [
+         "Fall precautions (high fall risk)",
+         "Agency policy: “haven’t reviewed yet”"
+        ],
+        [
+         "Communication",
+         "Prefers Spanish; facility medical interpreter by video arranged"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Find out when metoprolol should be held and review it with the instructor.",
+    "Tell the instructor she is not checked off on subcutaneous injections.",
+    "Rewrite the atrial fibrillation summary in more detail before the shift.",
+    "Review the agency’s fall-prevention policy before providing care.",
+    "Ask a family member to interpret instead of the arranged interpreter."
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The student does not know the hold parameters for a drug that slows the heart rate, so she cannot give it safely yet.",
+    "Correct. The instructor must know about an unlearned skill before the student is assigned to give enoxaparin.",
+    "Incorrect. Her summary already captures the key problem and risk; it is not a safety gap.",
+    "Correct. Students must know facility policies before their assignments, and this client is at high fall risk.",
+    "Incorrect. A trained medical interpreter is the correct choice; family members should not interpret clinical information."
+   ],
+   "rationale": "Being prepared means understanding the client’s condition, medications, and interventions, knowing agency policies, and telling the instructor about any skill not yet learned. The worksheet shows three gaps: unknown hold parameters for metoprolol, an unlearned injection skill, and an unread fall policy for a high-risk client. The diagnosis summary is tempting to revise, but it is already accurate and does not threaten safety. The arranged medical interpreter is correct practice and should not be swapped for a family member.",
+   "takeaway": "Before clinical, close every gap in drug knowledge, skills, and policy, and tell the instructor about anything you cannot close.",
+   "hintContent": "Scan the worksheet for entries that say “not sure,” “not yet,” or “haven’t.”",
+   "hintStrategy": "On exhibit SATA items, select only the entries that show a real safety gap; completed items are distractors.",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slide 17",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-lr-042",
+   "topic": "licensure-regulation",
+   "type": "sata",
+   "stem": "A graduate of an approved nursing program in North Carolina has accepted a job offer on a labor and delivery unit. She asks what must happen before she may begin working there as an RN. Which requirements apply? Select all that apply.",
+   "options": [
+    "Earn a specialty certification in inpatient obstetric nursing",
+    "Pass the NCLEX-RN",
+    "Join a national professional nursing association",
+    "Answer the Board’s application honestly, including any criminal history",
+    "Receive her license from the state Board of Nursing",
+    "Have the NCSBN issue her a multistate license"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Certification is optional and is not required for licensure.",
+    "Correct. Passing the licensure exam is required by the Nurse Practice Act.",
+    "Incorrect. Membership in a professional association is voluntary.",
+    "Correct. Honest disclosure on the application is required, and dishonesty is a ground for denial.",
+    "Correct. Only the Board grants the license that allows her to practice as an RN.",
+    "Incorrect. The NCSBN does not issue licenses; her home state Board does."
+   ],
+   "rationale": "The Nurse Practice Act sets the requirements for licensure, and the state Board of Nursing applies them. A graduate of an approved program must apply to the Board, disclose required information honestly, pass the NCLEX-RN, and receive her license before practicing as an RN. The NCSBN writes the exam but never issues licenses, which makes it the tempting wrong answer. Certification and association membership are voluntary and come later, if at all.",
+   "takeaway": "Approved program, honest application, NCLEX pass, then a Board-issued license; nothing else is legally required.",
+   "hintContent": "Separate what the law requires from what is optional or done by the wrong organization.",
+   "hintStrategy": "For SATA, test each option alone against the question: is this legally required before practice?",
+   "ref": "Module 49 · Legal Issues · Nurse Practice Acts, Licensure & the Student Nurse · Unit 7 slides 12–14, 16",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  }
+ ]
+}

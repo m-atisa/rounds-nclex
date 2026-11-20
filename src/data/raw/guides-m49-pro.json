@@ -34,7 +34,7 @@
     },
     {
      "term": "Law",
-     "def": "The full set of rules a society lives by (Guido, 2020). Made at federal, state, and local levels."
+     "def": "The rules and regulations that govern a society (Guido, 2020). Made at federal, state, and local levels."
     },
     {
      "term": "Constitutional law",
@@ -62,7 +62,7 @@
     },
     {
      "term": "Criminal law",
-     "def": "Public law about acts that harm a person or society. The government prosecutes. Punishment is a fine or prison."
+     "def": "Public law about acts that harm a person or society. The government prosecutes. Punishment is a fine or prison. A conviction can also lead the Board to take the license."
     },
     {
      "term": "Crime",
@@ -90,11 +90,11 @@
     },
     {
      "term": "Assault",
-     "def": "Making someone reasonably fear an unwanted touch. No touch is needed."
+     "def": "A threat or action that makes a client fear a harmful or offensive touch. No touch is needed."
     },
     {
      "term": "Battery",
-     "def": "Touching a person, their clothes, or what they hold without consent."
+     "def": "Unwanted or unauthorized touching of a person, their clothes, or what they hold. Includes any procedure done without consent."
     },
     {
      "term": "False imprisonment",
@@ -106,7 +106,7 @@
     },
     {
      "term": "Invasion of privacy",
-     "def": "Sharing private information or intruding on a person’s space without permission, including name, photos, belongings, and room."
+     "def": "Improperly sharing or accessing a client’s information, or intruding on their space without permission. Covers name, photos, belongings, and room."
     },
     {
      "term": "PHI and HIPAA",
@@ -134,6 +134,22 @@
      "check": {
       "q": "A client’s watch goes missing after transfer. No valuables list was made. Why does this matter legally?",
       "a": "The valuables policy exists to protect the client from loss and the staff and agency from blame. Skipping it puts both at risk."
+     }
+    },
+    {
+     "heading": "Law is the floor; ethics aims higher",
+     "keyIdea": "The law sets the minimum a nurse must do. Ethics asks you to aim higher. Both protect clients and your license.",
+     "body": "<p>Your instructor opens this unit with one idea. Law tells nurses the minimum standard. Ethics tells us to aim higher.</p><p>Think of the law as the floor. Fall below it, and you can be sued, charged with a crime, or lose your license. Ethics is the ceiling you reach for. It asks what is best for this client, not just what is allowed.</p><p>So legal knowledge protects two things at once: your clients and your license. The unit’s four learning objectives are:</p>",
+     "bullets": [
+      "Identify major legal concepts that affect nursing practice.",
+      "Explain negligence and standards of care.",
+      "Describe key laws that affect nurses and students.",
+      "Understand Nurse Practice Acts, advance directives, and HIPAA."
+     ],
+     "example": "A client is going home on a new blood thinner. The standard of care requires clear teaching and charting it. Ethics pushes further. You sit down, use teach-back, and ask if he can afford the drug. Only the first part is the legal minimum.",
+     "check": {
+      "q": "A nurse says, “It was legal, so I did enough.” What is missing from that view?",
+      "a": "Legal is only the minimum. Ethics asks the nurse to aim higher for the client’s good."
      }
     },
     {
@@ -179,7 +195,7 @@
     {
      "heading": "Criminal law vs. civil law",
      "keyIdea": "Criminal law punishes wrongs against society. Civil law lets an injured person sue. One act can bring both, plus Board discipline.",
-     "body": "<p>Criminal law is public law. It defines conduct that harms a person or society as a whole. Police and government prosecutors enforce it. Punishment is a fine or prison.</p><p>A <b>crime</b> is an act banned by statute or common law. It counts as a wrong against the state, not only against one person. <b>Felonies</b> are serious crimes, like homicide, manslaughter, and theft. <b>Misdemeanors</b> are lesser offenses. Crimes involving nurses include drug diversion, active euthanasia, sexual assault of a client, and theft.</p><p>Civil law is private law. It covers the rights and duties of private people. It is usually enforced through lawsuits. The injured person, the plaintiff, sues the defendant for money, called damages. Contracts and torts are civil law.</p><p>One act can bring all three: a nurse who steals a client’s oxycodone can face criminal charges, a civil suit, and Board action. A “not guilty” verdict does not protect the license.</p>",
+     "body": "<p>Criminal law is public law. It defines conduct that harms a person or society as a whole. Police and government prosecutors enforce it. Punishment is a fine or prison. Your slides add a third result: loss of license. The court does not take a license; the Board of Nursing does. A criminal conviction often leads the Board to act.</p><p>A <b>crime</b> is an act banned by statute or common law. It counts as a wrong against the state, not only against one person. <b>Felonies</b> are serious crimes, like homicide, manslaughter, and theft. <b>Misdemeanors</b> are lesser offenses. Crimes involving nurses include drug diversion, active euthanasia, sexual assault of a client, and theft.</p><p>Civil law is private law. It covers the rights and duties of private people. It is usually enforced through lawsuits. The injured person, the plaintiff, sues the defendant for money, called damages. Contracts and torts are civil law.</p><p>One act can bring all three: a nurse who steals a client’s oxycodone can face criminal charges, a civil suit, and Board action. A “not guilty” verdict does not protect the license.</p>",
      "table": {
       "caption": "Table 49.1 — Categories of law and examples that affect nurses",
       "headers": [
@@ -214,7 +230,7 @@
     {
      "heading": "What makes a tort “intentional”?",
      "keyIdea": "If the nurse meant to do the act without consent, it is an intentional tort, even with a good motive and no harm.",
-     "body": "<p>A tort is a civil wrong against a person or their property. The wrongdoer can be sued, and the injured person can be paid. Torts are unintentional (negligence, malpractice) or intentional.</p><p>Negligence is unintentional, like forgetting a bed alarm. An intentional tort is an act the nurse meant to do. This willful nature is what sets it apart from negligence. A good motive does not cancel it. Intentional torts break the standard of care and can lead to civil or criminal action.</p><p><b>Assault</b> is creating fear of an offensive, insulting, or harmful touch. No contact is needed. Threatening a client who won’t agree to an IV start is assault. So is “Hold still or I’ll strap you down.”</p><p><b>Battery</b> is willful touching of a person, their clothes, or something they carry, that is unwanted, embarrassing, or unwarranted. Examples: an injection without consent, a catheter after a “no,” forcing a client to walk, or going on after consent is withdrawn. It is battery even if the care helps.</p>",
+     "body": "<p>A tort is a civil wrong against a person or their property. The wrongdoer can be sued, and the injured person can be paid. Torts are unintentional (negligence, malpractice) or intentional.</p><p>Negligence is unintentional, like forgetting a bed alarm. An intentional tort is an act the nurse meant to do. This willful nature is what sets it apart from negligence. A good motive does not cancel it. Intentional torts break the standard of care and can lead to civil or criminal action.</p><p><b>Assault</b> is a threat or action that makes a client fear a harmful or offensive touch. No contact is needed. Threatening a client who won’t agree to an IV start is assault. So is “Hold still or I’ll strap you down.”</p><p><b>Battery</b> is willful touching of a person, their clothes, or something they carry, that is unwanted, embarrassing, or unwarranted. Examples: an injection without consent, a catheter after a “no,” forcing a client to walk, or going on after consent is withdrawn. Any procedure done without consent is battery. It is battery even if the care helps.</p>",
      "steps": [
       "Explain what you will do and get consent. Holding out an arm is implied consent for routine care. Procedures need informed consent.",
       "If the client refuses, stop. Ask why and give information.",
@@ -248,7 +264,7 @@
     {
      "heading": "Defamation and invasion of privacy",
      "keyIdea": "Chart facts, not labels. Privacy covers a client’s information and also their space and belongings.",
-     "body": "<p>Defamation is a false statement, shared with others, that harms a reputation. Libel is written, including charts, emails, and posts. Slander is spoken. Charting “drug seeker” may be libel. Chart facts instead: “Requested hydromorphone at 1300 and 1400. States pain 8/10.” Concerns about a coworker’s impairment go through proper reporting, not gossip.</p><p>Privacy covers information and territory. Confidential information may not be shared without permission. That includes the client’s name, photos, and video. Clients also control their belongings, personal space, and immediate territory. Searching a room, touching belongings without permission, or entering without knocking can break this trust. Search only for a clear safety reason, per policy, with a witness and documentation.</p><p>Your course guide says privacy is protected under the Fourth Amendment. Current standard: the Fourth Amendment limits government searches. In health care, HIPAA, state laws, and the privacy tort protect privacy. On a course exam, expect the Fourth Amendment; on the NCLEX, apply HIPAA and the client’s right to privacy.</p>",
+     "body": "<p>Defamation is a false statement, shared with others, that harms a reputation. Libel is written, including charts, emails, and posts. Slander is spoken. Charting “drug seeker” may be libel. Chart facts instead: “Requested hydromorphone at 1300 and 1400. States pain 8/10.” Concerns about a coworker’s impairment go through proper reporting, not gossip.</p><p>Your slides define invasion of privacy as improper sharing or accessing of client information. Opening a chart you don’t need for care is improper accessing, even if you tell no one.</p><p>Privacy covers information and territory. Confidential information may not be shared without permission. That includes the client’s name, photos, and video. Clients also control their belongings, personal space, and immediate territory. Searching a room, touching belongings without permission, or entering without knocking can break this trust. Search only for a clear safety reason, per policy, with a witness and documentation.</p><p>Your course materials say privacy is protected under the Fourth Amendment. Current standard: the Fourth Amendment limits government searches. In health care, HIPAA, state laws, and the privacy tort protect privacy. On a course exam, expect the Fourth Amendment; on the NCLEX, apply HIPAA and the client’s right to privacy.</p>",
      "example": "A student photographs a client’s unusual tattoo, cropping out the face. The tattoo can still identify the client. She should delete it, tell the instructor, and follow agency policy."
     },
     {
@@ -386,12 +402,17 @@
     },
     {
      "heading": "Course source & clinical clarification",
-     "body": "<p>Source: Module 49 study guide, pp. 2825–2829.</p>",
+     "body": "<p>Source: Module 49 study guide, pp. 2825–2829, and the Unit 7 Legal Issues PowerPoint, slides 1–3 and 5.</p>",
      "bullets": [
       "Outcomes covered here: 49.1 (sources and types of law) and 49.2 (intentional torts, privacy). Malpractice is in the next lesson.",
       "Pp. 2825–2827: scope of legal issues, client rights, purposes of policies, sources of law (Figure 49.1), public vs. private law, crime, Table 49.1. Pp. 2828–2829: intentional torts, privacy, HIPAA.",
-      "Course vs. current: the course links privacy to the Fourth Amendment, which limits government searches. In health care, HIPAA, state law, and the privacy tort protect privacy. Course exam: Fourth Amendment. NCLEX: HIPAA.",
-      "Restraint rules, AMA steps, and HIPAA’s “minimum necessary” are standard national practice, added for application."
+      "Your course materials say privacy is protected under the Fourth Amendment. Current standard: the Fourth Amendment limits government searches; in health care, HIPAA, state law, and the privacy tort protect privacy. Course exam: Fourth Amendment. NCLEX: HIPAA.",
+      "Restraint rules, AMA steps, and HIPAA’s “minimum necessary” are standard national practice, added for application.",
+      "Slide 1 note: law tells nurses the minimum standard; ethics tells us to aim higher. This protects clients and your license. Slide 2 lists the four unit objectives.",
+      "Slide 3: law, statutory law (the NPA), administrative law (Board rules), criminal law, and tort. Slide 5: assault, battery, false imprisonment (the AMA example), and invasion of privacy.",
+      "Your course materials say criminal violations can bring fines, prison, or loss of license (slide 3). Current standard: the court imposes fines and prison; the Board of Nursing, not the court, acts on the license. Learn all three results.",
+      "Slide 5 lists “Standards of care” beside the intentional torts. It is not a tort. It is the yardstick every tort and malpractice case is measured against; see the next lesson.",
+      "Slides 11–27 (exemplars 49.A Nurse Practice Acts, 49.B Advance Directives, 49.C HIPAA, 49.D Mandatory Reporting) are taught in their own exemplar lessons."
      ]
     }
    ],
@@ -409,7 +430,8 @@
     "A good motive never cures battery.",
     "Never block the door for a competent adult leaving AMA.",
     "Opening a chart with no work reason is a breach, even if you tell no one.",
-    "Mandatory reports are legal exceptions to confidentiality."
+    "Mandatory reports are legal exceptions to confidentiality.",
+    "Law is the minimum standard; ethics asks you to aim higher."
    ],
    "redFlags": [
     "A plan to hold or tie a competent client “for their own good.”",
@@ -585,9 +607,47 @@
       "NPA and Board rules: the primary legal basis.",
       "Job description: defines your role at work. It can limit scope, never expand it past the NPA.",
       "Agency policies and procedures: follow them. If one conflicts with current practice, fix it through quality improvement.",
-      "Prevailing national standards: the American Nurses Association (ANA) Standards of Practice and specialty standards, such as critical care standards."
+      "Prevailing national standards: the American Nurses Association (ANA) Standards of Practice and specialty standards, such as critical care standards. See the next section."
      ],
      "example": "A unit policy still calls for routine saline flushes before suctioning, which current evidence doesn’t support. The nurse doesn’t just ignore the policy. She brings the evidence to the practice council or manager so it gets updated."
+    },
+    {
+     "heading": "What do ANA and specialty standards add?",
+     "keyIdea": "ANA standards set the baseline for every RN. Specialty standards add more specific expectations for nurses in special settings.",
+     "body": "<p>A <b>standard of care</b> is the set of professional expectations and competencies nurses must follow. In court, it answers one question: what would a reasonably prudent nurse have done here?</p><p>The American Nurses Association (ANA) Standards of Practice set the baseline. They describe the competent care expected of every registered nurse, in any setting. They follow the nursing process. Beside them sit the ANA Standards of Professional Performance, such as ethics, communication, and collaboration.</p><p>Specialty groups write extra standards for their area. Examples are the Emergency Nurses Association (ENA) and the American Association of Critical-Care Nurses (AACN). They set more specific expectations in the ED, ICU, pediatrics, hospice, and other settings. A nurse working in a specialty is held to that specialty’s standard. The ANA Standards of Practice are:</p>",
+     "bullets": [
+      "Assessment: collect data about the client.",
+      "Diagnosis: analyze the data to name the problems.",
+      "Outcomes identification: set the expected results. Your slides fold this step into planning.",
+      "Planning: choose interventions to reach the outcomes.",
+      "Implementation: carry out the plan, including coordinating care and teaching.",
+      "Evaluation: check progress and revise the plan."
+     ],
+     "table": {
+      "caption": "Two layers of national standards (Unit 7 slide 8)",
+      "headers": [
+       "Layer",
+       "Who writes it",
+       "What it covers"
+      ],
+      "rows": [
+       [
+        "ANA Standards of Practice",
+        "American Nurses Association",
+        "Baseline competent care for all RNs, built on the nursing process, plus professional performance standards"
+       ],
+       [
+        "Specialty practice standards",
+        "Specialty groups, such as ENA and AACN",
+        "More specific expectations in the ED, ICU, pediatrics, hospice, and other settings"
+       ]
+      ]
+     },
+     "example": "An ICU nurse misses a change in a ventilated client. In a lawsuit, an expert asks what a reasonably prudent critical care nurse would have done. AACN standards help answer that, on top of the ANA baseline.",
+     "check": {
+      "q": "An ICU nurse asks, “Now that I follow AACN standards, do the ANA standards still apply?” What is the answer?",
+      "a": "Yes. ANA standards are the baseline for every RN. AACN standards add specific expectations on top."
+     }
     },
     {
      "heading": "How legal issues link to other concepts",
@@ -725,7 +785,7 @@
       "Respondeat superior (“let the master answer”): a suit naming a nurse usually names the employer too. The employer is liable if it fails to provide enough staff or supplies, fails to teach nurses new equipment or procedures, or fails to orient nurses. The nurse stays personally accountable.",
       "Res ipsa loquitur (“the thing speaks for itself”): the harm can’t be traced to one person or standard, but it doesn’t happen without negligence. Course example: a surgical instrument left inside a client. Others: a retained sponge or a burn under anesthesia.",
       "Statute of limitations: the time limit between recognizing harm and filing suit. It varies by state and type of injury and is longer for minors.",
-      "Your course guide says plaintiffs typically have 1 to 2 years. In NC, the malpractice limit is generally 3 years, with a 4-year statute of repose. On a course exam, expect 1 to 2 years; in NC practice, 3 years."
+      "Your course materials say plaintiffs typically have 1 to 2 years. Current standard: the limit varies by state; in NC, malpractice is generally 3 years, with a 4-year statute of repose. On a course exam, expect 1 to 2 years; in NC practice, 3 years."
      ],
      "analogy": "Picture a chain of six links. Break any link and the case falls. Look for the missing link.",
      "check": {
@@ -736,7 +796,7 @@
     {
      "heading": "Four strategies to prevent negligence",
      "keyIdea": "The course names four strategies: prevent medication errors, maximize safety, communicate and document well, and carry liability insurance.",
-     "body": "<p>Outcome 49.4 asks you to outline these strategies. Learn each one and what it requires.</p><p>Poor communication plus a bad outcome raises the risk of a claim. Clear talk, attentive listening, and teaching show caring. Clients who feel cared for sue less.</p>",
+     "body": "<p>Outcome 49.4 asks you to outline these strategies. Learn each one and what it requires.</p><p>Your slides teach the same four in a different order: maintain client safety, use effective communication (including documentation), minimize medication errors, and carry liability insurance. The bullets below list what the slides add.</p><p>Poor communication plus a bad outcome raises the risk of a claim. Clear talk, attentive listening, and teaching show caring. Clients who feel cared for sue less.</p>",
      "table": {
       "caption": "Strategies to prevent professional negligence (pp. 2829–2830)",
       "headers": [
@@ -765,7 +825,14 @@
      "check": {
       "q": "A client says, “I’ve had a sudden, terrible headache for an hour.” The nurse is busy. Why does this matter legally?",
       "a": "Ignoring a complaint that could signal a brain bleed is a failure to monitor and act. Assess now and notify the provider."
-     }
+     },
+     "bullets": [
+      "Safety: start safety measures at admission and keep them going throughout care. Follow facility protocols and evidence-based best practices. Stay aware of client needs and respond promptly to prevent harm.",
+      "Communication: clear, respectful communication builds trust and lowers risk.",
+      "Documentation must follow facility policy. It must be timely, complete, and objective. It must include assessments, interventions, the client’s response, and provider notifications.",
+      "Medications: giving drugs is a high-risk nursing activity. Use the rights of medication administration, at least right client, drug, dose, route, time, and documentation. Verify any unclear order with the prescriber before giving it.",
+      "Insurance: coverage may be individual, employer-sponsored, or group-based. Your program requires students to keep active liability insurance throughout the program."
+     ]
     },
     {
      "heading": "Preventing errors and responding to them",
@@ -811,7 +878,7 @@
     {
      "heading": "Documentation and liability insurance",
      "keyIdea": "If it wasn’t charted, a jury may assume it wasn’t done. Know which insurance covers you, and when.",
-     "body": "<p>Clients who feel heard and informed sue less. The chart is the legal record. Chart promptly and objectively. Show assessments, actions, the client’s response, and provider notice. Quote the client when it helps.</p><p>Never chart ahead or rely on memory. Never alter or delete an entry; use the EHR correction process. Chart only your own care. When you call a provider, record who, when, what you reported, and what was ordered. Students usually must carry liability insurance.</p>",
+     "body": "<p>Clients who feel heard and informed sue less. The chart is the legal record. Chart promptly and objectively. Show assessments, actions, the client’s response, and provider notice. Quote the client when it helps.</p><p>Never chart ahead or rely on memory. Never alter or delete an entry; use the EHR correction process. Chart only your own care. When you call a provider, record who, when, what you reported, and what was ordered. Your nursing program requires students to keep active liability insurance during the program.</p>",
      "table": {
       "caption": "Liability insurance compared",
       "headers": [
@@ -821,7 +888,7 @@
       "rows": [
        [
         "Occurrence-based",
-        "Any incident during the policy period, whenever the claim comes, even after the policy ends"
+        "Any incident during the policy period, whenever the claim comes, even if it is reported after the policy ends"
        ],
        [
         "Claims-made",
@@ -834,6 +901,10 @@
        [
         "Employer-sponsored",
         "Narrowest: only acts done as an employee at work"
+       ],
+       [
+        "Group-based",
+        "One policy covers a whole group, such as all students in a nursing program"
        ]
       ]
      },
@@ -942,15 +1013,19 @@
     },
     {
      "heading": "Course source & clinical clarification",
-     "body": "<p>Source: Module 49 study guide, pp. 2825–2831.</p>",
+     "body": "<p>Source: Module 49 study guide, pp. 2825–2831, and the Unit 7 Legal Issues PowerPoint, slides 4–8.</p>",
      "bullets": [
       "Outcomes covered here: 49.2 (negligence and malpractice), 49.3 (related concepts), 49.4 (prevention strategies), and 49.5 (standard of care).",
       "Pp. 2825–2828: NPDB data, negligence, malpractice, Box 49.1, six elements, medication safety alert, respondeat superior, res ipsa loquitur, statute of limitations.",
       "Pp. 2829–2831: related concepts table, safety and error reporting, management, four prevention strategies, falls safety alert, liability insurance, standard of care.",
-      "Many texts list four elements (duty, breach, causation, damages). This course lists six. Learn the six.",
-      "Course vs. current: the course’s 1 to 2 years is a typical range. NC is generally 3 years, with a 4-year repose. Course exam: 1 to 2 years. NC practice: 3 years.",
+      "Your course materials say malpractice has six elements. Current standard: many legal texts list four (duty, breach, causation, damages) and fold foreseeability into breach and causation. The ideas are the same. Learn the six.",
+      "Your course materials say the statute of limitations is typically 1 to 2 years. Current standard: it varies by state; NC is generally 3 years, with a 4-year statute of repose. Course exam: 1 to 2 years. NC practice: 3 years.",
       "Assess-first error steps, keeping the incident report out of the chart, SBAR, two identifiers, and tail coverage are standard practice, added for application.",
-      "NC delegation and NCBON Just Culture content came from verified NCBON information. National Just Culture categories and chain-of-command escalation are standard safety practice, not in the course text."
+      "NC delegation and NCBON Just Culture content came from verified NCBON information. National Just Culture categories and chain-of-command escalation are standard safety practice, not in the course text.",
+      "Slide 4: the six elements (all six must be present) and liability. Slide 5: standards of care defined as the professional expectations and competencies nurses must follow.",
+      "Slides 6–7: four strategies (maintain client safety, effective communication and documentation, minimize medication errors, carry liability insurance), documentation must-haves, and insurance types. Students must keep active insurance during the program.",
+      "Slide 8: ANA Standards of Practice (baseline for all RNs, nursing process, professional performance) and specialty standards (ENA, AACN; ED, ICU, pediatrics, hospice).",
+      "Your course materials say the nursing process in the ANA standards is assessment, diagnosis, planning, implementation, and evaluation. Current standard: ANA lists six Standards of Practice, adding outcomes identification between diagnosis and planning. On a course exam expect the five steps; on the NCLEX, set measurable outcomes before choosing interventions."
      ]
     }
    ],
@@ -1033,7 +1108,7 @@
    "keyTerms": [
     {
      "term": "Informed consent",
-     "def": "The client’s right to be told about a treatment and to accept or refuse it, freely and without pressure."
+     "def": "The client’s legal and ethical right to receive full information about a treatment and to give or refuse permission, freely and without pressure."
     },
     {
      "term": "Expressed consent",
@@ -1045,11 +1120,11 @@
     },
     {
      "term": "Emergency doctrine",
-     "def": "Consent is presumed when life or limb is at risk and the client can’t consent. It never allows a treatment refused before."
+     "def": "Life-saving care may go ahead without consent when life or limb is at risk, the client can’t consent, and delay would raise the risk. Never overrides a known refusal."
     },
     {
      "term": "Competency",
-     "def": "A legal presumption that adults (usually 18+) can make contracts and health care decisions, unless a court rules otherwise."
+     "def": "A legal presumption that adults (usually 18+) can make contracts and health care decisions, unless a court declares otherwise."
     },
     {
      "term": "Capacity",
@@ -1089,7 +1164,7 @@
     },
     {
      "term": "Good Samaritan laws",
-     "def": "Protect volunteers who give emergency help outside a job, within their training, without abandoning the victim."
+     "def": "Protect people, including health care workers, who give emergency help outside a work setting, within their training, without pay, and without abandoning the victim."
     },
     {
      "term": "Abandonment",
@@ -1097,7 +1172,7 @@
     },
     {
      "term": "Whistleblowing",
-     "def": "An employee reporting an employer’s unsafe or illegal practices. The whistleblower is protected from retaliation if conditions are met."
+     "def": "An employee reporting an employer’s unsafe, unethical, or illegal practices. The whistleblower is protected from retaliation if conditions are met."
     },
     {
      "term": "Mandated reporter",
@@ -1105,14 +1180,14 @@
     },
     {
      "term": "Whistleblower",
-     "def": "The employee who reports an employer’s unsafe or illegal practices. Protected from retaliation (firing, demotion, discipline, intimidation) if conditions are met."
+     "def": "The employee who reports unsafe, unethical, or illegal practices. Legal protection from retaliation (firing, demotion, discipline, intimidation) usually needs a real violation of law and the required steps."
     }
    ],
    "sections": [
     {
      "heading": "What makes consent “informed”?",
      "keyIdea": "The provider explains and gets consent. The nurse confirms understanding, arranges an interpreter, and witnesses.",
-     "body": "<p>Informed consent is the client’s legal and ethical right to be told about any procedure or treatment and to accept or refuse it. It must be given freely, without pressure, fear, or undue influence. Consent is valid only when the client has capacity, gets enough information, and chooses freely.</p><p>It is needed for elective or therapeutic surgery, diagnostic procedures, and sedation or anesthesia. It is not needed for time-sensitive, lifesaving emergency care. <b>Expressed consent</b> is an oral or written agreement. <b>Implied consent</b> comes from actions: saying yes to taking part, or doing something that fits the care.</p><p>The provider doing the procedure explains it. The nurse checks that the client can see, hear, and read. The nurse uses a qualified medical interpreter, never family, and respects cultural and spiritual needs. Witnessing confirms the signer is the client, the choice is free, and the client seems to understand.</p><p>If the client is unsure, don’t witness; call the provider back. Consent can be withdrawn anytime. If it is, stop, notify the provider, and document. Get it before giving opioids or sedatives. The five required elements:</p>",
+     "body": "<p>Informed consent is the client’s legal and ethical right to receive full information about any procedure or treatment and to give or refuse permission. It must be given freely, without pressure, fear, or undue influence. Consent is valid only when the client has capacity, gets enough information, and chooses freely.</p><p>It is needed for elective or therapeutic surgery, diagnostic procedures, and sedation or anesthesia. It is not needed for time-sensitive, lifesaving emergency care. <b>Expressed consent</b> is an oral or written agreement. <b>Implied consent</b> comes from actions: saying yes to taking part, or doing something that fits the care.</p><p>The provider doing the procedure explains it. The nurse checks that the client can see, hear, and read. The nurse uses a qualified medical interpreter, never family, and respects cultural and spiritual needs. Witnessing confirms the signer is the client, the choice is free, and the client seems to understand.</p><p>If the client is unsure, don’t witness; call the provider back. Consent can be withdrawn anytime. If it is, stop, notify the provider, and document. Get it before giving opioids or sedatives. The five required elements:</p>",
      "bullets": [
       "Reason: why treatment is needed.",
       "Procedure: what will be done.",
@@ -1158,7 +1233,7 @@
     {
      "heading": "What if the client can’t decide?",
      "keyIdea": "Presume adults can decide. If capacity is in doubt, tell the provider. If it is lost, use the guardian, surrogate, or directive.",
-     "body": "<p><b>Competency</b> is a legal presumption. Adults, usually from age 18, are presumed competent unless proven otherwise. It gives them the right to make contracts and health care decisions. If a court finds an adult incompetent, such as after a severe brain injury or with profound intellectual disability, it appoints a guardian. The guardian must give the team a copy of the court order.</p><p>Capacity is clinical and decision-specific. It can be lost for a while from opioids, sedation, or serious illness, or slowly from dementia. Alert the provider if competency seems doubtful. Cognitive impairment alone doesn’t remove the right to decide unless a court has ruled. If capacity is lacking or unclear, a surrogate decides per agency policy.</p><p>The emergency doctrine: most states assume consent when a person faces imminent loss of life or limb and can’t consent. It never allows a treatment the client already refused. If a Jehovah’s Witness refused blood, maybe on a wallet card, giving blood after they pass out is battery. Use accepted alternatives and involve ethics as needed.</p><p>Under the Patient Self-Determination Act, Medicare and Medicaid hospitals must ask about advance directives. Directives reduce family conflict.</p>",
+     "body": "<p><b>Competency</b> is a legal presumption. Adults, usually from age 18, are presumed competent unless a court declares otherwise. It gives them the right to make contracts and health care decisions. If a court finds an adult incompetent, such as after a severe brain injury or with profound intellectual disability, it appoints a guardian. The guardian must give the team a copy of the court order.</p><p>Capacity is clinical and decision-specific. It can be lost for a while from opioids, sedation, or serious illness, or slowly from dementia. Alert the provider if competency seems doubtful. Cognitive impairment alone doesn’t remove the right to decide unless a court has ruled. If capacity is lacking or unclear, a surrogate decides per agency policy.</p><p>The emergency doctrine: most states assume consent when a person faces imminent loss of life or limb and can’t consent. Your slides say it simply: life-saving care may proceed without consent when delay increases risk. It never allows a treatment the client already refused. If a Jehovah’s Witness refused blood, maybe on a wallet card, giving blood after they pass out is battery. Use accepted alternatives and involve ethics as needed.</p><p>Under the Patient Self-Determination Act, Medicare and Medicaid hospitals must ask about advance directives. Directives reduce family conflict.</p>",
      "steps": [
       "Presume the adult can decide.",
       "Watch for confusion, sedation, or trouble repeating information.",
@@ -1175,7 +1250,7 @@
     {
      "heading": "When can a minor consent?",
      "keyIdea": "A parent usually consents for anyone under 18, but several legal exceptions let the minor decide.",
-     "body": "<p>A parent or guardian usually consents for a minor (under 18). When a law lets the minor consent to a service, the minor is the decision maker for it. Elective surgery for a non-emancipated minor needs a parent.</p><p>Your course guide gives exact state counts from CDC and Guttmacher data (Box 49.2). Current standard: these counts shift as states change laws, especially abortion laws since 2022. On a course exam, expect the guide’s numbers; on the NCLEX, know the principle that minors may consent to some services by law.</p>",
+     "body": "<p>A parent or guardian usually consents for a minor (under 18). When a law lets the minor consent to a service, the minor is the decision maker for it. Elective surgery for a non-emancipated minor needs a parent.</p><p>Your course materials give exact state counts from CDC and Guttmacher data (Box 49.2). Current standard: these counts shift as states change laws, especially abortion laws since 2022. On a course exam, expect the guide’s numbers; on the NCLEX, know the principle that minors may consent to some services by law.</p>",
      "bullets": [
       "The emergency doctrine applies.",
       "Emancipation: no longer under parents’ control and managing own money, such as married or in the military.",
@@ -1243,7 +1318,7 @@
     {
      "heading": "Controlled drugs: what does the law require?",
      "keyIdea": "The CSA sorts drugs into Schedules I–V. Nurses secure, count, waste with a watching witness, and report gaps.",
-     "body": "<p>The Controlled Substances Act (CSA) is federal law enforced by the DEA. It sorts drugs into Schedules I through V by medical use, abuse potential, and safety risk. It requires unique DEA registration numbers and strict records that track each drug from import or manufacture to the client.</p><p>Store controlled drugs securely and count them per policy. Waste with a licensed witness who actually watches. Report any count gap right away. Having a controlled drug without a prescription is a crime. Diversion is a crime. Report concerns factually through the chain of command and to the Board as required. Don’t confront or investigate alone.</p><p>Your course guide calls Schedule V “no Rx required” and lists ezogabine. Current standard: many Schedule V drugs, like pregabalin, need a prescription; ezogabine was discontinued in 2017. Schedule II drugs need a prescription with no refills. On a course exam, expect the table below; in practice, follow the current label and law.</p>",
+     "body": "<p>The Controlled Substances Act (CSA) is federal law enforced by the DEA. It sorts drugs into Schedules I through V by medical use, abuse potential, and safety risk. It requires unique DEA registration numbers and strict records that track each drug from import or manufacture to the client.</p><p>Store controlled drugs securely and count them per policy. Waste with a licensed witness who actually watches. Report any count gap right away. Having a controlled drug without a prescription is a crime. Diversion is a crime. Report concerns factually through the chain of command and to the Board as required. Don’t confront or investigate alone.</p><p>Your course materials call Schedule V “no Rx required” and lists ezogabine. Current standard: many Schedule V drugs, like pregabalin, need a prescription; ezogabine was discontinued in 2017. In 2026, the DEA moved FDA-approved and state-licensed medical marijuana to Schedule III; other marijuana stays in Schedule I. Schedule II drugs need a prescription with no refills. On a course exam, expect the table below; in practice, follow the current label and law.</p>",
      "bullets": [
       "Diversion cue: frequent wastes with no witness.",
       "Diversion cue: clients whose pain stays uncontrolled after large doses.",
@@ -1262,7 +1337,7 @@
         "I",
         "Highest; high; high",
         "Heroin, peyote, marijuana, MDMA (“ecstasy”)",
-        "Medical marijuana limited to specific states"
+        "Course: medical marijuana limited to specific states. Current: FDA-approved and state-licensed medical marijuana moved to Schedule III in 2026"
        ],
        [
         "II",
@@ -1298,7 +1373,7 @@
     {
      "heading": "Good Samaritan laws and whistleblowing",
      "keyIdea": "Good Samaritan law protects unpaid help within your training. Whistleblower law protects reporting a real violation, inside first.",
-     "body": "<p>Good Samaritan laws are state laws that encourage health care workers to help in emergencies. They protect you from liability when you volunteer outside an employment contract. Give care that meets the nursing standard for your training and license; don’t try a field tracheostomy. Once you start, follow through, or safely hand the victim to someone qualified. Paid care, gross negligence, and willful misconduct are not covered.</p><p>Whistleblowing is an employee reporting an employer’s unsafe or illegal practices or policies. That employee is a whistleblower. To be protected: report inside first, unless already threatened or punished. The report must involve a specific state or federal law or rule, not a simple error. The employer must know and get written notice and time to fix it, or the employee must have made, or threatened to make, a report to the right agency.</p><p>Retaliation such as firing, demotion, discipline, or intimidation is banned. To win a claim, report the retaliation to OSHA before resigning.</p><p>Your course guide says the Whistleblower Protection Act of 1989 and OSHA protect people who report gross misconduct. Current standard: the 1989 Act covers federal employees; most nurses rely on OSHA provisions and state laws. On a course exam, name the 1989 Act and OSHA. Steps:</p>",
+     "body": "<p>Good Samaritan laws are state laws that encourage health care workers to help in emergencies. They protect you from liability when you volunteer outside an employment contract. Give care that meets the nursing standard for your training and license; don’t try a field tracheostomy. Once you start, follow through, or safely hand the victim to someone qualified. Paid care, gross negligence, and willful misconduct are not covered.</p><p>Whistleblowing is an employee reporting an employer’s unsafe or illegal practices or policies. That employee is a whistleblower. To be protected: report inside first, unless already threatened or punished. The report must involve a specific state or federal law or rule, not a simple error. The employer must know and get written notice and time to fix it, or the employee must have made, or threatened to make, a report to the right agency.</p><p>Retaliation such as firing, demotion, discipline, or intimidation is banned. To win a claim, report the retaliation to OSHA before resigning.</p><p>Your course materials say the Whistleblower Protection Act of 1989 and OSHA protect people who report gross misconduct. Current standard: the 1989 Act covers federal employees; most nurses rely on OSHA provisions and state laws. On a course exam, name the 1989 Act and OSHA. Steps:</p>",
      "steps": [
       "Document the problem factually.",
       "Report through the chain of command.",
@@ -1317,6 +1392,11 @@
        "Whistleblower"
       ],
       "rows": [
+       [
+        "Course definition (slide 10)",
+        "Protects health care workers giving emergency care outside of work settings",
+        "An employee who reports unsafe, unethical, or illegal practices"
+       ],
        [
         "Who",
         "Off-duty volunteer in an emergency",
@@ -1338,12 +1418,13 @@
     {
      "heading": "Reporting abuse and keeping teen confidences",
      "keyIdea": "Report reasonable suspicion of abuse without proof. Tell teens privacy has limits.",
-     "body": "<p>Nurses must report suspected child abuse: physical, emotional, and sexual maltreatment. Report per agency policy and personally to the proper agency. Document all key facts in the chart. You need suspicion, not proof; proof is the investigators’ job. Report in good faith, without malice. The reporter’s name is generally not told to the suspected abuser. Reporting abuse is an exception to confidentiality.</p><p>Your course guide says failing to report may bring civil charges. In NC and many states, knowingly failing to report is also a crime. On a course exam, expect civil charges; in NC practice, know it is a crime.</p><p>For vulnerable adults, signs include untreated pressure injuries, soiled bedding, and no food. Report to adult protective services. Then meet the client’s needs, document, and notify the provider. Teaching the caregiver doesn’t replace the report.</p><p>Teens need honest privacy for contraception, sexual health, substance use, and mental health care. Keep it when possible, but it can’t be guaranteed. Limits: danger, abuse, and insurance statements sent to a parent. Never promise total secrecy. When you suspect child abuse:</p>",
+     "body": "<p>Nurses must report suspected child abuse: physical, emotional, and sexual maltreatment. Report per agency policy and personally to the proper agency. Document all key facts in the chart. You need suspicion, not proof; proof is the investigators’ job. Report in good faith, without malice. The reporter’s name is generally not told to the suspected abuser. Reporting abuse is an exception to confidentiality.</p><p>Your course materials say failing to report may bring civil charges. Current standard: in many states, including NC, knowingly failing to report is also a crime. On a course exam, expect civil charges; in NC practice, know it is a crime.</p><p>For vulnerable adults, signs include untreated pressure injuries, soiled bedding, and no food. Report to adult protective services. Then meet the client’s needs, document, and notify the provider. Teaching the caregiver doesn’t replace the report.</p><p>Teens need honest privacy for contraception, sexual health, substance use, and mental health care. Keep it when possible, but it can’t be guaranteed. Limits: danger, abuse, and insurance statements sent to a parent. Never promise total secrecy. When you suspect child abuse:</p>",
      "steps": [
       "Spot injuries that don’t fit the story or development.",
       "Make the child safe and treat injuries.",
       "Document facts and exact words.",
       "Report promptly; don’t wait for proof.",
+      "Make sure the report reaches the proper agency. Telling a supervisor may not meet your legal duty.",
       "Don’t confront or investigate."
      ],
      "check": {
@@ -1514,28 +1595,32 @@
      "body": "<p>These NC laws guide practice here.</p>",
      "bullets": [
       "G.S. 7B-301: any person or institution that suspects a juvenile (under 18) is abused, neglected, or dependent, or died from maltreatment, reports to the county DSS director.",
-      "Knowingly failing to report is a crime in NC. Report suspicion; don’t investigate or wait for proof. Good-faith reporters are immune.",
+      "Knowingly failing to report is a crime in NC. Report suspicion; don’t investigate or wait for proof. Good-faith reporters are immune. Telling a charge nurse does not by itself meet the duty; make sure the report reaches DSS.",
       "G.S. 108A-102: anyone with reasonable cause to believe a disabled adult needs protective services reports to the county DSS director, orally or in writing. Good-faith reporters are immune.",
       "G.S. 90-21.5: minors may consent for STIs and other reportable diseases, pregnancy (not sterilization or abortion), substance or alcohol abuse, and emotional disturbance. Emancipated minors may consent. Majority is 18.",
-      "G.S. 90-21.14: Good Samaritan protection for unpaid emergency care, unless gross negligence, wanton conduct, or intentional wrongdoing. Not for paid work.",
+      "G.S. 90-21.14: Good Samaritan protection for any person, not only health care workers, giving unpaid emergency care, unless gross negligence, wanton conduct, or intentional wrongdoing. Not for paid work.",
       "Advance directives: Health Care Power of Attorney (G.S. Chapter 32A, Article 3) and living will (G.S. 90-321). The portable order form is the MOST (Medical Orders for Scope of Treatment).",
       "Diversion is reported to the NCBON, which offers alternative-to-discipline programs for substance use."
      ]
     },
     {
      "heading": "Course source & clinical clarification",
-     "body": "<p>Source: Module 49 study guide, pp. 2831–2834.</p>",
+     "body": "<p>Source: Module 49 study guide, pp. 2831–2834, and the Unit 7 Legal Issues PowerPoint, slides 9–10 and the slide 26 note.</p>",
      "bullets": [
       "Outcomes covered here: 49.6 (laws that affect nursing practice) and 49.7 (lifespan considerations).",
       "Pp. 2831–2832: consent, capacity, competency, emergency doctrine. Pp. 2832–2833: minors, Box 49.2, Clinical Example A, CSA, Table 49.2, Good Samaritan, whistleblowing. P. 2834: lifespan and the top 10 traps.",
-      "Course vs. current: the CSA is enforced by the Drug Enforcement Administration (the course says “Agency”).",
-      "Course vs. current: Table 49.2 calls Schedule V “no Rx required.” Many, like pregabalin, need a prescription; only some low-dose codeine products may be sold under pharmacist control where state law allows.",
-      "Course vs. current: ezogabine, the course’s Schedule V example, was discontinued in 2017.",
-      "Course vs. current: the course lists marijuana in Schedule I with state medical use. Federal rescheduling to Schedule III has been under review since 2024; check its status. The NCLEX tests schedule concepts.",
-      "Course vs. current: Box 49.2 state counts change over time, especially abortion laws since 2022. In NC, G.S. 90-21.5 does not let minors consent to abortion or sterilization.",
-      "Course vs. current: the course says failing to report child abuse may bring civil charges. Many states, including NC, make it a crime.",
-      "Course vs. current: the 1989 Act covers federal employees; other nurses rely on OSHA provisions and state laws, which have deadlines.",
-      "Adult protective services reporting, the Patient Self-Determination Act, consent before sedation, and waste practice were added as standard practice."
+      "Your course materials say the CSA is enforced by the Drug Enforcement “Agency.” Current standard: it is the Drug Enforcement Administration (DEA).",
+      "Your course materials say Schedule V drugs need no prescription (Table 49.2). Current standard: many, like pregabalin, need a prescription; only some low-dose codeine products may be sold under pharmacist control where state law allows.",
+      "Your course materials list ezogabine as a Schedule V example. Current standard: ezogabine was discontinued in 2017.",
+      "Your course materials list marijuana in Schedule I, with medical use limited to specific states. Current standard: in April 2026 the DEA moved FDA-approved marijuana products and state-licensed medical marijuana to Schedule III. Other marijuana stays in Schedule I while broader rescheduling is reviewed. The NCLEX tests schedule concepts.",
+      "Your course materials give fixed state counts in Box 49.2. Current standard: the counts change over time, especially abortion laws since 2022. In NC, G.S. 90-21.5 does not let minors consent to abortion or sterilization.",
+      "Your course materials say failing to report child abuse may bring civil charges. Current standard: many states, including NC, also make knowingly failing to report a crime.",
+      "Your course materials say the Whistleblower Protection Act of 1989 and OSHA protect whistleblowers. Current standard: the 1989 Act covers federal employees; other nurses rely on OSHA provisions and state laws, which have short filing deadlines.",
+      "Adult protective services reporting, the Patient Self-Determination Act, consent before sedation, and waste practice were added as standard practice.",
+      "Slide 9: informed consent (full information; give or refuse permission), expressed and implied consent, adults presumed competent unless declared otherwise, emergency consent when delay increases risk, and minors. Slide 10: CSA, Good Samaritan laws, whistleblowing.",
+      "Your course materials say Good Samaritan laws protect health care workers giving emergency care outside work (slide 10). Current standard: NC’s law (G.S. 90-21.14) protects any person giving unpaid emergency care. Paid, on-the-job care is not covered.",
+      "Your course materials define a whistleblower as an employee who reports unsafe, unethical, or illegal practices (slide 10). Current standard: legal protection usually needs a violation of a specific law or rule, plus internal reporting first.",
+      "Your course materials (slide 26) say reports go through the facility chain: charge nurse, supervisor, then the reporting body. The instructor’s note adds that rules differ by state, notifying a supervisor does not always satisfy the duty, and not every listed injury is automatically reportable. Current standard: the report must reach the designated agency; in NC, county DSS for child maltreatment. On a course exam expect the chain of command per policy; on the NCLEX, make sure the agency gets the report. Full lesson: exemplar 49.D."
      ]
     }
    ],

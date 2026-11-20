@@ -4,7 +4,7 @@ window.NURSE_DATA.push({
   "moduleNumber": 44,
   "moduleTitle": "Ethics",
   "tagline": "Your morals are yours. The client’s choice is theirs.",
-  "overview": "Values, codes of ethics, the core ethical principles, and Exemplar 44.A Morality: how nurses keep personal beliefs out of care and reason through real dilemmas. Learn to protect autonomy, confidentiality, and safety, and to answer for your own practice with fidelity and accountability.",
+  "overview": "Values, codes of ethics, ethical principles, and how to reason through ethical decisions — plus Exemplar 44.A Morality, 44.B Ethical Dilemmas (bioethics and the lifespan), and 44.C Patient Rights, taught from your Unit 7 slides and handouts.",
   "topics": [
     {
       "id": "values-codes",
@@ -296,6 +296,121 @@ window.NURSE_DATA.push({
     {
       "front": "Which free evidence-based ethics guidelines does the course name?",
       "back": "The Hartford Institute for Geriatric Nursing (advance directives, dementia care, sexual health in older adults) and ACOG.",
+      "topic": "morality"
+    },
+    {
+      "front": "Can an action be legal but not moral? Give an example.",
+      "back": "Yes. A provider orders full resuscitation that only prolongs a dying client’s suffering. No law forbids it, but it is not moral.",
+      "topic": "values-codes"
+    },
+    {
+      "front": "Which three codes give nursing its professional moral framework (Unit 7 slide 4)?",
+      "back": "The Nightingale Pledge, the International Council of Nurses (ICN) Code of Ethics, and the ANA Code of Ethics for Nurses.",
+      "topic": "values-codes"
+    },
+    {
+      "front": "Ethics letter self-check: what should you ask yourself before facing ethical dilemmas?",
+      "back": "What are my values and beliefs? Firm or easily swayed? Will I advocate? Will I admit I am wrong? Comfortable with confidential information? Can I stay neutral and not advise? Can I accept praise and criticism?",
+      "topic": "values-codes"
+    },
+    {
+      "front": "Ethics letter: name five situations where you will likely face ethical dilemmas.",
+      "back": "A DNR decision; stopping life support for a nonviable client; organ donation decisions; a suicidal or homicidal client who confides only in you; an impaired health care provider.",
+      "topic": "values-codes"
+    },
+    {
+      "front": "Match each principle to its Unit 7 slide example: autonomy, beneficence, nonmaleficence, justice, veracity.",
+      "back": "Autonomy: respecting refusal of blood products. Beneficence: repositioning to prevent pressure injuries. Nonmaleficence: checking allergies before meds. Justice: equal care regardless of insurance. Veracity: truth about a mistake.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "Handout: name four autonomy choices you must respect even if you disagree.",
+      "back": "Smoking after a lung cancer diagnosis; refusing a medication; drinking after a cirrhosis diagnosis; refusing a blood transfusion for religious reasons. Keep teaching and offering help.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "What does nonmaleficence require when every treatment carries risk?",
+      "back": "Weigh risks against benefits, aim for the least harm possible, and never intentionally cause harm. Handout examples: nosocomial infections (HAIs), adverse drug reactions, chemo and radiation side effects.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "Which Nightingale quote does your handout use for nonmaleficence?",
+      "back": "“No patient should be worse for having been nursed.”",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "Define paternalism. Which principle does it distort?",
+      "back": "Deciding what is best for a client and pressuring them to act against their own wishes, treating a capable adult like a child. It is the unwanted outcome of beneficence and violates autonomy.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "Handout beneficence examples: immunization and the older client with a hip fracture?",
+      "back": "Immunization: brief pain, but the benefit to child and society outweighs it. Hip fracture: give pain medicine promptly, but balance it with the need for consent from a client with capacity.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "Justice: a hospital has 45 free pediatric dental slots a month. How are children chosen?",
+      "back": "By a fair method free from bias, such as need-based criteria applied to every family or a lottery. Never by connections.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "What is the current term for a nosocomial infection?",
+      "back": "Health care–associated infection (HAI). Preventing HAIs with hand hygiene and asepsis is nonmaleficence.",
+      "topic": "ethical-principles"
+    },
+    {
+      "front": "Define moral development and name its five influences.",
+      "back": "The process of learning right from wrong. Influenced by family, culture, religion, education, and life experiences. Clients’ and families’ moral views differ and shape their decisions.",
+      "topic": "morality"
+    },
+    {
+      "front": "Define cultural relativism. Where does it fit in the nursing process?",
+      "back": "Right and wrong are judged within a person’s own culture; morals vary by culture. Consider it during assessment, without judging by your own values.",
+      "topic": "morality"
+    },
+    {
+      "front": "Name five nursing diagnoses related to moral issues (Unit 7 slide 11).",
+      "back": "Moral Distress, Noncompliance, Social Isolation, Powerlessness, and Post-Trauma Syndrome.",
+      "topic": "morality"
+    },
+    {
+      "front": "Morality in the nursing process: what is the challenge in planning, implementation, and evaluation?",
+      "back": "Planning: client or family values may differ from the team’s. Implementation: ethical actions can be emotionally or logistically hard. Evaluation: moral decisions often lead to second-guessing or self-reflection.",
+      "topic": "morality"
+    },
+    {
+      "front": "Moral distress vs moral dilemma?",
+      "back": "Moral distress: knowing the right thing but being unable to act. Moral dilemma: two ethically “right” choices in conflict.",
+      "topic": "morality"
+    },
+    {
+      "front": "Unit 7 slide 6: strategies to support ethical practice?",
+      "back": "Use the ANA Code as a guide; consult experienced peers, mentors, and interdisciplinary ethics committees; promote open communication; use teamwork and collaborative decision making.",
+      "topic": "morality"
+    },
+    {
+      "front": "Speaker notes: how do nurses apply ethical principles in practice?",
+      "back": "Collaboration, clear communication, compromise when possible, and stress management and support systems for nurses.",
+      "topic": "morality"
+    },
+    {
+      "front": "Fidelity, accountability, responsibility: Unit 7 slide 10 definitions?",
+      "back": "Fidelity: keeping promises and honoring commitments. Accountability: being answerable for outcomes. Responsibility: performing the duties of one’s role.",
+      "topic": "morality"
+    },
+    {
+      "front": "Handout fidelity example: a dying client asks you not to tell her family her diagnosis. What does fidelity mean here?",
+      "back": "Keep her confidence while supporting the family. She refuses intubation and fears her family would override it, so also make sure her wishes are in her code status and advance directive.",
+      "topic": "morality"
+    },
+    {
+      "front": "What is the principle of double effect?",
+      "back": "An act with good and bad effects is ethical if the act is good, only the good effect is intended, harm is not the means, and benefit outweighs harm.",
+      "topic": "morality"
+    },
+    {
+      "front": "Verbatim Account: why was giving morphine to Joe (BP 68/30, dying, in severe pain) ethical?",
+      "back": "He was dying and asked for relief. The nurse gave the prescribed drug slowly to end his pain, not his life. Intent to relieve suffering is the principle of double effect.",
       "topic": "morality"
     }
   ],

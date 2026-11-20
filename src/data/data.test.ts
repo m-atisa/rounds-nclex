@@ -14,8 +14,9 @@ describe('content integrity', () => {
   });
 
   it('has complete, NCLEX-style Professional Nursing Concepts modules', () => {
-    const pro = unitModules(UNIT_BY_SLUG.professional);
-    expect(pro.map((m) => m.number)).toEqual([37, 39, 42, 43, 44, 45, 46, 47, 49, 50]);
+    expect(unitModules(UNIT_BY_SLUG.professional).map((m) => m.number)).toEqual([37, 39, 43, 45, 46, 47, 50]);
+    expect(unitModules(UNIT_BY_SLUG['unit-7']).map((m) => m.number)).toEqual([42, 44, 49]);
+    const pro = [...unitModules(UNIT_BY_SLUG.professional), ...unitModules(UNIT_BY_SLUG['unit-7'])];
     for (const m of pro) {
       expect(new Set(m.questions.map(formatOf)), m.id).toEqual(new Set(['priority', 'single', 'sata']));
       expect(new Set(m.questions.map((q) => q.cjmm)), m.id).toEqual(new Set(CJMM_STEPS));
@@ -92,6 +93,13 @@ describe('content integrity', () => {
         expect(heads.some((h) => h.startsWith('How the NCLEX tests this')), `${m.id}/${t.id} NCLEX walkthrough`).toBe(true);
         expect(heads.some((h) => h.startsWith('Worked case')), `${m.id}/${t.id} worked case`).toBe(true);
       }
+  });
+
+  it('covers every Unit 7 exemplar from the course decks', () => {
+    const ex = (id: string) => MODULES.find((m) => m.id === id)!.topics.map((t) => t.exemplar ?? '').join(' ');
+    for (const e of ['44.A', '44.B', '44.C']) expect(ex('m44')).toContain(e);
+    for (const e of ['49.A', '49.B', '49.C', '49.D']) expect(ex('m49')).toContain(e);
+    expect(ex('m42')).toContain('42.A');
   });
 
   it('has unique question ids', () => {

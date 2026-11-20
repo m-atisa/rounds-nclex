@@ -1,0 +1,1526 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m49",
+  "moduleNumber": 49,
+  "moduleTitle": "Legal Issues",
+  "questions": [
+    {
+      "id": "m49-mr-001",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 27-year-old man is carried into the emergency department by friends after being shot in the left thigh. A T-shirt tied around the wound is soaked with blood. His triage data are shown in the exhibit. Which action should the nurse take first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Triage",
+            "table": {
+              "headers": [
+                "Finding",
+                "Value"
+              ],
+              "rows": [
+                [
+                  "Heart rate",
+                  "128/min"
+                ],
+                [
+                  "Blood pressure",
+                  "86/52 mm Hg"
+                ],
+                [
+                  "Respirations",
+                  "26/min"
+                ],
+                [
+                  "SpO2",
+                  "96% on room air"
+                ],
+                [
+                  "Skin",
+                  "Pale, cool, diaphoretic"
+                ],
+                [
+                  "Mental status",
+                  "Alert, anxious"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Apply firm direct pressure to the bleeding thigh wound.",
+        "Notify law enforcement that a gunshot victim has arrived.",
+        "Cut off his jeans and place them in a labeled paper bag.",
+        "Ask the friends how and where the shooting happened."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. He shows signs of hemorrhagic shock, so controlling the bleeding is the life-saving first step.",
+        "Incorrect. Gunshot wounds are reportable, but the report follows stabilization and is made per facility policy.",
+        "Incorrect. Preserving evidence matters, but it never comes before stopping active bleeding.",
+        "Incorrect. The history can wait; investigating the crime is not the nurse’s role and delays care."
+      ],
+      "rationale": "Mandatory reporting never comes before life-saving care. This client has a rapid pulse, low blood pressure, and cool, pale skin, which point to hemorrhagic shock from ongoing bleeding. Direct pressure is the fastest way to limit blood loss while the team prepares fluids and blood. Notifying law enforcement is tempting because gunshot wounds are on the reportable list, but the report is made after the client is stabilized and through facility policy. Evidence care and history also follow, never lead.",
+      "takeaway": "Stabilize airway, breathing, and circulation first; report the reportable injury after the client is safe.",
+      "hintContent": "Look at the vital signs. What will kill this client in the next few minutes?",
+      "hintStrategy": "When a stem mixes a legal duty with a physical emergency, apply ABCs first; legal steps follow stabilization.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-002",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A mother rushes her 2-year-old son into urgent care. She says he swallowed some of his grandmother’s blood pressure pills about 30 minutes ago, and she does not know how many are missing. The child is drowsy and pale. The nurse learns this is his second ingestion visit this year. Which action should the nurse take first?",
+      "options": [
+        "Report possible lack of supervision to child protective services.",
+        "Assess his airway, breathing, heart rate, and level of consciousness.",
+        "Ask the mother why the pills were within the child’s reach.",
+        "Call the grandmother to find out how many pills are missing."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A repeat ingestion may need a report, but the child’s physical stability comes first.",
+        "Correct. A drowsy, pale toddler after a blood pressure drug ingestion may be unstable; airway and circulation come first.",
+        "Incorrect. This sounds accusatory and does nothing for a child who may be deteriorating.",
+        "Incorrect. A pill count helps the poison center and provider, but it comes after the child is assessed."
+      ],
+      "rationale": "Poisonings are on the list of events that may need a report, and a second ingestion in a year raises a fair question about supervision. Still, a drowsy, pale toddler who swallowed a blood pressure drug may soon have bradycardia, hypotension, or airway problems. Assessing airway, breathing, circulation, and mental status is the first step, because a report cannot help a child who is crashing. The report to child protective services is the tempting answer, but it is made once the child is safe, per policy. Questions for the family should be open and nonjudgmental.",
+      "takeaway": "In a poisoning, assess and stabilize the child first; then decide on and make any required report.",
+      "hintContent": "Which drug class did he swallow, and what can it do to heart rate and blood pressure?",
+      "hintStrategy": "If the client has a possible physical threat, an ABC answer beats a reporting or interviewing answer.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+    },
+    {
+      "id": "m49-mr-003",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 4-year-old who has never been vaccinated is brought to a busy pediatric clinic with a high fever, cough, red watery eyes, and a blotchy red rash that started at the hairline. The nurse suspects measles. Several infants are in the waiting room. Which action should the nurse take first?",
+      "options": [
+        "Call the local health department to report a suspected measles case.",
+        "Ask the parent why the child never received the MMR vaccine.",
+        "Mask the child and move the family into an airborne-isolation room.",
+        "Document the rash pattern and the parent’s vaccine history."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Measles must be reported promptly, but stopping exposure in the waiting room comes first.",
+        "Incorrect. Vaccine history matters later and should be asked without judgment, not while others are being exposed.",
+        "Correct. Measles spreads through the air, so isolating the child first protects the infants and others in the clinic.",
+        "Incorrect. Documentation is needed but does nothing to stop airborne spread right now."
+      ],
+      "rationale": "Certain infectious diseases must be reported to public health, and measles is one that needs a fast report. But the first job is to stop the spread inside the clinic, because measles is airborne and very contagious, and infants are at high risk. Masking the child and moving the family to an airborne-isolation room protects everyone right away. Calling the health department is the most tempting answer because it is required, yet it does not protect the infants sitting a few feet away. Report once exposure is controlled, per policy.",
+      "takeaway": "With a reportable airborne disease, isolate first to protect others, then make sure the public health report is made.",
+      "hintContent": "How is measles spread, and who in the room is most vulnerable?",
+      "hintStrategy": "When several correct actions are listed, pick the one that removes an immediate safety risk to the most people.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m49-mr-004",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "At 0715 on a medical unit, a nurse notices that a coworker who just received report smells strongly of alcohol and has slurred speech. The coworker is drawing up insulin for a client. Which action should the nurse take first?",
+      "options": [
+        "File a complaint with the Board of Nursing before the shift ends.",
+        "Take the coworker aside and ask how much she drank last night.",
+        "Write down the behaviors and times for the incident report.",
+        "Tell the charge nurse now so the coworker is removed from client care."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A Board report may follow per policy, but it does not stop the insulin dose being drawn up now.",
+        "Incorrect. Confronting or investigating alone is unsafe and delays protecting the client.",
+        "Incorrect. Objective notes are needed, but documentation comes after client danger is removed.",
+        "Correct. Removing an impaired nurse from care protects clients right away and starts the reporting process."
+      ],
+      "rationale": "Impaired practice is a Nurse Practice Act violation, and reports of it go to the Board of Nursing. The immediate problem, though, is a client about to receive insulin from a nurse who may be intoxicated. Telling the charge nurse at once gets the coworker off the floor and lets someone safe give the insulin. Filing with the Board is the tempting choice because it is the correct final destination, but it does nothing for the client this morning. Confronting the coworker alone is never the right first move.",
+      "takeaway": "When a nurse appears impaired on duty, first get them out of client care through the charge nurse; the Board report follows policy.",
+      "hintContent": "Who is in danger in the next few minutes, and what stops that danger fastest?",
+      "hintStrategy": "For unsafe-coworker items, choose protecting clients now over reporting, confronting, or documenting.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-005",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "In a long-term care facility, a nursing assistant tells the RN, “I just saw Tom slap Mrs. Greene when she spat out her pills.” Mrs. Greene, 88, has advanced dementia. Tom, another assistant, is still in her room. Which action should the RN take first?",
+      "options": [
+        "Report the slap to the appropriate state agency per facility policy.",
+        "Go to the room, separate Tom from Mrs. Greene, and assess her.",
+        "Interview Tom privately to hear his side of what happened.",
+        "Complete an incident report while the details are still fresh."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A report is required, but it comes right after the resident is protected and assessed.",
+        "Correct. The resident may still be at risk, so the RN ends contact with the accused aide and checks her for injury.",
+        "Incorrect. Investigating is the agency’s job, and talking to Tom leaves the resident with him meanwhile.",
+        "Incorrect. Paperwork does not protect a resident who may still be with the person who hit her."
+      ],
+      "rationale": "Abuse of an older or dependent adult must be reported, and residents with dementia cannot protect themselves. The first step, though, is safety: the accused aide is still in the room. The RN goes to the room, ends Tom’s contact with Mrs. Greene, and assesses her for injury, then reports per policy and documents facts. Reporting to the state agency is tempting because it is required, but it should follow within minutes, not before, the resident is safe. The RN does not interview the accused aide; investigators do that.",
+      "takeaway": "Protect the victim from further harm first; then report, document facts, and let investigators investigate.",
+      "hintContent": "Where is the person accused of hitting the resident right now?",
+      "hintStrategy": "Order for suspected abuse: safety, assessment, report, document. Pick the step that comes first.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-006",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A nurse in a North Carolina emergency department cares for a 5-year-old with several round burns on the buttocks, each about the size of a cigarette tip. The parent says she “backed into the space heater.” The nurse tells the charge nurse, who discusses it with the house supervisor. The supervisor says, “This family is well known here. We won’t file anything.” Discharge is planned within the hour. Which action is the nurse’s priority?",
+      "options": [
+        "Report the suspected abuse directly to the county department of social services.",
+        "Accept the decision, since the supervisor is now responsible for reporting.",
+        "Document the concern in the chart and follow up at the next clinic visit.",
+        "Ask the parent to bring in the space heater so the shape can be compared."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The duty to report suspected child abuse is personal; it is not cancelled by a supervisor’s decision.",
+        "Incorrect. Telling a supervisor does not satisfy the nurse’s duty when the report never reaches the agency.",
+        "Incorrect. Waiting sends the child home to possible ongoing abuse without any report.",
+        "Incorrect. Comparing evidence is investigating; the nurse reports suspicion and lets DSS investigate."
+      ],
+      "rationale": "Reports usually travel through the facility chain, but telling a supervisor does not always satisfy the duty. When the chain stops, the nurse must make sure the report reaches the agency. Small round burns on the buttocks do not fit a story of backing into a heater, and that mismatch is reasonable cause to suspect abuse. North Carolina is a universal reporting state, so any person with cause to suspect child maltreatment must report to the county department of social services, and knowingly failing to report is a crime. Deferring to the supervisor is the tempting choice, but it leaves the child unprotected and the nurse still legally responsible.",
+      "takeaway": "If the chain of command will not report suspected child abuse, the nurse reports directly to the agency.",
+      "hintContent": "Does the injury match the story, and does a supervisor’s refusal end the nurse’s own legal duty?",
+      "hintStrategy": "Any option that waits, defers, or investigates when a child may be abused is wrong; choose the one that gets the report to the agency.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slides 26–27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-007",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 34-year-old man with cerebral palsy who does not speak is admitted from a group home. His data are shown in the exhibit. Group home staff say he “fights being turned and won’t eat.” After the nurse gives wound care and starts the prescribed IV fluids, which action is the priority?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Admission data",
+            "table": {
+              "headers": [
+                "Item",
+                "Finding"
+              ],
+              "rows": [
+                [
+                  "Weight",
+                  "59 kg (68 kg 2 months ago)"
+                ],
+                [
+                  "Skin",
+                  "Stage 3 sacral pressure injury, foul odor"
+                ],
+                [
+                  "Mucous membranes",
+                  "Dry, cracked lips"
+                ],
+                [
+                  "Sodium",
+                  "151 mEq/L"
+                ],
+                [
+                  "Clothing",
+                  "Soiled with old urine and stool"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Teach the group home staff a 2-hour turning schedule before discharge.",
+        "Ask the group home manager for staffing records to confirm neglect.",
+        "Report suspected neglect of a disabled adult to adult protective services.",
+        "Wait for the dietitian’s assessment before deciding whether to report."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Teaching may help later, but it does not replace the required report.",
+        "Incorrect. Collecting proof is investigating, which belongs to the protective agency.",
+        "Correct. The pattern suggests neglect of an adult who cannot protect himself, which must be reported.",
+        "Incorrect. Reasonable suspicion is enough; the nurse does not need confirmation first."
+      ],
+      "rationale": "Vulnerable and disabled adults are on the mandatory reporting list because they depend on others for food, hygiene, and turning. A 9-kg weight loss, dehydration with a high sodium, a stage 3 pressure injury, and old soiling point to neglect, whatever the staff’s explanation. Once his physical needs are met, the priority is a report to adult protective services, per facility policy. Teaching the staff is the tempting answer because it sounds helpful, but teaching never substitutes for a report. The nurse needs suspicion, not proof.",
+      "takeaway": "Signs of neglect in a dependent adult are reported to adult protective services; caregiver teaching is not a substitute.",
+      "hintContent": "Is this client able to protect himself or speak up about his care?",
+      "hintStrategy": "Rule out options that teach, confirm, or wait when the stem shows clear signs of neglect.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-008",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "An 81-year-old woman with mild cognitive impairment tells the clinic nurse that her power was shut off last week. She says her niece “keeps my checkbook now” and that “my pension money is gone.” She has lost weight and says she cannot afford groceries. Which action is most important for the nurse to take?",
+      "options": [
+        "Call the niece and ask her to explain the missing pension money.",
+        "Advise the client to close her bank account and open a new one.",
+        "Ask the client to bring in bank statements to prove the theft.",
+        "Report suspected financial exploitation to adult protective services."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Contacting the suspected exploiter is confronting, which can increase the client’s risk.",
+        "Incorrect. This puts the burden on a cognitively impaired client and does not start protection.",
+        "Incorrect. The nurse does not need proof; investigators gather financial records.",
+        "Correct. Misuse of an older adult’s money, with harm to her food and housing, is reportable exploitation."
+      ],
+      "rationale": "Abuse of older and dependent adults includes financial exploitation, which means misusing a person’s money or property. This client has a cognitive impairment, depends on her niece for money, and is now without power or food. Reporting suspected exploitation to adult protective services gets an agency involved that can investigate and arrange protection. Asking for bank statements is tempting because it feels thorough, but proof is the investigator’s job, not the nurse’s. Calling the niece warns the suspected exploiter and may put the client at more risk.",
+      "takeaway": "Financial exploitation of a vulnerable older adult is reported to adult protective services on suspicion, without proof.",
+      "hintContent": "Abuse of an older adult is not only physical. What else can be taken from her?",
+      "hintStrategy": "When a stem describes harm from a caregiver, choose the report over confronting the caregiver or asking for proof.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-009",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "An 84-year-old man is brought to the emergency department by his son for weakness. The client is thin and has dry mucous membranes. Each time the nurse asks the client a question, the son answers for him and says he “does everything” for his father. The son declines to step out. Which action should the nurse take first?",
+      "options": [
+        "Report suspected elder abuse to adult protective services right away.",
+        "Ask the son directly whether he has been withholding food or water.",
+        "Arrange to talk with the client alone, such as during a procedure.",
+        "Chart that the son appears to be neglecting the client."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The cues raise concern, but the nurse first needs the client’s own account to describe the situation.",
+        "Incorrect. Confronting a possible abuser can raise the client’s risk and is not the nurse’s role.",
+        "Correct. A private interview lets the nurse gather the client’s own account before deciding what to report.",
+        "Incorrect. Charting a conclusion is not objective documentation and does not gather data."
+      ],
+      "rationale": "A caregiver who answers every question and will not leave is a red flag for abuse or neglect, and so are weight loss and dehydration. The cues are not yet clear, though, so the next step is assessment: speak with the client alone, using open questions. Many agencies separate the client by taking him for an X-ray or a private exam. Reporting right away is tempting, but the report will be stronger and more accurate with the client’s own words, and it can follow within minutes if concern is confirmed. Never confront the caregiver or chart conclusions.",
+      "takeaway": "When abuse cues are present but unclear, interview the client alone first, then report if suspicion holds.",
+      "hintContent": "Whose story has the nurse not heard yet?",
+      "hintStrategy": "Assess before you act unless there is an emergency; an interview alone is the assessment step in suspected abuse.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-010",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "On a surgical unit, a nurse receives report on a client 1 day after a hip replacement. The client says, “Those pain shots last night didn’t do a thing.” The nurse reviews the overnight controlled-substance record shown in the exhibit. Which action should the nurse take first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Overnight hydromorphone record",
+            "table": {
+              "headers": [
+                "Time",
+                "Nurse",
+                "Removed",
+                "Wasted",
+                "Witness",
+                "Pain score 1 h later"
+              ],
+              "rows": [
+                [
+                  "2200",
+                  "RN K.",
+                  "2 mg",
+                  "1 mg",
+                  "None",
+                  "8/10"
+                ],
+                [
+                  "0000",
+                  "RN K.",
+                  "2 mg",
+                  "1 mg",
+                  "None",
+                  "8/10"
+                ],
+                [
+                  "0200",
+                  "RN K.",
+                  "2 mg",
+                  "1 mg",
+                  "None",
+                  "9/10"
+                ],
+                [
+                  "0400",
+                  "RN K.",
+                  "2 mg",
+                  "1 mg",
+                  "None",
+                  "8/10"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Assess the client’s pain and notify the provider that it is not controlled.",
+        "Report RN K. to the Board of Nursing for suspected drug diversion.",
+        "Call RN K. at home to ask about each of the doses she gave overnight.",
+        "Check RN K.’s locker for hidden vials before the next shift begins."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The client is in pain now, so assessing and getting relief comes before any report about the coworker.",
+        "Incorrect. The pattern needs reporting through policy, but the client’s uncontrolled pain is the first need.",
+        "Incorrect. Confronting a coworker alone is not appropriate and does nothing for the client.",
+        "Incorrect. Searching is investigating, which is the agency’s role, and may violate policy."
+      ],
+      "rationale": "The exhibit shows a classic diversion pattern: unwitnessed wastes and no pain relief after each documented dose. Diversion is a Nurse Practice Act violation and must be reported to the supervisor and, per policy, the Board of Nursing. The first priority, however, is the client, who is in pain right now and may not have received his medication. The nurse assesses his pain and tells the provider it is not controlled, then reports the pattern with facts and dates to the charge nurse or supervisor. Reporting to the Board is tempting, but the client’s need comes first.",
+      "takeaway": "In suspected diversion, care for the affected client first, then report facts through the supervisor and Board process.",
+      "hintContent": "Who is suffering from this pattern right now?",
+      "hintStrategy": "When a coworker problem and a client need appear together, meet the client’s need first, then report.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-011",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "During a visit to the school nurse for a stomachache, a 7-year-old says, “My uncle makes me keep secrets about touching. He said I’d get in trouble if I told.” The child has no visible injuries. After listening calmly and thanking the child for telling, which action should the nurse take next?",
+      "options": [
+        "Call the child’s parent to come in and discuss the uncle’s behavior.",
+        "Examine the child’s genital area to look for signs of abuse.",
+        "Report the suspected sexual abuse to child protective services right away.",
+        "Ask the child for more details about exactly what the uncle did."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The family may be involved or may warn the uncle; the agency decides how to contact family.",
+        "Incorrect. A forensic exam is done by trained examiners, and sexual abuse often leaves no physical signs.",
+        "Correct. A child’s disclosure is reasonable cause to suspect abuse, and the report must be made promptly.",
+        "Incorrect. Repeated or leading questions can upset the child and harm the forensic interview."
+      ],
+      "rationale": "Sexual abuse of a child often has no physical signs, so the child’s words are the key cue. A disclosure like this is reasonable cause to suspect abuse, and the nurse must report it promptly to child protective services, documenting the child’s exact words. Examining the child is tempting because it feels like gathering facts, but trained forensic examiners do that, and a normal exam would not rule out abuse. The nurse also avoids probing questions, because trained interviewers will speak with the child. Calling the parent first can tip off the household before the agency can act.",
+      "takeaway": "A child’s disclosure of abuse is reported promptly with the child’s exact words; the nurse does not examine, probe, or wait for physical proof.",
+      "hintContent": "Does sexual abuse need visible injuries to be reportable?",
+      "hintStrategy": "Wrong answers in abuse items investigate, wait, or tip off the family; the right answer reports.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-012",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A nursing assistant on a pediatric unit tells the RN that while bathing a 3-year-old admitted for pneumonia, she saw “a bunch of small, round sores” on the child’s back. The child’s mother is in the room. Which action should the RN take first?",
+      "options": [
+        "Report suspected abuse to child protective services right away.",
+        "Ask the mother how the child got the marks on his back.",
+        "Have the assistant photograph the marks with her phone.",
+        "Examine the child’s back and document what the marks look like."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A report will likely follow, but the RN first assesses what the assistant described; this takes minutes.",
+        "Incorrect. Questioning the caregiver in an accusatory way can put the child at risk.",
+        "Incorrect. Assessment cannot be delegated, and a personal phone photo breaches privacy.",
+        "Correct. The RN assesses the marks personally so the report contains accurate, objective findings."
+      ],
+      "rationale": "Small round lesions can be cigarette burns, but they can also be impetigo, insect bites, or cupping marks, so the RN must see them. Assessment belongs to the RN and cannot be delegated to the assistant. Examining and measuring the marks takes only minutes and gives the report accurate, objective facts. Reporting right away is tempting because suspicion is enough, but the RN has not yet seen anything and the child is not in immediate danger in the hospital. If the marks look like burns, the RN reports promptly without waiting for proof.",
+      "takeaway": "When a UAP reports a possible abuse sign, the RN assesses it personally, then reports promptly if suspicion holds.",
+      "hintContent": "What could small round marks be besides abuse, and who has actually seen them?",
+      "hintStrategy": "Assess before you act when there is no emergency, and remember that assessment is never delegated.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-013",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "At the start of a shift, a pediatric nurse has several reporting tasks. Which situation should the nurse act on first?",
+      "options": [
+        "A reportable-disease form that infection prevention asked the nurse to complete by the end of the shift",
+        "A 2-year-old with a skull fracture that does not fit the story, whose father plans to take him home in 30 minutes",
+        "A coworker’s missing charting from last month that has not yet been reported to the manager",
+        "A callback that adult protective services requested about a client’s address by tomorrow morning"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. It must be done, but the deadline is hours away and no one is in immediate danger.",
+        "Correct. A child at risk of going home to possible abuse is the most urgent; the report must be made before discharge.",
+        "Incorrect. This needs follow-up, but it is not an immediate threat to a client.",
+        "Incorrect. The agency already has the report; the requested detail can wait until later in the shift."
+      ],
+      "rationale": "Many reports are required, but they are not all equally urgent. A toddler with an unexplained skull fracture who may leave within 30 minutes faces possible further harm, so the report to child protective services must happen before he goes home. The disease form, the old charting concern, and the agency callback all must be completed, yet none puts a client in danger in the next hour. The disease form is the tempting choice because reportable-disease rules are strict, but its deadline is the end of the shift. Prioritize the report that prevents imminent harm.",
+      "takeaway": "Among required reports, act first on the one that prevents imminent harm to a vulnerable client.",
+      "hintContent": "Which client could be harmed before the nurse finishes the other tasks?",
+      "hintStrategy": "For “act first” items, ask what happens if each task waits an hour; choose the one where waiting causes harm.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-014",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A nurse has just reported suspected abuse of a 10-month-old with several rib fractures to the county department of social services. The infant’s father learns of the report, becomes angry, and starts carrying the infant toward the exit. Which action should the nurse take first?",
+      "options": [
+        "Notify security and the charge nurse according to facility policy.",
+        "Stand in front of the door to block the father from leaving.",
+        "Explain to the father who made the report and why it was made.",
+        "Let the father leave and update the agency by phone afterward."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Trained staff and the agency can act to keep the infant safe without putting the nurse or infant at risk.",
+        "Incorrect. Physically blocking an angry parent can injure the nurse or infant and is not the nurse’s role.",
+        "Incorrect. The reporter’s identity is kept from the suspected abuser, and this may escalate the anger.",
+        "Incorrect. Letting a possibly abused infant leave without alerting anyone abandons the child’s safety."
+      ],
+      "rationale": "After a report is made, the nurse still has to keep the child as safe as possible. Facility policy typically calls for security and the charge nurse, who can involve law enforcement or the agency for protective custody if needed. The nurse should not physically restrain or block a parent, which can harm the nurse or the infant. Explaining who reported is tempting as a way to calm the father, but the reporter’s identity is protected and the explanation may make him angrier. Letting the infant go without alerting anyone fails the child.",
+      "takeaway": "When a parent tries to remove a child after an abuse report, notify security and the charge nurse per policy rather than confront or block.",
+      "hintContent": "Who in the facility is trained and authorized to handle an angry parent leaving with a child?",
+      "hintStrategy": "Pick the option that protects the client and staff through the proper system, not one the nurse handles alone by force.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 26",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m49-mr-015",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "Four clients arrive in the emergency department within minutes of one another. Each may need a mandatory report. Which client should the nurse assess first?",
+      "options": [
+        "A 6-year-old with a forearm fracture and a story that keeps changing",
+        "A 30-year-old with a stab wound to the neck and a growing hematoma",
+        "A 75-year-old from a care home with bruises in different stages",
+        "A 22-year-old with a gunshot graze to the hand that has stopped bleeding"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Suspected abuse must be reported, but this child is stable and can be assessed second.",
+        "Correct. An expanding neck hematoma can compress the airway, so this client needs care first; the report comes later.",
+        "Incorrect. Possible elder abuse needs a report, but nothing suggests an airway or circulation threat.",
+        "Incorrect. The wound is reportable, but the bleeding is controlled and the client is stable."
+      ],
+      "rationale": "All four clients may need a report: a stab wound, possible child abuse, possible elder abuse, and a gunshot wound. Reporting duties do not decide triage, though; airway, breathing, and circulation do. A growing hematoma in the neck can quickly compress the airway, which makes this client the most unstable. The child with a changing story is tempting because child abuse feels urgent, but the child is physically stable and will be assessed and reported soon. Treat first, then report.",
+      "takeaway": "Triage by ABCs first; mandatory reports follow once unstable clients are cared for.",
+      "hintContent": "Which injury could block the airway within minutes?",
+      "hintStrategy": "When every option carries a legal issue, ignore the legal noise and choose by ABCs.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-016",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": true,
+      "stem": "A 77-year-old woman who lives alone is admitted with malnutrition. A neighbor found her confused in a home with no food and no heat. She has moderate dementia and cannot recall when she last ate, but she says, “I’ll be fine at home.” She has no family nearby. Which action is the nurse’s priority as discharge planning begins?",
+      "options": [
+        "Honor her wish and arrange a discharge home with a food bank list.",
+        "Ask the neighbor to check on her daily once she returns home.",
+        "Have her sign a form saying she accepts the risks of going home.",
+        "Report possible self-neglect to adult protective services per policy."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Her dementia limits her ability to judge the risk, and a list will not keep her fed or warm.",
+        "Incorrect. An informal neighbor check is not a safe plan and does not involve the protective agency.",
+        "Incorrect. A risk form does not protect an adult who cannot understand or manage her own care.",
+        "Correct. An impaired adult who cannot meet basic needs on her own may need protective services."
+      ],
+      "rationale": "Neglect of a vulnerable adult can come from a caregiver or from the person’s own inability to care for herself, often called self-neglect. This client has moderate dementia, cannot recall eating, and was found without food or heat, so she cannot protect herself. Reporting to adult protective services, per policy, starts an assessment of her needs and options. Honoring her wish is tempting because autonomy matters, but her stated choice is not a capable, informed decision when she cannot understand the risk. The agency can help balance her safety and her preferences.",
+      "takeaway": "Self-neglect by a vulnerable adult who cannot meet basic needs is reported to adult protective services.",
+      "hintContent": "Can this client understand and manage the risk of going home alone?",
+      "hintStrategy": "Autonomy answers are right only when the client has capacity; check for impaired judgment before choosing them.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-017",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A 14-year-old girl at a clinic visit tells the nurse that her stepfather hits her with a belt when he drinks. She begs, “Promise you won’t tell anyone. He’ll get so mad.” Which response by the nurse is best?",
+      "options": [
+        "“I promise this stays between us, so you can trust me with anything.”",
+        "“I can’t keep this secret. I need to tell people whose job is to keep you safe.”",
+        "“Let’s wait until you feel ready, and we can talk again at your next visit.”",
+        "“Why didn’t you tell your mother about this before today, when it started?”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The nurse cannot keep this promise; breaking it later destroys trust.",
+        "Correct. It is honest about the duty to report while keeping the focus on her safety.",
+        "Incorrect. Waiting leaves her in danger and ignores the legal duty to report now.",
+        "Incorrect. A “why” question sounds blaming and may make her stop talking."
+      ],
+      "rationale": "Mandatory reporting overrides confidentiality, so a nurse must never promise to keep abuse a secret. The best response is honest, kind, and centered on the teen’s safety, and it explains that others will help protect her. Promising secrecy is tempting because it seems to build trust, but the nurse would have to break that promise, which harms trust far more. Delaying the report leaves the teen exposed to more abuse. After responding, the nurse reports to child protective services and documents her exact words.",
+      "takeaway": "Never promise secrecy about abuse; be honest that you must report so the client can be kept safe.",
+      "hintContent": "Can the nurse legally keep this promise?",
+      "hintStrategy": "For best-response items, choose the honest, client-centered statement; avoid false promises and “why” questions.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 26",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-018",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse reported suspected neglect of a 3-year-old to the county department of social services after the child arrived with severe diaper dermatitis and weight loss. The agency later found no neglect. The parent calls and says, “I’m suing the nurse who called them.” The nurse asks the charge nurse about her legal risk. Which response by the charge nurse is accurate?",
+      "options": [
+        "“You’re protected if you reported honestly, even though neglect wasn’t found.”",
+        "“You may be liable, because the report turned out to be unfounded.”",
+        "“You’re protected only because the provider also signed the report.”",
+        "“You broke HIPAA, so the hospital’s lawyer will need to defend you.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Good faith immunity covers honest reports even when abuse or neglect is not confirmed.",
+        "Incorrect. An unfounded outcome does not remove immunity for an honest report.",
+        "Incorrect. Immunity comes from reporting in good faith, not from a provider’s signature.",
+        "Incorrect. Disclosures required by law, such as abuse reports, are not HIPAA violations."
+      ],
+      "rationale": "Good faith immunity protects people who report suspected abuse or neglect honestly, based on what they saw or heard. It still applies when investigators find no abuse, because the law wants people to report suspicion rather than wait for proof. A family may be upset, but it cannot win a case just because the report was unfounded. The tempting wrong answer says the nurse is liable because neglect was not found, which would discourage every reporter. Immunity does not cover a report made up to cause harm.",
+      "takeaway": "Good faith immunity protects an honest reporter even when the abuse or neglect is not confirmed.",
+      "hintContent": "What protects a reporter: being proven right, or reporting honestly?",
+      "hintStrategy": "Watch for options that tie protection to the investigation’s outcome; immunity depends on good faith.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 26",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-019",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A clinic nurse plans to report suspected physical abuse of a 79-year-old client to adult protective services. A coworker warns, “If you share her chart without her written permission, that’s a HIPAA violation.” Which response by the nurse is correct?",
+      "options": [
+        "“You’re right. I’ll get her signed authorization before I report.”",
+        "“HIPAA doesn’t apply to clients over 65, so I can share her whole chart.”",
+        "“HIPAA allows disclosures required by law; I’ll share only what is needed.”",
+        "“I’ll report without giving her name, so no protected information is shared.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Written authorization is not needed for a disclosure the law requires.",
+        "Incorrect. HIPAA protects clients of every age, and sharing the whole chart exceeds what the report needs.",
+        "Correct. Required abuse reports are permitted, and the nurse limits the details to what the agency needs.",
+        "Incorrect. An anonymous client report cannot be investigated and does not protect her."
+      ],
+      "rationale": "Reporting suspected abuse is not a HIPAA violation, because HIPAA permits disclosures that a law requires. The nurse does not need the client’s written authorization. The nurse still follows the minimum necessary idea, sharing only the information the agency needs to investigate, such as identifying details, injuries, and the client’s statements. Getting signed permission is the tempting answer because it sounds cautious, but it could delay or block a required report. Sharing the entire chart goes beyond what the report needs.",
+      "takeaway": "A required abuse report is a lawful disclosure under HIPAA; share only what the agency needs.",
+      "hintContent": "Does HIPAA ever allow PHI to be shared without the client’s signature?",
+      "hintStrategy": "When privacy and a legal duty seem to conflict, the answer that meets the duty while limiting the details is usually best.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 26",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-020",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A 19-year-old walks into urgent care with a 4-cm cut on his forearm. He says, “I fell on some glass,” but the wound edges are clean and straight, and his friend mentions “that fight.” Bleeding is controlled. After the wound is cleaned, which action by the nurse is most appropriate?",
+      "options": [
+        "Accept his account, since a stab wound is reportable only if he admits it.",
+        "Tell him the wound pattern shows that he is not telling the truth.",
+        "Chart that the client was stabbed during a fight and is being dishonest.",
+        "Chart his exact words and the wound findings, and follow injury-report policy."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Reporting rules depend on the injury and state law, not on the client’s admission.",
+        "Incorrect. Confronting the client is not the nurse’s role and harms the relationship.",
+        "Incorrect. This charts conclusions and opinions rather than objective findings.",
+        "Correct. Objective charting and the facility policy decide whether and how the injury is reported."
+      ],
+      "rationale": "Stab wounds and injuries from violence are on the reportable list, but the rules vary by state, and not every listed injury is automatically reportable. The nurse’s job is to give care, chart objectively, and follow the facility’s policy, which tells staff who decides and who calls. Charting the client’s exact words and the wound’s size, location, and appearance creates a record that may matter in court. Accepting his story is tempting, but reporting rules do not depend on a confession. Calling him a liar, in person or in the chart, is never appropriate.",
+      "takeaway": "For a possible violent injury, give care, chart exact words and objective findings, and follow the facility’s reportable-injury policy.",
+      "hintContent": "Does the client’s explanation decide whether an injury is reportable?",
+      "hintStrategy": "Choose objective, policy-based actions; avoid options that judge, accuse, or accept a story at face value.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slides 26–27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-021",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "Near the end of a night shift, an experienced nurse asks a newly licensed nurse to co-sign the waste of 0.5 mg of hydromorphone. The new nurse did not see it wasted. The coworker says, “I already squirted it in the sink. Just sign; it’s fine.” Which action by the new nurse is best?",
+      "options": [
+        "Sign the waste, since an experienced nurse vouched for the amount.",
+        "Refuse to sign and report the request to the charge nurse or supervisor.",
+        "Sign the waste but add a note that it was not directly observed.",
+        "Refuse to sign but keep the request private to protect the coworker."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Signing for an unwitnessed waste is falsifying a record.",
+        "Correct. The new nurse protects the record and reports a possible diversion concern through the chain.",
+        "Incorrect. A signature still claims a witness; a note does not fix a false co-signature.",
+        "Incorrect. Refusing is right, but staying silent hides a possible violation that puts clients at risk."
+      ],
+      "rationale": "Co-signing a waste means swearing you saw it. Signing for a waste you did not see falsifies the record and can make you part of drug diversion, which is a Nurse Practice Act violation. The best action is to refuse and report the request to the charge nurse or supervisor, who can follow policy, including a Board of Nursing report if needed. Refusing but staying quiet is the tempting answer because it avoids conflict, but it leaves clients at risk and the pattern unreported. Reporting can also be the step that gets the coworker treatment.",
+      "takeaway": "Never co-sign a waste you did not witness, and report the request through the chain of command.",
+      "hintContent": "What does a co-signature on a waste legally claim?",
+      "hintStrategy": "When two options share the correct first half, compare the second halves; silence about a possible violation is wrong.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-022",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A home health nurse visits an 86-year-old woman who is bedbound after a stroke. Her husband, 88, is her only caregiver. The visit findings are shown in the exhibit. The husband cries and says, “I’m trying, but I can’t lift her anymore.” Which action by the nurse is best?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Visit findings",
+            "table": {
+              "headers": [
+                "Area",
+                "Finding"
+              ],
+              "rows": [
+                [
+                  "Skin",
+                  "New stage 2 sacral pressure injury"
+                ],
+                [
+                  "Linens",
+                  "Soaked with urine; dried stool"
+                ],
+                [
+                  "Intake",
+                  "Husband says she ate “a few bites” yesterday"
+                ],
+                [
+                  "Weight",
+                  "47 kg (51 kg 6 weeks ago)"
+                ],
+                [
+                  "Medications",
+                  "Pill organizer untouched for 3 days"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Report possible neglect to adult protective services and arrange more support.",
+        "Teach the husband turning and incontinence care, and recheck in 1 week.",
+        "Ask a neighbor to help the husband until the next scheduled visit.",
+        "Reassure the husband that he is doing his best and no report is needed."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Her needs are not being met, so a report is required, and support can help the overwhelmed husband.",
+        "Incorrect. Teaching cannot fix a caregiver who physically cannot lift her, and it does not replace a report.",
+        "Incorrect. An informal helper is not a safe plan and leaves her unprotected.",
+        "Incorrect. Neglect is reportable even when the caregiver means well."
+      ],
+      "rationale": "Neglect means a caregiver is not providing needed food, hygiene, medicine, or safety, and it is reportable whether or not the caregiver intends harm. This client has a new pressure injury, weight loss, missed medications, and soiled linens, and her husband cannot physically care for her. Reporting to adult protective services, along with arranging more home support, protects her and also helps him. Teaching the husband is the tempting choice because he is willing, but teaching cannot replace a report or give an 88-year-old the strength to lift her. A report is not a punishment; it brings services.",
+      "takeaway": "Caregiver neglect is reportable even when unintentional; report and arrange support rather than relying on teaching.",
+      "hintContent": "Does neglect require that the caregiver mean to cause harm?",
+      "hintStrategy": "Teaching is wrong when the stem shows harm already happening and a caregiver who cannot do the task.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-023",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A 32-year-old woman is seen in the emergency department for a wrist sprain. In private, she tells the nurse that her partner pushed her and that it has happened before. She is alert and oriented, has no children, and no weapon was involved. She says, “Please don’t call the police. I’m not ready.” Which action by the nurse is most appropriate?",
+      "options": [
+        "Call the police, because injuries from violence must always be reported.",
+        "Assess her immediate safety, help with a safety plan, and offer resources.",
+        "Invite the partner in so the couple can talk about what happened.",
+        "Tell her the nurse cannot help unless she agrees to press charges."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Not every injury from violence is automatically reportable; a competent adult’s wishes guide this case.",
+        "Correct. This respects a competent adult’s choice while addressing her safety.",
+        "Incorrect. Involving the abuser can raise her risk and breaks her confidence.",
+        "Incorrect. Care and support do not depend on pressing charges."
+      ],
+      "rationale": "Mandatory reporting laws mainly protect people who cannot protect themselves, such as children and vulnerable adults. A competent adult injured by a partner is different: in most states, the nurse does not report against her wishes unless a specific law requires it, such as for a gunshot wound. The nurse assesses her immediate safety, helps her plan, offers domestic violence resources, and documents objectively. Calling the police is tempting because injuries from violence are on the reportable list, but that list varies by state and situation, and this case involves a minor injury without a weapon. Respecting her choice keeps the door open for her to seek help.",
+      "takeaway": "For a competent adult experiencing partner violence, support her safety and choices unless a specific law requires a report.",
+      "hintContent": "Is this client a child, a vulnerable adult, or a competent adult?",
+      "hintStrategy": "Distinguish look-alikes: children and vulnerable adults trigger reports; competent adults get safety planning and resources.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slides 26–27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-024",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A 17-year-old who came to a clinic on his own is diagnosed with gonorrhea. As the nurse prepares his treatment, he asks, “Is this going to get reported to anyone?” Which response by the nurse is accurate?",
+      "options": [
+        "“No. Because you consented to care on your own, nothing is reported.”",
+        "“Only if you agree in writing, since you are under 18 years old.”",
+        "“Yes. It goes to the health department so partners can be treated.”",
+        "“Yes. The school nurse is told so she can follow up with you.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A minor’s right to consent to STI care does not cancel the public health report.",
+        "Incorrect. Required disease reports do not need the client’s permission.",
+        "Correct. Gonorrhea is reportable to public health, which helps find and treat contacts.",
+        "Incorrect. The report goes to public health, not to schools, employers, or other outsiders."
+      ],
+      "rationale": "Certain infectious diseases, including gonorrhea, must be reported to the public health department, whatever the client’s age. Minors may consent to their own STI care, but that right does not stop the required report. The report goes only to public health, which uses it to find and treat partners and track outbreaks, not to schools or employers. Saying nothing is reported is tempting because his consent was confidential, but it gives him false information. Honest teaching builds trust and supports partner treatment.",
+      "takeaway": "A minor’s STI is still reported to public health, even when the minor consented to care on their own.",
+      "hintContent": "Does a minor’s right to consent change whether a disease is reportable?",
+      "hintStrategy": "Separate two rules that seem to clash: who may consent to care, and what the law requires to be reported.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [
+        "consent-laws-lifespan"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m49-mr-025",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse is documenting findings on a 72-year-old woman admitted from home who may be a victim of abuse. Which entry is most appropriate?",
+      "options": [
+        "“Client is being abused by her daughter, who seems hostile to staff.”",
+        "“Bruises on both arms, probably from rough handling at home.”",
+        "“Multiple old and new bruises consistent with elder abuse noted.”",
+        "“Three oval purple bruises, 2 cm each, inner left upper arm. States, ‘She squeezes me.’”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This states a conclusion and an opinion rather than observed facts.",
+        "Incorrect. “Probably” is a guess, and the description lacks size, color, and location.",
+        "Incorrect. “Consistent with elder abuse” is an interpretation, not an objective finding.",
+        "Correct. It describes size, color, and location objectively and quotes the client’s exact words."
+      ],
+      "rationale": "Documentation in suspected abuse may be used by investigators and in court, so it must read like a camera: what the nurse saw and heard, not what the nurse thinks it means. Good entries give the size, color, shape, and exact location of injuries and quote the client’s words. The tempting wrong answer says the bruises are “consistent with elder abuse,” which sounds professional but is still an interpretation. Labels like “abused” or “hostile” are conclusions that could be challenged. Objective charting supports the report and protects the nurse.",
+      "takeaway": "Chart suspected abuse objectively: measurements, colors, locations, and the client’s exact words, never conclusions.",
+      "hintContent": "Which entry could another nurse verify just by looking and listening?",
+      "hintStrategy": "In documentation items, pick the entry with measurable details and direct quotes; reject labels and guesses.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-026",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse in a family clinic sees four clients in one morning. Which situation requires the nurse to make a mandatory report?",
+      "options": [
+        "A 9-year-old with sharply outlined burns on both feet in a sock pattern",
+        "A 40-year-old competent man who refuses a recommended colonoscopy",
+        "A 25-year-old who reports smoking marijuana on weekends with friends",
+        "A 68-year-old who decides to stop dialysis after talking with family"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Immersion burns in a stocking pattern suggest child abuse, which must be reported.",
+        "Incorrect. A competent adult’s refusal of care is his right and is not reportable.",
+        "Incorrect. Personal substance use by an adult client is not a mandatory report.",
+        "Incorrect. A capable adult’s end-of-life decision is not reportable."
+      ],
+      "rationale": "Nurses must report suspected abuse or neglect of children, older or dependent adults, and vulnerable people, along with certain injuries, diseases, and unsafe nursing practice. Burns with sharp edges in a sock pattern on both feet suggest forced immersion in hot water, a classic sign of child abuse. The adult choices in the other options may worry the nurse, but they are decisions a competent adult is allowed to make. Stopping dialysis is tempting because it may lead to death, but a capable client’s informed choice is protected by autonomy, not reportable. Concern about a choice is not the same as a legal duty to report.",
+      "takeaway": "Mandatory reports protect people who cannot protect themselves; a competent adult’s own choices are not reportable.",
+      "hintContent": "Which client cannot protect himself from the person causing harm?",
+      "hintStrategy": "Sort each option into a reporting category (abuse, injury, disease, unsafe nurse); choices made by competent adults fit none.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-027",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse plans to report a colleague whose pattern of opioid discrepancies suggests drug diversion. Another coworker says, “If you report her, she’ll lose her license forever and never get help.” Which response by the nurse is best?",
+      "options": [
+        "“You’re right. I’ll talk to her privately and give her a chance to stop.”",
+        "“I’ll wait until pharmacy proves it before I say anything to anyone.”",
+        "“Clients are at risk, and many boards offer treatment instead of discipline.”",
+        "“The Board only punishes nurses, so she will just have to face that.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Handling it privately leaves clients at risk and the violation unreported.",
+        "Incorrect. The nurse reports facts and patterns; proof is the investigators’ job.",
+        "Correct. Reporting protects clients, and alternative-to-discipline programs can get the nurse help.",
+        "Incorrect. The Board protects the public and often offers monitored treatment programs."
+      ],
+      "rationale": "Drug diversion is a Nurse Practice Act violation, and reports of impaired or unsafe practice go to the Board of Nursing through facility policy. The Board’s purpose is to protect the public, and many boards, including North Carolina’s, offer alternative-to-discipline programs that combine treatment and monitoring for nurses with substance use disorders. Reporting can therefore be the step that gets the colleague help. Talking to her privately is tempting because it feels kind, but it leaves clients without pain relief and puts the reporting nurse’s own license at risk. The nurse reports facts, not proof.",
+      "takeaway": "Report suspected diversion; Board alternative-to-discipline programs can protect clients and help the nurse recover.",
+      "hintContent": "What do many Boards of Nursing offer nurses with substance use disorders?",
+      "hintStrategy": "Choose the response that protects clients and corrects a misconception; reject private deals and waiting for proof.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [
+        "licensure-regulation"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-028",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A client being treated for a gunshot wound to the shoulder grabs the nurse’s arm and says, “Please don’t call the cops. I’ll get in trouble.” Which response by the nurse is best?",
+      "options": [
+        "“I won’t call anyone. What you tell me stays between the two of us.”",
+        "“If you tell me who shot you, I won’t need to report the wound.”",
+        "“If you don’t want police involved, you’ll need to leave the hospital.”",
+        "“The law requires us to report gunshot wounds. We’ll keep caring for you.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The nurse cannot promise this; gunshot wounds are generally required to be reported.",
+        "Incorrect. Reporting does not depend on the client’s information, and this is a false bargain.",
+        "Incorrect. Threatening to withhold care is unethical and unsafe.",
+        "Correct. It is honest about the legal duty and reassures the client that care continues."
+      ],
+      "rationale": "Most states require hospitals to report gunshot wounds to law enforcement, and gunshot wounds head the list of reportable injuries. The nurse must be honest and should never promise secrecy that the law does not allow. Explaining the requirement calmly and reassuring the client that care will continue keeps trust and safety in place. Promising not to call is tempting because it calms the client, but it is a promise the nurse cannot keep. The report itself is made per facility policy.",
+      "takeaway": "Be honest that gunshot wounds are reportable, and reassure the client that care continues.",
+      "hintContent": "Is reporting a gunshot wound the nurse’s choice or a legal requirement?",
+      "hintStrategy": "In therapeutic-communication items with a legal duty, choose honesty plus reassurance; reject promises, bargains, and threats.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-029",
+      "topic": "mandatory-reporting",
+      "type": "mcq",
+      "priority": false,
+      "stem": "A nurse tells the unit manager that a coworker was found asleep on duty with an empty fentanyl vial and a syringe in her pocket. The manager replies, “I’ll give her a verbal warning. There’s no need to involve the Board.” Which action should the nurse take next?",
+      "options": [
+        "Take the concern up the chain of command and follow policy for a Board report.",
+        "Accept the manager’s plan, because the manager now owns the problem.",
+        "Confront the coworker and tell her she must start treatment right away.",
+        "Warn the other nurses about the coworker in the staff group chat."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Impairment and possible diversion are Board matters, so the nurse goes up the chain when a manager stops the report.",
+        "Incorrect. Telling a manager does not satisfy every reporting duty, especially for Board-level violations.",
+        "Incorrect. Confronting a possibly impaired nurse alone is unsafe and does not reach the Board.",
+        "Incorrect. This spreads private information and may be defamation; it is not a report."
+      ],
+      "rationale": "Impairment and drug diversion are Nurse Practice Act violations that must be reported to the Board of Nursing, not handled only by the employer. In North Carolina, conduct problems like these go to the Board, which may offer an alternative-to-discipline program. When a manager declines to report, the nurse follows the chain of command to the next level, such as the director of nursing, and follows facility policy so the Board report is made. Accepting the manager’s plan is tempting because reporting usually travels through the chain, but notifying a supervisor is not enough when the chain stops. Gossip and confrontation are never substitutes for a report.",
+      "takeaway": "If a manager won’t report a Nurse Practice Act violation, go up the chain of command so the Board report is made.",
+      "hintContent": "Who protects the public from an impaired nurse: the employer alone or the Board?",
+      "hintStrategy": "When a supervisor blocks a required report, the answer moves up the chain; it never drops the issue or goes around it informally.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slides 26–27",
+      "alsoTests": [
+        "licensure-regulation"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-030",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A nurse is admitting an 83-year-old woman who lives with her daughter. Which findings should the nurse recognize as possible signs of abuse or neglect? Select all that apply.",
+      "options": [
+        "Bruises on both upper arms in different stages of healing",
+        "Thin, dry skin and graying, thinning hair",
+        "She has gone without her dentures and hearing aids for weeks",
+        "The daughter answers every question and will not leave the room",
+        "A well-healed scar from a hip replacement 5 years ago",
+        "An untreated stage 3 pressure injury on her heel"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Bruises of different ages in odd places suggest repeated injury.",
+        "Incorrect. These are expected age-related changes, not signs of mistreatment.",
+        "Correct. Missing assistive devices can be a form of neglect or control.",
+        "Correct. A controlling caregiver who blocks private talk is a red flag.",
+        "Incorrect. An old surgical scar with a clear history is not a cue for abuse.",
+        "Correct. An untreated pressure injury suggests needed care is not being provided."
+      ],
+      "rationale": "Older and dependent adults are on the mandatory reporting list because they may rely on others for care, money, and safety. Cues include bruises in odd places or at different stages, missing glasses, hearing aids, or dentures, untreated pressure injuries, and a caregiver who answers for the client or will not leave. Thin skin and thinning hair are normal aging changes, which is why they are the tempting distractor for students who over-read every finding. Recognizing real cues allows a prompt, accurate report to adult protective services. The nurse documents each finding objectively.",
+      "takeaway": "Different-aged bruises, missing assistive devices, untreated wounds, and a controlling caregiver are cues of elder abuse or neglect.",
+      "hintContent": "Separate normal aging from findings that show harm or missing care.",
+      "hintStrategy": "For cue-recognition SATA, test each option alone: would this finding worry you in any older adult, or is it expected aging?",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-031",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A client with a gunshot wound to the abdomen has been stabilized and is being prepared for surgery. Police have been notified per hospital policy. Which actions by the nurse are appropriate for handling possible evidence? Select all that apply.",
+      "options": [
+        "Cut clothing around the bullet holes rather than through them",
+        "Place each clothing item in its own paper bag",
+        "Seal the wet, bloody clothing in a plastic bag to contain it",
+        "Label each bag and record who handled it and when",
+        "Chart the wounds as “entrance” and “exit” wounds",
+        "Chart each wound’s size, location, and appearance"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Cutting around holes preserves evidence about the weapon and distance.",
+        "Correct. Paper lets items breathe, and separate bags prevent cross-contamination.",
+        "Incorrect. Plastic traps moisture, which can grow mold and ruin evidence.",
+        "Correct. A chain of custody record allows the evidence to be used in court.",
+        "Incorrect. Nurses describe wounds; deciding entrance versus exit is a forensic judgment.",
+        "Correct. Objective description is the nurse’s role and supports any legal case."
+      ],
+      "rationale": "Gunshot wounds are reportable injuries, and care for these clients includes protecting evidence that police and courts may need. The nurse cuts around holes in clothing, places each item in its own paper bag, labels it, and keeps a chain of custody record. Plastic bags are the tempting choice because they seem cleaner, but they trap moisture and can destroy evidence. The nurse charts the wound’s size, location, and appearance without labeling it as entrance or exit, which is a forensic conclusion. All of this follows stabilization, never before.",
+      "takeaway": "Preserve evidence from violent injuries with paper bags, cuts around holes, labeling, chain of custody, and objective charting.",
+      "hintContent": "What happens to wet blood in a sealed plastic bag?",
+      "hintStrategy": "In evidence SATA, keep options that preserve and describe; drop options that damage evidence or interpret it.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m49-mr-032",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A charge nurse in a busy emergency department reviews the events of the shift. Which situations require a mandatory report? Select all that apply.",
+      "options": [
+        "A 24-year-old with a gunshot wound to the calf",
+        "A 7-year-old with pertussis confirmed by laboratory culture",
+        "A staff nurse who smelled of alcohol and slurred words on duty",
+        "A competent 50-year-old who left against medical advice after counseling",
+        "A 60-year-old who discloses heavy drinking over the past 10 years",
+        "A 3-year-old whose parent left him alone in a hot car for 2 hours"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Gunshot wounds are reportable to law enforcement in most states.",
+        "Correct. Pertussis is a reportable infectious disease that goes to public health.",
+        "Correct. Impaired practice violates the Nurse Practice Act and is reported to the Board.",
+        "Incorrect. A competent adult may leave AMA; this is documented, not reported.",
+        "Incorrect. An adult client’s own alcohol use is not a mandatory report.",
+        "Correct. Leaving a young child alone in danger is neglect and must be reported."
+      ],
+      "rationale": "Mandatory reports fall into three groups: abuse or neglect of children and vulnerable adults; specific injuries and illnesses such as gunshot wounds and certain infectious diseases; and violations of the Nurse Practice Act such as impaired practice. The gunshot wound, the pertussis case, the impaired nurse, and the child left in a hot car each fit one of those groups. Leaving against medical advice is the tempting distractor because it feels like a legal event, but it is a competent adult’s right and is handled by documentation. An adult’s own drinking is a health concern, not a report.",
+      "takeaway": "Mandatory reports cover abuse or neglect, specific injuries and diseases, and unsafe nursing practice, not competent adults’ own choices.",
+      "hintContent": "Sort each event: abuse or neglect, reportable injury or disease, or unsafe nurse?",
+      "hintStrategy": "For “which require a report” SATA, match each option to a reporting category; if none fits, leave it unselected.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-033",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A nurse in a pediatric clinic suspects that a 6-year-old’s bruises were caused by abuse. Which actions should the nurse take? Select all that apply.",
+      "options": [
+        "Talk with the child away from the caregiver using open-ended questions",
+        "Record the child’s statements in the child’s own words",
+        "Ask the caregiver directly whether they caused the bruises",
+        "Promise the child that anything said will stay a secret",
+        "Report the suspicion promptly, without waiting for proof",
+        "Wait for X-ray results before deciding whether to report"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. A private, open conversation lets the child speak freely without pressure.",
+        "Correct. Exact quotes are objective and carry weight in an investigation.",
+        "Incorrect. Confronting a possible abuser can increase the child’s risk.",
+        "Incorrect. The nurse must report, so this promise cannot be kept.",
+        "Correct. Reasonable suspicion is enough; investigators gather proof.",
+        "Incorrect. Delaying for test results can leave the child in danger."
+      ],
+      "rationale": "When child abuse is suspected, the nurse keeps the child safe, talks with the child privately using open questions, documents objective findings and exact quotes, and reports promptly. The nurse never needs proof; investigators find it. Waiting for X-ray results is the tempting choice because it seems careful, but it delays protection and is not required. Confronting the caregiver and promising secrecy both put the child at greater risk. Wrong answers in these items usually wait, investigate, confront, or keep secrets.",
+      "takeaway": "Suspect, don’t inspect: interview privately, quote exactly, and report promptly without waiting for proof.",
+      "hintContent": "Which options gather the child’s account, and which delay or endanger?",
+      "hintStrategy": "Eliminate any SATA option that waits, confronts, investigates, or promises secrecy in a suspected abuse case.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-034",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A nurse manager is reviewing concerns raised about a staff nurse over the past month. Which observations suggest impaired practice that should be reported? Select all that apply.",
+      "options": [
+        "Repeated absences on Mondays after weekends off",
+        "An odor of alcohol and an unsteady gait at the start of a shift",
+        "Asking to float to a less busy unit for one shift",
+        "Sudden mood swings and new errors in narcotic counts",
+        "Taking scheduled meal breaks at the same time every day"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. A pattern of absences after days off is a common sign of substance use.",
+        "Correct. These are direct signs of impairment on duty.",
+        "Incorrect. A one-time request is not a sign of impairment.",
+        "Correct. Mood changes and count errors suggest impairment or diversion.",
+        "Incorrect. Regular, scheduled breaks are normal behavior."
+      ],
+      "rationale": "Impaired practice means a nurse is unsafe because of alcohol, drugs, or a health problem, and it is a Nurse Practice Act violation that is reported through policy to the Board of Nursing. Signs include the smell of alcohol, unsteady gait, absences after weekends, mood swings, and errors in controlled-substance counts. A single request to float is the tempting distractor for students who see suspicion everywhere, but it has many innocent explanations. Regular scheduled breaks differ from frequent unexplained breaks. The manager documents facts and dates, not guesses.",
+      "takeaway": "Patterns like absences after days off, alcohol odor, unsteady gait, mood swings, and count errors suggest impairment and must be reported.",
+      "hintContent": "Which behaviors form a pattern of impairment rather than ordinary workplace choices?",
+      "hintStrategy": "Choose patterns and direct signs; drop single, harmless events.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-035",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A nurse educator reviews mandatory reporting with newly hired nurses. Which statements by the new nurses indicate correct understanding? Select all that apply.",
+      "options": [
+        "“If I report honestly, I’m protected even if abuse is never confirmed.”",
+        "“Reporting suspected abuse to the agency isn’t a HIPAA violation.”",
+        "“Once I tell my charge nurse, my duty to report is finished.”",
+        "“I need reasonable suspicion, not proof, to make a report.”",
+        "“If a child asks me not to report abuse, I must respect that.”",
+        "“Every injury on the reportable list must be reported in every state.”"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Good faith immunity applies whatever the investigation finds.",
+        "Correct. HIPAA allows disclosures the law requires.",
+        "Incorrect. The chain helps, but the nurse must make sure the report reaches the agency.",
+        "Correct. Proof is gathered by investigators, not by the nurse.",
+        "Incorrect. The duty to report overrides a child’s request for secrecy.",
+        "Incorrect. Reporting rules vary by state and situation; follow state law and policy."
+      ],
+      "rationale": "Key principles of mandatory reporting: report suspicion, not proof; good faith immunity protects honest reporters even when abuse is not confirmed; and required reports are not HIPAA violations. The nurse uses the facility chain, but telling the charge nurse does not end the duty if the report never reaches the agency. The statement about the charge nurse is the most tempting wrong one because the chain is how reports usually travel. Rules also vary by state, so not every listed injury is automatically reportable everywhere. A child’s request for secrecy never overrides the duty.",
+      "takeaway": "Report suspicion in good faith, know it is HIPAA-allowed, and make sure the report actually reaches the agency.",
+      "hintContent": "Check each statement against good faith, HIPAA, proof, and who must make sure the report arrives.",
+      "hintStrategy": "For “indicates understanding” SATA, select only statements that are fully true; one false half makes the statement wrong.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 26",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-036",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "Before the clinic closes, a nurse checks that the required reports for today’s diagnoses have been sent to the local health department. Which clients’ diagnoses require a public health report? Select all that apply.",
+      "options": [
+        "A 45-year-old with active pulmonary tuberculosis",
+        "A 16-month-old with laboratory-confirmed measles",
+        "A 58-year-old with newly diagnosed type 2 diabetes",
+        "A 29-year-old with primary syphilis",
+        "A 34-year-old with an uncomplicated E. coli bladder infection"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Active TB is reportable so contacts can be traced and treated.",
+        "Correct. Measles is reportable and needs a rapid public health response.",
+        "Incorrect. Diabetes is a chronic, noninfectious disease, not a reportable communicable disease.",
+        "Correct. Syphilis is a reportable sexually transmitted infection.",
+        "Incorrect. A routine urinary tract infection is not a reportable disease."
+      ],
+      "rationale": "Certain infectious diseases must be reported to public health so officials can find contacts, stop outbreaks, and track disease. Common examples include tuberculosis, measles, pertussis, syphilis, gonorrhea, chlamydia, HIV, and hepatitis. Each state keeps its own list and timing rules. A routine bladder infection is the tempting distractor because it is an infection, but common infections without public health risk are not on the list. Chronic, noninfectious diseases such as diabetes are not on the communicable disease list.",
+      "takeaway": "Contagious diseases with public health risk, such as TB, measles, and syphilis, are reported; routine infections and chronic illnesses are not.",
+      "hintContent": "Would public health need to find this client’s contacts?",
+      "hintStrategy": "Ask whether each condition can spread in the community and needs contact tracing; if not, it is usually not reportable.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m49-mr-037",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A 22-month-old is treated in the emergency department after swallowing an adult’s medication. Which findings should prompt the nurse to report concerns to child protective services? Select all that apply.",
+      "options": [
+        "The mother says she gave him “a little of my sleep medicine” to calm him",
+        "This is his third ingestion visit in the past 6 months",
+        "The parent called poison control at once and brought the pill bottle",
+        "The parent slurs words and cannot say when the child was last watched",
+        "The family’s medicines are kept in a locked cabinet at home"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Deliberately giving a sedating drug to a toddler is possible abuse.",
+        "Correct. Repeated ingestions suggest a pattern of poor supervision.",
+        "Incorrect. A quick call and bringing the bottle are signs of responsible care.",
+        "Correct. An impaired caregiver who cannot supervise suggests neglect.",
+        "Incorrect. Locked storage is a safety practice, not a concern."
+      ],
+      "rationale": "Poisonings are on the reportable list when they may come from abuse, neglect, or a crime. Giving a toddler sedating medicine on purpose, repeated ingestions, and a caregiver too impaired to supervise all raise reasonable suspicion of maltreatment and should be reported. A parent who calls poison control right away and brings the bottle is acting responsibly, which is why that option tempts students who over-report. Locked storage is a protective step. Not every ingestion means neglect; the cues decide.",
+      "takeaway": "Report poisonings that point to abuse or neglect, such as deliberate dosing, repeated ingestions, or an impaired caregiver.",
+      "hintContent": "Which findings show harm or failed supervision, and which show a caregiver doing the right thing?",
+      "hintStrategy": "In SATA, protective behaviors are rarely cues for a report; select the findings that show risk.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-038",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A 29-year-old woman in a clinic tells the nurse that her husband hits her, and she declines police involvement. She adds that he hit their 8-year-old son with a belt last week. Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Report the suspected abuse of the son to child protective services",
+        "Talk with her privately about her safety and a safety plan",
+        "Call the police about her injuries against her stated wishes",
+        "Give her information about domestic violence hotlines and shelters",
+        "Tell her the son will be removed from the home immediately",
+        "Agree not to report anything so that she keeps trusting the nurse"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Suspected child abuse must be reported, whatever the parent wishes.",
+        "Correct. Safety planning supports a competent adult experiencing violence.",
+        "Incorrect. For a competent adult, police are not called against her wishes unless a law requires it.",
+        "Correct. Resources help her act when she is ready.",
+        "Incorrect. The nurse cannot predict the agency’s decision; this is a false statement.",
+        "Incorrect. The child abuse report is required and cannot be traded for trust."
+      ],
+      "rationale": "This stem mixes two look-alike situations. The mother is a competent adult, so the nurse supports her with privacy, safety planning, and resources and does not call the police against her wishes unless a specific law requires it. Her son is a child, and his reported abuse must be reported to child protective services whatever she prefers. The most tempting wrong answer is calling the police about her injuries, because violence is on the reportable list, but her choice guides that decision. The nurse should be honest with her that the son’s abuse will be reported.",
+      "takeaway": "In family violence, support a competent adult’s choices but always report suspected abuse of the child.",
+      "hintContent": "Who in this family is a competent adult, and who is a child?",
+      "hintStrategy": "When a stem has two victims, apply the reporting rule for each one separately.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m49-mr-039",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A home health nurse in North Carolina suspects that a 45-year-old client with a traumatic brain injury is being neglected by a paid caregiver. Which statements about the nurse’s duty to report are accurate? Select all that apply.",
+      "options": [
+        "The report goes to the county department of social services.",
+        "The report may be made orally, such as by phone, or in writing.",
+        "The report requires the client’s written consent first.",
+        "The nurse is immune from liability for a report made in good faith.",
+        "The nurse needs proof of neglect before filing the report.",
+        "The legal duty to report applies to physicians but not to nurses."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. In North Carolina, protective services for disabled adults are run by county DSS.",
+        "Correct. The report may be made either orally or in writing.",
+        "Incorrect. A required report does not need the client’s consent.",
+        "Correct. Good faith reporters are protected even if neglect is not confirmed.",
+        "Incorrect. Reasonable cause to believe is enough; DSS investigates.",
+        "Incorrect. Any person with reasonable cause to believe must report."
+      ],
+      "rationale": "Disabled and vulnerable adults are protected by mandatory reporting laws, just as children are. In North Carolina, any person with reasonable cause to believe a disabled adult needs protective services must report to the county department of social services, orally or in writing, and good faith reporters are immune. Nationally, the same rule holds: the nurse reports suspected abuse or neglect of a vulnerable adult to adult protective services without needing proof or consent. Requiring the client’s written consent is the tempting wrong answer because it sounds like HIPAA, but HIPAA allows disclosures the law requires. The nurse documents the report and what was shared.",
+      "takeaway": "Suspected neglect of a disabled adult is reported to protective services (county DSS in NC) on reasonable cause, without consent or proof.",
+      "hintContent": "Does the duty to report depend on consent, proof, or the reporter’s job title?",
+      "hintStrategy": "Statements that add conditions to a reporting duty, such as consent, proof, or a certain profession, are usually false.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slides 26–27",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-040",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "The charge nurse is told that a staff nurse smells of alcohol and has dropped a medication cup twice in the past hour. Which actions should the charge nurse take? Select all that apply.",
+      "options": [
+        "Remove the nurse from client care right away",
+        "Document the specific behaviors observed and their times",
+        "Let her finish the shift if her clients are all stable",
+        "Reassess the clients the nurse cared for during this shift",
+        "Arrange for her to drive herself home to rest",
+        "Follow policy for notifying the supervisor and the Board of Nursing"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Removing a possibly impaired nurse protects clients immediately.",
+        "Correct. Objective, timed notes support the report and any review.",
+        "Incorrect. Stable clients can still be harmed by an impaired nurse.",
+        "Correct. Her clients may have missed care or had errors that need follow-up.",
+        "Incorrect. Letting a possibly intoxicated person drive is unsafe.",
+        "Correct. Impaired practice is a Nurse Practice Act violation reported to the Board."
+      ],
+      "rationale": "When a nurse appears impaired, the charge nurse acts to protect clients first by removing the nurse from care, then reassesses the clients she cared for. Objective notes on what was seen and smelled, with times, support the report. Impaired practice is a Nurse Practice Act violation, so the supervisor is notified and policy is followed for a Board of Nursing report. Letting her finish because clients are stable is the tempting wrong choice, but her impairment, not their stability, is the danger. She should not drive herself home.",
+      "takeaway": "For an impaired nurse: remove from care, check her clients, document facts, keep her safe, and follow the Board reporting policy.",
+      "hintContent": "Think about clients, the impaired nurse’s own safety, and the legal report.",
+      "hintStrategy": "In unsafe-coworker SATA, keep options that protect clients, the coworker, and the record; drop options that tolerate risk.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-041",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "A nurse is calling adult protective services to report suspected neglect of a 90-year-old client with dementia who lives with her grandson. Which information should the nurse share in the report? Select all that apply.",
+      "options": [
+        "The client’s name, age, and home address",
+        "Objective descriptions of the client’s injuries and condition",
+        "Her treatment for a sexually transmitted infection 40 years ago",
+        "The client’s exact statements about her care at home",
+        "The nurse’s personal opinion of the grandson’s character",
+        "The name of the grandson, who is her caregiver"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. The agency needs identifying details to find and protect the client.",
+        "Correct. Observed findings are the core of the report.",
+        "Incorrect. Unrelated history exceeds what the report needs.",
+        "Correct. Her own words help investigators understand the situation.",
+        "Incorrect. Opinions are not facts and do not belong in the report.",
+        "Correct. Identifying the suspected caregiver helps the agency investigate."
+      ],
+      "rationale": "Disclosure of protected health information to report abuse or neglect is not a HIPAA violation, but the nurse still shares only what the report needs. That includes the client’s identifying details, objective findings, her exact words, and who the caregiver is. Old, unrelated health history goes beyond the purpose of the report and should not be shared. The nurse’s opinions about the grandson are tempting to include because they feel relevant, but reports and charts contain facts, not judgments. Minimum necessary protects the client’s privacy while still enabling protection.",
+      "takeaway": "A required report shares PHI lawfully, but only the facts the agency needs: identity, findings, quotes, and the caregiver.",
+      "hintContent": "Which details help the agency find and protect the client, and which are unrelated or opinion?",
+      "hintStrategy": "For disclosure SATA, keep facts tied to the purpose of the report and drop unrelated history or opinions.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 26",
+      "alsoTests": [
+        "privacy-confidentiality"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m49-mr-042",
+      "topic": "mandatory-reporting",
+      "type": "sata",
+      "stem": "During orientation, new nurses are asked where several types of reports would usually be sent. Which pairings of a situation with its receiving agency are correct? Select all that apply.",
+      "options": [
+        "Suspected neglect of a 4-year-old: child protective services",
+        "Newly diagnosed active tuberculosis: the local health department",
+        "Suspected abuse of an adult with dementia: the Board of Nursing",
+        "A nurse diverting opioids for personal use: the Board of Nursing",
+        "A gunshot wound: the HHS Office for Civil Rights",
+        "An impaired nurse on duty: adult protective services"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Child abuse and neglect reports go to child protective services (county DSS in NC).",
+        "Correct. Reportable infectious diseases go to public health.",
+        "Incorrect. Abuse of a vulnerable adult is reported to adult protective services.",
+        "Correct. Nurse Practice Act violations are reported to the Board.",
+        "Incorrect. Gunshot wounds are reported to law enforcement per state law and policy.",
+        "Incorrect. Impaired nursing practice is reported through the supervisor to the Board of Nursing."
+      ],
+      "rationale": "Each type of mandatory report has a usual destination. Child abuse or neglect goes to child protective services, vulnerable adult abuse goes to adult protective services, reportable diseases go to public health, gunshot and violent injuries go to law enforcement, and impaired or unsafe nursing practice goes to the Board of Nursing. In North Carolina, county DSS handles both child and disabled adult protective services. The tempting error is sending vulnerable adult abuse to the Board, which handles nurses’ conduct, not family abuse. Knowing the destination keeps the report from stalling.",
+      "takeaway": "Match the report to the agency: CPS for children, APS for vulnerable adults, public health for diseases, police for violent injuries, Board for nurses.",
+      "hintContent": "Who investigates families, who tracks disease, who investigates crimes, and who licenses nurses?",
+      "hintStrategy": "Check each pairing separately by asking what that agency’s job is.",
+      "ref": "Module 49 · Legal Issues · Mandatory Reporting: What Nurses Must Report · Unit 7 slide 27",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    }
+  ]
+});

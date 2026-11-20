@@ -1,0 +1,244 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m49",
+ "moduleNumber": 49,
+ "moduleTitle": "Legal Issues",
+ "questions": [
+  {
+   "id": "m49-u7-001",
+   "topic": "malpractice-standard-care",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A nurse with 2 years of medical-surgical experience transfers to a cardiac intensive care unit. During orientation, she asks which standards will be used to judge her care on the new unit. Which response by the preceptor is accurate?",
+   "options": [
+    "Only the hospital’s ICU policies apply, because national standards are optional guidelines.",
+    "The ANA baseline standards apply, plus critical care standards from groups such as AACN.",
+    "Medical-surgical standards apply until she earns a critical care certification.",
+    "Her job description sets the standard, so it overrides any national standards."
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Prevailing national standards help define the standard of care in court; agency policy is only one source.",
+    "Correct. ANA Standards of Practice set the baseline for every RN, and specialty standards add specific expectations for nurses working in that specialty.",
+    "Incorrect. Certification is optional; a nurse practicing in the ICU is judged against what a reasonably prudent critical care nurse would do.",
+    "Incorrect. A job description can narrow a role, but it never replaces the Nurse Practice Act or national standards."
+   ],
+   "rationale": "The standard of care is built in layers. The Nurse Practice Act and Board rules are the legal base. The ANA Standards of Practice describe the competent care expected of every registered nurse. Specialty organizations, such as the American Association of Critical-Care Nurses (AACN) and the Emergency Nurses Association (ENA), add more specific expectations for nurses working in those settings. A nurse who works in the ICU is held to what a reasonably prudent ICU nurse would do, whether or not she is certified.",
+   "takeaway": "ANA standards are the floor for every RN; specialty standards add to them for nurses working in that specialty.",
+   "hintContent": "Think about whether moving to a specialty unit removes or adds expectations.",
+   "hintStrategy": "When asked which standard applies, look for the answer that layers national and specialty standards rather than replacing one with another.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · Unit 7 slides 5, 8",
+   "alsoTests": [],
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-u7-002",
+   "topic": "malpractice-standard-care",
+   "type": "mcq",
+   "priority": true,
+   "stem": "During an electronic record downtime, a nurse receives a paper order for a client with atrial fibrillation: “Digoxin 0.125 mg daily.” No route is written, and the decimal point is faint and hard to read. The client’s apical pulse is 72/min, and the morning dose is due now. Which action should the nurse take first?",
+   "options": [
+    "Give the dose by mouth, since that is how digoxin is usually given.",
+    "Ask the charge nurse how she would read the order.",
+    "Call the prescriber to clarify the order before giving it.",
+    "Hold the dose and flag the order for the prescriber to review on morning rounds."
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Guessing the route of an incomplete order is a medication error waiting to happen, even if the guess is usually right.",
+    "Incorrect. Only the prescriber can confirm what was intended; a coworker’s reading is still a guess.",
+    "Correct. An order with a missing route and an unclear decimal must be verified with the prescriber before the drug is given.",
+    "Incorrect. Holding is reasonable until the order is clear, but waiting for rounds delays a scheduled cardiac drug; the nurse contacts the prescriber now."
+   ],
+   "rationale": "Medication administration is a high-risk nursing activity, and medication errors are a leading cause of malpractice claims. The nurse uses the rights of medication administration, and an order missing the route with an unreadable decimal fails them. A misread decimal point with digoxin can cause a large dose error. The safe first step is to verify the unclear order with the prescriber before giving the drug, then document the clarified order.",
+   "takeaway": "Never give a drug from an unclear or incomplete order; verify it with the prescriber first.",
+   "hintContent": "Consider who is the only person able to say what this order was meant to say.",
+   "hintStrategy": "For an unclear order, eliminate options that guess or delay without action, and choose the one that goes to the source.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · Unit 7 slides 6–7",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+  },
+  {
+   "id": "m49-u7-003",
+   "topic": "malpractice-standard-care",
+   "type": "sata",
+   "stem": "At 1410, a client who is 1 day after bowel surgery becomes short of breath. The nurse assesses the client, applies oxygen per protocol, and calls the provider, who orders a chest x-ray. Twenty minutes later the client’s oxygen saturation has improved. Which entries meet the standard for legally sound documentation? Select all that apply.",
+   "options": [
+    "1410: RR 28/min, SpO2 88% on room air, crackles in right lower lobe.",
+    "1412: Oxygen 2 L/min by nasal cannula applied per protocol.",
+    "1415: Dr. Patel notified of SpO2 and lung findings; chest x-ray ordered.",
+    "1430: SpO2 95% on 2 L/min. Client states, “Breathing is easier.”",
+    "1430: Client was anxious and overreacting, as usual.",
+    "1440: Incident report completed for this respiratory event."
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Objective assessment data with the time shows what the nurse found.",
+    "Correct. The intervention is recorded promptly and tied to the protocol.",
+    "Correct. Provider notification, what was reported, and what was ordered protect the client and the nurse.",
+    "Correct. The client’s response, including a direct quote, completes the timeline of care.",
+    "Incorrect. This is a subjective label, not an objective finding, and could damage the client’s reputation.",
+    "Incorrect. Incident reports are not mentioned in the medical record; they are filed separately per policy."
+   ],
+   "rationale": "Documentation must follow facility policy and be timely, complete, and objective. A legally sound entry shows the full timeline: the assessment, the intervention, the provider notification, and the client’s response. Opinions and labels such as “overreacting” are not objective and may read as defamation. A note that an incident report was filed does not belong in the chart.",
+   "takeaway": "Chart assessment, intervention, provider notification, and client response — objectively and on time.",
+   "hintContent": "Picture the chart being read in court. Which entries tell a clear, factual story of what happened?",
+   "hintStrategy": "For documentation items, keep the objective, timed facts and drop opinions and references to incident reports.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · Unit 7 slide 6",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-u7-004",
+   "topic": "malpractice-standard-care",
+   "type": "mcq",
+   "priority": false,
+   "stem": "A nursing student asks why the program requires active liability insurance during clinical rotations when the hospital already has its own coverage. The program’s group policy is occurrence-based. Which statement by the instructor is accurate?",
+   "options": [
+    "The hospital’s policy covers students, so the program’s policy is a formality.",
+    "The policy covers only claims filed while you are still enrolled in the program.",
+    "Students are held to a lower standard, so the policy is rarely needed.",
+    "An event during your clinical time stays covered even if a suit is filed later."
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Students are usually not hospital employees, and the hospital’s coverage is written to protect the hospital, not the student.",
+    "Incorrect. That describes a claims-made policy; occurrence-based coverage follows the date of the event.",
+    "Incorrect. Students are held to the standard of a reasonably prudent licensed RN for the care they give.",
+    "Correct. Occurrence-based coverage protects events that happened during the policy period, even when the claim is reported after the policy ends."
+   ],
+   "rationale": "Carrying professional liability insurance is one of the course’s four strategies to manage the risk of a negligence claim. Coverage may be individual, employer-sponsored, or group-based, and nursing students must keep active coverage throughout the program. An occurrence-based policy covers any event that happened while the policy was active, no matter when the lawsuit is filed. Students are held to the standard of a licensed nurse, so their risk is real.",
+   "takeaway": "Occurrence-based insurance follows the date of the event, not the date of the claim.",
+   "hintContent": "Malpractice suits can be filed long after the care was given. Which policy type handles that delay?",
+   "hintStrategy": "Match the policy type to its trigger: occurrence = when the event happened; claims-made = when the claim is filed.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · Unit 7 slide 7",
+   "alsoTests": [],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-u7-005",
+   "topic": "law-torts-privacy",
+   "type": "sata",
+   "stem": "A nurse manager reviews recent privacy concerns on a medical unit. Which staff actions are invasions of client privacy? Select all that apply.",
+   "options": [
+    "A nurse opened the chart of a coworker admitted to another unit to see how she was doing.",
+    "A nurse viewed her assigned client’s potassium level before giving an IV potassium dose.",
+    "A nurse looked up her neighbor’s chart but did not tell anyone what she saw.",
+    "An assistive personnel read a well-known client’s history out of curiosity.",
+    "A nurse told a client’s visiting friend about the client’s HIV status without permission.",
+    "A case manager reviewed a client’s chart to arrange home health services."
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Accessing a record with no care-related reason is improper, even when the motive is concern.",
+    "Incorrect. Reviewing assigned client data needed for safe care is appropriate access.",
+    "Correct. Improper accessing is a violation even if the information is never shared.",
+    "Correct. Curiosity is never a valid reason to open a client’s record.",
+    "Correct. Sharing protected health information with someone not involved in care and without permission is improper disclosure.",
+    "Incorrect. Discharge planning is part of the client’s care, so the case manager needs this information."
+   ],
+   "rationale": "Invasion of privacy is the improper sharing or accessing of client information. Staff may view and share only what they need to care for the client. Opening a coworker’s, neighbor’s, or famous client’s chart without a care reason is improper access, even if no one is told. Telling a friend a diagnosis without the client’s permission is improper sharing. Viewing assigned client labs or planning discharge services are care-related and allowed.",
+   "takeaway": "Privacy is broken by improper accessing as well as improper sharing; the test is need-to-know for care.",
+   "hintContent": "For each action, ask: does this person need this information to care for this client right now?",
+   "hintStrategy": "Do not let a kind motive or the absence of sharing make an improper access acceptable.",
+   "ref": "Module 49 · Legal Issues · Law & Intentional Torts · Unit 7 slide 5",
+   "alsoTests": [],
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+   "id": "m49-u7-006",
+   "topic": "consent-laws-lifespan",
+   "type": "mcq",
+   "priority": true,
+   "stem": "In a pediatric clinic, a nurse finds several small, round burns in different stages of healing on a 4-year-old’s back. The parent says the child “backed into a space heater.” The nurse tells the charge nurse, who replies, “I’ll mention it to the manager at next week’s staff meeting.” Which action should the nurse take next?",
+   "options": [
+    "Make sure a report is made to child protective services today, per policy.",
+    "Wait for the manager’s decision, since reports go through the chain of command.",
+    "Ask the parent to explain how a heater could cause several round burns.",
+    "Document the burns and schedule a follow-up visit to recheck the child."
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Reasonable suspicion must reach the designated agency promptly; telling a supervisor does not by itself meet the nurse’s duty.",
+    "Incorrect. Following the chain of command is fine, but a week’s delay leaves the child at risk, and the duty to report remains.",
+    "Incorrect. Confronting or questioning the parent is investigating, which is the agency’s job and may put the child at risk.",
+    "Incorrect. Documentation is needed, but it does not replace a report, and waiting a week delays protection."
+   ],
+   "rationale": "Multiple round burns in different stages of healing, with a story that does not fit, are strong cues of abuse. Mandatory reporting rules differ by state and situation, and notifying a supervisor does not always satisfy the duty. The nurse makes sure the report actually reaches child protective services promptly, following agency policy. Proof is not required, and good-faith reporters are protected even if abuse is not confirmed. North Carolina practice note: any person who suspects a child is abused or neglected must report to the county department of social services (DSS).",
+   "takeaway": "Telling the charge nurse is not the finish line; make sure the report reaches the designated agency promptly.",
+   "hintContent": "Ask yourself what happens to this child during the week before the staff meeting.",
+   "hintStrategy": "In abuse items, choose the action that gets the suspicion to the proper agency now, not one that investigates or waits.",
+   "ref": "Module 49 · Legal Issues · Consent & Lifespan Laws · Unit 7 slides 26–27 and slide 26 note",
+   "alsoTests": [],
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "difficulty": 2,
+   "clientNeed": "Psychosocial Integrity"
+  },
+  {
+   "id": "m49-u7-007",
+   "topic": "malpractice-standard-care",
+   "type": "sata",
+   "stem": "An 84-year-old client with mild dementia is admitted at 2200 with a urinary tract infection. Which nursing actions reflect the strategy of maintaining client safety to prevent negligence? Select all that apply.",
+   "options": [
+    "Complete a fall-risk assessment as part of the admission process.",
+    "Place the bed in the lowest position with the call light within reach.",
+    "Apply a vest restraint at night so the client cannot get up alone.",
+    "Answer the client’s call light promptly, even if another nurse is assigned.",
+    "Reassess fall risk when the client’s condition or medicines change.",
+    "Wait to add safety measures until the client shows new confusion."
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Safety measures start at admission, per facility protocol.",
+    "Correct. Low bed height and a reachable call light are evidence-based fall precautions.",
+    "Incorrect. A restraint without an order and a clear reason is false imprisonment and raises the risk of injury.",
+    "Correct. Staying aware of client needs and responding promptly prevents harm.",
+    "Correct. Safety continues throughout care, so risk is reassessed as the client changes.",
+    "Incorrect. Waiting for a change ignores the risk that already exists at admission."
+   ],
+   "rationale": "The course’s first strategy to prevent professional negligence is to maintain client safety. That means putting safety measures in place at admission and keeping them going throughout care, following facility protocols and evidence-based best practices, and responding promptly to client needs. Older, confused clients in a new setting are at high fall risk from the first night. Restraints are not a first-line fall prevention measure and need an order and a clear reason.",
+   "takeaway": "Safety starts at admission and continues throughout care; respond promptly and follow evidence-based protocols.",
+   "hintContent": "Think about when this client’s fall risk actually begins.",
+   "hintStrategy": "Select actions that are proactive and least restrictive; reject options that wait for harm or restrict without cause.",
+   "ref": "Module 49 · Legal Issues · Malpractice & Standard of Care · Unit 7 slide 6",
+   "alsoTests": [
+    "law-torts-privacy"
+   ],
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "difficulty": 1,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  }
+ ]
+});

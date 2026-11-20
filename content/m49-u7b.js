@@ -1,0 +1,175 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m49",
+  "moduleNumber": 49,
+  "moduleTitle": "Legal Issues",
+  "topics": [
+    {
+      "id": "privacy-confidentiality",
+      "title": "HIPAA, Privacy & Confidentiality",
+      "exemplar": "49.C Health Insurance Portability and Accountability Act"
+    },
+    {
+      "id": "mandatory-reporting",
+      "title": "Mandatory Reporting: What Nurses Must Report",
+      "exemplar": "49.D Mandatory Reporting"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "What does HIPAA stand for, and when was it passed?",
+      "back": "Health Insurance Portability and Accountability Act, a 1996 federal law.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "List the four things HIPAA does (per your slides).",
+      "back": "1) Reduces barriers related to preexisting conditions. 2) Protects people who lose prior coverage. 3) Eliminates medical underwriting for group insurance plans. 4) Protects patient health information (Privacy Rule).",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "What is a preexisting condition, and what does current law add to HIPAA?",
+      "back": "A health problem you had before new coverage began. HIPAA limited exclusions; since 2014 the Affordable Care Act bars most plans from excluding them.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "What does “eliminates medical underwriting for group plans” mean?",
+      "back": "A group plan (like a work plan) cannot turn away one member or charge them more because of their health history.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "Define protected health information (PHI).",
+      "back": "Any identifiable information about a client’s past, present, or future physical or mental health, the care provided, or payment for care. Spoken, paper, or electronic.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "A post leaves out the client’s name but gives age, crash location, and date. Is it PHI?",
+      "back": "Yes. Those details can identify the client. Only fully de-identified data is not PHI. Never post about clients.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "Privacy vs. confidentiality?",
+      "back": "Privacy: the client’s right to control what personal information is shared. Confidentiality: the nurse’s obligation to protect that information once it has been disclosed.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "Name the three actions confidentiality applies to.",
+      "back": "Obtaining (access only what you need for care), disclosing (share only with those directly involved in care), and advocating (always protect client privacy).",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "With whom may PHI be shared without written authorization (per your slide)?",
+      "back": "The client, health care providers involved in care, and insurance/payers for billing and authorization. Reports required by law are also allowed.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "What is the HIPAA Privacy Rule?",
+      "back": "National standards for how PHI in any form may be used and shared, plus client rights such as seeing and copying their record.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "What is the HIPAA Security Rule?",
+      "back": "Rules protecting electronic PHI with administrative (training, access policies), physical (locked areas, screen placement), and technical (unique logins, auto logoff, encryption, audit logs) safeguards.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "What is the minimum necessary standard, and what is its big exception?",
+      "back": "Use, request, or share only the least PHI needed. It does not limit provider-to-provider sharing for treatment or what the client may see.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "A nurse opens a neighbor’s chart but tells no one. Breach?",
+      "back": "Yes. Accessing PHI with no work reason is a breach. Audit logs record every chart opened.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "You fax PHI to the wrong number. What do you do?",
+      "back": "Stop it if you can (call, ask them to destroy it), report right away to your supervisor or privacy officer, and complete an incident report. Never cover it up.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "Name three social media rules for nurses.",
+      "back": "No client photos or posts (even without names); no PHI in personal texts; don’t friend current clients. Privacy settings don’t make posts private, and deleting doesn’t erase them.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "Who enforces HIPAA, and who else can act on a privacy breach by a nurse?",
+      "back": "The HHS Office for Civil Rights enforces HIPAA. The employer may fire, the Board of Nursing may discipline (in NC, the NCBON), and the client may sue under state law.",
+      "topic": "privacy-confidentiality"
+    },
+    {
+      "front": "Define mandatory reporting.",
+      "back": "A legal requirement for health care professionals to report certain acts, events, or conditions to a designated agency.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "What reporting path does your slide show?",
+      "back": "The facility’s administrative chain: charge nurse → supervisor → designated reporting body. But the report must actually reach the agency; telling a supervisor is not always enough.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "What is good faith immunity?",
+      "back": "Legal protection for nurses who report suspected abuse or violations honestly. It applies even if the abuse is not confirmed.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Is disclosing PHI to report abuse a HIPAA violation?",
+      "back": "No. HIPAA allows disclosures required by law. Share only what the report needs.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Whose abuse or neglect must nurses report (slide 27)?",
+      "back": "Children; older adults and dependent adults; vulnerable or disabled individuals. Laws vary by state, so follow facility policy.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Which specific injuries and illnesses are on your slide’s reporting list?",
+      "back": "Gunshot wounds, stab wounds, injuries from criminal acts or violence, poisonings, and certain infectious diseases (per public health rules). Exact rules vary by state.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Where do reports of impaired, unsafe, or unethical nursing practice go?",
+      "back": "To the Board of Nursing (Nurse Practice Act violations), through facility policy. In NC, the NCBON, which offers alternative-to-discipline programs for substance use.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Do you need proof before reporting suspected child abuse?",
+      "back": "No. Report reasonable suspicion promptly. Do not investigate, confront, or wait for test results.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "NC: who must report suspected child maltreatment, and to whom?",
+      "back": "Any person or institution (universal reporting, G.S. 7B-301) reports to the county DSS director. Knowingly failing to report is a crime.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "NC: where are suspected abuse or neglect of disabled adults reported?",
+      "back": "To the county DSS director, orally or in writing (G.S. 108A-102). Good-faith reporters are immune.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Where are reportable communicable diseases reported? Give examples.",
+      "back": "To the local (in NC) or state health department. Examples: TB, measles, pertussis, syphilis, gonorrhea, chlamydia, HIV, hepatitis.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "How do you protect evidence from a gunshot wound victim?",
+      "back": "Treat first. Cut around bullet holes, put each clothing item in its own paper bag, label it, and keep a chain of custody record.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "Signs a nurse may be diverting drugs?",
+      "back": "Signs out more opioids than peers, frequent unwitnessed wastes, clients’ pain unrelieved on that nurse’s shift, wrong counts, frequent breaks or absences.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "A competent adult discloses partner abuse but does not want it reported. What does the nurse do?",
+      "back": "In most states, respect the choice unless a specific law requires a report (such as a gunshot wound). Offer privacy, safety planning, and resources; document.",
+      "topic": "mandatory-reporting"
+    },
+    {
+      "front": "A teen asks you to promise not to tell about abuse. Best response?",
+      "back": "Be honest: you can’t keep it secret because you must report it to keep them safe. Never promise total secrecy.",
+      "topic": "mandatory-reporting"
+    }
+  ]
+});

@@ -4,7 +4,7 @@ window.NURSE_DATA.push({
   "moduleNumber": 42,
   "moduleTitle": "Accountability",
   "tagline": "Own the outcome. Know your limits.",
-  "overview": "Module 42 covers accountability as a professional concept—top-of-license practice, autonomy, governance, and the five components—and how it plays out at the bedside through comfort, safety, infection control, mandatory reporting, delegation, and questioning unsafe orders. Exemplar 42.A Competence adds critical thinking, emotional intelligence, Benner’s novice-to-expert stages, cultural competence, and the first rule of competence: ask for help when unsure.",
+  "overview": "Accountability as a professional concept — standards, the five components, socialization, and the factors that shape practice — plus Exemplar 42.A Competence, taught from your Unit 7 slides and study guide.",
   "topics": [
     {
       "id": "accountability-foundations",
@@ -242,6 +242,196 @@ window.NURSE_DATA.push({
       "front": "How does competence grow across a career (course list)?",
       "back": "Formal education • Seminars • Peer-reviewed journals • Employer classes • Interprofessional collaboration. To close a gap: continuing education, workshops, literature, mentorship/preceptorship, supervised orientation.",
       "topic": "competence"
+    },
+    {
+      "front": "Accountability and responsibility: slide definitions",
+      "back": "Accountability = being answerable for the outcomes of a task or assignment. Responsibility = the specific obligation tied to the duties of a particular role.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Can a nurse be accountable for someone else’s actions?",
+      "back": "Yes. Nurses answer for their own actions and may also be accountable for subordinates or trainees they supervise, such as students, orientees, or staff they delegate to.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Define standards of practice (standards of care)",
+      "back": "Professional standards or guidelines that say what a nurse should and should not do. Established by organizations such as The Joint Commission, ANA, and NLN; they describe the responsibilities nurses are accountable for.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "National guidance on accountability comes in what three forms?",
+      "back": "Benchmarks of patient care, standards of nursing practice, and codes of ethics.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "The Joint Commission vs ANA Standards of Nursing Practice",
+      "back": "TJC: standards focus on healthcare organizations (accreditation). ANA: describes responsibilities US nurses are accountable for; follows the nursing process plus Standards of Professional Performance.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "ANA Standards of Practice follow which steps?",
+      "back": "The nursing process: assessment, diagnosis, outcomes identification, planning, implementation, and evaluation. Standards of Professional Performance cover behaviors such as ethics, communication, collaboration, leadership, education, and quality.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "National League for Nursing (NLN)",
+      "back": "A national nursing organization the course lists as a source of standards; its focus is nursing education and nurse educators.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "What is a Nurse Practice Act?",
+      "back": "The law each state passes to regulate nursing practice and define legal scope. In NC: the Nursing Practice Act, G.S. 90-171.19 et seq., enforced by the NCBON.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Codes of ethics: three slide points",
+      "back": "1) Respect the inherent worth and dignity of all people. 2) Do what is right, even at personal cost. 3) Codes change as society’s needs and values change.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Why acknowledge successes as well as errors?",
+      "back": "Owning both keeps the professional culture positive. Honoring successes is as important as examining and correcting errors.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "What is QSEN?",
+      "back": "Quality and Safety Education for Nurses: a national initiative to improve quality and safety in nursing.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Why does accountability need clear standards?",
+      "back": "You can only answer for a role that is clearly defined. Clear standards of care let a nurse’s performance be measured, and accountability shapes the response to errors and incident reporting.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Components of accountability: the slide list (slide 7)",
+      "back": "1) Completing a program that gives the body of knowledge for the role. 2) A focus toward service. 3) Allegiance to a code of ethics. 4) Autonomy of the role. 5) Membership in a professional organization.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Autonomy (slide 9): what does professional status depend on?",
+      "back": "The profession’s ability to function autonomously: formulate nursing policy, control its own activity, regulate itself, and hold legal authority to define its scope. For the individual: independence, responsibility, and accountability for one’s actions.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Define socialization",
+      "back": "The process of learning to become a member of a group or society and learning the social rules that define relationships—how to behave, feel, and see the world as others in that role do.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Why is professional socialization more complex?",
+      "back": "It also requires understanding cultures that promote high performance and safe practice. A high-performance culture is dynamic and ever-changing.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Four components of a dynamic learning culture",
+      "back": "Transparency • Avoidance of blame • Use of best-practice guidelines • Staff input.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Components of successful socialization (slide 12)",
+      "back": "Clear expectations, follow-through, rewards/consequences • Interaction with fellow students (a powerful driver) • Clear expectations for preparation and performance • Understanding mistakes and consequences through reflective practice • Focus on student strengths.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Define reflective practice",
+      "back": "Looking back on an experience, including a mistake, to understand what happened and its consequences and what to do differently.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "What does the NSNA code address?",
+      "back": "The National Student Nurses Association code addresses students’ responsibilities in the academic environment and in society at large.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Six factors influencing nursing practice and accountability",
+      "back": "Economics • Consumer demand • Science and technology • Information availability and telecommunications • Legislation • Nursing workforce capacity.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Economics: how has it changed nursing?",
+      "back": "Insurance changes altered demand for nursing care; care is shifting from inpatient to outpatient; acute care remains the primary practice area; more nurses work in community settings; specialties grew; integrated care models aim to control costs.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Consumer demand: key points",
+      "back": "Consumers = the general public, and their needs drive any service. Demand for integrative health reflects cost control plus interest in complementary approaches. Consumers are more knowledgeable and vocal, partly due to the internet.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Science and technology: effect on nursing",
+      "back": "Advances affect practice, competence, and accountability. Genetic testing is available outside traditional healthcare. Nurses must expand knowledge and technical skills, use computerized equipment and the EHR, and protect shared data ethically.",
+      "topic": "competence"
+    },
+    {
+      "front": "Telehealth vs telenursing vs mHealth",
+      "back": "Telehealth: long-distance healthcare through technology. Telenursing: delivering nursing care through telecommunication. mHealth: mobile health—care through mobile devices. All raise HIPAA privacy and security questions.",
+      "topic": "competence"
+    },
+    {
+      "front": "Course vs current: “Electronic Health Report Systems”",
+      "back": "Your slides say “Electronic Health Report Systems.” Current term: electronic health record (EHR). Course exam: recognize the slide wording; NCLEX: EHR.",
+      "topic": "competence"
+    },
+    {
+      "front": "Information availability: nurse’s duty",
+      "back": "Clients are better informed through the internet, so nurses must know accurate, reliable websites (e.g., MedlinePlus) and help clients judge sources.",
+      "topic": "competence"
+    },
+    {
+      "front": "Patient Self-Determination Act (PSDA)",
+      "back": "Federal law (1990): at admission, adults must be informed in writing of their right to accept or refuse care and to make advance directives. Nurses often ensure compliance. Care never depends on having a directive.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Course vs current: PSDA “competent adults”",
+      "back": "Slides: all competent adults are informed at admission. Current: Medicare/Medicaid facilities inform every adult; if incapacitated, family or surrogate first, then the client once able. Never require a directive.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Factors driving the nursing shortage",
+      "back": "Shortage of nursing faculty • Current nurses reaching retirement • Changing demographics • Aging population • High turnover rates.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Course recommendations for the nursing shortage",
+      "back": "Help students enter and progress through programs faster • Recruit young people early (middle and high school) • Scheduling flexibility, rewards for mentors, adequate staffing, higher salaries • More funding for nursing education. Requires collaboration of health systems, policy makers, educators, and professional organizations.",
+      "topic": "accountability-foundations"
+    },
+    {
+      "front": "Competence: slide definition and how it changed",
+      "back": "Possessing the knowledge and skills to perform one’s job appropriately and safely. Formerly, nurses were competent if they could simply provide care and comfort; today the standard is higher.",
+      "topic": "competence"
+    },
+    {
+      "front": "Critical thinkers (slide 4)",
+      "back": "Open to others’ opinions but rely on knowledge as the scientific basis for action; willing to think, inquire, and investigate before deciding. Situational learning = analyze, synthesize, and apply learning.",
+      "topic": "competence"
+    },
+    {
+      "front": "Ethical reasoning is based on what?",
+      "back": "The goals, values, and obligations of professional nurses. It is needed in everyday practice, mindful of client preferences, the nurse’s own well-being, personal limits, emotions, and the practice environment.",
+      "topic": "competence"
+    },
+    {
+      "front": "Is a nurse accountable when a decision was made with colleagues?",
+      "back": "Yes. Nurses may collaborate with peers and the team on how to respond, but each nurse is accountable for her own choices.",
+      "topic": "competence"
+    },
+    {
+      "front": "Benner’s model: core premise",
+      "back": "Experience is essential for developing professional expertise; nurses move through five levels of proficiency: novice, advanced beginner, competent, proficient, expert.",
+      "topic": "competence"
+    },
+    {
+      "front": "Concepts related to accountability (slide 10)",
+      "back": "Comfort • Evidence-based practice • Health, wellness, illness, and injury • Infection • Safety • Teaching and learning • Trauma.",
+      "topic": "accountability-practice"
+    },
+    {
+      "front": "Concept learning outcomes 42.1–42.4",
+      "back": "42.1 How nursing promotes accountability • 42.2 Accountability and related concepts • 42.3 Socialization to nursing • 42.4 Factors influencing practice and accountability.",
+      "topic": "accountability-foundations"
     }
   ],
   "questions": [

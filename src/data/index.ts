@@ -108,14 +108,25 @@ export interface Unit {
 
 const ALL_UNITS: Unit[] = [
   {
+    slug: 'unit-7',
+    label: 'Unit 7',
+    title: 'Ethics, Legalities in Nursing',
+    eyebrow: 'Unit 7 · Modules 42, 44 & 49',
+    overview:
+      'Accountability and competence, ethics and morality, ethical dilemmas and patient rights, and the law: torts and malpractice, nurse practice acts and licensure, advance directives, HIPAA privacy, and mandatory reporting — taught from your Unit 7 slides and handouts, with North Carolina practice notes.',
+    color: 'var(--new)',
+    moduleIds: ['m42', 'm44', 'm49'],
+    isNew: true,
+  },
+  {
     slug: 'professional',
     label: 'Professional Nursing',
     title: 'Professional Nursing Concepts',
-    eyebrow: 'Modules 37, 39, 42–47, 49 & 50',
+    eyebrow: 'Modules 37, 39, 43, 45–47 & 50',
     overview:
-      'Collaboration, managing care, accountability, advocacy, ethics, evidence-based practice, healthcare systems, health policy, legal issues, and quality improvement — the judgment behind delegation, prioritization, consent, reporting, and safe systems, with North Carolina practice notes.',
+      'Collaboration, managing care, advocacy, evidence-based practice, healthcare systems, health policy, and quality improvement — the judgment behind delegation, prioritization, advocacy, and safe systems, with North Carolina practice notes.',
     color: 'var(--new)',
-    moduleIds: ['m37', 'm39', 'm42', 'm43', 'm44', 'm45', 'm46', 'm47', 'm49', 'm50'],
+    moduleIds: ['m37', 'm39', 'm43', 'm45', 'm46', 'm47', 'm50'],
     isNew: true,
   },
   {

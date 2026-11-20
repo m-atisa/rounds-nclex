@@ -10,7 +10,8 @@ The **21 modules** are grouped into three units. Grouping is defined in `UNITS` 
 
 | Unit | Modules | Route |
 | --- | --- | --- |
-| **Professional Nursing Concepts** *(new, highlighted)* | 37 Collaboration · 39 Managing Care · 42 Accountability · 43 Advocacy · 44 Ethics · 45 Evidence-Based Practice · 46 Healthcare Systems · 47 Health Policy · 49 Legal Issues · 50 Quality Improvement | `#/learn/professional` |
+| **Unit 7** — Ethics, Legalities in Nursing *(new, highlighted)* | 42 Accountability (42.A Competence) · 44 Ethics (44.A Morality, 44.B Ethical Dilemmas, 44.C Patient Rights) · 49 Legal Issues (49.A Nurse Practice Acts, 49.B Advance Directives, 49.C HIPAA, 49.D Mandatory Reporting) | `#/learn/unit-7` |
+| **Professional Nursing Concepts** *(highlighted)* | 37 Collaboration · 39 Managing Care · 43 Advocacy · 45 Evidence-Based Practice · 46 Healthcare Systems · 47 Health Policy · 50 Quality Improvement | `#/learn/professional` |
 | **Unit 6** — Health, Wellness, Illness, Communication, Teaching & Learning | 7 · 23 · 29 · 38 · 41 | `#/learn/unit-6` |
 | **Physiological Concepts** | 5 Elimination · 6 Fluids & Electrolytes · 10 Inflammation · 15 Oxygenation · 16 Perfusion · 21 Tissue Integrity | `#/learn/core` |
 
@@ -19,7 +20,7 @@ Module 6 is Fluids & Electrolytes. **Unit 6** is a separate course grouping.
 - **Learn**: 117 plain-language lessons. Each opens with **Key points** (a two-minute version), then explains the topic in plain words, with key terms and short numbered parts. Every part starts with a one-sentence **key idea**. Each lesson includes *Common traps*, *How the NCLEX tests this* (a sample question reasoned step by step), a *Worked case*, NCLEX tips, red flags, and self-checks. On wide screens a side rail tracks your place in the lesson.
 - **Practice**: filter by unit, module, topic, nursing skill, NCSBN clinical-judgment step, format, and difficulty. Content and strategy hints are available, and every option has its own rationale.
 - **Exam**: timed, with no hints, flag-and-review, and an optional confidence rating. The report breaks down performance and flags answers that were right but shaky.
-- **Questions**: about 4,250 items in three formats (priority, single best answer, select all that apply). The searchable bank opens with ⌘K. Every item cites its source (for example `Module 49 · Legal Issues · … · pp. 2759–2763`).
+- **Questions**: about 4,600 items in three formats (priority, single best answer, select all that apply). The searchable bank opens with ⌘K. Every item cites its source (for example `Module 49 · Legal Issues · … · pp. 2759–2763`).
 - **Flashcards**: spaced re-queueing of missed cards.
 - **New content highlight**: new modules carry a subtle orange **New** badge and tint on cards, sidebar, practice filters, and unit pages. The `isNew` flag on a unit controls this.
 - Zoom control and light/dark theme. Progress is stored locally in the browser.
@@ -38,7 +39,7 @@ src/data/types.ts        Question / Topic / Flashcard types
 src/data/data.test.ts    content-integrity tests (every question validated)
 src/pages/               Home, Learn (units, modules, topics), Practice, Exam, Session, Results, Bank, Flashcards, Progress
 src/components/          Layout (sidebar grouped by unit), UnitOverview, TopicArticle, question views
-docs/                    source maps, clarifications, content review and UX review logs
+docs/                    source maps (unit-6, unit-7, professional), coverage tables, content and UX review logs
 ```
 
 Source decks and PDFs live in the sibling `../source/` folder. They are not published.

@@ -4,7 +4,7 @@ window.NURSE_DATA.push({
   "moduleNumber": 49,
   "moduleTitle": "Legal Issues",
   "tagline": "Know the line. Protect the client — and your license.",
-  "overview": "Where nursing law comes from, the intentional and unintentional torts nurses must avoid, and how the standard of care, documentation, and error reporting prevent malpractice. Apply consent, competency, minor-consent, controlled-substance, Good Samaritan, whistleblower, and abuse-reporting laws across the lifespan.",
+  "overview": "Sources of law, torts, malpractice and the standard of care, consent and laws across the lifespan — plus Exemplars 49.A Nurse Practice Acts, 49.B Advance Directives, 49.C HIPAA, and 49.D Mandatory Reporting, with North Carolina practice notes.",
   "topics": [
     {
       "id": "law-torts-privacy",
@@ -91,6 +91,26 @@ window.NURSE_DATA.push({
     {
       "front": "What are the two purposes of health care agency policies?",
       "back": "1) Promote client safety and lower the risk of errors causing adverse events. 2) Protect staff and the agency. Example: a valuables policy prevents theft or loss.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Law vs. ethics: what does each one set for nurses?",
+      "back": "Law tells nurses the minimum standard. Ethics tells us to aim higher. Knowing both protects clients and your license (Unit 7 slide 1 note).",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "What results can a criminal law violation bring for a nurse?",
+      "back": "Fines and imprisonment (from the court) and loss of license (the Board of Nursing acts on the conviction).",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Define assault and battery (Unit 7 slide 5).",
+      "back": "Assault: a threat or action that makes a client fear harmful or offensive contact; no touch needed. Battery: unwanted or unauthorized touching, including any procedure done without consent.",
+      "topic": "law-torts-privacy"
+    },
+    {
+      "front": "Define invasion of privacy.",
+      "back": "Improper sharing OR accessing of client information (for example, opening a chart you don’t need for care), or intruding on the client’s space or belongings without permission.",
       "topic": "law-torts-privacy"
     },
     {
@@ -194,6 +214,41 @@ window.NURSE_DATA.push({
       "topic": "malpractice-standard-care"
     },
     {
+      "front": "Define standards of care.",
+      "back": "The professional expectations and competencies nurses must follow; in court, what a reasonably prudent nurse would do in the same situation.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "What do the ANA Standards of Practice do?",
+      "back": "Set the baseline of competent care expected of ALL registered nurses. They follow the nursing process (assessment, diagnosis, outcomes identification, planning, implementation, evaluation), alongside the professional performance standards.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "What are specialty practice standards? Give examples.",
+      "back": "Extra, more specific standards written by specialty groups, such as the Emergency Nurses Association (ENA) and AACN, for settings like the ED, ICU, pediatrics, and hospice.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Unit 7 slides: four strategies to prevent professional negligence?",
+      "back": "1) Maintain client safety (from admission on; protocols and evidence-based practice; respond promptly). 2) Use effective communication and documentation. 3) Minimize medication errors. 4) Carry professional liability insurance.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "What must nursing documentation be and include (Unit 7 slide 6)?",
+      "back": "Follow facility policy; be timely, complete, and objective; include assessments, interventions, the client’s response, and provider notifications.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "How does a nurse minimize medication errors (Unit 7 slide 7)?",
+      "back": "Treat medication administration as a high-risk activity: use the rights of medication administration and verify any unclear order with the prescriber before giving it.",
+      "topic": "malpractice-standard-care"
+    },
+    {
+      "front": "Liability insurance: what forms can coverage take, and what must students do?",
+      "back": "Individual, employer-sponsored, or group-based. Occurrence-based coverage protects events during the policy period even if reported later. Students must keep active liability insurance throughout the program.",
+      "topic": "malpractice-standard-care"
+    },
+    {
       "front": "Who obtains informed consent, and what does the nurse do?",
       "back": "The provider performing the procedure obtains it; the nurse assesses ability to understand, arranges an interpreter, witnesses the signature, and notifies the provider of questions.",
       "topic": "consent-laws-lifespan"
@@ -266,6 +321,21 @@ window.NURSE_DATA.push({
     {
       "front": "Course signs of abuse in infants vs. older children?",
       "back": "Infants: any bruising (physical abuse); vomiting, irritability, lethargy (possible head injury). Older children: unexplained injuries, injuries not matching the story, untreated medical problems. Sexual abuse: often no physical findings; cultures may show STIs.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "When may life-saving care proceed without consent?",
+      "back": "In an emergency, when the client can’t consent and delay increases risk to life or limb — but never for a treatment the client refused beforehand.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Are adults presumed competent to consent?",
+      "back": "Yes. Adults are legally presumed competent unless a court declares otherwise. If capacity seems doubtful, tell the provider before consent is signed.",
+      "topic": "consent-laws-lifespan"
+    },
+    {
+      "front": "Mandatory reporting: is telling the charge nurse always enough?",
+      "back": "No. Rules differ by state and situation, and not every listed injury is automatically reportable. Make sure the report reaches the designated agency (in NC, county DSS for child maltreatment).",
       "topic": "consent-laws-lifespan"
     }
   ],

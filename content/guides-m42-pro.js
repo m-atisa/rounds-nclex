@@ -9,25 +9,25 @@ window.NURSE_DATA.push({
       "id": "accountability-foundations",
       "title": "Accountability Basics: Scope, Autonomy, and Governance",
       "exemplar": null,
-      "summary": "Accountability means answering for what you do, decide, and fail to do, built on five professional components and on practicing to the full extent of your license.",
+      "summary": "Accountability means answering for what you do, decide, and fail to do. Learn its standards, five components, how nurses are socialized, and the forces shaping practice.",
       "objectives": [
         "You can tell accountability apart from responsibility, authority, and liability.",
-        "You can explain top-of-license practice and its two limits.",
-        "You can compare professional and individual autonomy.",
-        "You can name who sets nursing rules and which source wins.",
+        "You can explain top-of-license practice, autonomy, and who sets nursing standards.",
         "You can match a nurse’s behavior to one of the five components.",
+        "You can describe how students are socialized into nursing.",
+        "You can name six factors that shape nursing practice and accountability.",
         "You can pick the accountable action when pressure conflicts with client safety."
       ],
-      "bigPicture": "<p>Accountability is one simple promise: <b>“I will answer for what I do, what I decide, and what I fail to do.”</b> You may need to explain a choice to the client, your employer, the board of nursing, or a court. It is not about blame. It is about ownership.</p><p>This idea sits under most Management of Care questions on the NCLEX. You can hand a task to someone else. You cannot hand off your judgment or your duty to follow up. This lesson covers the key words, top-of-license practice, autonomy, governance, and the five components of accountability.</p>",
+      "bigPicture": "<p>Accountability is one simple promise: <b>“I will answer for what I do, what I decide, and what I fail to do.”</b> You may need to explain a choice to the client, your employer, the board of nursing, or a court. It is about ownership, not blame.</p><p>This idea sits under most Management of Care questions on the NCLEX. You can hand a task to someone else. You cannot hand off your judgment or your duty to follow up. This lesson covers the key words, standards of care, top-of-license practice, autonomy, governance, and the five components. It ends with how students become nurses and the outside forces that change nursing.</p>",
       "recap": [
-        "Accountability means answering for your judgments, actions, omissions, and outcomes. Responsibility is the duty to do a task.",
-        "You can delegate a task, but never your accountability for the judgment and follow-up.",
-        "Top-of-license practice uses your full education and legal scope—never beyond your scope or competence.",
-        "Professional autonomy is nursing regulating itself; individual autonomy is your freedom to act within scope.",
-        "Governance—boards, professional groups, shared governance—gives nurses control over practice, discipline, and working conditions.",
+        "Accountability: answering for the outcomes of your judgments, actions, and omissions. Responsibility: the duty that comes with your role.",
+        "You can delegate a task, never your accountability. You may also answer for students and trainees you supervise.",
+        "Top of license means your full education and legal scope—never beyond scope or competence.",
+        "Standards come from the ANA, The Joint Commission, the NLN, state Nurse Practice Acts, and codes of ethics. Policy can narrow scope, never widen it.",
+        "Autonomy: nursing regulates itself, and you act within scope. Governance gives nurses control over practice, discipline, and working conditions.",
         "Five components: education, body of knowledge, service orientation, code of ethics, and autonomy through professional organizations.",
-        "Facility policy can narrow your scope but never widen it past the Nurse Practice Act.",
-        "Accountable pattern: assess, act within scope, communicate, document truthfully, report and follow up."
+        "Socialization thrives with transparency, no blame, best-practice guidelines, and staff input.",
+        "Six factors: economics, consumer demand, science and technology, information and telecommunication, legislation (PSDA), and workforce capacity."
       ],
       "keyTerms": [
         {
@@ -36,7 +36,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Responsibility",
-          "def": "The duty to carry out a task. A task can be assigned or delegated."
+          "def": "The specific duty that comes with your role. A task can be assigned or delegated."
         },
         {
           "term": "Authority",
@@ -48,7 +48,7 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Top-of-license (TOL) practice",
-          "def": "Practicing to the full extent of your education, skills, and legal scope. It came from the IOM’s 2010 Future of Nursing report."
+          "def": "Practicing to the full extent of your education, skills, and legal scope (IOM 2010, The Future of Nursing)."
         },
         {
           "term": "Scope of practice",
@@ -56,19 +56,15 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Professional autonomy",
-          "def": "Nursing’s power to regulate itself: set standards, write policy, and define its roles and scope through state boards of nursing."
+          "def": "Nursing’s power to regulate itself: set standards, write policy, and define scope through state boards."
         },
         {
           "term": "Individual autonomy",
-          "def": "Your freedom to perform needed nursing actions within scope, while answering for them and advocating for safe care."
+          "def": "Your freedom to act within scope, while answering for your actions and advocating for safe care."
         },
         {
           "term": "Governance",
-          "def": "Structure from professional nursing organizations that lets nurses control their practice, self-discipline, and working conditions."
-        },
-        {
-          "term": "Shared governance",
-          "def": "A facility model where bedside nurses share decisions about practice, quality, and staffing through councils."
+          "def": "Structure from professional organizations that lets nurses control their practice, self-discipline, and working conditions."
         },
         {
           "term": "Nurse Practice Act (NPA)",
@@ -79,23 +75,51 @@ window.NURSE_DATA.push({
           "def": "The state agency that licenses, writes rules, investigates, and disciplines nurses to protect the public."
         },
         {
-          "term": "NCSBN and ANA",
-          "def": "NCSBN is the group of state boards that writes the NCLEX. The ANA is a professional group that writes the Code of Ethics."
-        },
-        {
           "term": "Evidence-based practice (EBP)",
-          "def": "Care that blends the best research, your clinical expertise, and the client’s values and preferences."
+          "def": "Care that blends the best research, your expertise, and the client’s values."
         },
         {
-          "term": "Falsification",
-          "def": "Charting something untrue, such as care not done or a false time. It is never acceptable."
+          "term": "Standards of practice (standards of care)",
+          "def": "Professional guidelines that say what a nurse should and should not do."
+        },
+        {
+          "term": "ANA Standards of Nursing Practice",
+          "def": "What every US RN answers for. Standards of Practice follow the nursing process; Standards of Professional Performance cover professional behavior."
+        },
+        {
+          "term": "The Joint Commission (TJC)",
+          "def": "Accredits hospitals and other healthcare organizations; its standards focus on the organization."
+        },
+        {
+          "term": "National League for Nursing (NLN)",
+          "def": "A national nursing organization focused on nursing education."
+        },
+        {
+          "term": "QSEN",
+          "def": "Quality and Safety Education for Nurses: a national initiative to improve quality and safety."
+        },
+        {
+          "term": "Socialization",
+          "def": "Learning to be a member of a group and its rules. In nursing, learning to act, feel, and see the world as nurses do."
+        },
+        {
+          "term": "Reflective practice",
+          "def": "Looking back on an experience or mistake to learn from it and its consequences."
+        },
+        {
+          "term": "Patient Self-Determination Act (PSDA)",
+          "def": "A 1990 federal law: adults get written information at admission on their right to accept or refuse care and to make advance directives."
+        },
+        {
+          "term": "Advance directive",
+          "def": "A written statement of the care a person wants, or who decides, if they cannot speak for themselves."
         }
       ],
       "sections": [
         {
           "heading": "What is accountability?",
           "keyIdea": "Accountability means you answer for your judgments, actions, and omissions—and you cannot hand it to anyone else.",
-          "body": "<p><b>Accountability</b> means answering for what you do and decide. It also covers what you fail to do. A missed step is an <b>omission</b>, and it counts.</p><p>Three look-alike words cause confusion. <b>Responsibility</b> is the duty to do a task. <b>Authority</b> is the right to act or direct others. <b>Liability</b> is legal blame for harm, decided later.</p><p>A task can be handed off. Accountability for nursing judgment stays with the licensed nurse. If an RN asks an assistant to take vital signs, the assistant must measure and report them. The RN still must give clear directions and act on the results. “I delegated it” is not a defense.</p><p>You answer to the client first, then to yourself, the profession, your employer, and the law. When these conflict, client safety wins.</p>",
+          "body": "<p><b>Accountability</b> means answering for what you do and decide. It also covers what you fail to do. A missed step is an <b>omission</b>, and it counts.</p><p>Three look-alike words cause confusion. <b>Responsibility</b> is the duty to do a task. <b>Authority</b> is the right to act or direct others. <b>Liability</b> is legal blame for harm, decided later.</p><p>Your slides define accountability as <b>being answerable for the outcomes of a task or assignment</b>. Responsibility is the <b>specific duty of your role</b>. You may also answer for people you supervise or train, such as students or orientees.</p><p>A task can be handed off, but accountability for nursing judgment stays with the licensed nurse. If an assistant takes vital signs, the RN still gives clear directions and acts on the results. “I delegated it” is not a defense.</p><p>Your first duty is to the client. You also answer to yourself, the profession, your employer, and the law. When these conflict, client safety wins.</p>",
           "table": {
             "headers": [
               "Word",
@@ -128,12 +152,19 @@ window.NURSE_DATA.push({
           "check": {
             "q": "An assistant charts a postoperative BP of 84/50 but tells no one. Two hours later the client is drowsy and hypotensive. Who was accountable for acting on it?",
             "a": "The RN keeps accountability for follow-up. The assistant was responsible, and accountable, for reporting the value as directed. The RN was accountable for clear reporting rules, checking results, and acting. Delegation moves the task, not the RN’s accountability."
-          }
+          },
+          "bullets": [
+            "Your sense of accountability guides your performance, and your performance shapes client outcomes.",
+            "Accountability needs clear, accepted <b>standards of care</b>.",
+            "It shapes how you respond to errors and file incident reports.",
+            "Own successes and errors. Honoring what went well matters as much as fixing mistakes. It keeps the culture positive.",
+            "<b>QSEN</b> (Quality and Safety Education for Nurses) is a national initiative to improve quality and safety."
+          ]
         },
         {
           "heading": "What is top-of-license practice?",
           "keyIdea": "Top-of-license practice means doing all the nursing work your education and legal scope allow—never less, and never more.",
-          "body": "<p><b>Top-of-license (TOL) practice</b> is an <b>interprofessional</b> way of delivering care. It means each team member works at the highest level their training and legal scope allow. It grew from the Institute of Medicine’s 2010 report, <em>The Future of Nursing: Leading Change, Advancing Health</em>.</p><p>Why does it matter? When RNs spend the shift on tasks others could do, RN-only work gets skipped. That includes assessment, teaching, care coordination, and evaluation. The course lists eight core RN duties in TOL. It highlights outcomes-focused care and safe transitions, such as handoffs and discharges.</p><p>TOL includes a duty to advocate for your own and colleagues’ autonomy. It also has two ceilings: your <b>legal scope</b> and your <b>personal competence</b>. Practicing at the top of your license is the opposite of practicing beyond it.</p><p><b>Course vs current:</b> Your course guide says TOL lets nurses with a <b>BSN or higher</b> practice to the fullest extent of their education, skills, and legal scope. Current standard: the 2010 report says <b>every</b> nurse should practice to the full extent of his or her own education and training. On a course exam, expect the BSN wording. On the NCLEX, apply TOL to any RN.</p>",
+          "body": "<p><b>Top-of-license (TOL) practice</b> is an <b>interprofessional</b> way of delivering care. It means each team member works at the highest level their training and legal scope allow. It grew from the Institute of Medicine’s 2010 report, <em>The Future of Nursing: Leading Change, Advancing Health</em>.</p><p>Why does it matter? When RNs spend the shift on tasks others could do, RN-only work gets skipped. That includes assessment, teaching, care coordination, and evaluation. The course lists eight core RN duties in TOL. It highlights outcomes-focused care and safe transitions, such as handoffs and discharges.</p><p>TOL includes a duty to advocate for your own and colleagues’ autonomy. It also has two ceilings: your <b>legal scope</b> and your <b>personal competence</b>. Practicing at the top of your license is the opposite of practicing beyond it.</p><p><b>Course vs current:</b> Your course guide limits TOL to nurses with a BSN or higher. Current standard: the 2010 report says <b>every</b> nurse should practice to the full extent of his or her own education and training. Course exam: BSN wording. NCLEX: any RN.</p>",
           "example": "RNs spend each morning restocking carts while clients wait for reassessment after opioids. A TOL-minded nurse brings data to the practice council and asks that support staff restock.",
           "check": {
             "q": "Which reflects TOL practice: passing every meal tray yourself, or coordinating discharge teaching for a client going home on new insulin?",
@@ -143,7 +174,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What does autonomy mean in nursing?",
           "keyIdea": "The profession regulates itself, and each nurse acts independently within scope—both must answer for their choices.",
-          "body": "<p><b>Autonomy</b> means independence. In nursing it works at two levels.</p><p><b>Professional autonomy</b> belongs to nursing as a whole. The profession regulates itself. It sets standards, writes nursing policy, and defines its scope. The legal power sits with state boards of nursing.</p><p><b>Individual autonomy</b> is yours at the bedside. You may perform needed nursing actions within scope, like repositioning, teaching, or holding an opioid when breathing is slow. Freedom comes paired with answerability. The more you decide, the more you must explain and document.</p><p>On the NCLEX, autonomy appears as the option where the nurse acts within scope instead of waiting for permission.</p>",
+          "body": "<p><b>Autonomy</b> means independence. In nursing it works at two levels.</p><p><b>Professional autonomy</b> belongs to nursing as a whole. The profession regulates itself. It sets standards, writes nursing policy, and defines its scope. Legally, each state’s Nurse Practice Act and board of nursing define scope. Nursing’s status as a profession depends on this: making its own policy and controlling its own work.</p><p><b>Individual autonomy</b> is yours at the bedside. You may perform needed nursing actions within scope, like repositioning, teaching, or holding an opioid when breathing is slow. Freedom comes paired with answerability. The more you decide, the more you must explain and document.</p><p>On the NCLEX, autonomy appears as the option where the nurse acts within scope instead of waiting for permission.</p>",
           "analogy": "A sports league writes the rulebook and disciplines players. That is professional autonomy. Each player chooses how to play within the rules and answers for each play. That is individual autonomy.",
           "table": {
             "headers": [
@@ -175,9 +206,9 @@ window.NURSE_DATA.push({
           }
         },
         {
-          "heading": "Who sets the rules for nursing?",
-          "keyIdea": "Governance is how nurses control their own practice, discipline, and working conditions—through boards, professional groups, and unit councils.",
-          "body": "<p><b>Governance</b> is the structure that lets nurses run their own professional affairs. Per the course, professional nursing organizations provide it. It sets up social, political, and economic arrangements so nurses control their practice, self-discipline, and working conditions.</p><p>It works at the state, national, and facility levels, as the table shows. At work, <b>shared governance</b> councils let bedside nurses help shape policy.</p><p>“Who decides?” questions are governance questions. The board decides what is legal. Facility policy can be stricter than the law, but never looser. To change a unit practice, bring evidence to the practice council. Do not quietly ignore policy.</p>",
+          "heading": "Who sets the rules and standards?",
+          "keyIdea": "National groups set standards of care, state law sets legal scope, and governance lets nurses control their own practice.",
+          "body": "<p><b>Standards of practice</b>, also called <b>standards of care</b>, are professional guidelines. They spell out what a nurse should and should not do. National groups give this guidance as benchmarks for client care, standards of nursing practice, and codes of ethics.</p><p>The course names three such groups: The Joint Commission, the American Nurses Association (ANA), and the National League for Nursing (NLN). Each state also has a Nurse Practice Act to regulate practice.</p><p><b>Governance</b> is the structure that lets nurses run their own professional affairs. Per the course, professional nursing organizations provide it. It sets up social, political, and economic arrangements so nurses control their practice, self-discipline, and working conditions.</p><p>It works at state, national, and facility levels. At work, <b>shared governance</b> councils let bedside nurses help shape policy. The board decides what is legal. Facility policy can be stricter than the law, but never looser. To change a unit practice, bring evidence to the practice council. Do not quietly ignore policy.</p>",
           "table": {
             "headers": [
               "Body",
@@ -202,8 +233,8 @@ window.NURSE_DATA.push({
               ],
               [
                 "ANA",
-                "Code of Ethics; scope and standards",
-                "Ethical duty to the client"
+                "Code of Ethics; Scope and Standards of Practice",
+                "Ethical duty; what every RN must do"
               ],
               [
                 "Employer policy",
@@ -220,17 +251,23 @@ window.NURSE_DATA.push({
           "check": {
             "q": "Nurses on a unit co-sign wastes they did not witness “to save time.” What should a new nurse do?",
             "a": "Refuse to co-sign, since that is falsification and a diversion risk. Follow policy, then raise the issue with the manager and practice council."
-          }
+          },
+          "bullets": [
+            "<b>ANA Standards of Practice</b> describe what US RNs are accountable for. They follow the nursing process: assessment, diagnosis, outcomes identification, planning, implementation, and evaluation.",
+            "<b>ANA Standards of Professional Performance</b> cover how you act as a professional. Examples are ethics, communication, collaboration, leadership, education, and quality of practice.",
+            "<b>The Joint Commission (TJC)</b> accredits hospitals and other healthcare organizations. Its standards, such as the National Patient Safety Goals, focus on the organization.",
+            "<b>NLN</b> focuses on nursing education and the faculty who teach it."
+          ]
         },
         {
           "heading": "What are the five components?",
           "keyIdea": "Five components make nursing an accountable profession: education, a body of knowledge, service, a code of ethics, and professional organization.",
-          "body": "<p>The course names five components that promote professional accountability. Exam stems describe a behavior and ask which component it shows. So learn what each one looks like.</p><p>The course guide labels component 1 “Education (Body of Knowledge)” and component 2 “Body of Knowledge.” Treat them as two items: learning that gets you licensed, and the knowledge base of the profession.</p><p><b>Course vs current:</b> Your course guide lists MSN and doctorate (DNP/PhD) programs as ways into practice. Current standard: a first RN license comes from an approved diploma, ADN, BSN, or entry-level master’s program, plus the NCLEX-RN. A DNP or PhD is almost always an advanced degree for nurses who are already RNs. On a course exam, expect all five program types. On the NCLEX, every route ends with passing the NCLEX-RN.</p><p><b>Course vs current:</b> Your course guide says nursing codes of ethics are “regulated alongside state boards of nursing via the NCSBN.” Current standard: the ANA writes and updates the <i>Code of Ethics for Nurses</i>. The NCSBN does not write or regulate it. Boards enforce the Nurse Practice Act and may discipline unethical conduct. On a course exam, expect the NCSBN wording. On the NCLEX, the Code belongs to the ANA.</p>",
+          "body": "<p>The course names five components that promote professional accountability. Exam stems describe a behavior and ask which component it shows. So learn what each one looks like.</p><p>The course guide labels component 1 “Education (Body of Knowledge)” and component 2 “Body of Knowledge.” Treat them as two items: learning that gets you licensed, and the knowledge base of the profession.</p><p>The slides group them a bit differently (slide 7). They join education and knowledge into one item: finishing a program that gives you the body of knowledge for the role. They then list autonomy and membership in a professional organization as two items. Same ideas, different grouping.</p><p><b>Course vs current:</b> Your course guide says nursing’s codes of ethics are regulated with state boards through the NCSBN. Current standard: the ANA writes the Code of Ethics, and boards enforce the law. Entry routes are compared in the last section.</p>",
           "bullets": [
             "<b>Education.</b> Entry needs an approved nursing program plus passing the NCLEX. The course lists five program types: hospital diploma, associate degree (ADN), bachelor’s (BSN), master’s (MSN), and doctorate (DNP or PhD). The ANA recommends the BSN for entry. Many ADN nurses go on through RN-to-BSN programs. <em>Seen as:</em> starting an RN-to-BSN program or earning a certification.",
             "<b>Body of knowledge.</b> Nursing’s own distinct, ever-growing knowledge, built on nursing frameworks and ongoing research. Nurses apply it through evidence-based practice (EBP) to keep care safe. <em>Seen as:</em> checking current evidence before changing a routine.",
             "<b>Service orientation.</b> Unlike jobs driven by profit, nursing puts service to others first, based on tradition and accountability. Rules, policies, and codes of ethics guide it. <em>Seen as:</em> volunteering in a state or national Medical Reserve Corps during a crisis like COVID-19. Volunteers help local health departments with data collection, phone banks, and public health information.",
-            "<b>Code of ethics.</b> Respecting the inherent worth and dignity of all people. Doing what is right, even at personal cost, to keep your moral integrity. Nursing has its own profession-specific code. <em>Seen as:</em> reporting your own error.",
+            "<b>Code of ethics.</b> Respecting the inherent worth and dignity of all people. Doing what is right, even at personal cost, to keep your moral integrity. Nursing has its own profession-specific code. Codes change as society’s needs and values change. <em>Seen as:</em> reporting your own error.",
             "<b>Autonomy and membership in a professional organization.</b> Working under professional groups gives nursing governance, self-regulation, and legal and clinical autonomy. <em>Seen as:</em> joining a specialty association or practice council."
           ],
           "steps": [
@@ -247,7 +284,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Why habit is not a defense",
           "keyIdea": "You cannot defend a decision based on habit; accountable nurses use current evidence and change practice through proper channels.",
-          "body": "<p>You cannot answer for a decision you cannot explain. “We have always done it this way” is not an explanation.</p><p>Education keeps you current. The ANA recommends the BSN for entry into practice. Magnet hospitals push for BSN-prepared nurses. Nursing knowledge keeps growing, so some of what you learn now will become outdated.</p><p><b>Evidence-based practice (EBP)</b> brings new knowledge to the bedside. It blends research, your expertise, and the client’s values. If a unit routine conflicts with evidence, bring the evidence to the practice council or educator. Do not keep it up blindly or change it alone. If an order conflicts with evidence, clarify it with the prescriber.</p><p><b>Course vs current:</b> Your course guide says Magnet hospitals <b>require BSN-prepared nurses</b>. Current standard: Magnet requires nurse managers and nurse leaders to hold a BSN or higher. Staff RNs do not all need a BSN, but the hospital must show a plan to raise its share of BSN staff. On a course exam, expect “Magnet requires BSN nurses.” On the NCLEX, this detail is rarely tested.</p>",
+          "body": "<p>You cannot answer for a decision you cannot explain. “We have always done it this way” is not an explanation.</p><p>The ANA recommends the BSN for entry into practice. Nursing knowledge keeps growing, so some of what you learn now will become outdated.</p><p><b>Evidence-based practice (EBP)</b> brings new knowledge to the bedside. It blends research, your expertise, and the client’s values. If a unit routine conflicts with evidence, bring the evidence to the practice council or educator. Do not keep it up blindly or change it alone. If an order conflicts with evidence, clarify it with the prescriber.</p><p><b>Course vs current:</b> Your course guide says Magnet hospitals require BSN-prepared nurses. Current standard: Magnet requires a BSN or higher for nurse managers and leaders, not every staff RN. On a course exam, expect “Magnet requires BSN nurses.” The NCLEX rarely tests it.</p>",
           "bullets": [
             "<b>Strongest evidence:</b> systematic reviews and meta-analyses of randomized controlled trials.",
             "<b>Next:</b> single randomized trials, then nonrandomized and observational studies.",
@@ -257,6 +294,131 @@ window.NURSE_DATA.push({
           "check": {
             "q": "Which statement shows accountability for the body of knowledge? (a) “I learned it in school, so it is still right.” (b) “Policy says this, but I’ll check if the evidence changed and bring it to the council.”",
             "a": "(b). It follows policy while using EBP and governance to update practice."
+          }
+        },
+        {
+          "heading": "What is socialization to nursing?",
+          "keyIdea": "Socialization is how you learn to think, act, and feel like a nurse, and it works best in an open, blame-free culture.",
+          "body": "<p>Entering a profession is like moving into a new society. <b>Socialization</b> is the process of learning to be a member of a group. You learn its social rules and how members relate to each other. Traditionally, you learn to behave, feel, and see the world the way others in that role do.</p><p><b>Professional socialization</b> is more complex. You must also understand work cultures that support high performance and safe practice. A high-performance culture is dynamic. It keeps changing as evidence and needs change.</p><p>Why does it matter? Students copy the culture around them. A nurse who learns to speak up and report errors keeps clients safer.</p>",
+          "bullets": [
+            "<b>Transparency.</b> Errors, near misses, and results are shared openly.",
+            "<b>Avoidance of blame.</b> People report problems without fear, so the team can fix the system.",
+            "<b>Use of best-practice guidelines.</b> Care follows current evidence, not habit.",
+            "<b>Staff input.</b> Frontline nurses help shape how the unit works."
+          ],
+          "table": {
+            "headers": [
+              "What helps socialization",
+              "What it looks like"
+            ],
+            "rows": [
+              [
+                "Clear expectations, follow-through, rewards and consequences",
+                "Clear rules for preparation and performance, applied every time"
+              ],
+              [
+                "Interaction with fellow students",
+                "A powerful driver: study groups and peer feedback"
+              ],
+              [
+                "Reflective practice",
+                "Looking back at a mistake to understand its consequences"
+              ],
+              [
+                "Focus on student strengths",
+                "Building on what the student does well"
+              ],
+              [
+                "NSNA code",
+                "Student duties in school and in society"
+              ]
+            ]
+          },
+          "example": "After nearly giving a held dose, a student writes a short reflection: what happened, why, and what she will do next time. Her plan is to check for holds before pulling medications. She shares it at post-conference so classmates learn too.",
+          "check": {
+            "q": "A classmate laughs that she charted vital signs she never took, “like the staff do.” What is going wrong, and what should you do?",
+            "a": "She is being socialized into an unsafe culture. Charting care not done is falsification. Tell her it is not acceptable. If it continues, tell your clinical instructor. Student codes require honesty in school and clinical."
+          }
+        },
+        {
+          "heading": "What forces shape nursing practice?",
+          "keyIdea": "Money, consumers, technology, information, laws, and staffing all change what nurses do and what they answer for.",
+          "body": "<p>Many factors shape nursing. Most also affect the whole healthcare system. The course names six, shown in the table. Technology and telehealth are taught in the Competence lesson.</p><p><b>Economics.</b> Changes in public and private health insurance have changed the demand for nursing care. Care is shifting from inpatient to outpatient settings. Acute care is still the main place nurses work. But more nurses now work in community-based settings. Specialty areas grew to meet client needs. Integrated care models aim to control costs.</p><p><b>Consumer demand.</b> Healthcare consumers are the general public. Their needs drive any market or service. The push for integrative health services comes from cost-cutting and also from consumer interest in complementary health approaches. Today’s consumers know more and speak up more, partly because of the internet.</p>",
+          "table": {
+            "headers": [
+              "Factor",
+              "What you do"
+            ],
+            "rows": [
+              [
+                "Economics",
+                "Expect to work in clinics, homes, and community settings too"
+              ],
+              [
+                "Consumer demand",
+                "Ask about complementary therapies; treat clients as partners"
+              ],
+              [
+                "Science and technology",
+                "Keep learning new equipment and the EHR; protect data"
+              ],
+              [
+                "Information and telecommunication",
+                "Point clients to reliable sites; protect privacy in telehealth"
+              ],
+              [
+                "Legislation",
+                "Give each adult client advance-directive information (PSDA)"
+              ],
+              [
+                "Workforce capacity",
+                "Mentor new nurses; support safe staffing"
+              ]
+            ]
+          },
+          "check": {
+            "q": "A client takes turmeric capsules and sees an acupuncturist. How does consumer demand shape your response?",
+            "a": "Ask about and document every complementary approach without judgment. Check for drug interactions and tell the provider. Clients expect to be partners in integrative care."
+          }
+        },
+        {
+          "heading": "How do laws and staffing shape nursing?",
+          "keyIdea": "Health laws like the PSDA add duties nurses carry out, and a short-staffed workforce raises the stakes for every nurse.",
+          "body": "<p><b>Legislation.</b> New health laws change nurses’ work and consumers’ rights. The course example is the <b>Patient Self-Determination Act (PSDA)</b>, a 1990 federal law. At admission, adult clients must be told in writing about their right to accept or refuse medical care. They must also learn their right to make <b>advance directives</b>. In many organizations, nurses make sure the facility follows this law and similar rules.</p><p><b>Workforce capacity.</b> RNs are the largest group of healthcare providers. Even so, the supply of nurses is not projected to meet the demand. Fixing it takes teamwork among health systems, policy makers, nursing educators, and professional organizations.</p>",
+          "bullets": [
+            "Shortage of nursing faculty.",
+            "Current nurses reaching retirement.",
+            "Changing demographics and an aging population.",
+            "High turnover rates."
+          ],
+          "table": {
+            "headers": [
+              "Recommendation",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Move students through programs faster and more efficiently",
+                "Accelerated and bridge programs"
+              ],
+              [
+                "Recruit young people early",
+                "Middle and high school outreach"
+              ],
+              [
+                "Support experienced nurses",
+                "Flexible schedules, rewards for mentors, adequate staffing, higher pay"
+              ],
+              [
+                "Increase funding for nursing education",
+                "Grants and scholarships"
+              ]
+            ]
+          },
+          "example": "Mr. Lewis, 72, is admitted with pneumonia. The nurse gives him written advance-directive information and asks if he has one. He names his daughter as health care power of attorney. The nurse documents it and asks for a copy for the chart.",
+          "check": {
+            "q": "A client says he does not want to make an advance directive. Can he still be admitted and treated?",
+            "a": "Yes. The PSDA requires that he be informed, not that he sign one. Care can never depend on whether a client has an advance directive. Document that he got the information and his choice."
           }
         },
         {
@@ -275,11 +437,11 @@ window.NURSE_DATA.push({
               ],
               [
                 "Professional vs individual autonomy",
-                "Standards, policy, or the board = professional. Acting within scope without waiting = individual."
+                "Standards, policy, or the board = professional. Acting within scope = individual."
               ],
               [
                 "Nurse’s vs client’s autonomy",
-                "If the client is choosing about their own care, it is client autonomy."
+                "A client choosing about their own care = client autonomy."
               ],
               [
                 "Governance vs management",
@@ -287,7 +449,7 @@ window.NURSE_DATA.push({
               ],
               [
                 "Top of license vs beyond scope",
-                "Needs a medical order or a skill you lack? That is out of scope."
+                "Needs a medical order or a skill you lack? Out of scope."
               ],
               [
                 "Policy vs Nurse Practice Act",
@@ -296,6 +458,18 @@ window.NURSE_DATA.push({
               [
                 "Board vs professional group",
                 "Licensing and discipline = board. Ethics code and advocacy = ANA."
+              ],
+              [
+                "TJC vs ANA standards",
+                "TJC = the organization. ANA = what each RN must do."
+              ],
+              [
+                "PSDA: inform vs require",
+                "Every adult is informed. No one must sign a directive to get care."
+              ],
+              [
+                "Socialization vs Benner stage",
+                "Socialization = learning the culture. Benner = clinical skill level."
               ]
             ]
           }
@@ -311,7 +485,7 @@ window.NURSE_DATA.push({
           ],
           "steps": [
             "<b>Read the stem.</b> A nurse forgot a client’s 0900 oral antihypertensive. At 1300 the BP is 168/96. Which action best shows accountability? (A) Give it now and chart it at 0900. (B) Assess, tell the provider, follow direction, document accurately, and file an event report. (C) Double the next dose. (D) Let the oncoming nurse decide.",
-            "<b>What is it really asking?</b> How to own a missed dose and its effect.",
+            "<b>What is it asking?</b> How to own a missed dose.",
             "<b>Key cues.</b> A missed dose is an omission. The high BP needs assessment.",
             "<b>Why the others are wrong.</b> (A) is falsification. (C) is unsafe and needs an order. (D) hands off ownership.",
             "<b>The answer is (B).</b> It assesses, tells the truth, stays in scope, and reports.",
@@ -339,26 +513,25 @@ window.NURSE_DATA.push({
           "keyIdea": "In North Carolina, the NCBON sets nursing scope, and the RN keeps assessment, planning, evaluation, delegation, and assignment.",
           "body": "<p>The NCLEX will not ask NC statute numbers. Use these facts in real NC practice.</p>",
           "bullets": [
-            "The <b>NC Board of Nursing (NCBON)</b> regulates nursing under the Nursing Practice Act (G.S. 90-171.19 et seq., Chapter 90, Article 9A).",
-            "RN rules are in 21 NCAC 36 .0224; LPN rules are in .0225.",
-            "The RN is accountable for assessment, planning, evaluation, delegation, and assignment. The LPN works under RN or provider supervision.",
+            "NCBON regulates nursing under the Nursing Practice Act (G.S. 90-171.19 et seq., Chapter 90, Article 9A).",
+            "RN rules: 21 NCAC 36 .0224. LPN rules: .0225. The RN is accountable for assessment, planning, evaluation, delegation, and assignment; the LPN works under RN or provider supervision.",
             "The RN delegates tasks, never the nursing process or judgment. NCBON offers scope-of-practice and UAP delegation decision trees.",
-            "Facility policy can be stricter than these rules, never broader.",
-            "NC is a Nurse Licensure Compact state; follow the practice law where the client is.",
-            "NCBON uses a Just Culture–based tool: human error, at-risk behavior, or reckless behavior.",
-            "Diversion, impairment on duty, fraud, boundary violations, and confidentiality breaches go to the Board. NCBON offers alternative-to-discipline programs."
+            "Facility policy can be stricter than these rules, never broader. NC is a Nurse Licensure Compact state; follow the practice law where the client is.",
+            "NCBON uses a Just Culture–based tool: human error, at-risk behavior, or reckless behavior. Diversion, impairment on duty, fraud, boundary violations, and confidentiality breaches go to the Board. NCBON offers alternative-to-discipline programs.",
+            "Advance directives: Health Care Power of Attorney (G.S. Chapter 32A, Article 3) and Declaration of a Desire for a Natural Death, the living will (G.S. 90-321). The portable medical order form is the MOST (Medical Orders for Scope of Treatment)."
           ]
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Source: Module 42 study guide, Glossary terms 1–3 and “The Concept of Accountability & Its Five Core Components,” pp. 2703–2704. Added for NCLEX context: the four look-alike terms, shared governance, the roles of the board, NCSBN, and ANA, and evidence ranking. Where the course and current practice differ, learn both, as listed below.</p>",
+          "body": "<p>Source: Module 42 study guide, Glossary terms 1–3 and the five components, pp. 2703–2704. Unit 7 slides: “The Concept of Accountability” deck, slides 2–9 (outcomes, standards, components) and 11–19 (socialization and factors). Added for NCLEX context: look-alike terms, shared governance, board/NCSBN/ANA roles, ANA standards list, and evidence ranking. Learn both where they differ:</p>",
           "bullets": [
-            "<b>Top-of-license:</b> Your course guide says TOL is for nurses with a BSN or higher. Current standard: every nurse practices to the full extent of his or her own education and scope. On a course exam, expect the BSN wording; on the NCLEX, apply TOL to any RN.",
-            "<b>Entry pathways:</b> Your course guide lists diploma, ADN, BSN, MSN, and DNP/PhD as ways into practice. Current standard: first RN licensure comes through a diploma, ADN, BSN, or entry-level master’s program, plus the NCLEX-RN. On a course exam, expect the five-program list; on the NCLEX, every route ends with the NCLEX-RN.",
-            "<b>Codes of ethics:</b> Your course guide says codes are “regulated alongside state boards of nursing via the NCSBN.” Current standard: the ANA writes the Code; boards enforce the law and may discipline unethical conduct. On a course exam, expect the NCSBN wording; on the NCLEX, the Code belongs to the ANA.",
-            "<b>Magnet:</b> Your course guide says Magnet hospitals require BSN-prepared nurses. Current standard: Magnet requires a BSN or higher for nurse managers and leaders, plus a plan to grow BSN staff. On a course exam, expect “Magnet requires BSN nurses”; the NCLEX rarely tests this.",
-            "<b>Component labels:</b> the course calls component 1 “Education (Body of Knowledge).” It is still a separate item from component 2, Body of Knowledge.",
-            "<b>IOM:</b> now the National Academy of Medicine. The Future of Nursing 2020–2030 adds health equity."
+            "<b>Top-of-license:</b> Your course guide says TOL is for BSN-or-higher nurses. Current standard: every nurse practices to the full extent of his or her own education and scope. Course exam: BSN wording; NCLEX: any RN.",
+            "<b>Entry pathways:</b> Your course materials list diploma, ADN, BSN, MSN, and doctorate as ways in. Current standard: first licensure comes through a diploma, ADN, BSN, or entry-level master’s, plus the NCLEX-RN. Course exam: the five-program list; NCLEX: every route ends with the NCLEX-RN.",
+            "<b>Codes of ethics:</b> Your course guide says codes are “regulated alongside state boards of nursing via the NCSBN.” Current standard: the ANA writes the Code; boards enforce the law. Course exam: NCSBN wording; NCLEX: the Code belongs to the ANA.",
+            "<b>Magnet:</b> Your course guide says Magnet requires BSN-prepared nurses. Current standard: BSN or higher for managers and leaders, plus a plan to grow BSN staff. Course exam: “requires BSN nurses”; rarely on the NCLEX.",
+            "<b>PSDA:</b> Your course slides say all <i>competent</i> adults are informed in writing at admission. Current standard: Medicare- and Medicaid-funded facilities inform every adult client; if the client is too ill, family or a surrogate gets it first, and the client once able. Course exam: slide wording; NCLEX: inform every adult, never require a directive.",
+            "<b>Standards groups:</b> Your course slides say TJC, ANA, and NLN set standards for nurses. Current standard: TJC’s standards cover organizations; the ANA writes nursing’s practice standards; the NLN focuses on education.",
+            "<b>IOM:</b> Your course materials say Institute of Medicine (IOM). Current name: National Academy of Medicine (since 2015). Shortage projections vary by year and state."
           ]
         }
       ],
@@ -376,8 +549,8 @@ window.NURSE_DATA.push({
         "Delegate tasks, never accountability for your judgment or follow-up.",
         "Omissions count: a missed reassessment or unreported finding is yours to answer for.",
         "Policy can narrow scope but never expand it beyond the Nurse Practice Act.",
-        "Top of license means the full extent of your scope AND your competence—never beyond either.",
-        "Change a practice you disagree with through evidence and governance, not quiet noncompliance."
+        "Change a practice you disagree with through evidence and governance, not quiet noncompliance.",
+        "Every adult admitted gets written advance-directive information. Care never depends on having one."
       ],
       "redFlags": [
         "Charting care that was not done, or at a false time, is falsification.",
@@ -391,10 +564,6 @@ window.NURSE_DATA.push({
           "a": "Explain that near misses are reported so the system can learn and prevent harm. Then file the report per policy."
         },
         {
-          "q": "A nurse who just moved says nurses at her old hospital changed doses “whenever it made sense.” What guides her now?",
-          "a": "The Nurse Practice Act of the state where the client is, plus current policy and protocols. Dose changes need an order or an approved protocol."
-        },
-        {
           "q": "The manager wants a client discharged now for a bed. The client, new on insulin, still cannot inject a dose correctly. What should the nurse do?",
           "a": "Say the client cannot inject safely yet, notify the provider, and keep teaching or arrange a safe option. Bed pressure never outweighs safety at discharge."
         },
@@ -405,10 +574,6 @@ window.NURSE_DATA.push({
         {
           "q": "An LPN asks the RN to sign an admission assessment the LPN did alone: “You’re busy; I’ve done hundreds.” Should the RN sign it?",
           "a": "No. The comprehensive admission assessment is RN work. The LPN may collect data, but the RN must assess and validate it herself. Signing work she did not do misstates her accountability."
-        },
-        {
-          "q": "Why is “I followed the provider’s order exactly” not always a defense?",
-          "a": "The nurse is accountable for her own judgment. If an order is unclear or unsafe for this client, she must question it, clarify with the prescriber, and escalate if needed."
         }
       ]
     },
@@ -538,7 +703,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What does the related-concepts matrix say?",
           "keyIdea": "For each related concept, the course lists what the nurse answers for and the exact nursing actions that show it.",
-          "body": "<p>The course links seven concepts to accountability in one matrix (p. 2705). Each row names what you are accountable for. It then lists the nursing actions that prove it. Exam items often describe one of these actions and ask which concept it shows.</p><p>Comfort is the row students miss most. You assess comfort, report changes, and document both the comfort level and every intervention.</p><p><b>Course vs current:</b> Your course guide says to assess comfort <b>at least once per shift</b>, or more often if the client’s condition calls for it. Current standard: assess pain on admission, at the intervals set by policy, with any change, and after every pain intervention. On a course exam, expect “at least once per shift.” On the NCLEX, reassess after each intervention.</p>",
+          "body": "<p>The course links seven concepts to accountability in one matrix (p. 2705). The slides list the same seven: comfort, EBP, health and illness, infection, safety, teaching and learning, and trauma. Each row names what you are accountable for. It then lists the nursing actions that prove it. Exam items often describe one of these actions and ask which concept it shows.</p><p>Comfort is the row students miss most. You assess comfort, report changes, and document both the comfort level and every intervention.</p><p><b>Course vs current:</b> Your course guide says to assess comfort <b>at least once per shift</b>, or more often if the client’s condition calls for it. Current standard: assess pain on admission, at the intervals set by policy, with any change, and after every pain intervention. On a course exam, expect “at least once per shift.” On the NCLEX, reassess after each intervention.</p>",
           "table": {
             "headers": [
               "Concept",
@@ -844,7 +1009,7 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Source: Module 42 study guide, “The Concept of Accountability” intro and “Expanded Duties Under Accountability” (pp. 2703–2704), the Nursing Implications Matrix (p. 2705), Case Study 1: Ms. Kathryn Miller (p. 2704), Case Study 2: Mr. Frank Epworth (p. 2710), and “Linking Accountability to Ethics” (p. 2710). Added: NCSBN/ANA (2019) delegation guidelines, CUS, SBAR, and Just Culture.</p>",
+          "body": "<p>Source: Module 42 study guide, “The Concept of Accountability” intro and “Expanded Duties Under Accountability” (pp. 2703–2704), the Nursing Implications Matrix (p. 2705), Case Study 1: Ms. Kathryn Miller (p. 2704), Case Study 2: Mr. Frank Epworth (p. 2710), and “Linking Accountability to Ethics” (p. 2710). Unit 7 slides: “The Concept of Accountability” deck, slide 10 (Concepts Related to Accountability) and slide 4 (accountability shapes the response to errors and incident reporting). Added: NCSBN/ANA (2019) delegation guidelines, CUS, SBAR, and Just Culture.</p>",
           "bullets": [
             "<b>Delegation vs assignment:</b> Your course guide says the RN “delegates” straining to an LPN. Current standard: under the 2019 NCSBN/ANA guidelines, that is an assignment. On a course exam, expect “delegates”; on the NCLEX, call it an assignment. The RN is accountable either way.",
             "<b>Comfort checks:</b> Your course guide says assess comfort at least once per shift, or more often per condition. Current standard: also assess on admission, with changes, and after each intervention (about 15–30 minutes for IV and 30–60 minutes for oral). On a course exam, expect “at least once per shift”; on the NCLEX, reassess after every intervention.",
@@ -911,18 +1076,18 @@ window.NURSE_DATA.push({
         "You can place a nurse in one of Benner’s five stages.",
         "You can apply the first rule of competence: ask for help when unsure.",
         "You can respond safely when floated to a unit beyond your skills.",
-        "You can name the core elements of cultural and lifelong competence."
+        "You can explain how lifelong learning, culture, and technology shape competence."
       ],
       "bigPicture": "<p>Competence is the bridge between knowing and doing. A competent nurse uses knowledge, skills, and judgment to give safe care. The course also says competence includes “awareness of personal capabilities and limitations.” The safest nurse is not the one who never asks. It is the one who knows when to ask.</p><p>You can only be accountable for care you are able to give. So taking on work you can’t do safely is itself an accountability failure. On the NCLEX, competence shows up in floating, new graduates, fatigue, double-checks, emotions clouding judgment, and culturally responsive care.</p>",
       "recap": [
-        "Competence is knowledge, skills, and judgment, plus awareness of your limits and openness to feedback.",
+        "Competence is the knowledge and skills to do your job safely, plus judgment, awareness of your limits, and openness to feedback.",
         "Three core areas: critical thinking, problem solving with emotional intelligence, and ethical reasoning.",
         "Benner: novice, advanced beginner, competent (2–3 years), proficient (3–5 years), expert. Stage is setting-specific.",
-        "First rule of competence: always ask for help when unsure whether an action is safe.",
-        "Even experts double-check high-alert medications and sterile processes.",
+        "First rule of competence: always ask for help when unsure an action is safe. Even experts double-check high-alert drugs.",
         "Floated beyond your skills? Speak up before report, decline an independent assignment, and negotiate a safe role.",
         "Fatigue, illness, and impairment make a skilled nurse unsafe; fitness for duty is part of competence.",
-        "Cultural competence means asking the person, using trained interpreters, and never stereotyping."
+        "Keep competence current through experience, seminars, journals, employer classes, and peers. You still own your choices when you decide together.",
+        "New technology and telehealth need new skills, reliable information, and HIPAA privacy. Cultural competence means asking, using trained interpreters, and never stereotyping."
       ],
       "keyTerms": [
         {
@@ -984,13 +1149,29 @@ window.NURSE_DATA.push({
         {
           "term": "Health disparities",
           "def": "Preventable gaps in health outcomes between groups of people."
+        },
+        {
+          "term": "Electronic health record (EHR)",
+          "def": "The digital client record. Your slides call it an “Electronic Health Report System.” Its data must be shared, stored, and protected ethically."
+        },
+        {
+          "term": "Telenursing",
+          "def": "Delivering nursing care through telecommunication, such as phone triage or video visits. Telehealth is the broader term for long-distance care."
+        },
+        {
+          "term": "mHealth (mobile health)",
+          "def": "Care delivered through mobile devices, such as apps, texts, and wearable monitors. It is growing fast."
+        },
+        {
+          "term": "HIPAA",
+          "def": "The federal law that protects the privacy and security of health information. It applies on screens and phones just as at the bedside."
         }
       ],
       "sections": [
         {
           "heading": "What is competence?",
           "keyIdea": "Competence means you can give the care safely—and you know where your skills end.",
-          "body": "<p><b>Competence</b> is practicing to the fullest extent with specialized knowledge, skills, and judgment. A competent nurse uses three core areas: critical thinking, problem solving, and ethical reasoning. She also knows her limits and stays open to feedback.</p><p>Accountability says, “I answer for my care.” Competence says, “I can give that care safely.” A nurse who is accountable but not competent is a danger. A nurse who is competent but not accountable is unreliable.</p><p>Competence is not earned once. It changes with each new unit, tool, and guideline. A nurse can be an expert in labor and delivery and a beginner in the NICU on the same day. Clients trust that their nurse is prepared. Safe units protect that trust by welcoming questions, teamwork, error reporting, and ongoing education.</p>",
+          "body": "<p><b>Competence</b> is practicing to the fullest extent with specialized knowledge, skills, and judgment. A competent nurse uses three core areas: critical thinking, problem solving, and ethical reasoning. She also knows her limits and stays open to feedback.</p><p>Your slides define it more simply: having the <b>knowledge and skills to do your job appropriately and safely</b>. In the past, a nurse was seen as competent if she could simply give care and comfort. Today the bar is higher. Competence develops over time. It is a foundation of accountable care.</p><p>Accountability says, “I answer for my care.” Competence says, “I can give that care safely.” A nurse who is accountable but not competent is a danger. A nurse who is competent but not accountable is unreliable.</p><p>Competence is not earned once. It changes with each new unit, tool, and guideline. A nurse can be an expert in labor and delivery and a beginner in the NICU on the same day. Clients trust that their nurse is prepared. Safe units protect that trust by welcoming questions, teamwork, error reporting, and ongoing education.</p>",
           "analogy": "A safe car driver is not automatically safe driving a loaded semi-truck on an icy mountain road. A good driver knows when the vehicle or road is beyond her experience and asks for help.",
           "check": {
             "q": "A nurse with 12 years in adult ICU gets her first pediatric oncology client and says, “I can handle anything.” What is missing?",
@@ -1000,7 +1181,7 @@ window.NURSE_DATA.push({
         {
           "heading": "How do critical thinking and EI work?",
           "keyIdea": "Critical thinkers investigate before acting, and emotionally intelligent nurses notice when feelings, not data, are driving a choice.",
-          "body": "<p><b>Critical thinking</b> starts in school and grows through <b>situational learning</b>—using theory in real situations. Critical thinkers stay open to others but rely on evidence. They know their limits. They investigate before acting. Giving a 0900 blood pressure pill without checking a BP of 88/52 is task completion, not thinking.</p><p><b>Problem solving</b> means working through a real clinical problem. The course says it needs self-awareness and <b>emotional intelligence (EI)</b>. EI is noticing, through <b>emotional appraisal</b>, when your emotions, not the facts, are shaping a decision. Feelings like concern or unease can be useful. They become dangerous when they replace data.</p><p>EI does two more jobs, per the course. It builds strong working relationships with clients and with interprofessional peers. It is also a key part of the self-awareness that problem solving needs. Problem solving matters most in complex clinical settings. It develops over time through EBP and clinical practice.</p>",
+          "body": "<p><b>Critical thinking</b> starts in school and at the bedside. Clinical learning connects the classroom with practice. You learn how classroom content fits clients with different circumstances in different settings. This is <b>situational learning</b>: you analyze, synthesize, and apply what you learned. Each experience builds a base for judging what to do next time.</p><p>Critical thinkers stay open to others’ opinions. But they rely on knowledge as the scientific basis for action. They know their limits. They are willing to think, inquire, and investigate before deciding. Giving a 0900 blood pressure pill without checking a BP of 88/52 is task completion, not thinking.</p><p><b>Problem solving</b> means working through a real clinical problem. The course says it needs self-awareness and <b>emotional intelligence (EI)</b>. EI is noticing, through <b>emotional appraisal</b>, when your emotions, not the facts, are shaping a decision. Feelings like concern or unease can be useful. They become dangerous when they replace data.</p><p>EI does two more jobs, per the course. It builds strong working relationships with clients and with interprofessional peers. It is also a key part of the self-awareness that problem solving needs. Problem solving matters most in complex clinical settings. It develops over time through EBP and clinical practice.</p>",
           "table": {
             "headers": [
               "Emotion-driven thought",
@@ -1039,7 +1220,7 @@ window.NURSE_DATA.push({
         {
           "heading": "Why is fitness for duty part of competence?",
           "keyIdea": "Ethical reasoning guides everyday choices, and a tired, sick, or impaired nurse is not competent to practice at that moment.",
-          "body": "<p><b>Ethical reasoning</b> uses the ANA Code of Ethics in every setting, not just the ICU or hospice. It covers telling the truth, respecting refusals, dividing your time fairly, and speaking up about unsafe shortcuts. A competent nurse respects client preferences. She does not push her own values on a client’s informed choice.</p><p>Ethical competence also means watching your own physical and emotional well-being. A skilled nurse who is exhausted, ill, impaired, or overwhelmed is not safe right then. Tell the supervisor and decline extra hours <em>before</em> an error happens.</p>",
+          "body": "<p><b>Ethical reasoning</b> rests on the goals, values, and obligations of professional nurses. It uses the ANA Code of Ethics in every setting, not just the ICU or hospice. It covers telling the truth, respecting refusals, dividing your time fairly, and speaking up about unsafe shortcuts. A competent nurse respects client preferences. She does not push her own values on a client’s informed choice.</p><p>Each nurse must understand her own abilities and limits, and how her emotions affect client care. Stay aware of how the practice environment, such as staffing, workload, and unit culture, shapes your choices.</p><p>Ethical competence also means watching your own physical and emotional well-being. A skilled nurse who is exhausted, ill, impaired, or overwhelmed is not safe right then. Tell the supervisor and decline extra hours <em>before</em> an error happens.</p>",
           "bullets": [
             "<b>Autonomy:</b> respect the client’s right to decide.",
             "<b>Beneficence:</b> do good.",
@@ -1057,7 +1238,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What are Benner’s five stages?",
           "keyIdea": "Nurses move from following rules to seeing the whole picture by experience, and the stage depends on the setting.",
-          "body": "<p>Patricia Benner’s model (Benner, 2001; course Box 42.3), <em>From Novice to Expert</em>, shows how experience builds skill. Nurses move from relying on rules to relying on experience. A novice needs rules because she can’t yet tell what matters. An expert sees the whole picture and acts smoothly.</p><p>Stages are <b>setting-specific</b>. A cardiac expert who moves to pediatrics may be an advanced beginner there. That is why nurses need orientation when they change specialty. A new graduate still needs help setting priorities, so a preceptor should not leave her alone with the most unstable client.</p>",
+          "body": "<p>Patricia Benner’s model (Benner, 2001; course Box 42.3), <em>From Novice to Expert</em>, proposes that experience is essential for building professional expertise. Nurses move from relying on rules to relying on experience. A novice needs rules because she can’t yet tell what matters. An expert sees the whole picture and acts smoothly.</p><p>Stages are <b>setting-specific</b>. A cardiac expert who moves to pediatrics may be an advanced beginner there. That is why nurses need orientation when they change specialty. A new graduate still needs help setting priorities, so a preceptor should not leave her alone with the most unstable client.</p>",
           "table": {
             "headers": [
               "Stage",
@@ -1138,7 +1319,7 @@ window.NURSE_DATA.push({
         {
           "heading": "What are cultural and lifelong competence?",
           "keyIdea": "Culturally competent nurses ask instead of assume, use trained interpreters, and keep learning their whole careers.",
-          "body": "<p>Minority and ethnic groups are growing to become the majority of the US population. So every nurse must give culturally sensitive care. The IOM’s 2002 report <em>Unequal Treatment</em> linked health disparities partly to providers’ lack of cultural understanding. Other causes included language barriers, low education, poor social support, lack of insurance, poor housing, and biased attitudes. So cultural competence is part of competence.</p><p>The course lists four core elements, shown below. In practice, ask “What matters to you and your family?” Use a trained medical interpreter, not family. Facts about a group are a starting point for questions, not a prediction about one person. <b>Cultural humility</b> adds lifelong self-reflection.</p><p>Lifelong competence comes from continuing education, workshops, journals, certification, mentoring, and supervised orientation. Nurses must keep current, disclose skill limits, and report errors honestly.</p>",
+          "body": "<p>Minority and ethnic groups are projected to become the majority of the US population. So every nurse must give culturally sensitive care. The IOM’s 2002 report <em>Unequal Treatment</em> linked health disparities partly to providers’ lack of cultural understanding. Other causes included language barriers, low education, poor social support, lack of insurance, poor housing, and biased attitudes. So cultural competence is part of competence.</p><p>The course lists four core elements, shown below. In practice, ask “What matters to you and your family?” Use a trained medical interpreter, not family. Facts about a group are a starting point for questions, not a prediction about one person. <b>Cultural humility</b> adds lifelong self-reflection.</p><p>Lifelong competence comes from continuing education, workshops, journals, certification, mentoring, and supervised orientation. Nurses must keep current, disclose skill limits, and report errors honestly.</p>",
           "bullets": [
             "Recognize your own values and beliefs and how they affect care.",
             "Listen well and learn cultural rites and traditions.",
@@ -1153,16 +1334,40 @@ window.NURSE_DATA.push({
         {
           "heading": "Why must competence last a whole career?",
           "keyIdea": "Competence is never finished: the law requires it, ethics demands it, and you build it with ongoing learning.",
-          "body": "<p>Competence keeps growing across a nurse’s whole career. Guidelines, drugs, and devices change. So a skill that was current five years ago may not be safe today. The course links lifelong competence to the law and to ethics.</p><p><b>Legal link.</b> State boards of nursing and Nurse Practice Acts require you to practice safely within your scope and your verified competence. Taking an assignment beyond your skill level exposes you to malpractice claims and board discipline.</p><p><b>Ethical link.</b> You have a moral duty to keep up your competence. Be honest about what you cannot do. Remember the first rule of competence: ask for help. Report errors openly. Keep learning so the public gets safe, high-quality care.</p>",
+          "body": "<p>Competence keeps growing across a nurse’s whole career. Guidelines, drugs, and devices change. So a skill that was current five years ago may not be safe today. The course links lifelong competence to the law and to ethics.</p><p>Your slides name three ways competence builds: experience, gaining new knowledge, and improving how you perform skills. You can talk through a hard situation with peers and the team. But you are still accountable for your own choices, even when you decide together.</p><p><b>Legal link.</b> State boards of nursing and Nurse Practice Acts require you to practice safely within your scope and your verified competence. Taking an assignment beyond your skill level exposes you to malpractice claims and board discipline.</p><p><b>Ethical link.</b> You have a moral duty to keep up your competence. Be honest about what you cannot do. Remember the first rule of competence: ask for help. Report errors openly. Keep learning so the public gets safe, high-quality care.</p>",
           "bullets": [
-            "<b>Ways competence grows (course list):</b> formal education, seminars, peer-reviewed journals, employer classes, and interprofessional collaboration.",
+            "<b>Ways to keep learning (course list):</b> formal education; seminars from colleges and professional organizations; professional and peer-reviewed journals; hospital or employer classes on new equipment and procedures; and formal and informal talks with peers and other team members.",
             "<b>Ways to close a gap in one area:</b> continuing education, workshops, peer-reviewed literature, mentorship or preceptorship, and supervised clinical orientation.",
             "<b>Supportive unit culture:</b> it encourages questions, teamwork, error reporting, and lifelong education.",
-            "<b>Why it matters to clients:</b> competence reassures the public that their nurse is prepared."
+            "<b>Why it matters to clients:</b> competence reassures the public that their nurse is prepared.",
+            "<b>Weigh your own competence often.</b> Saying “I don’t know” invites chances to grow. It also holds you to the highest quality of client care."
           ],
           "check": {
             "q": "A nurse has not hung a blood transfusion in four years. What is the accountable step?",
             "a": "Tell the charge nurse about the gap and ask for a review or supervised practice before doing it. Then keep it current with education."
+          }
+        },
+        {
+          "heading": "How do technology and telehealth change care?",
+          "keyIdea": "New technology and telehealth demand new skills, reliable information, and tight privacy, and you are accountable for all three.",
+          "body": "<p><b>Science and technology</b> keep changing nursing practice, competence, and accountability. So you must keep growing your knowledge and technical skills. You are expected to learn complex computerized equipment. You must also use the <b>electronic health record (EHR)</b> well. (Your slides call it an “Electronic Health Report System.”) Client data must be safely shared, stored, protected, owned, and controlled in an ethical, responsible way.</p><p>Some <b>genetic testing</b> is now sold directly to consumers, outside the usual healthcare system. Clients may bring you results and questions. Help them take results to their provider or a genetic counselor. A clinical test may be needed to confirm a result.</p><p><b>Information</b> is everywhere. The internet helps clients learn about their health. But not every site is accurate, so know which websites are reliable. <b>Telecommunication</b> brings care to clients far away. Forms include videoconferencing and virtual visits. These tools raise HIPAA questions about privacy and security.</p>",
+          "bullets": [
+            "<b>Telehealth:</b> long-distance healthcare delivered through technology.",
+            "<b>Telenursing:</b> delivering nursing care through telecommunication, such as phone triage or video check-ins.",
+            "<b>mHealth (mobile health):</b> care through mobile devices, such as apps and texts. It is growing in popularity.",
+            "<b>HIPAA:</b> the federal law that protects the privacy and security of health information, on screens as well as in person."
+          ],
+          "steps": [
+            "Use only employer-approved, secure platforms and devices.",
+            "Work from a private space where no one can overhear.",
+            "Verify the client’s identity at the start.",
+            "Confirm where the client is, in case emergency help is needed.",
+            "Assess, teach, and document as you would in person."
+          ],
+          "example": "A client shows you a website selling a “diabetes cure” supplement. You show him how to judge a site: who runs it, whether it sells products, and when it was updated. You point him to MedlinePlus, from the National Library of Medicine. You tell the provider about the supplement.",
+          "check": {
+            "q": "A client asks to text her blood sugar log to your personal phone. Should you agree?",
+            "a": "No. Use the employer’s approved secure portal or app. Regular texts to a personal phone risk a HIPAA privacy and security breach."
           }
         },
         {
@@ -1254,12 +1459,12 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "North Carolina practice note",
-          "keyIdea": "In NC, accepting an assignment is a professional decision you answer for, and Good Samaritan protection excludes paid work.",
+          "keyIdea": "In NC, use NCBON tools when floated, practice where the client is under the Compact, and know Good Samaritan law excludes paid work.",
           "body": "<p>These NC facts help in real practice. The NCLEX rule is national: practice within your competence.</p>",
           "bullets": [
             "NCBON regulates nursing under G.S. 90-171.19 et seq., with RN and LPN rules in 21 NCAC 36 .0224 and .0225.",
-            "Accepting an assignment is a decision the nurse is accountable for. When floated, use the NCBON scope-of-practice decision tree, agency policy, and your validated skills.",
-            "NC is a Nurse Licensure Compact state; follow the practice law where the client is.",
+            "You answer for accepting an assignment, in NC as everywhere. When floated, use the NCBON scope-of-practice decision tree, agency policy, and your validated skills.",
+            "NC is a Nurse Licensure Compact state; follow the practice law where the client is. This includes telenursing and phone triage across state lines.",
             "Malpractice claims generally must be filed within 3 years, with a 4-year statute of repose (G.S. 1-15(c)). NC keeps pure contributory negligence as a defense.",
             "<b>Good Samaritan (G.S. 90-21.14):</b> protects unpaid emergency aid unless there is gross negligence, wanton conduct, or intentional wrongdoing. It does not cover your paid shift.",
             "Impairment on duty is reported to NCBON. NCBON offers alternative-to-discipline programs for substance use."
@@ -1267,17 +1472,19 @@ window.NURSE_DATA.push({
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Source: Module 42 study guide, pp. 2710–2712. This includes Glossary terms 4–5, Exemplar 42.A (learning outcomes, three core areas, and Benner’s model), Box 42.3, the Safety Alert, and Focus on Diversity and Culture. It also includes Case Study 3: Tyree Campbell and “Linking Competence to Legal Issues/Ethics” (p. 2712). Added: ethical principles, double-checks, abandonment, interpreters, and cultural humility.</p>",
+          "body": "<p>Source: Module 42 study guide, pp. 2710–2712. This includes Glossary terms 4–5, Exemplar 42.A (learning outcomes, three core areas, and Benner’s model), Box 42.3, the Safety Alert, and Focus on Diversity and Culture. It also includes Case Study 3: Tyree Campbell and “Linking Competence to Legal Issues/Ethics” (p. 2712). Unit 7 slides: “Exemplar 42.A Competence” deck, slides 2–9, and “The Concept of Accountability” deck, slides 15–16 (science, technology, and telecommunication). Added: ethical principles, double-checks, abandonment, interpreters, and cultural humility.</p>",
           "bullets": [
             "<b>Floating:</b> Your course guide says Ms. Campbell should “refuse” the NICU assignment. Current standard: raise the concern before report, decline the independent assignment, and negotiate a safe role; leaving accepted clients without handoff may be abandonment. On a course exam, expect “refuse”; on the NCLEX, choose telling the supervisor and offering a safe option.",
             "<b>Benner:</b> the course cites Benner (2001), the commemorative edition of <em>From Novice to Expert</em>, first published in 1984. The year ranges (2–3 and 3–5 years) are approximate and apply to the same or a similar setting.",
-            "<b>IOM:</b> now the National Academy of Medicine. Cultural humility and qualified interpreters are added as current standards."
+            "<b>IOM:</b> Your course materials say Institute of Medicine (IOM). Current name: National Academy of Medicine (since 2015). Cultural humility and qualified interpreters are added as current standards.",
+            "<b>EHR:</b> Your course slides say “Electronic Health Report Systems.” Current term: electronic health record (EHR). On a course exam, recognize the slide wording; on the NCLEX, the term is EHR.",
+            "<b>Competence definition:</b> the slides say “knowledge and skills to perform one’s job appropriately and safely.” The study guide adds judgment, awareness of limits, and openness to feedback. Both are correct; learn both."
           ]
         }
       ],
       "mnemonics": [
         {
-          "name": "Benner: “Nurses Always Climb Proudly Upward”",
+          "name": "Benner: “Nurses Always Climb Past Expectations”",
           "text": "Novice → Advanced beginner → Competent → Proficient → Expert (rules → patterns → planning → the whole picture → intuition)."
         },
         {

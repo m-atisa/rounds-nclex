@@ -1,0 +1,439 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m42",
+  "moduleNumber": 42,
+  "moduleTitle": "Accountability",
+  "questions": [
+    {
+      "id": "m42-u7-001",
+      "topic": "accountability-foundations",
+      "type": "mcq",
+      "stem": "During a skills lab, a first-semester nursing student draws up 10 mL instead of 1 mL of a practice medication. The instructor’s check catches the error. Which instructor response best supports the student’s professional socialization?",
+      "options": [
+        "Ask the student to reflect on what happened, why, and what to change, then discuss it.",
+        "Tell the student that lab errors do not count, so there is no need to discuss it.",
+        "Describe the error to the whole class by name as a warning about careless math.",
+        "Remove the student from the next clinical day as a penalty for the error."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Reflective practice helps the student understand the mistake and its consequences, which is a core part of successful socialization.",
+        "Incorrect. Dismissing the error teaches that mistakes can be ignored, the opposite of an accountable professional culture.",
+        "Incorrect. Public blame discourages reporting and violates the avoidance-of-blame principle of a learning culture.",
+        "Incorrect. Punishment without understanding does not teach the student how to prevent the error, and it signals a blame culture."
+      ],
+      "rationale": "Socialization to nursing is learning to think, act, and feel like a nurse. Successful socialization uses clear expectations, a focus on strengths, and reflective practice to understand mistakes and their consequences. A dynamic learning culture is transparent and avoids blame. Having the student reflect on what happened and what to change builds the habit of owning and learning from errors. Shaming or punishing the student is tempting as a deterrent, but it teaches students to hide mistakes.",
+      "takeaway": "Reflective practice, not blame, turns a student’s mistake into professional growth.",
+      "hintContent": "Think about which response helps the student understand the mistake and its consequences.",
+      "hintStrategy": "For culture and socialization questions, eliminate options that either ignore the error or assign blame.",
+      "ref": "Module 42 · Accountability · Socialization · Unit 7 slides 11–12",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m42-u7-002",
+      "topic": "accountability-foundations",
+      "type": "sata",
+      "stem": "A nurse manager wants to build a dynamic, high-performance learning culture on a medical unit that has had several client falls. Which actions support this goal? Select all that apply.",
+      "options": [
+        "Share the unit’s fall and near-miss data openly at daily huddles.",
+        "Ask staff nurses to help revise the unit’s fall-prevention routine.",
+        "Update the fall protocol to match current best-practice guidelines.",
+        "Post the names of nurses whose clients fell in the staff break room.",
+        "Review each fall for system causes before judging the individual nurse.",
+        "Keep the long-standing fall routine because the staff are used to it."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Transparency, sharing results openly, is a component of a dynamic learning culture.",
+        "Correct. Staff input lets frontline nurses shape practice, another component of a learning culture.",
+        "Correct. Using best-practice guidelines keeps care based on current evidence.",
+        "Incorrect. Publicly naming nurses is blame, which discourages reporting and learning.",
+        "Correct. Looking for system causes first reflects avoidance of blame, so staff feel safe to report.",
+        "Incorrect. Keeping a routine out of habit ignores evidence; a high-performance culture is dynamic and changes."
+      ],
+      "rationale": "A dynamic learning culture that supports high performance and safe practice has four components: transparency, avoidance of blame, use of best-practice guidelines, and staff input. Sharing fall data, involving staff, updating to best practice, and looking for system causes first all fit. Naming nurses publicly may look like accountability, but blame drives errors underground. Keeping a routine because staff are used to it ignores evidence and makes the culture static.",
+      "takeaway": "Learning cultures are transparent, blame-free, evidence-based, and open to staff input.",
+      "hintContent": "Recall the four components of a dynamic learning culture.",
+      "hintStrategy": "Judge each option alone: does it make the unit more open and evidence-based, or more fearful and static?",
+      "ref": "Module 42 · Accountability · Socialization · Unit 7 slides 11–12",
+      "alsoTests": [
+        "accountability-practice"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m42-u7-003",
+      "topic": "accountability-foundations",
+      "type": "mcq",
+      "stem": "On her first clinical day, a nursing student sees her assigned staff nurse document a client’s 1200 vital signs at 1000. The nurse says, “Everyone does it here; it saves time.” What should the student do first?",
+      "options": [
+        "Document her own client’s noon vital signs early to fit the unit routine.",
+        "Wait until the end of the rotation and mention it on her course evaluation.",
+        "Report what she observed to her clinical instructor during the shift.",
+        "Correct the staff nurse’s entry in the client’s record herself before noon."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Copying the practice is falsification and shows socialization into an unsafe norm.",
+        "Incorrect. Waiting weeks leaves an unsafe practice in place and delays action on false documentation.",
+        "Correct. The clinical instructor is the student’s direct line of authority and can address the falsified entry promptly.",
+        "Incorrect. A student cannot alter another nurse’s documentation; that would create a second improper entry."
+      ],
+      "rationale": "Charting vital signs before they are taken is falsification and can hide a client’s real condition. Students are socialized by the culture around them, so they must not adopt unsafe norms just because “everyone does it.” The student’s responsibility under student codes of conduct is honesty in clinical work, and her chain of command is the clinical instructor. Reporting promptly lets the instructor protect the client and address the practice. Mentioning it later on an evaluation is tempting because it avoids conflict, but it leaves the risk in place.",
+      "takeaway": "When a student sees an unsafe or dishonest practice, report it promptly to the clinical instructor; never copy it.",
+      "hintContent": "Charting care before it happens is a form of falsification. Who is the student’s direct supervisor?",
+      "hintStrategy": "For “first” questions, choose the action that stops the risk soonest through the proper chain of command.",
+      "ref": "Module 42 · Accountability · Socialization · Unit 7 slides 11–12",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m42-u7-004",
+      "topic": "accountability-foundations",
+      "type": "mcq",
+      "stem": "A 68-year-old client is admitted for an elective hip replacement. Which action by the admitting nurse meets the requirements of the Patient Self-Determination Act?",
+      "options": [
+        "Explaining that surgery cannot be scheduled until he completes a living will.",
+        "Giving him written information about refusing care and making advance directives.",
+        "Telling him a do-not-resuscitate order is standard for clients older than 65.",
+        "Waiting to discuss advance directives until his condition becomes serious."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Care can never be conditioned on whether a client has an advance directive.",
+        "Correct. The law requires written information at admission about the right to accept or refuse care and to make advance directives.",
+        "Incorrect. Code status is the client’s choice; age never makes a DNR order standard.",
+        "Incorrect. The information must be given at admission, before a crisis makes decisions harder."
+      ],
+      "rationale": "The Patient Self-Determination Act requires facilities that take Medicare or Medicaid to inform adult clients in writing, at admission, of their rights to accept or refuse medical care and to make advance directives. The facility must also ask about and document existing directives. In many organizations the nurse is responsible for making sure this happens. Requiring a living will is a tempting distractor because it sounds protective, but the law requires informing clients, not forcing them to sign anything.",
+      "takeaway": "PSDA: inform every adult in writing at admission; never require an advance directive for care.",
+      "hintContent": "The law is about informing clients of their rights, not choosing for them.",
+      "hintStrategy": "Eliminate options that pressure the client or delay the information past admission.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 17",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m42-u7-005",
+      "topic": "accountability-foundations",
+      "type": "mcq",
+      "stem": "An 80-year-old client is admitted unresponsive after a large stroke. His daughter is at the bedside. The hospital participates in Medicare. How should the nurse handle the advance-directive information required at admission?",
+      "options": [
+        "Skip the information because the client cannot understand it now.",
+        "Ask the daughter to sign a do-not-resuscitate form on his behalf.",
+        "Hold the information and give it only if he regains consciousness.",
+        "Give it to the daughter now and to the client if he becomes able."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The duty to inform does not disappear because the client is incapacitated.",
+        "Incorrect. The required step is information about rights, not pushing a specific decision such as a DNR.",
+        "Incorrect. Delaying leaves the family without information while decisions may be needed now.",
+        "Correct. When a client is incapacitated at admission, the information may go to family or a surrogate, and to the client once able."
+      ],
+      "rationale": "Your course slides say competent adults must be informed at admission. Under federal rules, when an adult is incapacitated at admission, the facility may give the advance-directive information to family or a surrogate. It must still give it to the client once he is no longer incapacitated. The nurse also asks whether he already has a directive, such as a health care power of attorney, and documents it. Pushing the daughter toward a DNR is tempting in a grave situation, but the law requires information, not a specific choice.",
+      "takeaway": "If a client is incapacitated at admission, give advance-directive information to the family or surrogate, then to the client when able.",
+      "hintContent": "The duty is to inform. Who can receive information when the client cannot?",
+      "hintStrategy": "Choose the option that meets the legal duty without pressuring a particular decision.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 17",
+      "alsoTests": [
+        "accountability-practice"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m42-u7-006",
+      "topic": "competence",
+      "type": "sata",
+      "stem": "A nurse conducts telenursing video visits from home with clients who have heart failure. Which actions protect the clients’ privacy and safety? Select all that apply.",
+      "options": [
+        "Using only the employer-approved, secure video platform.",
+        "Holding visits in a closed room where no one can overhear.",
+        "Confirming the client’s identity at the start of each visit.",
+        "Texting weight trends to clients from her personal cell phone.",
+        "Recording visits on her own phone to review them later.",
+        "Confirming where the client is in case emergency help is needed."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Approved secure platforms protect health information as HIPAA requires.",
+        "Correct. A private space prevents others from overhearing protected health information.",
+        "Correct. Verifying identity ensures the right client receives the right information.",
+        "Incorrect. Regular texts from a personal phone are not secure and risk a privacy breach.",
+        "Incorrect. Storing recordings on a personal device risks a breach of protected health information.",
+        "Correct. Knowing the client’s location lets the nurse send emergency help if the client deteriorates."
+      ],
+      "rationale": "Telehealth and telenursing deliver care at a distance through technology, and they raise HIPAA questions about privacy and security. The accountable nurse uses approved secure platforms, works in a private space, verifies identity, and confirms the client’s location for emergencies and licensure. Texting from a personal phone feels convenient and fast, but it moves protected health information onto an unsecured device. The same privacy duties apply on screen as at the bedside.",
+      "takeaway": "In telehealth, use secure approved tools, a private space, identity checks, and a known client location.",
+      "hintContent": "HIPAA covers privacy and security on screens and phones, too.",
+      "hintStrategy": "For each option, ask whether it keeps health information on secure, approved systems and keeps the client safe.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 15–16",
+      "alsoTests": [
+        "accountability-foundations"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m42-u7-007",
+      "topic": "competence",
+      "type": "mcq",
+      "stem": "A client newly diagnosed with type 2 diabetes says, “I read online that cinnamon pills can replace metformin, so I plan to stop taking it next week.” Which response should the nurse make first?",
+      "options": [
+        "“Cinnamon is natural, so it should be safe to try in place of metformin.”",
+        "“Please keep taking metformin, and let’s look at where that claim came from.”",
+        "“Most health websites are unreliable, so it is best to avoid them.”",
+        "“You may stop metformin if your morning sugars stay under 130.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. “Natural” does not mean effective or safe, and stopping metformin risks high blood glucose.",
+        "Correct. It protects the client from stopping a needed drug and opens teaching on judging online sources.",
+        "Incorrect. Dismissing all websites ignores that clients use them; the nurse should guide clients to reliable ones.",
+        "Incorrect. The nurse cannot change or stop a prescribed medication; that needs the provider."
+      ],
+      "rationale": "Consumers today are more informed and vocal, partly because of the internet, but online information is not always accurate. The nurse is accountable for knowing reliable websites and helping clients judge sources. The first priority is safety: the client should not stop metformin based on an unproven claim. The nurse then reviews the source, points the client to reliable sites such as MedlinePlus, and tells the provider about the supplement. Telling the client to avoid all websites is tempting, but it ends the conversation instead of teaching.",
+      "takeaway": "When a client cites online health claims, protect safety first, then teach how to find reliable sources.",
+      "hintContent": "Which response keeps the client safe and still respects the client’s interest in learning?",
+      "hintStrategy": "Eliminate options that endorse an unsafe change, change orders, or shut down the client’s questions.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 14–16",
+      "alsoTests": [
+        "accountability-foundations"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m42-u7-008",
+      "topic": "accountability-foundations",
+      "type": "mcq",
+      "stem": "A hospital retention committee is addressing high turnover among experienced nurses, which leaves few preceptors for new graduates. Which proposal best fits recommended strategies for the nursing shortage?",
+      "options": [
+        "Offer flexible schedules and added pay to nurses who serve as mentors.",
+        "Raise each nurse’s client load until the open positions are filled.",
+        "Require mandatory overtime from experienced nurses on every unit.",
+        "Stop hiring new graduates and recruit only experienced travel nurses."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Scheduling flexibility and better rewards for mentors are recommended ways to keep experienced nurses.",
+        "Incorrect. Heavier loads worsen burnout and turnover and threaten client safety.",
+        "Incorrect. Mandatory overtime adds fatigue and drives experienced nurses away.",
+        "Incorrect. Cutting new-graduate hiring shrinks the future workforce instead of growing it."
+      ],
+      "rationale": "Factors behind the nursing shortage include a faculty shortage, nurses reaching retirement, changing demographics, an aging population, and high turnover. Recommended fixes include more scheduling flexibility, better rewards for experienced nurses who mentor, adequate staffing, higher salaries, faster paths through education, early recruitment, and more funding. Raising client loads may look like a quick fix, but it increases turnover and risk. Supporting preceptors keeps experienced nurses and helps new graduates succeed.",
+      "takeaway": "Keep experienced nurses with flexibility, mentor rewards, adequate staffing, and fair pay.",
+      "hintContent": "Which option would make experienced nurses more likely to stay?",
+      "hintStrategy": "Eliminate options that add workload or fatigue; they worsen turnover.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 18–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 1,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m42-u7-009",
+      "topic": "competence",
+      "type": "mcq",
+      "stem": "A 34-year-old client brings results from a direct-to-consumer genetic test that reports a BRCA1 variant. She asks, “Should I schedule surgery to remove my breasts?” Which action should the nurse take first?",
+      "options": [
+        "Tell her home genetic tests are inaccurate, so the result can be ignored.",
+        "Explain that this variant means she will develop breast cancer later.",
+        "Advise her to schedule a mastectomy consultation as soon as possible.",
+        "Notify her provider and arrange a genetic counselor to review the result."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The result may be real and needs confirmation, not dismissal.",
+        "Incorrect. A variant raises risk; it does not guarantee cancer.",
+        "Incorrect. Surgical decisions come after confirmation, counseling, and discussion with the provider.",
+        "Correct. Results from tests outside the usual system should be confirmed and explained by qualified professionals."
+      ],
+      "rationale": "Genetic testing is now available outside the traditional healthcare system, so nurses must expand their knowledge to help clients interpret results safely. A direct-to-consumer result may need a clinical test to confirm it, and the client needs counseling to understand her risk and options. The nurse’s first step is to involve the provider and a genetic counselor. Telling her to ignore the result is tempting because home tests can be wrong, but a true variant would leave her without needed care.",
+      "takeaway": "Route direct-to-consumer genetic results to the provider and a genetic counselor for confirmation and counseling.",
+      "hintContent": "Who is qualified to confirm and explain a genetic result?",
+      "hintStrategy": "Eliminate options that dismiss the finding or jump to treatment before confirmation.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 15",
+      "alsoTests": [
+        "accountability-foundations"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m42-u7-010",
+      "topic": "accountability-foundations",
+      "type": "sata",
+      "stem": "A nurse in an outpatient clinic is taking a health history from a 55-year-old client with chronic back pain. Reflecting consumer interest in integrative care, which actions are appropriate? Select all that apply.",
+      "options": [
+        "Ask which herbal products and supplements the client takes.",
+        "Ask whether the client uses acupuncture, massage, or chiropractic care.",
+        "Ask what the client has read online about managing back pain.",
+        "Tell the client to stop all complementary therapies before treatment.",
+        "Skip supplement questions because they are not prescription drugs."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Supplements can interact with medicines and must be part of the history.",
+        "Correct. Asking about complementary approaches respects the client’s choices and gives a full picture.",
+        "Correct. Clients are often informed by the internet; knowing what they read guides teaching.",
+        "Incorrect. Ordering a client to stop safe therapies ignores client preferences and is not the nurse’s decision alone.",
+        "Incorrect. Supplements are a common source of drug interactions and must be asked about."
+      ],
+      "rationale": "Consumer demand drives healthcare services. Interest in complementary health approaches is part of the push toward integrative health care, and consumers are more knowledgeable and vocal, partly through the internet. The nurse asks about supplements, complementary therapies, and online information without judgment, then reports relevant findings to the provider. Telling the client to stop everything may seem cautious, but it disregards the client as a partner in care and may not be needed.",
+      "takeaway": "Ask every client about supplements, complementary therapies, and what they have read online.",
+      "hintContent": "Today’s consumers are informed partners who often use complementary approaches.",
+      "hintStrategy": "Select options that gather information without judgment; reject ones that dismiss or override the client.",
+      "ref": "Module 42 · Accountability · Factors Influencing Practice · Unit 7 slides 13–14",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 1,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m42-u7-011",
+      "topic": "accountability-foundations",
+      "type": "sata",
+      "stem": "A preceptor is reviewing sources of nursing accountability with a newly hired nurse. Which statements by the new nurse show correct understanding? Select all that apply.",
+      "options": [
+        "“The ANA standards describe what I answer for and follow the nursing process.”",
+        "“The Joint Commission’s standards focus on the healthcare organization.”",
+        "“My state’s Nurse Practice Act is the law that regulates my practice.”",
+        "“If hospital policy allows a task, it is legal even if the Practice Act forbids it.”",
+        "“Codes of ethics stay exactly the same no matter how society changes.”",
+        "“While I’m in orientation, you may also be accountable for my actions.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. The ANA Standards of Practice follow the nursing process and describe what US RNs are accountable for.",
+        "Correct. The Joint Commission accredits organizations, so its standards focus on the organization.",
+        "Correct. Each state’s Nurse Practice Act regulates nursing practice in that state.",
+        "Incorrect. Policy can be stricter than the law but can never make an illegal act legal.",
+        "Incorrect. Codes of ethics change as society’s needs and values change.",
+        "Correct. Nurses may be accountable for the actions of trainees they supervise."
+      ],
+      "rationale": "Standards of practice come from national organizations such as the ANA, The Joint Commission, and the National League for Nursing, and each state regulates practice through its Nurse Practice Act. The ANA standards follow the nursing process, while TJC standards focus on healthcare organizations. Codes of ethics evolve with society. A preceptor may share accountability for an orientee’s actions. The tempting error is believing hospital policy can expand legal scope; policy can only narrow it.",
+      "takeaway": "ANA standards define RN accountability, TJC standards govern organizations, the Practice Act is the law, and policy can never exceed it.",
+      "hintContent": "Think about who writes each set of standards and which one is law.",
+      "hintStrategy": "Evaluate each statement separately; any claim that policy outranks law is false.",
+      "ref": "Module 42 · Accountability · Foundations · Unit 7 slides 3–6",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m42-u7-012",
+      "topic": "competence",
+      "type": "mcq",
+      "stem": "A client on a medical unit says he is leaving against medical advice. The nurse asks two experienced colleagues, who both say, “It’s his choice; just pull his IV.” The nurse removes the IV and lets him leave without notifying the provider. Who is accountable for the nurse’s actions?",
+      "options": [
+        "The two colleagues, since the nurse followed their advice.",
+        "The nurse, since each nurse answers for her own choices.",
+        "No one, since the client chose to leave the hospital himself.",
+        "The charge nurse, since she oversees all staff on the unit."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Colleagues can advise, but advice does not transfer accountability for the action taken.",
+        "Correct. Nurses may collaborate on how to respond, but each nurse is accountable for her own choices.",
+        "Incorrect. The client’s right to leave does not remove the nurse’s duty to notify the provider, explain risks, and document.",
+        "Incorrect. The charge nurse was not consulted; overseeing the unit does not shift accountability for a nurse’s own decisions."
+      ],
+      "rationale": "Nurses can and should collaborate with peers and the team on how to respond to a hard situation. However, the nurse remains accountable for her own choices even when she decides with others. Here she skipped required steps: notifying the provider, assessing understanding of risks, and documenting the client’s decision. Blaming the colleagues is tempting because she followed their advice, but consulting others never moves accountability off the nurse who acts.",
+      "takeaway": "Collaborate freely, but you remain accountable for your own choices.",
+      "hintContent": "Advice and accountability are not the same thing.",
+      "hintStrategy": "In “who is accountable” questions, look for the person who made and carried out the decision.",
+      "ref": "Module 42 · Accountability · Competence (42.A) · Unit 7 slides 7 (Exemplar deck)",
+      "alsoTests": [
+        "accountability-foundations"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m42-u7-013",
+      "topic": "competence",
+      "type": "mcq",
+      "stem": "A hospital introduces new smart infusion pumps. A nurse returning from 6 weeks of leave missed the employer’s training class. She is assigned a client who needs a heparin infusion on the new pump. What should the nurse do first?",
+      "options": [
+        "Program the pump using the quick-start card attached to its side.",
+        "Ask the client’s daughter, who used one at home, to help set it up.",
+        "Tell the charge nurse she is untrained on the pump and ask for help.",
+        "Get an old-model pump from storage that she already knows well."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Teaching herself on the fly with a high-alert drug is the unsafe “figure it out as I go” approach.",
+        "Incorrect. Family members are not responsible for device safety in the hospital.",
+        "Correct. The first rule of competence is to ask for help when unsure, and employer training on new equipment keeps competence current.",
+        "Incorrect. Using retired equipment bypasses facility safety systems and policy."
+      ],
+      "rationale": "Nurses build competence across their careers through experience, new knowledge, and hospital or employer classes on new equipment and procedures. A nurse who missed training has a competence gap for this device, and heparin is a high-alert drug. The first rule of competence is to ask for help whenever unsure an action is safe. She tells the charge nurse, gets hands-on help or validation, and completes the training. Using the quick-start card is tempting because it seems resourceful, but it is guessing with a dangerous drug.",
+      "takeaway": "Missed training on new equipment is a competence gap: say so and get help before using it.",
+      "hintContent": "Heparin is high-alert, and she has never been trained on this device.",
+      "hintStrategy": "Reject options that guess, shift responsibility to family, or bypass policy; choose naming the gap to the right person.",
+      "ref": "Module 42 · Accountability · Competence (42.A) · Unit 7 slides 7–9 (Exemplar deck)",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    }
+  ]
+});
