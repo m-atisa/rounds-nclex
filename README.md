@@ -16,10 +16,10 @@ The **21 modules** are grouped into three units. Grouping is defined in `UNITS` 
 
 Module 6 is Fluids & Electrolytes. **Unit 6** is a separate course grouping.
 
-- **Learn**: 117 full lessons. Each one has objectives, a plain-language big picture, key terms, comparison tables, bedside examples, NCLEX pearls and red flags, a recap, and self-checks. Every Professional Nursing lesson also includes *Common traps & look-alikes*, *How the NCLEX tests this* (a sample question reasoned step by step), a *Worked case*, and a *North Carolina practice note* where it applies.
+- **Learn**: 117 plain-language lessons. Each opens with **Key points** (a two-minute version), then explains the topic in plain words, with key terms and short numbered parts. Every part starts with a one-sentence **key idea**. Each lesson includes *Common traps*, *How the NCLEX tests this* (a sample question reasoned step by step), a *Worked case*, NCLEX tips, red flags, and self-checks. On wide screens a side rail tracks your place in the lesson.
 - **Practice**: filter by unit, module, topic, nursing skill, NCSBN clinical-judgment step, format, and difficulty. Content and strategy hints are available, and every option has its own rationale.
 - **Exam**: timed, with no hints, flag-and-review, and an optional confidence rating. The report breaks down performance and flags answers that were right but shaky.
-- **Questions**: about 1,400 items in three formats (priority, single best answer, select all that apply). The searchable bank opens with ⌘K. Every item cites its source (for example `Module 49 · Legal Issues · … · pp. 2759–2763`).
+- **Questions**: about 4,250 items in three formats (priority, single best answer, select all that apply). The searchable bank opens with ⌘K. Every item cites its source (for example `Module 49 · Legal Issues · … · pp. 2759–2763`).
 - **Flashcards**: spaced re-queueing of missed cards.
 - **New content highlight**: new modules carry a subtle orange **New** badge and tint on cards, sidebar, practice filters, and unit pages. The `isNew` flag on a unit controls this.
 - Zoom control and light/dark theme. Progress is stored locally in the browser.
@@ -38,7 +38,7 @@ src/data/types.ts        Question / Topic / Flashcard types
 src/data/data.test.ts    content-integrity tests (every question validated)
 src/pages/               Home, Learn (units, modules, topics), Practice, Exam, Session, Results, Bank, Flashcards, Progress
 src/components/          Layout (sidebar grouped by unit), UnitOverview, TopicArticle, question views
-docs/                    source maps and clarifications (unit-6-sources.md, professional-sources.md)
+docs/                    source maps, clarifications, content review and UX review logs
 ```
 
 Source decks and PDFs live in the sibling `../source/` folder. They are not published.
@@ -62,6 +62,17 @@ npm run build     # content → typecheck → production build in dist/
 5. Run `npm run content && npm test && npm run build`.
 
 ### Content standards
+
+**Lessons** must pass `node scripts/validate-guides.mjs content/guides-*.js`:
+- 1,800–3,600 words.
+- One key idea per section.
+- Paragraphs of 85 words or fewer.
+- No inline "(1)…(2)…" lists.
+- Average sentence length of 19 words or fewer, and a reading grade of 10.5 or lower.
+- Required sections are present.
+
+`npm test` enforces key ideas and the required sections. New question files must pass `node scripts/validate-questions.mjs content/<file>.js`. It checks format, rationales, the answer-position balance, length cues, and near-duplicates against the whole bank.
+
 
 - **Questions** use only `mcq` (4 options, `priority: true` for "first/priority" stems) and `sata` (5–6 options). Each needs:
   - option rationales starting "Correct." or "Incorrect."

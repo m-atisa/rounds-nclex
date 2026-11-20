@@ -73,8 +73,15 @@ for (const [mid, topics] of Object.entries(guideTopics)) {
 
 /** Approximate reading time for a topic, in minutes. */
 export function readingMinutes(t: Topic) {
-  const words = JSON.stringify(t).replace(/<[^>]+>/g, ' ').split(/\s+/).length;
-  return Math.max(1, Math.round(words / 200));
+  const parts: string[] = [];
+  const walk = (v: unknown) => {
+    if (typeof v === 'string') parts.push(v);
+    else if (Array.isArray(v)) v.forEach(walk);
+    else if (v && typeof v === 'object') Object.entries(v).forEach(([k, x]) => k !== 'id' && walk(x));
+  };
+  walk(t);
+  const words = parts.join(' ').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 220));
 }
 
 export const MODULES: Module[] = Object.values(byId).sort((a, b) => a.number - b.number);

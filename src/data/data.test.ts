@@ -21,7 +21,7 @@ describe('content integrity', () => {
       expect(new Set(m.questions.map((q) => q.cjmm)), m.id).toEqual(new Set(CJMM_STEPS));
       for (const t of m.topics) {
         const words = JSON.stringify(t).replace(/<[^>]+>/g, ' ').split(/\s+/).length;
-        expect(words, `${m.id}/${t.id} words`).toBeGreaterThan(2200);
+        expect(words, `${m.id}/${t.id} words`).toBeGreaterThan(1800);
         expect(m.questions.filter((q) => q.topic === t.id).length, `${m.id}/${t.id} questions`).toBeGreaterThanOrEqual(12);
         expect(m.flashcards.filter((c) => c.topic === t.id).length, `${m.id}/${t.id} cards`).toBeGreaterThanOrEqual(8);
         const heads = t.sections?.map((s) => s.heading ?? '') ?? [];
@@ -71,6 +71,26 @@ describe('content integrity', () => {
         const words = JSON.stringify(t).replace(/<[^>]+>/g, ' ').split(/\s+/).length;
         expect(words, `${m.id}/${t.id}`).toBeGreaterThan(1200);
         expect(t.checks?.length ?? 0, `${m.id}/${t.id} checks`).toBeGreaterThanOrEqual(3);
+      }
+  });
+
+  it('has tripled question banks (Nov 2026 baseline × 3)', () => {
+    const baseline: Record<string, number> = {"m5":115,"m6":90,"m10":109,"m15":110,"m16":109,"m21":207,"m23":36,"m29":38,"m37":42,"m38":52,"m39":43,"m41":36,"m42":45,"m43":43,"m44":42,"m45":46,"m46":44,"m47":52,"m49":47,"m50":45,"m7":60};
+    for (const m of MODULES) expect(m.questions.length, m.id).toBeGreaterThanOrEqual(3 * (baseline[m.id] ?? 0));
+  });
+
+  it('has plain-language lessons with a key idea for every section', () => {
+    for (const m of MODULES)
+      for (const t of m.topics) {
+        expect(t.recap?.length ?? 0, `${m.id}/${t.id} key points`).toBeGreaterThanOrEqual(5);
+        for (const s of t.sections ?? []) {
+          if (/^Course source/.test(s.heading ?? '')) continue;
+          expect(s.keyIdea, `${m.id}/${t.id} · ${s.heading}`).toBeTruthy();
+          expect(s.body ?? '', `${m.id}/${t.id} · ${s.heading} inline list`).not.toMatch(/\(1\)[\s\S]*\(2\)[\s\S]*\(3\)/);
+        }
+        const heads = (t.sections ?? []).map((s) => s.heading ?? '');
+        expect(heads.some((h) => h.startsWith('How the NCLEX tests this')), `${m.id}/${t.id} NCLEX walkthrough`).toBe(true);
+        expect(heads.some((h) => h.startsWith('Worked case')), `${m.id}/${t.id} worked case`).toBe(true);
       }
   });
 

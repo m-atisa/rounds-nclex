@@ -1,0 +1,2770 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m29",
+  "moduleNumber": 29,
+  "moduleTitle": "Self",
+  "questions": [
+    {
+      "id": "m29-x1-001",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "During afternoon rounds on a medical unit, four clients make the following statements to the nurse. Which statement requires the nurse’s priority follow-up?",
+      "options": [
+        "“I used to be the one who took care of everyone else.”",
+        "“I do not recognize my body since the surgery last week.”",
+        "“Nothing about me matters anymore, and I am tired of trying.”",
+        "“The hospital diet goes against what I have always believed in.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This role-performance concern is important but carries no immediate safety cue.",
+        "Incorrect. This body-image concern deserves exploration, but it contains no cue of hopelessness or self-harm.",
+        "Correct. Worthlessness combined with being tired of trying suggests low self-esteem and possible hopelessness, which requires a direct safety assessment.",
+        "Incorrect. This identity and values concern should be addressed, but it is not an immediate risk."
+      ],
+      "rationale": "Each statement points toward a different self-concept component: self-esteem, body image, role performance, and identity. All deserve exploration, but a statement suggesting worthlessness and giving up may signal hopelessness and must be followed by a direct safety assessment. Safety takes priority over routine exploration of body image or roles. The body-image statement is tempting because surgery is a dramatic change, but distress about appearance without hopelessness cues is not the most urgent concern.",
+      "takeaway": "When several self-concept concerns compete, statements of worthlessness or giving up get the first follow-up because they may signal self-harm risk.",
+      "hintContent": "Match each statement to a self-concept component, then ask which one could carry a risk to life.",
+      "hintStrategy": "In “which client first” items, look for the cue that hints at danger; psychosocial safety outranks adjustment concerns.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-002",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 9-year-old with newly diagnosed type 1 diabetes is learning to check capillary blood glucose. After two unsuccessful attempts, the child tosses the lancet device onto the bed and says, “I am stupid. I cannot do anything right.” What should the nurse do first?",
+      "options": [
+        "Break the skill into smaller steps and coach the child through one step.",
+        "Perform the checks for the child until discharge to prevent more frustration.",
+        "Mention that a younger roommate learned the skill on the first day.",
+        "Explain that the parents will do glucose checks until the child is older."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. School-age children build industry through manageable practice; a smaller achievable step with coaching restores a sense of competence.",
+        "Incorrect. Taking over for the rest of the stay removes the chance for mastery and may confirm the child’s belief that they cannot succeed.",
+        "Incorrect. Comparison with other children undermines self-esteem and increases the sense of failure.",
+        "Incorrect. This implies the child is incapable; school-age children can learn this skill with appropriate support."
+      ],
+      "rationale": "School-age children work toward industry, a sense of competence that grows from mastering real skills. When a child struggles, the nurse supports industry by breaking the task into achievable steps, allowing practice, and praising specific effort. Taking over the skill feels kind but removes the opportunity for mastery and can reinforce the child’s belief that they cannot succeed. Comparisons with other children and postponing the skill entirely both send the message that the child is not capable.",
+      "takeaway": "Support industry in school-age children with achievable steps, practice, and specific praise rather than taking over or comparing.",
+      "hintContent": "Consider which developmental task a 9-year-old is working on and what builds a sense of competence.",
+      "hintStrategy": "When a child is frustrated, choose the option that keeps the child participating at a level where success is likely.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-003",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 14-year-old admitted with abdominal pain gives one-word answers to the nurse’s questions about mood, friends, and school while a parent sits at the bedside and answers for the teen. Which action should the nurse take first?",
+      "options": [
+        "Postpone the psychosocial assessment until the teen is ready for discharge.",
+        "Direct the remaining questions to the parent, who seems more willing to talk.",
+        "Document that the teen appears withdrawn and may have a depressive disorder.",
+        "Offer the teen time to talk with the nurse privately, consistent with policy."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Delaying the assessment could miss safety or health concerns that affect the current plan of care.",
+        "Incorrect. This excludes the teen from their own assessment and may miss important information about mood, peers, or safety.",
+        "Incorrect. Brief answers with a parent present are not enough data to suggest a diagnosis; more assessment is needed first.",
+        "Correct. Adolescents value privacy and direct inclusion; private time may allow the teen to share concerns not voiced in front of family."
+      ],
+      "rationale": "Adolescents are working on identity, and privacy and being addressed directly matter greatly at this stage. Short answers with a parent present may reflect a need for privacy rather than withdrawal or illness. Offering private time, within policy and law, gives the teen a chance to share concerns about mood, peers, or safety. Directing questions to the parent is tempting because it produces answers quickly, but it excludes the teen and may miss the most important information.",
+      "takeaway": "Include adolescents directly and offer private time before drawing conclusions from guarded answers.",
+      "hintContent": "Think about what adolescents value during the identity stage and what may be limiting this teen’s answers.",
+      "hintStrategy": "Before labeling a behavior, choose the action that gathers better data; assessment comes before conclusions.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-004",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 78-year-old widower in a rehabilitation facility after a hip fracture tells the nurse, “My whole life was a waste. Nothing I did mattered.” His daughter reports that this week he gave his woodworking tools to his grandsons and has been eating very little. Which concern should the nurse address first?",
+      "options": [
+        "Imbalanced nutrition related to poor intake",
+        "Possible suicide risk related to hopelessness",
+        "Despair related to the tasks of later life",
+        "Ineffective role performance after the fracture"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Reduced intake matters, but it is likely a symptom of the larger mood and safety problem and is not the most urgent concern.",
+        "Correct. Hopeless statements combined with giving away valued possessions and reduced intake are warning signs that require a direct suicide risk assessment.",
+        "Incorrect. The statement does reflect despair, but a developmental label must not replace a direct safety assessment.",
+        "Incorrect. Role changes may contribute, but they do not capture the immediate danger suggested by the cluster of cues."
+      ],
+      "rationale": "The client’s statement reflects despair, the negative pole of the integrity-versus-despair stage, but combined with giving away valued possessions and eating little it also signals possible suicide risk. Older widowed men are a high-risk group, and giving away possessions is a classic warning sign. Safety comes before nutrition, developmental, or role concerns. Despair is the tempting answer because it fits the developmental framework, but developmental theory guides care and never replaces a direct safety assessment.",
+      "takeaway": "Developmental theory guides care, but hopelessness plus giving away possessions requires a direct suicide risk assessment first.",
+      "hintContent": "Look at the combination of the statement and the recent behaviors, not the statement alone.",
+      "hintStrategy": "For “address first” items, rank each hypothesis by threat to life and choose the one that could cause harm soonest.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Rehabilitation Flow Sheet",
+            "table": {
+              "headers": [
+                "Day",
+                "Meal intake",
+                "Weight",
+                "Therapy participation"
+              ],
+              "rows": [
+                [
+                  "Monday",
+                  "50%",
+                  "72.1 kg",
+                  "Completed session"
+                ],
+                [
+                  "Wednesday",
+                  "20%",
+                  "71.2 kg",
+                  "Completed half of session"
+                ],
+                [
+                  "Friday",
+                  "10%",
+                  "70.4 kg",
+                  "Declined, stated “What is the point?”"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-005",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 38-year-old client who had a hysterectomy for cervical cancer says quietly, “I do not feel like a real woman anymore.” Which response by the nurse is most therapeutic?",
+      "options": [
+        "“You still have your husband and children, and they love you very much.”",
+        "“Tell me what being a woman means to you now that this has happened.”",
+        "“Most women feel this way at first, and it usually passes in a month.”",
+        "“Would you like me to arrange a visit with a psychiatrist this afternoon?”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Pointing to family love minimizes the loss and changes the subject, even though it sounds supportive.",
+        "Correct. An open-ended invitation explores the meaning of the change to this client before the nurse offers solutions.",
+        "Incorrect. Generalizing to most women and predicting a timeline is false reassurance that dismisses her experience.",
+        "Incorrect. An immediate referral is premature before the nurse has assessed meaning, coping, and safety."
+      ],
+      "rationale": "The statement touches personal identity and possibly body image and sexuality. An open-ended invitation lets the nurse learn what the change means to this particular client before offering solutions. Pointing to family love is tempting because it sounds kind, but it minimizes the loss and moves away from her feelings. Generalizing to “most women” is false reassurance, and an immediate psychiatric referral skips assessment of meaning, coping, and safety.",
+      "takeaway": "Explore the meaning of a change in the client’s own words before reassuring or referring.",
+      "hintContent": "The client has said how she feels but not why; choose the response that finds out.",
+      "hintStrategy": "In therapeutic communication items, prefer open-ended responses that focus on the client’s feelings over reassurance or advice.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-006",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "An 84-year-old retired school principal admitted with pneumonia is alert and oriented with an oxygen saturation of 95% but has become quiet and withdrawn. The nurse observes staff calling her “sweetie” and an assistive personnel cutting up her food without asking. What should the nurse do first?",
+      "options": [
+        "Ask the assistive personnel to feed the client so that she eats enough.",
+        "Request a consultation to evaluate the client for a depressive disorder.",
+        "Encourage the family to visit more often to help improve the client’s low mood.",
+        "Ask the client how she wants to be addressed and what help she wants at meals."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Feeding a capable client further reduces her autonomy and dignity.",
+        "Incorrect. Mood should be monitored, but a consult skips simple assessment of a likely cause the nurse can correct now.",
+        "Incorrect. Family visits may help, but they do not address the infantilizing care that preceded her withdrawal.",
+        "Correct. Using her preferred name and offering genuine choices restores dignity and addresses the likely cause of her withdrawal."
+      ],
+      "rationale": "Respectful language, preferred names, and genuine choices preserve identity and dignity, especially for an older adult whose former role carried authority. The withdrawal began in the context of infantilizing care, so the first step is to ask the client about her preferences and correct the approach. A depression consult is tempting because withdrawal can signal depression, but it skips a simple, correctable cause; mood should still be reassessed. Having staff feed her would further reduce her autonomy.",
+      "takeaway": "Use the client’s preferred name and ask before helping; infantilizing care erodes self-concept.",
+      "hintContent": "Notice how the client was being treated just before she withdrew.",
+      "hintStrategy": "Choose the least invasive action that addresses the likely cause before escalating to referrals.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-007",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 67-year-old who retired from engineering 6 months ago is admitted after a hip fracture. He says, “Since I stopped working, I do not know who I am anymore.” He denies thoughts of self-harm. Which response should the nurse make first?",
+      "options": [
+        "“What parts of your work gave you the strongest sense of purpose?”",
+        "“Retirement is a time to relax, so try to enjoy all the free time.”",
+        "“Many retirees take up new hobbies. Here is a list of senior centers.”",
+        "“You should be proud of your long career; few people achieve that.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Exploring what gave his work meaning identifies values and strengths that can carry into new roles.",
+        "Incorrect. This dismisses his distress and imposes the nurse’s view of what retirement should mean.",
+        "Incorrect. Offering substitutes before understanding what he lost jumps to a solution that may not fit him.",
+        "Incorrect. Praise does not explore the identity disruption he is describing and may close the conversation."
+      ],
+      "rationale": "The statement reflects a disrupted personal identity tied to a valued work role. Exploring what gave his work meaning identifies values and strengths that can carry forward, consistent with generativity and later-life integrity. A list of hobbies is tempting because it is practical, but it offers substitutes before the nurse understands what matters to him. Telling him to relax or to feel proud dismisses his distress rather than exploring it.",
+      "takeaway": "Explore what a lost role meant to the client before offering substitutes.",
+      "hintContent": "Ask yourself what you would need to know about this man before suggesting a new role.",
+      "hintStrategy": "When options include advice, reassurance, and exploration, exploration comes first unless safety is at stake.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-008",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 13-year-old who has taken prednisone daily for 4 months for nephrotic syndrome tells the clinic nurse, “I stopped taking it 3 days ago because my face is so round that kids at school call me names.” Which action should the nurse take first?",
+      "options": [
+        "Reassure the teen that facial rounding fades after the dose is tapered.",
+        "Explore the teasing and offer to connect the teen with a peer support group.",
+        "Assess for weakness, dizziness, or nausea and notify the provider today.",
+        "Teach the teen that the medication must be taken exactly as prescribed."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reassurance does not address the missed doses or the risk created by stopping suddenly.",
+        "Incorrect. The body-image concern is real and must be addressed, but the physiologic risk is more urgent.",
+        "Correct. Abruptly stopping long-term corticosteroids risks adrenal insufficiency, so physical assessment and prompt provider notification come first.",
+        "Incorrect. Teaching is needed later, but it does not address current risk, and the provider must decide how to resume therapy."
+      ],
+      "rationale": "Body-image concerns are especially powerful in adolescence, and the teasing deserves real attention. However, stopping a corticosteroid abruptly after months of use can cause adrenal insufficiency, a physiologic risk. When physical risk exists, the nurse addresses it first by assessing for symptoms and notifying the provider so a safe plan for resuming or tapering can be made. Exploring the teasing is tempting because it addresses the teen’s stated concern, but it should follow, not replace, the safety response.",
+      "takeaway": "When a body-image concern leads to stopping a medication, address the physiologic risk first, then the self-concept issue.",
+      "hintContent": "Consider what happens in the body when this particular medication is stopped suddenly.",
+      "hintStrategy": "Physiologic safety outranks psychosocial needs; choose the option that addresses physical risk when one exists.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-009",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A nurse realizes she has been entering the room of a client with extensive facial burns only for scheduled tasks and leaving quickly because she feels uncomfortable looking at the injuries. Which action should the nurse take first?",
+      "options": [
+        "Continue limiting time in the room so that her discomfort is not noticed.",
+        "Ask the charge nurse to reassign the client to a more experienced nurse today.",
+        "Tell the client honestly that the injuries are difficult for her to see.",
+        "Reflect on her reaction and seek peer support while continuing full care."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Brief, task-only visits are likely to be perceived as avoidance and can worsen the client’s body-image distress.",
+        "Incorrect. Reassignment avoids the problem rather than addressing it, and the reaction may recur with other clients.",
+        "Incorrect. Disclosing this shifts the burden of the nurse’s feelings onto a client who may already feel rejected.",
+        "Correct. Recognizing the reaction and using professional support protects the client from feeling rejected while care continues."
+      ],
+      "rationale": "Self-awareness means noticing when one’s own reactions shape care. The client may sense avoidance and interpret it as rejection, which can worsen body-image distress. The nurse should recognize the reaction, use reflection and professional support such as a peer or supervisor, and keep providing complete care. Requesting reassignment is tempting because it seems honest, but it avoids the problem; disclosing her discomfort to the client makes the client responsible for the nurse’s feelings.",
+      "takeaway": "Manage your own reactions through reflection and professional support; the client should never carry the nurse’s feelings.",
+      "hintContent": "Think about who is responsible for managing the nurse’s emotional reaction.",
+      "hintStrategy": "Eliminate options that make the client responsible for staff feelings or that avoid the client.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-010",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 50-year-old client admitted yesterday with new heart failure is dressing to leave and says, “I have to go home. My adult son with a disability depends on me, and nobody else can care for him.” Which action should the nurse take first?",
+      "options": [
+        "Tell her that leaving now could make her heart fail and could lead to death.",
+        "Ask what she is most worried about for her son while she is in the hospital.",
+        "Notify security so that she cannot leave the unit before the provider arrives.",
+        "Have her sign the against-medical-advice form and review the discharge plan."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Frightening the client is coercive and does not address the reason she wants to leave.",
+        "Correct. Exploring the specific role concern opens the door to solutions such as social work or respite that may make staying possible.",
+        "Incorrect. Holding a competent adult against her will violates autonomy and may constitute false imprisonment.",
+        "Incorrect. This may become necessary, but it comes after the nurse explores the concern and notifies the provider."
+      ],
+      "rationale": "The client’s urge to leave is driven by a valued caregiving role, a core part of her role performance and possibly her identity. Exploring the specific concern opens the door to solutions such as social work, respite care, or a family plan that may make staying possible. Frightening her with worst-case outcomes is coercive, and using security to hold a competent adult violates autonomy. Processing an against-medical-advice discharge is tempting because she is already dressing, but it comes only after the nurse understands the concern and notifies the provider.",
+      "takeaway": "When a valued role drives a risky decision, explore the role concern first; it is often solvable.",
+      "hintContent": "Identify what is actually driving the client’s decision to leave.",
+      "hintStrategy": "Assess before acting: choose the option that learns more before forcing, frightening, or processing paperwork.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-011",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 4-year-old hospitalized with pneumonia tells the nurse, “I got sick because I was bad and hit my brother.” Which response by the nurse is best?",
+      "options": [
+        "“You are too young to understand why people get sick, so do not worry.”",
+        "“That is right, hitting is bad, so be kind to your brother from now on.”",
+        "“Hitting your brother did not make you sick. Germs got into your chest.”",
+        "“Let’s ask your parents to explain what pneumonia means a little later.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Dismissing the child’s question leaves the guilt in place and discourages questions.",
+        "Incorrect. Agreeing reinforces the child’s belief that the illness is punishment for misbehavior.",
+        "Correct. A brief, concrete, honest explanation corrects the misunderstanding and relieves the child’s guilt.",
+        "Incorrect. Deferring the explanation leaves the misconception uncorrected when it could be addressed simply now."
+      ],
+      "rationale": "Preschoolers are in the initiative-versus-guilt stage and often use magical thinking, so they may see illness as punishment for misbehavior. A brief, concrete, honest explanation corrects the misunderstanding and relieves guilt. Agreeing that hitting was bad is tempting because it reinforces good behavior, but it strengthens the link between misbehavior and illness. Dismissing or deferring the child’s understanding leaves the guilt in place and misses a chance to support the child’s questions.",
+      "takeaway": "Correct a preschooler’s belief that illness is punishment with simple, concrete, honest words.",
+      "hintContent": "Think about how preschoolers explain events they do not understand and what feeling that creates.",
+      "hintStrategy": "With children, choose the honest, concrete explanation matched to development over deferral or dismissal.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-012",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 2-year-old hospitalized for dehydration is now tolerating oral intake and grabs the spoon, insisting, “Me do it!” The parent asks, “Can you just feed him? He makes such a mess.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Letting him feed himself with finger foods supports his independence.”",
+        "“Feeding him yourself is fine for now because he is still recovering.”",
+        "“We can let him try once he is home, where cleanup will be much easier.”",
+        "“He may be regressing because of the hospital stay, so do it for him.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Self-feeding is a safe, meaningful way for a toddler to exercise autonomy, and a mess is an acceptable trade-off.",
+        "Incorrect. He is already tolerating intake and showing readiness, so taking over removes a safe chance for autonomy.",
+        "Incorrect. Deferring self-feeding prioritizes convenience over a developmental need that can be met safely now.",
+        "Incorrect. Wanting to do things himself is the opposite of regression; it is expected toddler behavior."
+      ],
+      "rationale": "Toddlers are working on autonomy, and self-feeding is a safe, meaningful way to exercise it. Offering finger foods or a spoon with supervision supports independence while still meeting the nutrition goal. Feeding the child because he is recovering is tempting because it sounds caring, but he is tolerating intake and showing readiness. Deferring or labeling his behavior as regression removes a safe opportunity for autonomy.",
+      "takeaway": "Give toddlers safe chances to do things themselves; autonomy grows through participation.",
+      "hintContent": "Identify the developmental task that “Me do it!” expresses.",
+      "hintStrategy": "When a child shows safe readiness, choose the option that supports participation over convenience.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-013",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "During a sports physical, the mother of a 17-year-old privately tells the nurse, “She dyed her hair blue, changed how she dresses, and now questions the religion we raised her in. Is something wrong with her?” Which response by the nurse is most appropriate?",
+      "options": [
+        "“Teens often explore looks and values to form an identity. Have her mood or grades changed?”",
+        "“These changes are warning signs of a mental illness, so she needs a referral for evaluation.”",
+        "“Teens often rebel just to upset their parents, so it is best to ignore it until it passes.”",
+        "“Setting firm rules about her appearance and beliefs will help her through this phase.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This normalizes identity exploration while gathering data about mood and function that would signal a real concern.",
+        "Incorrect. Changes in appearance and values alone do not indicate mental illness and should not be pathologized.",
+        "Incorrect. This assumes a motive and skips assessment of mood, school, and relationships.",
+        "Incorrect. Rigid control over appearance and values may increase conflict and does not support healthy identity formation."
+      ],
+      "rationale": "Adolescents work on identity versus role confusion, and experimenting with appearance and questioning values are common parts of that work. The nurse normalizes this while still asking about mood, school, relationships, and function, because changes there would warrant further assessment. Labeling the changes as mental illness is tempting for a worried parent, but it pathologizes normal development. Ignoring the changes assumes a motive, and imposing rigid rules may increase conflict.",
+      "takeaway": "Identity exploration is expected in adolescence; look for changes in mood and function rather than appearance alone.",
+      "hintContent": "Separate what is typical for this age from what would signal a problem.",
+      "hintStrategy": "The best response often teaches the principle and gathers more data at the same time.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-014",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 48-year-old high school teacher with progressive multiple sclerosis has started medical leave and tells the home health nurse, “I spent my life helping students. Now I just sit here and contribute nothing.” Which nursing intervention best supports this client’s developmental needs?",
+      "options": [
+        "Focus the home visits on her physical care until her symptoms stabilize.",
+        "Encourage her to accept that her working years are over and focus on rest.",
+        "Explore ways she might keep guiding or teaching others within her abilities.",
+        "Suggest that her family take over all of her household responsibilities for now."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Physical care matters, but ignoring the developmental need affects mood, coping, and engagement.",
+        "Incorrect. This dismisses the loss and removes a core source of meaning.",
+        "Correct. Finding adapted ways to keep contributing supports generativity, the central task of middle adulthood.",
+        "Incorrect. Removing more roles is likely to deepen her sense of contributing nothing."
+      ],
+      "rationale": "Middle adulthood centers on generativity, contributing to others through work, family, mentoring, or community. When illness disrupts a valued contributing role, the nurse helps the client find realistic ways to keep contributing, such as tutoring online or mentoring new teachers. Telling her to accept that her working years are over dismisses the loss. Focusing only on physical care is tempting during a progressive illness, but it ignores a developmental need that affects mood and coping.",
+      "takeaway": "Support generativity by preserving meaningful ways to contribute, adapted to current ability.",
+      "hintContent": "Identify the developmental task of middle adulthood and what is threatening it here.",
+      "hintStrategy": "Choose the option that preserves the client’s valued role in an adapted form rather than removing it.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-015",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "In a long-term care facility, an 89-year-old resident often tells staff stories about running the family farm. An assistive personnel asks the nurse, “He keeps living in the past. Should I change the subject?” Which response by the nurse is best?",
+      "options": [
+        "“Yes, redirecting him to current events will keep him oriented to reality.”",
+        "“Listening to his stories helps him find meaning in the life he has lived.”",
+        "“Let him talk briefly, then remind him gently that those days are over.”",
+        "“Ask his family whether he is becoming confused and needs an evaluation.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. There is no cue of confusion; redirecting discourages a healthy developmental process.",
+        "Correct. Reminiscence supports integrity in later life, so listening and inviting stories is therapeutic.",
+        "Incorrect. Reminding him that those days are over devalues his life experience.",
+        "Incorrect. Telling life stories is expected behavior and is not, by itself, a sign of confusion."
+      ],
+      "rationale": "Older adulthood includes life review and the tension between integrity and despair. Reminiscing helps an older adult find meaning and coherence in life, so listening and inviting stories supports integrity. Redirecting is tempting because it sounds like reality orientation, but the stem gives no cue of confusion; the resident is recalling the past, not disoriented to the present. Treating storytelling as a problem discourages a healthy developmental process.",
+      "takeaway": "Reminiscence supports integrity in older adults; listen to and invite life stories.",
+      "hintContent": "Consider what telling life stories accomplishes for someone in later life.",
+      "hintStrategy": "Do not treat expected developmental behavior as pathology unless the stem gives cues of a problem.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-016",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 55-year-old pastor hospitalized for alcohol withdrawal greets visiting church members cheerfully. After they leave, he tells the nurse, “They see a strong leader. I am not that person, and I never have been.” Which concept best explains the distress the client describes?",
+      "options": [
+        "Limited self-awareness from denial of illness",
+        "Role strain related to his duties as a pastor",
+        "Body-image disturbance related to withdrawal",
+        "A gap between his public self and his real self"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. He clearly recognizes and names his feelings, which argues against limited self-awareness.",
+        "Incorrect. He is not describing difficulty fulfilling his duties; he is describing a mismatch in how he is seen.",
+        "Incorrect. Nothing in his statement concerns his physical appearance or body.",
+        "Correct. He presents as a strong leader but describes himself as someone different, which reflects incongruence between public and real self."
+      ],
+      "rationale": "The real self is how a person believes they actually are, the ideal self is who they want to be, and the public self is how they present to others. This client presents a strong, cheerful leader to visitors but describes himself as someone different, so his distress reflects incongruence between public and real self. Role strain is tempting because he is a pastor, but he is not describing difficulty fulfilling duties. He is clearly aware of his feelings, which rules out limited self-awareness.",
+      "takeaway": "Distress from presenting one way while feeling another reflects a gap between the public self and the real self.",
+      "hintContent": "Compare how he presents to others with how he describes himself.",
+      "hintStrategy": "For look-alike concepts, match the exact words in the stem to each definition and eliminate those that do not fit.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-017",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A nurse is completing psychosocial assessments of residents in an assisted-living community. Which statement by an 86-year-old resident most suggests despair rather than integrity?",
+      "options": [
+        "“I am proud of my children, though I wish I had been home more.”",
+        "“I made mistakes, but overall I am at peace with how I have lived.”",
+        "“I wasted my life, and now it is too late to make anything right.”",
+        "“I am writing letters to my grandkids about what I have learned.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Regret balanced by pride and acceptance is part of healthy life review.",
+        "Incorrect. Acknowledging mistakes while feeling at peace reflects integrity.",
+        "Correct. Seeing life as wasted with no time left to change it is the hallmark of despair and warrants further assessment.",
+        "Incorrect. Sharing lessons with the next generation reflects integrity and continued contribution."
+      ],
+      "rationale": "Integrity involves accepting one’s life as meaningful, including its regrets, while despair involves seeing life as wasted with no time left to change it. The statement about a wasted life and no time to make things right reflects despair and warrants further assessment of mood and safety. The statements acknowledging mistakes or wishing for something different are tempting, but regret combined with acceptance is part of healthy life review. Sharing lessons with grandchildren reflects integrity and continued contribution.",
+      "takeaway": "Regret alone is not despair; despair is seeing life as wasted with no time left to change it.",
+      "hintContent": "Look for the statement in which regret is not balanced by acceptance.",
+      "hintStrategy": "When several options contain negative feelings, choose the one with the most global and hopeless meaning.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-018",
+      "topic": "self-development",
+      "type": "mcq",
+      "stem": "A 58-year-old client who had a total laryngectomy 3 days ago communicates using a writing board. Which question should the nurse ask to best begin assessing the client’s self-concept?",
+      "options": [
+        "“Why haven’t you wanted to look in the mirror yet?”",
+        "“Are you feeling depressed about losing your voice?”",
+        "“You are adjusting really well to this, aren’t you?”",
+        "“What has been the hardest part of this change for you?”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A “why” question can feel judgmental and put the client on the defensive.",
+        "Incorrect. A yes-or-no question limits the answer and labels the feeling for the client.",
+        "Incorrect. A leading question discourages the client from sharing honest distress.",
+        "Correct. An open-ended question invites the client to describe the meaning of the change in their own words."
+      ],
+      "rationale": "A self-concept assessment begins with open-ended questions that let the client describe the meaning of a change in their own words. Writing takes effort, but an open question still yields the richest information about identity, body image, and role concerns. A yes-or-no question about depression is tempting because it seems direct, but it limits the answer and labels the feeling for the client. Leading questions and “why” questions discourage honest answers.",
+      "takeaway": "Begin self-concept assessment with open-ended questions about what the change means to the client.",
+      "hintContent": "Choose the question that invites the client to describe their own experience.",
+      "hintStrategy": "Eliminate closed, leading, and “why” questions in therapeutic communication items.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-019",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "A nurse is reviewing statements made by a 63-year-old client during recovery from a stroke. Which statements indicate a concern primarily related to role performance? Select all that apply.",
+      "options": [
+        "“I cannot drive my grandchildren to school anymore.”",
+        "“I am not sure I can go back to my job as a chef.”",
+        "“My face droops, and I hate seeing myself in photos.”",
+        "“I feel like I am not worth anything at all now.”",
+        "“My wife pays our bills now, and that was always my job.”"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Driving the grandchildren is a family responsibility the client can no longer fulfill.",
+        "Correct. Returning to work concerns a valued occupational role.",
+        "Incorrect. This statement concerns appearance, which points to body image.",
+        "Incorrect. This reflects self-esteem and requires safety follow-up rather than role exploration.",
+        "Correct. Managing household finances is a role the client describes losing."
+      ],
+      "rationale": "Role performance concerns how a person fulfills expected responsibilities in relationships, work, and daily life. Driving grandchildren, working as a chef, and handling household finances are all roles the client describes losing. The statement about facial drooping concerns body image, and feeling worthless reflects self-esteem and warrants a safety assessment. Statements often overlap, so the nurse still explores meaning, but each of these points most directly to one component.",
+      "takeaway": "Role performance concerns are about responsibilities and expected activities; appearance and worth belong to other components.",
+      "hintContent": "For each statement, ask whether it is about what the client does, how the client looks, or how the client values themselves.",
+      "hintStrategy": "In SATA classification items, judge each option independently against one clear definition.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-020",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "A home health nurse is planning care for a 60-year-old client with recent vision loss from diabetic retinopathy. Which assessment findings represent strengths the nurse can build on? Select all that apply.",
+      "options": [
+        "Coped with a job layoff 5 years ago by retraining for a new career",
+        "Has a daughter who visits daily and offers to help with errands",
+        "Continues to manage the household finances by phone with the bank",
+        "Avoids eye contact with the nurse during most of the conversation",
+        "States, “I will never be any use to anyone again.”",
+        "Declines to attend a vision-loss support group this month"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Successful past coping is a strength that can be used with the current change.",
+        "Correct. A supportive relationship is a resource for adaptation.",
+        "Correct. Retained skills and decision-making show preserved ability to build on.",
+        "Incorrect. Eye contact may reflect the vision loss or culture and should not be interpreted as a strength or deficit.",
+        "Incorrect. This hopeless statement is a concern that requires follow-up, not a strength.",
+        "Incorrect. Declining a group is a choice to explore, not a strength in itself."
+      ],
+      "rationale": "Strengths include past successful coping, supportive relationships, retained skills, and meaningful activities. Retraining after a layoff shows adaptive coping, a daughter who visits daily is a resource, and managing finances shows preserved ability and decision-making. Reduced eye contact may relate to the vision loss itself or to culture and should not be interpreted from appearance alone. The hopeless statement requires follow-up, and declining a group is a choice to explore rather than a strength.",
+      "takeaway": "Build the plan on past coping, supportive relationships, and retained abilities, not on an all-or-nothing view of independence.",
+      "hintContent": "A strength is something the client already has or does that can help with this change.",
+      "hintStrategy": "Avoid interpreting nonverbal behavior without context; select only findings the stem clearly supports.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-021",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "A nurse on a pediatric unit is reviewing care plans for several children. Which interventions are appropriately matched to the child’s developmental stage? Select all that apply.",
+      "options": [
+        "Assigning consistent caregivers to a 6-month-old during a long stay",
+        "Letting a 2-year-old choose which cup to use for an oral medication",
+        "Allowing a 5-year-old to handle the stethoscope before an examination",
+        "Posting a chart comparing a 9-year-old’s progress with a roommate’s",
+        "Discussing a 15-year-old’s concerns mainly with the parents"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Consistent, responsive care supports trust in infancy.",
+        "Correct. A safe, limited choice supports toddler autonomy without making the medication optional.",
+        "Correct. Exploration and play support initiative in preschoolers.",
+        "Incorrect. Public comparison undermines industry and self-esteem in school-age children.",
+        "Incorrect. Adolescents need direct inclusion and appropriate privacy to support identity."
+      ],
+      "rationale": "Each stage has a developmental need that nursing care can support. Infants need consistent, responsive care for trust; toddlers need safe choices for autonomy; preschoolers need exploration and play for initiative. School-age children build industry through practice and specific feedback, not public comparison. Adolescents need to be included directly and given appropriate privacy as they form an identity.",
+      "takeaway": "Match the intervention to the stage: trust, autonomy, initiative, industry, and identity each call for different support.",
+      "hintContent": "Name the developmental task for each age before judging the intervention.",
+      "hintStrategy": "For age-based SATA items, check each option against the age it names, not against general kindness.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m29-x1-022",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "A 10-year-old with cystic fibrosis has been hospitalized for 3 weeks. The plan includes interventions to support a sense of industry. Which findings indicate the interventions are effective? Select all that apply.",
+      "options": [
+        "Completes assignments with the hospital teacher and shows them to the nurse",
+        "Records own airway-clearance sessions on a chart at the bedside",
+        "States, “I am getting really good at doing my own breathing treatments.”",
+        "Asks a parent to do all self-care tasks, including brushing teeth",
+        "Spends most afternoons watching television alone in the room"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Completing and sharing schoolwork shows competence and pride in accomplishment.",
+        "Correct. Taking responsibility for part of care demonstrates growing competence.",
+        "Correct. The child recognizes their own skill, which reflects a developing sense of industry.",
+        "Incorrect. Giving up tasks the child can do suggests the interventions are not yet effective.",
+        "Incorrect. Passive, isolated activity does not demonstrate competence or mastery."
+      ],
+      "rationale": "Industry develops when school-age children master skills and feel competent. Completing schoolwork, tracking part of their own care, and recognizing their own skill are concrete evidence that the plan is working. Asking a parent to take over tasks the child can perform suggests a sense of inadequacy rather than industry. Passive, isolated activity may also signal low mood and should be explored.",
+      "takeaway": "Evaluate industry by observable mastery and the child’s pride in real skills.",
+      "hintContent": "Look for findings that show the child doing, achieving, or taking pride in a skill.",
+      "hintStrategy": "In evaluation items, select observable behaviors that match the stated goal, not just pleasant ones.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m29-x1-023",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "A 74-year-old client who immigrated from Vietnam is being prepared for elective surgery. When the nurse asks about care decisions, the client repeatedly says, “Ask my son.” Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Ask the client how she prefers health decisions to be made in her family.",
+        "Ask the client whom she wants included when information is shared.",
+        "Use a professional medical interpreter if her preferred language is not English.",
+        "Document that the client shows dependency that needs a mental-health referral.",
+        "Tell the client she must make every decision alone to protect her autonomy."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Asking about preferences respects her chosen way of making decisions rather than assuming.",
+        "Correct. The client decides who receives information about her care.",
+        "Correct. A professional interpreter ensures the client herself understands and can participate.",
+        "Incorrect. This imposes the nurse’s values and pathologizes a decision-making pattern that may be cultural or personal.",
+        "Incorrect. Respecting autonomy includes honoring her choice to involve family."
+      ],
+      "rationale": "Roles and decision-making patterns vary with culture and life experience, and a client may autonomously choose to involve family. The nurse asks about preferences, clarifies who may receive information, and uses a professional interpreter so the client understands her care. Labeling the pattern as pathological dependency imposes the nurse’s own values. Insisting she decide alone sounds like protecting autonomy, but respecting autonomy includes honoring her chosen way of making decisions, while she remains the one who gives consent.",
+      "takeaway": "Ask, do not assume: honor a client’s chosen decision-making style while ensuring she understands and consents.",
+      "hintContent": "Consider whether involving family can itself be an autonomous choice.",
+      "hintStrategy": "Eliminate options that label cultural differences as pathology or that force the nurse’s values on the client.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-024",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "The nurse teaches the parents of a 4-year-old who will be hospitalized for several days about supporting the child’s development. Which statements by the parents indicate understanding? Select all that apply.",
+      "options": [
+        "“We will bring her toy medical kit so she can play doctor with her doll.”",
+        "“When she asks questions, we will answer in short, simple words.”",
+        "“We will do everything for her so that she does not get worn out.”",
+        "“We will tell her to stop asking so many questions about the tubes.”",
+        "“We will let her help with simple tasks, like washing her own face.”"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Medical play supports initiative and helps preschoolers master new experiences.",
+        "Correct. Honest, simple answers support a preschooler’s curiosity and initiative.",
+        "Incorrect. Taking over every task undermines opportunities for mastery.",
+        "Incorrect. Discouraging questions can create guilt and limit initiative.",
+        "Correct. Safe participation in care supports initiative and confidence."
+      ],
+      "rationale": "Preschoolers develop initiative through exploration, play, and questions. Medical play, simple honest answers, and safe participation in care all support this stage. Doing everything for the child is tempting because she is ill, but it removes opportunities for mastery. Discouraging questions can lead to guilt, the negative pole of this stage.",
+      "takeaway": "Support preschool initiative with play, simple honest answers, and safe participation.",
+      "hintContent": "Recall what preschoolers need to feel capable: exploration, play, and answers to their questions.",
+      "hintStrategy": "For “indicates understanding” items, select statements that apply the principle, not ones that sound protective.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m29-x1-025",
+      "topic": "self-development",
+      "type": "sata",
+      "stem": "A nurse is caring for a client with a terminal diagnosis that recently caused the death of the nurse’s own mother. Which actions reflect appropriate use of self-awareness? Select all that apply.",
+      "options": [
+        "Reflecting after the shift on how personal grief is affecting reactions",
+        "Seeking a debriefing with a supervisor or the employee support program",
+        "Sharing details of the mother’s illness to show the client empathy",
+        "Checking personal assumptions about what the client should choose for care",
+        "Telling the client how upsetting it is to watch the illness progress again",
+        "Avoiding conversations about death so that personal grief is not triggered"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Reflection helps the nurse notice when personal feelings shape interpretations.",
+        "Correct. Professional support helps the nurse maintain a therapeutic relationship.",
+        "Incorrect. Extensive self-disclosure shifts the focus from the client to the nurse.",
+        "Correct. Recognizing one’s own beliefs prevents them from overriding the client’s values.",
+        "Incorrect. This makes the client responsible for the nurse’s feelings.",
+        "Incorrect. Avoidance deprives the client of needed support and is not self-awareness."
+      ],
+      "rationale": "Nurses bring their own experiences and beliefs into care, and self-awareness allows them to notice when those experiences influence interpretations or responses. Reflection, professional support, and checking personal assumptions help keep the focus on the client’s needs. Sharing the mother’s story is tempting because it feels empathetic, but it shifts attention to the nurse. Telling the client about the nurse’s distress or avoiding difficult topics makes the client carry the nurse’s feelings or lose support.",
+      "takeaway": "Self-awareness keeps the focus on the client: reflect and seek support rather than disclose or avoid.",
+      "hintContent": "Ask whether each action keeps the focus on the client’s needs or shifts it to the nurse.",
+      "hintStrategy": "Eliminate options that make the client responsible for staff feelings or that avoid the client’s needs.",
+      "ref": "Module 29 · Self-Concept & Development · slides 3–17, 21",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-026",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A 22-year-old client with bulimia nervosa comes to the emergency department reporting muscle cramps and a “fluttering” feeling in the chest. Review the exhibit. Which action should the nurse take first?",
+      "options": [
+        "Initiate cardiac monitoring and notify the provider of the potassium result.",
+        "Administer the SCOFF questionnaire to confirm the eating-disorder diagnosis.",
+        "Teach the client how frequent vomiting causes erosion of dental enamel.",
+        "Encourage the client to describe feelings that occur before purging episodes."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A potassium of 2.8 mEq/L with an irregular pulse signals risk for a life-threatening dysrhythmia and must be addressed first.",
+        "Incorrect. SCOFF is a screening tool, not a diagnostic test, and it does nothing to address the immediate cardiac risk.",
+        "Incorrect. Dental teaching is appropriate later but does not address a physiologic emergency.",
+        "Incorrect. Exploring feelings is part of treatment but must wait until the client is physically stable."
+      ],
+      "rationale": "Repeated vomiting causes loss of potassium, and a potassium of 2.8 mEq/L with an irregular heart rate signals risk for a life-threatening dysrhythmia. Physiologic instability takes priority, so the nurse initiates cardiac monitoring and notifies the provider promptly. Exploring feelings about purging is tempting because it addresses the underlying problem, but it must wait until the client is stable. SCOFF is a screen, not a diagnostic test, and dental teaching addresses a chronic rather than an acute risk.",
+      "takeaway": "Hypokalemia with an irregular pulse in a client who purges is a cardiac emergency that comes before psychosocial care.",
+      "hintContent": "Compare the potassium result with its reference range and connect it to the heart findings.",
+      "hintStrategy": "Use ABCs: when an abnormal lab threatens the heart, choose the action that monitors and escalates.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Vital Signs",
+            "table": {
+              "headers": [
+                "Parameter",
+                "Value"
+              ],
+              "rows": [
+                [
+                  "Blood pressure",
+                  "102/64 mm Hg"
+                ],
+                [
+                  "Heart rate",
+                  "112 beats/min, irregular"
+                ],
+                [
+                  "Respiratory rate",
+                  "18 breaths/min"
+                ],
+                [
+                  "Temperature",
+                  "98.2°F (36.8°C)"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Laboratory Results",
+            "table": {
+              "headers": [
+                "Test",
+                "Result",
+                "Reference range"
+              ],
+              "rows": [
+                [
+                  "Potassium",
+                  "2.8 mEq/L",
+                  "3.5–5.0 mEq/L"
+                ],
+                [
+                  "Sodium",
+                  "136 mEq/L",
+                  "135–145 mEq/L"
+                ],
+                [
+                  "Glucose",
+                  "84 mg/dL",
+                  "70–100 mg/dL"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Nurse’s Note",
+            "table": {
+              "headers": [
+                "Time",
+                "Note"
+              ],
+              "rows": [
+                [
+                  "1420",
+                  "Reports self-induced vomiting 4–5 times daily for 2 weeks. Reports leg cramps and palpitations since this morning."
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-027",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A 17-year-old client with anorexia nervosa on an inpatient unit asks to walk to the bathroom. When she stands, she says she feels dizzy and grabs the bed rail. Review the exhibit. What should the nurse do first?",
+      "options": [
+        "Encourage her to walk slowly while holding the rail.",
+        "Help her sit back down on the bed and stay with her.",
+        "Tell her the dizziness is anxiety about eating lunch.",
+        "Leave to get a bedside commode from the supply room."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Walking while orthostatic and symptomatic places her at high risk for fainting and falling.",
+        "Correct. Returning her to a safe position and staying with her prevents a fall while she is symptomatic.",
+        "Incorrect. Attributing the dizziness to anxiety dismisses a clear physiologic cue.",
+        "Incorrect. A commode is a reasonable later step, but leaving a dizzy client alone is unsafe."
+      ],
+      "rationale": "The blood pressure falls by 18/10 mm Hg and the heart rate rises by 32 beats/min on standing, indicating significant orthostatic intolerance, and the resting heart rate of 46 reflects bradycardia from severe restriction. The immediate risk is fainting and a fall, so the nurse returns her to a safe position and stays with her before reporting the findings. Attributing the dizziness to anxiety dismisses a physiologic cue. Getting a commode is a reasonable later step, but leaving a dizzy client alone is unsafe.",
+      "takeaway": "When a client with severe restriction becomes dizzy on standing, prevent a fall first, then report the orthostatic findings.",
+      "hintContent": "Compare the lying and standing readings and think about what could happen in the next few seconds.",
+      "hintStrategy": "When a client is symptomatic right now, choose the action that makes her safe immediately; reporting comes next.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Orthostatic Vital Signs",
+            "table": {
+              "headers": [
+                "Position",
+                "Blood pressure",
+                "Heart rate"
+              ],
+              "rows": [
+                [
+                  "Lying",
+                  "92/58 mm Hg",
+                  "46 beats/min"
+                ],
+                [
+                  "Standing, 1 minute",
+                  "74/48 mm Hg",
+                  "78 beats/min"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-028",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A nurse on an eating-disorders unit receives a shift report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A client with bulimia who is tearful after learning she gained 1 kg this week",
+        "A client with anorexia on day 4 of refeeding who reports new weakness and dyspnea",
+        "A client with binge-eating disorder who asks to call her family before group",
+        "A client with restrictive food intake who refuses to try a new food texture at lunch"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Distress about weight gain is expected in recovery and important, but it is not immediately life-threatening.",
+        "Correct. New weakness and shortness of breath early in refeeding may signal electrolyte shifts that threaten breathing and heart rhythm.",
+        "Incorrect. This is a stable request that can be addressed after urgent needs are met.",
+        "Incorrect. Refusing a new texture is an expected treatment challenge, not an urgent physiologic problem."
+      ],
+      "rationale": "Refeeding syndrome typically occurs in the first days of nutrition restoration, when phosphate, potassium, and magnesium shift into cells and can cause muscle weakness, respiratory compromise, and dysrhythmias. New weakness and shortness of breath are physiologic red flags that may indicate respiratory muscle weakness. Emotional distress about weight gain is tempting to choose because it is visible and upsetting, but it is not immediately life-threatening. Refusing a new texture and asking to call family are stable concerns that can wait.",
+      "takeaway": "During early refeeding, new weakness or dyspnea outranks emotional distress; think phosphate, potassium, and magnesium.",
+      "hintContent": "Consider which client’s report could reflect a dangerous electrolyte shift.",
+      "hintStrategy": "Physical over psychosocial, and new or acute over expected: apply both filters to the four clients.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-029",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A client with borderline personality disorder tells the nurse, “You are the only one here who understands me. The night staff are horrible.” She then pulls up her sleeve, shows a fresh cut on her forearm, and asks the nurse to keep it a secret. Which action should the nurse take first?",
+      "options": [
+        "Assess the wound and ask directly about current thoughts of self-harm.",
+        "Defend the night staff and explain that they care about her as well.",
+        "Thank her for her trust and agree to keep the injury between them.",
+        "Tell her the cut is attention-seeking and will not change the rules."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A fresh self-inflicted injury requires wound assessment and a direct evaluation of current risk.",
+        "Incorrect. This addresses splitting but is not the priority when an injury is present.",
+        "Incorrect. Safety information cannot be kept secret; agreeing undermines safety and team consistency.",
+        "Incorrect. Labeling the behavior assumes motive, is stigmatizing, and skips needed assessment."
+      ],
+      "rationale": "A fresh self-inflicted injury is a safety issue, so the nurse must assess the wound and directly evaluate current self-harm risk, then report it to the team. Safety information cannot be kept secret, and agreeing to do so would endanger the client and disrupt team consistency. Defending the night staff is tempting because it responds to splitting, but it is not the first priority when an injury is present. Labeling the behavior as attention-seeking assumes motive and is stigmatizing.",
+      "takeaway": "Self-injury calls for wound and risk assessment first; never promise secrecy about safety.",
+      "hintContent": "Two issues are present in the stem; decide which one could cause harm.",
+      "hintStrategy": "When a stem mixes relationship dynamics with a physical injury, address the injury and safety first.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-030",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A client with a documented history of antisocial personality disorder demands his next dose of pain medication 2 hours early. He steps close to the nurse with clenched fists and says, “Get it now, or you will be sorry.” Which action should the nurse take first?",
+      "options": [
+        "Tell him that threatening staff is manipulative and will be documented.",
+        "Explain the medication schedule and why the dose cannot be given early.",
+        "Turn away and leave to get the medication so that he will calm down.",
+        "Keep a safe distance with a clear exit and call for staff assistance."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Labeling him escalates conflict; documentation should describe behavior, not character.",
+        "Incorrect. Explaining the schedule may help later but does not address the immediate danger.",
+        "Incorrect. Turning one’s back is unsafe, and giving a dose early in response to threats bypasses the prescription.",
+        "Correct. Threats, clenched fists, and invasion of personal space signal possible imminent aggression, so the nurse protects safety and summons help."
+      ],
+      "rationale": "A verbal threat combined with invading personal space and clenched fists signals possible imminent aggression, so safety comes first. The nurse maintains distance, keeps an unobstructed exit, and summons help according to the facility’s response plan. Explaining the schedule is tempting because it seems calm and rational, but it does not address the immediate danger. Once the situation is safe, the nurse still assesses his pain, because the diagnosis does not reduce his right to appropriate symptom care.",
+      "takeaway": "When aggression appears imminent, secure safety and summon help before discussing the request.",
+      "hintContent": "Notice the physical cues accompanying the threat.",
+      "hintStrategy": "Safety of the client and staff comes before explanation, negotiation, or documentation.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-031",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "Three days after a below-the-knee amputation, a 62-year-old client refuses physical therapy, says, “Why bother?” and has eaten almost nothing for 2 days. He keeps the curtains closed and turns away from visitors. Which concern should the nurse investigate first?",
+      "options": [
+        "Inadequate nutrition related to refused meals",
+        "Disturbed body image related to the amputation",
+        "Depression with possible risk for self-harm",
+        "Impaired mobility related to refused therapy"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Nutrition matters, but poor intake is more likely a symptom of the underlying mood problem.",
+        "Incorrect. Body-image disturbance is likely, but it does not capture the danger suggested by “Why bother?” and global withdrawal.",
+        "Correct. Hopeless statements, withdrawal, and refusal of food and care together require assessment of mood and self-harm risk first.",
+        "Incorrect. Mobility goals depend on first understanding and responding to the mood and safety concerns."
+      ],
+      "rationale": "Body-image disturbance is likely after an amputation, but the cluster of a hopeless statement, withdrawal, refusal of care, and not eating raises concern for depression and possible self-harm. A direct safety assessment must come before body-image work, nutrition planning, or mobility goals. Disturbed body image is the most tempting answer because the amputation is the obvious trigger, yet it does not explain the global withdrawal or address the danger. Nutrition and mobility will be addressed once the nurse understands the underlying mood and safety concerns.",
+      "takeaway": "When body-image distress comes with hopelessness and global withdrawal, assess for depression and self-harm risk first.",
+      "hintContent": "Look past the obvious trigger and consider what the whole cluster of behaviors suggests.",
+      "hintStrategy": "Choose the hypothesis that explains the most cues and carries the greatest risk.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Postoperative Flow Sheet",
+            "table": {
+              "headers": [
+                "Day",
+                "Meal intake",
+                "Pain (0–10)",
+                "Physical therapy"
+              ],
+              "rows": [
+                [
+                  "Day 1",
+                  "40%",
+                  "6",
+                  "Participated, transferred to chair"
+                ],
+                [
+                  "Day 2",
+                  "10%",
+                  "3",
+                  "Refused"
+                ],
+                [
+                  "Day 3",
+                  "5%",
+                  "2",
+                  "Refused, stated “Why bother?”"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-032",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A college student scores 1 on the SCOFF questionnaire but tells the campus health nurse that she has vomited after most meals for 2 weeks and feels lightheaded when she stands. Which action should the nurse take next?",
+      "options": [
+        "Repeat the SCOFF questionnaire in 1 month to see whether the student’s score changes.",
+        "Reassure the student that the screen did not show an eating disorder.",
+        "Obtain vital signs, including orthostatic readings, and arrange further evaluation.",
+        "Teach the student to eat smaller, more frequent meals to reduce nausea."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Rescreening later delays evaluation of symptoms that may already be dangerous.",
+        "Incorrect. A score below the threshold does not erase concerning history or symptoms.",
+        "Correct. Current symptoms suggest fluid and electrolyte loss and require physical assessment regardless of the screening score.",
+        "Incorrect. Diet advice assumes a cause and skips assessment of a potentially serious problem."
+      ],
+      "rationale": "The SCOFF is a screen: two or more positive answers prompt further evaluation, but a score below that threshold does not erase concerning history or findings. Daily vomiting with lightheadedness suggests fluid and electrolyte loss, so the nurse assesses vital signs, including orthostatic changes, and arranges medical evaluation. Reassuring the student based on the score is tempting because the tool is validated, but no screen replaces assessment of current symptoms. Rescreening later or offering diet tips delays needed evaluation.",
+      "takeaway": "A negative screen never overrides concerning symptoms; assess the client in front of you.",
+      "hintContent": "Weigh what the screening score tells you against what the student is actually reporting.",
+      "hintStrategy": "When data conflict, act on the findings that suggest physical risk and assess before reassuring.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-033",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "During handoff, a nurse is told that a client with borderline personality disorder “is being dramatic again” because she is restless, pulling at her IV catheter, and saying she cannot breathe. Her oxygen saturation is 86% on room air. Which action should the nurse take first?",
+      "options": [
+        "Raise the head of the bed and apply oxygen per protocol.",
+        "Set a calm limit about pulling at the IV catheter.",
+        "Ask the client what is upsetting her this evening.",
+        "Notify the provider that the client is acting out again tonight."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. An oxygen saturation of 86% with dyspnea and restlessness indicates hypoxia, which must be treated first.",
+        "Incorrect. Limit setting addresses behavior but delays care for a life-threatening problem.",
+        "Incorrect. Exploring feelings is appropriate for distress but not before treating hypoxia.",
+        "Incorrect. The provider must be notified of the respiratory change, not a behavioral label, after immediate interventions."
+      ],
+      "rationale": "An oxygen saturation of 86% with restlessness and dyspnea indicates hypoxia, a physiologic emergency regardless of the client’s psychiatric history. The nurse addresses breathing first by positioning the client and applying oxygen per protocol, then notifies the provider of the respiratory change. Setting a limit is tempting because pulling at the IV is unsafe, but restlessness is itself a sign of hypoxia. A behavioral label must never obscure medical instability.",
+      "takeaway": "A personality-disorder label never explains away abnormal vital signs; treat the physiologic problem first.",
+      "hintContent": "Set aside the handoff label and look only at the objective data.",
+      "hintStrategy": "ABCs come first: an oxygen saturation in the 80s outranks any behavioral interpretation.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-034",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A client recovering from extensive burns to the arms and hands has been talking with the nurse about changes in appearance. Which statement requires the nurse’s immediate follow-up?",
+      "options": [
+        "“I hate how my hands look, and I cannot stand to see them myself.”",
+        "“I wear long sleeves now so that people will not stare at my arms.”",
+        "“I do not think I can go to my sister’s wedding looking the way I do now.”",
+        "“I have been saving my pain pills in case this gets to be too much.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Strong negative feelings about appearance are important but do not indicate a plan or means.",
+        "Incorrect. Concealing scars reflects body-image distress that deserves exploration but is not immediately dangerous.",
+        "Incorrect. Avoiding social events is a body-image concern to explore, not an immediate risk.",
+        "Correct. Stockpiling medication suggests a possible suicide plan with means and requires immediate safety assessment."
+      ],
+      "rationale": "Stockpiling medication “in case this gets to be too much” suggests a possible suicide plan with means, which requires immediate safety assessment and team notification. The other statements reflect body-image distress, such as concealing scars, avoiding social events, and disliking appearance, which deserve exploration but are not immediately dangerous. The statement about hating her hands is tempting because it sounds the most emotionally intense. Intensity of feeling does not equal risk, whereas access to means does.",
+      "takeaway": "Statements about saving medications signal possible suicide planning and outrank body-image distress.",
+      "hintContent": "Look for the statement that describes an action, not just a feeling.",
+      "hintStrategy": "In “immediate follow-up” items, choose the cue that suggests plan or means over the one that sounds most upset.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-035",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "At a prenatal visit, a client at 24 weeks’ gestation tells the nurse she eats several cups of ice and some laundry starch every day because she craves them. Which response by the nurse is most appropriate?",
+      "options": [
+        "Reassure her that unusual cravings are expected during pregnancy.",
+        "Ask how much she eats and report the findings so that she can be evaluated.",
+        "Tell her that eating starch means she has an eating disorder.",
+        "Advise her to eat only ice instead of starch, since ice is a harmless substitute."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Food cravings are common, but starch is a nonfood substance that warrants assessment.",
+        "Correct. Nonfood ingestion requires assessment of substance, amount, and hazards, and pica in pregnancy is often linked to iron-deficiency anemia.",
+        "Incorrect. A diagnosis cannot be made from one statement; assessment and evaluation come first.",
+        "Incorrect. Substituting ice skips evaluation of a possible underlying cause such as anemia."
+      ],
+      "rationale": "Persistent eating of nonfood substances such as laundry starch, beyond what is developmentally and culturally expected, is consistent with pica and requires assessment of the substance, amount, and hazards. Pica in pregnancy is often associated with iron-deficiency anemia, so the provider should evaluate her. Reassuring her that cravings are normal is tempting because food cravings are common in pregnancy, but starch is not food and may displace nutrients. Diagnosing an eating disorder from one statement or substituting ice skips assessment.",
+      "takeaway": "Nonfood ingestion calls for assessment of what, how much, and possible causes such as anemia, not reassurance.",
+      "hintContent": "Distinguish an ordinary food craving from eating a substance that is not food.",
+      "hintStrategy": "When a finding could have a physiologic cause, choose the option that assesses and reports rather than reassures or labels.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-036",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "The grandmother of a 10-year-old with Prader-Willi syndrome is learning about the child’s care. Which statement by the grandmother indicates understanding?",
+      "options": [
+        "“He just needs more willpower, so we will keep reminding him to stop asking for snacks.”",
+        "“His hunger is part of the syndrome, so we will lock up food and keep meals set.”",
+        "“If we let him eat whenever he wants, his hunger will eventually settle down.”",
+        "“We will punish him each time he takes food so that he learns it is wrong.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Prader-Willi hunger is not a matter of willpower or character.",
+        "Correct. Structure such as secured food and predictable meals addresses a physiologic drive without blame.",
+        "Incorrect. The hunger does not settle on its own, and unlimited intake creates health risks.",
+        "Incorrect. Punishing food-seeking blames the child for a physiologic drive."
+      ],
+      "rationale": "Prader-Willi syndrome is a genetic condition with complex needs, including persistent hunger that is not a character flaw or ordinary overeating. Families are taught to provide structure, such as secured food storage and predictable meal times, to reduce risk and anxiety. Unrestricted access is tempting as a way to reduce conflict, but the hunger does not settle on its own. Attributing the behavior to weak willpower or punishing food-seeking blames the child for a physiologic drive.",
+      "takeaway": "Prader-Willi hunger is genetic, not a character flaw; manage it with structure, not blame.",
+      "hintContent": "Consider whether the child’s food-seeking is a choice or part of the syndrome.",
+      "hintStrategy": "Eliminate options that blame the client for a condition’s symptoms.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-037",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "The parent of a 9-year-old reports that for several months the child has brought swallowed food back into the mouth after meals, rechewed it, and swallowed it again. The child shows no nausea, distress, or concern about weight. Which pattern should the nurse recognize?",
+      "options": [
+        "Avoidant/restrictive food intake disorder",
+        "Bulimia nervosa",
+        "Pica",
+        "Rumination disorder"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This involves limiting food from sensory sensitivity, fear, or low interest, not regurgitating eaten food.",
+        "Incorrect. Bulimia involves binge eating followed by compensatory behaviors driven by body-shape concerns, which this child does not show.",
+        "Incorrect. Pica is eating nonfood substances, which is not described.",
+        "Correct. Repeated regurgitation and rechewing without nausea or body-image concern is the defining pattern of rumination."
+      ],
+      "rationale": "Rumination involves repeated regurgitation of food that is rechewed, reswallowed, or spit out, without nausea or the purging seen in bulimia. Bulimia nervosa is the tempting answer because food comes back up, but bulimia involves binge eating followed by compensatory behaviors linked to body-shape concerns. Pica is eating nonfood substances, and avoidant/restrictive intake involves limiting food from sensory sensitivity, fear, or low interest. The nurse still reports the pattern for medical evaluation because it can affect nutrition and weight.",
+      "takeaway": "Regurgitating and rechewing food without nausea or body-image concern points to rumination, not bulimia.",
+      "hintContent": "Focus on what happens to the food and whether body-shape concerns are present.",
+      "hintStrategy": "For look-alike conditions, find the single defining feature in the stem and match it to one option.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-038",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A 26-year-old client reports eating large amounts of food in a short time about twice a week, feeling out of control, and then running for 2 or more hours to “cancel it out.” She denies vomiting or laxative use. Which pattern is most consistent with these findings?",
+      "options": [
+        "Bulimia-spectrum presentation with compensatory exercise",
+        "Binge-eating presentation without compensatory behavior",
+        "Anorexia-spectrum presentation with restrictive intake",
+        "Avoidant/restrictive intake related to a fear of eating"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Excessive exercise used to offset binges is a compensatory behavior, which fits a bulimia-spectrum pattern.",
+        "Incorrect. Binge-eating disorder lacks regular compensatory behavior, but running to “cancel it out” is compensatory.",
+        "Incorrect. Nothing in the stem describes primary restriction.",
+        "Incorrect. The client is not avoiding food from fear or sensory sensitivity."
+      ],
+      "rationale": "Bulimia involves recurrent binges followed by compensatory behaviors, which can include purging but also excessive exercise or fasting. Running for hours specifically to “cancel out” a binge is a compensatory behavior. Binge-eating presentation is the tempting answer because she denies vomiting and laxatives, but binge-eating disorder lacks the regular compensatory pattern. Nothing in the stem describes primary restriction or fear-based avoidance of food.",
+      "takeaway": "Compensatory behaviors include exercise and fasting, not just vomiting; their presence points toward a bulimia-spectrum pattern.",
+      "hintContent": "Ask what the running is for, not just whether she vomits.",
+      "hintStrategy": "Do not let a denied finding steer you; look for an equivalent behavior described in other words.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-039",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A 34-year-old client with widespread psoriasis tells the nurse he has stopped taking his children swimming. His partner, who is present, says, “You look fine. Nobody cares about your skin.” Which response by the nurse to the client is most therapeutic?",
+      "options": [
+        "“You could wear a long-sleeved swim shirt to cover the patches.”",
+        "“Your partner is right that most people will not notice your skin.”",
+        "“What concerns you most about going swimming with your children?”",
+        "“Swimming is great exercise, so it is worth trying to go again.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This jumps to a solution before the nurse understands the concern.",
+        "Incorrect. Reassurance based on appearance dismisses the client’s experience of his body.",
+        "Correct. An open-ended question lets the client describe what worries him before solutions are offered.",
+        "Incorrect. Promoting exercise ignores the body-image distress behind his avoidance."
+      ],
+      "rationale": "Body-image distress can limit valued roles and activities, and its meaning differs from person to person. An open-ended question lets the client describe what worries him, such as stares, comments, or his own discomfort, before the nurse suggests solutions. Agreeing with the partner is tempting because it sounds supportive, but reassurance based on appearance dismisses the client’s experience. Offering a swim shirt or promoting exercise jumps to solutions before the concern is understood.",
+      "takeaway": "Explore what a body change means to the client before reassuring or problem-solving.",
+      "hintContent": "The client has described a behavior change; find out the feeling behind it.",
+      "hintStrategy": "In communication items, choose exploration over reassurance or advice when no safety issue is present.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-040",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A nurse in a pediatric clinic overhears a colleague ask a 16-year-old two quick questions about eating in a crowded hallway and then document “SCOFF negative.” Which action by the nurse is most appropriate?",
+      "options": [
+        "Ask the same two questions again in the exam room to confirm the answers.",
+        "Accept the documented result because the teen answered no to both of the questions.",
+        "Add a note to the chart that the teen is at low risk for an eating disorder.",
+        "Discuss with the colleague rescreening privately using all of the SCOFF items."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Repeating the improvised questions privately still does not produce a valid SCOFF result.",
+        "Incorrect. An improvised two-question version cannot be reported as a formal SCOFF result and may give false reassurance.",
+        "Incorrect. This compounds an invalid result with an unsupported conclusion.",
+        "Correct. A validated tool must be given with its authorized wording, all items, and in a private setting to produce a valid result."
+      ],
+      "rationale": "A validated screening instrument must be given with its authorized wording, all items, and in a private setting; an improvised two-question version cannot be reported as a formal SCOFF result. The nurse addresses the practice directly with the colleague so the teen can be screened properly and the record corrected. Accepting the result is tempting because it was already documented, but an invalid screen can give false reassurance. Repeating only the same two questions privately repeats the same error.",
+      "takeaway": "A screening result is valid only when the tool is given as designed, privately and with every item.",
+      "hintContent": "Think about what makes a screening result trustworthy.",
+      "hintStrategy": "When a colleague’s practice threatens accuracy, choose the action that corrects it directly and protects the client.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-041",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "A new graduate nurse assigned to a client whose chart lists borderline personality disorder asks the preceptor what the diagnosis means for care. Which statement by the new graduate indicates correct understanding?",
+      "options": [
+        "“Her pain reports are likely to be exaggerated, so I should hold medication until I verify them.”",
+        "“It is an enduring pattern causing distress or impairment, so I still assess her concerns.”",
+        "“She will probably be manipulative, so I should share as little information as possible.”",
+        "“One angry outburst on admission is enough to confirm that the diagnosis is accurate.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Assuming exaggeration risks missing real pathology and withholds appropriate symptom care.",
+        "Correct. Personality disorders are enduring patterns, and the diagnosis does not reduce the need to assess each concern.",
+        "Incorrect. Withholding information because of an assumed motive is stigmatizing and undermines trust.",
+        "Incorrect. A single interaction never establishes a personality disorder diagnosis."
+      ],
+      "rationale": "Personality disorders are enduring patterns of thought and behavior that cause distress or impairment, and a single interaction never establishes the diagnosis. The diagnosis does not reduce a client’s right to honest explanation, privacy, and appropriate symptom care, so the nurse assesses each concern on its own merits. Assuming pain is exaggerated is tempting when a label suggests difficult behavior, but it risks missing real pathology. Withholding information because of an expected motive is stigmatizing.",
+      "takeaway": "A personality-disorder diagnosis describes an enduring pattern; it never replaces assessment of the client’s current concerns.",
+      "hintContent": "Consider whether a diagnosis should change how carefully each new concern is assessed.",
+      "hintStrategy": "Eliminate statements that use a label to justify withholding care or information.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-042",
+      "topic": "self-alterations",
+      "type": "mcq",
+      "stem": "An 80-year-old client being discharged after a hip fracture declines home health services, saying, “I do not deserve all this help. I would just be a burden.” Which response by the nurse is most appropriate?",
+      "options": [
+        "“If you refuse help, you may fall again and need surgery.”",
+        "“Everyone deserves help, so I will go ahead and set it up.”",
+        "“You feel you would be a burden. Tell me more about that.”",
+        "“Your family will worry less if you accept the services.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Using fear does not address the low self-worth that drives the decision.",
+        "Incorrect. Arranging services anyway overrides the client’s autonomy, despite good intentions.",
+        "Correct. Reflecting the feeling and inviting more detail helps the nurse understand the self-worth concern behind the refusal.",
+        "Incorrect. Appealing to guilt may reinforce her sense of being a burden."
+      ],
+      "rationale": "The statement suggests low self-esteem: the client places little value on herself and feels undeserving of care. Reflecting the feeling and inviting her to say more helps the nurse learn what lies beneath the refusal and assess mood and coping. Arranging services anyway is tempting because the services are needed, but it overrides her autonomy. Warning about falls or appealing to family worry uses fear or guilt rather than addressing the self-worth concern.",
+      "takeaway": "When low self-worth drives a refusal, explore the feeling before trying to change the decision.",
+      "hintContent": "Identify the feeling the client expressed and which response acknowledges it.",
+      "hintStrategy": "Reflection plus an open invitation is usually the most therapeutic choice when no immediate safety issue exists.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-043",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A 15-year-old with suspected anorexia nervosa is being assessed in the pediatric clinic. Which findings should the nurse recognize as consistent with physiologic effects of severe restriction? Select all that apply.",
+      "options": [
+        "Fine, downy hair on the arms and back",
+        "Resting heart rate of 46 beats/min",
+        "Systolic blood pressure drop of 22 mm Hg on standing",
+        "Warm, flushed skin on the face and neck",
+        "Temperature of 100.8°F (38.2°C)",
+        "Weight gain of 2 kg over the past month"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Lanugo is a recognized physical finding in eating disorders with severe restriction.",
+        "Correct. Bradycardia commonly results from severe restriction.",
+        "Correct. Orthostatic changes reflect hypovolemia and cardiovascular effects of restriction.",
+        "Incorrect. Severe restriction more often causes cold intolerance and cool extremities.",
+        "Incorrect. Fever is not an expected effect; low body temperature is more typical.",
+        "Incorrect. Weight loss, not gain, is expected with severe restriction."
+      ],
+      "rationale": "Severe restriction produces physiologic changes that may be present even before a diagnosis is confirmed. Lanugo, bradycardia, and orthostatic blood pressure changes are recognized findings that require reporting and medical evaluation. Fever and warm, flushed skin are not expected; low body temperature and cold intolerance are more typical. Recognizing these findings helps the nurse see that an eating disorder is a medical as well as a psychological problem.",
+      "takeaway": "Lanugo, bradycardia, and orthostatic changes are physical cues of severe restriction that need medical evaluation.",
+      "hintContent": "Think about how the body conserves energy when intake is severely limited.",
+      "hintStrategy": "For SATA findings items, evaluate each option against the underlying mechanism rather than guessing by pattern.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+    },
+    {
+      "id": "m29-x1-044",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A 20-year-old client tells the nurse, “I make myself throw up after I eat too much.” Which questions should the nurse ask during the initial assessment? Select all that apply.",
+      "options": [
+        "“How often does this happen in a typical week?”",
+        "“Have you had dizziness, fainting, or a racing heartbeat?”",
+        "“Do you use laxatives, diuretics, or other pills to lose weight?”",
+        "“Why can’t you simply stop once you know it is harmful?”",
+        "“Have you thought about just eating smaller portions instead?”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Frequency helps determine severity and medical risk.",
+        "Correct. These symptoms may indicate dehydration, electrolyte imbalance, or dysrhythmia.",
+        "Correct. Other compensatory methods add to fluid and electrolyte risk.",
+        "Incorrect. A “why” question is judgmental and may shame the client into silence.",
+        "Incorrect. Offering advice is premature and minimizes the problem."
+      ],
+      "rationale": "An initial assessment of purging focuses on frequency, physical symptoms, and all compensatory methods, because these determine medical risk. Dizziness, fainting, and palpitations can signal dehydration, hypokalemia, or dysrhythmias that need prompt evaluation. Asking “why” sounds direct but implies the problem is a matter of willpower and can end the conversation. Suggesting smaller portions offers premature advice that minimizes a serious problem.",
+      "takeaway": "Assess frequency, physical symptoms, and all compensatory behaviors without judgment.",
+      "hintContent": "Select questions that help determine how dangerous the behavior is right now.",
+      "hintStrategy": "Eliminate “why” questions and advice in assessment items; keep questions that gather data.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-045",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "The nurse teaches the parents of an 11-year-old who has started making negative comments about her body. Which statements by the parents indicate understanding of how to support a healthy body image? Select all that apply.",
+      "options": [
+        "“We will praise her effort and skills instead of her weight.”",
+        "“We will avoid joking about anyone’s body size at home.”",
+        "“We will weigh her weekly in front of the family to keep her on track.”",
+        "“We will look for physical activities she actually enjoys.”",
+        "“We will start her on a diet now so that she does not gain weight later.”"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Praising effort and skills reduces the link between body size and worth.",
+        "Correct. Discouraging appearance-based teasing reduces shame.",
+        "Incorrect. Public weigh-ins increase shame and focus on body size.",
+        "Correct. Enjoyable activity supports participation without making weight the focus.",
+        "Incorrect. Dieting reinforces body-size concerns and is not a body-image strategy."
+      ],
+      "rationale": "Supportive environments discourage appearance-based teasing, avoid public weigh-ins, and encourage enjoyable activity. Praising effort, skills, and personal strengths rather than body size helps separate worth from appearance. Weekly family weigh-ins are tempting to parents who want accountability, but they increase shame and focus on weight. Starting a diet reinforces the very concerns the parents are trying to reduce.",
+      "takeaway": "Support body image by praising strengths, avoiding weight talk and public weigh-ins, and encouraging enjoyable activity.",
+      "hintContent": "Ask whether each statement focuses attention on body size or on the child’s strengths.",
+      "hintStrategy": "For teaching evaluation items, select statements that reduce shame and eliminate those that increase focus on weight.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m29-x1-046",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A 70-year-old client has expressive aphasia after a stroke. Which observations should the nurse recognize as cues suggesting low self-esteem that warrant further exploration? Select all that apply.",
+      "options": [
+        "Refuses group therapy, writing “I am useless” on his board",
+        "Writes that he is “just a burden on everyone” now",
+        "Asks for help cutting the meat on his lunch tray",
+        "Practices his speech exercises with the therapist daily",
+        "Has stopped shaving, which his wife says he did every day for 40 years"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Self-devaluing words and withdrawal from activities suggest low self-esteem.",
+        "Correct. Seeing himself as a burden reflects low self-worth and also warrants safety assessment.",
+        "Incorrect. Asking for appropriate help is adaptive and reflects realistic self-assessment.",
+        "Incorrect. Engaging in rehabilitation suggests motivation and hope.",
+        "Correct. Abandoning a long-standing self-care routine can signal low self-worth and needs exploration."
+      ],
+      "rationale": "Low self-esteem may appear as self-devaluing statements, withdrawal from activities, and neglect of long-valued routines. Each of these cues warrants exploration, and statements about being a burden also call for a safety assessment. Asking for help with a task he cannot do is adaptive rather than a sign of low self-worth. Daily participation in speech therapy suggests motivation and hope.",
+      "takeaway": "Self-devaluing words, withdrawal, and abandoned routines are cues of low self-esteem; asking for appropriate help is not.",
+      "hintContent": "Separate behaviors that show giving up from those that show realistic adaptation.",
+      "hintStrategy": "In cue-recognition SATA items, select only findings that point toward the named problem.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-047",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A client recovering from facial surgery for skin cancer says, “I do not want my partner to see me until the swelling is gone.” Which possibilities should the nurse keep in mind while exploring this statement? Select all that apply.",
+      "options": [
+        "Fear of the partner’s reaction to the change in appearance",
+        "Concern for her safety within the relationship",
+        "A personal need for privacy during early recovery",
+        "Evidence that the client has a personality disorder",
+        "Proof that the relationship is ending",
+        "A sign that she wants no emotional support"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Anticipated rejection is a common body-image concern after visible surgery.",
+        "Correct. The statement may reflect relationship safety, which the nurse must not overlook.",
+        "Correct. Wanting privacy may be a reasonable personal preference rather than a problem.",
+        "Incorrect. One statement about a partner provides no basis for a personality diagnosis.",
+        "Incorrect. The statement does not establish anything about the relationship’s future.",
+        "Incorrect. Avoiding the partner does not mean she declines all support; that must be asked."
+      ],
+      "rationale": "A statement like this can reflect body-image distress, fear of rejection, relationship safety, or a simple need for privacy. The nurse should keep several explanations in mind and explore with open-ended questions rather than assume one cause. Asking privately about safety in the relationship is part of a complete assessment. Concluding that the relationship is ending, that she has a personality disorder, or that she wants no support goes far beyond the data.",
+      "takeaway": "One statement can have several meanings; explore body image, fear, safety, and privacy before assuming a cause.",
+      "hintContent": "List every reason a person might not want a partner to see them right now.",
+      "hintStrategy": "In hypothesis SATA items, select possibilities the data support and eliminate conclusions stated as certainty.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-048",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A 19-year-old client with anorexia nervosa is on day 3 of a nutrition-restoration plan. Review the exhibit. Which findings should the nurse report to the provider as possible signs of refeeding syndrome? Select all that apply.",
+      "options": [
+        "Phosphorus 1.7 mg/dL",
+        "Potassium 3.1 mEq/L",
+        "Magnesium 1.2 mEq/L",
+        "Sodium 138 mEq/L",
+        "Glucose 88 mg/dL",
+        "Weight gain of 0.4 kg since admission"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Low phosphorus is the hallmark electrolyte change of refeeding syndrome.",
+        "Correct. Potassium shifts into cells during refeeding and can cause dysrhythmias.",
+        "Correct. Low magnesium is part of the refeeding pattern and increases dysrhythmia risk.",
+        "Incorrect. This sodium level is within the reference range.",
+        "Incorrect. This glucose level is within the reference range.",
+        "Incorrect. Gradual weight gain is an expected goal of nutrition restoration."
+      ],
+      "rationale": "When nutrition is restarted after severe restriction, insulin release drives phosphate, potassium, and magnesium into cells, lowering serum levels. Phosphorus 1.7 mg/dL, potassium 3.1 mEq/L, and magnesium 1.2 mEq/L are all below their reference ranges and can lead to weakness, respiratory compromise, and dysrhythmias. Sodium and glucose are normal. Gradual weight gain is the intended outcome of treatment, not a complication.",
+      "takeaway": "Refeeding syndrome lowers phosphate, potassium, and magnesium; report these early in nutrition restoration.",
+      "hintContent": "Compare each value with its reference range and recall which electrolytes shift into cells when feeding resumes.",
+      "hintStrategy": "In lab SATA items, check each value against its range and the condition named in the stem.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Laboratory Results, Day 3",
+            "table": {
+              "headers": [
+                "Test",
+                "Result",
+                "Reference range"
+              ],
+              "rows": [
+                [
+                  "Phosphorus",
+                  "1.7 mg/dL",
+                  "2.5–4.5 mg/dL"
+                ],
+                [
+                  "Potassium",
+                  "3.1 mEq/L",
+                  "3.5–5.0 mEq/L"
+                ],
+                [
+                  "Magnesium",
+                  "1.2 mEq/L",
+                  "1.5–2.5 mEq/L"
+                ],
+                [
+                  "Sodium",
+                  "138 mEq/L",
+                  "135–145 mEq/L"
+                ],
+                [
+                  "Glucose",
+                  "88 mg/dL",
+                  "70–100 mg/dL"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Weight",
+            "table": {
+              "headers": [
+                "Day",
+                "Weight"
+              ],
+              "rows": [
+                [
+                  "Admission",
+                  "41.2 kg"
+                ],
+                [
+                  "Day 3",
+                  "41.6 kg"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-049",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A 23-year-old client has a positive SCOFF screen, lanugo, and a 9-kg weight loss over 3 months. Which team members should the nurse anticipate involving in the client’s care? Select all that apply.",
+      "options": [
+        "A mental-health professional for evaluation and therapy",
+        "A registered dietitian for nutrition assessment and planning",
+        "The primary provider to evaluate medical complications",
+        "A personal trainer to design a weight-maintenance exercise plan",
+        "The employer’s human resources office to arrange schedule changes"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Comprehensive psychological evaluation and treatment are needed after a positive screen.",
+        "Correct. Nutrition restoration requires specialized planning, not a nurse-designed regimen.",
+        "Correct. Lanugo and weight loss suggest physical effects that need medical evaluation.",
+        "Incorrect. Exercise planning by a trainer is not part of eating-disorder treatment and may reinforce compensatory behavior.",
+        "Incorrect. Contacting an employer without consent violates privacy and is not part of the clinical team."
+      ],
+      "rationale": "A positive screen with physical findings calls for coordinated interprofessional care. The mental-health professional provides diagnosis and therapy, the dietitian plans nutrition restoration, and the provider evaluates medical complications such as electrolyte and cardiac effects. The nurse supports coping and monitors the plan but does not independently design an aggressive feeding regimen. A personal trainer may reinforce compensatory exercise, and contacting an employer without consent violates privacy.",
+      "takeaway": "Eating disorders require coordinated mental-health, nutrition, and medical care.",
+      "hintContent": "Think about which disciplines address the mind, the nutrition, and the body.",
+      "hintStrategy": "For team-member SATA items, choose disciplines with a clear clinical role and eliminate those that breach privacy.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m29-x1-050",
+      "topic": "self-alterations",
+      "type": "sata",
+      "stem": "A nurse is evaluating a 45-year-old client’s adaptation 2 weeks after a below-the-knee amputation. Which behaviors suggest the client is beginning to integrate the change in body image? Select all that apply.",
+      "options": [
+        "Looks at the residual limb during the dressing change",
+        "Asks when he can be fitted for a prosthesis",
+        "Keeps the limb covered with a blanket during all visits",
+        "Touches the residual limb while learning to wrap it",
+        "States, “I will never let my kids see me like this.”"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Looking at the limb shows growing acceptance of the change.",
+        "Correct. Planning for a prosthesis shows engagement with life after the change.",
+        "Incorrect. Consistent concealment suggests ongoing avoidance rather than integration.",
+        "Correct. Touching and caring for the limb is a concrete sign of integration.",
+        "Incorrect. This statement shows continued distress and avoidance, not integration."
+      ],
+      "rationale": "Integration of a body-image change is shown through behavior: looking at, touching, and caring for the changed body part, and planning for future function. Looking at the limb, touching it during care, and asking about a prosthesis are concrete signs of progress. Constant concealment and refusing to let family see the change suggest ongoing distress that needs continued support. Recovery may be gradual, so the nurse does not demand immediate acceptance.",
+      "takeaway": "Integration of a body change appears as looking at, touching, caring for, and planning around the change.",
+      "hintContent": "Look for behaviors that move toward the changed body part rather than away from it.",
+      "hintStrategy": "In evaluation SATA items, choose observable behaviors that show progress toward the stated goal.",
+      "ref": "Module 29 · Alterations in Self · slides 18–25, 31–35",
+      "alsoTests": [
+        "self-nursing-care"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-051",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A nurse learns that a colleague has given her personal cell phone number to a client on the unit and has been texting the client every evening. The colleague says, “Please do not tell anyone. It is really helping her.” What is the nurse’s best action?",
+      "options": [
+        "Report the situation to the nurse manager.",
+        "Agree to keep the situation confidential for now.",
+        "Text the client to explain the boundary.",
+        "Wait to see whether the texting stops."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Ongoing personal contact is a boundary violation, and reporting to the manager follows the chain of command.",
+        "Incorrect. Keeping the secret allows a boundary violation that can harm the client to continue.",
+        "Incorrect. Contacting the client personally repeats the violation and bypasses the proper process.",
+        "Incorrect. Waiting allows the boundary violation to continue."
+      ],
+      "rationale": "Ongoing personal contact with a client outside the professional role is a boundary violation, even when the nurse believes it helps. Boundaries protect the purpose and safety of the therapeutic relationship, and a request for secrecy is itself a warning sign. Because the colleague has asked for silence and the contact continues, the nurse follows the chain of command by reporting to the nurse manager. Keeping quiet or waiting is tempting to protect a coworker, but it allows potential harm to the client to continue.",
+      "takeaway": "Boundary violations that continue in secret are reported through the chain of command.",
+      "hintContent": "Consider whose interests the professional boundary protects.",
+      "hintStrategy": "When client welfare is at risk from a colleague’s conduct, choose the option that escalates through the chain of command.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-052",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A 30-year-old client admitted for depression and low self-esteem says to the nurse, “I will tell you something important, but only if you promise not to tell anyone else.” Which response should the nurse make?",
+      "options": [
+        "“I cannot promise that, because safety concerns must be shared with the team.”",
+        "“You can trust me. Whatever you say will stay between the two of us.”",
+        "“It is fine if you would rather not share. We can talk about it later.”",
+        "“I will only tell your provider if I think it is something really serious or dangerous.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This is honest about the limits of confidentiality while still inviting the client to talk.",
+        "Incorrect. A promise of secrecy may have to be broken, which would damage trust.",
+        "Incorrect. Postponing may close the door on an important disclosure.",
+        "Incorrect. This is still a misleading promise with a vague condition."
+      ],
+      "rationale": "Trust is built on honesty, so the nurse must not make a promise that may have to be broken. Explaining up front that information affecting safety is shared with the treatment team keeps the relationship honest and still invites the client to talk. Promising secrecy is tempting because it seems to build rapport, but it sets up a betrayal if the client discloses self-harm plans. Postponing the conversation may lose an important disclosure, and a vague condition about something “really serious” is still misleading.",
+      "takeaway": "Never promise secrecy; explain honestly that safety information is shared with the team.",
+      "hintContent": "Think about what happens to trust if the client reveals a plan to harm herself.",
+      "hintStrategy": "Choose the honest response that keeps the conversation open over one that buys rapport with a false promise.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-053",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A client who had facial surgery 2 days ago is found in the bathroom holding a disposable razor and crying, “I cannot live looking like this.” Which action should the nurse take first?",
+      "options": [
+        "Reassure the client that the swelling will improve in a few weeks.",
+        "Leave to notify the provider of the client’s statement right away.",
+        "Stay with the client and call for help while asking for the razor.",
+        "Ask the client to describe what she sees when she looks in the mirror."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reassurance does not address the immediate danger.",
+        "Incorrect. Leaving the client alone with a means of self-harm could be fatal.",
+        "Correct. Staying, summoning help, and removing the means address immediate risk of self-harm.",
+        "Incorrect. Body-image exploration is appropriate only after immediate safety is secured."
+      ],
+      "rationale": "A client expressing a wish not to live while holding a potential means of self-harm is at immediate risk. The nurse stays with the client, summons help, and calmly asks for the razor so the means can be removed. Notifying the provider is tempting because it is necessary, but leaving the client alone even briefly could be fatal. Exploring body-image feelings and offering reassurance are appropriate only after immediate safety is secured.",
+      "takeaway": "With immediate self-harm risk, stay with the client, get help, and remove the means before anything else.",
+      "hintContent": "Ask what could happen if the nurse leaves the room.",
+      "hintStrategy": "Never leave a client at imminent risk alone; call for help from the bedside.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-054",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A 22-year-old client began sertraline for major depression and low self-worth 10 days ago. Review the exhibit. Which action should the nurse take first?",
+      "options": [
+        "Document that the medication is improving the client’s mood.",
+        "Ask the client directly whether he is thinking about suicide.",
+        "Encourage the client to attend the afternoon self-esteem group.",
+        "Teach the client that sertraline’s full benefit takes 4 to 6 weeks."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Increased energy in this context signals danger rather than recovery.",
+        "Correct. Sudden calm, giving away a valued possession, and “made my plans” early in antidepressant therapy are suicide warning signs.",
+        "Incorrect. Group participation is appropriate later but does not address possible imminent risk.",
+        "Incorrect. Teaching about onset is accurate but does not address the warning signs present now."
+      ],
+      "rationale": "Early in antidepressant therapy, energy can improve before mood does, which can give a depressed client the energy to act on suicidal thoughts; antidepressants carry a boxed warning about suicidality in children and young adults. Sudden calm, giving away a valued possession, and saying he has “made his plans” are classic warning signs. The nurse asks directly about suicidal thoughts and plans and follows the safety protocol. Documenting improvement is tempting because the client is up and showered, but these changes in context signal danger.",
+      "takeaway": "Sudden calm, giving away possessions, and new energy early in antidepressant therapy call for a direct suicide assessment.",
+      "hintContent": "Compare the two notes and ask what could explain the sudden change.",
+      "hintStrategy": "When improvement appears suddenly alongside warning signs, assume risk until a direct assessment rules it out.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Medication Administration Record",
+            "table": {
+              "headers": [
+                "Medication",
+                "Dose / route",
+                "Frequency",
+                "Start"
+              ],
+              "rows": [
+                [
+                  "Sertraline",
+                  "50 mg PO",
+                  "Daily",
+                  "Day 1"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Nurse’s Notes",
+            "table": {
+              "headers": [
+                "Day",
+                "Note"
+              ],
+              "rows": [
+                [
+                  "Day 1",
+                  "In bed most of the day. Flat affect. States, “I am worthless. Nothing I do matters.”"
+                ],
+                [
+                  "Day 10",
+                  "Up early, showered, and dressed. Gave his guitar to his roommate. States, “I feel calm now that I have made my plans.”"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-055",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A client recovering from a stroke agreed yesterday to brush his own teeth at the sink with standby assistance. Today he stays in bed and says, “Just do it for me.” What should the nurse do first?",
+      "options": [
+        "Document that the client is noncompliant with the self-care plan.",
+        "Remind him that he agreed to this goal and should follow through.",
+        "Brush his teeth for him and remove the goal from the care plan.",
+        "Ask what is different today, including pain, fatigue, or mood."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Labeling noncompliance treats the result as a moral failure rather than information.",
+        "Incorrect. This treats the setback as defiance and may damage trust and self-esteem.",
+        "Incorrect. Abandoning the goal before knowing the barrier gives up a meaningful step.",
+        "Correct. Assessing why a goal was not met identifies barriers before the plan is changed."
+      ],
+      "rationale": "When a client does not meet an agreed goal, the nurse first assesses why; pain, fatigue, mood, understanding, or readiness may all interfere. The result is information, not a moral failure. Holding him to his agreement or documenting noncompliance treats the setback as defiance and can damage self-esteem and trust. Taking over and removing the goal is tempting because it avoids conflict, but it abandons a meaningful step before the nurse knows what got in the way.",
+      "takeaway": "When a goal is not met, assess the barrier before revising the plan or judging the client.",
+      "hintContent": "Consider what might have changed since yesterday.",
+      "hintStrategy": "Assess before acting: choose the option that gathers information about the setback.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-056",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A client on a medical unit who became physically aggressive toward staff has been calmed with verbal de-escalation and is now resting. As charge nurse, what should the nurse do first?",
+      "options": [
+        "Update the care plan with the client’s known triggers.",
+        "Hold a team debriefing to review what went well.",
+        "Check the client and involved staff for any injuries.",
+        "Document the incident in the client’s health record."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Updating the plan supports consistency but is not the first priority.",
+        "Incorrect. Debriefing is important but follows assessment for injuries.",
+        "Correct. After an aggressive episode, physical safety of everyone involved comes first.",
+        "Incorrect. Documentation is required but follows care of anyone who may be injured."
+      ],
+      "rationale": "After an aggressive episode ends, the first priority is the physical safety of everyone involved, so the client and staff are checked for injuries that need treatment. Debriefing, updating the plan with triggers, and documenting observable behavior and response are all important and should follow promptly. Debriefing is tempting because it supports staff and team consistency, but it cannot come before addressing possible harm. Safety, then communication and documentation, is the usual order.",
+      "takeaway": "After an aggressive incident, check everyone for injury first; debrief, plan, and document afterward.",
+      "hintContent": "Think about which need could worsen if it waits.",
+      "hintStrategy": "When all options are correct actions, order them: physical safety, then communication, then documentation.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-057",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "The mother of a 27-year-old client admitted for an eating disorder calls the unit and asks how her daughter is doing and whether she has been eating. The client has not authorized anyone to receive information. What should the nurse do first?",
+      "options": [
+        "Transfer the call to the client’s room so that the two can talk.",
+        "Share general progress only, because the mother is the client’s next of kin.",
+        "Tell the mother that her daughter is eating well and is doing fine.",
+        "Explain that information cannot be shared without the client’s permission."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Transferring the call confirms her presence and removes the client’s choice.",
+        "Incorrect. Next-of-kin status does not authorize disclosure without the client’s agreement.",
+        "Incorrect. Sharing any details without permission violates privacy.",
+        "Correct. An adult client controls who receives her health information."
+      ],
+      "rationale": "An adult client controls who receives her health information, and including family requires her agreement under privacy rules. The nurse explains that information cannot be shared without permission and can later ask the client whether she wants her mother involved. Sharing “general” progress is tempting because the mother is family and concerned, but next-of-kin status does not authorize disclosure. Transferring the call without asking also reveals that the client is on the unit and removes her choice.",
+      "takeaway": "Include family only with the adult client’s agreement; concern or kinship does not authorize disclosure.",
+      "hintContent": "Identify who decides what information is shared about an adult client.",
+      "hintStrategy": "In privacy items, choose the response that protects confidentiality while remaining courteous to the caller.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-058",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A client who had a radical neck dissection with tracheostomy 4 days ago gestures for a mirror for the first time. Which action should the nurse take first?",
+      "options": [
+        "Ask what the client expects to see and describe the changes before giving the mirror.",
+        "Hand the mirror over right away so the client feels in control of the situation.",
+        "Tell the client to wait until the swelling has gone down before looking at the incision.",
+        "Offer the mirror and then leave the room to give the client privacy for a while."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Preparing the client for what they will see reduces shock and supports adaptation.",
+        "Incorrect. Immediate access without preparation can be overwhelming at a vulnerable moment.",
+        "Incorrect. This overrides the client’s signal of readiness to see the change.",
+        "Incorrect. Leaving removes support when the client may need it most."
+      ],
+      "rationale": "Seeing a major change in appearance for the first time can be overwhelming, so the nurse prepares the client by exploring expectations and describing what they will see, then stays to offer support. The client’s readiness to look should be respected rather than delayed. Handing the mirror over immediately is tempting because it seems to honor autonomy, but it skips preparation. Leaving the client alone removes support at a vulnerable moment.",
+      "takeaway": "When a client is ready to see a body change, prepare them first and stay to support them.",
+      "hintContent": "Consider what the client needs before, during, and after the first look.",
+      "hintStrategy": "Choose the option that respects readiness while providing preparation and presence.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-059",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A 41-year-old firefighter with healing burns to both hands is frustrated about needing help with every meal. Which goal is the most appropriate initial goal to support his self-efficacy?",
+      "options": [
+        "Client will verbalize acceptance of his altered hands before discharge.",
+        "Client will feed himself breakfast with adaptive utensils within 1 week.",
+        "Client will return to full duty as a firefighter within one month.",
+        "Client will state that the appearance of his hands no longer matters to him."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Demanding emotional acceptance sets a goal he may not be ready to meet.",
+        "Correct. This goal is specific, realistic, measurable, and directly addresses his frustration.",
+        "Incorrect. This is unrealistic for healing burns and sets him up for failure.",
+        "Incorrect. Requiring this statement dismisses a real loss and is not a measurable functional goal."
+      ],
+      "rationale": "Self-efficacy grows through successful experiences with achievable, meaningful tasks. Self-feeding with adaptive utensils is specific, measurable, realistic, and directly addresses his stated frustration. Demanding acceptance or a statement that appearance does not matter sets an emotional goal the client may not be ready for. A return to full duty within a month is tempting because it matches his valued role, but it is unrealistic for healing burns and would undermine confidence.",
+      "takeaway": "Build self-efficacy with a small, specific, realistic goal tied to what matters most to the client now.",
+      "hintContent": "Look for the goal the client could actually achieve soon that addresses his stated frustration.",
+      "hintStrategy": "For goal-selection items, choose the option that is specific, measurable, realistic, and client-centered.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-060",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "An assistive personnel reports that while helping a client with a new colostomy bathe, the client cried and said, “Everyone would be better off without me.” The assistive personnel adds, “I told her not to talk like that.” What should the RN do first?",
+      "options": [
+        "Teach the assistive personnel a better way to respond.",
+        "Go to the client now to assess for thoughts of suicide.",
+        "Notify the provider about the client’s statement.",
+        "Arrange for an ostomy nurse to visit the client today."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Coaching is important, but it can wait until the client is safe.",
+        "Correct. The statement may indicate suicidal thinking, and assessment is the RN’s responsibility and cannot be delegated.",
+        "Incorrect. The provider should be notified after the RN assesses the client’s risk.",
+        "Incorrect. An ostomy referral supports body image but does not address immediate risk."
+      ],
+      "rationale": "A statement that others would be better off without her may indicate suicidal thinking and requires immediate assessment by the RN; assessment cannot be delegated. The RN goes to the client first to assess risk directly and keep her safe. Coaching the assistive personnel is tempting because the response was nontherapeutic, but it can wait until the client is safe. Notifying the provider follows the RN’s assessment, and an ostomy referral addresses body image but not the immediate risk.",
+      "takeaway": "A reported statement suggesting suicide requires the RN’s immediate, direct assessment of the client.",
+      "hintContent": "Decide which concern in the report could put the client in danger.",
+      "hintStrategy": "Assessment belongs to the RN; when a report suggests risk, see the client before addressing staff or referrals.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m29-x1-061",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "The charge nurse reviews the day assignments shown in the exhibit. Which assignment should be changed?",
+      "options": [
+        "Assistive personnel teaching pouch care to the client with a new ileostomy",
+        "RN completing the admission assessment for the client after a suicide attempt",
+        "LPN reinforcing meal-plan teaching for the client with anorexia nervosa",
+        "Assistive personnel helping the stable client after mastectomy to shower"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Initial teaching requires assessment and evaluation of learning and cannot be delegated to assistive personnel.",
+        "Incorrect. Admission and safety assessment of a high-risk client is appropriately assigned to the RN.",
+        "Incorrect. Reinforcing established teaching for a stable client is within LPN scope.",
+        "Incorrect. Assisting a stable client with hygiene while preserving privacy is appropriate to delegate."
+      ],
+      "rationale": "Initial teaching includes assessing learning needs and evaluating understanding, so it belongs to the RN and cannot be delegated to assistive personnel. Teaching ostomy care to a client who may also be adjusting to a body-image change requires nursing judgment. Admission and safety assessment of a client after a suicide attempt is appropriately assigned to the RN. The LPN may reinforce teaching already provided, and assistive personnel may help a stable client shower while preserving privacy.",
+      "takeaway": "Assessment, initial teaching, and evaluation stay with the RN; hygiene for stable clients may be delegated.",
+      "hintContent": "Identify which task requires teaching and evaluation rather than routine care.",
+      "hintStrategy": "In assignment exhibits, check each task against the scope of the staff member assigned.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Day Assignments",
+            "table": {
+              "headers": [
+                "Staff member",
+                "Client",
+                "Assigned task"
+              ],
+              "rows": [
+                [
+                  "RN",
+                  "Client admitted 1 hour ago after a suicide attempt",
+                  "Complete admission and safety assessment"
+                ],
+                [
+                  "LPN",
+                  "Client with anorexia nervosa, stable, day 10",
+                  "Reinforce meal-plan teaching provided by the dietitian"
+                ],
+                [
+                  "Assistive personnel",
+                  "Client with new ileostomy, postoperative day 2",
+                  "Teach the client how to empty and change the pouch"
+                ],
+                [
+                  "Assistive personnel",
+                  "Client recovering from mastectomy, stable",
+                  "Assist with shower, preserving privacy"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m29-x1-062",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "On the day of discharge, a client who has worked with the nurse on coping with a new disability says, “You are the only person who really gets me. Can I have your phone number so we can keep talking?” Which response is best?",
+      "options": [
+        "“You should not feel that way. Many people at home understand you, too.”",
+        "“Sure, but please call me only if something urgent comes up after you go home.”",
+        "“I am not allowed to, but you can find me on social media if you want to.”",
+        "“I cannot share my number, but let’s list people and services you can call.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Telling the client how not to feel dismisses the emotion.",
+        "Incorrect. Limiting calls to urgent matters still creates a personal relationship outside the professional role.",
+        "Incorrect. Social media contact is the same boundary violation in another form.",
+        "Correct. This states the boundary kindly and redirects the client to ongoing support."
+      ],
+      "rationale": "A therapeutic relationship is professional and time-limited, and personal contact after discharge crosses that boundary even when the request is sincere. The nurse kindly states the limit and redirects the client to supports such as a counselor, support group, or crisis line. Agreeing to urgent-only calls is tempting because it feels compassionate, but it still creates a personal relationship. Suggesting social media is the same violation, and telling the client not to feel that way dismisses the feeling.",
+      "takeaway": "State the professional boundary kindly and redirect the client to sustainable supports.",
+      "hintContent": "Consider whether the therapeutic relationship continues after discharge.",
+      "hintStrategy": "Choose the response that maintains the boundary and still meets the client’s underlying need.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-063",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A client with borderline personality disorder uses the call light every few minutes to ask the nurse for small favors and becomes upset when the nurse cannot come immediately. Which intervention is most appropriate?",
+      "options": [
+        "Ignore the call light until the client learns to wait patiently.",
+        "Answer every call immediately so that the client does not feel abandoned.",
+        "Schedule brief check-ins at set times that all staff follow consistently.",
+        "Assign a different nurse each shift so that no one becomes overwhelmed."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Ignoring calls is unsafe and punitive.",
+        "Incorrect. This reinforces the pattern and is not sustainable.",
+        "Correct. Predictable structure applied by all staff reduces anxiety and repeated requests while maintaining the relationship.",
+        "Incorrect. Rotating staff increases inconsistency, which can worsen distress."
+      ],
+      "rationale": "Clear, predictable structure applied consistently by all staff reduces anxiety and repeated demands while maintaining the relationship. Scheduled check-ins tell the client when the nurse will return, and keeping them reliably builds trust, while urgent calls are still answered. Answering every call immediately is tempting because it avoids upset, but it reinforces the pattern and cannot be sustained. Ignoring the call light is unsafe, and rotating nurses increases inconsistency.",
+      "takeaway": "Consistent, scheduled contact that every staff member follows is a therapeutic limit, not a punishment.",
+      "hintContent": "Think about what reduces the client’s need to keep calling.",
+      "hintStrategy": "Prefer the option that is consistent, predictable, and team-based over extremes of giving in or withdrawing.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-064",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A college student receiving cognitive behavioral therapy for low self-esteem tells the nurse, “I failed one exam, so I am a complete failure at everything.” Which response best reinforces the treatment approach?",
+      "options": [
+        "“Let’s focus on deep breathing to help you calm down now.”",
+        "“Do not be so hard on yourself; one exam is no big deal.”",
+        "“What evidence do you have that you fail at everything?”",
+        "“Tell me about your childhood and how your parents judged you.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Breathing is a useful coping tool but does not address the distorted thought.",
+        "Incorrect. Reassurance dismisses the feeling and does not teach a skill.",
+        "Correct. Examining evidence for an all-or-nothing thought reinforces a core CBT skill.",
+        "Incorrect. Exploring childhood belongs to other approaches and does not reinforce CBT."
+      ],
+      "rationale": "CBT examines the links among thoughts, feelings, and behavior and helps clients test distorted thoughts against evidence. Asking for evidence invites the student to examine the all-or-nothing belief rather than accept it. Reassurance is tempting because it sounds supportive, but it dismisses the feeling and does not teach a skill. Breathing addresses arousal rather than the thought, and exploring childhood does not reinforce this treatment approach.",
+      "takeaway": "Reinforce CBT by helping the client test a distorted thought against evidence.",
+      "hintContent": "Recall what CBT focuses on: thoughts, feelings, and behavior.",
+      "hintStrategy": "When the stem names a therapy, choose the response that uses that therapy’s specific technique.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-065",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A 13-year-old hospitalized for an eating disorder becomes silent whenever the nurse asks about feelings but spends free time drawing in a sketchbook. Which nursing intervention best fits the teen’s current way of expressing emotions?",
+      "options": [
+        "Invite the teen to use drawing or journaling to express feelings.",
+        "Insist that the teen answer questions about feelings at each visit.",
+        "Remove art supplies until the teen participates in talk therapy.",
+        "Ask the parents to explain the teen’s feelings to the care team."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Expressive approaches build on an existing strength and give another route for communication.",
+        "Incorrect. Pressure to talk may deepen withdrawal and harm trust.",
+        "Incorrect. Removing a valued activity is punitive and not therapeutic.",
+        "Incorrect. Parents speaking for the teen bypasses the adolescent’s own voice."
+      ],
+      "rationale": "Expressive approaches such as art and journaling give clients another route to communicate feelings when talking is difficult. Building on a teen’s existing interest is a strength-based way to support engagement and trust. Insisting on verbal answers is tempting because talk is the usual way to assess feelings, but pressure may deepen withdrawal. Removing supplies is punitive, and having parents speak for the teen bypasses the adolescent’s own voice.",
+      "takeaway": "When talking is hard, use the client’s preferred form of expression, such as art or journaling.",
+      "hintContent": "Notice what the teen already does comfortably.",
+      "hintStrategy": "Choose the strength-based option that meets the client where they are.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-066",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "The wife of a client with a recent above-the-knee amputation insists on doing all of his care, including tasks he performed independently in rehabilitation. The client has become quiet and passive. Which action by the nurse is best?",
+      "options": [
+        "Tell the client to insist that his wife stop helping him with everything.",
+        "Praise the wife’s devotion and let her continue providing all of his care.",
+        "Ask the wife to stop visiting until the client becomes more independent.",
+        "Teach the wife to encourage his independence and help only when needed."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This shifts the burden to the client without supporting either partner.",
+        "Incorrect. This reinforces dependence and may further lower his self-esteem.",
+        "Incorrect. Restricting visits damages a key support relationship.",
+        "Correct. Teaching the family to support what the client can do protects his confidence and independence."
+      ],
+      "rationale": "Families support self-concept when they encourage the client to do what he can and step in only when needed. The wife is likely trying to help, so the nurse teaches rather than blames, explaining how his participation protects his independence and confidence. Praising her devotion while letting her take over is tempting because her intentions are good, but it reinforces dependence. Restricting her visits or putting the burden on the client to confront her damages a key support relationship.",
+      "takeaway": "Teach families to support the client’s independence rather than take over care.",
+      "hintContent": "Consider what the client’s growing passivity suggests about the current arrangement.",
+      "hintStrategy": "Choose the option that keeps the family involved while redirecting their help.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-development"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-067",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "During a conversation about his depression, a client asks the nurse, “Have you ever felt this hopeless?” Which response by the nurse is most therapeutic?",
+      "options": [
+        "“Yes, after my divorce I felt hopeless for most of that year, too.”",
+        "“I have had hard times, but tell me what this hopelessness is like for you.”",
+        "“That is personal, and I do not share details of my private life with clients.”",
+        "“Everyone feels down sometimes, and it always gets better in time.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Detailed self-disclosure shifts the focus to the nurse.",
+        "Correct. A brief acknowledgment followed by a refocusing question keeps attention on the client.",
+        "Incorrect. A flat refusal can feel rejecting and close the conversation.",
+        "Incorrect. This is false reassurance that may make the client feel misunderstood."
+      ],
+      "rationale": "Therapeutic communication keeps the focus on the client. A brief acknowledgment followed by a refocusing question respects the client’s question while returning to his experience and allowing assessment of hopelessness, including safety. Sharing a personal story is tempting because it feels genuine, but it shifts attention to the nurse and can burden the client. A flat refusal feels rejecting, and promising that it always gets better is false reassurance.",
+      "takeaway": "Keep self-disclosure brief and return the focus to the client’s experience.",
+      "hintContent": "Ask whose feelings each response focuses on.",
+      "hintStrategy": "Eliminate responses that center the nurse, shut the client down, or offer false reassurance.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-068",
+      "topic": "self-nursing-care",
+      "type": "mcq",
+      "stem": "A client on an inpatient behavioral health unit tells the nurse, “The evening nurse lets me keep my phone after 10 p.m. You are the mean one.” The team-agreed plan limits phone use after 10 p.m. Which response is best?",
+      "options": [
+        "“I will make an exception tonight because the evening nurse already did.”",
+        "“The team plan is no phones after 10. I will check that we are all following it.”",
+        "“The evening nurse should not have done that, and I am going to report her for it.”",
+        "“If you keep comparing staff, you will lose your phone privileges entirely.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Making exceptions reinforces inconsistency and confusion.",
+        "Correct. Restating the agreed plan calmly and following up with the team promotes consistency.",
+        "Incorrect. Criticizing a colleague to the client escalates conflict and splits the team.",
+        "Incorrect. Threatening punishment turns a limit into a penalty."
+      ],
+      "rationale": "Inconsistent rules increase confusion and conflict, and clients may highlight differences among staff. The nurse calmly restates the agreed plan and follows up with the team so everyone applies the same expectation. Making an exception is tempting because it avoids conflict, but it reinforces inconsistency. Criticizing the colleague to the client or threatening punishment escalates conflict and turns a limit into a punishment.",
+      "takeaway": "Respond to staff comparisons by restating the team plan calmly and restoring consistency behind the scenes.",
+      "hintContent": "Think about what the client needs to hear and what the team needs to do.",
+      "hintStrategy": "Choose the response that is consistent, nonpunitive, and does not criticize colleagues in front of the client.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m29-x1-069",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "A client in the emergency department has been shouting at other clients in the waiting area while waiting for test results. Which statements by the nurse reflect therapeutic limit setting? Select all that apply.",
+      "options": [
+        "“Shouting at others is not okay here. I will talk with you in the consult room.”",
+        "“You can wait in the quiet room or take a short walk with me.”",
+        "“I will check on your results only after you stop being difficult.”",
+        "“You are just trying to get attention by acting this way.”",
+        "“I want to understand your concern. Please lower your voice so we can talk.”",
+        "“If you yell one more time, security will remove you from the building.”"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. This names the behavior, sets the expectation, and offers a way forward.",
+        "Correct. Offering acceptable choices supports autonomy within the limit.",
+        "Incorrect. Withholding care as a reward is punitive, and “difficult” is a label.",
+        "Incorrect. Assigning a motive is judgmental and escalates conflict.",
+        "Correct. This acknowledges the concern while stating a clear expectation.",
+        "Incorrect. A threat escalates the situation rather than setting a respectful limit."
+      ],
+      "rationale": "Therapeutic limit setting states the observed behavior, the expectation, and acceptable choices in a calm tone. Acknowledging the underlying concern while asking for a lower voice keeps the focus on helping. Making care conditional on behavior is tempting as leverage, but essential care is never a reward. Assigning motives and issuing threats escalate conflict; if danger appears, staff follow the response plan rather than threaten.",
+      "takeaway": "Set limits by naming the behavior, stating the expectation, and offering choices without threats or withholding care.",
+      "hintContent": "Check each statement for a clear expectation, a respectful tone, and continued care.",
+      "hintStrategy": "Eliminate options that threaten, label, or bargain with essential care.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-070",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "A 35-year-old client admitted for depression says, “I am no good at anything.” The client denies thoughts of self-harm. Which interventions should the nurse include in the plan of care to support self-esteem? Select all that apply.",
+      "options": [
+        "Help the client identify one personal strength each day.",
+        "Set small, achievable goals with the client for each shift.",
+        "Give specific feedback when the client completes a task.",
+        "Tell the client to stop saying negative things about self.",
+        "Make daily decisions for the client to reduce stress."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Identifying strengths counters global negative self-evaluation.",
+        "Correct. Success with achievable goals builds self-efficacy.",
+        "Correct. Specific feedback helps the client recognize real accomplishments.",
+        "Incorrect. Commanding the client to stop dismisses feelings and teaches no skill.",
+        "Incorrect. Removing choices reduces autonomy and confidence."
+      ],
+      "rationale": "Self-esteem grows through recognizing strengths and experiencing success. Identifying a daily strength, setting small achievable goals, and giving specific feedback on real accomplishments all build self-efficacy. Telling the client to stop negative talk is tempting because it seems direct, but it dismisses feelings and teaches no skill. Making decisions for the client removes opportunities for autonomy and confidence.",
+      "takeaway": "Build self-esteem through strengths, achievable goals, and specific feedback, not commands or taking over.",
+      "hintContent": "Ask which interventions give the client a chance to experience success.",
+      "hintStrategy": "In planning SATA items, select interventions that increase the client’s participation and eliminate those that remove it.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-071",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "A client admitted for low self-esteem after losing a job has a goal of increased self-worth. Which findings indicate progress toward the goal? Select all that apply.",
+      "options": [
+        "Shares one personal strength during group therapy",
+        "Chooses which unit activity to attend each morning",
+        "Says “I feel better” but spends all day alone in bed",
+        "Agrees with every suggestion that staff members make",
+        "Asks the social worker for help updating a résumé"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Identifying a strength publicly shows improved self-evaluation.",
+        "Correct. Making choices shows growing confidence and participation in decisions.",
+        "Incorrect. A positive statement without matching behavior is not enough evidence of progress.",
+        "Incorrect. Passive agreement may reflect low self-worth rather than improvement.",
+        "Correct. Planning to re-enter work shows hope and engagement with a valued role."
+      ],
+      "rationale": "Progress in self-concept is evaluated through behavior, participation, and function, not just a positive statement. Sharing a strength, making choices, and taking steps toward a valued role are concrete evidence of improvement. Saying “I feel better” is meaningful but is tempting to accept alone; when it does not match behavior, the nurse continues to assess. Agreeing with everything may reflect passivity rather than confidence.",
+      "takeaway": "Evaluate self-worth by concrete behavior and participation, not by a positive statement alone.",
+      "hintContent": "Look for findings where the client acts, chooses, or plans.",
+      "hintStrategy": "In evaluation items, prefer observable behavior over verbal reports that are contradicted by actions.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-072",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "A preceptor reviews collaborative therapies with a new nurse on a behavioral health unit. Which statements by the new nurse indicate correct understanding? Select all that apply.",
+      "options": [
+        "“CBT helps clients examine links among thoughts, feelings, and behavior.”",
+        "“DBT teaches skills such as mindfulness and distress tolerance.”",
+        "“A supportive talk with a client can be charted as a CBT session.”",
+        "“Antidepressants are a universal treatment for low self-worth.”",
+        "“Art or journaling can help clients who find it hard to talk.”"
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. This accurately describes cognitive behavioral therapy.",
+        "Correct. Dialectical behavior therapy includes mindfulness, emotion regulation, and distress tolerance.",
+        "Incorrect. A brief supportive conversation should not be documented as a specialist psychotherapy protocol.",
+        "Incorrect. Medications target specific diagnosed symptoms; none universally treats low self-worth.",
+        "Correct. Expressive therapies offer another route for communicating feelings."
+      ],
+      "rationale": "CBT examines links among thoughts, feelings, and behavior, DBT teaches skills such as mindfulness and distress tolerance, and expressive therapies use art, music, or journaling. Nurses reinforce these skills within the treatment plan but do not document a supportive conversation as a full psychotherapy session. Medications target particular diagnosed symptoms and are not a substitute for a therapeutic plan. Believing medication fixes self-worth is tempting but leads to unrealistic teaching.",
+      "takeaway": "Know what each therapy does, reinforce within the plan, and never present medication as a universal fix.",
+      "hintContent": "Match each therapy name to its core method.",
+      "hintStrategy": "For “indicates understanding” SATA items, eliminate statements that overstate a treatment or the nurse’s role.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-073",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "An RN is caring for a stable client 3 days after a below-the-elbow amputation who avoids looking at the residual limb. Which tasks can the RN delegate to assistive personnel? Select all that apply.",
+      "options": [
+        "Assist the client with bathing while maintaining privacy",
+        "Report any statements of hopelessness to the RN right away",
+        "Measure and record the client’s vital signs each shift",
+        "Teach the client how to wrap the residual limb",
+        "Evaluate how the client is adjusting to the change"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Hygiene assistance for a stable client is within the scope of assistive personnel.",
+        "Correct. Reporting observations to the RN is an appropriate delegated responsibility.",
+        "Correct. Routine vital signs for a stable client may be delegated.",
+        "Incorrect. Teaching requires RN assessment and evaluation of learning.",
+        "Incorrect. Evaluation of adjustment requires nursing judgment and stays with the RN."
+      ],
+      "rationale": "Assistive personnel can perform routine care for stable clients, such as hygiene and vital signs, and report observations to the RN. Assessment, teaching, and evaluation require nursing judgment and stay with the RN. Asking assistive personnel to report hopeless statements is appropriate because they observe the client closely, but the RN performs the follow-up assessment. Teaching limb care is tempting to delegate because it is routine, but initial teaching requires evaluation of understanding.",
+      "takeaway": "Delegate routine care and reporting; keep assessment, teaching, and evaluation with the RN.",
+      "hintContent": "Sort each task into routine care or nursing judgment.",
+      "hintStrategy": "In delegation SATA items, eliminate any task with the words teach, assess, or evaluate.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m29-x1-074",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "The daughter of a client with advanced Parkinson disease has been the sole caregiver for 2 years. Which findings suggest caregiver strain that the nurse should address? Select all that apply.",
+      "options": [
+        "Reports sleeping only 3 to 4 hours most nights",
+        "Has canceled several of her own medical appointments",
+        "Says she snaps at her father and then feels guilty",
+        "Demonstrates a safe transfer technique during the visit",
+        "Says her sister helps with care every other weekend"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Chronic sleep loss is a common sign of caregiver strain.",
+        "Correct. Neglecting her own health suggests caregiving demands exceed her resources.",
+        "Correct. Irritability and guilt are emotional signs of strain.",
+        "Incorrect. This shows competence, not strain.",
+        "Incorrect. Shared help is a resource rather than a sign of strain."
+      ],
+      "rationale": "Caregivers may be willing to help yet need skills, respite, or resources. Sleep deprivation, neglect of one’s own health, and irritability followed by guilt are signs that demands exceed resources and the nurse should assess further and offer support. Demonstrating safe technique is tempting to view as fine overall, but competence does not rule out strain. Help from a sister is a resource to build on.",
+      "takeaway": "Assess caregiver strain through sleep, self-care, and emotional cues, not just caregiving skill.",
+      "hintContent": "Focus on how the caregiving is affecting the daughter herself.",
+      "hintStrategy": "Select findings that describe a problem for the person named in the stem, not strengths or resources.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-075",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "A 44-year-old client receiving chemotherapy has started losing her hair and says, “I do not even look like myself anymore.” Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Ask what the hair loss means to her and how she is coping.",
+        "Offer information about wigs, scarves, and resources when she is ready.",
+        "Encourage her to look in the mirror today so she can start accepting it.",
+        "Let her decide when and how to discuss the change with her family.",
+        "Remind her that hair grows back, so this is only a temporary problem."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Exploring meaning and coping individualizes support.",
+        "Correct. Practical adaptations offered at her pace support body image.",
+        "Incorrect. Forcing exposure before she is ready can increase distress.",
+        "Correct. Respecting her choices about disclosure supports autonomy and dignity.",
+        "Incorrect. Minimizing the loss dismisses its current meaning to her."
+      ],
+      "rationale": "Body-image support begins with exploring what the change means to the client and how she is coping. Practical adaptations such as wigs and scarves are offered at her pace, and she decides how and when to involve family. Reminding her that hair grows back is tempting because it is true, but it minimizes the present loss. Pushing her to look in the mirror before she is ready can increase distress.",
+      "takeaway": "Support body image by exploring meaning, offering adaptations at the client’s pace, and respecting her choices.",
+      "hintContent": "Consider which actions follow the client’s pace and which push or minimize.",
+      "hintStrategy": "Eliminate options that minimize the loss or force a step the client has not chosen.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-alterations"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m29-x1-076",
+      "topic": "self-nursing-care",
+      "type": "sata",
+      "stem": "A 32-year-old mother with a severe rheumatoid arthritis flare can no longer safely lift her 1-year-old and says, “What kind of mother cannot pick up her own baby?” Which nursing actions support her role performance? Select all that apply.",
+      "options": [
+        "Explore which parenting tasks matter most to her.",
+        "Identify routines she can do seated, such as feeding or reading.",
+        "Refer her to occupational therapy for adaptive childcare equipment.",
+        "Teach her partner to take over all of the infant’s care for now.",
+        "Advise her to avoid caring for the baby until she is stronger."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Knowing what she values guides meaningful adaptation.",
+        "Correct. Adapted routines preserve her parenting role within current ability.",
+        "Correct. Collaboration with rehabilitation provides practical tools for role function.",
+        "Incorrect. Removing all parenting tasks deepens the role loss.",
+        "Incorrect. Complete withdrawal from care is unnecessary and harms her sense of role."
+      ],
+      "rationale": "Role loss is addressed by identifying tasks the person can still do and developing new ways to do them. Exploring what matters most, adapting routines to her current ability, and collaborating with occupational therapy preserve her role as a parent. Having her partner take over everything is tempting because it seems protective, but it deepens the loss. The goal is meaningful function and choice, not avoidance.",
+      "takeaway": "Preserve valued roles by adapting tasks to current ability rather than removing them.",
+      "hintContent": "Look for actions that keep her parenting in an adapted form.",
+      "hintStrategy": "Eliminate options that solve the task by taking the role away from the client.",
+      "ref": "Module 29 · Nursing Care & Collaborative Therapies · slides 24–30, 32–43",
+      "alsoTests": [
+        "self-development"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    }
+  ]
+});

@@ -9,159 +9,295 @@ window.NURSE_DATA.push({
       "id": "learning-theories",
       "title": "Teaching, Learning Theories & the Three Domains",
       "exemplar": null,
-      "summary": "Choose methods that fit the learning goal, and evaluate knowledge, attitudes, and skills with appropriate evidence.",
+      "summary": "Choose teaching methods that fit the learning goal, then check knowledge, attitudes, and skills with the right kind of evidence.",
       "objectives": [
-        "Distinguish teaching activity from evidence of learning.",
-        "Compare adult, behaviorist, cognitive, constructivist, and social learning theories.",
-        "Differentiate cognitive, affective, and psychomotor domains.",
-        "Select a method and outcome that fit the domain.",
-        "Use learner preferences without assuming a fixed learning-style label determines success."
+        "You can tell the difference between teaching activity and proof of learning.",
+        "You can compare adult, behaviorist, social, cognitive, and constructivist learning ideas.",
+        "You can sort a goal into the cognitive, affective, or psychomotor domain.",
+        "You can match each domain with the right way to evaluate it.",
+        "You can use learning preferences without treating them as limits.",
+        "You can recognize when you need more training before teaching."
       ],
-      "bigPicture": "<p>Teaching is a planned process intended to support knowledge, skills, attitudes, or behavior. Learning occurs within the person and is reflected in what they can explain, demonstrate, choose, or use. Handing over a leaflet is teaching activity; it is not proof that learning happened.</p><p>Nurses teach clients, families, students, and colleagues, and remain learners themselves. An effective plan links the need, objective, method, practice, feedback, and evaluation. Learning theories offer different explanations and tools, but the client’s actual response determines whether the approach is working.</p>",
+      "bigPicture": "<p>Teaching is a planned process to build knowledge, skills, attitudes, or behavior. Learning happens inside the learner. You see it in what they can explain, choose, or do. Handing over a leaflet is teaching activity. It is not proof that learning happened.</p><p>Nurses teach clients, families, students, and coworkers, and they keep learning, too. A good plan links the need, the goal, the method, practice, feedback, and evaluation. Learning theories give you tools, but the client’s actual response tells you if the plan works.</p>",
+      "recap": [
+        "Teaching is what the nurse does. Learning is shown by what the client can explain, choose, or do.",
+        "Cognitive means knowing. Affective means feeling and willingness. Psychomotor means doing a physical skill.",
+        "Each domain needs its own evidence: teach-back, discussion of values, or return demonstration.",
+        "Knowing does not prove doing, and doing does not prove willing. Check each one.",
+        "Adults learn best when teaching is relevant and builds on their experience.",
+        "Good reinforcement names the exact correct action right after it happens.",
+        "Use learning preferences flexibly. A “visual learner” label is not a limit.",
+        "Get current training before teaching an unfamiliar device. Never improvise."
+      ],
       "keyTerms": [
         {
+          "term": "Teaching",
+          "def": "A planned process the nurse uses to help someone gain knowledge, skills, attitudes, or new behavior."
+        },
+        {
+          "term": "Learning",
+          "def": "A change inside the learner, shown by what they can explain, choose, or perform."
+        },
+        {
           "term": "Cognitive domain",
-          "def": "Knowledge and thinking, including understanding, recalling, and applying information."
+          "def": "Knowing and thinking: understanding, remembering, and applying information."
         },
         {
           "term": "Affective domain",
-          "def": "Values, feelings, attitudes, willingness, and commitment."
+          "def": "Feelings, values, attitudes, and willingness to act."
         },
         {
           "term": "Psychomotor domain",
-          "def": "Physical performance of a skill using coordinated action."
+          "def": "Physical skills done with coordinated movement, such as using an inhaler or crutches."
         },
         {
           "term": "Adult learning",
-          "def": "An approach emphasizing relevance, experience, self-direction, and practical need."
+          "def": "An approach that stresses relevance, life experience, self-direction, and practical need."
         },
         {
           "term": "Reinforcement",
-          "def": "A consequence that increases the likelihood of a behavior recurring."
+          "def": "A consequence after a behavior that makes the behavior more likely to happen again."
+        },
+        {
+          "term": "Modeling",
+          "def": "Showing a skill so the learner can watch and copy it. It is central to social learning."
         },
         {
           "term": "Return demonstration",
-          "def": "The learner performs a taught skill so performance can be observed and evaluated."
+          "def": "The learner performs the taught skill while the nurse watches and evaluates it."
         }
       ],
       "sections": [
         {
-          "heading": "Teaching does not guarantee learning",
-          "body": "<p>The nurse controls preparation and delivery, not another person’s internal learning process or every future behavior. A client may hear information but be unable to use it because of pain, fear, fatigue, language barriers, or missing resources. A signed education form does not prove comprehension.</p><p>Identify an observable outcome before choosing the teaching tool. If the client needs to manage a device, observing the skill matters. If the need is recognizing symptoms, ask them to explain which findings require help and what action to take. If the issue is readiness or values, explore the person’s perspective rather than repeating facts. This alignment makes evaluation useful instead of ceremonial.</p>"
+          "heading": "Is teaching the same as learning?",
+          "keyIdea": "Teaching is what you do. Learning is what the client can show you afterward.",
+          "body": "<p>You control preparation and delivery. You do not control another person’s inner learning or every future choice. A client may hear the words but still not use them.</p><p>Pain, fear, fatigue, language barriers, or missing resources can all block learning. A signed education form does not prove understanding.</p><p>So pick an observable outcome before you pick the teaching tool. Then evaluate against that outcome.</p>",
+          "bullets": [
+            "Need to manage a device? Watch the client do the skill.",
+            "Need to recognize symptoms? Ask which findings need help and what action to take.",
+            "Issue is readiness or values? Explore the client’s view instead of repeating facts."
+          ]
         },
         {
-          "heading": "Adult learning: relevance and experience",
-          "body": "<p>Adults often want to know why information matters and how it relates to immediate goals. They bring prior experience and usually prefer involvement in decisions. Ask what the learner already knows, what has worked, and what they most need to do after leaving care.</p><p>Avoid assuming that age alone guarantees readiness or independence. An adult may need substantial support because of acute illness, cognitive impairment, unfamiliar technology, or stress. Use experience as a starting point and correct misunderstandings respectfully. “How have you used this device before?” can reveal both strengths and habits that require revision. Explain the purpose of a new step rather than expecting obedience to an unexplained sequence.</p>"
+          "heading": "How do adults learn best?",
+          "keyIdea": "Start with why it matters to the adult and what they already know.",
+          "body": "<p>Adults often want to know why information matters and how it fits their goals. They bring experience and like a say in decisions. Ask what they already know, what has worked, and what they must do after leaving.</p><p>Age alone does not guarantee readiness. Acute illness, cognitive impairment, new technology, or stress can mean an adult needs more support.</p><p>Use experience as a starting point. Correct misunderstandings respectfully. Explain the purpose of each new step instead of expecting the client to follow it blindly.</p>",
+          "example": "An adult asks, “Why do I need to learn this new routine when I already manage one at home?” A good first reply: “How have you been doing it at home? Let’s see what carries over and what is different.” This shows strengths and habits that may need changing."
         },
         {
-          "heading": "Behaviorist and social learning approaches",
-          "body": "<p>Behaviorist approaches examine how responses change with stimuli and consequences. In nursing teaching, specific encouragement after successful practice can help reinforce the desired action. Give feedback that identifies the useful behavior rather than vague praise. Allow repeated practice and make the environment support the task.</p><p>Social learning emphasizes observation, modeling, and imitation, along with the person’s beliefs and expectations. The nurse demonstrates a skill, then invites the learner to perform it with feedback. Watching alone is incomplete when independent performance is required. A video may model the action but still needs a way to verify that the learner can carry it out. Combine demonstration, practice, and evaluation rather than choosing only one step.</p>",
-          "example": "The nurse demonstrates safe use of an aid, the client practices, and the nurse says, “You placed it correctly before moving.” Modeling and specific reinforcement work together."
-        },
-        {
-          "heading": "Cognitive and constructivist approaches",
-          "body": "<p>Cognitive theory emphasizes acquiring, processing, and using information. Organize teaching from simple to complex, connect ideas, and use manageable chunks. Ask the learner to explain how a principle applies to their own situation rather than simply repeat isolated words.</p><p>Constructivist approaches emphasize building meaning from experience and integrating new information with existing understanding. Ask how the new plan fits a familiar routine or use a problem-solving scenario. A client who previously managed one device may compare it with a new one, identifying similarities and important differences. Do not assume prior experience is entirely accurate; explore it and correct unsafe assumptions. Cooperative discussion and realistic cases can reveal how the person is interpreting the information.</p>"
-        },
-        {
-          "heading": "The three domains require different evidence",
-          "body": "<p>Cognitive objectives concern what the person knows or can reason through. “Explain which symptoms require a call” fits this domain. Affective objectives concern values and willingness, such as discussing concerns and identifying a personally meaningful reason to participate. Psychomotor objectives concern skill, such as correctly performing a device sequence.</p><p>A single learning need may involve all three. A person can explain a technique but lack the dexterity to perform it. Another can perform it with coaching yet remain unwilling to use it at home. Assess these separately. Do not interpret one successful outcome as proof of all the others.</p>",
+          "heading": "Which learning theories should I know?",
+          "keyIdea": "Each theory gives you a different tool. Combine them, and let the learner’s response guide you.",
+          "body": "<p>Your course covers several learning theories. You do not need to pick just one. Most good teaching blends them: explain why, show how, let the client practice, and give specific feedback.</p><p>Watching alone is not enough when the client must do a skill independently. A video can model the action. You still need to check that the client can carry it out.</p>",
           "table": {
             "headers": [
-              "Domain",
-              "Objective",
-              "Evaluation"
+              "Theory",
+              "Core idea",
+              "What the nurse does"
             ],
             "rows": [
               [
+                "Behaviorist",
+                "Consequences shape behavior. Reinforced actions tend to repeat.",
+                "Give specific, timely praise for the correct action. Allow repeated practice."
+              ],
+              [
+                "Social learning",
+                "People learn by watching, modeling, and imitating. Beliefs and expectations matter.",
+                "Demonstrate, then have the learner practice with feedback."
+              ],
+              [
                 "Cognitive",
+                "Learning means taking in, organizing, and using information.",
+                "Go simple to complex. Use small chunks. Ask the client to apply ideas to their own life."
+              ],
+              [
+                "Constructivist",
+                "People build meaning from experience and link new ideas to old ones.",
+                "Compare the new plan to a familiar routine. Use realistic problem-solving cases."
+              ]
+            ]
+          },
+          "example": "A client practicing with a walker moves it forward, then steps into it, as taught. Behaviorist reinforcement sounds like: “You moved the walker first, then stepped in. That keeps you steady.” General praise like “Great job!” gives nothing specific to repeat."
+        },
+        {
+          "heading": "What are the three learning domains?",
+          "keyIdea": "Knowing, feeling, and doing are separate, so each needs its own goal and evidence.",
+          "body": "<p>Cognitive goals are about what the person knows or can reason through. Affective goals are about values and willingness.</p><p>Psychomotor goals are about physical skill. A simple test: if the learner must physically do it, it is psychomotor.</p><p>One learning need can involve all three. A person may explain a technique but lack the dexterity to do it.</p><p>Another may perform it with coaching but refuse to use it at home. Do not treat one success as proof of the others.</p>",
+          "table": {
+            "headers": [
+              "Domain",
+              "Sample objective",
+              "Best evidence"
+            ],
+            "rows": [
+              [
+                "Cognitive (knowing)",
                 "Explain when to seek help.",
-                "Teach-back using an applied scenario."
+                "Teach-back using a real-life scenario."
               ],
               [
-                "Affective",
-                "Identify a concern and a personally valued goal.",
-                "Discussion and expressed choice over time."
+                "Affective (feeling)",
+                "Name a concern and a personally valued goal.",
+                "Discussion and expressed choices over time."
               ],
               [
-                "Psychomotor",
-                "Perform the care sequence safely.",
+                "Psychomotor (doing)",
+                "Perform the care steps safely.",
                 "Observed return demonstration."
+              ]
+            ]
+          },
+          "example": "A client on new home oxygen explains why it is needed and sets up the equipment without prompting. Then the client says, “I am not wearing that tubing where my coworkers can see it.” Cognitive and psychomotor goals are met. The affective concern still needs exploring."
+        },
+        {
+          "heading": "Do learning styles matter?",
+          "keyIdea": "Ask what helps the learner, but choose methods by the task and check results.",
+          "body": "<p>Your course discusses multiple intelligences and emotional intelligence. These are ways to notice different strengths. It also encourages asking about learning preferences.</p><p>But a label like “visual learner” does not mean the client can only learn from pictures. Match methods to the task, access needs, prior knowledge, and the client’s response. Emotional readiness and trust also shape participation.</p><p>Know your own favorite teaching style, too. Do not assume everyone learns the way you do.</p>",
+          "bullets": [
+            "A brief explanation gives the reason.",
+            "A picture shows how things are organized.",
+            "A demonstration shows the movement.",
+            "Practice builds the skill."
+          ]
+        },
+        {
+          "heading": "How do I build a teaching sequence?",
+          "keyIdea": "Line up the need, goal, method, practice, and evaluation, and change the method if learning fails.",
+          "body": "<p>Start with the need and the behavior that matters most. If the outcome is not met, change the explanation, method, timing, or support. Repeating the same words louder is not a revision.</p><p>Keep essential content focused. Someone with a new diagnosis may need safety actions first and details later.</p><p>Learning develops over time. Document what the learner could do and what remains, not just the materials given.</p>",
+          "steps": [
+            "Identify the need and what the learner already understands.",
+            "Choose an observable objective and its domain.",
+            "Address readiness and access.",
+            "Teach in manageable steps.",
+            "Invite practice or application, and give feedback.",
+            "Evaluate and revise."
+          ],
+          "example": "A client newly diagnosed with heart failure says, “There is so much to learn that I can’t keep any of it straight.” Cognitive principles apply: organize the content, teach the most essential points first in small chunks, and build from there."
+        },
+        {
+          "heading": "What if I don’t know the skill?",
+          "keyIdea": "Nurses are learners too. Get current, accurate training before teaching an unfamiliar procedure.",
+          "body": "<p>Professional learning continues through education, supervised practice, current evidence, and feedback. Knowing a concept does not make you competent with every related device.</p><p>If you are unsure, use a proper resource or colleague. Do not improvise.</p><p>Errors you teach can become errors the client repeats at home. Admitting a limit honestly builds credibility.</p>",
+          "example": "A nurse must teach a client to use a home infusion pump model the nurse has never used. Discharge is tomorrow afternoon. First, the nurse gets current instruction on this pump from an appropriate resource, per policy. There is still time to teach before discharge."
+        },
+        {
+          "heading": "Common traps",
+          "keyIdea": "Wrong answers treat teaching as learning, or one domain as proof of another.",
+          "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
+          "table": {
+            "headers": [
+              "Look-alike",
+              "How to tell them apart"
+            ],
+            "rows": [
+              [
+                "Teaching done vs. learning shown",
+                "“Brochure given” is teaching. “Client demonstrated correctly” is learning."
+              ],
+              [
+                "Knowing vs. doing",
+                "A correct explanation does not prove safe performance. Watch a return demonstration."
+              ],
+              [
+                "Doing vs. willing",
+                "Correct skill does not mean the client will use it. Explore feelings and values."
+              ],
+              [
+                "Specific vs. vague praise",
+                "“You moved the walker first” reinforces. “Great job” does not say what to repeat."
+              ],
+              [
+                "Watching vs. practicing",
+                "Seeing a demonstration or video is not the same as doing it."
+              ],
+              [
+                "Preference vs. limit",
+                "A picture preference adds pictures. It does not remove practice or explanation."
+              ],
+              [
+                "Similar device vs. this device",
+                "Experience with one model does not make you competent on another."
               ]
             ]
           }
         },
         {
-          "heading": "Preferences, strengths, and theory limitations",
-          "body": "<p>The source discusses multiple intelligences and emotional intelligence as ways to recognize diverse strengths. It also encourages learning preferences. Ask what helps the person engage, but do not assume a label such as “visual learner” means they can only learn through pictures. Match methods to the task, access needs, prior knowledge, and observed response.</p><p>Several methods often work together: a brief explanation gives the reason, a picture shows organization, demonstration shows movement, and practice builds skill. Emotional readiness and trust influence participation. The nurse’s awareness of their own preferred method is useful only if it does not become an assumption that everyone learns the same way. Evaluate what actually helps this learner.</p>"
-        },
-        {
-          "heading": "Build an aligned teaching sequence",
-          "body": "<p>Start with the learning need and the behavior or decision that matters. Assess readiness and barriers. Set a specific objective, choose suitable methods, provide practice or application, give feedback, and evaluate. If the outcome is not achieved, change the explanation, method, timing, or support rather than simply repeating the same words louder.</p><p>Keep essential content focused. A learner facing a new diagnosis may need immediate safety actions before detailed background. Arrange follow-up for additional material. Learning develops over time, and repetition is useful when it reinforces accurate understanding. Document what the learner could do and what remains to be taught rather than only the list of materials given.</p>",
+          "heading": "How the NCLEX tests this",
+          "keyIdea": "Match the evidence to the domain, and choose the option that shows learning, not just teaching.",
+          "body": "<p>Expect items asking which domain a goal belongs to. Others ask which finding shows learning occurred. Select-all items may pair goals with evaluation methods.</p><p><b>Sample question:</b> A client being taught crutch walking describes the gait correctly. During return demonstration, the client rests body weight on the crutch pads under the arms. What should the nurse do first?</p><p>A: Document that the client described the gait correctly.<br>B: Stop the client, coach weight bearing through the hands, and observe again.<br>C: Give a picture of correct posture to review later.<br>D: Praise the effort and review hand position at follow-up.</p>",
           "steps": [
-            "Identify the need and prior understanding.",
-            "Choose an observable objective and domain.",
-            "Address readiness and access.",
-            "Teach in manageable steps.",
-            "Invite practice or application and give feedback.",
-            "Evaluate and revise."
+            "<b>Read the stem:</b> knowledge is correct, but the skill is being done unsafely right now.",
+            "<b>What is it really asking?</b> How do you respond to an unsafe return demonstration?",
+            "<b>Key cues:</b> weight on the pads under the arms puts pressure on the nerves in the armpit and can cause injury.",
+            "<b>Why the wrong options are wrong:</b> A records knowledge but ignores unsafe doing. C and D delay the fix while the risk continues.",
+            "<b>The answer:</b> B. Stop, give specific correction, and watch the skill again.",
+            "<b>Strategy:</b> If the stem shows an unsafe skill, correct it now and re-observe. Saying it right is not doing it right."
           ]
         },
         {
-          "heading": "Nurses are learners too",
-          "body": "<p>Professional learning continues through education, supervised practice, current evidence, competency review, and feedback. Knowing a concept does not automatically establish competence to perform every related skill. Recognize limits and seek appropriate instruction or support.</p><p>When teaching others, verify that information is current and relevant. If unsure, use an appropriate source or colleague rather than improvising. Honest recognition of a limitation supports credibility. The same principle applies to clients: teach a clear safe plan and know when a specialist or another discipline is needed for the next step.</p>"
-        },
-        {
-          "heading": "Worked bedside case: three domains in one routine",
-          "body": "<p>A client can explain why a new device is prescribed but does not want others to see it and cannot complete one movement needed to use it. Treating this as one general “knowledge deficit” would miss two important needs.</p><p>The explanation shows some cognitive understanding. The concern about visibility may involve values, feelings, self-concept, or social experience and deserves affective exploration. The incomplete movement requires psychomotor and functional assessment. A longer factual lecture may not address either barrier.</p><p>Use adult-learning principles to connect the plan with the client’s goals and experience. Discuss the social concern without dismissing it, demonstrate the skill, and allow practice. Specific feedback can reinforce accurate steps. Adapt equipment or seek support if physical ability limits performance. A preference for pictures can be accommodated without assuming that pictures alone establish competence.</p><p>Evaluate each domain separately. Can the person explain the purpose, express concerns and choices, and perform the needed sequence using the agreed support? These outcomes may improve at different rates. Document the actual evidence and plan reinforcement. Combining methods is appropriate when each method serves a clear goal; theory names do not replace observation of what the learner can use.</p>",
+          "heading": "Worked case: three domains in one routine",
+          "keyIdea": "One routine can have a knowing need, a feeling need, and a doing need at the same time.",
+          "body": "<p>A client can explain why a new device is prescribed. But the client does not want others to see it. The client also cannot complete one movement needed to use it.</p><p>Calling this one general “knowledge deficit” would miss two needs. The explanation shows cognitive understanding. The worry about being seen is affective.</p><p>The missed movement is psychomotor. A longer lecture fixes neither.</p>",
           "steps": [
-            "Identify knowledge, values, and skill needs separately.",
-            "Connect teaching with the person’s goals and experience.",
-            "Use discussion, modeling, practice, and adaptation purposefully.",
-            "Evaluate each required outcome rather than a global label."
+            "Name each need: knowing (met), feeling (worry about being seen), doing (one movement missing).",
+            "Connect the plan to the client’s own goals and experience.",
+            "Discuss the social worry without dismissing it.",
+            "Demonstrate the movement, and let the client practice with specific feedback.",
+            "Adapt the equipment or get help if physical ability limits the movement.",
+            "Evaluate each domain on its own. Document the evidence and plan reinforcement."
           ],
           "check": {
-            "q": "Why can a correct explanation coexist with unsafe independent performance?",
-            "a": "The cognitive outcome may be met while physical ability, sequencing, willingness, or resources remain insufficient. Each relevant requirement needs evaluation."
+            "q": "Why can a correct explanation exist alongside unsafe performance at home?",
+            "a": "The cognitive goal may be met while physical ability, sequencing, willingness, or resources fall short. Each needs its own evaluation."
           }
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Module 41 Teaching Learning, slides 2–19 and SmartArt diagrams 1–3. Learning preferences are used as flexible supports rather than fixed prescriptions.</p>"
+          "body": "<p>This lesson follows your Module 41 slides.</p>",
+          "bullets": [
+            "Module 41 Teaching Learning, slides 2–19 and SmartArt diagrams 1–3.",
+            "Learning preferences are used as flexible supports, not fixed prescriptions."
+          ]
+        }
+      ],
+      "mnemonics": [
+        {
+          "name": "Head, Heart, Hands",
+          "text": "<b>Head</b> = cognitive (knowing). <b>Heart</b> = affective (feeling and willingness). <b>Hands</b> = psychomotor (doing a skill)."
         }
       ],
       "pearls": [
-        "Teaching activity and learning evidence are different.",
-        "Knowledge, willingness, and skill must be assessed separately.",
-        "Demonstration should be followed by learner practice for a skill.",
-        "Use preferences flexibly and evaluate actual results."
+        "Teaching activity and evidence of learning are different things.",
+        "Knowledge, willingness, and skill must each be assessed.",
+        "For a skill, demonstration should be followed by learner practice.",
+        "Effective reinforcement names the exact correct behavior right after it happens.",
+        "Pick documentation that shows what the client explained or did, not what was handed out."
       ],
       "redFlags": [
-        "Do not assume a client can perform a safety-critical skill because they watched a video.",
-        "An unfamiliar or changed procedure requires accurate current instruction before independent practice."
-      ],
-      "recap": [
-        "Theory helps select methods.",
-        "Adult learning emphasizes relevance and experience.",
-        "Modeling, reinforcement, and problem-solving can be combined.",
-        "Cognitive, affective, and psychomotor goals need different evidence.",
-        "Revise methods when learning is not demonstrated."
+        "Do not assume a client can do a safety-critical skill because they watched a video.",
+        "An unfamiliar or changed procedure needs accurate, current instruction before you teach it.",
+        "An unsafe return demonstration needs immediate correction, not a note for next visit."
       ],
       "checks": [
         {
-          "q": "What domain is tested when a client demonstrates a technique?",
+          "q": "Which domain is tested when a client demonstrates a technique?",
           "a": "Psychomotor."
         },
         {
           "q": "A client accurately describes a procedure. Does that prove safe performance?",
-          "a": "No. Observe a return demonstration and assess physical ability."
+          "a": "No. Watch a return demonstration and assess physical ability."
         },
         {
-          "q": "How does adult learning affect the opening of teaching?",
-          "a": "Explain relevance, ask about experience, and involve the learner in goals."
+          "q": "How does adult learning shape the start of a teaching session?",
+          "a": "Explain why it matters, ask about the client’s experience, and involve them in setting goals."
         },
         {
           "q": "What is stronger evidence than “brochure provided”?",
-          "a": "A documented explanation, applied decision, or demonstrated skill that meets the stated objective."
+          "a": "A documented explanation, real-life decision, or demonstrated skill that meets the stated objective."
+        },
+        {
+          "q": "Which insulin-pen objectives are psychomotor?",
+          "a": "Any objective where the client physically does a step, such as priming the pen or injecting. Evaluate them by return demonstration."
         }
       ]
     },
@@ -169,58 +305,87 @@ window.NURSE_DATA.push({
       "id": "teaching-plan",
       "title": "Assess, Plan, Teach & Verify Learning",
       "exemplar": null,
-      "summary": "Identify the need, remove barriers, set measurable goals, and use teach-back or performance to guide reteaching.",
+      "summary": "Find the real learning need, remove barriers, set measurable goals, and use teach-back or return demonstration to guide reteaching.",
       "objectives": [
-        "Assess readiness, motivation, literacy, language, physical ability, and resources.",
-        "Write an observable learner-centered objective.",
-        "Use simple-to-complex teaching, active participation, and feedback.",
-        "Distinguish teach-back from testing or asking “Do you understand?”",
-        "Document teaching response and revise a plan when barriers remain."
+        "You can assess readiness, motivation, literacy, language, physical ability, and resources.",
+        "You can write an observable, learner-centered objective.",
+        "You can use teach-back and return demonstration without blame.",
+        "You can find the real barrier before calling a client “noncompliant.”",
+        "You can document teaching evidence and flag unsafe gaps before discharge."
       ],
-      "bigPicture": "<p>A teaching plan begins with assessment, not a stack of standard handouts. What must the person do, what do they already know, and what will make learning possible today? The answer determines content, timing, method, and support.</p><p>Learning is demonstrated through the person’s explanation, decisions, or performance. Teach-back and return demonstration make misunderstandings visible while there is still time to correct them. The nurse treats an error as information about the teaching process and support needs, not proof that the client failed.</p>",
+      "bigPicture": "<p>A teaching plan starts with assessment, not a stack of handouts. What must the client do? What do they already know? What will make learning possible today? The answers shape your content, timing, method, and support.</p><p>Learning shows in the client’s own explanation, decisions, or performance. Teach-back and return demonstration reveal mistakes while you still have time to fix them. A mistake is information about your teaching and the client’s needs. It is not proof the client failed.</p>",
+      "recap": [
+        "Assess first: what the client knows, must do, and has at home.",
+        "Motivated is not the same as ready. Pain, nausea, or exhaustion block learning.",
+        "Use plain language and teach-back with every client. Do not guess literacy.",
+        "Use a qualified interpreter for teaching, even if a bilingual family member offers.",
+        "Good objectives name an observable action and when it will be checked.",
+        "Teach-back checks your explanation. Return demonstration checks the skill.",
+        "After a teach-back error, reteach that gap a different way, then check again.",
+        "Missed doses or refills? Ask why. Cost, side effects, or access may be the real barrier."
+      ],
       "keyTerms": [
         {
           "term": "Learning need",
-          "def": "A gap in knowledge, information, skill, or understanding relevant to a goal."
+          "def": "A gap in knowledge, information, skill, or understanding that matters for the client’s goal."
         },
         {
           "term": "Readiness",
-          "def": "The person’s current physical, emotional, and practical capacity to engage in learning."
+          "def": "The client’s current physical, emotional, and practical ability to take part in learning."
         },
         {
           "term": "Motivation",
-          "def": "The perceived importance or desire to learn and act."
+          "def": "How important the client feels the learning is, and how much they want to learn and act."
+        },
+        {
+          "term": "Health literacy",
+          "def": "How well a person can find, understand, and use health information to make decisions."
         },
         {
           "term": "Teach-back",
-          "def": "Asking the learner to explain information in their own words to check the clarity of the explanation."
+          "def": "Asking the client to explain information in their own words, to check how clearly the nurse explained it."
+        },
+        {
+          "term": "Return demonstration",
+          "def": "The client performs the skill while the nurse watches, to check ability and steps."
         },
         {
           "term": "Adherence",
-          "def": "Participation in an agreed treatment plan, with attention to the person’s choices and circumstances."
+          "def": "Taking part in an agreed plan of care, with respect for the client’s choices and circumstances."
         },
         {
           "term": "Observable objective",
-          "def": "A statement specifying what the learner will explain, choose, or perform and how it will be evaluated."
+          "def": "A goal that states what the learner will explain, choose, or perform, and when it will be checked."
         }
       ],
       "sections": [
         {
-          "heading": "Assess need and prior understanding",
-          "body": "<p>Ask what the client knows, what worries them, and what they must do at home. A correct fact may sit beside a dangerous misconception. “Tell me how you plan to take this” reveals more than “You know how, right?” Review prior experience, usual routines, language, and preferred support.</p><p>Include the practical environment. Does the client have supplies, storage, transportation, money, and a place to perform the task? Can they see labels, open containers, coordinate movements, and remember the sequence? A knowledge deficit is different from lack of equipment or limited hand strength. Teaching can address understanding, while other barriers may need equipment, a different plan, or caregiver support.</p>"
+          "heading": "What do I assess before teaching?",
+          "keyIdea": "Find out what the client knows, must do, and has available before you choose a method.",
+          "body": "<p>Ask what the client knows, what worries them, and what they must do at home. A correct fact can sit next to a dangerous misbelief. “Tell me how you plan to take this” reveals more than “You know how, right?”</p><p>A knowledge gap is different from missing supplies or weak hands. Teaching fixes understanding. Other barriers may need equipment, a different plan, or caregiver help.</p>",
+          "bullets": [
+            "<b>Knowledge:</b> prior experience, usual routines, and misbeliefs.",
+            "<b>Ability:</b> can they see labels, open containers, coordinate movements, and remember steps?",
+            "<b>Language:</b> preferred language and preferred support.",
+            "<b>Resources:</b> supplies, storage, money, transportation, and a place to do the task."
+          ]
         },
         {
-          "heading": "Readiness and motivation are not identical",
-          "body": "<p>A client may be highly motivated but too nauseated, fatigued, or distressed to concentrate. Another may be physically comfortable but uncertain whether the plan is worthwhile. Address the relevant issue rather than labeling both situations “uncooperative.” Timing, pain, sleep, fear, and cognitive status influence readiness.</p><p>Manage symptoms and choose a quieter setting where feasible. Use brief essential information if a safety need cannot wait, then return when the person can engage more fully. Explore motivation through the client’s goals and concerns. Involve a support person with the client’s agreement and when appropriate. Do not assume a family member’s presence automatically solves the learning need.</p>",
-          "example": "A client wants to learn a new dressing routine but has severe pain. Address comfort and schedule practice when attention and movement are possible, while ensuring immediate care needs are met."
+          "heading": "Is readiness the same as motivation?",
+          "keyIdea": "A client can want to learn and still be too sick, tired, or upset to learn right now.",
+          "body": "<p>Motivation is wanting to learn. Readiness is being able to learn right now. A motivated client may be too nauseated or distressed to focus.</p><p>A comfortable client may doubt the plan is worth it. Neither is “uncooperative.”</p><p>Manage symptoms and pick a quieter time and place when you can. If a safety need cannot wait, give brief essential information now and return later. Explore motivation through the client’s goals.</p><p>Involve a support person with the client’s agreement. Their presence alone does not solve the learning need.</p>",
+          "example": "A client wants to learn wound care but is nauseated, exhausted, and in severe pain. Staff are providing the needed care. First, the nurse addresses comfort. A longer practice session waits until the client can focus and move."
         },
         {
-          "heading": "Literacy and language access",
-          "body": "<p>Use plain language and explain unfamiliar terms. Provide information in an accessible language and format, using qualified interpretation when needed. Written materials should support the conversation rather than replace it. Ask what format the person can use and verify understanding without embarrassment.</p><p>Apply clear communication to everyone rather than trying to guess literacy from appearance, education, or occupation. A highly educated client may struggle with unfamiliar health language during stress. Use small chunks, prioritize essential actions, and invite questions. “What questions do you have?” is more welcoming than a rushed “Any questions?” followed immediately by leaving.</p>"
+          "heading": "How do I handle literacy and language?",
+          "keyIdea": "Use plain language and teach-back for everyone, and use a qualified interpreter when needed.",
+          "body": "<p>Use plain language and explain unfamiliar terms. Teach in small chunks, essential actions first.</p><p>Written materials support the conversation. They do not replace it.</p><p>Use clear communication with everyone. Do not guess literacy from looks, education, or job.</p><p>A highly educated client may struggle with health words under stress. “What questions do you have?” invites more than a rushed “Any questions?”</p><p>When the client needs another language, use a qualified interpreter. A bilingual family member can support but should not replace one.</p>",
+          "example": "A client says, “I left my reading glasses at home. Can you just tell me what it says?” The nurse explains the key points in plain language, then asks the client to explain them back. The nurse does not chart a literacy problem."
         },
         {
-          "heading": "Write a goal you can evaluate",
-          "body": "<p>A strong objective states the learner’s action, conditions when relevant, and evaluation time. “Before discharge, the client will demonstrate the agreed device sequence without prompting” is observable. “The client will understand the device” does not identify evidence.</p><p>Match the goal to ability and the actual plan. If the client cannot perform the task because of a physical limitation, the goal may involve a trained caregiver or adapted equipment. Do not write an independence goal that contradicts the assessment. Include knowledge of when to seek help when that is essential for safe self-management. Separate immediate survival skills from material that can be reinforced later.</p>",
+          "heading": "How do I write a measurable goal?",
+          "keyIdea": "A strong objective names what the learner will do and when you will check it.",
+          "body": "<p>“Before discharge, the client will demonstrate the device steps without prompting” is observable. “The client will understand the device” gives you no evidence to check.</p><p>Match the goal to the client’s ability and the real plan. If a physical limit prevents the task, the goal may involve a trained caregiver or adapted equipment.</p><p>Include when to seek help if that matters for safety. Teach survival skills first, and reinforce the rest later.</p>",
           "table": {
             "headers": [
               "Weak objective",
@@ -229,98 +394,173 @@ window.NURSE_DATA.push({
             "rows": [
               [
                 "“Understand medication.”",
-                "Explain the agreed schedule and what to do for a specified concern before discharge."
+                "Explain the agreed schedule and what to do for a named concern, before discharge."
               ],
               [
                 "“Know the equipment.”",
-                "Demonstrate the sequence using the actual device."
+                "Demonstrate the steps using the actual device."
               ],
               [
                 "“Be compliant.”",
-                "Describe the chosen plan and identify one barrier with a practical response."
+                "Describe the chosen plan and name one barrier with a practical response."
               ],
               [
                 "“Learn healthy habits.”",
-                "Select one relevant action, frequency, and review date."
+                "Select one relevant action, how often, and a review date."
               ]
             ]
           }
         },
         {
-          "heading": "Teach in chunks with active practice",
-          "body": "<p>Move from simple to complex and connect new information to what the person already knows. Explain why a step matters, demonstrate if needed, and let the learner practice. Repetition should reinforce accurate performance. Feedback should be specific, timely, and nonjudgmental.</p><p>Avoid overwhelming the client with every possible detail in one session. Prioritize the actions that prevent harm and support the current goal. Use more than one method when useful: explanation, picture, demonstration, practice, and written reminders can reinforce one another. The method should fit the task and access needs. A video is helpful only if the person can access it and the learning is checked.</p>"
-        },
-        {
-          "heading": "Teach-back and return demonstration",
-          "body": "<p>Introduce teach-back as a check of your explanation: “I want to make sure I explained this clearly. Tell me how you will do this at home.” Ask for the person’s own words and apply the information to a realistic situation. Avoid asking them simply to repeat a phrase from the handout.</p><p>If the explanation reveals a gap, reteach a manageable part using different wording or a different method, then check again. For physical skills, observe performance with the actual or appropriate training equipment. Accurate verbal explanation does not prove dexterity or sequencing. Praise what was done correctly and address the specific missing step. Do not turn the process into a humiliating examination.</p>",
+          "heading": "How do teach-back and return demonstration work?",
+          "keyIdea": "Teach a small piece, have the client explain or show it, and reteach any gap differently.",
+          "body": "<p>Go from simple to complex, and connect new ideas to what the client knows. Explain why each step matters.</p><p>Let the client practice. Give specific, timely, nonjudgmental feedback.</p><p>Introduce teach-back as a check on yourself: “I want to make sure I explained this clearly. Tell me how you will do this at home.” Ask for their own words, not a repeated phrase.</p><p>For physical skills, watch them perform with real or training equipment. Praise what was correct, and address the exact missing step.</p>",
           "steps": [
             "Explain a small amount in plain language.",
-            "Ask for explanation or demonstration without blame.",
-            "Identify what is accurate and what is missing.",
-            "Reteach the gap with an adapted method.",
-            "Check again and plan reinforcement."
+            "Ask the client to explain or demonstrate, without blame.",
+            "Notice what is correct and what is missing.",
+            "Reteach the gap with different words or a different method.",
+            "Check again, and plan reinforcement."
+          ],
+          "example": "During teach-back, a client says, “If I miss a dose, I will take two the next morning.” The written plan says otherwise. The nurse reteaches that one point a different way and checks again."
+        },
+        {
+          "heading": "Why not just say “noncompliant”?",
+          "keyIdea": "When a plan is not followed, ask why. The fix must match the real barrier.",
+          "body": "<p>Your course warns against quickly labeling a client noncompliant. More information is not always the missing piece. Adherence means taking part in an agreed plan.</p><p>Nurses inform, assess barriers, and collaborate. They cannot control every choice.</p><p>An informed refusal still needs respectful assessment, documentation, and follow-up. Explore concerns without coercion. Involve the team if the plan must change.</p>",
+          "bullets": [
+            "Cost or insurance problems.",
+            "Side effects.",
+            "Misunderstanding.",
+            "Beliefs and values.",
+            "Limited support or trouble using supplies.",
+            "Competing responsibilities, such as work or caregiving."
+          ],
+          "example": "A client has not taken a blood pressure pill for a week. Staff call the client “noncompliant.” The client says, “Those pills make me dizzy when I stand up at work.” The nurse explores this side effect and involves the provider."
+        },
+        {
+          "heading": "How do I document and plan for discharge?",
+          "keyIdea": "Record what the client showed you, and speak up before discharge if an essential skill is not verified.",
+          "body": "<p>Record the learner, need, content, method, readiness, and language support. Note the client’s response and remaining gaps.</p><p>Say exactly what the client explained or demonstrated, and how much help they needed. “Understands” with no evidence does not guide the next nurse.</p><p>Include follow-up practice, referrals, resources, and unsolved resource barriers. If essential learning has not happened, tell the team before discharge or transfer. Check that the plan works at home, not just once at the bedside. One success may still need reinforcement over time, especially with illness, stress, or a complex plan.</p>",
+          "example": "A client with a new colostomy is to be discharged in 1 hour. The client still needs step-by-step help to change the pouch, lives alone, and the first home health visit is in 3 days. The nurse notifies the provider and case manager about the unmet essential skill."
+        },
+        {
+          "heading": "Common traps",
+          "keyIdea": "Wrong answers repeat the same teaching, trust a nod, or label the client instead of finding the barrier.",
+          "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
+          "table": {
+            "headers": [
+              "Look-alike",
+              "How to tell them apart"
+            ],
+            "rows": [
+              [
+                "Motivated vs. ready",
+                "Wanting to learn does not help if pain or nausea blocks focus."
+              ],
+              [
+                "Teach-back vs. a test",
+                "Teach-back checks your explanation. It is framed without blame."
+              ],
+              [
+                "“Do you understand?” vs. teach-back",
+                "A yes is not evidence. The client’s own explanation is."
+              ],
+              [
+                "Knowledge gap vs. function gap",
+                "Can explain but cannot open supplies? Adapt equipment or get help."
+              ],
+              [
+                "Nonadherence vs. a barrier",
+                "Missed doses may come from cost or side effects. Ask why."
+              ],
+              [
+                "Reteaching vs. repeating",
+                "Reteaching changes the words, method, pace, or support."
+              ],
+              [
+                "Family interpreter vs. qualified interpreter",
+                "Family can support. A qualified interpreter handles teaching."
+              ],
+              [
+                "Documented vs. safe for discharge",
+                "Charting an attempt does not fix an unmet essential skill."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "How the NCLEX tests this",
+          "keyIdea": "Pick the answer that finds the barrier first, then teaches and verifies to match it.",
+          "body": "<p>Expect “what should the nurse do first” items about readiness or barriers. Others ask for the most observable objective. Select-all items test teach-back steps and assessment data.</p><p><b>Sample question:</b> A client accurately explains a medication schedule but has missed refills. The client says the copayment is unaffordable. What should the nurse do first?</p><p>A: Reteach the medication schedule.<br>B: Explain the risks of missed doses.<br>C: Explore cost options with the client and the team, such as social work or pharmacy help.<br>D: Document the client as noncompliant.</p>",
+          "steps": [
+            "<b>Read the stem:</b> knowledge is correct, but refills are missed because of cost.",
+            "<b>What is it really asking?</b> What is the real barrier, and what fixes it?",
+            "<b>Key cues:</b> “accurately explains” rules out a knowledge gap. “Unaffordable” names the barrier.",
+            "<b>Why the wrong options are wrong:</b> A and B add teaching the client does not need. D labels instead of helping.",
+            "<b>The answer:</b> C. It matches the action to the cost barrier.",
+            "<b>Strategy:</b> Before choosing “teach,” ask whether the stem shows a knowledge gap at all."
           ]
         },
         {
-          "heading": "Explore barriers before labeling behavior",
-          "body": "<p>The source warns against quickly calling a client noncompliant. If a plan is not followed, ask why. Cost, side effects, misunderstanding, beliefs, limited support, difficulty using supplies, and competing responsibilities require different responses. More information is not always the missing ingredient.</p><p>Adherence emphasizes an agreed plan and active participation. Nurses provide information, assess barriers, and collaborate; they cannot control every choice. An informed refusal still requires respectful assessment, documentation, and appropriate follow-up. Explore concerns without coercion and involve the team when the plan must change. The best next step often gathers missing information rather than repeating a warning.</p>"
-        },
-        {
-          "heading": "Document evidence and next steps",
-          "body": "<p>Record the learner, need, content, method, readiness, language support, response, and remaining gaps. Specify what the person explained or demonstrated and how much assistance was needed. “Understands” without evidence gives the next clinician little guidance.</p><p>Include follow-up practice, referrals, written resources, and unresolved resource barriers. If essential learning has not occurred, communicate the concern before discharge or transfer. Evaluate whether the plan is feasible in the home setting, not only whether the skill worked once at the bedside. Learning may need reinforcement over time, especially when illness, stress, cognition, or a complex regimen affects performance.</p>"
-        },
-        {
-          "heading": "Worked bedside case: reteaching should change something",
-          "body": "<p>A client repeats the first two steps of a care routine correctly but omits the final safety check. The nurse repeats the entire explanation three times, increasingly quickly, and asks, “Do you understand now?” The client nods. This does not establish that the gap has been corrected.</p><p>Identify the specific missing step and why it matters. Check whether pain, fatigue, language, sensory access, memory load, or unclear wording contributes. Reteach a manageable portion using a clearer explanation or demonstration, then allow practice. Ask the person to show the whole sequence again when ready.</p><p>Frame the check as a responsibility to communicate well, not as a test of intelligence. Give accurate feedback about the completed steps and address the remaining gap. If physical ability or unavailable supplies prevent success, adapt the plan rather than adding words indefinitely.</p><p>Before transition, verify the essential outcome and a feasible home method. Record what the person performed, which prompts were needed, what changed after reteaching, and what requires follow-up. A successful one-time attempt may still need reinforcement, especially with illness or a complex regimen. The point is reliable use of information, not a completed teaching checklist.</p>",
+          "heading": "Worked case: reteaching should change something",
+          "keyIdea": "If teaching did not work, change the method, not just the speed or volume.",
+          "body": "<p>A client repeats the first two steps of a care routine correctly. But the client leaves out the final safety check.</p><p>The nurse repeats the whole explanation three times, faster each time, and asks, “Do you understand now?” The client nods.</p><p>The nod does not show the gap is fixed. Repeating the same words faster is not reteaching.</p>",
           "steps": [
-            "Identify the precise error and possible contributors.",
-            "Reteach the gap with a changed method or clearer wording.",
-            "Allow practice and verify the complete sequence.",
-            "Document performance, support, and remaining follow-up."
+            "Name the exact missing step and why it matters.",
+            "Check for contributors: pain, fatigue, language, vision or hearing, memory load, or unclear wording.",
+            "Reteach just that part with clearer words or a demonstration.",
+            "Let the client practice, then ask them to show the whole sequence.",
+            "Give accurate feedback on what was right and what was missing.",
+            "If hand strength or supplies block success, adapt the plan instead of adding more words.",
+            "Document what the client did, prompts needed, changes after reteaching, and follow-up."
           ],
           "check": {
             "q": "What should change after an unsuccessful teaching attempt?",
-            "a": "Reassess the barrier and adapt content, method, pace, timing, access, or support. Repeating the same material faster is not a meaningful revision."
+            "a": "Reassess the barrier, then adapt the content, method, pace, timing, access, or support. Repeating the same material faster is not a real change."
           }
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Module 41, slides 3–19 and 25. Teach-back is elaborated with <a href=\"https://www.ahrq.gov/health-literacy/improve/precautions/tool5.html\" target=\"_blank\" rel=\"noreferrer\">AHRQ Teach-Back Method, Tool 5</a>; checked October 27, 2026.</p>"
+          "body": "<p>This lesson follows your Module 41 slides.</p>",
+          "bullets": [
+            "Module 41, slides 3–19 and 25.",
+            "Teach-back is expanded using the AHRQ Teach-Back Method, Tool 5 (ahrq.gov/health-literacy/improve/precautions/tool5.html); checked October 27, 2026."
+          ]
         }
       ],
       "pearls": [
         "Assess the cause of difficulty before changing the teaching.",
-        "Readiness, motivation, understanding, physical ability, and access are distinct.",
-        "Teach-back checks the explanation; return demonstration checks skill.",
-        "Record the actual response and remaining needs."
+        "Readiness, motivation, understanding, physical ability, and access are separate.",
+        "Teach-back checks the explanation. Return demonstration checks the skill.",
+        "The most observable objective names a specific action and a time to check it.",
+        "Record the client’s actual response and the needs that remain."
       ],
       "redFlags": [
         "Unverified essential skills or missing supplies may make discharge unsafe.",
-        "Severe pain, acute confusion, or excessive sedation may prevent meaningful teaching and require assessment."
-      ],
-      "recap": [
-        "Begin with need and prior knowledge.",
-        "Address readiness and access.",
-        "Set observable goals.",
-        "Teach in manageable steps with practice.",
-        "Verify, reteach, document, and follow up."
+        "Severe pain, acute confusion, or heavy sedation may block meaningful teaching and needs assessment.",
+        "A client who lives alone with an unmet essential skill needs team notification before discharge."
       ],
       "checks": [
         {
           "q": "How should teach-back be introduced?",
-          "a": "As a check that the nurse explained clearly, asking the client to explain the plan in their own words."
+          "a": "As a check that the nurse explained clearly. Ask the client to explain the plan in their own words."
         },
         {
           "q": "A client knows the steps but cannot open supplies. What is the issue?",
-          "a": "A functional barrier requiring adaptation or assistance, not simply more verbal explanation."
+          "a": "A functional barrier. It needs adaptation or help, not more verbal explanation."
         },
         {
           "q": "What should happen after an incorrect return demonstration?",
-          "a": "Identify the specific gap, reteach nonjudgmentally, allow practice, and reassess."
+          "a": "Find the exact gap, reteach without judgment, allow practice, and check again."
         },
         {
           "q": "Why ask about cost after a missed medication refill?",
-          "a": "The barrier may be access rather than understanding or motivation; the intervention must match it."
+          "a": "The barrier may be access, not understanding or motivation. The intervention must match it."
+        },
+        {
+          "q": "A client will give daily injections at home. What should you assess first?",
+          "a": "Current knowledge, vision and hand ability, language, readiness, and resources such as supplies, storage, and cost."
         }
       ]
     },
@@ -328,19 +568,29 @@ window.NURSE_DATA.push({
       "id": "lifespan-digital-learning",
       "title": "Lifespan Teaching, Caregivers & Online Health Information",
       "exemplar": null,
-      "summary": "Adapt teaching to development and function, involve supports appropriately, and help clients judge and use digital information.",
+      "summary": "Adapt teaching to development and function, involve caregivers wisely, and help clients judge and use online health information.",
       "objectives": [
-        "Adapt teaching for children, adolescents, adults, and older adults.",
-        "Assess caregiver participation and home support without excluding the client.",
-        "Evaluate author, evidence, date, purpose, and conflicts in online information.",
-        "Assess digital access and provide usable alternatives.",
-        "Verify learning and document response across settings."
+        "You can adapt teaching for children, adolescents, adults, and older adults.",
+        "You can verify the caregiver who will actually give care, without leaving out the client.",
+        "You can check that the home setup supports the plan.",
+        "You can judge online information by author, evidence, date, purpose, and fit.",
+        "You can assess digital access and offer usable alternatives."
       ],
-      "bigPicture": "<p>The same information may need different teaching methods for a child, an adolescent, an exhausted adult, and an older adult with reduced vision. Age gives context, but development, function, language, prior experience, and the home environment determine the plan.</p><p>Digital tools can extend learning through videos, portals, and follow-up, but availability does not guarantee access or quality. The nurse helps the learner choose reliable information and verifies that the tool works for their circumstances. A printed or in-person alternative may be necessary when technology adds a barrier.</p>",
+      "bigPicture": "<p>The same information may need very different teaching for a child, a teen, a tired adult, or an older adult with poor vision. Age gives context. But development, function, language, experience, and the home setting shape the plan.</p><p>Videos, portals, and apps can extend learning. But a link does not guarantee access or quality. The nurse helps the learner find reliable information and checks that the tool works for them. Sometimes printed or in-person teaching is the better choice.</p>",
+      "recap": [
+        "Teach to development and function, not to age alone.",
+        "Young children learn through play and concrete demonstration. Include the child while teaching the caregiver.",
+        "Engage the teen directly. A parent’s agreement is not the teen’s learning.",
+        "For older adults, assess function and preferences. Age alone is not a learning barrier.",
+        "Watching is not doing. Verify the person who will actually give care at home.",
+        "Check that home help, supplies, and setup really exist before discharge.",
+        "Judge websites by author, evidence, date, purpose, and fit. Beware guaranteed cures and sales pressure.",
+        "Portals are for routine needs. Urgent symptoms need direct, immediate action."
+      ],
       "keyTerms": [
         {
           "term": "Developmental adaptation",
-          "def": "Matching content, language, participation, and practice to the person’s actual developmental abilities."
+          "def": "Matching content, words, participation, and practice to what the person can actually do at their stage of development."
         },
         {
           "term": "Caregiver readiness",
@@ -348,46 +598,65 @@ window.NURSE_DATA.push({
         },
         {
           "term": "Digital access",
-          "def": "Availability and usable access to a device, connection, accessible format, language, and necessary skills."
+          "def": "Having a working device, internet connection, accessible format, language, and the skills to use them."
         },
         {
           "term": "Source credibility",
-          "def": "The trustworthiness of information based on relevant expertise, evidence, transparency, and purpose."
+          "def": "How trustworthy information is, based on the author’s expertise, evidence, openness, and purpose."
         },
         {
           "term": "Conflict of interest",
-          "def": "An interest, such as a commercial benefit, that may influence how information is selected or presented."
+          "def": "A personal or business gain, such as selling a product, that may bias how information is presented."
+        },
+        {
+          "term": "Patient portal",
+          "def": "A secure website or app for routine messages, test results, and appointments. It is not for emergencies."
         },
         {
           "term": "Reinforcement",
-          "def": "Planned review and practice that supports retention and accurate use over time."
+          "def": "Planned review and practice over time that helps the learner remember and use information correctly."
         }
       ],
       "sections": [
         {
-          "heading": "Children: teach the caregiver and include the child",
-          "body": "<p>Assess developmental level before planning. Young children may need concrete words, short explanations, play, pictures, or demonstration with a familiar object. Address the child by name and create a calm environment. Include the child in a way that supports trust rather than talking only to the adult.</p><p>Caregivers often perform essential care and need their own explanation, practice, and evaluation. Verify who will actually provide the care at home. A parent observing a demonstration does not prove they can perform it. Allow questions and practice, provide specific encouragement, and document both child and caregiver response. If developmental or sensory needs affect participation, adapt the plan and involve appropriate services.</p>"
+          "heading": "How do I teach young children?",
+          "keyIdea": "Teach the child through play and concrete words, and teach the caregiver separately with practice.",
+          "body": "<p>Assess development before planning. Young children may need concrete words, short explanations, play, pictures, or a demonstration on a familiar object.</p><p>Use the child’s name and keep the setting calm. Including the child builds trust and cooperation.</p><p>Caregivers often do the essential care. They need their own explanation, practice, and evaluation.</p><p>Find out who will actually give care at home. A parent watching a demonstration does not prove they can do it.</p>",
+          "example": "A 4-year-old will get nebulizer treatments with a face mask at home. The nurse has the child put the mask on a toy first, using short, concrete words. The parent also gets separate teaching, practice, and evaluation."
         },
         {
-          "heading": "Adolescents: relevance, respect, and participation",
-          "body": "<p>Assess understanding, independence, concerns, and desired support. Adolescents may be particularly sensitive to judgment and peer-related consequences. Use a calm nonreactive approach, explain expectations, and involve the young person in the plan. Do not assume that a parent’s agreement establishes the adolescent’s understanding or commitment.</p><p>Teaching may address safety, consequences, self-management, and responsibility in developmentally appropriate language. Discuss privacy and confidentiality limits accurately within policy and law. Technology may engage some adolescents, but not all have reliable private device access. Ask what method is useful and safe for them. Evaluate learning with the same attention to explanation and performance used for other age groups.</p>"
+          "heading": "How do I teach adolescents?",
+          "keyIdea": "Treat the teen as an active partner, stay calm and nonjudgmental, and check their own understanding.",
+          "body": "<p>Assess the teen’s understanding, independence, worries, and wanted support. Teens can be sensitive to judgment and to what peers think.</p><p>Use a calm approach and clear expectations. A parent’s agreement does not show the teen understands or is committed.</p><p>Teach safety, self-management, and responsibility in words that fit. Explain privacy and confidentiality limits accurately, within policy and law.</p><p>Technology may engage some teens, but not all have a private, reliable device. Ask what works for them, then verify learning.</p>",
+          "example": "A 15-year-old with new type 1 diabetes sits silently while a parent answers. The teen rolls their eyes and looks at a phone. First, the nurse asks the teen what they already know and what worries them most. Scare tactics often make teens more defensive."
         },
         {
-          "heading": "Adults: use relevance and real constraints",
-          "body": "<p>Adults bring experience, responsibilities, beliefs, and routines. Ask how the new plan fits work, caregiving, finances, and prior practices. Explain why information matters to the goal they value. Even when you know the client, reassess current needs; acute illness or changed circumstances can alter readiness.</p><p>Support self-direction while providing accurate clinical information. Give time for questions and practice. A person who chooses differently from the nurse is not automatically incapable or uninformed. Explore the reasoning and barriers, clarify risks and options, and coordinate a feasible plan. Nurses cannot control every response or habit; they can improve access, understanding, and support.</p>"
+          "heading": "How do I teach adults?",
+          "keyIdea": "Connect teaching to the adult’s goals, experience, and real-life limits.",
+          "body": "<p>Adults bring experience, duties, beliefs, and routines. Ask how the plan fits their work, caregiving, money, and habits.</p><p>Explain why the information matters to a goal they value. Reassess each time, because illness or new life events change readiness.</p><p>Support self-direction while giving accurate information. Allow time for questions and practice.</p><p>A client who chooses differently than you would is not automatically incapable or uninformed. Explore their reasons and barriers, explain risks and options, and plan something feasible.</p>"
         },
         {
-          "heading": "Older adults: assess function rather than assume decline",
-          "body": "<p>Check hearing, vision, energy, memory, movement, pain, and processing time. Use appropriate print, lighting, pacing, repetition, and a calm environment. Offer time to respond instead of finishing answers. Many older adults learn effectively when barriers are addressed.</p><p>Include the person in goals and decisions. Family or a caregiver may help when desired and appropriate, but should not automatically replace the learner. If a support person will perform a skill, assess and verify their performance too. Teach chronic-condition management, medication routines, nutrition, activity, safety, and follow-up according to the individual’s actual needs. Age alone is not a reason to omit essential teaching or direct it exclusively to relatives.</p>",
-          "example": "An older adult misses small text but explains the plan accurately when it is read aloud. Improve visual access rather than documenting inability to learn."
+          "heading": "How do I teach older adults?",
+          "keyIdea": "Assess function rather than assuming decline, and keep the older adult in charge of their own learning.",
+          "body": "<p>Many older adults learn well once barriers are addressed. Check the areas below and adapt. Give time to respond instead of finishing their answers.</p><p>Include the person in goals and decisions. Family may help when the client wants it. But family should not automatically replace the learner.</p><p>If a support person will do a skill, verify their performance too. Age alone is never a reason to skip essential teaching.</p>",
+          "bullets": [
+            "Hearing and vision: use good lighting and clear print.",
+            "Energy, pain, and movement, including hand strength.",
+            "Memory and processing time: pace, repeat, and keep the setting calm.",
+            "What to teach: medicines, chronic-condition care, nutrition, activity, safety, and follow-up."
+          ],
+          "example": "An alert 82-year-old with arthritis in both hands is learning a new inhaler. She says, “I want to keep managing my own medicines.” Her son says, “Just teach me. She is too old to learn this.” First, the nurse assesses her grip on the inhaler and asks how she wants her son involved."
         },
         {
-          "heading": "Assess the home system",
-          "body": "<p>A bedside skill may depend on a countertop, electricity, clean water, storage, or another person’s assistance. Ask what the home setting actually offers. A client may live alone, have limited transport, or depend on a caregiver who works overnight. These details change the plan.</p><p>Coordinate with the interprofessional team when equipment, community support, or a different care arrangement is needed. Teach with the supplies and method the person will use whenever possible. Ask the learner to describe how the routine will fit into a normal day and what they will do if a problem occurs. This makes hidden barriers visible before the transition.</p>"
+          "heading": "Will the plan work at home?",
+          "keyIdea": "A bedside skill only works if the home has the space, supplies, and help it depends on.",
+          "body": "<p>A skill may depend on a countertop, electricity, clean water, storage, or another person. Ask what the home actually offers. The client may live alone, lack transport, or rely on a caregiver who works nights.</p><p>Work with the team when equipment, community help, or a new care arrangement is needed. Teach with the real supplies whenever possible. Ask the client to walk you through a normal day with the routine, and what they will do if a problem occurs.</p>",
+          "example": "A client with left-sided weakness after a stroke needs a two-handed dressing change daily. The only trained helper, a neighbor, will be away for 2 weeks. The nurse addresses this first, for example by arranging home health, training another helper, or adapting the method."
         },
         {
-          "heading": "Appraise online health information",
-          "body": "<p>Ask who wrote the information, what relevant qualifications they have, what evidence is cited, when it was updated, and why the site exists. Review the “About” information and working references. Commercial sponsorship is a reason to examine claims carefully, not proof that every statement is false. Likewise, an impressive logo or professional-looking page does not prove quality.</p><p>Check whether the information applies to the client’s condition and situation. A personal story may provide support but cannot establish that a treatment works for everyone. Warning signs include guaranteed cures, pressure to buy, missing evidence, and advice to abandon prescribed treatment without review. Invite the client to discuss a questionable page without embarrassment; shaming them may make future disclosure less likely.</p>",
+          "heading": "How do I judge online health information?",
+          "keyIdea": "Check who wrote it, what supports it, when it was updated, why it exists, and whether it fits.",
+          "body": "<p>Read the “About” page and check that references work. Commercial sponsorship is a reason to look closely. It does not prove every claim is false.</p><p>A polished page or logo does not prove quality. A recent date alone does not prove reliability.</p><p>A personal story can offer support, but it cannot prove a treatment works for everyone. Warning signs include guaranteed cures, pressure to buy, missing evidence, and advice to stop prescribed treatment.</p><p>Invite the client to share questionable pages without embarrassment. Shaming makes future sharing less likely.</p>",
           "table": {
             "headers": [
               "Question",
@@ -400,15 +669,15 @@ window.NURSE_DATA.push({
               ],
               [
                 "What supports the claim?",
-                "Evidence and traceable references."
+                "Evidence and references you can trace."
               ],
               [
                 "When was it reviewed?",
-                "Potentially outdated guidance."
+                "Guidance may be out of date."
               ],
               [
                 "Why is it published?",
-                "Purpose, advertising, or conflicts."
+                "Purpose, advertising, or conflicts of interest."
               ],
               [
                 "Does it fit this client?",
@@ -418,66 +687,128 @@ window.NURSE_DATA.push({
           }
         },
         {
-          "heading": "Choose usable technology",
-          "body": "<p>Portals, videos, applications, quizzes, and secure video visits may support individualized education. Assess internet, device, language, accessibility, privacy, and confidence using the tool. A link is not useful if it requires an unavailable connection or a login the client cannot manage.</p><p>Demonstrate the actual access process when relevant and ask the client to show how they will use it. Provide an alternative when needed, such as accessible printed material or direct follow-up. Use approved systems for personal health information. Routine asynchronous messages should not be presented as an emergency response channel. Teach what concerns need immediate direct contact and which can wait for routine follow-up.</p>"
+          "heading": "How do I choose usable technology?",
+          "keyIdea": "A tool only helps if the learner can access it, understand it, and use it safely.",
+          "body": "<p>Portals, videos, apps, quizzes, and secure video visits can personalize teaching. First assess internet, device, language, accessibility, privacy, and confidence. A link is useless if it needs a connection or login the client lacks.</p><p>Show the real login steps and have the client show you. Offer accessible print or direct follow-up when needed. Use approved systems for health information.</p><p>Teach which concerns need immediate direct contact and which can wait. Then verify learning and document the method, access needs, response, and follow-up.</p>",
+          "example": "After a cardiac procedure, a client says, “If my chest pain comes back tonight, I will send a portal message.” This needs more teaching. Returning chest pain needs the immediate direct action the client was taught, such as calling emergency services."
         },
         {
-          "heading": "Evaluate and reinforce across the transition",
-          "body": "<p>Whether teaching uses play, conversation, paper, or a portal, learning still needs verification. Ask for explanation, an applied choice, or demonstration matched to the objective. Identify what was learned and what remains uncertain. Repeat and adapt as needed without blaming the learner.</p><p>Document the learner, support people, method, access needs, response, and follow-up. At transfer, communicate unresolved teaching and resource needs. A client may need repeated practice or a community referral rather than another identical packet. The outcome is a feasible safe plan the person can use, not simply completion of a discharge education checklist.</p>"
+          "heading": "Common traps",
+          "keyIdea": "Wrong answers assume by age, trust a link or a watched video, or judge a website by its looks.",
+          "body": "<p>These look-alikes cause many missed questions. Learn how to tell them apart.</p>",
+          "table": {
+            "headers": [
+              "Look-alike",
+              "How to tell them apart"
+            ],
+            "rows": [
+              [
+                "Older age vs. inability to learn",
+                "Assess function. Adapt for vision, hands, or pace."
+              ],
+              [
+                "Caregiver present vs. caregiver competent",
+                "Watching is not doing. Have the caregiver practice and demonstrate."
+              ],
+              [
+                "Parent agrees vs. teen learns",
+                "Ask the teen directly what they know and worry about."
+              ],
+              [
+                "Link given vs. access",
+                "Confirm device, internet, language, and login before relying on it."
+              ],
+              [
+                "Polished site vs. credible site",
+                "Check author, evidence, date, purpose, and fit."
+              ],
+              [
+                "Credible vs. suitable",
+                "A good source can still use the wrong product, language, or format."
+              ],
+              [
+                "Portal message vs. emergency call",
+                "Portals are for routine needs. Urgent symptoms need direct action."
+              ],
+              [
+                "Trained helper on paper vs. at home",
+                "Confirm the helper will actually be there."
+              ]
+            ]
+          }
         },
         {
-          "heading": "Worked bedside case: a link does not create access",
-          "body": "<p>A caregiver agrees to watch a home-care video but later says the phone has limited data, the instructions are in an unfamiliar language, and the actual supplies differ from those shown. The nurse should not infer that viewing was declined or that the caregiver lacks motivation.</p><p>Assess access, language, equipment, and who will perform care. A translated accessible explanation, demonstration with the correct supplies, and observed practice may be more useful than another link. Include the child or dependent client developmentally and according to ability while preparing the actual caregiver.</p><p>If online information is used, review authorship, evidence, date, purpose, and relevance. A polished video may still demonstrate a different product or an outdated process. A reliable resource must also fit the actual plan and be usable by this learner. Provide an appropriate alternative when technology adds a barrier.</p><p>Evaluate the caregiver’s explanation and performance and ask how the routine will work at home. Confirm needed supplies and follow-up. Document the adapted method and remaining needs for the receiving team. This approach connects digital appraisal with practical discharge safety: the objective is a usable care process, not merely proof that information was sent.</p>",
+          "heading": "How the NCLEX tests this",
+          "keyIdea": "Choose the answer that includes the learner, verifies the real caregiver, and fits real access.",
+          "body": "<p>Expect lifespan items about a child, teen, or older adult with a family member present. Select-all items often ask for website warning signs or what to check before using a video.</p><p><b>Sample question:</b> A parent will do a child’s home care. The parent watched the demonstration but has not practiced, and discharge is near. What should the nurse do first?</p><p>A: Give a video link to review at home.<br>B: Have the parent perform the care while the nurse observes.<br>C: Document that teaching was completed.<br>D: Repeat the demonstration for the parent.</p>",
           "steps": [
-            "Assess technology, language, supplies, and the actual caregiver.",
-            "Choose a credible resource relevant to the real task.",
-            "Provide an accessible alternative and hands-on practice.",
-            "Verify home feasibility and communicate unresolved needs."
+            "<b>Read the stem:</b> the parent is the real caregiver, has only watched, and time is short.",
+            "<b>What is it really asking?</b> What evidence shows the caregiver can safely do the care?",
+            "<b>Key cues:</b> “watched” and “has not practiced” mean learning is not verified.",
+            "<b>Why the wrong options are wrong:</b> A and D give more watching, not doing. C records teaching, not learning.",
+            "<b>The answer:</b> B. A return demonstration verifies the person who will actually give care.",
+            "<b>Strategy:</b> Ask, “Who will do this at home, and have I seen them do it?”"
+          ]
+        },
+        {
+          "heading": "Worked case: a link does not create access",
+          "keyIdea": "When a resource does not work for the learner, change the resource, not your view of the learner.",
+          "body": "<p>A caregiver agrees to watch a home-care video. Later, the caregiver says the phone has limited data and the video is in an unfamiliar language. The supplies shown also differ from the ones at home.</p><p>This does not mean the caregiver refused or lacks motivation. Even a credible video may show another product or an outdated process.</p>",
+          "steps": [
+            "Assess technology, language, supplies, and who will actually give care.",
+            "Choose a credible resource that matches the real task and supplies.",
+            "Provide an accessible explanation in the caregiver’s language, with a qualified interpreter if needed.",
+            "Demonstrate with the correct supplies, then watch the caregiver practice.",
+            "Include the child or dependent client in a way that fits their development.",
+            "Ask how the routine will work at home. Confirm supplies and follow-up.",
+            "Document the adapted method and pass on remaining needs."
           ],
           "check": {
             "q": "Can a credible resource still be unsuitable?",
-            "a": "Yes. It may be inaccessible, use another language or product, or fail to fit the client’s condition and home plan. Credibility and applicability both matter."
+            "a": "Yes. It may be inaccessible, in another language, show a different product, or not fit the client’s condition and home plan. Credibility and fit both matter."
           }
         },
         {
           "heading": "Course source & clinical clarification",
-          "body": "<p>Module 41 Teaching Learning, slides 20–28 and SmartArt diagram 4. Digital appraisal and access examples apply the source’s authorship, evidence, date, and individualized-teaching criteria.</p>"
+          "body": "<p>This lesson follows your Module 41 slides.</p>",
+          "bullets": [
+            "Module 41 Teaching Learning, slides 20–28 and SmartArt diagram 4.",
+            "Digital appraisal and access examples apply the source’s criteria: authorship, evidence, date, and individualized teaching."
+          ]
         }
       ],
       "pearls": [
         "Teach to developmental and functional ability, not age alone.",
         "Caregiver presence is not evidence of caregiver competence.",
         "A credible website still must be relevant and current.",
-        "Digital tools need an access plan and verified learning."
+        "Digital tools need an access plan and verified learning.",
+        "When family speaks for an alert client, assess the client’s ability and ask how they want family involved."
       ],
       "redFlags": [
-        "A website recommending abandonment of prescribed treatment needs critical review with the care team.",
-        "Missing device access, essential supplies, or trained support can undermine a discharge plan.",
-        "Urgent symptoms require the instructed direct clinical response, not a routine portal message."
-      ],
-      "recap": [
-        "Include the child and support the caregiver.",
-        "Respect adolescent participation and privacy rules.",
-        "Use adult experience and assess practical constraints.",
-        "Adapt older-adult teaching to function and sensory access.",
-        "Appraise digital sources and verify use."
+        "A website advising the client to stop prescribed treatment needs critical review with the care team.",
+        "Missing device access, essential supplies, or trained support can make a discharge plan unsafe.",
+        "Urgent symptoms need the instructed direct clinical response, not a routine portal message."
       ],
       "checks": [
         {
-          "q": "Should all teaching for an older adult be directed to family?",
-          "a": "No. Assess the client’s abilities and preferences and include supports appropriately."
+          "q": "Should all teaching for an older adult go to family?",
+          "a": "No. Assess the client’s abilities and wishes, and include supports as the client prefers."
         },
         {
           "q": "What should be checked before relying on a portal video?",
-          "a": "Device and internet access, language, sensory accessibility, ability to use it, privacy, and actual learning."
+          "a": "Device and internet access, language, sensory access, ability to use it, privacy, fit with real supplies, and actual learning afterward."
         },
         {
           "q": "Does a recent date prove online information is reliable?",
-          "a": "No. Also assess author expertise, evidence, purpose, conflicts, and relevance."
+          "a": "No. Also check author expertise, evidence, purpose, conflicts of interest, and relevance."
         },
         {
-          "q": "A caregiver will perform home care. What evidence is needed?",
-          "a": "The caregiver’s actual understanding and demonstrated ability, plus a feasible resource and follow-up plan."
+          "q": "A caregiver will do home care. What evidence is needed?",
+          "a": "The caregiver’s own explanation and demonstrated skill, plus feasible resources and a follow-up plan."
+        },
+        {
+          "q": "A client brings a slick website selling its own “guaranteed cure” with no references. Best response?",
+          "a": "Without shaming, review the warning signs together: a guaranteed cure, a sales motive, and no evidence. Then discuss reliable sources."
         }
       ]
     }

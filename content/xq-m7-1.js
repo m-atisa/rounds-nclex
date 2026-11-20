@@ -1,0 +1,2531 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({ "moduleId": "m7", "moduleNumber": 7, "moduleTitle": "Health, Wellness, Illness & Injury", "questions": [
+  {
+    "id": "m7-x1-001",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A clinic nurse reviews four portal messages that arrived overnight. Which client should the nurse contact first?",
+    "options": [
+      "The client with asthma who uses the rescue inhaler every 2 hours and cannot finish sentences.",
+      "The client with osteoarthritis whose insurance copay for physical therapy increased this month.",
+      "The client with multiple sclerosis in remission who asks whether a beginner yoga class is safe.",
+      "The client with hypertension who missed yesterday's visit because the bus route changed."
+    ],
+    "optionRationales": [
+      "Correct. Frequent rescue use with speech-limiting dyspnea signals an acute exacerbation and a possible airway and breathing threat.",
+      "Incorrect. A cost barrier needs a resource response, but it is not an immediate physiologic threat.",
+      "Incorrect. This is a reasonable wellness question from a stable client and can be answered after urgent needs.",
+      "Incorrect. Transportation is a real access barrier to address, but it can wait until the unstable client is assessed."
+    ],
+    "answer": 0,
+    "rationale": "When several clients have chronic conditions, the priority is the one whose current findings show acute change threatening airway, breathing, or circulation. Needing a rescue inhaler every 2 hours and being unable to finish sentences is an acute exacerbation layered on chronic asthma. Social-determinant problems such as cost and transportation matter and need follow-up the same day, but they do not outrank a breathing threat. The tempting error is to pick the access barrier because missed care feels urgent; it is important, not emergent.",
+    "takeaway": "Chronic illness can flare acutely; a current breathing threat outranks access and wellness concerns.",
+    "hintContent": "Look for the message describing a change from the client's baseline that affects breathing.",
+    "hintStrategy": "Apply ABCs: when only one option describes a physiologic threat, it outranks psychosocial and access needs.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Prioritization",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": true,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Overnight portal messages",
+          "table": {
+            "headers": [
+              "Client",
+              "Message"
+            ],
+            "rows": [
+              [
+                "Osteoarthritis",
+                "My PT copay went up. Not sure I can keep going."
+              ],
+              [
+                "Asthma",
+                "Using my inhaler every 2 hours since 5 a.m. Hard to talk."
+              ],
+              [
+                "Multiple sclerosis (remission)",
+                "Is a beginner yoga class OK for me?"
+              ],
+              [
+                "Hypertension",
+                "Missed my visit, bus route changed."
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-002",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "An 81-year-old client recovering from a hip fracture needs one-person assistance for transfers and toileting. Discharge home is ordered for this afternoon. The client's daughter says, “I work 12-hour night shifts all week, and there is no one else who can help during the day.” Which action should the nurse take first?",
+    "options": [
+      "Notify the provider and case manager that daytime help is not in place.",
+      "Give the daughter a list of home-care agencies to call after discharge.",
+      "Teach the daughter safe transfer technique before she leaves for work today.",
+      "Reassure the daughter that her mother's independence will return quickly."
+    ],
+    "optionRationales": [
+      "Correct. A caregiving gap makes the discharge plan unsafe, so the team must revise it before the client leaves.",
+      "Incorrect. Deferring the gap until after discharge leaves the client without help when care begins.",
+      "Incorrect. Teaching does not solve the hours when no helper will be present, so the plan stays unsafe.",
+      "Incorrect. This is false reassurance and ignores the identified need for hands-on help."
+    ],
+    "answer": 0,
+    "rationale": "A discharge plan is only safe if the client's care needs can actually be met at home. This client needs hands-on help for transfers and toileting, and the daughter has just identified that no one is available during the day. That is a safety problem to escalate before discharge, which is why notifying the provider and case manager comes first. Teaching transfers is tempting because the daughter is willing, but willingness and skill do not cover the hours she is at work.",
+    "takeaway": "When caregiver capacity cannot meet the client's needs, escalate before discharge rather than teaching around the gap.",
+    "hintContent": "Ask whether any option actually changes who will be present during the day.",
+    "hintStrategy": "When a plan is unsafe, choose the action that stops or revises the plan over actions that proceed with it.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Delegation & Safety",
+    "difficulty": 3,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": true,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Discharge readiness",
+          "table": {
+            "headers": [
+              "Area",
+              "Status"
+            ],
+            "rows": [
+              [
+                "Transfers",
+                "Requires 1-person assist"
+              ],
+              [
+                "Toileting",
+                "Requires 1-person assist"
+              ],
+              [
+                "Caregiver",
+                "Daughter; works 12-hour night shifts"
+              ],
+              [
+                "Daytime help",
+                "None identified"
+              ],
+              [
+                "Discharge order",
+                "Today, 1500"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-003",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A client with type 2 diabetes tells the nurse, “Insulin got too expensive, so I've been taking half my dose to make it last.” Today the client reports nausea and increased thirst, and the fingerstick glucose is 348 mg/dL. Which action should the nurse take first?",
+    "options": [
+      "Refer the client to social work for a medication assistance program.",
+      "Teach the client the complications of skipping prescribed insulin doses.",
+      "Review the client's grocery budget and usual daily meal pattern.",
+      "Assess the client's current status further and notify the provider."
+    ],
+    "optionRationales": [
+      "Incorrect. The cost barrier needs a referral, but the current hyperglycemia and symptoms must be addressed first.",
+      "Incorrect. More teaching does not fix the cost barrier or the immediate physiologic change.",
+      "Incorrect. Nutrition and budget assessment can follow once the acute problem is managed.",
+      "Correct. Marked hyperglycemia with new symptoms is an immediate physiologic concern requiring assessment and provider notification."
+    ],
+    "answer": 3,
+    "rationale": "Social determinants often explain why a physiologic problem developed, but the nurse still addresses immediate safety first. A glucose of 348 mg/dL with nausea and thirst suggests worsening hyperglycemia that needs further assessment and prompt provider notification. The social work referral is the most tempting answer because it fixes the root cause, and it should happen during this same visit, just not before the client's current condition is managed. Lecturing about complications also misses that the problem is cost, not knowledge.",
+    "takeaway": "Address the acute physiologic problem first, then the social barrier that caused it.",
+    "hintContent": "Separate the reason the problem happened from what the client needs right now.",
+    "hintStrategy": "When an option fixes the root cause and another addresses current physical risk, physical risk usually comes first.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Prioritization",
+    "difficulty": 3,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Clinic visit",
+          "table": {
+            "headers": [
+              "Item",
+              "Finding"
+            ],
+            "rows": [
+              [
+                "Fingerstick glucose",
+                "348 mg/dL"
+              ],
+              [
+                "Symptoms",
+                "Nausea, increased thirst"
+              ],
+              [
+                "Insulin use",
+                "Taking half of prescribed dose for 2 weeks"
+              ],
+              [
+                "Reason given",
+                "Cannot afford full supply"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-004",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "An older adult with long-standing osteoarthritis is admitted for knee pain. Today the client cannot recall being in the hospital and keeps calling the nurse by her late sister's name. The son says, “She's just getting older and slowing down.” Which action should the nurse take first?",
+    "options": [
+      "Assess vital signs and cognition and compare them with her baseline.",
+      "Reorient the client and place a calendar where she can see it.",
+      "Ask the son how long his mother has had memory problems at home.",
+      "Document the confusion as expected for an older adult with chronic pain."
+    ],
+    "optionRationales": [
+      "Correct. Acute confusion is a red-flag change from baseline that requires prompt assessment regardless of age or chronic diagnosis.",
+      "Incorrect. Reorientation is supportive but does not identify the cause of new confusion.",
+      "Incorrect. History is useful, but the new change today must be assessed directly and promptly.",
+      "Incorrect. Acute confusion is not a normal part of aging and should not be normalized."
+    ],
+    "answer": 0,
+    "rationale": "A long-standing diagnosis does not explain a new change in function, and acute confusion is a red flag that requires prompt assessment. Comparing vital signs and cognition with the client's baseline helps identify possible causes such as infection, hypoxia, or medication effects. Asking the son about history is tempting because it gathers data, but it delays assessing the client in front of you. Reorientation and documentation are reasonable later, not as the first response to an unexplained change.",
+    "takeaway": "New confusion is never ‘just aging’; assess the client against baseline right away.",
+    "hintContent": "Consider whether the change is chronic or new today.",
+    "hintStrategy": "Assess before you implement; choose direct client assessment over secondhand information when a change is new.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-005",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "During an intake visit, a client says, “Every clinic I've been to treats me like I'm not worth their time. Why should I trust this place?” Which response should the nurse make first?",
+    "options": [
+      "“Our staff are trained to treat every client exactly the same way.”",
+      "“Would you like me to schedule you with a different provider today?”",
+      "“Let's focus on today's visit so we can get your care started.”",
+      "“That sounds painful. Can you tell me about what happened before?”"
+    ],
+    "optionRationales": [
+      "Incorrect. This defends the clinic and dismisses the client's experience rather than exploring it.",
+      "Incorrect. Offering a change before understanding the concern is premature problem-solving.",
+      "Incorrect. Redirecting away from the concern blocks trust and may lead to disengagement.",
+      "Correct. Acknowledging the feeling and inviting the client's story builds trust and identifies the access barrier."
+    ],
+    "answer": 3,
+    "rationale": "Repeated discriminatory care experiences are a trust and access barrier, and the nursing response is to listen, validate, and then advocate for respectful care. An empathic acknowledgment followed by an open-ended question invites the client to explain what happened and what would help. Defending the clinic is the most tempting wrong answer because it sounds reassuring, but it implicitly tells the client the concern is unfounded. Offering a new provider or redirecting to the visit skips the assessment the client's statement calls for.",
+    "takeaway": "When a client describes discriminatory care, listen and validate before defending or problem-solving.",
+    "hintContent": "Think about what builds trust with someone who expects to be dismissed.",
+    "hintStrategy": "In therapeutic communication items, eliminate options that defend, redirect, or solve before the client's concern is explored.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-006",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A client is brought to the emergency department after slipping on a loose rug at home. The client reports severe right hip pain, and the right leg appears shortened. Which action should the nurse take first?",
+    "options": [
+      "Ask about rugs, lighting, and other hazards in the client's home.",
+      "Teach the family how to secure rugs and clear walking paths at home.",
+      "Refer the client to a community fall-prevention program.",
+      "Assess pain, circulation, and sensation in the affected leg."
+    ],
+    "optionRationales": [
+      "Incorrect. Home hazard assessment supports future prevention but does not address the current injury.",
+      "Incorrect. Prevention teaching is appropriate later, after the acute injury is stabilized.",
+      "Incorrect. A referral addresses future risk, not the immediate injury and its complications.",
+      "Correct. A suspected fracture requires immediate assessment of pain and neurovascular status."
+    ],
+    "answer": 3,
+    "rationale": "Injury care has two layers: managing the injury that happened and preventing the next one. Severe hip pain with a shortened leg suggests a fracture, so the immediate priority is assessing pain, circulation, and sensation in the affected limb. Asking about home hazards is the tempting answer because the cause is obvious and prevention matters, but it belongs after the client is stabilized. Teaching and community referrals likewise focus on future risk.",
+    "takeaway": "Treat the current injury first; prevention of the next injury comes after stabilization.",
+    "hintContent": "Decide whether each option addresses what has already happened or what might happen later.",
+    "hintStrategy": "Acute and unstable problems outrank prevention; choose the option that assesses the current injury.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Prioritization",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-007",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "At a first prenatal visit, a 24-year-old client says she has been sleeping in her car for two weeks and often skips meals because she has no money for food. Which action should the nurse take first?",
+    "options": [
+      "Ask where the client will sleep tonight and contact social work now.",
+      "Teach the client which foods provide the most nutrition per dollar.",
+      "Give the client a written handout about prenatal vitamins and diet.",
+      "Schedule a follow-up visit in four weeks to reassess the client's food intake."
+    ],
+    "optionRationales": [
+      "Correct. Lack of shelter and food is an immediate safety need, so the nurse assesses tonight's plan and connects resources now.",
+      "Incorrect. Teaching cannot create money or shelter, so it does not address the most basic barrier.",
+      "Incorrect. A handout ignores the lack of food and a safe place to store supplies.",
+      "Incorrect. Waiting a month leaves an urgent housing and food gap unaddressed."
+    ],
+    "answer": 0,
+    "rationale": "Social determinants such as housing and food access can make any teaching plan impossible to carry out. Sleeping in a car and skipping meals during pregnancy are basic safety and nutrition needs, so the first step is to clarify tonight's situation and connect the client with social work the same day. Nutrition-per-dollar teaching is tempting because it sounds practical, but it still assumes the client has money and a place to store food. Delaying follow-up for a month leaves the barrier untouched.",
+    "takeaway": "Teaching alone cannot solve a lack of food or shelter; match the barrier to a resource now.",
+    "hintContent": "Identify the most basic need the client described.",
+    "hintStrategy": "Use Maslow: shelter and food come before knowledge and long-term planning.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-008",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A 34-year-old client who uses a wheelchair after a spinal cord injury says, “My wife does everything for me now. I feel useless.” Which response should the nurse make first?",
+    "options": [
+      "“Your wife clearly loves you and is glad to help with your care.”",
+      "“Many people with spinal cord injuries feel this way at first.”",
+      "“I will arrange a counseling referral so you can talk about this.”",
+      "“What would you most like to be able to do for yourself again?”"
+    ],
+    "optionRationales": [
+      "Incorrect. This offers reassurance that dismisses the client's feelings about his changed role.",
+      "Incorrect. Generalizing minimizes the client's experience and does not explore what matters to him.",
+      "Incorrect. A referral may help later, but it passes the concern on without first exploring it.",
+      "Correct. Exploring the client's priorities supports participation and identifies roles he wants to regain."
+    ],
+    "answer": 3,
+    "rationale": "Illness and injury change family roles, and preserving the client's participation and independence is part of nursing care. Asking what the client would most like to do for himself explores his priorities and can guide therapy, adaptive equipment, and role adjustments with his wife. Reassuring him that his wife is happy to help is the tempting answer, but it reinforces the dependence he is grieving. A counseling referral may be appropriate later, but it should not replace the nurse's own exploration.",
+    "takeaway": "When a client feels role loss, explore what independence and roles matter to them.",
+    "hintContent": "Think about which response keeps the focus on the client's own goals.",
+    "hintStrategy": "For therapeutic communication, favor open-ended exploration over reassurance, generalizing, or referral.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-009",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A client with HIV has an undetectable viral load and stable CD4 counts. The client says, “Since my partner died, I haven't left the house in weeks. I don't really see the point anymore.” Which action should the nurse take first?",
+    "options": [
+      "Point out that the laboratory results show the client is doing very well.",
+      "Suggest that the client join a local grief support group next week.",
+      "Ask the client directly whether they are having thoughts of suicide.",
+      "Schedule a grief counseling appointment for the coming month."
+    ],
+    "optionRationales": [
+      "Incorrect. Physical stability does not measure emotional wellness and dismisses the client's distress.",
+      "Incorrect. Support may help later, but the statement first requires a safety assessment.",
+      "Correct. “I don't see the point” after a major loss requires direct assessment of suicide risk before other plans.",
+      "Incorrect. Delaying the response leaves a possible safety risk unassessed."
+    ],
+    "answer": 2,
+    "rationale": "Wellness is multidimensional, and normal laboratory values cannot measure emotional or social well-being. This client describes isolation and hopelessness after a loss, and “I don't see the point” is a possible warning sign that requires a direct question about suicidal thoughts. Asking directly does not increase risk and is the safety step that determines what comes next. Support groups and counseling are tempting because they address grief, but they should follow, not replace, the safety assessment.",
+    "takeaway": "Hopeless statements require a direct suicide-risk question before planning support.",
+    "hintContent": "Listen for a statement that may signal a safety risk rather than only sadness.",
+    "hintStrategy": "When a psychosocial item contains a possible safety threat, assess safety first.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 3,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-010",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A 29-year-old client has had fatigue and joint aches for three months. Initial blood work was normal. The client says, “The doctor found nothing wrong, so maybe I'm imagining this.” Which response by the nurse is most accurate?",
+    "options": [
+      "“Your symptoms are real and still deserve ongoing assessment.”",
+      "“A normal result usually means the symptoms will soon go away.”",
+      "“Without abnormal results, there is no illness to treat right now.”",
+      "“Stress often causes symptoms that do not show up on tests.”"
+    ],
+    "optionRationales": [
+      "Correct. Illness is the person's experience and deserves assessment even before a disease is identified.",
+      "Incorrect. A normal initial test does not predict resolution and may falsely reassure the client.",
+      "Incorrect. This confuses illness with disease and dismisses the client's experience.",
+      "Incorrect. This assumes a cause without assessment and can make the client feel dismissed."
+    ],
+    "answer": 0,
+    "rationale": "Disease refers to structural or functional pathology, while illness is the person's experience of feeling unwell. A client can have a genuine illness experience before any disease is identified, so normal initial results should not end the assessment. Attributing the symptoms to stress is the tempting answer because it offers an explanation, but it assigns a cause that has not been assessed. The accurate response validates the experience and supports continued evaluation.",
+    "takeaway": "Illness can exist before disease is found; do not dismiss symptoms because one test is normal.",
+    "hintContent": "Recall which term describes pathology and which describes the person's experience.",
+    "hintStrategy": "Eliminate responses that dismiss the client or assume a cause that has not been assessed.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Pathophysiology",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-011",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A client treated for lymphoma says, “My scans are clear and I feel great. I'm cured, so I'm canceling my follow-up appointments.” Which response by the nurse is best?",
+    "options": [
+      "“Clear scans mean the lymphoma is gone, so follow-up is optional.”",
+      "“You should keep seeing the oncologist only if your symptoms return.”",
+      "“Feeling great is a sign that a relapse is very unlikely for you.”",
+      "“Remission means disease signs are gone, but monitoring continues.”"
+    ],
+    "optionRationales": [
+      "Incorrect. Remission does not necessarily mean cure, and monitoring remains important.",
+      "Incorrect. Waiting for symptoms delays detection of a possible relapse.",
+      "Incorrect. Feeling well does not rule out relapse; that is why monitoring continues.",
+      "Correct. Remission is lessening or disappearance of disease signs and does not guarantee cure, so follow-up is still needed."
+    ],
+    "answer": 3,
+    "rationale": "Remission means symptoms or signs of disease lessen or disappear; it does not necessarily mean cure. Relapse is the return of disease after improvement, and follow-up visits are how it is detected early. Suggesting follow-up only when symptoms return is tempting because it seems to respect the client's choice, but it delays detection. The best response celebrates the improvement while correcting the misunderstanding.",
+    "takeaway": "Remission is not the same as cure; ongoing monitoring detects relapse.",
+    "hintContent": "Distinguish what remission means from what cure means.",
+    "hintStrategy": "When a client states a misconception that affects safety, choose the option that corrects it accurately.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-012",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A nurse precepting a student reviews the student's notes about the health-illness continuum. Which statement by the student indicates a need for further teaching?",
+    "options": [
+      "“A client with a chronic disease can still improve their level of wellness.”",
+      "“I should ask clients what being healthy means to them personally.”",
+      "“A client who feels well may still have a disease that needs screening.”",
+      "“A client's place on the continuum is fixed once a diagnosis is made.”"
+    ],
+    "optionRationales": [
+      "Incorrect. This statement is accurate; wellness can improve while a chronic condition persists.",
+      "Incorrect. This statement is accurate; wellness is defined by the client's priorities.",
+      "Incorrect. This statement is accurate; asymptomatic disease is possible.",
+      "Correct. This needs correction; the continuum describes ongoing movement, not a permanent label."
+    ],
+    "answer": 3,
+    "rationale": "The health-illness continuum describes movement between greater wellness and greater illness over time, not a label assigned at diagnosis. A person with a chronic disease can still improve sleep, relationships, activity, or independence, and a person who feels well may have asymptomatic disease. The student's statement that position is fixed after diagnosis contradicts this dynamic view. The statement about asymptomatic disease may tempt students who think ‘feeling well’ means ‘healthy,’ but it is accurate.",
+    "takeaway": "The health-illness continuum is a moving picture, not a permanent label.",
+    "hintContent": "Look for the statement that treats health as static.",
+    "hintStrategy": "In ‘needs further teaching’ items, find the one false statement; the other options are accurate.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-013",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A 70-year-old client recently discharged after pneumonia has not used the patient portal to view follow-up instructions. The client says, “I don't have internet at home, and the medical words confuse me.” Which nursing action best addresses this barrier?",
+    "options": [
+      "Send a second portal message with a more detailed explanation.",
+      "Ask a relative to log into the portal on the client's behalf.",
+      "Arrange phone follow-up with plain-language printed instructions.",
+      "Teach the client how to download the portal application on a phone."
+    ],
+    "optionRationales": [
+      "Incorrect. The client cannot access the portal, so a longer message does not reach them.",
+      "Incorrect. This bypasses the client's preference and privacy without first asking what they want.",
+      "Correct. This removes the internet barrier and uses plain language to address the literacy concern.",
+      "Incorrect. The client has no home internet, and the medical language would remain confusing."
+    ],
+    "answer": 2,
+    "rationale": "Not using a portal can reflect lack of internet, lack of a device, or difficulty reading medical language, all of which are social determinants rather than lack of interest. This client names both an access barrier and a literacy barrier, so the best plan changes the communication channel and simplifies the language. Teaching the client to download the app is tempting because it seems empowering, but it does not solve the lack of internet or the confusing wording. Involving a relative without asking the client also skips consent and privacy.",
+    "takeaway": "Match the communication method to the client's actual access and literacy.",
+    "hintContent": "Count how many barriers the client named, then find the option that addresses all of them.",
+    "hintStrategy": "Choose the option that directly removes the stated barrier rather than one that adds more of the same.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-014",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A nurse arranged a transportation program for a client who missed three appointments because of bus schedule changes. Which finding best shows the intervention was effective?",
+    "options": [
+      "The client attended the next visit using the arranged ride.",
+      "The referral to the transportation program was placed in the chart.",
+      "The client stated understanding of why the visits are important.",
+      "The nurse documented the transportation barrier in the care plan."
+    ],
+    "optionRationales": [
+      "Correct. Attending the appointment shows the barrier was actually removed and the goal was met.",
+      "Incorrect. Placing a referral is a nursing action, not evidence that the barrier was resolved.",
+      "Incorrect. Knowledge was not the barrier, so verbal understanding does not show the plan worked.",
+      "Incorrect. Documenting the barrier records the problem but does not show it was resolved."
+    ],
+    "answer": 0,
+    "rationale": "Evaluation compares what actually happened with the goal. The goal here was attending care despite a transportation barrier, so the strongest evidence is that the client attended the next visit using the arranged ride. Placing the referral is the tempting answer because it is a completed task, but a referral placed is an intervention, while a successful connection is an outcome. The client's verbal understanding is also weak evidence because knowledge was never the problem.",
+    "takeaway": "A referral placed is an action; a barrier actually removed is the outcome.",
+    "hintContent": "Ask which option describes something the client did, not something the nurse did.",
+    "hintStrategy": "In evaluation items, choose the observable client outcome over nurse activities or verbal statements.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-015",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "A 46-year-old landscaper reports ringing in his ears after work and says coworkers have to repeat themselves. He uses leaf blowers and mowers daily. Which response by the nurse best supports injury prevention?",
+    "options": [
+      "“You should have been wearing hearing protection all along.”",
+      "“Hearing usually declines with age, so this may not be work related.”",
+      "“Tell me about the noise at work and what protection is available.”",
+      "“Let's schedule a hearing aid fitting so you can hear coworkers.”"
+    ],
+    "optionRationales": [
+      "Incorrect. This assigns blame and can make the client less willing to discuss exposures.",
+      "Incorrect. This dismisses a likely occupational exposure and misses a prevention opportunity.",
+      "Correct. Asking about exposure and equipment without blame identifies risk and options for safer conditions.",
+      "Incorrect. This jumps to treatment before assessing the exposure that is causing the injury."
+    ],
+    "answer": 2,
+    "rationale": "Injury can result from repeated exposure as well as a single event, and repeated loud noise can gradually damage hearing. Effective prevention starts with asking about work, activity, and protective equipment without assigning blame, so the nurse can identify risk and support safer conditions. Attributing the change to age is tempting because hearing does decline over time, but this client has a clear occupational exposure. Blaming language and jumping to hearing aids both miss the assessment needed for prevention.",
+    "takeaway": "Injury includes gradual exposure; ask about exposures and protection without blame.",
+    "hintContent": "Consider whether hearing damage can come from repeated exposure rather than one event.",
+    "hintStrategy": "Prefer nonjudgmental assessment questions over blame, dismissal, or premature treatment.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-016",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "While completing a wellness assessment, a client says, “I'm not religious, so you can skip the spiritual questions.” Which response by the nurse is best?",
+    "options": [
+      "“That's fine. Spiritual wellness only applies to people with a faith.”",
+      "“Let's move on to your emotional wellness and how you cope with stress.”",
+      "“Everyone has some beliefs, so I need to ask which religion you prefer.”",
+      "“What gives your life meaning or helps you get through hard days?”"
+    ],
+    "optionRationales": [
+      "Incorrect. Spiritual wellness concerns meaning and purpose and does not require religious practice.",
+      "Incorrect. This skips a wellness dimension that can still be assessed in nonreligious terms.",
+      "Incorrect. This assumes a religious identity the client has just declined.",
+      "Correct. Spiritual wellness is about meaning and purpose, so this question respects the client while completing the assessment."
+    ],
+    "answer": 3,
+    "rationale": "Spiritual wellness concerns meaning and purpose and does not require a particular religious practice. Asking what gives life meaning respects the client's statement while still assessing a dimension that can support coping. Moving on to emotional wellness is the tempting answer because it seems respectful, but it leaves out a source of strength that the nurse could build on. Insisting on a religious preference disregards what the client just said.",
+    "takeaway": "Spiritual wellness is about meaning and purpose, not necessarily religion.",
+    "hintContent": "Recall what the spiritual dimension of wellness actually assesses.",
+    "hintStrategy": "Choose the response that respects the client's words and still gathers the needed information.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-017",
+    "topic": "wellness-context",
+    "type": "mcq",
+    "stem": "An alert client admitted with a new cancer diagnosis has her partner of 15 years at the bedside. The client's brother arrives and says, “I'm her next of kin. Tell me what the doctors found.” Which action by the nurse is best?",
+    "options": [
+      "Share the findings with the brother because he is a blood relative.",
+      "Ask the brother to leave until he can provide proof of relationship.",
+      "Ask the client privately who she wants to receive health information.",
+      "Give both visitors the same update at once so that no one feels excluded."
+    ],
+    "optionRationales": [
+      "Incorrect. Being the nearest relative does not entitle someone to information without the client's consent.",
+      "Incorrect. This is confrontational and does not determine what the client wants.",
+      "Correct. An alert client decides whom she considers family and who is involved in her care.",
+      "Incorrect. Sharing without consent violates privacy and may override the client's wishes."
+    ],
+    "answer": 2,
+    "rationale": "Nurses ask whom the client considers family and who they want involved rather than assuming the nearest relative is the preferred decision partner. Because the client is alert, she determines who receives her health information, and asking privately lets her answer freely. Sharing with the brother is the tempting answer because ‘next of kin’ sounds authoritative, but it would breach privacy and ignore the client's choice. Updating both visitors equally has the same problem.",
+    "takeaway": "An alert client decides who is family and who receives information.",
+    "hintContent": "Consider who holds the right to decide when the client is alert.",
+    "hintStrategy": "Client autonomy and privacy guide family-involvement questions; ask the client.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-018",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "A home health nurse visits a 72-year-old client who has had Parkinson disease for 10 years. Which findings require prompt follow-up? Select all that apply.",
+    "options": [
+      "Coughing and choking during meals that began this week.",
+      "A resting hand tremor the client has had for several years.",
+      "Confusion about the day and place that started this morning.",
+      "A slow, shuffling gait with consistent safe use of a walker.",
+      "A fall earlier today in which the client struck their head."
+    ],
+    "optionRationales": [
+      "Correct. New swallowing difficulty is a change from baseline and raises aspiration risk.",
+      "Incorrect. A long-standing tremor is part of the client's known baseline.",
+      "Correct. Acute confusion is a red flag that needs prompt assessment, not attribution to the chronic disease.",
+      "Incorrect. This is the client's established pattern with a safety measure in place.",
+      "Correct. A fall with head strike is an acute injury requiring prompt assessment."
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "rationale": "A chronic diagnosis does not make every finding expected; the nurse compares current findings with the client's baseline. New choking during meals, new confusion, and a fall with a head strike are acute changes that may signal aspiration risk, an underlying cause of delirium, or injury. The long-standing tremor and the slow gait with consistent walker use are part of this client's known pattern. The common trap is to dismiss new findings as ‘just the Parkinson's,’ which delays assessment.",
+    "takeaway": "In chronic illness, new changes from baseline need prompt follow-up.",
+    "hintContent": "Sort findings into ‘known for years’ versus ‘new this week or today.’",
+    "hintStrategy": "Evaluate each option independently; ask whether it is new, worsening, or dangerous.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+  },
+  {
+    "id": "m7-x1-019",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "A 55-year-old client newly diagnosed with type 2 diabetes makes several statements during a wellness assessment. Which statements identify strengths the nurse can build on in the plan? Select all that apply.",
+    "options": [
+      "“My sister drives me to every appointment and checks on me.”",
+      "“I skip meals near the end of the month when money runs out.”",
+      "“I love reading and have already looked up recipes to try.”",
+      "“My job doesn't allow breaks to check my blood sugar.”",
+      "“Knitting in the evening helps me calm down after a hard day.”"
+    ],
+    "optionRationales": [
+      "Correct. A reliable support person is a social wellness strength that can support access and follow-through.",
+      "Incorrect. This identifies a financial and nutrition concern rather than a strength.",
+      "Correct. Interest in learning is an intellectual wellness strength that supports self-management.",
+      "Incorrect. This is a career-related barrier to address, not a strength.",
+      "Correct. A creative coping practice supports emotional wellness and stress management."
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "rationale": "Assessment across the wellness dimensions identifies strengths as well as concerns, and a strength in one area can support a problem in another. A sister who provides transportation reflects social wellness, interest in recipes reflects intellectual wellness, and knitting to cope reflects creative and emotional wellness. Skipping meals for lack of money and having no work breaks are financial and career barriers that need resources or adaptations. Students sometimes overlook strengths because assessments often focus only on problems.",
+    "takeaway": "Assess wellness strengths, not just problems, and use them to support the plan.",
+    "hintContent": "Decide whether each statement helps or hinders the client's ability to manage health.",
+    "hintStrategy": "For SATA, test each option against the question asked; here the question is strengths, not problems.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-020",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "A community clinic nurse is screening clients for social determinants that may affect their care. Which questions or statements are appropriate for the nurse to use? Select all that apply.",
+    "options": [
+      "“How do you usually get to your appointments?”",
+      "“In the past month, have you had trouble getting enough food?”",
+      "“Why don't you care enough to come to your visits?”",
+      "“What gets in the way of taking this medication as prescribed?”",
+      "“You probably can't afford this prescription, can you?”",
+      "“May I ask about home and money? It helps us plan care that works.”"
+    ],
+    "optionRationales": [
+      "Correct. This concrete, neutral question assesses transportation access.",
+      "Correct. This specific question assesses food security without judgment.",
+      "Incorrect. This blames the client and assumes lack of motivation.",
+      "Correct. This open question invites the client to name practical barriers.",
+      "Incorrect. This is a leading question that makes an assumption and may embarrass the client.",
+      "Correct. Explaining why the nurse asks and requesting permission respects privacy and builds trust."
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "rationale": "Social determinant screening works best with concrete, nonjudgmental questions and a clear explanation of why the nurse is asking. Questions about transportation, food access, and barriers to taking medication invite the client to describe real obstacles. Blaming questions and leading assumptions damage trust and can produce inaccurate answers. The leading question about affordability is tempting because cost is a common barrier, but assuming it for the client is stereotyping rather than assessment.",
+    "takeaway": "Ask concrete, neutral questions about access, and explain why you are asking.",
+    "hintContent": "Look for wording that blames, assumes, or leads the client.",
+    "hintStrategy": "Therapeutic questions are open, specific, and nonjudgmental; eliminate ones that assume the answer.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-021",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "A public health nurse notes that one neighborhood has twice the rate of emergency visits for asthma as the rest of the county. Which nursing actions are appropriate? Select all that apply.",
+    "options": [
+      "Assess housing conditions such as mold, pests, and indoor smoke.",
+      "Assess residents' access to primary care and affordable pharmacies.",
+      "Attribute the difference to residents not following asthma instructions.",
+      "Partner with community leaders to identify barriers and priorities.",
+      "Explain the disparity based on the most common ethnicity in the area."
+    ],
+    "optionRationales": [
+      "Correct. Neighborhood and built environment conditions can trigger asthma and drive the disparity.",
+      "Correct. Healthcare access and cost affect whether controller medications are obtained and used.",
+      "Incorrect. This assumes a motivational cause without assessing barriers and inequities.",
+      "Correct. Community partnership identifies local barriers and builds trust for solutions.",
+      "Incorrect. Attributing outcomes to a group stereotype ignores the conditions that create disparities."
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "rationale": "A health disparity is a difference in outcomes between groups, and the nursing response is to assess the barriers and inequities that contribute to it. Housing conditions and access to primary care and pharmacies are social determinants that directly affect asthma control. Working with community leaders identifies local priorities and builds trust. Blaming residents or attributing the difference to ethnicity is tempting shorthand, but it relies on stereotypes rather than assessing access and conditions.",
+    "takeaway": "Address disparities by assessing conditions and access, not by stereotyping groups.",
+    "hintContent": "Ask whether each option examines conditions or blames people.",
+    "hintStrategy": "Eliminate options that assume a cause based on group identity or motivation.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 3,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-022",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "The spouse of a client recovering from a stroke is learning to help with transfers before discharge. Which findings suggest the spouse may not be able to provide this care safely? Select all that apply.",
+    "options": [
+      "The spouse has a 10-pound lifting restriction after recent back surgery.",
+      "The spouse says, “I haven't slept more than four hours a night in weeks.”",
+      "The spouse correctly demonstrated a transfer using a gait belt today.",
+      "The spouse says, “I'll figure it out at home; I don't need to practice.”",
+      "The spouse asks about respite resources for occasional relief."
+    ],
+    "optionRationales": [
+      "Correct. A physical limitation may prevent safe transfer assistance.",
+      "Correct. Exhaustion is a caregiver capacity concern and may make the plan unsafe.",
+      "Incorrect. A correct return demonstration supports the spouse's ability to perform the skill.",
+      "Correct. Refusing practice means the skill has not been verified despite willingness.",
+      "Incorrect. Seeking respite is a healthy coping step, not a sign of unsafe care."
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "rationale": "A family member's willingness does not prove they can safely perform a skill, so the nurse assesses caregiver capacity as carefully as client symptoms. A lifting restriction, ongoing exhaustion, and refusal to practice each raise doubt about safe transfers at home. A correct return demonstration supports capacity, and asking about respite reflects realistic planning. The respite question is tempting to select because it sounds like the spouse is struggling, but planning for relief is a protective strength.",
+    "takeaway": "Willingness is not capacity; verify the caregiver's physical ability, energy, and skill.",
+    "hintContent": "Separate findings that show limits from findings that show healthy planning.",
+    "hintStrategy": "For each SATA option, ask whether it makes safe care more or less likely.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Delegation & Safety",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  },
+  {
+    "id": "m7-x1-023",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "A nurse precepting a new graduate reviews the graduate's charting about several clients. Which documented interpretations are accurate? Select all that apply.",
+    "options": [
+      "Client with untreated high cholesterol who feels well: disease without illness.",
+      "Client with unexplained fatigue and normal labs: illness experience needs assessment.",
+      "Client with hearing loss after years of loud machinery: not an injury, as there was no event.",
+      "Client with stable chronic illness and active social life: wellness is not possible.",
+      "Client hurt in a fall from a ladder at work: unintentional injury."
+    ],
+    "optionRationales": [
+      "Correct. An asymptomatic condition is disease even when the person feels well.",
+      "Correct. Illness is the person's experience and deserves assessment before a diagnosis is found.",
+      "Incorrect. Injury can result from repeated exposure, not only from a single sudden event.",
+      "Incorrect. Wellness remains possible while a person lives with chronic disease.",
+      "Correct. A fall at work is an unintentional injury caused by an event."
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "rationale": "Disease describes pathology, illness describes the person's experience, and injury is damage or loss of function caused by an event or exposure. High cholesterol in a client who feels well is disease without illness, and unexplained fatigue with normal labs is illness that still deserves assessment. Gradual hearing loss from repeated noise is an injury even without a single event, and a ladder fall is an unintentional injury. The tempting error is believing injury always requires one sudden event or that chronic disease rules out wellness.",
+    "takeaway": "Disease is pathology, illness is experience, and injury can come from an event or repeated exposure.",
+    "hintContent": "Check each interpretation against the definitions of disease, illness, injury, and wellness.",
+    "hintStrategy": "Watch for absolute words such as ‘not possible’ or ‘no event’ that make a statement false.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Pathophysiology",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-024",
+    "topic": "wellness-context",
+    "type": "sata",
+    "stem": "A client who reads at about a third-grade level is learning to take a new blood pressure medication at home. Which teaching strategies should the nurse use? Select all that apply.",
+    "options": [
+      "Use short sentences and everyday words instead of medical terms.",
+      "Use pictures or a simple chart to show when to take each dose.",
+      "Ask the client to explain in their own words how they will take the pill.",
+      "Provide a detailed brochure so the client can review it at home.",
+      "Ask, “Do you understand?” at the end of the session.",
+      "Limit the session to the two or three most essential points."
+    ],
+    "optionRationales": [
+      "Correct. Plain language makes instructions usable for clients with limited literacy.",
+      "Correct. Visual aids support understanding when reading is difficult.",
+      "Correct. Teach-back verifies understanding rather than assuming it.",
+      "Incorrect. Dense written material is hard to use with limited literacy.",
+      "Incorrect. A yes/no question often produces agreement without confirming understanding.",
+      "Correct. Focusing on key actions prevents overload and improves retention."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "rationale": "When a client cannot read instructions well, the nurse uses plain language, pictures, and teach-back. Limiting teaching to the most essential points prevents overload, and teach-back confirms what the client will actually do. A detailed brochure is tempting because it seems thorough, but it depends on the reading skill the client lacks. Asking “Do you understand?” invites a polite yes and does not verify learning.",
+    "takeaway": "For limited literacy, use plain language, pictures, a few key points, and teach-back.",
+    "hintContent": "Ask which strategies work without depending on reading skill.",
+    "hintStrategy": "In teaching SATA items, favor strategies that verify learning over those that only deliver information.",
+    "ref": "Module 7 · Health, Wellness, Illness & Injury · slides 3–19",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-025",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A 52-year-old office worker with no activity restrictions says, “I don't see why I need to exercise. I feel fine the way I am.” Which response should the nurse make first?",
+    "options": [
+      "“Here is a walking schedule you can start this week.”",
+      "“Inactivity raises your risk of heart disease and diabetes.”",
+      "“What are your thoughts about how activity fits your life?”",
+      "“Most adults need at least 150 minutes of activity each week.”"
+    ],
+    "optionRationales": [
+      "Incorrect. A schedule fits preparation, not a client who is not yet considering change.",
+      "Incorrect. Leading with risk warnings can feel like pressure and may increase resistance.",
+      "Correct. Exploring the client's perspective is the stage-matched approach for precontemplation.",
+      "Incorrect. Offering a target before exploring beliefs skips the client's current readiness."
+    ],
+    "answer": 2,
+    "rationale": "A client who sees no reason to change is in precontemplation, and the stage-matched approach is to explore the client's perspective and offer information with permission. An open question about how activity fits the client's life invites the client's view and can reveal what matters to them. Stating risks is tempting because it is accurate, but leading with warnings often feels like pressure. Schedules and weekly targets belong to later stages, when the client is preparing to act.",
+    "takeaway": "In precontemplation, explore beliefs before offering plans or targets.",
+    "hintContent": "Identify the stage of change from the client's own words.",
+    "hintStrategy": "Match the intervention to the client's readiness, not to the nurse's preferred plan.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-026",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A client says, “I picked the first of next month to quit vaping, and I downloaded a quit app last night.” Which action should the nurse take next?",
+    "options": [
+      "Help the client plan first steps and support for the quit day.",
+      "Explore what the client likes and dislikes about vaping right now.",
+      "Review the long-term lung risks associated with vaping.",
+      "Discuss strategies for staying vape-free over the next several months."
+    ],
+    "optionRationales": [
+      "Correct. The client is in preparation, so the nurse finalizes resources and concrete first steps.",
+      "Incorrect. Exploring ambivalence fits contemplation; this client has already committed to a plan.",
+      "Incorrect. More risk information does not move a client who is already preparing to act.",
+      "Incorrect. Maintenance planning is premature before the client has begun the change."
+    ],
+    "answer": 0,
+    "rationale": "A client who has chosen a date and gathered a resource is in the preparation stage. The best next step is to finalize practical resources and first steps, such as handling cravings on day one and identifying support. Exploring pros and cons is tempting because it is good counseling, but it fits contemplation and would slow a client who is ready. Maintenance strategies come after the behavior has been started and sustained.",
+    "takeaway": "Preparation calls for concrete first steps and resources, not more persuasion.",
+    "hintContent": "Decide whether the client is still deciding, planning, or already doing.",
+    "hintStrategy": "Stage-of-change items: identify the stage first, then choose the intervention for that stage.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-027",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A client taking warfarin mentions starting a ginkgo supplement for memory, which a friend said is “natural and safe.” The client has no signs of bleeding. Which action should the nurse take first?",
+    "options": [
+      "Tell the client to stop taking warfarin until the supplement is reviewed.",
+      "Reassure the client that natural products rarely affect prescriptions.",
+      "Ask the product name, dose, and start date and inform the prescriber.",
+      "Document the supplement and plan to discuss it at the next visit."
+    ],
+    "optionRationales": [
+      "Incorrect. Stopping a prescribed anticoagulant without the prescriber is unsafe.",
+      "Incorrect. ‘Natural’ does not prove safety, and ginkgo may increase bleeding risk with warfarin.",
+      "Correct. Gathering details and coordinating review addresses a possible interaction without the nurse changing therapy alone.",
+      "Incorrect. A possible interaction with an anticoagulant should be reported now, not deferred."
+    ],
+    "answer": 2,
+    "rationale": "Complementary products can interact with medications, and ‘natural’ does not prove a product is safe. Ginkgo may add to warfarin's bleeding risk, so the nurse gathers specific details and coordinates review with the prescriber or pharmacist. Telling the client to stop warfarin is tempting because it seems protective, but changing a prescribed anticoagulant without the prescriber creates its own risk. Deferring to the next visit leaves a possible interaction unaddressed.",
+    "takeaway": "Ask about supplements without judgment, then coordinate review rather than changing therapy yourself.",
+    "hintContent": "Think about who should decide whether a prescribed medication is changed.",
+    "hintStrategy": "Choose the option that gathers data and uses the team instead of acting outside scope.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Pharmacology",
+    "difficulty": 3,
+    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-028",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A client who stopped smoking two months ago tells the nurse, “I smoked three cigarettes at a party Saturday. I've ruined everything.” Which response should the nurse make first?",
+    "options": [
+      "“What was happening at the party when you decided to smoke?”",
+      "“One slip means it is time to choose a new quit date and start over.”",
+      "“You should avoid parties for now so this doesn't happen again.”",
+      "“Three cigarettes is not enough to cause any real harm to you.”"
+    ],
+    "optionRationales": [
+      "Correct. Exploring the trigger after a lapse supports revising the plan.",
+      "Incorrect. Treating a lapse as total failure ignores two months of progress.",
+      "Incorrect. Giving advice before exploring the situation skips assessment of the trigger.",
+      "Incorrect. This minimizes the event and misses the chance to plan for future triggers."
+    ],
+    "answer": 0,
+    "rationale": "A lapse is a reason to identify triggers and revise the plan, not proof that change is impossible. Asking what was happening at the party helps the client recognize the trigger and plan a response, while two months of abstinence remains real progress. Advising the client to avoid parties is tempting because it is practical, but it skips assessment and may not match the client's life. Restarting from zero or minimizing the event both miss the learning opportunity.",
+    "takeaway": "After a lapse, explore the trigger and revise the plan; do not treat it as failure.",
+    "hintContent": "Consider what information the nurse needs before suggesting a solution.",
+    "hintStrategy": "Assess before advising; an open question about the situation comes first.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-029",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "At a community health fair, a 58-year-old client says, “I want to start jogging. Lately I've been getting chest tightness when I climb the stairs at work.” Which action should the nurse take first?",
+    "options": [
+      "Teach the client to start at a slow pace and use the talk test.",
+      "Advise the client to see a provider promptly before starting jogging.",
+      "Help the client set a SMART goal for a beginning jogging program.",
+      "Suggest walking instead of jogging until the chest tightness improves."
+    ],
+    "optionRationales": [
+      "Incorrect. Intensity teaching assumes the client is safe to exercise, which is not yet established.",
+      "Correct. New exertional chest symptoms require medical evaluation before a wellness exercise plan.",
+      "Incorrect. Goal-setting should wait until the exertional symptom has been evaluated.",
+      "Incorrect. Lower-intensity exercise still adds exertion before the symptom has been assessed."
+    ],
+    "answer": 1,
+    "rationale": "Health promotion builds on safety, and new exertional symptoms require assessment before a wellness exercise plan is started. Chest tightness with stair climbing could signal a cardiac problem, so the client needs prompt provider evaluation. Suggesting walking instead is the tempting answer because it seems like a safer compromise, but it still prescribes exertion for an unexplained symptom. Talk-test teaching and SMART goals are appropriate only after the client is cleared.",
+    "takeaway": "New exertional symptoms mean evaluation before any exercise plan.",
+    "hintContent": "Notice the symptom the client mentioned almost in passing.",
+    "hintStrategy": "When a wellness request contains a red-flag symptom, the red flag takes priority.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [
+      "fitness-exercise"
+    ],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Prioritization",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-030",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A 67-year-old client with hypertension says, “My health is in God's hands. Whatever happens is what is meant to be.” Which response should the nurse make first?",
+    "options": [
+      "“Your health actually depends mostly on the choices you make.”",
+      "“Research has not shown that faith lowers blood pressure readings.”",
+      "“Let's set a goal for you to walk 30 minutes every day this week.”",
+      "“Tell me more about how your faith guides your health decisions.”"
+    ],
+    "optionRationales": [
+      "Incorrect. This dismisses the client's belief and may damage the therapeutic relationship.",
+      "Incorrect. Arguing with a belief is not therapeutic and blocks collaboration.",
+      "Incorrect. A plan offered before exploring beliefs ignores the client's perspective.",
+      "Correct. Exploring the belief respects the client and can reveal actions the client sees as compatible."
+    ],
+    "answer": 3,
+    "rationale": "The client describes an external locus of control, a belief that outcomes depend mainly on outside forces. The nurse first explores the belief, because understanding it can reveal actions the client sees as compatible with faith, such as caring for the body or accepting help from others. Telling the client that health depends on their choices is tempting because it emphasizes agency, but it argues with a deeply held belief and damages trust. Offering a walking plan skips assessment entirely.",
+    "takeaway": "Explore a client's locus of control and beliefs before building a plan around them.",
+    "hintContent": "Consider which response invites the client to say more.",
+    "hintStrategy": "Therapeutic responses explore; eliminate options that argue, correct, or jump to a plan.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-031",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A client started walking after dinner two weeks ago and says, “It's going well, but when it rains I just skip it, and then I skip the next day too.” Which response by the nurse is best?",
+    "options": [
+      "“Could an indoor option, like walking at the mall, work on rainy days?”",
+      "“What would be the benefits of exercising regularly for you?”",
+      "“Skipping walks suggests you may not be fully committed to reaching this goal.”",
+      "“Keep the same schedule and try to be more disciplined about it.”"
+    ],
+    "optionRationales": [
+      "Correct. The client is in action, so troubleshooting a specific trigger supports the new behavior.",
+      "Incorrect. Exploring benefits fits contemplation; this client has already started.",
+      "Incorrect. This blames the client and treats a barrier as lack of motivation.",
+      "Incorrect. Repeating the plan without addressing the barrier is unlikely to change the result."
+    ],
+    "answer": 0,
+    "rationale": "A client who has begun a new behavior is in the action stage, where support focuses on practice and troubleshooting real triggers. Rain is a predictable barrier, so planning an indoor alternative helps the client keep the routine going. Exploring benefits is tempting because it builds motivation, but it belongs to contemplation and does not solve the rainy-day problem. Blaming commitment or urging discipline ignores the barrier entirely.",
+    "takeaway": "In the action stage, troubleshoot triggers instead of re-arguing benefits.",
+    "hintContent": "The client has already started; what kind of help fits that stage?",
+    "hintStrategy": "When the client names a specific barrier, the best answer usually addresses that barrier directly.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-032",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A 44-year-old client smokes, sleeps about five hours a night, and rarely exercises. The client asks, “Which one should I work on first?” Which response should the nurse make first?",
+    "options": [
+      "“Smoking causes the most harm, so that should come first.”",
+      "“You should try to change all three at the same time.”",
+      "“Which of these feels most important or doable for you now?”",
+      "“Let's start with sleep, because it is the easiest habit to change.”"
+    ],
+    "optionRationales": [
+      "Incorrect. The nurse's priority may not match the client's readiness, which reduces success.",
+      "Incorrect. Changing several behaviors at once often overwhelms the client.",
+      "Correct. Starting with the change the client values and feels ready for supports autonomy and success.",
+      "Incorrect. This assumes which change is easiest without asking the client."
+    ],
+    "answer": 2,
+    "rationale": "Behavior change is a partnership in which the client supplies priorities and the nurse supplies knowledge and support. Asking which change feels most important or doable lets the client choose a manageable first step, which builds self-efficacy and improves follow-through. Choosing smoking because it causes the most harm is the most tempting answer, but a client who is not ready to quit may make no progress at all. The nurse can still share information about risks once the client's priorities are known.",
+    "takeaway": "Let the client choose the first change; readiness predicts success better than the nurse's ranking.",
+    "hintContent": "Consider whose priorities should guide a voluntary behavior change.",
+    "hintStrategy": "Client autonomy questions favor the response that asks the client rather than deciding for them.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-033",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A clinic nurse reviews follow-up notes for four clients enrolled in a health-promotion program. Which client should the nurse contact first?",
+    "options": [
+      "The client who replaced prescribed insulin with cinnamon capsules last week.",
+      "The client who uses weekly acupuncture alongside prescribed migraine medication.",
+      "The client who walked three of four planned days and wants to add a day.",
+      "The client who has not chosen a quit date but is thinking about quitting."
+    ],
+    "optionRationales": [
+      "Correct. Replacing prescribed insulin with an unreviewed alternative creates an immediate safety risk.",
+      "Incorrect. This is complementary use alongside conventional care and is not urgent.",
+      "Incorrect. This client is progressing well and can be supported routinely.",
+      "Incorrect. A client in contemplation needs support, but there is no immediate safety threat."
+    ],
+    "answer": 0,
+    "rationale": "Complementary practices are used alongside conventional care, while alternative practices replace it. Replacing prescribed insulin with a supplement is an alternative approach that can quickly lead to dangerous hyperglycemia, so this client needs contact first. Acupuncture alongside medication is complementary use and is not a safety concern on its own. The contemplating smoker is tempting because tobacco carries serious risk, but that risk is not immediate in the way stopping insulin is.",
+    "takeaway": "Replacing prescribed treatment with an unreviewed alternative is a safety concern; complementary use is not.",
+    "hintContent": "Distinguish therapies used alongside treatment from those used instead of it.",
+    "hintStrategy": "Prioritize the client whose situation could cause harm soonest.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Prioritization",
+    "difficulty": 3,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": true,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Program follow-up notes",
+          "table": {
+            "headers": [
+              "Program focus",
+              "Note"
+            ],
+            "rows": [
+              [
+                "Type 2 diabetes",
+                "Stopped prescribed insulin; taking cinnamon capsules instead since last week."
+              ],
+              [
+                "Migraine",
+                "Acupuncture weekly; continues prescribed migraine medication."
+              ],
+              [
+                "Inactivity",
+                "Walked 3 of 4 planned days; wants to add a fifth day."
+              ],
+              [
+                "Tobacco use",
+                "Thinking about quitting smoking; no quit date yet."
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-034",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A nurse at a senior center leads a weekly balance class for adults over 70 who have never fallen. A student says, “This is secondary prevention because older adults are at high fall risk.” Which response by the nurse is most accurate?",
+    "options": [
+      "“Yes, because the class targets a group that has higher risk.”",
+      "“It is primary prevention, because no fall has occurred yet.”",
+      "“It is tertiary prevention, because balance declines with aging.”",
+      "“It is secondary prevention, because balance is being screened.”"
+    ],
+    "optionRationales": [
+      "Incorrect. Targeting a higher-risk group does not change the level; timing relative to the condition does.",
+      "Correct. The class acts before the target injury occurs, which defines primary prevention.",
+      "Incorrect. Tertiary prevention limits the impact of an established condition or injury.",
+      "Incorrect. The class trains balance to prevent falls rather than detecting an existing condition."
+    ],
+    "answer": 1,
+    "rationale": "Prevention level is determined by the purpose and timing relative to the target condition, not by how risky the population is. A balance class for adults who have never fallen acts before the injury occurs, so it is primary prevention. The student's reasoning is tempting because high-risk groups are often screened, but screening detects an existing condition early, and this class is not detecting anything. If the same class were part of rehabilitation after a fall-related fracture, it would be tertiary.",
+    "takeaway": "Classify prevention by whether the target condition has occurred, not by the group's risk level.",
+    "hintContent": "Ask whether the target event has already happened for these clients.",
+    "hintStrategy": "For prevention-level items, name the target condition first, then check its timing.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-035",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A school nurse reviews screening results for students. A 15-year-old with no known vision problems fails the eye chart screening and is referred for an eye examination. Which level of prevention does this screening represent?",
+    "options": [
+      "Primary, because the screening helps prevent future vision loss.",
+      "Tertiary, because the referral will treat the vision problem.",
+      "Secondary, because it detects a possible existing problem.",
+      "Primary, because it is offered to all students in the school."
+    ],
+    "optionRationales": [
+      "Incorrect. Primary prevention acts before a condition develops; this screening looks for an existing one.",
+      "Incorrect. Tertiary prevention limits impact after a condition is established and treated.",
+      "Correct. Screening an asymptomatic person to detect a condition early is secondary prevention.",
+      "Incorrect. Offering a service to everyone does not make it primary; its purpose is detection."
+    ],
+    "answer": 2,
+    "rationale": "Secondary prevention is early detection of a condition that may already exist, commonly through screening. Vision screening identifies a problem in a student who did not know about it, so the referral can lead to early correction. Calling it primary is tempting because the eventual goal is protecting vision, but primary prevention acts before the condition develops, such as protective eyewear. Tertiary prevention would be rehabilitation or managing complications of an established eye condition.",
+    "takeaway": "Screening asymptomatic people to find a condition early is secondary prevention.",
+    "hintContent": "Decide whether the activity prevents a condition or finds one.",
+    "hintStrategy": "Focus on the purpose of the activity, not who receives it or its long-range benefit.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 1,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-036",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A nurse teaches a 49-year-old client about risk factors for stroke. Which statement by the client indicates an accurate understanding?",
+    "options": [
+      "“Because my mother had a stroke, my lifestyle choices won't matter.”",
+      "“I can't change my family history, but I can stop smoking and move more.”",
+      "“Since smoking is modifiable, quitting should be easy for me to do.”",
+      "“My age is my biggest risk factor, so I'll work on changing that one first.”"
+    ],
+    "optionRationales": [
+      "Incorrect. Family history raises risk but does not cancel the benefit of modifiable changes.",
+      "Correct. The client distinguishes nonmodifiable risk from modifiable behaviors that can reduce risk.",
+      "Incorrect. Modifiable does not mean easy; context and support influence change.",
+      "Incorrect. Age is nonmodifiable and cannot be the focus of a behavior change plan."
+    ],
+    "answer": 1,
+    "rationale": "Nonmodifiable risk factors such as age and family history cannot be changed, while modifiable factors such as tobacco use and inactivity can. Inherited risk and modifiable behaviors coexist, so a client with a family history still benefits from changing what can be changed. The statement that quitting should be easy is tempting because it uses the correct term, but modifiable does not mean easy; work, stress, and support all influence change. The statement about age confuses what can be targeted.",
+    "takeaway": "Modifiable means changeable, not easy; inherited risk does not cancel lifestyle benefit.",
+    "hintContent": "Sort each risk factor into ‘can change’ or ‘cannot change.’",
+    "hintStrategy": "In evaluation-of-teaching items, the correct answer is the only fully accurate statement.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-037",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A client says, “I know walking would help my blood pressure, but I never stick with anything. I don't think I can do it.” Which nursing action best builds the client's self-efficacy?",
+    "options": [
+      "Provide research showing how walking lowers blood pressure.",
+      "Set a goal of 30 minutes of brisk walking every single day this week.",
+      "Explain that most people find it hard to begin an exercise habit.",
+      "Agree on a brief first walk the client feels confident completing."
+    ],
+    "optionRationales": [
+      "Incorrect. The client already believes walking helps; the barrier is confidence, not knowledge.",
+      "Incorrect. A demanding first goal risks failure and may further lower confidence.",
+      "Incorrect. Normalizing difficulty does not build the client's belief in their own ability.",
+      "Correct. Small achievable successes strengthen the belief that one can perform the behavior."
+    ],
+    "answer": 3,
+    "rationale": "Self-efficacy is the belief that one can successfully perform a specific action, and it grows through achievable successes. This client already knows walking helps, so the barrier is confidence rather than information. A short first walk the client is confident about creates a success to build on. Presenting research is tempting because it sounds evidence-based, but more facts do not address doubt about personal ability.",
+    "takeaway": "Build self-efficacy with small, achievable successes, not more information.",
+    "hintContent": "Identify whether the client lacks knowledge or lacks confidence.",
+    "hintStrategy": "Match the intervention to the specific barrier the client states.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-038",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A nursing student caring for a 74-year-old client recovering from pneumonia says, “He needs 150 minutes of activity a week to meet national goals, so I'll walk him 30 minutes today.” Which response by the nurse is best?",
+    "options": [
+      "“That's right; meeting the national target speeds his recovery.”",
+      "“Let's first assess his tolerance and build from his baseline.”",
+      "“National goals apply only to healthy people, not hospital clients.”",
+      "“Walk him 10 minutes three times today to reach the same total.”"
+    ],
+    "optionRationales": [
+      "Incorrect. A population target does not establish what this client can safely do today.",
+      "Correct. Individual assessment determines a safe starting point; population goals do not replace it.",
+      "Incorrect. People with illness should be as active as abilities allow; the issue is individualizing, not exclusion.",
+      "Incorrect. Splitting the same total still sets activity by a target instead of assessed tolerance."
+    ],
+    "answer": 1,
+    "rationale": "Population goals such as national activity targets help communities set direction, but they do not replace individual assessment. A client recovering from pneumonia needs an assessment of tolerance, symptoms, and the clinical plan before activity is set. Splitting the walk into shorter bouts is the tempting answer because it seems safer, but it still starts from the population number rather than this client's baseline. Excluding hospitalized clients from activity goals is also incorrect; they should be as active as their condition allows.",
+    "takeaway": "A national target is not an exercise prescription; start from the individual's assessed baseline.",
+    "hintContent": "Consider what should determine the starting dose of activity for one client.",
+    "hintStrategy": "Prefer ‘assess first’ when an option bases care on a general rule rather than the client.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [
+      "fitness-exercise"
+    ],
+    "cjmm": "Take Action",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-039",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A community nurse is evaluating a free blood pressure screening program held at local churches. Which measure best shows that the program achieved a meaningful outcome?",
+    "options": [
+      "The number of educational flyers handed out at each event.",
+      "The number of people who had their blood pressure checked.",
+      "The share of people with high readings who completed follow-up care.",
+      "The volunteers' satisfaction ratings collected at the end of each event."
+    ],
+    "optionRationales": [
+      "Incorrect. Distributing flyers measures an activity, not a health outcome.",
+      "Incorrect. Screening volume shows reach but not whether people with high readings received care.",
+      "Correct. Completing follow-up shows that detection led to access to care.",
+      "Incorrect. Volunteer satisfaction does not reflect client health outcomes."
+    ],
+    "answer": 2,
+    "rationale": "Counting brochures or events measures activity, while measuring whether people can obtain care addresses a more meaningful outcome. A screening program achieves its purpose when people with elevated readings actually connect with follow-up care. The number of people screened is the tempting answer because it shows reach, but detecting high blood pressure without follow-up does not change health. Volunteer satisfaction has value for the program but not for client outcomes.",
+    "takeaway": "Evaluate programs by whether people obtained care or changed behavior, not by activity counts.",
+    "hintContent": "Ask which measure reflects what happened to clients after screening.",
+    "hintStrategy": "In evaluation items, choose the client outcome over process measures.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Prioritization",
+    "difficulty": 3,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Screening program summary",
+          "table": {
+            "headers": [
+              "Measure",
+              "Result"
+            ],
+            "rows": [
+              [
+                "Flyers distributed",
+                "1,200"
+              ],
+              [
+                "People screened",
+                "340"
+              ],
+              [
+                "Elevated readings",
+                "62"
+              ],
+              [
+                "Follow-up visits completed",
+                "Not yet tallied"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-040",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A client who works double shifts has been trying to eat more vegetables and says, “I only managed it on my days off.” Which nurse statement is most likely to strengthen the client's motivation?",
+    "options": [
+      "“Why didn't you prepare meals ahead so you could stick to the plan?”",
+      "“If you don't change, your cholesterol will keep going up.”",
+      "“You made it work on your days off. What helped on those days?”",
+      "“I know exactly how hard it is to eat well with a busy job.”"
+    ],
+    "optionRationales": [
+      "Incorrect. A ‘why’ question sounds judgmental and puts the client on the defensive.",
+      "Incorrect. Threats tend to increase resistance rather than motivation.",
+      "Correct. An affirmation of real effort plus an open question builds on the client's own strategies.",
+      "Incorrect. Claiming to know exactly how the client feels is not true empathy and shifts focus to the nurse."
+    ],
+    "answer": 2,
+    "rationale": "Motivational communication uses affirmations that identify real effort and open questions that draw on the client's own experience. Recognizing success on days off and asking what helped lets the client identify strategies that might work on workdays. The empathic-sounding statement is tempting, but claiming to know exactly how the client feels is not genuine empathy and redirects attention to the nurse. ‘Why’ questions and threats tend to provoke defensiveness.",
+    "takeaway": "Affirm real effort and ask what worked; avoid blame, threats, and false empathy.",
+    "hintContent": "Look for a response that builds on something the client already did well.",
+    "hintStrategy": "Eliminate options with ‘why’ questions, threats, or claims to know exactly how the client feels.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-041",
+    "topic": "promotion-change",
+    "type": "mcq",
+    "stem": "A nurse writes the goal “The client will eat a healthier diet.” for a 38-year-old client with prediabetes. The client wants to cut back on sweet tea. Which revision best meets SMART-EST criteria?",
+    "options": [
+      "“The client will understand why sugary drinks raise blood glucose by discharge.”",
+      "“The client will stop drinking all sweetened beverages of any kind starting tomorrow.”",
+      "“The client will follow the recommended diabetic diet as closely as possible.”",
+      "“The client will replace two daily glasses of sweet tea with water for one week.”"
+    ],
+    "optionRationales": [
+      "Incorrect. ‘Understand’ is not directly observable, and the goal does not describe a behavior.",
+      "Incorrect. An abrupt, all-or-nothing goal may not be achievable and lacks a review date.",
+      "Incorrect. This is vague and not measurable or tailored to the client's chosen change.",
+      "Correct. The goal is specific, measurable, achievable, relevant to the client's choice, and time-bound."
+    ],
+    "answer": 3,
+    "rationale": "SMART-EST goals are specific, measurable, achievable, relevant, and time-bound, as well as evidence-based, strategic, and tailored. Replacing two glasses of sweet tea with water for one week names an observable behavior, an amount, and a time frame, and it reflects the change the client chose. Stopping all sweetened drinks is tempting because it is specific, but an abrupt all-or-nothing target may not be achievable and has no review point. Goals based on ‘understanding’ or ‘as closely as possible’ cannot be evaluated.",
+    "takeaway": "A strong goal names an observable behavior, amount, time frame, and the client's own priority.",
+    "hintContent": "Check each option for an observable action and a time frame.",
+    "hintStrategy": "For goal-writing items, eliminate any goal with ‘understand,’ ‘as possible,’ or no time frame.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-042",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "A nurse in a primary care clinic reviews the day's planned services. Which services are examples of secondary prevention? Select all that apply.",
+    "options": [
+      "A cervical cancer screening test for a woman with no symptoms.",
+      "A tetanus booster for a gardener with no current wound.",
+      "A depression screening questionnaire at a 6-week postpartum visit.",
+      "Cardiac rehabilitation exercise after a recent myocardial infarction.",
+      "A blood pressure check for an adult with no known hypertension.",
+      "Teaching a new driver to always wear a seat belt."
+    ],
+    "optionRationales": [
+      "Correct. Screening an asymptomatic person detects a possible condition early.",
+      "Incorrect. Immunization prevents disease before it occurs, which is primary prevention.",
+      "Correct. Screening identifies an existing condition early in a client without a diagnosis.",
+      "Incorrect. Rehabilitation after established disease is tertiary prevention.",
+      "Correct. Screening for undiagnosed hypertension is early detection.",
+      "Incorrect. This prevents injury before it occurs, which is primary prevention."
+    ],
+    "answer": [
+      0,
+      2,
+      4
+    ],
+    "rationale": "Secondary prevention detects an existing condition early, commonly through screening in people without a known diagnosis. Cervical cancer screening, postpartum depression screening, and blood pressure checks in adults without hypertension all look for a condition that may already be present. Immunization and seat-belt teaching act before disease or injury occurs, which is primary prevention. Cardiac rehabilitation is tempting because it involves exercise and monitoring, but it limits the impact of established disease, which is tertiary.",
+    "takeaway": "Secondary prevention = screening and early detection in people without a known diagnosis.",
+    "hintContent": "For each service, ask whether the target condition might already be present but undetected.",
+    "hintStrategy": "Classify each SATA option on its own by the purpose of the activity.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-043",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "A nurse is planning care for several clients with established conditions. Which nursing actions represent tertiary prevention? Select all that apply.",
+    "options": [
+      "Arranging speech therapy for a client with aphasia after a stroke.",
+      "Teaching a client with type 1 diabetes daily foot checks to prevent ulcers.",
+      "Scheduling a screening mammogram for a 50-year-old with no symptoms.",
+      "Referring a client with heart failure to a self-management support group.",
+      "Giving the HPV vaccine to a healthy 12-year-old."
+    ],
+    "optionRationales": [
+      "Correct. Rehabilitation after a stroke restores function after an established condition.",
+      "Correct. Teaching complication prevention for an established disease is tertiary prevention.",
+      "Incorrect. Screening for early detection in an asymptomatic person is secondary prevention.",
+      "Correct. Supporting self-care in established disease reduces complications and preserves function.",
+      "Incorrect. Immunization before disease occurs is primary prevention."
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "rationale": "Tertiary prevention reduces complications and restores function after a disease or injury is established. Speech therapy after a stroke, foot-care teaching for diagnosed diabetes, and heart failure self-management support all address conditions that are already present. Screening mammography is secondary prevention because it looks for disease early, and vaccination is primary prevention. Foot-care teaching is easy to misclassify as primary because it is education, but education appears at all three levels; the established diagnosis makes it tertiary.",
+    "takeaway": "Education can be any level; when the condition is already established, it is tertiary.",
+    "hintContent": "For each action, check whether the client already has the condition being targeted.",
+    "hintStrategy": "Do not classify by the type of activity (teaching, exercise); classify by its purpose and timing.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-044",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "A nurse is evaluating several clients who want to stop smoking. Which statements indicate the client is in the preparation stage of change? Select all that apply.",
+    "options": [
+      "“I picked June 1 as my quit date and told my family about it.”",
+      "“I bought nicotine patches and scheduled a quitline call next week.”",
+      "“I've been smoke-free for three weeks, but evenings are tough.”",
+      "“I've thought about quitting someday, but I'm not sure I'm ready.”",
+      "“I haven't smoked in eight months and rarely think about it.”"
+    ],
+    "optionRationales": [
+      "Correct. Choosing a date and arranging support are planning steps in preparation.",
+      "Correct. Gathering resources for an upcoming change indicates preparation.",
+      "Incorrect. The client has started the change, which is the action stage.",
+      "Incorrect. Weighing change without a plan reflects contemplation.",
+      "Incorrect. Sustaining the behavior for months reflects maintenance."
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "rationale": "Preparation means the person intends to act and is planning practical steps, such as choosing a date and gathering resources. Once the behavior has begun, the client is in action, and sustaining it for months reflects maintenance. Uncertain thoughts about quitting someday indicate contemplation. The three-weeks-smoke-free statement is tempting because the client is still struggling, but the behavior has already started, which defines action.",
+    "takeaway": "Planning a change is preparation; performing it is action.",
+    "hintContent": "Decide whether each client is thinking, planning, doing, or sustaining.",
+    "hintStrategy": "Sort each statement into a stage independently; only the planning statements fit.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-045",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "A client says, “I want to drink less on weekends, but it's how I unwind with friends.” Which nurse statements are therapeutic for this client? Select all that apply.",
+    "options": [
+      "“What do you enjoy about drinking, and what concerns you about it?”",
+      "“It sounds like you want to cut back but don't want to lose time with friends.”",
+      "“Would it be okay if I shared some information about alcohol and sleep?”",
+      "“If you keep drinking like this, you will damage your liver.”",
+      "“If you cut back to two drinks, I promise you'll feel much better.”",
+      "“Why can't you just find a different way to relax?”"
+    ],
+    "optionRationales": [
+      "Correct. An open question explores both sides of the client's ambivalence.",
+      "Correct. Reflection shows understanding and lets the client clarify.",
+      "Correct. Asking permission before giving information respects autonomy.",
+      "Incorrect. Threats tend to increase resistance rather than motivation.",
+      "Incorrect. Nurses should not promise that a behavior will guarantee a result.",
+      "Incorrect. ‘Why’ questions sound judgmental and put the client on the defensive."
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "A client weighing change with mixed feelings is in contemplation, where the nurse explores benefits, concerns, and ambivalence. Open questions, reflections, and asking permission before sharing information all support the client's own reasoning. Threats, guarantees, and ‘why’ questions undermine the relationship and tend to increase resistance. The promise of feeling better is tempting because it sounds encouraging, but no behavior guarantees a specific result.",
+    "takeaway": "Use open questions, reflection, and permission; avoid threats, promises, and ‘why’ questions.",
+    "hintContent": "Identify the stage of change, then choose techniques that fit ambivalence.",
+    "hintStrategy": "Check each statement for blame, pressure, or false guarantees.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity"
+  },
+  {
+    "id": "m7-x1-046",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "A nurse is beginning a health-promotion plan with a client who wants to be more active. Which actions belong to the assessment phase of the nursing process? Select all that apply.",
+    "options": [
+      "Asking about the client's current activity and daily routine.",
+      "Exploring what the client believes will improve their health.",
+      "Writing a measurable outcome with a review date.",
+      "Asking how ready the client feels to make a change now.",
+      "Comparing the client's actual activity with the agreed goal.",
+      "Asking who could support the client and what resources are nearby."
+    ],
+    "optionRationales": [
+      "Correct. Gathering current habits is assessment.",
+      "Correct. Health beliefs are assessed before planning.",
+      "Incorrect. Setting the shared outcome is planning.",
+      "Correct. Readiness for change is part of assessment.",
+      "Incorrect. Comparing results with the goal is evaluation.",
+      "Correct. Support and resources are assessed before planning."
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "rationale": "In ADPIE, assessment gathers habits, beliefs, readiness, symptoms, resources, and support. Asking about routine, beliefs, readiness, and support all belong to assessment and shape a plan the client can carry out. Writing a measurable outcome is planning, and comparing actual behavior with the goal is evaluation. The goal-writing option is tempting because it involves the client's data, but it uses assessment findings rather than collecting them.",
+    "takeaway": "Assess habits, beliefs, readiness, and resources before writing the goal.",
+    "hintContent": "Match each action to a step of ADPIE.",
+    "hintStrategy": "Ask whether each option collects new data or uses data already collected.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-047",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "At a two-week follow-up, a client met the walking goal on only two of eight planned days. Which nursing actions are appropriate? Select all that apply.",
+    "options": [
+      "Ask the client what actually happened on the days the walk was missed.",
+      "Identify what helped on the two days the client did walk.",
+      "Revise the goal or schedule together based on what was learned.",
+      "Tell the client to keep the same goal and try harder next time.",
+      "Document the client as nonadherent and close the activity goal.",
+      "Recognize the two days of walking as progress toward the goal."
+    ],
+    "optionRationales": [
+      "Correct. Exploring what happened identifies barriers to address.",
+      "Correct. Successful days reveal strategies the client can build on.",
+      "Correct. An unmet goal is assessment data used to revise the plan collaboratively.",
+      "Incorrect. Repeating the plan without assessing barriers is unlikely to change the result.",
+      "Incorrect. Labeling and closing the goal ends the partnership instead of revising the plan.",
+      "Correct. Affirming real progress supports motivation and the therapeutic relationship."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "rationale": "A plan that was not achieved provides assessment information. The nurse asks what happened, identifies what worked, recognizes the progress that did occur, and revises the goal with the client. Urging the client to try harder is tempting because the goal was reasonable, but it assumes motivation is the problem without assessing barriers. Labeling the client nonadherent and closing the goal damages the relationship and abandons the plan.",
+    "takeaway": "An unmet goal is data: reassess barriers, affirm progress, and revise together.",
+    "hintContent": "Consider whether each action learns from the shortfall or ignores it.",
+    "hintStrategy": "Evaluation items favor reassessment and revision over repetition or labeling.",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [
+      "fitness-exercise"
+    ],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-048",
+    "topic": "promotion-change",
+    "type": "sata",
+    "stem": "During a health-promotion visit, a client mentions taking several products and practices along with prescribed medications. Which nursing actions are appropriate? Select all that apply.",
+    "options": [
+      "Ask about the client's use of traditional remedies without judgment.",
+      "Ask the pharmacist to review the supplements for possible interactions.",
+      "Tell the client to stop all supplements until the next clinic visit.",
+      "Record each product's name, dose, and frequency in the health history.",
+      "Explain that products labeled natural cannot harm the client."
+    ],
+    "optionRationales": [
+      "Correct. Nonjudgmental questions encourage honest disclosure of all therapies.",
+      "Correct. Coordinating review identifies interactions with prescribed medications.",
+      "Incorrect. Stopping products without review is a unilateral change that may not be needed.",
+      "Correct. Specific details allow accurate review and communication with the team.",
+      "Incorrect. ‘Natural’ does not prove safety; supplements may interact with medication."
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "rationale": "Nurses ask about supplements, traditional practices, and other therapies without judgment so clients feel safe disclosing them. Recording specific product details and coordinating pharmacist review allows the team to identify interactions. Telling the client to stop everything is tempting because it seems cautious, but it is a unilateral change that disregards the client's practices and may be unnecessary. Reassuring the client that natural products are harmless is inaccurate.",
+    "takeaway": "Ask, document details, and coordinate review; do not dismiss or unilaterally stop therapies.",
+    "hintContent": "Think about which actions gather information and use the team.",
+    "hintStrategy": "Eliminate options containing absolutes such as ‘all’ or ‘cannot harm.’",
+    "ref": "Module 7 · Health Promotion & Behavior Change · slides 20–37",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Pharmacology",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+  },
+  {
+    "id": "m7-x1-049",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "An 80-year-old client is walking in the hallway with the nurse for the first time since admission. Halfway down the hall, the client says, “I feel dizzy, like I might pass out.” Which action should the nurse take first?",
+    "options": [
+      "Count the client's radial pulse for one full minute.",
+      "Help the client sit down in a nearby chair.",
+      "Encourage the client to walk slowly back to the room.",
+      "Call for another staff member to bring a wheelchair."
+    ],
+    "optionRationales": [
+      "Incorrect. Assessment matters, but the client must be protected from falling first.",
+      "Correct. Near-syncope during activity calls for stopping and protecting the client from a fall before assessing.",
+      "Incorrect. Continued walking while near-syncopal increases the risk of a fall.",
+      "Incorrect. Waiting for equipment leaves the client standing and at risk of falling."
+    ],
+    "answer": 1,
+    "rationale": "New dizziness or near-syncope during activity means stopping and assessing, and the first part of stopping is protecting the client from injury. Helping the client sit right away prevents a fall if the client loses consciousness. Taking the pulse is the tempting answer because it is assessment, and assessment usually comes first, but here the immediate safety risk is falling. Once seated, the nurse assesses vital signs and symptoms and reports the change.",
+    "takeaway": "For near-syncope during activity, stop and get the client safely seated before assessing.",
+    "hintContent": "Think about what could happen in the next few seconds.",
+    "hintStrategy": "When an immediate injury risk exists, safety actions come before data collection.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Delegation & Safety",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-050",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "An unlicensed assistive personnel (UAP) reports that a client who just finished a planned walk said, “My chest feels tight.” The client is now resting in bed. Which action should the nurse take?",
+    "options": [
+      "Ask the UAP to obtain vital signs and report the results.",
+      "Go to the client's room to assess the client right away.",
+      "Tell the UAP to have the client rest and walk again later.",
+      "Document the report and recheck the client at the next round."
+    ],
+    "optionRationales": [
+      "Incorrect. A new chest symptom requires the nurse's own assessment, which cannot be delegated.",
+      "Correct. New chest tightness after exertion is a potentially unstable finding the nurse must assess personally.",
+      "Incorrect. Planning more activity before assessment ignores a possible cardiac symptom.",
+      "Incorrect. Delaying assessment of a new chest symptom is unsafe."
+    ],
+    "answer": 1,
+    "rationale": "New chest discomfort related to activity calls for stopping and prompt assessment, and assessing a potentially unstable client is not delegated to a UAP. The nurse goes to the client right away to assess symptoms, vital signs, and other findings and then notifies the provider as indicated. Having the UAP take vital signs is the tempting answer because vital signs are within UAP scope, but numbers alone do not replace the nurse's assessment of a new chest symptom. Planning another walk or waiting until the next round both delay care.",
+    "takeaway": "New exertional chest symptoms require the RN's own prompt assessment.",
+    "hintContent": "Consider whether this finding could signal an unstable condition.",
+    "hintStrategy": "Delegate stable, routine tasks; keep assessment of new or unstable findings for the RN.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Delegation & Safety",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-051",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 31-year-old client at 28 weeks of an uncomplicated pregnancy calls the clinic. She jogs four days a week and says, “After my run this morning, I noticed some vaginal bleeding.” Which action should the nurse take first?",
+    "options": [
+      "Advise her to stop exercising and come in today for evaluation.",
+      "Advise her to switch to walking until her next scheduled prenatal visit.",
+      "Reassure her that light spotting after exercise is expected.",
+      "Ask her to record how long and how far she ran this morning."
+    ],
+    "optionRationales": [
+      "Correct. Bleeding is a possible pregnancy complication that requires stopping activity and prompt obstetric evaluation.",
+      "Incorrect. Changing the activity does not address a possible complication that needs evaluation.",
+      "Incorrect. Bleeding should not be normalized during pregnancy without evaluation.",
+      "Incorrect. Exercise details can be gathered later; the bleeding needs prompt evaluation first."
+    ],
+    "answer": 0,
+    "rationale": "Activity during pregnancy requires attention to complications and coordination with the obstetric team. Vaginal bleeding is a warning sign that requires stopping exercise and prompt evaluation, regardless of how routine her exercise has been. Switching to walking is tempting because walking is lower intensity, but it treats the bleeding as an exercise-intensity problem rather than a possible complication. Reassurance and gathering run details both delay needed assessment.",
+    "takeaway": "A warning sign during pregnancy means stop activity and arrange prompt obstetric evaluation.",
+    "hintContent": "Decide whether the problem is the exercise itself or a sign that needs evaluation.",
+    "hintStrategy": "When a symptom could indicate a complication, choose the option that leads to evaluation now.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 3,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-052",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "On the second day after abdominal surgery, a 62-year-old client says, “I want to walk the whole hallway three times today so I can get strong fast.” The client has not yet walked since surgery. Which action should the nurse take first?",
+    "options": [
+      "Encourage the client to walk the full hallway with standby help.",
+      "Assess vital signs, pain, and dizziness when the client stands.",
+      "Explain that walking should wait until the client is discharged.",
+      "Ask the UAP to walk the client to the end of the hall and back."
+    ],
+    "optionRationales": [
+      "Incorrect. The goal exceeds what has been established as safe for a client who has not yet walked.",
+      "Correct. Baseline tolerance must be assessed before a deconditioned client begins walking.",
+      "Incorrect. Early mobility is generally encouraged; the issue is a safe starting point.",
+      "Incorrect. The first postoperative walk requires nursing assessment of tolerance."
+    ],
+    "answer": 1,
+    "rationale": "After illness or surgery, activity begins with an assessed baseline and progresses gradually. This client has not walked since surgery, so the nurse first assesses vital signs, pain, and orthostatic symptoms and then plans a short supervised walk. Encouraging the full hallway is tempting because the client is motivated, but motivation does not establish tolerance. Delaying walking until discharge or delegating the first walk would also be inappropriate.",
+    "takeaway": "Assess tolerance before the first walk; motivation is not a safety assessment.",
+    "hintContent": "Ask what the nurse does not yet know about this client's tolerance.",
+    "hintStrategy": "When the client's ability is unknown, assess before implementing.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-053",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 27-year-old client with paraplegia who uses a manual wheelchair asks the nurse, “Is there any exercise I can actually do?” Which action should the nurse take first?",
+    "options": [
+      "Explain that exercise will need to wait until a walking program is possible.",
+      "Recommend a standard gym program focused on lower-body machines.",
+      "Ask about the client's current abilities, interests, and any restrictions.",
+      "Give the client a list of local wheelchair sports teams to contact."
+    ],
+    "optionRationales": [
+      "Incorrect. People with disabilities can be active as abilities allow; walking is not required.",
+      "Incorrect. This ignores the client's abilities and does not start from an assessment.",
+      "Correct. An adapted plan starts with assessing function, preferences, equipment, and the care plan.",
+      "Incorrect. Adaptive sports may fit later, but a resource list before assessment may not match the client."
+    ],
+    "answer": 2,
+    "rationale": "People with chronic conditions or disability should be as active as their abilities allow, with plans adapted to function and the care plan. The first step is assessing what the client can do, enjoys, and is restricted from, along with equipment needs. Offering a list of wheelchair sports teams is tempting because it is encouraging and specific, but it skips assessment and may not match the client's interests or ability. Saying exercise must wait for walking is inaccurate.",
+    "takeaway": "Disability does not rule out exercise; assess abilities and interests to adapt the plan.",
+    "hintContent": "Consider what information the nurse needs to individualize the plan.",
+    "hintStrategy": "Assess before recommending; resource lists and programs come after you know the client.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-054",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 50-year-old client tells the clinic nurse he plans to begin a high-intensity interval class tomorrow. His blood pressure today is 178/104 mm Hg, and he says he ran out of his antihypertensive two weeks ago. Which action should the nurse take first?",
+    "options": [
+      "Teach him to use the talk test to keep intervals at a moderate level.",
+      "Recommend that he start with a beginner aerobics class at the gym instead.",
+      "Notify the provider and advise him to delay the class until reviewed.",
+      "Help him write a SMART goal for attending the class twice a week."
+    ],
+    "optionRationales": [
+      "Incorrect. Intensity teaching does not address uncontrolled blood pressure that needs evaluation.",
+      "Incorrect. A lower-intensity class still begins exercise before the uncontrolled blood pressure is addressed.",
+      "Correct. Uncontrolled blood pressure after missed medication requires provider review before vigorous exercise.",
+      "Incorrect. Goal-setting is premature when his current condition is unstable."
+    ],
+    "answer": 2,
+    "rationale": "Interval training alternates greater and lesser effort and is not automatically appropriate for a beginner or a medically unstable person. A blood pressure of 178/104 mm Hg after two weeks without medication is uncontrolled and needs provider review before vigorous exercise. Recommending a beginner class instead is tempting because it seems like a safer compromise, but it still adds exertion before the unstable condition is addressed. Goal-setting and talk-test teaching can follow once he is cleared.",
+    "takeaway": "Review unstable illness with the provider before starting or advancing exercise.",
+    "hintContent": "Look at the vital sign and the medication history together.",
+    "hintStrategy": "When a client's condition is unstable, choose the option that involves the provider before any plan proceeds.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Pharmacology",
+    "difficulty": 3,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Today's vital signs",
+          "table": {
+            "headers": [
+              "Measure",
+              "Result"
+            ],
+            "rows": [
+              [
+                "Blood pressure",
+                "178/104 mm Hg"
+              ],
+              [
+                "Heart rate",
+                "88/min"
+              ],
+              [
+                "Antihypertensive",
+                "Not taken for 2 weeks (ran out)"
+              ],
+              [
+                "Planned activity",
+                "High-intensity interval class tomorrow"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-055",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 73-year-old client using resistance bands for shoulder strengthening reports a sharp pain in the right shoulder during the third set. The client says, “No pain, no gain, right?” Which action should the nurse take first?",
+    "options": [
+      "Stop the exercise and assess the client's right shoulder.",
+      "Switch the client to a lighter band and finish the set.",
+      "Explain that muscle soreness is a normal response to training.",
+      "Apply ice to the shoulder and resume exercise in 15 minutes."
+    ],
+    "optionRationales": [
+      "Correct. Sharp pain during exercise calls for stopping and assessing for injury.",
+      "Incorrect. Continuing before assessing sharp pain risks further injury.",
+      "Incorrect. Sharp pain during exercise is not the same as expected muscle fatigue.",
+      "Incorrect. Planning to resume before assessment ignores a possible injury."
+    ],
+    "answer": 0,
+    "rationale": "Pain is not proof that exercise is working, and sharp pain during resistance work may signal injury. The nurse stops the activity and assesses the shoulder before deciding whether, how, or when to continue. Switching to a lighter band is tempting because it reduces the load, but it continues exercise without knowing what caused the pain. The client's ‘no pain, no gain’ belief also needs teaching once the shoulder has been assessed.",
+    "takeaway": "Sharp pain during exercise means stop and assess; pain is not proof the exercise is working.",
+    "hintContent": "Distinguish expected effort from a sign of possible injury.",
+    "hintStrategy": "When a symptom may signal harm, choose ‘stop and assess’ over modifications that continue activity.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-056",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A home health nurse reviews activity logs submitted by four clients enrolled in a walking program. Which client requires the nurse's follow-up first?",
+    "options": [
+      "The client who walked 10 minutes daily and reported mild leg muscle soreness.",
+      "The client who skipped two walks because of a family event.",
+      "The client who could talk but not sing while walking briskly.",
+      "The client who had to sit down on a bench because of lightheadedness."
+    ],
+    "optionRationales": [
+      "Incorrect. Mild muscle soreness after new activity is expected and can be addressed routinely.",
+      "Incorrect. Missed sessions need problem-solving but do not indicate a physical risk.",
+      "Incorrect. This describes appropriate moderate intensity.",
+      "Correct. Lightheadedness requiring the client to sit is a concerning symptom that needs prompt assessment."
+    ],
+    "answer": 3,
+    "rationale": "Exercise plans should state which symptoms require stopping and whom to contact, and the nurse prioritizes reports of those symptoms. Lightheadedness severe enough that the client had to sit down suggests possible near-syncope and needs prompt follow-up. Mild muscle soreness is the tempting choice because it is a physical symptom, but it is an expected response to new activity. Talking but not singing indicates appropriate moderate intensity, and missed sessions are a planning issue.",
+    "takeaway": "Prioritize red-flag symptoms during activity over expected soreness or missed sessions.",
+    "hintContent": "Sort the reports into expected responses, planning issues, and warning signs.",
+    "hintStrategy": "In multi-client priority items, choose the one with a possible physiologic threat.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Prioritize Hypotheses",
+    "focus": "Prioritization",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+    "priority": true,
+    "exhibit": {
+      "tabs": [
+        {
+          "title": "Walking program logs",
+          "table": {
+            "headers": [
+              "Client",
+              "Log entry"
+            ],
+            "rows": [
+              [
+                "Age 66, osteoarthritis",
+                "Walked 10 min daily. Legs a little sore."
+              ],
+              [
+                "Age 58, prediabetes",
+                "Missed 2 walks for a family event."
+              ],
+              [
+                "Age 45, no restrictions",
+                "Brisk walk; could talk but not sing."
+              ],
+              [
+                "Age 71, hypertension",
+                "Felt lightheaded, had to sit on a bench."
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "m7-x1-057",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 68-year-old client recovered well physically after a fall three months ago and has the strength to walk. The client says, “I'd like to walk to church again, but I'm scared I'll fall.” Which response should the nurse make first?",
+    "options": [
+      "“Your strength is good, so you're ready to walk to church.”",
+      "“Tell me more about what worries you about walking there.”",
+      "“You could use a wheelchair for the trip until you feel safer.”",
+      "“Most people stop worrying about falling after a few weeks.”"
+    ],
+    "optionRationales": [
+      "Incorrect. This dismisses the fear, which can limit activity regardless of strength.",
+      "Correct. Exploring the fear identifies specific concerns that can be addressed in the plan.",
+      "Incorrect. This may reduce activity and independence before the concern is understood.",
+      "Incorrect. This offers false reassurance without assessing the client's concern."
+    ],
+    "answer": 1,
+    "rationale": "Assessment includes confidence as well as capability; a person may have the strength to walk but fear falling after a recent injury. Exploring what worries the client can reveal specific concerns such as the route, weather, or device use that can be addressed with practice or support. Telling the client their strength is good is tempting because it is factually encouraging, but it dismisses the fear that is actually limiting activity. Reassurance and a wheelchair suggestion likewise skip assessment.",
+    "takeaway": "Assess confidence and fear as well as strength before planning activity.",
+    "hintContent": "Consider what is actually limiting this client's activity.",
+    "hintStrategy": "For therapeutic communication, explore the feeling before reassuring or solving.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [
+      "wellness-context"
+    ],
+    "cjmm": "Analyze Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": true
+  },
+  {
+    "id": "m7-x1-058",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 60-year-old client who takes metoprolol says, “My heart rate never gets up to the target number on my watch, so I keep pushing harder.” Which response by the nurse is most appropriate?",
+    "options": [
+      "“Keep increasing your pace each time until your watch shows the target rate.”",
+      "“Your medication limits heart rate, so let the talk test guide your effort.”",
+      "“Stop taking metoprolol on exercise days so your heart rate can rise.”",
+      "“If your heart rate stays low, the exercise is not giving you any benefit.”"
+    ],
+    "optionRationales": [
+      "Incorrect. Pushing to a rate the medication blunts can cause overexertion.",
+      "Correct. Beta blockers blunt heart rate response, so perceived effort and the talk test are better guides.",
+      "Incorrect. A prescribed medication should not be stopped without the prescriber.",
+      "Incorrect. Benefit does not depend on reaching a specific heart rate number."
+    ],
+    "answer": 1,
+    "rationale": "Medication, illness, conditioning, and disability can alter the body's response to exercise. Beta blockers such as metoprolol limit the rise in heart rate, so a heart rate target may be unreachable and pushing harder to meet it risks overexertion. The talk test and how the client feels are more useful guides, and the target should be reviewed with the provider. Telling the client the exercise gives no benefit is the tempting misconception, but benefit does not depend on reaching one number.",
+    "takeaway": "When medication blunts heart rate, guide intensity by the talk test and symptoms.",
+    "hintContent": "Think about how a beta blocker affects heart rate during exercise.",
+    "hintStrategy": "Eliminate options that change a prescribed medication or encourage pushing past safe limits.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Pharmacology",
+    "difficulty": 3,
+    "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-059",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "The parent of a 9-year-old says, “She has gym class twice a week, so she gets plenty of exercise. At home she mostly plays video games.” Which response by the nurse is best?",
+    "options": [
+      "“Two gym classes a week meet the activity recommendation for her age.”",
+      "“She should start a structured weight-lifting program after school.”",
+      "“Children her age need about an hour of active play every day.”",
+      "“Limiting video games will be enough to meet her activity needs.”"
+    ],
+    "optionRationales": [
+      "Incorrect. Children need about 60 minutes of activity daily, not two sessions a week.",
+      "Incorrect. Children benefit most from enjoyable, developmentally appropriate play.",
+      "Correct. School-age children need at least 60 minutes of moderate-to-vigorous activity daily.",
+      "Incorrect. Reducing screen time alone does not ensure active play."
+    ],
+    "answer": 2,
+    "rationale": "School-age children and adolescents need at least 60 minutes of moderate-to-vigorous activity daily, including muscle- and bone-strengthening activities. Two gym classes a week fall well short of that, so the nurse explains the daily target and can explore enjoyable, developmentally appropriate activities. A structured weight program is tempting because strengthening is part of the guideline, but for children it comes mainly through active play such as climbing and jumping. Simply limiting screen time does not guarantee activity.",
+    "takeaway": "School-age children need about 60 minutes of moderate-to-vigorous activity every day.",
+    "hintContent": "Recall the activity guideline for school-age children and whether it is daily or weekly.",
+    "hintStrategy": "Lifespan items: match the recommendation to the specific age group in the stem.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-060",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A healthy 40-year-old client says, “I walk briskly for 25 minutes six days a week, so I'm meeting all the activity guidelines.” Which response by the nurse is most accurate?",
+    "options": [
+      "“You need to walk 150 minutes every day to meet the guideline.”",
+      "“That meets the aerobic goal; also add muscle strengthening 2 days a week.”",
+      "“Brisk walking does not count toward the adult activity guideline.”",
+      "“You are meeting all of the guidelines, so no further changes are needed at all.”"
+    ],
+    "optionRationales": [
+      "Incorrect. The guideline is a weekly total, not a daily amount.",
+      "Correct. 150 minutes of moderate activity meets the aerobic target, but adults also need muscle strengthening on at least 2 days.",
+      "Incorrect. Brisk walking is a common moderate-intensity aerobic activity.",
+      "Incorrect. Aerobic minutes alone do not meet the muscle-strengthening recommendation."
+    ],
+    "answer": 1,
+    "rationale": "Adults are advised to get 150–300 minutes of moderate activity or 75–150 minutes of vigorous activity per week, plus muscle-strengthening activity on at least two days. Twenty-five minutes on six days equals 150 minutes of moderate activity, which meets the aerobic target. Agreeing that all guidelines are met is the tempting answer because the math works, but it overlooks the muscle-strengthening component. The nurse affirms the walking and adds the missing piece.",
+    "takeaway": "Adult guidelines include weekly aerobic minutes plus muscle strengthening on at least 2 days.",
+    "hintContent": "Do the weekly math, then check whether every part of the guideline is addressed.",
+    "hintStrategy": "When a client says ‘all,’ check whether any component of the recommendation is missing.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-061",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A nurse is documenting a deconditioned client's response to a hallway walk. Which entry best evaluates the client's activity tolerance?",
+    "options": [
+      "“Client tolerated the hallway walk well today and was encouraged to continue.”",
+      "“Walked 40 ft with walker, 1 rest; HR at baseline in 4 min; no dizziness.”",
+      "“Client walked in the hallway per the plan of care this afternoon.”",
+      "“Client states that walking is important for regaining strength.”"
+    ],
+    "optionRationales": [
+      "Incorrect. ‘Tolerated well’ is vague and does not describe the observed response.",
+      "Correct. This records distance, assistance, rest, recovery, and symptoms, which together show tolerance.",
+      "Incorrect. This states that walking occurred but not how the client responded.",
+      "Incorrect. A statement about importance does not describe the physiologic response."
+    ],
+    "answer": 1,
+    "rationale": "Activity tolerance is the ability to complete activity with an acceptable physiologic response and manageable symptoms. A useful evaluation records what was performed, the assistance needed, and the response, including recovery time and symptoms. Phrases such as ‘tolerated well’ are tempting because they are common in charting, but they do not tell the next nurse what the client could do or how they responded. Statements about the plan or the client's beliefs are not evaluation of tolerance.",
+    "takeaway": "Document distance, assistance, symptoms, and recovery, not ‘tolerated well.’",
+    "hintContent": "Look for the entry another nurse could use to decide whether to progress activity.",
+    "hintStrategy": "In evaluation items, choose specific, observable, measurable data over vague summaries.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-062",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 35-year-old client without health problems runs three times a week for 25 minutes and says, “When I'm running, I can only get out a few words before I need a breath.” The client asks whether this is enough exercise. Which response by the nurse is most accurate?",
+    "options": [
+      "“That sounds like moderate intensity, so you need 150 minutes weekly.”",
+      "“That sounds like light intensity, so increase your pace when you run.”",
+      "“You need to run every day of the week to get the full benefit from it.”",
+      "“That is vigorous intensity; 75 minutes a week meets the aerobic goal.”"
+    ],
+    "optionRationales": [
+      "Incorrect. Speaking only a few words indicates vigorous, not moderate, intensity.",
+      "Incorrect. Being limited to a few words reflects vigorous effort, not light.",
+      "Incorrect. The guideline is a weekly total, and daily running is not required.",
+      "Correct. Saying only a few words indicates vigorous effort, and 75 vigorous minutes meets the minimum weekly aerobic target."
+    ],
+    "answer": 3,
+    "rationale": "In the talk test, a person at moderate intensity can talk but not sing, while at vigorous intensity they can say only a few words before pausing for breath. This client's running is vigorous, and three 25-minute sessions total 75 minutes, which meets the minimum vigorous aerobic target for adults. Classifying it as moderate is the tempting error, which would lead to telling the client they are only halfway to 150 minutes. Muscle strengthening on two days a week should still be addressed.",
+    "takeaway": "Only a few words before a breath means vigorous intensity; 75 vigorous minutes weekly meets the aerobic minimum.",
+    "hintContent": "Use the talk test to identify the intensity, then do the weekly math.",
+    "hintStrategy": "Identify the category first (intensity), then apply the rule for that category.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Analyze Cues",
+    "focus": "Client Teaching",
+    "difficulty": 3,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-063",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A client with depression who is starting outpatient treatment asks, “Will exercise help me at all?” Which response by the nurse is most accurate?",
+    "options": [
+      "“Activity can help mood, stress, and sleep alongside your treatment.”",
+      "“Exercise will cure depression if you do it every day for a month.”",
+      "“Exercise mainly benefits the heart, so it will not affect your mood.”",
+      "“If you exercise enough, you may be able to stop your medication.”"
+    ],
+    "optionRationales": [
+      "Correct. Activity has psychosocial benefits and supports, rather than replaces, treatment.",
+      "Incorrect. Nurses should not promise that exercise cures a chronic condition.",
+      "Incorrect. Psychosocial benefits include improved mood, reduced stress, and better sleep.",
+      "Incorrect. This suggests changing prescribed treatment and overstates the benefit."
+    ],
+    "answer": 0,
+    "rationale": "Regular activity supports emotional, social, and cognitive wellness through improved mood, reduced stress, better sleep, and chances for connection. The nurse describes these benefits accurately as part of the overall treatment plan. Promising a cure is the tempting overstatement, because the benefits are real, but exercise does not guarantee recovery from a chronic condition. Suggesting the client could stop medication would encourage an unsafe, unsupervised change.",
+    "takeaway": "Exercise has real psychosocial benefits, but do not promise it cures disease or replaces treatment.",
+    "hintContent": "Look for the response that is accurate without overpromising.",
+    "hintStrategy": "Eliminate options with guarantees (‘will cure’) or suggestions to change prescribed therapy.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Psychosocial Integrity",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-064",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 76-year-old client with osteoarthritis says, “What I really want is to get back to working in my vegetable garden.” Which plan element best connects the activity plan to the client's goal?",
+    "options": [
+      "Walking on a treadmill for 30 minutes on five days a week.",
+      "Practicing sit-to-stand and carrying a light watering can.",
+      "Losing 10 pounds before returning to any gardening tasks.",
+      "Joining a high-intensity group exercise class at a local gym."
+    ],
+    "optionRationales": [
+      "Incorrect. This builds endurance but does not target the movements gardening requires.",
+      "Correct. Functional practice of gardening movements links the exercise to the client's valued task.",
+      "Incorrect. Weight is not the client's goal, and delaying gardening reduces meaningful participation.",
+      "Incorrect. A demanding class may not fit the client's ability, joints, or goal."
+    ],
+    "answer": 1,
+    "rationale": "A functional goal turns an abstract recommendation into something the client values, which supports motivation and participation. Gardening requires getting up and down, carrying, and balance, so practicing sit-to-stand and carrying a light watering can builds the specific abilities the client needs. Treadmill walking is tempting because it is a standard endurance activity, but it does not address the movements of the task the client cares about. Requiring weight loss first shifts the goal away from the client's priority.",
+    "takeaway": "Link activity to the client's valued functional goal.",
+    "hintContent": "Consider what movements the client's goal actually requires.",
+    "hintStrategy": "Choose the option that is individualized to the client's stated goal.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [
+      "promotion-change"
+    ],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-065",
+    "topic": "fitness-exercise",
+    "type": "mcq",
+    "stem": "A 22-year-old client has a long leg cast after a tibia fracture and wants to keep the thigh muscles strong while the knee is immobilized. Which exercise should the nurse expect to teach?",
+    "options": [
+      "Bending and straightening the knee against light resistance.",
+      "Tightening and holding the thigh muscle without moving the knee.",
+      "Riding a stationary bicycle at a slow, comfortable pace.",
+      "Climbing stairs slowly at home while holding onto the handrail."
+    ],
+    "optionRationales": [
+      "Incorrect. The knee is immobilized in the cast and cannot move through range.",
+      "Correct. Isometric contraction builds tension without joint movement, which fits an immobilized knee.",
+      "Incorrect. Cycling requires knee movement, which the cast prevents.",
+      "Incorrect. Stair climbing is isotonic and requires knee flexion and extension."
+    ],
+    "answer": 1,
+    "rationale": "Isometric exercise creates muscle tension while the joint remains still, so it can maintain strength when a joint is immobilized. Tightening and holding the thigh muscle within the cast fits that description. Light-resistance knee bending is tempting because it is a common strengthening exercise, but it is isotonic and requires joint movement the cast prevents. The nurse also teaches the client to keep breathing during each contraction to avoid a Valsalva-related rise in blood pressure.",
+    "takeaway": "When a joint cannot move, isometric contractions maintain muscle strength.",
+    "hintContent": "Decide which exercises require the knee joint to move.",
+    "hintStrategy": "Classify by mechanism: joint movement (isotonic) versus no joint movement (isometric).",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+    "priority": false
+  },
+  {
+    "id": "m7-x1-066",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "A nurse is teaching a community group of adults about the benefits of regular physical activity. Which statements should the nurse include? Select all that apply.",
+    "options": [
+      "“Regular activity can improve your mood and help you sleep better.”",
+      "“Weight-bearing and strength activities help keep your bones strong.”",
+      "“Being active can help manage blood pressure and blood glucose.”",
+      "“Exercising regularly will prevent you from developing any disease.”",
+      "“Balance and strength activities can help you stay independent.”",
+      "“If you already have arthritis, regular exercise will cure it.”"
+    ],
+    "optionRationales": [
+      "Correct. Psychosocial benefits include improved mood, reduced stress, and better sleep.",
+      "Correct. Activity supports bone strength.",
+      "Correct. Regular activity supports blood pressure and glucose management.",
+      "Incorrect. Nurses should not promise that exercise prevents every disease.",
+      "Correct. Improved strength, balance, and mobility support independence.",
+      "Incorrect. Exercise can improve function but does not cure chronic conditions."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "rationale": "Regular activity can improve endurance, strength, balance, and mobility; support blood pressure, glucose, and bone health; and improve mood, stress, and sleep. These benefits connect physical fitness with emotional, social, and functional wellness. Statements promising to prevent every disease or cure a chronic condition overstate the evidence and set clients up for disappointment. The ‘prevent any disease’ statement is tempting because activity lowers many risks, but lowering risk is not a guarantee.",
+    "takeaway": "Teach the real benefits of activity without promising prevention of all disease or cure.",
+    "hintContent": "Watch for statements that turn ‘can help’ into a guarantee.",
+    "hintStrategy": "Absolute words such as ‘any’ and ‘will cure’ usually signal an incorrect option.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-067",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "After a knee arthroscopy, a client's surgeon allows only exercises that do not move the knee joint this week. Which exercises are appropriate for the nurse to reinforce? Select all that apply.",
+    "options": [
+      "Tightening the front thigh muscle while the knee stays straight.",
+      "Squeezing the buttock muscles together and holding for a few seconds.",
+      "Pressing the heel down into the bed without bending the knee.",
+      "Performing mini squats while holding onto a kitchen counter.",
+      "Pedaling a stationary bicycle at a slow pace for 10 minutes.",
+      "Lifting an ankle weight by straightening the knee while seated."
+    ],
+    "optionRationales": [
+      "Correct. A quadriceps set is isometric and produces tension without knee movement.",
+      "Correct. A gluteal set is isometric and does not move the knee.",
+      "Correct. This hamstring set produces tension without knee joint movement.",
+      "Incorrect. Squats bend the knee, which is isotonic movement.",
+      "Incorrect. Cycling moves the knee through flexion and extension.",
+      "Incorrect. Seated knee extension moves the knee joint against resistance."
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "Isometric exercise produces muscle tension without appreciable joint movement, which matches a restriction against moving the knee. Quadriceps sets, gluteal sets, and pressing the heel into the bed all build tension while the knee stays still. Mini squats, cycling, and seated knee extensions are isotonic because the muscle changes length and the knee moves. Stationary cycling is tempting because it seems gentle, but gentleness does not change the fact that the knee bends.",
+    "takeaway": "No joint movement allowed means isometric exercises only.",
+    "hintContent": "For each exercise, picture whether the knee bends or straightens.",
+    "hintStrategy": "Classify by mechanism, not by how gentle or intense the exercise seems.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Nursing Interventions",
+    "difficulty": 2,
+    "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+  },
+  {
+    "id": "m7-x1-068",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "A 64-year-old client asks for help starting an exercise routine. Which information should the nurse gather before making a recommendation? Select all that apply.",
+    "options": [
+      "Falls in the past year and any fear of falling.",
+      "Current medications and any activity restrictions.",
+      "Activities the client enjoys or has done in the past.",
+      "Safe, affordable places the client can be active.",
+      "The national weekly minute target the client should start at.",
+      "Whether the client's weight is above ideal to decide if exercise is needed."
+    ],
+    "optionRationales": [
+      "Correct. Fall history and confidence affect safe activity choices.",
+      "Correct. Medications and restrictions may change the safe plan or the client's response.",
+      "Correct. Preferences support participation and adherence.",
+      "Correct. Cost, access, and environment determine whether the plan is feasible.",
+      "Incorrect. Population targets are not individual starting doses.",
+      "Incorrect. Activity benefits everyone; weight alone does not determine the need for exercise."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "rationale": "Before recommending activity, the nurse assesses usual activity, symptoms, falls, devices, medications, restrictions, preferences, and access. Fall history and fear, medications and restrictions, enjoyment, and safe affordable locations all shape a plan the client can safely carry out. A national weekly target is tempting because it is evidence-based, but it describes population goals rather than an individual starting point. Using weight to decide whether exercise is needed ignores the many benefits of activity unrelated to weight.",
+    "takeaway": "Assess safety, restrictions, preferences, and access before recommending activity.",
+    "hintContent": "Ask which data would change what the nurse recommends for this person.",
+    "hintStrategy": "In assessment SATA items, select data specific to the client; reject general rules.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Recognize Cues",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-069",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "A nurse is assigning care for a stable client whose plan includes walking in the hallway three times a day with standby assistance. Which tasks can the nurse delegate to unlicensed assistive personnel (UAP)? Select all that apply.",
+    "options": [
+      "Walking with the client in the hallway according to the plan.",
+      "Recording the distance the client walks each time.",
+      "Stopping the walk and reporting if the client becomes dizzy.",
+      "Teaching the client a new technique for using the walker.",
+      "Deciding whether the client is ready to walk a longer distance."
+    ],
+    "optionRationales": [
+      "Correct. Ambulating a stable client per an established plan is within UAP scope.",
+      "Correct. Measuring and recording data is within UAP scope.",
+      "Correct. UAP can stop activity and report findings for the nurse to assess.",
+      "Incorrect. Teaching requires nursing judgment and is not delegated to UAP.",
+      "Incorrect. Evaluating tolerance and progressing activity require nursing judgment."
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "UAP can carry out routine tasks for stable clients, such as ambulating per an established plan and recording measurable data. They should be told which findings require stopping the activity and reporting to the nurse. Teaching new skills and deciding whether to progress activity require assessment and evaluation, which remain with the RN. Teaching walker technique is tempting to delegate because it seems simple, but teaching is outside UAP scope.",
+    "takeaway": "Delegate routine ambulation and data collection; keep teaching and evaluation with the RN.",
+    "hintContent": "Sort tasks into ‘doing and reporting’ versus ‘judging and teaching.’",
+    "hintStrategy": "UAP cannot assess, teach, evaluate, or care for unstable clients; check each option against that rule.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Delegation & Safety",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Management of Care"
+  },
+  {
+    "id": "m7-x1-070",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "A 78-year-old client with no activity restrictions is independent and walks daily. Which recommendations are appropriate for the nurse to include in the activity plan? Select all that apply.",
+    "options": [
+      "Continue aerobic activity toward adult weekly targets as abilities allow.",
+      "Add balance activities such as standing on one foot near a counter.",
+      "Include muscle-strengthening activities on at least two days a week.",
+      "Avoid all strength training because of the risk of injury with age.",
+      "Practice functional tasks such as rising from a chair without using the arms.",
+      "Limit walking to 10 minutes a week to prevent overexertion."
+    ],
+    "optionRationales": [
+      "Correct. Older adults follow adult aerobic guidelines as abilities allow.",
+      "Correct. Balance training is a recommended addition for older adults.",
+      "Correct. Muscle strengthening on 2 or more days is recommended for older adults.",
+      "Incorrect. Age alone is not a reason to avoid strength training; it supports function.",
+      "Correct. Functional activity supports independence in daily tasks.",
+      "Incorrect. An arbitrary limit undercuts the activity of an independent, active client."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "rationale": "Older adults follow adult activity recommendations as abilities allow and add balance and functional activities. This active, independent client can continue aerobic activity, add balance and functional training, and do muscle strengthening on at least two days. Avoiding strength training because of age is the tempting misconception, but strength supports bones, function, and independence. Arbitrarily limiting walking would reduce fitness in a client with no restrictions.",
+    "takeaway": "Older adults: adult aerobic targets as able, plus balance, strength, and functional activity.",
+    "hintContent": "Recall what is added to adult recommendations for older adults.",
+    "hintStrategy": "Be cautious of options that restrict activity based on age alone.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Generate Solutions",
+    "focus": "Lifespan & Diversity",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-071",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "Three weeks ago, a deconditioned 69-year-old client began a walking plan after a hospital stay. Which findings at today's follow-up indicate progress toward the client's goal? Select all that apply.",
+    "options": [
+      "The client now walks 10 minutes without stopping, up from 3 minutes.",
+      "The client's breathing returns to normal more quickly after walking.",
+      "The client can now carry a bag of groceries from the car.",
+      "The client's body weight is unchanged from three weeks ago.",
+      "The client reports new ankle pain that wakes them at night.",
+      "The client says, “I feel more confident going out on my own.”"
+    ],
+    "optionRationales": [
+      "Correct. Increased duration shows improved endurance from the baseline.",
+      "Correct. Faster recovery is evidence of improved activity tolerance.",
+      "Correct. Improved performance of a valued task shows functional progress.",
+      "Incorrect. Unchanged weight does not indicate progress, and progress can occur without weight change.",
+      "Incorrect. New pain is a concern that requires assessment, not a sign of progress.",
+      "Correct. Increased confidence and participation are meaningful outcomes."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "rationale": "Evaluation compares actual performance with the baseline and the goal, including endurance, recovery, function, confidence, and safety. Longer walking time, faster recovery, carrying groceries, and greater confidence all show progress even if body weight has not changed. New night-time ankle pain is a concern to assess. Unchanged weight is tempting to read as lack of progress, but weight is not the only outcome and was not the goal of this plan.",
+    "takeaway": "Measure progress by endurance, recovery, function, and confidence, not weight alone.",
+    "hintContent": "Compare each finding with where the client started three weeks ago.",
+    "hintStrategy": "In evaluate-outcome SATA items, select findings that show improvement toward the stated goal.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Evaluate Outcomes",
+    "focus": "Assessment Findings",
+    "difficulty": 2,
+    "clientNeed": "Health Promotion and Maintenance"
+  },
+  {
+    "id": "m7-x1-072",
+    "topic": "fitness-exercise",
+    "type": "sata",
+    "stem": "A nurse is teaching a 45-year-old client who is starting a home exercise program after being sedentary. Which instructions should the nurse include? Select all that apply.",
+    "options": [
+      "“Begin each session with a few minutes of gentle warm-up.”",
+      "“Wear supportive shoes that fit well and suit the activity.”",
+      "“Increase the time or intensity gradually over several weeks.”",
+      "“Push through pain, because it shows the workout is effective.”",
+      "“Hold your breath during each lift to keep your core stable.”",
+      "“Stop and get medical help right away if you have new chest discomfort.”"
+    ],
+    "optionRationales": [
+      "Correct. Warm-up prepares muscles and the cardiovascular system for activity.",
+      "Correct. Appropriate footwear reduces injury risk.",
+      "Correct. Gradual progression lowers injury and overexertion risk.",
+      "Incorrect. Pain is not proof that exercise is working and may signal injury.",
+      "Incorrect. Breath-holding can raise blood pressure sharply; clients should keep breathing.",
+      "Correct. The plan should state which symptoms require stopping and whom to contact."
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "rationale": "Safe exercise teaching includes warm-up, appropriate equipment and footwear, gradual progression, and clear instructions about which symptoms require stopping and whom to contact. Pain is not proof that exercise is working, and breath-holding during exertion can raise blood pressure sharply through the Valsalva effect. The breath-holding instruction is tempting because core bracing is common advice, but clients should keep breathing during contractions. New chest discomfort is a stop-and-report symptom.",
+    "takeaway": "Teach warm-up, proper footwear, gradual progression, normal breathing, and when to stop.",
+    "hintContent": "Look for instructions that could cause injury or a blood pressure spike.",
+    "hintStrategy": "Evaluate each instruction independently for safety; reject ‘push through’ advice.",
+    "ref": "Module 7 · Exemplar 7.A Physical Fitness & Exercise · slides 38–49",
+    "alsoTests": [],
+    "cjmm": "Take Action",
+    "focus": "Client Teaching",
+    "difficulty": 2,
+    "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+  }
+] });

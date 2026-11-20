@@ -1,0 +1,2688 @@
+{
+ "moduleId": "m6",
+ "moduleNumber": 6,
+ "moduleTitle": "Fluids & Electrolytes",
+ "questions": [
+  {
+   "id": "m6-x2-001",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "A 58-year-old client in septic shock started an infusion of 25% albumin 15 minutes ago. The client suddenly reports throat tightness and itching. The nurse notes hives on the chest, audible wheezing, and a blood pressure drop from 112/70 to 84/50 mm Hg. Which action should the nurse take first?",
+   "options": [
+    "Stop the albumin infusion and stay with the client",
+    "Increase the albumin rate to raise the blood pressure",
+    "Slow the albumin to half the rate and recheck in 15 minutes",
+    "Call the provider and ask whether to continue the infusion"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Hives, wheezing, throat tightness, and a sudden pressure drop during a colloid point to anaphylaxis. Stopping the source of the allergen comes first, and the nurse stays with the client while calling for help.",
+    "Incorrect. The hypotension here is from an allergic reaction to the albumin itself, so giving more of it worsens the reaction.",
+    "Incorrect. Any continued infusion keeps delivering the allergen; a life-threatening reaction is not managed by slowing the rate.",
+    "Incorrect. The provider must be notified immediately, but the nurse first stops the infusion; delaying that while calling lets the reaction progress."
+   ],
+   "rationale": "Colloids such as albumin and dextran 40 are large foreign molecules, so anaphylaxis is their key nursing risk, especially early in the infusion. Hives, wheezing, throat tightness, and a sudden drop in blood pressure together signal a threat to the airway and circulation. The first action is to stop the infusion so no more allergen enters, stay with the client, call for help, and notify the provider. The most tempting wrong answer is speeding the albumin because albumin normally raises blood pressure, but here the low pressure is caused by the reaction to the albumin.",
+   "takeaway": "Allergic signs during a colloid infusion mean stop the infusion first, then stay, call for help, and notify.",
+   "hintContent": "Think about which IV solutions are large foreign molecules and what complication that creates.",
+   "hintStrategy": "When an emergency is unfolding, pick the action that removes the cause immediately; calling or reassessing comes after."
+  },
+  {
+   "id": "m6-x2-002",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "An 81-year-old client admitted with pneumonia has been receiving 0.9% sodium chloride at 125 mL/hr for 30 hours. The client is now restless, with a respiratory rate of 28/min, SpO2 89% on room air, and new crackles in both lung bases. Which action should the nurse take first?",
+   "options": [
+    "Weigh the client and compare with the admission weight",
+    "Request an order for a chest x-ray to confirm fluid in the lungs",
+    "Sit the client upright and slow the infusion per policy",
+    "Have the client cough and deep breathe to clear the crackles"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. A weight helps confirm fluid gain, but it does nothing for the breathing problem happening now.",
+    "Incorrect. Diagnostic tests can follow; the client needs immediate actions that improve oxygenation and stop more fluid.",
+    "Correct. New crackles, rapid breathing, and falling oxygen saturation in an older adult on isotonic fluid suggest fluid overload. Sitting the client up eases breathing right away, and slowing the fluid stops adding volume while the nurse assesses and notifies the provider.",
+    "Incorrect. Crackles from fluid in the alveoli do not clear with coughing; this delays the needed response."
+   ],
+   "rationale": "Isotonic crystalloids such as 0.9% sodium chloride expand vascular and ECF volume, and older adults have less renal reserve to remove the extra. New crackles, tachypnea, restlessness, and a falling SpO2 are a breathing (ABC) problem, so the first actions are ones that support breathing and stop the cause: raise the head of the bed and slow the infusion per policy, then assess and notify the provider. Weighing the client is a reasonable later step, but it gathers data without helping the client breathe. Coughing is tempting because crackles are a lung sound, but fluid-related crackles do not clear that way.",
+   "takeaway": "Signs of fluid overload during IV therapy: position upright and slow the fluid first, then assess and notify.",
+   "hintContent": "Consider what extra isotonic volume does in a client with reduced renal reserve.",
+   "hintStrategy": "Use ABCs: when breathing is affected, choose the option that helps the airway or breathing now over options that only collect data."
+  },
+  {
+   "id": "m6-x2-003",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse is caring for four clients receiving IV fluids. Which client should the nurse assess first?",
+   "options": [
+    "A client on 5% albumin with stable vital signs who asks how long it will run",
+    "A client on 0.9% sodium chloride whose Hct fell from 45% to 40% with no bleeding",
+    "A client with metabolic acidosis on lactated Ringer's whose bicarbonate is rising",
+    "An 83-year-old on 0.9% sodium chloride with new crackles and SpO2 90%"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Albumin carries a risk of anaphylaxis, but this client is stable and only has a question, which can wait.",
+    "Incorrect. A modest drop in hematocrit after isotonic fluid with no signs of bleeding is consistent with hemodilution and is not urgent.",
+    "Incorrect. A rising bicarbonate is the expected, desired effect of lactated Ringer's in metabolic acidosis.",
+    "Correct. New crackles with a low oxygen saturation in an older adult receiving isotonic fluid suggest fluid overload affecting breathing, the most unstable situation."
+   ],
+   "rationale": "When choosing whom to see first, look for an unexpected finding that threatens airway, breathing, or circulation. New crackles and an SpO2 of 90% in an 83-year-old receiving isotonic fluid indicate possible fluid overload, which is a breathing problem. A falling hematocrit after saline with no bleeding signs is expected hemodilution, and a rising bicarbonate on LR shows the therapy is working. The albumin client is tempting because colloids can cause anaphylaxis, but this client has no signs of a reaction.",
+   "takeaway": "See first the client whose new finding threatens breathing, not the one with an expected effect of the fluid.",
+   "hintContent": "Sort each client into \"expected effect of the fluid\" or \"unexpected problem.\"",
+   "hintStrategy": "Eliminate stable clients and expected findings; the remaining client with an airway or breathing change goes first."
+  },
+  {
+   "id": "m6-x2-004",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 34-year-old client with abdominal trauma from a motorcycle crash has received 3 L of 0.9% sodium chloride. The hematocrit has dropped from 42% to 31%. HR is 124/min, BP 86/52 mm Hg, and the abdomen is more distended than an hour ago. What should the nurse do first?",
+   "options": [
+    "Document the hematocrit drop as hemodilution from the saline",
+    "Slow the saline so the hematocrit is diluted less",
+    "Plan to recheck the hematocrit with the morning labs",
+    "Notify the provider now of likely ongoing bleeding"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Isotonic fluid can dilute hematocrit, but hemodilution does not explain worsening vital signs and a distending abdomen.",
+    "Incorrect. Slowing fluid in a hypotensive client worsens circulation and does not address the likely bleeding.",
+    "Incorrect. Waiting for routine labs delays care for a client showing signs of shock.",
+    "Correct. A large hematocrit drop together with a rising heart rate, falling blood pressure, and increasing abdominal distention points to hemorrhage, which needs immediate provider notification."
+   ],
+   "rationale": "Isotonic crystalloids can lower hematocrit by adding plasma volume without adding red cells, so a falling Hct after saline is not automatically bleeding. The nurse must interpret the number alongside the rest of the picture. Here, a steep Hct drop plus tachycardia, hypotension, and a distending abdomen in a trauma client strongly suggests ongoing hemorrhage. The tempting answer is calling it hemodilution, which is only reasonable when vital signs are stable or improving and there are no signs of bleeding.",
+   "takeaway": "A falling hematocrit after IV fluid is dilution only when the client is stable; with worsening vitals, think bleeding.",
+   "hintContent": "Compare what hemodilution looks like with what blood loss looks like at the bedside.",
+   "hintStrategy": "Never interpret a lab value alone; when the vital signs are getting worse, choose the answer that treats the client as unstable."
+  },
+  {
+   "id": "m6-x2-005",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "stem": "A 45-year-old client arrived 3 hours ago with partial- and full-thickness burns over 40% of the body. The new prescription reads \"Albumin 25% IV as the initial resuscitation fluid.\" Which action should the nurse take?",
+   "options": [
+    "Clarify whether lactated Ringer's should be given first",
+    "Give the albumin as prescribed and monitor for anaphylaxis",
+    "Hold all IV fluids until the edema around the burns develops",
+    "Add the albumin to the same bag as the lactated Ringer's"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. In the first 24 hours after a major burn the capillaries are so leaky that even albumin escapes into the tissues, so isotonic crystalloid, usually lactated Ringer's, is first-line. A prescription that conflicts with this should be clarified.",
+    "Incorrect. Watching for anaphylaxis is right for any colloid, but giving a fluid that is not appropriate this early skips the nurse's duty to question it.",
+    "Incorrect. A client with major burns needs fluid replacement now; holding fluids risks shock.",
+    "Incorrect. Mixing products in one bag is not an acceptable fix and does not resolve the timing concern."
+   ],
+   "rationale": "Albumin is a colloid that stays in the vessels and pulls fluid back from the tissues, which is why it is used in burns and shock. Timing matters: in the first 24 hours after a major burn, capillaries leak so much that even albumin escapes, so isotonic crystalloid (usually LR) is the first-line fluid, and colloids are usually added after the first 24 hours. The nurse is responsible for checking that a prescribed fluid makes sense for the client and clarifying when it does not. Giving it and watching for anaphylaxis is tempting because that is the usual colloid consideration, but it does not address the timing problem.",
+   "takeaway": "Burns in the first 24 hours get isotonic crystalloid (usually LR); albumin is usually added after that.",
+   "hintContent": "Recall what happens to capillary permeability in the first day after a major burn.",
+   "hintStrategy": "When a prescription does not fit the client's situation, the safest answer is to clarify before acting."
+  },
+  {
+   "id": "m6-x2-006",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "stem": "A 70-year-old client with hypovolemic shock and a history of heart failure has a new prescription for 25% albumin. Which action is most important before the nurse starts the infusion?",
+   "options": [
+    "Send a type and crossmatch to the blood bank",
+    "Recheck the serum albumin and wait for the result",
+    "Obtain baseline vital signs, lung sounds, and weight",
+    "Prime the tubing so the albumin can be given rapidly"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Albumin is made from human plasma, but it does not require a type and crossmatch the way red blood cells do.",
+    "Incorrect. The client is in shock; delaying a prescribed fluid for a repeat lab is unsafe.",
+    "Correct. A baseline lets the nurse detect early anaphylaxis (a change in blood pressure or new wheezing) and fluid overload (new crackles, weight gain), both risks with a colloid in a client with heart failure.",
+    "Incorrect. The rate comes from the prescription; a client with heart failure is at higher risk of overload, not a candidate for an unplanned rapid infusion."
+   ],
+   "rationale": "Before hanging any IV fluid the nurse checks the order and gets a baseline: vital signs, weight, lung sounds, edema, I&O, and relevant labs. With a colloid the two big risks are anaphylaxis, especially early, and fluid overload, because albumin pulls fluid into the vessels; a history of heart failure raises the overload risk. Without a baseline the nurse cannot recognize a change. Sending a type and crossmatch is tempting because albumin comes from plasma, but albumin is not typed and crossmatched like red blood cells.",
+   "takeaway": "Get a baseline before any colloid so you can recognize anaphylaxis or fluid overload as soon as it starts.",
+   "hintContent": "Name the two main risks of a colloid and what data you would need to spot either one.",
+   "hintStrategy": "For \"before starting\" questions, choose the assessment that lets you detect the most likely complication."
+  },
+  {
+   "id": "m6-x2-007",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "stem": "The nurse has just started an infusion of dextran 40 for a 52-year-old client with low blood volume after surgery. Which nursing action is most important during the first 15 minutes?",
+   "options": [
+    "Measure urine specific gravity to judge the fluid response",
+    "Draw a hematocrit to check for hemodilution",
+    "Stay nearby and watch for hives, wheezing, or hypotension",
+    "Encourage oral fluids so the dextran works faster"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Urine findings help evaluate volume later but do not protect against the most dangerous early risk.",
+    "Incorrect. Hemodilution is not an immediate safety threat in the first minutes of an infusion.",
+    "Correct. Dextran 40 is an artificial colloid; large foreign molecules can trigger anaphylaxis, and the risk is greatest at the start of the infusion.",
+    "Incorrect. Oral fluids do not change how dextran works and could be unsafe right after surgery."
+   ],
+   "rationale": "Dextran 40 is a manufactured colloid that works like albumin: large molecules stay in the vessels and pull fluid in. Because these are large foreign molecules, anaphylaxis is the key nursing consideration, and it is most likely early in the infusion. The nurse therefore monitors closely at the start for hives, wheezing, throat tightness, or a sudden drop in blood pressure. Checking specific gravity or hematocrit is tempting because they reflect fluid status, but they address effectiveness, not the most serious early risk.",
+   "takeaway": "The first minutes of any colloid infusion are for watching closely for anaphylaxis.",
+   "hintContent": "Consider what makes a colloid different from a crystalloid in terms of what can go wrong.",
+   "hintStrategy": "When a question gives a time frame such as \"first 15 minutes,\" match it to the complication that appears earliest."
+  },
+  {
+   "id": "m6-x2-008",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "stem": "A 63-year-old client with cirrhosis has a serum albumin of 2.2 g/dL, ascites, and BP 90/56 mm Hg. Two hours into a 25% albumin infusion, which finding requires the nurse's immediate follow-up?",
+   "options": [
+    "Urine output increased from 20 mL/hr to 45 mL/hr",
+    "Blood pressure increased to 106/64 mm Hg",
+    "Abdominal girth decreased by 2 cm since the start",
+    "New crackles and the client reporting shortness of breath"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Better urine output shows improved circulating volume, the intended effect.",
+    "Incorrect. A rising blood pressure in a hypotensive client is the goal of the therapy.",
+    "Incorrect. A smaller girth suggests fluid is moving out of the abdomen and back into the vessels, which is intended.",
+    "Correct. Albumin pulls fluid into the vessels; new crackles and dyspnea mean the vascular space may now hold more than the heart can handle, a sign of fluid overload."
+   ],
+   "rationale": "Low albumin weakens the oncotic pull that holds fluid in the vessels, causing edema, ascites, and hypotension. Concentrated (25%) albumin restores that pull and draws fluid from the tissues into the bloodstream. That same action can overfill the vessels, so new crackles and shortness of breath signal fluid overload and need immediate follow-up. Rising blood pressure, better urine output, and a shrinking girth are all expected effects, which makes them tempting if the student reads \"change\" as \"problem.\"",
+   "takeaway": "During albumin therapy, improved pressure and urine output are the goal; new crackles and dyspnea mean overload.",
+   "hintContent": "Ask where albumin moves fluid, and what could go wrong if it moves too much.",
+   "hintStrategy": "Separate intended effects from complications: the finding that needs follow-up is the one that is not a goal of the therapy."
+  },
+  {
+   "id": "m6-x2-009",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "The nurse is preparing to hang the next bag of IV fluid for a client with a prescription for lactated Ringer's at 125 mL/hr. The bag delivered by pharmacy is labeled 5% dextrose in water (D5W). What should the nurse do?",
+   "options": [
+    "Hold the bag and obtain the prescribed lactated Ringer's",
+    "Hang the D5W because both solutions are crystalloids",
+    "Hang the D5W and document the substitution in the record",
+    "Ask the provider to change the prescription to D5W"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The bag label must match the prescription. The solutions behave differently in the body, so the nurse obtains the prescribed fluid before hanging anything.",
+    "Incorrect. Both are crystalloids, but LR is an isotonic balanced electrolyte solution while D5W acts like free water once the sugar is used; they are not interchangeable.",
+    "Incorrect. Documenting does not make giving the wrong fluid safe; this would be a medication error.",
+    "Incorrect. The prescription is appropriate; changing it to fit a supply mistake puts convenience ahead of the client's needs."
+   ],
+   "rationale": "The first step every time the nurse hangs an IV fluid is to check the order (type, volume, rate) and match the bag label to it. Lactated Ringer's stays in the ECF and provides sodium, potassium, calcium, and lactate, while D5W provides some sugar and then acts like plain water that spreads into all compartments, including cells. Giving the wrong one is a medication error. The tempting reasoning that \"both are crystalloids\" ignores that crystalloids differ in what they contain and where they go.",
+   "takeaway": "Match the IV bag label to the prescription every time; crystalloids are not interchangeable.",
+   "hintContent": "Compare what LR contains and does with what D5W becomes after the dextrose is used.",
+   "hintStrategy": "Safety questions about the wrong product: never give it, never change the order to fit it; get the right product."
+  },
+  {
+   "id": "m6-x2-010",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse reviews protein results for four clients on a medical unit. Which client needs follow-up first?",
+   "options": [
+    "Prealbumin 13 mg/dL in a client eating half of each meal",
+    "Albumin 2.1 g/dL, BP 84/50 mm Hg, and new abdominal swelling",
+    "Albumin 3.4 g/dL in a client with a healing sacral wound",
+    "Prealbumin 28 mg/dL in a client on day 5 of tube feeding"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A prealbumin of 13 is low (normal 15–36 mg/dL) and shows poor recent nutrition, but this client is not unstable.",
+    "Correct. A very low albumin with hypotension and new ascites means fluid is leaving the vessels; low circulating volume is the most urgent problem.",
+    "Incorrect. An albumin of 3.4 is slightly low (normal 3.5–5.0 g/dL), and a wound that is healing does not need urgent action.",
+    "Incorrect. A prealbumin of 28 is normal and suggests the tube feeding is meeting recent protein needs."
+   ],
+   "rationale": "Normal albumin is 3.5–5.0 g/dL and normal prealbumin is 15–36 mg/dL. Albumin is the magnet that holds fluid in the vessels, so a level of 2.1 lets fluid escape into tissues and the abdomen, lowering blood pressure. That client has a circulation problem now, so they come first. The low prealbumin is tempting because it is out of range, but it reflects a nutrition trend in a stable client that can be addressed after the unstable one.",
+   "takeaway": "Low albumin becomes urgent when it shows up as low blood pressure and fluid leaving the vessels.",
+   "hintContent": "Recall the normal ranges for albumin and prealbumin and what low albumin does to blood volume.",
+   "hintStrategy": "Several values may be abnormal; choose the client whose abnormal value is causing a circulation problem now."
+  },
+  {
+   "id": "m6-x2-011",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "stem": "A 77-year-old client is receiving 0.9% sodium chloride at 100 mL/hr. The assistive personnel (AP) gives the nurse four reports. Which report requires the nurse's immediate follow-up?",
+   "options": [
+    "\"There is only about 400 mL left in her IV bag now.\"",
+    "\"She voided 350 mL of light yellow urine.\"",
+    "\"She says it's harder to breathe when she lies flat.\"",
+    "\"She asked whether she could have a cup of ice chips.\""
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The bag volume helps with planning, but it is not a change in the client's condition.",
+    "Incorrect. A good volume of light urine is a reassuring finding.",
+    "Correct. New difficulty breathing when lying flat in an older adult on isotonic fluid can be an early sign of fluid overload and needs the nurse's assessment now.",
+    "Incorrect. A request for ice chips is routine; the nurse can check any intake limits later."
+   ],
+   "rationale": "Older adults have reduced renal reserve, so isotonic fluids such as 0.9% sodium chloride put them at risk for fluid overload. A new complaint of trouble breathing when flat suggests fluid building up in the lungs and needs the nurse's assessment of lung sounds, respiratory effort, and oxygen saturation right away. The AP can collect and report data, but the nurse must assess and interpret it. The low bag is tempting because running out seems urgent, but it is a supply issue, not a change in the client.",
+   "takeaway": "A new breathing complaint in an older adult on IV fluid needs the nurse's assessment before routine supply or comfort issues.",
+   "hintContent": "Think about which older adults are most likely to get too much fluid and how that would first show up.",
+   "hintStrategy": "With AP reports, pick the one that describes a change in the client's condition, especially breathing."
+  },
+  {
+   "id": "m6-x2-012",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "stem": "A 75-kg postoperative client had a urine output of 20 mL/hr and HR 108/min. The provider prescribes a 1-L bolus of lactated Ringer's. Which finding after the bolus best indicates that the client's circulating volume has improved?",
+   "options": [
+    "Heart rate rises to 116/min",
+    "Urine specific gravity rises to 1.034",
+    "Hematocrit falls from 38% to 36%",
+    "Urine output rises to 45 mL/hr"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. A climbing heart rate suggests volume is still low.",
+    "Incorrect. A higher specific gravity means the kidneys are still conserving water, which suggests a continuing deficit.",
+    "Incorrect. A small hematocrit drop is an expected dilution effect of isotonic fluid; it shows fluid was given, not that circulation improved.",
+    "Correct. Better blood flow to the kidneys raises urine output; 45 mL/hr is above this client's minimum of about 38 mL/hr (75 × 0.5)."
+   ],
+   "rationale": "Lactated Ringer's is an isotonic crystalloid that expands vascular and ECF volume to support circulation. The best sign that circulation improved is a response in the client's organs, and urine output is the bedside measure of kidney blood flow; the minimum is 0.5 mL/kg/hr. A falling heart rate, not a rising one, would also support improvement, and a falling specific gravity would show the kidneys no longer need to save water. The hematocrit drop is tempting because it changes in the expected direction, but it reflects dilution, not improved perfusion.",
+   "takeaway": "Judge a fluid bolus by the client's response, especially urine output at or above 0.5 mL/kg/hr.",
+   "hintContent": "Ask which organ shows you most directly whether blood flow has improved.",
+   "hintStrategy": "For evaluation questions, choose the finding that shows the goal of the therapy was met, not just that the fluid went in."
+  },
+  {
+   "id": "m6-x2-013",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "stem": "A 69-year-old client with an albumin of 2.5 g/dL asks, \"Why are my legs and belly so swollen when my blood pressure is low?\" Which explanation by the nurse is most accurate?",
+   "options": [
+    "\"Albumin holds water in your blood vessels; when it's low, fluid leaks into your tissues.\"",
+    "\"Low albumin raises the pressure in your vessels, which pushes fluid out of them.\"",
+    "\"Your cells are pulling water out of your blood because your albumin is low.\"",
+    "\"Your body stores the extra water in your legs while it makes more albumin.\""
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Albumin creates oncotic pressure that keeps fluid in the vessels. With less of it, fluid moves into the tissues and abdomen, causing edema and ascites while blood volume and pressure fall.",
+    "Incorrect. Low albumin is linked to low blood pressure, not high, because fluid leaves the vessels.",
+    "Incorrect. The fluid moves into the interstitial space and abdomen (third spacing), not into the cells.",
+    "Incorrect. The swelling is not stored fluid for making protein; it is fluid that escaped the vessels."
+   ],
+   "rationale": "Albumin is the main plasma protein and acts like a magnet that keeps water inside the blood vessels by creating oncotic pressure. When albumin is low, the pull is weak, so fluid shifts into the tissues (edema) and the abdomen (ascites), and less remains in the vessels, so blood pressure falls. That is why a client can be visibly swollen yet low on circulating volume. The option about cells pulling water is tempting because it sounds like osmosis, but the fluid goes to the interstitial and third spaces, not into cells.",
+   "takeaway": "Low albumin means a weak \"magnet\": fluid leaves the vessels, causing swelling and low blood pressure at the same time.",
+   "hintContent": "Picture albumin's job at the venous end of the capillary.",
+   "hintStrategy": "Choose the explanation that accounts for every finding in the stem, here both the swelling and the low pressure."
+  },
+  {
+   "id": "m6-x2-014",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Pharmacology",
+   "stem": "A 26-year-old client is admitted with hypovolemia and metabolic acidosis after 4 days of severe diarrhea. Which IV solution does the nurse expect will both expand fluid volume and help correct the acidosis?",
+   "options": [
+    "0.9% sodium chloride",
+    "Lactated Ringer's",
+    "5% dextrose in water",
+    "25% albumin"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Normal saline expands volume and replaces sodium, but it contains no lactate to generate bicarbonate.",
+    "Correct. LR is an isotonic crystalloid that expands ECF volume, and its lactate is converted by the liver to bicarbonate, which buffers acid.",
+    "Incorrect. D5W provides some sugar and then acts like free water that spreads into all compartments, so it neither expands the ECF well nor buffers acid.",
+    "Incorrect. Albumin pulls fluid into the vessels, but it does not supply a buffer for acid."
+   ],
+   "rationale": "Lactated Ringer's is a balanced electrolyte solution containing sodium, potassium, calcium, and lactate. The liver converts lactate to bicarbonate, the body's main buffer, so LR helps move blood pH back toward normal in metabolic acidosis while its isotonic fluid expands the ECF. Normal saline is the most tempting choice because it is also an isotonic volume expander, but it contains only sodium and chloride. D5W adds sugar and spreads into all compartments, so it is a poor volume expander.",
+   "takeaway": "Need volume plus help with metabolic acidosis? Think LR: lactate becomes bicarbonate.",
+   "hintContent": "Which crystalloid contains an ingredient the liver turns into a buffer?",
+   "hintStrategy": "When two options both meet the first need (volume), pick the one that also meets the second need in the stem."
+  },
+  {
+   "id": "m6-x2-015",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A nursing student asks why the provider ordered lactated Ringer's instead of D5W for a client who is hypotensive from blood loss. Which explanation by the nurse is most accurate?",
+   "options": [
+    "\"D5W is a colloid, so it would pull too much fluid into the vessels and cause overload.\"",
+    "\"The dextrose in D5W would pull fluid out of the vessels and lower the blood pressure further.\"",
+    "\"After the dextrose is used, D5W acts like water that spreads into all compartments.\"",
+    "\"D5W contains lactate, which would make the blood too alkaline for a bleeding client.\""
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. D5W is a crystalloid with small particles; colloids are large-molecule solutions such as albumin.",
+    "Incorrect. The dextrose is metabolized; it does not act like a protein that pulls fluid out of the vessels.",
+    "Correct. Cells use the dextrose quickly, leaving free water that distributes into all compartments, including the cells, so D5W does little to support blood volume.",
+    "Incorrect. Lactate is in lactated Ringer's, not D5W."
+   ],
+   "rationale": "D5W is 5% dextrose in water. The cells use the sugar quickly, and what is left behind behaves like plain water, which spreads through every compartment, including inside the cells. For a hypotensive client the goal is to expand the vascular and ECF volume, which an isotonic fluid such as lactated Ringer's or normal saline does because it stays in the ECF. The tempting distractor calls D5W a colloid; dextrose is a small particle, so D5W is a crystalloid.",
+   "takeaway": "D5W hydrates and gives a little energy, but once the sugar is used it acts like free water, a poor volume expander.",
+   "hintContent": "Follow D5W into the body: what happens to the dextrose, and what is left?",
+   "hintStrategy": "Eliminate options with factual errors about what a solution contains or which family it belongs to."
+  },
+  {
+   "id": "m6-x2-016",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 40-year-old client who is NPO before bowel surgery is receiving D5½NS at 100 mL/hr. The client says, \"At least this IV is feeding me, so I won't lose weight while I can't eat.\" What is the nurse's best response?",
+   "options": [
+    "\"Yes, this fluid gives you all the calories you need until you can eat.\"",
+    "\"There's no sugar in this fluid, only salt water to keep you hydrated.\"",
+    "\"This fluid is mostly protein, so it helps you hold on to your muscle.\"",
+    "\"The sugar gives you some energy, but far less than you need for nutrition.\""
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. This overstates the calories; D5½NS cannot meet a client's nutritional needs.",
+    "Incorrect. D5 means 5% dextrose, so the fluid does contain sugar.",
+    "Incorrect. D5½NS contains dextrose and half-strength saline, not protein.",
+    "Correct. Dextrose solutions provide hydration and some energy support, but the calories are far too few to meet nutrition needs."
+   ],
+   "rationale": "Read the name like a recipe: D5 is 5% dextrose, and ½NS is 0.45% sodium chloride. Dextrose solutions are used for hydration and energy support, which is why they are common for clients who are NPO. The dextrose gives some calories, but far too few to meet nutrition needs, so the client's belief needs gentle correction. Agreeing with the client is tempting because it is reassuring, but it gives false information.",
+   "takeaway": "Dextrose IV fluids provide hydration and a little energy, not nutrition.",
+   "hintContent": "Break the solution name into its parts and recall what each part provides.",
+   "hintStrategy": "The best therapeutic response is honest and corrects a misconception kindly; avoid answers that reassure with false information."
+  },
+  {
+   "id": "m6-x2-017",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Lifespan & Diversity",
+   "stem": "A 55-year-old client who is a Jehovah's Witness has a new prescription for 5% albumin. The client asks, \"Is this made from blood? I need to know before I accept it.\" Which response by the nurse is best?",
+   "options": [
+    "\"It is made from human plasma. I'll hold it and tell your provider you have concerns.\"",
+    "\"Albumin is completely synthetic, so it doesn't conflict with your beliefs.\"",
+    "\"Your provider has ordered it, so it is not something you can refuse.\"",
+    "\"It's only a protein, so most people with your faith accept it without concern.\""
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. This is honest (albumin is a plasma protein made from human plasma), respects the client's right to decide, and brings in the provider before the infusion starts.",
+    "Incorrect. This is false; dextran 40 is the artificial colloid, but albumin comes from human plasma.",
+    "Incorrect. A competent client has the right to refuse any treatment, including a prescribed fluid.",
+    "Incorrect. This stereotypes the client and pressures them instead of letting them make their own informed choice."
+   ],
+   "rationale": "Albumin is a plasma protein solution made from human plasma, while dextran 40 is a manufactured colloid that works the same way. Some clients have religious or personal reasons to decline products derived from blood, and the decision belongs to the client. The nurse answers truthfully, holds the infusion until the client's questions are answered, and notifies the provider so other options can be discussed. Calling albumin synthetic is tempting because it removes the conflict, but it is inaccurate and violates informed consent.",
+   "takeaway": "Tell clients truthfully that albumin comes from human plasma, and respect their right to decide.",
+   "hintContent": "Recall the difference in origin between albumin and dextran 40.",
+   "hintStrategy": "For cultural or religious questions, the best answer is honest, respects autonomy, and involves the provider; avoid answers that generalize about a group."
+  },
+  {
+   "id": "m6-x2-018",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "stem": "A 72-year-old client with a stage 3 pressure injury started tube feedings 5 days ago. The provider wants to know whether the feedings are improving protein status yet. Which laboratory test will reflect the change soonest?",
+   "options": [
+    "Serum albumin",
+    "Prealbumin",
+    "Hematocrit",
+    "Serum osmolality"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Albumin reflects longer-term protein status, so it changes too slowly to show a response after 5 days.",
+    "Correct. Prealbumin is a shorter-lived protein that reflects recent nutrition and changes within days.",
+    "Incorrect. Hematocrit reflects the concentration of red cells in the blood, not protein status.",
+    "Incorrect. Serum osmolality measures how concentrated the blood is, not nutrition."
+   ],
+   "rationale": "Both albumin (normal 3.5–5.0 g/dL) and prealbumin (normal 15–36 mg/dL) relate to protein status, but they answer different questions. Albumin is long-lived and reflects longer-term status, while prealbumin is shorter-lived and reflects recent nutrition, changing within days. That makes prealbumin the better test for judging a feeding started 5 days ago. Albumin is tempting because it is the better-known protein, but it lags behind.",
+   "takeaway": "Prealbumin shows recent nutrition (days); albumin shows longer-term protein status.",
+   "hintContent": "Compare how quickly albumin and prealbumin respond to a change in intake.",
+   "hintStrategy": "When the stem includes a time frame, choose the test whose speed matches it."
+  },
+  {
+   "id": "m6-x2-019",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "Two days after a major burn, a client has generalized edema, a BP of 88/54 mm Hg, and urine output below the minimum. The client's son asks, \"How can she be so swollen and still be low on fluid?\" Which explanation by the nurse is most accurate?",
+   "options": [
+    "\"She has too much fluid overall, so we need to stop all IV fluids right away.\"",
+    "\"The swelling is from her kidneys holding on to all the fluid we have given.\"",
+    "\"Fluid leaked out of her blood vessels into the tissues, where it can't help her circulation.\"",
+    "\"Her cells have absorbed the extra fluid, so they are too full to release it.\""
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The edema reflects fluid in the wrong place, not excess circulating volume; low blood pressure and low urine output show the vessels need volume.",
+    "Incorrect. Low urine output here reflects poor kidney blood flow from low circulating volume, not the cause of the swelling.",
+    "Correct. This is third spacing: fluid has moved out of the vessels into spaces where it is trapped and cannot support blood pressure or kidney blood flow.",
+    "Incorrect. Third-spaced fluid is outside both the cells and the vessels, not inside the cells."
+   ],
+   "rationale": "Third spacing is fluid shifting out of the blood vessels into places such as the tissues or abdomen, where it is trapped and cannot help circulation. After a burn, leaky capillaries let fluid escape, so a client can look swollen while the vascular space is depleted, causing hypotension and low urine output. This is why albumin, which stays in the vessels and pulls fluid back in, is usually added after the first 24 hours. The tempting answer is to treat the swelling as overload and stop fluids, which would worsen the low blood pressure.",
+   "takeaway": "Third spacing: swollen tissues can coexist with a depleted vascular space.",
+   "hintContent": "Recall where third-spaced fluid sits and whether it can support circulation.",
+   "hintStrategy": "Pick the explanation that fits all the data; an answer explaining the swelling but not the low pressure is incomplete."
+  },
+  {
+   "id": "m6-x2-020",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 67-year-old client has eaten very little for several weeks, and the serum albumin is 2.4 g/dL. Which findings would the nurse expect? Select all that apply.",
+   "options": [
+    "Pitting edema of both ankles",
+    "Fluid accumulating in the abdomen",
+    "Blood pressure lower than the client's baseline",
+    "A small leg wound that is slow to heal",
+    "Distended neck veins and a bounding pulse",
+    "Large volumes of dilute urine"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. With weak oncotic pull, fluid leaves the vessels and collects in the tissues as edema.",
+    "Correct. Ascites, fluid in the abdominal cavity, is a form of third spacing seen with low albumin.",
+    "Correct. Less fluid stays in the vessels, so blood pressure falls.",
+    "Correct. Swollen tissue and low protein slow wound repair.",
+    "Incorrect. These suggest an overfilled vascular space, the opposite of what low albumin causes.",
+    "Incorrect. With less fluid staying in the vessels, kidney blood flow falls and the kidneys conserve water, so urine output tends to drop, not rise."
+   ],
+   "rationale": "Albumin (normal 3.5–5.0 g/dL) is made by the liver and holds fluid in the vessels through oncotic pressure. When it is low, fluid escapes into the tissues and third spaces, causing edema, ascites, and hypotension, and the swollen, protein-poor tissue heals slowly. Distended neck veins and a bounding pulse are tempting because edema makes the client \"look overloaded,\" but the vascular space is actually depleted.",
+   "takeaway": "Low albumin: edema, ascites, hypotension, and delayed wound healing.",
+   "hintContent": "Think about where fluid goes when the \"magnet\" in the blood is weak.",
+   "hintStrategy": "Judge each option separately: does it match fluid leaving the vessels?"
+  },
+  {
+   "id": "m6-x2-021",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "stem": "The nurse is preparing to start 0.9% sodium chloride at 100 mL/hr for a 78-year-old client admitted with dehydration. Which actions are appropriate? Select all that apply.",
+   "options": [
+    "Match the bag label to the type, volume, and rate prescribed",
+    "Obtain baseline lung sounds, weight, and vital signs",
+    "Record the IV volume as part of the client's intake",
+    "Increase the rate whenever the client reports feeling thirsty",
+    "Leave the IV volume off intake because it is not taken by mouth",
+    "Have the assistive personnel auscultate lung sounds every 4 hours"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Checking the order and matching the label is the first step every time an IV fluid is hung.",
+    "Correct. A baseline lets the nurse recognize fluid overload, a key risk for older adults on isotonic fluid.",
+    "Correct. All intake is recorded, including IV fluids.",
+    "Incorrect. The rate is set by the prescription; the nurse does not change it based on thirst.",
+    "Incorrect. IV fluid is intake; leaving it out makes the I&O balance inaccurate.",
+    "Incorrect. Auscultating lung sounds is assessment and stays with the nurse."
+   ],
+   "rationale": "Safe IV therapy follows a sequence: check the order and match the bag, know what the fluid will do, get a baseline, monitor during the infusion with complete I&O, and evaluate the response. Normal saline is isotonic and stays in the ECF, so the main risk in a 78-year-old is fluid overload, which the nurse detects by comparing lung sounds, weight, and vital signs with the baseline. Delegating lung-sound checks is tempting because it saves time, but assessment is outside the AP's scope.",
+   "takeaway": "Check the order, get a baseline, count the IV as intake, and keep assessment with the nurse.",
+   "hintContent": "Walk through the steps a nurse follows each time an IV fluid is hung.",
+   "hintStrategy": "Eliminate options that change a prescription without an order or hand assessment to unlicensed staff."
+  },
+  {
+   "id": "m6-x2-022",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-electrolytes"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pharmacology",
+   "stem": "A 49-year-old client with metabolic acidosis and dehydration has received lactated Ringer's for 12 hours. Which findings indicate the solution is having its intended effects? Select all that apply.",
+   "options": [
+    "Serum bicarbonate rising toward the normal range",
+    "Arterial pH changing from 7.28 to 7.36",
+    "Urine output increasing to above the client's minimum",
+    "Urine specific gravity rising from 1.030 to 1.036",
+    "New crackles in both lung bases",
+    "Moist oral mucous membranes"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. The liver converts lactate to bicarbonate, so a rising bicarbonate shows the buffer is being restored.",
+    "Correct. As bicarbonate buffers the excess acid, blood pH moves back toward normal.",
+    "Correct. Adequate urine output shows that circulating volume and kidney blood flow have improved.",
+    "Incorrect. A rising specific gravity means the urine is more concentrated, suggesting the deficit is worsening.",
+    "Incorrect. New crackles suggest fluid overload, a complication rather than an intended effect.",
+    "Correct. Moist membranes suggest the fluid deficit is improving."
+   ],
+   "rationale": "Lactated Ringer's has two jobs in this client. As an isotonic crystalloid it expands ECF volume, so urine output and mucous membranes improve. Its lactate is converted to bicarbonate in the liver, which buffers acid and moves pH back toward normal. Crackles are tempting to select because they show fluid went in, but they signal overload, which the nurse reports.",
+   "takeaway": "LR works when volume signs improve and bicarbonate and pH move toward normal.",
+   "hintContent": "List both effects LR is meant to have and look for evidence of each.",
+   "hintStrategy": "For \"intended effect\" SATA, select only goal findings; leave out complications and signs of a worsening problem."
+  },
+  {
+   "id": "m6-x2-023",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "stem": "A 60-year-old client is receiving 25% albumin for hypovolemia. Which findings should prompt the nurse to stop the infusion immediately? Select all that apply.",
+   "options": [
+    "New hives on the chest and arms",
+    "Wheezing with a report of throat tightness",
+    "A sudden drop in blood pressure to 78/44 mm Hg",
+    "Urine output increasing from 25 to 50 mL/hr",
+    "Decreasing edema in the lower legs"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Hives during a colloid infusion can be an early sign of anaphylaxis.",
+    "Correct. Wheezing and throat tightness signal airway involvement in an allergic reaction.",
+    "Correct. A sudden pressure drop during albumin suggests anaphylaxis rather than the expected rise.",
+    "Incorrect. Increasing urine output shows improved circulating volume, the intended effect.",
+    "Incorrect. Less edema shows albumin is pulling fluid back into the vessels as intended."
+   ],
+   "rationale": "Albumin is a large foreign protein, so anaphylaxis is the key nursing risk of colloid therapy. Hives, wheezing, throat tightness, and a sudden drop in blood pressure mean the nurse stops the infusion, stays with the client, calls for help, and notifies the provider. Increasing urine output and decreasing edema are tempting to select because they are changes, but they show the albumin is working.",
+   "takeaway": "Hives, wheezing, throat tightness, or a sudden BP drop during albumin: stop the infusion.",
+   "hintContent": "Separate the signs of an allergic reaction from the expected effects of albumin.",
+   "hintStrategy": "Ask of each option: is this a goal of the therapy or a danger sign?"
+  },
+  {
+   "id": "m6-x2-024",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "A stable 68-year-old client is receiving 0.9% sodium chloride at 75 mL/hr. Which tasks can the nurse delegate to assistive personnel (AP)? Select all that apply.",
+   "options": [
+    "Measure and record oral intake and urine output",
+    "Obtain the morning weight on the same scale used yesterday",
+    "Report to the nurse if the client says breathing feels harder",
+    "Assess the client's ankles to decide whether edema has increased",
+    "Teach the client which symptoms of fluid overload to report",
+    "Interpret the 24-hour I&O balance and adjust the IV rate"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. AP can measure and record I&O; the nurse interprets the totals.",
+    "Correct. Obtaining a weight with a standard procedure is within AP scope.",
+    "Correct. AP can report client statements and changes to the nurse.",
+    "Incorrect. Deciding whether a finding has changed is assessment, which is the nurse's role.",
+    "Incorrect. Teaching is a nursing responsibility.",
+    "Incorrect. Interpreting data belongs to the nurse, and the IV rate follows the prescription."
+   ],
+   "rationale": "For a stable client, AP can perform standard, measurable tasks such as I&O and weights and report what they observe. Assessment, teaching, interpretation, and evaluation remain with the RN. In a client on isotonic fluid, the nurse uses the AP's data to watch for fluid overload. Checking the ankles for edema is tempting because it seems like a simple look, but deciding whether edema increased is an assessment judgment.",
+   "takeaway": "AP measure, record, and report; the nurse assesses, teaches, and interprets.",
+   "hintContent": "Separate tasks that collect data from tasks that judge it.",
+   "hintStrategy": "In delegation SATA, eliminate any option with the words assess, teach, evaluate, or interpret."
+  },
+  {
+   "id": "m6-x2-025",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Generate Solutions",
+   "focus": "Pharmacology",
+   "stem": "A 64-year-old client is in hypovolemic shock, and the provider wants a fluid that will stay mainly in the vascular space and pull fluid in from the tissues. Which solutions match this goal? Select all that apply.",
+   "options": [
+    "5% albumin",
+    "25% albumin",
+    "Dextran 40",
+    "0.9% sodium chloride",
+    "Lactated Ringer's",
+    "5% dextrose in water"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Albumin is a colloid; its large protein molecules stay in the vessels and pull fluid in.",
+    "Correct. Concentrated albumin works the same way, with a strong pull on tissue fluid.",
+    "Correct. Dextran 40 is an artificial colloid that stays in the vessels and draws fluid in.",
+    "Incorrect. Normal saline is a crystalloid; its small particles spread into the interstitial space.",
+    "Incorrect. LR is a crystalloid; part of it moves out of the vessels into the interstitial space.",
+    "Incorrect. D5W acts like free water once the sugar is used and spreads into all compartments."
+   ],
+   "rationale": "The key difference between IV fluid families is particle size. Crystalloids (0.9% NS, LR, D5W, D5½NS) have small particles that move between compartments, so only part of the volume stays in the vessels. Colloids (albumin 5% or 25% and dextran 40) have large molecules that cannot cross the capillary wall, so they stay in the vessels and pull fluid in. Normal saline and LR are tempting because they are the usual volume expanders, but they expand the whole ECF, not just the vessels.",
+   "takeaway": "Colloids (albumin, dextran 40) stay in the vessels and pull fluid in; crystalloids spread through the ECF.",
+   "hintContent": "Sort each solution by particle size: small particles or large molecules?",
+   "hintStrategy": "Classify every option into its family first, then match the family to the goal in the stem."
+  },
+  {
+   "id": "m6-x2-026",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "stem": "A 57-year-old client with type 2 diabetes is NPO before surgery and is receiving D5½NS at 80 mL/hr. Which nursing actions are appropriate? Select all that apply.",
+   "options": [
+    "Monitor capillary blood glucose results",
+    "Include the IV volume in the intake total",
+    "Assess for crackles and weight gain",
+    "Tell the client the IV provides full nutrition",
+    "Expect the dextrose to correct metabolic acidosis",
+    "Expect the fluid to stay only in the vessels"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. The dextrose is sugar, so blood glucose needs attention, especially in a client with diabetes.",
+    "Correct. All IV fluids count as intake.",
+    "Correct. Any IV fluid can cause fluid overload, so the nurse watches lung sounds and weight.",
+    "Incorrect. Dextrose solutions provide some energy, but far too little for full nutrition.",
+    "Incorrect. Dextrose provides energy; it is the lactate in lactated Ringer's that is converted to bicarbonate.",
+    "Incorrect. It is a crystalloid, so it moves out of the vessels; once the sugar is used it acts like half-strength saline."
+   ],
+   "rationale": "D5½NS is 5% dextrose in 0.45% sodium chloride and provides hydration plus some energy support for a client who cannot eat. Because it contains sugar, the nurse monitors blood glucose, particularly in clients with diabetes. Like every IV fluid it counts as intake, and the nurse watches for fluid overload. Telling the client it provides full nutrition is tempting because it contains calories, but the amount is far too small.",
+   "takeaway": "With dextrose fluids, watch glucose, count the volume as intake, and monitor for overload.",
+   "hintContent": "Translate D5½NS into its ingredients and ask what each means for monitoring.",
+   "hintStrategy": "Use the client's history in the stem (diabetes) to spot the monitoring the question is pointing to."
+  },
+  {
+   "id": "m6-x2-027",
+   "type": "sata",
+   "topic": "fe-iv-solutions",
+   "alsoTests": [
+    "fe-fluid-movement"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · IV Solutions: Crystalloids, Colloids & Albumin",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pathophysiology",
+   "stem": "The nurse is precepting a new graduate on a unit where many clients receive IV fluids. Which statements by the new graduate show correct understanding? Select all that apply.",
+   "options": [
+    "\"Once the sugar is used, D5W acts like plain water and spreads into all compartments.\"",
+    "\"Lactated Ringer's is isotonic, so it won't shift water into or out of the cells.\"",
+    "\"I'll watch closely for an allergic reaction at the start of an albumin infusion.\"",
+    "\"Normal saline pulls fluid out of swollen tissues the same way albumin does.\"",
+    "\"A falling hematocrit after a saline bolus means the client is bleeding.\"",
+    "\"D5½NS gives enough calories that an NPO client's nutrition needs are met.\""
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. D5W behaves like free water once the dextrose is used.",
+    "Correct. Isotonic fluids match the concentration of blood, so there is no major shift into or out of cells.",
+    "Correct. Anaphylaxis is the key risk with colloids such as albumin, especially early.",
+    "Incorrect. Normal saline is a crystalloid that spreads into the interstitial space; only colloids stay in the vessels and pull fluid in.",
+    "Incorrect. Isotonic fluid can dilute the hematocrit; the nurse assesses for bleeding but does not assume it.",
+    "Incorrect. Dextrose solutions provide only some energy, not full nutrition."
+   ],
+   "rationale": "Each IV fluid has a predictable job. Isotonic crystalloids (NS, LR) expand the ECF without a major shift into cells, D5W behaves like free water after the sugar is used, and colloids such as albumin stay in the vessels, pull fluid in, and carry a risk of anaphylaxis. A falling hematocrit after saline may be hemodilution, so the nurse assesses for bleeding rather than assuming it. The statement comparing saline to albumin is tempting because both raise blood volume, but only the colloid holds fluid in the vessels.",
+   "takeaway": "Know where each fluid goes: isotonic stays in the ECF, D5W goes everywhere, colloids stay in the vessels.",
+   "hintContent": "For each statement, recall the fluid family and where its particles go.",
+   "hintStrategy": "Absolute words like \"always\" are a clue to check that statement carefully."
+  },
+  {
+   "id": "m6-x2-028",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "A 46-year-old client is in the intensive care unit with severe sepsis and multiple organ failure. The nurse reviews the morning laboratory results (see exhibit). Which result should the nurse report to the provider first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Chemistry 0600",
+      "table": {
+       "headers": [
+        "Test",
+        "Result",
+        "Normal range"
+       ],
+       "rows": [
+        [
+         "Sodium",
+         "133 mEq/L",
+         "135–145 mEq/L"
+        ],
+        [
+         "Potassium",
+         "5.9 mEq/L",
+         "3.5–5.0 mEq/L"
+        ],
+        [
+         "Chloride",
+         "107 mEq/L",
+         "95–105 mEq/L"
+        ],
+        [
+         "Phosphate",
+         "4.9 mg/dL",
+         "2.5–4.5 mg/dL"
+        ],
+        [
+         "Calcium, total",
+         "9.3 mg/dL",
+         "9–11 mg/dL"
+        ],
+        [
+         "Magnesium",
+         "2.2 mEq/L",
+         "1.5–2.5 mEq/L"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Phosphate 4.9 mg/dL",
+    "Sodium 133 mEq/L",
+    "Chloride 107 mEq/L",
+    "Potassium 5.9 mEq/L"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Hyperphosphatemia is also expected from cell breakdown and should be reported, but it is less immediately dangerous than a potassium problem.",
+    "Incorrect. Mild hyponatremia needs follow-up, but it does not carry the immediate cardiac risk of a high potassium.",
+    "Incorrect. Mild hyperchloremia is the least urgent abnormal result on this panel.",
+    "Correct. Hyperkalemia is the most dangerous result because potassium maintains normal cardiac rhythm; injured and dying cells are releasing their intracellular potassium."
+   ],
+   "rationale": "When cells are injured or die, as in extreme illness such as severe sepsis, they spill intracellular electrolytes into the blood, so potassium and phosphate rise. Four values here are outside the course ranges, so the nurse must rank them. Potassium is the cardiac electrolyte, and any value outside 3.5–5.0 mEq/L is reported promptly because the heart's rhythm depends on it. Phosphate is tempting because it rose for the same reason, but it does not threaten the heart rhythm the way potassium does.",
+   "takeaway": "When several electrolytes are abnormal, report potassium first; it controls cardiac rhythm.",
+   "hintContent": "Identify which abnormal electrolyte has the most direct effect on the heart.",
+   "hintStrategy": "In \"report first\" items with several abnormal values, rank by which one threatens circulation soonest."
+  },
+  {
+   "id": "m6-x2-029",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-assessment-diagnostics"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 35-year-old client admitted for an ankle fracture has a routine serum potassium of 6.1 mEq/L. The lab comment reads \"specimen hemolyzed.\" Yesterday's potassium was 4.1 mEq/L, the client takes no supplements, and kidney function is normal. Which action should the nurse take?",
+   "options": [
+    "Report the result with the hemolysis note so a new sample can be drawn",
+    "Remove all potassium-rich foods from the client's diet right away",
+    "Document the result as hyperkalemia and wait for tomorrow's labs",
+    "Disregard the result, since the hemolysis means the true level is normal"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Damaged red cells in the tube release potassium and falsely raise the value; the provider needs the result and the note so a redraw can confirm the true level.",
+    "Incorrect. Changing the diet acts on a result that is likely false before it is confirmed.",
+    "Incorrect. Waiting a day leaves a possibly real high potassium unconfirmed.",
+    "Incorrect. Hemolysis makes the result unreliable, but the nurse cannot assume the true value is normal without a repeat test."
+   ],
+   "rationale": "Potassium lives mainly inside cells, including red blood cells. If red cells break open in the collection tube, they release potassium, and the sample shows a falsely high value; this is the same idea as cell breakdown, just in the tube instead of the body. With no risk factors and a normal value yesterday, the result is likely false, but potassium is the cardiac electrolyte, so the nurse reports it and a new sample is drawn. Disregarding it is tempting, but only a repeat test can show the true level.",
+   "takeaway": "A hemolyzed sample can falsely raise potassium; report it and get a redraw rather than acting on it or ignoring it.",
+   "hintContent": "Recall where most potassium is stored and what happens if those cells break open in the tube.",
+   "hintStrategy": "When a result may be false, choose the answer that confirms it rather than treating it or dismissing it."
+  },
+  {
+   "id": "m6-x2-030",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "stem": "A 71-year-old client with long-term diuretic use has these results: magnesium 1.1 mEq/L, potassium 3.2 mEq/L, and total calcium 8.4 mg/dL. The provider has prescribed replacement of all three (see exhibit). Which medication should the nurse give first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "MAR 0900",
+      "table": {
+       "headers": [
+        "Medication",
+        "Dose / Route",
+        "Time due"
+       ],
+       "rows": [
+        [
+         "Potassium chloride",
+         "20 mEq PO",
+         "0900"
+        ],
+        [
+         "Magnesium sulfate",
+         "2 g IV over 1 hr",
+         "0900"
+        ],
+        [
+         "Calcium carbonate",
+         "1,000 mg PO",
+         "0900"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Potassium chloride",
+    "Magnesium sulfate",
+    "Calcium carbonate",
+    "Give all three together, in any order"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Potassium is the cardiac electrolyte, but while magnesium stays low the kidneys keep losing potassium and replacement is less effective.",
+    "Correct. When magnesium, potassium, and calcium are all low, magnesium is replaced first so that the potassium and calcium replacements can work.",
+    "Incorrect. The body needs magnesium to regulate calcium normally, so calcium is hard to raise until magnesium is corrected.",
+    "Incorrect. The order matters here; magnesium is given priority."
+   ],
+   "rationale": "Magnesium is the stabilizer electrolyte: it activates the sodium–potassium pump, helps the kidneys hold on to potassium, and is needed for normal calcium regulation. When magnesium is low, potassium keeps leaking away and calcium stays hard to raise no matter how much is given. That is why the rule is to replace magnesium first when all three are low. Potassium is the tempting choice because it is the cardiac electrolyte, but without magnesium the potassium dose is less effective.",
+   "takeaway": "If Mg, K, and Ca are all low, give magnesium first; it is the plug that lets the others stay.",
+   "hintContent": "Think of the bathtub and the plug: which electrolyte keeps the others from draining away?",
+   "hintStrategy": "When a familiar \"most dangerous\" choice competes with a specific rule taught for this exact pattern, apply the rule."
+  },
+  {
+   "id": "m6-x2-031",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "A 52-year-old construction worker was freed after being pinned under a steel beam for 5 hours and is admitted for observation. The client has eaten normally and takes no supplements. Six hours after admission, serum potassium is 5.8 mEq/L and phosphate is 5.3 mg/dL. What should the nurse do first?",
+   "options": [
+    "Ask the client how many bananas and dairy foods were eaten today",
+    "Restrict dietary potassium and phosphate and recheck tomorrow",
+    "Report the rising potassium and phosphate to the provider promptly",
+    "Document the results as expected after an injury and keep monitoring"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The rise comes from cell breakdown, not intake; asking about food delays reporting.",
+    "Incorrect. Diet changes do not address electrolytes spilling from injured cells, and waiting until tomorrow is unsafe.",
+    "Correct. Hyperkalemia and hyperphosphatemia after a crush injury suggest damaged cells are releasing intracellular electrolytes; because potassium affects cardiac rhythm, the provider is notified promptly.",
+    "Incorrect. Even if the cause is understood, a potassium outside the normal range must be reported, not just documented."
+   ],
+   "rationale": "Potassium and phosphate are intracellular electrolytes. When cells are injured or die, as in trauma, chemotherapy, or extreme illness, their contents spill into the blood and the serum levels rise without any change in intake. The nurse recognizes the pattern and reports promptly, because potassium outside 3.5–5.0 mEq/L can affect heart rhythm. Asking about bananas and dairy is tempting because they are sources of these electrolytes, but it assumes intake is the cause and delays action.",
+   "takeaway": "Potassium and phosphate rising together after cell injury means cell breakdown; report promptly.",
+   "hintContent": "Recall which electrolytes are mainly inside cells and what happens when cells are crushed.",
+   "hintStrategy": "When the stem rules out intake (\"eaten normally, no supplements\"), eliminate answers that blame diet."
+  },
+  {
+   "id": "m6-x2-032",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse receives morning laboratory results for four clients. Which client should the nurse follow up on first?",
+   "options": [
+    "A client who chews calcium antacids daily with calcium 11.3 mg/dL",
+    "A client with long-standing kidney failure with phosphate 5.1 mg/dL",
+    "A client with a nasogastric tube to suction with chloride 93 mEq/L",
+    "A client NPO for 3 days on plain D5W with potassium 3.0 mEq/L"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Mild hypercalcemia from antacid overuse needs follow-up, but it is less urgent than a potassium of 3.0.",
+    "Incorrect. Hyperphosphatemia is expected in kidney failure because the kidneys cannot excrete phosphate; this is a known, stable problem.",
+    "Incorrect. Mild hypochloremia from losing stomach acid needs attention, but it is not the most immediate risk.",
+    "Correct. Hypokalemia carries the most immediate risk because potassium maintains cardiac rhythm, and the client is getting no potassium while the kidneys keep excreting it."
+   ],
+   "rationale": "All four results are outside the course ranges, so the nurse ranks them by danger. Potassium (3.5–5.0 mEq/L) is the cardiac electrolyte, and even small changes matter; this client is also on plain D5W with no potassium while the kidneys keep losing it, so the level will keep falling. The others are explained by a known cause and are less immediately dangerous. The calcium result is tempting because it looks far from normal, but the cardiac risk of a low potassium makes it the priority.",
+   "takeaway": "Among abnormal electrolytes, a potassium outside 3.5–5.0 usually goes first because of the heart.",
+   "hintContent": "Match each value to its normal range, then ask which electrolyte the heart depends on most.",
+   "hintStrategy": "When all options are abnormal, choose the one with the greatest immediate physiologic risk and a cause that is still active."
+  },
+  {
+   "id": "m6-x2-033",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Nursing Interventions",
+   "stem": "A 68-year-old client tells the nurse, \"I chew about 12 calcium carbonate antacid tablets a day for heartburn.\" Today's total calcium is 11.8 mg/dL, and all other electrolytes are within normal limits. Which action should the nurse take?",
+   "options": [
+    "Report the high calcium and the antacid use to the provider",
+    "Encourage the client to drink milk instead of chewing tablets",
+    "Tell the client this level is normal for an older adult",
+    "Advise the client to double the dose on days with severe heartburn"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Overuse of calcium-based antacids is a known cause of a high calcium; the provider needs both the value and the likely cause.",
+    "Incorrect. Milk is a calcium source, so switching keeps adding calcium.",
+    "Incorrect. A total calcium above 11 mg/dL is hypercalcemia, not a normal finding for age.",
+    "Incorrect. More antacid adds more calcium and worsens the problem."
+   ],
+   "rationale": "The course range for total calcium is 9–11 mg/dL, so 11.8 is hypercalcemia. When a value is high, the nurse asks what is adding the electrolyte or keeping the body from getting rid of it; here, heavy use of calcium-based antacids is adding calcium. The nurse reports the result and the cause so the provider can address both. Suggesting milk is tempting because it seems gentler than tablets, but dairy is one of the main calcium sources.",
+   "takeaway": "For a high electrolyte, look for what is adding it (such as calcium antacids) and report both the value and the cause.",
+   "hintContent": "Recall the course calcium range and its main sources.",
+   "hintStrategy": "Eliminate any answer that keeps adding the substance that is already too high."
+  },
+  {
+   "id": "m6-x2-034",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "stem": "Staff on an inpatient behavioral health unit report that a 30-year-old client drank about 8 L of tap water during the day. The evening serum sodium is 126 mEq/L, down from 139 mEq/L this morning. Which action should the nurse take first?",
+   "options": [
+    "Offer salty snacks to bring the sodium level back up",
+    "Notify the provider of the sodium result and the reported water intake",
+    "Encourage more fluids so the kidneys can flush out the extra water",
+    "Recheck the sodium level with the routine labs tomorrow morning"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The problem is excess water diluting the sodium, not too little salt; snacks do not address the cause, and the provider needs to know about the rapid drop.",
+    "Correct. A sodium of 126 is hyponatremia caused by dilution; the rapid drop needs prompt provider notification along with the likely cause.",
+    "Incorrect. More water lowers the concentration of sodium even further.",
+    "Incorrect. A large, rapid change in sodium should not wait for routine labs."
+   ],
+   "rationale": "A serum sodium is a concentration, like the strength of lemonade: add a lot of water and it gets weaker even though the amount of sodium has not changed. Drinking about 8 L of water in a day diluted this client's sodium from 139 to 126 mEq/L, which is hyponatremia (below 135). Because sodium is the water regulator and a rapid fall is a significant change, the nurse notifies the provider promptly with the result and the cause. Offering salty snacks is tempting because it seems to \"replace sodium,\" but the problem is too much water, not too little salt.",
+   "takeaway": "A falling sodium after large water intake is dilution; report it and stop adding water.",
+   "hintContent": "Think of sodium as a concentration that depends on how much water is in the body.",
+   "hintStrategy": "For a rapid lab change with a clear cause, the first action is to report both; eliminate options that add more of the cause."
+  },
+  {
+   "id": "m6-x2-035",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pharmacology",
+   "stem": "A 59-year-old client has been receiving IV magnesium replacement for hypomagnesemia. This morning's magnesium is 2.9 mEq/L, and another dose is scheduled now. What should the nurse do?",
+   "options": [
+    "Give the dose as scheduled, since magnesium was low yesterday",
+    "Give half of the dose and recheck the level this evening",
+    "Hold the dose and notify the provider of the new result",
+    "Give the dose and ask dietary to add magnesium-rich foods"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The prescription was based on yesterday's low value; today's result shows the problem has reversed.",
+    "Incorrect. The nurse cannot change the dose without a prescription, and any added magnesium is inappropriate now.",
+    "Correct. A magnesium of 2.9 mEq/L is above the normal 1.5–2.5 range (hypermagnesemia); giving more would raise it further, so the nurse holds and reports.",
+    "Incorrect. Adding magnesium from both medication and food would worsen the high level."
+   ],
+   "rationale": "The normal magnesium range is 1.5–2.5 mEq/L, so 2.9 is hypermagnesemia. Before giving any electrolyte replacement, the nurse checks the most recent level to evaluate whether the treatment has worked or overshot. Because more magnesium would raise an already high level, the nurse holds the dose and notifies the provider. Giving it as scheduled is tempting because the order exists, but an order based on yesterday's data does not fit today's result.",
+   "takeaway": "Check the latest level before every electrolyte replacement; hold and report if it is now above normal.",
+   "hintContent": "Recall the normal magnesium range and compare it with the new result.",
+   "hintStrategy": "In evaluation items, compare the newest data with the reason the order was written; if the reason is gone, hold and clarify."
+  },
+  {
+   "id": "m6-x2-036",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 76-year-old client's serum potassium is 5.9 mEq/L, and the nurse has notified the provider. While waiting for prescriptions, which assessment is the priority?",
+   "options": [
+    "Skin turgor on the sternum",
+    "Urine specific gravity",
+    "Mucous membrane moisture",
+    "Heart rate and rhythm"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Skin turgor reflects fluid volume, not the effect of a potassium imbalance, and is less reliable in older adults.",
+    "Incorrect. Specific gravity reflects urine concentration and does not show potassium's most dangerous effect.",
+    "Incorrect. Mucous membranes help assess fluid volume, not the risk created by a high potassium.",
+    "Correct. Potassium is the cardiac electrolyte that maintains normal heart rhythm, so the heart rate and rhythm are the priority assessment."
+   ],
+   "rationale": "Each electrolyte has a main job, and that job tells the nurse what to watch. Potassium regulates nerve impulse conduction, muscle contraction, and especially normal cardiac rhythm, which is why it is called the cardiac electrolyte. With hyperkalemia, the most important assessment is the heart rate and rhythm. The fluid-status assessments are tempting because they appear in every fluid and electrolyte exam, but they do not monitor the danger that potassium creates.",
+   "takeaway": "Potassium out of range: assess the heart first.",
+   "hintContent": "Recall the nickname for potassium and what it controls.",
+   "hintStrategy": "Link the abnormal lab to the body system it affects most, then choose the assessment of that system."
+  },
+  {
+   "id": "m6-x2-037",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "stem": "A 28-year-old marathon runner drank about 6 L of plain water during and after a race and now has a serum sodium of 130 mEq/L. The runner says, \"How can my sodium be low? I ate a salty meal last night.\" Which response by the nurse is most accurate?",
+   "options": [
+    "\"The sodium level is a concentration, so a lot of water dilutes it.\"",
+    "\"The salty meal was used up, so your body has no sodium left.\"",
+    "\"Running destroys cells that normally store sodium inside them.\"",
+    "\"Your kidneys stopped absorbing salt from food during the race.\""
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. A serum sodium reflects how much water the sodium is dissolved in; large amounts of plain water lower the concentration.",
+    "Incorrect. The body still has sodium; 130 mEq/L is low, not zero, and the problem is extra water.",
+    "Incorrect. Sodium is mainly an extracellular electrolyte; cell breakdown releases potassium and phosphate.",
+    "Incorrect. Sodium comes from the diet through the gut, and this explanation does not account for the large water intake."
+   ],
+   "rationale": "Sodium is the main ECF electrolyte and the body's water regulator, and its lab value is a concentration. It depends on both how much sodium is taken in and how much water is in the body. Drinking a large volume of plain water dilutes the sodium even after a salty meal, producing hyponatremia (below 135 mEq/L). The cell-breakdown option is tempting because it explains other lab changes, but cells release potassium and phosphate, not sodium.",
+   "takeaway": "Serum sodium is a concentration: more water lowers it, less water raises it.",
+   "hintContent": "Use the lemonade analogy: what happens to the strength when water is added?",
+   "hintStrategy": "Choose the explanation that uses the key data in the stem (6 L of plain water)."
+  },
+  {
+   "id": "m6-x2-038",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 44-year-old client with metabolic acidosis asks the nurse, \"Which foods should I eat to get more bicarbonate?\" Which response by the nurse is most accurate?",
+   "options": [
+    "\"Leafy greens and bananas are the best sources of bicarbonate.\"",
+    "\"Your body makes bicarbonate; your kidneys produce and reabsorb it as needed.\"",
+    "\"Dairy products such as milk and cheese supply most bicarbonate.\"",
+    "\"Table salt and canned soups are good sources of bicarbonate.\""
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Leafy greens and bananas are potassium sources, not bicarbonate sources.",
+    "Correct. Bicarbonate is produced by the body and regulated by the kidneys, which generate and reabsorb it; it is not obtained from the diet.",
+    "Incorrect. Dairy foods are sources of calcium and phosphate.",
+    "Incorrect. Salt and canned soups are sources of sodium and chloride."
+   ],
+   "rationale": "Bicarbonate is unique among the major electrolytes: it is found in both the ECF and ICF, it acts as the body's main buffer, and it is made by the body rather than taken in from food. The kidneys generate bicarbonate and reabsorb it as needed to keep blood pH stable. The distractors each name real sources of other electrolytes, which makes them tempting for a student who knows food lists but forgets that bicarbonate is homemade.",
+   "takeaway": "Bicarbonate comes from the body (kidneys), not from food.",
+   "hintContent": "Which major electrolyte is the one the body produces itself?",
+   "hintStrategy": "When every distractor is a real food source, ask whether this electrolyte comes from food at all."
+  },
+  {
+   "id": "m6-x2-039",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "stem": "A 66-year-old client with heart failure asks, \"Why does my ankle swelling get worse after I eat salty food?\" Which explanation by the nurse is most accurate?",
+   "options": [
+    "\"Salt pulls water out of your blood vessels and into your cells.\"",
+    "\"Salt makes your kidneys release extra water, so fluid pools in your legs.\"",
+    "\"Water follows sodium, so extra salt makes your body hold on to more fluid.\"",
+    "\"Salt breaks down the protein that keeps fluid inside your vessels.\""
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Sodium stays mainly outside the cells, so it holds water in the extracellular space rather than moving it into cells.",
+    "Incorrect. Extra sodium makes the body hold on to water, not release it.",
+    "Correct. Sodium is the water regulator of the ECF; where sodium goes, water follows, so a high sodium intake increases ECF volume.",
+    "Incorrect. Albumin keeps fluid in the vessels; salt does not break it down."
+   ],
+   "rationale": "Sodium is the main extracellular electrolyte and controls water balance, summed up as \"water follows sodium.\" It also affects serum osmolality and ECF volume. When a client eats a lot of salt, the body holds on to more water in the extracellular space, which in heart failure shows up as edema and weight gain. The option about salt pulling water into cells is tempting because it mentions water movement, but sodium keeps water outside the cells.",
+   "takeaway": "Water follows sodium: more salt in, more fluid held in the ECF.",
+   "hintContent": "Recall the short phrase that describes sodium's main job.",
+   "hintStrategy": "Pick the explanation built on the core principle of the electrolyte, not one that sounds technical."
+  },
+  {
+   "id": "m6-x2-040",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A 63-year-old client with end-stage kidney disease reports eating a usual diet and has no recent injury or illness. Today's phosphate is 6.0 mg/dL. Which explanation best accounts for this result?",
+   "options": [
+    "Damaged cells are releasing their stored phosphate into the blood",
+    "The client is eating far more dairy and meat than usual",
+    "The sample was hemolyzed, which falsely lowered the phosphate",
+    "The failing kidneys cannot excrete phosphate, so it builds up in the blood"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Cell breakdown raises phosphate after trauma, chemotherapy, or extreme illness, none of which applies here.",
+    "Incorrect. The client reports a usual diet, so increased intake does not explain the result.",
+    "Incorrect. This result is high, not low, so a falsely lowered value does not fit.",
+    "Correct. The kidneys normally excrete phosphate; when they fail, phosphate accumulates, producing hyperphosphatemia."
+   ],
+   "rationale": "The normal phosphate range is 2.5–4.5 mg/dL, so 6.0 is hyperphosphatemia. When a value is high, the nurse asks what is adding the electrolyte or what is keeping the body from getting rid of it. In kidney failure, the kidneys can no longer excrete phosphate, so it builds up. Cell breakdown is the tempting answer because it also raises phosphate, but the stem rules out injury and illness.",
+   "takeaway": "Kidney failure raises phosphate because the kidneys cannot excrete it.",
+   "hintContent": "Ask whether the high value comes from added intake, cell breakdown, or poor removal.",
+   "hintStrategy": "Use the details that rule causes out (usual diet, no injury) to eliminate options."
+  },
+  {
+   "id": "m6-x2-041",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "A 58-year-old client receiving dialysis has been taught to limit high-phosphate foods. Which snack choice indicates that the client understood the teaching?",
+   "options": [
+    "Fresh apple slices",
+    "Cheese and whole-grain crackers",
+    "A cup of yogurt",
+    "A handful of mixed nuts"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Fresh fruit such as an apple is not one of the main phosphate sources (dairy, meat and fish, nuts, and whole grains).",
+    "Incorrect. Cheese (dairy) and whole grains are both phosphate sources.",
+    "Incorrect. Yogurt is a dairy product, a major phosphate source.",
+    "Incorrect. Nuts are a phosphate source."
+   ],
+   "rationale": "Phosphate is needed for ATP production, bone and teeth formation, and acid–base balance, and it comes from the diet. Its common sources are dairy products, meat and fish, nuts, and whole grains. Because failing kidneys cannot excrete phosphate, clients on dialysis are often taught to limit these foods. Cheese and whole-grain crackers are tempting because they seem like a sensible snack, but they combine two phosphate sources.",
+   "takeaway": "Phosphate sources: dairy, meat and fish, nuts, and whole grains.",
+   "hintContent": "List the food groups that supply phosphate and see which option avoids all of them.",
+   "hintStrategy": "For \"understood the teaching\" items, eliminate every option that still contains the restricted item."
+  },
+  {
+   "id": "m6-x2-042",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "stem": "A 62-year-old client who is lactose intolerant has a total calcium of 8.6 mg/dL. The client says, \"I can't drink milk, so I guess I can't get calcium from food.\" Which response by the nurse is best?",
+   "options": [
+    "\"Bananas and potatoes are the best non-dairy sources of calcium for you.\"",
+    "\"Leafy greens and calcium-fortified foods help, and vitamin D aids absorption.\"",
+    "\"Without milk, the only way to get calcium is through a supplement.\"",
+    "\"Your body makes its own calcium, so diet doesn't really matter.\""
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Bananas and potatoes are potassium sources, not calcium sources.",
+    "Correct. Calcium sources include dairy, leafy green vegetables, and fortified foods, and vitamin D helps the gut absorb calcium.",
+    "Incorrect. Non-dairy foods such as leafy greens and fortified foods also supply calcium.",
+    "Incorrect. Calcium must come from the diet; bicarbonate is the electrolyte the body makes."
+   ],
+   "rationale": "A total calcium of 8.6 mg/dL is below the course range of 9–11 mg/dL, so it is hypocalcemia. Calcium is needed for bones and teeth, muscle contraction, nerve signals, and blood clotting, and it comes from dairy, leafy green vegetables, and fortified foods, with vitamin D helping absorption. A client who avoids dairy for cultural, digestive, or personal reasons can still meet needs with other sources. The supplement-only option is tempting, but it ignores food choices that fit the client.",
+   "takeaway": "Calcium sources beyond dairy: leafy greens and fortified foods, with vitamin D to help absorption.",
+   "hintContent": "Recall all the calcium sources, not just dairy, and the vitamin that helps absorption.",
+   "hintStrategy": "The best teaching response corrects the misconception and gives practical options that fit the client's situation."
+  },
+  {
+   "id": "m6-x2-043",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "An 85-year-old client has eaten and drunk very little for 5 days because of a viral illness and has no vomiting or diarrhea. The potassium is 3.2 mEq/L. The client's daughter asks, \"How can her potassium be low if she isn't losing anything?\" Which response by the nurse is most accurate?",
+   "options": [
+    "\"Her body has used up the potassium it stores in her bones.\"",
+    "\"Low intake makes the cells release potassium into the blood.\"",
+    "\"Her kidneys keep getting rid of potassium even when she isn't taking any in.\"",
+    "\"Not drinking water has concentrated her blood and lowered the potassium.\""
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The body does not store potassium in bone; bone stores calcium and phosphate.",
+    "Incorrect. Cells release potassium when they are injured or die, which would raise, not lower, the serum level.",
+    "Correct. The body does not store potassium, and the kidneys continue to excrete it even when intake stops, so the level falls when the client does not eat.",
+    "Incorrect. Concentrated blood would tend to raise a concentration, not lower it."
+   ],
+   "rationale": "Potassium is the main intracellular electrolyte and the cardiac electrolyte. The body does not store it, so it must be consumed daily, and the kidneys keep excreting it even when intake stops. A client who eats very little for several days can therefore develop hypokalemia (below 3.5 mEq/L) without any GI losses. The option about bone stores is tempting because calcium is stored there, but potassium has no reserve.",
+   "takeaway": "No potassium intake means the level falls, because the body has no store and the kidneys keep excreting it.",
+   "hintContent": "Recall whether the body keeps a reserve of potassium and what the kidneys do when intake stops.",
+   "hintStrategy": "Eliminate options that would move the lab in the opposite direction from the result in the stem."
+  },
+  {
+   "id": "m6-x2-044",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "stem": "A 70-year-old client with a serum potassium of 5.7 mEq/L has a new prescription for a potassium-restricted diet. The nurse checks the lunch tray before it is served. Which items should the nurse remove? Select all that apply.",
+   "options": [
+    "Sliced banana",
+    "Baked potato",
+    "Spinach salad",
+    "Black bean soup",
+    "White rice",
+    "Gelatin dessert"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Bananas are a major potassium source.",
+    "Correct. Potatoes are a major potassium source.",
+    "Correct. Leafy greens such as spinach are a potassium source.",
+    "Correct. Beans are a potassium source.",
+    "Incorrect. White rice is not one of the main potassium sources and fits the restriction.",
+    "Incorrect. Gelatin is not a potassium source and fits the restriction."
+   ],
+   "rationale": "A potassium of 5.7 mEq/L is hyperkalemia (above 5.0). Common potassium sources are bananas, potatoes, leafy greens, beans, and avocados, so these are the items to remove for a client on a potassium restriction. The nurse checks the tray before the client eats rather than after. Spinach salad is easy to leave on the tray because it seems like a healthy choice, but leafy greens are a potassium source.",
+   "takeaway": "Potassium sources: bananas, potatoes, leafy greens, beans, and avocados.",
+   "hintContent": "Recall the five potassium sources and check each tray item against them.",
+   "hintStrategy": "Treat each food as a true/false question: is it a potassium source?"
+  },
+  {
+   "id": "m6-x2-045",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse reviews a 50-year-old client's electrolyte panel (see exhibit). Which results should the nurse report as outside the normal range? Select all that apply.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Electrolyte panel",
+      "table": {
+       "headers": [
+        "Test",
+        "Result"
+       ],
+       "rows": [
+        [
+         "Sodium",
+         "144 mEq/L"
+        ],
+        [
+         "Potassium",
+         "5.3 mEq/L"
+        ],
+        [
+         "Chloride",
+         "101 mEq/L"
+        ],
+        [
+         "Magnesium",
+         "1.3 mEq/L"
+        ],
+        [
+         "Phosphate",
+         "4.8 mg/dL"
+        ],
+        [
+         "Calcium, total",
+         "9.6 mg/dL"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Sodium 144 mEq/L",
+    "Potassium 5.3 mEq/L",
+    "Chloride 101 mEq/L",
+    "Magnesium 1.3 mEq/L",
+    "Phosphate 4.8 mg/dL",
+    "Total calcium 9.6 mg/dL"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Sodium 144 is within 135–145 mEq/L.",
+    "Correct. Potassium 5.3 is above 5.0 mEq/L, hyperkalemia.",
+    "Incorrect. Chloride 101 is within 95–105 mEq/L.",
+    "Correct. Magnesium 1.3 is below 1.5 mEq/L, hypomagnesemia.",
+    "Correct. Phosphate 4.8 is above 4.5 mg/dL, hyperphosphatemia.",
+    "Incorrect. Calcium 9.6 is within the 9–11 mg/dL range."
+   ],
+   "rationale": "The course ranges are sodium 135–145, potassium 3.5–5.0, chloride 95–105, and magnesium 1.5–2.5 mEq/L, with calcium 9–11 and phosphate 2.5–4.5 mg/dL. Values close to a limit are the easiest to misread: a potassium of 5.3 looks close to normal but is hyperkalemia, and sodium 144 looks high but is still normal. Comparing each result with its exact range, and noticing the units, prevents both missed and false alarms.",
+   "takeaway": "Compare each electrolyte to its exact range; values near the limit are the ones most often misread.",
+   "hintContent": "Recall each normal range and check whether the value falls inside it.",
+   "hintStrategy": "Go line by line and decide in or out for each value; do not let one abnormal result bias the others."
+  },
+  {
+   "id": "m6-x2-046",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
+   "stem": "The nurse is reviewing a caseload for clients at risk for elevated serum potassium and phosphate caused by cell breakdown. Which clients are at risk? Select all that apply.",
+   "options": [
+    "A client who received chemotherapy for a large lymphoma yesterday",
+    "A client with extensive muscle damage after a crush injury",
+    "A client with severe sepsis and multiple organ failure",
+    "A client who drank 5 L of plain water in one afternoon",
+    "A client with a nasogastric tube to suction for 3 days",
+    "A client who is NPO and receiving plain D5W"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Chemotherapy destroys tumor cells, which release intracellular potassium and phosphate.",
+    "Correct. Crushed muscle cells release their intracellular contents into the blood.",
+    "Correct. Extreme illness can cause widespread cell injury and death.",
+    "Incorrect. Excess water dilutes the blood, lowering sodium; it does not break cells open.",
+    "Incorrect. Gastric suction removes chloride-rich secretions; it does not cause cell breakdown.",
+    "Incorrect. An NPO client on plain D5W is at risk for low potassium from lack of intake."
+   ],
+   "rationale": "Potassium and phosphate live mainly inside cells. When cells are injured or die, as with chemotherapy, trauma, or extreme illness, their contents spill into the blood and serum levels rise without any change in intake. The other clients have real electrolyte risks, but in the opposite direction or involving other electrolytes. The NPO client is tempting because potassium is involved, but lack of intake lowers potassium.",
+   "takeaway": "Chemotherapy, trauma, and extreme illness can raise potassium and phosphate through cell breakdown.",
+   "hintContent": "Ask which situations break cells open and release their contents.",
+   "hintStrategy": "Check both the electrolyte and the direction of change for each client."
+  },
+  {
+   "id": "m6-x2-047",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 61-year-old client with hypertension has been told to reduce sodium intake. The client asks which foods to limit. Which items should the nurse include? Select all that apply.",
+   "options": [
+    "Canned vegetable soup",
+    "Processed deli meats",
+    "Salt added at the table",
+    "Frozen packaged dinners",
+    "Fresh apples and pears",
+    "Plain cooked oatmeal"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Canned foods and soups are common sodium sources.",
+    "Correct. Processed foods are high in sodium.",
+    "Correct. Table salt is sodium chloride.",
+    "Correct. Packaged and processed foods are a major source of sodium.",
+    "Incorrect. Fresh fruit is not a significant sodium source.",
+    "Incorrect. Plain oatmeal without added salt is not a significant sodium source."
+   ],
+   "rationale": "Sodium and chloride share their main dietary sources: table salt, processed foods, soups, and canned foods. Many clients think only of the salt shaker, but processed and canned foods often supply most of the day's sodium. Because water follows sodium, cutting these foods helps limit extra ECF volume. Canned soup is the item most often missed, since it does not taste as salty as chips.",
+   "takeaway": "Sodium hides in processed, canned, and packaged foods, not just the salt shaker.",
+   "hintContent": "Recall the common sources of sodium and chloride.",
+   "hintStrategy": "In diet SATA, check each food against the taught source list rather than how salty it tastes."
+  },
+  {
+   "id": "m6-x2-048",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A 54-year-old client with chronic alcohol use has a magnesium of 1.2 mEq/L and a potassium of 3.1 mEq/L that has not risen after 2 days of oral potassium chloride. The provider adds IV magnesium sulfate. Which statements by the nurse explaining this plan to a nursing student are accurate? Select all that apply.",
+   "options": [
+    "\"Magnesium activates the sodium–potassium pump that holds potassium in cells.\"",
+    "\"While magnesium stays low, potassium keeps leaking away despite replacement.\"",
+    "\"Correcting the magnesium also makes a low calcium easier to raise.\"",
+    "\"Low magnesium can make the nerves and muscles less stable.\"",
+    "\"Once the magnesium is given, the potassium replacement is no longer needed.\"",
+    "\"Magnesium is mainly an extracellular electrolyte, like sodium.\""
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Magnesium switches on the Na⁺/K⁺ pump, which moves potassium into cells; without it, potassium is hard to hold on to.",
+    "Correct. Low magnesium lets potassium keep leaking away, which is why this client's potassium has not risen with replacement alone.",
+    "Correct. The body needs magnesium to regulate calcium normally, so calcium is hard to raise until magnesium is corrected.",
+    "Correct. Magnesium is the stabilizer electrolyte that helps regulate neuromuscular activity.",
+    "Incorrect. Magnesium lets the potassium replacement work; it does not replace potassium, so the client still needs potassium.",
+    "Incorrect. Magnesium lives mainly inside the cells, like potassium and phosphate; sodium is the main extracellular electrolyte."
+   ],
+   "rationale": "Magnesium, the stabilizer electrolyte, lives mainly inside cells. It activates the sodium–potassium pump, regulates neuromuscular activity, and is needed for normal calcium regulation. When magnesium is low, potassium keeps leaking away and calcium stays hard to raise no matter how much is given, so magnesium is replaced first and the other replacements can then work. A magnesium of 1.2 mEq/L is hypomagnesemia (below 1.5), which explains why this client's potassium has not responded. The statement that potassium is no longer needed is tempting because magnesium \"fixes\" the potassium problem, but magnesium only lets the potassium replacement stay; it does not supply potassium.",
+   "takeaway": "Low potassium that will not correct? Check magnesium; replace it first so potassium (and calcium) replacement can work.",
+   "hintContent": "Recall magnesium's nickname and why it is replaced before potassium and calcium.",
+   "hintStrategy": "For each statement, ask whether it explains why magnesium comes first or confuses magnesium with another electrolyte."
+  },
+  {
+   "id": "m6-x2-049",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 39-year-old client with metabolic acidosis is receiving lactated Ringer's and asks about bicarbonate. Which statements by the nurse are accurate? Select all that apply.",
+   "options": [
+    "\"Bicarbonate is found both inside and outside your cells.\"",
+    "\"Your kidneys make bicarbonate and reabsorb it as needed.\"",
+    "\"Bicarbonate buffers acid to keep your blood pH stable.\"",
+    "\"The lactate in your IV is converted into bicarbonate.\"",
+    "\"You can raise your bicarbonate by eating more leafy greens.\"",
+    "\"Bicarbonate is a positively charged ion, like sodium.\""
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Bicarbonate is the electrolyte found in both the ECF and ICF.",
+    "Correct. The kidneys generate bicarbonate and reabsorb it as needed.",
+    "Correct. Bicarbonate is the body's main buffer, regulating acid–base balance.",
+    "Correct. The liver converts the lactate in LR to bicarbonate, which helps correct metabolic acidosis.",
+    "Incorrect. Bicarbonate is made by the body, not obtained from food.",
+    "Incorrect. Bicarbonate (HCO₃⁻) is an anion, carrying a negative charge."
+   ],
+   "rationale": "Bicarbonate is unique: it is found in both the ECF and ICF, it buffers acid to keep blood pH stable, and it is produced by the body, with the kidneys generating and reabsorbing it as needed. The lactate in lactated Ringer's is converted to bicarbonate, which is why LR helps correct metabolic acidosis. The leafy-greens option is tempting because diet is the source of most electrolytes, but bicarbonate is the exception.",
+   "takeaway": "Bicarbonate: found on both sides of the cell, made by the body, controlled by the kidneys, and boosted by LR's lactate.",
+   "hintContent": "Recall what makes bicarbonate \"unique\" compared with other electrolytes.",
+   "hintStrategy": "Check each statement for location, source, job, and charge."
+  },
+  {
+   "id": "m6-x2-050",
+   "type": "sata",
+   "topic": "fe-electrolytes",
+   "alsoTests": [
+    "fe-risk-interventions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · The Electrolytes: Roles, Sources & Lab Values",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pharmacology",
+   "stem": "The nurse is identifying clients who need close monitoring for a falling serum potassium. Which clients are at risk? Select all that apply.",
+   "options": [
+    "A client NPO for 4 days receiving IV fluid with no added potassium",
+    "A client taking furosemide twice daily",
+    "A client with 3 days of repeated vomiting",
+    "A client 1 day after a severe crush injury to both legs",
+    "A client whose sample was reported as hemolyzed",
+    "A client who received chemotherapy for a large tumor yesterday"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. The body does not store potassium, and the kidneys keep excreting it, so no intake leads to a falling level.",
+    "Correct. Loop diuretics such as furosemide increase potassium loss in the urine.",
+    "Correct. Vomiting removes potassium-containing fluid while intake is usually poor.",
+    "Incorrect. Crushed cells release potassium, so the level tends to rise.",
+    "Incorrect. A hemolyzed sample falsely raises the potassium result.",
+    "Incorrect. Tumor cell breakdown after chemotherapy tends to raise potassium."
+   ],
+   "rationale": "Potassium must be taken in every day because the body does not store it, and the kidneys keep excreting it even when intake stops. Clients who are NPO without potassium replacement, who take potassium-wasting diuretics, or who are losing GI fluids are at risk for hypokalemia. Cell breakdown from trauma or chemotherapy, and hemolysis in the tube, push the result the other way. The crush-injury client is tempting because potassium is a concern, but the risk is a rising level.",
+   "takeaway": "No intake, diuretics, and GI losses lower potassium; cell breakdown and hemolysis raise it.",
+   "hintContent": "For each client, decide whether potassium is being lost or released.",
+   "hintStrategy": "Sort the options into \"potassium falling\" and \"potassium rising\" before selecting."
+  },
+  {
+   "id": "m6-x2-051",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "A 9-month-old is receiving IV fluids for dehydration from gastroenteritis. Four hours later, the infant is irritable and difficult to console, and the nurse finds that the anterior fontanel is bulging. What should the nurse do?",
+   "options": [
+    "Document it as a sign that the infant is now rehydrated",
+    "Increase the IV rate to finish rehydration sooner",
+    "Offer oral fluids and reassess the fontanel in 4 hours",
+    "Report the bulging fontanel to the provider promptly"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Successful rehydration returns the fontanel to soft and flat, not bulging.",
+    "Incorrect. Adding more fluid without a prescription could worsen the problem.",
+    "Incorrect. Waiting 4 hours delays the response to an abnormal neurologic finding.",
+    "Correct. A normal fontanel is soft and flat; a bulging fontanel is abnormal and must be reported."
+   ],
+   "rationale": "In infants, the anterior fontanel is a window on fluid status. Normal is soft and flat; sunken suggests dehydration; bulging is also abnormal and needs to be reported. An infant who was sunken and dehydrated should become soft and flat with rehydration, so a bulging fontanel with new irritability is an unexpected change. The tempting error is to read \"no longer sunken\" as success, but overshooting to bulging is a red flag.",
+   "takeaway": "Fontanel: soft and flat is normal, sunken means dehydration, bulging is abnormal and must be reported.",
+   "hintContent": "Recall the three possible fontanel findings and what each means.",
+   "hintStrategy": "When a finding has moved past normal in the other direction, treat it as a new problem, not as improvement."
+  },
+  {
+   "id": "m6-x2-052",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "The nurse receives report on four clients. Which client should the nurse assess first?",
+   "options": [
+    "A client with heart failure who gained 1.8 kg overnight and has new crackles",
+    "A client who lost 0.4 kg overnight after a planned dose of a diuretic",
+    "An 88-year-old with slow skin turgor, moist membranes, and a stable weight",
+    "A client with urine specific gravity of 1.028 who is drinking well"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. A rapid weight gain of 1.8 kg (about 1.8 L of fluid) with new crackles signals fluid retention affecting the lungs.",
+    "Incorrect. A small loss after a diuretic is the expected response.",
+    "Incorrect. Skin turgor is less reliable in older adults, and the moist membranes and stable weight do not suggest a deficit.",
+    "Incorrect. A specific gravity of 1.028 is within the normal range of 1.005–1.030."
+   ],
+   "rationale": "Daily weight is the most sensitive measure of fluid change, and 1 kg is about 1 L of fluid. A 1.8-kg overnight gain with new crackles suggests fluid overload that is already affecting breathing, which makes this client the priority. Slow skin turgor in an 88-year-old is tempting because it looks abnormal, but older adults' skin naturally loses elasticity, so the nurse relies more on weight, membranes, and I&O, which are reassuring here.",
+   "takeaway": "A rapid weight gain plus new crackles outranks expected or isolated findings.",
+   "hintContent": "Convert each weight change into fluid and check each value against its normal range.",
+   "hintStrategy": "Rule out expected findings and normal values first; the client left with an unexpected breathing change goes first."
+  },
+  {
+   "id": "m6-x2-053",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "stem": "A 70-kg client has an indwelling urinary catheter. The nurse reviews the hourly urine output (see exhibit). Vital signs are stable. Which action should the nurse take first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Hourly urine output",
+      "table": {
+       "headers": [
+        "Time",
+        "Urine (mL)"
+       ],
+       "rows": [
+        [
+         "1100",
+         "40"
+        ],
+        [
+         "1200",
+         "22"
+        ],
+        [
+         "1300",
+         "10"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Notify the provider that output is below the minimum",
+    "Check the catheter tubing for kinks or a blockage",
+    "Increase the IV fluid rate to improve kidney blood flow",
+    "Irrigate the catheter with sterile saline to clear it"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The provider needs to know, but a quick check of the tubing may find a simple cause, and the report is more useful with that information.",
+    "Correct. With 2 consecutive hours below the minimum of 35 mL/hr, the nurse first rules out a mechanical cause, such as a kinked or blocked tube.",
+    "Incorrect. Changing the IV rate requires a prescription.",
+    "Incorrect. Catheter irrigation requires a prescription and is not the first step."
+   ],
+   "rationale": "Minimum urine output is 0.5 mL/kg/hr, which is 35 mL/hr for a 70-kg client. Output below that for 2 or more consecutive hours means the nurse reassesses, starting with making sure the catheter is not kinked or blocked and checking the bladder, and then notifies the provider. Assessing before acting prevents treating a \"kidney problem\" that is actually a bent tube. Notifying the provider is tempting because low output is serious, but checking the tubing takes seconds and changes what the nurse reports.",
+   "takeaway": "Low catheter output: check the tubing and bladder first, then notify the provider.",
+   "hintContent": "Calculate this client's minimum hourly output and consider simple causes of low drainage.",
+   "hintStrategy": "When an action and an assessment compete and the client is stable, assess first, especially a quick equipment check."
+  },
+  {
+   "id": "m6-x2-054",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "stem": "A 4-year-old has had vomiting and diarrhea for 2 days. The nurse finds dry, sticky mucous membranes, a urine specific gravity of 1.032, no tears when crying, and the child is now difficult to arouse. Which finding should the nurse report first?",
+   "options": [
+    "Mucous membranes are dry and sticky",
+    "Urine specific gravity is 1.032",
+    "The child is difficult to arouse",
+    "The child has no tears when crying"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Dry membranes confirm a fluid deficit but do not show organ effects.",
+    "Incorrect. A high specific gravity shows the kidneys are conserving water; it supports the deficit but is less urgent.",
+    "Correct. A change in level of consciousness shows the fluid and electrolyte problem is now affecting the brain, the most serious finding.",
+    "Incorrect. No tears is a sign of a deficit but is less serious than a change in neuro status."
+   ],
+   "rationale": "All four findings point to a fluid deficit, which helps confirm the problem, but priority depends on which one shows the greatest threat. Neuro status (level of consciousness, orientation, motor function) is part of every fluid and electrolyte assessment because the brain depends on normal fluid and electrolyte balance. A child who is now difficult to arouse has a decline in level of consciousness. The specific gravity is tempting because it is a hard number above the normal limit, but it reflects the kidneys conserving water, not organ failure.",
+   "takeaway": "When every finding fits a fluid deficit, a change in level of consciousness is reported first.",
+   "hintContent": "Ask which finding shows the deficit is now affecting a vital organ.",
+   "hintStrategy": "When all options are abnormal and point the same way, choose the one that shows the most serious consequence."
+  },
+  {
+   "id": "m6-x2-055",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "stem": "During a morning assessment of an 86-year-old client, the nurse notes that a pinched skin fold on the forearm returns slowly. The mucous membranes are moist and pink, the weight is unchanged from yesterday, and 24-hour intake and output are balanced. What is the nurse's best action?",
+   "options": [
+    "Notify the provider that the client needs IV fluids",
+    "Encourage the client to drink at least 3 L of fluid today",
+    "Start strict I&O and request a stat serum osmolality",
+    "Conclude that the overall data do not show a deficit"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Requesting IV fluids based on one unreliable finding could cause fluid overload in an older adult.",
+    "Incorrect. A large fluid goal is not supported by the data and may be unsafe for an older adult.",
+    "Incorrect. Ordering tests for a single unreliable finding when other data are normal is not needed.",
+    "Correct. Older adults' skin naturally loses elasticity, so turgor is less reliable; moist membranes, stable weight, and balanced I&O do not support a fluid deficit."
+   ],
+   "rationale": "Skin turgor is tested by pinching a skin fold and watching how fast it returns. Older adults' skin naturally loses elasticity, so slow return is common even when hydration is normal, and the nurse relies more on weights, mucous membranes, and I&O. Here, every other indicator is reassuring. Calling for IV fluids is tempting because tenting usually means a deficit, but acting on an unreliable finding alone could cause harm.",
+   "takeaway": "In older adults, confirm slow skin turgor with weight, mucous membranes, and I&O before calling it a deficit.",
+   "hintContent": "Recall how aging affects the reliability of skin turgor.",
+   "hintStrategy": "When one finding conflicts with several others, ask whether that single finding is reliable in this client."
+  },
+  {
+   "id": "m6-x2-056",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 67-year-old client is admitted with weakness after several days of poor fluid intake. The nurse reviews the admission results (see exhibit). Which result requires the nurse's follow-up?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Admission results",
+      "table": {
+       "headers": [
+        "Test",
+        "Result"
+       ],
+       "rows": [
+        [
+         "Serum osmolality",
+         "312 mOsm/kg"
+        ],
+        [
+         "Urine osmolality",
+         "640 mOsm/kg"
+        ],
+        [
+         "Urine specific gravity",
+         "1.024"
+        ],
+        [
+         "Hematocrit (male)",
+         "47%"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Serum osmolality 312 mOsm/kg",
+    "Urine osmolality 640 mOsm/kg",
+    "Urine specific gravity 1.024",
+    "Hematocrit 47% in this male client"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Serum osmolality above 300 mOsm/kg means the blood is more concentrated than normal, consistent with a water deficit.",
+    "Incorrect. Urine osmolality of 640 is within the normal range of 200–800 mOsm/kg.",
+    "Incorrect. A specific gravity of 1.024 is within the normal 1.005–1.030 range.",
+    "Incorrect. A hematocrit of 47% is within the typical adult male range of about 42–52%."
+   ],
+   "rationale": "Normal serum osmolality is 280–300 mOsm/kg, urine osmolality is 200–800 mOsm/kg, specific gravity is 1.005–1.030, and the typical adult male hematocrit is about 42–52%. Only the serum osmolality is outside its range; at 312 it shows concentrated blood, and the body should respond with thirst and ADH release to conserve water. The urine osmolality is tempting because 640 sounds high, but healthy kidneys have a wide range for concentrating urine.",
+   "takeaway": "Serum osmolality above 300 means concentrated blood, a sign of water deficit.",
+   "hintContent": "Recall the normal ranges for serum osmolality, urine osmolality, and specific gravity.",
+   "hintStrategy": "Check each value against its own range; a big number is not abnormal if its normal range is wide."
+  },
+  {
+   "id": "m6-x2-057",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "A 74-year-old client received IV furosemide for fluid overload. This morning's weight is 3 kg lower than yesterday. As the client stands to walk to the bathroom, the client reports feeling dizzy, and the nurse notes a pale face. Which action should the nurse take first?",
+   "options": [
+    "Document the weight loss as a sign that the diuretic is working",
+    "Help the client sit or lie down and recheck the blood pressure and pulse",
+    "Encourage the client to drink two glasses of water right away",
+    "Notify the provider that the client lost 3 L of fluid overnight"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The loss may reflect the diuretic's effect, but a dizzy, pale client needs immediate safety action, not documentation.",
+    "Correct. Dizziness on standing after a large fluid loss suggests the blood pressure is dropping with position; the first priority is preventing a fall, then measuring the vital signs.",
+    "Incorrect. Fluids may later be appropriate, but the client is at immediate risk of falling.",
+    "Incorrect. The provider needs to know, but the nurse first protects the client and gathers vital signs to report."
+   ],
+   "rationale": "A 3-kg overnight drop means about 3 L of fluid was lost. When blood volume drops, the heart rate rises and blood pressure may fall, especially when the client stands up, which explains the dizziness and pallor. Safety comes first: the nurse helps the client sit or lie down to prevent a fall, then rechecks blood pressure and pulse before notifying the provider. Calling the provider first is tempting because the loss is large, but leaving a dizzy client standing risks injury.",
+   "takeaway": "Dizziness on standing after rapid fluid loss: protect the client from falling first, then check vital signs.",
+   "hintContent": "Convert the weight change to fluid and think about what that volume loss does to blood pressure when standing.",
+   "hintStrategy": "When a client is at immediate risk of injury, choose the safety action before reporting or documenting."
+  },
+  {
+   "id": "m6-x2-058",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "The nurse reviews a 12-hour intake and output record for an 80-kg client (see exhibit). Which action should the nurse take?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "I&O 0700–1900",
+      "table": {
+       "headers": [
+        "Intake",
+        "mL",
+        "Output",
+        "mL"
+       ],
+       "rows": [
+        [
+         "Oral fluids",
+         "720",
+         "Urine",
+         "310"
+        ],
+        [
+         "IV 0.9% sodium chloride",
+         "1,200",
+         "Emesis",
+         "0"
+        ],
+        [
+         "IV antibiotic",
+         "100",
+         "Drain",
+         "30"
+        ],
+        [
+         "Total",
+         "2,020",
+         "Total",
+         "340"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Document the positive balance as expected with IV fluids",
+    "Encourage more oral fluids and recheck at the end of the next shift",
+    "Notify the provider that urine output is below minimum",
+    "Ask the assistive personnel to start a new I&O record"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Some positive balance can occur with IV fluids, but urine below the minimum is not expected and must not be dismissed.",
+    "Incorrect. Waiting another shift delays reporting a finding that may mean poor kidney blood flow.",
+    "Correct. The minimum for an 80-kg client is 40 mL/hr, or 480 mL in 12 hours; 310 mL of urine is well below that and must be reported.",
+    "Incorrect. A new record does not address the low output that is already documented."
+   ],
+   "rationale": "Urine output should be at least 0.5 mL/kg/hr. For an 80-kg client that is 40 mL/hr, or 480 mL over 12 hours, so 310 mL is below the minimum even though the client took in more than 2 L. Low output with a large positive balance suggests the kidneys are not getting enough blood flow or are not working well, or that fluid is being retained, and the nurse reports it. Documenting it as an expected positive balance is tempting because the client is on IV fluids, but the urine number itself is the red flag.",
+   "takeaway": "Calculate the minimum (0.5 mL/kg/hr × hours) and report urine output below it, whatever the intake.",
+   "hintContent": "Multiply the weight by 0.5 and by the number of hours, then compare with the urine total.",
+   "hintStrategy": "In I&O exhibits, compare urine output with the client's calculated minimum before judging the balance."
+  },
+  {
+   "id": "m6-x2-059",
+   "type": "mcq",
+   "priority": true,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "stem": "A 72-year-old client with heart failure calls the home health nurse: \"I weighed myself this morning after I urinated, same as always, and I'm 3 pounds heavier than yesterday. My ankles are a little puffy.\" What is the nurse's best response?",
+   "options": [
+    "\"Weigh yourself again tomorrow and call if it's still up.\"",
+    "\"Drink less water tonight and see if the swelling goes down.\"",
+    "\"A few pounds can change from day to day; that's normal.\"",
+    "\"Please call your provider today about this weight gain.\""
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Waiting another day lets fluid continue to build up.",
+    "Incorrect. The client should not self-treat without guidance; the gain needs evaluation.",
+    "Incorrect. A rapid gain over a day is almost always fluid, not normal variation.",
+    "Correct. A gain of 3 lb (about 1.4 kg, or roughly 1.5 L) in a day with new swelling suggests fluid retention that needs prompt provider follow-up."
+   ],
+   "rationale": "A rapid weight change over a day or two is almost always fluid, not fat or muscle. Three pounds is about 1.4 kg, which is roughly 1.5 L of retained fluid, and the client already has new ankle swelling. The client weighed correctly, so the number is trustworthy, and the nurse advises prompt contact with the provider. Telling the client to recheck tomorrow is tempting because it seems cautious, but it delays care while fluid continues to accumulate.",
+   "takeaway": "A rapid weight gain with new swelling is fluid until proven otherwise; report it the same day.",
+   "hintContent": "Convert pounds to kilograms to liters, and recall what a rapid daily change represents.",
+   "hintStrategy": "For home calls, choose the response that gets the client timely professional follow-up rather than watchful waiting."
+  },
+  {
+   "id": "m6-x2-060",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A client who weighs 165 lb returns from surgery with an indwelling urinary catheter, and the nurse begins hourly urine output monitoring. What is the minimum hourly urine output the nurse should expect for this client?",
+   "options": [
+    "30 mL/hr",
+    "37.5 mL/hr",
+    "75 mL/hr",
+    "82.5 mL/hr"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. This is the minimum for a 60-kg client, not a 75-kg client.",
+    "Correct. 165 lb ÷ 2.2 = 75 kg; 75 kg × 0.5 mL/kg/hr = 37.5 mL/hr.",
+    "Incorrect. This uses 1 mL/kg/hr instead of 0.5 mL/kg/hr.",
+    "Incorrect. This multiplies the weight in pounds by 0.5 without converting to kilograms."
+   ],
+   "rationale": "Minimum urine output is at least 0.5 mL/kg/hr. The weight must be in kilograms first: 165 lb ÷ 2.2 = 75 kg. Then 75 × 0.5 = 37.5 mL/hr, which is 300 mL over an 8-hour shift. The most common error is skipping the pound-to-kilogram conversion, which inflates the minimum and could make a normal output look low.",
+   "takeaway": "Minimum urine output = weight in kg × 0.5 mL/hr; convert pounds first.",
+   "hintContent": "Recall the urine output formula and the pound-to-kilogram conversion.",
+   "hintStrategy": "In calculation items, check units first; wrong answers are often built from a skipped conversion."
+  },
+  {
+   "id": "m6-x2-061",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "stem": "A 58-year-old client receiving IV diuretics weighed 198.0 lb yesterday morning and 194.7 lb this morning on the same scale, after voiding, in the same gown. About how much fluid has the client lost?",
+   "options": [
+    "0.75 L",
+    "1.5 L",
+    "3.3 L",
+    "7.3 L"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. This underestimates the loss; 3.3 lb is about 1.5 kg.",
+    "Correct. 3.3 lb × 0.45 kg/lb ≈ 1.5 kg, and 1 kg ≈ 1 L, so about 1.5 L of fluid was lost.",
+    "Incorrect. This treats each pound as 1 L; 1 lb is about 0.5 L.",
+    "Incorrect. This multiplies by 2.2 instead of dividing, which overestimates the loss."
+   ],
+   "rationale": "Because a rapid change over a day is almost always fluid, the nurse converts weight change to fluid volume. One kilogram equals about 1 liter, and 1 pound is about 0.45 kg, or roughly 0.5 L. A 3.3-lb drop is about 1.5 kg, or 1.5 L. Treating a pound as a liter is the most tempting error and doubles the estimate.",
+   "takeaway": "1 kg ≈ 1 L; 1 lb ≈ 0.45 kg ≈ 0.5 L.",
+   "hintContent": "Convert the pound change to kilograms, then to liters.",
+   "hintStrategy": "Estimate before calculating: about half a liter per pound quickly rules out answers that are too large."
+  },
+  {
+   "id": "m6-x2-062",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "stem": "The nurse is planning care for a stable client on intake and output monitoring. Which task is appropriate to assign to the assistive personnel (AP)?",
+   "options": [
+    "Measure and record oral intake and urine output",
+    "Assess the client's mucous membranes and skin turgor",
+    "Interpret the 24-hour I&O balance and report concerns",
+    "Teach the client how to record intake at home"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Measuring and recording I&O is a standard task within the AP's scope; the nurse interprets the totals.",
+    "Incorrect. Physical assessment is the nurse's responsibility.",
+    "Incorrect. Interpreting data and deciding what is a concern belongs to the nurse.",
+    "Incorrect. Teaching is a nursing responsibility."
+   ],
+   "rationale": "AP can measure and record intake and output, but the nurse interprets the totals and decides what they mean. Assessment, teaching, and interpretation are RN responsibilities. Interpreting the balance is tempting to delegate because the AP already has the numbers, but deciding whether a balance is concerning requires nursing judgment.",
+   "takeaway": "AP measure and record I&O; the nurse interprets it.",
+   "hintContent": "Separate collecting data from judging data.",
+   "hintStrategy": "In delegation items, choose the task that is routine and measurable, with no assessment, teaching, or interpretation."
+  },
+  {
+   "id": "m6-x2-063",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A 31-year-old client has been drinking large amounts of water. Results show urine specific gravity 1.003, urine osmolality 120 mOsm/kg, and serum osmolality 276 mOsm/kg. Which interpretation is most accurate?",
+   "options": [
+    "The body is short on water, and the kidneys are saving it",
+    "The body has excess water, and the kidneys are making dilute urine",
+    "The results show concentrated blood with concentrated urine",
+    "The kidneys are failing to respond to the client's fluid status"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A water deficit would produce high serum osmolality and concentrated urine, the opposite of these results.",
+    "Correct. Serum osmolality below 280 shows dilute blood, and the low specific gravity and urine osmolality show the kidneys are appropriately excreting extra water.",
+    "Incorrect. Every value is on the low (dilute) side.",
+    "Incorrect. Dilute urine with dilute blood is the kidneys responding correctly."
+   ],
+   "rationale": "Serum osmolality (280–300 mOsm/kg) shows how concentrated the blood is, while urine osmolality (200–800 mOsm/kg) and specific gravity (1.005–1.030) show how concentrated the urine is. Here all three are low: the blood is diluted by extra water, and healthy kidneys respond by producing dilute urine to get rid of it. The option about kidney failure is tempting because the urine values are outside range, but low values in this setting show the kidneys doing their job.",
+   "takeaway": "Dilute blood plus dilute urine means the kidneys are correctly getting rid of extra water.",
+   "hintContent": "Decide whether each value is high or low, then ask what the kidneys should do in that situation.",
+   "hintStrategy": "Look for the pattern across all the values rather than judging any one alone."
+  },
+  {
+   "id": "m6-x2-064",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Recognize Cues",
+   "focus": "Nursing Interventions",
+   "stem": "During an 8-hour shift, a client ate 120 mL of gelatin, drank 240 mL of apple juice, and had 300 mL of ice chips. What intake should the nurse record?",
+   "options": [
+    "360 mL",
+    "510 mL",
+    "660 mL",
+    "810 mL"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. This leaves out the ice chips, which count as intake.",
+    "Correct. Gelatin 120 + juice 240 + ice chips counted at half volume (150) = 510 mL.",
+    "Incorrect. This counts the ice chips at full volume instead of half.",
+    "Incorrect. This counts the ice chips at full volume and then adds their half volume again."
+   ],
+   "rationale": "Intake includes all fluids and foods that are liquid at room temperature, such as gelatin, ice cream, and popsicles. Ice chips count as about half their volume in water because they are part air. So 120 + 240 + 150 = 510 mL. Counting ice chips at full volume is the most tempting error.",
+   "takeaway": "Count foods that are liquid at room temperature, and record ice chips at half their volume.",
+   "hintContent": "Recall which foods count as intake and how ice chips are converted.",
+   "hintStrategy": "List each item with its counted volume before adding, so no conversion is missed."
+  },
+  {
+   "id": "m6-x2-065",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Lifespan & Diversity",
+   "stem": "An 11-month-old with dehydration from diarrhea has received IV rehydration for 12 hours. Which finding best indicates that the infant's fluid status is improving?",
+   "options": [
+    "Urine specific gravity is 1.034",
+    "The infant has had one wet diaper in 8 hours",
+    "The anterior fontanel is soft and flat",
+    "The infant's eyes appear soft and sunken"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. A specific gravity above 1.030 means the kidneys are still conserving water.",
+    "Incorrect. Fewer wet diapers than usual suggests ongoing low output.",
+    "Correct. A soft, flat fontanel is the normal finding and shows fluid volume is being restored.",
+    "Incorrect. Soft, sunken eyes suggest a continuing fluid deficit."
+   ],
+   "rationale": "In an infant, signs of dehydration include a sunken fontanel, dry membranes, sunken eyes, fewer wet diapers, and concentrated urine. As rehydration works, these return toward normal: the fontanel becomes soft and flat, diapers are wet more often, and urine becomes less concentrated. The specific gravity is tempting because it is a lab number, but at 1.034 it still shows concentrated urine.",
+   "takeaway": "In infants, a soft, flat fontanel is a key sign that rehydration is working.",
+   "hintContent": "Recall what a normal fontanel feels like compared with a dehydrated one.",
+   "hintStrategy": "For \"improving\" items, choose the finding that has returned to normal, not one still showing the problem."
+  },
+  {
+   "id": "m6-x2-066",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 79-year-old client has been on bed rest in a supine position for 3 days, and the nurse suspects fluid retention. Where should the nurse check most carefully for pitting edema?",
+   "options": [
+    "Over the sternum",
+    "On the forehead",
+    "On the back of the hand",
+    "Over the sacrum"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The sternum is a site for checking skin turgor, not dependent edema.",
+    "Incorrect. The forehead is not a dependent area for a supine client.",
+    "Incorrect. The back of the hand is not dependent in a supine client and is not the key site.",
+    "Correct. In a client lying on the back, fluid collects in the lowest areas, so the sacrum is the key site to check."
+   ],
+   "rationale": "Edema is checked by pressing a finger into swollen tissue and seeing whether a dent remains. Extra tissue fluid collects in the lowest (dependent) parts of the body, which is often the feet and ankles in a client who is up and about and the sacrum in a client lying on the back. The sternum is tempting because it is a common skin assessment site, but it is used for turgor, a sign of fluid deficit.",
+   "takeaway": "Check for edema where gravity pulls fluid: the sacrum for a client on bed rest, the feet and ankles for one who is up.",
+   "hintContent": "Think about where gravity pulls fluid in a client who has been lying on the back.",
+   "hintStrategy": "Do not confuse sites for skin turgor (deficit) with sites for edema (excess)."
+  },
+  {
+   "id": "m6-x2-067",
+   "type": "mcq",
+   "priority": false,
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "stem": "The nurse taught a 68-year-old client with heart failure how to take daily weights at home. Which statement by the client indicates a need for further teaching?",
+   "options": [
+    "\"I'll weigh myself whenever I remember during the day.\"",
+    "\"I'll use the same scale every time I weigh myself.\"",
+    "\"I'll weigh myself after I urinate and before breakfast.\"",
+    "\"I'll wear about the same amount of clothing each day.\""
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. This statement needs correction; weights must be taken at the same time each day, usually early morning, to compare fluid changes.",
+    "Incorrect. Using the same scale is correct technique.",
+    "Incorrect. Weighing after voiding and before breakfast is correct technique.",
+    "Incorrect. Wearing the same amount of clothing is correct technique."
+   ],
+   "rationale": "Daily weights only reflect fluid change when everything else stays the same: same time (usually early morning after voiding and before breakfast), same scale, and same amount of clothing. Weighing at random times lets meals, drinks, and voiding change the number, so a real fluid gain could be hidden or a false one created. Each of the other statements describes correct technique, which makes them tempting to choose in a \"needs teaching\" item.",
+   "takeaway": "Daily weights: same time, same scale, same clothing, after voiding and before breakfast.",
+   "hintContent": "List the conditions that must stay the same for weights to be compared.",
+   "hintStrategy": "In \"needs further teaching\" items, look for the statement that is wrong; the correct statements are the distractors."
+  },
+  {
+   "id": "m6-x2-068",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 76-year-old woman is admitted after several days of vomiting and poor intake. Which findings support a fluid volume deficit? Select all that apply.",
+   "options": [
+    "Heart rate 112/min, up from a baseline of 76/min",
+    "Urine specific gravity 1.034",
+    "Dry, sticky oral mucous membranes",
+    "Hematocrit 51%",
+    "Crackles in both lung bases",
+    "Distended neck veins while sitting upright"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. When blood volume drops, the heart rate rises to keep blood moving.",
+    "Correct. A specific gravity above 1.030 shows concentrated urine as the kidneys save water.",
+    "Correct. Dry, sticky membranes suggest a fluid deficit.",
+    "Correct. A hematocrit above the typical female range (about 37–47%) suggests hemoconcentration from water loss.",
+    "Incorrect. Crackles suggest too much fluid, not a deficit.",
+    "Incorrect. Distended neck veins suggest fluid excess."
+   ],
+   "rationale": "A fluid deficit shows up in many systems at once: a faster heart rate as the body compensates, dry membranes, concentrated urine (specific gravity above 1.030), and a rising hematocrit as the same red cells are packed into less fluid. Because no single clue tells the whole story, the nurse looks for findings that point the same way. Crackles and distended neck veins are tempting to select in any fluid question, but they point to excess.",
+   "takeaway": "Fluid deficit: fast pulse, dry membranes, high specific gravity, and high hematocrit together.",
+   "hintContent": "Sort each finding into \"too little fluid\" or \"too much fluid.\"",
+   "hintStrategy": "Decide the direction of the imbalance first, then select only findings that match it."
+  },
+  {
+   "id": "m6-x2-069",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "stem": "A 70-year-old client with heart failure is being assessed for fluid excess. Which findings support this concern? Select all that apply.",
+   "options": [
+    "Weight up 1.6 kg since yesterday",
+    "New crackles in both lung bases",
+    "Distended neck veins with the head raised",
+    "2+ pitting edema of both ankles",
+    "Soft, sunken eyes",
+    "Urine specific gravity 1.034"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. A rapid gain of 1.6 kg is about 1.6 L of retained fluid.",
+    "Correct. Crackles can mean fluid in the lungs.",
+    "Correct. Swollen neck veins can go with too much fluid.",
+    "Correct. Pitting edema shows extra fluid in the tissues.",
+    "Incorrect. Sunken eyes suggest a fluid deficit.",
+    "Incorrect. Highly concentrated urine suggests the kidneys are saving water, as in a deficit."
+   ],
+   "rationale": "Fluid excess shows as rapid weight gain (1 kg ≈ 1 L), crackles in the lungs, distended neck veins, and edema in the tissues. The nurse puts these clues together and notifies the provider of a sudden gain with new edema or crackles. Highly concentrated urine is tempting to select because it is abnormal, but it signals the kidneys conserving water, which fits a deficit.",
+   "takeaway": "Fluid excess: rapid weight gain, crackles, distended neck veins, and edema.",
+   "hintContent": "Ask which findings show fluid accumulating in the vessels, lungs, or tissues.",
+   "hintStrategy": "In SATA, an abnormal finding is only correct if it matches the specific problem in the stem."
+  },
+  {
+   "id": "m6-x2-070",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "cjmm": "Recognize Cues",
+   "focus": "Nursing Interventions",
+   "stem": "A 55-year-old client after abdominal surgery has a nasogastric tube, a wound drain, and an indwelling catheter. Which items should the nurse include in the output total? Select all that apply.",
+   "options": [
+    "Urine from the catheter bag",
+    "Nasogastric drainage",
+    "Wound drain output",
+    "Emesis",
+    "Fluid lost through sweating",
+    "Water vapor lost through breathing"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Urine is the main measured output.",
+    "Correct. NG drainage is measured fluid leaving the body.",
+    "Correct. Drain output is measurable and counts.",
+    "Correct. Vomit is measured and recorded as output.",
+    "Incorrect. Sweat is an insensible loss; it cannot be measured, so it is not in the I&O total.",
+    "Incorrect. Water vapor from the lungs is an insensible loss and is not measured."
+   ],
+   "rationale": "Output includes all measurable fluid leaving the body: urine, liquid stool, emesis, nasogastric drainage, wound and drain output, and bleeding. These are sensible losses. Insensible losses, through the skin and lungs, cannot be measured and are not included in I&O totals, but they still affect hydration, especially with fever, heat, or fast breathing. Sweat is tempting to include because it is visible, but it cannot be accurately measured.",
+   "takeaway": "Output = every measurable loss (urine, stool, emesis, NG, drains, bleeding); insensible losses are not totaled.",
+   "hintContent": "Separate sensible (measurable) from insensible (unmeasurable) losses.",
+   "hintStrategy": "For each option ask: can this be collected and measured in milliliters?"
+  },
+  {
+   "id": "m6-x2-071",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "cjmm": "Generate Solutions",
+   "focus": "Assessment Findings",
+   "stem": "A 62-year-old client is suspected of having a water deficit. The nurse wants data that show how concentrated the client's body fluids are. Which data should the nurse review? Select all that apply.",
+   "options": [
+    "Serum osmolality",
+    "Urine specific gravity",
+    "Hematocrit",
+    "Urine osmolality",
+    "Serum potassium",
+    "Daily weight trend"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Serum osmolality measures the concentration of particles in the blood.",
+    "Correct. Specific gravity shows how concentrated the urine is.",
+    "Correct. Hematocrit rises when blood is concentrated and falls when it is diluted.",
+    "Correct. Urine osmolality shows how much the kidneys are concentrating the urine.",
+    "Incorrect. Potassium is an electrolyte value, monitored separately with lab values.",
+    "Incorrect. Daily weight measures fluid volume, not concentration."
+   ],
+   "rationale": "The nurse monitors three things: volume (I&O, daily weights, physical assessment), concentration (serum and urine osmolality, specific gravity, hematocrit, and the type of IV fluid ordered), and electrolytes (lab values). When the body is short on water, the concentration measures tend to rise together. Daily weight is tempting because it is the best measure of fluid change, but it tracks volume, not concentration.",
+   "takeaway": "Concentration tools: serum and urine osmolality, specific gravity, and hematocrit.",
+   "hintContent": "Match each tool to volume, concentration, or electrolytes.",
+   "hintStrategy": "Sort options into categories first; select only the ones in the category the stem asks for."
+  },
+  {
+   "id": "m6-x2-072",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "stem": "A 48-year-old client is 2 days after surgery. The nurse compares today's vital signs with the preoperative baseline (see exhibit). Which current findings suggest the client's fluid volume is low or fluid losses are increasing? Select all that apply.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Vital signs",
+      "table": {
+       "headers": [
+        "Measure",
+        "Preoperative baseline",
+        "Today 1000"
+       ],
+       "rows": [
+        [
+         "Temperature",
+         "37.0°C",
+         "39.1°C"
+        ],
+        [
+         "Heart rate",
+         "78/min",
+         "108/min"
+        ],
+        [
+         "Respiratory rate",
+         "16/min",
+         "28/min, deep"
+        ],
+        [
+         "BP sitting",
+         "124/76 mm Hg",
+         "126/78 mm Hg"
+        ],
+        [
+         "BP lying → standing",
+         "122/76 → 120/74 mm Hg",
+         "120/74 → 98/60 mm Hg"
+        ],
+        [
+         "SpO2",
+         "98%",
+         "98%"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Heart rate 108/min",
+    "BP drops from 120/74 lying to 98/60 standing",
+    "Temperature 39.1°C",
+    "Respiratory rate 28/min and deep",
+    "Blood pressure 126/78 mm Hg sitting",
+    "Oxygen saturation 98% on room air"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The heart rate rises to keep blood moving when volume drops.",
+    "Correct. A fall in blood pressure on standing suggests low circulating volume.",
+    "Correct. Fever increases fluid loss through the skin and lungs.",
+    "Correct. Fast, deep breathing increases insensible water loss through the lungs.",
+    "Incorrect. This is close to the client's baseline and does not suggest low volume.",
+    "Incorrect. A normal oxygen saturation does not reflect fluid volume."
+   ],
+   "rationale": "Vital signs are fluid clues, and each is compared with the client's own baseline. When volume drops, the heart rate rises and blood pressure may fall, especially on standing. Fever and fast, deep breathing increase insensible losses through the skin and lungs, which are not captured in I&O. A sitting blood pressure near baseline is tempting to select, but it does not suggest a deficit, which is why the nurse also checks the pressure on standing.",
+   "takeaway": "Rising pulse, a drop in BP on standing, fever, and fast breathing all point to low volume or increasing losses.",
+   "hintContent": "Compare each vital sign with the baseline and ask how it relates to volume or insensible loss.",
+   "hintStrategy": "Use the baseline given in the stem; a value is significant when it changes from the client's own normal."
+  },
+  {
+   "id": "m6-x2-073",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-iv-solutions"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "The nurse is reviewing the histories of several clients. None has bleeding or a recent blood transfusion. In which clients would the nurse expect the hematocrit to be higher than the client's usual level? Select all that apply.",
+   "options": [
+    "Three days of vomiting with little oral intake",
+    "Working outdoors in the heat with heavy sweating",
+    "Several days of profuse watery diarrhea",
+    "Rapid infusion of 3 L of 0.9% sodium chloride",
+    "Drinking 6 L of plain water in a few hours",
+    "Several boluses of lactated Ringer's"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Losing water concentrates the red cells in less plasma (hemoconcentration).",
+    "Correct. Heavy sweating removes water, so the hematocrit rises.",
+    "Correct. Fluid lost through diarrhea concentrates the blood.",
+    "Incorrect. Large volumes of isotonic fluid dilute the red cells, lowering the hematocrit.",
+    "Incorrect. Excess water dilutes the blood, lowering the hematocrit.",
+    "Incorrect. Isotonic boluses add plasma volume and dilute the hematocrit."
+   ],
+   "rationale": "Hematocrit is the percentage of blood made up of red cells, so it changes with the amount of fluid in the blood, not just the number of cells. When the body loses water through vomiting, sweating, or diarrhea, the same red cells are packed into less fluid and the hematocrit rises (hemoconcentration). When fluid is added, by isotonic IV fluids or large water intake, the hematocrit falls (hemodilution). The IV fluid options are tempting because they change volume, but they push the percentage down.",
+   "takeaway": "Water loss raises the hematocrit; added fluid lowers it.",
+   "hintContent": "Use the orange juice and pulp analogy: what happens to the percentage when water is removed?",
+   "hintStrategy": "Decide whether each situation removes or adds water, then match the direction to the stem."
+  },
+  {
+   "id": "m6-x2-074",
+   "type": "sata",
+   "topic": "fe-assessment-diagnostics",
+   "alsoTests": [
+    "fe-intake-output"
+   ],
+   "ref": "Module 6 · Fluids & Electrolytes · Fluid & Electrolyte Assessment, Daily Weights & Diagnostic Tests",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "stem": "A 79-year-old client's serum osmolality is 308 mOsm/kg after several days of low fluid intake. Which responses would the nurse expect the body to make? Select all that apply.",
+   "options": [
+    "Increased thirst",
+    "Release of antidiuretic hormone (ADH)",
+    "Kidneys conserving water",
+    "Urine with a higher specific gravity",
+    "Large volumes of pale, dilute urine",
+    "A drop in serum sodium concentration"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. When the blood is too concentrated, the body triggers thirst.",
+    "Correct. ADH is released so the kidneys hold on to water.",
+    "Correct. Under ADH's effect, the kidneys reabsorb water.",
+    "Correct. Conserving water produces concentrated urine with a higher specific gravity.",
+    "Incorrect. Dilute urine is how the body gets rid of extra water, the opposite situation.",
+    "Incorrect. Sodium is the main contributor to serum osmolality; with a water deficit it tends to rise, not fall."
+   ],
+   "rationale": "Serum osmolality above 300 mOsm/kg means the blood is too concentrated. The body responds by triggering thirst and releasing ADH so the kidneys hold on to water, producing a smaller volume of concentrated urine with a higher specific gravity. Older adults have a decreased thirst sensation, so this client may not drink even when the signal is present. Pale, dilute urine is tempting because the kidneys are \"responding,\" but that response belongs to excess water.",
+   "takeaway": "High serum osmolality: thirst plus ADH, so the kidneys save water and the urine concentrates.",
+   "hintContent": "Ask what the body does to correct blood that is too concentrated.",
+   "hintStrategy": "Predict the body's response first, then select the options that match your prediction."
+  }
+ ]
+}

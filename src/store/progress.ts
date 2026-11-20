@@ -59,6 +59,9 @@ interface ProgressState {
   sessions: Session[];
   days: Record<string, DayStat>;
   active: Session | null;
+  /** Last lesson opened ("moduleId:topicId"), for "continue reading". */
+  lastTopic: string | null;
+  setLastTopic: (key: string) => void;
   recordAttempt: (qid: string, a: Attempt) => void;
   markRead: (key: string) => void;
   rateCard: (key: string, known: boolean) => void;
@@ -81,6 +84,8 @@ export const useProgress = create<ProgressState>()(
       sessions: [],
       days: {},
       active: null,
+      lastTopic: null,
+      setLastTopic: (key) => set((s) => (s.lastTopic === key ? s : { lastTopic: key })),
 
       recordAttempt: (qid, a) =>
         set((s) => {

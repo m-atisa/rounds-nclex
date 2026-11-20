@@ -1,0 +1,2105 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m10",
+  "moduleNumber": 10,
+  "moduleTitle": "Inflammation",
+  "questions": [
+    {
+      "id": "m10-x3-001",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "alsoTests": [],
+      "stem": "A client who has taken prednisone 15 mg daily for 8 months for rheumatoid arthritis was admitted 2 days ago with a bowel obstruction and has been NPO with a nasogastric tube to suction. No steroid has been given since admission. The client now reports severe weakness and dizziness. BP is 84/50 mm Hg (baseline 128/76), HR 112/min. Which action should the nurse take first?",
+      "options": [
+        "Give the home prednisone dose through the nasogastric tube",
+        "Encourage the client to sip water slowly to replace lost fluid",
+        "Notify the provider of possible adrenal insufficiency",
+        "Reassure the client that weakness is expected while NPO"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The tube is on suction, so a crushed tablet would be suctioned out, and the nurse cannot change the route without a prescription.",
+        "Incorrect. The client is NPO for a bowel obstruction, and oral fluid would not correct the missing cortisol.",
+        "Correct. Long-term prednisone suppresses the adrenal glands, so 2 days without any steroid can leave the body without cortisol; weakness, dizziness, and hypotension are the warning signs and need prompt provider action (such as a parenteral steroid).",
+        "Incorrect. This dismisses a potentially life-threatening drop in BP that has a clear cause."
+      ],
+      "rationale": "Months of prednisone cause the adrenal glands to stop making their own cortisol. When the drug stops suddenly, even unintentionally because a client is NPO, the body has no cortisol, and adrenal insufficiency causes weakness, dizziness, and low BP. This is an acute, unstable change, so the nurse reports it immediately so the provider can order a steroid by a route the client can receive. Giving the tablet down a suctioned tube is tempting because it seems to solve the missed dose, but the drug would be removed by suction and the route change needs an order.",
+      "takeaway": "A client on long-term steroids who suddenly cannot take them and becomes weak, dizzy, and hypotensive needs immediate provider notification for possible adrenal insufficiency.",
+      "hintContent": "Think about what months of an outside steroid do to the body's own cortisol production.",
+      "hintStrategy": "When the stem gives a clear cause for unstable vital signs that the nurse cannot fix independently, choose the action that gets the provider involved now."
+    },
+    {
+      "id": "m10-x3-002",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Recognize Cues",
+      "focus": "Pharmacology",
+      "alsoTests": [],
+      "stem": "A 46-year-old client with low back pain tells the clinic nurse, \"I take extra-strength acetaminophen 1,000 mg four times a day, and at bedtime I take a nighttime cold-and-flu liquid.\" The client drinks three glasses of wine most evenings. Which action should the nurse take first?",
+      "options": [
+        "Check whether the cold-and-flu liquid also contains acetaminophen",
+        "Suggest taking the acetaminophen with food to protect the stomach",
+        "Recommend adding ibuprofen to control the back pain better",
+        "Advise the client to apply a warm pack to the lower back at night"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The client is already at 4 g/day, the usual maximum, and drinks alcohol regularly; a hidden dose of acetaminophen in the combination product would push the total higher and raise the risk of liver damage.",
+        "Incorrect. Acetaminophen does not irritate the stomach; the risk here is to the liver, not the GI lining.",
+        "Incorrect. Adding a second drug does not address the possible acetaminophen overdose that must be assessed first.",
+        "Incorrect. Heat may help comfort, but it does not address the immediate safety risk of too much acetaminophen."
+      ],
+      "rationale": "Acetaminophen's main danger is liver damage when the daily maximum is exceeded, and the safe limit is lower with regular alcohol use. This client is already taking 4 g/day, and many combination cold products contain more acetaminophen. The first step is to assess the actual total dose by checking the label of the second product. Recommending ibuprofen is tempting because it seems like better pain control, but it skips the assessment of a potential overdose.",
+      "takeaway": "Always count the acetaminophen hidden in combination products, especially when a client drinks alcohol regularly.",
+      "hintContent": "Which organ is at risk with acetaminophen, and what makes that risk higher in this client?",
+      "hintStrategy": "Assess before acting: when a stem hints at a hidden overdose, the first step is to gather the missing data that confirms it."
+    },
+    {
+      "id": "m10-x3-003",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Analyze Cues",
+      "focus": "Pharmacology",
+      "alsoTests": [
+        "lifespan"
+      ],
+      "stem": "Refer to the exhibit. A 79-year-old client was admitted with 2 days of vomiting and diarrhea. The scheduled 1200 medications are due. Which action should the nurse take first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "MAR",
+            "table": {
+              "headers": [
+                "Medication",
+                "Dose / route",
+                "Schedule"
+              ],
+              "rows": [
+                [
+                  "Ibuprofen",
+                  "400 mg PO",
+                  "Every 6 hours (0600, 1200, 1800, 2400)"
+                ],
+                [
+                  "Ondansetron",
+                  "4 mg IV",
+                  "Every 6 hours PRN nausea"
+                ],
+                [
+                  "Acetaminophen",
+                  "650 mg PO",
+                  "Every 6 hours PRN pain or fever"
+                ],
+                [
+                  "Lactated Ringer's",
+                  "100 mL/hr IV",
+                  "Continuous"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "Labs & I/O",
+            "table": {
+              "headers": [
+                "Item",
+                "Admission",
+                "Today 1100"
+              ],
+              "rows": [
+                [
+                  "Creatinine (mg/dL)",
+                  "1.0 (baseline)",
+                  "2.1"
+                ],
+                [
+                  "BUN (mg/dL)",
+                  "18",
+                  "38"
+                ],
+                [
+                  "Urine output",
+                  "—",
+                  "90 mL in the past 6 hours"
+                ],
+                [
+                  "BP (mm Hg)",
+                  "118/70",
+                  "104/62"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Give the ibuprofen with milk to protect the stomach lining",
+        "Give the ibuprofen with a full glass of water to support the kidneys",
+        "Give the ibuprofen and plan to recheck the creatinine tomorrow",
+        "Hold the ibuprofen and notify the provider of the kidney findings"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Milk addresses GI irritation, but the urgent problem is reduced kidney blood flow, which milk does not change.",
+        "Incorrect. A glass of water will not offset an NSAID's effect on kidney blood flow in a client whose kidney function is already falling.",
+        "Incorrect. Waiting a day allows further kidney injury when the cause is identifiable now.",
+        "Correct. The creatinine has doubled and urine output is low in a dehydrated older adult; NSAIDs block the prostaglandins that keep blood flowing to the kidneys, so another dose could worsen the kidney injury."
+      ],
+      "rationale": "Prostaglandins help maintain blood flow to the kidneys, and NSAIDs block them. In an older adult who is volume depleted from vomiting and diarrhea, that loss of kidney blood flow can cause acute kidney injury, which the rising creatinine and BUN and the low urine output already suggest. The safe action is to hold the NSAID and report the findings so the provider can reconsider the prescription. Giving it with water is tempting because hydration sounds protective, but a single glass will not reverse the drug's effect on an already injured kidney.",
+      "takeaway": "Hold an NSAID and notify the provider when an older or dehydrated client shows a rising creatinine or falling urine output.",
+      "hintContent": "Compare today's creatinine with the baseline and think about what NSAIDs do to kidney blood flow.",
+      "hintStrategy": "In an exhibit item, find the abnormal trend first, then match it to the drug on the MAR that can worsen it."
+    },
+    {
+      "id": "m10-x3-004",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Pharmacology",
+      "alsoTests": [
+        "lifespan"
+      ],
+      "stem": "The parent of a 12-year-old with chickenpox calls the pediatric clinic. The parent gave the child aspirin for itching and fever 2 days ago. Today the child has vomited repeatedly, is very sleepy, and \"isn't making sense.\" Which instruction should the nurse give the parent?",
+      "options": [
+        "Switch to acetaminophen and call back if the fever rises",
+        "Bring the child to the emergency department now",
+        "Give small sips of clear liquids and keep the child resting",
+        "Schedule an office visit for tomorrow morning"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Changing the antipyretic does not address the neurologic changes, which need immediate evaluation.",
+        "Correct. Vomiting, lethargy, and confusion after aspirin during a viral illness are early signs of Reye syndrome, which can progress to brain and liver injury and needs emergency evaluation.",
+        "Incorrect. This treats the vomiting as simple gastroenteritis and delays care for possible Reye syndrome.",
+        "Incorrect. New confusion in a child is an emergency; waiting overnight risks rapid deterioration."
+      ],
+      "rationale": "Aspirin given to a child or teen during a viral illness such as chickenpox or influenza is linked to Reye syndrome. It begins with vomiting, lethargy, and confusion and can progress to brain and liver injury. A change in mental status is never managed at home over the phone, so the child needs emergency evaluation now. Switching to acetaminophen is tempting because it fixes the drug error going forward, but it ignores the neurologic signs that are already present.",
+      "takeaway": "Child or teen + viral illness + aspirin + vomiting and confusion = possible Reye syndrome; send for emergency care.",
+      "hintContent": "Connect the drug, the type of illness, and the child's age to a specific syndrome.",
+      "hintStrategy": "In phone triage, a change in level of consciousness always means the client must be seen now."
+    },
+    {
+      "id": "m10-x3-005",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "alsoTests": [],
+      "stem": "A nurse on a medical unit receives report on four clients who are taking anti-inflammatory medications. Which client should the nurse assess first?",
+      "options": [
+        "A client on prednisone for 3 months who is upset about a rounder face",
+        "A client on high-dose aspirin with new ringing in the ears and RR 28/min",
+        "A client on naproxen with mild heartburn after taking a dose without food",
+        "A client on acetaminophen for fever whose temperature is now 37.8 °C"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Moon face is an expected effect of long-term steroids; the body-image concern matters but is not physically urgent.",
+        "Correct. Tinnitus with rapid, deep breathing are signs of salicylate toxicity, an acute and potentially worsening drug reaction that needs assessment first.",
+        "Incorrect. Mild GI upset without signs of bleeding can be addressed with teaching after the unstable client is seen.",
+        "Incorrect. A falling temperature after an antipyretic shows the drug is working and is not urgent."
+      ],
+      "rationale": "Salicylate toxicity starts with tinnitus and hearing loss and also causes nausea, vomiting, hyperventilation, and confusion. A client with new tinnitus and a fast, deep breathing pattern is showing a systemic drug reaction that can worsen, so that client is seen first. Moon face and heartburn are expected or minor effects that are stable. The heartburn is tempting because NSAIDs can cause GI bleeding, but mild heartburn without dark stools or dizziness is not yet a sign of bleeding.",
+      "takeaway": "New tinnitus plus rapid breathing in a client on high-dose aspirin is an acute toxicity sign that is assessed first.",
+      "hintContent": "Which finding is an early sign of toxicity for one of these drug groups, rather than a common or expected effect?",
+      "hintStrategy": "Separate expected or mild side effects from signs of an acute, worsening reaction; the acute reaction comes first."
+    },
+    {
+      "id": "m10-x3-006",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Analyze Cues",
+      "focus": "Pharmacology",
+      "alsoTests": [],
+      "stem": "Refer to the exhibit. A client with ulcerative colitis has received IV methylprednisolone for 5 days. The client reports leg cramps and feeling \"weak and fluttery.\" Which result should the nurse report to the provider first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Laboratory Results",
+            "table": {
+              "headers": [
+                "Test",
+                "Result",
+                "Reference range"
+              ],
+              "rows": [
+                [
+                  "Potassium",
+                  "2.9 mEq/L",
+                  "3.5–5.0 mEq/L"
+                ],
+                [
+                  "Glucose (fasting)",
+                  "134 mg/dL",
+                  "70–99 mg/dL"
+                ],
+                [
+                  "Sodium",
+                  "141 mEq/L",
+                  "135–145 mEq/L"
+                ],
+                [
+                  "Hemoglobin",
+                  "12.8 g/dL",
+                  "12–16 g/dL"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Fasting glucose 134 mg/dL",
+        "Sodium 141 mEq/L",
+        "Hemoglobin 12.8 g/dL",
+        "Potassium 2.9 mEq/L"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Steroids raise glucose, and this mild elevation should be reported, but it is less immediately dangerous than severe hypokalemia.",
+        "Incorrect. This sodium value is within the normal range.",
+        "Incorrect. This hemoglobin is normal and does not suggest bleeding.",
+        "Correct. Corticosteroids lower potassium, and a level this low with cramps and a fluttery feeling can cause dangerous heart rhythms, so it is reported first."
+      ],
+      "rationale": "Corticosteroids cause hypokalemia and hyperglycemia, so both abnormal values are expected adverse effects to monitor. The priority goes to the one that threatens life soonest: a potassium of 2.9 mEq/L, below the normal 3.5–5.0 range, with muscle cramps and palpitations, can lead to cardiac dysrhythmias. The glucose is tempting because steroid-induced hyperglycemia is well known, but a mildly elevated glucose is not an immediate threat to the heart.",
+      "takeaway": "On corticosteroids, watch glucose and potassium; a low potassium with symptoms is reported first.",
+      "hintContent": "Two of these values are expected steroid effects; ask which one could affect the heart rhythm.",
+      "hintStrategy": "When more than one lab is abnormal, choose the one most likely to cause an immediate life-threatening problem."
+    },
+    {
+      "id": "m10-x3-007",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A 52-year-old client with osteoarthritis says, \"I take naproxen in the morning, and when my knees still hurt at night, I take a couple of ibuprofen tablets so I get better relief.\" Which response by the nurse is the priority?",
+      "options": [
+        "\"Taking two NSAIDs together raises bleeding risk without added relief.\"",
+        "\"Ibuprofen works best when you take it on an empty stomach.\"",
+        "\"Try a warm shower at night instead of extra pills for stiffness.\"",
+        "\"It is fine to combine them as long as you stay well hydrated.\""
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Naproxen and ibuprofen are both NSAIDs; combining them doubles the risk of GI bleeding and kidney injury without extra benefit, so this is the safety teaching to give first.",
+        "Incorrect. NSAIDs should be taken with food or milk to reduce GI irritation, so this statement is also inaccurate.",
+        "Incorrect. Heat may help chronic stiffness, but this does not explain the danger of the current drug combination.",
+        "Incorrect. Hydration does not remove the doubled bleeding and kidney risk of using two NSAIDs."
+      ],
+      "rationale": "Ibuprofen and naproxen both block prostaglandin production, so taking them together doubles the risk of stomach bleeding, kidney injury, and fluid retention without improving pain relief. The priority teaching names the safety risk so the client stops combining them and talks with the provider about pain control. Suggesting a warm shower is tempting because it offers a helpful alternative, but it leaves the unsafe combination unaddressed.",
+      "takeaway": "Never combine two NSAIDs; it doubles the risk without adding benefit.",
+      "hintContent": "Identify the drug class of each product the client is taking.",
+      "hintStrategy": "When a client describes an unsafe medication practice, the priority response directly corrects the danger."
+    },
+    {
+      "id": "m10-x3-008",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A client with systemic lupus erythematosus has been prescribed prednisone 20 mg daily. At a follow-up visit the client says, \"I take it at bedtime on an empty stomach so it doesn't upset me during the day.\" Which response by the nurse is best?",
+      "options": [
+        "\"Bedtime is fine, but take it with a full glass of milk instead.\"",
+        "\"Taking it on an empty stomach helps it absorb and work faster.\"",
+        "\"Take it in the morning with breakfast to match your body's natural rhythm.\"",
+        "\"Split it into two doses so the side effects are less noticeable.\""
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Milk helps the stomach, but bedtime dosing still increases insomnia and does not match the body's cortisol rhythm.",
+        "Incorrect. Steroids should be taken with food to protect the stomach lining.",
+        "Correct. Morning dosing with food matches the natural cortisol rhythm, reduces sleep problems, and lowers the risk of stomach irritation and ulcers.",
+        "Incorrect. Changing the dosing schedule requires a prescriber; this is not standard teaching for daily prednisone."
+      ],
+      "rationale": "Prednisone is taken in the morning with food. Morning dosing matches the body's normal cortisol peak and reduces trouble sleeping, and food reduces the risk of stomach irritation and ulcers. This client has both the timing and the food wrong. The milk option is tempting because it fixes the stomach concern, but it leaves the bedtime timing that causes insomnia.",
+      "takeaway": "Teach clients to take daily prednisone in the morning with food.",
+      "hintContent": "Two parts of the client's routine are wrong: the time and the stomach.",
+      "hintStrategy": "Choose the response that corrects every error in the client's statement, not just one."
+    },
+    {
+      "id": "m10-x3-009",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A client who has taken prednisone for 2 years for asthma is scheduled for a tooth extraction next week. Which statement by the client indicates that the medication teaching was effective?",
+      "options": [
+        "\"I'll skip my prednisone the day of the procedure.\"",
+        "\"My dentist doesn't need my medication list for a tooth.\"",
+        "\"I'll double my dose that morning to prevent infection.\"",
+        "\"I'll tell the dentist that I take prednisone every day.\""
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Skipping doses of a long-term steroid can trigger adrenal insufficiency.",
+        "Incorrect. Steroids slow healing and hide infection, so the dentist must know.",
+        "Incorrect. Clients do not change steroid doses on their own; any adjustment is made by the prescriber.",
+        "Correct. Every provider, including dentists and surgeons, needs to know about long-term steroid use because it affects healing, infection risk, and stress-dose needs."
+      ],
+      "rationale": "Long-term steroids slow wound healing, mask infection, and suppress the adrenal glands. For that reason, clients are taught to tell every provider, including dentists, that they take a steroid. Skipping the dose is the most tempting wrong answer because clients often think fewer drugs is safer before a procedure, but stopping a long-term steroid suddenly can cause adrenal insufficiency.",
+      "takeaway": "Clients on long-term steroids tell every provider, including the dentist, and never skip doses on their own.",
+      "hintContent": "Think about who needs to know about steroid use and why.",
+      "hintStrategy": "For \"teaching was effective,\" pick the statement a fully informed client would make; reject any self-directed dose change."
+    },
+    {
+      "id": "m10-x3-010",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 3,
+      "cjmm": "Generate Solutions",
+      "focus": "Pharmacology",
+      "alsoTests": [],
+      "stem": "The nurse is reviewing PRN analgesic options for four clients. For which client is acetaminophen a better choice than an NSAID?",
+      "options": [
+        "A client with an acutely swollen ankle sprained yesterday",
+        "A client with a duodenal ulcer who has a fever and headache",
+        "A client with tendinitis of the elbow and local swelling",
+        "A young adult client with painful menstrual cramps"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. An NSAID treats the swelling and pain of an acute sprain; acetaminophen does little for inflammation.",
+        "Correct. Acetaminophen relieves fever and headache without irritating the stomach or increasing bleeding, which matters in a client with an ulcer.",
+        "Incorrect. Tendinitis is an inflammatory problem that an NSAID treats better than acetaminophen.",
+        "Incorrect. Menstrual cramps are prostaglandin-driven, so an NSAID is the more effective choice."
+      ],
+      "rationale": "Acetaminophen relieves pain and fever but has little anti-inflammatory effect. Its advantage is that it does not irritate the stomach or cause GI bleeding, so it is the safer option for a client with an ulcer who needs fever and pain relief. NSAIDs are preferred when swelling or prostaglandin-driven pain is the problem. The sprained ankle is tempting because pain relief is needed, but acetaminophen would not reduce the swelling.",
+      "takeaway": "Choose acetaminophen when the stomach must be protected and swelling is not the problem; choose an NSAID when inflammation is.",
+      "hintContent": "Ask whether each problem is inflammatory and whether the client has a reason to avoid NSAIDs.",
+      "hintStrategy": "Look for the one client with a contraindication to the more common choice."
+    },
+    {
+      "id": "m10-x3-011",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Pharmacology",
+      "alsoTests": [],
+      "stem": "A 66-year-old client with osteoarthritis has taken aspirin 650 mg every 6 hours with meals for 2 weeks. Which finding best indicates that the drug is having its intended effect?",
+      "options": [
+        "The client reports a faint ringing in both ears since yesterday",
+        "Stools have become darker and stickier this week",
+        "Knee pain has dropped from 7/10 to 3/10, with less swelling",
+        "Small bruises appear on the forearms after minor bumps"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Tinnitus is an early sign of salicylate toxicity, not a therapeutic effect.",
+        "Incorrect. Dark, sticky stools suggest GI bleeding, an adverse effect that must be reported.",
+        "Correct. Aspirin is given to reduce inflammation and pain, so less pain and swelling show a therapeutic response.",
+        "Incorrect. Bruising reflects the antiplatelet effect and possible bleeding risk, not relief of arthritis."
+      ],
+      "rationale": "To evaluate a drug, compare the finding with the reason it was given. Aspirin was given here to reduce inflammation and pain, so a lower pain rating and less joint swelling show it is working. Tinnitus, dark stools, and easy bruising are adverse effects. Bruising is tempting because it shows the drug is \"active,\" but the antiplatelet effect is a risk to monitor, not the goal for arthritis.",
+      "takeaway": "Evaluate a drug against its purpose: for aspirin in arthritis, less pain and swelling mean it is working.",
+      "hintContent": "Why was aspirin prescribed for this client?",
+      "hintStrategy": "For \"intended effect\" items, match the finding to the therapeutic goal and reject any finding that is a side effect."
+    },
+    {
+      "id": "m10-x3-012",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "alsoTests": [
+        "nursing-interventions"
+      ],
+      "stem": "On postoperative day 1 after a colectomy for ulcerative colitis, a client receiving PRN IV morphine asks, \"Is the morphine also calming the inflammation so my bowel heals faster?\" Which response by the nurse is most accurate?",
+      "options": [
+        "\"Morphine treats pain, not inflammation, but good pain control helps you recover.\"",
+        "\"Yes, morphine blocks the chemicals that cause swelling around the incision.\"",
+        "\"Morphine is a steroid-like drug that reduces both pain and swelling.\"",
+        "\"No, so you should use as little as possible to avoid slowing healing.\""
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Opioids do not reduce inflammation; they relieve severe pain so the client can breathe deeply, use the incentive spirometer, and walk, which prevents complications.",
+        "Incorrect. Opioids do not block prostaglandins or reduce swelling.",
+        "Incorrect. Morphine is an opioid, not a corticosteroid.",
+        "Incorrect. Undertreating pain blocks deep breathing and walking and increases the risk of complications."
+      ],
+      "rationale": "Opioids are used for severe pain and do not treat inflammation itself. After surgery for an inflammatory problem, though, pain control is part of healing: a client who hurts too much will not deep breathe, use the incentive spirometer, or walk. The accurate response corrects the misconception and explains why the drug still matters. Telling the client to use as little as possible is tempting because it sounds cautious, but it promotes undertreated pain and complications.",
+      "takeaway": "Opioids relieve pain but not inflammation; controlling pain lets the client breathe deeply and walk.",
+      "hintContent": "Which drug groups in this module actually block prostaglandins?",
+      "hintStrategy": "Choose the answer that corrects the client's misunderstanding and still supports the plan of care."
+    },
+    {
+      "id": "m10-x3-013",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 3,
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "A 68-year-old client with hypertension has taken naproxen 500 mg twice daily for 4 months for hip osteoarthritis. Which new finding is most likely an adverse effect of the naproxen?",
+      "options": [
+        "Ringing in the ears and a mild loss of hearing",
+        "A round face, acne, and trouble sleeping",
+        "Weight gain of 2 kg in a week, ankle edema, and BP 156/94",
+        "Yellowing of the whites of the eyes and right upper abdominal pain"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Tinnitus is the classic early sign of salicylate (aspirin) toxicity; it is uncommon with naproxen and does not fit this client's picture as well as fluid retention.",
+        "Incorrect. These are features of long-term corticosteroid use, not NSAID use.",
+        "Correct. NSAIDs cause fluid retention and a rise in BP and carry a boxed warning for heart attack and stroke, especially with long-term use and heart disease.",
+        "Incorrect. Liver damage is the main concern with acetaminophen overdose, not with naproxen."
+      ],
+      "rationale": "NSAIDs block the prostaglandins involved in kidney blood flow and sodium balance, so long-term use can cause fluid retention, weight gain, edema, and higher BP. They also carry a boxed warning for heart attack and stroke. This client has hypertension, which raises the concern. Tinnitus is tempting because it is a well-known anti-inflammatory side effect, but it belongs to aspirin toxicity.",
+      "takeaway": "Long-term NSAIDs can cause fluid retention and higher BP; report weight gain and swelling.",
+      "hintContent": "Match each cluster of findings to the drug group it is classic for.",
+      "hintStrategy": "For look-alike drug groups, link each adverse effect to its specific drug before choosing."
+    },
+    {
+      "id": "m10-x3-014",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "The nurse has taught a 34-year-old client with a fever and a swollen, painful knee about taking OTC acetaminophen. Which statements by the client indicate understanding of the teaching? Select all that apply.",
+      "options": [
+        "\"I'll read cold medicine labels to see if they contain acetaminophen.\"",
+        "\"Drinking a few beers each night won't change how much I can take.\"",
+        "\"Because it is sold over the counter, I can take it as often as I need.\"",
+        "\"I won't take more than the maximum daily dose listed on the label.\"",
+        "\"This will help my fever but won't do much for the swelling in my knee.\""
+      ],
+      "answer": [
+        0,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Combination products often contain hidden acetaminophen that adds to the daily total.",
+        "Incorrect. Regular alcohol use lowers the safe daily amount because both stress the liver.",
+        "Incorrect. OTC does not mean risk-free; the daily maximum still applies.",
+        "Correct. Exceeding the daily maximum is the main cause of acetaminophen liver damage.",
+        "Correct. Acetaminophen relieves pain and fever but has very little anti-inflammatory effect."
+      ],
+      "rationale": "Acetaminophen relieves pain and fever but does little for inflammation, so swelling will not improve with it. Its main danger is liver damage, which is more likely when clients exceed the daily maximum, take hidden doses in combination products, or drink alcohol regularly. A client who understands will read labels, respect the limit, and know what the drug will and will not do. The \"over the counter\" statement is tempting because many clients believe OTC means safe, but OTC products still have dose limits.",
+      "takeaway": "Acetaminophen: pain and fever only, respect the daily maximum, count hidden doses, and use less with alcohol.",
+      "hintContent": "Think about the liver and what acetaminophen does not treat.",
+      "hintStrategy": "For SATA teaching items, judge each statement on its own as true or false; do not try to guess how many are correct."
+    },
+    {
+      "id": "m10-x3-015",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "alsoTests": [
+        "lifespan"
+      ],
+      "stem": "An urgent care nurse is screening several clients before giving aspirin for pain or fever under a standing order. For which clients should the nurse withhold the aspirin and consult the provider? Select all that apply.",
+      "options": [
+        "A 6-year-old with chickenpox and a fever of 38.7 °C",
+        "A 58-year-old who takes warfarin for atrial fibrillation",
+        "A 35-year-old with a sprained wrist who takes only a multivitamin",
+        "A 47-year-old with a bleeding gastric ulcer diagnosed last week",
+        "A 40-year-old with a tension headache and no other conditions"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Aspirin in a child with a viral illness is linked to Reye syndrome.",
+        "Correct. Aspirin's antiplatelet effect plus an anticoagulant greatly increases bleeding risk.",
+        "Incorrect. Acute inflammation in an adult without risk factors is an appropriate use.",
+        "Correct. Aspirin blocks protective stomach prostaglandins and worsens ulcer bleeding.",
+        "Incorrect. A healthy adult with a headache has no contraindication to aspirin."
+      ],
+      "rationale": "Aspirin reduces inflammation, pain, and fever, but it also makes platelets less sticky and blocks prostaglandins that protect the stomach lining. That makes it unsafe with anticoagulants and with an active ulcer. In children and teens with a viral illness such as chickenpox, aspirin is linked to Reye syndrome. The healthy adults with a headache or sprain have no contraindications. The sprained wrist is tempting to select because the nurse may think another drug is \"better,\" but it is an appropriate use in a client without risk factors.",
+      "takeaway": "Withhold aspirin for children with viral illness, clients on anticoagulants, and clients with active ulcers.",
+      "hintContent": "Think of the three dangers of aspirin: Reye syndrome, bleeding, and the stomach.",
+      "hintStrategy": "For each client, look for a specific risk factor in the stem; a client with no risk factor is not a \"question it\" client."
+    },
+    {
+      "id": "m10-x3-016",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "A client who took prednisone 30 mg daily for 5 months for sarcoidosis stopped it abruptly 3 days ago because of weight gain. The client calls the clinic. Which reported findings should the nurse recognize as possible signs of adrenal insufficiency? Select all that apply.",
+      "options": [
+        "A home BP reading of 86/54 mm Hg",
+        "Dizziness when standing up",
+        "A rounder face than before starting the drug",
+        "New acne on the face and upper back",
+        "A blood glucose of 168 mg/dL",
+        "Weakness that makes it hard to get out of a chair"
+      ],
+      "answer": [
+        0,
+        1,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Hypotension is a key sign that the body lacks cortisol.",
+        "Correct. Low cortisol leads to low BP, which causes dizziness, especially on standing.",
+        "Incorrect. Moon face is a sign of too much steroid and fades slowly after stopping.",
+        "Incorrect. Acne is an adverse effect of steroid excess, not of adrenal insufficiency.",
+        "Incorrect. High glucose is an effect of steroid therapy, not of cortisol deficiency.",
+        "Correct. Without cortisol the body cannot maintain energy and muscle function, causing weakness."
+      ],
+      "rationale": "Long-term steroid pills cause the adrenal glands to stop producing cortisol. When the drug is stopped suddenly, the body has too little cortisol, producing weakness, dizziness, and low BP. These are the opposite of steroid-excess effects such as moon face, acne, and high glucose, which reflect too much cortisol-like activity. High glucose is tempting because it is a famous steroid effect, but it reflects steroid excess, not withdrawal.",
+      "takeaway": "After abrupt steroid withdrawal, watch for weakness, dizziness, and low BP; steroids must be tapered.",
+      "hintContent": "Ask whether each finding reflects too much cortisol or too little.",
+      "hintStrategy": "Sort SATA options into two groups, \"too much\" versus \"too little,\" and select only the group the stem describes."
+    },
+    {
+      "id": "m10-x3-017",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A 61-year-old client with polymyalgia rheumatica will take prednisone for at least a year. The nurse is reinforcing teaching to reduce the long-term risks of therapy. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Avoid people who are sick and report even small signs of infection",
+        "Take an extra tablet on days when you feel more tired",
+        "Stop the prednisone if your face becomes round or puffy",
+        "Limit fluids to prevent the swelling that steroids cause",
+        "Do weight-bearing exercise such as walking most days",
+        "Take calcium and vitamin D supplements as prescribed"
+      ],
+      "answer": [
+        0,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Steroids suppress the immune response and mask fever and redness.",
+        "Incorrect. Clients do not adjust steroid doses on their own.",
+        "Incorrect. Moon face is expected; stopping suddenly risks adrenal insufficiency.",
+        "Incorrect. Fluid retention is monitored with weight and BP, not prevented by fluid restriction.",
+        "Correct. Weight-bearing exercise helps maintain bone strength during steroid therapy.",
+        "Correct. Long-term steroids cause bone loss, and calcium and vitamin D help protect bone density."
+      ],
+      "rationale": "Long-term corticosteroids affect almost every body system, including bone, immune function, and the adrenal glands. Calcium, vitamin D, and weight-bearing exercise protect against bone loss, and avoiding sick contacts while reporting subtle changes protects against masked infection. Clients never stop or change the dose on their own. Stopping for moon face is tempting because the change upsets many clients, but sudden withdrawal is dangerous; the body-image concern should be discussed with the provider instead.",
+      "takeaway": "Long-term steroids: protect bones, guard against masked infection, and never change the dose on your own.",
+      "hintContent": "Think about which body systems long-term steroids harm and what protects each one.",
+      "hintStrategy": "Reject any SATA option in which the client changes or stops a long-term steroid without the prescriber."
+    },
+    {
+      "id": "m10-x3-018",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "alsoTests": [],
+      "stem": "A client with type 2 diabetes who uses basal insulin is starting oral prednisone 40 mg daily for a severe asthma flare. Which actions should the nurse anticipate? Select all that apply.",
+      "options": [
+        "Expect that the insulin dose may need to be increased",
+        "Check capillary blood glucose more often than usual",
+        "Monitor the serum potassium level",
+        "Reduce the insulin dose to prevent hypoglycemia",
+        "Give the prednisone at bedtime to limit daytime side effects"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Steroid-induced hyperglycemia often requires more insulin or diabetes medication.",
+        "Correct. Steroids raise blood glucose, so closer monitoring is needed.",
+        "Correct. Corticosteroids lower potassium, so the level is monitored.",
+        "Incorrect. Steroids raise glucose; lowering insulin would worsen hyperglycemia.",
+        "Incorrect. Prednisone is given in the morning with food to match the cortisol rhythm and reduce insomnia."
+      ],
+      "rationale": "Corticosteroids raise blood glucose and lower potassium. A client with diabetes therefore needs more frequent glucose checks and may need more insulin, and potassium should be monitored. The dose is taken in the morning with food. Reducing insulin is tempting because clients on new drugs are sometimes at risk for hypoglycemia, but steroids push glucose up, not down.",
+      "takeaway": "Steroids raise glucose and lower potassium; clients with diabetes often need more insulin and closer monitoring.",
+      "hintContent": "Recall the direction steroids push glucose and potassium.",
+      "hintStrategy": "For anticipate-the-plan SATA items, first state the drug's effect, then select actions that respond to that effect."
+    },
+    {
+      "id": "m10-x3-019",
+      "topic": "pharmacology",
+      "ref": "Module 10 · Inflammation · Anti-inflammatory Pharmacology",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [
+        "lifespan"
+      ],
+      "stem": "An 81-year-old client with knee osteoarthritis has a new prescription for naproxen 500 mg twice daily. Before the first dose, which findings from the client's history should the nurse clarify with the prescriber? Select all that apply.",
+      "options": [
+        "Has chronic kidney disease with a recent eGFR of 24 mL/min/1.73 m²",
+        "Takes a daily calcium and vitamin D supplement",
+        "Wears hearing aids for age-related hearing loss",
+        "Takes apixaban, an anticoagulant, for atrial fibrillation",
+        "Was treated for a bleeding stomach ulcer last month",
+        "Has heart failure with ankle swelling at the end of the day"
+      ],
+      "answer": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Correct. NSAIDs reduce kidney blood flow further in advanced kidney disease.",
+        "Incorrect. These supplements do not interact meaningfully with naproxen.",
+        "Incorrect. Long-standing hearing loss is not a reason to question naproxen.",
+        "Correct. An NSAID plus an anticoagulant greatly increases the risk of serious bleeding.",
+        "Correct. NSAIDs block protective prostaglandins and worsen ulcers and bleeding.",
+        "Correct. NSAIDs cause fluid retention and raise cardiovascular risk, especially with heart disease."
+      ],
+      "rationale": "Because NSAIDs block prostaglandins throughout the body, they increase bleeding, reduce kidney blood flow, worsen ulcers, and cause fluid retention with cardiovascular risk. Older adults often have several of these conditions at once, so the nurse reviews the medication history and problem list before the first dose. Hearing aids are tempting to select because tinnitus is an anti-inflammatory side effect, but that is a sign of aspirin toxicity, and stable age-related hearing loss is not a contraindication.",
+      "takeaway": "Before an NSAID, screen for anticoagulants, kidney disease, ulcers or GI bleeding, and heart disease.",
+      "hintContent": "List the body systems that lose protection when prostaglandins are blocked.",
+      "hintStrategy": "Link each history item to a specific harm the drug can cause; if you cannot name the harm, do not select it."
+    },
+    {
+      "id": "m10-x3-020",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "alsoTests": [],
+      "stem": "Ten minutes after an elastic wrap and a cloth-covered ice pack were applied to a client's acutely sprained ankle, the client says the toes \"feel tingly.\" The toes are pale and cool, and capillary refill is 4 seconds. Which action should the nurse take first?",
+      "options": [
+        "Loosen the wrap, remove the ice pack, and reassess circulation",
+        "Elevate the ankle on two more pillows above heart level",
+        "Notify the provider and wait for further prescriptions",
+        "Document the findings and recheck the toes in 30 minutes"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Pale, cool, tingling toes with slow capillary refill mean circulation beyond the wrap is impaired, so the nurse removes the cause first and then reassesses.",
+        "Incorrect. Elevation reduces swelling, but it does not relieve compression from a wrap that is too tight.",
+        "Incorrect. The nurse can loosen the wrap independently; the provider is notified if circulation does not improve.",
+        "Incorrect. Waiting allows ongoing ischemia beyond the wrap."
+      ],
+      "rationale": "After applying ice or a compression wrap, the nurse checks color, warmth, capillary refill, and sensation beyond it. Pale, cool, tingling toes with a capillary refill over 3 seconds signal impaired circulation from the wrap or the cold. The first action is to remove the cause by loosening the wrap and removing the ice, then reassess. Notifying the provider is tempting because the finding is serious, but the nurse can fix the cause right now and should report if it persists.",
+      "takeaway": "Numbness, pallor, coolness, or slow capillary refill beyond a wrap or ice pack: loosen or remove it first, then reassess.",
+      "hintContent": "Ask what is causing the poor circulation and whether the nurse can remove that cause.",
+      "hintStrategy": "When the nurse can independently correct a harmful cause, do that before calling or documenting."
+    },
+    {
+      "id": "m10-x3-021",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "alsoTests": [],
+      "stem": "The RN asks an unlicensed assistive personnel (UAP) to apply a prescribed ice pack to the swollen knee of a client with acute prepatellar bursitis. Which instruction is most important for the RN to give the UAP?",
+      "options": [
+        "\"Leave the ice in place until the swelling goes down, then remove it and apply a warm towel for comfort.\"",
+        "\"Check the knee for warmth and redness after the ice and decide whether the client needs a second ice pack.\"",
+        "\"Place the ice pack directly against the skin so the cold reaches the inflamed bursa faster and works best.\"",
+        "\"Use a cloth barrier, remove it after 15 to 20 minutes, and tell me about pale skin or numbness.\""
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Continuous ice risks cold injury, and heat is not used on a fresh, acutely swollen joint.",
+        "Incorrect. Assessing and deciding on further treatment require RN judgment and cannot be delegated.",
+        "Incorrect. Ice directly on bare skin can cause cold injury; a cloth barrier is always used.",
+        "Correct. A barrier and a time limit prevent cold injury, and reporting changes lets the RN assess circulation, which is the RN's role."
+      ],
+      "rationale": "Applying a prescribed ice pack can be delegated to a UAP, but the RN must give clear, specific directions. Ice is used with a cloth barrier for 15–20 minutes at a time to prevent cold injury, and the UAP reports changes such as pallor or numbness so the RN can assess. Asking the UAP to check the knee and decide on more ice is tempting because it seems efficient, but assessment and clinical decisions stay with the RN.",
+      "takeaway": "When delegating ice, specify a barrier, a 15–20 minute limit, and which changes to report to the RN.",
+      "hintContent": "Think about how cold injury is prevented and what part of the task belongs only to the RN.",
+      "hintStrategy": "In delegation items, the best instruction is specific, within the UAP's scope, and tells them what to report."
+    },
+    {
+      "id": "m10-x3-022",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "alsoTests": [
+        "assessment-diagnostics"
+      ],
+      "stem": "Refer to the exhibit. The nurse has just received report on four clients on a surgical unit. Which client should the nurse see first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Assignment",
+            "table": {
+              "headers": [
+                "Client",
+                "Situation",
+                "Latest data"
+              ],
+              "rows": [
+                [
+                  "1",
+                  "Acute cholecystitis, NPO, awaiting surgery",
+                  "Asking for a drink of water; T 37.9 °C, HR 88"
+                ],
+                [
+                  "2",
+                  "Rheumatoid arthritis, admitted for knee surgery tomorrow",
+                  "Hand stiffness for 1 hour after waking; no redness"
+                ],
+                [
+                  "3",
+                  "Postoperative day 1 after colectomy",
+                  "T 38.9 °C, HR 118, RR 26, new restlessness"
+                ],
+                [
+                  "4",
+                  "Cellulitis of the forearm, day 2 of IV antibiotics",
+                  "Redness receding inside the marked border"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Client 1",
+        "Client 2",
+        "Client 3",
+        "Client 4"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Thirst while NPO needs explanation and comfort measures, but the vital signs are stable.",
+        "Incorrect. Morning stiffness without redness is a chronic, expected RA finding.",
+        "Correct. A fever above 38.5 °C, HR over 90, and RR over 20 with new restlessness are worsening systemic signs after surgery, so this unstable client is seen first.",
+        "Incorrect. Receding redness shows the cellulitis is improving."
+      ],
+      "rationale": "Prioritization favors the acute, unstable client over chronic or improving ones. The client after colectomy has a temperature above 38.5 °C, HR above 90, and RR above 20, which meet the systemic cutoffs, plus new restlessness, which can signal worsening infection and poor perfusion. The NPO client is tempting because unmet needs feel urgent, but a request for water with stable vital signs can wait a few minutes.",
+      "takeaway": "New systemic signs (T above 38.5 °C, HR above 90, RR above 20) after surgery make that client the priority.",
+      "hintContent": "Compare each client's vital signs with the systemic cutoffs.",
+      "hintStrategy": "Rule out the stable, chronic, and improving clients first; the one left is the priority."
+    },
+    {
+      "id": "m10-x3-023",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "alsoTests": [
+        "assessment-diagnostics"
+      ],
+      "stem": "A client admitted with acute cholecystitis is NPO with IV fluids and is awaiting surgery. Over 4 hours, the temperature has risen from 38.2 °C to 39.0 °C (102.2 °F), HR from 92 to 116/min, and RR from 18 to 24/min. Right upper quadrant pain has increased from 6/10 to 9/10. Which action should the nurse take first?",
+      "options": [
+        "Apply a warm pack to the right upper quadrant",
+        "Report the trend to the surgeon using SBAR",
+        "Offer clear liquids to relieve the client's thirst",
+        "Recheck the vital signs in 4 hours to confirm the trend"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Heat increases blood flow to an acutely inflamed organ and does not address the systemic worsening.",
+        "Correct. The rising temperature, HR, and RR with worsening pain show the inflammation is becoming more systemic, which needs the surgeon's evaluation now.",
+        "Incorrect. Eating or drinking stimulates the gallbladder to contract and violates the NPO prescription.",
+        "Incorrect. The trend is already clear over 4 hours; waiting delays needed treatment."
+      ],
+      "rationale": "Before surgery for an inflamed organ, the nurse watches for worsening systemic signs: rising temperature, HR, and RR. This client has a clear upward trend in all three, plus escalating pain, which suggests the inflammation is spreading or complications are developing. This is not something the nurse can fix independently, so the surgeon is notified using SBAR. Rechecking in 4 hours is tempting because it seems to confirm the data, but the trend has already been established.",
+      "takeaway": "Rising temperature, HR, and RR in a client awaiting surgery for an inflamed organ need prompt provider notification.",
+      "hintContent": "Look at the direction of every vital sign over the 4 hours.",
+      "hintStrategy": "When a trend is clearly worsening and needs medical treatment, notify the provider rather than gather more of the same data."
+    },
+    {
+      "id": "m10-x3-024",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A 70-year-old client is being discharged after an open cholecystectomy and will change a simple dry dressing once daily at home. The client lives with a spouse who has a cold. Which teaching point is most important for preventing a wound infection?",
+      "options": [
+        "Apply a heating pad to the incision to boost blood flow",
+        "Leave the old dressing on for a few extra days if it looks clean",
+        "Ask your spouse to wear a mask whenever you are in the room",
+        "Wash your hands before and after each dressing change"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Heat on a fresh incision increases swelling and does not prevent infection.",
+        "Incorrect. Changing the dressing as prescribed is part of wound care; skipping changes is not protective.",
+        "Incorrect. A mask may reduce respiratory spread, but hand hygiene is the main protection for the wound.",
+        "Correct. Hand hygiene is the key measure for preventing infection, one of the most common causes of inflammation."
+      ],
+      "rationale": "Hand hygiene is the single most important way to prevent infection, which is one of the most common triggers of inflammation. Clients and family members who touch dressings should wash their hands before and after care. The mask option is tempting because the spouse is sick, but the wound is most at risk from contact during dressing changes, which hand hygiene prevents.",
+      "takeaway": "Hand hygiene before and after wound care is the key teaching for preventing infection.",
+      "hintContent": "Which prevention measure works for nearly every infection risk?",
+      "hintStrategy": "When several options sound protective, choose the one that is most basic and broadly effective."
+    },
+    {
+      "id": "m10-x3-025",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "On postoperative day 3 after a bowel resection, a client tells the nurse, \"I've been skipping the chicken and eggs on my tray. I read that protein is hard on the body while it heals.\" Which response by the nurse is best?",
+      "options": [
+        "\"Your body uses protein to build new tissue at the incision.\"",
+        "\"That is a good idea; focus on fruit juice and toast for the next few days.\"",
+        "\"You can skip protein until your incision has fully closed.\"",
+        "\"Protein matters less than fluids, so just drink more water.\""
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Protein is needed for new tissue and white blood cells, so it should be encouraged at each meal unless restricted by the provider.",
+        "Incorrect. Carbohydrates supply energy, but without protein, tissue repair slows.",
+        "Incorrect. Protein is needed most while the wound is actively healing.",
+        "Incorrect. Fluids are important, but they do not replace the protein needed for repair."
+      ],
+      "rationale": "Tissue repair requires raw materials: protein for new tissue and white blood cells, carbohydrates for energy, vitamin C for collagen, and fluids. Restricting protein slows healing, so the nurse corrects the misconception and encourages lean protein at each meal. The fluid option is tempting because fluids are part of the healing plan, but fluids do not supply what the body uses to build new tissue.",
+      "takeaway": "Encourage lean protein at every meal during healing unless the provider restricts it.",
+      "hintContent": "Which nutrient builds new tissue?",
+      "hintStrategy": "When a client states a misconception, the best response corrects it with a brief, accurate reason."
+    },
+    {
+      "id": "m10-x3-026",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A 44-year-old client with peptic ulcer disease has had two flares this year. After teaching about preventing future flares, which statement by the client shows understanding?",
+      "options": [
+        "\"Now that I feel better, I can go back to drinking coffee with every meal.\"",
+        "\"I'll take naproxen instead of ibuprofen since it is easier on the stomach.\"",
+        "\"I'll avoid my food and drink triggers and ask before using ibuprofen.\"",
+        "\"My ulcer is genetic, so nothing I eat or drink will make a difference.\""
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Returning to a known trigger invites another flare.",
+        "Incorrect. Naproxen is also an NSAID and carries the same ulcer and bleeding risk.",
+        "Correct. Prevention means avoiding triggers, including food and beverage triggers and NSAIDs that block protective stomach prostaglandins.",
+        "Incorrect. Diet and drug triggers are modifiable and affect flares."
+      ],
+      "rationale": "For peptic ulcer disease, prevention means avoiding the food and beverage triggers that cause flares. NSAIDs also worsen ulcers because they block the prostaglandins that protect the stomach lining. Switching to naproxen is tempting because it is a different brand, but it is still an NSAID and carries the same GI risk.",
+      "takeaway": "Preventing ulcer flares means avoiding food, drink, and NSAID triggers.",
+      "hintContent": "Think about what preventing flares of a trigger-sensitive condition mainly involves.",
+      "hintStrategy": "For \"shows understanding,\" reject statements that return to a trigger or substitute a look-alike drug from the same class."
+    },
+    {
+      "id": "m10-x3-027",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 3,
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "alsoTests": [],
+      "stem": "A client sprained an ankle 5 days ago and followed RICE instructions. The swelling and warmth are gone, but the ankle now feels stiff when the client starts walking in the morning. Which intervention is most appropriate now?",
+      "options": [
+        "Keep the ankle iced for 15–20 minutes every hour while awake",
+        "Keep the ankle immobilized in a splint until the stiffness resolves",
+        "Wrap the ankle tightly at night to prevent new swelling",
+        "Apply a warm pack for 15–20 minutes to ease the stiffness"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Ice is most useful for new swelling in the first 24–48 hours; this ankle is no longer swollen.",
+        "Incorrect. Prolonged immobility increases stiffness; the goal now is restoring movement.",
+        "Incorrect. A tight wrap can impair circulation, and swelling is no longer the problem.",
+        "Correct. Once the acute swelling has resolved, heat causes vasodilation and relaxes tissues, which helps stiffness in the later healing phase."
+      ],
+      "rationale": "Ice is the right choice for a new, acute injury because vasoconstriction limits swelling. Heat is for the later healing phase and for stiffness, because vasodilation increases blood flow and relaxes tissues. This ankle is 5 days out with no swelling or warmth, so the problem has shifted from swelling to stiffness. Continuing hourly ice is tempting because RICE worked earlier, but it targets swelling the client no longer has.",
+      "takeaway": "Ice for fresh swelling in the first 24–48 hours; heat later for stiffness once swelling is gone.",
+      "hintContent": "Has the main problem changed from swelling to stiffness?",
+      "hintStrategy": "Match the intervention to the current phase of the problem, not the phase described at the start."
+    },
+    {
+      "id": "m10-x3-028",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "alsoTests": [],
+      "stem": "A 63-year-old client is recovering from a severe rheumatoid arthritis flare. The client's leg muscles have weakened, and the client now needs to rest halfway up a flight of stairs. Which referral should the nurse recommend to the provider?",
+      "options": [
+        "Registered dietitian",
+        "Physical therapist",
+        "Acupuncture practitioner",
+        "Cognitive behavioral therapist"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A dietitian supports an anti-inflammatory diet but does not rebuild leg strength.",
+        "Correct. Physical therapy restores strength, mobility, and activity after inflammation has limited function.",
+        "Incorrect. Acupuncture is a complementary approach that may help pain but does not restore strength.",
+        "Incorrect. CBT helps with coping and stress, not muscle weakness."
+      ],
+      "rationale": "Chronic inflammation is best managed by a team, and each member addresses a different need. The physical therapist restores strength, mobility, and activity, which is exactly what this client's weakness and limited stair climbing require. The dietitian is tempting because diet matters in RA, but nutrition changes alone will not rebuild weakened muscles.",
+      "takeaway": "Weakness and lost mobility after inflammation call for a physical therapy referral.",
+      "hintContent": "Match the client's specific functional problem to the team member who treats it.",
+      "hintStrategy": "In referral items, find the one discipline whose core role matches the stated problem."
+    },
+    {
+      "id": "m10-x3-029",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "alsoTests": [],
+      "stem": "A 16-year-old skateboarder has an acute wrist sprain. The nurse applied cold therapy with a barrier, elevated the wrist above the heart, and splinted it in a position of comfort. Which finding 24 hours later best shows the interventions are effective?",
+      "options": [
+        "The fingers are warm with a capillary refill of 2 seconds",
+        "The client can repeat the 15–20 minute icing schedule",
+        "Wrist swelling is smaller and pain has dropped from 7 to 3",
+        "The client has used the ice pack four times since yesterday"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Normal circulation shows the splint and ice are safe, not that the swelling and pain have improved.",
+        "Incorrect. This shows the teaching was understood, not that the injury has responded.",
+        "Correct. Less swelling and less pain are the goals of ice, elevation, and rest, so they show the interventions worked.",
+        "Incorrect. Adherence to the plan does not measure the outcome of the plan."
+      ],
+      "rationale": "To evaluate, compare the finding with the goal of the interventions. Ice, elevation, and rest are used to reduce edema and pain, so smaller swelling and a lower pain score show success. Normal capillary refill is tempting because it is a good finding, but it confirms safety of the treatment rather than improvement of the injury.",
+      "takeaway": "Evaluate edema care by measuring swelling and pain, not by safety checks or adherence.",
+      "hintContent": "What were these three interventions meant to achieve?",
+      "hintStrategy": "Distinguish outcome data (did the problem improve?) from process data (was the plan done safely or followed?)."
+    },
+    {
+      "id": "m10-x3-030",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "alsoTests": [],
+      "stem": "The RN is caring for a client with acute gouty inflammation of the right knee who has prescriptions for ice, elevation, and an oral anti-inflammatory drug. Which tasks can the RN delegate to the unlicensed assistive personnel (UAP)? Select all that apply.",
+      "options": [
+        "Assess the knee for warmth and swelling after the ice is removed",
+        "Apply the prescribed ice pack with a cloth barrier for 15 minutes",
+        "Measure and record the client's vital signs every 4 hours",
+        "Evaluate whether the pain has improved enough to stop the ice",
+        "Elevate the right leg on pillows above the level of the heart",
+        "Teach the client to take the anti-inflammatory drug with food"
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Assessment requires RN judgment.",
+        "Correct. Applying a prescribed ice pack is a routine, delegable task.",
+        "Correct. Taking vital signs on a stable client can be delegated; the UAP reports findings to the RN.",
+        "Incorrect. Evaluating the response to treatment stays with the RN.",
+        "Correct. Positioning and elevation are within the UAP's scope.",
+        "Incorrect. Client teaching is the RN's responsibility."
+      ],
+      "rationale": "UAP may elevate and reposition a limb, apply a prescribed ice pack, and measure vital signs on a stable client, reporting findings to the RN. Assessment, teaching, and evaluation require nursing judgment and cannot be delegated. Assessing the knee after ice is tempting because the UAP is already at the bedside, but deciding what the findings mean is assessment, which belongs to the RN.",
+      "takeaway": "UAP can elevate, apply prescribed ice, and take vital signs; the RN assesses, teaches, and evaluates.",
+      "hintContent": "Look for the verbs assess, teach, and evaluate.",
+      "hintStrategy": "In delegation SATA, eliminate any task that requires judgment; keep routine, standardized tasks for stable clients."
+    },
+    {
+      "id": "m10-x3-031",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A 19-year-old college soccer player sprained an ankle during practice 1 hour ago. The ankle is swollen and tender. Which instructions should the nurse include in the teaching? Select all that apply.",
+      "options": [
+        "Keep the ankle raised above the level of the heart when resting",
+        "Apply ice wrapped in a cloth for 15–20 minutes at a time",
+        "Wrap the ankle snugly but not tightly, and check the toes often",
+        "Rest the ankle and avoid putting weight on it for now",
+        "Use a heating pad tonight to help the swelling go down",
+        "Leave the ice pack on overnight for continuous relief"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Elevation uses gravity to drain fluid and reduce swelling.",
+        "Correct. A barrier prevents cold injury, and the time limit lets the skin recover.",
+        "Correct. Compression limits swelling, but a tight wrap can impair circulation.",
+        "Correct. Rest reduces movement that worsens pain and swelling in the acute phase.",
+        "Incorrect. Heat causes vasodilation and increases swelling in a fresh injury.",
+        "Incorrect. Continuous ice risks cold injury to the skin and tissue."
+      ],
+      "rationale": "RICE guides care of an acute soft-tissue injury: rest, ice with a barrier for 15–20 minutes at a time, compression that is snug but not tight with circulation checks, and elevation above the heart. Ice causes vasoconstriction, which limits swelling and numbs pain. Heat is tempting because it is soothing, but on a fresh injury it widens the vessels and increases swelling.",
+      "takeaway": "Fresh sprain = RICE: rest, barrier ice 15–20 minutes, snug compression with circulation checks, elevation above the heart.",
+      "hintContent": "Recall each letter of RICE and the safety rule that goes with it.",
+      "hintStrategy": "In the first 24–48 hours, eliminate any option that adds heat or removes the safety limits on cold."
+    },
+    {
+      "id": "m10-x3-032",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "alsoTests": [
+        "pharmacology"
+      ],
+      "stem": "A client is being discharged after a colectomy for ulcerative colitis with a 10-day course of an oral antibiotic and a tapering dose of prednisone. Which statements by the client indicate a need for further teaching? Select all that apply.",
+      "options": [
+        "\"I'll mostly eat fast food at home since cooking tires me out.\"",
+        "\"I'll follow the prednisone taper schedule exactly as written.\"",
+        "\"I'll call if the incision gets redder or the drainage turns cloudy.\"",
+        "\"I'll stop the antibiotic once my incision looks healed.\"",
+        "\"I can lift my full laundry basket as soon as the pain is gone.\""
+      ],
+      "answer": [
+        0,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. This needs more teaching; healing requires protein, vitamin C, and fluids, and fast food works against an anti-inflammatory diet.",
+        "Incorrect. This shows understanding; steroids must be tapered and never stopped suddenly.",
+        "Incorrect. This shows understanding of wound care and signs of infection.",
+        "Correct. This needs more teaching; antibiotics are taken for the full course even when the client feels better.",
+        "Correct. This needs more teaching; activity restrictions continue until the provider clears the client."
+      ],
+      "rationale": "Discharge teaching after surgery for inflammation covers medications, nutrition and hydration, wound care, and activity limits. Antibiotics must be finished even when the client feels better, steroids must be tapered, lifting limits continue until the provider clears the client, and a healing body needs nutrient-dense food. Clients on steroids also need to report subtle infection signs because steroids mask them. The prednisone taper statement may be tempting to select because steroid errors are common, but this statement is correct.",
+      "takeaway": "Discharge after surgery for inflammation: finish antibiotics, taper steroids, respect activity limits, eat to heal, and report wound changes.",
+      "hintContent": "Check each statement against the four discharge teaching topics: medications, nutrition, wound care, and activity.",
+      "hintStrategy": "For \"needs further teaching,\" select the incorrect statements; read carefully so you do not select the correct ones."
+    },
+    {
+      "id": "m10-x3-033",
+      "topic": "nursing-interventions",
+      "ref": "Module 10 · Inflammation · Nursing Interventions and Collaborative Care",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A 55-year-old client with obesity and a persistently elevated CRP meets with the nurse after seeing the dietitian. The client asks which grocery items fit the anti-inflammatory plan. Which items should the nurse recommend? Select all that apply.",
+      "options": [
+        "Salmon or sardines two to three times per week",
+        "Bacon, sausage, and other processed meats",
+        "Spinach, berries, and other colorful produce",
+        "Regular soft drinks with lunch",
+        "White bread and breakfast pastries",
+        "Plain yogurt with live, active cultures"
+      ],
+      "answer": [
+        0,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Fatty fish supply omega-3 fatty acids, which help calm inflammation.",
+        "Incorrect. These are high in saturated fat, which the plan limits.",
+        "Correct. Fruits and vegetables supply antioxidants and fiber.",
+        "Incorrect. Sugary drinks are part of the Western diet that promotes inflammation.",
+        "Incorrect. High-glycemic foods spike blood sugar and promote inflammation.",
+        "Correct. Probiotics are part of the dietitian's anti-inflammatory plan."
+      ],
+      "rationale": "The anti-inflammatory diet emphasizes fruits, vegetables, fish, whole grains, olive oil, and omega-3 fats, and the dietitian may add probiotics and antioxidants. It limits saturated fat, cholesterol, and high-glycemic foods such as white bread and sweets. Pastries can be tempting to include because they may be labeled \"low fat,\" but they are high-glycemic foods that spike blood sugar.",
+      "takeaway": "Anti-inflammatory eating: more omega-3s, produce, whole grains, and probiotics; less sugar, saturated fat, and processed food.",
+      "hintContent": "Sort each item into the anti-inflammatory pattern or the Western pattern.",
+      "hintStrategy": "Judge each food on its own; do not assume an equal split between right and wrong options."
+    },
+    {
+      "id": "m10-x3-034",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "alsoTests": [],
+      "stem": "A 4-year-old with 2 days of tonsillitis is brought to the clinic. The child is sitting upright and leaning forward, drooling, and speaking in a muffled voice, and refuses to swallow. Which action should the nurse take first?",
+      "options": [
+        "Keep the child upright on the parent's lap and call for help",
+        "Inspect the throat with a tongue blade and a penlight",
+        "Lay the child flat on the exam table to assess breath sounds",
+        "Offer a cold ice pop to soothe the throat and reduce swelling"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Drooling and a muffled voice in a young child signal an airway threat; keeping the child calm and upright preserves the airway while help is summoned.",
+        "Incorrect. Examining the throat can upset the child and trigger complete airway obstruction.",
+        "Incorrect. Lying flat can worsen obstruction in a child who is leaning forward to keep the airway open.",
+        "Incorrect. A child who cannot swallow saliva should not be given anything by mouth."
+      ],
+      "rationale": "A young child's large tongue, narrow trachea, and prominent lymph tissue such as tonsils mean that inflammatory swelling can close the airway quickly. Drooling, a muffled voice, and refusing to swallow mean the child cannot manage secretions, which is an airway emergency. The nurse keeps the child calm in the position the child has chosen and calls for help. Inspecting the throat is tempting because it would confirm the source, but agitating the child can precipitate complete obstruction.",
+      "takeaway": "Young child with drooling, muffled voice, or stridor = airway threat: keep calm and upright, call for help, and do not examine the throat.",
+      "hintContent": "Think about how much swelling it takes to block a child's narrow airway.",
+      "hintStrategy": "When the airway is threatened, choose the action that protects it, and avoid any action that might make the child cry or lie down."
+    },
+    {
+      "id": "m10-x3-035",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "alsoTests": [],
+      "stem": "A pediatric clinic nurse is returning phone calls from four parents. Which child should the nurse arrange to be seen first?",
+      "options": [
+        "A 6-year-old with an ear infection, a fever of 38.6 °C, and normal play",
+        "A 10-year-old with a wrist sprain that is still swollen after a fall yesterday",
+        "A 9-month-old with diarrhea, no wet diaper in 10 hours, and hard to wake",
+        "A 15-year-old with Crohn's disease who is upset about new facial acne"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A playful child with a moderate fever is stable and can be seen routinely.",
+        "Incorrect. A sprain without circulation changes is an acute but stable local problem.",
+        "Correct. No urine output for many hours and lethargy show poor perfusion in an infant whose small fluid volume is quickly depleted.",
+        "Incorrect. Body-image concerns matter but are not physically urgent."
+      ],
+      "rationale": "Infants have a small total fluid volume and immature kidneys, so diarrhea can cause dangerous dehydration quickly. Mental status, capillary refill, and wet diapers are the best bedside checks; no wet diaper in 10 hours plus difficulty waking means the brain and kidneys are not getting enough blood. The child with fever is tempting because the number is high, but normal play shows that perfusion and mental status are intact.",
+      "takeaway": "In infants and young children, lethargy and no wet diapers for many hours signal poor perfusion and need immediate care.",
+      "hintContent": "Consider which bedside findings best reflect perfusion in a very young child.",
+      "hintStrategy": "Mental status changes outrank a single abnormal number such as a fever."
+    },
+    {
+      "id": "m10-x3-036",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "alsoTests": [],
+      "stem": "A nurse in a long-term care facility is reviewing changes reported by the UAP at the start of the shift. Which resident should the nurse assess first?",
+      "options": [
+        "A 90-year-old newly confused since breakfast, T 37.4 °C (baseline 36.2 °C)",
+        "An 85-year-old with dementia who has her usual late-afternoon agitation again",
+        "An 82-year-old with knee osteoarthritis who has morning stiffness",
+        "An 88-year-old with a stable, mildly elevated CRP noted last month"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. New confusion plus a temperature more than 1 °C above baseline is a typical atypical presentation of infection in an older adult.",
+        "Incorrect. Agitation that matches the resident's known pattern is a baseline finding.",
+        "Incorrect. Morning stiffness is an expected, chronic finding in osteoarthritis.",
+        "Incorrect. A persistent, stable CRP elevation is common in older adults and is not an acute change."
+      ],
+      "rationale": "Older adults often have a blunted fever response, so infection may first appear as new confusion, a fall, or a small rise above the client's own baseline temperature. A rise of about 1.1 °C above baseline can be significant even when the number looks normal. The resident with usual evening agitation is tempting because agitation sounds alarming, but it matches her baseline, while the 90-year-old shows a new change.",
+      "takeaway": "In older adults, a new change from baseline (confusion or a 1 °C rise) is more urgent than a chronic, known finding.",
+      "hintContent": "Compare each finding with that resident's own baseline.",
+      "hintStrategy": "New and acute beats chronic and expected; look for the word that signals a change."
+    },
+    {
+      "id": "m10-x3-037",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Take Action",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "An 87-year-old resident fell in the bathroom this morning without injury. The UAP reports that the resident has eaten very little today and \"just wants to stay in bed.\" T 37.3 °C (99.1 °F); the resident's baseline is 36.1 °C (97.0 °F). Which action should the nurse take?",
+      "options": [
+        "Record the fall and place a bed alarm for the resident's safety",
+        "Encourage rest today and recheck the temperature tomorrow",
+        "Reassure the UAP that 37.3 °C is a normal temperature",
+        "Assess for a source of infection and notify the provider"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Fall precautions help, but they do not address the likely cause of the fall.",
+        "Incorrect. Waiting delays treatment of a possible infection in a frail older adult.",
+        "Incorrect. The value is normal for most adults but is a significant rise from this resident's baseline.",
+        "Correct. A fall, poor appetite, reduced activity, and a temperature more than 1 °C above baseline together suggest a developing infection that needs evaluation."
+      ],
+      "rationale": "Infection in an older adult may cause little or no fever. Instead, the early signs are often falls, weakness, not wanting to get out of bed, loss of appetite, and a small rise above the client's own baseline. The nurse compares findings with the baseline, looks for the source, and reports the change. Placing a bed alarm is tempting because it addresses the fall, but it ignores the reason the resident fell.",
+      "takeaway": "An older adult with a new fall, poor appetite, and a temperature 1 °C above baseline should be assessed for infection.",
+      "hintContent": "Look at the temperature compared with this resident's baseline, not with the standard adult normal.",
+      "hintStrategy": "Choose the action that addresses the cause of a cluster of new findings, not just one symptom."
+    },
+    {
+      "id": "m10-x3-038",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 3,
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [
+        "assessment-diagnostics"
+      ],
+      "stem": "Refer to the exhibit. An 84-year-old client is admitted with community-acquired pneumonia. Which interpretation of the 1400 findings should direct the nurse's next action?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Vital Signs",
+            "table": {
+              "headers": [
+                "Time",
+                "T",
+                "HR",
+                "RR",
+                "BP",
+                "Mental status"
+              ],
+              "rows": [
+                [
+                  "0800",
+                  "36.4 °C",
+                  "84",
+                  "18",
+                  "132/78",
+                  "Alert, oriented ×3"
+                ],
+                [
+                  "1400",
+                  "35.8 °C",
+                  "104",
+                  "26",
+                  "118/70",
+                  "Drowsy, disoriented to place"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "The temperature is below normal, so infection is unlikely to be worsening",
+        "Low temperature, rising HR and RR, and new confusion are signs to report now",
+        "The drowsiness is likely from a disrupted nap and should be rechecked later",
+        "The BP is still normal, so the findings can be monitored on the usual schedule"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Older adults may run low temperatures with infection; a temperature below 36 °C is itself a systemic sign.",
+        "Correct. A temperature below 36 °C counts as a systemic sign, and with HR over 90, RR over 20, and new confusion, the infection is worsening.",
+        "Incorrect. New disorientation is a key sign of worsening infection in an older adult.",
+        "Incorrect. A normal BP does not rule out a worsening systemic response."
+      ],
+      "rationale": "Older adults often have a blunted fever response, and a temperature below 36 °C is counted as a systemic sign. This client also has HR above 90, RR above 20, and new confusion, so the inflammatory response has become systemic and is worsening. The nurse reports these findings promptly. The \"infection is unlikely\" option is tempting because many students expect fever with infection, but in older adults a low temperature can be the warning.",
+      "takeaway": "In older adults, a temperature below 36 °C with rising HR, RR, and new confusion is a systemic warning, not reassurance.",
+      "hintContent": "Check each value against the systemic cutoffs at both ends of the normal range.",
+      "hintStrategy": "Do not let one \"normal-looking\" value, such as BP, override a cluster of worsening findings."
+    },
+    {
+      "id": "m10-x3-039",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "alsoTests": [
+        "pharmacology"
+      ],
+      "stem": "Refer to the exhibit. A child with influenza is admitted for dehydration. The nurse is preparing the 1000 PRN dose for a temperature of 38.9 °C. Which action should the nurse take?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Admission Data",
+            "table": {
+              "headers": [
+                "Item",
+                "Value"
+              ],
+              "rows": [
+                [
+                  "Age",
+                  "7 years"
+                ],
+                [
+                  "Weight",
+                  "20 kg (44 lb)"
+                ],
+                [
+                  "Diagnosis",
+                  "Influenza A with dehydration"
+                ],
+                [
+                  "Allergies",
+                  "No known drug allergies"
+                ]
+              ]
+            }
+          },
+          {
+            "title": "MAR",
+            "table": {
+              "headers": [
+                "Medication",
+                "Dose / route",
+                "Frequency"
+              ],
+              "rows": [
+                [
+                  "Acetaminophen",
+                  "650 mg PO",
+                  "Every 6 hours PRN fever"
+                ],
+                [
+                  "Ondansetron",
+                  "2 mg IV",
+                  "Every 8 hours PRN nausea"
+                ],
+                [
+                  "Dextrose 5% in 0.45% NaCl",
+                  "60 mL/hr IV",
+                  "Continuous"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Give the acetaminophen as prescribed and recheck the temperature",
+        "Hold the acetaminophen and clarify the dose with the prescriber",
+        "Give half of the prescribed dose and document the reason",
+        "Give aspirin instead because the acetaminophen dose is unclear"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Giving a dose that exceeds the weight-based amount risks liver injury.",
+        "Correct. A usual pediatric dose is about 15 mg/kg (300 mg for 20 kg); 650 mg is an adult dose and more than twice the weight-based amount.",
+        "Incorrect. The nurse cannot change a dose without a prescription.",
+        "Incorrect. Aspirin in a child with influenza is linked to Reye syndrome."
+      ],
+      "rationale": "Medication doses for children are calculated using weight in kilograms. For a 20-kg child, about 15 mg/kg of acetaminophen is 300 mg, so a 650-mg dose is an adult dose and exceeds the safe amount. The nurse holds the dose and clarifies it with the prescriber. Giving half the dose is tempting because it seems to fix the error, but changing a prescription is outside the nurse's scope.",
+      "takeaway": "Check every pediatric dose against the child's weight in kilograms, and clarify any dose that does not match.",
+      "hintContent": "Compare the prescribed dose with the child's weight.",
+      "hintStrategy": "When a prescription is unsafe, the nurse neither gives it nor changes it alone; the nurse clarifies it."
+    },
+    {
+      "id": "m10-x3-040",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "A 6-month-old is admitted with pneumonia. Which finding requires the nurse's immediate action?",
+      "options": [
+        "Temperature 38.4 °C (101.1 °F) 1 hour after acetaminophen",
+        "Taking 3 ounces of formula instead of the usual 5",
+        "HR 148/min while crying during the assessment",
+        "RR 68/min with grunting and retractions between the ribs"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Fever should be rechecked, but the antipyretic may not have taken full effect, and it is not an airway or breathing threat.",
+        "Incorrect. Reduced feeding needs monitoring but is less urgent than labored breathing.",
+        "Incorrect. This heart rate is within the normal range for an infant who is crying.",
+        "Correct. Grunting and retractions with a very fast rate show the infant is working hard to breathe and may be moving toward respiratory failure."
+      ],
+      "rationale": "Infants and young children have fewer, smaller alveoli and less elastic recoil, so the air sacs collapse more easily and pneumonia can progress to respiratory failure. A very high respiratory rate with grunting and retractions shows the infant is struggling to keep the alveoli open. Breathing comes before fever or feeding. The fever is tempting because it is a clear sign of infection, but it is not as dangerous as signs of respiratory distress.",
+      "takeaway": "In an infant with pneumonia, grunting, retractions, and a very fast RR outrank fever or poor feeding.",
+      "hintContent": "Think about how a child's smaller alveoli and lower lung recoil affect the risk of respiratory failure.",
+      "hintStrategy": "Use the ABCs: signs of increased work of breathing come before temperature or intake."
+    },
+    {
+      "id": "m10-x3-041",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "The parent of an 8-month-old with mild diarrhea says, \"I've been giving him full-strength apple juice to keep him from drying out.\" The infant is alert, with moist mucous membranes and three wet diapers today. Which response by the nurse is the priority?",
+      "options": [
+        "\"Give small, frequent amounts of oral rehydration solution instead.\"",
+        "\"Keep giving the juice, but dilute it with an equal amount of water.\"",
+        "\"Hold fluids for a few hours to let his bowel rest.\"",
+        "\"Give him a full bottle of plain water every 2 hours.\""
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Oral rehydration solution replaces fluid and electrolytes; small, frequent amounts are best tolerated in mild dehydration.",
+        "Incorrect. Diluted juice still lacks the right balance of sugar and electrolytes to replace losses.",
+        "Incorrect. Withholding fluids is dangerous for an infant with a small fluid reserve.",
+        "Incorrect. Plain water does not replace lost electrolytes, and large volumes may be poorly tolerated."
+      ],
+      "rationale": "Infants have a small fluid volume and immature kidneys, so diarrhea can dehydrate them quickly. For mild dehydration, the plan is small, frequent amounts of oral rehydration solution, not undiluted juice or withheld fluids. The nurse then evaluates success by counting wet diapers. Diluting the juice is tempting because it seems like a compromise, but juice does not replace electrolytes the way an oral rehydration solution does.",
+      "takeaway": "For mild dehydration in an infant, use small, frequent amounts of oral rehydration solution and count wet diapers.",
+      "hintContent": "Which fluid is designed to replace both water and electrolytes?",
+      "hintStrategy": "Pick the least invasive option that fully corrects the problem; avoid options that withhold fluid from an infant."
+    },
+    {
+      "id": "m10-x3-042",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "mcq",
+      "priority": true,
+      "difficulty": 3,
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "alsoTests": [
+        "nursing-interventions"
+      ],
+      "stem": "An 86-year-old client with peripheral neuropathy and thin, fragile skin has a prescription for ice to an acutely swollen, inflamed knee. Which action is the nurse's priority?",
+      "options": [
+        "Apply the ice directly to the skin so it works faster",
+        "Ask the client to call when the cold becomes uncomfortable",
+        "Inspect the skin under the barrier often during each application",
+        "Leave the ice in place for 45 minutes to maximize vasoconstriction"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Ice is never placed on bare skin, and this client is especially vulnerable to cold injury.",
+        "Incorrect. Neuropathy may prevent the client from feeling cold injury, so self-report is unreliable.",
+        "Correct. Reduced sensation and fragile skin mean the client may not feel cold injury, so the nurse must inspect the skin frequently.",
+        "Incorrect. Applications are limited to 15–20 minutes to prevent tissue damage."
+      ],
+      "rationale": "Ice reduces swelling and pain through vasoconstriction, but it is used with a cloth barrier for 15–20 minutes at a time. An older adult with neuropathy and fragile skin is at higher risk of cold injury and may not feel it developing. Frequent skin checks are therefore the priority. Asking the client to call when the cold is uncomfortable is tempting because it involves the client, but reduced sensation makes that report unreliable.",
+      "takeaway": "When a client has reduced sensation or fragile skin, the nurse checks the skin under any cold therapy frequently instead of relying on the client's report.",
+      "hintContent": "Think about what neuropathy does to the client's ability to sense injury.",
+      "hintStrategy": "When a client cannot reliably report a problem, choose the option in which the nurse assesses directly."
+    },
+    {
+      "id": "m10-x3-043",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "alsoTests": [],
+      "stem": "The parent of an 11-year-old with Crohn's disease asks why the child is shorter and lighter than classmates even though the child eats regular meals. Which explanation by the nurse is most accurate?",
+      "options": [
+        "\"Children with Crohn's disease burn calories faster because of fever.\"",
+        "\"Shorter height is inherited and is not related to the disease.\"",
+        "\"Your child should eat less often so the bowel can rest and heal.\"",
+        "\"Inflammation in the gut reduces how well nutrients are absorbed.\""
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Fever raises needs during flares, but poor absorption from the inflamed gut is the main cause.",
+        "Incorrect. Growth delay is a known effect of chronic gut inflammation in children.",
+        "Incorrect. Skipping meals worsens nutrition and growth; children need high-calorie, nutrient-dense meals.",
+        "Correct. Gut inflammation decreases nutrient absorption, which can slow a child's growth, weight gain, and strength."
+      ],
+      "rationale": "In children, inflammation of the gut decreases the absorption of nutrients, which can slow growth, weight gain, and strength. That is why children with chronic inflammatory bowel disease may fall below the expected height for age even with normal intake. The nurse plots growth and supports a dietitian referral. The fever explanation is tempting because illness does raise calorie needs, but it does not explain growth delay in a child eating regular meals.",
+      "takeaway": "In children, chronic gut inflammation reduces nutrient absorption and can slow growth.",
+      "hintContent": "What does an inflamed intestine do to the food that passes through it?",
+      "hintStrategy": "Choose the explanation that matches the underlying pathophysiology, not a side issue."
+    },
+    {
+      "id": "m10-x3-044",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 3,
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "alsoTests": [],
+      "stem": "A 3-year-old with gastroenteritis has a capillary refill of 3 seconds and fewer wet diapers than usual. The parent says, \"The nurse said his blood pressure is normal, so he can't be very dehydrated.\" Which response by the nurse is best?",
+      "options": [
+        "\"You're right; a normal BP means his fluid level is safe for now.\"",
+        "\"Children often keep a normal BP until late, so we watch other signs.\"",
+        "\"Blood pressure is the most reliable way to judge fluid loss in a child.\"",
+        "\"His BP will drop first, so we will check it every 15 minutes.\""
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A normal BP does not rule out significant dehydration in a child.",
+        "Correct. Children compensate so well that hypotension is a late sign; urine output, capillary refill, mental status, and HR change earlier.",
+        "Incorrect. Mental status, capillary refill, and wet diapers are more useful early measures.",
+        "Incorrect. A falling BP is a late sign in children, not the first change."
+      ],
+      "rationale": "Children lose fluid quickly because of their small total volume and immature kidneys, but they compensate well. Standard pediatric teaching is that tachycardia is an early sign of hypovolemia and hypotension is a late sign, appearing when the child is near collapse. The nurse therefore watches wet diapers, capillary refill, mental status, and HR rather than waiting for the BP to fall. Agreeing with the parent is tempting because it is reassuring, but it is inaccurate and could delay care.",
+      "takeaway": "In children, hypotension is a late sign of fluid loss; do not wait for the BP to drop before acting.",
+      "hintContent": "When in the course of dehydration does a child's BP usually fall?",
+      "hintStrategy": "For \"best response,\" choose the accurate correction delivered in plain words, not false reassurance."
+    },
+    {
+      "id": "m10-x3-045",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Psychosocial Integrity",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "alsoTests": [],
+      "stem": "A 4-year-old with an abscess on the thigh needs a peripheral IV for antibiotics. The child is crying and clinging to the parent. Which intervention is most appropriate to prepare the child?",
+      "options": [
+        "Tell the child that the IV start will not hurt at all",
+        "Ask the parent to wait outside so the child calms down",
+        "Ask the child life specialist to show the steps using a doll",
+        "Explain the procedure in detail to the child the night before"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. False reassurance damages trust when the child feels the needle.",
+        "Incorrect. Parental presence usually comforts a young child during procedures.",
+        "Correct. Play with a doll lets a preschooler see and handle the equipment, which reduces fear and matches the child's developmental level.",
+        "Incorrect. Preschoolers have a limited sense of time, and early detailed explanation can increase anxiety."
+      ],
+      "rationale": "Hospital care for children uses child life support and play to prepare them for procedures. A preschooler understands best through hands-on play, so a child life specialist using a doll to show the IV steps reduces fear and builds cooperation. Explaining the night before is tempting because preparation sounds helpful, but a young child cannot use that information well, and the wait may increase anxiety.",
+      "takeaway": "Prepare young children for procedures with child life support and play, close to the time of the procedure.",
+      "hintContent": "How does a preschooler learn best?",
+      "hintStrategy": "Match the intervention to the child's developmental stage and avoid any option that is dishonest."
+    },
+    {
+      "id": "m10-x3-046",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Analyze Cues",
+      "focus": "Pathophysiology",
+      "alsoTests": [],
+      "stem": "At 26 weeks' gestation, a client says, \"I never had allergies, but now I sneeze and my eyes itch every time I'm near my cat.\" Vital signs are normal and lungs are clear. Which explanation by the nurse is most accurate?",
+      "options": [
+        "\"Pregnancy changes the immune system and can cause overreaction to harmless triggers.\"",
+        "\"Pregnancy strengthens your immune system, so these are signs of an infection instead.\"",
+        "\"These symptoms are a warning sign of preeclampsia and need urgent care.\"",
+        "\"New sneezing in pregnancy is most likely a cold that will clear in a week.\""
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The immune changes of pregnancy may cause hypersensitivity to nonpathogenic stimuli, such as new allergy-type symptoms.",
+        "Incorrect. Pregnancy dampens rather than strengthens the immune system, and the symptoms match an allergic trigger.",
+        "Incorrect. Sneezing and itchy eyes are not features of preeclampsia.",
+        "Incorrect. Symptoms that return each time the client is near the cat point to a hypersensitivity reaction, which pregnancy immune changes can cause, not a cold."
+      ],
+      "rationale": "During pregnancy, the immune system is dampened so it does not attack the fetus, who is genetically half \"foreign.\" These changes may cause hypersensitivity to harmless (nonpathogenic) stimuli, such as new allergy-type symptoms around a pet. The client's normal vital signs and clear lungs do not suggest infection. The preeclampsia option is tempting because it is the inflammation-related pregnancy disorder in this module, but its warning signs are high BP, severe headache, and visual changes.",
+      "takeaway": "Pregnancy dampens immunity and can cause new hypersensitivity to harmless triggers.",
+      "hintContent": "How does pregnancy change the immune response, and what can that cause?",
+      "hintStrategy": "Eliminate options that state an absolute (\"never\") or reverse the direction of a known change."
+    },
+    {
+      "id": "m10-x3-047",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 3,
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "alsoTests": [
+        "nursing-interventions"
+      ],
+      "stem": "The daughter of a frail 82-year-old client asks about her mother's CRP of 1.6 mg/dL (reference below 1.0 mg/dL), which has been at a similar level for the past year. The client has no signs of acute illness. Which response by the nurse is most accurate?",
+      "options": [
+        "\"This result means she has a hidden infection that needs treatment with antibiotics.\"",
+        "\"This is normal for her age, so it does not affect her health.\"",
+        "\"High markers are common with frailty, and diet and strength training can help.\"",
+        "\"She should rest in bed more often to let the inflammation settle.\""
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Without acute signs, a persistently elevated CRP reflects chronic low-grade inflammation, not necessarily infection.",
+        "Incorrect. Higher markers are linked to more illness, comorbidities, and hospitalizations.",
+        "Correct. CRP, IL-6, and TNF-α are often higher in older adults, more so in frailty, and an anti-inflammatory diet plus resistance training can improve them.",
+        "Incorrect. Inactivity worsens frailty; resistance training is the recommended approach."
+      ],
+      "rationale": "Low-grade inflammation becomes more common with age, and markers such as CRP, IL-6, and TNF-α are higher in frail than in non-frail older adults. These higher markers are linked to more illness, more comorbidities, and more hospitalizations, so they are not harmless. Diet and resistance training can improve them. Saying the result is normal for her age is tempting because it is partly true, but it ignores the health risk and the steps that can lower it.",
+      "takeaway": "High inflammatory markers in frail older adults are common but harmful; diet and resistance training can help.",
+      "hintContent": "What are higher inflammatory markers in older adults linked to, and what improves them?",
+      "hintStrategy": "Choose the answer that is both accurate and actionable; reject partial truths that lead to doing nothing."
+    },
+    {
+      "id": "m10-x3-048",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "An 80-year-old client admitted with pneumonia and new confusion has received IV antibiotics for 3 days. The client's temperature was never above 37.2 °C. Which finding best indicates that the client is improving?",
+      "options": [
+        "The client is oriented and recognizes family members again",
+        "The client's temperature today is 36.9 °C",
+        "The client is sleeping more during the day than on admission",
+        "The client reports no pain when sitting up in bed"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. New confusion was this client's main sign of infection, so a return to baseline mental status shows the infection is responding.",
+        "Incorrect. The client never had a significant fever, so a normal temperature does not show change.",
+        "Incorrect. More daytime sleepiness than on admission may reflect continued illness or worsening, not improvement.",
+        "Incorrect. Absence of pain is helpful but is not the key marker that was abnormal."
+      ],
+      "rationale": "In older adults, infection often presents as confusion rather than fever. To evaluate improvement, the nurse tracks the finding that was abnormal at the start, which here was mental status. Returning to baseline orientation is the clearest sign of response to treatment. The normal temperature is tempting because it sounds like resolution, but this client never had a fever, so it cannot show progress.",
+      "takeaway": "Evaluate an older adult's recovery from infection by the return of the finding that first changed, often mental status.",
+      "hintContent": "What was this client's main abnormal finding on admission?",
+      "hintStrategy": "In evaluation items, choose the improvement in the problem that was actually present."
+    },
+    {
+      "id": "m10-x3-049",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "mcq",
+      "priority": false,
+      "difficulty": 2,
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "alsoTests": [
+        "nursing-interventions"
+      ],
+      "stem": "The RN is caring for a 2-year-old admitted with dehydration from gastroenteritis. Which task is most appropriate to delegate to the unlicensed assistive personnel (UAP)?",
+      "options": [
+        "Check capillary refill and mucous membranes every 2 hours",
+        "Teach the parents how to give oral rehydration solution",
+        "Decide whether the child is alert enough to drink fluids",
+        "Weigh each diaper and record the number of wet diapers"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Assessing perfusion and hydration status requires RN judgment.",
+        "Incorrect. Teaching is the RN's responsibility.",
+        "Incorrect. Judging mental status and readiness for oral intake requires RN assessment.",
+        "Correct. Measuring and recording output is a routine task the UAP can perform and report to the RN."
+      ],
+      "rationale": "In a dehydrated child, wet diapers are an early, easy measure of fluid balance. Weighing and counting diapers is a routine, measurable task that the UAP can do and report, while assessing capillary refill, judging mental status, and teaching remain with the RN. Checking capillary refill is tempting because it is quick, but interpreting perfusion is an assessment.",
+      "takeaway": "UAP can measure and record output in a dehydrated child; the RN assesses perfusion and teaches.",
+      "hintContent": "Which task is a measurement rather than a judgment?",
+      "hintStrategy": "Delegate tasks that are routine and measurable; keep anything that requires interpreting findings."
+    },
+    {
+      "id": "m10-x3-050",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "Refer to the exhibit. A 10-month-old has had vomiting and diarrhea for 2 days. Which findings indicate poor fluid volume and perfusion? Select all that apply.",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Flowsheet",
+            "table": {
+              "headers": [
+                "Assessment",
+                "Finding"
+              ],
+              "rows": [
+                [
+                  "Mental status",
+                  "Difficult to arouse; weak cry"
+                ],
+                [
+                  "Capillary refill",
+                  "4 seconds"
+                ],
+                [
+                  "Diapers",
+                  "Last wet diaper 9 hours ago"
+                ],
+                [
+                  "HR",
+                  "132/min"
+                ],
+                [
+                  "BP",
+                  "90/56 mm Hg"
+                ],
+                [
+                  "T",
+                  "37.9 °C (100.2 °F)"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "BP 90/56 mm Hg",
+        "Difficult to arouse with a weak cry",
+        "T 37.9 °C (100.2 °F)",
+        "HR 132/min",
+        "No wet diaper for 9 hours",
+        "Capillary refill of 4 seconds"
+      ],
+      "answer": [
+        1,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. This BP is within the expected range for an infant; children often keep a normal BP until late.",
+        "Correct. Lethargy shows the brain is not receiving enough blood flow.",
+        "Incorrect. A low-grade temperature adds to fluid needs but is not itself a perfusion finding.",
+        "Incorrect. This heart rate is within the normal range for a 10-month-old.",
+        "Correct. Little or no urine output shows the kidneys are underperfused.",
+        "Correct. Refill longer than about 2–3 seconds indicates poor peripheral perfusion."
+      ],
+      "rationale": "The best bedside checks of a young child's fluid status are mental status, capillary refill, and wet diapers. Lethargy, a capillary refill of 4 seconds, and no urine for 9 hours show that the brain, skin, and kidneys are not receiving enough blood, so the nurse acts and reports immediately. The normal BP is tempting to select because it is a vital sign, but children compensate so well that hypotension appears late.",
+      "takeaway": "In infants, lethargy, slow capillary refill, and no wet diapers signal poor perfusion even with a normal BP.",
+      "hintContent": "Which findings tell you about blood flow to the brain, skin, and kidneys?",
+      "hintStrategy": "Compare each value with age-appropriate norms rather than adult norms before selecting it."
+    },
+    {
+      "id": "m10-x3-051",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "alsoTests": [],
+      "stem": "A nurse is leading a prenatal class about how pregnancy affects inflammation and immunity. Which statements by participants indicate correct understanding? Select all that apply.",
+      "options": [
+        "\"My immune system is turned down a bit so it does not attack the baby.\"",
+        "\"Being pregnant makes my immune system stronger against infection.\"",
+        "\"Pregnancy can contribute to some chronic inflammatory diseases.\"",
+        "\"I might react more strongly to harmless things like dust or pollen.\"",
+        "\"Preeclampsia involves inflammation of the blood vessel lining.\"",
+        "\"Preeclampsia usually starts during the first few weeks of pregnancy.\""
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. The maternal immune response is dampened to protect the genetically half-foreign fetus.",
+        "Incorrect. The immune system is dampened, not strengthened, during pregnancy.",
+        "Correct. Pregnancy is listed as a possible contributor to chronic inflammatory disease.",
+        "Correct. Pregnancy immune changes may cause hypersensitivity to nonpathogenic stimuli.",
+        "Correct. Preeclampsia is an inflammation-mediated hypertensive disorder.",
+        "Incorrect. Preeclampsia usually develops after 20 weeks of pregnancy."
+      ],
+      "rationale": "During pregnancy, the immune system is dampened so it will not attack the fetus. This may lead to hypersensitivity to harmless stimuli and can contribute to chronic inflammatory diseases. Preeclampsia is an inflammation-mediated hypertensive disorder in which inflammation damages the blood vessel lining, usually after 20 weeks. The \"stronger immune system\" statement is tempting because pregnant clients are encouraged to stay healthy, but the immune response is actually turned down.",
+      "takeaway": "Pregnancy dampens immunity, may cause hypersensitivity and chronic inflammatory disease, and preeclampsia is inflammation-mediated, usually after 20 weeks.",
+      "hintContent": "Which direction does pregnancy move the immune system, and when does preeclampsia usually appear?",
+      "hintStrategy": "Watch for options that reverse a key fact; in SATA, each statement stands alone."
+    },
+    {
+      "id": "m10-x3-052",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "alsoTests": [],
+      "stem": "The RN is orienting a new UAP in a long-term care facility. Which changes in a resident should the RN instruct the UAP to report right away? Select all that apply.",
+      "options": [
+        "A resident with long-standing hearing loss who asks staff to speak up",
+        "A resident who refuses to get out of bed for the first time",
+        "A resident who ate less than half of two meals in a row",
+        "A resident who is suddenly confused about where she is",
+        "A resident whose temperature is 36.3 °C with a baseline of 36.2 °C",
+        "A resident who slid to the floor while walking to the bathroom"
+      ],
+      "answer": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. Chronic, unchanged hearing loss is a baseline finding.",
+        "Correct. New weakness or not wanting to get up can be an early sign of infection.",
+        "Correct. Loss of appetite is a common atypical sign of infection in older adults.",
+        "Correct. New confusion is often the first sign of infection in an older adult.",
+        "Incorrect. A 0.1 °C difference from baseline is not a meaningful change.",
+        "Correct. A new fall can signal infection or another acute illness and also needs RN assessment."
+      ],
+      "rationale": "Older adults often show infection through new confusion, falls, weakness, refusing to get out of bed, or loss of appetite rather than a high fever. The RN teaches the UAP to report these new changes right away so the RN can assess and look for a source. Findings that match the resident's baseline do not need urgent reporting. The temperature option is tempting to select because any temperature seems important, but a 0.1 °C difference from baseline is insignificant.",
+      "takeaway": "Teach UAP to report any new confusion, fall, weakness, or poor appetite in an older adult right away.",
+      "hintContent": "Ask whether each finding is new for that resident or part of the baseline.",
+      "hintStrategy": "In delegation SATA, the UAP reports changes; the RN interprets them, so select every new change."
+    },
+    {
+      "id": "m10-x3-053",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "alsoTests": [
+        "pharmacology"
+      ],
+      "stem": "A 14-year-old with ulcerative colitis has taken prednisone for 2 months and is below the expected weight for age. Which actions should the nurse include in the plan of care? Select all that apply.",
+      "options": [
+        "Recommend aspirin for joint aches related to the colitis",
+        "Plot height and weight on a growth chart at each visit",
+        "Discuss medication concerns only when a parent is present",
+        "Ask the teen privately about body image, school, and friends",
+        "Request a dietitian referral for high-calorie, nutrient-dense meals",
+        "Suggest skipping meals on days with frequent diarrhea"
+      ],
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Aspirin is avoided in children and teens because of Reye syndrome risk, and it irritates the GI tract.",
+        "Correct. Chronic gut inflammation can slow growth, so growth is tracked over time.",
+        "Incorrect. Teens should have a chance to talk privately; excluding private time can hide adherence concerns.",
+        "Correct. Adolescents may stop steroids that change their appearance if their concerns are not heard.",
+        "Correct. A dietitian helps meet the higher nutrition needs created by poor absorption.",
+        "Incorrect. Skipping meals worsens nutrition and growth."
+      ],
+      "rationale": "Gut inflammation decreases nutrient absorption, which can slow a child's growth and weight gain. The plan includes growth monitoring, a dietitian referral for high-calorie, nutrient-dense meals, and private conversations about body image, since teens may stop steroids that cause a round face and acne. Talking only with a parent present is tempting because parents manage care, but adolescents need private time to share concerns that affect adherence.",
+      "takeaway": "Teens with chronic gut inflammation need growth tracking, nutrition support, and private conversations about body image.",
+      "hintContent": "Think about growth, nutrition, and what makes adolescents stop taking steroids.",
+      "hintStrategy": "For adolescent items, favor options that respect privacy and developmental concerns."
+    },
+    {
+      "id": "m10-x3-054",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Health Promotion and Maintenance",
+      "type": "sata",
+      "difficulty": 2,
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "alsoTests": [
+        "pharmacology"
+      ],
+      "stem": "The nurse is preparing discharge teaching for the parents of a 3-year-old who weighs 14 kg (31 lb) and has a viral upper respiratory infection with fever. Which instructions should the nurse include? Select all that apply.",
+      "options": [
+        "Count wet diapers or trips to the bathroom each day",
+        "Offer small amounts of fluid often throughout the day",
+        "Bundle your child in extra blankets to sweat out the fever",
+        "Give acetaminophen in the dose calculated for your child's weight",
+        "Give children's aspirin if the fever is not coming down"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Urine output is an early, easy measure of fluid balance.",
+        "Correct. Fever and fast breathing increase fluid losses, and a young child's reserve is small.",
+        "Incorrect. Heavy blankets trap heat and increase fluid loss.",
+        "Correct. Pediatric doses are based on weight in kilograms.",
+        "Incorrect. Aspirin during a viral illness in a child is linked to Reye syndrome."
+      ],
+      "rationale": "Young children lose fluid quickly through fever and fast breathing because their total fluid volume is small. Parents should give weight-based doses of an antipyretic, offer small, frequent fluids, and track urine output. Aspirin is avoided during a viral illness because of the risk of Reye syndrome. Children's aspirin is tempting because the product is labeled for children, but the Reye syndrome risk applies to any aspirin product.",
+      "takeaway": "Feverish child with a viral illness: weight-based acetaminophen, small frequent fluids, track output, and no aspirin.",
+      "hintContent": "Think about dosing, fluids, and the drug that is dangerous with viral illness in children.",
+      "hintStrategy": "Eliminate any home-remedy option that increases fluid loss or uses a drug with a known pediatric risk."
+    },
+    {
+      "id": "m10-x3-055",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "alsoTests": [
+        "anaphylaxis"
+      ],
+      "stem": "A 2-year-old at a child care center was stung by a bee 10 minutes ago. Which findings indicate airway involvement that requires immediate epinephrine? Select all that apply.",
+      "options": [
+        "High-pitched noise when breathing in",
+        "New drooling and refusing to swallow",
+        "A hoarse cry",
+        "Crying and asking for a parent",
+        "Itching on the arm near the sting",
+        "A raised, red welt at the sting site"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Inspiratory stridor signals upper airway narrowing.",
+        "Correct. Drooling suggests the child cannot manage secretions because of throat swelling.",
+        "Correct. Hoarseness means the larynx is swelling, which can quickly obstruct a toddler's narrow airway.",
+        "Incorrect. Fear and crying are expected after a sting and are not airway signs by themselves.",
+        "Incorrect. Local itching is a common reaction and not a sign of airway swelling.",
+        "Incorrect. A local reaction at the sting site does not indicate airway involvement."
+      ],
+      "rationale": "A young child's large tongue, narrow trachea, and prominent lymph tissue mean that swelling that would only make an adult hoarse can close a toddler's airway. A hoarse cry, stridor, or drooling after an allergen exposure signals upper airway involvement, and epinephrine is given now. Local welts and itching are expected local reactions. Crying is tempting to select because it is distressing, but a strong cry actually shows the child is moving air.",
+      "takeaway": "In a young child, a hoarse cry, stridor, or drooling after an allergen means airway swelling; give epinephrine now.",
+      "hintContent": "Which findings reflect swelling of the upper airway rather than a local skin reaction?",
+      "hintStrategy": "Sort each finding as local versus airway; only airway findings answer this stem."
+    },
+    {
+      "id": "m10-x3-056",
+      "topic": "lifespan",
+      "ref": "Module 10 · Inflammation · Lifespan Considerations",
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "type": "sata",
+      "difficulty": 3,
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Assessment Findings",
+      "alsoTests": [],
+      "stem": "A client at 33 weeks' gestation is hospitalized for preeclampsia. Which findings should the nurse report to the provider immediately? Select all that apply.",
+      "options": [
+        "Blurred vision and seeing flashing lights",
+        "Leg cramps at night",
+        "A headache that has not improved with acetaminophen",
+        "Nasal stuffiness without fever",
+        "Heartburn after large meals",
+        "BP 164/112 mm Hg on two readings"
+      ],
+      "answer": [
+        0,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Visual changes are a severe feature that means the disorder is worsening.",
+        "Incorrect. Nocturnal leg cramps are a common, expected discomfort of pregnancy.",
+        "Correct. A severe, persistent headache signals that the disorder is affecting the brain.",
+        "Incorrect. Nasal congestion is common in pregnancy and is not a preeclampsia warning sign.",
+        "Incorrect. Heartburn after meals is a common discomfort of late pregnancy.",
+        "Correct. Severe-range BP increases the risk of stroke and organ damage."
+      ],
+      "rationale": "Preeclampsia is an inflammation-mediated disorder that damages the blood vessel lining, causing high BP and organ stress. A severe headache, visual changes, and severe-range BP are warning signs that the disorder is affecting the brain and becoming severe, so they are reported immediately. Heartburn may be tempting to select because upper abdominal symptoms can matter in pregnancy, but heartburn after large meals is a common, expected discomfort.",
+      "takeaway": "In preeclampsia, report severe headache, visual changes, or severe-range BP immediately.",
+      "hintContent": "Which findings suggest that the vessel damage is affecting the brain or worsening?",
+      "hintStrategy": "Separate common pregnancy discomforts from findings that signal organ involvement."
+    }
+  ]
+});

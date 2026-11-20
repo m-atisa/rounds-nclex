@@ -8,12 +8,19 @@ import { Html } from './ui';
 
 export const sectionId = (i: number) => `sec-${i}`;
 
-const reveal = {
-  initial: { opacity: 0, y: 16 },
-  whileInView: { opacity: 1, y: 0 },
-  viewport: { once: true, margin: '-40px' },
-  transition: { duration: 0.55, ease: [0.2, 0.8, 0.2, 1] as const },
-};
+/** Turns run-on "(1) … (2) … (3) …" sentences into real lists so dense paragraphs scan easily. */
+export function tidyHtml(html: string) {
+  const wrapped = /<p[\s>]/.test(html) ? html : `<p>${html}</p>`;
+  return wrapped.replace(/<p>([\s\S]*?)<\/p>/g, (m, inner: string) => {
+    if (!/\(1\)[\s\S]*\(2\)/.test(inner)) return m;
+    const parts = inner.split(/\s*\((\d{1,2})\)\s+/);
+    const lead = parts[0].trim();
+    const items: string[] = [];
+    for (let i = 2; i < parts.length; i += 2) items.push(parts[i].trim().replace(/[;,]\s*(and|or)?\s*$/i, ''));
+    if (items.length < 2) return m;
+    return (lead ? `<p>${lead}</p>` : '') + `<ol class="inline-list">${items.map((x) => `<li>${x}</li>`).join('')}</ol>`;
+  });
+}
 
 function Table({ t }: { t: TableData }) {
   return (
@@ -79,23 +86,75 @@ export function CheckCard({ c, label = 'Quick check' }: { c: SelfCheck; label?: 
 
 export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topic; compact?: boolean }) {
   const mins = readingMinutes(topic);
-  const isLesson = !!(topic.objectives?.length || topic.bigPicture || topic.keyTerms?.length);
+  const sections = topic.sections ?? [];
+  const parts = sections.filter((s) => s.heading).length;
   return (
-    <article className="article">
+    <article className="article lesson">
       <div className="article-meta">
         {topic.exemplar && <span className="exemplar-tag">Exemplar {topic.exemplar}</span>}
         <span className="read-time">
-          <Icon name="clock" /> {mins} min read
+          <Icon name="clock" /> {mins} min read{parts ? ` · ${parts} parts` : ''}
         </span>
       </div>
       {compact ? <h2 className="article-title">{topic.title}</h2> : <h1>{topic.title}</h1>}
       {topic.summary && <Html as="p" className="summary" html={topic.summary} />}
 
-      {isLesson && !compact && topic.sections && topic.sections.length > 2 && (
-        <nav className="lesson-outline" aria-label="In this lesson">
-          <span className="eyebrow">In this lesson</span>
+      {!!topic.recap?.length && (
+        <section className="key-points" aria-label="Key points">
+          <h2 className="kp-title">
+            <Icon name="check" /> Key points <span>the 2-minute version</span>
+          </h2>
+          <ul>
+            {topic.recap.map((r, i) => (
+              <Html as="li" key={i} html={r} />
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {topic.bigPicture && (
+        <section className="big-picture">
+          <span className="eyebrow">In plain words</span>
+          <Html as="div" html={tidyHtml(topic.bigPicture)} />
+        </section>
+      )}
+
+      {!!topic.objectives?.length && (
+        <details className="lesson-details">
+          <summary>
+            <Icon name="target" /> What you’ll be able to do <span className="faint">({topic.objectives.length})</span>
+          </summary>
+          <ul>
+            {topic.objectives.map((o, i) => (
+              <Html as="li" key={i} html={o.replace(/^After this lesson you can\s*/i, '').replace(/^./, (c) => c.toUpperCase())} />
+            ))}
+          </ul>
+        </details>
+      )}
+
+      {!!topic.keyTerms?.length && (
+        <details className="lesson-details key-terms" open={!compact}>
+          <summary>
+            <Icon name="book" /> Key terms <span className="faint">({topic.keyTerms.length})</span>
+          </summary>
+          <dl>
+            {topic.keyTerms.map((k) => (
+              <div key={k.term}>
+                <dt>{k.term}</dt>
+                <Html as="span" className="dd" html={k.def} />
+              </div>
+            ))}
+          </dl>
+        </details>
+      )}
+
+      {!compact && parts > 2 && (
+        <details className="lesson-details outline-sm">
+          <summary>
+            <Icon name="list" /> In this lesson <span className="faint">({parts} parts)</span>
+          </summary>
           <ol>
-            {topic.sections.map((s, i) =>
+            {sections.map((s, i) =>
               s.heading ? (
                 <li key={i}>
                   <a href={`#${sectionId(i)}`} onClick={(e) => { e.preventDefault(); document.getElementById(sectionId(i))?.scrollIntoView({ behavior: 'smooth', block: 'start' }); }}>
@@ -105,55 +164,25 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
               ) : null,
             )}
           </ol>
-        </nav>
+        </details>
       )}
 
-      {!!topic.objectives?.length && (
-        <motion.div className="lesson-box objectives" {...reveal}>
-          <h3>
-            <Icon name="target" /> By the end of this lesson you can
-          </h3>
-          <ul>
-            {topic.objectives.map((o, i) => (
-              <Html as="li" key={i} html={o.replace(/^After this lesson you can\s*/i, '').replace(/^./, (c) => c.toUpperCase())} />
-            ))}
-          </ul>
-        </motion.div>
-      )}
-
-      {topic.bigPicture && (
-        <motion.section className="big-picture" {...reveal}>
-          <span className="eyebrow">The big picture</span>
-          <Html as="div" html={topic.bigPicture} />
-        </motion.section>
-      )}
-
-      {!!topic.keyTerms?.length && (
-        <motion.section className="key-terms" {...reveal}>
-          <h2>Key terms</h2>
-          <dl>
-            {topic.keyTerms.map((k) => (
-              <div key={k.term}>
-                <dt>{k.term}</dt>
-                <Html as="span" className="dd" html={k.def} />
-              </div>
-            ))}
-          </dl>
-        </motion.section>
-      )}
-
-      {topic.sections?.map((s, i) => (
-        <motion.section key={i} id={sectionId(i)} className="lesson-section" {...reveal}>
-          {s.heading && <h2>{s.heading}</h2>}
-          {s.body && <Html as="div" className="prose" html={s.body.includes('<p') ? s.body : `<p>${s.body}</p>`} />}
-          {s.analogy && (
-            <div className="callout analogy">
-              <h3>
-                <Icon name="bulb" /> Think of it like this
-              </h3>
-              <Html as="p" html={s.analogy} />
-            </div>
+      {sections.map((s, i) => (
+        <section key={i} id={sectionId(i)} className="lesson-section">
+          {s.heading && (
+            <>
+              <span className="part-no">
+                Part {sections.slice(0, i + 1).filter((x) => x.heading).length} of {parts}
+              </span>
+              <h2>{s.heading}</h2>
+            </>
           )}
+          {s.keyIdea && (
+            <p className="key-idea">
+              <Icon name="bulb" /> <Html html={s.keyIdea} />
+            </p>
+          )}
+          {s.body && <Html as="div" className="prose" html={tidyHtml(s.body)} />}
           {s.bullets && (
             <ul>
               {s.bullets.map((b, j) => (
@@ -172,26 +201,34 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
             </ol>
           )}
           {s.table && <Table t={s.table} />}
+          {s.analogy && (
+            <div className="callout analogy">
+              <h3>
+                <Icon name="bulb" /> Think of it like this
+              </h3>
+              <Html as="p" html={s.analogy} />
+            </div>
+          )}
           {s.example && (
             <div className="callout example">
               <h3>
                 <Icon name="clipboard" /> At the bedside
               </h3>
-              <Html as="div" html={s.example.replace(/^\s*<strong>\s*At the bedside:?\s*<\/strong>:?\s*/i, '')} />
+              <Html as="div" html={tidyHtml(s.example.replace(/^\s*<strong>\s*At the bedside:?\s*<\/strong>:?\s*/i, ''))} />
             </div>
           )}
           {s.check && <CheckCard c={s.check} />}
-        </motion.section>
+        </section>
       ))}
 
       {topic.table && (
-        <motion.div {...reveal} id="sec-table">
+        <div id="sec-table">
           <Table t={topic.table} />
-        </motion.div>
+        </div>
       )}
 
       {!!topic.mnemonics?.length && (
-        <motion.div className="callout mnemonic" {...reveal}>
+        <div className="callout mnemonic">
           <h3>
             <Icon name="sparkle" /> Memory aids
           </h3>
@@ -201,24 +238,24 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
               <Html as="p" html={m.text} />
             </div>
           ))}
-        </motion.div>
+        </div>
       )}
 
       {!!topic.pearls?.length && (
-        <motion.div className="callout pearl" {...reveal} id="sec-pearls">
+        <div className="callout pearl" id="sec-pearls">
           <h3>
-            <Icon name="sparkle" /> How the NCLEX tests this
+            <Icon name="sparkle" /> NCLEX tips
           </h3>
           <ul>
             {topic.pearls.map((p, i) => (
               <Html as="li" key={i} html={p} />
             ))}
           </ul>
-        </motion.div>
+        </div>
       )}
 
       {!!topic.redFlags?.length && (
-        <motion.div className="callout red" {...reveal} id="sec-red">
+        <div className="callout red" id="sec-red">
           <h3>
             <Icon name="alert" /> Red flags — act now
           </h3>
@@ -227,32 +264,19 @@ export function TopicArticle({ topic, compact }: { moduleId: string; topic: Topi
               <Html as="li" key={i} html={p} />
             ))}
           </ul>
-        </motion.div>
-      )}
-
-      {!!topic.recap?.length && (
-        <motion.div className="lesson-box recap" {...reveal}>
-          <h3>
-            <Icon name="check" /> Lesson recap
-          </h3>
-          <ul>
-            {topic.recap.map((r, i) => (
-              <Html as="li" key={i} html={r} />
-            ))}
-          </ul>
-        </motion.div>
+        </div>
       )}
 
       {!!topic.checks?.length && (
-        <motion.section className="self-checks" {...reveal}>
+        <section className="self-checks">
           <h2>Check your understanding</h2>
-          <p className="muted small">Answer each one in your head first — retrieval is what makes it stick.</p>
+          <p className="muted small">Answer each one in your head first — pulling it from memory is what makes it stick.</p>
           <div className="stack">
             {topic.checks.map((c, i) => (
               <CheckCard key={i} c={c} label={`Question ${i + 1}`} />
             ))}
           </div>
-        </motion.section>
+        </section>
       )}
     </article>
   );

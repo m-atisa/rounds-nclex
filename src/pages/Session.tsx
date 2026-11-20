@@ -334,7 +334,7 @@ function Runner({ session }: { session: Session }) {
             </>
           ) : (
             <span className="faint small hide-sm kbd-inline">
-              <kbd>1</kbd>–<kbd>6</kbd> select · <kbd>Enter</kbd> {item.locked ? 'next' : 'submit'}
+              <kbd>1</kbd>–<kbd>{'options' in q ? q.options.length : 6}</kbd> select · <kbd>Enter</kbd> {item.locked ? 'next' : 'submit'}
             </span>
           )}
           <div className="spacer" />

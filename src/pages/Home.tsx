@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { QUESTIONS, UNITS, isNewModule, unitModules } from '../data';
+import { MODULE_BY_ID, QUESTIONS, UNITS, getTopic, isNewModule, unitModules } from '../data';
 import { NewBadge, UnitOverview } from '../components/UnitOverview';
 import { cx } from '../lib/util';
 import { Icon, type IconName } from '../components/Icon';
@@ -35,7 +35,10 @@ export function ModuleGlyph({ icon }: { icon: IconName }) {
 
 
 export function Home() {
-  const { attempts, days, active, startSession } = useProgress();
+  const { attempts, days, active, startSession, lastTopic } = useProgress();
+  const [lastMid, lastTid] = (lastTopic ?? '').split(':');
+  const lastT = lastTopic ? getTopic(lastMid, lastTid) : undefined;
+  const lastM = lastT ? MODULE_BY_ID[lastMid] : undefined;
   const navigate = useNavigate();
   const records = useMemo(() => recordsFromAttempts(attempts), [attempts]);
   const answered = records.length;
@@ -132,6 +135,24 @@ export function Home() {
           <div className="spacer" />
           <Link to="/session" className="btn btn-primary">
             Resume <Icon name="arrowRight" />
+          </Link>
+        </motion.div>
+      )}
+
+      {lastT && lastM && (
+        <motion.div className="resume card" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.25 }} style={{ ['--mc' as string]: lastM.color }}>
+          <div className="resume-icon">
+            <Icon name="book" />
+          </div>
+          <div>
+            <b>Continue reading</b>
+            <p className="muted small" style={{ margin: 0 }}>
+              Module {lastM.number} · {lastT.title}
+            </p>
+          </div>
+          <div className="spacer" />
+          <Link to={`/learn/${lastMid}/${lastTid}`} className="btn">
+            Open lesson <Icon name="arrowRight" />
           </Link>
         </motion.div>
       )}

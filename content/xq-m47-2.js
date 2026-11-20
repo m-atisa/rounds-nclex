@@ -1,0 +1,1278 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m47",
+  "moduleNumber": 47,
+  "moduleTitle": "Health Policy",
+  "questions": [
+    {
+      "id": "m47-x2-001",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A nurse in a primary care practice reviews the afternoon call-back list shown in the exhibit. Which client should the nurse call first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Call-back list",
+            "table": {
+              "headers": [
+                "Client",
+                "Message left with the front desk"
+              ],
+              "rows": [
+                [
+                  "Ms. Chen, 66",
+                  "“Can I keep my Medicare Advantage plan and also buy a Medigap policy?”"
+                ],
+                [
+                  "Mrs. Okafor, 38",
+                  "“Does CHIP cover dental cleanings for my 9-year-old?”"
+                ],
+                [
+                  "Mr. Alvarez, 71",
+                  "“My drug plan raised the price of my warfarin, so I stopped it 4 days ago. I have a mechanical heart valve.”"
+                ],
+                [
+                  "Mr. Doyle, 58",
+                  "“I was laid off yesterday. When is my COBRA paperwork due?”"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "The 66-year-old asking about combining Medicare Advantage with Medigap",
+        "The 38-year-old asking whether CHIP covers her child’s dental cleanings",
+        "The 71-year-old with a mechanical valve who stopped warfarin 4 days ago",
+        "The 58-year-old who was laid off and is asking about COBRA deadlines"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This is a valid coverage question, but it carries no immediate physical risk and can wait.",
+        "Incorrect. Routine dental coverage for a child is a stable, nonurgent question.",
+        "Correct. Stopping anticoagulation with a mechanical valve creates a high risk of valve thrombosis and stroke, so this cost problem is a safety problem.",
+        "Incorrect. COBRA has an election window; this matters but is not an immediate threat to physical safety."
+      ],
+      "rationale": "All four messages are about money, but only one hides a physical threat. A client with a mechanical heart valve who has stopped warfarin is at risk for valve thrombosis and embolic stroke, so the nurse calls him first, assesses for symptoms, and notifies the prescriber about a lower-cost option. The laid-off client is tempting because losing coverage feels urgent, but COBRA and special enrollment give him time, and he has no acute clinical risk. Sort financing calls the same way as clinical calls: physical risk first, then coverage questions.",
+      "takeaway": "When a cost problem has stopped a high-risk medication, treat it as a safety problem and act on it first.",
+      "hintContent": "Look past the insurance words and ask which client has a drug-related risk of harm right now.",
+      "hintStrategy": "In a list of callers, rank by actual or potential physical harm; questions about forms, deadlines, and benefits come after safety.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-002",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 27-year-old client with type 1 diabetes and a high-deductible health plan comes to an urgent care clinic with nausea and abdominal pain for 1 day. The nurse reviews the data in the exhibit. Which finding requires the nurse’s immediate follow-up?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Visit data",
+            "table": {
+              "headers": [
+                "Item",
+                "Finding"
+              ],
+              "rows": [
+                [
+                  "Fingerstick glucose",
+                  "412 mg/dL"
+                ],
+                [
+                  "Respirations",
+                  "30/min, deep; fruity odor on breath"
+                ],
+                [
+                  "Temperature",
+                  "37.1 °C (98.8 °F)"
+                ],
+                [
+                  "Most recent A1C (6 months ago)",
+                  "7.2%"
+                ],
+                [
+                  "Client report",
+                  "“I’ve been taking half my insulin doses until my deductible resets in January. I use my HSA card for test strips.”"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Temperature of 37.1 °C (98.8 °F)",
+        "Deep, rapid respirations with a fruity breath odor",
+        "A1C of 7.2% measured 6 months ago",
+        "Use of HSA funds to buy glucose test strips"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This temperature is within normal limits and does not need urgent action.",
+        "Correct. Deep, rapid respirations and fruity breath with a high glucose suggest diabetic ketoacidosis from insulin rationing, a life-threatening emergency.",
+        "Incorrect. An A1C from 6 months ago reflects past control and does not explain today’s acute symptoms.",
+        "Incorrect. Using HSA money for supplies is an appropriate use of the account, not a problem."
+      ],
+      "rationale": "Consumer-driven plans lower premiums but push early-year costs onto the client, and some clients ration insulin until the deductible is met. In type 1 diabetes, cutting insulin can quickly cause diabetic ketoacidosis, shown here by hyperglycemia, Kussmaul-type breathing, fruity breath, nausea, and abdominal pain. That respiratory finding signals an acute metabolic emergency and needs immediate follow-up. The financing details explain why it happened but are addressed after the client is stabilized.",
+      "takeaway": "Insulin rationing for cost can cause DKA; the physical cues of DKA come before the financial fix.",
+      "hintContent": "Which finding shows the body compensating for a dangerous acid-base problem?",
+      "hintStrategy": "When an exhibit mixes money details with clinical data, choose the abnormal physical finding that signals an acute threat.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-003",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 61-year-old client with newly diagnosed heart failure will be discharged tomorrow with prescriptions for furosemide, metoprolol, and sacubitril-valsartan. He tells the nurse that his company closed last week and his employer coverage ends in 10 days. Which action by the nurse is the priority?",
+      "options": [
+        "Advise him to take each medication every other day until coverage begins",
+        "Tell him Medicare will start automatically because he is close to age 65",
+        "Give him the clinic phone number and document his financial concern",
+        "Refer him to case management today to review COBRA, Marketplace, and Medicaid"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Stretching heart failure medications risks fluid overload and decompensation.",
+        "Incorrect. Medicare generally begins at 65, not because a client is close to that age.",
+        "Incorrect. Documenting without acting leaves a known coverage gap unsolved at discharge.",
+        "Correct. A same-day referral lets the team review COBRA, a special enrollment Marketplace plan, or Medicaid before his medicines run out."
+      ],
+      "rationale": "Most adults get coverage through work, so a job loss can cut off medicines and follow-up care right when a client needs them most. When coverage is ending, the nurse refers to case management or social work the same day so options can be reviewed before discharge: COBRA, a Marketplace plan through a special enrollment period, or Medicaid if income is low. Telling him Medicare will start is tempting because 61 sounds close to 65, but eligibility is based on age 65 or qualifying disability, not nearness to it. Advising him to stretch doses is unsafe.",
+      "takeaway": "A coverage lapse at discharge is a safety risk; refer to case management the same day.",
+      "hintContent": "Which programs can bridge the gap after employer coverage ends for someone under 65?",
+      "hintStrategy": "Pick the option that solves the problem before discharge; eliminate answers that only document or give false reassurance.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-004",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 74-year-old client with Original Medicare Parts A and B and a Medigap policy is being discharged after a pulmonary embolism with a new prescription for apixaban. She has no Part D plan. She says, “Medigap pays whatever Medicare doesn’t, so my blood thinner is covered.” What is the nurse’s priority action?",
+      "options": [
+        "Notify the case manager and prescriber that she lacks drug coverage",
+        "Reassure her that Medigap pays the drug costs Medicare leaves behind",
+        "Teach bleeding precautions and complete the discharge as scheduled",
+        "Advise her to enroll in a Part D plan at the next open enrollment"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Without drug coverage she may not fill the anticoagulant, so the team must solve access before she leaves.",
+        "Incorrect. Medigap pays Original Medicare cost-sharing such as deductibles and coinsurance; it does not supply outpatient drug coverage.",
+        "Incorrect. Bleeding teaching matters, but discharging without confirming she can obtain the drug risks a recurrent clot.",
+        "Incorrect. Waiting for open enrollment leaves a gap in anticoagulation now."
+      ],
+      "rationale": "Medigap fills the cost-sharing gaps of Original Medicare, such as Part A and Part B deductibles and coinsurance, but outpatient prescription coverage comes from Part D or a Medicare Advantage plan that includes drugs. This client’s belief means she may arrive at the pharmacy unable to pay for an anticoagulant she needs to prevent another embolism. The priority is to alert the case manager and prescriber so drug coverage or a lower-cost option is in place before discharge. Reassuring her is tempting because Medigap sounds comprehensive, but it reinforces a dangerous misconception.",
+      "takeaway": "Medigap fills Original Medicare’s cost-sharing gaps; outpatient drugs need Part D or an Advantage plan with drugs.",
+      "hintContent": "Which part of Medicare pays for outpatient prescriptions, and does she have it?",
+      "hintStrategy": "When a client states a false belief that could stop a high-risk drug, choose the action that fixes access before discharge, not later.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-005",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 25-year-old client comes to a free clinic and says she ran out of her inhalers 2 weeks ago because she has no insurance; her mother’s plan dropped her at age 23. She speaks in short phrases, her respiratory rate is 30/min, and her SpO2 is 90% on room air. What should the nurse do first?",
+      "options": [
+        "Explain that she may be able to rejoin her mother’s plan until age 26",
+        "Refer her to an enrollment counselor for a Marketplace health plan",
+        "Give a nebulized albuterol treatment per the clinic’s standing protocol",
+        "Obtain a detailed history of her asthma triggers and past admissions"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The age-26 rule is accurate and useful, but it does not treat her current respiratory distress.",
+        "Incorrect. Enrollment help is needed later; it does not address hypoxemia now.",
+        "Correct. She has signs of an acute asthma exacerbation with low oxygen saturation, so breathing comes first.",
+        "Incorrect. A detailed history delays treatment for a client who cannot speak in full sentences."
+      ],
+      "rationale": "This stem contains a true and useful ACA fact: dependents can generally stay on a parent’s plan until age 26. But the client is in respiratory distress with hypoxemia, so airway and breathing come first, and the nurse gives the bronchodilator ordered by protocol and monitors her response. The age-26 explanation is the tempting answer because it addresses the root cause, yet it does nothing for her oxygenation right now. After she is stable, the nurse can teach about the age-26 rule and refer her for coverage.",
+      "takeaway": "Correct coverage teaching never comes before treating airway and breathing problems.",
+      "hintContent": "Look at her speech, respiratory rate, and SpO2 before thinking about her insurance.",
+      "hintStrategy": "Use ABCs: when one option treats an active breathing problem, it outranks accurate teaching.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2804",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-006",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A client with a PPO plan calls the nurse advice line while visiting another state. He reports severe right lower abdominal pain for 6 hours, a temperature of 38.9 °C (102 °F), and repeated vomiting. He asks whether he should drive 45 minutes to an in-network hospital so he is not billed more. Which response is best?",
+      "options": [
+        "“Get to the nearest emergency department now; in-network rates still apply.”",
+        "“Drive to the in-network hospital so your plan will pay at the lower rate.”",
+        "“Call your insurer for preauthorization first, then go to the nearest hospital.”",
+        "“Go to an in-network urgent care tomorrow if the pain is still present.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. His symptoms suggest an acute abdomen, and emergency care is covered without prior approval at in-network cost-sharing.",
+        "Incorrect. Driving 45 minutes while ill delays care and is unsafe.",
+        "Incorrect. Emergency care does not require preauthorization, and calling first delays treatment.",
+        "Incorrect. Waiting until tomorrow risks rupture if this is appendicitis."
+      ],
+      "rationale": "Severe right lower quadrant pain with fever and vomiting suggests appendicitis, which needs prompt emergency evaluation. Under the ACA, plans must cover emergency services without prior approval and with in-network cost-sharing, even at an out-of-network hospital, and the No Surprises Act protects most insured clients from surprise out-of-network emergency bills. Driving to the in-network hospital is tempting because it seems to save money, but it delays care and the cost fear is mostly unfounded. He should not drive himself while this ill, and billing questions come after he is evaluated.",
+      "takeaway": "For emergency symptoms, send the client to the nearest emergency care; network rules do not delay emergencies.",
+      "hintContent": "What do his symptoms suggest, and what do plans owe clients in an emergency?",
+      "hintStrategy": "When insurance worries compete with emergency symptoms, choose the answer that gets care fastest.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-007",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "While helping a 68-year-old client prepare for discharge, the unlicensed assistive personnel (UAP) tells the RN, “She said she can’t afford her new insulin and will only use it when she feels bad.” Which action should the RN take first?",
+      "options": [
+        "Ask the UAP to remind the client why insulin must be taken daily",
+        "Go to the client to assess her understanding and her cost barriers",
+        "Call the social worker to arrange an insulin cost-assistance program",
+        "Document the statement and continue with the scheduled discharge"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Teaching and correcting a client’s plan are RN responsibilities, not UAP tasks.",
+        "Correct. The RN must first assess what the client understands and what barrier exists before planning a solution.",
+        "Incorrect. A referral is likely needed, but the RN should assess first so the referral targets the real problem.",
+        "Incorrect. Proceeding with discharge ignores a high-risk plan to skip insulin."
+      ],
+      "rationale": "The UAP appropriately reported what the client said, but assessment, teaching, and evaluation belong to the RN. The RN goes to the client first to learn how she plans to take the insulin, what she can afford, and whether she has drug coverage. A social work referral is tempting because cost is the stated problem, yet acting before assessing can miss a knowledge gap or a coverage option, such as a Part D plan, that is already available. After assessing, the RN notifies the prescriber and case manager so the client can afford the insulin before she leaves.",
+      "takeaway": "When a UAP reports a cost-related risk, the RN assesses the client personally before planning.",
+      "hintContent": "Which parts of the nursing process can never be delegated to a UAP?",
+      "hintStrategy": "Assess before acting unless there is an emergency; eliminate options that delegate teaching or skip assessment.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-008",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 70-year-old client with type 2 diabetes who uses insulin glargine is brought to the clinic by her son. She is diaphoretic and shaky, and her fingerstick glucose is 52 mg/dL. Her son says she has been skipping meals to afford her Part D co-payments. The client is alert and able to swallow. What should the nurse do first?",
+      "options": [
+        "Refer her to social work for help paying her Part D co-payments",
+        "Ask the son for a detailed list of her monthly income and expenses",
+        "Notify the prescriber to request a lower dose of insulin glargine",
+        "Give 15 g of a fast-acting oral carbohydrate and recheck in 15 minutes"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Social work is needed, but not before her hypoglycemia is treated.",
+        "Incorrect. A financial history does not treat low blood glucose.",
+        "Incorrect. The prescriber should be told, but the low glucose must be treated immediately.",
+        "Correct. She is alert and can swallow, so oral fast-acting carbohydrate treats the hypoglycemia now."
+      ],
+      "rationale": "Cost barriers can cause harm in indirect ways: this client is skipping food to pay for drugs while still taking insulin, which leads to hypoglycemia. Because she is symptomatic with a glucose of 52 mg/dL but alert and able to swallow, the first action is 15 g of fast-acting oral carbohydrate with a recheck in 15 minutes. Referring to social work is tempting because it fixes the root cause, but it does nothing for a low glucose right now. After she is stable, the nurse notifies the prescriber and refers her for help with Part D costs.",
+      "takeaway": "Treat the physical effect of a cost barrier first, then fix the financial cause.",
+      "hintContent": "She is alert and can swallow; what treats her glucose fastest and safely?",
+      "hintStrategy": "When one option directly treats an unstable physical finding, choose it before referrals or data gathering.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-009",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 56-year-old client enrolled in an HMO comes to his primary care provider’s office to request a referral to a cardiologist. He reports a severe headache and blurred vision that began this morning, and his blood pressure is 198/124 mm Hg. What should the nurse do first?",
+      "options": [
+        "Process the cardiology referral so the HMO will cover the specialist",
+        "Notify the provider immediately of his blood pressure and symptoms",
+        "Recheck the blood pressure after he rests quietly for 30 minutes",
+        "Explain that the HMO requires a PCP visit before any specialty referral"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A referral is a routine step; his symptoms need immediate evaluation, not paperwork.",
+        "Correct. Severe hypertension with headache and visual changes suggests a hypertensive emergency that needs prompt provider action.",
+        "Incorrect. Waiting 30 minutes delays treatment of possible target-organ damage.",
+        "Incorrect. Explaining gatekeeper rules is accurate but delays care for an urgent finding."
+      ],
+      "rationale": "In an HMO, the primary care provider is the gatekeeper who coordinates care and gives specialist referrals. But this client’s blood pressure of 198/124 mm Hg with a severe headache and blurred vision suggests a hypertensive emergency with possible target-organ damage. The nurse notifies the provider immediately so treatment can start, and the referral question can be handled afterward. Processing the referral is tempting because it is what the client asked for, but it treats the visit as routine when it is not.",
+      "takeaway": "Recognize the acute clinical cue first; HMO referral rules never delay urgent evaluation.",
+      "hintContent": "Look at the blood pressure and the new neurologic symptoms before the referral request.",
+      "hintStrategy": "When a client’s stated request hides an urgent cue, respond to the cue, not the request.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-010",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A hospital case manager has four clients to see this morning. Which client should the case manager see first?",
+      "options": [
+        "An uninsured 45-year-old leaving in 1 hour who cannot pay for prescribed enoxaparin",
+        "An 82-year-old awaiting long-term nursing home placement with Medicaid pending",
+        "A 70-year-old asking how Medicare Advantage differs from a Medigap policy",
+        "A 30-year-old asking whether his HSA balance carries over to next year"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. He leaves soon and cannot obtain an anticoagulant, so the risk of a clot is immediate and time-limited.",
+        "Incorrect. Placement planning matters, but she is stable and in a safe setting while Medicaid is processed.",
+        "Incorrect. Comparing Medicare options is important teaching but carries no immediate risk.",
+        "Incorrect. HSA questions are not urgent; HSA balances do roll over."
+      ],
+      "rationale": "Case managers prioritize like other nurses: physical risk and time pressure come first. A client who will leave in an hour without an anticoagulant he cannot afford faces a real risk of thrombosis, and the window to fix it before discharge is closing. The 82-year-old awaiting long-term placement is tempting because Medicaid and nursing home placement sound complex, but she is safe in the hospital while the application proceeds. Coverage education for the other two clients can follow.",
+      "takeaway": "Among financing problems, see first the client whose cost barrier threatens a high-risk drug soon.",
+      "hintContent": "Which client’s money problem could cause physical harm within hours?",
+      "hintStrategy": "Rank by risk and time: an unsafe discharge in progress outranks stable, complex, or educational needs.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-011",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 77-year-old client with hypertension and atrial fibrillation tells the home health nurse, “These pills cost too much, so I’ve been making them last longer.” Her vital signs are stable. Which action should the nurse take first?",
+      "options": [
+        "Call the prescriber to request generic versions of all her medications",
+        "Refer her to the social worker for help applying for Medicaid coverage",
+        "Teach her that skipping doses of any medication can be life-threatening",
+        "Ask which medications she has changed and how she is taking each one"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Asking about generics is helpful, but the nurse needs to know which drugs are affected first.",
+        "Incorrect. A referral may be needed, but assessment should guide it.",
+        "Incorrect. Teaching before assessing may miss the actual problem and can sound like scolding.",
+        "Correct. With stable vital signs, the nurse first assesses exactly which drugs are being stretched and how."
+      ],
+      "rationale": "“Making them last longer” could mean skipping doses, splitting tablets, or stopping an anticoagulant, and each carries a different risk. Because she is stable, the nurse assesses first by asking which medications have changed and how she is taking each one. That information tells the nurse how urgent the problem is and what to report to the prescriber, such as missed anticoagulant doses. Calling for generics is tempting because it addresses cost, but it is a solution chosen before the problem is understood.",
+      "takeaway": "When a stable client reports cost-related nonadherence, assess exactly what changed before intervening.",
+      "hintContent": "What does the nurse still not know about how she is taking her medicines?",
+      "hintStrategy": "If the client is stable, choose the assessment option before referrals, calls, or teaching.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-012",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 16-year-old client at a North Carolina family practice asks for a pregnancy test. She is covered by her father’s employer health plan and says, “If my dad sees this on an insurance statement, he’ll be furious.” Which response by the nurse is best?",
+      "options": [
+        "“I can’t do the test until a parent signs a consent form for you.”",
+        "“Visits by minors are kept off a parent’s insurance statements.”",
+        "“You can consent to this; let’s plan the billing to protect your privacy.”",
+        "“If you consent to the test yourself, the plan will not bill your father.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A minor may consent to pregnancy-related services without a parent.",
+        "Incorrect. Plan statements usually go to the policyholder, so this is false reassurance.",
+        "Correct. She can consent to pregnancy care, and the nurse can coordinate with billing or a free public health clinic to protect confidentiality.",
+        "Incorrect. Her own consent does not change how the plan sends statements to the policyholder."
+      ],
+      "rationale": "In North Carolina, G.S. 90-21.5 lets a minor give effective consent for pregnancy-related services, as most states do. Consent and billing are separate issues, however: insurance statements usually go to the policyholder, so using a parent’s plan could reveal a confidential visit. The best response affirms her right to consent and addresses her real worry by coordinating with billing or offering a free public health clinic. The tempting distractors give false reassurance about statements, which could break her trust if her father later sees a bill.",
+      "takeaway": "A minor’s right to consent does not stop a parent’s plan from sending statements; plan billing to protect confidentiality.",
+      "hintContent": "Separate two questions: who can consent, and who receives the insurance statement?",
+      "hintStrategy": "Avoid absolute promises such as “never” or “will not”; the best response is accurate and addresses the client’s actual concern.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-013",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "The daughter of an 86-year-old client with end-stage pancreatic cancer says, “The doctor mentioned hospice, but we can’t afford it. Dad only has Medicare.” Which response by the nurse is best?",
+      "options": [
+        "“Hospice is usually private pay, so let’s look into a long-term care loan.”",
+        "“Medicare pays only for hospital stays, so Medicaid would have to cover it.”",
+        "“Don’t worry about the cost now; focus on spending time with your father.”",
+        "“Medicare Part A covers hospice; would you like to meet with the hospice team?”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Hospice is a Medicare Part A benefit, so this gives false information.",
+        "Incorrect. Part A covers more than inpatient stays, including hospice, skilled nursing, and home health.",
+        "Incorrect. This dismisses a real concern and leaves the misconception in place.",
+        "Correct. It corrects the misconception and opens a path to the hospice team, who can explain what is included."
+      ],
+      "rationale": "Medicare Part A covers inpatient hospital care, short-term skilled nursing facility care, home health, and hospice. A family that believes hospice is unaffordable may refuse comfort-focused care the client is entitled to. The best response gives accurate information and offers a next step with the hospice team. The reassurance option is tempting because it sounds caring, but it dismisses the daughter’s concern and leaves her believing hospice is out of reach.",
+      "takeaway": "Medicare Part A covers hospice; correct cost myths so families can choose end-of-life care freely.",
+      "hintContent": "Recall what services Part A covers besides inpatient hospital care.",
+      "hintStrategy": "The best therapeutic response is both accurate and responsive; eliminate options that give false facts or dismiss feelings.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m47-x2-014",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 44-year-old client seen in February for kidney stones tells the nurse, “I pay $380 a month for insurance. Why did I get a $900 bill for my CT scan?” Which explanation by the nurse is accurate?",
+      "options": [
+        "“Your co-payment for imaging is a percentage of the bill, charged each visit.”",
+        "“Premiums count toward your deductible, so the bill is probably a mistake.”",
+        "“Your premium keeps the plan active; you may owe your deductible first.”",
+        "“Your out-of-pocket maximum is the amount you pay each month for coverage.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A co-payment is a set dollar amount; a percentage is coinsurance.",
+        "Incorrect. Premiums do not count toward the deductible.",
+        "Correct. Early in the plan year she likely has not met her deductible, which she pays before the plan shares costs.",
+        "Incorrect. The monthly payment is the premium; the out-of-pocket maximum is the yearly cap."
+      ],
+      "rationale": "The premium is paid every month to keep coverage active, whether or not care is used, and it does not count toward the deductible. The deductible is paid first each year before the plan shares costs, so a February scan often falls largely on the client. The co-payment option is tempting because it uses a real insurance term, but it describes coinsurance, which is a percentage. Understanding these words helps the nurse explain a bill and recognize when to refer for financial counseling.",
+      "takeaway": "Premium keeps the plan; the deductible is paid first each year; premiums do not count toward it.",
+      "hintContent": "Which cost word describes the monthly payment, and which comes first in the plan year?",
+      "hintStrategy": "Match each insurance term to its definition and eliminate options that swap look-alike terms.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-015",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 39-year-old client scheduled for an in-network laparoscopic cholecystectomy asks the nurse to help her read her plan summary, shown in the exhibit. The plan’s allowed cost for the covered surgery is $7,000. How much should she expect to pay for the surgery?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Plan summary",
+            "table": {
+              "headers": [
+                "Feature",
+                "Amount"
+              ],
+              "rows": [
+                [
+                  "Monthly premium",
+                  "$310"
+                ],
+                [
+                  "Annual deductible",
+                  "$2,000"
+                ],
+                [
+                  "Coinsurance after deductible",
+                  "20%"
+                ],
+                [
+                  "Annual out-of-pocket maximum",
+                  "$4,500"
+                ],
+                [
+                  "Covered costs paid so far this plan year",
+                  "$0"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "$2,000",
+        "$3,000",
+        "$1,400",
+        "$4,500"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This counts only the deductible and leaves out her 20% coinsurance on the remaining $5,000.",
+        "Correct. She pays the $2,000 deductible, then 20% of the remaining $5,000 ($1,000), for $3,000, which is under her $4,500 maximum.",
+        "Incorrect. This applies 20% to the whole bill and ignores the deductible she must pay first.",
+        "Incorrect. The out-of-pocket maximum is a cap; she reaches it only if her costs add up that high."
+      ],
+      "rationale": "Plans apply cost words in order: the client pays the deductible first, then coinsurance on the rest, until the out-of-pocket maximum caps the year. Here she pays $2,000, then 20% of $5,000, or $1,000, for a total of $3,000. The $1,400 answer is tempting because 20% is the number in front of you, but coinsurance starts only after the deductible is met. The monthly premium is separate and is owed whether or not she has surgery.",
+      "takeaway": "Deductible first, then coinsurance on the remainder, never more than the out-of-pocket maximum.",
+      "hintContent": "Apply the deductible before the percentage, then compare the total with the yearly cap.",
+      "hintStrategy": "For cost calculations, work through the terms in the order the plan applies them and check the answer against any cap.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-016",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 34-year-old client with a consumer-driven health plan is changing employers. He says, “I saved $2,300 in my health savings account for my son’s asthma medicines. I guess I lose that when I quit.” Which response by the nurse is accurate?",
+      "options": [
+        "“The HSA belongs to you, so the balance moves with you to your new job.”",
+        "“Unused HSA money goes back to your employer when your job ends.”",
+        "“You must spend the full balance before your last day of work.”",
+        "“The balance will be applied to your COBRA premiums automatically.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A health savings account is owned by the employee and is portable.",
+        "Incorrect. This describes a health reimbursement arrangement, which is employer-owned.",
+        "Incorrect. HSA funds do not expire when employment ends.",
+        "Incorrect. The HSA is not automatically applied to COBRA premiums."
+      ],
+      "rationale": "Consumer-driven plans pair a high deductible with either a health savings account or a health reimbursement arrangement. An HSA is owned by the employee and goes with him to a new job; an HRA is funded and owned by the employer and usually stays behind. The tempting distractor describes the HRA rule, a classic look-alike error. Knowing the difference helps the client keep paying for his son’s asthma medicines without a gap.",
+      "takeaway": "An HSA goes with the employee; an HRA stays with the employer.",
+      "hintContent": "Which account is owned by the employee, and which by the employer?",
+      "hintStrategy": "When two acronyms look alike, recall who owns each one; ownership decides portability.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-017",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 50-year-old client with a high-deductible health plan has not met his $5,000 deductible this year. He tells the nurse he will skip his recommended screening colonoscopy “because I’d have to pay for the whole thing myself.” Which response by the nurse is most accurate?",
+      "options": [
+        "“Screening is covered once you meet your deductible, so plan it for next year.”",
+        "“Your HSA can pay for it, but the full cost will count toward your deductible.”",
+        "“Recommended screenings are covered with no cost-sharing at an in-network facility.”",
+        "“A colonoscopy is covered only if you are having symptoms such as bleeding.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Evidence-based preventive care is covered even before the deductible is met.",
+        "Incorrect. HSA funds can pay medical costs, but he should not have to pay for in-network preventive screening at all.",
+        "Correct. Under the ACA, recommended preventive services are covered in network with no cost-sharing, even before the deductible.",
+        "Incorrect. Screening for a client without symptoms is the purpose of preventive coverage."
+      ],
+      "rationale": "A known risk of high-deductible plans is that clients skip care before meeting the deductible. The ACA requires coverage of evidence-based preventive services with no cost-sharing, and this applies in network even when the deductible has not been met. The HSA option is tempting because it offers a way to pay, but it accepts the false idea that he owes the cost. Correcting the misconception removes the barrier to cancer screening.",
+      "takeaway": "ACA preventive services are free in network, even before a high deductible is met.",
+      "hintContent": "Is a screening test for someone with no symptoms treated like other care under the ACA?",
+      "hintStrategy": "Choose the answer that removes the barrier to care; distractors often accept the client’s false premise.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2804",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-018",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 68-year-old client enrolled in a Medicare Advantage plan tells the nurse, “My Advantage plan co-pays are adding up, so I’m going to buy a Medigap policy to cover them.” Which response by the nurse is accurate?",
+      "options": [
+        "“Medigap will pay the co-pays your Advantage plan leaves for you.”",
+        "“Medigap supplements Original Medicare and is not used with Advantage.”",
+        "“Medigap replaces Part C, so you will need to cancel your Part D plan.”",
+        "“Medigap pays first, and then your Advantage plan pays the remainder.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Medigap does not supplement an Advantage plan.",
+        "Correct. Medigap works only with Original Medicare; Part C replaces Original Medicare with a private bundled plan.",
+        "Incorrect. Medigap does not replace Part C, and this mixes up the parts.",
+        "Incorrect. With Original Medicare, Medicare pays first and Medigap second; Medigap is not paired with Advantage."
+      ],
+      "rationale": "Medicare Advantage, also called Part C, is a private plan that bundles Parts A and B, usually with drug coverage, and it replaces Original Medicare for the member. Medigap is a private supplement that pays Original Medicare’s gaps, such as deductibles and coinsurance, after Medicare pays. The two are not used together, so buying Medigap would not reduce her Advantage co-pays. The first option is tempting because “gap” sounds like it fits any plan, but it would lead her to buy coverage she cannot use.",
+      "takeaway": "Part C replaces Original Medicare; Medigap supplements Original Medicare; they are not combined.",
+      "hintContent": "What does Medigap fill the gaps of, and what does Part C replace?",
+      "hintStrategy": "For look-alike programs, define each one in a phrase; the accurate option matches both definitions.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-019",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 52-year-old client recently diagnosed with amyotrophic lateral sclerosis (ALS) was just approved for Social Security disability benefits. He tells the nurse, “I read that I have to wait 2 years for Medicare, so I’ll stop seeing the neurologist until then.” Which response by the nurse is accurate?",
+      "options": [
+        "“With ALS, Medicare starts with disability benefits, without a 24-month wait.”",
+        "“People with disabilities must wait 24 months, so let’s find other coverage.”",
+        "“Medicare covers ALS only after age 65, so Medicaid is your best option.”",
+        "“Medicare starts after 24 months, but Medigap can cover you until then.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. ALS is an exception: Medicare begins when disability benefits begin, with no 24-month waiting period.",
+        "Incorrect. The 24-month wait applies to most disabilities, but not to ALS.",
+        "Incorrect. ALS qualifies a person for Medicare before age 65.",
+        "Incorrect. ALS has no 24-month wait, and Medigap supplements Medicare rather than replacing it."
+      ],
+      "rationale": "Medicare covers people 65 and older, younger people after 24 months of Social Security disability benefits, people with end-stage renal disease, and people with ALS. ALS is a special case: coverage begins with disability benefits, with no 24-month wait. The tempting distractor states the general disability rule, which is true for most conditions but wrong for ALS. Correcting this prevents a gap in neurologic care for a rapidly progressing disease.",
+      "takeaway": "ALS qualifies a client for Medicare when disability benefits start, without the usual 24-month wait.",
+      "hintContent": "Which conditions are exceptions to the usual waiting period for disability-based Medicare?",
+      "hintStrategy": "When a distractor states a general rule, check whether the stem describes an exception.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-020",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 40-year-old client who is legally blind and receives Supplemental Security Income (SSI) has missed two eye clinic appointments. He says, “SSI is my health insurance, but they never pay these bills.” Which response by the nurse is most accurate?",
+      "options": [
+        "“SSI is cash aid, not insurance; let’s check whether you have Medicaid.”",
+        "“SSI covers clinic visits only after you meet a yearly deductible.”",
+        "“SSI pays for hospital care, so clinic bills go to Medicare Part B.”",
+        "“SSI is health insurance for low income, so send the bills to them.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. SSI is cash for food, clothing, and housing; health coverage comes from programs such as Medicaid.",
+        "Incorrect. SSI is not insurance and has no deductible.",
+        "Incorrect. SSI does not pay hospital care, and SSI does not make a client eligible for Medicare.",
+        "Incorrect. This confuses SSI with Medicaid and sends bills to a program that does not pay them."
+      ],
+      "rationale": "Supplemental Security Income is a federal cash benefit for aged, blind, or disabled people with little income, meant for basic needs such as food, clothing, and housing. It is not health insurance. Health coverage for a low-income client like this one usually comes from Medicaid, so the nurse helps him check his Medicaid status and keep his eye care. The tempting error is the classic look-alike: SSI is cash, Medicaid is coverage.",
+      "takeaway": "SSI is cash for basic needs; Medicaid is health coverage.",
+      "hintContent": "Is SSI a payment to the person or coverage for health care?",
+      "hintStrategy": "For programs that serve the same population, ask what each one actually provides.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-021",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "The parent of a 6-year-old with hemophilia A says, “His factor treatments cost about $300,000 a year. I’m scared he’ll hit his plan’s lifetime limit and lose his coverage.” Which response by the nurse is accurate?",
+      "options": [
+        "“Lifetime limits reset when he turns 18, so coverage will start over then.”",
+        "“Once he reaches the limit, CHIP will pay for the rest of his care.”",
+        "“Medicare covers children with bleeding disorders after the plan limit.”",
+        "“Plans cannot set annual or lifetime dollar limits on essential benefits.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Lifetime limits on essential benefits are not allowed, so there is nothing to reset.",
+        "Incorrect. CHIP is based on family income, not on reaching a plan limit.",
+        "Incorrect. Medicare does not cover children because of a bleeding disorder.",
+        "Correct. The ACA bans annual and lifetime dollar limits on essential health benefits."
+      ],
+      "rationale": "Before the Affordable Care Act, children with costly chronic conditions could hit lifetime caps and lose coverage. The ACA prohibits annual and lifetime dollar limits on essential health benefits, so his factor therapy cannot be cut off by a dollar cap. The CHIP option is tempting because it is a children’s program, but CHIP eligibility depends on family income, not on exhausting other coverage. Accurate information relieves the parent’s fear and protects the child’s access to treatment.",
+      "takeaway": "Under the ACA, essential benefits have no annual or lifetime dollar limits.",
+      "hintContent": "Which ACA protection addresses very high-cost chronic care?",
+      "hintStrategy": "Eliminate options that name a real program used for the wrong eligibility reason.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2804",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-022",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 58-year-old client with an indemnity health plan has chronic low back pain, and the provider orders a lumbar MRI. The client says, “My plan has no network, so I’ll just book the MRI wherever I want tomorrow.” Which response by the nurse is best?",
+      "options": [
+        "“Indemnity plans pay for imaging only at centers inside their network.”",
+        "“You will need a referral from your primary care gatekeeper first.”",
+        "“Indemnity plans do not cover imaging, so you will pay the full cost.”",
+        "“You may choose any center, but check whether the MRI needs preauthorization.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Indemnity plans have no network.",
+        "Incorrect. A PCP gatekeeper is a feature of HMOs, not indemnity plans.",
+        "Incorrect. Indemnity plans cover services such as imaging, often with preauthorization.",
+        "Correct. Indemnity plans allow any provider, but some services such as an MRI may still need preauthorization."
+      ],
+      "rationale": "Indemnity plans are fee-for-service plans with no network and are the least restrictive private option. Least restrictive does not mean no rules: some services, such as an MRI, may still need preauthorization, and skipping that step could leave the client with the bill. The gatekeeper option is tempting because referrals are common in managed care, but that rule belongs to HMOs. The nurse supports the client’s freedom of choice while preventing an avoidable denial.",
+      "takeaway": "Indemnity plans allow any provider but may still require preauthorization for services such as an MRI.",
+      "hintContent": "Where does an indemnity plan fall on the restrictiveness spectrum, and what rule can it still have?",
+      "hintStrategy": "Place each plan on the HMO-to-indemnity spectrum and reject features that belong to a different plan type.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-023",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A nurse calls a 66-year-old client 3 days after discharge for heart failure. Before discharge, the social worker helped him enroll in a Part D plan because he could not afford his medicines. Which finding best shows that the financial plan worked?",
+      "options": [
+        "He says the social worker gave him a list of nearby pharmacies",
+        "He says he will fill his most important medicine first next week",
+        "He has filled all three medicines and says the co-pays fit his budget",
+        "He plans to ask for more help later if his costs become too high"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A pharmacy list is a resource, not evidence that he obtained his medicines.",
+        "Incorrect. Filling only one medicine later shows the barrier persists.",
+        "Correct. Filled prescriptions with affordable co-pays show the goal of access was met.",
+        "Incorrect. A future plan does not show that he can get his medicines now."
+      ],
+      "rationale": "Evaluating a financing intervention means checking the outcome, not the activity. The goal was that he could obtain and afford his discharge medicines, so the best evidence is that all prescriptions are filled and the co-pays fit his budget. Receiving resources from the social worker is tempting because it shows the referral happened, but a completed referral is not the same as a solved problem. If he had only partly filled his prescriptions, the nurse would notify the team and revise the plan.",
+      "takeaway": "Evaluate a cost-barrier plan by whether the client actually obtained and can afford the care.",
+      "hintContent": "What measurable result was the referral meant to achieve?",
+      "hintStrategy": "In evaluation items, choose the observable outcome that matches the goal, not a step in the process.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-024",
+      "topic": "healthcare-financing",
+      "type": "mcq",
+      "stem": "A 65-year-old client spent her working years raising her children at home and never held a paid job. Her husband paid Medicare taxes for 35 years. She tells the nurse, “I’ll have to pay a big premium for Medicare hospital coverage because I never worked.” Which response by the nurse is accurate?",
+      "options": [
+        "“Part A is premium-free only for people with their own 10 years of work.”",
+        "“Your husband’s work record can qualify you for premium-free Part A.”",
+        "“You will need Medicaid for hospital care because you never paid in.”",
+        "“Part A is free for everyone at 65, but Part B is not available to you.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. A spouse’s work record also counts toward premium-free Part A.",
+        "Correct. Ten years of Medicare taxes by the client or a spouse earns premium-free Part A.",
+        "Incorrect. She can get Medicare at 65; Medicaid depends on income, not work history.",
+        "Incorrect. Part A is not free for everyone, and she can enroll in Part B with a premium."
+      ],
+      "rationale": "Medicare Part A is premium-free for people who, or whose spouse, paid Medicare taxes for about 10 years. Because her husband worked 35 years, she can qualify for premium-free Part A on his record. The first option is tempting because it states the 10-year rule correctly but leaves out the spouse provision. Accurate teaching prevents her from delaying enrollment out of a false fear of cost.",
+      "takeaway": "Ten years of Medicare taxes by the client or a spouse earns premium-free Part A.",
+      "hintContent": "Whose work record can count toward premium-free Part A?",
+      "hintStrategy": "When an option states a rule that is almost right, check whether it leaves out an exception named in the stem.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m47-x2-025",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A 45-year-old client with type 2 diabetes was laid off and will lose employer coverage at the end of the month. The nurse is discussing coverage options. Which statements by the nurse are accurate? Select all that apply.",
+      "options": [
+        "“COBRA usually lets you keep the same plan for up to 18 months.”",
+        "“With COBRA, you pay the full premium plus a small fee.”",
+        "“Losing job coverage opens a special enrollment period, generally 60 days, for a Marketplace plan.”",
+        "“You must wait for the yearly open enrollment period to buy a Marketplace plan.”",
+        "“Medicare will begin once your employer coverage ends.”",
+        "“If your income drops enough, you may qualify for Medicaid.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. COBRA generally continues the same employer plan for up to 18 months.",
+        "Correct. The former employee pays the whole premium, including the employer’s former share, plus a small fee.",
+        "Correct. Job loss triggers a special enrollment period, generally 60 days, for a Marketplace plan.",
+        "Incorrect. Losing job coverage qualifies her for special enrollment, so she does not have to wait.",
+        "Incorrect. Medicare is based on age 65, qualifying disability, ESRD, or ALS, not job loss.",
+        "Correct. Medicaid covers people with low income who meet state rules."
+      ],
+      "rationale": "Losing employer coverage can interrupt diabetes medicines and follow-up care, so the nurse helps the client see every bridge. COBRA keeps the same plan, usually for up to 18 months, but costs more because the client pays the full premium plus a fee. Job loss also opens a special enrollment period, generally 60 days, for a Marketplace plan, and lower income may mean Medicaid. Waiting for open enrollment is the tempting error: it sounds like how insurance usually works, but it could leave her uninsured for months.",
+      "takeaway": "After job loss: COBRA (full premium, up to 18 months), Marketplace special enrollment (about 60 days), or Medicaid if income qualifies.",
+      "hintContent": "Think of three bridges after job loss: keep the old plan, buy a new one, or qualify by income.",
+      "hintStrategy": "In SATA items, judge each statement independently as true or false; do not limit how many you choose.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-026",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A 72-year-old client with Original Medicare Parts A and B is being discharged after a total knee replacement. She asks which of her upcoming costs Part B will help pay for. Which items should the nurse identify as Part B services? Select all that apply.",
+      "options": [
+        "Follow-up office visits with her orthopedic surgeon",
+        "A walker for use at home",
+        "Her yearly influenza vaccine",
+        "The 3-day inpatient hospital stay for her surgery",
+        "Oral pain medicine filled at a retail pharmacy",
+        "A routine eye exam and new eyeglasses"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Part B covers provider visits and outpatient services.",
+        "Correct. A walker is durable medical equipment, covered under Part B.",
+        "Correct. Part B covers preventive services such as flu shots.",
+        "Incorrect. An inpatient hospital stay is covered under Part A.",
+        "Incorrect. Outpatient prescriptions are covered by Part D, not Part B.",
+        "Incorrect. Original Medicare does not cover routine eye care or eyeglasses."
+      ],
+      "rationale": "A simple memory aid is A for Admitted, B for Bills from providers, C for Combination, and D for Drugs. Part B covers provider visits, outpatient care, durable medical equipment such as walkers, and screenings and vaccines, usually with a premium, deductible, and 20% coinsurance. Her inpatient stay falls under Part A, and her pharmacy prescriptions need Part D. Oral pain medicine is the tempting choice because she will use it at home after discharge, like her other outpatient care, but outpatient drugs belong to Part D. Knowing the parts helps the nurse spot coverage gaps before discharge.",
+      "takeaway": "Part B pays provider visits, outpatient care, DME, and screenings; inpatient is Part A and drugs are Part D.",
+      "hintContent": "Use A for Admitted, B for Bills from providers, C for Combination, D for Drugs.",
+      "hintStrategy": "Sort each option into a Medicare part first, then select only those that match the part in the stem.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-027",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "An 81-year-old client with Original Medicare is moving to a skilled nursing facility after a 5-day hospital stay for hip fracture repair. Her son asks what Medicare will help pay for there. Which needs are skilled services that Part A may cover for a short time? Select all that apply.",
+      "options": [
+        "Physical therapy to help her walk again",
+        "Nursing care of her surgical incision",
+        "Occupational therapy to relearn safe dressing",
+        "Help with bathing and dressing after her rehab goals are met",
+        "Long-term supervision because of her memory loss",
+        "Permanent residence once she can no longer live alone"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Rehabilitation therapy is a skilled service covered short term after a qualifying hospital stay.",
+        "Correct. Wound care by licensed nurses is a skilled service.",
+        "Correct. Occupational therapy aimed at regaining function is skilled rehabilitation.",
+        "Incorrect. Ongoing help with bathing and dressing is custodial care, which Medicare does not pay long term.",
+        "Incorrect. Long-term supervision is custodial care, not skilled care.",
+        "Incorrect. Permanent nursing home residence is long-term custodial care, often paid by Medicaid or privately."
+      ],
+      "rationale": "Medicare Part A covers short-term skilled nursing facility care after a qualifying hospital stay, meaning services that need licensed nurses or therapists, such as wound care and rehabilitation. It does not pay long-term custodial care, which is help with daily tasks like bathing, dressing, and supervision. Bathing help is the tempting distractor because the client clearly needs it, but once rehab goals are met, that help is custodial. Medicaid, not Medicare, is the main public payer for long-term nursing home care for those who qualify.",
+      "takeaway": "Medicare pays short-term skilled care after a hospital stay, not long-term custodial care.",
+      "hintContent": "Ask whether each need requires a licensed nurse or therapist to reach a recovery goal.",
+      "hintStrategy": "Sort options as skilled versus custodial; the stem’s words “skilled” and “short time” define the correct set.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-028",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A nurse at a community clinic in North Carolina reviews the intake notes shown in the exhibit and plans referrals for health coverage. Which referrals are appropriate? Select all that apply.",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Intake notes",
+            "table": {
+              "headers": [
+                "Client",
+                "Notes"
+              ],
+              "rows": [
+                [
+                  "Client A",
+                  "34 years old; spouse is on active duty in the U.S. Army"
+                ],
+                [
+                  "Client B",
+                  "70 years old; enrolled member of the Eastern Band of Cherokee Indians"
+                ],
+                [
+                  "Client C",
+                  "62 years old; served 4 years in the U.S. Navy"
+                ],
+                [
+                  "Client D",
+                  "45 years old; low income; no disability"
+                ],
+                [
+                  "Client E",
+                  "29 years old; works for the North Carolina state government"
+                ],
+                [
+                  "Client F",
+                  "10 years old with asthma; family earns too much for Medicaid"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Client A to TRICARE",
+        "Client B to the Indian Health Service",
+        "Client C to the Veterans Affairs health system for an eligibility review",
+        "Client D to Medicare because of low income",
+        "Client E to the Federal Employees Health Benefits program",
+        "Client F to Supplemental Security Income for health coverage"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. TRICARE covers military members and their families.",
+        "Correct. The Indian Health Service serves American Indian and Alaska Native peoples.",
+        "Correct. The VA provides care for eligible veterans, so an eligibility review is appropriate.",
+        "Incorrect. Medicare is based on age, disability, ESRD, or ALS; low income points to Medicaid.",
+        "Incorrect. FEHB covers federal employees, not state employees.",
+        "Incorrect. SSI is cash aid, not health coverage; this child should be referred to CHIP."
+      ],
+      "rationale": "Several public programs serve specific groups: TRICARE for military members and families, the VA for eligible veterans, the Indian Health Service for American Indian and Alaska Native peoples, and FEHB for federal employees. Medicare is for people 65 and older or with certain disabilities, ESRD, or ALS, while Medicaid is for low income. A child whose family earns too much for Medicaid fits CHIP, not SSI. The FEHB referral is tempting because the client works for government, but the program covers federal workers, not state workers.",
+      "takeaway": "Match each client to the program defined by who qualifies: military, veterans, tribal members, federal workers, age, or income.",
+      "hintContent": "For each client, name the feature that decides eligibility: military, veteran, tribe, employer, age, or income.",
+      "hintStrategy": "Treat each SATA option as a true-or-false match and watch for look-alikes such as state versus federal or cash versus coverage.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-029",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A 47-year-old self-employed breast cancer survivor is shopping for a Marketplace health plan. After the nurse teaches about Affordable Care Act protections, which statements by the client show correct understanding? Select all that apply.",
+      "options": [
+        "“A plan cannot turn me down because I had cancer.”",
+        "“A plan can charge me more each month because of my cancer history.”",
+        "“My recommended screening mammogram should cost nothing in network.”",
+        "“There can be no yearly or lifetime dollar cap on my essential benefits.”",
+        "“Once I enroll, my deductibles and co-pays will no longer apply.”",
+        "“My 24-year-old son can stay on my plan as a dependent.”"
+      ],
+      "answer": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Insurers cannot deny coverage for a preexisting condition.",
+        "Incorrect. Insurers also cannot charge more because of a preexisting condition.",
+        "Correct. Evidence-based preventive services are covered in network with no cost-sharing.",
+        "Correct. The ACA bans annual and lifetime dollar limits on essential health benefits.",
+        "Incorrect. Deductibles, co-pays, and coinsurance still apply to most non-preventive care.",
+        "Correct. Dependents can generally stay on a parent’s plan until age 26."
+      ],
+      "rationale": "The ACA protects clients with preexisting conditions from both denial and higher prices, bans annual and lifetime dollar limits on essential benefits, covers preventive services without cost-sharing, and lets dependents stay on a parent’s plan until 26. It did not remove cost-sharing, so the client should still expect deductibles and co-pays for most care. The higher-premium statement is the tempting one because many clients think “cannot deny” is the only protection. Evaluating each statement shows whether teaching needs to be repeated.",
+      "takeaway": "The ACA bars denial and higher prices for preexisting conditions, but it did not eliminate cost-sharing.",
+      "hintContent": "Preexisting-condition protection covers two things; does cost-sharing disappear under the ACA?",
+      "hintStrategy": "In evaluation SATA items, choose the accurate statements and watch for absolute words such as “never.”",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2804",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-030",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A home health nurse visits a 79-year-old client with heart failure and type 2 diabetes who lives alone on a fixed income and has Original Medicare with a Part D plan. Which findings suggest cost-related medication nonadherence? Select all that apply.",
+      "options": [
+        "A 30-day furosemide bottle filled 60 days ago is still half full",
+        "She cuts her metoprolol tablets in half “to make them last”",
+        "She says she often chooses between groceries and prescriptions",
+        "Her weekly pill organizer matches her current medication list",
+        "She reports her Part D co-pays are $5 per prescription",
+        "She can name the purpose of each of her medicines"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. A half-full bottle long after the refill date suggests skipped doses.",
+        "Correct. Splitting tablets to stretch the supply is a sign of cost-related underdosing.",
+        "Correct. Trading food against medicines shows a financial barrier.",
+        "Incorrect. A correctly filled organizer suggests she is taking her medicines as prescribed.",
+        "Incorrect. Low, affordable co-pays make cost a less likely barrier.",
+        "Incorrect. Knowing each drug’s purpose shows understanding, not a cost problem."
+      ],
+      "rationale": "Clients rarely say outright that they cannot afford their medicines; nurses find the cues. Leftover pills past the refill date, tablet splitting to make a supply last, and choosing between food and prescriptions all point to cost-related nonadherence, which is dangerous in heart failure and diabetes. Low co-pays and a correctly filled organizer argue against a cost barrier. Knowing each drug’s purpose is tempting because it sounds like a medication finding, but it reflects understanding, not access. Once the cues are recognized, the nurse notifies the prescriber and refers for financial help.",
+      "takeaway": "Leftover pills, stretched doses, and food-versus-medicine choices are cues of cost-related nonadherence.",
+      "hintContent": "Which findings show the supply is being stretched or money is short?",
+      "hintStrategy": "For Recognize Cues SATA, select only findings that point to the problem named in the stem.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-031",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A 30-year-old client at 12 weeks’ gestation recently moved to North Carolina from another state where she had Medicaid. She tells the clinic nurse, “My Medicaid card should work the same here.” Which statements by the nurse are accurate? Select all that apply.",
+      "options": [
+        "“Medicaid is paid for jointly by the federal government and each state.”",
+        "“Each state sets its own rules, so you will need to apply in North Carolina.”",
+        "“You can apply through the county department of social services.”",
+        "“Medicaid is a federal program, so your card is valid in every state.”",
+        "“Medicaid generally does not pay for prenatal care.”",
+        "“Medicaid eligibility is based on being 65 or older.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Medicaid is jointly funded and run by the federal and state governments.",
+        "Correct. States set rules within federal mandates, so coverage varies and she must apply in her new state.",
+        "Correct. In North Carolina, the county department of social services handles Medicaid applications.",
+        "Incorrect. Medicaid is state-administered, so coverage from another state does not transfer.",
+        "Incorrect. Medicaid covers prenatal care.",
+        "Incorrect. That describes Medicare; Medicaid is based on income."
+      ],
+      "rationale": "Medicaid, created under Title XIX of the Social Security Act, is funded and run jointly by the federal and state governments, and states set rules within federal mandates. Because of this, coverage does not move with the client; she must apply in North Carolina, where county departments of social services handle enrollment. Medicaid covers prenatal care, so applying promptly protects her and her baby. The “federal program” statement is tempting because Medicaid has federal funding, but states run it.",
+      "takeaway": "Medicaid is joint federal-state coverage that varies by state, so clients who move must reapply.",
+      "hintContent": "Who runs Medicaid day to day, and what does that mean when a client moves?",
+      "hintStrategy": "Watch for the Medicare-versus-Medicaid look-alike: CARE for the aged and disabled, AID for low income.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-032",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A 42-year-old client with lupus has just enrolled in an HMO through her new employer. After the nurse’s teaching, which statements by the client indicate correct understanding of her plan? Select all that apply.",
+      "options": [
+        "“My primary care provider will coordinate my care and give referrals.”",
+        "“I need a referral before I see the rheumatologist for my lupus.”",
+        "“If I have chest pain, I will call 911, even if the hospital is out of network.”",
+        "“I can see an out-of-network allergist, and the plan will pay part of it.”",
+        "“The plan focuses on treating illness rather than on prevention.”",
+        "“I can keep this HMO if I move to a state outside its service area.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. In an HMO, the PCP is the gatekeeper who manages care and refers to specialists.",
+        "Correct. HMO members usually need a PCP referral to see a specialist.",
+        "Correct. Emergencies are covered under every plan without prior approval.",
+        "Incorrect. HMOs generally do not pay for nonemergency out-of-network care; partial payment describes a POS or PPO plan.",
+        "Incorrect. HMOs emphasize prevention.",
+        "Incorrect. HMO members must live or work in the plan’s service area."
+      ],
+      "rationale": "An HMO is the most restrictive private plan: members must live or work in its area, use network providers except in emergencies, and get specialist referrals from a PCP gatekeeper. In exchange, HMOs usually have the lowest co-pays and stress prevention. The out-of-network statement is tempting because POS and PPO plans allow it for a higher cost, but an HMO does not pay for nonemergency out-of-network care. Emergency care is always covered, so the client should never delay calling 911.",
+      "takeaway": "HMO: network only (except emergencies), PCP referrals for specialists, focus on prevention, live or work in the area.",
+      "hintContent": "Place the HMO on the restrictiveness spectrum, then check each statement against its rules.",
+      "hintStrategy": "In evaluation SATA items, select statements that are accurate for the specific plan named, not for plans in general.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-033",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A nurse is admitting a 63-year-old client for a planned colectomy. Which actions should the nurse include when screening for financial barriers to a safe discharge? Select all that apply.",
+      "options": [
+        "Ask whether her coverage will change soon, such as with a job change or turning 65",
+        "Ask whether she can afford new medicines and follow-up visits",
+        "Refer her to case management the same day if coverage is ending or unaffordable",
+        "Wait until the day of discharge to raise questions about costs",
+        "Screen only clients who appear to have a low income",
+        "Document any referral and the plan for coverage"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Upcoming changes such as job loss, turning 26 or 65, divorce, or a move can create gaps.",
+        "Correct. New drugs and visits are often the first things clients cannot afford.",
+        "Correct. Early referral gives the team time to solve coverage problems before discharge.",
+        "Incorrect. Waiting until discharge day leaves no time to fix a gap.",
+        "Incorrect. Cost barriers affect insured and middle-income clients too, and screening only some clients is biased.",
+        "Correct. Documentation supports continuity and shows the barrier was addressed."
+      ],
+      "rationale": "Discharge planning starts at admission, and financial screening is part of it. The nurse asks whether coverage will change soon, whether the client can afford new drugs and visits, refers to case management the same day when there is a problem, and documents the referral and plan. Screening only clients who seem poor is tempting as a shortcut, but cost barriers affect many insured clients, especially those with high deductibles, and selective screening introduces bias. Waiting until discharge day leaves no time to fix a gap.",
+      "takeaway": "Screen every client for coverage changes and affordability early, refer the same day, and document.",
+      "hintContent": "When does discharge planning begin, and who is at risk for cost barriers?",
+      "hintStrategy": "Eliminate options that delay action or apply care unequally; choose early, universal, documented steps.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m47-x2-034",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A 31-year-old client with moderate persistent asthma has a consumer-driven health plan with a $4,000 deductible and a health savings account (HSA). She stopped her daily controller inhaler 3 weeks ago because of cost and now uses her rescue inhaler 4 times a day. She has scattered wheezes, and her SpO2 is 95%. After notifying the provider, which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Explain that HSA funds can be used to pay for her prescriptions",
+        "Ask the prescriber about a lower-cost generic or alternative controller",
+        "Refer her to a social worker or financial counselor for help with costs",
+        "Tell her the rescue inhaler alone is enough until the deductible is met",
+        "Advise her to save HSA money by skipping her follow-up visit",
+        "Suggest she use the controller inhaler only on days she wheezes"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. HSA money can pay for medications, which reduces the barrier.",
+        "Correct. A lower-cost option may let her resume daily control therapy.",
+        "Correct. Financial counseling can find other ways to lower her costs.",
+        "Incorrect. Relying on a rescue inhaler alone leaves the airway inflammation untreated and risks a severe attack.",
+        "Incorrect. Skipping follow-up delays evaluation of worsening asthma.",
+        "Incorrect. Controller medicines work only with daily use, not as needed."
+      ],
+      "rationale": "A known risk of high-deductible plans is that clients skip care or medications before meeting the deductible. Her increased rescue inhaler use shows her asthma is getting worse, so after notifying the provider, the nurse removes the cost barrier: point out that HSA funds can pay for prescriptions, ask the prescriber about a lower-cost option, and refer for financial help. Using the controller only on symptomatic days is tempting because it seems to save money, but controllers prevent attacks only when used daily. Every appropriate action supports daily control therapy.",
+      "takeaway": "For CDHP clients who stop medicines because of cost, use HSA funds, lower-cost alternatives, and financial referral, never unsafe dosing changes.",
+      "hintContent": "Which options keep her controller therapy going, and which ones make her asthma less controlled?",
+      "hintStrategy": "Select actions that remove the cost barrier safely; reject any money-saving idea that changes therapy without a prescriber.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2802–2803",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies"
+    },
+    {
+      "id": "m47-x2-035",
+      "topic": "healthcare-financing",
+      "type": "sata",
+      "stem": "A father tells the school nurse that his family earns too much for Medicaid but cannot afford private insurance for his children, ages 4 and 17. After the nurse explains the Children’s Health Insurance Program (CHIP), which statements by the father show correct understanding? Select all that apply.",
+      "options": [
+        "“Both of my children may qualify because CHIP covers kids under 19.”",
+        "“CHIP can cover their checkups, shots, dental, and vision care.”",
+        "“CHIP is paid for with federal money plus matching state funds.”",
+        "“CHIP will also cover my wife and me as their parents.”",
+        "“CHIP will send our family a monthly cash payment for doctor bills.”",
+        "“My 17-year-old will lose CHIP coverage on his 18th birthday.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. CHIP covers children under 19 whose families earn too much for Medicaid.",
+        "Correct. CHIP covers checkups, immunizations, dental, vision, hospital, lab, and x-ray care.",
+        "Correct. CHIP uses federal funds with matching state funds.",
+        "Incorrect. CHIP is a program for children; parents need other coverage, such as Medicaid or a Marketplace plan.",
+        "Incorrect. CHIP is health coverage, not a cash benefit.",
+        "Incorrect. CHIP covers children until age 19, not 18."
+      ],
+      "rationale": "CHIP fills the gap for children under 19 whose families earn too much for Medicaid but cannot afford private coverage. It is funded with federal money and matching state funds and covers checkups, immunizations, dental, vision, hospital, lab, and x-ray services. The age-18 statement is tempting because 18 is the usual age of majority, but CHIP eligibility runs to age 19. The parents themselves are not covered by CHIP and need to explore other options.",
+      "takeaway": "CHIP covers children under 19 above Medicaid income limits, with federal and matching state funds.",
+      "hintContent": "Who is CHIP for, and what is its age cutoff?",
+      "hintStrategy": "In evaluation SATA items, check each client statement against the program’s exact rules, especially numbers such as ages.",
+      "ref": "Module 47 · Health Policy · Healthcare Financing · pp. 2803–2804",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    }
+  ]
+});

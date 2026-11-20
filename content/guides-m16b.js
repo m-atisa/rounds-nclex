@@ -7,122 +7,133 @@ window.NURSE_DATA.push({
  "topics": [
   {
    "id": "blood-pressure",
-   "title": "Blood Pressure: What It Means & How to Measure It Right",
+   "title": "Blood Pressure: What It Means and How to Measure It",
    "exemplar": null,
-   "summary": "Blood pressure tells you how hard blood is pushing through the arteries — learn what creates it, what changes it, and how to measure it so the number you record is the truth.",
+   "summary": "Blood pressure shows how hard blood pushes on the artery walls. Learn what changes it and how to measure it so the number you record is true.",
    "objectives": [
-    "Define arterial pressure, systolic pressure, diastolic pressure, and pulse pressure, and calculate a pulse pressure.",
-    "Explain the four determinants of blood pressure — the pump, peripheral vascular resistance, blood volume, and blood viscosity — and predict how each one changes the reading.",
-    "Choose a safe site for BP measurement and name the limbs you must avoid.",
-    "Measure BP accurately using the palpatory estimate and Korotkoff sounds, and recognize an auscultatory gap.",
-    "Spot the common errors (wrong cuff, haste, bias, poor positioning) and predict whether they make the reading falsely high or low.",
-    "Assess orthostatic vital signs safely and interpret the results."
+    "You can define systolic, diastolic, and pulse pressure, and calculate a pulse pressure.",
+    "You can name the four things that set BP and predict their effects.",
+    "You can choose a safe limb for a BP.",
+    "You can measure BP with a palpated estimate and Korotkoff sounds, and spot an auscultatory gap.",
+    "You can tell which errors make a reading falsely high or low.",
+    "You can check orthostatic vital signs safely."
    ],
-   "bigPicture": "<p>Every cell in the body depends on <strong>perfusion</strong> — blood flowing through the tissues and delivering oxygen and nutrients. Blood pressure (BP) is one of the fastest ways you can tell whether that flow is adequate. Too low, and the brain, heart, and kidneys do not get enough blood. Too high, and the vessels and organs are slowly (or suddenly) damaged.</p><p>BP looks like a simple number, but it is only useful if it is <em>accurate</em>. A cuff that is the wrong size, an arm hanging down, a rushed deflation, or a nurse who “hears” the number they expect can change the reading by 10–20 mm Hg or more. That is enough to start a client on a medication they don't need, or to miss a client who is bleeding.</p><p>In this lesson you will learn what BP actually measures, what makes it go up and down, and exactly how to measure it the right way — plus how to check for the drop in BP that happens when some clients stand up.</p>",
+   "bigPicture": "<p>Every cell needs <b>perfusion</b>. That means blood flowing through the tissues and bringing oxygen and food. Blood pressure (BP) is one of the fastest ways to tell if that flow is enough. Too low, and the brain, heart, and kidneys go short. Too high, and vessels and organs get damaged, slowly or suddenly.</p><p>But a BP only helps if it is accurate. A wrong-size cuff, an arm hanging down, a rushed reading, or a nurse who “hears” what she expects can be off by 10–20 mm Hg or more. That is enough to start a drug the client does not need. It is also enough to miss a client who is bleeding.</p>",
+   "recap": [
+    "Systolic = pressure when the ventricles squeeze. Diastolic = when they rest. Pulse pressure = the difference (normal about 30–50).",
+    "BP depends on the pump, peripheral vascular resistance, blood volume, and blood thickness (viscosity).",
+    "Use the upper arm, or the thigh if both arms are out. Never a limb with an IV, fistula, node removal, cast, or injury.",
+    "Palpate first, pump 30 mm Hg above, deflate 2–3 mm Hg per second. Adults: phase I over phase V.",
+    "Small cuff or low arm = falsely high. Large cuff or raised arm = falsely low.",
+    "Orthostatic hypotension: systolic down 20+ OR diastolic down 10+ within 3 minutes of standing.",
+    "A reading that doesn't fit the client? Recheck with correct technique before acting.",
+    "Compare every BP to the client's own baseline."
+   ],
    "keyTerms": [
     {
      "term": "Arterial pressure",
-     "def": "The pressure of blood flowing through the arteries; what we mean when we say “blood pressure.”"
+     "def": "The pressure of blood inside the arteries. This is what we mean when we say “blood pressure.”"
     },
     {
      "term": "Systolic BP",
-     "def": "The top number — the highest pressure, created when the ventricles contract (systole) and push blood out."
+     "def": "The top number. The highest pressure, made when the ventricles contract (systole) and push blood out."
     },
     {
      "term": "Diastolic BP",
-     "def": "The bottom number — the lowest pressure, when the ventricles are at rest (diastole) and filling."
+     "def": "The bottom number. The lowest pressure, when the ventricles rest (diastole) and refill."
     },
     {
      "term": "Pulse pressure",
-     "def": "The difference between systolic and diastolic pressure (systolic − diastolic). About 40 mm Hg at 120/80."
+     "def": "Systolic minus diastolic. About 40 mm Hg at 120/80. Normal is about 30–50 mm Hg."
+    },
+    {
+     "term": "Cardiac output",
+     "def": "How much blood the heart pumps out each minute."
     },
     {
      "term": "Peripheral vascular resistance (PVR)",
-     "def": "How much the blood vessels (mainly small arterioles) resist blood flow. Narrow or stiff vessels = more resistance = higher BP."
+     "def": "How hard the vessels, mainly the small arterioles, push back against blood flow. Narrow or stiff vessels mean more resistance and higher BP."
+    },
+    {
+     "term": "Viscosity",
+     "def": "How thick the blood is. Thicker blood is harder to push and raises BP."
     },
     {
      "term": "Korotkoff sounds",
-     "def": "The tapping and swishing sounds heard over the brachial artery as the cuff deflates; used to identify systolic and diastolic pressure."
+     "def": "The tapping and swishing sounds heard over the brachial artery as the cuff lets air out. They mark systolic and diastolic pressure."
     },
     {
      "term": "Auscultatory gap",
-     "def": "A temporary disappearance of Korotkoff sounds when the cuff pressure is high, common in clients with hypertension and stiff arteries."
+     "def": "A stretch where the Korotkoff sounds disappear and then come back. Common in older adults with high BP and stiff arteries."
     },
     {
      "term": "Orthostatic (postural) hypotension",
-     "def": "A drop in BP when a client moves from lying to sitting or standing, usually from peripheral vasodilation; a drop of ≥20 mm Hg systolic or ≥10 mm Hg diastolic within 3 minutes of standing."
+     "def": "A BP drop on sitting or standing: systolic falls 20 or more, or diastolic falls 10 or more, within 3 minutes of standing."
+    },
+    {
+     "term": "AV fistula",
+     "def": "An artery and vein joined by surgery to use for dialysis. Cuff pressure can clot it."
     }
    ],
    "sections": [
     {
-     "heading": "What blood pressure actually measures",
-     "body": "<p><strong>Arterial pressure</strong> is the pressure of blood flowing through your arteries. It is not steady — it rises and falls with every heartbeat.</p><p>When the ventricles (the heart's two lower pumping chambers) squeeze, they push a burst of blood into the aorta and arterial pressure peaks. That peak is the <strong>systolic BP</strong> — the top number. When the ventricles relax and refill, pressure falls to its lowest point (never zero, because the stretchy artery walls recoil). That low point is the <strong>diastolic BP</strong> — the pressure while the ventricles are at rest.</p><p>The <strong>pulse pressure</strong> is simply the difference between the two numbers: systolic minus diastolic. At 120/80, the pulse pressure is 120 − 80 = 40 mm Hg. A normal pulse pressure is about 30–50 mm Hg. A pulse pressure that is <em>narrowing</em> (getting smaller) can mean the heart is pushing out less blood with each beat. A pulse pressure that is <em>widening</em> is common in older adults with stiff arteries.</p><p>A typical healthy adult BP is <strong>120/80 mm Hg</strong>, but BP varies a lot from person to person. That is why the nurse must know <strong>this client's baseline</strong>. A BP of 100/60 may be perfectly normal for a small, healthy young woman — and a warning sign in a client whose usual BP is 150/90.</p>",
-     "analogy": "Think of a garden hose connected to a pump that squirts in bursts. Each squirt is systole — pressure spikes. Between squirts, the stretchy hose squeezes back and keeps water moving — that lower, steady pressure is diastole. If the hose gets stiff and old, the spikes get sharper and the between-squirt pressure has less “bounce.”",
+     "heading": "What does blood pressure measure?",
+     "keyIdea": "BP is the push of blood on artery walls: highest when the heart squeezes, lowest when it rests.",
+     "body": "<p>Arterial pressure is the pressure of blood in the arteries. It rises and falls with each heartbeat. When the ventricles squeeze, they push blood into the aorta and pressure peaks. That peak is the <b>systolic</b> BP, the top number.</p><p>When the ventricles relax and refill, pressure falls to its lowest point. It never hits zero, because the stretchy artery walls spring back. That low point is the <b>diastolic</b> BP.</p><p>The <b>pulse pressure</b> is the gap between them. At 120/80, it is 40 mm Hg. Normal is about 30–50. A <b>narrowing</b> pulse pressure can mean less blood pushed out each beat. A <b>widening</b> one is common in older adults with stiff arteries.</p><p>A typical healthy adult BP is 120/80. But know this client's <b>baseline</b>. A BP of 100/60 may be normal for a small, healthy young woman. It may be a warning for a client whose usual BP is 150/90.</p>",
+     "analogy": "Think of a garden hose hooked to a pump that squirts in bursts. Each squirt is systole, and pressure spikes. Between squirts, the stretchy hose squeezes back and keeps water moving. That lower pressure is diastole. An old, stiff hose gives sharper spikes and less bounce between them.",
      "check": {
       "q": "A client's BP is 136/88. What is the pulse pressure?",
-      "a": "48 mm Hg (136 − 88). It is within the normal range of about 30–50 mm Hg."
+      "a": "48 mm Hg (136 − 88). That is within the normal range of about 30–50 mm Hg."
      }
     },
     {
-     "heading": "The four determinants: what makes BP go up or down",
-     "body": "<p>BP is created by four main things. If you understand these, you can predict almost any BP change instead of memorizing it.</p><p><strong>1. The pumping action of the heart.</strong> The more blood the heart pumps out per minute (cardiac output), the higher the pressure. A strong, fast heart raises BP; a weak heart (for example, after a heart attack or in heart failure) lowers it.</p><p><strong>2. Peripheral vascular resistance.</strong> This is how hard it is to push blood through the vessels. Resistance goes <em>up</em> when (a) the arterioles and capillaries have a <strong>decreased capacity</strong> — they are narrowed or squeezed down (vasoconstriction); (b) the arteries <strong>lose compliance</strong> — they become stiff, as with aging and plaque buildup; or (c) the blood's <strong>viscosity increases</strong> — it becomes thicker. More resistance = higher BP.</p><p><strong>3. Blood volume.</strong> More fluid in the vessels = more pressure. Bleeding, dehydration, and severe burns lower blood volume and BP. Fluid retention (for example, from kidney problems or heart failure) raises it.</p><p><strong>4. Blood viscosity.</strong> Thick blood — for example, when the body makes too many red blood cells, or when a client is dehydrated and the blood becomes concentrated — is harder to move and raises BP.</p>",
-     "table": {
-      "caption": "Predicting BP changes from the determinants",
-      "headers": [
-       "Determinant",
-       "What raises BP",
-       "What lowers BP"
-      ],
-      "rows": [
-       [
-        "Pumping action (cardiac output)",
-        "Faster, stronger heartbeat (exercise, stress, fever)",
-        "Weak heart muscle, very slow or very fast ineffective rhythm"
-       ],
-       [
-        "Peripheral vascular resistance",
-        "Vasoconstriction, stiff arteries (aging, plaque), thick blood",
-        "Vasodilation (warmth, some medications, severe infection)"
-       ],
-       [
-        "Blood volume",
-        "Fluid retention, excess IV fluid",
-        "Bleeding, dehydration, severe burns"
-       ],
-       [
-        "Blood viscosity",
-        "More red blood cells, concentrated blood",
-        "Anemia, diluted blood"
-       ]
-      ]
-     },
-     "example": "<strong>At the bedside:</strong> An 82-year-old client's BP is 168/72. Pulse pressure = 168 − 72 = 96 mm Hg — wide. Why? With age, the arteries lose their stretch (compliance), so peripheral vascular resistance rises. Each heartbeat hits a stiff pipe, so the systolic spikes high, but the stiff walls can't recoil well, so the diastolic stays normal or low. This pattern is called <strong>isolated systolic hypertension</strong>, and it is common in older adults."
-    },
-    {
-     "heading": "Other factors that affect blood pressure",
-     "body": "<p>Besides the four determinants, everyday factors nudge BP up or down: <strong>age</strong> (BP rises as arteries stiffen; children run lower), <strong>stress, anxiety, and pain</strong> (the “fight or flight” response speeds the heart and constricts vessels), <strong>race and sex</strong>, <strong>time of day</strong> (usually lowest early in the morning), <strong>medications</strong> (antihypertensives, diuretics, and some analgesics lower it), <strong>activity</strong>, <strong>weight</strong>, and <strong>smoking and caffeine</strong> (short-term vasoconstriction). Knowing these helps you decide whether a reading reflects a real problem or a temporary situation.</p>",
-     "check": {
-      "q": "A client who just walked quickly to the clinic and had a cup of coffee has a BP of 148/92. What should the nurse do?",
-      "a": "Have the client sit quietly for at least 5 minutes and recheck. Activity and caffeine temporarily raise BP; one reading taken under these conditions should not be labeled hypertension."
-     }
-    },
-    {
-     "heading": "Choosing the right site — and the limbs to avoid",
-     "body": "<p>The standard site is the <strong>upper arm</strong>, using the <strong>brachial artery</strong> (on the inner side of the elbow) and a standard stethoscope. The <strong>thigh</strong> (listening over the popliteal artery behind the knee, with a larger thigh cuff) is the alternative when neither arm can be used. Systolic pressure in the thigh usually runs higher than in the arm, so always <strong>document the site</strong> so the next nurse compares like with like.</p><p>Never measure BP on a limb where squeezing the cuff could cause harm or give a false reading. Do <strong>not</strong> use a limb with:</p>",
+     "heading": "What makes BP go up or down?",
+     "keyIdea": "BP rises with more pump, more resistance, more volume, or thicker blood, and falls with the opposite.",
+     "body": "<p>Four main things set the BP. Learn them, and you can predict BP changes instead of memorizing them.</p>",
      "bullets": [
-      "An <strong>injury or disease</strong> of the shoulder, arm, or hand (or of the hip, knee, or ankle, for a leg).",
-      "A <strong>cast or bulky bandage</strong> on any part of the limb.",
-      "<strong>Surgical removal of lymph nodes</strong> in the armpit (axilla) on that side — for example, after breast cancer surgery — or in the hip area for a leg. Squeezing can worsen swelling (lymphedema).",
-      "An <strong>IV infusion</strong> in that limb — the cuff stops the infusion and can damage the vein.",
-      "An <strong>arteriovenous (AV) fistula</strong> — a surgically joined artery and vein used for dialysis. Pressure can clot it and ruin the client's dialysis access."
+      "<b>The pump.</b> More blood pumped per minute (cardiac output) means higher BP. A weak heart, as in heart failure or after a heart attack, lowers it.",
+      "<b>Peripheral vascular resistance.</b> How hard it is to push blood through the vessels. It rises when arterioles narrow (vasoconstriction), arteries stiffen from age or plaque, or blood thickens. Vasodilation lowers it, as with warmth, some medicines, or severe infection (sepsis).",
+      "<b>Blood volume.</b> More fluid means more pressure. Bleeding, dehydration, and severe burns lower it. Fluid retention from kidney problems or heart failure raises it.",
+      "<b>Blood viscosity.</b> Thick blood is harder to move and raises BP. Examples: too many red blood cells, or blood concentrated by dehydration. Anemia thins it."
      ],
-     "example": "<strong>At the bedside:</strong> A client has short casts on both forearms after a fall and a PICC line in the right upper arm. Where do you take the BP? Both arms are ruled out (casts on both; a line in the right). So you use the <strong>thigh</strong>: a correctly sized thigh cuff, client lying prone or supine with the knee slightly bent, listening over the popliteal artery. You document “BP taken on thigh” because the systolic will likely read higher than an arm value."
+     "example": "An 82-year-old's BP is 168/72, so the pulse pressure is 96. That is wide. Aging arteries lose their stretch. Each beat hits a stiff pipe, so the systolic spikes. The stiff walls can't spring back, so the diastolic stays normal or low. This is <b>isolated systolic hypertension</b>, common in older adults."
     },
     {
-     "heading": "Methods and the Korotkoff sounds",
-     "body": "<p>There are two ways to measure BP:</p><p><strong>Direct (invasive)</strong> — a catheter is placed in the brachial, radial, or femoral artery and connected to a monitor. It gives continuous, beat-by-beat readings and is used for critically ill clients.</p><p><strong>Indirect (noninvasive)</strong> — a cuff on the outside of the limb. This includes the <strong>auscultatory</strong> method (listening to Korotkoff sounds with a stethoscope) and the <strong>palpatory</strong> method (feeling for the pulse to return).</p><p>A cuff inflated above systolic pressure squeezes the artery shut, so you hear nothing. As air is let out, the first spurt of blood forced under the cuff makes the first tap — systolic pressure. The sounds then change through five phases until blood flows smoothly and the sounds disappear.</p>",
+     "heading": "What else nudges the BP?",
+     "keyIdea": "Everyday factors change BP for a short time, so think about them before you call a reading abnormal.",
+     "body": "<p>Many daily things push BP up or down for a while. Know them before you call a reading abnormal.</p>",
+     "bullets": [
+      "<b>Age:</b> BP rises as arteries stiffen. Children run lower.",
+      "<b>Stress, anxiety, and pain:</b> “fight or flight” speeds the heart and tightens vessels.",
+      "<b>Race, sex, activity, and weight.</b>",
+      "<b>Time of day:</b> usually lowest early in the morning.",
+      "<b>Medicines:</b> antihypertensives, diuretics, and some analgesics lower it.",
+      "<b>Smoking and caffeine:</b> tighten vessels for a short time."
+     ],
+     "check": {
+      "q": "A client walked fast to the clinic and just drank coffee. BP is 148/92. What should the nurse do?",
+      "a": "Have the client sit quietly for at least 5 minutes, then recheck. Activity and caffeine raise BP for a short time. One reading like this should not be labeled hypertension."
+     }
+    },
+    {
+     "heading": "Which limb should you use?",
+     "keyIdea": "Use the upper arm; never put a cuff on a limb where squeezing could cause harm or a false reading.",
+     "body": "<p>The standard site is the <b>upper arm</b>, over the brachial artery inside the elbow.</p><p>If neither arm can be used, use the <b>thigh</b>, with a larger thigh cuff over the popliteal artery behind the knee. Thigh systolic usually runs higher than arm systolic. So always document the site.</p><p>Do <b>not</b> use a limb with any of these:</p>",
+     "bullets": [
+      "An injury or disease of the shoulder, arm, or hand (or hip, knee, or ankle for a leg).",
+      "A cast or bulky bandage anywhere on the limb.",
+      "Lymph nodes removed from the armpit on that side, as after breast cancer surgery (or from the hip area, for a leg). Squeezing can worsen swelling (lymphedema).",
+      "An IV infusing in that limb. The cuff stops the infusion and can damage the vein.",
+      "An AV fistula for dialysis. Pressure can clot it and ruin the client's dialysis access."
+     ],
+     "example": "A client has casts on both forearms and a PICC line in the right upper arm. Both arms are out, so you use the thigh. Use a correctly sized thigh cuff, client prone or supine with the knee slightly bent. Listen over the popliteal artery. Chart “BP taken on thigh,” since the systolic will likely read higher."
+    },
+    {
+     "heading": "How do you hear a blood pressure?",
+     "keyIdea": "In adults, the first tap (phase I) is the systolic and the silence (phase V) is the diastolic.",
+     "body": "<p>There are two ways to measure BP.</p><p><b>Direct (invasive):</b> a catheter sits in the brachial, radial, or femoral artery. It shows every beat on a monitor. It is used for critically ill clients.</p><p><b>Indirect (noninvasive):</b> a cuff goes around the limb. You either listen for Korotkoff sounds (auscultatory method) or feel for the pulse to return (palpatory method).</p><p>A cuff pumped above systolic squeezes the artery shut, so you hear nothing. As air leaks out, the first spurt of blood under the cuff makes the first tap. That is the systolic. The sounds then change through five phases until blood flows smoothly and the sounds stop.</p>",
      "table": {
-      "caption": "The five phases of Korotkoff sounds",
+      "caption": "The five Korotkoff phases",
       "headers": [
        "Phase",
        "What you hear",
@@ -132,7 +143,7 @@ window.NURSE_DATA.push({
        [
         "I",
         "First clear, faint, rhythmic tapping",
-        "<strong>Systolic pressure</strong> (adults and children)"
+        "Systolic pressure (adults and children)"
        ],
        [
         "II",
@@ -147,33 +158,35 @@ window.NURSE_DATA.push({
        [
         "IV",
         "Sounds become muffled and softer",
-        "<strong>Diastolic in children</strong> (and in adults whose sounds go on to near zero)"
+        "Diastolic in children (and in adults whose sounds go on to near zero)"
        ],
        [
         "V",
         "Sounds disappear (silence)",
-        "<strong>Diastolic in adults</strong>"
+        "Diastolic in adults"
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> In an adult, you hear the first tapping at 134, muffling at 86, and silence at 80. You record <strong>134/80</strong> — phase I over phase V. If this were a child, you would use the onset of muffling (phase IV) as the diastolic value. (Note: current pediatric guidelines from the AAP and AHA use phase V for children too, reserving phase IV for when sounds continue to near zero — follow the convention your course and facility use.)"
+     "example": "In an adult, you hear the first tap at 134, muffling at 86, and silence at 80. You record 134/80. In a child, your course uses muffling (phase IV) as the diastolic. Current AAP and AHA guidelines use phase V in children too, and save phase IV for sounds that go on to near zero. Follow your course and facility."
     },
     {
-     "heading": "The palpatory estimate and the auscultatory gap",
-     "body": "<p>The <strong>palpatory method</strong> means feeling for the pulse instead of listening. Use it (1) when Korotkoff sounds can't be heard and no amplifying equipment is available, and (2) as a <strong>first step before auscultation</strong>, to avoid being fooled by an auscultatory gap.</p><p>An <strong>auscultatory gap</strong> is a temporary disappearance of the sounds when cuff pressure is high, common in older adults with hypertension and stiff arteries. If you only pump the cuff to 160 and the true systolic is 184 with a gap from 166 to 148, you'd first hear sounds at 148 — and record a falsely low systolic, missing hypertension. Estimating the systolic by feel first, then inflating above it, prevents this.</p>",
+     "heading": "How do you avoid the auscultatory gap?",
+     "keyIdea": "Feel for the systolic first, then pump 30 mm Hg above it, so a silent gap can't fool you.",
+     "body": "<p>The <b>palpatory method</b> means feeling for the pulse instead of listening. Use it when you can't hear the sounds and have no amplifying equipment. Also use it as a first step before listening, to avoid an <b>auscultatory gap</b>.</p><p>In a gap, the sounds vanish for a while at high cuff pressures, then return. It is common in older adults with high BP and stiff arteries. If you don't pump high enough, the first sound you hear comes after the gap. You record a falsely low systolic and miss the hypertension.</p>",
      "steps": [
-      "Have the client rest quietly for about 5 minutes, back supported, feet flat, legs uncrossed.",
-      "Apply the correctly sized cuff to the bare upper arm, supported at heart level.",
-      "Feel the radial or brachial pulse and inflate the cuff until the pulse disappears. Note that number — this is the estimated systolic.",
-      "Deflate the cuff completely and wait about 1–2 minutes so blood in the arm can return to normal.",
-      "Place the stethoscope over the brachial artery and inflate the cuff to about 30 mm Hg above the palpated estimate.",
-      "Deflate slowly at 2–3 mm Hg per second. Record the first sound (phase I) as systolic and the point where sounds disappear (phase V) as diastolic in adults. If there is a gap, note it."
+      "Client rests about 5 minutes: back supported, feet flat, legs uncrossed.",
+      "Put the correct-size cuff on the bare upper arm, supported at heart level.",
+      "Feel the radial or brachial pulse. Pump until it disappears. That is your estimated systolic.",
+      "Deflate fully and wait 1–2 minutes.",
+      "Place the stethoscope over the brachial artery. Pump to 30 mm Hg above your estimate.",
+      "Deflate at 2–3 mm Hg per second. First sound = systolic. Silence = diastolic (adults). Note any gap."
      ],
-     "example": "<strong>At the bedside:</strong> A 78-year-old with long-standing hypertension has a palpated estimate of 186. You inflate to 216 and hear tapping at 184. The sounds vanish at 166, return at 148, and disappear for good at 86. The BP is <strong>184/86</strong>, and you document an auscultatory gap from 166 to 148. The sounds that came back after the gap are <em>not</em> the systolic — the first sound is."
+     "example": "A 78-year-old with long-standing high BP has a palpated estimate of 186. You pump to 216. Tapping starts at 184, vanishes at 166, returns at 148, and stops at 86. The BP is <b>184/86</b>, with a gap from 166 to 148 charted. The first sound is the systolic, not the sound after the gap."
     },
     {
-     "heading": "Common errors — and which way they push the number",
-     "body": "<p>The slides name two big human errors: <strong>haste</strong> (rushing, especially deflating too fast, which races past the true first and last sounds) and <strong>subconscious bias</strong> (the nurse “hears” the value they expect, such as yesterday's 120/80). A <strong>too-small</strong> cuff must squeeze extra hard, so it reads <strong>falsely high</strong>; an arm hanging <strong>below</strong> heart level also reads high. Learn which way each error pushes the number:</p>",
+     "heading": "Which errors push the number up or down?",
+     "keyIdea": "A small cuff or low arm reads falsely high; a large cuff or raised arm reads falsely low.",
+     "body": "<p>Two human errors cause many bad readings. <b>Haste</b> means rushing, especially deflating too fast, so the needle races past the true sounds. <b>Subconscious bias</b> means “hearing” the number you expect, like yesterday's 120/80.</p><p>Equipment and position matter too. Learn which way each error pushes the number.</p>",
      "table": {
       "caption": "Common measurement errors",
       "headers": [
@@ -206,7 +219,7 @@ window.NURSE_DATA.push({
         "Inaccurate (usually high)"
        ],
        [
-        "Deflating too quickly",
+        "Deflating too fast",
         "Falsely low systolic, falsely high diastolic"
        ],
        [
@@ -215,7 +228,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Repeating right away on the same arm",
-        "Inaccurate — wait 1–2 minutes"
+        "Inaccurate; wait 1–2 minutes"
        ],
        [
         "Caffeine, smoking, or exercise within 30 minutes",
@@ -227,110 +240,185 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> A client with a large arm (42 cm around) has a BP of 168/96 with a standard adult cuff. Their past readings were 124/78 to 130/80, and they have no history of hypertension. Before calling anyone, you <strong>remeasure with a large adult cuff</strong> after a brief rest. The small cuff likely caused a falsely high reading. When a number doesn't fit the client, verify it first.",
+     "example": "A client with a 42 cm arm reads 168/96 with a standard adult cuff. Past readings were 124/78 to 130/80, with no history of high BP. You let the client rest and remeasure with a large adult cuff. The small cuff likely made the number falsely high. When a number doesn't fit the client, verify it first.",
      "check": {
-      "q": "A client doing home BP monitoring says, “I check it right after my coffee and cigarette, over my pajama sleeve, while I talk on the phone, and I write down only the lower of my two readings.” What needs teaching?",
-      "a": "All four: avoid caffeine and smoking for 30 minutes before, place the cuff on bare skin, stay silent during the reading, and record every reading. Sitting with the back supported, feet flat, and arm at heart level are correct."
+      "q": "A client checks BP at home right after coffee and a cigarette, over a pajama sleeve, while talking on the phone. The client writes down only the lower of two readings. What needs teaching?",
+      "a": "All four habits. Avoid caffeine and smoking for 30 minutes before. Put the cuff on bare skin. Stay silent during the reading. Record every reading."
      }
     },
     {
-     "heading": "Hypotension and orthostatic hypotension",
-     "body": "<p><strong>Hypotension</strong> is a below-normal BP reading. It matters because low pressure means less blood reaches the brain, heart, and kidneys. Watch for dizziness, lightheadedness, confusion, pale cool skin, and low urine output.</p><p><strong>Orthostatic (postural) hypotension</strong> is a drop in BP when a client sits up or stands. Normally, standing makes the body instantly tighten the vessels and speed the heart so blood keeps reaching the brain. When the vessels stay too relaxed (peripheral vasodilation) or fluid volume is low, BP drops and the client feels faint. Causes named in the slides: <strong>dehydration, bleeding, severe burns, and certain analgesics</strong>. Other medications — such as antihypertensives and diuretics like furosemide — also raise the risk.</p><p>A client is considered to have orthostatic hypotension if, within 3 minutes of standing, the <strong>systolic drops by 20 mm Hg or more</strong> or the <strong>diastolic drops by 10 mm Hg or more</strong>. The pulse usually rises as the heart tries to compensate.</p>",
+     "heading": "What is orthostatic hypotension?",
+     "keyIdea": "A BP drop of 20 systolic or 10 diastolic within 3 minutes of standing; safety comes before the numbers.",
+     "body": "<p><b>Hypotension</b> is a BP below normal for the client. Less blood reaches the brain, heart, and kidneys. Watch for dizziness, confusion, pale cool skin, and low urine output.</p><p><b>Orthostatic (postural) hypotension</b> is a BP drop when the client sits up or stands. Normally the body tightens vessels and speeds the heart right away to keep blood going to the brain. If vessels stay too relaxed (vasodilation) or volume is low, BP drops and the client feels faint.</p><p>Causes include dehydration, bleeding, severe burns, and some analgesics. Antihypertensives and diuretics like furosemide also raise the risk.</p><p>It counts if, within 3 minutes of standing, systolic drops <b>20 or more</b> OR diastolic drops <b>10 or more</b>. Only one must be met. The pulse usually rises to make up for it.</p>",
      "steps": [
-      "Have the client lie <strong>supine</strong> (flat on the back) for about 5 minutes.",
-      "Measure BP and pulse while supine — this is the baseline.",
-      "Assist the client to sit or stand, <strong>staying at the bedside</strong> the whole time.",
+      "Have the client lie supine (flat on the back) for about 5 minutes.",
+      "Measure BP and pulse lying down. This is the baseline.",
+      "Help the client sit or stand. Stay at the bedside the whole time.",
       "Measure BP and pulse after 1 and 3 minutes of standing (or sitting, if standing isn't safe).",
-      "Compare the readings with the criteria and document the numbers <em>and</em> any symptoms."
+      "Compare to the criteria. Document the numbers and any symptoms."
      ],
-     "example": "<strong>At the bedside:</strong> A client taking furosemide reports dizziness getting out of bed. Supine BP is 128/78, P 76. After 1 minute of standing, the client grips the bedrail, turns pale, and says, “Everything is going gray.” Your first action is to <strong>help the client sit or lie back down right away</strong>. Safety beats finishing the numbers. Lying down restores blood flow to the brain. The symptoms themselves are a positive finding — document them and report to the provider.",
+     "example": "A client on furosemide stands up. After 1 minute, the client grips the rail, turns pale, and says, “Everything is going gray.” Help the client sit or lie back down right away. Safety beats finishing the numbers. The symptoms are a positive finding. Document them and report.",
      "check": {
-      "q": "Supine BP 136/82; standing at 3 minutes 124/70. Is this orthostatic hypotension?",
-      "a": "Yes. The systolic dropped only 12, but the diastolic dropped 12 (≥10), which meets the criteria — only one of the two needs to be met."
+      "q": "Lying BP 136/82. Standing at 3 minutes, 124/70. Is this orthostatic hypotension?",
+      "a": "Yes. Systolic fell only 12, but diastolic fell 12, which is 10 or more. Only one of the two needs to be met."
+     }
+    },
+    {
+     "heading": "Common traps with blood pressure",
+     "keyIdea": "Most BP traps are look-alikes; one clue usually tells them apart.",
+     "body": "<p>These pairs look alike on a test. Learn the one clue that separates them.</p>",
+     "table": {
+      "caption": "Look-alikes and how to tell them apart",
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Narrow vs. wide pulse pressure",
+        "Narrow with a fast pulse and cool skin = falling volume. Wide in an older adult = stiff arteries."
+       ],
+       [
+        "Phase IV vs. phase V",
+        "Adults: diastolic is phase V (silence). Children (per your course): phase IV (muffling)."
+       ],
+       [
+        "First sound vs. sound after a gap",
+        "Systolic is the very first sound after pumping above the palpated estimate, not where sounds return."
+       ],
+       [
+        "Systolic drop vs. diastolic drop",
+        "Orthostatic hypotension needs only one: systolic down 20+ OR diastolic down 10+."
+       ],
+       [
+        "“Normal” number vs. normal for this client",
+        "106/64 is hypotension for a client whose baseline is 148/86."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect questions on technique errors, safe limb choice, orthostatic math, and what to do first with an odd reading.",
+     "body": "<p>Common patterns:</p>",
+     "bullets": [
+      "“Which action needs correction?” Look for cuff size, arm position, fast deflation, clothing, talking.",
+      "“Where should the nurse take the BP?” Rule out limbs with an IV, fistula, node removal, cast, or injury.",
+      "“Is this orthostatic hypotension?” Do the math for systolic and diastolic.",
+      "“What first?” for a reading that doesn't fit: recheck with correct technique."
+     ],
+     "steps": [
+      "<b>Read the stem:</b> A client with a 42 cm arm has BP 168/96 with a standard cuff. Past readings were 124/78 to 130/80. No symptoms. What should the nurse do first?",
+      "<b>What is it really asking?</b> Is this number real, or an error?",
+      "<b>Key cues:</b> large arm, standard cuff, no history of high BP, no symptoms.",
+      "<b>Wrong options:</b> “Call the provider” acts on an unchecked number. “Give the PRN antihypertensive” could drop a normal BP too low. “Recheck in 4 hours” leaves the doubt in place.",
+      "<b>Answer:</b> Remeasure with a large adult cuff after a short rest.",
+      "<b>Strategy:</b> If a number doesn't fit the client and there are no symptoms, verify before you act."
+     ]
+    },
+    {
+     "heading": "Worked case: dizzy after a car crash",
+     "keyIdea": "Put the cues together: fast pulse plus narrow pulse pressure plus cool skin means falling volume, even with an okay systolic.",
+     "body": "<p>A trauma client was brought in after a car crash. BP is 96/80. Heart rate is 124. Skin is cool and pale. The client says, “I feel dizzy.” Earlier, BP was 118/76 and pulse 88.</p>",
+     "steps": [
+      "<b>Notice:</b> pulse up from 88 to 124, BP down, cool pale skin, dizziness.",
+      "<b>Calculate:</b> pulse pressure is 96 − 80 = 16. That is narrow.",
+      "<b>Interpret:</b> blood loss drops the systolic. Tight vessels hold the diastolic up.",
+      "<b>Act:</b> keep the client lying down, stay with them, assess for bleeding, and report now.",
+      "<b>Avoid:</b> orthostatic testing. Standing a client who may be bleeding is unsafe."
+     ],
+     "check": {
+      "q": "Why is a systolic of 96 not reassuring here?",
+      "a": "Compared with the baseline of 118/76, it is falling. Together with the fast pulse, narrow pulse pressure, and cool skin, it shows the body is compensating for lost volume."
      }
     }
    ],
    "mnemonics": [
     {
      "name": "Small cuff = sky-high",
-     "text": "A cuff that is too small squeezes too hard and reads falsely high; a cuff that is too large reads falsely low."
+     "text": "A cuff that is too small squeezes too hard and reads falsely high. A cuff that is too large reads falsely low."
     },
     {
      "name": "Adults: I over V",
-     "text": "Adult BP = Korotkoff phase I (first tap) over phase V (silence). Children: phase I over phase IV (muffling)."
+     "text": "Adult BP = Korotkoff phase I (first tap) over phase V (silence). Children (per your course): phase I over phase IV (muffling)."
     }
    ],
    "pearls": [
-    "Always compare a BP to the client's own baseline. A “normal” 106/64 is hypotension for a client whose usual BP is 148/86.",
-    "When a reading is unexpected, the first action is usually to recheck it with correct technique and cuff size — not to call the provider or give a medication.",
-    "In an auscultatory gap question, systolic is the <em>first</em> sound you hear after inflating above the palpated estimate, not the sounds that return after the gap.",
-    "Orthostatic testing: supine first, then up. If the client becomes symptomatic, stop and lower them — that is the “first action” answer.",
-    "Narrowing pulse pressure + rising heart rate + cool, pale skin = falling blood volume, even when the systolic still looks “okay.”"
+    "Always compare a BP to the client's baseline. A “normal” 106/64 is hypotension for a client whose usual BP is 148/86.",
+    "An unexpected reading? The first action is usually to recheck with correct technique and cuff size, not to call or medicate.",
+    "With an auscultatory gap, the systolic is the first sound after pumping above the palpated estimate.",
+    "Orthostatic testing: lying first, then up. If the client gets symptoms, stop and lower them. That is the “first action.”",
+    "Narrowing pulse pressure + rising heart rate + cool, pale skin = falling blood volume, even if the systolic looks okay."
    ],
    "redFlags": [
-    "BP above about 180/120 with headache, confusion, chest pain, shortness of breath, or vision change → possible hypertensive emergency; notify the provider immediately.",
-    "Low BP with new confusion, restlessness, or low urine output → organs are not getting enough blood; report now.",
-    "Pulse pressure narrowing with rising heart rate after surgery or trauma → possible bleeding; assess and report.",
-    "Client becomes dizzy, pale, or faint during orthostatic testing → return them to bed immediately and stay with them."
-   ],
-   "recap": [
-    "Systolic = pressure when the ventricles contract; diastolic = pressure when they rest; pulse pressure = systolic − diastolic (normal about 30–50).",
-    "BP depends on the pump, peripheral vascular resistance, blood volume, and blood viscosity.",
-    "Use the upper arm (brachial); use the thigh when arms can't be used — never a limb with an IV, AV fistula, lymph node removal, cast, or injury.",
-    "Palpate first, inflate 30 mm Hg above, deflate 2–3 mm Hg per second; adults = phase I/phase V.",
-    "Small cuff or arm below the heart → falsely high; large cuff or arm above the heart → falsely low.",
-    "Orthostatic hypotension = SBP drop ≥20 or DBP drop ≥10 within 3 minutes of standing; stay with the client.",
-    "Know the baseline — the same number can be normal for one client and dangerous for another."
+    "BP above about 180/120 with headache, confusion, chest pain, shortness of breath, or vision change: possible hypertensive emergency. Notify now.",
+    "Low BP with new confusion, restlessness, or low urine output: organs are short of blood. Report now.",
+    "Narrowing pulse pressure and rising heart rate after surgery or trauma: possible bleeding.",
+    "Dizzy, pale, or faint during orthostatic testing: return the client to bed and stay."
    ],
    "checks": [
     {
-     "q": "A trauma client has a BP of 96/80, HR 124, and cool, pale skin. What is the pulse pressure and what does it suggest?",
-     "a": "16 mm Hg — narrowed. Blood loss is lowering the amount of blood pumped with each beat (systolic falls), while vessels constrict to compensate (diastolic stays up). It is an early sign of poor perfusion."
+     "q": "A nurse who is behind deflates the cuff at 10 mm Hg per second and records 118/84. What is the likely effect?",
+     "a": "The systolic is probably falsely low and the diastolic falsely high. The needle raced past the true sounds. Deflate at 2–3 mm Hg per second."
     },
     {
-     "q": "A nurse who is behind schedule deflates the cuff at 10 mm Hg per second and records 118/84. What is the likely effect?",
-     "a": "The systolic is probably falsely low and the diastolic falsely high, because the needle raced past the true first and last sounds. Deflate at 2–3 mm Hg per second."
+     "q": "A new graduate puts the cuff over a thin sleeve, reinflates right away on the same arm, and chats the whole time. What should you correct?",
+     "a": "All three. The cuff goes on bare skin. Wait 1–2 minutes before repeating on the same arm. No talking during the reading."
     },
     {
-     "q": "A new graduate places the cuff over a thin shirt sleeve, then reinflates it immediately on the same arm to confirm the reading, chatting with the client throughout. What should you correct?",
-     "a": "All three: the cuff goes on bare skin, wait 1–2 minutes before repeating on the same arm, and no talking during the reading."
+     "q": "Why does the nurse palpate a systolic estimate before listening on an older client with high BP?",
+     "a": "To avoid missing an auscultatory gap, which could give a falsely low systolic and hide hypertension."
     },
     {
-     "q": "Why does the nurse obtain a palpated systolic estimate before auscultating a BP on an older client with hypertension?",
-     "a": "To avoid missing an auscultatory gap, which could lead the nurse to record a falsely low systolic and miss hypertension."
+     "q": "A client has an AV fistula in the left arm and an IV running in the right arm. Where should you take the BP?",
+     "a": "On a thigh, with a thigh cuff over the popliteal artery. Document the site, since thigh systolic usually reads higher."
     }
    ]
   },
   {
    "id": "peripheral-assessment",
-   "title": "Pulse, Peripheral & Cardiovascular Assessment",
+   "title": "Pulse, Peripheral, and Cardiovascular Assessment",
    "exemplar": null,
-   "summary": "Learn to ask the right questions, examine the heart and vessels in a set order, and read the pulse like a pro — so you can tell when blood isn't getting where it needs to go.",
+   "summary": "Learn to ask the right questions, examine the heart and vessels in order, and read a pulse well, so you can tell when blood isn't getting where it should.",
    "objectives": [
-    "Collect a cardiovascular health history, including a PQRST assessment of chest pain.",
-    "Perform a cardiovascular exam in the correct order (inspection, palpation, percussion, auscultation) and name the expected normal findings.",
-    "Identify abnormal findings such as jugular vein distention, earlobe creases, precordial pulsations, cyanosis, asymmetric legs, and carotid bruits.",
-    "Assess a pulse for rate, rhythm, volume, arterial wall elasticity, and bilateral equality, and grade pulse amplitude from 0 to 4+.",
-    "State when an apical pulse is required, perform an apical-radial pulse, and calculate a pulse deficit.",
-    "Use a Doppler ultrasound stethoscope for a hard-to-find pulse."
+    "You can take a cardiovascular history, including PQRST for chest pain.",
+    "You can examine in the right order (inspect, palpate, percuss, auscultate) and know normal findings.",
+    "You can spot abnormal findings such as JVD, earlobe creases, precordial pulsations, cyanosis, uneven legs, and carotid bruits.",
+    "You can assess a pulse for rate, rhythm, volume, elasticity, and equality, and grade it 0 to 4+.",
+    "You can decide when an apical pulse is needed and calculate a pulse deficit.",
+    "You can use a Doppler to find a weak pulse."
    ],
-   "bigPicture": "<p>You can't see blood flowing inside the body, but you can see, feel, and hear the clues it leaves behind: the color of the lips, the warmth of the feet, the strength of a pulse, the sound of a valve closing. The cardiovascular assessment is how a nurse gathers those clues.</p><p>This lesson walks you through the whole process in the order you'll do it at the bedside — first talking with the client, then looking, feeling, tapping, and listening. You'll learn what <em>normal</em> looks like, so the abnormal findings jump out at you.</p><p>Much of the exam comes down to the pulse. A pulse tells you how fast the heart is beating, whether the rhythm is regular, and whether each beat is actually reaching the arms and legs. By the end, you'll know which pulse to check, when to use the apical pulse, and what a “pulse deficit” means.</p>",
+   "bigPicture": "<p>You can't see blood flowing inside the body. But you can see, feel, and hear the clues it leaves: the color of the lips, the warmth of the feet, the strength of a pulse, the sound of a valve closing. The cardiovascular assessment is how a nurse gathers those clues.</p><p>You will do it in a set order: talk, look, feel, tap, and listen. Learn what normal looks like, and the abnormal will jump out. Much of the exam comes down to the pulse. It tells you how fast the heart beats, whether the rhythm is regular, and whether each beat reaches the arms and legs.</p>",
+   "recap": [
+    "Start with the history: pain (use PQRST), fatigue, shortness of breath, lightheadedness, history, lifestyle, stress. Observe while you talk.",
+    "Exam order: inspect, palpate, percuss, auscultate. Use the sternum, clavicles, and ribs as landmarks.",
+    "Normal: even color, pink lips, no earlobe crease, flat neck veins at 30–45°, equal carotids, slight apical vibration, matching legs.",
+    "Listen at aortic, pulmonic, Erb's point, tricuspid, and mitral areas. No murmurs. No carotid bruit.",
+    "Check each pulse for rate, rhythm, volume, elasticity, and equality. Grade volume 0 to 4+.",
+    "Use the apical pulse for irregular rhythms; heart, lung, or kidney disease; children under 2–3; and before heart-rate medicines.",
+    "Pulse deficit = apical minus radial, counted together for 60 seconds by two nurses.",
+    "Palpate carotids one side at a time. Never both."
+   ],
    "keyTerms": [
     {
      "term": "Pulse",
-     "def": "The wave of blood created when the left ventricle contracts; it reflects the stroke volume (the amount of blood pushed out with each beat)."
+     "def": "The wave of blood made each time the left ventricle contracts. It reflects stroke volume, the blood pushed out with each beat."
     },
     {
      "term": "Apical pulse",
-     "def": "The heartbeat heard with a stethoscope over the apex (tip) of the heart — 5th intercostal space, left midclavicular line."
+     "def": "The heartbeat heard with a stethoscope over the tip (apex) of the heart: 5th intercostal space, left midclavicular line."
     },
     {
      "term": "Pulse deficit",
-     "def": "Any difference between the apical rate and the radial rate counted at the same time. It means some heartbeats are not reaching the periphery."
+     "def": "The apical rate minus the radial rate, counted at the same time. It means some beats are not reaching the wrist."
     },
     {
      "term": "Intercostal space (ICS)",
-     "def": "The space between two ribs; used as a landmark (for example, 5th ICS)."
+     "def": "The space between two ribs. Used as a landmark, like the 5th ICS."
+    },
+    {
+     "term": "Midclavicular line",
+     "def": "An imaginary line straight down from the middle of the collarbone."
     },
     {
      "term": "Precordium",
@@ -338,41 +426,42 @@ window.NURSE_DATA.push({
     },
     {
      "term": "Jugular vein distention (JVD)",
-     "def": "Bulging, visible neck veins when the client is sitting at 30–45°; a sign of increased pressure on the right side of the heart."
+     "def": "Bulging neck veins with the client sitting at 30–45°. A sign of high pressure on the right side of the heart."
     },
     {
      "term": "Cyanosis",
-     "def": "A bluish color of the skin, lips, or nail beds from too little oxygen in the blood."
+     "def": "Bluish skin, lips, or nail beds from too little oxygen in the blood."
     },
     {
      "term": "Pallor",
-     "def": "Unusual paleness of the skin, often from reduced blood flow or anemia."
+     "def": "Unusual paleness, often from poor blood flow or anemia."
     },
     {
      "term": "Bruit",
-     "def": "A blowing or swishing sound heard over an artery, caused by turbulent blood flow through a narrowed vessel."
+     "def": "A blowing or swishing sound over an artery. Caused by rough (turbulent) flow through a narrowed vessel."
     },
     {
      "term": "Erb's point",
-     "def": "The 3rd intercostal space at the left sternal border; a good spot to hear both S1 and S2."
+     "def": "3rd ICS at the left sternal border. A good spot to hear S1 and S2 about equally."
     },
     {
      "term": "Doppler ultrasound stethoscope",
-     "def": "A handheld device that uses sound waves to detect blood flow in pulses that are too weak to feel."
+     "def": "A handheld device that uses sound waves to hear blood flow in pulses too weak to feel."
     },
     {
      "term": "Capillary refill",
-     "def": "How fast color returns to a nail bed after you press it; normally less than 2–3 seconds."
+     "def": "How fast color returns to a nail bed after you press it. Normally less than 2–3 seconds."
     },
     {
      "term": "PQRST",
-     "def": "A framework for assessing pain: Provokes/Palliates, Quality, Region/Radiation, Severity, Timing."
+     "def": "A pain checklist: Provokes/Palliates, Quality, Region/Radiation, Severity, Timing."
     }
    ],
    "sections": [
     {
-     "heading": "Start by listening: the health history",
-     "body": "<p>The assessment begins before you touch the client. Many perfusion problems first show up as <strong>symptoms</strong> the client describes, so you ask careful questions about:</p><p><strong>Pain</strong> (especially chest pain), <strong>fatigue</strong>, <strong>shortness of breath</strong>, and <strong>lightheadedness</strong>. You also ask about current and past medical history, <strong>lifestyle</strong> (smoking, diet, exercise, alcohol), and <strong>stress and coping</strong>.</p><p>While you talk, you are also <strong>observing</strong>. Is the client short of breath (dyspnea) while speaking? Do you see swelling (edema) in the ankles? Are the lips or skin bluish (cyanosis) or pale (pallor)? Is the client alert and oriented (mental status)? Are the neck veins bulging (JVD)?</p><p>For chest pain, use <strong>PQRST</strong> so you don't miss any part of the story.</p>",
+     "heading": "What do you ask before you touch?",
+     "keyIdea": "Many perfusion problems first show up as symptoms the client describes, so the history comes first.",
+     "body": "<p>Ask about <b>pain</b> (especially chest pain), <b>fatigue</b>, <b>shortness of breath</b>, and <b>lightheadedness</b>. Also ask about medical history, lifestyle (smoking, diet, exercise, alcohol), and stress and coping.</p><p>While you talk, <b>observe</b>. Is the client short of breath (dyspnea) while speaking? Are the ankles swollen (edema)? Are the lips bluish (cyanosis) or pale (pallor)? Is the client alert and oriented? Are the neck veins bulging? For chest pain, use PQRST so you don't miss part of the story.</p>",
      "table": {
       "caption": "PQRST for chest pain",
       "headers": [
@@ -384,12 +473,12 @@ window.NURSE_DATA.push({
        [
         "P",
         "Provokes / Palliates",
-        "What brings the pain on? What makes it better?"
+        "What brings it on? What makes it better?"
        ],
        [
         "Q",
         "Quality",
-        "What does the pain feel like — pressure, squeezing, sharp, burning?"
+        "What does it feel like: pressure, squeezing, sharp, burning?"
        ],
        [
         "R",
@@ -409,103 +498,106 @@ window.NURSE_DATA.push({
       ]
      },
      "check": {
-      "q": "You have asked what brings on a client's chest pain and what relieves it. What do you ask next?",
+      "q": "You asked what brings on a client's chest pain and what relieves it. What do you ask next?",
       "a": "Quality: “Can you describe what the pain feels like?” P comes first, then Q."
      }
     },
     {
-     "heading": "The exam: landmarks and the order you follow",
-     "body": "<p>The physical exam uses four techniques, always in this order for the heart: <strong>inspection</strong> (looking), <strong>palpation</strong> (feeling), <strong>percussion</strong> (tapping), and <strong>auscultation</strong> (listening).</p><p>To describe where you found something, you use <strong>anatomic landmarks</strong>: the <strong>sternum</strong> (breastbone), the <strong>clavicles</strong> (collarbones), and the <strong>ribs</strong>. You count the ribs and the spaces between them (intercostal spaces). You then correlate each finding with the landmark over it — for example, “apical pulse palpated at the 5th ICS, left midclavicular line.” The midclavicular line is an imaginary line drawn straight down from the middle of the collarbone.</p>",
+     "heading": "What order does the exam follow?",
+     "keyIdea": "Inspect, palpate, percuss, then auscultate, and name every finding by its landmark.",
+     "body": "<p>The exam uses four techniques, always in this order: <b>inspection</b> (looking), <b>palpation</b> (feeling), <b>percussion</b> (tapping), and <b>auscultation</b> (listening).</p><p>To describe where a finding is, use landmarks: the sternum (breastbone), the clavicles (collarbones), and the ribs. Count the ribs and the spaces between them. Then tie each finding to a landmark. Example: “apical pulse felt at the 5th ICS, left midclavicular line.”</p>",
      "steps": [
-      "<strong>Inspect the head and neck</strong> — eyes, ears, lips, face, skull, and neck vessels. Note symmetry.",
-      "<strong>Inspect</strong> the upper extremities, chest, abdomen, and lower extremities.",
-      "<strong>Palpate</strong> the precordium and the carotid pulses (one side at a time).",
-      "<strong>Percuss</strong> the chest to find the borders of the heart.",
-      "<strong>Auscultate</strong> the heart at the aortic, pulmonic, Erb's point, tricuspid, and mitral areas.",
-      "<strong>Auscultate</strong> the carotid arteries and the apical pulse."
+      "Inspect the head and neck: eyes, ears, lips, face, skull, and neck vessels. Note symmetry.",
+      "Inspect the arms, chest, abdomen, and legs.",
+      "Palpate the precordium and the carotid pulses, one side at a time.",
+      "Percuss the chest to find the heart's borders.",
+      "Auscultate the heart at the aortic, pulmonic, Erb's point, tricuspid, and mitral areas.",
+      "Auscultate the carotid arteries and the apical pulse."
      ],
-     "analogy": "Think of the exam like inspecting a house's plumbing. First you look for water stains and bulging pipes (inspection), then you touch the pipes to feel for vibration or cold spots (palpation), tap walls to find where the tank sits (percussion), and finally put your ear to the pipes to hear whether water is flowing smoothly or rushing through a clog (auscultation)."
+     "analogy": "It is like checking a house's plumbing. First look for water stains and bulging pipes. Then touch the pipes for vibration or cold spots. Tap the walls to find the tank. Last, put your ear to the pipes to hear smooth flow or a rush through a clog."
     },
     {
-     "heading": "Inspection: what normal looks like",
-     "body": "<p>The fastest way to spot trouble is to know the normal findings cold. Here is what a healthy cardiovascular inspection looks like, with the abnormal findings you should flag:</p>",
+     "heading": "What does a normal inspection look like?",
+     "keyIdea": "Know normal cold, and the deviations will stand out.",
+     "body": "<p>Here is a healthy cardiovascular inspection, with the findings you should flag.</p>",
      "table": {
-      "caption": "Normal inspection findings vs. findings that need follow-up",
+      "caption": "Normal findings vs. findings to report",
       "headers": [
        "Area",
-       "Expected (normal)",
-       "Deviation to report"
+       "Normal",
+       "Report"
       ],
       "rows": [
        [
         "Skin color",
-        "Even, homogeneous",
+        "Even",
         "Pallor, cyanosis, mottling"
        ],
        [
         "Eyes",
-        "Symmetric in function and appearance",
+        "Symmetric in function and look",
         "Asymmetry"
        ],
        [
         "Lips",
-        "Smooth, pink, no cyanosis",
+        "Smooth, pink",
         "Bluish lips"
        ],
        [
         "Head",
-        "Held upright without support; skull proportional to face",
+        "Upright without support; skull fits the face",
         "Head bobbing, disproportion"
        ],
        [
         "Earlobes",
-        "Flat skin, no creases",
-        "Diagonal earlobe crease (linked with coronary artery disease)"
+        "Flat, no creases",
+        "Diagonal crease (linked with coronary artery disease)"
        ],
        [
         "Jugular veins",
-        "Flat, not visible (client at 30–45°)",
+        "Flat, not visible at 30–45°",
         "Visible, distended veins (JVD)"
        ],
        [
         "Carotid pulses",
-        "Symmetric in appearance and on palpation",
-        "Unequal pulses; bruit on auscultation"
+        "Equal in look and feel",
+        "Unequal; bruit when you listen"
        ],
        [
         "Fingernails",
-        "Slightly curved or flat; no cyanosis; fingers round, even, proportionate",
+        "Slightly curved or flat; fingers round and even",
         "Bluish nail beds; clubbed fingertips"
        ],
        [
-        "Respirations",
+        "Breathing",
         "Regular, even, unlabored",
-        "Labored breathing, dyspnea"
+        "Labored, dyspnea"
        ],
        [
         "Chest",
-        "Intercostal spaces and clavicles visible; no pulsations over the precordium (aortic pulsation may be seen in the suprasternal notch in thin clients)",
+        "Rib spaces and clavicles visible; no pulsations over the heart (a pulse in the notch above the sternum may show in thin clients)",
         "Visible pulsations over the precordium"
        ],
        [
-        "Trunk vessels / skeleton",
-        "Flat, uniform, no bulges or masses; body parts proportional",
-        "Visible bulges, masses, malformations"
+        "Trunk and skeleton",
+        "Flat, no bulges or masses; parts in proportion",
+        "Bulges, masses, malformations"
        ],
        [
-        "Lower extremities",
-        "Same temperature and color on both sides; symmetric hair distribution",
-        "One leg cool, pale, or hairless compared with the other"
+        "Legs",
+        "Same warmth and color on both sides; even hair",
+        "One leg cool, pale, or hairless"
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> A 58-year-old with hypertension and a family history of early coronary artery disease has even skin color, pink lips, and symmetric carotid pulses. But both earlobes have a diagonal crease, the neck veins are distended at 45°, pulsations are visible over the left chest, and the left lower leg is cool with sparse hair while the right is warm with normal hair. Those four findings — earlobe creases, JVD, precordial pulsations, and an asymmetric leg — are the ones to report. A cool, hairless leg on one side suggests poor arterial blood flow to that leg."
+     "example": "A 58-year-old with high BP and a family history of early heart disease has even color, pink lips, and equal carotids. But both earlobes have a diagonal crease. The neck veins bulge at 45°. Pulsations show over the left chest. The left lower leg is cool with sparse hair. Report those four findings. A cool, hairless leg on one side suggests poor arterial flow to that leg."
     },
     {
-     "heading": "Palpation, percussion, and auscultation",
-     "body": "<p><strong>Palpation.</strong> Place your palm on the precordium. A <strong>slight vibration at the apex</strong> (the tip of the heart, lower left chest) is normal. Palpate the <strong>carotid pulses one side at a time</strong> — pressing both at once can reduce blood flow to the brain and can slow the heart. They should feel equal.</p><p><strong>Percussion.</strong> Tapping over the heart produces a <strong>dull</strong> sound because the heart is a solid organ. The dullness continues across the torso until the <strong>midclavicular line at the 5th ICS</strong> — that marks the left border of a normal-sized heart.</p><p><strong>Auscultation.</strong> Listen at each of the five areas, in order. You should hear <strong>equal, clear S1 and S2</strong> (the “lub” of the AV valves closing and the “dub” of the semilunar valves closing). At <strong>Erb's point</strong> (3rd ICS, left sternal border), S1 and S2 are about equally loud. Normally there are <strong>no murmurs</strong> — no extra whooshing sounds.</p><p>Then listen over each <strong>carotid artery with the bell</strong> of the stethoscope. A low-pitched blowing sound is a <strong>bruit</strong>: turbulent blood rushing through a narrowed (usually plaque-clogged) artery. A carotid bruit means less blood may be reaching the brain and the client has a higher risk of stroke. Document and report it.</p>",
+     "heading": "What do you feel, tap, and hear?",
+     "keyIdea": "A slight apical vibration and S1 equal to S2 at Erb's point are normal; a carotid bruit is not.",
+     "body": "<p><b>Palpation.</b> Put your palm on the precordium. A slight vibration at the apex is normal. Feel the carotid pulses <b>one side at a time</b>. Pressing both can cut blood flow to the brain and slow the heart. They should feel equal.</p><p><b>Percussion.</b> The heart is solid, so tapping over it sounds dull. Normal dullness ends at the midclavicular line, 5th ICS. Dullness beyond that suggests an enlarged heart.</p><p><b>Auscultation.</b> Listen at all five areas. Expect clear S1 (“lub,” AV valves closing) and S2 (“dub,” semilunar valves closing). At Erb's point they are about equally loud. No murmurs (extra whooshing).</p><p>Then listen over each carotid with the bell. A low-pitched blowing sound is a <b>bruit</b>. It means rough flow through a narrowed artery, less blood to the brain, and higher stroke risk.</p>",
      "table": {
-      "caption": "Where to listen to the heart",
+      "caption": "Where to listen",
       "headers": [
        "Area",
        "Location"
@@ -533,19 +625,28 @@ window.NURSE_DATA.push({
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> A 70-year-old client with hypertension and high cholesterol has a low-pitched blowing sound over the right carotid artery. This is not a normal sound and not something to confirm by squeezing both carotids. It suggests turbulent flow from <strong>carotid narrowing</strong> and a higher stroke risk — you document it and notify the provider."
+     "example": "A 70-year-old with high BP and high cholesterol has a low-pitched blowing sound over the right carotid. It is not normal. Don't press both carotids to “check.” Document the bruit and notify the provider."
     },
     {
-     "heading": "Jugular vein distention: a window into the right heart",
-     "body": "<p>The jugular veins in the neck drain straight into the right side of the heart. When the right side of the heart can't keep up — for example, in right-sided heart failure or fluid overload — blood backs up into these veins and they bulge.</p><p>To check, raise the head of the bed to <strong>30–45°</strong> and look at the neck in good light. Normally the veins are <strong>flat and not visible</strong>. If they are visibly full, or you can see the pulsation high above the sternal angle (the bump where the top of the breastbone meets its body — more than about 3–4 cm is abnormal), that is JVD.</p>",
-     "analogy": "Picture the right side of the heart as a drain in a sink. If the drain is slow, water backs up into the sink. JVD is blood “backing up” into the neck veins because the right heart isn't draining them fast enough.",
-     "example": "<strong>At the bedside:</strong> With the head of the bed at 45°, you see a client's jugular pulsation 7 cm above the sternal angle, and the client has 2+ pitting edema of both ankles. JVD plus swelling in the feet = fluid backing up into the body's veins. This fits <strong>right-sided heart failure with fluid overload</strong> — not dehydration, which would make the neck veins flat."
+     "heading": "What does JVD tell you?",
+     "keyIdea": "Bulging neck veins mean blood is backing up because the right side of the heart can't keep up.",
+     "body": "<p>The jugular veins drain straight into the right side of the heart. If the right side can't keep up, blood backs up into these veins and they bulge. Causes include right-sided heart failure and fluid overload.</p><p>To check, raise the head of the bed to 30–45° and look at the neck in good light. Normally the veins are flat. JVD is a visibly full vein, or a pulse seen high above the sternal angle. The sternal angle is the bump near the top of the breastbone. More than about 3–4 cm above it is abnormal.</p>",
+     "analogy": "Picture the right heart as a sink drain. If the drain is slow, water backs up into the sink. JVD is blood backing up into the neck veins.",
+     "example": "At 45°, a client's neck vein pulse is 7 cm above the sternal angle. Both ankles have 2+ pitting edema. JVD plus swollen feet means fluid is backing up into the body. This fits right-sided heart failure with fluid overload. Dehydration would make the neck veins flat."
     },
     {
-     "heading": "Assessing the pulse: what to collect and where",
-     "body": "<p>The <strong>pulse</strong> is the wave of blood created each time the left ventricle contracts. It represents the stroke volume. In a healthy person, each heartbeat produces one pulse you can feel.</p><p>You assess a pulse by <strong>palpation</strong> (feeling with your fingertips — not your thumb, which has its own pulse) or <strong>auscultation</strong> (listening). If you can't find it, use a <strong>Doppler ultrasound stethoscope</strong>.</p><p>For every pulse, collect five pieces of data: <strong>rate</strong> (beats per minute), <strong>rhythm</strong> (regular or irregular), <strong>volume</strong> (strength or amplitude), <strong>arterial wall elasticity</strong> (does the artery feel soft and springy, or hard and cord-like?), and <strong>bilateral equality</strong> (are the pulses the same on both sides?). If the rhythm is irregular, count for a <strong>full 60 seconds</strong>.</p><p>Remember that the pulse is affected by <strong>medications</strong> (some slow it, some speed it), <strong>physical activity</strong>, and <strong>position</strong> (lying, sitting, standing). Compare every value to the client's <strong>baseline</strong>.</p><p><strong>Pulse sites:</strong> temporal, carotid, apical, brachial, radial, femoral, popliteal, posterior tibial, and pedal (dorsalis pedis, on top of the foot).</p>",
+     "heading": "How do you assess a pulse?",
+     "keyIdea": "For every pulse, check five things and compare to the client's baseline and the other side.",
+     "body": "<p>The pulse is the wave of blood made each time the left ventricle contracts. In a healthy person, each heartbeat makes one pulse you can feel. Use your fingertips, not your thumb, which has its own pulse. If you can't find it, use a Doppler.</p><p>Medicines, activity, and position (lying, sitting, standing) all change the pulse. If the client just walked, let them rest and recount. If the rhythm is irregular, count for a <b>full 60 seconds</b>.</p><p>Pulse sites: temporal, carotid, apical, brachial, radial, femoral, popliteal, posterior tibial, and pedal (dorsalis pedis, on top of the foot).</p>",
+     "bullets": [
+      "<b>Rate:</b> beats per minute.",
+      "<b>Rhythm:</b> regular or irregular.",
+      "<b>Volume:</b> strength (graded 0 to 4+).",
+      "<b>Arterial wall elasticity:</b> soft and springy, or hard and cord-like?",
+      "<b>Bilateral equality:</b> the same on both sides?"
+     ],
      "table": {
-      "caption": "Grading pulse volume (amplitude)",
+      "caption": "Grading pulse volume",
       "headers": [
        "Grade",
        "Description",
@@ -554,12 +655,12 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "0",
-        "Absent — cannot be felt",
+        "Absent; cannot be felt",
         "Confirm with Doppler; report if new"
        ],
        [
         "1+",
-        "Diminished, weak, thready; easily obliterated (disappears with light pressure)",
+        "Weak, thready; disappears with light pressure",
         "Low blood volume, low cardiac output"
        ],
        [
@@ -574,165 +675,239 @@ window.NURSE_DATA.push({
        ],
        [
         "4+",
-        "Bounding; cannot be obliterated",
+        "Bounding; can't be pressed away",
         "Fluid overload"
        ]
       ]
      },
      "check": {
-      "q": "A client's dorsalis pedis pulse is faint and disappears with light pressure. How do you document it?",
-      "a": "1+ (diminished, weak). Then compare it with the other foot."
+      "q": "A dorsalis pedis pulse is faint and disappears with light pressure. How do you chart it?",
+      "a": "1+ (weak). Then compare it with the other foot."
      }
     },
     {
      "heading": "Capillary refill and the Doppler",
-     "body": "<p><strong>Capillary refill</strong> is another quick perfusion check. Press on a nail bed until it blanches (turns white), release, and count how long it takes for the pink color to return. Normal is <strong>less than 2–3 seconds</strong>. A slow refill can mean poor perfusion — but it is also slowed by <strong>cold</strong>, vasoconstriction, and poor lighting. Always interpret it in context.</p><p>When you cannot feel a pulse — common in older adults or clients with poor circulation to the feet — use a <strong>Doppler ultrasound stethoscope</strong>. It turns the movement of blood into a “whooshing” sound you can hear.</p>",
+     "keyIdea": "Read capillary refill in context, and use a Doppler when you can't feel a pulse.",
+     "body": "<p>Press a nail bed until it turns white. Release and count until the pink returns. Normal is <b>less than 2–3 seconds</b>. Slow refill can mean poor perfusion. But cold, vasoconstriction, and poor lighting also slow it. A slow refill on one side, with a cool limb in a warm room, needs follow-up.</p><p>When you can't feel a pulse, use a <b>Doppler</b>. It turns moving blood into a “whooshing” sound. This is common for the feet of older adults or clients with poor circulation.</p>",
      "steps": [
-      "Explain the procedure and expose the area (for a pedal pulse, the top of the foot).",
-      "Apply ultrasound gel over the spot where you expect the pulse. The gel helps the sound waves travel.",
-      "Hold the probe at about a <strong>45° angle</strong> and move it slowly until you hear a pulsing signal.",
-      "<strong>Mark the spot</strong> on the skin with a pen so every nurse can reassess in the same place.",
-      "Wipe the gel off the skin and the probe, and document (for example, “left pedal pulse present by Doppler”)."
+      "Explain the procedure. Expose the area, such as the top of the foot.",
+      "Put ultrasound gel where you expect the pulse. Gel helps the sound waves travel.",
+      "Hold the probe at about 45° and move it slowly until you hear a pulsing signal.",
+      "<b>Mark the spot</b> with a pen so every nurse checks the same place.",
+      "Wipe off the gel and document, for example, “left pedal pulse present by Doppler.”"
      ],
-     "example": "<strong>At the bedside:</strong> A client walks in from 2 °C weather. Vital signs are normal and the client has no complaints, but finger capillary refill is 4 seconds and the fingers feel cold. Before labeling this as poor perfusion, you <strong>let the hands warm up and recheck</strong>. Cold makes the small vessels constrict, which slows refill even in a healthy person."
+     "example": "A client walks in from 2 °C weather. Vital signs are normal and there are no complaints. Finger refill is 4 seconds and the fingers are cold. Let the hands warm up and recheck. Cold tightens small vessels and slows refill, even in a healthy person."
     },
     {
-     "heading": "The apical pulse and the apical-radial pulse",
-     "body": "<p>The <strong>apical pulse</strong> is heard with a stethoscope at the 5th ICS, left midclavicular line. It is the most accurate way to count the heart rate because you hear every beat directly. Use the apical pulse:</p>",
+     "heading": "When do you need the apical pulse?",
+     "keyIdea": "The apical pulse counts every beat; a pulse deficit shows beats that never reach the wrist.",
+     "body": "<p>The apical pulse is heard at the 5th ICS, left midclavicular line. It is the most accurate heart rate, because you hear every beat. Use it:</p>",
      "bullets": [
-      "When the peripheral pulse is <strong>irregular</strong> or can't be found.",
-      "For clients with known <strong>cardiovascular, pulmonary, or renal disease</strong>.",
-      "For <strong>newborns, infants, and children up to about 2–3 years</strong>.",
-      "<strong>Before giving medications that affect heart rate</strong> (so you can hold the dose if the rate is too slow)."
+      "When the peripheral pulse is irregular or hard to find, as with hand tremors.",
+      "For clients with heart, lung, or kidney disease.",
+      "For newborns, infants, and children up to about 2–3 years.",
+      "<b>Before giving medicines that affect heart rate.</b> Count it yourself for a full minute, so you can hold the dose if the rate is too slow."
      ],
      "steps": [
-      "Perform hand hygiene and explain the procedure. Two nurses are needed.",
-      "One nurse locates the apical pulse (5th ICS, left midclavicular line); the other locates the radial pulse.",
-      "Agree to use <strong>one watch</strong> and a single signal to start counting.",
-      "Count both rates <strong>at the same time for a full 60 seconds</strong>.",
-      "Subtract the radial rate from the apical rate. The difference is the <strong>pulse deficit</strong>. Document and report it."
+      "Do hand hygiene and explain. Two nurses are needed.",
+      "One nurse finds the apical pulse; the other finds the radial pulse.",
+      "Use one watch and one signal to start.",
+      "Count both at the same time for a <b>full 60 seconds</b>.",
+      "Apical minus radial = the <b>pulse deficit</b>. Document and report it."
      ],
-     "example": "<strong>At the bedside:</strong> A client with an irregular rhythm has an apical rate of 110 and a radial rate of 92 counted together. Pulse deficit = 110 − 92 = <strong>18</strong>. What does it mean? Eighteen times a minute the heart contracts so weakly (often because the ventricles didn't have time to fill) that the wave of blood never reaches the wrist. Those beats aren't perfusing the body. Normally the two rates are identical, and <strong>the radial rate can never be higher than the apical rate</strong> — you can't feel a beat at the wrist that the heart never made.",
+     "example": "A client with an irregular rhythm has an apical rate of 110 and a radial rate of 92. Pulse deficit = 18. Eighteen times a minute, the heart beats so weakly (often because the ventricles didn't fill) that no pulse reaches the wrist. Those beats don't perfuse the body. Normally the two rates match. The radial rate can never be higher than the apical rate.",
      "check": {
-      "q": "After diuretic therapy, a client's radial pulse, regular on admission, now feels irregular. What should you do?",
-      "a": "Count the apical pulse for a full minute and compare it with the radial rate (an apical-radial pulse), then report the new irregular rhythm to the provider."
+      "q": "After diuretic therapy, a radial pulse that was regular now feels irregular. What should you do?",
+      "a": "Count the apical pulse for a full minute with a radial count (apical-radial pulse). Report the new irregular rhythm to the provider."
+     }
+    },
+    {
+     "heading": "Common traps in cardiovascular assessment",
+     "keyIdea": "Compare side to side and against baseline; context separates real problems from look-alikes.",
+     "body": "<p>These pairs look alike. One clue tells them apart.</p>",
+     "table": {
+      "caption": "Look-alikes and how to tell them apart",
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Slight apical vibration vs. visible precordial pulsations",
+        "A slight vibration at the apex is normal. Pulsations you can see over the precordium are not."
+       ],
+       [
+        "JVD vs. flat neck veins",
+        "JVD = fluid backing up (right-sided failure, overload). Flat veins at 30–45° are normal and also fit low volume."
+       ],
+       [
+        "Slow refill from cold vs. poor perfusion",
+        "Cold hands in cold weather: warm and recheck. One cool limb in a warm room: follow up."
+       ],
+       [
+        "Pulse deficit vs. counting error",
+        "Radial can never exceed apical. If it does, the count is invalid. Repeat it together."
+       ],
+       [
+        "Chronic vs. new absent pulse",
+        "A newly absent pulse with a cool, pale limb is an emergency. A stable, documented finding is not."
+       ],
+       [
+        "Fast pulse after activity vs. tachycardia",
+        "Let the client rest and recount before reporting."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect questions on normal vs. abnormal findings, apical pulse use, pulse deficit math, and safe technique.",
+     "body": "<p>Common patterns:</p>",
+     "bullets": [
+      "“Which findings are abnormal?” Earlobe crease, JVD, precordial pulsations, cyanosis, bruit.",
+      "“Which client needs an apical pulse?” Irregular rhythm, heart-rate medicine, young child, tremors.",
+      "Pulse deficit math, or a radial rate higher than apical (invalid).",
+      "“Which action needs correction?” Both carotids pressed, thumb used, irregular pulse counted for 15 seconds."
+     ],
+     "steps": [
+      "<b>Read the stem:</b> A client takes a medicine that slows the heart. The radial pulse is 58 and irregular. What should the nurse do before giving the dose?",
+      "<b>What is it really asking?</b> How do you get an accurate rate before a heart-rate medicine?",
+      "<b>Key cues:</b> irregular rhythm, heart-rate medicine.",
+      "<b>Wrong options:</b> “Give the dose” ignores the rate. “Hold and recheck the radial in an hour” uses an inaccurate site. “Count the radial for 30 seconds and double it” is wrong for an irregular pulse.",
+      "<b>Answer:</b> Take an apical pulse for a full 60 seconds, then compare with the prescribed parameters.",
+      "<b>Strategy:</b> Irregular rhythm or a heart-rate medicine means apical, full minute, counted by you."
+     ]
+    },
+    {
+     "heading": "Worked case: the cold, pale foot",
+     "keyIdea": "Asymmetry plus a new change in a limb is a red flag that needs a fast report.",
+     "body": "<p>A 74-year-old is two days after surgery. On rounds, the left foot is cool and pale. You can't feel the left pedal pulse. The right foot is warm, pink, and the pedal pulse is 2+. Yesterday's notes say both pedal pulses were 2+.</p>",
+     "steps": [
+      "<b>Compare sides:</b> left cool, pale, pulseless; right normal.",
+      "<b>Compare to baseline:</b> yesterday both pulses were 2+. This is new.",
+      "<b>Confirm:</b> use a Doppler on the left foot. Mark the spot.",
+      "<b>Interpret:</b> a newly absent pulse with a cool, pale limb means the limb may not be getting blood.",
+      "<b>Act:</b> notify the provider right away. Document what you found and when."
+     ],
+     "check": {
+      "q": "Why is the yesterday-vs-today comparison so important here?",
+      "a": "A chronic, unchanged weak pulse may be the client's normal. A new loss of pulse with a cool, pale limb is an emergency."
      }
     }
    ],
    "mnemonics": [
     {
      "name": "All People Enjoy Time Magazine",
-     "text": "The order of heart auscultation: Aortic (2nd ICS RSB), Pulmonic (2nd ICS LSB), Erb's point (3rd ICS LSB), Tricuspid (4th ICS LSB), Mitral (5th ICS MCL)."
-    },
-    {
-     "name": "PQRST",
-     "text": "Provokes/Palliates, Quality, Region/Radiation, Severity, Timing — the order for assessing chest pain."
+     "text": "Order for listening to the heart: Aortic (2nd ICS RSB), Pulmonic (2nd ICS LSB), Erb's point (3rd ICS LSB), Tricuspid (4th ICS LSB), Mitral (5th ICS MCL)."
     }
    ],
    "pearls": [
-    "Compare side to side. Asymmetry — one weaker pulse, one cooler leg — often matters more than a single number.",
-    "Palpate the carotids one at a time; never both at once.",
-    "Pulse deficit = apical − radial. The radial rate is never greater than the apical rate — if an answer says it is, it's wrong.",
-    "Irregular rhythm or a heart-rate medication → apical pulse for a full 60 seconds.",
-    "JVD + dependent edema points to the right side of the heart (fluid backing up into the body).",
-    "Before calling a slow capillary refill abnormal, consider the environment — cold hands refill slowly."
+    "Compare side to side. One weaker pulse or one cooler leg often matters more than a single number.",
+    "Palpate the carotids one at a time. Never both.",
+    "Pulse deficit = apical − radial. An answer where radial is higher than apical is wrong.",
+    "Irregular rhythm or a heart-rate medicine: apical pulse for a full 60 seconds.",
+    "JVD + dependent edema points to the right side of the heart.",
+    "Before calling a slow capillary refill abnormal, think about cold hands."
    ],
    "redFlags": [
-    "Newly absent pulse with a cool, pale limb → the limb may not be getting blood; notify the provider immediately.",
-    "Pulse deficit (apical greater than radial) → some beats are not perfusing the body; report and monitor.",
-    "Carotid bruit → possible carotid narrowing and stroke risk; document and report.",
-    "New JVD with crackles or swelling → possible heart failure or fluid overload; assess further and report."
-   ],
-   "recap": [
-    "Start with the history: pain (PQRST), fatigue, shortness of breath, lightheadedness, history, lifestyle, and stress — and observe while you talk.",
-    "Exam order: inspect → palpate → percuss → auscultate, using sternum, clavicles, and ribs as landmarks.",
-    "Normal: even skin color, pink lips, crease-free earlobes, flat neck veins, symmetric carotids, no precordial pulsations, slight apical vibration, symmetric legs.",
-    "Listen at aortic, pulmonic, Erb's point, tricuspid, and mitral; S1 and S2 equal at Erb's point; no murmurs; no carotid bruit.",
-    "Assess every pulse for rate, rhythm, volume, elasticity, and bilateral equality; grade volume 0 to 4+.",
-    "Use the apical pulse for irregular rhythms, heart/lung/kidney disease, infants and young children, and before heart-rate medications.",
-    "Pulse deficit = apical − radial, counted together for 60 seconds by two nurses."
+    "Newly absent pulse with a cool, pale limb: the limb may not be getting blood. Notify now.",
+    "Pulse deficit: some beats are not perfusing the body. Report and monitor.",
+    "Carotid bruit: possible narrowing and stroke risk. Document and report.",
+    "New JVD with crackles or swelling: possible heart failure or fluid overload. Keep the client upright and report."
    ],
    "checks": [
     {
-     "q": "During a wellness exam, which of these are abnormal: slight vibration at the apex, bluish nail beds, visible distended neck veins at 45°, a diagonal earlobe crease?",
-     "a": "Bluish nail beds, JVD, and the earlobe crease are abnormal. A slight apical vibration is normal."
+     "q": "Which findings are abnormal: slight vibration at the apex, bluish nail beds, distended neck veins at 45°, a diagonal earlobe crease?",
+     "a": "Bluish nail beds, JVD, and the earlobe crease. A slight apical vibration is normal."
     },
     {
-     "q": "A client is taking a medication that slows the heart. The radial pulse is 58 and irregular. What do you do before giving the medication?",
-     "a": "Take an apical pulse for a full 60 seconds. Irregular rhythms and heart-rate medications both require an apical pulse; compare it with the prescribed parameters before giving the dose."
+     "q": "You can't feel an 80-year-old's pedal pulse. You apply gel and find the signal with the Doppler. What is the next step before cleaning up?",
+     "a": "Mark the spot on the skin so every nurse checks the same place and can detect change."
     },
     {
-     "q": "You cannot palpate an 80-year-old client's pedal pulse. After applying gel and finding the signal with the Doppler probe, what is your next step before cleaning up?",
-     "a": "Mark the spot on the skin so every nurse checks the same location and can detect change."
+     "q": "One pair of nurses counts apical 96, radial 96. Another counts apical 88, radial 94. Which is invalid?",
+     "a": "The second. Radial can never exceed apical. It was likely a counting error, such as not starting together."
     },
     {
-     "q": "Two nurses count an apical rate of 96 and a radial rate of 96. Another pair counts an apical of 88 and a radial of 94. Which reading is invalid and why?",
-     "a": "The second. The radial rate can never exceed the apical rate — it was likely a counting error (for example, not starting at the same moment)."
+     "q": "Why palpate carotid pulses one side at a time?",
+     "a": "Pressing both can cut blood flow to the brain and can slow the heart."
     },
     {
-     "q": "Why does the nurse palpate carotid pulses one side at a time?",
-     "a": "Pressing both at once can reduce blood flow to the brain and can trigger a slow heart rate."
+     "q": "Percussion dullness extends past the left midclavicular line at the 5th ICS. What might this mean?",
+     "a": "The heart may be enlarged. Normal dullness ends at the midclavicular line."
     }
    ]
   },
   {
    "id": "perfusion-emergencies",
-   "title": "Perfusion Emergencies: Stroke, Heart Failure, Pulmonary Edema & Hypertensive Crisis",
+   "title": "Perfusion Emergencies: Stroke, Heart Failure, BP Crisis",
    "exemplar": "Case Study: B.E. — Ischemic Stroke to Hypertensive Crisis",
-   "summary": "Follow B.E. from a stroke at home to fluid overload in the ICU to a hypertensive emergency on the ventilator — and learn to recognize and respond to each perfusion crisis along the way.",
+   "summary": "Follow B.E. from a stroke at home, to fluid overload in the ICU, to a hypertensive emergency on the ventilator, and learn what to notice and do first.",
    "objectives": [
-    "Explain how an alteration in perfusion can be a primary or secondary problem and how it affects other concepts such as oxygenation and acid-base balance.",
-    "Recognize the signs of stroke using BE-FAST and explain why a right-hemisphere stroke causes left-sided deficits.",
-    "Prioritize nursing care for a client with an acute ischemic stroke, including time last known well, NPO status, airway protection, and safety.",
-    "Differentiate left-sided from right-sided heart failure and recognize fluid overload and acute pulmonary edema.",
-    "Distinguish a hypertensive emergency from severe hypertension without organ damage and describe the nurse's first actions.",
-    "Apply these ideas to the B.E. case study, Parts 1–3."
+    "You can explain how a perfusion problem spreads to other concepts, like oxygenation and acid-base balance.",
+    "You can spot stroke with BE-FAST and explain why a right-brain stroke causes left-sided deficits.",
+    "You can set priorities for acute ischemic stroke: last known well, NPO, airway, and safety.",
+    "You can tell left- from right-sided heart failure and recognize fluid overload and pulmonary edema.",
+    "You can tell a hypertensive emergency from severe high BP and name the nurse's first actions."
    ],
-   "bigPicture": "<p>Perfusion problems rarely stay in one place. When blood flow fails in one organ, other organs soon feel it. A clot from the heart can block an artery in the brain. A weak heart can back fluid up into the lungs. Pressure that climbs too high can damage the brain, heart, lungs, and kidneys all at once.</p><p>The numbers show how common this is. High blood pressure affects <strong>nearly half of American adults (about 48%)</strong> under the current definition of 130/80 or higher (older sources using 140/90 cite about 29%). <strong>Heart disease is the leading cause of death</strong> for both men and women. Heart failure is the primary cause of death for about <strong>55,000 people each year</strong> (an older figure) and contributes to many more — it is listed on roughly 1 in 8 U.S. death certificates. Stroke strikes about <strong>795,000 Americans every year</strong>, causes about <strong>160,000 deaths</strong> a year (about 1 in 20 deaths; older sources cite 130,000), and is a <strong>leading cause of serious long-term disability</strong>.</p><p>In this lesson, you'll learn the key emergencies by following one client — B.E. — through his hospital stay. At each step, you'll see what the nurse notices, what it means, and what to do first.</p>",
+   "bigPicture": "<p>Perfusion problems rarely stay in one place. A clot from the heart can block an artery in the brain. A weak heart can back fluid up into the lungs. BP that climbs too high can damage the brain, heart, lungs, and kidneys at once.</p><p>In this lesson you follow one client, B.E., through his hospital stay. He has a stroke, then fluid overload, then a hypertensive emergency. At each step you will see what the nurse notices, what it means, and what to do first.</p>",
+   "recap": [
+    "Ischemic stroke = a blocked brain artery. A-fib is a common clot source. Time is brain.",
+    "Right-brain stroke: left-sided weakness, left neglect, impulsive. Left-brain stroke: right-sided weakness and aphasia.",
+    "Stroke first steps: time last known well, glucose, CT, NPO until a swallow screen, airway, neuro checks, fall safety.",
+    "Left-sided heart failure backs fluid into the Lungs. Right-sided backs it into the Rest of the body.",
+    "Fluid overload: head up, oxygen, diuretics as prescribed, strict I&O, daily weights. No fluid boluses.",
+    "Hypertensive emergency = BP above about 180/120 plus acute organ damage. Notify, lower BP gradually, treat pain.",
+    "Early low perfusion: fast heart rate, narrow pulse pressure, cool skin, low urine output, restlessness."
+   ],
    "keyTerms": [
     {
-     "term": "Ischemic stroke",
-     "def": "A stroke caused by a blocked artery in the brain (usually a clot), so brain tissue beyond the block is starved of oxygen."
-    },
-    {
-     "term": "CVA (cerebrovascular accident)",
-     "def": "Another name for stroke."
+     "term": "Ischemic stroke (CVA)",
+     "def": "A stroke from a blocked brain artery, usually a clot. Brain tissue past the block is starved of oxygen. CVA (cerebrovascular accident) is another name for stroke."
     },
     {
      "term": "Atrial fibrillation (a-fib)",
-     "def": "A fast, irregular rhythm in which the atria quiver instead of squeezing; blood pools and can form clots that travel to the brain."
+     "def": "A fast, irregular rhythm where the atria quiver instead of squeeze. Blood pools and can form clots that travel to the brain."
     },
     {
      "term": "Embolus",
-     "def": "A clot (or other material) that breaks loose and travels in the bloodstream until it lodges in a smaller vessel."
+     "def": "A clot or other material that breaks loose, travels in the blood, and lodges in a smaller vessel."
     },
     {
      "term": "Hemisphere",
-     "def": "One half (right or left) of the brain. Each half controls movement and feeling on the opposite side of the body."
+     "def": "One half of the brain. Each half controls movement and feeling on the opposite side of the body."
     },
     {
      "term": "Neglect",
-     "def": "Ignoring one side of the body and the space on that side — common with right-hemisphere stroke (the client ignores the left)."
+     "def": "Ignoring one side of the body and the space on that side. Common after a right-brain stroke (the client ignores the left)."
+    },
+    {
+     "term": "Aphasia",
+     "def": "Trouble understanding or forming language. Common after a left-brain stroke."
     },
     {
      "term": "Heart failure (HF)",
-     "def": "The heart cannot pump enough blood to meet the body's needs, so blood backs up behind the failing side."
+     "def": "The heart can't pump enough blood for the body's needs, so blood backs up behind the failing side."
+    },
+    {
+     "term": "Preload",
+     "def": "How much blood fills the ventricle before it squeezes. Too much overstretches the muscle."
     },
     {
      "term": "Pulmonary edema",
-     "def": "Fluid flooding the air sacs (alveoli) of the lungs, so oxygen can't get into the blood."
+     "def": "Fluid flooding the air sacs of the lungs, so oxygen can't get into the blood."
     },
     {
      "term": "Crackles",
-     "def": "Popping or bubbling lung sounds heard when air moves through fluid in the small airways."
+     "def": "Popping or bubbling lung sounds made when air moves through fluid in small airways."
     },
     {
      "term": "Oliguria",
-     "def": "Very low urine output (for an adult, less than about 30 mL per hour)."
+     "def": "Very low urine output. For an adult, less than about 30 mL per hour."
     },
     {
      "term": "Hypertensive emergency",
-     "def": "Severe hypertension (above about 180/120) with signs of acute damage to organs such as the brain, heart, lungs, or kidneys."
+     "def": "Severe high BP (above about 180/120) with signs of acute damage to the brain, heart, lungs, or kidneys."
     },
     {
      "term": "Aspiration",
@@ -741,93 +916,104 @@ window.NURSE_DATA.push({
    ],
    "sections": [
     {
-     "heading": "Alterations in perfusion never travel alone",
-     "body": "<p>An alteration in perfusion may be the client's <strong>primary diagnosis</strong> (the main reason they're in the hospital, like a heart attack) or a <strong>secondary</strong> problem caused by something else. Either way, clients with perfusion problems almost always have problems with <strong>other concepts</strong> too: acid-base balance, cellular regulation, cognition, comfort, fluids and electrolytes, and oxygenation.</p><p>The slides give acid-base examples. <strong>Respiratory acidosis</strong> (too much carbon dioxide from poor breathing) can be <em>acute</em> — when breathing suddenly fails — or <em>chronic</em>, usually from another long-term condition. <strong>Metabolic acidosis</strong> (too much acid from the body's metabolism, such as when tissues are starved of oxygen) causes the blood vessels in the lungs to constrict. Pressure in the lungs rises, and the right ventricle has to push harder to get blood through. Over time that leads to <strong>right ventricular failure</strong>, and acidosis also weakens the heart muscle itself (<strong>myocardial depression</strong>).</p>",
-     "analogy": "Think of the body as a city whose roads are the blood vessels. A traffic jam on one road (a blocked artery) doesn't just affect that road — it backs up the highways, delays deliveries to the hospitals and the power plant, and soon the whole city slows down. Perfusion problems spread the same way.",
+     "heading": "Why don't perfusion problems stay in one place?",
+     "keyIdea": "When blood flow fails in one place, oxygenation, fluids, acid-base, thinking, and comfort soon suffer too.",
+     "body": "<p>A perfusion problem may be the <b>primary</b> diagnosis, like a heart attack, or <b>secondary</b> to something else. Either way, it affects other concepts: acid-base, cellular regulation, cognition, comfort, fluids and electrolytes, and oxygenation.</p><p>Take acid-base. <b>Respiratory acidosis</b> (too much carbon dioxide from poor breathing) can be acute or chronic. <b>Metabolic acidosis</b> (too much acid, as when tissues lack oxygen) tightens the lung's vessels. The right ventricle must push harder. Over time, that can cause <b>right ventricular failure</b>. Acidosis also weakens the heart muscle.</p><p>These problems are common. About 48% of U.S. adults have high BP under the 130/80 definition (older sources using 140/90 cite about 29%).</p>",
+     "bullets": [
+      "Heart disease is the leading cause of death for men and women.",
+      "Heart failure is the main cause of about 55,000 deaths a year (an older figure). It appears on about 1 in 8 U.S. death certificates.",
+      "Stroke strikes about 795,000 Americans a year and causes about 160,000 deaths (about 1 in 20; older sources cite 130,000). It is a leading cause of long-term disability."
+     ],
+     "analogy": "Think of the blood vessels as a city's roads. One traffic jam backs up the highways and delays deliveries everywhere. Perfusion problems spread the same way.",
      "check": {
       "q": "Why might a client with severe metabolic acidosis develop right-sided heart failure?",
-      "a": "Acidosis constricts the lung's blood vessels and raises pressure there, so the right ventricle must work harder; acidosis also weakens the heart muscle."
+      "a": "Acidosis tightens the lung's vessels and raises pressure there, so the right ventricle works harder. Acidosis also weakens the heart muscle."
      }
     },
     {
-     "heading": "Stroke: when perfusion to the brain stops",
-     "body": "<p>In an <strong>ischemic stroke</strong>, an artery that feeds part of the brain is blocked, usually by a clot. Brain cells beyond the block are starved of oxygen and begin to die within minutes. This is why stroke care is summed up as <strong>“time is brain.”</strong></p><p>Where does the clot come from? One common source is <strong>atrial fibrillation</strong>. When the atria quiver instead of squeezing, blood pools and forms clots. A piece can break off, travel out of the left ventricle, up the carotid artery, and lodge in the brain.</p><p><strong>The wiring crosses.</strong> The nerve pathways from each side of the brain cross over to the opposite side of the body. So a stroke in the <strong>right</strong> hemisphere causes weakness and numbness on the <strong>left</strong> side, and vice versa. Each side also has typical thinking and behavior changes.</p>",
+     "heading": "What is a stroke and its signs?",
+     "keyIdea": "A blocked brain artery kills brain cells within minutes; the brain's wiring crosses, so deficits show on the opposite side.",
+     "body": "<p>In an <b>ischemic stroke</b>, an artery feeding part of the brain is blocked, usually by a clot. Brain cells past the block start dying within minutes. That is why we say “time is brain.”</p><p>A common clot source is <b>atrial fibrillation</b>. Blood pools in the quivering atria and clots. A piece breaks off, leaves the left heart, goes up the carotid artery, and lodges in the brain.</p><p>The nerve pathways cross. So a <b>right</b>-brain stroke causes <b>left</b>-sided weakness, and the reverse. Each side also has its own thinking and behavior changes. Use <b>BE-FAST</b> to spot a stroke:</p>",
+     "bullets": [
+      "<b>B</b>alance: sudden loss of balance or coordination.",
+      "<b>E</b>yes: sudden vision loss or double vision.",
+      "<b>F</b>ace: one side droops.",
+      "<b>A</b>rm: one arm or leg is weak, numb, or drifts down.",
+      "<b>S</b>peech: slurred, or trouble finding or forming words.",
+      "<b>T</b>ime: call 911 or a stroke alert now. Note the time last known well."
+     ],
      "table": {
-      "caption": "Right- vs. left-hemisphere stroke",
+      "caption": "Right- vs. left-brain stroke",
       "headers": [
        "Feature",
-       "Right-hemisphere stroke",
-       "Left-hemisphere stroke"
+       "Right hemisphere",
+       "Left hemisphere"
       ],
       "rows": [
        [
-        "Weakness / numbness",
-        "Left side of the body",
-        "Right side of the body"
+        "Weakness, numbness",
+        "Left side",
+        "Right side"
        ],
        [
         "Speech and language",
-        "Speech may be slurred, but language is usually intact",
-        "Aphasia (trouble understanding or forming language) in most people"
+        "May be slurred; language usually intact",
+        "Aphasia in most people"
        ],
        [
         "Awareness",
-        "Left-sided neglect — ignores the left side",
+        "Left neglect: ignores the left side",
         "Usually aware of deficits"
        ],
        [
         "Behavior",
-        "Impulsive, poor judgment, overestimates abilities (“I'm fine, I can walk”)",
-        "Slow, cautious, may be anxious or depressed"
+        "Impulsive, poor judgment (“I'm fine, I can walk”)",
+        "Slow, cautious; may be anxious or depressed"
        ]
       ]
-     },
-     "bullets": [
-      "<strong>B</strong>alance — sudden loss of balance or coordination.",
-      "<strong>E</strong>yes — sudden vision loss or double vision.",
-      "<strong>F</strong>ace — one side of the face droops.",
-      "<strong>A</strong>rm — one arm (or leg) is weak, numb, or drifts down.",
-      "<strong>S</strong>peech — slurred speech or trouble finding or forming words.",
-      "<strong>T</strong>ime — call 911 or activate the stroke alert now, and note the <strong>time last known well</strong>."
-     ]
-    },
-    {
-     "heading": "B.E., Part 1: collapse at home",
-     "body": "<p><strong>The story.</strong> During your shift, B.E., a 64-year-old man, arrives in the emergency department after collapsing at home. His wife says that just before he lost consciousness, he seemed <strong>confused</strong>, complained of <strong>numbness and tingling in his left arm</strong> and <strong>double vision</strong>, his <strong>speech was slurred</strong>, and the <strong>left side of his face drooped</strong>. His history: coronary artery disease (CAD), hypertension (HTN), heart failure (CHF), atrial fibrillation, and diabetes. Vitals: T 37.2 °C, P 91, RR 24, BP 182/98. He has regained consciousness and knows where he is, but he has one-sided weakness, slurred speech, and difficulty forming words.</p><p><strong>What the cues mean.</strong> Sudden face droop, arm numbness, double vision, slurred speech, and confusion on one side — that's BE-FAST. Treat this as a <strong>stroke until proven otherwise</strong>. His history makes it even more likely: a-fib is a clot source, and hypertension, diabetes, and CAD all damage blood vessels. His BP of 182/98 and fast breathing also need follow-up. In acute ischemic stroke, though, BP is usually <strong>not</strong> lowered quickly — a moderately high pressure helps push blood past the blockage (permissive hypertension). If clot-dissolving medication is planned, BP must be below 185/110 before it is given and kept at or below 180/105 afterward; the provider sets the targets. Because his symptoms are on the left, we expect the problem in the <strong>right</strong> side of his brain. (Note: one version of the slide describes B.E.'s weakness as right-sided; the CT in Part 2 shows a right-hemisphere stroke, which fits the left-sided symptoms his wife described. Your instructor may frame this differently.)</p>",
-     "steps": [
-      "Ask the most important question first: <strong>“When was he last known to be normal?”</strong> Treatment choices — including clot-dissolving medication (tPA) — depend on how much time has passed.",
-      "Activate the stroke alert; support airway, breathing, and circulation; apply the cardiac monitor.",
-      "Check a <strong>point-of-care blood glucose</strong> — he's diabetic, and low blood sugar can mimic a stroke.",
-      "Prepare for an <strong>emergency CT scan</strong> to tell a clot (ischemic) from bleeding.",
-      "Keep him <strong>NPO</strong> (nothing by mouth) until a bedside swallow screen is passed.",
-      "Perform frequent neuro checks and vital signs and report any change."
-     ],
-     "example": "<strong>At the bedside:</strong> B.E. tells you he is very thirsty and asks for a cup of water. What do you say? “I know you're thirsty. I can't give you anything to drink until we check that your swallow is safe — the stroke can affect the muscles you use to swallow.” You may offer mouth care. Even a sip of water can go into the lungs (aspiration) and cause pneumonia."
-    },
-    {
-     "heading": "B.E., Part 2 (Day 1): ICU, the CT result, and keeping him safe",
-     "body": "<p><strong>The story.</strong> B.E. is transferred to the ICU on continuous cardiac monitoring, and a <strong>CVA care path</strong> (a standard stroke plan of care) is started. The <strong>CT confirms an ischemic stroke of the right parietal/temporal region</strong>. The monitor shows a-fib. He has trouble managing his secretions, and his work of breathing is increasing, so he's placed on a <strong>nonrebreather mask</strong> (a high-oxygen mask). His SpO₂ is only in the <strong>high 80s</strong>. Vitals: T 37.7 °C, P 94, RR 26, BP 120/76. He ignores people and objects on his left, leaves the left side of his gown untied, and has twice tried to climb out of bed saying, “I'm fine, I can walk.”</p><p><strong>What it means.</strong> The most likely cause is a <strong>clot that formed in his fibrillating atria</strong> and traveled to the brain. His deficits are on the left because the <strong>right</strong> hemisphere controls the left side. The neglect and impulsivity are classic right-brain signs — and they put him at high risk for falls and injury to the arm he doesn't notice. Trouble with secretions means his swallow and cough are weak, so aspiration is a real danger.</p>",
-     "bullets": [
-      "Keep the bed in the <strong>lowest position</strong> with the <strong>bed alarm</strong> on; check on him often.",
-      "Place the call light and personal items on his <strong>right</strong> (unaffected, noticed) side.",
-      "Support the <strong>left arm on a pillow</strong> and inspect it for injury — he may not feel or notice it.",
-      "Cue him to turn his head and scan toward the left.",
-      "Keep the head of the bed elevated, suction secretions, and stay NPO.",
-      "Keep monitoring SpO₂, work of breathing, and neuro status, and report worsening."
-     ],
-     "check": {
-      "q": "B.E. keeps trying to get out of bed, saying he can walk. Why, and what's the priority?",
-      "a": "Right-hemisphere strokes cause impulsivity and poor awareness of deficits. The priority is fall prevention: low bed, bed alarm, frequent checks, and items on his right side."
      }
     },
     {
-     "heading": "Heart failure: when the pump backs up",
-     "body": "<p><strong>Heart failure</strong> means the heart can't pump out all the blood that comes back to it. Blood backs up <em>behind</em> whichever side is failing. Remember that the heart's muscle fibers work best when stretched a normal amount; when they are <strong>continuously overstretched</strong> by too much volume (high preload), they contract <em>less</em> effectively — so fluid overload makes a weak heart even weaker.</p><p><strong>Left-sided failure</strong> — the left ventricle pumps to the body, and it receives blood from the lungs. When it fails, blood backs up into the <strong>lungs</strong>: shortness of breath, trouble breathing lying flat (orthopnea — the client sleeps propped up or in a recliner), crackles, cough, sometimes an S3 heart sound, fatigue, confusion, and less urine because the kidneys get less blood.</p><p><strong>Right-sided failure</strong> — the right ventricle receives blood from the body. When it fails, blood backs up into the <strong>body's veins</strong>: JVD, swelling in the legs and feet (dependent pitting edema), weight gain, and abdominal fullness. The most common cause of right-sided failure is left-sided failure.</p>",
+     "heading": "B.E., Part 1: collapse at home",
+     "keyIdea": "Sudden one-sided symptoms mean stroke until proven otherwise; ask when he was last known well.",
+     "body": "<p>B.E., 64, collapses at home. His wife says that just before, he was confused. He had left arm numbness and tingling, double vision, slurred speech, and a left facial droop. He has CAD, high BP, heart failure, a-fib, and diabetes. Vitals: T 37.2 °C, P 91, RR 24, BP 182/98. He is awake now, with one-sided weakness and slurred speech.</p><p>These are BE-FAST signs. A-fib is a clot source. His symptoms are on the left, so we expect a right-brain stroke.</p><p>In acute ischemic stroke, BP is usually <b>not</b> lowered fast. A moderately high BP helps push blood past the block (permissive hypertension). If clot-dissolving medicine is planned, BP must be below 185/110 first and at or below 180/105 after. The provider sets targets. (One slide version calls his weakness right-sided. The CT shows a right-brain stroke, which fits the left-sided signs.)</p>",
+     "steps": [
+      "Ask first: “When was he last known to be normal?” Clot-dissolving medicine (tPA) depends on time.",
+      "Activate the stroke alert. Support airway, breathing, and circulation. Apply a cardiac monitor.",
+      "Check a fingerstick glucose. Low sugar can mimic a stroke. Treat it per protocol, not by mouth.",
+      "Prepare for an emergency CT to tell a clot from bleeding. No aspirin or anticoagulant before the CT.",
+      "Keep him NPO until he passes a bedside swallow screen.",
+      "Do frequent neuro checks and vital signs. Report changes."
+     ],
+     "example": "B.E. is very thirsty and asks for water. You say, “I know you're thirsty. I can't give you a drink until we check that your swallow is safe.” You offer mouth care. Even a sip can go into the lungs (aspiration) and cause pneumonia."
+    },
+    {
+     "heading": "B.E., Part 2: ICU safety",
+     "keyIdea": "Right-brain stroke means neglect and impulsivity, so fall prevention and aspiration prevention come first.",
+     "body": "<p>In the ICU, B.E. is on a cardiac monitor and a stroke care path. CT confirms an ischemic stroke in the <b>right parietal/temporal</b> area. The monitor shows a-fib. He struggles with secretions and his breathing work is rising. He's on a nonrebreather mask, but SpO₂ is in the high 80s. Vitals: T 37.7 °C, P 94, RR 26, BP 120/76.</p><p>He ignores things on his left and leaves the left side of his gown untied. Twice he tried to climb out of bed: “I'm fine, I can walk.” That is classic right-brain neglect and impulsivity. He is at high risk for falls and for hurting the arm he doesn't notice. Weak swallow and cough make aspiration a real danger.</p>",
+     "bullets": [
+      "Bed low, bed alarm on, check on him often.",
+      "Call light and personal items on his <b>right</b> side (the side he notices).",
+      "Support the left arm on a pillow and check it for injury.",
+      "Cue him to turn his head and scan to the left.",
+      "Head of bed up, suction secretions, stay NPO.",
+      "Watch SpO₂, breathing work, and neuro status. Report worsening.",
+      "Cough, wet voice, or falling SpO₂ after a sip = aspiration. Sit him up, stop intake, suction."
+     ],
+     "check": {
+      "q": "B.E. keeps trying to get up, saying he can walk. Why, and what is the priority?",
+      "a": "Right-brain strokes cause impulsivity and poor awareness of deficits. Priority is fall prevention: low bed, alarm, frequent checks, items on his right."
+     }
+    },
+    {
+     "heading": "What happens in heart failure?",
+     "keyIdea": "Blood backs up behind the failing side: Left backs into the Lungs, Right backs into the Rest of the body.",
+     "body": "<p>In heart failure, the heart can't pump out all the blood that returns to it. Blood backs up behind the failing side. Heart muscle works best when stretched a normal amount. Overstretch it with too much volume (high preload), and it squeezes less well. So fluid overload makes a weak heart weaker.</p><p><b>Left-sided failure:</b> the left ventricle gets blood from the lungs. When it fails, blood backs up into the <b>lungs</b>. The client may sleep propped up or in a recliner (orthopnea). In an adult with heart failure, a new S3 means volume overload.</p><p><b>Right-sided failure:</b> the right ventricle gets blood from the body. When it fails, blood backs up into the <b>body's veins</b>. The most common cause of right-sided failure is left-sided failure.</p>",
      "table": {
       "caption": "Left- vs. right-sided heart failure",
       "headers": [
-       "Left-sided (backs into the Lungs)",
-       "Right-sided (backs into the Rest of the body)"
+       "Left: backs into the Lungs",
+       "Right: backs into the Rest of the body"
       ],
       "rows": [
        [
@@ -839,7 +1025,7 @@ window.NURSE_DATA.push({
         "Dependent pitting edema"
        ],
        [
-        "S3, tachycardia",
+        "S3, fast heart rate",
         "Weight gain"
        ],
        [
@@ -847,27 +1033,29 @@ window.NURSE_DATA.push({
         "Abdominal fullness, poor appetite"
        ],
        [
-        "Decreased urine output",
+        "Less urine (kidneys get less blood)",
         "—"
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> A 72-year-old with heart failure ran out of his “water pill” (diuretic) 5 days ago and ate ham and canned soup (very salty) at a holiday meal. He has slept upright in a recliner for 3 nights, SpO₂ is 89% on room air, crackles are heard to the mid-lungs, and he has 3+ pitting edema to the knees. Salt makes the body hold water; without the diuretic, the extra fluid has nowhere to go. The nurse positions him in <strong>high Fowler's with legs down</strong> (less blood returning to the heart), gives oxygen and the IV diuretic as prescribed, keeps strict intake and output, weighs him daily (same scale, same time, before breakfast), and follows the sodium and fluid restriction. <strong>No fluid boluses</strong> — even though his heart rate is fast. His priority problem is <strong>impaired gas exchange</strong> from fluid in the lungs."
+     "example": "A 72-year-old with heart failure ran out of his diuretic and ate salty ham and canned soup. He has slept in a recliner for 3 nights. SpO₂ is 89%, crackles reach mid-lung, and edema is 3+ to the knees. Sit him in high Fowler's with legs down. Give oxygen and the IV diuretic as prescribed. Keep strict I&O, daily weights, and sodium and fluid limits. No fluid boluses, even with a fast heart rate. His priority problem is impaired gas exchange."
     },
     {
-     "heading": "B.E., Part 2 (Hour 36): fluid overload and a failing airway",
-     "body": "<p><strong>The story.</strong> Thirty-six hours after admission you hear <strong>bilateral crackles, worse on the right</strong>. He has <strong>pitting edema</strong> in his lower legs, and his <strong>urine output has dropped</strong> sharply (for example, 15 mL/h, down from 50). He is <strong>difficult to arouse</strong> and oriented to person only. The provider and respiratory therapy are called to assess the need for mechanical ventilation (a breathing machine).</p><p><strong>What it means.</strong> Put the cues together. B.E. has a history of heart failure. Crackles in both lungs + leg edema + falling urine output = <strong>fluid overload</strong> with a heart that can't keep up. The low urine output is <em>not</em> dehydration — it's the kidneys getting too little blood because the heart is pumping poorly. Why worse on the right? He can't manage his secretions, and the <strong>right main bronchus is shorter, wider, and straighter</strong>, so aspirated secretions tend to fall into the right lung. His worsening alertness and low oxygen tell you he is heading toward <strong>respiratory failure</strong>.</p>",
+     "heading": "B.E., Part 2 (hour 36): fluid overload",
+     "keyIdea": "Crackles plus edema plus low urine output in heart failure means overload, not dehydration; never give a bolus.",
+     "body": "<p>At hour 36, you hear crackles in both lungs, <b>worse on the right</b>. His legs have pitting edema. Urine has dropped, for example to 15 mL/h from 50. He is hard to wake and oriented to person only. The team assesses him for a ventilator.</p><p>Heart failure + crackles + edema + low urine = fluid overload with a weak pump. Low urine here is <b>not</b> dehydration. The kidneys get too little blood because the heart pumps poorly.</p><p>Why worse on the right? The right main bronchus is shorter, wider, and straighter, so aspirated secretions fall there. Falling alertness and low oxygen point toward respiratory failure.</p>",
      "bullets": [
-      "<strong>Indicated:</strong> keep the head of the bed at least 30° (higher if tolerated), suction and clear the airway, strict intake and output, daily weights on the same scale at the same time, and close monitoring of SpO₂, breathing, and neuro status.",
-      "<strong>Not indicated:</strong> a normal saline bolus “for low urine output” (it would add fluid to already flooded lungs) or thin oral liquids (he can't swallow safely and is NPO)."
+      "<b>Do:</b> head of bed at least 30° (higher if tolerated), suction, strict I&O, daily weights on the same scale at the same time, close SpO₂, breathing, and neuro checks.",
+      "<b>Don't:</b> give a saline bolus “for low urine output,” raise the legs, or give thin liquids by mouth. He can't swallow safely and is NPO."
      ],
-     "example": "<strong>At the bedside:</strong> SpO₂ is 87% on the nonrebreather, RR 30, and secretions are pooling in his mouth. What do you do first while the team is on the way? <strong>Raise the head of the bed and suction his airway.</strong> Oxygen can't help if the airway is full of secretions, and sitting up lets the lungs expand and reduces fluid returning to the heart."
+     "example": "SpO₂ is 87% on the nonrebreather, RR is 30, and secretions pool in his mouth. While the team is coming, raise the head of the bed and suction. Oxygen can't help if the airway is full. Sitting up helps the lungs expand and cuts blood return to the heart."
     },
     {
-     "heading": "Acute pulmonary edema and hypertensive emergency",
-     "body": "<p><strong>Acute pulmonary edema</strong> happens when pressure in the left side of the heart rises so high that fluid is forced out of the lung capillaries and into the air sacs. It can come from fluid overload, worsening heart failure, or severely high blood pressure (the left ventricle can't push against it). Signs: severe shortness of breath, anxiety, fast breathing, <strong>crackles throughout</strong> the lungs, <strong>pink, frothy sputum</strong> (fluid mixed with air and a little blood), falling SpO₂, and sweating. The nurse positions the client upright, gives oxygen, suctions, prepares for ventilator support, and gives diuretics and other medications as prescribed.</p><p><strong>Severe hypertension</strong> is a BP above about <strong>180/120</strong>. What turns it into a <strong>hypertensive emergency</strong> is not the number — it's <strong>acute damage to organs</strong>:</p>",
+     "heading": "What are pulmonary edema and hypertensive emergency?",
+     "keyIdea": "Pink frothy sputum means fluid in the air sacs; organ damage, not the BP number, defines a hypertensive emergency.",
+     "body": "<p><b>Acute pulmonary edema</b> happens when pressure in the left heart gets so high that fluid is forced into the lung's air sacs. Causes include fluid overload, worsening heart failure, or very high BP. Signs: severe shortness of breath, anxiety, fast breathing, crackles everywhere, <b>pink, frothy sputum</b>, falling SpO₂, and sweating. Sit the client up with legs down, give oxygen, suction, prepare for a ventilator, and give diuretics as prescribed.</p><p><b>Severe hypertension</b> is BP above about 180/120. It becomes a <b>hypertensive emergency</b> when there is acute organ damage.</p>",
      "table": {
-      "caption": "Target-organ damage that defines a hypertensive emergency",
+      "caption": "Organ damage that defines a hypertensive emergency",
       "headers": [
        "Organ",
        "What you may see"
@@ -883,7 +1071,7 @@ window.NURSE_DATA.push({
        ],
        [
         "Lungs",
-        "Acute pulmonary edema — crackles, pink frothy sputum"
+        "Acute pulmonary edema: crackles, pink frothy sputum"
        ],
        [
         "Kidneys",
@@ -892,122 +1080,175 @@ window.NURSE_DATA.push({
       ]
      },
      "bullets": [
-      "Notify the provider immediately — this client needs ICU care.",
-      "BP is lowered in a <strong>controlled, gradual</strong> way as the provider prescribes; dropping it too fast can starve the brain, heart, and kidneys of blood.",
-      "Look for and treat things that push BP up: <strong>pain, agitation</strong>, a full bladder, low oxygen, and missed home medications.",
-      "Anxiety or the reason the client ran out of pills does <em>not</em> make it an emergency — organ damage does."
+      "Notify the provider now. This client needs ICU care.",
+      "BP is lowered gradually, as prescribed. A fast drop can starve the brain, heart, and kidneys of blood.",
+      "Find and treat things that push BP up: pain, agitation, a full bladder, low oxygen, missed home medicines.",
+      "Anxiety, or why the client ran out of pills, does not make it an emergency. Organ damage does."
      ]
     },
     {
-     "heading": "B.E., Part 3 (Day 4): hypertensive emergency on the ventilator",
-     "body": "<p><strong>The story.</strong> On day 4, you go in for the morning assessment. B.E. has been on mechanical ventilation for 2 days. His <strong>BP is 258/128</strong> and <strong>P 112</strong>. During the scheduled <strong>sedation vacation</strong> (a planned pause in sedation to check neuro status), he is minimally responsive and <strong>grimaces as if in pain</strong>. You hear <strong>crackles throughout</strong> his lungs and are suctioning <strong>pink, frothy sputum</strong> through the closed suction system.</p><p><strong>What it means.</strong> BP far above 180/120 <em>plus</em> acute organ damage — here, acute pulmonary edema (crackles throughout and pink frothy secretions) — equals a <strong>hypertensive emergency</strong>. The heart rate of 112 and his low responsiveness are concerning but less specific. His grimacing matters: <strong>pain</strong> drives the sympathetic nervous system, which speeds the heart and constricts vessels, pushing BP even higher. He can't tell you he hurts, so you read his behavior.</p>",
-     "steps": [
-      "<strong>Notify the provider now</strong> about the extreme BP and signs of pulmonary edema.",
-      "Keep the head of the bed elevated; continue suctioning and oxygen/ventilator support.",
-      "Do <strong>not</strong> give extra IV fluid.",
-      "Assess and treat pain and agitation using behavioral cues (grimacing, restlessness, fighting the ventilator) and prescribed medications.",
-      "Give BP-lowering medications exactly as prescribed and monitor BP closely so it comes down gradually.",
-      "Reassess and compare to his own trend."
-     ],
-     "example": "<strong>At the bedside (1100 reassessment):</strong> After the provider's orders, his BP is lower and trending steadily down, his heart rate has slowed, the frothy secretions have decreased, and SpO₂ has improved — these show <strong>improvement</strong>. But if he still grimaces with turning, or his urine output stays very low, those findings still <strong>require follow-up</strong>. Evaluate every result against his own earlier values, not just against “normal.”",
-     "check": {
-      "q": "What single set of findings in Part 3 proves this is a hypertensive emergency and not just a very high BP?",
-      "a": "The pink frothy secretions with crackles throughout — acute pulmonary edema is target-organ (lung) damage. The high BP alone isn't enough to call it an emergency."
+     "heading": "How do you spot falling perfusion early?",
+     "keyIdea": "The body hides trouble at first; a rising pulse and narrow pulse pressure can come before the systolic falls.",
+     "body": "<p>When blood volume falls, as with bleeding after surgery, the body <b>compensates</b>. The heart speeds up. Skin vessels tighten, so skin turns cool, pale, and moist. The kidneys hold water, so urine drops. Diastolic stays up while systolic starts to fall, so the pulse pressure narrows. Less blood to the brain causes restlessness or confusion. The systolic may still look “normal,” but the client is in trouble.</p>",
+     "example": "Eight hours after abdominal surgery, a client is restless and keeps asking the time. Skin is cool, pale, and moist. HR is 118 (was 84). BP is 104/88, a pulse pressure of 16. Urine is 60 mL in 3 hours. The dressing is dry, but bleeding can be internal. Report now. A low-grade temperature, pain at 4/10, SpO₂ 96%, and hypoactive bowel sounds are expected after surgery."
+    },
+    {
+     "heading": "Common traps in perfusion emergencies",
+     "keyIdea": "Most wrong answers treat a single number or symptom instead of the full cluster of cues.",
+     "body": "<p>These look-alikes show up often. Learn the clue that separates them.</p>",
+     "table": {
+      "caption": "Look-alikes and how to tell them apart",
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Low urine: dehydration vs. pump failure",
+        "With crackles, edema, and heart failure, it's pump failure. No bolus."
+       ],
+       [
+        "Right- vs. left-brain stroke",
+        "Right brain: left weakness, neglect, impulsive. Left brain: right weakness, aphasia, cautious."
+       ],
+       [
+        "Severe high BP vs. hypertensive emergency",
+        "Emergency needs organ damage: confusion, chest pain, pulmonary edema, rising creatinine."
+       ],
+       [
+        "Left- vs. right-sided heart failure",
+        "Left: lungs (crackles, orthopnea, S3). Right: body (JVD, edema, weight gain)."
+       ],
+       [
+        "Thirsty stroke client: water vs. NPO",
+        "NPO until a swallow screen. Offer mouth care."
+       ],
+       [
+        "BP after stroke: lower fast vs. permissive",
+        "Usually not lowered fast; provider sets targets."
+       ]
+      ]
      }
     },
     {
-     "heading": "Recognizing falling perfusion early",
-     "body": "<p>Not every perfusion emergency starts with a dramatic number. The body is good at hiding trouble at first. When blood volume falls — for example, from bleeding after surgery — the body <strong>compensates</strong>: the heart speeds up, blood vessels in the skin constrict (cool, pale, moist skin), the kidneys hold on to water (low urine output), and the diastolic pressure stays up while the systolic starts to drop, so the <strong>pulse pressure narrows</strong>. Less blood to the brain causes <strong>restlessness</strong> or confusion. The systolic may still look “normal” — but the client is in trouble.</p>",
-     "example": "<strong>At the bedside:</strong> Eight hours after abdominal surgery, a client is restless and keeps asking what time it is. Skin is cool, pale, and moist; HR is 118 (was 84); BP is 104/88 (pulse pressure 16); urine output is 60 mL in 3 hours. The dressing is dry — but bleeding after abdominal surgery can be internal. These cues together mean <strong>reduced perfusion from volume loss</strong>. Report immediately. A low-grade temperature, pain controlled at 4/10, SpO₂ 96%, and hypoactive bowel sounds are expected after surgery."
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect first-action, prioritization, and cue-clustering questions built around a case like B.E.",
+     "body": "<p>Common patterns:</p>",
+     "bullets": [
+      "“What is the first question?” for stroke: time last known well.",
+      "“Which findings make this an emergency?” Pick the organ-damage signs.",
+      "“Which order needs clarification?” A fluid bolus for a client in heart failure."
+     ],
+     "steps": [
+      "<b>Read the stem:</b> A wife calls. Her 70-year-old husband with a-fib suddenly can't lift his right arm and his speech is garbled. He also has chronic knee pain. What should the nurse say?",
+      "<b>What is it really asking?</b> Is this an emergency, and what is the first action?",
+      "<b>Key cues:</b> sudden, one-sided weakness, speech change, a-fib.",
+      "<b>Wrong options:</b> “Give him an aspirin” could worsen a bleeding stroke. “Have him lie down and call back in an hour” wastes brain. “Schedule a visit for his knee” chases a chronic problem.",
+      "<b>Answer:</b> “Call 911 now and note when he was last normal.”",
+      "<b>Strategy:</b> Sudden and new beats chronic and stable. Time is brain."
+     ]
+    },
+    {
+     "heading": "Worked case: B.E., day 4 on the ventilator",
+     "keyIdea": "Extreme BP plus pink frothy secretions is a hypertensive emergency: notify, keep him up, no extra fluid, treat pain.",
+     "body": "<p>B.E. has been on a ventilator for 2 days. BP is <b>258/128</b> and P 112. During his sedation vacation (a planned pause to check neuro status), he barely responds and <b>grimaces as if in pain</b>. You hear crackles throughout. You suction <b>pink, frothy sputum</b> through the closed suction system.</p>",
+     "steps": [
+      "<b>Cluster the cues:</b> BP far above 180/120 plus acute pulmonary edema (lung damage) = hypertensive emergency.",
+      "<b>Notice the pain cue:</b> grimacing. Pain speeds the heart and tightens vessels, raising BP. He can't speak, so read his behavior.",
+      "<b>Act:</b> notify the provider now. Keep the head of the bed up. Continue suctioning and ventilator support. No extra IV fluid.",
+      "<b>Treat:</b> assess pain and agitation by behavior (grimacing, restlessness, fighting the ventilator). Give prescribed medicines. Lower BP gradually as prescribed.",
+      "<b>Evaluate at 1100:</b> BP trending down, slower heart rate, fewer frothy secretions, better SpO₂ = improving. Still grimacing or very low urine = still needs follow-up."
+     ],
+     "check": {
+      "q": "Which single set of findings proves this is a hypertensive emergency, not just very high BP?",
+      "a": "The pink frothy secretions with crackles throughout. Acute pulmonary edema is organ (lung) damage. A high BP alone isn't enough."
+     }
     }
    ],
    "mnemonics": [
     {
      "name": "BE-FAST",
-     "text": "Balance, Eyes, Face, Arm, Speech, Time — sudden changes in any mean possible stroke; call for help and note the time last known well."
+     "text": "Balance, Eyes, Face, Arm, Speech, Time. Any sudden change means possible stroke. Call for help and note the time last known well."
     },
     {
      "name": "Left = Lungs, Right = Rest",
-     "text": "Left-sided heart failure backs fluid into the lungs; right-sided failure backs fluid into the rest of the body."
+     "text": "Left-sided heart failure backs fluid into the lungs. Right-sided backs fluid into the rest of the body."
     }
    ],
    "pearls": [
-    "In suspected stroke, the first question is “When was the client last known well?”",
-    "Suspected stroke = NPO until a swallow screen is passed, even if the client is thirsty.",
-    "Right brain → left-sided weakness, left neglect, impulsivity. Put the call light on the unaffected side and prevent falls.",
-    "Low urine output + crackles + edema = poor cardiac output with fluid overload, not dehydration. Fluid boluses are the wrong answer.",
+    "Suspected stroke: the first question is “When was the client last known well?”",
+    "Suspected stroke = NPO until a swallow screen is passed, even if thirsty.",
+    "Right brain: left-sided weakness, left neglect, impulsive. Call light on the unaffected side. Prevent falls.",
+    "Low urine + crackles + edema = poor pump with overload. A fluid bolus is the wrong answer.",
     "A hypertensive emergency is defined by organ damage, not by how high the number is.",
-    "In a client who cannot speak, grimacing and restlessness are pain cues — pain raises BP."
+    "In a client who can't speak, grimacing and restlessness are pain cues. Pain raises BP."
    ],
    "redFlags": [
-    "Any sudden BE-FAST finding → activate the stroke alert, note the time last known well, keep the client NPO.",
-    "Pink frothy sputum, crackles throughout, and falling SpO₂ despite oxygen → acute pulmonary edema; sit the client up, notify the provider.",
-    "BP above about 180/120 with neuro change, chest pain, dyspnea, or falling urine output → hypertensive emergency; notify immediately.",
-    "Pooled secretions, weak cough, and falling SpO₂ after a stroke → aspiration and impending respiratory failure; suction, elevate the head of the bed, call for help.",
-    "Rising heart rate, narrowing pulse pressure, restlessness, and low urine output after surgery → possible bleeding; report now."
-   ],
-   "recap": [
-    "Perfusion problems affect other concepts — oxygenation, acid-base, fluids, cognition, comfort.",
-    "Ischemic stroke = blocked brain artery; a-fib is a common clot source; time is brain.",
-    "Right-hemisphere stroke → left-sided weakness, neglect, and impulsivity (B.E.); left-hemisphere → right-sided weakness and aphasia.",
-    "Stroke priorities: time last known well, glucose, CT, NPO until swallow screen, airway, neuro checks, fall safety.",
-    "Left-sided HF backs into the lungs; right-sided HF backs into the body.",
-    "Fluid overload: head up, oxygen, diuretics as prescribed, strict I&O, daily weights, no fluid boluses.",
-    "Hypertensive emergency = severe BP + acute organ damage; notify, lower BP gradually as prescribed, treat pain and agitation.",
-    "Early low perfusion: fast heart rate, narrow pulse pressure, cool skin, low urine output, restlessness."
+    "Any sudden BE-FAST finding: stroke alert, note time last known well, keep NPO.",
+    "Pink frothy sputum, crackles throughout, falling SpO₂: acute pulmonary edema. Sit up, notify.",
+    "BP above about 180/120 with neuro change, chest pain, dyspnea, or falling urine: hypertensive emergency.",
+    "Pooled secretions, weak cough, falling SpO₂ after a stroke: aspiration. Suction, head up, get help.",
+    "Rising pulse, narrowing pulse pressure, restlessness, low urine after surgery: possible bleeding."
    ],
    "checks": [
     {
-     "q": "A wife calls to say her 70-year-old husband with a-fib suddenly can't lift his right arm and his speech is garbled. He also has chronic knee pain. What do you tell her?",
-     "a": "Call 911 now and note what time he was last normal. Sudden one-sided weakness and speech changes are stroke signs; the chronic knee pain is not."
-    },
-    {
      "q": "Why are B.E.'s deficits on his left side?",
-     "a": "His stroke is in the right hemisphere, and the motor pathways cross, so the right brain controls the left side of the body."
+     "a": "His stroke is in the right hemisphere. The motor pathways cross, so the right brain controls the left body."
     },
     {
-     "q": "A client with heart failure has crackles, 3+ leg edema, and urine output of 15 mL/h. A new nurse suggests a fluid bolus for the low urine output. How do you respond?",
-     "a": "The low output is from poor cardiac output with fluid overload, not dehydration. A bolus would worsen the lung congestion. Keep the head up, monitor I&O and weights, and give diuretics as prescribed."
+     "q": "A heart failure client has crackles, 3+ leg edema, and urine of 15 mL/h. A new nurse suggests a fluid bolus. How do you respond?",
+     "a": "Low output is from a poor pump with overload, not dehydration. A bolus would flood the lungs more. Keep the head up, track I&O and weights, give diuretics as prescribed."
     },
     {
-     "q": "A client has BP 214/126 and a history of skipping medications. Which findings make this an emergency: anxiety, new confusion, chest pain, pink frothy sputum, creatinine rising from 1.0 to 2.4?",
-     "a": "New confusion (brain), chest pain (heart), pink frothy sputum (lungs), and rising creatinine (kidneys) — all signs of target-organ damage. Anxiety is not."
+     "q": "BP 214/126 in a client who skips medicines. Which findings make it an emergency: anxiety, new confusion, chest pain, pink frothy sputum, creatinine 1.0 to 2.4?",
+     "a": "New confusion (brain), chest pain (heart), pink frothy sputum (lungs), rising creatinine (kidneys). Anxiety is not organ damage."
     },
     {
-     "q": "B.E. is on the ventilator with BP 258/128 and pink frothy secretions. What is your first action?",
-     "a": "Notify the provider immediately while keeping the head of the bed elevated and continuing airway support — this is a hypertensive emergency with acute pulmonary edema."
-    },
-    {
-     "q": "After a large diuresis, a client with heart failure got up alone, felt dizzy, and now has a new irregular radial pulse. What should the nurse do?",
-     "a": "Ensure safety (call light in reach, ask the client to call before getting up), take an apical pulse for a full minute and compare with the radial, notify the provider of the new irregular rhythm, and continue strict I&O. Don't push extra fluids or lay the client flat."
+     "q": "After a large diuresis, a heart failure client got up alone, felt dizzy, and now has a new irregular radial pulse. What should the nurse do?",
+     "a": "Ensure safety (call light, call before getting up). Take an apical pulse for a full minute with a radial count. Report the new rhythm. Continue strict I&O. Don't push fluids or lay the client flat."
     }
    ]
   },
   {
    "id": "promotion-interventions",
-   "title": "Health Promotion, Independent & Collaborative Interventions",
+   "title": "Health Promotion and Nursing Interventions for Perfusion",
    "exemplar": null,
-   "summary": "Much heart and vessel disease can be prevented or slowed — learn the risk factors, the screenings, and the everyday nursing actions that keep blood flowing.",
+   "summary": "Much heart and vessel disease can be prevented or slowed. Learn the risk factors, screenings, and everyday nursing actions that keep blood flowing.",
    "objectives": [
-    "Sort cardiovascular risk factors into nonmodifiable, modifiable, and secondary, and explain when to refer for genetic counseling.",
-    "Teach lifestyle changes that protect perfusion, including smoking cessation, nutrition, BMI below 25, activity, alcohol limits, and stress reduction.",
-    "Describe common cardiovascular screening tests, including BP and lipid screening, ECG, stress tests, and electron beam CT.",
-    "Carry out independent nursing interventions that promote circulation: monitoring inputs and outputs, promoting venous return, using compression devices, psychosocial support, and CPR.",
-    "Describe the collaborative therapies used by the interprofessional team, including surgery, cardiac rehabilitation, medications, and nonpharmacologic therapies."
+    "You can sort risk factors into ones the client can and can't change, and know when to refer for genetic counseling.",
+    "You can teach lifestyle changes: no smoking, healthy diet, BMI below 25, daily activity, limited alcohol, less stress.",
+    "You can name common heart screening tests and what each shows.",
+    "You can carry out independent actions: promote circulation, monitor I&O and weights, check compression devices, support feelings, start CPR.",
+    "You can decide what to delegate to a UAP and what the nurse keeps.",
+    "You can describe collaborative therapies like surgery, cardiac rehab, and medicines."
    ],
-   "bigPicture": "<p>Heart disease is the leading cause of death in the United States — but a large part of it is preventable. Smoking, an unhealthy diet, extra weight, and too little movement all damage blood vessels over many years. That means nurses have a huge opportunity: every conversation with a client is a chance to lower their risk.</p><p>Nurses also do a lot to protect perfusion once a client is sick. Some actions you can do on your own, without an order — these are <strong>independent interventions</strong>, like helping a client walk after surgery, tracking intake and output, and starting CPR. Others are <strong>collaborative therapies</strong> that the whole team provides, like surgery, cardiac rehab, and medications.</p><p>This lesson covers both: how to help clients stay healthy, and what you'll do when perfusion is already at risk.</p>",
+   "bigPicture": "<p>Heart disease is the leading cause of death in the U.S. But much of it can be prevented. Smoking, poor diet, extra weight, and too little movement damage vessels over many years. So every talk with a client is a chance to lower risk.</p><p>Nurses also protect perfusion once a client is sick. Some actions need no order. These are <b>independent interventions</b>, like walking a client after surgery, tracking intake and output, or starting CPR. Others are <b>collaborative therapies</b> the whole team provides, like surgery, cardiac rehab, and medicines.</p>",
+   "recap": [
+    "Can't change: age, gender, race, personal and family history. Can change: smoking, diet and BMI, activity.",
+    "Secondary risk factors can be controlled: high BP, high cholesterol, obesity, stress, alcohol.",
+    "Refer for genetic counseling when findings suggest an inherited disorder, like very high LDL with early heart disease in relatives.",
+    "Teach: quit smoking, heart-healthy diet, BMI below 25, daily activity, limit alcohol, reduce stress, keep taking BP pills.",
+    "Prevent venous stasis: ankle pumps, early walking, fluids. No knee pillows, crossed legs, or calf massage.",
+    "Heart failure: report a gain of about 1 kg (2–3 lb) in a day or 2 kg (5 lb) in a week.",
+    "Delegate routine tasks on stable clients. Keep new symptoms, evaluation, and teaching.",
+    "Adult CPR: 100–120 per minute, 2 to 2.4 inches deep, full recoil, 30:2, AED as soon as it arrives."
+   ],
    "keyTerms": [
     {
+     "term": "Risk factor",
+     "def": "Anything that makes a disease more likely."
+    },
+    {
      "term": "Nonmodifiable risk factor",
-     "def": "A risk you cannot change: age, gender, race, personal health history, and family history."
+     "def": "A risk the client can't change: age, gender, race, personal health history, family history."
     },
     {
      "term": "Modifiable risk factor",
-     "def": "A risk the client can change: smoking, diet and weight, and physical activity."
+     "def": "A risk the client can change: smoking, diet and weight, physical activity."
     },
     {
      "term": "Secondary risk factors",
-     "def": "Conditions that raise risk and can be controlled: high BP, high cholesterol, obesity, stress, and alcohol use."
+     "def": "Conditions that raise risk but can be controlled: high BP, high cholesterol, obesity, stress, alcohol use."
     },
     {
      "term": "BMI (body mass index)",
@@ -1015,23 +1256,27 @@ window.NURSE_DATA.push({
     },
     {
      "term": "Primary prevention",
-     "def": "Actions that stop a disease from starting, such as teaching a healthy client to quit smoking."
+     "def": "Actions that stop a disease from starting, like teaching a healthy client to quit smoking."
     },
     {
      "term": "Stress test",
-     "def": "A test that watches how the heart handles extra work, either from exercise (treadmill) or from a medication that makes the heart work harder (chemical)."
+     "def": "A test of how the heart handles extra work, from exercise (treadmill) or from a medicine that makes it work harder (chemical)."
     },
     {
      "term": "Electron beam CT",
-     "def": "A fast CT scan that detects calcium buildup (calcified plaque) in the coronary arteries."
+     "def": "A fast CT scan that finds calcium buildup (calcified plaque) in the coronary arteries."
     },
     {
      "term": "Venous stasis",
-     "def": "Slow or pooled blood flow in the veins, which raises the risk of clots."
+     "def": "Slow or pooled blood in the veins. It raises the risk of clots."
     },
     {
      "term": "Compression devices",
      "def": "Stockings or sleeves that squeeze the legs to help blood return to the heart."
+    },
+    {
+     "term": "UAP",
+     "def": "Unlicensed assistive personnel, such as a nursing assistant."
     },
     {
      "term": "Cardiac rehabilitation",
@@ -1039,22 +1284,23 @@ window.NURSE_DATA.push({
     },
     {
      "term": "Chelation therapy",
-     "def": "A treatment in which a substance is given to bind metals in the blood; some clients use it as an alternative heart therapy, but it is not a proven treatment for heart disease and carries risks (such as low calcium and kidney injury)."
+     "def": "A substance given to bind metals in the blood. Some use it as alternative heart therapy. It is not proven and can cause low calcium and kidney injury."
     },
     {
      "term": "CPR",
-     "def": "Cardiopulmonary resuscitation — chest compressions (and breaths) that keep blood moving when the heart has stopped."
+     "def": "Cardiopulmonary resuscitation: chest compressions (and breaths) that keep blood moving when the heart has stopped."
     }
    ],
    "sections": [
     {
-     "heading": "Risk factors: what you can and can't change",
-     "body": "<p>A <strong>risk factor</strong> is anything that makes a disease more likely. For perfusion, risk factors fall into three groups.</p><p><strong>Nonmodifiable</strong> — the client cannot change these: <strong>age, gender, race, personal health history</strong>, and <strong>family history</strong>, especially of <strong>high cholesterol</strong> or <strong>early-onset coronary artery disease</strong> (for example, a father who had a heart attack at 48). If you notice signs that suggest an inherited disorder — such as very high cholesterol in a young client, or several relatives with early heart disease — refer the client for <strong>genetic testing, counseling, and evaluation</strong>.</p><p><strong>Modifiable</strong> — the client can change these: <strong>smoking</strong>, an <strong>unhealthy diet</strong> with a BMI above normal, and <strong>physical inactivity</strong>.</p><p><strong>Secondary risk factors</strong> — conditions that can be controlled: <strong>high BP, high blood cholesterol, obesity, stress</strong>, and <strong>alcohol</strong> use.</p>",
+     "heading": "Which risk factors can a client change?",
+     "keyIdea": "Focus teaching on risks that are both abnormal and changeable; age and family history can't change.",
+     "body": "<p>A risk factor is anything that makes a disease more likely. For perfusion, there are three groups.</p><p><b>Nonmodifiable</b> (can't change): age, gender, race, personal health history, and family history. Family history of high cholesterol or early heart disease matters most, like a father with a heart attack at 48.</p><p><b>Modifiable</b> (can change): smoking, unhealthy diet with a high BMI, and inactivity. <b>Secondary</b> (can be controlled): high BP, high cholesterol, obesity, stress, and alcohol use.</p><p>Some findings suggest an inherited disorder. Examples: very high cholesterol in a young client, or several relatives with early heart disease. Refer for <b>genetic testing, counseling, and evaluation</b>.</p>",
      "table": {
-      "caption": "Sorting cardiovascular risk factors",
+      "caption": "Sorting risk factors",
       "headers": [
        "Can't change",
-       "Can change"
+       "Can change or control"
       ],
       "rows": [
        [
@@ -1071,48 +1317,54 @@ window.NURSE_DATA.push({
        ],
        [
         "Personal health history",
-        "High BP (control it)"
+        "High BP"
        ],
        [
-        "Family history (high cholesterol, early CAD)",
-        "High cholesterol (lower it)"
-       ],
-       [
-        "—",
-        "Stress and alcohol use"
+        "Family history (high cholesterol, early heart disease)",
+        "High cholesterol, stress, alcohol use"
        ]
       ]
      },
      "check": {
-      "q": "A 55-year-old smoker has an LDL of 162, a BP of 142/90, a sedentary job, and a father who had an MI at 48. Which of these can the client change?",
-      "a": "Smoking, LDL cholesterol, inactivity, and blood pressure. Age and family history cannot be changed."
+      "q": "A 55-year-old smoker has an LDL of 162, BP 142/90, a desk job, and a father who had an MI at 48. Which risks can he change?",
+      "a": "Smoking, LDL, inactivity, and BP. Age and family history can't be changed."
      }
     },
     {
-     "heading": "Lifestyle changes that protect perfusion",
-     "body": "<p>Lifestyle changes are the foundation of heart health. Here's what to teach and <em>why</em> each one works:</p>",
+     "heading": "Which lifestyle changes protect blood flow?",
+     "keyIdea": "No smoking, a heart-healthy diet, BMI below 25, daily activity, limited alcohol, and real stress relief.",
+     "body": "<p>Lifestyle changes are the base of heart health. Teach each one with its reason.</p>",
      "bullets": [
-      "<strong>Quit smoking.</strong> Nicotine constricts blood vessels and speeds the heart, and smoking damages the lining of arteries so plaque builds up faster. There is no “safe” number of cigarettes.",
-      "<strong>Eat a heart-healthy diet</strong> — plenty of fruits, vegetables, and whole grains; less saturated fat and sodium. Salt makes the body hold water, which raises BP.",
-      "<strong>Keep BMI below 25.</strong> Extra weight makes the heart work harder and is linked to high BP, high cholesterol, and diabetes.",
-      "<strong>Be active every day.</strong> Regular exercise strengthens the heart, lowers BP, and helps weight and stress.",
-      "<strong>Limit alcohol</strong> — abstain, or drink only small amounts. Alcohol raises BP and is not a healthy way to relax.",
-      "<strong>Reduce stress</strong> with exercise, relaxation techniques, biofeedback, therapeutic touch, yoga, or meditation. Stress hormones raise heart rate and BP."
+      "<b>Quit smoking.</b> Nicotine tightens vessels and speeds the heart. Smoking damages artery linings so plaque builds faster. No number of cigarettes is “safe.”",
+      "<b>Eat heart-healthy:</b> fruits, vegetables, whole grains, less saturated fat and sodium. Salt makes the body hold water, which raises BP.",
+      "<b>Keep BMI below 25.</b> Extra weight makes the heart work harder. It is linked to high BP, high cholesterol, and diabetes.",
+      "<b>Move every day.</b> Exercise strengthens the heart, lowers BP, and helps weight and stress.",
+      "<b>Limit alcohol:</b> none, or small amounts. Alcohol raises BP and is not a healthy way to relax.",
+      "<b>Reduce stress</b> with exercise, relaxation, biofeedback, therapeutic touch, yoga, or meditation. Stress hormones raise heart rate and BP."
      ],
-     "analogy": "Think of arteries like the pipes in an old house. Smoking scratches the inside of the pipes, a salty, fatty diet adds gunk that sticks to the scratches, and high pressure hammers the walls every day. Lifestyle changes stop the scratching, reduce the gunk, and turn down the pressure — so the pipes last much longer.",
-     "example": "<strong>At the bedside:</strong> A 52-year-old newly diagnosed with hypertension smokes and has a BMI of 31. Your teaching includes: quit smoking completely, work toward a BMI below 25, be physically active every day, limit alcohol, reduce stress, and <strong>keep taking the BP medications even when you feel fine</strong>. If the client later says, “My goal is a BMI under 30,” or “I'll cut down to a few cigarettes a day,” that shows a <strong>need for further teaching</strong>. If the client says, “I'll have a couple of drinks at night to relax,” that also needs correction — alcohol is not a stress-reduction strategy."
+     "analogy": "Think of arteries as old pipes. Smoking scratches the inside. A salty, fatty diet adds gunk that sticks to the scratches. High pressure hammers the walls daily. Lifestyle changes stop the scratching, cut the gunk, and lower the pressure.",
+     "example": "A 52-year-old with new high BP smokes and has a BMI of 31. You teach all six changes, plus: keep taking BP pills even when you feel fine. Later the client says, “My goal is a BMI under 30,” or “I'll cut down to a few cigarettes.” Both need more teaching. “A couple of drinks at night to relax” also needs correction."
     },
     {
-     "heading": "Teaching about BP medications and safe movement",
-     "body": "<p>Many clients with perfusion problems take several medicines to lower BP. The most common mistake is stopping or skipping them when the client feels well or has a side effect. High BP usually has <strong>no symptoms</strong> — feeling fine does not mean the BP is controlled.</p><p>Because these medications relax blood vessels or remove fluid, they can cause <strong>orthostatic hypotension</strong> (dizziness when standing). Teach clients to <strong>change position slowly</strong>: sit on the edge of the bed, dangle the legs, and pump the ankles for a moment before standing.</p>",
+     "heading": "What do clients need to know at home?",
+     "keyIdea": "Never skip BP pills because you feel fine, rise slowly, and report fast weight gain in heart failure.",
+     "body": "<p>Many clients take several BP medicines. The most common mistake is skipping or stopping them when they feel fine or have a side effect. High BP usually has no symptoms. A normal home reading means the medicine is working.</p><p>These medicines relax vessels or remove fluid. So they can cause orthostatic hypotension (dizziness on standing). Teach the client to sit on the bed edge, dangle the legs, and pump the ankles before standing.</p><p>For heart failure, fluid buildup is the main warning. Teach daily weights and to report:</p>",
      "bullets": [
-      "<strong>Shows understanding:</strong> “I'll get up slowly and sit for a minute first.” “I'll keep walking and watching my salt even though I take pills.” “I'll call my provider before I stop any medicine.”",
-      "<strong>Needs more teaching:</strong> “I'll skip my pill on days my BP is normal.” “I stopped my pill because it made me dizzy.” — never stop or skip without talking to the provider."
-     ]
+      "Weight gain of about 1 kg (2–3 lb) in a day or 2 kg (5 lb) in a week. That is fluid, not fat.",
+      "Needing more pillows to sleep, or waking up short of breath.",
+      "New or worse swelling in ankles or feet, like tight shoes or sock marks.",
+      "<b>Shows understanding:</b> “I'll get up slowly.” “I'll call my provider before I stop any medicine.”",
+      "<b>Needs more teaching:</b> “I'll skip my pill when my BP is normal.” “I stopped my pill because it made me dizzy.”"
+     ],
+     "check": {
+      "q": "Which does a heart failure client NOT need to call about: urinating more after furosemide, needing an extra pillow at night, mild tiredness after shopping that goes away with rest?",
+      "a": "Urinating more after furosemide (the expected effect) and mild fatigue that resolves with rest. Needing more pillows is a warning sign."
+     }
     },
     {
-     "heading": "Screenings: finding problems early",
-     "body": "<p>Screening tests find problems before the client has symptoms, when changes are easier to make. The slides list these:</p>",
+     "heading": "Which screenings find problems early?",
+     "keyIdea": "Screening finds disease before symptoms, when changes are easier to make.",
+     "body": "<p>Screening tests find problems before the client feels anything. Look at every part of a lipid panel. A normal total cholesterol can hide a high LDL and a low HDL.</p>",
      "table": {
       "caption": "Cardiovascular screenings",
       "headers": [
@@ -1122,15 +1374,15 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "BP screening",
-        "Hypertension, which often causes no symptoms"
+        "High BP, which often has no symptoms"
        ],
        [
-        "Serum lipids (cholesterol, triglycerides)",
-        "High cholesterol that promotes plaque in arteries"
+        "Serum lipids",
+        "High cholesterol and triglycerides that promote plaque"
        ],
        [
-        "ECG (electrocardiogram)",
-        "The heart's electrical activity — rhythm problems or signs of damage"
+        "ECG",
+        "The heart's electrical activity: rhythm problems or damage"
        ],
        [
         "Exercise stress test",
@@ -1138,145 +1390,217 @@ window.NURSE_DATA.push({
        ],
        [
         "Chemical stress test",
-        "Same idea, but a medication makes the heart work harder — for clients who can't exercise"
+        "Same idea, but a medicine makes the heart work harder; for clients who can't exercise"
        ],
        [
-        "Radionuclide test with a stress test",
-        "A small amount of radioactive tracer shows which parts of the heart muscle get less blood during stress"
+        "Radionuclide test with stress",
+        "A small tracer shows heart muscle that gets less blood under stress"
        ],
        [
         "Stress echocardiography",
-        "Ultrasound pictures of the heart's movement before and after stress"
+        "Ultrasound pictures of heart movement before and after stress"
        ],
        [
         "Electron beam CT",
-        "Calcium buildup (blockages) in the coronary arteries"
+        "Calcium buildup in the coronary arteries"
        ]
       ]
      },
      "check": {
-      "q": "A client with severe arthritis in both knees needs a stress test. Which type is likely?",
-      "a": "A chemical stress test — a medication makes the heart work harder when the client can't exercise enough on a treadmill."
+      "q": "A client with severe arthritis in both knees needs a stress test. Which type?",
+      "a": "A chemical stress test. A medicine makes the heart work harder when the client can't exercise enough."
      }
     },
     {
-     "heading": "Independent interventions: promoting circulation",
-     "body": "<p>The goal of independent nursing care is to <strong>support, improve, and promote adequate perfusion</strong>. The exact goal depends on the disease. Independent interventions include teaching primary prevention and lifestyle changes, and <strong>promoting circulation and cardiopulmonary function</strong>.</p><p>One of the biggest risks for a client in bed is <strong>venous stasis</strong>. The leg veins rely on the calf muscles squeezing them to push blood back to the heart. When a client lies still, blood pools, and clots can form. You can prevent this without an order:</p>",
+     "heading": "How do you keep blood moving in bed?",
+     "keyIdea": "Move the legs, walk early, and hydrate; never massage calves or use knee pillows.",
+     "body": "<p>The goal of independent care is to support and promote enough perfusion for this client. It includes teaching prevention and promoting circulation and heart-lung function.</p><p>A big risk in bed is <b>venous stasis</b>. Leg veins rely on calf muscles to squeeze blood back to the heart. When a client lies still, blood pools and clots can form. You can prevent this without an order.</p>",
      "bullets": [
-      "Encourage <strong>ankle pumps and leg exercises</strong> every hour while awake.",
-      "Help with <strong>early ambulation</strong> as soon as it's allowed.",
-      "<strong>Avoid pillows under the knees</strong> and <strong>crossing the legs</strong> — both press on the veins.",
-      "Encourage adequate fluids (unless restricted) so the blood doesn't thicken.",
-      "<strong>Do not massage the calves</strong> — if a clot has formed, massage could break it loose."
+      "Ankle pumps and leg exercises every hour while awake.",
+      "Early walking as soon as allowed.",
+      "<b>No</b> pillows under the knees and no crossed legs. Both press on veins.",
+      "Enough fluids (unless restricted) so blood doesn't thicken.",
+      "<b>No</b> calf massage. A clot could break loose. If you suspect a clot, limit movement and notify the provider."
      ],
-     "example": "<strong>At the bedside:</strong> A client is on post-op day 1 after abdominal surgery and spends most of the day in bed. You encourage ankle pumps every hour, help the client walk in the hall, and remove the pillow from under the knees. You do <em>not</em> limit fluids to prevent swelling, suggest crossing the legs for comfort, or massage the calves."
+     "example": "A client on post-op day 1 stays mostly in bed. You coach ankle pumps every hour, walk with the client in the hall, and remove the pillow under the knees. You do not limit fluids, suggest crossed legs, or rub the calves."
     },
     {
-     "heading": "Independent interventions: monitoring, devices, and delegation",
-     "body": "<p><strong>Inputs and outputs.</strong> Track everything that goes in (oral, IV, tube feeding) and everything that comes out (urine, drainage). A drop in urine output can be an early sign of poor perfusion to the kidneys. <strong>Daily weights</strong> are the best measure of fluid gain or loss: same scale, same time (before breakfast), similar clothing.</p><p><strong>Pressure supports and continuous monitoring.</strong> Clients may be on cardiac monitors or pressure support devices; the nurse watches trends and reports changes.</p><p><strong>Compression devices.</strong> Compression stockings or sleeves squeeze the legs to push blood back to the heart. The nurse makes sure they are the right size, applied smoothly without wrinkles, and checks the skin, color, warmth, and pulses of the legs.</p><p><strong>Delegation.</strong> An unlicensed assistive person (UAP) can do routine, standard tasks for <strong>stable</strong> clients — like measuring vital signs, daily weights, and intake and output. The nurse keeps anything that requires judgment: assessing new symptoms, evaluating whether an intervention worked, and teaching.</p>",
-     "example": "<strong>At the bedside:</strong> Which task can you give the UAP? Measuring the daily weight of a stable client with heart failure — yes. Checking the toes of a client who reports <em>new</em> numbness in one foot — no (new symptom needs nurse assessment). Evaluating whether leg pain improved after a PRN analgesic — no (evaluation). Teaching a client to use a home BP monitor — no (teaching)."
+     "heading": "Monitoring, devices, and delegation",
+     "keyIdea": "Track I&O and weights, check compression devices, and delegate only routine tasks on stable clients.",
+     "body": "<p><b>Intake and output.</b> Track what goes in and comes out. Falling urine output can be an early sign of poor kidney perfusion. More urine after a diuretic is expected.</p><p><b>Daily weights</b> best show fluid gain or loss. Same scale, same time (before breakfast), similar clothing. The nurse also watches cardiac monitors and pressure support devices for trends.</p><p><b>Compression devices.</b> Check the size and apply them smooth, with no wrinkles or rolled tops. Check skin, color, warmth, and pulses. If a device is hurting circulation, remove or loosen it first, then reassess.</p><p><b>Delegation.</b> A UAP can do routine tasks for stable clients: vital signs, weights, I&O. The nurse keeps judgment: new symptoms, evaluation, and teaching.</p>",
+     "example": "Which tasks go to the UAP? The daily weight of a stable heart failure client: yes. Checking the toes of a client with new numbness in one foot: no, that is a new symptom. Deciding if leg pain improved after a PRN analgesic: no, that is evaluation. Teaching home BP monitoring: no, that is teaching."
     },
     {
-     "heading": "Heart failure teaching: what to report at home",
-     "body": "<p>A big part of promoting perfusion is helping clients catch problems early at home. For a client with heart failure, fluid building up in the body is the main warning. Teach the client to <strong>weigh daily</strong> and report:</p>",
-     "bullets": [
-      "<strong>Weight gain of about 1 kg (2–3 lb) in a day or 2 kg (5 lb) in a week</strong> — this is fluid, not fat.",
-      "<strong>Needing more pillows</strong> to sleep, or waking up short of breath.",
-      "<strong>New or increasing swelling</strong> in the ankles or feet."
-     ],
-     "check": {
-      "q": "Which of these does a client with heart failure NOT need to call about: urinating more after taking furosemide, needing an extra pillow to breathe at night, mild tiredness after shopping that goes away with rest?",
-      "a": "Urinating more after furosemide (the expected effect of the diuretic) and mild, stable fatigue that resolves with rest. Needing more pillows is a warning sign."
-     }
-    },
-    {
-     "heading": "Psychosocial support and CPR",
-     "body": "<p><strong>Psychosocial support.</strong> Heart disease and stroke change lives. Clients often feel anxious, depressed, or “useless” when they can't do what they used to. The nurse acknowledges the feeling and invites the client to talk, instead of offering false reassurance or changing the subject.</p><p><strong>CPR.</strong> When the heart stops, perfusion stops. CPR moves blood by squeezing the heart between the breastbone and the spine. Starting it right away is one of the most important independent actions a nurse takes.</p>",
-     "example": "<strong>At the bedside:</strong> A 58-year-old with new heart failure says, “I used to work construction. Now I get tired just walking to the mailbox. I feel useless.” A therapeutic response: “It sounds like losing your strength has been really hard. Tell me more about what that's been like for you.” Avoid “Don't worry, you'll be back to work soon” (false reassurance).",
+     "heading": "How do you support feelings and start CPR?",
+     "keyIdea": "Acknowledge feelings without false reassurance; for no pulse and no normal breathing, start CPR now.",
+     "body": "<p><b>Psychosocial support.</b> Heart disease and stroke change lives. Clients may feel anxious, depressed, or “useless.” Acknowledge the feeling and invite the client to talk. Avoid false reassurance and changing the subject.</p><p><b>CPR.</b> When the heart stops, perfusion stops. CPR moves blood by squeezing the heart between the breastbone and spine. Starting it right away is one of the most important independent actions.</p>",
+     "example": "A 58-year-old with new heart failure says, “I used to work construction. Now I get tired walking to the mailbox. I feel useless.” Say: “It sounds like losing your strength has been really hard. Tell me more.” Avoid: “Don't worry, you'll be back to work soon.”",
      "steps": [
-      "Check responsiveness. If the client is unresponsive, <strong>shout for help and activate the emergency response system</strong> (send someone for the AED/defibrillator).",
-      "Check for normal breathing and a carotid pulse at the same time for <strong>no more than 10 seconds</strong>. If the client is not breathing normally (gasping doesn't count) and has no definite pulse, begin CPR.",
-      "Start chest compressions at <strong>100–120 per minute</strong>, at least <strong>2 inches (5 cm)</strong> but no more than 2.4 inches (6 cm) deep, letting the chest <strong>fully recoil</strong> between compressions.",
-      "Give breaths at a ratio of <strong>30 compressions to 2 breaths</strong> (single rescuer, adult).",
-      "Attach the <strong>AED</strong> or defibrillator as soon as it arrives and follow its prompts."
+      "Check responsiveness. If none, shout for help and activate the emergency system. Send someone for the AED.",
+      "Check breathing and the carotid pulse (one side) together, for no more than 10 seconds. Gasping is not normal breathing.",
+      "No normal breathing and no definite pulse: start compressions at 100–120 per minute, at least 2 inches (5 cm) but no more than 2.4 inches (6 cm) deep. Let the chest fully recoil.",
+      "Give 30 compressions to 2 breaths (single rescuer, adult). Keep pauses to 10 seconds or less.",
+      "Attach the AED as soon as it arrives and follow its prompts."
      ]
     },
     {
-     "heading": "Collaborative therapies: the team approach",
-     "body": "<p>Collaborative therapies are provided by the interprofessional team — providers, nurses, pharmacists, dietitians, physical therapists, and others.</p><p><strong>Surgery</strong> can open or bypass blocked arteries or repair heart structures. <strong>Cardiac rehabilitation</strong> is a supervised program of exercise, education, and counseling that helps clients safely rebuild strength and confidence after a heart event or surgery. <strong>Pharmacologic therapy</strong> uses medications — for example, to lower BP and cholesterol, prevent clots, or remove extra fluid.</p><p><strong>Nonpharmacologic therapy</strong> (the slides' list): heart-healthy diet, nutritional and herbal supplements, weight loss, regular exercise, smoking cessation, stress reduction, drinking more water and less alcohol, compression stockings as needed, and chelation therapy. Many clients use supplements or alternative therapies like chelation without thinking of them as “medicine.” <strong>Always ask</strong> about them and have the client review them with the provider, because some can interact with prescribed medications.</p>",
-     "example": "<strong>At the bedside:</strong> A 66-year-old is going home after heart surgery. You explain that <strong>cardiac rehabilitation</strong> offers supervised exercise plus education and counseling, and that the client should <strong>review any herbal or nutritional supplements with the provider</strong> before taking them."
+     "heading": "What does the whole team provide?",
+     "keyIdea": "Collaborative care includes surgery, cardiac rehab, medicines, and nonmedicine therapies; always ask about supplements.",
+     "body": "<p>Collaborative therapies come from the whole team: providers, nurses, pharmacists, dietitians, physical therapists, and others.</p><p><b>Surgery</b> can open or bypass blocked arteries or repair heart structures. <b>Cardiac rehabilitation</b> offers supervised exercise, education, and counseling to rebuild strength after a heart event. <b>Medicines</b> lower BP and cholesterol, prevent clots, or remove extra fluid.</p><p><b>Nonpharmacologic therapy</b> includes a heart-healthy diet, supplements, weight loss, exercise, quitting smoking, less stress, more water and less alcohol, compression stockings, and chelation. Clients often don't call supplements “medicine.” Always ask, and have them review all supplements with the provider. Some interact with prescribed drugs. With chelation, watch for low calcium (tingling, cramps) and kidney injury.</p>",
+     "example": "A 66-year-old is going home after heart surgery. You explain cardiac rehab: supervised exercise plus education and counseling. You ask the client to review any herbal or nutritional supplements with the provider first."
+    },
+    {
+     "heading": "Common traps in prevention and interventions",
+     "keyIdea": "Wrong answers often sound kind or comfortable but harm circulation or skip the real goal.",
+     "body": "<p>These choices look right but aren't. Learn the clue.</p>",
+     "table": {
+      "caption": "Look-alikes and how to tell them apart",
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "“BMI under 30” vs. BMI below 25",
+        "The goal is below 25. Under 30 needs more teaching."
+       ],
+       [
+        "Cutting down vs. quitting smoking",
+        "No number of cigarettes is safe. The goal is to quit."
+       ],
+       [
+        "Alcohol to relax vs. stress reduction",
+        "Alcohol is not stress relief. Use exercise, relaxation, yoga, meditation."
+       ],
+       [
+        "Calf massage vs. ankle pumps",
+        "Massage could free a clot. Ankle pumps and walking are safe."
+       ],
+       [
+        "More urine after a diuretic vs. falling urine",
+        "More after furosemide is expected. Falling output is a warning."
+       ],
+       [
+        "Routine task vs. judgment task",
+        "Weights on a stable client: delegate. New symptom, evaluation, teaching: nurse."
+       ],
+       [
+        "Progress vs. goal met",
+        "A goal is met only when current data match the goal itself."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect “needs further teaching,” delegation, venous stasis, and CPR technique questions.",
+     "body": "<p>Common patterns:</p>",
+     "bullets": [
+      "“Which statement shows a need for more teaching?” Look for BMI under 30, a few cigarettes, alcohol to relax, skipping pills.",
+      "“Which task can be delegated?” Routine data on a stable client.",
+      "“Which risk factors can the client modify?” Never age, gender, race, or family history.",
+      "CPR evaluation: rate, depth, recoil, pauses."
+     ],
+     "steps": [
+      "<b>Read the stem:</b> A client on three BP medicines says, “When my home BP is normal, I skip a pill.” How should the nurse respond?",
+      "<b>What is it really asking?</b> Is this safe self-care?",
+      "<b>Key cues:</b> three medicines, skipping when the reading is normal.",
+      "<b>Wrong options:</b> “Good, that saves pills” praises a harmful habit. “Skip only one of them” still stops therapy. “Check your BP twice before skipping” misses the point.",
+      "<b>Answer:</b> Needs more teaching. A normal reading shows the medicine works. Never skip or stop without the provider.",
+      "<b>Strategy:</b> In teaching questions, any plan to change medicines without the provider is wrong."
+     ]
+    },
+    {
+     "heading": "Worked case: day 1 after surgery",
+     "keyIdea": "Combine circulation, safety, and delegation: promote movement, watch for clot signs, and keep judgment tasks.",
+     "body": "<p>A 63-year-old is on post-op day 1 after knee replacement. The client asks for a pillow under the knees and a calf rub. The UAP asks if she should check the client's new foot numbness. The client is on compression stockings.</p>",
+     "steps": [
+      "<b>Circulation:</b> decline the knee pillow and calf massage. Both risk clots.",
+      "<b>Promote flow:</b> coach ankle pumps every hour, early walking, and fluids.",
+      "<b>Check the stockings:</b> right size, smooth, tops not rolled. Look at skin, color, warmth, pulses.",
+      "<b>New numbness:</b> the nurse assesses it, not the UAP. If a device is hurting circulation, remove or loosen it, then reassess.",
+      "<b>Delegate:</b> the UAP can take vital signs and record I&O."
+     ],
+     "check": {
+      "q": "The client's calf has been cramping since morning. What should the nurse do instead of rubbing it?",
+      "a": "Don't massage it. Assess the calf, limit movement if a clot is suspected, and notify the provider."
+     }
     }
    ],
+   "mnemonics": [],
    "pearls": [
-    "“BMI under 30” or “just a few cigarettes” in a teaching question = needs further teaching. The goals are BMI below 25 and no smoking.",
-    "Age, gender, race, and family history can't be changed — they're never the answer to “which risk factors can the client modify?”",
+    "“BMI under 30” or “just a few cigarettes” = needs more teaching. Goals: BMI below 25 and no smoking.",
+    "Age, gender, race, and family history are never the answer to “which risks can the client change?”",
     "Leg massage, knee pillows, and crossed legs are wrong answers for preventing venous stasis.",
-    "Delegate routine data collection on stable clients; keep assessment of new symptoms, evaluation, and teaching.",
-    "CPR: check pulse no more than 10 seconds, 100–120 compressions per minute, at least 2 inches deep, full recoil, 30:2, AED as soon as available.",
-    "Ask about herbal and nutritional supplements — clients often don't mention them."
+    "Delegate routine data on stable clients. Keep new symptoms, evaluation, and teaching.",
+    "CPR: pulse check 10 seconds or less, 100–120 per minute, 2 to 2.4 inches deep, full recoil, 30:2, AED ASAP.",
+    "Ask about herbs, supplements, and chelation. Clients often don't mention them."
    ],
    "redFlags": [
-    "Unresponsive client who is not breathing normally and has no pulse → call for help and start CPR immediately.",
-    "Client with heart failure gains 2–3 lb in a day or 5 lb in a week, needs more pillows, or has more swelling → report to the provider.",
-    "Client stops BP medications on their own → risk of dangerously high BP; reinforce teaching and notify the provider."
-   ],
-   "recap": [
-    "Nonmodifiable: age, gender, race, personal and family history. Modifiable: smoking, diet/BMI, activity. Secondary: BP, cholesterol, obesity, stress, alcohol.",
-    "Refer for genetic counseling when findings suggest an inherited disorder.",
-    "Teach: quit smoking, heart-healthy diet, BMI below 25, daily activity, limit alcohol, reduce stress.",
-    "Screenings: BP, lipids, ECG, exercise or chemical stress tests, radionuclide tests, stress echo, electron beam CT.",
-    "Independent care: promote circulation, monitor I&O and weights, apply and check compression devices, give psychosocial support, start CPR.",
-    "Collaborative care: surgery, cardiac rehab, medications, and nonpharmacologic therapies including supplements and chelation."
+    "Unresponsive, not breathing normally, no pulse: call for help and start CPR now.",
+    "Heart failure client gains 2–3 lb in a day or 5 lb in a week, needs more pillows, or swells more: report.",
+    "Client stops BP medicines alone: risk of dangerously high BP. Reteach and notify the provider.",
+    "Pale, cool toes or slow refill after compression devices go on: remove or loosen them and reassess."
    ],
    "checks": [
     {
-     "q": "A client with hypertension says, “To relieve stress, I'll have two glasses of wine each night.” How do you respond?",
-     "a": "Needs further teaching. Alcohol should be avoided or limited; healthy stress reducers include exercise, relaxation, biofeedback, yoga, and meditation."
+     "q": "A client with high BP says, “To relieve stress, I'll have two glasses of wine each night.” How do you respond?",
+     "a": "Needs more teaching. Limit or avoid alcohol. Healthy stress relief includes exercise, relaxation, biofeedback, yoga, and meditation."
     },
     {
-     "q": "A post-op client asks for a pillow under the knees and a leg massage. What do you do?",
-     "a": "Avoid both — knee pillows press on veins and massage could dislodge a clot. Encourage ankle pumps, early walking, and fluids instead."
+     "q": "You find a client unresponsive with only occasional gasps and no pulse after 8 seconds. What do you do?",
+     "a": "Call for help and activate the emergency system. Start compressions at 100–120 per minute, at least 2 inches deep with full recoil. Give 30:2. Attach the AED when it arrives."
     },
     {
-     "q": "You find a client unresponsive with only occasional gasps and no pulse after 8 seconds. What are your actions?",
-     "a": "Call for help and activate the emergency system, begin compressions at 100–120/min, at least 2 inches deep with full recoil, give 30:2, and attach the AED as soon as it arrives."
+     "q": "A 40-year-old has an LDL of 250 and two brothers with heart attacks before 50. What should the nurse include?",
+     "a": "A referral for genetic testing, counseling, and evaluation, since this suggests an inherited cholesterol disorder. Add lifestyle teaching."
     },
     {
-     "q": "A client taking three BP medications says, “When my home BP is normal, I skip a pill.” Is this correct?",
-     "a": "No — needs further teaching. A normal reading shows the medicine is working; never skip or stop without the provider."
+     "q": "Which can the nurse start without an order for a client with new heart failure: ankle pumps, strict I&O, a new diuretic, teaching on daily weights?",
+     "a": "Ankle pumps, strict I&O, and weight teaching are independent. A new diuretic needs a prescription (collaborative)."
     },
     {
-     "q": "A 40-year-old has an LDL of 250 and two brothers who had heart attacks before age 50. What independent action should the nurse include?",
-     "a": "Refer for genetic testing, counseling, and evaluation — the history suggests an inherited cholesterol disorder — along with lifestyle teaching."
+     "q": "A client says, “I don't need cardiac rehab. I'll just walk on my own.” What do you explain?",
+     "a": "Cardiac rehab adds supervision, education, and counseling to exercise, helping the client rebuild strength safely after a heart event or surgery."
     }
    ]
   },
   {
    "id": "lifespan",
-   "title": "Lifespan Considerations in Perfusion",
+   "title": "Perfusion Across the Lifespan",
    "exemplar": null,
-   "summary": "A child's heart, a pregnant woman's circulation, and an older adult's vessels each play by different rules — learn what's normal at each stage and how to adjust your assessment.",
+   "summary": "Children, pregnant women, and older adults each have different normal findings. Learn what is expected at each stage and how to adjust your assessment.",
    "objectives": [
-    "Explain how infants' and children's hearts respond differently to stress, low oxygen, and fluid overload, including bradycardia with severe hypoxemia and polycythemia with chronic hypoxemia.",
-    "Assess pulse and BP correctly in infants and children, including when to use the apical pulse, the order of assessment, and arm-versus-thigh readings.",
-    "Describe the normal cardiovascular and blood changes of pregnancy and tell expected findings from warning signs.",
-    "Recognize and correct supine hypotensive syndrome.",
-    "Describe the normal cardiovascular, vascular, pulmonary, and renal changes of aging and the atypical way older adults present with heart problems.",
-    "Adapt pulse and BP assessment for older adults with tremors, contractures, antihypertensive use, and orthostatic hypotension."
+    "You can explain how a child's heart reacts to stress, fluid overload, and low oxygen.",
+    "You can assess a child's pulse and BP in the right order and site.",
+    "You can tell normal pregnancy changes from warning signs.",
+    "You can recognize and correct supine hypotensive syndrome.",
+    "You can name normal aging changes and the atypical ways older adults show heart problems.",
+    "You can adapt pulse and BP checks for tremors, contractures, and orthostatic hypotension."
    ],
-   "bigPicture": "<p>A heart rate of 74 is perfectly normal for an adult — and a sign of impending arrest in a hypoxic 2-year-old. A slightly low hematocrit is expected in pregnancy. A new fall in an 84-year-old may be the only clue to a heart problem. The same finding can mean very different things depending on the client's age and stage of life.</p><p>This lesson looks at perfusion through three groups: <strong>infants and children</strong>, <strong>pregnant women</strong>, and <strong>older adults</strong>. For each, you'll learn what's different in their bodies, what's normal for them, and how to adjust your pulse and BP technique so your data is accurate.</p><p>As you read, keep asking: “Is this normal for <em>this</em> client, at <em>this</em> stage of life?”</p>",
+   "bigPicture": "<p>A heart rate of 74 is normal for an adult. In a hypoxic 2-year-old, it can mean arrest is near. A slightly low hematocrit is expected in pregnancy. A new fall in an 84-year-old may be the only clue to a heart problem. The same finding can mean very different things at different ages.</p><p>This lesson covers three groups: <b>children</b>, <b>pregnant women</b>, and <b>older adults</b>. For each, you will learn what is different, what is normal, and how to adjust your technique. Keep asking: “Is this normal for this client, at this stage of life?”</p>",
+   "recap": [
+    "Children are more sensitive to fluid and pressure overload. Congenital heart disease is the top cause of death in year one (excluding prematurity).",
+    "Chronic low oxygen in children → polycythemia (thick blood). Severe low oxygen → bradycardia, a sign arrest is near.",
+    "Children: apical pulse in infants and young children; count before other procedures; painful procedures last.",
+    "Child over 1 year: thigh BP about 10 mm Hg higher than arm. Under 1 year: equal.",
+    "Pregnancy: pulse up 10–15, BP lowest in 2nd trimester, blood volume up 40–50%, Hct slightly down, WBC and clotting factors up.",
+    "Supine hypotensive syndrome: turn her to her side (usually left) or wedge the right hip.",
+    "Older adults: atypical signs (confusion, falls, fatigue). Slightly low PaO₂ can be normal; high PaCO₂ never is.",
+    "Older adults: apical pulse with tremors; palpate or use the thigh with contractures; orthostatic check supine first."
+   ],
    "keyTerms": [
     {
      "term": "Congenital heart disease",
-     "def": "A heart defect present at birth; the leading cause of death (excluding prematurity) in the first year of life."
+     "def": "A heart defect present at birth. The leading cause of death in the first year of life, excluding prematurity."
     },
     {
      "term": "Hypoxemia",
-     "def": "Low oxygen level in the blood."
+     "def": "Low oxygen in the blood."
     },
     {
      "term": "Polycythemia",
-     "def": "Too many red blood cells, making the blood thick; in children, a response to long-term (chronic) hypoxemia."
+     "def": "Too many red blood cells, making blood thick. In children, a response to long-term low oxygen."
     },
     {
      "term": "Bradycardia",
@@ -1284,11 +1608,11 @@ window.NURSE_DATA.push({
     },
     {
      "term": "Nonpathologic murmur",
-     "def": "An “innocent” heart murmur that is not caused by disease; common in newborns."
+     "def": "An “innocent” murmur not caused by disease. Common in newborns."
     },
     {
      "term": "Supine hypotensive syndrome",
-     "def": "Low BP in a pregnant woman lying flat on her back, because the heavy uterus presses on the vena cava."
+     "def": "Low BP in a pregnant woman lying flat, because the heavy uterus presses on the vena cava."
     },
     {
      "term": "Vena cava",
@@ -1296,7 +1620,7 @@ window.NURSE_DATA.push({
     },
     {
      "term": "Hematocrit (Hct)",
-     "def": "The percentage of the blood made up of red blood cells."
+     "def": "The percent of blood made of red blood cells."
     },
     {
      "term": "Leukocytes",
@@ -1307,57 +1631,61 @@ window.NURSE_DATA.push({
      "def": "A blood clot in a vein, often in the leg."
     },
     {
-     "term": "Isolated systolic hypertension",
-     "def": "High systolic pressure with a normal diastolic pressure, common in older adults with stiff arteries."
-    },
-    {
      "term": "AV block",
-     "def": "A delay or block of the electrical impulse at the AV node; can develop as the AV node scars (fibrosis) with age."
+     "def": "A delay or block of the heart's electrical signal at the AV node. Scarring (fibrosis) with age makes it more likely."
     },
     {
      "term": "Glomerular filtration rate (GFR)",
-     "def": "How much blood the kidneys filter each minute; a measure of kidney function."
+     "def": "How much blood the kidneys filter each minute. A measure of kidney function."
+    },
+    {
+     "term": "PaCO₂",
+     "def": "The carbon dioxide level in arterial blood. High means the lungs aren't removing enough."
     },
     {
      "term": "Contracture",
-     "def": "A permanent tightening of muscles and joints that keeps a limb bent."
+     "def": "A lasting tightening of muscles and joints that keeps a limb bent."
     }
    ],
    "sections": [
     {
-     "heading": "Infants and children: a heart that is easily stressed",
-     "body": "<p>A child's heart is small and still developing. It is <strong>more sensitive to volume and pressure overload</strong> — too much fluid or too much resistance to pump against — so children have a <strong>greater risk of heart failure</strong> than adults. Cardiac function in children is also strongly affected by <strong>stress, exercise, fever, and respiratory distress</strong>, all of which raise the heart's workload.</p><p><strong>Congenital heart disease</strong> — a heart defect present at birth — is the <strong>leading cause of death (excluding prematurity) in the first year of life</strong>. That's why newborn and infant heart assessment is so important.</p><p>Newborns may have <strong>nonpathologic (innocent) murmurs</strong> as their circulation changes from fetal to newborn patterns. Still, any murmur is documented and reported so the provider can decide whether it needs follow-up.</p>",
-     "analogy": "A child's heart is like a small car engine: it runs fine on a normal trip, but load it with extra passengers (fluid overload), make it climb a steep hill (pressure overload), or run it hot (fever), and it strains much sooner than a bigger engine would."
+     "heading": "Why is a child's heart easily stressed?",
+     "keyIdea": "A child's small, developing heart strains quickly under fluid overload, pressure overload, fever, or breathing trouble.",
+     "body": "<p>A child's heart is small and still developing. It is more sensitive to <b>volume and pressure overload</b>. That means too much fluid, or too much resistance to pump against. So children have a greater risk of heart failure than adults. Stress, exercise, fever, and respiratory distress all add to the heart's work.</p><p><b>Congenital heart disease</b> is the leading cause of death in the first year (excluding prematurity). So newborn heart checks matter. Newborns may have innocent murmurs as their circulation shifts from fetal to newborn patterns. Still, document and report any murmur so the provider can decide on follow-up.</p><p>If an infant gets too much IV fluid and shows signs of overload, slow or stop the infusion and raise the head first. Then notify the provider.</p>",
+     "analogy": "A child's heart is like a small car engine. It runs fine on a normal trip. Add extra passengers (fluid), a steep hill (pressure), or a hot day (fever), and it strains much sooner than a big engine."
     },
     {
-     "heading": "How children respond to low oxygen",
-     "body": "<p>Children respond to low oxygen in two ways that differ from adults.</p><p><strong>Chronic hypoxemia → polycythemia.</strong> When a child lives with low oxygen for a long time (for example, with a cyanotic congenital heart defect), the bone marrow makes <strong>more red blood cells</strong> to carry more oxygen. That helps — but it also makes the blood <strong>thicker</strong> (higher viscosity). If the child becomes dehydrated, the blood gets even thicker, and the risk of clots, including clots in the brain, rises.</p><p><strong>Severe hypoxemia → bradycardia.</strong> Adults with low oxygen usually become <strong>tachycardic</strong> (fast heart rate). Children with <em>severe</em> hypoxemia become <strong>bradycardic</strong> (slow heart rate). In children, cardiac arrest is usually the end result of breathing failure. A slowing heart rate in a hypoxic child is <strong>not</strong> improvement — it's a sign that arrest is near.</p>",
-     "example": "<strong>At the bedside:</strong> A 2-year-old with a severe respiratory infection is increasingly lethargic. Over 10 minutes, SpO₂ falls from 90% to 81% and the heart rate drops from 162 to 74. The heart rate “looks better,” but it isn't. The nurse's first action is to <strong>begin bag-mask ventilation with 100% oxygen and call for help</strong>. Fix the oxygen problem and the heart rate should recover.",
+     "heading": "How do children react to low oxygen?",
+     "keyIdea": "Long-term low oxygen thickens a child's blood; severe low oxygen slows the heart, which signals arrest is near.",
+     "body": "<p><b>Chronic hypoxemia → polycythemia.</b> A child who lives with low oxygen, as with a cyanotic heart defect, makes extra red blood cells. That carries more oxygen, but it also thickens the blood. If the child gets dehydrated, blood gets even thicker. The risk of clots, including clots in the brain, rises.</p><p><b>Severe hypoxemia → bradycardia.</b> Adults with low oxygen usually get a fast heart rate. Children with severe low oxygen get a <b>slow</b> heart rate. In children, cardiac arrest usually follows breathing failure. A slowing heart rate in a hypoxic child is not improvement. Arrest is near.</p>",
+     "example": "A 2-year-old with a severe chest infection grows more lethargic. Over 10 minutes, SpO₂ falls from 90% to 81%. Heart rate drops from 162 to 74. The rate “looks better,” but it isn't. Start bag-mask ventilation with 100% oxygen and call for help. Fix the oxygen, and the heart rate should recover.",
      "check": {
-      "q": "A 3-year-old with an unrepaired cyanotic heart defect has had vomiting and diarrhea for 2 days. Hct is 62% (normal 31–41%). What does the high Hct reflect, and what is the danger?",
-      "a": "Compensatory polycythemia from chronic hypoxemia. Dehydration makes the blood even thicker (more viscous), increasing the risk of cerebral thrombosis (stroke). The child needs prompt fluid replacement."
+      "q": "A 3-year-old with an unrepaired cyanotic heart defect has had vomiting and diarrhea for 2 days. Hct is 62% (normal 31–41%). What does this mean, and what is the danger?",
+      "a": "Polycythemia from chronic low oxygen. Dehydration thickens the blood further and raises the risk of a brain clot (stroke). The child needs prompt fluids, I&O, and neuro checks."
      }
     },
     {
-     "heading": "Assessing pulse and BP in children",
-     "body": "<p><strong>Pulse.</strong> In infants and young children, use the <strong>apical pulse</strong> — their peripheral pulses are fast and hard to feel. In preschoolers and older children, you can use a peripheral or an apical pulse. Always count the pulse (and respirations) <strong>before other procedures</strong> — crying and discomfort artificially raise both.</p><p><strong>BP in infants.</strong> If you can't hear the BP with a stethoscope or Doppler, use <strong>palpation</strong>. In children <strong>younger than 1 year, arm and thigh pressures are equivalent</strong>.</p><p><strong>BP in children.</strong> Measure BP in <strong>all children older than 3 years</strong>, and in younger children with certain medical conditions. Take it <strong>before other procedures</strong> so pain or fear doesn't raise it. In children, the <strong>diastolic pressure is the onset of phase IV</strong> (when the sounds become muffled), per your course materials; current AAP/AHA guidance uses phase V (disappearance) in children as well, with phase IV used when sounds continue to near zero. After age 1, <strong>thigh pressure is about 10 mm Hg higher</strong> than arm pressure.</p><p>The slides give a formula for a child's normal systolic BP based on <strong>2 × the child's age in years</strong>. Many references add a baseline number to this (for example, about 90 + 2 × age for an average systolic), so your instructor or textbook may present the formula a little differently — follow the version you're taught in class.</p>",
+     "heading": "Checking a child's pulse and BP",
+     "keyIdea": "Count calm things first, painful things last, and remember thigh BP runs higher after age 1.",
+     "body": "<p><b>Pulse.</b> In infants and young children, use the <b>apical pulse</b>. Their peripheral pulses are fast and hard to feel. Older children can have a peripheral or apical pulse. Count pulse and breathing <b>before other procedures</b>, since crying raises both. If taken during distress, recheck when calm.</p><p><b>BP.</b> Measure BP in all children over 3, and in younger children with certain conditions. If you can't hear it, use palpation. Under age 1, arm and thigh pressures are <b>equal</b>. After age 1, thigh pressure is about <b>10 mm Hg higher</b> than arm.</p><p>Per your course, a child's diastolic is the start of muffling (phase IV). Current AAP/AHA guidance uses phase V in children too. The slides give a normal systolic formula based on <b>2 × age in years</b>. Many references add a baseline, like about 90 + 2 × age. Follow the version taught in class.</p>",
      "steps": [
-      "Count respirations by watching the abdomen for a full minute while the child is calm.",
-      "Auscultate the apical pulse for a full minute.",
-      "Measure the temperature (less upsetting).",
-      "Undress the child and obtain the weight (more upsetting).",
-      "Give painful procedures, like immunizations, <strong>last</strong>."
+      "Count respirations by watching the belly for a full minute while the child is calm.",
+      "Listen to the apical pulse for a full minute.",
+      "Take the temperature (less upsetting).",
+      "Undress the child and weigh (more upsetting).",
+      "Do painful procedures, like shots, <b>last</b>."
      ],
-     "example": "<strong>At the bedside:</strong> A calm, playing 5-year-old has casts on both forearms, so you measure BP on the thigh with a correctly sized cuff: 112/64. Last month the arm BP was 102/62. Is this high? No — in children over 1 year, thigh pressure is about <strong>10 mm Hg higher</strong> than arm pressure. It's expected. Document that you used the thigh."
+     "example": "A calm 5-year-old has casts on both forearms, so you use the thigh with a correctly sized cuff: 112/64. Last month's arm BP was 102/62. Is this high? No. After age 1, thigh BP is about 10 mm Hg higher. Document that you used the thigh."
     },
     {
-     "heading": "Pregnancy: a bigger, busier circulation",
-     "body": "<p>Pregnancy changes the cardiovascular system so the body can supply both the mother and the growing baby.</p><p><strong>Heart and BP.</strong> <strong>Cardiac output increases early</strong> in pregnancy. By term, the <strong>pulse may rise by 10–15 bpm</strong>. BP <strong>falls to its lowest point in the second trimester</strong>, then gradually rebounds toward prepregnancy levels. An S3 heart sound may be heard normally in the third trimester.</p><p><strong>Blood volume.</strong> Blood volume rises until about <strong>30–34 weeks</strong>, then plateaus at <strong>40–50% above prepregnancy levels</strong> until birth. Both red blood cells and plasma increase, which lets the blood carry the extra oxygen mother and baby need. But plasma increases <em>more</em> than red cells, so the <strong>hematocrit decreases slightly</strong>. The woman needs <strong>more iron</strong> in her diet to build the extra red cells.</p><p><strong>White blood cells.</strong> Leukocyte production increases — this is <strong>normal</strong> and does <strong>not</strong> mean infection.</p><p><strong>Clotting.</strong> Fibrin, plasma fibrinogen, and clotting factors VII, VIII, IX, and X increase. Clotting time stays about the same as in a nonpregnant woman, but the <strong>risk of venous thrombosis rises</strong>. The enlarging uterus also slows blood return from the legs, causing <strong>blood stasis</strong> in the lower extremities.</p>",
+     "heading": "How does pregnancy change circulation?",
+     "keyIdea": "Pulse rises, BP dips mid-pregnancy, blood volume grows, and clotting rises; a swollen, painful calf is not normal.",
+     "body": "<p><b>Heart and BP.</b> Cardiac output rises early. By term, the pulse may be up 10–15 bpm. BP is lowest in the <b>second trimester</b>, then returns toward prepregnancy levels. An S3 may be normal in the third trimester.</p><p><b>Blood volume</b> rises until about 30–34 weeks, then stays 40–50% above prepregnancy levels until birth. Red cells and plasma both rise, but plasma rises more. So the <b>hematocrit drops slightly</b>. She needs more dietary iron to build the extra red cells.</p><p><b>White blood cells</b> rise. This is normal, not infection. <b>Clotting:</b> fibrin, fibrinogen, and factors VII, VIII, IX, and X rise. Clotting time stays about the same, but the <b>risk of venous thrombosis rises</b>. The growing uterus also slows blood return from the legs.</p>",
      "table": {
-      "caption": "Pregnancy: expected vs. unexpected findings",
+      "caption": "Pregnancy: expected vs. report",
       "headers": [
-       "Expected (normal)",
-       "Unexpected (report)"
+       "Expected",
+       "Report"
       ],
       "rows": [
        [
@@ -1365,45 +1693,44 @@ window.NURSE_DATA.push({
         "Rising BP, especially above prepregnancy levels"
        ],
        [
-        "BP lowest in the 2nd trimester",
+        "BP lowest in 2nd trimester",
         "One calf swollen, warm, and painful (possible clot)"
        ],
        [
-        "Slightly lower hematocrit",
-        "Dizziness, pallor, and low BP when lying flat (correct position first)"
+        "Slightly lower Hct",
+        "Dizzy, pale, low BP lying flat (reposition first)"
        ],
        [
-        "Higher white blood cell count",
-        "—"
-       ],
-       [
-        "Higher clotting factor levels",
+        "Higher WBC and clotting factors",
         "—"
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> A healthy client at 22 weeks has a BP of 102/62 and a pulse of 84. Before pregnancy, her BP was 118/76 and pulse 72. She feels fine. These findings are <strong>expected</strong>: cardiac output and pulse rise, and BP is at its lowest in the second trimester."
+     "example": "A healthy client at 22 weeks has BP 102/62 and pulse 84. Before pregnancy, BP was 118/76 and pulse 72. She feels fine. These are expected: pulse rises and BP is lowest in the second trimester."
     },
     {
-     "heading": "Supine hypotensive syndrome",
-     "body": "<p>Late in pregnancy, the uterus is heavy. When the woman lies flat on her back (supine), the uterus presses on the <strong>vena cava</strong>, the big vein carrying blood back to the heart. Less blood reaches the <strong>right atrium</strong>, so the heart has less to pump out, and <strong>BP drops</strong>. She may feel <strong>dizzy</strong> and look <strong>pale and clammy</strong>. This is <strong>supine hypotensive syndrome</strong> (also called vena cava syndrome or aortocaval compression — not the same as orthostatic “postural” hypotension, which happens on standing).</p><p>It's corrected by taking the weight off the vena cava: turn her <strong>onto her side</strong> (usually the left), or place a <strong>pillow or wedge under her right hip</strong> to tilt the uterus to the left.</p>",
-     "analogy": "Imagine stepping on a garden hose. Water stops reaching the nozzle. The heavy uterus “steps on” the vena cava when the woman lies flat — moving her to her side is like lifting your foot off the hose.",
-     "example": "<strong>At the bedside:</strong> A client at 34 weeks is lying flat for an ultrasound. She says she feels dizzy and nauseated; she is pale and clammy, and her BP is 88/50 (baseline 114/70). Your <strong>first action is to turn her onto her left side</strong> (or wedge under the right hip). Then recheck her BP. Repositioning comes before calling anyone."
+     "heading": "What is supine hypotensive syndrome?",
+     "keyIdea": "Lying flat lets the heavy uterus squeeze the vena cava; turn her to her side first.",
+     "body": "<p>Late in pregnancy, the uterus is heavy. When she lies flat on her back, it presses on the <b>vena cava</b>. Less blood returns to the right atrium, so the heart pumps less and BP drops. She may feel dizzy and look pale and clammy.</p><p>This is <b>supine hypotensive syndrome</b>, also called vena cava syndrome or aortocaval compression. It is not orthostatic hypotension, which happens on standing. Fix it by taking weight off the vena cava. Turn her to her side, usually the left. Or put a wedge under her right hip to tilt the uterus left. If she must stay on a spine board, tilt the board.</p>",
+     "analogy": "Picture stepping on a garden hose. Water stops reaching the nozzle. The uterus “steps on” the vena cava. Turning her to her side lifts your foot off the hose.",
+     "example": "A client at 34 weeks lies flat for an ultrasound. She feels dizzy and nauseated, and looks pale and clammy. BP is 88/50 (baseline 114/70). First, turn her to her left side or wedge the right hip. Then recheck the BP. Repositioning comes before calling anyone."
     },
     {
-     "heading": "Older adults: normal aging vs. disease",
-     "body": "<p>In older adults, the <strong>normal changes of aging are hard to tell apart from disease</strong>. The body makes gradual adjustments that are harmless at first but can eventually reduce function. Older adults also have a <strong>decreased ability to adapt to stress</strong> on the cardiovascular system — illness, surgery, or dehydration can push them over the edge quickly.</p><p>Older adults often show heart problems in <strong>atypical</strong> ways. Instead of chest pain, you may see <strong>mental status changes, agitation, or falls</strong> as the <strong>first sign</strong> of a cardiac problem. <strong>Fatigue, decreased activity, sleep disturbance, and pain are not a normal part of aging</strong> — they deserve investigation.</p>",
-     "example": "<strong>At the bedside:</strong> An 84-year-old with hypertension and CAD is brought from assisted living. Staff report two days of more-than-usual tiredness and two falls this week. Today the client is newly confused, skin is cool and clammy, and BP is 106/64 — but the baseline is 148/86. The client denies chest pain. Every one of these is a cue: new fatigue, falls, confusion, cool clammy skin, and a BP far below baseline. Chronic, unchanged findings (hearing aids, stable knee pain) are not.",
+     "heading": "How do older adults show heart problems?",
+     "keyIdea": "In older adults, confusion, agitation, falls, or new fatigue may be the first sign of a heart problem.",
+     "body": "<p>In older adults, normal aging is hard to tell apart from disease. Changes are harmless at first but can slowly reduce function. Older adults also adapt poorly to stress on the heart. Illness, surgery, or dehydration can tip them over fast.</p><p>Heart problems often show up in <b>atypical</b> ways. Instead of chest pain, you may see mental status changes, agitation, or falls. Fatigue, less activity, sleep changes, and pain are <b>not</b> normal aging. Investigate them.</p>",
+     "example": "An 84-year-old with high BP and CAD comes from assisted living. Staff report two days of extra tiredness and two falls this week. Today the client is newly confused, with cool, clammy skin. BP is 106/64, but baseline is 148/86. No chest pain. New fatigue, falls, confusion, cool skin, and a BP far below baseline are all cues. Stable hearing aids and old knee pain are not.",
      "check": {
-      "q": "Why is 106/64 a concern for this client when it's a “normal” adult BP?",
-      "a": "It's a big drop from the client's baseline of 148/86. Always compare to the client's own normal."
+      "q": "Why is 106/64 a concern for this client when it is a “normal” adult BP?",
+      "a": "It is a big drop from the client's baseline of 148/86. Always compare to the client's own normal."
      }
     },
     {
-     "heading": "What changes in the aging body",
-     "body": "<p>Here's what happens to each body system with age, and why it matters for perfusion:</p>",
+     "heading": "What changes in the aging body?",
+     "keyIdea": "Aging stiffens the heart and vessels, scars the AV node, and slows the kidneys; a high PaCO₂ is never just aging.",
+     "body": "<p>Here is what changes with age in each system, and why it matters.</p>",
      "table": {
-      "caption": "Age-related changes that affect perfusion",
+      "caption": "Aging changes that affect perfusion",
       "headers": [
        "System",
        "Change",
@@ -1412,96 +1739,165 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "Heart",
-        "Myocardial hypertrophy (thicker muscle); stiff valves; slight decline in cardiac output",
-        "Less reserve when stressed"
+        "Thicker muscle (hypertrophy); stiff valves; slight drop in cardiac output",
+        "Less reserve under stress"
        ],
        [
         "Electrical",
-        "Fibrosis (scarring) of the AV node",
-        "AV block; stress of illness may trigger conduction problems"
+        "Scarring (fibrosis) of the AV node",
+        "AV block; illness may trigger conduction problems"
        ],
        [
         "Vessels",
-        "Decreased elasticity (“hardening”); thickened inner (intimal) and middle (medial) layers; irregular lining; lipid deposits and calcification",
-        "Elevated BP, sometimes isolated systolic hypertension"
+        "Less elastic; thickened inner and middle layers; rough lining; fat and calcium deposits",
+        "Higher BP, sometimes isolated systolic hypertension"
        ],
        [
         "Lungs",
-        "Decreased chest wall compliance; increased anteroposterior (front-to-back) diameter; higher residual volumes; airway closure in dependent areas",
-        "Slightly lower arterial oxygen (PaO₂) is expected — but an <strong>elevated PaCO₂ indicates pathology</strong>"
+        "Stiffer chest wall; larger front-to-back diameter; more air left in lungs; airway closure in low areas",
+        "Slightly lower PaO₂ is expected; a <b>high PaCO₂ is disease</b>"
        ],
        [
         "Kidneys",
-        "GFR reduced 30–50% by age 80; water retention; decreased ability to concentrate urine",
-        "Extra fluid increases preload and taxes the heart; yet dehydration also happens easily"
+        "GFR down 30–50% by age 80; water retention; less able to concentrate urine",
+        "Extra fluid strains the heart, yet dehydration happens easily"
        ]
       ]
      },
      "check": {
-      "q": "In an 80-year-old, which are normal aging findings: BP 148/76, slightly low PaO₂, increased AP chest diameter, PaCO₂ 52, new fatigue limiting bathing?",
-      "a": "The first three are normal age-related changes. A PaCO₂ of 52 (elevated) and new fatigue that limits daily activities are abnormal and need follow-up."
+      "q": "In an 80-year-old, which are normal aging: BP 148/76, slightly low PaO₂, larger front-to-back chest, PaCO₂ 52, new fatigue that limits bathing?",
+      "a": "The first three are normal. A PaCO₂ of 52 (high) and new fatigue limiting daily activities are abnormal and need follow-up."
      }
     },
     {
-     "heading": "Assessing pulse and BP in older adults",
-     "body": "<p><strong>Pulse.</strong> The radial pulse may be hard to count if the client has <strong>hand or arm tremors</strong> — use the <strong>apical pulse</strong>, which may also be more accurate because of age-related heart changes. <strong>Check pedal pulses</strong> for regularity, volume, and symmetry. Expect the pulse to take <strong>longer to return to baseline after exercise</strong>.</p><p><strong>BP.</strong> If the client has <strong>arm contractures</strong>, assess by <strong>palpation with the arm in a relaxed position</strong>, or take a <strong>thigh BP</strong>. Always <strong>ask whether the client takes antihypertensives</strong>.</p><p><strong>Hypotension.</strong> Older adults are at high risk for orthostatic hypotension because their reflexes are slower and many take <strong>medications that increase the risk</strong>. <strong>Dehydration, bleeding, severe burns, and some analgesics</strong> can also cause hypotension. Assess by placing the client <strong>supine first, then assisting to sit or stand</strong>.</p>",
+     "heading": "Checking pulse and BP in older adults",
+     "keyIdea": "Use the apical pulse with tremors, adapt BP for contractures, ask about BP medicines, and check orthostatics.",
+     "body": "<p><b>Pulse.</b> Tremors can make the radial pulse hard to count. Use the <b>apical pulse</b>, which may also be more accurate with aging heart changes. Check pedal pulses for rhythm, volume, and symmetry. Expect the pulse to take longer to settle after exercise.</p><p><b>BP.</b> With arm contractures, palpate with the arm relaxed, or take a thigh BP. Always ask about antihypertensives.</p><p><b>Hypotension.</b> Older adults are at high risk for orthostatic hypotension. Reflexes are slower, and many take medicines that add risk. Dehydration, bleeding, severe burns, and some analgesics also cause it. Check supine first, then help the client sit or stand.</p>",
      "bullets": [
-      "Teach fall prevention: sit on the edge of the bed for a few minutes, dangle the legs, pump the ankles, then stand slowly.",
-      "Keep the call light in reach and ask the client to call before getting up.",
-      "Encourage adequate fluids unless restricted.",
-      "Monitor lying, sitting, and standing BP and pulse, and intake and output (including urine color)."
+      "Teach: sit on the bed edge a few minutes, dangle the legs, pump the ankles, then stand slowly.",
+      "Keep the call light in reach. Ask the client to call before getting up.",
+      "Encourage fluids unless restricted.",
+      "Monitor lying, sitting, and standing BP and pulse, plus I&O and urine color."
      ],
-     "example": "<strong>At the bedside:</strong> An 81-year-old feels lightheaded getting out of bed and fell once this week. Supine BP is 142/80; standing after 1 minute, 116/68. The systolic dropped 26 — orthostatic hypotension. The most important question to ask next: <strong>“What medications do you take, especially for blood pressure or water pills?”</strong> Medications are a leading cause in older adults."
+     "example": "An 81-year-old gets lightheaded getting out of bed and fell once this week. Supine BP is 142/80. Standing after 1 minute, it's 116/68. The systolic fell 26, so this is orthostatic hypotension. Ask next: “What medicines do you take, especially for BP or water pills?” Medicines are a leading cause in older adults."
+    },
+    {
+     "heading": "Common traps across the lifespan",
+     "keyIdea": "Judge every finding against age and stage: what is normal at one age can be danger at another.",
+     "body": "<p>These look-alikes trip up many students.</p>",
+     "table": {
+      "caption": "Look-alikes and how to tell them apart",
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Child's falling heart rate: better vs. worse",
+        "With falling SpO₂, a slowing rate means arrest is near. Ventilate."
+       ],
+       [
+        "Thigh vs. arm BP in children",
+        "Under 1 year: equal. Over 1 year: thigh about 10 mm Hg higher."
+       ],
+       [
+        "Low Hct in pregnancy: anemia vs. normal",
+        "A slight drop is normal plasma expansion. Teach iron-rich foods."
+       ],
+       [
+        "High WBC in pregnancy: infection vs. normal",
+        "A rise is normal in pregnancy."
+       ],
+       [
+        "Supine hypotension vs. orthostatic hypotension",
+        "Supine: lying flat in late pregnancy. Orthostatic: on standing."
+       ],
+       [
+        "Low PaO₂ vs. high PaCO₂ in older adults",
+        "Slightly low PaO₂ can be normal aging. High PaCO₂ is always disease."
+       ],
+       [
+        "New fatigue in an older adult: aging vs. illness",
+        "New fatigue, falls, or confusion need investigation."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect “expected vs. unexpected” findings, first actions, and correct order of assessment by age.",
+     "body": "<p>Common patterns:</p>",
+     "bullets": [
+      "“Which findings are expected in pregnancy?” Pulse up, BP lower mid-pregnancy, Hct slightly down, WBC up.",
+      "“What should the nurse do first?” Turn a dizzy pregnant client lying flat to her side.",
+      "“Which client should the nurse see first?” A hypoxic child with a falling heart rate.",
+      "“Which finding is normal aging?” Slightly low PaO₂, wide pulse pressure, larger chest."
+     ],
+     "steps": [
+      "<b>Read the stem:</b> At 32 weeks, which findings need follow-up: pulse 12 bpm above baseline, slightly low Hct, high WBC, BP higher than before pregnancy, one swollen calf?",
+      "<b>What is it really asking?</b> Which findings are not normal pregnancy changes?",
+      "<b>Key cues:</b> BP above prepregnancy; one swollen calf.",
+      "<b>Wrong options:</b> The pulse rise, lower Hct, and higher WBC are all expected changes. They need no follow-up.",
+      "<b>Answer:</b> The higher BP and the swollen calf (possible clot).",
+      "<b>Strategy:</b> Learn the normal changes for each group. Anything outside that list, or one-sided, is the answer."
+     ]
+    },
+    {
+     "heading": "Worked case: the 18-month-old's checkup",
+     "keyIdea": "Order your assessment so crying and pain don't distort the numbers you need most.",
+     "body": "<p>An 18-month-old sits quietly on a parent's lap at a well-child visit. The child is due for shots. You need breathing rate, pulse, temperature, and weight.</p>",
+     "steps": [
+      "<b>Pick the pulse site:</b> under about 2–3 years, use the apical pulse.",
+      "<b>Start calm:</b> count respirations by watching the belly for a full minute.",
+      "<b>Next:</b> listen to the apical pulse for a full minute.",
+      "<b>Then:</b> temperature, then undress and weigh.",
+      "<b>Last:</b> the shots, because pain and crying raise pulse and breathing.",
+      "<b>If the child cries early:</b> recheck vital signs once calm."
+     ],
+     "check": {
+      "q": "Would you take a BP routinely on this child?",
+      "a": "Not routinely. BP is measured in all children over 3, and in younger children with certain medical conditions."
+     }
     }
    ],
+   "mnemonics": [],
    "pearls": [
-    "A hypoxic child whose heart rate is falling is getting worse, not better — ventilate with oxygen and call for help.",
-    "Count a child's respirations and apical pulse first, while calm; painful procedures come last.",
-    "Child over 1 year: thigh BP ≈ 10 mm Hg higher than arm. Under 1 year: arm = thigh.",
-    "Pregnancy: pulse up 10–15, BP lowest in the 2nd trimester, Hct slightly down, WBC up — all expected. A swollen, painful calf is not.",
-    "Dizzy, pale pregnant client lying flat → turn her to her side (or wedge the right hip) before anything else.",
-    "Older adults: new confusion, falls, or fatigue may be the heart talking. An elevated PaCO₂ is never “just aging.”"
+    "A hypoxic child with a falling heart rate is getting worse. Ventilate with oxygen and call for help.",
+    "Count a child's breathing and apical pulse first, while calm. Painful procedures last.",
+    "Child over 1 year: thigh BP about 10 mm Hg higher than arm. Under 1 year: equal.",
+    "Pregnancy: pulse up, BP lowest in 2nd trimester, Hct slightly down, WBC up. All expected. A swollen, painful calf is not.",
+    "Dizzy, pale pregnant client lying flat: turn her to her side before anything else.",
+    "Older adults: new confusion, falls, or fatigue may be the heart talking. High PaCO₂ is never “just aging.”"
    ],
    "redFlags": [
-    "Bradycardia with falling SpO₂ in an infant or child → impending arrest; begin ventilation and call for help.",
-    "Dehydration in a child with cyanotic heart disease and polycythemia → risk of stroke; report and hydrate as prescribed.",
-    "One calf swollen, warm, and painful in a pregnant client → possible venous thrombosis; report.",
-    "Sudden confusion, agitation, or falls in an older adult with a cardiac history → assess perfusion and report.",
-    "Elevated PaCO₂ in an older adult → pathology, not normal aging."
-   ],
-   "recap": [
-    "Children: more sensitive to volume and pressure overload; congenital heart disease is the top cause of death in year one (excluding prematurity).",
-    "Chronic hypoxemia in children → polycythemia (thick blood); severe hypoxemia → bradycardia (adults become tachycardic).",
-    "Use the apical pulse in infants and young children; count before other procedures; diastolic in children = phase IV.",
-    "Pregnancy: CO and pulse up, BP lowest in 2nd trimester, blood volume +40–50%, Hct slightly down, WBC and clotting factors up, VTE risk up.",
-    "Supine hypotensive syndrome: uterus compresses the vena cava → turn to the side or wedge under the right hip.",
-    "Aging: stiff heart valves and vessels, AV node fibrosis, lower GFR, slightly lower PaO₂ — but high PaCO₂ is disease.",
-    "Older adults: atypical presentation; apical pulse with tremors; palpate or use the thigh with contractures; check orthostatic BP supine first."
+    "Bradycardia with falling SpO₂ in an infant or child: arrest is near. Ventilate and call for help.",
+    "Dehydration in a child with cyanotic heart disease and polycythemia: stroke risk. Report and hydrate as prescribed.",
+    "One calf swollen, warm, and painful in pregnancy: possible venous thrombosis. Report.",
+    "Sudden confusion, agitation, or falls in an older adult with heart disease: assess perfusion and report.",
+    "High PaCO₂ in an older adult: disease, not normal aging."
    ],
    "checks": [
     {
-     "q": "The nurse is caring for an 18-month-old due for vaccines. What goes first and what goes last?",
-     "a": "First: count respirations and the apical pulse while the child is calm. Last: the immunizations, because pain and crying raise the pulse and respirations."
+     "q": "An 83-year-old has hand tremors and contractures of both arms. How do you assess pulse and BP?",
+     "a": "Use the apical pulse. Measure BP by palpation with the arm relaxed, or take a thigh BP. Ask about antihypertensives."
     },
     {
-     "q": "At 32 weeks' gestation, which findings are unexpected: pulse 12 bpm above baseline, slightly low Hct, elevated WBC, BP higher than before pregnancy, one swollen calf?",
-     "a": "The elevated BP and the swollen calf. The other findings are normal changes of pregnancy."
+     "q": "A 79-year-old on an antihypertensive and a diuretic gets lightheaded standing (138/80 supine to 112/66 standing). What should you teach?",
+     "a": "Sit on the bed edge and dangle the legs before standing, rise slowly, call for help before getting up, and drink fluids unless restricted."
     },
     {
-     "q": "An 83-year-old has hand tremors and flexion contractures of both arms. How do you assess the pulse and BP?",
-     "a": "Use the apical pulse; measure BP by palpation with the arm relaxed or take a thigh BP; ask about antihypertensives."
+     "q": "Why does a pregnant woman need more iron?",
+     "a": "Blood volume rises 40–50%, including more red cells, which need iron. Plasma rises more than red cells, so Hct drops slightly."
     },
     {
-     "q": "A 79-year-old on an antihypertensive and a diuretic becomes lightheaded when standing (138/80 supine → 112/66 standing). What should you teach?",
-     "a": "Sit on the edge of the bed and dangle the legs before standing, rise slowly, call for help before getting up, and stay hydrated unless restricted."
+     "q": "A 1-day-old has a soft murmur but is pink, feeding well, with HR 140 and SpO₂ 98%. What do you do?",
+     "a": "Document and report it. Newborn murmurs are often innocent, but the provider decides on follow-up."
     },
     {
-     "q": "Why does a pregnant woman need more iron in her diet?",
-     "a": "Her blood volume increases 40–50%, including more red blood cells, which need iron to be made; plasma increases more than red cells, so Hct drops slightly."
+     "q": "An 88-year-old on metoprolol had HR 76 on admission and now shows a new slow rhythm. Why is this age group at risk?",
+     "a": "AV node scarring with age makes heart block more likely, especially during illness. Hold the rate-slowing dose per parameters, assess perfusion, and report."
     }
    ]
   }
- ],
- "flashcards": [],
- "questions": []
+ ]
 });

@@ -1,0 +1,3176 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+ "moduleId": "m15",
+ "moduleNumber": 15,
+ "moduleTitle": "Oxygenation",
+ "questions": [
+  {
+   "id": "m15-x1-001",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 68-year-old client is 1 day postoperative after a bowel resection. The client has become short-tempered with staff and says, “I’m just worn out.” The daughter says, “He always gets grumpy in hospitals.” SpO₂ is 90% on room air (96% on admission), RR 22/min, HR 98/min. Which action should the nurse take first?",
+   "options": [
+    "Assess breath sounds and work of breathing, and apply oxygen per protocol",
+    "Agree that hospital stress explains the change and offer quiet time",
+    "Ask the provider for a PRN sedative so the client can rest comfortably",
+    "Recheck the SpO₂ along with the routine vital signs due in 4 hours"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Irritability and fatigue with a falling SpO₂ are early signs of impaired oxygenation, so the nurse assesses and supports oxygenation before blaming mood.",
+    "Incorrect. Accepting the family’s explanation ignores a 6-point drop in SpO₂ and a rising respiratory rate.",
+    "Incorrect. A sedative can depress breathing further and hide the warning signs of worsening hypoxia.",
+    "Incorrect. Waiting delays action on a new change; alterations in breathing should be addressed right away."
+   ],
+   "rationale": "Mild impairments in oxygenation cause vague symptoms — fatigue, irritability, and discomfort — that are easy to write off as personality or hospital stress. Here the behavior change arrives together with an SpO₂ drop from 96% to 90% and a rising respiratory rate, which points to developing hypoxemia (for example, from postoperative atelectasis). The nurse assesses the respiratory system and supports oxygenation per protocol before accepting a non-physiologic explanation. Agreeing with the daughter is tempting because it sounds client-centered, but untreated hypoxemia progresses to tissue hypoxia.",
+   "takeaway": "New irritability or fatigue plus a falling SpO₂ is an oxygenation problem until proven otherwise.",
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
+   "hintContent": "Compare today’s SpO₂ with the admission value, then recall which vague symptoms mild hypoxemia produces.",
+   "hintStrategy": "When a family’s explanation competes with a physiologic cue, rule out the physiologic cause first."
+  },
+  {
+   "id": "m15-x1-002",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "At the start of the shift, a nurse on a medical unit receives report on four clients. Which client should the nurse assess first?",
+   "options": [
+    "A client with COPD who has a barrel chest and clubbed fingers at baseline",
+    "A client with asthma who speaks in full sentences with an SpO₂ of 96%",
+    "A client with cellulitis who has new neck muscle use and unequal chest rise",
+    "An 80-year-old client with a regular resting respiratory rate of 18/min"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Barrel chest and clubbing are long-standing findings, not new changes in this client’s condition.",
+    "Incorrect. Full sentences and a normal SpO₂ show this client is moving air well and is currently stable.",
+    "Correct. Breathing is normally effortless and symmetric, so new accessory muscle use with asymmetric chest rise is an acute change that needs immediate assessment.",
+    "Incorrect. A rate of 18/min is within the expected 15–20/min range for older adults."
+   ],
+   "rationale": "Breathing is autonomic, so a sudden change in how a person breathes means something in the body has changed and must be addressed immediately. In a healthy person the neck muscles stay relaxed and the chest rises and falls equally, so new accessory muscle use plus unequal chest rise in a client admitted for a skin infection is unexpected and possibly an acute lung collapse. The COPD client’s barrel chest and clubbing look dramatic, which is why they tempt students, but they are chronic, baseline findings. Acute and unexpected outranks chronic and expected.",
+   "takeaway": "A new change in breathing effort or symmetry outranks dramatic but chronic findings.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Sort each finding into “new” versus “baseline or expected for age.”",
+   "hintStrategy": "Acute and unexpected beats chronic and expected when choosing whom to see first."
+  },
+  {
+   "id": "m15-x1-003",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "Two days after a cesarean birth, a 31-year-old client suddenly reports shortness of breath and says, “I feel like something terrible is happening.” RR 32/min, HR 128/min, SpO₂ 87% on room air. Breath sounds are clear and equal, and chest expansion is symmetric. Which action should the nurse take first?",
+   "options": [
+    "Coach incentive spirometry to reexpand collapsed alveoli",
+    "Raise the head of the bed and apply oxygen per protocol",
+    "Walk the client in the hallway to improve leg circulation",
+    "Ask the AP to obtain a complete set of vital signs"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Clear, equal breath sounds argue against atelectasis, so this treats an airflow problem the client does not appear to have.",
+    "Correct. Sudden hypoxemia with clear lungs suggests blocked pulmonary blood flow; supporting oxygenation now, then notifying the provider, comes first.",
+    "Incorrect. Ambulating a client with a suspected clot and an SpO₂ of 87% raises oxygen demand and risk.",
+    "Incorrect. Vital signs are already known; delegating delays action for an unstable client."
+   ],
+   "rationale": "When hypoxemia appears suddenly but air is clearly moving in — clear breath sounds and symmetric expansion — think of the perfusion side of the V/Q match: fresh air reaches the alveoli, but a clot blocks blood flow through the pulmonary capillaries. Postpartum and postoperative clients are at risk. The nurse stays with the client, raises the head of the bed, applies oxygen per protocol, and notifies the provider immediately. Incentive spirometry is tempting because it is routine after surgery, but it treats a ventilation problem the assessment does not support.",
+   "takeaway": "Sudden hypoxemia with clear lungs points to blocked blood flow — support oxygenation and call the provider.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "hintContent": "Clear, equal breath sounds tell you air is getting in; ask what else keeps oxygen from reaching the blood.",
+   "hintStrategy": "For an unstable client, pick the action that supports oxygenation now over routine or delegated tasks."
+  },
+  {
+   "id": "m15-x1-004",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "After a motorcycle crash, a 22-year-old client is brought to the emergency department with a suspected pelvic fracture. The client is newly confused and keeps asking where they are. HR 132/min, BP 84/50 mm Hg, RR 28/min, SpO₂ 98% on 2 L/min by nasal cannula. Which action is most important for the nurse to take?",
+   "options": [
+    "Increase the oxygen flow to 6 L/min to bring the SpO₂ up to 100%",
+    "Reassure the client that the oxygen level on the monitor is normal",
+    "Reorient the client often and document the confusion as anxiety",
+    "Report signs of hemorrhage and prepare for blood replacement"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The hemoglobin that remains is already saturated; more oxygen cannot make up for missing carriers.",
+    "Incorrect. A normal SpO₂ does not rule out tissue hypoxia when hemoglobin is being lost.",
+    "Incorrect. New confusion with signs of shock is a cue of hypoxia, not simple anxiety.",
+    "Correct. Confusion, tachycardia, and hypotension with a normal SpO₂ suggest too little hemoglobin to carry oxygen; replacing blood treats the cause."
+   ],
+   "rationale": "Most oxygen in the blood rides on hemoglobin, so oxygen delivery depends on having enough hemoglobin as well as on ventilation. A pulse oximeter only shows the percentage of the hemoglobin present that is carrying oxygen; in a bleeding client that percentage stays high while the total oxygen delivered falls. New confusion (the brain is sensitive to low oxygen), tachycardia, and hypotension reveal tissue hypoxia despite an SpO₂ of 98%. Turning up the oxygen is the tempting choice, but it cannot fix a shortage of carriers — restoring blood volume and hemoglobin does.",
+   "takeaway": "A normal SpO₂ cannot rule out tissue hypoxia when hemoglobin is being lost.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Pathophysiology",
+   "hintContent": "Ask what a pulse oximeter actually measures and what it cannot measure.",
+   "hintStrategy": "When the monitor and the client disagree, treat the client and the underlying cause."
+  },
+  {
+   "id": "m15-x1-005",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "lifespan-considerations"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "An assistive personnel (AP) reports that a 2-month-old infant’s respiratory rate is 68/min, counted for 15 seconds and multiplied by 4. The infant is feeding well, has pink lips, and has no retractions. Which action should the RN take first?",
+   "options": [
+    "Notify the provider that the infant has developed new tachypnea",
+    "Document the respiratory rate as within normal limits for an infant",
+    "Recount the respirations for a full 60 seconds while the infant is quiet",
+    "Apply blow-by oxygen near the infant’s face during the feeding"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. The value may be inaccurate; the RN confirms the finding before escalating for a stable-appearing infant.",
+    "Incorrect. A rate of 68/min is above the expected 30–60/min, so it cannot be documented as normal without a verified count.",
+    "Correct. Infant breathing is often irregular, so the RN verifies the rate with a full-minute count before acting on it.",
+    "Incorrect. The infant shows no distress, and oxygen is not indicated on the basis of an unverified number."
+   ],
+   "rationale": "Newborns and infants normally breathe 30–60 times per minute, and their pattern is often irregular with brief pauses. A 15-second count multiplied by 4 can easily exaggerate or miss those pauses, so respirations in infants and young children are counted for a full 60 seconds. Because the infant is pink, feeding, and free of retractions, there is no emergency that justifies acting before verifying. Notifying the provider is tempting because 68 is above the range, but the RN first obtains accurate data; if the full count is still high, the RN escalates.",
+   "takeaway": "Count an infant’s respirations for a full minute before acting on an abnormal rate.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Recall the normal infant rate and why a short count is unreliable at this age.",
+   "hintStrategy": "In a stable client, “assess before you act” — verify questionable data before escalating."
+  },
+  {
+   "id": "m15-x1-006",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "An 81-year-old client with heart failure is receiving IV fluids at 150 mL/h for dehydration. Four hours later the client is dyspneic, with fine crackles in both lungs, RR 28/min, and an SpO₂ of 89% (97% at the start of the infusion). Which action should the nurse take first?",
+   "options": [
+    "Sit the client upright and slow the infusion to a keep-open rate",
+    "Encourage coughing to move secretions out of the large airways",
+    "Increase the IV rate to improve blood flow to the pulmonary capillaries",
+    "Collect a sputum specimen to rule out a new hospital-acquired pneumonia"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Fluid volume excess is filling alveoli and blocking airflow; positioning upright and limiting more fluid address the cause right away.",
+    "Incorrect. Fine crackles from alveolar fluid do not clear with coughing; this targets rhonchi, not fluid volume excess.",
+    "Incorrect. More fluid would worsen the alveolar flooding that is causing the hypoxemia.",
+    "Incorrect. Testing for infection delays treatment of an obvious fluid-related cause of acute hypoxemia."
+   ],
+   "rationale": "Gas exchange requires inflated, well-oxygenated alveoli next to well-perfused capillaries. Fluid volume excess is one of the causes of blocked airflow into the alveolus: blood still flows past, but fluid instead of fresh air fills the sacs, so blood leaves the lungs poorly oxygenated. An older adult with heart failure receiving rapid fluids is at high risk. Sitting upright helps the lungs expand, and slowing the infusion stops the cause while the nurse notifies the provider; coughing is tempting, but crackles from fluid in the alveoli do not clear with a cough.",
+   "takeaway": "Fluid volume excess blocks airflow into the alveoli — stop adding fluid and position the client upright.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Decide whether the crackles come from secretions in large airways or fluid in the alveoli, and what caused the fluid.",
+   "hintStrategy": "When the nurse’s own intervention is causing harm, stopping or limiting it is usually the first action."
+  },
+  {
+   "id": "m15-x1-007",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "The nurse reviews data for four assigned clients at the start of the shift. Refer to the exhibit. Which client should the nurse assess first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Client Summary",
+      "table": {
+       "headers": [
+        "Client",
+        "Diagnosis",
+        "Hemoglobin",
+        "SpO₂",
+        "Other data"
+       ],
+       "rows": [
+        [
+         "1",
+         "COPD",
+         "15.2 g/dL",
+         "89% on 2 L/min (target 88–92%)",
+         "Speaking in full sentences"
+        ],
+        [
+         "2",
+         "Upper GI bleed",
+         "6.2 g/dL",
+         "99% on room air",
+         "HR 128/min; dizzy when sitting up"
+        ],
+        [
+         "3",
+         "Pneumonia",
+         "13.0 g/dL",
+         "93% on 2 L/min",
+         "Temp 38.2°C (100.8°F); productive cough"
+        ],
+        [
+         "4",
+         "Hip arthroplasty, day 3",
+         "10.4 g/dL",
+         "96% on room air",
+         "Pain 3/10; ambulating with walker"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Client 1, admitted with COPD",
+    "Client 3, admitted with pneumonia",
+    "Client 4, recovering from hip arthroplasty",
+    "Client 2, admitted with an upper GI bleed"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. An SpO₂ of 89% is within this client’s prescribed target, and the client is speaking in full sentences.",
+    "Incorrect. Fever and a productive cough are expected with pneumonia, and the SpO₂ is acceptable on oxygen.",
+    "Incorrect. Mild postoperative anemia with controlled pain and ambulation is expected on day 3.",
+    "Correct. A hemoglobin of 6.2 g/dL with tachycardia and dizziness means oxygen delivery is failing even though the SpO₂ reads 99%."
+   ],
+   "rationale": "Oxygen delivery needs ventilated alveoli, perfused capillaries, and enough hemoglobin to carry oxygen. Client 2 has so little hemoglobin that, although every carrier is saturated (SpO₂ 99%), the tissues are not receiving enough oxygen — the heart is racing to compensate and the client is dizzy, and active bleeding may continue. The COPD client is tempting because 89% is the lowest number on the list, but it is within that client’s prescribed target. The nurse prioritizes the client whose data show unstable, worsening oxygen delivery.",
+   "takeaway": "The lowest SpO₂ is not always the sickest client — check whether there is enough hemoglobin to carry the oxygen.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Look beyond the SpO₂ column: which client has too few oxygen carriers and signs of compensation?",
+   "hintStrategy": "Compare each value with that client’s own expected range before calling it abnormal."
+  },
+  {
+   "id": "m15-x1-008",
+   "type": "mcq",
+   "priority": true,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "airway-clearance"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "During evening rounds, the nurse finds a client who is receiving continuous nasogastric tube feedings lying flat after a linen change. The client is coughing, RR is 28/min, and SpO₂ is 91% (95% an hour ago). Which action should the nurse take first?",
+   "options": [
+    "Auscultate the right lower lobe for new crackles",
+    "Stop the feeding and raise the head of the bed",
+    "Check tube placement by aspirating gastric contents",
+    "Notify the provider and request a chest x-ray"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Auscultation is important, but aspiration may still be occurring, so it is stopped first.",
+    "Correct. Stopping the formula and positioning upright prevent further aspiration and help the lungs expand.",
+    "Incorrect. Placement is confirmed before the feeding is restarted, not while aspiration may be ongoing.",
+    "Incorrect. Notification follows the immediate actions that stop more formula from entering the lungs."
+   ],
+   "rationale": "Lying flat with formula running allows stomach contents to reflux and be aspirated. The right bronchus is shorter, wider, and straighter than the left, so aspirated material usually enters the right lung, often the right lower lobe. Because the client may still be aspirating, the first action is to remove the hazard — stop the feeding — and raise the head of the bed to protect the airway and improve chest expansion. Auscultating is tempting because “assess first” is a common rule, but when harm is actively occurring, the nurse stops the harm before collecting more data.",
+   "takeaway": "Suspected aspiration during a tube feeding: stop the feeding and sit the client up before anything else.",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "hintContent": "Think about whether the cause of the problem is still happening right now.",
+   "hintStrategy": "“Assess first” yields to “stop the harm” when an ongoing hazard is injuring the client."
+  },
+  {
+   "id": "m15-x1-009",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "A 37-year-old client has bilateral nasal packing after septoplasty and must breathe through the mouth. On the second day the client reports a very dry, scratchy throat and thick secretions. Which explanation by the nurse is accurate?",
+   "options": [
+    "“Mouth breathing skips the warming, moistening, and filtering your nose normally does.”",
+    "“The packing is pressing on your windpipe and narrowing the airway below it.”",
+    "“Your cilia are working harder to push the packing forward and out of your nose.”",
+    "“Mouth breathing lowers your blood oxygen level, and that is what dries the throat.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. The nares warm, humidify, and filter air; mouth breathing bypasses these functions, drying the airway and thickening secretions.",
+    "Incorrect. Nasal packing does not compress the trachea, and airway narrowing would not explain dryness.",
+    "Incorrect. Cilia sweep mucus and trapped particles; they do not push out packing, and this would not dry the throat.",
+    "Incorrect. Mouth breathing still delivers air to the alveoli; the dryness comes from lost humidification, not low oxygen."
+   ],
+   "rationale": "The nose is the primary entry point for air, and the nares and nasal passages warm, humidify, and filter it before it reaches the lower airway. When the nose is blocked, the client breathes through the mouth, which still moves air into the lungs but skips that conditioning. Dry, unconditioned air irritates the throat and thickens secretions. The tempting wrong answer links the dryness to low oxygen, but mouth breathing is a problem of air quality, not of how much oxygen reaches the blood.",
+   "takeaway": "Mouth breathing still ventilates the lungs but bypasses the nose’s warming, humidifying, and filtering.",
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "hintContent": "Think about the jobs the nose performs on air that the mouth does not.",
+   "hintStrategy": "Eliminate explanations that name the wrong structure or the wrong mechanism, even if they sound clinical."
+  },
+  {
+   "id": "m15-x1-010",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "On admission, a client with a hemoglobin of 6.6 g/dL had dyspnea walking to the bathroom, HR 120/min, and an SpO₂ of 98% on room air. Two units of packed red blood cells were transfused. Which finding best indicates that oxygen delivery to the tissues has improved?",
+   "options": [
+    "SpO₂ is 99% on room air after the second unit is completed",
+    "PaO₂ is 96 mm Hg on the arterial blood gas drawn this morning",
+    "HR is 90/min, and the client walks to the bathroom without dyspnea",
+    "Respiratory rate is 18/min while the client is sleeping soundly"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. SpO₂ was already normal; it shows the percent of hemoglobin saturated, not how much oxygen is carried.",
+    "Incorrect. PaO₂ measures oxygen dissolved in plasma, which was never the problem, so it does not reflect carrying capacity.",
+    "Correct. A slower heart rate and better activity tolerance show the tissues now receive enough oxygen with less compensation.",
+    "Incorrect. A resting rate during sleep does not test whether oxygen delivery now meets demand during activity."
+   ],
+   "rationale": "Severe anemia limits oxygen delivery because there are too few hemoglobin “trucks,” even though each one is fully loaded — which is why the SpO₂ was 98% while the client was short of breath and tachycardic. The best evidence that a transfusion helped is a change in the very signs that showed the problem: the heart no longer has to race, and the client tolerates activity. SpO₂ and PaO₂ are tempting because they are oxygen numbers, but both were normal before treatment, so they cannot show improvement. Evaluate outcomes using the cues that were abnormal to begin with.",
+   "takeaway": "Evaluate an anemia intervention by compensation and activity tolerance, not by SpO₂.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask which of the client’s original findings were abnormal, then look for those to improve.",
+   "hintStrategy": "For “evaluate outcomes” items, pick the change in the cue that originally revealed the problem."
+  },
+  {
+   "id": "m15-x1-011",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "diagnostics-abg",
+    "breathing-patterns"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A client using morphine patient-controlled analgesia after surgery is sleepy but arousable with a respiratory rate of 9/min. SpO₂ is 96% on 2 L/min by nasal cannula. A nursing student says, “The saturation is fine, so the breathing must be okay.” Which response by the nurse is best?",
+   "options": [
+    "“You’re right; the oxygen is doing its job, so we will keep watching the monitor.”",
+    "“Slow breathing lets carbon dioxide build up even when the saturation looks normal.”",
+    "“A slower rate is expected with opioids, so this number doesn’t concern me.”",
+    "“The saturation always drops first when a client isn’t breathing enough.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Agreeing reinforces unsafe reasoning; a rate below 10/min is bradypnea and must be acted on.",
+    "Correct. Supplemental oxygen can keep SpO₂ normal while hypoventilation causes CO₂ retention, so a rate of 9/min needs action.",
+    "Incorrect. Opioid effects on breathing are a risk to manage, not an expected finding to accept.",
+    "Incorrect. With supplemental oxygen, SpO₂ can stay normal long after CO₂ has started to climb."
+   ],
+   "rationale": "Oxygenation and ventilation are different jobs. Ventilation moves air in and out and removes CO₂; a pulse oximeter reports only how saturated hemoglobin is. A client breathing 9/min on supplemental oxygen can keep a normal SpO₂ while CO₂ accumulates, H⁺ rises, and respiratory acidosis develops. The tempting distractor claims SpO₂ will always fall first, but extra oxygen masks hypoventilation, so the nurse acts on the rate and sedation level instead of the saturation.",
+   "takeaway": "A normal SpO₂ on oxygen does not prove ventilation is adequate — watch the rate and sedation level.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "hintContent": "Separate the two jobs: getting oxygen in versus getting carbon dioxide out.",
+   "hintStrategy": "In “best response to a colleague” items, choose the option that corrects unsafe reasoning with the correct principle."
+  },
+  {
+   "id": "m15-x1-012",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-medications"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 15-year-old with asthma asks the school nurse, “Why do the little tubes in my lungs squeeze shut during an attack when my windpipe never does?” Which response by the nurse is most accurate?",
+   "options": [
+    "“Your windpipe is much wider, so mucus can’t block it the way it blocks the small tubes.”",
+    "“The small tubes have cartilage rings that swell up and close off during an attack.”",
+    "“Your windpipe has many more tiny hairs, and those hairs keep it from narrowing.”",
+    "“The small airways have muscle that can tighten; cartilage rings hold your windpipe open.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Width is not the reason; the small airways narrow mainly because their smooth muscle tightens.",
+    "Incorrect. This reverses the anatomy — bronchioles lack cartilage, which is why their muscle can narrow them.",
+    "Incorrect. Cilia sweep mucus out of the airways; they do not hold an airway open.",
+    "Correct. Bronchioles are supported by smooth muscle, which can spasm; the trachea and bronchi are held open by cartilage."
+   ],
+   "rationale": "The trachea and bronchi are supported by rings of cartilage, so they stay open. The bronchioles have no cartilage; they are supported by smooth muscle, which can tighten (bronchospasm) and narrow the airway — the core problem in an asthma attack. That is also why bronchodilators act on the bronchioles. The reversed-anatomy option is tempting because “cartilage” sounds technical, but cartilage is what prevents collapse, not what causes narrowing.",
+   "takeaway": "Cartilage keeps the trachea and bronchi open; smooth muscle lets the bronchioles narrow in bronchospasm.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Recall what supports the large airways versus the small ones.",
+   "hintStrategy": "For teaching items, choose the statement that is both accurate and pitched at the client’s level."
+  },
+  {
+   "id": "m15-x1-013",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "breathing-patterns"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nursing student caring for a client with severe emphysema asks, “Her lungs are so full of air — why is her blood oxygen still low?” Which explanation by the nurse is most accurate?",
+   "options": [
+    "“Thick sputum is blocking fresh air from ever getting into her damaged air sacs.”",
+    "“Her low carbon dioxide level has turned off the brain’s signal to breathe deeply.”",
+    "“Air reaches the damaged air sacs, but too little blood flows past to pick up oxygen.”",
+    "“Her hemoglobin has lost the ability to hold on to the oxygen molecules it carries.”"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Sputum is an airflow problem; this client’s issue is the damaged alveolar–capillary bed.",
+    "Incorrect. Emphysema tends to raise CO₂, and a breathing-drive problem would not explain trapped air with low oxygen.",
+    "Correct. Emphysematous alveoli are a blood-flow (perfusion) problem: ventilation reaches the sacs, but perfusion past them is poor.",
+    "Incorrect. Emphysema damages the lung, not hemoglobin’s ability to bind oxygen."
+   ],
+   "rationale": "Gas exchange requires both inflated, well-oxygenated alveoli and well-perfused capillaries. In emphysema, overstretched, damaged alveoli lose much of the capillary network around them, so the air that sits in the lungs meets too little blood — a V/Q mismatch on the perfusion side. Blood leaving the lungs carries less oxygen even though the lungs feel “full.” Sputum blockage is tempting because COPD clients often have secretions, but sputum is an airflow problem and does not explain why air-filled lungs still fail to oxygenate blood.",
+   "takeaway": "Air in the alveoli helps only if enough blood flows past to pick up the oxygen.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Ask which half of the V/Q match is failing: air reaching the sacs, or blood reaching the air.",
+   "hintStrategy": "When options name different mechanisms, match the mechanism to the specific disease process."
+  },
+  {
+   "id": "m15-x1-014",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "health-promotion-smoking"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A 45-year-old client who smokes one pack of cigarettes a day asks why the cough is worst every morning and brings up so much mucus. Which explanation by the nurse is most accurate?",
+   "options": [
+    "“Smoke damages the tiny hairs that sweep mucus out, so it pools overnight until you cough.”",
+    "“Your lungs make mucus only while you sleep, so the morning is the only time it can come out.”",
+    "“Lying flat squeezes the cartilage in your windpipe, which traps mucus until you sit up.”",
+    "“Nicotine relaxes the muscle in your small airways, which pulls mucus down into them.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Cilia normally sweep mucus upward; smoke impairs them, so secretions pool during sleep and are cleared by coughing in the morning.",
+    "Incorrect. Mucus is produced continuously; the morning cough reflects pooled secretions, not night-only production.",
+    "Incorrect. Cartilage holds the trachea open in every position; it does not trap mucus.",
+    "Incorrect. Smooth muscle relaxation does not pull mucus into airways; the issue is impaired clearance by cilia."
+   ],
+   "rationale": "Cilia are tiny hair-like projections that beat in waves to move mucus and trapped particles up and out of the airways, where they are coughed out or swallowed. Cigarette smoke impairs this protective mechanism, so mucus stays in the airways, pools during the night, and is coughed up on waking. Explaining the mechanism in plain words supports the client’s understanding of why quitting helps. The night-only production option is tempting because it matches the timing, but it gets the physiology wrong.",
+   "takeaway": "Smoking impairs ciliary clearance, so mucus pools overnight and the morning cough clears it.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Think about which airway defense normally moves mucus out without the client noticing.",
+   "hintStrategy": "Prefer the option that names the correct protective structure and its job."
+  },
+  {
+   "id": "m15-x1-015",
+   "type": "mcq",
+   "priority": false,
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "pneumothorax-chest-tubes"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "Thirty minutes after a subclavian central venous catheter was inserted, a client develops sudden dyspnea, absent breath sounds on the right, and decreased right chest rise. After applying oxygen and notifying the provider, the nurse hears the client ask, “How could my lung collapse from an IV line?” Which explanation is accurate?",
+   "options": [
+    "“The catheter may have slipped into the main airway that leads to your right lung.”",
+    "“IV fluid may have flowed into the air sacs of your right lung and filled them up.”",
+    "“The needle may have torn the cartilage rings that normally hold your lung open.”",
+    "“Air may have entered the space around your lung and removed the suction holding it open.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. A venous catheter is not placed in the airway; collapse here results from air in the pleural space.",
+    "Incorrect. Fluid-filled alveoli cause crackles, not absent breath sounds with decreased chest rise.",
+    "Incorrect. Cartilage supports the trachea and bronchi, not the lung; lung expansion depends on pleural pressure.",
+    "Correct. Negative pressure in the pleural space holds the lung against the chest wall; air in that space removes it, and the lung collapses."
+   ],
+   "rationale": "Each lung is wrapped in two pleural layers — the visceral pleura on the lung and the parietal pleura on the chest wall — with the pleural space between them. Pressure in that space is normally negative, and that slight suction keeps the lung stretched out against the chest wall. A needle passing near the lung apex during subclavian insertion can let air into the pleural space (pneumothorax), the negative pressure is lost, and the lung collapses — causing absent breath sounds and decreased chest rise on that side. The torn-cartilage option is tempting but confuses airway support with lung expansion.",
+   "takeaway": "Air in the pleural space eliminates the negative pressure that keeps the lung expanded.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Recall what normally holds the lung against the chest wall.",
+   "hintStrategy": "Match the explanation to all the findings: absent sounds plus decreased chest rise means air, not fluid."
+  },
+  {
+   "id": "m15-x1-016",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "breathing-patterns"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse is caring for several clients with hypoxemia. Which clients’ hypoxemia results mainly from blocked airflow into the alveoli? Select all that apply.",
+   "options": [
+    "A client with thick sputum plugging the bronchi during pneumonia",
+    "A client with swollen, inflamed airways from acute bronchitis",
+    "A client with emphysema and overstretched, damaged alveoli",
+    "A client with fluid volume excess and crackles throughout both lungs",
+    "A client with collapsed alveoli at both bases after abdominal surgery",
+    "A client with a clot lodged in a branch of the pulmonary artery"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Sputum blocks air from reaching the alveoli, a ventilation-side V/Q problem.",
+    "Correct. Inflammation narrows the airway and limits air reaching the alveoli.",
+    "Incorrect. Emphysematous alveoli are listed on the blood-flow side: air arrives, but little blood comes by.",
+    "Correct. Fluid filling the alveoli prevents fresh air from reaching the blood.",
+    "Correct. Atelectasis keeps air out of the alveoli while blood still flows past.",
+    "Incorrect. A clot blocks blood flow through the capillaries — a perfusion problem, not an airflow problem."
+   ],
+   "rationale": "Every V/Q mismatch is either “air can’t get to the blood” or “blood can’t get to the air.” Airflow into the alveolus is blocked by sputum, inflammation, atelectasis, and fluid volume excess; blood flow through the capillary is blocked by clots, plaque buildup, and emphysematous alveoli. Emphysema is the most tempting wrong choice because it is a lung disease with air trapping, but in this framework the damaged alveoli are poorly perfused rather than poorly ventilated. Sorting the cause tells the nurse which interventions will help — airway clearance and lung expansion for airflow problems.",
+   "takeaway": "Sputum, inflammation, atelectasis, and fluid block airflow; clots, plaque, and emphysematous alveoli block blood flow.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "For each client, ask whether air or blood is failing to reach the alveolar–capillary meeting point.",
+   "hintStrategy": "Evaluate each SATA option independently against one rule rather than comparing options."
+  },
+  {
+   "id": "m15-x1-017",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "During a wellness visit, a nurse observes the breathing of a healthy 34-year-old client at rest. Which findings are expected? Select all that apply.",
+   "options": [
+    "The respiratory rate is 16 breaths/min",
+    "The chest rises and falls equally on both sides",
+    "Exhalation lasts about twice as long as inhalation",
+    "Inhalation lasts noticeably longer than exhalation",
+    "Neck muscles stay relaxed during quiet breathing",
+    "The sternocleidomastoid muscles tighten with each breath"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. A rate of 16/min is within the adult range of 12–20/min.",
+    "Correct. Symmetric chest movement is expected in healthy lungs.",
+    "Correct. Inspiration normally takes about half as long as expiration.",
+    "Incorrect. This reverses the normal timing of a resting breath.",
+    "Correct. At rest, breathing is effortless and does not recruit accessory neck muscles.",
+    "Incorrect. Visible neck-muscle contraction signals increased work of breathing, not normal breathing."
+   ],
+   "rationale": "Normal, effortless breathing (eupnea) has a rate within the age-expected range, relaxed neck muscles, and symmetric chest rise and fall. Inspiration is quick and expiration is slower and more relaxed, taking about twice as long. Recognizing the normal pattern is what lets the nurse spot an abnormal one quickly. The timing option is the most commonly missed, because students often assume breathing in and out take equal time.",
+   "takeaway": "Normal adult breathing: 12–20/min, relaxed neck muscles, symmetric chest, and exhalation about twice as long as inhalation.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Picture a calm person breathing quietly — which muscles move, and which phase takes longer?",
+   "hintStrategy": "In “expected findings” items, eliminate any option that signals extra effort."
+  },
+  {
+   "id": "m15-x1-018",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with pneumonia has a PaO₂ of 62 mm Hg and an SaO₂ of 90%. Which findings indicate that the low blood oxygen is now affecting oxygen delivery to the tissues? Select all that apply.",
+   "options": [
+    "Fatigue after brushing teeth at the sink",
+    "Yellow sputum with a productive cough",
+    "New difficulty following simple directions",
+    "PaO₂ of 62 mm Hg on the arterial blood gas",
+    "Increasing irritability with staff and family",
+    "SaO₂ of 90% on the arterial blood gas"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Fatigue with minimal activity reflects tissues not receiving enough oxygen.",
+    "Incorrect. Purulent sputum reflects the infection, not the effect of low oxygen on tissues.",
+    "Correct. The brain is very sensitive to low oxygen; new confusion shows tissue hypoxia.",
+    "Incorrect. A low PaO₂ defines hypoxemia (blood level), not tissue hypoxia.",
+    "Correct. Irritability is an early sign that the tissues, especially the brain, are underoxygenated.",
+    "Incorrect. A low SaO₂ is also a blood measure of hypoxemia, not evidence of tissue effects."
+   ],
+   "rationale": "Hypoxemia is a low oxygen level in the blood; hypoxia is decreased oxygen delivery to the tissues, and untreated hypoxemia leads to hypoxia. The blood-gas values document hypoxemia but say nothing on their own about the tissues. Tissue effects show up in the client: mild impairments cause fatigue, irritability, and discomfort, and the oxygen-hungry brain produces confusion. The PaO₂ and SaO₂ options tempt students because they are oxygen values, but they are measurements of the blood, not of the tissues.",
+   "takeaway": "Hypoxemia is measured in the blood; hypoxia shows up in the client’s brain, energy, and behavior.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Separate findings measured in the blood sample from findings you observe in the client.",
+   "hintStrategy": "When two terms look alike, define each one first, then sort the options by definition."
+  },
+  {
+   "id": "m15-x1-019",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "breathing-patterns"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client has postoperative atelectasis and a newly diagnosed deep vein thrombosis in the left calf. The nurse reviews the plan of care. Which interventions target the airflow (ventilation) side of the client’s V/Q problem? Select all that apply.",
+   "options": [
+    "Anticoagulant therapy as prescribed",
+    "Monitoring for sudden dyspnea with clear breath sounds",
+    "Sitting upright in a chair for meals",
+    "Incentive spirometry 10 times every hour while awake",
+    "Coughing and deep-breathing exercises every 2 hours"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Anticoagulation addresses the clot and blood flow — the perfusion side.",
+    "Incorrect. This surveils for a clot reaching the lungs, a perfusion problem.",
+    "Correct. Upright positioning lowers the diaphragm and helps the lungs expand.",
+    "Correct. Slow, deep breaths reexpand collapsed alveoli so air can reach them again.",
+    "Correct. These clear secretions and open alveoli, improving airflow."
+   ],
+   "rationale": "Atelectasis is a ventilation problem: collapsed alveoli receive no fresh air even though blood flows past them. Interventions that target airflow open and inflate alveoli — incentive spirometry, coughing and deep breathing, and upright positioning. The deep vein thrombosis creates a different risk: a clot reaching the lung would block blood flow (perfusion). Anticoagulation is tempting because it is important for this client, but it does nothing to reinflate collapsed alveoli.",
+   "takeaway": "Lung-expansion measures treat airflow problems; anticoagulation addresses blood-flow problems.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "For each intervention, ask whether it changes air reaching the alveoli or blood reaching them.",
+   "hintStrategy": "A correct intervention can still be the wrong answer if it does not match the specific goal in the stem."
+  },
+  {
+   "id": "m15-x1-020",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A healthy 40-year-old runs up three flights of stairs, and carbon dioxide production in the muscles increases. Which changes would the nurse expect as the body responds? Select all that apply.",
+   "options": [
+    "Arterial pH rises above 7.45",
+    "Breaths become deeper",
+    "The respiratory rate increases",
+    "The hydrogen ion (H⁺) concentration in arterial blood rises",
+    "Breathing slows to conserve oxygen for the muscles"
+   ],
+   "answer": [
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Incorrect. More H⁺ makes the blood more acidic, so pH falls rather than rises.",
+    "Correct. The drive to breathe increases depth as well as rate to blow off CO₂.",
+    "Correct. Rising H⁺ stimulates the brain to speed up breathing.",
+    "Correct. CO₂ combines with water to form acid, so rising CO₂ raises H⁺.",
+    "Incorrect. Rising CO₂ speeds breathing; slowing would let CO₂ climb further."
+   ],
+   "rationale": "The respiratory drive is stimulated primarily by the concentration of H⁺ in arterial blood, which changes directly with CO₂. During exercise CO₂ rises, H⁺ rises, and pH drifts down; the brain responds by increasing the rate and depth of breathing to blow off CO₂ and return pH toward normal. The reverse happens when CO₂ falls. The pH option tempts students who remember “CO₂ changes pH” but forget the direction: more CO₂ means more acid and a lower pH.",
+   "takeaway": "Rising CO₂ → more H⁺ → lower pH → faster, deeper breathing.",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Follow the chain: CO₂ to H⁺ to pH to the brain’s signal to breathe.",
+   "hintStrategy": "For cause-and-effect chains, check the direction of every arrow before selecting."
+  },
+  {
+   "id": "m15-x1-021",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "lifespan-considerations"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A nurse in a family practice clinic reviews the respiratory rates recorded for clients seen this morning. Which rates require follow-up because they are outside the expected range for the client’s age? Select all that apply.",
+   "options": [
+    "Newborn, 48 breaths/min",
+    "School-age child, 20 breaths/min",
+    "Older adult, 17 breaths/min",
+    "Adolescent, 26 breaths/min",
+    "Toddler, 28 breaths/min",
+    "Preschooler, 42 breaths/min"
+   ],
+   "answer": [
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Incorrect. Within the 30–60/min expected for newborns.",
+    "Incorrect. Within the 16–22/min expected for school-age children.",
+    "Incorrect. Within the 15–20/min expected for older adults.",
+    "Correct. Above the 12–20/min expected for adolescents (tachypnea).",
+    "Incorrect. Within the 20–40/min expected for toddlers.",
+    "Correct. Above the 20–35/min expected for preschoolers."
+   ],
+   "rationale": "A respiratory rate means little until it is compared with the expected range for the client’s age. Rates fall steadily with age: newborns and infants 30–60/min, toddlers 20–40, preschoolers 20–35, school-age children 16–22, and adolescents and adults 12–20, with older adults at 15–20. A preschooler at 42 and an adolescent at 26 are both above range and need reassessment. The newborn’s 48 is the most tempting wrong pick because it would be alarming in an adult, but it is normal for a newborn.",
+   "takeaway": "Always interpret a respiratory rate against the age-specific normal range.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Picture the age-range table and slide each client into the correct row.",
+   "hintStrategy": "Judge each SATA option on its own against a standard, not against the other options."
+  },
+  {
+   "id": "m15-x1-022",
+   "type": "sata",
+   "topic": "oxygenation-physiology",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Physiology of Oxygenation",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client 4 days after hip arthroplasty develops sudden dyspnea and an SpO₂ of 88% on room air. Which findings support a blood-flow (perfusion) problem rather than an airflow problem as the cause? Select all that apply.",
+   "options": [
+    "Equal chest expansion on both sides",
+    "Diminished breath sounds at the bases with shallow breathing",
+    "Clear breath sounds in all lobes",
+    "Fine crackles at both bases that do not clear with coughing",
+    "Thick yellow sputum with a frequent cough",
+    "Swelling and tenderness of the operative-side calf"
+   ],
+   "answer": [
+    0,
+    2,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Symmetric expansion argues against collapse or blockage of airflow.",
+    "Incorrect. This suggests atelectasis, which blocks airflow into the alveoli.",
+    "Correct. Clear lungs mean air is reaching the alveoli, pointing to a blood-flow problem.",
+    "Incorrect. Crackles indicate fluid or collapsed alveoli, an airflow problem.",
+    "Incorrect. Secretions block airways, an airflow problem.",
+    "Correct. A probable deep vein thrombosis is a source of a clot that can block pulmonary blood flow."
+   ],
+   "rationale": "When a client suddenly becomes hypoxemic, the lung examination helps sort the cause. Clear breath sounds and symmetric expansion show air is moving into the alveoli, so the likely failure is on the perfusion side — a clot blocking blood flow through the pulmonary capillaries — and a swollen, tender calf after hip surgery suggests where the clot came from. Crackles, diminished bases, and thick sputum all point to airflow problems such as atelectasis, fluid, or secretions. The diminished-bases option is tempting because atelectasis is common after surgery, but it would indicate the airflow side.",
+   "takeaway": "Sudden hypoxemia with clear, symmetric lungs and a risk factor for clots points to blocked blood flow.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Assessment Findings",
+   "hintContent": "Abnormal breath sounds mean air is having trouble; normal breath sounds shift suspicion to the blood side.",
+   "hintStrategy": "Sort each cue into one of two buckets before selecting — here, airflow versus blood flow."
+  },
+  {
+   "id": "m15-x1-023",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "In the emergency department, a 33-year-old client with asthma was wheezing loudly throughout both lungs an hour ago. Now the nurse hears almost no air movement in any lung field. The client is drowsy, slumped in bed, and answers with one word. SpO₂ is 88% on oxygen. Which action should the nurse take first?",
+   "options": [
+    "Document that the wheezing has resolved after treatment",
+    "Call the rapid response team for immediate help",
+    "Let the client sleep because the breathing has become quieter",
+    "Reassess the client’s breath sounds again in 15 minutes"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The wheezing disappeared because very little air is moving, not because the airways opened.",
+    "Correct. Diminished sounds after loud wheezing with drowsiness means airflow is failing and the client is tiring — an emergency requiring escalation.",
+    "Incorrect. Drowsiness here suggests rising CO₂ and exhaustion; leaving the client unattended could be fatal.",
+    "Incorrect. Delaying action allows a client with a silent chest to progress to respiratory arrest."
+   ],
+   "rationale": "Wheezing requires air moving through narrowed airways. When a wheezing client suddenly becomes quiet on auscultation, the airways may be so narrowed — or the client so exhausted — that almost no air is moving (a “silent chest”). Combined with drowsiness, one-word answers, and a falling SpO₂, this is a life-threatening deterioration that requires immediate escalation. Documenting improvement is the tempting trap: a quieter chest feels like progress, but decreased or absent breath sounds in a client who was wheezing mean airflow is failing.",
+   "takeaway": "A wheezing client whose chest goes quiet and who becomes drowsy is deteriorating, not improving.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Prioritization",
+   "hintContent": "Ask what must be happening for a wheeze to be heard, then ask why it might disappear.",
+   "hintStrategy": "When a sign “improves” while the client looks worse, believe the client and escalate."
+  },
+  {
+   "id": "m15-x1-024",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "Forty minutes after extubation, a client in the intensive care unit develops a loud, high-pitched crowing sound on inspiration that the nurse can hear from the doorway. The client is anxious and grasping the side rails. SpO₂ is 92% on a face mask. Which action should the nurse take first?",
+   "options": [
+    "Stay with the client and call for emergency help",
+    "Ask the client to cough, then listen again for clearing",
+    "Document the sound as expected airway irritation",
+    "Give the client’s PRN albuterol inhaler from the bedside"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Inspiratory stridor signals upper airway narrowing that can close completely; the nurse stays and summons help to secure the airway.",
+    "Incorrect. Coughing clears rhonchi, not stridor; this delays action for an airway emergency.",
+    "Incorrect. Stridor is never an expected finding; it indicates obstruction such as laryngeal edema.",
+    "Incorrect. An inhaler targets lower-airway bronchospasm and cannot be used effectively by a client in upper-airway distress."
+   ],
+   "rationale": "Stridor is a loud, high-pitched crowing sound on inspiration, often audible without a stethoscope, caused by narrowing of the upper airway — after extubation, usually from laryngeal edema. Because the airway can close completely, stridor is an emergency: the nurse stays with the client, calls for help, and prepares to support the airway. Asking the client to cough is the tempting choice because it is the right move for rhonchi, but stridor does not clear with coughing and time spent “re-listening” is time lost.",
+   "takeaway": "Stridor after extubation is an airway emergency — stay with the client and call for help.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "hintContent": "Identify where in the airway a sound heard on inspiration from the doorway is coming from.",
+   "hintStrategy": "Airway threats come first; eliminate any option that delays action to gather more data."
+  },
+  {
+   "id": "m15-x1-025",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "A nurse is caring for four clients with hypoxemia on a pulmonary unit. Which client should the nurse see first?",
+   "options": [
+    "A client whose HR has risen from 84 to 110/min, who is restless and picking at the sheets",
+    "A client with COPD who has clubbed fingers and an SpO₂ of 90% on 2 L/min",
+    "A client whose HR has dropped from 118 to 52/min, with BP 82/50 mm Hg and lethargy",
+    "A client with pneumonia who reports sharp pain on deep breaths in one spot"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Tachycardia and restlessness are early, compensated signs; urgent, but less critical than decompensation.",
+    "Incorrect. Clubbing reflects long-standing hypoxemia, and the SpO₂ is likely within this client’s target.",
+    "Correct. Bradycardia, hypotension, and decreasing alertness are late signs of hypoxia — compensation is failing.",
+    "Incorrect. Pleuritic pain needs attention, but it does not signal the immediate collapse seen in late hypoxia."
+   ],
+   "rationale": "Early hypoxia shows the body compensating: restlessness, anxiety, tachycardia, tachypnea, and often a higher blood pressure. Late hypoxia shows compensation failing: bradycardia, hypotension, central cyanosis, and stupor. A heart rate that falls from 118 to 52 in a hypoxic client means the heart itself is running out of oxygen, so this client is closest to arrest. The restless, tachycardic client is the tempting choice because the signs are dramatic and new, but those are early signs that still allow a brief window for intervention.",
+   "takeaway": "Bradycardia and hypotension in a hypoxic client mean decompensation — see that client first.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Separate signs of the body compensating from signs of compensation failing.",
+   "hintStrategy": "Rank by how close each client is to arrest: late signs outrank early signs."
+  },
+  {
+   "id": "m15-x1-026",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 58-year-old client is 1 day postoperative after an open gastrectomy. The client has become restless and keeps trying to sit up. Refer to the exhibit. Which action should the nurse take first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Vital Signs",
+      "table": {
+       "headers": [
+        "Time",
+        "HR",
+        "RR",
+        "BP",
+        "Temp"
+       ],
+       "rows": [
+        [
+         "1300",
+         "88/min",
+         "18/min",
+         "128/78 mm Hg",
+         "37.2°C (99.0°F)"
+        ],
+        [
+         "1400",
+         "116/min",
+         "26/min",
+         "146/88 mm Hg",
+         "37.3°C (99.1°F)"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Give the PRN antihypertensive for the elevated blood pressure",
+    "Raise the head of the bed and check the SpO₂ and breath sounds",
+    "Give the PRN opioid because restlessness suggests uncontrolled pain",
+    "Recheck the vital signs in 1 hour to look for a trend"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The BP rise is part of the compensatory response to hypoxia; lowering it treats a number, not the cause.",
+    "Correct. Rising HR, RR, and BP with restlessness are early signs of hypoxia, so the nurse positions the client and assesses oxygenation.",
+    "Incorrect. An opioid may depress breathing before hypoxia has been ruled out.",
+    "Incorrect. The trend is already clear over the past hour; waiting allows hypoxia to progress to late signs."
+   ],
+   "rationale": "Early hypoxia is the body compensating: the brain signals with restlessness, the heart speeds up, breathing quickens, and blood pressure often rises. Late hypoxia brings bradycardia, hypotension, and cyanosis. This client shows the early pattern, so the nurse acts now — raises the head of the bed and assesses SpO₂ and breath sounds — while there is still time to reverse the cause, such as postoperative atelectasis. The antihypertensive is tempting because the BP is high, but treating it hides one of the compensating signs and misses the real problem.",
+   "takeaway": "Early hypoxia raises HR, RR, and often BP — treat the oxygenation problem, not the individual numbers.",
+   "cjmm": "Analyze Cues",
+   "focus": "Prioritization",
+   "hintContent": "Look at the three vital signs together rather than one at a time.",
+   "hintStrategy": "When several abnormal findings share one cause, choose the option that addresses the cause."
+  },
+  {
+   "id": "m15-x1-027",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 30-year-old client with asthma walks into an urgent care clinic and sits on the edge of the exam table leaning forward with hands on the knees. The client speaks two words at a time in a hoarse voice. RR is 32/min and SpO₂ is 94% on room air. Which action should the nurse take first?",
+   "options": [
+    "Obtain a detailed history of the client’s asthma triggers and inhaler use",
+    "Ask the client to lie flat so the posterior lungs can be auscultated",
+    "Reassure the client that an SpO₂ of 94% shows the attack is mild",
+    "Keep the client upright, apply oxygen as prescribed, and get the provider"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The history matters, but a client in severe distress needs immediate support before an interview.",
+    "Incorrect. Lying flat removes the position the client is using to breathe and can worsen distress.",
+    "Incorrect. Speech, posture, and rate show severe distress; the oximeter number does not override the assessment.",
+    "Correct. Tripod positioning and two-word speech mean severe distress regardless of the SpO₂, so the nurse supports breathing and gets help."
+   ],
+   "rationale": "Posture and speech are powerful assessment clues. The tripod position helps the chest expand and signals significant respiratory distress, and a client who can speak only one to three words per breath is in severe distress no matter what the pulse oximeter shows. A hoarse voice and RR of 32 add to the picture. The nurse keeps the client upright, applies oxygen as prescribed, and gets the provider. The tempting trap is the 94% SpO₂, which can make the situation look mild; treat the client, not the number.",
+   "takeaway": "Tripod posture and speaking only a few words mean severe distress, whatever the SpO₂.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "hintContent": "Look at what the client’s posture and speech are telling you before you look at the monitor.",
+   "hintStrategy": "When the client’s appearance and a device reading conflict, act on the client’s appearance."
+  },
+  {
+   "id": "m15-x1-028",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "pneumothorax-chest-tubes"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A farmworker is admitted after a fall onto a fence post that injured the right chest. On palpation the nurse feels a crackling, “crispy rice” sensation under the skin of the right chest that now extends to the base of the neck, and the client’s voice is becoming hoarse. Which action should the nurse take first?",
+   "options": [
+    "Gently massage the area to help the trapped air disperse",
+    "Document crepitus as an expected finding after chest trauma",
+    "Assess the airway and notify the provider of the spreading crepitus",
+    "Apply a warm compress to the neck to ease the hoarseness"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Massage does not remove subcutaneous air and delays recognition of the underlying air leak.",
+    "Incorrect. Crepitus is never expected; its source must be found, especially when it is spreading.",
+    "Correct. Crepitus means air is trapped in the tissues; spreading toward the neck with voice change threatens the airway.",
+    "Incorrect. Warmth does not address air in the tissues or the threat to the airway."
+   ],
+   "rationale": "Crepitus is a crackling feeling under the skin caused by air trapped in the tissues, seen after chest trauma, around chest tubes, or with an air leak. It is not an expected finding, and its source must be identified. Air spreading toward the neck can compress structures around the airway, and a new hoarse voice is a warning sign of airway involvement. The nurse assesses the airway and notifies the provider promptly. Documenting it as expected is tempting because it often follows chest injury, but “common after trauma” is not the same as “normal.”",
+   "takeaway": "Crepitus is air in the tissues — find the source, and treat spreading crepitus with voice change as an airway threat.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask where the air under the skin is coming from and what it could press on as it spreads.",
+   "hintStrategy": "Any finding that progresses toward the airway moves to the top of the priority list."
+  },
+  {
+   "id": "m15-x1-029",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "An AP reports data collected on four clients. Refer to the exhibit. Which client should the RN assess first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "AP Report",
+      "table": {
+       "headers": [
+        "Client",
+        "Background",
+        "AP report"
+       ],
+       "rows": [
+        [
+         "A",
+         "COPD",
+         "SpO₂ 89% on 2 L/min (target 88–92%); talking with visitors"
+        ],
+        [
+         "B",
+         "Pneumonia, day 2 of antibiotics",
+         "Temp 38.1°C (100.6°F); RR 22/min; coughing up yellow sputum"
+        ],
+        [
+         "C",
+         "Thyroidectomy 6 hours ago",
+         "“Her voice sounds hoarse, and her breathing got noisy when she breathes in.”"
+        ],
+        [
+         "D",
+         "Asthma",
+         "Used rescue inhaler 30 minutes ago; now resting, RR 18/min, SpO₂ 96%"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Client C, who had a thyroidectomy 6 hours ago",
+    "Client A, who has COPD and is talking with visitors",
+    "Client B, who has pneumonia and a low-grade fever",
+    "Client D, who has asthma and used a rescue inhaler"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. New hoarseness with noisy inspiration after neck surgery suggests stridor from upper airway swelling — an emergency.",
+    "Incorrect. An SpO₂ of 89% is within this client’s prescribed target, and the client is talking comfortably.",
+    "Incorrect. Mild fever and productive cough are expected on day 2 of treatment for pneumonia.",
+    "Incorrect. The client responded to the rescue inhaler and now has normal vital signs."
+   ],
+   "rationale": "An AP can measure and report data, but the RN interprets it. “Noisy breathing when she breathes in” in a client 6 hours after neck surgery describes possible stridor — a high-pitched inspiratory sound from upper airway narrowing, such as swelling around the larynx — and the new hoarse voice supports it. Upper airway obstruction can progress to complete closure, so this client is seen first. Client A is tempting because an 89% SpO₂ looks low, but it is within the prescribed target, and the client is talking comfortably.",
+   "takeaway": "New noisy inspiration with hoarseness after neck surgery is possible stridor — assess immediately.",
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "hintContent": "Translate the AP’s plain-language description into an assessment term, then judge its urgency.",
+   "hintStrategy": "Airway problems outrank breathing and circulation findings, and expected findings rank last."
+  },
+  {
+   "id": "m15-x1-030",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "respiratory-medications"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "During an admission interview, a 42-year-old client with asthma reports several findings. Which finding requires the nurse’s priority follow-up?",
+   "options": [
+    "Smoking 10 pack-years in the past but quitting 15 years ago",
+    "Having seasonal allergies that flare up every spring",
+    "Taking a controller inhaler every morning as prescribed",
+    "Using the rescue inhaler four times a day for the past week"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. A remote smoking history is a risk factor to document, not an active problem.",
+    "Incorrect. Allergies are a known trigger to note, but they are a stable, expected part of the history.",
+    "Incorrect. Daily controller use as prescribed reflects appropriate management.",
+    "Correct. Frequent rescue-inhaler use means the asthma is poorly controlled and may be heading toward a serious exacerbation."
+   ],
+   "rationale": "The medication history should include how often the client uses the rescue inhaler, because frequency is a direct measure of asthma control. Needing a rescue inhaler four times a day signals that the airways are repeatedly narrowing and that the client may be heading toward a severe attack — a warning sign that needs prompt follow-up with the provider. A remote smoking history is tempting because smoking is a major respiratory risk factor, but it is past and stable. Current, worsening data outrank historical risk factors.",
+   "takeaway": "Frequent rescue-inhaler use is a red flag for poorly controlled asthma.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask which history item describes what is happening now and getting worse.",
+   "hintStrategy": "In history items, current and worsening problems outrank past or stable risk factors."
+  },
+  {
+   "id": "m15-x1-031",
+   "type": "mcq",
+   "priority": true,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "lifespan-considerations"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A family member of an 84-year-old resident in a long-term care facility tells the nurse, “Mom is confused today, but she gets senile when she’s tired.” The resident was oriented yesterday. RR is 26/min, HR 108/min, and temperature 37.9°C (100.2°F). Which action should the nurse take first?",
+   "options": [
+    "Reorient the resident and limit visitors so she can rest",
+    "Check the SpO₂ and auscultate the lungs",
+    "Document the confusion as part of the resident’s baseline dementia",
+    "Ask the provider for a PRN sedative to promote sleep"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Reorientation treats the behavior but ignores a possible physiologic cause.",
+    "Correct. New confusion with tachypnea and tachycardia is a possible sign of hypoxia, so the nurse assesses oxygenation first.",
+    "Incorrect. The resident was oriented yesterday, so this is a new change, not baseline.",
+    "Incorrect. A sedative could depress breathing and mask worsening hypoxia."
+   ],
+   "rationale": "Unexplained, sudden confusion is one of the classic signs of hypoxia because the brain uses a large amount of oxygen and has almost no reserve. In an older adult — who has a weaker cough reflex and a higher risk of infection and aspiration — new confusion with tachypnea, tachycardia, and a low-grade fever suggests a developing respiratory problem such as pneumonia. The nurse checks SpO₂ and listens to the lungs before accepting any other explanation. Attributing the change to dementia is tempting, but she was oriented yesterday, so this is new.",
+   "takeaway": "Sudden confusion in an older adult is a hypoxia cue until oxygenation has been assessed.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Compare today’s mental status with yesterday’s, then look at the respiratory rate.",
+   "hintStrategy": "Rule out physiologic causes before accepting a behavioral or chronic explanation for a new change."
+  },
+  {
+   "id": "m15-x1-032",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 50-year-old Black client is dyspneic and restless, and the nurse suspects central cyanosis. Where should the nurse inspect to best detect it?",
+   "options": [
+    "The oral mucosa and the conjunctivae",
+    "The skin of the forearms and the back of the hands",
+    "The fingertips under the pulse oximeter probe",
+    "The soles of the feet and the toes"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Cyanosis can be hard to see in darker skin, so the nurse inspects the lips, tongue, oral mucosa, and conjunctivae.",
+    "Incorrect. Skin pigmentation can hide color change, so these sites are unreliable for central cyanosis.",
+    "Incorrect. Fingertips show peripheral, not central, cyanosis and can be affected by cold or poor circulation.",
+    "Incorrect. These are peripheral sites that reflect local circulation, not central oxygenation."
+   ],
+   "rationale": "Cyanosis is a late sign of hypoxia, and it can be difficult to see in darker skin. Central cyanosis — in the lips, tongue, and mucous membranes — is more serious than peripheral cyanosis, so the nurse looks where pigment is least likely to mask color change: the oral mucosa and conjunctivae. Peripheral sites such as fingertips and toes are tempting because they are where cyanosis is often taught, but they reflect local circulation and miss central color change. Because cyanosis appears late, the nurse also relies on early signs such as restlessness and tachycardia.",
+   "takeaway": "In darker skin, assess the oral mucosa and conjunctivae for cyanosis — and don’t wait for it.",
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "hintContent": "Think about where pigment is least likely to hide a color change.",
+   "hintStrategy": "For skin-color items, choose the site that is accurate for every client, not only for lighter skin."
+  },
+  {
+   "id": "m15-x1-033",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "An older adult is admitted with left lower lobe pneumonia confirmed by chest x-ray. Which assessment finding over the left lower lobe would the nurse consider unexpected?",
+   "options": [
+    "Dullness on percussion",
+    "Fine crackles that do not clear with coughing",
+    "Decreased tactile fremitus",
+    "Loud, high-pitched bronchial breath sounds"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Solid, fluid-filled lung tissue sounds dull rather than resonant.",
+    "Incorrect. Fluid in the alveoli produces crackles that usually persist after a cough.",
+    "Correct. Consolidated lung carries vibration well, so fremitus should be increased, not decreased.",
+    "Incorrect. Consolidation carries tracheal-type sounds to the surface, an expected change."
+   ],
+   "rationale": "Consolidation means the alveoli are filled with fluid or pus and the lung has become solid. Sound and vibration travel better through solids and fluid than through air, so over consolidated lung the nurse expects increased tactile fremitus, dullness on percussion, bronchial breath sounds in a peripheral field, and crackles. Decreased fremitus would point instead to extra air or a barrier, such as a pneumothorax or air trapping. Bronchial sounds tempt students to call them unexpected because they are abnormal at the bases, but in consolidation they are exactly what the nurse expects.",
+   "takeaway": "Consolidation increases fremitus; air (pneumothorax or trapping) decreases it.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Remember whether vibration travels better through solid tissue or through air.",
+   "hintStrategy": "For “unexpected finding” items, find the option that contradicts the diagnosis."
+  },
+  {
+   "id": "m15-x1-034",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "While auscultating a healthy adult client, the nurse hears medium-pitched breath sounds between the scapulae with inspiration and expiration of equal length. How should the nurse interpret this finding?",
+   "options": [
+    "Bronchial sounds suggesting underlying consolidation",
+    "Normal bronchovesicular sounds in their expected location",
+    "Vesicular sounds that are louder than expected at this site",
+    "Diminished sounds indicating early air trapping"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Bronchial sounds are loud and high-pitched with a longer expiration; these sounds are medium-pitched with equal phases.",
+    "Correct. Bronchovesicular sounds are normal beside the sternum and between the scapulae, with equal inspiration and expiration.",
+    "Incorrect. Vesicular sounds are soft, low-pitched, and longer on inspiration, and are heard over the periphery.",
+    "Incorrect. Medium-pitched sounds with equal phases are not diminished; they are a normal pattern."
+   ],
+   "rationale": "Each of the three normal breath sounds has a characteristic pitch, timing, and location. Bronchial sounds are loud and high-pitched over the trachea with a longer expiration; bronchovesicular sounds are medium in pitch and loudness with equal phases beside the sternum and between the scapulae; vesicular sounds are soft and low-pitched with a longer inspiration over the peripheral fields and bases. A normal sound is abnormal only when heard in the wrong place. Students who memorize “bronchial = consolidation” may overcall these sounds, but this sound is in its expected location.",
+   "takeaway": "Right sound, right place is normal: bronchovesicular sounds belong between the scapulae and beside the sternum.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Match the pitch, the timing, and the location to one normal breath sound.",
+   "hintStrategy": "Before labeling a sound abnormal, check whether it belongs where you heard it."
+  },
+  {
+   "id": "m15-x1-035",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "While auscultating a client with heart failure, the nurse hears brief, high-pitched popping sounds at both lung bases late in inspiration that are unchanged after the client coughs. How should the nurse document this finding?",
+   "options": [
+    "Rhonchi at both bases from secretions in the large airways",
+    "Expiratory wheezes at both bases from narrowed small airways",
+    "A pleural friction rub at both bases from inflamed pleural layers",
+    "Fine crackles at both bases, consistent with fluid in the alveoli"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Rhonchi are low-pitched and snoring, and they often clear or change with coughing.",
+    "Incorrect. Wheezes are continuous, musical, high-pitched sounds, usually on expiration — not brief pops.",
+    "Incorrect. A friction rub is a grating, leathery sound in a localized spot on both inspiration and expiration.",
+    "Correct. Brief, high-pitched popping late in inspiration that persists after coughing describes fine crackles from alveolar fluid."
+   ],
+   "rationale": "Fine crackles are brief, high-pitched popping sounds, usually late in inspiration, caused by fluid in the alveoli or collapsed alveoli popping open — common in pneumonia, atelectasis, and fluid volume excess such as heart failure. They usually do not clear with coughing. Rhonchi are the most tempting wrong answer because both are “wet” sounds, but rhonchi are low-pitched, snoring or gurgling sounds from secretions in larger airways and often clear after a cough. Asking the client to cough and re-listening is how the nurse tells them apart.",
+   "takeaway": "Crackles that persist after a cough mean fluid in the alveoli; rhonchi often clear with coughing.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Use pitch, timing, and the response to coughing to identify the sound.",
+   "hintStrategy": "When two sounds seem alike, find the single feature that separates them and look for it in the stem."
+  },
+  {
+   "id": "m15-x1-036",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "health-promotion-smoking"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A 54-year-old client reports smoking 1½ packs of cigarettes per day since age 34. How many pack-years should the nurse document?",
+   "options": [
+    "20 pack-years",
+    "51 pack-years",
+    "30 pack-years",
+    "81 pack-years"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. This counts only the years smoked and ignores the 1.5 packs per day.",
+    "Incorrect. This multiplies packs per day by the age the client started smoking (34) instead of by the years smoked.",
+    "Correct. 1.5 packs/day × 20 years of smoking = 30 pack-years.",
+    "Incorrect. This multiplies packs per day by the client’s age instead of by the years smoked."
+   ],
+   "rationale": "Pack-years quantify lifetime smoking exposure: packs smoked per day multiplied by the number of years smoked. The client started at 34 and is now 54, so the client has smoked for 20 years; 1.5 × 20 = 30 pack-years. The most common error is using the client’s age rather than the years smoked, which greatly inflates the number. Accurate pack-years help the provider judge risk for COPD and lung cancer and guide screening.",
+   "takeaway": "Pack-years = packs per day × years smoked (not the client’s age).",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "First calculate how many years the client has actually smoked.",
+   "hintStrategy": "For calculation items, identify each quantity the formula needs before multiplying."
+  },
+  {
+   "id": "m15-x1-037",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "breathing-patterns"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "During a home visit, a client with heart failure reports waking at night short of breath. Which question should the nurse ask to best track the severity of the client’s orthopnea over time?",
+   "options": [
+    "“How many pillows do you need to sleep comfortably?”",
+    "“Do you get short of breath climbing a flight of stairs?”",
+    "“How many cigarettes do you smoke each day?”",
+    "“Is your cough worse in the morning or at night?”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Orthopnea is breathlessness when lying flat; the number of pillows needed gives a measurable way to track change.",
+    "Incorrect. This assesses dyspnea on exertion, not breathlessness when lying flat.",
+    "Incorrect. Smoking history is a risk factor, not a measure of orthopnea.",
+    "Incorrect. Cough timing does not quantify the client’s ability to lie flat."
+   ],
+   "rationale": "Orthopnea is difficulty breathing when lying flat, relieved by sitting up. Because the client props up to breathe, the number of pillows needed to sleep — or the need to sleep in a recliner — gives the nurse a simple, measurable way to track whether the condition is improving or worsening. Documenting “orthopnea, 3 pillows” lets the next nurse compare. The exertion question is tempting because it also measures breathlessness, but it assesses activity tolerance rather than breathing when supine.",
+   "takeaway": "Track orthopnea by the number of pillows the client needs to sleep.",
+   "cjmm": "Generate Solutions",
+   "focus": "Assessment Findings",
+   "hintContent": "Define orthopnea, then pick the question that measures it.",
+   "hintStrategy": "Choose the question that yields measurable data about the specific symptom named in the stem."
+  },
+  {
+   "id": "m15-x1-038",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "A nurse observes a nursing student auscultating a client’s lungs. Which action by the student requires correction?",
+   "options": [
+    "Comparing one side of the chest with the same spot on the other side",
+    "Listening through one full inspiration and expiration at each site",
+    "Asking the client to cough and then re-listening over a gurgling area",
+    "Listening through the client’s hospital gown to keep the client warm"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Side-to-side comparison is correct technique for detecting asymmetry.",
+    "Incorrect. A full breath at each spot is needed to judge timing and adventitious sounds.",
+    "Incorrect. Re-listening after a cough helps tell rhonchi from crackles.",
+    "Correct. Fabric muffles and distorts breath sounds; the stethoscope belongs on bare skin."
+   ],
+   "rationale": "Accurate auscultation uses the diaphragm of the stethoscope on bare skin, compares side to side, and listens through a full inspiration and expiration at each site. Clothing creates rustling and muffling that can hide adventitious sounds or mimic crackles. When a sound is heard, asking the client to cough and re-listening helps separate sounds that clear (rhonchi) from those that do not (crackles, wheezes). Keeping the client warm is a kind goal, which makes the gown option tempting, but warmth can be maintained by exposing one area at a time.",
+   "takeaway": "Auscultate on bare skin, side to side, through a full breath at each site.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "hintContent": "Picture what fabric does to sound traveling to the stethoscope.",
+   "hintStrategy": "“Requires correction” means find the one incorrect action among correct ones."
+  },
+  {
+   "id": "m15-x1-039",
+   "type": "mcq",
+   "priority": false,
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with pneumonia reports a sharp pain in the right lower chest that gets worse with each deep breath and cough. Which additional finding would the nurse most expect?",
+   "options": [
+    "A loud, high-pitched crowing sound heard on inspiration",
+    "A localized grating sound on both inspiration and expiration",
+    "Medium-pitched sounds with equal phases beside the sternum",
+    "Musical wheezes heard throughout all of the lung fields"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Stridor arises from the upper airway, not from inflamed pleura.",
+    "Correct. Pleuritic pain from inflamed pleura is typically accompanied by a pleural friction rub in one spot.",
+    "Incorrect. These are normal bronchovesicular sounds and do not explain pleuritic pain.",
+    "Incorrect. Diffuse wheezes reflect narrowed airways, not inflamed pleura in one area."
+   ],
+   "rationale": "Pleuritic chest pain is sharp and worsens with breathing or coughing because inflamed pleural layers rub together as the lung moves. That rubbing produces a pleural friction rub: a grating, leathery sound heard over a localized area on both inspiration and expiration that does not clear with coughing. Pneumonia is a common cause. Wheezes are tempting because they are a familiar adventitious sound, but they come from narrowed airways and would not be localized to the painful spot.",
+   "takeaway": "Sharp pain with breathing plus a localized grating sound means inflamed pleura — a friction rub.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Link the type of pain to the structure that is inflamed, then to the sound it makes.",
+   "hintStrategy": "Pick the finding that shares a cause with the symptom in the stem."
+  },
+  {
+   "id": "m15-x1-040",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with pneumonia has had a falling SpO₂ for several hours despite oxygen therapy. Which findings indicate that the client’s compensation is failing (late hypoxia)? Select all that apply.",
+   "options": [
+    "Respiratory rate increasing from 18 to 28/min",
+    "Heart rate decreasing from 124 to 54/min",
+    "New restlessness and picking at the bed linens",
+    "Bluish discoloration of the lips and tongue",
+    "Responds only to a firm shoulder shake",
+    "Blood pressure falling to 80/46 mm Hg"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Incorrect. Tachypnea is an early compensatory response to hypoxia.",
+    "Correct. Bradycardia in a hypoxic client means the heart itself is running short of oxygen.",
+    "Incorrect. Restlessness is an early sign that the brain senses low oxygen.",
+    "Correct. Central cyanosis appears late, once oxygenation is severely impaired.",
+    "Correct. Progression to stupor reflects late, decompensated hypoxia.",
+    "Correct. Hypotension is a late sign that compensatory mechanisms are failing."
+   ],
+   "rationale": "Early hypoxia is the body compensating: restlessness, anxiety, irritability, tachycardia, tachypnea, and often a rise in blood pressure. Late hypoxia is compensation failing: bradycardia, hypotension, central cyanosis, and confusion progressing to stupor. A memory aid is that early hypoxia is “restless and fast,” while late hypoxia is “blue, slow, and low.” Tachypnea is the most tempting wrong choice because it is clearly abnormal, but it shows the body is still fighting back. Late signs call for a rapid response.",
+   "takeaway": "Early hypoxia is restless and fast; late hypoxia is blue, slow, and low.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Decide which findings show the body still fighting and which show it giving out.",
+   "hintStrategy": "Sort SATA options by a single principle — here, compensating versus decompensating."
+  },
+  {
+   "id": "m15-x1-041",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse in an emergency department triages a 26-year-old client with a history of asthma. Which findings indicate severe respiratory distress? Select all that apply.",
+   "options": [
+    "Sitting forward with hands braced on the knees",
+    "A newly hoarse, raspy voice",
+    "Neck muscles tightening with each breath",
+    "Soft, low-pitched breath sounds at the lung bases",
+    "Speaking only two or three words per breath",
+    "Speaking in full sentences while giving a history"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. The tripod position helps the chest expand and signals significant distress.",
+    "Correct. A hoarse voice reflects airway irritation or swelling and is a warning sign during a severe exacerbation.",
+    "Correct. Accessory muscle use shows that normal breathing muscles are not enough.",
+    "Incorrect. Vesicular sounds at the bases are a normal finding.",
+    "Correct. Being unable to finish a sentence indicates severe distress.",
+    "Incorrect. Full sentences indicate the client is moving adequate air."
+   ],
+   "rationale": "Before any test results return, the nurse can recognize severe respiratory distress from the client’s presentation: posture, ability to speak, voice, and effort. The tripod position, speaking only one to three words per breath, accessory muscle use, and a hoarse voice together describe a client in serious trouble. Speaking in full sentences means the client is moving more air, and vesicular sounds at the bases are normal. Students sometimes doubt the hoarse voice because it seems minor, but in an asthma exacerbation it reflects airway irritation and is a warning sign.",
+   "takeaway": "Posture, speech, voice, and effort reveal severe distress before any test does.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Use what you can see and hear from the doorway: how the client sits, talks, and works to breathe.",
+   "hintStrategy": "For SATA items, weigh each finding on its own — don’t stop after finding two correct ones."
+  },
+  {
+   "id": "m15-x1-042",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "lifespan-considerations"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse performs an admission assessment on a 70-year-old client. Which findings suggest long-standing (chronic) lung disease rather than an acute change? Select all that apply.",
+   "options": [
+    "Clubbing of the fingernail beds",
+    "Inspiratory stridor audible without a stethoscope",
+    "Heart rate rising from 80 to 112/min over 2 hours",
+    "New restlessness that began this morning",
+    "A barrel-shaped chest"
+   ],
+   "answer": [
+    0,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Clubbing develops over time with chronic hypoxemia, as in COPD.",
+    "Incorrect. Stridor is an acute upper-airway emergency.",
+    "Incorrect. A rapid rise in heart rate is an acute compensatory response.",
+    "Incorrect. Sudden restlessness is an early sign of acute hypoxia, not a chronic finding.",
+    "Correct. A barrel chest reflects chronic air trapping, as in COPD."
+   ],
+   "rationale": "Some respiratory findings develop over months to years and become part of the client’s baseline. Clubbing of the nail beds indicates chronic hypoxemia, and a barrel chest reflects chronic air trapping; both are common in COPD. New restlessness, a rapidly rising heart rate, and stridor are acute changes that need immediate attention. Separating chronic from acute findings matters for prioritization, because a client with dramatic but chronic findings may be more stable than a client with a subtle new change.",
+   "takeaway": "Clubbing and barrel chest are chronic baseline findings; new restlessness, rising HR, and stridor are acute.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask how long each finding would take to develop.",
+   "hintStrategy": "Classify each option by time course: hours versus years."
+  },
+  {
+   "id": "m15-x1-043",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "respiratory-medications"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A client is scheduled for surgery tomorrow. While reviewing the home medication list, which medications should the nurse flag as able to depress the rate and depth of breathing? Select all that apply.",
+   "options": [
+    "Lorazepam 1 mg at bedtime for anxiety",
+    "Albuterol inhaler 2 puffs every 4 hours as needed",
+    "Lisinopril 10 mg daily for hypertension",
+    "Acetaminophen 650 mg every 6 hours as needed",
+    "Zolpidem 5 mg at bedtime for insomnia",
+    "Oxycodone 5 mg every 6 hours as needed for back pain"
+   ],
+   "answer": [
+    0,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Benzodiazepine sedatives can slow breathing, especially when combined with opioids.",
+    "Incorrect. Albuterol is a bronchodilator that opens airways; it does not depress breathing.",
+    "Incorrect. An antihypertensive does not suppress the drive to breathe.",
+    "Incorrect. Acetaminophen does not depress respiration.",
+    "Correct. Sedative-hypnotics add to respiratory depression, particularly with other sedating drugs.",
+    "Correct. Opioids depress the respiratory rate and depth."
+   ],
+   "rationale": "A respiratory medication history includes inhalers and how often they are used, and also any drugs that depress respiratory rate and depth — chiefly opioids and sedatives. Combining these drugs, or adding postoperative opioids to a home regimen, raises the risk of hypoventilation, CO₂ retention, and respiratory acidosis. Flagging them lets the provider and anesthesia team plan safely. Albuterol tempts some students because it is a respiratory drug, but it opens the airways rather than suppressing breathing.",
+   "takeaway": "Ask about opioids and sedatives in every respiratory history — they slow and shallow breathing.",
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "hintContent": "For each drug, ask whether it affects the brain’s drive to breathe.",
+   "hintStrategy": "A drug “related to breathing” is not the same as a drug that depresses breathing — read the stem’s exact question."
+  },
+  {
+   "id": "m15-x1-044",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A nurse is reviewing auscultation findings documented on several clients. Which findings require prompt follow-up? Select all that apply.",
+   "options": [
+    "Low-pitched gurgling in a client with bronchitis that clears after coughing",
+    "High-pitched crowing on inspiration in a client 1 hour after bronchoscopy",
+    "Bronchial sounds over the right lower lobe in a client who was admitted for a hip fracture",
+    "Barely audible breath sounds in a client with asthma who was wheezing loudly earlier",
+    "Soft, low-pitched sounds heard best at the bases of a healthy adult"
+   ],
+   "answer": [
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Incorrect. Rhonchi that clear with coughing are expected with bronchitis and respond to airway clearance.",
+    "Correct. Stridor after bronchoscopy signals upper airway swelling — an emergency.",
+    "Correct. Bronchial sounds in a peripheral field suggest new consolidation that needs evaluation.",
+    "Correct. Diminished sounds after wheezing indicate failing airflow (silent chest).",
+    "Incorrect. Vesicular sounds at the bases are normal."
+   ],
+   "rationale": "Auscultation findings are interpreted in context. Stridor and a silent chest are airway emergencies; bronchial sounds over a peripheral field are a normal sound in the wrong place and suggest new consolidation, such as pneumonia, in a client admitted for an unrelated problem. Rhonchi that clear with coughing in a client with bronchitis are expected and are managed with coughing and deep breathing. The rhonchi option tempts students because any adventitious sound seems abnormal, but abnormal-and-expected is different from new-and-dangerous.",
+   "takeaway": "Stridor, a silent chest, and a normal sound in the wrong place need prompt follow-up.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask whether each finding fits the client’s known condition or signals something new.",
+   "hintStrategy": "“Prompt follow-up” items reward separating expected abnormal findings from unexpected ones."
+  },
+  {
+   "id": "m15-x1-045",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "An RN is working with an assistive personnel (AP) on a respiratory unit. Which tasks can the RN delegate to the AP? Select all that apply.",
+   "options": [
+    "Deciding whether a client’s shortness of breath has improved",
+    "Counting and recording respirations for a stable postoperative client",
+    "Measuring and reporting the SpO₂ of a stable client with pneumonia",
+    "Helping a stable client with COPD sit upright for breakfast",
+    "Teaching a client how to use a new peak flow meter",
+    "Auscultating lung sounds after a client’s nebulizer treatment"
+   ],
+   "answer": [
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Incorrect. Evaluating a client’s response is an RN responsibility.",
+    "Correct. Routine respiratory-rate measurement on a stable client may be delegated.",
+    "Correct. Collecting routine vital signs and SpO₂ on a stable client is within AP scope; the RN interprets the data.",
+    "Correct. Positioning a stable client is a basic care task an AP can perform.",
+    "Incorrect. Client teaching requires RN knowledge and cannot be delegated to an AP.",
+    "Incorrect. Auscultation is an assessment that requires the RN."
+   ],
+   "rationale": "Assistive personnel may collect vital signs, including SpO₂ and respiratory rate, and perform basic care such as positioning stable clients; the RN remains responsible for interpreting what is reported. Assessment (such as auscultation), evaluation of a client’s response, and teaching require RN judgment and cannot be delegated. Auscultation after a treatment is tempting because it seems like a simple data-collection step, but listening to lung sounds is an assessment that requires the RN to interpret the findings.",
+   "takeaway": "APs collect data and give basic care for stable clients; RNs assess, teach, and evaluate.",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "hintContent": "Ask whether each task needs clinical judgment or is a routine, standardized task.",
+   "hintStrategy": "In delegation items, eliminate anything involving assessment, teaching, evaluation, or an unstable client."
+  },
+  {
+   "id": "m15-x1-046",
+   "type": "sata",
+   "topic": "respiratory-assessment",
+   "alsoTests": [
+    "pneumothorax-chest-tubes"
+   ],
+   "ref": "Module 15 · Oxygenation · Respiratory Assessment",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client is admitted with a right-sided pneumothorax. Which assessment findings would the nurse expect on the right side of the chest? Select all that apply.",
+   "options": [
+    "Diminished or absent breath sounds",
+    "Less chest movement than on the left",
+    "Bronchial breath sounds over the lower lobe",
+    "Fine crackles late in inspiration",
+    "Increased tactile fremitus",
+    "Decreased or absent tactile fremitus"
+   ],
+   "answer": [
+    0,
+    1,
+    5
+   ],
+   "optionRationales": [
+    "Correct. Little air moves through the collapsed lung, so breath sounds are reduced or absent.",
+    "Correct. The collapsed lung does not expand, so that side rises less.",
+    "Incorrect. Bronchial sounds in a peripheral field indicate consolidation.",
+    "Incorrect. Crackles reflect fluid or collapsed alveoli popping open, not a pneumothorax.",
+    "Incorrect. Increased fremitus indicates consolidation, not air in the pleural space.",
+    "Correct. Air in the pleural space dampens vibration, so fremitus is decreased or absent."
+   ],
+   "rationale": "Air in the pleural space removes the negative pressure that holds the lung expanded, so the lung collapses. The nurse expects asymmetric chest expansion, with the affected side moving less, diminished or absent breath sounds, and decreased or absent tactile fremitus because vibration travels poorly through air. Increased fremitus and bronchial sounds are the findings of consolidation, the most commonly confused pattern. Remember the rule: solid lung carries sound and vibration better; air carries them worse.",
+   "takeaway": "Pneumothorax: decreased fremitus, decreased breath sounds, decreased chest rise on the affected side.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Think about how well vibration passes through air compared with solid tissue.",
+   "hintStrategy": "Contrast the look-alike condition (consolidation) and eliminate its findings."
+  },
+  {
+   "id": "m15-x1-047",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A client using a morphine patient-controlled analgesia (PCA) pump 8 hours after abdominal surgery has a respiratory rate of 8/min with shallow breaths. The client opens the eyes only to a loud voice and falls back asleep mid-sentence. SpO₂ is 92% on 2 L/min. Which action should the nurse take first?",
+   "options": [
+    "Stimulate the client by name and touch and support the airway",
+    "Increase the oxygen flow rate to 6 L/min by nasal cannula",
+    "Document the findings as an expected opioid effect and recheck in 1 hour",
+    "Teach the family to press the PCA button when the client seems uncomfortable"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Bradypnea with heavy sedation means opioid-induced hypoventilation; rousing the client and keeping the airway open come first.",
+    "Incorrect. Extra oxygen does not correct hypoventilation and can hide rising CO₂ behind a better SpO₂.",
+    "Incorrect. A rate under 10/min with heavy sedation is a dangerous effect that needs action now.",
+    "Incorrect. Family-activated dosing in an oversedated client could cause respiratory arrest."
+   ],
+   "rationale": "Opioids depress the rate and depth of breathing. A rate below 10/min is bradypnea, and slow, shallow breathing is hypoventilation — too little air reaches the alveoli, so CO₂ builds up and respiratory acidosis develops. With heavy sedation, the first action is to stimulate the client and support the airway, then notify the provider and follow the opioid-reversal protocol. Turning up the oxygen is tempting because the SpO₂ is lower than ideal, but it does not fix the ventilation problem and can mask a climbing CO₂.",
+   "takeaway": "Opioid-induced bradypnea with heavy sedation: rouse the client and support the airway before anything else.",
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "hintContent": "Ask whether the problem is getting oxygen in or getting air moving in and out.",
+   "hintStrategy": "Choose the action that directly reverses the life-threatening problem, not one that improves a number."
+  },
+  {
+   "id": "m15-x1-048",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "A nurse on a medical step-down unit is caring for four clients. Which client should the nurse assess first?",
+   "options": [
+    "A client receiving hospice care for end-stage heart failure who has had Cheyne-Stokes breathing for 2 days",
+    "A client with diabetic ketoacidosis on an insulin infusion whose deep, rapid breathing is slowing",
+    "A client with a head injury who has new crescendo–decrescendo breathing with apnea and a dilated pupil",
+    "A client with an anxiety disorder who is breathing 24/min with an SpO₂ of 99% on room air"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. This pattern is known, long-standing, and consistent with the client’s goals of care.",
+    "Incorrect. Kussmaul breathing easing as the acidosis is treated suggests improvement.",
+    "Correct. New Cheyne-Stokes breathing with a pupil change suggests rising intracranial pressure — an acute deterioration.",
+    "Incorrect. Mild tachypnea with normal oxygenation is less urgent than a neurologic decline."
+   ],
+   "rationale": "Cheyne-Stokes respirations — breaths that grow deeper and faster, then slower and shallower, followed by apnea — are associated with heart failure, increased intracranial pressure, and drug overdose. The meaning depends on context: in a client with a head injury, a new Cheyne-Stokes pattern plus a newly dilated pupil signals rising intracranial pressure and possible herniation, requiring immediate assessment and notification. The hospice client is the tempting choice because the pattern is identical, but it is established and expected. Kussmaul breathing that is slowing during treatment for DKA indicates the acidosis is improving.",
+   "takeaway": "The same breathing pattern can be expected in one client and an emergency in another — weigh what is new.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Identify which client’s pattern is new and paired with another sign of decline.",
+   "hintStrategy": "Acute change in an unstable condition beats a chronic or expected pattern."
+  },
+  {
+   "id": "m15-x1-049",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client is 2 days postoperative after a laparoscopic colectomy. Pain is 2/10, and the client is taking shallow breaths and has not used the incentive spirometer. Temperature is 37.9°C (100.2°F), RR 22/min, SpO₂ 92% on room air, and breath sounds are diminished at both bases. Which action should the nurse take first?",
+   "options": [
+    "Ask the provider to prescribe an antibiotic for the fever",
+    "Coach deep breathing and incentive spirometry, then reassess",
+    "Give acetaminophen to bring down the temperature of 37.9°C",
+    "Apply oxygen at 4 L/min and continue to monitor the SpO₂"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A low-grade fever with diminished bases fits atelectasis; there is no evidence of infection yet.",
+    "Correct. Pain is controlled, so the nurse targets the cause of the atelectasis — shallow breathing — with lung-expansion measures.",
+    "Incorrect. Treating the low-grade fever does not reopen the collapsed alveoli causing it.",
+    "Incorrect. Oxygen without lung expansion leaves the cause untreated, and this flow requires a prescription."
+   ],
+   "rationale": "Atelectasis begins when something reduces deep breathing or blocks an airway — pain, anesthesia, immobility, or mucus. Air behind the blockage is absorbed, alveoli collapse, and the client develops diminished breath sounds or crackles at the bases, tachypnea, a falling SpO₂, and often a low-grade fever. Because this client’s pain is already controlled, the nurse treats the cause directly with deep breathing and incentive spirometry, then reassesses. The antibiotic is tempting because of the fever, but early postoperative low-grade fever with diminished bases points to atelectasis, not pneumonia.",
+   "takeaway": "Shallow breathing after surgery causes atelectasis — reexpand the lungs with deep breathing and incentive spirometry.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Check whether pain is the barrier this time, then look for what the client isn’t doing.",
+   "hintStrategy": "Choose the independent action that treats the cause rather than a symptom such as the fever."
+  },
+  {
+   "id": "m15-x1-050",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "stem": "An AP lowered the head of the bed flat to change the linens of a client with heart failure. A few minutes later the client is gasping, says, “I can’t breathe lying down,” and has an SpO₂ of 90% (95% earlier). Which action should the nurse take first?",
+   "options": [
+    "Call the provider to request an additional diuretic dose",
+    "Auscultate the lungs with the client lying flat",
+    "Increase the oxygen flow rate to raise the SpO₂ above 95%",
+    "Raise the head of the bed to high-Fowler’s position"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The provider may need to be informed, but repositioning relieves this client’s distress immediately.",
+    "Incorrect. Keeping the client flat for assessment prolongs the cause of the distress.",
+    "Incorrect. Positioning is the least invasive effective action; changing flow requires a prescription.",
+    "Correct. Orthopnea is relieved by sitting upright, which lowers the diaphragm and redistributes lung fluid."
+   ],
+   "rationale": "Orthopnea is difficulty breathing when lying flat. In the supine position abdominal organs push up on the diaphragm and fluid spreads across the lungs; sitting upright relieves both. The fastest, least invasive effective action is to raise the head of the bed, then reassess and report as needed. Assessing first is the tempting rule, but here the cause is obvious and easily reversed, so the nurse corrects it before gathering more data.",
+   "takeaway": "Orthopnea is relieved by sitting up — reposition first when lying flat caused the distress.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Ask what changed just before the distress started.",
+   "hintStrategy": "When a simple nursing action will reverse the cause, choose it over options needing orders."
+  },
+  {
+   "id": "m15-x1-051",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A 66-year-old client with obstructive sleep apnea is 1 night postoperative after a knee arthroplasty and received oral oxycodone 2 hours ago. The AP reports loud snoring with pauses of about 20 seconds, during which the SpO₂ falls to 84%. Which action should the nurse take first?",
+   "options": [
+    "Ask the AP to check the client again in 1 hour",
+    "Give the next oxycodone dose early so the client sleeps comfortably",
+    "Wake the client and raise the head of the bed, then reassess",
+    "Document the pattern as the client’s usual sleep apnea"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Recurrent apnea with desaturation needs RN assessment now, not later monitoring.",
+    "Incorrect. More opioid would deepen sedation and worsen the apnea.",
+    "Correct. Arousing the client restores breathing effort, and elevating the head opens the airway in a client with sleep apnea on opioids.",
+    "Incorrect. Pauses with SpO₂ dropping to 84% after an opioid are a dangerous change, not baseline."
+   ],
+   "rationale": "Obstructive sleep apnea already causes pauses in breathing, and opioids further slow breathing and relax the upper airway. That combination places the client at high risk for hypoventilation and apnea, especially at night. The nurse wakes the client to restore breathing effort, raises the head of the bed, reassesses rate, SpO₂, and sedation level, and notifies the provider. Documenting the pattern as usual is tempting because the client has a known diagnosis, but desaturation to 84% after an opioid is a new and dangerous change.",
+   "takeaway": "Sleep apnea plus opioids: rouse, raise the head of the bed, and reassess when pauses cause desaturation.",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "hintContent": "Think about what the opioid adds to the client’s existing breathing problem.",
+   "hintStrategy": "A known diagnosis doesn’t make a new, worse finding “baseline.”"
+  },
+  {
+   "id": "m15-x1-052",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "Late in the evening, a client with pneumonia presses the call light and says, “I can’t catch my breath.” RR is 22/min and SpO₂ is 97% on 2 L/min. The client is sitting up and speaking in full sentences. Which action should the nurse take first?",
+   "options": [
+    "Assess breath sounds and effort, and have the client rate the dyspnea",
+    "Tell the client that the oxygen level is normal and breathing is fine",
+    "Give the PRN lorazepam to relieve the client’s apparent anxiety",
+    "Increase the oxygen to 4 L/min to make the client comfortable"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Dyspnea is subjective; the nurse assesses the symptom and the respiratory system rather than relying on the SpO₂ alone.",
+    "Incorrect. Dismissing the report ignores subjective data and could miss an early change.",
+    "Incorrect. Treating the complaint as anxiety before assessing could mask hypoxia and depress breathing.",
+    "Incorrect. Changing flow without assessment and a prescription treats a number, not the client."
+   ],
+   "rationale": "Dyspnea — labored breathing or shortness of breath — is what the client feels, so it is subjective data that the nurse must take seriously. A normal SpO₂ does not rule out a problem: the client could be tiring, retaining CO₂, or developing a new complication. The nurse assesses work of breathing, listens to the lungs, and asks the client to rate the dyspnea and describe what makes it better or worse. Reassuring the client that the oxygen is normal is tempting, but it dismisses subjective data and skips assessment.",
+   "takeaway": "Dyspnea is subjective — assess the client and the symptom, not just the oximeter.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask what kind of data the client’s statement is and how the nurse measures it.",
+   "hintStrategy": "When a stable client reports a symptom, assess before you act or reassure."
+  },
+  {
+   "id": "m15-x1-053",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 19-year-old client with asthma is brought to the student health center breathing 30/min and reports tingling in the fingers. The roommate says, “She’s having a panic attack — give her a paper bag.” The nurse hears expiratory wheezes bilaterally, and SpO₂ is 88% on room air. Which action should the nurse take first?",
+   "options": [
+    "Have the client breathe slowly into a paper bag for several minutes",
+    "Coach slow breathing to correct the client’s respiratory alkalosis",
+    "Ask the roommate what triggered the client’s anxiety today",
+    "Apply oxygen per protocol and prepare the prescribed rescue inhaler"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Rebreathing exhaled air in a hypoxemic client lowers oxygen further and is dangerous.",
+    "Incorrect. Coaching alone does not treat airway narrowing and hypoxemia.",
+    "Incorrect. A history of triggers can wait until oxygenation is addressed.",
+    "Correct. Wheezes with an SpO₂ of 88% point to an asthma exacerbation causing hypoxemia, which must be treated first."
+   ],
+   "rationale": "Hyperventilation from anxiety blows off CO₂ and causes respiratory alkalosis with tingling around the mouth and fingers, but rapid breathing is also how the body compensates for low oxygen. Bilateral wheezes and an SpO₂ of 88% show a narrowed-airway problem with hypoxemia, so the nurse treats this as an asthma exacerbation: apply oxygen per protocol and give the prescribed rescue bronchodilator. The paper bag is the dangerous trap — assuming “panic” before ruling out hypoxia can kill a client whose fast breathing is a response to low oxygen.",
+   "takeaway": "Never assume fast breathing is anxiety until hypoxemia has been ruled out.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Look for objective data that confirm or contradict the roommate’s explanation.",
+   "hintStrategy": "When a benign explanation competes with a dangerous one, treat the dangerous one first."
+  },
+  {
+   "id": "m15-x1-054",
+   "type": "mcq",
+   "priority": true,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A home health nurse visits a client with long-standing COPD. Which finding requires the nurse’s priority action?",
+   "options": [
+    "Clubbed fingernails that the client says have looked this way for years",
+    "New retractions between the ribs with bluish lips and an SpO₂ of 82%",
+    "A barrel-shaped chest noted on every previous visit",
+    "Pursed-lip breathing while walking from the bedroom to the kitchen"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Clubbing is a chronic sign of long-standing hypoxemia, not an acute change.",
+    "Correct. New retractions, cyanosis, and a very low SpO₂ indicate an acute worsening of gas exchange.",
+    "Incorrect. A barrel chest reflects chronic air trapping and is the client’s baseline.",
+    "Incorrect. Pursed-lip breathing is a helpful technique the client uses to keep airways open."
+   ],
+   "rationale": "In COPD, alveolar damage limits gas exchange, leading to CO₂ retention and decreased blood oxygen. Over years, clients develop chronic signs such as clubbing and a barrel chest, and they may learn pursed-lip breathing. New retractions with cyanosis and an SpO₂ of 82% show the client’s gas exchange is acutely worse than baseline and require prompt action. Clubbing is tempting because it is a classic sign of hypoxemia, but it reflects years of low oxygen rather than today’s change.",
+   "takeaway": "In chronic lung disease, new retractions and cyanosis outrank long-standing clubbing or barrel chest.",
+   "cjmm": "Recognize Cues",
+   "focus": "Prioritization",
+   "hintContent": "Decide which finding is new compared with the client’s usual presentation.",
+   "hintStrategy": "New and worsening beats chronic and stable, even when the chronic finding looks dramatic."
+  },
+  {
+   "id": "m15-x1-055",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "A client with diabetic ketoacidosis is breathing deeply and rapidly at 34/min with a regular rhythm. An AP says, “Should I have her breathe into a bag or count slow breaths with her? She’s breathing way too fast.” Which response by the RN is best?",
+   "options": [
+    "“No — her fast, deep breathing is blowing off acid, so we treat the cause instead.”",
+    "“Yes — coach her to breathe slowly so her carbon dioxide level stays normal.”",
+    "“Yes — a paper bag will help her rebreathe carbon dioxide and calm down.”",
+    "“No — she is hyperventilating from anxiety, so give her some quiet privacy.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Kussmaul breathing compensates for metabolic acidosis by eliminating CO₂; slowing it would worsen the acidosis.",
+    "Incorrect. Slowing Kussmaul breathing would let CO₂ build up and drive the pH lower.",
+    "Incorrect. Rebreathing CO₂ in metabolic acidosis adds acid and is dangerous.",
+    "Incorrect. This is compensatory Kussmaul breathing from acidosis, not anxiety-driven hyperventilation."
+   ],
+   "rationale": "Kussmaul breathing is deep, rapid, and regular and occurs in metabolic acidosis such as diabetic ketoacidosis. The deep, fast exhalations eliminate CO₂ to raise the pH — the lungs are compensating for an acid problem the kidneys and insulin therapy must correct. Coaching slower breathing or rebreathing into a bag would let CO₂ rise and make the acidosis worse. The anxiety option is tempting because the rate is fast, but the pattern here is a deliberate compensation, not a panic response.",
+   "takeaway": "Kussmaul breathing is compensation for metabolic acidosis — treat the cause, never slow the breathing.",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "hintContent": "Ask what the deep, rapid breaths are doing to CO₂ and why the body would want that.",
+   "hintStrategy": "When a sign is compensatory, eliminate options that try to suppress it."
+  },
+  {
+   "id": "m15-x1-056",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "Two hours after receiving IV hydromorphone, a client reports a headache and is drowsy. RR is 9/min with shallow breaths. Which statement best describes the alteration in the client’s breathing?",
+   "options": [
+    "Hyperventilation with loss of CO₂, leading toward respiratory alkalosis",
+    "Kussmaul breathing compensating for an underlying metabolic acidosis",
+    "Hypoventilation with retention of CO₂, leading toward respiratory acidosis",
+    "Biot respirations caused by an injury to the central nervous system"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Hyperventilation is rapid and deep; this client is breathing slowly and shallowly.",
+    "Incorrect. Kussmaul breathing is deep and rapid, the opposite of this pattern.",
+    "Correct. Slow, shallow breathing moves too little air, so CO₂ builds up; headache and drowsiness are typical.",
+    "Incorrect. Biot breathing is irregular with apneic periods; this is a slow, regular, shallow pattern from an opioid."
+   ],
+   "rationale": "Hypoventilation is breathing that is too slow or too shallow, so too little air reaches the alveoli and CO₂ is retained, producing respiratory acidosis. Drowsiness and headache are typical symptoms of rising CO₂, and opioids are a common cause. A rate of 9/min is also below the bradypnea cutoff of 10/min. Hyperventilation is the tempting look-alike because both are “ventilation” words, but hyperventilation blows off CO₂ and causes alkalosis with tingling and lightheadedness.",
+   "takeaway": "Hypoventilation retains CO₂ (acidosis, drowsiness); hyperventilation blows it off (alkalosis, tingling).",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Decide whether CO₂ is being retained or blown off at this rate and depth.",
+   "hintStrategy": "With look-alike terms, match the defining feature (rate and depth) before the label."
+  },
+  {
+   "id": "m15-x1-057",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with heart failure told the clinic nurse last week that two pillows let her sleep comfortably. Today she says she has needed four pillows for the past three nights and has begun sleeping in a recliner. How should the nurse interpret this report?",
+   "options": [
+    "Dyspnea on exertion is improving because the client is resting more",
+    "Orthopnea is worsening, and the provider should be notified",
+    "Sleep apnea has developed and requires a sleep study first",
+    "The client is adapting well by choosing a more comfortable chair"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The change involves breathing while lying flat, not during activity, and it is getting worse.",
+    "Correct. Needing more pillows to breathe while lying down shows that orthopnea is increasing.",
+    "Incorrect. Needing to sit upright to breathe describes orthopnea, not obstructive pauses during sleep.",
+    "Incorrect. Sleeping upright is a sign of worsening breathlessness, not successful adaptation."
+   ],
+   "rationale": "Orthopnea is difficulty breathing when lying flat, relieved by sitting up. Tracking the number of pillows the client needs is a simple way to measure it over time: going from two pillows to four and then to a recliner shows the condition is getting worse, often from increasing fluid in the lungs. The nurse reports this change to the provider. The adaptation option is tempting because the client sounds comfortable, but needing to sleep upright is an objective marker of decline.",
+   "takeaway": "More pillows needed to sleep means worsening orthopnea — report it.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "hintContent": "Compare last week’s pillow count with today’s and decide which direction the client is moving.",
+   "hintStrategy": "In evaluation items, compare current data with baseline before deciding whether the client improved."
+  },
+  {
+   "id": "m15-x1-058",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client with three fractured ribs is being discharged. The spouse asks, “Should I wrap his chest tightly with an elastic bandage so his ribs don’t move when he breathes?” Which response by the nurse is best?",
+   "options": [
+    "“Yes, wrapping will reduce his pain so he can breathe more comfortably.”",
+    "“Wrap it only at night, when he is less likely to take deep breaths.”",
+    "“Yes, but loosen the wrap each time he uses his incentive spirometer.”",
+    "“Wrapping would limit his deep breaths and raise the risk of lung collapse.”"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Any comfort is outweighed by restricted chest expansion and atelectasis risk.",
+    "Incorrect. Shallow breathing during sleep already raises atelectasis risk; binding would worsen it.",
+    "Incorrect. Binding between spirometer sessions still limits expansion most of the day.",
+    "Correct. Binding the chest restricts expansion, encouraging shallow breathing and atelectasis."
+   ],
+   "rationale": "After rib fractures, pain causes splinting and shallow breathing, and shallow breathing leads to atelectasis. The goal is to let the client breathe deeply, so the plan is adequate pain control, splinting with a pillow when coughing, and incentive spirometry. Wrapping or binding the chest restricts expansion even further and increases the risk of collapse and pneumonia. The pain-relief option is tempting because it sounds supportive, but trading deep breaths for comfort is the wrong exchange.",
+   "takeaway": "Never bind the chest after rib fractures — control pain so the client can breathe deeply.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Think about what any tight wrap does to how much the chest can expand.",
+   "hintStrategy": "In teaching items, choose the response that corrects a harmful plan while explaining why."
+  },
+  {
+   "id": "m15-x1-059",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A nurse is caring for four postoperative clients. Which client is at greatest risk for atelectasis?",
+   "options": [
+    "A client after a knee arthroscopy who walks the hallway three or four times a day",
+    "A client after a thyroidectomy who uses the incentive spirometer 10 times each hour",
+    "A client after upper abdominal surgery who splints the incision and refuses the spirometer",
+    "A client after cataract surgery who was discharged home later the same afternoon"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Frequent ambulation promotes deep breathing and clearance of secretions.",
+    "Incorrect. Regular incentive spirometry reexpands alveoli and lowers risk.",
+    "Correct. Incisional pain with shallow breathing and no lung-expansion exercises is the classic path to alveolar collapse.",
+    "Incorrect. Brief anesthesia and immediate mobility make atelectasis unlikely."
+   ],
+   "rationale": "Airway obstruction is the primary cause of atelectasis, and anything that reduces deep breathing or coughing — incisional pain, anesthesia, immobility, or mucus — allows airways to plug and alveoli to collapse. Upper abdominal incisions are especially painful with each breath, so clients splint and breathe shallowly. A client who also refuses the incentive spirometer has removed the main protection against collapse. The other clients are ambulating, using the spirometer, or had minimal anesthesia, which all lower risk.",
+   "takeaway": "Painful incisions plus shallow breathing and no lung-expansion exercises put clients at highest risk for atelectasis.",
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Look for the client who combines a reason to breathe shallowly with no lung-expansion activity.",
+   "hintStrategy": "For “greatest risk” items, choose the client with the most risk factors and the fewest protections."
+  },
+  {
+   "id": "m15-x1-060",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with diabetic ketoacidosis has been receiving an insulin infusion for 8 hours. Refer to the exhibit. Which conclusion is most accurate?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Flow Sheet",
+      "table": {
+       "headers": [
+        "Time",
+        "Respirations",
+        "Blood glucose",
+        "ABG"
+       ],
+       "rows": [
+        [
+         "0600",
+         "34/min, deep, regular",
+         "540 mg/dL",
+         "pH 7.18, PaCO₂ 24 mm Hg, HCO₃⁻ 9 mEq/L"
+        ],
+        [
+         "1000",
+         "26/min, deep, regular",
+         "330 mg/dL",
+         "pH 7.27, PaCO₂ 30 mm Hg, HCO₃⁻ 14 mEq/L"
+        ],
+        [
+         "1400",
+         "18/min, normal depth",
+         "210 mg/dL",
+         "pH 7.34, PaCO₂ 36 mm Hg, HCO₃⁻ 20 mEq/L"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Kussmaul breathing is resolving as the metabolic acidosis is corrected",
+    "Respirations are slowing because the client is developing hypoventilation",
+    "The client has developed a new respiratory alkalosis from rapid breathing",
+    "The acidosis is worsening because the PaCO₂ has risen from 24 to 36 mm Hg"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. As bicarbonate and pH rise, the lungs no longer need to blow off as much CO₂, so breathing slows and becomes normal in depth.",
+    "Incorrect. PaCO₂ is returning to normal, not rising above 45 mm Hg, so this is not hypoventilation.",
+    "Incorrect. The pH is still slightly acidic and rising toward normal; there is no alkalosis.",
+    "Incorrect. The pH is rising toward normal; the PaCO₂ is rising because less respiratory compensation is needed."
+   ],
+   "rationale": "Kussmaul breathing — deep, rapid, regular respirations — is the lungs’ compensation for metabolic acidosis: blowing off CO₂ raises the pH. As insulin therapy corrects the ketoacidosis, HCO₃⁻ climbs toward normal and the need for compensation fades, so the rate slows, depth normalizes, and PaCO₂ rises back toward 35–45 mm Hg. Slowing breathing in this context is a sign of improvement. The hypoventilation option tempts students who see the rate falling, but hypoventilation would push PaCO₂ above normal rather than back into the normal range.",
+   "takeaway": "As metabolic acidosis is corrected, Kussmaul breathing slows and PaCO₂ returns toward normal.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Pathophysiology",
+   "hintContent": "Track all three columns together: breathing, glucose, and bicarbonate.",
+   "hintStrategy": "In trend exhibits, decide the direction of each value before choosing a conclusion."
+  },
+  {
+   "id": "m15-x1-061",
+   "type": "mcq",
+   "priority": false,
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "oxygen-therapy"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "A nurse is planning care for a client with pneumonia who becomes dyspneic with activity. Which nursing action requires a prescription from the provider?",
+   "options": [
+    "Raising the head of the bed to high-Fowler’s position",
+    "Scheduling rest periods between bathing and ambulation",
+    "Coaching slow, deep breaths during periods of dyspnea",
+    "Increasing the oxygen flow rate from 2 to 4 L/min"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Positioning to improve lung expansion is an independent nursing action.",
+    "Incorrect. Pacing activities to match tolerance is an independent nursing intervention.",
+    "Incorrect. Deep-breathing coaching is within the nurse’s independent scope.",
+    "Correct. Oxygen is a medication, so changing the flow rate requires a provider’s prescription or protocol."
+   ],
+   "rationale": "Many interventions that improve gas exchange and breathing patterns are independent — the nurse can perform them without an order. These include positioning, deep-breathing exercises, pursed-lip breathing, pacing activities and monitoring activity tolerance, promoting secretion clearance, and assisting with ADLs. Medications and changes to the oxygen prescription, however, require a provider’s order or an approved protocol. Students sometimes pick positioning because it seems “medical,” but it is a core independent nursing intervention.",
+   "takeaway": "Positioning, breathing coaching, and pacing are independent; changing oxygen flow needs a prescription.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "Ask which option involves a medication.",
+   "hintStrategy": "For scope-of-practice items, treat oxygen like any other drug."
+  },
+  {
+   "id": "m15-x1-062",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client is 1 day postoperative after an open cholecystectomy. Breath sounds are diminished at both bases and SpO₂ is 92% on room air. Which independent nursing actions should the nurse include to improve the client’s breathing pattern? Select all that apply.",
+   "options": [
+    "Assist the client to walk in the hallway several times a day",
+    "Increase the oxygen to 4 L/min by nasal cannula",
+    "Apply a snug abdominal binder so the incision moves less with each breath",
+    "Coach the client to use the incentive spirometer 10 times every hour while awake",
+    "Teach the client to splint the incision with a pillow when coughing"
+   ],
+   "answer": [
+    0,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Ambulation promotes deeper breathing and helps mobilize secretions.",
+    "Incorrect. Starting or changing oxygen requires a prescription or protocol; it is not an independent action.",
+    "Incorrect. Restricting movement with every breath encourages shallow breathing and worsens atelectasis; splinting only during coughing is the better approach.",
+    "Correct. Slow, deep breaths with the spirometer reexpand collapsed alveoli.",
+    "Correct. Splinting reduces incisional pain so the client can cough and breathe deeply."
+   ],
+   "rationale": "Postoperative atelectasis develops when pain, anesthesia, and immobility reduce deep breathing and coughing, so airways plug and alveoli collapse. Independent nursing actions that reverse this include deep breathing and incentive spirometry, early ambulation, and teaching the client to splint the incision so coughing hurts less. Oxygen is tempting because the SpO₂ is low, but it is a medication that requires a prescription and does not reopen collapsed alveoli by itself. Anything that restricts chest or abdominal movement makes shallow breathing worse.",
+   "takeaway": "Treat atelectasis with independent lung-expansion actions: incentive spirometry, ambulation, and splinted coughing.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "For each option, ask whether it makes breaths deeper and whether the nurse can do it without an order.",
+   "hintStrategy": "When the stem says “independent,” eliminate anything that requires a prescription."
+  },
+  {
+   "id": "m15-x1-063",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "diagnostics-abg"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A college student is brought to the campus clinic during a panic attack. The student is breathing rapidly and deeply. Breath sounds are clear, and SpO₂ is 99% on room air. Which findings would the nurse expect? Select all that apply.",
+   "options": [
+    "Numbness and tingling around the mouth",
+    "A PaCO₂ above 45 mm Hg on an arterial blood gas",
+    "Lightheadedness or dizziness",
+    "Drowsiness and a dull headache from CO₂ buildup",
+    "Tingling in the fingers"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Correct. Blowing off CO₂ causes respiratory alkalosis, which produces perioral tingling.",
+    "Incorrect. Hyperventilation lowers PaCO₂ below 35, not above 45.",
+    "Correct. Low CO₂ from hyperventilation commonly causes lightheadedness.",
+    "Incorrect. These are signs of CO₂ retention from hypoventilation, the opposite problem.",
+    "Correct. Respiratory alkalosis often causes tingling in the hands and fingers."
+   ],
+   "rationale": "Hyperventilation is rapid, deep breathing that blows off too much CO₂, lowering PaCO₂ and causing respiratory alkalosis. Typical symptoms include tingling around the mouth and in the fingers and lightheadedness. Because the lungs are clear and SpO₂ is normal, anxiety is the likely driver in this client. The drowsiness-and-headache option tempts students who remember that CO₂ changes cause symptoms but mix up the direction: those symptoms come from CO₂ retention in hypoventilation.",
+   "takeaway": "Hyperventilation → low CO₂ → respiratory alkalosis → tingling and lightheadedness.",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Decide whether CO₂ is rising or falling, then match the symptoms.",
+   "hintStrategy": "Look-alike items: pair each symptom with its direction of CO₂ change before selecting."
+  },
+  {
+   "id": "m15-x1-064",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "stem": "A charge nurse reviews clients receiving opioids on a surgical unit. Which clients are at increased risk for opioid-induced hypoventilation? Select all that apply.",
+   "options": [
+    "A client who has used oxycodone for 1 week with stable sedation and RR 16/min",
+    "A client who walks the hallway hourly and uses the incentive spirometer",
+    "A client receiving IV morphine who also takes lorazepam at bedtime",
+    "A client with COPD who retains CO₂ at baseline",
+    "A 72-year-old client with obstructive sleep apnea in the first night after surgery"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Stable sedation and a normal rate after a week suggest tolerance of the dose.",
+    "Incorrect. Frequent activity and deep breathing lower the risk of hypoventilation.",
+    "Correct. Combining an opioid with a sedative adds to respiratory depression.",
+    "Correct. Opioids further depress breathing in a client who already retains CO₂.",
+    "Correct. Sleep apnea already causes pauses in breathing, and opioids worsen airway relaxation and respiratory depression."
+   ],
+   "rationale": "Hypoventilation — breathing too slowly or shallowly — causes CO₂ retention and respiratory acidosis, and opioids are a leading cause. Risk climbs when other factors already depress breathing or obstruct the airway: obstructive sleep apnea, older age, concurrent sedatives such as benzodiazepines, and chronic CO₂ retention from COPD. For these clients the nurse checks rate, depth, and sedation level before every dose, keeps the head of the bed up, uses continuous monitoring as ordered, and avoids extra sedating drugs. The stable client on oxycodone tempts students because all opioids carry risk, but this client shows no added risk factors and stable findings.",
+   "takeaway": "Sleep apnea, sedatives, older age, and CO₂ retention multiply the risk of opioid-induced hypoventilation.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "hintContent": "Look for anything that already slows breathing or narrows the airway before the opioid is added.",
+   "hintStrategy": "For “at increased risk” SATA items, select clients with stacked risk factors, not merely the drug."
+  },
+  {
+   "id": "m15-x1-065",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with long-standing COPD is admitted for a routine procedure. Which findings would the nurse expect as a result of the client’s impaired gas exchange? Select all that apply.",
+   "options": [
+    "Clubbed nail beds",
+    "A PaCO₂ above 45 mm Hg",
+    "Deep, rapid, regular Kussmaul respirations",
+    "Retractions between the ribs during breathing",
+    "A PaCO₂ below 35 mm Hg"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Clubbing reflects oxygen levels that have been low for a long time.",
+    "Correct. Alveolar damage limits CO₂ removal, causing CO₂ retention.",
+    "Incorrect. Kussmaul breathing occurs in metabolic acidosis, not chronic COPD.",
+    "Correct. Retractions show the extra effort needed to breathe with damaged lungs.",
+    "Incorrect. Low CO₂ reflects hyperventilation, not the CO₂ retention typical of COPD."
+   ],
+   "rationale": "In COPD, alveolar damage limits the exchange of O₂ and CO₂, so CO₂ is retained and blood oxygen falls. Over time, the client may show retractions from the effort of breathing, cyanosis, and clubbed nail beds from chronic low oxygen. A PaCO₂ above 45 mm Hg (hypercarbia) fits CO₂ retention. Kussmaul respirations are tempting because they are a named abnormal pattern, but they reflect the lungs compensating for metabolic acidosis, not a gas-exchange disease.",
+   "takeaway": "COPD → CO₂ retention and low O₂ → retractions, cyanosis, clubbing, PaCO₂ above 45.",
+   "cjmm": "Recognize Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Ask which direction CO₂ moves when damaged alveoli cannot exchange gas.",
+   "hintStrategy": "Eliminate options that describe a different disease process, even if they are abnormal."
+  },
+  {
+   "id": "m15-x1-066",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse on a medical-surgical unit observes the breathing patterns of several clients. Which findings require the nurse to notify the provider promptly? Select all that apply.",
+   "options": [
+    "A client with a subarachnoid hemorrhage who now has shallow, irregular breaths with random pauses",
+    "A client with panic disorder whose rapid breathing and finger tingling resolved after coached slow breathing",
+    "A client with emphysema who uses pursed-lip breathing while walking back from the bathroom",
+    "A client with new-onset diabetes who has fruity breath and deep, rapid, regular breathing",
+    "A client admitted after a sleeping-pill overdose who has crescendo–decrescendo breathing with pauses"
+   ],
+   "answer": [
+    0,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Correct. New Biot breathing signals worsening central nervous system function.",
+    "Incorrect. The hyperventilation responded to an independent intervention and has resolved.",
+    "Incorrect. Pursed-lip breathing is an effective technique the client is using appropriately.",
+    "Correct. Kussmaul breathing indicates metabolic acidosis, which needs prompt treatment of the cause.",
+    "Correct. Cheyne-Stokes respirations can accompany drug overdose and signal serious respiratory depression."
+   ],
+   "rationale": "The named breathing patterns each point to a cause. Biot respirations — shallow breathing with irregular apneic periods — occur in central nervous system disorders and signal a worsening brain condition. Cheyne-Stokes respirations — crescendo–decrescendo cycles with apnea — occur with heart failure, increased intracranial pressure, and drug overdose. Kussmaul respirations — deep, rapid, and regular — indicate metabolic acidosis, such as diabetic ketoacidosis; the breathing should not be slowed, but the acidosis needs urgent treatment. Pursed-lip breathing and resolved hyperventilation are tempting because they involve altered breathing, but both show effective self-management or an intervention that worked.",
+   "takeaway": "Biot, new Cheyne-Stokes, and Kussmaul patterns each point to a serious cause the provider must treat.",
+   "cjmm": "Take Action",
+   "focus": "Assessment Findings",
+   "hintContent": "Name each pattern, then recall the condition it signals.",
+   "hintStrategy": "Separate abnormal patterns that signal disease from altered breathing that reflects a helpful technique."
+  },
+  {
+   "id": "m15-x1-067",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse is classifying the oxygenation problems of several clients. Which clients have an alteration primarily in airway patency? Select all that apply.",
+   "options": [
+    "A client with emphysema whose damaged alveoli limit O₂ and CO₂ exchange",
+    "A client with heart failure who has Cheyne-Stokes respirations",
+    "A child who inhaled a small toy that lodged in a bronchus",
+    "A client with acute bronchitis whose inflamed airway lining has swollen",
+    "A client with thick mucus plugs in the bronchi after pneumonia"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Alveolar damage is a gas-exchange alteration, not an airway blockage.",
+    "Incorrect. Cheyne-Stokes is an alteration in respiratory pattern.",
+    "Correct. A foreign body obstructs airflow through the airway.",
+    "Correct. Inflammation swells the lining and narrows the passage.",
+    "Correct. Thick sputum physically blocks the airway."
+   ],
+   "rationale": "Alterations in oxygenation can be described in three areas: gas exchange (is O₂ crossing into the blood and CO₂ leaving?), airway patency (is the airway open?), and respiratory pattern (is the rate, depth, and rhythm normal?). Thick sputum, a foreign body, and inflammation of the airway lining all block or narrow the airway, so they are airway-patency problems — and airway obstruction is the primary cause of atelectasis. Emphysema is the tempting distractor because it is an obstructive disease, but its defining problem in this framework is alveolar damage limiting gas exchange.",
+   "takeaway": "Airway patency asks “Is the tube open?” — mucus, foreign bodies, and inflammation close it.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Picture the airway as a tube; ask whether anything is blocking or narrowing it.",
+   "hintStrategy": "Use the three-category framework to sort each client before selecting."
+  },
+  {
+   "id": "m15-x1-068",
+   "type": "sata",
+   "topic": "breathing-patterns",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Breathing Patterns",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse is assessing a client with pneumonia who reports shortness of breath. Which data are subjective? Select all that apply.",
+   "options": [
+    "“I feel like I can’t get enough air.”",
+    "SpO₂ of 91% on room air",
+    "The client says breathing is worse when lying flat",
+    "The client rates the breathlessness as 7 on a 0–10 scale",
+    "Respiratory rate of 26/min",
+    "Neck muscles tightening with each breath"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The client’s description of breathlessness is subjective data.",
+    "Incorrect. A device measurement is objective data.",
+    "Correct. A report of orthopnea from the client is subjective.",
+    "Correct. A self-rating of dyspnea is the client’s report and therefore subjective.",
+    "Incorrect. A counted rate is objective, measurable data.",
+    "Incorrect. Accessory muscle use is observed by the nurse and is objective."
+   ],
+   "rationale": "Dyspnea is labored breathing or shortness of breath — something the client feels — so it is subjective data. The nurse collects it by asking the client to describe it, rate it, and identify what makes it better or worse; a report of breathlessness when lying flat (orthopnea) is also subjective. Respiratory rate, accessory muscle use, and SpO₂ are objective because the nurse counts, observes, or measures them. Students sometimes mark the 0–10 rating as objective because it is a number, but the number comes from the client’s own perception.",
+   "takeaway": "What the client feels and reports is subjective — even when it is expressed as a number.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask who generated each piece of data: the client or the nurse’s senses and devices.",
+   "hintStrategy": "A number does not make data objective; the source does."
+  },
+  {
+   "id": "m15-x1-069",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 24-year-old client is being treated in the emergency department for a severe asthma exacerbation. Refer to the exhibit. Which action should the nurse take first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Assessment Trend",
+      "table": {
+       "headers": [
+        "Time",
+        "RR",
+        "Breath sounds / LOC",
+        "SpO₂",
+        "ABG"
+       ],
+       "rows": [
+        [
+         "0800",
+         "34/min",
+         "Loud wheezes bilaterally; anxious, alert",
+         "90% on 4 L/min",
+         "pH 7.49, PaCO₂ 31 mm Hg, HCO₃⁻ 24 mEq/L, PaO₂ 64 mm Hg"
+        ],
+        [
+         "0930",
+         "20/min",
+         "Faint wheezes; drowsy, slow to answer",
+         "87% on 4 L/min",
+         "pH 7.38, PaCO₂ 44 mm Hg, HCO₃⁻ 24 mEq/L, PaO₂ 58 mm Hg"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Document that the ABG has returned to normal limits",
+    "Notify the provider immediately that the client is tiring",
+    "Allow the client to rest because the respiratory rate has improved",
+    "Repeat the ABG in 1 hour to confirm the trend"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. The numbers are “normal” only because CO₂ is rising toward failure; the trend and the client’s condition are worsening.",
+    "Correct. A CO₂ that has climbed from 31 to 44 with drowsiness and fainter wheezes means the client can no longer blow off CO₂ — impending respiratory failure.",
+    "Incorrect. A slower rate with drowsiness reflects exhaustion, not improvement.",
+    "Incorrect. Waiting an hour risks respiratory arrest in a client who is already decompensating."
+   ],
+   "rationale": "Early in an asthma attack the client breathes fast and blows off CO₂, so PaCO₂ is low and pH is alkalotic. As the client tires, CO₂ is no longer removed and begins to climb; a “normal” or rising CO₂ in an asthma exacerbation is ominous. Here the CO₂ rose from 31 to 44 while the client became drowsy, the wheezes faded, and the PaO₂ and SpO₂ fell — signs of impending respiratory failure that require immediate provider notification. Documenting a normal ABG is the trap: each value is within range, but the trend shows the client is losing the fight.",
+   "takeaway": "In an asthma attack, a normal or rising PaCO₂ with drowsiness means the client is tiring — escalate now.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Prioritization",
+   "hintContent": "Compare 0930 with 0800 for every column, not just whether 0930 values are “normal.”",
+   "hintStrategy": "In trend exhibits, interpret the direction of change in context, not single values in isolation."
+  },
+  {
+   "id": "m15-x1-070",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "oxygen-therapy"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A 70-year-old client rescued from a house fire reports a throbbing headache and is confused. RR is 24/min, and SpO₂ reads 99% on room air. Which action should the nurse take first?",
+   "options": [
+    "Apply oxygen per protocol and anticipate a carboxyhemoglobin level",
+    "Reassure the client that the oxygen level is normal and observe",
+    "Move the probe to an earlobe to confirm the accuracy of the reading",
+    "Give acetaminophen for the headache and reassess in 1 hour"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. A standard oximeter cannot distinguish carbon monoxide from oxygen on hemoglobin, so the nurse treats suspected poisoning and anticipates co-oximetry.",
+    "Incorrect. The SpO₂ may be falsely normal with carbon monoxide poisoning; confusion and headache suggest tissue hypoxia.",
+    "Incorrect. A different site still cannot tell carbon monoxide from oxygen, so this delays treatment.",
+    "Incorrect. Treating the headache alone ignores a likely life-threatening cause."
+   ],
+   "rationale": "Carbon monoxide binds to hemoglobin, and a standard pulse oximeter cannot tell carbon monoxide from oxygen on hemoglobin. As a result, SpO₂ may read normal or even high while the client is severely hypoxic, which is why headache and confusion after smoke inhalation are taken seriously. The nurse applies oxygen per protocol and anticipates an ABG with co-oximetry to measure carboxyhemoglobin. Moving the probe is tempting because it is the standard fix for an unreliable reading, but no site can detect carbon monoxide.",
+   "takeaway": "After smoke exposure, a normal SpO₂ does not rule out carbon monoxide poisoning — treat and check carboxyhemoglobin.",
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "hintContent": "Recall which situations make a pulse oximeter read falsely normal.",
+   "hintStrategy": "When a device reading conflicts with the client’s symptoms, ask whether the device has a known blind spot."
+  },
+  {
+   "id": "m15-x1-071",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "One hour after a flexible bronchoscopy with a topical throat anesthetic, a client who is awake and alert says, “My mouth is so dry — can I please have some water?” Which action should the nurse take first?",
+   "options": [
+    "Offer small sips of cool water through a straw to moisten the mouth",
+    "Offer a few ice chips so the client can moisten the mouth slowly",
+    "Check that the gag reflex has returned before giving anything by mouth",
+    "Give a throat lozenge to soothe the dryness and the sore throat"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Even small sips can be aspirated if the gag reflex has not returned.",
+    "Incorrect. Ice chips melt into water that can be aspirated without a gag reflex.",
+    "Correct. The throat was numbed; until the gag reflex returns, any fluid could be aspirated.",
+    "Incorrect. A lozenge is something by mouth and is a choking risk while the throat is numb."
+   ],
+   "rationale": "Bronchoscopy passes a scope into the airways, and the throat is anesthetized so the client can tolerate it. Until the gag reflex returns, the client cannot protect the airway and could aspirate food, fluids, ice, or a lozenge. The nurse checks the gag reflex before offering anything by mouth. Ice chips are the most tempting option because they seem gentler than water, but they still enter the airway as fluid if the reflex is absent.",
+   "takeaway": "After bronchoscopy, nothing by mouth until the gag reflex returns.",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "hintContent": "Think about what the topical anesthetic did to the client’s protective reflexes.",
+   "hintStrategy": "When every option offers something by mouth, look for the one that checks safety first."
+  },
+  {
+   "id": "m15-x1-072",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with asthma calls the clinic and reports a peak flow reading of 210 L/min that has not improved 20 minutes after two puffs of albuterol. The client’s personal best is 500 L/min, and the client is speaking in short phrases. Which instruction is most important for the nurse to give?",
+   "options": [
+    "“Take two more puffs of albuterol and recheck your peak flow in an hour.”",
+    "“Call 911 or have someone take you to the emergency department now.”",
+    "“Follow the yellow-zone steps in your action plan and call back tonight.”",
+    "“Rest quietly, and we can schedule an office visit for tomorrow.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. Waiting an hour in the red zone with breathlessness delays emergency care.",
+    "Correct. 210 L/min is 42% of personal best — the red zone — and not improving after rescue medicine, so the client needs emergency care.",
+    "Incorrect. Yellow zone is 50–79% of personal best; this reading is below 50%.",
+    "Incorrect. Delaying care for a red-zone reading with short-phrase speech could be fatal."
+   ],
+   "rationale": "Peak expiratory flow is compared with the client’s personal best. The green zone is 80% or more (good control), the yellow zone is 50–79% (use rescue medicine and follow the action plan), and the red zone is below 50%, a medical emergency. A reading of 210 L/min is 42% of 500, and it has not responded to albuterol; speaking only in short phrases confirms severe distress. The yellow-zone option is tempting because rescue medicine has been tried, but the number places the client in the red zone, which calls for emergency care.",
+   "takeaway": "Peak flow below 50% of personal best — especially after rescue medicine — means emergency care now.",
+   "cjmm": "Take Action",
+   "focus": "Client Teaching",
+   "hintContent": "Calculate the reading as a percentage of the client’s personal best.",
+   "hintStrategy": "For action-plan items, place the value in its zone before choosing the instruction."
+  },
+  {
+   "id": "m15-x1-073",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "stem": "A 27-year-old client is scheduled for a chest x-ray to evaluate a persistent cough. While the nurse prepares her, she says, “My period is about two weeks late.” Which action should the nurse take first?",
+   "options": [
+    "Proceed because a chest x-ray delivers a very small dose of radiation",
+    "Remove her necklace and send her to radiology as scheduled",
+    "Document the late period in the chart after the x-ray is completed",
+    "Hold the x-ray and notify the provider of the possible pregnancy"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. The nurse does not decide that the risk is acceptable; the provider needs this information first.",
+    "Incorrect. Removing metal is appropriate preparation, but it does not address the possible pregnancy.",
+    "Incorrect. Documenting afterward fails to protect a possible pregnancy from exposure.",
+    "Correct. Possible pregnancy must be reported before radiation exposure so the provider can decide how to proceed."
+   ],
+   "rationale": "Preparation for a chest x-ray includes removing metal from the chest area and asking about pregnancy, because radiation can harm a developing fetus. A late period is a possible pregnancy, and the nurse reports it to the provider before the test so the provider can decide whether to order a pregnancy test, shield, or change the plan. Proceeding because the dose is small is tempting, but that is a provider decision made with full information. Safety screening is completed before the procedure, not documented afterward.",
+   "takeaway": "Ask about pregnancy before any chest x-ray and report a possible pregnancy before exposure.",
+   "cjmm": "Recognize Cues",
+   "focus": "Delegation & Safety",
+   "hintContent": "Recall the two standard safety checks before a chest x-ray.",
+   "hintStrategy": "When new information changes the risk of a procedure, hold it and inform the provider."
+  },
+  {
+   "id": "m15-x1-074",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "Fifteen minutes after a radial arterial blood gas was drawn and pressure was held for 5 minutes, a client reports numbness in the fingers of that hand. The hand is pale and cool, and capillary refill is 5 seconds. Which action should the nurse take first?",
+   "options": [
+    "Apply a tight pressure dressing over the puncture site",
+    "Elevate the hand above the heart and recheck in 1 hour",
+    "Notify the provider of impaired circulation to the hand",
+    "Place a warm pack on the hand to improve circulation"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. Tight compression could further reduce arterial flow to the hand.",
+    "Incorrect. Elevation reduces arterial inflow, and waiting delays treatment of ischemia.",
+    "Correct. Pallor, coolness, numbness, and delayed refill after an arterial puncture indicate compromised arterial flow that needs prompt evaluation.",
+    "Incorrect. Warmth does not restore blocked arterial flow and can injure numb tissue."
+   ],
+   "rationale": "Arterial blood is under high pressure, so bleeding is the main risk after an ABG, and the nurse holds firm pressure for at least 5 minutes (10 minutes or more with anticoagulants). Afterward the nurse checks the site and the hand’s circulation — color, warmth, capillary refill, and pulse. A pale, cool, numb hand with delayed capillary refill suggests arterial flow is compromised, which requires prompt provider evaluation. A tight pressure dressing is tempting because it seems to protect the site, but it could worsen ischemia.",
+   "takeaway": "After an ABG, check the hand; pallor, coolness, numbness, or slow refill must be reported promptly.",
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "hintContent": "Identify which structure the puncture affected and what these signs say about blood flow beyond it.",
+   "hintStrategy": "For possible ischemia, avoid any option that further restricts flow or delays evaluation."
+  },
+  {
+   "id": "m15-x1-075",
+   "type": "mcq",
+   "priority": true,
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "breathing-patterns"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "stem": "A nurse receives arterial blood gas results for four clients. Refer to the exhibit. Which client should the nurse address first?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "ABG Results",
+      "table": {
+       "headers": [
+        "Client",
+        "Situation",
+        "pH",
+        "PaCO₂ (mm Hg)",
+        "HCO₃⁻ (mEq/L)",
+        "PaO₂ (mm Hg)"
+       ],
+       "rows": [
+        [
+         "W",
+         "COPD, routine clinic visit, usual dyspnea",
+         "7.36",
+         "55",
+         "30",
+         "62"
+        ],
+        [
+         "X",
+         "Anxious before elective surgery",
+         "7.47",
+         "33",
+         "24",
+         "96"
+        ],
+        [
+         "Y",
+         "Postoperative day 1 on opioid PCA, difficult to arouse",
+         "7.24",
+         "66",
+         "25",
+         "64"
+        ],
+        [
+         "Z",
+         "DKA, 10 hours on insulin infusion",
+         "7.33",
+         "33",
+         "18",
+         "92"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Client Y, who is difficult to arouse on an opioid PCA",
+    "Client W, who has COPD and is at a routine clinic visit",
+    "Client X, who is anxious before surgery",
+    "Client Z, who has DKA and is on an insulin infusion"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Uncompensated respiratory acidosis with hypoxemia and decreased responsiveness signals dangerous hypoventilation.",
+    "Incorrect. Normal pH with high CO₂ and high HCO₃⁻ is fully compensated respiratory acidosis — this client’s baseline.",
+    "Incorrect. Mild uncompensated respiratory alkalosis from anxiety is not immediately dangerous.",
+    "Incorrect. Partially compensated metabolic acidosis that is improving on insulin is less urgent than acute hypoventilation."
+   ],
+   "rationale": "Interpret each ABG in order: pH, PaCO₂, HCO₃⁻, match, compensation, then oxygen. Client Y has a pH of 7.24 with a PaCO₂ of 66 and a normal HCO₃⁻ — uncompensated respiratory acidosis — plus hypoxemia and decreased responsiveness, a picture of opioid-induced hypoventilation that can progress to arrest. Client W is tempting because the CO₂ is high, but the normal pH and elevated HCO₃⁻ show long-standing, fully compensated respiratory acidosis. Acute, uncompensated, and symptomatic outranks chronic and compensated.",
+   "takeaway": "An acute, uncompensated acidosis with a declining level of consciousness outranks a compensated chronic ABG.",
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "hintContent": "Interpret each ABG fully, then ask which client is acute and symptomatic.",
+   "hintStrategy": "Uncompensated and symptomatic beats compensated and baseline."
+  },
+  {
+   "id": "m15-x1-076",
+   "type": "mcq",
+   "priority": false,
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client has had persistent vomiting for 3 days and is admitted for dehydration. Refer to the exhibit. Which interpretation of the arterial blood gas is accurate?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Result",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "pH",
+         "7.50",
+         "7.35–7.45"
+        ],
+        [
+         "PaCO₂",
+         "47 mm Hg",
+         "35–45 mm Hg"
+        ],
+        [
+         "HCO₃⁻",
+         "34 mEq/L",
+         "22–26 mEq/L"
+        ],
+        [
+         "PaO₂",
+         "90 mm Hg",
+         "80–100 mm Hg"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Uncompensated respiratory alkalosis",
+    "Fully compensated metabolic alkalosis",
+    "Partially compensated respiratory acidosis",
+    "Partially compensated metabolic alkalosis"
+   ],
+   "answer": 3,
+   "optionRationales": [
+    "Incorrect. Respiratory alkalosis requires a low PaCO₂; this PaCO₂ is high.",
+    "Incorrect. Full compensation requires a pH back within 7.35–7.45; 7.50 is still alkalotic.",
+    "Incorrect. The pH is alkalotic, not acidotic, so this cannot be an acidosis.",
+    "Correct. pH and HCO₃⁻ are both high (same direction = metabolic), and the CO₂ is rising to compensate while pH is still abnormal."
+   ],
+   "rationale": "Work the steps. The pH of 7.50 is alkalosis. The PaCO₂ of 47 is on the acid side, so it does not match; the HCO₃⁻ of 34 is high (base) and matches, so the cause is metabolic — consistent with losing stomach acid through vomiting. Because the PaCO₂ has moved in the opposite direction (the lungs retaining CO₂ to compensate) but the pH is still abnormal, the result is partially compensated. Fully compensated is tempting because both values are abnormal, but full compensation requires a pH back inside 7.35–7.45.",
+   "takeaway": "Two abnormal values with an abnormal pH = partial compensation; a normal pH = full compensation.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Find which value matches the pH direction, then check whether pH is back in range.",
+   "hintStrategy": "ROME: in a metabolic problem, pH and HCO₃⁻ move in the same direction."
+  },
+  {
+   "id": "m15-x1-077",
+   "type": "mcq",
+   "priority": false,
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A client with chronic kidney disease comes to the nephrology clinic for a routine visit and reports feeling at baseline. Refer to the exhibit. Which interpretation of the arterial blood gas is accurate?",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Result",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "pH",
+         "7.36",
+         "7.35–7.45"
+        ],
+        [
+         "PaCO₂",
+         "30 mm Hg",
+         "35–45 mm Hg"
+        ],
+        [
+         "HCO₃⁻",
+         "16 mEq/L",
+         "22–26 mEq/L"
+        ],
+        [
+         "PaO₂",
+         "92 mm Hg",
+         "80–100 mm Hg"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "options": [
+    "Fully compensated respiratory alkalosis",
+    "Fully compensated metabolic acidosis",
+    "Partially compensated metabolic acidosis",
+    "Uncompensated metabolic acidosis"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. A primary respiratory alkalosis would leave the pH on the alkaline side of 7.40.",
+    "Correct. The pH is normal but on the acid side of 7.40, HCO₃⁻ is low (matches acid), and CO₂ is low from respiratory compensation.",
+    "Incorrect. The pH is within 7.35–7.45, so compensation is complete, not partial.",
+    "Incorrect. Uncompensated means the PaCO₂ is normal and the pH abnormal; here both differ."
+   ],
+   "rationale": "When the pH is within 7.35–7.45 but both PaCO₂ and HCO₃⁻ are abnormal, the imbalance is fully compensated, and the side of 7.40 on which the pH sits names the original problem. A pH of 7.36 sits on the acid side. The low HCO₃⁻ is an acid-side value that matches, so the primary problem is metabolic acidosis — consistent with kidneys that cannot retain bicarbonate. The low PaCO₂ is the lungs compensating. Respiratory alkalosis is the tempting look-alike because the CO₂ is low, but the pH on the acid side identifies acidosis as the original disorder.",
+   "takeaway": "With a normal pH and two abnormal values, the side of 7.40 tells you the original disorder.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "Note which side of 7.40 the pH falls on before deciding which value is primary.",
+   "hintStrategy": "Use the 7.40 midpoint as a tiebreaker for fully compensated ABGs."
+  },
+  {
+   "id": "m15-x1-078",
+   "type": "mcq",
+   "priority": false,
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A 61-year-old client with suspected COPD is scheduled for outpatient pulmonary function tests (PFTs) tomorrow. Which statement by the client indicates understanding of the preparation?",
+   "options": [
+    "“I won’t smoke beforehand, and I’ll follow the instructions about holding my inhalers.”",
+    "“I’ll take two extra puffs of my inhaler right before the test so I do my best.”",
+    "“I need to stay in bed for several hours afterward because of the scope.”",
+    "“I can’t eat or drink anything afterward until my gag reflex comes back.”"
+   ],
+   "answer": 0,
+   "optionRationales": [
+    "Correct. Smoking and inhaler use can alter results, so clients avoid smoking and follow inhaler-holding instructions.",
+    "Incorrect. Using an inhaler just before testing can change the results unless the provider instructs otherwise.",
+    "Incorrect. PFTs involve breathing into a machine; no scope is inserted.",
+    "Incorrect. That precaution applies after bronchoscopy, not after PFTs."
+   ],
+   "rationale": "Pulmonary function tests measure lung volumes and how quickly air moves out of the lungs; they help identify obstructive disease such as asthma and COPD. Because the client must breathe into a machine, the results depend on effort and on what has affected the airways beforehand, so clients avoid smoking and follow instructions about holding inhalers. The extra-puffs option is tempting because the client wants to perform well, but it would distort the results the provider needs. The gag-reflex option describes bronchoscopy, a commonly confused test.",
+   "takeaway": "Before PFTs: no smoking, and hold inhalers only as instructed.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "hintContent": "Recall what the client actually does during a PFT and what could change the result.",
+   "hintStrategy": "Eliminate options that borrow precautions from a different procedure."
+  },
+  {
+   "id": "m15-x1-079",
+   "type": "mcq",
+   "priority": false,
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "In the endoscopy recovery area, a client recovering from procedural sedation is drowsy with a respiratory rate of 9/min. SpO₂ is 97% on 3 L/min by nasal cannula. Which data would best determine whether the client is ventilating adequately?",
+   "options": [
+    "A continuous SpO₂ trend over the next hour",
+    "Heart rate and blood pressure every 15 minutes",
+    "PaCO₂ on an arterial blood gas",
+    "Capillary refill time in the fingers"
+   ],
+   "answer": 2,
+   "optionRationales": [
+    "Incorrect. SpO₂ reflects oxygen saturation and can stay normal on oxygen while CO₂ rises.",
+    "Incorrect. Vital signs are important but do not measure CO₂ removal.",
+    "Correct. PaCO₂ directly reflects how well the lungs are removing CO₂ — the measure of ventilation.",
+    "Incorrect. Capillary refill assesses peripheral perfusion, not ventilation."
+   ],
+   "rationale": "Ventilation is the movement of air in and out of the lungs, and its job includes removing CO₂. The only listed measure that directly reflects ventilation is PaCO₂: a value above 45 mm Hg (hypercarbia) means CO₂ is being retained. SpO₂ is tempting because it is continuous and easy, but it tells nothing about CO₂, and supplemental oxygen can keep it normal while the client hypoventilates. Pulse oximetry is a trend tool for oxygenation that must be correlated with the client’s assessment.",
+   "takeaway": "SpO₂ measures oxygenation; PaCO₂ measures ventilation.",
+   "cjmm": "Generate Solutions",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask which value reflects carbon dioxide rather than oxygen.",
+   "hintStrategy": "Match the measurement to the exact question asked — here, ventilation, not oxygenation."
+  },
+  {
+   "id": "m15-x1-080",
+   "type": "mcq",
+   "priority": false,
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client with sudden dyspnea is scheduled for a pulmonary ventilation–perfusion (V/Q) scan and asks what the test involves. Which explanation by the nurse is accurate?",
+   "options": [
+    "“A flexible scope will be passed into your airways to look for a blockage.”",
+    "“You’ll inhale one tracer and get another through your IV to compare airflow and blood flow.”",
+    "“A needle will be placed between your ribs to remove fluid from around the lung.”",
+    "“You’ll blow as hard and as fast as you can into a small meter several times in a row.”"
+   ],
+   "answer": 1,
+   "optionRationales": [
+    "Incorrect. This describes bronchoscopy, not a V/Q scan.",
+    "Correct. A V/Q scan has two parts — an inhaled tracer for ventilation and an IV tracer for perfusion — to look for a mismatch such as a clot.",
+    "Incorrect. This describes thoracentesis.",
+    "Incorrect. This describes peak flow or pulmonary function testing."
+   ],
+   "rationale": "A pulmonary V/Q scan compares ventilation (air) with perfusion (blood) in each area of the lungs to look for a mismatch — for example, a region that is ventilated but not perfused because a clot blocks blood flow. The nurse explains the two parts: inhaling a tracer and receiving a tracer through an IV. The bronchoscopy option is tempting because it also “looks inside” the lungs, but it uses a scope rather than tracers and evaluates the airways themselves. Clear explanation reduces anxiety and improves cooperation.",
+   "takeaway": "A V/Q scan pairs an inhaled tracer with an IV tracer to compare airflow and blood flow.",
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "hintContent": "Break the test name into its two letters and what each measures.",
+   "hintStrategy": "When options describe different procedures, match the description to the test named in the stem."
+  },
+  {
+   "id": "m15-x1-081",
+   "type": "sata",
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A nurse has just drawn a radial arterial blood gas from a client receiving oxygen at 3 L/min by nasal cannula. The client takes no anticoagulants. Which actions are appropriate? Select all that apply.",
+   "options": [
+    "Apply light pressure for 1 minute, then cover the site with a bandage",
+    "Note on the requisition that the client is on oxygen at 3 L/min",
+    "Check the hand’s color, warmth, capillary refill, and pulse",
+    "Have the client flex the wrist repeatedly to restore circulation",
+    "Hold firm, direct pressure on the site for at least 5 minutes",
+    "After pressure, check the site for bleeding or swelling"
+   ],
+   "answer": [
+    1,
+    2,
+    4,
+    5
+   ],
+   "optionRationales": [
+    "Incorrect. One minute of light pressure is not enough for an arterial puncture.",
+    "Correct. Oxygen values are interpreted in light of the oxygen the client was receiving.",
+    "Correct. Circulation beyond the puncture must be confirmed.",
+    "Incorrect. Movement can dislodge the clot and cause bleeding at the site.",
+    "Correct. Arterial blood is under high pressure; at least 5 minutes of pressure prevents bleeding and hematoma.",
+    "Correct. Bleeding is the main risk after an arterial puncture."
+   ],
+   "rationale": "ABGs are drawn from an artery, usually the radial artery, where blood is under high pressure, so bleeding is the main risk afterward. The nurse holds firm, direct pressure for at least 5 minutes (10 minutes or more for clients on anticoagulants), then checks the site and the circulation to the hand. The requisition must state whether the client is on room air or oxygen, and at what flow, because the oxygen values only make sense in context. The 1-minute option is tempting because it is what is done after a venous draw, but an artery needs much longer.",
+   "takeaway": "After an ABG: firm pressure ≥ 5 minutes (≥ 10 on anticoagulants), then check the site and the hand; note the oxygen on the requisition.",
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "hintContent": "Think about how arterial pressure differs from venous pressure.",
+   "hintStrategy": "Don’t carry venipuncture habits over to arterial procedures."
+  },
+  {
+   "id": "m15-x1-082",
+   "type": "sata",
+   "topic": "diagnostics-abg",
+   "alsoTests": [],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 3,
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "stem": "A nurse reviews ABG results for several clients. Which results show that compensation has begun (partial or full)? Select all that apply.",
+   "options": [
+    "pH 7.52, PaCO₂ 28 mm Hg, HCO₃⁻ 23 mEq/L",
+    "pH 7.30, PaCO₂ 40 mm Hg, HCO₃⁻ 17 mEq/L",
+    "pH 7.33, PaCO₂ 52 mm Hg, HCO₃⁻ 30 mEq/L",
+    "pH 7.31, PaCO₂ 33 mm Hg, HCO₃⁻ 16 mEq/L",
+    "pH 7.44, PaCO₂ 48 mm Hg, HCO₃⁻ 32 mEq/L"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Respiratory alkalosis with a normal HCO₃⁻ is uncompensated.",
+    "Incorrect. Metabolic acidosis with a normal PaCO₂ is uncompensated.",
+    "Correct. Respiratory acidosis with an elevated HCO₃⁻ — the kidneys are compensating (partially).",
+    "Correct. Metabolic acidosis with a low PaCO₂ — the lungs are partially compensating.",
+    "Correct. Normal pH with both values abnormal is fully compensated metabolic alkalosis (pH on the alkaline side of 7.40)."
+   ],
+   "rationale": "Compensation means the system not causing the problem has moved its value in the opposite direction to push the pH back toward normal. If the other value is still normal, the imbalance is uncompensated; if it is abnormal in the compensating direction but the pH is still abnormal, it is partially compensated; if the pH has returned to 7.35–7.45 with both values abnormal, it is fully compensated. Students often miss the fully compensated result because the normal pH looks “fine,” but two abnormal values with a normal pH always mean full compensation.",
+   "takeaway": "Compensation is present whenever the non-causing value has moved abnormal in the opposite direction.",
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "hintContent": "For each ABG, name the primary problem first, then check the other value.",
+   "hintStrategy": "Apply the same step-by-step routine to every option rather than eyeballing the pH."
+  },
+  {
+   "id": "m15-x1-083",
+   "type": "sata",
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client returned 2 hours ago from a bronchoscopy with biopsy performed under moderate sedation. Which findings should the nurse report to the provider immediately? Select all that apply.",
+   "options": [
+    "A mild sore throat",
+    "SpO₂ falling from 96% to 89%",
+    "New sharp chest pain with a respiratory rate rising from 18 to 28/min",
+    "Small streaks of blood in the sputum after a biopsy",
+    "A high-pitched crowing sound on inspiration"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. A sore throat is expected after a scope passes through the throat.",
+    "Correct. A falling SpO₂ after the procedure signals a complication.",
+    "Correct. These findings suggest a pneumothorax from the biopsy.",
+    "Incorrect. Small blood streaks are expected after biopsy.",
+    "Correct. Stridor signals laryngeal swelling and upper airway obstruction."
+   ],
+   "rationale": "Bronchoscopy passes a scope into the airways to look inside, remove secretions, or take a biopsy. Afterward, a sore throat and small blood streaks in the sputum are expected. Stridor is a red flag for airway swelling, and new chest pain, rapid breathing, or a falling SpO₂ suggest complications such as a pneumothorax. The blood-streak option is tempting because blood usually sounds alarming, but small streaks after a biopsy are an expected finding.",
+   "takeaway": "After bronchoscopy, a sore throat and blood-streaked sputum are expected; stridor, chest pain, tachypnea, or falling SpO₂ are not.",
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "hintContent": "Ask what normally follows a scope and biopsy, then look for anything beyond that.",
+   "hintStrategy": "Separate expected post-procedure findings from signs of a complication."
+  },
+  {
+   "id": "m15-x1-084",
+   "type": "sata",
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "respiratory-assessment"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client’s pulse oximeter shows a weak, irregular waveform and an SpO₂ of 85%, yet the client is talking comfortably with pink oral mucosa. The client’s fingers are cold, and the client is wearing dark nail polish. Which actions should the nurse take? Select all that apply.",
+   "options": [
+    "Tape the probe tightly to the finger to keep it in place",
+    "Correlate the reading with a respiratory assessment before acting on it",
+    "Remove the nail polish from the monitored finger",
+    "Warm the client’s hand before rechecking",
+    "Increase the oxygen flow rate until the SpO₂ reaches 95%",
+    "Move the probe to an earlobe"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    5
+   ],
+   "optionRationales": [
+    "Incorrect. Tight tape can reduce blood flow and further degrade the signal.",
+    "Correct. The nurse treats the client, not the number, and confirms with assessment.",
+    "Correct. Dark polish can block the light the oximeter uses.",
+    "Correct. Poor circulation to cold fingers causes a weak, inaccurate signal.",
+    "Incorrect. Changing oxygen in response to a likely inaccurate reading treats the device, not the client.",
+    "Correct. An alternate site can provide a better signal when finger perfusion is poor."
+   ],
+   "rationale": "Pulse oximetry estimates the percentage of hemoglobin carrying oxygen by shining light through tissue, and it has blind spots. Poor circulation to cold fingers, movement, and dark nail polish or artificial nails can all produce weak or inaccurate readings. When the number does not match how the client looks — talking comfortably with pink mucosa — the nurse fixes the sources of error, tries another site, and correlates with assessment. Turning up the oxygen is tempting because the number is low, but it treats a probably false reading rather than the client.",
+   "takeaway": "When the SpO₂ doesn’t match the client, fix the measurement and assess the client before changing therapy.",
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "hintContent": "List what interferes with the light signal the oximeter depends on.",
+   "hintStrategy": "When assessment and a device conflict, choose actions that verify the device and assess the client."
+  },
+  {
+   "id": "m15-x1-085",
+   "type": "sata",
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "asthma-copd-pneumonia"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Health Promotion and Maintenance",
+   "stem": "A nurse is reviewing a home asthma action plan with a client who is learning to use a peak flow meter. Which client statements indicate correct understanding? Select all that apply.",
+   "options": [
+    "“I only need to check my peak flow when I’m already very short of breath.”",
+    "“If my reading is 80% or more of my best, I keep following my usual plan.”",
+    "“If my reading is under 50%, I’ll wait an hour and check it again.”",
+    "“I compare each reading with my own personal best number.”",
+    "“If I’m between 50% and 79% of my best, I use my rescue inhaler and follow my action plan.”"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ],
+   "optionRationales": [
+    "Incorrect. Regular readings help catch worsening early, before severe symptoms.",
+    "Correct. The green zone (≥ 80%) means good control.",
+    "Incorrect. The red zone (< 50%) is an emergency and needs immediate help, not waiting.",
+    "Correct. Peak flow zones are based on the client’s personal best, not on a population norm.",
+    "Correct. The yellow zone calls for rescue medicine and the action plan."
+   ],
+   "rationale": "A peak flow meter measures how fast the client can blow air out, and people with asthma use it at home to catch worsening early. Each reading is compared with the client’s personal best: green (80% or more) means continue the usual plan; yellow (50–79%) means use rescue medicine and follow the action plan; red (below 50%) is an emergency. Waiting to recheck a red-zone reading is the dangerous misunderstanding. Checking only when very short of breath defeats the purpose of early detection.",
+   "takeaway": "Peak flow zones: green ≥ 80%, yellow 50–79%, red < 50% of personal best — red means get help now.",
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "hintContent": "Recall the three zones and the action tied to each.",
+   "hintStrategy": "For “indicates understanding” SATA items, test each statement against the rule — any delay in the red zone is wrong."
+  },
+  {
+   "id": "m15-x1-086",
+   "type": "sata",
+   "topic": "diagnostics-abg",
+   "alsoTests": [
+    "oxygenation-physiology"
+   ],
+   "ref": "Module 15 · Oxygenation · Diagnostic Tests & ABGs",
+   "difficulty": 2,
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "stem": "A client is scheduled for a pulmonary angiogram to evaluate a suspected clot. Which nursing actions are appropriate? Select all that apply.",
+   "options": [
+    "Review the client’s serum creatinine before the procedure",
+    "Ask whether the client has ever reacted to contrast dye",
+    "After the procedure, check the catheter insertion site",
+    "Keep the client NPO after the procedure until the gag reflex returns",
+    "Position the client leaning forward over an overbed table for the procedure"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. The IV contrast dye can harm the kidneys, so kidney function is checked beforehand.",
+    "Correct. A prior contrast reaction must be reported to the provider before the study.",
+    "Correct. The catheter site is monitored for bleeding afterward.",
+    "Incorrect. This precaution applies after bronchoscopy, when the throat has been anesthetized.",
+    "Incorrect. This is the position used for thoracentesis, not angiography."
+   ],
+   "rationale": "A pulmonary angiogram uses IV contrast dye to show blood flow in the lung arteries, for example to find a clot. Before the test, the nurse checks kidney function and asks about previous reactions to contrast or dye, reporting any problems to the provider; afterward, the nurse checks the catheter site. The distractors borrow precautions from other tests: NPO until the gag reflex returns belongs to bronchoscopy, and leaning over an overbed table belongs to thoracentesis. Recognizing which precaution goes with which test is a common exam skill.",
+   "takeaway": "Contrast studies: check kidney function and contrast-reaction history before, and the catheter site after.",
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "hintContent": "Identify what is injected during this test and which organs or sites it puts at risk.",
+   "hintStrategy": "Eliminate options that are correct for a different procedure."
+  }
+ ]
+});

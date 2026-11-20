@@ -990,3 +990,77 @@ main { outline: none; padding: 1.75rem 0 7rem; min-height: 70vh; }
 .how-to-study ol { margin: .75rem 0 0; padding-left: 1.2rem; display: grid; gap: .45rem; color: var(--ink-2); }
 .how-to-study b { color: var(--ink); }
 .module-card > p { display: -webkit-box; -webkit-line-clamp: 4; line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* ---------- Readable lessons (v2) ---------- */
+.topbar { background: color-mix(in srgb, var(--bg) 96%, transparent); }
+.tabbar { background: var(--surface); }
+@media (max-width: 40rem) { .topbar .zoom { display: none; } }
+.article.lesson { max-width: 43rem; }
+.article.lesson h1 { font-size: clamp(1.65rem, 3.2vw, 2.25rem); line-height: 1.15; letter-spacing: -.03em; margin: .2rem 0 .75rem; }
+.article.lesson .summary { font: 400 1.12rem/1.6 var(--font); font-style: normal; color: var(--ink-2); margin: 0 0 1.5rem; }
+.article.lesson p, .article.lesson li { font-size: 1.0625rem; line-height: 1.75; }
+.article.lesson .prose p { margin: 0 0 1rem; }
+.key-points { margin: 0 0 1.75rem; padding: 1.1rem 1.25rem 1rem; border-radius: var(--r-lg); background: color-mix(in srgb, var(--good) 6%, var(--surface)); border: 1px solid color-mix(in srgb, var(--good) 28%, var(--line)); }
+.key-points .kp-title { display: flex; align-items: baseline; gap: .5rem; font-size: 1.05rem; margin: 0 0 .5rem; }
+.key-points .kp-title::before { display: none; }
+.key-points .kp-title svg { width: 1.05rem; height: 1.05rem; color: var(--good); align-self: center; }
+.key-points .kp-title span { font: 500 .68rem var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+.key-points ul li { margin: .45rem 0; }
+.key-points ul li::before { background: var(--good); }
+.article.lesson .big-picture { margin: 0 0 1.5rem; }
+.article.lesson .big-picture p { font-size: 1.0625rem; }
+.lesson-details { margin: 0 0 .9rem; border: 1px solid var(--line); border-radius: var(--r-lg); background: var(--surface); }
+.lesson-details > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: .55rem; padding: .8rem 1.1rem; font-weight: 600; font-size: .98rem; }
+.lesson-details > summary::-webkit-details-marker { display: none; }
+.lesson-details > summary svg { width: 1rem; height: 1rem; color: var(--mc); }
+.lesson-details > summary::after { content: ""; margin-left: auto; width: .5rem; height: .5rem; border-right: 2px solid var(--ink-3); border-bottom: 2px solid var(--ink-3); transform: rotate(45deg); transition: transform .2s; }
+.lesson-details[open] > summary::after { transform: rotate(-135deg); }
+.lesson-details > ul, .lesson-details > ol { margin: 0; padding: 0 1.1rem 1rem 1.1rem; }
+.lesson-details.key-terms dl { margin: 0 1rem 1rem; }
+.lesson-details.key-terms { margin-bottom: 2rem; }
+.outline-sm ol { list-style: decimal; padding-left: 2.4rem !important; }
+.outline-sm ol li { padding-left: 0 !important; }
+.outline-sm ol li::before { display: none; }
+.outline-sm a { color: var(--ink-2); font-size: .95rem; }
+@media (min-width: 72rem) { .outline-sm { display: none; } }
+.article.lesson .lesson-section { padding-top: 1.75rem; margin: 0 0 1.25rem; border-top: 1px solid var(--line); }
+.part-no { display: block; font: 500 .68rem var(--font-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--mc); margin-bottom: .35rem; }
+.article.lesson h2 { font-size: 1.4rem; line-height: 1.25; margin: 0 0 .75rem; letter-spacing: -.02em; }
+.article.lesson .lesson-section h2::before { display: none; }
+.key-idea { display: flex; gap: .6rem; align-items: flex-start; margin: 0 0 1rem !important; padding: .75rem .95rem; border-radius: .6rem; background: color-mix(in srgb, var(--mc) 8%, var(--surface)); border-left: 3px solid var(--mc); font-weight: 600; color: var(--ink); line-height: 1.55 !important; }
+.key-idea svg { flex: none; width: 1.05rem; height: 1.05rem; margin-top: .2rem; color: var(--mc); }
+.article.lesson ol.inline-list { margin: 0 0 1rem; padding-left: 1.4rem; }
+.article.lesson ol.inline-list li { margin: .3rem 0; padding-left: .2rem; }
+.article.lesson .steps li { font-size: 1rem; }
+.article.lesson .table-wrap { margin: .5rem 0 1rem; }
+.toc-head { display: block; padding: 0 .65rem .6rem; }
+.toc-sections { list-style: none; margin: .2rem 0 .5rem; padding: 0 0 0 .75rem; border-left: 2px solid color-mix(in srgb, var(--mc) 30%, var(--line)); margin-left: .1rem; }
+.toc-sections a { border-left: 0 !important; font-size: .78rem !important; padding: .28rem .55rem !important; color: var(--ink-3) !important; line-height: 1.35; border-radius: .4rem !important; }
+.toc-sections a.on { color: var(--ink) !important; background: var(--surface-2); font-weight: 600; }
+.toc-cta { margin: 1rem .4rem 0; width: calc(100% - .8rem); justify-content: center; }
+@media (min-width: 72rem) { .reader { grid-template-columns: 15.5rem minmax(0, 1fr); } }
+.article-foot { align-items: center; }
+.foot-msg { flex-basis: 100%; color: var(--ink-2); font-size: .95rem; margin-bottom: .25rem; }
+.foot-msg b { color: var(--ink); }
+.fb-links .btn { white-space: normal; text-align: left; height: auto; min-height: 2.25rem; padding-top: .4rem; padding-bottom: .4rem; max-width: 100%; }
+
+@media (max-width: 40rem) {
+  .curriculum-group .grid { grid-template-columns: 1fr 1fr; gap: .6rem; }
+  .curriculum-group .module-card { padding: .9rem; }
+  .curriculum-group .module-card > p, .curriculum-group .module-card .module-meta span:nth-child(3), .curriculum-group .module-card .ring { display: none; }
+  .curriculum-group .module-card h3 { font-size: 1rem; }
+  .curriculum-group .module-card-top { margin-bottom: .5rem; }
+  .resume { flex-wrap: wrap; }
+}
+
+.topbar { background: var(--bg); backdrop-filter: none; -webkit-backdrop-filter: none; }
+@media (min-width: 72rem) { .toc { padding-bottom: 0; } }
+.toc-cta { position: sticky; bottom: 0; box-shadow: 0 -.75rem 1rem var(--bg); }
+@media (max-width: 40rem) { .article.lesson td, .article.lesson th { font-size: .9rem; padding: .55rem .6rem; } .article.lesson p, .article.lesson li { font-size: 1.02rem; } }
+
+@media (min-width: 72rem) { .toc { max-height: calc(100vh - var(--top-h) - 3rem); } }
+.toc-cta { box-shadow: none; outline: .6rem solid var(--bg); margin-bottom: .6rem; }
+
+.toc a.toc-cta { display: flex; align-items: center; justify-content: center; gap: .45rem; height: 2.4rem; padding: 0 .9rem; color: var(--brand-ink); background: var(--brand); border: 0; border-radius: .6rem; font-size: .85rem; font-weight: 600; }
+.toc a.toc-cta:hover { color: var(--brand-ink); background: var(--brand-2); }
+.toc a.toc-cta svg { width: 1rem; height: 1rem; }

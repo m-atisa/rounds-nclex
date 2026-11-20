@@ -1,0 +1,2817 @@
+{
+ "moduleId": "m21",
+ "moduleNumber": 21,
+ "moduleTitle": "Tissue Integrity",
+ "questions": [
+  {
+   "id": "m21-x3-001",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Think about what is forming under that first gauze layer and what happens to it if the gauze comes off.",
+   "hintStrategy": "When options include removing something already working, ask whether removal undoes the benefit. Choose the action that preserves progress.",
+   "stem": "A construction worker arrives at the occupational health clinic with a deep 6-cm laceration on the palm. The nurse has been holding firm pressure with a gauze pad for 3 minutes, and blood has now soaked through the gauze. Which action should the nurse take next?",
+   "options": [
+    "Lift the soaked gauze to look for the bleeding source",
+    "Irrigate the wound with normal saline to clear the field of view",
+    "Place additional gauze on top and keep holding firm pressure",
+    "Replace the soaked gauze with a fresh dry pad"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Removing the first layer pulls away the clot that is starting to form and restarts the bleeding.",
+    "Incorrect. Cleaning comes only after bleeding is controlled; irrigating now increases blood loss.",
+    "Correct. Adding layers keeps the forming clot in place while pressure and elevation continue to slow the bleeding.",
+    "Incorrect. Swapping the pad disrupts the clot just as lifting it would, so the first layer should stay in place."
+   ],
+   "rationale": "When blood soaks through a dressing, the nurse leaves the first layer in place, adds more dressing on top, and keeps firm direct pressure and elevation. The first layer holds the developing clot; removing it, even to swap for a clean pad, tears the clot away and restarts bleeding. The tempting choice is to look at the wound, but inspection and saline cleaning wait until bleeding is controlled because blood loss is the immediate threat. If bleeding continues despite pressure, the nurse calls for help.",
+   "takeaway": "Soaked-through dressing: add layers on top and keep pressure; never remove the first layer."
+  },
+  {
+   "id": "m21-x3-002",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Cluster the vital signs and skin findings together. What does the body do when it has lost a lot of blood?",
+   "hintStrategy": "When enough data already point to an emergency, choose the action that treats it now over the option that gathers more of the same data.",
+   "stem": "A 52-year-old client in the emergency department has a pressure dressing on a deep thigh laceration from a chainsaw accident. Twenty minutes after arrival, the client is restless, the skin is pale and clammy, the pulse is 126/min and weak, and the blood pressure is 86/52 mm Hg. The dressing is dry. Which action should the nurse take first?",
+   "options": [
+    "Recheck the vital signs in 15 minutes to confirm a trend",
+    "Keep pressure on the wound, lay the client flat, and call for help",
+    "Remove the dressing to check whether the wound is still bleeding",
+    "Raise the head of the bed to ease the client's restlessness"
+   ],
+   "answer": 1,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. The pattern already shows shock; waiting 15 minutes delays treatment of a life-threatening problem.",
+    "Correct. These findings indicate shock from blood loss; the nurse maintains bleeding control, positions flat, and gets help and the provider immediately.",
+    "Incorrect. A dry dressing does not rule out ongoing loss, and removing it can restart bleeding; treating shock comes first.",
+    "Incorrect. Raising the head lowers blood flow to the brain in a hypotensive client; restlessness here signals poor brain perfusion."
+   ],
+   "rationale": "Rapid weak pulse, low blood pressure, cool clammy pale skin, and restlessness are the classic picture of shock from blood loss. The nurse keeps firm pressure and elevation on the wound, lays the client flat, calls for help, and notifies the provider while anticipating IV fluids. Rechecking vital signs later is tempting because it feels like assessment, but the data already confirm an emergency, so delay is unsafe. Restlessness is a sign of reduced oxygen to the brain, not a comfort issue.",
+   "takeaway": "Rapid pulse + low BP + cool clammy skin + restlessness after a wound = shock: keep pressure, lay flat, get help now."
+  },
+  {
+   "id": "m21-x3-003",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Remember that intact skin does not guarantee that bleeding has stopped underneath.",
+   "hintStrategy": "Sort each client as expected or unexpected for the situation. The unexpected finding with a physical threat is seen first.",
+   "stem": "The nurse on a medical-surgical unit receives these reports from the nursing assistant. Which client should the nurse assess first?",
+   "options": [
+    "A client on postoperative day 1 with scant thin pink drainage on the incision dressing",
+    "A client with a scraped elbow that is forming a scab and itches slightly",
+    "A client who takes warfarin whose bruised thigh is now tense, firm, and enlarging",
+    "A client with a healed full-thickness wound who is upset about the scar"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Thin pink drainage in small amounts is expected early after surgery.",
+    "Incorrect. A partial-thickness abrasion that is scabbing is healing as expected.",
+    "Correct. A tense, hard, growing contusion in a client on a blood thinner suggests ongoing hidden bleeding into the tissue.",
+    "Incorrect. Scarring is expected after full-thickness healing; this concern matters but is not physically urgent."
+   ],
+   "rationale": "Closed wounds can hide bleeding because the skin stays intact. A contusion that becomes tense, hard, and keeps growing in a client on an anticoagulant suggests continued bleeding into the tissue, which can progress to shock, so this client is seen first. Scant thin pink drainage on day 1 is an expected finding and is the most tempting distractor because drainage sounds alarming. The healing abrasion and the scar concern are stable and can wait.",
+   "takeaway": "A contusion that becomes tense, hard, and enlarging, especially on a blood thinner, means possible ongoing bleeding."
+  },
+  {
+   "id": "m21-x3-004",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Bleeding is solved. What is the next threat to this dirty wound?",
+   "hintStrategy": "For sequence questions, name the step that was just completed and pick the step that directly follows it.",
+   "stem": "A 34-year-old client tripped while hiking and has a 3-cm laceration on the shin with bits of dirt in it. After 10 minutes of firm direct pressure and elevation, the bleeding has stopped. Which action should the nurse take next?",
+   "options": [
+    "Cover the wound with a dry sterile dressing",
+    "Apply a cloth-wrapped ice pack to the shin",
+    "Gently irrigate the wound with normal saline",
+    "Scrub the wound with hydrogen peroxide"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Covering comes after cleaning; dressing over dirt traps germs in the wound.",
+    "Incorrect. Ice for pain and swelling follows cleaning and covering, not before them.",
+    "Correct. Once bleeding is controlled, the next goal is preventing infection by rinsing out dirt and debris with saline.",
+    "Incorrect. Harsh agents like peroxide can damage healing tissue; normal saline is used."
+   ],
+   "rationale": "The order of fresh-wound care is: hand hygiene and gloves, control bleeding with pressure and elevation, clean with normal saline, cover with a dressing, then apply wrapped ice for pain and swelling. With bleeding stopped and dirt visible, cleaning is next because covering a dirty wound seals germs in. Many students pick the dressing because it feels protective, but it skips the cleaning step. Peroxide is a common home practice that harms new tissue.",
+   "takeaway": "Fresh wound order: pressure and elevate, clean with saline, cover, then ice."
+  },
+  {
+   "id": "m21-x3-005",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Consider who else needs protecting in this scenario besides the client.",
+   "hintStrategy": "When the client is stable, standard precautions come before hands-on care. Look for cues about how urgent the bleeding really is.",
+   "stem": "A school cafeteria worker cuts a finger on a can lid and walks into the school nurse's office. Blood is oozing steadily from a 2-cm cut, and the worker is alert and calm. A first-aid kit and supplies are on the counter. Which action should the nurse take first?",
+   "options": [
+    "Press a paper towel on the cut with a bare hand",
+    "Rinse the finger under warm running water",
+    "Raise the hand above the level of the heart",
+    "Perform hand hygiene and put on clean gloves"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Touching blood without gloves exposes the nurse; with steady oozing and supplies within reach, there is time to don gloves.",
+    "Incorrect. Cleaning comes after bleeding is controlled, and protection comes before touching the wound.",
+    "Incorrect. Elevation helps control bleeding but follows hand hygiene and gloves and goes along with direct pressure.",
+    "Correct. Hand hygiene and gloves come first for a non-life-threatening wound, protecting both the nurse and the client."
+   ],
+   "rationale": "Every fresh-wound procedure starts with hand hygiene and gloves to protect the nurse from blood and the client from germs. This client has steady oozing from a small cut and is stable, so taking a few seconds to don available gloves is safe. The tempting answer is to press on the wound immediately, but bare-hand contact with blood is an avoidable exposure when the bleeding is not life threatening. Pressure and elevation follow right after.",
+   "takeaway": "Fresh wound care starts with hand hygiene and gloves, then pressure and elevation."
+  },
+  {
+   "id": "m21-x3-006",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Compare this pain pattern with the expected course of a healing wound.",
+   "hintStrategy": "When a new symptom appears and you have no data yet, assess before you act or call.",
+   "stem": "A 61-year-old client had a full-thickness forearm laceration sutured 5 days ago. At the clinic follow-up, the client says, “The pain was getting better, but for the last 2 days it hurts more.” Which action should the nurse take first?",
+   "options": [
+    "Reassure the client that deep wounds hurt longer",
+    "Inspect the wound and check the client's temperature",
+    "Give an analgesic and reassess the pain in an hour",
+    "Call the provider to request an antibiotic order"
+   ],
+   "answer": 1,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Pain should slowly decrease; a reversal is unexpected and should not be explained away.",
+    "Correct. Increasing pain after the first few days is a warning sign of infection; the nurse gathers wound and systemic data first.",
+    "Incorrect. Treating the pain without finding its cause may mask a developing infection.",
+    "Incorrect. The nurse needs assessment data before contacting the provider so the report is complete."
+   ],
+   "rationale": "Pain from a treated wound should slowly decrease; pain that increases after the first few days is a warning sign, often of infection. The nurse assesses first: drainage amount, color, and odor; redness, warmth, and swelling; and temperature. Calling the provider is tempting, but without wound and temperature data the nurse cannot give a useful report. Reassurance or analgesia alone could hide a worsening problem.",
+   "takeaway": "Wound pain that increases after the first few days needs assessment for infection."
+  },
+  {
+   "id": "m21-x3-007",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Look at whether the findings are limited to the wound or are affecting the whole body.",
+   "hintStrategy": "When systemic signs join local signs, choose the option that gets definitive treatment started now.",
+   "stem": "A 27-year-old client returns to urgent care 3 days after a hand laceration was sutured. The skin around the sutures is red and warm, a red streak extends up the forearm, and thick yellow drainage is present. The temperature is 38.7 °C (101.7 °F), and the pulse is 108/min. Which action is the nurse's priority?",
+   "options": [
+    "Outline the redness with a pen and recheck it tomorrow",
+    "Teach the client to elevate the hand and return in 2 days",
+    "Report the findings to the provider right away",
+    "Apply antibiotic ointment from clinic stock to the incision"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Marking the border helps track change, but waiting a day delays treatment of a spreading infection.",
+    "Incorrect. Elevation is supportive, but this client needs treatment today, not a delayed return.",
+    "Correct. Spreading redness, pus, fever, and a rapid pulse indicate a spreading infection that needs prompt treatment.",
+    "Incorrect. Topical ointment will not treat a spreading infection, and stock medication needs an order."
+   ],
+   "rationale": "This client has a spreading wound infection: purulent drainage, warmth, redness extending beyond the wound, fever, and tachycardia. The priority is to report now so the provider can order a culture and antibiotics. Marking the border is a reasonable tracking step and is the most tempting option, but delaying until tomorrow lets the infection progress toward sepsis. Topical treatment is inadequate and requires an order.",
+   "takeaway": "Spreading redness, pus, fever, and rapid pulse = spreading infection; report immediately."
+  },
+  {
+   "id": "m21-x3-008",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Psychosocial Integrity",
+   "hintContent": "Classify this wound by contamination first, then think about what closing it would trap inside.",
+   "hintStrategy": "For “best explanation” items, choose the response that gives the true reason in plain language, not just a reassuring one.",
+   "stem": "A client had surgery for a ruptured appendix with pus in the abdomen. The surgeon left the skin incision open and packed it. The client asks, “Why didn't they just sew it closed?” Which response by the nurse is most accurate?",
+   "options": [
+    "“Leaving it open lets the infected drainage escape instead of being trapped.”",
+    "“The incision was too long to close with sutures, so it has to heal by itself.”",
+    "“Sutures would increase scarring, so leaving it open gives a better result.”",
+    "“Your skin was too thin and swollen to hold stitches after the surgery.”"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. A dirty/infected wound is often left open so pus and drainage can leave instead of being trapped.",
+    "Incorrect. Wound length is not the reason; the contamination class drives this decision.",
+    "Incorrect. An open wound actually heals with more scar tissue; cosmetic outcome is not the reason.",
+    "Incorrect. Skin thickness does not explain the decision; the presence of pus does."
+   ],
+   "rationale": "Surgery for a ruptured appendix with pus is a dirty/infected wound, the highest-risk contamination class. The provider may leave such a wound open so infected drainage can escape and dead tissue can be removed, rather than sealing germs inside. The tempting answer about scarring is wrong because open wounds heal with more scar, not less. The accurate explanation connects the open wound to the infection already present.",
+   "takeaway": "Dirty/infected wounds may be left open so drainage can escape instead of being trapped."
+  },
+  {
+   "id": "m21-x3-009",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Ask how deep each wound goes and whether any skin-making cells remain in its base.",
+   "hintStrategy": "Classify each option by the same rule (depth), and the one that differs from the others is usually the answer.",
+   "stem": "The nurse is caring for four clients with recent wounds. Which client's wound will most likely heal by regeneration with little or no scarring?",
+   "options": [
+    "A cook with a kitchen-knife cut that reaches the fat layer",
+    "A farmer with a deep crush wound that exposes the thigh muscle",
+    "A surgical client with an incision through all skin layers",
+    "A teen with a road-rash scrape through the epidermis and upper dermis"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. A wound into fat is full-thickness and fills with connective tissue that becomes scar.",
+    "Incorrect. Exposed muscle means all skin layers are lost, so it heals with scar tissue.",
+    "Incorrect. An incision through all layers is full-thickness and heals with a scar line.",
+    "Correct. This is a partial-thickness wound; cells in remaining hair follicles and glands regrow the same tissue."
+   ],
+   "rationale": "Partial-thickness wounds pass through the epidermis into part of the dermis. Hair follicles and glands left in the dermis hold living skin cells that multiply and cover the wound, so it regenerates with little scarring. Full-thickness wounds lose all skin layers and must be filled with connective tissue, which becomes a scar. The surgical incision is tempting because it is neat and clean, but it still passes through every skin layer.",
+   "takeaway": "Partial-thickness = regeneration with little scar; full-thickness = connective tissue and scar."
+  },
+  {
+   "id": "m21-x3-010",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Picture the normal fluid a fresh incision leaks in the first day.",
+   "hintStrategy": "For expected-finding items, test each option against the timeline: what is normal on day 1 may not be normal on day 5.",
+   "stem": "The nurse is changing the dressing on a client's abdominal incision on the first day after surgery. Which finding should the nurse document as expected?",
+   "options": [
+    "Thick, cloudy yellow drainage with a sweet odor",
+    "Redness that extends 4 cm beyond the incision edges",
+    "Pain rated higher than it was the evening before",
+    "A small amount of thin, pink drainage on the gauze"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Thick cloudy drainage with odor suggests pus and infection.",
+    "Incorrect. Redness spreading beyond the wound edge is a sign of infection.",
+    "Incorrect. Pain should slowly decrease; rising pain is a warning sign.",
+    "Correct. Thin, clear or pink drainage in small amounts is normal early after surgery."
+   ],
+   "rationale": "At each dressing change the nurse compares the wound to the last look and decides if it is better, the same, or worse. On the first postoperative day, a small amount of thin pink (serosanguineous) or clear drainage is expected. Thick, cloudy, yellow drainage, odor, spreading redness, and rising pain all point toward infection. The cloudy drainage option is tempting if a student assumes any early drainage is normal, but color and thickness matter.",
+   "takeaway": "Early thin clear or pink drainage is normal; thick cloudy drainage, odor, or spreading redness is not."
+  },
+  {
+   "id": "m21-x3-011",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Think about where the body sends limited blood first.",
+   "hintStrategy": "For “why” questions, link the finding to the body's compensating mechanism, not to an outside cause.",
+   "stem": "A client who lost a large amount of blood from a leg wound is pale, and the skin is cool and clammy. The client's partner asks why the skin feels so cold. Which explanation by the nurse is accurate?",
+   "options": [
+    "“The room and the cleaning fluids have cooled down the skin.”",
+    "“Vessels in the skin tighten to send more blood to the heart and brain.”",
+    "“The body is fighting an infection that has spread from the wound.”",
+    "“The pain medicine slows the heart and blood flow to the skin.”"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Environment does not explain clamminess, pallor, and a rapid pulse together.",
+    "Correct. After major blood loss, skin vessels constrict so the remaining blood goes to vital organs.",
+    "Incorrect. Infection typically causes warmth and fever, not cool, pale skin right after blood loss.",
+    "Incorrect. The heart rate rises in shock, and the change is caused by blood loss, not medicine."
+   ],
+   "rationale": "With less blood in the vessels, the heart speeds up to keep blood moving, and the skin vessels clamp down to save blood for the brain and heart. That is why the skin becomes cool, pale, and clammy. When compensation fails, blood pressure drops and restlessness appears. The infection option is tempting because the client has a wound, but infection generally produces warmth and fever, not sudden coolness after hemorrhage.",
+   "takeaway": "Cool, pale, clammy skin after blood loss reflects vessels shunting blood to vital organs."
+  },
+  {
+   "id": "m21-x3-012",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Consider how cold should be applied safely to skin.",
+   "hintStrategy": "“Needs further teaching” means find the wrong statement. Check each statement against safe technique, not just intent.",
+   "stem": "A client who takes apixaban bumped the shin on a coffee table and has a swollen, tender bruise with intact skin. The nurse teaches home care. Which statement by the client indicates a need for further teaching?",
+   "options": [
+    "“I'll wrap the ice pack in a thin towel before using it.”",
+    "“I'll hold a bag of ice right on my bare skin for an hour.”",
+    "“I'll prop my leg up on pillows when I sit down.”",
+    "“I'll call if the bruise gets hard, tight, and keeps growing.”"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. A cloth barrier protects the skin while cold slows bleeding and swelling.",
+    "Correct. Ice placed directly on skin for a long time can injure tissue; it should be wrapped in a cloth.",
+    "Incorrect. Elevation uses gravity to limit swelling and bleeding.",
+    "Incorrect. A tense, enlarging bruise in a client on a blood thinner may mean ongoing bleeding."
+   ],
+   "rationale": "A contusion is a closed wound: the skin is intact, but vessels underneath leak blood. Cold wrapped in a cloth narrows vessels, slowing bleeding and swelling and numbing pain, and elevation helps too. Ice applied directly to bare skin for a long period can damage tissue, so that statement needs correction. The statement about calling for a hard, enlarging bruise is correct and especially important for a client on an anticoagulant.",
+   "takeaway": "For a contusion, use cloth-wrapped ice and elevation, and report a bruise that becomes tense and keeps growing."
+  },
+  {
+   "id": "m21-x3-013",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Think about what happens to the skin and instruments before a planned procedure.",
+   "hintStrategy": "When a client asks “why,” pick the answer that names the true mechanism, and be wary of absolute words like “always.”",
+   "stem": "A client with a planned abdominal incision asks, “Why is my surgical cut less likely to get infected than the cut I got from a dirty kitchen knife last year?” Which response by the nurse is best?",
+   "options": [
+    "“Surgery is done with sterile tools on skin that was cleaned first.”",
+    "“Surgical wounds are shallow, so germs cannot get very deep.”",
+    "“Antibiotics given after surgery kill any germs that get in.”",
+    "“Your body heals planned wounds faster than accidental ones.”"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Intentional wounds are planned and made with sterile technique on prepared skin, so fewer germs enter.",
+    "Incorrect. Surgical wounds can be full-thickness and deep; depth is not the reason.",
+    "Incorrect. Antibiotics are not given for every surgery; prevention comes from sterile technique.",
+    "Incorrect. Healing speed does not explain infection risk; contamination does."
+   ],
+   "rationale": "Intentional wounds are made on purpose for therapy, usually with sterile technique on skin that has been cleaned first, so few germs enter. Unintentional wounds happen on uncleaned skin, and the object that causes them may carry dirt and bacteria in, so they are usually more contaminated. The antibiotic option is tempting, but not every surgery needs antibiotics, and the key protection is the sterile, controlled environment.",
+   "takeaway": "Intentional wounds are made with sterile technique on prepared skin, so they are usually less contaminated than accidental wounds."
+  },
+  {
+   "id": "m21-x3-014",
+   "type": "mcq",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Start with the baseline class for this surgery, then ask whether anything happened that adds germs.",
+   "hintStrategy": "For classification items, check every criterion; one event can move an item into a different category.",
+   "stem": "During an elective inguinal hernia repair, the scrub team discovers that an instrument tray used for the case was never sterilized. No body tract was entered, and no pus or infection is present. How should the nurse classify the surgical wound?",
+   "options": [
+    "Clean, because no GI, GU, or respiratory tract was entered",
+    "Contaminated, because a major break in sterile technique occurred",
+    "Clean-contaminated, because germs entered in a controlled way",
+    "Dirty/infected, because unsterile instruments were used"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. The wound started as clean, but the major sterile break changes the class.",
+    "Correct. A major break in sterile technique moves a wound into the contaminated class, raising infection risk.",
+    "Incorrect. Clean-contaminated describes controlled entry into a body tract, which did not happen here.",
+    "Incorrect. Dirty/infected requires pus, dead tissue, or an existing infection, which are absent."
+   ],
+   "rationale": "Contamination classes are based on how many germs are likely in the wound. A hernia repair is normally clean, but a major break in sterile technique, such as using an unsterilized tray, makes the wound contaminated. Clean is tempting because no tract was entered, yet that only defines the baseline class. Dirty/infected is reserved for wounds with pus, dead tissue, or established infection.",
+   "takeaway": "A major break in sterile technique, a spill, or a fresh accidental wound = contaminated."
+  },
+  {
+   "id": "m21-x3-015",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Ask which procedures open a body tract that normally contains germs.",
+   "hintStrategy": "For SATA classification items, apply one rule to every option independently; do not try to guess a number of answers.",
+   "stem": "The perioperative nurse is reviewing the day's surgical schedule. Assuming each procedure goes as planned with no spillage, which surgical wounds should the nurse classify as clean-contaminated? Select all that apply.",
+   "options": [
+    "Elective gallbladder removal",
+    "Elective lung lobectomy",
+    "Elective hysterectomy",
+    "Elective inguinal hernia repair",
+    "Elective knee replacement",
+    "Laceration repair after a dog bite 2 hours ago"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Controlled entry into the GI (biliary) tract without spillage is clean-contaminated.",
+    "Correct. Controlled entry into the respiratory tract is clean-contaminated.",
+    "Correct. Controlled entry into the genitourinary tract is clean-contaminated.",
+    "Incorrect. No body tract is entered, so this is a clean wound.",
+    "Incorrect. No body tract is entered, so this is a clean wound.",
+    "Incorrect. A fresh accidental wound is contaminated."
+   ],
+   "rationale": "Clean-contaminated wounds involve controlled surgical entry into the GI, GU, or respiratory tract with no unusual spill. Clean wounds enter none of these tracts, as with a hernia repair or joint replacement. A fresh accidental wound such as a dog bite is contaminated, a higher-risk class. The key question to ask is whether a body tract that normally has germs was entered and whether that entry was controlled.",
+   "takeaway": "Controlled entry into the GI, GU, or respiratory tract = clean-contaminated."
+  },
+  {
+   "id": "m21-x3-016",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Compare the first and last columns for each row and decide whether each moved toward normal.",
+   "hintStrategy": "In trend exhibits, judge each parameter by direction of change; one improving trend does not cancel a new warning sign.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Vital Signs",
+      "table": {
+       "headers": [
+        "Parameter",
+        "1300",
+        "1330",
+        "1430"
+       ],
+       "rows": [
+        [
+         "Heart rate",
+         "128/min",
+         "110/min",
+         "94/min"
+        ],
+        [
+         "Blood pressure",
+         "84/50 mm Hg",
+         "98/62 mm Hg",
+         "112/70 mm Hg"
+        ],
+        [
+         "Respiratory rate",
+         "26/min",
+         "26/min",
+         "26/min"
+        ],
+        [
+         "Urine output",
+         "10 mL/hr",
+         "25 mL/hr",
+         "45 mL/hr"
+        ],
+        [
+         "Mental status",
+         "Restless, anxious",
+         "Less restless",
+         "Calm, oriented ×4"
+        ],
+        [
+         "Dressing",
+         "Dry",
+         "Dry",
+         "Fresh bright red blood soaking through"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "A 38-year-old client was treated for shock after a deep forearm laceration. Refer to the Vital Signs. Which findings indicate that the client's condition is improving? Select all that apply.",
+   "options": [
+    "Heart rate trend",
+    "Blood pressure trend",
+    "Urine output trend",
+    "Mental status trend",
+    "Respiratory rate trend",
+    "Dressing status"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The pulse has fallen from 128/min to 94/min, showing the heart no longer needs to race to compensate.",
+    "Correct. BP has risen from 84/50 to 112/70 mm Hg, showing improved circulating volume.",
+    "Correct. Urine output has increased to 45 mL/hr, showing better kidney perfusion.",
+    "Correct. Moving from restless to calm and oriented shows better oxygen delivery to the brain.",
+    "Incorrect. The respiratory rate has stayed at 26/min, which is still rapid and has not improved.",
+    "Incorrect. The dressing now has fresh bright red blood soaking through, which suggests renewed bleeding."
+   ],
+   "rationale": "After treatment for shock, the nurse trends pulse, blood pressure, skin, mental status, and urine output. A falling pulse, rising blood pressure, improving urine output, and a calmer, oriented client all show that perfusion is returning. The respiratory rate has stayed high, so it has not improved. The new bright red blood on the dressing is a warning sign of renewed bleeding that needs action even while other trends look better.",
+   "takeaway": "Evaluate shock treatment by trends: pulse down, BP up, urine output up, mental status clearer."
+  },
+  {
+   "id": "m21-x3-017",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Separate normal early healing from signs that germs have taken hold.",
+   "hintStrategy": "For teaching SATA items, ask of each option: would a reasonable provider want a call about this?",
+   "stem": "A 70-year-old client is going home with a sutured scalp laceration. Which findings should the nurse teach the client to report? Select all that apply.",
+   "options": [
+    "Pain that increases after the first few days",
+    "Thick yellow-green drainage from the wound",
+    "A foul odor coming from the wound",
+    "A temperature of 38.5 °C (101.3 °F)",
+    "A little thin pink drainage on the first day",
+    "Pain that slowly decreases each day"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Pain should slowly decrease; rising pain is a warning sign.",
+    "Correct. Thick, cloudy, yellow-green drainage suggests pus and infection.",
+    "Correct. Odor is a sign of infection.",
+    "Correct. Fever with a wound suggests infection.",
+    "Incorrect. A small amount of thin pink drainage is expected early.",
+    "Incorrect. Gradually decreasing pain is the expected course."
+   ],
+   "rationale": "Discharge teaching includes signs of infection to report: increasing pain after the first few days, thick or cloudy yellow-green drainage, foul odor, spreading redness, warmth, swelling, dead tissue, and fever. Thin pink drainage early and pain that slowly decreases are signs of normal healing. Teaching both the expected and the unexpected helps the client avoid unnecessary worry while recognizing real problems.",
+   "takeaway": "Teach clients to report rising pain, pus, odor, spreading redness, and fever; early thin pink drainage is expected."
+  },
+  {
+   "id": "m21-x3-018",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "For each wound, ask only one question: is the skin surface broken?",
+   "hintStrategy": "When options mix two classification systems, apply only the one the stem asks about.",
+   "stem": "The nurse is completing skin documentation on a client admitted after a fall at home. Which of the client's wounds should the nurse document as open wounds? Select all that apply.",
+   "options": [
+    "A scraped knee with the top skin layers missing",
+    "A sutured incision from a hip repair",
+    "A skin tear on the forearm",
+    "A peripheral IV insertion site",
+    "A bruise on the hip with intact skin",
+    "A swollen wrist with a fracture and intact skin"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. An abrasion breaks the skin, so it is an open wound.",
+    "Correct. An incision is an intentional break in the skin, so it is open.",
+    "Correct. A skin tear separates skin layers and breaks the surface, so it is open.",
+    "Correct. A venipuncture is an intentional wound that breaks the skin.",
+    "Incorrect. A contusion is a closed wound: tissue is injured but the skin is intact.",
+    "Incorrect. A fracture with intact skin is a closed injury."
+   ],
+   "rationale": "An open wound breaks the skin or mucous membrane, letting germs in. Abrasions, incisions, skin tears, and even a venipuncture site are open. A closed wound leaves skin intact while injuring tissue underneath, as in a contusion or a fracture with intact skin. Remember that open versus closed is a separate question from intentional versus unintentional: an IV site is intentional and open, while a bruise from the fall is unintentional and closed.",
+   "takeaway": "Open = skin or mucous membrane broken; closed = skin intact with tissue injured underneath."
+  },
+  {
+   "id": "m21-x3-019",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Look across the two days for each row and note which ones changed direction.",
+   "hintStrategy": "In comparison exhibits, select only findings that changed for the worse, not findings that stayed stable.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Nurses' Notes",
+      "table": {
+       "headers": [
+        "Assessment",
+        "Day 3",
+        "Day 6"
+       ],
+       "rows": [
+        [
+         "Drainage",
+         "Scant serous",
+         "Moderate, thick yellow"
+        ],
+        [
+         "Redness",
+         "At suture line only",
+         "Extends 3 cm beyond edges"
+        ],
+        [
+         "Pain (0–10)",
+         "2",
+         "6"
+        ],
+        [
+         "Odor",
+         "None",
+         "Foul"
+        ],
+        [
+         "Wound edges",
+         "Approximated",
+         "Approximated"
+        ],
+        [
+         "Sutures",
+         "Intact",
+         "Intact"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "A 58-year-old client with a sutured lower-leg laceration has daily dressing changes. Refer to the Nurses' Notes. Which findings on day 6 indicate that the wound is getting worse? Select all that apply.",
+   "options": [
+    "Drainage character",
+    "Redness",
+    "Pain rating",
+    "Odor",
+    "Wound edges",
+    "Sutures"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Drainage changed from scant serous to moderate thick yellow, which suggests pus.",
+    "Correct. Redness now extends 3 cm beyond the edges, which suggests spreading infection.",
+    "Correct. Pain rose from 2 to 6 after it had been decreasing.",
+    "Correct. A new foul odor suggests infection.",
+    "Incorrect. The edges remain approximated, which has not changed.",
+    "Incorrect. All sutures remain intact, which has not changed."
+   ],
+   "rationale": "At every dressing change, the nurse compares the wound to the last assessment and asks whether it is better, the same, or worse. On day 6, the drainage has become thick and yellow, redness has spread beyond the edges, pain has risen after decreasing, and a foul odor has appeared. Together these signal infection and should be documented and reported. Intact edges and sutures are unchanged and do not indicate worsening, even though infection can later threaten them.",
+   "takeaway": "Compare each dressing change to the last: new pus, odor, spreading redness, or rising pain = worse."
+  },
+  {
+   "id": "m21-x3-020",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [
+    "wound-healing-intention-phases"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 3,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Recall which layers this wound destroyed and what tissue is left to rebuild from.",
+   "hintStrategy": "When options come in opposite pairs, decide which side of the pair matches the stem and eliminate the other.",
+   "stem": "A 39-year-old client has a full-thickness wound on the thigh after a motorcycle crash. The client asks what to expect as it heals. Which information should the nurse include? Select all that apply.",
+   "options": [
+    "The wound will fill in with connective tissue",
+    "A scar will form where the wound heals",
+    "Healing will take longer than for a scrape",
+    "The wound has a higher risk of infection",
+    "The same skin will grow back with no scar",
+    "Hair follicles in the base will regrow the skin"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. No skin-making cells remain in the base, so collagen fills the wound.",
+    "Correct. Connective tissue repair produces a scar.",
+    "Correct. Full-thickness wounds heal more slowly than partial-thickness wounds.",
+    "Correct. Full-thickness wounds are at higher infection risk.",
+    "Incorrect. Regeneration with little scar describes partial-thickness wounds.",
+    "Incorrect. A full-thickness wound has lost the follicles and glands that regenerate skin."
+   ],
+   "rationale": "A full-thickness wound goes through all skin layers and may reach fat, muscle, or bone. Because no skin-making cells remain in its base, the body fills it with connective tissue (collagen) that becomes a scar. These wounds heal more slowly and carry a higher infection risk. The distractors describe partial-thickness healing by regeneration, which depends on hair follicles and glands that a full-thickness wound has lost.",
+   "takeaway": "Full-thickness wounds heal slowly by connective tissue repair, form scars, and carry higher infection risk."
+  },
+  {
+   "id": "m21-x3-021",
+   "type": "sata",
+   "topic": "wound-types-classification",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Wound Types & Classification",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Look at the verb in each option: measure, report, and help versus assess, teach, and evaluate.",
+   "hintStrategy": "For delegation SATA, flag the verbs assess, teach, evaluate, and plan; those stay with the RN.",
+   "stem": "The RN is caring for a client who returned from the emergency department after a deep forearm laceration was sutured. The client is stable. Which tasks can the RN delegate to the nursing assistant? Select all that apply.",
+   "options": [
+    "Measure and record vital signs every 2 hours",
+    "Report to the RN if blood appears on the dressing",
+    "Help the client walk to the bathroom",
+    "Assess the wound for signs of infection",
+    "Teach the client which wound changes to report",
+    "Evaluate whether the pain medicine was effective"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Routine vital signs on a stable client are within the nursing assistant's role.",
+    "Correct. Observing and reporting changes is appropriate for the nursing assistant.",
+    "Correct. Assisting a stable client with mobility is within the nursing assistant's role.",
+    "Incorrect. Assessment requires RN judgment and cannot be delegated.",
+    "Incorrect. Teaching is an RN responsibility.",
+    "Incorrect. Evaluating a client's response to treatment requires RN judgment."
+   ],
+   "rationale": "Nursing assistants can perform routine tasks for stable clients, such as measuring vital signs, assisting with mobility, and reporting what they observe. Assessment, teaching, and evaluation require the RN's clinical judgment and cannot be delegated. Reporting blood on the dressing is appropriate because the assistant observes and reports, while the RN interprets the finding and decides what to do.",
+   "takeaway": "Delegate routine tasks on stable clients; keep assessment, teaching, and evaluation with the RN."
+  },
+  {
+   "id": "m21-x3-022",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "skin-assessment-lesions"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Which body system is affected by throat tightness and wheezing?",
+   "hintStrategy": "Apply ABCs: when any option addresses a threatened airway, it outranks test procedures and comfort measures.",
+   "stem": "A 29-year-old client is having intradermal allergy testing in an allergy clinic. Ten minutes after the injections, the client says, “My throat feels tight,” and the nurse hears wheezing. Which action should the nurse take first?",
+   "options": [
+    "Stay with the client, call for help, and get emergency equipment",
+    "Measure and record the size of the wheal at each test site",
+    "Apply cool compresses to the injection sites on the forearm",
+    "Give an oral antihistamine and recheck the client in 30 minutes"
+   ],
+   "answer": 0,
+   "priority": true,
+   "optionRationales": [
+    "Correct. Throat tightness and wheezing signal a serious reaction affecting the airway; the nurse gets help and emergency equipment immediately.",
+    "Incorrect. Reading the test is irrelevant while the airway is threatened.",
+    "Incorrect. Local comfort measures do not address a systemic airway reaction.",
+    "Incorrect. An oral drug acts too slowly, and leaving the client for 30 minutes is unsafe."
+   ],
+   "rationale": "Intradermal testing injects a small amount of allergen just under the skin. It is more sensitive than a scratch test, so the nurse watches for a serious reaction and keeps emergency equipment available. Throat tightness and wheezing mean the airway is involved, so the nurse stays, calls for help, and prepares emergency treatment per protocol. Measuring wheals is tempting because it is the purpose of the test, but airway always comes before the test result.",
+   "takeaway": "A client with throat tightness or wheezing during allergy testing needs help and emergency equipment immediately."
+  },
+  {
+   "id": "m21-x3-023",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Compare each result with its normal range, then ask which abnormality creates the greatest danger.",
+   "hintStrategy": "When a lab question includes a normal-looking client, the priority is often the abnormal value that could hide a hidden threat.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Laboratory Results",
+      "table": {
+       "headers": [
+        "Test",
+        "Result",
+        "Reference range"
+       ],
+       "rows": [
+        [
+         "WBC",
+         "1,800/mm³",
+         "5,000–10,000/mm³"
+        ],
+        [
+         "Hemoglobin",
+         "12.4 g/dL",
+         "12–16 g/dL"
+        ],
+        [
+         "Albumin",
+         "3.6 g/dL",
+         "3.5–5.0 g/dL"
+        ],
+        [
+         "Glucose",
+         "104 mg/dL",
+         "70–99 mg/dL"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "A 63-year-old woman receiving chemotherapy has a small, slowly healing wound on the shin. The wound edges are pink with no drainage, and the temperature is 37.2 °C (99 °F). Refer to the Laboratory Results. Which result should the nurse report to the provider first?",
+   "options": [
+    "WBC 1,800/mm³",
+    "Albumin 3.6 g/dL",
+    "Hemoglobin 12.4 g/dL",
+    "Glucose 104 mg/dL"
+   ],
+   "answer": 0,
+   "priority": true,
+   "optionRationales": [
+    "Correct. A very low WBC means poor infection defense and can hide the usual signs of infection, so the wound may be infected without looking it.",
+    "Incorrect. Albumin is within the normal range of 3.5–5.0 g/dL.",
+    "Incorrect. This hemoglobin is within the normal range for women and is not the most urgent result.",
+    "Incorrect. This glucose is only slightly elevated and does not pose the greatest risk."
+   ],
+   "rationale": "A low WBC weakens the body's defense against germs and delays healing. It can also mask the classic signs of infection, such as pus, redness, and fever, because there are too few white cells to create them. That is why a wound that looks fine in a client with a WBC of 1,800/mm³ still warrants urgent reporting. The glucose may tempt students because high glucose slows healing, but 104 mg/dL is minimal compared with the risk of an unrecognized infection.",
+   "takeaway": "A low WBC delays healing and can hide signs of infection, so report it even if the wound looks fine."
+  },
+  {
+   "id": "m21-x3-024",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Lifespan & Diversity",
+   "clientNeed": "Psychosocial Integrity",
+   "hintContent": "Consider what the nurse needs to know before deciding whether the remedy is harmful.",
+   "hintStrategy": "When a cultural or family practice appears in a stem, the first step is usually respectful assessment, not correction.",
+   "stem": "A home health nurse visits an 80-year-old client with a leg wound. The wound bed is covered with a greasy, yellow-brown paste, and the client's granddaughter says, “Grandma uses the family recipe on cuts.” Which action should the nurse take first?",
+   "options": [
+    "Tell the family to stop using the paste right away",
+    "Clean the paste off and apply the ordered dressing",
+    "Notify the provider that the family is using a remedy",
+    "Ask what is in the paste and how often it is applied"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Directing before understanding may be unnecessary and can damage trust.",
+    "Incorrect. Acting before learning what the paste is skips assessment and dismisses the family.",
+    "Incorrect. The nurse needs details about the remedy before a useful report can be made.",
+    "Correct. Assessing the home remedy without judgment comes first because some remedies damage tissue, and the nurse needs the facts."
+   ],
+   "rationale": "Nursing care starts by asking about home remedies such as peroxide, alcohol, butter, or herbal pastes, because some damage tissue and hinder healing. The nurse asks without judgment what the remedy contains and how it is used, which builds trust and supplies the data needed for teaching and reporting. Telling the family to stop is tempting, but it skips assessment and may alienate a family whose cooperation is essential. After assessing, the nurse can teach, clean the wound as ordered, and report.",
+   "takeaway": "Ask about home remedies first and without judgment; teach and report after you know what is used."
+  },
+  {
+   "id": "m21-x3-025",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "skin-cancer-sun-protection"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "What stops bleeding fastest with nothing but a clean dressing and a hand?",
+   "hintStrategy": "For telephone triage, choose the instruction the client can safely do right now that treats the actual problem.",
+   "stem": "A 47-year-old client calls the dermatology clinic 5 hours after a punch biopsy of a mole on the upper arm. The client reports that blood has soaked through the small bandage. Which instruction should the nurse give first?",
+   "options": [
+    "“Take off the bandage now and leave the site open to the air.”",
+    "“Press firmly on the site with clean gauze for 10 minutes.”",
+    "“Rinse the site under running water to see the cut.”",
+    "“Come in tomorrow morning so we can take a look at the site.”"
+   ],
+   "answer": 1,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. An open site can bleed more and is exposed to germs; it should stay covered.",
+    "Correct. Firm, direct pressure is the first step to control bleeding from a biopsy site.",
+    "Incorrect. Rinsing disrupts the clot and does not control bleeding.",
+    "Incorrect. Waiting until tomorrow leaves active bleeding untreated."
+   ],
+   "rationale": "After a skin biopsy, the client keeps the site clean and covered and reports bleeding or signs of infection. When bleeding occurs, firm direct pressure is the first action because it controls blood loss at the source. If bleeding does not stop with pressure, the client should be seen. Removing the bandage or rinsing seems helpful for viewing the site, but both disturb the clot and increase bleeding.",
+   "takeaway": "For bleeding from a biopsy site, apply firm direct pressure first, then follow up if it continues."
+  },
+  {
+   "id": "m21-x3-026",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Picture where germs from that dressing could travel next.",
+   "hintStrategy": "For procedure-sequence items, choose the step that contains contamination before moving to a clean step.",
+   "stem": "The nurse removes a dressing saturated with thick yellow drainage from a client's infected leg wound. Which action should the nurse take next?",
+   "options": [
+    "Place the dressing on the bedside table for the provider to see",
+    "Clean the wound while still wearing the soiled gloves",
+    "Apply the new dressing before removing the soiled gloves",
+    "Discard the dressing in the designated waste container"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Leaving a soiled dressing at the bedside spreads germs; the nurse documents the drainage instead.",
+    "Incorrect. Gloves that touched the soiled dressing must be removed and hand hygiene performed before cleaning.",
+    "Incorrect. Using contaminated gloves on a clean dressing transfers germs back into the wound.",
+    "Correct. Soiled dressings go directly into the correct waste container, never left at the bedside, to prevent spreading germs."
+   ],
+   "rationale": "Infection prevention is built into every step of wound care. After removing a soiled dressing, the nurse discards it in the designated container, removes the soiled gloves, performs hand hygiene, and puts on new gloves before cleaning and dressing the wound. Keeping the dressing for the provider to see is tempting, but leaving it at the bedside contaminates the environment; the nurse describes drainage amount, color, and odor in the record instead.",
+   "takeaway": "Discard soiled dressings in the correct container immediately and change gloves with hand hygiene before cleaning the wound."
+  },
+  {
+   "id": "m21-x3-027",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Rank each abnormality by how quickly it could harm the client.",
+   "hintStrategy": "Among abnormal labs, prioritize the one paired with symptoms; an abnormal value that is causing problems now is more urgent than one that slows healing over weeks.",
+   "stem": "The nurse is reviewing morning laboratory results for four clients with wounds. Which client should the nurse follow up with first?",
+   "options": [
+    "A client with an albumin of 3.3 g/dL who eats about 75% of meals",
+    "A client with a hemoglobin of 7.6 g/dL who reports dizziness",
+    "A client with a WBC of 9,600/mm³ and a clean incision",
+    "A client with a glucose of 142 mg/dL after breakfast"
+   ],
+   "answer": 1,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Mildly low albumin needs a nutrition plan but is not an urgent physical threat.",
+    "Correct. Low hemoglobin reduces oxygen to the wound and, with dizziness, suggests unsafe oxygen delivery and fall risk.",
+    "Incorrect. This WBC is within the normal range of 5,000–10,000/mm³.",
+    "Incorrect. A mildly high glucose after a meal needs monitoring but is not the most urgent."
+   ],
+   "rationale": "Hemoglobin carries oxygen to healing tissue, and a level of 7.6 g/dL is well below normal. Combined with dizziness, it signals poor oxygen delivery to the brain and a fall risk, so this client needs follow-up first. Mildly low albumin and a modestly elevated post-meal glucose both slow healing over time and deserve attention, but neither poses the immediate threat. The normal WBC is a distractor.",
+   "takeaway": "Low hemoglobin with symptoms outranks mildly abnormal nutrition or glucose values."
+  },
+  {
+   "id": "m21-x3-028",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Think about what a black light shows and what else on the skin might affect that view.",
+   "hintStrategy": "For test-preparation items, choose the action that protects the accuracy of the result before the test begins.",
+   "stem": "A 9-year-old has patchy, scaly areas on the scalp, and a Wood lamp examination is scheduled. The parent mentions that the child's scalp was treated with a moisturizing oil this morning. Which action should the nurse take first?",
+   "options": [
+    "Darken the room and begin the exam as scheduled",
+    "Reschedule the exam because oil invalidates it for a week",
+    "Have the oil gently washed off the scalp before the exam",
+    "Apply a numbing cream first because the ultraviolet lamp may sting"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Proceeding with oil on the scalp can produce misleading results.",
+    "Incorrect. Simply washing the area off is enough; a week-long delay is unnecessary.",
+    "Correct. The skin should be free of lotions, oils, and makeup so they do not interfere with the glow under the lamp.",
+    "Incorrect. The Wood lamp exam is painless and needs no numbing cream."
+   ],
+   "rationale": "A Wood lamp is a handheld ultraviolet light used in a dark room. Some fungal infections glow, and pigment changes stand out under it. The test is painless, and the skin should be free of lotions and makeup, which can glow or block the view. The nurse removes the oil first rather than proceeding, which is the most tempting wrong choice because the room and lamp are ready.",
+   "takeaway": "Before a Wood lamp exam, remove lotions, oils, and makeup; the exam is painless."
+  },
+  {
+   "id": "m21-x3-029",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "Consider how frequency and water temperature both affect natural skin oils.",
+   "hintStrategy": "When the stem describes several problems (frequency, temperature, product), pick the option that fixes all of them.",
+   "stem": "A nursing assistant reports that an 86-year-old resident's skin is very dry and flaky. The resident has been showering every morning in hot water with deodorant soap. Which change to the care plan is most appropriate?",
+   "options": [
+    "Continue daily showers but use a scented bar soap",
+    "Bathe twice daily in warm water to help soften the dry scales",
+    "Bathe every other day in lukewarm water, then moisturize",
+    "Add a hot bath at night to help the resident relax"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Daily bathing still strips oils, and scented soap can irritate thin skin.",
+    "Incorrect. More frequent bathing removes more natural oils and worsens dryness.",
+    "Correct. Older adults' thinner, drier skin is protected by less frequent bathing, lukewarm water, and moisturizing.",
+    "Incorrect. Hot water dries the skin further and can cause burns."
+   ],
+   "rationale": "Hygiene removes germs, but too much washing strips the skin's natural oils. Adults bathe daily, but children and older adults bathe every other day because their skin is thinner and drier. Bathing should use lukewarm water and a mild or liquid cleanser, with gentle patting dry and a moisturizer applied while the skin is slightly damp. Changing only the soap is tempting, but it keeps the daily bathing and still uses an irritating product.",
+   "takeaway": "Older adults: bathe every other day in lukewarm water with a mild cleanser, then moisturize."
+  },
+  {
+   "id": "m21-x3-030",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall whether a contact allergy appears in minutes or in days.",
+   "hintStrategy": "When two similar tests are taught together, check which test the stem names before applying a timeline.",
+   "stem": "A 41-year-old landscaper with a suspected contact allergy had patch tests applied to the upper back this morning. The client says, “I go to the gym every evening and shower after.” Which response by the nurse is best?",
+   "options": [
+    "“Keep your back dry and avoid heavy sweating until the 48-hour reading.”",
+    "“Showering is fine as long as you pat the patches dry afterward.”",
+    "“Exercise is fine, because the results will be ready in about 20 minutes.”",
+    "“Remove the patches before your workout and put them back on after.”"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Patch tests must stay dry for about 48 hours, so heavy sweating and showering the back are avoided.",
+    "Incorrect. Getting the patches wet can loosen them and affect the results.",
+    "Incorrect. Patch tests detect delayed reactions and are read at removal and again days later.",
+    "Incorrect. Removing the patches interrupts contact with the allergens and invalidates the test."
+   ],
+   "rationale": "Patch tests look for contact dermatitis, a delayed allergy to substances that touch the skin. The allergens are taped to the upper back and must stay on and dry for about 48 hours, which means no showering the back and no heavy sweating. They are read when removed and again a few days later. The 20-minute answer confuses patch testing with scratch testing, which shows a wheal within 15–20 minutes.",
+   "takeaway": "Patch tests: keep dry for about 48 hours, no heavy sweating, and return for a second reading days later."
+  },
+  {
+   "id": "m21-x3-031",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Match the type of allergy test with how quickly its reaction appears.",
+   "hintStrategy": "Distinguish look-alike tests by their timing. The stem names the test, so anchor on that name.",
+   "stem": "A 22-year-old client with seasonal sneezing and itchy eyes has a scratch (prick) test of several allergens on the forearm. The client asks, “How long until we know the results?” Which response by the nurse is accurate?",
+   "options": [
+    "“A raised, itchy bump will appear within 15 to 20 minutes if you react.”",
+    "“You'll need to come back in 48 hours so we can read the results.”",
+    "“The lab will call you in about a week when the culture results are back.”",
+    "“We will know after the sample is examined under a microscope.”"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Scratch test reactions appear as a wheal within about 15–20 minutes.",
+    "Incorrect. The 48-hour reading applies to patch tests for delayed contact allergy.",
+    "Incorrect. No culture is involved; the skin reaction itself is the result.",
+    "Incorrect. Microscopic examination applies to biopsies and KOH preps, not scratch tests."
+   ],
+   "rationale": "In a scratch (prick) test, a tiny drop of each allergen is placed on the skin, which is lightly scratched or pricked. A raised, itchy wheal within about 15–20 minutes shows an allergy, so results are known during the visit. The 48-hour response is tempting because it is also an allergy test timeline, but it belongs to patch testing, which detects delayed reactions to things that touch the skin.",
+   "takeaway": "Scratch test = wheal in 15–20 minutes; patch test = read at 48 hours and again days later."
+  },
+  {
+   "id": "m21-x3-032",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Assessment Findings",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Ask why an infection that clears with treatment would keep returning.",
+   "hintStrategy": "Match the pattern (recurrent bacterial infection) to the test that looks for a hidden source.",
+   "stem": "A 17-year-old soccer player has had four episodes of boils on the thighs and buttocks in 6 months. Each episode cleared with treatment, but the boils keep coming back. Which diagnostic test should the nurse anticipate?",
+   "options": [
+    "Nasal culture to check for Staphylococcus aureus carriage",
+    "Potassium hydroxide (KOH) preparation of skin scrapings",
+    "Tzanck test of cells scraped from the base of a fresh lesion",
+    "Patch test of common allergens on the upper back"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Repeated skin infections suggest the client may carry staph in the nose and keep reinfecting the skin.",
+    "Incorrect. A KOH prep looks for fungus, which causes scaly ring-shaped patches, not boils.",
+    "Incorrect. A Tzanck test looks for herpes-type viral changes in vesicles.",
+    "Incorrect. Patch testing identifies contact allergy, not recurrent bacterial infection."
+   ],
+   "rationale": "A carrier has germs, such as Staphylococcus aureus in the nose, without being sick but can spread them or reinfect their own skin. A nasal culture (carrier study) is used for clients with repeated infections. If positive, the provider prescribes treatment, and the nurse teaches hand hygiene, covering lesions, and not sharing towels, razors, or gear. The other tests match fungal, viral, or allergic problems, not recurrent boils.",
+   "takeaway": "Recurrent boils → think staph carrier → nasal culture."
+  },
+  {
+   "id": "m21-x3-033",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "The provider suspects the immune system is the cause. Which test looks for the immune system's fingerprints?",
+   "hintStrategy": "Link the suspected cause in the stem to the test that detects that cause, and do not be drawn by a shared feature like blisters.",
+   "stem": "A 68-year-old client has tense blisters on the trunk and arms, and the provider suspects an autoimmune blistering disease. A skin sample will be sent for testing. Which test should the nurse anticipate the provider will order on the sample?",
+   "options": [
+    "Immunofluorescence",
+    "Wood lamp examination",
+    "Tzanck test",
+    "Wound culture"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Glowing dyes attach to antibodies or immune deposits in a skin sample, helping diagnose autoimmune skin disease.",
+    "Incorrect. A Wood lamp shows fungal glow and pigment changes, not antibodies.",
+    "Incorrect. A Tzanck test identifies herpes-type viral changes, not autoimmune deposits.",
+    "Incorrect. A culture grows organisms; it does not identify antibodies in tissue."
+   ],
+   "rationale": "Each skin test answers a different question. Immunofluorescence uses glowing dyes that attach to antibodies or immune deposits in a skin sample, so it is used for some autoimmune skin diseases. The Tzanck test is tempting because it also examines blister cells, but it looks for changes caused by herpes-type viruses. Matching the suspected cause to the test is the key skill.",
+   "takeaway": "Immunofluorescence = immune system (antibodies and immune deposits) in a skin sample."
+  },
+  {
+   "id": "m21-x3-034",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Compare every value with its normal range before deciding.",
+   "hintStrategy": "Do not choose the lab you expect to be abnormal; choose the one that actually is.",
+   "stem": "A 55-year-old client with type 2 diabetes has a foot wound that has shown little progress in 3 weeks. Today's results: WBC 7,900/mm³, hemoglobin 14.6 g/dL, albumin 3.9 g/dL, and fasting glucose 276 mg/dL. Which result is most likely slowing the wound's healing?",
+   "options": [
+    "Serum albumin 3.9 g/dL",
+    "Fasting glucose 276 mg/dL",
+    "Hemoglobin 14.6 g/dL",
+    "WBC 7,900/mm³"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. This albumin is within the normal range of 3.5–5.0 g/dL.",
+    "Correct. High blood glucose slows healing and supports bacterial growth.",
+    "Incorrect. This hemoglobin is within the normal range, so oxygen delivery is adequate.",
+    "Incorrect. This WBC is within the normal range of 5,000–10,000/mm³."
+   ],
+   "rationale": "Low WBC, low hemoglobin, low albumin, and high glucose all slow wound healing. In this client, only the glucose is abnormal, so it is the likely culprit. Albumin is a common answer on wound-healing questions, which makes it tempting, but at 3.9 g/dL it is normal. Normal values in the same question are distractors.",
+   "takeaway": "In a client with diabetes, high blood glucose slows wound healing; check each lab against its range."
+  },
+  {
+   "id": "m21-x3-035",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "Name the key nutrient in citrus fruit, then recall its job in healing.",
+   "hintStrategy": "For nutrition items, link each food to its main nutrient and that nutrient to a healing function.",
+   "stem": "A 72-year-old client with a slowly healing hip incision asks, “Why does the dietitian keep sending me orange juice and strawberries?” Which response by the nurse is best?",
+   "options": [
+    "“Fruit sugar gives your wound the energy to fight infection.”",
+    "“Those fruits are high in protein for rebuilding new tissue.”",
+    "“Vitamin C helps your body make collagen, the glue of new tissue.”",
+    "“The acid in citrus helps keep germs out of the wound.”"
+   ],
+   "answer": 2,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Calories matter, but the reason for citrus and berries is vitamin C.",
+    "Incorrect. Fruits are low in protein; protein comes from lean meats, eggs, and dairy.",
+    "Correct. Vitamin C is needed to make collagen, which holds new tissue together.",
+    "Incorrect. Dietary acid does not protect wounds from germs."
+   ],
+   "rationale": "A healing wound increases the body's needs for calories, protein, and vitamins A and C. Vitamin C is required to make collagen, the glue of new tissue, and citrus fruits and berries are rich sources. Protein is the building material for tissue, which makes that option tempting, but fruits supply little protein. Explaining the purpose of foods helps clients choose them consistently.",
+   "takeaway": "Vitamin C builds collagen; protein is the building block; calories fuel healing."
+  },
+  {
+   "id": "m21-x3-036",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "pressure-injuries-prevention"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "What carries oxygen and nutrients to a wound, and what increases its flow?",
+   "hintStrategy": "When an option seems protective but limits normal function, ask whether it actually helps the goal in the stem.",
+   "stem": "A 79-year-old client with a healing lower-leg wound sits in a recliner most of the day watching television. Which intervention will best promote healing of the wound?",
+   "options": [
+    "Keep the leg still on a pillow to avoid stressing the wound",
+    "Plan assisted walks three times a day plus seated ankle pumps",
+    "Encourage the client to rest in bed until the wound closes",
+    "Massage the skin around the wound vigorously twice a day"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Prolonged stillness reduces blood flow and raises the risk of pressure injury.",
+    "Correct. Activity increases blood flow, bringing oxygen and nutrients to the wound and reducing pressure.",
+    "Incorrect. Bed rest decreases circulation and adds pressure injury risk.",
+    "Incorrect. Vigorous rubbing can damage fragile skin and does not replace activity."
+   ],
+   "rationale": "Exercise promotes blood flow to healing tissue and helps prevent pressure injuries. Think of it as opening the roads to a construction site: more blood flow means more oxygen and nutrients reach the wound. Keeping the leg still is tempting because it seems protective, but immobility slows circulation and healing. Short assisted walks and ankle pumps are realistic for an older adult.",
+   "takeaway": "Activity improves blood flow to a wound; immobility slows healing."
+  },
+  {
+   "id": "m21-x3-037",
+   "type": "mcq",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "skin-cancer-sun-protection"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Consider what a fresh, open biopsy site needs protection from.",
+   "hintStrategy": "For “needs further teaching,” look for the statement that would put the client at risk if acted on.",
+   "stem": "A 50-year-old client had a shave biopsy of a changing mole on the back. After discharge teaching, which statement by the client indicates a need for further teaching?",
+   "options": [
+    "“I'll call if the site keeps bleeding through the bandage.”",
+    "“I'll call if I see redness, swelling, or pus around the site.”",
+    "“I'll leave the site uncovered while I work in my garden.”",
+    "“This test will show whether the mole is cancer or not.”"
+   ],
+   "answer": 2,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Reporting bleeding is part of biopsy aftercare.",
+    "Incorrect. Reporting signs of infection is part of biopsy aftercare.",
+    "Correct. The biopsy site should be kept clean and covered, especially during dirty work, to prevent infection.",
+    "Incorrect. A biopsy examines tissue to tell benign from cancerous cells."
+   ],
+   "rationale": "A skin biopsy removes a small piece of a lesion so it can be examined under a microscope to tell whether it is benign or cancerous. Afterward, the client keeps the site clean and covered and reports bleeding or signs of infection. Leaving the site uncovered in garden soil invites infection, so that statement needs correction. The statement about cancer may seem alarming, but it is accurate.",
+   "takeaway": "After a skin biopsy: keep the site clean and covered and report bleeding or signs of infection."
+  },
+  {
+   "id": "m21-x3-038",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Imagine each action on paper-thin skin and ask whether it protects or harms it.",
+   "hintStrategy": "For supervision SATA items, choose actions that match the standard procedure; reject any that sound helpful but add friction or residue.",
+   "stem": "The nurse is supervising a nursing assistant who is bathing an 83-year-old resident with thin, dry skin. Which actions by the nursing assistant are appropriate? Select all that apply.",
+   "options": [
+    "Checks that the bath water is lukewarm before starting",
+    "Washes gently with a mild liquid cleanser",
+    "Pats the skin dry with a soft towel",
+    "Applies moisturizer while the skin is still slightly damp",
+    "Rubs the skin briskly with the towel to stimulate circulation",
+    "Leaves a thin film of soap on the skin to keep it soft"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Lukewarm water avoids drying the skin and prevents burns.",
+    "Correct. Mild cleansers are less drying than harsh soaps.",
+    "Correct. Patting avoids friction injury to thin skin.",
+    "Correct. Moisturizing while damp seals in water.",
+    "Incorrect. Rubbing thin skin causes friction injury and tears.",
+    "Incorrect. All cleanser should be rinsed off because residue dries and irritates skin."
+   ],
+   "rationale": "Gentle hygiene for an older adult includes lukewarm water, a mild liquid cleanser, rinsing off all cleanser, patting dry with a soft towel, and moisturizing while the skin is still slightly damp. Brisk rubbing is a common habit that injures thin, fragile skin. Soap residue dries and irritates the skin rather than softening it. The RN supervises and corrects these steps because the resident's skin integrity depends on them.",
+   "takeaway": "Older adult bathing: lukewarm water, mild cleanser, rinse well, pat dry, moisturize while damp."
+  },
+  {
+   "id": "m21-x3-039",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "pressure-injuries-nursing-process"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "For each row, ask whether it was abnormal at baseline and whether it improved.",
+   "hintStrategy": "In evaluation items, choose only findings that changed toward the goal; stable normal values are distractors.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Flowsheet",
+      "table": {
+       "headers": [
+        "Parameter",
+        "Week 0",
+        "Week 3"
+       ],
+       "rows": [
+        [
+         "Albumin",
+         "2.8 g/dL",
+         "3.6 g/dL"
+        ],
+        [
+         "Meal intake",
+         "About 25%",
+         "75–100%"
+        ],
+        [
+         "Weight",
+         "58.2 kg (128.3 lb)",
+         "59.6 kg (131.4 lb)"
+        ],
+        [
+         "Wound size",
+         "4 × 3 cm",
+         "2.5 × 2 cm"
+        ],
+        [
+         "Hemoglobin",
+         "13.2 g/dL",
+         "13.2 g/dL"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "A 74-year-old client with a slowly healing sacral wound started a nutrition plan with a dietitian 3 weeks ago. Refer to the Flowsheet. Which findings indicate that the nutrition plan is working? Select all that apply.",
+   "options": [
+    "Albumin",
+    "Meal intake",
+    "Weight",
+    "Wound size",
+    "Hemoglobin"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Albumin rose from 2.8 to 3.6 g/dL, now within the normal range of 3.5–5.0 g/dL.",
+    "Correct. Intake rose from about 25% to 75–100% of meals.",
+    "Correct. Weight increased by 1.4 kg (3.1 lb).",
+    "Correct. The wound shrank from 4 × 3 cm to 2.5 × 2 cm.",
+    "Incorrect. Hemoglobin is unchanged at 13.2 g/dL, so it does not show a change from the plan."
+   ],
+   "rationale": "Healing requires calories, protein, and vitamins. Albumin below 3.5 g/dL reflects poor nutrition, so a rise into the normal range, better meal intake, weight gain, and a shrinking wound all show the plan is working. The hemoglobin was normal before and is unchanged, so it does not reflect the effect of the nutrition plan. Evaluating outcomes means looking for change in the problems the plan targeted.",
+   "takeaway": "A working nutrition plan shows rising albumin, better intake, weight gain, and a shrinking wound."
+  },
+  {
+   "id": "m21-x3-040",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "wound-types-classification"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Consider who each step protects: the client, the caregiver, or both.",
+   "hintStrategy": "For home-teaching SATA, check each option for timing words like “only” that make an otherwise good practice incomplete.",
+   "stem": "The nurse is teaching the adult son of a 77-year-old client how to change a dressing on his mother's leg wound at home. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Wash your hands before and after each dressing change",
+    "Put used dressings in a sealed bag in the trash right away",
+    "Call if you see redness, swelling, pus, or black tissue",
+    "Report new warmth, odor, increasing pain, or fever",
+    "Wash your hands only after the dressing change",
+    "Leave the old dressing by the bed so the nurse can check it"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Before protects the wound; after protects the son and others.",
+    "Correct. Safe disposal keeps germs from spreading in the home.",
+    "Correct. These are signs of infection and necrosis to report.",
+    "Correct. These are additional signs of infection.",
+    "Incorrect. Hand hygiene before the change is needed to protect the wound.",
+    "Incorrect. Soiled dressings should not be left at the bedside because they spread germs."
+   ],
+   "rationale": "Every wound is an open door for germs, so infection prevention is part of every step. Hand hygiene before wound care protects the client, and after wound care it protects the caregiver and others. Soiled dressings go straight into the correct waste container, not left at the bedside. Caregivers also learn the signs of infection to report: redness, swelling, pus, dead tissue, warmth, odor, increasing pain, and fever.",
+   "takeaway": "Hand hygiene before and after, safe disposal, and knowing infection signs prevent wound infection at home."
+  },
+  {
+   "id": "m21-x3-041",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Decide the likely cause of each lesion first: fungus, virus, allergy, cancer, or bacteria.",
+   "hintStrategy": "In matching SATA items, assign each option its own best test; select only those that match the test asked about.",
+   "stem": "The nurse in a family practice clinic reviews the day's skin complaints. For which clients should the nurse anticipate a potassium hydroxide (KOH) preparation? Select all that apply.",
+   "options": [
+    "A teen with an itchy, scaly ring-shaped patch with a raised border",
+    "A runner with itchy, scaling, cracked skin between the toes",
+    "A child with painful clustered vesicles on the lip",
+    "A baker with a recurring rash where gloves touch the hands",
+    "An adult with a mole that has darkened and grown",
+    "A wrestler with a third episode of boils this season"
+   ],
+   "answer": [
+    0,
+    1
+   ],
+   "optionRationales": [
+    "Correct. An itchy, scaly ring-shaped patch with a raised border suggests tinea, a fungal infection.",
+    "Correct. Athlete's foot is a fungal infection, so a KOH prep is used.",
+    "Incorrect. Clustered painful vesicles suggest herpes, which calls for a Tzanck test.",
+    "Incorrect. A recurring contact rash calls for patch testing.",
+    "Incorrect. A changing mole calls for a biopsy.",
+    "Incorrect. Recurrent boils call for a nasal carrier culture."
+   ],
+   "rationale": "A KOH prep detects fungus: scrapings from a lesion's edge are mixed with potassium hydroxide, which dissolves skin cells but not fungus. Ring-shaped scaly patches (tinea) and athlete's foot are the classic fungal pictures. Painful clustered vesicles suggest a herpes-type virus (Tzanck test), a recurring contact rash suggests allergy (patch test), a changing mole needs a biopsy, and recurrent boils suggest a staph carrier (nasal culture).",
+   "takeaway": "KOH prep = fungus: ring-shaped scaly patches and athlete's foot."
+  },
+  {
+   "id": "m21-x3-042",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "wound-types-classification"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Ask which products damage new cells and which simply clean or protect.",
+   "hintStrategy": "For “requires follow-up” SATA, select practices that could cause harm, and leave practices that match standard care.",
+   "stem": "During a wound care visit, the nurse asks a 66-year-old client how the leg wound has been cared for at home. Which client statements require follow-up teaching? Select all that apply.",
+   "options": [
+    "“I pour hydrogen peroxide on it every morning.”",
+    "“I dab rubbing alcohol on it so it stays clean.”",
+    "“My mother taught me to cover burns and cuts with butter.”",
+    "“I rinse it with the saline from the pharmacy.”",
+    "“I cover it with a clean dressing after rinsing.”",
+    "“I wash my hands before I touch the dressing.”"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Peroxide can damage healing tissue.",
+    "Correct. Alcohol damages tissue and hinders healing.",
+    "Correct. Butter can trap germs and does not belong on wounds.",
+    "Incorrect. Normal saline is the appropriate cleanser.",
+    "Incorrect. Covering a cleaned wound keeps germs out.",
+    "Incorrect. Hand hygiene before wound care protects the wound."
+   ],
+   "rationale": "Asking about home remedies is the first step of skin and wound care because some remedies, such as peroxide, alcohol, butter, and herbal pastes, damage tissue and hinder healing. The nurse asks without judgment and then teaches safer care. Rinsing with saline, covering with a clean dressing, and hand hygiene are appropriate and should be reinforced. Many clients believe stinging agents clean better, which is why peroxide and alcohol remain common.",
+   "takeaway": "Peroxide, alcohol, butter, and some herbal pastes can harm wounds; saline and a clean dressing are appropriate."
+  },
+  {
+   "id": "m21-x3-043",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Sort each statement by test type, then check the technique and timing against that test.",
+   "hintStrategy": "For look-alike concepts, build a quick mental table of each item's method and timing before judging statements.",
+   "stem": "A nursing student is preparing to assist in an allergy clinic. Which statements by the student about skin allergy tests are accurate? Select all that apply.",
+   "options": [
+    "“A scratch test reaction shows up as a wheal within about 15 to 20 minutes.”",
+    "“Intradermal tests are more sensitive, so emergency equipment stays nearby.”",
+    "“Patch tests look for a delayed allergy to things that touch the skin.”",
+    "“Patch tests are read once, about 20 minutes after they are applied.”",
+    "“An intradermal test places allergens on tape on the upper back.”"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. Scratch (prick) tests show an itchy wheal within about 15–20 minutes.",
+    "Correct. Because intradermal tests are more sensitive, the nurse watches for serious reactions.",
+    "Correct. Patch tests diagnose contact dermatitis, a delayed allergy.",
+    "Incorrect. Patch tests stay on about 48 hours and are read again days later.",
+    "Incorrect. Taped allergens on the back describe a patch test; intradermal tests are injected."
+   ],
+   "rationale": "There are three skin allergy tests. In a scratch (prick) test, allergen is placed on the skin and lightly scratched, with a wheal within about 15–20 minutes. In an intradermal test, a small amount is injected under the skin; it is more sensitive, so the nurse keeps emergency equipment available. Patch tests tape allergens to the upper back to detect delayed contact allergy, staying on and dry for about 48 hours with a second reading days later.",
+   "takeaway": "Scratch = minutes; intradermal = injected and more sensitive; patch = taped, 48 hours, delayed reaction."
+  },
+  {
+   "id": "m21-x3-044",
+   "type": "sata",
+   "topic": "diagnostics-labs-nutrition",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Diagnostics, Labs & Nursing Care",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Lifespan & Diversity",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Think about how bath frequency and products affect natural skin oils in young children.",
+   "hintStrategy": "For lifespan teaching SATA, check each option against age-specific guidance rather than general adult routines.",
+   "stem": "The parent of a 3-year-old with dry, itchy skin asks how to bathe the child. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Bathe the child every other day",
+    "Use lukewarm water and a mild cleanser",
+    "Apply moisturizer while the skin is still slightly damp",
+    "Keep nails short and dress the child in loose cotton",
+    "Give a long, warm bubble bath daily to soothe the itch",
+    "Rub the skin dry briskly to remove flaking skin"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Children's skin is thinner and drier, so every-other-day bathing protects natural oils.",
+    "Correct. Lukewarm water and mild cleansers are less drying.",
+    "Correct. Moisturizing while damp seals in water.",
+    "Correct. Short nails limit scratch damage, and cotton reduces irritation.",
+    "Incorrect. Daily long baths and bubble products strip oils and worsen dryness.",
+    "Incorrect. Rubbing irritates skin; it should be patted dry."
+   ],
+   "rationale": "Hygiene removes germs, but too much washing strips natural oils. Children and older adults bathe every other day because their skin is thinner and drier, while healthy adults bathe daily. Use lukewarm water and a mild cleanser, pat dry, and moisturize while still damp. Comfort measures such as short nails and loose cotton clothing limit scratching and irritation. A daily bubble bath sounds soothing but worsens dryness.",
+   "takeaway": "Children with dry skin: every-other-day lukewarm baths, mild cleanser, pat dry, moisturize while damp."
+  },
+  {
+   "id": "m21-x3-045",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Separate the expected side effects of this acne medicine from signs of a reaction.",
+   "hintStrategy": "Ask whether the finding is expected or excessive. Expected effects call for coaching; excessive effects call for stopping the cause.",
+   "stem": "A 16-year-old started benzoyl peroxide gel for acne 3 days ago. The parent calls the clinic and reports that the teen's face is now bright red, burning, and has small blisters wherever the gel was applied. Which instruction should the nurse give first?",
+   "options": [
+    "“Apply a thicker layer of moisturizer and keep using the gel.”",
+    "“Switch to applying the gel every other day instead.”",
+    "“Scrub the face with a washcloth to remove the peeling skin.”",
+    "“Stop the gel and gently rinse it off with lukewarm water.”"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Moisturizer helps mild dryness, but blistering is a severe reaction that requires stopping the product.",
+    "Incorrect. Reducing frequency is for mild irritation; blistering requires stopping the product.",
+    "Incorrect. Scrubbing worsens irritation and damages already injured skin.",
+    "Correct. Blistering and burning go beyond the expected mild dryness; stopping the product and removing it limits further injury."
+   ],
+   "rationale": "Benzoyl peroxide commonly causes mild dryness, redness, and peeling at first, which is managed with a thin layer and a gentle moisturizer. Bright redness, burning, and blistering are not expected; they signal a severe irritant or allergic reaction. The nurse instructs the family to stop the product and gently rinse it off, and then the provider is notified. Cutting back to every other day is tempting because it fits the start-low teaching, but it continues exposure to a product that is injuring the skin.",
+   "takeaway": "Mild dryness from benzoyl peroxide is expected; burning and blistering mean stop the product and report."
+  },
+  {
+   "id": "m21-x3-046",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Prioritize Hypotheses",
+   "focus": "Prioritization",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Scan each message for any sign that involves breathing or the airway.",
+   "hintStrategy": "Apply ABCs to triage lists: an airway threat outranks pain timing, expected side effects, and routine requests.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Message Log",
+      "table": {
+       "headers": [
+        "Time",
+        "Client",
+        "Message"
+       ],
+       "rows": [
+        [
+         "1302",
+         "Client who used a new chamomile cream",
+         "“My lips are swelling and my voice sounds hoarse since I used it this morning.”"
+        ],
+        [
+         "1305",
+         "Teen using benzoyl peroxide",
+         "“My face is a little dry and my pillowcase has white spots.”"
+        ],
+        [
+         "1310",
+         "Client scheduled for burn debridement",
+         "“My debridement is at 1600. Do I get something for pain first?”"
+        ],
+        [
+         "1315",
+         "Client with psoriasis asking about refills",
+         "“I have 2 days of ointment left. Can you send a refill?”"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "The nurse in a dermatology clinic receives four messages at the start of the afternoon. Refer to the Message Log. Which client should the nurse call back first?",
+   "options": [
+    "Client who used a new chamomile cream",
+    "Teen using benzoyl peroxide",
+    "Client scheduled for burn debridement",
+    "Client with psoriasis asking about refills"
+   ],
+   "answer": 0,
+   "priority": true,
+   "optionRationales": [
+    "Correct. Lip swelling and a hoarse voice after a plant-based product suggest an allergic reaction that may involve the airway.",
+    "Incorrect. Mild dryness and a bleached pillowcase are expected effects.",
+    "Incorrect. Premedication timing matters, but the procedure is 3 hours away and the client is stable.",
+    "Incorrect. A refill question is routine and not physically urgent."
+   ],
+   "rationale": "Any plant product can cause an allergic reaction, and chamomile is related to ragweed. Lip swelling with a hoarse voice suggests swelling that may spread to the airway, so this client is called first and directed to emergency care. The debridement client is tempting because pain management before debridement is important, but there are 3 hours to plan it. Expected benzoyl peroxide effects and routine refills can wait.",
+   "takeaway": "Swelling of the lips or a change in voice after a new product is a possible airway emergency and comes first."
+  },
+  {
+   "id": "m21-x3-047",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+   "hintContent": "Think about when the pain will be worst and when the drug needs to be working.",
+   "hintStrategy": "For pain-timing items, pick the option that prevents pain rather than one that treats it after it occurs.",
+   "stem": "A 36-year-old client with partial- and full-thickness burns on both legs has daily debridement scheduled at 1000. The client is grimacing and says, “Yesterday's debridement was the worst pain of my life.” Which action is most important for the nurse to take?",
+   "options": [
+    "Give the prescribed analgesic as soon as the debridement ends",
+    "Ask the provider to cancel today's debridement because of the pain",
+    "Teach deep breathing to use instead of pain medicine",
+    "Give the prescribed analgesic timed to work during the debridement"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Waiting until afterward leaves the client unprotected during the most painful part.",
+    "Incorrect. Daily debridement removes dead tissue that bacteria grow in; pain is managed rather than skipping care.",
+    "Incorrect. Breathing techniques can add comfort but do not replace analgesia for severe procedural pain.",
+    "Correct. Debridement is painful; timing pain medicine so it peaks during the procedure provides the best relief."
+   ],
+   "rationale": "Burns are treated with daily debridement and sterile dressings because burned skin leaves dead tissue that bacteria love. Debridement is painful, so the nurse plans pain relief before the procedure, timing the ordered medicine to work during it. Medicating afterward is the most tempting wrong answer because it still treats pain, but it leaves the client unprotected during the procedure. Skipping debridement raises infection risk.",
+   "takeaway": "Premedicate before painful procedures like burn debridement so the drug peaks during the procedure."
+  },
+  {
+   "id": "m21-x3-048",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Ask what is happening to the client right now while the wrap stays on.",
+   "hintStrategy": "When you witness an error in progress, stop it first; reporting and education follow.",
+   "stem": "The charge nurse observes a newly hired nurse apply a thick layer of a prescribed corticosteroid ointment to a client's eczema patches on both forearms and then wrap the arms in plastic wrap. The order does not mention a covering. Which action should the charge nurse take first?",
+   "options": [
+    "Complete an incident report before the end of the shift",
+    "Ask the provider to add plastic wrap to the order",
+    "Stop the nurse and have the plastic wrap removed",
+    "Plan an in-service on topical medications for next week"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Reporting may be appropriate, but protecting the client comes first.",
+    "Incorrect. Seeking an order to justify an error does not protect the client.",
+    "Correct. Occlusion without an order increases absorption and the risk of skin thinning; removing it prevents harm now.",
+    "Incorrect. Education helps later, but the client is being harmed now."
+   ],
+   "rationale": "Topical medicines are applied in a thin layer and are not covered with an occlusive (airtight) dressing unless prescribed, because covering increases absorption. A thick layer under plastic wrap delivers more corticosteroid into the skin and body, raising the risk of thin skin, stretch marks, and easy bruising without better results. The charge nurse first stops the practice to protect the client, then coaches the new nurse and follows facility reporting policy. The incident report is tempting because it feels like proper procedure, but client safety comes first.",
+   "takeaway": "Topical steroids: thin layer, no occlusion unless ordered; stop unsafe practice first, then teach and report."
+  },
+  {
+   "id": "m21-x3-049",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Think about what makes steroid-thinned skin tear and how to avoid it.",
+   "hintStrategy": "For “most important” care-plan items, pick the intervention that prevents the most likely injury for this client.",
+   "stem": "A 74-year-old client has taken prednisone daily for 3 years. During a skin assessment, the nurse finds thin, fragile skin with several bruises on both forearms. Which intervention is most important to include in the plan of care?",
+   "options": [
+    "Pad the side rails and use a lift sheet when repositioning",
+    "Bathe the client daily in hot water to keep skin clean",
+    "Massage the bruised areas firmly to improve circulation",
+    "Tape dressings directly onto the forearm skin for protection"
+   ],
+   "answer": 0,
+   "priority": true,
+   "optionRationales": [
+    "Correct. Steroid-thinned skin tears and bruises easily; padding and lift sheets prevent bumps and friction.",
+    "Incorrect. Hot water and daily bathing dry and stress older, thinned skin.",
+    "Incorrect. Firm massage can tear thin skin and worsen bruising.",
+    "Incorrect. Tape removal can tear fragile skin."
+   ],
+   "rationale": "Some medicines change the skin itself. Long-term steroids thin the skin, making it bruise and tear easily, especially in older adults. The nurse protects the skin from bumps, friction, and pressure by padding surfaces, using a lift sheet, and handling gently. Tape on the skin seems protective but can tear fragile skin on removal. Hot daily baths and firm massage add further injury.",
+   "takeaway": "Long-term steroids thin the skin; prevent bumps, friction, and tape injuries."
+  },
+  {
+   "id": "m21-x3-050",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Look at the list for a product that could add to the effect of another medicine.",
+   "hintStrategy": "When a new symptom appears, check the medication list for an interaction before choosing comfort or teaching options.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Medication List",
+      "table": {
+       "headers": [
+        "Medication",
+        "Dose",
+        "Started"
+       ],
+       "rows": [
+        [
+         "Apixaban",
+         "5 mg orally twice daily",
+         "2 years ago"
+        ],
+        [
+         "Triamcinolone 0.1% cream",
+         "Thin layer to affected areas twice daily",
+         "6 months ago"
+        ],
+        [
+         "Evening primrose oil capsules (self-selected)",
+         "1,000 mg orally daily",
+         "3 weeks ago"
+        ],
+        [
+         "Cetirizine",
+         "10 mg orally daily",
+         "1 year ago"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "A 68-year-old client with atopic dermatitis comes to the clinic for a follow-up visit. The client reports new bruises on the arms and bleeding gums when brushing teeth. Refer to the Medication List. Which action should the nurse take first?",
+   "options": [
+    "Notify the provider about the bleeding and the primrose oil use",
+    "Tell the client to apply the primrose oil to the skin instead",
+    "Explain that bruising often occurs with long-standing atopic dermatitis",
+    "Teach the client to use a softer toothbrush at home"
+   ],
+   "answer": 0,
+   "priority": true,
+   "optionRationales": [
+    "Correct. Evening primrose oil may increase bleeding risk with a blood thinner; new bleeding signs need prompt provider review.",
+    "Incorrect. Changing the route without provider review does not address active bleeding signs.",
+    "Incorrect. Bruising and gum bleeding are not features of atopic dermatitis and should not be dismissed.",
+    "Incorrect. A soft brush is reasonable later, but it does not address the cause of new bleeding."
+   ],
+   "rationale": "Evening primrose oil is a complementary product that may increase bleeding risk in a client who takes a blood thinner such as apixaban. New bruising and bleeding gums suggest that risk is happening now, so the nurse reports the bleeding and the supplement to the provider. A softer toothbrush is tempting as a practical step, but it treats a symptom while missing the interaction. Complementary products should always be reviewed with the provider.",
+   "takeaway": "Evening primrose oil plus a blood thinner can increase bleeding; report new bleeding signs right away."
+  },
+  {
+   "id": "m21-x3-051",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Decide which findings show the vacuum is working and which suggest the client is losing blood.",
+   "hintStrategy": "For device questions, separate signs that the device is working from signs that the client is being harmed.",
+   "stem": "A 49-year-old client with a large abdominal wound is receiving negative pressure wound therapy. During rounds, the nurse notes several findings. Which finding requires immediate action?",
+   "options": [
+    "Foam dressing that has collapsed firmly into the wound",
+    "Small amount of pale yellow serous fluid in the tubing",
+    "Client reports a mild pulling sensation at the site",
+    "Bright red blood filling the tubing and canister"
+   ],
+   "answer": 3,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Collapsed, firm foam shows the seal is holding and suction is working.",
+    "Incorrect. Removing extra serous fluid is the purpose of the therapy.",
+    "Incorrect. A mild pulling feeling from suction is expected.",
+    "Correct. Fresh bright red blood suggests active bleeding into the device, which can lead to significant blood loss."
+   ],
+   "rationale": "Negative pressure wound therapy uses a foam dressing sealed with clear film and connected to a vacuum. Gentle suction pulls out extra fluid, draws the wound edges together, and boosts blood flow. Collapsed foam, serous fluid in the tubing, and a mild pulling feeling show the device is working. Bright red blood filling the tubing and canister signals active bleeding, which needs immediate action and provider notification. The collapsed foam may look alarming to a new nurse, but it is the expected appearance of a working seal.",
+   "takeaway": "With negative pressure wound therapy, collapsed foam and serous drainage are expected; bright red blood in the canister is an emergency."
+  },
+  {
+   "id": "m21-x3-052",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "wound-healing-factors-exudate"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Match the problem (a wound that will not heal) to the team member with that expertise.",
+   "hintStrategy": "For team-role items, pick the member whose job description matches the exact problem in the stem.",
+   "stem": "A 71-year-old client has a leg wound that has shown no improvement after 5 weeks of dressing changes ordered by the primary provider. The client's nutrition and glucose have been addressed. Which action by the nurse is best?",
+   "options": [
+    "Ask the case manager to order a new dressing type",
+    "Request a wound care nurse consultation",
+    "Continue the same dressing for another 5 weeks",
+    "Have the nursing assistant change the dressing twice daily"
+   ],
+   "answer": 1,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. The case manager arranges discharge, home care, and supplies, not treatment plans.",
+    "Correct. A wound care nurse is a consultant for complex or non-healing wounds and recommends a treatment plan.",
+    "Incorrect. A wound with no progress needs a change in plan, not more of the same.",
+    "Incorrect. Changing the dressing more often without a new plan does not address non-healing, and the RN keeps assessment."
+   ],
+   "rationale": "An interprofessional team improves outcomes through better communication and fewer complications. A wound care nurse has special training in complex wounds and is consulted when a wound does not heal. The case manager is tempting because that role coordinates care, but case managers arrange discharge, home care, supplies, and insurance rather than wound treatment. Continuing an ineffective plan delays healing.",
+   "takeaway": "A non-healing or complex wound needs a wound care nurse consult."
+  },
+  {
+   "id": "m21-x3-053",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Look in the stem for a personal risk factor that connects to the product.",
+   "hintStrategy": "When the stem gives a specific client detail, the most important teaching usually addresses that detail.",
+   "stem": "A 45-year-old client with mild eczema and a known ragweed allergy says, “My friend gave me a chamomile cream. I'd like to try it.” Which information is most important for the nurse to provide?",
+   "options": [
+    "“Chamomile works better than prescription creams for eczema.”",
+    "“Herbal creams are natural, so they are safe to use as often as you like.”",
+    "“Chamomile is related to ragweed, so it may cause an allergic reaction.”",
+    "“You can stop your prescribed cream once the chamomile starts working.”"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Evidence for complementary products is limited; this statement is inaccurate.",
+    "Incorrect. Natural does not mean safe; plant products can cause allergic reactions.",
+    "Correct. Chamomile is related to ragweed, so this client has a specific allergy risk.",
+    "Incorrect. Complementary products are used alongside, not instead of, prescribed care."
+   ],
+   "rationale": "Chamomile, aloe vera, and evening primrose oil may soothe irritation, but the evidence is limited, and natural does not mean safe. Any plant product can cause an allergic reaction, and chamomile is related to ragweed, so this client is at particular risk. The client should tell the provider, use it alongside prescribed care, and stop it if burning, rash, or swelling develops. The other statements are inaccurate and could cause harm.",
+   "takeaway": "Chamomile is related to ragweed; clients with ragweed allergy may react to it."
+  },
+  {
+   "id": "m21-x3-054",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall the steps of topical application and find the one that follows putting on gloves.",
+   "hintStrategy": "For procedure items, name the last completed step in the stem and choose the step that comes right after it.",
+   "stem": "The nurse has verified the order, identified the client, performed hand hygiene, and put on gloves to apply a corticosteroid cream to a client's psoriasis plaques. Yesterday's cream is still visible on the skin. Which action should the nurse take next?",
+   "options": [
+    "Apply a new layer of cream directly over the old cream",
+    "Cover the plaques with an airtight dressing first",
+    "Gently clean and dry the skin to remove the old cream",
+    "Rub the cream in briskly against the direction of hair growth"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. Layering over old medicine increases the dose and prevents good contact with the skin.",
+    "Incorrect. Occlusion is not used unless prescribed because it increases absorption.",
+    "Correct. The skin is cleaned and dried, removing old medicine, before a new thin layer is applied.",
+    "Incorrect. Cream is rubbed in gently in the direction of hair growth to avoid irritating follicles."
+   ],
+   "rationale": "Safe topical application follows a sequence: check the order and identify the client, perform hand hygiene and put on gloves, gently clean and dry the skin and remove old medicine, apply a thin layer and rub it in gently in the direction of hair growth, avoid occlusion unless prescribed, then remove gloves, perform hand hygiene, and document. Applying over old cream is tempting because it seems efficient, but it builds up the dose and the risk of skin thinning.",
+   "takeaway": "Remove old topical medicine and dry the skin before applying a new thin layer."
+  },
+  {
+   "id": "m21-x3-055",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Think about what protective layer the burn has lost and what that means for technique.",
+   "hintStrategy": "When a safety breach is about to happen, choose the option that prevents it rather than one that corrects it later.",
+   "stem": "A nursing student is about to apply a new dressing to a client's burn wound immediately after debridement. The nurse notices the student is wearing clean, nonsterile gloves and holding a dressing that was opened earlier and left on the bedside table. Which action should the nurse take first?",
+   "options": [
+    "Allow the student to continue because the wound was just cleaned",
+    "Tell the student to rinse the dressing in saline before applying",
+    "Stop the student and have sterile supplies and technique used",
+    "Discuss the technique with the student after the dressing is on"
+   ],
+   "answer": 2,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. A freshly debrided burn is still highly vulnerable; clean technique is not enough.",
+    "Incorrect. Rinsing does not make an exposed dressing sterile.",
+    "Correct. Burned skin has lost its barrier, so dressings are applied with sterile technique.",
+    "Incorrect. Waiting allows contamination of the burn wound."
+   ],
+   "rationale": "Burns are treated with daily debridement and sterile dressings. Burned skin has lost its protective barrier, and the dead tissue left behind is a favorite place for bacteria, so dressings are applied with sterile technique. The nurse stops the student before contamination occurs. Discussing it afterward is tempting because it avoids embarrassing the student, but client safety comes before comfort, and the teaching can happen privately once the risk is removed.",
+   "takeaway": "Burn dressings are sterile; stop a break in technique before it reaches the client."
+  },
+  {
+   "id": "m21-x3-056",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Consider how skin thickness on the face and groin changes how much drug is absorbed.",
+   "hintStrategy": "When a client reports an unsafe self-care change, stop the unsafe practice first, then involve the provider.",
+   "stem": "A 31-year-old client was prescribed a high-potency corticosteroid ointment for thick psoriasis plaques on the elbows and knees. At a follow-up visit, the client says, “It works so well that I've also been putting it on my face and in my groin where it itches.” Which action should the nurse take first?",
+   "options": [
+    "Tell the client to stop using it on the face and groin and inform the provider",
+    "Praise the client for managing the itching independently",
+    "Suggest covering the face and groin with plastic wrap at night to boost the effect",
+    "Advise using a thicker layer to the elbows and knees"
+   ],
+   "answer": 0,
+   "priority": true,
+   "optionRationales": [
+    "Correct. Strong steroids are not used on the face or skin folds because thin skin absorbs more and thins easily.",
+    "Incorrect. Using a strong steroid on thin skin is unsafe and should not be reinforced.",
+    "Incorrect. Occlusion further increases absorption and harm.",
+    "Incorrect. A thin layer is correct; a thicker layer does not improve results and adds risk."
+   ],
+   "rationale": "High-potency corticosteroids are applied in a thin layer only to the plaques, for the prescribed short course, and not to the face or skin folds, because thin skin absorbs more medicine and thins easily. The nurse instructs the client to stop applying it to those areas and informs the provider, who can assess the itching and the skin there. Praising self-management is tempting in a therapeutic sense, but it reinforces a harmful practice.",
+   "takeaway": "Strong topical steroids do not go on the face or skin folds; thin skin absorbs more."
+  },
+  {
+   "id": "m21-x3-057",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Identify the client's actual barrier: is it a treatment question or a logistics question?",
+   "hintStrategy": "Match the client's need to the team member's job, not to the body part involved.",
+   "stem": "A 66-year-old client will be discharged tomorrow with a large abdominal wound that needs daily dressing changes. The wound care nurse has written a treatment plan, but the client says, “I don't have any supplies at home, and I'm not sure my insurance covers nurse visits.” Which team member should the nurse contact first?",
+   "options": [
+    "The wound care nurse",
+    "The case manager",
+    "The surgeon",
+    "The dermatologist"
+   ],
+   "answer": 1,
+   "priority": true,
+   "optionRationales": [
+    "Incorrect. The wound care nurse has already provided the treatment plan; supplies and insurance are outside that role.",
+    "Correct. Case managers plan discharge, arrange home care, equipment, and supplies, and coordinate insurance.",
+    "Incorrect. The surgeon repairs wounds and removes dead tissue but does not arrange home services.",
+    "Incorrect. A dermatologist treats skin diseases, not discharge logistics."
+   ],
+   "rationale": "An interprofessional team works best when each member contributes from their role. The case manager plans discharge, arranges home health, equipment, and supplies, and coordinates insurance, which is exactly what this client needs. The wound care nurse is tempting because the issue involves a wound, but the treatment plan is already done. The nurse teaches the client and family and makes sure everyone shares the same plan.",
+   "takeaway": "Case manager = discharge planning, home care, supplies, and insurance."
+  },
+  {
+   "id": "m21-x3-058",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Decide whether the teen's complaints are expected effects or warning signs.",
+   "hintStrategy": "For “best response” items, choose the option that is accurate and keeps the client on effective therapy when the problem is manageable.",
+   "stem": "A 14-year-old using benzoyl peroxide gel for 1 week tells the school nurse, “My skin is a little dry and flaky, and the gel bleached my pillowcase. I'm going to quit.” Which response by the nurse is best?",
+   "options": [
+    "“Those are signs of an allergic reaction, so stop the gel and see your provider.”",
+    "“Use the gel three times a day so your skin gets used to it faster.”",
+    "“Scrub your face before applying it so the flakes come off.”",
+    "“Some dryness is expected. An oil-free moisturizer and white linens can help.”"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Mild dryness and fabric bleaching are expected, not allergic, effects.",
+    "Incorrect. Increasing use too quickly worsens irritation; the dose is increased slowly.",
+    "Incorrect. Scrubbing worsens irritation and is always the wrong answer for acne care.",
+    "Correct. Mild dryness and bleaching are expected effects that can be managed while continuing the medicine."
+   ],
+   "rationale": "Benzoyl peroxide is the first-line acne treatment because it kills bacteria and unplugs oil ducts. Some dryness, redness, and peeling are expected at first and are eased with a gentle, oil-free moisturizer, and the product bleaches fabric and hair, so white towels and pillowcases help. Improvement takes several weeks. Calling the dryness an allergy is tempting, but mild effects are expected; burning, blistering, or swelling would be reasons to stop.",
+   "takeaway": "Benzoyl peroxide: mild dryness and bleaching are expected; manage them and keep going."
+  },
+  {
+   "id": "m21-x3-059",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Picture the clog of dead skin in the pore and which product acts like a drain cleaner.",
+   "hintStrategy": "When two drugs treat the same problem, separate them by mechanism and watch for a mechanism attached to the wrong drug.",
+   "stem": "A 17-year-old with blackheads and a few red pimples asks how the salicylic acid face wash recommended by the pharmacist works. Which explanation by the nurse is accurate?",
+   "options": [
+    "“It kills the bacteria that cause acne, which is why it bleaches towels.”",
+    "“It calms your hormones so your oil glands make less oil.”",
+    "“It seals your pores closed so dirt and oil can't get in.”",
+    "“It loosens dead skin cells so they shed and don't plug your pores.”"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Killing bacteria and bleaching fabric describe benzoyl peroxide.",
+    "Incorrect. Salicylic acid does not change hormones or oil production.",
+    "Incorrect. Sealing pores is not how it works; it clears them by exfoliation.",
+    "Correct. Salicylic acid exfoliates and also reduces inflammation."
+   ],
+   "rationale": "Acne forms when hormones increase oil (sebum), oil and dead skin cells plug the duct, and bacteria grow in the plug. Salicylic acid works by exfoliation, loosening the glue between dead skin cells so they shed and don't plug pores, and it reduces inflammation. The bacteria-killing explanation is tempting because acne medicines are often grouped together, but that is how benzoyl peroxide works. Like benzoyl peroxide, salicylic acid can cause dryness, so it is started slowly.",
+   "takeaway": "Salicylic acid exfoliates and reduces inflammation; benzoyl peroxide kills bacteria and unplugs ducts."
+  },
+  {
+   "id": "m21-x3-060",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "skin-assessment-lesions"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Lifespan & Diversity",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Consider how darker skin responds to inflammation and irritation.",
+   "hintStrategy": "For diversity items, avoid both stereotypes and one-size-fits-all answers; choose care tailored to the documented difference.",
+   "stem": "A 24-year-old client with dark brown skin has mild acne. The client says, “Even after my pimples heal, dark spots stay for months.” Which plan should the nurse anticipate?",
+   "options": [
+    "Aggressive daily scrubbing to fade the dark spots",
+    "The same plan as any client, since skin tone does not matter",
+    "Combination therapy chosen carefully by a skin specialist",
+    "Stopping all acne products until the spots fade"
+   ],
+   "answer": 2,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Scrubbing increases inflammation and can worsen dark spots in darker skin.",
+    "Incorrect. Skin tone affects inflammation and discoloration, so the plan may differ.",
+    "Correct. Darker skin is prone to inflammation and lasting dark spots, so combination therapy may be needed and chosen with care.",
+    "Incorrect. Untreated acne keeps causing new inflammation and new dark spots."
+   ],
+   "rationale": "Darker skin is more prone to inflammation, and after a pimple heals it often keeps a dark spot for months. Clients with darker skin may need combination therapy, such as medicines plus chemical peels or microdermabrasion done by a skin specialist. Because these treatments can also irritate darker skin, they are chosen and done carefully. The one-size-fits-all answer is tempting because it sounds fair, but culturally competent care recognizes real differences in skin response.",
+   "takeaway": "Darker skin is prone to inflammation and lasting dark spots, so acne plans may combine therapies chosen carefully."
+  },
+  {
+   "id": "m21-x3-061",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "skin-cancer-sun-protection"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Ask whether the client's past sun experience applies while taking this drug.",
+   "hintStrategy": "For “needs further teaching,” look for a statement that relies on the client's old habits instead of the new risk.",
+   "stem": "A 33-year-old client is starting doxycycline for a skin infection and leaves for a beach trip next week. After teaching, which statement by the client indicates a need for further teaching?",
+   "options": [
+    "“I rarely burn, so I can skip sunscreen while I'm on this.”",
+    "“I'll wear a hat and sit in the shade during midday.”",
+    "“I'll use an SPF 30 or higher sunscreen when I'm outdoors.”",
+    "“I'll tell my provider right away if I get a bad sunburn.”"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Doxycycline increases sun sensitivity regardless of usual tanning ability, so sun protection is needed.",
+    "Incorrect. Shade and protective clothing reduce sun exposure.",
+    "Incorrect. SPF 30+ sunscreen is recommended with sun-sensitizing drugs.",
+    "Incorrect. A severe reaction should be reported."
+   ],
+   "rationale": "Some medicines taken for other problems change the skin. Doxycycline, an antibiotic, increases sun sensitivity, so clients taking it need shade, protective clothing, and SPF 30 or higher sunscreen outdoors. A client's usual ability to tan does not protect against a drug-induced reaction. The other statements reflect correct teaching.",
+   "takeaway": "Doxycycline increases sun sensitivity; teach shade, protective clothing, and SPF 30+ sunscreen."
+  },
+  {
+   "id": "m21-x3-062",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Sort each problem as minor and short-lived or chronic and inflammatory.",
+   "hintStrategy": "For “which client” items, find the one that differs from the others in the key feature named in the stem.",
+   "stem": "The clinic nurse is reviewing four calls. Which client should the nurse advise to see the provider for a prescription treatment rather than an over-the-counter (OTC) product?",
+   "options": [
+    "A teen with a few whiteheads on the forehead",
+    "An adult with a long-standing, itchy eczema flare",
+    "A child whose school sent home a note about head lice",
+    "An adult with a mild sunburn after a picnic"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Minor acne is usually treated with OTC benzoyl peroxide or salicylic acid.",
+    "Correct. Eczema is a long-lasting inflammatory condition treated with prescription medicines.",
+    "Incorrect. Lice are usually treated with OTC shampoos or lotions.",
+    "Incorrect. Mild sunburn is usually managed with OTC soothing products and cool compresses."
+   ],
+   "rationale": "OTC medicines treat minor problems that clients can often manage at home: minor acne, lice, and sunburn. Eczema, psoriasis, and dermatitis are longer-lasting inflammatory conditions that need a provider to diagnose and manage, usually with prescription topical or oral medicines. Head lice may seem more serious because they spread, but they are routinely treated with OTC products and careful teaching.",
+   "takeaway": "OTC: minor acne, lice, sunburn. Prescription: eczema, psoriasis, dermatitis."
+  },
+  {
+   "id": "m21-x3-063",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Psychosocial Integrity",
+   "hintContent": "Find the response that is both accurate about the evidence and respectful of the client's choice.",
+   "hintStrategy": "For therapeutic responses, avoid absolute statements and choose the one that is truthful and keeps the client engaged.",
+   "stem": "A 52-year-old client with psoriasis says, “I read that aloe vera is natural, so I'm going to use it instead of the steroid cream my dermatologist prescribed.” Which response by the nurse is best?",
+   "options": [
+    "“Aloe may soothe your skin, but use it with your prescribed cream, not instead.”",
+    "“Aloe is natural, so it is a safe and effective substitute for your cream.”",
+    "“Aloe does not work at all, so you should not use it.”",
+    "“Stop the cream for a week and see whether the aloe works.”"
+   ],
+   "answer": 0,
+   "priority": false,
+   "optionRationales": [
+    "Correct. Complementary products have limited evidence and should be used alongside prescribed care.",
+    "Incorrect. Natural does not mean safe or effective; stopping prescribed treatment can cause a flare.",
+    "Incorrect. Aloe may soothe skin; dismissing it outright damages trust and is inaccurate.",
+    "Incorrect. Stopping prescribed treatment without the provider can worsen psoriasis."
+   ],
+   "rationale": "Aloe vera, chamomile, and evening primrose oil may soothe irritation and promote healing, but the evidence is limited. Complementary products should be used alongside prescribed care, never instead of it, and the provider should know about every product. Saying aloe does not work at all is tempting because it discourages substitution, but it is inaccurate and can push the client away. The best response respects the client's interest while keeping effective treatment in place.",
+   "takeaway": "Complementary products are used alongside, not instead of, prescribed care, and the provider should know about them."
+  },
+  {
+   "id": "m21-x3-064",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Analyze Cues",
+   "focus": "Pathophysiology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Think about what suction physically does to fluid and tissue in a sealed wound.",
+   "hintStrategy": "When options promise that a therapy makes other treatments unnecessary, be cautious; absolutes are usually wrong.",
+   "stem": "A 60-year-old client with a large leg wound is starting negative pressure wound therapy. The client asks, “How is a vacuum supposed to help my wound heal?” Which explanation by the nurse is accurate?",
+   "options": [
+    "“The suction pulls the bacteria out, so you won't need any antibiotics for this wound.”",
+    "“Gentle suction removes extra fluid, pulls the edges together, and boosts blood flow.”",
+    "“The vacuum keeps the wound dry so a scab can form over it.”",
+    "“The machine removes dead tissue so surgery is never needed.”"
+   ],
+   "answer": 1,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. The device removes fluid; it does not replace antibiotics when an infection is present.",
+    "Correct. These are the three ways negative pressure wound therapy promotes healing.",
+    "Incorrect. The goal is not scab formation; it is fluid removal, edge contraction, and blood flow.",
+    "Incorrect. Removing dead tissue is debridement; the device does not replace it."
+   ],
+   "rationale": "Negative pressure wound therapy is used for severe wounds. A foam dressing is placed in the wound and sealed with clear film, and a tube connects it to a vacuum device. Gentle suction pulls out extra fluid, draws the wound edges together, and increases blood flow to promote healing. The bacteria option is tempting because removing drainage sounds like removing germs, but the device does not replace antibiotics or debridement.",
+   "takeaway": "Negative pressure wound therapy removes extra fluid, draws edges together, and increases blood flow."
+  },
+  {
+   "id": "m21-x3-065",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Ask whether each task needs clinical judgment or is a routine care task.",
+   "hintStrategy": "For delegation items, prescription medications, teaching, and evaluation stay with the licensed nurse.",
+   "stem": "The RN is caring for a hospitalized client with psoriasis who has a prescribed corticosteroid ointment twice daily. Which task is appropriate for the RN to delegate to the nursing assistant?",
+   "options": [
+    "Apply the prescribed corticosteroid ointment to the plaques",
+    "Evaluate whether the plaques are improving with treatment",
+    "Teach the client to avoid applying the ointment to the face or skin folds",
+    "Bathe the client with a mild cleanser and report new skin changes"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Administering a prescription medication is an RN responsibility in this setting.",
+    "Incorrect. Evaluating response to treatment requires RN judgment.",
+    "Incorrect. Teaching is an RN responsibility.",
+    "Correct. Bathing and reporting observations are within the nursing assistant's role."
+   ],
+   "rationale": "Nursing assistants bathe, turn and reposition, keep skin clean and dry, and report skin changes to the nurse. Administering prescription medications, evaluating treatment response, and teaching require RN knowledge and judgment. Applying the ointment is tempting because it seems like simple skin care, but it is medication administration and needs assessment of the skin and the drug's effects.",
+   "takeaway": "Nursing assistants bathe and report skin changes; the RN gives medications, teaches, and evaluates."
+  },
+  {
+   "id": "m21-x3-066",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Identify the client's misconception before choosing what to teach.",
+   "hintStrategy": "For teaching items, the best response corrects the specific misconception the client voiced.",
+   "stem": "A 19-year-old client has been using benzoyl peroxide gel four times a day and a salicylic acid scrub twice a day for 1 week. The face is red and peeling, and the client says, “These are store-bought, so they can't really hurt me.” Which response by the nurse is best?",
+   "options": [
+    "“Use them even more often, because peeling means they are working.”",
+    "“Products sold without a prescription can't cause real problems, so just keep going.”",
+    "“Add a washcloth scrub at night to remove the peeling skin.”",
+    "“Even store-bought products can irritate. Use a thin layer once daily and build up slowly.”"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Overuse increases irritation without improving results.",
+    "Incorrect. This repeats the misconception; OTC products can harm skin when overused.",
+    "Incorrect. Scrubbing adds friction and worsens irritation of already inflamed skin.",
+    "Correct. OTC products still need correct use; starting thin and slow reduces irritation."
+   ],
+   "rationale": "Clients often think no prescription means no risk, and they may overuse products. Both benzoyl peroxide and salicylic acid can cause dryness, so they are started slowly with a thin layer, often once a day, and increased as the skin adjusts. Scrubbing worsens irritation. The idea that peeling proves the product is working is tempting, but excessive irritation is a sign of overuse that should be corrected.",
+   "takeaway": "OTC does not mean no risk; start acne products thin and once daily, increase slowly, and avoid scrubbing."
+  },
+  {
+   "id": "m21-x3-067",
+   "type": "mcq",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "lifespan-skin"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+   "hintContent": "Recall how long-term steroids change skin structure.",
+   "hintStrategy": "For “indicates understanding,” choose the statement that applies the teaching to the client's own daily life.",
+   "stem": "The nurse teaches a 58-year-old client who will take prednisone long term about protecting the skin. Which statement by the client indicates understanding?",
+   "options": [
+    "“I'll take hot showers twice a day to keep my skin clean.”",
+    "“I'll scrub any bruises firmly so they heal faster.”",
+    "“My skin will get thicker and tougher the longer I take this medicine.”",
+    "“I'll wear long sleeves when gardening so I don't scrape my arms.”"
+   ],
+   "answer": 3,
+   "priority": false,
+   "optionRationales": [
+    "Incorrect. Hot, frequent showers dry the skin and add risk.",
+    "Incorrect. Scrubbing can tear thinned skin.",
+    "Incorrect. Steroids thin the skin rather than thickening it.",
+    "Correct. Long-term steroids thin the skin, so protecting it from bumps and scrapes prevents tears and bruising."
+   ],
+   "rationale": "Steroids taken long term can thin the skin, making it bruise and tear easily. Teaching focuses on protection from bumps and clothing friction, gentle skin care, and sun protection. Wearing long sleeves while gardening shows the client understands how to prevent injury. The hot-shower statement may seem hygienic, but it dries the skin and adds risk.",
+   "takeaway": "Long-term steroids thin the skin; teach protection from bumps, friction, and harsh skin care."
+  },
+  {
+   "id": "m21-x3-068",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "infectious-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Think about how lice spread and how eggs survive a single treatment.",
+   "hintStrategy": "In teaching SATA, reject any option that exceeds label directions or permits sharing of personal items.",
+   "stem": "The school nurse is teaching the parent of a 7-year-old with head lice about using an over-the-counter lice treatment. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Follow the package directions exactly",
+    "Comb out the nits with a fine-tooth comb",
+    "Check the hair again after treatment",
+    "Wash bedding and hats in hot water",
+    "Apply extra product to make sure all lice are killed",
+    "Let siblings share the child's comb after it is rinsed"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. OTC lice products must be used exactly as labeled to be safe and effective.",
+    "Correct. Removing eggs prevents reinfestation.",
+    "Correct. Rechecking finds any lice or nits that were missed.",
+    "Correct. Hot water kills lice and nits on items the child used.",
+    "Incorrect. Using more than directed adds risk without benefit.",
+    "Incorrect. Combs and hats should not be shared."
+   ],
+   "rationale": "Head lice are usually treated with OTC shampoos or lotions, but OTC still requires careful teaching. The parent follows the label exactly, combs out nits with a fine-tooth comb, checks the hair again afterward, washes bedding and hats in hot water, and does not let anyone share combs or hats. Using extra product is a common mistake rooted in the belief that OTC means harmless.",
+   "takeaway": "Lice: follow the label exactly, comb out nits, recheck, hot-wash bedding and hats, and don't share."
+  },
+  {
+   "id": "m21-x3-069",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Take Action",
+   "focus": "Pharmacology",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Ask of each step whether it controls how much drug the skin absorbs.",
+   "hintStrategy": "For procedure SATA, include steps from the standard sequence and reject any that change the dose or absorption.",
+   "stem": "The nurse is applying a prescribed topical corticosteroid cream to a client's eczema patches on the forearms. Which actions by the nurse are appropriate? Select all that apply.",
+   "options": [
+    "Put on gloves before touching the cream",
+    "Gently clean and dry the skin, removing old cream",
+    "Apply a thin layer and rub it in gently",
+    "Rub in the direction of hair growth",
+    "Cover the area with plastic wrap to hold the cream in",
+    "Apply a thick layer so the cream lasts longer"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Gloves keep the nurse from absorbing the drug and protect the client from germs.",
+    "Correct. Clean, dry skin allows good contact and avoids buildup of drug.",
+    "Correct. A thin layer is effective and limits absorption.",
+    "Correct. Following hair growth reduces irritation of follicles.",
+    "Incorrect. Occlusion increases absorption and is used only when prescribed.",
+    "Incorrect. More medicine increases absorption and side effects without better results."
+   ],
+   "rationale": "Topical medicine application starts with checking the order, identifying the client, hand hygiene, and gloves. The nurse gently cleans and dries the skin, removing old medicine, then applies a thin layer and rubs it in gently in the direction of hair growth. The area is not covered with an occlusive dressing unless prescribed. Afterward the nurse removes gloves, performs hand hygiene, documents, and watches for irritation or skin thinning.",
+   "takeaway": "Topical application: gloves, clean and dry, thin layer in direction of hair growth, no occlusion unless ordered."
+  },
+  {
+   "id": "m21-x3-070",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Health Promotion and Maintenance",
+   "hintContent": "Weigh each statement against the strength of the evidence and the known risks.",
+   "hintStrategy": "In SATA teaching items, absolute claims such as “cannot” or “cure” are usually the incorrect options.",
+   "stem": "A 47-year-old client with dermatitis asks about using aloe vera gel, chamomile cream, and evening primrose oil capsules. Which information should the nurse include in the teaching? Select all that apply.",
+   "options": [
+    "Tell your provider about every product you use",
+    "Stop any product that causes burning, rash, or swelling",
+    "Use these alongside your prescribed treatment, not instead of it",
+    "Products taken by mouth can interact with your medicines",
+    "Natural products cannot cause allergic reactions",
+    "Strong research shows these products cure dermatitis"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. The provider needs a full list to watch for interactions and allergies.",
+    "Correct. These are signs of an allergic or irritant reaction.",
+    "Correct. Evidence for complementary products is limited.",
+    "Correct. Evening primrose oil, for example, may increase bleeding risk with blood thinners.",
+    "Incorrect. Any plant product can cause an allergic reaction.",
+    "Incorrect. The evidence for these products is limited."
+   ],
+   "rationale": "Aloe vera, chamomile, and evening primrose oil may soothe irritation and promote healing, but the evidence is limited. Natural does not mean safe for everyone: any plant product can cause an allergy, and products taken by mouth can interact with medicines. Clients should use them alongside prescribed care, tell the provider about every product, and stop any product that causes burning, rash, or swelling.",
+   "takeaway": "Complementary products: limited evidence, possible allergies and interactions, use alongside prescribed care, and tell the provider."
+  },
+  {
+   "id": "m21-x3-071",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Analyze Cues",
+   "focus": "Delegation & Safety",
+   "clientNeed": "Safe and Effective Care Environment: Management of Care",
+   "hintContent": "Picture the skill set each team member brings, then check each description against it.",
+   "hintStrategy": "For role-matching SATA, reject options that assign RN-only tasks to assistants or logistics to specialists.",
+   "stem": "A nurse educator is reviewing interprofessional roles in skin and wound care with new graduate nurses. Which role descriptions are accurate? Select all that apply.",
+   "options": [
+    "The case manager arranges home care, supplies, and insurance coverage",
+    "The wound care nurse consults on complex or non-healing wounds",
+    "The oncologist treats advanced skin cancers such as advanced melanoma",
+    "The surgeon removes lesions and dead tissue and repairs wounds",
+    "The nursing assistant assesses wounds and teaches wound care",
+    "The dermatologist arranges home health visits after discharge"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Case managers plan discharge and coordinate home services and insurance.",
+    "Correct. Wound care nurses recommend treatment plans for difficult wounds.",
+    "Correct. Oncologists manage skin cancers that need more than simple removal.",
+    "Correct. Surgeons perform removal, repair, and debridement.",
+    "Incorrect. Assessment and teaching belong to the RN.",
+    "Incorrect. Arranging home services is the case manager's role."
+   ],
+   "rationale": "An interprofessional team leads to better communication and fewer complications. The nurse assesses, gives medicines, performs wound care, teaches, and coordinates. Nursing assistants bathe, reposition, keep skin clean and dry, and report changes. The wound care nurse consults on complex wounds, the case manager handles discharge logistics, the provider diagnoses and orders, the dermatologist treats skin diseases, the oncologist treats advanced skin cancers, and the surgeon removes lesions and dead tissue.",
+   "takeaway": "Know each team member's role so the right person gets the right problem."
+  },
+  {
+   "id": "m21-x3-072",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "inflammatory-skin-disorders"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Client Teaching",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Recall what the gel does to fabric, to skin moisture, and how quickly it works.",
+   "hintStrategy": "For teaching SATA, eliminate options that increase skin trauma, such as squeezing, scrubbing, or hot water.",
+   "stem": "The nurse is teaching a 15-year-old who is starting benzoyl peroxide gel for acne. Which instructions should the nurse include? Select all that apply.",
+   "options": [
+    "Start with a thin layer, often once a day",
+    "Expect some dryness and peeling at first",
+    "Use white towels and pillowcases",
+    "Expect improvement to take several weeks",
+    "Squeeze pimples gently after applying the gel",
+    "Wash your face in hot water to open the pores"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Starting low lets the skin adjust and limits irritation.",
+    "Correct. Mild dryness and peeling are expected early effects.",
+    "Correct. Benzoyl peroxide can bleach fabric and hair.",
+    "Correct. Acne treatment requires patience.",
+    "Incorrect. Picking or squeezing pimples worsens inflammation.",
+    "Incorrect. Lukewarm water is used; hot water dries and irritates."
+   ],
+   "rationale": "Benzoyl peroxide is the first-line acne treatment because it kills bacteria and unplugs ducts. Clients start with a thin layer, often once daily, and increase slowly. Some dryness, redness, and peeling are expected, and a gentle oil-free moisturizer helps. It bleaches fabric and hair, so white linens help. The face is washed gently with lukewarm water, pimples are not picked or squeezed, and improvement takes several weeks.",
+   "takeaway": "Benzoyl peroxide: thin layer, start slowly, expect dryness, use white linens, be patient, never pick or scrub."
+  },
+  {
+   "id": "m21-x3-073",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "wound-healing-complications"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Evaluate Outcomes",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Physiological Adaptation",
+   "hintContent": "Match each row to one of the three goals of the vacuum therapy.",
+   "hintStrategy": "In evaluation items, select only findings that move toward the therapy's goal; a new warning sign is never evidence of success.",
+   "exhibit": {
+    "tabs": [
+     {
+      "title": "Wound Care Notes",
+      "table": {
+       "headers": [
+        "Assessment",
+        "Day 1",
+        "Day 14"
+       ],
+       "rows": [
+        [
+         "Wound size",
+         "8 × 6 cm",
+         "5 × 4 cm"
+        ],
+        [
+         "Drainage volume",
+         "180 mL/day",
+         "40 mL/day"
+        ],
+        [
+         "Wound bed",
+         "Pale pink, 30% red tissue",
+         "Beefy red, 80% red tissue"
+        ],
+        [
+         "Odor",
+         "None",
+         "Foul"
+        ],
+        [
+         "Temperature",
+         "37.0 °C (98.6 °F)",
+         "38.3 °C (101 °F)"
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   "stem": "A 64-year-old client with a severe sacral wound has received negative pressure wound therapy for 2 weeks. Refer to the Wound Care Notes. Which findings indicate that the therapy is effective? Select all that apply.",
+   "options": [
+    "Wound size",
+    "Drainage volume",
+    "Wound bed",
+    "Odor",
+    "Temperature"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ],
+   "optionRationales": [
+    "Correct. The wound has shrunk from 8 × 6 cm to 5 × 4 cm, showing the edges are drawing together.",
+    "Correct. Daily canister output decreased from 180 mL to 40 mL as extra fluid is removed.",
+    "Correct. More beefy red tissue reflects better blood flow and healing.",
+    "Incorrect. A new foul odor suggests infection, not effective therapy.",
+    "Incorrect. A temperature rising to 38.3 °C (101 °F) suggests infection."
+   ],
+   "rationale": "Negative pressure wound therapy pulls out extra fluid, draws the wound edges together, and boosts blood flow. Effective therapy therefore shows a smaller wound, less drainage, and a healthier, beefy red wound bed. A new foul odor and a rising temperature are signs of infection that should be reported even when other measures are improving. Evaluating an intervention means comparing results with what the therapy is designed to do.",
+   "takeaway": "Effective negative pressure therapy: smaller wound, less drainage, healthier red tissue; new odor or fever means infection."
+  },
+  {
+   "id": "m21-x3-074",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "pressure-injuries-wound-care-debridement"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 2,
+   "cjmm": "Generate Solutions",
+   "focus": "Nursing Interventions",
+   "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+   "hintContent": "Think about the lost skin barrier and the pain of removing dead tissue.",
+   "hintStrategy": "For care-plan SATA, select actions that address both the safety risk and the comfort need named in the stem.",
+   "stem": "The nurse is planning care for a 28-year-old client with extensive burns on the arms who has daily debridement prescribed. Which actions should the nurse include? Select all that apply.",
+   "options": [
+    "Give prescribed pain medicine timed to work during debridement",
+    "Apply dressings using sterile technique",
+    "Monitor the wounds for signs of infection",
+    "Perform debridement daily as prescribed",
+    "Use clean gloves for new dressings to save time",
+    "Hold pain medicine until debridement is finished"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Debridement is painful, so pain relief is planned before the procedure.",
+    "Correct. Burned skin has lost its barrier, so dressings are sterile.",
+    "Correct. Dead tissue in burns supports bacterial growth.",
+    "Correct. Daily removal of dead tissue lets healthy tissue grow.",
+    "Incorrect. Clean technique is not enough for burn wounds.",
+    "Incorrect. Waiting leaves the client in pain during the procedure."
+   ],
+   "rationale": "Burns are treated with daily debridement and sterile dressings. Debridement removes dead tissue that bacteria grow in so healthy tissue can form, and sterile technique is required because the protective skin barrier is gone. Because debridement is painful, the nurse gives ordered pain medicine timed to work during the procedure and monitors for signs of infection. Holding pain medicine until afterward is tempting because the medicine still gets given, but it leaves the procedure unmanaged.",
+   "takeaway": "Burns: premedicate, debride daily, use sterile dressings, and watch for infection."
+  },
+  {
+   "id": "m21-x3-075",
+   "type": "sata",
+   "topic": "skin-therapies-pharm",
+   "alsoTests": [
+    "skin-structure-function"
+   ],
+   "ref": "Module 21 · Tissue Integrity · Pharmacologic & Collaborative Therapy",
+   "difficulty": 3,
+   "cjmm": "Recognize Cues",
+   "focus": "Assessment Findings",
+   "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+   "hintContent": "Separate the drug's intended effects from signs that the skin itself is being damaged.",
+   "hintStrategy": "In adverse-effect SATA items, sort each option into therapeutic effect or harm before selecting.",
+   "stem": "A 57-year-old client has used a prescribed topical corticosteroid on the inner thighs for several months. Which findings at the application site should the nurse report to the provider? Select all that apply.",
+   "options": [
+    "Thin, shiny skin",
+    "New stretch marks",
+    "Bruises that appear with minor bumps",
+    "A skin tear after removing tape",
+    "Less redness and scaling than before",
+    "Itching that has decreased"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "optionRationales": [
+    "Correct. Skin thinning is an adverse effect of long-term topical steroid use.",
+    "Correct. Stretch marks are an adverse effect of heavy or long-term use.",
+    "Correct. Easy bruising reflects steroid-thinned skin.",
+    "Correct. Easy tearing reflects steroid-thinned skin.",
+    "Incorrect. Reduced inflammation is the intended effect.",
+    "Incorrect. Reduced itching shows the medicine is working."
+   ],
+   "rationale": "Topical corticosteroids calm redness, itching, and scaling, but long-term or heavy use can thin the skin, cause stretch marks, and make the skin bruise or tear easily. More drug is absorbed where skin is thin, such as the inner thighs and folds. Thin, shiny, easily bruised skin or stretch marks should be reported. Less redness, scaling, and itching are the therapeutic effects the nurse hopes to see.",
+   "takeaway": "Report thin, shiny skin, stretch marks, easy bruising, or tearing where a topical steroid has been used long term."
+  }
+ ]
+}

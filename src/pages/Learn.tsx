@@ -3,7 +3,8 @@ import { Link, useParams } from 'react-router-dom';
 import { MODULE_BY_ID, UNGROUPED_MODULES, UNITS, UNIT_BY_SLUG, isNewModule, readingMinutes, topicKey, unitModules, unitOf } from '../data';
 import type { Module, Topic } from '../data/types';
 import { Icon } from '../components/Icon';
-import { TopicArticle } from '../components/TopicArticle';
+import { TopicArticle, sectionId } from '../components/TopicArticle';
+import { useEffect, useState } from 'react';
 import { Bar, stagger } from '../components/ui';
 import { statusOf } from '../lib/analytics';
 import { cx } from '../lib/util';
@@ -242,16 +243,38 @@ export function ModulePage() {
 export function TopicPage() {
   const { moduleId = '', topicId = '' } = useParams();
   const m = MODULE_BY_ID[moduleId];
-  const { read, markRead } = useProgress();
+  const { read, markRead, setLastTopic } = useProgress();
   const { scrollYProgress } = useScroll();
   const progress = useSpring(scrollYProgress, { stiffness: 200, damping: 30 });
   const topic = m?.topics.find((t) => t.id === topicId);
+  const [activeSec, setActiveSec] = useState(-1);
+  const key = topic ? topicKey(m.id, topic.id) : '';
+  useEffect(() => {
+    if (key) setLastTopic(key);
+  }, [key, setLastTopic]);
+  useEffect(() => {
+    if (!topic) return;
+    setActiveSec(-1);
+    const els = (topic.sections ?? []).map((_, i) => document.getElementById(sectionId(i))).filter(Boolean) as HTMLElement[];
+    const io = new IntersectionObserver(
+      (entries) => {
+        const vis = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
+        if (vis) setActiveSec(Number(vis.target.id.replace('sec-', '')));
+      },
+      { rootMargin: '-20% 0px -70% 0px' },
+    );
+    els.forEach((el) => io.observe(el));
+    return () => io.disconnect();
+  }, [topic]);
   if (!m || !topic) return <NotFound />;
   const i = m.topics.indexOf(topic);
   const prev = m.topics[i - 1];
   const next = m.topics[i + 1];
   const n = m.questions.filter((q) => q.topic === topic.id).length;
-  const key = topicKey(m.id, topic.id);
+  const go = (j: number) => (e: React.MouseEvent) => {
+    e.preventDefault();
+    document.getElementById(sectionId(j))?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
 
   return (
     <div className="container" style={{ ['--mc' as string]: m.color }}>
@@ -264,24 +287,45 @@ export function TopicPage() {
         </Link>
       </nav>
       <div className="reader">
-        <aside className="toc" aria-label="Topics in this module">
-          <span className="eyebrow" style={{ display: 'block', padding: '0 12px 8px' }}>
-            Module {m.number}
-          </span>
+        <aside className="toc" aria-label="Lessons in this module">
+          <span className="eyebrow toc-head">Module {m.number} lessons</span>
           {m.topics.map((t) => (
-            <Link key={t.id} to={`/learn/${m.id}/${t.id}`} className={cx(t.id === topic.id && 'current')}>
-              {read[topicKey(m.id, t.id)] && <Icon name="check" width={13} className="toc-check" />}
-              {t.title}
-            </Link>
+            <div key={t.id}>
+              <Link to={`/learn/${m.id}/${t.id}`} className={cx(t.id === topic.id && 'current')}>
+                {read[topicKey(m.id, t.id)] && <Icon name="check" width={13} className="toc-check" />}
+                {t.title}
+              </Link>
+              {t.id === topic.id && (
+                <ol className="toc-sections">
+                  {(topic.sections ?? []).map((s, j) =>
+                    s.heading ? (
+                      <li key={j}>
+                        <a href={`#${sectionId(j)}`} onClick={go(j)} className={cx(activeSec === j && 'on')}>
+                          {s.heading}
+                        </a>
+                      </li>
+                    ) : null,
+                  )}
+                </ol>
+              )}
+            </div>
           ))}
+          {n > 0 && (
+            <Link className="btn btn-primary btn-sm toc-cta" to={`/practice?modules=${m.id}&topics=${key}`}>
+              <Icon name="pulse" /> Practice this lesson · {n}
+            </Link>
+          )}
         </aside>
         <div>
           <TopicArticle moduleId={m.id} topic={topic} />
           <motion.div onViewportEnter={() => markRead(key)} viewport={{ once: true }} />
           <div className="article-foot">
+            <div className="foot-msg">
+              <b>Finished reading?</b> Lock it in with questions on this lesson.
+            </div>
             {n > 0 && (
               <Link className="btn btn-primary" to={`/practice?modules=${m.id}&topics=${key}`}>
-                <Icon name="pulse" /> Practice this topic · {n}
+                <Icon name="pulse" /> Practice this lesson · {n}
               </Link>
             )}
             <Link className="btn" to={`/flashcards?modules=${m.id}&topics=${topic.id}`}>

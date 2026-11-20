@@ -165,6 +165,8 @@ export interface SelfCheck {
 
 export interface TopicSection {
   heading?: string;
+  /** One-sentence takeaway shown under the heading. */
+  keyIdea?: string;
   body?: string;
   bullets?: string[];
   steps?: string[];

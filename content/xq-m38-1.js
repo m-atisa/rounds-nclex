@@ -1,0 +1,2754 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m38",
+  "moduleNumber": 38,
+  "moduleTitle": "Communication",
+  "questions": [
+    {
+      "id": "m38-x1-001",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client with COPD sits leaning forward with hands on the knees, using neck muscles to breathe. Oxygen saturation is 87%. When asked about breathing, the client says, “I’m breathing fine, don’t fuss over me.” What should the nurse do first?",
+      "options": [
+        "Assess respiratory status and apply oxygen as prescribed.",
+        "Accept the report and recheck the saturation in an hour.",
+        "Ask the client why the symptoms are being minimized.",
+        "Document that the client denies any shortness of breath at this time."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The tripod position, accessory muscle use, and a saturation of 87% are objective signs of distress that need action now.",
+        "Incorrect. The words conflict with clear physical findings; waiting delays care for a breathing problem.",
+        "Incorrect. A “why” question sounds like blame and does nothing for the low oxygen level.",
+        "Incorrect. Charting the words alone ignores the objective cues and delays intervention."
+      ],
+      "rationale": "When words and behavior do not match, the nurse treats the cue as data to explore, not proof of either statement. Here the incongruent cues involve breathing, so ABCs come first: the nurse assesses and intervenes for the low saturation, then gently explores the client’s statement. Accepting “I’m fine” is the most tempting wrong answer because it respects autonomy, but autonomy does not mean ignoring objective signs of respiratory distress. Explore the mismatch after the airway and breathing are addressed.",
+      "takeaway": "When incongruent cues signal physical danger, act on the objective findings first, then explore the words.",
+      "hintContent": "Compare what the client says with what the saturation and posture show.",
+      "hintStrategy": "When one option addresses an ABC problem and the others address words or charting, choose the ABC action.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-002",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "During the surgical time-out, the circulating nurse notices that the skin marking is on the left knee, but the signed consent lists the right knee. The surgeon says, “We’re behind schedule. Let’s go.” Which statement by the nurse is most appropriate?",
+      "options": [
+        "“Stop. The marked site does not match the consent; we must verify now.”",
+        "“Sorry to interrupt. It may be nothing, so go ahead if you are sure.”",
+        "“You obviously skipped the consent again; I am reporting you to the chief.”",
+        "“I will document the site discrepancy after the procedure is finished.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This is assertive: it states the specific discrepancy and the needed action directly and respectfully.",
+        "Incorrect. This passive reply apologizes and backs off, leaving a wrong-site risk unaddressed.",
+        "Incorrect. This aggressive reply attacks the person and distracts from the safety issue.",
+        "Incorrect. Charting later does not prevent harm; the concern must be resolved before incision."
+      ],
+      "rationale": "Assertive communication states the finding and the action needed in a direct, honest, and respectful way. A wrong-site risk requires the team to pause before incision, so the nurse names the mismatch and asks for verification now. The passive reply is tempting because it avoids conflict, but it leaves the client unprotected. The aggressive reply may feel strong, yet it targets the surgeon rather than the problem and can derail the discussion.",
+      "takeaway": "Assertive = name the specific safety concern and the needed action now, without apology or attack.",
+      "hintContent": "Ask which reply both protects the client and keeps the team focused on the problem.",
+      "hintStrategy": "For conflict items, cross out replies that apologize and retreat or that blame and threaten; choose the specific, respectful request.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-003",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "At 0200, the nurse called the provider about a client who is 1 day post hip surgery with new restlessness. The provider said, “Increase the oxygen and I’ll see him in the morning.” Thirty minutes later, the nurse reviews the findings in the exhibit. What should the nurse do next?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Vital signs",
+            "table": {
+              "headers": [
+                "Time",
+                "RR",
+                "SpO2",
+                "HR",
+                "Behavior"
+              ],
+              "rows": [
+                [
+                  "0200",
+                  "28/min",
+                  "89% on 2 L",
+                  "108/min",
+                  "Restless"
+                ],
+                [
+                  "0230",
+                  "32/min",
+                  "88% on 4 L",
+                  "118/min",
+                  "Pulling at gown, more restless"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Activate the rapid response team per the escalation policy.",
+        "Recheck the oxygen saturation in one hour as the provider planned.",
+        "Document the provider’s response and keep monitoring.",
+        "Call the provider and say the family will file a complaint."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The client is worsening despite the provider’s plan, so the concern is unresolved and needs the next level of help now.",
+        "Incorrect. Waiting allows hypoxia and rising heart rate to progress in a client who is getting worse.",
+        "Incorrect. Charting does not resolve the risk; the change requires escalation.",
+        "Incorrect. A threat is aggressive and shifts focus from the client’s findings to conflict."
+      ],
+      "rationale": "Communication does not end the nurse’s responsibility. When a safety concern is brushed off and the client worsens, the nurse uses the facility’s escalation pathway rather than waiting. Rising respiratory and heart rates with falling saturation despite more oxygen signal deterioration, so the rapid response team is appropriate. Rechecking later is tempting because it follows the provider’s words, but the findings have changed since that plan was made.",
+      "takeaway": "If a client worsens after a concern is dismissed, escalate through the pathway now.",
+      "hintContent": "Compare the two rows: is the client better, the same, or worse after the plan?",
+      "hintStrategy": "When the stem shows a trend after an intervention, decide whether the outcome was met; if not, choose the next level of action.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [
+        "reporting"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-004",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A clinic nurse opens a secure portal message sent 15 minutes ago by a client who began a higher dose of an antidepressant last week: “I’ve been thinking it would be easier for everyone if I weren’t here anymore.” What should the nurse do first?",
+      "options": [
+        "Reply through the portal with the phone number for a 24-hour crisis line.",
+        "Forward the message to the prescriber’s inbox for review.",
+        "Call the client now to assess safety and follow crisis protocol.",
+        "Schedule an office visit for the next available opening."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A portal reply may be read late or not at all, which is unsafe for a possible suicide risk.",
+        "Incorrect. Routing to an inbox delays direct contact with a client who may be in danger.",
+        "Correct. A possible suicide risk is urgent and needs direct, immediate contact and the emergency pathway.",
+        "Incorrect. A future visit does not address risk that may be present right now."
+      ],
+      "rationale": "Match the channel to urgency. A statement suggesting thoughts of self-harm is time-sensitive, so the nurse makes direct, immediate contact and follows the crisis or emergency protocol. Electronic replies can be misread or read late. Sending a crisis line number feels helpful and is the most tempting distractor, but it shifts all responsibility to the client and gives the nurse no way to assess safety.",
+      "takeaway": "Urgent safety concerns need direct, immediate contact, not a message that may be read later.",
+      "hintContent": "Consider how fast each channel actually reaches the client.",
+      "hintStrategy": "In channel questions, any risk to life points to the fastest direct contact plus the emergency pathway.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-005",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client newly diagnosed with type 2 diabetes will go home on insulin. After teaching, the client nods and says, “Yep, I’ve got it,” but glances away from the syringe whenever the nurse holds it up. What should the nurse do next?",
+      "options": [
+        "Give the written handout and record that teaching is complete.",
+        "Ask, “Do you have any questions?” and continue with discharge.",
+        "Repeat the entire explanation more slowly from the beginning.",
+        "Ask the client to show how to draw up and inject the dose."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A handout and a nod do not show that the client can safely give insulin.",
+        "Incorrect. A yes/no check often gets a polite “no” and does not prove understanding.",
+        "Incorrect. Another lecture assumes the problem is knowledge without finding the real barrier.",
+        "Correct. A return demonstration is evidence of understanding and may reveal fear or a skill gap."
+      ],
+      "rationale": "Feedback shows whether a message worked, and a nod or “I’ve got it” is not proof. The nurse asks the client to demonstrate the skill, which both verifies learning and gives a chance to notice the hesitation around the syringe. Repeating the explanation is tempting because it seems thorough, but it never identifies whether the barrier is fear, skill, or something else. Evidence comes from explanation in the client’s own words or a demonstration.",
+      "takeaway": "Verify learning with a return demonstration or explanation, never with a nod.",
+      "hintContent": "Ask what would actually prove the client can give insulin at home.",
+      "hintStrategy": "For “evaluate teaching” items, choose the option where the client performs or explains, not where the nurse talks more.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-006",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client on a busy medical unit turns on the call light and shouts as the nurse enters, “I’ve been waiting three hours for my pain pill! Nobody here cares!” Which response by the nurse is best initially?",
+      "options": [
+        "“Please lower your voice; other clients are resting nearby.”",
+        "“You’ve waited and you’re hurting. Let me check your pain right now.”",
+        "“We are short-staffed today, so everyone is waiting longer.”",
+        "“Don’t worry, I’m sure your pain medicine will be here any minute now.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This addresses the volume, not the client’s pain or feelings, and may escalate anger.",
+        "Correct. This acknowledges the feeling and moves straight to assessing the need behind it.",
+        "Incorrect. This is defensive and centers the nurse’s situation rather than the client’s pain.",
+        "Incorrect. This is false reassurance; the nurse cannot promise timing and has not assessed pain."
+      ],
+      "rationale": "Anger often signals an unmet need. An empathic reply names the feeling and the concern, and then the nurse assesses the pain the client is reporting. Defensive explanations, even if true, turn care into an argument and block communication. Asking the client to lower their voice is tempting because it seems to protect others, but it ignores the real problem and can increase frustration.",
+      "takeaway": "With an angry client, acknowledge the feeling and address the need instead of defending the unit.",
+      "hintContent": "Look for the reply that responds to both the emotion and the reported pain.",
+      "hintStrategy": "Eliminate replies that defend, promise, or correct the client; choose the one that names the feeling and acts on the concern.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-007",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client is being discharged with a new colostomy. While the nurse reviews pouch care, the client says, “I guess I’ll figure it out somehow,” then looks away from the stoma and becomes quiet. Which response by the nurse is best first?",
+      "options": [
+        "“You’ll be fine. Most people get used to an ostomy quickly.”",
+        "“If I were you, I’d have your daughter change the pouch.”",
+        "“What part of caring for the pouch at home feels uncertain?”",
+        "“Let’s go through the pouch-change steps again from the start.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This is false reassurance; it promises an outcome and closes the conversation.",
+        "Incorrect. This gives advice and replaces the client’s values and wishes with the nurse’s.",
+        "Correct. This open question invites the client to name the real worry before the nurse chooses an action.",
+        "Incorrect. More teaching assumes the barrier is knowledge, which has not been assessed."
+      ],
+      "rationale": "Hesitant words plus looking away and going quiet are cues to explore, not to reassure. A neutral open question lets the client name whether the concern is fear, body image, skill, supplies, or support. Repeating the steps is the most tempting option because teaching seems productive, but it may miss the real barrier entirely. Match the action to the need only after the need is known.",
+      "takeaway": "Uncertain words plus withdrawal call for an open question, not reassurance or more lecture.",
+      "hintContent": "The cues suggest a hidden worry; what reply would uncover it?",
+      "hintStrategy": "For “best response” items, choose the option that keeps the client talking about their own concern.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-008",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A nurse sees an assistive personnel (AP) about to transfer a client with a high fall risk from bed to chair without a gait belt. The AP says, “It’s faster this way; she’s light.” Which statement by the nurse is most appropriate?",
+      "options": [
+        "“Okay, but be careful. I don’t want either of us in trouble.”",
+        "“That is lazy. I will write you up if I see that again.”",
+        "“Never mind, I will just do all of her transfers myself from now on.”",
+        "“Wait, please. She’s a fall risk; I need you to use a gait belt.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This passive reply lets the unsafe transfer happen.",
+        "Incorrect. This aggressive reply attacks the AP and does not state the safety need.",
+        "Incorrect. This avoids the conversation and does not correct the unsafe practice.",
+        "Correct. This assertive reply states the concern and the specific action needed now."
+      ],
+      "rationale": "Assertiveness applies to the whole team, not just providers. The nurse states the specific risk and the required action directly and respectfully, which stops the unsafe transfer and teaches at the same time. The passive reply is tempting because it keeps the peace, but the client remains at risk. Taking over all transfers seems helpful but avoids the issue and does not change the practice.",
+      "takeaway": "Address unsafe team practice with a calm, specific request that names the risk and the fix.",
+      "hintContent": "Which reply stops the unsafe act now and explains why?",
+      "hintStrategy": "In delegation-conflict items, the best answer corrects the unsafe action immediately with a clear, respectful directive.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-009",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "An older adult client is brought to the emergency department with sudden right-sided facial droop. The client cannot answer questions, and the spouse says symptoms started “sometime this morning.” Which question by the nurse is most important to ask the spouse first?",
+      "options": [
+        "“How has he been feeling about his health lately?”",
+        "“What time did you last see him acting normally?”",
+        "“Why did you wait to bring him in for care?”",
+        "“Can you describe his medical history for me?”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This open question is useful later but does not get the time-critical fact.",
+        "Correct. This focused question gets the last-known-well time that guides urgent stroke decisions.",
+        "Incorrect. A “why” question sounds like blame and delays the needed information.",
+        "Incorrect. History matters, but the onset time is the most urgent fact right now."
+      ],
+      "rationale": "No single technique is always correct; the nurse picks the one that fits the purpose. When a time-critical fact is needed, a focused question works better than an open one. With sudden stroke signs, the time the client was last known to be normal guides emergency treatment. The broad history question is tempting because it is thorough, but it delays the one fact the team needs first.",
+      "takeaway": "Use a focused question when you need one time-critical fact fast.",
+      "hintContent": "What single piece of information will change the emergency plan?",
+      "hintStrategy": "When the stem says “first” in an emergency, choose the question that gets the most time-sensitive data.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [
+        "communication-adaptations"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-010",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A clinic nurse reviews the portal inbox shown in the exhibit at 0815. Which message should the nurse respond to first by calling the client directly?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Portal inbox",
+            "table": {
+              "headers": [
+                "Received",
+                "Client",
+                "Message"
+              ],
+              "rows": [
+                [
+                  "0640",
+                  "Client A, 58",
+                  "“Need a refill on my cholesterol pill. I have 5 left.”"
+                ],
+                [
+                  "0705",
+                  "Client B, 34",
+                  "“Can I move my Friday appointment to the afternoon?”"
+                ],
+                [
+                  "0730",
+                  "Client C, 61",
+                  "“Got chemo 6 days ago. Temp is 101.5°F and I have chills.”"
+                ],
+                [
+                  "0750",
+                  "Client D, 45",
+                  "“My fasting sugar this morning was 142. Is that okay?”"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Client A, who is requesting a refill of a cholesterol medication.",
+        "Client B, who wants to change the time of an appointment.",
+        "Client D, who is asking about a fasting glucose of 142.",
+        "Client C, who reports a fever and chills after chemotherapy."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A refill with 5 days left is routine and can be handled through normal channels.",
+        "Incorrect. Scheduling is not time-sensitive and suits a portal reply.",
+        "Incorrect. A mildly high fasting glucose needs follow-up but is not an emergency.",
+        "Correct. Fever after chemotherapy can signal a life-threatening infection and needs immediate direct contact."
+      ],
+      "rationale": "Electronic messages improve access but can be read late, so the nurse must match the channel to urgency. Fever and chills about a week after chemotherapy suggest possible infection when white cell counts may be low, which is an emergency. That message needs a direct phone call and the emergency protocol, not a routine portal reply. The glucose message is tempting because it contains a number, but a mildly elevated value is not immediately dangerous.",
+      "takeaway": "Scan electronic messages for urgency and switch to direct contact for anything potentially life-threatening.",
+      "hintContent": "Which message describes a problem that could become life-threatening within hours?",
+      "hintStrategy": "In inbox or assignment exhibits, rank by physical risk first, then by time sensitivity.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-011",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client who had a myocardial infarction 2 days ago says, “My father died of a heart attack at 50. I guess I’m next.” Which response by the nurse is most therapeutic?",
+      "options": [
+        "“You’re worried this heart attack means you’ll die young like he did.”",
+        "“Don’t think that way. Treatment has improved a lot since then.”",
+        "“Why would you assume that the same thing will happen to you too?”",
+        "“Let’s focus instead on your cardiac rehab schedule for next week.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This reflection names the fear and invites the client to say more.",
+        "Incorrect. This dismisses the feeling and offers reassurance the nurse cannot guarantee.",
+        "Incorrect. A “why” question can sound like a challenge and put the client on the defensive.",
+        "Incorrect. This changes the subject and avoids the client’s fear."
+      ],
+      "rationale": "Reflection restates the feeling or main idea so the client can confirm it or explain more. Here the client links his own illness to his father’s death, and naming that fear opens the conversation. The reply about improved treatment is tempting because it contains a true fact, but it tells the client not to feel what he feels and closes the topic. Validate the emotion first; information can come later.",
+      "takeaway": "Reflection names the client’s feeling so they can confirm and expand on it.",
+      "hintContent": "Find the reply that names what the client fears.",
+      "hintStrategy": "Cross out options that dismiss, challenge with “why,” or change the subject; the remaining reply usually reflects the feeling.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-012",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A nurse tells an 80-year-old client that she will be discharged to a skilled nursing facility. The client says, “That’s fine,” while her eyes fill with tears and she twists the bedsheet. Which response by the nurse is best?",
+      "options": [
+        "“I’m glad you are okay with the plan. I’ll let your family know today.”",
+        "“You say it’s fine, yet I see tears. How do you feel about moving?”",
+        "“You should not be upset. The facility has excellent staff.”",
+        "“I can tell you are actually angry about this decision.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This accepts the words and ignores clear nonverbal distress.",
+        "Correct. This describes the mismatch neutrally and invites the client to explain.",
+        "Incorrect. This judges the feeling and offers reassurance instead of exploring.",
+        "Incorrect. This assumes a meaning for the cue instead of asking about it."
+      ],
+      "rationale": "When words and behavior do not match, the nurse describes what is seen and asks, treating the cue as information to clarify. Tears and twisting the sheet may reflect sadness, fear, loss, or worry about cost. Telling the client what she feels is tempting because it seems perceptive, but it labels the cue and may be wrong. Accepting the words at face value misses the chance to find the real concern.",
+      "takeaway": "For incongruent cues, describe what you notice and ask; do not assume the meaning.",
+      "hintContent": "Which reply checks the meaning of the tears rather than deciding it?",
+      "hintStrategy": "For mismatched-cue items, pick “I notice… tell me” over options that accept, judge, or interpret.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [
+        "communication-adaptations"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-013",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A home health nurse needs to send photos of a client’s pressure injury and the latest wound measurements to the outpatient wound clinic. Which action by the nurse is most appropriate?",
+      "options": [
+        "Email the photos from a personal account with “Confidential” typed in the subject line.",
+        "Text the photos to the wound nurse’s cell phone and delete them afterward.",
+        "Send the photos through the agency’s approved secure system to a verified recipient.",
+        "Print the photos and leave them in the client’s home folder for pickup."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A subject label is not a security control, and personal accounts are not approved systems.",
+        "Incorrect. Personal texting is not an approved secure channel and may expose the images.",
+        "Correct. Approved secure systems and recipient verification protect confidential information.",
+        "Incorrect. Leaving printed images unsecured risks exposure and delays the handoff."
+      ],
+      "rationale": "Written and electronic messages add risks: they can be misread, read late, or seen by the wrong person. Confidential client information must travel through the approved secure system, and the recipient must be verified per policy. Labeling an email “Confidential” is the most tempting distractor because it sounds protective, but the label does not secure anything. Deleting a text later does not undo the exposure that already happened.",
+      "takeaway": "Use the approved secure system and verify the recipient; a “confidential” label secures nothing.",
+      "hintContent": "Ask which channel the agency actually controls and protects.",
+      "hintStrategy": "When options all send the same data, choose the one using the organization’s approved, verified channel.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [
+        "documentation"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-014",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client brought to the emergency department after a car crash grabs the nurse’s arm and cries, “Is my son okay? Nobody will tell me anything!” The nurse does not know the son’s condition. Which response is best?",
+      "options": [
+        "“I’m sure your son is fine. Try to rest and focus on yourself.”",
+        "“I don’t know yet. I will find someone who does and come back to you.”",
+        "“Let’s talk about that after we finish checking your injuries.”",
+        "“Why are you worrying about him when you are the one who is hurt?”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This is false reassurance; the nurse does not know the son’s condition.",
+        "Correct. This is honest about what the nurse knows and commits to a specific follow-up.",
+        "Incorrect. This postpones the concern and may increase anxiety without explanation.",
+        "Incorrect. A “why” question judges the client’s concern and closes the conversation."
+      ],
+      "rationale": "Credibility means being honest about what you know and making your actions match your words. The nurse should never guess an answer to sound confident; instead, say you will check, and then follow up. False reassurance is the most tempting choice because it seems kind, but if the son is injured, the client will lose trust. A specific promise to find out is honest and still comforting.",
+      "takeaway": "When you do not know, say so and commit to finding out; never guess or reassure falsely.",
+      "hintContent": "Which reply could the nurse stand behind no matter what the son’s condition turns out to be?",
+      "hintStrategy": "Eliminate any option that promises an outcome the nurse cannot know.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-015",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client’s adult son approaches the nurse at the station and says loudly, “This place is a joke. My mother’s call light was on for 20 minutes!” The nurse confirms the call light log shows a 20-minute wait. Which response is best?",
+      "options": [
+        "“That isn’t true. I came as soon as I possibly could.”",
+        "“If you keep raising your voice like this, I will need to call security.”",
+        "“I’m so sorry. I promise it will never happen again.”",
+        "“You’re right, that wait was too long. What does she need now?”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Denying a valid complaint is defensive and escalates conflict.",
+        "Incorrect. This threat is aggressive and ignores the legitimate concern.",
+        "Incorrect. This is a promise the nurse cannot guarantee and avoids problem solving.",
+        "Correct. This acknowledges the valid criticism and refocuses on the client’s current need."
+      ],
+      "rationale": "When criticism is valid, an assertive nurse acknowledges it rather than defending or attacking. Agreeing with the accurate part of the complaint lowers tension and lets the nurse redirect to what the client needs right now. The apology with a promise is tempting because it sounds caring, but it guarantees something the nurse cannot control. Threatening security turns a fair complaint into a confrontation.",
+      "takeaway": "Acknowledge valid criticism, then refocus on the client’s current need.",
+      "hintContent": "The log confirms the complaint; which reply admits that without making promises?",
+      "hintStrategy": "With conflict items, choose the reply that is honest, calm, and moves to action; reject defend, threaten, and over-promise.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-016",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client with chronic low back pain has two treatment options and asks the nurse, “Should I have the spine surgery or try 6 more weeks of physical therapy? What would you do?” Which response is most therapeutic?",
+      "options": [
+        "“What matters most to you as you weigh these two options?”",
+        "“If I were you, I would try the physical therapy first.”",
+        "“Your surgeon knows best, so do whatever she recommends.”",
+        "“Most people your age choose surgery and are glad they did.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This open question helps the client clarify their own values for the decision.",
+        "Incorrect. Giving advice replaces the client’s values with the nurse’s.",
+        "Incorrect. This dismisses the client’s role in the decision and blocks discussion.",
+        "Incorrect. This stereotypes by age and pushes a choice rather than exploring the client’s view."
+      ],
+      "rationale": "Giving advice is a barrier because it substitutes the nurse’s values for the client’s and can undermine autonomy. An open question about what matters most helps the client think through the decision and identify what further information is needed from the provider. Advice is tempting because the client directly asked for it, but answering “what would you do” shifts ownership of the decision. Deferring entirely to the surgeon also shuts down the client’s participation.",
+      "takeaway": "When asked “What would you do?”, help the client explore their own values instead of advising.",
+      "hintContent": "Whose values should drive this decision?",
+      "hintStrategy": "If the client asks for advice, look for the open question that returns the decision to the client.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-017",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A client 1 day after abdominal surgery rates incision pain as 8/10 and says, “I won’t take any pain pills. They’ll turn me into an addict.” Which response by the nurse is best?",
+      "options": [
+        "“You’re right, it’s safest to avoid opioids whenever you can.”",
+        "“That’s silly. Nobody gets addicted from a few days in the hospital.”",
+        "“You’re worried about addiction. What have you heard about it?”",
+        "“Okay. I’ll document that you are refusing pain medication.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Agreeing with an unsafe belief reinforces it and leaves severe pain untreated.",
+        "Incorrect. This judges the client and overstates a fact, which shuts down discussion.",
+        "Correct. This validates the feeling and then explores the belief so facts can be checked.",
+        "Incorrect. This ends the conversation without exploring the concern behind the refusal."
+      ],
+      "rationale": "Validating a feeling is different from agreeing with a belief. The nurse acknowledges the worry and then asks what the client has heard, which opens the door to correct misinformation and discuss options. Agreeing is tempting because it seems supportive, but it strengthens a belief that leaves severe pain untreated and may slow recovery. Documenting a refusal without exploring the reason respects the words but not the need.",
+      "takeaway": "Validate the feeling, then check the facts; never agree with an unsafe belief.",
+      "hintContent": "Separate the client’s emotion from the accuracy of the belief.",
+      "hintStrategy": "When a client states a risky belief, choose the reply that acknowledges the emotion and then explores the belief.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-018",
+      "topic": "therapeutic-communication",
+      "type": "mcq",
+      "stem": "A resident in a long-term care facility tells the nurse, “My kids never visit anymore. I guess I don’t matter to anyone.” Which response by the nurse uses reflection?",
+      "options": [
+        "“How often did your children visit before?”",
+        "“I’m sure your children love you very much.”",
+        "“Have you thought about calling them yourself this week?”",
+        "“You feel forgotten and unimportant right now.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This is a focused question that gathers a fact rather than reflecting a feeling.",
+        "Incorrect. This is false reassurance about something the nurse cannot know.",
+        "Incorrect. This offers advice instead of exploring the feeling.",
+        "Correct. This restates the client’s feeling so the client can confirm or say more."
+      ],
+      "rationale": "Reflection restates the feeling or main idea the client shared so they can confirm it or explain further. The client expresses loneliness and low worth, and naming that feeling invites more sharing. The focused question about visit frequency is tempting because it seems to gather useful data, but it shifts the focus away from the emotion the client just expressed. Advice and reassurance both close the conversation.",
+      "takeaway": "Reflection mirrors the client’s feeling back without adding advice or promises.",
+      "hintContent": "Which option repeats the emotion rather than adding new content?",
+      "hintStrategy": "When the stem names a specific technique, match each option to a technique before choosing.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-019",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A client waiting for breast biopsy results says, “I keep thinking it’s cancer. I can’t sleep.” Which responses by the nurse are barriers to therapeutic communication? Select all that apply.",
+      "options": [
+        "“Try not to think about it; the odds are in your favor.”",
+        "“What are you most afraid the results will show?”",
+        "“Why do you always expect the worst?”",
+        "“You sound frightened about what the biopsy might mean.”",
+        "“Did you catch the game on TV last night?”",
+        "“If I were you, I’d stay off the internet until the results come.”"
+      ],
+      "answer": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Correct. False reassurance promises an outcome and dismisses the worry.",
+        "Incorrect. This open question invites the client to share the fear.",
+        "Correct. A “why” question sounds judgmental and puts the client on the defensive.",
+        "Incorrect. This empathic reflection names the feeling without promising anything.",
+        "Correct. Changing the subject avoids the client’s concern.",
+        "Correct. Giving advice replaces exploration with the nurse’s own solution."
+      ],
+      "rationale": "Barriers shut the conversation down, even when they sound kind or practical. False reassurance, “why” questions, changing the subject, and advice all stop the client from describing the fear. The advice about avoiding the internet is the most tempting to miss because it seems sensible, but it skips over what the client is feeling. Open questions and empathic reflections invite the client to say more.",
+      "takeaway": "Reassurance, “why” challenges, subject changes, and advice all block communication.",
+      "hintContent": "Judge each reply by whether it would make the client keep talking about the fear.",
+      "hintStrategy": "For barrier SATA items, sort each option as “opens” or “closes” the conversation; select the closers.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-020",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A nurse is beginning an admission interview with a client who appears anxious and is sitting upright in bed. Which nonverbal behaviors by the nurse support therapeutic communication? Select all that apply.",
+      "options": [
+        "Stand by the doorway with arms folded during questions.",
+        "Ask permission before touching and explain why touch is needed.",
+        "Type continuously into the computer while the client talks.",
+        "Sit in a chair at a comfortable distance near eye level.",
+        "Keep a relaxed, open posture while the client speaks."
+      ],
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Standing at a distance with folded arms suggests impatience or disinterest.",
+        "Correct. Asking first respects personal space and reduces fear.",
+        "Incorrect. Constant screen focus suggests the nurse is not truly listening.",
+        "Correct. Sitting at eye level and a comfortable distance conveys attention and respect.",
+        "Correct. An open posture signals willingness to listen."
+      ],
+      "rationale": "Posture, distance, eye level, and touch all send messages. Sitting at a comfortable distance with a relaxed, open posture shows attention, and asking before touch respects personal space and possible past trauma. Typing throughout the interview is tempting because documentation is required, but continuous screen focus tells the client the computer matters more. Nonverbal behavior should match the nurse’s caring words.",
+      "takeaway": "Your posture, distance, and touch must match your caring words.",
+      "hintContent": "Picture yourself as the anxious client: which behaviors would make you feel heard?",
+      "hintStrategy": "For nonverbal SATA items, select behaviors that show attention and respect; reject ones that signal hurry or distance.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-021",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A nurse calls a provider at 1430 because a client’s heart rate is newly 42/min and the client feels dizzy. The provider replies, “I’m in a procedure. Call me if it gets worse.” Which statements by the nurse are assertive? Select all that apply.",
+      "options": [
+        "“Sorry to bother you again. I’ll call back if it drops more.”",
+        "“You always ignore my calls, and I’ll document that you refused.”",
+        "“The rate is 42, and he is dizzy. Who can assess him at the bedside now?”",
+        "“Never mind. It is probably just the monitor acting up.”",
+        "“I’m concerned about his safety. Please send someone to evaluate him.”",
+        "“I understand you’re busy. This is a new change, and I need the client seen now.”"
+      ],
+      "answer": [
+        2,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. This is passive; it apologizes and withdraws the concern.",
+        "Incorrect. This is aggressive; it attacks and threatens instead of stating the need.",
+        "Correct. This restates the specific finding and requests a concrete action.",
+        "Incorrect. This passively dismisses a real safety concern.",
+        "Correct. An “I” statement with a clear request is direct, honest, and respectful.",
+        "Correct. This finds a point of agreement and repeats the finding and request clearly."
+      ],
+      "rationale": "Assertive communication states the finding and the needed action directly and respectfully, even after pushback. Strategies include finding a point of agreement, repeating one clear message, and using “I” statements. Passive replies apologize or minimize, and aggressive replies attack the person or threaten. The threat to document a refusal may feel firm, but it targets the provider instead of the client’s problem.",
+      "takeaway": "Assertive replies restate the finding and the request; they neither retreat nor attack.",
+      "hintContent": "For each statement, ask: does it name the problem and ask for a specific action?",
+      "hintStrategy": "Sort each option into passive, aggressive, or assertive before selecting.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [
+        "reporting"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-022",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A nurse prepares to explain bowel preparation to a client scheduled for a colonoscopy tomorrow. The client is anxious and keeps glancing at the clock because a ride is arriving soon. Which actions reflect clear communication? Select all that apply.",
+      "options": [
+        "Describe every possible complication of the procedure at once.",
+        "Give a confident guess if the client asks something unfamiliar.",
+        "Watch the client’s reactions and adjust the pace or words.",
+        "Use everyday words and explain any medical term that is needed.",
+        "Keep the discussion focused on what the client must do tonight.",
+        "Ask whether now is a good time or arrange a phone follow-up."
+      ],
+      "answer": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. Overloading an anxious client reduces understanding of key steps.",
+        "Incorrect. Guessing damages credibility; the nurse should say they will check.",
+        "Correct. Adaptability means changing the approach based on feedback.",
+        "Correct. Simplicity helps the client understand and act on the message.",
+        "Correct. Brevity keeps the message centered on the current concern.",
+        "Correct. Timing matters; a distracted client may not take in the message."
+      ],
+      "rationale": "A clear message uses simple words, says exactly what is meant, stays brief and focused, is timed for when the client can listen, adapts to the client’s response, and is credible. The client here is anxious and distracted, so timing and brevity are especially important. Covering every complication is tempting because it seems thorough, but too much information overwhelms the client. Guessing to sound confident undermines trust.",
+      "takeaway": "Simple, clear, brief, well-timed, adaptable, and honest messages are the ones clients can act on.",
+      "hintContent": "Think about the qualities of a clear message and the client’s current distraction.",
+      "hintStrategy": "For SATA teaching-approach items, test each option against the client’s state described in the stem.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m38-x1-023",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A nurse taught a client with heart failure to weigh themselves daily and report weight gain to the clinic. Which findings indicate the teaching was effective? Select all that apply.",
+      "options": [
+        "The client points to the weight on a sample log that should be reported.",
+        "The client’s spouse says she will remind him to weigh himself.",
+        "The client explains in their own words what weight change to report and to whom.",
+        "The client nods and says, “Yes, I understand all of that.”",
+        "The client demonstrates weighing at the same time each morning.",
+        "The client signs the form stating that teaching was received."
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Applying the rule to an example shows real understanding.",
+        "Incorrect. Support is helpful but does not show the client learned the plan.",
+        "Correct. Explanation in the client’s own words is evidence of understanding.",
+        "Incorrect. Agreement alone may reflect politeness or confusion.",
+        "Correct. A return demonstration shows the client can perform the skill.",
+        "Incorrect. A signature proves receipt, not understanding."
+      ],
+      "rationale": "Feedback shows whether teaching worked. Strong evidence includes explanation in the client’s own words, a demonstration of the skill, or correct application to a realistic example. A nod, a signature, or a family member’s promise does not prove the client understands. The signed form is the most tempting distractor because it looks official, but it documents only that teaching was given.",
+      "takeaway": "Understanding is shown by explanation, demonstration, or application, not by agreement or a signature.",
+      "hintContent": "Ask whether each finding shows the client can actually use the information.",
+      "hintStrategy": "For “teaching was effective” SATA items, choose findings where the client does or explains something.",
+      "ref": "Module 38 · Assessment & Evaluation of Communication · slides 29–35",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m38-x1-024",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "At a clinic visit, a nurse notices that a 45-year-old client has uncombed hair, a stained shirt, and avoids eye contact while answering questions. Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Document “client appears depressed and neglects self-care.”",
+        "Record the observed appearance and behavior in specific terms.",
+        "Conclude that the client is hiding information from the nurse.",
+        "Ask an open question about how the client has been managing lately.",
+        "Consider causes such as pain, fatigue, cost, culture, or low mood."
+      ],
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. This charts a label instead of the observed behavior.",
+        "Correct. Objective description lets others interpret the data accurately.",
+        "Incorrect. Poor eye contact does not prove dishonesty.",
+        "Correct. An open question lets the client explain the meaning of the cues.",
+        "Correct. One cue can have many causes, so the nurse keeps several possibilities in mind."
+      ],
+      "rationale": "Grooming, eye contact, and posture can reflect emotion or physical function, but a single cue cannot tell the nurse its meaning. Possible causes include pain, fatigue, culture, disability, cost, or depression, so the nurse asks rather than assumes. Charting “appears depressed” is tempting because it seems like a reasonable inference, but it is a label rather than an observation. Specific description of what was seen is accurate and useful.",
+      "takeaway": "Treat a nonverbal cue as data to clarify and chart, not a diagnosis or proof.",
+      "hintContent": "Separate what the nurse observed from what the nurse is guessing.",
+      "hintStrategy": "For nonverbal-cue SATA items, select options that explore or describe; reject options that label or conclude.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [
+        "documentation"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-025",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A client’s wife has just been told by the provider that her husband is not expected to survive the night. She begins sobbing at the bedside. Which actions by the nurse are therapeutic? Select all that apply.",
+      "options": [
+        "Sit with her quietly and remain attentive.",
+        "Say, “I know exactly how you feel right now.”",
+        "Ask, “Is there someone you would like me to call for you?”",
+        "Leave the room without speaking to give her privacy.",
+        "Say, “He is in a better place now,” to comfort her.",
+        "When she is ready, say, “Tell me what is going through your mind.”"
+      ],
+      "answer": [
+        0,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Attentive silence gives her time to feel without being rushed.",
+        "Incorrect. The nurse cannot know her experience, and the statement shifts focus to the nurse.",
+        "Correct. Offering support she can accept or decline respects her wishes.",
+        "Incorrect. Leaving without a word can feel like avoidance rather than presence.",
+        "Incorrect. This imposes a belief and minimizes her grief.",
+        "Correct. An open invitation lets her share when she chooses."
+      ],
+      "rationale": "Therapeutic silence is attentive presence, which differs from avoidance. After devastating news, sitting quietly gives the person time to feel and think, and gentle open invitations allow sharing when she is ready. Leaving the room is tempting because it seems to respect privacy, but leaving without a word can feel like abandonment. Clichés and claims of knowing exactly how she feels shut down communication.",
+      "takeaway": "After hard news, stay present with attentive silence and offer, rather than impose, support.",
+      "hintContent": "Distinguish quiet presence from walking away.",
+      "hintStrategy": "In grief SATA items, select options that stay present and invite; reject clichés and exits.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-026",
+      "topic": "therapeutic-communication",
+      "type": "sata",
+      "stem": "A client scheduled for surgery in 1 hour grips the side rails and asks, “What if I don’t wake up from the anesthesia?” Which responses by the nurse are therapeutic? Select all that apply.",
+      "options": [
+        "“Nothing will go wrong. This surgeon is the very best.”",
+        "“Everyone gets nervous; it’s really not a big deal.”",
+        "“Tell me more about what is worrying you most.”",
+        "“You’re afraid you might not wake up after surgery.”",
+        "“What have you been told about the anesthesia so far?”"
+      ],
+      "answer": [
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. This false reassurance promises an outcome no one can guarantee.",
+        "Incorrect. This minimizes the client’s feelings and closes the topic.",
+        "Correct. An open invitation helps the nurse find the specific concern.",
+        "Correct. This reflection names the fear and invites more discussion.",
+        "Correct. This open question clarifies what the client understands."
+      ],
+      "rationale": "A frightened client needs the chance to express and clarify the fear. Reflection, clarification, and open invitations all keep the conversation going and may reveal a specific concern to bring to the anesthesia provider. Saying “everyone gets nervous” is tempting because it normalizes the feeling, but adding “not a big deal” minimizes it and shuts the door. False reassurance promises something the nurse cannot guarantee.",
+      "takeaway": "Explore preoperative fear with reflection and open questions, not promises or minimizing.",
+      "hintContent": "Which replies would make the client feel safe saying more?",
+      "hintStrategy": "Read each SATA option alone and ask whether it opens or closes the conversation.",
+      "ref": "Module 38 · Therapeutic & Assertive Communication · slides 3–19",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-027",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "An alert client who is intubated and on a ventilator in the ICU is grimacing, pointing at the mouth, and shaking the bed rail. Vital signs and oxygen saturation are shown in the exhibit. What should the nurse do first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Current data",
+            "table": {
+              "headers": [
+                "Parameter",
+                "Value"
+              ],
+              "rows": [
+                [
+                  "HR",
+                  "96/min"
+                ],
+                [
+                  "BP",
+                  "132/80 mm Hg"
+                ],
+                [
+                  "SpO2",
+                  "96% on ventilator"
+                ],
+                [
+                  "Ventilator alarms",
+                  "None"
+                ],
+                [
+                  "Sedation",
+                  "Light; follows commands"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Ask the family what the client usually wants when this upset.",
+        "Tell the client that the tube will come out soon and to rest.",
+        "Ask yes/no questions the client can answer, such as “Are you in pain?”",
+        "Administer the as-needed sedative to reduce the client’s agitation now."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Family input can help later, but the alert client can answer for themself now.",
+        "Incorrect. This dismisses the attempt to communicate and may be false reassurance.",
+        "Correct. Oxygenation is stable, so the nurse gives the client a reliable way to state the need.",
+        "Incorrect. Sedating before learning the need may mask pain or another problem."
+      ],
+      "rationale": "The client cannot speak because of the tube, but stable oxygenation and no alarms mean the airway is not the immediate issue. Being unable to speak does not mean being unable to understand or take part, so the nurse sets up a reliable yes/no method and asks about likely needs such as pain. Sedation is tempting because the client looks agitated, but it treats the behavior without finding the cause. A new inability to communicate essential needs creates pain and safety risks.",
+      "takeaway": "When a client cannot speak, set up a reliable yes/no method and let them state the need.",
+      "hintContent": "The exhibit rules out an airway emergency; what does the client need now?",
+      "hintStrategy": "Use exhibit data to rule out physiologic instability first, then choose the action that addresses the client’s actual message.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [
+        "therapeutic-communication"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-028",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "An 84-year-old client who is 2 days post hip surgery was alert and conversing at 0800. At 1400, the nurse finds the client speaking in garbled words and unable to follow a request to squeeze the nurse’s hand. The daughter says, “She’s just tired; she’s old.” What should the nurse do first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Neuro checks",
+            "table": {
+              "headers": [
+                "Time",
+                "Orientation",
+                "Speech",
+                "Follows commands"
+              ],
+              "rows": [
+                [
+                  "0800",
+                  "Oriented x4",
+                  "Clear",
+                  "Yes"
+                ],
+                [
+                  "1400",
+                  "Unable to assess",
+                  "Garbled words",
+                  "No"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Activate the stroke alert or rapid response per protocol.",
+        "Use shorter, simpler sentences because of the client’s age.",
+        "Reorient the client and recheck her at the next scheduled assessment.",
+        "Ask the daughter to describe how her mother usually communicates."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A sudden change from baseline in speech and comprehension is a possible emergency.",
+        "Incorrect. Adapting communication delays urgent evaluation of a new deficit.",
+        "Incorrect. Waiting allows a possible acute neurologic event to progress.",
+        "Incorrect. Baseline is already documented; this delays emergency care."
+      ],
+      "rationale": "A new communication problem can be a clinical emergency. The neuro check record shows a sudden change from clear speech and full orientation to garbled words and inability to follow commands. Age alone does not explain this, so the nurse escalates for urgent evaluation before adapting communication. Simplifying speech is tempting because it seems supportive, but it treats a possible stroke as a normal part of aging.",
+      "takeaway": "Sudden change in speech or understanding is an emergency to escalate, not a barrier to adapt to.",
+      "hintContent": "Compare 0800 with 1400. Is this the client’s baseline?",
+      "hintStrategy": "Ask “Is this new?” A new change from baseline is escalated before it is accommodated.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-029",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A nurse is using a video interpreter to complete a pain assessment for a client who speaks Haitian Creole. Which statement by the nurse is most appropriate?",
+      "options": [
+        "“Please ask her where the pain is located and how bad it feels to her.”",
+        "“Can you tell me if she seems to understand what I said?”",
+        "“Just summarize what she says; I don’t need every detail.”",
+        "“Mrs. Pierre, show me where it hurts and rate the pain for me.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This speaks to the interpreter about the client instead of to the client.",
+        "Incorrect. The interpreter interprets; the nurse verifies understanding with the client directly.",
+        "Incorrect. Summaries can lose clinical details; accurate, complete interpretation is needed.",
+        "Correct. Speaking directly to the client in a short segment keeps the client’s own voice central."
+      ],
+      "rationale": "A qualified interpreter carries the client’s voice but does not replace it. The nurse speaks directly to the client, uses short segments, pauses for interpretation, and verifies understanding through the interpreted exchange. Asking the interpreter to “ask her” is the most common error and is tempting because it feels natural, but it shifts the conversation away from the client. Requesting a summary risks losing clinically important details.",
+      "takeaway": "In interpreted encounters, speak directly to the client in short segments.",
+      "hintContent": "Who is the nurse actually talking to in each option?",
+      "hintStrategy": "For interpreter items, choose the option addressed to the client in first-person, short, clear language.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-030",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "During private time at a clinic visit, a 16-year-old says, “My boyfriend shoves me when he gets mad, but you can’t tell anyone, okay?” Which response by the nurse is best?",
+      "options": [
+        "“Of course. Everything you tell me in this room stays just between us.”",
+        "“I’m glad you told me. For your safety, I may need to share this.”",
+        "“You need to break up with him today and tell your parents.”",
+        "“I can’t believe you would stay with someone who hurts you!”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Promising total secrecy is dishonest because safety concerns may need to be shared.",
+        "Correct. This is honest about the limits of confidentiality and keeps the teen talking.",
+        "Incorrect. This gives advice and may make the teen stop sharing.",
+        "Incorrect. Reacting with shock and judgment shuts down communication."
+      ],
+      "rationale": "Adolescents need private time, nonjudgmental listening, and an honest explanation of the limits of confidentiality. A risk of serious harm may need to be shared with the provider or others, so promising secrecy would be dishonest and could break trust later. The promise of secrecy is tempting because the teen asked for it, but credibility requires the truth. Shock and advice both make the teen less likely to keep talking.",
+      "takeaway": "Offer teens privacy but never promise total secrecy when safety is at risk.",
+      "hintContent": "Which reply is both supportive and honest about what the nurse must do?",
+      "hintStrategy": "With adolescents, reject options that promise secrecy, lecture, or show shock.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-031",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A 2-year-old needs a nebulizer treatment and is crying and pushing the mask away while sitting on a parent’s lap. Which approach by the nurse is most appropriate?",
+      "options": [
+        "Explain how the medicine opens the airways before starting.",
+        "Say, “Hold the mask like Teddy,” and show it on a stuffed animal.",
+        "List the three steps of the treatment so the child knows what is next.",
+        "Ask the parent to leave so the child will focus on the nurse."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Long explanations do not fit a toddler’s language and attention.",
+        "Correct. One short step with a familiar object fits a toddler’s development.",
+        "Incorrect. Multi-step directions overwhelm a toddler.",
+        "Incorrect. Caregiver presence is a key support for toddlers."
+      ],
+      "rationale": "Toddlers are still building language, so the nurse uses short, concrete words, one-step directions, familiar objects, and caregiver support. Demonstrating on a stuffed animal makes the request concrete and less frightening. Explaining how the medicine works is tempting because honesty matters, but a 2-year-old cannot process an abstract explanation. Removing the parent takes away the child’s main source of comfort.",
+      "takeaway": "Toddlers need one short, concrete step at a time with familiar objects and a caregiver present.",
+      "hintContent": "Think about how much language a 2-year-old can process at once.",
+      "hintStrategy": "For pediatric communication, match the option to the child’s developmental stage, not just their age number.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-032",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A 9-year-old who is about to have sutures removed asks the nurse, “Is it going to hurt?” Which response is most appropriate?",
+      "options": [
+        "“No, it won’t hurt at all. You’ll hardly notice it.”",
+        "“Let’s talk to your mom about that while you watch some TV.”",
+        "“You may feel a tug or pinch. You can squeeze my hand.”",
+        "“Big kids don’t worry about little things like this.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Saying it won’t hurt is dishonest and damages trust if it does.",
+        "Incorrect. Talking only to adults excludes the child from their own care.",
+        "Correct. This is honest, concrete, and gives the child a way to cope.",
+        "Incorrect. This judges the child’s fear and discourages questions."
+      ],
+      "rationale": "School-age children need honest, concrete explanations at eye level and an invitation to ask questions. Describing the likely sensation and offering a coping action prepares the child and builds trust. Saying it won’t hurt is tempting because it seems comforting, but it is dishonest, and the child may not trust the nurse next time. Directing the conversation only to the parent leaves the child out.",
+      "takeaway": "Be honest with school-age children about sensations and give them a way to cope.",
+      "hintContent": "Which reply would still be true after the procedure?",
+      "hintStrategy": "With children, eliminate any option that promises no pain or talks around the child.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-033",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "During a lengthy admission assessment, a 3-month-old begins turning the head away, arching the back, and hiccupping. The infant was calm and making eye contact at the start. What should the nurse do first?",
+      "options": [
+        "Continue quickly so the assessment is finished sooner.",
+        "Ask the caregiver whether the infant might have a hearing problem.",
+        "Document that the infant is irritable and uncooperative.",
+        "Pause the assessment and reduce light, noise, and handling."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Pushing through ignores the infant’s overload cues.",
+        "Incorrect. Nothing suggests a hearing deficit; the cues fit overstimulation.",
+        "Incorrect. This labels behavior and does not respond to the infant’s message.",
+        "Correct. The infant is signaling overload; adjusting stimulation responds to that message."
+      ],
+      "rationale": "Infants communicate through behavior, and no speech does not mean no message. Turning away, arching, and hiccupping are common signs of overstimulation, so the nurse adjusts stimulation to the infant’s state and resumes when the infant is calm. Continuing quickly is tempting because it seems efficient, but it ignores the infant’s communication and may increase distress. Caregivers can also share the infant’s usual signals.",
+      "takeaway": "Read infant behavior as communication and adjust stimulation to the infant’s state.",
+      "hintContent": "What is the infant’s behavior telling the nurse?",
+      "hintStrategy": "With infants, treat behavior changes as messages and choose the option that responds to them.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-034",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A provider explains a new treatment plan to the adult daughter of a 79-year-old client who is alert, oriented, and sitting up in bed. The provider does not look at the client. Which action by the nurse is best?",
+      "options": [
+        "Say, “Mr. Ruiz, do you have questions?” and invite him into the talk.",
+        "Wait until the provider leaves and then repeat everything to the client.",
+        "Ask the daughter to explain the plan to her father later today.",
+        "Say nothing, because the daughter is the client’s main support."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This brings the alert client back into his own care conversation.",
+        "Incorrect. This delays the client’s participation and keeps the pattern going.",
+        "Incorrect. This hands the client’s voice to someone else.",
+        "Incorrect. Silence allows the client to be excluded despite being able to take part."
+      ],
+      "rationale": "Speaking only to family when the client can take part harms dignity and self-concept, just like elderspeak. The nurse advocates by respectfully drawing the alert client into the conversation so he can hear the plan and ask questions. Repeating the information afterward is tempting because the client eventually hears it, but he loses the chance to ask the provider directly. Include family as the client wishes, not in place of the client.",
+      "takeaway": "Keep an alert older adult at the center of the conversation about their own care.",
+      "hintContent": "Who has the right to hear and question this plan first?",
+      "hintStrategy": "Choose the option that protects the client’s own voice in the moment, not later.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-035",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A client who is Deaf and uses American Sign Language (ASL) is admitted for surgery tomorrow. The nurse needs to complete preoperative teaching this evening. What should the nurse do first?",
+      "options": [
+        "Write the teaching points on paper and have the client read them.",
+        "Speak slowly and loudly while standing directly in front of the client.",
+        "Ask the client’s preferred method and arrange a qualified ASL interpreter.",
+        "Ask the client’s hearing spouse to sign the teaching to the client."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Written English may not be the client’s strongest language for complex information.",
+        "Incorrect. Volume does not help a Deaf client and may seem disrespectful.",
+        "Correct. A qualified interpreter in the client’s language is needed for complex clinical teaching.",
+        "Incorrect. Family should not replace qualified interpretation for clinical information."
+      ],
+      "rationale": "ASL is a distinct language, so a Deaf client who uses it needs a qualified interpreter for complex clinical information, just as a client who speaks another language would. The nurse first asks the client’s preferred communication method and arranges the interpreter. Written notes are tempting because they seem quick, but English literacy varies and complex preoperative teaching needs two-way discussion. A family member may offer support but should not interpret clinical teaching.",
+      "takeaway": "For a Deaf client who uses ASL, arrange a qualified ASL interpreter for clinical teaching.",
+      "hintContent": "Consider what the client’s primary language actually is.",
+      "hintStrategy": "When a language barrier exists, the answer is almost always a qualified interpreter, not family, notes, or volume.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-036",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "The plan of care for a client with long-standing expressive aphasia states, “By the end of the shift, the client will use the picture board to communicate pain, toileting, and position needs.” The exhibit shows the shift notes. Which conclusion is accurate at 1900?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Shift notes",
+            "table": {
+              "headers": [
+                "Time",
+                "Observation"
+              ],
+              "rows": [
+                [
+                  "0730",
+                  "Picture board placed on overbed table within reach."
+                ],
+                [
+                  "1015",
+                  "Client pointed to “bathroom” picture; assisted to toilet, voided."
+                ],
+                [
+                  "1300",
+                  "Client grimacing; did not use board. Pain 6/10 by yes/no questions."
+                ],
+                [
+                  "1600",
+                  "Client pointed to “turn” picture; repositioned to left side."
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "The goal is met because the board was within reach all shift.",
+        "The goal is partly met; pain was not yet reported using the board.",
+        "The goal is met because the client used the board two times.",
+        "The goal is not met because the client still has aphasia."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Having the board nearby does not show the client can use it.",
+        "Correct. The client used the board for toileting and position, but not for pain.",
+        "Incorrect. Use for two needs does not cover all three needs in the goal.",
+        "Incorrect. The goal is functional use of the board, not recovery of speech."
+      ],
+      "rationale": "A functional goal is judged by accurate use for real needs, not by an aid being nearby. The notes show the client used the board for toileting and repositioning, but pain was identified through yes/no questions instead. The goal is therefore partly met, and the nurse should practice pain reporting with the board and update the plan. “Met because the board was used twice” is tempting, but the goal names three specific needs.",
+      "takeaway": "Evaluate a communication goal against each need it names, using actual observed use.",
+      "hintContent": "Check each of the three needs in the goal against the notes.",
+      "hintStrategy": "For goal-evaluation items, match each criterion in the goal to evidence in the exhibit before deciding met, partly met, or not met.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-037",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "An older adult in a clinic scores poorly on a written screening questionnaire and misreads the medication label the nurse hands over. The client says, “I left my reading glasses at home.” What should the nurse do first?",
+      "options": [
+        "Record that the client has possible cognitive impairment.",
+        "Refer the client for a full cognitive evaluation today.",
+        "Ask the client’s daughter to answer the questionnaire instead.",
+        "Provide a large-print version or read the items aloud and repeat."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The client cannot see the text, so the results do not reflect cognition.",
+        "Incorrect. A referral is premature before the vision barrier is fixed.",
+        "Incorrect. This replaces the client’s voice before access has been fixed.",
+        "Correct. Fixing sensory access first allows a fair judgment of understanding."
+      ],
+      "rationale": "The nurse must separate sensory access from language and thinking before judging understanding. The client cannot see the print, so the screening result says more about vision than cognition. Providing large print or reading aloud fixes access, and then the nurse can fairly assess the client. Recording possible cognitive impairment is tempting because the score was low, but it labels the client based on a test the client could not see.",
+      "takeaway": "Fix hearing and vision access before you judge a client’s understanding.",
+      "hintContent": "What barrier did the client name?",
+      "hintStrategy": "When a stem reveals a sensory barrier, the first action restores access before any judgment or referral.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-038",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A client who had a stroke speaks in long, fluent sentences that make little sense and does not follow the request to raise an arm, even when it is shown. Which conclusion by the nurse is most accurate?",
+      "options": [
+        "The client has a problem understanding, despite fluent speech.",
+        "The client understands well but cannot get words out.",
+        "The client is refusing to cooperate with the assessment.",
+        "The client mainly has a hearing problem that needs aids."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Fluent but meaningless speech plus failure to follow requests points to a receptive problem.",
+        "Incorrect. This describes expressive aphasia, which does not fit fluent speech.",
+        "Incorrect. This labels the behavior instead of interpreting the communication cues.",
+        "Incorrect. A demonstrated request was also not followed, so hearing alone does not explain it."
+      ],
+      "rationale": "Receptive and expressive communication must be assessed separately because one can work when the other does not. A client who speaks fluently yet misunderstands has a receptive problem, while a client with expressive aphasia may understand well but struggle to speak. Expressive aphasia is the tempting choice because “aphasia after stroke” is often taught with that example, but this client’s speech is fluent. The nurse should use gestures, pictures, and simple concrete cues and check understanding.",
+      "takeaway": "Fluent speech does not prove understanding; assess receptive and expressive ability separately.",
+      "hintContent": "Separate the client’s output (speech) from the client’s input (understanding).",
+      "hintStrategy": "For look-alike items, line up each cue with each option; choose the one that explains every cue.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-039",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "At a first prenatal visit, a client’s mother-in-law answers every question for her, including questions about home safety. The client looks at the floor. The nurse needs to screen for intimate partner violence. What should the nurse do first?",
+      "options": [
+        "Ask the screening questions now with the mother-in-law present.",
+        "Ask the mother-in-law whether there are any problems at home.",
+        "Arrange to speak with the client alone, such as during the exam.",
+        "Skip the screening because the family may be culturally protective."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Screening in front of family is unsafe and unlikely to get honest answers.",
+        "Incorrect. This hands the client’s voice to another person on a sensitive topic.",
+        "Correct. Private time lets the client answer safely and for herself.",
+        "Incorrect. Assuming cultural reasons is stereotyping, and skipping screening misses risk."
+      ],
+      "rationale": "The pregnant client should be listened to directly, and sensitive screening must happen in private. The nurse arranges time alone with the client so she can answer safely, then includes family as she wishes. Skipping the screening because of culture is tempting because it seems respectful, but it stereotypes the family and may miss danger. Not everyone in a culture shares the same preferences, and the client’s own voice matters most.",
+      "takeaway": "Screen for safety privately and let the pregnant client speak for herself.",
+      "hintContent": "Where can the client safely give an honest answer?",
+      "hintStrategy": "When another person dominates a sensitive interview, the first step is private time with the client.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-040",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A nurse completes discharge teaching about a new inhaler with a client who speaks Somali, using a qualified telephone interpreter. Which action best confirms the client understood?",
+      "options": [
+        "Ask the interpreter whether the client seemed to follow along.",
+        "Through the interpreter, ask the client to explain and show the steps.",
+        "Give the client a translated handout to read at home later.",
+        "Ask the client, “Do you understand?” and accept a yes as proof."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The interpreter conveys words but does not judge the client’s understanding.",
+        "Correct. Teach-back through the interpreter is direct evidence of understanding.",
+        "Incorrect. A handout supports teaching but does not show understanding.",
+        "Incorrect. A yes may reflect politeness rather than real understanding."
+      ],
+      "rationale": "Understanding must be verified through the interpreted exchange, such as with teach-back or demonstration. Asking the client to explain and show the inhaler steps gives evidence the nurse can see. The translated handout is tempting because it is in the client’s language, but it can support the session, not replace verification. Asking the interpreter to judge understanding shifts the nurse’s responsibility to the interpreter.",
+      "takeaway": "Verify learning through the interpreter with teach-back or a demonstration.",
+      "hintContent": "Which option produces evidence from the client, not an opinion about the client?",
+      "hintStrategy": "For evaluation items, choose the option where the client performs or explains the content.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [
+        "therapeutic-communication"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-041",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A client is recovering from a total laryngectomy and cannot speak. The client can write clearly and has full use of both hands. Which goal is most appropriate for the nurse to include in the plan of care?",
+      "options": [
+        "The client’s ability to communicate needs will improve during the hospital stay.",
+        "The client will keep a writing board at the bedside at all times.",
+        "The client will accept that speech will not return after surgery.",
+        "By day 2, client will use a writing board to request pain relief and help."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. This is vague and cannot be measured.",
+        "Incorrect. Having the board nearby does not show it is used to communicate.",
+        "Incorrect. This does not describe a communication task the client can perform.",
+        "Correct. This is functional, specific, timed, and measurable."
+      ],
+      "rationale": "A strong communication goal names a real task the client will do with a specific method by a set time. Using a writing board to request pain relief and help is functional and can be observed. Keeping the board at the bedside is the most tempting distractor because it seems concrete, but an aid within reach does not prove communication. “Communication will improve” is too vague to evaluate.",
+      "takeaway": "Write communication goals as specific, observable tasks the client will perform.",
+      "hintContent": "Which goal could a nurse observe and check off by a set time?",
+      "hintStrategy": "For goal-writing items, choose the option that is client-centered, specific, measurable, and time-bound.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-042",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A nurse assigns an assistive personnel (AP) to help feed a client who has long-standing expressive aphasia and uses a picture board for food choices. Which instruction is most important for the nurse to give the AP?",
+      "options": [
+        "“Offer the board and wait for her to point before you choose for her.”",
+        "“Talk to her daughter about what she likes, since she can’t speak.”",
+        "“Speak loudly and slowly, because she has trouble understanding.”",
+        "“Feed her quickly, since she gets tired when she tries to talk.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This protects the client’s own voice and gives her time to express choices.",
+        "Incorrect. The client can express choices with the board and should be asked directly.",
+        "Incorrect. Expressive aphasia affects getting words out; volume does not help.",
+        "Incorrect. Rushing removes her chance to communicate and may be unsafe."
+      ],
+      "rationale": "Expressive aphasia blocks getting words out, but the client may understand well and can communicate with a tested aid. The most important instruction is to offer the picture board and wait for the client to respond, so the AP does not make choices for her. Asking the daughter is tempting because it seems efficient, but it hands the client’s voice to someone else. Speaking loudly confuses an expressive problem with a hearing problem.",
+      "takeaway": "Teach staff to use the client’s tested aid and wait for the client to answer.",
+      "hintContent": "What part of communication does expressive aphasia affect?",
+      "hintStrategy": "For delegation items, choose the instruction that protects client safety and rights within the AP’s role.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-043",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A client has had expressive aphasia since a stroke 3 years ago and reliably uses a picture board. This afternoon, the nurse notes a new left facial droop and that the client can no longer point to the correct pictures. What should the nurse do first?",
+      "options": [
+        "Offer a simpler picture board with fewer images to choose from.",
+        "Activate the stroke alert or rapid response per protocol.",
+        "Ask the spouse whether this has happened before.",
+        "Document the change and reassess at the next neuro check."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Adapting the aid delays care for a possible new neurologic event.",
+        "Correct. A new deficit on top of a chronic one is a possible emergency.",
+        "Incorrect. Gathering history delays urgent evaluation.",
+        "Incorrect. Waiting allows a possible stroke to progress."
+      ],
+      "rationale": "Long-standing aphasia needs adaptation, but a new change from baseline needs urgent evaluation. This client could reliably use the board before; a new facial droop and loss of that ability suggest an acute neurologic event. A simpler board is tempting because it fits the client’s known disability, but it treats an emergency as a communication problem. Ask “Is this new?” before choosing an adaptation.",
+      "takeaway": "A new change in a client with chronic aphasia is an emergency until proven otherwise.",
+      "hintContent": "Separate the client’s known baseline from what changed this afternoon.",
+      "hintStrategy": "When a stem contrasts “for years” with “this afternoon,” focus on the new change and escalate.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-044",
+      "topic": "communication-adaptations",
+      "type": "mcq",
+      "stem": "A client who had a cholecystectomy is scheduled for discharge teaching at 1000. At 0945, the client rates abdominal pain 8/10, is breathing shallowly, and says, “Can we just get this over with?” What should the nurse do first?",
+      "options": [
+        "Assess the pain and give the prescribed analgesic, then teach.",
+        "Start teaching now so the client can leave on schedule.",
+        "Give the written discharge instructions now and review them later.",
+        "Teach the client’s spouse instead while the client rests."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Severe pain blocks learning, so it is addressed first and the teaching is retimed.",
+        "Incorrect. A client in severe pain is unlikely to take in or remember the information.",
+        "Incorrect. Paper alone does not ensure learning and does not address the pain.",
+        "Incorrect. The client is the learner and can participate once pain is controlled."
+      ],
+      "rationale": "Timing is part of clear communication: the nurse chooses a moment when the client can listen. Pain, fatigue, and anxiety are barriers that block learning, so the nurse assesses and treats the pain before teaching. Starting now is tempting because the client asked to get it over with and discharge is scheduled, but information given during severe pain is often not retained. Teaching a spouse instead bypasses the client, who can take part once comfortable.",
+      "takeaway": "Address pain and distress before teaching; a client in severe pain cannot learn.",
+      "hintContent": "Can this client take in new information right now?",
+      "hintStrategy": "When a physical need and a teaching need compete, meet the physical need first.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [
+        "therapeutic-communication"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-045",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A nurse is caring for an 88-year-old client who is alert, oriented, and wears hearing aids. Which actions by the nurse support respectful communication? Select all that apply.",
+      "options": [
+        "Face the client and speak clearly in a natural adult tone.",
+        "Call the client “honey” to help her feel comfortable.",
+        "Give information to the client’s son rather than the client.",
+        "Allow extra time for the client to respond to questions.",
+        "Simplify all teaching to basic phrases because of her age.",
+        "Ask the client what name she prefers and use it."
+      ],
+      "answer": [
+        0,
+        3,
+        5
+      ],
+      "optionRationales": [
+        "Correct. A natural tone avoids elderspeak while supporting hearing.",
+        "Incorrect. Pet names are elderspeak and harm dignity.",
+        "Incorrect. Speaking to family instead of an able client excludes her.",
+        "Correct. Allowing time supports participation without talking down.",
+        "Incorrect. Age alone does not mean reduced ability.",
+        "Correct. Using the preferred name supports dignity."
+      ],
+      "rationale": "Communication with older adults should be accessible without talking down. Using the preferred name, facing the client, speaking naturally, and allowing time all support dignity. Simplifying all teaching because of age is tempting because it seems kind, but it assumes reduced ability without assessment. Elderspeak and speaking to family instead of the client both harm self-concept.",
+      "takeaway": "Make communication accessible for older adults without elderspeak or assumptions based on age.",
+      "hintContent": "Ask whether each action responds to an assessed need or to age alone.",
+      "hintStrategy": "For older-adult SATA items, reject options based on age stereotypes; select those based on the client’s actual needs.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-046",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A 3-year-old needs a throat swab in the clinic. Which approaches by the nurse are developmentally appropriate? Select all that apply.",
+      "options": [
+        "Offer a limited choice, such as “Red sticker or blue sticker after?”",
+        "Tell the child, “This won’t feel like anything at all.”",
+        "Say, “Big kids don’t cry,” if the child begins to cry.",
+        "Give one short direction at a time, such as “Open wide like a lion.”",
+        "Let the child sit on the caregiver’s lap during the swab.",
+        "Explain in detail why the swab is needed before starting."
+      ],
+      "answer": [
+        0,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Limited safe choices give some control.",
+        "Incorrect. Dishonest statements damage trust.",
+        "Incorrect. This judges the child’s feelings.",
+        "Correct. One concrete step at a time fits a toddler’s language.",
+        "Correct. Caregiver support comforts a young child.",
+        "Incorrect. Long explanations exceed a toddler’s attention and language."
+      ],
+      "rationale": "Toddlers and young preschoolers need short, concrete words, one-step directions, familiar comfort, and limited safe choices. A caregiver’s lap gives security, and a simple choice offers a sense of control. Detailed explanations are tempting because honesty is important, but the child cannot process them, so a brief honest statement works better. Promising no sensation and shaming the child for crying both undermine trust.",
+      "takeaway": "Young children need one concrete step, caregiver support, and limited choices.",
+      "hintContent": "Think about attention span and language at age 3.",
+      "hintStrategy": "For pediatric SATA items, check each option against the child’s developmental stage.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m38-x1-047",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A nurse is interviewing a 15-year-old client about risk behaviors at a well visit. Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Ask the parent the risk questions to save time.",
+        "Ask the parent to step out for part of the visit.",
+        "Explain which information may need to be shared and why.",
+        "Promise that nothing the teen says will ever be shared.",
+        "Listen without showing shock when the teen discloses vaping."
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. The teen is the best source and needs to answer directly.",
+        "Correct. Private time helps teens share sensitive information.",
+        "Correct. Teens need an honest explanation of confidentiality limits.",
+        "Incorrect. Total secrecy cannot be promised when safety is at risk.",
+        "Correct. Nonjudgmental listening keeps the teen talking."
+      ],
+      "rationale": "Adolescents need private time, nonjudgmental listening, clear expectations, and honest limits of confidentiality. Asking the parent to step out and explaining what may need to be shared builds trust. Promising total secrecy is tempting because it seems to encourage disclosure, but it is dishonest when serious risk may require sharing. Reacting with shock or interviewing the parent instead shuts the teen out.",
+      "takeaway": "Teens need privacy, honesty about confidentiality limits, and a calm response.",
+      "hintContent": "What helps a teen speak honestly without a false promise?",
+      "hintStrategy": "For adolescent SATA items, select privacy and honesty; reject secrecy promises and judgment.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m38-x1-048",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A client has had expressive aphasia since a stroke last year. The client follows directions accurately but struggles to name objects. Which strategies should the nurse use? Select all that apply.",
+      "options": [
+        "Speak louder so the client can process the words.",
+        "Offer a picture board or writing pad as appropriate.",
+        "Direct questions to the client’s spouse to save effort.",
+        "Use simple childlike phrases when speaking to the client.",
+        "Ask questions that can be answered with yes or no.",
+        "Wait for the client to respond without finishing sentences."
+      ],
+      "answer": [
+        1,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. Volume does not address an expressive language problem.",
+        "Correct. Alternative methods help the client express needs.",
+        "Incorrect. This removes the client’s voice from their own care.",
+        "Incorrect. The client understands well; talking down harms dignity.",
+        "Correct. Yes/no questions reduce the need for word-finding.",
+        "Correct. Allowing time protects the client’s own message."
+      ],
+      "rationale": "Expressive aphasia blocks getting words out, but the client may understand and decide normally. Helpful strategies include yes/no questions, extra time, and alternative methods such as pictures or writing. Speaking louder is tempting because it seems to help any communication problem, but this client’s hearing and understanding are intact. Speaking to the spouse instead or using childlike language both treat the client as less capable than they are.",
+      "takeaway": "For expressive aphasia, give time and other ways to answer; do not talk down or around the client.",
+      "hintContent": "What part of communication is actually impaired here?",
+      "hintStrategy": "In aphasia SATA items, first decide whether the problem is receptive or expressive, then select matching strategies.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+    },
+    {
+      "id": "m38-x1-049",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A client who is Deaf and uses ASL arrives at the emergency department with abdominal pain. Which actions by the nurse are appropriate? Select all that apply.",
+      "options": [
+        "Request a qualified ASL interpreter in person or by video.",
+        "Look at and speak to the client, not the interpreter.",
+        "Ask the client’s 10-year-old child to sign questions.",
+        "Use good lighting and keep the face visible during talk.",
+        "Rely on lip-reading to review the plan of care."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. A qualified interpreter is needed for clinical information.",
+        "Correct. Addressing the client keeps the client’s voice central.",
+        "Incorrect. Children should not interpret clinical information.",
+        "Correct. Visibility supports visual communication.",
+        "Incorrect. Lip-reading is unreliable for complex information."
+      ],
+      "rationale": "A Deaf client who uses ASL needs a qualified interpreter for clinical information, delivered in person or by video per policy. The nurse speaks to the client, keeps the face visible in good lighting, and verifies understanding through the interpreter. Using the child is tempting because the child is present and fluent, but it risks errors and burdens the child. Lip-reading misses much of spoken language and is not reliable for clinical decisions.",
+      "takeaway": "Use a qualified ASL interpreter, face the client, and never rely on a child or lip-reading.",
+      "hintContent": "Treat ASL as the client’s primary language.",
+      "hintStrategy": "For language-barrier SATA items, select qualified interpretation and direct address; reject family, children, and shortcuts.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m38-x1-050",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A nurse is completing the communication portion of an admission assessment for a 70-year-old client. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Ask what has helped the client communicate well in the past.",
+        "Assume some hearing loss is present based on the client’s age.",
+        "Give a simple request and observe how the client responds.",
+        "Rely only on a written checklist to judge comprehension.",
+        "Ask the client’s preferred language and communication method.",
+        "Ask about usual hearing and vision aids and whether they work."
+      ],
+      "answer": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Correct. The client’s own experience is a resource.",
+        "Incorrect. Age alone does not establish a deficit.",
+        "Correct. Observing a response helps assess understanding.",
+        "Incorrect. Writing may fail because of vision or literacy, not understanding.",
+        "Correct. This identifies language needs directly.",
+        "Correct. Sensory access must be checked before judging understanding."
+      ],
+      "rationale": "Assessment identifies exactly which part of communication is blocked before choosing a fix. The nurse asks about language, method, hearing, vision, usual aids, and past strategies, then observes a response to a simple request. Assuming hearing loss because of age is tempting because it is common, but it replaces assessment with a stereotype. A written checklist alone can confuse a vision or literacy barrier with poor understanding.",
+      "takeaway": "Assess language, senses, aids, and response directly; never assume from age.",
+      "hintContent": "Each correct action gathers data from the client rather than assuming it.",
+      "hintStrategy": "For assessment SATA items, choose options that collect data; reject options that assume or use a single narrow method.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m38-x1-051",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "A nurse is preparing the handoff report for a client with expressive aphasia who communicates reliably with a picture board. Which information should the nurse include? Select all that apply.",
+      "options": [
+        "Which needs the client communicates reliably with the board.",
+        "How much help the client needs to use the board.",
+        "That the client cannot understand, so ask the family instead.",
+        "That the client is frustrated and difficult to communicate with.",
+        "Where the board is kept and how the client signals yes and no."
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. This tells the next nurse what has been verified.",
+        "Correct. The level of help keeps the method working.",
+        "Incorrect. This is inaccurate; expressive aphasia does not mean poor understanding.",
+        "Incorrect. This is a label rather than useful, specific information.",
+        "Correct. The next nurse needs the working method right away."
+      ],
+      "rationale": "Once a working communication method is found, it belongs in the record and the handoff so every caregiver can use it. The report should include where the aid is, how yes and no are signaled, which needs are reliably communicated, and how much help is needed. Calling the client “difficult” is tempting because it describes the nurse’s experience, but it is a label that may bias the next caregiver. The client’s ability to understand should not be underestimated.",
+      "takeaway": "Hand off the working communication method in specific, usable terms.",
+      "hintContent": "What would the next nurse need to communicate with this client in the first minute?",
+      "hintStrategy": "For handoff SATA items, choose specific, actionable details and reject labels and assumptions.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [
+        "documentation"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-052",
+      "topic": "communication-adaptations",
+      "type": "sata",
+      "stem": "An older adult with moderate hearing loss is in a noisy emergency department hallway bed. The nurse needs to explain the plan for a CT scan. Which actions are appropriate? Select all that apply.",
+      "options": [
+        "Shout each word so the client can hear over the noise.",
+        "Face the client and speak clearly at a natural pace.",
+        "Ask the client to restate the plan in their own words.",
+        "Check that the client’s hearing aids are in and working.",
+        "Move to a quieter area or reduce nearby noise if possible.",
+        "Stand behind the client and speak into the better ear."
+      ],
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Shouting distorts speech and can seem hostile.",
+        "Correct. Facing the client allows visual cues.",
+        "Correct. Restating checks that the message was received.",
+        "Correct. Sensory access must be restored first.",
+        "Correct. Background noise blocks hearing.",
+        "Incorrect. The client needs to see the speaker’s face."
+      ],
+      "rationale": "For hearing difficulty, the nurse faces the client, reduces noise, checks that hearing aids work, and then confirms understanding by having the client restate the message. Shouting is tempting because the setting is loud, but it distorts sound and may seem angry. Standing behind the client removes facial cues that help with hearing. The check of success is whether the client can restate the message accurately.",
+      "takeaway": "For hearing loss: aids in, noise down, face the client, then check with restatement.",
+      "hintContent": "Which actions improve what the client can actually hear and see?",
+      "hintStrategy": "For sensory-barrier SATA items, select actions that restore access and verify understanding.",
+      "ref": "Module 38 · Lifespan & Communication Assessment · slides 20–35",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m38-x1-053",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "At 0845, a nurse documented a 0900 wound dressing change as completed to save time. At 0900, the client declines the dressing change, saying, “Not now, I just got back to sleep.” What should the nurse do?",
+      "options": [
+        "Leave the entry, since the dressing will likely be changed later.",
+        "Delete the entry so no record of the mistake remains.",
+        "Correct the entry per policy and chart the refusal and plan.",
+        "Ask the next shift nurse to change the dressing and sign it."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The entry is false now; leaving it misleads the team about care.",
+        "Incorrect. Erasing hides the error and breaks the audit trail.",
+        "Correct. The approved correction keeps the record honest and shows what actually happened.",
+        "Incorrect. This does not fix the false entry already in the record."
+      ],
+      "rationale": "Precharting creates a false record because planned care may be delayed, refused, or changed, exactly as happened here. The nurse uses the approved correction process, which keeps the original entry and audit trail visible, and then documents the actual events: the refusal, the client’s stated reason, and the follow-up plan. Deleting the entry is tempting because it seems to clean up the mistake, but hiding an error is never acceptable. Leaving the entry risks another nurse skipping the dressing change.",
+      "takeaway": "Never prechart; if it happens, correct openly and document what actually occurred.",
+      "hintContent": "Think about what another nurse would believe after reading the current record.",
+      "hintStrategy": "For record-error items, choose transparent correction plus accurate documentation; reject options that hide or ignore the error.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-054",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse enters a room and finds a 76-year-old client sitting on the floor beside the bed. The client says, “I slipped trying to get to the bathroom.” What should the nurse do first?",
+      "options": [
+        "Document the fall in the client’s record while details are fresh.",
+        "Assess the client for injury before moving the client.",
+        "Call the client’s family to report the fall.",
+        "Help the client back into bed and raise the side rails."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Charting comes after the client is assessed and safe.",
+        "Correct. Safety comes first; injuries must be identified before any transfer.",
+        "Incorrect. Family notification follows assessment and care.",
+        "Incorrect. Moving the client before assessing for injury could worsen harm."
+      ],
+      "rationale": "Charting never comes before safety. When a client falls, the nurse first assesses for injury, then gets help to move the client safely, notifies the provider, and documents promptly and accurately. Documenting right away is tempting because details are fresh, but the record should describe a client who has already been assessed and protected. Moving the client before assessment risks worsening an injury such as a hip fracture.",
+      "takeaway": "Assess and protect the client first; document promptly afterward.",
+      "hintContent": "What could go wrong if the nurse skipped straight to the other actions?",
+      "hintStrategy": "When charting competes with client care in a “first” item, choose the client-care action.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-055",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse realizes she wrote a client’s blood pressure on the wrong client’s paper flow sheet during a downtime when the EHR was unavailable. Which action is correct?",
+      "options": [
+        "Draw one line through it, keep it readable, and initial it per policy.",
+        "Cover the entry with correction fluid and write the right value.",
+        "Black out the entry so the wrong value cannot be misread later.",
+        "Remove the page and recopy the flow sheet without the error."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The approved paper correction keeps the original visible and identifies who corrected it.",
+        "Incorrect. Covering an entry hides it and suggests tampering.",
+        "Incorrect. Obliterating the original removes the record of what was written.",
+        "Incorrect. Replacing pages conceals the error and alters the legal record."
+      ],
+      "rationale": "Errors must be corrected openly through the approved process, keeping the original entry visible. On paper records, this typically means one line through the entry so it stays readable, a label per policy, and the nurse’s initials with date and time. Blacking out the entry is tempting because it prevents someone from reading the wrong value, but it destroys transparency. Recopying pages or using correction fluid can look like falsification.",
+      "takeaway": "Correct errors so the original stays visible; never erase, cover, or recopy.",
+      "hintContent": "Which option leaves an honest trail of both the error and the fix?",
+      "hintStrategy": "For correction items, choose the option that preserves the original entry.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-056",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "At 1830, a nurse realizes she never documented a dose of as-needed oral pain medication she gave at 1400. Which action is most appropriate?",
+      "options": [
+        "Enter the dose in the 1400 time slot so the record looks complete.",
+        "Tell the oncoming nurse in report and skip the written entry.",
+        "Ask a coworker who saw the dose given to chart it for her.",
+        "Make a late entry that shows the current time and the 1400 dose time."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Backdating hides when the entry was really made.",
+        "Incorrect. Verbal report does not replace documentation of medication given.",
+        "Incorrect. A nurse documents only care they personally provided.",
+        "Correct. A labeled late entry is transparent about both times."
+      ],
+      "rationale": "A late entry is clearly labeled and shows when it was written and when the event happened, per policy. This keeps the record accurate and transparent, and it prevents a duplicate dose by the next nurse. Entering it in the 1400 slot is tempting because the dose really was given then, but it hides the delay and misrepresents when documentation occurred. Each nurse must chart only their own care.",
+      "takeaway": "Late entries are labeled and show both the entry time and the event time.",
+      "hintContent": "What does an honest record of a delayed entry look like?",
+      "hintStrategy": "For late-documentation items, choose transparency about timing over making the chart look tidy.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Pharmacology",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-057",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse’s neighbor is admitted to another unit of the hospital. The neighbor’s wife texts the nurse, “Can you look up his test results? We haven’t heard anything yet.” Which response is best?",
+      "options": [
+        "“Sure. I’ll check his chart on my break and then call you.”",
+        "“I’m not on his care team, so I can’t look. His nurse can help.”",
+        "“I can look, but only to see if the results are back yet.”",
+        "“Ask him to sign a form, and then I can read his chart.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Accessing a record outside the nurse’s role is a privacy breach.",
+        "Correct. This declines unauthorized access and directs her to the right source.",
+        "Incorrect. Even a quick look without a care need is unauthorized access.",
+        "Incorrect. A form does not create a care role; access must match the nurse’s job."
+      ],
+      "rationale": "Use the record only for your authorized role and purpose; curiosity or a favor for a friend is not a care need. The nurse declines and points the family to the client’s care team, who can share information according to the client’s wishes. Checking only whether results are back is tempting because it seems harmless, but any access without a role-based need is a breach and shows in the audit trail. Privacy rules apply even when the nurse means well.",
+      "takeaway": "Access a record only when your role and the client’s care require it.",
+      "hintContent": "Is the nurse part of this client’s care team?",
+      "hintStrategy": "For privacy items, ask whether access serves an authorized care role; if not, decline and redirect.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-058",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "At 2215, a client with a new urinary tract infection pulls at the IV and says, “Get this off me, there are bugs on it.” The client is oriented to name only; on admission, the client was fully oriented. Which entry is most appropriate?",
+      "options": [
+        "“2215: Client combative and confused; restraints may be needed.”",
+        "“2215: Client agitated, likely withdrawal; family should be asked.”",
+        "“2215: Pulled at IV, stated ‘there are bugs on it’; oriented to name only.”",
+        "“2215: Client had a confused episode but is resting quietly now.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. “Combative” is a label, and the restraint comment is a guess, not a finding.",
+        "Incorrect. This guesses at a cause without supporting data.",
+        "Correct. This describes behavior, quotes the client, and states the objective finding.",
+        "Incorrect. This is vague and gives no findings the next nurse can use."
+      ],
+      "rationale": "Objective documentation describes what the nurse saw and heard and quotes the client, without labels or guesses about cause. The best entry records the behavior, the client’s exact words, and orientation, which shows a clear change from admission. The withdrawal entry is tempting because it offers an explanation, but guessing at diagnoses in the record is inappropriate without data. Labels like “combative” tell the next nurse less than a description does.",
+      "takeaway": "Chart behaviors and quotes, not labels or guesses about cause.",
+      "hintContent": "Which entry would let a stranger picture exactly what happened?",
+      "hintStrategy": "For “best entry” items, choose the one with times, quotes, and observable findings; reject labels and speculation.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-059",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A client’s blood pressure drops after surgery, and the nurse calls the provider. Which entry best documents this communication?",
+      "options": [
+        "“1520: Dr. Lee told of BP 84/50, HR 118; bolus ordered, read back. 1550: BP 102/64.”",
+        "“1520: Provider aware of low blood pressure; will continue to monitor closely.”",
+        "“1520: Notified provider of change in condition. Client appears stable at this time.”",
+        "“1520: Called Dr. Lee about BP again; she was annoyed but gave orders this time.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. This includes time, clinician, findings, response, and outcome.",
+        "Incorrect. “Provider aware” does not show what was reported or what the plan was.",
+        "Incorrect. This is vague and lacks findings, orders, and outcome.",
+        "Incorrect. This includes personal opinion and omits the findings and response."
+      ],
+      "rationale": "A complete notification entry names who was told, when, what findings were reported, the response or orders, and what happened next. “Provider aware” is incomplete because the reader cannot tell what was reported or what was decided. The entry about the provider being annoyed is tempting because it names the provider, but it adds opinion and conflict rather than clinical facts. The best note tells a clear care story another nurse could act on.",
+      "takeaway": "Notification entries need who, when, what was reported, the response, and the outcome.",
+      "hintContent": "Look for the entry that tells the whole story from finding to result.",
+      "hintStrategy": "For documentation-quality items, choose the entry that a stranger could act on without asking questions.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [
+        "reporting"
+      ],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-060",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse is about to leave for a meal break. A coworker who is still logged in at a shared workstation says, “Just chart your 1200 vitals under my login. It saves time.” Which response by the nurse is best?",
+      "options": [
+        "“Okay, but I’ll add my initials in the note so everyone knows.”",
+        "“Thanks. I’ll do it now and log you out when I’m done.”",
+        "“I’ll just chart them on paper and enter them tomorrow.”",
+        "“No thanks. I’ll log out your session and sign in as myself.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Adding initials does not fix charting under another person’s identity.",
+        "Incorrect. Using another person’s login misattributes the entry and breaks accountability.",
+        "Incorrect. This delays documentation without reason and risks errors.",
+        "Correct. Each nurse charts under their own credentials, and the open session is secured."
+      ],
+      "rationale": "Use only your own login and never chart under a colleague’s session. The audit trail records who entered information, so charting under another person’s login falsely attributes the entry and breaks accountability. Adding initials in the note is tempting because it seems to identify the true author, but the system still records the wrong user. The nurse secures the coworker’s open session and signs in under their own credentials.",
+      "takeaway": "Chart only under your own login; secure any session left open by someone else.",
+      "hintContent": "Whose name will the audit trail attach to the entry?",
+      "hintStrategy": "For EHR access items, reject any shortcut that uses another person’s credentials.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-061",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse preceptor reviews a new graduate’s entries for the morning, shown in the exhibit. It is now 1030. Which entry should the preceptor address first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Nursing notes",
+            "table": {
+              "headers": [
+                "Time",
+                "Entry"
+              ],
+              "rows": [
+                [
+                  "0800",
+                  "Client pleasant and cooperative with care."
+                ],
+                [
+                  "0930",
+                  "Client c/o nausea; antiemetic given per order."
+                ],
+                [
+                  "1000",
+                  "Provider aware of client’s nausea."
+                ],
+                [
+                  "1100",
+                  "Metoprolol 25 mg PO given; tolerated well."
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "The 0800 entry describing the client as pleasant.",
+        "The 1100 entry documenting metoprolol as given.",
+        "The 0930 entry using the abbreviation “c/o.”",
+        "The 1000 entry stating that the provider is aware."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This is vague but does not misrepresent care.",
+        "Correct. This charts a medication not yet given, a false record that could cause a missed or double dose.",
+        "Incorrect. Abbreviation use follows policy and is a minor issue.",
+        "Incorrect. This is incomplete and needs detail, but it is less dangerous than a false medication record."
+      ],
+      "rationale": "All four entries could be improved, but the precharted medication is the most serious because it creates a false record of care. Another nurse may believe the dose was given and skip it, or the dose may be given twice. “Provider aware” is the most tempting choice because it is a well-known incomplete entry, but it does not directly misstate whether care occurred. Prioritize the entry with the greatest risk of client harm.",
+      "takeaway": "A precharted medication is a false record and the highest-risk documentation error.",
+      "hintContent": "Compare the time on each entry with the current time.",
+      "hintStrategy": "When several entries are flawed, prioritize the one that could directly cause client harm.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-062",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "While walking through the hospital cafeteria, a nurse finds a printed unit census sheet with client names, room numbers, and diagnoses left on a table. What should the nurse do first?",
+      "options": [
+        "Pick up the sheet so no one else can read it.",
+        "Report the finding to the privacy officer from the unit.",
+        "Ask nearby staff who left the sheet on the table.",
+        "Leave it in place and call the charge nurse to retrieve it."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Securing the exposed information stops further disclosure.",
+        "Incorrect. Reporting is required but comes after securing the information.",
+        "Incorrect. Finding the person can wait until the information is protected.",
+        "Incorrect. Leaving it exposed allows more people to see it."
+      ],
+      "rationale": "When an exposed record is found, the nurse secures it first and then follows reporting policy. Picking up the sheet immediately stops additional people from viewing protected health information. Reporting to the privacy officer is tempting because breaches must be reported, but the exposure continues while the sheet sits on the table. Afterward, the nurse reports the incident and disposes of the sheet through approved methods.",
+      "takeaway": "Secure exposed health information first, then report per policy.",
+      "hintContent": "Which action stops the exposure right now?",
+      "hintStrategy": "For privacy breaches, “first” usually means containing the exposure before reporting.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-063",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "At 1400, a nurse charts, “New irregular pulse 118/min, client reports palpitations and lightheadedness.” The nurse plans to let the provider review the note during evening rounds at 1700. What should the charge nurse tell the nurse?",
+      "options": [
+        "“Good thinking. A detailed note saves time during rounds.”",
+        "“Add a flag to the note so the provider sees it first.”",
+        "“Call the provider now to report this change directly.”",
+        "“Recheck the pulse at 1700 before rounds and then decide.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A note does not reach the provider in time for a new, possibly unstable change.",
+        "Incorrect. A flag still depends on someone reading the record later.",
+        "Correct. A new change with symptoms needs direct communication now; the record does not replace it.",
+        "Incorrect. Waiting three hours delays evaluation of a symptomatic new rhythm."
+      ],
+      "rationale": "Documentation never replaces direct communication. A new irregular, fast pulse with palpitations and lightheadedness may signal an unstable rhythm and needs prompt, direct reporting to the provider. Adding a flag is tempting because it seems to highlight the problem, but it still depends on someone reading the chart later. After reporting, the nurse documents who was told, when, the response, and the plan.",
+      "takeaway": "A significant new finding is reported directly; charting it is not enough.",
+      "hintContent": "How quickly will the provider learn about the change in each option?",
+      "hintStrategy": "If a finding is new and symptomatic, choose direct, immediate communication over record-based options.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [
+        "reporting"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-064",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A client is on postoperative day 2 of a hip replacement critical pathway. The plan calls for walking in the hallway three times today. During the first walk, the client becomes pale and says, “I feel like I’m going to pass out.” What should the nurse do first?",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Pathway: Day 2",
+            "table": {
+              "headers": [
+                "Expected outcome",
+                "Status"
+              ],
+              "rows": [
+                [
+                  "Ambulate in hall 3 times",
+                  "In progress (walk 1)"
+                ],
+                [
+                  "Pain 3/10 or less on oral meds",
+                  "Met"
+                ],
+                [
+                  "Tolerating regular diet",
+                  "Met"
+                ]
+              ]
+            }
+          }
+        ]
+      },
+      "options": [
+        "Document a variance from the pathway in the record.",
+        "Encourage the client to finish the walk to meet the goal.",
+        "Notify the case manager that discharge may be delayed.",
+        "Have the client sit or lie down and check vital signs."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Documentation follows the client’s safety.",
+        "Incorrect. Forcing the plan risks a fall and injury.",
+        "Incorrect. This is not the immediate need while the client feels faint.",
+        "Correct. Preventing a fall and assessing the cause come first."
+      ],
+      "rationale": "A critical pathway lists expected care and outcomes, but the client always comes before the template. The client is near-fainting, so the nurse prevents a fall and assesses vital signs before anything else. Documenting the variance is tempting because the stem highlights the pathway, but variance charting, with actions and the client’s response, comes after the client is safe. Never force a client to fit a template.",
+      "takeaway": "When a client deviates from a pathway, ensure safety first, then document the variance and response.",
+      "hintContent": "The exhibit is about the plan; the client is about to faint.",
+      "hintStrategy": "When exhibit data and client symptoms compete, act on the symptoms first.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-065",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A client is going home today after starting enoxaparin injections. During return demonstration, the client cannot remember where to inject and drops the syringe. The discharge note from the prior shift reads, “Teaching complete; client verbalizes understanding.” What should the nurse do first?",
+      "options": [
+        "Reteach the injection steps and have the client demonstrate again.",
+        "Leave the note as written because the teaching was done.",
+        "Add a home health referral to the note and discharge the client as planned.",
+        "Document that the client is unable to learn this skill."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. The real learning gap must be addressed before the client goes home.",
+        "Incorrect. The note does not reflect the client’s current ability.",
+        "Incorrect. Referral may help, but the client must be safe with injections at discharge.",
+        "Incorrect. This is a premature conclusion that ignores the chance to reteach."
+      ],
+      "rationale": "Transition notes must reflect real learning and every unresolved need, and a printed packet or “verbalizes understanding” does not prove it. The client’s failed demonstration shows a learning gap that matters for safety, so the nurse reteaches and has the client try again. Then the nurse documents the actual result, remaining needs, and follow-up. Adding a home health referral is tempting, but the client may need to give an injection before the first visit.",
+      "takeaway": "Document real demonstrated learning and close gaps before discharge.",
+      "hintContent": "Does the record match what the client can actually do?",
+      "hintStrategy": "When documentation conflicts with what the nurse observes, trust the observation and act on it first.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-066",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse notices a coworker on the same unit reading the chart of a well-known local athlete who is a client on a different floor. The coworker is not involved in the athlete’s care. What should the nurse do first?",
+      "options": [
+        "Report the coworker to the privacy officer without speaking to her.",
+        "Ask the coworker to close the record right away.",
+        "Wait to see whether the coworker prints anything.",
+        "Tell the athlete’s nurse to watch the chart for activity."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Reporting may follow, but the ongoing access should be stopped first.",
+        "Correct. This stops the unauthorized access now.",
+        "Incorrect. Viewing alone is a breach; waiting allows it to continue.",
+        "Incorrect. This does not stop the current access."
+      ],
+      "rationale": "Opening a record without a care-related purpose is a privacy breach, even if the person only looks. The nurse first stops the access by asking the coworker to close the record, then follows facility policy for reporting. Reporting directly to the privacy officer is tempting because policy requires reporting, but it does not stop the exposure happening now. The audit trail will show who accessed the record.",
+      "takeaway": "Stop unauthorized access first, then report through policy.",
+      "hintContent": "Which option ends the breach that is happening now?",
+      "hintStrategy": "For privacy “first” items, contain the breach before reporting.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m38-x1-067",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A client with an abdominal incision reports pain. Which entry best documents the pain assessment?",
+      "options": [
+        "“Client appears to be in a great deal of pain and is very uncomfortable.”",
+        "“Client seems to exaggerate pain to get medication sooner.”",
+        "“Client states, ‘It burns, 6 out of 10.’ Guarding incision; HR 98.”",
+        "“Pain 6/10 reported but client looks comfortable, so held meds.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. This is a vague impression with no client report or findings.",
+        "Incorrect. This guesses at motive and is judgmental.",
+        "Correct. This quotes the client’s report and adds objective findings.",
+        "Incorrect. This dismisses the client’s report based on appearance."
+      ],
+      "rationale": "Record pain as the client reports it, using the client’s words, plus observable findings. A quote preserves meaning, and guarding and heart rate add objective data. Writing that the client looks comfortable is tempting because it seems objective, but pain is what the client reports, and appearance alone does not overrule it. Guesses about motives do not belong in the record.",
+      "takeaway": "Chart pain as the client’s quoted report plus objective findings.",
+      "hintContent": "Which entry gives both the client’s words and what the nurse observed?",
+      "hintStrategy": "For subjective-data entries, choose the quote plus objective findings.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-068",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A unit uses focus charting with Data, Action, and Response (DAR). A nurse writes a note with the focus “Acute pain.” Which statement belongs in the Response section?",
+      "options": [
+        "“1130: Client rates pain 2/10 and is resting with eyes closed.”",
+        "“1100: Client rates incision pain 8/10 and is guarding.”",
+        "“1100: Oxycodone 5 mg PO given per order; repositioned.”",
+        "“Plan: reassess the client’s pain level every 2 hours and as needed.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Response is the client’s outcome after the action.",
+        "Incorrect. This is Data: assessment findings that prompted the action.",
+        "Incorrect. This is Action: what the nurse did.",
+        "Incorrect. This is a plan, not the client’s response."
+      ],
+      "rationale": "Focus charting centers on one concern and commonly uses Data, Action, and Response. Data records the findings, Action records what the nurse did, and Response records how the client responded. The reassessment showing pain 2/10 is the Response. The plan to reassess is tempting because it follows the action, but it states future care rather than the client’s outcome.",
+      "takeaway": "In DAR notes, Response is the client’s measured outcome after the action.",
+      "hintContent": "Ask which statement shows what happened to the client after care.",
+      "hintStrategy": "For charting-format items, map each option to a section before choosing.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-069",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A client is being transferred from a community hospital to a regional ICU. The receiving ICU nurse asks for the client’s current medications, allergies, recent labs, and relevant history. Which action by the sending nurse is correct?",
+      "options": [
+        "Share only the diagnosis because of the minimum-necessary rule.",
+        "Ask the client to sign a release before sharing anything.",
+        "Tell the ICU nurse to wait until the client arrives to ask.",
+        "Send the requested treatment information through approved channels."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Minimum necessary does not limit sharing for treatment between providers.",
+        "Incorrect. Sharing between providers for treatment does not require a separate release.",
+        "Incorrect. Delaying information risks unsafe care at the transition.",
+        "Correct. Providers may share information needed for treatment using approved systems."
+      ],
+      "rationale": "HIPAA’s minimum-necessary rule limits sharing to what is needed, but it does not apply to disclosures between providers for treatment. The receiving team needs current status, medications, allergies, labs, and history for safe continuity, sent through approved channels. Limiting the report to the diagnosis is tempting because it sounds protective, but it would leave the ICU team without information needed to keep the client safe. Privacy rules have specific exceptions, so neither “always share” nor “never share” is correct.",
+      "takeaway": "The minimum-necessary rule does not block sharing among providers for treatment.",
+      "hintContent": "What is the purpose of this disclosure?",
+      "hintStrategy": "For privacy items, identify the purpose first: treatment sharing among providers is allowed through approved channels.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [
+        "reporting"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-070",
+      "topic": "documentation",
+      "type": "mcq",
+      "stem": "A nurse reviewing a medical-surgical chart sees that the client’s daughter told the admitting nurse that her mother “walks independently with a cane at home.” The nurse has not yet seen the client walk. Which entry is most accurate?",
+      "options": [
+        "“Ambulates independently with a cane; gait steady and even.”",
+        "“Daughter reports client uses a cane at home; gait not yet assessed.”",
+        "“Client walks well with a cane per family; no fall risk noted.”",
+        "“Gait steady; independent with a cane per the admission note.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. This charts an observed finding the nurse has not assessed.",
+        "Correct. This attributes the report and states what has not been observed.",
+        "Incorrect. This draws a conclusion from unverified data.",
+        "Incorrect. This copies an unverified finding as if it were current."
+      ],
+      "rationale": "Separate your own assessment from another person’s report, and attribute reports to their source. The daughter’s statement is useful history, but it is not an observed gait assessment, and the entry should say so. Copying the admission note is tempting because it seems efficient, but carrying forward a finding the nurse did not verify can mislead the team about fall risk. The accurate entry is honest about what was and was not assessed.",
+      "takeaway": "Attribute reported information to its source and never chart it as your own observation.",
+      "hintContent": "Who actually observed the client walking?",
+      "hintStrategy": "For attribution items, choose the entry that names the source and states what the nurse did not verify.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m38-x1-071",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "A client refuses a prescribed subcutaneous heparin injection, saying, “I bruise too easily from those shots.” After teaching, the client still declines. Which information should the nurse document? Select all that apply.",
+      "options": [
+        "The dose marked as given so the MAR stays complete.",
+        "The nurse’s view that the client is being stubborn.",
+        "The client’s stated reason, quoted in the client’s words.",
+        "The teaching given about the purpose and risks of refusing.",
+        "The time the provider was notified and the response.",
+        "“Client noncompliant with anticoagulant therapy.”"
+      ],
+      "answer": [
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Charting a refused dose as given is falsification.",
+        "Incorrect. Personal opinions about motive do not belong in the record.",
+        "Correct. Quoting the reason preserves the meaning of the choice.",
+        "Correct. This shows the client made an informed decision.",
+        "Correct. Notification with the response completes the care story.",
+        "Incorrect. “Noncompliant” is a label without useful detail."
+      ],
+      "rationale": "When a client declines care, the record should show the decision, the stated reason, the teaching given, and notification and follow-up. Quoting the client keeps the meaning and avoids judgment. “Noncompliant” is tempting because it is a familiar term, but it is a label that tells the next nurse nothing about why or what was done. Marking a refused dose as given would be a false record.",
+      "takeaway": "Document a refusal with the quote, teaching, notification, and follow-up, not a label.",
+      "hintContent": "Which items would let the next nurse understand the refusal fully?",
+      "hintStrategy": "For documentation SATA items, select facts, quotes, and actions; reject labels, opinions, and anything false.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-072",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "A nurse educator asks new graduates to identify objective, well-written entries. Which entries meet this standard? Select all that apply.",
+      "options": [
+        "“1100: Turned away and said, ‘Leave me alone,’ when PT arrived.”",
+        "“1300: Client lazy about walking; refused hallway walk.”",
+        "“1400: Right ankle edema, 2+ pitting, warm to touch.”",
+        "“1500: Client doing well and in good spirits.”",
+        "“0930: Ate 25% of breakfast; stated, ‘My stomach feels full.’”",
+        "“1015: Client hostile toward staff during bath.”"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. It describes observed behavior and quotes the client.",
+        "Incorrect. “Lazy” is judgmental and guesses at motive.",
+        "Correct. It describes specific, measurable findings.",
+        "Incorrect. This is vague and gives no measurable findings.",
+        "Correct. It records a measured amount and quotes the client.",
+        "Incorrect. “Hostile” is a label, not a description of behavior."
+      ],
+      "rationale": "Objective documentation describes specific findings the nurse can see, hear, measure, or feel, written without judgment. Measured intake, quoted statements, described behavior, and graded edema all meet this standard. “Doing well and in good spirits” is tempting because it is positive and not judgmental, but it is vague and gives the next nurse nothing to compare. Labels such as “hostile” or “lazy” guess at motive.",
+      "takeaway": "Objective entries use measurements, descriptions, and quotes; avoid labels and vague summaries.",
+      "hintContent": "Could another nurse verify or compare each entry later?",
+      "hintStrategy": "For “which entries are objective” items, select those with measurable or quoted content.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-073",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "A charge nurse observes staff during a shift. Which actions are breaches of client confidentiality that require follow-up? Select all that apply.",
+      "options": [
+        "Two nurses discuss a client’s diagnosis by name in a crowded elevator.",
+        "A nurse leaves a client’s record open on an unlocked screen.",
+        "A nurse shares wound findings with the client’s physical therapist.",
+        "A nurse looks up a coworker’s lab results out of concern.",
+        "A nurse verifies a caller with the client’s code before sharing updates."
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Public discussion exposes health information to others.",
+        "Correct. An unlocked screen allows unauthorized viewing.",
+        "Incorrect. Sharing with the treating team for care is appropriate.",
+        "Correct. Accessing a record without a care role is a breach.",
+        "Incorrect. Verifying identity per policy protects privacy."
+      ],
+      "rationale": "Use and share records only for an authorized role and purpose. Discussing clients in public spaces, leaving screens unlocked, and viewing records without a care need all breach confidentiality. Looking up a coworker’s results is tempting to excuse because the motive is concern, but good intentions do not create authorized access. Sharing needed findings with the treating team and verifying callers per policy are appropriate.",
+      "takeaway": "Confidentiality means role-based access, secure screens, and private conversations.",
+      "hintContent": "Ask whether each action has a care purpose and an authorized role.",
+      "hintStrategy": "For breach SATA items, judge each action by purpose and setting, not by the person’s intentions.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-074",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "A nurse is oriented to a unit that uses charting by exception (CBE). Which actions by the nurse are consistent with this system? Select all that apply.",
+      "options": [
+        "Skip all routine findings because normal is assumed.",
+        "Document a new finding that differs from the standard in detail.",
+        "Chart only events that need a rapid response call.",
+        "Include the actions taken and the client’s response for exceptions.",
+        "Record routine vital signs on the required flow sheet.",
+        "Review the unit’s written standards for what is considered normal."
+      ],
+      "answer": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. CBE does not mean charting nothing routine.",
+        "Correct. Changes from the norm are the exceptions that must be described.",
+        "Incorrect. CBE is not “chart emergencies only.”",
+        "Correct. Exceptions need the full care story.",
+        "Correct. CBE still requires routine data in set flow sheets.",
+        "Correct. CBE depends on clearly defined norms."
+      ],
+      "rationale": "Charting by exception documents changes from defined standards and depends on clear norms and required flow sheets. Routine data are still recorded in their set places, and any exception is described in detail with the actions taken and the client’s response. “Normal is assumed” is the most tempting misunderstanding because it sounds like the definition, but CBE does not eliminate routine records. CBE never means charting only emergencies.",
+      "takeaway": "CBE = defined norms plus required flow sheets plus detailed exceptions.",
+      "hintContent": "What does “exception” mean if there is no defined normal?",
+      "hintStrategy": "For charting-system SATA items, reject any option that claims the system lets you skip required documentation.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-075",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "At 2100, a nurse remembers that she repositioned a client and assessed the client’s sacral skin at 1600 but did not document it. Which elements should the late entry include? Select all that apply.",
+      "options": [
+        "The current date and time when the entry is written.",
+        "The time the care and assessment took place.",
+        "Placement in the 1600 slot with no mention of delay.",
+        "A note that the nurse told the oncoming shift instead.",
+        "A clear label identifying it as a late entry."
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. This shows when documentation actually occurred.",
+        "Correct. This shows when the event happened.",
+        "Incorrect. This backdates the entry and hides the delay.",
+        "Incorrect. Verbal report does not replace the written entry.",
+        "Correct. The label makes the timing transparent."
+      ],
+      "rationale": "A late entry is an addition made after the event and is clearly labeled with both the entry time and the event time, per policy. This keeps the record accurate and transparent. Placing the note in the 1600 slot is tempting because the care did happen then, but it hides when the documentation was written. Verbal handoff is important but does not replace documentation.",
+      "takeaway": "Late entries are labeled and show both when written and when care occurred.",
+      "hintContent": "An honest record shows both times.",
+      "hintStrategy": "For late-entry SATA items, select transparency about timing; reject backdating.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-076",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "At 0310, a nurse finds a client on the floor. After assessment, help to bed, and notification of the provider, the nurse documents the event. Which items belong in the client’s record? Select all that apply.",
+      "options": [
+        "The provider notified, the time, and orders received.",
+        "“Client fell because she ignored instructions to call for help.”",
+        "The nurse’s opinion that low staffing caused the fall.",
+        "The time the client was found and the position found in.",
+        "The client’s own words about what happened.",
+        "Assessment findings, including any injury."
+      ],
+      "answer": [
+        0,
+        3,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Correct. This documents communication and the plan.",
+        "Incorrect. This assigns blame and guesses at cause.",
+        "Incorrect. Speculation and blame do not belong in the clinical record.",
+        "Correct. Time and objective description start the care story.",
+        "Correct. A quote preserves the client’s account.",
+        "Correct. Findings show the client’s condition after the fall."
+      ],
+      "rationale": "A fall note should tell a factual care story: when and how the client was found, the client’s own account, assessment findings, notification, orders, and the client’s response. Blaming the client is tempting because it may explain what happened, but it guesses at motive and is not objective. Opinions about staffing are not clinical findings. Describe facts, attribute statements, and avoid blame.",
+      "takeaway": "Document a fall with facts, quotes, findings, and notification, not blame or opinion.",
+      "hintContent": "Which items could another nurse verify or act on?",
+      "hintStrategy": "For “what belongs in the record” SATA items, select objective facts and actions; reject blame and speculation.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m38-x1-077",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "After a telephone call to report a change in a client’s condition, a nurse documents the communication. Which elements are needed for a complete entry? Select all that apply.",
+      "options": [
+        "A brief note that says only “provider aware.”",
+        "The name of the provider who was contacted.",
+        "The time of the call.",
+        "The specific findings the nurse reported.",
+        "The provider’s response and any orders received."
+      ],
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. This omits what was reported and what was decided.",
+        "Correct. The reader needs to know who received the report.",
+        "Correct. Timing shows how quickly the change was reported.",
+        "Correct. This shows what information the provider had.",
+        "Correct. This shows the plan that resulted."
+      ],
+      "rationale": "“Provider aware” is incomplete. A complete communication entry names who was contacted, when, what findings were reported, the response or orders, and what happened next. This lets the next nurse continue the plan and supports accountability. The short note is tempting because it is quick and familiar, but it leaves the reader guessing about the content and outcome of the call.",
+      "takeaway": "Document who, when, what was reported, and the response for every provider notification.",
+      "hintContent": "Could the next nurse continue the plan from this entry alone?",
+      "hintStrategy": "For complete-entry SATA items, select every element that answers who, when, what, and what next.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [
+        "reporting"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m38-x1-078",
+      "topic": "documentation",
+      "type": "sata",
+      "stem": "A nursing student is assigned to a client on a medical unit for clinical practice. Which actions by the student are appropriate? Select all that apply.",
+      "options": [
+        "Print the client’s history to finish the care plan at home.",
+        "Look up a relative’s chart while logged in for clinical.",
+        "Lock or log out of the workstation when stepping away.",
+        "Share the login with a classmate whose access is delayed.",
+        "Access only the assigned client’s record under supervision.",
+        "Remove names and identifiers from the care plan paperwork."
+      ],
+      "answer": [
+        2,
+        4,
+        5
+      ],
+      "optionRationales": [
+        "Incorrect. Keeping identifiable records outside approved use is not allowed.",
+        "Incorrect. Access without a care role is a breach.",
+        "Correct. This prevents unauthorized viewing.",
+        "Incorrect. Each person uses only their own credentials.",
+        "Correct. Students need supervised, authorized access tied to their role.",
+        "Correct. De-identified notes protect privacy."
+      ],
+      "rationale": "Students need supervised, authorized access, and “for education” does not allow browsing or keeping identifiable records. Appropriate actions include accessing only the assigned client, de-identifying paperwork, and securing the workstation. Printing the history is tempting because it supports learning, but removing identifiable records from the facility risks a breach. Sharing logins breaks accountability in the audit trail.",
+      "takeaway": "Students access only assigned records, de-identify notes, and never share logins.",
+      "hintContent": "Ask whether each action is tied to the student’s authorized role.",
+      "hintStrategy": "For student-access SATA items, “for education” never overrides privacy rules.",
+      "ref": "Module 38 · Exemplar 38.C Documentation · slides 2–16",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    }
+  ]
+});

@@ -1,9 +1,9 @@
 import { motion } from 'motion/react';
 import { useMemo, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
-import { MODULES, MODULE_BY_ID, QUESTIONS, isNewModule } from '../data';
+import { MODULE_BY_ID, QUESTIONS } from '../data';
 import { Icon, type IconName } from '../components/Icon';
-import { Chip, toggleIn } from '../components/ui';
+import { ModuleChips } from '../components/ModuleChips';
 import { balancedPick } from '../lib/analytics';
 import { createSession } from '../lib/session';
 import { useProgress } from '../store/progress';
@@ -78,17 +78,7 @@ export function ExamBuilder() {
 
           <section className="card">
             <h3>Modules covered</h3>
-            <div className="chips">
-              <Chip on={!modules.length} onClick={() => setModules([])}>
-                All modules
-              </Chip>
-              {MODULES.map((m) => (
-                <Chip key={m.id}
-                isNew={isNewModule(m.id)} on={modules.includes(m.id)} color={m.color} onClick={() => setModules(toggleIn(modules, m.id))} count={m.questions.length}>
-                  {m.number} · {m.title}
-                </Chip>
-              ))}
-            </div>
+            <ModuleChips selected={modules} onChange={setModules} count={(m) => m.questions.length} />
           </section>
 
           <section className="card">

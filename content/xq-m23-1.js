@@ -1,0 +1,2443 @@
+window.NURSE_DATA = window.NURSE_DATA || [];
+window.NURSE_DATA.push({
+  "moduleId": "m23",
+  "moduleNumber": 23,
+  "moduleTitle": "Cognition",
+  "questions": [
+    {
+      "id": "m23-x1-001",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "During a scheduled memory screen in an outpatient clinic, a 72-year-old client suddenly cannot find common words and the right side of his mouth droops. His wife says he spoke normally in the car 20 minutes ago. Which action should the nurse take first?",
+      "options": [
+        "Stop the screen, check vital signs and neuro status, and activate emergency help.",
+        "Finish the remaining screen items so the provider receives a complete score.",
+        "Ask the wife whether he has had word-finding pauses at home before today.",
+        "Document mild anomia and schedule a follow-up visit to repeat the screen."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. New word-finding trouble with one-sided facial weakness is an emergency that needs immediate assessment and escalation.",
+        "Incorrect. Completing a screen delays care for a possible stroke; the screen can wait.",
+        "Incorrect. Baseline history is useful later, but the sudden focal signs need action now.",
+        "Incorrect. Labeling this as anomia and rescheduling misses an acute neurologic emergency."
+      ],
+      "rationale": "A sudden change in thinking paired with a focal sign such as facial droop is never normal aging or a routine screening finding. The nurse stops the memory screen, assesses airway, breathing, vital signs, and a focused neuro exam, and activates emergency help without delay. The tempting choice is to finish the screen because the score seems useful, but no score is worth a delay in stroke care. Baseline questions and documentation come after the client is safe and help is on the way.",
+      "takeaway": "New word-finding trouble with one-sided weakness means stop testing and escalate immediately.",
+      "hintContent": "Compare how fast this change appeared with what a memory screen is designed to measure.",
+      "hintStrategy": "When a stem shows a sudden change with a physical sign, pick the action that assesses and escalates over any routine task.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-002",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "An assistive personnel (AP) tells the RN, “The man in room 12 isn’t making sense today. Yesterday he was joking with me, but now he keeps losing track of what I say.” Which action should the RN take first?",
+      "options": [
+        "Tell the AP to reorient him every hour and report back at the end of shift.",
+        "Ask the AP to obtain a full set of vital signs and record them in the chart.",
+        "Go to the room and assess the client’s alertness, attention, and vital signs.",
+        "Call his family to ask whether this kind of confusion has happened before."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Reorientation by the AP does not replace RN assessment of a new change, and waiting until shift end delays care.",
+        "Incorrect. Vital signs help, but the RN must personally assess a new change in thinking rather than delegating it.",
+        "Correct. A new change from baseline reported by the AP requires RN assessment because interpreting the change is RN work.",
+        "Incorrect. Family history helps later, but the client needs direct assessment first."
+      ],
+      "rationale": "The AP has done exactly what an AP should do: reported a change in the usual routine. Interpreting that change is RN work, so the RN goes to the bedside to assess alertness, attention, and physical status. Delegating vital signs alone is tempting, but the RN cannot hand off the assessment and interpretation of a new cognitive change. Calling family and reorienting are later steps once the RN knows how unstable the client is.",
+      "takeaway": "When an AP reports a new change in thinking, the RN assesses the client directly.",
+      "hintContent": "Notice that the client was joking yesterday and is losing track today.",
+      "hintStrategy": "In delegation items, assessment and interpretation of a new change always stay with the RN.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-003",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A nurse begins an admission cognitive screen for a 66-year-old client the day after spinal surgery. The client is alert, vital signs are at baseline, and the client answers slowly while grimacing and rates back pain 8 on a 0–10 scale. Which action is best?",
+      "options": [
+        "Pause the screen, treat the pain as ordered, and repeat the screen later.",
+        "Report a possible cognitive disorder to the provider based on slow answers.",
+        "Ask the client to try harder to focus so the screen can be finished today.",
+        "Continue the screen and record the slow answers as a baseline finding."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Pain can block attention and memory, so the nurse relieves it and then reassesses for a valid result.",
+        "Incorrect. Slow answers during severe pain do not indicate a cognitive disorder; the barrier must be removed first.",
+        "Incorrect. Urging effort ignores a treatable barrier and adds stress that can worsen performance.",
+        "Incorrect. A score obtained during severe pain is unreliable and could falsely label the client as impaired."
+      ],
+      "rationale": "Pain, fatigue, anxiety, and medication effects can temporarily block attention and memory. This client is alert with stable vital signs, so there is no sign of an acute emergency, but severe pain makes any score unreliable. The best action is to treat the pain and reassess. Recording the result as baseline is tempting because it finishes the task, but it would chart a falsely low score that could follow the client through the stay.",
+      "takeaway": "Remove barriers like pain before you interpret a cognitive screen.",
+      "hintContent": "Ask what besides a thinking problem could slow this client’s answers right now.",
+      "hintStrategy": "If the stem gives a fixable barrier, choose the answer that removes it before interpreting the result.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-004",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A 70-year-old client admitted for cellulitis walked steadily to the bathroom yesterday. Today the client staggers with a wide-based gait, sways when standing, and cannot touch the nurse’s finger and then their own nose. Which action is the priority?",
+      "options": [
+        "Keep the client in bed and complete a focused neuro assessment.",
+        "Request a physical therapy referral for gait training before discharge.",
+        "Provide a walker and encourage the client to keep walking in the hallway.",
+        "Document the unsteady gait as expected weakness from bed rest."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. New ataxia is a change in neurologic status that raises fall risk and needs focused assessment and reporting.",
+        "Incorrect. Therapy may help later, but new incoordination must first be assessed as a possible acute change.",
+        "Incorrect. Encouraging ambulation with new ataxia increases fall risk before the cause is known.",
+        "Incorrect. Bed rest does not explain new incoordination; calling it expected misses a neurologic change."
+      ],
+      "rationale": "Ataxia is poor coordination and balance, and a new onset means something has changed in the nervous system or body. The nurse protects the client from falling and completes a focused neuro assessment so the change can be reported with clear data. Physical therapy seems helpful, but it treats the symptom before anyone knows why it appeared. Calling it deconditioning after one day is a trap that blames the obvious and misses a possible acute cause.",
+      "takeaway": "New ataxia means protect from falls and assess neuro status before rehab planning.",
+      "hintContent": "The client walked steadily yesterday; ask what a sudden change in coordination could signal.",
+      "hintStrategy": "Choose safety plus assessment over long-term planning when a finding is new.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-005",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A nurse on a medical unit reviews the assignment shown in the exhibit. Which client should the nurse assess first?",
+      "options": [
+        "The client who conversed at 0900 and is hard to rouse at 1100.",
+        "The client with mild cognitive impairment asking the usual questions.",
+        "The client with chronic aphasia since a stroke two years ago.",
+        "The client with a normal screen who is worried about going home."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A drop in alertness over two hours is a new, possibly life-threatening change that needs immediate assessment.",
+        "Incorrect. Repeating questions at the client’s usual level is a known, stable pattern.",
+        "Incorrect. A long-standing deficit that is stable and at baseline is not the priority.",
+        "Incorrect. Anxiety about discharge matters, but it is not physically unstable."
+      ],
+      "rationale": "When every client has a thinking concern, choose the one whose change is new and involves alertness. A client who was talking at 0900 and is hard to rouse two hours later could have low oxygen, low glucose, a drug effect, or another acute cause. The chronic aphasia is tempting because it sounds serious, but a two-year-old deficit at baseline is stable. The other clients have familiar patterns or emotional needs that can wait briefly.",
+      "takeaway": "A new drop in alertness beats any stable, long-standing deficit.",
+      "hintContent": "Look for the words that show a change over hours rather than years.",
+      "hintStrategy": "In assignment items, rank new and acute over chronic and stable.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Assignment",
+            "table": {
+              "headers": [
+                "Client",
+                "Report"
+              ],
+              "rows": [
+                [
+                  "Ms. A, 81",
+                  "Chronic expressive aphasia since stroke 2 years ago; uses picture board; vital signs at baseline"
+                ],
+                [
+                  "Mr. B, 77",
+                  "Mild cognitive impairment; asks about lunch time repeatedly, as on prior days"
+                ],
+                [
+                  "Mr. C, 69",
+                  "Conversed with nurse at 0900; at 1100 opens eyes to loud voice, then drifts off"
+                ],
+                [
+                  "Mrs. D, 74",
+                  "Normal cognitive screen today; tearful and worried about going home tomorrow"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m23-x1-006",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A resident with mild cognitive impairment can dress himself when his clothes are laid out in order, but it takes about 20 minutes. The assistive personnel (AP) says, “It would be faster if I just dress him myself.” Which instruction should the RN give the AP?",
+      "options": [
+        "“Dress him yourself on busy mornings so he is ready on time.”",
+        "“Lay his clothes out in order and give him time to dress himself.”",
+        "“Let him dress alone without setup so he practices on his own.”",
+        "“Have him skip dressing and stay in his gown until he is faster.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Taking over a task he can do removes function and independence he still has.",
+        "Correct. This gives the least help that keeps him safe and supports his remaining strengths.",
+        "Incorrect. Removing setup ignores the support he needs to complete the task successfully.",
+        "Incorrect. Withholding the activity reduces dignity and function rather than supporting it."
+      ],
+      "rationale": "Care for clients with cognitive changes should give the least help that keeps the client safe while preserving choices and skills. This resident succeeds when clothes are set up in order, so the plan is setup plus time, not takeover. The AP’s idea is tempting because it saves time, but doing the whole task removes a skill he still has and can speed decline in independence. Removing setup goes too far the other way and sets him up to fail.",
+      "takeaway": "Match help to real function: support the step that is hard and let the client do the rest.",
+      "hintContent": "Think about what the resident can already do when given a small amount of help.",
+      "hintStrategy": "Choose the answer that preserves independence while still providing needed support.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-007",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "Midway through a cognitive screen, a 69-year-old client misses two recall items, becomes tearful, and says, “I’m so stupid, I can’t do anything right.” Her vital signs are at baseline. Which action should the nurse take first?",
+      "options": [
+        "Pause the screen and acknowledge her distress before going on.",
+        "Finish the remaining items quickly so the score is complete today.",
+        "Repeat the missed items until she gives the correct answers.",
+        "Tell her the score will not matter and has no effect on her care."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Anxiety can lower performance, so the nurse addresses distress first and then continues when results will be valid.",
+        "Incorrect. Rushing a distressed client produces an unreliable score and ignores her feelings.",
+        "Incorrect. Repeating the same questions increases distress and can make results worse.",
+        "Incorrect. This is false reassurance; screen results do guide further assessment."
+      ],
+      "rationale": "Anxiety and distress can block memory and attention, and repeated questioning can upset a client and worsen results. The nurse pauses, acknowledges the feeling, and returns to the screen when the client is calmer. Pushing through to finish is tempting because a complete score seems necessary, but a score earned under distress is not a fair picture of her thinking. Telling her the score does not matter is false reassurance that closes off communication.",
+      "takeaway": "Address anxiety before you continue a screen, or the result will not reflect real ability.",
+      "hintContent": "Consider how strong emotion affects the skills the screen is measuring.",
+      "hintStrategy": "Therapeutic answers acknowledge the feeling; avoid answers that dismiss it or push through it.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-008",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A client with expressive aphasia after a stroke follows directions accurately but speaks only a few words. The client points toward the door, shakes the bed rail, and becomes red-faced when the nurse cannot understand. Which action should the nurse take first?",
+      "options": [
+        "Ask the client to keep trying to say the words more slowly.",
+        "Leave and return later when the client is calmer and more patient.",
+        "Ask a family member to guess what the client probably wants.",
+        "Offer a picture board and ask simple yes-or-no questions."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Pressing for speech the client cannot produce increases frustration.",
+        "Incorrect. Leaving abandons an unmet need and may leave a safety need unaddressed.",
+        "Incorrect. Guessing through others removes the client’s own voice when comprehension is intact.",
+        "Correct. Comprehension is intact, so another way to communicate lets the client state the need directly."
+      ],
+      "rationale": "This client understands but cannot produce words, so the nurse gives a way to communicate that does not depend on speech. A picture board and yes-or-no questions let the client express needs such as toileting or pain. Asking the client to keep trying seems encouraging, but it targets the very skill that is impaired and increases frustration. Speech and understanding are separate skills, so the plan must fit the one that is affected.",
+      "takeaway": "When comprehension is intact but speech is not, give an alternate way to communicate.",
+      "hintContent": "Separate what the client understands from what the client can say.",
+      "hintStrategy": "Pick the intervention that matches the specific deficit described in the stem.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-009",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A 58-year-old client with type 2 diabetes who receives insulin was chatting at breakfast. Before lunch, the nurse finds the client sweaty and shaky, unable to follow a two-step direction. Which action should the nurse take first?",
+      "options": [
+        "Check the client’s capillary blood glucose at the bedside.",
+        "Call the client’s spouse to ask about any history of confusion.",
+        "Complete a brief memory screen to measure the new change.",
+        "Reorient the client and recheck mental status in one hour."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Sweating, shakiness, and sudden confusion in a client on insulin suggest low glucose, which must be checked right away.",
+        "Incorrect. History can wait; this sudden change has a likely, treatable physical cause.",
+        "Incorrect. A screen does not identify or treat the likely physical cause.",
+        "Incorrect. Waiting an hour could allow a dangerous low glucose to worsen."
+      ],
+      "rationale": "Sudden confusion is often the first sign that something is wrong in body chemistry. In a client on insulin, sweating, shakiness, and new confusion point strongly to hypoglycemia, which can be confirmed quickly and treated. A memory screen is tempting because it measures cognition, but it does nothing to find or fix the cause. Reorienting and waiting could let a dangerous low glucose progress.",
+      "takeaway": "Sudden confusion is a body problem until proven otherwise, so check the likely physical cause first.",
+      "hintContent": "Link the sweating and shakiness to the client’s medication.",
+      "hintStrategy": "When a quick bedside check can confirm a dangerous cause, do it before any cognitive testing.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-010",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A 75-year-old client whose primary language is Vietnamese scores low on a cognitive screen given in English. Her 12-year-old grandson helped translate some items. Her son says she manages her home and finances without help. Which action by the nurse is most appropriate?",
+      "options": [
+        "Record the score and report probable dementia to the provider.",
+        "Repeat the English questions more slowly and in a louder voice.",
+        "Have the grandson translate the whole screen on the next attempt.",
+        "Arrange a qualified medical interpreter before interpreting the score."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The score was obtained with a language barrier and cannot be interpreted as a cognitive deficit.",
+        "Incorrect. Volume and pace do not fix a language mismatch.",
+        "Incorrect. A child is not a qualified interpreter and may change the meaning of test items.",
+        "Correct. Language proficiency strongly affects screening results, so communication access must be fixed first."
+      ],
+      "rationale": "A cognitive screen measures thinking only when the client can understand the test language. This client has a strong functional baseline, and the low score was obtained in her second language with an untrained child translating. A qualified medical interpreter and the official tool are needed before the result means anything. Reporting probable dementia is the tempting error because the number looks objective, but it labels a language barrier as a disease.",
+      "takeaway": "Before you interpret a cognitive score, make sure the client could understand the test language.",
+      "hintContent": "Compare the son’s report of her daily function with the low score.",
+      "hintStrategy": "When results conflict with real-life function, look for an access barrier before accepting the result.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-011",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "An 83-year-old client describes his wedding day in 1965 in detail. Thirty minutes after the nurse taught him how to use a new inhaler, he cannot recall any of the steps. His hearing aids were in and he was not in pain. Which interpretation is most accurate?",
+      "options": [
+        "Remote long-term memory is impaired, while recent memory is intact.",
+        "Recent memory is impaired, while remote long-term memory is preserved.",
+        "The detailed story proves his memory is intact for new teaching.",
+        "Sensory memory failed because he could not hear the instructions."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. The pattern is the opposite: remote memories are clear and recent learning is lost.",
+        "Correct. Memory layers can fail separately, and this client keeps old memories but cannot store new teaching.",
+        "Incorrect. Clear remote memories do not show that new information is being stored.",
+        "Incorrect. His hearing aids were in place, so a hearing barrier does not explain the loss."
+      ],
+      "rationale": "Memory has layers that can fail separately. Long-term declarative memory can hold decades-old events while short-term and working memory fail to store new teaching. The tempting error is to trust the vivid wedding story as proof that memory is fine, which could send him home unable to use his inhaler. The nurse assesses memory in context by checking whether the client can recall and use teaching after a short break.",
+      "takeaway": "Clear old memories do not prove a client can learn and keep new information.",
+      "hintContent": "Look at how long ago each piece of information was learned.",
+      "hintStrategy": "Match each finding to a specific memory layer rather than judging memory as all good or all bad.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-012",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A client is admitted with a newly diagnosed tumor pressing on the cerebellum. Which nursing intervention should the nurse include in the initial plan of care?",
+      "options": [
+        "Provide a picture board because the client will have trouble naming objects.",
+        "Screen for low mood daily because the tumor affects emotion centers.",
+        "Assist with walking and keep the bed low with the call light in reach.",
+        "Break daily tasks into single steps because planning will be impaired."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Naming trouble is a language problem, not the movement coordination the cerebellum controls.",
+        "Incorrect. Mood and motivation are linked to the limbic system, not the cerebellum.",
+        "Correct. The cerebellum coordinates movement, so damage causes ataxia and a high fall risk.",
+        "Incorrect. Planning and sequencing reflect executive function in the cortex, not the cerebellum."
+      ],
+      "rationale": "Different brain areas support different parts of cognition and function. The cerebellum coordinates movement, so a lesion there produces ataxia, which is poor balance and coordination. A picture board is tempting because brain tumors can affect many skills, but naming trouble (anomia) is a language problem linked to cortical areas. Expecting ataxia lets the nurse set up fall precautions right away.",
+      "takeaway": "Cerebellar problems show up as ataxia, so plan for fall risk.",
+      "hintContent": "Recall which brain structure coordinates movement and balance.",
+      "hintStrategy": "Link the named structure to its main function, then pick the intervention that protects against that deficit.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-013",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "After a hospital stay, a 79-year-old client’s cognitive screen is in the expected range. His wife says, “Great, so the test proves he is safe to drive again.” Which response by the nurse is best?",
+      "options": [
+        "“The screen flags concerns but cannot show he is safe to drive.”",
+        "“He should stop driving for now, because a hospital stay affects thinking.”",
+        "“Yes, a normal score shows his thinking is safe for driving.”",
+        "“A neurologist decides about driving, so the score does not apply.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Screens identify and track concerns; safety for driving requires evaluation of real function by the team.",
+        "Incorrect. This assumes a deficit without evidence about his actual function.",
+        "Incorrect. A screen samples a few skills and does not establish safety for complex tasks such as driving.",
+        "Incorrect. This misstates who evaluates driving and does not explain what the score means."
+      ],
+      "rationale": "Cognitive screens such as the MMSE and MoCA flag possible problems and track change over time. They do not diagnose a cause, and a normal result does not prove someone can drive, manage medicines, or live alone. The tempting answer agrees with the wife because the score sounds reassuring, but driving needs attention, judgment, and fast processing that a brief screen does not fully test. The nurse explains the limit of the tool and supports team evaluation of the real task.",
+      "takeaway": "A normal screen does not prove a client is safe for complex real-world tasks.",
+      "hintContent": "Ask what a brief screen can and cannot show about everyday function.",
+      "hintStrategy": "Watch for options that turn a screening score into a guarantee.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-014",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A charge nurse observes a newly hired nurse completing cognitive screens on a geriatric unit. Which action by the new nurse requires the charge nurse to intervene?",
+      "options": [
+        "Confirms the client’s hearing aids are in and working before starting.",
+        "Charts the tool used, the setting, and any help given during the screen.",
+        "Replaces two items with her own questions and charts the total as a MoCA score.",
+        "Compares today’s result with the client’s score from three months ago."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Checking sensory access first is correct practice before screening.",
+        "Incorrect. Documenting the tool, setting, and help given is appropriate.",
+        "Correct. Changing a validated tool and calling the result a formal score makes it invalid and misleading.",
+        "Incorrect. Tracking change over time is a proper use of screening tools."
+      ],
+      "rationale": "Screening tools are valid only when the official tool is used exactly as designed. Making up questions and recording the total as a formal score creates a number that cannot be compared with norms or prior results. The other actions are good practice: checking sensory access, documenting conditions, and trending results. Comparing with an old score might look like overinterpreting, but trending change is one of a screen’s main purposes.",
+      "takeaway": "Use a screening tool exactly as designed, or do not call the result a formal score.",
+      "hintContent": "Ask which action would make the score impossible to trust.",
+      "hintStrategy": "In “requires intervention” items, find the one action that is unsafe or incorrect.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-015",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "On admission, an 80-year-old client scored poorly on a cognitive screen done in a noisy hallway bed without her hearing aids. The next morning, with working hearing aids in a quiet room, the same tool shows a score in the expected range and she explains her medicines clearly. Which conclusion is most appropriate?",
+      "options": [
+        "Missing hearing access likely explained the first low result.",
+        "Her cognition is fluctuating and she needs urgent evaluation for delirium.",
+        "The second score proves she needs no further assessment of function.",
+        "The first result is the more accurate one because it was done on admission."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Improvement once hearing access and setting were fixed points to sensory access as the cause of the first errors.",
+        "Incorrect. She is consistent with good function once barriers are removed; nothing suggests a new acute change.",
+        "Incorrect. A normal screen still does not prove safety for every task; functional observation continues.",
+        "Incorrect. The first result was compromised by noise and missing hearing aids, so it is less valid."
+      ],
+      "rationale": "Hearing loss can look like memory loss because the client cannot respond to what she cannot hear. When the same tool, given with working hearing aids in a quiet room, shows normal performance, the earlier result most likely reflected access rather than thinking. Delirium is tempting because the scores differ, but fluctuation in delirium involves changing attention and alertness, not improvement that tracks with fixing hearing. The nurse documents both conditions so the earlier score is not misread.",
+      "takeaway": "When fixing hearing or setting fixes the score, the problem was access, not cognition.",
+      "hintContent": "Compare what was different between the two testing sessions.",
+      "hintStrategy": "Evaluate outcomes by linking the change in results to the change in conditions.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-016",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A client recovering from a brain injury correctly states, “I must call for help before standing because I fall easily.” Minutes later, the client stands up alone again to reach the window. Strength is normal and the client is fully alert. Which cognitive domain is most impaired?",
+      "options": [
+        "Long-term memory for storing the safety rule.",
+        "Receptive language for understanding the instruction.",
+        "Perception of the room and the window location.",
+        "Executive function for stopping unsafe actions."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The client can state the rule, so storage and recall are intact.",
+        "Incorrect. Restating the rule accurately shows the instruction was understood.",
+        "Incorrect. Nothing suggests misreading sensory information.",
+        "Correct. Executive function includes stopping unsafe actions; the client knows the rule but cannot inhibit the impulse."
+      ],
+      "rationale": "Executive function acts as the brain’s manager: it plans, sets priorities, and stops unsafe actions. This client remembers and understands the rule but cannot apply it in the moment, which points to impaired inhibition and judgment. Memory is the tempting answer because falls often happen when clients forget, but this client recites the rule accurately. The safety plan therefore needs supervision and environmental support, not just repeated teaching.",
+      "takeaway": "Knowing a safety rule is different from being able to follow it; that gap is executive function.",
+      "hintContent": "Notice that the client can state the rule perfectly.",
+      "hintStrategy": "Eliminate each domain the stem shows is intact, then choose what remains.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-017",
+      "topic": "cognition-assessment",
+      "type": "mcq",
+      "stem": "A nurse is assessing attention and language in a 6-year-old child at a well visit. The parent is present and offers to answer the questions. Which approach is most appropriate?",
+      "options": [
+        "Ask the parent to answer every question to save the child stress.",
+        "Talk with the child using age-fitting tasks; ask the parent about history.",
+        "Use an adult screening tool and compare the score with adult norms.",
+        "Send the parent out so the child answers without any distraction."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Speaking only to the parent misses direct observation of the child’s own skills.",
+        "Correct. Children need age-appropriate tasks and direct engagement, with caregivers adding developmental history.",
+        "Incorrect. Adult tools and norms do not fit a child’s developmental stage.",
+        "Incorrect. Excluding the caregiver loses the developmental history the nurse needs."
+      ],
+      "rationale": "Attention and language in children depend on age, so the nurse uses age-fitting tasks and asks caregivers about developmental history. Speaking directly to the child lets the nurse observe real skills rather than secondhand reports. Letting the parent answer is tempting because it is faster and comforting, but it replaces observation with opinion. Caregivers are included, not substituted for the child.",
+      "takeaway": "With children, engage the child directly and use caregivers for developmental history.",
+      "hintContent": "Think about whose skills the nurse is actually trying to observe.",
+      "hintStrategy": "Choose the option that both observes the client and gathers collateral history.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-018",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "A client with expressive aphasia after a stroke speaks only a few halting words. The nurse wants to know whether the client’s comprehension is intact. Which findings support intact comprehension? Select all that apply.",
+      "options": [
+        "Points to the call light when asked, “Where is your call light?”",
+        "Closes the eyes and then squeezes the nurse’s hand when asked to.",
+        "Chooses the picture of a cup on a picture board when asked if thirsty.",
+        "Says the word “water” clearly when shown a glass of water.",
+        "Repeats the phrase “no ifs, ands, or buts” back to the nurse.",
+        "Nods yes to every question, including contradictory ones."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Pointing correctly to a named object shows understanding of spoken words.",
+        "Correct. Following a two-step command without speech shows comprehension.",
+        "Correct. Selecting the matching picture shows the client understood the question.",
+        "Incorrect. Naming is an expressive skill and does not test comprehension.",
+        "Incorrect. Repetition can occur without understanding the meaning.",
+        "Incorrect. Nodding to everything shows no reliable understanding."
+      ],
+      "rationale": "Speech and understanding are separate skills, so comprehension must be tested without relying on spoken answers. Pointing, following commands, and choosing a picture all show that the client understood the request. Naming and repeating are tempting because they involve words, but they test expression, not comprehension. Indiscriminate nodding may mask a comprehension problem, so the nurse verifies with tasks that have one right response.",
+      "takeaway": "Test comprehension with actions the client can perform, not with speech.",
+      "hintContent": "For each option, ask whether it shows the client understood or only that the client produced words.",
+      "hintStrategy": "In SATA items, judge each option alone against the exact skill named in the stem.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-019",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "A nurse is preparing discharge teaching about a new inhaler for a client whose attention is easily drawn away by noise and who loses track of long instructions. Which strategies should the nurse use? Select all that apply.",
+      "options": [
+        "Teach in a quiet room with the television off.",
+        "Present one step at a time and let the client practice each step.",
+        "Ask the client to demonstrate the steps again after a short break.",
+        "Cover all discharge medicines in one long session to save time.",
+        "Ask, “Do you understand?” and accept a yes as proof of learning.",
+        "Make sure glasses are on so the client can see the device and handout."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Reducing distractions supports limited attention.",
+        "Correct. Single steps fit attention and working memory limits.",
+        "Correct. Return demonstration after a delay shows whether the teaching was retained and can be used.",
+        "Incorrect. A long session overwhelms limited attention and lowers retention.",
+        "Incorrect. A yes answer does not show the client can perform the task.",
+        "Correct. Sensory access is needed to learn from demonstration and written cues."
+      ],
+      "rationale": "Teaching must fit the client’s attention span. A quiet setting, one step at a time, working glasses, and a return demonstration after a short break all support learning and confirm it. Covering everything in one session is tempting because it seems efficient, but it overloads a client who already loses track of long instructions. Accepting “yes” as proof is a classic trap because clients often agree without being able to do the task.",
+      "takeaway": "Teach in short, quiet, single steps and verify with return demonstration.",
+      "hintContent": "Think about what limited attention and working memory can handle.",
+      "hintStrategy": "For teaching SATA items, choose options that adapt the method and verify performance.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m23-x1-020",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "A nurse completes a cognitive screen for a newly admitted client whose hearing aids were not available. Which information should the nurse include in the documentation? Select all that apply.",
+      "options": [
+        "The name of the tool and the time and setting of the screen.",
+        "That the client’s hearing aids were unavailable during testing.",
+        "Any prompts or help the nurse gave during the screen.",
+        "“Client is confused,” with no further description.",
+        "A diagnosis of dementia based on the total score."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Recording the tool, time, and setting lets others interpret and trend the result.",
+        "Correct. Noting this limit warns others that the score may underestimate ability.",
+        "Correct. Assistance changes how the result should be read and must be documented.",
+        "Incorrect. A vague label does not describe what the client did or what changed.",
+        "Incorrect. Screens do not diagnose, and nurses do not assign this diagnosis from a score."
+      ],
+      "rationale": "Screening results are only useful when others know how they were obtained. Documentation should include the tool, time, setting, help given, and limits such as missing hearing aids. Writing “confused” is tempting because it is quick, but it gives the next clinician nothing concrete to compare. A screen flags concerns and cannot establish a diagnosis such as dementia.",
+      "takeaway": "Chart how a screen was done, including limits, so the score can be interpreted fairly.",
+      "hintContent": "Ask which details would help another nurse decide whether to trust the score.",
+      "hintStrategy": "In documentation SATA items, choose concrete, objective details and reject labels or diagnoses.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m23-x1-021",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "A client who was talking clearly 1 hour ago is now drowsy and cannot keep attention on the nurse’s questions. Which assessments should the nurse complete right away? Select all that apply.",
+      "options": [
+        "Airway patency and breathing rate and depth.",
+        "Oxygen saturation by pulse oximetry.",
+        "A full set of vital signs, including temperature.",
+        "A focused neurologic exam, including pupils and limb strength.",
+        "A complete MoCA before calling the provider.",
+        "A family visit to confirm baseline before any further action."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Airway and breathing come first in any sudden decline in alertness.",
+        "Correct. Low oxygen is a common, fixable cause of sudden cognitive change.",
+        "Correct. Vital signs can reveal infection, shock, or other acute causes.",
+        "Correct. A focused neuro exam detects stroke or other neurologic causes.",
+        "Incorrect. A long screen delays assessment and escalation of an urgent change.",
+        "Incorrect. Waiting for family delays care; the drop from an hour ago is already clear."
+      ],
+      "rationale": "Sudden drowsiness and inattention may signal low oxygen, infection, body chemistry problems, drug effects, or a stroke. The nurse assesses airway, breathing, oxygen saturation, vital signs, and a focused neuro exam right away and escalates any decline. Completing a MoCA is tempting because it measures cognition, but it delays care for what may be an emergency. The client’s own baseline from an hour ago already shows a clear change.",
+      "takeaway": "In sudden cognitive change, assess ABCs, oxygen, vital signs, and neuro status before any screen.",
+      "hintContent": "Focus on what could be physically wrong right now.",
+      "hintStrategy": "Choose physical assessments first when a change happened over minutes to hours.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation"
+    },
+    {
+      "id": "m23-x1-022",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "A nurse assesses a 64-year-old client admitted for pneumonia whose hearing and vision are adequate. Which findings indicate a problem with attention? Select all that apply.",
+      "options": [
+        "Loses track partway through a short question and asks to start over.",
+        "Turns to every noise in the hallway and stops answering.",
+        "Cannot count backward from 20 without stopping and drifting off.",
+        "Cannot name a pen but points to it correctly when asked.",
+        "Walks with a wide-based, unsteady gait to the bathroom."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Losing the thread of a question shows difficulty sustaining focus.",
+        "Correct. Being pulled away by each sound shows difficulty filtering and sustaining attention.",
+        "Correct. This task depends on sustained attention, which is impaired here.",
+        "Incorrect. This is a naming problem, not an attention problem.",
+        "Incorrect. Unsteady gait reflects coordination, not attention."
+      ],
+      "rationale": "Attention is the ability to become alert, focus, stay focused, and shift focus when needed. Losing track of a question, being pulled away by every noise, and failing a sustained task all show impaired attention. The naming problem is tempting because it looks like a thinking error, but it is a language issue with comprehension intact. Naming the exact domain matters because inattention is a key feature of delirium and needs a search for an acute cause.",
+      "takeaway": "Inattention shows up as losing focus, distractibility, and failure on sustained tasks.",
+      "hintContent": "Define attention, then test each finding against that definition.",
+      "hintStrategy": "Sort findings into domains before you decide which ones belong in the answer.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-023",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "A client recovering from a stroke has normal strength and names a toothbrush correctly but holds it without starting to brush when asked. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Demonstrate brushing and invite the client to copy the movement.",
+        "Give short, step-by-step cues while supervising the task.",
+        "Start the movement with the client’s hand and then let the client continue.",
+        "Tell the client to try harder because the muscles are strong enough.",
+        "Brush the client’s teeth for the client to save time and energy."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Demonstration gives a model for a learned movement the client cannot start.",
+        "Correct. Cues and supervision support motor planning safely.",
+        "Correct. Starting the motion helps the client begin a learned task without taking it over.",
+        "Incorrect. Apraxia is not a lack of effort; urging effort increases frustration.",
+        "Incorrect. Taking over removes a skill the client may regain with cues."
+      ],
+      "rationale": "This client has apraxia: normal strength and understanding but trouble doing a learned, purposeful movement. Care uses demonstration, step-by-step cues, help starting the movement, and supervision. Telling the client to try harder is tempting because strength is normal, but the problem is motor planning, not motivation. Doing the task for the client takes away a skill that cues may support.",
+      "takeaway": "Apraxia needs cues, demonstration, and supervision, not encouragement or takeover.",
+      "hintContent": "The client has strength and knows the object; consider what step is failing.",
+      "hintStrategy": "Choose interventions that support the specific deficit while preserving independence.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort"
+    },
+    {
+      "id": "m23-x1-024",
+      "topic": "cognition-assessment",
+      "type": "sata",
+      "stem": "The nurse explains a father’s low MoCA result to his adult daughter. Which statements by the daughter indicate correct understanding? Select all that apply.",
+      "options": [
+        "“The score shows there may be a problem, but not what is causing it.”",
+        "“Even if his score improves, someone should still watch him do his pills.”",
+        "“His missing glasses and being tired today may have lowered the score.”",
+        "“This score means he definitely has Alzheimer disease.”",
+        "“If his next score is normal, he can safely live alone again.”"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Screens flag concerns; finding the cause requires broader evaluation.",
+        "Correct. A normal score does not prove safe medicine management; watching the task does.",
+        "Correct. Sensory access and fatigue can affect screen performance.",
+        "Incorrect. A screen cannot diagnose a specific cause.",
+        "Incorrect. A normal screen does not establish safety for independent living."
+      ],
+      "rationale": "A cognitive screen flags possible problems and tracks change, but it does not diagnose a cause or prove a person is safe at home. Fatigue, sensory loss, pain, language, and medicines can all lower a score. The daughter’s belief that a low score means Alzheimer disease is tempting because the tool is well known, but many conditions, including reversible ones, lower scores. Real function, such as handling medicines, must be observed.",
+      "takeaway": "Screens flag and track concerns; they neither diagnose nor guarantee safety.",
+      "hintContent": "Sort each statement by whether it treats the score as a flag or as a final answer.",
+      "hintStrategy": "For “indicates understanding” SATA items, choose statements that keep a test within its limits.",
+      "ref": "Module 23 · Cognitive Domains & Assessment · slides 3–20, 39–42",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m23-x1-025",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A nurse at a memory care clinic has four voicemail messages from family caregivers. Which call should the nurse return first?",
+      "options": [
+        "A daughter reporting her mother with Alzheimer disease is suddenly sleepy and not eating.",
+        "A wife reporting that her husband with dementia hid his car keys again today.",
+        "A son asking how to enroll his mother with dementia in an adult day program.",
+        "A husband reporting his wife with vascular dementia retells the same stories."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A sudden drop in alertness and intake in a client with dementia suggests delirium or another acute illness.",
+        "Incorrect. A recurring, known behavior is not a new acute change.",
+        "Incorrect. A resource question is important but not time-sensitive.",
+        "Incorrect. Repetition is a stable feature of her known condition."
+      ],
+      "rationale": "Delirium can occur on top of dementia, and a sudden change is never “just the dementia.” New sleepiness and poor intake over a day suggest an acute medical cause such as infection, dehydration, or a medication effect. The car keys call is tempting because it hints at a safety issue, but hiding keys is a recurring, known behavior rather than a new change. The nurse returns the call about the acute change first and helps arrange prompt evaluation.",
+      "takeaway": "In clients with dementia, a sudden change in alertness or intake comes before chronic behaviors.",
+      "hintContent": "Look for the words that describe something new rather than something that happens “again.”",
+      "hintStrategy": "When all clients share a diagnosis, choose the one whose status changed suddenly.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-026",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "Parents bring their 16-year-old to an urgent care clinic because his grades have dropped sharply over two weeks. He is alert and oriented. When his parents step out, he says quietly, “It doesn’t matter anyway. I won’t be around much longer.” Which action should the nurse take first?",
+      "options": [
+        "Ask him directly whether he is thinking about killing himself.",
+        "Ask the parents for his school records and recent report cards.",
+        "Reassure him that grade drops are common during adolescence.",
+        "Arrange a urine drug screen before continuing the conversation."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. A possible self-harm statement requires a direct, prompt safety assessment.",
+        "Incorrect. School data does not address the immediate safety concern.",
+        "Incorrect. This dismisses a warning statement and closes communication.",
+        "Incorrect. Substance use matters, but the self-harm statement must be assessed first."
+      ],
+      "rationale": "A sudden drop in function in a teen, combined with a statement suggesting he may not be alive, requires an immediate, direct safety assessment. Asking directly about suicidal thoughts does not plant the idea; it opens the door to help. A drug screen is tempting because substances can affect teens’ thinking, but it delays addressing a possible risk of self-harm. School records and reassurance can come later or not at all.",
+      "takeaway": "Any self-harm statement calls for a direct question about suicide before other assessment.",
+      "hintContent": "Listen closely to what the teen says after his parents leave.",
+      "hintStrategy": "In psychosocial priority items, safety from self-harm comes before data gathering.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-027",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "During a home visit, the daughter of a client with major neurocognitive disorder says, “I haven’t slept a full night in weeks. Yesterday I yelled at Mom when she asked the same question for the tenth time.” The client is clean, calm, and at her usual baseline. Which action is best?",
+      "options": [
+        "Assess the daughter’s stress, sleep, and supports, and discuss respite options.",
+        "Tell the daughter that all caregivers feel this way and it will pass.",
+        "Recommend that the daughter move her mother to a facility this week.",
+        "Teach the daughter to correct her mother each time she repeats a question."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Caregiver ability and stress are part of the assessment and directly affect the client’s safety.",
+        "Incorrect. This minimizes her strain and offers no assessment or help.",
+        "Incorrect. A major decision should follow assessment and discussion of options, not replace them.",
+        "Incorrect. Repeated correction increases distress and does not reduce the caregiver’s strain."
+      ],
+      "rationale": "Dementia care includes the caregiver, whose stress, sleep, and support affect the client’s safety. This daughter shows exhaustion and a loss of patience, which are warning signs for caregiver strain and possible mistreatment. The nurse assesses her needs and discusses respite and other resources. Recommending placement right away is tempting because it seems decisive, but it skips assessment and the family’s own choices.",
+      "takeaway": "Assess caregiver stress and support as part of caring for a client with dementia.",
+      "hintContent": "Focus on what the daughter just revealed about herself.",
+      "hintStrategy": "Choose assessment and support over advice that skips straight to a solution.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-028",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A client with vascular dementia has needed cues for dressing for a year. This morning his wife reports he suddenly cannot use his left hand and his speech is slurred. She says, “The doctor said his decline would come in steps, so I guess this is the next step.” Which action should the nurse take first?",
+      "options": [
+        "Explain that stepwise decline is expected in vascular dementia.",
+        "Arrange occupational therapy to adapt dressing to the left hand.",
+        "Assess his neuro status and activate emergency care for possible stroke.",
+        "Update the care plan to add more help with dressing and grooming."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Accepting a sudden focal change as expected could delay stroke care.",
+        "Incorrect. Adaptation is a later step; the new weakness needs emergency evaluation now.",
+        "Correct. Sudden one-sided weakness and slurred speech are stroke signs needing immediate evaluation.",
+        "Incorrect. Adjusting care routines misses the urgency of a new focal deficit."
+      ],
+      "rationale": "Vascular decline may drop in steps, but a sudden new focal deficit such as one-sided weakness with slurred speech is a possible stroke. That needs immediate assessment and emergency activation, because time matters for treatment. The wife’s explanation is tempting because it fits what she was told about the disease, but an old diagnosis must never hide a new, sudden change. Care-plan changes come only after the acute cause is addressed.",
+      "takeaway": "A sudden focal change in a client with vascular dementia is a possible stroke, not an expected step.",
+      "hintContent": "Separate the year-long pattern from what started this morning.",
+      "hintStrategy": "When a known diagnosis offers an easy explanation, ask whether the new finding is sudden or focal.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-029",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "An 8-year-old with an intellectual disability has had vomiting and diarrhea for 2 days. She usually uses signs to ask for food and play, but today she is irritable, will not sign, and pushes the nurse away. Her parent says, “She’s just being stubborn.” Which action should the nurse take first?",
+      "options": [
+        "Use a firm voice and set limits on pushing the nurse.",
+        "Assess her vital signs and hydration status.",
+        "Ask the parent to bring her favorite toys from home.",
+        "Refer her to behavioral services for the new refusal."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Treating a new change as behavior misses a likely physical cause.",
+        "Correct. A new behavior change during vomiting and diarrhea suggests dehydration, which needs assessment.",
+        "Incorrect. Comfort items help, but they do not address possible dehydration.",
+        "Incorrect. Referral for behavior labels a physical problem as defiance."
+      ],
+      "rationale": "In children, illness, dehydration, pain, and new places can change behavior, and a new change should not be called bad behavior. This child has lost fluids for two days and has stopped using her usual communication, which may signal dehydration or another physical problem. The nurse assesses vital signs and hydration first. Setting limits is tempting because the child is pushing, but it treats a medical warning sign as defiance.",
+      "takeaway": "A new behavior change in an ill child is a physical problem until proven otherwise.",
+      "hintContent": "Compare her usual communication with today and connect the change to her illness.",
+      "hintStrategy": "When a stem blames behavior, check whether physical data explain the change.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-030",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "On the third day after admission for a leg fracture, a 47-year-old client with no psychiatric history says he sees bugs crawling on the wall. He is sweating and tremulous, his pulse is 118/min, and he cannot stay focused on questions. Which action should the nurse take first?",
+      "options": [
+        "Request a psychiatric consult for new-onset schizophrenia.",
+        "Explain calmly that there are no bugs crawling on the wall.",
+        "Dim the lights and leave him to rest alone in a quiet room.",
+        "Assess vital signs and withdrawal signs and notify the provider."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A single new psychotic symptom with physical signs suggests a medical cause, not a new psychiatric diagnosis.",
+        "Incorrect. Arguing about a perception does not address the physical danger.",
+        "Incorrect. Leaving an unstable client alone is unsafe and dim light can worsen misperceptions.",
+        "Correct. Hallucinations with tremor, sweating, and tachycardia suggest withdrawal, which is a medical emergency."
+      ],
+      "rationale": "One psychotic symptom does not prove schizophrenia. Delirium, illness, drugs, withdrawal, and medicines can all cause hallucinations, especially when attention is impaired. The timing, tremor, sweating, and fast pulse point toward alcohol or substance withdrawal, which can become life-threatening. A psychiatric consult is tempting because hallucinations sound psychiatric, but it delays recognizing and treating a physical cause.",
+      "takeaway": "New hallucinations with abnormal vital signs need a medical workup, not a psychiatric label.",
+      "hintContent": "Notice the physical findings that came with the hallucinations.",
+      "hintStrategy": "When psychosis appears with abnormal vital signs, choose the physiologic assessment.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-031",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A nurse reviews the information in the exhibit for an 81-year-old client brought to the emergency department by her son. Which action should the nurse take first?",
+      "options": [
+        "Arrange an outpatient referral to a memory disorders clinic.",
+        "Assess vital signs and oxygen saturation, and report the change.",
+        "Complete a MoCA to document the severity of her decline.",
+        "Teach the son about the expected progression of dementia."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Evaluation of the year-long decline matters, but it cannot come before the acute change.",
+        "Correct. The new sleepiness and inattention since this morning are acute and need immediate assessment.",
+        "Incorrect. A screen does not address the acute change and would be invalid while she is drowsy.",
+        "Incorrect. Teaching assumes a diagnosis and overlooks the new acute change."
+      ],
+      "rationale": "Two time courses can exist at once. The slow decline over a year suggests an acquired cognitive disorder that needs full evaluation, while today’s sleepiness and inattention are acute and may signal delirium from a medical cause. The new change is treated first by assessing vital signs and oxygenation and reporting it. A memory clinic referral is tempting because the year-long history is striking, but it cannot wait in place of assessment of the acute problem.",
+      "takeaway": "Separate the slow trend from today’s change, and act on the new change first.",
+      "hintContent": "Look at the timeline and find what started today.",
+      "hintStrategy": "With two problems, choose the acute one first and the chronic one later.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "Son’s report",
+            "table": {
+              "headers": [
+                "Time frame",
+                "Finding"
+              ],
+              "rows": [
+                [
+                  "Past 12 months",
+                  "Needs more help with bills and meal preparation; misplaces items"
+                ],
+                [
+                  "Last week",
+                  "Unchanged from recent months; conversing normally"
+                ],
+                [
+                  "Since this morning",
+                  "Unusually sleepy; loses track of conversation; drank little"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m23-x1-032",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A 79-year-old widower at a primary care visit is alert with steady attention. Over two months he has lost interest in hobbies, eats little, and often answers memory questions with “I don’t know.” He adds, “My family would be better off without me.” Which action should the nurse take first?",
+      "options": [
+        "Schedule a full cognitive screen to evaluate his memory complaints.",
+        "Encourage him to join a senior center to reduce isolation.",
+        "Ask directly whether he has thoughts of ending his life.",
+        "Reassure him that his family loves him and needs him."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Memory evaluation can follow; his statement signals possible suicide risk.",
+        "Incorrect. Social support helps, but it does not address an immediate safety risk.",
+        "Correct. The statement may indicate suicidal thinking and requires a direct safety assessment.",
+        "Incorrect. Reassurance dismisses the statement without assessing risk."
+      ],
+      "rationale": "This pattern of low mood, low appetite, “I don’t know” answers, and intact alertness and attention points toward depression. His statement that his family would be better off without him is a warning sign that requires a direct question about suicidal thoughts. Ordering a memory screen is tempting because memory complaints are part of the picture, but self-harm risk takes priority over evaluating concentration. Reassurance can sound kind but blocks honest disclosure.",
+      "takeaway": "Statements of being a burden require a direct question about suicide first.",
+      "hintContent": "Weigh the memory complaints against his last statement.",
+      "hintStrategy": "In psychosocial priority items, safety assessment outranks testing and teaching.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-033",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A nurse is preparing discharge teaching for the husband of a client with moderate Alzheimer disease who is returning home. Which teaching point is most important to include?",
+      "options": [
+        "Label drawers and doors to help her find items around the house.",
+        "Keep a steady daily routine with familiar activities each afternoon.",
+        "Gently remind her of the correct date and place when she is unsure.",
+        "Report right away if she becomes suddenly sleepier or more confused."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Labels support function, but they do not protect against an acute medical change.",
+        "Incorrect. Routine helps daily function, but missing an acute change carries more risk.",
+        "Incorrect. Gentle orientation can help, but it is less important than recognizing a sudden change.",
+        "Correct. A sudden change may signal delirium or another acute illness that needs prompt care."
+      ],
+      "rationale": "All the options support daily life, but only one protects against a dangerous, possibly reversible problem. Delirium can develop on top of dementia, and families are often the first to notice a sudden change in alertness or confusion. Teaching the husband to report this right away allows early evaluation of infection, dehydration, or medication effects. Routine and labels are tempting because they are core dementia care, but they address chronic function rather than acute risk.",
+      "takeaway": "Teach families of clients with dementia to report any sudden change right away.",
+      "hintContent": "Ask which teaching point could prevent a missed emergency.",
+      "hintStrategy": "When every option is helpful, pick the one that addresses safety or acute risk.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-034",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A client with a psychotic disorder pushes away the lunch tray and says, “The staff are putting poison in my food.” The client is alert and has eaten nothing since yesterday. Which response by the nurse is best?",
+      "options": [
+        "“No one here would ever poison you. That simply is not true.”",
+        "“You seem frightened about the food. Tell me what worries you.”",
+        "“I will taste each item first so you know it is safe to eat.”",
+        "“If you do not eat, the provider will have to order a feeding tube.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Arguing with a fixed false belief tends to increase distress and mistrust.",
+        "Correct. Naming the feeling and inviting discussion assesses distress without arguing or agreeing.",
+        "Incorrect. Acting as though the poisoning belief is plausible reinforces the delusion.",
+        "Incorrect. A threat increases fear and damages trust."
+      ],
+      "rationale": "A delusion is a fixed false belief that stays despite clear evidence against it. Arguing does not change the belief and often increases fear, while pretending to share it reinforces it. The nurse names the feeling, stays calm, and explores the client’s worry so distress and safety, including intake, can be assessed. Directly denying the belief is tempting because it feels honest, but it shuts down the conversation the nurse needs.",
+      "takeaway": "With delusions, respond to the feeling and avoid arguing or agreeing.",
+      "hintContent": "Identify the emotion beneath the client’s statement.",
+      "hintStrategy": "Therapeutic responses acknowledge feelings and invite more information.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-035",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A 34-year-old client with dyslexia is being discharged with instructions for daily wound care. He says, “Reading has always been hard for me, but I learn fast when someone shows me.” Which teaching plan is best?",
+      "options": [
+        "Give a detailed written handout and ask him to read it at home.",
+        "Ask his spouse to sign the teaching record and do all wound care.",
+        "Demonstrate the steps, add pictures, and have him show the steps back.",
+        "Speak more slowly and loudly while reading the handout to him once."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A reading-based plan relies on the skill he has trouble with.",
+        "Incorrect. He can learn the task; shifting care to his spouse ignores his ability and choice.",
+        "Correct. Visual cues, demonstration, and return demonstration fit his learning style and confirm learning.",
+        "Incorrect. He does not have a hearing problem, and one reading does not confirm learning."
+      ],
+      "rationale": "A learning disability is a specific problem with processing information, not low overall intelligence. The right response is a different teaching method, not a lower expectation. Demonstration, pictures, and return demonstration fit how this client learns and confirm he can do the task. Handing the task to his spouse is tempting because it feels safe, but it takes away the client’s independence and is not needed.",
+      "takeaway": "A learning difference needs a different teaching method, not a lower expectation.",
+      "hintContent": "Use the client’s own description of how he learns best.",
+      "hintStrategy": "Choose the plan that adapts the method and verifies performance.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-036",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "Over 18 months, a 76-year-old client has stopped paying bills on time, gotten lost twice driving to her church, and needs reminders to bathe. During the interview she is fully alert, her attention is steady, and her mood is pleasant. Her family reports no sudden or day-to-day changes. Which pattern do these findings most closely suggest for further evaluation?",
+      "options": [
+        "Delirium with a sudden onset and fluctuating attention.",
+        "Depression affecting concentration and memory scores.",
+        "Expected cognitive slowing associated with normal aging.",
+        "A major neurocognitive disorder affecting daily independence."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. There is no sudden onset, fluctuation, or inattention.",
+        "Incorrect. Her mood is pleasant and she shows no signs of low mood.",
+        "Incorrect. Getting lost and losing independence are not normal aging.",
+        "Correct. Gradual decline that erodes independence with clear alertness fits dementia."
+      ],
+      "rationale": "Time course and alertness help sort cognitive changes. Dementia usually develops gradually and erodes independence while alertness stays clear until late stages. Delirium starts suddenly with fluctuating attention, and depression usually shows low mood. Normal aging is tempting because she is older, but getting lost on familiar routes and needing reminders to bathe go beyond mild slowing in word recall.",
+      "takeaway": "Gradual loss of independence with clear alertness points to a neurocognitive disorder, not aging.",
+      "hintContent": "Sort the findings by onset, attention, alertness, and mood.",
+      "hintStrategy": "Use the time course as your first clue when comparing look-alike conditions.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-037",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A nurse teaches the son of a client newly diagnosed with mild neurocognitive disorder. Which statement by the son indicates correct understanding?",
+      "options": [
+        "“Since it is mild, Dad’s thinking should stay the same from now on.”",
+        "“Dad can no longer live alone, so we need to move him this month.”",
+        "“With phone reminders and a pill organizer, Dad may stay independent.”",
+        "“His new medicine should restore his memory to what it used to be.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Mild disorder can progress, so ongoing monitoring is needed.",
+        "Incorrect. Mild disorder often allows independence with strategies; this goes beyond his needs.",
+        "Correct. Mild disorder can allow independence with strategies such as reminders.",
+        "Incorrect. Medicines may target symptoms but do not restore all lost function."
+      ],
+      "rationale": "Neurocognitive disorder comes in mild and major forms. In mild disorder the person can often stay independent with strategies such as reminders, routines, and organizers, while major disorder interferes with daily independence. Moving him out of his home is tempting for families who fear the worst, but it ignores his current function and choices. The nurse also avoids promising that medicine will restore lost memory.",
+      "takeaway": "Mild neurocognitive disorder often allows independence with strategies.",
+      "hintContent": "Recall what distinguishes mild from major forms in daily life.",
+      "hintStrategy": "For “indicates understanding” items, reject statements that are absolute or promise a cure.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-038",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A county health nurse is planning several community programs related to childhood cognitive development. Which program is an example of indicated prevention?",
+      "options": [
+        "A bicycle-helmet safety campaign for all families in the county.",
+        "Extra developmental support for all infants exposed to alcohol before birth.",
+        "Prenatal nutrition classes offered at every county health office.",
+        "Referral and support for toddlers already showing early language delays."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Targeting everyone is universal prevention.",
+        "Incorrect. Targeting a high-risk group is selective prevention.",
+        "Incorrect. An offer open to the whole community is universal prevention.",
+        "Correct. Help aimed at people who already show early signs is indicated prevention."
+      ],
+      "rationale": "Universal, selective, and indicated prevention are sorted by who is targeted. Universal prevention reaches everyone, selective prevention targets higher-risk groups, and indicated prevention targets people already showing early signs. The alcohol-exposure program is tempting because it feels targeted, but those infants are a risk group, not children with early signs. This system is different from primary, secondary, and tertiary prevention, which is sorted by disease stage.",
+      "takeaway": "Indicated prevention targets people who already show early signs or symptoms.",
+      "hintContent": "Ask whether each program targets everyone, a risk group, or people with early signs.",
+      "hintStrategy": "For classification items, find the one feature that separates look-alike categories.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-039",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A resident with dementia tells staff he had breakfast with the town mayor this morning, although he ate in the dining room as usual. An assistive personnel (AP) says, “He lies all the time to get attention.” Which response by the RN is best?",
+      "options": [
+        "“He is filling memory gaps, not lying; respond to his mood instead.”",
+        "“Correct him each time so he learns what really happened.”",
+        "“Ignore what he tells you, because his stories are not reliable.”",
+        "“Record each false story so the provider can adjust his medicines.”"
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Confabulation is not intentional lying; responding to the feeling protects dignity.",
+        "Incorrect. Repeated correction raises distress and does not restore memory.",
+        "Incorrect. Ignoring him could miss real needs, such as pain or a safety concern.",
+        "Incorrect. Confabulation is not treated by routinely adjusting medicines."
+      ],
+      "rationale": "Confabulation is filling memory gaps with untrue stories, usually without any intent to deceive. Staff should respond to the need or mood underneath, protect dignity, and check important facts with reliable sources. Correcting him each time is tempting because it seems truthful, but repeated confrontation raises distress without fixing memory. Ignoring everything he says is also unsafe because real complaints may be missed.",
+      "takeaway": "Confabulation is not lying; respond to the feeling and verify important facts.",
+      "hintContent": "Consider whether the resident means to deceive anyone.",
+      "hintStrategy": "In staff-guidance items, choose the response that corrects the misunderstanding and protects the client.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-040",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A 15-year-old is seen at a school-based clinic for headaches and trouble concentrating over the past month. Her mother is in the room and answers most of the questions. Which approach by the nurse is best?",
+      "options": [
+        "Interview only the mother, since she knows the teen’s history best.",
+        "Ask the mother to stay so the teen feels safe answering questions.",
+        "Explain that the symptoms are normal stress during adolescence.",
+        "Talk with the teen alone for part of the visit after explaining privacy."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. The teen’s own report on mood, substances, and safety is essential.",
+        "Incorrect. Teens may not disclose substance use, mood, or safety concerns with a parent present.",
+        "Incorrect. Dismissing new symptoms misses possible injury, substance, or mood causes.",
+        "Correct. Private time with clear limits supports honest disclosure about safety, substances, and mood."
+      ],
+      "rationale": "Teens need privacy within the rules and a nonjudgmental approach so they can talk about safety, substance use, injury, and mood. Explaining the limits of confidentiality before speaking alone builds trust while protecting safety. Keeping the mother in the room is tempting because she offers support, but it often prevents the teen from disclosing the very information that explains her symptoms. New concentration trouble should not be dismissed as normal teen stress.",
+      "takeaway": "Interview adolescents privately for part of the visit, with confidentiality limits explained.",
+      "hintContent": "Consider what a teen may not say in front of a parent.",
+      "hintStrategy": "For lifespan items, choose the approach that fits the client’s developmental stage.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-041",
+      "topic": "cognition-alterations",
+      "type": "mcq",
+      "stem": "A 30-year-old client with asthma and no psychiatric history is brought in by her roommate for new suspicious statements over three days. The roommate says she started a high dose of oral prednisone last week. The client is alert. Which interpretation should guide the nurse’s next step?",
+      "options": [
+        "The findings confirm a new diagnosis of schizophrenia in this client.",
+        "The new medicine may be causing the symptoms and should be reported.",
+        "The roommate is probably exaggerating ordinary everyday stress.",
+        "The prednisone should be stopped by the client right away."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. One cluster of new symptoms does not establish schizophrenia, especially with a drug trigger.",
+        "Correct. Medicines, including high-dose corticosteroids, can cause psychotic symptoms and need prompt review.",
+        "Incorrect. Dismissing a clear new change misses a possible drug effect.",
+        "Incorrect. Abruptly stopping a corticosteroid can be dangerous; changes are directed by the prescriber."
+      ],
+      "rationale": "Delirium, illness, substances, withdrawal, medicines, and mood disorders can all produce psychotic signs, so one new symptom cluster does not prove schizophrenia. High-dose corticosteroids are a known cause of mood and psychotic changes. The nurse reports the timing to the prescriber, who decides how to adjust therapy. Telling the client to stop the drug herself is tempting because it removes the trigger, but abrupt corticosteroid withdrawal can be dangerous.",
+      "takeaway": "New psychotic symptoms after a medicine change call for prescriber review of the drug.",
+      "hintContent": "Link the timing of the new symptoms to the new prescription.",
+      "hintStrategy": "Look for a reversible cause before accepting a new psychiatric label.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-042",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "During an annual wellness visit, a 77-year-old client and her daughter describe several changes. Which findings should the nurse report for further evaluation? Select all that apply.",
+      "options": [
+        "Occasionally pauses before recalling an acquaintance’s name.",
+        "Got lost driving home from her grocery store of 20 years.",
+        "Has utility shutoff notices because she stopped paying bills.",
+        "Uses a wall calendar to keep track of her appointments.",
+        "Seemed much more confused for the past three days than ever before.",
+        "Takes longer than before to learn a new phone app."
+      ],
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Incorrect. Mild slowing in recalling names can be a normal part of aging.",
+        "Correct. Getting lost on a familiar route is not normal aging and needs evaluation.",
+        "Correct. Loss of independence with finances is a decline that needs evaluation.",
+        "Incorrect. Using reminders is a healthy strategy, not a sign of decline.",
+        "Correct. A rapid change is never normal aging and may signal an acute cause.",
+        "Incorrect. Slower learning of new technology can occur with normal aging."
+      ],
+      "rationale": "Older adults may have mild slowing in recalling a word or name and may learn new technology more slowly. Moderate or severe confusion, lost independence, and rapid change are not normal aging and need investigation. Getting lost on a familiar route, missing bills, and a sudden three-day change all qualify. Pausing for a name is tempting to report because it sounds like memory loss, but mild slowing alone is expected.",
+      "takeaway": "Mild slowing is normal with aging; lost independence or rapid change is not.",
+      "hintContent": "For each finding, ask whether it affects independence or appeared quickly.",
+      "hintStrategy": "Judge each option separately against the normal-aging versus decline rule.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m23-x1-043",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "A nurse is admitting a 10-year-old with an intellectual disability for a planned surgery. Which data should the nurse gather to plan care? Select all that apply.",
+      "options": [
+        "How the child usually communicates needs such as pain or hunger.",
+        "The child’s usual level of help with eating, dressing, and toileting.",
+        "Any hearing or vision needs and the devices the child uses.",
+        "The child’s IQ score as the main guide for all nursing care.",
+        "What usually calms the child in new or stressful places."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Knowing the usual communication method lets the nurse detect pain and needs.",
+        "Correct. Adaptive skills describe daily function and guide the level of support.",
+        "Correct. Sensory needs are commonly linked and affect communication and safety.",
+        "Incorrect. A single IQ number is not a full nursing assessment of strengths and needs.",
+        "Correct. Known calming strategies help reduce distress in an unfamiliar setting."
+      ],
+      "rationale": "Intellectual disability involves limits in both thinking ability and daily-life skills that begin during development, so the nurse assesses real function rather than relying on a label. Communication methods, adaptive skills, sensory needs, and calming strategies all shape a safe plan. Relying on the IQ score is tempting because it seems objective, but one number does not describe what the child can do or how the child signals pain. Caregivers are key sources for this baseline.",
+      "takeaway": "Assess communication, daily skills, sensory needs, and coping, not just an IQ number.",
+      "hintContent": "Think about what you need to know to recognize pain and support daily care.",
+      "hintStrategy": "Choose options that describe the individual’s function rather than a single label.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m23-x1-044",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "A client with a psychotic disorder hears critical voices and believes neighbors are spying on him. He is not voicing any intent to harm himself or others. Which nursing actions are appropriate? Select all that apply.",
+      "options": [
+        "Use clear, simple statements and a calm tone.",
+        "Ask how distressing the voices are and what they say.",
+        "Keep the environment calm with limited noise and activity.",
+        "Explain in detail why the spying belief is not logical.",
+        "Agree that the neighbors may be spying to build trust.",
+        "Monitor for side effects and response to ordered treatment."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Clear communication reduces confusion and distress.",
+        "Correct. Assessing content and distress identifies risk, including command voices.",
+        "Correct. A calm setting lowers stimulation that can increase distress.",
+        "Incorrect. Arguing with a delusion increases distress and mistrust.",
+        "Incorrect. Pretending to share the belief reinforces it.",
+        "Correct. Evaluating treatment effects is part of care, beyond whether the client is calm."
+      ],
+      "rationale": "Care for psychosis includes clear communication, a calm setting, help with daily needs, and monitoring of ordered treatment. The nurse assesses the content and distress of voices because commands to cause harm change the priority immediately. Explaining why a belief is illogical is tempting because it seems to bring the client back to reality, but arguing usually increases distress. Agreeing with the belief to build trust is also wrong because it reinforces it.",
+      "takeaway": "In psychosis, stay calm and clear, assess distress and safety, and neither argue nor agree.",
+      "hintContent": "Consider which responses would raise or lower the client’s fear.",
+      "hintStrategy": "Reject any option that argues with or endorses a false belief.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity"
+    },
+    {
+      "id": "m23-x1-045",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "A resident with moderate Alzheimer disease is assessed on the evening shift. Which findings suggest delirium developing on top of her dementia? Select all that apply.",
+      "options": [
+        "Became unable to follow a conversation over the past 3 hours.",
+        "Alternates between drowsy and restless since this afternoon.",
+        "Repeats the same story about her late husband, as she has for months.",
+        "Needs step-by-step cues for grooming, as documented for a year.",
+        "Has new picking at the air and pulled out her hearing aids today."
+      ],
+      "answer": [
+        0,
+        1,
+        4
+      ],
+      "optionRationales": [
+        "Correct. An acute loss of attention over hours points to delirium.",
+        "Correct. Fluctuating alertness is typical of delirium, not stable dementia.",
+        "Incorrect. A long-standing pattern reflects her known dementia.",
+        "Incorrect. A stable functional need is part of her baseline.",
+        "Correct. New perceptual disturbance and agitation are acute changes from baseline."
+      ],
+      "rationale": "Delirium can develop on top of dementia, and the key clue is a sudden change from the resident’s baseline. New inattention over hours, fluctuating alertness, and new perceptual disturbances or agitation all suggest delirium. Repeating stories and needing grooming cues are tempting to choose because they look like confusion, but staff report they have been present for months. The nurse compares each finding with baseline before blaming the dementia.",
+      "takeaway": "Compare with baseline: changes over hours with inattention suggest delirium on top of dementia.",
+      "hintContent": "Look for time words that tell you whether a finding is old or new.",
+      "hintStrategy": "In SATA items about acute change, choose only findings that differ from baseline.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-046",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "A nurse is interviewing a 16-year-old whose school performance has declined over the past month. Which topics should the nurse include in the assessment? Select all that apply.",
+      "options": [
+        "Use of alcohol, cannabis, or other substances.",
+        "Recent head injury from sports or other activities.",
+        "Mood, sleep, and any thoughts of self-harm.",
+        "The parents’ opinion of the teen’s friends as the main data source.",
+        "Sources of support at home, at school, and among friends."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Substance use can affect thinking and is a key adolescent risk.",
+        "Correct. Injury can cause new cognitive changes.",
+        "Correct. Mood disorders and self-harm risk must be assessed in teens with new decline.",
+        "Incorrect. The teen’s own report is needed; parent opinions are secondary.",
+        "Correct. Support networks guide planning and safety."
+      ],
+      "rationale": "Adolescents’ self-control is still developing while peers and rewards pull hard, so a sudden drop in performance needs a nonjudgmental, private assessment. The nurse asks about substances, injury, mood, sleep, self-harm, and support. Relying on parents’ opinions is tempting because parents are present and concerned, but the teen’s own words are the most important data. A sudden drop, new psychotic signs, or self-harm risk needs action.",
+      "takeaway": "For teens with new decline, ask directly about substances, injury, mood, self-harm, and support.",
+      "hintContent": "Think about the most common reasons a teen’s thinking or performance changes quickly.",
+      "hintStrategy": "Choose topics the client can answer about himself or herself.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance"
+    },
+    {
+      "id": "m23-x1-047",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "A client with major neurocognitive disorder is being discharged to live with her son, who works full time. Which actions should the nurse include in discharge planning? Select all that apply.",
+      "options": [
+        "Ask the son about his work schedule and who will be with her during the day.",
+        "Watch the son set up her medicines and ask him to explain the schedule back.",
+        "Refer to social work for adult day programs or in-home help.",
+        "Assume the son can give all medicines because he is a family member.",
+        "Teach the son to correct her firmly whenever she is mistaken.",
+        "Teach the son to report a sudden change in alertness or confusion."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "optionRationales": [
+        "Correct. Caregiver time and availability must be assessed, not assumed.",
+        "Correct. Observing the caregiver’s skill confirms safe medicine management.",
+        "Correct. Team referrals support caregivers and match help to real needs.",
+        "Incorrect. Family ability, time, and understanding must be checked before relying on them.",
+        "Incorrect. Repeated correction raises distress; responding to feelings works better.",
+        "Correct. Families often notice delirium first and must know to report it."
+      ],
+      "rationale": "Discharge planning for a client with dementia depends on what the caregiver can actually do. The nurse assesses the son’s time, observes his skill with medicines, connects the family to team resources, and teaches him to report a sudden change. Assuming a family member can manage everything is tempting because it simplifies the plan, but time, skill, and understanding must be checked. Firm correction is not a recommended approach to dementia confusion.",
+      "takeaway": "Never assume family can provide care; assess their time, skill, and understanding.",
+      "hintContent": "Note the detail that the son works full time.",
+      "hintStrategy": "In discharge SATA items, choose options that verify support rather than assume it.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m23-x1-048",
+      "topic": "cognition-alterations",
+      "type": "sata",
+      "stem": "A 62-year-old client with no psychiatric history is admitted for a hip fracture and on day 2 reports seeing people standing in the corner of the room. Which data should the nurse collect? Select all that apply.",
+      "options": [
+        "All medicines started or stopped since admission.",
+        "Usual alcohol intake and the time of the last drink.",
+        "Temperature, pulse, blood pressure, and oxygen saturation.",
+        "Whether attention and alertness have changed since admission.",
+        "A family history of schizophrenia to confirm the diagnosis."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. New medicines, such as opioids, can cause perceptual disturbances.",
+        "Correct. Withdrawal is a common cause of new hallucinations in the first days of a stay.",
+        "Correct. Vital signs may reveal infection, hypoxia, or withdrawal.",
+        "Correct. Inattention or altered alertness suggests delirium rather than a primary psychotic disorder.",
+        "Incorrect. Family history cannot confirm a diagnosis or explain a sudden new symptom during an acute illness."
+      ],
+      "rationale": "New hallucinations in a medically ill adult with no psychiatric history call for a search for medical causes. Medicines, substance withdrawal, infection, hypoxia, and delirium are common culprits, so the nurse gathers medication changes, alcohol history, vital signs, and changes in attention and alertness. Using family history to confirm schizophrenia is tempting because it sounds like a risk factor, but it cannot explain an acute change during hospitalization. One new symptom does not establish a psychiatric diagnosis.",
+      "takeaway": "New hallucinations during illness require a search for medical causes first.",
+      "hintContent": "Ask what could have changed in this client’s body since admission.",
+      "hintStrategy": "Choose assessments that look for reversible causes before psychiatric labels.",
+      "ref": "Module 23 · Cognitive Alterations & Lifespan · slides 21–47",
+      "alsoTests": [
+        "delirium"
+      ],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-049",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A nurse on a surgical unit receives report on four clients. Which client should the nurse assess first?",
+      "options": [
+        "A 70-year-old after knee replacement resting with pain 3 of 10 who conversed at the last check.",
+        "A 60-year-old after appendectomy who repeatedly asks when discharge will be.",
+        "A 78-year-old with dementia who asks the same question as on prior days.",
+        "An 85-year-old after hip repair who slept through lunch and drifts off mid-answer."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A comfortable client who is conversing at baseline is stable.",
+        "Incorrect. Repeated questions about discharge reflect anxiety, not an acute change.",
+        "Incorrect. A behavior that matches her known baseline is not a new change.",
+        "Correct. Drowsiness and inattention that are new suggest hypoactive delirium, which is easy to miss."
+      ],
+      "rationale": "Hypoactive delirium is quiet and easy to miss, but quiet does not mean stable. An older adult after hip surgery who sleeps through meals and drifts off mid-answer shows reduced alertness and inattention, which may reflect hypoxia, drug effects, infection, or another acute cause. The client with dementia is tempting because she is confused, but her behavior matches her baseline. The anxious and comfortable clients are stable.",
+      "takeaway": "Quiet, drowsy, inattentive clients may have hypoactive delirium and need prompt assessment.",
+      "hintContent": "Look past who is loudest and find whose alertness has changed.",
+      "hintStrategy": "In priority items, quiet changes in alertness can be more dangerous than repetitive behavior.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-050",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "At 0200, an 86-year-old client being treated for a urinary infection and delirium is restless and calling out. The client has a PRN order for lorazepam for sleep and is not withdrawing from alcohol. Which action should the nurse take first?",
+      "options": [
+        "Give the PRN lorazepam so the client can sleep through the night.",
+        "Assess for pain, a full bladder, and oxygenation before any medicine.",
+        "Apply mitts to the hands so the client cannot pull at tubes.",
+        "Call the family and ask someone to come sit with the client now."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Benzodiazepines can worsen delirium in older adults and do not treat the cause.",
+        "Correct. Restlessness may come from fixable triggers, so the nurse assesses causes first.",
+        "Incorrect. Restraint devices are not the first step and can increase agitation.",
+        "Incorrect. Family presence can help later, but the cause of restlessness must be assessed first."
+      ],
+      "rationale": "Restlessness in delirium is often a signal of a physical need, such as pain, a full bladder, or low oxygen. The nurse assesses these causes before considering any medication. Giving the lorazepam is tempting because the order exists and the client cannot sleep, but benzodiazepines can cause or worsen delirium in older adults and are generally reserved for specific uses such as withdrawal. The order itself should be clarified with the prescriber.",
+      "takeaway": "Assess causes of restlessness before using sedatives, and question benzodiazepines in older adults.",
+      "hintContent": "Think about what bodily needs could make a confused client restless at night.",
+      "hintStrategy": "Choose assessment over medication or restraint when the cause is unknown.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Nursing Interventions",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-051",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "In the post-anesthesia care unit, a 5-year-old who had a tonsillectomy is thrashing, crying inconsolably, and does not seem to recognize his mother. She says, “He’s just being bratty.” Which action should the nurse take first?",
+      "options": [
+        "Ask the mother to hold him firmly in her lap until he calms down.",
+        "Protect him from injury and assess his airway, oxygen, and pain.",
+        "Tell the mother this behavior is normal and will pass soon.",
+        "Set firm limits and explain that crying slows his recovery."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Holding him does not address possible airway, oxygen, or pain problems.",
+        "Correct. Children may have delirium after anesthesia, and safety plus physical assessment come first.",
+        "Incorrect. Reassurance without assessment could miss hypoxia, bleeding, or pain.",
+        "Incorrect. Treating an altered mental state as defiance is inappropriate."
+      ],
+      "rationale": "Children may act very differently during severe illness or after anesthesia, and this should not be called defiance. Not recognizing a parent and inconsolable thrashing suggest a change in awareness that requires protection from injury and assessment of airway, oxygenation, and pain. After a tonsillectomy, airway and bleeding are especially important. Reassuring the mother is tempting because emergence behavior is common, but the nurse must assess before assuming it is benign.",
+      "takeaway": "In children, treat a new change in awareness after anesthesia as a physical concern, not misbehavior.",
+      "hintContent": "Consider what could be physically wrong in a child just out of surgery.",
+      "hintStrategy": "When a caregiver blames behavior, choose safety and physical assessment first.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-052",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "Seven hours after her urinary catheter was removed, a 79-year-old client after abdominal surgery has become newly restless and keeps trying to get out of bed. She has not voided and her lower abdomen feels firm. Which action should the nurse take first?",
+      "options": [
+        "Request an order for a sedative to manage the restlessness.",
+        "Encourage her to drink more fluids to help her void.",
+        "Reorient her to the room and dim the lights to calm her.",
+        "Assess the bladder with a bladder scanner or as per protocol."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Sedation masks a likely physical cause and can worsen delirium.",
+        "Incorrect. Adding fluid to an overdistended bladder does not relieve retention.",
+        "Incorrect. Reorientation alone ignores the likely cause of the new restlessness.",
+        "Correct. No voiding and a firm lower abdomen suggest urinary retention, a common delirium trigger."
+      ],
+      "rationale": "Urinary retention is a common, fixable trigger of delirium, especially after catheter removal. This client has not voided in seven hours, has a firm lower abdomen, and is newly restless. Assessing bladder volume lets the nurse confirm retention and follow the protocol or notify the provider. Encouraging fluids is tempting because it seems to promote voiding, but it adds volume to a bladder that may already be overdistended.",
+      "takeaway": "In new restlessness after catheter removal, assess for urinary retention.",
+      "hintContent": "Link the time since catheter removal to her abdominal finding.",
+      "hintStrategy": "Look for a specific physical trigger in the stem before choosing calming or sedating actions.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-053",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A 74-year-old client admitted with pneumonia has become newly confused and is picking at the sheets. Respirations are 26/min, and oxygen saturation is 86% on room air. Which action should the nurse take first?",
+      "options": [
+        "Apply oxygen as ordered or per protocol and raise the head of the bed.",
+        "Complete a delirium screen to confirm the change in thinking.",
+        "Request an antipsychotic for the agitation from the provider.",
+        "Call the family to ask about the client’s usual mental status."
+      ],
+      "answer": 0,
+      "optionRationales": [
+        "Correct. Hypoxia is a direct cause of delirium and must be corrected immediately.",
+        "Incorrect. Screening does not treat the low oxygen that is likely causing the change.",
+        "Incorrect. Antipsychotics do not correct hypoxia, the likely cause.",
+        "Incorrect. Baseline history can wait until oxygenation is addressed."
+      ],
+      "rationale": "Low oxygen is a common and dangerous cause of delirium. With an oxygen saturation of 86% and rapid breathing, the nurse’s first action is to improve oxygenation and positioning, then notify the provider. A delirium screen is tempting because it documents the change, but it does nothing for the cause. Antipsychotics do not correct hypoxia, infection, or other physical triggers.",
+      "takeaway": "When delirium appears with low oxygen, treat the oxygen first.",
+      "hintContent": "Focus on the vital sign that is clearly abnormal.",
+      "hintStrategy": "Apply ABCs: a breathing problem comes before screening or sedation.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-054",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A client who is 32 weeks pregnant calls the clinic nurse line. Her husband reports that she has a bad headache and, over the past few hours, has been confused about where she is. He says, “I think it’s just pregnancy brain.” Which action by the nurse is best?",
+      "options": [
+        "Tell him to let her rest and call back if she is not better tomorrow.",
+        "Have her seen emergently for blood pressure and mental status checks.",
+        "Recommend acetaminophen for the headache and recheck in 1 hour.",
+        "Reassure him that mild forgetfulness is common in late pregnancy."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Waiting delays evaluation of a possibly life-threatening problem.",
+        "Correct. New confusion during pregnancy can signal serious illness and needs urgent evaluation.",
+        "Incorrect. Treating the headache alone ignores the new confusion.",
+        "Incorrect. Mild forgetfulness is different from new disorientation, which is not expected."
+      ],
+      "rationale": "New confusion during pregnancy or after birth can signal serious illness, such as a hypertensive disorder, and needs urgent assessment of vital signs and mental status with prompt provider notification. A headache together with new disorientation is especially concerning. Reassuring the husband is tempting because mild forgetfulness can occur in pregnancy, but disorientation to place over hours is a different and dangerous finding. Waiting until tomorrow could allow a seizure or stroke.",
+      "takeaway": "New confusion in pregnancy is urgent until proven otherwise.",
+      "hintContent": "Distinguish mild forgetfulness from new disorientation.",
+      "hintStrategy": "When a family member offers a benign explanation, ask whether the finding is new and serious.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-055",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "An RN delegated care of a client with hypoactive delirium to an assistive personnel (AP). Which report from the AP requires the RN’s immediate attention?",
+      "options": [
+        "“She ate half of her breakfast after I helped her sit up.”",
+        "“Her glasses and hearing aids have been on since 0800.”",
+        "“She is much harder to wake up than she was this morning.”",
+        "“She asked twice what day it was and calmed after I told her.”"
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Partial intake with assistance is useful information but not urgent.",
+        "Incorrect. This shows prevention measures are in place.",
+        "Correct. A drop in alertness is a sign of worsening and needs RN assessment now.",
+        "Incorrect. Mild disorientation that responds to reminders is expected in delirium."
+      ],
+      "rationale": "In hypoactive delirium, a drop in alertness can signal oversedation, worsening hypoxia, or progression of the underlying cause. The AP was given a clear threshold to report if the client became harder to wake, and this report meets it. Asking what day it is twice is tempting to choose because it sounds like confusion, but it is expected in delirium and resolved with a simple reminder. Partial intake and sensory aids are routine data.",
+      "takeaway": "A client who is harder to wake needs immediate RN assessment.",
+      "hintContent": "Find the report that shows a decline from earlier today.",
+      "hintStrategy": "In delegation reports, choose the one that shows a change in alertness or safety.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-056",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "At 1900, a day-shift nurse prepares the handoff for a client with suspected delirium. Which information is most important to include?",
+      "options": [
+        "The client prefers decaffeinated tea with breakfast each morning.",
+        "The client’s son visited this afternoon and will return tomorrow.",
+        "The client watched television for about an hour after lunch today.",
+        "Clear at 0900, drowsy and inattentive at 1500, and urine culture pending."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. A preference is minor compared with the acute change in status.",
+        "Incorrect. Visitor plans are helpful but not the key safety information.",
+        "Incorrect. This activity does not describe attention or the change in status.",
+        "Correct. Fluctuation in mental status and pending results tell the next nurse what is new and what to follow."
+      ],
+      "rationale": "Delirium comes and goes, so the next nurse may see a client who seems clear and miss the earlier change. Handoff should include specific times, observed behaviors, and pending workup so the trend can be followed. Visitor plans and preferences are tempting because they support person-centered care, but they do not protect the client from a missed decline. Concrete, time-stamped findings are the most important part of the report.",
+      "takeaway": "Hand off delirium with time-stamped changes and pending results.",
+      "hintContent": "Ask what the next nurse needs to recognize a fluctuating problem.",
+      "hintStrategy": "In handoff items, choose the information that affects safety and follow-up.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-057",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A night-shift nurse in long-term care is told that a resident with dementia “always sundowns.” Tonight she is more confused than usual, is warm to the touch, and dozes off in the middle of sentences. Which action should the nurse take first?",
+      "options": [
+        "Document the behavior as her usual evening sundowning pattern.",
+        "Turn on the television to distract her until she settles down.",
+        "Assess vital signs and look for an acute cause of the change.",
+        "Give her the usual evening snack and help her back to bed."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Sundowning describes timing only and does not explain new fever and drowsiness.",
+        "Incorrect. Distraction ignores signs of a possible acute illness.",
+        "Correct. Fever and new drowsiness suggest delirium from an acute cause that needs assessment.",
+        "Incorrect. Routine comfort measures do not address a new physical change."
+      ],
+      "rationale": "Sundowning only describes worsening confusion in the evening; it does not explain why. This resident has new findings that go beyond her usual pattern: warmth and drifting off mid-sentence. These suggest delirium from an acute cause such as infection, so the nurse assesses vital signs and looks for the cause. Charting the usual pattern is tempting because staff expect evening confusion, but it misses a new, possibly serious change.",
+      "takeaway": "Sundowning is a timing word, not an explanation; new physical signs need assessment.",
+      "hintContent": "Separate what is usual for this resident from what is new tonight.",
+      "hintStrategy": "When a label offers an easy explanation, check for new physical findings first.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [
+        "cognition-alterations"
+      ],
+      "cjmm": "Prioritize Hypotheses",
+      "focus": "Prioritization",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Physiological Adaptation",
+      "priority": true
+    },
+    {
+      "id": "m23-x1-058",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A trained nurse completes the Confusion Assessment Method (CAM) for an 80-year-old client on day 3 after a bowel resection. The findings are shown in the exhibit. Which interpretation is correct?",
+      "options": [
+        "The screen is negative because the client’s thinking is organized.",
+        "The screen is positive and the client needs prompt clinical evaluation.",
+        "The screen is incomplete because all four features must be present.",
+        "The findings suggest dementia because the client is still oriented to name."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Organized thinking does not make the screen negative when altered consciousness is present.",
+        "Correct. Acute change and inattention, plus altered consciousness, meet the classic CAM pattern.",
+        "Incorrect. The pattern requires features 1 and 2 plus either 3 or 4, not all four.",
+        "Incorrect. Orientation to name does not exclude delirium, and the acute change argues against dementia alone."
+      ],
+      "rationale": "The CAM looks for an acute onset or fluctuating course plus inattention, together with either disorganized thinking or an altered level of consciousness. This client has a sudden change, misses several letters on an attention task, and is lethargic, which meets the pattern even though thinking is organized. Calling the screen negative is tempting because one feature is absent, but only one of features 3 or 4 is needed. A positive screen calls for clinical evaluation of causes.",
+      "takeaway": "CAM needs acute change and inattention, plus either disorganized thinking or altered alertness.",
+      "hintContent": "Check which features are required and which are “either-or.”",
+      "hintStrategy": "For tool-interpretation items, apply the rule exactly as written to the data in the exhibit.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false,
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "CAM findings",
+            "table": {
+              "headers": [
+                "Feature",
+                "Finding"
+              ],
+              "rows": [
+                [
+                  "1. Acute onset or fluctuating course",
+                  "Present: alert and conversant yesterday; changed overnight"
+                ],
+                [
+                  "2. Inattention",
+                  "Present: missed 4 of 10 target letters"
+                ],
+                [
+                  "3. Disorganized thinking",
+                  "Absent: answers are logical and on topic"
+                ],
+                [
+                  "4. Altered level of consciousness",
+                  "Present: lethargic, drifts off between questions"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m23-x1-059",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "At 1400, a nurse finds a postoperative client drowsy and unable to stay with a simple question. At 1600, the client is alert and the nurse’s CAM screen is negative. Which action is most appropriate?",
+      "options": [
+        "Conclude delirium has been ruled out and stop further screening.",
+        "Chart that the 1400 finding was an error in the nurse’s assessment.",
+        "Report the 1400 change and reassess attention through the shift.",
+        "Wait until the client is drowsy again before notifying anyone."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. A single negative screen does not erase a decline the nurse already observed.",
+        "Incorrect. The earlier observation was real data and should not be dismissed.",
+        "Correct. Delirium fluctuates, so the observed change is reported and reassessment continues.",
+        "Incorrect. Waiting for another episode delays evaluation of an already observed change."
+      ],
+      "rationale": "Delirium comes and goes, so a short interaction can miss it. A negative screen does not erase a decline the nurse observed earlier, and fluctuation itself is a key feature. The nurse reports the earlier change and continues to reassess attention over time. Concluding that delirium is ruled out is tempting because the screen was negative, but that ignores the most important clue: the change at 1400.",
+      "takeaway": "A negative screen does not erase an observed change; fluctuation is a feature of delirium.",
+      "hintContent": "Ask what makes delirium hard to catch in a single assessment.",
+      "hintStrategy": "When data conflict over time, choose the option that reports and continues to reassess.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-060",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "The daughter of an 83-year-old client with new delirium says, “She always gets confused when she has a bladder infection. Can’t you just start her antibiotics?” Which response by the nurse is best?",
+      "options": [
+        "“Yes, confusion in older adults almost always means a bladder infection.”",
+        "“Antibiotics are not needed because infections rarely cause confusion.”",
+        "“The provider will decide later; please do not worry about the cause.”",
+        "“Infection is possible, but the team will also look for other causes.”"
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Confusion alone does not prove a urinary infection.",
+        "Incorrect. Infection is a common cause of delirium, so this is inaccurate.",
+        "Incorrect. This dismisses her concern and offers no explanation.",
+        "Correct. Delirium often has several causes, so the team checks more than one before treating."
+      ],
+      "rationale": "New confusion can come from infection, low oxygen, dehydration, medicines, retention, pain, and other triggers, often several at once. Confusion alone does not prove a urinary infection, and treating an assumed cause could miss the real problem. The nurse validates the daughter’s experience while explaining that the team looks for all possible triggers. Agreeing that confusion means infection is tempting because her history supports it, but it would stop the search too early.",
+      "takeaway": "New confusion does not prove infection; look for several possible causes.",
+      "hintContent": "Consider how many different triggers can cause delirium.",
+      "hintStrategy": "Choose a response that respects the family’s input while keeping the assessment open.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Psychosocial Integrity",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-061",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A 76-year-old client on day 2 after a cardiac procedure tried to climb out of bed and pulled at the IV during the night. On day shift, the same client is withdrawn, answers slowly, and dozes off during meals. Which type of delirium do these findings describe?",
+      "options": [
+        "Hyperactive delirium only, because the night behavior was agitated.",
+        "Hypoactive delirium only, because the day behavior is quiet.",
+        "Mixed delirium, because the client switches between both patterns.",
+        "Sundowning, because the agitation occurred mainly at night."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. The day findings show reduced activity, so the picture is not hyperactive only.",
+        "Incorrect. The night findings show agitation, so the picture is not hypoactive only.",
+        "Correct. Switching between hyperactive and hypoactive signs is mixed delirium.",
+        "Incorrect. Sundowning describes timing only and does not explain the quiet day findings."
+      ],
+      "rationale": "Delirium can be hyperactive, hypoactive, or mixed. Hyperactive delirium shows agitation and pulling at lines, hypoactive delirium shows withdrawal and drowsiness, and mixed delirium switches between them, sometimes in the same day. Sundowning is tempting because the agitation was at night, but it only describes timing and not the cause or pattern. Recognizing the quiet day phase as delirium prevents the team from calling it improvement.",
+      "takeaway": "A client who switches between agitation and withdrawal has mixed delirium.",
+      "hintContent": "Compare the night findings with the day findings.",
+      "hintStrategy": "When findings change over the day, consider a category that includes both patterns.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Pathophysiology",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-062",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A nurse teaches the wife of a client who is being discharged after an episode of delirium. Which statement by the wife indicates a need for further teaching?",
+      "options": [
+        "“I’ll call the provider if he suddenly gets harder to wake or more confused.”",
+        "“Once he is home, his thinking will be back to normal within a day or two.”",
+        "“I’ll make sure his glasses and hearing aids are in every morning.”",
+        "“We’ll keep a regular routine, with daylight and activity during the day.”"
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Reporting a sudden change is correct.",
+        "Correct. Recovery time varies, and some clients take much longer to return toward baseline.",
+        "Incorrect. Sensory aids support orientation and are correct.",
+        "Incorrect. A normal day-night routine supports recovery."
+      ],
+      "rationale": "Delirium often improves as its causes are treated, but recovery time varies and some clients take weeks or longer to return toward baseline. The nurse should not promise a quick recovery, so the wife’s expectation of a return to normal in a day or two needs correction. The other statements reflect correct teaching about reporting changes, sensory aids, and routine. Reporting a sudden change may look like it needs teaching because it sounds alarming, but it is exactly what families should do.",
+      "takeaway": "Do not promise a quick return to baseline after delirium; recovery time varies.",
+      "hintContent": "Look for the statement that promises too much.",
+      "hintStrategy": "In “needs further teaching” items, find the statement that is inaccurate or overly certain.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Client Teaching",
+      "difficulty": 2,
+      "clientNeed": "Health Promotion and Maintenance",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-063",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A nurse is reviewing four clients admitted today. Which client is at highest risk for developing delirium?",
+      "options": [
+        "A 45-year-old having elective knee arthroscopy with no medical history.",
+        "An 88-year-old with dementia and hearing loss having hip fracture surgery.",
+        "A 30-year-old with a simple ankle fracture who lives alone at home.",
+        "A 62-year-old having outpatient cataract surgery under local anesthesia."
+      ],
+      "answer": 1,
+      "optionRationales": [
+        "Incorrect. Younger age and no risk factors make delirium less likely.",
+        "Correct. Older age, existing cognitive impairment, sensory loss, and major surgery combine to raise risk.",
+        "Incorrect. Living alone is not a major delirium risk in a healthy young adult.",
+        "Incorrect. A brief outpatient procedure in a younger client carries lower risk."
+      ],
+      "rationale": "Risk factors lower the brain’s reserve, and new triggers tip it into delirium. Older age, existing cognitive impairment, hearing or vision loss, severe illness, and major surgery all add to risk, and this 88-year-old has several at once. The cataract client is tempting because vision affects risk, but a brief outpatient procedure in a younger client is far less risky. Identifying high-risk clients early allows prevention measures to start on admission.",
+      "takeaway": "Stacked risk factors such as age, dementia, sensory loss, and major surgery mean the highest delirium risk.",
+      "hintContent": "Count each client’s risk factors.",
+      "hintStrategy": "For “highest risk” items, choose the client with the most combined risk factors.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-064",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A client recovering from delirium sleeps much of the day and is awake and restless most of the night. Which intervention best helps restore a normal sleep-wake pattern?",
+      "options": [
+        "Keep the room dark and quiet around the clock to promote rest.",
+        "Give PRN diphenhydramine at bedtime to help the client fall asleep.",
+        "Open blinds and promote activity by day; protect rest at night.",
+        "Allow naps whenever the client wishes throughout the day."
+      ],
+      "answer": 2,
+      "optionRationales": [
+        "Incorrect. Constant darkness removes cues that help orientation and day-night rhythm.",
+        "Incorrect. Diphenhydramine is anticholinergic and can worsen delirium in older adults.",
+        "Correct. Daylight, activity, and protected night rest support a normal routine.",
+        "Incorrect. Unlimited daytime naps reinforce the reversed sleep pattern."
+      ],
+      "rationale": "Sleep-wake reversal is common in delirium. Daylight and activity during the day, plus protected rest at night, help restore the normal pattern and support orientation. Diphenhydramine is tempting because it is an easy sleep aid, but it is strongly anticholinergic and can worsen delirium in older adults. A dark room all day removes the cues the client needs to stay oriented.",
+      "takeaway": "Restore sleep with daytime light and activity and protected nighttime rest, not sedating sleep aids.",
+      "hintContent": "Think about what tells the brain whether it is day or night.",
+      "hintStrategy": "Choose the nondrug intervention that targets the specific problem described.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Generate Solutions",
+      "focus": "Nursing Interventions",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Basic Care and Comfort",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-065",
+      "topic": "delirium",
+      "type": "mcq",
+      "stem": "A client with hyperactive delirium who remained severely distressed despite nondrug measures received short-term haloperidol as ordered. Which finding should the nurse report to the prescriber promptly?",
+      "options": [
+        "Follows a one-step request and eats lunch after set-up.",
+        "Sleeps through the night and wakes at the usual time.",
+        "Speaks in a calmer voice when family members visit.",
+        "Develops new muscle stiffness and a shuffling gait."
+      ],
+      "answer": 3,
+      "optionRationales": [
+        "Incorrect. Improved attention and function are positive responses.",
+        "Incorrect. A restored sleep-wake pattern is a desired outcome.",
+        "Incorrect. Reduced distress without oversedation is a desired effect.",
+        "Correct. New rigidity and shuffling suggest an extrapyramidal effect that requires prompt reporting."
+      ],
+      "rationale": "Haloperidol and similar drugs require monitoring for sedation, heart and nerve side effects, falls, and response. New muscle stiffness and a shuffling gait suggest extrapyramidal effects, which raise fall risk and need prompt reporting. A calmer voice might look like a concern if the nurse worries about sedation, but calm with preserved interaction is the intended effect. Recovery is judged by attention and function, and the other options show progress.",
+      "takeaway": "Monitor antipsychotics for nerve side effects such as rigidity and report them promptly.",
+      "hintContent": "Separate desired effects from new adverse movement findings.",
+      "hintStrategy": "In medication evaluation items, find the finding that signals harm rather than benefit.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "priority": false
+    },
+    {
+      "id": "m23-x1-066",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "A nurse reviews the medication administration record shown in the exhibit for an 81-year-old client with Lewy body dementia who developed delirium after a fall. The client is not withdrawing from alcohol. Which orders should the nurse clarify with the prescriber before giving them? Select all that apply.",
+      "options": [
+        "Diphenhydramine at bedtime as needed for sleep.",
+        "Lorazepam every 6 hours as needed for restlessness.",
+        "Haloperidol every 6 hours as needed for agitation.",
+        "Acetaminophen every 6 hours as needed for pain.",
+        "Polyethylene glycol daily for constipation."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Diphenhydramine is strongly anticholinergic and can worsen delirium in older adults.",
+        "Correct. Benzodiazepines can cause or worsen delirium and are usually reserved for uses such as withdrawal.",
+        "Correct. Haloperidol needs special caution in Lewy body dementia because of severe sensitivity reactions.",
+        "Incorrect. Pain control with acetaminophen is appropriate and can reduce delirium triggers.",
+        "Incorrect. Preventing constipation supports comfort and is appropriate."
+      ],
+      "rationale": "Some drugs can cause or worsen delirium, especially in older adults. Strongly anticholinergic drugs such as diphenhydramine and benzodiazepines such as lorazepam are two key groups, and haloperidol needs special caution in clients with Parkinson disease or Lewy body dementia. Acetaminophen is tempting to question because it is a medication, but treating pain actually removes a delirium trigger. The nurse clarifies the risky orders before giving any of them.",
+      "takeaway": "Question diphenhydramine and benzodiazepines in older adults, and haloperidol in Lewy body or Parkinson disease.",
+      "hintContent": "Check each drug against the client’s age and the diagnosis listed in the stem.",
+      "hintStrategy": "For MAR SATA items, judge each order against the specific client, not the drug in general.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Pharmacology",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Pharmacological and Parenteral Therapies",
+      "exhibit": {
+        "tabs": [
+          {
+            "title": "MAR (PRN and daily orders)",
+            "table": {
+              "headers": [
+                "Medication",
+                "Order"
+              ],
+              "rows": [
+                [
+                  "Diphenhydramine",
+                  "PO at bedtime PRN sleep"
+                ],
+                [
+                  "Lorazepam",
+                  "PO every 6 hours PRN restlessness"
+                ],
+                [
+                  "Haloperidol",
+                  "PO every 6 hours PRN agitation"
+                ],
+                [
+                  "Acetaminophen",
+                  "PO every 6 hours PRN pain"
+                ],
+                [
+                  "Polyethylene glycol",
+                  "PO once daily"
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "m23-x1-067",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "A nurse is assessing older adults on a medical unit for hypoactive delirium. Which findings are consistent with hypoactive delirium when they are new for the client? Select all that apply.",
+      "options": [
+        "Drifts off in the middle of answering a question.",
+        "Answers slowly and says little compared with yesterday.",
+        "Stops eating and shows no interest in usual activities.",
+        "Pulls at the IV line and tries to climb out of bed.",
+        "Rests with eyes closed but wakes easily and follows a conversation."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Falling asleep mid-conversation shows reduced alertness and inattention.",
+        "Correct. Slowed, reduced responses are typical of hypoactive delirium.",
+        "Correct. Withdrawal and reduced activity are hypoactive features that are often missed.",
+        "Incorrect. Agitation and pulling at lines are hyperactive features.",
+        "Incorrect. A client who wakes easily and follows conversation is resting, not delirious."
+      ],
+      "rationale": "Hypoactive delirium shows less activity: withdrawal, slow answers, drowsiness, and drifting off mid-conversation. It is often missed because the client is quiet and not disruptive. A resting client can be awakened and follows a conversation, which separates normal rest from delirium. Pulling at lines is tempting because it is the classic picture of delirium, but it describes the hyperactive type.",
+      "takeaway": "Quiet withdrawal, slowed answers, and drifting off are hypoactive delirium, not rest.",
+      "hintContent": "Separate reduced activity with inattention from normal, easily interrupted rest.",
+      "hintStrategy": "In SATA items about a subtype, choose only the findings that match that subtype.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-068",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "An 82-year-old client is admitted with new delirium. Once the client is safe and stable, which information should the nurse gather to help the team find the causes? Select all that apply.",
+      "options": [
+        "When the client last seemed like their usual self, according to family.",
+        "Any new, stopped, or over-the-counter medicines, including sleep aids.",
+        "Recent food and fluid intake and urine and bowel elimination.",
+        "Alcohol or other substance use and the time of last use.",
+        "A plan to order every lab and imaging test linked to delirium for this client."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Baseline and time of onset are central to recognizing delirium.",
+        "Correct. Medicines are common triggers, and OTC sleep aids are often anticholinergic.",
+        "Correct. Dehydration, poor intake, and retention can trigger delirium.",
+        "Correct. Withdrawal is a possible cause that changes treatment.",
+        "Incorrect. Tests are chosen by the team from the history and findings, not ordered as a blanket routine."
+      ],
+      "rationale": "Delirium usually has more than one cause, so the nurse gathers baseline and onset, medicines including over-the-counter sleep aids, intake and elimination, and substance use. These data guide a clinician-directed workup. Ordering every listed test is tempting because it seems thorough, but tests are chosen by the team based on findings rather than run on every client. Good history often reveals several triggers at once.",
+      "takeaway": "Gather baseline, onset, medicines, intake, elimination, and substance use to find delirium triggers.",
+      "hintContent": "Think about what history could reveal a hidden trigger.",
+      "hintStrategy": "Reject options that replace clinical judgment with a blanket routine.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Recognize Cues",
+      "focus": "Assessment Findings",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-069",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "A client is being treated for delirium caused by dehydration and a new opioid. His wife says he usually reads the paper, chats easily, and walks with a cane. Which findings indicate the client is improving? Select all that apply.",
+      "options": [
+        "Follows a 10-minute conversation about the news without drifting off.",
+        "Sleeps at night and stays awake for most of the day.",
+        "Walks to the bathroom with his cane and standby help, with no falls.",
+        "Has been quiet and sleeping most of the day since a PRN sedative.",
+        "No longer calls out at night since wrist restraints were applied."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Sustained attention shows movement toward baseline.",
+        "Correct. A restored sleep-wake pattern is an expected outcome.",
+        "Correct. Function returning toward baseline without injury shows improvement.",
+        "Incorrect. Quiet after sedation may reflect oversedation, not recovery.",
+        "Incorrect. Less calling out under restraint shows restriction, not improved thinking."
+      ],
+      "rationale": "Recovery from delirium is judged by improved attention and alertness, function moving back toward baseline, a restored sleep-wake pattern, comfort, and no injury. Following a conversation, sleeping at night, and walking safely with his usual cane all show progress. A quiet day after a sedative is tempting to count as better, but reduced behavior may reflect oversedation. Silence under restraint shows only that movement is restricted.",
+      "takeaway": "Recovery means better attention and function toward baseline, not just quiet behavior.",
+      "hintContent": "Compare each finding with his wife’s description of his baseline.",
+      "hintStrategy": "In evaluation items, choose outcomes that show function, not outcomes caused by sedation or restraint.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Assessment Findings",
+      "difficulty": 3,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    },
+    {
+      "id": "m23-x1-070",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "A client with hyperactive delirium is trying to get out of bed and pulling at the nasal cannula. The nurse has assessed oxygenation and pain. Which safety measures are appropriate at this time? Select all that apply.",
+      "options": [
+        "Arrange continuous observation, such as a trained sitter.",
+        "Lower the bed, lock the wheels, and remove trip hazards.",
+        "Invite a familiar family member to stay if the client wishes.",
+        "Say who you are and use short sentences, one request at a time.",
+        "Apply bilateral wrist restraints as the first safety measure.",
+        "Close the door and leave the room dark so the client can calm down."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "optionRationales": [
+        "Correct. Close observation keeps the client safe without restraint.",
+        "Correct. Removing hazards reduces fall risk with the least restriction.",
+        "Correct. Familiar people can calm and orient the client.",
+        "Correct. Clear, concrete communication reduces fear and confusion.",
+        "Incorrect. Restraints are not first-line and can increase agitation and injury.",
+        "Incorrect. Isolation in a dark room removes cues and supervision."
+      ],
+      "rationale": "After assessing the physical causes, the nurse uses the least restrictive measures that keep the client safe. Continuous observation, a safe environment, familiar people, and clear simple communication reduce risk and distress. Wrist restraints are tempting because the client is pulling at oxygen, but restraints are not a default answer and can worsen agitation and injury. Leaving the client alone in a dark room removes both supervision and orienting cues.",
+      "takeaway": "Use supervision, a safe room, familiar people, and clear words before any restraint.",
+      "hintContent": "Ask which options protect the client without restricting movement.",
+      "hintStrategy": "Choose the least restrictive effective options in safety SATA items.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Take Action",
+      "focus": "Delegation & Safety",
+      "difficulty": 3,
+      "clientNeed": "Safe and Effective Care Environment: Safety and Infection Control"
+    },
+    {
+      "id": "m23-x1-071",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "A preceptor observes a new graduate nurse who has completed CAM training screening clients for delirium. Which actions by the new nurse are appropriate? Select all that apply.",
+      "options": [
+        "Follows the tool’s official steps for each feature.",
+        "Documents the behaviors seen, the time, and who provided the baseline.",
+        "Includes the screening result and any fluctuation in the handoff report.",
+        "Records a negative result from a quick impression during a conversation.",
+        "Treats a negative screen as proof delirium is absent despite an earlier decline."
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "optionRationales": [
+        "Correct. Validated tools must be used with their official instructions.",
+        "Correct. Concrete documentation lets others follow the trend.",
+        "Correct. The next nurse needs to know what is new and what to watch.",
+        "Incorrect. A result must come from the tool, not a quick impression.",
+        "Incorrect. A negative screen does not erase an observed decline, because delirium fluctuates."
+      ],
+      "rationale": "The CAM is used by trained staff following its official steps, and a result should never be assigned from a quick impression. Good practice includes documenting observed behaviors, time, and the source of baseline, and passing the findings on in handoff. Treating a negative screen as final is tempting because it feels objective, but delirium fluctuates and a short interaction can miss it. Reassessment over time is essential.",
+      "takeaway": "Use the CAM as designed, document specifics, hand off changes, and reassess over time.",
+      "hintContent": "Ask which actions keep the screening valid and the trend visible.",
+      "hintStrategy": "In precepting SATA items, select the actions that follow the tool and protect continuity of care.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Evaluate Outcomes",
+      "focus": "Delegation & Safety",
+      "difficulty": 2,
+      "clientNeed": "Safe and Effective Care Environment: Management of Care"
+    },
+    {
+      "id": "m23-x1-072",
+      "topic": "delirium",
+      "type": "sata",
+      "stem": "A nurse admits an 84-year-old client for a bowel obstruction. Which factors in the client’s history increase the risk of developing delirium? Select all that apply.",
+      "options": [
+        "Mild cognitive impairment diagnosed two years ago.",
+        "Severe hearing loss with hearing aids left at home.",
+        "Needs help with bathing and dressing at baseline.",
+        "Lives with a supportive spouse who visits daily.",
+        "Advanced age with several chronic diseases."
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "optionRationales": [
+        "Correct. Existing cognitive impairment lowers brain reserve.",
+        "Correct. Sensory loss and missing aids increase delirium risk.",
+        "Correct. Prior functional limits are a known risk factor.",
+        "Incorrect. Family support is protective, not a risk factor.",
+        "Correct. Older age and chronic illness lower reserve."
+      ],
+      "rationale": "Risk factors such as older age, existing cognitive impairment, hearing or vision loss, severe or chronic illness, and prior functional limits lower the brain’s reserve. When a new trigger such as surgery, infection, or a new medicine is added, delirium becomes more likely. A supportive spouse is tempting to include because the item asks about the client’s situation, but family presence is protective. Identifying these risks on admission lets the nurse start prevention right away.",
+      "takeaway": "Older age, cognitive impairment, sensory loss, chronic illness, and functional limits raise delirium risk.",
+      "hintContent": "For each item, ask whether it lowers or protects the brain’s reserve.",
+      "hintStrategy": "In risk-factor SATA items, exclude options that are protective.",
+      "ref": "Module 23 · Exemplar 23.B Delirium · slides 48–68",
+      "alsoTests": [],
+      "cjmm": "Analyze Cues",
+      "focus": "Lifespan & Diversity",
+      "difficulty": 2,
+      "clientNeed": "Physiological Integrity: Reduction of Risk Potential"
+    }
+  ]
+});

@@ -9,86 +9,97 @@ window.NURSE_DATA.push({
    "id": "urinary-incontinence-types",
    "title": "Urinary Incontinence: Causes, Risks & the Five Types",
    "exemplar": "Bladder Incontinence & Retention",
-   "summary": "Urinary incontinence is involuntary urine loss that happens when bladder pressure beats urethral pressure. It is a symptom, never a normal part of aging, and the five types (stress, urge, reflex, overflow, functional) each have their own cause, clues, and treatment.",
+   "summary": "Urinary incontinence is urine leaking when the client does not mean to void. It is a symptom, not normal aging, and comes in five types.",
    "objectives": [
-    "After this lesson you can define urinary incontinence and explain why it is called a symptom, not a disease.",
-    "Explain the basic pathophysiology (bladder pressure greater than urethral pressure) and the slide causes: diuretics, pregnancy, and low estrogen after menopause.",
-    "List the risk factors from the slides and explain WHY each one raises risk.",
-    "Teach prevention, including why clients should NOT limit fluids (more than 2,000 mL/day, spaced out, less at night).",
-    "Tell the five types of incontinence apart by cause, clinical manifestations, and therapy."
+    "You can define urinary incontinence and explain why it is a symptom, not a disease.",
+    "You can explain the pressure contest between the bladder and the urethra.",
+    "You can name the risk factors and say why each one raises risk.",
+    "You can teach prevention, including why clients should not cut their fluids.",
+    "You can tell stress, urge, reflex, overflow, and functional incontinence apart."
    ],
-   "bigPicture": "<p>Imagine leaking urine every time you laugh, or not making it to the bathroom in time. Many clients live with this quietly. They feel embarrassed and stop going out, and some never tell anyone. <strong>Urinary incontinence (UI)</strong> is <strong>involuntary urination</strong> — urine escaping when the person did not mean to let it go.</p><p>Your slides stress two ideas you must hold on to. First, UI is a <strong>symptom, not a disease</strong>. It is the visible sign that bladder control is impaired, so your job is to ask <em>why</em> it is happening. Second, UI is <strong>not a normal consequence of aging</strong>. It is common in older adults, but common does not mean normal, and <strong>treatment options exist</strong>. Once you know the five types, you can match each client's story to the right type and the right plan.</p>",
+   "bigPicture": "<p><b>Urinary incontinence (UI)</b> means urine leaks out when the person did not mean to let it go. Some clients leak when they laugh. Others cannot reach the bathroom in time. Many feel ashamed, stop going out, and never tell anyone.</p><p>Hold on to two ideas. First, UI is a <b>symptom, not a disease</b>. Something is causing it, so your job is to ask why. Second, UI is <b>not a normal part of aging</b>. It is common in older adults, but common is not normal, and treatments exist. Once you know the five types, you can match each client's story to the right type and the right plan.</p>",
+   "recap": [
+    "UI is involuntary urination. It is a symptom of poor bladder control, never a normal part of aging.",
+    "Leaking happens when bladder pressure is higher than urethral pressure.",
+    "Three slide causes: diuretics (more urine), pregnancy (uterus presses down), and low estrogen after menopause (weak urethra).",
+    "Do not cut fluids. Teach more than 2,000 mL/day, spaced out, with less at night.",
+    "Stress = leaks with cough, sneeze, or lift. Urge = strong sudden urge, can't hold it.",
+    "Reflex = nerve damage, leaks with NO urge. Overflow = full bladder that dribbles. Functional = can't get there in time.",
+    "A dribbling client with a firm, full bladder may have retention. Assess and empty the bladder, not just change pads."
+   ],
    "keyTerms": [
     {
      "term": "Urinary incontinence (UI)",
-     "def": "Involuntary loss of urine. A manifestation of impaired bladder control, not a disease on its own."
+     "def": "Urine that leaks out without the person meaning to void. It is a sign of poor bladder control, not a disease on its own."
     },
     {
      "term": "Detrusor muscle",
-     "def": "The smooth muscle in the bladder wall. It relaxes while the bladder fills and contracts to push urine out."
+     "def": "The muscle in the bladder wall. It relaxes while the bladder fills and squeezes to push urine out."
     },
     {
      "term": "Urethral resistance",
-     "def": "The squeeze of the urethra and sphincter muscles that holds urine in. When it weakens, urine escapes more easily."
+     "def": "The squeeze of the urethra and its sphincter muscles that holds urine in. When it weakens, urine escapes more easily."
     },
     {
      "term": "Pelvic floor",
-     "def": "The sling of muscles at the base of the pelvis that supports the bladder, uterus, and rectum and helps close the urethra."
+     "def": "A sling of muscles at the bottom of the pelvis. It holds up the bladder, uterus, and rectum and helps close the urethra."
     },
     {
      "term": "Cystocele",
-     "def": "Bladder prolapse: the bladder sags down into the vaginal wall."
+     "def": "Bladder prolapse. The bladder sags down into the wall of the vagina."
     },
     {
      "term": "Urethrocele",
-     "def": "Urethral prolapse: the urethra sags down into the vaginal wall."
+     "def": "Urethral prolapse. The urethra sags down into the wall of the vagina."
     },
     {
      "term": "Nocturia",
-     "def": "Waking up at night to void."
+     "def": "Waking up at night to urinate."
     },
     {
      "term": "BPH (benign prostatic hyperplasia)",
-     "def": "Non-cancerous enlargement of the prostate. It can squeeze the urethra and block urine flow in males."
+     "def": "A prostate that has grown larger but is not cancer. It can squeeze the urethra and block urine flow in males."
     },
     {
      "term": "Bladder irritants",
-     "def": "Things that irritate the bladder lining and trigger urgency: alcohol, caffeine, artificial sweeteners, and acidic or spicy foods."
+     "def": "Things that irritate the bladder lining and cause urgency: alcohol, caffeine, artificial sweeteners, and acidic or spicy foods."
     },
     {
      "term": "Neuromodulation",
-     "def": "Nerve stimulation used to change how the nerves controlling the bladder fire."
+     "def": "Nerve stimulation used to change how the nerves that control the bladder fire."
     },
     {
      "term": "TURP",
-     "def": "Transurethral resection of the prostate: surgery done through the urethra that removes excess prostate tissue to relieve obstruction."
+     "def": "Transurethral resection of the prostate. Surgery done through the urethra that removes extra prostate tissue so urine can flow."
     }
    ],
    "sections": [
     {
-     "heading": "What urinary incontinence is — and is not",
-     "body": "<p>Your slides define UI simply as <strong>involuntary urination</strong>. It is a <strong>manifestation of impaired bladder control</strong>. Something has gone wrong with the muscles, the nerves, the bladder, or the person's ability to get to a toilet.</p><p>Because UI is a <strong>symptom, not a disease</strong>, the treatment depends on the cause. Leaking from weak pelvic muscles after childbirth needs a very different plan than leaking from an enlarged prostate or from dementia. That is why the slides spend so much time on the types.</p><p>UI has a <strong>physical and psychosocial impact</strong>. Physically, wet skin breaks down, rashes and infections develop, and clients may fall as they rush to the bathroom at night. Psychosocially, clients feel shame, avoid social events, limit exercise and intimacy, and can become isolated or depressed. Your slides single out <strong>long-term acute care residents</strong> as a group where UI is especially common.</p><p>Remember: UI is <strong>not a normal consequence of aging</strong>. If an older client says, \"It's just what happens when you get old,\" gently correct that belief and tell them there are treatments.</p>",
-     "example": "<strong>At the bedside:</strong> Mrs. A, 78, admits she wears a pad \"just in case\" and has stopped going to church because she is afraid of leaking. She says, \"My mother had this too. It's just old age.\" The nurse explains that bladder leakage is common but not a normal part of aging, that it has causes that can be found, and that many treatments help. The nurse then reports the problem so it can be evaluated instead of simply supplying more pads."
+     "heading": "What is urinary incontinence?",
+     "keyIdea": "UI is a symptom of a bladder-control problem, so the nurse looks for the cause instead of just keeping the client dry.",
+     "body": "<p>UI is <b>involuntary urination</b>. That means urine comes out when the client did not choose to void. It is a sign that bladder control is impaired. Something is wrong with the muscles, the nerves, the bladder, or the client's ability to reach a toilet.</p><p>Because UI is a symptom, the treatment depends on the cause. Weak pelvic muscles after childbirth need a different plan than an enlarged prostate or dementia. That is why the five types matter.</p><p>UI harms the body and the mind. Wet skin breaks down and gets rashes and infections. Clients may fall while rushing to the bathroom at night. Many feel shame, avoid friends, stop exercise and intimacy, and become isolated or depressed. UI is especially common in long-term acute care residents.</p>",
+     "example": "Mrs. A, 78, wears a pad 'just in case.' She has stopped going to church because she fears leaking. She says, 'My mother had this too. It's just old age.' The nurse gently explains that leaking is common but not normal with aging. It has causes that can be found, and many treatments help. The nurse reports the problem so it can be evaluated, instead of simply handing out more pads."
     },
     {
-     "heading": "Pathophysiology: a pressure contest",
-     "body": "<p>Your slides boil the pathophysiology down to one sentence: <strong>bladder pressure exceeds urethral pressure, causing urine to escape</strong>.</p><p>Picture two forces. The bladder pushes outward as it fills or contracts. The urethra and the pelvic floor muscles squeeze to hold urine in. Normally the urethra wins until the person decides to void. Incontinence happens whenever the bladder side gets stronger, the urethral side gets weaker, or both.</p><p>The slides name three causes:</p>",
+     "heading": "Why does urine leak?",
+     "keyIdea": "Urine leaks whenever bladder pressure becomes stronger than the urethra's squeeze.",
+     "body": "<p>Think of it as a pressure contest. The bladder pushes outward as it fills or squeezes. The urethra and pelvic floor squeeze to hold urine in. Normally the urethra wins until the person decides to void.</p><p>Leaking happens when the bladder side gets stronger, the urethra side gets weaker, or both. Your slides name three causes.</p>",
      "bullets": [
-      "<strong>Increased volume due to diuretics</strong> — \"water pills\" make the kidneys produce more urine quickly. The bladder fills fast and pressure rises.",
-      "<strong>Pregnancy</strong> — the growing uterus presses down on the bladder from above, raising bladder pressure.",
-      "<strong>Decreased estrogen during menopause</strong> — estrogen keeps the tissue of the urethra and vagina thick and firm. With less estrogen, these tissues thin and weaken, so the urethra cannot seal as well."
+      "<b>Diuretics</b> ('water pills') make the kidneys produce more urine fast. The bladder fills quickly and pressure rises.",
+      "<b>Pregnancy</b>: the growing uterus presses down on the bladder and raises its pressure.",
+      "<b>Low estrogen after menopause</b>: estrogen keeps urethral and vaginal tissue thick and firm. Without it, the tissue thins, and the urethra cannot seal as well."
      ],
-     "analogy": "Think of a water balloon with your fingers pinching the neck closed. The balloon is the bladder and your pinch is the urethra. Squeeze the balloon harder (more urine, a heavy uterus, a sneeze) or loosen your pinch (weak muscles, thin tissue), and water squirts out. Every type of incontinence is some version of that.",
+     "analogy": "Picture a water balloon with your fingers pinching the neck closed. The balloon is the bladder. Your pinch is the urethra. Squeeze the balloon harder, or loosen your pinch, and water squirts out. Every type of incontinence is some version of that.",
      "check": {
-      "q": "A client just started furosemide (a diuretic) and now leaks urine on the way to the bathroom. Using the pressure idea, explain why.",
-      "a": "The diuretic increases urine volume quickly, so the bladder fills fast and bladder pressure rises above what the urethra can hold back before the client reaches the toilet."
+      "q": "A client just started furosemide (a diuretic) and now leaks on the way to the bathroom. Why?",
+      "a": "The diuretic makes more urine quickly. The bladder fills fast, and its pressure rises above what the urethra can hold back before the client reaches the toilet."
      }
     },
     {
-     "heading": "Risk factors: who is more likely to leak, and why",
-     "body": "<p>Your slides list these risk factors. Knowing <em>why</em> each one matters helps you remember them and teach clients.</p>",
+     "heading": "Who is at risk, and why?",
+     "keyIdea": "Most risk factors either add pressure on the bladder, weaken the urethra, or make it harder to reach the toilet.",
+     "body": "<p>Learn the reason behind each risk factor. Then you can remember the list and explain it to the client. Tip: if a diuretic causes urgency, the usual fix is a morning dose and easy bathroom access. Do not skip doses or cut fluids.</p>",
      "table": {
-      "caption": "Urinary incontinence risk factors from the slides",
       "headers": [
        "Risk factor",
        "Why it raises risk"
@@ -96,39 +107,39 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "Age",
-        "Bladder capacity shrinks, pelvic muscles weaken, and nerve control declines with age (but UI is still not \"normal\")."
+        "The bladder holds less, pelvic muscles weaken, and nerve control declines. UI is still not 'normal.'"
        ],
        [
-        "Women",
-        "A shorter urethra, plus pregnancy, childbirth, and menopause, all weaken the support around the bladder."
+        "Female sex",
+        "A shorter urethra, plus pregnancy, childbirth, and menopause, weaken the support around the bladder."
        ],
        [
-        "Homebound / long-term care resident",
-        "More mobility limits, cognitive impairment, and dependence on others to reach the toilet."
+        "Homebound or long-term care resident",
+        "More trouble moving, more memory problems, and more need for help to reach the toilet."
        ],
        [
         "Obesity",
-        "Extra abdominal weight presses constantly on the bladder."
+        "Extra belly weight presses on the bladder all the time."
        ],
        [
         "Smoking",
-        "Chronic \"smoker's cough\" pounds the pelvic floor, and nicotine irritates the bladder."
+        "A chronic cough pounds the pelvic floor, and nicotine irritates the bladder."
        ],
        [
         "Diabetes",
-        "High glucose pulls extra water into the urine, and diabetic nerve damage can impair bladder sensation and emptying."
+        "High glucose pulls extra water into the urine. Nerve damage can dull bladder feeling and emptying."
        ],
        [
         "Inactivity",
-        "Weak muscles, including the pelvic floor, and slower movement to the bathroom."
+        "Weak muscles, including the pelvic floor, and slower trips to the bathroom."
        ],
        [
         "Pregnancy",
-        "Hormonal changes and the weight of the uterus on the bladder."
+        "Hormone changes plus the weight of the uterus on the bladder."
        ],
        [
         "Depression",
-        "Low motivation and energy for toileting and self-care; it also often follows UI."
+        "Low energy for toileting and self-care. It also often follows UI."
        ],
        [
         "Constipation",
@@ -136,51 +147,48 @@ window.NURSE_DATA.push({
        ],
        [
         "UTI",
-        "Infection irritates the bladder wall, causing urgency and frequency."
+        "Infection irritates the bladder wall and causes urgency and frequency."
        ],
        [
         "Bladder irritants",
-        "Caffeine, alcohol, artificial sweeteners, and acidic or spicy foods trigger bladder contractions."
+        "Caffeine, alcohol, artificial sweeteners, and acidic or spicy foods trigger bladder squeezes."
        ],
        [
-        "Medications: diuretics, sedatives",
-        "Diuretics increase urine volume; sedatives dull the sensation of a full bladder and slow the client's ability to respond."
+        "Diuretics and sedatives",
+        "Diuretics make more urine. Sedatives dull the feeling of a full bladder and slow the client's response."
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> An older client on the night shift received a sedative for sleep and also takes a diuretic. At 0300 the bed is wet. Both medications from the slide list are at work: the diuretic filled the bladder, and the sedative kept the client from noticing and waking in time. The nurse reports this pattern and plans timed toileting before bed and during the night."
+     "example": "An older client got a sleeping pill at night and also takes an evening diuretic. At 0300 the bed is wet. The diuretic filled the bladder. The sedative kept the client from noticing and waking in time. The nurse reports the pattern, asks about moving the diuretic to the morning, and plans toileting before bed and during the night."
     },
     {
-     "heading": "Prevention: lifestyle changes and the fluid trap",
-     "body": "<p>Your slides (Box 5.3, lifestyle modifications) list the main prevention steps:</p>",
+     "heading": "How can clients prevent leaking?",
+     "keyIdea": "Teach healthy habits and plenty of fluid, because cutting fluids makes urine concentrated and irritates the bladder.",
+     "body": "<p>Your slides (Box 5.3) list lifestyle changes that prevent UI. Many clients make one big mistake. They drink less, thinking less in means less leaking. It backfires.</p><p>Concentrated urine irritates the bladder lining. The detrusor then squeezes more often, which means more urgency and more leaking. Low fluid also raises the risk of UTI and constipation, and both cause UI. The smart plan is to space fluids through the day and cut back mainly in the evening.</p>",
      "bullets": [
-      "<strong>Lifestyle modification:</strong> reach a healthy weight, exercise, and stop smoking.",
-      "<strong>High-fiber diet:</strong> prevents constipation, which presses on the bladder.",
-      "<strong>Avoid bladder irritants:</strong> alcohol, caffeine, artificial sweeteners, and acidic or spicy foods.",
-      "<strong>Adequate fluid intake — do NOT limit fluids:</strong> more than <strong>2,000 mL/day</strong>, <strong>spaced throughout the day</strong>.",
-      "<strong>Limit fluids at night</strong> to prevent nocturia."
+      "Reach a healthy weight, exercise, and stop smoking.",
+      "Eat a high-fiber diet to prevent constipation, which presses on the bladder.",
+      "Avoid bladder irritants: alcohol, caffeine, artificial sweeteners, and acidic or spicy foods.",
+      "Drink enough: <b>more than 2,000 mL/day</b>, spaced throughout the day. Do NOT limit fluids.",
+      "Limit fluids at night to prevent nocturia."
      ],
-     "analogy": "Concentrated urine is like an over-strong cup of coffee: a little of it has a big kick. Dilute urine is gentle on the bladder lining; concentrated urine \"stings\" it into contracting.",
+     "steps": [
+      "Less fluid in",
+      "Urine becomes more concentrated",
+      "The bladder wall gets irritated",
+      "More bladder squeezes, so more urgency and more leaking"
+     ],
+     "analogy": "Concentrated urine is like extra-strong coffee. A little of it has a big kick. Dilute urine is gentle on the bladder lining.",
      "check": {
-      "q": "A client with urge incontinence says, \"I stopped drinking water in the afternoon so I won't leak.\" What do you teach?",
-      "a": "Limiting fluids makes urine concentrated, which irritates the bladder wall and can worsen urgency. Drink more than 2,000 mL/day spread through the day, cut back mainly in the evening, and avoid irritants like caffeine and alcohol."
+      "q": "A client with urge incontinence says, 'I stopped drinking water after lunch so I won't leak.' What do you teach?",
+      "a": "Cutting fluid makes urine concentrated, which irritates the bladder and can worsen urgency. Drink more than 2,000 mL/day spread through the day. Cut back mainly in the evening, and avoid caffeine and alcohol."
      }
     },
     {
-     "heading": "Why limiting fluids backfires",
-     "body": "<p>This is a favorite exam point. Many clients with incontinence cut back on fluids, thinking less in means less leaking. Your slides show why that is a trap:</p><p>The bladder lining is sensitive. Concentrated urine irritates it, so the detrusor muscle contracts more often, which means <strong>more</strong> urgency and leaking, not less. Low fluid intake also raises the risk of UTI and constipation, which are both risk factors for UI. The smart approach is to <strong>space fluids evenly through the day</strong> and taper them in the evening so the client is not up all night.</p>",
-     "steps": [
-      "↓ Fluid intake",
-      "↑ Urine concentration",
-      "Bladder wall irritation",
-      "More bladder contractions → more urgency and incontinence"
-     ]
-    },
-    {
      "heading": "The five types at a glance",
-     "body": "<p>Your slides name five types: <strong>stress, urge, reflex, overflow, and functional</strong>. The key to telling them apart is asking: <em>What triggers the leak, and does the client feel it coming?</em></p>",
+     "keyIdea": "To find the type, ask two questions: what triggers the leak, and does the client feel it coming?",
+     "body": "<p>Your slides name five types: <b>stress, urge, reflex, overflow, and functional</b>. Use this table as your map. The next two sections explain each type in plain words.</p>",
      "table": {
-      "caption": "Comparing the five types of urinary incontinence",
       "headers": [
        "Type",
        "What goes wrong",
@@ -190,194 +198,276 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "Stress",
-        "Relaxed pelvic muscles and weak urethra → less urethral resistance; extra pressure from pregnancy, obesity, cystocele, urethrocele",
-        "Leaks with sneezing, coughing, lifting; uncontrollable leaking",
+        "Relaxed pelvic muscles and a weak urethra lower urethral resistance. Extra pressure comes from pregnancy, obesity, a cystocele, or a urethrocele.",
+        "Leaks with sneezing, coughing, or lifting; uncontrollable leaking",
         "Lifestyle changes, behavior therapy, Kegels, estrogen, pessary, urethral insert, surgery"
        ],
        [
         "Urge",
-        "Overactive detrusor muscle → high bladder pressure; cannot stop voiding",
-        "Strong sudden urge, can't hold it; nocturia",
-        "Lifestyle changes, behavior therapy, Kegels, anticholinergic and estrogen medications"
+        "Overactive detrusor raises bladder pressure; the client cannot stop voiding",
+        "Strong, sudden urge and can't hold it; nocturia",
+        "Lifestyle changes, behavior therapy, Kegels, anticholinergic and estrogen medicines"
        ],
        [
         "Reflex",
-        "Detrusor spasms from neurologic impairment or tissue damage (MS, spinal cord injury)",
-        "Urinates with NO urge; sudden, unexpected loss",
-        "Meds for the underlying condition, neuromodulation, catheterization (risk vs. benefit), surgery"
+        "Detrusor spasms from nerve damage or tissue damage (MS, spinal cord injury)",
+        "Voids with NO urge; sudden, unexpected loss",
+        "Medicine for the underlying condition, neuromodulation, catheterization (risk vs. benefit), surgery"
        ],
        [
         "Overflow",
-        "Outlet obstruction or weak detrusor → bladder overfills, pressure rises",
-        "Leaking/dribbling from a full bladder; UTIs",
-        "Medication, catheterization, surgery (e.g., TURP for an enlarged prostate)"
+        "Blocked outlet or weak detrusor; the bladder overfills and pressure rises",
+        "Leaking or dribbling from a full bladder; UTIs",
+        "Medication, catheterization, surgery (for example, TURP for an enlarged prostate)"
        ],
        [
         "Functional",
-        "Bladder works, but the response to the need is impaired (dementia, disability, poor mobility)",
+        "The bladder works, but the response to the need is impaired (dementia, disability, poor mobility)",
         "Can't reach the toilet in time",
-        "Catheterization, absorbent undergarments, home modifications, PT/OT, assistive devices, nonrestrictive clothing"
+        "Catheterization, absorbent briefs, home changes, PT/OT, assistive devices, easy clothing"
        ]
       ]
      }
     },
     {
-     "heading": "Stress and urge incontinence",
-     "body": "<p><strong>Stress incontinence</strong> has nothing to do with emotional stress. \"Stress\" here means physical strain on the abdomen. The pelvic muscles have relaxed and the urethra is weak, so <strong>urethral resistance is decreased</strong>. Anything that raises bladder pressure, such as <strong>pregnancy, obesity, a cystocele (bladder prolapse), or a urethrocele (urethral prolapse)</strong>, pushes urine past the weak seal. The client leaks a small amount with <strong>sneezing, coughing, or lifting</strong>, and the slides also list uncontrollable leaking. Treatment strengthens or supports the seal: lifestyle changes, behavior therapy, <strong>Kegel exercises</strong>, <strong>estrogen</strong>, a <strong>pessary</strong> or <strong>urethral insert</strong>, and surgery.</p><p><strong>Urge incontinence</strong> is the \"gotta go NOW\" type. The <strong>detrusor muscle is overactive</strong>. It squeezes when it should be resting, bladder pressure climbs, and the client <strong>cannot stop voiding</strong> once it starts. The clues are <strong>involuntary urine loss with a strong urge</strong> and <strong>nocturia</strong>. Treatment includes lifestyle changes (cutting irritants), behavior therapy (bladder training), Kegels, and medications: <strong>anticholinergics</strong>, which calm the detrusor, and <strong>estrogen</strong>.</p><p>Some clients have both types, which is called mixed incontinence. Ask about both triggers.</p>",
-     "example": "<strong>At the bedside:</strong> Ms. K, 45, mother of three, leaks a little when she jumps on the trampoline with her kids or sneezes during allergy season. This is <strong>stress</strong> incontinence, so Kegels are first-line teaching. Mr. P, 70, says, \"When I have to go, I have to go — I barely make it, and I'm up three times a night.\" This is <strong>urge</strong> incontinence with nocturia, so expect bladder training, cutting caffeine, and possibly an anticholinergic."
+     "heading": "Stress vs. urge: strain or sudden urge?",
+     "keyIdea": "Stress incontinence leaks with physical strain; urge incontinence leaks after a strong, sudden need to go.",
+     "body": "<p><b>Stress incontinence</b> has nothing to do with emotional stress. 'Stress' means physical strain on the belly. The pelvic muscles have relaxed and the urethra is weak, so urethral resistance is low. Pregnancy, obesity, a cystocele, or a urethrocele add pressure and push urine past the weak seal. The client leaks a small amount with a sneeze, cough, laugh, or lift.</p><p>Treatment strengthens or supports the seal. Options include Kegels, estrogen, a pessary or urethral insert, behavior therapy, and surgery.</p><p><b>Urge incontinence</b> is the 'gotta go NOW' type. The detrusor is overactive. It squeezes when it should rest, so the client cannot hold it once the urge hits. Nocturia is common. Treatment includes cutting irritants, bladder training, Kegels, and medicines: <b>anticholinergics</b> to calm the detrusor, and estrogen.</p><p>Some clients have both types. This is <b>mixed incontinence</b>, so always ask about both triggers.</p>",
+     "example": "Ms. K, 45, a mother of three, leaks a little when she jumps on the trampoline or sneezes. That is stress incontinence, so Kegels are first-line teaching. Mr. P, 70, says, 'When I have to go, I have to go. I barely make it, and I'm up three times a night.' That is urge incontinence with nocturia. Expect bladder training, less caffeine, and maybe an anticholinergic."
     },
     {
-     "heading": "Reflex, overflow, and functional incontinence",
-     "body": "<p><strong>Reflex incontinence</strong> comes from the nerves. With <strong>neurologic impairment or tissue damage</strong>, such as <strong>multiple sclerosis (MS)</strong> or a <strong>spinal cord injury</strong>, messages between the bladder and the brain are interrupted. The detrusor <strong>spasms</strong> on its own, so the client has <strong>urination without the urge</strong> — a <strong>sudden, unexpected</strong> loss with no warning. Therapy targets the cause: <strong>medications for the underlying condition</strong>, <strong>neuromodulation</strong> (nerve stimulation), <strong>catheterization</strong>, and surgery. Catheters are weighed on <strong>risk versus benefit</strong>, because they help drain the bladder but raise infection risk.</p><p><strong>Overflow incontinence</strong> is the full-bucket type. Either the outlet is blocked (<strong>outlet obstruction</strong>) or the detrusor is too weak to empty (<strong>lack of normal detrusor activity</strong>). Urine builds up, the bladder overfills, pressure rises, and urine dribbles out the top. Causes on your slides include an <strong>overdistended bladder, urinary retention, urinary obstruction such as calculi (kidney stones), and BPH</strong> (an enlarged prostate in males). Clues are <strong>leaking</strong> and <strong>UTIs</strong>, because stagnant urine grows bacteria. Therapy relieves the blockage or drains the bladder: <strong>medication, catheterization, and surgery</strong>, for example a <strong>TURP</strong> for a man with a large prostate. Overflow incontinence is retention in disguise. The client is wet, but the real problem is a bladder that will not empty.</p><p><strong>Functional incontinence</strong> means the urinary system itself may work fine. The problem is an <strong>impaired response to urinary need</strong>: the client can't recognize the need, can't get there, or can't manage clothing. Causes include <strong>dementia, physical disabilities, and impaired mobility</strong>. The hallmark is <strong>inability to reach facilities in time</strong>. Therapy fixes the environment and the access: <strong>absorbent undergarments, home modifications</strong> (a bedside commode, clear path, night-lights, raised toilet seat), <strong>PT/OT, assistive devices</strong> (walker, grab bars), <strong>nonrestrictive clothing</strong> (elastic waists, Velcro instead of buttons), and catheterization when needed.</p>",
-     "analogy": "Overflow incontinence is like a sink with a clogged drain and the faucet running. Water does not go down the drain, so it eventually spills over the edge. Mopping the floor (more pads) does not fix the clog.",
-     "example": "<strong>At the bedside:</strong> Mr. J, 74, with an enlarged prostate, dribbles urine all day and has had two UTIs this year. His bladder feels firm above the pubic bone. That is <strong>overflow</strong> incontinence from BPH, so expect a bladder scan, catheterization, and possibly medication or a TURP. Mrs. L, 82, has dementia and a walker. She is continent when staff walk her to the toilet every two hours but wet when she tries to go alone at night. That is <strong>functional</strong> incontinence, so the fix is access: a bedside commode, a night-light, and scheduled help.",
+     "heading": "Reflex, overflow, and functional types",
+     "keyIdea": "Reflex has no warning, overflow is a full bladder spilling over, and functional is a trip-to-the-toilet problem.",
+     "body": "<p><b>Reflex incontinence</b> comes from the nerves. Multiple sclerosis (MS) or a spinal cord injury interrupts messages between the bladder and brain. The detrusor spasms on its own. The client voids with <b>no urge</b> and no warning. Catheters are weighed on risk versus benefit, because they drain the bladder but raise infection risk.</p><p><b>Overflow incontinence</b> is the full-bucket type. Either the outlet is blocked or the detrusor is too weak to empty. Causes include retention, kidney stones (calculi), and BPH. The bladder overfills and urine dribbles out. Stagnant urine grows bacteria, so UTIs are common. Overflow is really retention in disguise.</p><p><b>Functional incontinence</b> means the urinary system may work fine. The client cannot recognize the need, cannot get there, or cannot manage clothing. Causes include dementia, physical disability, and poor mobility. Fix the access: a bedside commode, a clear lit path, a raised toilet seat, grab bars, a walker, PT/OT, and clothing with elastic waists or Velcro.</p>",
+     "analogy": "Overflow is like a sink with a clogged drain and the faucet running. The water spills over the edge. Mopping the floor (more pads) does not fix the clog.",
+     "example": "Mr. J, 74, has BPH. He dribbles all day, has had two UTIs this year, and his bladder feels firm above the pubic bone. That is overflow, so expect a bladder scan and catheterization, and maybe medicine or a TURP. Mrs. L, 82, has dementia and uses a walker. She stays dry when staff walk her to the toilet every 2 hours. She is wet when she tries alone at night. That is functional, so the fix is access and scheduled help.",
      "check": {
-      "q": "A client with a spinal cord injury suddenly finds himself wet without having felt any urge. Which type of incontinence is this, and why?",
-      "a": "Reflex incontinence. Nerve damage causes detrusor spasms, so urine is lost suddenly without the urge sensation."
+      "q": "A client with a spinal cord injury suddenly finds himself wet without feeling any urge. Which type is this?",
+      "a": "Reflex incontinence. Nerve damage causes detrusor spasms, so urine is lost suddenly with no urge."
+     }
+    },
+    {
+     "heading": "Common traps",
+     "keyIdea": "Most wrong answers come from mixing up look-alike types or treating the wetness instead of the cause.",
+     "body": "<p>These pairs look alike on exam questions. Use the right column to tell them apart.</p>",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Stress vs. urge",
+        "Stress leaks with strain (cough, sneeze, lift). Urge leaks after a strong, sudden need to void."
+       ],
+       [
+        "Urge vs. reflex",
+        "Urge: the client feels it coming but can't hold it. Reflex: no urge at all, usually with nerve damage."
+       ],
+       [
+        "Overflow vs. 'just incontinent'",
+        "Overflow has a firm, full bladder and constant dribbling. Scan and empty the bladder before using pads."
+       ],
+       [
+        "Functional vs. bladder problem",
+        "In functional UI the bladder works. The barrier is getting there: mobility, vision, memory, or help."
+       ],
+       [
+        "Chronic UI vs. new sudden UI",
+        "New, sudden leaking with burning, fever, or confusion in an older adult points to an acute cause such as UTI. Report it."
+       ],
+       [
+        "'Drink less' vs. 'space fluids'",
+        "Never cut total fluid. Space it out and reduce it in the evening."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect questions that ask you to name the type from a story or choose the safest first action.",
+     "body": "<p>Common patterns: match a client story to a type, choose correct teaching, or spot retention hiding as incontinence. SATA (select all that apply) items often cover risk factors or prevention.</p><p><b>Sample:</b> A 76-year-old man with BPH says he 'leaks all day' and never feels empty. His lower abdomen is firm above the pubic bone. What should the nurse do first? (A) Apply an absorbent brief. (B) Perform a bladder scan. (C) Teach him to limit fluids. (D) Teach Kegel exercises.</p>",
+     "steps": [
+      "Read the stem: an older man with BPH, constant leaking, a feeling of not emptying, and a firm lower abdomen.",
+      "What is it really asking? Which action addresses the most dangerous problem first.",
+      "Key cues: BPH plus dribbling plus a firm bladder points to overflow from retention.",
+      "Why the others are wrong: a brief only hides the problem. Limiting fluids concentrates urine and raises UTI risk. Kegels help stress incontinence, not a blocked outlet.",
+      "The answer is B. A bladder scan confirms how much urine is retained so the bladder can be emptied.",
+      "Reusable strategy: when a leaking client has a full bladder, assess and empty the bladder before managing the wetness."
+     ]
+    },
+    {
+     "heading": "Worked case: night wetting on the unit",
+     "keyIdea": "Look for every cause of new leaking: medicines, timing, and barriers to reaching the toilet.",
+     "body": "<p>Mr. D, 81, was admitted with pneumonia. He was dry at home. Now he is wet most nights. He takes furosemide at 2000 and got a sedative for sleep. He uses a walker, has poor vision, and his call light is often out of reach. His urine is clear, and he has no burning or fever.</p>",
+     "steps": [
+      "Recognize cues: new night wetting, evening diuretic, sedative, walker, poor vision, call light out of reach.",
+      "Rule out an acute cause: no burning, fever, or cloudy urine, so UTI is less likely. Check his bladder for fullness to rule out retention.",
+      "Name the type: mostly functional. His bladder works, but he can't get to the toilet in time.",
+      "Act: ask the provider about moving the diuretic to the morning. Report the sedative's effect.",
+      "Remove barriers: bedside commode or urinal, night-light, clear path, glasses within reach, call light at hand.",
+      "Offer toileting before bed and on a schedule at night. Evaluate: fewer wet episodes and intact skin."
+     ],
+     "check": {
+      "q": "Should the nurse tell Mr. D to stop drinking after supper?",
+      "a": "He can drink less in the evening, but his total intake should not drop. Limiting fluids concentrates urine, irritates the bladder, and raises UTI and constipation risk."
      }
     }
    ],
    "mnemonics": [
     {
-     "name": "The five-type trigger words",
-     "text": "STRESS = Sneeze/cough/lift. URGE = \"gotta go NOW.\" REFLEX = no warning, nerve damage. OVERFLOW = full bucket dribbles. FUNCTIONAL = can't get there in time."
+     "name": "The five trigger words",
+     "text": "STRESS = sneeze, cough, lift. URGE = 'gotta go NOW.' REFLEX = no warning, nerve damage. OVERFLOW = full bucket dribbles. FUNCTIONAL = can't get there in time."
     }
    ],
    "pearls": [
-    "\"Stress\" incontinence means physical strain (cough, sneeze, lift), not emotional stress.",
+    "'Stress' incontinence means physical strain (cough, sneeze, lift), not emotional stress.",
     "Urge = feels it coming but can't hold it. Reflex = does NOT feel it coming at all.",
-    "Overflow incontinence is really retention: a wet client with a firm, distended bladder needs the bladder emptied, not just a pad.",
+    "Overflow is really retention. A wet client with a firm, full bladder needs the bladder emptied, not just a pad.",
     "Never teach a client with UI to cut fluids. Teach more than 2,000 mL/day, spaced out, with less in the evening.",
-    "Functional incontinence is often fixed by the environment: a bedside commode, night-lights, a clear path, and easy clothing."
+    "Functional incontinence is often fixed by the environment: commode, night-light, clear path, and easy clothing."
    ],
    "redFlags": [
-    "A client with \"incontinence\" who constantly dribbles and has a firm, distended bladder above the pubis → suspect overflow from retention; assess (bladder scan) and notify the provider rather than just changing pads.",
-    "New, sudden incontinence with burning, urgency, fever, or acute confusion in an older adult → suspect UTI or another acute cause; report it rather than assuming it is \"just aging.\""
-   ],
-   "recap": [
-    "UI = involuntary urination; a symptom of impaired bladder control, never a normal part of aging.",
-    "Pathophysiology: bladder pressure > urethral pressure. Causes: diuretics (more volume), pregnancy, low estrogen in menopause.",
-    "Risks: age, female, LTC/homebound, obesity, smoking, diabetes, inactivity, pregnancy, depression, constipation, UTI, irritants, diuretics, sedatives.",
-    "Prevention: healthy weight, exercise, quit smoking, fiber, avoid irritants, fluids > 2,000 mL/day spaced out, less at night.",
-    "Stress = weak urethra plus strain; urge = overactive detrusor; reflex = neuro spasms with no urge.",
-    "Overflow = obstruction or weak detrusor → overfull bladder; functional = can't get to the toilet in time."
+    "Constant dribbling with a firm, distended bladder above the pubic bone: suspect overflow from retention. Scan the bladder and notify the provider.",
+    "New, sudden incontinence with burning, urgency, fever, or acute confusion in an older adult: suspect UTI or another acute cause and report it.",
+    "A client with BPH who cannot void and has lower belly pain: acute retention. This outranks routine incontinence care."
    ],
    "checks": [
     {
-     "q": "Why do the slides call urinary incontinence \"a symptom, not a disease,\" and how does that change what the nurse does?",
-     "a": "Because it is a manifestation of something else (weak muscles, overactive detrusor, nerve damage, obstruction, or mobility limits). The nurse looks for and reports the cause and type so the right treatment can be chosen, instead of only managing the wetness."
+     "q": "Why is UI called 'a symptom, not a disease,' and how does that change nursing care?",
+     "a": "It is caused by something else, such as weak muscles, an overactive detrusor, nerve damage, a blockage, or mobility limits. The nurse looks for and reports the cause and type, not just the wetness."
     },
     {
-     "q": "A postmenopausal client asks why she started leaking after menopause. What is the slide explanation?",
-     "a": "Decreased estrogen thins and weakens the tissues of the urethra, so it can't seal as tightly against bladder pressure."
+     "q": "A postmenopausal client asks why she started leaking after menopause. What is the explanation?",
+     "a": "Lower estrogen thins and weakens the urethral tissue, so the urethra cannot seal as tightly against bladder pressure."
     },
     {
-     "q": "Match the client to the type: (a) leaks when she laughs, (b) has Alzheimer disease and can't find the bathroom, (c) a male with BPH who dribbles constantly.",
+     "q": "Match each client to a type: (a) leaks when she laughs, (b) has Alzheimer disease and can't find the bathroom, (c) a man with BPH who dribbles constantly.",
      "a": "(a) Stress, (b) functional, (c) overflow."
     },
     {
-     "q": "Which two medication classes on the risk-factor slide contribute to incontinence, and how?",
-     "a": "Diuretics increase urine volume, and sedatives dull awareness of bladder fullness and slow the client's response."
+     "q": "Which two medicine classes on the risk slide add to incontinence, and how?",
+     "a": "Diuretics make more urine. Sedatives dull the feeling of a full bladder and slow the client's response."
     },
     {
-     "q": "Why is a client with overflow incontinence prone to urinary tract infections?",
-     "a": "The bladder never empties completely, so urine sits stagnant and bacteria multiply."
+     "q": "Why is a client with overflow incontinence prone to UTIs?",
+     "a": "The bladder never fully empties, so urine sits still and bacteria multiply."
     }
    ]
   },
   {
    "id": "urinary-incontinence-management",
-   "title": "Managing Urinary Incontinence: Kegels, Bladder Training, Devices & Meds",
+   "title": "Managing Incontinence: Kegels, Training, Devices & Meds",
    "exemplar": "Bladder Incontinence & Retention",
-   "summary": "Most incontinence improves with things the nurse teaches: Kegel exercises, bladder training, habit training, and scheduled toileting. When those are not enough, devices (pessary, urethral insert, catheters), medications (anticholinergics, topical estrogen, BPH smooth-muscle relaxers), and surgery step in. Care also changes across the lifespan, from bed-wetting children to pregnant clients and older adults.",
+   "summary": "Most incontinence improves with nurse teaching: Kegels and bladder retraining first, then devices and medicines, then surgery, adapted to the client's age.",
    "objectives": [
-    "After this lesson you can teach a client to find and perform Kegel exercises using the slide timing (hold 3–10 seconds, relax 10–15 seconds, repeat 10 times).",
-    "Tell bladder training, habit training, and scheduled toileting apart and choose the right one for a given client.",
-    "Describe the incontinence devices for women and the catheter options for overflow incontinence.",
-    "Explain the nursing considerations for anticholinergics, topical estrogen, and BPH smooth-muscle relaxers, and name the surgical options.",
-    "Apply lifespan considerations: primary vs. secondary enuresis, pregnancy, and the older adult."
+    "You can teach Kegel exercises with the correct timing.",
+    "You can tell bladder training, habit training, and scheduled toileting apart and match each to a client.",
+    "You can describe the devices for women and the catheter options for overflow incontinence.",
+    "You can give the key nursing points for anticholinergics, topical estrogen, and BPH smooth-muscle relaxers.",
+    "You can apply lifespan points for bed-wetting children, pregnancy, and older adults."
    ],
-   "bigPicture": "<p>The good news about urinary incontinence is that a lot of it can be improved, and much of the improvement comes from <strong>nursing teaching</strong>. Before anyone reaches for a pill or a scalpel, clients are taught to strengthen the pelvic floor, retrain the bladder, and change habits.</p><p>Think of treatment as a ladder. The bottom rungs are <strong>lifestyle changes and behavior therapies</strong> (Kegels, bladder training, habit training, scheduled toileting). The next rungs are <strong>devices</strong> and <strong>medications</strong>. The top rung is <strong>surgery</strong>. Your job is to know what each rung does, which type of incontinence it fits, and what to watch for, and to adapt the plan to the client's age and situation.</p>",
+   "bigPicture": "<p>Good news: much urinary incontinence can get better. A lot of that improvement comes from what <b>the nurse teaches</b>. Before anyone reaches for a pill or surgery, clients learn to strengthen the pelvic floor, retrain the bladder, and change habits.</p><p>Think of treatment as a ladder. The bottom rungs are lifestyle changes and behavior therapies. The middle rungs are devices and medicines. The top rung is surgery. Your job is to know what each rung does, which type of UI it fits, and what to watch for. Then you adapt the plan to the client's age and situation.</p>",
+   "recap": [
+    "Kegels: find the muscles, squeeze 3–10 seconds, relax 10–15 seconds, repeat 10 times. Do them with an empty bladder.",
+    "Bladder training stretches the time between voids toward every 3–4 hours. Habit training follows the diary. Scheduled toileting uses fixed times.",
+    "Devices for women: pessary, urethral insert, bladder support. Catheters are for overflow from retention or neurogenic bladder.",
+    "Anticholinergics (oxybutynin) calm the bladder but cause the 'dries.' Avoid them in glaucoma.",
+    "BPH smooth-muscle relaxers can drop blood pressure. Teach the client to rise slowly.",
+    "Surgery: cystocele or urethrocele repair, prostatectomy, artificial sphincter, urethral sling.",
+    "Enuresis: primary = never dry; secondary = dry 6+ months, then wet again. Bed-wetting alarms work best."
+   ],
    "keyTerms": [
     {
      "term": "Kegel exercises",
-     "def": "Pelvic floor muscle exercises that improve perineal muscle tone around the bladder and rectum."
+     "def": "Pelvic floor muscle exercises. They improve muscle tone around the bladder and rectum."
     },
     {
      "term": "Bladder training",
-     "def": "Gradually lengthening the time between voids (toward every 3–4 hours) while suppressing the urge, to stabilize an overactive bladder."
+     "def": "Slowly lengthening the time between voids, toward every 3–4 hours, while holding off urges. It steadies an overactive bladder."
     },
     {
      "term": "Habit training",
-     "def": "Voiding at the times identified in the client's own bladder diary, to get ahead of usual incontinence episodes."
+     "def": "Voiding at the times the client's own bladder diary shows leaks usually happen, to get ahead of them."
     },
     {
      "term": "Scheduled toileting",
-     "def": "Toileting at regular, fixed intervals (for example, every 2 hours) regardless of urge."
+     "def": "Taking the client to the toilet at fixed times, such as every 2 hours, whether or not they feel the urge."
     },
     {
      "term": "Bladder diary",
-     "def": "A record of when and how much the client drinks and voids and when leaks happen. It guides bladder and habit training."
+     "def": "A record of when and how much the client drinks and voids, and when leaks happen."
     },
     {
      "term": "Pessary",
-     "def": "A device (often ring-shaped) inserted into the vagina to support the bladder neck and pelvic organs."
+     "def": "A device, often ring-shaped, placed in the vagina to hold up the bladder neck and pelvic organs."
     },
     {
      "term": "Urethral insert",
-     "def": "A small, plug-like device placed in the female urethra to stop leaking. It is removed to void."
+     "def": "A small plug placed in the female urethra to stop leaks. It is removed to void."
     },
     {
      "term": "Intermittent catheterization",
-     "def": "\"In and out\" catheter use: a catheter is inserted to drain the bladder and removed right away."
+     "def": "'In and out' catheter use. The catheter drains the bladder and is removed right away."
     },
     {
      "term": "Suprapubic catheter",
-     "def": "A catheter placed through the lower abdominal wall directly into the bladder."
+     "def": "A catheter placed through the lower belly wall directly into the bladder."
     },
     {
      "term": "Anticholinergic",
-     "def": "A medication that blocks acetylcholine, relaxing the detrusor muscle to reduce urgency and frequency (e.g., oxybutynin [Ditropan])."
+     "def": "A medicine that blocks acetylcholine and relaxes the detrusor, reducing urgency and frequency. Example: oxybutynin (Ditropan)."
+    },
+    {
+     "term": "Cholinergic",
+     "def": "A medicine that makes the bladder squeeze to promote voiding. Example: bethanechol (Urecholine). Used for retention."
     },
     {
      "term": "Atrophic vaginitis",
-     "def": "Thinning, drying, and inflammation of vaginal and urethral tissue from low estrogen after menopause."
+     "def": "Thin, dry, inflamed vaginal and urethral tissue caused by low estrogen after menopause."
     },
     {
-     "term": "Primary enuresis",
-     "def": "Bed-wetting in a child who has never had nighttime bladder control."
-    },
-    {
-     "term": "Secondary enuresis",
-     "def": "Bed-wetting that returns after a child had nighttime control for at least 6 months."
+     "term": "Enuresis",
+     "def": "Involuntary urination, usually bed-wetting at night, in a child old enough to be dry."
     }
    ],
    "sections": [
     {
-     "heading": "Kegel exercises: strength training for the pelvic floor",
-     "body": "<p>Kegel exercises are <strong>pelvic floor muscle exercises</strong>. Their purpose, per your slides, is to <strong>improve perineal muscle tone</strong> for both the <strong>bladder and the rectum</strong>. Stronger muscles squeeze the urethra more firmly, so they help stress incontinence most, but they also help urge incontinence (squeezing the pelvic floor can calm an urge) and fecal incontinence.</p><p>The hardest part for clients is finding the right muscles. Your slides (Box 5.4) give two ways to find them: the muscles you use to <strong>stop the flow of urine</strong> and the muscles you use to <strong>resist a bowel movement</strong>. Once the client has found them, the exercise is:</p>",
+     "heading": "What is the treatment ladder?",
+     "keyIdea": "Start with teaching and behavior changes, then move to devices and medicines, and use surgery last.",
+     "body": "<p>Treatment climbs a ladder. Each rung adds more risk and cost, so start low.</p><p>A catheter is never the first answer just to keep a client dry. It carries infection risk. Match each treatment to the type of incontinence and its cause.</p>",
+     "bullets": [
+      "<b>Bottom rung:</b> lifestyle changes and behavior therapy (Kegels, bladder training, habit training, scheduled toileting).",
+      "<b>Middle rungs:</b> devices (pessary, urethral insert, catheters) and medicines.",
+      "<b>Top rung:</b> surgery, when the lower rungs have not worked."
+     ]
+    },
+    {
+     "heading": "How do you teach Kegel exercises?",
+     "keyIdea": "Find the right muscles first, then squeeze 3–10 seconds, relax 10–15 seconds, and repeat 10 times.",
+     "body": "<p>Kegels strengthen the pelvic floor. They improve muscle tone for both the <b>bladder and the rectum</b>. Stronger muscles squeeze the urethra closed. They help stress incontinence most. They also help urge incontinence, because a quick squeeze can calm an urge, and they help fecal incontinence.</p><p>The hardest part is finding the muscles. Your slides (Box 5.4) give two ways. They are the muscles used to <b>stop the flow of urine</b> and to <b>hold in a bowel movement or gas</b>.</p>",
      "steps": [
-      "Tighten the pelvic floor muscles (the \"stop the urine / hold in gas\" muscles).",
+      "Tighten the pelvic floor muscles.",
       "Hold the squeeze for 3–10 seconds.",
       "Relax for 10–15 seconds.",
       "Repeat 10 times."
      ],
      "bullets": [
-      "<strong>Tip:</strong> Stopping the urine stream is a way to <em>find</em> the muscles, not the exercise itself. Teach clients to do the routine with an empty bladder, not while voiding, because repeatedly stopping the stream can interfere with complete emptying.",
-      "<strong>Tip:</strong> Teach clients to keep breathing and keep the belly, thigh, and buttock muscles relaxed. Only the pelvic floor should work.",
-      "Results take weeks of regular practice, so encourage the client to stick with it."
+      "Stopping the stream is only for finding the muscles. Do the exercises with an empty bladder, not while voiding.",
+      "Keep breathing. Keep the belly, thighs, and buttocks relaxed. Only the pelvic floor works.",
+      "Results take weeks of regular practice, so encourage the client to keep going."
      ],
-     "analogy": "Kegels are like doing bicep curls for a muscle no one can see. One workout does nothing, but weeks of steady practice build a stronger \"drawstring\" around the urethra and anus.",
+     "analogy": "Kegels are like bicep curls for a muscle no one can see. One workout does nothing. Weeks of steady practice build a stronger drawstring around the urethra and anus.",
      "check": {
-      "q": "A client asks, \"So I should stop and start my urine every time I go to the bathroom?\" How do you respond?",
-      "a": "No. Stopping the stream once helps you find the right muscles. The exercise itself is done with an empty bladder: squeeze 3–10 seconds, relax 10–15 seconds, repeat 10 times."
+      "q": "A client asks, 'So I should stop and start my urine every time I go?' How do you respond?",
+      "a": "No. Stopping the stream once helps you find the muscles. Do the exercise with an empty bladder: squeeze 3–10 seconds, relax 10–15 seconds, repeat 10 times."
      }
     },
     {
-     "heading": "Behavior therapies: retraining the bladder",
-     "body": "<p>Your slides (Box 5.5) list four behavioral therapies. They sound alike, so focus on the <strong>goal</strong> of each.</p><p><strong>Bladder training</strong> is for the overactive, \"gotta go all the time\" bladder. The client <strong>lengthens the interval between voidings</strong>, gradually working toward every <strong>3–4 hours</strong>. This <strong>reduces frequent urination and urgency</strong> and <strong>stabilizes the bladder</strong>. When an urge hits before it is time, the client <strong>inhibits the urge-to-void sensation</strong>, for example with quick Kegel squeezes, slow breathing, and staying still until the urge passes. A <strong>bladder diary</strong> and a schedule (your textbook has an example on p. 337) track progress.</p><p><strong>Habit training</strong> uses the bladder diary differently. The client <strong>voids at the times identified in the bladder diary</strong> to <strong>avoid incontinence episodes</strong>. If the diary shows leaks around 1000 and 1400 every day, the client toilets a little before then. The schedule fits the client's own pattern.</p><p><strong>Scheduled toileting</strong> means toileting at <strong>regular intervals</strong>, such as every 2 hours, whether or not the client feels the urge. It works well for clients who can't reliably sense or report the need, such as those with dementia (functional incontinence).</p><p><strong>Lifestyle modifications</strong> (healthy weight, quitting smoking, avoiding irritants, spacing fluids) support all of these.</p>",
+     "heading": "Which bladder retraining fits which client?",
+     "keyIdea": "Bladder training stretches the time between voids, habit training follows the diary, and scheduled toileting follows the clock.",
+     "body": "<p>Your slides (Box 5.5) list behavior therapies that sound alike. Focus on the goal of each.</p><p><b>Bladder training</b> is for the overactive bladder. It starts with a bladder diary. The client then lengthens the time between voids, slowly working toward every 3–4 hours. When an urge comes early, the client holds it off with quick Kegels, slow breathing, and staying still. This steadies the bladder and reduces urgency and frequency. It needs an alert, motivated client. Your textbook shows a sample schedule (p. 337).</p><p><b>Habit training</b> uses the diary differently. If leaks happen around 1000 and 1400, the client toilets a little before then. <b>Scheduled toileting</b> means fixed times, such as every 2 hours, urge or not. It fits clients with dementia. Lifestyle changes support all of these.</p>",
      "table": {
-      "caption": "Choosing a behavior therapy",
       "headers": [
        "Therapy",
        "How it works",
@@ -386,166 +476,224 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "Bladder training",
-        "Gradually lengthen time between voids (goal every 3–4 hrs); suppress urges; diary",
-        "Urge incontinence, frequency; client who is alert and motivated"
+        "Slowly lengthen time between voids (goal every 3–4 hours); hold off urges; keep a diary",
+        "Urge incontinence or frequency in an alert, motivated client"
        ],
        [
         "Habit training",
         "Void at the times the diary shows leaks usually happen",
-        "Clients with a predictable personal leak pattern"
+        "Clients with a predictable leak pattern"
        ],
        [
         "Scheduled toileting",
-        "Toilet at fixed regular intervals",
-        "Cognitively impaired or dependent clients (functional incontinence)"
-       ],
-       [
-        "Lifestyle modifications",
-        "Weight, exercise, smoking cessation, irritants, fluid spacing",
-        "Everyone with UI"
+        "Toilet at fixed, regular times",
+        "Clients with dementia or who depend on others (functional UI)"
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> Mrs. T voids every 45 minutes \"just in case\" and still leaks with sudden urges. The nurse starts bladder training. She will wait 1 hour between voids this week, using Kegel squeezes and slow breathing to ride out urges, then add 15 minutes each week toward a 3–4 hour goal. She records everything in a bladder diary.",
+     "example": "Mrs. T voids every 45 minutes 'just in case' and still leaks with sudden urges. The nurse starts bladder training. This week she waits 1 hour between voids. She uses quick Kegels and slow breathing to ride out urges. Then she adds 15 minutes each week toward a 3–4 hour goal. At her next visit she is at 2 hours. That is progress, so the plan continues.",
      "check": {
-      "q": "A resident with moderate dementia is wet several times a day. Which behavior therapy fits best, and why not bladder training?",
-      "a": "Scheduled toileting at regular intervals. Bladder training requires the client to remember, delay, and suppress urges, which a client with dementia usually can't do."
+      "q": "A resident with moderate dementia is wet several times a day. Which therapy fits, and why not bladder training?",
+      "a": "Scheduled toileting at fixed times. Bladder training needs the client to remember, delay, and hold off urges, which a client with dementia usually can't do."
      }
     },
     {
-     "heading": "Incontinence devices",
-     "body": "<p>Your slides list devices for <strong>women</strong>, all inserted:</p><p>• <strong>Pessary</strong>: inserted into the vagina to hold up the bladder neck and pelvic organs. It is helpful for stress incontinence and prolapse (cystocele).<br>• <strong>Urethral insert</strong>: a small plug placed in the urethra that stops leaks during activity and is removed to void.<br>• <strong>Bladder support</strong>: devices that support the bladder neck from inside the vagina.</p><p><strong>Catheterization</strong> is listed for <strong>overflow incontinence due to retention or a neurogenic bladder</strong>, where the real problem is that the bladder doesn't empty. Options:</p><p>• <strong>Intermittent (\"in and out\")</strong>: drain the bladder on a schedule, then remove the catheter. Because nothing stays in, this carries a lower infection risk than a catheter left in place, and many clients learn to do it themselves.<br>• <strong>Indwelling or suprapubic</strong>: stays in place to drain continuously. An indwelling catheter goes through the urethra; a suprapubic catheter goes through the abdominal wall.</p><p>A catheter is never the first answer for simple incontinence just to keep a client dry. It is a source of infection, so it is used when the benefit clearly outweighs the risk. Whenever a client has an indwelling catheter, the basics of catheter care apply: keep the drainage bag <strong>below the level of the bladder</strong> so urine can't flow back in, keep the tubing <strong>free of kinks</strong>, secure the catheter, and clean around the insertion site daily.</p>",
-     "example": "<strong>At the bedside:</strong> Mr. R has multiple sclerosis and overflow incontinence from a bladder that doesn't empty. Rather than leave a catheter in all the time, the team teaches him intermittent self-catheterization every few hours: wash hands, insert the catheter, drain the bladder, remove it. He stays dry, empties fully, and has a lower infection risk than he would with an indwelling catheter.",
-     "analogy": "A pessary is like a shelf bracket put back under a sagging shelf. It does not change the shelf (the bladder); it props it up so things stay in place."
+     "heading": "What devices and catheters help?",
+     "keyIdea": "Devices for women support the urethra; catheters are for a bladder that does not empty, not for convenience.",
+     "body": "<p>Your slides list three devices for women. All are inserted.</p><p><b>Catheters</b> are listed for <b>overflow incontinence from retention or a neurogenic bladder</b>, where the bladder does not empty. Use them only when the benefit clearly outweighs the infection risk.</p><p>For any indwelling catheter, keep the drainage bag <b>below the bladder</b> and off the floor, so urine cannot flow back. Keep tubing free of kinks, secure the catheter, and clean the insertion site daily.</p>",
+     "bullets": [
+      "<b>Pessary:</b> goes in the vagina and holds up the bladder neck and pelvic organs. It helps stress incontinence and a cystocele.",
+      "<b>Urethral insert:</b> a small plug in the urethra that stops leaks during activity. It is removed to void.",
+      "<b>Bladder support:</b> devices in the vagina that support the bladder neck.",
+      "<b>Intermittent ('in and out') catheter:</b> drains the bladder on a schedule, then comes out. Lower infection risk than a catheter left in. Many clients learn to do it themselves.",
+      "<b>Indwelling or suprapubic catheter:</b> stays in to drain all the time. Indwelling goes through the urethra. Suprapubic goes through the belly wall."
+     ],
+     "analogy": "A pessary is like a bracket put back under a sagging shelf. It does not change the shelf. It props it up so things stay in place.",
+     "example": "Mr. R has MS and overflow incontinence because his bladder does not empty. The team teaches him intermittent self-catheterization every few hours. He washes his hands, inserts the catheter, drains the bladder, and removes it. He stays dry, empties fully, and has a lower infection risk than with an indwelling catheter."
     },
     {
-     "heading": "Medications for incontinence",
-     "body": "<p>Your slides (Medications 5.1 and 5.3) list these drug therapies. The Module 5 concept slides add key nursing points.</p>",
+     "heading": "Which medicines treat incontinence?",
+     "keyIdea": "Anticholinergics calm an overactive bladder but dry everything out; cholinergics do the opposite and are used for retention.",
+     "body": "<p>Your slides (Medications 5.1 and 5.3) list these drugs. Learn why each is used and the main safety point.</p><p>Do not mix up two opposites. An <b>anticholinergic</b> such as oxybutynin (Ditropan) reduces bladder squeezes for urge incontinence. A <b>cholinergic</b> such as bethanechol (Urecholine) makes the bladder squeeze. It is used for retention, not urge incontinence.</p><p>Anticholinergics cause the 'dries': dry mouth, hard stools, and a bladder that holds urine. If a client on one stops voiding and has belly discomfort, suspect retention and assess the bladder first.</p>",
      "table": {
-      "caption": "Incontinence medications and what the nurse watches",
       "headers": [
-       "Medication",
+       "Medicine",
        "Why it is used",
-       "Nursing considerations"
+       "Nursing points"
       ],
       "rows": [
        [
-        "<strong>Anticholinergics</strong> (e.g., oxybutynin [Ditropan])",
-        "Relax the overactive detrusor → reduce urinary frequency and urgency; treat urge incontinence",
-        "Significant side effects (dry mouth, constipation, blurred vision, urinary retention, confusion in older adults). <strong>Avoid in clients with glaucoma.</strong>"
+        "Anticholinergics (oxybutynin [Ditropan])",
+        "Relax the overactive detrusor; less urgency and frequency; treat urge incontinence",
+        "Significant side effects: dry mouth, constipation, blurred vision, urinary retention, confusion in older adults. Avoid in glaucoma."
        ],
        [
-        "<strong>Topical estrogen</strong>",
-        "Postmenopausal women with atrophic vaginitis: rebuilds thin urethral and vaginal tissue",
-        "Applied locally (cream, ring); teach correct use"
+        "Topical estrogen",
+        "Postmenopausal women with atrophic vaginitis; rebuilds thin tissue so the urethra seals better",
+        "Applied locally (cream or ring); teach correct use"
        ],
        [
-        "<strong>BPH smooth-muscle relaxers</strong>",
-        "Relax smooth muscle at the bladder neck and prostate so urine flows out more easily",
-        "<strong>Monitor for ↓ BP</strong>; teach to rise slowly (risk of dizziness and falls)"
+        "BPH smooth-muscle relaxers",
+        "Relax muscle at the bladder neck and prostate so urine flows out more easily",
+        "Watch for low BP. Teach to rise slowly; dizziness can cause falls."
        ],
        [
-        "<strong>UTI medications</strong> (antibiotics)",
+        "UTI medicines (antibiotics)",
         "Infection irritates the bladder and causes urgency and leaking",
         "Finish the full course; push fluids unless restricted"
        ],
        [
         "Urinary antispasmodic (mirabegron [Myrbetriq])",
         "Relaxes the bladder to reduce urgency (concept slides)",
-        "Concept slides warn of significant side effects; monitor BP"
+        "Slides warn of significant side effects; monitor BP"
        ]
       ]
      },
-     "bullets": [
-      "<strong>Tip:</strong> Anticholinergics cause the \"dries\": dry mouth, dry (hard) stools, and a bladder that holds urine. Watch older adults for constipation, retention, and confusion.",
-      "<strong>Tip:</strong> Don't confuse the two opposites on the concept slides. <strong>Anticholinergic</strong> (Ditropan) <em>reduces</em> bladder contractions. <strong>Cholinergic</strong> (bethanechol [Urecholine]) <em>promotes</em> urination and is used for retention, not urge incontinence."
-     ],
-     "example": "<strong>At the bedside:</strong> Mrs. B, 79, started oxybutynin for urge incontinence two weeks ago. Her leaking is better, but today she says her mouth is \"dry as cotton,\" she hasn't had a bowel movement in four days, and her daughter thinks she seems more forgetful. These are classic anticholinergic effects. The nurse checks for a distended bladder, encourages fluids and fiber, and reports the constipation and new confusion to the provider, who may change the medication.",
+     "example": "Mrs. B, 79, started oxybutynin two weeks ago. Her leaking is better. Today her mouth is 'dry as cotton,' she has had no bowel movement in four days, and her daughter says she seems more forgetful. These are classic anticholinergic effects. The nurse checks for a full bladder, encourages fluids and fiber, and reports the constipation and new confusion to the provider.",
      "check": {
-      "q": "An older client with glaucoma has urge incontinence. The prescription is for oxybutynin. What should the nurse do?",
-      "a": "Question the order and notify the provider. The concept slides say to avoid Ditropan (an anticholinergic) in clients with glaucoma, because it can raise eye pressure."
+      "q": "An older client with glaucoma has a new order for oxybutynin. What should the nurse do?",
+      "a": "Question the order and notify the provider. Anticholinergics like oxybutynin should be avoided in glaucoma because they can raise eye pressure."
      }
     },
     {
-     "heading": "Surgical options",
-     "body": "<p>When conservative therapy fails, your slides list these surgeries:</p>",
+     "heading": "What surgeries are options?",
+     "keyIdea": "When conservative care fails, surgery repairs, lifts, or replaces the structures that keep urine in.",
+     "body": "<p>Your slides list these surgeries. Each one fixes a specific problem.</p>",
      "bullets": [
-      "<strong>Cystocele repair</strong>: lifts and supports a bladder that has sagged into the vaginal wall.",
-      "<strong>Urethrocele repair</strong>: does the same for a prolapsed urethra.",
-      "<strong>Prostatectomy</strong>: removal of all or part of the prostate to relieve obstruction in males (TURP is one approach).",
-      "<strong>Artificial sphincter</strong>: an implanted cuff around the urethra that the client opens to void.",
-      "<strong>Urethral sling</strong>: a strip of mesh or tissue placed under the urethra like a hammock so it stays closed during coughing or lifting. It is a common surgery for stress incontinence."
+      "<b>Cystocele repair:</b> lifts and supports a bladder that has sagged into the vaginal wall.",
+      "<b>Urethrocele repair:</b> does the same for a sagging urethra.",
+      "<b>Prostatectomy:</b> removes all or part of the prostate to relieve a blockage in males. TURP is one approach.",
+      "<b>Artificial sphincter:</b> an implanted cuff around the urethra that the client opens to void.",
+      "<b>Urethral sling:</b> a strip of mesh or tissue under the urethra, like a hammock. It keeps the urethra closed during coughing or lifting. Common for stress incontinence."
      ]
     },
     {
-     "heading": "Lifespan: children and enuresis",
-     "body": "<p><strong>Enuresis</strong> is involuntary urination, most often bed-wetting at night, in a child old enough to be dry. The concept slides give the timeline: most children gain urinary control between <strong>2 and 5 years</strong>, daytime control comes before nighttime control, and nighttime bed-wetting is <strong>not considered a problem until after age 7</strong>. It is more common in deep sleepers. Daytime (diurnal) wetting in an older child may be pathologic and deserves a closer look.</p><p>Key points from your exemplar slides:</p>",
+     "heading": "What about children who wet the bed?",
+     "keyIdea": "Night bed-wetting is not a problem until after age 7, and a bed-wetting alarm is the most effective treatment.",
+     "body": "<p><b>Enuresis</b> is involuntary urination, usually at night, in a child old enough to be dry. Most children gain control between 2 and 5 years. Daytime control comes before nighttime control. Night wetting is not considered a problem until <b>after age 7</b>. It is more common in deep sleepers. Daytime wetting in an older child may signal a problem and needs a closer look.</p><p>Understanding why the child wets is key to the outcome and to the child's well-being. Most often, it is not caused by a medical disorder.</p>",
      "bullets": [
-      "<strong>Primary enuresis:</strong> the child has <em>never</em> had nighttime bladder control and has always wet the bed.",
-      "<strong>Secondary enuresis:</strong> the child <em>had</em> nighttime control for <strong>at least 6 months</strong> and then lost it. Look for a trigger such as stress, illness, UTI, or constipation.",
-      "Understanding <strong>why</strong> the child is incontinent is essential to the outcome and to the child's well-being.",
-      "Most often, incontinence is <strong>not</strong> caused by a medical disorder.",
-      "Treatment includes <strong>behavioral changes</strong>, <strong>dietary changes to manage constipation</strong>, and sometimes medications.",
-      "<strong>Bed-wetting alarms are the most effective treatment.</strong>",
-      "Most nighttime enuresis <strong>improves as the child matures</strong>."
+      "<b>Primary enuresis:</b> the child has never been dry at night.",
+      "<b>Secondary enuresis:</b> the child was dry at night for at least 6 months, then started wetting again. Look for a trigger: stress, illness, UTI, or constipation.",
+      "Treatment: behavior changes, diet changes to manage constipation, and sometimes medicine.",
+      "<b>Bed-wetting alarms are the most effective treatment.</b> Most children outgrow it as they mature.",
+      "Secondary enuresis with heavy thirst, frequent urination, or weight loss needs prompt evaluation, not just reassurance."
      ],
-     "example": "<strong>At the bedside:</strong> The parents of an 8-year-old who was dry for a year and now wets the bed again feel frustrated. This is <strong>secondary</strong> enuresis, so the nurse asks about recent stress (a new sibling or a new school), constipation, and UTI symptoms. The nurse reassures them that it usually isn't caused by a disease and is not the child's fault, discourages punishment, and explains that a moisture alarm is the most effective treatment."
+     "example": "An 8-year-old was dry for a year and now wets the bed again. That is secondary enuresis. The nurse asks about new stress, such as a new sibling or school, plus constipation and UTI signs. The nurse explains it is usually not caused by disease and is not the child's fault. The nurse discourages punishment and explains that an alarm works best."
     },
     {
-     "heading": "Lifespan: pregnancy and the older adult",
-     "body": "<p><strong>Pregnancy</strong> raises incontinence risk through <strong>hormonal changes</strong> that relax supporting tissue, the <strong>weight of the growing uterus</strong> on the bladder, and <strong>post-delivery trauma or prolapse</strong> of the pelvic floor. Your slides highlight <strong>Kegel exercises during pregnancy</strong>. Starting them early builds strength that protects against leaking during and after pregnancy.</p><p>In the <strong>older adult</strong>, many barriers are outside the bladder. Your slides list <strong>limited mobility, impaired vision, dementia, lack of access to facilities, no assistance, and privacy</strong> concerns. The concept slides add the body changes: decreased bladder capacity, more residual urine, more urine produced at night, and weakened pelvic floor muscles. Nursing care focuses on access and dignity: answer call lights promptly, keep the path to the bathroom clear and lit, place a bedside commode, keep glasses within reach, offer toileting on a schedule, and provide privacy.</p>",
+     "heading": "Pregnancy and the older adult",
+     "keyIdea": "Teach Kegels in pregnancy; for older adults, remove the barriers that keep them from reaching the toilet.",
+     "body": "<p><b>Pregnancy</b> raises risk in three ways. Hormones relax supporting tissue. The growing uterus presses on the bladder. Delivery can injure or weaken the pelvic floor. Your slides stress <b>Kegels during pregnancy</b>. Also teach the client to avoid irritants and not to limit fluids.</p><p>In the <b>older adult</b>, many barriers are outside the bladder. Your slides list limited mobility, poor vision, dementia, lack of access to a toilet, no help, and privacy concerns. The body also changes. The bladder holds less, more urine is left after voiding, more urine is made at night, and pelvic muscles weaken.</p><p>Care focuses on access and dignity. Answer call lights fast. Keep the path clear and lit. Place a bedside commode. Keep glasses in reach. Offer toileting on a schedule, and give privacy.</p>",
      "check": {
-      "q": "An older client with poor vision and a walker is incontinent mainly at night. Name three nursing changes from the slide barriers.",
-      "a": "Any three: night-light and clear path (vision), bedside commode or urinal within reach (mobility and access), scheduled offers of help (no assistance), glasses at the bedside, prompt call-light response, and privacy."
+      "q": "An older client with poor vision and a walker is wet mainly at night. Name three nursing changes.",
+      "a": "Any three: night-light and clear path, commode or urinal within reach, glasses at the bedside, scheduled offers of help, fast call-light response, and privacy."
+     }
+    },
+    {
+     "heading": "Common traps",
+     "keyIdea": "Match the treatment to the cause, and watch for medicines that create a new problem.",
+     "body": "<p>These look-alikes cause many wrong answers.</p>",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Bladder training vs. habit training",
+        "Bladder training stretches the interval toward 3–4 hours. Habit training times voids to the client's own diary pattern."
+       ],
+       [
+        "Habit training vs. scheduled toileting",
+        "Habit training follows the diary. Scheduled toileting follows fixed clock times and fits dementia."
+       ],
+       [
+        "Anticholinergic vs. cholinergic",
+        "Anticholinergic (oxybutynin) calms the bladder for urge UI. Cholinergic (bethanechol) makes it squeeze for retention."
+       ],
+       [
+        "Pessary vs. urethral insert",
+        "Pessary goes in the vagina and supports the bladder neck. Insert goes in the urethra and is removed to void."
+       ],
+       [
+        "Catheter for retention vs. for dryness",
+        "Catheters treat a bladder that won't empty. They are not used just to keep a client dry."
+       ],
+       [
+        "Primary vs. secondary enuresis",
+        "Primary: never dry at night. Secondary: dry 6+ months, then wet again. Find the trigger."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Questions test correct teaching, matching the therapy to the client, and medicine safety.",
+     "body": "<p>Expect questions on Kegel timing, choosing a retraining method, and spotting side effects. Watch for low BP after a BPH relaxer, and retention or confusion after an anticholinergic. Evaluation items ask whether a goal is met. Progress means continue the plan.</p><p><b>Sample:</b> A client on oxybutynin for urge incontinence has not voided in 8 hours and reports lower belly discomfort. What should the nurse do first? (A) Give the next dose. (B) Encourage more oral fluids. (C) Assess the bladder with a bladder scan. (D) Teach Kegel exercises.</p>",
+     "steps": [
+      "Read the stem: an anticholinergic, no voiding for 8 hours, and lower belly discomfort.",
+      "What is it really asking? What is the likely problem, and what is the first action?",
+      "Key cues: anticholinergics can cause urinary retention. Discomfort plus no output suggests a full bladder.",
+      "Why the others are wrong: another dose worsens retention. More fluid adds to a bladder that can't empty. Kegels do not empty a full bladder.",
+      "The answer is C. Assess first. The scan confirms retention so the provider can be notified and the bladder emptied.",
+      "Reusable strategy: when a new medicine could cause the symptom, hold off on more drug and assess first."
+     ]
+    },
+    {
+     "heading": "Worked case: a new mother who leaks",
+     "keyIdea": "Choose the lowest rung that fits the cause, and teach it clearly.",
+     "body": "<p>Ms. V, 32, is 6 weeks postpartum after her second vaginal birth. She leaks a little when she coughs or picks up her toddler. She has no burning or urgency. She has started drinking less water so she will leak less.</p>",
+     "steps": [
+      "Recognize cues: leaks with coughing and lifting, recent vaginal births, no urgency or UTI signs.",
+      "Name the type: stress incontinence from a weakened pelvic floor.",
+      "Choose the lowest rung: Kegel exercises and lifestyle teaching.",
+      "Teach Kegels: find the muscles, then squeeze 3–10 seconds, relax 10–15 seconds, repeat 10 times, with an empty bladder.",
+      "Correct the fluid mistake: drink more than 2,000 mL/day, spaced out, with less at night. Avoid irritants.",
+      "Evaluate in a few weeks: fewer leaks with coughing and lifting. If not better, devices or other options can be discussed."
+     ],
+     "check": {
+      "q": "Ms. V asks if she should practice by stopping her urine stream every time she voids. What do you say?",
+      "a": "No. Stopping the stream once helps find the muscles. Do the exercises with an empty bladder, because stopping the stream often can interfere with full emptying."
      }
     }
    ],
    "mnemonics": [
     {
-     "name": "Kegel \"3-10, 10-15, times 10\"",
+     "name": "Kegel '3-10, 10-15, times 10'",
      "text": "Squeeze 3–10 seconds, relax 10–15 seconds, repeat 10 times."
     }
    ],
    "pearls": [
     "Behavior therapy and Kegels come before drugs or surgery.",
-    "Bladder training = stretch the interval (toward 3–4 hrs). Habit training = follow the diary. Scheduled toileting = fixed clock times.",
-    "Anticholinergics (Ditropan) calm the bladder but dry everything out. Avoid them in glaucoma and watch older adults for confusion, constipation, and retention.",
-    "BPH smooth-muscle relaxers can drop the BP, so teach the client to change positions slowly.",
-    "Bed-wetting alarms are the most effective treatment for nighttime enuresis, and most children outgrow it."
+    "Bladder training = stretch the interval (toward 3–4 hours). Habit training = follow the diary. Scheduled toileting = fixed clock times.",
+    "Anticholinergics calm the bladder but dry everything out. Avoid in glaucoma. Watch older adults for confusion, constipation, and retention.",
+    "BPH smooth-muscle relaxers can drop BP, so teach the client to change positions slowly."
    ],
    "redFlags": [
-    "A client starting an anticholinergic develops new confusion, a distended bladder, or no urine output → suspect anticholinergic adverse effects and urinary retention; hold the next dose and notify the provider.",
-    "A child with secondary enuresis plus burning, frequent urination, excessive thirst, or signs of distress at home → don't dismiss it as a phase; report it for evaluation (UTI, diabetes, or stress or abuse)."
-   ],
-   "recap": [
-    "Kegels: find the muscles by stopping urine or holding in stool; squeeze 3–10 s, relax 10–15 s, repeat 10 times; they help the bladder and rectum.",
-    "Bladder training lengthens intervals to 3–4 hrs and suppresses urges; habit training follows the diary; scheduled toileting uses fixed intervals.",
-    "Devices for women: pessary, urethral insert, bladder support. Catheters (intermittent, indwelling, suprapubic) are for overflow from retention or neurogenic bladder.",
-    "Meds: anticholinergics (avoid in glaucoma), topical estrogen for atrophic vaginitis, BPH smooth-muscle relaxers (watch for low BP), UTI meds.",
-    "Surgery: cystocele or urethrocele repair, prostatectomy, artificial sphincter, urethral sling.",
-    "Enuresis: primary = never dry; secondary = dry 6+ months then lost; alarms work best; usually outgrown.",
-    "Pregnancy: Kegels. Older adults: remove barriers (mobility, vision, dementia, access, assistance, privacy)."
+    "New confusion, a full bladder, or no urine output after starting an anticholinergic: suspect side effects and retention. Hold the next dose and notify the provider.",
+    "Dizziness or a near-fall after a BPH smooth-muscle relaxer: a low-BP safety priority. Keep the client safe and report it.",
+    "Secondary enuresis with burning, frequent urination, heavy thirst, or signs of distress at home: report it for evaluation (UTI, diabetes, or stress or abuse)."
    ],
    "checks": [
     {
      "q": "What is the difference between bladder training and habit training?",
-     "a": "Bladder training gradually lengthens the time between voids (toward 3–4 hours) and teaches urge suppression. Habit training has the client void at the times the bladder diary shows leaks usually happen."
+     "a": "Bladder training slowly lengthens the time between voids toward 3–4 hours and teaches urge control. Habit training has the client void at the times the diary shows leaks usually happen."
     },
     {
-     "q": "Which type of incontinence is catheterization listed for on the devices slide?",
-     "a": "Overflow incontinence due to urinary retention or a neurogenic bladder."
+     "q": "Which type of incontinence are catheters listed for?",
+     "a": "Overflow incontinence from urinary retention or a neurogenic bladder."
     },
     {
-     "q": "A client taking a BPH smooth-muscle relaxer reports feeling lightheaded when getting out of bed. What is the likely reason, and what do you teach?",
+     "q": "A client on a BPH smooth-muscle relaxer feels lightheaded getting out of bed. Why, and what do you teach?",
      "a": "The drug can lower blood pressure. Teach the client to sit on the edge of the bed first, rise slowly, and call for help if dizzy."
     },
     {
-     "q": "A 6-year-old who has never been dry at night wets the bed. Is this primary or secondary enuresis, and is it a concern yet?",
-     "a": "Primary enuresis (never had nighttime control). Per the concept slides, nighttime bed-wetting isn't considered a problem until after age 7, and most children outgrow it."
+     "q": "A 6-year-old who has never been dry at night wets the bed. Primary or secondary, and is it a concern yet?",
+     "a": "Primary enuresis. Night wetting is not considered a problem until after age 7, and most children outgrow it."
     },
     {
-     "q": "Why does the slide recommend Kegel exercises during pregnancy?",
-     "a": "Hormones and the weight of the uterus weaken pelvic support, and delivery can cause trauma or prolapse. Strengthening the pelvic floor helps prevent incontinence during and after pregnancy."
+     "q": "Why is topical estrogen used for some postmenopausal women with UI?",
+     "a": "Low estrogen causes thin, weak tissue (atrophic vaginitis). Topical estrogen rebuilds the tissue, so the urethra resists leaks better."
     }
    ]
   },
@@ -553,66 +701,84 @@ window.NURSE_DATA.push({
    "id": "urinary-retention",
    "title": "Urinary Retention & Promoting Normal Voiding",
    "exemplar": "Bladder Incontinence & Retention",
-   "summary": "Urinary retention is the inability to empty the bladder. Acute retention (sudden, painful, full bladder, can't void) is a medical emergency; chronic retention is painless incomplete emptying. Nurses decompress the bladder, promote normal voiding habits, protect the skin, and prevent UTIs.",
+   "summary": "Urinary retention means the bladder cannot empty. Acute retention is a painful emergency; chronic retention is quiet incomplete emptying. Nurses assess, decompress, promote voiding, and prevent infection.",
    "objectives": [
-    "After this lesson you can define urinary retention and tell acute retention (a medical emergency) from chronic retention.",
-    "List the slide risk factors, including anesthesia, spinal cord trauma, anticholinergics, antihistamines, and an enlarged prostate, and explain why each causes retention.",
-    "Recognize acute and chronic manifestations, including a firm, distended bladder with dullness on percussion.",
-    "Describe the management options: catheter decompression, antibiotics, prostate resection, removal of calculi, cystocele or rectocele repair, and suprapubic catheter.",
-    "Apply the nursing interventions: normal voiding habits (positioning, relaxation, timing, bedpan technique), the Credé maneuver, catheter education, skin care, and UTI prevention."
+    "You can tell acute retention (an emergency) from chronic retention.",
+    "You can assess the bladder by palpation, percussion, bladder scan, and post-void residual.",
+    "You can name the risk factors for retention and explain why each one causes it.",
+    "You can help a client void naturally before a catheter is considered.",
+    "You can teach catheter care, protect the skin, and prevent UTIs.",
+    "You can apply lifespan points for children, postpartum clients, and older adults."
    ],
-   "bigPicture": "<p>Incontinence is urine coming out when it shouldn't. <strong>Urinary retention</strong> is the opposite: urine <strong>won't come out</strong> when it should. Your slides define it simply as the <strong>inability to empty the bladder</strong>.</p><p>Retention matters because a bladder that won't empty causes pain, stretches and damages the bladder wall, breeds infection, and can even back urine up toward the kidneys. It also hides behind other problems. The constantly dribbling client may actually have a full bladder (overflow), and the restless, confused post-op client may simply need to void. You will meet retention constantly after surgery, after childbirth, and in older men with enlarged prostates.</p>",
+   "bigPicture": "<p>Incontinence is urine coming out when it shouldn't. <b>Urinary retention</b> is the opposite. Urine won't come out when it should. Your slides define it as the <b>inability to empty the bladder</b>.</p><p>Retention matters because a full bladder causes pain. It stretches and damages the bladder wall, breeds infection, and can push urine back toward the kidneys. It also hides behind other problems. The client who dribbles all day may have a full bladder. The restless post-op client may simply need to void. You will see retention after surgery, after childbirth, and in older men with an enlarged prostate.</p>",
+   "recap": [
+    "Retention is inability to empty the bladder. Acute = sudden, painful, can't void, an emergency. Chronic = voids but never fully empties.",
+    "Acute signs: firm, distended bladder above the pubic bone with dullness on percussion. Confirm with a bladder scan.",
+    "Chronic signs: painless, hard to start, weak stream, frequency, still feels full after voiding.",
+    "Risks: anesthesia, brain or spinal cord injury, anticholinergics, antihistamines, constipation, repeated UTIs, stones, weak detrusor, enlarged prostate.",
+    "First priority in acute retention is bladder decompression by catheter. Then treat the cause.",
+    "Try natural voiding first: usual position, privacy, time, running water, warm bedpan, prompt help.",
+    "Expected urine output is about 0.5 mL/kg/hr. Low output with a full bladder means retention."
+   ],
    "keyTerms": [
     {
      "term": "Urinary retention",
-     "def": "Inability to empty the bladder, either completely (acute) or partially (chronic)."
+     "def": "Being unable to empty the bladder, either completely (acute) or partly (chronic)."
     },
     {
      "term": "Acute retention",
-     "def": "Sudden, painful inability to void despite a full bladder. A medical emergency."
+     "def": "A sudden, painful inability to void even though the bladder is full. A medical emergency."
     },
     {
      "term": "Chronic retention",
-     "def": "The client can urinate but can't fully empty the bladder. It is usually painless."
+     "def": "The client can urinate but cannot fully empty the bladder. It is usually painless."
     },
     {
      "term": "Post-void residual (PVR)",
-     "def": "The amount of urine left in the bladder right after the client voids, measured by bladder scan or catheter."
+     "def": "The urine left in the bladder right after the client voids. It is measured by bladder scan or catheter."
     },
     {
      "term": "Bladder scan",
-     "def": "A noninvasive, handheld ultrasound that estimates how much urine is in the bladder."
+     "def": "A handheld ultrasound that estimates how much urine is in the bladder. It does not enter the body."
     },
     {
      "term": "Bladder decompression",
-     "def": "Draining an overfull bladder, usually by catheterization."
+     "def": "Draining an overfull bladder, usually with a catheter."
+    },
+    {
+     "term": "Percussion",
+     "def": "Tapping on the body to hear the sound underneath. A full bladder sounds dull, not hollow."
     },
     {
      "term": "Credé maneuver",
-     "def": "Applying firm, downward manual pressure over the lower abdomen (above the pubic bone) to help push urine out of the bladder."
+     "def": "Pressing firmly downward over the lower belly, above the pubic bone, to help push urine out."
     },
     {
      "term": "Suprapubic catheter",
-     "def": "A catheter inserted through the abdominal wall above the pubic bone directly into the bladder."
+     "def": "A catheter placed through the belly wall above the pubic bone straight into the bladder."
     },
     {
      "term": "Detrusor tone",
      "def": "The strength of the bladder's muscle wall. Poor tone means a weak squeeze that can't empty the bladder."
     },
     {
-     "term": "Cholinergic medication",
-     "def": "A drug that stimulates bladder contraction to promote urination (e.g., bethanechol [Urecholine])."
+     "term": "Cholinergic medicine",
+     "def": "A drug that makes the bladder squeeze to promote voiding. Example: bethanechol (Urecholine)."
+    },
+    {
+     "term": "Vesicoureteral reflux",
+     "def": "Urine flowing backward from the bladder up toward the kidneys."
     }
    ],
    "sections": [
     {
-     "heading": "Acute vs. chronic retention",
-     "body": "<p>Your slides split retention into two forms, and the difference is critical:</p><p><strong>Acute retention</strong> is a <strong>sudden, painful inability to void despite a full bladder</strong>. The client desperately needs to go and can't. Your slides label this a <strong>medical emergency</strong>. The bladder can overstretch and be injured, the pain is severe, and pressure can back up to the kidneys.</p><p><strong>Chronic retention</strong> means the client <strong>can urinate but is unable to fully empty</strong> the bladder. It develops slowly and is often painless, so it is easy to miss. The leftover urine sits and becomes a breeding ground for bacteria.</p>",
+     "heading": "Acute vs. chronic: which kind is it?",
+     "keyIdea": "Acute retention is sudden, painful, and an emergency; chronic retention is painless and easy to miss.",
+     "body": "<p><b>Acute retention</b> is a sudden, painful inability to void even though the bladder is full. The client badly needs to go and can't. Your slides call this a <b>medical emergency</b>. The bladder can overstretch and be injured, pain is severe, and pressure can back up to the kidneys.</p><p><b>Chronic retention</b> means the client can urinate but can't fully empty. It develops slowly and is often painless. The leftover urine sits still and grows bacteria.</p>",
      "table": {
-      "caption": "Manifestations of urinary retention (from the slides)",
       "headers": [
-       "Acute",
-       "Chronic"
+       "Acute retention",
+       "Chronic retention"
       ],
       "rows": [
        [
@@ -621,40 +787,60 @@ window.NURSE_DATA.push({
        ],
        [
         "Firm, distended bladder",
-        "Difficulty starting or maintaining the stream"
+        "Hard to start or keep the stream going"
        ],
        [
         "Dullness on percussion over the bladder",
         "Weak flow"
        ],
        [
-        "",
-        "Frequency (voids small amounts often)"
-       ],
-       [
-        "",
-        "Urgency after voiding (still feels full)"
+        "Emergency: decompress the bladder",
+        "Frequency (small amounts often) and urgency after voiding"
        ]
       ]
      },
-     "analogy": "Acute retention is like a water balloon filled to bursting with the knot tied shut: tense, painful, urgent. Chronic retention is like a bathtub drain that only half works. Some water goes down, but there is always a puddle left at the bottom, and that puddle gets stale.",
+     "analogy": "Acute retention is a water balloon filled to bursting with the knot tied shut. Chronic retention is a bathtub drain that only half works. Some water goes down, but a puddle always stays at the bottom and gets stale.",
      "check": {
-      "q": "A man voids 50 mL every 30 minutes, says he \"never feels empty,\" and has a weak stream but no pain. Acute or chronic retention?",
-      "a": "Chronic retention: he can void, but he doesn't empty fully (frequency, weak flow, urgency after voiding, painless)."
+      "q": "A man voids 50 mL every 30 minutes, says he 'never feels empty,' and has a weak stream but no pain. Acute or chronic?",
+      "a": "Chronic retention. He can void but doesn't empty fully: frequency, weak flow, urgency after voiding, and no pain."
      }
     },
     {
-     "heading": "Assessing the bladder at the bedside",
-     "body": "<p>A normal, recently emptied bladder sits low in the pelvis and can't be felt. A retained bladder rises above the pubic bone. When you <strong>palpate</strong> the lower abdomen, you feel a <strong>firm, rounded, distended</strong> mass, and the client may wince. When you <strong>percuss</strong> (tap) over it, you hear <strong>dullness</strong>, the flat sound of fluid, instead of the hollow sound of air-filled bowel.</p><p>The concept slides list two tools that confirm retention: the <strong>ultrasonic bladder scan</strong> and the <strong>post-void residual (PVR)</strong>. Ask the client to void, then scan right away. A healthy bladder leaves very little behind (often under about 50 mL). A large residual means the bladder isn't emptying, so follow your facility's threshold for when to catheterize or call the provider.</p><p>Sometimes the provider orders a <strong>24-hour urine collection</strong> (for example, the urine creatinine clearance test on the concept slides). To start it, have the client void, <strong>discard that first void</strong>, and note the time. That urine was made before the test period began. Then save every void for the next 24 hours, ending with a final void at the same clock time. Keep the container cold or on ice per lab instructions. If a void is accidentally thrown away, the collection usually has to be restarted.</p><p>Also compare intake with output. A client who has been drinking and receiving IV fluids but has voided little or nothing for many hours needs a bladder assessment. The concept slides give the expected urine output as <strong>0.5 mL/kg/hr</strong> (about 30 mL/hr on average), so a 70-kg adult should make roughly 35 mL/hr, or about 280 mL over an 8-hour shift. Low output with a distended bladder points to retention, because the urine is being made but not released. If a client with an <strong>indwelling catheter</strong> suddenly has no drainage and lower-abdominal discomfort, check the simple things first: a <strong>kinked or compressed tube</strong>, or a bag that is not hanging <strong>below the bladder</strong>.</p>",
-     "example": "<strong>At the bedside:</strong> Mr. W had knee surgery under spinal anesthesia this morning. Eight hours later he hasn't voided despite 1,500 mL of IV fluid, and he is restless and uncomfortable. His lower abdomen is firm and dull to percussion above the pubis. The nurse performs a bladder scan, which shows a large volume. This is acute retention after anesthesia, so the nurse notifies the provider and anticipates an order to catheterize (bladder decompression)."
+     "heading": "How do you assess the bladder?",
+     "keyIdea": "Feel for a firm bladder above the pubic bone, tap for dullness, and confirm the amount with a bladder scan.",
+     "body": "<p>An empty bladder sits low in the pelvis and can't be felt. A full one rises above the pubic bone. Use these steps.</p><p>If a client with an indwelling catheter has no drainage and lower belly discomfort, check the simple things first. Look for a kinked or squeezed tube, or a bag that is not hanging below the bladder.</p>",
+     "bullets": [
+      "<b>Palpate</b> (feel) the lower belly. A full bladder feels firm, round, and distended. The client may wince.",
+      "<b>Percuss</b> (tap) over it. You hear <b>dullness</b>, the flat sound of fluid, instead of the hollow sound of bowel.",
+      "<b>Bladder scan:</b> a handheld ultrasound that estimates the volume.",
+      "<b>Post-void residual (PVR):</b> have the client void, then scan right away. A healthy bladder leaves very little, often under about 50 mL.",
+      "A large residual means the bladder is not emptying. Follow your facility's threshold for when to catheterize or call the provider."
+     ],
+     "example": "Mr. W had knee surgery under spinal anesthesia this morning. Eight hours later he has not voided despite 1,500 mL of IV fluid. He is restless. His lower belly is firm and dull above the pubic bone. The nurse does a bladder scan, which shows a large volume. This is acute retention after anesthesia. The nurse notifies the provider and expects an order to catheterize."
     },
     {
-     "heading": "Risk factors: why the bladder stops emptying",
-     "body": "<p>Your slides list these risk factors. Group them by mechanism. The <strong>signal</strong> to the bladder fails, the <strong>muscle</strong> is too weak to squeeze, or the <strong>outlet</strong> is blocked.</p>",
+     "heading": "Output, I&O, and the 24-hour urine",
+     "keyIdea": "Compare output with the expected 0.5 mL/kg/hr; low output plus a full bladder means urine is made but not released.",
+     "body": "<p>Always compare intake with output. A client who is drinking or getting IV fluids but voiding little needs a bladder check.</p><p>The concept slides give expected output as <b>0.5 mL/kg/hr</b>, about 30 mL/hr on average. A 70-kg adult should make about 35 mL/hr, or about 280 mL over 8 hours. Low output with a large residual is retention, not kidney failure. The kidneys are making urine. It just isn't getting out.</p><p>Assistive personnel can measure and record output. Bladder assessment, teaching, and decisions about catheterizing stay with the RN.</p><p>Sometimes the provider orders a <b>24-hour urine</b>, such as a creatinine clearance test. Follow these steps.</p>",
+     "steps": [
+      "Have the client void, <b>discard</b> that first urine, and note the time. It was made before the test began.",
+      "Save every void for the next 24 hours.",
+      "End with a final void at the same clock time, and save it.",
+      "Keep the container cold or on ice per lab instructions.",
+      "If any void is thrown away, notify the lab and restart the collection."
+     ],
+     "check": {
+      "q": "A 60-kg client voided 90 mL in 8 hours. Is that enough?",
+      "a": "No. Expected is 0.5 mL/kg/hr, or 30 mL/hr, so about 240 mL in 8 hours. Assess the bladder. A full bladder points to retention."
+     }
+    },
+    {
+     "heading": "Why does the bladder stop emptying?",
+     "keyIdea": "Retention happens when the nerve signal fails, the bladder muscle is too weak, or the outlet is blocked.",
+     "body": "<p>Group the slide risk factors by how they work. Then you can reason through any new drug or condition.</p>",
      "table": {
-      "caption": "Retention risk factors grouped by cause",
       "headers": [
-       "Mechanism",
+       "How it works",
        "Slide risk factors",
        "Why"
       ],
@@ -662,110 +848,187 @@ window.NURSE_DATA.push({
        [
         "Nerve signal disrupted",
         "Anesthesia; brain or spinal cord trauma",
-        "Anesthesia blocks the sensation of fullness and the reflex to void; injury cuts the brain–bladder pathway."
+        "Anesthesia blocks the feeling of fullness and the urge to void. Injury cuts the brain–bladder pathway."
        ],
        [
-        "Medications that relax the bladder",
-        "<strong>Anticholinergics, antihistamines</strong>",
-        "They block acetylcholine, the signal that makes the detrusor contract, so the bladder holds on to urine (e.g., diphenhydramine)."
+        "Medicines that relax the bladder",
+        "Anticholinergics; antihistamines (such as diphenhydramine)",
+        "They block acetylcholine, the signal that makes the detrusor squeeze."
        ],
        [
         "Weak squeeze",
         "Poor detrusor muscle tone",
-        "The bladder can't generate enough pressure to empty."
+        "The bladder can't make enough pressure to empty."
        ],
        [
         "Outlet blocked or pressed on",
-        "<strong>Enlarged prostate</strong>; kidney stones; constipation",
-        "The prostate squeezes the urethra; stones obstruct flow; a full rectum presses on the bladder neck."
+        "Enlarged prostate; kidney stones; constipation",
+        "The prostate squeezes the urethra. Stones block flow. A full rectum presses on the bladder neck."
        ],
        [
         "Infection and scarring",
         "Repeated UTIs",
-        "Inflammation and scarring interfere with normal emptying, and leftover urine invites more infection."
+        "Swelling and scars interfere with emptying, and leftover urine invites more infection."
        ]
       ]
      },
      "bullets": [
-      "<strong>Tip:</strong> Remember the anticholinergic link from incontinence. The same drug that calms an overactive bladder (oxybutynin) can cause retention, especially in older men with an enlarged prostate.",
-      "Constipation shows up on BOTH the urinary retention list and the impaction slide (\"causes urinary retention\"). Hard stool in the rectum presses on the urethra."
+      "The same drug that calms an overactive bladder (oxybutynin) can cause retention, especially in older men with BPH.",
+      "A man with an enlarged prostate should avoid antihistamines and other anticholinergic drugs.",
+      "A fecal impaction can cause retention. Check the bowels when a client can't empty the bladder."
      ],
      "check": {
-      "q": "An older man with BPH took an over-the-counter antihistamine for a cold and now can't void. Explain why.",
-      "a": "Antihistamines have anticholinergic effects that weaken detrusor contraction, and his enlarged prostate already narrows the outlet. Together they tipped him into acute retention."
+      "q": "An older man with BPH took an over-the-counter antihistamine for a cold and now can't void. Why?",
+      "a": "Antihistamines have anticholinergic effects that weaken the bladder squeeze. His prostate already narrows the outlet. Together they caused acute retention."
      }
     },
     {
-     "heading": "Management: relieve the pressure, then fix the cause",
-     "body": "<p>Your slides list the management options. The first priority is <strong>bladder decompression by catheterization</strong>, draining the urine to relieve pain and protect the bladder and kidneys. Then the team treats the cause:</p>",
+     "heading": "How is retention treated?",
+     "keyIdea": "First relieve the pressure by draining the bladder, then fix whatever caused the retention.",
+     "body": "<p>In acute retention, the first priority is <b>bladder decompression by catheter</b>. Draining the urine relieves pain and protects the bladder and kidneys. Then the team treats the cause.</p><p>The concept slides also list a <b>cholinergic</b> drug, <b>bethanechol (Urecholine)</b>. It makes the detrusor squeeze to promote voiding. It is for a weak bladder with an open outlet, not a blockage. It is working when the client voids well with a small residual. It can raise liver and pancreatic enzyme levels, so report rising values. Think of it as the opposite of an anticholinergic.</p>",
      "bullets": [
-      "<strong>Antibiotics</strong> when a UTI is present.",
-      "<strong>Resection of the prostate</strong> (e.g., TURP) for an obstructing enlarged prostate.",
-      "<strong>Removal of calculi</strong> (stones) that block the outflow.",
-      "<strong>Correction of a cystocele or rectocele</strong>, where a sagging bladder or rectum kinks the outflow.",
-      "<strong>Suprapubic catheter</strong> for long-term drainage when the urethra can't be used."
-     ],
-     "example": "<strong>At the bedside:</strong> The concept slides also list a <strong>cholinergic</strong> medication, bethanechol (<strong>Urecholine</strong>), which <strong>promotes urination</strong> by stimulating the detrusor to contract. It is used for retention when there is no blockage. The slides note it can raise liver and pancreatic enzyme levels. Think of it as the opposite of an anticholinergic."
+      "<b>Antibiotics</b> when a UTI is present.",
+      "<b>Resection of the prostate</b> (such as TURP) for a blocking enlarged prostate.",
+      "<b>Removal of calculi</b> (stones) that block the outflow.",
+      "<b>Repair of a cystocele or rectocele</b>, where a sagging bladder or rectum kinks the outflow.",
+      "<b>Suprapubic catheter</b> for long-term drainage when the urethra can't be used."
+     ]
     },
     {
-     "heading": "Promoting normal voiding habits (Box 5.6)",
-     "body": "<p>Before anyone reaches for a catheter, the nurse tries to help the body void naturally. Your slides frame the goal as <strong>promoting independence to the greatest degree possible</strong> and <strong>promoting normal toileting</strong>. The four parts of Box 5.6 are positioning, relaxation, timing, and care for the bed-confined client.</p><p><strong>Positioning:</strong> Help the client into their <strong>typical voiding position</strong>, which also raises <strong>intra-abdominal pressure</strong> to help push urine out. For most women that is sitting or squatting; many men void best standing. Help a man stand at the bedside with a urinal if it is safe and allowed.</p><p><strong>Relaxation:</strong> The urinary sphincter has to relax to let urine out, and anxiety tightens it. Provide <strong>privacy</strong> (close the door and curtain, step out if safe), allow <strong>sufficient time</strong> without rushing, and use <strong>sensory stimuli</strong> such as running water in the sink, pouring warm water over the perineum, or placing the client's hand in warm water.</p><p><strong>Timing:</strong> <strong>Prevent delays with assistance.</strong> Answer call lights promptly and offer toileting regularly. A client who has to \"hold it\" too long, waiting for help, can overstretch the bladder and lose the urge.</p><p><strong>Bed-confined clients:</strong> Use a <strong>warm bedpan</strong> (a cold one makes muscles tense), and place the client in an <strong>upright position with the hips and knees flexed</strong>, as close to a natural sitting posture as allowed.</p>",
+     "heading": "How do you help a client void naturally?",
+     "keyIdea": "Use the client's usual position, privacy, time, and gentle cues before anyone reaches for a catheter.",
+     "body": "<p>Your slides (Box 5.6) aim to promote independence and normal toileting. The sphincter must relax to let urine out, and anxiety tightens it. So comfort and privacy really matter.</p><p>A client who has to 'hold it' while waiting for help can overstretch the bladder and lose the urge. Answer call lights promptly and offer toileting regularly.</p>",
+     "bullets": [
+      "<b>Position:</b> help the client into their usual voiding position. This also raises belly pressure to push urine out. Most women sit or squat. Many men void best standing, so help a man stand with a urinal if it is safe and allowed.",
+      "<b>Relaxation:</b> give privacy (close the door and curtain) and enough time without rushing.",
+      "<b>Sensory cues:</b> run water in the sink, pour warm water over the perineum, or place the client's hand in warm water.",
+      "<b>Timing:</b> prevent delays by giving help quickly.",
+      "<b>Bed-bound client:</b> use a <b>warm bedpan</b> (cold makes muscles tense). Sit the client upright with <b>hips and knees flexed</b>."
+     ],
      "check": {
-      "q": "A post-op client on bed rest says, \"I just can't go in this bedpan.\" List three things you can try before considering a catheter.",
-      "a": "Any three: warm the bedpan; raise the head of the bed so she sits upright with hips and knees flexed; provide privacy and time; run water or pour warm water over the perineum; check orders to see if she may use a bedside commode."
+      "q": "A post-op client on bed rest says, 'I just can't go in this bedpan.' Name three things to try before a catheter.",
+      "a": "Any three: warm the bedpan; raise the head of the bed with hips and knees flexed; give privacy and time; run water or pour warm water over the perineum; check if a bedside commode is allowed."
      }
     },
     {
-     "heading": "Reducing retention: Credé, catheters, skin, and UTI prevention",
-     "body": "<p>Your slides list several nursing actions to reduce retention and its complications:</p><p><strong>Bladder decompression with the Credé maneuver.</strong> The client (or nurse) presses firmly downward over the bladder, just above the pubic bone, to help push urine out. It is used for clients who can't empty well, such as those with a neurogenic bladder. Use it only when it is part of the plan of care for that client. It is not used when the outlet is blocked or urine can flow backward toward the kidneys (vesicoureteral reflux), because pressing on a bladder that can't drain forward pushes urine up toward the kidneys.</p><p><strong>Indwelling catheter education.</strong> When a client goes home with a catheter, teach them to keep the drainage bag <strong>below the level of the bladder</strong>, keep the tubing free of kinks, secure the catheter to the thigh, clean the area around the catheter daily, wash hands before handling it, drink enough fluids, and report fever, cloudy or foul urine, or no drainage.</p><p><strong>Maintain skin integrity.</strong> Your slides note that <strong>urine breaks down into ammonia</strong>. Ammonia is alkaline and irritating, so urine left on the skin causes redness, rash, and breakdown. Clients who dribble (chronic or overflow retention) need prompt cleansing, thorough drying, and a moisture barrier.</p><p><strong>Reduce the risk of UTI.</strong> Retained urine and catheters are the two biggest UTI risks in this group. Ensure complete emptying, encourage fluids unless restricted, perform perineal care, use aseptic technique with catheters, and remove catheters as soon as they are no longer needed.</p><p><strong>Education</strong> ties it all together. Teach the client and family the warning signs of retention, how to avoid triggering medications like OTC antihistamines when they have BPH, and how to manage any device.</p>",
-     "analogy": "Urine left on skin is like leaving a wet diaper on a baby: as it sits, it turns to ammonia, and that harsh smell is the same chemical that burns and breaks down the skin."
+     "heading": "Credé, catheters, skin, and UTI prevention",
+     "keyIdea": "Use Credé only when ordered for an open outlet, teach catheter care, keep skin dry, and prevent infection.",
+     "body": "<p>The <b>Credé maneuver</b> means pressing firmly down over the bladder, just above the pubic bone, to push urine out. It is for a weak bladder with an open outlet, such as a neurogenic bladder. Use it only when it is in the care plan.</p><p>Never use it when the outlet is blocked or urine flows backward toward the kidneys. Pressing on a bladder that can't drain forward pushes urine up to the kidneys.</p><p><b>Skin:</b> urine breaks down into <b>ammonia</b>, which irritates skin. Clients who dribble need prompt cleansing, drying, and a moisture barrier.</p><p><b>UTI prevention:</b> retained urine and catheters are the two biggest risks. Ensure full emptying, encourage fluids unless restricted, give perineal care, use aseptic technique, and remove catheters as soon as possible.</p>",
+     "bullets": [
+      "Home catheter teaching: keep the bag below the bladder.",
+      "Keep the tubing free of kinks, and secure the catheter to the thigh.",
+      "Wash hands before handling it, and clean around the catheter daily.",
+      "Drink enough fluids.",
+      "Report fever, cloudy or foul urine, flank pain, or no drainage."
+     ],
+     "analogy": "Urine left on skin is like a wet diaper left on a baby. As it sits, it turns to ammonia. That harsh smell is the same chemical that burns the skin."
     },
     {
-     "heading": "Lifespan considerations for retention",
-     "body": "<p><strong>Children:</strong> Your slides list <strong>physical or congenital deformities</strong> of the urinary tract and <strong>circumcision or genital mutilation</strong>, which can cause <strong>infection and scarring</strong> that narrows the outlet. A child who strains to void, has a weak stream, or keeps getting UTIs needs evaluation.</p><p><strong>Pregnancy and childbirth:</strong> Risk factors include <strong>cesarean delivery</strong> (anesthesia and catheter use), <strong>birth trauma</strong> (swelling and bruising around the urethra), and <strong>urogynecology surgery</strong>. The concept slides add that the <strong>postpartum</strong> client is at risk for overdistention, incomplete emptying, and residual urine, and that urine output rises in the early postpartum period. A full bladder after delivery can also push the uterus up and to the side, so check postpartum clients for bladder distention and help them void early and often.</p><p><strong>Older adults:</strong> The concept slides note that the aging bladder is more fibrous, with decreased capacity and an <strong>increase in residual urine</strong>. Older men with an enlarged prostate are especially at risk.</p>",
-     "example": "<strong>At the bedside:</strong> Six hours after a vaginal birth with a large tear, a new mother has not voided. Her fundus is high and pushed to the right of the midline, and her lower abdomen bulges. The nurse helps her to the toilet, runs water, and pours warm water over the perineum. If she still can't void, the nurse performs a bladder scan and catheterizes per protocol."
+     "heading": "Retention across the lifespan",
+     "keyIdea": "Watch children with weak streams, check every postpartum bladder, and expect more leftover urine in older adults.",
+     "body": "<p><b>Children:</b> your slides list physical or congenital deformities of the urinary tract, and circumcision or genital mutilation. These can cause infection and scarring that narrows the outlet. A child who strains, has a weak stream, or keeps getting UTIs needs evaluation.</p><p><b>Pregnancy and birth:</b> risks include cesarean delivery (anesthesia and catheter use), birth trauma (swelling around the urethra), and urogynecology surgery. Postpartum clients are at risk for overdistention and residual urine, and urine output rises early after birth. A full bladder pushes the uterus up and to one side. Help postpartum clients void early and often.</p><p><b>Older adults:</b> the aging bladder is more fibrous. It holds less and leaves more residual urine. Older men with an enlarged prostate are at highest risk.</p>",
+     "example": "Six hours after a vaginal birth with a large tear, a new mother has not voided. Her fundus sits high and to the right of the midline. Her lower belly bulges. The nurse helps her to the toilet, runs water, and pours warm water over the perineum. If she still can't void, the nurse does a bladder scan and catheterizes per protocol."
+    },
+    {
+     "heading": "Common traps",
+     "keyIdea": "Retention often looks like something else, so check the bladder before you treat the behavior or the wetness.",
+     "body": "<p>These look-alikes are common on exams.</p>",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Low output: retention vs. kidney failure",
+        "Retention has a full bladder and a large residual. The urine is made but not released."
+       ],
+       [
+        "Restless post-op client: pain or anxiety vs. full bladder",
+        "High intake, little output, and a firm lower belly mean check the bladder first."
+       ],
+       [
+        "Dribbling: incontinence vs. overflow",
+        "Constant dribbling with a palpable bladder is retention with overflow until proven otherwise."
+       ],
+       [
+        "Bethanechol vs. oxybutynin",
+        "Bethanechol makes the bladder squeeze (retention). Oxybutynin calms it (urge UI) and can cause retention."
+       ],
+       [
+        "Credé: open outlet vs. blocked outlet",
+        "Credé helps a weak bladder with an open outlet. Never use it for a blockage or reflux."
+       ],
+       [
+        "Catheter not draining: retention vs. tube problem",
+        "Check for kinks and bag position first."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect priority questions where acute retention outranks stable problems, plus assessment and teaching items.",
+     "body": "<p>Common patterns: pick the client to see first, spot retention from cues, choose natural voiding steps, and delegate safely. Acute, painful retention outranks chronic retention and stable output.</p><p><b>Sample:</b> Which client should the nurse see first? (A) A man with BPH who has a weak stream and voids often. (B) A client who has not voided for 10 hours and has severe lower belly pain. (C) A client with an indwelling catheter draining clear yellow urine. (D) A postpartum client who voided 400 mL an hour ago.</p>",
+     "steps": [
+      "Read the stem: four clients with bladder issues; choose who needs the nurse first.",
+      "What is it really asking? Which client is unstable or at risk of harm now?",
+      "Key cues: 10 hours with no voiding plus severe pain means acute retention, an emergency.",
+      "Why the others are wrong: A is chronic retention and stable. C is draining normally. D has voided a good amount.",
+      "The answer is B. Assess with a bladder scan and prepare for decompression.",
+      "Reusable strategy: sudden, painful, and 'can't' beat slow, painless, and 'can.'"
+     ]
+    },
+    {
+     "heading": "Worked case: the restless hip patient",
+     "keyIdea": "When a post-op client is restless, check the bladder before you treat the behavior.",
+     "body": "<p>Mrs. E, 79, is 10 hours out from hip surgery with spinal anesthesia. She got 1,800 mL IV and has voided 60 mL. She is restless and keeps pulling at her gown. She takes oxybutynin at home. Her lower belly is firm.</p>",
+     "steps": [
+      "Recognize cues: anesthesia, an anticholinergic, high intake, very low output, restlessness, and a firm lower belly.",
+      "Analyze: three retention risks plus signs of a full bladder. Restlessness may be bladder pain.",
+      "Assess: palpate, percuss for dullness, and do a bladder scan.",
+      "Act: notify the provider and expect an order to catheterize (decompress).",
+      "Try natural steps if time allows: privacy, a warm bedpan, upright with hips and knees flexed, running water.",
+      "Evaluate: after draining, she is calm, and her bladder is soft and not distended."
+     ],
+     "check": {
+      "q": "Should the nurse give Mrs. E a PRN sedative for restlessness first?",
+      "a": "No. Assess the bladder first. Her restlessness is likely from a full bladder, and a sedative would hide the cue and could worsen retention."
+     }
     }
    ],
    "pearls": [
-    "Acute retention (sudden, painful, full bladder, can't void) is a medical emergency. Decompress the bladder.",
+    "Acute retention (sudden, painful, full bladder, can't void) is an emergency. Decompress the bladder.",
     "Chronic retention is sneaky: painless, weak stream, frequency, and still feels full after voiding.",
-    "Anticholinergics and antihistamines cause retention, so check the med list of any client who suddenly can't void.",
-    "Palpate for a firm bladder above the pubis and percuss for dullness, then confirm with a bladder scan.",
-    "Try natural methods first: privacy, time, normal position, warm bedpan, running water, warm water over the perineum."
+    "Anticholinergics and antihistamines cause retention. Check the med list of any client who suddenly can't void.",
+    "Palpate for a firm bladder, percuss for dullness, then confirm with a bladder scan.",
+    "Try natural methods first: privacy, time, usual position, warm bedpan, running water, warm water over the perineum."
    ],
    "redFlags": [
-    "Sudden, painful inability to void with a firm, distended bladder → acute retention, a medical emergency; scan the bladder, notify the provider, and prepare to catheterize.",
-    "A post-op or postpartum client with no voiding for many hours, restlessness, and a distended bladder → don't wait for the shift change; assess and act on retention now.",
-    "A client with an indwelling catheter who develops fever, cloudy foul urine, or flank pain → suspect a catheter-associated UTI and report it promptly."
-   ],
-   "recap": [
-    "Retention = inability to empty the bladder. Acute = sudden, painful, emergency. Chronic = voids but doesn't fully empty.",
-    "Risks: anesthesia, brain or spinal cord trauma, anticholinergics, antihistamines, constipation, repeated UTIs, kidney stones, poor detrusor tone, enlarged prostate.",
-    "Acute signs: firm, distended bladder, dullness on percussion. Chronic: painless, hard to start, weak flow, frequency, urgency after voiding.",
-    "Management: catheter decompression; antibiotics; prostate resection; stone removal; cystocele or rectocele repair; suprapubic catheter.",
-    "Normal voiding (Box 5.6): typical position, privacy, time, sensory cues, prompt help, warm bedpan with the client upright and hips and knees flexed.",
-    "Credé maneuver, catheter teaching, skin care (urine → ammonia), and UTI prevention."
+    "Sudden, painful inability to void with a firm, distended bladder: acute retention. Scan, notify the provider, and prepare to catheterize.",
+    "A post-op or postpartum client with no voiding for hours, restlessness, and a full bladder: act now. Do not wait for shift change.",
+    "A client with a catheter who has fever, cloudy foul urine, or flank pain: suspect a catheter-associated UTI and report it promptly."
    ],
    "checks": [
     {
-     "q": "Why is acute urinary retention considered a medical emergency?",
-     "a": "The bladder is full and the client can't void. It causes severe pain, can overstretch and damage the bladder, and pressure can back up to the kidneys. The bladder must be decompressed promptly."
+     "q": "Why is acute urinary retention a medical emergency?",
+     "a": "The bladder is full and the client can't void. It causes severe pain, can overstretch and damage the bladder, and pressure can back up to the kidneys. It must be decompressed promptly."
     },
     {
-     "q": "What percussion finding over the lower abdomen suggests retention?",
-     "a": "Dullness above the pubic bone, the flat sound of a fluid-filled, distended bladder."
+     "q": "What percussion finding suggests retention?",
+     "a": "Dullness above the pubic bone, the flat sound of a fluid-filled bladder."
     },
     {
-     "q": "Name two medication classes from the slides that increase the risk of urinary retention.",
+     "q": "Name two medicine classes on the slides that raise retention risk.",
      "a": "Anticholinergics and antihistamines."
     },
     {
      "q": "Why does the nurse cleanse and protect the skin of a client who dribbles urine?",
-     "a": "Urine breaks down into ammonia, which irritates and breaks down the skin. Prompt cleansing, drying, and a moisture barrier maintain skin integrity."
+     "a": "Urine breaks down into ammonia, which irritates and breaks down skin. Prompt cleansing, drying, and a barrier protect it."
     },
     {
-     "q": "A male client says he can't void lying in bed. He is allowed to stand. What is the best first step?",
-     "a": "Help him stand at the bedside with a urinal (his typical position raises intra-abdominal pressure), and give privacy and time before considering a catheter."
+     "q": "A male client can't void lying in bed. He is allowed to stand. What is the best first step?",
+     "a": "Help him stand at the bedside with a urinal, and give privacy and time. His usual position raises belly pressure to help him void."
     }
    ]
   },
@@ -773,35 +1036,50 @@ window.NURSE_DATA.push({
    "id": "constipation-impaction",
    "title": "Constipation & Fecal Impaction",
    "exemplar": "Bowel Incontinence, Constipation & Impaction",
-   "summary": "Constipation is infrequent or difficult passage of dry, hard stool. Left alone, the stool keeps losing water until it forms a concrete-hard impaction that can ulcerate or perforate the bowel, cause urinary retention, and leak liquid stool around itself. Fiber, fluid, activity, good habits, and careful laxative use prevent and treat it, with special considerations for children, pregnancy, and older adults.",
+   "summary": "Constipation is infrequent or hard-to-pass stool. Left alone, stool can harden into an impaction. Fiber, fluid, activity, routine, and careful laxative use prevent and treat it.",
    "objectives": [
-    "After this lesson you can define constipation, explain why slow stool movement makes stool hard, and describe how constipation progresses to fecal impaction.",
-    "List the slide risk factors (including opioids, iron, antihistamines, antacids, and antidepressants) and the prevention measures.",
-    "Recognize the manifestations of constipation, the Rome IV criteria for chronic constipation, and the classic signs of impaction, including liquid stool seeping around it.",
-    "Describe collaborative therapy: fiber goals (25 g female, 38 g male), fluids, behavior management, manual removal with vasovagal precautions, laxatives, and enemas (Miralax, milk and molasses, SMOG).",
-    "Apply lifespan considerations: pediatric constipation criteria, encopresis, pregnancy, and older adults."
+    "You can explain why slow-moving stool gets hard and how constipation becomes an impaction.",
+    "You can name the risk factors, including the five constipating medicine groups.",
+    "You can recognize constipation, the Rome IV criteria, and the classic signs of impaction.",
+    "You can teach fiber, fluid, and bowel routine, and remove an impaction safely.",
+    "You can use laxatives and enemas safely and know when not to use them.",
+    "You can apply lifespan points for children, pregnancy, and older adults."
    ],
-   "bigPicture": "<p>Everyone has been constipated at some point, so it is easy to shrug it off. In nursing it is anything but minor. Constipation is common in hospitalized, immobile, older, and opioid-treated clients, and it can progress to a <strong>fecal impaction</strong>, a mass of stool so hard and stuck that it can damage the bowel wall.</p><p>The key idea is <strong>time</strong>. The colon's job is to absorb water from stool. The longer stool sits, the more water is pulled out and the harder and drier it gets. Almost everything in this lesson is about either keeping stool moving or getting stuck stool out safely.</p>",
+   "bigPicture": "<p>Everyone gets constipated sometimes, so it is easy to shrug off. In nursing it is not minor. It is common in clients who are in the hospital, immobile, older, or taking opioids. It can turn into a <b>fecal impaction</b>, a mass of stool so hard and stuck that it can damage the bowel wall.</p><p>The key idea is <b>time</b>. The colon's job is to absorb water from stool. The longer stool sits, the more water is pulled out, and the harder and drier it gets. Almost everything in this lesson is about keeping stool moving or getting stuck stool out safely.</p>",
+   "recap": [
+    "Constipation = fewer than 3 BMs per week or hard-to-pass stool. Slow transit lets more water be absorbed, so stool gets hard.",
+    "Impaction = a hard mass in the rectum or colon. It can cause ulceration, perforation, poor blood flow, and urinary retention.",
+    "Constipating medicines: opioids, iron, antihistamines, antacids, and antidepressants.",
+    "Liquid, foul-smelling seepage with no formed stool in a constipated client = impaction until proven otherwise. No antidiarrheal.",
+    "Fiber goal: 25 g/day for women, 38 g/day for men, always with enough fluid.",
+    "During manual removal, watch for a vasovagal response (slow pulse, low BP, fainting). Stop if it happens.",
+    "Laxatives: avoid long-term use and for simple constipation. Never give them when a blockage is suspected.",
+    "Encopresis in a child: treat the constipation, and always consider abuse."
+   ],
    "keyTerms": [
     {
      "term": "Constipation",
-     "def": "Reduced frequency of bowel movements (fewer than 3 per week) or difficult passage of stool, which is often dry and hard."
+     "def": "Fewer than 3 bowel movements a week, or stool that is hard to pass. Stool is often dry and hard."
     },
     {
      "term": "Fecal impaction",
-     "def": "A mass or collection of hardened stool lodged in the folds of the rectum or colon that the client can't pass."
+     "def": "A mass of hardened stool stuck in the folds of the rectum or colon that the client can't pass."
     },
     {
      "term": "Bezoar",
-     "def": "A hard, compacted mass in the GI tract. Your slides use it to describe impacted stool \"hard as concrete.\""
+     "def": "A hard, packed mass in the GI tract. Your slides use it to describe impacted stool 'hard as concrete.'"
+    },
+    {
+     "term": "Peristalsis",
+     "def": "The wave-like squeezing of the bowel that moves stool along."
     },
     {
      "term": "Rome IV criteria",
-     "def": "Standard criteria used to diagnose chronic constipation based on specific symptoms lasting at least 12 weeks."
+     "def": "Standard symptom criteria used to diagnose chronic constipation."
     },
     {
      "term": "Laxative",
-     "def": "A medication that promotes bowel movements, for example by drawing water into stool or stimulating the bowel."
+     "def": "A medicine that promotes a bowel movement, for example by pulling water into stool or stimulating the bowel."
     },
     {
      "term": "Polyethylene glycol (Miralax)",
@@ -809,11 +1087,11 @@ window.NURSE_DATA.push({
     },
     {
      "term": "SMOG enema",
-     "def": "An enema of saline, mineral oil, and glycerin used for severe constipation or impaction."
+     "def": "An enema of saline, mineral oil, and glycerin for severe constipation or impaction."
     },
     {
      "term": "Milk and molasses enema",
-     "def": "A large-volume enema made of milk and molasses that stimulates evacuation of hard stool."
+     "def": "A large-volume enema of milk and molasses that stimulates the bowel to empty hard stool."
     },
     {
      "term": "Manual removal (disimpaction)",
@@ -821,47 +1099,40 @@ window.NURSE_DATA.push({
     },
     {
      "term": "Vasovagal response",
-     "def": "A reflex from vagus nerve stimulation that slows the heart and drops blood pressure, which can cause dizziness or fainting."
+     "def": "A reflex from vagus nerve stimulation. The heart slows and blood pressure drops, causing dizziness or fainting."
     },
     {
      "term": "Encopresis",
-     "def": "Repeated soiling with stool by a child who should already have bowel control, usually linked to constipation and withholding."
+     "def": "Repeated soiling with stool by a child who should already have bowel control, usually from constipation and withholding."
     },
     {
      "term": "Gastrocolic reflex",
-     "def": "The natural urge to defecate that follows eating, strongest after breakfast."
+     "def": "The natural urge to have a bowel movement after eating, strongest after breakfast."
     }
    ],
    "sections": [
     {
-     "heading": "What constipation is — and why stool gets hard",
-     "body": "<p>Your slides define constipation as <strong>reduced frequency of bowel movements or difficult passage of stools</strong>. The concept slides put a number on it: <strong>fewer than three bowel movements per week</strong>. Features include:</p><p>• <strong>Dry, hard stools</strong>, or <strong>no stool passage</strong> at all<br>• <strong>Increased effort or straining</strong><br>• A feeling of <strong>incomplete evacuation</strong>, as if there is still more to come</p><p>Why does the stool get hard? The colon's main job is to absorb water. Your slides explain that <strong>slow movement of the stool allows for additional fluid absorption</strong>. The longer stool stays, the drier it gets, the harder it is to pass, the more the client avoids or delays passing it, and the cycle continues.</p><p>Remember that \"normal\" varies. Some healthy people go three times a day, others three times a week. Constipation is a <em>change</em> from the client's usual pattern, with fewer or harder stools or straining.</p>",
-     "analogy": "Think of the colon as a long sponge-lined tube. Stool that moves through quickly stays moist. Stool that lingers gets \"wrung out\" over and over until it is as dry and hard as clay left in the sun.",
+     "heading": "What is constipation, and how does impaction form?",
+     "keyIdea": "The longer stool sits in the colon, the more water is pulled out, until it may become a stuck, rock-hard mass.",
+     "body": "<p>Your slides define constipation as <b>fewer bowel movements or difficult passage of stool</b>. The concept slides add a number: <b>fewer than 3 BMs per week</b>. Stool is dry and hard. The client strains and feels they have not fully emptied.</p><p>Why does stool get hard? The colon absorbs water. <b>Slow movement allows more water to be absorbed</b>. Hard stool hurts to pass, so the client delays, and the cycle repeats.</p><p>'Normal' varies from 3 times a day to 3 times a week. Constipation is a change from the client's usual pattern. If it goes on, it can become a <b>fecal impaction</b>. Follow the chain below.</p>",
+     "steps": [
+      "Stool is kept in the colon, and water keeps being removed.",
+      "It hardens into a mass the client can't pass, like a bezoar, 'hard as concrete.'",
+      "Pressure inside the colon rises.",
+      "The pressure can cause ulcers, perforation (a hole), and poor blood flow to the bowel wall.",
+      "The mass presses on the bladder neck and urethra and can cause urinary retention."
+     ],
+     "analogy": "Think of the colon as a long sponge-lined tube. Stool that moves quickly stays moist. Stool that lingers gets wrung out again and again, until it is as hard as clay left in the sun.",
      "check": {
-      "q": "A client says, \"I go every three days, but it's soft and easy.\" Is this constipation?",
-      "a": "Not necessarily. Normal frequency varies from person to person. If this is her usual pattern and stools are soft and easy to pass without straining, it is her normal."
+      "q": "A client says, 'I go every three days, but it's soft and easy.' Is this constipation?",
+      "a": "Not necessarily. Normal varies. If this is her usual pattern and stool passes easily without straining, it is her normal."
      }
     },
     {
-     "heading": "From constipation to impaction: the pathophysiology",
-     "body": "<p>When constipation goes on, it can become a <strong>fecal impaction</strong>. Your slides describe it as a <strong>mass or collection of hardened stool in the folds of the rectum or colon</strong>. Follow the chain:</p>",
-     "steps": [
-      "Stool is retained, and water is continually removed from it.",
-      "The stool hardens into a mass the client can't pass. Your slides compare it to a bezoar, \"stool hard as concrete.\"",
-      "Pressure inside the colon increases.",
-      "The pressure can cause ulceration, perforation, and reduced perfusion (blood flow) of the bowel wall.",
-      "The mass presses on the bladder neck and urethra, causing urinary retention."
-     ],
-     "bullets": [
-      "<strong>Tip:</strong> Connect the systems. A client with a new impaction may also be unable to void. Treating the bowel often fixes the bladder problem.",
-      "Perforation is a surgical emergency. Severe abdominal pain, a rigid abdomen, or fever in a client with impaction must be reported immediately."
-     ]
-    },
-    {
-     "heading": "Risk factors and prevention",
-     "body": "<p>Your slides list these risk factors. Most of them either <strong>slow the gut</strong> or make the client <strong>delay or avoid</strong> going.</p>",
+     "heading": "Who is at risk, and why?",
+     "keyIdea": "Most risk factors either slow the gut or make the client delay going.",
+     "body": "<p>Your slides list these risk factors. Ask yourself whether each one slows the bowel or makes the client ignore the urge.</p>",
      "table": {
-      "caption": "Constipation risk factors from the slides",
       "headers": [
        "Category",
        "Risk factors",
@@ -870,89 +1141,135 @@ window.NURSE_DATA.push({
       "rows": [
        [
         "Activity",
-        "Insufficient activity, immobility",
-        "Movement stimulates peristalsis; bed rest slows the gut."
+        "Too little activity, immobility",
+        "Movement stirs peristalsis. Bed rest slows the gut."
        ],
        [
         "Habits and routine",
-        "Irregular bowel habits, changes in daily routines, lack of privacy",
-        "Ignoring or delaying the urge (busy schedule, shared room, bedpan) lets stool dry out, and the urge fades."
+        "Irregular habits, changes in routine, lack of privacy",
+        "Delaying the urge (busy day, shared room, bedpan) lets stool dry out, and the urge fades."
        ],
        [
         "Overuse of aids",
-        "Chronic use of laxatives or enemas",
-        "The bowel becomes dependent and normal reflexes weaken."
+        "Long-term laxative or enema use",
+        "The bowel becomes dependent, and normal reflexes weaken."
        ],
        [
         "GI conditions",
-        "IBS, pelvic floor dysfunction, poor gastric motility",
-        "The bowel moves stool slowly or can't coordinate expulsion."
+        "IBS, pelvic floor problems, slow gastric movement",
+        "The bowel moves stool slowly or can't coordinate pushing it out."
        ],
        [
         "Population",
         "Older adults, women",
-        "Slower motility, less activity, more medications; hormonal effects."
+        "Slower gut, less activity, more medicines; hormone effects."
        ],
        [
-        "<strong>Medications</strong>",
-        "<strong>Opioids, iron, antihistamines, antacids, antidepressants</strong>",
-        "Opioids and anticholinergic-type drugs slow peristalsis; iron and some antacids harden stool."
+        "Medicines",
+        "Opioids, iron, antihistamines, antacids, antidepressants",
+        "Opioids and anticholinergic-type drugs slow peristalsis. Iron and some antacids harden stool."
        ],
        [
         "Mental health",
         "Anxiety, depression",
-        "They change gut motility and reduce activity, appetite, and self-care."
+        "They change gut movement and lower activity, appetite, and self-care."
        ]
       ]
      },
-     "bullets": [
-      "<strong>Prevention (slide):</strong> <strong>fiber</strong>, <strong>fluids</strong>, <strong>exercise</strong>, <strong>don't ignore the urge</strong>, and <strong>avoid overuse of laxatives</strong>."
-     ],
-     "example": "<strong>At the bedside:</strong> Mr. G, 68, is on day 3 after hip surgery. He takes oxycodone every 4 hours, started ferrous sulfate (iron) for blood loss, has barely left the bed, and shares a room. He hasn't had a BM since admission. Count the risks: opioids, iron, immobility, lack of privacy, and older age. The nurse anticipates a bowel regimen, encourages fluids and fiber, gets him walking as allowed, and offers private, unrushed toileting after breakfast.",
+     "example": "Mr. G, 68, is on day 3 after hip surgery. He takes oxycodone every 4 hours and started iron for blood loss. He has barely left bed, shares a room, and has had no BM since admission. His risks: opioids, iron, immobility, no privacy, and older age. The nurse expects a bowel plan, encourages fluid and fiber, gets him walking, and offers private toileting after breakfast.",
      "check": {
-      "q": "Name the five medication groups on the constipation risk-factor slide.",
+      "q": "Name the five medicine groups on the constipation risk slide.",
       "a": "Opioids, iron, antihistamines, antacids, and antidepressants."
      }
     },
     {
-     "heading": "Clinical manifestations: constipation and Rome IV",
-     "body": "<p>Your slides list the manifestations of <strong>acute or chronic constipation</strong>:</p><p>• BMs less often than normal, <strong>fewer than 3 per week</strong><br>• <strong>Straining</strong> and <strong>hard, dry stools</strong><br>• <strong>Frequent flatus</strong> (gas), <strong>abdominal discomfort</strong>, and <strong>abdominal distention</strong><br>• <strong>Diminished appetite</strong><br>• <strong>Decreased bowel sounds</strong><br>• The person <strong>feels \"ill\"</strong></p><p>One slide point deserves attention: <strong>loose stools are atypical without the use of laxatives</strong>. A constipated client normally doesn't have loose stool. If loose or liquid stool appears in a client who has been constipated and isn't taking laxatives, think <strong>impaction</strong> (see the next section).</p><p>For <strong>chronic constipation</strong>, the slides use the <strong>Rome IV criteria</strong>: <strong>2 or more</strong> of the following, present for <strong>at least 12 weeks</strong>:</p>",
+     "heading": "Constipation or impaction: how can you tell?",
+     "keyIdea": "Liquid, foul-smelling seepage with no formed stool in a constipated client means impaction, not diarrhea.",
+     "body": "<p>A constipated client normally does not have loose stool. Your slides say <b>loose stools are atypical without laxatives</b>. So when liquid appears, think impaction. Liquid stool from higher in the colon <b>seeps around the hard mass</b>.</p><p>This is a classic trap. Staff see liquid stool, call it 'diarrhea,' and give an antidiarrheal. That makes the impaction worse. Instead, ask when the last formed BM was, examine the abdomen, and do a rectal exam per policy.</p><p>For <b>chronic constipation</b>, your slides use the <b>Rome IV criteria</b>. The client needs 2 or more of the Rome IV signs listed after the table. Symptoms must be present for the last 3 months (at least 12 weeks), starting at least 6 months before diagnosis.</p>",
+     "table": {
+      "headers": [
+       "Constipation",
+       "Fecal impaction"
+      ],
+      "rows": [
+       [
+        "BMs less often than normal (fewer than 3 per week)",
+        "Liquid, foul-smelling seepage with no formed stool"
+       ],
+       [
+        "Straining; hard, dry stools",
+        "Rectal pain"
+       ],
+       [
+        "Frequent gas, belly discomfort, and distention",
+        "Repeated urges and straining with nothing passed"
+       ],
+       [
+        "Poor appetite; decreased bowel sounds",
+        "Anorexia (no appetite), distention, and cramping"
+       ],
+       [
+        "The client feels 'ill'",
+        "Nausea and vomiting"
+       ]
+      ]
+     },
      "bullets": [
       "Straining",
       "Lumpy or hard stool",
-      "A sensation of incomplete emptying",
-      "Manual maneuvers needed to pass stool (for example, using a finger to help evacuate)",
+      "A feeling of not fully emptying",
+      "Needing manual help (such as a finger) to pass stool",
       "Fewer than 3 BMs per week"
-     ]
-    },
-    {
-     "heading": "Recognizing fecal impaction",
-     "body": "<p>Your slides list the manifestations of impaction. The most important, and the most tested, is the first:</p><p>• <strong>Passage of liquid, foul-smelling material in the absence of formed stool.</strong> Liquid stool from higher up in the colon <strong>seeps around the impaction</strong>.<br>• <strong>Rectal pain</strong><br>• <strong>Nonproductive results</strong>: repeated urges and straining with nothing passed<br>• <strong>Anorexia</strong> (loss of appetite)<br>• <strong>Abdominal distention</strong> and <strong>abdominal cramping</strong><br>• <strong>Nausea and vomiting</strong></p><p>This creates a classic trap. Staff see liquid stool and think \"diarrhea,\" then give an antidiarrheal, which makes the impaction worse. In a client with risk factors for constipation, liquid seepage without formed stool means <strong>assess for impaction first</strong> (history of last formed BM, abdominal exam, digital rectal exam per policy).</p>",
-     "analogy": "An impaction is like a boulder lodged in a stream. The water (liquid stool) can't push the boulder out, so it trickles around the edges. Seeing the trickle doesn't mean the stream is flowing well. It means something is blocking it.",
-     "example": "<strong>At the bedside:</strong> Mrs. H, 85, in long-term care, hasn't had a formed BM in 8 days. Today the aide reports \"diarrhea\": small amounts of brown, foul-smelling liquid leaking all day. She is not eating, her abdomen is distended, and she seems uncomfortable. This is impaction with seepage, not diarrhea. The nurse holds any antidiarrheal, assesses the abdomen, and notifies the provider to plan removal of the impaction.",
+     ],
+     "example": "Mrs. H, 85, in long-term care, has had no formed BM in 8 days. The aide reports 'diarrhea': small amounts of foul-smelling brown liquid all day. She is not eating, and her belly is distended. This is impaction with seepage. The nurse holds any antidiarrheal, assesses the abdomen, and notifies the provider.",
+     "analogy": "An impaction is like a boulder in a stream. The water can't push it out, so it trickles around the edges. The trickle doesn't mean the stream is flowing well. It means something is blocking it.",
      "check": {
-      "q": "Why would giving an antidiarrheal to a client with liquid stool seepage around an impaction be harmful?",
-      "a": "The liquid is leaking around a hard mass. Slowing the bowel further would worsen the impaction and raise colon pressure, increasing the risk of ulceration or perforation."
+      "q": "Why is an antidiarrheal harmful for liquid seepage around an impaction?",
+      "a": "The liquid is leaking around a hard mass. Slowing the bowel worsens the impaction and raises colon pressure, increasing the risk of ulcers or perforation."
      }
     },
     {
-     "heading": "Collaborative therapy: diet, fluid, behavior, and manual removal",
-     "body": "<p><strong>Education</strong> comes first. Your slides cite Box 5.7 (Dietary Management for Constipation):</p><p>• <strong>Fiber: 25 grams per day for females, 38 grams per day for males.</strong> Sources: <strong>whole grain cereals and bread, fresh fruit, and vegetables</strong>.<br>• <strong>Fluid</strong> with the fiber. Fiber works by holding water in the stool, so fiber without enough fluid can actually worsen constipation. Teach clients to add fiber gradually to limit gas and bloating.</p><p><strong>Behavior management</strong> (Box 5.8) has one goal: a <strong>bowel movement on a regular schedule</strong>.</p><p>• <strong>Positioning:</strong> sitting upright on a toilet or commode, leaning slightly forward, with feet supported (a footstool raises the knees into a squat-like position that straightens the rectum).<br>• <strong>Don't ignore the urge.</strong> Responding to the gastrocolic reflex after meals, especially breakfast, takes advantage of the body's natural timing.<br>• <strong>Relaxation</strong>, privacy, and unhurried time.<br>• <strong>Abdominal massage</strong> to stimulate movement.</p><p><strong>Manual removal</strong> is used when an impaction won't pass. Per your slides, the nurse <strong>breaks the impaction gently into smaller pieces to facilitate evacuation</strong>, then follows with an <strong>enema or suppository</strong>. Throughout, <strong>monitor the client for a vasovagal response</strong>. Stimulating the rectum can trigger the vagus nerve, causing <strong>bradycardia, hypotension, dizziness, sweating, or fainting</strong>. Check the pulse before and during, and stop the procedure if the heart rate drops or the client feels faint. Follow your facility's policy and orders, since many facilities require a provider order for manual disimpaction.</p>",
-     "check": {
-      "q": "During manual removal of an impaction, the client's pulse drops from 78 to 48 and he says he feels faint. What is happening, and what do you do?",
-      "a": "A vasovagal response from rectal stimulation. Stop the procedure, keep him lying down, monitor vital signs, and notify the provider."
-     }
-    },
-    {
-     "heading": "Pharmacologic therapy: laxatives and enemas",
-     "body": "<p>Your slides give three key rules for <strong>laxatives</strong>:</p>",
+     "heading": "How do fiber, fluid, and routine help?",
+     "keyIdea": "Fiber with plenty of fluid, activity, and a regular unhurried toilet time keep stool soft and moving.",
+     "body": "<p>Teaching comes first. Your slides cite Box 5.7 for diet and Box 5.8 for behavior.</p><p><b>Fiber:</b> 25 grams per day for women and 38 grams per day for men. Good sources are whole-grain cereals and bread, fresh fruit, and vegetables. Add fiber slowly to limit gas and bloating.</p><p><b>Fluid:</b> fiber works by holding water in stool. Fiber without enough fluid can make constipation worse. If fiber goes up and constipation gets worse, check fluid intake first.</p><p><b>Routine:</b> the goal is a BM on a regular schedule. Prevention from your slides is simple: fiber, fluids, exercise, don't ignore the urge, and don't overuse laxatives.</p>",
      "bullets": [
-      "<strong>Avoid prolonged use.</strong> The bowel becomes dependent.",
-      "<strong>Avoid for simple constipation</strong>, because laxatives <strong>interfere with normal bowel reflexes</strong>. Try fiber, fluid, activity, and habits first.",
-      "<strong>Do not use with a blockage or obstruction.</strong> Forcing the bowel to push against a blockage can cause perforation."
+      "Sit upright on a toilet or commode, lean slightly forward, and support the feet. A footstool raises the knees and straightens the rectum.",
+      "Respond to the urge. Toilet after meals, especially breakfast, to use the gastrocolic reflex.",
+      "Give privacy, relaxation, and unhurried time.",
+      "Use abdominal massage to stimulate movement.",
+      "Encourage regular activity, such as walking."
+     ],
+     "check": {
+      "q": "A client doubled her fiber but is more constipated. What do you check first?",
+      "a": "Her fluid intake. Fiber needs water. Without enough fluid, it can harden stool and worsen constipation."
+     }
+    },
+    {
+     "heading": "How do you remove an impaction safely?",
+     "keyIdea": "Break the stool up gently, follow with an enema or suppository, and watch the pulse for a vasovagal response.",
+     "body": "<p>Manual removal is used when an impaction won't pass. Many facilities require a provider order, so follow policy. Disimpaction stays with the nurse. It is not delegated to assistive personnel.</p><p>Stimulating the rectum can trigger the vagus nerve. This is a <b>vasovagal response</b>. It causes a slow heart rate, low blood pressure, dizziness, sweating, or fainting.</p>",
+     "steps": [
+      "Check the order and policy. Take a baseline pulse.",
+      "With a gloved, lubricated finger, gently break the impaction into smaller pieces.",
+      "Remove the pieces, and check the pulse throughout.",
+      "Stop at once if the heart rate drops or the client feels faint.",
+      "Follow with an enema or suppository, as ordered, to finish emptying."
+     ],
+     "check": {
+      "q": "During disimpaction, the client's pulse drops from 78 to 48, and he feels faint. What do you do?",
+      "a": "This is a vasovagal response. Stop the procedure, keep him lying flat, monitor vital signs, and notify the provider."
+     }
+    },
+    {
+     "heading": "When are laxatives and enemas safe?",
+     "keyIdea": "Use laxatives carefully and briefly, and never when a bowel blockage is suspected.",
+     "body": "<p>Your slides give three laxative rules. Before any PRN laxative, check the bowel history and abdomen. Vomiting, distention, and no gas suggest a blockage. Report it instead of giving a laxative.</p><p>For <b>opioid-induced constipation</b>, a stool softener alone usually is not enough. Expect a stimulant laxative such as senna to be added.</p>",
+     "bullets": [
+      "<b>Avoid long-term use.</b> The bowel becomes dependent.",
+      "<b>Avoid for simple constipation.</b> Laxatives interfere with normal bowel reflexes. Try fiber, fluid, activity, and routine first.",
+      "<b>Never use with a blockage or obstruction.</b> Forcing the bowel against a blockage can cause perforation."
      ],
      "table": {
-      "caption": "Bowel medications named on the slides",
       "headers": [
        "Product",
        "What it is",
@@ -960,94 +1277,152 @@ window.NURSE_DATA.push({
       ],
       "rows": [
        [
-        "<strong>Miralax</strong> (polyethylene glycol)",
-        "Osmotic laxative that holds water in the stool to soften it",
-        "Mixed in a full glass of liquid; may take 1–3 days to work"
+        "Miralax (polyethylene glycol)",
+        "Osmotic laxative that holds water in stool to soften it",
+        "Mix in a full glass of liquid; may take 1–3 days to work"
        ],
        [
-        "<strong>Milk and molasses enema</strong>",
-        "Large-volume enema that stimulates evacuation",
-        "Used for stubborn constipation or impaction; give per order and protocol"
+        "Milk and molasses enema",
+        "Large-volume enema that stimulates emptying",
+        "For stubborn constipation or impaction; give per order and protocol"
        ],
        [
-        "<strong>SMOG enema</strong>",
-        "<strong>S</strong>aline, <strong>M</strong>ineral <strong>O</strong>il, <strong>G</strong>lycerin",
-        "Softens, lubricates, and stimulates; used for severe constipation or impaction"
+        "SMOG enema",
+        "Saline, Mineral Oil, Glycerin",
+        "Softens, lubricates, and stimulates; for severe constipation or impaction"
        ],
        [
-        "Stool softeners (concept slides)",
-        "Let water mix into stool so it is easier to pass",
-        "Often paired with opioids to prevent constipation, but a softener alone usually isn't enough for opioid-induced constipation; a stimulant laxative such as senna is usually added"
+        "Stool softeners",
+        "Let water mix into stool so it passes more easily",
+        "Often paired with opioids, but a stimulant such as senna is usually added"
        ]
       ]
      },
-     "example": "<strong>At the bedside:</strong> The concept slides make the older-adult point bluntly: <strong>laxative use inhibits natural reflexes and may cause constipation rather than relieving it</strong>, so <strong>educate</strong>. A client who takes a stimulant laxative every night \"to stay regular\" needs teaching on fiber, fluids, activity, and responding to the urge, plus a plan with the provider to taper. A <strong>change in bowel habits over weeks</strong> should be referred to the primary care provider."
+     "example": "A client takes a stimulant laxative every night 'to stay regular.' The concept slides warn that laxative use blocks natural reflexes and may cause constipation instead of relieving it. The nurse teaches fiber, fluids, activity, and responding to the urge. The nurse works with the provider on a plan to taper. A change in bowel habits lasting weeks should be referred to the primary care provider."
     },
     {
-     "heading": "Lifespan: children and encopresis",
-     "body": "<p><strong>Infants</strong> normally have <strong>several bowel movements a day</strong>, and stool <strong>appearance may change when breast milk is changed to formula</strong>. A change in color or consistency alone isn't constipation.</p><p>Your slides say constipation is <strong>diagnosed in a child over 4 years</strong> who has had symptoms for <strong>1 month after being toilet trained</strong>, with <strong>at least 2</strong> of the following:</p><p>• <strong>2 or fewer stools per week</strong><br>• <strong>At least 1 episode of fecal incontinence per week</strong><br>• <strong>Excessive voluntary stool retention</strong> (withholding)<br>• <strong>Painful, hard bowel movements</strong><br>• <strong>A large mass in the rectum</strong><br>• <strong>Large-diameter stools that clog the toilet</strong></p><p><strong>Influences</strong> are <strong>physical</strong> (malformations, disease processes) and <strong>psychologic</strong>. The classic psychologic cycle is withholding: one painful BM makes the child hold stool, the stool dries and gets bigger, the next BM hurts more, and the child holds even harder. Children who are \"<strong>too busy</strong>\" playing also ignore the urge. <strong>Interventions:</strong> behavior modification, a <strong>scheduled routine</strong> for toilet sitting (after meals), diet (fiber, fluids), laxatives when prescribed, and regular activity.</p><p><strong>Encopresis</strong> is <strong>recurrent soiling by a child who should have achieved bowel control</strong>. It is usually the result of chronic constipation: liquid stool leaks around a large retained mass. Manifestations include constipation, withholding (\"too busy\"), small, hard, painful BMs, <strong>emotional withdrawal</strong>, and stress. Therapy includes family and child education, psychologic support, pharmacologic treatment, fiber, behavioral management, <strong>collaboration with teachers</strong> (bathroom access at school), and, importantly, <strong>consider abuse</strong>. Sudden soiling, withdrawal, and fear can be signs of maltreatment.</p>",
+     "heading": "Children and encopresis",
+     "keyIdea": "Painful stools make children hold stool, which makes the next stool worse; break the cycle without punishment.",
+     "body": "<p>Infants normally have <b>several BMs a day</b>. Stool may change when breast milk is switched to formula. A color or texture change alone is not constipation.</p><p>Your slides diagnose constipation in a child <b>over 4 years</b>, toilet trained, with symptoms for 1 month, and at least 2 of the bullets below. Causes can be physical (malformations, disease) or psychologic.</p><p>The classic cycle is <b>withholding</b>. One painful BM makes the child hold stool. It dries and grows, so the next BM hurts more. Children who are 'too busy' playing also ignore the urge. Treat with a toilet routine after meals, fiber, fluids, activity, behavior changes, and laxatives when ordered. Never punish.</p><p><b>Encopresis</b> is repeated soiling by a child who should have bowel control. Liquid stool leaks around a large retained mass. Signs include withholding, small hard painful BMs, withdrawal, and stress. Care includes family teaching, emotional support, medicine, fiber, behavior plans, and teachers (bathroom access at school). <b>Always consider abuse.</b></p>",
+     "bullets": [
+      "2 or fewer stools per week",
+      "At least 1 episode of fecal incontinence per week",
+      "Excessive stool withholding",
+      "Painful, hard BMs",
+      "A large mass in the rectum",
+      "Very large stools that clog the toilet"
+     ],
      "check": {
-      "q": "A 7-year-old has started soiling his underwear at school, has small, hard, painful BMs, and seems withdrawn. What condition fits, and what must the nurse keep in mind besides constipation?",
-      "a": "Encopresis. Besides treating constipation and involving family and teachers, the nurse must consider the possibility of abuse."
+      "q": "A 7-year-old has started soiling at school, has small, hard, painful BMs, and seems withdrawn. What fits, and what else must the nurse consider?",
+      "a": "Encopresis. Besides treating the constipation and involving family and teachers, the nurse must consider abuse. Safety comes first."
      }
     },
     {
-     "heading": "Lifespan: pregnancy and older adults",
-     "body": "<p><strong>Pregnancy:</strong> The <strong>growing uterus displaces the small intestine</strong>, which <strong>decreases motility</strong>. <strong>Increased progesterone</strong> relaxes smooth muscle and slows the gut. <strong>Prenatal vitamins containing iron</strong> harden stool. Straining and pressure lead to <strong>hemorrhoids</strong>. Teach fiber, fluids, and activity, and to report hemorrhoid pain or bleeding.</p><p><strong>Older adults:</strong> Your slides report constipation in <strong>24–50%</strong> of older adults. Contributing factors include <strong>impaired general health</strong>, <strong>increased medication use</strong>, <strong>decreased physical activity</strong>, <strong>poor dentition</strong> (hard to chew raw fruits and vegetables), a <strong>lack of fresh produce and bulk fiber</strong>, and <strong>self-limiting fluid intake</strong>, either to avoid urinary incontinence or because of reduced thirst. Notice the overlap with the bladder lesson: cutting fluids to prevent leaks causes constipation, and constipation worsens urinary incontinence and retention.</p><p>The slides also name <strong>perceived constipation</strong>: the belief that you've \"got to have a BM every day.\" Clients who believe this may overuse laxatives and create real dependence. Teach that normal ranges from 3 times a day to 3 times a week.</p>"
+     "heading": "Pregnancy and older adults",
+     "keyIdea": "Pregnancy slows the gut through the uterus, progesterone, and iron; older adults need teaching that a daily BM is not required.",
+     "body": "<p><b>Pregnancy:</b> the growing uterus pushes the small intestine aside and slows movement. Higher progesterone relaxes smooth muscle. Prenatal vitamins with iron harden stool. Straining leads to hemorrhoids. Teach fiber, fluids, and activity, and to report hemorrhoid pain or bleeding. Involve the provider instead of telling her to stop the vitamin.</p><p><b>Older adults:</b> constipation affects 24–50%. Causes include poor general health, more medicines, less activity, poor teeth, little fresh produce or fiber, and drinking less to avoid leaks or from low thirst. Cutting fluid to prevent bladder leaks causes constipation, and constipation worsens urinary problems.</p><p>Your slides also name <b>perceived constipation</b>, the belief that you must have a BM every day. These clients may overuse laxatives and create real dependence. Teach that normal ranges from 3 times a day to 3 times a week. In an older adult who can't report symptoms, new agitation and poor appetite with no stool for days call for a bowel assessment.</p>"
+    },
+    {
+     "heading": "Common traps",
+     "keyIdea": "The biggest trap is calling impaction seepage 'diarrhea'; the next is giving a laxative into a blockage.",
+     "body": "<p>Use this table to separate look-alikes.</p>",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Diarrhea vs. impaction seepage",
+        "Seepage is liquid, foul, with no formed stool in a client with constipation risks. Check for impaction first."
+       ],
+       [
+        "Simple constipation vs. obstruction",
+        "Vomiting, distention, and no gas suggest blockage. No laxatives. Report it."
+       ],
+       [
+        "More fiber vs. more fiber plus fluid",
+        "Fiber without water hardens stool. Always pair them."
+       ],
+       [
+        "Stool softener vs. stimulant for opioids",
+        "A softener alone usually fails. Expect senna or another stimulant."
+       ],
+       [
+        "Daily BM 'needed' vs. normal range",
+        "Normal is 3 a day to 3 a week. Daily laxatives backfire."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect questions that hide an impaction behind 'diarrhea' and ask for the first action.",
+     "body": "<p>Common patterns: spot impaction, choose teaching on fiber and fluid, pick safe disimpaction steps, and know when a laxative is unsafe. Delegation items: assistive personnel can help with scheduled toileting and privacy. Assessment, teaching, and disimpaction stay with the nurse.</p><p><b>Sample:</b> A client on opioids and iron has had no formed stool for 6 days. Today he has small amounts of foul liquid stool. What should the nurse do first? (A) Give the PRN loperamide (an antidiarrheal). (B) Assess for fecal impaction. (C) Collect a stool culture. (D) Restrict oral fluids.</p>",
+     "steps": [
+      "Read the stem: opioids, iron, 6 days with no formed stool, and now liquid stool.",
+      "What is it really asking? Is this true diarrhea or something hiding behind it?",
+      "Key cues: two constipating drugs, no formed stool, and liquid seepage point to impaction.",
+      "Why the others are wrong: loperamide slows the bowel and worsens impaction. A culture fits infection, not this pattern. Cutting fluids hardens stool more.",
+      "The answer is B. Assess: last formed BM, abdomen, and rectal exam per policy.",
+      "Reusable strategy: when a finding doesn't fit the history, assess for the hidden cause before treating the symptom."
+     ]
+    },
+    {
+     "heading": "Worked case: the quiet nursing home resident",
+     "keyIdea": "In a client who can't report symptoms, behavior changes may be the only sign of a bowel problem.",
+     "body": "<p>Mr. F, 88, has dementia and lives in long-term care. He takes an antidepressant and an antacid. For two days he has been agitated and eating little. His chart shows no BM for 5 days. His belly is distended, and he grimaces when it is touched.</p>",
+     "steps": [
+      "Recognize cues: no BM for 5 days, two constipating medicines, agitation, poor appetite, distention.",
+      "Analyze: he can't report pain, so agitation may be his way of showing discomfort. Suspect constipation or impaction.",
+      "Assess first: bowel sounds, belly exam, last formed stool, and a rectal exam per policy. Check for a full bladder too.",
+      "Act: report to the provider. If impacted, expect manual removal with pulse checks, then an enema or suppository.",
+      "Prevent: fiber and fluid, toileting after breakfast with feet supported, more activity, and a medicine review.",
+      "Evaluate: soft, formed stool on a regular schedule and calmer behavior."
+     ],
+     "check": {
+      "q": "Mr. F's family asks for a daily laxative 'so this never happens again.' What do you teach?",
+      "a": "Long-term laxatives make the bowel dependent and weaken reflexes. Fiber, fluid, activity, and a regular toilet time are safer. Any medicine plan is set with the provider."
+     }
     }
    ],
    "mnemonics": [
     {
-     "name": "Constipating meds: \"O-I-A-A-A\"",
+     "name": "Constipating meds: O-I-A-A-A",
      "text": "Opioids, Iron, Antihistamines, Antacids, Antidepressants."
     },
     {
      "name": "Fiber goals",
-     "text": "Women 25, men 38 grams a day. Think \"she's 25, he's 38.\""
+     "text": "Women 25, men 38 grams a day. Think 'she's 25, he's 38.'"
     }
    ],
    "pearls": [
-    "Liquid, foul-smelling stool with no formed stool in a constipated client = impaction until proven otherwise. Don't give an antidiarrheal.",
-    "Impaction can cause urinary retention, and both raise pressure on neighboring organs.",
+    "Impaction can cause urinary retention. Treating the bowel often fixes the bladder.",
     "Fiber needs fluid. Fiber without water can make constipation worse.",
-    "Never give laxatives when a bowel obstruction or blockage is suspected.",
-    "During manual removal, watch for a vasovagal response (bradycardia, hypotension, fainting) and stop if it occurs."
+    "Never give laxatives when a bowel obstruction is suspected.",
+    "During manual removal, watch for a vasovagal response and stop if it occurs."
    ],
    "redFlags": [
-    "A client with impaction who develops severe or sudden abdominal pain, a rigid abdomen, fever, or vomiting → suspect perforation or obstruction; stop any laxatives or enemas and notify the provider immediately.",
-    "Pulse drops sharply and the client feels faint or sweaty during digital stimulation or disimpaction → vasovagal response; stop, lay the client flat, monitor vital signs, and report it.",
-    "A child with new soiling, withdrawal, and fear around toileting → treat the constipation, but also consider abuse and follow reporting policy."
-   ],
-   "recap": [
-    "Constipation = fewer than 3 BMs per week or difficult passage; slow transit lets more water be absorbed → hard, dry stool.",
-    "Impaction = hardened mass in the rectum or colon → raised pressure → ulceration, perforation, reduced perfusion, urinary retention.",
-    "Risks: immobility, irregular habits, lack of privacy, laxative overuse, IBS, older adults, women, opioids, iron, antihistamines, antacids, antidepressants, anxiety or depression.",
-    "Rome IV (chronic): 2 or more of straining, lumpy or hard stool, incomplete emptying, manual maneuvers, fewer than 3 BMs per week, for at least 12 weeks.",
-    "Impaction clue: liquid, foul seepage without formed stool, plus rectal pain, distention, cramping, N/V, anorexia.",
-    "Therapy: fiber (25 g F / 38 g M) plus fluid, a regular schedule, positioning, abdominal massage; manual removal then enema or suppository (watch for vasovagal response).",
-    "Laxatives: avoid prolonged use and use for simple constipation, never with obstruction. Miralax, milk and molasses, SMOG.",
-    "Children: diagnose over age 4; withholding cycle; encopresis (consider abuse). Pregnancy: uterus, progesterone, iron, hemorrhoids. Older adults: 24–50%."
+    "Severe or sudden belly pain, a rigid abdomen, fever, or vomiting with an impaction: suspect perforation or obstruction. Stop laxatives and enemas, and notify the provider now.",
+    "Pulse drops and the client feels faint or sweaty during disimpaction: vasovagal response. Stop, lay flat, monitor vital signs, and report.",
+    "A child with new soiling, withdrawal, and fear around toileting: treat the constipation, but also consider abuse and follow reporting policy."
    ],
    "checks": [
     {
-     "q": "Explain in one sentence why stool becomes hard when it moves slowly.",
-     "a": "The colon keeps absorbing water from stool the whole time it sits there, so slower movement means more water is removed and the stool becomes dry and hard."
+     "q": "In one sentence, why does slow-moving stool become hard?",
+     "a": "The colon keeps absorbing water the whole time stool sits there, so slower movement means more water removed and harder stool."
     },
     {
-     "q": "What is the daily fiber goal for women and for men, and name two good sources.",
-     "a": "25 grams for women and 38 grams for men. Sources: whole grain cereals and bread, fresh fruit, vegetables."
+     "q": "What is the daily fiber goal for women and men? Name two good sources.",
+     "a": "25 grams for women and 38 grams for men. Sources: whole-grain cereals and bread, fresh fruit, and vegetables."
     },
     {
      "q": "Why do the slides say to avoid laxatives for simple constipation?",
-     "a": "They interfere with normal bowel reflexes, and long-term use can make the bowel dependent, worsening constipation."
+     "a": "They interfere with normal bowel reflexes, and long-term use can make the bowel dependent and worsen constipation."
     },
     {
-     "q": "Give three reasons an older adult is at high risk for constipation, per the slides.",
-     "a": "Any three: impaired general health, more medications, decreased activity, poor dentition, lack of fresh produce or fiber, self-limiting fluids (to avoid incontinence or from reduced thirst)."
-    },
-    {
-     "q": "What does SMOG stand for?",
-     "a": "Saline, mineral oil, glycerin, an enema used for severe constipation or impaction."
+     "q": "Infants switched from breast milk to formula have a change in stool color. Is this constipation?",
+     "a": "No. A change in color or texture after switching to formula is expected and is not constipation by itself."
     }
    ]
   },
@@ -1055,51 +1430,65 @@ window.NURSE_DATA.push({
    "id": "fecal-incontinence",
    "title": "Fecal Incontinence & the Bowel Nursing Process",
    "exemplar": "Bowel Incontinence, Constipation & Impaction",
-   "summary": "Fecal incontinence is loss of voluntary control of stool or gas. It is a sign of another problem (neurologic, traumatic, inflammatory, infectious, or cognitive), not a normal part of aging, and it is deeply distressing. The nurse assesses carefully, protects skin and dignity, sets measurable goals, and evaluates why goals were or weren't met.",
+   "summary": "Fecal incontinence is loss of control of stool or gas. It signals another problem, is not normal aging, and calls for careful assessment, skin care, and dignity.",
    "objectives": [
-    "After this lesson you can define fecal incontinence and tell partial from major incontinence.",
-    "Explain the etiology (sensory or motor interference from neurologic, traumatic, inflammatory, infectious, and physiologic or cognitive causes), the risk factors, and prevention.",
-    "Describe the surgical options on the slides: rectal prolapse care (including the topical sugar technique), anal sphincteroplasty, and colostomy.",
-    "Perform a focused bowel assessment using the slide cues for observation, interview, and physical exam.",
-    "Apply the nursing process: choose problems, write measurable patient-centered goals like those on the slides, and evaluate by exploring why goals were not met before changing the plan."
+    "You can define fecal incontinence and tell partial from major.",
+    "You can explain the causes, risk factors, and prevention.",
+    "You can describe the surgical options, including sugar for a swollen rectal prolapse.",
+    "You can do a focused, respectful bowel assessment.",
+    "You can write measurable goals and evaluate why a goal was not met."
    ],
-   "bigPicture": "<p>Few health problems are as embarrassing as losing control of your bowels. Clients with <strong>fecal incontinence</strong> often hide it. They wear dark clothes, stay home, skip meals before going out, and avoid friends. Your slides note it is <strong>emotionally distressing</strong> and leads to <strong>social isolation</strong>.</p><p>Like urinary incontinence, fecal incontinence is <strong>a manifestation of a disorder rather than a disorder itself</strong>. Something is interfering with the nerves, muscles, stool consistency, or the person's awareness. It is especially common in long-term care, where <strong>50–70% of nursing home residents</strong> are affected. This lesson also walks you through the <strong>nursing process</strong> for bowel problems: how to assess, which problems to identify, how to write goals, and how to evaluate. Those steps apply to constipation and impaction too.</p>",
+   "bigPicture": "<p>Few problems are as embarrassing as losing control of your bowels. Clients often hide it. They wear dark clothes, stay home, skip meals before going out, and avoid friends. Your slides note it is <b>emotionally distressing</b> and leads to <b>social isolation</b>.</p><p>Like urinary incontinence, fecal incontinence is a <b>sign of another disorder</b>, not a disorder itself. It is common in long-term care, where <b>50–70% of nursing home residents</b> have it. This lesson also walks through the nursing process for bowel problems: assess, name problems, write goals, and evaluate. Those steps work for constipation too.</p>",
+   "recap": [
+    "Fecal incontinence = loss of voluntary control of stool or gas. It is a sign of another problem, never normal aging.",
+    "Partial = can't control gas or minor soiling. Major = can't control stool of normal consistency.",
+    "Causes: neurologic (spinal cord injury), trauma, inflammatory, infection, and physiologic or cognitive (depression, confusion, dementia).",
+    "Risks: advanced age, female, smoking, high BMI. Prevention: activity, fiber, fluid, Kegels, no straining, treat the cause.",
+    "Rule out impaction with seepage before calling a client 'incontinent of liquid stool.'",
+    "Sugar on a swollen rectal prolapse shrinks it by osmosis. Sphincteroplasty repairs the sphincter. A colostomy diverts stool.",
+    "Clean skin promptly after every episode, pat dry, and apply a barrier.",
+    "Goals must be client-centered and measurable. If a goal is not met, find out why before changing the plan."
+   ],
    "keyTerms": [
     {
      "term": "Fecal incontinence",
-     "def": "Loss of voluntary control of fecal or gaseous matter through the anal sphincter."
+     "def": "Loss of voluntary control of stool or gas through the anal sphincter."
     },
     {
      "term": "Partial incontinence",
-     "def": "Inability to control flatus (gas) or prevent minor soiling."
+     "def": "Being unable to control gas (flatus) or prevent minor soiling."
     },
     {
      "term": "Major incontinence",
-     "def": "Inability to control feces of normal consistency."
+     "def": "Being unable to control stool of normal consistency."
     },
     {
      "term": "Anal sphincter",
-     "def": "The ring of muscles (internal and external) that keeps the anus closed until a person chooses to defecate."
+     "def": "The ring of muscles that keeps the anus closed until the person chooses to have a bowel movement."
     },
     {
      "term": "Rectal prolapse",
-     "def": "The rectum slides down and protrudes out through the anus."
+     "def": "The rectum slides down and sticks out through the anus."
+    },
+    {
+     "term": "Osmosis",
+     "def": "Water moving across tissue toward a stronger concentration, such as sugar. It pulls fluid out of swollen tissue."
     },
     {
      "term": "Anal sphincteroplasty",
-     "def": "Surgery that repairs a damaged anal sphincter muscle, used for fecal incontinence."
+     "def": "Surgery that repairs a damaged anal sphincter muscle so it can close tightly again."
     },
     {
      "term": "Colostomy",
-     "def": "A surgical opening that brings the colon out through the abdominal wall (a stoma), so stool drains into a pouch instead of through the anus."
+     "def": "A surgical opening that brings the colon out through the belly wall (a stoma). Stool drains into a pouch."
     },
     {
      "term": "Digital rectal exam (DRE)",
-     "def": "A gloved, lubricated finger is inserted into the rectum to check sphincter tone, stool, masses, and tenderness."
+     "def": "A gloved, lubricated finger checks the rectum for sphincter tone, stool, masses, and tenderness."
     },
     {
      "term": "Fissure",
-     "def": "A small tear in the lining of the anus that causes pain, especially with bowel movements."
+     "def": "A small tear in the lining of the anus. It hurts, especially with bowel movements."
     },
     {
      "term": "Hemorrhoids",
@@ -1112,15 +1501,16 @@ window.NURSE_DATA.push({
    ],
    "sections": [
     {
-     "heading": "What fecal incontinence is: partial vs. major",
-     "body": "<p>Your slides define fecal incontinence as the <strong>loss of voluntary control of fecal or gaseous matter</strong>. Note that gas counts. A client who can't hold flatus has a form of fecal incontinence.</p><p>The slides divide it by severity:</p><p>• <strong>Partial:</strong> the client can't control flatus or prevent <strong>minor soiling</strong> (staining of underwear).<br>• <strong>Major:</strong> the client can't control <strong>feces of normal consistency</strong>, so full, formed bowel movements are lost without warning or control.</p><p>It is common: <strong>50–70% of nursing home residents</strong> have it. The burden goes beyond the physical. It is <strong>emotionally distressing</strong> and causes <strong>social isolation</strong>, and caregivers may find it the hardest part of care. A client's fear of an accident can be as disabling as the accidents themselves.</p>",
-     "example": "<strong>At the bedside:</strong> Mr. O, 72, mentions he \"has to wear a pad because of gas and some staining\" but has never lost a full BM. This is <strong>partial</strong> incontinence. Mrs. N, after a stroke, passes normal formed stool in bed without awareness. This is <strong>major</strong> incontinence. Both deserve assessment for the cause, not just protective pads."
+     "heading": "What is fecal incontinence?",
+     "keyIdea": "Fecal incontinence is loss of control of stool or gas, and its severity is partial or major.",
+     "body": "<p>Your slides define fecal incontinence as the <b>loss of voluntary control of stool or gas</b>. Gas counts. A client who can't hold gas has a form of it.</p><p>The slides sort it by severity. In <b>partial</b> incontinence, the client can't control gas or prevent minor soiling (staining of underwear). In <b>major</b> incontinence, the client can't control stool of normal consistency.</p><p>The burden goes beyond the body. It is distressing and isolating, and caregivers may find it the hardest part of care. Fear of an accident can disable a client as much as the accidents do. It is common in older adults, but it is <b>never a normal part of aging</b>.</p>",
+     "example": "Mr. O, 72, wears a pad 'because of gas and some staining.' He has never lost a full BM. That is partial incontinence. Mrs. N, after a stroke, passes normal formed stool in bed without knowing it. That is major incontinence. Both deserve a search for the cause, not just pads."
     },
     {
-     "heading": "Etiology: why control is lost",
-     "body": "<p>Bowel control needs three things: <strong>sensation</strong> (feeling that the rectum is full), <strong>motor function</strong> (a sphincter strong enough to hold), and <strong>awareness and ability</strong> to respond. Your slides sum up the etiology as <strong>interference with sensory or motor control</strong>, from these causes:</p>",
+     "heading": "Why is bowel control lost?",
+     "keyIdea": "Control needs feeling, a strong sphincter, and the ability to respond; anything that interferes causes incontinence.",
+     "body": "<p>Bowel control needs three things. The client must feel that the rectum is full. The sphincter must be strong enough to hold. The client must notice the urge and be able to respond. Your slides sum up the cause as <b>interference with sensory or motor control</b>.</p>",
      "table": {
-      "caption": "Causes of fecal incontinence from the slides",
       "headers": [
        "Category",
        "Examples",
@@ -1130,149 +1520,222 @@ window.NURSE_DATA.push({
        [
         "Neurologic",
         "Spinal cord injury (also stroke, MS, diabetic nerve damage)",
-        "The \"rectum is full\" message doesn't reach the brain, or the brain can't control the sphincter."
+        "The 'rectum is full' message doesn't reach the brain, or the brain can't control the sphincter."
        ],
        [
         "Trauma",
-        "Childbirth injury, anal surgery, injury to the sphincter",
-        "The sphincter muscle is torn or weakened and can't close tightly."
+        "Childbirth injury, anal surgery, sphincter injury",
+        "The sphincter is torn or weak and can't close tightly."
        ],
        [
         "Inflammatory",
         "Inflammatory bowel conditions",
-        "Irritated bowel moves loose stool rapidly with strong urgency."
+        "An irritated bowel moves loose stool fast with strong urgency."
        ],
        [
         "Infection",
         "Infectious diarrhea",
-        "Large volumes of liquid stool overwhelm a normal sphincter."
+        "Large amounts of liquid stool overwhelm a normal sphincter."
        ],
        [
         "Physiologic or cognitive",
         "Depression, confusion, dementia",
-        "The client may not recognize or respond to the urge, or may lack the motivation to toilet."
+        "The client may not notice or respond to the urge, or may lack motivation to toilet."
        ]
       ]
      },
      "bullets": [
-      "The concept slides add <strong>masses</strong>, <strong>hemorrhoids</strong>, and <strong>deformity of the anus</strong> as causes.",
-      "<strong>Tip:</strong> Don't forget <strong>impaction</strong> from the constipation lesson. Liquid stool seeping around a hard mass looks like incontinence. Always ask when the last formed BM was."
+      "The concept slides also list masses, hemorrhoids, and a deformity of the anus.",
+      "Don't forget impaction. Liquid stool seeping around a hard mass looks like incontinence. Always ask when the last formed BM was."
      ],
      "check": {
-      "q": "A client with dementia has normal sphincter tone but is incontinent of formed stool several times a day. Which category of cause fits best, and what nursing approach does that suggest?",
-      "a": "A physiologic or cognitive cause: she doesn't recognize or act on the urge. Scheduled toileting (for example, after meals to use the gastrocolic reflex) and prompting are good approaches."
+      "q": "A client with dementia has normal sphincter tone but passes formed stool in bed several times a day. Which cause fits, and what approach helps?",
+      "a": "A cognitive cause: she doesn't notice or act on the urge. Scheduled toileting after meals, to use the gastrocolic reflex, plus prompting works better than sphincter exercises."
      }
     },
     {
-     "heading": "Risk factors and prevention",
-     "body": "<p>Your slides list these <strong>risk factors</strong>:</p><p>• <strong>Advanced age</strong>, but fecal incontinence is <strong>not a normal change of aging</strong><br>• <strong>Female</strong> (childbirth can injure the sphincter and pelvic floor)<br>• <strong>Smoking</strong><br>• <strong>BMI</strong>: overweight and obese individuals (extra abdominal pressure on the pelvic floor)</p><p>And these <strong>prevention</strong> measures:</p><p>• <strong>Regular physical activity</strong><br>• <strong>Fiber</strong> and <strong>fluid</strong>, which produce soft, formed stool that is easier to control than liquid stool and easier to pass than hard stool<br>• <strong>Kegel exercises</strong> to strengthen the pelvic floor and anal sphincter (the same exercise taught for the bladder)<br>• <strong>Avoid straining</strong>, which weakens the pelvic floor over time<br>• <strong>Treat the underlying cause</strong>, such as an infection</p>",
-     "analogy": "Soft, formed stool is the easiest kind for a sphincter to manage. Think of holding a soft ball in your hand versus holding water: you can grip a ball, but water slips through your fingers. That is why fiber helps both constipation and fecal incontinence. It \"bulks up\" liquid stool and softens hard stool."
+     "heading": "What raises risk, and what prevents it?",
+     "keyIdea": "Age, female sex, smoking, and high BMI raise risk; soft, formed stool and a strong pelvic floor prevent leaks.",
+     "body": "<p>Your slides list four risk factors. Advanced age is one, but fecal incontinence is still not a normal change of aging. Being female raises risk, because childbirth can injure the sphincter and pelvic floor. Smoking and a high BMI also raise risk. Extra belly weight presses on the pelvic floor. Dementia adds risk too.</p><p>Prevention is the bullet list below. Note that fiber helps both ways. It firms up liquid stool and softens hard stool.</p>",
+     "bullets": [
+      "Regular physical activity.",
+      "Fiber and fluid for soft, formed stool. It is easier to control than liquid stool and easier to pass than hard stool.",
+      "Kegel exercises to strengthen the pelvic floor and anal sphincter. It is the same exercise taught for the bladder.",
+      "Avoid straining, which weakens the pelvic floor over time.",
+      "Treat the underlying cause, such as an infection."
+     ],
+     "analogy": "Think of holding a soft ball versus holding water. You can grip a ball, but water slips through your fingers. Soft, formed stool is the easiest kind for a sphincter to hold."
     },
     {
-     "heading": "Surgery as a solution — and the sugar trick for rectal prolapse",
-     "body": "<p>When conservative care doesn't help, your slides list three options:</p><p><strong>Rectal prolapse — apply sugar!</strong> In rectal prolapse, part of the rectum slides out through the anus. A prolapsed rectum can become <strong>swollen (edematous)</strong>, which makes it hard to push back in. Ordinary <strong>granulated table sugar</strong> sprinkled on the prolapsed tissue works by <strong>osmosis</strong>. Sugar draws water out of the swollen tissue, the swelling shrinks, and the prolapse can then be gently <strong>reduced</strong> (pushed back in) by the provider. It is a simple, low-cost bedside measure used per provider direction. Surgical repair is the long-term fix for recurrent prolapse.</p><p><strong>Anal sphincteroplasty</strong> repairs a damaged anal sphincter, often torn during childbirth, so it can close tightly again. It is a surgery specifically for <strong>fecal incontinence</strong>.</p><p><strong>Colostomy</strong> diverts stool through a stoma on the abdomen into a pouch. For a client with severe incontinence that nothing else controls, a colostomy can restore predictability and dignity, so they can manage a pouch instead of constant accidents.</p>",
-     "analogy": "The sugar works like sugar sprinkled on sliced strawberries. Within minutes the berries sit in their own juice because the sugar pulled water out of them. Swollen prolapsed tissue gives up its extra water the same way and shrinks enough to slip back in.",
+     "heading": "Which procedures and surgeries help?",
+     "keyIdea": "Sugar shrinks a swollen rectal prolapse; sphincteroplasty repairs the muscle; a colostomy diverts stool.",
+     "body": "<p>When basic care doesn't help, your slides list three options.</p><p><b>Rectal prolapse: apply sugar.</b> Part of the rectum slides out through the anus and can swell. Swollen tissue is hard to push back in. Plain table sugar on the tissue works by <b>osmosis</b>. It pulls water out, the swelling shrinks, and the provider can gently push it back in. It is a simple bedside step used per provider direction. Surgical repair is the long-term fix if it keeps happening.</p><p><b>Anal sphincteroplasty</b> repairs a damaged sphincter, often torn during childbirth, so it can close tightly. It is a surgery specifically for fecal incontinence.</p><p><b>Colostomy</b> sends stool out through a stoma on the belly into a pouch. For severe incontinence nothing else controls, it can restore predictability and dignity. If a client reacts with strong emotion to the idea, reflect the feeling and explore the concern before teaching.</p>",
+     "analogy": "Sugar on a prolapse works like sugar on sliced strawberries. Soon the berries sit in their own juice, because sugar pulled water out. Swollen tissue gives up its extra water the same way.",
      "check": {
-      "q": "Why would sugar be applied to a swollen rectal prolapse?",
-      "a": "Sugar draws fluid out of the edematous tissue by osmosis, which reduces swelling so the prolapse can be gently reduced."
+      "q": "Why is sugar applied to a swollen rectal prolapse?",
+      "a": "Sugar draws fluid out of the swollen tissue by osmosis. The swelling shrinks, so the prolapse can be gently pushed back in."
      }
     },
     {
-     "heading": "Nursing process: assessment",
-     "body": "<p>Clients rarely announce, \"I have fecal incontinence.\" The nurse picks up clues. Your slides organize assessment into observation and interview, then physical exam.</p><p><strong>Observation and interview:</strong></p><p>• <strong>Frequent requests for bathroom breaks</strong>, <strong>fecal odor</strong>, <strong>soiled clothing</strong><br>• The client seems <strong>distracted or anxious</strong>, always watching for the nearest bathroom<br>• Ask about the <strong>extent, onset, and duration</strong> of the problem: how often, how much, gas or stool, since when<br>• <strong>Medical and familial history</strong> (births, surgeries, neurologic disease, bowel disease)<br>• <strong>Exercise, nutrition, hydration, cognitive function, BMI, and smoking history</strong>, which tie directly back to the risk factors and prevention</p><p><strong>Physical exam:</strong></p><p>• Palpate for a <strong>firm, tender abdomen</strong>, which can suggest retained stool or impaction<br>• Auscultate <strong>bowel sounds</strong>. The concept slides remind you to <strong>auscultate before palpating</strong>, because palpation can change peristalsis.<br>• <strong>Internal and external examination</strong>: inspect for <strong>hemorrhoids, fissures, and skin breakdown</strong>, and a <strong>digital rectal exam</strong> per role and policy to check sphincter tone and stool in the rectum</p>",
+     "heading": "How do you assess bowel control?",
+     "keyIdea": "Watch for hidden clues, ask directly but kindly, and examine the abdomen and perianal skin.",
+     "body": "<p>Clients rarely say, 'I have fecal incontinence.' The nurse picks up clues. Elimination problems need more direct questions than other topics, because clients are shy to bring them up. Normalize it first: 'Many people have trouble controlling gas or stool. Has that happened to you?'</p><p>The concept slides remind you to <b>listen to bowel sounds before you palpate</b>. Touching the belly can change bowel activity.</p>",
      "bullets": [
-      "<strong>Tip:</strong> Ask direct but respectful questions. The concept slides note that elimination problems require more direct questioning than other health problems because clients are reluctant to bring them up. Something like \"Many people have trouble controlling gas or stool. Has that happened to you?\" works well."
+      "<b>Observe:</b> frequent requests for bathroom breaks, fecal odor, soiled clothing, and a client who seems distracted or anxious.",
+      "<b>Interview:</b> the extent, onset, and duration. How often, how much, gas or stool, and since when?",
+      "<b>History and lifestyle:</b> births, surgeries, nerve or bowel disease, family history, exercise, diet, fluids, thinking, BMI, and smoking.",
+      "<b>Abdomen:</b> listen to bowel sounds, then palpate. A firm, tender belly can mean retained stool.",
+      "<b>Perianal exam:</b> look for hemorrhoids, fissures, and skin breakdown. A DRE checks sphincter tone and stool, per role and policy."
      ],
-     "example": "<strong>At the bedside:</strong> During an admission interview, a 60-year-old client excuses herself to the bathroom three times in 30 minutes and keeps glancing at the door. The nurse privately and kindly asks about bowel control. She shares that she has had accidents since a difficult delivery years ago and has stopped seeing friends. The nurse documents the onset and frequency, checks the perianal skin, asks about smoking and diet, and notes the social isolation as a problem to address."
+     "example": "During an admission interview, a 60-year-old client goes to the bathroom three times in 30 minutes and keeps glancing at the door. The nurse kindly asks about bowel control in private. She shares she has had accidents since a hard delivery years ago and has stopped seeing friends. The nurse documents onset and frequency, checks her skin, asks about smoking and diet, and notes the isolation as a problem."
     },
     {
-     "heading": "Nursing process: problem list and planning",
-     "body": "<p>Your slides list these nursing problems for clients with bowel alterations:</p><p>• <strong>Fecal incontinence</strong><br>• <strong>Constipation</strong><br>• <strong>Impaired GI motility</strong><br>• <strong>Diarrhea</strong><br>• <strong>Inability to perform toileting</strong><br>• <strong>Impaired skin integrity</strong>: stool, especially liquid stool, contains enzymes and bacteria that quickly break down the skin<br>• <strong>Low self-esteem</strong>: the emotional burden is a real nursing problem</p><p><strong>Planning</strong> uses a <strong>patient-centered approach</strong>. Goals are set with the client and must be specific and measurable. Your slides give these examples:</p>",
+     "heading": "Which problems and goals fit?",
+     "keyIdea": "Name the nursing problems, then write client-centered goals with a clear result and a number or time.",
+     "body": "<p>Your slides list these nursing problems for bowel changes: fecal incontinence, constipation, impaired GI motility, diarrhea, inability to toilet, <b>impaired skin integrity</b>, and <b>low self-esteem</b>. Liquid stool contains enzymes and bacteria that break skin down quickly.</p><p>Set priorities with ABCs and safety. With diarrhea and incontinence, signs of fluid loss come first. Open skin comes before psychosocial needs.</p><p>Planning is <b>client-centered</b>. Goals are set with the client. Each names the client, an observable result, and a number or time frame. 'Client will have better bowels' can't be measured. The slide goals below can.</p>",
      "bullets": [
-      "Client will have a soft, formed BM <strong>within 4 hours of receiving a laxative</strong>.",
-      "Client will have a soft, formed stool <strong>3 times per week</strong>.",
-      "Client will <strong>list 4 foods high in fiber</strong>.",
-      "Client will <strong>engage in regular exercise</strong>.",
-      "Client will maintain <strong>perineal hygiene</strong> (intact perianal skin).",
-      "Client will <strong>identify strategies to maintain social interactions</strong>."
+      "Client will have a soft, formed BM within 4 hours of receiving a laxative.",
+      "Client will have a soft, formed stool 3 times per week.",
+      "Client will list 4 foods high in fiber.",
+      "Client will engage in regular exercise.",
+      "Client will maintain perineal hygiene (intact perianal skin).",
+      "Client will identify strategies to maintain social interactions."
      ],
-     "example": "<strong>At the bedside:</strong> Notice that each goal names <em>who</em> (the client), <em>what</em> (soft formed stool, list foods), and <em>how much or when</em> (3 times per week, 4 foods, within 4 hours). \"Client will have better bowels\" can't be measured; \"Client will have a soft, formed stool 3 times per week\" can. Also notice the social goal. Helping the client plan outings (knowing where restrooms are, carrying a change of clothes, scheduling toileting before leaving) treats the isolation, not just the stool.",
      "check": {
-      "q": "Rewrite this goal to be measurable: \"Client will understand fiber.\"",
-      "a": "For example: \"Client will list 4 foods high in fiber before discharge.\""
+      "q": "Rewrite this goal to be measurable: 'Client will understand fiber.'",
+      "a": "For example: 'Client will list 4 foods high in fiber before discharge.'"
      }
     },
     {
-     "heading": "Implementation highlights: skin, schedule, and dignity",
-     "body": "<p>Drawing on the slides' problem list, prevention points, and the concept slides' independent interventions (fluid and fiber, bowel training, pelvic floor exercises, personal hygiene), core nursing actions are:</p>",
+     "heading": "What does daily care look like?",
+     "keyIdea": "Protect the skin after every episode, toilet on a schedule, and protect the client's dignity.",
+     "body": "<p>These actions come from the problem list and the concept slides' nurse-led care: fiber and fluid, bowel training, pelvic floor exercises, and hygiene. Clean the client promptly after each episode. Waiting for a scheduled check lets stool damage the skin.</p><p>Do not limit fluids for a client with loose stool. Help clients stay social with planning: toilet before leaving, know where restrooms are, and carry a change of clothes.</p>",
      "bullets": [
-      "<strong>Protect the skin:</strong> cleanse promptly and gently after each episode with a pH-balanced cleanser, pat dry, and apply a moisture barrier. Inspect the perianal and sacral skin every shift.",
-      "<strong>Bowel training:</strong> offer the toilet or commode at the same time each day, often 20–30 minutes after a meal to use the gastrocolic reflex.",
-      "<strong>Normalize stool consistency</strong> with fiber and fluids.",
-      "<strong>Teach Kegel exercises</strong> to strengthen the sphincter.",
-      "<strong>Ensure access:</strong> call light within reach, prompt response, bedside commode, easy-to-remove clothing.",
-      "<strong>Protect dignity:</strong> use matter-of-fact, kind language. Never scold. Use the words \"briefs\" or \"protective underwear,\" not \"diapers.\""
+      "<b>Skin:</b> cleanse gently with a pH-balanced cleanser, pat dry, and apply a moisture barrier. Inspect perianal and sacral skin every shift.",
+      "<b>Bowel training:</b> offer the toilet at the same time daily, often 20–30 minutes after a meal, to use the gastrocolic reflex.",
+      "<b>Stool:</b> use fiber and fluid for soft, formed stool.",
+      "<b>Strength:</b> teach Kegel exercises.",
+      "<b>Access:</b> call light in reach, fast response, bedside commode, and clothing that is easy to remove.",
+      "<b>Dignity:</b> use calm, kind words. Never scold. Say 'briefs' or 'protective underwear,' not 'diapers.'"
      ]
     },
     {
-     "heading": "Nursing process: evaluation",
-     "body": "<p>Evaluation asks: did the plan work? Your slides add an important rule: <strong>explore the reasons goals are not met before modifying the plan</strong>. Don't just swap interventions; find out what got in the way. The slides list the questions to ask:</p>",
+     "heading": "How do you evaluate the plan?",
+     "keyIdea": "A goal is met only when the data match every part of it; if it is not met, find out why first.",
+     "body": "<p>Evaluation asks, did the plan work? Compare the data with every part of the goal. Your slides add a key rule: <b>explore the reasons goals are not met before changing the plan</b>. Do not just swap in a new treatment or lower the goal. Find and fix what got in the way. Your textbook's Patient Teaching: Fecal Elimination (p. 358) can help.</p>",
      "bullets": [
-      "Have <strong>bowel habits improved</strong>?",
-      "Are the client's <strong>fluid intake and diet appropriate</strong>?",
-      "Is the <strong>activity level appropriate</strong>?",
-      "What <strong>obstacles</strong> exist (cost of fresh food, poor dentition, lack of help, a new constipating medication)?",
-      "Were <strong>sufficient education and support</strong> provided? (Your textbook's Patient Teaching: Fecal Elimination, p. 358, is a resource.)"
+      "Have bowel habits improved?",
+      "Are fluid intake and diet right?",
+      "Is the activity level right?",
+      "What obstacles exist? Examples: cost of fresh food, poor teeth, no help, or a new constipating medicine.",
+      "Were enough teaching and support given?"
      ],
-     "example": "<strong>At the bedside:</strong> A goal of \"soft, formed stool 3 times per week\" was not met. Before adding a laxative, the nurse explores and learns the client stopped eating the high-fiber cereal because her dentures hurt and she has been drinking very little to avoid bladder leaks. The real fixes are a dental referral, softer high-fiber foods, and spacing fluids through the day, not simply more medication.",
+     "example": "A goal of 'soft, formed stool 3 times per week' was not met. Before adding a laxative, the nurse asks why. The client stopped eating her high-fiber cereal because her dentures hurt. She also drinks very little to avoid bladder leaks. The real fixes are a dental referral, softer high-fiber foods, and spacing fluids through the day.",
      "check": {
-      "q": "According to the slides, what should the nurse do first when a bowel goal is not met?",
-      "a": "Explore the reasons the goal wasn't met (diet, fluids, activity, obstacles, education and support) before modifying the plan."
+      "q": "What should the nurse do first when a bowel goal is not met?",
+      "a": "Explore why: diet, fluids, activity, obstacles, and teaching and support. Then change the plan to fix the obstacle found."
+     }
+    },
+    {
+     "heading": "Common traps",
+     "keyIdea": "Don't confuse impaction seepage with incontinence, or comfort with priority.",
+     "body": "<p>These look-alikes trip up many students.</p>",
+     "table": {
+      "headers": [
+       "Look-alike",
+       "How to tell them apart"
+      ],
+      "rows": [
+       [
+        "Partial vs. major",
+        "Partial: gas or minor soiling. Major: can't control normal stool."
+       ],
+       [
+        "True incontinence vs. impaction seepage",
+        "Seepage: liquid, no formed stool for days, constipating drugs, rectal pain. Check for impaction."
+       ],
+       [
+        "Sphincteroplasty vs. colostomy",
+        "Sphincteroplasty repairs the muscle. A colostomy diverts stool to a pouch."
+       ],
+       [
+        "Cognitive cause vs. weak sphincter",
+        "Dementia with normal tone needs scheduled toileting, not sphincter exercises."
+       ],
+       [
+        "Goal not met: change plan vs. explore",
+        "Explore the reason first, then fix that obstacle."
+       ],
+       [
+        "Skin vs. emotions: which first?",
+        "Fluid loss, then open skin, then psychosocial needs."
+       ]
+      ]
+     }
+    },
+    {
+     "heading": "How the NCLEX tests this",
+     "keyIdea": "Expect items on hidden clues, measurable goals, priority setting, and the 'explore first' rule.",
+     "body": "<p>Common patterns: spot hidden incontinence, choose a measurable goal, set priorities, and evaluate. Red-flag items appear too. New fecal incontinence with new back pain or leg weakness suggests spinal cord compression.</p><p><b>Sample:</b> Which goal is best for a client with fecal incontinence? (A) Client will have better bowel control. (B) Client will have a soft, formed stool 3 times per week. (C) Nurse will teach about fiber. (D) Client will understand the bowel program.</p>",
+     "steps": [
+      "Read the stem: it asks for the best goal statement.",
+      "What is it really asking? Which goal is client-centered and measurable?",
+      "Key cues: a good goal names the client, an observable result, and a number or time.",
+      "Why the others are wrong: A has no measure. C is a nurse action, not a client goal. D uses 'understand,' which can't be observed.",
+      "The answer is B. It names the client, the result, and how often.",
+      "Reusable strategy: pick goals you could check with your eyes and a number."
+     ]
+    },
+    {
+     "heading": "Worked case: diarrhea, skin, and shame",
+     "keyIdea": "Treat the most dangerous problem first, then the skin, then the emotional needs.",
+     "body": "<p>Mrs. Q, 74, has infectious diarrhea and is incontinent of liquid stool 8 times today. She is dizzy when she stands, and her mouth is dry. Her perianal skin is red and open in one spot. She cries and says, 'I'm so ashamed. I'm like a baby.'</p>",
+     "steps": [
+      "Recognize cues: frequent liquid stool, dizziness, dry mouth, open skin, and distress.",
+      "Analyze: the cause is infection. Dizziness and dry mouth suggest fluid loss.",
+      "Prioritize: fluid volume deficit first. Report it, monitor vital signs, and support fluids. Do not limit fluids.",
+      "Next, the skin: clean promptly after each episode, pat dry, apply a barrier, and inspect every shift.",
+      "Then dignity: use calm words, say 'briefs,' not 'diapers,' and let her talk about her feelings.",
+      "Evaluate: steady vital signs, healing skin, and fewer episodes as the infection is treated."
+     ],
+     "check": {
+      "q": "Why does fluid loss come before her emotional distress?",
+      "a": "Fluid loss can quickly become unsafe, causing falls and low blood pressure. Physical safety needs come first, then skin, then psychosocial needs."
      }
     }
    ],
    "pearls": [
     "Fecal incontinence is a symptom of another problem and is NOT a normal change of aging.",
-    "Partial = gas or minor soiling. Major = can't control feces of normal consistency.",
-    "Before labeling a client \"incontinent of liquid stool,\" rule out impaction with seepage.",
-    "Rectal prolapse + sugar: osmosis pulls fluid from swollen tissue so the prolapse can be reduced.",
-    "Goals must be measurable (3 times per week, 4 fiber foods, within 4 hours), and if they're not met, find out why before changing the plan."
+    "Partial = gas or minor soiling. Major = can't control stool of normal consistency.",
+    "Before labeling a client 'incontinent of liquid stool,' rule out impaction with seepage.",
+    "Rectal prolapse plus sugar: osmosis pulls fluid from swollen tissue so the prolapse can be reduced.",
+    "Goals must be measurable. If one is not met, find out why before changing the plan."
    ],
    "redFlags": [
-    "New fecal incontinence with new back pain, leg weakness or numbness, or loss of bladder control → possible spinal cord compression; report it immediately.",
-    "Red, weeping, or open perianal or sacral skin in an incontinent client → impaired skin integrity is developing; intensify cleansing and barrier care and report it per wound-care protocol.",
-    "A prolapsed rectum that turns dark red, purple, or black, or is severely painful → its blood supply may be compromised; notify the provider urgently."
-   ],
-   "recap": [
-    "Fecal incontinence = loss of voluntary control of stool or gas; a manifestation of another disorder; 50–70% of nursing home residents.",
-    "Partial (gas or minor soiling) vs. major (normal-consistency feces); emotionally distressing → social isolation.",
-    "Etiology: sensory or motor interference — neurologic (SCI), trauma, inflammatory, infection, physiologic (depression, confusion, dementia).",
-    "Risks: advanced age (not normal aging), female, smoking, high BMI. Prevention: activity, fiber, fluid, Kegels, avoid straining, treat the cause.",
-    "Surgery: rectal prolapse (apply sugar to shrink swelling), anal sphincteroplasty, colostomy.",
-    "Assessment: bathroom requests, odor, soiling, anxiety; extent, onset, duration; history and lifestyle; abdomen, bowel sounds, hemorrhoids, fissures, skin, DRE.",
-    "Problems include fecal incontinence, constipation, impaired motility, diarrhea, inability to toilet, impaired skin integrity, low self-esteem.",
-    "Goals are patient-centered and measurable. Evaluate by exploring why goals weren't met before modifying."
+    "New fecal incontinence with new back pain, leg weakness or numbness, or loss of bladder control: possible spinal cord compression. Report it at once.",
+    "Red, weeping, or open perianal or sacral skin: impaired skin integrity is developing. Step up cleansing and barrier care, and report per wound-care protocol.",
+    "A prolapsed rectum that turns dark red, purple, or black, or is very painful: its blood supply may be cut off. Notify the provider urgently."
    ],
    "checks": [
     {
-     "q": "A client can't hold gas and has occasional staining but controls formed stool. Partial or major fecal incontinence?",
-     "a": "Partial: inability to control flatus or prevent minor soiling."
+     "q": "A client can't hold gas and has occasional staining but controls formed stool. Partial or major?",
+     "a": "Partial: unable to control gas or prevent minor soiling."
     },
     {
      "q": "List four risk factors for fecal incontinence from the slides.",
      "a": "Advanced age, female sex, smoking, and being overweight or obese (high BMI)."
     },
     {
-     "q": "Which surgery on the slides is specifically for repairing the muscle that keeps the anus closed?",
+     "q": "Which surgery repairs the muscle that keeps the anus closed?",
      "a": "Anal sphincteroplasty."
     },
     {
-     "q": "Name three observation cues on the assessment slide that suggest a client may have fecal incontinence.",
-     "a": "Frequent requests for bathroom breaks, fecal odor, soiled clothing, and appearing distracted or anxious."
+     "q": "Name three observation clues that suggest a client may have fecal incontinence.",
+     "a": "Any three: frequent bathroom requests, fecal odor, soiled clothing, and seeming distracted or anxious."
     },
     {
-     "q": "Why is \"low self-esteem\" on the problem list for fecal incontinence?",
-     "a": "Fecal incontinence is emotionally distressing and leads to embarrassment and social isolation, so the psychosocial impact is a real nursing problem to address."
+     "q": "Why is 'low self-esteem' on the problem list?",
+     "a": "Fecal incontinence is distressing and leads to embarrassment and isolation, so the emotional impact is a real nursing problem."
     }
    ]
   }

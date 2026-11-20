@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { MODULES, QUESTIONS, topicKey } from '../data';
+import { QUESTIONS, topicKey, UNITS, unitModules } from '../data';
 import { Icon } from '../components/Icon';
 import { Bar, CountUp, Modal, Ring, stagger, toast } from '../components/ui';
 import { groupStats, recordsFromAttempts, statusOf, streak, type Dimension } from '../lib/analytics';
@@ -93,8 +93,11 @@ export function ProgressPage() {
         <div className="section-head">
           <h2>By module</h2>
         </div>
-        <div className="grid grid-2">
-          {MODULES.map((m) => {
+        {UNITS.map((u) => (
+          <div key={u.slug} className="curriculum-group">
+            <h3 className="curriculum-title">{u.title}</h3>
+            <div className="grid grid-2">
+          {unitModules(u).map((m) => {
             const seen = m.questions.filter((q) => statusOf(attempts, q.id) !== 'new');
             const recs = records.filter((r) => r.q.moduleId === m.id);
             const a = recs.length ? recs.reduce((s, r) => s + r.score, 0) / recs.length : 0;
@@ -131,7 +134,9 @@ export function ProgressPage() {
               </div>
             );
           })}
-        </div>
+            </div>
+          </div>
+        ))}
       </section>
 
       <section className="section">
